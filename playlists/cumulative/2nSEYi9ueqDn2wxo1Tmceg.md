@@ -2,9 +2,9 @@
 
 ### [Domino Sound System](https://open.spotify.com/playlist/2nSEYi9ueqDn2wxo1Tmceg)
 
-> Domino present you with their selection of the best independent music around\. Enjoy! Cover: Ela Minus
+> Domino present you with their selection of the best independent music around\. Enjoy! Cover: Avey Tare
 
-949 songs - 2 day 17 hr 30 min
+950 songs - 2 day 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Dangerous \- Sunrise Hwy Nefarious Remix](https://open.spotify.com/track/5LIrGkAdcpD9WFmls8Rh5v) | [HARD FEELINGS](https://open.spotify.com/artist/62leN9NRMUgDfPzshm7K5L), [Rye Rye](https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu), [Bruiser Wolf](https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67), [Sunrise HWY](https://open.spotify.com/artist/0AqA7mKVnVknv8YM5BdYOt) | [Dangerous \(Remix\)](https://open.spotify.com/album/3aEBYSe6VzYRi6NQzhQJcB) | 5:42 | 2023-02-22 | 2023-04-06 |
 | [Dans Le Noir](https://open.spotify.com/track/06hyoSwYQnfEBdrJvCnSO9) | [Free Love](https://open.spotify.com/artist/0bec5c6VO67VhJrdZ5xPOs) | [Dans Le Noir](https://open.spotify.com/album/5fSth5j8Ei1daXZIca5ICF) | 4:45 | 2023-02-15 | 2023-03-23 |
 | [Date Night](https://open.spotify.com/track/7zQkwd2nzVq1EYn2bxkuyo) | [White Lung](https://open.spotify.com/artist/2iT2Fmot4VzWgdOTgp3j9M) | [Date Night / Tomorrow](https://open.spotify.com/album/6cdTXq7XYRn3E8Mk68ep0G) | 2:54 | 2022-09-20 | 2022-10-21 |
+| [Davies and Wales](https://open.spotify.com/track/5eNdtVT6h1Sr7Q6xdv5Ptu) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [POPtical Illusion](https://open.spotify.com/album/4Y47DeNLz30h7AyLtGdqtT) | 4:15 | 2024-06-14 |  |
 | [Dawn](https://open.spotify.com/track/6uc0M6efmcbQ3bfLON729b) | [Warmth](https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d) | [The Night](https://open.spotify.com/album/6HyYMwVYkef8Yjb02Kjmuh) | 3:56 | 2022-06-08 | 2022-07-14 |
 | [Dawn in the Adan \- live at Milton Court, London, 2022](https://open.spotify.com/track/6opCAf3NTAozLeYnz5psUr) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs), [12 Ensemble](https://open.spotify.com/artist/2em3FOAFG3NssO0tWItWuj) | [Ichiko Aoba with 12 Ensemble \(Live at Milton Court\)](https://open.spotify.com/album/1SidH7S63wfa5po9dN76Zz) | 6:00 | 2023-04-19 | 2023-05-18 |
 | [Death and the Lady](https://open.spotify.com/track/4EaK0pFWTCIgdpY5JObxPp) | [Landless](https://open.spotify.com/artist/0JTmD0zEsAkXkpQcJOuKjD) | [Death and the Lady](https://open.spotify.com/album/3yI1n33Vr05wh6gU22BD6M) | 4:43 | 2024-06-05 |  |

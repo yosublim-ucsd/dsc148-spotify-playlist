@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: Ariel Donato, TOKIODK, Tz da Coronel",
+  "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: Derxan",
   "name": "Presen\u00e7a Hip Hop",
   "tracks": [
     {
@@ -2484,7 +2484,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 140571,
       "name": "Carro Blindado",
       "url": "https://open.spotify.com/track/3x9MTBLnofIOdvQSzb9cqL"
@@ -4418,7 +4418,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 213371,
       "name": "Do Outro Lado da Rua",
       "url": "https://open.spotify.com/track/1S8G824p1aG9KH8zRuKotf"
@@ -4628,7 +4628,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 150000,
       "name": "EGO",
       "url": "https://open.spotify.com/track/2CQmoEqT9KLMXcQCfN1FH6"
@@ -8383,6 +8383,36 @@
     },
     {
       "album": {
+        "name": "MALUCA",
+        "url": "https://open.spotify.com/album/7bZwvgiugB2hMpxZhxe5U2"
+      },
+      "artists": [
+        {
+          "name": "Derxan",
+          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        },
+        {
+          "name": "Mindu",
+          "url": "https://open.spotify.com/artist/3shZdnoMWegcOdZUPuMXhB"
+        },
+        {
+          "name": "Isis Orbelli",
+          "url": "https://open.spotify.com/artist/4rflqymMDgNe10ldH5lGCY"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136438,
+      "name": "MALUCA",
+      "url": "https://open.spotify.com/track/46RBD4tbMQorO5HH1yYgfz"
+    },
+    {
+      "album": {
         "name": "RATO DE ESGOTO",
         "url": "https://open.spotify.com/album/4wJOSGqWoihcqNie0h4HJq"
       },
@@ -9552,6 +9582,32 @@
       "duration_ms": 240274,
       "name": "Nathalina",
       "url": "https://open.spotify.com/track/39KW45pJsJwZugxiFpx340"
+    },
+    {
+      "album": {
+        "name": "NAVE",
+        "url": "https://open.spotify.com/album/2a3E5uCRivtqyEWToSXVqY"
+      },
+      "artists": [
+        {
+          "name": "Febem",
+          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156350,
+      "name": "NAVE",
+      "url": "https://open.spotify.com/track/7gjhc84DGkAIqvbhR5qJ5L"
     },
     {
       "album": {
@@ -11504,7 +11560,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 96000,
       "name": "Perfil #93 - Vers\u00edculo 1",
       "url": "https://open.spotify.com/track/1Ta53AM8Vrd7WHpBid85su"
@@ -14574,7 +14630,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 196106,
       "name": "SP Capital",
       "url": "https://open.spotify.com/track/27mibYlhKxG500N1HIyHy9"
@@ -14656,6 +14712,28 @@
       "duration_ms": 153070,
       "name": "Suco de Gangorra",
       "url": "https://open.spotify.com/track/40I4pXPRbnM99j81YLP9c6"
+    },
+    {
+      "album": {
+        "name": "Super Daddy",
+        "url": "https://open.spotify.com/album/6jWWyCaymHU5Dm2xZzNek7"
+      },
+      "artists": [
+        {
+          "name": "Batz Ninja",
+          "url": "https://open.spotify.com/artist/6hpQHbMfl5l28hhWtCnSOG"
+        },
+        {
+          "name": "Felipe Play",
+          "url": "https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109090,
+      "name": "Super Daddy",
+      "url": "https://open.spotify.com/track/22NieCpgNN3OlSBjQuXiDn"
     },
     {
       "album": {
@@ -15366,6 +15444,28 @@
       "duration_ms": 198400,
       "name": "Tocaia",
       "url": "https://open.spotify.com/track/6wb640UDLelevIzL7qjtz2"
+    },
+    {
+      "album": {
+        "name": "Todo Dia \u00c9 o \u00daltimo",
+        "url": "https://open.spotify.com/album/4pZ1XZjSqQMt5j8wVIDRib"
+      },
+      "artists": [
+        {
+          "name": "PrimeiraMente",
+          "url": "https://open.spotify.com/artist/3ljiSwQJmAVQVOXirjA2RT"
+        },
+        {
+          "name": "Prod.Haku",
+          "url": "https://open.spotify.com/artist/211N2liHHSZcZwaaA5RJbq"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276203,
+      "name": "Todo Dia \u00c9 o \u00daltimo",
+      "url": "https://open.spotify.com/track/15iV00mjuga1bRdCsK74k4"
     },
     {
       "album": {

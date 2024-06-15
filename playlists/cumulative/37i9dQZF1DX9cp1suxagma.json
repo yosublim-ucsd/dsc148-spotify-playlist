@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-18",
-  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Bacilos",
+  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Diamante El\u00e9ctrico",
   "name": "Pop Colombia",
   "tracks": [
     {
@@ -842,7 +842,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 181272,
       "name": "DIFERENTE",
       "url": "https://open.spotify.com/track/0zjlDOMaan6IH87OFaosuZ"
@@ -984,6 +984,28 @@
       "duration_ms": 178602,
       "name": "El Amor Es Perfecto",
       "url": "https://open.spotify.com/track/69cAqCB2QFhKkmmDmkYc9A"
+    },
+    {
+      "album": {
+        "name": "El Big Bang",
+        "url": "https://open.spotify.com/album/21sw5hm7AanjSg7mZrBYxz"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        },
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243830,
+      "name": "El Big Bang",
+      "url": "https://open.spotify.com/track/61svvvUEUPodjZvXhXv74e"
     },
     {
       "album": {

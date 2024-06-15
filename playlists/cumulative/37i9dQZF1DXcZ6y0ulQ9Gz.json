@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-29",
-  "description": "An eclectic mix of past & current indie favourites. Cover: Royel Otis",
+  "description": "An eclectic mix of past & current indie favourites. Cover: Mk.gee",
   "name": "Indie Favourites",
   "tracks": [
     {
@@ -208,7 +208,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 233388,
       "name": "A Night To Remember",
       "url": "https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 170081,
       "name": "Adult Swim",
       "url": "https://open.spotify.com/track/6ilMAkM2m0gVAqcHykqIxD"
@@ -458,6 +458,24 @@
       "duration_ms": 188000,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm"
+    },
+    {
+      "album": {
+        "name": "Two Star & The Dream Police",
+        "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198295,
+      "name": "Alesis",
+      "url": "https://open.spotify.com/track/4u7vj352S98d9iA7ac1EVG"
     },
     {
       "album": {
@@ -840,7 +858,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-11",
+      "date_removed": null,
       "duration_ms": 169822,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/1NlGXcWeUSe1s3IgRKcqmB"
@@ -916,7 +934,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 166179,
       "name": "Are You Looking Up",
       "url": "https://open.spotify.com/track/1sWYVBg7ix2WAq43J9nY7E"
@@ -1276,7 +1294,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-11",
+      "date_removed": null,
       "duration_ms": 195370,
       "name": "Be Sweet",
       "url": "https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I"
@@ -1410,7 +1428,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 218469,
       "name": "Big Brown Eyes",
       "url": "https://open.spotify.com/track/2eQotZtrNHzi38qge7CGXE"
@@ -2390,7 +2408,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-11",
+      "date_removed": null,
       "duration_ms": 242341,
       "name": "Charcoal Baby",
       "url": "https://open.spotify.com/track/3bBmpVl9rQKJsFFGLFilIS"
@@ -3672,10 +3690,28 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 169906,
       "name": "Eckhaus Latta",
       "url": "https://open.spotify.com/track/6eREarnGP0ESQPQAtzx66p"
+    },
+    {
+      "album": {
+        "name": "Blame My Ex",
+        "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160244,
+      "name": "Edge of the Earth",
+      "url": "https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr"
     },
     {
       "album": {
@@ -4674,7 +4710,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-11",
+      "date_removed": null,
       "duration_ms": 415613,
       "name": "Girl (feat. KAYTRANADA)",
       "url": "https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D"
@@ -6858,7 +6894,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 188293,
       "name": "Life Is",
       "url": "https://open.spotify.com/track/7I20yqgoGEEfXBK8YNICJ8"
@@ -7786,6 +7822,24 @@
       "duration_ms": 162376,
       "name": "Miss Summer",
       "url": "https://open.spotify.com/track/58VNpcJpI5dEKxYByCkbXc"
+    },
+    {
+      "album": {
+        "name": "14 minutes",
+        "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74378,
+      "name": "misses",
+      "url": "https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs"
     },
     {
       "album": {
@@ -11068,7 +11122,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 244571,
       "name": "Souvenirs d'hiver",
       "url": "https://open.spotify.com/track/1RA7rGvpb7IcxyIGA6Tbog"
@@ -12080,7 +12134,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-22",
+      "date_removed": null,
       "duration_ms": 206571,
       "name": "The Feminine Urge",
       "url": "https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc"
@@ -12268,7 +12322,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 177533,
       "name": "the perfect pair",
       "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"

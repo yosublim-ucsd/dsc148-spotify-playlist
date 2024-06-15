@@ -225,6 +225,32 @@
     },
     {
       "album": {
+        "name": "Alerta",
+        "url": "https://open.spotify.com/album/2Zq3b8VWpMELoVQKcrxUPw"
+      },
+      "artists": [
+        {
+          "name": "Big Yamo",
+          "url": "https://open.spotify.com/artist/1a2HwAlOE2wUPmNisvZxSw"
+        },
+        {
+          "name": "Lorna",
+          "url": "https://open.spotify.com/artist/2AwxAHULVspHSlffbyOSg3"
+        },
+        {
+          "name": "Jimmy Bad Boy",
+          "url": "https://open.spotify.com/artist/5KQIqm4ZbWSfcrWuzGBI9r"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203541,
+      "name": "Alerta",
+      "url": "https://open.spotify.com/track/2avAoEP6lqD0VEPlgd8Hmk"
+    },
+    {
+      "album": {
         "name": "AMOR ESPACIAL",
         "url": "https://open.spotify.com/album/3wpg7V46FHKZ0IuB5yqlsd"
       },
@@ -362,7 +388,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 202173,
       "name": "Baby",
       "url": "https://open.spotify.com/track/66jCeJbCo4Z6EwAPXO6fa6"
@@ -1024,7 +1050,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 163404,
       "name": "Como Vos",
       "url": "https://open.spotify.com/track/7J2f499kfvc5rPn8QLmg8W"
@@ -1425,6 +1451,24 @@
     },
     {
       "album": {
+        "name": "Don Nadie",
+        "url": "https://open.spotify.com/album/1ZiY6nwPziz9Bbq1YDQyWY"
+      },
+      "artists": [
+        {
+          "name": "Japanese",
+          "url": "https://open.spotify.com/artist/0gMAKyA5gWUJiVU5S082KT"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138396,
+      "name": "Don Nadie",
+      "url": "https://open.spotify.com/track/6RJdnQppStVwOmw7iEQnMl"
+    },
+    {
+      "album": {
         "name": "Dragona Rmix",
         "url": "https://open.spotify.com/album/5zd4HNljt1AJglj9YB6xqV"
       },
@@ -1622,7 +1666,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 209655,
       "name": "El Malo",
       "url": "https://open.spotify.com/track/144k7KOL7ZPopw7rTTzzXN"
@@ -4423,6 +4467,32 @@
     },
     {
       "album": {
+        "name": "Ojitos",
+        "url": "https://open.spotify.com/album/2XUlPZizZQgrlK6aQcntN6"
+      },
+      "artists": [
+        {
+          "name": "ArmanPro",
+          "url": "https://open.spotify.com/artist/1eL37nz9OoE3Ld8TkQ9sfk"
+        },
+        {
+          "name": "Kenny Man",
+          "url": "https://open.spotify.com/artist/6SGvRyZuaSuWmP6IWUKpGf"
+        },
+        {
+          "name": "Isra Da Proxx",
+          "url": "https://open.spotify.com/artist/25P3pQ7prPEKluIrxWQcIb"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173877,
+      "name": "Ojitos",
+      "url": "https://open.spotify.com/track/3kR3FCupyTbyJX9VjIJ3m4"
+    },
+    {
+      "album": {
         "name": "Orion",
         "url": "https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6"
       },
@@ -4680,7 +4750,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 181714,
       "name": "Peleo con muchos monstruos",
       "url": "https://open.spotify.com/track/7bN1jrJDC0Qvk3yGWjaP4J"
@@ -5002,7 +5072,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 195000,
       "name": "POSE",
       "url": "https://open.spotify.com/track/4qGgvcNoSLt3Q0ap5wWIuu"
@@ -5046,6 +5116,28 @@
       "duration_ms": 294901,
       "name": "PRESO Y MOSTROSIAO",
       "url": "https://open.spotify.com/track/3uqDOi2zjDhXH5zMxIquKC"
+    },
+    {
+      "album": {
+        "name": "Puto Amo",
+        "url": "https://open.spotify.com/album/30Xzg6143ci8RR8gz5tLDK"
+      },
+      "artists": [
+        {
+          "name": "Rik",
+          "url": "https://open.spotify.com/artist/3fx9NeQCytxm0fzefBOqlh"
+        },
+        {
+          "name": "Kako Prod",
+          "url": "https://open.spotify.com/artist/21nKcNBVvlOJx3pjOKLcRl"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188700,
+      "name": "Puto Amo",
+      "url": "https://open.spotify.com/track/6mMJ9B5B7reN10oBczFioW"
     },
     {
       "album": {
@@ -6906,6 +6998,28 @@
       "duration_ms": 225600,
       "name": "YA NO M\u00c1S",
       "url": "https://open.spotify.com/track/4POhXYdSOIE4idFgMzt4Rd"
+    },
+    {
+      "album": {
+        "name": "YA VALI\u00d3",
+        "url": "https://open.spotify.com/album/4BlW4CMNTGpfIb4aVYNnDr"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "D\u00edmelo Flow",
+          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "YA VALI\u00d3",
+      "url": "https://open.spotify.com/track/0VNwfyKyDrGw1BW7zxlGeQ"
     },
     {
       "album": {

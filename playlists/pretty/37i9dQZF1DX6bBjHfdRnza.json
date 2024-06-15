@@ -1,12 +1,12 @@
 {
   "description": "The best new dance & electronic by independent artists and labels. Cover: Jackie Hollander. Artwork by Rewina Beshue.",
-  "num_followers": 178560,
+  "num_followers": 178621,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmnneAAAAACwVIURTan0a1m3hbILVLlN",
+  "snapshot_id": "ZmxwGgAAAADcKHimk08bFKQTqD5dlAtg",
   "tracks": [
     {
       "added_at": "2024-06-12 18:22:48",
@@ -41,20 +41,28 @@
       "url": "https://open.spotify.com/track/2QFFM9WXVKhangOz59nEn0"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-06-14 15:25:20",
       "album": {
-        "name": "Bring The Beat",
-        "url": "https://open.spotify.com/album/0Pz6LyhxGTMtuSbTRl5UVy"
+        "name": "All About U",
+        "url": "https://open.spotify.com/album/3GOajZbHdHZdLYsmyPozvO"
       },
       "artists": [
         {
-          "name": "VASA",
-          "url": "https://open.spotify.com/artist/2AfkC7SKf63FMnxCKGbncN"
+          "name": "Longo",
+          "url": "https://open.spotify.com/artist/6myydsPHqq4xmZD7DWzRjI"
+        },
+        {
+          "name": "Marco Lollis",
+          "url": "https://open.spotify.com/artist/1gjNDmsEJhBAftfWPXIBzI"
+        },
+        {
+          "name": "Martina Corona",
+          "url": "https://open.spotify.com/artist/58tyddZEZ2XcaKSmTV19aA"
         }
       ],
-      "duration_ms": 150468,
-      "name": "Bring The Beat",
-      "url": "https://open.spotify.com/track/7f4xsa2uGFACKGXpZ7W2kt"
+      "duration_ms": 186662,
+      "name": "All About U",
+      "url": "https://open.spotify.com/track/6fb4twyNs3gQ0nDnkuRBwH"
     },
     {
       "added_at": "2024-06-12 18:22:48",
@@ -79,6 +87,22 @@
       "duration_ms": 289383,
       "name": "One Time",
       "url": "https://open.spotify.com/track/3GaP7JuzwFr6bjhIgSMHyG"
+    },
+    {
+      "added_at": "2024-06-14 15:25:20",
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/5yWgQgQfvVzrbd9P7rS00J"
+      },
+      "artists": [
+        {
+          "name": "1111",
+          "url": "https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE"
+        }
+      ],
+      "duration_ms": 212926,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/2oKFozpMCSlgRUgzI63TlZ"
     },
     {
       "added_at": "2024-05-08 19:36:43",
@@ -111,6 +135,22 @@
       "duration_ms": 181911,
       "name": "At Night I Think Of You",
       "url": "https://open.spotify.com/track/1pQKGS37CbpXavYhOC2WGm"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Bring The Beat",
+        "url": "https://open.spotify.com/album/0Pz6LyhxGTMtuSbTRl5UVy"
+      },
+      "artists": [
+        {
+          "name": "VASA",
+          "url": "https://open.spotify.com/artist/2AfkC7SKf63FMnxCKGbncN"
+        }
+      ],
+      "duration_ms": 150468,
+      "name": "Bring The Beat",
+      "url": "https://open.spotify.com/track/7f4xsa2uGFACKGXpZ7W2kt"
     },
     {
       "added_at": "2024-06-12 18:22:48",
@@ -181,6 +221,58 @@
       "url": "https://open.spotify.com/track/4TZED3XiqWZROYvMGC3jvY"
     },
     {
+      "added_at": "2024-06-14 15:25:20",
+      "album": {
+        "name": "Cardio",
+        "url": "https://open.spotify.com/album/3c4iD4OaMDUcsJumwh7QbC"
+      },
+      "artists": [
+        {
+          "name": "Kissimjau",
+          "url": "https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0"
+        }
+      ],
+      "duration_ms": 188176,
+      "name": "Cardio",
+      "url": "https://open.spotify.com/track/6TQI3pWL9dK9zCcBjG471I"
+    },
+    {
+      "added_at": "2024-06-05 19:51:45",
+      "album": {
+        "name": "Find Me",
+        "url": "https://open.spotify.com/album/6hbFLgtg6vbqO5aHMeRIZM"
+      },
+      "artists": [
+        {
+          "name": "Bad Friends",
+          "url": "https://open.spotify.com/artist/0zeexLEoXoUJpKmx0PXta8"
+        }
+      ],
+      "duration_ms": 164880,
+      "name": "Find Me",
+      "url": "https://open.spotify.com/track/3cwkKqFlevUfwMSwDhnyc4"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "LET THE MUSIC PLAY",
+        "url": "https://open.spotify.com/album/2NiQ2hHA5xPLjvbG4wcpqp"
+      },
+      "artists": [
+        {
+          "name": "AUGIS",
+          "url": "https://open.spotify.com/artist/2UlsuMqDGywuSw0FT1rfbb"
+        },
+        {
+          "name": "Club Azur",
+          "url": "https://open.spotify.com/artist/7HjhcFRLzzNysy05pyufdh"
+        }
+      ],
+      "duration_ms": 177306,
+      "name": "LET THE MUSIC PLAY",
+      "url": "https://open.spotify.com/track/5Www92j9UCkB0NZJTWnvcg"
+    },
+    {
       "added_at": "2024-04-26 21:08:15",
       "album": {
         "name": "One (Edit)",
@@ -215,22 +307,6 @@
       "duration_ms": 200500,
       "name": "MAKES ME FEEL",
       "url": "https://open.spotify.com/track/2YwzOdsHE06Xkg50nIFtYq"
-    },
-    {
-      "added_at": "2024-06-05 19:51:45",
-      "album": {
-        "name": "Find Me",
-        "url": "https://open.spotify.com/album/6hbFLgtg6vbqO5aHMeRIZM"
-      },
-      "artists": [
-        {
-          "name": "Bad Friends",
-          "url": "https://open.spotify.com/artist/0zeexLEoXoUJpKmx0PXta8"
-        }
-      ],
-      "duration_ms": 164880,
-      "name": "Find Me",
-      "url": "https://open.spotify.com/track/3cwkKqFlevUfwMSwDhnyc4"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -451,26 +527,6 @@
       "duration_ms": 139090,
       "name": "TONIGHT",
       "url": "https://open.spotify.com/track/4oO67Fb9LEokce7SN4rSeg"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "LET THE MUSIC PLAY",
-        "url": "https://open.spotify.com/album/2NiQ2hHA5xPLjvbG4wcpqp"
-      },
-      "artists": [
-        {
-          "name": "AUGIS",
-          "url": "https://open.spotify.com/artist/2UlsuMqDGywuSw0FT1rfbb"
-        },
-        {
-          "name": "Club Azur",
-          "url": "https://open.spotify.com/artist/7HjhcFRLzzNysy05pyufdh"
-        }
-      ],
-      "duration_ms": 177306,
-      "name": "LET THE MUSIC PLAY",
-      "url": "https://open.spotify.com/track/5Www92j9UCkB0NZJTWnvcg"
     },
     {
       "added_at": "2024-05-30 03:38:55",
@@ -698,10 +754,6 @@
         {
           "name": "David Spinelli",
           "url": "https://open.spotify.com/artist/3FuoNZftW2laJA3P6f4rVE"
-        },
-        {
-          "name": "Raquel San Nicolas",
-          "url": "https://open.spotify.com/artist/1azwDmYewFbyCgMzYVYsOZ"
         }
       ],
       "duration_ms": 222992,
@@ -1441,22 +1493,6 @@
       "url": "https://open.spotify.com/track/5xiiqiCNaFVAged8VtyEnM"
     },
     {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Maestro",
-        "url": "https://open.spotify.com/album/2ep0Vyr7OQTvDwgxzAJRbd"
-      },
-      "artists": [
-        {
-          "name": "Sterium",
-          "url": "https://open.spotify.com/artist/6mZFMQ4sBi39W9dXCLH77s"
-        }
-      ],
-      "duration_ms": 148837,
-      "name": "Maestro",
-      "url": "https://open.spotify.com/track/1I5vlHztbXa5Tx7nFeEVJS"
-    },
-    {
       "added_at": "2024-04-10 18:23:48",
       "album": {
         "name": "Complicated",
@@ -1603,42 +1639,6 @@
       "duration_ms": 195937,
       "name": "Mister DJ",
       "url": "https://open.spotify.com/track/3g7fzHY2ieDM7RaAYbItLK"
-    },
-    {
-      "added_at": "2024-05-01 17:01:39",
-      "album": {
-        "name": "MY LOVER'S MIND",
-        "url": "https://open.spotify.com/album/04bqoDJgId1vDqzPbgk5Is"
-      },
-      "artists": [
-        {
-          "name": "DRIIA",
-          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
-        }
-      ],
-      "duration_ms": 203200,
-      "name": "MY LOVER'S MIND",
-      "url": "https://open.spotify.com/track/4RkLa4Nq85JWnDLtYHG9hq"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "chasing highs",
-        "url": "https://open.spotify.com/album/6UioWnaMVfNNgeSXYsRM49"
-      },
-      "artists": [
-        {
-          "name": "Maya Randle",
-          "url": "https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02"
-        },
-        {
-          "name": "INDI",
-          "url": "https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9"
-        }
-      ],
-      "duration_ms": 146029,
-      "name": "chasing highs",
-      "url": "https://open.spotify.com/track/4TGQC8Yscxh6f9KJLlwktA"
     },
     {
       "added_at": "2024-05-03 04:00:00",

@@ -571,6 +571,24 @@
     },
     {
       "album": {
+        "name": "Flashlight",
+        "url": "https://open.spotify.com/album/16670hpVDgDohewHKfthD6"
+      },
+      "artists": [
+        {
+          "name": "Precious Bloom",
+          "url": "https://open.spotify.com/artist/6IFNsMUy9ZIPoITKCjMTMN"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427954,
+      "name": "Flashlight",
+      "url": "https://open.spotify.com/track/4qTspjp0GiwfTTYDvhgJ6u"
+    },
+    {
+      "album": {
         "name": "Wander Wander",
         "url": "https://open.spotify.com/album/1aFFBDlKtZGKw5SROlidMb"
       },

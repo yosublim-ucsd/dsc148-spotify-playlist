@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Ed Sheeran
 
-430 songs - 1 day 0 hr 45 min
+432 songs - 1 day 0 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Africa](https://open.spotify.com/track/6WOCRPBxJqRhOyfLygAOJ5) | [HAPPIE](https://open.spotify.com/artist/4lV9WCVEJ0dmNDWdACbRc9), [The Human Experience](https://open.spotify.com/artist/1NWjumiUC54F8S21p2W6cG) | [Africa](https://open.spotify.com/album/2aewyGiYU8HtQflj03vfLu) | 3:40 | 2023-10-27 |  |
 | [Afterglow](https://open.spotify.com/track/32MX9K3PwpcUtdhiSx6sef) | [sleep.ing](https://open.spotify.com/artist/72qGRng3c6BZNeYJH3C5ct), [Faber Drive](https://open.spotify.com/artist/3SziwNj6JCnqd2ajUdXlIT), [Dave Faber](https://open.spotify.com/artist/2eQOHn4qBMuuKTtx7seCz8) | [Afterglow](https://open.spotify.com/album/3wErxE6WjMSWYHpJUrNzXX) | 3:18 | 2021-12-17 | 2022-05-02 |
 | [Against All Odds](https://open.spotify.com/track/1xN885vrS6dd9xfKXAgg4F) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Division \(Deluxe\)](https://open.spotify.com/album/4hTubSHf6zjOOPZJmJPyBq) | 3:21 | 2022-05-01 |  |
+| [agora hills \- Spotify Singles](https://open.spotify.com/track/19bepKW8jRL8s5PRYSawZh) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [Spotify Singles](https://open.spotify.com/album/1VrnMUyVCGxRRRHgJhUOSa) | 4:54 | 2024-06-14 |  |
 | [Alaska](https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y) | [Julia Cooper](https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576) | [Alaska](https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq) | 3:11 | 2021-12-17 | 2022-12-30 |
 | [All Night Long \(All Night\) \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/1I7arMzqZe0nxd9TfkG0Dt) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Spotify Singles](https://open.spotify.com/album/6owNFHw2pcB6iBLeAOA0LH) | 3:08 | 2022-07-08 | 2022-07-30 |
 | [All Night Long \(All Night\) \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/5LKNumPGm1bEyVroDE4rcZ) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Spotify Singles](https://open.spotify.com/album/0xpF1XxmYVSY6V9fiRiho2) | 3:08 | 2021-12-17 |  |
@@ -234,6 +235,7 @@
 | [just the two of us](https://open.spotify.com/track/505CNjW6Y9GwvW5sVgvdK9) | [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [the quarantine covers](https://open.spotify.com/album/1UqChrYC7NGNDmf9nJx9xO) | 2:02 | 2021-12-17 | 2023-10-17 |
 | [Kids in America \(From the Netflix Film "Do Revenge"\)](https://open.spotify.com/track/1JN2dN2AVW0EfJMhXniTLi) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Kids in America \(From the Netflix Film "Do Revenge"\)](https://open.spotify.com/album/1EBYX0KRDEmZLFjoSQabzT) | 3:14 | 2022-09-23 |  |
 | [Killing Me Softly](https://open.spotify.com/track/2wEyNde0HsqvTpP6yphfQU) | [stories](https://open.spotify.com/artist/2TzZg302CB0oW5ZMeTW98p), [Rozzi](https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82) | [Killing Me Softly](https://open.spotify.com/album/3dzUlxbwuGbnH0p1TOOTdZ) | 3:29 | 2022-05-27 | 2022-12-30 |
+| [Kiss Me](https://open.spotify.com/track/2UYNxBhod7KpjKEFlmHm2b) | [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Kiss Me](https://open.spotify.com/album/1RLqpCyfOigWVl2ufmXNGP) | 3:55 | 2024-06-14 |  |
 | [Kiss Me](https://open.spotify.com/track/1l3n3cIyHjEc7F78owErOa) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [AJ Salvatore](https://open.spotify.com/artist/5gLMXPUMc0uh9TedkRlng9), [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [Kiss Me](https://open.spotify.com/album/5Dgm7LEEwNIV2JkO7alcRs) | 2:26 | 2021-12-17 | 2022-07-29 |
 | [Kiss Me](https://open.spotify.com/track/6Ngyk6TvmMeXqxlgdq0u9f) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [AJ Salvatore](https://open.spotify.com/artist/5gLMXPUMc0uh9TedkRlng9), [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [Kiss Me](https://open.spotify.com/album/6h9bC3nDWad10hG7b5UCbd) | 2:26 | 2022-07-08 | 2022-12-30 |
 | [Kiss Me](https://open.spotify.com/track/2Wv0DfptASwsdOVKtyLJua) | [why mona](https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU) | [Kiss Me](https://open.spotify.com/album/0GdTYLhpSyRzxgYmdjwnTN) | 2:28 | 2023-02-24 | 2024-04-19 |

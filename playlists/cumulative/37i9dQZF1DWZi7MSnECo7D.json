@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "M\u00fasica brasileira fora da curva. Foto: Curumin \u2764\ufe0f Anelis",
+  "description": "M\u00fasica brasileira fora da curva. Foto: Ador\u00e1vel Clich\u00ea",
   "name": "alt BR",
   "tracks": [
     {
@@ -912,6 +912,24 @@
       "duration_ms": 221398,
       "name": "Antidepr\u00ea",
       "url": "https://open.spotify.com/track/6uLh9rnAq9e6PUNLWGHLpB"
+    },
+    {
+      "album": {
+        "name": "aonde mais",
+        "url": "https://open.spotify.com/album/1gtIJPonh5fWPwEKBc8q6g"
+      },
+      "artists": [
+        {
+          "name": "Ador\u00e1vel Clich\u00ea",
+          "url": "https://open.spotify.com/artist/4mRFZ6ovRHoxsRBE3uymPY"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "aonde mais",
+      "url": "https://open.spotify.com/track/5bgWnou9B3oO7nJAUVdig5"
     },
     {
       "album": {
@@ -5526,6 +5544,24 @@
       "duration_ms": 215076,
       "name": "Madrugada",
       "url": "https://open.spotify.com/track/1XaaiqwVQ8qaBrXNmxQ18U"
+    },
+    {
+      "album": {
+        "name": "Mais Nada",
+        "url": "https://open.spotify.com/album/4tlKd5YyAJJcdGUNMzstRx"
+      },
+      "artists": [
+        {
+          "name": "Matheus Who",
+          "url": "https://open.spotify.com/artist/7dk9vFezaTtPWPnygmbWgf"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196691,
+      "name": "Mais Nada",
+      "url": "https://open.spotify.com/track/0VSxb6zC2oy5KhQ89Hqd98"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-09",
-  "description": "Le rap francophone est en forme. Photo: TIF",
+  "description": "Le rap francophone est en forme. Photo: Green Montana",
   "name": "Connexion Rap",
   "tracks": [
     {
@@ -278,6 +278,28 @@
       "duration_ms": 192333,
       "name": "Bando",
       "url": "https://open.spotify.com/track/6cdv3hsd42vgkyGloyPSRl"
+    },
+    {
+      "album": {
+        "name": "SAUDADE",
+        "url": "https://open.spotify.com/album/5ORwfRIZBQiJ1dQ2cQDIFO"
+      },
+      "artists": [
+        {
+          "name": "Green Montana",
+          "url": "https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172280,
+      "name": "barcelona92",
+      "url": "https://open.spotify.com/track/0ex0EZnrO2mMPIkYp3ewZX"
     },
     {
       "album": {
@@ -574,7 +596,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 198146,
       "name": "Cannelloni",
       "url": "https://open.spotify.com/track/4AaG82i74FxJqk7J9oKS8P"
@@ -2338,7 +2360,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 113093,
       "name": "phileas fogg",
       "url": "https://open.spotify.com/track/03ijxNalYn4V6467YMGMP3"
@@ -2448,6 +2470,24 @@
       "duration_ms": 182081,
       "name": "Port d'arme",
       "url": "https://open.spotify.com/track/3RdzJ2qCGDEFkSGe9jFgCJ"
+    },
+    {
+      "album": {
+        "name": "JVLIVS Prequel : Giulio",
+        "url": "https://open.spotify.com/album/4xR5GFngZglie60Cc3DvoS"
+      },
+      "artists": [
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210533,
+      "name": "Prequel",
+      "url": "https://open.spotify.com/track/0y2JXGqNraYN2gbnSLguWk"
     },
     {
       "album": {

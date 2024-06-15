@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 > Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:3gC2pjwYVTQdMuHUucgODF">NEL</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,013 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,012 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 47 | [Diss Na Miłość](https://open.spotify.com/track/6xaUCAXPK4VNuYH3RM24ek) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Diss Na Miłość](https://open.spotify.com/album/6suEF8zc9TYI3RPuLIi2VT) | 1:52 |
 | 48 | [Puszczaj](https://open.spotify.com/track/3pGuVG2rKFSKWuqtKahAS1) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [Puszczaj](https://open.spotify.com/album/4Mixg1QO20t9cPuoDip5Hq) | 3:12 |
 | 49 | [Welur](https://open.spotify.com/track/4uIXiKr1OThTtjgExrCZD0) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Welur](https://open.spotify.com/album/63qjHLrWqfDlWPg4dUNGun) | 3:07 |
-| 50 | [Zero Calorie Cookie](https://open.spotify.com/track/2aItJ1oeMxElBTGhGc2nGf) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [Zero Calorie Cookie](https://open.spotify.com/album/1oafWfr6hOnwcGAkrRI63K) | 2:52 |
+| 50 | [Zero Calorie Cookie](https://open.spotify.com/track/2aItJ1oeMxElBTGhGc2nGf) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M), [Producent Adam](https://open.spotify.com/artist/7EtPcu9pZNGR5kWW2oEQDd) | [Zero Calorie Cookie](https://open.spotify.com/album/1oafWfr6hOnwcGAkrRI63K) | 2:52 |
 | 51 | [Złudzenia](https://open.spotify.com/track/0xechEr9xpwHY6eP2wrQud) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Miłość w czasach](https://open.spotify.com/album/3VCM06D5AsitYLlsnLjxEU) | 3:31 |
 | 52 | [Słoneczniki](https://open.spotify.com/track/2ila27UsX8EzLvTy6CcOAE) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Słoneczniki](https://open.spotify.com/album/0udfrdwqGWI0kWUJ7YtxOk) | 3:31 |
 | 53 | [Dobra Albo Zła](https://open.spotify.com/track/24FUYnBbb1WVYn7ScrEyff) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [Dobra Albo Zła](https://open.spotify.com/album/5sepbyaEmhzsNPG5oCqHtJ) | 3:13 |

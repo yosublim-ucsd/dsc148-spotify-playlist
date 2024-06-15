@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 171744,
       "name": "23",
       "url": "https://open.spotify.com/track/3en9r8oxZAF08fshqAaswq"
@@ -546,7 +546,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 204576,
       "name": "Alabanza",
       "url": "https://open.spotify.com/track/3eYYMWH1rnLqBwLqSMBhCB"
@@ -958,7 +958,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 125296,
       "name": "Aquella Isla",
       "url": "https://open.spotify.com/track/48Wzi08M8VECe31oRxR3xY"
@@ -998,6 +998,28 @@
       "duration_ms": 255373,
       "name": "Aqu\u00ed Te Espero",
       "url": "https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6"
+    },
+    {
+      "album": {
+        "name": "As vidas caladas",
+        "url": "https://open.spotify.com/album/13khQGThr8cw5jaKqlIipO"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00eda Mu\u00ed\u00f1o",
+          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
+        },
+        {
+          "name": "Caama\u00f1o & Ameixeiras",
+          "url": "https://open.spotify.com/artist/6y3amaH2PNp48kslVnR7WH"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212698,
+      "name": "As vidas caladas",
+      "url": "https://open.spotify.com/track/4Efc5WGKeeEVruEsTq36r2"
     },
     {
       "album": {
@@ -1052,7 +1074,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 201428,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/5sAZO2RSyywOcDXO2y8d9G"
@@ -1968,6 +1990,24 @@
       "duration_ms": 331442,
       "name": "Casida de la Rosa",
       "url": "https://open.spotify.com/track/7Dpg9kyPOZDv5N5QWUW08J"
+    },
+    {
+      "album": {
+        "name": "Castillos en el aire",
+        "url": "https://open.spotify.com/album/5jRKmPqAxShFeYXDalOiW7"
+      },
+      "artists": [
+        {
+          "name": "Alberto Montero",
+          "url": "https://open.spotify.com/artist/1yfrUGP5Y5AaA7FOpb5xQO"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171713,
+      "name": "Castillos en el aire",
+      "url": "https://open.spotify.com/track/1QF9SAhVilC3klM7JgngIt"
     },
     {
       "album": {
@@ -6688,7 +6728,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 154125,
       "name": "Mi Amor",
       "url": "https://open.spotify.com/track/4JTFZGp79eIpo5OhUJVmB1"
@@ -6710,7 +6750,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 224285,
       "name": "Mi Luz, Mi Voz, Mi Aliada",
       "url": "https://open.spotify.com/track/4X8Pm0y8PiRtOXcnKUsS5Q"
@@ -7178,6 +7218,28 @@
       "duration_ms": 190468,
       "name": "Naranjas Al Mar",
       "url": "https://open.spotify.com/track/0OBOZWBSwnUhDUeGDwXJXU"
+    },
+    {
+      "album": {
+        "name": "Nariz",
+        "url": "https://open.spotify.com/album/3EUPM7Bdx03jzNjiNXj9Rr"
+      },
+      "artists": [
+        {
+          "name": "Nando Garc\u00eda",
+          "url": "https://open.spotify.com/artist/1sjAiXfRnlaJk1zNhmHSpf"
+        },
+        {
+          "name": "Sim\u00f3n Campusano",
+          "url": "https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108237,
+      "name": "Nariz",
+      "url": "https://open.spotify.com/track/7mns5SaMZBKrJiCSlDpcD1"
     },
     {
       "album": {
@@ -8516,7 +8578,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 220569,
       "name": "Por Qu\u00e9?",
       "url": "https://open.spotify.com/track/7bHmqyyWyEhzw9KxtrkAe5"
@@ -8930,7 +8992,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 197144,
       "name": "Qui\u00e9n Lo Dir\u00eda",
       "url": "https://open.spotify.com/track/0v6BKaRYR08RgEmyZigUKf"
@@ -9826,7 +9888,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-10",
+      "date_removed": null,
       "duration_ms": 231373,
       "name": "Siembro",
       "url": "https://open.spotify.com/track/6ul1XHxB6IKQ4wCKSebTXk"
@@ -10135,6 +10197,24 @@
     },
     {
       "album": {
+        "name": "S\u20acR\u20acNATA",
+        "url": "https://open.spotify.com/album/3RU9SZ2PmXjmE88AuZRdzi"
+      },
+      "artists": [
+        {
+          "name": "Vicente Navarro",
+          "url": "https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177240,
+      "name": "S\u20acR\u20acNATA",
+      "url": "https://open.spotify.com/track/4mEnD46xTBJPaDc7M7sfXO"
+    },
+    {
+      "album": {
         "name": "Tabaibas",
         "url": "https://open.spotify.com/album/170tXRY7ZmWpbvpFyryLL3"
       },
@@ -10268,7 +10348,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-12",
+      "date_removed": null,
       "duration_ms": 245172,
       "name": "Tananan\u00e1",
       "url": "https://open.spotify.com/track/35O39AR91OBFPMWIZfBzoo"
@@ -11256,7 +11336,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-12",
+      "date_removed": null,
       "duration_ms": 213760,
       "name": "una se\u00f1al",
       "url": "https://open.spotify.com/track/7C4aWyzH7EbUkyGhlbOPcC"
@@ -11776,7 +11856,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 188506,
       "name": "Vuelta a la ra\u00edz",
       "url": "https://open.spotify.com/track/6FywEE8yHO35D0bHcHPQ9T"

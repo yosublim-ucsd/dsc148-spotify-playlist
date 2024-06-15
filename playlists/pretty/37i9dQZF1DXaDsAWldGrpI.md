@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 
 > Your favorite artists, recorded live \- just like you were there! Cover: Luke Combs
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,363 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,437 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 | 99 | [Rhinestone Cowboy](https://open.spotify.com/track/6AmEL7VekAzzEqfaSFlhXT) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Live Anthology](https://open.spotify.com/album/0E8GZQAximOCOgCgfIM1Lx) | 3:27 |
 | 100 | [Whiskey Rock\-A\-Roller \- Live](https://open.spotify.com/track/1ZuqcBtqvLKq0aQ7hRMSGa) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [One More For The Fans \(Live\)](https://open.spotify.com/album/2ozyyppkepXcWyxvdNbDmi) | 4:27 |
 
-Snapshot ID: `ZmKFwAAAAAAsmAKO1A7RNQC7zx38E1PV`
+Snapshot ID: `ZmvAQAAAAACAQZjbGPZxbH6FdJa3oJPK`

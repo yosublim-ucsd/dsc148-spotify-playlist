@@ -4,7 +4,7 @@
 
 > Perreo hecho en Argentina\. Foto: Salastkbron.
 
-242 songs - 11 hr 35 min
+243 songs - 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [Nos Comemos \(feat\. Ozuna\)](https://open.spotify.com/track/6ojZtz3sZr6ynvejLOqgCj) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Nos Comemos \(feat\. Ozuna\)](https://open.spotify.com/album/1iBXwOCBoWC1LdSxdD0ZlC) | 3:11 | 2022-06-03 |  |
 | [Nos Fuimos](https://open.spotify.com/track/4zL9rfF33n0kq7Q2JGot5a) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Nos Fuimos](https://open.spotify.com/album/2fXE6ksRYKH0DmHz83MUXe) | 2:39 | 2022-05-24 |  |
 | [Numero 1](https://open.spotify.com/track/6HXvazdtAr9hy0kThzxrE3) | [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A), [Nobeat](https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW) | [Numero 1](https://open.spotify.com/album/5QK2JiVGO67uLi0vqi9Wg6) | 2:44 | 2022-05-24 |  |
-| [OJALÁ](https://open.spotify.com/track/1uGdRSOpObu3lp0jvrVREl) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [OJALÁ](https://open.spotify.com/album/6LmddIPzdpQYYc13kGzrvS) | 2:40 | 2022-06-03 |  |
+| [OJALÁ](https://open.spotify.com/track/1uGdRSOpObu3lp0jvrVREl) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [OJALÁ](https://open.spotify.com/album/6LmddIPzdpQYYc13kGzrvS) | 2:40 | 2022-06-03 | 2024-06-15 |
 | [Ojo por Ojo \(Remix\)](https://open.spotify.com/track/6BpG204BcPkC2yvixiyOba) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW) | [Ojo por Ojo \(Remix\)](https://open.spotify.com/album/5qf2JIgQQodt2CsuLG7HNG) | 3:37 | 2023-10-27 | 2024-04-19 |
 | [Ojo por Ojo \- Remix](https://open.spotify.com/track/6A0agxt2FyRkpjT74sbeal) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW) | [Ojo por Ojo \(Remix\)](https://open.spotify.com/album/1z2gR2sfBksuVEUrpHq1TV) | 3:37 | 2022-11-07 |  |
 | [Olvidate](https://open.spotify.com/track/6YHiWnXQyF0yM4oxGk54X4) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Olvidate](https://open.spotify.com/album/2OVbouaTwqVHertrc15Kgn) | 2:39 | 2022-07-28 | 2023-05-13 |
@@ -181,6 +181,7 @@
 | [Perreito Salvaje](https://open.spotify.com/track/4hs52wFSucGnS5dYryIZ4F) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Perreito Salvaje](https://open.spotify.com/album/2nEyfN6oPzU8bVd3639TSK) | 2:51 | 2022-05-24 |  |
 | [Perreo Bendito](https://open.spotify.com/track/56uvG8rHQkvEtbRXK2R8rx) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón 2](https://open.spotify.com/album/6anO6Uh11TivGpTI56aKCH) | 2:39 | 2022-08-05 | 2022-11-19 |
 | [Perreo Bendito](https://open.spotify.com/track/69n1Bh7n79MXbA9XqH4MfM) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón 2](https://open.spotify.com/album/4Sel1lEtGGuCznbBbUg4FA) | 2:39 | 2022-06-23 | 2022-08-09 |
+| [POPPER!](https://open.spotify.com/track/3dffM1ONyWwC9153O47a2O) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [POPPER!](https://open.spotify.com/album/4v0x0syzsxORqMTW3c88Zp) | 1:50 | 2024-06-14 |  |
 | [POSA / Take \#1](https://open.spotify.com/track/2K4CK7j2WuB4y7nLVC0FRf) | [Yair B\-By](https://open.spotify.com/artist/1M3ii08Vltteb2VdTiC2aE), [DJ Kuff](https://open.spotify.com/artist/2TnyAEgw7OuIIhShiZUvtu) | [POSA / Take \#1](https://open.spotify.com/album/09lp7LEaGjC1YnS1DWKsd1) | 2:36 | 2023-05-05 |  |
 | [Prende la Cámara](https://open.spotify.com/track/2UcWAHN6TRQtkZovAuwySo) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Prende la Cámara](https://open.spotify.com/album/4IYIOVFW703lcHN7ZTHexe) | 2:28 | 2022-05-24 | 2024-05-25 |
 | [PRESIÓN](https://open.spotify.com/track/4zCyJr1apBS2791oMtea5f) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [PRESIÓN](https://open.spotify.com/album/0pTere7czaMnyRpVs7i6fP) | 3:07 | 2023-05-02 |  |
@@ -242,7 +243,7 @@
 | [Utopía](https://open.spotify.com/track/5jCeTPt24kvPb9WNL9uZFb) | [Sofia Hervier](https://open.spotify.com/artist/0bk1zGf1qLB7YC2NXPByE3), [DOC](https://open.spotify.com/artist/0GR5HJ4Lo9rqVAqmewAODa) | [Utopía](https://open.spotify.com/album/76hcVFUJtbF7LyqN1hVDDa) | 2:30 | 2023-02-17 |  |
 | [Verificada](https://open.spotify.com/track/6wIByDvOQvyjqR3hBtOECG) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Verificada](https://open.spotify.com/album/3WfkSS2h0jiJedZwYVmOsq) | 2:38 | 2022-05-24 | 2022-07-29 |
 | [Verificada](https://open.spotify.com/track/4DuyqxuT3sGiGlZJi5dpn4) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Verificada](https://open.spotify.com/album/4tIqAcRBIsjOU4kTHQZqwL) | 2:38 | 2022-07-28 | 2023-07-08 |
-| [Vida Gangster](https://open.spotify.com/track/4I4FFtKZLtyqw4he9pPtL7) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG) | [Vida Gangster](https://open.spotify.com/album/0cWDantlEEkAwu9Z0gAiMX) | 2:50 | 2022-12-23 |  |
+| [Vida Gangster](https://open.spotify.com/track/4I4FFtKZLtyqw4he9pPtL7) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG) | [Vida Gangster](https://open.spotify.com/album/0cWDantlEEkAwu9Z0gAiMX) | 2:50 | 2022-12-23 | 2024-06-15 |
 | [Wow Wow \(feat\. Becky G\)](https://open.spotify.com/track/20ChN6ZWJ2yhuXcE6SKHDM) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Wow Wow \(feat\. Becky G\)](https://open.spotify.com/album/7peqMFYmRXaFJ5nXvKtA86) | 3:19 | 2022-05-24 |  |
 | [Ya No Quiero Verte](https://open.spotify.com/track/1uoQJiOAWJ5S3IsrHFXlds) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS), [Yael YTBM](https://open.spotify.com/artist/6Asqb0vVpW3cLUbK53VIK5) | [Ya No Quiero Verte](https://open.spotify.com/album/4NUK8hZadlXlRMBwhsn5X9) | 2:54 | 2024-04-26 |  |
 | [YIN YAN](https://open.spotify.com/track/6KGGhJoXrztLp8ZT91zizs) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Temporada de Reggaetón](https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl) | 3:09 | 2022-05-24 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : A.L.A
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,118 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,135 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 | 6 | [Hkayet](https://open.spotify.com/track/0KRjzTajjH5yheFIl8qBZr) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Hkayet](https://open.spotify.com/album/2EkmDyQHSd63mQi7Dm9kdJ) | 3:40 |
 | 7 | [Ghaba](https://open.spotify.com/track/5fJzqNudt8ZdoFGi1LsQbT) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Ghaba](https://open.spotify.com/album/3cjuodS53dH13S46iQavuk) | 3:05 |
 | 8 | [Chopard](https://open.spotify.com/track/4NnIdqvcEuzjXr0BGTAsM3) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Chopard](https://open.spotify.com/album/1wzms4zAdjTq9XlwbNp3nf) | 2:38 |
-| 9 | [Amach](https://open.spotify.com/track/2QCKG199FIJrm8x8DF0BiC) | [KA7LA](https://open.spotify.com/artist/3P1ICbu02JQld1VFBoQCLA), [Norfafrica](https://open.spotify.com/artist/3UGUD4F6kDvesqDwOzXl8y) | [Amach](https://open.spotify.com/album/6Gv3VtOlgKhaSHkKt0e8U6) | 2:41 |
-| 10 | [Kifesh](https://open.spotify.com/track/697rgcrEYB2fRCnpvP7tWe) | [El Katiba](https://open.spotify.com/artist/4xQcydpbkTIjbLvmEPQOnK), [Dekka](https://open.spotify.com/artist/2loudmgJCLYEIWjqKdqURB) | [Kifesh](https://open.spotify.com/album/5IgLHoxhqHARqzcH6gJnza) | 3:41 |
-| 11 | [MONDAY](https://open.spotify.com/track/2rXwQZu39IkjjlnVOGdLev) | [4lfa](https://open.spotify.com/artist/0aJZiLm1NBWMcCKp6mkHMY) | [MONDAY](https://open.spotify.com/album/7bHuP10BZyK6zUjqnMPJTU) | 2:52 |
-| 12 | [Afyoun](https://open.spotify.com/track/66tu0r6bkZtGx6INuZTNG2) | [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Afyoun](https://open.spotify.com/album/7z1mJ0SuGHJOvdu7A280me) | 3:11 |
-| 13 | [Qatra](https://open.spotify.com/track/25Nh8YaZAgdp3oU35ARlet) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Qatra](https://open.spotify.com/album/4XbFnBQrOtlwkXsEe4idAF) | 3:36 |
+| 9 | [Psy](https://open.spotify.com/track/5w6jlBMMvZEi50lmC451u5) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Psy](https://open.spotify.com/album/2SaMbc7y7haixHL94kpWqX) | 2:46 |
+| 10 | [Amach](https://open.spotify.com/track/2QCKG199FIJrm8x8DF0BiC) | [KA7LA](https://open.spotify.com/artist/3P1ICbu02JQld1VFBoQCLA), [Norfafrica](https://open.spotify.com/artist/3UGUD4F6kDvesqDwOzXl8y) | [Amach](https://open.spotify.com/album/6Gv3VtOlgKhaSHkKt0e8U6) | 2:41 |
+| 11 | [Kifesh](https://open.spotify.com/track/697rgcrEYB2fRCnpvP7tWe) | [El Katiba](https://open.spotify.com/artist/4xQcydpbkTIjbLvmEPQOnK), [Dekka](https://open.spotify.com/artist/2loudmgJCLYEIWjqKdqURB) | [Kifesh](https://open.spotify.com/album/5IgLHoxhqHARqzcH6gJnza) | 3:41 |
+| 12 | [MONDAY](https://open.spotify.com/track/2rXwQZu39IkjjlnVOGdLev) | [4lfa](https://open.spotify.com/artist/0aJZiLm1NBWMcCKp6mkHMY) | [MONDAY](https://open.spotify.com/album/7bHuP10BZyK6zUjqnMPJTU) | 2:52 |
+| 13 | [Afyoun](https://open.spotify.com/track/66tu0r6bkZtGx6INuZTNG2) | [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Afyoun](https://open.spotify.com/album/7z1mJ0SuGHJOvdu7A280me) | 3:11 |
 | 14 | [Hameda Hereb هارب](https://open.spotify.com/track/3LE2O2BQi6astoGXBKXe1V) | [Hameda Hereb](https://open.spotify.com/artist/1xnqi3G6wGYmgPXOA0fu1i) | [Hameda Hereb هارب](https://open.spotify.com/album/2HAqYpg8n9ovBZ2JehbxdZ) | 3:17 |
 | 15 | [AIINA](https://open.spotify.com/track/4X168iMrm9b87RamMluLB9) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [AIINA](https://open.spotify.com/album/0QyCU2T4aN86JIywRt25mp) | 3:11 |
 | 16 | [Wahda x2](https://open.spotify.com/track/5vZXSl3qJro0cieaZ0xFYt) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [Wahda x2](https://open.spotify.com/album/4xGvwM9WS9Fp8UjQHJ8lue) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 | 49 | [Heroine](https://open.spotify.com/track/0iKRsjag7PRFFs9N6je8HK) | [Esserpent](https://open.spotify.com/artist/0IgVFHpTug7gJIKUqsve0q) | [Heroine](https://open.spotify.com/album/3rCPPG6uTfQoy9eDFccejT) | 3:26 |
 | 50 | [Intro](https://open.spotify.com/track/1TTg8aTqkCxmBuLZrLpRYX) | [RedStar](https://open.spotify.com/artist/5KrsMlfx8tbhq2GjZo0KP5) | [صنع بسحر](https://open.spotify.com/album/1nVZ0Q37nv6whKbONk0Gxu) | 2:43 |
 
-Snapshot ID: `ZmA0LAAAAAD8QGYPIG0SYKe3BZGSyDEo`
+Snapshot ID: `ZmvuwgAAAAAL7jWlI2thvXUw4qLrqQv3`

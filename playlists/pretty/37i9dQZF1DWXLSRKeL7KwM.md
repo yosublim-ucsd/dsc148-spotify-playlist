@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLSRKeL7KwM.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,877 likes - 150 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,065 likes - 150 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,16 +137,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLSRKeL7KwM.md) - [plain]
 | 127 | [River's Still Running](https://open.spotify.com/track/5ipliYl84z26IyTnGMbZVT) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Grew Up On That](https://open.spotify.com/album/24OC3wKBc8NgSyQyeh8abB) | 3:09 |
 | 128 | [Freedom Was A Highway](https://open.spotify.com/track/3J5jotqUAjU479WhAiNkpU) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Bettie James](https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h) | 3:32 |
 | 129 | [Chicken Fried](https://open.spotify.com/track/4dGJf1SER1T6ooX46vwzRB) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/0Im5nUhAuNDSYVjfPh7RyS) | 3:58 |
-| 130 | [The Git Up](https://open.spotify.com/track/2KKijf6Ett4kmVNJze2roh) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Honeysuckle & Lightning Bugs](https://open.spotify.com/album/4dwNsmLLMl2F4xM5rWfHmj) | 3:20 |
-| 131 | [Country Girl \(Shake It For Me\)](https://open.spotify.com/track/0yD66650JxhqKbW76C2qCo) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Tailgates & Tanlines](https://open.spotify.com/album/4ybWq0AegFFAvHULAe7q0K) | 3:45 |
+| 130 | [Country Girl \(Shake It For Me\)](https://open.spotify.com/track/0yD66650JxhqKbW76C2qCo) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Tailgates & Tanlines](https://open.spotify.com/album/4ybWq0AegFFAvHULAe7q0K) | 3:45 |
+| 131 | [The Git Up](https://open.spotify.com/track/2KKijf6Ett4kmVNJze2roh) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Honeysuckle & Lightning Bugs](https://open.spotify.com/album/4dwNsmLLMl2F4xM5rWfHmj) | 3:20 |
 | 132 | [How Country Feels](https://open.spotify.com/track/6aUhfNWYnMThF3TGtuYUUu) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [How Country Feels](https://open.spotify.com/album/4BVzcXLDJ8pRtJttQiU3G6) | 3:05 |
 | 133 | [My Kinda Party](https://open.spotify.com/track/215FCyLSBcXeX0NASXEjyn) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [My Kinda Party](https://open.spotify.com/album/6gYk1JlSSmlUZGs1Lef1BI) | 4:44 |
 | 134 | [Somebody Like That](https://open.spotify.com/track/3hboOw4dS0aXGuP0fyyvbC) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Love, Heartbreak, & Everything in Between](https://open.spotify.com/album/1H7PmO9d4fsHghlYXDRlWG) | 3:18 |
 | 135 | [Backroad Song](https://open.spotify.com/track/6naYpFIKihKbGg6lGxpveI) | [Granger Smith](https://open.spotify.com/artist/4sTFGCigAQIUiEy8wSSQNF) | [Remington](https://open.spotify.com/album/67RQfNZRRY9LTkRrnOxcJF) | 3:56 |
 | 136 | [I'd Be Jealous Too](https://open.spotify.com/track/7rdK9NSJIRBZAiXC0vuBS9) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Current Mood](https://open.spotify.com/album/23cuZhPWDfX1uKD4qwuv7t) | 3:05 |
 | 137 | [Fancy Like](https://open.spotify.com/track/3ZozFqJJlDBNIm4xqxn2ZD) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff](https://open.spotify.com/album/1Lcuv3HMgEG36SkibQIspv) | 2:41 |
-| 138 | [I Don't Want This Night To End](https://open.spotify.com/track/0cV4xwUA4ue2deqq4CZFko) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Tailgates & Tanlines](https://open.spotify.com/album/4ybWq0AegFFAvHULAe7q0K) | 3:39 |
-| 139 | [Just the Way](https://open.spotify.com/track/5PAvFGse5jjDH9ke8Mae7D) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Just the Way](https://open.spotify.com/album/3BwXeSOrCEZNWEPqxxh7yE) | 3:13 |
+| 138 | [Just the Way](https://open.spotify.com/track/5PAvFGse5jjDH9ke8Mae7D) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Just the Way](https://open.spotify.com/album/3BwXeSOrCEZNWEPqxxh7yE) | 3:13 |
+| 139 | [I Don't Want This Night To End](https://open.spotify.com/track/0cV4xwUA4ue2deqq4CZFko) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Tailgates & Tanlines](https://open.spotify.com/album/4ybWq0AegFFAvHULAe7q0K) | 3:39 |
 | 140 | [Runnin' Outta Moonlight](https://open.spotify.com/track/6enPOmd3vSFpI4jjms8kXN) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [How Country Feels](https://open.spotify.com/album/4BVzcXLDJ8pRtJttQiU3G6) | 3:13 |
 | 141 | [Minimum Wage](https://open.spotify.com/track/4ijajhHtBsOn91S4dgkhu7) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Minimum Wage](https://open.spotify.com/album/0fQJbMjhfuiiP9HAQtrJEX) | 3:48 |
 | 142 | [Smoke A Little Smoke](https://open.spotify.com/track/2uZhNjlUQ9mnt0rS7hcAgF) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Carolina](https://open.spotify.com/album/0QZc1pzqelwhdKftQQDdUw) | 3:11 |
@@ -154,9 +154,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLSRKeL7KwM.md) - [plain]
 | 144 | [Back Then, Right Now](https://open.spotify.com/track/1AIlY4mVcOY34SNA4CTVbC) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Back Then, Right Now](https://open.spotify.com/album/2u0a18UWbvHn1shNtkNbJD) | 3:02 |
 | 145 | [County Roads](https://open.spotify.com/track/1yoKxDLsg38FSRJv60NIo3) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [County Roads](https://open.spotify.com/album/7LfrFqcqb2dxItx3MaCFxt) | 3:11 |
 | 146 | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/track/7DhvNzyMM8jJWcfykG3psB) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/album/2KwIVKnLZLilwl5mYKTtTH) | 2:50 |
-| 147 | [GOOD TIME](https://open.spotify.com/track/2vWFVrnWCKbuG46aG9fXrD) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [DANCE WITH ME](https://open.spotify.com/album/17aWANdxglWQC89jWDDugC) | 3:34 |
-| 148 | [Summer Nights](https://open.spotify.com/track/27rSEMh30XdxOgQX7AKSaM) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Unstoppable](https://open.spotify.com/album/2E36HmDrQ5ALEzjESoRQ12) | 4:02 |
-| 149 | [Beer Never Broke My Heart](https://open.spotify.com/track/5eDvChP4WAPPrtaQeI9MhT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Beer Never Broke My Heart](https://open.spotify.com/album/4NiEW0J6PCsvdxS2ocAqtd) | 3:06 |
-| 150 | [There Was This Girl](https://open.spotify.com/track/4ivJ1KEoJ6S93JbSWvOME1) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [In A Truck Right Now](https://open.spotify.com/album/3cOvLrSJy1uWwEx4j1WCVu) | 3:14 |
+| 147 | [There Was This Girl](https://open.spotify.com/track/4ivJ1KEoJ6S93JbSWvOME1) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [In A Truck Right Now](https://open.spotify.com/album/3cOvLrSJy1uWwEx4j1WCVu) | 3:14 |
+| 148 | [Love Is Real](https://open.spotify.com/track/0pJLfGfCgmr0z9WRjwY7A3) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Country Outta My Girl](https://open.spotify.com/album/5yMa7b6GWvPHTPijIDQVtJ) | 2:42 |
+| 149 | [GOOD TIME](https://open.spotify.com/track/2vWFVrnWCKbuG46aG9fXrD) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [DANCE WITH ME](https://open.spotify.com/album/17aWANdxglWQC89jWDDugC) | 3:34 |
+| 150 | [Summer Nights](https://open.spotify.com/track/27rSEMh30XdxOgQX7AKSaM) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Unstoppable](https://open.spotify.com/album/2E36HmDrQ5ALEzjESoRQ12) | 4:02 |
 
 Snapshot ID: `ZZeM0AAAAAA0K1Hdr7e97ochIBGwuE6k`

@@ -4,7 +4,7 @@
 
 > ¡Mujeres mexicanas a todo volumen! Nuestra embajadora Amanda Miguel en portada.
 
-1,042 songs - 2 day 9 hr 2 min
+1,044 songs - 2 day 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Como las Aves](https://open.spotify.com/track/7CKkmL3rfnchJtVvGuRoyH) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Como las Aves](https://open.spotify.com/album/7kFNNJpZqL9HEUa2Sj3gxC) | 2:18 | 2023-11-29 | 2024-04-04 |
 | [Como Lo Hice Yo](https://open.spotify.com/track/6YNTL320OEMAg4ORqGYt1v) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Así de Enamorados](https://open.spotify.com/album/6cjoz33o9RqcKCgo7zDXxK) | 2:57 | 2023-10-04 | 2023-11-09 |
 | [Como Tu Mujer](https://open.spotify.com/track/6ljWmeDCoqgIFOVKVmKEmu) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Como Tu Mujer](https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt) | 4:22 | 2024-06-05 |  |
+| [Compañera Presidenta](https://open.spotify.com/track/0p8TaudvyXLcM67ORslaSH) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Compañera Presidenta](https://open.spotify.com/album/5F0eh6cLSaGpGvOznO3m3J) | 3:24 | 2024-06-14 |  |
 | [Con To \(feat\. Flow Nasty\)](https://open.spotify.com/track/1QFJzim9HBPFW9E1B1333Q) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Andre Noriega](https://open.spotify.com/artist/4IQ2uSe2L9smq76Jz048Si), [Oviña](https://open.spotify.com/artist/3cJuFQQKreRtCtbQZ83Sam), [Flow Nasty](https://open.spotify.com/artist/4ycU4IDmFd9OO39ej6yfWk) | [Con To \(feat\. Flow Nasty\)](https://open.spotify.com/album/2PJRh0xPNmeEZVGNhwHGGf) | 2:12 | 2023-11-08 | 2023-11-30 |
 | [Conjuro](https://open.spotify.com/track/0kzWfLz03vVe9NCGfi7KbN) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Sánchez](https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf) | 3:05 | 2023-10-04 | 2023-11-09 |
 | [Consentido](https://open.spotify.com/track/1axpeOahN0yl4IMqlgUG2L) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV) | [Mal Hecha \(Deluxe\)](https://open.spotify.com/album/6n2KkPuOhM14eWLPuUipwP) | 3:38 | 2023-06-07 | 2023-07-06 |
@@ -891,6 +892,7 @@
 | [Sígueme](https://open.spotify.com/track/4gHnxt4lthSjV6JIj1XdyM) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [Sígueme](https://open.spotify.com/album/7GV1ORzkEy5eFSSzAVApMz) | 3:59 | 2022-11-03 | 2022-12-01 |
 | [Tacon \(feat\. Six Sex, OH!DULCEARi & Methmath\)](https://open.spotify.com/track/2CsIRWODFyAzwcYkgoEW5G) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [OH!DULCEARi](https://open.spotify.com/artist/4RVTG56sSMIyoqRazFzpVn), [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Amor Hardcore](https://open.spotify.com/album/3HAyLU5CetaZN8mRfI3aAv) | 3:58 | 2023-04-05 | 2023-05-04 |
 | [Talk to Me](https://open.spotify.com/track/00d1uVbCV95FV3RwpFWaTJ) | [LULÚ](https://open.spotify.com/artist/0WbhCU7N9haH6aBYhdqP8a) | [Talk to Me](https://open.spotify.com/album/7G6hPoPT8NqwLc6cmz6UiY) | 3:20 | 2022-04-06 | 2022-05-05 |
+| [Tan Bonita](https://open.spotify.com/track/7kAiuVi660DGkT67MHVIwh) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Tan Bonita](https://open.spotify.com/album/0FFTHBdD5AP5XkVXSdMpEP) | 3:17 | 2024-06-14 |  |
 | [TANTO PARA NADA](https://open.spotify.com/track/4vHKXrsTNjPPHD3gMA0IZs) | [CARMEN MARÍA](https://open.spotify.com/artist/3Mq6h69Nv434ZL6wTlEzSn) | [TANTO PARA NADA](https://open.spotify.com/album/1QgU9MpUHlk6KyXu6s5GY8) | 2:40 | 2023-10-04 | 2023-11-09 |
 | [Tarde O Temprano](https://open.spotify.com/track/71PERzblkfEH2c6W2xWWqc) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [Express](https://open.spotify.com/album/0hP9EQGKeMKyvJgMfM17W0) | 2:40 | 2022-11-03 | 2022-12-01 |
 | [Tayëla](https://open.spotify.com/track/2kD8rBqkRJINzLtSVyVptp) | [Icuru Tsö](https://open.spotify.com/artist/3h8ce3fP5KdQiQCghXtFjr), [Sara Curruchich](https://open.spotify.com/artist/2WvH8EDy9SoE7BbcSQCIOJ) | [Tayëla](https://open.spotify.com/album/2CO1w2lTl0yUHIvIGxJOdb) | 3:07 | 2023-03-01 | 2023-04-06 |

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO2GlwF5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO2GlwF5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO2GlwF5)
 
-### [This Is 坂本真綾](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2GlwF5)
+### [This Is Maaya Sakamoto](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2GlwF5)
 
-> This is 坂本真綾\. The essential tracks, all in one playlist.
+> This is Maaya Sakamoto\. The essential tracks, all in one playlist.
 
 115 songs - 8 hr 43 min
 
@@ -21,7 +21,7 @@
 | [CLEAR](https://open.spotify.com/track/1dmxpZEJUyxglqyuo3DqGh) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [CLEAR](https://open.spotify.com/album/0YbibgkIYu30V8Zz0pEJNd) | 4:15 | 2022-08-10 |  |
 | [CLEAR ～TVサイズ～](https://open.spotify.com/track/1RCEEjexdySvwstGnBEVJs) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [「カードキャプターさくら クリアカード編」オリジナルサウンドトラック](https://open.spotify.com/album/6U04R6FklDZ45KsVchJWMM) | 1:32 | 2023-06-04 |  |
 | [cloud 9](https://open.spotify.com/track/2qGC7Kxul7KDS8Mi8u59B6) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [25周年記念アルバム　シングルコレクション＋ アチコチ](https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf) | 5:00 | 2022-08-10 |  |
-| [discord](https://open.spotify.com/track/1TJsSCtejwPzbhXM9IyZrL) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [11thアルバム　記憶の図書館](https://open.spotify.com/album/37FOxaHocFMsIZRSQcfGkS) | 4:01 | 2023-06-01 |  |
+| [discord](https://open.spotify.com/track/1TJsSCtejwPzbhXM9IyZrL) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [11thアルバム　記憶の図書館](https://open.spotify.com/album/37FOxaHocFMsIZRSQcfGkS) | 4:01 | 2023-06-01 | 2024-06-15 |
 | [DOWN TOWN](https://open.spotify.com/track/3ji08HySZKJUAPYTOeeBpC) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [You can't catch me](https://open.spotify.com/album/4CoGD8RFY0lhSXNxzKT8gr) | 3:55 | 2022-08-11 |  |
 | [Duet! feat\. 和田弘樹](https://open.spotify.com/track/1rwzyBNALfHD2uxLmpnTRI) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw), [和田弘樹](https://open.spotify.com/artist/3ISeKqB65XZIfHAR9gtLv2) | [Duets](https://open.spotify.com/album/1ne4G4bXK0eiLTUpbsb9xU) | 4:28 | 2022-12-29 | 2023-04-28 |
 | [FOLLOW ME](https://open.spotify.com/track/6q49z2CInohThqhW5UAXa6) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [FOLLOW ME UP](https://open.spotify.com/album/7MQ0R1cgZTkGqxh0cZ1H0y) | 5:08 | 2022-08-10 | 2022-10-15 |
@@ -57,7 +57,7 @@
 | [これから](https://open.spotify.com/track/5LDIB7WhwNvV4emxxEfq7g) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [FOLLOW ME UP](https://open.spotify.com/album/7MQ0R1cgZTkGqxh0cZ1H0y) | 5:16 | 2022-08-10 | 2024-03-14 |
 | [こんな日が来るなんて](https://open.spotify.com/track/5gQkuTzS56ao7RpXkpPwIb) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [WOWOWオリジナルアニメ「火狩りの王」エンディングテーマ / TVアニメ「REVENGER」エンディングテーマ まだ遠くにいる / un\_mute](https://open.spotify.com/album/6gGM1wmwOjwXZyOjkFu43t) | 4:28 | 2023-01-31 | 2023-09-19 |
 | [さいごの果実](https://open.spotify.com/track/3HMuIXGPVWXGUsdZpxyqrv) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [さいごの果実/ミツバチと科学者](https://open.spotify.com/album/7FFDPVVPKMnjlduHESU0CJ) | 4:48 | 2022-08-10 | 2022-11-22 |
-| [ないものねだり](https://open.spotify.com/track/3ZSFHKTl8dLGLioGaWkYJj) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [11thアルバム　記憶の図書館](https://open.spotify.com/album/37FOxaHocFMsIZRSQcfGkS) | 4:05 | 2023-06-01 | 2024-06-14 |
+| [ないものねだり](https://open.spotify.com/track/3ZSFHKTl8dLGLioGaWkYJj) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [11thアルバム　記憶の図書館](https://open.spotify.com/album/37FOxaHocFMsIZRSQcfGkS) | 4:05 | 2023-06-01 |  |
 | [はじまりの海](https://open.spotify.com/track/4E6U0JujRf3zyPBe35rXC2) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [25周年記念アルバム シングルコレクション+ アチコチ](https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf) | 3:58 | 2022-08-10 | 2022-10-13 |
 | [ひとくちいかが? feat\. 土岐麻子](https://open.spotify.com/track/5OXT2oFI8Mm8E0iqkV7zCd) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw), [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [Duets](https://open.spotify.com/album/1ne4G4bXK0eiLTUpbsb9xU) | 4:44 | 2022-12-17 |  |
 | [ひとつ屋根の下 feat\. 小泉今日子](https://open.spotify.com/track/4WrZISGcSAM9bsjNFGabJN) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw), [Kyoko Koizumi](https://open.spotify.com/artist/47CIQFAst7iOrRZ16XOfP8) | [Duets](https://open.spotify.com/album/1ne4G4bXK0eiLTUpbsb9xU) | 5:43 | 2023-09-09 | 2024-01-23 |

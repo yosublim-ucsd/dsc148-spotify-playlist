@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-298 songs - 15 hr 32 min
+299 songs - 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [TAKA](https://open.spotify.com/track/645e3XeVtB7QYpl3RdJBil) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [contra](https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi) | [TAKA](https://open.spotify.com/album/7pLqwqHzVfu62xso8Dpn40) | 2:54 | 2024-04-26 |  |
 | [Take a Shot](https://open.spotify.com/track/7F4WJ2X4wHEKiIARTtXlxQ) | [Kovil](https://open.spotify.com/artist/5SeZxToneRE1AZR0EDyJde) | [Take a Shot](https://open.spotify.com/album/1OCHtqZXPxZ6kYL6739FCb) | 2:28 | 2023-09-22 | 2024-03-14 |
 | [Take Me](https://open.spotify.com/track/7pWLqM4gqXzUfxdk87TuX4) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Take Me](https://open.spotify.com/album/2gvZvCqYpEEhFJ22SlBFTo) | 2:37 | 2022-11-18 |  |
+| [Take Me](https://open.spotify.com/track/2nYB9t5WMqrTx21edeNhuB) | [Tommy Mc](https://open.spotify.com/artist/3EKGHC0HhsytwEFdSt5p9p) | [Take Me](https://open.spotify.com/album/2vpyiQyDqiXf7D36tWGjp5) | 2:51 | 2024-06-14 |  |
 | [Tango](https://open.spotify.com/track/5WfT31OMkQPyWIK85HqFhX) | [Pedroz](https://open.spotify.com/artist/0pvhlBRoxPlAsW02LwKp3p), [Deeft](https://open.spotify.com/artist/21pCbE79vQK4sEuuwW4XJ6) | [Tango](https://open.spotify.com/album/4sQRu69Tq3hLBiW1ul2ebQ) | 3:13 | 2024-02-09 | 2024-03-14 |
 | [Tears on the Dance Floor](https://open.spotify.com/track/1oharO6dFvRmHKI2o65GBe) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Club Romantech \(Deluxe\)](https://open.spotify.com/album/0xmI8Oy49CerKEajekFH4I) | 2:41 | 2024-04-26 |  |
 | [Tears on the Dance Floor \- Icona Pop DJ Edit](https://open.spotify.com/track/2khogvElDU87ouGOwIhQov) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Tears on the Dance Floor \(Icona Pop DJ Edit\)](https://open.spotify.com/album/2DNlcQPAoBiAbuEkFCxlNl) | 3:48 | 2024-02-09 | 2024-05-01 |

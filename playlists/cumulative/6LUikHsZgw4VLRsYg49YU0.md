@@ -4,7 +4,7 @@
 
 > New and classic sounds from the world of Anime featuring the latest tracks from Solo Leveling, Chainsaw Man, Cyberpunk, BLEACH &amp; more!
 
-204 songs - 11 hr 59 min
+205 songs - 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [恋ノ行方](https://open.spotify.com/track/1ognDP1UWqfcPaOvlzTCXx) | [あかせあかり](https://open.spotify.com/artist/50k6hfXdVJ3uD8fUt7PQvL) | [恋ノ行方](https://open.spotify.com/album/5PobZ27bNVPebdG5sRvnQF) | 3:37 | 2023-01-13 |  |
 | [恋愛サーキュレーション](https://open.spotify.com/track/5P8lyudWE7HQxb4ludLbEm) | [物語シリーズ](https://open.spotify.com/artist/0NT8fqhPoKJrd038u1Qumz) | [Utamonogatari Special Edition \(Original Soundtrack\)](https://open.spotify.com/album/0Wibr4Xn7la0V69fnnujJw) | 4:15 | 2022-12-09 | 2024-04-13 |
 | [旅のゆくえ](https://open.spotify.com/track/7kOzUAVtgt0zovCULJ7oSv) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [旅のゆくえ](https://open.spotify.com/album/79FxBaskvhHUSmrYJsNid1) | 3:34 | 2024-04-05 |  |
+| [月並みに輝け](https://open.spotify.com/track/22IFbzcuLrK7ZAoj6Ms9I0) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [月並みに輝け / 今、僕、アンダーグラウンドから](https://open.spotify.com/album/7zLObKK7vTZaVbrM12bLVT) | 4:07 | 2024-06-14 |  |
 | [朝が来る](https://open.spotify.com/track/6Mq4q5OIMO25vBsKpFdlnH) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [朝が来る](https://open.spotify.com/album/072aXGXyby8RpZ4TNP37Rx) | 4:54 | 2023-01-13 |  |
 | [楽園](https://open.spotify.com/track/6X9m9JRk2ypGusClUBraII) | [Fujifabric](https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL) | [楽園](https://open.spotify.com/album/0Mr39HG5mzEClMKWpQGrGo) | 3:45 | 2022-12-09 | 2024-01-13 |
 | [次回予告](https://open.spotify.com/track/2bo9W888RRWGTk9AxmxUJs) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [次回予告](https://open.spotify.com/album/4cQOQ6V8xNB6pKPEYCvvg3) | 3:08 | 2024-04-12 |  |

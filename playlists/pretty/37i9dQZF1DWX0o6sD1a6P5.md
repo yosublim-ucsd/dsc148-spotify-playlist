@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Oxlade
 
-[Spotify](https://open.spotify.com/user/spotify) - 907,468 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 907,643 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 29 | [Bad Vibes \(feat\. Seyi Vibez\)](https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Bad Vibes](https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g) | 2:48 |
 | 30 | [Laisse Tomber](https://open.spotify.com/track/03rYPudz35ckybOHBjULcs) | [Hulk Van JMF](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Laisse Tomber](https://open.spotify.com/album/20jWza11L5iUfZjchs8JW4) | 2:17 |
 | 31 | [Casanova](https://open.spotify.com/track/6J7xEQtzvdCzEcwdDVRSR1) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Casanova](https://open.spotify.com/album/1XWnTZtP6EICZa34XlISes) | 3:03 |
-| 32 | [T’étais où ?](https://open.spotify.com/track/1q6nM8Y7NJDsgFknLfZfp4) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [T’étais où ?](https://open.spotify.com/album/4YzgzJggoHU1azpDoUMMf5) | 3:41 |
+| 32 | [T’étais où ?](https://open.spotify.com/track/1q6nM8Y7NJDsgFknLfZfp4) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [T’étais où ?](https://open.spotify.com/album/4YzgzJggoHU1azpDoUMMf5) | 3:41 |
 | 33 | [Egwu](https://open.spotify.com/track/1IMRi5UVOV77PsAgdWDvzh) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Egwu](https://open.spotify.com/album/4JlWlQoaf9gg1Ve5rzoSQi) | 2:16 |
 | 34 | [Double appel](https://open.spotify.com/track/1O8JyjQbRtGDNCaKbyvWPl) | [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [47°](https://open.spotify.com/album/2u1FFQgZEDlhdQtXVqjaw4) | 2:24 |
 | 35 | [Ngozi](https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Trench to Triumph](https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal) | 3:41 |

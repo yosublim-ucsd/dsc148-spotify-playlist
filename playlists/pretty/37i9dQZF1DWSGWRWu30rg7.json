@@ -1,12 +1,12 @@
 {
   "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover:  Rangga Damara",
-  "num_followers": 63504,
+  "num_followers": 63507,
   "original_name": "Fresh Finds Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmspAAAAAADIx+iO962DnjfSZ4BZqIcx",
+  "snapshot_id": "Zmu+VQAAAADMaTgcfrM5sCx3KVG8gJ6i",
   "tracks": [
     {
       "added_at": "2024-06-13 17:14:40",
@@ -105,6 +105,22 @@
       "url": "https://open.spotify.com/track/44fHQPZVM0UHcLEmFMQfDw"
     },
     {
+      "added_at": "2024-06-14 03:51:49",
+      "album": {
+        "name": "Chillin' Mozart",
+        "url": "https://open.spotify.com/album/263VumCcY9ktMlqBHHcPMz"
+      },
+      "artists": [
+        {
+          "name": "ORLNDO",
+          "url": "https://open.spotify.com/artist/3xvNkj7lm1TvanBhLfdANq"
+        }
+      ],
+      "duration_ms": 241025,
+      "name": "Chillin' Mozart",
+      "url": "https://open.spotify.com/track/5V7mEQtInMHPjx01GvfOFz"
+    },
+    {
       "added_at": "2024-06-13 17:14:40",
       "album": {
         "name": "Terpaksa Terbiasa",
@@ -119,6 +135,22 @@
       "duration_ms": 245750,
       "name": "Terpaksa Terbiasa",
       "url": "https://open.spotify.com/track/18qK1moomW2lZe9WZXGRxZ"
+    },
+    {
+      "added_at": "2024-06-14 03:51:49",
+      "album": {
+        "name": "6 Years",
+        "url": "https://open.spotify.com/album/70quQHRn8bIn3OlQ7gI7lF"
+      },
+      "artists": [
+        {
+          "name": "Rendika Rizky",
+          "url": "https://open.spotify.com/artist/7K2gErJTsg9xYU9LejBEQG"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "6 Years",
+      "url": "https://open.spotify.com/track/1VKjhMYLqUaBlnYmNIloW7"
     },
     {
       "added_at": "2024-06-13 17:14:40",
@@ -155,6 +187,70 @@
       "duration_ms": 220500,
       "name": "Adore",
       "url": "https://open.spotify.com/track/4HOpUAUoFw50JvrcrSxi44"
+    },
+    {
+      "added_at": "2024-06-14 03:51:49",
+      "album": {
+        "name": "Bukanlah Untukku",
+        "url": "https://open.spotify.com/album/3UjXRrGpBoyN1sK5GhFb89"
+      },
+      "artists": [
+        {
+          "name": "Alycia Ferryana",
+          "url": "https://open.spotify.com/artist/3yH6nkIPi93dpBO3L0K52M"
+        }
+      ],
+      "duration_ms": 278115,
+      "name": "Bukanlah Untukku",
+      "url": "https://open.spotify.com/track/3xtQotnIlvIzs7ljhzHwJk"
+    },
+    {
+      "added_at": "2024-06-14 03:51:49",
+      "album": {
+        "name": "Kasih Tak Sampai",
+        "url": "https://open.spotify.com/album/4WxWz8QMsMWYKeQNG9NgMh"
+      },
+      "artists": [
+        {
+          "name": "DNANDA",
+          "url": "https://open.spotify.com/artist/45llK0vUDYIrW1vz7fv1Ti"
+        }
+      ],
+      "duration_ms": 283030,
+      "name": "Kasih Tak Sampai",
+      "url": "https://open.spotify.com/track/1cMNIseHu9zUQa2cES4ASw"
+    },
+    {
+      "added_at": "2024-06-13 17:14:40",
+      "album": {
+        "name": "Menyalakan Perayaan",
+        "url": "https://open.spotify.com/album/5VfLePyMm7Cu53aQQfoJwn"
+      },
+      "artists": [
+        {
+          "name": "Blue Jeans Rough Back",
+          "url": "https://open.spotify.com/artist/0Be0mgCpViyzz8Cax3KHhu"
+        }
+      ],
+      "duration_ms": 237538,
+      "name": "Menyalakan Perayaan",
+      "url": "https://open.spotify.com/track/51ZtMlNU4NWCAMrwfSYspP"
+    },
+    {
+      "added_at": "2024-06-14 03:51:49",
+      "album": {
+        "name": "Kau Buat Diriku Terluka",
+        "url": "https://open.spotify.com/album/40VMxLvPbKAx3ooGJqJ1cj"
+      },
+      "artists": [
+        {
+          "name": "Syahriyadi",
+          "url": "https://open.spotify.com/artist/7ec9HBl5JRTo77gSz4O6gH"
+        }
+      ],
+      "duration_ms": 261874,
+      "name": "Kau Buat Diriku Terluka",
+      "url": "https://open.spotify.com/track/4DlEGTR0SrtPsjHL8SgpWu"
     },
     {
       "added_at": "2024-06-13 17:14:40",

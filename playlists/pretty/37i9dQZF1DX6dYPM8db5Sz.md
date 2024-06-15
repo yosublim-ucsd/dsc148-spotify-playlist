@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 ### [Indie GO](https://open.spotify.com/playlist/37i9dQZF1DX6dYPM8db5Sz)
 
-> The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj?si=FUu68y5zTUi3z0mgiu4pjg">Year of Dogs</a>
+> The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/5LeZoIsr3HTDipdWQbiAfo?si=\_B\_mifL5R3OfpUUPLAePZQ">ARD matthews</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,716 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,720 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Just Life](https://open.spotify.com/track/3Lrfiqxkt9RCijqvqnmxbE) | [Year of Dogs](https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj) | [Just Life](https://open.spotify.com/album/3hU62GObiUj82npdIVp9Cn) | 3:41 |
+| 1 | [You Make It Alright](https://open.spotify.com/track/1oOMo7oBoG0lDFKDEjC8ZS) | [ARD matthews](https://open.spotify.com/artist/5LeZoIsr3HTDipdWQbiAfo) | [You Make It Alright](https://open.spotify.com/album/0IzSX4HGvkb9uJ5erwToSG) | 3:58 |
 | 2 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 |
 | 3 | [Riptide](https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:24 |
 | 4 | [Take Me To Church](https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk) | 4:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 49 | [Riding](https://open.spotify.com/track/5h2nyrTocI7DEyYlNqFfvm) | [Jon Muq](https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe) | [Flying Away](https://open.spotify.com/album/4j1AyvNomAzsaT9mi0VkNB) | 3:05 |
 | 50 | [Miss You](https://open.spotify.com/track/1MpyOrNKUXCv3lE9DlPqWe) | [Lone Tree](https://open.spotify.com/artist/0VAj0iiD96mFA60tqZrtUU) | [Miss You](https://open.spotify.com/album/6gqySHl4zPpgNOcxg9Usdj) | 4:47 |
 
-Snapshot ID: `ZmK9MgAAAABcFUtZ8gugiQuTsVZgc4PS`
+Snapshot ID: `Zmv2AQAAAADo21W6ZzkFujc9QK8oiBOs`

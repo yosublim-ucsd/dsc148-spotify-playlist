@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125956,
+  "num_followers": 125948,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAShMF9j+mcNYlcmSupZW6Qviw83zgI",
+  "snapshot_id": "AAAShdzu03Lwu7hCQ/GUFN4tsdy7FpZC",
   "tracks": [
+    {
+      "added_at": "2024-06-14 14:53:26",
+      "album": {
+        "name": "Sip On This",
+        "url": "https://open.spotify.com/album/1hSSCKGzuuNbn9IZk8MN8k"
+      },
+      "artists": [
+        {
+          "name": "SIPPY",
+          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+        }
+      ],
+      "duration_ms": 200787,
+      "name": "Sip On This",
+      "url": "https://open.spotify.com/track/1mH6LCjX9SiM6rJEEz8jz4"
+    },
     {
       "added_at": "2024-06-13 13:23:24",
       "album": {

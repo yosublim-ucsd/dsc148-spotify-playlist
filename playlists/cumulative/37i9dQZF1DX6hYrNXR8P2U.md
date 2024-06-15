@@ -2,9 +2,9 @@
 
 ### [piola](https://open.spotify.com/playlist/37i9dQZF1DX6hYrNXR8P2U)
 
-> Más música, menos etiquetas\.  <br/>📷 Dani Ribba
+> Más música, menos etiquetas\.  <br/>📷 Gauchito Club
 
-256 songs - 13 hr 36 min
+259 songs - 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [AMAME](https://open.spotify.com/track/3ynkDyWXMgspdVxrp022vu) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [2030](https://open.spotify.com/album/2BBBxM35Iz9XG9cARYDqlr) | 3:39 | 2024-03-22 | 2024-03-30 |
 | [AMANECER](https://open.spotify.com/track/1DDqxK4J41BGZXavc4cSuh) | [planta](https://open.spotify.com/artist/5RdWxvvyhOcNMva8aeqb9E) | [AMANECER](https://open.spotify.com/album/1inF5EvaN9ugCIyw33Q1F5) | 3:01 | 2024-01-19 |  |
 | [AMIGOS NUEVOS](https://open.spotify.com/track/2IEO7E3Qh7nYgKjdVagZKq) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [POST MORTEM](https://open.spotify.com/album/39g3CsFBc9YK9Z6AbvvkgF) | 2:19 | 2023-10-13 | 2023-12-16 |
-| [Amor de Película](https://open.spotify.com/track/62LEhl8r8arwSDuHF0u0Ze) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [Amor de Película](https://open.spotify.com/album/06UAzAedzCDQT7jYWSWeEY) | 2:52 | 2023-11-10 |  |
+| [Amor de Película](https://open.spotify.com/track/62LEhl8r8arwSDuHF0u0Ze) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [Amor de Película](https://open.spotify.com/album/06UAzAedzCDQT7jYWSWeEY) | 2:52 | 2023-11-10 | 2024-06-15 |
 | [ANCESTRAL](https://open.spotify.com/track/5FCnN5oCrccvoaShwfanmU) | [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [NEO](https://open.spotify.com/album/3sfLvbXtGlQl9wVafzi55i) | 2:33 | 2023-10-13 | 2024-01-20 |
 | [Andate](https://open.spotify.com/track/4c58twuNTtI4VBzH28I3EV) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [NAFTA II](https://open.spotify.com/album/4B2sJdUM5lyuiGv7KYi8It) | 2:58 | 2023-10-13 |  |
 | [Andei Só](https://open.spotify.com/track/3SfD0MD4vj9vRRqxbmvhLI) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Andei Só](https://open.spotify.com/album/6HJf6QbEk7IR6zpDRiHMMd) | 5:57 | 2024-01-19 | 2024-04-13 |
@@ -34,7 +34,7 @@
 | [Atormentada](https://open.spotify.com/track/0KHFf9RtpZyRlcJDHL4AKR) | [FRANSIA](https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7) | [Vida Real](https://open.spotify.com/album/4LzdHfWwKopzSuUichGbgm) | 3:19 | 2023-11-24 | 2024-02-02 |
 | [Bandido \- En Vivo](https://open.spotify.com/track/2O8uyEmxm1CLMS2FsNETUx) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [En Vivo en el Gran Rex](https://open.spotify.com/album/1u1xLl9ra1AI0SP5q8uYvn) | 4:24 | 2023-10-13 | 2024-04-06 |
 | [Bar de Playa](https://open.spotify.com/track/1CFZZSdo35zhs2uZ9sFoXv) | [107 Faunos](https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r) | [Vandalismo Comparado](https://open.spotify.com/album/1gN1fgqgy9K0nwAZ5KDrXM) | 2:09 | 2024-06-08 |  |
-| [Bar de Playa](https://open.spotify.com/track/6YbC0D2ZYyjOmXn2sBirbA) | [107 Faunos](https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r) | [Bar de Playa](https://open.spotify.com/album/7CUbw1fLnPPJCEGTkLMUzU) | 2:09 | 2024-02-16 |  |
+| [Bar de Playa](https://open.spotify.com/track/6YbC0D2ZYyjOmXn2sBirbA) | [107 Faunos](https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r) | [Bar de Playa](https://open.spotify.com/album/7CUbw1fLnPPJCEGTkLMUzU) | 2:09 | 2024-02-16 | 2024-06-15 |
 | [Beautiful](https://open.spotify.com/track/0oH7QF9L9fzDy6EFWlivCC) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [Obsesionario](https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j) | 3:36 | 2024-03-29 |  |
 | [Beautiful People \(Stay High\)](https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Beautiful People \(Stay High\)](https://open.spotify.com/album/0oqLTgRfBNuf246takjtXd) | 2:47 | 2024-01-19 | 2024-01-27 |
 | [Beso a Beso](https://open.spotify.com/track/70l4rAWoSEdtir2jTs88Cd) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [Es infinito](https://open.spotify.com/artist/6mjMtFxKociqdKI14Ug3ec) | [Welcome To Córdoba City](https://open.spotify.com/album/475EGaBnVDjgGIjbhKPPvv) | 3:33 | 2023-12-15 | 2024-04-27 |
@@ -45,6 +45,7 @@
 | [Borracha en un Baño Ajeno](https://open.spotify.com/track/7Mvra8PCttugZU8ZqoMkZS) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Borracha en un Baño Ajeno](https://open.spotify.com/album/4OTw7mFzyL9pKgNXOMd4EG) | 4:00 | 2023-12-08 | 2024-02-17 |
 | [Breaking Bad](https://open.spotify.com/track/51lUwiop70vQfBtif5sFsW) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T) | [PURA](https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl) | 1:51 | 2024-03-01 |  |
 | [Búscame](https://open.spotify.com/track/4ciKkwEp9mnBmXh1eY8KZk) | [Kris Alaniz](https://open.spotify.com/artist/2BBJWIcxT5ermErEg2LbWB), [La Bruja Salguero](https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda) | [Búscame](https://open.spotify.com/album/11NTTKfT7MWt8g8na0JZ06) | 3:44 | 2023-10-13 | 2024-03-23 |
+| [Caballos](https://open.spotify.com/track/24XhxQCrRigCd7wMEbbRaI) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Arco y Flecha](https://open.spotify.com/album/5TEvOwAKlHcNOqM5EUnohR) | 2:43 | 2024-06-14 |  |
 | [CABEZAS DEL TIEMPO](https://open.spotify.com/track/4FjmttGB9sxrxY3UY0gDG9) | [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A), [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ), [Tomy Sainz](https://open.spotify.com/artist/07mfD3Txop0KJIEHoQRFZZ) | [333](https://open.spotify.com/album/7wepZzZxhVV8M5eM9u8StC) | 3:12 | 2023-11-10 | 2024-03-02 |
 | [CADA VEZ QUE](https://open.spotify.com/track/5pIWNTCanCfMoXkS3v5UAa) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G) | [CADA VEZ QUE](https://open.spotify.com/album/1cHzgSSyMkVPwuK8QH0RhR) | 2:31 | 2024-04-12 |  |
 | [Cae la noche](https://open.spotify.com/track/1BKGYjquRMON7xsPSz51o8) | [BATOS](https://open.spotify.com/artist/47ImzDRVg19IIw6IQa2tLI) | [Cae la noche](https://open.spotify.com/album/6zh0kUiR3qiD95UsBi8TYB) | 4:04 | 2023-10-13 |  |
@@ -156,6 +157,7 @@
 | [nada mejor](https://open.spotify.com/track/3kWuBlBpeKyaZzlGxVHG2e) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [nada mejor](https://open.spotify.com/album/4fe8cH92WZmb9rQVyy3aEK) | 3:17 | 2024-02-23 |  |
 | [Neverita](https://open.spotify.com/track/31i56LZnwE6uSu3exoHjtB) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:53 | 2024-03-29 | 2024-05-03 |
 | [Ni 1 Complejo](https://open.spotify.com/track/7qP5BoRHR5d9qxGmk8ruY1) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Ni 1 Complejo](https://open.spotify.com/album/0gzD0rupIe407RHRQY9GPk) | 2:54 | 2024-02-01 | 2024-03-23 |
+| [Nicolás Cage](https://open.spotify.com/track/5KRXGRFDEBA7ukH5MUTQH1) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Nicolás Cage](https://open.spotify.com/album/2r08YHQj8C5sMCexnqfsDe) | 3:30 | 2024-06-14 |  |
 | [NIGHT](https://open.spotify.com/track/3WYDHx5ZdIQ5CbptHDlASI) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [EL ÚLTIMO BAILE](https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88) | 2:44 | 2024-05-24 |  |
 | [no fui yo](https://open.spotify.com/track/44xr3vpFH4eSujSoKXLOKd) | [mecha](https://open.spotify.com/artist/7ncAqCHIhv1EDFZRtppEsF) | [no fui yo](https://open.spotify.com/album/4IwNY0KU7qZt8GJaqY0B95) | 3:21 | 2024-03-01 |  |
 | [No hay nadie como tú](https://open.spotify.com/track/2ylnGkpzyQ7NIqFA4yt0sZ) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [No hay nadie como tú](https://open.spotify.com/album/2fr7dB5wAGPorXcFWEfEiF) | 3:05 | 2024-04-26 |  |
@@ -169,7 +171,7 @@
 | [Nos Pasa Lo Mismo](https://open.spotify.com/track/5gSDKJXKITtPcxnQJ8yNri) | [Hojas por el Barrio](https://open.spotify.com/artist/5Gfm9T0eRK1wOlnjeHrhC6), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Nos Pasa Lo Mismo](https://open.spotify.com/album/0S052giv0KheknU0PiEY5C) | 3:01 | 2023-10-13 | 2024-03-02 |
 | [NOVIOS IMAGINARIOS](https://open.spotify.com/track/3cJZrt65UKu0QUK0k6P0mb) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [NOVIOS IMAGINARIOS](https://open.spotify.com/album/5wODKDJLbCcI79XTka4k00) | 4:44 | 2023-10-13 | 2023-12-09 |
 | [Nunca Lo Olvides](https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Nunca Lo Olvides](https://open.spotify.com/album/6ZDbOUt4FRdFgQEbhJyFui) | 4:59 | 2024-01-19 |  |
-| [OHH BABY](https://open.spotify.com/track/4yaaJjSiZKDby86zsbFAd4) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [OHH BABY](https://open.spotify.com/album/5nzTg7XAPNrQlj9EQyBVgX) | 2:30 | 2023-10-13 |  |
+| [OHH BABY](https://open.spotify.com/track/4yaaJjSiZKDby86zsbFAd4) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [OHH BABY](https://open.spotify.com/album/5nzTg7XAPNrQlj9EQyBVgX) | 2:30 | 2023-10-13 | 2024-06-15 |
 | [Ojitos de Md](https://open.spotify.com/track/0Pkc9prDMNlz3WhP9MkwMx) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [Ojitos de Md](https://open.spotify.com/album/5CevLKYFXjNzjGl8hRi1lv) | 2:17 | 2024-03-22 | 2024-06-01 |
 | [On My Own](https://open.spotify.com/track/51xUartdwQzXmtrwHyXRVp) | [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH) | [Teen Beach 2 \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/1g0o05ehdpvoEYfhMXvW9P) | 2:25 | 2024-03-29 |  |
 | [Opuesto Complementario](https://open.spotify.com/track/7G5Zd3uDwBnEPVJeYOveee) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Llorando en la Fiesta](https://open.spotify.com/album/2Iwv6vy0O8yMqqZZeC2Kj7) | 2:59 | 2023-10-13 | 2023-12-16 |
@@ -256,6 +258,7 @@
 | [Viento helado](https://open.spotify.com/track/6esfymnhduFli5Sy1rRb3z) | [Rocco Posca](https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd) | [Viento helado](https://open.spotify.com/album/11C8gOlm6EB8DXXZS1RkY2) | 2:23 | 2024-03-08 |  |
 | [Vigilantes del Espejo](https://open.spotify.com/track/1QjFddBhVe7TQXuD0Q9qbh) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Vigilantes del Espejo](https://open.spotify.com/album/45PnYxsAXPl6Ytmd2qJQI6) | 2:08 | 2023-10-13 | 2023-12-09 |
 | [Visa Gold Miami](https://open.spotify.com/track/0Pd4u4TF4v3xsUK6ziOamg) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf), [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Tote](https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64) | [Visa Gold Miami](https://open.spotify.com/album/4RP1zedrA6lKoiOku9W7mw) | 3:01 | 2023-12-08 | 2024-03-09 |
+| [Vulnerable](https://open.spotify.com/track/4Smf2SlfBKvBztC7WLRIn3) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj) | [Vulnerable](https://open.spotify.com/album/1fLDwkdNXMFKjEdvI1rAap) | 3:58 | 2024-06-14 |  |
 | [Whos That B!Tch?](https://open.spotify.com/track/1zGuXTNJXJYkC8AJqiQUAK) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Whos That B!Tch?](https://open.spotify.com/album/73YJ3dUZY8a1RQy4KB2dQc) | 2:33 | 2023-10-13 | 2023-11-25 |
 | [wiggy](https://open.spotify.com/track/4xU4XeklG562EnanWzpY3A) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [wiggy](https://open.spotify.com/album/68SNI4G6JbLY2CqjFXfN0n) | 2:26 | 2023-10-13 |  |
 | [Xtasis](https://open.spotify.com/track/3YhDwzSVlVULhqWv2D3M2b) | [FRANSIA](https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7) | [Xtasis](https://open.spotify.com/album/1sTh1Y7r8r24MRuFcLL7pe) | 3:23 | 2023-10-13 | 2024-02-17 |

@@ -152,10 +152,6 @@
         {
           "name": "Sai Smriti",
           "url": "https://open.spotify.com/artist/139FRgoVcJ82jogPttiWcc"
-        },
-        {
-          "name": "Sathyan Ilanko",
-          "url": "https://open.spotify.com/artist/0GbNmLZKI7PpYKVkw26wnN"
         }
       ],
       "date_added": "2024-06-13",
@@ -1569,6 +1565,28 @@
     },
     {
       "album": {
+        "name": "Bullet Vizhigalal",
+        "url": "https://open.spotify.com/album/24XucL2zXmAMPPkvUMLoj5"
+      },
+      "artists": [
+        {
+          "name": "Mirun Pradhap",
+          "url": "https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r"
+        },
+        {
+          "name": "Kaveera",
+          "url": "https://open.spotify.com/artist/6Yjlo3KK5M2SXwS0vmHpBq"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178917,
+      "name": "Bullet Vizhigalal - Speed Up",
+      "url": "https://open.spotify.com/track/67xBnmxtiYz53Wc0CqoOJU"
+    },
+    {
+      "album": {
         "name": "Chickana",
         "url": "https://open.spotify.com/album/4F9B7w1XZeINGaly1GhJ70"
       },
@@ -2370,6 +2388,24 @@
       "duration_ms": 258911,
       "name": "Ennada Kanna",
       "url": "https://open.spotify.com/track/7Ln2fykCiyafchuo1bbt1l"
+    },
+    {
+      "album": {
+        "name": "Ennasai Kaadhaliye",
+        "url": "https://open.spotify.com/album/3kVBl5qhASlKbXftyDTslf"
+      },
+      "artists": [
+        {
+          "name": "Najim Arshad",
+          "url": "https://open.spotify.com/artist/4v0D49goEdstHHCMMlbpt1"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251497,
+      "name": "Ennasai Kaadhaliye",
+      "url": "https://open.spotify.com/track/6M9MebuHb3t1N0AgQcGy86"
     },
     {
       "album": {
@@ -5958,6 +5994,24 @@
       "duration_ms": 144000,
       "name": "Miss",
       "url": "https://open.spotify.com/track/5a2POiidIrd0L84CR2lrLy"
+    },
+    {
+      "album": {
+        "name": "Miss Worldwide",
+        "url": "https://open.spotify.com/album/6mddZoMyU3552WU1OdgczN"
+      },
+      "artists": [
+        {
+          "name": "AK Sekaren",
+          "url": "https://open.spotify.com/artist/2TuYELbaTUDcXeeLLgxU9s"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Miss Worldwide",
+      "url": "https://open.spotify.com/track/1dggrH8yPRF7waf6g7lYxF"
     },
     {
       "album": {

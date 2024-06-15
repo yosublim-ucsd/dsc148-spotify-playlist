@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-11",
-  "description": "This is Chiquis. The essential tracks, all in one playlist.",
+  "description": "This Is Chiquis. Los temas esenciales, todos en una lista.",
   "name": "This Is Chiquis",
   "tracks": [
     {
@@ -184,6 +184,24 @@
       "duration_ms": 171866,
       "name": "Baila As\u00ed (feat. Chiquis)",
       "url": "https://open.spotify.com/track/4uZA7hxe5WZiQpOAu9lerj"
+    },
+    {
+      "album": {
+        "name": "Diamantes",
+        "url": "https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158160,
+      "name": "Bienvenida De Soltera",
+      "url": "https://open.spotify.com/track/3cDwKmgiVP5acuMi62z3Ig"
     },
     {
       "album": {
@@ -1392,7 +1410,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 184520,
       "name": "Ticket De Salida",
       "url": "https://open.spotify.com/track/01ONRpkfIIAiavWJVY03AH"

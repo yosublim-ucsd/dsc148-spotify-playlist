@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "This is Calibre 50. The essential tracks, all in one playlist.",
+  "description": "This Is Calibre 50. Los temas esenciales, todos en una lista.",
   "name": "This Is Calibre 50",
   "tracks": [
     {
@@ -342,6 +342,24 @@
       "duration_ms": 195320,
       "name": "D\u00edas Buenos, D\u00edas Malos",
       "url": "https://open.spotify.com/track/6lZGi8KCx0JGfo6jf0sUnv"
+    },
+    {
+      "album": {
+        "name": "Las Culebras",
+        "url": "https://open.spotify.com/album/2Vvf4lURmmpC9QLeP28Kte"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152853,
+      "name": "El Amor De Mi Vida",
+      "url": "https://open.spotify.com/track/3XUfJVTcGDt846jDjnBs3W"
     },
     {
       "album": {
@@ -1100,7 +1118,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 128639,
       "name": "Una Mala Elecci\u00f3n",
       "url": "https://open.spotify.com/track/5lEjdcCF84tGOx54LbZZKC"

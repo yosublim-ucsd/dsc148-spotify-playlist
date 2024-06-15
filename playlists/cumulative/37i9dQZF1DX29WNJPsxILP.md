@@ -4,7 +4,7 @@
 
 > Rap from the hoods of Dilli featuring DG IMMORTALS, Raga
 
-137 songs - 7 hr 5 min
+138 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Batman](https://open.spotify.com/track/0x5itC1IF7WtrA7lJUmIbf) | [Aghor](https://open.spotify.com/artist/3AsmJFW9t14OXuJp9zOuPk), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Batman](https://open.spotify.com/album/75K8WUFvfA5ejXARa0y60o) | 3:32 | 2023-03-10 | 2023-10-12 |
 | [Bawli](https://open.spotify.com/track/3cp5VdEzmk4DmLOs7LOTpT) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Bawli](https://open.spotify.com/album/5bIAiDpCAnHxZ6N2EN8mTQ) | 1:58 | 2023-09-12 | 2024-05-23 |
 | [Been a While](https://open.spotify.com/track/6FN68TXRiK095cQzv9tG5c) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Time Will Tell](https://open.spotify.com/album/2KeoHVqxTVYsOz5ThUyQ6y) | 3:47 | 2023-03-10 |  |
+| [Bhai Hai](https://open.spotify.com/track/0z2xoirJvVGRDXoBxaH9h8) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Enzo](https://open.spotify.com/artist/0QX0UY2UJtnhfEbqUbTz6h) | [Bhai Hai](https://open.spotify.com/album/030XdUEQhiS5NI7hgvgLap) | 2:24 | 2024-06-14 |  |
 | [Bhussi](https://open.spotify.com/track/4jwC6DDNc7zhe6f6g4yqAd) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Bhussi](https://open.spotify.com/album/1bRdFGU7FkyGzJdODQz3dj) | 3:04 | 2023-07-24 |  |
 | [Blowing Up](https://open.spotify.com/track/3Oh2FwWbnKIAyUE2gToFYu) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Blowing Up](https://open.spotify.com/album/0nzNYneCXJhO6OZQLHROri) | 4:07 | 2023-03-10 |  |
 | [Bt Ho Gayi](https://open.spotify.com/track/1guV4vXt4fnnwALAdxy5hq) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Mtv Hustle 2.0](https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R) | 2:36 | 2023-05-18 | 2024-04-19 |
@@ -45,7 +46,7 @@
 | [F16](https://open.spotify.com/track/2KFuYtZf6KxzDE6PogFxMK) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 3:29 | 2023-03-10 |  |
 | [Feel Hai](https://open.spotify.com/track/5HPo4dz4rvFaKBdcE8Ss9l) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Feel Hai](https://open.spotify.com/album/5r9XIjZkwLqJC2eEc1V4fM) | 2:58 | 2023-03-10 | 2023-10-12 |
 | [Flex](https://open.spotify.com/track/1BjFMR7Cb8yaQyOsZBszML) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [Flex](https://open.spotify.com/album/0jpun7yb7Ve0nSJsrTVt1C) | 3:20 | 2023-03-10 | 2023-10-12 |
-| [Fomo](https://open.spotify.com/track/0UtZD1wNeR0VqukhXs0AN4) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [ZelliX](https://open.spotify.com/artist/5CJ8Xtvv57oEiRKIy6OjJt) | [Overthink](https://open.spotify.com/album/1SyRpT0v6h3OtAX6l4Gtpx) | 4:10 | 2023-03-10 |  |
+| [Fomo](https://open.spotify.com/track/0UtZD1wNeR0VqukhXs0AN4) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [ZelliX](https://open.spotify.com/artist/5CJ8Xtvv57oEiRKIy6OjJt) | [Overthink](https://open.spotify.com/album/1SyRpT0v6h3OtAX6l4Gtpx) | 4:10 | 2023-03-10 | 2024-06-15 |
 | [Ghana Kasoota \(feat\. Surbhi Jyoti\)](https://open.spotify.com/track/0mvcsYusnTYlAkOZ077lDb) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Surbhi Jyoti](https://open.spotify.com/artist/0ZwLuYX3Fe14PhonPeqd5X) | [Ghana Kasoota \(feat\. Surbhi Jyoti\)](https://open.spotify.com/album/5wNK25BcVubz95drmXiBCZ) | 2:48 | 2023-03-10 |  |
 | [Ghor Illegal](https://open.spotify.com/track/1ufntf5Rnlr9KMwNrLKgHc) | [Dakait](https://open.spotify.com/artist/2BrIU10C4UeoaDFgPg44Y7), [Aniket Raturi](https://open.spotify.com/artist/1jXFRp4614WZlih5QJ51RS), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Ghor Illegal](https://open.spotify.com/album/0mCZjkKZs4FOhOVKjf4o6c) | 3:30 | 2023-05-18 |  |
 | [Glitch](https://open.spotify.com/track/6AkmSJKHHyI07I1qLOVMVu) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [ISHH](https://open.spotify.com/artist/6QQsEqBC1lD3g2iMHIb8F8) | [Overthink](https://open.spotify.com/album/1SyRpT0v6h3OtAX6l4Gtpx) | 3:30 | 2023-03-10 |  |

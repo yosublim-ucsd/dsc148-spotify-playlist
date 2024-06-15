@@ -201,6 +201,28 @@
     },
     {
       "album": {
+        "name": "Burning",
+        "url": "https://open.spotify.com/album/7tCy6wL8s3hXKXAG6whYG6"
+      },
+      "artists": [
+        {
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+        },
+        {
+          "name": "Metropole Orkest",
+          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199060,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/7ru68qYGq300h0aC0icBOA"
+    },
+    {
+      "album": {
         "name": "Distractions",
         "url": "https://open.spotify.com/album/1tTj6jyy6LbOsio9saFf9L"
       },

@@ -2,9 +2,9 @@
 
 ### [This Is Los Dareyes De La Sierra](https://open.spotify.com/playlist/37i9dQZF1DZ06evO180nDR)
 
-> This Is Los Dareyes De La Sierra\. Los temas esenciales, todos en una lista.
+> This is Los Dareyes De La Sierra\. The essential tracks, all in one playlist.
 
-108 songs - 5 hr 46 min
+109 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,5 +116,6 @@
 | [Yo Te Quise Amar](https://open.spotify.com/track/5hSEPgls5rYRCQCb0ooiVP) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Una Copa Más](https://open.spotify.com/album/2dsHCn8CYHtty5dM26h0oI) | 3:06 | 2022-06-07 | 2022-12-18 |
 | [Yo Vengo de Abajo](https://open.spotify.com/track/13I3CFc0m2GrXMxdTBWgst) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Locura Terminal](https://open.spotify.com/artist/6TgsrbRVzTvaXifgu46mjr) | [Yo Vengo de Abajo](https://open.spotify.com/album/3T0u1TBQE1eKyjVMGaRsaG) | 3:21 | 2023-02-06 | 2024-04-15 |
 | [Yo Vengo de Abajo](https://open.spotify.com/track/4p353XbLuVSgXlwjhpKjzp) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Locura Terminal](https://open.spotify.com/artist/6TgsrbRVzTvaXifgu46mjr) | [Yo Vengo de Abajo](https://open.spotify.com/album/1kFr4XGBfsRPrtoNVxnL8m) | 3:21 | 2022-07-30 | 2023-02-07 |
+| [Álbum JGL](https://open.spotify.com/track/7wQMaZgnqNolW1ATTUW1mq) | [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Álbum JGL](https://open.spotify.com/album/3T4dCPP3hciPkPDsN9EFcL) | 2:50 | 2024-06-15 |  |
 
 \*This playlist was first scraped on 2022-06-02. Prior content cannot be recovered.

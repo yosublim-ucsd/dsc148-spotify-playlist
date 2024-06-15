@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover:A Ryun\(아륜\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover:겸\(GYE0M\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-506 songs - 1 day 6 hr 11 min
+507 songs - 1 day 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,7 +320,7 @@
 | [Quince Tree](https://open.spotify.com/track/3GRm8zn22TL98gEZTweXRu) | [Yozoh](https://open.spotify.com/artist/2Y6RMrspOMXAYSD4U57qS7) | [Quince Tree](https://open.spotify.com/album/24fa0DG8OcGW2U9A0V2vbF) | 3:07 | 2022-03-31 | 2022-04-20 |
 | [Rain \(feat\. JINKYUNG\)](https://open.spotify.com/track/3YeliQKcFNLDt9JzmxA11b) | [Illanc](https://open.spotify.com/artist/32gNSbC3pqODMrMWmkphRL), [JINKYUNG](https://open.spotify.com/artist/6PBSrMKOcL8L8YkZlZC3ne) | [Rain](https://open.spotify.com/album/1Dv0QgPO6rZ8MUPjDAuexT) | 3:38 | 2022-07-04 | 2022-08-10 |
 | [Rain In The Night](https://open.spotify.com/track/3ISTUp8tjTZxDQyhwMQbP5) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [B\_ye](https://open.spotify.com/album/7JKxvinZqgB6w5X7ck8Wwk) | 4:01 | 2021-12-10 | 2022-06-21 |
-| [RAINING](https://open.spotify.com/track/423tVeKOEyAnYZoUg6mAwG) | [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg) | [RAINING](https://open.spotify.com/album/23E6A6rqAHwel3ug39DwQx) | 4:40 | 2024-05-30 |  |
+| [RAINING](https://open.spotify.com/track/423tVeKOEyAnYZoUg6mAwG) | [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg) | [RAINING](https://open.spotify.com/album/23E6A6rqAHwel3ug39DwQx) | 4:40 | 2024-05-30 | 2024-06-15 |
 | [Rainy Street](https://open.spotify.com/track/2oA6RCfKss1JWAQlEI6t4L) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Rewind : Blossom Side A](https://open.spotify.com/album/4YZ9E6yT1aAJguVIi8KBN8) | 4:20 | 2022-01-13 | 2022-04-18 |
 | [Real Love \- Acoustic Version](https://open.spotify.com/track/3PnRVS7NR14WdvCTXLSFFB) | [Henry](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt) | [Real Love \(Acoustic Version\)](https://open.spotify.com/album/5qTqvyDsmConcKddcZna13) | 3:03 | 2022-03-31 | 2022-04-20 |
 | [Reason \(Vocal by Kim Seonho\)](https://open.spotify.com/track/1qDpiJRazdFxAfFZIVWy12) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN) | [Reason \(Vocal by Kim Seonho\)](https://open.spotify.com/album/5MnLSMaZmIPQf6oMyUiGas) | 3:37 | 2021-12-10 | 2022-08-13 |
@@ -401,6 +401,7 @@
 | [The Night](https://open.spotify.com/track/2ltohL0UlAkNcjImnOggs8) | [YOONWON](https://open.spotify.com/artist/1Wp1QiJslBV2qX7aAV7pXN) | [O1NE](https://open.spotify.com/album/4wIYn2e6gZ4nRGCnzs1qxZ) | 3:43 | 2022-03-31 | 2022-04-20 |
 | [The night we parted](https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [The night we parted](https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD) | 3:49 | 2021-12-10 |  |
 | [The Night With You](https://open.spotify.com/track/5V8x6nU0JEFL6qfbct7P2p) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [The Night With You](https://open.spotify.com/album/1QdF5rkC4uNYWkGqFhGgQQ) | 3:56 | 2022-04-12 | 2022-04-17 |
+| [The one of the past](https://open.spotify.com/track/1lMehRXG8eAGalZwyMfTxz) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc) | [The one of the past](https://open.spotify.com/album/4l4texZRPRdgSy5kP99CNe) | 2:50 | 2024-06-14 |  |
 | [The reason why I love \[From "Anonymous, I Know You!" \(Original Soundtrack\) Pt\. 2\]](https://open.spotify.com/track/7tBQBkYaksWOClo9jK0rUS) | [SUNG DAM](https://open.spotify.com/artist/1JdJprpKvNgqBLGSDrMsv9) | [The reason why I love \[From "Anonymous, I Know You!" \(Original Soundtrack\) Pt\. 2\]](https://open.spotify.com/album/4NObcZYAXD7YRIydF26kSE) | 3:44 | 2021-12-10 | 2022-06-06 |
 | [The Road You Take](https://open.spotify.com/track/6ENa7L72KpCobTm70iVx4f) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [The Road You Take](https://open.spotify.com/album/29Q6Befl4ObaMl8p4uxhub) | 3:48 | 2022-04-12 | 2022-04-15 |
 | [The song I loved](https://open.spotify.com/track/6xws4sUjz31jER0OusRzQh) | [Sojeong](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [The song I loved](https://open.spotify.com/album/2UslwgipRYxtXWqZOtdfuD) | 3:56 | 2022-08-12 | 2022-08-26 |

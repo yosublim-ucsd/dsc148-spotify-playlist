@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-339 songs - 17 hr 57 min
+340 songs - 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Moonlight](https://open.spotify.com/track/5ycuH4IVcbiubxosObIPhw) | [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt) | [Moonlight](https://open.spotify.com/album/4GU0ggvEBJ6RuoSjNuFM3l) | 2:07 | 2022-07-01 | 2022-11-24 |
 | [Moonlight](https://open.spotify.com/track/3BXXFBcWJW3su1sodrywxL) | [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt) | [Moonlight](https://open.spotify.com/album/68u0ZhWzY2lw8Jj1rerGxY) | 2:07 | 2022-11-24 | 2024-01-15 |
 | [Mount Fuji](https://open.spotify.com/track/358JLcp3eGCfjlCvzoK00w) | [Adon](https://open.spotify.com/artist/7l7IyxqOyGDSU6iF4FzisA) | [Mount Fuji](https://open.spotify.com/album/6fHyZw6fyIM27wXqStn0sI) | 2:39 | 2021-10-29 | 2022-06-03 |
+| [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 | 2024-06-14 |  |
 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 | 2024-03-15 |  |
 | [My Alibi](https://open.spotify.com/track/7qouDrj5jN3SuW8QwRpZad) | [Nervz](https://open.spotify.com/artist/3EaSGNhCzrL0bAnlgwAfQj), [Alex Bleiziffer](https://open.spotify.com/artist/4m4oCILPIc9FPM01PcsE5J), [Hoop Records](https://open.spotify.com/artist/47Ad2VIyZw89AWmkM9QtSc) | [My Alibi](https://open.spotify.com/album/0GI1UvUaqBHYxqN2tljV53) | 3:44 | 2021-10-29 | 2022-04-21 |
 | [Nanana!](https://open.spotify.com/track/38oMTlrjQtVexRPEGDzcgd) | [Edmofo](https://open.spotify.com/artist/0YFbuIzBUfAK1FqcEvxnqQ) | [Nanana!](https://open.spotify.com/album/56cw2xCvU4kgA5CJQs5AE0) | 2:42 | 2023-05-12 | 2023-05-27 |
@@ -261,7 +262,7 @@
 | [She’s Gone, Dance On](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [She’s Gone, Dance On](https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq) | 3:46 | 2024-06-07 |  |
 | [Shine](https://open.spotify.com/track/5zxbZVvlzdWuVNN2CqswcM) | [Ehrling](https://open.spotify.com/artist/5wo7dlNLNdFmaaU7NTtdoT) | [Shine](https://open.spotify.com/album/6pbUCPPuMI2QX6h5xSnak6) | 3:55 | 2023-05-26 | 2023-06-03 |
 | [Shook Pt\. 3 \- Radio Edit](https://open.spotify.com/track/2VcQUEGgTGfJLLjAM8iqLj) | [Nick Morgan](https://open.spotify.com/artist/29P8YF3232VxBXaU3vE4W8) | [Nothing But..\. House Party, Vol\. 09](https://open.spotify.com/album/66VRBA6YI1SpnQ9ixYfSs8) | 4:41 | 2024-04-12 | 2024-05-16 |
-| [Simple Times](https://open.spotify.com/track/29ePEJHqeyGamy2UqDIHtY) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Simple Times](https://open.spotify.com/album/5keWYf9jGTOgS4AjKYgq13) | 4:14 | 2024-06-07 |  |
+| [Simple Times](https://open.spotify.com/track/29ePEJHqeyGamy2UqDIHtY) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Simple Times](https://open.spotify.com/album/5keWYf9jGTOgS4AjKYgq13) | 4:14 | 2024-06-07 | 2024-06-15 |
 | [Smooth Operator](https://open.spotify.com/track/4edT8gEcZN2J5tG13UEze8) | [The Good Son](https://open.spotify.com/artist/76OZ1HAHb3VXmv9z2vaL57), [KHEMIS](https://open.spotify.com/artist/3bhEBhrSsz74SsgjRe1z6d), [Diana Martinez](https://open.spotify.com/artist/7mEajYyUcyqlvR4M6CpNkG) | [Smooth Operator](https://open.spotify.com/album/1KRu1EXjZxsJwx9gyzAIZm) | 3:18 | 2023-07-13 |  |
 | [So Good](https://open.spotify.com/track/50YBCtA1z8J7p9TufYGNL7) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [So Good](https://open.spotify.com/album/1QyvQD5s7vgetc2UUkeNrL) | 3:13 | 2022-11-24 | 2023-02-17 |
 | [Somebody \(2024\)](https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Sante Sansone](https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8) | [Somebody \(2024\)](https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH) | 2:33 | 2024-03-15 |  |

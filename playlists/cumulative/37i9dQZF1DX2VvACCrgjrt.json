@@ -12336,7 +12336,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 140624,
       "name": "Sara Tonin feat. James Cole",
       "url": "https://open.spotify.com/track/2d1J4wehBvmheclNCk5ts5"
@@ -13796,6 +13796,32 @@
       "duration_ms": 142734,
       "name": "TEC-9",
       "url": "https://open.spotify.com/track/44prQa5cc4wj0gnS5y5tt1"
+    },
+    {
+      "album": {
+        "name": "Tech Phonk",
+        "url": "https://open.spotify.com/album/77WEJ0P9dlOSZNhco4LxRV"
+      },
+      "artists": [
+        {
+          "name": "Raven & Kreyn",
+          "url": "https://open.spotify.com/artist/6STjC3QJTieuM5WHHtkGuh"
+        },
+        {
+          "name": "KDH",
+          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
+        },
+        {
+          "name": "Pure Cold",
+          "url": "https://open.spotify.com/artist/63xJ8YYPv8AtvO8sj3ssLI"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122880,
+      "name": "Tech Phonk",
+      "url": "https://open.spotify.com/track/2EyE6jwl6HC7yhkaPJbH8R"
     },
     {
       "album": {

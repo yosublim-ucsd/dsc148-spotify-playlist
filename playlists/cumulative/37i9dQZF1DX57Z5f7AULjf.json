@@ -252,7 +252,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 161053,
-      "name": "Attitude (feat. Charlie Wilson & Cash Cobain)",
+      "name": "ATTITUDE (FEAT. CHARLIE WILSON & CASH COBAIN)",
       "url": "https://open.spotify.com/track/0KFXE2mLTFdOKkTZEDgJPv"
     },
     {
@@ -314,7 +314,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 147746,
-      "name": "Bandit",
+      "name": "BANDIT",
       "url": "https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s"
     },
     {
@@ -400,6 +400,24 @@
       "duration_ms": 154732,
       "name": "BOA",
       "url": "https://open.spotify.com/track/3tUwmCcdunuXKwHu8u2aBn"
+    },
+    {
+      "album": {
+        "name": "Boogieman",
+        "url": "https://open.spotify.com/album/75XYL9gBsRC8wWbmbtzQHh"
+      },
+      "artists": [
+        {
+          "name": "EBK Jaaybo",
+          "url": "https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131291,
+      "name": "Boogieman",
+      "url": "https://open.spotify.com/track/7Mg5CBO37Rifk2RyDJ8fzd"
     },
     {
       "album": {
@@ -644,7 +662,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 248040,
       "name": "Essence (feat. Tems)",
       "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"

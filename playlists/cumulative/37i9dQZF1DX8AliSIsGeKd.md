@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Solomun
 
-3,725 songs - 13 day 13 hr 40 min
+3,726 songs - 13 day 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -519,6 +519,7 @@
 | [Candela](https://open.spotify.com/track/43ScSDevuS41iHjy9bGYoL) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Candela](https://open.spotify.com/album/1f19SdkQvDOQpLmgJrJhaA) | 6:08 | 2023-07-14 | 2023-08-04 |
 | [Candidasa](https://open.spotify.com/track/2UdB4mqfNI5M01Vpfta2tU) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Candidasa EP](https://open.spotify.com/album/6WXn29FqzQK2dW4M8DNPC4) | 10:21 | 2023-07-27 | 2023-08-18 |
 | [Candyflip](https://open.spotify.com/track/1tQG5cCNZyyDrdxysSlIW9) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Candyflip](https://open.spotify.com/album/1KPcTqPlHNNtm7GikbVmWl) | 6:06 | 2023-09-07 | 2023-09-29 |
+| [Candyland](https://open.spotify.com/track/2rX3mk4MmWi75wy53hKqm6) | [Tchailyn](https://open.spotify.com/artist/4RgXfHPfT5Z5pIIqL1k7oF) | [Candyland](https://open.spotify.com/album/2YRcPMc8PS590HD3ybjcQs) | 4:11 | 2024-06-14 |  |
 | [Canicatti](https://open.spotify.com/track/3W935drMjxvJnw1fTaF4BH) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [Canicatti](https://open.spotify.com/album/4fyVrIE5va2VOhyv25Oe49) | 6:05 | 2024-05-02 | 2024-05-24 |
 | [Canto](https://open.spotify.com/track/3y4hdcjqmX46V5bA29wsgx) | [Sahar](https://open.spotify.com/artist/3b7TXhgeS7YpSumMEwbFJO) | [Canto](https://open.spotify.com/album/0ouYduP6xhLiKclNqmQknn) | 6:23 | 2023-07-14 | 2023-07-28 |
 | [Can‘t Get U Off My Mind](https://open.spotify.com/track/4EL3DZdHxBVN7eO0uPBRjs) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Can‘t Get U Off My Mind](https://open.spotify.com/album/7JcUNatdio8RTezszTdXKd) | 4:53 | 2022-08-04 | 2022-08-19 |
@@ -1725,7 +1726,7 @@
 | [It's You](https://open.spotify.com/track/4Ji18JiGFIuKQO3SKb0gdz) | [Cella](https://open.spotify.com/artist/3w7ASanLoAsQcWhd7V9DpJ) | [It's You](https://open.spotify.com/album/7CjgCYEXxGMyNV936Qqfe3) | 3:34 | 2024-05-02 | 2024-05-17 |
 | [Ithaca](https://open.spotify.com/track/49MMPosiIrORwUtdrG1eiQ) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Memory Morning](https://open.spotify.com/album/2LsEbodgqI6P1q7QEVe3P7) | 3:59 | 2024-04-18 | 2024-05-03 |
 | [It’s A New Day](https://open.spotify.com/track/1JSxwQ5Hp7teuBER2lQViD) | [Ivory \(IT\)](https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr) | [Yeah!](https://open.spotify.com/album/71DUgZNBgurSZuUx29EpF0) | 6:03 | 2024-01-18 | 2024-02-02 |
-| [Ivoo](https://open.spotify.com/track/3oFeJv89Vzs777gE7MQzEc) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Ivoo](https://open.spotify.com/album/1TO18KwCFsVJgNaZpEalMc) | 6:48 | 2024-05-30 |  |
+| [Ivoo](https://open.spotify.com/track/3oFeJv89Vzs777gE7MQzEc) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Ivoo](https://open.spotify.com/album/1TO18KwCFsVJgNaZpEalMc) | 6:48 | 2024-05-30 | 2024-06-15 |
 | [Izinto](https://open.spotify.com/track/1LlwsPj31pfx68XXW96vBu) | [Blindsmyth](https://open.spotify.com/artist/316jj0bjhfXGHGBEraGy7P), [Toshi](https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK) | [Izinto](https://open.spotify.com/album/2ux1S2Nz5C0MoJhfgKIbQ0) | 4:35 | 2022-11-03 | 2022-11-18 |
 | [Jade](https://open.spotify.com/track/60fmuPfwkJV9sJhfs6GXYz) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [GPU Panic](https://open.spotify.com/artist/1kClYC29n6M4YTALilSyY3) | [Jade](https://open.spotify.com/album/2joejqUhtSbBZbx8dUBWiF) | 5:49 | 2024-05-16 | 2024-06-07 |
 | [Jae Luna](https://open.spotify.com/track/2lR1yd1X5W7bTRKs9YM867) | [Sven Tasnadi](https://open.spotify.com/artist/5s05VygMShUXGXitSYkeyo), [Beatamines](https://open.spotify.com/artist/12q8WblexNLJ0QGejfoeXK) | [Jae Luna](https://open.spotify.com/album/3UEN54cMgpkx0qVWd5Amjf) | 5:59 | 2023-07-14 | 2023-07-28 |

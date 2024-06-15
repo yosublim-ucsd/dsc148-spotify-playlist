@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-354 songs - 18 hr 43 min
+355 songs - 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Daydream](https://open.spotify.com/track/3o9NWxu4L3u22WBJTfq1Nj) | [Cream Blade](https://open.spotify.com/artist/5Px3CFPaLOQwOILnyQ5HwS), [romi](https://open.spotify.com/artist/03fWMFv4epXaib7b7PDP78) | [Daydream](https://open.spotify.com/album/7L0JggFuhaLrd4Qa9iJv6r) | 3:54 | 2022-02-03 | 2022-09-15 |
 | [Dead of Night](https://open.spotify.com/track/3nVK1WJpMLATbK7QEg840r) | [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK) | [Dead of Night](https://open.spotify.com/album/5wl7bVpnMRoal4apZYUO3k) | 3:53 | 2022-02-03 | 2022-09-15 |
 | [Dead Of Night \(VIP\) \- Remix](https://open.spotify.com/track/3z3wBalHCvpnAO63d6na7v) | [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK) | [Dead Of Night \(VIP\) \[Remix\]](https://open.spotify.com/album/1kuliqL1e3KkvuPbFvQ31X) | 4:02 | 2022-02-03 | 2023-08-11 |
+| [DELTA](https://open.spotify.com/track/5NcT6HWiBiETs1mTFYXR1U) | [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe) | [DELTA](https://open.spotify.com/album/6jrRtiZ11ETv5ercTeB2gH) | 2:52 | 2024-06-14 |  |
 | [Demnuhbad](https://open.spotify.com/track/22CeWpYhyEruCsFauCHlLv) | [Vosai](https://open.spotify.com/artist/7u4uMBxwuDZsN7wGxzdiGw), [VinDon](https://open.spotify.com/artist/6hS0eB6BQPvcKhIM6Ltem0) | [Demnuhbad](https://open.spotify.com/album/4NnK9RjEAOOxk5rHtutkBH) | 3:06 | 2022-11-03 | 2023-08-11 |
 | [Desperate](https://open.spotify.com/track/068gApVgHSg3dZbqHjYRW4) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Desperate](https://open.spotify.com/album/6iBQ9N0IsxqPxSn2QJjpZv) | 3:15 | 2023-04-28 |  |
 | [Devil](https://open.spotify.com/track/5mn6mZIHIQF6sl3KCkMtIY) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Devil](https://open.spotify.com/album/54WiyGQ7TL7nqIPoh1ieF8) | 4:01 | 2023-10-31 |  |
@@ -331,7 +332,7 @@
 | [Undone](https://open.spotify.com/track/3Xc1M0iSb1JnsQrth0LZCP) | [Desmeon](https://open.spotify.com/artist/58yUFNnwk1DyoBvKNPmYdH) | [NCS is Love, NCS is Life, Vol\. 1](https://open.spotify.com/album/0R6JKXqMghl97Sx7ngToTm) | 4:04 | 2023-08-10 |  |
 | [Unforgivable](https://open.spotify.com/track/4zuZkPo9wVNTmuSWj5DaZk) | [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Unforgivable](https://open.spotify.com/album/3htLm8vM0bgKTSTy2b0cSs) | 3:00 | 2022-09-30 | 2023-08-11 |
 | [uWu BURST](https://open.spotify.com/track/4v4P37b9O9MDUG083zK5Il) | [FLAYA PLAYA](https://open.spotify.com/artist/2rrl5KoXZgF1QJOnQPdgao), [Maikubi](https://open.spotify.com/artist/3UZVRPW86Nc2DemMsNtESB) | [uWu BURST](https://open.spotify.com/album/3LKaUZRta8ouY5FqWFEhli) | 1:53 | 2023-08-10 |  |
-| [Vida Nova](https://open.spotify.com/track/23E61Q0ABWtFFvLnjLmdqO) | [Emin Nilsen](https://open.spotify.com/artist/59TVoD6bvD2JFs9xLZH9bX) | [Vida Nova](https://open.spotify.com/album/1HwnKFaOeS5dEpkmzrMc1Y) | 1:56 | 2024-04-25 |  |
+| [Vida Nova](https://open.spotify.com/track/23E61Q0ABWtFFvLnjLmdqO) | [Emin Nilsen](https://open.spotify.com/artist/59TVoD6bvD2JFs9xLZH9bX) | [Vida Nova](https://open.spotify.com/album/1HwnKFaOeS5dEpkmzrMc1Y) | 1:56 | 2024-04-25 | 2024-06-15 |
 | [Vienna](https://open.spotify.com/track/6Mb6rfn9rQkAKUIIo8ZtKU) | [James Mercy](https://open.spotify.com/artist/6RJbFqgnnHvQcq8TGdCIn2), [PhiloSofie](https://open.spotify.com/artist/5Mvx3dMV17trz9HTdF2AkQ) | [Vienna](https://open.spotify.com/album/1mP6fGKWD1xGXHA3kUR43N) | 3:33 | 2023-12-29 |  |
 | [Visions](https://open.spotify.com/track/6rf6y8M3qZDyFLBezkXZ2G) | [AC13](https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn) | [Visions](https://open.spotify.com/album/63bnF1vs8NxwKZ7WjxLAcK) | 3:43 | 2023-03-24 |  |
 | [Voyage](https://open.spotify.com/track/0saZwRp7tEo7AiqmBhrnn4) | [Mendum](https://open.spotify.com/artist/3rq78lkE1laoELdsHHirtg), [Abandoned](https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x), [DNAKM](https://open.spotify.com/artist/20N95on2Bu0e3AZyiEUMz1) | [Voyage](https://open.spotify.com/album/7FxFBjIT8RTKT23jHGUlSd) | 4:22 | 2022-02-03 | 2022-09-15 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Underground indie rock gems. Cover: Goat Girl",
+  "description": "Underground indie rock gems. Cover: Cola",
   "name": "undercurrents",
   "tracks": [
     {
@@ -2717,6 +2717,24 @@
     },
     {
       "album": {
+        "name": "Body Farm",
+        "url": "https://open.spotify.com/album/4OKeBiBOs0rPsWDZ0gFIfO"
+      },
+      "artists": [
+        {
+          "name": "Zoe Bayani",
+          "url": "https://open.spotify.com/artist/0qAiQ7a5epCnbBeqex8loG"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220088,
+      "name": "Body Farm",
+      "url": "https://open.spotify.com/track/7zARpP2hSWoDAfqYFm85cp"
+    },
+    {
+      "album": {
         "name": "Body Of Work",
         "url": "https://open.spotify.com/album/7vVlLq69Y6MDARECNU8zjO"
       },
@@ -3518,6 +3536,24 @@
       "duration_ms": 148506,
       "name": "Chainsaw the Door",
       "url": "https://open.spotify.com/track/1OPM1BmEoywWzFfQxMRj7L"
+    },
+    {
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/4fqQu9B3x8EwknltlbXv83"
+      },
+      "artists": [
+        {
+          "name": "Enumclaw",
+          "url": "https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212958,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/2LP4LllG0k6nSvAtbe60Xr"
     },
     {
       "album": {
@@ -5644,6 +5680,24 @@
       "duration_ms": 236000,
       "name": "dirty claws",
       "url": "https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF"
+    },
+    {
+      "album": {
+        "name": "Dirty Girls",
+        "url": "https://open.spotify.com/album/3ustQj0IfVetY6ENY9wVBP"
+      },
+      "artists": [
+        {
+          "name": "Beaks",
+          "url": "https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173493,
+      "name": "Dirty Girls",
+      "url": "https://open.spotify.com/track/13dkfQvbYPK4iWxzn3TKsP"
     },
     {
       "album": {
@@ -11174,7 +11228,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 185115,
       "name": "Inaka",
       "url": "https://open.spotify.com/track/0DRjfY5KFcuD53IcGvfawC"
@@ -13726,7 +13780,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 167631,
       "name": "Mother",
       "url": "https://open.spotify.com/track/0anZnOvUTenWvjeSru2Neo"
@@ -14732,7 +14786,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 160545,
       "name": "Nothing to Lose",
       "url": "https://open.spotify.com/track/6nz4mFXylnJNfw9GRSYYiG"
@@ -15511,6 +15565,24 @@
     },
     {
       "album": {
+        "name": "Perfect Hand",
+        "url": "https://open.spotify.com/album/1VR9eQWnhFBKrD5eEUFggr"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248535,
+      "name": "Perfect Hand",
+      "url": "https://open.spotify.com/track/59Eh3SJgXdmytbvm7SejXz"
+    },
+    {
+      "album": {
         "name": "Perfect Wife",
         "url": "https://open.spotify.com/album/0DZfn5TUMGAGKKjkDFJDzz"
       },
@@ -16028,6 +16100,24 @@
       "duration_ms": 260117,
       "name": "Prudence & Poise",
       "url": "https://open.spotify.com/track/3RMZ0lEGewSR0CPab6Kv1r"
+    },
+    {
+      "album": {
+        "name": "Pulling Quotes",
+        "url": "https://open.spotify.com/album/31yJkBf5Kp70ecygDPPSsc"
+      },
+      "artists": [
+        {
+          "name": "Cola",
+          "url": "https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282506,
+      "name": "Pulling Quotes",
+      "url": "https://open.spotify.com/track/6iH3AXLQHlrbHfG6XGqjau"
     },
     {
       "album": {
@@ -20078,7 +20168,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 190148,
       "name": "the lonely girl",
       "url": "https://open.spotify.com/track/4uMKR0rtdKK1TwnLYNtNJf"
@@ -20774,7 +20864,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 197770,
       "name": "Toad Mode",
       "url": "https://open.spotify.com/track/1sJVvwGphoJXPLbjK8Mfk1"
@@ -21044,7 +21134,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 226188,
       "name": "Trying",
       "url": "https://open.spotify.com/track/4tVcX8MGswvfbfESHIChzH"

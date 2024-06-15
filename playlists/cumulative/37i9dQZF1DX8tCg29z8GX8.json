@@ -151,6 +151,32 @@
     },
     {
       "album": {
+        "name": "True To Self",
+        "url": "https://open.spotify.com/album/3s7ciU4LPvI3mb8yufHJZ5"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        },
+        {
+          "name": "Ladipoe",
+          "url": "https://open.spotify.com/artist/6XkgrLfsDbOyuuT0oKltKF"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226546,
+      "name": "9:45 (feat. Lasmid & Ladipoe)",
+      "url": "https://open.spotify.com/track/0dT06xBuL6PQ7fzS37BEjs"
+    },
+    {
+      "album": {
         "name": "Black Panther: Wakanda Forever Prologue",
         "url": "https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM"
       },
@@ -1366,6 +1392,28 @@
       "duration_ms": 196725,
       "name": "Blessings (feat. Wizkid & Gimba)",
       "url": "https://open.spotify.com/track/1ALcYeD6JELUFLL3obyUDt"
+    },
+    {
+      "album": {
+        "name": "Blessings (feat. Xenia Manasseh)",
+        "url": "https://open.spotify.com/album/3aQms639329HLNZgm3aUuC"
+      },
+      "artists": [
+        {
+          "name": "Joshua J",
+          "url": "https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l"
+        },
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151698,
+      "name": "Blessings (feat. Xenia Manasseh)",
+      "url": "https://open.spotify.com/track/32b3KvxB3nHjYaf2yMU6Q8"
     },
     {
       "album": {
@@ -2954,7 +3002,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 236906,
       "name": "Favourite Story",
       "url": "https://open.spotify.com/track/6J15TPJ9gqWlXoo19whxpV"
@@ -4294,7 +4342,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 184385,
       "name": "Jah Guide",
       "url": "https://open.spotify.com/track/68z8LK5OWx69lhL2Jj2V8R"
@@ -5062,7 +5110,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 185257,
       "name": "Life & Money",
       "url": "https://open.spotify.com/track/5smSKFma3LioFp4HNK1wq8"
@@ -6232,6 +6280,24 @@
       "duration_ms": 129807,
       "name": "New Born Fela",
       "url": "https://open.spotify.com/track/3yifENCc2SkxVfpfnuCwas"
+    },
+    {
+      "album": {
+        "name": "NLF (Breakfast)",
+        "url": "https://open.spotify.com/album/4rOoeivLtdfWWUoXXVTrl6"
+      },
+      "artists": [
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193472,
+      "name": "NLF (Breakfast)",
+      "url": "https://open.spotify.com/track/2mIp18bu4PbAFjS58EpEWc"
     },
     {
       "album": {
@@ -8052,7 +8118,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 203333,
       "name": "SCAR",
       "url": "https://open.spotify.com/track/3q29n7RqZ4lRzfnKzIqDZy"
@@ -10442,6 +10508,24 @@
       "duration_ms": 224200,
       "name": "You Bad (feat. Skonti)",
       "url": "https://open.spotify.com/track/4fTFL02Ct4HVWFsxpOgSeQ"
+    },
+    {
+      "album": {
+        "name": "Your Body",
+        "url": "https://open.spotify.com/album/196SOihxCXE85Ooazqz1sk"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "Your Body",
+      "url": "https://open.spotify.com/track/2E5YFuY3aRD7oZr7GKfgCQ"
     },
     {
       "album": {

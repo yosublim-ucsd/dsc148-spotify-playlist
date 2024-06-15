@@ -2417,6 +2417,36 @@
     },
     {
       "album": {
+        "name": "POAPOA",
+        "url": "https://open.spotify.com/album/5euaFZNfXeBQ9EgyKzcE1E"
+      },
+      "artists": [
+        {
+          "name": "Cde Hambagen",
+          "url": "https://open.spotify.com/artist/0NypjULeiFikRCIeRZXj8U"
+        },
+        {
+          "name": "AITER TREY",
+          "url": "https://open.spotify.com/artist/0lanR51aZnJ0cVWVwgSamL"
+        },
+        {
+          "name": "RASONIC",
+          "url": "https://open.spotify.com/artist/1LkF6cgkLYEfDzu6rzYR1s"
+        },
+        {
+          "name": "DEXTEROCKBEAT",
+          "url": "https://open.spotify.com/artist/3JZUAaEgBLw59okB4S6PYK"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158197,
+      "name": "POAPOA",
+      "url": "https://open.spotify.com/track/7t9u8dRuCHMZMdpgOzqoK2"
+    },
+    {
+      "album": {
         "name": "PRAISE GOD",
         "url": "https://open.spotify.com/album/3V1KNGUw3RZNo3AX1rEoLm"
       },

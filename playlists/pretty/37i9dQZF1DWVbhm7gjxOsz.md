@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 
 > Crusin' is not a crime, it's a lifestyle!
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,386 likes - 150 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,496 likes - 150 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,16 +141,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 131 | [Always and Forever \- Edit](https://open.spotify.com/track/0fKDnkXdfJwk0DEW9W83VY) | [Heatwave](https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY) | [Heatwave's Greatest Hits](https://open.spotify.com/album/3eZkKm4IbRjyHqbdLm7qDr) | 4:47 |
 | 132 | [Nobody's Clown](https://open.spotify.com/track/1NK4DqwYCKBZV6WmRNY3pV) | [Los Yesterdays](https://open.spotify.com/artist/0Hfk4u1LGIA1lLY7yduUfq) | [Nobody's Clown](https://open.spotify.com/album/7mrdqSpq1zbwIFRUWosuFQ) | 3:29 |
 | 133 | [Float On](https://open.spotify.com/track/4YmKTCL86mpGHUS0sEWAUV) | [The Floaters](https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS) | [Float On](https://open.spotify.com/album/3myYvqFdL0jHBzO97TFJuH) | 11:48 |
-| 134 | [Seems Like](https://open.spotify.com/track/6766HkoEEO355KEzrJNU2T) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS) | [Seems Like](https://open.spotify.com/album/3IaDaFiGolUI09rcE8q5m8) | 3:14 |
-| 135 | [Reaper of Love](https://open.spotify.com/track/6olpTbCFIRPCO99iz2DzRO) | [Rocky Padilla](https://open.spotify.com/artist/1Kfned5OWID7n6bue7YKb0) | [Reaper of Love](https://open.spotify.com/album/1JVWbgxF1ylN2Z19qetAKc) | 3:31 |
-| 136 | [Reasons](https://open.spotify.com/track/55xs0ctzl8u3OY9KLmnyu2) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Greatest Hits](https://open.spotify.com/album/339IjdizH8YIpwOUbUWGjl) | 4:58 |
-| 137 | [Agree to Disagree](https://open.spotify.com/track/7K4VGWx0F3XY3QQZQ3FWi2) | [Miriah Avila](https://open.spotify.com/artist/5DkWvpsvEvNmUd5t0jggNt) | [You in Love Again?](https://open.spotify.com/album/1dAwMHdr3KoPDh2MeY1s0r) | 2:58 |
-| 138 | [Smile Now, Cry Later](https://open.spotify.com/track/0e7q3Hd0K1CypBz5R1p2iz) | [Sunny & The Sunliners](https://open.spotify.com/artist/7vsHbcgOIbaeMqv3GvvHdO) | [Mr\. Brown Eyed Soul](https://open.spotify.com/album/6vTJGd8uvZ1nGw6DuMsS2H) | 1:59 |
-| 139 | [Just My Imagination \(Running Away With Me\)](https://open.spotify.com/track/3gbwcu7E9ACpJsLm7vEpuN) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Dead Presidents Volume II / Music From The Motion Picture](https://open.spotify.com/album/52Us0gT9wf2yGMNlwTATGB) | 3:53 |
-| 140 | [You Are Everything](https://open.spotify.com/track/1yeLuQ4Jn6WV4UagSxJCPA) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [The Very Best of the Stylistics ..\. And More!](https://open.spotify.com/album/3xhdEzIX6oUQu2O0EiwWuk) | 2:55 |
-| 141 | [I Like the Way You Love Me](https://open.spotify.com/track/1ENu4Hu1Rf45NxIde0X1rr) | [Cota](https://open.spotify.com/artist/2e1yGR8FqYaOz962igAVIM) | [I Like the Way You Love Me](https://open.spotify.com/album/4xVKAnImpAKsUJ1Z2WGkDR) | 2:26 |
-| 142 | [Ilusión De Amor](https://open.spotify.com/track/2hG1LVQt6YLxtlcWiujpcq) | [Jensine Benitez](https://open.spotify.com/artist/6EkOEYrG2cAQgIatrHQJbX), [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Ilusión De Amor](https://open.spotify.com/album/0UqQyiKUqo2Dc1xcFaQOBM) | 3:45 |
-| 143 | [Soon Enough](https://open.spotify.com/track/4yNJHDjA1IJRB2Pb6VrFD3) | [The Altons](https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu) | [Tangled Up in You](https://open.spotify.com/album/4LiUbhhWWkFflkUXOUzUkQ) | 4:00 |
+| 134 | [Soon Enough](https://open.spotify.com/track/4yNJHDjA1IJRB2Pb6VrFD3) | [The Altons](https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu) | [Tangled Up in You](https://open.spotify.com/album/4LiUbhhWWkFflkUXOUzUkQ) | 4:00 |
+| 135 | [Seems Like](https://open.spotify.com/track/6766HkoEEO355KEzrJNU2T) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS) | [Seems Like](https://open.spotify.com/album/3IaDaFiGolUI09rcE8q5m8) | 3:14 |
+| 136 | [Reaper of Love](https://open.spotify.com/track/6olpTbCFIRPCO99iz2DzRO) | [Rocky Padilla](https://open.spotify.com/artist/1Kfned5OWID7n6bue7YKb0) | [Reaper of Love](https://open.spotify.com/album/1JVWbgxF1ylN2Z19qetAKc) | 3:31 |
+| 137 | [Reasons](https://open.spotify.com/track/55xs0ctzl8u3OY9KLmnyu2) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Greatest Hits](https://open.spotify.com/album/339IjdizH8YIpwOUbUWGjl) | 4:58 |
+| 138 | [Agree to Disagree](https://open.spotify.com/track/7K4VGWx0F3XY3QQZQ3FWi2) | [Miriah Avila](https://open.spotify.com/artist/5DkWvpsvEvNmUd5t0jggNt) | [You in Love Again?](https://open.spotify.com/album/1dAwMHdr3KoPDh2MeY1s0r) | 2:58 |
+| 139 | [Smile Now, Cry Later](https://open.spotify.com/track/0e7q3Hd0K1CypBz5R1p2iz) | [Sunny & The Sunliners](https://open.spotify.com/artist/7vsHbcgOIbaeMqv3GvvHdO) | [Mr\. Brown Eyed Soul](https://open.spotify.com/album/6vTJGd8uvZ1nGw6DuMsS2H) | 1:59 |
+| 140 | [Just My Imagination \(Running Away With Me\)](https://open.spotify.com/track/3gbwcu7E9ACpJsLm7vEpuN) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Dead Presidents Volume II / Music From The Motion Picture](https://open.spotify.com/album/52Us0gT9wf2yGMNlwTATGB) | 3:53 |
+| 141 | [You Are Everything](https://open.spotify.com/track/1yeLuQ4Jn6WV4UagSxJCPA) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [The Very Best of the Stylistics ..\. And More!](https://open.spotify.com/album/3xhdEzIX6oUQu2O0EiwWuk) | 2:55 |
+| 142 | [I Like the Way You Love Me](https://open.spotify.com/track/1ENu4Hu1Rf45NxIde0X1rr) | [Cota](https://open.spotify.com/artist/2e1yGR8FqYaOz962igAVIM) | [I Like the Way You Love Me](https://open.spotify.com/album/4xVKAnImpAKsUJ1Z2WGkDR) | 2:26 |
+| 143 | [Ilusión De Amor](https://open.spotify.com/track/2hG1LVQt6YLxtlcWiujpcq) | [Jensine Benitez](https://open.spotify.com/artist/6EkOEYrG2cAQgIatrHQJbX), [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Ilusión De Amor](https://open.spotify.com/album/0UqQyiKUqo2Dc1xcFaQOBM) | 3:45 |
 | 144 | [Dedicated To The One I Love](https://open.spotify.com/track/36f5xtZ2CXIc1WOirnnD3j) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Tonight's The Night](https://open.spotify.com/album/6mWE1yQJVHa6JnDCLjz1Mk) | 2:00 |
 | 145 | [Tired Of Being Alone](https://open.spotify.com/track/6d9rNfRFOQ0XmsUwJ8C5J0) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Greatest Hits](https://open.spotify.com/album/0fgloBlv8EpPqyL4j1W4AO) | 2:43 |
 | 146 | [Hello Stranger](https://open.spotify.com/track/6p3bMHTo45nQZTg3ntxPzt) | [Barbara Lewis](https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq) | [Solid Gold Northern Soul](https://open.spotify.com/album/4IUMwDgxFzz1GDtg6zx8qC) | 2:40 |

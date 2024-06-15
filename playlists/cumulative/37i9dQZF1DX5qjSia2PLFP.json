@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "New music breaking waves. Cover: Guess what? He's <a href=\"spotify:artist:6ygDlIilHZqielxxkvmIVH\">J.P. </a> ",
+  "description": "New music breaking waves. Cover: <a href=\"spotify:artist:7tHTnyrdTNM152slc8aQ3t\">Laila!</a> ",
   "name": "Ripple Effect",
   "tracks": [
     {
@@ -540,7 +540,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 165517,
       "name": "7Days7Nights",
       "url": "https://open.spotify.com/track/0ri8j2AoZApaDVsNnOjCU3"
@@ -613,6 +613,32 @@
     },
     {
       "album": {
+        "name": "act bad twin! (feat. Cash Cobain & Bay Swag)",
+        "url": "https://open.spotify.com/album/50fHLT2601AXZyUCfOosVB"
+      },
+      "artists": [
+        {
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        },
+        {
+          "name": "Bay Swag",
+          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217244,
+      "name": "act bad twin! (feat. Cash Cobain & Bay Swag)",
+      "url": "https://open.spotify.com/track/1cLjq1FaPI8naEB5xElkFk"
+    },
+    {
+      "album": {
         "name": "act i: stickerz \"99\"",
         "url": "https://open.spotify.com/album/7zvLQaWpLG4rZSXgpTsfi9"
       },
@@ -664,7 +690,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 231338,
       "name": "act ii: date @ 8 (feat. Drake) - remix",
       "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
@@ -3135,6 +3161,24 @@
     },
     {
       "album": {
+        "name": "Chef Boy",
+        "url": "https://open.spotify.com/album/2LJXOj3WdcdeHhKFmaFZJZ"
+      },
+      "artists": [
+        {
+          "name": "Luhh Dyl",
+          "url": "https://open.spotify.com/artist/4dZBZceC6PDa9XCr3mJwq2"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115200,
+      "name": "Chef Boy",
+      "url": "https://open.spotify.com/track/5YqyUJKTlTYCC3zOQIlYqz"
+    },
+    {
+      "album": {
         "name": "The Postlude",
         "url": "https://open.spotify.com/album/4QX19K0eMkfCtrxRcbFpU0"
       },
@@ -3190,6 +3234,32 @@
       "duration_ms": 213626,
       "name": "CHOCOLATE CITY",
       "url": "https://open.spotify.com/track/5DMnRbwskRQAO35Lk1IGZC"
+    },
+    {
+      "album": {
+        "name": "Choppa (with Lil Baby & Rvssian)",
+        "url": "https://open.spotify.com/album/5yYpXnvCCF9l1z5HP1vNgx"
+      },
+      "artists": [
+        {
+          "name": "Byron Messia",
+          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169195,
+      "name": "Choppa (with Lil Baby & Rvssian)",
+      "url": "https://open.spotify.com/track/2PY7w56NZdvh7YhBxfT4pE"
     },
     {
       "album": {
@@ -4462,7 +4532,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 194066,
       "name": "Doctor, My Eyes",
       "url": "https://open.spotify.com/track/4ZgXDDRSS4lVx1g3WkRon0"
@@ -4922,6 +4992,24 @@
       "duration_ms": 169277,
       "name": "EMOTIONS DIE YOUNG",
       "url": "https://open.spotify.com/track/6bma2tbLXpqO2bEGqMVh3S"
+    },
+    {
+      "album": {
+        "name": "Empire Freestyle",
+        "url": "https://open.spotify.com/album/4KzwJuobGzPJb9VKkR7RY5"
+      },
+      "artists": [
+        {
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156055,
+      "name": "Empire Freestyle",
+      "url": "https://open.spotify.com/track/0QpxLXaC4s2822YjpcCTMM"
     },
     {
       "album": {
@@ -6164,7 +6252,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 120792,
       "name": "Get In With Me",
       "url": "https://open.spotify.com/track/4iEoDBAgMJIzest7VsDgmT"
@@ -6208,7 +6296,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 144348,
       "name": "Get Jiggy",
       "url": "https://open.spotify.com/track/3ShDW3FYg06Cc5BJV94sEj"
@@ -6342,7 +6430,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 191626,
       "name": "Gin & Juice (feat. BigXthaPlug)",
       "url": "https://open.spotify.com/track/2EA5h6XD8KB070waaoclje"
@@ -7080,7 +7168,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 155000,
       "name": "Havin Freestyle",
       "url": "https://open.spotify.com/track/7DZT6oK0DaHqIgmPji8bGL"
@@ -9397,6 +9485,24 @@
     },
     {
       "album": {
+        "name": "Coming Out Party",
+        "url": "https://open.spotify.com/album/5vdKOSZqhHsEf9HEMqWidz"
+      },
+      "artists": [
+        {
+          "name": "J.P.",
+          "url": "https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103325,
+      "name": "Love Bone",
+      "url": "https://open.spotify.com/track/4jo1njCKQSMx7WqIFC9h99"
+    },
+    {
+      "album": {
         "name": "Love It Here",
         "url": "https://open.spotify.com/album/1p6Lg8hsLgtd5AnVmy3VWu"
       },
@@ -9546,7 +9652,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 136492,
       "name": "LUNCHROOM FREESTYLE (feat. BabyTron)",
       "url": "https://open.spotify.com/track/0IdnpPAGtYbUH3TWHR9Egn"
@@ -11049,6 +11155,24 @@
     },
     {
       "album": {
+        "name": "Not My Problem (Flyer Than U)",
+        "url": "https://open.spotify.com/album/6G6eCUDFNO5A8rgWrxKddR"
+      },
+      "artists": [
+        {
+          "name": "Laila!",
+          "url": "https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159230,
+      "name": "Not My Problem",
+      "url": "https://open.spotify.com/track/1T6dUV1mqXyA2bSP3lK0IZ"
+    },
+    {
+      "album": {
         "name": "Drugz N' Alkohol",
         "url": "https://open.spotify.com/album/45KgJHeZkGSbkwYFLYlYwp"
       },
@@ -11216,7 +11340,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 106153,
       "name": "Oh Yeahhh",
       "url": "https://open.spotify.com/track/2OGzLmhDaSZhQkJQf3VnW9"
@@ -11590,7 +11714,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 191480,
       "name": "OPTIONS",
       "url": "https://open.spotify.com/track/0LU2BLCYWYZX0Syij9SM15"
@@ -11674,7 +11798,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 131965,
       "name": "Ova Bad",
       "url": "https://open.spotify.com/track/7eP2aGOcagXwchZIIKX0QO"
@@ -12210,7 +12334,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 138749,
       "name": "Pop It",
       "url": "https://open.spotify.com/track/7uVc645aKDimYANWvNof3A"
@@ -12228,7 +12352,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 147804,
       "name": "Pop Yo Shit",
       "url": "https://open.spotify.com/track/7zlbWcAnL2pIGsGhRswUgK"
@@ -12869,6 +12993,24 @@
     },
     {
       "album": {
+        "name": "#gigi",
+        "url": "https://open.spotify.com/album/5yYtz3hPgOc2XAh5eDjDBa"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142227,
+      "name": "real feel",
+      "url": "https://open.spotify.com/track/7fShwQkgkUYrL6GttNjHTb"
+    },
+    {
+      "album": {
         "name": "real runtz",
         "url": "https://open.spotify.com/album/1MVm2T9NBAowAwJjla7Hsr"
       },
@@ -13434,7 +13576,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 178909,
       "name": "SAME MISTAKE",
       "url": "https://open.spotify.com/track/3VQ5lMMpas43wu1xIQuu0s"
@@ -13506,7 +13648,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 162004,
       "name": "Score",
       "url": "https://open.spotify.com/track/32c876XfKWsYU5jGL3bI64"
@@ -14685,6 +14827,24 @@
     },
     {
       "album": {
+        "name": "SportsCenter",
+        "url": "https://open.spotify.com/album/6JDj9XoiUTI8PfbvAX8K2W"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143092,
+      "name": "SportsCenter",
+      "url": "https://open.spotify.com/track/0ouOFAkST5sCy2f2XLJHdP"
+    },
+    {
+      "album": {
         "name": "Spring Cleaning",
         "url": "https://open.spotify.com/album/7IJW92NOjPepBorGcCSJBQ"
       },
@@ -15138,7 +15298,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 296000,
       "name": "Survival",
       "url": "https://open.spotify.com/track/6lDRyazOLvirYaOFVecYRb"
@@ -15404,7 +15564,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 176453,
       "name": "Talibans II - Bonus Track",
       "url": "https://open.spotify.com/track/4G604qB63cyOzB3qxEy897"
@@ -15422,7 +15582,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 104470,
       "name": "Talk My Shit",
       "url": "https://open.spotify.com/track/6O3WfmAQIgnLBGVzZJVS40"
@@ -15440,7 +15600,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 124958,
       "name": "Talk My Shit 4",
       "url": "https://open.spotify.com/track/4LzfF7d5iWgGoBerbwOiXk"
@@ -16378,7 +16538,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 225132,
       "name": "U My Everything (feat. Drake)",
       "url": "https://open.spotify.com/track/1TgStpMGTflN84asKJ8VU3"
@@ -16502,7 +16662,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 130369,
       "name": "Unthinkable",
       "url": "https://open.spotify.com/track/5f6HjjquypJa3JOtAzdDpi"
@@ -17656,6 +17816,24 @@
       "duration_ms": 194401,
       "name": "World In My Hands",
       "url": "https://open.spotify.com/track/2ioIEWGvazLwBfz1OBgpJ3"
+    },
+    {
+      "album": {
+        "name": "After 7",
+        "url": "https://open.spotify.com/album/3jMiuPdLcZ3svm5u2hSmnj"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "WOULD YOU?",
+      "url": "https://open.spotify.com/track/4375FaARAe3R3PMzdIdtKS"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [La Tierra del Corrido](https://open.spotify.com/playlist/37i9dQZF1DWXjOlK5exuVE)
 
-> ¡Bienvenidos a La Tierra del Corrido! Historias que hacen historia\. Los Tigres del Norte en portada.
+> ¡Bienvenidos a La Tierra del Corrido! Historias que hacen historia\. Banda MS y Los Tucanes de Tijuana en portada.
 
-219 songs - 11 hr 27 min
+220 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [El Toro Encartado \- Spotify Singles](https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [El Toro Encartado \- Spotify Singles](https://open.spotify.com/album/1UVIxjnGk4B4HnsTQsXLWh) | 2:44 | 2023-09-22 |  |
 | [El Ultimo Cartucho](https://open.spotify.com/track/3khgsGxNwXijlqyStMvpfh) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos Volumen 1](https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi) | 3:21 | 2023-02-03 | 2024-04-19 |
 | [El Ultimo Cartucho](https://open.spotify.com/track/4wk68kSA8ejJZODXivIc1d) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Aguanta Corazón](https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5) | 3:21 | 2024-04-19 |  |
+| [El Águila Blanca](https://open.spotify.com/track/4z7isLhEqhDj5UAhDBPLNN) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [El Águila Blanca](https://open.spotify.com/album/5JejGcuWuFRx2SeuIIXFso) | 2:15 | 2024-06-14 |  |
 | [El Águila Blanca](https://open.spotify.com/track/0crJsMs5FmnMHvQG1itkc0) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Imperio](https://open.spotify.com/album/4n0IYzVbxLFckUKpurk6kN) | 2:20 | 2023-08-22 |  |
 | [Empatía](https://open.spotify.com/track/4UxGESDEvN34xvqYSbQZQh) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Empatía](https://open.spotify.com/album/68JuS3O6mzT6T60cZbs0dV) | 4:04 | 2024-02-14 | 2024-04-19 |
 | [Empujando la Línea](https://open.spotify.com/track/4doAczw4VqEa9qJu1M8Ou5) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Especialista](https://open.spotify.com/album/1udzzVN47urH7cthUlyRMz) | 3:20 | 2023-08-22 | 2023-09-23 |

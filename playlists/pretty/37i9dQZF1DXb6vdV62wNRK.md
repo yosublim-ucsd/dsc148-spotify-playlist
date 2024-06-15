@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6vdV62wNRK.md) - [plain]
 
 > Siento que arranco la carretera...
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,939 likes - 125 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,022 likes - 125 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,13 +114,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6vdV62wNRK.md) - [plain]
 | 104 | [Me Metí En El Ruedo \(En Vivo\)](https://open.spotify.com/track/69fR39dr6KuJhBr6C9y7Vn) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Me Metí En El Ruedo \(En Vivo\)](https://open.spotify.com/album/0Nx0NCr9BmvR1UFjzZ5Jb2) | 2:54 |
 | 105 | [El Final de Nuestra Historia](https://open.spotify.com/track/73aNc2V32NpepB8lLhnDjW) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Ya Aprendí la Lección](https://open.spotify.com/album/7zdX1DPwz8PU1tsaw5qSg8) | 3:28 |
 | 106 | [Se Aceleró La Plebada](https://open.spotify.com/track/1UuhfKZQIUV7LuGNJspH4z) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [En Preparación](https://open.spotify.com/album/6SkVZ9EJpL1pQkf79qFnLF) | 2:19 |
-| 107 | [Estrategias De Escape](https://open.spotify.com/track/58o5ZiVHfAvBmfUyG49Ff0) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Archivo Privado](https://open.spotify.com/album/4TH25W7wdEPTYjznZ1l3yG) | 2:27 |
-| 108 | [Solo Un Día \- En Vivo](https://open.spotify.com/track/2VZ4vDpWOszIVHzM6iLbmU) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Pistiembre Todo El Año \(En Vivo\)](https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt) | 3:52 |
+| 107 | [Solo Un Día \- En Vivo](https://open.spotify.com/track/2VZ4vDpWOszIVHzM6iLbmU) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Pistiembre Todo El Año \(En Vivo\)](https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt) | 3:52 |
+| 108 | [Estrategias De Escape](https://open.spotify.com/track/58o5ZiVHfAvBmfUyG49Ff0) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Archivo Privado](https://open.spotify.com/album/4TH25W7wdEPTYjznZ1l3yG) | 2:27 |
 | 109 | [Por una Mujer Casada](https://open.spotify.com/track/1xheTAuldO0KID60sAQkIo) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Pa' Puros Compas!, Vol\. 1: Por una Mujer Casada y Otras Rancheras](https://open.spotify.com/album/5jqZyPBi6NXenINRZ7e0QJ) | 2:08 |
 | 110 | [El Vago De Los Nike](https://open.spotify.com/track/3MdhvQ8BprBhd4lYlgtPt2) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Vive Y Dejame Vivir](https://open.spotify.com/album/7obSSQZvfcaXki0vc6U847) | 2:56 |
 | 111 | [No Se Va](https://open.spotify.com/track/5TXLMRrIet3CQxkyBZc3yE) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va](https://open.spotify.com/album/4doKN48F7hHYG3WOujGP0F) | 3:14 |
-| 112 | [Cuervo Sierra](https://open.spotify.com/track/0Ac0WSY3CUEfKFxU4Hdn8j) | [Los Austeros De Durango](https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51) | [Cuervo Sierra](https://open.spotify.com/album/0h5bcde94ola2aVwjW1BaX) | 2:55 |
-| 113 | [Los Dos Amigos](https://open.spotify.com/track/6V6lgegjsKlcbBcJWmIz2S) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G), [Homero Guerrero y Lupe Tijerina](https://open.spotify.com/artist/029TNxYpdZWjCidyQjNmgE) | [12 Kilates Puros Corridos](https://open.spotify.com/album/5ZsOBQSfpD3odo1vSIUmMR) | 2:58 |
+| 112 | [Los Dos Amigos](https://open.spotify.com/track/6V6lgegjsKlcbBcJWmIz2S) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G), [Homero Guerrero y Lupe Tijerina](https://open.spotify.com/artist/029TNxYpdZWjCidyQjNmgE) | [12 Kilates Puros Corridos](https://open.spotify.com/album/5ZsOBQSfpD3odo1vSIUmMR) | 2:58 |
+| 113 | [Cuervo Sierra](https://open.spotify.com/track/0Ac0WSY3CUEfKFxU4Hdn8j) | [Los Austeros De Durango](https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51) | [Cuervo Sierra](https://open.spotify.com/album/0h5bcde94ola2aVwjW1BaX) | 2:55 |
 | 114 | [El Fugitivo \- En vivo](https://open.spotify.com/track/0y9HZZkKo85aWYGkvjeWFA) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Fugitivo](https://open.spotify.com/album/3HLVW0L1kXKOWSsXQx0y8i) | 2:58 |
 | 115 | [El Peor De Tus Antojos](https://open.spotify.com/track/2oipHDyjAILailWMTyIKMo) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian](https://open.spotify.com/album/0DU0130isqF7wOR0LbDtCA) | 3:29 |
 | 116 | [Todos Hablan, Nada Saben](https://open.spotify.com/track/4zpw2XwVLml02gTUVtlGY4) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu) | [Todos Hablan, Nada Saben](https://open.spotify.com/album/1sV7gFFQ6YbfMHrM4uOztN) | 2:43 |

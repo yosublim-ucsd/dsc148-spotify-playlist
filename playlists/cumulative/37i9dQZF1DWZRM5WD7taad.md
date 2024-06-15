@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Villano Antillano en Portada
 
-301 songs - 15 hr 7 min
+302 songs - 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Almacén de Datos](https://open.spotify.com/track/58ZAoRmXWnP5pXKD23Ymi7) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Almacén de Datos](https://open.spotify.com/album/0iEi94s2pqd4fARDElGSnx) | 3:32 | 2022-08-03 | 2023-07-01 |
 | [Alto Voltaje](https://open.spotify.com/track/0kRc7CgL2zznefYVYfCM1u) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Alto Voltaje](https://open.spotify.com/album/1KDs7zf9avbajx2jtOTqOe) | 2:50 | 2023-04-21 |  |
 | [Alzypher Vol\. 16](https://open.spotify.com/track/5u89qLN3SSj4jELsCLZ61K) | [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv), [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm) | [Alzypher Vol\. 16](https://open.spotify.com/album/4yKlBRqB6qCAoZzQPcBZeg) | 2:19 | 2023-12-22 | 2024-03-30 |
+| [Amor Bonito](https://open.spotify.com/track/40TSanahzEY6WEHdrtLQN5) | [Kris Alaniz](https://open.spotify.com/artist/2BBJWIcxT5ermErEg2LbWB), [Mari Polé](https://open.spotify.com/artist/0fkDQY5kgJpBTFy8bElfqY) | [Escándalo](https://open.spotify.com/album/7j8dIXuMwEOwShd551XiVK) | 3:22 | 2024-06-14 |  |
 | [Andamos Al Cien](https://open.spotify.com/track/2Xfm185fiOWuV5VtTwE6ys) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Andamos Al Cien](https://open.spotify.com/album/7BetyM1rTuAhNe73AmlgAF) | 3:12 | 2021-12-13 | 2023-07-01 |
 | [Antisocial](https://open.spotify.com/track/7tEsY4EB0tKXDgbv3JLRG4) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [$anta](https://open.spotify.com/artist/3GQB5B0wqM9p9EWvJtV2Ii) | [Rich Vagos Mixtape, Vol\. 2 \(Deluxe\)](https://open.spotify.com/album/6dGmu0l1TMcAZVC13XX1LN) | 3:00 | 2023-02-10 |  |
 | [Arrepentío](https://open.spotify.com/track/3vrwBbEWUh43drfQSXcVmZ) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Juicy BAE](https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN) | [Arrepentío](https://open.spotify.com/album/5Tof0SEOU9DsgKDustwSgp) | 3:30 | 2022-04-18 | 2023-03-11 |
@@ -60,7 +61,7 @@
 | [BUSINESS WOMAN](https://open.spotify.com/track/3rkbuNUCnmdaWBn7XY5Nd6) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [BUSINESS WOMAN](https://open.spotify.com/album/3BTGhFn6HnEKGRYFTBoIzJ) | 3:47 | 2021-12-13 | 2023-02-04 |
 | [Bésame](https://open.spotify.com/track/3F4xZkq6lEgkqGrLDV5VZi) | [$anta](https://open.spotify.com/artist/3GQB5B0wqM9p9EWvJtV2Ii), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Bésame](https://open.spotify.com/album/1OqqID9z2VfSPsWreYdsWY) | 2:23 | 2023-10-27 | 2024-04-19 |
 | [Búscame](https://open.spotify.com/track/4ciKkwEp9mnBmXh1eY8KZk) | [Kris Alaniz](https://open.spotify.com/artist/2BBJWIcxT5ermErEg2LbWB), [La Bruja Salguero](https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda) | [Búscame](https://open.spotify.com/album/11NTTKfT7MWt8g8na0JZ06) | 3:44 | 2023-10-06 |  |
-| [CAMINO](https://open.spotify.com/track/1kNL3YpzrDWMng468Jwxou) | [Alaíde](https://open.spotify.com/artist/2htg8Ya9Fbuy2zGKeL5q9i), [ALONG](https://open.spotify.com/artist/1tbJON658Utp3LCByyGz6v) | [CAMINO](https://open.spotify.com/album/4Y0AVZ1HJrWENhYKEfaIj9) | 2:51 | 2024-04-19 |  |
+| [CAMINO](https://open.spotify.com/track/1kNL3YpzrDWMng468Jwxou) | [Alaíde](https://open.spotify.com/artist/2htg8Ya9Fbuy2zGKeL5q9i), [ALONG](https://open.spotify.com/artist/1tbJON658Utp3LCByyGz6v) | [CAMINO](https://open.spotify.com/album/4Y0AVZ1HJrWENhYKEfaIj9) | 2:51 | 2024-04-19 | 2024-06-15 |
 | [Camino](https://open.spotify.com/track/0419zrFCGlfLFBj73b9jXP) | [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [Camino](https://open.spotify.com/album/07UeBYQqVZ84ieMaL8h7Yw) | 3:10 | 2024-04-26 | 2024-06-01 |
 | [Cenicienta](https://open.spotify.com/track/49FOV8pFqmjbG4rbqTrKN1) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre) | [Cenicienta](https://open.spotify.com/album/6njDaWFjwoe5ZjFqdWREW4) | 3:13 | 2024-04-19 |  |
 | [cereza](https://open.spotify.com/track/5Rs4nTh5AsDoELAre4dVPR) | [RUIDO](https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr), [cihuacoatl](https://open.spotify.com/artist/0puK9ppliD7aJzxOLxemtt) | [cereza](https://open.spotify.com/album/5oTWuDyBWoQZH1R6blCdm6) | 1:48 | 2024-05-17 |  |

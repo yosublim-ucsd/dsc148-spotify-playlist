@@ -262,7 +262,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 184151,
       "name": "Beautiful Day - Acoustic",
       "url": "https://open.spotify.com/track/7eWOW1egL8jXVrFuWHeFOY"
@@ -3910,6 +3910,24 @@
       "duration_ms": 173143,
       "name": "Viva La Vida - Acoustic",
       "url": "https://open.spotify.com/track/5MglzGLNOwOhQkOyk95Fg9"
+    },
+    {
+      "album": {
+        "name": "Waiting for a Star to Fall (Acoustic)",
+        "url": "https://open.spotify.com/album/50mfevy8r6BfVbRIbP6ng4"
+      },
+      "artists": [
+        {
+          "name": "Ben Weighill",
+          "url": "https://open.spotify.com/artist/6yAU69cTqYRuizldebquYb"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164768,
+      "name": "Waiting for a Star to Fall - Acoustic",
+      "url": "https://open.spotify.com/track/5dKgIGngjXSaseLDSaCkj0"
     },
     {
       "album": {

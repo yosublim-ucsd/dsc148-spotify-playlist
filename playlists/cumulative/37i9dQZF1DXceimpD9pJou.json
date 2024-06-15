@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las mejores nuevas canciones Cristianas.  Foto: <a href=\"spotify:artist:7iOw6TIHh8GcNnaAFvXyTu\">Vaes</a>",
+  "description": "Las mejores nuevas canciones Cristianas.  Foto: <a href=\"spotify:artist:4MgA2G0NoAMdcFBaK5ZAfw\">Loswan Melgar</a>",
   "name": "Novedades Cristianas",
   "tracks": [
+    {
+      "album": {
+        "name": "FUEGO",
+        "url": "https://open.spotify.com/album/6yTEwg3yr25E5trXinHnIW"
+      },
+      "artists": [
+        {
+          "name": "Tomi Perfetti",
+          "url": "https://open.spotify.com/artist/5uzIBotVPw3Zb6dG74Ua7Z"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148181,
+      "name": "01 FUEGO",
+      "url": "https://open.spotify.com/track/0XVMNKaQZOpMfvBja8MGjM"
+    },
     {
       "album": {
         "name": "10,000 Ej\u00e9rcitos",
@@ -2406,7 +2424,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 318000,
       "name": "Antes Que Hermanos Amigos",
       "url": "https://open.spotify.com/track/4dGp0U7ivX4j3fF3a9XOhl"
@@ -3748,6 +3766,24 @@
       "duration_ms": 176823,
       "name": "Buen Hermano",
       "url": "https://open.spotify.com/track/7BhxZtYIK0PYIhH9D0sSij"
+    },
+    {
+      "album": {
+        "name": "Buen Padre (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/73Pqd0QrVwLi7ke99qHKWB"
+      },
+      "artists": [
+        {
+          "name": "Bria Jean",
+          "url": "https://open.spotify.com/artist/43UtBCYgy0IcVMzggYPCXD"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249461,
+      "name": "Buen Padre - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6UboDp4GZ4pVYW7s9hF8Yq"
     },
     {
       "album": {
@@ -5338,7 +5374,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 177006,
       "name": "Como Tu No Hay",
       "url": "https://open.spotify.com/track/2innlJvrx6AgUYAUpoOSdE"
@@ -6757,6 +6793,24 @@
     },
     {
       "album": {
+        "name": "Cuando Yo Te Vuelva a Ver",
+        "url": "https://open.spotify.com/album/2x8MAYmBxCEqRIjEVJ2atv"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Bazan",
+          "url": "https://open.spotify.com/artist/3a7bxaS9tJ33mhlBQ3bhuJ"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202346,
+      "name": "Cuando Yo Te Vuelva a Ver",
+      "url": "https://open.spotify.com/track/4wqHb58mQ5swI0IYcxq0n5"
+    },
+    {
+      "album": {
         "name": "Cuarto de Guerra (Rework)",
         "url": "https://open.spotify.com/album/7EOj7y3wYD7PlC4o8chgkt"
       },
@@ -7475,6 +7529,54 @@
     },
     {
       "album": {
+        "name": "Dejando Todo Atr\u00e1s",
+        "url": "https://open.spotify.com/album/5BxTrM2UgGJxENqJOO4L6a"
+      },
+      "artists": [
+        {
+          "name": "D\u00fao Zimrah",
+          "url": "https://open.spotify.com/artist/0FP4H8u7zqFaM6dDcluXgJ"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248787,
+      "name": "Dejando Todo Atr\u00e1s",
+      "url": "https://open.spotify.com/track/39cBHcTnWdI1wAoeq7FcbD"
+    },
+    {
+      "album": {
+        "name": "Del Agua Al Cielo",
+        "url": "https://open.spotify.com/album/1OCvOFV7UCnBknPshXgXaC"
+      },
+      "artists": [
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        },
+        {
+          "name": "Omy Alka",
+          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
+        },
+        {
+          "name": "Eliezer Daniels",
+          "url": "https://open.spotify.com/artist/0XSbTfozK3F8xeYpPneVO9"
+        },
+        {
+          "name": "Esteban Music",
+          "url": "https://open.spotify.com/artist/0Xuf6wb2j6Ok0KTAZNJTmH"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209316,
+      "name": "Del Agua Al Cielo",
+      "url": "https://open.spotify.com/track/1eDMdg30D6ylaY3cFhKeva"
+    },
+    {
+      "album": {
         "name": "Del King",
         "url": "https://open.spotify.com/album/5R1hMMfusXGYXQvJBR8YlH"
       },
@@ -7512,7 +7614,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 228320,
       "name": "Del Salmo 23",
       "url": "https://open.spotify.com/track/0pu2dU13lq6MVr5MYECGRV"
@@ -7588,6 +7690,24 @@
       "duration_ms": 198151,
       "name": "Derecho Pal Cielo",
       "url": "https://open.spotify.com/track/7FuAMdymeDCjNiJMNNJXgo"
+    },
+    {
+      "album": {
+        "name": "Descansa en Mi",
+        "url": "https://open.spotify.com/album/3yxA1JApxxBFf89sVxxUJt"
+      },
+      "artists": [
+        {
+          "name": "Nicole Morales",
+          "url": "https://open.spotify.com/artist/0WWmbhISf6kzAjQ51UNGgh"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308888,
+      "name": "Descansa en Mi",
+      "url": "https://open.spotify.com/track/1K5sUF4QUULP9Mmc9Ll6BV"
     },
     {
       "album": {
@@ -7730,6 +7850,28 @@
       "duration_ms": 212276,
       "name": "Despierta",
       "url": "https://open.spotify.com/track/3u4jkJRTMTWvXBAPmUB9Zc"
+    },
+    {
+      "album": {
+        "name": "Despierta mi alma",
+        "url": "https://open.spotify.com/album/099mPUH3LD6CTAtP1upEmU"
+      },
+      "artists": [
+        {
+          "name": "Ale Fdz",
+          "url": "https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy"
+        },
+        {
+          "name": "Emaus M\u00fasica",
+          "url": "https://open.spotify.com/artist/08H8NT2qvrPjDOPEIGYPhQ"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 541875,
+      "name": "Despierta mi alma",
+      "url": "https://open.spotify.com/track/0y5VT6r2PiSn5esYXEPcBz"
     },
     {
       "album": {
@@ -8050,7 +8192,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 232321,
       "name": "Dime c\u00f3mo hacerlo - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/0hqipi7wOGMkkS2xzB1imb"
@@ -8072,7 +8214,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 209032,
       "name": "DIME QUE HACER",
       "url": "https://open.spotify.com/track/1bSdt2DIxY71Z4M6ubRJ2P"
@@ -8434,7 +8576,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 150000,
       "name": "DIOS HA SIDO BUENO - Piano Version",
       "url": "https://open.spotify.com/track/22kD3KXAobzamNZ62v1c1T"
@@ -8990,6 +9132,24 @@
       "duration_ms": 458859,
       "name": "Dulce Refugio - Momento de Ministraci\u00f3n",
       "url": "https://open.spotify.com/track/1QAc9CGjAPqIe3GcGSN8wg"
+    },
+    {
+      "album": {
+        "name": "D\u00edas Buenos :)",
+        "url": "https://open.spotify.com/album/5bgFo0ihjsMLcVZEylP4KC"
+      },
+      "artists": [
+        {
+          "name": "David Muguercia",
+          "url": "https://open.spotify.com/artist/5nMM1vcEVt8ZMtMozqQ4fu"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "D\u00edas Buenos :)",
+      "url": "https://open.spotify.com/track/51xp0if6i0fqsbcksIg4if"
     },
     {
       "album": {
@@ -9765,6 +9925,28 @@
     },
     {
       "album": {
+        "name": "El M\u00e1s Bello",
+        "url": "https://open.spotify.com/album/5dZWeJr55pmjRUhX183Y7S"
+      },
+      "artists": [
+        {
+          "name": "Isaac Salinas",
+          "url": "https://open.spotify.com/artist/7xqZrj9YaPC57GXU4r2JwF"
+        },
+        {
+          "name": "Benja y Nadia",
+          "url": "https://open.spotify.com/artist/5KrbPRzUYUpjowsojpASZE"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364000,
+      "name": "El M\u00e1s Bello",
+      "url": "https://open.spotify.com/track/5iJvK0U9CylPA42d5khsxI"
+    },
+    {
+      "album": {
         "name": "El Nazareno",
         "url": "https://open.spotify.com/album/0s0Krj62a0eEkLguJPygey"
       },
@@ -9798,7 +9980,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 533463,
       "name": "El Nombre",
       "url": "https://open.spotify.com/track/2hIw1ExNb212opXDwXorM9"
@@ -10254,7 +10436,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 211600,
       "name": "Eleva Tu Alma",
       "url": "https://open.spotify.com/track/5pZuCKXUjx3u3dP1c2eJH8"
@@ -10708,6 +10890,24 @@
       "duration_ms": 323344,
       "name": "En Memoria De Ti",
       "url": "https://open.spotify.com/track/62fL5RqurblUV6egM3IVjf"
+    },
+    {
+      "album": {
+        "name": "En Otro Tiempo M\u00e1s",
+        "url": "https://open.spotify.com/album/33CN9O09BjNP4jBR9rc852"
+      },
+      "artists": [
+        {
+          "name": "Cuarteto Vocal Sabbath",
+          "url": "https://open.spotify.com/artist/7stUAI6LTmGJWKaea2TOJo"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324003,
+      "name": "En Otro Tiempo M\u00e1s",
+      "url": "https://open.spotify.com/track/7svvAxblBNOJrm1QQckry1"
     },
     {
       "album": {
@@ -11708,7 +11908,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 295003,
       "name": "Esp\u00edritu Santo Ll\u00e9name",
       "url": "https://open.spotify.com/track/5IY9kYx7dNnmvNcxXpeI4b"
@@ -11916,7 +12116,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 257920,
       "name": "Esto No Tiene Precio",
       "url": "https://open.spotify.com/track/7vfNrVrEg3BgFLMaRjqMLQ"
@@ -12364,6 +12564,24 @@
       "duration_ms": 639557,
       "name": "Favor & Gracia",
       "url": "https://open.spotify.com/track/39ptvPFXNkrNUTMFmxj9ir"
+    },
+    {
+      "album": {
+        "name": "FAYA",
+        "url": "https://open.spotify.com/album/07kRXxkEOn1mcu5DumPce1"
+      },
+      "artists": [
+        {
+          "name": "Lowsan Melgar",
+          "url": "https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153226,
+      "name": "FAYA",
+      "url": "https://open.spotify.com/track/1RJvNfqqGBC2SMI4Ye6MyN"
     },
     {
       "album": {
@@ -13994,7 +14212,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 241816,
       "name": "Gracias Cristo",
       "url": "https://open.spotify.com/track/6Ax2zkP5VWm0Tgg787SJn3"
@@ -14420,7 +14638,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 263721,
       "name": "Ha Llegado El Momento",
       "url": "https://open.spotify.com/track/4mLr6ZAjbqWvtgGJ8PjShD"
@@ -14692,6 +14910,24 @@
       "duration_ms": 1001141,
       "name": "Hasta Rebosar (En Vivo)",
       "url": "https://open.spotify.com/track/03Y0tDbfLUiblp0CMju5Lj"
+    },
+    {
+      "album": {
+        "name": "Hay Alegr\u00eda",
+        "url": "https://open.spotify.com/album/0FMIVQbg4PqyKFl9JyQlVo"
+      },
+      "artists": [
+        {
+          "name": "Alisha",
+          "url": "https://open.spotify.com/artist/6QrruJcuTbmHWCZNxvnJR8"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152493,
+      "name": "Hay Alegr\u00eda",
+      "url": "https://open.spotify.com/track/1N8GeZIzc1huuUpCkqnZdX"
     },
     {
       "album": {
@@ -15058,6 +15294,28 @@
       "duration_ms": 220500,
       "name": "Hechos 2 (Pentecost\u00e9s) [En Vivo]",
       "url": "https://open.spotify.com/track/5U0o3bSHpLVNCcbwV1K9gA"
+    },
+    {
+      "album": {
+        "name": "Hermoso Dios",
+        "url": "https://open.spotify.com/album/1GIeNFsj2qLMMjOPAodES7"
+      },
+      "artists": [
+        {
+          "name": "Felipe S. Santos",
+          "url": "https://open.spotify.com/artist/2CDj0rjKfUgyXeSazcfPHJ"
+        },
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312142,
+      "name": "Hermoso Dios",
+      "url": "https://open.spotify.com/track/6QqR2QsrqD5GmRfD2fdANx"
     },
     {
       "album": {
@@ -15566,6 +15824,24 @@
       "duration_ms": 212642,
       "name": "H\u00e1gase",
       "url": "https://open.spotify.com/track/7nQQsZhw7oXIyI4qz0EX3X"
+    },
+    {
+      "album": {
+        "name": "I SEE",
+        "url": "https://open.spotify.com/album/73bH3w49yuWQ2gM2qISOFp"
+      },
+      "artists": [
+        {
+          "name": "Andrez Babii",
+          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167875,
+      "name": "I SEE",
+      "url": "https://open.spotify.com/track/4LacApp0rfeqpwoGCA3tjR"
     },
     {
       "album": {
@@ -17842,7 +18118,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 285534,
       "name": "Libertad",
       "url": "https://open.spotify.com/track/4L97YmwMTTwQ12Pj82LfkR"
@@ -18284,6 +18560,24 @@
       "duration_ms": 262000,
       "name": "Lo Har\u00e1s",
       "url": "https://open.spotify.com/track/1XnYHgCrAU6DFJH7mlZ6pC"
+    },
+    {
+      "album": {
+        "name": "Lo M\u00edo Es Tuyo",
+        "url": "https://open.spotify.com/album/4m8562lRDuyOM3SdOr3pr0"
+      },
+      "artists": [
+        {
+          "name": "Townix",
+          "url": "https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185210,
+      "name": "Lo M\u00edo Es Tuyo",
+      "url": "https://open.spotify.com/track/2tPIEUQ8AxHdukWLUug8Ih"
     },
     {
       "album": {
@@ -18848,7 +19142,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 173868,
       "name": "LOVEO",
       "url": "https://open.spotify.com/track/0rBVM75Fqi5U6rCm2m5iTK"
@@ -20147,6 +20441,24 @@
     },
     {
       "album": {
+        "name": "mejor que ayer",
+        "url": "https://open.spotify.com/album/4GSVmHW4lN3IOkXbDFo3cQ"
+      },
+      "artists": [
+        {
+          "name": "Living",
+          "url": "https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186710,
+      "name": "mejor que ayer",
+      "url": "https://open.spotify.com/track/1lPCV44nVVAElAxIdyRU8d"
+    },
+    {
+      "album": {
         "name": "Mejor Que Ayer",
         "url": "https://open.spotify.com/album/6MLSrVGvrAvhcQkcElbHDY"
       },
@@ -20282,7 +20594,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 149333,
       "name": "Mes\u00edas",
       "url": "https://open.spotify.com/track/44nafrNbOUVWWv41kAqbz5"
@@ -20366,6 +20678,24 @@
       "duration_ms": 330315,
       "name": "Mi Alma Tiene Sed De Dios",
       "url": "https://open.spotify.com/track/3aqrwcdrFMA2KRLsTDElOS"
+    },
+    {
+      "album": {
+        "name": "Mi Amado",
+        "url": "https://open.spotify.com/album/4Kky0sPquYqJVvbYsKYxh5"
+      },
+      "artists": [
+        {
+          "name": "Hakuna Group Music",
+          "url": "https://open.spotify.com/artist/7Lemn0MD6Cb2QfmeZJ5BwS"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226264,
+      "name": "Mi Amado",
+      "url": "https://open.spotify.com/track/1nfTVyVDsqJwL0WzP0eWix"
     },
     {
       "album": {
@@ -22499,6 +22829,24 @@
     },
     {
       "album": {
+        "name": "\u00c9xitos de Francisco Orantes desde Culiac\u00e1n Sinaloa",
+        "url": "https://open.spotify.com/album/4sABJoDM30azovtFFbReEY"
+      },
+      "artists": [
+        {
+          "name": "Con Ritmo Music",
+          "url": "https://open.spotify.com/artist/4EVLaDN05KZf6TJXhHoWUi"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285514,
+      "name": "Necesito De Ti",
+      "url": "https://open.spotify.com/track/0ZHntS0nuBAbKFTDEn4PJf"
+    },
+    {
+      "album": {
         "name": "Estoy Aqu\u00ed",
         "url": "https://open.spotify.com/album/1PWygtmVd912YaQ9cCVDGO"
       },
@@ -22914,6 +23262,28 @@
       "duration_ms": 220809,
       "name": "No Hay Otro Nombre Igual",
       "url": "https://open.spotify.com/track/17zQ7pnLFeSW8LRgF1XQxX"
+    },
+    {
+      "album": {
+        "name": "No Hay Otro Rey",
+        "url": "https://open.spotify.com/album/0VUb4WCqJiqzbn4k1lyZ7z"
+      },
+      "artists": [
+        {
+          "name": "VIDAIN Music",
+          "url": "https://open.spotify.com/artist/3fk4KOLcALRhzDB5dqkdF8"
+        },
+        {
+          "name": "Keren",
+          "url": "https://open.spotify.com/artist/2kpV08t80sIw1ninlFp7ZF"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296000,
+      "name": "No Hay Otro Rey",
+      "url": "https://open.spotify.com/track/4KSop5UlGCXx82kZYIQDyv"
     },
     {
       "album": {
@@ -23430,7 +23800,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 227899,
       "name": "No Tardes",
       "url": "https://open.spotify.com/track/71t1SVuTz5GuWIFWxJiRQl"
@@ -24104,7 +24474,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 362961,
       "name": "Ofrenda - Ac\u00fastico",
       "url": "https://open.spotify.com/track/0yP4r4mZkWmsttplDm9dQ4"
@@ -24198,7 +24568,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 176334,
       "name": "Olas del Mar",
       "url": "https://open.spotify.com/track/2UOAZ6k8pJig7aSdp4unkL"
@@ -24986,6 +25356,24 @@
       "duration_ms": 235881,
       "name": "Pens\u00e1ndolo Bien",
       "url": "https://open.spotify.com/track/5WZi763u9HTCx2IRAPUdLT"
+    },
+    {
+      "album": {
+        "name": "Perderme en Ti",
+        "url": "https://open.spotify.com/album/3WXKjYjnoaPENmbEepPZt1"
+      },
+      "artists": [
+        {
+          "name": "Semillas De Vida",
+          "url": "https://open.spotify.com/artist/5wzQXPEWdkh3PCkxoceoP2"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 489045,
+      "name": "Perderme en Ti",
+      "url": "https://open.spotify.com/track/7KBgI5vJjr2lgeLd8bgawY"
     },
     {
       "album": {
@@ -26204,7 +26592,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 300000,
       "name": "Profundamente Te Amo - En Vivo",
       "url": "https://open.spotify.com/track/0BhWlXmzjr35pmuScdSJuB"
@@ -26872,7 +27260,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 268392,
       "name": "Quisiera Pero No",
       "url": "https://open.spotify.com/track/34tonjVesqqv0SOhfGOSVp"
@@ -29152,7 +29540,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 216927,
       "name": "Signos en lo Alto - Se\u00f1ales de Dios",
       "url": "https://open.spotify.com/track/765zeht4Vtbf5i6lAjYdoO"
@@ -29704,10 +30092,6 @@
         {
           "name": "mission musica",
           "url": "https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw"
-        },
-        {
-          "name": "Lorena Gamba Castellanos",
-          "url": "https://open.spotify.com/artist/6ETHdwWFmf6kL9I2WENKZx"
         }
       ],
       "date_added": "2024-05-17",
@@ -30328,7 +30712,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 275113,
       "name": "Soy Perdonado - Ya No Vuelvo Atr\u00e1s, Dame un Nuevo Coraz\u00f3n",
       "url": "https://open.spotify.com/track/6dcTUf59zb6ZW42dGcKKRL"
@@ -31424,7 +31808,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 352203,
       "name": "Te Anhelo - Live",
       "url": "https://open.spotify.com/track/2JsUPNiIWssxvxcOUybNdR"
@@ -31997,6 +32381,24 @@
     },
     {
       "album": {
+        "name": "The Grace",
+        "url": "https://open.spotify.com/album/0JhC81hi8MQwHtwnLmd0Fl"
+      },
+      "artists": [
+        {
+          "name": "Casdapro",
+          "url": "https://open.spotify.com/artist/3DL44Lztjajt2EnANMCk2X"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133253,
+      "name": "The Grace",
+      "url": "https://open.spotify.com/track/1Gqsa9pacCojrPOO3On8It"
+    },
+    {
+      "album": {
         "name": "Tibur\u00f3n",
         "url": "https://open.spotify.com/album/3pHs4hs28FVMsDymmC8LJU"
       },
@@ -32514,7 +32916,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 195000,
       "name": "Todo Por Tu Gloria",
       "url": "https://open.spotify.com/track/2iulLdVpIUUovVv1IwpoK0"
@@ -32636,6 +33038,24 @@
       "duration_ms": 224378,
       "name": "Tranquilo",
       "url": "https://open.spotify.com/track/2ImJ6DqPkXLp97mR4xoMZL"
+    },
+    {
+      "album": {
+        "name": "Transformado (Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/0Te8w52bV25l9FGPajeM2x"
+      },
+      "artists": [
+        {
+          "name": "Luz y Vida Music",
+          "url": "https://open.spotify.com/artist/2TdGvh5R3eya83igIVC66v"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289783,
+      "name": "Transformado - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/1yf9wU3fifbchl995Tz7rS"
     },
     {
       "album": {
@@ -33463,6 +33883,24 @@
     },
     {
       "album": {
+        "name": "Tu Promesa (En Vivo)",
+        "url": "https://open.spotify.com/album/7KzrI1LVTN7kEdtzVFQGfA"
+      },
+      "artists": [
+        {
+          "name": "Samuel Arroyave",
+          "url": "https://open.spotify.com/artist/525KpcmXJz3NFfm6tXS7Cp"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268333,
+      "name": "Tu Promesa - En Vivo",
+      "url": "https://open.spotify.com/track/7dRzVSfmyC0jDToHXaDAPO"
+    },
+    {
+      "album": {
         "name": "Tu Reino Est\u00e1 Aqu\u00ed",
         "url": "https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO"
       },
@@ -34195,6 +34633,36 @@
     },
     {
       "album": {
+        "name": "Una Fresca Unci\u00f3n (Tierra Santa)",
+        "url": "https://open.spotify.com/album/0qzgnMYLFIpdT1qfUy8YZI"
+      },
+      "artists": [
+        {
+          "name": "Mark & Sarah Tillman",
+          "url": "https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX"
+        },
+        {
+          "name": "Wendy Vides",
+          "url": "https://open.spotify.com/artist/4P2wGBgg1JVs58vQf0ziI7"
+        },
+        {
+          "name": "McKendree",
+          "url": "https://open.spotify.com/artist/44AW7B5IZxSltaNdS1uVwH"
+        },
+        {
+          "name": "Carlos Gallardo-Candia",
+          "url": "https://open.spotify.com/artist/1z1Qlkixr9lpReb8wuYLi2"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211048,
+      "name": "Una Fresca Unci\u00f3n (Tierra Santa)",
+      "url": "https://open.spotify.com/track/2FPjfd4IzYIqQ0sFf1KbIP"
+    },
+    {
+      "album": {
         "name": "Una Nueva Historia (Espanhol)",
         "url": "https://open.spotify.com/album/75GTKHL6mcZG5B4Yx6bxG5"
       },
@@ -34786,7 +35254,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 250683,
       "name": "Ven Es Tiempo De Adorarle - 25th Anniversary",
       "url": "https://open.spotify.com/track/725gMZ2gRhWk6mTmWY5ZWZ"

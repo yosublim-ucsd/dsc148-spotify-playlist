@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 
 ### [Hip\-Hop Haryanvi](https://open.spotify.com/playlist/37i9dQZF1DWXpuQNEd48No)
 
-> Yo Hai Haryanvi Hip\-Hop! Cover: Dhanda Nyoliwala
+> Yo Hai Haryanvi Hip\-Hop! Cover: Krackerr & Srishti Jaiswal
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,261 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,296 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 | 3 | [Ego Killer](https://open.spotify.com/track/6WhqcM5yOeBNvbtpKJfm2Z) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Ego Killer](https://open.spotify.com/album/7lxM6bndvrEx8pFd8FLYjm) | 3:08 |
 | 4 | [Dupatta Drill](https://open.spotify.com/track/6wwwaMSY04xYhDpU7IKzz3) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Rawme Hooda](https://open.spotify.com/artist/7B6M2lrsO79XEw8xAbm4OE), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Dupatta Drill](https://open.spotify.com/album/545u6lIVWOfi58QE5I3feD) | 2:30 |
 | 5 | [Suit Ki Kadhayi](https://open.spotify.com/track/372TareXWYPDPaJWpr5BGH) | [Old Sinners](https://open.spotify.com/artist/6uN0yKoOoelg1X2GnSj35s), [Shiva Choudhary](https://open.spotify.com/artist/3KOSRNy74RLnTAFn0u1tmN) | [Suit Ki Kadhayi](https://open.spotify.com/album/0qvNkpsn240kAtgdkG7bVk) | 2:34 |
-| 6 | [Nonstop](https://open.spotify.com/track/0nmWdTvhu6nduoTl7BB7p5) | [BigMoney](https://open.spotify.com/artist/41pzoBBVcwaMdSiPlrUuth) | [7 Down 8 Up](https://open.spotify.com/album/2TFMQknbNORttU4HjgsIXn) | 2:32 |
+| 6 | [Nonstop](https://open.spotify.com/track/0nmWdTvhu6nduoTl7BB7p5) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE) | [7 Down 8 Up](https://open.spotify.com/album/2TFMQknbNORttU4HjgsIXn) | 2:32 |
 | 7 | [Haryana Hood](https://open.spotify.com/track/1RdrAqXa2fUj2XytsKaUwl) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [Haryana Hood](https://open.spotify.com/album/4x2HtG6BCrYlok67vSgxjj) | 3:31 |
 | 8 | [Laado](https://open.spotify.com/track/0NuWRfZRWzn1oc9piFhK9n) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Laado](https://open.spotify.com/album/0vEzErGiuiczFnmuOD35sB) | 2:28 |
 | 9 | [Kaley Sheshe](https://open.spotify.com/track/0ZcMt3GYvVkBjdomag59NP) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5), [Aniket Jain](https://open.spotify.com/artist/3CenMXEd3ei2rZZ3k9bWQH) | [Kaley Sheshe](https://open.spotify.com/album/4gFSkO9sJOpWHwW8MPtyIp) | 3:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 | 99 | [Rao Sahab](https://open.spotify.com/track/5b8fPlCEdsYNHpVXJFKGvo) | [Krrish Rao](https://open.spotify.com/artist/2VqJFtElDmZUSbTAgQhVVv), [Kriti Verma](https://open.spotify.com/artist/50k6SiiWTWIdifNRgXI64E), [Fateh Sandhu](https://open.spotify.com/artist/1CsrIsktvaa6Bv1yAACs4h) | [Rao Sahab](https://open.spotify.com/album/7bXQtOtyKCLppfhBdNJXIQ) | 3:12 |
 | 100 | [Jalya Na Karo](https://open.spotify.com/track/6dnmxbneZ8CGw0p9St0uo1) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Jalya Na Karo](https://open.spotify.com/album/6jrKmnwQHKyoQKwAzNS378) | 3:42 |
 
-Snapshot ID: `ZmrFrQAAAAB0Y7q8oWTqq9/BE2GiipVg`
+Snapshot ID: `Zmw1MgAAAACJ1g03+GnIajYAA29Y9YVX`

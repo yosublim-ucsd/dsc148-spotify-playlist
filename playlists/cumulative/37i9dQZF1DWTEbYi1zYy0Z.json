@@ -777,6 +777,24 @@
     },
     {
       "album": {
+        "name": "Because of Who You Are (Instrumental)",
+        "url": "https://open.spotify.com/album/7CCKQMYC2LEy4or4Wq0Il6"
+      },
+      "artists": [
+        {
+          "name": "Uriel Vega",
+          "url": "https://open.spotify.com/artist/1m9G79dw6i91jo4o5k6AEg"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266927,
+      "name": "Because of Who You Are (Instrumental)",
+      "url": "https://open.spotify.com/track/7mBype4FhRTYuF4u9rdmdc"
+    },
+    {
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/32c0L5aOhKRswoVsOhvqwu"
       },
@@ -996,7 +1014,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 224268,
       "name": "Born To Fly",
       "url": "https://open.spotify.com/track/0O4vv4lVhxzAaIj7RqFGo4"
@@ -1120,6 +1138,24 @@
       "duration_ms": 273232,
       "name": "Brother to Brother",
       "url": "https://open.spotify.com/track/1T4fHkHBTsJmzN3QroEnq1"
+    },
+    {
+      "album": {
+        "name": "Brown Sugar",
+        "url": "https://open.spotify.com/album/1DzPhhXalSEevmRGicXZSu"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Cole",
+          "url": "https://open.spotify.com/artist/2dhHHEVRMiRwYPzogPfmco"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271821,
+      "name": "Brown Sugar",
+      "url": "https://open.spotify.com/track/649DBqP4FrmmK7blTlp7Pa"
     },
     {
       "album": {
@@ -3045,6 +3081,36 @@
     },
     {
       "album": {
+        "name": "Fresh Air",
+        "url": "https://open.spotify.com/album/7HOog0MOFLIgCmSDoRz4Fy"
+      },
+      "artists": [
+        {
+          "name": "Matthew Shell",
+          "url": "https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9"
+        },
+        {
+          "name": "Arun Shenoy",
+          "url": "https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU"
+        },
+        {
+          "name": "Cord Martin",
+          "url": "https://open.spotify.com/artist/63cZyR7rLr6FUBcJXb7tXx"
+        },
+        {
+          "name": "Sam Ojalvo",
+          "url": "https://open.spotify.com/artist/4ZnNAbmDRT7GZe8p3Vjuip"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209557,
+      "name": "Fresh Air",
+      "url": "https://open.spotify.com/track/2Xh0zqD0VwVfo3xgVXiO0Q"
+    },
+    {
+      "album": {
         "name": "G-Stream 2-Turn It Up",
         "url": "https://open.spotify.com/album/69dx6W2l6wJdcvRYhFDlt8"
       },
@@ -4320,6 +4386,24 @@
       "duration_ms": 262826,
       "name": "Late Night Drive",
       "url": "https://open.spotify.com/track/7hweKo7KkE5q0HUKCqddqp"
+    },
+    {
+      "album": {
+        "name": "Later Together",
+        "url": "https://open.spotify.com/album/0cQOJUaBWc8h7iCBTHEUd9"
+      },
+      "artists": [
+        {
+          "name": "FKAjazz",
+          "url": "https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245413,
+      "name": "Later Together",
+      "url": "https://open.spotify.com/track/0EEmz4rs2yKfEIE9ODHVUg"
     },
     {
       "album": {
@@ -8514,7 +8598,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 242181,
       "name": "Uluwatu",
       "url": "https://open.spotify.com/track/3qZWEsYLCRTR5YCArqIdra"
@@ -8936,7 +9020,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 239893,
       "name": "When and Where",
       "url": "https://open.spotify.com/track/1VR8txe3fStPrSSzqeDOPc"

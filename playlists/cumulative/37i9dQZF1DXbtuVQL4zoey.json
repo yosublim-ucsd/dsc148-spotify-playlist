@@ -337,6 +337,24 @@
     },
     {
       "album": {
+        "name": "Alicante",
+        "url": "https://open.spotify.com/album/5JgwQzMeGwYS4IKKdAQCM3"
+      },
+      "artists": [
+        {
+          "name": "Matt Large",
+          "url": "https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184702,
+      "name": "Alicante",
+      "url": "https://open.spotify.com/track/0YRYWdsmAm97kcgRvXuJDB"
+    },
+    {
+      "album": {
         "name": "Alone Again",
         "url": "https://open.spotify.com/album/2PmKJoMUa2vd4keMvlO7xS"
       },
@@ -1138,6 +1156,24 @@
       "duration_ms": 175389,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/3bCFay2zoRA5h5pcTw5Yny"
+    },
+    {
+      "album": {
+        "name": "Natural Reflections",
+        "url": "https://open.spotify.com/album/20ecj6Hs3KL1Wq2kJtOiXL"
+      },
+      "artists": [
+        {
+          "name": "Keeth",
+          "url": "https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181422,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/6AlWNYpWiJ52aXmixuYXxc"
     },
     {
       "album": {
@@ -7285,6 +7321,24 @@
     },
     {
       "album": {
+        "name": "Retro Retreat",
+        "url": "https://open.spotify.com/album/30Q0q8iC2pOTMEd8zYgCIV"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Mardal",
+          "url": "https://open.spotify.com/artist/56PuDgywHPrbEFyujgPc9V"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "Retro Retreat",
+      "url": "https://open.spotify.com/track/5aAV0yhdBbpKkbuDWng1cl"
+    },
+    {
+      "album": {
         "name": "Retrospective",
         "url": "https://open.spotify.com/album/1hdYL4Gu453c6Ve4lGsUH1"
       },
@@ -8000,7 +8054,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 192344,
       "name": "So Seductive",
       "url": "https://open.spotify.com/track/2BDKKL4We7h8JwGk4NWpE5"
@@ -8703,6 +8757,32 @@
     },
     {
       "album": {
+        "name": "Sun Soaked",
+        "url": "https://open.spotify.com/album/4aKw4zmuZsLl5d2vGwgEG3"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Walther",
+          "url": "https://open.spotify.com/artist/40GMyQ5sv1bfiui9CrEPME"
+        },
+        {
+          "name": "Solar Body",
+          "url": "https://open.spotify.com/artist/74xLamiAg7I4qmr2XsOddO"
+        },
+        {
+          "name": "air sign",
+          "url": "https://open.spotify.com/artist/6yHL1fQbiz7xtwAVERaSPG"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Sun Soaked",
+      "url": "https://open.spotify.com/track/2o906V0XVX9gtYbb4cf4Ek"
+    },
+    {
+      "album": {
         "name": "sunday am",
         "url": "https://open.spotify.com/album/2HAaftOkwFzPXYuBeifJU8"
       },
@@ -8790,6 +8870,24 @@
       "duration_ms": 171529,
       "name": "Sunflower Plaza",
       "url": "https://open.spotify.com/track/0FEwN2OMlnxy5AvSdgQDGW"
+    },
+    {
+      "album": {
+        "name": "Sunkissed",
+        "url": "https://open.spotify.com/album/2jFuqRfCGbNAdgLzySkdWp"
+      },
+      "artists": [
+        {
+          "name": "softy",
+          "url": "https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138666,
+      "name": "Sunkissed",
+      "url": "https://open.spotify.com/track/6sI2PKNUkwTJexvW4FYrah"
     },
     {
       "album": {

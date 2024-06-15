@@ -1,18 +1,50 @@
 {
   "description": "So fresh, so smooth. Cover: Braxton Brothers",
-  "num_followers": 63226,
+  "num_followers": 63243,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmKFwAAAAADSiiEGFnaPiK/U7XfnQT8l",
+  "snapshot_id": "ZmvAQAAAAAChBuZXbm+dodzI7b09YSe3",
   "tracks": [
     {
-      "added_at": "2024-06-07 04:00:00",
+      "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Born To Fly",
-        "url": "https://open.spotify.com/album/0xAbzVWIUCzVZjkQ7AKrum"
+        "name": "Brown Sugar",
+        "url": "https://open.spotify.com/album/1DzPhhXalSEevmRGicXZSu"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Cole",
+          "url": "https://open.spotify.com/artist/2dhHHEVRMiRwYPzogPfmco"
+        }
+      ],
+      "duration_ms": 271821,
+      "name": "Brown Sugar",
+      "url": "https://open.spotify.com/track/649DBqP4FrmmK7blTlp7Pa"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Later Together",
+        "url": "https://open.spotify.com/album/0cQOJUaBWc8h7iCBTHEUd9"
+      },
+      "artists": [
+        {
+          "name": "FKAjazz",
+          "url": "https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr"
+        }
+      ],
+      "duration_ms": 245413,
+      "name": "Later Together",
+      "url": "https://open.spotify.com/track/0EEmz4rs2yKfEIE9ODHVUg"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Fresh Air",
+        "url": "https://open.spotify.com/album/7HOog0MOFLIgCmSDoRz4Fy"
       },
       "artists": [
         {
@@ -24,17 +56,17 @@
           "url": "https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU"
         },
         {
-          "name": "Douglas Lira",
-          "url": "https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI"
+          "name": "Cord Martin",
+          "url": "https://open.spotify.com/artist/63cZyR7rLr6FUBcJXb7tXx"
         },
         {
-          "name": "Erik Fredriksen",
-          "url": "https://open.spotify.com/artist/5CcllNR4re2mZopKUwFoQl"
+          "name": "Sam Ojalvo",
+          "url": "https://open.spotify.com/artist/4ZnNAbmDRT7GZe8p3Vjuip"
         }
       ],
-      "duration_ms": 224268,
-      "name": "Born To Fly",
-      "url": "https://open.spotify.com/track/0O4vv4lVhxzAaIj7RqFGo4"
+      "duration_ms": 209557,
+      "name": "Fresh Air",
+      "url": "https://open.spotify.com/track/2Xh0zqD0VwVfo3xgVXiO0Q"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -51,6 +83,22 @@
       "duration_ms": 273979,
       "name": "Levante",
       "url": "https://open.spotify.com/track/0cAJLGx79bybrE8ix7hOpC"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Because of Who You Are (Instrumental)",
+        "url": "https://open.spotify.com/album/7CCKQMYC2LEy4or4Wq0Il6"
+      },
+      "artists": [
+        {
+          "name": "Uriel Vega",
+          "url": "https://open.spotify.com/artist/1m9G79dw6i91jo4o5k6AEg"
+        }
+      ],
+      "duration_ms": 266927,
+      "name": "Because of Who You Are (Instrumental)",
+      "url": "https://open.spotify.com/track/7mBype4FhRTYuF4u9rdmdc"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1663,42 +1711,6 @@
       "duration_ms": 281956,
       "name": "Freddie Freeloader",
       "url": "https://open.spotify.com/track/2vICDXXuj3ceVBHlp2ABYg"
-    },
-    {
-      "added_at": "2023-02-17 05:01:00",
-      "album": {
-        "name": "Uluwatu",
-        "url": "https://open.spotify.com/album/1U7cmXBfgy4XnThYtvSXJY"
-      },
-      "artists": [
-        {
-          "name": "KASSEO",
-          "url": "https://open.spotify.com/artist/76UKhIGvZtS7jjb1muDTUM"
-        }
-      ],
-      "duration_ms": 242181,
-      "name": "Uluwatu",
-      "url": "https://open.spotify.com/track/3qZWEsYLCRTR5YCArqIdra"
-    },
-    {
-      "added_at": "2023-02-10 05:01:00",
-      "album": {
-        "name": "When and Where",
-        "url": "https://open.spotify.com/album/3W8rYwj9jh0X6kZGJ1js0O"
-      },
-      "artists": [
-        {
-          "name": "Rob Zinn",
-          "url": "https://open.spotify.com/artist/6I8oFZvFlvaEXz6ZYhEB65"
-        },
-        {
-          "name": "Jeff Ryan",
-          "url": "https://open.spotify.com/artist/0cjzOb6JYN5AOg4WVA9miY"
-        }
-      ],
-      "duration_ms": 239893,
-      "name": "When and Where",
-      "url": "https://open.spotify.com/track/1VR8txe3fStPrSSzqeDOPc"
     },
     {
       "added_at": "2023-04-14 04:01:00",

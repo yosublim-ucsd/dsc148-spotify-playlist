@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 
 > ¡Nos vemos el 2 de Noviembre en el bosque para la séptima edición del Hipnosis! 👁️🌳🏕️ Compra tus boletos <a href="https://www.hipnosismx.com/"> aquí</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,264 likes - 30 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,268 likes - 30 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 | 22 | [Más de una Vez](https://open.spotify.com/track/6rvklHauZKOO5DIAGIDYxx) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Tiempos Raros](https://open.spotify.com/album/3xAH0AyD4FAuwV7HeS4pCB) | 4:39 |
 | 23 | [Tahoultine](https://open.spotify.com/track/6ikkdRNriROjtjVAkqTdpL) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Afelan](https://open.spotify.com/album/1CcRxrJSx8aOUHxReHHEod) | 5:31 |
 | 24 | [Our Bodies Weren't Wrong](https://open.spotify.com/track/3FocMwesNwyFbNl3abYX5J) | [ADULT.](https://open.spotify.com/artist/2jh27vMWRDaPgtwvluMomC) | [Becoming Undone](https://open.spotify.com/album/4msHrvIuGrBAL76i6i6LCx) | 3:39 |
-| 25 | [Electricide](https://open.spotify.com/track/2JvWDwCrz2binZ6zKsNh96) | [Frankie and the Witch Fingers](https://open.spotify.com/artist/5UdQDFQ3wgUPuL5kiL7KqU) | [Electricide B/W Chalice](https://open.spotify.com/album/6imHs7KJU1dnSIZoifZe5P) | 3:36 |
-| 26 | [Resistance](https://open.spotify.com/track/5K10WzmnjriyRjx2TXkG4C) | [SUUNS](https://open.spotify.com/artist/3UkN1XeK2D4wD4uhtJx4vb) | [Hold/Still](https://open.spotify.com/album/4xPZjPO8tOnWhGsV2VItu9) | 5:11 |
+| 25 | [Resistance](https://open.spotify.com/track/5K10WzmnjriyRjx2TXkG4C) | [SUUNS](https://open.spotify.com/artist/3UkN1XeK2D4wD4uhtJx4vb) | [Hold/Still](https://open.spotify.com/album/4xPZjPO8tOnWhGsV2VItu9) | 5:11 |
+| 26 | [Electricide](https://open.spotify.com/track/2JvWDwCrz2binZ6zKsNh96) | [Frankie and the Witch Fingers](https://open.spotify.com/artist/5UdQDFQ3wgUPuL5kiL7KqU) | [Electricide B/W Chalice](https://open.spotify.com/album/6imHs7KJU1dnSIZoifZe5P) | 3:36 |
 | 27 | [Politesse](https://open.spotify.com/track/1XSU8ULwTkJk38Yu8ySirk) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Oniromancie](https://open.spotify.com/album/4BWbIevVWM9xQrd0KEHupI) | 3:07 |
 | 28 | [In Love](https://open.spotify.com/track/682PWCwK6IO21suzfmdZxP) | [Melody Fields](https://open.spotify.com/artist/0nZvmigTPvyX1LKwGHWleC) | [1901](https://open.spotify.com/album/5DqcapYyPr2cN79fsFjjlB) | 3:34 |
 | 29 | [I Feel Worse When I'm with You](https://open.spotify.com/track/0dlBkEbvXxImVNnbP9Mt3L) | [ADULT.](https://open.spotify.com/artist/2jh27vMWRDaPgtwvluMomC) | [Why Bother?](https://open.spotify.com/album/55StYSKLbg0tsR0AZ09qj2) | 2:41 |

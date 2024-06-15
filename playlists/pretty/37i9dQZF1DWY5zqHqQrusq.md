@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 
 > Chill, take a long walk and clear your mind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,704 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,710 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [New Lamp](https://open.spotify.com/track/50oZJpYzGdHBCFdzTGIavP) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Mellow Dramatic](https://open.spotify.com/album/61PXFedLFHdsDP2L8YWte4) | 3:54 |
 | 2 | [Phases](https://open.spotify.com/track/1AspvEDeHVWJY0X7pkdldi) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Phases](https://open.spotify.com/album/14ITjU7AhfyWsBCeUqqElH) | 3:24 |
-| 3 | [Ntakutunza \(Hadi Umsahau\)](https://open.spotify.com/track/63vI6WXyNAcT5k849dnJUC) | [Israel Onyach](https://open.spotify.com/artist/0FsioHzjzS6b1EZKadZsZK) | [Timestamp](https://open.spotify.com/album/76RvAWfB1SVkhh9mt7x8cJ) | 4:07 |
+| 3 | [Heartbreak Song](https://open.spotify.com/track/5EDdDNPEijkgv5ghNQK3Nl) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM), [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Heartbreak Song](https://open.spotify.com/album/4s6PcuPpXiHS5XOcZduQJa) | 3:27 |
 | 4 | [Chikwere](https://open.spotify.com/track/11yZHrCVjzHX9j8wxmwGEu) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Alusa Why Are You Topless?](https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm) | 4:41 |
 | 5 | [Slowly](https://open.spotify.com/track/2fSLRfuJr2utyjHrbohiWu) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi) | [The Footprint](https://open.spotify.com/album/04ZdDUDZ05hdtUawvudVL4) | 3:37 |
-| 6 | [Take Your Time](https://open.spotify.com/track/5FIFjUVWBIihte8cXpj11Z) | [Daveny](https://open.spotify.com/artist/6Aw4KeEvY6cyNUz7IIyPe3), [tugi ndichu](https://open.spotify.com/artist/6V5cXlR568MeLMKHEANbM7) | [Sol](https://open.spotify.com/album/2Eenldjdnm9OpQXSBSp19T) | 4:12 |
-| 7 | [Southwards](https://open.spotify.com/track/0ufIj2swMeqQksU75dVSUJ) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [LOVE / HATE Pt\. 1](https://open.spotify.com/album/1Fv4ReFcbmh4P1tGe96lvC) | 2:24 |
-| 8 | [Amini](https://open.spotify.com/track/0kdToPIJHDgOdYwIMKjBzN) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Love Struck](https://open.spotify.com/album/1XtJucTeSOb8USgV6x2Bzw) | 3:36 |
-| 9 | [Searching](https://open.spotify.com/track/1q7H5GOKYhxtJi7qUWAi3I) | [Waithaka](https://open.spotify.com/artist/5Ro7QwcAlsSBGQuv5FWTs4), [Wabi Sherie](https://open.spotify.com/artist/2dtXYbUEL1VbMjtOKpIBDO), [Wanjine](https://open.spotify.com/artist/73iU9QFpEWlHM2Op6wAQqe) | [Soul'd Duets](https://open.spotify.com/album/0RWvz01vbIOwW5Oo3e3ky6) | 4:23 |
-| 10 | [Who I Am](https://open.spotify.com/track/10tynOIFqckNWnTwKoydlU) | [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be), [AfroNautiq](https://open.spotify.com/artist/0L6AmIetS4zqs79IC1jQpX) | [Konke](https://open.spotify.com/album/443uREi4EtPJTxpKgGJVG4) | 2:41 |
-| 11 | [Buy Me Love](https://open.spotify.com/track/0HtzaW1nXWHygysm2ZNAnW) | [STACY KAMATU](https://open.spotify.com/artist/6l0EZy2duhAIJ97BaqRb6Y) | [Buy Me Love](https://open.spotify.com/album/3ONBzZLFS0hXpV4EsD5U7H) | 3:22 |
-| 12 | [For Keeps \- A COLORS SHOW](https://open.spotify.com/track/0sdE23tPOZsVF6QLMCNIZl) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [For Keeps \- A COLORS SHOW](https://open.spotify.com/album/3KwVjyCfMY0FgYLZIJiGL3) | 4:14 |
-| 13 | [Sometimes](https://open.spotify.com/track/1qOVb7IpU5Mp0vM7HVVA5V) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Tawasifu Ya Moyo](https://open.spotify.com/album/0BPwyOsMg7lQrdxWoy4YLv) | 3:52 |
-| 14 | [Heartbreak Song](https://open.spotify.com/track/5EDdDNPEijkgv5ghNQK3Nl) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM), [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Heartbreak Song](https://open.spotify.com/album/4s6PcuPpXiHS5XOcZduQJa) | 3:27 |
+| 6 | [Ntakutunza \(Hadi Umsahau\)](https://open.spotify.com/track/63vI6WXyNAcT5k849dnJUC) | [Israel Onyach](https://open.spotify.com/artist/0FsioHzjzS6b1EZKadZsZK) | [Timestamp](https://open.spotify.com/album/76RvAWfB1SVkhh9mt7x8cJ) | 4:07 |
+| 7 | [Searching](https://open.spotify.com/track/1q7H5GOKYhxtJi7qUWAi3I) | [Waithaka](https://open.spotify.com/artist/5Ro7QwcAlsSBGQuv5FWTs4), [Wabi Sherie](https://open.spotify.com/artist/2dtXYbUEL1VbMjtOKpIBDO), [Wanjine](https://open.spotify.com/artist/73iU9QFpEWlHM2Op6wAQqe) | [Soul'd Duets](https://open.spotify.com/album/0RWvz01vbIOwW5Oo3e3ky6) | 4:23 |
+| 8 | [Take Your Time](https://open.spotify.com/track/5FIFjUVWBIihte8cXpj11Z) | [Daveny](https://open.spotify.com/artist/6Aw4KeEvY6cyNUz7IIyPe3), [tugi ndichu](https://open.spotify.com/artist/6V5cXlR568MeLMKHEANbM7) | [Sol](https://open.spotify.com/album/2Eenldjdnm9OpQXSBSp19T) | 4:12 |
+| 9 | [Southwards](https://open.spotify.com/track/0ufIj2swMeqQksU75dVSUJ) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [LOVE / HATE Pt\. 1](https://open.spotify.com/album/1Fv4ReFcbmh4P1tGe96lvC) | 2:24 |
+| 10 | [Amini](https://open.spotify.com/track/0kdToPIJHDgOdYwIMKjBzN) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Love Struck](https://open.spotify.com/album/1XtJucTeSOb8USgV6x2Bzw) | 3:36 |
+| 11 | [For Keeps \- A COLORS SHOW](https://open.spotify.com/track/0sdE23tPOZsVF6QLMCNIZl) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [For Keeps \- A COLORS SHOW](https://open.spotify.com/album/3KwVjyCfMY0FgYLZIJiGL3) | 4:14 |
+| 12 | [Who I Am](https://open.spotify.com/track/10tynOIFqckNWnTwKoydlU) | [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be), [AfroNautiq](https://open.spotify.com/artist/0L6AmIetS4zqs79IC1jQpX) | [Konke](https://open.spotify.com/album/443uREi4EtPJTxpKgGJVG4) | 2:41 |
+| 13 | [Buy Me Love](https://open.spotify.com/track/0HtzaW1nXWHygysm2ZNAnW) | [STACY KAMATU](https://open.spotify.com/artist/6l0EZy2duhAIJ97BaqRb6Y) | [Buy Me Love](https://open.spotify.com/album/3ONBzZLFS0hXpV4EsD5U7H) | 3:22 |
+| 14 | [Sometimes](https://open.spotify.com/track/1qOVb7IpU5Mp0vM7HVVA5V) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Tawasifu Ya Moyo](https://open.spotify.com/album/0BPwyOsMg7lQrdxWoy4YLv) | 3:52 |
 | 15 | [Pete](https://open.spotify.com/track/2DDM0D8wOXNPxshFgtYIG1) | [Davy Waweru](https://open.spotify.com/artist/19Y9KysWDrkmZyMy8VRpOp) | [Pete](https://open.spotify.com/album/5D4ETjU3vwslf8b6HOLUWx) | 2:04 |
 | 16 | [Jane](https://open.spotify.com/track/3zFJ8238lGHVMA8oJoCyHf) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Muthoni Njoroge](https://open.spotify.com/artist/3UmkRFAyY476ELymys1RUP) | [Jane](https://open.spotify.com/album/04nFAFPbSLiJQRGPUIyi9i) | 2:57 |
 | 17 | [Forever yours](https://open.spotify.com/track/0dd0McSQVC7kxppAEunPQN) | [Manasseh Shalom](https://open.spotify.com/artist/0l5DAChk60zrPxl18DGUT7) | [Ndoa](https://open.spotify.com/album/3vKSPMAe4vy4p8LcaOygoR) | 4:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 | 49 | [Sugar Rush](https://open.spotify.com/track/5v8bHru9HBHysftNF2orLb) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Medicine](https://open.spotify.com/album/4URmrv5RB7dI5VKHiCI0FV) | 3:49 |
 | 50 | [Lock me](https://open.spotify.com/track/69Pv8rfP3biRUE6HZvy4A4) | [X.O](https://open.spotify.com/artist/2zu7sut23i4vR8OZPAxWyJ) | [Lock me](https://open.spotify.com/album/4xPEootVjy1AmsVr6vYZkL) | 2:56 |
 
-Snapshot ID: `Zk/YRAAAAABrVSUKVNzmOPnEV+eoIMmo`
+Snapshot ID: `ZmxpAwAAAAAzVz+Loiekjk4/sDXJFtcy`

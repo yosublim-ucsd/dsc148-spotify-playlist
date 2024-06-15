@@ -2,9 +2,9 @@
 
 ### [R&B Brasil](https://open.spotify.com/playlist/37i9dQZF1DX6EQe4DjJNfI)
 
-> O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Bebé
+> O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Melly
 
-220 songs - 11 hr 9 min
+221 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [DOCE VENENO](https://open.spotify.com/track/0vy2VvLYTwgaBATjXx4aPO) | [Nando Prada](https://open.spotify.com/artist/1i9oD8Yn0tTEKrDlguIVBQ) | [DOCE VENENO](https://open.spotify.com/album/51ZDiYnAQWEjMcBVtxJu3C) | 2:20 | 2024-03-22 | 2024-05-18 |
 | [Dói Tanto](https://open.spotify.com/track/3q4BjZzm4VeYTjrfTrqR7j) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Dói Tanto](https://open.spotify.com/album/7FqoofEcHv9SsCLay8uF9s) | 2:38 | 2024-03-15 | 2024-03-30 |
 | [ele diz que me ama s2](https://open.spotify.com/track/0qBp10DuUxfu3VPVxeohwJ) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ), [Bié](https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m), [Perimnobeat](https://open.spotify.com/artist/0HjvwtyF0BvVY7jREOcgOG) | [ele diz que me ama s2](https://open.spotify.com/album/7d0qnsgDo4Ve7XaeK67U4P) | 4:01 | 2023-08-25 | 2023-09-02 |
-| [Endless](https://open.spotify.com/track/4egPWmPxPbamKFF71SikGk) | [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN) | [Endless](https://open.spotify.com/album/0ctk99YFo7JDcwBkISKIOC) | 2:47 | 2024-05-03 |  |
+| [Endless](https://open.spotify.com/track/4egPWmPxPbamKFF71SikGk) | [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN) | [Endless](https://open.spotify.com/album/0ctk99YFo7JDcwBkISKIOC) | 2:47 | 2024-05-03 | 2024-06-15 |
 | [Enigma](https://open.spotify.com/track/4esz5K53Soq2bGevWlCSfW) | [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [Enigma](https://open.spotify.com/album/7zbo1VQgkYL3kzmNusNV3N) | 4:00 | 2022-11-18 | 2022-12-24 |
 | [Escolhe](https://open.spotify.com/track/23XhqZ7lPY9eaBkVA2MMYA) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Sinto Muito](https://open.spotify.com/album/2KL9wBrkZmBeElWCKBuAiV) | 2:16 | 2022-11-18 | 2023-04-09 |
 | [Essa Gata Não Quer Sair do Meu Pé](https://open.spotify.com/track/1fV3pnFF4OBN1F4sdxd5bl) | [Nick Gomes](https://open.spotify.com/artist/3d52XAFoEyraIeu5qDSosa), [Prod D.G](https://open.spotify.com/artist/4IZoFkr2B3ZhGhRzb7pDen) | [Essa Gata Não Quer Sair do Meu Pé](https://open.spotify.com/album/6eAUHGzTz9cY9QJux0UDEO) | 2:08 | 2024-02-02 | 2024-03-23 |
@@ -156,6 +156,7 @@
 | [Ponto de Equilíbrio](https://open.spotify.com/track/7c4JagpZuj0wWkJmYMubyV) | [Mutanx](https://open.spotify.com/artist/7pH4KBMOUOnzAWnbtgDhiM), [Matheus Caettano](https://open.spotify.com/artist/7s0WoVMuWmgKszwmct3sB1), [Khris](https://open.spotify.com/artist/1783PRZnKuh7NekyeKy624) | [Ponto de Equilíbrio](https://open.spotify.com/album/4qGNPs1xnmEbRXEF4DAQqH) | 3:13 | 2023-04-07 | 2023-10-14 |
 | [Por Isso Me Liga](https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Por Isso Me Liga](https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh) | 3:39 | 2022-11-18 |  |
 | [Por Mim Já Deu](https://open.spotify.com/track/1YLLdxzhlR4Fac5EL5XKJz) | [Duda Kropf](https://open.spotify.com/artist/5CoeMEElVJh6eFPtq2ahNJ) | [Por Mim Já Deu](https://open.spotify.com/album/3EBP1z3dhTcCpC5zFTGZjy) | 2:30 | 2023-07-14 | 2023-08-12 |
+| [Porque Me Responde Ainda](https://open.spotify.com/track/0MniTeJQje07YTaMbKRlSE) | [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Pedrin 31](https://open.spotify.com/artist/2pjR2u4veZ9FwwBGNhkzyx), [Hunter](https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n) | [Porque Me Responde Ainda](https://open.spotify.com/album/27JH4nsKkUIEbu3ri1EXph) | 3:45 | 2024-06-14 |  |
 | [PORTAIS](https://open.spotify.com/track/2XzZ08u2wNL6TjTWGKa70q) | [2:22](https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4), [Amanda Magno](https://open.spotify.com/artist/3oJrSk88w8dtDFRKjcMH0R) | [30ºC](https://open.spotify.com/album/2iDk6lzRhjYuJNt8sKO0yE) | 2:40 | 2024-03-01 |  |
 | [Pra Mim Não Dá](https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu) | [Juliah](https://open.spotify.com/artist/5iUxzlKaTdzdvH0Fwmz002), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Pra Mim Não Dá](https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K) | 2:33 | 2022-11-18 |  |
 | [Pra Ninguém](https://open.spotify.com/track/355a1BU5F1BSofA99ZNejR) | [Elijah](https://open.spotify.com/artist/5y3vYetg0yJc4y4rvsxqKk) | [Pra Ninguém](https://open.spotify.com/album/4tZ6QIEkiD1aEjzx6XJK8f) | 3:49 | 2024-01-26 | 2024-02-03 |

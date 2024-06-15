@@ -1,13 +1,93 @@
 {
-  "description": "Explore all things indie rock right now. Featuring music from King Hannah",
-  "num_followers": 833960,
+  "description": "Explore all things indie rock right now. Featuring music from Nil\u00fcfer Yanya",
+  "num_followers": 833994,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmiMYAAAAAA892to7gniR/61N7bQaXe4",
+  "snapshot_id": "ZmxlVQAAAADGCK21/vUKrG3ZX3GFA0wR",
   "tracks": [
+    {
+      "added_at": "2024-06-14 15:44:21",
+      "album": {
+        "name": "The Sweater Club",
+        "url": "https://open.spotify.com/album/73lkqaVOVZnVMHi2ZYrY0N"
+      },
+      "artists": [
+        {
+          "name": "Jelani Aryeh",
+          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
+        }
+      ],
+      "duration_ms": 173391,
+      "name": "Breaking By",
+      "url": "https://open.spotify.com/track/1A0LGwMocD470H5Pre6IkR"
+    },
+    {
+      "added_at": "2024-06-14 15:44:21",
+      "album": {
+        "name": "Method Actor",
+        "url": "https://open.spotify.com/album/0Qg3qoV8Sz5pY01lIImVeE"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "duration_ms": 231708,
+      "name": "Method Actor",
+      "url": "https://open.spotify.com/track/6I9GeNnqNqQ5Q8DSrFkkvd"
+    },
+    {
+      "added_at": "2024-06-14 15:44:21",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1VrnMUyVCGxRRRHgJhUOSa"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "duration_ms": 177382,
+      "name": "girlfriend - Spotify Singles",
+      "url": "https://open.spotify.com/track/6eTkZYXX89GcnEaA8fch09"
+    },
+    {
+      "added_at": "2024-06-14 15:44:21",
+      "album": {
+        "name": "Metamorphosis Complete",
+        "url": "https://open.spotify.com/album/0mfdTcr1Y7vlMSXDpKAZ2G"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 234563,
+      "name": "Comedy",
+      "url": "https://open.spotify.com/track/5EcUvUZ7wioHI6KEb4Q6YS"
+    },
+    {
+      "added_at": "2024-06-14 15:44:21",
+      "album": {
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/7tbsKocOD59BcX2FJKfqUH"
+      },
+      "artists": [
+        {
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+        }
+      ],
+      "duration_ms": 219964,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq"
+    },
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
@@ -23,6 +103,102 @@
       "duration_ms": 188979,
       "name": "Honeycrash",
       "url": "https://open.spotify.com/track/49MS1LeGxzcG9LOvpzhAQr"
+    },
+    {
+      "added_at": "2024-06-14 15:44:21",
+      "album": {
+        "name": "cold medicine",
+        "url": "https://open.spotify.com/album/5dcGyDegN1gG3xgf485Bkz"
+      },
+      "artists": [
+        {
+          "name": "tiffi",
+          "url": "https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4"
+        }
+      ],
+      "duration_ms": 207911,
+      "name": "cold medicine",
+      "url": "https://open.spotify.com/track/5UgbDqJYYckCKtAjfBtoy2"
+    },
+    {
+      "added_at": "2024-06-14 15:44:21",
+      "album": {
+        "name": "I'll Be There",
+        "url": "https://open.spotify.com/album/0fJwhTQsUCeOU7k8dWpZsI"
+      },
+      "artists": [
+        {
+          "name": "Delicate Steve",
+          "url": "https://open.spotify.com/artist/1bNgeTuV3MlkAq64Ybvcq5"
+        }
+      ],
+      "duration_ms": 195431,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/0rit0AYEYKJ5mn86WDXM4p"
+    },
+    {
+      "added_at": "2024-06-14 15:44:21",
+      "album": {
+        "name": "Triple Seven",
+        "url": "https://open.spotify.com/album/7IiqMfyjfLXFS0ngnzgvV5"
+      },
+      "artists": [
+        {
+          "name": "Wishy",
+          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
+        }
+      ],
+      "duration_ms": 206933,
+      "name": "Triple Seven",
+      "url": "https://open.spotify.com/track/0Fo2GMUTxQXV2Zr86zW6Z6"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Take A Bite",
+        "url": "https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 158866,
+      "name": "Take A Bite",
+      "url": "https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH"
+    },
+    {
+      "added_at": "2024-06-14 15:44:21",
+      "album": {
+        "name": "last chance to see",
+        "url": "https://open.spotify.com/album/1R6wJt1Dlk9fYwHpqvwwfz"
+      },
+      "artists": [
+        {
+          "name": "salvia palth",
+          "url": "https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo"
+        }
+      ],
+      "duration_ms": 171545,
+      "name": "still i struggle",
+      "url": "https://open.spotify.com/track/5OaKfKgOSP3e3LtiOEOV5A"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "SiriusXM Session",
+        "url": "https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Linger - SiriusXM Session",
+      "url": "https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -79,38 +255,6 @@
       "duration_ms": 322256,
       "name": "Big Swimmer",
       "url": "https://open.spotify.com/track/3msstebr0HfNT4kdJexWXe"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "SiriusXM Session",
-        "url": "https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Linger - SiriusXM Session",
-      "url": "https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Take A Bite",
-        "url": "https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 158866,
-      "name": "Take A Bite",
-      "url": "https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -789,22 +933,6 @@
       "url": "https://open.spotify.com/track/306xT15GTuDs3NyopIANrh"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Like I Say (I runaway)",
-        "url": "https://open.spotify.com/album/3jdwbGosiLl00nmhwpxFIx"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        }
-      ],
-      "duration_ms": 177475,
-      "name": "Like I Say (I runaway)",
-      "url": "https://open.spotify.com/track/2D3oVAd8nHrqJH8UAfvtTT"
-    },
-    {
       "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Everything At Once",
@@ -835,22 +963,6 @@
       "duration_ms": 201735,
       "name": "Sour Patch",
       "url": "https://open.spotify.com/track/4I0XnxrpkwD7CvJuUm9DgB"
-    },
-    {
-      "added_at": "2024-04-19 04:02:35",
-      "album": {
-        "name": "Shudder",
-        "url": "https://open.spotify.com/album/5rNHpyAfV4fdowwcH1U1if"
-      },
-      "artists": [
-        {
-          "name": "Jelani Aryeh",
-          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
-        }
-      ],
-      "duration_ms": 167271,
-      "name": "Shudder",
-      "url": "https://open.spotify.com/track/1c1iyuIpgPr7FBbMBkQEzJ"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1535,138 +1647,6 @@
       "duration_ms": 255440,
       "name": "Monaco",
       "url": "https://open.spotify.com/track/2gxeIxrZIGCnzFGxg39Yrh"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Two Things at Once",
-        "url": "https://open.spotify.com/album/4K3fG6A3UzqivRCPtRNaKl"
-      },
-      "artists": [
-        {
-          "name": "Bendigo Fletcher",
-          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
-        }
-      ],
-      "duration_ms": 173074,
-      "name": "Tough Season",
-      "url": "https://open.spotify.com/track/78bqL0hABVqTi0ju2JWBVK"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Good Morning Seven",
-        "url": "https://open.spotify.com/album/1BqjZpIGkCIsDrxEhpv5a2"
-      },
-      "artists": [
-        {
-          "name": "Good Morning",
-          "url": "https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ"
-        }
-      ],
-      "duration_ms": 132013,
-      "name": "As The Dogs Were Playing",
-      "url": "https://open.spotify.com/track/2gSp1FsyOfrCYM4Xe3KVak"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "see you again?",
-        "url": "https://open.spotify.com/album/0DtuwIeF8lkXZPFVlmiK7R"
-      },
-      "artists": [
-        {
-          "name": "Scoobert Doobert",
-          "url": "https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "see you again?",
-      "url": "https://open.spotify.com/track/1gH2MYoWRJwmNxC49zWwgq"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "In Yr Head (1818)",
-        "url": "https://open.spotify.com/album/3lhW92GgRyUDhgooQvquK4"
-      },
-      "artists": [
-        {
-          "name": "TOLEDO",
-          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
-        }
-      ],
-      "duration_ms": 280511,
-      "name": "In Yr Head (1818)",
-      "url": "https://open.spotify.com/track/3G4wmv9JBImo4Zumz9Hnh7"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Gates of Heaven / Snake Eyes (again)",
-        "url": "https://open.spotify.com/album/6Ek7TQ6Halv6mbhuzRuvcZ"
-      },
-      "artists": [
-        {
-          "name": "Horse Jumper of Love",
-          "url": "https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6"
-        }
-      ],
-      "duration_ms": 142480,
-      "name": "Gates of Heaven",
-      "url": "https://open.spotify.com/track/21S8jPbABB05vCFFwuyXGS"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Jesse",
-        "url": "https://open.spotify.com/album/0aYoBAVQdNAnQgFh3SLXnP"
-      },
-      "artists": [
-        {
-          "name": "Hazel English",
-          "url": "https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr"
-        },
-        {
-          "name": "Day Wave",
-          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
-        }
-      ],
-      "duration_ms": 129090,
-      "name": "Jesse",
-      "url": "https://open.spotify.com/track/7xPNicyWXI9kdt70fOjjew"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Yard",
-        "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 246426,
-      "name": "MUD",
-      "url": "https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Daniel",
-        "url": "https://open.spotify.com/album/6hklBSOyHrnC42LQksxrzd"
-      },
-      "artists": [
-        {
-          "name": "Real Estate",
-          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
-        }
-      ],
-      "duration_ms": 168173,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/4fqNoM2d2URotMit7GlmlI"
     }
   ],
   "unique_name": "Today's Indie Rock",

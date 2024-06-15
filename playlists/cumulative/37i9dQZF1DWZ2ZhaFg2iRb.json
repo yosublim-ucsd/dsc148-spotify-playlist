@@ -139,6 +139,28 @@
     },
     {
       "album": {
+        "name": "ANOTHER NIGHT",
+        "url": "https://open.spotify.com/album/51FoFPeMqrIPkc0uTiHIlU"
+      },
+      "artists": [
+        {
+          "name": "Robert Burian",
+          "url": "https://open.spotify.com/artist/64FzaTBI1Z4TZXlhrihUDg"
+        },
+        {
+          "name": "Martin Harich",
+          "url": "https://open.spotify.com/artist/1xn7VKrcNpnPne3zBNJrQ9"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184838,
+      "name": "ANOTHER NIGHT",
+      "url": "https://open.spotify.com/track/6gihALjLG1tNj4in7A0o76"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -460,6 +482,24 @@
       "duration_ms": 184013,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
+    },
+    {
+      "album": {
+        "name": "CIAO! CIAO! CIAO!",
+        "url": "https://open.spotify.com/album/4UOkHm5GIe6NXqzDrbdsEk"
+      },
+      "artists": [
+        {
+          "name": "Monkey Business",
+          "url": "https://open.spotify.com/artist/6mD7orw2E74kvifx31s6Xw"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249840,
+      "name": "CIAO! CIAO! CIAO!",
+      "url": "https://open.spotify.com/track/65Ec6qEUXzqDZbEpB21v8z"
     },
     {
       "album": {
@@ -942,6 +982,24 @@
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
+    },
+    {
+      "album": {
+        "name": "flowers on my eyes",
+        "url": "https://open.spotify.com/album/033Z9ruvrTmWyEOLd4Iewt"
+      },
+      "artists": [
+        {
+          "name": "ANNABELLE",
+          "url": "https://open.spotify.com/artist/6ge7MfOUbSmEvDxOaHeKOm"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148173,
+      "name": "flowers on my eyes",
+      "url": "https://open.spotify.com/track/1hdrpaZSva33dtcASJW4yg"
     },
     {
       "album": {
@@ -1701,7 +1759,7 @@
     },
     {
       "album": {
-        "name": "Read My Lips",
+        "name": "Read My Lips (Deluxe Version)",
         "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
       },
       "artists": [
@@ -1800,7 +1858,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 216825,
       "name": "M\u00e1m \u0165a r\u00e1d",
       "url": "https://open.spotify.com/track/4MjqKyPzValK8cxETj6mJe"
@@ -2458,7 +2516,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 177268,
       "name": "Shut Up And Dance",
       "url": "https://open.spotify.com/track/1cZ3mzkuWrAP1uXSWekuLD"
@@ -2480,7 +2538,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 201148,
       "name": "SLUNCE JE TAK N\u00cdZKO",
       "url": "https://open.spotify.com/track/5YjU6Uhy3bsuv8ByhMFAEZ"

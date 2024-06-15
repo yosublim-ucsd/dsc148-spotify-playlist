@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,153 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,203 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 99 | [If I Didn't Have You \- From "Monsters, Inc."/Soundtrack](https://open.spotify.com/track/3KpnubsN3MyX57Eme6pJIb) | [Billy Crystal](https://open.spotify.com/artist/4obZSxPoSs6iedmMKPzhwh), [John Goodman](https://open.spotify.com/artist/7dHoDG0MERt9fs7DHyWRJJ) | [Monsters Inc.](https://open.spotify.com/album/6rf14PPogsB40InRWfi43H) | 3:37 |
 | 100 | [Unsquare Dance](https://open.spotify.com/track/3FYDiueg0uwQiN7JVtC9CE) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Baby Driver \(Music from the Motion Picture\)](https://open.spotify.com/album/1XaJOcLe3xMQ611SMHtOja) | 2:02 |
 
-Snapshot ID: `Zfr3HQAAAAC/Kl8WeJuv3ojqgHWKasFy`
+Snapshot ID: `ZmvsoQAAAACprD+p++ONDPkoytt4YeZG`

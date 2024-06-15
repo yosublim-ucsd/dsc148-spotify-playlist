@@ -1769,6 +1769,24 @@
     },
     {
       "album": {
+        "name": "Georgia Train",
+        "url": "https://open.spotify.com/album/7qXXNB19F3dW7GvRf0Bb3R"
+      },
+      "artists": [
+        {
+          "name": "Jesse Roper",
+          "url": "https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185960,
+      "name": "Georgia Train",
+      "url": "https://open.spotify.com/track/3eatC9pgRqYHuR7rkU9BtS"
+    },
+    {
+      "album": {
         "name": "Get By",
         "url": "https://open.spotify.com/album/2n73mSrnTYW28UjTf5pc47"
       },
@@ -2370,7 +2388,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 227240,
       "name": "Jumpin\u2019 For Joy",
       "url": "https://open.spotify.com/track/6cruucEwiXCf6exdPLYN9n"
@@ -2526,7 +2544,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 188120,
       "name": "Lemonades (feat. Cam Kimbrough, Luther Dickinson & Chuck Treece)",
       "url": "https://open.spotify.com/track/72jNvtgMO1NuNFu37h9019"
@@ -4523,6 +4541,24 @@
     },
     {
       "album": {
+        "name": "Stuttering On",
+        "url": "https://open.spotify.com/album/074dmQt7MgsULq32kNC4Uy"
+      },
+      "artists": [
+        {
+          "name": "Joe Marson",
+          "url": "https://open.spotify.com/artist/4nFQ7IhLVK3MsKRjhq9LKi"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256941,
+      "name": "Stuttering On",
+      "url": "https://open.spotify.com/track/7cQ8RzcVQQ6fawdR8MckRP"
+    },
+    {
+      "album": {
         "name": "Sugar",
         "url": "https://open.spotify.com/album/6BvARv37XBzBaZB848IREa"
       },
@@ -4654,7 +4690,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 221605,
       "name": "Suntan Woman",
       "url": "https://open.spotify.com/track/1OUnlmlJ6FT4PpJMAqlVyc"
@@ -5598,6 +5634,24 @@
       "duration_ms": 207991,
       "name": "Wolves All Around Me",
       "url": "https://open.spotify.com/track/5yX5XWU1JaOq3tYeuqGfVE"
+    },
+    {
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/3HWjeQxqdhEPVyoKgGYse2"
+      },
+      "artists": [
+        {
+          "name": "Wiyaala",
+          "url": "https://open.spotify.com/artist/0Ttf480Uumk6ylOAokG2h7"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268923,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/5yAGJ1mWBFihXhvOJ4VYU8"
     },
     {
       "album": {

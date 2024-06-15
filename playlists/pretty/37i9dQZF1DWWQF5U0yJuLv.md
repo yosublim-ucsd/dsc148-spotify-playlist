@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 
 > Glitch and giggle with these whimsically warped bouncy bops 🤖
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,844 likes - 150 songs - 11 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,849 likes - 150 songs - 11 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,12 +147,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 | 137 | [Mr\. Frosty](https://open.spotify.com/track/6gG3LaEbu4O0bPfar4UpYz) | [Mike & Rich](https://open.spotify.com/artist/6J3zaNqIk0fXXFhpbLDg0H) | [Expert Knob Twiddlers](https://open.spotify.com/album/7FkYY7UIpjx44tuk6oGCKr) | 6:53 |
 | 138 | [jazmin](https://open.spotify.com/track/3vLbYgfzxz2PewnOtVbayK) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR) | [Jardines Vol\. I](https://open.spotify.com/album/1huZKOZy8nzN8M7qDjocgg) | 2:33 |
 | 139 | [Eyen](https://open.spotify.com/track/4VJBvbJO0hb8rbksWMwVyC) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD), [Benet Walsh](https://open.spotify.com/artist/4MqsYgT5rDgG907p84pzIY) | [Double Figure](https://open.spotify.com/album/66PrP4FdZczQ4MlnElUduw) | 4:20 |
-| 140 | [Everything You Do Is A Balloon](https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Hi Scores](https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii) | 7:03 |
+| 140 | [Aquarius](https://open.spotify.com/track/4ZX7QjwBqZTelll7to0d5S) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 5:58 |
 | 141 | [Merry\-Go\-Round](https://open.spotify.com/track/0zgRWhoG9aNUEZu4Sd6Suf) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [People On Sunday](https://open.spotify.com/album/4yq095FcGXmjYAnZXtxu7H) | 1:47 |
 | 142 | [Midi Sans Frontieres \(Avec Batterie\)](https://open.spotify.com/track/51otAp4ocieYr1ogeg4Why) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Midi Sans Frontieres \(Avec Batterie\)](https://open.spotify.com/album/5lUzv71igw2aj6LQFJ1uww) | 6:00 |
 | 143 | [Body Control](https://open.spotify.com/track/761ln8LuN4gus7oR2EGN7K) | [Lauren Flax](https://open.spotify.com/artist/1LUYSrytHIC78JbMgFBIG7) | [Body Control](https://open.spotify.com/album/7ivvUoNWI6OjpfQfjm1gYi) | 6:42 |
 | 144 | [Rockledge 3A](https://open.spotify.com/track/0q7N2mxBIDrv1ol2y1Sa2F) | [Datach'i](https://open.spotify.com/artist/6ZULITXmOFWJwJKilsFRm7) | [Bones](https://open.spotify.com/album/3NMs1HLjZjbVM1my5DPuak) | 4:36 |
-| 145 | [Aquarius](https://open.spotify.com/track/4ZX7QjwBqZTelll7to0d5S) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 5:58 |
+| 145 | [Everything You Do Is A Balloon](https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Hi Scores](https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii) | 7:03 |
 | 146 | [Shimmer and Glimmer](https://open.spotify.com/track/4ij6tfkN13bt1jfWGWXg9S) | [Chants](https://open.spotify.com/artist/1bboGoBc0rr3oXFdFlAjSC) | [Poly Pointillism](https://open.spotify.com/album/66zkrppo8OPQq9kMhxhzp0) | 2:10 |
 | 147 | [People On Sunday](https://open.spotify.com/track/3qbJR3E3iKWssRw2nzhz2w) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [People On Sunday](https://open.spotify.com/album/4yq095FcGXmjYAnZXtxu7H) | 3:45 |
 | 148 | [Haku \- RUMTUM Remix](https://open.spotify.com/track/3TbCoXMQrw0DhfBDppxnU2) | [Ramakhandra](https://open.spotify.com/artist/1Apw9xiab11PyZLo6YeUoJ), [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Haku \(RUMTUM Remix\)](https://open.spotify.com/album/3qkPNS42C4RuI4BZrb4uhv) | 5:41 |

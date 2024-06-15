@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/71L6ZAisLtzcDO2PVDXkCl">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 505 likes - 275 songs - 14 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 506 likes - 275 songs - 14 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -221,8 +221,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 211 | [Out of My Mind](https://open.spotify.com/track/5QmJbMnlsE9XoG5zTrdUy9) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Five](https://open.spotify.com/album/1KmUgM74R1SGZnv6DSqp7L) | 3:00 |
 | 212 | [The Replacement](https://open.spotify.com/track/0o8amrICrjzSNmXlExuuti) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Five](https://open.spotify.com/album/1KmUgM74R1SGZnv6DSqp7L) | 2:35 |
 | 213 | [No Place Like Home](https://open.spotify.com/track/46XJMHRMil9TepCXDPMOyj) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Five](https://open.spotify.com/album/1KmUgM74R1SGZnv6DSqp7L) | 2:26 |
-| 214 | [Intervention](https://open.spotify.com/track/3GIUw3RUKbE2A8MRfSIix5) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Five](https://open.spotify.com/album/1KmUgM74R1SGZnv6DSqp7L) | 2:47 |
-| 215 | [echolocation](https://open.spotify.com/track/3NH3fTZKOsJNQX0Qi4B7wb) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB) | [OFFAIR: from the forest floor](https://open.spotify.com/album/2MwiCvx4taFv5VnrzCXQj0) | 3:06 |
+| 214 | [echolocation](https://open.spotify.com/track/3NH3fTZKOsJNQX0Qi4B7wb) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB) | [OFFAIR: from the forest floor](https://open.spotify.com/album/2MwiCvx4taFv5VnrzCXQj0) | 3:06 |
+| 215 | [Intervention](https://open.spotify.com/track/3GIUw3RUKbE2A8MRfSIix5) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Five](https://open.spotify.com/album/1KmUgM74R1SGZnv6DSqp7L) | 2:47 |
 | 216 | [Real Me](https://open.spotify.com/track/1hb06BYx5Uks5TBDe5VWqR) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Gaby Dunn](https://open.spotify.com/artist/1lbR00rHJ0TVEIkMY4ZIRE) | [Songs from Season Five](https://open.spotify.com/album/1KmUgM74R1SGZnv6DSqp7L) | 3:08 |
 | 217 | [Conversations With Dead People](https://open.spotify.com/track/3BEuiTrVQsVDfQ0hUV5dWm) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Hrishikesh Hirway](https://open.spotify.com/artist/2nMDfp8TJzahlTJr5Hvetf), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Songs From Season Seven](https://open.spotify.com/album/2ionR1WChNlzQbTkjI69CV) | 3:34 |
 | 218 | [Accidental Parental](https://open.spotify.com/track/7FJIGjZHUzY9FQHkInWqEB) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 2:43 |
@@ -284,4 +284,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 274 | [Patriarchy Reimagined](https://open.spotify.com/track/3Tlq3AOodvVeH7Byn92Z9g) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:21 |
 | 275 | [Gaby's Ballet](https://open.spotify.com/track/1ixFhUXlqVvfftRnh9WZlq) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:23 |
 
-Snapshot ID: `AbT+ggAAAAAnh7SNFASnDjYo1cxp2S9u`
+Snapshot ID: `AbUEIgAAAADvuQSCu7dwo3eVFUcV5pkh`

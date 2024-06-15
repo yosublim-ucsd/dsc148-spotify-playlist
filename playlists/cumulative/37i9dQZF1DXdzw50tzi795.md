@@ -2,9 +2,9 @@
 
 ### [ฉันฟังเพลงไทย](https://open.spotify.com/playlist/37i9dQZF1DXdzw50tzi795)
 
-> เพลงไทยฮิตล่าสุด ฟังได้ที่เพลย์ลิสต์นี้เลย! ศิลปิน: BUS
+> เพลงไทยฮิตล่าสุด ฟังได้ที่เพลย์ลิสต์นี้เลย! ศิลปิน: PUN
 
-85 songs - 5 hr 37 min
+86 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [ติดฝน \(rain\)](https://open.spotify.com/track/6rk1rGqpNXTeu7kVsB049F) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [rain](https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX) | 3:16 | 2024-01-26 |  |
 | [ต่อจากคืนนี้ \(ฉันจะไม่มีเธอแล้ว\) \- Gloomy](https://open.spotify.com/track/0dXpGBC0pUivUk96OrptbQ) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [ต่อจากคืนนี้ \(ฉันจะไม่มีเธอแล้ว\) \[Gloomy\]](https://open.spotify.com/album/15Vu38hxu9KIZHeU9ZKsjW) | 4:17 | 2024-01-26 | 2024-03-15 |
 | [ถ้าไม่มีฉัน \(Lost\)](https://open.spotify.com/track/23uoBOUwFdh8bKlv6FUDuc) | [BADMIXY](https://open.spotify.com/artist/1TNuSqU0unzV0VcUxoQBZ1) | [BAD STORY](https://open.spotify.com/album/2PQ53PXkBduUnWQWG26vYe) | 4:59 | 2024-01-26 | 2024-02-22 |
-| [ที่ฉันเสียใจ](https://open.spotify.com/track/5FjWcmMlwbY6SCGdfuercf) | [มนัสวีร์](https://open.spotify.com/artist/6mFYcrUtI8Hm3QrfuFIZUS) | [ที่ฉันเสียใจ](https://open.spotify.com/album/5wXOS5IhaPXjhOtOBhiszo) | 5:18 | 2024-05-30 |  |
+| [ที่ฉันเสียใจ](https://open.spotify.com/track/5FjWcmMlwbY6SCGdfuercf) | [มนัสวีร์](https://open.spotify.com/artist/6mFYcrUtI8Hm3QrfuFIZUS) | [ที่ฉันเสียใจ](https://open.spotify.com/album/5wXOS5IhaPXjhOtOBhiszo) | 5:18 | 2024-05-30 | 2024-06-15 |
 | [ที่รักใจเย็น](https://open.spotify.com/track/6rgF7lJWhf0jR5ZEJk3cY5) | [YENTED](https://open.spotify.com/artist/4tM1FV7wm8Tp4bXhtWjBmX), [BlackHeart](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV), [Williams](https://open.spotify.com/artist/0rnxDMQvlw7WzIofQuaXmT) | [URDAWG](https://open.spotify.com/album/1ZQJQ3EAzClG99jCmLefKh) | 3:23 | 2024-03-14 |  |
 | [ที่สุดเลย](https://open.spotify.com/track/36czGZFR3xI0F38AiZ0Xdq) | [RIFLE](https://open.spotify.com/artist/4hIIGlitHYepgaKi1aSKHn), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [ที่สุดเลย](https://open.spotify.com/album/07zp9Mnc758xpFKTCIyhYE) | 3:25 | 2024-04-11 |  |
 | [บรรยากาศ](https://open.spotify.com/track/56n3cbPJeypX5NyqgsmpnZ) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [บรรยากาศ \- Single](https://open.spotify.com/album/5OtV6koP7TAOKa1x1uxUVT) | 4:35 | 2024-01-26 |  |
@@ -93,5 +93,6 @@
 | [ไม่ติด](https://open.spotify.com/track/5ARFnqIJJc9OgCRB7tEygC) | [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg), [GAVIN:D](https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22) | [URMAN](https://open.spotify.com/album/5m5nxgIvm1W9Cp5FYoYayd) | 3:32 | 2024-05-30 |  |
 | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/track/3wyzSQ9rAWjx9vsMQSrLn2) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/album/0Xzh5uhsKj61IstBtpyx0u) | 3:10 | 2024-01-26 |  |
 | [ไม่เป็นรอง](https://open.spotify.com/track/38uarkAk3Y13onWxwj0MIq) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [ไม่เป็นรอง \- Single](https://open.spotify.com/album/1vsxelQ8EZjwbqMPEETzZ8) | 4:53 | 2024-01-26 | 2024-06-01 |
+| [ไม่ให้ไป](https://open.spotify.com/track/0zLFNFvbnPmWZfDewtyaVg) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ไม่ให้ไป \- Single](https://open.spotify.com/album/5mS7KW0IM3CrLf0SO9QM6P) | 4:00 | 2024-06-14 |  |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

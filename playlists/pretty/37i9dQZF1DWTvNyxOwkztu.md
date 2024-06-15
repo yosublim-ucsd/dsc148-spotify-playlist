@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 
 > Just lean back and enjoy relaxed beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,929,941 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,930,289 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 99 | [Toybox](https://open.spotify.com/track/5eZp105lnwsIkLpdGfSLn7) | [Kate Paul](https://open.spotify.com/artist/1anQkfV3WidZBDrdAQwAsx) | [Toybox](https://open.spotify.com/album/5oGhsKmDJgrgdkLI2SQV5s) | 3:41 |
 | 100 | [Mukiwa](https://open.spotify.com/track/1Cq1IvarVqiQ3bU7TYhdsd) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Mukiwa](https://open.spotify.com/album/1bcZrChvD2hTnjERAZUgOo) | 4:18 |
 
-Snapshot ID: `ZmKFwAAAAADKr4dEBeBcHeY8WF56cpfU`
+Snapshot ID: `ZmvAQAAAAAAUTIORcd5oAVs3dpQZDlkU`

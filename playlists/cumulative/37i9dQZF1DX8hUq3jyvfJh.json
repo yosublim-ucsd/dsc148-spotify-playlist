@@ -13677,6 +13677,24 @@
     },
     {
       "album": {
+        "name": "Ondas Voltam Pro Mar",
+        "url": "https://open.spotify.com/album/1K36bCOMvKKesXv8CCIBVb"
+      },
+      "artists": [
+        {
+          "name": "Priscila Senna",
+          "url": "https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191872,
+      "name": "Ondas Voltam Pro Mar",
+      "url": "https://open.spotify.com/track/7xaseKeBTdAtb6wr5E1ANu"
+    },
+    {
+      "album": {
         "name": "Mart'n\u00e1lia Canta Vinicius de Moraes",
         "url": "https://open.spotify.com/album/4rPbnhTZcr97ZgoOnEwaeB"
       },

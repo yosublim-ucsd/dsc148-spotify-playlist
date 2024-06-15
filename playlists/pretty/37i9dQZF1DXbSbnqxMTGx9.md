@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,972,733 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,973,181 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 93 | [54\-46 Was My Number](https://open.spotify.com/track/36aH0Y3Zy5jCRpVLvbXBL7) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:10 |
 | 94 | [Let Me Down Easy](https://open.spotify.com/track/41Z1gnggllzvu7qOWTaSTE) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Super Reggae & Soul Hits](https://open.spotify.com/album/0IJUDErou9bNaYz6gXkwAP) | 2:55 |
 | 95 | [Having A Party](https://open.spotify.com/track/1YAXrOLk7EGfv1tlSnGOqi) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Scratch Came, Scratch Saw, Scratch Conquered](https://open.spotify.com/album/6VPuKF7YpjukpMHEDvvUaA) | 4:40 |
-| 96 | [Sister Big Stuff](https://open.spotify.com/track/028ARUhVE9NpsVPX8V1WWy) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu), [The Tommy McCook All Stars](https://open.spotify.com/artist/70X0T8ZeXYHO8wzffEKji3) | [The Treasure Isle Story](https://open.spotify.com/album/2XfmRJBQBboBV0A7Fox7OI) | 2:28 |
-| 97 | [Working On a Groovy Thing](https://open.spotify.com/track/2ndv4sCWLXakWkpagG2CqH) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Be True to Yourself: The Godfather of Lover's Rock \(Anthology 1965\-1973\)](https://open.spotify.com/album/2MocD24NCoqCSmf1EaaaQ0) | 4:12 |
+| 96 | [Working On a Groovy Thing](https://open.spotify.com/track/2ndv4sCWLXakWkpagG2CqH) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Be True to Yourself: The Godfather of Lover's Rock \(Anthology 1965\-1973\)](https://open.spotify.com/album/2MocD24NCoqCSmf1EaaaQ0) | 4:12 |
+| 97 | [Sister Big Stuff](https://open.spotify.com/track/028ARUhVE9NpsVPX8V1WWy) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu), [The Tommy McCook All Stars](https://open.spotify.com/artist/70X0T8ZeXYHO8wzffEKji3) | [The Treasure Isle Story](https://open.spotify.com/album/2XfmRJBQBboBV0A7Fox7OI) | 2:28 |
 | 98 | [Rudy, a Message to You](https://open.spotify.com/track/2jPPgh86mHf4bpOEImL43D) | [Dandy](https://open.spotify.com/artist/5gK3fUb4UG1FXBNHOxpLwq) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 2:34 |
 | 99 | [Sensimilea](https://open.spotify.com/track/21BiCaMzG9Lfs0Pj5ItwX0) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H) | 3:20 |
 | 100 | [Lips of Wine](https://open.spotify.com/track/2Wv7ETWvaAmsQT2hk0Hk76) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Super Reggae & Soul Hits](https://open.spotify.com/album/0IJUDErou9bNaYz6gXkwAP) | 2:43 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 194239,
+  "num_followers": 194271,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjlAAAAAAABXAKtGpRki6qnmf67OB3H",
+  "snapshot_id": "Zmo2gAAAAAD8LdqdlSt4pT5oL9Jqcg7B",
   "tracks": [
     {
       "added_at": null,
@@ -47,26 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COWBOY CARTER",
-        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 50721,
-      "name": "SMOKE HOUR \u2605 WILLIE NELSON",
-      "url": "https://open.spotify.com/track/2dv2DYn0V0j0Wx6Ra40bce"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Waylon & Willie",
         "url": "https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO"
       },
@@ -83,6 +63,26 @@
       "duration_ms": 152866,
       "name": "Mammas Don't Let Your Babies Grow up to Be Cowboys",
       "url": "https://open.spotify.com/track/7nVQ8mo77KaUvhUQzh4vMy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 50721,
+      "name": "SMOKE HOUR \u2605 WILLIE NELSON",
+      "url": "https://open.spotify.com/track/2dv2DYn0V0j0Wx6Ra40bce"
     },
     {
       "added_at": null,
@@ -675,6 +675,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Highwayman",
+        "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
+      },
+      "artists": [
+        {
+          "name": "The Highwaymen",
+          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 167213,
+      "name": "Big River",
+      "url": "https://open.spotify.com/track/1ip07xbQWgehduEDY6j8r8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Country Boy Can Survive (Box Set)",
         "url": "https://open.spotify.com/album/2mUqVFSr5l4W2Hpm8t3Gfm"
       },
@@ -755,6 +787,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "American Classic",
+        "url": "https://open.spotify.com/album/1tUvHnprAPtpCVmwA1B5WI"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 261706,
+      "name": "If I Had You",
+      "url": "https://open.spotify.com/track/13wnRucX2HNMXfYZWz070v"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Life on a Rock",
         "url": "https://open.spotify.com/album/52WqC6vXDQ9anMNugsUCeO"
       },
@@ -803,26 +855,6 @@
       "duration_ms": 305520,
       "name": "City of New Orleans - Live at Nassau Coliseum, Uniondale, NY - March 1990",
       "url": "https://open.spotify.com/track/6FaNaSx1Z2WwdQIeqePjto"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "French Touch",
-        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
-      },
-      "artists": [
-        {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 183440,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/7INR1BCI0tZMtiBitUm2WN"
     },
     {
       "added_at": null,
@@ -1075,6 +1107,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Ballad of Dood & Juanita",
+        "url": "https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 220976,
+      "name": "Juanita",
+      "url": "https://open.spotify.com/track/0Vtik6x9dLUPNoyIoJZm9I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stardust",
         "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
       },
@@ -1111,26 +1163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ballad of Dood & Juanita",
-        "url": "https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 220976,
-      "name": "Juanita",
-      "url": "https://open.spotify.com/track/0Vtik6x9dLUPNoyIoJZm9I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Border",
         "url": "https://open.spotify.com/album/6CHMRZ6vYXMvxRSC3acmFr"
       },
@@ -1140,9 +1172,9 @@
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 177533,
-      "name": "What If I'm Out Of My Mind",
-      "url": "https://open.spotify.com/track/44YzCXsGhUaN82i8EAyO0C"
+      "duration_ms": 309680,
+      "name": "The Border",
+      "url": "https://open.spotify.com/track/5BmX2B6OrGI3czAU8VNF8s"
     },
     {
       "added_at": null,
@@ -1236,25 +1268,9 @@
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 309680,
-      "name": "The Border",
-      "url": "https://open.spotify.com/track/5BmX2B6OrGI3czAU8VNF8s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "And Then I Wrote",
-        "url": "https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 185409,
-      "name": "Funny How Time Slips Away",
-      "url": "https://open.spotify.com/track/0hXHpNiW5dHv21aUhYDEnA"
+      "duration_ms": 177533,
+      "name": "What If I'm Out Of My Mind",
+      "url": "https://open.spotify.com/track/44YzCXsGhUaN82i8EAyO0C"
     },
     {
       "added_at": null,
@@ -1291,6 +1307,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "And Then I Wrote",
+        "url": "https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 146109,
+      "name": "Hello Walls",
+      "url": "https://open.spotify.com/track/27hpjHYx6duzBH99XW7ENn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Border",
         "url": "https://open.spotify.com/album/6CHMRZ6vYXMvxRSC3acmFr"
       },
@@ -1303,22 +1335,6 @@
       "duration_ms": 220506,
       "name": "Once Upon A Yesterday",
       "url": "https://open.spotify.com/track/1aZjavunzkhIq7rlK33vWF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yesterday's Wine",
-        "url": "https://open.spotify.com/album/6ZraSUfutH0n071RZb3QZf"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 228560,
-      "name": "Me and Paul",
-      "url": "https://open.spotify.com/track/4vcDnnuHUmombz20IRkzRO"
     }
   ],
   "unique_name": "This Is Willie Nelson",

@@ -4,18 +4,19 @@
 
 > This is Oasis\. The essential tracks, all in one playlist.
 
-82 songs - 6 hr 42 min
+83 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Acquiesce \- Remastered](https://open.spotify.com/track/2VVRmrgSmyYnEZsBTsnIRz) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:27 | 2022-01-11 | 2022-10-13 |
 | [All Around The World \- Remastered](https://open.spotify.com/track/6ZYgoD3c2aE4dD3yVFWV51) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now \(Deluxe Remastered Edition\)](https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy) | 9:19 | 2022-01-11 |  |
-| [Bag It Up](https://open.spotify.com/track/2Sr49PY1vTWFQ8gqMMq0gr) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Dig Out Your Soul](https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15) | 4:40 | 2022-01-13 | 2024-06-14 |
+| [Bag It Up](https://open.spotify.com/track/2Sr49PY1vTWFQ8gqMMq0gr) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Dig Out Your Soul](https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15) | 4:40 | 2022-01-13 |  |
 | [Be Here Now \- Remastered](https://open.spotify.com/track/1WKQuEgQnvvgVxj5B7ptwl) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now \(Deluxe Remastered Edition\)](https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy) | 5:12 | 2022-01-11 | 2024-01-15 |
 | [Bring It On Down \- Remastered](https://open.spotify.com/track/4dXBRhjGDoDjYR0JuvPuXu) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 4:17 | 2022-01-29 | 2022-01-31 |
 | [Champagne Supernova \- Remastered](https://open.spotify.com/track/2A7GGXmTlXuH9LOvBXgOX4) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 7:31 | 2022-01-11 |  |
 | [Cigarettes & Alcohol \- Remastered](https://open.spotify.com/track/5adjc9rGazKvYcyEHNtoz1) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 4:49 | 2022-01-16 |  |
 | [Columbia \- Remastered](https://open.spotify.com/track/20EkniSUbhZ86v1Oc0hhUI) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 6:17 | 2022-01-13 | 2024-05-25 |
+| [Columbia \- Sawmills Outtake](https://open.spotify.com/track/7C2nz2EEB7pvqUbWFdZk3g) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Columbia \(Sawmills Outtake\)](https://open.spotify.com/album/38uIcT5xt5iECIYM33vRfK) | 7:17 | 2024-06-15 |  |
 | [D'You Know What I Mean? \- Remastered](https://open.spotify.com/track/4yWTh6qETpN1Vlfg5LBHEV) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now \(Deluxe Remastered Edition\)](https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy) | 7:43 | 2022-01-11 |  |
 | [Digsy's Dinner \- Remastered](https://open.spotify.com/track/2Xma2zCgfsz6amJ0qZ1cow) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 2:32 | 2023-09-15 | 2024-05-25 |
 | [Don't Go Away](https://open.spotify.com/track/3MCuDi4gQrf7Xms8lTpTAx) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now](https://open.spotify.com/album/5WsCU95SaumguegxnC87TV) | 4:48 | 2022-01-11 |  |

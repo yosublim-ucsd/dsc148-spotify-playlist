@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,098 likes - 225 songs - 13 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,100 likes - 226 songs - 13 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,11 +75,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 65 | [Ego Talking](https://open.spotify.com/track/4HaPYfxnpWPoK7AaH1rC0k) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:23 |
 | 66 | [Ghost \(feat\. Caitlyn Scarlett\)](https://open.spotify.com/track/5ZIJUowkhcLukruA52sfDI) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Caitlyn Scarlett](https://open.spotify.com/artist/1Bztk1lPSvwiBJCujObyxU) | [Distinction EP](https://open.spotify.com/album/0xiqgV5gVnjsKVWpBqXyaO) | 3:37 |
 | 67 | [Sail On](https://open.spotify.com/track/5NDRTL8mInUZHpWRQz72Jx) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [The Fool](https://open.spotify.com/album/4967HGjmvsMtcOZ3AaPfI4) | 3:46 |
-| 68 | [A Little Bit](https://open.spotify.com/track/3CZbSBVBt5QK9Zr0QJYqsL) | [Dusky Grey](https://open.spotify.com/artist/3jFE9Q1V7P1AkbU5UzPEol) | [A Little Bit](https://open.spotify.com/album/4c5MwXOSpIS0YqSi4XRJMm) | 2:57 |
-| 69 | [Rabbit Hole](https://open.spotify.com/track/0BFGclich9JXVCAS79P793) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Rabbit Hole](https://open.spotify.com/album/7dx74V0ACulX7f5cjbsdSx) | 2:59 |
+| 68 | [Rabbit Hole](https://open.spotify.com/track/0BFGclich9JXVCAS79P793) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Rabbit Hole](https://open.spotify.com/album/7dx74V0ACulX7f5cjbsdSx) | 2:59 |
+| 69 | [A Little Bit](https://open.spotify.com/track/3CZbSBVBt5QK9Zr0QJYqsL) | [Dusky Grey](https://open.spotify.com/artist/3jFE9Q1V7P1AkbU5UzPEol) | [A Little Bit](https://open.spotify.com/album/4c5MwXOSpIS0YqSi4XRJMm) | 2:57 |
 | 70 | [Fly Away](https://open.spotify.com/track/3apMZR8xEsLHEA2KvIefC7) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Supernova](https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb) | 3:31 |
-| 71 | [Weight Of The World](https://open.spotify.com/track/2nieU4GEfeeV4B3AbxOnLZ) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Retrograde](https://open.spotify.com/album/474yypWtSGpQGmOsMx2Vwq) | 3:27 |
-| 72 | [Crush](https://open.spotify.com/track/4onuVDT23p1Bhl1Joc02td) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:24 |
+| 71 | [Crush](https://open.spotify.com/track/4onuVDT23p1Bhl1Joc02td) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:24 |
+| 72 | [Weight Of The World](https://open.spotify.com/track/2nieU4GEfeeV4B3AbxOnLZ) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Retrograde](https://open.spotify.com/album/474yypWtSGpQGmOsMx2Vwq) | 3:27 |
 | 73 | [What Is It About Me](https://open.spotify.com/track/183XXqSJsk4kbnElYNorzD) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [My Mind Wanders and Sometimes Leaves Completely](https://open.spotify.com/album/2cGz67xkbq20pKQpqQmzQl) | 3:34 |
 | 74 | [Good Hurt](https://open.spotify.com/track/5nLQXxJa02HwKsLxE0uM9L) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Hurt](https://open.spotify.com/album/7JLxLmGuLMgyE2jl9JoQM5) | 3:12 |
 | 75 | [Nobody Told Me](https://open.spotify.com/track/6kxgE6qfqrXsKWMWSbUxaB) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) | [Underground Luxury](https://open.spotify.com/album/177byugYOk12NcfRtWvghY) | 3:23 |
@@ -217,8 +217,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 207 | [Balsam Fir](https://open.spotify.com/track/231kALAtIK7ztIR1nDibsM) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 3:54 |
 | 208 | [Man On A Road](https://open.spotify.com/track/5RfxBQl0U4h6Hm2HqO367a) | [George Cosby](https://open.spotify.com/artist/7oyk8Ug4Su6UeST5j4g5aG) | [Man On A Road](https://open.spotify.com/album/1RXgxDpl07zH1TNQRak1LW) | 3:18 |
 | 209 | [Put Ya Fire Out](https://open.spotify.com/track/6TlxmEEV9fNDmFxJ67ZMUr) | [Carlito Olivero](https://open.spotify.com/artist/6Nm6C6IBVGA2LahxuWn60h) | [D.D.B.R.W.S.](https://open.spotify.com/album/0Lv1HSVEt2X5iIgCmNkpJl) | 3:47 |
-| 210 | [My Mind \(Interlude\)](https://open.spotify.com/track/1QSIe9IQAv6wbZ1JdG2fyq) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 2:34 |
-| 211 | [Bulletproof](https://open.spotify.com/track/0dmjr5pZZnUq7Cfcvz8mfz) | [Victoria Duffield](https://open.spotify.com/artist/6J2Mlo8s6JMsJQr35ulpvI) | [Accelerate](https://open.spotify.com/album/56awP1qtGRq7w0REJbPBAE) | 3:55 |
+| 210 | [Bulletproof](https://open.spotify.com/track/0dmjr5pZZnUq7Cfcvz8mfz) | [Victoria Duffield](https://open.spotify.com/artist/6J2Mlo8s6JMsJQr35ulpvI) | [Accelerate](https://open.spotify.com/album/56awP1qtGRq7w0REJbPBAE) | 3:55 |
+| 211 | [My Mind \(Interlude\)](https://open.spotify.com/track/1QSIe9IQAv6wbZ1JdG2fyq) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 2:34 |
 | 212 | [Hands Up](https://open.spotify.com/track/37AjaND4ObJaRzCnRgJdVA) | [Brandon](https://open.spotify.com/artist/3mMlNCX0juOKPTTkSsiOie), [Savannah](https://open.spotify.com/artist/1NmrIlbg3XEPGnsKyQ0pDB) | [Adolescent Summer \- EP](https://open.spotify.com/album/4KIPIQ1jyctI8bfRUPiLZF) | 3:10 |
 | 213 | [I Wanna Kiss Bob Dylan](https://open.spotify.com/track/56sRGvgLZVOYl254vvUYh9) | [Rita Wilson](https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4) | [I Wanna Kiss Bob Dylan](https://open.spotify.com/album/64VqDV6JgXbdslGF52UuAl) | 3:46 |
 | 214 | [Day Away](https://open.spotify.com/track/2DlpdindONWSi4IyTSm8v3) | [Elle Winter](https://open.spotify.com/artist/7LkNpfFX2XpGAO0Amhtfhl) | [Season 5: First Listen \(from Radio Disney "N.B.T." Next BIG Thing\)](https://open.spotify.com/album/4Kh4CnNIwdxeBbfJFPcECV) | 3:53 |
@@ -231,7 +231,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 221 | [Bump](https://open.spotify.com/track/2AvoLwHjA39pO6R5W0dl0E) | [Erose](https://open.spotify.com/artist/3nTWNq4d2PshG3F70A8zg8) | [Unrealistic](https://open.spotify.com/album/7DJ38rShyy5odFN0uT9C8i) | 2:34 |
 | 222 | [Wait for love](https://open.spotify.com/track/2ncrUmm8ClzbvOnsyaTACm) | [Nicky Blitz](https://open.spotify.com/artist/1auEXVjtAE1Q22jdOmeYcq) | [Hawk EP Enhanced](https://open.spotify.com/album/3e6VAyayA9bzvrwOTHc6UC) | 1:55 |
 | 223 | [Happy Birthday \- Originally Performed By John Farnham](https://open.spotify.com/track/283rty1XQLfvw6zUDHJ1Ed) | [B the Star](https://open.spotify.com/artist/1UNVJFSDvwWjoRoQGDgorD) | [40 Super Hits Karaoke: Legends V5](https://open.spotify.com/album/3wvs9SsOuyNknFmcwzCWUS) | 2:37 |
-| 224 | [Never Love Me](https://open.spotify.com/track/73wdJkuGNi5r5yaxQcbbnx) | [Erose](https://open.spotify.com/artist/3nTWNq4d2PshG3F70A8zg8) | [Unrealistic](https://open.spotify.com/album/7DJ38rShyy5odFN0uT9C8i) | 2:00 |
-| 225 | [Goodbye Wrong](https://open.spotify.com/track/5DrxXrWnsxkpbR0QUBj8aS) | [Dawn Marie](https://open.spotify.com/artist/4BCgFgcMiSfFEmRIqeAD1K) | [Goodbye Wrong](https://open.spotify.com/album/3dFRqt0nO1GxdcBaE3ryth) | 3:25 |
+| 224 | [Change](https://open.spotify.com/track/2LP4LllG0k6nSvAtbe60Xr) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Change](https://open.spotify.com/album/4fqQu9B3x8EwknltlbXv83) | 3:32 |
+| 225 | [Never Love Me](https://open.spotify.com/track/73wdJkuGNi5r5yaxQcbbnx) | [Erose](https://open.spotify.com/artist/3nTWNq4d2PshG3F70A8zg8) | [Unrealistic](https://open.spotify.com/album/7DJ38rShyy5odFN0uT9C8i) | 2:00 |
+| 226 | [Goodbye Wrong](https://open.spotify.com/track/5DrxXrWnsxkpbR0QUBj8aS) | [Dawn Marie](https://open.spotify.com/artist/4BCgFgcMiSfFEmRIqeAD1K) | [Goodbye Wrong](https://open.spotify.com/album/3dFRqt0nO1GxdcBaE3ryth) | 3:25 |
 
-Snapshot ID: `AbT+ggAAAAD/PQFMQwhUmPG9PQOiHW9s`
+Snapshot ID: `AbUEIgAAAABU9ftaaknDCr48Tsn+/WAN`

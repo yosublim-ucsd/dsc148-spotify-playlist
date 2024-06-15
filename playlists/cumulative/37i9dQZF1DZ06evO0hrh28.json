@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-11",
-  "description": "This is Emilia. The essential tracks, all in one playlist.",
+  "description": "This Is Emilia. Los temas esenciales, todos en una lista.",
   "name": "This Is Emilia",
   "tracks": [
     {
@@ -972,7 +972,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 213666,
       "name": "Quieres",
       "url": "https://open.spotify.com/track/4iGnpp1h0i33lpoP42Y8Jt"

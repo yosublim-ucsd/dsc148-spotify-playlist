@@ -4,7 +4,7 @@
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : A.L.A
 
-69 songs - 3 hr 59 min
+70 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Noss Ellil](https://open.spotify.com/track/5fF004YYfSgDOwIqxWsSKz) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Noss Ellil](https://open.spotify.com/album/24wRSBBUiTv9EGUuhQnwYp) | 3:16 | 2024-02-24 | 2024-05-04 |
 | [Nouveau Riche](https://open.spotify.com/track/2VcyehrwqaIcLx1Urq7HFs) | [DAK](https://open.spotify.com/artist/0ijMujujEFjjkBPJcCtI9u) | [Nouveau Riche](https://open.spotify.com/album/30z0Kw1N8iRCGyh44wgs3o) | 3:13 | 2024-02-24 |  |
 | [Oumouri](https://open.spotify.com/track/27KxDtFcRXU1fcnRk7nnPz) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Oumouri](https://open.spotify.com/album/1EqoJhmcKMFw1VeB1Ols5k) | 3:37 | 2024-04-25 | 2024-05-25 |
-| [Qatra](https://open.spotify.com/track/25Nh8YaZAgdp3oU35ARlet) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Qatra](https://open.spotify.com/album/4XbFnBQrOtlwkXsEe4idAF) | 3:36 | 2024-05-24 |  |
+| [Psy](https://open.spotify.com/track/5w6jlBMMvZEi50lmC451u5) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Psy](https://open.spotify.com/album/2SaMbc7y7haixHL94kpWqX) | 2:46 | 2024-06-14 |  |
+| [Qatra](https://open.spotify.com/track/25Nh8YaZAgdp3oU35ARlet) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Qatra](https://open.spotify.com/album/4XbFnBQrOtlwkXsEe4idAF) | 3:36 | 2024-05-24 | 2024-06-15 |
 | [Raby Yostor](https://open.spotify.com/track/7vXf6XzqsUYqQ9Ky3Z0adb) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Raby Yostor](https://open.spotify.com/album/6MWT9JJ0rjhtLdSLNaPhcs) | 3:04 | 2024-02-24 | 2024-05-25 |
 | [Rjel Tunis](https://open.spotify.com/track/4I5ZyFF55zqQRNzYdhl1Od) | [Omar Laya](https://open.spotify.com/artist/3bbrfcE7yIia9BrIIMeZLF) | [Rjel Tunis](https://open.spotify.com/album/2nyIDIgnhMpVuD7MGkUO5S) | 3:33 | 2024-02-24 |  |
 | [Sa7a](https://open.spotify.com/track/4FLgbthreXG0QiWWYeYfMf) | [NASTYSH!!T](https://open.spotify.com/artist/6qiiqFqUgHwAhMNDVR0PXz) | [Sa7a](https://open.spotify.com/album/5GBcqogPqtHNYomZqoELo7) | 3:19 | 2024-02-24 |  |

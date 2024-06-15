@@ -574,7 +574,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 218826,
       "name": "Blood Runs Red",
       "url": "https://open.spotify.com/track/3KNa3a7r6bw3SGI27Syuxn"
@@ -1318,7 +1318,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 385372,
       "name": "Dirt For A Dying Sun",
       "url": "https://open.spotify.com/track/6bNUJ3YNq5a4R3f7gfgZVp"
@@ -2283,6 +2283,24 @@
     },
     {
       "album": {
+        "name": "Happiness",
+        "url": "https://open.spotify.com/album/6fmReYbXisP7zdHdniHprB"
+      },
+      "artists": [
+        {
+          "name": "The Heavy Heavy",
+          "url": "https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188333,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/11jzE2WcXGwrMn9s7SdUg2"
+    },
+    {
+      "album": {
         "name": "Hard Working Man",
         "url": "https://open.spotify.com/album/49kNMARqo9FtWJ8OFIGF7s"
       },
@@ -2768,6 +2786,24 @@
       "duration_ms": 202776,
       "name": "Holy Water Hangover",
       "url": "https://open.spotify.com/track/6tWOtdZTtlZuGW1CEy9Xhh"
+    },
+    {
+      "album": {
+        "name": "Lady Lou",
+        "url": "https://open.spotify.com/album/1Yh3TJP49ypjIuQVy5Kcmi"
+      },
+      "artists": [
+        {
+          "name": "HAFFWAY",
+          "url": "https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277177,
+      "name": "Home for the Weekend",
+      "url": "https://open.spotify.com/track/1YB4xS05wUpuCaJs8IFDjA"
     },
     {
       "album": {
@@ -3771,6 +3807,24 @@
     },
     {
       "album": {
+        "name": "Massachusetts",
+        "url": "https://open.spotify.com/album/3A779MgsgOOYSBTYOxyQEb"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218954,
+      "name": "Massachusetts",
+      "url": "https://open.spotify.com/track/4oqVe3JGyD25AeTupMmxqL"
+    },
+    {
+      "album": {
         "name": "Good For You",
         "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
       },
@@ -4744,7 +4798,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 248511,
       "name": "Poor Boy a Long Way From Home",
       "url": "https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J"
@@ -5446,7 +5500,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 252145,
       "name": "So Bad",
       "url": "https://open.spotify.com/track/2JlQro0lj7pbAZdO25imCx"
@@ -6816,6 +6870,24 @@
       "duration_ms": 180333,
       "name": "Trying To Find A World That's Been And Gone: Part 1 (Demo)",
       "url": "https://open.spotify.com/track/35CIWOsRz4ViEY1an19Oy1"
+    },
+    {
+      "album": {
+        "name": "Tuesday",
+        "url": "https://open.spotify.com/album/3OJhV8FhTJQLH979qE2QXA"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149600,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/073gctjGEOq9cXuFjldqxT"
     },
     {
       "album": {

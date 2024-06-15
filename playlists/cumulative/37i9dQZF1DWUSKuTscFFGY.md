@@ -2,9 +2,9 @@
 
 ### [Nouveautés Pop](https://open.spotify.com/playlist/37i9dQZF1DWUSKuTscFFGY)
 
-> Découvrez les meilleures nouveautés pop\. Photo : Sabrina Carpenter
+> Découvrez les meilleures nouveautés pop\. Photo : Dua Lipa
 
-372 songs - 19 hr 13 min
+374 songs - 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Don't Hate You](https://open.spotify.com/track/7rjyb0xF3bKwJ3GZ9ORbaM) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Freddie Elmberg](https://open.spotify.com/artist/2HAhqKaUVbYDq0rTlwo1md) | [Don't Hate You](https://open.spotify.com/album/6AGPekG6MANxEmWEN2fXl7) | 2:28 | 2024-01-04 | 2024-02-16 |
 | [Don't Need to Sleep](https://open.spotify.com/track/0CGrKBmgI0jrkt3Qd1PM4t) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Don't Need to Sleep](https://open.spotify.com/album/2VLbmvecrpdXHCGqwD1j3u) | 3:08 | 2023-12-14 | 2024-01-26 |
 | [don’t shop when ur hungry !! \(feat\. vaultboy\)](https://open.spotify.com/track/2U2nYZb993yZhtaTJ9sGHl) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [don't shop when ur hungry !! \(feat\. vaultboy\)](https://open.spotify.com/album/1SxCpc68MAkp1WbnENuhxq) | 2:20 | 2023-08-17 | 2023-09-01 |
+| [Double Life \- From "Despicable Me 4"](https://open.spotify.com/track/07oO1U722crtVcavi6frX6) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Double Life \(From "Despicable Me 4"\)](https://open.spotify.com/album/6k4sB6SP3ekH3iIhaDuUV4) | 3:10 | 2024-06-14 |  |
 | [DOUX MÉLANGE](https://open.spotify.com/track/0iL5w6GahrABgOwFD8cYJu) | [Jadanaë](https://open.spotify.com/artist/7qWpcLPHqE4eMj41jlOjvs) | [DOUX MÉLANGE](https://open.spotify.com/album/4B4WA88glvEEEjFxdujAA0) | 3:10 | 2024-01-04 | 2024-01-19 |
 | [Dreaming](https://open.spotify.com/track/14uRu4FrDuBKrd4PEwc8ha) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dreaming](https://open.spotify.com/album/3uoFn9YXRikta2GkvMXoR7) | 3:28 | 2024-02-01 | 2024-02-03 |
 | [Dreaming](https://open.spotify.com/track/3TBNXtO8ukvpbgvkMuttsb) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dreaming](https://open.spotify.com/album/0WK5sLNYIynhTomJpn1bqs) | 3:28 | 2024-02-01 | 2024-04-12 |
@@ -142,7 +143,7 @@
 | [Happy World](https://open.spotify.com/track/0kY86R5mW1Js0jymCs8Wfp) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Happy World](https://open.spotify.com/album/6fFP8CR3WRLZxwnrvBfGTh) | 2:59 | 2024-04-19 |  |
 | [Hard to Love](https://open.spotify.com/track/6QV6miSjUtqppivpjwDZgI) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Hard To Love](https://open.spotify.com/album/0jXxDV0TkGE6f5MezsGFrU) | 2:47 | 2023-11-23 | 2024-02-09 |
 | [Haven't You Ever Been In Love Before?](https://open.spotify.com/track/7136zBuda3024ZQUTBB1Vg) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:50 | 2023-07-28 | 2023-08-11 |
-| [HE KNOWS \(feat\. Lil Nas X\)](https://open.spotify.com/track/6G53gri09h5KXRegSCcWy9) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HE KNOWS \(feat\. Lil Nas X\)](https://open.spotify.com/album/5lFg9dwFRS88AOY22qwki2) | 3:01 | 2024-05-09 |  |
+| [HE KNOWS \(feat\. Lil Nas X\)](https://open.spotify.com/track/6G53gri09h5KXRegSCcWy9) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HE KNOWS \(feat\. Lil Nas X\)](https://open.spotify.com/album/5lFg9dwFRS88AOY22qwki2) | 3:01 | 2024-05-09 | 2024-06-15 |
 | [Head Head Honcho](https://open.spotify.com/track/0rW8JS6v94ggHMBiAI2PNf) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop Miami](https://open.spotify.com/album/32hFJhRyYyZF2e3JRkE0bK) | 3:01 | 2024-02-15 | 2024-03-15 |
 | [Head Underwater](https://open.spotify.com/track/6aVuhf1DaTNoFgpDgIQku0) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Head Underwater](https://open.spotify.com/album/52IA9m2bwmNyVWdf1QypOz) | 3:15 | 2024-02-01 | 2024-04-19 |
 | [Heartbroken \(feat\. Jessie Murph & Polo G\)](https://open.spotify.com/track/6NdnvPwQvZb147DVa4x14h) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Heartbroken \(feat\. Jessie Murph & Polo G\)](https://open.spotify.com/album/4cfA6cGpQSXr8jMMxfnNaS) | 3:24 | 2023-07-28 | 2023-09-30 |
@@ -219,7 +220,7 @@
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-05-16 |  |
 | [Magical](https://open.spotify.com/track/20uknEOwx3PpiGL2Es2vCg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:14 | 2023-09-29 | 2023-12-15 |
 | [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 | 2024-04-26 | 2024-05-17 |
-| [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 | 2024-03-22 |  |
+| [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 | 2024-03-22 | 2024-06-15 |
 | [making the bed](https://open.spotify.com/track/5CscrLqFBgPfZR8fGtikov) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:18 | 2023-09-29 | 2023-12-15 |
 | [Man I Am \(From Barbie The Album\)](https://open.spotify.com/track/2C3Gsy6HgWQAEm4qaqhgVQ) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Man I Am \(From Barbie The Album\)](https://open.spotify.com/album/5ra7esHOt8nyFcIFwGJ7wh) | 3:07 | 2023-07-28 | 2023-08-25 |
 | [Maybe I](https://open.spotify.com/track/3vbuPaWDmP71FMVYbj1kRZ) | [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Maybe I](https://open.spotify.com/album/1p3H8RBMBjwaE8vYWeCBOp) | 2:02 | 2024-02-15 | 2024-04-12 |
@@ -315,6 +316,7 @@
 | [Take Two](https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Take Two](https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k) | 3:49 | 2023-07-28 | 2023-08-04 |
 | [TALK!](https://open.spotify.com/track/45kFJyDpXX4AuKpvdWyTwW) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [PHOENIX](https://open.spotify.com/album/1bjMRqNRSj1acJP6XesJMW) | 2:37 | 2023-10-27 | 2023-11-24 |
 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:55 | 2024-02-15 | 2024-03-09 |
+| [the boy is mine](https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:53 | 2024-06-14 |  |
 | [The California shine](https://open.spotify.com/track/1lGdoS9AQXZBya8PzOLen9) | [Talisco](https://open.spotify.com/artist/0ZR3khgseh3xy3s8iBYWrI) | [The California shine](https://open.spotify.com/album/2FwgsCGpAkFaoY076IZMw1) | 2:22 | 2023-07-28 | 2023-08-11 |
 | [The Door](https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:32 | 2024-02-01 | 2024-05-24 |
 | [The End](https://open.spotify.com/track/3e4QnOQmNqJaBjpmjGYZK0) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [The End](https://open.spotify.com/album/5yQSR4I6kIx4a7Siq2Q6vZ) | 3:25 | 2023-12-21 | 2024-01-26 |

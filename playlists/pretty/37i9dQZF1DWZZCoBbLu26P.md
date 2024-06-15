@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > Queens everywhere \- givin' us life.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,611 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,647 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,12 +78,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 68 | [I Got You](https://open.spotify.com/track/2rSE4Hl1vnWQhRbbUH0bhb) | [Tia Kofi](https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva), [Billy Cullum](https://open.spotify.com/artist/4io2LV6Cv46tjHIMSDie5k) | [Part 1: The Damage](https://open.spotify.com/album/4NAcKRrc0ueLhK8A0tYqGL) | 2:53 |
 | 69 | [Here For It](https://open.spotify.com/track/0WMcCCWggt6q9pCBVLBmwN) | [Peppermint](https://open.spotify.com/artist/4Cy4hqXIcD2Gz4NGgbNSw6) | [Here For It](https://open.spotify.com/album/0vLZFcJpMsjOsublHTFjIk) | 2:59 |
 | 70 | [Out of Office](https://open.spotify.com/track/2quoLHVf67QT7yPDoMQlTE) | [Karen From Finance](https://open.spotify.com/artist/3LMNZjSHkbGJ7jKKJhG94f) | [Out of Office](https://open.spotify.com/album/406xw48mEf8PUbq48eGu6C) | 3:14 |
-| 71 | [Stars](https://open.spotify.com/track/1VBhncsdMgdkElWOGpOv9m) | [Veronica Green](https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl) | [Stars](https://open.spotify.com/album/1YDDGpnyBX7xVgYU7aC70G) | 4:11 |
+| 71 | [Stars \- Disco Mix](https://open.spotify.com/track/0NUqxqzbiABToJega47uSY) | [Veronica Green](https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl) | [Stars \(Disco Mix\)](https://open.spotify.com/album/4vzgEIokcu0fl4WorqHQcY) | 4:12 |
 | 72 | [Gratify](https://open.spotify.com/track/3oAa776TeEtmmbvJ7fH4Bt) | [Divina De Campo](https://open.spotify.com/artist/2aQPlCSNFXtHbem9TfV8Y9) | [GRATIFY](https://open.spotify.com/album/4p8gkNRIpOy9OkbxDXhUwx) | 3:35 |
 | 73 | [Ornacia](https://open.spotify.com/track/3P7De9YTBIt5jfrZepoWVA) | [Vivacious](https://open.spotify.com/artist/17f5kPkp5H8UHtz31e9MAp) | [Ornacia](https://open.spotify.com/album/69LWtOGlMSCXJest9Zzmv7) | 4:46 |
 | 74 | [Come Together](https://open.spotify.com/track/7j9IL3tollUsa8Bkm5W32s) | [Sherry Vine](https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s) | [Come Together](https://open.spotify.com/album/2a64YiIwjhOm2XrphHlPYc) | 2:41 |
 | 75 | [Sissy That Walk](https://open.spotify.com/track/5PHPENfE3RVmHGAA2A7Hfx) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Born Naked](https://open.spotify.com/album/3stAjHtCDSCavGtkxzvYE7) | 3:32 |
-| 76 | [Stars \- Disco Mix](https://open.spotify.com/track/0NUqxqzbiABToJega47uSY) | [Veronica Green](https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl) | [Stars \(Disco Mix\)](https://open.spotify.com/album/4vzgEIokcu0fl4WorqHQcY) | 4:12 |
+| 76 | [Stars](https://open.spotify.com/track/1VBhncsdMgdkElWOGpOv9m) | [Veronica Green](https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl) | [Stars](https://open.spotify.com/album/1YDDGpnyBX7xVgYU7aC70G) | 4:11 |
 | 77 | [Low](https://open.spotify.com/track/2TqWayWYGNjqfTpapyveyu) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Straight Outta Oz \(Deluxe Edition\)](https://open.spotify.com/album/3UeUYonBAGu7lZi0706Vdb) | 3:21 |
 | 78 | [Yes Bitch! She Might Be!](https://open.spotify.com/track/6gSJM21icwHkqElZgMGDyh) | [Widow Von'du](https://open.spotify.com/artist/7cnJoej4MmqrDoTzSyMKYK) | [Yes Bitch! She Might Be!](https://open.spotify.com/album/4ByvsCipPAeR5wqm4yGhWe) | 3:08 |
 | 79 | [Work Mommi Work \(feat\. Spankrock\)](https://open.spotify.com/track/1zvCLFkacsVXEWlO9hI7H3) | [Rye Rye](https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu), [Filthy Fidgets](https://open.spotify.com/artist/42Glv0vjfSSNGFiLOk1K4h), [Spank Rock](https://open.spotify.com/artist/1LcLsIWOl1Z8vo1wl6bxg2) | [Rye Rye vs\. Filthy Fidgets](https://open.spotify.com/album/6LM8gofQ7e6jUWB9A8gfPc) | 3:55 |

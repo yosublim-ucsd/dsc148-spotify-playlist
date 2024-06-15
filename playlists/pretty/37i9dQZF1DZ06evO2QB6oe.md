@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 
 > This is Pedro Capó\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,998 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,024 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 | 10 | [Casualidad](https://open.spotify.com/track/5FcT2TuosRkokjn3xyncER) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Casualidad](https://open.spotify.com/album/2TMrMWOfJY01n2MRhANkWi) | 3:13 |
 | 11 | [Mar Chiquita](https://open.spotify.com/track/52AHKfP6qQ3feLjPCDTiRI) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:24 |
 | 12 | [Una Vez Más](https://open.spotify.com/track/1Pm4oHKLf3IrPYjn8OajCg) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [La Neta](https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1) | 3:08 |
-| 13 | [Donde Hubo Amor](https://open.spotify.com/track/26oMyThq262l4DJVZ3cUz2) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [MUNAY](https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8) | 3:38 |
-| 14 | [Nuevas Mentiras](https://open.spotify.com/track/3vabwCZ4W0ommrf6wlSInU) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Mesa Para Dos](https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO) | 3:43 |
+| 13 | [Nuevas Mentiras](https://open.spotify.com/track/3vabwCZ4W0ommrf6wlSInU) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Mesa Para Dos](https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO) | 3:43 |
+| 14 | [Donde Hubo Amor](https://open.spotify.com/track/26oMyThq262l4DJVZ3cUz2) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [MUNAY](https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8) | 3:38 |
 | 15 | [Te Olvidaré](https://open.spotify.com/track/4jrZI0XdexLjrHlBwLbhzL) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Hoy](https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8) | 3:05 |
 | 16 | [5 y 3](https://open.spotify.com/track/1gZAKL2rlLa2UqEoebli86) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Neta](https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1) | 2:34 |
 | 17 | [Mundo Paralelo](https://open.spotify.com/track/5Sb2QTq4PNDQyj6HdpdxWk) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Mundo Paralelo](https://open.spotify.com/album/0QrA9TTm6EFdy8qJAoIqPR) | 3:17 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 | 20 | [Quédate](https://open.spotify.com/track/0is5MOZLNpo5iAY3M0B9ml) | [Debi Nova](https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Quédate](https://open.spotify.com/album/2DoBcaHj1t8enwJ8sygr3g) | 2:55 |
 | 21 | [Volver a Casa](https://open.spotify.com/track/0fiY9KBlMWgK1xrQTlmzyS) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Neta](https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1) | 2:53 |
 | 22 | [Sin Haber Dormido](https://open.spotify.com/track/3f8ohdsBs0EG9ktGccn4h0) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Sin Haber Dormido](https://open.spotify.com/album/2TuwTjtSX2dXBKfaVODYsh) | 3:07 |
-| 23 | [Himalaya](https://open.spotify.com/track/1OUjgRKdidGYAQQUDATydm) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Mr\. W](https://open.spotify.com/album/3ajL8VGPHoWxKl2rsQtdGX) | 2:48 |
-| 24 | [Besos Escondíos \(feat\. Pedro Capó\)](https://open.spotify.com/track/2GzZdNShX80JKeeGSwYtCu) | [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Palmeras](https://open.spotify.com/album/44T0wt9lD2FnxPg5d2qXJL) | 2:42 |
+| 23 | [Besos Escondíos \(feat\. Pedro Capó\)](https://open.spotify.com/track/2GzZdNShX80JKeeGSwYtCu) | [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Palmeras](https://open.spotify.com/album/44T0wt9lD2FnxPg5d2qXJL) | 2:42 |
+| 24 | [Himalaya](https://open.spotify.com/track/1OUjgRKdidGYAQQUDATydm) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Mr\. W](https://open.spotify.com/album/3ajL8VGPHoWxKl2rsQtdGX) | 2:48 |
 | 25 | [La Neta](https://open.spotify.com/track/0DKIkTI5jB14BEC6sJlsFm) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Neta](https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1) | 3:25 |
 | 26 | [Todo Bien](https://open.spotify.com/track/3tRKqZBZFpQ6DyJDAWNqOB) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Good Vibration \- Vol\. 1](https://open.spotify.com/album/4F6bIheCKeB1DdoG5OaoYG) | 3:20 |
 | 27 | [Iko Iko \(My Bestie\) \(feat\. Small Jam\)](https://open.spotify.com/track/3pnxj3KnSjqO1Qkl2qLHIz) | [Justin Wellington](https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Small Jam](https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8) | [Iko Iko \(My Bestie\) \(feat\. Small Jam\)](https://open.spotify.com/album/73ikyU6v9zvR63RwjKWikR) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 | 49 | [Jíbaro](https://open.spotify.com/track/7BxtSpUt1DPBE3GCHezgB6) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 3:09 |
 | 50 | [Tequila Pa'la Razón](https://open.spotify.com/track/1iPNaaePlxFzTJyqpoaaPv) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7), [Christian Pagán](https://open.spotify.com/artist/2xdAxBwqgTeQmJs5CZwC4Z) | [Guerra de Idolos \(Banda Sonora Original\)](https://open.spotify.com/album/1PQFi6jnjNMrAOSeIHyd7v) | 3:11 |
 
-Snapshot ID: `ZmjlAAAAAABP/3nCBi0UPgtDI1E9DOKY`
+Snapshot ID: `Zmo2gAAAAABEx92A+f56grA+gWTtU+Hs`

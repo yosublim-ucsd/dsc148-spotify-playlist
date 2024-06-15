@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-14",
-  "description": "Rimas cremosas, tan necesarias como tu caf\u00e9. Go Golden Junk, EMJAY, Gera MX y B.Smile en portada.",
+  "description": "Rimas cremosas, tan necesarias como tu caf\u00e9. Astrid Cruz y Zxmyr en portada.",
   "name": "Rap Latte",
   "tracks": [
     {
@@ -2510,7 +2510,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 205609,
       "name": "Nunca Imagin\u00e9",
       "url": "https://open.spotify.com/track/6ecb4V91cxHT9aJquEMLun"
@@ -2802,7 +2802,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 253402,
       "name": "PULPARI",
       "url": "https://open.spotify.com/track/3aAvHk9XY2ApYCIaiJMU9l"
@@ -2846,7 +2846,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 175058,
       "name": "QUE SE ACABE EL MUNDO POR FAVOR",
       "url": "https://open.spotify.com/track/0515NyyugRGEsuznPwoWgA"
@@ -2894,6 +2894,28 @@
       "duration_ms": 224105,
       "name": "Que Te Vaya Bien",
       "url": "https://open.spotify.com/track/13r9dCONzcfyRkw3IPPMnf"
+    },
+    {
+      "album": {
+        "name": "Quemar la ciudad",
+        "url": "https://open.spotify.com/album/0oHqp73CpGHRmObKmOEx5W"
+      },
+      "artists": [
+        {
+          "name": "Astrid Cruz",
+          "url": "https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i"
+        },
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "Quemar la ciudad",
+      "url": "https://open.spotify.com/track/78nOjGqYGO2cCobzUKRoMQ"
     },
     {
       "album": {
@@ -3118,7 +3140,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 220800,
       "name": "Si No Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/1KZwJMFgSw5ZTlMoQyiGh1"
@@ -3639,6 +3661,54 @@
     },
     {
       "album": {
+        "name": "UFC",
+        "url": "https://open.spotify.com/album/7J0KRhWnqJhbMIet5wU2sY"
+      },
+      "artists": [
+        {
+          "name": "Mi Compa el Chino",
+          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
+        },
+        {
+          "name": "Limbo Lowfi",
+          "url": "https://open.spotify.com/artist/4EQWL5UyTdKnVQeIERcnpr"
+        },
+        {
+          "name": "Renzo de Santis",
+          "url": "https://open.spotify.com/artist/5CotXfds0lXkxKAXsO0dhr"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "UFC",
+      "url": "https://open.spotify.com/track/55hHb31ZbpMtEMh45q0b7p"
+    },
+    {
+      "album": {
+        "name": "Un Pelito y Un Tamal",
+        "url": "https://open.spotify.com/album/69d8lxsfANufzR41UZThPM"
+      },
+      "artists": [
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "dj spizike",
+          "url": "https://open.spotify.com/artist/24k3vSCXZUr1KNu8DbvQGm"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126383,
+      "name": "Un Pelito y Un Tamal",
+      "url": "https://open.spotify.com/track/3EPHagMulVWYwuefchltK6"
+    },
+    {
+      "album": {
         "name": "Vaiv\u00e9n",
         "url": "https://open.spotify.com/album/4AxOgNmDycOaIv95OiJHMt"
       },
@@ -3724,6 +3794,24 @@
       "duration_ms": 198787,
       "name": "Villana",
       "url": "https://open.spotify.com/track/12IUz1c094GzxDR89vfbO4"
+    },
+    {
+      "album": {
+        "name": "Voy tranquilo",
+        "url": "https://open.spotify.com/album/2sODnDNsxbIF8snIvBiR8b"
+      },
+      "artists": [
+        {
+          "name": "A.C.O",
+          "url": "https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142921,
+      "name": "Voy tranquilo",
+      "url": "https://open.spotify.com/track/1YBLxv6oT9SGuxwwmE6w88"
     },
     {
       "album": {

@@ -504,7 +504,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 227093,
       "name": "Cielo - br\u00fajula del destino",
       "url": "https://open.spotify.com/track/2BfqQCKiA6F7l294f64IOY"
@@ -544,6 +544,28 @@
       "duration_ms": 178076,
       "name": "complikado",
       "url": "https://open.spotify.com/track/1VB6OgXXixIet11kOQfc3P"
+    },
+    {
+      "album": {
+        "name": "Con la vida al centro",
+        "url": "https://open.spotify.com/album/1OROJufh2WokWE8aMzNlDm"
+      },
+      "artists": [
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        },
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172418,
+      "name": "Con la vida al centro",
+      "url": "https://open.spotify.com/track/0TCDtpmn2uLtQzrLZikIKR"
     },
     {
       "album": {

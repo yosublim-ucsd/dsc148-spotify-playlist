@@ -269,6 +269,28 @@
     },
     {
       "album": {
+        "name": "YOU.ME.NOW",
+        "url": "https://open.spotify.com/album/32ozStC7KbED7L5ez5en1n"
+      },
+      "artists": [
+        {
+          "name": "Genix",
+          "url": "https://open.spotify.com/artist/5WWUkLXiAbmGwtELcfvB2w"
+        },
+        {
+          "name": "JVMIE",
+          "url": "https://open.spotify.com/artist/2nGYiS8j6qvzqlf0aNxbHi"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253461,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/2Lel47yBru9Io5TjTeF17I"
+    },
+    {
+      "album": {
         "name": "Luminescence EP",
         "url": "https://open.spotify.com/album/3bSrrXgxrcKRs5fVfi8IiY"
       },
@@ -418,6 +440,28 @@
       "duration_ms": 192409,
       "name": "Closer To You",
       "url": "https://open.spotify.com/track/2CdyYYqIUW6mhIFQK8r9Hs"
+    },
+    {
+      "album": {
+        "name": "Diamonds (Vraell's Guitar Version)",
+        "url": "https://open.spotify.com/album/4SG3j1q6Yo8J8bWOIAOii4"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        },
+        {
+          "name": "Vraell",
+          "url": "https://open.spotify.com/artist/1Be39C5Cm8pOzpDP5bDokO"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121242,
+      "name": "Diamonds - Vraell's Guitar Version",
+      "url": "https://open.spotify.com/track/2DgVUg7thg7eZlFOm5IN3a"
     },
     {
       "album": {
@@ -952,7 +996,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 430769,
       "name": "I'll Miss the System Here",
       "url": "https://open.spotify.com/track/1O5W8zxuyu5GWmuUbqnhCU"
@@ -1181,6 +1225,28 @@
     },
     {
       "album": {
+        "name": "Level Up",
+        "url": "https://open.spotify.com/album/5682kTPqzp8r3xY2UHnVG4"
+      },
+      "artists": [
+        {
+          "name": "Mr. Hong",
+          "url": "https://open.spotify.com/artist/7tDDk9WbLrXl0DuDXH4sId"
+        },
+        {
+          "name": "Hiyasu Cuts",
+          "url": "https://open.spotify.com/artist/2Y9fGLK2O6rYdTftrcgKnO"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Level Up",
+      "url": "https://open.spotify.com/track/6ECYH4enN8ZTIeMyCGxcDt"
+    },
+    {
+      "album": {
         "name": "Lilo",
         "url": "https://open.spotify.com/album/0oNtXBVJ5eoUcqA1Ovtu9Z"
       },
@@ -1232,7 +1298,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 229024,
       "name": "Loch Awe",
       "url": "https://open.spotify.com/track/4KB6FE20302vokalyCjdV5"
@@ -1398,7 +1464,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 153487,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/5sa8RhxrOzLUOuCgwpGpWb"
@@ -1586,6 +1652,32 @@
       "duration_ms": 111986,
       "name": "Off Your Hand",
       "url": "https://open.spotify.com/track/2lstzdGae9ApJ4JDi8sKj3"
+    },
+    {
+      "album": {
+        "name": "Ogou (Pran Ka Mwen) [Turtle Revisit]",
+        "url": "https://open.spotify.com/album/7HbnyY0UkqOzyOpgrmcf9Q"
+      },
+      "artists": [
+        {
+          "name": "Lakou Mizik",
+          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
+        },
+        {
+          "name": "Joseph Ray",
+          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
+        },
+        {
+          "name": "Turtle",
+          "url": "https://open.spotify.com/artist/6iWZrWmdQnRn2fpjAmrbc2"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256284,
+      "name": "Ogou (Pran Ka Mwen) - Turtle Revisit",
+      "url": "https://open.spotify.com/track/48R6sOFn31bOM199xIXWQv"
     },
     {
       "album": {
@@ -1814,7 +1906,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 225849,
       "name": "Stellar",
       "url": "https://open.spotify.com/track/2Go5FfwZeqUPW3OnmPdmPN"

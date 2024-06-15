@@ -2,9 +2,9 @@
 
 ### [Amapiano to the World](https://open.spotify.com/playlist/37i9dQZF1DWSMjACnTZm0X)
 
-> Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: Harmonize
+> Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: Major League Djz
 
-227 songs - 15 hr 51 min
+228 songs - 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Maria](https://open.spotify.com/track/3c1dmfIGuGXSKtQGejjc2T) | [Dumomi the Jig](https://open.spotify.com/artist/7x9N8hOjQ8W2sRNNswCthw), [Black Culture](https://open.spotify.com/artist/2331I1TOUrGnlIbG8Vs1gp), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Maria](https://open.spotify.com/album/6jlHvs6KPAfRC2UBMZlOWs) | 3:07 | 2023-11-16 |  |
 | [Maria](https://open.spotify.com/track/63Z0GqJuGyTojf5B2XoMze) | [Dumomi the Jig](https://open.spotify.com/artist/7x9N8hOjQ8W2sRNNswCthw), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ), [Black Culture](https://open.spotify.com/artist/2331I1TOUrGnlIbG8Vs1gp) | [Maria](https://open.spotify.com/album/6NjaX2ag4OxEicabDLzotM) | 3:07 | 2024-02-15 | 2024-04-19 |
 | [Mashonzha](https://open.spotify.com/track/6fVhiCUu6bhwRQflSayHbh) | [Gusba Banana](https://open.spotify.com/artist/0JQngxUcKlWPmUklxDidWb) | [EP Ya Baba](https://open.spotify.com/album/0EkFZZ27esrer52Rqb9iF7) | 3:36 | 2022-11-10 | 2023-07-08 |
+| [Mine For The Night](https://open.spotify.com/track/5HJr6r6NdRpNnpUOxeXTjK) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Mine For The Night](https://open.spotify.com/album/3xHZvCFIIqqqEH6l24CRJX) | 4:14 | 2024-06-14 |  |
 | [Mnike \(feat\. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee\)](https://open.spotify.com/track/5tpft20jhQvRlG3O7XfwWy) | [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Tumelo\_za](https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Nandipha808](https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [Tyrondee](https://open.spotify.com/artist/4aNokzWeBL32vR7leBpUat) | [Mnike \(feat\. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee\)](https://open.spotify.com/album/1nhw91pN6LpY6MriDZqVDC) | 6:31 | 2023-08-10 | 2024-05-10 |
 | [Momo \(feat\. King of Bakongo\)](https://open.spotify.com/track/62WPr79JCCXFb5H3oIuR0C) | [Mac lopez](https://open.spotify.com/artist/5pgbTIhgrcYCoj6OxvHXju), [Chukido](https://open.spotify.com/artist/1hvUej7iIM2qNgY2xIbI5X), [Emkay](https://open.spotify.com/artist/1cHN47HKOK7T3Ss6uVnPvS), [King of Bakongo](https://open.spotify.com/artist/0jpifCcy95F4jaoMY0VN5U) | [Momo \(feat\. King of Bakongo\)](https://open.spotify.com/album/7jGKHF03QB84WnZXtiDmmn) | 7:45 | 2024-05-31 |  |
 | [Mozambique \(feat\. 10x Guluva, Yung Silly Coon & PILLS\)](https://open.spotify.com/track/6y6XLG70Bys7LyDkN8lwhD) | [Justin99](https://open.spotify.com/artist/2sMoqBE60rnLVDF6zhFKBI), [Star'Jazz](https://open.spotify.com/artist/5iSqsyNKGA6wZt74I9m0t4), [Mr JazziQ](https://open.spotify.com/artist/1nVEvn7RMNxj27rn0WE13E), [10x Guluva](https://open.spotify.com/artist/6ERjd6Gp7PLOeLcYdo17mW), [Yung Silly Coon](https://open.spotify.com/artist/008z8vzKUB32BQzute4ZIW), [Pills](https://open.spotify.com/artist/0ad9OWagoBkIhBrKg6VYOn) | [Mozambique \(feat\. 10x Guluva, Yung Silly Coon & PILLS\)](https://open.spotify.com/album/6jQrJD5qjoxVBBooTpHMEK) | 7:34 | 2022-11-10 | 2023-09-23 |

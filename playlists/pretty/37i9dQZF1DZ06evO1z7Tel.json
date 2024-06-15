@@ -1,12 +1,12 @@
 {
-  "description": "This is Carlos Y Jose. The essential tracks, all in one playlist.",
-  "num_followers": 31922,
+  "description": "This Is Carlos Y Jose. Los temas esenciales, todos en una lista.",
+  "num_followers": 31944,
   "original_name": "This Is Carlos Y Jose",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjlAAAAAAARruWFAncuJG/Wdjs/tv0R",
+  "snapshot_id": "Zmo2gAAAAADlPbv3h3ud7tPRW9ib02ub",
   "tracks": [
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R"
+        "name": "Tesoros Musicales",
+        "url": "https://open.spotify.com/album/4IxKA1cMz3SCYZiWlFrOZz"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 174506,
-      "name": "Pescadores De Ensenada",
-      "url": "https://open.spotify.com/track/5nqaSZdUzcKPGIwqLf0QAe"
+      "duration_ms": 187346,
+      "name": "Al Pie De Un Arbol",
+      "url": "https://open.spotify.com/track/4h0sJQXfkAHy2ldLVLFBL2"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tesoros Musicales",
-        "url": "https://open.spotify.com/album/4IxKA1cMz3SCYZiWlFrOZz"
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 187346,
-      "name": "Al Pie De Un Arbol",
-      "url": "https://open.spotify.com/track/4h0sJQXfkAHy2ldLVLFBL2"
+      "duration_ms": 174506,
+      "name": "Pescadores De Ensenada",
+      "url": "https://open.spotify.com/track/5nqaSZdUzcKPGIwqLf0QAe"
     },
     {
       "added_at": null,

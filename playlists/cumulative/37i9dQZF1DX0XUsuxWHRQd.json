@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Music from Central Cee, Future, Metro Boomin and Kendrick Lamar.",
+  "description": "New music from Don Toliver, Moneybagg Yo and Central Cee. ",
   "name": "RapCaviar",
   "tracks": [
     {
@@ -784,7 +784,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 210371,
       "name": "5AM IN PHILLY",
       "url": "https://open.spotify.com/track/2xaCeQ5mTMhMrf8kAei5GW"
@@ -2478,7 +2478,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 161053,
-      "name": "Attitude (feat. Charlie Wilson & Cash Cobain)",
+      "name": "ATTITUDE (FEAT. CHARLIE WILSON & CASH COBAIN)",
       "url": "https://open.spotify.com/track/0KFXE2mLTFdOKkTZEDgJPv"
     },
     {
@@ -3534,7 +3534,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 147746,
       "name": "Bandit",
       "url": "https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s"
@@ -5643,6 +5643,32 @@
     },
     {
       "album": {
+        "name": "REDRUM Wizard (Gangsta Grillz)",
+        "url": "https://open.spotify.com/album/2kcWf4LiavA3V6quKqSXAB"
+      },
+      "artists": [
+        {
+          "name": "Big Boogie",
+          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202285,
+      "name": "BOP (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/0mpDXW1y4X7MlyPecWAlzJ"
+    },
+    {
+      "album": {
         "name": "Bops",
         "url": "https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM"
       },
@@ -6044,6 +6070,28 @@
       "duration_ms": 165604,
       "name": "Broke Leg (with Quavo & Tyga)",
       "url": "https://open.spotify.com/track/5WJdUrZ4ND1TCZ2AsjYK3P"
+    },
+    {
+      "album": {
+        "name": "BROTHER STONE (FEAT. KODAK BLACK)",
+        "url": "https://open.spotify.com/album/0LWTY98ijfILoFHupcQJKE"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202840,
+      "name": "BROTHER STONE (FEAT. KODAK BLACK)",
+      "url": "https://open.spotify.com/track/0l3raueiJ78IsmZGwo6CRm"
     },
     {
       "album": {
@@ -17731,6 +17779,28 @@
     },
     {
       "album": {
+        "name": "HARDSTONE PSYCHO",
+        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218200,
+      "name": "ICE AGE (FEAT. TRAVIS SCOTT)",
+      "url": "https://open.spotify.com/track/4nhcjelU9PidsBzUkazfZs"
+    },
+    {
+      "album": {
         "name": "Ice Cold",
         "url": "https://open.spotify.com/album/68a11xaUwQJTMyC5af2rJ8"
       },
@@ -19770,7 +19840,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 234946,
       "name": "LA-LA-LA",
       "url": "https://open.spotify.com/track/3BVJ8X4CDBqHzSVePlgary"
@@ -23008,7 +23078,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 119015,
       "name": "Mmhmm",
       "url": "https://open.spotify.com/track/4QTlxavdQGUVitxAvQqqkU"
@@ -23246,7 +23316,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 183037,
       "name": "Monsters Inc. (feat. Future)",
       "url": "https://open.spotify.com/track/22IvmyP4Sy8g9j9Jk6iRL3"
@@ -25652,7 +25722,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-11",
+      "date_removed": null,
       "duration_ms": 137904,
       "name": "Number 2",
       "url": "https://open.spotify.com/track/0g3WQjlhCk9gcIVow4DigI"
@@ -27964,7 +28034,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 139867,
       "name": "PLAY DA FOOL",
       "url": "https://open.spotify.com/track/35ACwDtccFItn9THDDZ7dm"
@@ -34679,6 +34749,24 @@
     },
     {
       "album": {
+        "name": "SportsCenter",
+        "url": "https://open.spotify.com/album/6JDj9XoiUTI8PfbvAX8K2W"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143092,
+      "name": "SportsCenter",
+      "url": "https://open.spotify.com/track/0ouOFAkST5sCy2f2XLJHdP"
+    },
+    {
+      "album": {
         "name": "Sprinter",
         "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
       },
@@ -35920,7 +36008,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 207000,
       "name": "Sunday Service (feat. Megan Thee Stallion & Flo Milli)",
       "url": "https://open.spotify.com/track/7unrQrmU8i2Roc1Dkj0ST2"
@@ -36568,6 +36656,24 @@
       "duration_ms": 160725,
       "name": "T.O.P.",
       "url": "https://open.spotify.com/track/0C0H3ceDDykj8FQR51gMZP"
+    },
+    {
+      "album": {
+        "name": "SPEAK NOW",
+        "url": "https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168272,
+      "name": "TABOO MIAMI",
+      "url": "https://open.spotify.com/track/1v97VrHrfBJwJ1HWaWZvIY"
     },
     {
       "album": {

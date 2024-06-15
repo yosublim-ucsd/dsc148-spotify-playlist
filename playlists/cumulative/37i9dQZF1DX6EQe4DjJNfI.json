@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Beb\u00e9",
+  "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Melly",
   "name": "R&B Brasil",
   "tracks": [
     {
@@ -1364,7 +1364,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 167088,
       "name": "Endless",
       "url": "https://open.spotify.com/track/4egPWmPxPbamKFF71SikGk"
@@ -3242,6 +3242,32 @@
       "duration_ms": 150500,
       "name": "Por Mim J\u00e1 Deu",
       "url": "https://open.spotify.com/track/1YLLdxzhlR4Fac5EL5XKJz"
+    },
+    {
+      "album": {
+        "name": "Porque Me Responde Ainda",
+        "url": "https://open.spotify.com/album/27JH4nsKkUIEbu3ri1EXph"
+      },
+      "artists": [
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Pedrin 31",
+          "url": "https://open.spotify.com/artist/2pjR2u4veZ9FwwBGNhkzyx"
+        },
+        {
+          "name": "Hunter",
+          "url": "https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225566,
+      "name": "Porque Me Responde Ainda",
+      "url": "https://open.spotify.com/track/0MniTeJQje07YTaMbKRlSE"
     },
     {
       "album": {

@@ -320,7 +320,7 @@
       ],
       "date_added": "2021-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 127595,
       "name": "afternoon shower",
       "url": "https://open.spotify.com/track/6Fgzh26G7ZRawCdHBG7BNq"
@@ -6159,6 +6159,28 @@
     },
     {
       "album": {
+        "name": "Night Cruising",
+        "url": "https://open.spotify.com/album/0u5sIKkyupnEQoeTHeG7W0"
+      },
+      "artists": [
+        {
+          "name": "MAHBIE",
+          "url": "https://open.spotify.com/artist/5ggbey9WKiS849lppw8lbs"
+        },
+        {
+          "name": "5OW",
+          "url": "https://open.spotify.com/artist/0JpibIwAjEszA07tpAL164"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92210,
+      "name": "Night Cruising",
+      "url": "https://open.spotify.com/track/1dHfPdc1Vi0lO1uMGyxlfm"
+    },
+    {
+      "album": {
         "name": "Night Lights 2020",
         "url": "https://open.spotify.com/album/5rqqrponuFtxKYusVGzSl2"
       },
@@ -7376,7 +7398,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 173296,
       "name": "Recuring Dream",
       "url": "https://open.spotify.com/track/6dB6YYgBOPtzt37Fa0M8Eh"
@@ -10404,6 +10426,32 @@
       "duration_ms": 212307,
       "name": "You and I",
       "url": "https://open.spotify.com/track/2FE0DuEVku3lEJVgRkcpbm"
+    },
+    {
+      "album": {
+        "name": "zen",
+        "url": "https://open.spotify.com/album/4BF3jUWMuRqxlqp9ZCRaVx"
+      },
+      "artists": [
+        {
+          "name": "TANGDEN",
+          "url": "https://open.spotify.com/artist/2eaGOP1phNaqh5XcjFMjOi"
+        },
+        {
+          "name": "OONOO",
+          "url": "https://open.spotify.com/artist/3N0ZLLAp4RBTBt2zMlRUiw"
+        },
+        {
+          "name": "botanik",
+          "url": "https://open.spotify.com/artist/0KvCRbWbiJwKJWTYGrKi81"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157985,
+      "name": "zen",
+      "url": "https://open.spotify.com/track/5jpqTv9D0BFsaYa0SkMbNx"
     },
     {
       "album": {

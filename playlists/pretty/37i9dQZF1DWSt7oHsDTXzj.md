@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 
 > The ultimate seasonal \(indie\) playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,255 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,235 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 71 | [Christmas \(Baby Please Come Home\) \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/track/5PZYjlwLznLOjHXIHJpyHa) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Christmas \(Baby Please Come Home\) \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/album/7L7nmx23fd3TOd2DlqvZGF) | 3:23 |
 | 72 | [Boxing Day Blues \(Revisited\)](https://open.spotify.com/track/1MRr1ivNucqEBjHBMgDFjA) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Boxing Day Blues \(Revisited\)](https://open.spotify.com/album/1IO428uiETHUFmPRjme2ff) | 2:47 |
 | 73 | [Christmas Alone](https://open.spotify.com/track/4hJFuXWtyhwqsSUK5jQwgN) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Christmas Alone](https://open.spotify.com/album/79hu3uFCBKDcWsHzGVYTim) | 3:35 |
-| 74 | [The Christmas Waltz](https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd) | 2:47 |
-| 75 | [Auld Lang Syne](https://open.spotify.com/track/1csVCmVSxMwc9wbL0j54hW) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Auld Lang Syne](https://open.spotify.com/album/5kJSx4MUPIidcP4DZNRzfu) | 3:12 |
+| 74 | [Auld Lang Syne](https://open.spotify.com/track/1csVCmVSxMwc9wbL0j54hW) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Auld Lang Syne](https://open.spotify.com/album/5kJSx4MUPIidcP4DZNRzfu) | 3:12 |
+| 75 | [The Christmas Waltz](https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd) | 2:47 |
 
 Snapshot ID: `ZZW+XwAAAAD3AsqdpNghRASW1N9r1q4f`

@@ -1136,7 +1136,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 237244,
       "name": "CRY",
       "url": "https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r"
@@ -6520,6 +6520,24 @@
       "duration_ms": 201666,
       "name": "Still Alive",
       "url": "https://open.spotify.com/track/6op7RGEgw2gs49M87Uct2p"
+    },
+    {
+      "album": {
+        "name": "Human Decency",
+        "url": "https://open.spotify.com/album/7wASaUQhuevPwNzNICAvGG"
+      },
+      "artists": [
+        {
+          "name": "Sugaray Rayford",
+          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246149,
+      "name": "Strawberry Hill",
+      "url": "https://open.spotify.com/track/3xpMvP8XgTxR1k4p0AEZxg"
     },
     {
       "album": {

@@ -6,8 +6,52 @@
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAZbLm/NyuP1qchO7OVimJl2R+Sgct2",
+  "snapshot_id": "AAAZbt6ZlwsVCP4sfxQyd8QyL6iZ+q9L",
   "tracks": [
+    {
+      "added_at": "2024-06-14 16:34:30",
+      "album": {
+        "name": "Warp 1.9 (feat. Steve Aoki) [Westend & Cherry Tooth Remix]",
+        "url": "https://open.spotify.com/album/7qCVuPyIdosx8QkFxuINON"
+      },
+      "artists": [
+        {
+          "name": "The Bloody Beetroots",
+          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        },
+        {
+          "name": "Cherry Tooth",
+          "url": "https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv"
+        }
+      ],
+      "duration_ms": 167076,
+      "name": "Warp 1.9 (feat. Steve Aoki) - Westend & Cherry Tooth Remix",
+      "url": "https://open.spotify.com/track/4g3rjdS9GGPsCQ9u3uEweZ"
+    },
+    {
+      "added_at": "2024-06-14 16:35:00",
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1Kt1WTwr9aBh3MRk2xXzaV"
+      },
+      "artists": [
+        {
+          "name": "Callie Reiff",
+          "url": "https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy"
+        }
+      ],
+      "duration_ms": 125809,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/3vh0XSibnAhcCvF4JR6bEl"
+    },
     {
       "added_at": "2024-06-07 17:49:14",
       "album": {
@@ -152,7 +196,7 @@
           "url": "https://open.spotify.com/artist/4RXraxMiBQjbq7hiy8F2aw"
         }
       ],
-      "duration_ms": 146000,
+      "duration_ms": 146239,
       "name": "Feel The Sun (feat. Conor McLoughlin)",
       "url": "https://open.spotify.com/track/1qrp1bnCoZR6Gh8B1CLvn0"
     },

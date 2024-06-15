@@ -1,28 +1,48 @@
 {
   "description": "Our favorite subject? Their chemistry. Listen to the music from Maxton Hall: The World Between Us, now streaming on Prime Video.",
-  "num_followers": 47143,
+  "num_followers": 47633,
   "original_name": "Maxton Hall Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmNdfwAAAAAz7wC96X+MeUyN74cgfYQe",
+  "snapshot_id": "ZmzIHAAAAACD0c3IdC8f7hC3Vyx58jz0",
   "tracks": [
     {
-      "added_at": "2024-06-07 19:19:42",
+      "added_at": "2024-06-06 18:25:38",
       "album": {
-        "name": "Sea of Love",
-        "url": "https://open.spotify.com/album/3pC4dLfRhyk390dtRq4cpa"
+        "name": "Moth To A Flame",
+        "url": "https://open.spotify.com/album/5KAcRZdtpHXQb3OmYGvpgX"
       },
       "artists": [
         {
-          "name": "Eli Riccardi",
-          "url": "https://open.spotify.com/artist/2sAsWXrp3h7Co0Nkwh5Wxg"
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 188573,
-      "name": "Sea of Love - Extended Album Version - from \"Maxton Hall\"",
-      "url": "https://open.spotify.com/track/2VezVJwF8oW67QTS5SB8E2"
+      "duration_ms": 234000,
+      "name": "Moth To A Flame (with The Weeknd)",
+      "url": "https://open.spotify.com/track/7kfOEMJBJwdCYqyJeEnNhr"
+    },
+    {
+      "added_at": "2024-06-06 18:25:38",
+      "album": {
+        "name": "SYML",
+        "url": "https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Where's My Love",
+      "url": "https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn"
     },
     {
       "added_at": "2024-06-06 18:25:38",
@@ -67,42 +87,6 @@
     {
       "added_at": "2024-06-06 18:25:38",
       "album": {
-        "name": "SYML",
-        "url": "https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Where's My Love",
-      "url": "https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn"
-    },
-    {
-      "added_at": "2024-06-06 18:25:38",
-      "album": {
-        "name": "Moth To A Flame",
-        "url": "https://open.spotify.com/album/5KAcRZdtpHXQb3OmYGvpgX"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Moth To A Flame (with The Weeknd)",
-      "url": "https://open.spotify.com/track/7kfOEMJBJwdCYqyJeEnNhr"
-    },
-    {
-      "added_at": "2024-06-06 18:25:38",
-      "album": {
         "name": "Change",
         "url": "https://open.spotify.com/album/6TckaHJU35tlFUy57USHAB"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 216218,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/3aMyQSDW0DJ7LTOkrd29hU"
+    },
+    {
+      "added_at": "2024-06-07 19:19:42",
+      "album": {
+        "name": "Sea of Love",
+        "url": "https://open.spotify.com/album/3pC4dLfRhyk390dtRq4cpa"
+      },
+      "artists": [
+        {
+          "name": "Eli Riccardi",
+          "url": "https://open.spotify.com/artist/2sAsWXrp3h7Co0Nkwh5Wxg"
+        }
+      ],
+      "duration_ms": 188573,
+      "name": "Sea of Love - Extended Album Version - from \"Maxton Hall\"",
+      "url": "https://open.spotify.com/track/2VezVJwF8oW67QTS5SB8E2"
     },
     {
       "added_at": "2024-06-06 18:25:38",
@@ -335,6 +335,38 @@
       "duration_ms": 382880,
       "name": "November",
       "url": "https://open.spotify.com/track/6tHPSEdxp6g2Ntur8nANYt"
+    },
+    {
+      "added_at": "2024-06-14 22:45:48",
+      "album": {
+        "name": "Maxton Hall: The World Between Us (Season 1) - Deluxe Ballroom (Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/5MR2TI6Fr1ZpLyMtByltEf"
+      },
+      "artists": [
+        {
+          "name": "songs in cinema",
+          "url": "https://open.spotify.com/artist/23BjnFsuLGv1a5TNFqmSP6"
+        }
+      ],
+      "duration_ms": 246853,
+      "name": "What Do You Want? - Extended Album Version - from \"Maxton Hall\"",
+      "url": "https://open.spotify.com/track/7DUyCInIM72RLkpSWdG0Ji"
+    },
+    {
+      "added_at": "2024-06-14 22:45:48",
+      "album": {
+        "name": "Maxton Hall: The World Between Us (Season 1) - Deluxe Ballroom (Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/5MR2TI6Fr1ZpLyMtByltEf"
+      },
+      "artists": [
+        {
+          "name": "songs in cinema",
+          "url": "https://open.spotify.com/artist/23BjnFsuLGv1a5TNFqmSP6"
+        }
+      ],
+      "duration_ms": 127173,
+      "name": "Saying Sorry - Extended Album Version - from \"Maxton Hall\"",
+      "url": "https://open.spotify.com/track/5gqiluyebGVDSjRRfXOQcH"
     },
     {
       "added_at": "2024-06-06 18:25:38",

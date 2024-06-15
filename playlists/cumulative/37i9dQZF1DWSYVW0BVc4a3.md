@@ -4,7 +4,7 @@
 
 > one life
 
-946 songs - 2 day 23 hr 42 min
+947 songs - 2 day 23 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -582,6 +582,7 @@
 | [On Call](https://open.spotify.com/track/2ql1QG6dYm78woKX6FvA0H) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [On Call](https://open.spotify.com/album/4IqJ3D2b8mujlL8z0aHeEX) | 4:27 | 2022-08-18 | 2022-11-11 |
 | [On The Line \- Estiva Club Mix](https://open.spotify.com/track/1mmvNvYV7JWOn6x0jbcIda) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE) | [On The Line \(Estiva Club Mix\)](https://open.spotify.com/album/4HwHXGHkpgUyiD2t3Hqzzb) | 4:17 | 2023-08-24 | 2023-09-08 |
 | [On Your Mind](https://open.spotify.com/track/5lipO9xkC68LREHy8kBPJH) | [RDGO](https://open.spotify.com/artist/6UZEErPAl6SmBfodfX4U8c) | [On Your Mind](https://open.spotify.com/album/14tIN4y03x4Zjv4XmY5teq) | 3:03 | 2023-09-28 | 2023-10-13 |
+| [Only Love](https://open.spotify.com/track/5lzoAofjjMVqeB3CLEzah4) | [OLING](https://open.spotify.com/artist/2saqEnwA5wcTmHPpvVM1cv) | [Only Love](https://open.spotify.com/album/1asQljRHSidWiazVxe3Bud) | 3:35 | 2024-06-14 |  |
 | [Only You](https://open.spotify.com/track/6xAGaIRVA3rddnDzzjsb5u) | [Max Kaluza](https://open.spotify.com/artist/6lNLgymfWudNsbC0Vio7Qi) | [Picture Perfect EP](https://open.spotify.com/album/0C6LlsjVraJSPkdLZAsMhf) | 2:40 | 2024-02-22 |  |
 | [Only You \- &ME Remix](https://open.spotify.com/track/6Pot7RIYFgzOOadIG1IMBv) | [UNKLE](https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC), [Miink](https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg), [Wil Malone](https://open.spotify.com/artist/7jzCxvaCAS6u8iivGjTVOl), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [Only You \(&ME Remix\)](https://open.spotify.com/album/3L34LelOyPZKhF3ydzYviM) | 7:14 | 2024-05-16 |  |
 | [Only You \- STANY & Tchami Remix](https://open.spotify.com/track/0GVUoXiYKM7PjTFEXGA4Yc) | [STANY](https://open.spotify.com/artist/35DTcB1iUsRZKcmTn9PVPg), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Only You \(STANY & Tchami Remix\)](https://open.spotify.com/album/2UKl4Kzb5rWJuqgfOGG5Vk) | 3:10 | 2022-12-01 | 2023-01-27 |

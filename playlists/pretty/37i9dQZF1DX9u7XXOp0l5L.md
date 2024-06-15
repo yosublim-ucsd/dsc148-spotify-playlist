@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9u7XXOp0l5L.md) - [plain]
 
 > Voel je goed met deze tijdloze Happy Tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,831 likes - 125 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,821 likes - 125 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

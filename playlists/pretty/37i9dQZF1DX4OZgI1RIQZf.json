@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 88370,
+  "num_followers": 88425,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
+        "name": "MORBID FASCINATION",
+        "url": "https://open.spotify.com/album/3QMNASdVriKoYo0LZPr2Vq"
+      },
+      "artists": [
+        {
+          "name": "Blood Red Shoes",
+          "url": "https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR"
+        }
+      ],
+      "duration_ms": 226622,
+      "name": "MORBID FASCINATION",
+      "url": "https://open.spotify.com/track/5cZQ33YXXZgLXwc0egqPl3"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
         "name": "In Ghost Colours",
         "url": "https://open.spotify.com/album/56YFlkW3xQdHKel5VzPvv9"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 217880,
       "name": "Skeleton Dance",
       "url": "https://open.spotify.com/track/2Un5ghpSnfy4gRnun3pUTn"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
-        "name": "MORBID FASCINATION",
-        "url": "https://open.spotify.com/album/3QMNASdVriKoYo0LZPr2Vq"
-      },
-      "artists": [
-        {
-          "name": "Blood Red Shoes",
-          "url": "https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR"
-        }
-      ],
-      "duration_ms": 226622,
-      "name": "MORBID FASCINATION",
-      "url": "https://open.spotify.com/track/5cZQ33YXXZgLXwc0egqPl3"
     },
     {
       "added_at": "2023-10-27 07:45:00",

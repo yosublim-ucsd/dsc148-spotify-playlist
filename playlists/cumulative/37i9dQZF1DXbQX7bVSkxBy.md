@@ -2,13 +2,14 @@
 
 ### [Testify](https://open.spotify.com/playlist/37i9dQZF1DXbQX7bVSkxBy)
 
-> Raise a voice and testify the goodness of God\.  Cover:  <a href=https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX?si=SwbM2mXVT2WiJ3\-L3INptQ>Theresa Phondo</a>
+> Raise a voice and testify the goodness of God\.  Cover:  <a href=https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5?si=5CauwnTERYi6GqA2Gw\-zFA>K3ndrick</a>
 
-289 songs - 23 hr 50 min
+290 songs - 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A New Thing](https://open.spotify.com/track/1lzFtxdNGEUf3mWeqb6aBi) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [A New Thing](https://open.spotify.com/album/5e2Kuvl2v660idmQZMzXVz) | 3:37 | 2023-12-29 | 2024-03-01 |
+| [Accolades](https://open.spotify.com/track/5EX25veDDRIaA0szBnf4YP) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Accolades](https://open.spotify.com/album/2TST6huMqbrXt3N2GaCIIm) | 2:38 | 2024-06-14 |  |
 | [Adonai](https://open.spotify.com/track/7axctArGc7dtaEJSl3IZge) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Names of God](https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF) | 8:31 | 2023-04-07 | 2024-05-09 |
 | [Adore You](https://open.spotify.com/track/1tLgZAYwJ3nzoJaCgyAj4I) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Nicole Muwanguzi](https://open.spotify.com/artist/4VxJ2U3lwbVzELpy79S03b) | [Adore You](https://open.spotify.com/album/5GV2IQqxEByoiovHXo3FsK) | 2:46 | 2024-03-08 | 2024-03-29 |
 | [Afayo](https://open.spotify.com/track/7a1hq80YixqQiDqCKC2uHc) | [Kaydee Numbere](https://open.spotify.com/artist/6KgXR7hwo14wRciu1TF0ZF), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [The Heirloom](https://open.spotify.com/album/1FunCx5cBfAALXrEKOl4B7) | 3:29 | 2023-12-05 | 2023-12-13 |
@@ -114,7 +115,7 @@
 | [Grateful](https://open.spotify.com/track/7IGCwf8COqsDoZsD8Lz5NT) | [Romeo ThaGreatwhite](https://open.spotify.com/artist/0BREQB4X1tJY2UXIndTzew), [Prifix](https://open.spotify.com/artist/1p9ME7SCoyUhTchumQvPNm) | [Grateful](https://open.spotify.com/album/6DMGM2y7j46To04if4jIam) | 5:04 | 2023-06-16 | 2023-06-30 |
 | [Grave Robber](https://open.spotify.com/track/1AuNDsNLc7b3tApnlyaGdy) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Grave Robber](https://open.spotify.com/album/0wB9OS3MOqEHXAfxEbk5Px) | 2:50 | 2023-12-29 |  |
 | [Greatest](https://open.spotify.com/track/4RGma6BvBMPUlES6oAVubZ) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [RADICAL](https://open.spotify.com/album/1Wo57u7paNfHF6mFD0W2wE) | 3:08 | 2023-10-20 | 2023-11-25 |
-| [Hallelujah](https://open.spotify.com/track/3FqpxUbn5Glawznnl9caTu) | [Mairos](https://open.spotify.com/artist/6magWqKDY1pnK2maOgtH6s), [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy), [WINNER WAYS.](https://open.spotify.com/artist/29L1pzmDzW3P2FmQBovIFK) | [Hallelujah](https://open.spotify.com/album/5XGwrJRQsdJDppW2j1anx6) | 3:17 | 2024-04-26 |  |
+| [Hallelujah](https://open.spotify.com/track/3FqpxUbn5Glawznnl9caTu) | [Mairos](https://open.spotify.com/artist/6magWqKDY1pnK2maOgtH6s), [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy), [WINNER WAYS.](https://open.spotify.com/artist/29L1pzmDzW3P2FmQBovIFK) | [Hallelujah](https://open.spotify.com/album/5XGwrJRQsdJDppW2j1anx6) | 3:17 | 2024-04-26 | 2024-06-15 |
 | [Hallelujah \(feat\. Sini Dagana\) \[Gyration Version\]](https://open.spotify.com/track/22iQ6kNERAFyCOzzhM161U) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0), [Sini Dagana](https://open.spotify.com/artist/4Qe3zkPW4YTQrde2Ef0dJb) | [Hallelujah \(feat\. Sini Dagana\) \[Gyration Version\]](https://open.spotify.com/album/2anNLVL6hppIExTm0C9IYm) | 2:18 | 2023-06-23 | 2023-10-07 |
 | [He Did It Again](https://open.spotify.com/track/3DnfU6JmmoKV4YK9gzCrk6) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [He Did It Again](https://open.spotify.com/album/4VXAAa1nfnwGBFvMAZLUbZ) | 5:03 | 2023-04-07 | 2023-07-28 |
 | [He Fights For Me](https://open.spotify.com/track/5vQM35aV3Q7tXdITJgc8wi) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Grace Omosebi](https://open.spotify.com/artist/0MjHUPDq9KVCCqjAcTdVRQ), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [HEAVEN HAS COME](https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz) | 6:19 | 2023-05-19 | 2023-08-15 |

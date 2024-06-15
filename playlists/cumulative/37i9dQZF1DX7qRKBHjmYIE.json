@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Alvaro Diaz.",
+  "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Sexy Pigeon.",
   "name": "Mixto",
   "tracks": [
     {
@@ -2199,6 +2199,24 @@
     },
     {
       "album": {
+        "name": "cielo dorado",
+        "url": "https://open.spotify.com/album/2gBXxUuHufZAhud4hD4wnX"
+      },
+      "artists": [
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177386,
+      "name": "cielo dorado",
+      "url": "https://open.spotify.com/track/0ZkB37rQ8hYoSnDobrVyGo"
+    },
+    {
+      "album": {
         "name": "cielo violeta",
         "url": "https://open.spotify.com/album/4ALW8npMQxUxWmBkOvhTUK"
       },
@@ -4307,6 +4325,28 @@
     },
     {
       "album": {
+        "name": "Fall in Love Again",
+        "url": "https://open.spotify.com/album/7EmZg8OHcqPeofIuV3bPFa"
+      },
+      "artists": [
+        {
+          "name": "Sexy Pigeon",
+          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
+        },
+        {
+          "name": "Adriel Rivera",
+          "url": "https://open.spotify.com/artist/136zvqW4jnDAaw5m5fUg73"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137872,
+      "name": "Fall in Love Again",
+      "url": "https://open.spotify.com/track/2MW6Yui61LO7dLjakQHN2C"
+    },
+    {
+      "album": {
         "name": "Young In California",
         "url": "https://open.spotify.com/album/1reYO7vImj6L4ZshyK9qZP"
       },
@@ -5484,7 +5524,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 184795,
       "name": "Hielo",
       "url": "https://open.spotify.com/track/1buOWQg3BhMC5SNp1eeTPq"
@@ -9682,7 +9722,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 161142,
       "name": "Ojos Papel",
       "url": "https://open.spotify.com/track/30OksLi7GCTqAc3KXwu3Ds"

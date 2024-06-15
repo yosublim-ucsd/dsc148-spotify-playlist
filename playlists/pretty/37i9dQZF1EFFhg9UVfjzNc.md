@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5JjUlPENcVZsqsYpaLmlDl">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 799 likes - 80 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 800 likes - 80 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 70 | [Jesus](https://open.spotify.com/track/2CKVeV4XTiDJzJ6QhLJdMh) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 5:00 |
 | 71 | [Nada Vai Nos Separar](https://open.spotify.com/track/6SpfklfmEgkO0ZlZ0szMDJ) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 4:01 |
 | 72 | [Eu Vou](https://open.spotify.com/track/7bBZWejBWjegNDZpdK5GkK) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Eu Vou](https://open.spotify.com/album/3VwjA6TL1mFL87K3My04VA) | 2:13 |
-| 73 | [A Ti](https://open.spotify.com/track/4xHBqxLXbwemwOnHKfIFjU) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 5:33 |
-| 74 | [Alegria / Sou Feliz \- Ao Vivo](https://open.spotify.com/track/6T2z10MblimUkS2tjzYOdz) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn) | [Alegria / Sou Feliz \(Ao Vivo\)](https://open.spotify.com/album/1Ry58rPrrFXc4EjYhLzyZW) | 8:22 |
+| 73 | [Alegria / Sou Feliz \- Ao Vivo](https://open.spotify.com/track/6T2z10MblimUkS2tjzYOdz) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn) | [Alegria / Sou Feliz \(Ao Vivo\)](https://open.spotify.com/album/1Ry58rPrrFXc4EjYhLzyZW) | 8:22 |
+| 74 | [A Ti](https://open.spotify.com/track/4xHBqxLXbwemwOnHKfIFjU) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 5:33 |
 | 75 | [Exemplo de Maria](https://open.spotify.com/track/460pUpGhBdWKY8t2balfG4) | [Simone Medeiros](https://open.spotify.com/artist/07Ax7WxyKbSR0aIFGzalA5) | [Deixa\-Te Modelar](https://open.spotify.com/album/06sZ6iCaL7EV1HOy8bFGhq) | 4:19 |
 | 76 | [Anseio por Ti](https://open.spotify.com/track/2W12vYVznKRTuW34TM2j0V) | [Simone Medeiros](https://open.spotify.com/artist/07Ax7WxyKbSR0aIFGzalA5) | [Deixa\-Te Modelar](https://open.spotify.com/album/06sZ6iCaL7EV1HOy8bFGhq) | 7:17 |
 | 77 | [Digno É O Cordeiro • BRAVE Night \- Ao Vivo](https://open.spotify.com/track/5LVhsXEMFeYNzgo6KWUB3z) | [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h), [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM), [Juliana Kontopp](https://open.spotify.com/artist/4wI3Jgf2m5qf5Zb76UzP0J) | [Digno É O Cordeiro • BRAVE Night \(Ao Vivo\)](https://open.spotify.com/album/6POG9vscV9bFOsyGNRIQCW) | 9:51 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 79 | [Espontâneo](https://open.spotify.com/track/6kmm2XHqCC0RwFhidwOv8Y) | [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Lugar Secreto • Vol\. 1](https://open.spotify.com/album/5oyeR5JZwaJZdH4yijAyVn) | 19:07 |
 | 80 | [Esperança \(feat\. Davidson Silva\)](https://open.spotify.com/track/1CiCxfOQ10xtiQIaTBDCeQ) | [Simone Medeiros](https://open.spotify.com/artist/07Ax7WxyKbSR0aIFGzalA5), [Davidson Silva](https://open.spotify.com/artist/0OdUgZgZEJmXDCkHYqh05z) | [Deixa\-Te Modelar](https://open.spotify.com/album/06sZ6iCaL7EV1HOy8bFGhq) | 6:29 |
 
-Snapshot ID: `AbT+jAAAAABqJnLM3k0nC9d42F53vUcZ`
+Snapshot ID: `AbUELAAAAADcmIE3hvQ4XfMDVKpxPKk2`

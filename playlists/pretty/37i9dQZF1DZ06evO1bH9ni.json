@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dos Carnales. The essential tracks, all in one playlist.",
-  "num_followers": 321946,
+  "num_followers": 322023,
   "original_name": "This Is Los Dos Carnales",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjlAAAAAABoYUA05nM1n4hFEkJqpyHo",
+  "snapshot_id": "Zmo2gAAAAAD47LhzLOgrWgbd02qGSzdq",
   "tracks": [
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos Arrieros",
-        "url": "https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 178509,
-      "name": "Somos Arrieros",
-      "url": "https://open.spotify.com/track/5fbpA0qTcTDd4I5h39ox4a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los de 100pre",
         "url": "https://open.spotify.com/album/2AwaZiiZiKE7r6SCGA7kzW"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 187156,
       "name": "Gracias a Ti",
       "url": "https://open.spotify.com/track/3xYQaGd5f4yX4ceJ2GylKz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somos Arrieros",
+        "url": "https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 178509,
+      "name": "Somos Arrieros",
+      "url": "https://open.spotify.com/track/5fbpA0qTcTDd4I5h39ox4a"
     },
     {
       "added_at": null,
@@ -511,6 +511,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Federal de Caminos",
+        "url": "https://open.spotify.com/album/3S76sDaZy2ioOzhQX2ckOl"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 183756,
+      "name": "El Federal de Caminos",
+      "url": "https://open.spotify.com/track/5gV3vaCDEedjUoFXqI6LGh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cholos al Punto",
         "url": "https://open.spotify.com/album/2cPLZSwKE24J1sZLqzoIg1"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 189769,
       "name": "Me Estoy Acostumbrando",
       "url": "https://open.spotify.com/track/123ZTlYqsFk57j8Q9ge47R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Federal de Caminos",
-        "url": "https://open.spotify.com/album/3S76sDaZy2ioOzhQX2ckOl"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 183756,
-      "name": "El Federal de Caminos",
-      "url": "https://open.spotify.com/track/5gV3vaCDEedjUoFXqI6LGh"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Propina",
-        "url": "https://open.spotify.com/album/5Fe9UKkyuhIZQLkx0MnrqL"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 142013,
-      "name": "La Propina",
-      "url": "https://open.spotify.com/track/3MNizqH3Vgli5czbnBDCie"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Estar\u00e9 Aqu\u00ed",
         "url": "https://open.spotify.com/album/37w7YHhpXOlpSPpiXm4D0b"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 146233,
       "name": "No Estar\u00e9 Aqu\u00ed",
       "url": "https://open.spotify.com/track/3em3YfqWFgBXqwPehgti6l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Propina",
+        "url": "https://open.spotify.com/album/5Fe9UKkyuhIZQLkx0MnrqL"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 142013,
+      "name": "La Propina",
+      "url": "https://open.spotify.com/track/3MNizqH3Vgli5czbnBDCie"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Caminos de la Vida (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 328115,
-      "name": "Los Caminos de la Vida - Spotify Singles",
-      "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como en los Viejos Tiempos",
         "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 137560,
       "name": "El Que Quiere Puede",
       "url": "https://open.spotify.com/track/4MGkZ1KQBirBI04UAo76pn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Caminos de la Vida (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 328115,
+      "name": "Los Caminos de la Vida - Spotify Singles",
+      "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
     },
     {
       "added_at": null,
@@ -787,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos Arrieros",
-        "url": "https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT"
+        "name": "Los de 100pre",
+        "url": "https://open.spotify.com/album/2AwaZiiZiKE7r6SCGA7kzW"
       },
       "artists": [
         {
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 163705,
-      "name": "Mi Profesi\u00f3n",
-      "url": "https://open.spotify.com/track/6vZnpaBquxZQzTZqJrap1B"
+      "duration_ms": 152751,
+      "name": "100pre",
+      "url": "https://open.spotify.com/track/2BM8X3VWHBvPJW0f3FiU77"
     },
     {
       "added_at": null,
@@ -819,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los de 100pre",
-        "url": "https://open.spotify.com/album/2AwaZiiZiKE7r6SCGA7kzW"
+        "name": "Somos Arrieros",
+        "url": "https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 152751,
-      "name": "100pre",
-      "url": "https://open.spotify.com/track/2BM8X3VWHBvPJW0f3FiU77"
+      "duration_ms": 163705,
+      "name": "Mi Profesi\u00f3n",
+      "url": "https://open.spotify.com/track/6vZnpaBquxZQzTZqJrap1B"
     },
     {
       "added_at": null,

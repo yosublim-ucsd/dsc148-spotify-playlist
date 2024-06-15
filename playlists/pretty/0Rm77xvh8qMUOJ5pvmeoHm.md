@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Rm77xvh8qMUOJ5pvmeoHm.md) - [plain]
 
 > Celebrate with these pop &amp; hip\-hop party tracks everyone knows and loves!
 
-[Topsify](https://open.spotify.com/user/topsify) - 180,646 likes - 134 songs - 7 hr 22 min
+[Topsify](https://open.spotify.com/user/topsify) - 180,642 likes - 134 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/0Rm77xvh8qMUOJ5pvmeoHm.md) - [plain]
 | 22 | [Bomb Intro / Pass That Dutch](https://open.spotify.com/track/1MaI6NwdrqnE3mRzOYTpoo) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [This Is Not a Test!](https://open.spotify.com/album/4ffXByMAjLpd25ZyzEJNMK) | 3:37 |
 | 23 | [Talk talk](https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:41 |
 | 24 | [Midnight Ride](https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Midnight Ride](https://open.spotify.com/album/0q0asrBrmBwrRMXeqxDvBY) | 3:31 |
-| 25 | [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 |
+| 25 | [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips \(Deluxe Version\)](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 |
 | 26 | [Lose Control \- Tiësto Remix](https://open.spotify.com/track/2RYgQaCMCglPgiKZe6HHaD) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lose Control \(Tiësto Remix\)](https://open.spotify.com/album/2XvOroKs4BeolSv59e3tbN) | 2:45 |
 | 27 | [BREAK MY SOUL](https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:38 |
 | 28 | [Chase It \(Mmm Da Da Da\)](https://open.spotify.com/track/08APpCYHGsbJ2N9jhRgLQY) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Chase It \(Mmm Da Da Da\)](https://open.spotify.com/album/7LWwnuLW7GNZ8qdw4yPKzN) | 2:34 |

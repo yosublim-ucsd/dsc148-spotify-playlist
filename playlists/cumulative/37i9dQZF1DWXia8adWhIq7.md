@@ -4,7 +4,7 @@
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Luma Elpidio
 
-169 songs - 9 hr 58 min
+170 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Cabelo](https://open.spotify.com/track/71EkYt2dkyADEe2Go8lkum) | [Marias](https://open.spotify.com/artist/6yDG1IZDMLxh1M82PFOLgM), [Nai Lopes](https://open.spotify.com/artist/5t6uGEJEod3b2Lgy5HFN6J), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW) | [Cabelo](https://open.spotify.com/album/0liFFSCDjUALqeKB6HIMGj) | 2:42 | 2024-04-19 |  |
 | [Caminhada](https://open.spotify.com/track/33LKIhveYStd9afVAH9ZNF) | [Leif Bessa](https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV) | [Leif Bessa \- Acústico](https://open.spotify.com/album/0sl4n0h3mwAq085w4VkEYb) | 4:40 | 2022-08-05 |  |
 | [Casulo](https://open.spotify.com/track/74YwOpRL2QlSo4Z1c2XpZs) | [Isabella Lopes](https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds) | [Casulo](https://open.spotify.com/album/4qMEh38ilE4hFKebd2Akva) | 3:39 | 2022-08-05 |  |
+| [CHAVE](https://open.spotify.com/track/7iCASj4hDCB7Zz4mI7JNri) | [Arthur Martins](https://open.spotify.com/artist/1DqIsYBAF5gtBsKQI5dPXd) | [CHAVE](https://open.spotify.com/album/4vY4bNvByOAnpgiMrgoCZ6) | 3:07 | 2024-06-14 |  |
 | [Come and Be My Love](https://open.spotify.com/track/41p6wYPGfrUkUYHgE550c0) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [Come and Be My Love](https://open.spotify.com/album/7cBoHY7VgpIUChSQS59R85) | 2:42 | 2022-08-05 | 2022-10-15 |
 | [Contigo](https://open.spotify.com/track/2z06u1grifKTmzRf48Hbdh) | [Leif Bessa](https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV) | [Contigo](https://open.spotify.com/album/75MMXMPZcSAK8L0Q4QQhk0) | 3:19 | 2022-08-05 |  |
 | [Coração de Aprendiz](https://open.spotify.com/track/5Ua31J3jzDmyO9rP2FhtNy) | [Gabro](https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw) | [Coração de Aprendiz](https://open.spotify.com/album/7allOTOpfqAFglSPhZNnCz) | 5:03 | 2023-02-25 | 2023-03-18 |
@@ -156,7 +157,7 @@
 | [Teu Reino Venha](https://open.spotify.com/track/2xYtgaVWlSpUBDq8BoAynx) | [Cordão de Três](https://open.spotify.com/artist/7KsRO9uCI003Ks8wBTTy88) | [Teu Reino Venha](https://open.spotify.com/album/7AXrbAIoCbiI3ixrnLcCWw) | 3:42 | 2022-08-05 | 2023-12-23 |
 | [Teu Vôo](https://open.spotify.com/track/3s1puxrckxaAKtsqGcHuPD) | [Felipe Vinii](https://open.spotify.com/artist/0ebx928glrq2QKhGJblaTP), [diaszin](https://open.spotify.com/artist/6TegkKajWwBTgIY8N1dv1Z), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Teu Vôo](https://open.spotify.com/album/6rS0qf26llSApDssZvCyX1) | 3:12 | 2023-12-22 |  |
 | [Teus Rios](https://open.spotify.com/track/34EF4hF2gVbSWiTbTXTaPv) | [Gabriela de Sá](https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF) | [Teus Rios](https://open.spotify.com/album/4JgWgUGhqRNes5E5aFpdQL) | 3:14 | 2022-08-05 |  |
-| [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 | 2023-09-01 |  |
+| [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 | 2023-09-01 | 2024-06-15 |
 | [Todo Meu Viver \(Acústico\) \- Ao Vivo](https://open.spotify.com/track/7yjp2QATsMpOhxj7lY4ywv) | [Margem Norte](https://open.spotify.com/artist/1qRtV6ebPkjaHAxXM4Mzi1), [Cristiano Halabi](https://open.spotify.com/artist/6UbiNQAO1m9RvbBx9dSF0M) | [Todo Meu Viver \(Acústico\) \[Ao Vivo\]](https://open.spotify.com/album/1tUx1ptJZcFhPsWjGu6igw) | 3:17 | 2023-07-21 |  |
 | [Todos Um](https://open.spotify.com/track/4Zkub4jUIwCyZItpcykvh8) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Todos Um](https://open.spotify.com/album/0hzqxQ85RBpimlXpp42vUF) | 3:31 | 2022-08-05 | 2023-04-16 |
 | [Tranquilo](https://open.spotify.com/track/6RknNslwpjiHMgO4nKBgsQ) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tranquilo](https://open.spotify.com/album/6a6l1rcXkDIgEeXynqIrxy) | 4:00 | 2022-08-05 |  |

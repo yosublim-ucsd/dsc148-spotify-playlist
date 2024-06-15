@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: Ela Minus",
+  "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: Avey Tare",
   "name": "Domino Sound System",
   "tracks": [
     {
@@ -3582,6 +3582,24 @@
       "duration_ms": 174133,
       "name": "Date Night",
       "url": "https://open.spotify.com/track/7zQkwd2nzVq1EYn2bxkuyo"
+    },
+    {
+      "album": {
+        "name": "POPtical Illusion",
+        "url": "https://open.spotify.com/album/4Y47DeNLz30h7AyLtGdqtT"
+      },
+      "artists": [
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255657,
+      "name": "Davies and Wales",
+      "url": "https://open.spotify.com/track/5eNdtVT6h1Sr7Q6xdv5Ptu"
     },
     {
       "album": {

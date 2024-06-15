@@ -2147,6 +2147,24 @@
     },
     {
       "album": {
+        "name": "DELTA",
+        "url": "https://open.spotify.com/album/6jrRtiZ11ETv5ercTeB2gH"
+      },
+      "artists": [
+        {
+          "name": "DJ FKU",
+          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172067,
+      "name": "DELTA",
+      "url": "https://open.spotify.com/track/5NcT6HWiBiETs1mTFYXR1U"
+    },
+    {
+      "album": {
         "name": "Demnuhbad",
         "url": "https://open.spotify.com/album/4NnK9RjEAOOxk5rHtutkBH"
       },
@@ -6988,6 +7006,28 @@
       "duration_ms": 185333,
       "name": "Nocturnal",
       "url": "https://open.spotify.com/track/0KzdemS6NXcJks5chfvN1J"
+    },
+    {
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/1Ft5RQT1Yqwy4KNRR57Ack"
+      },
+      "artists": [
+        {
+          "name": "Janji",
+          "url": "https://open.spotify.com/artist/5VXPJC0PNpJbzB10A39G8E"
+        },
+        {
+          "name": "Johnning",
+          "url": "https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/1CeWw5m1PvJOAxtO6x9fD4"
     },
     {
       "album": {

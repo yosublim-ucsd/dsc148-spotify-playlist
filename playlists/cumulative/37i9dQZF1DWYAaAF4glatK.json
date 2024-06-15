@@ -660,7 +660,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
@@ -1840,7 +1840,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 164256,
       "name": "Flava (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/3VDpWtgUilVuM2WICHgr9n"
@@ -1942,7 +1942,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-07",
+      "date_removed": null,
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
@@ -1968,7 +1968,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 230513,
       "name": "Gata Only (Remix)",
       "url": "https://open.spotify.com/track/0JGTfiC4Z41GEEpMYLbWwO"
@@ -2135,6 +2135,24 @@
     },
     {
       "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227239,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z"
+    },
+    {
+      "album": {
         "name": "House For Kings",
         "url": "https://open.spotify.com/album/4Zligq6DUjH3Z2bbVAjgpL"
       },
@@ -2276,7 +2294,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 173360,
       "name": "I Can Feel",
       "url": "https://open.spotify.com/track/3XxTXTFjmqQEOWXT3sfusp"
@@ -2404,7 +2422,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 188143,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX"
@@ -2890,7 +2908,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
@@ -2930,6 +2948,24 @@
       "duration_ms": 195659,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/1gno4JrQywuxvuMLNmufoP"
+    },
+    {
+      "album": {
+        "name": "Love Me JeJe",
+        "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178041,
+      "name": "Love Me JeJe",
+      "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
     },
     {
       "album": {
@@ -3075,6 +3111,28 @@
     },
     {
       "album": {
+        "name": "Miles On It",
+        "url": "https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168355,
+      "name": "Miles On It",
+      "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
+    },
+    {
+      "album": {
         "name": "Miracle (with Ellie Goulding)",
         "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
       },
@@ -3153,6 +3211,24 @@
     },
     {
       "album": {
+        "name": "Multiply",
+        "url": "https://open.spotify.com/album/0aniMlLzu8HCWo6wXDgh75"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148135,
+      "name": "Multiply",
+      "url": "https://open.spotify.com/track/0d8qNWRwQafcOXAyw6FxiB"
+    },
+    {
+      "album": {
         "name": "SURRENDER",
         "url": "https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D"
       },
@@ -3193,6 +3269,28 @@
     },
     {
       "album": {
+        "name": "Hyperdrama",
+        "url": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266493,
+      "name": "Neverender",
+      "url": "https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn"
+    },
+    {
+      "album": {
         "name": "Nous on sait",
         "url": "https://open.spotify.com/album/3EGRF8H44EsCxzcqwp1UQx"
       },
@@ -3204,7 +3302,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 182546,
       "name": "Nous on sait",
       "url": "https://open.spotify.com/track/2daxxajwTWuKX0LW2B9sgL"
@@ -3270,7 +3368,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 161276,
       "name": "One By One (feat. Oaks)",
       "url": "https://open.spotify.com/track/2D1P2Y9RUxZW2Ch9A1rwHA"
@@ -3456,6 +3554,28 @@
       "duration_ms": 202760,
       "name": "People (feat. Becky G)",
       "url": "https://open.spotify.com/track/40OZkN8qle7lxaovVrn1QY"
+    },
+    {
+      "album": {
+        "name": "People of the Sun",
+        "url": "https://open.spotify.com/album/5hrHrFwkBxFvyYOw4nPdxQ"
+      },
+      "artists": [
+        {
+          "name": "Boris Way",
+          "url": "https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis"
+        },
+        {
+          "name": "LAWRENT",
+          "url": "https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130076,
+      "name": "People of the Sun",
+      "url": "https://open.spotify.com/track/5GaXT2QZkhKyzovjKDwiyh"
     },
     {
       "album": {
@@ -4926,12 +5046,12 @@
           "url": "https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd"
         },
         {
-          "name": "Alonzo",
-          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
-        },
-        {
           "name": "Zaho",
           "url": "https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o"
+        },
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
         }
       ],
       "date_added": "2024-04-04",
@@ -5086,6 +5206,24 @@
       "duration_ms": 225431,
       "name": "Waves",
       "url": "https://open.spotify.com/track/0YbFEoJi7Esa7lhIrEpBjl"
+    },
+    {
+      "album": {
+        "name": "Wayeh",
+        "url": "https://open.spotify.com/album/4DvrgdEh0hGPDxR02sNkUV"
+      },
+      "artists": [
+        {
+          "name": "THEODORT",
+          "url": "https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150733,
+      "name": "Wayeh",
+      "url": "https://open.spotify.com/track/037wIgLisUOMSRfLRrB38O"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT46DLgeBxAh.md) - [plain]
 
 > Una mezcla sabrosa, picosita y refrescante.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,492 likes - 125 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,650 likes - 125 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

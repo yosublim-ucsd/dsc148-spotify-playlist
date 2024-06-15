@@ -791,6 +791,32 @@
     },
     {
       "album": {
+        "name": "Bhai Hai",
+        "url": "https://open.spotify.com/album/030XdUEQhiS5NI7hgvgLap"
+      },
+      "artists": [
+        {
+          "name": "Fotty Seven",
+          "url": "https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA"
+        },
+        {
+          "name": "Bali",
+          "url": "https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8"
+        },
+        {
+          "name": "Enzo",
+          "url": "https://open.spotify.com/artist/0QX0UY2UJtnhfEbqUbTz6h"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144375,
+      "name": "Bhai Hai",
+      "url": "https://open.spotify.com/track/0z2xoirJvVGRDXoBxaH9h8"
+    },
+    {
+      "album": {
         "name": "Bhussi",
         "url": "https://open.spotify.com/album/1bRdFGU7FkyGzJdODQz3dj"
       },
@@ -1960,7 +1986,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 200000,
       "name": "Fariyaad",
       "url": "https://open.spotify.com/track/4ahaAYEKy3CcQiMWJ6IXRP"
@@ -2826,7 +2852,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 146712,
       "name": "HOUSEPHULL!",
       "url": "https://open.spotify.com/track/3QZVea80dqvsQEtmewjP2J"
@@ -4214,7 +4240,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 124814,
       "name": "Mastr Mynd",
       "url": "https://open.spotify.com/track/0vpv0yQg712JHunwmnC0Dw"
@@ -4497,6 +4523,24 @@
     },
     {
       "album": {
+        "name": "Muqabala (Original)",
+        "url": "https://open.spotify.com/album/7tDMY7h7sc9QOM5SpenJJm"
+      },
+      "artists": [
+        {
+          "name": "The Ranjha",
+          "url": "https://open.spotify.com/artist/23gh7bRgR4erlbpfArCjOF"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Muqabala (Original)",
+      "url": "https://open.spotify.com/track/1xbINZWX2G5PXnYLQ3O6WO"
+    },
+    {
+      "album": {
         "name": "My Time",
         "url": "https://open.spotify.com/album/13HeMZSSyKhXyvEAA8C6fh"
       },
@@ -4570,7 +4614,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 171500,
       "name": "Naam Mera Young Nik",
       "url": "https://open.spotify.com/track/6cg3mBodjqwLr0zGmemoz2"
@@ -4644,6 +4688,28 @@
       "duration_ms": 240000,
       "name": "NGL",
       "url": "https://open.spotify.com/track/58h9f4lWnyLPIwqucWydxj"
+    },
+    {
+      "album": {
+        "name": "NISHANI",
+        "url": "https://open.spotify.com/album/5YGg7k9HioYHeUDJtms8k7"
+      },
+      "artists": [
+        {
+          "name": "Rishi Roy",
+          "url": "https://open.spotify.com/artist/1CPC6yBRVnK1WxibuqwNNH"
+        },
+        {
+          "name": "Dabzee",
+          "url": "https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168048,
+      "name": "NISHANI",
+      "url": "https://open.spotify.com/track/7ku3rPm8SXmRRaI6x3GGBa"
     },
     {
       "album": {
@@ -4914,6 +4980,28 @@
       "duration_ms": 191063,
       "name": "Pareshan",
       "url": "https://open.spotify.com/track/5zZw9o1mzzBLpXOACJ2RkV"
+    },
+    {
+      "album": {
+        "name": "Patola",
+        "url": "https://open.spotify.com/album/5mmCUMQ23xrBxCqFWRQcM8"
+      },
+      "artists": [
+        {
+          "name": "Yunan",
+          "url": "https://open.spotify.com/artist/6gIUB3nYX67IbwUi2bcrUJ"
+        },
+        {
+          "name": "Young Seaz",
+          "url": "https://open.spotify.com/artist/4FZyOlMqa2WA0twWT7yOkK"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159183,
+      "name": "Patola",
+      "url": "https://open.spotify.com/track/3j6n8oIWgNJ8JM8CSNCGQX"
     },
     {
       "album": {
@@ -5838,7 +5926,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 146405,
       "name": "Talk Sick",
       "url": "https://open.spotify.com/track/5b0LdNlKEO11EfK2g23yeS"
@@ -6418,6 +6506,24 @@
       "duration_ms": 178535,
       "name": "Watch me",
       "url": "https://open.spotify.com/track/2ukHDPSRQoSvyMOJHCmcXD"
+    },
+    {
+      "album": {
+        "name": "WAY BIGGER",
+        "url": "https://open.spotify.com/album/51wucRMPD76KAFmejfCPxs"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204870,
+      "name": "WAY BIGGER",
+      "url": "https://open.spotify.com/track/4LU48eTzVXRh7ZbY368mBh"
     },
     {
       "album": {

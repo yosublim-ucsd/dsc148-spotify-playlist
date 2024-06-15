@@ -1,28 +1,28 @@
 {
-  "description": "Underground indie rock gems. Cover: Goat Girl",
-  "num_followers": 295515,
+  "description": "Underground indie rock gems. Cover: Cola",
+  "num_followers": 295540,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmiZiwAAAACq55V43YqhRXdqrPE3QdoQ",
+  "snapshot_id": "ZmvAQAAAAACceYH8lYzATqMVxs9V+zOw",
   "tracks": [
     {
-      "added_at": "2024-06-07 04:00:00",
+      "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "words fell out",
-        "url": "https://open.spotify.com/album/4CQHKJVMCBxvBmJ077een7"
+        "name": "Pulling Quotes",
+        "url": "https://open.spotify.com/album/31yJkBf5Kp70ecygDPPSsc"
       },
       "artists": [
         {
-          "name": "Goat Girl",
-          "url": "https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ"
+          "name": "Cola",
+          "url": "https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8"
         }
       ],
-      "duration_ms": 181480,
-      "name": "words fell out",
-      "url": "https://open.spotify.com/track/3mcupBAKe2QJV7c4Z43IRo"
+      "duration_ms": 282506,
+      "name": "Pulling Quotes",
+      "url": "https://open.spotify.com/track/6iH3AXLQHlrbHfG6XGqjau"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -43,6 +43,54 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "words fell out",
+        "url": "https://open.spotify.com/album/4CQHKJVMCBxvBmJ077een7"
+      },
+      "artists": [
+        {
+          "name": "Goat Girl",
+          "url": "https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ"
+        }
+      ],
+      "duration_ms": 181480,
+      "name": "words fell out",
+      "url": "https://open.spotify.com/track/3mcupBAKe2QJV7c4Z43IRo"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/4fqQu9B3x8EwknltlbXv83"
+      },
+      "artists": [
+        {
+          "name": "Enumclaw",
+          "url": "https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb"
+        }
+      ],
+      "duration_ms": 212958,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/2LP4LllG0k6nSvAtbe60Xr"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Body Farm",
+        "url": "https://open.spotify.com/album/4OKeBiBOs0rPsWDZ0gFIfO"
+      },
+      "artists": [
+        {
+          "name": "Zoe Bayani",
+          "url": "https://open.spotify.com/artist/0qAiQ7a5epCnbBeqex8loG"
+        }
+      ],
+      "duration_ms": 220088,
+      "name": "Body Farm",
+      "url": "https://open.spotify.com/track/7zARpP2hSWoDAfqYFm85cp"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Piano Hands",
         "url": "https://open.spotify.com/album/3gJhe78jiRJjbPgRW4z1Nk"
       },
@@ -55,6 +103,22 @@
       "duration_ms": 218031,
       "name": "Piano Hands",
       "url": "https://open.spotify.com/track/5qXO90zyTU5Ch5aI9j0uzf"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Perfect Hand",
+        "url": "https://open.spotify.com/album/1VR9eQWnhFBKrD5eEUFggr"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        }
+      ],
+      "duration_ms": 248535,
+      "name": "Perfect Hand",
+      "url": "https://open.spotify.com/track/59Eh3SJgXdmytbvm7SejXz"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -135,6 +199,22 @@
       "duration_ms": 297470,
       "name": "A/B",
       "url": "https://open.spotify.com/track/6uYxmyVvwe1uWkS7hQkMxg"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Dirty Girls",
+        "url": "https://open.spotify.com/album/3ustQj0IfVetY6ENY9wVBP"
+      },
+      "artists": [
+        {
+          "name": "Beaks",
+          "url": "https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC"
+        }
+      ],
+      "duration_ms": 173493,
+      "name": "Dirty Girls",
+      "url": "https://open.spotify.com/track/13dkfQvbYPK4iWxzn3TKsP"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1125,22 +1205,6 @@
       "url": "https://open.spotify.com/track/1ZtCULlU6FKT2xyA6xbWI7"
     },
     {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Trying",
-        "url": "https://open.spotify.com/album/2apgxM7pfYfejgrPg4N6cB"
-      },
-      "artists": [
-        {
-          "name": "mercury",
-          "url": "https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk"
-        }
-      ],
-      "duration_ms": 226188,
-      "name": "Trying",
-      "url": "https://open.spotify.com/track/4tVcX8MGswvfbfESHIChzH"
-    },
-    {
       "added_at": "2024-03-08 05:00:00",
       "album": {
         "name": "The Dreamer",
@@ -1399,54 +1463,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "the lonely girl",
-        "url": "https://open.spotify.com/album/4clOUOCFf89vkXuaTs9Klf"
-      },
-      "artists": [
-        {
-          "name": "Winter",
-          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
-        }
-      ],
-      "duration_ms": 190148,
-      "name": "the lonely girl",
-      "url": "https://open.spotify.com/track/4uMKR0rtdKK1TwnLYNtNJf"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Laughter from the Other Room",
-        "url": "https://open.spotify.com/album/6mW3lJAAwtzrGq6wJSFmSK"
-      },
-      "artists": [
-        {
-          "name": "Wingtip",
-          "url": "https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI"
-        }
-      ],
-      "duration_ms": 160545,
-      "name": "Nothing to Lose",
-      "url": "https://open.spotify.com/track/6nz4mFXylnJNfw9GRSYYiG"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Inaka",
-        "url": "https://open.spotify.com/album/5ybEeQKYsEErgNZnxPqn4B"
-      },
-      "artists": [
-        {
-          "name": "Mei Semones",
-          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
-        }
-      ],
-      "duration_ms": 185115,
-      "name": "Inaka",
-      "url": "https://open.spotify.com/track/0DRjfY5KFcuD53IcGvfawC"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "CD Wallet",
         "url": "https://open.spotify.com/album/4GuIkU3CHTJWwLYgXtRTtr"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 167178,
       "name": "endless questions",
       "url": "https://open.spotify.com/track/6K0xzSgP4YOTBL6kZIhuwM"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/2S3f8p625yCqGyzvUJsOZF"
-      },
-      "artists": [
-        {
-          "name": "Lime Garden",
-          "url": "https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o"
-        }
-      ],
-      "duration_ms": 167631,
-      "name": "Mother",
-      "url": "https://open.spotify.com/track/0anZnOvUTenWvjeSru2Neo"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1619,22 +1619,6 @@
       "duration_ms": 228600,
       "name": "Flames shards goo",
       "url": "https://open.spotify.com/track/03vUSQpYEQryhvhI4VUsqb"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Toad Mode",
-        "url": "https://open.spotify.com/album/4iQqn0QFI7IK77RL4hfljo"
-      },
-      "artists": [
-        {
-          "name": "Sex Week",
-          "url": "https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r"
-        }
-      ],
-      "duration_ms": 197770,
-      "name": "Toad Mode",
-      "url": "https://open.spotify.com/track/1sJVvwGphoJXPLbjK8Mfk1"
     }
   ],
   "unique_name": "undercurrents",

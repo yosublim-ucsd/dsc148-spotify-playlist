@@ -2,9 +2,9 @@
 
 ### [alt BR](https://open.spotify.com/playlist/37i9dQZF1DWZi7MSnECo7D)
 
-> Música brasileira fora da curva\. Foto: Curumin ❤️ Anelis
+> Música brasileira fora da curva\. Foto: Adorável Clichê
 
-616 songs - 1 day 11 hr 2 min
+618 songs - 1 day 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Antes de Me Deixar](https://open.spotify.com/track/3HklnFAPRcIPQJcTEZ3VBs) | [Diego Tavares](https://open.spotify.com/artist/0YMMGm6r3OCnmN6z1PR42X), [Lara Aufranc](https://open.spotify.com/artist/6HOB0s5nvauJBT6mlaQeED) | [Antes de Me Deixar](https://open.spotify.com/album/2OlR1ABips2OgUWauHAwd5) | 1:56 | 2022-04-08 | 2022-04-29 |
 | [Anti\-herói](https://open.spotify.com/track/5bEZ3lfnkTJiVKA4wdVUvt) | [ZéVitor](https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4), [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Anti\-herói](https://open.spotify.com/album/7d5kPjWxtuHwRUujXIfqTD) | 3:20 | 2023-06-16 | 2023-10-21 |
 | [Antideprê](https://open.spotify.com/track/6uLh9rnAq9e6PUNLWGHLpB) | [Pullovers](https://open.spotify.com/artist/1ZsvMFESteQsWl6wx4GXqE) | [Antideprê](https://open.spotify.com/album/1ckDYFQq6nHdmepehSAg1D) | 3:41 | 2023-10-20 | 2023-11-25 |
+| [aonde mais](https://open.spotify.com/track/5bgWnou9B3oO7nJAUVdig5) | [Adorável Clichê](https://open.spotify.com/artist/4mRFZ6ovRHoxsRBE3uymPY) | [aonde mais](https://open.spotify.com/album/1gtIJPonh5fWPwEKBc8q6g) | 3:03 | 2024-06-14 |  |
 | [Apesar de Tudo](https://open.spotify.com/track/6AaxbPmGQXFSKvp2VCfHp6) | [AREN](https://open.spotify.com/artist/31QiBU59hNzPdCfPpRXykC), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Apesar de Tudo](https://open.spotify.com/album/0auf950HkV7rfUgEMG93pm) | 2:44 | 2022-09-23 | 2023-07-15 |
 | [Aquele Outono](https://open.spotify.com/track/1GZAxktxsYntDgkXp9XrbN) | [Cronistas](https://open.spotify.com/artist/7L5dmHSm4H8cHne1itDWJq) | [Aquele Outono](https://open.spotify.com/album/6ou7lqgI2uo0gtz0wtAP4P) | 3:12 | 2023-08-18 | 2024-02-24 |
 | [Aqueles Homens](https://open.spotify.com/track/546dLtXOOsyvEN6jBJSqYz) | [Nobat](https://open.spotify.com/artist/1xAXVaLirdVzOJvXamSIMK), [Mariana Cavanellas](https://open.spotify.com/artist/4XBAtMS0mrX2bQipALDthL) | [Aqueles Homens](https://open.spotify.com/album/3UHBNu5gqCpsLJsKG6J7gH) | 4:43 | 2022-06-24 | 2023-06-10 |
@@ -292,6 +293,7 @@
 | [Lábios Mentem à Distância](https://open.spotify.com/track/3LGTF6ehf5J27Ev2ydhqFY) | [Apeles](https://open.spotify.com/artist/079cfq4aZBhX6sXItaYUyr), [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9), [YMA](https://open.spotify.com/artist/6iT2YoEvBBNXpfHrOvAmk9) | [Lábios Mentem à Distância](https://open.spotify.com/album/6EFmmPTRDrH7gW4GTxXy3X) | 3:19 | 2023-11-17 | 2024-06-08 |
 | [Lágrima na Língua](https://open.spotify.com/track/1LpASqV05cNKzVc2wSrFBc) | [Pedro Fonte](https://open.spotify.com/artist/6ANqnotPsCkBCoo4lqXNpm), [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Luz Na Madrugada / Late Night Light](https://open.spotify.com/album/5SPqZ8SevS2ZEbgP7T1Haq) | 3:35 | 2023-09-15 | 2024-03-30 |
 | [Madrugada](https://open.spotify.com/track/1XaaiqwVQ8qaBrXNmxQ18U) | [Mateus Fazeno Rock](https://open.spotify.com/artist/4kZPtnykddZRw7B8Jh6Pb5), [Brunoso](https://open.spotify.com/artist/7MEwECUpH1JQzXbRMr0nFz), [glhrmee](https://open.spotify.com/artist/47WrtuDcUXSpyeeEGANlb2) | [Jesus Ñ Voltará \(Deluxe\)](https://open.spotify.com/album/2QTXZFCPiqFZcuGT2JkngO) | 3:35 | 2024-05-24 |  |
+| [Mais Nada](https://open.spotify.com/track/0VSxb6zC2oy5KhQ89Hqd98) | [Matheus Who](https://open.spotify.com/artist/7dk9vFezaTtPWPnygmbWgf) | [Mais Nada](https://open.spotify.com/album/4tlKd5YyAJJcdGUNMzstRx) | 3:16 | 2024-06-14 |  |
 | [mais um lance](https://open.spotify.com/track/47eTiEGgeZwjdIrOiNgG8G) | [Chico e o Mar](https://open.spotify.com/artist/24aBhTcvMpdnGyNBwbu2DJ) | [mais um lance](https://open.spotify.com/album/78Xvu1T8qRtUvMgix18ypT) | 3:01 | 2022-01-21 | 2023-04-15 |
 | [Mal Danado](https://open.spotify.com/track/1TSa8S8pBm12iLDfRIwMRS) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Distoppia](https://open.spotify.com/artist/7jGGTo263KTF3iF7ry7ee6) | [Mal Danado](https://open.spotify.com/album/7JBJUrjXVVn2cmCRrW6fL5) | 3:07 | 2022-08-26 | 2023-01-21 |
 | [Mandando](https://open.spotify.com/track/02LpHb4Jij5FbiII3FApBu) | [bule](https://open.spotify.com/artist/0G0UBEMCXDj4UWnT3BeBoS) | [Mandando](https://open.spotify.com/album/7H8Mbrgu2IA7oEYtCE8W63) | 3:37 | 2022-01-14 | 2022-05-14 |

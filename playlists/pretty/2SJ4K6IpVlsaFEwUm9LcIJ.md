@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: may\-june 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 19,892 likes - 47 songs - 2 hr 18 min
+[margeaux](https://open.spotify.com/user/1220511975) - 19,900 likes - 49 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,5 +55,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 45 | [Tuesday](https://open.spotify.com/track/073gctjGEOq9cXuFjldqxT) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Tuesday](https://open.spotify.com/album/3OJhV8FhTJQLH979qE2QXA) | 2:29 |
 | 46 | [In the Jailhouse Now](https://open.spotify.com/track/5qhjl6GzrmwPYpJJFh2SRz) | [Jimmie Rodgers](https://open.spotify.com/artist/0Y0ZlznP6vzTS1qAm5dvTN) | [The Essential Jimmie Rodgers](https://open.spotify.com/album/0lJQLQcYDv5QUWll4w9TC3) | 3:18 |
 | 47 | [Good For Me](https://open.spotify.com/track/0la9WOK8JlpmfDEJiFsVCl) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Tri\-State](https://open.spotify.com/album/7oGejxIa9yVGrUvwt74OPU) | 5:42 |
+| 48 | [Apple](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 |
+| 49 | [Mean girls](https://open.spotify.com/track/1qKCO2Tocwg8CbepJ9uDtd) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:09 |
 
-Snapshot ID: `AAAKmPJTfR2j3ZNh73FeXsr5IXy4bRKs`
+Snapshot ID: `AAAKmm/fjiFLqgK++su4Np55oz0PfEPM`

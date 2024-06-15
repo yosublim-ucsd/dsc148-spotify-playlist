@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "Updated weekly | Hardstyle | Cover: D-Block & S-te-Fan and The Prophet",
+  "description": "Updated weekly | Hardstyle | Cover: La Fuente & Outsiders",
   "name": "Hardstyle Adrenaline! 2024",
   "tracks": [
     {
@@ -409,6 +409,32 @@
     },
     {
       "album": {
+        "name": "Alcoholic Party 2024",
+        "url": "https://open.spotify.com/album/14VaZNeCR6l2LOklHAKjjp"
+      },
+      "artists": [
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/1kpnFAPpACdKIiuaatgBah"
+        },
+        {
+          "name": "DJ Kicken",
+          "url": "https://open.spotify.com/artist/32NYv6VvNFmHESplIiWBOu"
+        },
+        {
+          "name": "MC-Q",
+          "url": "https://open.spotify.com/artist/27gWSxAbbesBdtCZfqia1q"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160657,
+      "name": "Alcoholic Party 2024",
+      "url": "https://open.spotify.com/track/52eNGQysAJ9yn92QkQ7Csa"
+    },
+    {
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/7fuqjlFjMIap3DDWz46zIV"
       },
@@ -742,7 +768,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 314348,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/66n4fD7vHrJ6jTOqexH8Ny"
@@ -768,6 +794,24 @@
       "duration_ms": 152364,
       "name": "Another Night",
       "url": "https://open.spotify.com/track/1KOcE8QcPCLPASSfA1Ekdp"
+    },
+    {
+      "album": {
+        "name": "Anybody Out There",
+        "url": "https://open.spotify.com/album/21PB2UphIdEfUmo19VcI41"
+      },
+      "artists": [
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Anybody Out There",
+      "url": "https://open.spotify.com/track/7xngNl6m6IHXDb8pGVR2Gx"
     },
     {
       "album": {
@@ -996,7 +1040,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 138964,
       "name": "Baby Baby",
       "url": "https://open.spotify.com/track/1IOr9yWHazQ3JIGnJzz9mL"
@@ -1084,7 +1128,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 175496,
       "name": "BACK TO LIFE",
       "url": "https://open.spotify.com/track/0GLbugBl7oTlKZmlcm9M9w"
@@ -1288,7 +1332,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 187794,
       "name": "Battlefield",
       "url": "https://open.spotify.com/track/1EbRl91ytoWtnOoLO7Z91p"
@@ -3122,7 +3166,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 157503,
       "name": "Consequences",
       "url": "https://open.spotify.com/track/6dMTVOiZzZA1HXfpxS89oy"
@@ -4207,6 +4251,32 @@
     },
     {
       "album": {
+        "name": "Don't Stop Believin' (Felix Harrer Remix)",
+        "url": "https://open.spotify.com/album/5hvmoQj2imO3EQBwVaK3gN"
+      },
+      "artists": [
+        {
+          "name": "R.I.O.",
+          "url": "https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj"
+        },
+        {
+          "name": "Deeperlove",
+          "url": "https://open.spotify.com/artist/2NJXWjY61CLRVARkqDJeRm"
+        },
+        {
+          "name": "Felix Harrer",
+          "url": "https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207061,
+      "name": "Don't Stop Believin' - Felix Harrer Remix",
+      "url": "https://open.spotify.com/track/1RQAXREowlYVIu5T7t5cQb"
+    },
+    {
+      "album": {
         "name": "Don't Worry",
         "url": "https://open.spotify.com/album/7xvYL2uU7u0DKv4Hkejg3o"
       },
@@ -4385,6 +4455,24 @@
     },
     {
       "album": {
+        "name": "DREAMLAND",
+        "url": "https://open.spotify.com/album/3zx2bgirznrq9HBt5K1xXg"
+      },
+      "artists": [
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158788,
+      "name": "DREAMLAND",
+      "url": "https://open.spotify.com/track/6GiOYjZZW4oyarMoJKTNAc"
+    },
+    {
+      "album": {
         "name": "Reversed Reality",
         "url": "https://open.spotify.com/album/0Z3bA9sTXrgmIOIeGIj4kT"
       },
@@ -4480,6 +4568,24 @@
       "duration_ms": 194700,
       "name": "Dwars Door Het Dak",
       "url": "https://open.spotify.com/track/45eT7AahIkUl82p0vFxiZF"
+    },
+    {
+      "album": {
+        "name": "Echo Of Secrets",
+        "url": "https://open.spotify.com/album/7qY7GzvaohGgFTlCNYzBtb"
+      },
+      "artists": [
+        {
+          "name": "Sephyx",
+          "url": "https://open.spotify.com/artist/7MXzeG7zoG8pKpqKCOqcZL"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "Echo Of Secrets",
+      "url": "https://open.spotify.com/track/20HjwtvgHUZ7oOz52Udvzl"
     },
     {
       "album": {
@@ -5184,7 +5290,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 168800,
       "name": "F.O.M.O.",
       "url": "https://open.spotify.com/track/6Lzd2arjqUFyDn1SOtbHkQ"
@@ -5662,6 +5768,24 @@
       "duration_ms": 213677,
       "name": "Fire",
       "url": "https://open.spotify.com/track/5Oh48t8W8xH1GTZ6fa6502"
+    },
+    {
+      "album": {
+        "name": "Fire To The Fuse (The Gathering 2024 OST)",
+        "url": "https://open.spotify.com/album/6DzzwsWlbQ1yXxjvEqiBou"
+      },
+      "artists": [
+        {
+          "name": "Hard Driver",
+          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255286,
+      "name": "Fire To The Fuse (The Gathering 2024 OST)",
+      "url": "https://open.spotify.com/track/0QenrZBWTSKKFf2SUBJj5p"
     },
     {
       "album": {
@@ -7560,7 +7684,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 145548,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/0MYEzwlkbfyn9eDAmMvOls"
@@ -7990,6 +8114,28 @@
       "duration_ms": 174188,
       "name": "If You Believe",
       "url": "https://open.spotify.com/track/5l5ITeKACEWFijn8n5tpIR"
+    },
+    {
+      "album": {
+        "name": "Glory Never Fades",
+        "url": "https://open.spotify.com/album/2Z93aHtnWi5GD6pCKCgHs0"
+      },
+      "artists": [
+        {
+          "name": "Restrained",
+          "url": "https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV"
+        },
+        {
+          "name": "Hellsystem",
+          "url": "https://open.spotify.com/artist/53EHsN2X6QI9xsmunKAW85"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153081,
+      "name": "Ignite The Game",
+      "url": "https://open.spotify.com/track/0nuTsyzFtC6iqutS363mJM"
     },
     {
       "album": {
@@ -8754,6 +8900,28 @@
       "duration_ms": 178064,
       "name": "Ketamine Klappers",
       "url": "https://open.spotify.com/track/0MD8hVm6rOZ6HykEdxdk7m"
+    },
+    {
+      "album": {
+        "name": "Kick It",
+        "url": "https://open.spotify.com/album/58txTX7QAQ6mNrFSBuU06D"
+      },
+      "artists": [
+        {
+          "name": "RVAGE",
+          "url": "https://open.spotify.com/artist/60kSCaBM5uMKg7ZnrBH5br"
+        },
+        {
+          "name": "Scarra",
+          "url": "https://open.spotify.com/artist/75CWM6dvHUuLGsQj8fJyXr"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175499,
+      "name": "Kick It",
+      "url": "https://open.spotify.com/track/3wQeGcLU0F35yre89DezaG"
     },
     {
       "album": {
@@ -9553,6 +9721,28 @@
     },
     {
       "album": {
+        "name": "Like A Prayer",
+        "url": "https://open.spotify.com/album/0Ww2vLgzJ7vamTnjX4xZVB"
+      },
+      "artists": [
+        {
+          "name": "Gunz For Hire",
+          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
+        },
+        {
+          "name": "Ava Silver",
+          "url": "https://open.spotify.com/artist/0l6LU5NRvLTVeRDJZznwLX"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266514,
+      "name": "Like A Prayer",
+      "url": "https://open.spotify.com/track/1K1GY5DNFt9neNS1nNWD7A"
+    },
+    {
+      "album": {
         "name": "Like an Angel (Earsquaker Mix)",
         "url": "https://open.spotify.com/album/6rYhhHHpGDT0tozobjmWjD"
       },
@@ -9660,6 +9850,28 @@
       "duration_ms": 133846,
       "name": "Live 4 Ever",
       "url": "https://open.spotify.com/track/2J8f89cDYoFuEVZAXKN3sH"
+    },
+    {
+      "album": {
+        "name": "Live For The Hard",
+        "url": "https://open.spotify.com/album/1P3j96mmetV6vywq2DtbGB"
+      },
+      "artists": [
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        },
+        {
+          "name": "Aversion",
+          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "Live For The Hard",
+      "url": "https://open.spotify.com/track/5CbzwDqLjODFI9BJBgINrD"
     },
     {
       "album": {
@@ -10993,6 +11205,28 @@
     },
     {
       "album": {
+        "name": "Money Run",
+        "url": "https://open.spotify.com/album/5Hj1TfgMOPQZhGXAb9Ao02"
+      },
+      "artists": [
+        {
+          "name": "The Straikerz",
+          "url": "https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l"
+        },
+        {
+          "name": "MC Focus",
+          "url": "https://open.spotify.com/artist/65rNcn9WBuD5fW11VmGVuf"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144824,
+      "name": "Money Run",
+      "url": "https://open.spotify.com/track/2Yi1ANHNt9061Oxg73kmfv"
+    },
+    {
+      "album": {
         "name": "MONSTER",
         "url": "https://open.spotify.com/album/1XGQDdnidqpBCi9PWKQ6Hh"
       },
@@ -11524,7 +11758,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 160001,
       "name": "Never Go To Sleep",
       "url": "https://open.spotify.com/track/7qnQYdTfkTeSjv3yv41Yvp"
@@ -13278,7 +13512,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 230899,
       "name": "Puzzle Piece",
       "url": "https://open.spotify.com/track/1iblJYab0Ks39FRr8nUnvE"
@@ -14182,6 +14416,28 @@
       "duration_ms": 186003,
       "name": "RETALIATION",
       "url": "https://open.spotify.com/track/3rAXPlJxKnbBwmOnieHmv4"
+    },
+    {
+      "album": {
+        "name": "Retaliation",
+        "url": "https://open.spotify.com/album/2msjX4XdNt1Ui2lB2RaCx1"
+      },
+      "artists": [
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        },
+        {
+          "name": "Ecstatic",
+          "url": "https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "Retaliation",
+      "url": "https://open.spotify.com/track/1f66qSb10snVVBFgsyG6Hk"
     },
     {
       "album": {
@@ -16003,6 +16259,24 @@
     },
     {
       "album": {
+        "name": "Straight From The Underground",
+        "url": "https://open.spotify.com/album/0TKS5RAKA2mUMlHACOwWFC"
+      },
+      "artists": [
+        {
+          "name": "Sub Sonik",
+          "url": "https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179187,
+      "name": "Straight From The Underground",
+      "url": "https://open.spotify.com/track/0oz0z1GPULYLCfpS2dxEFj"
+    },
+    {
+      "album": {
         "name": "Strange World",
         "url": "https://open.spotify.com/album/7Albdz23rGzT4E2Kzzzi05"
       },
@@ -16544,7 +16818,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 182709,
       "name": "Take Me Away (feat. 4 Strings)",
       "url": "https://open.spotify.com/track/6uwZTxW1wBkWNSAqd1noW8"
@@ -17684,7 +17958,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 290400,
       "name": "The Riddle",
       "url": "https://open.spotify.com/track/3I2IF4bYGrv30V9D5S4VMe"
@@ -18586,7 +18860,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 179938,
       "name": "Turn The Tide",
       "url": "https://open.spotify.com/track/13eAJfjMoCMJmwzJPLBy6a"
@@ -18866,7 +19140,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 156774,
       "name": "Unseen Beast",
       "url": "https://open.spotify.com/track/1zrG9RTM2XD6sSaWDurbFg"

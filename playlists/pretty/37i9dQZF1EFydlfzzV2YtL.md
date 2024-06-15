@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M9QH5CEPdtif778LoMbQ5">Emily Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,308 likes - 160 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,311 likes - 160 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,9 +117,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 107 | [Old School \- Acoustic](https://open.spotify.com/track/1Vd2VTgJs2ej0Y6VGKnNqh) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq) | [Old School \(Acoustic\)](https://open.spotify.com/album/1yHzPtoin3VLu2h72Y3dW5) | 3:36 |
 | 108 | [Solo Mission](https://open.spotify.com/track/0oxPA3C0E3zkEDkfYogCb0) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 4:25 |
 | 109 | [Prisoner](https://open.spotify.com/track/5hrrgSG5jauJS19Qjvb7En) | [Era Istrefi](https://open.spotify.com/artist/4poL7YCSkG7kMnWjAdDU91) | [Prisoner](https://open.spotify.com/album/3yCz55vgyI64tU4IkFw0F8) | 3:15 |
-| 110 | [I Hope You Change Your Mind](https://open.spotify.com/track/5fWBKbbsXFSgCpCQ69YhOi) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:24 |
-| 111 | [Throw Some Ass](https://open.spotify.com/track/5YO44oPkpH4zeinnihUpIR) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Throw Some Ass](https://open.spotify.com/album/6IMZTpxljVKTek4hLAgiVG) | 3:02 |
-| 112 | [Easy To Miss](https://open.spotify.com/track/0wmHqFVoBT0vjDSilB6R2M) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Nobody's Born With A Broken Heart](https://open.spotify.com/album/34AFxONmJ08r2blbMQCNXj) | 2:49 |
+| 110 | [Throw Some Ass](https://open.spotify.com/track/5YO44oPkpH4zeinnihUpIR) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Throw Some Ass](https://open.spotify.com/album/6IMZTpxljVKTek4hLAgiVG) | 3:02 |
+| 111 | [Easy To Miss](https://open.spotify.com/track/0wmHqFVoBT0vjDSilB6R2M) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Nobody's Born With A Broken Heart](https://open.spotify.com/album/34AFxONmJ08r2blbMQCNXj) | 2:49 |
+| 112 | [I Hope You Change Your Mind](https://open.spotify.com/track/5fWBKbbsXFSgCpCQ69YhOi) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:24 |
 | 113 | [No Shade at Pitti](https://open.spotify.com/track/0Wz5dUk7mkYv57W81E5T7u) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [No Hard Feelings](https://open.spotify.com/album/6zbTpuaPUXU6jRn6RJ0W6K) | 3:33 |
 | 114 | [Good Die Young](https://open.spotify.com/track/2qV4oFPfGjIH4bg9L8mjkJ) | [Molly Kate Kestner](https://open.spotify.com/artist/390x0qxDdsMmN20RAwspbf) | [Good Die Young](https://open.spotify.com/album/1Lcii5tFpuOZEco0rQiubv) | 3:28 |
 | 115 | [Something Different](https://open.spotify.com/track/3mbkAtfG36iBb4HBf1qEb8) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 2:34 |
@@ -145,8 +145,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 135 | [How You King?](https://open.spotify.com/track/4Y1fvVW6U12FrjdKj50Igz) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [They Got Amnesia](https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl) | 3:35 |
 | 136 | [Lighter](https://open.spotify.com/track/1LnwJge8GNIzcQNqcVOB85) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [HiROQUEST 2: Double Helix](https://open.spotify.com/album/4pkSnhESY9LSZUk1n0pLTT) | 2:46 |
 | 137 | [Gasoline](https://open.spotify.com/track/070w1ad1BKWGBsXGJ4qp8k) | [Karmin](https://open.spotify.com/artist/4M0DLz8te9Q1lNIXBBwvfG) | [Pulses](https://open.spotify.com/album/2UvU0egYoXsysWkHqQy4Lc) | 3:38 |
-| 138 | [Cozy](https://open.spotify.com/track/6c4RrBGXMbzuhj8XwzzWWW) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [Cozy](https://open.spotify.com/album/4UMAPxQmkZDLjJYl3tyHu7) | 2:25 |
-| 139 | [Tennis Court](https://open.spotify.com/track/1Yh82W1H6OrHlCGzpkFBmH) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [No Hard Feelings](https://open.spotify.com/album/6zbTpuaPUXU6jRn6RJ0W6K) | 3:09 |
+| 138 | [Tennis Court](https://open.spotify.com/track/1Yh82W1H6OrHlCGzpkFBmH) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [No Hard Feelings](https://open.spotify.com/album/6zbTpuaPUXU6jRn6RJ0W6K) | 3:09 |
+| 139 | [Cozy](https://open.spotify.com/track/6c4RrBGXMbzuhj8XwzzWWW) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [Cozy](https://open.spotify.com/album/4UMAPxQmkZDLjJYl3tyHu7) | 2:25 |
 | 140 | [Turnham Green](https://open.spotify.com/track/5e5MqxL2TTurVduNLQVaSO) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Here Goes Nothing!](https://open.spotify.com/album/5GAuXiCpLD3PL7KLKT5AAt) | 3:45 |
 | 141 | [Mistake Like You](https://open.spotify.com/track/53lLOdZjoiUZALcgiAIREE) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [How To Let Go](https://open.spotify.com/album/4V714KyABj469FBI9Dao8T) | 3:30 |
 | 142 | [Just You, Not Now \(Love Theme\)](https://open.spotify.com/track/5Zs9RUmMV7H8VSowoKV6Uu) | [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst) | [The Get Down: Original Soundtrack From The Netflix Original Series \(Deluxe Version\)](https://open.spotify.com/album/7ezeSBh9E63ijDAxn8Ke4P) | 4:25 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 159 | [Like That](https://open.spotify.com/track/0jFF83NzwA74b6xmTkqT0U) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:17 |
 | 160 | [Break The Silence](https://open.spotify.com/track/29HAzOVnX3947Az2RAsEfE) | [Richard Stirton](https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB) | [Middle Ground](https://open.spotify.com/album/6Y15hurwzN1gMLTv4eAQNy) | 3:31 |
 
-Snapshot ID: `AbT+ggAAAADgN+jqRzzl5rYxM8Gb7CXE`
+Snapshot ID: `AbUEIgAAAADEO4YknwpE7f0DNYwMcW0l`

@@ -4,7 +4,7 @@
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Goldband
 
-6,569 songs - 14 day 8 hr 56 min
+6,571 songs - 14 day 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -855,6 +855,7 @@
 | [BROKEN PIECES](https://open.spotify.com/track/6oR93SbtqVEboBslSAMCS1) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [For When It Hurts](https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH) | 3:02 | 2023-04-14 | 2023-04-21 |
 | [Broski’s](https://open.spotify.com/track/3D0wRuJbUqjoLdeXEYc5E3) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Broski’s](https://open.spotify.com/album/6QQveJTy0ZAbqBMTYwpS3V) | 2:59 | 2023-03-09 | 2023-03-18 |
 | [Brother](https://open.spotify.com/track/02vKCguM6dVPl5n0yaSfd1) | [Gildor](https://open.spotify.com/artist/2DyS2mSsaFkj5nFB3P6KqU) | [Brother](https://open.spotify.com/album/3008HWpElEcGNgQ1j9Hkgk) | 3:16 | 2023-08-24 | 2023-09-01 |
+| [BROTHER STONE \(FEAT\. KODAK BLACK\)](https://open.spotify.com/track/0l3raueiJ78IsmZGwo6CRm) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [BROTHER STONE \(FEAT\. KODAK BLACK\)](https://open.spotify.com/album/0LWTY98ijfILoFHupcQJKE) | 3:22 | 2024-06-13 |  |
 | [Brothers And Sisters](https://open.spotify.com/track/6gWZRpSmXOckVGYgAXTBid) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [Brothers And Sisters](https://open.spotify.com/album/6NByB6YHGM24ZZppqUDC3o) | 3:55 | 2024-02-08 | 2024-02-16 |
 | [Brown Skin](https://open.spotify.com/track/2UzpyrcjDsdPO8CGcudpoO) | [Robyn Florence](https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa) | [Brown Skin](https://open.spotify.com/album/6hWTRzpAQMGMdVXlGWfICF) | 3:16 | 2023-08-24 | 2023-09-01 |
 | [Bruises](https://open.spotify.com/track/5kUqU9uLc98ndpJiqieN8K) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone \(Deluxe\)](https://open.spotify.com/album/1KSAqXIHFEWo73keoru7FX) | 2:41 | 2023-02-24 | 2023-03-03 |
@@ -6301,6 +6302,7 @@
 | [Wherever I Go \(feat\. Lawrence & Michael McDonald\)](https://open.spotify.com/track/77PlrIDSmmWwCj7vgNQiR4) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Wherever I Go \(feat\. Lawrence & Michael McDonald\)](https://open.spotify.com/album/3urTyQXxwNAcuNmQa5Xho3) | 2:46 | 2023-10-26 | 2023-11-03 |
 | [Wherever You Are](https://open.spotify.com/track/4s5kizLw0McJRd4rBG06B4) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [Wherever You Are](https://open.spotify.com/album/7hjd1WmWPqTyrPGDaywQjK) | 3:27 | 2024-06-06 | 2024-06-14 |
 | [Whine](https://open.spotify.com/track/6kq4HI3ILiPHXJ5por9jnO) | [Rhema & Bethel](https://open.spotify.com/artist/2mhQjvqnRV83cj1G1b8ToN) | [Bright Life](https://open.spotify.com/album/4gd8lhQeheifl0SPUPPtyZ) | 2:36 | 2023-04-27 | 2023-05-05 |
+| [WHISKEY WHISKEY \(feat\. Morgan Wallen\)](https://open.spotify.com/track/7hRLuo4QnzCsjICXUOhTE6) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [SPEAK NOW](https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9) | 2:41 | 2024-06-13 |  |
 | [White Ash](https://open.spotify.com/track/2sngouSS4sot4DR4qkX4Ef) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [Real Back In Style](https://open.spotify.com/album/4ZXd1RIxHGNExQjajXcdV3) | 3:45 | 2023-05-11 | 2023-05-19 |
 | [White Ash](https://open.spotify.com/track/3u47ySotzOLUU4oWbqQ7ev) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [White Ash](https://open.spotify.com/album/0fq5Tu08ZzjlTgk6vgtdma) | 3:45 | 2023-05-11 | 2023-05-13 |
 | [White Glove](https://open.spotify.com/track/6NIlYycjhvtKGKtiABymF3) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Alchemical: Volume 1](https://open.spotify.com/album/4kC5hseZbGaAjiJvr9Hk55) | 2:30 | 2023-12-01 | 2023-12-09 |

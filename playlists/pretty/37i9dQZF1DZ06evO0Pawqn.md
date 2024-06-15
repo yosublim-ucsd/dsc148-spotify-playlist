@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 
 > This is Los Tiranos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,214 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,215 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 | 44 | [De Su Vida Me Ire](https://open.spotify.com/track/5CSN3xcAG1e8jpPKDaoj4w) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 2:57 |
 | 45 | [Mares de Licor \- En Vivo](https://open.spotify.com/track/0TEVzhoz8bTA6vhOLM7c2m) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Grandes Éxitos \(En Vivo\)](https://open.spotify.com/album/7pEcnufaP1g1YEEXHUEQM0) | 2:26 |
 | 46 | [Corazon de Vecindad](https://open.spotify.com/track/56tdpVNcEEwCTIvaZRlRk9) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Tesoros de Coleccion, Vol\. 1](https://open.spotify.com/album/43YQOZfMDgWtqa2LZ7R7eR) | 3:07 |
-| 47 | [Homenaje A Los Grandes: Si No Hay Dinero](https://open.spotify.com/track/7EvjaFNG178iozRotq59ke) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H), [Grupo Silverado](https://open.spotify.com/artist/1vM02XMErBg8ukQrjgtprm) | [Homenaje A Los Grandes: Si No Hay Dinero](https://open.spotify.com/album/4FQQsHsftxdwECY3ixNwLk) | 2:27 |
-| 48 | [Aguanta Corazón](https://open.spotify.com/track/0CWwxmdt8IJK8V9sKsimiA) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Homenaje a Los Invasores](https://open.spotify.com/album/77cenBu4ilcCyiu4iARvrG) | 2:16 |
+| 47 | [Aguanta Corazón](https://open.spotify.com/track/0CWwxmdt8IJK8V9sKsimiA) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Homenaje a Los Invasores](https://open.spotify.com/album/77cenBu4ilcCyiu4iARvrG) | 2:16 |
+| 48 | [Homenaje A Los Grandes: Si No Hay Dinero](https://open.spotify.com/track/7EvjaFNG178iozRotq59ke) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H), [Grupo Silverado](https://open.spotify.com/artist/1vM02XMErBg8ukQrjgtprm) | [Homenaje A Los Grandes: Si No Hay Dinero](https://open.spotify.com/album/4FQQsHsftxdwECY3ixNwLk) | 2:27 |
 | 49 | [Le Doblamos La Edad](https://open.spotify.com/track/3TGRjmDrlWAvaDumXQCqeB) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Invencibles](https://open.spotify.com/album/12ECqvcpA6cSRdDN8sif7c) | 3:51 |
 | 50 | [El Libro de los Dioses](https://open.spotify.com/track/3whUtAF1vN1RGfMZ9QJ61P) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Con Sangre Nortena](https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr) | 3:16 |
 
-Snapshot ID: `ZmjlAAAAAADDcnT2iCrv8yZDu5Bi1qlm`
+Snapshot ID: `Zmo2gAAAAACcq0nRr01/IJFzHrB6J+g5`

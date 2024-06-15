@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "A new wave of rock music. Cover: Lip Filler",
+  "description": "A new wave of rock music. Cover: Hana Lili",
   "name": "shockwave",
   "tracks": [
     {
@@ -362,6 +362,24 @@
       "duration_ms": 278884,
       "name": "anymore",
       "url": "https://open.spotify.com/track/3jWx8u8LTC4X0oB9tXGEdk"
+    },
+    {
+      "album": {
+        "name": "Approachable",
+        "url": "https://open.spotify.com/album/5LabQRkQ7ULkIAm2mZktMl"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240973,
+      "name": "Approachable",
+      "url": "https://open.spotify.com/track/5GtTdg5XdVYzp0sQjQvkRm"
     },
     {
       "album": {
@@ -754,7 +772,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 167278,
       "name": "Bodyclock",
       "url": "https://open.spotify.com/track/1TORJOAgWVeZP0yGpH6nzh"
@@ -844,7 +862,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 203636,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/2eJr1Z9l9kJtTHs7WotWiM"
@@ -1071,6 +1089,24 @@
     },
     {
       "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/6Xq14tixwMMTX84gTGuyIP"
+      },
+      "artists": [
+        {
+          "name": "Enola Gay",
+          "url": "https://open.spotify.com/artist/1CT7BjCVYK5vr9SNr7WlEP"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248500,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/20d5r7dJunyrLNXZlv7jP5"
+    },
+    {
+      "album": {
         "name": "GENRELESS",
         "url": "https://open.spotify.com/album/7kTqaUsZea6CxLpvgzRA3E"
       },
@@ -1104,6 +1140,24 @@
       "duration_ms": 142906,
       "name": "Concrete",
       "url": "https://open.spotify.com/track/3dFZkn6TmBxv1AyuMdKZ3Y"
+    },
+    {
+      "album": {
+        "name": "Cool",
+        "url": "https://open.spotify.com/album/1iSgUsRxUSl9JTBw6kFS8g"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Esau",
+          "url": "https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184736,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/61c8JdniIlDW7tJZGoZoMe"
     },
     {
       "album": {
@@ -1446,6 +1500,24 @@
       "duration_ms": 171443,
       "name": "delirious",
       "url": "https://open.spotify.com/track/2i6H4Pv8FAGamAIdftleDu"
+    },
+    {
+      "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/22nrfblrecfGibtd9ikjh7"
+      },
+      "artists": [
+        {
+          "name": "October Drift",
+          "url": "https://open.spotify.com/artist/3uP1cpcy1q0stG3utL7tZS"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202711,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/342Y1xCB1oSNuh2BdWbCN6"
     },
     {
       "album": {
@@ -1810,6 +1882,24 @@
       "duration_ms": 126744,
       "name": "EYELIDS",
       "url": "https://open.spotify.com/track/1iGKMqKV0GBLX9Q6yXTDER"
+    },
+    {
+      "album": {
+        "name": "Face In the Picture",
+        "url": "https://open.spotify.com/album/3iCcMrg5ljQmVyxLsV2M0K"
+      },
+      "artists": [
+        {
+          "name": "Picture Parlour",
+          "url": "https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164477,
+      "name": "Face In The Picture",
+      "url": "https://open.spotify.com/track/2Fo9ObbJQsDOqdUT3zN14t"
     },
     {
       "album": {
@@ -2416,7 +2506,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 292093,
       "name": "Goodbye (So Long, Farewell)",
       "url": "https://open.spotify.com/track/2kU97AkFb1VPK7DLFamIw8"
@@ -3169,6 +3259,24 @@
     },
     {
       "album": {
+        "name": "Jacked",
+        "url": "https://open.spotify.com/album/31Uydr3KK9ZqJPgkuVVGfn"
+      },
+      "artists": [
+        {
+          "name": "Heartworms",
+          "url": "https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267504,
+      "name": "Jacked",
+      "url": "https://open.spotify.com/track/7KciyHD7RzGnihFZVwHjmc"
+    },
+    {
+      "album": {
         "name": "Jayne",
         "url": "https://open.spotify.com/album/0vwds1IJmwx3iWRwlKqaMJ"
       },
@@ -3904,7 +4012,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 296636,
       "name": "marble arch",
       "url": "https://open.spotify.com/track/3gIC7qzRoxiDpYo0ymjZS0"
@@ -3980,6 +4088,24 @@
       "duration_ms": 221767,
       "name": "Medic",
       "url": "https://open.spotify.com/track/19Pz0tELBDS6OtP8W6XLSy"
+    },
+    {
+      "album": {
+        "name": "MELANCHOLIA",
+        "url": "https://open.spotify.com/album/4tUCkpJ4tPL2uU4Aj5uEtA"
+      },
+      "artists": [
+        {
+          "name": "KNIFE BRIDE",
+          "url": "https://open.spotify.com/artist/34THm21WWzzr69EetTmnVG"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207008,
+      "name": "MELANCHOLIA",
+      "url": "https://open.spotify.com/track/38IWcchmapmGxnObgwSOEj"
     },
     {
       "album": {
@@ -4538,7 +4664,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 238493,
       "name": "Passing Judgment",
       "url": "https://open.spotify.com/track/1R2dM4T5lrnAk2Ajp0s1PA"
@@ -5349,6 +5475,24 @@
     },
     {
       "album": {
+        "name": "Situations",
+        "url": "https://open.spotify.com/album/4hCRTTJk2gUDZr7NteckzK"
+      },
+      "artists": [
+        {
+          "name": "better joy",
+          "url": "https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172212,
+      "name": "Situations",
+      "url": "https://open.spotify.com/track/2FqWxImxyiH1i8cEvQEtXG"
+    },
+    {
+      "album": {
         "name": "Sleep",
         "url": "https://open.spotify.com/album/1teDDY70sVGEWaipW00Tiq"
       },
@@ -5490,6 +5634,24 @@
       "duration_ms": 217870,
       "name": "Some Things Never Change",
       "url": "https://open.spotify.com/track/4clBv8sHZ7gqyH7xhlmCCC"
+    },
+    {
+      "album": {
+        "name": "Somebody Somewhere",
+        "url": "https://open.spotify.com/album/6CPudp2RNN8C2503wCUowK"
+      },
+      "artists": [
+        {
+          "name": "Everyone Says Hi",
+          "url": "https://open.spotify.com/artist/4sGoAzUUT1W6GuzLVEbuBa"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213640,
+      "name": "Somebody Somewhere",
+      "url": "https://open.spotify.com/track/5RJBFUWQoajt56OF4EcETJ"
     },
     {
       "album": {
@@ -5688,7 +5850,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 126620,
       "name": "Streetwise",
       "url": "https://open.spotify.com/track/5SDW0aLSetWzFS1676VgXQ"
@@ -5911,6 +6073,24 @@
     },
     {
       "album": {
+        "name": "The Hand Lender",
+        "url": "https://open.spotify.com/album/7eSgAs7gqOAyN4U8X9lHz1"
+      },
+      "artists": [
+        {
+          "name": "Queen Cult",
+          "url": "https://open.spotify.com/artist/3UAgcbjWTEC0xcEZEYNrQt"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169550,
+      "name": "The Hand Lender",
+      "url": "https://open.spotify.com/track/50gF43cRPzR5fvwX51cIGC"
+    },
+    {
+      "album": {
         "name": "The Last Time",
         "url": "https://open.spotify.com/album/0u0yVaTbeGJIKM2EGtwnIy"
       },
@@ -6056,6 +6236,24 @@
       "duration_ms": 223500,
       "name": "This Part of Me",
       "url": "https://open.spotify.com/track/1aEoyo49oGyAv47gVqvvSe"
+    },
+    {
+      "album": {
+        "name": "TIMEPIECE",
+        "url": "https://open.spotify.com/album/5nptLfPlk5DSp0VU3cuC9y"
+      },
+      "artists": [
+        {
+          "name": "BUBZ",
+          "url": "https://open.spotify.com/artist/7IwYtE3A3mRe432XcR9C1p"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227750,
+      "name": "TIMEPIECE",
+      "url": "https://open.spotify.com/track/3iO5is79RNo5V8ESIqblcj"
     },
     {
       "album": {

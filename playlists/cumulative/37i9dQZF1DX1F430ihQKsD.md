@@ -4,7 +4,7 @@
 
 > La scène musicale montréalaise au premier plan\. Photo: KAYTRANADA
 
-479 songs - 1 day 3 hr 40 min
+481 songs - 1 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Bleeding Me Dry \- A COLORS SHOW](https://open.spotify.com/track/4bBjJXHNQPiUdY0L90dO4D) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Bleeding Me Dry \- A COLORS SHOW](https://open.spotify.com/album/0tT4aJMUh0ToD5vEFhhPnh) | 3:33 | 2024-03-22 |  |
 | [Bleu électrique](https://open.spotify.com/track/7G1133z0aujk905wPE7dOo) | [Renzo Rivolta](https://open.spotify.com/artist/41i5fl8UQOdY5ZIJtYPh4O) | [Bleu électrique](https://open.spotify.com/album/6Jc3phQF0UrVpDc4VdC9mn) | 2:48 | 2024-05-03 |  |
 | [Blind Eyes](https://open.spotify.com/track/3X5eIiJr9eciTzWfFcgO7r) | [Sara\-Danielle](https://open.spotify.com/artist/3asDPAs8xchUTMEEkpkkPO) | [Another Self](https://open.spotify.com/album/4sLpFVoB0AxlKo5W1O60l0) | 3:49 | 2022-04-15 | 2022-09-03 |
-| [Block Of Wood](https://open.spotify.com/track/38sbz9ql94TLWkNa7YHA16) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [Block Of Wood](https://open.spotify.com/album/5mpeLiDcSNmDZo7GPARi8c) | 3:19 | 2023-05-19 |  |
+| [Block Of Wood](https://open.spotify.com/track/38sbz9ql94TLWkNa7YHA16) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [Block Of Wood](https://open.spotify.com/album/5mpeLiDcSNmDZo7GPARi8c) | 3:19 | 2023-05-19 | 2024-06-15 |
 | [blood pareil](https://open.spotify.com/track/3hoN17LR9d4dGNChOggCWU) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [blood pareil](https://open.spotify.com/album/0dqVqqzi4fmWSheOnGv7js) | 4:24 | 2023-03-10 | 2023-08-26 |
 | [Blue World](https://open.spotify.com/track/2EQqbpuyUD4jwQHwoE6eQq) | [Jesse Mac Cormack](https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C) | [Blue World](https://open.spotify.com/album/4px3NENks6BfQoYDXBI4lM) | 4:41 | 2022-03-25 | 2022-04-23 |
 | [blueprints of us](https://open.spotify.com/track/165ZtkfUdMu36Wqw7YiyGW) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [blueprints of us](https://open.spotify.com/album/3Z4RwK6UvR99QdiDlA3zuF) | 3:18 | 2023-12-08 | 2024-05-25 |
@@ -141,12 +141,13 @@
 | [Entre tes doigts](https://open.spotify.com/track/02GnLnPBFGwjus9dumMEwR) | [Bønanza](https://open.spotify.com/artist/1gfTnzN2xB9VkU72PkBB30) | [Entre tes doigts](https://open.spotify.com/album/350iyHLoBeRHvPVWLJq9bX) | 5:45 | 2022-08-05 | 2023-09-23 |
 | [Espoir](https://open.spotify.com/track/0znL4gWKujsTEvn9dj20ZG) | [Dj Karaba](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy), [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3) | [Souvenirs](https://open.spotify.com/album/6aqa8GOrqhN63ac0NygKvi) | 2:54 | 2023-08-11 |  |
 | [ET SI, DE](https://open.spotify.com/track/0asoN1Hr01zsTgQVKn1k0y) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [ET SI, DE/main l'oiseau](https://open.spotify.com/album/4NJy1ueaJ0uqJwNDsycSVa) | 3:13 | 2023-09-22 |  |
+| [Everybody Loves The Loser](https://open.spotify.com/track/2oR8aFIcHOVsCAA96LvynY) | [Nicholas Cangiano](https://open.spotify.com/artist/7dwVih1QdpLWuZ0OeslLcg) | [Everybody Loves The Loser](https://open.spotify.com/album/0Z4G55IYOqn4btODOxYEXn) | 3:58 | 2024-06-14 |  |
 | [Evolution](https://open.spotify.com/track/4oQbpxHDWMSQ4HVEhoYCFD) | [Braids](https://open.spotify.com/artist/6JX35IQ1Yw84Yjzq2Y5p5i) | [Evolution](https://open.spotify.com/album/18Nmv8QNKh8qjwJnG7iRJD) | 3:50 | 2023-03-17 | 2024-03-30 |
 | [Excellence Europe\-Express](https://open.spotify.com/track/2kF5cIXClKS7kcBoh22hZo) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Concorde \(Deluxe\)](https://open.spotify.com/album/5hfqkqLj5FkmT9yOAnMYJt) | 3:57 | 2022-03-25 | 2023-03-11 |
 | [Eye For An Eye](https://open.spotify.com/track/0V9RRFTEx06xnNDOtRNuoo) | [Alex Nicol](https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu) | [Eye For An Eye](https://open.spotify.com/album/60lPRUPJv9WBKCVhPh76FD) | 3:01 | 2023-06-02 | 2024-04-06 |
 | [Facile](https://open.spotify.com/track/0U2nIrAiDBB2GIavdQ3p6J) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Crash](https://open.spotify.com/album/2YifMIwGXJIIWV5rib1mb2) | 3:13 | 2022-04-15 | 2022-06-11 |
 | [Fait du sens](https://open.spotify.com/track/1KWCsJZq5YjqBPqf1yOgiP) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT), [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Fait du sens](https://open.spotify.com/album/0XmcPP9hH44pkQoFaVaXco) | 3:12 | 2024-05-24 | 2024-06-08 |
-| [Falling Behind](https://open.spotify.com/track/2bgIuOQEKQZ6TDDiMMJbfX) | [Nicholas Cangiano](https://open.spotify.com/artist/7dwVih1QdpLWuZ0OeslLcg) | [Falling Behind](https://open.spotify.com/album/7EKPZpguEOpNXn7R75Zumw) | 3:48 | 2023-08-25 |  |
+| [Falling Behind](https://open.spotify.com/track/2bgIuOQEKQZ6TDDiMMJbfX) | [Nicholas Cangiano](https://open.spotify.com/artist/7dwVih1QdpLWuZ0OeslLcg) | [Falling Behind](https://open.spotify.com/album/7EKPZpguEOpNXn7R75Zumw) | 3:48 | 2023-08-25 | 2024-06-15 |
 | [Far From Here](https://open.spotify.com/track/63jeZf8ae05NB2AKpSURk9) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [Far From Here](https://open.spotify.com/album/31INlZI8RSHleg9Tiq5aF1) | 4:27 | 2023-02-17 | 2023-06-03 |
 | [Femme\-Lady](https://open.spotify.com/track/2oEL7zcZ6W2auzcj0BGwsp) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Femme\-Lady](https://open.spotify.com/album/4CHbXHghoxgeaav8crDiEc) | 3:33 | 2022-04-22 | 2022-08-27 |
 | [Feu intérieur](https://open.spotify.com/track/1r3C1vCD4e0S4SA29V4auY) | [Hey Major](https://open.spotify.com/artist/1J7P80ENkmZgSWEm7diAhV) | [Feu intérieur](https://open.spotify.com/album/5yHCrq24mQpZEfaYFcRfIU) | 3:33 | 2022-05-27 | 2023-06-15 |
@@ -409,6 +410,7 @@
 | [SOFT LIFE](https://open.spotify.com/track/4fp0ypnQqHSKndK2ACcN8T) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [SOFT LIFE](https://open.spotify.com/album/0oFPB3Lo4u1nPs7jGJZQnH) | 3:25 | 2023-10-27 |  |
 | [Soleil cendre](https://open.spotify.com/track/2m5p3PHZfiFLWEaeSO8Byw) | [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z), [David Numwami](https://open.spotify.com/artist/2uKChU7eHSda8R79iR9rel) | [Soleil cendre](https://open.spotify.com/album/4v5b5MhX9GAaBXZjFYM65s) | 2:43 | 2022-03-25 | 2022-10-01 |
 | [Something About](https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Something About](https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM) | 3:44 | 2022-03-25 | 2023-03-04 |
+| [Son Mad](https://open.spotify.com/track/2ajJIOv9mRekNm1wIfMxi6) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Son Mad](https://open.spotify.com/album/5ofh151AVkCnjXPaxDPGyG) | 2:07 | 2024-06-14 |  |
 | [Sossaup](https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [KAYTRAMINÉ](https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW) | 2:36 | 2023-05-19 | 2024-06-08 |
 | [Souvenirs d'hiver](https://open.spotify.com/track/1RA7rGvpb7IcxyIGA6Tbog) | [En Stéréo](https://open.spotify.com/artist/3dqLqFUBy9bxdLwDncL0pm) | [Souvenirs d'hiver](https://open.spotify.com/album/0H8eWhsR7YF42qoYxCj4tn) | 4:04 | 2024-02-09 | 2024-04-06 |
 | [Spotlite](https://open.spotify.com/track/2E2lgZQrewdgFAHoGRp7ob) | [Born At Midnite](https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa) | [\*69 b/w Spotlite](https://open.spotify.com/album/1Ftwhb11RZkJ6gjLU3NyXR) | 2:36 | 2023-12-15 |  |

@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 156600,
       "name": "31",
       "url": "https://open.spotify.com/track/3wVpRDw177Q92oJQWkqELs"
@@ -64,7 +64,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 266880,
       "name": "Alucin Machin",
       "url": "https://open.spotify.com/track/5AibZkdAmpg1cw9qP9KnsH"
@@ -144,7 +144,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 195500,
       "name": "Atraco",
       "url": "https://open.spotify.com/track/37585HGyOwyvroacx8gMwn"
@@ -532,7 +532,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 159600,
       "name": "Confundido",
       "url": "https://open.spotify.com/track/1YrgSEIWCCZSgBmeo8ZmPL"
@@ -558,7 +558,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 257146,
       "name": "Conoceras El Frio",
       "url": "https://open.spotify.com/track/77cvpRNS9DfI8Xh8uWi8I9"
@@ -745,6 +745,28 @@
     },
     {
       "album": {
+        "name": "Diario en el Barrio",
+        "url": "https://open.spotify.com/album/0j89QJo7FWq75LlYWXtNNi"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270521,
+      "name": "Diario en el Barrio",
+      "url": "https://open.spotify.com/track/5Sjo6LOEK64mwVNlProGZ6"
+    },
+    {
+      "album": {
         "name": "Disparo",
         "url": "https://open.spotify.com/album/2oZiqCM9HqOVYLEKHTdEqg"
       },
@@ -764,7 +786,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 222053,
       "name": "Disparo",
       "url": "https://open.spotify.com/track/48WIOq6Rji75sRruneWI7X"
@@ -782,7 +804,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 250000,
       "name": "El Barrio Llora",
       "url": "https://open.spotify.com/track/5VbZ3v9zgCBljy7kxjvvTE"
@@ -808,7 +830,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 231794,
       "name": "El Barrio No Perdona Nada",
       "url": "https://open.spotify.com/track/388PTbNS3PkINg1Pb4rmAS"
@@ -994,7 +1016,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 255789,
       "name": "En El Barrio",
       "url": "https://open.spotify.com/track/6W89riCJaMblBi5CHhB6Vi"
@@ -1458,7 +1480,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 182400,
       "name": "La Luz",
       "url": "https://open.spotify.com/track/1atMva6VKNfdTC353iWU5B"
@@ -1638,7 +1660,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 163704,
       "name": "Ley de Calle",
       "url": "https://open.spotify.com/track/3YLxfHXgpsrvKZDIioJNVc"
@@ -1769,6 +1791,28 @@
     },
     {
       "album": {
+        "name": "Los Sicarios",
+        "url": "https://open.spotify.com/album/4wGV9iSrWRGbhRvfDWeiGy"
+      },
+      "artists": [
+        {
+          "name": "Yeo Freko",
+          "url": "https://open.spotify.com/artist/0soTJyiaS2s59lFcpozwOj"
+        },
+        {
+          "name": "Mosta Flow",
+          "url": "https://open.spotify.com/artist/1vK5kce5mdau16ViLTtP1j"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197934,
+      "name": "Los Sicarios",
+      "url": "https://open.spotify.com/track/5WxNLgR3Gt4Lb0y9W27eHw"
+    },
+    {
+      "album": {
         "name": "Mafia War",
         "url": "https://open.spotify.com/album/6DAAPuNiSuqx0qm45lfjws"
       },
@@ -1784,6 +1828,28 @@
       "duration_ms": 124000,
       "name": "Mafia War",
       "url": "https://open.spotify.com/track/2zdMfp26CxDcF2ReT9Jk06"
+    },
+    {
+      "album": {
+        "name": "Malandron",
+        "url": "https://open.spotify.com/album/6EuHmMamt69d4ySC8aXirm"
+      },
+      "artists": [
+        {
+          "name": "Carlos Luengo",
+          "url": "https://open.spotify.com/artist/3mHjgfw3MBXjD8fuSf8s6e"
+        },
+        {
+          "name": "Richard Ahumada",
+          "url": "https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213660,
+      "name": "Malandron",
+      "url": "https://open.spotify.com/track/3E4M1nM0TYXUDFjVQV14xX"
     },
     {
       "album": {
@@ -1824,7 +1890,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 224339,
       "name": "Malandros en Tu Ciudad",
       "url": "https://open.spotify.com/track/3uBeeBHfBraoPn1qXy18pd"
@@ -1910,7 +1976,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 211500,
       "name": "Mi Don",
       "url": "https://open.spotify.com/track/38uh4OLnMhp99FluHPDPzs"
@@ -1957,6 +2023,24 @@
     },
     {
       "album": {
+        "name": "Mis Demonios",
+        "url": "https://open.spotify.com/album/5xXtWGBc3x0tqPSgPlmA8B"
+      },
+      "artists": [
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210731,
+      "name": "Mis Demonios",
+      "url": "https://open.spotify.com/track/2bt4ICyaBAmqjfSjkMcNtx"
+    },
+    {
+      "album": {
         "name": "Montecarlo",
         "url": "https://open.spotify.com/album/1499LDt8XAKTpIPgtbn2zd"
       },
@@ -1990,7 +2074,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 226046,
       "name": "Mucho Wannabe",
       "url": "https://open.spotify.com/track/6yi2nyqJtGm630oXGHUYbM"
@@ -2365,6 +2449,28 @@
     },
     {
       "album": {
+        "name": "ADN",
+        "url": "https://open.spotify.com/album/6obP0j3QiE8zclzohFE4rA"
+      },
+      "artists": [
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127759,
+      "name": "Perm\u00edteme aplaudir",
+      "url": "https://open.spotify.com/track/4MnNlhp7YJ4AZJey7Ma1Fz"
+    },
+    {
+      "album": {
         "name": "Activados y Prendidos",
         "url": "https://open.spotify.com/album/0bcrVkXzYnNahQtugk52pj"
       },
@@ -2490,7 +2596,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 192500,
       "name": "Rap y Calle No. 15",
       "url": "https://open.spotify.com/track/1XCxkTqxdQu83IDH491H24"
@@ -2512,7 +2618,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 201666,
       "name": "Respeto X Respeto",
       "url": "https://open.spotify.com/track/5z3dtTkyyKCs0yu0aQp8zI"
@@ -2596,7 +2702,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 258045,
       "name": "Sangriao",
       "url": "https://open.spotify.com/track/0U7e6PYFbjOM5z5nDagEAb"
@@ -2618,7 +2724,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 227000,
       "name": "Se Le Batalla",
       "url": "https://open.spotify.com/track/0VEgZAhQ59CxSnPAjay03D"
@@ -2680,7 +2786,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 205060,
       "name": "Sin Escapatoria",
       "url": "https://open.spotify.com/track/6cemBZSbpNTZVHIcYoPhEL"
@@ -2702,7 +2808,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 207560,
       "name": "Sin Juegos",
       "url": "https://open.spotify.com/track/2E2CFvW68tL9GKauv9XTct"
@@ -2728,7 +2834,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 206400,
       "name": "Sirenas",
       "url": "https://open.spotify.com/track/6iAubZ1PiUa3EbN19jWAq8"
@@ -2814,7 +2920,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 281052,
       "name": "SWITCH",
       "url": "https://open.spotify.com/track/60hha07HcgmqYb89l9o4NQ"
@@ -2974,7 +3080,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 152715,
       "name": "Trakas Belico",
       "url": "https://open.spotify.com/track/5aSevcoVohlQUvVyF7NKbC"
@@ -3084,7 +3190,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 214812,
       "name": "Vagos y Malandros",
       "url": "https://open.spotify.com/track/3edKwfX44clLWe4B9Gbv21"
@@ -3154,7 +3260,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 223728,
       "name": "Vete Calmado",
       "url": "https://open.spotify.com/track/0tgrZqlSsY9GjjT0FGmhMt"

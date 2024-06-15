@@ -1,6 +1,6 @@
 {
   "description": "New Music from KAESTLYE, Llona, SOLIS4EVR, taves, ShineTTW & more ",
-  "num_followers": 64127,
+  "num_followers": 64549,
   "original_name": "New Music Friday Naija",
   "owner": {
     "name": "Spotify",
@@ -132,7 +132,7 @@
           "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
         }
       ],
-      "duration_ms": 219797,
+      "duration_ms": 219690,
       "name": "Gen-Z Faaji",
       "url": "https://open.spotify.com/track/6ML4o3KWB24d8R7RU6fVkl"
     },
@@ -228,7 +228,7 @@
           "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
         }
       ],
-      "duration_ms": 156345,
+      "duration_ms": 152711,
       "name": "Okparaji",
       "url": "https://open.spotify.com/track/7px4SA0BxMTaTSz6Mpxpxa"
     },
@@ -635,6 +635,46 @@
     {
       "added_at": "2024-06-14 00:01:00",
       "album": {
+        "name": "BROTHER STONE (FEAT. KODAK BLACK)",
+        "url": "https://open.spotify.com/album/0LWTY98ijfILoFHupcQJKE"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 202840,
+      "name": "BROTHER STONE (FEAT. KODAK BLACK)",
+      "url": "https://open.spotify.com/track/0l3raueiJ78IsmZGwo6CRm"
+    },
+    {
+      "added_at": "2024-06-14 00:01:00",
+      "album": {
+        "name": "SPEAK NOW",
+        "url": "https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 159498,
+      "name": "GANGSTAS RELATE (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/2JCWe0T7tj4FGl95dD1slq"
+    },
+    {
+      "added_at": "2024-06-14 00:01:00",
+      "album": {
         "name": "Naija Anthem (Afro Version)",
         "url": "https://open.spotify.com/album/1xQQxue3uG1jmx8yvEzdoX"
       },
@@ -691,6 +731,26 @@
       "duration_ms": 219840,
       "name": "Hankipanki - Remix",
       "url": "https://open.spotify.com/track/1AvXjAlNaFNlDpSMO4qPum"
+    },
+    {
+      "added_at": "2024-06-14 00:01:00",
+      "album": {
+        "name": "Down For Me",
+        "url": "https://open.spotify.com/album/6AIEDtMEiCnb3f7xuP8yM9"
+      },
+      "artists": [
+        {
+          "name": "A.L.I.A.S",
+          "url": "https://open.spotify.com/artist/3KfBBcEhPPx3s4l1sfttCz"
+        },
+        {
+          "name": "Selorm Jerry",
+          "url": "https://open.spotify.com/artist/3gEz7HaGnUimINViUZpkr0"
+        }
+      ],
+      "duration_ms": 231849,
+      "name": "Down For Me",
+      "url": "https://open.spotify.com/track/0L6cIRuCVhrc1FzGGgSTeT"
     },
     {
       "added_at": "2024-06-14 00:01:00",

@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Vegedream
 
-12,574 songs - 26 day 5 hr 2 min
+12,576 songs - 26 day 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -935,7 +935,7 @@
 | [Ayo Girl \(Fayahh Beat\) \[feat\. Rema\]](https://open.spotify.com/track/57Hk0AE5OhgXrPWZOhipHt) | [Robinson](https://open.spotify.com/artist/352VD5fhV8xzAFcmO7lMwg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Ayo Girl \(Fayahh Beat\) \[feat\. Rema\]](https://open.spotify.com/album/3yR3SqAQdeR0fGXdV4NhXu) | 2:45 | 2022-03-18 | 2022-03-25 |
 | [b i g f e e l i n g s](https://open.spotify.com/track/0Xfkeu82ju4uni0CH2z9XN) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [b i g f e e l i n g s](https://open.spotify.com/album/2H6k8joKIeY5mLZVPyPVfu) | 4:24 | 2024-04-11 | 2024-04-19 |
 | [B.A.M.](https://open.spotify.com/track/4zcvcmOQNzhIseuZyt4Jqe) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [B.A.M.](https://open.spotify.com/album/27tc3vusfciaqBm3j48Upx) | 3:00 | 2022-03-24 | 2022-04-01 |
-| [B.L.I\. Doppel G](https://open.spotify.com/track/1Zux99RZ3JkXNplLEbGRip) | [Bligg](https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr) | [B.L.I\. Doppel G](https://open.spotify.com/album/0hvKgv8Gvr0bZNqkTS0eFB) | 3:02 | 2024-06-13 |  |
+| [B.L.I\. Doppel G \- Tavolata Version](https://open.spotify.com/track/1Zux99RZ3JkXNplLEbGRip) | [Bligg](https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr) | [B.L.I\. Doppel G \(Tavolata Version\)](https://open.spotify.com/album/0hvKgv8Gvr0bZNqkTS0eFB) | 3:02 | 2024-06-13 |  |
 | [B.R.O\. \(Better Ride Out\) \[feat\. Roddy Ricch\]](https://open.spotify.com/track/23pGZ6n6Xd3yV7qK4xw7dx) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [B.R.O\. \(Better Ride Out\) \[feat\. Roddy Ricch\]](https://open.spotify.com/album/0tk8XMpaIuk587IlC8aIfP) | 2:58 | 2022-10-06 | 2022-10-14 |
 | [B.T.W](https://open.spotify.com/track/3oBZ28fHxN2N3MHhUCav0M) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [B.T.W](https://open.spotify.com/album/663RYnWALwCApODIwyqG1d) | 2:04 | 2023-07-06 | 2023-07-14 |
 | [BABA \(feat\. Ghali\)](https://open.spotify.com/track/5eqpqdHsOKMqeI1UXUjAUg) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [BABA \(feat\. Ghali\)](https://open.spotify.com/album/7tfYeVFoIFOk2dun7OXBd5) | 2:49 | 2023-11-16 | 2023-11-24 |
@@ -1740,6 +1740,7 @@
 | [Brot weint nicht](https://open.spotify.com/track/5j9PPvbqAsyfIXUE61pSd8) | [Fettes Brot](https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH) | [Brot weint nicht](https://open.spotify.com/album/1vL4FrkLoL2fleddh46iwj) | 2:51 | 2022-09-01 | 2022-09-09 |
 | [Brother](https://open.spotify.com/track/3JsSno1HjzuQJi1qYT7TQQ) | [Some Sprouts](https://open.spotify.com/artist/41g2y82Z8CADYGlzujOzKp) | [Brother](https://open.spotify.com/album/22YuS7CV7dVp5RSbKTpbxA) | 4:25 | 2023-03-16 | 2023-03-25 |
 | [Brother](https://open.spotify.com/track/0MYP954gQNmP21GrfToORx) | [Telquist](https://open.spotify.com/artist/1P7bWg37j6b4baXFeNNzrE) | [Brother](https://open.spotify.com/album/65vp6Qrdxx0iYGDuWZtHUe) | 2:45 | 2023-11-30 | 2023-12-08 |
+| [BROTHER STONE \(FEAT\. KODAK BLACK\)](https://open.spotify.com/track/0l3raueiJ78IsmZGwo6CRm) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [BROTHER STONE \(FEAT\. KODAK BLACK\)](https://open.spotify.com/album/0LWTY98ijfILoFHupcQJKE) | 3:22 | 2024-06-13 |  |
 | [Brother To You](https://open.spotify.com/track/0u9keTpHsXa73izEri7AJV) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Brother To You](https://open.spotify.com/album/7Dir6KrvfI1hu8rVctB3DP) | 3:11 | 2022-04-21 | 2022-04-29 |
 | [brrr](https://open.spotify.com/track/7AZzCQ6S8HXLFBXsqH2HWE) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [brrr](https://open.spotify.com/album/11OeiSfjvduwX8JHQSgxcQ) | 2:32 | 2023-01-19 | 2023-01-27 |
 | [Bruchpilot](https://open.spotify.com/track/5WC9WmYwELWEaycF1PLvbW) | [Andryy](https://open.spotify.com/artist/7EOSMyuCedHppuXhVBsbEP) | [Bruchpilot](https://open.spotify.com/album/1qRv3FpHmBz3dhMkHDuoCs) | 3:00 | 2023-10-19 | 2023-10-27 |
@@ -12074,6 +12075,7 @@
 | [While You're At It](https://open.spotify.com/track/0hfHF0FsMNyLoaqsvJmqfq) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [While You're At It](https://open.spotify.com/album/2C8nRU6fcdKtxIAduogNgS) | 2:07 | 2022-09-08 | 2022-09-16 |
 | [WHINE & KOTCH \(feat\. Pronto\)](https://open.spotify.com/track/4PWRxVMXsCYk5nsYwl4MJQ) | [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U), [Pronto](https://open.spotify.com/artist/2ZT8zCu4xXbz7R1R0EzqWO) | [WHINE & KOTCH \(feat\. Pronto\)](https://open.spotify.com/album/0LGFcnA22gThkFYxPzW0rG) | 2:41 | 2023-08-24 | 2023-09-01 |
 | [Whip](https://open.spotify.com/track/5e72ONjfXay39aNscBAQ28) | [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4), [RIN](https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz) | [Your Love Is King \(Deluxe\)](https://open.spotify.com/album/5Ks6uNmybiKl8GVlboh31a) | 2:34 | 2024-04-25 | 2024-05-03 |
+| [WHISKEY WHISKEY \(feat\. Morgan Wallen\)](https://open.spotify.com/track/7hRLuo4QnzCsjICXUOhTE6) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [SPEAK NOW](https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9) | 2:41 | 2024-06-13 |  |
 | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj) | 3:01 | 2023-02-09 | 2023-02-17 |
 | [white dress](https://open.spotify.com/track/52RuHnL5Syin3kHLoBvUxK) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [white dress](https://open.spotify.com/album/3atwTksgz29JYwgxuVUbsK) | 3:40 | 2023-02-09 | 2023-02-17 |
 | [White Glove](https://open.spotify.com/track/6NIlYycjhvtKGKtiABymF3) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Alchemical: Volume 1](https://open.spotify.com/album/4kC5hseZbGaAjiJvr9Hk55) | 2:30 | 2023-11-30 | 2023-12-08 |

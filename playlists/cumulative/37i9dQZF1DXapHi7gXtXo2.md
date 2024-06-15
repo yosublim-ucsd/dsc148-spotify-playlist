@@ -4,7 +4,7 @@
 
 > Dale play y déjate llevar por estas finas melodías Indie.
 
-149 songs - 8 hr 13 min
+150 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Hace rato](https://open.spotify.com/track/0QoKaa9fZSFmz9R61OVkTR) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lisboa](https://open.spotify.com/album/4RRb4w2jbfNesupImVAMvW) | 3:16 | 2024-02-29 | 2024-04-19 |
 | [Hasta Que Llegue El Verano](https://open.spotify.com/track/6o2txs2fVptvzLjvlhbTjH) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Hasta Que Llegue El Verano](https://open.spotify.com/album/6TDE63e1LQdZ3A688Kerur) | 3:47 | 2024-04-05 |  |
 | [Helado de Mango](https://open.spotify.com/track/6Ic36Kj94nFDc2NHsqvo59) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA) | [Helado de Mango](https://open.spotify.com/album/0aWD6AMbVemB4o2jJhiBub) | 3:28 | 2023-12-01 | 2024-04-19 |
+| [HESTIA](https://open.spotify.com/track/2VwX9x7vXdrGOUog2WsC0K) | [Ona](https://open.spotify.com/artist/3bfQHgnjOeXb7EcypUNZeC), [Alfonsina](https://open.spotify.com/artist/2PiVgpD2ynESIozDDEEh8k) | [HESTIA](https://open.spotify.com/album/5br1AP2uRsAxffzxjyjMS0) | 3:58 | 2024-06-14 |  |
 | [Historia de un Amor](https://open.spotify.com/track/1ummXcPcrn21a5OFOjHlpT) | [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex), [Denas & Miut](https://open.spotify.com/artist/08YpjO7782fC1b4GpR0LsQ) | [Historia de un Amor](https://open.spotify.com/album/7GNyEER5rbwEVpAWeep70c) | 2:45 | 2023-12-15 |  |
 | [INFINITO](https://open.spotify.com/track/04tnLrQaFpuV9KMgnxbuCt) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [TE QUIERO](https://open.spotify.com/album/0wEYSJWNHI1blWJmwCRRfo) | 3:05 | 2023-12-01 | 2024-04-19 |
 | [Ir derecho](https://open.spotify.com/track/7jK1aQltgQJ32aGYj6U7lh) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Hola Precioso](https://open.spotify.com/album/03oOcZPLDZdsocx9QkkNty) | 3:26 | 2023-12-01 |  |
@@ -137,7 +138,7 @@
 | [Susurrito](https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Feroza](https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A) | 2:58 | 2023-12-01 |  |
 | [Tarde o Temprano](https://open.spotify.com/track/7CJbGTWfMlNYkhk2MgBfde) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Tarde o Temprano](https://open.spotify.com/album/5MVlQJ6WnmXjzje3ruMLvS) | 3:33 | 2023-12-01 |  |
 | [Tardes de Melancolía](https://open.spotify.com/track/51mmo3YuNgD3SvK7G5HHcv) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Besos en la Espalda](https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3) | 3:30 | 2023-12-01 |  |
-| [Te odio](https://open.spotify.com/track/1vzlHuHG3faKy8B0eM1qkz) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Te Odio](https://open.spotify.com/album/1DRNhAJ66xVONSta9qI4Zw) | 3:33 | 2024-06-07 |  |
+| [Te odio](https://open.spotify.com/track/1vzlHuHG3faKy8B0eM1qkz) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Te Odio](https://open.spotify.com/album/1DRNhAJ66xVONSta9qI4Zw) | 3:33 | 2024-06-07 | 2024-06-15 |
 | [Te Pienso Todo el Tiempo](https://open.spotify.com/track/14CtkTc8EgxHM1fjfkiGXx) | [Todo El Verano](https://open.spotify.com/artist/36ql1hMBBeWfqeQmK5vXn9), [La Femme D´Argent](https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ) | [Te Pienso Todo el Tiempo](https://open.spotify.com/album/1z3DJNUHiZ47dMH0rNjEwz) | 3:33 | 2023-12-01 | 2024-04-19 |
 | [Todo el Universo](https://open.spotify.com/track/7JkXZoP7sjI2RyMWKCmjjH) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Todo el Universo](https://open.spotify.com/album/2dJaJry3QESqGSZQb0GsoL) | 3:03 | 2023-12-01 |  |
 | [Todo Estaba Bien](https://open.spotify.com/track/72m6x9D3NCMs2MsE4wHMIC) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Todo Estaba Bien](https://open.spotify.com/album/7KPVPMG8NmmqMsuPlQDl8P) | 3:08 | 2023-12-01 |  |

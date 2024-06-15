@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 
 > Channel some chilled\-out back yard vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,601,638 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,601,627 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 99 | [What Have We Got to Lose](https://open.spotify.com/track/2sCDzRlkLoeYpZX00i6iiq) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9), [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [What Have We Got to Lose](https://open.spotify.com/album/5TeiUeXr6EdjZL9F08QPJf) | 2:49 |
 | 100 | [Whiskey Whiskey](https://open.spotify.com/track/12oNWDCd6iK6NIsCZFg3B0) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Whiskey Whiskey](https://open.spotify.com/album/37vW9MedFrxDPmdQlKz5dB) | 2:49 |
 
-Snapshot ID: `ZlAQwAAAAADCGHacIh0ZY+PcwOcFQDWV`
+Snapshot ID: `ZmvAQAAAAABC276yeV8y3pBI/mioAKRp`

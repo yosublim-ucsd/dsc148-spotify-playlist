@@ -4,7 +4,7 @@
 
 > The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Puntería,&quot;  Cover: Beéle x Maria Becerra x JoeBoy x Humby
 
-788 songs - 1 day 18 hr 9 min
+790 songs - 1 day 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [ANDALE](https://open.spotify.com/track/13d86x60ox3cQPxI7Cc2Pb) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [NASTY SINGLES](https://open.spotify.com/album/7FLx7IRjwUsg9nqSGpZKg9) | 2:46 | 2023-12-08 |  |
 | [Ando Sad](https://open.spotify.com/track/2kkXtrMcusksHbshFn8kPf) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Ando Sad](https://open.spotify.com/album/3YK7JmTZQmwnSNbNv9asHS) | 2:38 | 2023-04-28 | 2023-06-01 |
 | [Anestesia](https://open.spotify.com/track/2EQKYVMpnpvyUaHZL2VQlU) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Anestesia](https://open.spotify.com/album/2nYhva0TxRBllKxG3lqISd) | 3:13 | 2023-03-24 | 2023-06-01 |
+| [ANESTESIA](https://open.spotify.com/track/0FBYr7mYNWv4p1F6KPBisj) | [Venesti](https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX), [Slow Mike](https://open.spotify.com/artist/25ffNKG1EAXf8RBN88lXKH) | [Anestesia](https://open.spotify.com/album/1xbZVMAqB3YL2HfXZyMOfb) | 2:45 | 2024-06-14 |  |
 | [ANTES QUE SALGA EL SOL](https://open.spotify.com/track/1vucS7X4otbyQSZ9RXYXFI) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [ANTES QUE SALGA EL SOL](https://open.spotify.com/album/1LRi8tnlnSaxAcffcxzhwi) | 3:03 | 2022-02-02 | 2023-05-26 |
 | [AOK \- with Manuel Turizo](https://open.spotify.com/track/4mMVfVrFM6b0boY4EXTFvK) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [AOK \(with Manuel Turizo\)](https://open.spotify.com/album/6oKpggTx92dsXIbFgfUgDf) | 3:13 | 2022-02-02 | 2023-05-26 |
 | [Apapáchame Lento](https://open.spotify.com/track/04BffOVFlbFBHZMy8hBK9N) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2) | [Apapáchame Lento](https://open.spotify.com/album/3517qoFZybOtp9VKJh62Gp) | 3:21 | 2024-06-07 |  |
@@ -281,6 +282,7 @@
 | [Flores](https://open.spotify.com/track/6aNgqSTPML2B5XsohIiL7D) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:16 | 2022-10-31 | 2023-05-26 |
 | [Foto de Perfil](https://open.spotify.com/track/39IkVWszvdXMPozlCYi0yX) | [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [BESITOS Y BESITAS](https://open.spotify.com/album/77CfbYt3OGzTxk7bCugAS5) | 3:43 | 2022-04-18 | 2023-05-26 |
 | [Fría](https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8) | [Fría](https://open.spotify.com/album/77OtfyQRt7k1nPFa9FqqlJ) | 2:56 | 2024-02-02 |  |
+| [Fría \- French Remix](https://open.spotify.com/track/0iTVdlRhA4TT9pLKjEmjsD) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Tiana da Rocha](https://open.spotify.com/artist/3KYdnM0Ba2MngqmElBqIZk) | [Fría \(French Remix\)](https://open.spotify.com/album/3amOCLytIzLu6aK7vN3GSi) | 2:56 | 2024-06-14 |  |
 | [Fría \- Remix](https://open.spotify.com/track/1alnEk6Ileyn9W2pAINu0q) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8), [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [Fría \(Remix\)](https://open.spotify.com/album/26Myqnfs2h2756VNPfPz1I) | 2:56 | 2024-04-19 |  |
 | [Frío](https://open.spotify.com/track/0df1oUN5ta7FSWwjGvhHa5) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Frío](https://open.spotify.com/album/4ya6dMKyTfwrrcdkoROD8O) | 2:35 | 2022-11-24 | 2023-06-01 |
 | [Fuego de Noche, Nieve de Día](https://open.spotify.com/track/4zdKE0VFQ0su2GpZMBCwUM) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Fuego de Noche, Nieve de Día](https://open.spotify.com/album/5MPWqO3tZLzTjCXYK74Sos) | 4:42 | 2023-09-20 |  |

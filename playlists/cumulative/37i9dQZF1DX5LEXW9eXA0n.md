@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: HYNN\(박혜원\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: Urban Zakapa\(어반 자카파\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,231 songs - 3 day 7 hr 46 min
+1,236 songs - 3 day 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Confession](https://open.spotify.com/track/59OQ9zPGXtzMMIz2q8INhg) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Cheer Up \(Original Soundtrack Part.2\)](https://open.spotify.com/album/7quVqU9K0eqi8P7214gFIy) | 4:39 | 2022-10-12 | 2023-01-12 |
 | [Confession Is Not Flashy](https://open.spotify.com/track/0q58M70BS6kq2q82rpwxcz) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/0Z2dJ96Dei0wMA7Lz2dpgQ) | 3:48 | 2021-12-23 | 2022-06-20 |
 | [Could you come out for a second \(Prod\. YounToven\)](https://open.spotify.com/track/1tQ7LxGCwvAYFKsZZhBRZd) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [Could you come out for a second \(Prod\. YounToven\)](https://open.spotify.com/album/1QzfVa9kZIc6PFvpIwtxFS) | 3:16 | 2023-11-02 | 2024-02-02 |
+| [Counting Days](https://open.spotify.com/track/2bnGfY6ZtuoNm9jSMt8HaD) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [Counting Days](https://open.spotify.com/album/0g3wLgXbtmTGUzakbUsrjc) | 3:56 | 2024-06-14 |  |
 | [Crush on you](https://open.spotify.com/track/3TUPqVuyNK2mPeA9QmHygo) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Crush on you](https://open.spotify.com/album/15XmBCE8jEWzbqzD0Z1vuw) | 2:55 | 2023-09-14 | 2023-11-03 |
 | [Curiosity](https://open.spotify.com/track/2XCErHtPrNPA3SIYgAoica) | [MIJOO](https://open.spotify.com/artist/3kDLzk5AtS3cQaVXkISAzO) | [Curiosity](https://open.spotify.com/album/3DKezdDevdEAMi3gT3czOt) | 3:24 | 2023-12-21 | 2024-02-16 |
 | [Darling](https://open.spotify.com/track/1W5IcItEBB4x58xlcFUG6t) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Darling](https://open.spotify.com/album/3E66L4GRXng49nIsQloQFi) | 3:52 | 2021-12-23 | 2022-04-17 |
@@ -269,6 +270,7 @@
 | [Eternity](https://open.spotify.com/track/6FzyaKj1ra703h2h7ymkfn) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Eternity](https://open.spotify.com/album/7ouOKBMuNwrBddH82YWTmO) | 5:37 | 2022-12-05 | 2023-01-21 |
 | [Even if fate separates us](https://open.spotify.com/track/3EJJObwczdPZlWvD8lk94t) | [Song Ha Yea](https://open.spotify.com/artist/28swpgrq4Fmfayz13dWrJi) | [Even if fate separates us](https://open.spotify.com/album/1aM0VqxuVamCdVAhbfiMVq) | 3:49 | 2022-06-18 | 2022-09-06 |
 | [Even if it rains again](https://open.spotify.com/track/3NYhHnmZGKX1wzeBwjeNfK) | [성유진](https://open.spotify.com/artist/3FecfVivS2YZ2wUl0vegwP) | [Even if it rains again](https://open.spotify.com/album/4Ife3HPZDQjZIDRl7zBns9) | 4:01 | 2023-05-31 | 2023-09-15 |
+| [Even If I’m Crazy](https://open.spotify.com/track/441x9yjdJ7MxzfkRdPtmvh) | [4MEN](https://open.spotify.com/artist/7oFIkpNpLrTBgZW6w55W1J) | [Even If I’m Crazy](https://open.spotify.com/album/6DGhs9e7YfmnVjd4eosynH) | 3:35 | 2024-06-14 |  |
 | [Even if nobody cares for you](https://open.spotify.com/track/3wDgRdUelv4VWol7FlPlTu) | [SE O](https://open.spotify.com/artist/4dmLLMVwXZhYS75M20eAtb) | [Nobody Knows \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/7pVx21fpVF6hh4mG8cbANz) | 3:20 | 2022-01-27 | 2022-06-24 |
 | [Even Silently Cry\(2023\)](https://open.spotify.com/track/7zVeCI0asI0C42OQtAl3nD) | [Lee A Young](https://open.spotify.com/artist/5FpU6Sx82VSTvnoxtbVv6q) | [Beginning is the First Kiss \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/1vYvzttBDeonkb8m7aw6vH) | 4:39 | 2023-07-07 | 2023-10-20 |
 | [Even Then, I](https://open.spotify.com/track/3aATak00Bg68cyJwMyIgrS) | [찰리빈웍스](https://open.spotify.com/artist/1aoo4BsnCKdH4feovaFNcF) | [Even Then, I](https://open.spotify.com/album/3PXL79oceHp1bAMpGVknD4) | 4:31 | 2022-05-03 | 2022-05-12 |
@@ -335,6 +337,7 @@
 | [Go Back](https://open.spotify.com/track/5BTRHDHNRDdFUYcbTeOacW) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [Go Back](https://open.spotify.com/album/5LZW8K0fStxs9cq1n22dfc) | 4:48 | 2022-01-03 | 2022-06-07 |
 | [Good Bye, I Hope You Are Happy](https://open.spotify.com/track/1bhZa29MC8N3eBGtUSaKuy) | [Baek Grim](https://open.spotify.com/artist/6mVsxcJyevC8Aqe722CfFB) | [Good Bye, I Hope You Are Happy](https://open.spotify.com/album/7rt6qJRWwZf9gjiZiNjfGS) | 4:10 | 2023-02-24 | 2023-04-27 |
 | [Good Night](https://open.spotify.com/track/4nuQczEO0ZmPW1cfKFS0Ap) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Good Night](https://open.spotify.com/album/0ka0zzPgwRPNZmI68vqf5k) | 4:18 | 2022-03-29 | 2022-04-20 |
+| [Good Night](https://open.spotify.com/track/2ze6HMOtmqYEY7fp6eCYem) | [GB9](https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr) | [Good Night](https://open.spotify.com/album/2d1fMGxCm9cpHFfMMFidWK) | 3:40 | 2024-06-14 |  |
 | [Good Night MY LOVE](https://open.spotify.com/track/08JrdECBp67G9IwipvxuBO) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [Good Night MY LOVE](https://open.spotify.com/album/3LlVa0CZ3pzgZfK3Gdeljl) | 4:19 | 2021-12-20 | 2022-06-17 |
 | [Good Night My Princess](https://open.spotify.com/track/12QoF5mIoZ1ZrVZFoc2Nwl) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Bare&Rare, Pt\. 1](https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR) | 3:52 | 2022-07-12 | 2022-10-15 |
 | [Goodbye](https://open.spotify.com/track/35CDs1dRAQHET3C3L8pC1s) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Goodbye](https://open.spotify.com/album/2yqXymIotLIx9BCuRIAWFU) | 2:56 | 2023-02-24 | 2023-06-23 |
@@ -379,6 +382,7 @@
 | [Hold My Hand](https://open.spotify.com/track/7brPjLpvlaYLnPGCA9U6y7) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Now, We Are Breaking Up \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/7yfqRYBQmoNZqoeGe4kPeM) | 3:30 | 2021-12-23 | 2022-07-05 |
 | [Hold on](https://open.spotify.com/track/4I8HkdCUsx3klJdXyefBaq) | [DOHU](https://open.spotify.com/artist/2R1wgdbaWY2KJG9xLWJ2Vh) | [Hold on](https://open.spotify.com/album/4xDmwkuOs9WDHKMVdmNiH3) | 3:51 | 2023-01-20 | 2023-03-28 |
 | [Hold On](https://open.spotify.com/track/7ch0WVownlf3971uGCwJcv) | [Yumin](https://open.spotify.com/artist/7mpr6KFA3Ss5MDZA0cy6ve) | [Hold On](https://open.spotify.com/album/1Pwno5h3SQ06NiwZmxERh1) | 3:36 | 2022-07-07 | 2022-09-06 |
+| [Home again](https://open.spotify.com/track/0DVBGj3ltGmEkd9PGM7N6z) | [KIM DAE KWON](https://open.spotify.com/artist/4iG3GcO82DQA1aFS14FkSN) | [Diary, Two days](https://open.spotify.com/album/5wDP2MmiEBSi0JShzbKaqU) | 3:34 | 2024-06-14 |  |
 | [Honey Milk Tea](https://open.spotify.com/track/0eYoLzJApcy4FqebJMLiSS) | [Lim sang hyun](https://open.spotify.com/artist/1Sp4nuyvQoJh0aLV3RXaf0) | [Honey Milk Tea](https://open.spotify.com/album/5YBEOqh7IMmqQaHV8Iushk) | 3:42 | 2022-03-29 | 2022-06-25 |
 | [Hopefully sky](https://open.spotify.com/track/0w246i6rL2nkjgnyNNAmg6) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [Hi Bye Mama \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/5qM2yc5dwte5lQiuw2Dnvy) | 4:29 | 2021-12-23 | 2022-06-08 |
 | [Hopeless Romantic \(Feat\. LEE SUHYUN\)](https://open.spotify.com/track/0LY4jOJChwNOYUp2dTNEss) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [Hopeless Romantic](https://open.spotify.com/album/1EVvzyt33kcS37UOcQIhYS) | 3:55 | 2023-02-28 | 2023-07-08 |
@@ -1075,6 +1079,7 @@
 | [Walk With Me](https://open.spotify.com/track/71awe49SI4ZCz4JYChmSV0) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [Walk With Me](https://open.spotify.com/album/3E4D5ojNyym9TEc9uTlwAd) | 4:06 | 2021-12-20 | 2022-04-20 |
 | [want to love you](https://open.spotify.com/track/4is7rfBhIbPBpVdAMnhFoQ) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 3:27 | 2021-12-23 | 2022-06-16 |
 | [Warmth](https://open.spotify.com/track/3vnaEaDxMKdBhqA1t0uAwl) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Warmth](https://open.spotify.com/album/700oyQvND1pNIADYqOkrre) | 3:55 | 2024-05-07 |  |
+| [Was it my fault for loving you so much?](https://open.spotify.com/track/49QIrzOCOiheYSUTGhLqWX) | [morning coffee](https://open.spotify.com/artist/0LHfA50RG8DSCk4divJea4) | [A Profitable Cage OST Part.12 \(Soundtrack\)](https://open.spotify.com/album/3hn4ThCKZ5dF4VWvk9vBjW) | 3:14 | 2024-06-14 |  |
 | [WAVE](https://open.spotify.com/track/5VeByROjeglnNRZFobQOev) | [Highlight](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [The Blowing](https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC) | 3:30 | 2022-03-09 | 2022-04-21 |
 | [We have to meet again](https://open.spotify.com/track/0uVph63q5eSAg2unH0nZG2) | [THE ADE](https://open.spotify.com/artist/60ftnqC2sZGUXDqElMPvTy) | [Poong, the Joseon Psychiatrist2 \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/7MnZ9H7oqFVQuY613fZaV8) | 4:30 | 2023-01-20 | 2023-03-28 |
 | [We haven't broken up yet](https://open.spotify.com/track/6gEFr1UkQ1vd4MCkcKB5On) | [VROMANCE](https://open.spotify.com/artist/5YPW3OmiqnqnQaFjloAvA7) | [We haven't broken up yet](https://open.spotify.com/album/4hBTuwgGBdFuG5Q3qYMo3r) | 3:35 | 2023-03-15 | 2023-07-18 |

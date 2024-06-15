@@ -3315,7 +3315,7 @@
     },
     {
       "album": {
-        "name": "Read My Lips",
+        "name": "Read My Lips (Deluxe Version)",
         "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
       },
       "artists": [
@@ -4881,6 +4881,28 @@
     },
     {
       "album": {
+        "name": "The Spark",
+        "url": "https://open.spotify.com/album/6xNvkXuK0QL7vr9wEsCREW"
+      },
+      "artists": [
+        {
+          "name": "Kabin Crew",
+          "url": "https://open.spotify.com/artist/6BHou7i94KE1FpHgDVWZEK"
+        },
+        {
+          "name": "Lisdoonvarna Crew",
+          "url": "https://open.spotify.com/artist/7BUWoquo4gsA4kREUujbSi"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146384,
+      "name": "The Spark",
+      "url": "https://open.spotify.com/track/0bhnFakmRioZbuQcmhVwoH"
+    },
+    {
+      "album": {
         "name": "These Words",
         "url": "https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq"
       },
@@ -5152,7 +5174,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 112699,
       "name": "Veggie Dance - Remix",
       "url": "https://open.spotify.com/track/2BBvcBwojcHlSTjp48I2SJ"

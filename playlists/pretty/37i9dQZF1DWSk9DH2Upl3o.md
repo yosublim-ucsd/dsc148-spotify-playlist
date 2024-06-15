@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 
 > The jam scene is alive and well\. Cover: SunSquabi
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,588 likes - 100 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,619 likes - 100 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [My Mans Was a Funky Cat](https://open.spotify.com/track/7yvrKIBMBgPwbBWmb6ZO9K) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [My Mans Was a Funky Cat](https://open.spotify.com/album/5Psv09dk1wPIoiPTUz5F4s) | 4:29 |
-| 2 | [Local on the 8s \(feat\. Michael Burton\)](https://open.spotify.com/track/4eT5B9NbyzsD74UCivbu71) | [YAM YAM](https://open.spotify.com/artist/2Y6yVzWTfqjVEMvwO4UX63), [Michael Burton](https://open.spotify.com/artist/3kNNAtVGx2tvZc6DEHOlE7) | [Local on the 8s \(feat\. Michael Burton\)](https://open.spotify.com/album/2ozVwGkTLNFtcNesGvkq67) | 5:40 |
-| 3 | [Oblivion](https://open.spotify.com/track/6HvnPZNXaiaOzHldLAiOfE) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Oblivion](https://open.spotify.com/album/6EEjJ6CtxuWLGW34oQkFXv) | 6:03 |
+| 1 | [Hey Stranger](https://open.spotify.com/track/7y9TVM2phcRCwSlevzG7pj) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Hey Stranger](https://open.spotify.com/album/3LrKY4Q1ZJdOXDAEeKGfE9) | 4:48 |
+| 2 | [My Mans Was a Funky Cat](https://open.spotify.com/track/7yvrKIBMBgPwbBWmb6ZO9K) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [My Mans Was a Funky Cat](https://open.spotify.com/album/5Psv09dk1wPIoiPTUz5F4s) | 4:29 |
+| 3 | [Local on the 8s \(feat\. Michael Burton\)](https://open.spotify.com/track/4eT5B9NbyzsD74UCivbu71) | [YAM YAM](https://open.spotify.com/artist/2Y6yVzWTfqjVEMvwO4UX63), [Michael Burton](https://open.spotify.com/artist/3kNNAtVGx2tvZc6DEHOlE7) | [Local on the 8s \(feat\. Michael Burton\)](https://open.spotify.com/album/2ozVwGkTLNFtcNesGvkq67) | 5:40 |
 | 4 | [Knowledge or Wisdom](https://open.spotify.com/track/0oIbvgSpbzZtX3ovD14Z27) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh), [Ram Dass](https://open.spotify.com/artist/3XX4k7fPq9gcyZRDrbXfnS) | [Improvisations with Ram Dass](https://open.spotify.com/album/09OgnSuSxMsE29yUUoHoO8) | 6:56 |
 | 5 | [Sum'n Boutchu](https://open.spotify.com/track/4THWSAfTsDC6W7rzgLeYpZ) | [Hot Like Mars](https://open.spotify.com/artist/26JLN9tc9p730kRILV3mvh) | [Sum'n Boutchu](https://open.spotify.com/album/6zaZBgMflZM7MMOEnFj0GA) | 5:05 |
 | 6 | [How Do I Come Down](https://open.spotify.com/track/4tKPAW11lGdkfPZLpvbgxI) | [Lotus ](https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk) | [How Do I Come Down](https://open.spotify.com/album/1u8CBtWZJmwOTAXhNXrWNq) | 5:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 99 | [The Wheel](https://open.spotify.com/track/1gQYm7VKVjc9ExTKVT409f) | [Plantasia](https://open.spotify.com/artist/7ahksytqjF7OhN0kFEZ2Du) | [The Wheel & The Witness](https://open.spotify.com/album/5ZXpDefilGS1vQOgV3P5vG) | 4:05 |
 | 100 | [Railroad City](https://open.spotify.com/track/1cY5P52MED6HxdgZCLHrnJ) | [Lost Ox](https://open.spotify.com/artist/0teB6cQnhex8MyjtX1RhfX) | [Stuck](https://open.spotify.com/album/5X3DDdA3ezjDcqiETPZLkR) | 4:46 |
 
-Snapshot ID: `ZmKFwAAAAACSRXfmfurJ7UiBr2WS11/5`
+Snapshot ID: `ZmvAQAAAAADFHsd04Qu2O9VQ1qjg01fX`

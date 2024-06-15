@@ -1,13 +1,49 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Amythyst Kiah",
-  "num_followers": 444686,
+  "num_followers": 444754,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmKFwAAAAABX24SArkNgcLL6f8NuCFxt",
+  "snapshot_id": "ZmvAQAAAAABZZ3ILKvCgn4fDDcEFMeS/",
   "tracks": [
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Gotta Believe (with The Blind Boys Of Alabama)",
+        "url": "https://open.spotify.com/album/0Mf6PSdMNaPgO0EBejws7x"
+      },
+      "artists": [
+        {
+          "name": "Donavon Frankenreiter",
+          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
+        },
+        {
+          "name": "The Blind Boys Of Alabama",
+          "url": "https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH"
+        }
+      ],
+      "duration_ms": 221004,
+      "name": "Gotta Believe - with The Blind Boys Of Alabama",
+      "url": "https://open.spotify.com/track/49mG3SEU4SwUysCslef0me"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Fat Cat Silhouette",
+        "url": "https://open.spotify.com/album/1yfKoTH7qutAxGbjpZGHJs"
+      },
+      "artists": [
+        {
+          "name": "Oliver Wood",
+          "url": "https://open.spotify.com/artist/74evjLDRTaA6Fz6s2rHudU"
+        }
+      ],
+      "duration_ms": 175564,
+      "name": "Whom I Adore",
+      "url": "https://open.spotify.com/track/0KyEGhg4AcfSuMrgPjMdEc"
+    },
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
@@ -1371,26 +1407,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Call Me A Fool [Feat. Carla Thomas]",
-        "url": "https://open.spotify.com/album/0pSxVdyHM0NrcDQtCIU8Xl"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        },
-        {
-          "name": "Carla Thomas",
-          "url": "https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj"
-        }
-      ],
-      "duration_ms": 223880,
-      "name": "Call Me A Fool [Feat. Carla Thomas]",
-      "url": "https://open.spotify.com/track/3kuHcdkHwdnxSOFrPiHkoj"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Cherry Red Boots / Somebody Tryin\u2019 To HooDoo Me",
         "url": "https://open.spotify.com/album/12Ms9IQbpfywaJWETeoeBI"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 222853,
       "name": "Lost & Lonesome",
       "url": "https://open.spotify.com/track/546RhRX8VYDgcZ9obgTkkX"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Unchange",
-        "url": "https://open.spotify.com/album/0mIUChNWteeV1bIrROMlsH"
-      },
-      "artists": [
-        {
-          "name": "Gina Sicilia",
-          "url": "https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ"
-        }
-      ],
-      "duration_ms": 204629,
-      "name": "Unchange",
-      "url": "https://open.spotify.com/track/49Dq6pn80uHKYd5htblAXl"
     },
     {
       "added_at": "2023-10-06 04:00:00",

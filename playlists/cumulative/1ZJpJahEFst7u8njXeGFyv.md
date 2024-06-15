@@ -4,7 +4,7 @@
 
 > Relax, unwind, study or work to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl\. Yo\-Yo Ma, Alexis Ffrench, Alexandra Streliski and more.
 
-621 songs - 1 day 15 hr 28 min
+623 songs - 1 day 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [BORDERS](https://open.spotify.com/track/7kd29hQliuo3wqBZJfZj1F) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [BORDERS](https://open.spotify.com/album/7rKxm5ZbTSVErOoJs8K40C) | 2:59 | 2023-02-10 | 2023-04-22 |
 | [Brotin](https://open.spotify.com/track/6IcniICSO1Q72jmxvLIy6j) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [Bylur](https://open.spotify.com/album/1qNi4PwUQTGAJxDFABvGw7) | 3:15 | 2022-09-25 | 2023-04-22 |
 | [Buongiorno Principessa \(From "La vita è bella"\)](https://open.spotify.com/track/6vvYxqVnNhyWajPOh55SqB) | [Nicola Piovani](https://open.spotify.com/artist/11XlNd1KqePugYImzM1ZKJ), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng), [The City of Prague Philharmonic Orchestra](https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu), [Ben Palmer](https://open.spotify.com/artist/7BuKIq2YqVZhxSdquEnwko) | [Cinéma](https://open.spotify.com/album/5kKfH4ksnLxzQAujQAhNrT) | 3:03 | 2023-09-22 | 2024-02-24 |
+| [Butterfly](https://open.spotify.com/track/32q8GrkqQotlZjWLJMHyF8) | [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [Butterfly](https://open.spotify.com/album/6PQEXTlkunfNtJ5tgT5eVd) | 3:28 | 2024-06-14 |  |
 | [Canon in D Major for Strings and Continuo](https://open.spotify.com/track/7AafyLw1ZhdezoI0Lfv5vf) | [Johann Pachelbel](https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3), [City of London Sinfonia](https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL), [Andrew Watkinson](https://open.spotify.com/artist/211RcasIRCISh1U0VGFmAE) | [Relaxing Classics](https://open.spotify.com/album/15ySNjCbDjE89Xq7gl9l7f) | 4:18 | 2022-09-25 | 2023-04-22 |
 | [cascades](https://open.spotify.com/track/1L1d4vJ50Y6glE97NWNW5X) | [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [cascades](https://open.spotify.com/album/4MP9vgiP1m7uo7F5BJywGe) | 2:20 | 2024-01-16 | 2024-02-24 |
 | [Cavalleria Rusticana: Intermezzo](https://open.spotify.com/track/7xsXUUcbKekf9i6m0EZGLi) | [Pietro Mascagni](https://open.spotify.com/artist/3Z5fRknMBBNfCw6pkgR9S8), [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3), [Libor Pešek](https://open.spotify.com/artist/0f4gYAcahUX8MaZxWQ2PG4) | [Relaxing Classics](https://open.spotify.com/album/15ySNjCbDjE89Xq7gl9l7f) | 3:37 | 2022-09-25 | 2023-04-22 |
@@ -183,6 +184,7 @@
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/5lAO6m85hkAO21yNd3QegG) | [Ralph Blane](https://open.spotify.com/artist/1iIajqbWEB7WRQUjzrz4qL), [Hugh Martin](https://open.spotify.com/artist/4n5HR9kS4Dhl1t685XlDhW), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Christmas Piano with Alexis](https://open.spotify.com/album/2YymiUCe4WEr0GBJ0aSLFx) | 3:03 | 2023-12-08 | 2024-01-16 |
 | [Here And Now](https://open.spotify.com/track/7FUViQMUr1KvHPBPeXCLvD) | [Dirk Maassen](https://open.spotify.com/artist/758yIKdhJhWL6oTuTSFVV6) | [Here And Now](https://open.spotify.com/album/0rh2udD9KDXNZmNiMjtY1e) | 2:39 | 2023-04-21 | 2023-10-25 |
 | [Herz und Mund und Tat und Leben, BWV 147: Jesu, Joy of Man's Desiring](https://open.spotify.com/track/3Tp1zgYq4QFX52Vf0FvxVm) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Andrew Watkinson](https://open.spotify.com/artist/211RcasIRCISh1U0VGFmAE), [City of London Sinfonia](https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL) | [Relaxing Classics](https://open.spotify.com/album/15ySNjCbDjE89Xq7gl9l7f) | 3:16 | 2022-09-25 | 2023-04-22 |
+| [Hey Ya!](https://open.spotify.com/track/5utJbgEfRvgCfgca9naQxZ) | [Alban Claudin](https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp) | [Hey Ya!](https://open.spotify.com/album/0ZKCeXyo4d0d8eSGhlne8U) | 3:19 | 2024-06-14 |  |
 | [hinterland](https://open.spotify.com/track/104enS8lxFOsHjGRnOqNJW) | [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [hinterland](https://open.spotify.com/album/02Bx4gHUC1M89t9IWktEcR) | 2:18 | 2024-01-16 | 2024-02-24 |
 | [Hoa](https://open.spotify.com/track/50g8ovmtcpwYvG6BEyVST4) | [Johannes Johansson](https://open.spotify.com/artist/7u7VohKLwXLckuyYejvmff) | [Hoa \(Original Soundtrack\)](https://open.spotify.com/album/7gd72w6wdutX9soiomGFat) | 4:15 | 2022-09-25 | 2022-11-30 |
 | [Hollow](https://open.spotify.com/track/0bd5X6ndZS46pr3ffGaeeh) | [Cecilia De Maria](https://open.spotify.com/artist/1GYknZXS2fo07Q2fWx6WPE) | [Hollow](https://open.spotify.com/album/6iOsv1JjNXOQm28iKgq2H1) | 3:44 | 2022-09-25 | 2023-01-04 |

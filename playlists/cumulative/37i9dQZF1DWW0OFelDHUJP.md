@@ -4,7 +4,7 @@
 
 > Chai, Baarish and some Indie tunes to accompany you!
 
-88 songs - 5 hr 50 min
+90 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Milon Chala](https://open.spotify.com/track/5ecd1P14qnv5ulQZgfwlSA) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1) | [Milon Chala](https://open.spotify.com/album/3QB6YFuijp7nT2F1i75Eia) | 3:10 | 2024-03-28 | 2024-04-19 |
 | [Muddat](https://open.spotify.com/track/6gDvlfH71sjBtvRjolLX2Q) | [Bharat Chauhan](https://open.spotify.com/artist/2sSTjTnRtGa3KrEjMoMaAe) | [Muddat \- Single](https://open.spotify.com/album/2TH5sgjU2nP6XGYHHZA8mI) | 4:14 | 2023-11-15 | 2024-04-19 |
 | [Muddat](https://open.spotify.com/track/7rgQx9d0qj0tgRGuhq4Fca) | [Bharat Chauhan](https://open.spotify.com/artist/2sSTjTnRtGa3KrEjMoMaAe) | [Muddat \- Single](https://open.spotify.com/album/7D7ZXah36bBSJ6Z0goU5uE) | 4:14 | 2023-05-09 |  |
+| [nadaaniyan](https://open.spotify.com/track/3bmsaFp11I9pbicxzlStf3) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [nadaaniyan](https://open.spotify.com/album/5iB4wggqDR2cQSduJGBfUy) | 2:51 | 2024-06-14 |  |
 | [Nadiya ke Paar](https://open.spotify.com/track/6zLgriAnEQF3amTmNkQSIK) | [Swastik The Band](https://open.spotify.com/artist/740SYcL7Hl2TatDM2wYV8V) | [Avasa](https://open.spotify.com/album/07iHCQyQ69gc8c13fdmqhh) | 6:39 | 2023-05-09 |  |
 | [O Sanam](https://open.spotify.com/track/5oYRr51VatOtkFeEOursuZ) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Sunoh](https://open.spotify.com/album/54mRGBCsNzGVGhVPenUnvt) | 3:43 | 2023-05-09 |  |
 | [O Yaara](https://open.spotify.com/track/2lp1Tsn8H6mq0bzXgOeLHY) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3) | [O Yaara](https://open.spotify.com/album/1X6DbsKiPHQycPTlxNamUS) | 4:36 | 2024-05-27 |  |
@@ -96,5 +97,6 @@
 | [Tu Bata](https://open.spotify.com/track/6jlwgIaV4hQTf92LS2pWk1) | [Roney Guha](https://open.spotify.com/artist/3IK0Y8r68JB2VykGqVVuvM) | [Tu Bata](https://open.spotify.com/album/6RdKELZRjvmMjdBKHzx1VN) | 3:30 | 2024-03-28 |  |
 | [Tum Ho Yahaan](https://open.spotify.com/track/0B7FbDb0GQxMX5KSXGv3sg) | [Abhilasha Sinha](https://open.spotify.com/artist/3FJ13syehmla1ybPZYHYHW) | [Tum Ho Yahaan](https://open.spotify.com/album/15rUYK7QOg6qIpXbdqmghS) | 3:16 | 2023-05-09 |  |
 | [Waqt Ki Baatein](https://open.spotify.com/track/0cJTjTH3XVTTJh8F4Uq1db) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Waqt Ki Baatein](https://open.spotify.com/album/35pKiC2zx1UzIgZgN48ZkO) | 4:03 | 2023-05-09 |  |
+| [When You Smile](https://open.spotify.com/track/7drZ27Wes5FgldRmanF50m) | [Aniirban Saha](https://open.spotify.com/artist/4UTFMGL1wJ8jFvapqEXdJH) | [When You Smile](https://open.spotify.com/album/2qhnGMvs8Tk9QLEdwhVQ1B) | 3:38 | 2024-06-14 |  |
 
 \*This playlist was first scraped on 2023-05-19. Prior content cannot be recovered.

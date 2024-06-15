@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 
 > New makes old\. Cover: Sierra Ferrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,688 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,730 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,17 +95,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 85 | [Kindness of Strangers](https://open.spotify.com/track/32QP97prqm0wjkHEqfbz19) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Kindness of Strangers](https://open.spotify.com/album/0YNskLt7opNVnpNjkh3oeQ) | 3:30 |
 | 86 | [Hey Little Girl](https://open.spotify.com/track/3r1mIdzbGOv386Lcx2nlpM) | [Carli Brill](https://open.spotify.com/artist/7fQgEsmOh72bgCsQjE7ATD) | [Hey Little Girl](https://open.spotify.com/album/2SpV2E885ekUdWCuVMZA3O) | 3:13 |
 | 87 | [Lover's Lane](https://open.spotify.com/track/1pDXYuqZd9JjWDShs11Y1U) | [Micah P\. Hinson](https://open.spotify.com/artist/6M5FR3JkFFVDkgwtO6Vtz6) | [Lover's Lane / The Years Tire On](https://open.spotify.com/album/2kyEZin1n3lWpa50iYTppe) | 3:02 |
-| 88 | [Companion](https://open.spotify.com/track/3XrXvjH1dMaSzNz5uOKdTS) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Highway Queen](https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW) | 3:08 |
-| 89 | [I Left My One Spot \(Back at the 5 Spot\)](https://open.spotify.com/track/2TLkwZyAWcKJI9LT0ZXVKx) | [Elijah Ocean](https://open.spotify.com/artist/0MulydXXWmaMh1GxLKXtrS) | [Blue Jeans & Barstools](https://open.spotify.com/album/2XamjjM47WBYSIt0ToYj8k) | 3:00 |
+| 88 | [I Left My One Spot \(Back at the 5 Spot\)](https://open.spotify.com/track/2TLkwZyAWcKJI9LT0ZXVKx) | [Elijah Ocean](https://open.spotify.com/artist/0MulydXXWmaMh1GxLKXtrS) | [Blue Jeans & Barstools](https://open.spotify.com/album/2XamjjM47WBYSIt0ToYj8k) | 3:00 |
+| 89 | [Companion](https://open.spotify.com/track/3XrXvjH1dMaSzNz5uOKdTS) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Highway Queen](https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW) | 3:08 |
 | 90 | [I'll Change](https://open.spotify.com/track/7duLGNkHcs1XUJ8o9lOhak) | [Emily West](https://open.spotify.com/artist/20YJEBSWm14EDzjbXNcwDA), [Whiskey Wolves of the West](https://open.spotify.com/artist/301ao5Vcw38iIFuWiMG1Rj) | [Dear Diary](https://open.spotify.com/album/1IqSN6kpB4yS7kn4eHobRi) | 3:34 |
 | 91 | [For Saviours](https://open.spotify.com/track/2OOqx5igfywQJ9zanaVIfo) | [Monica Heldal](https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0) | [The One In The Sun](https://open.spotify.com/album/4DXawyeE4kw5W7RW85Zd6v) | 3:28 |
 | 92 | [Walkin' After Midnight](https://open.spotify.com/track/5TklECQ3x2MybRjaeIsTlm) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Patsy Cline](https://open.spotify.com/album/7nicBOHkAJ944utrDrR3kv) | 2:34 |
 | 93 | [Better Way](https://open.spotify.com/track/3VThpW3UX13QbXHDNQqxvo) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [Canyons of my Mind](https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g) | 4:15 |
 | 94 | [May Your Kindness Remain](https://open.spotify.com/track/71pFxGowi0CXkBJ9wgSwgf) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [May Your Kindness Remain](https://open.spotify.com/album/2243YLxNEgz5YJLgfDU9vb) | 3:54 |
 | 95 | [Buddies](https://open.spotify.com/track/2LIOtDQuQ3mJuB1OOHPxIk) | [Lauren Barth](https://open.spotify.com/artist/21aYYkFIsLevgFeEFKbiC1) | [The Oklahoma Room at Folk Alliance 2017](https://open.spotify.com/album/5sBVk8l6NJ4H82qOkMjKHF) | 3:22 |
-| 96 | [P\-Town](https://open.spotify.com/track/5VdaNqBdJ1PCLIboEnqge2) | [Lilly Hiatt](https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90) | [Walking Proof](https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a) | 2:46 |
+| 96 | [Right Time](https://open.spotify.com/track/3dEWwyEuqeNFH0V9OvyRWv) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [All Or Nothin' \(Deluxe Edition\)](https://open.spotify.com/album/0MtDML13BxeSu5oeI1VCzQ) | 3:21 |
 | 97 | [Half a Heart Keychain](https://open.spotify.com/track/6Ff6tdQfdEyHm71P6mLpc5) | [Riddy Arman](https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42) | [Half a Heart Keychain](https://open.spotify.com/album/3pglOjTAYQHnd8uZu9g86j) | 3:20 |
-| 98 | [Right Time](https://open.spotify.com/track/3dEWwyEuqeNFH0V9OvyRWv) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [All Or Nothin' \(Deluxe Edition\)](https://open.spotify.com/album/0MtDML13BxeSu5oeI1VCzQ) | 3:21 |
+| 98 | [P\-Town](https://open.spotify.com/track/5VdaNqBdJ1PCLIboEnqge2) | [Lilly Hiatt](https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90) | [Walking Proof](https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a) | 2:46 |
 | 99 | [Memphis Rain](https://open.spotify.com/track/7pwi5x6uNPnOeG8vM9boCo) | [Aaron Lee Tasjan](https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo) | [Silver Tears](https://open.spotify.com/album/2JG1zKeTogtW6HUSJD0K6L) | 3:38 |
 | 100 | [Only Lies](https://open.spotify.com/track/72glNsoRmefP9dHyPevxnz) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [The Lights from the Chemical Plant](https://open.spotify.com/album/1W2D0Ob8aA26OAdueRAaJP) | 3:50 |
 

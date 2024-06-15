@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Cover: Girl Scout
 
-2,486 songs - 5 day 16 hr 55 min
+2,487 songs - 5 day 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -871,6 +871,7 @@
 | [Grand Mile](https://open.spotify.com/track/5K8RMV08xTe8f07zejV6IV) | [The ib](https://open.spotify.com/artist/06JcVN5I7v3Sq4I9Ezx78r) | [Father](https://open.spotify.com/album/20WqNB5t6O7eOPGoC8wCBQ) | 3:45 | 2024-01-10 | 2024-01-18 |
 | [Grandma's Garden](https://open.spotify.com/track/2Ero8AVTyiL5CuzFSqoWGE) | [Al Menne](https://open.spotify.com/artist/5FJKTwdeCFfs7ZX66hNTSJ) | [Grandma's Garden](https://open.spotify.com/album/4Orz8OePuJOgM3U01stZcw) | 2:20 | 2023-08-16 | 2023-09-07 |
 | [Grapevines](https://open.spotify.com/track/4BujvDe0uFwN7MC1yHuG6n) | [Rozie Ramati](https://open.spotify.com/artist/3GzbAOojSz4h2yUjljyg3H) | [Grapevines](https://open.spotify.com/album/5bwjTOqi9KoP98e4vTOlQl) | 2:29 | 2023-03-24 | 2023-04-13 |
+| [Gravity!](https://open.spotify.com/track/31EipxyslCQyaAmDiyHe4X) | [Issy Wood](https://open.spotify.com/artist/3nyoodEXBH2JZUcZuT4KhU) | [Gravity!](https://open.spotify.com/album/1F0hYqM4FsXQCWmpSmEoG6) | 3:17 | 2024-06-14 |  |
 | [Great Race](https://open.spotify.com/track/1UoCw5QpZ0LrAnSD49JQP2) | [Marko](https://open.spotify.com/artist/1gBpdTK92fXFog9vxL9eL5) | [Great Race](https://open.spotify.com/album/2hISBkwZFVsdBKoPUkVILp) | 1:35 | 2022-06-08 | 2022-07-07 |
 | [Green as Ever](https://open.spotify.com/track/1fS0DjwXoyZvKbpm04IP8H) | [Aubrey Haddard](https://open.spotify.com/artist/381YSSMDhVoPemUuyQBJSV) | [Green As Ever](https://open.spotify.com/album/57XF5YCkndNgDxJL3i25e1) | 3:54 | 2022-04-27 | 2022-06-09 |
 | [Green Demo](https://open.spotify.com/track/25dpaDA95KE9LjR0vPfQH4) | [Walter The Producer](https://open.spotify.com/artist/59QOcYlBSqJMi5rTHcwplJ) | [Green Demo](https://open.spotify.com/album/0rJi1VVNj4gNAMhB1ZQBzO) | 2:52 | 2022-08-10 | 2022-09-07 |

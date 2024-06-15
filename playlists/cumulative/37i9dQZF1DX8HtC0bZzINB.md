@@ -4,7 +4,7 @@
 
 > Yerli Afro, Latin ve trap ritimleri ile yazın en hareketli hali.
 
-70 songs - 3 hr 14 min
+71 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Krvn](https://open.spotify.com/track/4a1WLOoydq7u011UG9jjC9) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Kan](https://open.spotify.com/album/3IBcauSj5M2A6lTeffJzdv) | 2:51 | 2023-08-31 |  |
 | [kördüğüm](https://open.spotify.com/track/6mYGCOpWCq1qtrlOr68u5p) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Jako](https://open.spotify.com/artist/4kpqHcVwTcRhrNTAB66li4) | [kördüğüm](https://open.spotify.com/album/2khti4BtrnPoDh4zHxD8Ez) | 2:46 | 2023-08-31 | 2024-04-19 |
 | [Latina](https://open.spotify.com/track/3JmENq4lSWUE2NkJEDiRBh) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS), [Funda](https://open.spotify.com/artist/03OI6M20ksK4v0WFYa4aLZ) | [Yaz Albümü](https://open.spotify.com/album/3RdgVxFXrgwUjOxMmpqre4) | 3:19 | 2023-08-31 |  |
+| [MAD](https://open.spotify.com/track/1fak8FUIcbRwmp6fCUbwH1) | [Melez](https://open.spotify.com/artist/13oZdV67vVMAaL2TU20Xqz), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [MAD](https://open.spotify.com/album/4TLoNyJr0nILMmuYM03KAq) | 3:27 | 2024-06-13 |  |
 | [madem](https://open.spotify.com/track/19vwY9lOzPwNFHnHtXmCiU) | [Revart](https://open.spotify.com/artist/0ZzNn3WVteLb8XGqqkAKs9) | [madem](https://open.spotify.com/album/4x3Dh4nslFQiRhaXLk7RwU) | 2:22 | 2023-08-31 |  |
 | [Melek](https://open.spotify.com/track/6XbuJHhqugUVdJbTdshUEL) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Melek](https://open.spotify.com/album/2ARaqMe0AxH8vfYSNMCxJF) | 2:34 | 2023-08-31 |  |
 | [mucize](https://open.spotify.com/track/3DtiMQR5OcN7ALY6MwGIpP) | [Jako](https://open.spotify.com/artist/4kpqHcVwTcRhrNTAB66li4) | [mucize](https://open.spotify.com/album/3thqtwdx8FQN2mtojNNkop) | 2:42 | 2023-08-31 |  |
@@ -56,7 +57,7 @@
 | [O'NU](https://open.spotify.com/track/1RQ0NC3xcdSPP7ekw9uma4) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [ROMANTİK](https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB) | 3:17 | 2023-08-31 |  |
 | [Obsession](https://open.spotify.com/track/5jf9Zj1ebsD5gerVZzZ0X4) | [Bixi Blake](https://open.spotify.com/artist/2NPl6xmez0ma3ssIrMz1DM), [Kum](https://open.spotify.com/artist/5SCxkbhdPRgE0BRLjODMxw) | [Obsession](https://open.spotify.com/album/0ufgmq1tXqQ5W3wG6oioNl) | 3:20 | 2023-08-31 |  |
 | [olsun](https://open.spotify.com/track/1QtI9v2S1Bm4iwo3w4401A) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [olsun](https://open.spotify.com/album/2PdUDMWWFF966ZEykNa4Ej) | 2:04 | 2023-08-31 |  |
-| [PARAMPARÇA](https://open.spotify.com/track/4NA5nUTn0KM457fR9ba20A) | [Papa Benj](https://open.spotify.com/artist/6VxQOfN8SzlyH78rd7fyQB), [Oversize](https://open.spotify.com/artist/56P4MjAIYVf0ruSy9pzKLs) | [PARAMPARÇA](https://open.spotify.com/album/6s48Hfq7goYvPnRbTXSOOR) | 2:08 | 2023-08-31 |  |
+| [PARAMPARÇA](https://open.spotify.com/track/4NA5nUTn0KM457fR9ba20A) | [Papa Benj](https://open.spotify.com/artist/6VxQOfN8SzlyH78rd7fyQB), [Oversize](https://open.spotify.com/artist/56P4MjAIYVf0ruSy9pzKLs) | [PARAMPARÇA](https://open.spotify.com/album/6s48Hfq7goYvPnRbTXSOOR) | 2:08 | 2023-08-31 | 2024-06-15 |
 | [Pofuduk](https://open.spotify.com/track/7eaIFSCVBsXIwQ03aG8ClE) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [Pofuduk](https://open.spotify.com/album/5eNHvrxTk4IdTgqFB1cLmu) | 2:22 | 2023-08-31 |  |
 | [RARRii](https://open.spotify.com/track/0RPEhK1UCgtLb9Nc97lA4R) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [RARRii](https://open.spotify.com/album/280clOshxkGrR1Litdyu7u) | 2:47 | 2023-08-31 | 2024-04-16 |
 | [RARRii](https://open.spotify.com/track/7qGw1hPWBrbJwMdWzWjMXn) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [RARRii](https://open.spotify.com/album/23Au28uqhjjeDOfqDWMgnT) | 2:47 | 2023-08-31 |  |

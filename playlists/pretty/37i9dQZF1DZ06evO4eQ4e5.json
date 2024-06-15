@@ -1,12 +1,12 @@
 {
   "description": "This Is Edith M\u00e1rquez. Los temas esenciales, todos en una lista.",
-  "num_followers": 79920,
+  "num_followers": 79934,
   "original_name": "This Is Edith M\u00e1rquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjlAAAAAADJFTwM2eIToA/3IngyQgD/",
+  "snapshot_id": "Zmo2gAAAAACx5Ew0mx0q35bPcBoSPGhp",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amante de Lo Ajeno",
-        "url": "https://open.spotify.com/album/25dP4uxWWNVpBN5M5DDWAJ"
+        "name": "Frente a ti",
+        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
       },
       "artists": [
-        {
-          "name": "Mar\u00eda Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
-        },
         {
           "name": "Edith M\u00e1rquez",
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 245920,
-      "name": "Cosas del Amor",
-      "url": "https://open.spotify.com/track/0RQrkp624qMK7L6T9xnLsz"
+      "duration_ms": 226440,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/0seEvOIXjtwuhbfS0lImCQ"
     },
     {
       "added_at": null,
@@ -235,6 +231,26 @@
       "duration_ms": 203560,
       "name": "No Te Preocupes por M\u00ed",
       "url": "https://open.spotify.com/track/5G3hFb8E9rMlKbdyDY4Vzh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amante de Lo Ajeno",
+        "url": "https://open.spotify.com/album/25dP4uxWWNVpBN5M5DDWAJ"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
+        },
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 245920,
+      "name": "Cosas del Amor",
+      "url": "https://open.spotify.com/track/0RQrkp624qMK7L6T9xnLsz"
     },
     {
       "added_at": null,
@@ -271,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/1lysy0ngPpch1cVGu5FA3X"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 221440,
-      "name": "Completamente Blindada",
-      "url": "https://open.spotify.com/track/4sCU7QEK7JtINBK7GaqQcN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amar No Es Suficiente",
         "url": "https://open.spotify.com/album/0KIiLC3DMqS2DZOkzLtqtU"
       },
@@ -303,6 +303,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/1lysy0ngPpch1cVGu5FA3X"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 221440,
+      "name": "Completamente Blindada",
+      "url": "https://open.spotify.com/track/4sCU7QEK7JtINBK7GaqQcN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Frente a ti",
         "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
       },
@@ -315,26 +331,6 @@
       "duration_ms": 220133,
       "name": "Por hablarle de ti",
       "url": "https://open.spotify.com/track/0wfi6FkCbLcp4FTGsDeIOs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "+Mexicana",
-        "url": "https://open.spotify.com/album/0GZi1qLTk1hMY2RXQ6YBgt"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        },
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 183733,
-      "name": "Es Complicado",
-      "url": "https://open.spotify.com/track/2xfuLkkNanQTl0pdbViHUo"
     },
     {
       "added_at": null,

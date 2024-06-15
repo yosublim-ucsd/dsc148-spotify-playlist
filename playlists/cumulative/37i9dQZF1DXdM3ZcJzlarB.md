@@ -4,7 +4,7 @@
 
 > Lo nuevo y lo más destacado de la electrónica nacional\. Portada: Peces Raros
 
-173 songs - 17 hr 45 min
+174 songs - 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Reliance \- Original Mix](https://open.spotify.com/track/5N6kCxZHx2gXSvshCBP1K6) | [Eze Ramirez](https://open.spotify.com/artist/3Opa18T1i19my4JhThTWiw) | [My Pleasures](https://open.spotify.com/album/127OqDJSx9zNsu5AnwbPjF) | 7:06 | 2020-09-04 | 2023-11-18 |
 | [Revolver](https://open.spotify.com/track/0Ra80nnt0fgglrQx7mjpSU) | [Facundo Mohrr](https://open.spotify.com/artist/5oX3Dbh7rf6ZSNnMdt9giF), [Maxi Degrassi](https://open.spotify.com/artist/2MrE6u1IaGHEFGayZkxpGD) | [The Mambo EP](https://open.spotify.com/album/1kqrRoUWXRn2OmfWxytR5F) | 8:21 | 2023-12-15 |  |
 | [Rhapsody](https://open.spotify.com/track/0d28O6vqhwrQCYJ6H7dTO5) | [Kevin Di Serna](https://open.spotify.com/artist/6wktCejPtNcStIDD24buEm) | [Rhapsody](https://open.spotify.com/album/3o67s2rF1XBkueTauBJ9jm) | 5:24 | 2020-09-04 | 2023-11-18 |
+| [Ringaro](https://open.spotify.com/track/1iBns0pRA9xhhQwru8l4HF) | [Mariano Mellino](https://open.spotify.com/artist/3ikEi08G1s0jiIxBC9a9GE) | [Ringaro](https://open.spotify.com/album/3g6APTOvHsTLFdirpGWtez) | 4:33 | 2024-06-14 |  |
 | [Risa \- Cover](https://open.spotify.com/track/0VH8DXk9BKih2AcnnEhRRT) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi), [Palu de Paloma](https://open.spotify.com/artist/1liheuPPmJMACY5ccB4YLP) | [Risa \(Cover\)](https://open.spotify.com/album/6wnJZtcYszTyzH15YTX2ul) | 2:56 | 2024-02-16 |  |
 | [Ritual of Love](https://open.spotify.com/track/7eU7DnmuYgOGdgIHIwDnLL) | [Niceshot](https://open.spotify.com/artist/5lYS0rvjMNATxRrk8Do5DE) | [Seasons \| Winter 2020](https://open.spotify.com/album/368fuamMcpa6Xp3GWCDvPR) | 8:18 | 2020-09-04 | 2023-09-10 |
 | [Ritual of Love](https://open.spotify.com/track/7mcixcEvf5YTyTtx541vuM) | [Niceshot](https://open.spotify.com/artist/5lYS0rvjMNATxRrk8Do5DE) | [Seasons \| Winter 2020](https://open.spotify.com/album/2fbePD3aAPGImmJxY4adPn) | 8:18 | 2020-09-04 | 2023-11-18 |
@@ -148,7 +149,7 @@
 | [Sensitive \(Part II\)](https://open.spotify.com/track/2h1lMvv4Tz8zJ0NhS2Xtjk) | [Paul \(AR\)](https://open.spotify.com/artist/1HlaPjfSvC73YiHc3HH9eO) | [Small Musical Stories](https://open.spotify.com/album/4fYQ3930NKvfCSflAS6dMk) | 8:16 | 2020-09-04 | 2023-11-18 |
 | [Serenade Of](https://open.spotify.com/track/6W4MGvqou0stPjsGDRmFEC) | [Ezequiel Arias](https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ) | [Serenade Of](https://open.spotify.com/album/172jmC3FkDUT0O3Q4s8YuB) | 4:01 | 2023-12-07 |  |
 | [Shades of Blue \- Original Mix](https://open.spotify.com/track/5liCbYlITgbpbPMmKrbh8o) | [Marcelo Vasami](https://open.spotify.com/artist/4bsJBOidwLc1UbwPoKbF44) | [Dirty Talk](https://open.spotify.com/album/4mhDwi7PYRFkQblvLi67i9) | 9:16 | 2020-09-04 | 2023-11-18 |
-| [SHILOH \(feat\. Gio Santi\)](https://open.spotify.com/track/3xY2cVMOCugDy0JyYCAumS) | [Mariano Mellino](https://open.spotify.com/artist/3ikEi08G1s0jiIxBC9a9GE), [Folgar](https://open.spotify.com/artist/4VUsFXk67zxZVz1UJxBNV6), [Gio Santi](https://open.spotify.com/artist/7F57JJSLjR39pwgOF0RFAA) | [SHILOH \(feat\. Gio Santi\)](https://open.spotify.com/album/511MBaM5QxM7TPUJJJJrKM) | 5:44 | 2024-02-02 |  |
+| [SHILOH \(feat\. Gio Santi\)](https://open.spotify.com/track/3xY2cVMOCugDy0JyYCAumS) | [Mariano Mellino](https://open.spotify.com/artist/3ikEi08G1s0jiIxBC9a9GE), [Folgar](https://open.spotify.com/artist/4VUsFXk67zxZVz1UJxBNV6), [Gio Santi](https://open.spotify.com/artist/7F57JJSLjR39pwgOF0RFAA) | [SHILOH \(feat\. Gio Santi\)](https://open.spotify.com/album/511MBaM5QxM7TPUJJJJrKM) | 5:44 | 2024-02-02 | 2024-06-15 |
 | [Southern Sun \- Anunnakis Remix](https://open.spotify.com/track/3tRyvyNRKsj5GVp6HzZ4Ln) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Anunnakis](https://open.spotify.com/artist/558YA9OfxNMkjUzyRyGRmn), [Carla Werner](https://open.spotify.com/artist/3SMF5D7b8NM3YFSsgu9WQ9) | [Southern Sun \(Anunnakis Remix\)](https://open.spotify.com/album/4o93VExtyaKljkFk3mxJez) | 4:19 | 2024-03-15 |  |
 | [Stampi](https://open.spotify.com/track/25CLjHvR3WwX1WZdLsh8Iv) | [Nico Szabo](https://open.spotify.com/artist/0Vw8wTJPM8hzOHwqAjsFri) | [Winter Collection](https://open.spotify.com/album/5bhBstQAQQiL1NDHyxSpYo) | 8:43 | 2020-09-04 | 2023-11-18 |
 | [Stampi](https://open.spotify.com/track/5B3FNvNReTQF1iJYN9TfOL) | [Nico Szabo](https://open.spotify.com/artist/0Vw8wTJPM8hzOHwqAjsFri) | [The Soundgarden Winter Collection](https://open.spotify.com/album/3tevMtF2CvFb2WX3Jzq3zZ) | 8:43 | 2020-09-04 | 2022-07-29 |

@@ -5114,7 +5114,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 181706,
       "name": "Love Bomb",
       "url": "https://open.spotify.com/track/0WOlNsXvaVJsD2X5dE65HJ"
@@ -5330,7 +5330,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 216986,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/4HDsNTcpprSDjtO9nK31yb"
@@ -5965,6 +5965,32 @@
     },
     {
       "album": {
+        "name": "Why Lawd?",
+        "url": "https://open.spotify.com/album/0LlzHi8Erl8zpTumqt88Qe"
+      },
+      "artists": [
+        {
+          "name": "NxWorries",
+          "url": "https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Knxwledge",
+          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167894,
+      "name": "MoveOn",
+      "url": "https://open.spotify.com/track/6NkpXwmHBAWYQmMDV0AVdw"
+    },
+    {
+      "album": {
         "name": "Mr. Weatherman",
         "url": "https://open.spotify.com/album/23QXxkhhY9HRsJqc1padbd"
       },
@@ -6428,6 +6454,28 @@
       "duration_ms": 192064,
       "name": "Nice & Slow - Ryan James Carr Remake",
       "url": "https://open.spotify.com/track/31YudjfCQCpRYDeDMskWGh"
+    },
+    {
+      "album": {
+        "name": "VANTABLACK",
+        "url": "https://open.spotify.com/album/2OObNk2YheZrtE1YYZLhD7"
+      },
+      "artists": [
+        {
+          "name": "Lalah Hathaway",
+          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
+        },
+        {
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269046,
+      "name": "No Lie",
+      "url": "https://open.spotify.com/track/7k9EZESFOvZavFZ3xFPsh2"
     },
     {
       "album": {

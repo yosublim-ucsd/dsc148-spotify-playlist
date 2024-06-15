@@ -1,35 +1,31 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul and R&B",
-  "num_followers": 183431,
+  "num_followers": 183507,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmJorAAAAAAIkvdWLCE0SyZ8yppWf4vl",
+  "snapshot_id": "Zmzh7AAAAAArNeBYjDcokHI5vUyops/U",
   "tracks": [
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
-        "name": "Intimidated",
-        "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
       },
       "artists": [
         {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         }
       ],
-      "duration_ms": 207840,
-      "name": "Intimidated (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
+      "duration_ms": 190392,
+      "name": "Truth or Dare",
+      "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "Lights Out",
         "url": "https://open.spotify.com/album/5Tu4ytCjEMSDx04f1TwGYf"
@@ -49,7 +45,7 @@
       "url": "https://open.spotify.com/track/52qi04bO7emYkJH6lhA4sk"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "Insecure",
         "url": "https://open.spotify.com/album/4Dj67Y8bsAfGzUYYCOPrbw"
@@ -65,7 +61,7 @@
       "url": "https://open.spotify.com/track/3tLVfEh8kJhMkDaxvOzK1M"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "A Kid From Yerevan",
         "url": "https://open.spotify.com/album/15faNhkthd1ph8RFvsuB2o"
@@ -89,7 +85,7 @@
       "url": "https://open.spotify.com/track/3smoRPTQLhVoKbSX9kX5Y2"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "Born in the Wild",
         "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
@@ -105,43 +101,59 @@
       "url": "https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
-        "name": "There is no Neil Frances",
-        "url": "https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M"
+        "name": "WalkOnBy (feat. Earl Sweatshirt & Rae Khalil)",
+        "url": "https://open.spotify.com/album/7fh5OBZUItvGL20l3MLEnV"
       },
       "artists": [
         {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 174213,
-      "name": "dancing",
-      "url": "https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o"
-    },
-    {
-      "added_at": "2024-06-07 01:55:56",
-      "album": {
-        "name": "Butterflies (feat. AURORA)",
-        "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "NxWorries",
+          "url": "https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE"
         },
         {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Knxwledge",
+          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        },
+        {
+          "name": "Rae Khalil",
+          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
         }
       ],
-      "duration_ms": 130666,
-      "name": "Butterflies (feat. AURORA)",
-      "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
+      "duration_ms": 227409,
+      "name": "WalkOnBy (feat. Earl Sweatshirt & Rae Khalil)",
+      "url": "https://open.spotify.com/track/5mUHnwhs4N0bLhidpub3FC"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
+      "album": {
+        "name": "Intimidated",
+        "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 207840,
+      "name": "Intimidated (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
+    },
+    {
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "I'm Sorry (ft. Lous and The Yakuza)",
         "url": "https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9"
@@ -161,27 +173,23 @@
       "url": "https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
-        "name": "Risk Taker",
-        "url": "https://open.spotify.com/album/0eX3oKIfRjTb0gjAOysT0E"
+        "name": "There is no Neil Frances",
+        "url": "https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M"
       },
       "artists": [
         {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
         }
       ],
-      "duration_ms": 223189,
-      "name": "Risk Taker",
-      "url": "https://open.spotify.com/track/1rdL4oJxPzqDiNclK2aP3u"
+      "duration_ms": 174213,
+      "name": "dancing",
+      "url": "https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "Bubblehouse Bounce (move as one)",
         "url": "https://open.spotify.com/album/0pwEW8znvZOKfVcL26k6o8"
@@ -197,7 +205,7 @@
       "url": "https://open.spotify.com/track/0u4sSY6ERnQszMWx7k3NbC"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "Back To Me",
         "url": "https://open.spotify.com/album/3sBfcY0O7MGHSNZrXZwHum"
@@ -213,7 +221,7 @@
       "url": "https://open.spotify.com/track/7GFkfewfhNv5ghA7M2040q"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "You Never Visit Me (feat. Wale & Enny)",
         "url": "https://open.spotify.com/album/5768qKkadOnArtFfrupjLe"
@@ -237,7 +245,7 @@
       "url": "https://open.spotify.com/track/7qArEpkWxXwdh8nkfqcjIf"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "Junebug (feat. JPEGMAFIA)",
         "url": "https://open.spotify.com/album/3tNvAR0dlCWi58TQmkwwBz"
@@ -257,39 +265,43 @@
       "url": "https://open.spotify.com/track/3E0ulIRg5neojZkEgVM2B7"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
-        "name": "TYLA",
-        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
+        "name": "We Don't Make Sense",
+        "url": "https://open.spotify.com/album/212WkWG04xW3rGE2JN4sL2"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
         }
       ],
-      "duration_ms": 190392,
-      "name": "Truth or Dare",
-      "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
+      "duration_ms": 243380,
+      "name": "We Don't Make Sense",
+      "url": "https://open.spotify.com/track/25WdkhsSsNdc0Fa2EjfLim"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
-        "name": "The Juice: Vol. II",
-        "url": "https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS"
+        "name": "Butterflies (feat. AURORA)",
+        "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
       },
       "artists": [
         {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        },
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
         }
       ],
-      "duration_ms": 215386,
-      "name": "West Coast Love",
-      "url": "https://open.spotify.com/track/4NFD9ea0uH0MtoC30yNYE1"
+      "duration_ms": 130666,
+      "name": "Butterflies (feat. AURORA)",
+      "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "Free Nationals",
         "url": "https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN"
@@ -313,27 +325,31 @@
       "url": "https://open.spotify.com/track/7klPHv3HnXdUY3dSfTccNc"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
-        "name": "Back on 74 (Full Crate Remix)",
-        "url": "https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD"
+        "name": "Remember Me?",
+        "url": "https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+          "name": "Kaneee",
+          "url": "https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09"
         },
         {
-          "name": "Full Crate",
-          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        },
+        {
+          "name": "Yo-Sea",
+          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
         }
       ],
-      "duration_ms": 174233,
-      "name": "Back On 74 - Full Crate Remix",
-      "url": "https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c"
+      "duration_ms": 198097,
+      "name": "Feel Missing",
+      "url": "https://open.spotify.com/track/6FtSuG6TbvD3u5wydy7I2d"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "Woman",
         "url": "https://open.spotify.com/album/5xLroFHEvbfDUBqsiYgk5Z"
@@ -353,7 +369,7 @@
       "url": "https://open.spotify.com/track/1CYeaVkI5cGod4IGZKM87T"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "The Loop",
         "url": "https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO"
@@ -369,7 +385,7 @@
       "url": "https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "NOT TiGHT",
         "url": "https://open.spotify.com/album/3pGrDkS6o6zIxCLDROBBpC"
@@ -397,7 +413,7 @@
       "url": "https://open.spotify.com/track/2gwPSato3oB35bIgtqmlz4"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "tradition",
         "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
@@ -413,7 +429,7 @@
       "url": "https://open.spotify.com/track/1Z09qAdhbdRF40re5pjW0S"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "Of Another Kind (feat. Milan Ring & Jerome Farah)",
         "url": "https://open.spotify.com/album/54oMEdSvDTdkmsZolcOTlc"
@@ -437,27 +453,27 @@
       "url": "https://open.spotify.com/track/6cLAX064e8EpvsA31qIIyM"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
-        "name": "Lose My Cool (Remixes)",
-        "url": "https://open.spotify.com/album/1UG98QDB2VZMhJtYZaRQAA"
+        "name": "Risk Taker",
+        "url": "https://open.spotify.com/album/0eX3oKIfRjTb0gjAOysT0E"
       },
       "artists": [
         {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
         },
         {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
-      "duration_ms": 257301,
-      "name": "Lose My Cool - Franc Moody Remix",
-      "url": "https://open.spotify.com/track/4gdQamULpFs7WeyFGfmTCZ"
+      "duration_ms": 223189,
+      "name": "Risk Taker",
+      "url": "https://open.spotify.com/track/1rdL4oJxPzqDiNclK2aP3u"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "We Go Again",
         "url": "https://open.spotify.com/album/4vdQXcHcAGcVSBA7956EMq"
@@ -473,27 +489,23 @@
       "url": "https://open.spotify.com/track/2YIIDMcF9zWJ2xcFSA99lH"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
-        "name": "Girl Next Door",
-        "url": "https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4"
+        "name": "The Juice: Vol. II",
+        "url": "https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
         }
       ],
-      "duration_ms": 180682,
-      "name": "Girl Next Door",
-      "url": "https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO"
+      "duration_ms": 215386,
+      "name": "West Coast Love",
+      "url": "https://open.spotify.com/track/4NFD9ea0uH0MtoC30yNYE1"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "Learning",
         "url": "https://open.spotify.com/album/2w11Pxtx3QBbVRPKstvPFL"
@@ -509,23 +521,27 @@
       "url": "https://open.spotify.com/track/6UtXR2Odm1Uang1ZI9vFfc"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
-        "name": "3 Boys",
-        "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
+        "name": "Back on 74 (Full Crate Remix)",
+        "url": "https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD"
       },
       "artists": [
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Full Crate",
+          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
         }
       ],
-      "duration_ms": 209188,
-      "name": "3 Boys",
-      "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
+      "duration_ms": 174233,
+      "name": "Back On 74 - Full Crate Remix",
+      "url": "https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "Any Way (feat. Maggie Rogers)",
         "url": "https://open.spotify.com/album/2Qc9dnPXbHlfB2eXZoDPlF"
@@ -545,23 +561,27 @@
       "url": "https://open.spotify.com/track/2NvYdollt2CTUJYn66OBt9"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
-        "name": "Get Close",
-        "url": "https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr"
+        "name": "Lose My Cool (Remixes)",
+        "url": "https://open.spotify.com/album/1UG98QDB2VZMhJtYZaRQAA"
       },
       "artists": [
         {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        },
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
         }
       ],
-      "duration_ms": 171218,
-      "name": "Get Close",
-      "url": "https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM"
+      "duration_ms": 257301,
+      "name": "Lose My Cool - Franc Moody Remix",
+      "url": "https://open.spotify.com/track/4gdQamULpFs7WeyFGfmTCZ"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/2g49Kw03cpc5HQygEw450P"
@@ -581,27 +601,27 @@
       "url": "https://open.spotify.com/track/51Q2IPSmoFuDAkMmaYwjjF"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
-        "name": "Moon Shoes EP",
-        "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
+        "name": "Girl Next Door",
+        "url": "https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4"
       },
       "artists": [
         {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         },
         {
-          "name": "Appleby",
-          "url": "https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 217013,
-      "name": "Free Room (feat. Appleby)",
-      "url": "https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb"
+      "duration_ms": 180682,
+      "name": "Girl Next Door",
+      "url": "https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "Smoke (feat. Lucky Daye)",
         "url": "https://open.spotify.com/album/24myqNnAEPwBjGfhEm6WJA"
@@ -621,7 +641,59 @@
       "url": "https://open.spotify.com/track/3unpulZnIiKRZ4MCymHfXx"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
+      "album": {
+        "name": "3 Boys",
+        "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 209188,
+      "name": "3 Boys",
+      "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
+    },
+    {
+      "added_at": "2024-06-15 00:35:56",
+      "album": {
+        "name": "Get Close",
+        "url": "https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 171218,
+      "name": "Get Close",
+      "url": "https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM"
+    },
+    {
+      "added_at": "2024-06-15 00:35:56",
+      "album": {
+        "name": "Moon Shoes EP",
+        "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Appleby",
+          "url": "https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX"
+        }
+      ],
+      "duration_ms": 217013,
+      "name": "Free Room (feat. Appleby)",
+      "url": "https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb"
+    },
+    {
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "Good Care",
         "url": "https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d"
@@ -645,7 +717,7 @@
       "url": "https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "The Slow Rush B-Sides & Remixes",
         "url": "https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa"
@@ -661,7 +733,7 @@
       "url": "https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "April",
         "url": "https://open.spotify.com/album/01vJILu1nYj93pSPcP5IUQ"
@@ -677,7 +749,7 @@
       "url": "https://open.spotify.com/track/2RjsAYVbdZPISqnsWd3Hup"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "React",
         "url": "https://open.spotify.com/album/65scBPZ6DNuKCjcQkeJnjB"
@@ -693,7 +765,7 @@
       "url": "https://open.spotify.com/track/3ok8eAQioOTORzkuJ8pHZk"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "Where I Go (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu"
@@ -721,7 +793,7 @@
       "url": "https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
@@ -737,7 +809,7 @@
       "url": "https://open.spotify.com/track/2v4fvU8my0WUTy0TOTS36l"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "Vintage",
         "url": "https://open.spotify.com/album/1jSLdeIc8Fnb4dOrzpStWg"
@@ -753,7 +825,7 @@
       "url": "https://open.spotify.com/track/0EQt3hJTjy2dYuxZp3cqo9"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "Softest Touch",
         "url": "https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi"
@@ -769,7 +841,23 @@
       "url": "https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
+      "album": {
+        "name": "The Mission",
+        "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 191478,
+      "name": "The Mission",
+      "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
+    },
+    {
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "Work This Out",
         "url": "https://open.spotify.com/album/6vb6Zec5YfjXBcizesC5yh"
@@ -789,7 +877,7 @@
       "url": "https://open.spotify.com/track/3VymabYos1p2fXzmk0cPKg"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "JEWELZ",
         "url": "https://open.spotify.com/album/78dIoWjdZvWcgKNxEgIDL4"
@@ -805,7 +893,7 @@
       "url": "https://open.spotify.com/track/2IFFKj9orAsQOOS0JRhHAW"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "falling or flying (Reimagined)",
         "url": "https://open.spotify.com/album/6pLWFHmvJ82dUQF1bUTvZM"
@@ -821,7 +909,7 @@
       "url": "https://open.spotify.com/track/03hIO0Z3ZxyV0DX1XlR8PM"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "Sunset",
         "url": "https://open.spotify.com/album/7zAZZ3cUAbM6WPAecRTN01"
@@ -837,23 +925,7 @@
       "url": "https://open.spotify.com/track/5hFVuHDVUqR9FvVnHFoLLo"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
-      "album": {
-        "name": "The Mission",
-        "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 191478,
-      "name": "The Mission",
-      "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
-    },
-    {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "Painted",
         "url": "https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk"
@@ -869,7 +941,7 @@
       "url": "https://open.spotify.com/track/1Fwppfa2qKDAETKveNFsHR"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "Charge It Remix (feat. Smino)",
         "url": "https://open.spotify.com/album/3HC2Rgx0wIcXQNzkVlZOue"
@@ -889,7 +961,7 @@
       "url": "https://open.spotify.com/track/4GKzznETPVyGoBe6vHr2lS"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "New Me, Same Us",
         "url": "https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF"
@@ -909,7 +981,7 @@
       "url": "https://open.spotify.com/track/60v8m0VhlTqw7GgIQDxNbq"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "Djesse Vol. 3",
         "url": "https://open.spotify.com/album/33cj3kzLqVOg9zvy69Wrc8"
@@ -933,7 +1005,7 @@
       "url": "https://open.spotify.com/track/164VgxTozx99XCinCB9ITR"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "I Choose U (feat. RINI)",
         "url": "https://open.spotify.com/album/0DcgdM3SS9A8wEig25dsqh"
@@ -953,7 +1025,7 @@
       "url": "https://open.spotify.com/track/7zHOs0OLz4CmB8LHcf1NNv"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "Liz",
         "url": "https://open.spotify.com/album/38WHZJFOzJY6k5INRXigZC"
@@ -969,7 +1041,7 @@
       "url": "https://open.spotify.com/track/5wJ9sSG7NItwu34jMnyxqa"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "Lahai",
         "url": "https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3"
@@ -985,7 +1057,7 @@
       "url": "https://open.spotify.com/track/1maIZ0gsjVbdANLvl4v0ao"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "Ten Fold",
         "url": "https://open.spotify.com/album/4CZCMvnmbjR6FkOAhzgmg3"
@@ -1001,7 +1073,7 @@
       "url": "https://open.spotify.com/track/6tRB5hUaJDStska9BvNxov"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/0iu2xltdgI77Bkryi5JTNe"
@@ -1017,7 +1089,7 @@
       "url": "https://open.spotify.com/track/2fQo9apVAYggTBzaFPUh9B"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "For You (Many Selves Version)",
         "url": "https://open.spotify.com/album/1FBMc5U9NTkdVX0jUsy0ir"
@@ -1033,7 +1105,7 @@
       "url": "https://open.spotify.com/track/1ZomkKbXsQoycnKzGV6NIZ"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
         "url": "https://open.spotify.com/album/0rFjAGsF5UhG8hPeirWaHV"
@@ -1057,7 +1129,7 @@
       "url": "https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx"
     },
     {
-      "added_at": "2024-06-07 01:55:56",
+      "added_at": "2024-06-15 00:35:56",
       "album": {
         "name": "Daydreaming",
         "url": "https://open.spotify.com/album/2x7bjrZNDZ7hNcosj0dS39"
@@ -1079,58 +1151,6 @@
       "duration_ms": 186967,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/6qqq5zPYV7U4UsKnGC82tw"
-    },
-    {
-      "added_at": "2024-06-07 01:55:56",
-      "album": {
-        "name": "why dont we go",
-        "url": "https://open.spotify.com/album/5G5Ujsxpgm9F79YNkGfE4q"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        }
-      ],
-      "duration_ms": 166508,
-      "name": "why dont we go",
-      "url": "https://open.spotify.com/track/54PYCknS6lsyUXSkgnj2OM"
-    },
-    {
-      "added_at": "2024-06-07 01:55:56",
-      "album": {
-        "name": "Broken Hearts Club",
-        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 203036,
-      "name": "Out Loud (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
-    },
-    {
-      "added_at": "2024-06-07 01:55:56",
-      "album": {
-        "name": "Just Cool",
-        "url": "https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ"
-      },
-      "artists": [
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "duration_ms": 220243,
-      "name": "Just Cool",
-      "url": "https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP"
     }
   ],
   "unique_name": "aloe",

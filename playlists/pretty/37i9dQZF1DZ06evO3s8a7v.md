@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 
 ### [This Is MYA](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3s8a7v)
 
-> This Is MYA\. Los temas esenciales, todos en una lista.
+> This is MYA\. Tutti i brani in un'unica playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,081 likes - 51 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,136 likes - 51 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 | 50 | [Día y Noche](https://open.spotify.com/track/2NZ4Lg677xRbdrlFMOPTcF) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Día y Noche](https://open.spotify.com/album/4LNDD3N645KasfePnuqWbm) | 3:15 |
 | 51 | [Amor Prohibido](https://open.spotify.com/track/1oXcxpTLTHOsaW0XmzSxCc) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Amor Prohibido](https://open.spotify.com/album/2IX5QGaqanqswJATMe11Cq) | 3:31 |
 
-Snapshot ID: `ZmjlAAAAAABDFtwI+dpQftL7P36UiHz7`
+Snapshot ID: `Zmo2gAAAAADGpckZbhaujF59YXXZax4b`

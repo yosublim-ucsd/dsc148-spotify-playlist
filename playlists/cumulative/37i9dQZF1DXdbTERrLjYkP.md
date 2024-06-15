@@ -2,9 +2,9 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent on the scene writing their own songs\. Cover: Amélie Farren
+> Discover the next wave of talent writing their own songs\. Cover: Noah Rinker on the Fresh Finds rooftop
 
-689 songs - 1 day 12 hr 38 min
+691 songs - 1 day 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [end credits](https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [end credits](https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2) | 4:08 | 2022-09-30 | 2023-01-14 |
 | [End of the Day](https://open.spotify.com/track/1piMjMBuN0NRkoDy9aMD4u) | [Erika Sirola](https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N) | [End of the Day](https://open.spotify.com/album/2xBbejBQKutWWyCjlJ17Nf) | 3:56 | 2022-06-08 | 2022-08-06 |
 | [Enough of Me](https://open.spotify.com/track/5ypUyCDoZp66D7TagjnJhq) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Enough of Me](https://open.spotify.com/album/0M9JDqqqxKkFyd2WWRsd8C) | 2:28 | 2024-02-02 |  |
+| [Escape Plan](https://open.spotify.com/track/57nPLBMMNk8w4KDNSwDxdz) | [Jana Diab](https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq) | [Escape Plan](https://open.spotify.com/album/3kt4vMSt4GLQQ7M5pS5Dpx) | 2:19 | 2024-06-14 |  |
 | [Eulogy For Nobody](https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Learning](https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG) | 2:16 | 2023-09-15 | 2024-01-05 |
 | [Every Second](https://open.spotify.com/track/0GxUJLTF4RanPVwY1YpcZ3) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days](https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha) | 3:02 | 2022-01-14 | 2022-09-17 |
 | [Everybody Seems to Love You](https://open.spotify.com/track/7glM6QKiCgb0w88hNf0USx) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [Things That Are Bad for Me](https://open.spotify.com/album/3MMxyF2JgR2pUD7qwvOnrg) | 3:22 | 2022-11-11 | 2023-01-28 |
@@ -282,6 +283,7 @@
 | [How Do I Love Again](https://open.spotify.com/track/65aCfiCJpxr5Pwj7CXkxEE) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Dear Ella,](https://open.spotify.com/album/1NnDilXBFyACjOuXOvY7Z7) | 3:28 | 2023-06-12 | 2023-11-18 |
 | [How Do I Not.](https://open.spotify.com/track/2HQDOhUcS51VcBem0jmYjJ) | [Madeline Consoer](https://open.spotify.com/artist/1bw2RHxmR0mo75zcrlarDo) | [How Do I Not.](https://open.spotify.com/album/5P2C1iE7qzQkMKHgzsNwo6) | 2:43 | 2022-08-05 | 2022-12-24 |
 | [How Do We Stay In Love?](https://open.spotify.com/track/57C2Jt6xUTlN9QVrWSimBJ) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [How Do We Stay In Love?](https://open.spotify.com/album/4CPmCif9l0FLCp4jRwu8AR) | 2:39 | 2023-07-21 | 2024-03-16 |
+| [How Long](https://open.spotify.com/track/6ugo6TrO93ZW9gAovTzegl) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [How Long](https://open.spotify.com/album/7ssXHDTUiWMgXKvu7Nw9Qe) | 3:30 | 2024-06-14 |  |
 | [How Much Longer?](https://open.spotify.com/track/2KlWdo608p1j3BUnkKzmdb) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [How Much Longer?](https://open.spotify.com/album/0DaO7SKybQhxKPK4HLCZrV) | 4:03 | 2024-01-26 | 2024-04-27 |
 | [How The Story Ends](https://open.spotify.com/track/2UZgjzIwe1luGtukImuXDi) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [How The Story Ends](https://open.spotify.com/album/6hFUWN8f9dlGuBaCeYsmul) | 2:45 | 2023-02-03 | 2023-03-11 |
 | [how to not love you](https://open.spotify.com/track/1S04uGKqIG10eTAnSXH9QG) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [how to not love you](https://open.spotify.com/album/5v8AwJwRZnwRZDsHwqP4Dz) | 3:08 | 2024-03-08 |  |
@@ -604,7 +606,7 @@
 | [The Favorite](https://open.spotify.com/track/5fOJ2ER7TB9DNjFchr9m3P) | [India Thieriot](https://open.spotify.com/artist/6MuOTOv4gVJpTYFPBb3awg) | [The Favorite](https://open.spotify.com/album/42zSMFzegNPqbs8roRvI43) | 3:05 | 2024-04-05 |  |
 | [The Girl Who Cried Love](https://open.spotify.com/track/68zmVEhY9iI1WumxzVqAoi) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [Blurry Vision](https://open.spotify.com/album/442bxdGV3makrW5UlF1Ws4) | 2:57 | 2024-01-19 |  |
 | [the last laugh](https://open.spotify.com/track/4j25oHEZNvFt1m3P9WUJlv) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [the last laugh](https://open.spotify.com/album/2Ph3wOGu6UwYZz5UqicIHL) | 3:17 | 2023-03-31 | 2023-08-12 |
-| [The Long Breath](https://open.spotify.com/track/2jQWDgZhvkTREAXi7R0Vnf) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [The Long Breath / The Willows](https://open.spotify.com/album/0phsQExgJ5IKweBTgJNdp3) | 4:48 | 2023-11-17 |  |
+| [The Long Breath](https://open.spotify.com/track/2jQWDgZhvkTREAXi7R0Vnf) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [The Long Breath / The Willows](https://open.spotify.com/album/0phsQExgJ5IKweBTgJNdp3) | 4:48 | 2023-11-17 | 2024-06-15 |
 | [The New Me](https://open.spotify.com/track/0E8Torj5fhTNBghR1LlPNg) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [The New Me](https://open.spotify.com/album/0cqSltNGK7v8cGQmpw2QAF) | 2:23 | 2022-01-14 | 2022-06-09 |
 | [The Outsider](https://open.spotify.com/track/13Y2OvFGijnHgFEGifRgEl) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Chaos In My Court](https://open.spotify.com/album/4dVCexXqcS9KDwdOXeUkSn) | 3:28 | 2022-01-14 | 2022-02-12 |
 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 | 2022-08-05 | 2022-12-03 |
@@ -629,7 +631,7 @@
 | [touch tank](https://open.spotify.com/track/7DrzZN5jaDyE0a0tVuVWnj) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4cH0G6g1NcPguHQ8aOk1h6) | 2:59 | 2022-07-05 | 2022-09-16 |
 | [Treehouse \(feat\. Brandy Clark\)](https://open.spotify.com/track/1YhfDSpXJ61IHRF5IymP3S) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Treehouse](https://open.spotify.com/album/5fXOvCcWEgxK4x0qgY35U0) | 3:34 | 2024-05-17 |  |
 | [Tropical Sour Candy](https://open.spotify.com/track/0zwKGD9KXvdIfZXlCb0WzI) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [If It's Not Forever](https://open.spotify.com/album/5OhIJcMEADcrAKH5kkAvzT) | 3:09 | 2022-04-01 | 2022-05-20 |
-| [Trustfall](https://open.spotify.com/track/1xeDnOaPmfVZsMYSsDLyhF) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Trustfall](https://open.spotify.com/album/2whIOqiGvtYyy2SA67pElo) | 3:02 | 2023-12-01 |  |
+| [Trustfall](https://open.spotify.com/track/1xeDnOaPmfVZsMYSsDLyhF) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Trustfall](https://open.spotify.com/album/2whIOqiGvtYyy2SA67pElo) | 3:02 | 2023-12-01 | 2024-06-15 |
 | [Twenty Nothing](https://open.spotify.com/track/35MVdVBcADS8oEOBY6IKOX) | [Frankie Bird](https://open.spotify.com/artist/4j8LfmADKGMGknwJOUFKYf) | [Twenty Nothing](https://open.spotify.com/album/5cg7Ma4c3H9WEFQythH6XM) | 3:51 | 2023-06-12 | 2023-07-08 |
 | [Twenty Nothing](https://open.spotify.com/track/4RCxMeZjjirMp6sLWAiRxb) | [Frankie Bird](https://open.spotify.com/artist/4j8LfmADKGMGknwJOUFKYf) | [Twenty Nothing](https://open.spotify.com/album/1A39gFaDwwqZi2oNPTag3E) | 3:51 | 2023-06-12 | 2023-11-11 |
 | [Two Places at Once](https://open.spotify.com/track/0l8p1TkaVgcwIUS0xwm6Y5) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Two Places at Once \(Part I\)](https://open.spotify.com/album/53nT8IUeQ1Eig7t5W2jS2v) | 3:19 | 2022-09-02 | 2022-10-08 |

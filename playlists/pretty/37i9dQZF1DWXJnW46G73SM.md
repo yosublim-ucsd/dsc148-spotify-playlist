@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف: محمد سعيد
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,915 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,968 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 5 | [Estaghnena](https://open.spotify.com/track/1RlBReXFZDGcDWvVzK4fBM) | [Mohamed El Sharnouby](https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn) | [Estaghnena](https://open.spotify.com/album/0yZMxNDdp9jK38gt0qTvCc) | 3:17 |
 | 6 | [Arooh Le Fein](https://open.spotify.com/track/6hoZwWCrJyhIDuoj7RYCFo) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp), [Donia Wael](https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1), [Galaleo](https://open.spotify.com/artist/60W1OtLk0gjWoE4kEP8tuY) | [Arooh Le Fein](https://open.spotify.com/album/6Ed5PYqq2rIc0u3eBXZz1E) | 2:46 |
 | 7 | [Attraction](https://open.spotify.com/track/5CV49bdgJtUDl830wSDGSN) | [ETOLUBOV](https://open.spotify.com/artist/5rZcCYFGSeRDMOQcP7S5vn), [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Attraction \(Arabic Remix\)](https://open.spotify.com/album/4GrDAgFx1rVR5JgAo8AFTF) | 3:06 |
-| 8 | [Sohab Masanosh](https://open.spotify.com/track/24VVssZGHmi5z9REb37K8s) | [Sandy](https://open.spotify.com/artist/4eAQYYrpDuYXiswOkJC9rA) | [Sohab Masanosh](https://open.spotify.com/album/1V0DfqzgU6tDFDYgljvnrW) | 3:22 |
+| 8 | [Sohab Masanosh](https://open.spotify.com/track/24VVssZGHmi5z9REb37K8s) | [Sandy](https://open.spotify.com/artist/2YvRrakSWfzyWwv8JCeeC5) | [Sohab Masanosh](https://open.spotify.com/album/1V0DfqzgU6tDFDYgljvnrW) | 3:22 |
 | 9 | [Edhak Ya Albi](https://open.spotify.com/track/6UcNHcewqOTpeGZwdnpa8Z) | [Carole Samaha](https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3) | [Edhak Ya Albi](https://open.spotify.com/album/3xtsXuUHCmkoPGxmi09GzI) | 3:03 |
 | 10 | [وبعدين بقى](https://open.spotify.com/track/3whc8wH18DUB9GXwGIaoPc) | [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [وبعدين بقى](https://open.spotify.com/album/7hXwx4r7oqFAGPUcZLu3jR) | 3:04 |
 | 11 | [الحلم الوردي](https://open.spotify.com/track/3DXQBnciOnrdIgGkgUbvwS) | [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2) | [الحلم الوردي](https://open.spotify.com/album/0fLc1KQC2pDeTfcOh0ovZS) | 3:07 |

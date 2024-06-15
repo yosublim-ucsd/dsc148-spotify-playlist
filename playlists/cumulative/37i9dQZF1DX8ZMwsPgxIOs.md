@@ -2,9 +2,9 @@
 
 ### [Techno State](https://open.spotify.com/playlist/37i9dQZF1DX8ZMwsPgxIOs)
 
-> Techno is a state of mind\. Cover: Eli Brown
+> Techno is a state of mind\. Cover: Charlotte de Witte
 
-377 songs - 1 day 5 hr 0 min
+379 songs - 1 day 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Bring The Noise](https://open.spotify.com/track/5f5yWTulFlrBE0DhPtVnEd) | [Dance System](https://open.spotify.com/artist/1ju2puXmReF61q0pjZX0oh) | [In Your System](https://open.spotify.com/album/2o0T9hMbNyEbSjmEiKJSUS) | 3:27 | 2022-04-15 | 2023-09-22 |
 | [Brunt](https://open.spotify.com/track/1VvIJidbGCkz0DA56K2Isn) | [Dense & Pika](https://open.spotify.com/artist/3tlt5onLwIKTuaOAyI6ytC) | [Brunt](https://open.spotify.com/album/6A76dZwPEFmVijVEs9o2FP) | 6:30 | 2023-10-27 | 2024-01-12 |
 | [Brunt](https://open.spotify.com/track/6lXm60fg9Nh0mJONXKTvxv) | [Dense & Pika](https://open.spotify.com/artist/3tlt5onLwIKTuaOAyI6ytC) | [Brunt](https://open.spotify.com/album/3SY8NzLDUQuQFbRuezNpzY) | 6:30 | 2023-01-20 | 2023-11-05 |
+| [Bumpin'](https://open.spotify.com/track/22iMeWorH0sloAZa1JJ6Oz) | [Avision](https://open.spotify.com/artist/25L7U77b5R5fO5pRjDP1Cj), [Jackmaster](https://open.spotify.com/artist/1VQgvnkH9rOB2YkNr1ovuB) | [Bumpin' / Just Get Up](https://open.spotify.com/album/3fwmyBZIK7euzEOGcKPeYX) | 5:01 | 2024-06-14 |  |
 | [Burn Dem Bridges](https://open.spotify.com/track/5r2620VyMS4JpB9UhmYjpG) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Burn Dem Bridges](https://open.spotify.com/album/3qvyf78FlQmFehv7JVMDK4) | 2:55 | 2022-12-16 | 2023-08-11 |
 | [Burst Mode](https://open.spotify.com/track/5u44VWbluamg169GOTphhc) | [Kassian](https://open.spotify.com/artist/4w6VhlUuzrUoJ5NbCpefXx) | [Burst Mode](https://open.spotify.com/album/2MR1wOQyssRzljK806oPdL) | 5:08 | 2023-01-20 | 2023-08-25 |
 | [C'est La Vie](https://open.spotify.com/track/0mkDHueaGm3zs0QJpmSe1g) | [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u) | [C'est La Vie](https://open.spotify.com/album/6gkDQwEnN04ypenyyAEK5o) | 2:22 | 2024-03-15 |  |
@@ -217,7 +218,7 @@
 | [My Purple iPod Nano \(2nd Gen\)](https://open.spotify.com/track/7KzTDWGFQerYzkSqRXLwUp) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [My Purple iPod Nano \(2nd Gen\)](https://open.spotify.com/album/1R1i1cNz94QG5tT4aByFgU) | 2:44 | 2022-04-20 | 2023-09-22 |
 | [Mystic Voices](https://open.spotify.com/track/5MIpIX9VjzPCJNOgpYsFwf) | [Sven Väth](https://open.spotify.com/artist/5TQaBSTOSypp7S4jfSnN3F) | [Mystic Voices](https://open.spotify.com/album/66fchoaJYtBH274HIUP6Bl) | 8:19 | 2022-04-15 | 2023-01-21 |
 | [Mythrill](https://open.spotify.com/track/0PcrE1lcR3mvZqM8K4IUUj) | [Yazzus](https://open.spotify.com/artist/0KWutsZ75Y4GvjcPTFnKXU) | [Mythrill](https://open.spotify.com/album/5MpDGP60CBRz5auI2XmRRe) | 6:12 | 2022-07-14 | 2023-09-22 |
-| [Need Electric \- 2023 Redux \- Edit](https://open.spotify.com/track/5G28Zwt1Scwr3XS8IQDtLh) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Need Electric \(2023 Redux\)](https://open.spotify.com/album/7MmVWRGEAORaSsGSlZ3pWB) | 3:32 | 2023-11-17 |  |
+| [Need Electric \- 2023 Redux \- Edit](https://open.spotify.com/track/5G28Zwt1Scwr3XS8IQDtLh) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Need Electric \(2023 Redux\)](https://open.spotify.com/album/7MmVWRGEAORaSsGSlZ3pWB) | 3:32 | 2023-11-17 | 2024-06-15 |
 | [Neonride](https://open.spotify.com/track/08OFR23uWnJI0VB36P2OC4) | [Ken Ishii](https://open.spotify.com/artist/0Jb1cpfG4GB6pZfroFhAw0), [Dosem](https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS) | [Neonride](https://open.spotify.com/album/75QygzHAW0Ip3DfyzwERgq) | 6:03 | 2024-03-15 |  |
 | [Neoteny](https://open.spotify.com/track/05YfutYgRtZGpaMMuBhlYi) | [Boo](https://open.spotify.com/artist/2TFIKib8RK7fj3oHC1NCkW) | [Neoteny](https://open.spotify.com/album/0rwUVS8qarsDGRa8n9Wszy) | 3:48 | 2023-09-22 | 2024-04-05 |
 | [New Generation](https://open.spotify.com/track/7jpj8wOz4fQ9GZCJ4prdhF) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [New Generation](https://open.spotify.com/album/1p5FZDd1nk6CqiL6Cpc26P) | 2:44 | 2022-04-15 | 2023-03-15 |
@@ -262,7 +263,7 @@
 | [Pria](https://open.spotify.com/track/5NLu9XiiF80Txfg2Pl8zE8) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Power Of Thought EP](https://open.spotify.com/album/1WjosIw46H2KJUb9W462FU) | 7:00 | 2023-10-27 | 2024-04-12 |
 | [Pure Evil](https://open.spotify.com/track/1h1GycfpbcfpCi87iwuhh3) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx) | [Pure Evil](https://open.spotify.com/album/7zjWZoj0hSUUDZ0AFoj240) | 4:55 | 2022-04-15 | 2022-07-02 |
 | [Rave Girl](https://open.spotify.com/track/0Q8O9vyX1X6tajbwXIYiFX) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3) | [Rave Girl EP](https://open.spotify.com/album/7aoxgkYsJfy2IdudBGzKjJ) | 7:48 | 2022-04-15 | 2023-04-05 |
-| [Raven \- Mathame Remix](https://open.spotify.com/track/0PHWOPRYE6ze9juI91h2An) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS), [Proxy](https://open.spotify.com/artist/3KOzW9NF2ZGwYRo0KfID1R) | [Raven \(Mathame Remix\)](https://open.spotify.com/album/5XfGd1mL1KQ7cyT4hID0nM) | 6:33 | 2023-11-17 |  |
+| [Raven \- Mathame Remix](https://open.spotify.com/track/0PHWOPRYE6ze9juI91h2An) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS), [Proxy](https://open.spotify.com/artist/3KOzW9NF2ZGwYRo0KfID1R) | [Raven \(Mathame Remix\)](https://open.spotify.com/album/5XfGd1mL1KQ7cyT4hID0nM) | 6:33 | 2023-11-17 | 2024-06-15 |
 | [Ready To Roll](https://open.spotify.com/track/4iuiFb9jw1mykbY8TcoCmF) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Ready To Roll](https://open.spotify.com/album/1WMfD1ahZbc4vXyUZ8s8VM) | 5:35 | 2022-09-23 | 2023-11-17 |
 | [Real Hawt](https://open.spotify.com/track/7s12v8WY72vTwpbBGjCrN3) | [Meg Ward](https://open.spotify.com/artist/2mD3jEYpdABPmYGMkwIp8s) | [Real Hawt](https://open.spotify.com/album/1xBgHCOPvBXxdLPteOGr0w) | 5:06 | 2022-04-15 | 2022-07-15 |
 | [Reality Check](https://open.spotify.com/track/4aYWokfaB9rypoUzg8d1Cq) | [Elisa Bee](https://open.spotify.com/artist/3S7HQV1qUD8yBppcFbsBfX) | [Reality Check EP](https://open.spotify.com/album/1orblUcZ8QrBgWJhQismw3) | 4:36 | 2022-04-15 | 2022-10-14 |
@@ -326,6 +327,7 @@
 | [Take Off](https://open.spotify.com/track/1Qew5n9FSPxpiqu0Og4R3J) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Take Off](https://open.spotify.com/album/350F8g1oIRWzdUs8gMfmsc) | 3:57 | 2024-03-06 |  |
 | [Technodroid](https://open.spotify.com/track/5WktV40n5IA1cyrikR69y8) | [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN) | [Technodroid EP](https://open.spotify.com/album/1CGoimGj9pDkpfbUZ135wx) | 6:04 | 2023-11-17 |  |
 | [Telepathic](https://open.spotify.com/track/0MyztaslwZeqsnYPaLmREB) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Telepathic](https://open.spotify.com/album/1yLe2H0i64bqaH8dGYg70O) | 4:38 | 2024-05-17 |  |
+| [Tempelhof](https://open.spotify.com/track/1OXu6yphRorUKpTttBMMhl) | [GiGi FM](https://open.spotify.com/artist/2I64l1qh83iqkQ3cLRGcPi) | [Movimiento](https://open.spotify.com/album/6aKGDyR5AGabrgoK72IspI) | 5:33 | 2024-06-14 |  |
 | [The Afterparty \- Loco & Jam Remix](https://open.spotify.com/track/08MmPdIc2RSZ93U4Ux2RxI) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ), [Loco & Jam](https://open.spotify.com/artist/5RwXcpTt7Fr8S8yG3Tbr9b) | [The Afterparty \(Loco & Jam Remix\)](https://open.spotify.com/album/4emXTiKX7G6CtnK90bCNAI) | 3:45 | 2024-04-05 |  |
 | [The Age Of Ent](https://open.spotify.com/track/7imdBBUwjlvYwsHwE0YIsK) | [Adam Pits](https://open.spotify.com/artist/0vrrcYDODaghHDyxGZCIis) | [A Recurring Nature](https://open.spotify.com/album/06MbkEoh9pOQW2oxDwCGiX) | 6:08 | 2022-04-15 | 2022-05-07 |
 | [The Countdown](https://open.spotify.com/track/1sttvCeG8zDSqgZkHgm7Xz) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU) | [I AM JORDAN](https://open.spotify.com/album/5FpECE3Ow4HGUEhnGN58yU) | 4:37 | 2024-05-17 |  |

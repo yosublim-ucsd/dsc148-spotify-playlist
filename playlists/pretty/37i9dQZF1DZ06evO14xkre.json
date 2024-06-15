@@ -1,12 +1,12 @@
 {
   "description": "This is Kali Uchis. The essential tracks, all in one playlist.",
-  "num_followers": 226677,
+  "num_followers": 226788,
   "original_name": "This Is Kali Uchis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjlAAAAAACUotR5VNht/5xsBJ61nVsW",
+  "snapshot_id": "Zmo2gAAAAADiUBH8l9FSQaEGxdYbmUem",
   "tracks": [
     {
       "added_at": null,
@@ -51,6 +51,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
+        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 160191,
+      "name": "telepat\u00eda",
+      "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ORQU\u00cdDEAS",
         "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
       },
@@ -67,22 +83,6 @@
       "duration_ms": 260370,
       "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
       "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
-        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 160191,
-      "name": "telepat\u00eda",
-      "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
     },
     {
       "added_at": null,
@@ -719,18 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "NO HAY LEY",
-        "url": "https://open.spotify.com/album/58bXMbR7x7k6ubKP7CyZpQ"
+        "name": "Apolonio",
+        "url": "https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7"
       },
       "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        },
         {
           "name": "Kali Uchis",
           "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 157000,
-      "name": "NO HAY LEY",
-      "url": "https://open.spotify.com/track/5enNYN3hDG4Dsey9WsF6TJ"
+      "duration_ms": 102160,
+      "name": "Hey Boy (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/7twY0ucjaUFUNfjkCHj1Cs"
     },
     {
       "added_at": null,
@@ -795,42 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apolonio",
-        "url": "https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 102160,
-      "name": "Hey Boy (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/7twY0ucjaUFUNfjkCHj1Cs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Por Vida",
-        "url": "https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 255183,
-      "name": "Speed",
-      "url": "https://open.spotify.com/track/0JmO3EBtl9qhnLkzr4FiP0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NEON16 TAPE: THE KIDS THAT GREW UP ON REGGAETON",
         "url": "https://open.spotify.com/album/0yYekqi5aLywihK4YtigeN"
       },
@@ -855,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Por Vida",
+        "url": "https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 255183,
+      "name": "Speed",
+      "url": "https://open.spotify.com/track/0JmO3EBtl9qhnLkzr4FiP0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TO FEEL ALIVE EP",
         "url": "https://open.spotify.com/album/2qn5Z50z9x2qAIyWV5lt9E"
       },
@@ -864,9 +848,9 @@
           "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 124651,
-      "name": "honey baby (SPOILED!)",
-      "url": "https://open.spotify.com/track/3rPaugbuZuIKJpVnF3b1RK"
+      "duration_ms": 159400,
+      "name": "i want war (BUT I NEED PEACE)",
+      "url": "https://open.spotify.com/track/5Dx8iEsMuNrf7aF9TMV0Xe"
     },
     {
       "added_at": null,
@@ -887,6 +871,30 @@
       "duration_ms": 158015,
       "name": "Are You Feeling Sad?",
       "url": "https://open.spotify.com/track/60v8m0VhlTqw7GgIQDxNbq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Only Girl",
+        "url": "https://open.spotify.com/album/5k1bL1NVtMr8M8WbRbZCtM"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        },
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "duration_ms": 222162,
+      "name": "Only Girl",
+      "url": "https://open.spotify.com/track/2id1xnRQloCopsF5IFRY15"
     }
   ],
   "unique_name": "This Is Kali Uchis",

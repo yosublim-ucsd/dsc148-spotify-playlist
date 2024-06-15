@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lb5gk.md) - [plain]
 
 > This is Gojira\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,226 likes - 42 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,262 likes - 42 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,20 +24,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lb5gk.md) - [plain]
 | 14 | [Our Time Is Now](https://open.spotify.com/track/0dDs144SVansAFynvKYQMW) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Our Time Is Now](https://open.spotify.com/album/4tHLRx3g4JwIHlzlz4D7wA) | 4:31 |
 | 15 | [Oroborus](https://open.spotify.com/track/6WUNfk8ULz9ZdmC9f315Qp) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The way of all flesh](https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2) | 5:21 |
 | 16 | [The Cell](https://open.spotify.com/track/7nCD5l7GrFyt6o1mstCUFr) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Magma](https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w) | 3:17 |
-| 17 | [The Gift of Guilt](https://open.spotify.com/track/1mjC68qU0Q9HlCIZHZAEko) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [L'Enfant Sauvage \(Special Edition\)](https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG) | 5:56 |
-| 18 | [Sphinx](https://open.spotify.com/track/6PhrbFbRW3Cchrv6klsLF5) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Fortitude](https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI) | 4:00 |
+| 17 | [Sphinx](https://open.spotify.com/track/6PhrbFbRW3Cchrv6klsLF5) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Fortitude](https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI) | 4:00 |
+| 18 | [The Gift of Guilt](https://open.spotify.com/track/1mjC68qU0Q9HlCIZHZAEko) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [L'Enfant Sauvage \(Special Edition\)](https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG) | 5:56 |
 | 19 | [The art of dying](https://open.spotify.com/track/7iMQChXFK33TS49QWhE4tt) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The way of all flesh](https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2) | 9:54 |
 | 20 | [Only Pain](https://open.spotify.com/track/7MuPOXU2vjEe3Kh9LfbM5v) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Magma](https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w) | 3:59 |
-| 21 | [From The Sky](https://open.spotify.com/track/2MTneA2YvNBzvd8zDpWE4n) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [From Mars to Sirius](https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs) | 5:48 |
-| 22 | [The Chant](https://open.spotify.com/track/41DA32rbYp3PoLCAJeup0J) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Fortitude](https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI) | 5:12 |
+| 21 | [The Chant](https://open.spotify.com/track/41DA32rbYp3PoLCAJeup0J) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Fortitude](https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI) | 5:12 |
+| 22 | [From The Sky](https://open.spotify.com/track/2MTneA2YvNBzvd8zDpWE4n) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [From Mars to Sirius](https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs) | 5:48 |
 | 23 | [A sight to behold](https://open.spotify.com/track/2fA5O6Fs60rtXxIfelVKcH) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The way of all flesh](https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2) | 5:09 |
 | 24 | [Magma](https://open.spotify.com/track/56iv5TqfvxVa4zLMs6SvmP) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Magma](https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w) | 6:42 |
-| 25 | [From Mars](https://open.spotify.com/track/4CJ7iadNL15GuTr7fXMqxr) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [From Mars to Sirius](https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs) | 2:24 |
-| 26 | [New Found](https://open.spotify.com/track/3Kl4f3sVKb8iwQ8ZffHim6) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Fortitude](https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI) | 6:36 |
+| 25 | [New Found](https://open.spotify.com/track/3Kl4f3sVKb8iwQ8ZffHim6) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Fortitude](https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI) | 6:36 |
+| 26 | [Ocean Planet](https://open.spotify.com/track/6nSKJWDpiNiLgmdofhgRXw) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [From Mars to Sirius](https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs) | 5:32 |
 | 27 | [The Axe](https://open.spotify.com/track/25I6CiICRyGB0K7E9c7Ho0) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [L'Enfant Sauvage \(Special Edition\)](https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG) | 4:34 |
 | 28 | [Esoteric surgery](https://open.spotify.com/track/7bUcTW0mHg4Ec0kgdXemEG) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The way of all flesh](https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2) | 5:44 |
-| 29 | [Ocean Planet](https://open.spotify.com/track/6nSKJWDpiNiLgmdofhgRXw) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [From Mars to Sirius](https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs) | 5:32 |
-| 30 | [Clone](https://open.spotify.com/track/0tSE8quqeoqNqjRL55POSa) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Terra Incognita](https://open.spotify.com/album/0OB9EsykpiyNnAWSuahzW4) | 4:57 |
+| 29 | [Clone](https://open.spotify.com/track/0tSE8quqeoqNqjRL55POSa) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Terra Incognita](https://open.spotify.com/album/0OB9EsykpiyNnAWSuahzW4) | 4:57 |
+| 30 | [From Mars](https://open.spotify.com/track/4CJ7iadNL15GuTr7fXMqxr) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [From Mars to Sirius](https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs) | 2:24 |
 | 31 | [Liquid Fire](https://open.spotify.com/track/5BHLmCLntTLjSFGl8MG5wZ) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [L'Enfant Sauvage \(Special Edition\)](https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG) | 4:17 |
 | 32 | [Torii](https://open.spotify.com/track/6oo0aVkiHB3SNRXdL5aDWD) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The link](https://open.spotify.com/album/5Iu8zwiAb0aKznGs0P1Rrz) | 1:43 |
 | 33 | [Love](https://open.spotify.com/track/76dStkCUHrgLqAExBXZvEA) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Terra Incognita](https://open.spotify.com/album/0OB9EsykpiyNnAWSuahzW4) | 4:19 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lb5gk.md) - [plain]
 | 41 | [Indians](https://open.spotify.com/track/4qto5WBvuqH6fkHGxcaGuo) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The link](https://open.spotify.com/album/5Iu8zwiAb0aKznGs0P1Rrz) | 3:58 |
 | 42 | [Blow Me Away You \- Niverse](https://open.spotify.com/track/3FfsRhBRDE7yxQbRZuSzBM) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Terra Incognita](https://open.spotify.com/album/0OB9EsykpiyNnAWSuahzW4) | 5:09 |
 
-Snapshot ID: `ZmjlAAAAAADGgLbNHsJ+kXLggl24r0hQ`
+Snapshot ID: `Zmo2gAAAAAClfmXtHW1EDvK4MnW1YylS`

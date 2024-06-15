@@ -916,7 +916,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 166734,
       "name": "COCO LOCO",
       "url": "https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk"
@@ -1120,7 +1120,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 209555,
       "name": "Corre el Sudor",
       "url": "https://open.spotify.com/track/6eGBagVmhKpSE1LHlVmviB"
@@ -1556,10 +1556,28 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 181272,
       "name": "DIFERENTE",
       "url": "https://open.spotify.com/track/0zjlDOMaan6IH87OFaosuZ"
+    },
+    {
+      "album": {
+        "name": "Femme Fatale",
+        "url": "https://open.spotify.com/album/3m5aaMS472xdABD7WgZb1J"
+      },
+      "artists": [
+        {
+          "name": "The Sistars",
+          "url": "https://open.spotify.com/artist/3aF1PR6CAzeVXwYKDlIkPa"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178949,
+      "name": "Dilema",
+      "url": "https://open.spotify.com/track/5k2XoBRqU1ivbP95F6I5u2"
     },
     {
       "album": {
@@ -1578,6 +1596,28 @@
       "duration_ms": 197052,
       "name": "DILUVIO",
       "url": "https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX"
+    },
+    {
+      "album": {
+        "name": "Dime T\u00fa (feat. Facundo Majdalani)",
+        "url": "https://open.spotify.com/album/7kbDG1e9kjN3M1d3hXPFjX"
+      },
+      "artists": [
+        {
+          "name": "Franco Rizzaro",
+          "url": "https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB"
+        },
+        {
+          "name": "Facundo Majdalani",
+          "url": "https://open.spotify.com/artist/3NyQOEvPVM0jpm4Kh7sY5A"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164088,
+      "name": "Dime T\u00fa (feat. Facundo Majdalani)",
+      "url": "https://open.spotify.com/track/3Xq6Xb13M0EukebL7juX1g"
     },
     {
       "album": {
@@ -1786,7 +1826,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 189668,
       "name": "El Merengue",
       "url": "https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9"
@@ -2835,6 +2875,24 @@
     },
     {
       "album": {
+        "name": "LA REINA",
+        "url": "https://open.spotify.com/album/2Fy0cyNtT6mpTVWtAAyfh4"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "LA REINA",
+      "url": "https://open.spotify.com/track/06JM1fuKPQOrSL6s9mzDvV"
+    },
+    {
+      "album": {
         "name": "La Serenata",
         "url": "https://open.spotify.com/album/7pFJqxrRMrCsYfZZR2yrio"
       },
@@ -3014,7 +3072,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 184058,
       "name": "LEGENDARIO",
       "url": "https://open.spotify.com/track/47Y7zbY54UmViUUDUrq7Sk"
@@ -3072,7 +3130,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 156774,
       "name": "LORO",
       "url": "https://open.spotify.com/track/55UW6NYVtbjUgX4vwEV3GQ"
@@ -3170,6 +3228,24 @@
       "duration_ms": 216980,
       "name": "Low Key (feat. Humby)",
       "url": "https://open.spotify.com/track/4PfR2vNZ3ig9OCyZmWsQL2"
+    },
+    {
+      "album": {
+        "name": "LUNAR",
+        "url": "https://open.spotify.com/album/4IjhuO42v4hw5xxPSuk9C3"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186787,
+      "name": "LUNAR",
+      "url": "https://open.spotify.com/track/1b1pn4vLdyxyRQLbGVEmL8"
     },
     {
       "album": {
@@ -4583,6 +4659,24 @@
     },
     {
       "album": {
+        "name": "Poco A Poquito",
+        "url": "https://open.spotify.com/album/0r1mCoj2bDgqIsorLgCaOe"
+      },
+      "artists": [
+        {
+          "name": "Morena",
+          "url": "https://open.spotify.com/artist/5aLdbUjX00uHsIQrciD85d"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167294,
+      "name": "Poco A Poquito",
+      "url": "https://open.spotify.com/track/0BAiCTaUyOvb0qKJCYYVap"
+    },
+    {
+      "album": {
         "name": "Posdata:",
         "url": "https://open.spotify.com/album/0oBnKQ2chigdzlJkUuVBYk"
       },
@@ -5213,6 +5307,28 @@
     },
     {
       "album": {
+        "name": "sorry es que soy bipolarrr",
+        "url": "https://open.spotify.com/album/3ll4hIoivK1wpONt3MDxg5"
+      },
+      "artists": [
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220553,
+      "name": "sorry es que soy bipolarrr",
+      "url": "https://open.spotify.com/track/33BselzygJVodjKKHVLpiH"
+    },
+    {
+      "album": {
         "name": "Tal Vez (Remix)",
         "url": "https://open.spotify.com/album/6AAV2t7WjOue7PvPpNGKZW"
       },
@@ -5356,6 +5472,28 @@
       "duration_ms": 170000,
       "name": "Tenso",
       "url": "https://open.spotify.com/track/6qjVwfPtN73Rj7vSAaAuF2"
+    },
+    {
+      "album": {
+        "name": "The Door",
+        "url": "https://open.spotify.com/album/7KZQ4RX8Eqcx36FAWgCpx2"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212648,
+      "name": "The Door",
+      "url": "https://open.spotify.com/track/4yq8Oc51K2mgLfo9BjU3Rr"
     },
     {
       "album": {
@@ -6084,7 +6222,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 207632,
       "name": "Yo Te Dir\u00e9",
       "url": "https://open.spotify.com/track/2K6QTldAHBRFk3c6BHWYr5"

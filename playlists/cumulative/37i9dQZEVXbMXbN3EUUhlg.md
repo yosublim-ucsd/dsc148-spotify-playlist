@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Brazil.
 
-1,109 songs - 2 day 8 hr 4 min
+1,110 songs - 2 day 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -566,7 +566,7 @@
 | [Lua](https://open.spotify.com/track/6r6wTVl7sBndpdlzBSEYnF) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Boiadeira Internacional \(Ao Vivo\)](https://open.spotify.com/album/1eLF8DMP6DQrGcJXqqIlAa) | 3:26 | 2024-02-28 |  |
 | [Lula Lá 2022](https://open.spotify.com/track/7b1P6Ut5ehjeXhJ6SiPTrf) | [Esquerda Festiva](https://open.spotify.com/artist/19kP8LcEBcxfaxKOW0URAK) | [Lula Lá 2022](https://open.spotify.com/album/6UzlPDtPjiPU2ukr9pCf6M) | 1:50 | 2022-10-31 | 2022-11-02 |
 | [Lula Lá no Funk \(O Pai Tá On\)](https://open.spotify.com/track/3ZKwh2EZwtbLl36lhJONuA) | [Festa do Lula](https://open.spotify.com/artist/3ZOpvSIzCBGbEeqiTcJxsG), [DJ Fábio ACM](https://open.spotify.com/artist/1I5miROzH3MFMhRsphAvQJ) | [Festa do Lula, Vol\. 1](https://open.spotify.com/album/5UcjBnRDyFNgPu3suSFm1o) | 1:46 | 2022-10-31 | 2022-11-02 |
-| [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-05-18 |  |
+| [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-05-18 | 2024-06-15 |
 | [Luz do Luar](https://open.spotify.com/track/6eNRGL6Nkdg7RhJtmbcl0j) | [Mc Tato](https://open.spotify.com/artist/7lc98VPDdogFv3eLfCX7sq), [DJ Ak beats](https://open.spotify.com/artist/685uhJgfQlrMNuarOzgyea) | [Luz do Luar](https://open.spotify.com/album/6HKHaxZfCQWCD74H12NKy4) | 3:04 | 2023-01-10 | 2023-04-29 |
 | [Luísa Manequim](https://open.spotify.com/track/1DNAEwpLu0ZxIQ0f9Bfgpr) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV) | 2:29 | 2023-08-31 | 2023-09-08 |
 | [Luísa Manequim](https://open.spotify.com/track/6bz8FVEWr58UGvj6BuG02Q) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 2:29 | 2023-09-07 | 2023-09-09 |
@@ -700,6 +700,7 @@
 | [Noite Fria](https://open.spotify.com/track/3O2wrDL7nnSDZOrdZqxyoY) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [MC Pipokinha](https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK) | [Ninguém Tá Puro!](https://open.spotify.com/album/0JDZhfDT24lh3OYX0NKU9I) | 2:40 | 2023-03-17 | 2023-04-23 |
 | [Noite Fria](https://open.spotify.com/track/3lT2haeJ7ype7nCJrV96nI) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [MC Pipokinha](https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK) | [Noite Fria](https://open.spotify.com/album/0aixHaAcI8UV5vBWmRnLni) | 2:40 | 2023-03-10 | 2023-03-18 |
 | [Nosso Momento](https://open.spotify.com/track/0Veziue3ma20ib0JUzARrV) | [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Ribb](https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE), [2050](https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji) | [Darma](https://open.spotify.com/album/5O0eyzHsfXfRQuHRV0X1tL) | 2:56 | 2024-03-23 | 2024-03-25 |
+| [Nosso Primeiro Beijo \- Ao Vivo](https://open.spotify.com/track/7Elw15XWLpOi4qzHyAwa9e) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Serenata da GG, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK) | 2:48 | 2024-06-14 |  |
 | [Nosso Quadro](https://open.spotify.com/track/1bzRhnrWU1l1u4Bby9ZbfQ) | [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [AgroPlay Verão Vol.1](https://open.spotify.com/album/5nLj4u8xY6bfCAHNQVM87i) | 2:53 | 2023-02-05 | 2023-02-22 |
 | [Nosso Quadro](https://open.spotify.com/track/4uqJelb9THHmJ3OCohg4ZJ) | [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Nosso Quadro](https://open.spotify.com/album/2UcCoH8S3vHlaY27uLsxmc) | 2:53 | 2023-02-21 | 2024-01-06 |
 | [Nosso Quadro](https://open.spotify.com/track/6zFpImDYig0CQhLL2NIfyN) | [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Agroplay Verão](https://open.spotify.com/album/6I6uEJ4eiy6Iln3RSokKfj) | 2:53 | 2024-01-05 | 2024-02-04 |

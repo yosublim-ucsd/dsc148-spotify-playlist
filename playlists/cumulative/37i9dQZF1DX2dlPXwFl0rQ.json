@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Estas son las indomables de la M\u00fasica Mexicana. Ivonne Galaz en portada.",
+  "description": "Estas son las indomables de la M\u00fasica Mexicana. NXNNI en portada.",
   "name": "Mujeres Brav\u00edas",
   "tracks": [
     {
@@ -1098,7 +1098,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-05",
+      "date_removed": null,
       "duration_ms": 190800,
       "name": "Con Que Me Pagas - En Vivo",
       "url": "https://open.spotify.com/track/0zbX5CH6xqlpr97SJKavlL"
@@ -2385,6 +2385,24 @@
     },
     {
       "album": {
+        "name": "Gotitas Saladas",
+        "url": "https://open.spotify.com/album/3qm5AFyntlDrD2NbcVGGdU"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203021,
+      "name": "Gotitas Saladas",
+      "url": "https://open.spotify.com/track/5Sas859pm039G13F5wEuyK"
+    },
+    {
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -2700,7 +2718,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 164276,
       "name": "La Atrevida",
       "url": "https://open.spotify.com/track/6Z31cRAUoYyKP41rtpbA8K"
@@ -2834,7 +2852,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 234026,
       "name": "La Gitanilla",
       "url": "https://open.spotify.com/track/7jKkmzmUeVV4gbwALwp43w"
@@ -3488,6 +3506,24 @@
       "duration_ms": 318893,
       "name": "L\u00e1grimas Negras",
       "url": "https://open.spotify.com/track/0LBLCeMdb0LeV9ncVdZbwB"
+    },
+    {
+      "album": {
+        "name": "Mala Fe (Live Sessions)",
+        "url": "https://open.spotify.com/album/3amfWdguN5khOTKCaFMd6i"
+      },
+      "artists": [
+        {
+          "name": "NXNNI",
+          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219146,
+      "name": "Mala Fe - Live Sessions",
+      "url": "https://open.spotify.com/track/3aa9ZRz4HxbFbqDM2Qlt9i"
     },
     {
       "album": {
@@ -6826,7 +6862,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 226000,
       "name": "Tus Mentiras",
       "url": "https://open.spotify.com/track/5chVcTt95glP47mhpSm28B"

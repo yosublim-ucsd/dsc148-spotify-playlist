@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSsv1Yhw5QfW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSsv1Yhw5QfW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSsv1Yhw5QfW)
 
-### [Enganchados: Lentos](https://open.spotify.com/playlist/37i9dQZF1DWSsv1Yhw5QfW)
+### [Lentos](https://open.spotify.com/playlist/37i9dQZF1DWSsv1Yhw5QfW)
 
 > Agárrense fuerte.
 

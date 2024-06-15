@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Rhyme Elite Artist League \u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: POKMINDSET",
+  "description": "Rhyme Elite Artist League \u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: DIEOUT",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -1665,6 +1665,32 @@
     },
     {
       "album": {
+        "name": "Kiss for luv",
+        "url": "https://open.spotify.com/album/0e7bxXmH5DbN8PzCZJnHkV"
+      },
+      "artists": [
+        {
+          "name": "Kennocha",
+          "url": "https://open.spotify.com/artist/4x2ikRZkZoyUukv8H39nCP"
+        },
+        {
+          "name": "Jungji",
+          "url": "https://open.spotify.com/artist/6mAPxjjlPXBT4PCcrfRxJX"
+        },
+        {
+          "name": "Migbizzy",
+          "url": "https://open.spotify.com/artist/4y6TH6aD9FvcKrWfwEmEUM"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134206,
+      "name": "Kiss for luv",
+      "url": "https://open.spotify.com/track/4N0LiJT8lMajHnLv5F5Iho"
+    },
+    {
+      "album": {
         "name": "2Many nights in BKK",
         "url": "https://open.spotify.com/album/1pnRUwmfYwHli4h18ufPOS"
       },
@@ -3027,6 +3053,24 @@
     },
     {
       "album": {
+        "name": "Sexy Girl",
+        "url": "https://open.spotify.com/album/5R2DbU5WD1GKVQb6es0tNv"
+      },
+      "artists": [
+        {
+          "name": "Tobii",
+          "url": "https://open.spotify.com/artist/2Q1Qzlhorq7idKOcZwsGeg"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Sexy Girl",
+      "url": "https://open.spotify.com/track/5YxH99t2aXNAUCF33JKCFv"
+    },
+    {
+      "album": {
         "name": "Shall We",
         "url": "https://open.spotify.com/album/3KyVvNvqo1Rp14e1lR0z6i"
       },
@@ -3160,7 +3204,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 196000,
       "name": "SMILE",
       "url": "https://open.spotify.com/track/0oqcYc9iYIMcPPll3GgVsw"
@@ -3815,6 +3859,32 @@
     },
     {
       "album": {
+        "name": "\u0e01\u0e25\u0e31\u0e1a\u0e01\u0e31\u0e1a\u0e1c\u0e21\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21?",
+        "url": "https://open.spotify.com/album/3a8DWQaRcWkkgAz3x1WRn6"
+      },
+      "artists": [
+        {
+          "name": "Bogey",
+          "url": "https://open.spotify.com/artist/3jyyG8EihuppZucFGnyKY8"
+        },
+        {
+          "name": "Chxid!",
+          "url": "https://open.spotify.com/artist/0EqiTQKKBV3wUAy7TS09gL"
+        },
+        {
+          "name": "2Ectasy",
+          "url": "https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188728,
+      "name": "\u0e01\u0e25\u0e31\u0e1a\u0e01\u0e31\u0e1a\u0e1c\u0e21\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21?",
+      "url": "https://open.spotify.com/track/1EYYGgYbBd94Ws6mF8etG1"
+    },
+    {
+      "album": {
         "name": "\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19\u0e01\u0e48\u0e2d\u0e19",
         "url": "https://open.spotify.com/album/7AISsz6d6AptqE8SwPPn4I"
       },
@@ -4068,7 +4138,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 238332,
       "name": "\u0e02\u0e2d\u0e2a\u0e31\u0e01\u0e17\u0e35",
       "url": "https://open.spotify.com/track/5i5phIWFygOD0Cpsc64Lui"
@@ -4912,7 +4982,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 225721,
       "name": "\u0e14\u0e35\u0e2d\u0e22\u0e39\u0e48\u0e41\u0e25\u0e49\u0e27",
       "url": "https://open.spotify.com/track/2xyQOFNBiQN31Hm4CyahLs"
@@ -6211,6 +6281,40 @@
     },
     {
       "album": {
+        "name": "\u0e23\u0e32\u0e0a\u0e2a\u0e35\u0e2b\u0e4c",
+        "url": "https://open.spotify.com/album/5dLkVLVTrC6TKR9VeatTOJ"
+      },
+      "artists": [
+        {
+          "name": "DIEOUT",
+          "url": "https://open.spotify.com/artist/70qUZc0Sb9KwYgjAUdJfsf"
+        },
+        {
+          "name": "1st",
+          "url": "https://open.spotify.com/artist/5p5YOMEbKadO6P7e4YxwKC"
+        },
+        {
+          "name": "2K",
+          "url": "https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E"
+        },
+        {
+          "name": "Sexski",
+          "url": "https://open.spotify.com/artist/6QeYcD1n2YcWygCScfLhRE"
+        },
+        {
+          "name": "BlackHeart",
+          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150588,
+      "name": "\u0e23\u0e32\u0e0a\u0e2a\u0e35\u0e2b\u0e4c",
+      "url": "https://open.spotify.com/track/1PQTcYZibE8fCKtGbB784Y"
+    },
+    {
+      "album": {
         "name": "\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01 Feelin'",
         "url": "https://open.spotify.com/album/6LP5ttCSgrTsvyg5OiIYXm"
       },
@@ -6619,6 +6723,28 @@
     },
     {
       "album": {
+        "name": "BABB BUM BUM",
+        "url": "https://open.spotify.com/album/6KNC1U2jopk3FbzkKkPiLC"
+      },
+      "artists": [
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        },
+        {
+          "name": "TangBadVoice",
+          "url": "https://open.spotify.com/artist/2feGNLrcUrcsQNA1QJBaIe"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "\u0e2a\u0e32\u0e18\u0e38",
+      "url": "https://open.spotify.com/track/1GYXh5uqc9pI6HwfwgrP77"
+    },
+    {
+      "album": {
         "name": "\u0e18\u0e32\u0e15\u0e38\u0e17\u0e2d\u0e07\u0e0b\u0e32\u0e27\u0e14\u0e4c",
         "url": "https://open.spotify.com/album/0e5gXaOqlR6e5bA1ZLqksK"
       },
@@ -6678,7 +6804,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 259469,
       "name": "\u0e2a\u0e38\u0e14\u0e43\u0e08",
       "url": "https://open.spotify.com/track/23YIgLVPlRRzLj1yttUvWU"
@@ -7708,7 +7834,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 217411,
       "name": "\u0e40\u0e25\u0e34\u0e01\u0e1e\u0e39\u0e14",
       "url": "https://open.spotify.com/track/1TP7e77dujSjfsVeajlKvi"

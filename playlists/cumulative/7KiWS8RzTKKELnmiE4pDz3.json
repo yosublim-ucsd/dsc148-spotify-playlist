@@ -10581,6 +10581,32 @@
     },
     {
       "album": {
+        "name": "Scared Money",
+        "url": "https://open.spotify.com/album/3TsYjPFN8qCxcYWHL3DtL8"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204285,
+      "name": "Scared Money (feat. J. Cole and Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/4heBcjj4Lw3X2sQVFNbLbz"
+    },
+    {
+      "album": {
         "name": "MICHAEL",
         "url": "https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ"
       },

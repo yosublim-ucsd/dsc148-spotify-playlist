@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: <a href=\"spotify:artist:5VX8hxrcfJWwaTLiqGUHG3\">TobyMac</a>",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: <a href=\"spotify:artist:7z7byOJ4AJnMY2NHE66ZpW\">DOE</a>",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -1548,7 +1548,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 262771,
       "name": "Break The Bottle",
       "url": "https://open.spotify.com/track/2Vf59fzWMGDRtLwolStTGw"
@@ -1566,7 +1566,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 172217,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6"
@@ -1942,10 +1942,32 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 243522,
       "name": "Chances",
       "url": "https://open.spotify.com/track/58jKfEKmPpXkHx9ujeAzr8"
+    },
+    {
+      "album": {
+        "name": "Chances (Live)",
+        "url": "https://open.spotify.com/album/3XUVPO2QO9wPviUHTZJUK9"
+      },
+      "artists": [
+        {
+          "name": "Ke'Erron",
+          "url": "https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0"
+        },
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244891,
+      "name": "Chances - Live",
+      "url": "https://open.spotify.com/track/4QRgxKnKg77vYCCE8OYfWf"
     },
     {
       "album": {
@@ -3138,7 +3160,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 229386,
       "name": "Fall On You",
       "url": "https://open.spotify.com/track/0p6l8CPAZZ0yVEk1bORpeI"
@@ -3839,6 +3861,24 @@
     },
     {
       "album": {
+        "name": "Learning How To Be Human",
+        "url": "https://open.spotify.com/album/3VeyUPjz688xgL01XFUSjt"
+      },
+      "artists": [
+        {
+          "name": "Manafest",
+          "url": "https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162213,
+      "name": "Glitch In The Matrix",
+      "url": "https://open.spotify.com/track/4bxBCX9Iw9IMeQe1vsujqt"
+    },
+    {
+      "album": {
         "name": "More Than Music (Transcendent Worship)",
         "url": "https://open.spotify.com/album/6WDklyokogcK9ZZqcFEJeg"
       },
@@ -3868,7 +3908,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 193241,
       "name": "Glory",
       "url": "https://open.spotify.com/track/2uDxeiMRo8RHpoFS2wrjnQ"
@@ -5382,7 +5422,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 266733,
       "name": "Higher Ground",
       "url": "https://open.spotify.com/track/7Gc6AtqoehihaLJAKDR1s6"
@@ -11385,6 +11425,24 @@
     },
     {
       "album": {
+        "name": "Rest On Us (Live)",
+        "url": "https://open.spotify.com/album/5Y1ng8Gt4DrhfQUc4iv4pR"
+      },
+      "artists": [
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444562,
+      "name": "Rest On Us - Live",
+      "url": "https://open.spotify.com/track/3Qo0Fi5Ugn0j5PjSzcREsz"
+    },
+    {
+      "album": {
         "name": "Rest On Us",
         "url": "https://open.spotify.com/album/5oijhJhsrP8CewlpbOpgiX"
       },
@@ -11462,6 +11520,24 @@
       "duration_ms": 312883,
       "name": "Revelation Song",
       "url": "https://open.spotify.com/track/509nwQdYfumwpK4OMCz9ZM"
+    },
+    {
+      "album": {
+        "name": "Right Where You Are",
+        "url": "https://open.spotify.com/album/1nM9E1dc2aBJaITJouZT3S"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187199,
+      "name": "Right Where You Are",
+      "url": "https://open.spotify.com/track/1UscjxjPkZ25Efe8rEaUQM"
     },
     {
       "album": {
@@ -14431,6 +14507,24 @@
     },
     {
       "album": {
+        "name": "My Foundation",
+        "url": "https://open.spotify.com/album/5aHy0vrK4u7BtrGkUwMa0q"
+      },
+      "artists": [
+        {
+          "name": "Jordan St. Cyr",
+          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200596,
+      "name": "To Save My Life",
+      "url": "https://open.spotify.com/track/3ztqayRkNjhDgsJ3fKwu3P"
+    },
+    {
+      "album": {
         "name": "This Is How I Thank The Lord",
         "url": "https://open.spotify.com/album/4nqe5ontu7BXz6C7mD5Ami"
       },
@@ -15154,6 +15248,24 @@
       "duration_ms": 277000,
       "name": "Where Can I Go - Psalm 139",
       "url": "https://open.spotify.com/track/759M03NuO9GCcWNRbZlWOL"
+    },
+    {
+      "album": {
+        "name": "Where My Joy Comes From",
+        "url": "https://open.spotify.com/album/7JGSP8J3mwi4VdF81Xwvos"
+      },
+      "artists": [
+        {
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159078,
+      "name": "Where My Joy Comes From",
+      "url": "https://open.spotify.com/track/2eWYnZD8g7x7vhNikDTjZa"
     },
     {
       "album": {

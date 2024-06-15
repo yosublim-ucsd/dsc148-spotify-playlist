@@ -4,7 +4,7 @@
 
 > Yoa au top des nouveautés de la semaine !
 
-649 songs - 1 day 9 hr 36 min
+650 songs - 1 day 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Break ‘Em All](https://open.spotify.com/track/1hH8ByI9BkzG8ASsQJoqcH) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Break 'Em All](https://open.spotify.com/album/1eZMBwcCn2tf7sWn8Ug94a) | 3:33 | 2024-06-06 | 2024-06-14 |
 | [Bright Soul](https://open.spotify.com/track/4xvLk9biHaiDH6sZQ6F8Lb) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Bright Soul](https://open.spotify.com/album/2nABJf5Qgz34ayXKpWuRAY) | 2:59 | 2024-06-13 |  |
 | [Broke My Heart](https://open.spotify.com/track/4jf9aWVk63e8c8lC7HABbK) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Broke My Heart](https://open.spotify.com/album/22TAmmHGJNDO7fDwlf0RE7) | 2:46 | 2024-06-06 | 2024-06-14 |
+| [BROTHER STONE \(FEAT\. KODAK BLACK\)](https://open.spotify.com/track/0l3raueiJ78IsmZGwo6CRm) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [BROTHER STONE \(FEAT\. KODAK BLACK\)](https://open.spotify.com/album/0LWTY98ijfILoFHupcQJKE) | 3:22 | 2024-06-13 |  |
 | [Bumpa](https://open.spotify.com/track/7zE8qmq6AJuAANgUyHcjy1) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Bumpa](https://open.spotify.com/album/63Pj8e2jkWuOA5i1uDEaNQ) | 2:04 | 2024-04-25 | 2024-05-03 |
 | [buried alive](https://open.spotify.com/track/2yHcSn169Hjj5UjjLubk8U) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP) | [buried alive](https://open.spotify.com/album/1oqWOoKKK6HopShglymize) | 3:27 | 2024-04-25 | 2024-05-03 |
 | [Burning](https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:55 | 2024-06-06 | 2024-06-14 |
@@ -195,7 +196,7 @@
 | [Even Now](https://open.spotify.com/track/32uVxq9URcY70dGwm0EzF5) | [Superjava](https://open.spotify.com/artist/2oiYIcyuXbGsKC0PJUCrGp), [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [Even Now](https://open.spotify.com/album/1XrUW4FChuC6EjR99b8xPh) | 3:00 | 2024-05-16 | 2024-05-24 |
 | [Every Little Thing I Say I Do](https://open.spotify.com/track/3ngjq0C1z1kVYAdBH5114w) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Every Little Thing I Say I Do](https://open.spotify.com/album/6aYHsDzCmD030bmUaVaKq8) | 3:00 | 2024-05-02 | 2024-05-10 |
 | [Everyday](https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Everyday](https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7) | 2:46 | 2024-05-02 | 2024-05-10 |
-| [Exit Oblivion](https://open.spotify.com/track/4ycb32qb4NCRIM9kNof98g) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [All Good](https://open.spotify.com/album/4F55MjyuidAYOgPVbf8oes) | 3:30 | 2024-06-13 |  |
+| [Exit Oblivion](https://open.spotify.com/track/4ycb32qb4NCRIM9kNof98g) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [all good](https://open.spotify.com/album/4F55MjyuidAYOgPVbf8oes) | 3:30 | 2024-06-13 |  |
 | [Eye Candy](https://open.spotify.com/track/6U5z8bWMziHL0LjQDJrqY4) | [Crystal Murray](https://open.spotify.com/artist/2lRXAjsNoYGqyYkgHxk5OH) | [Sad Lovers And Giants](https://open.spotify.com/album/2LznuzPtonWQoBR525OyLC) | 2:41 | 2024-05-30 | 2024-06-07 |
 | [Eye of the Tiger](https://open.spotify.com/track/0I7AmvaLcKWzl63tw9HTlm) | [Saint DX](https://open.spotify.com/artist/4AHuSBzDte0ospEtW9rL18) | [Eye of the Tiger](https://open.spotify.com/album/6bFue5xldDNbW3RbpeCPuF) | 3:10 | 2024-04-25 | 2024-05-03 |
 | [F o r C e r t a i n](https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:39 | 2024-04-25 | 2024-05-03 |

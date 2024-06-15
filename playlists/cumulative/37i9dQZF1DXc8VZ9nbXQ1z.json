@@ -2706,7 +2706,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 342000,
       "name": "Ezizweni",
       "url": "https://open.spotify.com/track/7dEdC3c4l87CAbFHTcYFAL"
@@ -3910,7 +3910,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 325824,
       "name": "Hurt Beings",
       "url": "https://open.spotify.com/track/4rSb2gKoVZhVNbyjk8cGfB"
@@ -4635,6 +4635,28 @@
     },
     {
       "album": {
+        "name": "Sekusile",
+        "url": "https://open.spotify.com/album/17EktvwMYBNNcXL4rXVai7"
+      },
+      "artists": [
+        {
+          "name": "Maline Aura",
+          "url": "https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP"
+        },
+        {
+          "name": "Mpho.Wav",
+          "url": "https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378500,
+      "name": "iThemba",
+      "url": "https://open.spotify.com/track/4Zb3pc30RA1QtXezj5heEr"
+    },
+    {
+      "album": {
         "name": "Lost In Nairobi",
         "url": "https://open.spotify.com/album/1VbU9VqEzQFQp2we8qk5c8"
       },
@@ -4808,7 +4830,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 456000,
       "name": "Jenifa",
       "url": "https://open.spotify.com/track/5dEzH5AV2LaW7S0Oqv5Mqu"
@@ -6426,7 +6448,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 478021,
       "name": "Moya",
       "url": "https://open.spotify.com/track/7gYMqL0qPmP5rg6UMrjh06"
@@ -6548,7 +6570,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 195714,
       "name": "Mwaki - Major Lazer Remix",
       "url": "https://open.spotify.com/track/0c6dw8qe0mNA2sMETrDUl9"
@@ -6698,6 +6720,28 @@
       "duration_ms": 358000,
       "name": "Nalingiyo",
       "url": "https://open.spotify.com/track/0wLMzr90tRILfac9nJcNwm"
+    },
+    {
+      "album": {
+        "name": "Navi (Kitty Amor Remix)",
+        "url": "https://open.spotify.com/album/6bEWa7p90UmdNWdJhcKbWK"
+      },
+      "artists": [
+        {
+          "name": "Dot Major",
+          "url": "https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh"
+        },
+        {
+          "name": "Kitty Amor",
+          "url": "https://open.spotify.com/artist/0ZaCzPKSboLncLMhFaBfcT"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211757,
+      "name": "Navi - Kitty Amor Remix",
+      "url": "https://open.spotify.com/track/2fyBD6MWUAQRUyGxfeCJZ8"
     },
     {
       "album": {
@@ -7171,6 +7215,32 @@
     },
     {
       "album": {
+        "name": "No Other Way (VooDoo Tribe Mix)",
+        "url": "https://open.spotify.com/album/5NUw3NWCvF4RbHlpy8qbK6"
+      },
+      "artists": [
+        {
+          "name": "DJ Tomer",
+          "url": "https://open.spotify.com/artist/0hpl6679CBWX360qBPGIVj"
+        },
+        {
+          "name": "Ricardo Gi",
+          "url": "https://open.spotify.com/artist/6D12U0cOJwowjazT7V1s3c"
+        },
+        {
+          "name": "Mayan DeLion",
+          "url": "https://open.spotify.com/artist/240PMtK9RCqGqudEVMckrc"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201101,
+      "name": "No Other Way - VooDoo Tribe Mix",
+      "url": "https://open.spotify.com/track/0rA6JNLBLIaRvd8uVnWyyo"
+    },
+    {
+      "album": {
         "name": "Platinumb Heart Beating",
         "url": "https://open.spotify.com/album/5I1PuwMzFN5Ooh8R5zUncS"
       },
@@ -7190,6 +7260,24 @@
       "duration_ms": 350000,
       "name": "No Rainbow",
       "url": "https://open.spotify.com/track/1AfjVOW1tXh1gLT0pJ5IMz"
+    },
+    {
+      "album": {
+        "name": "Blomst",
+        "url": "https://open.spotify.com/album/1DUXiOusufER3z7lGvtcnP"
+      },
+      "artists": [
+        {
+          "name": "Meera (NO)",
+          "url": "https://open.spotify.com/artist/5dlUBPnFrAnjqC9hvEpEYi"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434494,
+      "name": "No Space",
+      "url": "https://open.spotify.com/track/07ihiCmDshXFcqK9cq7Ulf"
     },
     {
       "album": {
@@ -8359,6 +8447,40 @@
     },
     {
       "album": {
+        "name": "Resilience (Andhim Remix)",
+        "url": "https://open.spotify.com/album/6pCbuvcdabM6JQdPYPhW0Z"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Satie",
+          "url": "https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij"
+        },
+        {
+          "name": "Maga",
+          "url": "https://open.spotify.com/artist/3SLZrLX47S9PmPRabiESVl"
+        },
+        {
+          "name": "Sean Doron",
+          "url": "https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX"
+        },
+        {
+          "name": "Tim Engelhardt",
+          "url": "https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE"
+        },
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383668,
+      "name": "Resilience - Andhim Remix",
+      "url": "https://open.spotify.com/track/4d2i0MBMVHoDZJQWGYOeHy"
+    },
+    {
+      "album": {
         "name": "20 Years of Joey Negro",
         "url": "https://open.spotify.com/album/374knYtHJn9FTD03iRzwYH"
       },
@@ -9450,6 +9572,32 @@
       "duration_ms": 349804,
       "name": "Sun Showers",
       "url": "https://open.spotify.com/track/1K0gGw3w12SPykfSzZTHew"
+    },
+    {
+      "album": {
+        "name": "Sunset Beach",
+        "url": "https://open.spotify.com/album/5RBEhbmzr1KvkAZZU3B41G"
+      },
+      "artists": [
+        {
+          "name": "Dr Feel",
+          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
+        },
+        {
+          "name": "Jacko",
+          "url": "https://open.spotify.com/artist/2eGQ2U7oSfLP26Bl9nBCKA"
+        },
+        {
+          "name": "NAE (SA)",
+          "url": "https://open.spotify.com/artist/7jQMNIOf6vfiQvzwQqSzFs"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452026,
+      "name": "Sunset Beach",
+      "url": "https://open.spotify.com/track/043sDCbUstmYjpo8I3Ey5y"
     },
     {
       "album": {
@@ -11368,7 +11516,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 439633,
       "name": "Yaze Yamnandi",
       "url": "https://open.spotify.com/track/1KvukmWKoW88NnECROFg2y"

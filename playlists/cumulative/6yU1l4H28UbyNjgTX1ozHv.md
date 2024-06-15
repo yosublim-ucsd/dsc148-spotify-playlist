@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-240 songs - 12 hr 28 min
+241 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [As Long As You Love Me \- Acoustic](https://open.spotify.com/track/25WqOFXGafpwxSb19RwXOP) | [Grace George](https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z) | [As Long As You Love Me \(Acoustic\)](https://open.spotify.com/album/6LqspkIxvToYsWW9H8vGxH) | 3:16 | 2024-01-12 |  |
 | [Baby I'm Yours \- Acoustic](https://open.spotify.com/track/6HTPUY4wJX7cR2b67nLFa5) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [Baby I'm Yours \(Acoustic\)](https://open.spotify.com/album/2yyCCIXv0Kl95gwmK6zZ7g) | 1:59 | 2021-05-24 | 2024-03-04 |
 | [Beautiful Birds \- Acoustic](https://open.spotify.com/track/0LenfZSOzFiUB6sLmbB8pS) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Young as the Morning Old as the Sea \(Deluxe Edition\)](https://open.spotify.com/album/6MRC1VH6UnmiDFMvalRV68) | 2:53 | 2019-10-13 |  |
-| [Beautiful Day \- Acoustic](https://open.spotify.com/track/7eWOW1egL8jXVrFuWHeFOY) | [Ben Weighill](https://open.spotify.com/artist/6yAU69cTqYRuizldebquYb) | [Beautiful Day \(Acoustic\)](https://open.spotify.com/album/3jnfn4qhQMw8DO5xBvMpZe) | 3:04 | 2024-04-19 |  |
+| [Beautiful Day \- Acoustic](https://open.spotify.com/track/7eWOW1egL8jXVrFuWHeFOY) | [Ben Weighill](https://open.spotify.com/artist/6yAU69cTqYRuizldebquYb) | [Beautiful Day \(Acoustic\)](https://open.spotify.com/album/3jnfn4qhQMw8DO5xBvMpZe) | 3:04 | 2024-04-19 | 2024-06-15 |
 | [Because You Loved Me \- Acoustic](https://open.spotify.com/track/46riIukB23FBujbdYQTfmf) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [Because You Loved Me \(Acoustic\)](https://open.spotify.com/album/4XbwbcopmQJCRuETbjr1RN) | 3:37 | 2022-06-17 | 2023-05-10 |
 | [Believe \- Acoustic](https://open.spotify.com/track/52VvzULC47oauMWtVdAejU) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw) | [Believe \(Acoustic\)](https://open.spotify.com/album/6f8znb9G5J0MlLe895IzJt) | 3:48 | 2023-12-01 | 2024-02-24 |
 | [Believe \- Acoustic](https://open.spotify.com/track/3CTDZeM0OMz49BdQ2kI0HU) | [Beth](https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY) | [Believe \(Acoustic\)](https://open.spotify.com/album/4s5feYt6hMWRjjHYCybysv) | 3:07 | 2022-04-10 | 2023-01-21 |
@@ -218,6 +218,7 @@
 | [Use Somebody \- Acoustic](https://open.spotify.com/track/15ifihnDCzcbGX3lQdUHKn) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Use Somebody \(Acoustic\)](https://open.spotify.com/album/6ccSCZ1k60gVpONCZZPvAm) | 2:59 | 2023-03-03 | 2023-06-24 |
 | [Valerie \- Acoustic](https://open.spotify.com/track/2maGjY9V7Z0RAVTyXFPyaX) | [Mack Myles](https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW) | [Valerie \(Acoustic\)](https://open.spotify.com/album/5GQMEtMsfqHsAfHXy02VOM) | 2:40 | 2023-01-20 | 2023-03-04 |
 | [Viva La Vida \- Acoustic](https://open.spotify.com/track/5MglzGLNOwOhQkOyk95Fg9) | [Jacob Wellfair](https://open.spotify.com/artist/3ltleRPN7qd0CQ3rNVMW2V) | [Viva La Vida \(Acoustic\)](https://open.spotify.com/album/7H9o1ODOGd05qUVRz2N7zl) | 2:53 | 2024-04-12 |  |
+| [Waiting for a Star to Fall \- Acoustic](https://open.spotify.com/track/5dKgIGngjXSaseLDSaCkj0) | [Ben Weighill](https://open.spotify.com/artist/6yAU69cTqYRuizldebquYb) | [Waiting for a Star to Fall \(Acoustic\)](https://open.spotify.com/album/50mfevy8r6BfVbRIbP6ng4) | 2:44 | 2024-06-14 |  |
 | [Walking On Sunshine](https://open.spotify.com/track/1O91HwI2LMA8RglnZ2hbNH) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Walking On Sunshine](https://open.spotify.com/album/2xDMfqErOWYK71uDc4FvVE) | 2:31 | 2019-12-21 | 2024-03-04 |
 | [Walking on Sunshine \- Acoustic](https://open.spotify.com/track/2kOE6vW8uWheLITP2JYRPD) | [Richard Watts](https://open.spotify.com/artist/3cGb8b9Zwvka0MWD5RyMDI) | [Walking on Sunshine \(Acoustic\)](https://open.spotify.com/album/2jOhaWAGLkqVFBK2kTI7fX) | 2:59 | 2021-10-11 |  |
 | [We Are Stars \- Acoustic](https://open.spotify.com/track/5IHFSRi1mCCjt4z1Xrht5t) | [Callum Beattie](https://open.spotify.com/artist/4uFxymnU41sM7ytUCjuYTN) | [We Are Stars \- EP](https://open.spotify.com/album/2ZVs4ZGT7loGJinxPciE94) | 3:19 | 2019-10-13 |  |

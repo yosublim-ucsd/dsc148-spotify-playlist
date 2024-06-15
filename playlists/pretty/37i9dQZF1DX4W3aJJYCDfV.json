@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from IDLES (pictured), Cass\u00f6 x Jazzy ft Headie One, Normani and more!",
-  "num_followers": 852581,
+  "num_followers": 852684,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmt58AAAAACU8D9Vxs6JKxSGCaBAdz3w",
+  "snapshot_id": "ZmwTaQAAAACdWYJLnxtqjGS/fKDRglMx",
   "tracks": [
     {
       "added_at": "2024-06-13 23:00:00",
@@ -919,6 +919,26 @@
     {
       "added_at": "2024-06-13 23:00:00",
       "album": {
+        "name": "BROTHER STONE (FEAT. KODAK BLACK)",
+        "url": "https://open.spotify.com/album/0LWTY98ijfILoFHupcQJKE"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 202840,
+      "name": "BROTHER STONE (FEAT. KODAK BLACK)",
+      "url": "https://open.spotify.com/track/0l3raueiJ78IsmZGwo6CRm"
+    },
+    {
+      "added_at": "2024-06-13 23:00:00",
+      "album": {
         "name": "JUST LIKE THAT",
         "url": "https://open.spotify.com/album/17Wk4tqPJ8rMH1hFCW4eLf"
       },
@@ -1331,6 +1351,26 @@
     {
       "added_at": "2024-06-13 23:00:00",
       "album": {
+        "name": "Sweat (Ape Drums Remix)",
+        "url": "https://open.spotify.com/album/3OzQLbWRu1M1jPj9oPnfeq"
+      },
+      "artists": [
+        {
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+        },
+        {
+          "name": "Ape Drums",
+          "url": "https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u"
+        }
+      ],
+      "duration_ms": 147680,
+      "name": "Sweat - Ape Drums Remix",
+      "url": "https://open.spotify.com/track/1JSur5SXLkjdvbK8C3VNvB"
+    },
+    {
+      "added_at": "2024-06-13 23:00:00",
+      "album": {
         "name": "Amor Traumatizado",
         "url": "https://open.spotify.com/album/1mn2Kwp5yl0ztp2JkPGnKB"
       },
@@ -1403,6 +1443,22 @@
     {
       "added_at": "2024-06-13 23:00:00",
       "album": {
+        "name": "First Time",
+        "url": "https://open.spotify.com/album/2trAIH3JyP0Kas8Ke7H2q6"
+      },
+      "artists": [
+        {
+          "name": "NERIAH",
+          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/3gZ8s2w5v9jmjRkwYFRKxg"
+    },
+    {
+      "added_at": "2024-06-13 23:00:00",
+      "album": {
         "name": "Don't Play",
         "url": "https://open.spotify.com/album/3iQjN8uwr0EhA7wQn9FotJ"
       },
@@ -1416,7 +1472,7 @@
           "url": "https://open.spotify.com/artist/15k1qXazWMXAuvcYb59XFj"
         }
       ],
-      "duration_ms": 127128,
+      "duration_ms": 141199,
       "name": "Don't Play",
       "url": "https://open.spotify.com/track/6Rq2cFbjn0dDkfqKH207XU"
     },
@@ -1555,7 +1611,7 @@
     {
       "added_at": "2024-06-13 23:00:00",
       "album": {
-        "name": "All Good",
+        "name": "all good",
         "url": "https://open.spotify.com/album/4F55MjyuidAYOgPVbf8oes"
       },
       "artists": [

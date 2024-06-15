@@ -4,7 +4,7 @@
 
 > Our favorite subject? Their chemistry\. Listen to the music from Maxton Hall: The World Between Us, now streaming on Prime Video.
 
-36 songs - 1 hr 38 min
+38 songs - 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Ruby in a Rush \- from "Maxton Hall"](https://open.spotify.com/track/5K7HkvAxLtlDjCMizM4Yfu) | [songs in cinema](https://open.spotify.com/artist/23BjnFsuLGv1a5TNFqmSP6) | [Maxton Hall: The World Between Us \(Season 1\) \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/3AjUBcGTv6uYjAH0VUPRQt) | 1:04 | 2024-06-06 |  |
 | [Ruby's Dreams \- from "Maxton Hall"](https://open.spotify.com/track/2y8CKF1ovug4pBxj3BetRw) | [songs in cinema](https://open.spotify.com/artist/23BjnFsuLGv1a5TNFqmSP6) | [Maxton Hall: The World Between Us \(Season 1\) \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/3AjUBcGTv6uYjAH0VUPRQt) | 1:23 | 2024-06-06 |  |
 | [Run Like a River](https://open.spotify.com/track/3HoZ54Zo4ekv5ojTzhpiGT) | [JAMICA](https://open.spotify.com/artist/3SSupchUAX7ypE9vT9zj1e) | [Run Like a River](https://open.spotify.com/album/5YYIY9h3U0jZ8BaITEiEaN) | 3:01 | 2024-06-06 |  |
+| [Saying Sorry \- Extended Album Version \- from "Maxton Hall"](https://open.spotify.com/track/5gqiluyebGVDSjRRfXOQcH) | [songs in cinema](https://open.spotify.com/artist/23BjnFsuLGv1a5TNFqmSP6) | [Maxton Hall: The World Between Us \(Season 1\) \- Deluxe Ballroom \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/5MR2TI6Fr1ZpLyMtByltEf) | 2:07 | 2024-06-14 |  |
 | [Sea of Love \- Extended Album Version \- from "Maxton Hall"](https://open.spotify.com/track/2VezVJwF8oW67QTS5SB8E2) | [Eli Riccardi](https://open.spotify.com/artist/2sAsWXrp3h7Co0Nkwh5Wxg) | [Sea of Love](https://open.spotify.com/album/3pC4dLfRhyk390dtRq4cpa) | 3:08 | 2024-06-07 |  |
 | [Something's Off \- from "Maxton Hall"](https://open.spotify.com/track/2InEuGzKI41WCTMS4vnXUy) | [songs in cinema](https://open.spotify.com/artist/23BjnFsuLGv1a5TNFqmSP6) | [Maxton Hall: The World Between Us \(Season 1\) \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/3AjUBcGTv6uYjAH0VUPRQt) | 1:46 | 2024-06-06 |  |
 | [Song 2](https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 2:01 | 2024-06-06 |  |
@@ -41,6 +42,7 @@
 | [Tidal Wave](https://open.spotify.com/track/7JMUnS7j5CiN1BWVnOVTMD) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Cover My Own](https://open.spotify.com/album/4ie8Q4bJY7v7AQnsZgCSD5) | 3:17 | 2024-06-06 |  |
 | [Under Water \- from "Maxton Hall"](https://open.spotify.com/track/0srsB3L6YMSmiSQ9EpgwjG) | [songs in cinema](https://open.spotify.com/artist/23BjnFsuLGv1a5TNFqmSP6) | [Maxton Hall: The World Between Us \(Season 1\) \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/3AjUBcGTv6uYjAH0VUPRQt) | 1:54 | 2024-06-06 |  |
 | [Walk](https://open.spotify.com/track/6tHISnh1biy5luSS9cvaNc) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot In Front Of The Other](https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA) | 2:32 | 2024-06-06 |  |
+| [What Do You Want? \- Extended Album Version \- from "Maxton Hall"](https://open.spotify.com/track/7DUyCInIM72RLkpSWdG0Ji) | [songs in cinema](https://open.spotify.com/artist/23BjnFsuLGv1a5TNFqmSP6) | [Maxton Hall: The World Between Us \(Season 1\) \- Deluxe Ballroom \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/5MR2TI6Fr1ZpLyMtByltEf) | 4:06 | 2024-06-14 |  |
 | [Where's My Love](https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz) | 3:22 | 2024-06-06 |  |
 | [Wild Heart](https://open.spotify.com/track/2bUNMsROZTbJ8KkbcqDbx3) | [CATT](https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ) | [Change](https://open.spotify.com/album/6TckaHJU35tlFUy57USHAB) | 4:05 | 2024-06-06 |  |
 | [Young Beaufort \- from "Maxton Hall"](https://open.spotify.com/track/2pAEHxMiggGGHYvLG4Ae5h) | [songs in cinema](https://open.spotify.com/artist/23BjnFsuLGv1a5TNFqmSP6) | [Maxton Hall: The World Between Us \(Season 1\) \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/3AjUBcGTv6uYjAH0VUPRQt) | 2:08 | 2024-06-06 |  |

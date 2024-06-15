@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-[Matt Johnson](https://open.spotify.com/user/117687144) - 9,032 likes - 128 songs - 6 hr 55 min
+[Matt Johnson](https://open.spotify.com/user/117687144) - 9,032 likes - 128 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 26 | [Issues \- Acoustic](https://open.spotify.com/track/7M8d1oa1Rfvik0RRHT12wt) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Issues \(Acoustic\)](https://open.spotify.com/album/7KjPQYz7xPvZ7mwfATL1E1) | 2:55 |
 | 27 | [You Are Not Alone \- Acoustic](https://open.spotify.com/track/4uHUIPYbU9ZFXnPcKYwPRv) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [You Are Not Alone \(Acoustic\)](https://open.spotify.com/album/0Q1migL2N2PEP3nAR57vTy) | 2:24 |
 | 28 | [Drops of Jupiter \- Acoustic](https://open.spotify.com/track/41Mw2D2PZpuIBGbAwQOE5L) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [Drops of Jupiter \(Acoustic\)](https://open.spotify.com/album/1Ezpx8ekXRMKbhREQ0lnKq) | 2:49 |
-| 29 | [Beautiful Day \- Acoustic](https://open.spotify.com/track/7eWOW1egL8jXVrFuWHeFOY) | [Ben Weighill](https://open.spotify.com/artist/6yAU69cTqYRuizldebquYb) | [Beautiful Day \(Acoustic\)](https://open.spotify.com/album/3jnfn4qhQMw8DO5xBvMpZe) | 3:04 |
-| 30 | [Hey There Delilah \- Bonus Track](https://open.spotify.com/track/3DWOTqMQGp5q75fnVsWwaN) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Every Second Counts](https://open.spotify.com/album/6MEfS6zFbBYZalRsumJsvs) | 3:53 |
-| 31 | [Landslide \- Acoustic](https://open.spotify.com/track/2nQkeT1jUvlpL7bTfHQ3kt) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm), [Reid Zingale](https://open.spotify.com/artist/1ZjNNCAZ7gtZIVmLiCvKoq) | [Landslide \(Acoustic\)](https://open.spotify.com/album/6T983j5MMR8IYWzKHWyDaU) | 3:24 |
-| 32 | [I'll Be There For You \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4xtU1fCMODIpnXBqY4wOTo) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Spotify Singles](https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz) | 2:48 |
+| 29 | [Hey There Delilah \- Bonus Track](https://open.spotify.com/track/3DWOTqMQGp5q75fnVsWwaN) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Every Second Counts](https://open.spotify.com/album/6MEfS6zFbBYZalRsumJsvs) | 3:53 |
+| 30 | [Landslide \- Acoustic](https://open.spotify.com/track/2nQkeT1jUvlpL7bTfHQ3kt) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm), [Reid Zingale](https://open.spotify.com/artist/1ZjNNCAZ7gtZIVmLiCvKoq) | [Landslide \(Acoustic\)](https://open.spotify.com/album/6T983j5MMR8IYWzKHWyDaU) | 3:24 |
+| 31 | [I'll Be There For You \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4xtU1fCMODIpnXBqY4wOTo) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Spotify Singles](https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz) | 2:48 |
+| 32 | [Waiting for a Star to Fall \- Acoustic](https://open.spotify.com/track/5dKgIGngjXSaseLDSaCkj0) | [Ben Weighill](https://open.spotify.com/artist/6yAU69cTqYRuizldebquYb) | [Waiting for a Star to Fall \(Acoustic\)](https://open.spotify.com/album/50mfevy8r6BfVbRIbP6ng4) | 2:44 |
 | 33 | [Flowers \- Acoustic](https://open.spotify.com/track/7uSAkK0jL8Go2YyO8T2kt6) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Flowers \(Acoustic\)](https://open.spotify.com/album/3FmAl6kjYy0nUwAgOhhjKn) | 3:43 |
 | 34 | [Love Me Now \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2pPRgFEENF3LtuxYUPuT24) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Spotify Singles](https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij) | 3:48 |
 | 35 | [Make Me Smile \(Come Up and See Me\) \- Acoustic](https://open.spotify.com/track/70pB50X1SwOwNnjzAKh4el) | [Laurence O’Brien](https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl) | [Make Me Smile \(Come Up and See Me\) \[Acoustic\]](https://open.spotify.com/album/0Z8eRmD2Pz3JJ6VoVnzznC) | 3:29 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 127 | [Sorry](https://open.spotify.com/track/21Cr9ZzBDHF7QxDS8kE5Lx) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Sorry](https://open.spotify.com/album/0ep3oeAyv1CQKlVAGBUhrm) | 2:45 |
 | 128 | [Magnetised \- Acoustic](https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Magnetised \(Acoustic\)](https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2) | 4:52 |
 
-Snapshot ID: `AAAE81SglnQSjtHvkuhYTnZxO3WQ/VEF`
+Snapshot ID: `AAAE9cf8uI58ViiqvhdIdWkmC1k6f6LL`

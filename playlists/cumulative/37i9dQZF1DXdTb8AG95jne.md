@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: YdBB\(유다빈밴드\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-727 songs - 1 day 20 hr 26 min
+728 songs - 1 day 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Breathe](https://open.spotify.com/track/0KaN3qT6D58wAezCAEyIU2) | [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [Begins youth \(Original Xclusive Soundtrack\), Pt\. 1](https://open.spotify.com/album/4nK3NKTn5dDmuRMKW33QFL) | 4:08 | 2024-05-16 |  |
 | [Bruised Cloud](https://open.spotify.com/track/7vvA2Xv9Pp2d94oPArNw48) | [Doha](https://open.spotify.com/artist/3BruFP7xkpoAQg1VJnw4k5) | [Bruised Cloud](https://open.spotify.com/album/3gUHZCAPR0m2vogn5cmZVm) | 3:42 | 2022-01-27 | 2022-07-10 |
 | [Bullseye](https://open.spotify.com/track/72klky41z2aZ5ft5YAxlDy) | [Jeong Jia](https://open.spotify.com/artist/2dbUmZGHQxbgINmaqNxzz3) | [Bullseye](https://open.spotify.com/album/4K9A9hREpor7KTRbriaF7C) | 4:05 | 2022-06-18 | 2022-07-15 |
-| [Burn Like A Star](https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs), [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [Burn Like A Star](https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ) | 3:08 | 2024-04-04 |  |
+| [Burn Like A Star](https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs), [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [Burn Like A Star](https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ) | 3:08 | 2024-04-04 | 2024-06-15 |
 | [Burning Sunset](https://open.spotify.com/track/7EH1Z1xI4lUG1G0STPGsHj) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Burning Sunset](https://open.spotify.com/album/7GVOpghNRIDiEIh2M8vEJT) | 3:38 | 2021-12-21 | 2024-05-01 |
 | [BUTTERFLY](https://open.spotify.com/track/2XA9T2vdhFBAVw1VxZ7DcK) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [BUTTERFLY](https://open.spotify.com/album/6zBNYykxlqDalGHwz0pWLQ) | 3:08 | 2022-03-31 | 2022-04-09 |
 | [c a c t u s s m u g g l e r](https://open.spotify.com/track/0kAVuSxArLGBy450zdfYPv) | [quinn\_](https://open.spotify.com/artist/6Q7cg6qByDmYzJ6Xs4oTXC) | [0\-OXYGEN](https://open.spotify.com/album/5lehCVJHqa65UdRdXrmu3h) | 5:25 | 2024-04-30 | 2024-05-10 |
@@ -613,6 +613,7 @@
 | [The hand that's out to you](https://open.spotify.com/track/4VKosqBYXQACTfXQ5cGL88) | [OhYoon](https://open.spotify.com/artist/3E3GZJRleQR8QkRaFciIqV) | [The hand that's out to you](https://open.spotify.com/album/3Zlaon3fpaAjhwzZLYbIYv) | 3:02 | 2023-04-18 | 2023-05-05 |
 | [The last stop of our pain](https://open.spotify.com/track/6RIWij0YRX8zZJ9pv9CTbS) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [The last stop of our pain](https://open.spotify.com/album/1738g3cEdlEp8BantdCSOC) | 4:12 | 2023-01-11 | 2023-01-26 |
 | [The night we parted](https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [The night we parted](https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD) | 3:49 | 2022-03-31 |  |
+| [The one of the past](https://open.spotify.com/track/1lMehRXG8eAGalZwyMfTxz) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc) | [The one of the past](https://open.spotify.com/album/4l4texZRPRdgSy5kP99CNe) | 2:50 | 2024-06-14 |  |
 | [the Painting](https://open.spotify.com/track/3ZScgtW6j4p2XI0RgfIaBk) | [MOONY](https://open.spotify.com/artist/16nJwC4ekeR5mRqLrHYayv) | [the Painting](https://open.spotify.com/album/4b87697uicb9g73Uj3EetA) | 4:21 | 2023-07-27 | 2024-05-09 |
 | [The Past Story](https://open.spotify.com/track/7uKpsiRUT3qQyIhCoHnEGS) | [YUDABINBAND](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [The Past Story 〈Sanullim's 50th anniversary collaboration album〉](https://open.spotify.com/album/2otcBN57nMQFtuKoG7dSnx) | 4:12 | 2024-04-30 | 2024-05-10 |
 | [The Possible\(feat\. Kim Sawol\)](https://open.spotify.com/track/7t7u9IY9HIKuRYWMqw0Uyd) | [Broccoli, you too?](https://open.spotify.com/artist/1gq4XavqmZhqOzEkpFBz1j), [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [The possible\(feat\. Kim Sawol\)](https://open.spotify.com/album/6eHpG7BEZPELIoItJoUUZF) | 3:09 | 2021-12-21 | 2022-05-23 |

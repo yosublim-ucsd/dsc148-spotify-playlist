@@ -1,6 +1,6 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 180255,
+  "num_followers": 180235,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "A Very Laufey Holiday",
-        "url": "https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 167666,
-      "name": "The Christmas Waltz",
-      "url": "https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "Auld Lang Syne",
         "url": "https://open.spotify.com/album/5kJSx4MUPIidcP4DZNRzfu"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 192440,
       "name": "Auld Lang Syne",
       "url": "https://open.spotify.com/track/1csVCmVSxMwc9wbL0j54hW"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "A Very Laufey Holiday",
+        "url": "https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 167666,
+      "name": "The Christmas Waltz",
+      "url": "https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR"
     }
   ],
   "unique_name": "Indie Christmas",

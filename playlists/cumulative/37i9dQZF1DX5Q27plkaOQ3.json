@@ -2651,6 +2651,32 @@
     },
     {
       "album": {
+        "name": "Creep Killa (Creeds Remix)",
+        "url": "https://open.spotify.com/album/7gwZugjbDfh5B8A3Z3Fg00"
+      },
+      "artists": [
+        {
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+        },
+        {
+          "name": "Nika D",
+          "url": "https://open.spotify.com/artist/4rhvvviNTpgE0r6A3Vb5nG"
+        },
+        {
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Creep Killa - Creeds Remix",
+      "url": "https://open.spotify.com/track/5arRUPv5EvcJ2zNI4F97os"
+    },
+    {
+      "album": {
         "name": "Crush (VIP)",
         "url": "https://open.spotify.com/album/2IdrcmtQZbqPqdNDS4uwpi"
       },
@@ -3597,6 +3623,24 @@
     },
     {
       "album": {
+        "name": "DOWN WiTH THE SiCKNESS",
+        "url": "https://open.spotify.com/album/0dJso47tPRHU19MvsbNcFE"
+      },
+      "artists": [
+        {
+          "name": "YOOKiE",
+          "url": "https://open.spotify.com/artist/26RHyTSsP5JoS4udf8txU5"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106666,
+      "name": "DOWN WiTH THE SiCKNESS",
+      "url": "https://open.spotify.com/track/4rlTt6hMonpqFW87iXe28G"
+    },
+    {
+      "album": {
         "name": "Dread",
         "url": "https://open.spotify.com/album/7fURpnftVkIFjUMtm2IMe8"
       },
@@ -4330,7 +4374,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 228800,
       "name": "Fall Apart - GHENGAR Remix",
       "url": "https://open.spotify.com/track/5iL0iMVwZVVfi3VxlVzf1A"
@@ -4516,7 +4560,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 172800,
       "name": "FINAL BOSS",
       "url": "https://open.spotify.com/track/380VILV9jrUUVxKPHO0VSA"
@@ -5010,7 +5054,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 210857,
       "name": "Gangstalkers",
       "url": "https://open.spotify.com/track/2UGCMLvQ7kGdkif2dZ9sZr"
@@ -5440,7 +5484,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 119172,
       "name": "Hammer Of Light",
       "url": "https://open.spotify.com/track/1jkHg23BqZI8LS7CaR8xLk"
@@ -5796,6 +5840,60 @@
       "duration_ms": 298110,
       "name": "Higher",
       "url": "https://open.spotify.com/track/5wzp6qTG9HebBeK9lByJs7"
+    },
+    {
+      "album": {
+        "name": "Hoist The Colours (Excision & Sullivan King Remix)",
+        "url": "https://open.spotify.com/album/33EAeyVU1KQKTvh4K0Dg80"
+      },
+      "artists": [
+        {
+          "name": "The Wellermen",
+          "url": "https://open.spotify.com/artist/20q3NJtmeKSi3BTnmUFK16"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Ebucs",
+          "url": "https://open.spotify.com/artist/0Sl22kYbJDXJoZvmOKe4XQ"
+        },
+        {
+          "name": "Eric Hollaway",
+          "url": "https://open.spotify.com/artist/1h9NOlRgTGVBZdX3Zab79l"
+        },
+        {
+          "name": "Daniel Brevik",
+          "url": "https://open.spotify.com/artist/0g1ScDyTSIJprId6DF9iP7"
+        },
+        {
+          "name": "Davide Dalmonte",
+          "url": "https://open.spotify.com/artist/1RSqmcLE8D3i6NTXiCTDfj"
+        },
+        {
+          "name": "Bobby Bass",
+          "url": "https://open.spotify.com/artist/0ZM2ioGGBOZ3NPTSUbuimj"
+        },
+        {
+          "name": "Jesse Elkins",
+          "url": "https://open.spotify.com/artist/0L0niduYxtCzpa0MVV6NDQ"
+        },
+        {
+          "name": "Luke G. Taylor",
+          "url": "https://open.spotify.com/artist/2WjGfJyJAY4Q5WvY2rtKMr"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149136,
+      "name": "Hoist The Colours (Excision & Sullivan King Remix)",
+      "url": "https://open.spotify.com/track/6sKog4OAuRZfYmQRrLYExz"
     },
     {
       "album": {
@@ -6264,6 +6362,24 @@
       "duration_ms": 180000,
       "name": "In My Soul",
       "url": "https://open.spotify.com/track/6NLZEoGMoml2czKixvO1Ze"
+    },
+    {
+      "album": {
+        "name": "IN THE ALLEY",
+        "url": "https://open.spotify.com/album/1ULgYsHVDh6c1zn5UPIqGh"
+      },
+      "artists": [
+        {
+          "name": "ALLEYCVT",
+          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162206,
+      "name": "IN THE ALLEY",
+      "url": "https://open.spotify.com/track/6rLZY5Jlr3PJVsMf9k6ixF"
     },
     {
       "album": {
@@ -7624,7 +7740,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 204814,
       "name": "MIND CONTROL (EDDIE Remix)",
       "url": "https://open.spotify.com/track/44hbzdovYYuLzLuQspQ84x"
@@ -8982,6 +9098,24 @@
       "duration_ms": 211862,
       "name": "Pit of the Maw",
       "url": "https://open.spotify.com/track/2alDalhotF1t7ldnToc0Ec"
+    },
+    {
+      "album": {
+        "name": "Play It Twice",
+        "url": "https://open.spotify.com/album/1hsBmf6kB92nKgfADDThoO"
+      },
+      "artists": [
+        {
+          "name": "INFEKT",
+          "url": "https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160551,
+      "name": "Play It Twice",
+      "url": "https://open.spotify.com/track/1Bh3YR7qp6aFByFoHmzmq4"
     },
     {
       "album": {
@@ -10668,7 +10802,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 130285,
       "name": "Shadows of Deceit",
       "url": "https://open.spotify.com/track/2saEmcdCaClJHTxadK9ZOp"
@@ -10926,6 +11060,24 @@
       "duration_ms": 156734,
       "name": "SINEWS",
       "url": "https://open.spotify.com/track/32C0l5Z0RDRfvWVlLXwOhr"
+    },
+    {
+      "album": {
+        "name": "Sip On This",
+        "url": "https://open.spotify.com/album/1hSSCKGzuuNbn9IZk8MN8k"
+      },
+      "artists": [
+        {
+          "name": "SIPPY",
+          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200787,
+      "name": "Sip On This",
+      "url": "https://open.spotify.com/track/1mH6LCjX9SiM6rJEEz8jz4"
     },
     {
       "album": {
@@ -11262,6 +11414,24 @@
       "duration_ms": 204923,
       "name": "SONG REQUEST",
       "url": "https://open.spotify.com/track/4ZlcezbAuIfO400BvhlvtD"
+    },
+    {
+      "album": {
+        "name": "Sonic Beef",
+        "url": "https://open.spotify.com/album/6A4dA3DHUvVBavZOOWrOZK"
+      },
+      "artists": [
+        {
+          "name": "Spag Heddy",
+          "url": "https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193866,
+      "name": "Sonic Beef",
+      "url": "https://open.spotify.com/track/5ge5D4RdUvclju1DBaTFcM"
     },
     {
       "album": {
@@ -13308,7 +13478,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 138404,
       "name": "U Think Ur Hot",
       "url": "https://open.spotify.com/track/4snqWdP8PAP7Z0Hn7AiGcq"

@@ -459,6 +459,28 @@
     },
     {
       "album": {
+        "name": "Todo Pasa",
+        "url": "https://open.spotify.com/album/7rtDADdDS7XrS1Marw8gPb"
+      },
+      "artists": [
+        {
+          "name": "MO\u00dcGLI",
+          "url": "https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9"
+        },
+        {
+          "name": "iris",
+          "url": "https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200480,
+      "name": "Don't Go (feat. iris)",
+      "url": "https://open.spotify.com/track/5OTucOvf73XQA7zE1eXqmk"
+    },
+    {
+      "album": {
         "name": "Drop It (feat. LUISAH)",
         "url": "https://open.spotify.com/album/7ouqlLsz812M3nTRAv9NYM"
       },
@@ -650,7 +672,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 221266,
       "name": "Gute Vibes",
       "url": "https://open.spotify.com/track/3ptSyxnc2D8ltv9UJW2NUX"

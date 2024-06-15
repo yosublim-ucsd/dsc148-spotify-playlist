@@ -6,235 +6,223 @@
     "name": "Record Union",
     "url": "https://open.spotify.com/user/recordunion"
   },
-  "snapshot_id": "AAADusAdYw4hZt+ZARjA05utTdsSvWE0",
+  "snapshot_id": "AAADvDYPoF1kAGARit4rqTlp0RL6BjYm",
   "tracks": [
     {
-      "added_at": "2024-06-07 14:49:24",
+      "added_at": "2024-06-14 12:43:40",
       "album": {
-        "name": "Der du g\u00e5r",
-        "url": "https://open.spotify.com/album/1mu61T9PTtTETOPgNOksrp"
+        "name": "Cold Youth",
+        "url": "https://open.spotify.com/album/3HlT9vLIozged2PNkAsfL4"
       },
       "artists": [
         {
-          "name": "Tomgang",
-          "url": "https://open.spotify.com/artist/3Qj3nUfSYOKCaDqcvIdgYe"
+          "name": "TeYo",
+          "url": "https://open.spotify.com/artist/4quJ5m7lBQ7ZbBEDHikTEC"
         }
       ],
-      "duration_ms": 210017,
-      "name": "Der du g\u00e5r",
-      "url": "https://open.spotify.com/track/2mXAscX3OMOA3U1mFzXtFa"
+      "duration_ms": 172874,
+      "name": "Cold Youth",
+      "url": "https://open.spotify.com/track/0fvq5q0irgl7JvH1Tu4IME"
     },
     {
-      "added_at": "2024-06-07 14:49:24",
+      "added_at": "2024-06-14 12:43:40",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/22TwgsebwwEQRtFceyfI1q"
+        "name": "Kauan sitten kaukaisessa galaksissa",
+        "url": "https://open.spotify.com/album/6EBwtBXXrAdIOnohdlOrnO"
       },
       "artists": [
         {
-          "name": "Feyesal",
-          "url": "https://open.spotify.com/artist/6frffJSfCnyExIFDQEHnyf"
+          "name": "Y\u00f6n Polte",
+          "url": "https://open.spotify.com/artist/10rz5JoVSxAX3I69C8NeXo"
         }
       ],
-      "duration_ms": 148043,
-      "name": "23",
-      "url": "https://open.spotify.com/track/0d0fxW31DxScIglB0kVpkk"
+      "duration_ms": 141093,
+      "name": "Kauan sitten kaukaisessa galaksissa",
+      "url": "https://open.spotify.com/track/3s2Z1ccc0MSA7BwveLd76d"
     },
     {
-      "added_at": "2024-06-07 14:49:24",
+      "added_at": "2024-06-14 12:43:40",
       "album": {
-        "name": "My Heart Still Breaks",
-        "url": "https://open.spotify.com/album/4LvUg2mLL6DSavZEBW5H0e"
+        "name": "Sinclair",
+        "url": "https://open.spotify.com/album/0IoJkQhIZbZXFRF1dG12lU"
       },
       "artists": [
         {
-          "name": "Lena Nov\u00e1k",
-          "url": "https://open.spotify.com/artist/4MGfqzIzquPGvY7xWsQoLl"
+          "name": "IVIX",
+          "url": "https://open.spotify.com/artist/0CdfkXly840nzSuduDhEQF"
         }
       ],
-      "duration_ms": 187566,
-      "name": "My Heart Still Breaks",
-      "url": "https://open.spotify.com/track/2jIUzvr9kp0ZKxBDjyNeKT"
+      "duration_ms": 233030,
+      "name": "i wish that I was normal about her but I'm not",
+      "url": "https://open.spotify.com/track/6av73NjKjmdZPkff3sQODg"
     },
     {
-      "added_at": "2024-06-07 14:49:24",
+      "added_at": "2024-06-14 12:43:40",
       "album": {
-        "name": "Luv 2 Me",
-        "url": "https://open.spotify.com/album/4Xwuw0Hmi2wEKwYzQvUz6F"
+        "name": "All Shades of The Drum - Compilation, Vol. 1",
+        "url": "https://open.spotify.com/album/4XTIGycVWg8thI2WcU9bbr"
       },
       "artists": [
         {
-          "name": "glide",
-          "url": "https://open.spotify.com/artist/4sJIxnsxciNWl602rXrfXT"
+          "name": "Max SA",
+          "url": "https://open.spotify.com/artist/70juXESYrBbE8KOmDzxcab"
+        }
+      ],
+      "duration_ms": 471461,
+      "name": "My Prayer - Chant Mix",
+      "url": "https://open.spotify.com/track/65IIKAgC48F14G2EQqbA85"
+    },
+    {
+      "added_at": "2024-06-14 12:43:40",
+      "album": {
+        "name": "Shadows Tall",
+        "url": "https://open.spotify.com/album/0tXQnIbTMUAxHwshpaVny8"
+      },
+      "artists": [
+        {
+          "name": "God Given Ass",
+          "url": "https://open.spotify.com/artist/3YYiamegMtewnR6PjpzoGx"
+        }
+      ],
+      "duration_ms": 101059,
+      "name": "Shadows Tall",
+      "url": "https://open.spotify.com/track/4chmViuxWggVSOlmw71fch"
+    },
+    {
+      "added_at": "2024-06-14 12:43:40",
+      "album": {
+        "name": "Surreal Nocturnes",
+        "url": "https://open.spotify.com/album/0GIgAKWFgOfrSiT3zc33Y4"
+      },
+      "artists": [
+        {
+          "name": "Sami Lust",
+          "url": "https://open.spotify.com/artist/4MJxUxKRbXxaTxilE16bYp"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "Torment Anthem",
+      "url": "https://open.spotify.com/track/4LN4wl1BtS30gBtCbgLnUj"
+    },
+    {
+      "added_at": "2024-06-14 12:43:40",
+      "album": {
+        "name": "Out Of My Mind",
+        "url": "https://open.spotify.com/album/1RMt0zJYuWIoMdsMJHV0rd"
+      },
+      "artists": [
+        {
+          "name": "Cardio(US)",
+          "url": "https://open.spotify.com/artist/15jsS4gYrQE9zU5GRLokMF"
+        }
+      ],
+      "duration_ms": 186895,
+      "name": "Out Of My Mind",
+      "url": "https://open.spotify.com/track/3zsrFhKSkornDn5rp2PrDj"
+    },
+    {
+      "added_at": "2024-06-14 12:43:40",
+      "album": {
+        "name": "Fire and ice",
+        "url": "https://open.spotify.com/album/1uOFIkHXEaKvY9iQRKYpw3"
+      },
+      "artists": [
+        {
+          "name": "Pothooks & Hangers",
+          "url": "https://open.spotify.com/artist/5TtWqtdZfRfSex3z4PWXAZ"
         },
         {
-          "name": "Guru Griff",
-          "url": "https://open.spotify.com/artist/5Z5xacWm71NpXvZwLJf2B8"
+          "name": "J-Brandt",
+          "url": "https://open.spotify.com/artist/3RhrhZkpeGiQxCvpYGTbWn"
         }
       ],
-      "duration_ms": 128000,
-      "name": "Luv 2 Me",
-      "url": "https://open.spotify.com/track/5OtpYpylD2xyODSZyciIds"
+      "duration_ms": 285026,
+      "name": "Fire and ice",
+      "url": "https://open.spotify.com/track/1Z5gJm8bwNObM9zqfYFV65"
     },
     {
-      "added_at": "2024-06-07 14:49:24",
+      "added_at": "2024-06-14 12:43:40",
       "album": {
-        "name": "Aurinko & Kuu",
-        "url": "https://open.spotify.com/album/1JNOfRYJ1R9Di2mgedgshE"
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/4ws0fx3qt2mHnYQDhkigXk"
       },
       "artists": [
         {
-          "name": "Teukka",
-          "url": "https://open.spotify.com/artist/39sku8JiOeGoCZaNlsBing"
+          "name": "JustTheDani",
+          "url": "https://open.spotify.com/artist/7djz8hKAB3Eid8dI8Ai4Zh"
         }
       ],
-      "duration_ms": 195314,
-      "name": "Aurinko & Kuu",
-      "url": "https://open.spotify.com/track/5iqIvR4YSrBOwNdsM8Jftg"
+      "duration_ms": 369364,
+      "name": "On",
+      "url": "https://open.spotify.com/track/25vF7wLnAR3FdjJOWKHj59"
     },
     {
-      "added_at": "2024-06-07 14:49:24",
+      "added_at": "2024-06-14 12:43:40",
       "album": {
-        "name": "Stockholm i juli (2024 Version)",
-        "url": "https://open.spotify.com/album/7xsvL86CkjtSZrgS0vkEvW"
+        "name": "Second to None",
+        "url": "https://open.spotify.com/album/5iQhux99GCuA5hzeVhWoEv"
       },
       "artists": [
         {
-          "name": "Patrick El-Hag",
-          "url": "https://open.spotify.com/artist/5pboe5cbQJqyabgHC0rNS1"
+          "name": "Andy E.",
+          "url": "https://open.spotify.com/artist/1Cnd7VjoBrVoccgXCLDDtk"
+        },
+        {
+          "name": "G\u00f6ran Edman",
+          "url": "https://open.spotify.com/artist/6D6dxVY0ooHhTOJ8YD6UMa"
         }
       ],
-      "duration_ms": 216062,
-      "name": "Stockholm i juli - 2024 Version",
-      "url": "https://open.spotify.com/track/21eT7DbQghUIf8LeRpAAQI"
+      "duration_ms": 326901,
+      "name": "Second to None",
+      "url": "https://open.spotify.com/track/4MPd9Sbbvj0gLDWQnxNufJ"
     },
     {
-      "added_at": "2024-06-07 14:49:24",
+      "added_at": "2024-06-14 12:43:40",
       "album": {
-        "name": "From the Wreckage",
-        "url": "https://open.spotify.com/album/022bOL5Mo4FRBd96jazWIJ"
+        "name": "Catch My Breath",
+        "url": "https://open.spotify.com/album/7BSBFL1228tZkeczg2eZ5Y"
       },
       "artists": [
         {
-          "name": "Heather Bartman",
-          "url": "https://open.spotify.com/artist/5HnLp3EcSwEJwE7CxaMM0K"
+          "name": "Stephen Murphy",
+          "url": "https://open.spotify.com/artist/0IGXpRPNet6sqbv0xB4Zwm"
         }
       ],
-      "duration_ms": 191829,
-      "name": "From the Wreckage",
-      "url": "https://open.spotify.com/track/6PjcCw5SPRVtv7ON8fRQ2M"
+      "duration_ms": 246166,
+      "name": "Catch My Breath",
+      "url": "https://open.spotify.com/track/6Tz1BfDuU6ps0Ri3yiWWSS"
     },
     {
-      "added_at": "2024-06-07 14:49:24",
+      "added_at": "2024-06-14 12:43:40",
       "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/01J6nLn3HWk9iaiIXOY2ck"
+        "name": "HER TATTOOS",
+        "url": "https://open.spotify.com/album/1pxaIPFT8v00UTKLDonUHu"
       },
       "artists": [
         {
-          "name": "Geezerbomb",
-          "url": "https://open.spotify.com/artist/7cPlO6Ai5O8yDvqntDK7PF"
+          "name": "The Richie Beakman Band",
+          "url": "https://open.spotify.com/artist/4AiPP0295err6qOcFKFC1F"
         }
       ],
-      "duration_ms": 174720,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/2govU7hxeaMch8Lr2wiIAv"
+      "duration_ms": 268363,
+      "name": "HER TATTOOS",
+      "url": "https://open.spotify.com/track/0G7VT1jHsC3uOpKPWyfOUk"
     },
     {
-      "added_at": "2024-06-07 14:49:24",
+      "added_at": "2024-06-14 12:43:40",
       "album": {
-        "name": "Without Me",
-        "url": "https://open.spotify.com/album/7MhQoEYg8unsbMXw2iGBLr"
+        "name": "Defying Gravity",
+        "url": "https://open.spotify.com/album/5QyFbo0Rrja5onKP2eGBmC"
       },
       "artists": [
         {
-          "name": "ANGELICA",
-          "url": "https://open.spotify.com/artist/7yHxpT7YSJOHtVnCYnoC27"
+          "name": "Florian Voss",
+          "url": "https://open.spotify.com/artist/5jK3Fm8xL2H1d7WnhbT2sW"
         }
       ],
-      "duration_ms": 159758,
-      "name": "Without Me",
-      "url": "https://open.spotify.com/track/6Lgj62EFbVilPyngek65Ni"
-    },
-    {
-      "added_at": "2024-06-07 14:49:24",
-      "album": {
-        "name": "Show No Mercy",
-        "url": "https://open.spotify.com/album/29FLhiVm56NXevGr4ZoGdB"
-      },
-      "artists": [
-        {
-          "name": "GINAxC",
-          "url": "https://open.spotify.com/artist/4hHUHCaBuD2d2FRHLgeOWQ"
-        }
-      ],
-      "duration_ms": 214569,
-      "name": "Show No Mercy",
-      "url": "https://open.spotify.com/track/1EK9Mi8RXx5mNJ4jf2V1gb"
-    },
-    {
-      "added_at": "2024-06-07 14:49:24",
-      "album": {
-        "name": "It makes no difference to me",
-        "url": "https://open.spotify.com/album/46thjHzORRCkjwBB7Y4rrW"
-      },
-      "artists": [
-        {
-          "name": "ART-BAND UAmusic",
-          "url": "https://open.spotify.com/artist/7AXSvI9juBLUAOtgWsw2qH"
-        }
-      ],
-      "duration_ms": 169833,
-      "name": "It makes no difference to me",
-      "url": "https://open.spotify.com/track/2UizxwKzgevRpsI8SH8obn"
-    },
-    {
-      "added_at": "2024-06-07 14:49:24",
-      "album": {
-        "name": "Dusty Desert Road",
-        "url": "https://open.spotify.com/album/5SyQx4tq6F4rmiJmRBnxFf"
-      },
-      "artists": [
-        {
-          "name": "Diana Bolo",
-          "url": "https://open.spotify.com/artist/742H5tvCXPVVnLse9K7OpQ"
-        }
-      ],
-      "duration_ms": 204828,
-      "name": "Dusty Desert Road",
-      "url": "https://open.spotify.com/track/6fnozHQwhfKBcmpTjfAdqc"
-    },
-    {
-      "added_at": "2024-06-07 14:49:24",
-      "album": {
-        "name": "L\u00e4mnar stan",
-        "url": "https://open.spotify.com/album/39nx3xmqhR7H0FXu9PrN19"
-      },
-      "artists": [
-        {
-          "name": "Daniel Arteaga",
-          "url": "https://open.spotify.com/artist/1ff46hVkyIPKr6SdDgVgjO"
-        }
-      ],
-      "duration_ms": 212793,
-      "name": "L\u00e4mnar stan",
-      "url": "https://open.spotify.com/track/1WYPCS7jtYP0JthTKCM7c1"
-    },
-    {
-      "added_at": "2024-06-07 14:49:24",
-      "album": {
-        "name": "Midnight Drive",
-        "url": "https://open.spotify.com/album/2CTHSsqDba2w3KPF5c03xi"
-      },
-      "artists": [
-        {
-          "name": "KennyR",
-          "url": "https://open.spotify.com/artist/07l4MIrDSaRouWJE6sayAh"
-        }
-      ],
-      "duration_ms": 213062,
-      "name": "Midnight Drive",
-      "url": "https://open.spotify.com/track/01qWRsUTIH3dI0VJhGBaSl"
+      "duration_ms": 191888,
+      "name": "Defying Gravity",
+      "url": "https://open.spotify.com/track/6rYTJMwi9EiW6uv5rYsQ6i"
     }
   ],
   "unique_name": "Independent Music Friday",

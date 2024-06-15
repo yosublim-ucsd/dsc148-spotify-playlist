@@ -4,7 +4,7 @@
 
 > pura morra rifada\. RPLK en portada.
 
-216 songs - 12 hr 5 min
+217 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [LÁ LÁ](https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [LÁ LÁ](https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x) | 2:44 | 2023-05-15 | 2024-03-14 |
 | [Malas Decisiones](https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:19 | 2024-03-13 |  |
 | [Maps](https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:39 | 2024-03-13 |  |
-| [María](https://open.spotify.com/track/4YNEuxbsAJV2jcQ9JVgg8T) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0), [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG) | [María](https://open.spotify.com/album/5GaPfak2nHpaRL7dtn1mHn) | 2:30 | 2024-03-13 |  |
+| [María](https://open.spotify.com/track/4YNEuxbsAJV2jcQ9JVgg8T) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0), [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG) | [María](https://open.spotify.com/album/5GaPfak2nHpaRL7dtn1mHn) | 2:30 | 2024-03-13 | 2024-06-15 |
 | [Me Gustas Tanto](https://open.spotify.com/track/3JdNambMOshHLbYus6cGqZ) | [KNYA](https://open.spotify.com/artist/5OOwdQqnYQSdypLCSQ3Kvz) | [Me Gustas Tanto](https://open.spotify.com/album/4yu56CARvuE68AsJmOBVcg) | 3:02 | 2023-07-28 | 2024-03-14 |
 | [Me Gustas Tanto](https://open.spotify.com/track/7fMshHtynGehLu7eVQj1hO) | [KNYA](https://open.spotify.com/artist/5OOwdQqnYQSdypLCSQ3Kvz) | [Me Gustas Tanto](https://open.spotify.com/album/6mLXxtHQXzFn7GPowncu1N) | 3:02 | 2023-07-28 | 2023-10-29 |
 | [Me Jodiste](https://open.spotify.com/track/5IpVwbuqd1RAdJCsV5GdWD) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Me Jodiste](https://open.spotify.com/album/2l5menS7GnDZE1p4lArfAZ) | 2:46 | 2023-07-28 | 2023-11-21 |
@@ -132,7 +132,7 @@
 | [Monstruo Verde](https://open.spotify.com/track/0gcZCJrIY0biWG100VrLKq) | [Ultrasonicas](https://open.spotify.com/artist/6ZZohniy25l0RCVUXYIDrV) | [Yo Fui una Adolescente Terrosatánica](https://open.spotify.com/album/3zMDMHmWNh5JvoMf9WEL1S) | 2:13 | 2023-07-28 |  |
 | [Moradiva](https://open.spotify.com/track/4BTVAYvVZUwNDSrB2s1Pj8) | [FRNCE](https://open.spotify.com/artist/6JgntWpSBHDYhbJbpMuD4f) | [Moradiva](https://open.spotify.com/album/0w72lmf6YBUWcZSJ42imIv) | 3:12 | 2023-07-28 | 2024-03-14 |
 | [Mucho Peor \- Spotify Singles](https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA), [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ), [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG), [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Mucho Peor \- Spotify Singles](https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf) | 3:31 | 2024-03-13 | 2024-06-09 |
-| [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 | 2024-03-13 |  |
+| [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips \(Deluxe Version\)](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 | 2024-03-13 |  |
 | [Muérete Tú](https://open.spotify.com/track/3pOdUPiHJaCS9liEjpiIWc) | [Muérete Tú](https://open.spotify.com/artist/7jku55nhXim5pUBmriM2Vo) | [Muérete Tú](https://open.spotify.com/album/6gNvQwVQRwSG4cQ5GLYmgI) | 2:52 | 2023-03-31 | 2024-03-14 |
 | [Máscara de Niña](https://open.spotify.com/track/14RubZ8E6S34PohWgJq21G) | [Valgur](https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH) | [Máscara de Niña](https://open.spotify.com/album/5oYBMmeTlPZcIqwqSL9iEw) | 3:14 | 2023-03-31 | 2024-03-14 |
 | [mírame](https://open.spotify.com/track/4fW4NXxPGO86Qo2H3lfoXp) | [Valeria Wolf](https://open.spotify.com/artist/5joEmKt500RsmlJCu92buW) | [mírame](https://open.spotify.com/album/1Xt89gFWXF2qZS5fS7PNra) | 3:12 | 2023-07-28 | 2024-03-14 |
@@ -169,6 +169,7 @@
 | [Pulitzer](https://open.spotify.com/track/2iscOVkAkT0a51h0IAtZHf) | [Onyricats](https://open.spotify.com/artist/5jkxhCPVAKnHBSGxS9wSyn) | [Pulitzer](https://open.spotify.com/album/3PPCTscj18LHjbpuWFCvvF) | 4:23 | 2023-03-31 | 2023-10-07 |
 | [Punk](https://open.spotify.com/track/4AHH9NSQXomtAgucYN9MSG) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [EL SUR](https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz) | 3:13 | 2024-03-13 |  |
 | [Quiero](https://open.spotify.com/track/1xklTrnCEhu2E4I3xLaGLf) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Quiero](https://open.spotify.com/album/1GYAiTrFqi5raLcCxP6A6x) | 3:33 | 2024-06-07 |  |
+| [Qué Más Da](https://open.spotify.com/track/7GYl5XD9z5bTzy3N1eMhSW) | [Silver Rose](https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP) | [Qué Más Da](https://open.spotify.com/album/3J29o0RlG0m7yQ08yXC2gr) | 3:33 | 2024-06-14 |  |
 | [Quédate](https://open.spotify.com/track/2nOKzJ1jKPU4YTgIUAaKxo) | [Girls Go Ska](https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo) | [Frente al Mar](https://open.spotify.com/album/5mo377nus6GhMWCoPMhi7n) | 3:16 | 2023-02-03 | 2023-07-29 |
 | [radar](https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [radar](https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei) | 2:40 | 2024-03-13 |  |
 | [Rebel Girl](https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Punk Singer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2) | 2:37 | 2024-03-13 |  |

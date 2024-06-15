@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 
 > The official playlist for the 64th GRAMMY Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,507 likes - 143 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,505 likes - 143 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,8 +148,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 138 | [Heaven Help Us All](https://open.spotify.com/track/1uZeO2zHjviOrRJURDLbrG) | [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH) | [Heaven Help Us All](https://open.spotify.com/album/2GRmrVUecVMnuxzMWQOR9m) | 3:33 |
 | 139 | [Heart Like A Truck](https://open.spotify.com/track/5UNMyX2AzF8X90wAYAxG6Q) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9) | 3:19 |
 | 140 | [Bad Man](https://open.spotify.com/track/0CGyintEvK6qL0BPvQWZ37) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Divisive](https://open.spotify.com/album/592wLCECATlzgwiEWTOPEa) | 3:22 |
-| 141 | [Jaded](https://open.spotify.com/track/1ZdDr1zM46JxFu2ugQc1mE) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Jaded](https://open.spotify.com/album/3bYrjYgEAEWCbgawd17dif) | 4:22 |
-| 142 | [Padam Padam](https://open.spotify.com/track/2GXvqITTIxsDGNxymiErSe) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/3StjwfadugiV10gNhLDu29) | 2:46 |
+| 141 | [Padam Padam](https://open.spotify.com/track/2GXvqITTIxsDGNxymiErSe) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/3StjwfadugiV10gNhLDu29) | 2:46 |
+| 142 | [Jaded](https://open.spotify.com/track/1ZdDr1zM46JxFu2ugQc1mE) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Jaded](https://open.spotify.com/album/3bYrjYgEAEWCbgawd17dif) | 4:22 |
 | 143 | [Grey Hair](https://open.spotify.com/track/2DV4aaQyV6QNQx8Iylvrsq) | [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Emanuel](https://open.spotify.com/album/2DuS6uvoK6uVj2mriZiY3G) | 4:13 |
 
-Snapshot ID: `ZcF1xQAAAADzzX3UgZ8TSuA63BNhfRYq`
+Snapshot ID: `ZcF1xQAAAADY4yvaMcuW/Yv9cnIrW++H`

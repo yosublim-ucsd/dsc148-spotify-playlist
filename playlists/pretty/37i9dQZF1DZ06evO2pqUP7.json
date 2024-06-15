@@ -1,12 +1,12 @@
 {
-  "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 66696,
+  "description": "This Is Lunay. Los temas esenciales, todos en una lista.",
+  "num_followers": 66709,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjlAAAAAABhu5THDNBj5/nKAPBj1xz7",
+  "snapshot_id": "Zmo2gAAAAABv44sIJiz2rAF7F8V+pWnL",
   "tracks": [
     {
       "added_at": null,
@@ -323,6 +323,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Victoria",
+        "url": "https://open.spotify.com/album/3FKA9NEOo3FYqykdnTqp58"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 223488,
+      "name": "Victoria",
+      "url": "https://open.spotify.com/track/2BxzmBb2uqwnpyVuJqIIV9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Cama (Remix)",
         "url": "https://open.spotify.com/album/0hzFhU2sz14urAdELOUwtU"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 330240,
       "name": "La Cama (Remix)",
       "url": "https://open.spotify.com/track/2tGENA8xef0wABdHvyXwv9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Victoria",
-        "url": "https://open.spotify.com/album/3FKA9NEOo3FYqykdnTqp58"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 223488,
-      "name": "Victoria",
-      "url": "https://open.spotify.com/track/2BxzmBb2uqwnpyVuJqIIV9"
     },
     {
       "added_at": null,
@@ -543,30 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Condado",
-        "url": "https://open.spotify.com/album/5JcLIpNJRiSXihxPTkY1DD"
-      },
-      "artists": [
-        {
-          "name": "Chris Jedi",
-          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 232813,
-      "name": "Condado",
-      "url": "https://open.spotify.com/track/4C8QCrEqxlZ6esLR2Ws3Qh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Toque Mi Naik",
         "url": "https://open.spotify.com/album/2hdIFvSU7heSbsco9Mssbu"
       },
@@ -635,6 +611,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Mi Habitaci\u00f3n",
+        "url": "https://open.spotify.com/album/5YluAzUmLLk8ajKIsHj0lY"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Los Legendarios",
+          "url": "https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke"
+        }
+      ],
+      "duration_ms": 235226,
+      "name": "En Mi Habitaci\u00f3n",
+      "url": "https://open.spotify.com/track/4ie9colBgieHEOULuCfK3E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nadie (feat. Sech & Sharo Towers) [Remix]",
         "url": "https://open.spotify.com/album/4N2GPRKAskxYf1HQWveeFR"
       },
@@ -663,34 +667,6 @@
       "duration_ms": 270186,
       "name": "Nadie (feat. Sech & Sharo Towers) - Remix",
       "url": "https://open.spotify.com/track/6pNjmMB8FTMEcqGSgs7Mji"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Mi Habitaci\u00f3n",
-        "url": "https://open.spotify.com/album/5YluAzUmLLk8ajKIsHj0lY"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Los Legendarios",
-          "url": "https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke"
-        }
-      ],
-      "duration_ms": 235226,
-      "name": "En Mi Habitaci\u00f3n",
-      "url": "https://open.spotify.com/track/4ie9colBgieHEOULuCfK3E"
     },
     {
       "added_at": null,
@@ -811,26 +787,6 @@
       "duration_ms": 414320,
       "name": "Mi Llamada (Remix)",
       "url": "https://open.spotify.com/track/78i2QPC8prEzftYZrBjKOM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Top Gone (with Lunay)",
-        "url": "https://open.spotify.com/album/6pzt4VtRQPVattiSb1ZZAO"
-      },
-      "artists": [
-        {
-          "name": "Lil Mosey",
-          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 194453,
-      "name": "Top Gone (with Lunay)",
-      "url": "https://open.spotify.com/track/0EgkGFmAdFLkZVtbyGlQRe"
     },
     {
       "added_at": null,
@@ -1099,22 +1055,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00facleo",
-        "url": "https://open.spotify.com/album/1ePBXGcKDFJZR3XWc2g2OW"
+        "name": "Org\u00e1nico",
+        "url": "https://open.spotify.com/album/4sAj704PbYTvBF2fFa88a1"
       },
       "artists": [
         {
-          "name": "vf7",
-          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         },
         {
           "name": "Lunay",
           "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
         }
       ],
-      "duration_ms": 197312,
-      "name": "Codigo Secreto",
-      "url": "https://open.spotify.com/track/6ZUGi3v66aBs8kLxJ8DsO1"
+      "duration_ms": 220465,
+      "name": "Quiz\u00e1s",
+      "url": "https://open.spotify.com/track/7xiZayz1eFWnzLPztL80VQ"
     },
     {
       "added_at": null,
@@ -1131,6 +1091,26 @@
       "duration_ms": 176000,
       "name": "360",
       "url": "https://open.spotify.com/track/0wGoOwOvLGCZqz8mNFMpAC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00facleo",
+        "url": "https://open.spotify.com/album/1ePBXGcKDFJZR3XWc2g2OW"
+      },
+      "artists": [
+        {
+          "name": "vf7",
+          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 197312,
+      "name": "Codigo Secreto",
+      "url": "https://open.spotify.com/track/6ZUGi3v66aBs8kLxJ8DsO1"
     },
     {
       "added_at": null,
@@ -1231,6 +1211,30 @@
       "duration_ms": 151562,
       "name": "Fin De Semana",
       "url": "https://open.spotify.com/track/2DFn7QiaiaNNWXuWLABatP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2K20, Pt. 2 (Live)",
+        "url": "https://open.spotify.com/album/0CDLQ6cxLj0UydmFX394VL"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 258193,
+      "name": "Soltera (Live) (Remix)",
+      "url": "https://open.spotify.com/track/5hXVtFCXlncVEI9qUDniJk"
     }
   ],
   "unique_name": "This Is Lunay",

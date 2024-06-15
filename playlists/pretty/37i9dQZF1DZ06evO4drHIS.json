@@ -1,12 +1,12 @@
 {
-  "description": "This Is Majo Aguilar. Los temas esenciales, todos en una lista.",
-  "num_followers": 10730,
+  "description": "This is Majo Aguilar. The essential tracks, all in one playlist.",
+  "num_followers": 10754,
   "original_name": "This Is Majo Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjlAAAAAADlLzPlEYk0lTJsPo25IvA4",
+  "snapshot_id": "Zmo2gAAAAADX70z4X77Lg8u1y4GvpJj6",
   "tracks": [
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mor\u00ed",
+        "url": "https://open.spotify.com/album/0yexjHqn8yMIgpxNxJqVQ0"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 224506,
+      "name": "Mor\u00ed",
+      "url": "https://open.spotify.com/track/2ysxv5DXuosxjvaGItVn1E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mariachi Y Tequila (Deluxe)",
         "url": "https://open.spotify.com/album/1CWzi6omgWhMTbaeSzraSr"
       },
@@ -315,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mor\u00ed",
-        "url": "https://open.spotify.com/album/0yexjHqn8yMIgpxNxJqVQ0"
+        "name": "Triste Recuerdo",
+        "url": "https://open.spotify.com/album/5uR5QUOgcN5N7UcTbF6L7O"
       },
       "artists": [
         {
@@ -324,9 +340,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 224506,
-      "name": "Mor\u00ed",
-      "url": "https://open.spotify.com/track/2ysxv5DXuosxjvaGItVn1E"
+      "duration_ms": 208902,
+      "name": "Triste Recuerdo",
+      "url": "https://open.spotify.com/track/7cE2WMUfKOaU0U7HMUdNaW"
     },
     {
       "added_at": null,
@@ -527,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e9xico Mi Amor",
-        "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
+        "name": "Cielo Rojo",
+        "url": "https://open.spotify.com/album/70DsT4xiJHLaWo1plNuB2G"
       },
       "artists": [
         {
@@ -536,9 +552,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 205120,
-      "name": "Paloma Negra",
-      "url": "https://open.spotify.com/track/6azmVYavoYRuLjLYhMwTDP"
+      "duration_ms": 258048,
+      "name": "Cielo Rojo",
+      "url": "https://open.spotify.com/track/34FglmHyQxeya2ZUpsOMvm"
     },
     {
       "added_at": null,
@@ -555,6 +571,22 @@
       "duration_ms": 158373,
       "name": "Si Una Vez - En Vivo Desde Pa\u2019l Norte",
       "url": "https://open.spotify.com/track/02eDT52J9sMICWNGgVdVen"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00e9xico Mi Amor",
+        "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 205120,
+      "name": "Paloma Negra",
+      "url": "https://open.spotify.com/track/6azmVYavoYRuLjLYhMwTDP"
     },
     {
       "added_at": null,
@@ -607,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amigos",
-        "url": "https://open.spotify.com/album/74Hes6pOqG1u1DN65jg0aV"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 168866,
-      "name": "Amigos",
-      "url": "https://open.spotify.com/track/4uoHAwCca3pR6SCnYA3XPZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "T\u00f3mbola",
         "url": "https://open.spotify.com/album/7eAtiCTXIBBiofTOAu5e2g"
       },
@@ -635,6 +651,22 @@
       "duration_ms": 165906,
       "name": "T\u00f3mbola",
       "url": "https://open.spotify.com/track/02PKYlcYtRo1uz67X9UQZC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amigos",
+        "url": "https://open.spotify.com/album/74Hes6pOqG1u1DN65jg0aV"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 168866,
+      "name": "Amigos",
+      "url": "https://open.spotify.com/track/4uoHAwCca3pR6SCnYA3XPZ"
     },
     {
       "added_at": null,
@@ -719,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mariachi Y Tequila (Deluxe)",
-        "url": "https://open.spotify.com/album/1CWzi6omgWhMTbaeSzraSr"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Pude",
-      "url": "https://open.spotify.com/track/7rdiGNueHhOSiJMHOEM7LT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Lo Dije",
         "url": "https://open.spotify.com/album/6L4FZy4urqYOoXG7QCJvGt"
       },
@@ -751,6 +767,22 @@
       "duration_ms": 153946,
       "name": "Te Lo Dije",
       "url": "https://open.spotify.com/track/1qIzFCCra5oghKuOwygbxm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mariachi Y Tequila (Deluxe)",
+        "url": "https://open.spotify.com/album/1CWzi6omgWhMTbaeSzraSr"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Pude",
+      "url": "https://open.spotify.com/track/7rdiGNueHhOSiJMHOEM7LT"
     },
     {
       "added_at": null,
@@ -831,38 +863,6 @@
       "duration_ms": 204613,
       "name": "Mis Noches Sin Ti",
       "url": "https://open.spotify.com/track/1Q1pPLnJqsWHSIu4H5rOHI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M\u00e9xico Mi Amor",
-        "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 218573,
-      "name": "T\u00fa A M\u00ed No Me Hundes",
-      "url": "https://open.spotify.com/track/4buqIpLCvctlto6dYluSTn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mariachi Y Tequila (Deluxe)",
-        "url": "https://open.spotify.com/album/1CWzi6omgWhMTbaeSzraSr"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 141360,
-      "name": "Me Convierto",
-      "url": "https://open.spotify.com/track/3ScICgWl1iQjYJRU4i8pqy"
     }
   ],
   "unique_name": "This Is Majo Aguilar",

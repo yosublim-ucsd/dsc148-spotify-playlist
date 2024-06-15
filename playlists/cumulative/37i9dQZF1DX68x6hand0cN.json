@@ -399,6 +399,24 @@
     },
     {
       "album": {
+        "name": "Bomba Internationale",
+        "url": "https://open.spotify.com/album/6thmHz667FJDAlkmStkXFW"
+      },
+      "artists": [
+        {
+          "name": "Moha K",
+          "url": "https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165402,
+      "name": "Bomba Internationale",
+      "url": "https://open.spotify.com/track/61R8xjGtLJSDLqdXchuv7Z"
+    },
+    {
+      "album": {
         "name": "Broski\u2019s",
         "url": "https://open.spotify.com/album/6QQveJTy0ZAbqBMTYwpS3V"
       },
@@ -590,7 +608,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 216000,
       "name": "Comforter (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K"
@@ -616,6 +634,28 @@
       "duration_ms": 178285,
       "name": "Coming for You (feat. A1 x J1)",
       "url": "https://open.spotify.com/track/1xIqDFx3KdByBnKMlTECcM"
+    },
+    {
+      "album": {
+        "name": "Corazon",
+        "url": "https://open.spotify.com/album/4fdpS6Q0wfscKoVy42UcND"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188370,
+      "name": "Corazon",
+      "url": "https://open.spotify.com/track/4p7xoPQH7WpffmIEm5artb"
     },
     {
       "album": {
@@ -2217,6 +2257,24 @@
     },
     {
       "album": {
+        "name": "MAHBOULA",
+        "url": "https://open.spotify.com/album/6xxm174FrG6Mni52k9UFWL"
+      },
+      "artists": [
+        {
+          "name": "Manal",
+          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169565,
+      "name": "MAHBOULA",
+      "url": "https://open.spotify.com/track/4AS0ncb4OzzAjwvsgWu9XV"
+    },
+    {
+      "album": {
         "name": "Mango (Extrait de la BO de \u00ab En Passant P\u00e9cho \u00bb)",
         "url": "https://open.spotify.com/album/0qod7rru7wX4DgxE0oZoN1"
       },
@@ -2466,6 +2524,28 @@
       "duration_ms": 151690,
       "name": "Mood",
       "url": "https://open.spotify.com/track/4k6yZRw7M04gZE2uW12Cw6"
+    },
+    {
+      "album": {
+        "name": "M\u00e9lanine",
+        "url": "https://open.spotify.com/album/0ovXNQjta5DdP31OAMlKXO"
+      },
+      "artists": [
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        },
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "M\u00e9lanine",
+      "url": "https://open.spotify.com/track/7GCU3DlRW3s65f6JjNBrM4"
     },
     {
       "album": {
@@ -3142,7 +3222,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 167730,
       "name": "Salade Coco",
       "url": "https://open.spotify.com/track/71k5nrJuZcr9j3X0YIBwWh"

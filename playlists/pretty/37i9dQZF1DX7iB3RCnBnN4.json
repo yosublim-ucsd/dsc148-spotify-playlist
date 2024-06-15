@@ -1,6 +1,6 @@
 {
   "description": "All the songs with more than 1 BILLION streams on Spotify. Cover: Rosal\u00eda",
-  "num_followers": 614592,
+  "num_followers": 614950,
   "original_name": "BILLIONS CLUB",
   "owner": {
     "name": "Spotify",
@@ -10009,20 +10009,24 @@
       "url": "https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5"
     },
     {
-      "added_at": "2023-02-24 17:27:19",
+      "added_at": "2021-11-04 20:15:37",
       "album": {
-        "name": "News Of The World",
-        "url": "https://open.spotify.com/album/3TKTjR4E3LAMfRsPeRsNhT"
+        "name": "Hot Space",
+        "url": "https://open.spotify.com/album/0fZCqpTHYq2k89uG6pPTYE"
       },
       "artists": [
         {
           "name": "Queen",
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
         }
       ],
-      "duration_ms": 121973,
-      "name": "We Will Rock You",
-      "url": "https://open.spotify.com/track/0a9sd6MEXZXIPHk0fAxpZ4"
+      "duration_ms": 245506,
+      "name": "Under Pressure",
+      "url": "https://open.spotify.com/track/1mSClObliRtgPVT399COQH"
     },
     {
       "added_at": "2021-07-21 15:35:04",
@@ -10105,24 +10109,20 @@
       "url": "https://open.spotify.com/track/3tNE4i6TBqMdyTZxHDAn9B"
     },
     {
-      "added_at": "2021-11-04 20:15:37",
+      "added_at": "2023-02-24 17:27:19",
       "album": {
-        "name": "Hot Space",
-        "url": "https://open.spotify.com/album/0fZCqpTHYq2k89uG6pPTYE"
+        "name": "News Of The World",
+        "url": "https://open.spotify.com/album/3TKTjR4E3LAMfRsPeRsNhT"
       },
       "artists": [
         {
           "name": "Queen",
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        },
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
         }
       ],
-      "duration_ms": 245506,
-      "name": "Under Pressure",
-      "url": "https://open.spotify.com/track/1mSClObliRtgPVT399COQH"
+      "duration_ms": 121973,
+      "name": "We Will Rock You",
+      "url": "https://open.spotify.com/track/0a9sd6MEXZXIPHk0fAxpZ4"
     },
     {
       "added_at": "2021-07-21 15:35:04",

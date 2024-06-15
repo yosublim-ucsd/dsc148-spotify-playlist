@@ -902,7 +902,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 141262,
       "name": "Arashiyama",
       "url": "https://open.spotify.com/track/1GrZGGozbbpBboXNLv7khL"
@@ -3506,7 +3506,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 168492,
       "name": "Echo Park",
       "url": "https://open.spotify.com/track/6UweZFJgCY0eMIn6P2rflo"
@@ -4590,7 +4590,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 133958,
       "name": "Glencoe",
       "url": "https://open.spotify.com/track/0OTaXtuwRJbuVFinxBev0B"
@@ -8378,7 +8378,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 158519,
       "name": "Nell'angolo",
       "url": "https://open.spotify.com/track/0EOIwRvmBzRE2RT7bxaLqf"
@@ -8450,7 +8450,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 163597,
       "name": "Night in Sevilla",
       "url": "https://open.spotify.com/track/3MeoEsS5PQ2Jh6ppvYOI9g"
@@ -10016,7 +10016,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 160820,
       "name": "Ricorda",
       "url": "https://open.spotify.com/track/3N53aMV2eJB32wb2G2Pns0"
@@ -11294,7 +11294,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 154464,
       "name": "Someday",
       "url": "https://open.spotify.com/track/40Prhj76wY4JkKWl130prE"
@@ -11694,6 +11694,24 @@
       "duration_ms": 162842,
       "name": "Stolen Moments",
       "url": "https://open.spotify.com/track/1oEq1W6ChwTxUE87Jx9MFG"
+    },
+    {
+      "album": {
+        "name": "Stop and Look Around",
+        "url": "https://open.spotify.com/album/6eywL18F7LHmJm5KqCCfdI"
+      },
+      "artists": [
+        {
+          "name": "Alexas Lucio",
+          "url": "https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118298,
+      "name": "Stop and Look Around",
+      "url": "https://open.spotify.com/track/1BfJtG4eD6TElscodj2YdK"
     },
     {
       "album": {

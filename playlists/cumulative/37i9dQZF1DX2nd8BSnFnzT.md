@@ -2,9 +2,9 @@
 
 ### [Pátria Rock](https://open.spotify.com/playlist/37i9dQZF1DX2nd8BSnFnzT)
 
-> Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Leonardo Ramos ❤️ Isa Salles, Andre Déa ❤️ Carol Navarro, Paulo Vaz ❤️ 🕯️😬
+> Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Supercombo
 
-471 songs - 1 day 2 hr 19 min
+472 songs - 1 day 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Curandeiro](https://open.spotify.com/track/3VCx8gNuP1tG4G9UNBTD8w) | [Dazaranha](https://open.spotify.com/artist/5Tj3XpWt9Z17NR581kYPQY) | [Dazaranha 30 Anos](https://open.spotify.com/album/7ooA9s3AbPyL2LhnqMBOaM) | 3:08 | 2022-09-30 | 2022-11-12 |
 | [CÉUMITÉRIO](https://open.spotify.com/track/0KW0jKVnoOWCuEpJBqoFWI) | [Reolamos](https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq) | [CÉUMITÉRIO](https://open.spotify.com/album/5R9UWzUQZFgjbDELvZTVSI) | 3:23 | 2022-01-14 | 2022-04-02 |
 | [Dançar](https://open.spotify.com/track/2JG7LWyNbkzm7GPRf3iXoC) | [Meu Funeral](https://open.spotify.com/artist/6GEXLxhbbkxEeYkL9sl64X), [Tati Quebra Barraco](https://open.spotify.com/artist/3CuWYvDpKC3HVLru1CPGts) | [Dançar](https://open.spotify.com/album/564oeyEGIGpUB3ooaeb0ee) | 2:33 | 2022-01-14 | 2022-02-26 |
+| [De Volta Ao Novo \- Live in Rio](https://open.spotify.com/track/6yzDcTf1DnuevYmKksYTMe) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [De Volta Ao Novo \- EP Versões & Remixes](https://open.spotify.com/album/4SFk6ZJ9AWPVv6inO5jOpu) | 3:26 | 2024-06-14 |  |
 | [Deixar Viver](https://open.spotify.com/track/62mO6x70dol2LOiTGR8GvK) | [Daniel Siebert](https://open.spotify.com/artist/1FXr5LmmIsKw0CvMP9OgR4), [Marilice Caldart](https://open.spotify.com/artist/1880UjmsktmnsggwPbpC4Y) | [Deixar Viver](https://open.spotify.com/album/38lIRym65wLQtPHIN5Z9lO) | 4:22 | 2022-01-14 | 2022-12-17 |
 | [Dentes Amarelos](https://open.spotify.com/track/25lfkHU2G1tqRpmZtQo8nv) | [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI) | [Labirinto da Memória](https://open.spotify.com/album/3ojbSAA93Lx3Qdluf14is5) | 2:35 | 2024-01-12 | 2024-04-19 |
 | [Dentes Amarelos](https://open.spotify.com/track/2HZ01B2TGIBQTlff9Vk7th) | [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI) | [Dentes Amarelos](https://open.spotify.com/album/2KwgTGfuvwNwQhTKCzarML) | 2:36 | 2023-11-10 |  |
@@ -161,7 +162,7 @@
 | [Eu te amo você \(Live Sala de Estar\)](https://open.spotify.com/track/6W0lFjQTyYyHkszNlUWtrd) | [Karen Jonz](https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C) | [Eu te amo você \(Live Sala de Estar\)](https://open.spotify.com/album/3gIYxv8J959nvOH0MtCQeM) | 2:50 | 2023-11-03 | 2024-02-03 |
 | [Eu te amo você \- Live Sala de Estar](https://open.spotify.com/track/4fCuJF71M3gcecekJPODWO) | [Karen Jonz](https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C) | [Eu te amo você \(Live Sala de Estar\)](https://open.spotify.com/album/6hrkcSV4mybnW4dbJd04hd) | 2:50 | 2023-09-15 | 2023-11-04 |
 | [Eu Tive Uma Visão \- Versão Grunge](https://open.spotify.com/track/0DhoQiPl1nw5IcMolkengo) | [Autoramas](https://open.spotify.com/artist/6IwPtS5L4cV9yCB66mhheZ) | [Eu Tive Uma Visão \(Versão Grunge\)](https://open.spotify.com/album/2n1pE8HLpzG8ySHt19WBXU) | 2:39 | 2022-03-11 | 2022-03-18 |
-| [Fade Away](https://open.spotify.com/track/3sOfcud8C4YSVOiCGWynYM) | [Axty](https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H) | [Fade Away](https://open.spotify.com/album/2c3I2PZ07EIbtqlxUFTz0f) | 3:10 | 2024-02-23 |  |
+| [Fade Away](https://open.spotify.com/track/3sOfcud8C4YSVOiCGWynYM) | [Axty](https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H) | [Fade Away](https://open.spotify.com/album/2c3I2PZ07EIbtqlxUFTz0f) | 3:10 | 2024-02-23 | 2024-06-15 |
 | [Fala na Cara](https://open.spotify.com/track/0aPH5FHJaLkbHftmYyeWHj) | [Giovanna Moraes](https://open.spotify.com/artist/1NYYWX3yvMjUMkXRkgVKxb) | [Fala na Cara](https://open.spotify.com/album/14qtdt0FYJWQX00R2hBlun) | 3:46 | 2023-04-14 | 2024-02-17 |
 | [Farofada Rock 'N Roll](https://open.spotify.com/track/4dVpdccbklkJ6lC1hffbJN) | [Maria do Relento](https://open.spotify.com/artist/2ZJAUr36IZp6pSiegYWRJP) | [Farofada Rock 'N Roll](https://open.spotify.com/album/34oikwHIkR0WhLmuPALBhx) | 3:34 | 2022-02-04 | 2022-04-09 |
 | [Fascista](https://open.spotify.com/track/5Fv2X9NcDca6NMTRHLEIma) | [Escambau](https://open.spotify.com/artist/5A9wuZoMAlH0P2eFN7Fd7u) | [Leite de Pedra](https://open.spotify.com/album/1rygfNkdmlHaTmk40kL49E) | 3:02 | 2022-09-23 | 2022-10-15 |

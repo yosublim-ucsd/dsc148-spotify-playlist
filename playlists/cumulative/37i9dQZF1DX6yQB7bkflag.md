@@ -4,7 +4,7 @@
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Donne Maula
 
-529 songs - 1 day 7 hr 13 min
+533 songs - 1 day 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Bermuara](https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Bermuara](https://open.spotify.com/album/14CzP48sGOaDXL2aTwUUgd) | 4:47 | 2024-05-02 | 2024-06-07 |
 | [Bernafaslah Sejenak](https://open.spotify.com/track/7mL0RQHHu3N3fYFwawa8Mx) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Bernafaslah Sejenak](https://open.spotify.com/album/7KF9Kk6bpryWfjzTprCylS) | 4:28 | 2024-01-18 | 2024-03-22 |
 | [Bersalah](https://open.spotify.com/track/6WV2LkAwhDMH0znwXXYq5R) | [Peter Holly](https://open.spotify.com/artist/6jjRl6DiuWp03YdfGGI4fb) | [Bersalah](https://open.spotify.com/album/77yBhiIJHtsczrZV8M7wCq) | 4:27 | 2024-05-16 | 2024-06-14 |
+| [Bersamaku Akan Sedikit Susah](https://open.spotify.com/track/2yMuG8byOPFzZRNG4SaDT9) | [eńau](https://open.spotify.com/artist/0agUNq8PH1QSgm88EuhM1u) | [Bersamaku Akan Sedikit Susah](https://open.spotify.com/album/2JJDZRInXPi0gqROa9gaf8) | 4:11 | 2024-06-14 |  |
 | [Bersenja Gurau](https://open.spotify.com/track/5ANZKRT3WuY4DgEnCcfHVa) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Bersenja Gurau](https://open.spotify.com/album/4mtL1Qs2EYD05CUW6nx7b6) | 3:14 | 2024-03-07 | 2024-05-03 |
 | [Berteman Saja Dulu](https://open.spotify.com/track/6mBre4MtNs8PNYRLNvf8XI) | [Rakhano](https://open.spotify.com/artist/2zOBXLlMHApdurk2Mv1Cc4) | [Berteman Saja Dulu](https://open.spotify.com/album/49M0H0Li1zRG56qiV1K42L) | 3:44 | 2024-02-16 | 2024-04-09 |
 | [Bertemu Kembali](https://open.spotify.com/track/2OQ5SRbdGeRpiscZS6UFHT) | [Melly Goeslaw](https://open.spotify.com/artist/6oM1PyiV3LidEUIHKubg3W), [Nike Ardilla](https://open.spotify.com/artist/1JuelnhfAFnrPRqGk2wH2j) | [Bertemu Kembali](https://open.spotify.com/album/5TGLA6ieUTAN4cduEb0cDI) | 4:33 | 2024-01-18 | 2024-01-26 |
@@ -64,6 +65,7 @@
 | [Bitter](https://open.spotify.com/track/0ZzK5ezcQCY5QYCa7zC7sR) | [August Wahh](https://open.spotify.com/artist/4NsvRUCOVV4KrWRfF65Rcj) | [Bitter](https://open.spotify.com/album/2TmYMVMKx4Ddkeqa7SahW8) | 2:26 | 2024-05-30 | 2024-06-14 |
 | [Bitter Sweet Love](https://open.spotify.com/track/6NLAH4zb1rAZdoHvvbnaSv) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/1cnYW3YtY6B03BYuGAxbUF) | 2:45 | 2024-01-18 | 2024-03-15 |
 | [Blow Your Cover](https://open.spotify.com/track/5O3r5G2SrYQ3rYEUwwziAB) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 2:39 | 2024-04-12 | 2024-05-10 |
+| [Bodies](https://open.spotify.com/track/0gu9eXXuVtIVClm0E2PATP) | [HANISA](https://open.spotify.com/artist/12aAsVqTdYv0Tp3bv3g7xk), [Monica Karina](https://open.spotify.com/artist/4uz19Fx4VF6BHhzmTuSCOR) | [Bodies](https://open.spotify.com/album/6ysi49LJQceFnvcCWfixe7) | 3:11 | 2024-06-14 |  |
 | [Boleh Juga](https://open.spotify.com/track/2RadWC8dJhTEkvSBTndJZ5) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Boleh Juga](https://open.spotify.com/album/61yVevFbBURg0USzarrdQ4) | 3:47 | 2024-05-24 |  |
 | [Bored](https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 3:33 | 2024-04-25 | 2024-05-25 |
 | [Both Ways](https://open.spotify.com/track/1iZhzsEoPfULMJFSOJcxYK) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Both Ways](https://open.spotify.com/album/3eh5lPgtVovNYkSdGlRi5I) | 3:06 | 2024-05-16 | 2024-06-14 |
@@ -432,6 +434,7 @@
 | [Spring breakers](https://open.spotify.com/track/3dk7WaeS0y0JG0OMd0FVcg) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Brat and it’s the same but there’s three more songs so it’s not](https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq) | 2:22 | 2024-06-13 |  |
 | [Stand By Me](https://open.spotify.com/track/1TjlQxjzKnaW7bfBKYkxqV) | [Javier Parisi](https://open.spotify.com/artist/79zGNMGG2AU1xjzdaVfZKW) | [Stand By Me](https://open.spotify.com/album/5F2Aay4HcEz6Rq3FLzRGrK) | 3:22 | 2024-05-02 | 2024-05-25 |
 | [Stardust](https://open.spotify.com/track/4266h07udCdZ83jswW10IG) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [ROOM UNDER THE STAIRS](https://open.spotify.com/album/0PGluYePuY9INYN7SQheZ0) | 3:52 | 2024-05-16 |  |
+| [Step](https://open.spotify.com/track/4eecTuBlb0nM4DIVTmjWPa) | [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9) | [STEP](https://open.spotify.com/album/7ouKhEyy9jcnDeg9KNnXe9) | 2:55 | 2024-06-13 |  |
 | [Strangers](https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent \(Extended Edition\)](https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q) | 3:34 | 2024-01-18 | 2024-03-15 |
 | [Stuck In The Middle](https://open.spotify.com/track/1Ad4anaX6hJyfZvVDkrKQg) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONSTER Pre\-Release Single \[Stuck In The Middle\]](https://open.spotify.com/album/7anlDz5EpVJ4aXmWvaSbzM) | 4:06 | 2024-02-01 | 2024-03-01 |
 | [Sun/Son](https://open.spotify.com/track/1WD5d42tRqdLyfaoTtUlHB) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sun/Son](https://open.spotify.com/album/7yFCk6DfTK0AqZRVkwYZ24) | 2:56 | 2024-01-18 | 2024-02-24 |
@@ -532,6 +535,7 @@
 | [Yasudah](https://open.spotify.com/track/4gKgefMQuie6nz017V6jiP) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Yasudah](https://open.spotify.com/album/0NVWNTENg9PZM0J1RfToXX) | 4:56 | 2024-03-14 | 2024-04-19 |
 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 | 2024-01-18 | 2024-03-29 |
 | [yes, and? \(with Mariah Carey\) \- Remix](https://open.spotify.com/track/5LBv48NNyHsknRYwFWC361) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [yes, and?](https://open.spotify.com/album/7cE0lgNHmBxutHd5g4D3q8) | 3:34 | 2024-02-16 | 2024-03-22 |
+| [You](https://open.spotify.com/track/4T0i2FyNJc8f7QMYQRRJB1) | [T\-Five](https://open.spotify.com/artist/37VFhHJtDBkbN3gZnPiWQ3), [Ten2Five](https://open.spotify.com/artist/5Tl7XjM9Y7Q2D9eIHz5GTO) | [You](https://open.spotify.com/album/5cRvVGFlXb8FUCg8SpvlVW) | 3:18 | 2024-06-13 |  |
 | [You Need Me Now? \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [You Need Me Now? \(feat\. Sabrina Carpenter\)](https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF) | 3:06 | 2024-03-21 | 2024-04-19 |
 | [you're my moon](https://open.spotify.com/track/565nq6yHIdPS05v42NpabQ) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [you're my moon](https://open.spotify.com/album/5yhf2O5NFeNgRCeZ9RksHJ) | 3:02 | 2024-04-12 | 2024-05-10 |
 | [Your Favorite Food](https://open.spotify.com/track/4yWaGVdcT6VhMyUY7kjV3d) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Your Favorite Food](https://open.spotify.com/album/6XsHlUuJB9vrOVwflRFoOp) | 4:30 | 2024-02-29 | 2024-03-22 |

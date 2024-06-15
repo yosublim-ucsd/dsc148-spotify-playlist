@@ -1,12 +1,12 @@
 {
   "description": "This is ATARASHII GAKKO!. The essential tracks, all in one playlist.",
-  "num_followers": 48552,
+  "num_followers": 48633,
   "original_name": "This Is ATARASHII GAKKO!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjlAAAAAAATmgDgn/O1CL/97pQi7c4l",
+  "snapshot_id": "Zmo2gAAAAABclJT6g3q3m5TPk1EYUfqF",
   "tracks": [
     {
       "added_at": null,
@@ -271,22 +271,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "maenarawanai",
-        "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
+        "name": "Quesera sera",
+        "url": "https://open.spotify.com/album/43su6eToqJrox4wuAoaJJd"
       },
       "artists": [
         {
           "name": "ATARASHII GAKKO!",
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        },
-        {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
         }
       ],
-      "duration_ms": 255600,
-      "name": "koinosyadanki feat H ZETTRIO",
-      "url": "https://open.spotify.com/track/22t28uO1vo5zM2yWCgGJGN"
+      "duration_ms": 213066,
+      "name": "Quesera sera",
+      "url": "https://open.spotify.com/track/3pyU7up8u5Fnx9RF3BFhOa"
     },
     {
       "added_at": null,
@@ -327,18 +323,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quesera sera",
-        "url": "https://open.spotify.com/album/43su6eToqJrox4wuAoaJJd"
+        "name": "maenarawanai",
+        "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
       },
       "artists": [
         {
           "name": "ATARASHII GAKKO!",
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        },
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
         }
       ],
-      "duration_ms": 213066,
-      "name": "Quesera sera",
-      "url": "https://open.spotify.com/track/3pyU7up8u5Fnx9RF3BFhOa"
+      "duration_ms": 255600,
+      "name": "koinosyadanki feat H ZETTRIO",
+      "url": "https://open.spotify.com/track/22t28uO1vo5zM2yWCgGJGN"
     },
     {
       "added_at": null,

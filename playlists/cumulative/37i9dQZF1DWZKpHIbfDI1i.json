@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Alejandro Fern\u00e1ndez en portada.",
+  "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Christian Nodal en portada.",
   "name": "Top M\u00e9xico",
   "tracks": [
     {
@@ -1112,7 +1112,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 177000,
       "name": "ALV - Remix",
       "url": "https://open.spotify.com/track/48gNck6UTLw6JYsjBiKBiz"
@@ -1782,7 +1782,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 176040,
       "name": "ATARI",
       "url": "https://open.spotify.com/track/26Fvbip1soBIK5RWJYco05"
@@ -2816,7 +2816,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 228880,
       "name": "Buenos Tiempos",
       "url": "https://open.spotify.com/track/7pDRRilFOcD5JZUuKWkDzx"
@@ -3604,7 +3604,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 160040,
       "name": "Cobijas Ajenas",
       "url": "https://open.spotify.com/track/2P06ws9H4jQNJm3Lbo3tZ4"
@@ -5363,6 +5363,28 @@
     },
     {
       "album": {
+        "name": "Dime (Toy Selectah Cumbia Remix)",
+        "url": "https://open.spotify.com/album/69ZTclRzkCfvGrSsSohSEA"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Toy Selectah",
+          "url": "https://open.spotify.com/artist/6iruqoplIhH7VmvMQV1wDM"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205517,
+      "name": "Dime - Toy Selectah Cumbia Remix",
+      "url": "https://open.spotify.com/track/5CrIhnbLia8Fqqr4d8UEi1"
+    },
+    {
+      "album": {
         "name": "Dime pa saber",
         "url": "https://open.spotify.com/album/4UEhJl0egkIvQyRFMS6Egg"
       },
@@ -5692,7 +5714,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 178100,
       "name": "El 100",
       "url": "https://open.spotify.com/track/6LSMoKokOy7XfJGkDAhDw5"
@@ -7644,7 +7666,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 194240,
       "name": "Fresas de la Capital - Remix",
       "url": "https://open.spotify.com/track/0YL4V7R077SARGTtJkBFLj"
@@ -8126,6 +8148,24 @@
       "duration_ms": 161571,
       "name": "Gorra L.A.",
       "url": "https://open.spotify.com/track/08OOZHubFNdgVZ3N714zjG"
+    },
+    {
+      "album": {
+        "name": "Gotitas Saladas",
+        "url": "https://open.spotify.com/album/3qm5AFyntlDrD2NbcVGGdU"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203021,
+      "name": "Gotitas Saladas",
+      "url": "https://open.spotify.com/track/5Sas859pm039G13F5wEuyK"
     },
     {
       "album": {
@@ -8849,6 +8889,24 @@
     },
     {
       "album": {
+        "name": "Kbron y Medio",
+        "url": "https://open.spotify.com/album/43lZUcMvNSAHtQTVHzAgax"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258441,
+      "name": "Kbron y Medio",
+      "url": "https://open.spotify.com/track/5mCpJrvnlFIsOIxwd8VIc0"
+    },
+    {
+      "album": {
         "name": "Kilos de Amor",
         "url": "https://open.spotify.com/album/3fQBllTfCCkwBN1WupQfRp"
       },
@@ -9439,6 +9497,32 @@
     },
     {
       "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/4kAXXZpIKhMlmj62OBnj7g"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Jos\u00e9 Guicho",
+          "url": "https://open.spotify.com/artist/7IiCm7VkqzW7vN0MY9AzHe"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152932,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/26ffMA2QIHjbQZpBlv6GmA"
+    },
+    {
+      "album": {
         "name": "La Fresa",
         "url": "https://open.spotify.com/album/1TW0GzpdhiBK6dZxI4yGV4"
       },
@@ -9970,7 +10054,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 226250,
       "name": "Labios de Cereza 2",
       "url": "https://open.spotify.com/track/5kydBNKLSxvWNjXSSfyWAr"
@@ -11151,6 +11235,24 @@
     },
     {
       "album": {
+        "name": "Mami Chula",
+        "url": "https://open.spotify.com/album/7v3DdLCZPbxDrhElufalp1"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174609,
+      "name": "Mami Chula",
+      "url": "https://open.spotify.com/track/2eyM3P1DmOLguEE904BMkR"
+    },
+    {
+      "album": {
         "name": "Mamita Santa",
         "url": "https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R"
       },
@@ -11784,7 +11886,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 232321,
       "name": "Mi Eterno Amor Secreto",
       "url": "https://open.spotify.com/track/56qp8eaEnZ6hh96FkaDF7D"
@@ -12507,6 +12609,24 @@
     },
     {
       "album": {
+        "name": "M\u00e1s All\u00e1",
+        "url": "https://open.spotify.com/album/036nFxQ7ocbEdG3FjY88jO"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184200,
+      "name": "M\u00e1s All\u00e1",
+      "url": "https://open.spotify.com/track/5y9EP5baygJB9zWQl8549b"
+    },
+    {
+      "album": {
         "name": "M\u00e1s Muerto Que Vivo",
         "url": "https://open.spotify.com/album/4LwHkby3HSNOaz6NH2buDg"
       },
@@ -12907,6 +13027,36 @@
     },
     {
       "album": {
+        "name": "Nena Linda (feat. Ovi\u00f1a)",
+        "url": "https://open.spotify.com/album/3pJwEw0j6QTOtudgdMP1mt"
+      },
+      "artists": [
+        {
+          "name": "El Gudi",
+          "url": "https://open.spotify.com/artist/4bBHOk8nEyfPGCZsDEEZsB"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Tensec",
+          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
+        },
+        {
+          "name": "Ovi\u00f1a",
+          "url": "https://open.spotify.com/artist/3cJuFQQKreRtCtbQZ83Sam"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150612,
+      "name": "Nena Linda (feat. Ovi\u00f1a)",
+      "url": "https://open.spotify.com/track/6TGKIXje52nlR8IXZ2PMuc"
+    },
+    {
+      "album": {
         "name": "NEPTUNO",
         "url": "https://open.spotify.com/album/6vQLZiZwK4XctII0RdWhqg"
       },
@@ -13096,6 +13246,24 @@
       "duration_ms": 222545,
       "name": "No digas nada",
       "url": "https://open.spotify.com/track/24lqVtYdnA1NhYd37XFOPb"
+    },
+    {
+      "album": {
+        "name": "No Disponible",
+        "url": "https://open.spotify.com/album/5u5UYikRR1tFtxIgTuL8E0"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203799,
+      "name": "No Disponible",
+      "url": "https://open.spotify.com/track/7MuMzPh58s0acf0pCMowSr"
     },
     {
       "album": {
@@ -13352,7 +13520,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 157007,
       "name": "No Molestar",
       "url": "https://open.spotify.com/track/2jnJDn6efkVJ99hCQUs1Ea"
@@ -13842,7 +14010,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 161700,
       "name": "Ojitos Chiquititos",
       "url": "https://open.spotify.com/track/3Bly9WOgOmDe72tpi5tRMd"
@@ -14647,6 +14815,28 @@
     },
     {
       "album": {
+        "name": "ADN",
+        "url": "https://open.spotify.com/album/6obP0j3QiE8zclzohFE4rA"
+      },
+      "artists": [
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127759,
+      "name": "Perm\u00edteme aplaudir",
+      "url": "https://open.spotify.com/track/4MnNlhp7YJ4AZJey7Ma1Fz"
+    },
+    {
+      "album": {
         "name": "Pero Qu\u00e9 Necesidad",
         "url": "https://open.spotify.com/album/2vaIJEvfeaTJpEemwKFcpC"
       },
@@ -14722,7 +14912,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 142000,
       "name": "Perreo Saiko",
       "url": "https://open.spotify.com/track/0KNCaO7ZPTZz965SQwvYoO"
@@ -15026,6 +15216,24 @@
       "duration_ms": 241160,
       "name": "Polvo C\u00f3smico",
       "url": "https://open.spotify.com/track/5LBD1cXdT68bOVgB0MLSPC"
+    },
+    {
+      "album": {
+        "name": "Mis Tributos",
+        "url": "https://open.spotify.com/album/30JextuxXVMYWhTDuKQePj"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420400,
+      "name": "Popurr\u00ed a Luis Arcaraz",
+      "url": "https://open.spotify.com/track/3MAYyFpaHuMfgYU2Lsgxk5"
     },
     {
       "album": {
@@ -16360,7 +16568,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 125000,
       "name": "Rosita Fresita",
       "url": "https://open.spotify.com/track/2XUhIYueWwSJvgPJ5L5VNF"
@@ -18490,7 +18698,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 176382,
       "name": "todo me vale madre",
       "url": "https://open.spotify.com/track/2JXwNWEICIo5Utov8kBot1"
@@ -18599,6 +18807,28 @@
     },
     {
       "album": {
+        "name": "ADANXITO",
+        "url": "https://open.spotify.com/album/21eWhKw46cGMA9DToSAnLN"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197157,
+      "name": "TOMA",
+      "url": "https://open.spotify.com/track/4EdHTVBsgld3GU8YdaUglf"
+    },
+    {
+      "album": {
         "name": "Toma 4",
         "url": "https://open.spotify.com/album/7Il1eXMjz7OJExifvW8Vgt"
       },
@@ -18650,7 +18880,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 155076,
       "name": "Torai",
       "url": "https://open.spotify.com/track/3pqEJlyY1HOdYIq5GHB4bp"
@@ -20589,6 +20819,28 @@
     },
     {
       "album": {
+        "name": "YCQVM",
+        "url": "https://open.spotify.com/album/7KNj5SaBNlQUBX2D1gyaiz"
+      },
+      "artists": [
+        {
+          "name": "Nueva H",
+          "url": "https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183253,
+      "name": "YCQVM",
+      "url": "https://open.spotify.com/track/71bGl0FoaBGHNT0CGhVOs1"
+    },
+    {
+      "album": {
         "name": "YNTQ",
         "url": "https://open.spotify.com/album/4zzI0pJMxcMt0sh1C4Bx7r"
       },
@@ -20983,6 +21235,24 @@
     },
     {
       "album": {
+        "name": "\u00c9l",
+        "url": "https://open.spotify.com/album/0fxCR3dXs9vmyUdmMf4sJ8"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155581,
+      "name": "\u00c9l",
+      "url": "https://open.spotify.com/track/4uWMutZ5F10gRRsRo5ey3M"
+    },
+    {
+      "album": {
         "name": "As\u00ed Soy Yo",
         "url": "https://open.spotify.com/album/7I1mThh5NCgS2BqrAWcMdi"
       },
@@ -21046,6 +21316,40 @@
       "duration_ms": 164636,
       "name": "\u00d1ero Session 10",
       "url": "https://open.spotify.com/track/5toWlGl7z2wvB8lmj9Jhr9"
+    },
+    {
+      "album": {
+        "name": "\u00d1ero Session 12 (feat. El Lyric Boy & Ivy Wavy)",
+        "url": "https://open.spotify.com/album/4N7A02jltjrzaJF2FrGQpN"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Nayar",
+          "url": "https://open.spotify.com/artist/28Byb7B4Q788EWDM62Uxdq"
+        },
+        {
+          "name": "Barajas Day Time",
+          "url": "https://open.spotify.com/artist/3cQGIrhFpocmtcIasOmiq6"
+        },
+        {
+          "name": "El Lyric Boy",
+          "url": "https://open.spotify.com/artist/3tmqzNkP8p27xnC8QIO0Gb"
+        },
+        {
+          "name": "Ivy Wavy",
+          "url": "https://open.spotify.com/artist/0f1hBCKMEIIvZ5TNgChNuC"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "\u00d1ero Session 12 (feat. El Lyric Boy & Ivy Wavy)",
+      "url": "https://open.spotify.com/track/1l03GCKh35UBKwOyIppPsJ"
     },
     {
       "album": {

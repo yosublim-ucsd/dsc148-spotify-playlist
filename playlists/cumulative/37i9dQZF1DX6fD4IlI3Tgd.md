@@ -4,7 +4,7 @@
 
 > Desde México hasta Argentina, el hogar de los beats latinoamericanos\. Foto: Esteman
 
-78 songs - 4 hr 23 min
+79 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [DANCING](https://open.spotify.com/track/3ZYm4CJkAxsW623k2rlgbK) | [Guz Zanotto](https://open.spotify.com/artist/4s2oHxyGNA3QZBeWELgBJI), [Kof](https://open.spotify.com/artist/32udpvcxCMsZ86JrmFD59a), [STÖRIE MUSIC](https://open.spotify.com/artist/3QMx1pN3uOTn188FWNHVwf) | [DANCING](https://open.spotify.com/album/46NAb5G474W5PKKw8Gz9ZM) | 2:14 | 2023-08-18 |  |
 | [Dancing](https://open.spotify.com/track/4uRx9FjP15Z4Yiy6P0Z4lN) | [Guz Zanotto](https://open.spotify.com/artist/4s2oHxyGNA3QZBeWELgBJI), [Kof](https://open.spotify.com/artist/32udpvcxCMsZ86JrmFD59a), [STÖRIE MUSIC](https://open.spotify.com/artist/3QMx1pN3uOTn188FWNHVwf) | [Dancing](https://open.spotify.com/album/49q4hEuHz3TbmMpAbLm0Xb) | 2:14 | 2023-08-18 | 2024-04-19 |
 | [Don't](https://open.spotify.com/track/0kgicICgleRJFUcUlF1uk8) | [EQRIC](https://open.spotify.com/artist/1Yj7SsIEP9k7SsE1HcMBrq), [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f), [Ali Schwartz](https://open.spotify.com/artist/3CXu2xqQnt5Ey4vyWuiuFk) | [Don't](https://open.spotify.com/album/4ABrMCSWWbXuInDdNocuY8) | 2:05 | 2023-08-18 |  |
+| [Don't Go \(feat\. iris\)](https://open.spotify.com/track/5OTucOvf73XQA7zE1eXqmk) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9), [iris](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [Todo Pasa](https://open.spotify.com/album/7rtDADdDS7XrS1Marw8gPb) | 3:20 | 2024-06-14 |  |
 | [Drop It \(feat\. LUISAH\)](https://open.spotify.com/track/6SK5X1cj2G3vFNb7iTmLfV) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1), [LUISAH](https://open.spotify.com/artist/2jbmRtqNLORtXQWb8s9RFG) | [Drop It \(feat\. LUISAH\)](https://open.spotify.com/album/7ouqlLsz812M3nTRAv9NYM) | 2:05 | 2023-08-18 |  |
 | [Duelo](https://open.spotify.com/track/13SAsdOfHiAOVBMe8BPvl0) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Duelo](https://open.spotify.com/album/3N64tqWl6k6SoNsXyBdvvz) | 3:01 | 2023-08-18 | 2024-05-11 |
 | [DUKKE](https://open.spotify.com/track/11O9yw4Gpb5wU1rifpydJY) | [Marco Acevedo](https://open.spotify.com/artist/7ya73VVTnzfSHrQnGq9WiC), [Sevensito](https://open.spotify.com/artist/3u9YbhHMsajWonQjI6a2oO), [Los Jaycobz](https://open.spotify.com/artist/0S5cWKgY3Y63IbykHSqPgN) | [DUKKE](https://open.spotify.com/album/6ybxYARmSJiSOeQkIfmiF1) | 2:50 | 2023-08-18 |  |
@@ -37,7 +38,7 @@
 | [Esta Vida](https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Esta Vida](https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL) | 3:29 | 2023-08-18 |  |
 | [Feel This Way](https://open.spotify.com/track/4agUkSkSCmHLMmOfcAnZuN) | [Enkode](https://open.spotify.com/artist/5OsTZlODtkuY6VgcRSBBee) | [Feel This Way](https://open.spotify.com/album/43rxxp3huVJbLUMBhNM23y) | 2:54 | 2023-08-18 |  |
 | [Gute Vibes](https://open.spotify.com/track/0EJPwbfyWtmXV2xHm3G54W) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Gute Vibes](https://open.spotify.com/album/6eTkqtPvK4rZ0Z9LspfknU) | 3:41 | 2023-08-18 | 2024-04-19 |
-| [Gute Vibes](https://open.spotify.com/track/3ptSyxnc2D8ltv9UJW2NUX) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Gute Vibes](https://open.spotify.com/album/1lsS5tap0Fg4P8RSU2lGlo) | 3:41 | 2023-08-18 |  |
+| [Gute Vibes](https://open.spotify.com/track/3ptSyxnc2D8ltv9UJW2NUX) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Gute Vibes](https://open.spotify.com/album/1lsS5tap0Fg4P8RSU2lGlo) | 3:41 | 2023-08-18 | 2024-06-15 |
 | [Habanera](https://open.spotify.com/track/2F1ppuYwY0sNjjJMPL90aL) | [Beowülf](https://open.spotify.com/artist/4H1rPQHJFk09XbKGYszUe2), [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1) | [Habanera](https://open.spotify.com/album/3gKNp9a3iGKczsCql5UyYq) | 2:23 | 2023-08-18 |  |
 | [Habanera](https://open.spotify.com/track/4EMv0ZrcBx2GnLfUz9o4kb) | [Beowülf](https://open.spotify.com/artist/4H1rPQHJFk09XbKGYszUe2), [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1) | [Habanera](https://open.spotify.com/album/7fc95MhJV8ddQjnRbV31xh) | 2:23 | 2023-08-18 | 2024-04-19 |
 | [Hanging Tree](https://open.spotify.com/track/5cZvvqthQVJCRXccaTIi6K) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [HAWK.](https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft), [Erjona Sylejmani](https://open.spotify.com/artist/4hPIBZfAdFw7xbOJodijWv) | [Hanging Tree](https://open.spotify.com/album/1xBRANluuhfC5N5RsPUI3I) | 2:32 | 2023-08-18 |  |

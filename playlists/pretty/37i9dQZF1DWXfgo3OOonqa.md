@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > Håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,753 likes - 100 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,838 likes - 100 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 37 | [Två världar](https://open.spotify.com/track/2DSv6pjsKKwZb1XNXzHXqF) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [TVÅ VÄRLDAR](https://open.spotify.com/album/53o4sbg9t3jI1iZP5ovCLD) | 2:23 |
 | 38 | [Säg mig](https://open.spotify.com/track/2mxYgtqahQOW5uEuI1QP05) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Xpensive](https://open.spotify.com/artist/2mKw2kl0Hhw8caVt0msuwe) | [Säg mig](https://open.spotify.com/album/27vct3nvNm5JaoUMrbasgq) | 2:06 |
 | 39 | [Som oss](https://open.spotify.com/track/3dtH2Zip9yEyXe57AwdBcF) | [FGZ](https://open.spotify.com/artist/4Si6O7X4gvXWjVF2yYzORs) | [Som oss](https://open.spotify.com/album/357rPJDdkwcFC5uEBrAX1A) | 2:43 |
-| 40 | [Down Bad: /](https://open.spotify.com/track/3NGHi9C807btyUCW5VYsaA) | [L1NA](https://open.spotify.com/artist/62oPQvptWCPp2UCsqYwcIf) | [Down Bad: /](https://open.spotify.com/album/246kS4D8OhZ15JdydJavRa) | 2:32 |
+| 40 | [Down Bad :/](https://open.spotify.com/track/3NGHi9C807btyUCW5VYsaA) | [L1NA](https://open.spotify.com/artist/62oPQvptWCPp2UCsqYwcIf) | [Down Bad :/](https://open.spotify.com/album/246kS4D8OhZ15JdydJavRa) | 2:32 |
 | 41 | [2LURAR](https://open.spotify.com/track/3lq5TnpcGvBz7bMuz4gKBa) | [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8) | [2LURAR](https://open.spotify.com/album/5GZiOiaizPMM0oSdugraeM) | 2:25 |
 | 42 | [MAJMOON](https://open.spotify.com/track/5xQpRSKQinxyZWhVvOjP4o) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT), [Ceasar DD](https://open.spotify.com/artist/2b9daIUUiOJEbStrT2chg4) | [VITA LÖGNER & SVARTA FÅR](https://open.spotify.com/album/40TEqSA15na0dmt0srlLvZ) | 2:04 |
 | 43 | [Super Saiyan \(INTRO\)](https://open.spotify.com/track/40aFenY5oOjQswHDMMuryU) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [Super Saiyan \(INTRO\)](https://open.spotify.com/album/12DrmUJloENw9G8tE5TcPU) | 1:46 |

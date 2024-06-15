@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: may-june 2024 (previous playlists archived on my profile)",
-  "num_followers": 19892,
+  "num_followers": 19900,
   "original_name": "impressive\u2026 but true!",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAKmPJTfR2j3ZNh73FeXsr5IXy4bRKs",
+  "snapshot_id": "AAAKmm/fjiFLqgK++su4Np55oz0PfEPM",
   "tracks": [
     {
       "added_at": "2024-05-16 01:01:16",
@@ -779,6 +779,38 @@
       "duration_ms": 342173,
       "name": "Good For Me",
       "url": "https://open.spotify.com/track/0la9WOK8JlpmfDEJiFsVCl"
+    },
+    {
+      "added_at": "2024-06-14 03:15:29",
+      "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 151739,
+      "name": "Apple",
+      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
+    },
+    {
+      "added_at": "2024-06-14 03:15:34",
+      "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 189410,
+      "name": "Mean girls",
+      "url": "https://open.spotify.com/track/1qKCO2Tocwg8CbepJ9uDtd"
     }
   ],
   "unique_name": "impressive\u2026 but true!",

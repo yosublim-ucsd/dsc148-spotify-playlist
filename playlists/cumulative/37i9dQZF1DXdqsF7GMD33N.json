@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-08",
-  "description": "Belt it out. Cover: Alex Newell in Shucked",
+  "description": "Belt it out. Cover: Nichelle Lewis in The Wiz",
   "name": "Broadway Belts",
   "tracks": [
     {
@@ -628,6 +628,28 @@
       "duration_ms": 230720,
       "name": "Home",
       "url": "https://open.spotify.com/track/4PRhg1fcYMevprYDkVqweI"
+    },
+    {
+      "album": {
+        "name": "THE WIZ (2024 Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/38VgKI3hE2ow4FcJqNiH8E"
+      },
+      "artists": [
+        {
+          "name": "THE WIZ Cast",
+          "url": "https://open.spotify.com/artist/0J4zCN8sPmKkNxtAPaHqZR"
+        },
+        {
+          "name": "Nichelle Lewis",
+          "url": "https://open.spotify.com/artist/7frhHBMTNfvx3TUkWpUwi7"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210188,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/7MtRvT1A0EvlgxAwcQyjCT"
     },
     {
       "album": {
@@ -1400,6 +1422,60 @@
       "duration_ms": 208066,
       "name": "Suddenly, Seymour - 1982 Original Cast",
       "url": "https://open.spotify.com/track/4SVzZGlbBWlT1oOfwWTwbQ"
+    },
+    {
+      "album": {
+        "name": "The Gershwins' Porgy and Bess: New Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/3ZOOWaYSagUYPLUrUiHXeI"
+      },
+      "artists": [
+        {
+          "name": "Audra McDonald",
+          "url": "https://open.spotify.com/artist/7F6surn3OpdyOzupSawyli"
+        },
+        {
+          "name": "Norm Lewis",
+          "url": "https://open.spotify.com/artist/7dHUb3yBmLZdtX3zsjHOgQ"
+        },
+        {
+          "name": "David Alan Grier",
+          "url": "https://open.spotify.com/artist/5aDJFTPB7JCC9T785IH2Fy"
+        },
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "DuBose Heyward",
+          "url": "https://open.spotify.com/artist/2x5eLqRtwnCXFUALSsEitt"
+        },
+        {
+          "name": "Ira Gershwin",
+          "url": "https://open.spotify.com/artist/6Yd6jR0AcWlI8JjJ954IDV"
+        },
+        {
+          "name": "Nikki Renee Daniels",
+          "url": "https://open.spotify.com/artist/04MXoRrrJOmpF0kUe7H5WB"
+        },
+        {
+          "name": "Joshua Henry",
+          "url": "https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE"
+        },
+        {
+          "name": "NaTasha Yvette Williams",
+          "url": "https://open.spotify.com/artist/53sTxOQ5mNoqYdxO1heLUk"
+        },
+        {
+          "name": "Company",
+          "url": "https://open.spotify.com/artist/5bse9w1FhvHOjwC110JLe5"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160866,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/0arVlckuBfhldjm520mDnD"
     },
     {
       "album": {

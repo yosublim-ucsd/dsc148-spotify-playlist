@@ -1,12 +1,12 @@
 {
   "description": "all the stutter, all the feels. ",
-  "num_followers": 71223,
+  "num_followers": 71376,
   "original_name": "Emotional Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmtr4AAAAAAH98QAFUAMRfnzSKM6ccAP",
+  "snapshot_id": "Zmv0+gAAAAB7vxCQyzEL6Xn+SYts7J7N",
   "tracks": [
     {
       "added_at": "2024-06-13 22:00:00",
@@ -131,6 +131,30 @@
       "duration_ms": 159008,
       "name": "Hello - Super Edit",
       "url": "https://open.spotify.com/track/5njyNzmpj3PmiQNllomp6C"
+    },
+    {
+      "added_at": "2024-06-14 07:44:58",
+      "album": {
+        "name": "All About U",
+        "url": "https://open.spotify.com/album/3GOajZbHdHZdLYsmyPozvO"
+      },
+      "artists": [
+        {
+          "name": "Longo",
+          "url": "https://open.spotify.com/artist/6myydsPHqq4xmZD7DWzRjI"
+        },
+        {
+          "name": "Marco Lollis",
+          "url": "https://open.spotify.com/artist/1gjNDmsEJhBAftfWPXIBzI"
+        },
+        {
+          "name": "Martina Corona",
+          "url": "https://open.spotify.com/artist/58tyddZEZ2XcaKSmTV19aA"
+        }
+      ],
+      "duration_ms": 186662,
+      "name": "All About U",
+      "url": "https://open.spotify.com/track/6fb4twyNs3gQ0nDnkuRBwH"
     },
     {
       "added_at": "2024-06-13 22:00:00",

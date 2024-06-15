@@ -1,12 +1,12 @@
 {
   "description": "This is Angelique Kidjo. The essential tracks, all in one playlist.",
-  "num_followers": 14120,
+  "num_followers": 14119,
   "original_name": "This Is Angelique Kidjo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjlAAAAAAAWGNetDXvSFix8Jw/J04tF",
+  "snapshot_id": "Zmo2gAAAAABHItkG1Ju1rbW/VMll6qhS",
   "tracks": [
     {
       "added_at": null,
@@ -559,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Black Ivory Soul",
+        "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 212666,
+      "name": "Bahia",
+      "url": "https://open.spotify.com/track/0FBELKNPRyQZ5XDG2V5vgI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Keep Rising (The Woman King)",
         "url": "https://open.spotify.com/album/1ekbLXEL0o8JQT9yX8piWJ"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 194164,
       "name": "Keep Rising - The Woman King",
       "url": "https://open.spotify.com/track/7iWpBQjJWsJJfm3g8GFi7I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Ivory Soul",
-        "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 212666,
-      "name": "Bahia",
-      "url": "https://open.spotify.com/track/0FBELKNPRyQZ5XDG2V5vgI"
     },
     {
       "added_at": null,
@@ -671,6 +671,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quanto Mais Curtido Melhor",
+        "url": "https://open.spotify.com/album/0t1qknrBjG99Kilu1ToPpX"
+      },
+      "artists": [
+        {
+          "name": "Cidade Negra",
+          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 255600,
+      "name": "Ponto De Muta\u00e7\u00e3o (feat. Ang\u00e9lique Kidjo)",
+      "url": "https://open.spotify.com/track/7sa4rCcv09YGHO0zxirayB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Evil Genius",
         "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
       },
@@ -691,22 +711,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quanto Mais Curtido Melhor",
-        "url": "https://open.spotify.com/album/0t1qknrBjG99Kilu1ToPpX"
+        "name": "Djin Djin",
+        "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
       },
       "artists": [
         {
-          "name": "Cidade Negra",
-          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
-        },
-        {
           "name": "Angelique Kidjo",
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "Branford Marsalis",
+          "url": "https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH"
         }
       ],
-      "duration_ms": 255600,
-      "name": "Ponto De Muta\u00e7\u00e3o (feat. Ang\u00e9lique Kidjo)",
-      "url": "https://open.spotify.com/track/7sa4rCcv09YGHO0zxirayB"
+      "duration_ms": 258226,
+      "name": "Djin Djin",
+      "url": "https://open.spotify.com/track/5N1mTgADSRUVGo7CAin1qc"
     },
     {
       "added_at": null,
@@ -803,6 +827,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aida",
+        "url": "https://open.spotify.com/album/0SzuhEBT55ECyG1Pur6xIp"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 312093,
+      "name": "Easy As Life",
+      "url": "https://open.spotify.com/track/3XZfPLynSWvy4RopQIuTkM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "So Calypso !",
         "url": "https://open.spotify.com/album/0Cr6LMHp2MfIaAB9wcsbzX"
       },
@@ -843,26 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aida",
-        "url": "https://open.spotify.com/album/0SzuhEBT55ECyG1Pur6xIp"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 312093,
-      "name": "Easy As Life",
-      "url": "https://open.spotify.com/track/3XZfPLynSWvy4RopQIuTkM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Logozo",
         "url": "https://open.spotify.com/album/1zQ3u7t7FV8nQDg0LMN5pw"
       },
@@ -875,22 +899,6 @@
       "duration_ms": 113400,
       "name": "Senie",
       "url": "https://open.spotify.com/track/4q8o0Ri8QDQ1dQ7QL7VYul"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fifa",
-        "url": "https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 237666,
-      "name": "Fifa",
-      "url": "https://open.spotify.com/track/35NQTarBzSMdsGKkGqUOy4"
     },
     {
       "added_at": null,
@@ -939,8 +947,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remain in Light",
-        "url": "https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn"
+        "name": "Fifa",
+        "url": "https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm"
       },
       "artists": [
         {
@@ -948,9 +956,9 @@
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         }
       ],
-      "duration_ms": 328813,
-      "name": "Crosseyed and Painless",
-      "url": "https://open.spotify.com/track/4Mv2cCZWORGFV6rbiRCWZX"
+      "duration_ms": 237666,
+      "name": "Fifa",
+      "url": "https://open.spotify.com/track/35NQTarBzSMdsGKkGqUOy4"
     },
     {
       "added_at": null,
@@ -979,6 +987,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Remain in Light",
+        "url": "https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 328813,
+      "name": "Crosseyed and Painless",
+      "url": "https://open.spotify.com/track/4Mv2cCZWORGFV6rbiRCWZX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Human Race",
         "url": "https://open.spotify.com/album/35qoT4g2wmXFzvKRrvhJ1Y"
       },
@@ -995,6 +1019,22 @@
       "duration_ms": 305986,
       "name": "Alphaman Redemption",
       "url": "https://open.spotify.com/track/32hFFOkBaxdtXUbUpkocUO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Ivory Soul",
+        "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 266933,
+      "name": "Iemanja",
+      "url": "https://open.spotify.com/track/6G4KjSrcdbzrdh1SOMBXZ0"
     },
     {
       "added_at": null,
@@ -1019,22 +1059,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Ivory Soul",
-        "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 266933,
-      "name": "Iemanja",
-      "url": "https://open.spotify.com/track/6G4KjSrcdbzrdh1SOMBXZ0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mother Nature",
         "url": "https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5"
       },
@@ -1047,22 +1071,6 @@
       "duration_ms": 173640,
       "name": "Flying High",
       "url": "https://open.spotify.com/track/7bNc9SJKRyxkYbY0YRiMZS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oh Happy Day",
-        "url": "https://open.spotify.com/album/5JpbIBWZZOq79iipDBRtaq"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 215760,
-      "name": "Redemption Song",
-      "url": "https://open.spotify.com/track/4ADxDfrGrTw6D1slX8wUVS"
     },
     {
       "added_at": null,

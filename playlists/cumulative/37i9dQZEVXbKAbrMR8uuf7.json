@@ -5666,7 +5666,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 164705,
       "name": "C\u00farame",
       "url": "https://open.spotify.com/track/1FlL8ycld6uVDDyhV7P5FA"
@@ -8812,7 +8812,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 139728,
       "name": "Eso E",
       "url": "https://open.spotify.com/track/7f0S484NNC0QAdM7HwRGBX"
@@ -10238,7 +10238,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 131853,
       "name": "GATITAS SANDUNGUERAS VOL.1",
       "url": "https://open.spotify.com/track/6BpZpCM8d8FJnVnr1IbnFL"
@@ -10728,7 +10728,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 176285,
       "name": "Hablarte Claro",
       "url": "https://open.spotify.com/track/53CiBLUrTQXihsxwT3amvj"
@@ -12798,7 +12798,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 172264,
       "name": "La Diabla",
       "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
@@ -15666,7 +15666,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 185795,
       "name": "Mami tu te pasas",
       "url": "https://open.spotify.com/track/06X3IC7O2gLdG7p7klh0Tj"
@@ -21214,7 +21214,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-09",
+      "date_removed": null,
       "duration_ms": 186455,
       "name": "Primera Cita",
       "url": "https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF"
@@ -25488,6 +25488,24 @@
       "duration_ms": 152380,
       "name": "Sonrisa",
       "url": "https://open.spotify.com/track/3MbbbpxLOnWUCpzS6hRN4e"
+    },
+    {
+      "album": {
+        "name": "SORRY 4 THAT MUCH",
+        "url": "https://open.spotify.com/album/1kZGpaXOeB48TPT2JatjvC"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207746,
+      "name": "SORRY 4 THAT MUCH",
+      "url": "https://open.spotify.com/track/63pLfjK6FvcYJYMGwtHjd6"
     },
     {
       "album": {

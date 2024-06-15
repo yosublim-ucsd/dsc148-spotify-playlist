@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSf2RDTDayIx.md) - [plain]
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,378,470 likes - 150 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,378,848 likes - 150 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSf2RDTDayIx.md) - [plain]
 | 149 | [Straight Up Relaxin' \(feat\. Cosmo's Midnight\)](https://open.spotify.com/track/342xhiMfFuR0zXbG35VIjy) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Straight Up Relaxin' \(feat\. Cosmo's Midnight\)](https://open.spotify.com/album/2sJDqAwhkjC0FWC51EGOGd) | 4:02 |
 | 150 | [Lightning To Strike \(feat\. Nathan Nicholson\)](https://open.spotify.com/track/7l0LomcCS4l0VIn34sBhdD) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Lightning To Strike \(feat\. Nathan Nicholson\)](https://open.spotify.com/album/52jinNpRu920inhgYCHMni) | 2:58 |
 
-Snapshot ID: `ZllLQAAAAABN4QUW9E2vsLKeG7U0KqM0`
+Snapshot ID: `ZmvAQAAAAAC0/3xAK3jxxatpDnQtzL7s`

@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: Jung Kook
 
-1,069 songs - 2 day 9 hr 56 min
+1,071 songs - 2 day 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [\_WORLD](https://open.spotify.com/track/2kDrUAONMhG6CbDGBkhdrY) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [\_WORLD](https://open.spotify.com/album/63oE2Ew3Mud2Md9TXBjeKw) | 2:58 | 2022-08-25 | 2022-12-16 |
 | [A Kind Of Magic \- Coke Studio Session](https://open.spotify.com/track/3EN2OYE3pYpRN8Axxasv2u) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [A Kind Of Magic \(Coke Studio Session\)](https://open.spotify.com/album/47oy52LyIbbzC0qLKQH16Z) | 2:49 | 2022-06-07 | 2022-07-29 |
 | [A WOO!!](https://open.spotify.com/track/7DzFF9F9FK7zaBZMyEKPjn) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [A WOO!!](https://open.spotify.com/album/5hptDtgFSlWscXePYAYyio) | 3:43 | 2022-01-25 | 2022-03-23 |
+| [ABCD](https://open.spotify.com/track/53rB05bAi7JdNbUfgz72I1) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/40gIiI8skJeWU05P7FoIse) | 2:42 | 2024-06-13 |  |
 | [ABYSS](https://open.spotify.com/track/1SCLxu8le0CYCD9AmbHWMi) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [OO\-LI](https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4) | 3:52 | 2023-04-25 | 2023-05-24 |
 | [Adrenaline](https://open.spotify.com/track/5SbVAjEbm6YS9qF8m8EYGD) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [CRAVITY 1ST ALBUM PART 2 \[LIBERTY : IN OUR COSMOS\]](https://open.spotify.com/album/0fQl58pOwJpkTfVUZudzpY) | 3:14 | 2022-03-22 | 2022-06-11 |
 | [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 | 2022-08-22 | 2023-02-01 |
@@ -827,6 +828,7 @@
 | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9) | 3:30 | 2022-02-11 | 2022-05-18 |
 | [Stay This Way](https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [from our Memento Box](https://open.spotify.com/album/5HpgQwHm9jI5JcnmJqcCYo) | 3:15 | 2022-06-28 | 2022-09-07 |
 | [Stealer](https://open.spotify.com/track/6m9ZVtogbcJimt1GCcDCby) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Stealer : The treasure keeper, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5uMTcXSdeSZXaONNRuirPB) | 3:09 | 2023-04-27 | 2023-06-16 |
+| [Step](https://open.spotify.com/track/4eecTuBlb0nM4DIVTmjWPa) | [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9) | [STEP](https://open.spotify.com/album/7ouKhEyy9jcnDeg9KNnXe9) | 2:55 | 2024-06-13 |  |
 | [Step Back](https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx) | [GOT the beat](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) | [Step Back](https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk) | 3:48 | 2022-01-04 | 2022-04-29 |
 | [Sticker \- Will Not Fear Remix](https://open.spotify.com/track/1X4hW7NBxflvlNPlJnN6vQ) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH), [Will Not Fear](https://open.spotify.com/artist/3zQf6Ogadb67LzdBTHaZ0N) | [iScreaM Vol.13 : Sticker Remixes](https://open.spotify.com/album/0p4f9Nw20DLlu1cWzrToB8) | 3:24 | 2022-01-03 | 2022-02-09 |
 | [Still Life](https://open.spotify.com/track/4ba6mmxFtg8kRyqQ4PaAi4) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/0StZAtafrYrNtHULz4n3iS) | 3:08 | 2022-04-05 | 2022-07-01 |

@@ -2,9 +2,9 @@
 
 ### [New Country Hits \(Country Life\)](https://open.spotify.com/playlist/0N2psSxKwz0licgMefLKx2)
 
-> From Toronto to Nashville\- country is more than a genre, it's a lifestyle! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Thomas Rhett
+> From Toronto to Nashville\- country is more than a genre, it's a lifestyle! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Jelly Roll
 
-187 songs - 10 hr 7 min
+189 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Hold On](https://open.spotify.com/track/4wYCasaUMf0fz0ZNgrehHr) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y), [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Hold On](https://open.spotify.com/album/2aBkncK675ajfbL7AkRjiH) | 3:04 | 2023-11-03 |  |
 | [Hold On To It](https://open.spotify.com/track/5qteRK6fo4KC2DbJOP5uW6) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Standing Room Only](https://open.spotify.com/album/7JXjtz0F7VWwAboPCoyg14) | 3:11 | 2023-11-03 | 2024-03-30 |
 | [Home Less](https://open.spotify.com/track/4E6QysmamTqsumshjlibem) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Home Less](https://open.spotify.com/album/3hVyB0AKhws3fOuDa1o3z6) | 3:27 | 2024-01-19 | 2024-05-25 |
+| [I Am Not Okay](https://open.spotify.com/track/76ODTQOl0JZQbhfxs6nRV9) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [I Am Not Okay](https://open.spotify.com/album/07IZeIkEgAdjs0dSbRxn7i) | 3:17 | 2024-06-14 |  |
 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2024-05-10 |  |
 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2023-11-03 |  |
 | [I Run On Country](https://open.spotify.com/track/6vbAnq2xGOaG4p9a6wPiLE) | [The Washboard Union](https://open.spotify.com/artist/2YftJBwNPaJJMK5ORcHq8k) | [I Run On Country](https://open.spotify.com/album/6eWp5UBy7SjPcZNxQK0Ms5) | 3:08 | 2023-11-03 | 2024-01-13 |
@@ -102,6 +103,7 @@
 | [Memory Lane](https://open.spotify.com/track/5kB6WithhB8Iv08EMNmAbt) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Memory Lane](https://open.spotify.com/album/4Ih4ml34xMRc32OwssN9yw) | 2:52 | 2023-11-03 | 2023-11-11 |
 | [Messed Up As Me](https://open.spotify.com/track/4Znwf3U6xJsQrj0UveLpOx) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Messed Up As Me](https://open.spotify.com/album/6U6AwUuoxscav9cG7yQ5n9) | 3:16 | 2024-03-01 |  |
 | [Milwaukee](https://open.spotify.com/track/2hPGwgrohMaMbEvjtNrw0G) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Milwaukee](https://open.spotify.com/album/745a5QwueK2Mpmr508lN2V) | 2:59 | 2024-01-26 |  |
+| [Mind Of A Country Boy](https://open.spotify.com/track/6W0hxzuDXmRU6hQmViRaGi) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Mind Of A Country Boy](https://open.spotify.com/album/7GIq22HBQ4mKjxE2PaE5Op) | 3:16 | 2024-06-14 |  |
 | [Missin You In San Antone](https://open.spotify.com/track/4cWu9xQoWpazNSZ88OAw4d) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [Missin You In San Antone](https://open.spotify.com/album/2SRUh7z7agEMmE3AyejCGE) | 3:13 | 2023-11-03 | 2023-11-11 |
 | [Moonshines](https://open.spotify.com/track/6OOVF3wtJ6Qj2fPPHcuzj5) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Bruce County](https://open.spotify.com/album/2LtmmDRoH27B1li1RRWYvp) | 3:44 | 2024-05-24 |  |
 | [My Last Rodeo](https://open.spotify.com/track/6HumsLwKYoW6taXk0q2fy8) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 3:42 | 2023-11-03 | 2024-04-27 |

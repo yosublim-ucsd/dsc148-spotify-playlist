@@ -42,7 +42,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 139981,
       "name": "80qm",
       "url": "https://open.spotify.com/track/13Ozua7wPk2dU3NIIgJJJo"
@@ -333,6 +333,28 @@
     },
     {
       "album": {
+        "name": "Baddies",
+        "url": "https://open.spotify.com/album/5d9hiyIU2IDdzuAL24hjUn"
+      },
+      "artists": [
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138866,
+      "name": "Baddies",
+      "url": "https://open.spotify.com/track/66Bup3CXgRRl8z91EDHUIf"
+    },
+    {
+      "album": {
         "name": "BAND4BAND (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy"
       },
@@ -446,6 +468,24 @@
       "duration_ms": 176178,
       "name": "Before You Leave Me",
       "url": "https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA"
+    },
+    {
+      "album": {
+        "name": "Beifahrer",
+        "url": "https://open.spotify.com/album/6RN9pJoOiIGdDMnO1Nt1Us"
+      },
+      "artists": [
+        {
+          "name": "AYLIVA",
+          "url": "https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184413,
+      "name": "Beifahrer",
+      "url": "https://open.spotify.com/track/5sxiqHHGSVjmeg5SrLZcKA"
     },
     {
       "album": {
@@ -899,6 +939,28 @@
     },
     {
       "album": {
+        "name": "Dieser Sommer",
+        "url": "https://open.spotify.com/album/4UrGldOU6mdTG7CKlXe2Ub"
+      },
+      "artists": [
+        {
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        },
+        {
+          "name": "treamiboii",
+          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137375,
+      "name": "Dieser Sommer",
+      "url": "https://open.spotify.com/track/0Cnf2mlQavyPknr3OxzTAn"
+    },
+    {
+      "album": {
         "name": "distorted memories",
         "url": "https://open.spotify.com/album/38VmHqpsur9blTgwtjg5VF"
       },
@@ -1074,7 +1136,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 160218,
       "name": "Europapa",
       "url": "https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR"
@@ -1179,6 +1241,24 @@
     },
     {
       "album": {
+        "name": "Florenz",
+        "url": "https://open.spotify.com/album/4QzKGQFEbtq1cSeluRu2or"
+      },
+      "artists": [
+        {
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152755,
+      "name": "Florenz",
+      "url": "https://open.spotify.com/track/74vE9sxMnFuxzp4uDkrwKW"
+    },
+    {
+      "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
       },
@@ -1234,7 +1314,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 228965,
       "name": "Fortnight (feat. Post Malone)",
       "url": "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m"
@@ -1744,6 +1824,36 @@
       "duration_ms": 117957,
       "name": "Intro",
       "url": "https://open.spotify.com/track/1nkDuqTrwWjHinq4rjx0Lx"
+    },
+    {
+      "album": {
+        "name": "JUNGE BALLER",
+        "url": "https://open.spotify.com/album/573YDpCq1I93aebAWluexj"
+      },
+      "artists": [
+        {
+          "name": "6PM RECORDS",
+          "url": "https://open.spotify.com/artist/3PeXrPTDFpmBfdfBR8nDAj"
+        },
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Haaland936",
+          "url": "https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe"
+        },
+        {
+          "name": "SIRA",
+          "url": "https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130660,
+      "name": "JUNGE BALLER",
+      "url": "https://open.spotify.com/track/29vCE5UzdE8dzcJWbG2CsK"
     },
     {
       "album": {
@@ -2632,7 +2742,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 274192,
       "name": "Not Like Us",
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
@@ -2764,7 +2874,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 155905,
       "name": "Overdrive (feat. Norma Jean Martine)",
       "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
@@ -2808,6 +2918,24 @@
       "duration_ms": 230480,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
+    },
+    {
+      "album": {
+        "name": "Gl\u00fcckskind",
+        "url": "https://open.spotify.com/album/2J3En8aAFnHAT3rgsobCoI"
+      },
+      "artists": [
+        {
+          "name": "GReeeN",
+          "url": "https://open.spotify.com/artist/0t84CBqmvihsUVFme33TLd"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157135,
+      "name": "Panama",
+      "url": "https://open.spotify.com/track/3qcreqi8RaGqahtJSQDxNI"
     },
     {
       "album": {
@@ -2908,6 +3036,24 @@
       "duration_ms": 133765,
       "name": "Pistoleta",
       "url": "https://open.spotify.com/track/7ciTcePUxWjBbaouXk7Bvf"
+    },
+    {
+      "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186365,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
     },
     {
       "album": {
@@ -3128,7 +3274,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 144200,
       "name": "Riechst du das",
       "url": "https://open.spotify.com/track/51pcLHUrYjfY3bmKfPTtf8"
@@ -4108,10 +4254,32 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 228266,
       "name": "Type Shit",
       "url": "https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C"
+    },
+    {
+      "album": {
+        "name": "Unerlaubtes Fahren",
+        "url": "https://open.spotify.com/album/3OUF7tdxNaTSWh53SlnhUO"
+      },
+      "artists": [
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        },
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164768,
+      "name": "Unerlaubtes Fahren",
+      "url": "https://open.spotify.com/track/4ejrwO9tu25IOBSnnjXUlB"
     },
     {
       "album": {
@@ -4450,7 +4618,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"

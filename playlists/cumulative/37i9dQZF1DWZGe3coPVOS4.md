@@ -4,7 +4,7 @@
 
 > The perfect family party playlist \- jam packed with all your favorite KIDZ BOP hits.
 
-84 songs - 4 hr 5 min
+85 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Beautiful Things](https://open.spotify.com/track/4UwaYZvF4EhJ4y2IgKbdX2) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Beautiful Things](https://open.spotify.com/album/1DIU4TxxG760gMCxDgOQgu) | 3:00 | 2024-05-17 |  |
 | [Better Place](https://open.spotify.com/track/0Z0zuM0t5zumHKU5jplwcp) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 3:19 | 2024-01-22 |  |
 | [Blinding Lights](https://open.spotify.com/track/02nMYbIiYIzaFA3D3Bkn6W) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf) | 2:59 | 2023-06-09 |  |
+| [BONITA](https://open.spotify.com/track/2PC3p183m8iuk49KINvIWQ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [BONITA](https://open.spotify.com/album/47A9TsLtCEIHXMJMFiWC3P) | 2:34 | 2024-06-14 |  |
 | [Boy’s a liar](https://open.spotify.com/track/0vYyr5o7md0Lk13pE6Dwff) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023 Vol\. 2](https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m) | 1:59 | 2023-07-14 |  |
 | [Cake By The Ocean](https://open.spotify.com/track/3HYCbsySCw41jJj8XYcBg7) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Ultimate Playlist](https://open.spotify.com/album/0ujUpcRjoMRt06Rx1kOGuu) | 3:25 | 2023-06-09 |  |
 | [Calm Down](https://open.spotify.com/track/3uLjjx5YQJvFbkqLmqNz3v) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 3:39 | 2024-01-22 |  |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl/+4AAAAAA6q1SkvYmGrW+tbe6C4gWn",
+  "snapshot_id": "Zmx16QAAAACPy3w4mcSwLF/FQe0vDvwx",
   "tracks": [
     {
       "added_at": "2024-06-05 06:00:00",
@@ -149,6 +149,22 @@
       "url": "https://open.spotify.com/track/5WEt9MiZPNmCbhu8GOR9Kk"
     },
     {
+      "added_at": "2024-06-14 16:55:04",
+      "album": {
+        "name": "Compa\u00f1era Presidenta",
+        "url": "https://open.spotify.com/album/5F0eh6cLSaGpGvOznO3m3J"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "duration_ms": 204453,
+      "name": "Compa\u00f1era Presidenta",
+      "url": "https://open.spotify.com/track/0p8TaudvyXLcM67ORslaSH"
+    },
+    {
       "added_at": "2024-06-05 06:00:00",
       "album": {
         "name": "Solo Lo Mejor: 20 Exitos",
@@ -199,6 +215,30 @@
       "duration_ms": 266173,
       "name": "\u00c1mame Una Vez M\u00e1s",
       "url": "https://open.spotify.com/track/6TcVUedzB0NE0mg6bORhx0"
+    },
+    {
+      "added_at": "2024-06-14 16:55:04",
+      "album": {
+        "name": "Tan Bonita",
+        "url": "https://open.spotify.com/album/0FFTHBdD5AP5XkVXSdMpEP"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        },
+        {
+          "name": "Ni\u00f1a Pastori",
+          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
+        },
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "duration_ms": 197402,
+      "name": "Tan Bonita",
+      "url": "https://open.spotify.com/track/7kAiuVi660DGkT67MHVIwh"
     },
     {
       "added_at": "2024-06-05 06:00:00",

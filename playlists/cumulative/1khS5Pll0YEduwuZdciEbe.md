@@ -2,9 +2,9 @@
 
 ### [Chill Indie Music](https://open.spotify.com/playlist/1khS5Pll0YEduwuZdciEbe)
 
-> Showcasing the world of Indie; feel the vibes and enjoy the ride\. Cover: Valley
+> Showcasing the world of Indie; feel the vibes and enjoy the ride\. Cover: Mustafa
 
-153 songs - 9 hr 22 min
+155 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Call Your Mom \(with Lizzy McAlpine\)](https://open.spotify.com/track/3fKpSA5w8iqLe9sNdIDESW) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Call Your Mom \(with Lizzy McAlpine\)](https://open.spotify.com/album/2b2RIvl7kxH6XQ0A8Yejku) | 4:38 | 2023-11-03 | 2023-12-09 |
 | [Capricorn](https://open.spotify.com/track/2tKqhcDNVVKXJqllKzrecM) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Capricorn / Gen\-X Cops](https://open.spotify.com/album/3szHsSqtiYzj9UbJRgvqkv) | 4:09 | 2024-02-16 |  |
 | [carSick \(feat\. Seago\)](https://open.spotify.com/track/684n2I12xPPSTv47wOqD1t) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr), [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s) | [carSick \(feat\. Seago\)](https://open.spotify.com/album/3YVmLYyeNaBz0OlO6NrYzf) | 1:59 | 2023-11-03 | 2023-12-09 |
-| [Cinderella](https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Cinderella](https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg) | 4:03 | 2024-03-22 |  |
+| [Cinderella](https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Cinderella](https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg) | 4:03 | 2024-03-22 | 2024-06-15 |
 | [Cold Tea](https://open.spotify.com/track/597KzBs4KvD6HavNl0yiG1) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Cold Tea](https://open.spotify.com/album/7ouNonvlK1rcZey6noEvxg) | 3:55 | 2023-11-03 | 2024-05-11 |
 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 | 2023-11-03 |  |
 | [Cool Water \- Single Mix](https://open.spotify.com/track/7Ki9OmvTAsczQSJO1h99WM) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Back to Moon Beach](https://open.spotify.com/album/34ZmHgTZ7OcRCsrTqbHpSQ) | 4:31 | 2023-11-17 | 2024-02-03 |
@@ -73,6 +73,7 @@
 | [Forever](https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 4:28 | 2024-02-09 |  |
 | [Free](https://open.spotify.com/track/6k7vblX4M4TgEjPt6jLoHZ) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Free](https://open.spotify.com/album/1P2IeydghXZHVulSJLtReQ) | 3:54 | 2023-11-03 | 2024-06-08 |
 | [Frog In Boiling Water](https://open.spotify.com/track/0JAxbxS5Hd2N7g8Sd01eq3) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Frog In Boiling Water](https://open.spotify.com/album/27dLHGsqrDSWHCHvvS7m5p) | 3:57 | 2024-04-26 |  |
+| [Gaza is Calling](https://open.spotify.com/track/3ChIzdLUmq1sB9I556xwgC) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Gaza is Calling](https://open.spotify.com/album/33xs5LXJkJZDVptz8ovCcb) | 4:30 | 2024-06-14 |  |
 | [Glitter](https://open.spotify.com/track/72xrTlEvH1Je0h6sYTm6Cw) | [Eliza McLamb](https://open.spotify.com/artist/5jy9tglmQRLmTmcqz2qyUa) | [Glitter](https://open.spotify.com/album/1UO7LLwqK6gixhjlT3qZLO) | 3:06 | 2024-01-19 | 2024-06-08 |
 | [Good](https://open.spotify.com/track/4Gur4FdxkmXH8x3DCmYmz0) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [José Louis And The Paradox of Love \(Deluxe\)](https://open.spotify.com/album/5XPNisbGcTvrjvQ0jnKyxD) | 3:15 | 2023-11-03 | 2024-03-09 |
 | [Good For Now \(feat\. Lucky Daye\)](https://open.spotify.com/track/5WPYImh8k1kFyooMlSHUrq) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Good For Now](https://open.spotify.com/album/52BKuBmSjUQ1b5MMGZJhCt) | 4:01 | 2023-11-03 | 2023-12-09 |
@@ -105,6 +106,7 @@
 | [Meant](https://open.spotify.com/track/0PbXhejxq3Ih2ObOGfundH) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Meant](https://open.spotify.com/album/6AwFbp01un82gwxyAvipCi) | 3:27 | 2024-03-01 | 2024-04-27 |
 | [Mexico](https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Mexico](https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9) | 2:56 | 2024-03-15 |  |
 | [Mother Nature](https://open.spotify.com/track/3kC6EmjBbLcnv1aAsAEGPP) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Mother Nature](https://open.spotify.com/album/0wnCqHJiAp8c2XWK0yuFA1) | 3:56 | 2023-12-08 | 2024-01-13 |
+| [Motorcycle](https://open.spotify.com/track/0pJAiDG0LmZHlPuMudDvjs) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Motorcycle](https://open.spotify.com/album/7mhREQUR2GbBqPILSsKz7g) | 2:46 | 2024-06-14 |  |
 | [Music On The Radio](https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Music On The Radio](https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv) | 2:56 | 2024-06-01 |  |
 | [My Friends Are Having A Hard Time \[Feat\. Manchester Orchestra\]](https://open.spotify.com/track/19CvrnbxreRJuH9G6ZMBrd) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q), [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [My Friends Are Having A Hard Time](https://open.spotify.com/album/6QHDyA3r5IrgwQzyWlpr3h) | 3:21 | 2024-01-26 |  |
 | [Never Fucked Up Twice](https://open.spotify.com/track/7h3qZvtmI5QfBjV7ETdFOY) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q), [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Very High / Never Fucked Up Twice](https://open.spotify.com/album/4tib35VzWbmYxb9SOAqUrV) | 2:33 | 2023-12-08 | 2024-05-18 |
@@ -117,7 +119,7 @@
 | [Nothing To Declare](https://open.spotify.com/track/5FbdXtJfcXb2UB8KJNAcQM) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Nothing To Declare](https://open.spotify.com/album/7E9wJ7yAAw5UszQT80PuZ8) | 3:33 | 2024-01-12 |  |
 | [NYE \[Feat\. Suki Waterhouse\]](https://open.spotify.com/track/3qruUcemmywHKW2jQ7EV6J) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ), [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [NYE \[Feat\. Suki Waterhouse\]](https://open.spotify.com/album/1xdMTJSRqMwXYFl580FuHP) | 2:55 | 2023-11-03 | 2024-06-08 |
 | [On A Beach](https://open.spotify.com/track/6MdKxxCkNTmassiqorlX5Y) | [Hayden](https://open.spotify.com/artist/2EJpeCmBlwSNpb1GcTj1xp), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [On A Beach](https://open.spotify.com/album/0DyVOB2dfSxlmomqQoh7t6) | 4:05 | 2023-11-03 | 2023-11-11 |
-| [On Fire](https://open.spotify.com/track/1Z1lzLOYf6CuAsrbNbmdDl) | [Idaho](https://open.spotify.com/artist/5lQ9ygSr6WMqXYsG00nNNY) | [On Fire](https://open.spotify.com/album/4XcXyoxuSTavad15AaOTIp) | 3:10 | 2024-04-12 |  |
+| [On Fire](https://open.spotify.com/track/1Z1lzLOYf6CuAsrbNbmdDl) | [Idaho](https://open.spotify.com/artist/5lQ9ygSr6WMqXYsG00nNNY) | [On Fire](https://open.spotify.com/album/4XcXyoxuSTavad15AaOTIp) | 3:10 | 2024-04-12 | 2024-06-15 |
 | [Once More](https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [The Lost Petals](https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC) | 2:01 | 2023-11-03 |  |
 | [Open Up Wide](https://open.spotify.com/track/44LNUunieMGIrRqTBxINKl) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Open Up Wide](https://open.spotify.com/album/7kxOtJdmBryHK6tJR0mHpr) | 3:07 | 2023-11-03 |  |
 | [Paint My Bedroom Black](https://open.spotify.com/track/3gA9Y5RsXBUKkr1IP6v4g3) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/7xpV6gsna8TzskCRjmSxLE) | 3:49 | 2023-11-03 |  |

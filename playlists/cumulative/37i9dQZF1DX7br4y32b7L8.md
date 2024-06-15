@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-482 songs - 1 day 0 hr 26 min
+483 songs - 1 day 0 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -444,6 +444,7 @@
 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 | 2023-04-13 | 2023-07-11 |
 | [Those Eyes](https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8) | 3:40 | 2023-02-23 | 2023-04-12 |
 | [Thrill](https://open.spotify.com/track/2Nr0XHZuIGd9EwhdM3FojG) | [Dide](https://open.spotify.com/artist/29ifbSKLZbyWgfRoduS7S4) | [Thrill](https://open.spotify.com/album/6ZYo0HNaQFPlFGLZacnOXD) | 3:32 | 2023-04-20 | 2023-05-02 |
+| [Tous les garçons et les filles \- Slow](https://open.spotify.com/track/0Yg1hSAUgd2AAneReFOVzS) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Françoise Hardy \(Tous les garçons et les filles\)](https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2) | 3:07 | 2024-06-14 |  |
 | [Toverdrank](https://open.spotify.com/track/4qidbujyhAzF3C3GdxjeN5) | [BIBI](https://open.spotify.com/artist/6vT2DqeCXrQd10M8xSyfoi) | [Toverdrank](https://open.spotify.com/album/1vPQRObyL3AFozBuHiUggb) | 2:20 | 2023-09-04 | 2023-09-14 |
 | [Tragedy](https://open.spotify.com/track/6UXXeFqMBGiqjkzQzkMT3E) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Spirits Having Flown](https://open.spotify.com/album/6bddpRTD2imtFdhXqr6MKm) | 5:03 | 2024-01-31 | 2024-02-27 |
 | [Trainingspak](https://open.spotify.com/track/62bNZie9JmywI2z8AAEHeL) | [Chardy](https://open.spotify.com/artist/75TcM0uB8Oxfv6CyDzySDa) | [Trainingspak](https://open.spotify.com/album/5BillhOrRDiEiHDA9LIQrS) | 2:17 | 2023-05-24 | 2024-01-07 |

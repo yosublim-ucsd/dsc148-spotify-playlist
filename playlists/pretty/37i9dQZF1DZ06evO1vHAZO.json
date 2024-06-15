@@ -1,12 +1,12 @@
 {
   "description": "This is Oasis. The essential tracks, all in one playlist.",
-  "num_followers": 965306,
+  "num_followers": 965546,
   "original_name": "This Is Oasis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjlAAAAAAC7LC5Kw+3wLDVyFDfSrgE+",
+  "snapshot_id": "Zmo2gAAAAADU0dDfMC+Uf0kEfbn6F5na",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 267333,
       "name": "Half The World Away - Remastered",
       "url": "https://open.spotify.com/track/0if8wueNrAVLfwSH7l1ANJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Columbia (Sawmills Outtake)",
+        "url": "https://open.spotify.com/album/38uIcT5xt5iECIYM33vRfK"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 437502,
+      "name": "Columbia - Sawmills Outtake",
+      "url": "https://open.spotify.com/track/7C2nz2EEB7pvqUbWFdZk3g"
     },
     {
       "added_at": null,
@@ -679,6 +695,22 @@
       "duration_ms": 310251,
       "name": "My Big Mouth (Live at Knebworth, 10 August '96)",
       "url": "https://open.spotify.com/track/7rkqDEXEdL0zg9B7IDakLF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dig Out Your Soul",
+        "url": "https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 280413,
+      "name": "Bag It Up",
+      "url": "https://open.spotify.com/track/2Sr49PY1vTWFQ8gqMMq0gr"
     },
     {
       "added_at": null,

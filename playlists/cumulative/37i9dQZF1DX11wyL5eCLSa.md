@@ -2,14 +2,14 @@
 
 ### [EL ROCK NO HA MUERTO](https://open.spotify.com/playlist/37i9dQZF1DX11wyL5eCLSa)
 
-> Sangre fresca en las escenas del indie y el rock\. Odisseo en Portada.
+> Sangre fresca en las escenas del indie y el rock\. Vondré en Portada.
 
-453 songs - 1 day 3 hr 2 min
+455 songs - 1 day 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [00:00](https://open.spotify.com/track/1o1O7nDie7zzsdHKZxhgQD) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [00:00](https://open.spotify.com/album/4sN1ZUO6ZncV2XpLS0iKS8) | 3:35 | 2022-01-28 | 2023-06-24 |
-| [1001](https://open.spotify.com/track/495Lanv4CyxgmALM9II8b1) | [Orión](https://open.spotify.com/artist/1QOKIsJjvDd9sHkSj96fI3) | [1001](https://open.spotify.com/album/2exikjsZSsVaKDtuMiztlP) | 3:24 | 2024-05-31 |  |
+| [1001](https://open.spotify.com/track/495Lanv4CyxgmALM9II8b1) | [Orión](https://open.spotify.com/artist/1QOKIsJjvDd9sHkSj96fI3) | [1001](https://open.spotify.com/album/2exikjsZSsVaKDtuMiztlP) | 3:24 | 2024-05-31 | 2024-06-15 |
 | [1990](https://open.spotify.com/track/2U3iVgnEYikbslI2pZEEHp) | [Los Dynamite](https://open.spotify.com/artist/1GKdmNdhZtLT9oCmtAEFL9) | [1990](https://open.spotify.com/album/6y8BQ6Ba9N4FArTZOY1Kcq) | 3:20 | 2022-11-25 | 2023-07-01 |
 | [23 Semanas](https://open.spotify.com/track/1mOuJDPc5XPkRhHOZzjS4E) | [Cala Vento](https://open.spotify.com/artist/6QpQ7WsYLIpTV3yRa0fJo1) | [Casa Linda](https://open.spotify.com/album/6yRF2m9LIBM3ZentxD3TR1) | 3:46 | 2023-06-23 | 2023-07-08 |
 | [23 Semanas](https://open.spotify.com/track/44GAyaBEKv03WwJxwOitTj) | [Cala Vento](https://open.spotify.com/artist/6QpQ7WsYLIpTV3yRa0fJo1) | [23 Semanas](https://open.spotify.com/album/3OmbafBrbyqJN5PpL5b3xi) | 3:46 | 2023-04-07 | 2023-04-15 |
@@ -77,6 +77,7 @@
 | [Comida](https://open.spotify.com/track/5uJC0Bx0EO5Mrk9n2NDKJa) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Johnny Hooker](https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs) | [Comida](https://open.spotify.com/album/5rLbX2cgrwy8c7ZpDnTBIJ) | 3:39 | 2023-02-10 | 2023-02-18 |
 | [Como Gelatina de Limon](https://open.spotify.com/track/4DtmjMhj8BVtwyMo7Yw8I1) | [Almirante Ackbar](https://open.spotify.com/artist/2zDkWvzvjkJttnydwEzY7U) | [El Ruido Hecho por la Gente](https://open.spotify.com/album/47uFOMz79sGxUe6fJIu4GH) | 3:12 | 2023-03-17 | 2023-03-25 |
 | [como me encanta](https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [como me encanta](https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE) | 5:21 | 2022-06-02 |  |
+| [Como Queremos](https://open.spotify.com/track/0Zcd8XxgKeRNQAUIpsHr7c) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Miel de Azar](https://open.spotify.com/album/1qpILF6cHlPJzUOvZfdIma) | 3:12 | 2024-06-14 |  |
 | [Como Tú](https://open.spotify.com/track/7BuDf00x8RNcMTlNaxE70f) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [ECOS](https://open.spotify.com/album/49Qd6nYCgc2ra4E3TJHEty) | 3:13 | 2022-07-01 |  |
 | [Como Tú \(Magic Music Box\)](https://open.spotify.com/track/0E8qIw6KblOtDQYzzHQrxL) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/6XMk5rlnvEtbOUhUlIGl0R) | 3:52 | 2021-12-17 | 2024-06-08 |
 | [Como Tú \(Magic Music Box\)](https://open.spotify.com/track/0GWkuPr946cYbOMRkrbw4e) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Rock en español](https://open.spotify.com/album/3bmuv7OI4asKzdF3T4zWsx) | 3:52 | 2022-07-22 | 2024-04-19 |
@@ -224,7 +225,7 @@
 | [Llama Gemela](https://open.spotify.com/track/7e2WTOAzufu1MSIkWd0NAH) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Llama Gemela](https://open.spotify.com/album/43Qy4AahGmqtaH3166U8lz) | 3:27 | 2023-02-24 |  |
 | [Lluvia de Fuego](https://open.spotify.com/track/0xcGGpruM3gbxMtZjyWp1E) | [Leonardo de Lozanne](https://open.spotify.com/artist/0tJ0fqnovf6ASEO0Qyr03N) | [Lluvia de Fuego](https://open.spotify.com/album/1Wp3tH8FxE60ofdJWAP106) | 3:27 | 2022-04-20 | 2023-02-24 |
 | [Lo Bonito de la Muerte](https://open.spotify.com/track/2nAIfmQAygqNH6SV01bNsD) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Rizoma](https://open.spotify.com/album/51ABCq7no09mPcnuPY7kP2) | 6:22 | 2023-09-29 | 2024-03-02 |
-| [Lo dejo](https://open.spotify.com/track/2T0yb0dYi8My9xNiy9aET2) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex) | [Lo dejo](https://open.spotify.com/album/4j2vngdnmouFuKoANcvqdc) | 3:10 | 2023-07-14 |  |
+| [Lo dejo](https://open.spotify.com/track/2T0yb0dYi8My9xNiy9aET2) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex) | [Lo dejo](https://open.spotify.com/album/4j2vngdnmouFuKoANcvqdc) | 3:10 | 2023-07-14 | 2024-06-15 |
 | [Lo Mejor](https://open.spotify.com/track/5VEcvQd59L5xKySsXAbJ6h) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Lo Mejor](https://open.spotify.com/album/1eUGnfmBWoPfsNXUHQsMEL) | 4:10 | 2024-02-09 | 2024-03-09 |
 | [Lo Que Siento por Ti](https://open.spotify.com/track/6kffxPk7W0kxvc1LDE9EFt) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [Lo Que Siento por Ti](https://open.spotify.com/album/6UNzdNlomtHHP5zPjeRKnC) | 2:40 | 2023-02-24 | 2023-03-25 |
 | [LOBO HOMBRE EN PARÍS \- GRANDES ÉXITOS VERSIÓN SALVAJE](https://open.spotify.com/track/57fut1YLOHW3I3jkgMvA4l) | [La Unión](https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U) | [UNO](https://open.spotify.com/album/6UwnkS2wNG9cxx04wjmPSB) | 3:24 | 2023-03-17 | 2023-03-25 |
@@ -343,6 +344,7 @@
 | [Pronto](https://open.spotify.com/track/036ALWFM6JnbGJ7buxZ2xE) | [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [Pronto](https://open.spotify.com/album/6EfoITktkpVnCNs8VjxLNl) | 3:19 | 2023-01-27 | 2023-02-19 |
 | [Préndanse Otro](https://open.spotify.com/track/5ufFco84JPZ4HYjzDGzugJ) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Préndanse Otro](https://open.spotify.com/album/1fhg4f60Aifr6e9JT0v8Wr) | 2:14 | 2024-04-19 |  |
 | [Pulitzer](https://open.spotify.com/track/2iscOVkAkT0a51h0IAtZHf) | [Onyricats](https://open.spotify.com/artist/5jkxhCPVAKnHBSGxS9wSyn) | [Pulitzer](https://open.spotify.com/album/3PPCTscj18LHjbpuWFCvvF) | 4:23 | 2023-02-24 | 2023-03-11 |
+| [Pulpo](https://open.spotify.com/track/2VyySCdsyFL2Q0f6oiERG1) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [CORRENTADA](https://open.spotify.com/album/3yWOpyyG9Plm2O1Y7uD4Gh) | 4:31 | 2024-06-14 |  |
 | [Punk](https://open.spotify.com/track/28fb2X931nhjyCHMKbNOPt) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Punk](https://open.spotify.com/album/0ALZJahmwF0u1AReCWtiZP) | 3:13 | 2022-02-11 | 2023-06-24 |
 | [Que fue lo que Pasó](https://open.spotify.com/track/6e705fkOBUYIBAe7MVczDD) | [Genitallica](https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Que fue lo que Pasó](https://open.spotify.com/album/52lw9gZ6CxwOj0KLt5aJEW) | 3:29 | 2023-09-29 | 2023-11-18 |
 | [Quería Olvidarte](https://open.spotify.com/track/41nuVhzxlAevKkhjthnpU5) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Quería Olvidarte](https://open.spotify.com/album/1epND6FkZBn8fueQXMX32w) | 2:46 | 2023-03-10 | 2024-02-10 |

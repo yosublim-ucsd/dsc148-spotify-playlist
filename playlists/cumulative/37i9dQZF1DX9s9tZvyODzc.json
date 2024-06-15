@@ -234,7 +234,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 172120,
       "name": "atame",
       "url": "https://open.spotify.com/track/496CwTqTiS1STcigZhzUJE"
@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Arco y Flecha",
+        "url": "https://open.spotify.com/album/5TEvOwAKlHcNOqM5EUnohR"
+      },
+      "artists": [
+        {
+          "name": "Mi Amigo Invencible",
+          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163496,
+      "name": "Caballos",
+      "url": "https://open.spotify.com/track/24XhxQCrRigCd7wMEbbRaI"
+    },
+    {
+      "album": {
         "name": "Voragine",
         "url": "https://open.spotify.com/album/7IlDM4DB3KkquIIQh0KDOb"
       },
@@ -412,7 +430,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 247232,
       "name": "Canciones",
       "url": "https://open.spotify.com/track/2i53D79gcZLDF9GVp9gfap"
@@ -603,6 +621,32 @@
     },
     {
       "album": {
+        "name": "Coraz\u00f3n Extra\u00f1o",
+        "url": "https://open.spotify.com/album/6ooGDTPhDaeQPIjE99BtY5"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        },
+        {
+          "name": "Juliana Gattas",
+          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
+        },
+        {
+          "name": "Diosque",
+          "url": "https://open.spotify.com/artist/3Ib6KIEhkT9Funk4mqF4Lh"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176009,
+      "name": "Coraz\u00f3n Extra\u00f1o",
+      "url": "https://open.spotify.com/track/0xlOGGbvgC4gHQ6nYiOexk"
+    },
+    {
+      "album": {
         "name": "Uprising",
         "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
       },
@@ -686,7 +730,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 234117,
       "name": "Cuchillos y Escudos",
       "url": "https://open.spotify.com/track/4Kr7A6YCXPcsjGy4iPpOYU"
@@ -864,7 +908,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 148253,
       "name": "DUMBAI",
       "url": "https://open.spotify.com/track/0W8v6pvZhuMZJFWihE0usa"
@@ -1174,7 +1218,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-11",
+      "date_removed": null,
       "duration_ms": 145746,
       "name": "I Want To Hold Your Hand - Remastered 2015",
       "url": "https://open.spotify.com/track/4pbG9SUmWIvsROVLF0zF9s"
@@ -1258,7 +1302,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 247296,
       "name": "Insomnio",
       "url": "https://open.spotify.com/track/0soxXSBCM7CrfzF2kfAo11"
@@ -1461,6 +1505,28 @@
     },
     {
       "album": {
+        "name": "Nueve",
+        "url": "https://open.spotify.com/album/0Rv9mZr81HlTZ9UgsjhtNU"
+      },
+      "artists": [
+        {
+          "name": "Massacre",
+          "url": "https://open.spotify.com/artist/0UAAJKwQZz8jVDoVtly8NA"
+        },
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279266,
+      "name": "La M\u00e1quina Del Tiempo",
+      "url": "https://open.spotify.com/track/6OrJEoztUAkM4AR27eCLNE"
+    },
+    {
+      "album": {
         "name": "Honestidad Brutal",
         "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
       },
@@ -1656,7 +1722,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 316426,
       "name": "Luna de Miel en la Mano",
       "url": "https://open.spotify.com/track/1qWLCuCnNcQVVzJm4pu7Zv"
@@ -1816,7 +1882,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 237605,
       "name": "Mi peor enemigo",
       "url": "https://open.spotify.com/track/2icnkjMudyHcjCHbxvYo2l"
@@ -1856,6 +1922,24 @@
       "duration_ms": 233046,
       "name": "MORFEO",
       "url": "https://open.spotify.com/track/44fsHeGMWo6WgucLYeyONa"
+    },
+    {
+      "album": {
+        "name": "Nicol\u00e1s Cage",
+        "url": "https://open.spotify.com/album/2r08YHQj8C5sMCexnqfsDe"
+      },
+      "artists": [
+        {
+          "name": "Alan Sutton y las criaturitas de la ansiedad",
+          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210788,
+      "name": "Nicol\u00e1s Cage",
+      "url": "https://open.spotify.com/track/5KRXGRFDEBA7ukH5MUTQH1"
     },
     {
       "album": {
@@ -1944,6 +2028,24 @@
       "duration_ms": 190040,
       "name": "Nuevo dios",
       "url": "https://open.spotify.com/track/6KT80Si141C2FsQszF11rU"
+    },
+    {
+      "album": {
+        "name": "Nunca Lo Olvides",
+        "url": "https://open.spotify.com/album/6ZDbOUt4FRdFgQEbhJyFui"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299810,
+      "name": "Nunca Lo Olvides",
+      "url": "https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV"
     },
     {
       "album": {
@@ -2103,6 +2205,24 @@
     },
     {
       "album": {
+        "name": "CORRENTADA",
+        "url": "https://open.spotify.com/album/3yWOpyyG9Plm2O1Y7uD4Gh"
+      },
+      "artists": [
+        {
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271237,
+      "name": "Pulpo",
+      "url": "https://open.spotify.com/track/2VyySCdsyFL2Q0f6oiERG1"
+    },
+    {
+      "album": {
         "name": "Put Your Records On",
         "url": "https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7"
       },
@@ -2136,7 +2256,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 263130,
       "name": "QUEMAR\u00c1S",
       "url": "https://open.spotify.com/track/43WrAH7AnSucEvN7HGW0BF"
@@ -2248,7 +2368,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 197533,
       "name": "Seguir\u00e9 Buscando",
       "url": "https://open.spotify.com/track/4YVmGtvfrSfoDoHzP3lmq5"
@@ -2364,7 +2484,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 175907,
       "name": "Sobre el Pucho",
       "url": "https://open.spotify.com/track/2CYGePudDA5E4RMiXH7e05"
@@ -2836,6 +2956,24 @@
       "duration_ms": 197706,
       "name": "Uptown Girl",
       "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
+    },
+    {
+      "album": {
+        "name": "Vulnerable",
+        "url": "https://open.spotify.com/album/1fLDwkdNXMFKjEdvI1rAap"
+      },
+      "artists": [
+        {
+          "name": "Gauchito Club",
+          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238612,
+      "name": "Vulnerable",
+      "url": "https://open.spotify.com/track/4Smf2SlfBKvBztC7WLRIn3"
     },
     {
       "album": {

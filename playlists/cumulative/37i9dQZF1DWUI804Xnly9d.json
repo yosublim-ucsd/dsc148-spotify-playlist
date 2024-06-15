@@ -5549,6 +5549,28 @@
     },
     {
       "album": {
+        "name": "Savera",
+        "url": "https://open.spotify.com/album/3JEj0JqpBIbAiIJ3SyADpd"
+      },
+      "artists": [
+        {
+          "name": "Iqlipse Nova",
+          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
+        },
+        {
+          "name": "Anubha Bajaj",
+          "url": "https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143472,
+      "name": "Savera",
+      "url": "https://open.spotify.com/track/4XA2TXEycTQL3xhPV7L2kt"
+    },
+    {
+      "album": {
         "name": "Shaam O Seher",
         "url": "https://open.spotify.com/album/2xHtltGELNqIsy4agezGGA"
       },
@@ -7038,7 +7060,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 235875,
       "name": "Yeh Shaam - Piano Version",
       "url": "https://open.spotify.com/track/74JiXrwafiTo4W1IH9ZvY7"

@@ -2,7 +2,7 @@
 
 ### [This Is Alan Walker](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4rvWRa)
 
-> This is Alan Walker\. Todos os maiores hits em uma só playlist.
+> This is Alan Walker\. The essential tracks, all in one playlist.
 
 77 songs - 3 hr 38 min
 
@@ -29,7 +29,7 @@
 | [Don't You Hold Me Down](https://open.spotify.com/track/0d1ujEcFwTqA4kWliTSJim) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Don't You Hold Me Down](https://open.spotify.com/album/5KQgg5bFgzVeQeZ0E4mxSQ) | 2:12 | 2023-06-18 |  |
 | [Dreamer](https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Dreamer](https://open.spotify.com/album/2lqGGudTqfh9zLgx0CWiSU) | 2:35 | 2023-06-18 |  |
 | [End of Time](https://open.spotify.com/track/67O8CWXxPsfz8orZVGMQwf) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ahrix](https://open.spotify.com/artist/0kXCdaJ7C5MD27jXxzvHsa) | [End of Time](https://open.spotify.com/album/03tk4zBML1lvnm5xrjnJFl) | 3:07 | 2023-06-18 |  |
-| [Endless Summer](https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Endless Summer](https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE) | 3:07 | 2023-07-15 |  |
+| [Endless Summer](https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Endless Summer](https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE) | 3:07 | 2023-07-15 | 2024-06-15 |
 | [Endless Summer \(MEDUN Remix\)](https://open.spotify.com/track/2btTWPY98Y0dQz4pTT4Nml) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [MEDUN](https://open.spotify.com/artist/31iEFric0QtZxWkPMWCIqM) | [Endless Summer \(MEDUN Remix\)](https://open.spotify.com/album/6UXZxxwTWA3KGnuU0mrxiG) | 3:28 | 2023-08-27 | 2023-09-26 |
 | [Extremes](https://open.spotify.com/track/5nkkVqGi9YgFOwdbn4BYFM) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Extremes](https://open.spotify.com/album/7h1PPe6YeLHGSu9gLRzQLj) | 2:29 | 2023-06-18 | 2023-12-14 |
 | [Faded](https://open.spotify.com/track/698ItKASDavgwZ3WjaWjtz) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Different World](https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0) | 3:32 | 2023-06-18 |  |
@@ -73,7 +73,7 @@
 | [Sweet Dreams](https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Sweet Dreams](https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR) | 2:18 | 2023-06-18 |  |
 | [Team Side Feat\. RCB](https://open.spotify.com/track/4YHA0wXklru86h1N211Ywh) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Team Side Feat\. RCB](https://open.spotify.com/album/6bxJPyjZuWGRxE825Wy2wk) | 3:00 | 2024-03-24 |  |
 | [That's What I Like \- Alan Walker Remix](https://open.spotify.com/track/1KtU0WCq472KzqCXgMOxkS) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [That's What I Like \(Alan Walker Remix\)](https://open.spotify.com/album/6LD3J50OxLEQbAB8ahoj1S) | 3:15 | 2023-06-18 |  |
-| [The Drum](https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [The Drum](https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H) | 3:09 | 2023-06-19 | 2024-06-14 |
+| [The Drum](https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [The Drum](https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H) | 3:09 | 2023-06-19 |  |
 | [The Spectre](https://open.spotify.com/track/2DGa7iaidT5s0qnINlwMjJ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [The Spectre](https://open.spotify.com/album/1IKRstg3XuCuLWeCg3oaAW) | 3:13 | 2023-06-18 |  |
 | [Time \- Alan Walker Remix](https://open.spotify.com/track/5H9S7RaxxSAgY77Mb0CSPz) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Time \(Alan Walker Remix\)](https://open.spotify.com/album/6Enr9Ghbsfd3Gs9QLrj612) | 2:30 | 2023-06-18 | 2023-07-24 |
 | [Tired](https://open.spotify.com/track/3b5Li4QKDVBx1x7fQuu54a) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Tired](https://open.spotify.com/album/1q1ayQAYMOacFE2fkXbkv2) | 3:12 | 2023-06-18 |  |

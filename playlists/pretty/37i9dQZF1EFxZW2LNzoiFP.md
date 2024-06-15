@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3rXMJJovziaMDuWRKpDI6f">Gianluca Buccellati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95 likes - 215 songs - 12 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 96 likes - 215 songs - 12 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 20 | [Just Go](https://open.spotify.com/track/2szxIrlLVWJ7JRxDAGdzzc) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:06 |
 | 21 | [Sophie](https://open.spotify.com/track/6gufQS7szZfDuY0zS1bEhH) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Sophie](https://open.spotify.com/album/2eWiegJqcDd0988o8lwVBm) | 3:35 |
 | 22 | [Go Slow](https://open.spotify.com/track/4BllTeaRSd5OXUceYXwVV4) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Verde](https://open.spotify.com/album/4UgPnKsu5oqfJSaK4kkLT1) | 3:32 |
-| 23 | [Lavender](https://open.spotify.com/track/5bftrb8CIRhhCt5ufD7JUi) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Sky Is Bleeding](https://open.spotify.com/album/1Uo1xB5dmrRWnhuouxDRib) | 3:11 |
-| 24 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 |
+| 23 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 |
+| 24 | [Lavender](https://open.spotify.com/track/5bftrb8CIRhhCt5ufD7JUi) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Sky Is Bleeding](https://open.spotify.com/album/1Uo1xB5dmrRWnhuouxDRib) | 3:11 |
 | 25 | [Westside](https://open.spotify.com/track/5K1is8joaUpZJHuNkEoSfC) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [The Way He Looks](https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ) | 3:00 |
 | 26 | [When He's Done](https://open.spotify.com/track/0R5lebiWjichQMamtgyqN3) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [La Linda](https://open.spotify.com/album/6axdrDevYp68353P89wkFk) | 4:38 |
 | 27 | [Bad Things](https://open.spotify.com/track/2QMV9Kj5BFo8kjggLVHf86) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [House with a Pool](https://open.spotify.com/album/3hVVFcc2eF2BTr42BiHZqr) | 3:36 |
@@ -113,8 +113,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 103 | [White Whale](https://open.spotify.com/track/1EnfJ62qpnikJ2EWMfla3a) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Heathen](https://open.spotify.com/album/273GjRsq1JgB5lu7ptz6HQ) | 3:41 |
 | 104 | [Baby Benzing](https://open.spotify.com/track/422nNdTyp1em6ZsctFoc2B) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Aloha Soul 1](https://open.spotify.com/album/5sBtr4v8F3m4P1c06LAEc6) | 2:40 |
 | 105 | [Is It Me](https://open.spotify.com/track/7iqP2bvYybkkDM8Ulr2RNs) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 3:16 |
-| 106 | [way to record](https://open.spotify.com/track/2gJD77KkEU5RyUHl4xFdFb) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Crawl Space](https://open.spotify.com/album/0j72ioWBnqYdL0jiihyNhf) | 0:48 |
-| 107 | [Reload](https://open.spotify.com/track/7MO410RG5hwbx7MNzpDFQ0) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a), [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [London Safari II](https://open.spotify.com/album/40i9mNYIToCCPlKlKHXrZZ) | 2:05 |
+| 106 | [Reload](https://open.spotify.com/track/7MO410RG5hwbx7MNzpDFQ0) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a), [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [London Safari II](https://open.spotify.com/album/40i9mNYIToCCPlKlKHXrZZ) | 2:05 |
+| 107 | [way to record](https://open.spotify.com/track/2gJD77KkEU5RyUHl4xFdFb) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Crawl Space](https://open.spotify.com/album/0j72ioWBnqYdL0jiihyNhf) | 0:48 |
 | 108 | [Work It Out](https://open.spotify.com/track/3Ib2Zo2ekncLEPolzEvcfy) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Wake UP!](https://open.spotify.com/album/2hfCUR15idZb8Keg95B6qQ) | 4:33 |
 | 109 | [I Got You](https://open.spotify.com/track/4UZbh9hvG4koPEOsgxUg0T) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Homesick \(Deluxe\)](https://open.spotify.com/album/3hlVF7J7TrYkgo1zrUweHz) | 3:50 |
 | 110 | [Vous Venez Souvent Ici?](https://open.spotify.com/track/7Fou7tDtiyNdHybKF1cDvQ) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a) | [Vous Venez Souvent Ici?](https://open.spotify.com/album/2fpfr1uAv5ZZFsxpBQAP9M) | 2:16 |
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 214 | [L35af](https://open.spotify.com/track/4CBVNHEJSOsBEMFDcufcro) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/3NYkp0ZDr042IOtYqkYewm) | 4:07 |
 | 215 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
 
-Snapshot ID: `AbT+tAAAAACE3f8wr0+uVb2M9czPC/Ag`
+Snapshot ID: `AbUEVAAAAAAv3108Nm9P6rZP4at888v+`

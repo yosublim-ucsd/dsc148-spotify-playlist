@@ -1,13 +1,61 @@
 {
   "description": "All new, all blues. Cover: Judith Hill",
-  "num_followers": 148105,
+  "num_followers": 148133,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmKFwAAAAABAmSx18X7DAwqs60MEdSu9",
+  "snapshot_id": "ZmvAQAAAAADV41+ZznIA/+0gZFXmbxtj",
   "tracks": [
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/3HWjeQxqdhEPVyoKgGYse2"
+      },
+      "artists": [
+        {
+          "name": "Wiyaala",
+          "url": "https://open.spotify.com/artist/0Ttf480Uumk6ylOAokG2h7"
+        }
+      ],
+      "duration_ms": 268923,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/5yAGJ1mWBFihXhvOJ4VYU8"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Georgia Train",
+        "url": "https://open.spotify.com/album/7qXXNB19F3dW7GvRf0Bb3R"
+      },
+      "artists": [
+        {
+          "name": "Jesse Roper",
+          "url": "https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt"
+        }
+      ],
+      "duration_ms": 185960,
+      "name": "Georgia Train",
+      "url": "https://open.spotify.com/track/3eatC9pgRqYHuR7rkU9BtS"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Stuttering On",
+        "url": "https://open.spotify.com/album/074dmQt7MgsULq32kNC4Uy"
+      },
+      "artists": [
+        {
+          "name": "Joe Marson",
+          "url": "https://open.spotify.com/artist/4nFQ7IhLVK3MsKRjhq9LKi"
+        }
+      ],
+      "duration_ms": 256941,
+      "name": "Stuttering On",
+      "url": "https://open.spotify.com/track/7cQ8RzcVQQ6fawdR8MckRP"
+    },
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
@@ -451,22 +499,6 @@
       "duration_ms": 170802,
       "name": "In This Life",
       "url": "https://open.spotify.com/track/2l9mFi4CmqaEgoctmgDi3j"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
-        "name": "Suntan Woman",
-        "url": "https://open.spotify.com/album/1Th1Fn7Cm4UiXZDOKJUazZ"
-      },
-      "artists": [
-        {
-          "name": "Jesse Roper",
-          "url": "https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt"
-        }
-      ],
-      "duration_ms": 221605,
-      "name": "Suntan Woman",
-      "url": "https://open.spotify.com/track/1OUnlmlJ6FT4PpJMAqlVyc"
     },
     {
       "added_at": "2024-02-13 18:01:41",
@@ -1607,50 +1639,6 @@
       "duration_ms": 218969,
       "name": "Barnyard Blues",
       "url": "https://open.spotify.com/track/6uHLEJBCQU5IQmjcWJcZcf"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Jumpin\u2019 For Joy",
-        "url": "https://open.spotify.com/album/1ZpY8QOPygcO1SfiApXNqR"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Hall",
-          "url": "https://open.spotify.com/artist/2LorJQEiLTxNDsJ3jVrQNi"
-        }
-      ],
-      "duration_ms": 227240,
-      "name": "Jumpin\u2019 For Joy",
-      "url": "https://open.spotify.com/track/6cruucEwiXCf6exdPLYN9n"
-    },
-    {
-      "added_at": "2022-06-24 04:02:00",
-      "album": {
-        "name": "Philadelphia Mississippi",
-        "url": "https://open.spotify.com/album/7LPvvSqf27OBr5a8Erupl3"
-      },
-      "artists": [
-        {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        },
-        {
-          "name": "Cam Kimbrough",
-          "url": "https://open.spotify.com/artist/5iAM7x8kZR3VvaO2FMDaFq"
-        },
-        {
-          "name": "Luther Dickinson",
-          "url": "https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk"
-        },
-        {
-          "name": "Chuck Treece",
-          "url": "https://open.spotify.com/artist/1eqVSNP9MMcDjki4dMIfeV"
-        }
-      ],
-      "duration_ms": 188120,
-      "name": "Lemonades (feat. Cam Kimbrough, Luther Dickinson & Chuck Treece)",
-      "url": "https://open.spotify.com/track/72jNvtgMO1NuNFu37h9019"
     },
     {
       "added_at": "2022-08-05 04:02:00",

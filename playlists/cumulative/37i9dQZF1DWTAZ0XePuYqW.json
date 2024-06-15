@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-19",
-  "description": "That's that big energy. Cover: BAMBII",
+  "description": "That's that big energy. Cover: Coco & Breezy",
   "name": "Bounce",
   "tracks": [
     {
@@ -532,6 +532,36 @@
       "duration_ms": 139325,
       "name": "Area Codes",
       "url": "https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH"
+    },
+    {
+      "album": {
+        "name": "CHUPACABRA",
+        "url": "https://open.spotify.com/album/3YUzlaFbKNUi7BmYk9MBE3"
+      },
+      "artists": [
+        {
+          "name": "JasonMartin",
+          "url": "https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn"
+        },
+        {
+          "name": "DJ Quik",
+          "url": "https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Barney Bones",
+          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155792,
+      "name": "AYO (feat. Barney Bones)",
+      "url": "https://open.spotify.com/track/0cvaZCETV0MHGNHLixgxgE"
     },
     {
       "album": {
@@ -1169,6 +1199,28 @@
     },
     {
       "album": {
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/6zRzvlanraxksqmhaDjbhP"
+      },
+      "artists": [
+        {
+          "name": "Coco & Breezy",
+          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
+        },
+        {
+          "name": "Blush'ko",
+          "url": "https://open.spotify.com/artist/2HIOco7R2mZPqBSL2SMIFw"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187518,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/66vsd3ks4Y0kfoSV6Upi8h"
+    },
+    {
+      "album": {
         "name": "CHICAGO (feat. DJ Pharris)",
         "url": "https://open.spotify.com/album/1rUN55JcLtEoLl3Xfaw37s"
       },
@@ -1630,7 +1682,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 166426,
       "name": "Dientes",
       "url": "https://open.spotify.com/track/4vAMy0dxoyoIHGuIgKqcwm"
@@ -3126,7 +3178,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 161760,
       "name": "IT GIRL",
       "url": "https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP"
@@ -4225,6 +4277,28 @@
     },
     {
       "album": {
+        "name": "No Time (feat. SadBoi)",
+        "url": "https://open.spotify.com/album/5K0QqzOKeqI504SN4wMAIe"
+      },
+      "artists": [
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        },
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171520,
+      "name": "No Time (feat. SadBoi)",
+      "url": "https://open.spotify.com/track/4NOoZeetavZyquNLaGyxXC"
+    },
+    {
+      "album": {
         "name": "Normalized",
         "url": "https://open.spotify.com/album/0tU0rNgT7Bd5Ph2gYTbt4Y"
       },
@@ -4534,7 +4608,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 159402,
       "name": "Picky (feat. Baby Tate)",
       "url": "https://open.spotify.com/track/192uOLdDgV4cNLJJ1vkLN0"
@@ -5168,7 +5242,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 341361,
       "name": "Run - Honey Dijon Remix",
       "url": "https://open.spotify.com/track/1yrnRZhC5DO1NweT1l9E53"
@@ -5900,6 +5974,32 @@
       "duration_ms": 296185,
       "name": "SWEET \u2605 HONEY \u2605 BUCKIIN'",
       "url": "https://open.spotify.com/track/7CA0mEKqEZ0WFAIlTS4uEl"
+    },
+    {
+      "album": {
+        "name": "Switch It",
+        "url": "https://open.spotify.com/album/4und1ixZx8BGcsyvk2kniU"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Cakes da Killa",
+          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
+        },
+        {
+          "name": "GAWD",
+          "url": "https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183263,
+      "name": "Switch It",
+      "url": "https://open.spotify.com/track/2bZRE5rSZL2aMZh86oaMuI"
     },
     {
       "album": {

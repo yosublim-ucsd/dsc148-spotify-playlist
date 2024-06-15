@@ -645,6 +645,28 @@
     },
     {
       "album": {
+        "name": "Av\u00edsame",
+        "url": "https://open.spotify.com/album/0DDsewH4eZDjasZLoPgWkn"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Nes",
+          "url": "https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163971,
+      "name": "Av\u00edsame",
+      "url": "https://open.spotify.com/track/55eG1F2xukyOGAkaNAG4MQ"
+    },
+    {
+      "album": {
         "name": "B de Bellako",
         "url": "https://open.spotify.com/album/0ANa1gS3FD0Kmz85rAsJMB"
       },
@@ -1808,7 +1830,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 348720,
       "name": "Coraz\u00f3n Roto pt. 3",
       "url": "https://open.spotify.com/track/0W5wp4qU6EUc1VGCp8GM74"
@@ -7085,6 +7107,28 @@
     },
     {
       "album": {
+        "name": "Polvo de tu Vida",
+        "url": "https://open.spotify.com/album/0zhd9N8ctbIgV58nd5OmGh"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172105,
+      "name": "Polvo de tu Vida",
+      "url": "https://open.spotify.com/track/4Nr31bxNazMn7t94RoSbFq"
+    },
+    {
+      "album": {
         "name": "Back To The Game",
         "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
       },
@@ -7228,7 +7272,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 208941,
       "name": "PUEBLO DE MEDALLO",
       "url": "https://open.spotify.com/track/1l66Vx6g2i50WdeH6VU658"
@@ -7458,6 +7502,28 @@
       "duration_ms": 217773,
       "name": "Qu\u00e9 M\u00e1s Pues?",
       "url": "https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e"
+    },
+    {
+      "album": {
+        "name": "Qui\u00e9n es Dei V?",
+        "url": "https://open.spotify.com/album/2i6InsyHZPR6NBFniDivF5"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Rapido (with Cris Mj)",
+      "url": "https://open.spotify.com/track/1emJPywtseFLmLCcPY92dW"
     },
     {
       "album": {
@@ -8276,7 +8342,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 137264,
       "name": "Suano",
       "url": "https://open.spotify.com/track/79OU5n2Y8jMcWgYZJ2DhAd"

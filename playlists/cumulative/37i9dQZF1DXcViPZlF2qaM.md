@@ -4,7 +4,7 @@
 
 > Abajo y a la izquierda.
 
-259 songs - 16 hr 18 min
+260 songs - 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Chango](https://open.spotify.com/track/6X2qyN9UIXitH2UtIOZ85C) | [Ska Cubano](https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF) | [Ska Cubano](https://open.spotify.com/album/1Sry0mamK4yz2Khmmtm1DA) | 3:38 | 2021-10-16 | 2022-12-14 |
 | [Chau Chau](https://open.spotify.com/track/1mLzfYBB9615JuweCqSyov) | [Chalanes del Amor](https://open.spotify.com/artist/1bRwLJQkhtCpWz5YHxPCJK) | [Zafarranchos y Aires de la Costa](https://open.spotify.com/album/4kTvoDMHSAEP2VqBdDkBJk) | 3:27 | 2021-10-16 | 2022-07-22 |
 | [Chiquillo](https://open.spotify.com/track/0wYzaN0CvLp6VOJU3eD3Ed) | [OjosPielCanela](https://open.spotify.com/artist/4r01YvuZwXl9MnMwdZWLQg) | [Chiquillo](https://open.spotify.com/album/4yOqj8XCeG28CABUBbUzLU) | 3:53 | 2022-03-19 | 2022-07-29 |
-| [Chucusteady](https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6), [Mad Professor](https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7) | [Frente Cumbiero Meets Mad Professor](https://open.spotify.com/album/1dnal49FIWH19CsWYjYMOV) | 4:23 | 2021-10-16 |  |
+| [Chucusteady](https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6), [Mad Professor](https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7) | [Frente Cumbiero Meets Mad Professor](https://open.spotify.com/album/1dnal49FIWH19CsWYjYMOV) | 4:23 | 2021-10-16 | 2024-06-15 |
 | [Cinema](https://open.spotify.com/track/5hLLjQBT8rWCcJ7LDd4Wru) | [Darío Abdala](https://open.spotify.com/artist/7CfkX18xoIBT9BAFZdh1m3) | [Cinema](https://open.spotify.com/album/0TZKZV51UMFGFRBOaZdZNc) | 2:42 | 2024-01-18 | 2024-03-22 |
 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/2ETi6XTUOuEjObLiRNmO8F) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/6HqgKz3U8TtxrwikzgEKfJ) | 3:29 | 2022-04-20 | 2022-08-10 |
 | [Clandestino](https://open.spotify.com/track/4UlW3vi9SxRbvG8hyrJ3ju) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Clandestino](https://open.spotify.com/album/6w0NI3nCd8tlgsrtF4Vd5u) | 3:01 | 2023-04-07 |  |
@@ -261,6 +261,7 @@
 | [Virgen de Guadalupe](https://open.spotify.com/track/4DpBpURKuXKwWECFwMkr7T) | [Los Peñaloza](https://open.spotify.com/artist/5HCLthv6IZFjkrhGMHKmli) | [Virgen de Guadalupe](https://open.spotify.com/album/5l1BXk01Bi8lsWqvGvoH5D) | 3:42 | 2023-10-23 | 2024-01-19 |
 | [Volver a Ti](https://open.spotify.com/track/68yyY1AqaMfKuGSRTCNrUN) | [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Volver a Ti](https://open.spotify.com/album/0HsazH0VuWelGUY4BNhj0b) | 3:56 | 2021-10-16 | 2022-07-26 |
 | [Volver Volver](https://open.spotify.com/track/1FwgtksxxfxSGDWQiU9ylO) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Flores para Frida](https://open.spotify.com/album/2RnkhkkMf3ohTkeynGNfMq) | 2:48 | 2022-03-30 | 2022-07-21 |
+| [Voy Despacito](https://open.spotify.com/track/1v6edhOXV6SxEJzKYmUVp8) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Voy Despacito](https://open.spotify.com/album/3Gzwvs7BivlrMkNld3ywjS) | 4:19 | 2024-06-14 |  |
 | [Vuelo](https://open.spotify.com/track/6AWh1dE8DE4cHabBBNuMqm) | [Marinah](https://open.spotify.com/artist/7mqFFfs8tz9ZzeWzXJvz0a), [Rocío Márquez](https://open.spotify.com/artist/0s5dS3eWWnruwMMtgn7pgQ), [Nakany Kanté](https://open.spotify.com/artist/1sEm6zWze3zrjgLNIlByeq) | [Vuelo](https://open.spotify.com/album/1nlYi9SFCFh9Br73gvkQm2) | 4:17 | 2021-10-16 | 2022-07-29 |
 | [Vuelvo A Comenzar](https://open.spotify.com/track/5wUj9rEsOX8cqpkhBJCSCD) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW) | [Cybertropic Chilango Power](https://open.spotify.com/album/5oZPMmTNAyvo2H0Yfav5en) | 4:37 | 2022-03-17 | 2022-07-28 |
 | [Wish You Were Gay \- Versión en Español \- Spotify Singles](https://open.spotify.com/track/7pRw8jLLLSlGw3Xhc7bYHK) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Spotify Singles](https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI) | 3:35 | 2021-10-16 |  |

@@ -710,13 +710,13 @@
       },
       "artists": [
         {
-          "name": "Charli XCX",
+          "name": "Charli xcx",
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 133805,
       "name": "360",
       "url": "https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U"
@@ -10231,6 +10231,28 @@
     },
     {
       "album": {
+        "name": "DREAM",
+        "url": "https://open.spotify.com/album/7mfdaG6cwzlcjce1cdoGh5"
+      },
+      "artists": [
+        {
+          "name": "Boy Destroy",
+          "url": "https://open.spotify.com/artist/0XY2aV7KJchNyv7ENP8E9g"
+        },
+        {
+          "name": "I'm Geist",
+          "url": "https://open.spotify.com/artist/3RBbPmeuOZUZK0xtR32fHy"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175789,
+      "name": "DREAM",
+      "url": "https://open.spotify.com/track/3G3v3bxo2cYUnWx1bNrT65"
+    },
+    {
+      "album": {
         "name": "Post Eternity",
         "url": "https://open.spotify.com/album/5Xj3sazRGMR15tVj5IQByy"
       },
@@ -12323,6 +12345,24 @@
     },
     {
       "album": {
+        "name": "debut3000",
+        "url": "https://open.spotify.com/album/26MR61YHUn8FHC6syTZ8no"
+      },
+      "artists": [
+        {
+          "name": "Roberta Nikita",
+          "url": "https://open.spotify.com/artist/4xetVDWWLeifmMtR9HQKbE"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128231,
+      "name": "FERRARI",
+      "url": "https://open.spotify.com/track/6ATE1hAfyR5yOmPALVJkpv"
+    },
+    {
+      "album": {
         "name": "From Fieldfare With Love",
         "url": "https://open.spotify.com/album/3cY38YkwUcHEehX3Oy7ddp"
       },
@@ -12690,6 +12730,24 @@
       "duration_ms": 155615,
       "name": "FLIGHTS",
       "url": "https://open.spotify.com/track/59W0Fs1lbbD8wsfwdihH2a"
+    },
+    {
+      "album": {
+        "name": "flip phone",
+        "url": "https://open.spotify.com/album/0Kwwg43ZAWqx7W3QO7Baww"
+      },
+      "artists": [
+        {
+          "name": "PIAO",
+          "url": "https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124553,
+      "name": "flip phone",
+      "url": "https://open.spotify.com/track/0jLYbfU5qwk4ivxrE4sZUi"
     },
     {
       "album": {
@@ -25905,6 +25963,28 @@
     },
     {
       "album": {
+        "name": "noxium",
+        "url": "https://open.spotify.com/album/2KuNckwNrg6QWn3SqHNAAx"
+      },
+      "artists": [
+        {
+          "name": "grasior",
+          "url": "https://open.spotify.com/artist/7oaXjpcBZDUaomAVAKgUly"
+        },
+        {
+          "name": "ruevi",
+          "url": "https://open.spotify.com/artist/1KE3QlAlynIZIxxUe45sjx"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202864,
+      "name": "noxium",
+      "url": "https://open.spotify.com/track/04wle9wdNnvPZudlvlPAOG"
+    },
+    {
+      "album": {
         "name": "nt22",
         "url": "https://open.spotify.com/album/3R6Jx8hDCiFAy2hXzrzYAY"
       },
@@ -36322,7 +36402,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 129761,
       "name": "The 360 remix with robyn and yung lean",
       "url": "https://open.spotify.com/track/0VYJseZYvfVP3YOsQZ1tzS"
@@ -36634,7 +36714,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 157328,
       "name": "The von dutch remix with addison rae and a.g. cook",
       "url": "https://open.spotify.com/track/1EycQzSpakKNsHgMbTMMKo"
@@ -38827,6 +38907,28 @@
     },
     {
       "album": {
+        "name": "Upgrade (CROOK's System Update)",
+        "url": "https://open.spotify.com/album/2010X4TmZW120C1jclxuDM"
+      },
+      "artists": [
+        {
+          "name": "twst",
+          "url": "https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD"
+        },
+        {
+          "name": "CROOK",
+          "url": "https://open.spotify.com/artist/2MQIOKK2Z1vaRmtnFUyyUv"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129776,
+      "name": "Upgrade (CROOK's System Update)",
+      "url": "https://open.spotify.com/track/6pINwW2mGSK0LCDv6cYHMJ"
+    },
+    {
+      "album": {
         "name": "Upper Wind",
         "url": "https://open.spotify.com/album/3FtUZu9PK1XkYjBfQIXPwh"
       },
@@ -39180,7 +39282,7 @@
       ],
       "date_added": "2021-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 193270,
       "name": "Vroom Vroom",
       "url": "https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o"
@@ -39584,6 +39686,24 @@
       "duration_ms": 178859,
       "name": "WATERGIRL",
       "url": "https://open.spotify.com/track/6yWSwYocRCCzg3LP4gJemY"
+    },
+    {
+      "album": {
+        "name": "Way Back",
+        "url": "https://open.spotify.com/album/5OpMXAZNCvc9CxGC1LD72A"
+      },
+      "artists": [
+        {
+          "name": "Tessa Dixson",
+          "url": "https://open.spotify.com/artist/7lIzEb23X68Dbt7Ka94Prh"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167755,
+      "name": "Way Back",
+      "url": "https://open.spotify.com/track/4AlZ71IlRuG5xCQY4OtPKp"
     },
     {
       "album": {

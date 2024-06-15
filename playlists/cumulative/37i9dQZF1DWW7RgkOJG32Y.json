@@ -3965,6 +3965,24 @@
     },
     {
       "album": {
+        "name": "Man on the Moon",
+        "url": "https://open.spotify.com/album/42uGNihY12UIvkV5gEJLaI"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187017,
+      "name": "Man on the Moon",
+      "url": "https://open.spotify.com/track/22UE7ARZNnAJHq1TObXLcc"
+    },
+    {
+      "album": {
         "name": "Let's Do Country Right",
         "url": "https://open.spotify.com/album/4nAKrvfd9o1TeJJTNCBU8I"
       },
@@ -4510,7 +4528,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 208759,
       "name": "No Caller ID",
       "url": "https://open.spotify.com/track/2uHgCkaiHwZKl7tDBTVsyW"
@@ -5230,7 +5248,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 237493,
       "name": "Save Me (with Lainey Wilson)",
       "url": "https://open.spotify.com/track/4Ldp4ixS1y6SinsEn44a23"
@@ -5400,6 +5418,24 @@
       "duration_ms": 173217,
       "name": "Shut the Door",
       "url": "https://open.spotify.com/track/2Qgw0F6DpMy9rs5XxlYh7U"
+    },
+    {
+      "album": {
+        "name": "SIX FEET UNDER (Caleigh\u2019s Song)",
+        "url": "https://open.spotify.com/album/443mTdceNT52OKQv2tnRN8"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191437,
+      "name": "SIX FEET UNDER (Caleigh\u2019s Song)",
+      "url": "https://open.spotify.com/track/6pWmnSmn9EqCRDb2Qg1ngj"
     },
     {
       "album": {

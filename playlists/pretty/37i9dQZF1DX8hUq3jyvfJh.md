@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Raphaela Santos e mais mulheres no volume máximo! Co\-curadoria com Raphaela Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,461 likes - 47 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,488 likes - 48 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,6 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 44 | [A Nova Eu](https://open.spotify.com/track/4YpuytpEgBHQQSoOyW4EVu) | [Andrielly Souza](https://open.spotify.com/artist/2uWWjwGR4PAdCDOmcyXO7q) | [A Nova Eu](https://open.spotify.com/album/7xQyYvtB0Ycit9srpDfHsb) | 3:02 |
 | 45 | [Primeiro Eu](https://open.spotify.com/track/47G10yf49cHf5exz459prW) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk) | [Recados pra Você](https://open.spotify.com/album/0iIdORWFds4EUo7zbUiNxF) | 3:12 |
 | 46 | [Assino com X / Do Outro Lado Da Cidade \- Ao Vivo](https://open.spotify.com/track/2PxkAKIQNYBO7RTKzhJMi5) | [Mikaely e Poliany](https://open.spotify.com/artist/4Hs8nCGN5OLyT1lIGQCkf3) | [Assino com X / Do Outro Lado Da Cidade \(Ao Vivo\)](https://open.spotify.com/album/1XVEi0YAuK5FcN4zIm03Gp) | 3:11 |
-| 47 | [Mariana \- Ao Vivo](https://open.spotify.com/track/3eBrj83CN1R7cfG8pDmUoA) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Se Joga \(Deluxe\)](https://open.spotify.com/album/18sftFYNsEQomDlRzldTIY) | 2:23 |
+| 47 | [Ondas Voltam Pro Mar](https://open.spotify.com/track/7xaseKeBTdAtb6wr5E1ANu) | [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [Ondas Voltam Pro Mar](https://open.spotify.com/album/1K36bCOMvKKesXv8CCIBVb) | 3:11 |
+| 48 | [Mariana \- Ao Vivo](https://open.spotify.com/track/3eBrj83CN1R7cfG8pDmUoA) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Se Joga \(Deluxe\)](https://open.spotify.com/album/18sftFYNsEQomDlRzldTIY) | 2:23 |
 
-Snapshot ID: `ZmmahgAAAADc0epo6ZN0oIqfHihAt3T0`
+Snapshot ID: `ZmwsZAAAAADb9KtXyJgUr14Jqq59jvY+`

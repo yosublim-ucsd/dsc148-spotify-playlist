@@ -4,7 +4,7 @@
 
 > Música groovera, for the true Funk Soldiers!
 
-136 songs - 8 hr 58 min
+137 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,8 @@
 | [Recipe](https://open.spotify.com/track/1Sdz6Kvfs1bYTK0kLRuUSz) | [Croupier Funk](https://open.spotify.com/artist/5eRF4FkmH7eLChZufSBf3p) | [Croupier Funk](https://open.spotify.com/album/2mZ9BW4pubExqAcyCEQtP1) | 4:56 | 2023-02-17 | 2024-04-19 |
 | [Resistencia](https://open.spotify.com/track/0ZF0cMx6gnYIdRkNEZ4Kdn) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Resistencia](https://open.spotify.com/album/63wXeCZv9gxTXrffLnDHmY) | 3:38 | 2023-09-07 | 2024-04-19 |
 | [Resistencia](https://open.spotify.com/track/3CDkhVrRUR1REPKi7Kft6B) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Under](https://open.spotify.com/album/6MprhJ3a5zRXj0UOF4ax5n) | 3:38 | 2023-02-17 | 2023-09-22 |
-| [Reírme Con Vos](https://open.spotify.com/track/6EUTGVABkd7ybTeaA7WStS) | [Florencia Andrada](https://open.spotify.com/artist/3Yn6NUVSA13dcEZpw79Vd2) | [Reírme Con Vos](https://open.spotify.com/album/6RV6jO5nmkuxHXndvMU6dw) | 2:57 | 2024-03-29 |  |
+| [Reírme Con Vos](https://open.spotify.com/track/6EUTGVABkd7ybTeaA7WStS) | [Florencia Andrada](https://open.spotify.com/artist/3Yn6NUVSA13dcEZpw79Vd2) | [Reírme Con Vos](https://open.spotify.com/album/6RV6jO5nmkuxHXndvMU6dw) | 2:57 | 2024-03-29 | 2024-06-15 |
+| [San Francisco Nights](https://open.spotify.com/track/761uhrvvqczdMTveo50Le4) | [C\-Funk](https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO) | [San Francisco Nights](https://open.spotify.com/album/2woY6QuO4JtwfMmSs0mKPh) | 3:30 | 2024-06-14 |  |
 | [Sapukai](https://open.spotify.com/track/6l1n78Osrf2e1WyCL1V8Cq) | [Joaquín Plada](https://open.spotify.com/artist/1dh1GlSC1Ct1EKaxAO5Y8D) | [Los Días](https://open.spotify.com/album/37PiRnmx7fmtWzM5cZrvZr) | 2:58 | 2024-01-12 |  |
 | [See you](https://open.spotify.com/track/2fWi95TFVVGrxxAiYIomnZ) | [Martín Longoni](https://open.spotify.com/artist/2jb0o40W69Jdbfq7TgyuYf), [Axel Mark](https://open.spotify.com/artist/0BxJVdQrTrAKG3x3STcevC) | [See you](https://open.spotify.com/album/3X0LmvRNjaJnlmsgcwNSXt) | 3:30 | 2024-03-29 | 2024-04-20 |
 | [Selva](https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr) | [De La Rivera](https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b) | [Selva](https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC) | 3:30 | 2023-02-17 |  |

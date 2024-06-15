@@ -1,12 +1,12 @@
 {
   "description": "This is Eminem. The essential tracks, all in one playlist.",
-  "num_followers": 3709756,
+  "num_followers": 3711830,
   "original_name": "This Is Eminem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjlAAAAAADGuBhyJequU4L+mC0gQe8l",
+  "snapshot_id": "Zmo2gAAAAAADIJKncobM8R0EQy+OP93e",
   "tracks": [
     {
       "added_at": null,
@@ -419,22 +419,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Is Yellow",
-        "url": "https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe"
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/0U6ldwLBEMkwgfQRY4V6D2"
       },
       "artists": [
         {
-          "name": "Lyrical Lemonade",
-          "url": "https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly"
-        },
-        {
           "name": "Eminem",
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 110520,
-      "name": "Doomsday Pt. 2 (with Eminem)",
-      "url": "https://open.spotify.com/track/4QbCUutUlQDSBS4mtVOuZI"
+      "duration_ms": 221013,
+      "name": "River (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/1cS0TgbR263ey9jn0MwD2s"
     },
     {
       "added_at": null,
@@ -455,22 +455,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/0U6ldwLBEMkwgfQRY4V6D2"
+        "name": "All Is Yellow",
+        "url": "https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe"
       },
       "artists": [
         {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          "name": "Lyrical Lemonade",
+          "url": "https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly"
         },
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 221013,
-      "name": "River (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/1cS0TgbR263ey9jn0MwD2s"
+      "duration_ms": 110520,
+      "name": "Doomsday Pt. 2 (with Eminem)",
+      "url": "https://open.spotify.com/track/4QbCUutUlQDSBS4mtVOuZI"
     },
     {
       "added_at": null,

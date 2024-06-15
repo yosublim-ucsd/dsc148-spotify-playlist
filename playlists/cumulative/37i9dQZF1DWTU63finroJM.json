@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Meet the future. New artists on the horizon. Cover: The Indien.",
+  "description": "Meet the future. New artists on the horizon. Cover: \u6d3e\u5049\u4fcaPatrick Brasca",
   "name": "RADAR Global ",
   "tracks": [
     {
@@ -3908,7 +3908,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 203478,
       "name": "CATENE",
       "url": "https://open.spotify.com/track/1Ro7tQgsq9qcoDdr1npPwA"
@@ -9617,6 +9617,28 @@
     },
     {
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/7ygCROw5jFHKGpdEVodz4v"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u723e\u5ba3 OSN",
+          "url": "https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE"
+        },
+        {
+          "name": "Patrick Brasca",
+          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180121,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/580BvW3DyUNoYFgQgoD2GI"
+    },
+    {
+      "album": {
         "name": "Hold You Down",
         "url": "https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0"
       },
@@ -11597,6 +11619,24 @@
     },
     {
       "album": {
+        "name": "Kahan Jaoon",
+        "url": "https://open.spotify.com/album/1VaGZUVhW2kd1sdnfn6ZIh"
+      },
+      "artists": [
+        {
+          "name": "Bayaan",
+          "url": "https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329214,
+      "name": "Kahan Jaoon",
+      "url": "https://open.spotify.com/track/3cRf9S40t4xLqQwzcHpW5G"
+    },
+    {
+      "album": {
         "name": "Kalawakan",
         "url": "https://open.spotify.com/album/6YqebjnXmxFYVvLYMWv2nT"
       },
@@ -12808,7 +12848,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 323200,
       "name": "leftover feelings",
       "url": "https://open.spotify.com/track/4Q6GXGl5DcW5w615iSiUjf"
@@ -16370,7 +16410,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-12",
+      "date_removed": null,
       "duration_ms": 254348,
       "name": "Obvio Bien",
       "url": "https://open.spotify.com/track/1tB9yQnhyBrnft7mUSpbEh"
@@ -27048,7 +27088,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 168973,
       "name": "\u6700\u5f8c\u4e00\u6b21\u5fc3\u788e",
       "url": "https://open.spotify.com/track/5a0LiXM4FmxsR5zj8CDKLo"

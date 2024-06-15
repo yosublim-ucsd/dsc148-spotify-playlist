@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For full-volume lovers, new and recent favorites. Cover: STARSET",
+  "description": "For full-volume lovers. Cover: Def Leppard",
   "name": "Hard Rock",
   "tracks": [
     {
@@ -1058,7 +1058,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-09",
+      "date_removed": null,
       "duration_ms": 212173,
       "name": "Before You Go",
       "url": "https://open.spotify.com/track/7xaiwsZI7GTsMr4I9K5tCj"
@@ -1857,6 +1857,28 @@
     },
     {
       "album": {
+        "name": "can u see me in the dark?",
+        "url": "https://open.spotify.com/album/7mrNcgAQuzS3XF3db20WIe"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        },
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238756,
+      "name": "can u see me in the dark?",
+      "url": "https://open.spotify.com/track/7pugmRsHRy1fnug9NqH5cA"
+    },
+    {
+      "album": {
         "name": "Can't Get High Enough",
         "url": "https://open.spotify.com/album/5SzXbcSEPyCDVL1Dil3sx8"
       },
@@ -1940,7 +1962,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-11",
+      "date_removed": null,
       "duration_ms": 211000,
       "name": "Castaway",
       "url": "https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB"
@@ -1994,7 +2016,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-08",
+      "date_removed": null,
       "duration_ms": 261135,
       "name": "Chiquita",
       "url": "https://open.spotify.com/track/0oBpYdGNyCoVWlR3gVgmrn"
@@ -2034,6 +2056,24 @@
       "duration_ms": 181426,
       "name": "Chompin' At The Bit",
       "url": "https://open.spotify.com/track/4Nvn9NPYbOh2j8MtcrJZ7f"
+    },
+    {
+      "album": {
+        "name": "Circle Through (Abstracted)",
+        "url": "https://open.spotify.com/album/0Esfa6YNwV63lwuXUAbDAv"
+      },
+      "artists": [
+        {
+          "name": "Code Orange",
+          "url": "https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131428,
+      "name": "Circle Through (Abstracted)",
+      "url": "https://open.spotify.com/track/6sVFmQOiMiDGDUYq3pJYP0"
     },
     {
       "album": {
@@ -2352,6 +2392,24 @@
       "duration_ms": 215450,
       "name": "Cosi Bella (So Beautiful)...",
       "url": "https://open.spotify.com/track/3ZAWO7OexOvlBItWcsAXx0"
+    },
+    {
+      "album": {
+        "name": "Count Me Out",
+        "url": "https://open.spotify.com/album/1ePPzs2oFi7S0PtgdJidgQ"
+      },
+      "artists": [
+        {
+          "name": "A Skylit Drive",
+          "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252392,
+      "name": "Count Me Out",
+      "url": "https://open.spotify.com/track/5Obhe5gMI1htOwRupTc5K2"
     },
     {
       "album": {
@@ -3304,7 +3362,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-12",
+      "date_removed": null,
       "duration_ms": 201150,
       "name": "Double Edged Sword (feat. Sylar)",
       "url": "https://open.spotify.com/track/6T5n30cEfm9C0ajB86guGb"
@@ -3579,6 +3637,24 @@
     },
     {
       "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5wQSD8tIqRmDgqJB5Oslh9"
+      },
+      "artists": [
+        {
+          "name": "Devour the Day",
+          "url": "https://open.spotify.com/artist/4olk2DDoPvzAJlJBonZFHk"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236826,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/4f080phREuMGiTF1pPW1Uy"
+    },
+    {
+      "album": {
         "name": "EMPTY",
         "url": "https://open.spotify.com/album/539efTuyDDvj6njVfILi0G"
       },
@@ -3698,7 +3774,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 258325,
       "name": "Everything",
       "url": "https://open.spotify.com/track/6wDa7DH5iDhXDyStu628mQ"
@@ -3896,7 +3972,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 198000,
       "name": "F**k The Bad Vibes",
       "url": "https://open.spotify.com/track/4tJmcTh6z2zd8UBlmPUJZv"
@@ -4626,7 +4702,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 226956,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/2kMLum5ivVsAtMCTN3o6y9"
@@ -6060,7 +6136,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 213658,
       "name": "If These Walls Could Talk (feat. Dorothy)",
       "url": "https://open.spotify.com/track/38UCTisj10yj9PxqhGS9G9"
@@ -6252,7 +6328,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-02",
+      "date_removed": null,
       "duration_ms": 181464,
       "name": "Invisible Man",
       "url": "https://open.spotify.com/track/2ty5SpaP4xPdz7ZBMLypGY"
@@ -6414,10 +6490,28 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 236649,
       "name": "John",
       "url": "https://open.spotify.com/track/1ygGepA71OGb6xNaEEZY1C"
+    },
+    {
+      "album": {
+        "name": "Just Like 73 (Tom Morello Version)",
+        "url": "https://open.spotify.com/album/7afy0Ytt67hzFxYlLzmKyq"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223133,
+      "name": "Just Like 73 - Tom Morello Version",
+      "url": "https://open.spotify.com/track/11DxHa7QIQ5NfdiHstN2O2"
     },
     {
       "album": {
@@ -6558,7 +6652,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-05",
+      "date_removed": null,
       "duration_ms": 108560,
       "name": "Kill Me",
       "url": "https://open.spotify.com/track/2KtmPuGbIHDGMZN16x9LG9"
@@ -6930,7 +7024,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-09",
+      "date_removed": null,
       "duration_ms": 254317,
       "name": "Leviathan",
       "url": "https://open.spotify.com/track/7GQySNHooG5azXnoLKaMzV"
@@ -7790,7 +7884,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 223043,
       "name": "MORE",
       "url": "https://open.spotify.com/track/15ppK3GWBNfun3hkViRr6M"
@@ -8642,7 +8736,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-02",
+      "date_removed": null,
       "duration_ms": 273520,
       "name": "Oh Well (feat. Chris Stapleton)",
       "url": "https://open.spotify.com/track/6iX3H2Gxm2F0YFLm5UuG1U"
@@ -8907,6 +9001,24 @@
     },
     {
       "album": {
+        "name": "Over & Over",
+        "url": "https://open.spotify.com/album/6nCie5uo9QoCVTPp4wFP57"
+      },
+      "artists": [
+        {
+          "name": "Nate Vickers",
+          "url": "https://open.spotify.com/artist/7nafgjvAAKl1GZflgBbBbm"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186898,
+      "name": "Over & Over",
+      "url": "https://open.spotify.com/track/6uE1pM25e1dwBsUktz0QQR"
+    },
+    {
+      "album": {
         "name": "Over and Out (feat Tatiana Shmayluk)",
         "url": "https://open.spotify.com/album/26WuKnG8uyNW4kDjYT6zXH"
       },
@@ -8926,6 +9038,24 @@
       "duration_ms": 204080,
       "name": "Over and Out (feat Tatiana Shmayluk)",
       "url": "https://open.spotify.com/track/3e99Ikjw71UUC4KZjr4Pux"
+    },
+    {
+      "album": {
+        "name": "Oxygen",
+        "url": "https://open.spotify.com/album/4jVbDqtfJ1IdCvSc1vj8Kp"
+      },
+      "artists": [
+        {
+          "name": "Lansdowne",
+          "url": "https://open.spotify.com/artist/5urnoBZifR5YXG5YdCOj34"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184263,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/1Kjg4D0eh9ymPDomjTIPXV"
     },
     {
       "album": {
@@ -9720,7 +9850,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-09",
+      "date_removed": null,
       "duration_ms": 158997,
       "name": "Riding Through",
       "url": "https://open.spotify.com/track/55G6Uvo6zO7n7TUXXrT1Ty"
@@ -9934,7 +10064,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 196754,
       "name": "Ronald",
       "url": "https://open.spotify.com/track/1xeIvccuZq4DiqqmZDSbAg"
@@ -10136,7 +10266,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 195856,
       "name": "Savage",
       "url": "https://open.spotify.com/track/0PJEfnCE6I9iGOA6A9TucF"
@@ -10194,6 +10324,60 @@
       "duration_ms": 197995,
       "name": "Save Yourself",
       "url": "https://open.spotify.com/track/6jZp2rNTYVlKwt20aMIcot"
+    },
+    {
+      "album": {
+        "name": "Savior",
+        "url": "https://open.spotify.com/album/3egLOiwY2ISh41bD3Gyp54"
+      },
+      "artists": [
+        {
+          "name": "Fox Lake",
+          "url": "https://open.spotify.com/artist/7lmvHeAJ7CIhXCdLKjm7VL"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155427,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/25z2oaZITapMcYOYvcoqKY"
+    },
+    {
+      "album": {
+        "name": "SAVIOR",
+        "url": "https://open.spotify.com/album/2Sgxj79VTAWzafcQZIkOny"
+      },
+      "artists": [
+        {
+          "name": "Smile Empty Soul",
+          "url": "https://open.spotify.com/artist/1KEUVZo7CMTSJoM8doulOT"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262425,
+      "name": "SAVIOR",
+      "url": "https://open.spotify.com/track/5uspnRBvXxg7Y0PPfpwH6p"
+    },
+    {
+      "album": {
+        "name": "Say What You Will",
+        "url": "https://open.spotify.com/album/7gSyu9jMUqHOFYXeKtOSfB"
+      },
+      "artists": [
+        {
+          "name": "Myles Kennedy",
+          "url": "https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213580,
+      "name": "Say What You Will",
+      "url": "https://open.spotify.com/track/6Q47FSXfau9Adh1qmFFmyb"
     },
     {
       "album": {
@@ -10511,6 +10695,24 @@
     },
     {
       "album": {
+        "name": "Songs From Savage",
+        "url": "https://open.spotify.com/album/7C0G7YUeJn2UhgnDC0iNRL"
+      },
+      "artists": [
+        {
+          "name": "Tim Montana",
+          "url": "https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182851,
+      "name": "Shut Me Out",
+      "url": "https://open.spotify.com/track/0rl58wlk9DrfZw1pZPV5KW"
+    },
+    {
+      "album": {
         "name": "Scoring The End Of The World",
         "url": "https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh"
       },
@@ -10756,7 +10958,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-27",
+      "date_removed": null,
       "duration_ms": 183428,
       "name": "Some Bridges Are Better Off Burning",
       "url": "https://open.spotify.com/track/0MmuEXjSgn7duSjyRBmggu"
@@ -10814,6 +11016,28 @@
       "duration_ms": 219299,
       "name": "SOS",
       "url": "https://open.spotify.com/track/43AG34Hsu3k5sSwGYOWpBP"
+    },
+    {
+      "album": {
+        "name": "Soul Revolution Deluxe: The Collabs",
+        "url": "https://open.spotify.com/album/3zJkZv2QjamztjHmzShhuQ"
+      },
+      "artists": [
+        {
+          "name": "Fire From The Gods",
+          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
+        },
+        {
+          "name": "Nate Vickers",
+          "url": "https://open.spotify.com/artist/7nafgjvAAKl1GZflgBbBbm"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218147,
+      "name": "SOS (feat. Nate Vickers)",
+      "url": "https://open.spotify.com/track/5Jkg6h2W1msCoLCIJ75vTA"
     },
     {
       "album": {
@@ -10984,7 +11208,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-08",
+      "date_removed": null,
       "duration_ms": 226391,
       "name": "Storms Over",
       "url": "https://open.spotify.com/track/6kQmBfM03aobvAxHSUkvwo"
@@ -12266,7 +12490,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 234945,
       "name": "There\u2019s Fear In Letting Go",
       "url": "https://open.spotify.com/track/2OYtcqflvzQwh3cMPmTHs4"
@@ -12430,6 +12654,24 @@
       "duration_ms": 219043,
       "name": "Those Days",
       "url": "https://open.spotify.com/track/6q0SkdXeeUsUqBhkxNZ911"
+    },
+    {
+      "album": {
+        "name": "Those Were The Days",
+        "url": "https://open.spotify.com/album/3qp8EVIXBDr8Ah2A9XFh6U"
+      },
+      "artists": [
+        {
+          "name": "True North",
+          "url": "https://open.spotify.com/artist/6E8FJvFB2KBbNyAWUUH155"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143995,
+      "name": "Those Were The Days",
+      "url": "https://open.spotify.com/track/4QUpenmTaYWx0HCq2zx060"
     },
     {
       "album": {
@@ -12952,7 +13194,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-19",
+      "date_removed": null,
       "duration_ms": 252000,
       "name": "Under The Skin",
       "url": "https://open.spotify.com/track/6tsI3hDX8QLySSK06W4YfJ"
@@ -13810,7 +14052,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 198703,
       "name": "Way Down We Go",
       "url": "https://open.spotify.com/track/3fqYPxHqA3RiEk0hr4Z4zJ"

@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 | 33 | [Ferrari](https://open.spotify.com/track/3hfPmifit8Rtc0zj9WYQlU) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Expectations](https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS) | 3:32 |
 | 34 | [Yesterday \(feat\. Bebe Rexha\)](https://open.spotify.com/track/6CZh6hYZajOjpEcPmnRMnt) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Listen](https://open.spotify.com/album/77UW17CZFyCaRLHdHeofZu) | 4:03 |
 | 35 | [Atmosphere](https://open.spotify.com/track/45OALDywAY1JVLqI8eKF9y) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [All Your Fault: Pt\. 1](https://open.spotify.com/album/2rBHhp9tNShxTb529Hi5AS) | 3:11 |
-| 36 | [Sweet Beginnings](https://open.spotify.com/track/2LFEAXVwSf9ykTDPu4etrg) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I Don't Wanna Grow Up](https://open.spotify.com/album/7fpYQJGXdDUzmhZAQmf8BE) | 3:50 |
-| 37 | [Heart Still Beating](https://open.spotify.com/track/6RHdHHlOAHwFaYS9LUwpYU) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Heart Still Beating](https://open.spotify.com/album/5uOBHR89JOzaZxuVZdhWWp) | 2:29 |
+| 36 | [Heart Still Beating](https://open.spotify.com/track/6RHdHHlOAHwFaYS9LUwpYU) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Heart Still Beating](https://open.spotify.com/album/5uOBHR89JOzaZxuVZdhWWp) | 2:29 |
+| 37 | [Sweet Beginnings](https://open.spotify.com/track/2LFEAXVwSf9ykTDPu4etrg) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I Don't Wanna Grow Up](https://open.spotify.com/album/7fpYQJGXdDUzmhZAQmf8BE) | 3:50 |
 | 38 | [Not 20 Anymore](https://open.spotify.com/track/7vWbERTWGCiu6fil02e9kj) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Not 20 Anymore](https://open.spotify.com/album/50fjXOO6vhakOGaz3ATZlM) | 3:03 |
 | 39 | [Like A Champion](https://open.spotify.com/track/6vftvAdsEAAJTGQrUmHnei) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Stars Dance \(Bonus Track Version\)](https://open.spotify.com/album/3cGKAHAUhAaTTezK4GbBhQ) | 2:55 |
 | 40 | [Lucifer](https://open.spotify.com/track/7xAACq6jlGqXw4bNCTYcm6) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Lucifer \- The 2nd Album](https://open.spotify.com/album/4jNPKKJ0NL349RXPx7y9f4) | 3:53 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 | 85 | [Amore](https://open.spotify.com/track/17YeDKAwDBQLV3Er5CdgC1) | [Dukespan NYC](https://open.spotify.com/artist/5Oytd7WRdbgABzJGyrRlyW) | [Songs From Our Past Vol.1](https://open.spotify.com/album/0K6XNgMTAGQBNoNn2BJPnA) | 4:08 |
 | 86 | [Miracle](https://open.spotify.com/track/2H5r66uEoNiIS5W9CQ9DB2) | [Greg Scott](https://open.spotify.com/artist/5bBHo5g4F9R3WQoMcw3r80) | [Miracle](https://open.spotify.com/album/0nK7nk8wSXVEkwkbGMsf94) | 2:32 |
 
-Snapshot ID: `AbT+ggAAAAAI7jgHMYS9VBwF9TvgeTIc`
+Snapshot ID: `AbUEIgAAAABE+kogMqRzjb5GV0dWqBly`

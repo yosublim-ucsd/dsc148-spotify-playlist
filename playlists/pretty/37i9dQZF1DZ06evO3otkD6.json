@@ -1,12 +1,12 @@
 {
   "description": "This Is Belinda. Los temas esenciales, todos en una lista.",
-  "num_followers": 66703,
+  "num_followers": 66769,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjlAAAAAADK2cj5uHv6In65duXHoqGr",
+  "snapshot_id": "Zmo2gAAAAADUGNNSI192VvsLK938XnGA",
   "tracks": [
     {
       "added_at": null,
@@ -91,6 +91,30 @@
       "duration_ms": 165230,
       "name": "LAS 12",
       "url": "https://open.spotify.com/track/0EpdLuptraYGFZ6J7HNSLc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Ni\u00f1a",
+        "url": "https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 204414,
+      "name": "La Ni\u00f1a de la Escuela",
+      "url": "https://open.spotify.com/track/1g4cZvi0nLeeIycd0Rkljj"
     },
     {
       "added_at": null,
@@ -279,22 +303,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cocoterapia",
-        "url": "https://open.spotify.com/album/0vmNJ8cSNDKIOSOuYSnIz1"
+        "name": "The King Is Back (#LatinIBIZAte)",
+        "url": "https://open.spotify.com/album/19hfZem3HWzQsPEUlQSKdC"
       },
       "artists": [
         {
-          "name": "L\u00e9rica",
-          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
         },
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Lapiz Conciente",
+          "url": "https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t"
         }
       ],
-      "duration_ms": 202153,
-      "name": "Flamenkito",
-      "url": "https://open.spotify.com/track/2oRtscLLwdLMiDpRoQOSWW"
+      "duration_ms": 183000,
+      "name": "Si No Te Quisiera",
+      "url": "https://open.spotify.com/track/56J9sf5j7T8cPg1fOGmBRs"
     },
     {
       "added_at": null,
@@ -311,6 +339,26 @@
       "duration_ms": 241906,
       "name": "Luz Sin Gravedad",
       "url": "https://open.spotify.com/track/60CEVNgCHcVyWCPy6Kh2K6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cocoterapia",
+        "url": "https://open.spotify.com/album/0vmNJ8cSNDKIOSOuYSnIz1"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9rica",
+          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 202153,
+      "name": "Flamenkito",
+      "url": "https://open.spotify.com/track/2oRtscLLwdLMiDpRoQOSWW"
     },
     {
       "added_at": null,
@@ -859,6 +907,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Catarsis",
+        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 195426,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/2OSv7LKgAUS013drWBwEAW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los D\u00fao 2",
         "url": "https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19"
       },
@@ -875,22 +939,6 @@
       "duration_ms": 238120,
       "name": "Te Sigo Amando",
       "url": "https://open.spotify.com/track/5QmjF6TMAAym2u3hb8o1ym"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Catarsis",
-        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 195426,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/2OSv7LKgAUS013drWBwEAW"
     },
     {
       "added_at": null,
@@ -1027,6 +1075,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Silvana - C\u00f3mplices Al Rescate",
+        "url": "https://open.spotify.com/album/7Mn2dBHL97jRe7zyuAXcgc"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Laura Flores",
+          "url": "https://open.spotify.com/artist/7HcfNDsEN1QvF3zUvf03OF"
+        }
+      ],
+      "duration_ms": 174626,
+      "name": "Contigo Siempre",
+      "url": "https://open.spotify.com/track/4hrKrgSeEil3uXvgouZLhd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Belinda",
+        "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 213760,
+      "name": "Be Free",
+      "url": "https://open.spotify.com/track/3vm7gmgWsXY2e6UsVwSbZh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te Quiero Maxi Single",
         "url": "https://open.spotify.com/album/6YZ2lSsfCVzabCnAOLNs7H"
       },
@@ -1051,42 +1135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Belinda",
-        "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 213760,
-      "name": "Be Free",
-      "url": "https://open.spotify.com/track/3vm7gmgWsXY2e6UsVwSbZh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Silvana - C\u00f3mplices Al Rescate",
-        "url": "https://open.spotify.com/album/7Mn2dBHL97jRe7zyuAXcgc"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Laura Flores",
-          "url": "https://open.spotify.com/artist/7HcfNDsEN1QvF3zUvf03OF"
-        }
-      ],
-      "duration_ms": 174626,
-      "name": "Contigo Siempre",
-      "url": "https://open.spotify.com/track/4hrKrgSeEil3uXvgouZLhd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Colorblind",
         "url": "https://open.spotify.com/album/10pmOIJFrZ1Miyl1qP6Xfw"
       },
@@ -1099,26 +1147,6 @@
       "duration_ms": 205040,
       "name": "Colorblind",
       "url": "https://open.spotify.com/track/2oekKvTdvWAk3x09g7HVlJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Cheetah Girls 2",
-        "url": "https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG"
-      },
-      "artists": [
-        {
-          "name": "The Cheetah Girls",
-          "url": "https://open.spotify.com/artist/4ntkql3f3ect7NDRUJ7aAY"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 181600,
-      "name": "Why Wait",
-      "url": "https://open.spotify.com/track/55PYZ56l4MBXTLTFUjzU7u"
     },
     {
       "added_at": null,
@@ -1143,34 +1171,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/33nYUqCHeO8jyrvctV5Fr0"
+        "name": "The Cheetah Girls 2",
+        "url": "https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG"
       },
       "artists": [
+        {
+          "name": "The Cheetah Girls",
+          "url": "https://open.spotify.com/artist/4ntkql3f3ect7NDRUJ7aAY"
+        },
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 160979,
-      "name": "Eden",
-      "url": "https://open.spotify.com/track/17ndjs5jsTO1X15raRZV0u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Utopia 2",
-        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 180666,
-      "name": "Utopia",
-      "url": "https://open.spotify.com/track/1D2RM65NrWgwGOFLidtJTg"
+      "duration_ms": 181600,
+      "name": "Why Wait",
+      "url": "https://open.spotify.com/track/55PYZ56l4MBXTLTFUjzU7u"
     }
   ],
   "unique_name": "This Is Belinda",

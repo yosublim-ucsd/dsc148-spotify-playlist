@@ -1053,6 +1053,32 @@
     },
     {
       "album": {
+        "name": "Bora pra praia",
+        "url": "https://open.spotify.com/album/3p8V4ex0o4XreYjiCYtWPa"
+      },
+      "artists": [
+        {
+          "name": "Fabriccio",
+          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
+        },
+        {
+          "name": "Yan Cloud",
+          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
+        },
+        {
+          "name": "BORABAEZ",
+          "url": "https://open.spotify.com/artist/3hJUVrmL4KCQKvr9EEilVj"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228349,
+      "name": "Bora pra praia",
+      "url": "https://open.spotify.com/track/4Mdr8VdHfOUb3LCeBPmq2m"
+    },
+    {
+      "album": {
         "name": "Brigas",
         "url": "https://open.spotify.com/album/4lXWSwBPFdisfRDLlwcOXH"
       },
@@ -4730,7 +4756,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 190250,
       "name": "Meu Destino \u00e9 o Litoral",
       "url": "https://open.spotify.com/track/6nvvhe2emrtQsoCmO1dxNg"

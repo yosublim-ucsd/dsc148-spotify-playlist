@@ -276,7 +276,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 117606,
       "name": "9:45",
       "url": "https://open.spotify.com/track/6c4Po8zyQjB4cR5XgLhcGb"
@@ -628,6 +628,32 @@
       "duration_ms": 243438,
       "name": "Aga Naga",
       "url": "https://open.spotify.com/track/36A3x0sPYGUyz24SZfjtOb"
+    },
+    {
+      "album": {
+        "name": "Mr. And Mrs. Mahi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3PI3er7mHLniPndwdo0mlA"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Kausar Munir",
+          "url": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
+        },
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253223,
+      "name": "Agar Ho Tum (From \"Mr. And Mrs. Mahi\")",
+      "url": "https://open.spotify.com/track/2JS0RFqBJvBtvG1GIsZmjW"
     },
     {
       "album": {
@@ -6022,7 +6048,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 167234,
       "name": "God Damn",
       "url": "https://open.spotify.com/track/209QxKVJzh2FLUmZHpYs4m"
@@ -6670,7 +6696,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 179169,
       "name": "House Of Lies",
       "url": "https://open.spotify.com/track/3hfWgH0UEDW1uJNlj5gRW1"
@@ -11098,7 +11124,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 161041,
       "name": "Malang Sajna",
       "url": "https://open.spotify.com/track/73K33p4Vyz9koXGqmL5eFs"
@@ -18860,6 +18886,36 @@
     {
       "album": {
         "name": "Rocky Aur Rani Kii Prem Kahaani",
+        "url": "https://open.spotify.com/album/6FfXtcC6KsOTOO3GehQZ8x"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277500,
+      "name": "Tum Kya Mile (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+      "url": "https://open.spotify.com/track/1kDZSmw3mKQeAjcmPTLS3M"
+    },
+    {
+      "album": {
+        "name": "Rocky Aur Rani Kii Prem Kahaani",
         "url": "https://open.spotify.com/album/0SB9pkSJOzevi6IpIBJbwy"
       },
       "artists": [
@@ -18882,7 +18938,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 277500,
       "name": "Tum Kya Mile (From \"Rocky Aur Rani Kii Prem Kahaani\")",
       "url": "https://open.spotify.com/track/38h4tmH1AWBVuemWAy4R4y"
@@ -19524,7 +19580,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 210161,
       "name": "Vada Humse Karo (From \"Savi\")",
       "url": "https://open.spotify.com/track/4Jp1sjdd9uwkg8kweoYPhs"
@@ -19626,10 +19682,48 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 246988,
       "name": "Ve Kamleya (From \"Rocky Aur Rani Kii Prem Kahaani\")",
       "url": "https://open.spotify.com/track/2q9lPN7CT92W1Ry77j2acn"
+    },
+    {
+      "album": {
+        "name": "Rocky Aur Rani Kii Prem Kahaani",
+        "url": "https://open.spotify.com/album/6FfXtcC6KsOTOO3GehQZ8x"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Shadab Faridi",
+          "url": "https://open.spotify.com/artist/6WixbETKEXH0xBf0OB9kRB"
+        },
+        {
+          "name": "Altamash Faridi",
+          "url": "https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246988,
+      "name": "Ve Kamleya (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+      "url": "https://open.spotify.com/track/6y5SuF4NxGkvwpAdqcAkD3"
     },
     {
       "album": {

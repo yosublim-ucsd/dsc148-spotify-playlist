@@ -4,7 +4,7 @@
 
 > Latin gems you absolutely need to hear\. Save them before they're gone!
 
-128 songs - 6 hr 52 min
+129 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Cohete](https://open.spotify.com/track/5JKk6Gh5CLlwpbPz48eWtB) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:52 | 2024-03-22 | 2024-06-01 |
 | [COMETIERRA REMIX](https://open.spotify.com/track/73fztLrrdzBHSzLs5vubFU) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [COMETIERRA REMIX](https://open.spotify.com/album/4IGPLizzYYiDIRG35OMqtZ) | 3:00 | 2024-01-04 | 2024-02-17 |
 | [COMO SUENAN LAS ESTRELLAS](https://open.spotify.com/track/29MAYnmNwruONslO4E1iZD) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [SAKURA](https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc) | 2:18 | 2024-05-31 |  |
-| [Con Dinero y Sin Dinero](https://open.spotify.com/track/1wn4CZoE0MWbeV7yy03yyw) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [TROPICALIA](https://open.spotify.com/album/0MwcYv6ItA0eercc8IAwHJ) | 3:40 | 2024-05-31 |  |
+| [Con Dinero y Sin Dinero](https://open.spotify.com/track/1wn4CZoE0MWbeV7yy03yyw) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [TROPICALIA](https://open.spotify.com/album/0MwcYv6ItA0eercc8IAwHJ) | 3:40 | 2024-05-31 | 2024-06-15 |
 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 | 2024-02-16 | 2024-04-16 |
 | [Corazón de Piedra](https://open.spotify.com/track/0dEAiKNbHt4mrjjoiL0loc) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Corazón de Piedra](https://open.spotify.com/album/34jqKGS3XSMznpvtCwh9so) | 3:13 | 2024-03-22 | 2024-06-01 |
 | [CORLEONE](https://open.spotify.com/track/4XCIp44SX79A7spTo4O40y) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Saliendo del Planeta](https://open.spotify.com/album/0ct1nMrWBi5B93RKXAZJEf) | 3:12 | 2023-12-18 | 2024-01-13 |
@@ -44,6 +44,7 @@
 | [DRIPPEO KBRON](https://open.spotify.com/track/1rCKmeUUh6WDrxoH5pWq9M) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [DRIPPEO KBRON](https://open.spotify.com/album/1aIvOQRDMbp91g032duGCj) | 3:18 | 2024-04-05 | 2024-06-01 |
 | [El 100](https://open.spotify.com/track/6LSMoKokOy7XfJGkDAhDw5) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [El 100](https://open.spotify.com/album/5u7FM0fN09SgCkZRh7vNin) | 2:58 | 2024-05-31 |  |
 | [El Idiota](https://open.spotify.com/track/6BAWPd5RhdrTZKsCLfrXQ5) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [El Idiota](https://open.spotify.com/album/4D6E1KROX5VpRvAajqHjOG) | 3:29 | 2024-02-23 | 2024-02-25 |
+| [EL PANTALON \- RUMBAS](https://open.spotify.com/track/7CsOowK8aWlxgjuZLW7pXA) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Las Chuches](https://open.spotify.com/artist/4Orj5NmOg4wuREX0dzsyjR) | [LAGRIMAS DE UN MALEANTE](https://open.spotify.com/album/4hzbSxExXzavyIJGmqQb5q) | 3:13 | 2024-06-14 |  |
 | [En Las Buenas y En Las Malas](https://open.spotify.com/track/5gWkxqIv20eagfDWUeok2N) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [En Las Buenas y En Las Malas](https://open.spotify.com/album/0Ekx1GipeSlqP0T4Gn1Q1h) | 2:37 | 2023-12-27 | 2024-02-10 |
 | [Eres Tú](https://open.spotify.com/track/79SZwWu9dhgyCBeA5YeQRQ) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Demasiado](https://open.spotify.com/album/6uoYiEZJ2OfFan01ypD4Mj) | 3:04 | 2024-05-31 | 2024-06-02 |
 | [Es Un Secreto](https://open.spotify.com/track/1Wi86cXpfWulFjThqb3JcF) | [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp), [DJ Buddha](https://open.spotify.com/artist/2m7JzVtYyAwdU0CnET9IvA) | [Yo Deluxe](https://open.spotify.com/album/5dJ9HMLXMR6ALFr4dcBLPU) | 3:28 | 2024-04-05 | 2024-06-03 |

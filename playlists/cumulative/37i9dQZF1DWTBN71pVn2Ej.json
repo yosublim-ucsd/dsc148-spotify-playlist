@@ -160,7 +160,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 205628,
       "name": "Absolute Bloom",
       "url": "https://open.spotify.com/track/2J2NIgMvtnIStg1ZfCiEjm"
@@ -971,6 +971,24 @@
     },
     {
       "album": {
+        "name": "Bittersweet Mary",
+        "url": "https://open.spotify.com/album/4A7WRN39gSY88Rd9tYHePB"
+      },
+      "artists": [
+        {
+          "name": "MILLY",
+          "url": "https://open.spotify.com/artist/6LihBQjVynXpEaT3Oe2oof"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234720,
+      "name": "Bittersweet Mary",
+      "url": "https://open.spotify.com/track/6ryKAggOp8dgwFIbgwFwJJ"
+    },
+    {
+      "album": {
         "name": "Black Sky",
         "url": "https://open.spotify.com/album/4lWTlSRJQ3ldM7o0qGqJGZ"
       },
@@ -1216,7 +1234,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 205951,
       "name": "Boy Like A Bruise",
       "url": "https://open.spotify.com/track/37ivvSTZF3yTCyyyW5v08x"
@@ -1673,6 +1691,24 @@
     },
     {
       "album": {
+        "name": "Carousel House",
+        "url": "https://open.spotify.com/album/4heurVhOezsUGe10bX9l4B"
+      },
+      "artists": [
+        {
+          "name": "ASkySoBlack",
+          "url": "https://open.spotify.com/artist/7e8EPuQ1r9dDRRdbauA0NJ"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190483,
+      "name": "Carousel House",
+      "url": "https://open.spotify.com/track/74vTQRouiUS4H2dlyL2eoy"
+    },
+    {
+      "album": {
         "name": "Carrie & Lowell & Cody (Pendent)",
         "url": "https://open.spotify.com/album/1dVLmx7MeskNv1bwe6MY8Y"
       },
@@ -1756,7 +1792,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 244820,
       "name": "Cellophane",
       "url": "https://open.spotify.com/track/1hKN1kdhCZ80PeTdSbiIKt"
@@ -2870,7 +2906,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 220074,
       "name": "Descend",
       "url": "https://open.spotify.com/track/21gzflUH729pjKczveSrHU"
@@ -4492,6 +4528,24 @@
       "duration_ms": 223238,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/2gIgCnJIJxk8hqjyRzKV3d"
+    },
+    {
+      "album": {
+        "name": "Haven",
+        "url": "https://open.spotify.com/album/0m41NRj9C741A0nn7jvZVJ"
+      },
+      "artists": [
+        {
+          "name": "Split Chain",
+          "url": "https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191290,
+      "name": "Haven",
+      "url": "https://open.spotify.com/track/4aMH5OK4BFr8UW0xtt3AVB"
     },
     {
       "album": {
@@ -9064,6 +9118,28 @@
       "duration_ms": 189579,
       "name": "Still There",
       "url": "https://open.spotify.com/track/7uUCmwEwG2OAo1Q9rXis7E"
+    },
+    {
+      "album": {
+        "name": "Stillpoint",
+        "url": "https://open.spotify.com/album/6HYN0mvt1KfBvMOPJc0DlN"
+      },
+      "artists": [
+        {
+          "name": "Higher Power",
+          "url": "https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT"
+        },
+        {
+          "name": "Never Ending Game",
+          "url": "https://open.spotify.com/artist/1S8NfdnAl7u08mTjEtDWLp"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217944,
+      "name": "Stillpoint",
+      "url": "https://open.spotify.com/track/7e7MSmuu0opQe214jZFuix"
     },
     {
       "album": {

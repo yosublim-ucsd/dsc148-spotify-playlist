@@ -1,12 +1,12 @@
 {
   "description": "This is Labrinth. The essential tracks, all in one playlist.",
-  "num_followers": 143866,
+  "num_followers": 143891,
   "original_name": "This Is Labrinth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjlAAAAAACifEMOO5MabL33FP7nf2hY",
+  "snapshot_id": "Zmo2gAAAAAD7D6jjLdyTybM40Dk8o2wS",
   "tracks": [
     {
       "added_at": null,
@@ -143,6 +143,26 @@
       "duration_ms": 187026,
       "name": "Thunderclouds (feat. Sia, Diplo, and Labrinth)",
       "url": "https://open.spotify.com/track/4lJNen4SMTIJMahALc3DcB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Imagination & the Misfit Kid",
+        "url": "https://open.spotify.com/album/0zjbNtfnMLmt2q50E3wDx8"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        },
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 191710,
+      "name": "All For Us",
+      "url": "https://open.spotify.com/track/76YSWx6L6FNsuaP6GWBb8P"
     },
     {
       "added_at": null,
@@ -927,34 +947,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imagination & the Misfit Kid",
-        "url": "https://open.spotify.com/album/0zjbNtfnMLmt2q50E3wDx8"
+        "name": "Same Team (feat. Stefflon Don)",
+        "url": "https://open.spotify.com/album/5bK3Xn3qq3qvqVRLbQiAY9"
       },
       "artists": [
         {
           "name": "Labrinth",
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Something's Got To Give",
-      "url": "https://open.spotify.com/track/2cY1XfMsEkNemJ8ECmn0Cs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
-        "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
-      },
-      "artists": [
+        },
         {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
         }
       ],
-      "duration_ms": 124148,
-      "name": "Fun At The Alley",
-      "url": "https://open.spotify.com/track/0njtFgDso6x7h9aZ8SPNET"
+      "duration_ms": 189920,
+      "name": "Same Team (feat. Stefflon Don)",
+      "url": "https://open.spotify.com/track/7Db4ViXHhXYznDDRdfX2VB"
     }
   ],
   "unique_name": "This Is Labrinth",

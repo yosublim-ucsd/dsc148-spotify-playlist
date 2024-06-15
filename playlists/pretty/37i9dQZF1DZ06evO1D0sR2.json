@@ -1,12 +1,12 @@
 {
-  "description": "This is JJ Hairston. The essential tracks, all in one playlist.",
+  "description": "This is: JJ Hairston. Alle wichtigen Tracks in einer Playlist.",
   "num_followers": 2613,
   "original_name": "This Is JJ Hairston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjlAAAAAACLMeQtu//uvt3UjQDjV8ct",
+  "snapshot_id": "Zmo2gAAAAACKDlOqIc96Oz8kgzdqMIYk",
   "tracks": [
     {
       "added_at": null,
@@ -332,13 +332,13 @@
           "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
         },
         {
-          "name": "Timothy Reddick",
-          "url": "https://open.spotify.com/artist/3AEo4imgJihO5K7yZNDcu7"
+          "name": "Greg Kirkland, Jr.",
+          "url": "https://open.spotify.com/artist/2aPBhu0KFUmoRzz5ENVHrs"
         }
       ],
-      "duration_ms": 378506,
-      "name": "You Get The Glory - Live",
-      "url": "https://open.spotify.com/track/4PLTxvaypSdoEJSUSOb7eQ"
+      "duration_ms": 203920,
+      "name": "Reckless Love - Live",
+      "url": "https://open.spotify.com/track/5k3Q41ISF9hhovjDnaVwom"
     },
     {
       "added_at": null,
@@ -420,13 +420,13 @@
           "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
         },
         {
-          "name": "Greg Kirkland, Jr.",
-          "url": "https://open.spotify.com/artist/2aPBhu0KFUmoRzz5ENVHrs"
+          "name": "Timothy Reddick",
+          "url": "https://open.spotify.com/artist/3AEo4imgJihO5K7yZNDcu7"
         }
       ],
-      "duration_ms": 203920,
-      "name": "Reckless Love - Live",
-      "url": "https://open.spotify.com/track/5k3Q41ISF9hhovjDnaVwom"
+      "duration_ms": 378506,
+      "name": "You Get The Glory - Live",
+      "url": "https://open.spotify.com/track/4PLTxvaypSdoEJSUSOb7eQ"
     },
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live: The Praise, the Worship",
+        "url": "https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "duration_ms": 342773,
+      "name": "He Reigns",
+      "url": "https://open.spotify.com/track/4w67C9ICVsxgbPzMqVRNYS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I See Victory",
         "url": "https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 402946,
       "name": "Awe Of You",
       "url": "https://open.spotify.com/track/7Mef0xVylvlkTW8hB7l6fl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live: The Praise, the Worship",
-        "url": "https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        }
-      ],
-      "duration_ms": 342773,
-      "name": "He Reigns",
-      "url": "https://open.spotify.com/track/4w67C9ICVsxgbPzMqVRNYS"
     },
     {
       "added_at": null,
@@ -787,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe Again, Vol. II",
-        "url": "https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL"
+        "name": "Believe Again",
+        "url": "https://open.spotify.com/album/7DDxwCayMIDdPj1eFeqVNa"
       },
       "artists": [
         {
@@ -796,21 +796,33 @@
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
         },
         {
-          "name": "Leah Leach",
-          "url": "https://open.spotify.com/artist/2jm2SBvvg6DQbnYLKIBOFi"
-        },
-        {
-          "name": "Shavance Stephens",
-          "url": "https://open.spotify.com/artist/5kpvwgzWJwAVV2EfuoLv3H"
+          "name": "Tamela Hairston",
+          "url": "https://open.spotify.com/artist/6W3CeiSrBA9A0xGjzPCdUX"
         },
         {
           "name": "Mav City Gospel Choir",
           "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
         }
       ],
-      "duration_ms": 490395,
-      "name": "It Will Always Be You (feat. Shavance Stephens, Leah Leach & Mav City Gospel Choir)",
-      "url": "https://open.spotify.com/track/6TbZNuPoUug1bpviurkKlH"
+      "duration_ms": 420083,
+      "name": "You Won't Change (Yahweh the Same) [feat. Tamela Hairston & Mav City Gospel Choir]",
+      "url": "https://open.spotify.com/track/6EDEtIW0M7sN5MtBmblyaa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live: The Praise, the Worship",
+        "url": "https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "duration_ms": 329200,
+      "name": "You Are Awesome",
+      "url": "https://open.spotify.com/track/4h5GMPfnPIHhcZ0yuVWSAw"
     },
     {
       "added_at": null,
@@ -839,18 +851,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live: The Praise, the Worship",
-        "url": "https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA"
+        "name": "Believe Again, Vol. II",
+        "url": "https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL"
       },
       "artists": [
         {
           "name": "JJ Hairston",
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Leah Leach",
+          "url": "https://open.spotify.com/artist/2jm2SBvvg6DQbnYLKIBOFi"
+        },
+        {
+          "name": "Shavance Stephens",
+          "url": "https://open.spotify.com/artist/5kpvwgzWJwAVV2EfuoLv3H"
+        },
+        {
+          "name": "Mav City Gospel Choir",
+          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
         }
       ],
-      "duration_ms": 329200,
-      "name": "You Are Awesome",
-      "url": "https://open.spotify.com/track/4h5GMPfnPIHhcZ0yuVWSAw"
+      "duration_ms": 490395,
+      "name": "It Will Always Be You (feat. Shavance Stephens, Leah Leach & Mav City Gospel Choir)",
+      "url": "https://open.spotify.com/track/6TbZNuPoUug1bpviurkKlH"
     },
     {
       "added_at": null,
@@ -904,17 +928,13 @@
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
         },
         {
-          "name": "Tamela Hairston",
-          "url": "https://open.spotify.com/artist/6W3CeiSrBA9A0xGjzPCdUX"
-        },
-        {
-          "name": "Mav City Gospel Choir",
-          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
+          "name": "Kymberli Joye",
+          "url": "https://open.spotify.com/artist/3ret0C6J9DmZnqtQuptnfy"
         }
       ],
-      "duration_ms": 420083,
-      "name": "You Won't Change (Yahweh the Same) [feat. Tamela Hairston & Mav City Gospel Choir]",
-      "url": "https://open.spotify.com/track/6EDEtIW0M7sN5MtBmblyaa"
+      "duration_ms": 534949,
+      "name": "Miracle is You (feat. Kymberli Joye)",
+      "url": "https://open.spotify.com/track/5YViKpZPqiF2UuBtdj2lxT"
     },
     {
       "added_at": null,
@@ -991,8 +1011,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe Again",
-        "url": "https://open.spotify.com/album/7DDxwCayMIDdPj1eFeqVNa"
+        "name": "After This",
+        "url": "https://open.spotify.com/album/6YBye6EBEoIN9DNX0BTL4g"
       },
       "artists": [
         {
@@ -1000,13 +1020,13 @@
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
         },
         {
-          "name": "Kymberli Joye",
-          "url": "https://open.spotify.com/artist/3ret0C6J9DmZnqtQuptnfy"
+          "name": "LaShun Pace",
+          "url": "https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln"
         }
       ],
-      "duration_ms": 534949,
-      "name": "Miracle is You (feat. Kymberli Joye)",
-      "url": "https://open.spotify.com/track/5YViKpZPqiF2UuBtdj2lxT"
+      "duration_ms": 372013,
+      "name": "The Blood",
+      "url": "https://open.spotify.com/track/3qVlrzKzT5q3V8eQrxuSee"
     },
     {
       "added_at": null,
@@ -1051,26 +1071,6 @@
       "duration_ms": 318667,
       "name": "Psalms 100 (feat. Greg Kirkland, Jr. & Adrienne Lewis-Freeman)",
       "url": "https://open.spotify.com/track/54XPkGglHnDcW12yQoKSa3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "After This",
-        "url": "https://open.spotify.com/album/6YBye6EBEoIN9DNX0BTL4g"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "LaShun Pace",
-          "url": "https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln"
-        }
-      ],
-      "duration_ms": 372013,
-      "name": "The Blood",
-      "url": "https://open.spotify.com/track/3qVlrzKzT5q3V8eQrxuSee"
     }
   ],
   "unique_name": "This Is JJ Hairston",

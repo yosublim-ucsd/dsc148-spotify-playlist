@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsv1Yhw5QfW.md) - [plain](/playlists/plain/37i9dQZF1DWSsv1Yhw5QfW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSsv1Yhw5QfW)
 
-### [Enganchados: Lentos](https://open.spotify.com/playlist/37i9dQZF1DWSsv1Yhw5QfW)
+### [Lentos](https://open.spotify.com/playlist/37i9dQZF1DWSsv1Yhw5QfW)
 
 > Agárrense fuerte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,578 likes - 55 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,626 likes - 55 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsv1Yhw5QfW.md) - [plain]
 | 54 | [I Wish It Would Rain Down](https://open.spotify.com/track/7pJLv39T2zogTmKRJbx2lf) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...But Seriously](https://open.spotify.com/album/041chign4EX8Qmq9hlsSe9) | 5:27 |
 | 55 | [The One](https://open.spotify.com/track/3YpkVhRNeKVaSXUaG2TKs9) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Greatest Hits 1970\-2002](https://open.spotify.com/album/6nvd1pwRgLrMez7fIiDq8z) | 5:51 |
 
-Snapshot ID: `ZgGENQAAAADp9COt9vZZApLDBPSsWfqq`
+Snapshot ID: `ZmyG2AAAAAC9sRIdnp+ergTBeSuaiEbh`

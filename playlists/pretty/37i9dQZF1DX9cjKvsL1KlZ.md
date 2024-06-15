@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 
 > Sounds of New York curated by <a href="https://www.instagram.com/sidetalknyc/">Sidetalk</a>, New York’s one\-minute street show.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,957 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,973 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 | 2 | [Fisherrr](https://open.spotify.com/track/6ZRQuk5CXdHlLHAnE28GKD) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Fisherrr](https://open.spotify.com/album/4stkWK5jMzF3Xhc2nWWeiI) | 3:56 |
 | 3 | [U My Everything \(feat\. Drake\)](https://open.spotify.com/track/1TgStpMGTflN84asKJ8VU3) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 3:45 |
 | 4 | [Armed N Dangerous \- Charlie Sloth Freestyle](https://open.spotify.com/track/1v6YDRVu8nrGI7uuq3ou6z) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo 2 \(Deluxe\)](https://open.spotify.com/album/5NTOvCGu7HT4DgJGLXtKUU) | 2:26 |
-| 5 | [Attitude \(feat\. Charlie Wilson & Cash Cobain\)](https://open.spotify.com/track/0KFXE2mLTFdOKkTZEDgJPv) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Attitude \(feat\. Charlie Wilson & Cash Cobain\)](https://open.spotify.com/album/5qT2WTrg8b062akPjO9AGY) | 2:41 |
+| 5 | [ATTITUDE \(FEAT\. CHARLIE WILSON & CASH COBAIN\)](https://open.spotify.com/track/0KFXE2mLTFdOKkTZEDgJPv) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Attitude \(feat\. Charlie Wilson & Cash Cobain\)](https://open.spotify.com/album/5qT2WTrg8b062akPjO9AGY) | 2:41 |
 | 6 | [13 Going On 30](https://open.spotify.com/track/7picgLYkMQb9UgIjq84NNF) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [13 Going On 30](https://open.spotify.com/album/3uiRxBPxofovB9Idhm0z9G) | 3:01 |
 | 7 | [Bill Collector](https://open.spotify.com/track/1hgJMdjMg5eyPqWlkVePxx) | [A$AP Twelvyy](https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P) | [Before Noon](https://open.spotify.com/album/2uckSYAOC5DPO2poCKPYTl) | 2:51 |
 | 8 | [Flows](https://open.spotify.com/track/7k4fn2FDvkXyEpZeXHYYWV) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [THE UNLUCCY LUCCY KID](https://open.spotify.com/album/3Xvvi8uwGnuj9nF7fr2h39) | 2:33 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 | 17 | [PICASSO](https://open.spotify.com/track/1XNftuHylWlfWbPx9MVS2a) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4), [Eli Fross](https://open.spotify.com/artist/6Vy1VMVCyTgbcmA1iz0QFg) | [Just 4 Yall](https://open.spotify.com/album/4X8Ups0dQHxxnEdE4KP6FJ) | 3:32 |
 | 18 | [DAMN! \(with Teezo Touchdown\)](https://open.spotify.com/track/50mOTTA6ctpuuLsFK1NhtM) | [Zack Bia](https://open.spotify.com/artist/4B56PS5UUtnnRaGJvPvoyW), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [DAMN! \(with Teezo Touchdown\)](https://open.spotify.com/album/7ARAzn1fkDn5XsAk2gRhfL) | 3:00 |
 | 19 | [STORM BREAKER](https://open.spotify.com/track/2zeoI2mjlpfCRu8mNy7Fos) | [THOTTWAT](https://open.spotify.com/artist/16SkmlqKt2Xf6mqurZgpdt) | [STORM BREAKER](https://open.spotify.com/album/72EdXK0u1g3f7SvJ8MtPD2) | 1:51 |
-| 20 | [Bandit](https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Bandit](https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC) | 2:27 |
+| 20 | [BANDIT](https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Bandit](https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC) | 2:27 |
 | 21 | [Bonita](https://open.spotify.com/track/7FKAAcnRUrSYxzAATVvF2W) | [27Delly](https://open.spotify.com/artist/17Y9T6RYbruDp0XDIMB6xT) | [Fly Since Birth](https://open.spotify.com/album/6lwNXfjoYFS07qcZdlWrZG) | 1:52 |
 | 22 | [RIP FOLLIES](https://open.spotify.com/track/6Vr19U1UyfA7sw4wri12LX) | [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP) | [RIP FOLLIES](https://open.spotify.com/album/1Hzls4hQzRn54zcNyfkRLX) | 2:08 |
 | 23 | [Hate It Or Luv It](https://open.spotify.com/track/5CpnjR6DE6X3PFvmKqrw1l) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 2:32 |

@@ -1,12 +1,12 @@
 {
   "description": "This is PARTYNEXTDOOR. The essential tracks, all in one playlist.",
-  "num_followers": 103101,
+  "num_followers": 103185,
   "original_name": "This Is PARTYNEXTDOOR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjlAAAAAACNBwVtAyrLodwtXUbMFzQE",
+  "snapshot_id": "Zmo2gAAAAAD9hVVdPWk3MDz2KLcjTat2",
   "tracks": [
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PARTYNEXTDOOR 3 (P3)",
+        "url": "https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 175211,
+      "name": "Only U",
+      "url": "https://open.spotify.com/track/3Ox7FJrgNNBfctIGPgj40s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
       },
@@ -591,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PARTYNEXTDOOR 3 (P3)",
-        "url": "https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 175211,
-      "name": "Only U",
-      "url": "https://open.spotify.com/track/3Ox7FJrgNNBfctIGPgj40s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PARTYMOBILE",
         "url": "https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16"
       },
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PARTYPACK",
-        "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 237539,
-      "name": "THINGS & SUCH",
-      "url": "https://open.spotify.com/track/4Hv8QuMQfG7e6GWOWcXYKk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PARTYNEXTDOOR",
         "url": "https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 171366,
       "name": "Make a Mil",
       "url": "https://open.spotify.com/track/2c1jezYXHqGN8C0AJhIE1S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PARTYPACK",
+        "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 237539,
+      "name": "THINGS & SUCH",
+      "url": "https://open.spotify.com/track/4Hv8QuMQfG7e6GWOWcXYKk"
     },
     {
       "added_at": null,

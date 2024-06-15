@@ -1,6 +1,6 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 320414,
+  "num_followers": 320527,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2024-06-14 00:01:00",
       "album": {
+        "name": "Pretty Green Eyes (Sunset Ibiza Mix)",
+        "url": "https://open.spotify.com/album/5jAnfBukpgxAPJPtrAgLgN"
+      },
+      "artists": [
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        }
+      ],
+      "duration_ms": 258682,
+      "name": "Pretty Green Eyes (Sunset Ibiza Mix)",
+      "url": "https://open.spotify.com/track/6iGMRy5RDMiAdTpuMB5gAm"
+    },
+    {
+      "added_at": "2024-06-14 00:01:00",
+      "album": {
         "name": "Mushrooms",
         "url": "https://open.spotify.com/album/3kCdR5MEFKLMft8GmAGxD3"
       },
@@ -1819,6 +1835,70 @@
       "duration_ms": 190194,
       "name": "Mushrooms",
       "url": "https://open.spotify.com/track/15B1cDTWSXF4t3rmALOtyU"
+    },
+    {
+      "added_at": "2024-06-14 00:01:00",
+      "album": {
+        "name": "No Time (feat. SadBoi)",
+        "url": "https://open.spotify.com/album/5K0QqzOKeqI504SN4wMAIe"
+      },
+      "artists": [
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        },
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 171520,
+      "name": "No Time (feat. SadBoi)",
+      "url": "https://open.spotify.com/track/4NOoZeetavZyquNLaGyxXC"
+    },
+    {
+      "added_at": "2024-06-14 00:01:00",
+      "album": {
+        "name": "Bota Bota",
+        "url": "https://open.spotify.com/album/3rDua1ydCeXjqOfO0pR2BV"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "MC Buzzz",
+          "url": "https://open.spotify.com/artist/2z8dSH4TMRViQh4QjqrDYv"
+        }
+      ],
+      "duration_ms": 192923,
+      "name": "Bota Bota",
+      "url": "https://open.spotify.com/track/6btglV5XNwzpOtDmOclBwI"
+    },
+    {
+      "added_at": "2024-06-14 00:01:00",
+      "album": {
+        "name": "I Just Can't Get Enough 2024",
+        "url": "https://open.spotify.com/album/2LMGCtC018PamOvkrB1IHA"
+      },
+      "artists": [
+        {
+          "name": "Herd & Fitz",
+          "url": "https://open.spotify.com/artist/7L6QP4RbQLJplFQPAlOr5p"
+        },
+        {
+          "name": "Hannah Wants",
+          "url": "https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI"
+        },
+        {
+          "name": "Abigail Bailey",
+          "url": "https://open.spotify.com/artist/0QUNf5BdFRIp6NSs2WbgxM"
+        }
+      ],
+      "duration_ms": 200338,
+      "name": "I Just Can't Get Enough 2024",
+      "url": "https://open.spotify.com/track/5ysryf5WrO4iDe6hm6Cu8x"
     },
     {
       "added_at": "2024-06-14 00:01:00",
@@ -1879,70 +1959,6 @@
       "duration_ms": 240250,
       "name": "It's That Time",
       "url": "https://open.spotify.com/track/2YlrFLQMDvkvnAlyS94zo8"
-    },
-    {
-      "added_at": "2024-06-14 00:01:00",
-      "album": {
-        "name": "Happy Music / Something on My Mind",
-        "url": "https://open.spotify.com/album/4D78IEl2Nl3ywiu254VOVn"
-      },
-      "artists": [
-        {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        }
-      ],
-      "duration_ms": 232625,
-      "name": "Happy Music",
-      "url": "https://open.spotify.com/track/3rh495Z2rIRwD316blea4f"
-    },
-    {
-      "added_at": "2024-06-14 00:01:00",
-      "album": {
-        "name": "Bionic Boy",
-        "url": "https://open.spotify.com/album/3TZ40t04vfJ9MvEZcdoqsg"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        }
-      ],
-      "duration_ms": 206265,
-      "name": "Bionic Boy",
-      "url": "https://open.spotify.com/track/7byloGFJ8lO5d7cCxFXOIh"
-    },
-    {
-      "added_at": "2024-06-14 00:01:00",
-      "album": {
-        "name": "No Bueno",
-        "url": "https://open.spotify.com/album/5fTUKANhhWrTFBfDmNbLbe"
-      },
-      "artists": [
-        {
-          "name": "Sosa UK",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        }
-      ],
-      "duration_ms": 350125,
-      "name": "No Bueno",
-      "url": "https://open.spotify.com/track/1BkVnW3EJByz6sbV8csgkL"
-    },
-    {
-      "added_at": "2024-06-14 00:01:00",
-      "album": {
-        "name": "You and I Are Equal",
-        "url": "https://open.spotify.com/album/7h1JqqftHbKVq5x6izUNey"
-      },
-      "artists": [
-        {
-          "name": "BluePrint",
-          "url": "https://open.spotify.com/artist/0oV5K4BDmoENgjwB8lvDmT"
-        }
-      ],
-      "duration_ms": 254770,
-      "name": "You and I Are Equal",
-      "url": "https://open.spotify.com/track/4laAIQLzf49FKhy14SmA87"
     }
   ],
   "unique_name": "Island Anthems",

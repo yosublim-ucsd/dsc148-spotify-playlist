@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "Showcasing the world of Indie; feel the vibes and enjoy the ride. Cover: Valley",
+  "description": "Showcasing the world of Indie; feel the vibes and enjoy the ride. Cover: Mustafa",
   "name": "Chill Indie Music",
   "tracks": [
     {
@@ -846,7 +846,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 243952,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8"
@@ -1216,6 +1216,24 @@
       "duration_ms": 237466,
       "name": "Frog In Boiling Water",
       "url": "https://open.spotify.com/track/0JAxbxS5Hd2N7g8Sd01eq3"
+    },
+    {
+      "album": {
+        "name": "Gaza is Calling",
+        "url": "https://open.spotify.com/album/33xs5LXJkJZDVptz8ovCcb"
+      },
+      "artists": [
+        {
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270400,
+      "name": "Gaza is Calling",
+      "url": "https://open.spotify.com/track/3ChIzdLUmq1sB9I556xwgC"
     },
     {
       "album": {
@@ -1811,6 +1829,24 @@
     },
     {
       "album": {
+        "name": "Motorcycle",
+        "url": "https://open.spotify.com/album/7mhREQUR2GbBqPILSsKz7g"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166741,
+      "name": "Motorcycle",
+      "url": "https://open.spotify.com/track/0pJAiDG0LmZHlPuMudDvjs"
+    },
+    {
+      "album": {
         "name": "Music On The Radio",
         "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
       },
@@ -2082,7 +2118,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 190731,
       "name": "On Fire",
       "url": "https://open.spotify.com/track/1Z1lzLOYf6CuAsrbNbmdDl"

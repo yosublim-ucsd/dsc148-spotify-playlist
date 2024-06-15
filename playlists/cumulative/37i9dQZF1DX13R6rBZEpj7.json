@@ -1426,7 +1426,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 214545,
       "name": "Donny Don",
       "url": "https://open.spotify.com/track/3uwOIivH9QUkBTdkIRfo8c"
@@ -1576,6 +1576,28 @@
       "duration_ms": 167706,
       "name": "Enemies",
       "url": "https://open.spotify.com/track/1qQGrp6pol2Swp45C9PvjC"
+    },
+    {
+      "album": {
+        "name": "Energy Gang",
+        "url": "https://open.spotify.com/album/1Qwg7QFskDE5xt7wKW63C0"
+      },
+      "artists": [
+        {
+          "name": "D Double E",
+          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+        },
+        {
+          "name": "Sir Spyro",
+          "url": "https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235714,
+      "name": "Energy Gang",
+      "url": "https://open.spotify.com/track/2qVfSZfHllkXPnmDP8CoK4"
     },
     {
       "album": {
@@ -4129,6 +4151,28 @@
     },
     {
       "album": {
+        "name": "Ruffneck",
+        "url": "https://open.spotify.com/album/266vU1sTez2M31BgOIYEhL"
+      },
+      "artists": [
+        {
+          "name": "Om Unit",
+          "url": "https://open.spotify.com/artist/3rblB9Pm51uKd9uYPVPB7B"
+        },
+        {
+          "name": "James Bangura",
+          "url": "https://open.spotify.com/artist/7939stjhhD9rNBMg0HvQ4o"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258953,
+      "name": "Ruffneck",
+      "url": "https://open.spotify.com/track/2IdA9NR0QVKYDWKQZObq0s"
+    },
+    {
+      "album": {
         "name": "Ruins",
         "url": "https://open.spotify.com/album/01BZZCEXgzCdHDx8fWcVpv"
       },
@@ -5174,7 +5218,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 188307,
       "name": "Wanna Freak",
       "url": "https://open.spotify.com/track/4ZXkasziPLirl2GCn3bh8Q"

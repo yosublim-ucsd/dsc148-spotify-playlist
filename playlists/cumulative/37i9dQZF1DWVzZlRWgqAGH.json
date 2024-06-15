@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "Music for your soul. Cover: BADBADNOTGOOD",
+  "description": "Music for your soul. Cover: Dylan Sinclair",
   "name": "BUTTER",
   "tracks": [
     {
@@ -1054,7 +1054,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 324920,
       "name": "All The Same",
       "url": "https://open.spotify.com/track/33fKu1jFRuXJiBg5fXZQSk"
@@ -2923,6 +2923,24 @@
     },
     {
       "album": {
+        "name": "BLACK OR WHITE",
+        "url": "https://open.spotify.com/album/6RJlxyF7OJ7a3PQSarsquc"
+      },
+      "artists": [
+        {
+          "name": "Jake Isaac",
+          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218361,
+      "name": "BLACK OR WHITE",
+      "url": "https://open.spotify.com/track/5JEjeIMPnFJcKisnx8LfdG"
+    },
+    {
+      "album": {
         "name": "Black Qualls (Single Version)",
         "url": "https://open.spotify.com/album/2DW7xZRqOhta0mMUKAWs3V"
       },
@@ -4304,6 +4322,24 @@
       "duration_ms": 130882,
       "name": "CINDERELLA, Pt. 2",
       "url": "https://open.spotify.com/track/1NsoJ2lSWD61hD4hRY5Qby"
+    },
+    {
+      "album": {
+        "name": "Cinnamon Curls",
+        "url": "https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246586,
+      "name": "Cinnamon Curls",
+      "url": "https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe"
     },
     {
       "album": {
@@ -5820,7 +5856,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 138466,
       "name": "DO u WANNA BE HIGH? - A COLORS SHOW",
       "url": "https://open.spotify.com/track/2Ok4sNdvbffCf9p8sP9DPW"
@@ -9497,6 +9533,24 @@
     },
     {
       "album": {
+        "name": "Grey Scale",
+        "url": "https://open.spotify.com/album/2PcTdFPrOWM28ffy1e8cY6"
+      },
+      "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179160,
+      "name": "Grey Scale",
+      "url": "https://open.spotify.com/track/33zlW22yOTjdRB1X7SRdzU"
+    },
+    {
+      "album": {
         "name": "Grey Skies",
         "url": "https://open.spotify.com/album/0nqR2rk6uqe3YZH6RhDPS6"
       },
@@ -11474,7 +11528,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 195106,
       "name": "Insecure",
       "url": "https://open.spotify.com/track/3tLVfEh8kJhMkDaxvOzK1M"
@@ -12404,6 +12458,24 @@
       "duration_ms": 283133,
       "name": "Learning",
       "url": "https://open.spotify.com/track/6UtXR2Odm1Uang1ZI9vFfc"
+    },
+    {
+      "album": {
+        "name": "LEMON TREES",
+        "url": "https://open.spotify.com/album/5doYyd0IKAUbUtrYL6DGOV"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151765,
+      "name": "LEMON TREES",
+      "url": "https://open.spotify.com/track/3P4nm6VN7ZHA8Xbd4KGkIk"
     },
     {
       "album": {
@@ -13522,7 +13594,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 190156,
       "name": "L\u2019Anthropofemme",
       "url": "https://open.spotify.com/track/5LDkPdCtlZpf5gWsFjghri"
@@ -14124,7 +14196,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 161872,
       "name": "Mezcal",
       "url": "https://open.spotify.com/track/1bcL7ZUYoMqPHbZJkwKR02"
@@ -16281,6 +16353,24 @@
     },
     {
       "album": {
+        "name": "OOTW",
+        "url": "https://open.spotify.com/album/3dKsoVM86jYYP7AHEN3qDX"
+      },
+      "artists": [
+        {
+          "name": "Shae Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139458,
+      "name": "OOTW",
+      "url": "https://open.spotify.com/track/39POBulxadsYQ7hQgni7Z4"
+    },
+    {
+      "album": {
         "name": "No Longer in the Suburbs",
         "url": "https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8"
       },
@@ -16880,7 +16970,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 170819,
       "name": "Peach Optimo",
       "url": "https://open.spotify.com/track/3RNLKLJyNYLh9t6ojhxN7B"
@@ -17600,7 +17690,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 211642,
       "name": "Push N Shuv",
       "url": "https://open.spotify.com/track/08KP4FEV1JZUQu8ZL2Uru9"
@@ -20863,6 +20953,24 @@
     },
     {
       "album": {
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/6JsXG3wIZEo5Gwsky2ZReq"
+      },
+      "artists": [
+        {
+          "name": "Adia",
+          "url": "https://open.spotify.com/artist/7hodbs05Q9ZhGCgflz3xdM"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174908,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/1dvXEFLw3OtyMSRBsNFS3s"
+    },
+    {
+      "album": {
         "name": "Stuck in a Daze",
         "url": "https://open.spotify.com/album/3mDlaPTDC09sShCy6O1JS8"
       },
@@ -21176,6 +21284,24 @@
       "duration_ms": 293426,
       "name": "Sunshine (feat. Foushe\u00e9)",
       "url": "https://open.spotify.com/track/0mRbKcvmbbUtfFyfeFHCJa"
+    },
+    {
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/3NufSjKHNbdeHHMm9ZxnbF"
+      },
+      "artists": [
+        {
+          "name": "Kalisway",
+          "url": "https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164160,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/5a4IW2MzERTAMJteRzoy1t"
     },
     {
       "album": {

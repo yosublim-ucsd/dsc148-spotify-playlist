@@ -4,7 +4,7 @@
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Darren Kiely
 
-418 songs - 23 hr 49 min
+422 songs - 1 day 0 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [4runner](https://open.spotify.com/track/1RaF9xwakfao1RRknWyYB5) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4runner](https://open.spotify.com/album/3I7cYBHqayM3NGqX6tG5m2) | 4:25 | 2023-04-28 | 2023-08-24 |
 | [4runner](https://open.spotify.com/track/3sIKldlKWC5TICO2Tcz7uu) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4runner](https://open.spotify.com/album/7HI6B7UBPjpK0I4PoTfsVu) | 4:25 | 2023-08-18 | 2023-10-06 |
 | [4runner](https://open.spotify.com/track/6ofFq0aQ8aXG73pjfFKwFv) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4runner](https://open.spotify.com/album/7xWDRktAtZiSLeI7LBPFJD) | 4:25 | 2023-09-29 | 2024-03-30 |
+| [After Dark](https://open.spotify.com/track/26b2184K8AbuALqmkfznSl) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [After Dark](https://open.spotify.com/album/6JyxbY1JEmqBkLdxr1UdxY) | 3:28 | 2024-06-14 |  |
 | [Afterglow](https://open.spotify.com/track/6jIjQHf2S6jVh25TbNV6TM) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Afterglow](https://open.spotify.com/album/4C3YEmyqlD0ceZoYEXZLrT) | 3:20 | 2024-04-19 |  |
 | [Alaska](https://open.spotify.com/track/58Jt8MKkvodjpQ4EQBXQ79) | [Caiola](https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV) | [Only Real When Shared](https://open.spotify.com/album/17sBr3OmJz1lzH20ckwyIB) | 3:45 | 2023-12-15 | 2024-03-30 |
 | [Alaska](https://open.spotify.com/track/5HTHYYmcoqh1FrAhchKeSF) | [Caiola](https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV) | [Only Real When Shared](https://open.spotify.com/album/2T2MfSCQzdh15zFLdnN0Eh) | 3:45 | 2022-10-14 | 2024-01-27 |
@@ -285,6 +286,7 @@
 | [Only Love](https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 4:09 | 2022-03-12 | 2024-03-30 |
 | [Ophelia](https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 2:40 | 2023-06-23 |  |
 | [Our Kingdom](https://open.spotify.com/track/1hmNibuS4toaTijZjDEtNZ) | [Hugo Barriol](https://open.spotify.com/artist/714s2nd4G1chzdguyBIwvk) | [Yellow](https://open.spotify.com/album/0ozIWfcCUNXKl9yNL57Ke0) | 3:06 | 2021-11-12 | 2024-02-27 |
+| [out of breath](https://open.spotify.com/track/16L5lEXtnJ3ahA3jE8aWKo) | [LULLANAS](https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd) | [pretty lies and time machines](https://open.spotify.com/album/3P7Hup9ohD8gLSN6J2qQPw) | 3:19 | 2024-06-14 |  |
 | [Oxygen](https://open.spotify.com/track/1kxEBN9Mb1kgBLaAsWeGyj) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [Nightstorm](https://open.spotify.com/album/05kua9lN7NVGirdDVnxks1) | 4:27 | 2022-03-12 | 2022-07-15 |
 | [Part of Me](https://open.spotify.com/track/3OCXPJdjn36BPPZ8RPMlnj) | [Good Old War](https://open.spotify.com/artist/33szNKNcVX8x0jl8X7hxHL) | [Part of Me](https://open.spotify.com/album/6kbAHYMY4k8pEMCWHzN5Ra) | 3:02 | 2021-11-12 | 2022-07-28 |
 | [Part of Me](https://open.spotify.com/track/5TA2vNVGdgTdNyNNeq52e0) | [Good Old War](https://open.spotify.com/artist/33szNKNcVX8x0jl8X7hxHL) | [Part of Me](https://open.spotify.com/album/6gvcXUbaSTH7qqHxPBkvb2) | 3:02 | 2022-03-12 | 2023-12-25 |
@@ -321,7 +323,7 @@
 | [See the World](https://open.spotify.com/track/0YPX6ztcWM4QTbR9tpnHNB) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [See the World](https://open.spotify.com/album/4mWXndqtN0KU5ndYussdyK) | 4:17 | 2021-11-12 | 2023-11-23 |
 | [Seventeen Again \(feat\. Novo Amor\)](https://open.spotify.com/track/1Qcx39jI9pjoTrURXuk3QY) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2), [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Seventeen Again \(feat\. Novo Amor\)](https://open.spotify.com/album/5f60fAxPrT39rjbmNssvvR) | 3:24 | 2021-11-12 | 2023-04-01 |
 | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/track/0p1hBWPaSxUDTSa32PyhnU) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/album/6XPbfNCiFWlz1Licn4IEHz) | 4:03 | 2023-10-06 | 2024-03-30 |
-| [Signal Sender](https://open.spotify.com/track/1XHTJ2n4ajw9dDzuPGY4Rm) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Signal Sender](https://open.spotify.com/album/4ILDW93NPJE8kEJSrUXuIy) | 3:20 | 2023-09-29 |  |
+| [Signal Sender](https://open.spotify.com/track/1XHTJ2n4ajw9dDzuPGY4Rm) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Signal Sender](https://open.spotify.com/album/4ILDW93NPJE8kEJSrUXuIy) | 3:20 | 2023-09-29 | 2024-06-15 |
 | [Silicone Heart](https://open.spotify.com/track/18YdjxKgfyjcaIKRrfpndh) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [Silicone Heart](https://open.spotify.com/album/2NbquPo8J4VCEqkrDyV9KR) | 3:13 | 2024-02-16 |  |
 | [Skin and Bones](https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Skin and Bones](https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu) | 3:34 | 2024-01-19 |  |
 | [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 | 2024-03-22 |  |
@@ -379,10 +381,12 @@
 | [Twenty Nothing](https://open.spotify.com/track/4RCxMeZjjirMp6sLWAiRxb) | [Frankie Bird](https://open.spotify.com/artist/4j8LfmADKGMGknwJOUFKYf) | [Twenty Nothing](https://open.spotify.com/album/1A39gFaDwwqZi2oNPTag3E) | 3:51 | 2024-06-07 |  |
 | [Undone](https://open.spotify.com/track/24hn3aFOHawfGzO4JWwx45) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Undone](https://open.spotify.com/album/6ML9ENZ5eDo0CYyZg32L7W) | 3:37 | 2022-03-12 | 2023-01-18 |
 | [Undone](https://open.spotify.com/track/5iMl1CDPOjElGiCgerN7kN) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Palomar Parade](https://open.spotify.com/album/10BcjSFPmPwUtHyqHfKkQh) | 3:37 | 2022-10-14 | 2023-01-20 |
+| [Unsee](https://open.spotify.com/track/4s4Qxld7g6ydIcQ5Ir6MTf) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [For all my eyes have seen](https://open.spotify.com/album/56zLXVP20MYSoP0UV90B9c) | 4:41 | 2024-06-14 |  |
 | [Until I Found You](https://open.spotify.com/track/6VhuP99TE6gYNQRJIlAWFD) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Easy On My Eyes](https://open.spotify.com/album/6BUPtXbb2tspYnkVdg5Ef7) | 2:56 | 2022-08-19 |  |
 | [Until You](https://open.spotify.com/track/7iH6cflAGYwR82sNMZiGuq) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Until You](https://open.spotify.com/album/03MCMaTPo8CiVxwcCvgyem) | 3:18 | 2021-11-12 |  |
 | [Valapriso](https://open.spotify.com/track/1Z3hqW2OprFrwO05euqt8z) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Valapriso](https://open.spotify.com/album/6Ro2L2h4BlChNYSiy00mys) | 3:07 | 2023-08-04 | 2023-11-17 |
 | [Valentina](https://open.spotify.com/track/0TD0ydYJuFPEaqshquDEpw) | [The Hunts](https://open.spotify.com/artist/1fFdRZK1GDGXL7vRxxUWLH) | [Those Younger Days](https://open.spotify.com/album/0onnJgma2xAAFMYr3lUZbs) | 3:50 | 2021-11-12 | 2023-11-03 |
+| [VERSIONS OF FOREVER](https://open.spotify.com/track/3yDvu7hXpkWFyQSk3RSiD8) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [VERSIONS OF FOREVER](https://open.spotify.com/album/1La2A10EDwizsKONlKdfM8) | 2:57 | 2024-06-14 |  |
 | [Visions Of You](https://open.spotify.com/track/22D1DwiWzLVfIodVEG5XtA) | [Steinza](https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD) | [Visions Of You](https://open.spotify.com/album/22ERssxXyl2G0RYOVNjnHV) | 3:56 | 2024-03-29 |  |
 | [Wait No More](https://open.spotify.com/track/4clWpztIoh70RqmZGPvnJz) | [The End of America](https://open.spotify.com/artist/1lyJ8ddC52ERd8XppvRbzq) | [Wait No More](https://open.spotify.com/album/73xDo3fQAsSLNTCpTlBedN) | 2:27 | 2021-11-12 | 2022-01-22 |
 | [Waiting Here](https://open.spotify.com/track/010K4ydIvyrxXWbt7gGvzZ) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [Waiting Here \(Remixes\)](https://open.spotify.com/album/6VnXIm4oiQoiRVjSCypRJo) | 3:54 | 2022-03-12 | 2022-08-17 |

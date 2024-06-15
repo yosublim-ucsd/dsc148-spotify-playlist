@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "No rules. No boundaries. The best new alternative tracks. Cover: KALEO",
+  "description": "No rules. No boundaries. The best new alternative tracks. Cover: Pale Waves",
   "name": "The New Alt",
   "tracks": [
     {
@@ -2158,7 +2158,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 180000,
       "name": "Backslide",
       "url": "https://open.spotify.com/track/6fNaHkjAxP6rI2sZhT7QJn"
@@ -4303,6 +4303,24 @@
     },
     {
       "album": {
+        "name": "The Sweater Club",
+        "url": "https://open.spotify.com/album/73lkqaVOVZnVMHi2ZYrY0N"
+      },
+      "artists": [
+        {
+          "name": "Jelani Aryeh",
+          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173391,
+      "name": "Breaking By",
+      "url": "https://open.spotify.com/track/1A0LGwMocD470H5Pre6IkR"
+    },
+    {
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/1D0slQiKPmlWdQJI6cYW1D"
       },
@@ -5742,7 +5760,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 261135,
       "name": "Chiquita",
       "url": "https://open.spotify.com/track/0oBpYdGNyCoVWlR3gVgmrn"
@@ -6056,6 +6074,24 @@
       "duration_ms": 254418,
       "name": "Come Over (Again)",
       "url": "https://open.spotify.com/track/4PDJDIdWxNN1AlnbrKkoPf"
+    },
+    {
+      "album": {
+        "name": "Metamorphosis Complete",
+        "url": "https://open.spotify.com/album/0mfdTcr1Y7vlMSXDpKAZ2G"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234563,
+      "name": "Comedy",
+      "url": "https://open.spotify.com/track/5EcUvUZ7wioHI6KEb4Q6YS"
     },
     {
       "album": {
@@ -7172,7 +7208,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 187195,
       "name": "Darling, The Planets",
       "url": "https://open.spotify.com/track/1Gn6yw9hDNoXKYaF2rNjF0"
@@ -11444,7 +11480,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 237466,
       "name": "Frog In Boiling Water",
       "url": "https://open.spotify.com/track/0JAxbxS5Hd2N7g8Sd01eq3"
@@ -13004,6 +13040,24 @@
       "duration_ms": 174811,
       "name": "Hard Feelings",
       "url": "https://open.spotify.com/track/4BaX0wDUFPhBAoCpkOUCaX"
+    },
+    {
+      "album": {
+        "name": "Harder to Kill",
+        "url": "https://open.spotify.com/album/5oX8qPG4FJm9lPhZtn7gBu"
+      },
+      "artists": [
+        {
+          "name": "Carter Vail",
+          "url": "https://open.spotify.com/artist/4Bu9DnBZ12oX7MiiaJy9hK"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178346,
+      "name": "Harder to Kill",
+      "url": "https://open.spotify.com/track/5enTtMsxQ2vAsdoM69QTZz"
     },
     {
       "album": {
@@ -15966,7 +16020,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 236506,
       "name": "Inner Gold [Feat. Royal & the Serpent]",
       "url": "https://open.spotify.com/track/17p8QWDLfv0CfqVRfaCuNG"
@@ -16754,7 +16808,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 156524,
       "name": "Keep It Up",
       "url": "https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft"
@@ -17458,7 +17512,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 238373,
       "name": "Let's Start Degeneracy",
       "url": "https://open.spotify.com/track/1cQQmHb9ngt95La4cgUMK6"
@@ -19942,6 +19996,24 @@
       "duration_ms": 177080,
       "name": "Mood Ring",
       "url": "https://open.spotify.com/track/4ZwV2vVR5vUEOKHQwFJe8T"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/78idguEf1xfzmWnsL6akZn"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153266,
+      "name": "Mood Swings - Spotify Singles",
+      "url": "https://open.spotify.com/track/0AYOV3i35BkGFHBwZTKDl2"
     },
     {
       "album": {
@@ -23136,6 +23208,24 @@
       "duration_ms": 144478,
       "name": "Perfectly Imperfect",
       "url": "https://open.spotify.com/track/3dWy0VondkohX7GE6aOI3c"
+    },
+    {
+      "album": {
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/7tbsKocOD59BcX2FJKfqUH"
+      },
+      "artists": [
+        {
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219964,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq"
     },
     {
       "album": {
@@ -26802,7 +26892,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 167271,
       "name": "Shudder",
       "url": "https://open.spotify.com/track/1c1iyuIpgPr7FBbMBkQEzJ"
@@ -27482,6 +27572,24 @@
       "duration_ms": 201808,
       "name": "Slow Burn",
       "url": "https://open.spotify.com/track/5gUiI6bJSPcKM2lwRaLAgE"
+    },
+    {
+      "album": {
+        "name": "Infinity High",
+        "url": "https://open.spotify.com/album/0UlqS6mKG6GoEJTDma4hMQ"
+      },
+      "artists": [
+        {
+          "name": "Sherwyn",
+          "url": "https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160117,
+      "name": "Slow Rider",
+      "url": "https://open.spotify.com/track/6PoyUY1cahG3vn1JMfiM2N"
     },
     {
       "album": {
@@ -30150,7 +30258,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 172307,
       "name": "The Break",
       "url": "https://open.spotify.com/track/6TTtHaVNst2NugJEuCLqoY"
@@ -32445,6 +32553,24 @@
     },
     {
       "album": {
+        "name": "Tuesday",
+        "url": "https://open.spotify.com/album/3OJhV8FhTJQLH979qE2QXA"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149600,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/073gctjGEOq9cXuFjldqxT"
+    },
+    {
+      "album": {
         "name": "Piggy",
         "url": "https://open.spotify.com/album/7N3POXqNxFtLe4vSKU137z"
       },
@@ -34220,7 +34346,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 189720,
       "name": "What's Love (feat. MUNA)",
       "url": "https://open.spotify.com/track/537RDcN9XAScJPv9Rn3XDy"

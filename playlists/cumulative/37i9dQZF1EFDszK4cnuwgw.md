@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4s1bdPvgsNLQZdeWUnc3bx">Young M.A</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-78 songs - 4 hr 15 min
+79 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Through The Day](https://open.spotify.com/track/1OycK0O319x0vsGhUMrzYG) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [SleepWalkin](https://open.spotify.com/album/5UcaPHZWI1ryGAaF09KH5R) | 4:35 | 2024-06-13 |  |
 | [Tip The Surgeon](https://open.spotify.com/track/4tacR7Av6xOTRvhzyWssUt) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Tip The Surgeon](https://open.spotify.com/album/1954wNtuh4T3cUJYOZs0eL) | 2:07 | 2024-06-13 |  |
 | [Trap or Cap](https://open.spotify.com/track/04WcxfTz7qwm2DZ1F3bTTt) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Red Flu](https://open.spotify.com/album/52naLR1YTURdNtzwrbQQxu) | 3:21 | 2024-06-13 |  |
+| [Trim](https://open.spotify.com/track/3jYjgpmhz8QhvREcSzeWMc) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Trim](https://open.spotify.com/album/4f6ckq0JBmR4SzzZIlHhAn) | 3:25 | 2024-06-14 |  |
 | [TUNN UP \(feat\. Young M.A and Kojo Funds\)](https://open.spotify.com/track/00PzZxkblNcMoWC3j5LxUj) | [Red Cafe](https://open.spotify.com/artist/4BWn7qje7L2bGp79bupn3B), [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [TUNN UP \(feat\. Young M.A and Kojo Funds\)](https://open.spotify.com/album/131po673KyCI71iD1Ow4GD) | 3:31 | 2024-06-13 |  |
 | [Unaccommodating \(feat\. Young M.A\)](https://open.spotify.com/track/0q2vG0UVuy6ajjcpkQHdZM) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Music To Be Murdered By](https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6) | 3:36 | 2024-06-13 |  |
 | [Wahlinn](https://open.spotify.com/track/6bkPI7zlkdbWJ0dS5oNRsi) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [Korleone](https://open.spotify.com/artist/37GwPp8jpX0TvlKwvy4RIS) | [Wahlinn](https://open.spotify.com/album/7MEKyGygzGM5QRZ7R85TEP) | 3:49 | 2024-06-13 |  |

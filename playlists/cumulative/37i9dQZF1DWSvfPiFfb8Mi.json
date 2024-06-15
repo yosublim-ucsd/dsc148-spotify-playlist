@@ -24,7 +24,7 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-24",
+      "date_removed": null,
       "duration_ms": 186689,
       "name": "19 - Josh Butler Remix",
       "url": "https://open.spotify.com/track/5GiM1m00X51F9MpREgqy23"
@@ -242,10 +242,28 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 231105,
       "name": "All The Things We Say",
       "url": "https://open.spotify.com/track/1KH8bxeGwgw1IxtzQUx6m5"
+    },
+    {
+      "album": {
+        "name": "Always By Your Side",
+        "url": "https://open.spotify.com/album/1o4hTnWRBt6GxbNytqNHxH"
+      },
+      "artists": [
+        {
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337975,
+      "name": "Always By Your Side",
+      "url": "https://open.spotify.com/track/11jjzsFPIuaVORI0HSdLGt"
     },
     {
       "album": {
@@ -300,7 +318,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-12",
+      "date_removed": null,
       "duration_ms": 216794,
       "name": "Ask Yourself (Can You Dance)",
       "url": "https://open.spotify.com/track/1BB8a33pfYW3bw0k7kRlBg"
@@ -402,7 +420,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-23",
+      "date_removed": null,
       "duration_ms": 296453,
       "name": "Be The One (feat. Yung Bae)",
       "url": "https://open.spotify.com/track/4mpyalWKRgGgghWqr0DGRr"
@@ -744,7 +762,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 197277,
       "name": "Can't Get Enough (feat. Rachel Chinouriri & Venna)",
       "url": "https://open.spotify.com/track/7s47cTLl4j1JKawu308yId"
@@ -897,6 +915,24 @@
     },
     {
       "album": {
+        "name": "COLOGNE",
+        "url": "https://open.spotify.com/album/79omah7LR2uicio2GTfxZ1"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "COLOGNE",
+      "url": "https://open.spotify.com/track/0nh7PHjK9n0w9hu4Ka1HkL"
+    },
+    {
+      "album": {
         "name": "Colors (The Knocks Remix)",
         "url": "https://open.spotify.com/album/0g92mDVGfKe09Nmf1vBoMU"
       },
@@ -1039,6 +1075,32 @@
     },
     {
       "album": {
+        "name": "Daydreaming (Sgt Slick Remix)",
+        "url": "https://open.spotify.com/album/0pb2S4bdo6TTYa1cYGSsT6"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        },
+        {
+          "name": "Sgt Slick",
+          "url": "https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184497,
+      "name": "Daydreaming - Sgt Slick Remix",
+      "url": "https://open.spotify.com/track/1FCBtlxyee0yiZn0EnxtTk"
+    },
+    {
+      "album": {
         "name": "Deal With Love",
         "url": "https://open.spotify.com/album/0lWEcyqe1x63wdfzVpGgS8"
       },
@@ -1058,6 +1120,24 @@
       "duration_ms": 272000,
       "name": "Deal With Love",
       "url": "https://open.spotify.com/track/32JvxnUlvQEtPY9SCRXwK3"
+    },
+    {
+      "album": {
+        "name": "Debt",
+        "url": "https://open.spotify.com/album/7g2l64DSx7bpZSJllHbcO6"
+      },
+      "artists": [
+        {
+          "name": "Schur",
+          "url": "https://open.spotify.com/artist/0lidIulPhPCS2cN4qDatt7"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139637,
+      "name": "Debt",
+      "url": "https://open.spotify.com/track/3B6pwtFXjVHCcDtL2NyK6j"
     },
     {
       "album": {
@@ -1308,7 +1388,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 213243,
       "name": "Dunston (Bellaire Remix)",
       "url": "https://open.spotify.com/track/1un3tgix0qXdcAAT7VYiDx"
@@ -1758,7 +1838,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-09",
+      "date_removed": null,
       "duration_ms": 202000,
       "name": "Freeway (with Estelle)",
       "url": "https://open.spotify.com/track/0dIfJUr08iuUos2rGg9uEJ"
@@ -1850,7 +1930,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 163250,
       "name": "Giodisco",
       "url": "https://open.spotify.com/track/04ljyATONPMyz6cNNGLdAM"
@@ -2266,7 +2346,7 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-11",
+      "date_removed": null,
       "duration_ms": 155750,
       "name": "I Discover",
       "url": "https://open.spotify.com/track/74oBQ9l3m1Q32dAtQ4zrlb"
@@ -2546,7 +2626,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-12",
+      "date_removed": null,
       "duration_ms": 381639,
       "name": "In This Life - Cassara Remix",
       "url": "https://open.spotify.com/track/2rqlnBqDPUqTOVOhlVh9ew"
@@ -2922,7 +3002,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-20",
+      "date_removed": null,
       "duration_ms": 209693,
       "name": "Last Dance",
       "url": "https://open.spotify.com/track/7sYOC9FdWJ2Gf5O8bYuK9t"
@@ -2987,6 +3067,24 @@
     },
     {
       "album": {
+        "name": "Life After Love",
+        "url": "https://open.spotify.com/album/5DEzaA7NAYasbacnUPVR2b"
+      },
+      "artists": [
+        {
+          "name": "Ralph Felix",
+          "url": "https://open.spotify.com/artist/3i8emYvhsa8PmLH4zTAvjV"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196931,
+      "name": "Life After Love",
+      "url": "https://open.spotify.com/track/2EpQzgxlQgzhxH8ctY5PhG"
+    },
+    {
+      "album": {
         "name": "Call On Me & Lifetime (Remixes)",
         "url": "https://open.spotify.com/album/1CRH8YfN1l16GxyuuFQn18"
       },
@@ -3002,7 +3100,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-06",
+      "date_removed": null,
       "duration_ms": 193106,
       "name": "Lifetime - Dimitri From Paris 'Cruising Attitude' Remix",
       "url": "https://open.spotify.com/track/3UG6kDGptSoj8JMavdvZbc"
@@ -3300,7 +3398,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-21",
+      "date_removed": null,
       "duration_ms": 185400,
       "name": "Love In C Minor - Franc Moody Remix",
       "url": "https://open.spotify.com/track/3sfcZAIZW6CK035kWl0mBD"
@@ -4172,7 +4270,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-26",
+      "date_removed": null,
       "duration_ms": 232389,
       "name": "Post Tenebras Lux",
       "url": "https://open.spotify.com/track/2kiKyF907YzNOQAwYynCpa"
@@ -4352,7 +4450,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 164501,
       "name": "Rock With Me",
       "url": "https://open.spotify.com/track/18fazLrZ3SjUVNaaAOjlSU"
@@ -4400,7 +4498,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-29",
+      "date_removed": null,
       "duration_ms": 206896,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/5AEYzNoMrEgoEf7pDXiyD3"
@@ -4878,7 +4976,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-11",
+      "date_removed": null,
       "duration_ms": 248580,
       "name": "Soulsearcher",
       "url": "https://open.spotify.com/track/0ygPVwsl15vlyfAJNE28mj"
@@ -4900,7 +4998,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-15",
+      "date_removed": null,
       "duration_ms": 191666,
       "name": "Space Cowgirl",
       "url": "https://open.spotify.com/track/2S9vlLu8yA1zsfexGaDeAe"
@@ -4994,7 +5092,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-10",
+      "date_removed": null,
       "duration_ms": 606862,
       "name": "Street Player - Dimitri From Paris Super Disco Blend, Pt. I & II",
       "url": "https://open.spotify.com/track/1wI96BJ059iyAajxqWPTa4"
@@ -5038,7 +5136,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 166289,
       "name": "Studio 54",
       "url": "https://open.spotify.com/track/20blT6R5DJhfrk9c16lQ4E"
@@ -5540,7 +5638,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-17",
+      "date_removed": null,
       "duration_ms": 220299,
       "name": "Waiting 4 You",
       "url": "https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe"
@@ -5932,7 +6030,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-06",
+      "date_removed": null,
       "duration_ms": 221331,
       "name": "You\u2019re Gonna Make Me Love Somebody Else (feat. Kelli Sae)",
       "url": "https://open.spotify.com/track/6JYFZ20WIZQB9ZEnR2aqZ7"

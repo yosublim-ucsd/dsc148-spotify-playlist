@@ -879,6 +879,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Noite de Paz - Can\u00e7\u00f5es para Celebrar",
+        "url": "https://open.spotify.com/album/39EJNgjtmDNElujFEAbsA1"
+      },
+      "artists": [
+        {
+          "name": "Perlla",
+          "url": "https://open.spotify.com/artist/2DD48qUxMj0QmjMqWOZ4WK"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Vem Chegando o Natal",
+      "url": "https://open.spotify.com/track/3gPpfWdDTHNniJpWql9BI5"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Bossa Christmas",
         "url": "https://open.spotify.com/album/16g8Bf8U4YJg9tUlt7ACPq"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 243349,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/65d8Zuzcuvghb9YNdSSAoQ"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Noite de Paz - Can\u00e7\u00f5es para Celebrar",
-        "url": "https://open.spotify.com/album/39EJNgjtmDNElujFEAbsA1"
-      },
-      "artists": [
-        {
-          "name": "Perlla",
-          "url": "https://open.spotify.com/artist/2DD48qUxMj0QmjMqWOZ4WK"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Vem Chegando o Natal",
-      "url": "https://open.spotify.com/track/3gPpfWdDTHNniJpWql9BI5"
     },
     {
       "added_at": "2023-12-22 03:00:00",

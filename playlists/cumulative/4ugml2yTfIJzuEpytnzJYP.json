@@ -3759,6 +3759,28 @@
     },
     {
       "album": {
+        "name": "Sacred Order Of Pi",
+        "url": "https://open.spotify.com/album/7hMjooVnox49rV4RmN6EkP"
+      },
+      "artists": [
+        {
+          "name": "An-Ten-Nae",
+          "url": "https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV"
+        },
+        {
+          "name": "Shadow Society",
+          "url": "https://open.spotify.com/artist/6AJ351ghgydcePFPco6zUY"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182571,
+      "name": "Sacred Order Of Pi",
+      "url": "https://open.spotify.com/track/2xuHBYNcSfUxWN2icqBA6y"
+    },
+    {
+      "album": {
         "name": "See You",
         "url": "https://open.spotify.com/album/1Q6A1gHBqhS3uq5nQpzv30"
       },

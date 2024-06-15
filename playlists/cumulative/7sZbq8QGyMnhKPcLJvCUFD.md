@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-551 songs - 1 day 4 hr 10 min
+553 songs - 1 day 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Dangerous](https://open.spotify.com/track/2ek0oPdjselpQnDaEOje10) | [VOLT VISION](https://open.spotify.com/artist/0D1RIHFWh132dnfTGIHF6K), [Beneath My Shade](https://open.spotify.com/artist/7aADBYuRxT4V57iwqzUiPP) | [Dangerous](https://open.spotify.com/album/66DVpNiLrwNe5nLHGlHan0) | 2:01 | 2023-06-06 | 2023-08-10 |
 | [Darkness](https://open.spotify.com/track/2yT6EsKV5GBdd9AO8gd4JJ) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [She Is Jules](https://open.spotify.com/artist/4XZ25UyxKA59Pi3d8WV379) | [Darkness](https://open.spotify.com/album/08xgXUGQbxUp6eCdBWyRTS) | 3:41 | 2022-08-11 | 2023-04-28 |
 | [Daydream](https://open.spotify.com/track/1hUp6I7PRARMZ0pCrXhE7s) | [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ), [blankfaces](https://open.spotify.com/artist/6E416eeGBMwMlH3FmlxOMS) | [Daydream](https://open.spotify.com/album/00VnMTJa80xTQFonoCksxo) | 2:49 | 2022-04-12 | 2023-04-28 |
+| [DELTA](https://open.spotify.com/track/5NcT6HWiBiETs1mTFYXR1U) | [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe) | [DELTA](https://open.spotify.com/album/6jrRtiZ11ETv5ercTeB2gH) | 2:52 | 2024-06-14 |  |
 | [Demnuhbad](https://open.spotify.com/track/22CeWpYhyEruCsFauCHlLv) | [Vosai](https://open.spotify.com/artist/7u4uMBxwuDZsN7wGxzdiGw), [VinDon](https://open.spotify.com/artist/6hS0eB6BQPvcKhIM6Ltem0) | [Demnuhbad](https://open.spotify.com/album/4NnK9RjEAOOxk5rHtutkBH) | 3:06 | 2022-11-03 | 2023-04-28 |
 | [Desperate](https://open.spotify.com/track/068gApVgHSg3dZbqHjYRW4) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Desperate](https://open.spotify.com/album/6iBQ9N0IsxqPxSn2QJjpZv) | 3:15 | 2023-04-28 | 2024-01-04 |
 | [Devil](https://open.spotify.com/track/3lj59hy6FrRDyYNo8Onuud) | [Barren Gates](https://open.spotify.com/artist/7eMykQ9NjmtA5FnMarEG2F) | [Devil](https://open.spotify.com/album/4L3VVfebqok9bZFGKKSTTG) | 2:56 | 2023-08-08 | 2023-12-14 |
@@ -341,6 +342,7 @@
 | [No Way Back](https://open.spotify.com/track/4M5FGieNXYe8aZDnLehIJ8) | [SFRNG](https://open.spotify.com/artist/0PkBrqmi8Ma9hmKD0hB2W2), [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K), [Just Isac](https://open.spotify.com/artist/4WfRJXoLtLLCxbyOGBbzKV), [Custody](https://open.spotify.com/artist/7dzrpQi4ITF86WilQbPBr8) | [No Way Back](https://open.spotify.com/album/4rpSDrUxE8fzv247TUX9Da) | 2:39 | 2022-06-28 | 2023-04-28 |
 | [Nobody](https://open.spotify.com/track/2wsH9mYlpO698u3NOsD6Xw) | [Zack Merci](https://open.spotify.com/artist/3c5mtZJ7qs1veWUI1DRpaI), [CRVN](https://open.spotify.com/artist/6Lk4en2wu5IjMxZWzJfJ28) | [Nobody](https://open.spotify.com/album/5CyvFcv9b2H2dRpQ3EzI2M) | 3:10 | 2022-07-07 | 2023-04-28 |
 | [Nocturnal](https://open.spotify.com/track/0KzdemS6NXcJks5chfvN1J) | [Hyri](https://open.spotify.com/artist/4L5kfUu3gnBiLPv5mBfYB5) | [Nocturnal](https://open.spotify.com/album/5WT2jnZiwdU8Y3WHmpZZon) | 3:05 | 2023-12-13 |  |
+| [Nostalgia](https://open.spotify.com/track/1CeWw5m1PvJOAxtO6x9fD4) | [Janji](https://open.spotify.com/artist/5VXPJC0PNpJbzB10A39G8E), [Johnning](https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN) | [Nostalgia](https://open.spotify.com/album/1Ft5RQT1Yqwy4KNRR57Ack) | 2:56 | 2024-06-14 |  |
 | [Not A Thing](https://open.spotify.com/track/1DlpCnNvSzSCUrHi3Pkg6M) | [ASHWOOD](https://open.spotify.com/artist/7IuzLCgXUTGA5z3h4bvvu0), [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS), [Ghost'n'ghost](https://open.spotify.com/artist/0A06OmS7ErkKarzCDXoXTY) | [Realize EP](https://open.spotify.com/album/6nyzv7wxeMosJQzUiglK7W) | 2:50 | 2023-07-06 | 2023-08-10 |
 | [Not A Thing](https://open.spotify.com/track/1aJj8trpmiMebCa2K0TjI0) | [ASHWOOD](https://open.spotify.com/artist/7IuzLCgXUTGA5z3h4bvvu0), [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS), [Ghost'n'ghost](https://open.spotify.com/artist/0A06OmS7ErkKarzCDXoXTY) | [Maria](https://open.spotify.com/album/773RSEiOc5qQNJ7ZGdB5FN) | 2:50 | 2023-06-22 | 2023-08-10 |
 | [Not A Thing](https://open.spotify.com/track/3Oig2rxkxppvPnGOhes1Mk) | [ASHWOOD](https://open.spotify.com/artist/7IuzLCgXUTGA5z3h4bvvu0), [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS), [Ghost'n'ghost](https://open.spotify.com/artist/0A06OmS7ErkKarzCDXoXTY) | [Not A Thing](https://open.spotify.com/album/1NsqgAY3C6FTwtJO5pvMwq) | 2:50 | 2023-06-01 | 2023-08-10 |

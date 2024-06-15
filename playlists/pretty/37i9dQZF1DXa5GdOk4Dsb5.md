@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 
 > Para ahogar las penas en el fondo de una botella.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,161 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,207 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 95 | [No Es Por Acá](https://open.spotify.com/track/3bvJftZKZe5QKz433NczyV) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [No Es Por Acá](https://open.spotify.com/album/452R0kJudc73I2N1hxhL7k) | 2:47 |
 | 96 | [Te Parece Poco](https://open.spotify.com/track/3nARaHTIpxGyqfvDuRvzui) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Pipe Bueno](https://open.spotify.com/album/6UXWX4wfVveTCal4MwxCEk) | 4:06 |
 | 97 | [Entre Comillas](https://open.spotify.com/track/6HhOgGZWmN5DqqsdJGfhUK) | [Darío Gómez](https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM) | [El Rey del Despecho \- Internacional](https://open.spotify.com/album/6MbEqKty9qMnsBtiklzbtR) | 3:10 |
-| 98 | [Mi Venganza](https://open.spotify.com/track/0z7h1C28EemMAFcpkp0iWL) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Mi Venganza](https://open.spotify.com/album/4GrlF2rRb3Xg9o4aPPKOik) | 3:11 |
-| 99 | [Usted No Me Olvida](https://open.spotify.com/track/6adK8xCmHfwko5N1FEDqoT) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c) | [Usted No Me Olvida](https://open.spotify.com/album/3hwujUBUE4JRL4E7SXoJPY) | 3:13 |
+| 98 | [Usted No Me Olvida](https://open.spotify.com/track/6adK8xCmHfwko5N1FEDqoT) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c) | [Usted No Me Olvida](https://open.spotify.com/album/3hwujUBUE4JRL4E7SXoJPY) | 3:13 |
+| 99 | [Mi Venganza](https://open.spotify.com/track/0z7h1C28EemMAFcpkp0iWL) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Mi Venganza](https://open.spotify.com/album/4GrlF2rRb3Xg9o4aPPKOik) | 3:11 |
 | 100 | [Tu \- Live](https://open.spotify.com/track/64xuDtR4TKUI8JAeZoqndu) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados Vol\. 1 \(Live\)](https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K) | 4:06 |
 
 Snapshot ID: `ZIxbkQAAAAA7ieRLdePXPXePUFddCRYR`

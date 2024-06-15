@@ -1,12 +1,12 @@
 {
-  "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: Ela Minus",
+  "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: Avey Tare",
   "num_followers": 66943,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAAPdm42MrR+SqkG95Nf15vq7QnhSPTE",
+  "snapshot_id": "AAAPePMac+tBrxA78WzLG20jT7F6ZzV+",
   "tracks": [
     {
       "added_at": "2024-06-12 14:03:13",
@@ -23,6 +23,22 @@
       "duration_ms": 240834,
       "name": "Just Belong",
       "url": "https://open.spotify.com/track/5WMMg4VlGcAXkAJPtdNAZx"
+    },
+    {
+      "added_at": "2024-06-14 09:13:13",
+      "album": {
+        "name": "POPtical Illusion",
+        "url": "https://open.spotify.com/album/4Y47DeNLz30h7AyLtGdqtT"
+      },
+      "artists": [
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        }
+      ],
+      "duration_ms": 255657,
+      "name": "Davies and Wales",
+      "url": "https://open.spotify.com/track/5eNdtVT6h1Sr7Q6xdv5Ptu"
     },
     {
       "added_at": "2024-06-12 14:03:13",

@@ -1,6 +1,6 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 77386,
+  "num_followers": 77496,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
@@ -2235,6 +2235,22 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
+        "name": "Tangled Up in You",
+        "url": "https://open.spotify.com/album/4LiUbhhWWkFflkUXOUzUkQ"
+      },
+      "artists": [
+        {
+          "name": "The Altons",
+          "url": "https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu"
+        }
+      ],
+      "duration_ms": 240842,
+      "name": "Soon Enough",
+      "url": "https://open.spotify.com/track/4yNJHDjA1IJRB2Pb6VrFD3"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
         "name": "Seems Like",
         "url": "https://open.spotify.com/album/3IaDaFiGolUI09rcE8q5m8"
       },
@@ -2379,22 +2395,6 @@
       "duration_ms": 225796,
       "name": "Ilusi\u00f3n De Amor",
       "url": "https://open.spotify.com/track/2hG1LVQt6YLxtlcWiujpcq"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
-        "name": "Tangled Up in You",
-        "url": "https://open.spotify.com/album/4LiUbhhWWkFflkUXOUzUkQ"
-      },
-      "artists": [
-        {
-          "name": "The Altons",
-          "url": "https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu"
-        }
-      ],
-      "duration_ms": 240842,
-      "name": "Soon Enough",
-      "url": "https://open.spotify.com/track/4yNJHDjA1IJRB2Pb6VrFD3"
     },
     {
       "added_at": "2024-01-05 17:02:31",

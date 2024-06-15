@@ -2,7 +2,7 @@
 
 ### [This Is CHiCO with HoneyWorks](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4oyOhG)
 
-> This is CHiCO with HoneyWorks\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is CHiCO with HoneyWorks\. The essential tracks, all in one playlist.
 
 120 songs - 7 hr 56 min
 

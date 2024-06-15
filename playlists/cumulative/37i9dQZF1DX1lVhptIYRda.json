@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Thank you to everyone who helped us heat up Spotify House at CMA Fest! ",
+  "description": "Thank you to everyone who helped us heat up Spotify House at CMA Fest! Cover: Shaboozey",
   "name": "Hot Country",
   "tracks": [
     {
@@ -1838,7 +1838,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 216673,
       "name": "Burn It Down - Radio Edit",
       "url": "https://open.spotify.com/track/4bARASJEokNacSYtEhoNBp"
@@ -5076,7 +5076,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 178440,
       "name": "Halfway To Hell",
       "url": "https://open.spotify.com/track/1fAeFPXsX08Ovnn9iV1x27"
@@ -5952,6 +5952,24 @@
       "duration_ms": 176780,
       "name": "Hurt No More",
       "url": "https://open.spotify.com/track/5UDX3jJn9vXGxE5h0sNRCy"
+    },
+    {
+      "album": {
+        "name": "I Am Not Okay",
+        "url": "https://open.spotify.com/album/07IZeIkEgAdjs0dSbRxn7i"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197133,
+      "name": "I Am Not Okay",
+      "url": "https://open.spotify.com/track/76ODTQOl0JZQbhfxs6nRV9"
     },
     {
       "album": {
@@ -10168,6 +10186,24 @@
       "duration_ms": 178723,
       "name": "Religiously",
       "url": "https://open.spotify.com/track/0ec7EBr0mjWO6J7TRr09bN"
+    },
+    {
+      "album": {
+        "name": "Fathers & Sons",
+        "url": "https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236055,
+      "name": "Remember Him That Way",
+      "url": "https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD"
     },
     {
       "album": {

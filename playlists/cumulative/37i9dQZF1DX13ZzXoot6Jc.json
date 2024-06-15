@@ -801,6 +801,24 @@
     },
     {
       "album": {
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/4KHD5LGWqkmyZSyZOU08l0"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177313,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d"
+    },
+    {
+      "album": {
         "name": "Corralling the Blues",
         "url": "https://open.spotify.com/album/1GWoPqXhA9YAUTb95Y4V8t"
       },
@@ -910,6 +928,28 @@
       "duration_ms": 133973,
       "name": "Cowboys And Angels",
       "url": "https://open.spotify.com/track/6HhZDGrpQuj2iLiN1JCpyl"
+    },
+    {
+      "album": {
+        "name": "Cowboys Are Frequently Secretly Fond Of Each Other",
+        "url": "https://open.spotify.com/album/3FP98bajALVr5zE3dSaaQF"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218878,
+      "name": "Cowboys Are Frequently Secretly Fond Of Each Other",
+      "url": "https://open.spotify.com/track/5rKTGQ2Q1wndZnX7km8WYu"
     },
     {
       "album": {
@@ -2074,7 +2114,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 204237,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/1dPAFSZBXcR95RGdWD5mKS"
@@ -3438,7 +3478,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 197400,
       "name": "Need A Favor",
       "url": "https://open.spotify.com/track/5jUOG0aeAofL5u3UWyrtDO"
@@ -4326,7 +4366,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 177720,
       "name": "Sad Ass Country Song",
       "url": "https://open.spotify.com/track/3nn7clyurm04ygyjoRlBy6"
@@ -4416,7 +4456,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-25",
+      "date_removed": null,
       "duration_ms": 237493,
       "name": "Save Me (with Lainey Wilson)",
       "url": "https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM"
@@ -4788,7 +4828,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 175384,
       "name": "So Do I",
       "url": "https://open.spotify.com/track/4rnGatjVZ7P37HaYLLgCW1"
@@ -5084,6 +5124,24 @@
       "duration_ms": 168524,
       "name": "Summer Don't Go",
       "url": "https://open.spotify.com/track/7CwEDwMKJOimuaw6nOtE2r"
+    },
+    {
+      "album": {
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/733zbDkHarKvnvoJkouK34"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173269,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/2PgjJ90q1zETqCX68dxgyd"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,218 likes - 125 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,212 likes - 125 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,16 +110,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 100 | [Christmas Bells](https://open.spotify.com/track/0GxP8b87h0PhNnvVTMRCQ1) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Greatest Christmas Songs](https://open.spotify.com/album/1CCaTAFPyzp5XQY9nrk2TO) | 2:43 |
 | 101 | [Christmas Cheer](https://open.spotify.com/track/3yQw5zU2b3MNH2h9ccYgyZ) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F), [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Jazz For Joy: A Verve Christmas Album](https://open.spotify.com/album/42LDbwS16YVmhtt87vgAAc) | 4:51 |
 | 102 | [Last Christmas](https://open.spotify.com/track/2E55IaqlqMsF0NxU7oIIpC) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Jingle Bells](https://open.spotify.com/album/4MC3Lul2Dm1ooAtGVARP0a) | 3:45 |
-| 103 | [Toyland](https://open.spotify.com/track/4rOpf9iZxgQLSALGHsYvk4) | [Stephen Stevens Quartet](https://open.spotify.com/artist/0sHjwkrwfeNPET9gG2nNfQ) | [Santa Claus Is Coming To Town](https://open.spotify.com/album/29NEpWZtAc1pKuVl6LvEvm) | 2:54 |
-| 104 | [Once A Year Miracle](https://open.spotify.com/track/3HTRqeCKO4BSMflq1DiTWN) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [The Very Best Time Of Year](https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1) | 2:57 |
+| 103 | [Once A Year Miracle](https://open.spotify.com/track/3HTRqeCKO4BSMflq1DiTWN) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [The Very Best Time Of Year](https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1) | 2:57 |
+| 104 | [Toyland](https://open.spotify.com/track/4rOpf9iZxgQLSALGHsYvk4) | [Stephen Stevens Quartet](https://open.spotify.com/artist/0sHjwkrwfeNPET9gG2nNfQ) | [Santa Claus Is Coming To Town](https://open.spotify.com/album/29NEpWZtAc1pKuVl6LvEvm) | 2:54 |
 | 105 | [Silent Night](https://open.spotify.com/track/2NvbRCk08L3clDF9BqVtEo) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe) | [A Very Swingin’ Basie Christmas!](https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S) | 3:24 |
 | 106 | [What Are You Doing New Year's Eve?](https://open.spotify.com/track/3nr5SzU7pt0IvNCvk7m4np) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [A Nancy Wilson Christmas](https://open.spotify.com/album/5tI1MB1rVlks6MYEPARQI1) | 4:50 |
 | 107 | [We Three Kings](https://open.spotify.com/track/4F5Ht2JjkaMmL4b8verZ2W) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [More Sounds Of Christmas](https://open.spotify.com/album/0PXIY5ZJpZWy3LMpujLN6C) | 4:01 |
 | 108 | [Sleigh Ride](https://open.spotify.com/track/7Ez9zlZuyvEo2iiRvOSDnd) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When My Heart Finds Christmas](https://open.spotify.com/album/1puRIKtM4c4aDpUNJNtyn4) | 3:40 |
 | 109 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/4zVgLxk3wgdRUZi73eKCty) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/3wP0qYEVSwTpxpFtuAyUko) | 2:42 |
-| 110 | [A Holly Jolly Christmas](https://open.spotify.com/track/2qIufYDNP1YlmKVsNuOFdn) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Christmas Eve](https://open.spotify.com/album/5cexNJyM1uYPlM3EH2bSpP) | 2:22 |
-| 111 | [A Toast to Friends](https://open.spotify.com/track/3UzsKmSvlmLtQupgAoUfbZ) | [Gabriel Latchin Trio](https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl) | [I'll Be Home for Christmas](https://open.spotify.com/album/2279rFm900f7XZRc1qKUmh) | 5:09 |
-| 112 | [Beautiful, Altogether](https://open.spotify.com/track/7qsv2ZaehJN4uIkCDsubKQ) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Pianoman at Christmas](https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5) | 3:30 |
+| 110 | [A Toast to Friends](https://open.spotify.com/track/3UzsKmSvlmLtQupgAoUfbZ) | [Gabriel Latchin Trio](https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl) | [I'll Be Home for Christmas](https://open.spotify.com/album/2279rFm900f7XZRc1qKUmh) | 5:09 |
+| 111 | [Beautiful, Altogether](https://open.spotify.com/track/7qsv2ZaehJN4uIkCDsubKQ) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Pianoman at Christmas](https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5) | 3:30 |
+| 112 | [A Holly Jolly Christmas](https://open.spotify.com/track/2qIufYDNP1YlmKVsNuOFdn) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Christmas Eve](https://open.spotify.com/album/5cexNJyM1uYPlM3EH2bSpP) | 2:22 |
 | 113 | [This Christmas](https://open.spotify.com/track/0chBHr9DJuSYwN5JuunfY5) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [Jazz For Joy: A Verve Christmas Album](https://open.spotify.com/album/42LDbwS16YVmhtt87vgAAc) | 4:40 |
 | 114 | [Seasons](https://open.spotify.com/track/6M4wVZ5uXhKU9PvSpfuNEM) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z), [Jonathan Michel](https://open.spotify.com/artist/2G2WfpJo95sdb8Djp7xzd8), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS) | [Seasons](https://open.spotify.com/album/481ygPSZj9JRa09EFXbOBh) | 2:46 |
 | 115 | [Let's Share Christmas](https://open.spotify.com/track/2aQiM3ffmt5QzSzU5FxtPm) | [Dick Lieb](https://open.spotify.com/artist/7rB4viLXW5N1ioEuo2Iogz) | [Let's Share Christmas](https://open.spotify.com/album/1NfiYHxoziSkGlC121fURe) | 3:55 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 124 | [Love to Keep Me Warm](https://open.spotify.com/track/2x6Hg0OmYnkvCtFmAcyzwX) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Love to Keep Me Warm](https://open.spotify.com/album/0pzpLwsZSU0MKFsImNxynF) | 2:38 |
 | 125 | [Winter Wonderland](https://open.spotify.com/track/7cbaFyvM1Cbl8xr4YT0qWw) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL), [Clayton\-Hamilton Jazz Orchestra](https://open.spotify.com/artist/3BDNDjVtAxrIqFDIO5cUgy) | [Christmas Songs](https://open.spotify.com/album/3ZHBI81GwgJyEfkbj3ueAr) | 3:13 |
 
-Snapshot ID: `ZYFhkAAAAAAFZdX/r8QIhIyBuX/cyhmF`
+Snapshot ID: `Zmv4tAAAAABkq7gfOJC9ophHuxf3a1t9`

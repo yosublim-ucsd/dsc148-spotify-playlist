@@ -393,6 +393,28 @@
     },
     {
       "album": {
+        "name": "My House My Rules",
+        "url": "https://open.spotify.com/album/3yqp5I9jxG7smLaqjVdbvl"
+      },
+      "artists": [
+        {
+          "name": "Riton",
+          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
+        },
+        {
+          "name": "FEYI",
+          "url": "https://open.spotify.com/artist/2E41RSTUOR7CBYbfzXYI2t"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221471,
+      "name": "CMND CNTRL (feat. FEYI)",
+      "url": "https://open.spotify.com/track/2nx4zXquY958X4LKNlHD6X"
+    },
+    {
+      "album": {
         "name": "Comin\u2019 Around Again",
         "url": "https://open.spotify.com/album/1wzwhaqsrOEoLZxYjA2fIv"
       },
@@ -837,6 +859,28 @@
     },
     {
       "album": {
+        "name": "Give It To Me Good",
+        "url": "https://open.spotify.com/album/1TP8dirEaMbBuw0JgL40GT"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        },
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169523,
+      "name": "Give It To Me Good",
+      "url": "https://open.spotify.com/track/11FsUxXUbxzr5mNqwioFFK"
+    },
+    {
+      "album": {
         "name": "Greenlight (feat. Clementine Douglas)",
         "url": "https://open.spotify.com/album/26422GmcV96zY9uJzalG49"
       },
@@ -1154,6 +1198,24 @@
       "duration_ms": 183750,
       "name": "Know My Name",
       "url": "https://open.spotify.com/track/1JeM2RHVfWP3S4mKE3akNf"
+    },
+    {
+      "album": {
+        "name": "Lift You Up",
+        "url": "https://open.spotify.com/album/1UtcVAhnTCM1eqnCVZLEaI"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133234,
+      "name": "Lift You Up",
+      "url": "https://open.spotify.com/track/766OCy2QMl814sxiR1gl6v"
     },
     {
       "album": {

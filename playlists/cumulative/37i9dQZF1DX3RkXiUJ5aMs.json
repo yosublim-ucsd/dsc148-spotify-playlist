@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Big Feelings",
+        "url": "https://open.spotify.com/album/65SsCOeKOqa4fF52Uf3CvO"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199389,
+      "name": "Big Feelings",
+      "url": "https://open.spotify.com/track/0GPgYS3Ihul7GYor1xen2r"
+    },
+    {
+      "album": {
         "name": "Simply Bob Carlisle",
         "url": "https://open.spotify.com/album/164ZlumFzgmF1ahd7gzyDn"
       },
@@ -150,6 +168,28 @@
       "duration_ms": 261786,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/0JYJV0dIYEboVueifrGQJ1"
+    },
+    {
+      "album": {
+        "name": "Checking In (From the Inspired By Soundtrack \"Unsung Hero\")",
+        "url": "https://open.spotify.com/album/5pc39dpKoqqIibRMtvrPyr"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        },
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195188,
+      "name": "Checking In",
+      "url": "https://open.spotify.com/track/18hClnXvRu2j0BjYpfPX5B"
     },
     {
       "album": {
@@ -979,6 +1019,24 @@
     },
     {
       "album": {
+        "name": "Neverland",
+        "url": "https://open.spotify.com/album/01Gw2cBVHVwJOlIUy7enke"
+      },
+      "artists": [
+        {
+          "name": "Brandon Heath",
+          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240529,
+      "name": "Neverland",
+      "url": "https://open.spotify.com/track/2QvwG2KB8i6qOF3XtTjwWd"
+    },
+    {
+      "album": {
         "name": "Give Yourself Away",
         "url": "https://open.spotify.com/album/5ha4teFmoKCKiRKXg1CYuc"
       },
@@ -1290,6 +1348,42 @@
       "duration_ms": 270893,
       "name": "Then They Do - With String Intro",
       "url": "https://open.spotify.com/track/7tUZJ2ZcRZXYZQlV7CsMB2"
+    },
+    {
+      "album": {
+        "name": "These Are The Days",
+        "url": "https://open.spotify.com/album/1OFLHuLwgMSUP7PEjaIWtk"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291407,
+      "name": "These are the Days",
+      "url": "https://open.spotify.com/track/7fTB6AmnnOm1zKI5QN69Yc"
+    },
+    {
+      "album": {
+        "name": "Time Machine",
+        "url": "https://open.spotify.com/album/1Wv1DcgXkdS5RTU8Y0Bf2w"
+      },
+      "artists": [
+        {
+          "name": "Jon Mullins",
+          "url": "https://open.spotify.com/artist/3MKuZm9eAVMdw9ni14mzCP"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203697,
+      "name": "Time Machine - Daughter Version",
+      "url": "https://open.spotify.com/track/1uHtISIBA8DrU6agy9Qvu2"
     },
     {
       "album": {

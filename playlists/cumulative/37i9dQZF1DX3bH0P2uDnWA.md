@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-376 songs - 21 hr 21 min
+377 songs - 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [As You Will](https://open.spotify.com/track/7aNTFhSXwUtXWP063Y46rV) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Kalletti Klub](https://open.spotify.com/artist/39PwFc1Sx9iHHqEcRPPsWQ) | [As You Will](https://open.spotify.com/album/045pd68z8017VF3kkVx8d6) | 6:18 | 2020-10-30 | 2022-05-15 |
 | [ASCENDANT BRASIER \- Back To The Live](https://open.spotify.com/track/6lfOVQjCCOP5ONDYqZCHtV) | [LMZG](https://open.spotify.com/artist/41kO57U2yrvAWlng1p5g6g) | [BACK TO THE LIVE](https://open.spotify.com/album/3UBISQr4lmqADs9V1mkJjE) | 7:10 | 2024-03-01 |  |
 | [ASCENDANT BRASIER \- Balduin Remix \- Electro Swing](https://open.spotify.com/track/0MJ4n3iA0w2xhRs6IC1UuV) | [Balduin](https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv), [Lamuzgueule](https://open.spotify.com/artist/41kO57U2yrvAWlng1p5g6g) | [ASCENDANT BRASIER \(Balduin Remix\)](https://open.spotify.com/album/03ypKhrBSNz6cTNOTjxzlP) | 3:18 | 2023-06-16 | 2023-08-26 |
-| [Back in Time](https://open.spotify.com/track/7pstX01u6qbKF0tWsTa2Lz) | [Swing Republic](https://open.spotify.com/artist/0iOe7zpme8Z6oTs4ffvJjX), [Karina Kappel](https://open.spotify.com/artist/31ufWigY0fDQ8p8EJxvaGH) | [Back in Time](https://open.spotify.com/album/6hPAAeiJ8tPWLBo8kpsMzw) | 3:18 | 2020-10-30 |  |
+| [Back in Time](https://open.spotify.com/track/7pstX01u6qbKF0tWsTa2Lz) | [Swing Republic](https://open.spotify.com/artist/0iOe7zpme8Z6oTs4ffvJjX), [Karina Kappel](https://open.spotify.com/artist/31ufWigY0fDQ8p8EJxvaGH) | [Back in Time](https://open.spotify.com/album/6hPAAeiJ8tPWLBo8kpsMzw) | 3:18 | 2020-10-30 | 2024-06-15 |
 | [Bad Boy Good Man \- Rmx 2023](https://open.spotify.com/track/3ygbRD0PvH6CWdFH6NWGQx) | [Tape Five](https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko) | [Bad Boy Good Man \(Rmx 2023\)](https://open.spotify.com/album/0miSiEh4lSSb3msuWsA3Ju) | 3:29 | 2023-05-19 |  |
 | [Ballade No\. 1](https://open.spotify.com/track/6sdTcq277BK1HlIn4ODjAl) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [DanyloM](https://open.spotify.com/artist/6BzwqcclY8c6FNvMZc7Wtx) | [Ballade No\. 1](https://open.spotify.com/album/6DNeBYb5bziXWzVBaMsnj1) | 1:54 | 2021-05-14 | 2023-04-01 |
 | [BAM! \- Chill Remix](https://open.spotify.com/track/4qlZFwn0pvaZalY5lJUGzX) | [KELSON](https://open.spotify.com/artist/3PlSpnPQR0dZY50k3jfx7h), [LÒNIS](https://open.spotify.com/artist/1pS3ir5bQSBiBYvOBjPWcm) | [BAM! \(Remixes\)](https://open.spotify.com/album/1IOx2nHbWzjDa3EM6ly6Y1) | 2:40 | 2023-08-18 |  |
@@ -142,6 +142,7 @@
 | [Hips That Swing](https://open.spotify.com/track/42Vq47dELW8UIwXnIpLhl6) | [11 Acorn Lane](https://open.spotify.com/artist/3D8pAbIPK2aPh9VbWjett5) | [Hips That Swing](https://open.spotify.com/album/7H6S9MScSyaXWG2yS5AVbe) | 2:57 | 2024-03-08 |  |
 | [Hit the Road Jack \- Tech House Mix](https://open.spotify.com/track/5fNIQLOnHUvmK0g2w6OgRm) | [Betty Booom](https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg), [Dorade](https://open.spotify.com/artist/1IC32zAAG7hcdf8PGjjDNm), [Maskarade](https://open.spotify.com/artist/6xNIw26ydx4yTG1QJ5VZse) | [Hit the Road Jack \(Tech House Mix\)](https://open.spotify.com/album/4fBsTXzwLoKA5y6YMlefYe) | 2:51 | 2023-01-13 |  |
 | [Hold the Night](https://open.spotify.com/track/55KhvVzqoaNEgaRTDmu6Zg) | [Lyre Le Temps](https://open.spotify.com/artist/6jX8VHUJomYSfi5Hobdmmn) | [Lady Swing](https://open.spotify.com/album/1EWFmpi36vurwa8xRzye8E) | 4:20 | 2020-10-30 |  |
+| [Honey Has Spice](https://open.spotify.com/track/1fZEVdJPI8ql1A7ZT3XAmV) | [Swing Republic](https://open.spotify.com/artist/0iOe7zpme8Z6oTs4ffvJjX), [LOUQ](https://open.spotify.com/artist/6D145SsRqHrq77RlAFmeU9) | [Honey Has Spice](https://open.spotify.com/album/5v76FebEkYHb0u8eOSHpgG) | 3:08 | 2024-06-14 |  |
 | [Horny \- Electro Swing Version](https://open.spotify.com/track/5KdJVf0tqurkIDdBEbIJVG) | [Pisk](https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc), [Nastazya](https://open.spotify.com/artist/1Nzd9pxwORjLCFWOfYxBsy) | [Horny](https://open.spotify.com/album/0LW05xK1vo6bD99JLZV52P) | 3:30 | 2020-10-30 | 2023-03-11 |
 | [Hybrid](https://open.spotify.com/track/5AGlnxhdjDxAWlb3xs1Abn) | [Swingrowers](https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B) | [Hybrid](https://open.spotify.com/album/0ujiG266DU9S5hLjYtXY0q) | 3:02 | 2020-10-30 | 2022-05-14 |
 | [I Don't Wanna Sleep](https://open.spotify.com/track/40BzIhFZ1IY4RdjqAtjnGI) | [Atom Smith](https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2), [Emma Lea](https://open.spotify.com/artist/6DmqHeHxcu5cQicAfz7aDJ) | [I Don't Wanna Sleep](https://open.spotify.com/album/5ZMXexnnnNTS7AiTUI54FP) | 3:28 | 2023-06-23 |  |

@@ -806,7 +806,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 228253,
       "name": "BUBALU",
       "url": "https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm"
@@ -1819,6 +1819,28 @@
     },
     {
       "album": {
+        "name": "El 100",
+        "url": "https://open.spotify.com/album/5u7FM0fN09SgCkZRh7vNin"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178100,
+      "name": "El 100",
+      "url": "https://open.spotify.com/track/6LSMoKokOy7XfJGkDAhDw5"
+    },
+    {
+      "album": {
         "name": "El Caudal",
         "url": "https://open.spotify.com/album/57zjLKLycEw9ezNKgXBDtI"
       },
@@ -2106,7 +2128,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 211454,
       "name": "entre las piernas",
       "url": "https://open.spotify.com/track/5Z8ylWRIPqri4EFRltuHMg"
@@ -2298,7 +2320,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 177493,
       "name": "Feo",
       "url": "https://open.spotify.com/track/0zZzASdqR6KoTbwcSKplma"
@@ -2644,7 +2666,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 171808,
       "name": "Inevitables",
       "url": "https://open.spotify.com/track/2lndFfVfdAY7MHmLnyKrbE"
@@ -3182,6 +3204,36 @@
       "duration_ms": 172600,
       "name": "Love Lock",
       "url": "https://open.spotify.com/track/0Ru98QSQ8vScpLvZH5inPu"
+    },
+    {
+      "album": {
+        "name": "Low Key (feat. Humby)",
+        "url": "https://open.spotify.com/album/4YyfHeYsrbjUUWS60MwANl"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Humby",
+          "url": "https://open.spotify.com/artist/48qllQaUjZZOijgvJrHtag"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216980,
+      "name": "Low Key (feat. Humby)",
+      "url": "https://open.spotify.com/track/4PfR2vNZ3ig9OCyZmWsQL2"
     },
     {
       "album": {
@@ -3923,6 +3975,28 @@
     },
     {
       "album": {
+        "name": "No Escuches Esta Canci\u00f3n",
+        "url": "https://open.spotify.com/album/5X3VP73kaBFCmaVxEzxcCI"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191866,
+      "name": "No Escuches Esta Canci\u00f3n",
+      "url": "https://open.spotify.com/track/6KAuZJVlWj9yOcw0CJTNKR"
+    },
+    {
+      "album": {
         "name": "No Fue Para Tanto",
         "url": "https://open.spotify.com/album/3JKkmAn5BvEfd0OyCfDn4a"
       },
@@ -3934,7 +4008,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 213733,
       "name": "No Fue Para Tanto",
       "url": "https://open.spotify.com/track/3KkT1C9O2umVjUdq3O5Mbd"
@@ -5405,6 +5479,32 @@
     },
     {
       "album": {
+        "name": "Sussy",
+        "url": "https://open.spotify.com/album/45DC2xHGmXJcQxqd5gyoMM"
+      },
+      "artists": [
+        {
+          "name": "Moffa",
+          "url": "https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194103,
+      "name": "Sussy",
+      "url": "https://open.spotify.com/track/7BwTusOtnCb1TDnwfwqALe"
+    },
+    {
+      "album": {
         "name": "DNK",
         "url": "https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN"
       },
@@ -6096,6 +6196,28 @@
       "duration_ms": 188125,
       "name": "Vida",
       "url": "https://open.spotify.com/track/3vyUFpEdEAWqfBSRGUKL7z"
+    },
+    {
+      "album": {
+        "name": "VISTO",
+        "url": "https://open.spotify.com/album/5cCKiC4c4S5wap5EbyjXHR"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        },
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163026,
+      "name": "VISTO",
+      "url": "https://open.spotify.com/track/5atvafpwTItCJk0YVAZLzz"
     },
     {
       "album": {

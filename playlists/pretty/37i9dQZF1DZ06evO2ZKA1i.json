@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 286933,
+  "num_followers": 286967,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjlAAAAAACw4KYqknWc4FcMiMEBXSt+",
+  "snapshot_id": "Zmo2gAAAAAA2aYMAaRwqd4FGnNxs65JQ",
   "tracks": [
     {
       "added_at": null,
@@ -59,6 +59,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Perfect Strangers",
+        "url": "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 328426,
+      "name": "Perfect Strangers",
+      "url": "https://open.spotify.com/track/2JhJOPGvtqMpj5RQC8cIYf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stormbringer (Remastered)",
         "url": "https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU"
       },
@@ -91,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shades of Deep Purple",
-        "url": "https://open.spotify.com/album/5qxy4Qf0ug4rV9YVYGQRn2"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 266840,
-      "name": "Hush - 1998 Remaster",
-      "url": "https://open.spotify.com/track/2Vim06YsRb4uJRpbeq6NR6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Machine Head (Remastered)",
         "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
       },
@@ -119,6 +119,22 @@
       "duration_ms": 366136,
       "name": "Highway Star - Remastered 2012",
       "url": "https://open.spotify.com/track/3uMmllZo1AfoEnVT4ENCD3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shades of Deep Purple",
+        "url": "https://open.spotify.com/album/5qxy4Qf0ug4rV9YVYGQRn2"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 266840,
+      "name": "Hush - 1998 Remaster",
+      "url": "https://open.spotify.com/track/2Vim06YsRb4uJRpbeq6NR6"
     },
     {
       "added_at": null,
@@ -155,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep Purple in Rock (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 613440,
-      "name": "Child in Time - 1995 Remaster",
-      "url": "https://open.spotify.com/track/573Z2Dty5epeNgKsgoDOlr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Machine Head (Remastered)",
         "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
       },
@@ -183,6 +183,22 @@
       "duration_ms": 209246,
       "name": "When A Blind Man Cries - Remastered",
       "url": "https://open.spotify.com/track/0JtcFIgrkSagrM5JdFakeO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deep Purple in Rock (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 613440,
+      "name": "Child in Time - 1995 Remaster",
+      "url": "https://open.spotify.com/track/573Z2Dty5epeNgKsgoDOlr"
     },
     {
       "added_at": null,
@@ -219,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfect Strangers",
-        "url": "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 235960,
-      "name": "Wasted Sunsets",
-      "url": "https://open.spotify.com/track/07W9HcJyjXPnKQSMbUcWZU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Machine Head (Remastered)",
         "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
       },
@@ -247,6 +247,22 @@
       "duration_ms": 272996,
       "name": "Space Truckin' - Remastered 2012",
       "url": "https://open.spotify.com/track/5S126DaCBZ8z6yh7B1Lszr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfect Strangers",
+        "url": "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 235960,
+      "name": "Wasted Sunsets",
+      "url": "https://open.spotify.com/track/07W9HcJyjXPnKQSMbUcWZU"
     },
     {
       "added_at": null,
@@ -283,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Portable Door",
-        "url": "https://open.spotify.com/album/5j6Kqb1gQUag2eIYbk9yIc"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 228040,
-      "name": "Portable Door",
-      "url": "https://open.spotify.com/track/5yXGke5zIdiRd7J36un4bh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Machine Head (Remastered)",
         "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
       },
@@ -331,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Portable Door",
+        "url": "https://open.spotify.com/album/5j6Kqb1gQUag2eIYbk9yIc"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 228040,
+      "name": "Portable Door",
+      "url": "https://open.spotify.com/track/5yXGke5zIdiRd7J36un4bh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Purpendicular",
         "url": "https://open.spotify.com/album/3bErA9aFZyGiD9j5ntYe5v"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 449133,
       "name": "Sometimes I Feel Like Screaming",
       "url": "https://open.spotify.com/track/5coxHUKzWOdMXunt7EGDDX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Perfect Strangers",
-        "url": "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 312826,
-      "name": "A Gypsy's Kiss",
-      "url": "https://open.spotify.com/track/2Uh9e3fTZRPBzxqNPaY7zr"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Book of Taliesyn",
-        "url": "https://open.spotify.com/album/4pFFGEuoEmxtOTbp22tva9"
+        "name": "Original Album Classics",
+        "url": "https://open.spotify.com/album/4Y9AB5Xy4WS3ifb5xJzUJb"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 391866,
-      "name": "Anthem - 2000 Remaster",
-      "url": "https://open.spotify.com/track/5Umq1zAmNYuE2o9oG6R1bR"
+      "duration_ms": 391533,
+      "name": "Anya",
+      "url": "https://open.spotify.com/track/4tnjWDvVaMmZa3his0lxRp"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Original Album Classics",
-        "url": "https://open.spotify.com/album/4Y9AB5Xy4WS3ifb5xJzUJb"
+        "name": "The Book of Taliesyn",
+        "url": "https://open.spotify.com/album/4pFFGEuoEmxtOTbp22tva9"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 391533,
-      "name": "Anya",
-      "url": "https://open.spotify.com/track/4tnjWDvVaMmZa3his0lxRp"
+      "duration_ms": 391866,
+      "name": "Anthem - 2000 Remaster",
+      "url": "https://open.spotify.com/track/5Umq1zAmNYuE2o9oG6R1bR"
     },
     {
       "added_at": null,

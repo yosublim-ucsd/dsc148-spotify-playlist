@@ -1,12 +1,12 @@
 {
-  "description": "This Is Julieta Venegas. Los temas esenciales, todos en una lista.",
-  "num_followers": 208518,
+  "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
+  "num_followers": 208573,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjlAAAAAABRX56i3qLO65uJI6h4GRA3",
+  "snapshot_id": "Zmo2gAAAAACEK0xIz4qwznIcTTUhnH1I",
   "tracks": [
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Algo Sucede",
+        "url": "https://open.spotify.com/album/1E7C32U8IgXEOPAUg5uNpm"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 200706,
+      "name": "Tu Calor",
+      "url": "https://open.spotify.com/track/4yneB7RBZB9EAGlgdXKzw4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "100PRE YORO",
         "url": "https://open.spotify.com/album/6xOaHqhD9jaJtR3xmFHrzP"
       },
@@ -639,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Algo Sucede",
-        "url": "https://open.spotify.com/album/1E7C32U8IgXEOPAUg5uNpm"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 200706,
-      "name": "Tu Calor",
-      "url": "https://open.spotify.com/track/4yneB7RBZB9EAGlgdXKzw4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Otra Cosa",
         "url": "https://open.spotify.com/album/7rrYlu3nL2ZfW7RR9tSDMO"
       },
@@ -667,6 +667,22 @@
       "duration_ms": 154666,
       "name": "Amores Plat\u00f3nicos",
       "url": "https://open.spotify.com/track/3dyr9NVX6cZwYelfZLFUYQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si",
+        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 193866,
+      "name": "Oleada",
+      "url": "https://open.spotify.com/track/2cIO8gKMYHKe7JjIoictxl"
     },
     {
       "added_at": null,
@@ -687,22 +703,6 @@
       "duration_ms": 218920,
       "name": "Pa' Bailar (Siempre Quiero Mas)",
       "url": "https://open.spotify.com/track/7kRZrgXVxoBkIDHgi7Z7lx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Si",
-        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 193866,
-      "name": "Oleada",
-      "url": "https://open.spotify.com/track/2cIO8gKMYHKe7JjIoictxl"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Limon Y Sal",
-        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 172306,
-      "name": "Canciones de Amor",
-      "url": "https://open.spotify.com/track/66t9mMSm7razNHOKQxAa6R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si",
         "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 182333,
       "name": "Mala Memoria",
       "url": "https://open.spotify.com/track/1etbG9pmtMYEZwlRItSbv0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Limon Y Sal",
+        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 172306,
+      "name": "Canciones de Amor",
+      "url": "https://open.spotify.com/track/66t9mMSm7razNHOKQxAa6R"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Limon Y Sal",
-        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Te Voy a Mostrar",
-      "url": "https://open.spotify.com/track/6bxZEPqWc9oSqYBa1NgA7d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aqui",
         "url": "https://open.spotify.com/album/02FnxsRIsjpfiRxv5PCpNJ"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 198560,
       "name": "De Mis Pasos",
       "url": "https://open.spotify.com/track/2meVfM6TuffeHGh8SuHShQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Limon Y Sal",
+        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Te Voy a Mostrar",
+      "url": "https://open.spotify.com/track/6bxZEPqWc9oSqYBa1NgA7d"
     },
     {
       "added_at": null,
@@ -927,22 +927,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Certa Manha Acordei De Sonhos Intranquilos",
-        "url": "https://open.spotify.com/album/7wn5gtrPC8pOSoqBgc7EZK"
+        "name": "Te solt\u00e9 la rienda",
+        "url": "https://open.spotify.com/album/1ouxWZyFzEFxtBPOGOmKzp"
       },
       "artists": [
-        {
-          "name": "Otto",
-          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
-        },
         {
           "name": "Julieta Venegas",
           "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 203533,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/23DnvfI41PNvTHEkGJXVBC"
+      "duration_ms": 207160,
+      "name": "Te solt\u00e9 la rienda",
+      "url": "https://open.spotify.com/track/28NllT6A5uDaJYJ4HdyFPX"
     }
   ],
   "unique_name": "This Is Julieta Venegas",

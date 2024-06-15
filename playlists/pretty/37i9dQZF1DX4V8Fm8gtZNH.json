@@ -1,13 +1,125 @@
 {
   "description": "Our streets, our way. Listen to music from The Chi, now streaming on Paramount+ with Showtime. ",
-  "num_followers": 16690,
+  "num_followers": 16724,
   "original_name": "The Chi Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjLEQAAAAAU8EL8ioEichLVcd5jH28M",
+  "snapshot_id": "ZmvqcAAAAABWecsIMvH5HDfjxJc88oda",
   "tracks": [
+    {
+      "added_at": "2024-06-14 07:00:00",
+      "album": {
+        "name": "Mouth Music",
+        "url": "https://open.spotify.com/album/1UL3r8GYomErnkOIZUBZIb"
+      },
+      "artists": [
+        {
+          "name": "Black V Neck",
+          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Sex, Drugs, Alcohol",
+      "url": "https://open.spotify.com/track/7lR62jc0BawrEL3AC6UYc5"
+    },
+    {
+      "added_at": "2024-06-14 07:00:00",
+      "album": {
+        "name": "Smoke Me Like A Cigarette",
+        "url": "https://open.spotify.com/album/6R8tgCIsFfkVEwjgECeGlS"
+      },
+      "artists": [
+        {
+          "name": "ARMOURY",
+          "url": "https://open.spotify.com/artist/5pIuGRpzlIWy1XLsbqR1Lo"
+        }
+      ],
+      "duration_ms": 166217,
+      "name": "Smoke Me Like A Cigarette",
+      "url": "https://open.spotify.com/track/4EedO3uTqSMikvOSxVIOYN"
+    },
+    {
+      "added_at": "2024-06-14 07:00:00",
+      "album": {
+        "name": "MOTION",
+        "url": "https://open.spotify.com/album/0jOpBnCSh3x24yF1AUptrk"
+      },
+      "artists": [
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "Link+Up",
+          "url": "https://open.spotify.com/artist/3WKtp7Q14tVEDEd4TOhdeG"
+        }
+      ],
+      "duration_ms": 93528,
+      "name": "Welp",
+      "url": "https://open.spotify.com/track/6FOPNHKDyLrboxg0fDF7ap"
+    },
+    {
+      "added_at": "2024-06-14 07:00:00",
+      "album": {
+        "name": "let me know..",
+        "url": "https://open.spotify.com/album/3DU3OYD1ZESDKisa7DlRYh"
+      },
+      "artists": [
+        {
+          "name": "K-Si Yang",
+          "url": "https://open.spotify.com/artist/1u92szWM3Un6rslftZUyTJ"
+        }
+      ],
+      "duration_ms": 150983,
+      "name": "warn you",
+      "url": "https://open.spotify.com/track/5vCdmw2XXU94Ib9QBNvJk4"
+    },
+    {
+      "added_at": "2024-06-14 07:00:00",
+      "album": {
+        "name": "Fluid",
+        "url": "https://open.spotify.com/album/0SmcTU3rwpRtay5Dai3qoE"
+      },
+      "artists": [
+        {
+          "name": "Mickey Shiloh",
+          "url": "https://open.spotify.com/artist/2ZI5SpSI3z4jWeaFXr0WlC"
+        },
+        {
+          "name": "CITY OF DREAMS",
+          "url": "https://open.spotify.com/artist/73lSPujYfSviENhwss3l00"
+        }
+      ],
+      "duration_ms": 185608,
+      "name": "Bomb D",
+      "url": "https://open.spotify.com/track/3QcnBIjNe5SLKSOMxnhHOd"
+    },
+    {
+      "added_at": "2024-06-14 07:00:00",
+      "album": {
+        "name": "By Any Means",
+        "url": "https://open.spotify.com/album/3l07EkK3u4Tl4zRfuDvs25"
+      },
+      "artists": [
+        {
+          "name": "Durand the Rapper",
+          "url": "https://open.spotify.com/artist/7C87roQyV9v0lowFTVVBM8"
+        },
+        {
+          "name": "Jazzfeezy",
+          "url": "https://open.spotify.com/artist/7rxVJrgnsnQhgxg3QnHsmi"
+        },
+        {
+          "name": "Rahul Bipin",
+          "url": "https://open.spotify.com/artist/3zE3UDGLgtYoaTOnpmJPYC"
+        }
+      ],
+      "duration_ms": 127261,
+      "name": "By Any Means",
+      "url": "https://open.spotify.com/track/3ghkSm73GSGnnXZhl3G3ok"
+    },
     {
       "added_at": "2024-06-11 22:09:21",
       "album": {

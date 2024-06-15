@@ -4,12 +4,13 @@
 
 > POST HUMAN: NeX GEn is out! Foto: Bring Me The Horizon
 
-107 songs - 5 hr 28 min
+108 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [8 Ou 80](https://open.spotify.com/track/6SsCiwzgVuKaGHtZXzpUD7) | [Ariah](https://open.spotify.com/artist/0lJcsdoL52xDTf1cGEwfD8) | [8 Ou 80](https://open.spotify.com/album/0b3JIdj9r4N7QE8DEZaVII) | 2:29 | 2024-03-08 | 2024-04-27 |
 | [<maybe> it's my fault](https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<maybe> it's my fault](https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM) | 2:39 | 2023-07-21 |  |
+| [A ONDA](https://open.spotify.com/track/1WFUR7D53hV8D7HoufoTWm) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [A ONDA](https://open.spotify.com/album/68c9VYmRhQo7KdGo1CWXcs) | 3:06 | 2024-06-14 |  |
 | [Abyss \- from Kaiju No\. 8](https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Abyss \(from Kaiju No\. 8\)](https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0) | 2:03 | 2024-03-29 |  |
 | [All My Life](https://open.spotify.com/track/2p5LjvjZlMSxxwNUtDyG5x) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [All My Life](https://open.spotify.com/album/4jrP67zEPygoCd90h6vMHr) | 3:10 | 2024-06-07 |  |
 | [American Spirit](https://open.spotify.com/track/6Z2xgzZlxrVVTmyjofoq0c) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 5: the beginning](https://open.spotify.com/album/1VznxDXEvTGtos0ElI7CRn) | 2:58 | 2024-06-07 |  |
@@ -93,7 +94,7 @@
 | [SANCTUARY](https://open.spotify.com/track/0af0p0VLe82vqCVC8YFCMk) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [SANCTUARY](https://open.spotify.com/album/2puYP5GNAu26hWrgPXLfIl) | 2:54 | 2023-07-21 |  |
 | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/track/35k8QihhSU5Z7Rqz7FD2nv) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/album/0F93SGg55xfIxn8xXzbG93) | 3:38 | 2023-07-21 | 2023-08-19 |
 | [Shy Away](https://open.spotify.com/track/7v4ziK63yNqkfHh8S3ZSR3) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy \(Livestream Version\)](https://open.spotify.com/album/1B61NzknoGqafMfKLY7QtZ) | 2:55 | 2023-07-21 | 2023-10-14 |
-| [So Called Life](https://open.spotify.com/track/5EIKp1TKhUNdsThloWPa53) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [So Called Life](https://open.spotify.com/album/1dlAtdEHKRk6fLGfiPT8RW) | 3:26 | 2024-04-12 |  |
+| [So Called Life](https://open.spotify.com/track/5EIKp1TKhUNdsThloWPa53) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [So Called Life](https://open.spotify.com/album/1dlAtdEHKRk6fLGfiPT8RW) | 3:26 | 2024-04-12 | 2024-06-15 |
 | [So Called Life](https://open.spotify.com/track/1QTQ3VNzabl4yF5GJE6hhK) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [EXPLOSIONS](https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG) | 3:26 | 2023-07-21 | 2024-04-19 |
 | [Sorry Not Sorry \(with Slash\) \- Rock Version](https://open.spotify.com/track/3sxeoitzj07ONdF2akJ62y) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE) | [Sorry Not Sorry \(with Slash\) \[Rock Version\]](https://open.spotify.com/album/17YnG9TORmVa3NWHwQKQHA) | 3:34 | 2023-07-21 | 2023-08-19 |
 | [Stitches](https://open.spotify.com/track/5rQQaAUU86ulQ4uZIyS1hp) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Punk Goes Pop, Vol\. 7](https://open.spotify.com/album/3vpUxVKjm32bKN7c3LkNxU) | 3:03 | 2023-07-21 |  |

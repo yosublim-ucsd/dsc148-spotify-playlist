@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: <a href=\"spotify:artist:1SZMaiNHfdUuU0qZKZ6y62\">Newsboys</a>",
+  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: <a href=\"spotify:artist:4RbkVdTJEHZEfppvxBD6Il\">Jordan St. Cyr</a>",
   "name": "Top Christian Contemporary",
   "tracks": [
     {
@@ -4278,7 +4278,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 180623,
       "name": "Middle Of Your Love - Radio Edit",
       "url": "https://open.spotify.com/track/1Yk7ImaPuee721rxl4aRCV"
@@ -4502,7 +4502,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 341986,
       "name": "My Tribute (To God Be The Glory)",
       "url": "https://open.spotify.com/track/6SlbC6p7ZZD73bhjARDV86"
@@ -5386,7 +5386,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 221403,
       "name": "Rescue (feat. Tiffany Hudson)",
       "url": "https://open.spotify.com/track/1qA19MGPhY4VXJw4RywdWM"
@@ -6389,6 +6389,32 @@
     },
     {
       "album": {
+        "name": "The Kingdom of Jesus",
+        "url": "https://open.spotify.com/album/1lqsuIW2cynRT37z8bwM5l"
+      },
+      "artists": [
+        {
+          "name": "The Porter's Gate",
+          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+        },
+        {
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
+        },
+        {
+          "name": "Sandra McCracken",
+          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256131,
+      "name": "The Kingdom of Jesus",
+      "url": "https://open.spotify.com/track/52wm2PN4DkFcXpZg72DsoA"
+    },
+    {
+      "album": {
         "name": "Sing! Christ Our Hope In Life And Death (Live At The Getty Music Worship Conference)",
         "url": "https://open.spotify.com/album/6Yc2IDSVhI1i0kxGYBtDTG"
       },
@@ -6735,6 +6761,24 @@
     },
     {
       "album": {
+        "name": "My Foundation",
+        "url": "https://open.spotify.com/album/5aHy0vrK4u7BtrGkUwMa0q"
+      },
+      "artists": [
+        {
+          "name": "Jordan St. Cyr",
+          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200596,
+      "name": "To Save My Life",
+      "url": "https://open.spotify.com/track/3ztqayRkNjhDgsJ3fKwu3P"
+    },
+    {
+      "album": {
         "name": "Today",
         "url": "https://open.spotify.com/album/5OcFeJQu3euDRmtOd2P19D"
       },
@@ -7062,6 +7106,24 @@
       "duration_ms": 209586,
       "name": "Where I Could've Been",
       "url": "https://open.spotify.com/track/54nSanOV5Twg7uIBeHeDIV"
+    },
+    {
+      "album": {
+        "name": "Where My Joy Comes From",
+        "url": "https://open.spotify.com/album/7JGSP8J3mwi4VdF81Xwvos"
+      },
+      "artists": [
+        {
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159078,
+      "name": "Where My Joy Comes From",
+      "url": "https://open.spotify.com/track/2eWYnZD8g7x7vhNikDTjZa"
     },
     {
       "album": {

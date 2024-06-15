@@ -1,12 +1,12 @@
 {
   "description": "This is Tom Petty and the Heartbreakers. The essential tracks, all in one playlist.",
-  "num_followers": 777,
+  "num_followers": 778,
   "original_name": "This Is Tom Petty and the Heartbreakers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjlAAAAAAAvrrNw+XOOgjOYXSZmfQX1",
+  "snapshot_id": "Zmo2gAAAAABQgePuzX95JiXh3bQMh8yc",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 242106,
       "name": "Learning To Fly",
       "url": "https://open.spotify.com/track/17S4XrLvF5jlGvGCJHgF51"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/3q6Bz38jmqRDkXI7j5Hb9Y"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 273600,
-      "name": "Mary Jane's Last Dance",
-      "url": "https://open.spotify.com/track/3dmqIB2Qxe2XZobw9gXxJ6"
     },
     {
       "added_at": null,
@@ -143,22 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Into The Great Wide Open",
-        "url": "https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 223333,
-      "name": "Into The Great Wide Open",
-      "url": "https://open.spotify.com/track/63xBnyUVKIupzjHno4wFs3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Southern Accents",
         "url": "https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4"
       },
@@ -175,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damn The Torpedoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 264453,
-      "name": "Here Comes My Girl",
-      "url": "https://open.spotify.com/track/685sEpLJe80Zzuxz3siOVT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/3q6Bz38jmqRDkXI7j5Hb9Y"
       },
@@ -203,6 +155,22 @@
       "duration_ms": 218666,
       "name": "Even The Losers",
       "url": "https://open.spotify.com/track/5SdMXQmfV4OZx5O05986d3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Damn The Torpedoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 264453,
+      "name": "Here Comes My Girl",
+      "url": "https://open.spotify.com/track/685sEpLJe80Zzuxz3siOVT"
     },
     {
       "added_at": null,
@@ -287,6 +255,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/1lsBEh2R9B39hWfEo4iZSW"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 330306,
+      "name": "Swingin'",
+      "url": "https://open.spotify.com/track/61SdG3F3LncuuMLAS8oN6j"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Best Of Everything - The Definitive Career Spanning Hits Collection 1976-2016",
         "url": "https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH"
       },
@@ -335,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Call Me the Breeze (Live at the Fillmore, 1997)",
-        "url": "https://open.spotify.com/album/3N2lkbS3TAAhdplbHvTJv3"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 358461,
-      "name": "Call Me the Breeze - Live at the Fillmore, 1997",
-      "url": "https://open.spotify.com/track/1OGCx6z4xbV7oPryuLx8mP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Into The Great Wide Open",
         "url": "https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd"
       },
@@ -363,6 +331,22 @@
       "duration_ms": 186733,
       "name": "Kings Highway",
       "url": "https://open.spotify.com/track/0ge66NW3sKKgWW7eKQHnE0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Call Me the Breeze (Live at the Fillmore, 1997)",
+        "url": "https://open.spotify.com/album/3N2lkbS3TAAhdplbHvTJv3"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 358461,
+      "name": "Call Me the Breeze - Live at the Fillmore, 1997",
+      "url": "https://open.spotify.com/track/1OGCx6z4xbV7oPryuLx8mP"
     },
     {
       "added_at": null,
@@ -551,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mojo",
-        "url": "https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ"
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/1lsBEh2R9B39hWfEo4iZSW"
       },
       "artists": [
         {
@@ -560,9 +544,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 215613,
-      "name": "I Should Have Known It",
-      "url": "https://open.spotify.com/track/0qyQKbbPLaG9FIENFTL7KY"
+      "duration_ms": 300933,
+      "name": "Room at the Top",
+      "url": "https://open.spotify.com/track/7By7UYWA21PcKoKCl8ZaI7"
     },
     {
       "added_at": null,
@@ -583,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/1lsBEh2R9B39hWfEo4iZSW"
+        "name": "Mojo",
+        "url": "https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ"
       },
       "artists": [
         {
@@ -592,9 +576,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 300933,
-      "name": "Room at the Top",
-      "url": "https://open.spotify.com/track/7By7UYWA21PcKoKCl8ZaI7"
+      "duration_ms": 215613,
+      "name": "I Should Have Known It",
+      "url": "https://open.spotify.com/track/0qyQKbbPLaG9FIENFTL7KY"
     },
     {
       "added_at": null,
@@ -611,22 +595,6 @@
       "duration_ms": 284093,
       "name": "Something Big",
       "url": "https://open.spotify.com/track/4baFF50eIx6z3xz7HCL7DF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mojo",
-        "url": "https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 250520,
-      "name": "Something Good Coming",
-      "url": "https://open.spotify.com/track/53DoKGKHCae8SekXxqUqys"
     },
     {
       "added_at": null,
@@ -671,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mojo",
+        "url": "https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 250520,
+      "name": "Something Good Coming",
+      "url": "https://open.spotify.com/track/53DoKGKHCae8SekXxqUqys"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hard Promises",
         "url": "https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3"
       },
@@ -687,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hypnotic Eye",
-        "url": "https://open.spotify.com/album/55dSc0Ry199sq95DwnHFFa"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 251853,
-      "name": "U Get Me High",
-      "url": "https://open.spotify.com/track/2rlhuKi3o7oySloqWw5TUa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Damn The Torpedoes (Deluxe Edition)",
         "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
       },
@@ -715,6 +683,38 @@
       "duration_ms": 215800,
       "name": "Casa Dega",
       "url": "https://open.spotify.com/track/1foblVZ1Kr2vz7212SMNZB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Into The Great Wide Open",
+        "url": "https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Out In The Cold",
+      "url": "https://open.spotify.com/track/3m8w70z3xjmSjpc30Bn2T2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hypnotic Eye",
+        "url": "https://open.spotify.com/album/55dSc0Ry199sq95DwnHFFa"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 251853,
+      "name": "U Get Me High",
+      "url": "https://open.spotify.com/track/2rlhuKi3o7oySloqWw5TUa"
     },
     {
       "added_at": null,

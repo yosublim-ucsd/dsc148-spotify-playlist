@@ -1,12 +1,12 @@
 {
   "description": "This is J. Cole. The essential tracks, all in one playlist.",
-  "num_followers": 879078,
+  "num_followers": 879199,
   "original_name": "This Is J. Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjlAAAAAACKoL5iT/7YPP4IKuqgk03B",
+  "snapshot_id": "Zmo2gAAAAAC81n3ffJCqpZYUgKF/8MRC",
   "tracks": [
     {
       "added_at": null,
@@ -207,6 +207,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Born in the Wild",
+        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 192065,
+      "name": "Free Fall (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/3cuUZnjDwk4cUJCFinYbAC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WE STILL DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
       },
@@ -227,26 +247,6 @@
       "duration_ms": 414893,
       "name": "Red Leather",
       "url": "https://open.spotify.com/track/4Dx4e0X5dR6TW85dtFU42x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Born in the Wild",
-        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 192065,
-      "name": "Free Fall (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/3cuUZnjDwk4cUJCFinYbAC"
     },
     {
       "added_at": null,
@@ -875,26 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Creed III: The Soundtrack",
-        "url": "https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S"
-      },
-      "artists": [
-        {
-          "name": "Dreamville",
-          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 95902,
-      "name": "Adonis Interlude (The Montage) (with J. Cole)",
-      "url": "https://open.spotify.com/track/5Mkbqot9JUaN5XhRgqITME"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Milky Way",
         "url": "https://open.spotify.com/album/6sDQacCej53Q43vZF9PJ8i"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 238053,
       "name": "Tribe (with J. Cole)",
       "url": "https://open.spotify.com/track/0YAQnYt2oB8OdoaeqnHyTI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Creed III: The Soundtrack",
+        "url": "https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S"
+      },
+      "artists": [
+        {
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 95902,
+      "name": "Adonis Interlude (The Montage) (with J. Cole)",
+      "url": "https://open.spotify.com/track/5Mkbqot9JUaN5XhRgqITME"
     },
     {
       "added_at": null,

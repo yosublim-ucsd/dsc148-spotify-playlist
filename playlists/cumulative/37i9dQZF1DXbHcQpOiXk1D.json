@@ -224,7 +224,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-12",
+      "date_removed": null,
       "duration_ms": 289809,
       "name": "Abasi Isang",
       "url": "https://open.spotify.com/track/5n8Ojo7PxZtMyFAx8BgPaE"
@@ -620,7 +620,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 149968,
       "name": "angel numbers",
       "url": "https://open.spotify.com/track/2m20gc2fNcai0gI1uU5YLV"
@@ -642,7 +642,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 263333,
       "name": "Annie's Tune",
       "url": "https://open.spotify.com/track/1n6eQozvR8PbW2opBdmtLg"
@@ -722,7 +722,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 178173,
       "name": "Apho",
       "url": "https://open.spotify.com/track/6EMP27Iax2P3LrfFggIt1c"
@@ -1239,6 +1239,24 @@
     },
     {
       "album": {
+        "name": "Joy Machine",
+        "url": "https://open.spotify.com/album/21yZgiyW6174TObtXc1MoG"
+      },
+      "artists": [
+        {
+          "name": "Dizraeli",
+          "url": "https://open.spotify.com/artist/3xjNFu3aAWJie7LQzDoYNa"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244120,
+      "name": "Blessed Love",
+      "url": "https://open.spotify.com/track/6pSHeOzu96EdyVRaqfWkge"
+    },
+    {
+      "album": {
         "name": "Origin (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6vlatUhYlcoUkMfNIvmtLE"
       },
@@ -1378,7 +1396,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 271040,
       "name": "Breeze",
       "url": "https://open.spotify.com/track/1ssRJeVukT0jJEoBO8b0c7"
@@ -1476,7 +1494,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 213851,
       "name": "Calling",
       "url": "https://open.spotify.com/track/0SlsuBILHxJwfzboGXIufK"
@@ -1698,7 +1716,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 322812,
       "name": "Chasing Days - Sam Redmore Remix",
       "url": "https://open.spotify.com/track/4VO19I7PqB0YbR5r4Nbv26"
@@ -1746,7 +1764,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-15",
+      "date_removed": null,
       "duration_ms": 199360,
       "name": "Cheap Cigars",
       "url": "https://open.spotify.com/track/1sD3PbQ5ApyKr5wRf6XKwe"
@@ -1936,7 +1954,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 237507,
       "name": "Cold",
       "url": "https://open.spotify.com/track/4saR4OyR8NalWxaDjN5cVf"
@@ -2495,6 +2513,28 @@
     },
     {
       "album": {
+        "name": "Diversions",
+        "url": "https://open.spotify.com/album/5kmKc6iKwwXrgfap01X3e7"
+      },
+      "artists": [
+        {
+          "name": "Handbook",
+          "url": "https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk"
+        },
+        {
+          "name": "Tim Addison",
+          "url": "https://open.spotify.com/artist/0qb2OeD9bD0YbVG0Hh20XK"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222089,
+      "name": "Diversions",
+      "url": "https://open.spotify.com/track/5maJJT6lHNA9p7bvLRBzD5"
+    },
+    {
+      "album": {
         "name": "DiVine Ascension",
         "url": "https://open.spotify.com/album/7BZEpa8960drwbbRbjo3jq"
       },
@@ -2626,6 +2666,24 @@
       "duration_ms": 151602,
       "name": "Dough",
       "url": "https://open.spotify.com/track/2Om3mASX63tNLOYrxeuXLh"
+    },
+    {
+      "album": {
+        "name": "Dream Chaser",
+        "url": "https://open.spotify.com/album/0KxzL7oJ5M4uFjLrTIa2L3"
+      },
+      "artists": [
+        {
+          "name": "Myles Sanko",
+          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228523,
+      "name": "Dream Chaser",
+      "url": "https://open.spotify.com/track/05bXcmbz6iAJ5tM9WgdOqX"
     },
     {
       "album": {
@@ -2836,7 +2894,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-20",
+      "date_removed": null,
       "duration_ms": 156933,
       "name": "End Of Innocence",
       "url": "https://open.spotify.com/track/3o9i2sgJhKv8HEFtJWsbxo"
@@ -2962,7 +3020,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 287992,
       "name": "Everything Is Going to Be OK",
       "url": "https://open.spotify.com/track/4JPj5HzPn5sRfwzqH9HMgX"
@@ -3244,7 +3302,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 270602,
       "name": "Find Your Peace (feat. Common, Robert Glasper & Jean Baylor) - Single Edit",
       "url": "https://open.spotify.com/track/2tjCuqMwFr8YlqwoB1UALy"
@@ -3548,7 +3606,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 403933,
       "name": "Foreword",
       "url": "https://open.spotify.com/track/2n0GcL4eZ110vdaU16OBdJ"
@@ -4134,7 +4192,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 225970,
       "name": "Green Grass",
       "url": "https://open.spotify.com/track/5XHLHL747QGGemajjt2fIu"
@@ -4494,7 +4552,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-07",
+      "date_removed": null,
       "duration_ms": 424960,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/1Rd9TkiuqfUXMYNgguXpKY"
@@ -4824,7 +4882,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 237046,
       "name": "In The Fire",
       "url": "https://open.spotify.com/track/7MUiVyNZdipLltGWBmXHXN"
@@ -5312,7 +5370,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 215800,
       "name": "Knocked Down",
       "url": "https://open.spotify.com/track/6eqB9nHqFg5lXl0R4KJOfn"
@@ -5586,7 +5644,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 391640,
       "name": "Lazy Days (feat. Emma-Jean Thackray)",
       "url": "https://open.spotify.com/track/5yfojFTeq7UFGuuV3UT9O0"
@@ -6296,7 +6354,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 284386,
       "name": "Marching Band - feat. Masego",
       "url": "https://open.spotify.com/track/1wWGkPC7eBVvDZoEhROvGv"
@@ -6314,7 +6372,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-12",
+      "date_removed": null,
       "duration_ms": 163404,
       "name": "Mardy",
       "url": "https://open.spotify.com/track/4s9KcTGJr5uzW2I9pjHZPI"
@@ -6398,7 +6456,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 181130,
       "name": "Means The World",
       "url": "https://open.spotify.com/track/7mxvuhXGwCU8qmTuQR5rcg"
@@ -7435,6 +7493,24 @@
     },
     {
       "album": {
+        "name": "Ode Two",
+        "url": "https://open.spotify.com/album/1tlMMViXebh8UtEkYOSJQk"
+      },
+      "artists": [
+        {
+          "name": "Tanhai Collective",
+          "url": "https://open.spotify.com/artist/26b6sds0w1dppBvAeSwv73"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311686,
+      "name": "Ode Two",
+      "url": "https://open.spotify.com/track/1CoNi5SlHAPZLGHsL57ril"
+    },
+    {
+      "album": {
         "name": "Shapes",
         "url": "https://open.spotify.com/album/0n3DBqRTXilI8glp9nSzGP"
       },
@@ -8379,6 +8455,36 @@
     },
     {
       "album": {
+        "name": "Runnin'",
+        "url": "https://open.spotify.com/album/0egI36OMLEcADQ8zJSbZGm"
+      },
+      "artists": [
+        {
+          "name": "Ebi Soda",
+          "url": "https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU"
+        },
+        {
+          "name": "Dream Mclean",
+          "url": "https://open.spotify.com/artist/0ojBbzNVKsx1wFf7Ag3YIv"
+        },
+        {
+          "name": "Dame",
+          "url": "https://open.spotify.com/artist/7lKsazBrIDEv76YQzFt05s"
+        },
+        {
+          "name": "Wallace Rice",
+          "url": "https://open.spotify.com/artist/2jBrnxIU5OlEBG0DQY3Lqu"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206706,
+      "name": "Runnin'",
+      "url": "https://open.spotify.com/track/76q8RxpJisulRDVQZaW7b2"
+    },
+    {
+      "album": {
         "name": "Time Capsule",
         "url": "https://open.spotify.com/album/7uQhtRHu9XIUVrfIwn3Z8s"
       },
@@ -8460,7 +8566,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 238786,
       "name": "Rust (feat. Tom Misch)",
       "url": "https://open.spotify.com/track/1ubbdrZv0EoDc40awvh8Rh"
@@ -8538,7 +8644,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 293298,
       "name": "Saturnine",
       "url": "https://open.spotify.com/track/4QkOc5MFpxpQxcRBrAkxTz"
@@ -9130,7 +9236,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-12",
+      "date_removed": null,
       "duration_ms": 304973,
       "name": "Somethings Going On (Miles James Remix)",
       "url": "https://open.spotify.com/track/7yf2KoMTGewH8szzkOwS9o"
@@ -9452,7 +9558,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 229262,
       "name": "State of Blue",
       "url": "https://open.spotify.com/track/7pQnb7FuDx3MRKPFFR5C0F"
@@ -9710,7 +9816,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 235433,
       "name": "Sun Goes Down",
       "url": "https://open.spotify.com/track/2n1tmBwwgF0dP0kU9CELhL"
@@ -9820,7 +9926,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 188833,
       "name": "Sweet Nirvana",
       "url": "https://open.spotify.com/track/4up8iER7w4bFgY7Ta2bnXR"
@@ -9980,7 +10086,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 162307,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/5bHVvFGDTLsUPsgSV8Qi4c"
@@ -10170,7 +10276,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 190259,
       "name": "Temperature High",
       "url": "https://open.spotify.com/track/7EfXF5eDjdGvAp6Lvqz7w0"
@@ -10214,6 +10320,24 @@
       "duration_ms": 352692,
       "name": "The Antidote Is in the Poison",
       "url": "https://open.spotify.com/track/01dbwXuuFNMKDCz1L3uIFz"
+    },
+    {
+      "album": {
+        "name": "The Colour Purple (Live From Malibu)",
+        "url": "https://open.spotify.com/album/4PbVeRsOUaxf8Fjlo9eGCf"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163226,
+      "name": "The Colour Purple - Live From Malibu",
+      "url": "https://open.spotify.com/track/1hChYJtjxczG5aZ5MFIcI5"
     },
     {
       "album": {
@@ -10302,6 +10426,28 @@
       "duration_ms": 340840,
       "name": "The Light (feat. Bahia Dayes)",
       "url": "https://open.spotify.com/track/1mkzHA0suincRybCyk5fis"
+    },
+    {
+      "album": {
+        "name": "The Light (feat. Bahia Dayes)",
+        "url": "https://open.spotify.com/album/4SecYNmUfTlg29S48YfIyr"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Bahia Dayes",
+          "url": "https://open.spotify.com/artist/0zPd2gWJkTBKV1kdPoplqK"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340840,
+      "name": "The Light (feat. Bahia Dayes)",
+      "url": "https://open.spotify.com/track/3wFA4vZlBMoDUjHNPTRaiZ"
     },
     {
       "album": {
@@ -10602,7 +10748,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 170882,
       "name": "Time To Lose",
       "url": "https://open.spotify.com/track/4ywdVPBmQr1PAkAQitNqyS"
@@ -11020,7 +11166,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 167903,
       "name": "Unlikely",
       "url": "https://open.spotify.com/track/1wFgK8jcX27P6YUkxbeMBP"
@@ -11108,6 +11254,24 @@
       "duration_ms": 295893,
       "name": "Victory Dance",
       "url": "https://open.spotify.com/track/65vqkVT78sHmYc3fTB3uQw"
+    },
+    {
+      "album": {
+        "name": "Unchained Melodies Vol. 1",
+        "url": "https://open.spotify.com/album/2edsxQdf0FGniP6b51BiXE"
+      },
+      "artists": [
+        {
+          "name": "Romain Axisa",
+          "url": "https://open.spotify.com/artist/0fD0vte7xBaEjDkxPsSQsW"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176702,
+      "name": "Vienna",
+      "url": "https://open.spotify.com/track/5qjJraZSwr6t5Np2vQbDjf"
     },
     {
       "album": {
@@ -11484,7 +11648,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 193190,
       "name": "What Do You Do",
       "url": "https://open.spotify.com/track/0iBSGgQlxkHAiUlvmenG1f"
@@ -11678,6 +11842,24 @@
       "duration_ms": 190466,
       "name": "Who Am I (eh-eh)",
       "url": "https://open.spotify.com/track/3DBGRXEiGyQOxdkV6JltUY"
+    },
+    {
+      "album": {
+        "name": "Sample The Earth",
+        "url": "https://open.spotify.com/album/39n09ITi1qfmqBZz39IRYz"
+      },
+      "artists": [
+        {
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281256,
+      "name": "Widening Circles - Regrown",
+      "url": "https://open.spotify.com/track/5naAaC0pdrvUzNzlnlvdnc"
     },
     {
       "album": {
@@ -11906,7 +12088,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 76659,
       "name": "You're Stronger Than You Think",
       "url": "https://open.spotify.com/track/045wxsluiQXkFHTHbASfQ8"

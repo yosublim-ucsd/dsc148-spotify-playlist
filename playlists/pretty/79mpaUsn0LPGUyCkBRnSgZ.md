@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 501 songs - 1 day 8 hr 42 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 502 songs - 1 day 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,5 +509,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 499 | [Happy man's shoes](https://open.spotify.com/track/1PTicAZhKJ9K9PspzIDHz2) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [What an enormous room](https://open.spotify.com/album/2NdMVSjrgxqhELnvW1Odje) | 3:27 |
 | 500 | [Chloë](https://open.spotify.com/track/3WH51SUl6EEuf9j7tsSQwQ) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Chloë and the Next 20th Century](https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz) | 3:28 |
 | 501 | [Vroom Vroom](https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Vroom Vroom EP](https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd) | 3:13 |
+| 502 | [Pressure](https://open.spotify.com/track/3ruMQcure3yXNsZkDx0Dqh) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 1:58 |
 
-Snapshot ID: `AAAGG2jQI2H3TJzCBxlIsl44J6wupRAd`
+Snapshot ID: `AAAGHNEgn5awHp/31k4o+8NfA2QvDIma`

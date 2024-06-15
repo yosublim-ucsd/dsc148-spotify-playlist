@@ -2287,6 +2287,24 @@
     },
     {
       "album": {
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/06AscAzNNnjwtxfzXgrElI"
+      },
+      "artists": [
+        {
+          "name": "Michaela Ja\u00e9",
+          "url": "https://open.spotify.com/artist/1XtZq3vSEgghxZS9aqITv5"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123726,
+      "name": "I Am",
+      "url": "https://open.spotify.com/track/6MVk4SW25q1CNENQE1RHyv"
+    },
+    {
+      "album": {
         "name": "I Believe It",
         "url": "https://open.spotify.com/album/7IqVMiFRYTIOkQP0TC5dW8"
       },
@@ -3992,7 +4010,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 182314,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/0DYZUV1290HJrt0MM9yKa0"
@@ -4611,6 +4629,28 @@
     },
     {
       "album": {
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/124LdmYiB3SM7x2EefHBoa"
+      },
+      "artists": [
+        {
+          "name": "Lindsey Stirling",
+          "url": "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM"
+        },
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197106,
+      "name": "Survive [Feat. Walk Off The Earth]",
+      "url": "https://open.spotify.com/track/2qVZY6UtkkwV3wi2r2cocx"
+    },
+    {
+      "album": {
         "name": "Take A Bite",
         "url": "https://open.spotify.com/album/7wAIiKgXJm1ybhi9kIcGGu"
       },
@@ -5220,7 +5260,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 168000,
       "name": "Under the Light",
       "url": "https://open.spotify.com/track/26nQDOgXY2mZ6xAlHIdymY"

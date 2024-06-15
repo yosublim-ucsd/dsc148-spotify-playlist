@@ -138,7 +138,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 155586,
       "name": "Animal (R3HAB VIP Remix)",
       "url": "https://open.spotify.com/track/3K25KGPo19Sa9PGaaHXj1E"
@@ -156,7 +156,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 128240,
       "name": "Bad Boy For Life",
       "url": "https://open.spotify.com/track/21svQEALLlrbJNYeRxMeWg"
@@ -240,7 +240,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 142080,
       "name": "Believin'",
       "url": "https://open.spotify.com/track/0LEAcMxFHe8WT8Lndix0f7"
@@ -262,7 +262,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 120930,
       "name": "Bidi Bam",
       "url": "https://open.spotify.com/track/2xmyChXyNeUWhxQIdlk9mY"
@@ -310,7 +310,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 167600,
       "name": "Click Click Click",
       "url": "https://open.spotify.com/track/5E1XI3JnHOoSEcY2hYnbhj"
@@ -435,6 +435,32 @@
     },
     {
       "album": {
+        "name": "Disco Marathon (feat. NEEKA)",
+        "url": "https://open.spotify.com/album/00g9nQ0HVCvPIN6qEwQww8"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "NEEKA",
+          "url": "https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Disco Marathon (feat. NEEKA)",
+      "url": "https://open.spotify.com/track/6eLLQ5NzQchs3RalH4TcVa"
+    },
+    {
+      "album": {
         "name": "Do It All Again",
         "url": "https://open.spotify.com/album/0CwJK5uOYwpyQyLN4f2jSQ"
       },
@@ -450,7 +476,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 175125,
       "name": "Do It All Again",
       "url": "https://open.spotify.com/track/1bcM9x7FX0aiayjtd1ZNuW"
@@ -944,7 +970,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 173363,
       "name": "Keep On Pushin'",
       "url": "https://open.spotify.com/track/7aqBYVm4D4VrylUyAHZ3qw"
@@ -970,7 +996,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 166917,
       "name": "Kill The Vibe",
       "url": "https://open.spotify.com/track/4Mw1vqYfDWL2d8dJLWFYQp"
@@ -988,7 +1014,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 165000,
       "name": "Latenight - Radio Mix",
       "url": "https://open.spotify.com/track/7byMAHyVjnkDkzsGsp31uE"
@@ -1014,7 +1040,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 156800,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/6GsvmxfWZzmzlGrTsvJ1qR"
@@ -1076,7 +1102,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 214687,
       "name": "Lotus (PAROOKAVILLE Anthem 2024)",
       "url": "https://open.spotify.com/track/7GUecHJnM0kfEXNtt9y9nQ"
@@ -1200,7 +1226,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 179520,
       "name": "Molly",
       "url": "https://open.spotify.com/track/5Bv1BaqZV9MW1UEZTEXZFq"
@@ -1222,10 +1248,32 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 179555,
       "name": "Move",
       "url": "https://open.spotify.com/track/1zR99sAbPNjVnO7v9Q5IiP"
+    },
+    {
+      "album": {
+        "name": "Move On Up (Mark Knight Remix)",
+        "url": "https://open.spotify.com/album/7hg20oE5SyyQf7JN8YA1Dq"
+      },
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+        },
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149047,
+      "name": "Move On Up (Mark Knight Remix)",
+      "url": "https://open.spotify.com/track/39pkyUMcOfKfjx3xhCeiVM"
     },
     {
       "album": {
@@ -1350,10 +1398,28 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 129213,
       "name": "Not Sorry",
       "url": "https://open.spotify.com/track/7flYA7GiLu0N0seaNWWkeb"
+    },
+    {
+      "album": {
+        "name": "Off Switch (Acoustic)",
+        "url": "https://open.spotify.com/album/3EjmhsATfs4gfFE3evpgf9"
+      },
+      "artists": [
+        {
+          "name": "VASSY",
+          "url": "https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178714,
+      "name": "Off Switch - Acoustic",
+      "url": "https://open.spotify.com/track/18P5UJR9A2cASQsma07omR"
     },
     {
       "album": {
@@ -1438,6 +1504,24 @@
       "duration_ms": 184112,
       "name": "Praying",
       "url": "https://open.spotify.com/track/6sLHKyEz4FncxLCwhawDwn"
+    },
+    {
+      "album": {
+        "name": "Psych",
+        "url": "https://open.spotify.com/album/6AVtmrGJkFgyRGyFLWdBYp"
+      },
+      "artists": [
+        {
+          "name": "VAMERO",
+          "url": "https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137647,
+      "name": "Psych",
+      "url": "https://open.spotify.com/track/2pv1AjkcLN2rntVacf3cQz"
     },
     {
       "album": {
@@ -1554,7 +1638,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 167244,
       "name": "Slow Me",
       "url": "https://open.spotify.com/track/7Hmbq2y3TGUSZFkcPCcEd7"
@@ -1584,6 +1668,36 @@
       "duration_ms": 138666,
       "name": "Snake Pit",
       "url": "https://open.spotify.com/track/5GQRu63MroIMnM7DPH75Mi"
+    },
+    {
+      "album": {
+        "name": "Stumblin' In (feat. Timmy Trumpet) [Steve Aoki x Dimatik Remix]",
+        "url": "https://open.spotify.com/album/4W1jnG3c37s0zKY6xSi1kx"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Dimatik",
+          "url": "https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136124,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/1pIcnxmQRhuQmOZRVYD3JZ"
     },
     {
       "album": {
@@ -1676,6 +1790,32 @@
       "duration_ms": 188225,
       "name": "Take My Heart",
       "url": "https://open.spotify.com/track/0k2nAIEgXwyphwyzEVrv2G"
+    },
+    {
+      "album": {
+        "name": "Tech Phonk",
+        "url": "https://open.spotify.com/album/77WEJ0P9dlOSZNhco4LxRV"
+      },
+      "artists": [
+        {
+          "name": "Raven & Kreyn",
+          "url": "https://open.spotify.com/artist/6STjC3QJTieuM5WHHtkGuh"
+        },
+        {
+          "name": "KDH",
+          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
+        },
+        {
+          "name": "Pure Cold",
+          "url": "https://open.spotify.com/artist/63xJ8YYPv8AtvO8sj3ssLI"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122880,
+      "name": "Tech Phonk",
+      "url": "https://open.spotify.com/track/2EyE6jwl6HC7yhkaPJbH8R"
     },
     {
       "album": {
@@ -1803,6 +1943,28 @@
     },
     {
       "album": {
+        "name": "Unite (feat. Eke)",
+        "url": "https://open.spotify.com/album/3cTxbtajyPC5TsiEoL0xat"
+      },
+      "artists": [
+        {
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+        },
+        {
+          "name": "EKE",
+          "url": "https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167343,
+      "name": "Unite (feat. Eke)",
+      "url": "https://open.spotify.com/track/6lMZwR33yJnUrGijdwk0EU"
+    },
+    {
+      "album": {
         "name": "Until the Sun Comes Up",
         "url": "https://open.spotify.com/album/3A0Cf24xiJ2K1dpu7OWBWL"
       },
@@ -1814,7 +1976,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 209032,
       "name": "Until the Sun Comes Up",
       "url": "https://open.spotify.com/track/00k3lrbOLXvQB8JJAzvAtw"
@@ -1916,7 +2078,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 215322,
       "name": "Zouka",
       "url": "https://open.spotify.com/track/2vJwO7KW4IbEGo9OOjt7Rl"

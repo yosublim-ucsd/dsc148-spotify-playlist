@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 
 > Hip hop tracks to kick your workout up a notch
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,235 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,249 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 | 7 | [No More](https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [No More](https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk) | 3:02 |
 | 8 | [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 |
 | 9 | [TECHNICIAN \(feat\. Blaqbonez & Lekaa Beats\)](https://open.spotify.com/track/60qIa2znv2BICoDyJS8rNv) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY) | [TECHNICIAN](https://open.spotify.com/album/7ChVqPO3roVcHSLi32PnIK) | 2:36 |
-| 10 | [Attitude \(feat\. Charlie Wilson & Cash Cobain\)](https://open.spotify.com/track/0KFXE2mLTFdOKkTZEDgJPv) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Attitude \(feat\. Charlie Wilson & Cash Cobain\)](https://open.spotify.com/album/5qT2WTrg8b062akPjO9AGY) | 2:41 |
+| 10 | [ATTITUDE \(FEAT\. CHARLIE WILSON & CASH COBAIN\)](https://open.spotify.com/track/0KFXE2mLTFdOKkTZEDgJPv) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Attitude \(feat\. Charlie Wilson & Cash Cobain\)](https://open.spotify.com/album/5qT2WTrg8b062akPjO9AGY) | 2:41 |
 | 11 | [Ije Nwoke](https://open.spotify.com/track/0yeE2B1raXnYil6MiAJPA1) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Ije Nwoke](https://open.spotify.com/album/7q8Vopxx2mj4DSe04qHP1X) | 2:37 |
 | 12 | [Presha \(with Lil Wayne\)](https://open.spotify.com/track/6N7TGPYfGP2oxiy9Cpaz9G) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Presha](https://open.spotify.com/album/2tnjYrSajrt2nlv2Acf1DP) | 3:05 |
 | 13 | [Ojugom Isi](https://open.spotify.com/track/2bi2kMSivzY1iGdUsbErkj) | [Rord Kelly](https://open.spotify.com/artist/2yFOQnykNui2qOv0dENRyR) | [Ojugom Isi](https://open.spotify.com/album/0bWTQDEfuuz46C7kcSCS2T) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 | 49 | [Kiki](https://open.spotify.com/track/75pJCzbvBra52uIEXY3Ai8) | [DJ Sliqe](https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Flow Jones Jr.](https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa), [Glody Kasongo](https://open.spotify.com/artist/3HTDaBCCpXP4Y6TyoGyP9i) | [Kiki](https://open.spotify.com/album/5fhYSXpWS5hEzZ7e7U23y9) | 2:54 |
 | 50 | [Breaking News](https://open.spotify.com/track/1VHi0TCyl8zcNiPVlXixnP) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Evil Twin](https://open.spotify.com/album/0WlGmF3vsB5mLoYdnvlMTo) | 2:32 |
 
-Snapshot ID: `ZmgvFQAAAACrkU3tns1DSFl6aUbWXj+d`
+Snapshot ID: `ZmvoEQAAAAA5JaLLeEcJAqEc0mDEk7m2`

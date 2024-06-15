@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1lPLb3.md) - [plain](/playlists/plain/37i9dQZF1DZ06evO1lPLb3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1lPLb3)
 
-### [This Is Peggy Gou](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1lPLb3)
+### [Peggy Gou This Is‏](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1lPLb3)
 
-> This is Peggy Gou\. The essential tracks, all in one playlist.
+> .Peggy Gou This is‏ הרצועות שחייבים להכיר, מרוכזות בפלייליסט אחד.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,779 likes - 30 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,824 likes - 30 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,27 +16,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1lPLb3.md) - [plain]
 | 6 | [1+1=11 \- Edit](https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [1+1=11](https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc) | 3:10 |
 | 7 | [I Believe In Love Again](https://open.spotify.com/track/4fZ9WECee9p7FEWOUP03jD) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [I Believe In Love Again](https://open.spotify.com/album/4j8paHpWXq0sgm5jcWl84R) | 2:56 |
 | 8 | [Can't Get You out of My Head \- Peggy Gou’s Midnight Remix](https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Can't Get You out of My Head \(Peggy Gou’s Midnight Remix\)](https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3) | 4:31 |
-| 9 | [Han Jan \- Edit](https://open.spotify.com/track/0R7KkoK3CRaKwb9gYeH1st) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Han Jan](https://open.spotify.com/album/1roLEv2utEsKhcuKA6DnGc) | 4:02 |
-| 10 | [All That](https://open.spotify.com/track/2iMuxgCe0aR2DYeXkDl43u) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 3:53 |
+| 9 | [All That](https://open.spotify.com/track/2iMuxgCe0aR2DYeXkDl43u) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 3:53 |
+| 10 | [Han Jan \- Edit](https://open.spotify.com/track/0R7KkoK3CRaKwb9gYeH1st) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Han Jan](https://open.spotify.com/album/1roLEv2utEsKhcuKA6DnGc) | 4:02 |
 | 11 | [Nabi \(feat\. OHHYUK\)](https://open.spotify.com/track/6zQ24McTYC36rMWRgEfzqC) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Nabi \(feat\. Ohhyuk\)](https://open.spotify.com/album/06LftbqN9jVmaHDFq4eitA) | 3:52 |
 | 12 | [Hungboo \- DJ\-Kicks](https://open.spotify.com/track/2k9aBWJjIv3onRBIdg7oWm) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [DJ\-Kicks EP](https://open.spotify.com/album/746ZU4riC8a5f4aCrJ5IuE) | 4:35 |
-| 13 | [Gou Talk](https://open.spotify.com/track/2sTP6ghDk046UnBZqsLyyO) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Seek For Maktoop](https://open.spotify.com/album/6fwjLcIzNrgIxhqSVPcPTX) | 5:46 |
-| 14 | [I Go](https://open.spotify.com/track/2o7wQuwySXB2EDtNp7ymJa) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 5:32 |
+| 13 | [I Go](https://open.spotify.com/track/2o7wQuwySXB2EDtNp7ymJa) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 5:32 |
+| 14 | [Gou Talk](https://open.spotify.com/track/2sTP6ghDk046UnBZqsLyyO) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Seek For Maktoop](https://open.spotify.com/album/6fwjLcIzNrgIxhqSVPcPTX) | 5:46 |
 | 15 | [Han Pan](https://open.spotify.com/track/3KAMgcLxqce9PRkwzbYkHa) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Moment EP](https://open.spotify.com/album/13ANf72KYKBlFSwGgiC1Y1) | 6:41 |
 | 16 | [Jigoo \- Radio Edit](https://open.spotify.com/track/15bJAVsKK8osEoMzYkQB1o) | [Maurice Fulton](https://open.spotify.com/artist/4T6l995AHz8HCY7TCfQorD), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Jigoo \(Radio Edit\)](https://open.spotify.com/album/6juwIAOIKkN7D9JavrZnSf) | 4:03 |
-| 17 | [Rose](https://open.spotify.com/track/06iR09uUfFS3kVEAJHJyeB) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Seek For Maktoop](https://open.spotify.com/album/6fwjLcIzNrgIxhqSVPcPTX) | 7:44 |
-| 18 | [Seoulsi Peggygou \(서울시페기구\)](https://open.spotify.com/track/2MQWxF9FTFBHBkU3NcvODv) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 2:37 |
-| 19 | [Day Without Yesterday](https://open.spotify.com/track/0OhEIJc0H8ZbRtQbeVBpaz) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Day Without Yesterday / Six O Six](https://open.spotify.com/album/6mVEU0cBrcGxhlE55d96H3) | 5:39 |
-| 20 | [Jen High](https://open.spotify.com/track/5a7ukZt5n6y5iyWWXJTEH0) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Art of War \(Pt\. II\) EP](https://open.spotify.com/album/5wKpkXfZE8R4jQzlszOplp) | 6:27 |
-| 21 | [Shero](https://open.spotify.com/track/1SCavOqanyTnGotH0xL4b6) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Needs x UN Women Present HeForShe](https://open.spotify.com/album/3hbGmZaqQjrAWrF8X5vna1) | 6:42 |
-| 22 | [Purple Horizon](https://open.spotify.com/track/2W3QmPhnMnjUqgYBdG7HsT) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 3:41 |
+| 17 | [Seoulsi Peggygou \(서울시페기구\)](https://open.spotify.com/track/2MQWxF9FTFBHBkU3NcvODv) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 2:37 |
+| 18 | [Rose](https://open.spotify.com/track/06iR09uUfFS3kVEAJHJyeB) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Seek For Maktoop](https://open.spotify.com/album/6fwjLcIzNrgIxhqSVPcPTX) | 7:44 |
+| 19 | [Jen High](https://open.spotify.com/track/5a7ukZt5n6y5iyWWXJTEH0) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Art of War \(Pt\. II\) EP](https://open.spotify.com/album/5wKpkXfZE8R4jQzlszOplp) | 6:27 |
+| 20 | [Day Without Yesterday](https://open.spotify.com/track/0OhEIJc0H8ZbRtQbeVBpaz) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Day Without Yesterday / Six O Six](https://open.spotify.com/album/6mVEU0cBrcGxhlE55d96H3) | 5:39 |
+| 21 | [Purple Horizon](https://open.spotify.com/track/2W3QmPhnMnjUqgYBdG7HsT) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 3:41 |
+| 22 | [Shero](https://open.spotify.com/track/1SCavOqanyTnGotH0xL4b6) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Needs x UN Women Present HeForShe](https://open.spotify.com/album/3hbGmZaqQjrAWrF8X5vna1) | 6:42 |
 | 23 | [Maktoop](https://open.spotify.com/track/7iIzRv3H2BtA03xuAmxiOu) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Seek For Maktoop](https://open.spotify.com/album/6fwjLcIzNrgIxhqSVPcPTX) | 7:54 |
 | 24 | [Six O Six](https://open.spotify.com/track/01aXWzyH9y5prhVJ2tQLY9) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Day Without Yesterday / Six O Six](https://open.spotify.com/album/6mVEU0cBrcGxhlE55d96H3) | 6:06 |
-| 25 | [When Round, They Go \- Terekke Remix](https://open.spotify.com/track/2jcLXice4V8TNsvwE76498) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Terekke](https://open.spotify.com/artist/0VkQxm6BXV8KqEFmUpg5Lu) | [Art of War \(Pt\. II\) EP](https://open.spotify.com/album/5wKpkXfZE8R4jQzlszOplp) | 6:27 |
-| 26 | [Your Art](https://open.spotify.com/track/3xSdEXX2d1A02U1jaLmGwl) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 1:57 |
+| 25 | [Your Art](https://open.spotify.com/track/3xSdEXX2d1A02U1jaLmGwl) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 1:57 |
+| 26 | [When Round, They Go \- Terekke Remix](https://open.spotify.com/track/2jcLXice4V8TNsvwE76498) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Terekke](https://open.spotify.com/artist/0VkQxm6BXV8KqEFmUpg5Lu) | [Art of War \(Pt\. II\) EP](https://open.spotify.com/album/5wKpkXfZE8R4jQzlszOplp) | 6:27 |
 | 27 | [Hundres Times](https://open.spotify.com/track/26oSDKypk0yTVUlCHi5B73) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Once](https://open.spotify.com/album/6iPrb23tXiLrKCCmiAqVTA) | 6:56 |
 | 28 | [Travelling Without Arriving](https://open.spotify.com/track/4FiadIuhjYbjq5jkEwCOFF) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Travelling Without Arriving](https://open.spotify.com/album/6deWiLAKj3Zpb85JrFbvlO) | 5:57 |
 | 29 | [Troop](https://open.spotify.com/track/7GbhZNoIASAeUjwekiT0sa) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Art of War EP](https://open.spotify.com/album/2GSiOe0Olm5qoWM6jLtxKo) | 5:53 |
 | 30 | [In Sum](https://open.spotify.com/track/03lJOQU2pvvNVTppJ3VvIs) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Art of War EP](https://open.spotify.com/album/2GSiOe0Olm5qoWM6jLtxKo) | 6:36 |
 
-Snapshot ID: `ZmjlAAAAAAAlV90kzJVmasE4gjyfEgSt`
+Snapshot ID: `Zmo2gAAAAABXg+SndUxHhzX1IZD8hYpe`

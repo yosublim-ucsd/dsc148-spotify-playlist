@@ -980,7 +980,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 177000,
       "name": "Back Bus",
       "url": "https://open.spotify.com/track/21ceB6sHPjBtj8SCU9C1zi"
@@ -1042,7 +1042,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 142173,
       "name": "BACK IN IT",
       "url": "https://open.spotify.com/track/18qCGaNe3iMnnHxr7jKt7h"
@@ -1412,7 +1412,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 204798,
       "name": "BANG YOUR HEAD",
       "url": "https://open.spotify.com/track/2vk63a0DpsEDiCG4k0mjCF"
@@ -1558,7 +1558,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 203224,
       "name": "Bass To The Dome",
       "url": "https://open.spotify.com/track/6nVyDjAhify9FGCF8TViJy"
@@ -2664,7 +2664,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 144000,
       "name": "Caffeine Induced Psychosis",
       "url": "https://open.spotify.com/track/0zQxgmvnWOFOgWVyt3OOoh"
@@ -3517,6 +3517,32 @@
     },
     {
       "album": {
+        "name": "Creep Killa (Creeds Remix)",
+        "url": "https://open.spotify.com/album/7gwZugjbDfh5B8A3Z3Fg00"
+      },
+      "artists": [
+        {
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+        },
+        {
+          "name": "Nika D",
+          "url": "https://open.spotify.com/artist/4rhvvviNTpgE0r6A3Vb5nG"
+        },
+        {
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Creep Killa - Creeds Remix",
+      "url": "https://open.spotify.com/track/5arRUPv5EvcJ2zNI4F97os"
+    },
+    {
+      "album": {
         "name": "Criminal",
         "url": "https://open.spotify.com/album/1uyc31Iw3pbYXstxykjzfr"
       },
@@ -3658,6 +3684,24 @@
       "duration_ms": 185285,
       "name": "Cyanide",
       "url": "https://open.spotify.com/track/3iFJjgV27J4vDs9N7RAAKs"
+    },
+    {
+      "album": {
+        "name": "Damage",
+        "url": "https://open.spotify.com/album/4NqxRinZeiR45um7j2AHC1"
+      },
+      "artists": [
+        {
+          "name": "F.O.O.L",
+          "url": "https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201823,
+      "name": "Damage",
+      "url": "https://open.spotify.com/track/6S0nRvCvWPpYg07vDqf1gM"
     },
     {
       "album": {
@@ -4019,6 +4063,24 @@
     },
     {
       "album": {
+        "name": "DELTA",
+        "url": "https://open.spotify.com/album/6jrRtiZ11ETv5ercTeB2gH"
+      },
+      "artists": [
+        {
+          "name": "DJ FKU",
+          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172067,
+      "name": "DELTA",
+      "url": "https://open.spotify.com/track/5NcT6HWiBiETs1mTFYXR1U"
+    },
+    {
+      "album": {
         "name": "demolition (Ruined by Glass Petals)",
         "url": "https://open.spotify.com/album/5CN8SCIeJGzrG8efIbfjgo"
       },
@@ -4180,7 +4242,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 149760,
       "name": "Dhunga",
       "url": "https://open.spotify.com/track/14CuAxOwFn2346hrXXx5Cj"
@@ -7898,7 +7960,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 252800,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4FHSM9uehI2DtSWtzYORNV"
@@ -8692,6 +8754,24 @@
       "duration_ms": 177230,
       "name": "Ignorant",
       "url": "https://open.spotify.com/track/0GhXFQpQIhmHnpg7sVqSqY"
+    },
+    {
+      "album": {
+        "name": "IN THE ALLEY",
+        "url": "https://open.spotify.com/album/1ULgYsHVDh6c1zn5UPIqGh"
+      },
+      "artists": [
+        {
+          "name": "ALLEYCVT",
+          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162206,
+      "name": "IN THE ALLEY",
+      "url": "https://open.spotify.com/track/6rLZY5Jlr3PJVsMf9k6ixF"
     },
     {
       "album": {
@@ -10084,7 +10164,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 182406,
       "name": "Lost In The HEYZ",
       "url": "https://open.spotify.com/track/703ev30aRZfJ8DtIMPVDa7"
@@ -12843,6 +12923,24 @@
     },
     {
       "album": {
+        "name": "Play It Twice",
+        "url": "https://open.spotify.com/album/1hsBmf6kB92nKgfADDThoO"
+      },
+      "artists": [
+        {
+          "name": "INFEKT",
+          "url": "https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160551,
+      "name": "Play It Twice",
+      "url": "https://open.spotify.com/track/1Bh3YR7qp6aFByFoHmzmq4"
+    },
+    {
+      "album": {
         "name": "Play With You",
         "url": "https://open.spotify.com/album/55rXKa79HyEaM9gYapnZiy"
       },
@@ -14651,6 +14749,32 @@
     },
     {
       "album": {
+        "name": "Carry The Fire EP",
+        "url": "https://open.spotify.com/album/4qzMoea80W9VXwCfxC5QjW"
+      },
+      "artists": [
+        {
+          "name": "Bensley",
+          "url": "https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL"
+        },
+        {
+          "name": "Justin Hawkes",
+          "url": "https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996"
+        },
+        {
+          "name": "Kumarion",
+          "url": "https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231724,
+      "name": "Sell My Soul",
+      "url": "https://open.spotify.com/track/6zHP39snHhnIAJVax30Xqh"
+    },
+    {
+      "album": {
         "name": "Senses",
         "url": "https://open.spotify.com/album/528AOUAXpxheUivis06m99"
       },
@@ -15847,6 +15971,28 @@
     },
     {
       "album": {
+        "name": "Sploinky Dub",
+        "url": "https://open.spotify.com/album/2iAmSibpvHukTA7VHWsQbP"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Grech",
+          "url": "https://open.spotify.com/artist/6z1We817VZisHPTNCJi2cd"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Sploinky Dub",
+      "url": "https://open.spotify.com/track/0b8WrzU0hzr5WH2uEpMlcL"
+    },
+    {
+      "album": {
         "name": "Starfire",
         "url": "https://open.spotify.com/album/68her7Ju4UvZFtMXTsTIEj"
       },
@@ -16380,6 +16526,36 @@
       "duration_ms": 148114,
       "name": "Symptoms",
       "url": "https://open.spotify.com/track/4inYiXI3aHvJMK9LGRDsKa"
+    },
+    {
+      "album": {
+        "name": "TAKA (Taiki Nulight Remix)",
+        "url": "https://open.spotify.com/album/13DYWnl7vnV6gMGMGiDai8"
+      },
+      "artists": [
+        {
+          "name": "Ahadadream",
+          "url": "https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW"
+        },
+        {
+          "name": "Priya Ragu",
+          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209445,
+      "name": "TAKA - Taiki Nulight Remix",
+      "url": "https://open.spotify.com/track/0tdHittlEah9GOXVRx3CHu"
     },
     {
       "album": {

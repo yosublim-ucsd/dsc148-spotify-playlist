@@ -50,7 +50,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 93929,
       "name": "2nd Boom",
       "url": "https://open.spotify.com/track/1ezQ8Q9pYUXaJ5lAFtoWw7"
@@ -1030,7 +1030,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 212727,
       "name": "Hemisphere",
       "url": "https://open.spotify.com/track/7CA70mF79PyWToJHIvqdhU"
@@ -2370,6 +2370,32 @@
       "duration_ms": 219019,
       "name": "Sweet Williams",
       "url": "https://open.spotify.com/track/11P1ofuhfbUdxHCBgTLIiy"
+    },
+    {
+      "album": {
+        "name": "Switch It",
+        "url": "https://open.spotify.com/album/4und1ixZx8BGcsyvk2kniU"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Cakes da Killa",
+          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
+        },
+        {
+          "name": "GAWD",
+          "url": "https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183263,
+      "name": "Switch It",
+      "url": "https://open.spotify.com/track/2bZRE5rSZL2aMZh86oaMuI"
     },
     {
       "album": {

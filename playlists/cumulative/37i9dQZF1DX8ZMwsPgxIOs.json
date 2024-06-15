@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Techno is a state of mind. Cover: Eli Brown",
+  "description": "Techno is a state of mind. Cover: Charlotte de Witte",
   "name": "Techno State",
   "tracks": [
     {
@@ -998,6 +998,28 @@
       "duration_ms": 390037,
       "name": "Brunt",
       "url": "https://open.spotify.com/track/6lXm60fg9Nh0mJONXKTvxv"
+    },
+    {
+      "album": {
+        "name": "Bumpin' / Just Get Up",
+        "url": "https://open.spotify.com/album/3fwmyBZIK7euzEOGcKPeYX"
+      },
+      "artists": [
+        {
+          "name": "Avision",
+          "url": "https://open.spotify.com/artist/25L7U77b5R5fO5pRjDP1Cj"
+        },
+        {
+          "name": "Jackmaster",
+          "url": "https://open.spotify.com/artist/1VQgvnkH9rOB2YkNr1ovuB"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301874,
+      "name": "Bumpin'",
+      "url": "https://open.spotify.com/track/22iMeWorH0sloAZa1JJ6Oz"
     },
     {
       "album": {
@@ -4098,7 +4120,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 212500,
       "name": "Need Electric - 2023 Redux - Edit",
       "url": "https://open.spotify.com/track/5G28Zwt1Scwr3XS8IQDtLh"
@@ -5008,7 +5030,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 393070,
       "name": "Raven - Mathame Remix",
       "url": "https://open.spotify.com/track/0PHWOPRYE6ze9juI91h2An"
@@ -6238,6 +6260,24 @@
       "duration_ms": 278522,
       "name": "Telepathic",
       "url": "https://open.spotify.com/track/0MyztaslwZeqsnYPaLmREB"
+    },
+    {
+      "album": {
+        "name": "Movimiento",
+        "url": "https://open.spotify.com/album/6aKGDyR5AGabrgoK72IspI"
+      },
+      "artists": [
+        {
+          "name": "GiGi FM",
+          "url": "https://open.spotify.com/artist/2I64l1qh83iqkQ3cLRGcPi"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333913,
+      "name": "Tempelhof",
+      "url": "https://open.spotify.com/track/1OXu6yphRorUKpTttBMMhl"
     },
     {
       "album": {

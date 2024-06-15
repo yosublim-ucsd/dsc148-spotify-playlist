@@ -257,6 +257,28 @@
     },
     {
       "album": {
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/4jrP67zEPygoCd90h6vMHr"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190230,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/2p5LjvjZlMSxxwNUtDyG5x"
+    },
+    {
+      "album": {
         "name": "All or Nothing",
         "url": "https://open.spotify.com/album/15wYtBlGoDxPUL283TyHgu"
       },
@@ -817,6 +839,32 @@
     },
     {
       "album": {
+        "name": "Barely Breathing (feat. Against The Current)",
+        "url": "https://open.spotify.com/album/7g4zvyk5Lz0DtNDtqr7Pu6"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        },
+        {
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+        },
+        {
+          "name": "Chrissy Costanza",
+          "url": "https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190200,
+      "name": "Barely Breathing (feat. Against The Current)",
+      "url": "https://open.spotify.com/track/7Ds5R4lrpWAtVGAspvd5lE"
+    },
+    {
+      "album": {
         "name": "Before I'm Gone",
         "url": "https://open.spotify.com/album/1Q8YYZImSJVSWDUiUIsM41"
       },
@@ -1217,6 +1265,24 @@
     },
     {
       "album": {
+        "name": "Brave New World",
+        "url": "https://open.spotify.com/album/6ODIDW9Ud3whinMHkY2Cbh"
+      },
+      "artists": [
+        {
+          "name": "STARSET",
+          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263942,
+      "name": "Brave New World",
+      "url": "https://open.spotify.com/track/7stpbtJzoBx1D38egFeT29"
+    },
+    {
+      "album": {
         "name": "Fallen",
         "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
       },
@@ -1268,6 +1334,28 @@
       "duration_ms": 226960,
       "name": "Call Me What You Like",
       "url": "https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM"
+    },
+    {
+      "album": {
+        "name": "can u see me in the dark?",
+        "url": "https://open.spotify.com/album/7mrNcgAQuzS3XF3db20WIe"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        },
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238756,
+      "name": "can u see me in the dark?",
+      "url": "https://open.spotify.com/track/7pugmRsHRy1fnug9NqH5cA"
     },
     {
       "album": {
@@ -1956,7 +2044,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 164106,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/25xNO6EC6RPmBpBZOblOOW"
@@ -2064,7 +2152,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 208296,
       "name": "Dirty",
       "url": "https://open.spotify.com/track/3MTfE3Mo3lfwAymYLU2luX"
@@ -2626,6 +2714,24 @@
       "duration_ms": 270920,
       "name": "Falling Away from Me",
       "url": "https://open.spotify.com/track/2F6FfZ4w8z3eJpSxPotVO5"
+    },
+    {
+      "album": {
+        "name": "Feedback",
+        "url": "https://open.spotify.com/album/6OwSZ83UAtFcYuWbrYuafP"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152963,
+      "name": "Feedback",
+      "url": "https://open.spotify.com/track/4rpw43XrPiHKER3nSL2vZH"
     },
     {
       "album": {
@@ -5126,7 +5232,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 280151,
       "name": "Ludens",
       "url": "https://open.spotify.com/track/2eZjO58Qe9og2xmyfw4qwJ"
@@ -5260,7 +5366,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 155919,
       "name": "Memories (with WILLOW)",
       "url": "https://open.spotify.com/track/3LcMLFApeU9uCT8VCWEVjr"
@@ -5790,7 +5896,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 215733,
       "name": "Numb",
       "url": "https://open.spotify.com/track/2rzoY8Gzj9iC0jPwPRQgZP"
@@ -5932,7 +6038,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 144102,
       "name": "OUTRUN MYSELF (with Travis Barker)",
       "url": "https://open.spotify.com/track/109mkG2S2huV1S5xFRbJgF"
@@ -6191,6 +6297,24 @@
     },
     {
       "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/15ypOlXwgFQrF9KfhISXhn"
+      },
+      "artists": [
+        {
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142533,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/55UAMzSFfLE3SvUksiRUGu"
+    },
+    {
+      "album": {
         "name": "Pray To The Hunter (The Elder Scrolls Online)",
         "url": "https://open.spotify.com/album/1gS2HRB3La2cwpovw1Jr7n"
       },
@@ -6426,6 +6550,24 @@
       "duration_ms": 233586,
       "name": "Rise",
       "url": "https://open.spotify.com/track/0oocSoRiIS4ZvjX9TWx1kP"
+    },
+    {
+      "album": {
+        "name": "ROCKSTAR",
+        "url": "https://open.spotify.com/album/3vCjG6V4zutlCWvVPQFzbl"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194341,
+      "name": "ROCKSTAR",
+      "url": "https://open.spotify.com/track/5jhY1n1cTKSxx8lEujMcAS"
     },
     {
       "album": {
@@ -7654,7 +7796,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 291440,
       "name": "Sweet Dreams (Are Made Of This)",
       "url": "https://open.spotify.com/track/0Xq7FPQaLJgIHSB605YUMy"
@@ -8505,6 +8647,24 @@
     },
     {
       "album": {
+        "name": "POST HUMAN: NeX GEn",
+        "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240590,
+      "name": "Top 10 staTues tHat CriEd bloOd",
+      "url": "https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP"
+    },
+    {
+      "album": {
         "name": "I Can Fool Anybody in This Town",
         "url": "https://open.spotify.com/album/5PPA9XMqeALVgwrrR6DGFx"
       },
@@ -9238,7 +9398,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 187000,
       "name": "Wouldn\u2019t Change A Thing",
       "url": "https://open.spotify.com/track/1nxolqTzRn39brCPRk5f8v"

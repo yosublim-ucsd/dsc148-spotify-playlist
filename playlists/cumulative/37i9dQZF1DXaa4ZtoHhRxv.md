@@ -4,7 +4,7 @@
 
 > Dale! Hit the dance floor with Dolly Parton and Pitbull!
 
-199 songs - 10 hr 46 min
+200 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Again](https://open.spotify.com/track/6mQkNOqfrk5CyYpjx660Gh) | [BEXAR](https://open.spotify.com/artist/1GXBaX5YUjOrrXch1sGepn), [Petey Martin](https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB) | [Again](https://open.spotify.com/album/0EGEqpUrrlDzUQJvTQjjFR) | 2:35 | 2022-04-29 |  |
 | [Ain't Always The Cowboy \- Western Version](https://open.spotify.com/track/3As64yn0YtpJRnPi56cTke) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Ain't Always The Cowboy \(Western Version\)](https://open.spotify.com/album/4qkRHZc3liJORFIfVlHbrv) | 4:14 | 2021-12-10 |  |
 | [Angel Eyes \(Dee Jay Silver Remix\)](https://open.spotify.com/track/3bXvv1X4Jel4OCkkqCPpiH) | [Love and Theft](https://open.spotify.com/artist/03a5eVjzFyQlR4XyVSwt4t) | [Country Club](https://open.spotify.com/album/0ND26IiObIrQgNuzU5dFmt) | 3:04 | 2021-12-10 |  |
+| [Austin \(Boots Stop Workin'\) \- Distant Matter Remix](https://open.spotify.com/track/0gkTJziolVNOmmdwgaRMho) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I), [Distant Matter](https://open.spotify.com/artist/7jOCrpnW33mqmrR6r6ORvn) | [Austin \(Boots Stop Workin'\) \[Distant Matter Remix\]](https://open.spotify.com/album/35gz5TLdUbb0JxSzfKLiHc) | 2:56 | 2024-06-14 |  |
 | [Backroad Flyin' \- Matthew Parker Remix](https://open.spotify.com/track/4c1sQ9WPt5PAvPjNhbijVp) | [Luke and Kaylee](https://open.spotify.com/artist/0p7RQG0Rq8tzWxUros2BDf), [Matthew Parker](https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54) | [Backroad Flyin' \(Matthew Parker Remix\)](https://open.spotify.com/album/1ebsAD2Bbn0YgbLzOnczBL) | 3:02 | 2022-08-20 |  |
 | [Barefoot Blue Jean Night \(Dee Jay Silver Remix\)](https://open.spotify.com/track/71WQp27TidhDZeSDly2JHN) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Country Club](https://open.spotify.com/album/0ND26IiObIrQgNuzU5dFmt) | 3:14 | 2021-12-10 |  |
 | [Be Like That \(feat\. Swae Lee & Khalid\) \[Matt Medved Remix\]](https://open.spotify.com/track/5wQTZOgVfHHVi51ejIOCkl) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Matt Medved](https://open.spotify.com/artist/5xmKSoBLGN455TjWbaFcZa) | [Be Like That \(Remixes\) \- EP](https://open.spotify.com/album/1K2v28dprTdyqm7QF0ffP3) | 3:24 | 2021-12-10 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Current indie tunes from Asia and around the world. Cover: PREP",
+  "description": "Current indie tunes from Asia and around the world. Cover: Toro y Moi",
   "name": "Indie Shuffle",
   "tracks": [
     {
@@ -1336,6 +1336,24 @@
       "duration_ms": 170386,
       "name": "Alpha Zulu",
       "url": "https://open.spotify.com/track/1QgegXUzfvRJxNRHM9sP3F"
+    },
+    {
+      "album": {
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/70L7Lav25m2IILlSSXnN1A"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228040,
+      "name": "Already Gone",
+      "url": "https://open.spotify.com/track/6QrQIAcvX1OZ0UrOjj2mrJ"
     },
     {
       "album": {
@@ -3659,6 +3677,28 @@
     },
     {
       "album": {
+        "name": "Breaking",
+        "url": "https://open.spotify.com/album/5ROCUR5iG4np8RCpujQDpm"
+      },
+      "artists": [
+        {
+          "name": "ANOHNI",
+          "url": "https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo"
+        },
+        {
+          "name": "Antony and the Johnsons",
+          "url": "https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204429,
+      "name": "Breaking",
+      "url": "https://open.spotify.com/track/0M8xf6txl5E1krF7yO1XIO"
+    },
+    {
+      "album": {
         "name": "Breakthrough",
         "url": "https://open.spotify.com/album/7vLtnkheg9udjZyXGYeZAx"
       },
@@ -4899,6 +4939,24 @@
     },
     {
       "album": {
+        "name": "Cinnamon Curls",
+        "url": "https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246586,
+      "name": "Cinnamon Curls",
+      "url": "https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe"
+    },
+    {
+      "album": {
         "name": "All Around You",
         "url": "https://open.spotify.com/album/0V1dIAje2IVpyBQp6byOwi"
       },
@@ -5088,7 +5146,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 153165,
       "name": "Closer To You",
       "url": "https://open.spotify.com/track/3KKJs4wcsgwapvvtG9VKjV"
@@ -6025,6 +6083,24 @@
     },
     {
       "album": {
+        "name": "POPtical Illusion",
+        "url": "https://open.spotify.com/album/4Y47DeNLz30h7AyLtGdqtT"
+      },
+      "artists": [
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255657,
+      "name": "Davies and Wales",
+      "url": "https://open.spotify.com/track/5eNdtVT6h1Sr7Q6xdv5Ptu"
+    },
+    {
+      "album": {
         "name": "Trail Mix Tape",
         "url": "https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6"
       },
@@ -6254,6 +6330,24 @@
       "duration_ms": 314733,
       "name": "Death & Romance",
       "url": "https://open.spotify.com/track/5jnlJbBK53L6Nd3ox8T0ot"
+    },
+    {
+      "album": {
+        "name": "Death Grips",
+        "url": "https://open.spotify.com/album/0fK8Tmhs1ku4p3XAxJJrXd"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213190,
+      "name": "Death Grips",
+      "url": "https://open.spotify.com/track/2xXgWlANgNbcuFZhD7NFSc"
     },
     {
       "album": {
@@ -7924,7 +8018,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 180209,
       "name": "Every Little Thing I Say I Do",
       "url": "https://open.spotify.com/track/3ngjq0C1z1kVYAdBH5114w"
@@ -9823,6 +9917,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1VrnMUyVCGxRRRHgJhUOSa"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177382,
+      "name": "girlfriend - Spotify Singles",
+      "url": "https://open.spotify.com/track/6eTkZYXX89GcnEaA8fch09"
+    },
+    {
+      "album": {
         "name": "Girlfriend Is Better",
         "url": "https://open.spotify.com/album/0NE7g8mQKHZ43DqGvmEFg6"
       },
@@ -10464,7 +10576,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 239853,
       "name": "Green",
       "url": "https://open.spotify.com/track/4jRj9rmvSkshJq2QaGLg8A"
@@ -13927,6 +14039,24 @@
     },
     {
       "album": {
+        "name": "last great american summer",
+        "url": "https://open.spotify.com/album/4gnhFRs1UbrvYed4RluGt9"
+      },
+      "artists": [
+        {
+          "name": "SEB",
+          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194786,
+      "name": "last great american summer",
+      "url": "https://open.spotify.com/track/3K9Vf2JtFYuwk63GEKn4nM"
+    },
+    {
+      "album": {
         "name": "Mid Spiral: Chaos",
         "url": "https://open.spotify.com/album/4jSXr6It6ARLX8iDOHbwaJ"
       },
@@ -16113,6 +16243,24 @@
     },
     {
       "album": {
+        "name": "Mild Child",
+        "url": "https://open.spotify.com/album/6xZ7LBjsMfANHQAMt7wmWk"
+      },
+      "artists": [
+        {
+          "name": "Pictured Resort",
+          "url": "https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253099,
+      "name": "Mild Child",
+      "url": "https://open.spotify.com/track/22SRljDCEqspX5xTeFn6jd"
+    },
+    {
+      "album": {
         "name": "MAHAL",
         "url": "https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR"
       },
@@ -16511,6 +16659,24 @@
     },
     {
       "album": {
+        "name": "Motorcycle",
+        "url": "https://open.spotify.com/album/7mhREQUR2GbBqPILSsKz7g"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166741,
+      "name": "Motorcycle",
+      "url": "https://open.spotify.com/track/0pJAiDG0LmZHlPuMudDvjs"
+    },
+    {
+      "album": {
         "name": "Young Hearts",
         "url": "https://open.spotify.com/album/5HSUCEmAAFT1yl5GoGUnxa"
       },
@@ -16826,7 +16992,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 182426,
       "name": "My Day Off",
       "url": "https://open.spotify.com/track/6GUv3PAHoR1IVoonUmiSFi"
@@ -18056,7 +18222,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 220499,
       "name": "Nothing 2 See",
       "url": "https://open.spotify.com/track/39LBUI8lG3pjn83ovYdjGv"
@@ -18114,6 +18280,24 @@
       "duration_ms": 278760,
       "name": "Nothing's Free",
       "url": "https://open.spotify.com/track/5IyRSZy0R7UdweNISjf5qS"
+    },
+    {
+      "album": {
+        "name": "Now and Ever",
+        "url": "https://open.spotify.com/album/27u7Lg41vdi6Ku1KGW1UrU"
+      },
+      "artists": [
+        {
+          "name": "James Alyn",
+          "url": "https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220161,
+      "name": "Now and Ever",
+      "url": "https://open.spotify.com/track/1VHM91Ost9UKZYPg7rRdhK"
     },
     {
       "album": {
@@ -19566,7 +19750,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 151560,
       "name": "Peppermint Roses",
       "url": "https://open.spotify.com/track/4wY7dEwv9w2BvnVXbICYMT"
@@ -19614,6 +19798,24 @@
       "duration_ms": 265902,
       "name": "Performance In a Dream (feat. Our Shame)",
       "url": "https://open.spotify.com/track/5dCIeG01S5SNV2kLGrBxwt"
+    },
+    {
+      "album": {
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/7tbsKocOD59BcX2FJKfqUH"
+      },
+      "artists": [
+        {
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219964,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq"
     },
     {
       "album": {
@@ -19722,6 +19924,24 @@
       "duration_ms": 168750,
       "name": "phonecase",
       "url": "https://open.spotify.com/track/4Onk8ZymFGVPE5c9nXIdBv"
+    },
+    {
+      "album": {
+        "name": "piece of mind",
+        "url": "https://open.spotify.com/album/6FiYjPbvIHjKo0pWLn8tt6"
+      },
+      "artists": [
+        {
+          "name": "Cupnoodle",
+          "url": "https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181875,
+      "name": "piece of mind",
+      "url": "https://open.spotify.com/track/22GeaRbTM6J9MZLA9TqDx0"
     },
     {
       "album": {
@@ -20425,6 +20645,24 @@
     },
     {
       "album": {
+        "name": "Queen of My Heart",
+        "url": "https://open.spotify.com/album/6EqOOFVlAj45cewgORVVZT"
+      },
+      "artists": [
+        {
+          "name": "LambC",
+          "url": "https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263851,
+      "name": "Queen of My Heart",
+      "url": "https://open.spotify.com/track/3T0kl3KYmOxKtTWvFpYZ7Q"
+    },
+    {
+      "album": {
         "name": "Sidharth",
         "url": "https://open.spotify.com/album/5sLDE06hTPUsBajUxNN8tM"
       },
@@ -20652,7 +20890,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 161034,
       "name": "React",
       "url": "https://open.spotify.com/track/3ok8eAQioOTORzkuJ8pHZk"
@@ -25724,7 +25962,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 245980,
       "name": "The Hardest Part",
       "url": "https://open.spotify.com/track/7L33BfYhHwlQM8QqE1Fy3D"
@@ -25796,7 +26034,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 215466,
       "name": "The Last Year",
       "url": "https://open.spotify.com/track/2gs4GCStX8lwS8XIrrv63g"
@@ -25814,7 +26052,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 273293,
       "name": "The Light Nights",
       "url": "https://open.spotify.com/track/29qg46mkSEAvyN7l8TaBGX"
@@ -26955,6 +27193,24 @@
     },
     {
       "album": {
+        "name": "Towers",
+        "url": "https://open.spotify.com/album/7gW79aYrfQFx0eAyh8Ag1e"
+      },
+      "artists": [
+        {
+          "name": "Hundred Waters",
+          "url": "https://open.spotify.com/artist/108ugtkRFQzP9nGgNiyERO"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299743,
+      "name": "Towers",
+      "url": "https://open.spotify.com/track/4rMzUBEVw3YaU7xelkCgYR"
+    },
+    {
+      "album": {
         "name": "trippin",
         "url": "https://open.spotify.com/album/0wFS8hm2vYqo2LeUGpZV1j"
       },
@@ -27064,6 +27320,24 @@
       "duration_ms": 187750,
       "name": "Try Better Next Time",
       "url": "https://open.spotify.com/track/5HzYHDdYKsxhGZEkZLiFl0"
+    },
+    {
+      "album": {
+        "name": "Tuesday",
+        "url": "https://open.spotify.com/album/3OJhV8FhTJQLH979qE2QXA"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149600,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/073gctjGEOq9cXuFjldqxT"
     },
     {
       "album": {
@@ -30032,7 +30306,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 148000,
       "name": "\u58f0\u3092\u805e\u304b\u305b\u3066",
       "url": "https://open.spotify.com/track/0ZJmMINFDqxtS5QhZzMjWh"

@@ -4,7 +4,7 @@
 
 > Raw, sentimental feels.
 
-162 songs - 6 hr 17 min
+165 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Driftwood](https://open.spotify.com/track/7JVfIv0ymBzxJNGuWpHbWZ) | [Fujitsu](https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT) | [Corals](https://open.spotify.com/album/1o5iflLRe5yh0B8o9gbbF4) | 2:04 | 2019-03-27 | 2024-04-19 |
 | [emerald](https://open.spotify.com/track/09ekHMx7dXh7EQMAmNqUrD) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [in.the.forest.we.are.wizards](https://open.spotify.com/album/6bG4Sy0DN6zYSi6kLlBJMF) | 2:34 | 2019-03-27 |  |
 | [emerald](https://open.spotify.com/track/0kglaBttNwzxtNeDdWafej) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [in.the.forest.we.are.wizards](https://open.spotify.com/album/5dtl7XhfdMYSmTBaBSuaTS) | 2:34 | 2019-03-27 | 2024-04-19 |
+| [eventide](https://open.spotify.com/track/3EBpMvfHr3mdKiwn5t0m6d) | [sad notes](https://open.spotify.com/artist/6LlMF86oZBZG1nvkIkso0A) | [eventide](https://open.spotify.com/album/3X9VpBT2UrIL9nh6JFthlh) | 2:10 | 2024-06-14 |  |
 | [falling behind](https://open.spotify.com/track/01IdQkdBqnyp4mhCDRGx5D) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [falling behind](https://open.spotify.com/album/78Xt50bJ6SeWBoXjL8wpGK) | 2:17 | 2024-03-01 |  |
 | [FALLING DOWN](https://open.spotify.com/track/0LDiwy2wlju7HSVPgNwNQZ) | [Formalite](https://open.spotify.com/artist/2fPfY8Q8qi3VhTWAbk7HNw), [paydak](https://open.spotify.com/artist/3rFUPY7oZm0KOljei2VSWx) | [FALLING DOWN](https://open.spotify.com/album/1G5TUWRlTTdycaPgZ8YNM9) | 1:36 | 2023-02-16 | 2023-10-16 |
 | [falling down](https://open.spotify.com/track/6gN6kwb5xLVfup7d2A33aS) | [LoofiMixKichi](https://open.spotify.com/artist/0L7TeDYhHDrrrZp2Mbzq6V) | [falling down](https://open.spotify.com/album/1ophVAxCyBO9AQ5Mvh2ALP) | 1:36 | 2023-02-16 | 2023-11-30 |
@@ -111,6 +112,7 @@
 | [MEMORIES OF YOU](https://open.spotify.com/track/2hnWQzIH4J8y3Y2MCDh5NI) | [Formalite](https://open.spotify.com/artist/2fPfY8Q8qi3VhTWAbk7HNw), [paydak](https://open.spotify.com/artist/3rFUPY7oZm0KOljei2VSWx) | [LIGHTER](https://open.spotify.com/album/0zLmk30hF1RcoDCNXmFMU4) | 1:36 | 2023-02-16 | 2023-10-05 |
 | [Memories Of You](https://open.spotify.com/track/6NGD8p3zd3ruxwCaD23tEz) | [LoofiMixKichi](https://open.spotify.com/artist/0L7TeDYhHDrrrZp2Mbzq6V) | [Loofy](https://open.spotify.com/album/6V8ocqjbvuwO5bvVkCqgfK) | 1:36 | 2023-10-27 | 2023-12-09 |
 | [memory](https://open.spotify.com/track/3kp7TJruKzJUlr3entkFZ2) | [Tatami Construct](https://open.spotify.com/artist/3DS80e9pCgy5RyTztgncuC) | [soul](https://open.spotify.com/album/4uQ6ul2x84hfo75G4hl7EW) | 3:35 | 2023-10-27 |  |
+| [mirage](https://open.spotify.com/track/7dUfQSVulg6z9mYR2kuG0u) | [Lenny Loops](https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR) | [mirage](https://open.spotify.com/album/4tGLc4CknEVw4YnWZCtOOI) | 2:11 | 2024-06-14 |  |
 | [Monday Loop](https://open.spotify.com/track/7LBG7L5wOwfBgM6W3t7qPJ) | [Tomppabeats](https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4) | [Harbor](https://open.spotify.com/album/5HpYucXuCE8s379dUfpe3v) | 1:31 | 2023-02-16 | 2023-11-30 |
 | [No Awake Zone](https://open.spotify.com/track/1CjQkzy5U9tfFioVFXBqvp) | [Pat Laine](https://open.spotify.com/artist/4ayEtUqC4VtbghdfnMjW9g) | [No Awake Zone](https://open.spotify.com/album/3Le5RTJqJ8uPcK3XEdOYC3) | 2:18 | 2023-10-27 |  |
 | [No I'm Not](https://open.spotify.com/track/2QE6nuYctAHddZOupghtms) | [Imfinenow](https://open.spotify.com/artist/4VegDdugwCSdbyoHdObFEy) | [No I'm Not](https://open.spotify.com/album/2Zya2z365pr9vclFnyZ0jh) | 1:57 | 2019-03-27 |  |
@@ -118,6 +120,7 @@
 | [no reply](https://open.spotify.com/track/3Ji8JYWfwb48AxDvlpLmtB) | [aUra Lu](https://open.spotify.com/artist/2KF0lKsVByoJPAnLjby9ag) | [no reply](https://open.spotify.com/album/0wBSKUgKu6jsZRE3NPBaPw) | 2:10 | 2023-10-27 |  |
 | [Now, I See](https://open.spotify.com/track/7xCYaDqhAOs5TfeDvY9Dqn) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:43 | 2019-03-27 |  |
 | [perspective](https://open.spotify.com/track/3aLdjPCbmgvfAo3K0zDgRh) | [bax iv](https://open.spotify.com/artist/0JZZhhFnYFY5c4mDXTgj42) | [perspective](https://open.spotify.com/album/3q7cd1dOCKHaIsrovofGGk) | 1:57 | 2023-10-27 |  |
+| [random thoughts](https://open.spotify.com/track/4bGIc2nxevxRU6FQ22L1mC) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [random thoughts](https://open.spotify.com/album/1Ci3Z0UfK2ehgnpudw86x4) | 2:15 | 2024-06-14 |  |
 | [reflections in water](https://open.spotify.com/track/5ZPeC07wnQMCVJ4FU6tee9) | [sample mode](https://open.spotify.com/artist/2DGAFB9eNsTcy6LSlvbNft), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [reflections in water](https://open.spotify.com/album/2HxJ1HI1Anen7ey9SJWIWI) | 2:20 | 2023-10-27 |  |
 | [roadtrip](https://open.spotify.com/track/70Kjb1MyC82FjzhiPiBPU4) | [vibesment](https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx) | [roadtrip](https://open.spotify.com/album/4QiEuN6Pu7bPE64XmZDqpy) | 2:17 | 2023-10-27 |  |
 | [roamwave](https://open.spotify.com/track/5LaOfGGkGFUyUdULSwGzwc) | [ai sayuri](https://open.spotify.com/artist/5YohkWp4bq0IUw4c0StwjJ) | [roamwave](https://open.spotify.com/album/5IbovMKmZTv0ikkb3qmnSy) | 2:18 | 2023-10-27 |  |

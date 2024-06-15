@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GRpeH4CL0S.md) - [plain]
 
 > The greatest Alternative Rock songs through the decades\. Cover: Weezer
 
-[Spotify](https://open.spotify.com/user/spotify) - 734,475 likes - 225 songs - 14 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 734,662 likes - 225 songs - 14 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -171,8 +171,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GRpeH4CL0S.md) - [plain]
 | 161 | [Take Me Out](https://open.spotify.com/track/6ooluO7DiEhI1zmK94nRCM) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0mUEGMT2YlzCWGeWOJjBKD) | 3:57 |
 | 162 | [Sail](https://open.spotify.com/track/5xhQChGGhKLWqBqX4XhtYE) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony Deluxe](https://open.spotify.com/album/6dMfMvS3hyk3ZCl4yljEDD) | 4:19 |
 | 163 | [Cute Without the "E" \(Cut From the Team\)](https://open.spotify.com/track/1aYWQrIT8XPdtV4hhUjczN) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(Re\-Issue\)](https://open.spotify.com/album/6OWxP59cOtitg0ALmbms8e) | 3:31 |
-| 164 | [A\-Punk](https://open.spotify.com/track/5dKBaysNJtfpyNTRa5lqDb) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/5oXBmKbyJeQftWMo87cQ9F) | 2:17 |
-| 165 | [Time is Running Out](https://open.spotify.com/track/2takcwOaAZWiXQijPHIx7B) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl) | 3:57 |
+| 164 | [Time is Running Out](https://open.spotify.com/track/2takcwOaAZWiXQijPHIx7B) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl) | 3:57 |
+| 165 | [A\-Punk](https://open.spotify.com/track/5dKBaysNJtfpyNTRa5lqDb) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/5oXBmKbyJeQftWMo87cQ9F) | 2:17 |
 | 166 | [Banquet](https://open.spotify.com/track/6U5hUX40OWY6l0HaPUWElZ) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/4KeTvCYCel3Ky58FirciWp) | 3:20 |
 | 167 | [Alright](https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd) | 3:00 |
 | 168 | [Karma Police](https://open.spotify.com/track/3SVAN3BRByDmHOhKyIDxfC) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn) | 4:24 |
@@ -187,8 +187,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GRpeH4CL0S.md) - [plain]
 | 177 | [Vertigo](https://open.spotify.com/track/57ZXcBtCZXSg9TVV5xRdnR) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/2nPJlUlcyQ24e1VdayD6TT) | 3:14 |
 | 178 | [The Distance](https://open.spotify.com/track/0xMEF2WiqKWTIG7Krjungw) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/57lJNxlrPSin9SySEnerNb) | 2:59 |
 | 179 | [Young Folks](https://open.spotify.com/track/6M6UoxIPn4NOWW0x7JPRfv) | [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Writer's Block](https://open.spotify.com/album/3FDYmCinR2Mx94ukKJKDew) | 4:39 |
-| 180 | [The Funeral](https://open.spotify.com/track/27IZXTdeGYjU6m5lTyDpmr) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Everything All The Time](https://open.spotify.com/album/4BozXZbBYOnLakhZNUv40C) | 5:22 |
-| 181 | [Heartbeats](https://open.spotify.com/track/2YacpExEbX9tF8IbFlFOo4) | [The Knife](https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4) | [Deep Cuts](https://open.spotify.com/album/1iqMDM4Io1tnDDl58NGeVJ) | 3:51 |
+| 180 | [Heartbeats](https://open.spotify.com/track/2YacpExEbX9tF8IbFlFOo4) | [The Knife](https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4) | [Deep Cuts](https://open.spotify.com/album/1iqMDM4Io1tnDDl58NGeVJ) | 3:51 |
+| 181 | [The Funeral](https://open.spotify.com/track/27IZXTdeGYjU6m5lTyDpmr) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Everything All The Time](https://open.spotify.com/album/4BozXZbBYOnLakhZNUv40C) | 5:22 |
 | 182 | [Unbelievers](https://open.spotify.com/track/7psPPGwhFzP3pyOcb3ivcT) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Modern Vampires of the City](https://open.spotify.com/album/2Qi2SySN2ePZwMLDSv9Krn) | 3:22 |
 | 183 | [Cannonball](https://open.spotify.com/track/2hjGuRIEfEGzQ5MEWLowiU) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Last Splash](https://open.spotify.com/album/4fyJ3cuyKlSMSw9Q5SAiEx) | 3:33 |
 | 184 | [All The Small Things](https://open.spotify.com/track/7yCPwWs66K8Ba5lFuU2bcx) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/5qt11cWjSs5Gbqj2Wyfu38) | 2:48 |

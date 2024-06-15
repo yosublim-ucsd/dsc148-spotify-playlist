@@ -1,6 +1,6 @@
 {
   "description": "The hottest Hip-Hop of today all over the world. (Cover: Tommy Richman)",
-  "num_followers": 440484,
+  "num_followers": 440488,
   "original_name": "Beats & Rhymes",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,26 @@
   },
   "snapshot_id": "Zmse8AAAAAAozgJVxb3xXWdI+RqKESnk",
   "tracks": [
+    {
+      "added_at": "2024-06-13 16:30:00",
+      "album": {
+        "name": "BROTHER STONE (FEAT. KODAK BLACK)",
+        "url": "https://open.spotify.com/album/0LWTY98ijfILoFHupcQJKE"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 202840,
+      "name": "BROTHER STONE (FEAT. KODAK BLACK)",
+      "url": "https://open.spotify.com/track/0l3raueiJ78IsmZGwo6CRm"
+    },
     {
       "added_at": "2024-06-13 16:30:00",
       "album": {
@@ -43,6 +63,26 @@
       "duration_ms": 180280,
       "name": "WYLE OUT",
       "url": "https://open.spotify.com/track/1RLQTWwvQclW1nMyS74Lbm"
+    },
+    {
+      "added_at": "2024-06-13 16:30:00",
+      "album": {
+        "name": "GEMINI!",
+        "url": "https://open.spotify.com/album/1oocvwkq7m9gmJma0SceUi"
+      },
+      "artists": [
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 169933,
+      "name": "BIGGAVEL",
+      "url": "https://open.spotify.com/track/4fZBMzTZjq7Z9f5y7bAGTi"
     },
     {
       "added_at": "2024-06-13 16:30:00",
@@ -889,7 +929,7 @@
         }
       ],
       "duration_ms": 161053,
-      "name": "Attitude (feat. Charlie Wilson & Cash Cobain)",
+      "name": "ATTITUDE (FEAT. CHARLIE WILSON & CASH COBAIN)",
       "url": "https://open.spotify.com/track/0KFXE2mLTFdOKkTZEDgJPv"
     },
     {

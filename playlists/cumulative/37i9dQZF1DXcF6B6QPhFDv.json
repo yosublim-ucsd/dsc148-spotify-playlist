@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-20",
-  "description": "feel it in your bones \ud83d\udcf8: Poppy",
+  "description": "feel it in your bones \ud83d\udcf8: DE'WAYNE",
   "name": "MARROW",
   "tracks": [
     {
@@ -586,6 +586,28 @@
       "duration_ms": 164826,
       "name": "Applause",
       "url": "https://open.spotify.com/track/3vTehy2tTrXyEeOieYFEAd"
+    },
+    {
+      "album": {
+        "name": "ASHAMED f/ Lauren Mayberry",
+        "url": "https://open.spotify.com/album/1N5ZcTHlOBXHGhnQtUu2BZ"
+      },
+      "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        },
+        {
+          "name": "Lauren Mayberry",
+          "url": "https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181896,
+      "name": "ASHAMED [Feat. Lauren Mayberry]",
+      "url": "https://open.spotify.com/track/15b2BhawVZK3pQ7c2BhUcU"
     },
     {
       "album": {
@@ -1466,7 +1488,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 178362,
       "name": "Can't Be Still",
       "url": "https://open.spotify.com/track/38aNl1TpX3wSrl0yqBhvOX"
@@ -2020,6 +2042,28 @@
       "duration_ms": 171830,
       "name": "Destructible",
       "url": "https://open.spotify.com/track/73IXs3h1OUIecDOAoYvH15"
+    },
+    {
+      "album": {
+        "name": "Didn't (feat. Cavetown)",
+        "url": "https://open.spotify.com/album/00r2WdTybcemQTrVEwFeon"
+      },
+      "artists": [
+        {
+          "name": "illuminati hotties",
+          "url": "https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O"
+        },
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153372,
+      "name": "Didn't (feat. Cavetown)",
+      "url": "https://open.spotify.com/track/2Oy5czpSv3bQ6AfD2gl8VI"
     },
     {
       "album": {
@@ -2675,6 +2719,24 @@
     },
     {
       "album": {
+        "name": "Everything and Nothing",
+        "url": "https://open.spotify.com/album/3hRhx7uDN7bnQSPB769JZ9"
+      },
+      "artists": [
+        {
+          "name": "SOFT PLAY",
+          "url": "https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237878,
+      "name": "Everything and Nothing",
+      "url": "https://open.spotify.com/track/7j0ERJhSb6kFFeAiDl1QBf"
+    },
+    {
+      "album": {
         "name": "Everything I Do Is For You",
         "url": "https://open.spotify.com/album/1isIpqlAXx9y1Q5JVTGiVC"
       },
@@ -3258,7 +3320,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 220920,
       "name": "Giant's Despair",
       "url": "https://open.spotify.com/track/6ZM932VVT6gSgo2ATdtt4i"
@@ -3294,7 +3356,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 249586,
       "name": "Gift Horse",
       "url": "https://open.spotify.com/track/67CrKLE8d3Qhm4gcltiKs1"
@@ -5242,7 +5304,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 177475,
       "name": "Like I Say (I runaway)",
       "url": "https://open.spotify.com/track/2D3oVAd8nHrqJH8UAfvtTT"
@@ -6127,6 +6189,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/78idguEf1xfzmWnsL6akZn"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153266,
+      "name": "Mood Swings - Spotify Singles",
+      "url": "https://open.spotify.com/track/0AYOV3i35BkGFHBwZTKDl2"
+    },
+    {
+      "album": {
         "name": "MORE",
         "url": "https://open.spotify.com/album/7ci2YpLQNXtOJTWhqMIhH9"
       },
@@ -6997,6 +7077,28 @@
     },
     {
       "album": {
+        "name": "Other Side (feat. Charlotte Sands)",
+        "url": "https://open.spotify.com/album/7fN1RNlLuPuOjEl4tJW2PP"
+      },
+      "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        },
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197160,
+      "name": "Other Side (feat. Charlotte Sands)",
+      "url": "https://open.spotify.com/track/23aw0goM4v4fmIzA8AaBgo"
+    },
+    {
+      "album": {
         "name": "Otherside",
         "url": "https://open.spotify.com/album/3jQM8I4XJIFIvQPxBX1gHy"
       },
@@ -7134,7 +7236,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 261293,
       "name": "Pandora",
       "url": "https://open.spotify.com/track/3SBhQh5X7tO8ejCMUdjSRu"
@@ -7286,6 +7388,24 @@
       "duration_ms": 441402,
       "name": "Patient Number 9 (feat. Jeff Beck)",
       "url": "https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ"
+    },
+    {
+      "album": {
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/7tbsKocOD59BcX2FJKfqUH"
+      },
+      "artists": [
+        {
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219964,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq"
     },
     {
       "album": {
@@ -7686,6 +7806,24 @@
       "duration_ms": 211117,
       "name": "Pulling Teeth",
       "url": "https://open.spotify.com/track/4a3nl8VK9ookqco7tAB2h5"
+    },
+    {
+      "album": {
+        "name": "Pumpkin",
+        "url": "https://open.spotify.com/album/6b5OV9K1FhzSTREVtpy8hs"
+      },
+      "artists": [
+        {
+          "name": "Been Stellar",
+          "url": "https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257920,
+      "name": "Pumpkin",
+      "url": "https://open.spotify.com/track/1IQx5nJcdso6KsMloQSWza"
     },
     {
       "album": {
@@ -9176,7 +9314,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 161642,
       "name": "Stickers of Brian",
       "url": "https://open.spotify.com/track/7M0A43aUdp5VDqUq39SJhV"

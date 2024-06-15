@@ -4,7 +4,7 @@
 
 > Country rap hits of today and tomorrow.
 
-130 songs - 7 hr 7 min
+131 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [When I Pull Up](https://open.spotify.com/track/36YL11gGDlMvhPvrIOYqQn) | [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH) | [When I Pull Up](https://open.spotify.com/album/6NmIZGdsfYh21Fz2vFRI8K) | 2:26 | 2024-04-19 |  |
 | [When I Pull Up](https://open.spotify.com/track/7aHzBx4XwGc0e1d7sKd5Md) | [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH) | [When I Pull Up](https://open.spotify.com/album/7LfEgScSBQT6MD7ugKB6oa) | 2:26 | 2023-03-17 | 2024-04-19 |
 | [Where I'm From](https://open.spotify.com/track/78DY9z71P8kjGzVBfYKDoh) | [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [Krizz Kaliko](https://open.spotify.com/artist/3SEJQy90Vgg1aSnZ9b4AU9) | [Where I'm From](https://open.spotify.com/album/4OPbYNUlwte2NpQo31e4IE) | 2:45 | 2023-05-26 | 2023-08-21 |
+| [WHISKEY WHISKEY \(feat\. Morgan Wallen\)](https://open.spotify.com/track/7hRLuo4QnzCsjICXUOhTE6) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [SPEAK NOW](https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9) | 2:41 | 2024-06-14 |  |
 | [Work That](https://open.spotify.com/track/4k0Gpz3QD12vVV6XJF7uOy) | [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [FJ Outlaw](https://open.spotify.com/artist/7LOfwXilquLSyzg493dPwJ), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P) | [Work That](https://open.spotify.com/album/3wi2k5B4qfXu3EwmTsggjD) | 3:04 | 2023-03-17 | 2023-08-21 |
 | [Workin' \(feat\. Alexander King\)](https://open.spotify.com/track/4fkUsaC0dJfHp5N1kIrZlr) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9), [Alexander King](https://open.spotify.com/artist/5hvNjGBoEkn4ENKwDvtouW) | [Kuntry Livin'](https://open.spotify.com/album/1vLTwC9j9fDAwPt6mqkUi0) | 3:34 | 2023-03-17 |  |
 | [Workin' on](https://open.spotify.com/track/5kSPD3rOo2hGYVwheIxpv8) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Thanks for Listening](https://open.spotify.com/album/3WtqSu0KlVlyDURmFqBjdY) | 3:44 | 2023-03-17 |  |

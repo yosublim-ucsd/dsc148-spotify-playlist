@@ -4,7 +4,7 @@
 
 > High energy Techno to boost your workout.
 
-218 songs - 19 hr 27 min
+220 songs - 19 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [About My Dreams](https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [About My Dreams](https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod) | 5:20 | 2022-07-05 |  |
 | [ACID](https://open.spotify.com/track/6JkQb1qCCJDBV7kW5vJUAH) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [ACID](https://open.spotify.com/album/7LAUJxkEQOBf6rbS0MXUi6) | 3:01 | 2023-05-12 |  |
 | [Action](https://open.spotify.com/track/7xCFUkcVQiHiFFi6yfOJxm) | [Felix Kröcher](https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ) | [Action](https://open.spotify.com/album/7k3IUuffIMangIYqbINKrb) | 6:09 | 2023-03-29 | 2023-07-28 |
-| [Addiction \- Original Mix](https://open.spotify.com/track/5WVYs7RVxu9RyFfOMBFsxI) | [Nusha](https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q), [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN) | [Addiction](https://open.spotify.com/album/3eVU8slwm0M3yv43Xvjk4F) | 6:30 | 2022-07-05 |  |
+| [Addiction \- Original Mix](https://open.spotify.com/track/5WVYs7RVxu9RyFfOMBFsxI) | [Nusha](https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q), [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN) | [Addiction](https://open.spotify.com/album/3eVU8slwm0M3yv43Xvjk4F) | 6:30 | 2022-07-05 | 2024-06-15 |
 | [Adrenaline](https://open.spotify.com/track/110oOecgIEMdjl5kOLtPCd) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [Adrenaline](https://open.spotify.com/album/6LLsf3g5lH1Up0v09IXajh) | 6:53 | 2022-07-05 | 2023-03-29 |
 | [Affection \- Radio Edit](https://open.spotify.com/track/7dQWBRCRBhgbaRATAI6OqD) | [Felix Kröcher](https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ) | [Affection](https://open.spotify.com/album/0Q62ehvfJy5DN51XOIVvfP) | 4:31 | 2022-07-05 |  |
 | [All Eyes On Me](https://open.spotify.com/track/4NURWqdoXhUpm85DkD0al8) | [Cosmic Boys](https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ) | [All Eyes On Me](https://open.spotify.com/album/5H8RWIGN18k3PrPumFy28f) | 3:38 | 2023-03-29 | 2023-04-09 |
@@ -80,6 +80,7 @@
 | [Gravity](https://open.spotify.com/track/2EHdG8AvxtuZGLk74YQUXt) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Gravity](https://open.spotify.com/album/0C24gM4unxLDwJNa0ax8LP) | 6:05 | 2023-10-13 | 2024-04-19 |
 | [Hare Ram](https://open.spotify.com/track/1MxkZ4ybCA4ordKzbGRN2O) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Hare Ram](https://open.spotify.com/album/03dSjOT6fqiQ9HfrjKKgar) | 3:19 | 2024-03-20 | 2024-04-19 |
 | [Hare Ram](https://open.spotify.com/track/3eUkFpfKGOxqdDjCrXIg0B) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Hare Ram](https://open.spotify.com/album/0BYqDSG5tSespM2PxIMXT4) | 3:19 | 2024-04-12 |  |
+| [Heaven](https://open.spotify.com/track/5Hh09KHzQ9NRjRd6HIes5R) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Heaven](https://open.spotify.com/album/1ZDVL85CeBfljGDtwOVvW9) | 3:58 | 2024-06-14 |  |
 | [Hela](https://open.spotify.com/track/74BcMAMioDrbrdbAXYIrbk) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT) | [Hela](https://open.spotify.com/album/0adQoVV6Qbg358KdIy0Yqn) | 5:05 | 2022-07-05 | 2022-09-26 |
 | [Hercules](https://open.spotify.com/track/56fFmIpNTFTcQSrfCNxeyu) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Hercules](https://open.spotify.com/album/4ovF2Pg29wZVZDPCSqYIRV) | 6:32 | 2022-07-05 | 2023-10-09 |
 | [Heute Nacht](https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Heute Nacht](https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82) | 3:24 | 2022-11-25 |  |
@@ -88,13 +89,14 @@
 | [Huys](https://open.spotify.com/track/2gHhVQLkEn5HdKrfxMrXQM) | [Anahit Vardanyan](https://open.spotify.com/artist/3B0Z2WunAUciyiCc3DsnAa) | [Huys](https://open.spotify.com/album/2sS1FtLIaTlF841XRlvtZK) | 7:20 | 2022-07-05 | 2022-10-12 |
 | [Hydro](https://open.spotify.com/track/0nmNR0KNc1in7qBGXmzEZY) | [Filterheadz](https://open.spotify.com/artist/6XqUjMGrl5jFwwyQ6hheit) | [Hydro](https://open.spotify.com/album/2CYt7WOUAFdAOBYwPuJGLL) | 6:45 | 2022-08-26 | 2022-11-26 |
 | [Hypnos](https://open.spotify.com/track/347YMNFo0pJ43u0joTb8ww) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Hypnos](https://open.spotify.com/album/2cMqYqiJeFv7YfWwc1GF1P) | 4:49 | 2022-07-05 | 2022-11-26 |
+| [I Need It More](https://open.spotify.com/track/3if5OebGvCHYFUrgWbcNq2) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [I Need It More](https://open.spotify.com/album/1xy1SNciNQEj4B9Aqd299d) | 2:38 | 2024-06-14 |  |
 | [In a Dream](https://open.spotify.com/track/7cIwpNlGQccW1LufQbLKF4) | [Karim Alkhayat](https://open.spotify.com/artist/1Jawgv4EJ23ap4WO59CE25) | [In a Dream](https://open.spotify.com/album/3A6kZChl99Ml9jA7Fd0sNw) | 5:55 | 2022-07-11 | 2022-07-29 |
 | [In Silence](https://open.spotify.com/track/2vfSCFvMbpf4hwxt22Wx7b) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [A\-Sides, Vol\. 6](https://open.spotify.com/album/0xBuVXgWQWrqqOdCSWYTkh) | 6:33 | 2022-07-11 | 2023-07-11 |
 | [In Silence](https://open.spotify.com/track/7sovMMhuknCR0PHianjiEq) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [A\-Sides, Vol\. 6](https://open.spotify.com/album/4sHJ8SyHgP6CCJ4PGfiUk9) | 6:33 | 2023-06-02 | 2024-04-19 |
 | [In Trance](https://open.spotify.com/track/3YcuaBQ6HJGwPPmiJ2UEiL) | [Dominik Saltevski](https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN) | [In Trance](https://open.spotify.com/album/2kbVZWawvUewEVkbuNhri7) | 5:57 | 2022-07-29 | 2022-12-08 |
 | [Inhale, Exhale](https://open.spotify.com/track/1WrLIHaZKZ4Ocr7dqBfBlt) | [Dominik Saltevski](https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN) | [Inhale, Exhale](https://open.spotify.com/album/25RG1ZUFWUiczxVuXWL3h5) | 4:38 | 2023-06-02 | 2023-08-26 |
 | [Injection \- Original Mix](https://open.spotify.com/track/52nFiIeYWwY5IJRStcbbfj) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC), [A\*S\*Y\*S](https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq) | [Injection \(Original Mix\)](https://open.spotify.com/album/7tq0Eni5FK1nm27dqXGWyr) | 7:01 | 2022-07-05 |  |
-| [Inside My Head](https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Inside My Head](https://open.spotify.com/album/4hviWBBIv5SqDae4nljvEc) | 6:59 | 2022-08-15 |  |
+| [Inside My Head](https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Inside My Head](https://open.spotify.com/album/4hviWBBIv5SqDae4nljvEc) | 6:59 | 2022-08-15 | 2024-06-15 |
 | [Intuition](https://open.spotify.com/track/6nP0K210TKE3VtjkngS0ks) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Intuition](https://open.spotify.com/album/2kORg46W2CuossZxEm5qOO) | 3:23 | 2023-11-10 |  |
 | [It's a Fine Day](https://open.spotify.com/track/6oJ6E9PromTaQX2shxE5kz) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B), [Valeria Mancini](https://open.spotify.com/artist/2npPeervUSog9B67xmw4h9) | [It's a Fine Day](https://open.spotify.com/album/5G3HQSKAEM1HOtV1g6BAtx) | 5:52 | 2023-11-10 |  |
 | [Janfry](https://open.spotify.com/track/20nP0CII4RqFAJLNyyFHuW) | [Spartaque](https://open.spotify.com/artist/2OpUrUeIF1sqWHwSbMPNkB), [Ramiro Lopez](https://open.spotify.com/artist/3jYkj7h3rgKs5irWBPxjrr) | [Janfry](https://open.spotify.com/album/0plksH63rz2lCRa4Im8w13) | 3:35 | 2023-06-02 | 2023-08-20 |

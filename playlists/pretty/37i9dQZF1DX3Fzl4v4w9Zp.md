@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: The Avett Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 633,479 likes - 150 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 633,538 likes - 150 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,14 +14,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 4 | [Right Back to It](https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Right Back to It](https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p) | 4:33 |
 | 5 | [Good Together](https://open.spotify.com/track/39MSXVUs6QtsIlYz3000LO) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Better Not Tell You](https://open.spotify.com/album/07N07mwMao3iOtwMjw5OtH) | 3:21 |
 | 6 | [Delilah](https://open.spotify.com/track/0uKRoLqNIs76XJOgCqAc2c) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Mood Swings](https://open.spotify.com/album/319oKHutG8MS3EFFUF00Th) | 4:23 |
-| 7 | [Cardinal](https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:11 |
-| 8 | [Heartless](https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Heartless](https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm) | 3:18 |
-| 9 | [Wilted Rose \(feat\. Lainey Wilson\)](https://open.spotify.com/track/0JedqBjEii51nak0kCLiVo) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Happiness Bastards](https://open.spotify.com/album/2P9mQHy3lFG8OhPKqg3XeX) | 5:06 |
-| 10 | [Cherokee Purples](https://open.spotify.com/track/1nxPbavSUdBMCWjPtmaWGv) | [American Aquarium](https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT) | [Cherokee Purples](https://open.spotify.com/album/0Idw0W7cejwMVUzBQ23SQu) | 4:03 |
-| 11 | [I Let Him Love Me](https://open.spotify.com/track/3r7y3Zmvf3hjHCtXbntAaQ) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [The Loneliest Girl In The World](https://open.spotify.com/album/7IZM1DRyVEwojBUupZrh96) | 3:56 |
-| 12 | [Kiss Me When You're Through](https://open.spotify.com/track/72Z9rtqBAHGUGWkFu2DCnD) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Border](https://open.spotify.com/album/6CHMRZ6vYXMvxRSC3acmFr) | 2:45 |
-| 13 | [White Lies, White Jesus And You](https://open.spotify.com/track/6gWgHGxCrROeP19EzkD7rs) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [White Lies, White Jesus And You](https://open.spotify.com/album/4PxGWmuTtzAxkPCzmWQ5Al) | 4:24 |
-| 14 | [Wanna Be Loved](https://open.spotify.com/track/4boa7Bv0VijpxoP1SHjjUb) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Wanna Be Loved](https://open.spotify.com/album/3gkwDd6hohNwtgET2IpJLZ) | 3:37 |
+| 7 | [Devil In My Ear](https://open.spotify.com/track/6BUXeo4htsduta2UWDMdWK) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Devil In My Ear](https://open.spotify.com/album/1wO6dl6mYgTX4DckhmTt7e) | 3:52 |
+| 8 | [Cardinal](https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:11 |
+| 9 | [Heartless](https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Heartless](https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm) | 3:18 |
+| 10 | [Wilted Rose \(feat\. Lainey Wilson\)](https://open.spotify.com/track/0JedqBjEii51nak0kCLiVo) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Happiness Bastards](https://open.spotify.com/album/2P9mQHy3lFG8OhPKqg3XeX) | 5:06 |
+| 11 | [Cherokee Purples](https://open.spotify.com/track/1nxPbavSUdBMCWjPtmaWGv) | [American Aquarium](https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT) | [Cherokee Purples](https://open.spotify.com/album/0Idw0W7cejwMVUzBQ23SQu) | 4:03 |
+| 12 | [I Let Him Love Me](https://open.spotify.com/track/3r7y3Zmvf3hjHCtXbntAaQ) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [The Loneliest Girl In The World](https://open.spotify.com/album/7IZM1DRyVEwojBUupZrh96) | 3:56 |
+| 13 | [Kiss Me When You're Through](https://open.spotify.com/track/72Z9rtqBAHGUGWkFu2DCnD) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Border](https://open.spotify.com/album/6CHMRZ6vYXMvxRSC3acmFr) | 2:45 |
+| 14 | [White Lies, White Jesus And You](https://open.spotify.com/track/6gWgHGxCrROeP19EzkD7rs) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [White Lies, White Jesus And You](https://open.spotify.com/album/4PxGWmuTtzAxkPCzmWQ5Al) | 4:24 |
 | 15 | [Hold On Tight](https://open.spotify.com/track/2Da8aRTIJXb2eYvbYnxgwd) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Beautiful Day](https://open.spotify.com/album/4ZPuR9nQMulQtF16QmcBt3) | 3:13 |
 | 16 | [American Dreaming \- Single Edit](https://open.spotify.com/track/3XSAuizXkxeam6N8eJwGVh) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [American Dreaming](https://open.spotify.com/album/6uAs0LUlrnnJZ21YKqqKaT) | 3:57 |
 | 17 | [All Comers](https://open.spotify.com/track/4fY5LUhcDZkiqoSLReX12Z) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [The Boy](https://open.spotify.com/album/1yTD8c5Vwp7lT2K7bJskOd) | 5:15 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 149 | [Everywhere I Go](https://open.spotify.com/track/1D9jGMIvyONAaD16DeHlGR) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/3vFxPWFA56HSBQr096PbUO) | 2:19 |
 | 150 | [Dooley's Farm \(feat\. Billy Strings\)](https://open.spotify.com/track/6zy5mComj7NwXGSBQ9VVEd) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Dooley's Farm \(feat\. Billy Strings\)](https://open.spotify.com/album/7j4q31uhuHLZb4tzVHhdkp) | 3:41 |
 
-Snapshot ID: `ZmKFwAAAAADMrnh+38t0eyehccxzGHSm`
+Snapshot ID: `ZmvAQAAAAACSezpCqsXcpFThsC0M/5jW`

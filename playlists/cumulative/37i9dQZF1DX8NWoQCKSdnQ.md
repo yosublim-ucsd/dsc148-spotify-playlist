@@ -4,7 +4,7 @@
 
 > ¡Únete a la fiesta y mueve las caderas con esta playlist!
 
-110 songs - 7 hr 3 min
+111 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Self Control](https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [Self Control](https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D) | 4:06 | 2024-05-10 | 2024-06-08 |
 | [Shabadabada](https://open.spotify.com/track/66EqOhWfTcdVphw00lcxZO) | [OV7](https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2) | [Punto](https://open.spotify.com/album/55OVAEUt48foMS6JrUDit9) | 3:55 | 2021-09-03 |  |
 | [Short Short Man](https://open.spotify.com/track/39c9Xc5genhWEMPs1eeqgn) | [Gillette](https://open.spotify.com/artist/20ldWECcOHmOWwKwAwvn4y) | [On the Attack](https://open.spotify.com/album/5FFfNV7p2JCjaByOpGjQBf) | 3:18 | 2021-09-03 |  |
+| [Sicilia](https://open.spotify.com/track/42ojGwws4Xe69HvxanSGYW) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt), [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [Sicilia](https://open.spotify.com/album/0McGTXdQofTziYO11rZXRJ) | 3:27 | 2024-06-14 |  |
 | [Siesta Freestyle](https://open.spotify.com/track/6ZHKeoIOkvmYUIfxHLtE2Z) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Alicia te quiero](https://open.spotify.com/artist/36sT4wc9jtpjKsa4kXZhkS) | [Dancy Party](https://open.spotify.com/album/3hifRrzUOFSl3BJo2JUqBE) | 3:14 | 2024-05-10 | 2024-06-08 |
 | [Single Ladies \(Put a Ring on It\)](https://open.spotify.com/track/2ZBNclC5wm4GtiWaeh0DMx) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 3:13 | 2021-09-03 |  |
 | [Suavecito Suavecito](https://open.spotify.com/track/6cKWDVak6o362TElLvwtmU) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [15 Éxitos](https://open.spotify.com/album/48FUru9enVg1NlLrkZyJW6) | 3:45 | 2021-09-03 | 2024-03-20 |
@@ -109,7 +110,7 @@
 | [Two of Hearts](https://open.spotify.com/track/2dURQIBrw3XcHyVZlfdpC1) | [Stacey Q](https://open.spotify.com/artist/3q8tRS0hCMVCylgKAoA0ya) | [Better Than Heaven](https://open.spotify.com/album/71st36nPTXAgWnEaNg9AZa) | 3:59 | 2024-05-10 | 2024-06-08 |
 | [Ven Conmigo \(Solamente Tú\)](https://open.spotify.com/track/2PYJnUWEPPP8C6b79UiwIl) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 3:10 | 2021-09-03 |  |
 | [Vogue](https://open.spotify.com/track/7j5TIXPi0cCbSSqItmbyZy) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Immaculate Collection](https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h) | 5:17 | 2021-09-03 | 2024-04-19 |
-| [Vuela Más Alto](https://open.spotify.com/track/4K6tQMWgJevwsDGhr36xpu) | [Onda Vaselina](https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw) | [Vuela Mas Alto](https://open.spotify.com/album/1ImHb6xo5x4KxEtuuiWHWK) | 4:32 | 2024-06-07 |  |
+| [Vuela Más Alto](https://open.spotify.com/track/4K6tQMWgJevwsDGhr36xpu) | [Onda Vaselina](https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw) | [Vuela Mas Alto](https://open.spotify.com/album/1ImHb6xo5x4KxEtuuiWHWK) | 4:32 | 2024-06-07 | 2024-06-15 |
 | [Vuela, Vuela \(Voyage, Voyage\)](https://open.spotify.com/track/59DBFv5MOW0M4KSF78rHw7) | [Magneto](https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p) | [10 De Colección](https://open.spotify.com/album/3ZZH4ff62sXOXkBUPLMjBk) | 4:24 | 2021-09-03 |  |
 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 | 2021-09-03 |  |
 | [Wepa](https://open.spotify.com/track/4qan0qNCFAEu6A2hcwPETn) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Miss Little Havana \(Latin America/Iberia Version\)](https://open.spotify.com/album/42GRzHxjVcoWr5jdNRkS9u) | 4:02 | 2021-09-03 | 2024-06-12 |

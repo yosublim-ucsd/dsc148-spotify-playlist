@@ -1,15 +1,15 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Muyeez",
-  "num_followers": 56427,
+  "num_followers": 56489,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmJNvAAAAADy1UCVuBnfAvWjUHziy1mj",
+  "snapshot_id": "ZmvedAAAAAChY8SxB31R9gx7YyMEQk+w",
   "tracks": [
     {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
       "album": {
         "name": "Instagram",
         "url": "https://open.spotify.com/album/0GyUBLiSgnRIMnV0H6bP8S"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/1Ss5QjczHsdYkvNsiBmoqS"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
       "album": {
         "name": "Egwu",
         "url": "https://open.spotify.com/album/4JlWlQoaf9gg1Ve5rzoSQi"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/1IMRi5UVOV77PsAgdWDvzh"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
       "album": {
         "name": "O.U.A.T",
         "url": "https://open.spotify.com/album/1qrmA17zsvEfAbB5Ba5l0b"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/6W87j9MnByZwdNPmXPlAjn"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
       "album": {
         "name": "Therapist",
         "url": "https://open.spotify.com/album/2dzJKHfizbfzvq6be269eK"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/0EHJsg3FsmyksqKx3TOWoI"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
       "album": {
         "name": "NAHAMciaga",
         "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/7FB5261Iv3MRbSz13HYP5l"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
       "album": {
         "name": "Muyeez (Deluxe)",
         "url": "https://open.spotify.com/album/3z5ScTzthtKvfOzxc2XBE0"
@@ -117,23 +117,31 @@
       "url": "https://open.spotify.com/track/4Xik88j0lef96PqxYFR66a"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
       "album": {
-        "name": "Shakespopi",
-        "url": "https://open.spotify.com/album/3DLGqqI7dfoKvk9EIpwpm4"
+        "name": "Alright (feat. MohBad & HADURAH)",
+        "url": "https://open.spotify.com/album/0MLdJT6OYklHVHbX6hLhDi"
       },
       "artists": [
         {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+          "name": "Niphkeys",
+          "url": "https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV"
+        },
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        },
+        {
+          "name": "HADURAH",
+          "url": "https://open.spotify.com/artist/4w8lSsts1Kw64Rzp1ItXco"
         }
       ],
-      "duration_ms": 160375,
-      "name": "ASAP",
-      "url": "https://open.spotify.com/track/6FZlSfQrD9aoB4SSnoAzWk"
+      "duration_ms": 174358,
+      "name": "Alright (feat. MohBad & HADURAH)",
+      "url": "https://open.spotify.com/track/7CxmcGj4sXX9ZhjGUgOb3f"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
       "album": {
         "name": "Stubborn (with Asake)",
         "url": "https://open.spotify.com/album/6VgHyE8Qnldqdf6Ab8JR0b"
@@ -153,7 +161,119 @@
       "url": "https://open.spotify.com/track/4cpxSBb2TRx8WJhQM1Jdpk"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
+      "album": {
+        "name": "Shakespopi",
+        "url": "https://open.spotify.com/album/3DLGqqI7dfoKvk9EIpwpm4"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 160375,
+      "name": "ASAP",
+      "url": "https://open.spotify.com/track/6FZlSfQrD9aoB4SSnoAzWk"
+    },
+    {
+      "added_at": "2024-06-14 06:08:51",
+      "album": {
+        "name": "Wara Wara Szn",
+        "url": "https://open.spotify.com/album/6ToVRccANedcEkdMa1eQQs"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 180890,
+      "name": "Cash",
+      "url": "https://open.spotify.com/track/55gLtEmwF6yOkMUbSIXKUG"
+    },
+    {
+      "added_at": "2024-06-14 06:08:51",
+      "album": {
+        "name": "Trabaye",
+        "url": "https://open.spotify.com/album/4EEt8kNnWUVTqXgnUF7Kw5"
+      },
+      "artists": [
+        {
+          "name": "VASA",
+          "url": "https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q"
+        },
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Trabaye",
+      "url": "https://open.spotify.com/track/08e0A9k3bZHg1ayABWHt6o"
+    },
+    {
+      "added_at": "2024-06-14 06:08:51",
+      "album": {
+        "name": "Te Button",
+        "url": "https://open.spotify.com/album/4mL10441YojtOmgogaMlzG"
+      },
+      "artists": [
+        {
+          "name": "Oladips",
+          "url": "https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won"
+        },
+        {
+          "name": "Rexxie",
+          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
+        }
+      ],
+      "duration_ms": 176898,
+      "name": "Te Button",
+      "url": "https://open.spotify.com/track/0z2knWPwd0ersERolm2o77"
+    },
+    {
+      "added_at": "2024-06-14 06:08:51",
+      "album": {
+        "name": "AMERICA",
+        "url": "https://open.spotify.com/album/4CA1o2nf4CPm4yyyNkfp95"
+      },
+      "artists": [
+        {
+          "name": "Qdot",
+          "url": "https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "AMERICA",
+      "url": "https://open.spotify.com/track/5CFz4grlqiE2TtrfFWKY2R"
+    },
+    {
+      "added_at": "2024-06-14 06:08:51",
+      "album": {
+        "name": "WhatsApp",
+        "url": "https://open.spotify.com/album/1XzyxAC4BrXyqVmGNxM7vU"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        },
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        }
+      ],
+      "duration_ms": 134237,
+      "name": "WhatsApp",
+      "url": "https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m"
+    },
+    {
+      "added_at": "2024-06-14 06:08:51",
       "album": {
         "name": "Tony Montana",
         "url": "https://open.spotify.com/album/2AInHQaDznimTKHL0m3M0h"
@@ -177,27 +297,23 @@
       "url": "https://open.spotify.com/track/3mARtPEP8hi1LzMctEwVN4"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
       "album": {
-        "name": "Wara Wara Szn",
-        "url": "https://open.spotify.com/album/6ToVRccANedcEkdMa1eQQs"
+        "name": "Under The Canopy",
+        "url": "https://open.spotify.com/album/7c6oqqAN19VuIGt7KsKf9t"
       },
       "artists": [
         {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
         }
       ],
-      "duration_ms": 180890,
-      "name": "Cash",
-      "url": "https://open.spotify.com/track/55gLtEmwF6yOkMUbSIXKUG"
+      "duration_ms": 171428,
+      "name": "Under The Canopy",
+      "url": "https://open.spotify.com/track/1QCtwTegsRR8XtgaMpoQLk"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
       "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
@@ -217,63 +333,7 @@
       "url": "https://open.spotify.com/track/5DttTktPy0RMZPz4UNfFm4"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
-      "album": {
-        "name": "Te Button",
-        "url": "https://open.spotify.com/album/4mL10441YojtOmgogaMlzG"
-      },
-      "artists": [
-        {
-          "name": "Oladips",
-          "url": "https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won"
-        },
-        {
-          "name": "Rexxie",
-          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
-        }
-      ],
-      "duration_ms": 176898,
-      "name": "Te Button",
-      "url": "https://open.spotify.com/track/0z2knWPwd0ersERolm2o77"
-    },
-    {
-      "added_at": "2024-06-07 00:01:00",
-      "album": {
-        "name": "AMERICA",
-        "url": "https://open.spotify.com/album/4CA1o2nf4CPm4yyyNkfp95"
-      },
-      "artists": [
-        {
-          "name": "Qdot",
-          "url": "https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "AMERICA",
-      "url": "https://open.spotify.com/track/5CFz4grlqiE2TtrfFWKY2R"
-    },
-    {
-      "added_at": "2024-06-07 00:01:00",
-      "album": {
-        "name": "WhatsApp",
-        "url": "https://open.spotify.com/album/1XzyxAC4BrXyqVmGNxM7vU"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        },
-        {
-          "name": "Bloody Civilian",
-          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
-        }
-      ],
-      "duration_ms": 134237,
-      "name": "WhatsApp",
-      "url": "https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m"
-    },
-    {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
       "album": {
         "name": "Only Me",
         "url": "https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns"
@@ -289,23 +349,7 @@
       "url": "https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
-      "album": {
-        "name": "Under The Canopy",
-        "url": "https://open.spotify.com/album/7c6oqqAN19VuIGt7KsKf9t"
-      },
-      "artists": [
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Under The Canopy",
-      "url": "https://open.spotify.com/track/1QCtwTegsRR8XtgaMpoQLk"
-    },
-    {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
       "album": {
         "name": "Bust Down",
         "url": "https://open.spotify.com/album/5WBwh4xPACk0mfi5J5vw1G"
@@ -325,7 +369,7 @@
       "url": "https://open.spotify.com/track/3eWpfsYgd5OL2QdwcVcF6Q"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
       "album": {
         "name": "I Told Them...",
         "url": "https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH"
@@ -345,7 +389,7 @@
       "url": "https://open.spotify.com/track/0UdBaetogSoEIO7fSD1334"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
       "album": {
         "name": "Big Big Things (feat. Kizz Daniel & Seyi Vibez)",
         "url": "https://open.spotify.com/album/2CcOmbLxQFIsm5aQu7VSuJ"
@@ -369,7 +413,7 @@
       "url": "https://open.spotify.com/track/7MaM9JVq1UXAGZQ4JFNXMg"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
       "album": {
         "name": "Loner",
         "url": "https://open.spotify.com/album/3HYQbRL63e1oc98lBQu7gH"
@@ -385,7 +429,7 @@
       "url": "https://open.spotify.com/track/4VG9WzSYRAsHIVgkZXRX1C"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
       "album": {
         "name": "Danger Zee",
         "url": "https://open.spotify.com/album/2TX0HjxPDTYVrHjbmKuD2k"
@@ -401,7 +445,23 @@
       "url": "https://open.spotify.com/track/6bBQmflDHD8a35PeZjw44J"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
+      "album": {
+        "name": "NAHAMciaga",
+        "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Cana",
+      "url": "https://open.spotify.com/track/652eb66Jp9rLJ3erEwaCio"
+    },
+    {
+      "added_at": "2024-06-14 06:08:51",
       "album": {
         "name": "GWAGWALADA",
         "url": "https://open.spotify.com/album/0lgduYlejtLccLxJo5Q1fc"
@@ -425,7 +485,7 @@
       "url": "https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
       "album": {
         "name": "Vibration",
         "url": "https://open.spotify.com/album/3UN7Hvdib6FUBXVOZHNYjh"
@@ -445,23 +505,7 @@
       "url": "https://open.spotify.com/track/3yEPVODnT2tXcc3NN6ymIN"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
-      "album": {
-        "name": "NAHAMciaga",
-        "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Cana",
-      "url": "https://open.spotify.com/track/652eb66Jp9rLJ3erEwaCio"
-    },
-    {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
       "album": {
         "name": "Sunny Ade",
         "url": "https://open.spotify.com/album/4wB2UR1gjqZpThP1Kt94ia"
@@ -477,7 +521,7 @@
       "url": "https://open.spotify.com/track/2JtrWZrpNkbSEzG5m9phAV"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
       "album": {
         "name": "Shutdown",
         "url": "https://open.spotify.com/album/5KfqTov6TpsIfY0wRrBNbC"
@@ -497,43 +541,7 @@
       "url": "https://open.spotify.com/track/3WBq1rpt6WVIQmGBBNAIBE"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
-      "album": {
-        "name": "Puff & Pass (Remix)",
-        "url": "https://open.spotify.com/album/6FFmkwtLjXZm8jTKUsxp5p"
-      },
-      "artists": [
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        },
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 161515,
-      "name": "Puff & Pass (Remix)",
-      "url": "https://open.spotify.com/track/7CIhImlbs2RtT58oKnvROT"
-    },
-    {
-      "added_at": "2024-06-07 00:01:00",
-      "album": {
-        "name": "Id.Me",
-        "url": "https://open.spotify.com/album/6fTG5tvXWsc7dv22HALIPt"
-      },
-      "artists": [
-        {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
-        }
-      ],
-      "duration_ms": 169273,
-      "name": "Id.Me",
-      "url": "https://open.spotify.com/track/4rPaeHBlWY8MIruSNe5yZl"
-    },
-    {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
       "album": {
         "name": "Ogo",
         "url": "https://open.spotify.com/album/2QCJ5G7FLUpo1nGvjWYC22"
@@ -553,7 +561,7 @@
       "url": "https://open.spotify.com/track/1zM2WWrMOt5Jt2jR39cBDp"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
       "album": {
         "name": "My Way",
         "url": "https://open.spotify.com/album/5ew8bhyjYFzX6wgoMdEn4i"
@@ -569,7 +577,43 @@
       "url": "https://open.spotify.com/track/3yLREZjJFnYLAN4aOUqqP6"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
+      "album": {
+        "name": "Id.Me",
+        "url": "https://open.spotify.com/album/6fTG5tvXWsc7dv22HALIPt"
+      },
+      "artists": [
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        }
+      ],
+      "duration_ms": 169273,
+      "name": "Id.Me",
+      "url": "https://open.spotify.com/track/4rPaeHBlWY8MIruSNe5yZl"
+    },
+    {
+      "added_at": "2024-06-14 06:08:51",
+      "album": {
+        "name": "Puff & Pass (Remix)",
+        "url": "https://open.spotify.com/album/6FFmkwtLjXZm8jTKUsxp5p"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 161515,
+      "name": "Puff & Pass (Remix)",
+      "url": "https://open.spotify.com/track/7CIhImlbs2RtT58oKnvROT"
+    },
+    {
+      "added_at": "2024-06-14 06:08:51",
       "album": {
         "name": "Emeka Must Shine",
         "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
@@ -589,7 +633,23 @@
       "url": "https://open.spotify.com/track/7ydy7ryXw7XM5QtE3bNYaW"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
+      "album": {
+        "name": "NAHAMciaga",
+        "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/1jYIMLLTKnecfOgccQnaHb"
+    },
+    {
+      "added_at": "2024-06-14 06:08:51",
       "album": {
         "name": "R2 Sept 12",
         "url": "https://open.spotify.com/album/7pXz5d7pMiaG0Uj2AYLDpB"
@@ -613,7 +673,7 @@
       "url": "https://open.spotify.com/track/1TGNfm1HCICFHIKM1DMmuL"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
       "album": {
         "name": "Many Things",
         "url": "https://open.spotify.com/album/1yS7tbUsMdT1D1tcwGKNIe"
@@ -629,23 +689,7 @@
       "url": "https://open.spotify.com/track/7rIHP8C7oHYONnJpLjVnAc"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
-      "album": {
-        "name": "NAHAMciaga",
-        "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Today",
-      "url": "https://open.spotify.com/track/1jYIMLLTKnecfOgccQnaHb"
-    },
-    {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
       "album": {
         "name": "10 Bottles",
         "url": "https://open.spotify.com/album/0SBN2MPLg7VTsvs865mKAh"
@@ -661,7 +705,7 @@
       "url": "https://open.spotify.com/track/2OES8BEd3LwImek13bYb1p"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
       "album": {
         "name": "The Life I Chose",
         "url": "https://open.spotify.com/album/7swEKu1GceYFZl5ZMPtCDS"
@@ -677,7 +721,7 @@
       "url": "https://open.spotify.com/track/48kCxQOtSAeyB3YucB8Ccs"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
       "album": {
         "name": "Puff & Pass",
         "url": "https://open.spotify.com/album/2ktmJpxJYszyMXloEkbh8F"
@@ -693,7 +737,7 @@
       "url": "https://open.spotify.com/track/6WUdooO1NS5LZadjGNwY5U"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
       "album": {
         "name": "Ghetto Vibrations",
         "url": "https://open.spotify.com/album/0HA5iaDr9GyFPnzDEVs1ch"
@@ -709,27 +753,7 @@
       "url": "https://open.spotify.com/track/4jL2U9V8qa4aQH4IHQ6hTv"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
-      "album": {
-        "name": "R2 Sept 12",
-        "url": "https://open.spotify.com/album/7pXz5d7pMiaG0Uj2AYLDpB"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Bloody Civilian",
-          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
-        }
-      ],
-      "duration_ms": 162336,
-      "name": "1999",
-      "url": "https://open.spotify.com/track/6rebyxkCsKvngGShPbGKG8"
-    },
-    {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
       "album": {
         "name": "Jiggy Forever",
         "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
@@ -749,23 +773,27 @@
       "url": "https://open.spotify.com/track/1MT5w1g81k0RyiWnXjJjIq"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
       "album": {
-        "name": "HBP",
-        "url": "https://open.spotify.com/album/5SOS13paz0WPPdIf9CL0Y8"
+        "name": "R2 Sept 12",
+        "url": "https://open.spotify.com/album/7pXz5d7pMiaG0Uj2AYLDpB"
       },
       "artists": [
         {
-          "name": "Llona",
-          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
         }
       ],
-      "duration_ms": 167471,
-      "name": "HBP",
-      "url": "https://open.spotify.com/track/3xY9AUbeibAeVDyPkHm8Kj"
+      "duration_ms": 162336,
+      "name": "1999",
+      "url": "https://open.spotify.com/track/6rebyxkCsKvngGShPbGKG8"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
       "album": {
         "name": "Let There Be Light",
         "url": "https://open.spotify.com/album/6JwJpfpHsGoyENOJLHTk9b"
@@ -785,7 +813,23 @@
       "url": "https://open.spotify.com/track/7qcOfwTMGLkzOmC1sIFwfr"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
+      "album": {
+        "name": "HBP",
+        "url": "https://open.spotify.com/album/5SOS13paz0WPPdIf9CL0Y8"
+      },
+      "artists": [
+        {
+          "name": "Llona",
+          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
+        }
+      ],
+      "duration_ms": 167471,
+      "name": "HBP",
+      "url": "https://open.spotify.com/track/3xY9AUbeibAeVDyPkHm8Kj"
+    },
+    {
+      "added_at": "2024-06-14 06:08:51",
       "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst"
@@ -801,7 +845,7 @@
       "url": "https://open.spotify.com/track/6nK5Zt2RI6xqEaU8CgMojZ"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
       "album": {
         "name": "Unruly",
         "url": "https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M"
@@ -817,7 +861,7 @@
       "url": "https://open.spotify.com/track/6lrAyxpomr1dkHltiUqWSw"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
       "album": {
         "name": "Fakosi (Remix)",
         "url": "https://open.spotify.com/album/3YPNvgCesJrEaLZgZLXzdt"
@@ -841,7 +885,7 @@
       "url": "https://open.spotify.com/track/3yFntP1ZfDbHkNWWOCZt7O"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
       "album": {
         "name": "Terminator",
         "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
@@ -857,7 +901,7 @@
       "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
       "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
@@ -877,7 +921,7 @@
       "url": "https://open.spotify.com/track/5Z1vl9fO2iaqB7M6B6MLat"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
       "album": {
         "name": "Mamba (With Bella Shmurda & Seyi Vibez)",
         "url": "https://open.spotify.com/album/2imNyNmpOrJktWi5eQNLY1"
@@ -901,83 +945,7 @@
       "url": "https://open.spotify.com/track/2dyny0cqxTu0hEVLBUMyV2"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
-      "album": {
-        "name": "Cast",
-        "url": "https://open.spotify.com/album/18dCvrjuLcD3EvW1ovyifu"
-      },
-      "artists": [
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 129123,
-      "name": "Cast",
-      "url": "https://open.spotify.com/track/2egqPiWDKdLO34x2Csa3iU"
-    },
-    {
-      "added_at": "2024-06-07 00:01:00",
-      "album": {
-        "name": "HBP Remix",
-        "url": "https://open.spotify.com/album/22swHHoDtodIc5kImIImlt"
-      },
-      "artists": [
-        {
-          "name": "Llona",
-          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 176526,
-      "name": "HBP Remix",
-      "url": "https://open.spotify.com/track/5oxaJpMQCijHqwTduLq6Fr"
-    },
-    {
-      "added_at": "2024-06-07 00:01:00",
-      "album": {
-        "name": "NSV",
-        "url": "https://open.spotify.com/album/1gwsiUC5ZULw2kvzFOGYYB"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 188372,
-      "name": "NSV",
-      "url": "https://open.spotify.com/track/7sIUw9iU1eVB0qq3wFrwBb"
-    },
-    {
-      "added_at": "2024-06-07 00:01:00",
-      "album": {
-        "name": "DECLAN RICE",
-        "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "DECLAN RICE",
-      "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
-    },
-    {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
       "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst"
@@ -997,7 +965,67 @@
       "url": "https://open.spotify.com/track/5C6r3u5SjqyBcE4ex7WqrS"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
+      "album": {
+        "name": "Cast",
+        "url": "https://open.spotify.com/album/18dCvrjuLcD3EvW1ovyifu"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 129123,
+      "name": "Cast",
+      "url": "https://open.spotify.com/track/2egqPiWDKdLO34x2Csa3iU"
+    },
+    {
+      "added_at": "2024-06-14 06:08:51",
+      "album": {
+        "name": "HBP Remix",
+        "url": "https://open.spotify.com/album/22swHHoDtodIc5kImIImlt"
+      },
+      "artists": [
+        {
+          "name": "Llona",
+          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 176526,
+      "name": "HBP Remix",
+      "url": "https://open.spotify.com/track/5oxaJpMQCijHqwTduLq6Fr"
+    },
+    {
+      "added_at": "2024-06-14 06:08:51",
+      "album": {
+        "name": "NSV",
+        "url": "https://open.spotify.com/album/1gwsiUC5ZULw2kvzFOGYYB"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 188372,
+      "name": "NSV",
+      "url": "https://open.spotify.com/track/7sIUw9iU1eVB0qq3wFrwBb"
+    },
+    {
+      "added_at": "2024-06-14 06:08:51",
       "album": {
         "name": "Peace Be Unto You (PBUY)",
         "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
@@ -1013,7 +1041,23 @@
       "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
+      "album": {
+        "name": "DECLAN RICE",
+        "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "DECLAN RICE",
+      "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
+    },
+    {
+      "added_at": "2024-06-14 06:08:51",
       "album": {
         "name": "Wale (Remix) [feat. Simi]",
         "url": "https://open.spotify.com/album/4Gnum64pHtsMvBIqRUKzrP"
@@ -1033,7 +1077,7 @@
       "url": "https://open.spotify.com/track/0CetiWNK7oVzF5H0M2dGTS"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
       "album": {
         "name": "What Would You Do Without Me",
         "url": "https://open.spotify.com/album/3CsU2AsumbGOts16pjeevM"
@@ -1053,7 +1097,7 @@
       "url": "https://open.spotify.com/track/1VUUgMgnpxFLdFYcReuNE8"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
       "album": {
         "name": "Child's Play",
         "url": "https://open.spotify.com/album/06kfG0SpfO1jgulBUQBLkD"
@@ -1073,7 +1117,7 @@
       "url": "https://open.spotify.com/track/7nr3wqDwJkiSDbcbct67Um"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-06-14 06:08:51",
       "album": {
         "name": "Ask About Me",
         "url": "https://open.spotify.com/album/6u0gaySWdi8suKJ8WE91Z9"
@@ -1087,50 +1131,6 @@
       "duration_ms": 175820,
       "name": "Ask About Me",
       "url": "https://open.spotify.com/track/7E86nXdcmISA9vBH0Egx7O"
-    },
-    {
-      "added_at": "2024-06-07 00:01:00",
-      "album": {
-        "name": "New Religion",
-        "url": "https://open.spotify.com/album/6TVnbiHfSh4UX5fCJC4sG1"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 153684,
-      "name": "New Religion",
-      "url": "https://open.spotify.com/track/2KwnwVXtAlpSDdRVO9ccTJ"
-    },
-    {
-      "added_at": "2024-06-07 00:01:00",
-      "album": {
-        "name": "Cash App",
-        "url": "https://open.spotify.com/album/4sP46SuU8qdDzKOUA926qT"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Lincoln",
-          "url": "https://open.spotify.com/artist/3xm6dLNdCqqgkv9AkNZNQu"
-        }
-      ],
-      "duration_ms": 236068,
-      "name": "Cash App",
-      "url": "https://open.spotify.com/track/66OmUVUiuja0zp423wGqhr"
     }
   ],
   "unique_name": "Street Energy ",

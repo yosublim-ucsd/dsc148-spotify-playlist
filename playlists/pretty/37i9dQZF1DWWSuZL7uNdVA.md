@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSuZL7uNdVA.md) - [plain]
 
 > The Offspring au top des meilleurs morceaux rock du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,842 likes - 49 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,883 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,26 +36,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSuZL7uNdVA.md) - [plain]
 | 26 | [Goodnight Adeline](https://open.spotify.com/track/5oi7EJnwhDhqs4FJ2ewry7) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 2:56 |
 | 27 | [Power](https://open.spotify.com/track/55UAMzSFfLE3SvUksiRUGu) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Power](https://open.spotify.com/album/15ypOlXwgFQrF9KfhISXhn) | 2:22 |
 | 28 | [Mess It Up](https://open.spotify.com/track/02EsRF5vSmKw92XAIEw9xJ) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Mess It Up \(Purple Disco Machine Remix\)](https://open.spotify.com/album/0L6IypGWr61krz90boqPDD) | 4:03 |
-| 29 | [Le Détail](https://open.spotify.com/track/6xq0ORaot5bKXnefWzMIo6) | [The Odds](https://open.spotify.com/artist/1Tcb7Fen1mZVvGdGNnPJX0) | [Danse Animale](https://open.spotify.com/album/0hLoVhobG9NV1MLLiBiUxV) | 3:23 |
-| 30 | [SklogW II \(On n'a pas l'cul sorti des ronces\)](https://open.spotify.com/track/1HeIznyDz46oLHuSmy57sX) | [Matmatah](https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t) | [SklogW II \(On n'a pas l'cul sorti des ronces\)](https://open.spotify.com/album/6SHc5RUIva7X6KtRH9O4Qd) | 3:21 |
-| 31 | [Zebra](https://open.spotify.com/track/4IQo93gyRO7MjOtcRFXNKl) | [KO KO MO](https://open.spotify.com/artist/37njHbDvYnaoRWbRwVTdaZ) | [Zebra](https://open.spotify.com/album/7JZphv3s2oDlaW6bl7PCdo) | 2:29 |
-| 32 | [SPINE](https://open.spotify.com/track/6Stz1dIY7OD61gU7SdVR22) | [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ) | [SPINE](https://open.spotify.com/album/0Cid17L0G17hI9bmEuR5G2) | 3:00 |
-| 33 | [I Love It When It Rains](https://open.spotify.com/track/2iRpC6staR7gkZgitFa6rQ) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [I Love It When It Rains](https://open.spotify.com/album/2D8aGAzCrpTESFd4r1cJpm) | 3:18 |
-| 34 | [Giant's Despair](https://open.spotify.com/track/2cklyNPEa1SQ03OsC7bk9e) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Giant's Despair](https://open.spotify.com/album/39SxqEswZM29iCSaJ0jKpz) | 3:40 |
-| 35 | [The Butcher's Fantasy](https://open.spotify.com/track/2xAw4FgHs0lnmEpCXB8vWH) | [Down to the Wire](https://open.spotify.com/artist/2xP00Vrg8hwhdi121FCxbK) | [The Butcher's Fantasy](https://open.spotify.com/album/258BmnVI2s63E5IKM4iUUn) | 3:57 |
-| 36 | [American Spirit](https://open.spotify.com/track/6Z2xgzZlxrVVTmyjofoq0c) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 5: the beginning](https://open.spotify.com/album/1VznxDXEvTGtos0ElI7CRn) | 2:58 |
-| 37 | [Swing At Me](https://open.spotify.com/track/3doZB64Wdm6yRRtvAVGdNf) | [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H) | [Swing At Me](https://open.spotify.com/album/5ph5mqEdwDTyEaoTkFknoN) | 3:25 |
-| 38 | [Organized Chaos](https://open.spotify.com/track/6rLSe4oGty53YAGDvkTS9k) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Organized Chaos](https://open.spotify.com/album/1Df27BVXsW6YBBblbdNBNa) | 2:55 |
-| 39 | [Rosie](https://open.spotify.com/track/7oq7adFTDnz7IYMjOCCaEI) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Rosie](https://open.spotify.com/album/6vthyj2qxtKwzuTSZZWJWD) | 2:58 |
-| 40 | [Sorry](https://open.spotify.com/track/2AfZo6fIu4mKDf76NTXwBG) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Sorry](https://open.spotify.com/album/1HSx2N8mKzA9hqeRB9FVzX) | 4:18 |
-| 41 | [Beguiled](https://open.spotify.com/track/5irjzz4WhkbJUKk0YFbIQW) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [ATUM](https://open.spotify.com/album/4Sd50ORhLkyoddNHyLnr49) | 3:58 |
-| 42 | [Next Semester](https://open.spotify.com/track/4PCD9jZRM2VswisaTBhc25) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Next Semester](https://open.spotify.com/album/7aeIwIg63Qyt1bzjsPufzl) | 3:54 |
-| 43 | [MEDZ](https://open.spotify.com/track/7sfp82nSU4R52zXcJpv0DQ) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [MEDZ](https://open.spotify.com/album/6Xwq41gv27p5DPAqnoZmxQ) | 2:45 |
-| 44 | [Sungazer](https://open.spotify.com/track/4d0iW7Fl3u9BNdsXZdFAgb) | [Dear Seattle](https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S) | [Sungazer](https://open.spotify.com/album/33m5p7mMPChIrI8GPwcpoA) | 3:00 |
-| 45 | [Wreckage](https://open.spotify.com/track/083LM23MmqS8HTTYZQrYxG) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 5:00 |
-| 46 | [It's Gonna Be Alright](https://open.spotify.com/track/1adglBbuQQaCbUORdvYjdZ) | [Edgär](https://open.spotify.com/artist/2O7MXaIBC2VqFGOF1ygZsO) | [It's Gonna Be Alright](https://open.spotify.com/album/4hgCmtgWCyXZHDggCKetE4) | 3:05 |
-| 47 | [Salt](https://open.spotify.com/track/0opJEZyslw0pzdfZisGiaL) | [Oversize](https://open.spotify.com/artist/38vNZvHEjUU9XlzlV43H9T), [Heavenward](https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk) | [Salt](https://open.spotify.com/album/1NjAWYIQvHY8uicYdQN3an) | 3:30 |
-| 48 | [ELF](https://open.spotify.com/track/10hB96qzB5jNxuOZyH5tlX) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Black / Red](https://open.spotify.com/album/5OEuYee2wiiEIUZ9SWwi50) | 3:58 |
-| 49 | [Sliding Doors](https://open.spotify.com/track/0XlDSx6DftEGmjOS2TQ8wL) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Sliding Doors](https://open.spotify.com/album/5t77HLDFCo7yztX2rfj0Sr) | 3:26 |
+| 29 | [Nowhere To Run](https://open.spotify.com/track/44R1ZALac20AijYr5TtPgr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Can We Please Have Fun](https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ) | 3:40 |
+| 30 | [Le Détail](https://open.spotify.com/track/6xq0ORaot5bKXnefWzMIo6) | [The Odds](https://open.spotify.com/artist/1Tcb7Fen1mZVvGdGNnPJX0) | [Danse Animale](https://open.spotify.com/album/0hLoVhobG9NV1MLLiBiUxV) | 3:23 |
+| 31 | [SklogW II \(On n'a pas l'cul sorti des ronces\)](https://open.spotify.com/track/1HeIznyDz46oLHuSmy57sX) | [Matmatah](https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t) | [SklogW II \(On n'a pas l'cul sorti des ronces\)](https://open.spotify.com/album/6SHc5RUIva7X6KtRH9O4Qd) | 3:21 |
+| 32 | [Zebra](https://open.spotify.com/track/4IQo93gyRO7MjOtcRFXNKl) | [KO KO MO](https://open.spotify.com/artist/37njHbDvYnaoRWbRwVTdaZ) | [Zebra](https://open.spotify.com/album/7JZphv3s2oDlaW6bl7PCdo) | 2:29 |
+| 33 | [SPINE](https://open.spotify.com/track/6Stz1dIY7OD61gU7SdVR22) | [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ) | [SPINE](https://open.spotify.com/album/0Cid17L0G17hI9bmEuR5G2) | 3:00 |
+| 34 | [I Love It When It Rains](https://open.spotify.com/track/2iRpC6staR7gkZgitFa6rQ) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [I Love It When It Rains](https://open.spotify.com/album/2D8aGAzCrpTESFd4r1cJpm) | 3:18 |
+| 35 | [Giant's Despair](https://open.spotify.com/track/2cklyNPEa1SQ03OsC7bk9e) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Giant's Despair](https://open.spotify.com/album/39SxqEswZM29iCSaJ0jKpz) | 3:40 |
+| 36 | [The Butcher's Fantasy](https://open.spotify.com/track/2xAw4FgHs0lnmEpCXB8vWH) | [Down to the Wire](https://open.spotify.com/artist/2xP00Vrg8hwhdi121FCxbK) | [The Butcher's Fantasy](https://open.spotify.com/album/258BmnVI2s63E5IKM4iUUn) | 3:57 |
+| 37 | [American Spirit](https://open.spotify.com/track/6Z2xgzZlxrVVTmyjofoq0c) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 5: the beginning](https://open.spotify.com/album/1VznxDXEvTGtos0ElI7CRn) | 2:58 |
+| 38 | [Swing At Me](https://open.spotify.com/track/3doZB64Wdm6yRRtvAVGdNf) | [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H) | [Swing At Me](https://open.spotify.com/album/5ph5mqEdwDTyEaoTkFknoN) | 3:25 |
+| 39 | [Organized Chaos](https://open.spotify.com/track/6rLSe4oGty53YAGDvkTS9k) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Organized Chaos](https://open.spotify.com/album/1Df27BVXsW6YBBblbdNBNa) | 2:55 |
+| 40 | [Rosie](https://open.spotify.com/track/7oq7adFTDnz7IYMjOCCaEI) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Rosie](https://open.spotify.com/album/6vthyj2qxtKwzuTSZZWJWD) | 2:58 |
+| 41 | [Sorry](https://open.spotify.com/track/2AfZo6fIu4mKDf76NTXwBG) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Sorry](https://open.spotify.com/album/1HSx2N8mKzA9hqeRB9FVzX) | 4:18 |
+| 42 | [Beguiled](https://open.spotify.com/track/5irjzz4WhkbJUKk0YFbIQW) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [ATUM](https://open.spotify.com/album/4Sd50ORhLkyoddNHyLnr49) | 3:58 |
+| 43 | [Next Semester](https://open.spotify.com/track/4PCD9jZRM2VswisaTBhc25) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Next Semester](https://open.spotify.com/album/7aeIwIg63Qyt1bzjsPufzl) | 3:54 |
+| 44 | [MEDZ](https://open.spotify.com/track/7sfp82nSU4R52zXcJpv0DQ) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [MEDZ](https://open.spotify.com/album/6Xwq41gv27p5DPAqnoZmxQ) | 2:45 |
+| 45 | [Sungazer](https://open.spotify.com/track/4d0iW7Fl3u9BNdsXZdFAgb) | [Dear Seattle](https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S) | [Sungazer](https://open.spotify.com/album/33m5p7mMPChIrI8GPwcpoA) | 3:00 |
+| 46 | [Wreckage](https://open.spotify.com/track/083LM23MmqS8HTTYZQrYxG) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 5:00 |
+| 47 | [It's Gonna Be Alright](https://open.spotify.com/track/1adglBbuQQaCbUORdvYjdZ) | [Edgär](https://open.spotify.com/artist/2O7MXaIBC2VqFGOF1ygZsO) | [It's Gonna Be Alright](https://open.spotify.com/album/4hgCmtgWCyXZHDggCKetE4) | 3:05 |
+| 48 | [Salt](https://open.spotify.com/track/0opJEZyslw0pzdfZisGiaL) | [Oversize](https://open.spotify.com/artist/38vNZvHEjUU9XlzlV43H9T), [Heavenward](https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk) | [Salt](https://open.spotify.com/album/1NjAWYIQvHY8uicYdQN3an) | 3:30 |
+| 49 | [ELF](https://open.spotify.com/track/10hB96qzB5jNxuOZyH5tlX) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Black / Red](https://open.spotify.com/album/5OEuYee2wiiEIUZ9SWwi50) | 3:58 |
+| 50 | [Sliding Doors](https://open.spotify.com/track/0XlDSx6DftEGmjOS2TQ8wL) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Sliding Doors](https://open.spotify.com/album/5t77HLDFCo7yztX2rfj0Sr) | 3:26 |
 
-Snapshot ID: `Zmtr4AAAAACVtL2cZAegIh4Kq6X3FFRR`
+Snapshot ID: `ZmvxHQAAAAAcVgaewcyudHE5uAaQI2/W`

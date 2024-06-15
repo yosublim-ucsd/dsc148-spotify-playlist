@@ -2,9 +2,9 @@
 
 ### [Roots Rising](https://open.spotify.com/playlist/37i9dQZF1DWYV7OOaGhoH0)
 
-> The best in folk & acoustic today featuring music from Bonny Light Horseman
+> The best in folk & acoustic today featuring music from Mustafa
 
-570 songs - 1 day 11 hr 20 min
+571 songs - 1 day 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -427,7 +427,7 @@
 | [Show Me the Way](https://open.spotify.com/track/71uPeJAESy4ZYB7bN207SU) | [Calder Allen](https://open.spotify.com/artist/1XlVbGlQaBoESaJ43y2sCD) | [The Game](https://open.spotify.com/album/4tyKptv4UIL5W2KFORmUhv) | 4:05 | 2022-06-17 | 2023-05-13 |
 | [Sick of This Feeling](https://open.spotify.com/track/4uofAamZ0yx9op14TjmQVp) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [A River Running to Your Heart](https://open.spotify.com/album/2n4dZnB3Iz7wWPdDQO3auX) | 3:33 | 2023-04-21 | 2024-03-23 |
 | [Sierra Vista](https://open.spotify.com/track/14P8LhjbdysoOL12T5gAOe) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Sierra Vista](https://open.spotify.com/album/5hmhuNvmtuWJXfGeT6Qbcr) | 2:35 | 2024-03-22 |  |
-| [Signal Sender](https://open.spotify.com/track/1XHTJ2n4ajw9dDzuPGY4Rm) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Signal Sender](https://open.spotify.com/album/4ILDW93NPJE8kEJSrUXuIy) | 3:20 | 2023-08-04 |  |
+| [Signal Sender](https://open.spotify.com/track/1XHTJ2n4ajw9dDzuPGY4Rm) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Signal Sender](https://open.spotify.com/album/4ILDW93NPJE8kEJSrUXuIy) | 3:20 | 2023-08-04 | 2024-06-15 |
 | [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:12 | 2023-01-13 | 2023-07-22 |
 | [Sing Me a Song](https://open.spotify.com/track/0LmMZe0g80Z60zoTqR3cai) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6), [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Sing Me a Song](https://open.spotify.com/album/5qccHZQbxaKW0rlUz8N37y) | 2:39 | 2022-07-22 | 2022-12-03 |
 | [Sing Me A Song](https://open.spotify.com/track/3TYkPCb5o4AAn3djdvF4mw) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6), [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Sing Me A Song](https://open.spotify.com/album/1n3ABnjNSFZF5eX6ocFZks) | 2:39 | 2022-04-22 | 2022-07-29 |
@@ -450,6 +450,7 @@
 | [Stay For Something](https://open.spotify.com/track/5tEREzW79U8O3FIkrGyRNW) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Stay For Something](https://open.spotify.com/album/7FKbJ9vC8xVqDoD9OAPTBS) | 3:36 | 2023-09-08 | 2023-09-30 |
 | [Stayed Up Late](https://open.spotify.com/track/4VOAlrwgejmgWgOVmK5I4m) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Stayed Up Late](https://open.spotify.com/album/4YQtPmv4ld6ip7TIc4iK5L) | 4:10 | 2022-07-15 | 2023-10-21 |
 | [Stealing Dark from the Night Sky](https://open.spotify.com/track/58qBPB08tTvygwLhFy3qUr) | [Arlo McKinley](https://open.spotify.com/artist/4bnCmwKU89Rt1zWnRIdSUa) | [Stealing Dark from the Night Sky](https://open.spotify.com/album/59no0qoZyYklUPxRvWf8sM) | 4:47 | 2022-04-15 | 2023-02-25 |
+| [Step Into Your Power](https://open.spotify.com/track/2oPAI4WeahurexOE60325q) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Step Into Your Power](https://open.spotify.com/album/5cyefZyfqbaGOBTylIjLHJ) | 3:28 | 2024-06-14 |  |
 | [Stick Around](https://open.spotify.com/track/4LxQxGzZj0niHD8bbZCEYn) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Country](https://open.spotify.com/album/6DUyohk95eun9LArJtHyF7) | 4:32 | 2024-04-05 | 2024-04-13 |
 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 | 2022-10-28 | 2023-01-14 |
 | [Still Trying](https://open.spotify.com/track/3SCDpe3QWlLSg5oJjqN25Q) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [Falling Faster Than You Can Run](https://open.spotify.com/album/54CwOv6vaOzsNOhy3uFPZa) | 4:09 | 2022-01-14 | 2022-01-22 |

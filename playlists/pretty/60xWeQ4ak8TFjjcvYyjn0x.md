@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/60xWeQ4ak8TFjjcvYyjn0x.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bandit](https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Bandit](https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC) | 2:27 |
+| 1 | [BANDIT](https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Bandit](https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC) | 2:27 |
 | 2 | [ONE CALL](https://open.spotify.com/track/6et5HwX6nTYddg7hDGAxug) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [ONE CALL](https://open.spotify.com/album/32Gv2KwfKu35P5r77bmxzi) | 2:01 |
 | 3 | [Glizock & Wizop \(feat\. Key Glock\)](https://open.spotify.com/track/0zbGWzQkLY5wn4xyiLYEi0) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glizock & Wizop \(feat\. Key Glock\)](https://open.spotify.com/album/4ocf6wJAV6NJCBn8nTkeaj) | 3:12 |
 | 4 | [Fight or Flight \(Playtime's Over\)](https://open.spotify.com/track/0gwPIeDyqsM2nXVQOJeBv2) | [Da Crook](https://open.spotify.com/artist/6KdGtfP7YDHgFdpdo0lc9g) | [Fight or Flight \(Playtime's Over\)](https://open.spotify.com/album/2Tzsn9PvVjWnSB7583IXut) | 2:29 |

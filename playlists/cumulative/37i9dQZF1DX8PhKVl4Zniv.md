@@ -4,7 +4,7 @@
 
 > So you think you got pocket? Cover: Nate Smith
 
-76 songs - 6 hr 22 min
+77 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Bounce, Pts\. I + II](https://open.spotify.com/track/1iibuYzHLKlk8SSZic8SGG) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [KINFOLK: Postcards from Everywhere](https://open.spotify.com/album/5ngHFQ0hYDlYirIE5l0if9) | 5:33 | 2022-06-01 | 2024-04-19 |
 | [Bounce: pts I + II](https://open.spotify.com/track/2Xt6ANxPp2Ds41E3CWYiSV) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [KINFOLK: Postcards from Everywhere](https://open.spotify.com/album/5ZZ16e0qQpQRMWeHc6uAnl) | 5:33 | 2022-06-01 |  |
 | [Bruise Cruise](https://open.spotify.com/track/0Z27rTTijg45gBZn56hBSa) | [Scary Goldings](https://open.spotify.com/artist/7qpDEiYbQJt05vCyAbg3ru), [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Scary Goldings IV](https://open.spotify.com/album/6nR9rJfgSR5U6ffU4vhv75) | 2:13 | 2022-06-01 |  |
+| [Burning](https://open.spotify.com/track/7ru68qYGq300h0aC0icBOA) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) | [Burning](https://open.spotify.com/album/7tCy6wL8s3hXKXAG6whYG6) | 3:19 | 2024-06-14 |  |
 | [Can't Stop](https://open.spotify.com/track/5MZeACNzwzidxLfglyCspe) | [The RH Factor](https://open.spotify.com/artist/3m7Ej9zfNto7JOsjKsYhEr) | [Distractions](https://open.spotify.com/album/1tTj6jyy6LbOsio9saFf9L) | 2:48 | 2022-06-01 |  |
 | [Canine](https://open.spotify.com/track/7hTEStQeSnn0TxlaRsJLzv) | [Tribal Tech](https://open.spotify.com/artist/4OmMxTxYbR4ZDSvw4H0RAz) | [Face First](https://open.spotify.com/album/2IEMGFWKMDb7AgPz6pIATf) | 6:23 | 2022-06-01 |  |
 | [Caught in the Act](https://open.spotify.com/track/7c5PEjLfonXenDiYW6BfLy) | [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj), [Dennis Chambers](https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn), [Bob Franceschini](https://open.spotify.com/artist/60wazyFfOCbXXrJCC0I3O4) | [TRYPNOTYX](https://open.spotify.com/album/5YiTpi7O0xx1yXTNXCTHFb) | 4:26 | 2022-06-01 |  |

@@ -2126,7 +2126,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 150506,
       "name": "Mar\u00eda",
       "url": "https://open.spotify.com/track/4YNEuxbsAJV2jcQ9JVgg8T"
@@ -2325,7 +2325,7 @@
     },
     {
       "album": {
-        "name": "Read My Lips",
+        "name": "Read My Lips (Deluxe Version)",
         "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
       },
       "artists": [
@@ -3024,6 +3024,24 @@
       "duration_ms": 213000,
       "name": "Quiero",
       "url": "https://open.spotify.com/track/1xklTrnCEhu2E4I3xLaGLf"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 M\u00e1s Da",
+        "url": "https://open.spotify.com/album/3J29o0RlG0m7yQ08yXC2gr"
+      },
+      "artists": [
+        {
+          "name": "Silver Rose",
+          "url": "https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213648,
+      "name": "Qu\u00e9 M\u00e1s Da",
+      "url": "https://open.spotify.com/track/7GYl5XD9z5bTzy3N1eMhSW"
     },
     {
       "album": {

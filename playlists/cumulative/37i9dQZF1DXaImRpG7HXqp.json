@@ -1414,7 +1414,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 176586,
       "name": "Blank Stare Happy",
       "url": "https://open.spotify.com/track/2Vqg7SshnMUZJskFoxcYSE"
@@ -1450,7 +1450,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 196685,
       "name": "Blissfully",
       "url": "https://open.spotify.com/track/7htKUpIce6DxgjJhOd4xoX"
@@ -2412,7 +2412,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 165523,
       "name": "Coming home to someone",
       "url": "https://open.spotify.com/track/33jEJgoSbewTinFfmhsBLZ"
@@ -3312,7 +3312,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 134704,
       "name": "Du Soleil \u00c0 La Mer",
       "url": "https://open.spotify.com/track/3fGsSYCfdzbHQ85ZVpofdl"
@@ -4097,6 +4097,24 @@
     },
     {
       "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/2SCPE6W9kz3Om5tlbCpY9i"
+      },
+      "artists": [
+        {
+          "name": "Las Perlas Negras",
+          "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/60q1MEc0pXjOhCV1pHoPpf"
+    },
+    {
+      "album": {
         "name": "For Louise",
         "url": "https://open.spotify.com/album/13EEH5mQbYcwlCS4jM74UV"
       },
@@ -4774,7 +4792,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 140412,
       "name": "Heaven and Heart",
       "url": "https://open.spotify.com/track/2UEAKcbYQuvWjdB5FejH0D"
@@ -8584,7 +8602,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 181174,
       "name": "Past & Present",
       "url": "https://open.spotify.com/track/43dy9gJMpgJmuhCS9fXreR"
@@ -11428,7 +11446,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 263011,
       "name": "The Golden Hour",
       "url": "https://open.spotify.com/track/7gz1YABH7YyQdfizV66Te3"
@@ -12224,6 +12242,24 @@
       "duration_ms": 184022,
       "name": "Verlorenes Gl\u00fcck",
       "url": "https://open.spotify.com/track/4cAT9a3DWt0smBFsmC7WEt"
+    },
+    {
+      "album": {
+        "name": "Versailles",
+        "url": "https://open.spotify.com/album/7C1KpngaLKA2F3lktqtmGc"
+      },
+      "artists": [
+        {
+          "name": "Andreas Horschel",
+          "url": "https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160515,
+      "name": "Versailles",
+      "url": "https://open.spotify.com/track/6zJhV0LU1znSjUjt5e30Rw"
     },
     {
       "album": {

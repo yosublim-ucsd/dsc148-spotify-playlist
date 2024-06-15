@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177 likes - 355 songs - 16 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 177 likes - 356 songs - 16 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,8 +136,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 126 | [Simplesmente Dois Loucos \- Ao Vivo](https://open.spotify.com/track/4N08WEg7BdFvIYBcych3dP) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose Ao Vivo](https://open.spotify.com/album/52rIL56BICJZfbDlDZBCci) | 3:13 |
 | 127 | [Coração Apertadin \- Ao Vivo](https://open.spotify.com/track/1dRhBZm3Lr5Lvn0BL35l7M) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Encontrin 2 \(Ao Vivo\)](https://open.spotify.com/album/4oZHsyeGM0RGSJlfGZWeo9) | 3:04 |
 | 128 | [Porra Loka \- Ao Vivo](https://open.spotify.com/track/0W20DJYFBaL6UlttxM2U6e) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [GG Astral \(Ao Vivo\)](https://open.spotify.com/album/1ldJ0FBMF8yZpbRqlno8kL) | 2:40 |
-| 129 | [Chame O Juiz \- Ao Vivo](https://open.spotify.com/track/3nKF1j3PqbOYChqwhFkLvF) | [Fernanda Costa](https://open.spotify.com/artist/7F1wmhduwv6fIEJBJb9SSm) | [Tempo Contado \(Ao Vivo\)](https://open.spotify.com/album/6SqZNGdhuGOaJzw6rZAMwD) | 2:45 |
-| 130 | [Garrafa na Mão](https://open.spotify.com/track/7LeMxn6sPXtqqRAehgBOxg) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Até o Último Gole](https://open.spotify.com/album/3XdTvRSiOvB6xSNkmHvJf2) | 2:28 |
+| 129 | [Garrafa na Mão](https://open.spotify.com/track/7LeMxn6sPXtqqRAehgBOxg) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Até o Último Gole](https://open.spotify.com/album/3XdTvRSiOvB6xSNkmHvJf2) | 2:28 |
+| 130 | [Chame O Juiz \- Ao Vivo](https://open.spotify.com/track/3nKF1j3PqbOYChqwhFkLvF) | [Fernanda Costa](https://open.spotify.com/artist/7F1wmhduwv6fIEJBJb9SSm) | [Tempo Contado \(Ao Vivo\)](https://open.spotify.com/album/6SqZNGdhuGOaJzw6rZAMwD) | 2:45 |
 | 131 | [Relógio](https://open.spotify.com/track/45khULP8E3Ow2tXITNKuSP) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Hipnose](https://open.spotify.com/album/3eB3h2dbEKoFpaRNp480B2) | 2:53 |
 | 132 | [Senta Caladinha](https://open.spotify.com/track/2sCrt4NUph8SbrgzuLtAXb) | [Nilson Neto](https://open.spotify.com/artist/2D9AauR2GiC99uhbtBJJeN), [Mc Jacaré](https://open.spotify.com/artist/61k7eCDTe0AQxZA642MILv) | [Senta Caladinha](https://open.spotify.com/album/4gvMGzT4GT5waUM1JpzioS) | 2:48 |
 | 133 | [Fica Com Ela \- Ao Vivo](https://open.spotify.com/track/5XSIruKcw2nMmv5AcSmlFq) | [Maria Cecília & Rodolfo](https://open.spotify.com/artist/1oOTUMbydEi6ogss5Klsom), [Thaeme & Thiago](https://open.spotify.com/artist/7ABjmCErFBTzoGMVoQc2Sh) | [De Portas Abertas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/6fojLfpTCrcK7gLsgd7k63) | 3:23 |
@@ -268,8 +268,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 258 | [Falta de Mim](https://open.spotify.com/track/05Opgu5ie17D5gAFObnBWP) | [Kaelzinho Ferraz](https://open.spotify.com/artist/3JahlD0vjH94rAAwcSI7ie) | [Só Pancada 2.0](https://open.spotify.com/album/0YuO6UmFTUXi1bfH9Hpi3N) | 2:28 |
 | 259 | [Taca a Rabona \(Remix\)](https://open.spotify.com/track/2v90SY7eV1I7oArFwWiMOK) | [Dreysson Rodrigues](https://open.spotify.com/artist/5rtzvT3hqgWbiXrvywjQFR), [DJ Ari SL](https://open.spotify.com/artist/3la3vRfIuDMsydpPfUBryR), [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp) | [Taca a Rabona \(Remix\)](https://open.spotify.com/album/0J4HcCQmeC7kMYFbfCAzZQ) | 2:26 |
 | 260 | [Recompensa](https://open.spotify.com/track/7FtyTz9YLFgfJjN4gYWGjB) | [Acácio](https://open.spotify.com/artist/1WIBi4F6CHYW5BSSY0Yn92) | [O Ferinha da Bahia \(Ao Vivo no Embu, SP\)](https://open.spotify.com/album/2UVyNkfIS2F8WTC7N5iB0K) | 3:15 |
-| 261 | [Se Não For Pra Ser Assim](https://open.spotify.com/track/5GzZvyymoxG5NCwR5qXzyP) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [10/10](https://open.spotify.com/album/1vtCgnZBLk7Vio272EhOr4) | 3:07 |
-| 262 | [Ele Não Precisa Saber](https://open.spotify.com/track/3a3wUIb5Ny1PnqmPVkH1Y8) | [Rob Ribeiro](https://open.spotify.com/artist/03tWSQRz3g7woM33uuelUX), [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw) | [Ele Não Precisa Saber](https://open.spotify.com/album/5Pwe9V4rly6HsNLknPSDeG) | 2:34 |
+| 261 | [Ele Não Precisa Saber](https://open.spotify.com/track/3a3wUIb5Ny1PnqmPVkH1Y8) | [Rob Ribeiro](https://open.spotify.com/artist/03tWSQRz3g7woM33uuelUX), [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw) | [Ele Não Precisa Saber](https://open.spotify.com/album/5Pwe9V4rly6HsNLknPSDeG) | 2:34 |
+| 262 | [Se Não For Pra Ser Assim](https://open.spotify.com/track/5GzZvyymoxG5NCwR5qXzyP) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [10/10](https://open.spotify.com/album/1vtCgnZBLk7Vio272EhOr4) | 3:07 |
 | 263 | [Coração de cabaré \(Participação especial de Marcos & Belutti\) \- Ao vivo](https://open.spotify.com/track/44BzDjvtJMLoyzfGCCSkTM) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H), [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT) | [Traços \(Ao vivo\)](https://open.spotify.com/album/5YmcNWq3bfoOH4n39nM9Ua) | 3:04 |
 | 264 | [20 Despedidas \- Ao Vivo Em São Paulo / 2019](https://open.spotify.com/track/5ysdbQHTlEtlElmr5Kc4iy) | [Júlia & Rafaela](https://open.spotify.com/artist/7JJBuq3tgc4y2NO0TqAm02) | [Despertar \- Ensaio \(Ao Vivo Em São Paulo / 2019\)](https://open.spotify.com/album/76oY7Q3fIgkT9wFCXAyH1y) | 2:59 |
 | 265 | [Me Vingar Mozão](https://open.spotify.com/track/1kNLQwVY6iwVeTJGrWN576) | [Ruanzinho](https://open.spotify.com/artist/3F6YQLCVjGIS7MHQnFOd61), [Dany Bala](https://open.spotify.com/artist/4cQ6t2SYfuOGQmyeXZQSkg) | [Me Vingar Mozão](https://open.spotify.com/album/2BcSsDXguEJxUaI7N1f7aS) | 2:37 |
@@ -362,6 +362,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 352 | [Erro Consciente](https://open.spotify.com/track/69t8CfIP2pLEQeLNTvhABF) | [Fabrício Rodrigues](https://open.spotify.com/artist/0ionm2jgpodXYcKXeJaSfI) | [Erro Consciente](https://open.spotify.com/album/1ttOux7y2bIHDuAXeLoWFS) | 2:32 |
 | 353 | [A Mala](https://open.spotify.com/track/63c83YDpAv9lNMki7WxpvD) | [Banda Os3](https://open.spotify.com/artist/11h78bXFcmu3cQrNsRSulG) | [A Mala](https://open.spotify.com/album/4g6F3WuVRHQVHQSKaDxVmK) | 2:44 |
 | 354 | [Ciúme Doido](https://open.spotify.com/track/02ci6a7onTK8CT6NEn6XoY) | [Caúzzo](https://open.spotify.com/artist/7ITxrki6AXPCK5mnUSTs1O) | [Ciúme Doido](https://open.spotify.com/album/3fA6Nv5mzfzGc9hcESbkh6) | 2:57 |
-| 355 | [Me Perdoa](https://open.spotify.com/track/35Q9lkIZ41LgBvhw9YcZhV) | [Henzo & Vinicius](https://open.spotify.com/artist/1ccw4Eimn9DDkATmxZTXfj) | [Ele Te Ama](https://open.spotify.com/album/3Fm72AxQOKmxOOKos5iB6u) | 2:37 |
+| 355 | [Pra Mim Já Deu](https://open.spotify.com/track/5pqxxqrimhw4MvWt2VpF5N) | [Marcos Junior](https://open.spotify.com/artist/21qtIXMQloy90K1297vwAx) | [Terceiro Disco](https://open.spotify.com/album/0gL5IspFhmEyN44gjTvHfs) | 2:43 |
+| 356 | [Me Perdoa](https://open.spotify.com/track/35Q9lkIZ41LgBvhw9YcZhV) | [Henzo & Vinicius](https://open.spotify.com/artist/1ccw4Eimn9DDkATmxZTXfj) | [Ele Te Ama](https://open.spotify.com/album/3Fm72AxQOKmxOOKos5iB6u) | 2:37 |
 
-Snapshot ID: `AbT+tAAAAACYhALCYWX8rtDvRLy23sZ4`
+Snapshot ID: `AbUEVAAAAAAwl/kKQzfOzHicP8TZvpUN`

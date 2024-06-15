@@ -541,6 +541,24 @@
     },
     {
       "album": {
+        "name": "Amor y Odio",
+        "url": "https://open.spotify.com/album/2hB0IHbLyW8tSmLs6GwGA6"
+      },
+      "artists": [
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179562,
+      "name": "Amor y Odio",
+      "url": "https://open.spotify.com/track/5qjIYISISFwiLKw8kmHM60"
+    },
+    {
+      "album": {
         "name": "Anaranjado",
         "url": "https://open.spotify.com/album/0zaTpRYJxC8jAtzwUstNhx"
       },
@@ -974,6 +992,28 @@
       "duration_ms": 168631,
       "name": "BEB\u00c9",
       "url": "https://open.spotify.com/track/6sGnHZ87j6S76DkY36pYvh"
+    },
+    {
+      "album": {
+        "name": "Qui\u00e9n es Dei V?",
+        "url": "https://open.spotify.com/album/2i6InsyHZPR6NBFniDivF5"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179392,
+      "name": "Bellac@ (with Ryan Castro)",
+      "url": "https://open.spotify.com/track/1wgTrb2jsGerbdAB4uQIym"
     },
     {
       "album": {
@@ -1496,7 +1536,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-08",
+      "date_removed": null,
       "duration_ms": 139376,
       "name": "CARNET",
       "url": "https://open.spotify.com/track/1GKEH7oWPx8xDlDrggaEnJ"
@@ -1720,7 +1760,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 220330,
       "name": "CLAP!",
       "url": "https://open.spotify.com/track/4zuctcQIrpnsUi8YZ3z0a5"
@@ -6756,7 +6796,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 180071,
       "name": "PARCHAR",
       "url": "https://open.spotify.com/track/6MEXJ0jnVn0WIDbU3bfghC"
@@ -8438,7 +8478,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 118206,
       "name": "Sex Tape",
       "url": "https://open.spotify.com/track/7Iku20a8bDT1bMs2JOnaku"
@@ -9422,7 +9462,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 197157,
       "name": "TOMA",
       "url": "https://open.spotify.com/track/4EdHTVBsgld3GU8YdaUglf"
@@ -9546,7 +9586,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-08",
+      "date_removed": null,
       "duration_ms": 222857,
       "name": "Traductor",
       "url": "https://open.spotify.com/track/77l75UICfUZK5k0G7WRGqg"
@@ -10090,7 +10130,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 161830,
       "name": "Verano Bellako",
       "url": "https://open.spotify.com/track/3m7x1yzyYNBqM2ZNCxmeHg"
@@ -10430,6 +10470,32 @@
       "duration_ms": 174027,
       "name": "Yo Perreo Sola - Remix",
       "url": "https://open.spotify.com/track/2cpteAYHcd4cjSxAeCkA52"
+    },
+    {
+      "album": {
+        "name": "YO QUIERO UN MALO",
+        "url": "https://open.spotify.com/album/0dcOCcjiBrDYlZR5z5P9Kg"
+      },
+      "artists": [
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147778,
+      "name": "YO QUIERO UN MALO",
+      "url": "https://open.spotify.com/track/0zvylABneEAiQDsqnF5BYh"
     },
     {
       "album": {

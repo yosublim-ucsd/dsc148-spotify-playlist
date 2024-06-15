@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 
 > This is Wizkid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,486 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,562 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 | 49 | [One Love \- Bob Marley: One Love \- Music Inspired By The Film](https://open.spotify.com/track/03gFXOX3TuRERFlYmHDqIX) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [One Love \(Bob Marley: One Love \- Music Inspired By The Film\)](https://open.spotify.com/album/6XN6OMDwUH5O8E04Zhlcv2) | 3:04 |
 | 50 | [The Matter](https://open.spotify.com/track/0OklQIKrM64KzTD7jGqfYG) | [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [The Matter](https://open.spotify.com/album/0yB62AWwScWJq5WhaiWFOR) | 3:18 |
 
-Snapshot ID: `ZmjlAAAAAABbiNHboLMK37+RcwF0hTVm`
+Snapshot ID: `Zmo2gAAAAABkkWpngYzx/LPgq9W/MBlz`

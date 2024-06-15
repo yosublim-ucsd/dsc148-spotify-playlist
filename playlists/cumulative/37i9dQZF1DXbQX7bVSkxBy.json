@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-07",
-  "description": "Raise a voice and testify the goodness of God.  Cover:  <a href=https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX?si=SwbM2mXVT2WiJ3-L3INptQ>Theresa Phondo</a>",
+  "description": "Raise a voice and testify the goodness of God.  Cover:  <a href=https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5?si=5CauwnTERYi6GqA2Gw-zFA>K3ndrick</a>",
   "name": "Testify",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 217297,
       "name": "A New Thing",
       "url": "https://open.spotify.com/track/1lzFtxdNGEUf3mWeqb6aBi"
+    },
+    {
+      "album": {
+        "name": "Accolades",
+        "url": "https://open.spotify.com/album/2TST6huMqbrXt3N2GaCIIm"
+      },
+      "artists": [
+        {
+          "name": "K3ndrick",
+          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158646,
+      "name": "Accolades",
+      "url": "https://open.spotify.com/track/5EX25veDDRIaA0szBnf4YP"
     },
     {
       "album": {
@@ -2212,7 +2230,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 197800,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/3FqpxUbn5Glawznnl9caTu"

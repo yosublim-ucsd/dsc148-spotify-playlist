@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > MC Paulin da Capital, Mc Piedro, Dj GM, DJ WN, MC Ryan SP, Mc Daniel e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,187 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,305 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 49 | [CHECK OUT](https://open.spotify.com/track/3ez90zOWaFaPBSONOrdKvc) | [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [MAGIC SHOW](https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW) | 3:22 |
 | 50 | [Fuga No Radar](https://open.spotify.com/track/1eK83OcKzky6k5WODgKe9E) | [MC Leozinho ZS](https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT) | [Fuga No Radar](https://open.spotify.com/album/2IAqtFNQpGeIv7NQfAm5bP) | 5:48 |
 
-Snapshot ID: `ZmMw8QAAAAD/L9Xilm6YZmxX89UFpgfU`
+Snapshot ID: `ZmuybAAAAABu2T6XqWTPodCY5nUQnxBi`

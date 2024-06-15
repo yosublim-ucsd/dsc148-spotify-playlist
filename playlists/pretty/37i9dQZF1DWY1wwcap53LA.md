@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 
 ### [Country Frequency](https://open.spotify.com/playlist/37i9dQZF1DWY1wwcap53LA)
 
-> Country music making waves\. Cover: Reyna Roberts, Tanner Adell, Brittney Spencer and Tiera Kennedy
+> Country music making waves\. Cover: Mickey Guyton
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,968 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,020 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 |
-| 2 | [BLACKBIIRD](https://open.spotify.com/track/7eEr7lgWYudwEKEaWCPiPI) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8), [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3), [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1), [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 2:11 |
-| 3 | [Whiskey Blues](https://open.spotify.com/track/0mVYqxsm3ReFqAuxG9Orrk) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Whiskey Blues](https://open.spotify.com/album/1IVFS4seiBjdVOKd2Fyu2Y) | 2:13 |
-| 4 | [Bury Me In This Bar](https://open.spotify.com/track/5yOZMG6WpXxrsiJldKI5EJ) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Bury Me In This Bar](https://open.spotify.com/album/3RsL1OzH1QCe2sEco77786) | 3:06 |
-| 5 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:53 |
-| 6 | [Scary Love](https://open.spotify.com/track/1Q2npOPcXnQA8sYKV0fLy2) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Scary Love](https://open.spotify.com/album/3F9p267m68RpVbRhksOlhN) | 3:00 |
+| 1 | [Scary Love](https://open.spotify.com/track/1Q2npOPcXnQA8sYKV0fLy2) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Scary Love](https://open.spotify.com/album/3F9p267m68RpVbRhksOlhN) | 3:00 |
+| 2 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 |
+| 3 | [BLACKBIIRD](https://open.spotify.com/track/7eEr7lgWYudwEKEaWCPiPI) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8), [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3), [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1), [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 2:11 |
+| 4 | [Whiskey Blues](https://open.spotify.com/track/0mVYqxsm3ReFqAuxG9Orrk) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Whiskey Blues](https://open.spotify.com/album/1IVFS4seiBjdVOKd2Fyu2Y) | 2:13 |
+| 5 | [Bury Me In This Bar](https://open.spotify.com/track/5yOZMG6WpXxrsiJldKI5EJ) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Bury Me In This Bar](https://open.spotify.com/album/3RsL1OzH1QCe2sEco77786) | 3:06 |
+| 6 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:53 |
 | 7 | [Raised Right](https://open.spotify.com/track/2TPhxHTLZA7Rncf2NZFQho) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [Raised Right](https://open.spotify.com/album/46DaRD6UeqBpfhlULp0Zdy) | 3:11 |
 | 8 | [Bigger Than The Song](https://open.spotify.com/track/5v3r5BBXflOj5vedGJb1v8) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Bigger Than The Song](https://open.spotify.com/album/7i0OwcTKu2NSs6CNnuP653) | 3:09 |
 | 9 | [Something To Dance To](https://open.spotify.com/track/2pDM2RByQYY4zQLT0FU5MT) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Something To Dance To](https://open.spotify.com/album/2o9aZsNGXbBNJvtdfW0eXt) | 2:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 | 99 | [Magnolia \(Acoustic\)](https://open.spotify.com/track/3x5jkS931VvNRg4tLIqzvL) | [Austin McNeill](https://open.spotify.com/artist/7mYDpUarg1iQgonYRRwpMR) | [Carolina](https://open.spotify.com/album/5PiWlfUUUYB8gMqAEZbrRC) | 2:56 |
 | 100 | [Gonna Be Alright](https://open.spotify.com/track/3Eo9aTE1gnvShpP21Vb7tu) | [Cowboy Troy](https://open.spotify.com/artist/3Rd3kr9QoBdHGjD1Hk0tkj) | [Gonna Be Alright](https://open.spotify.com/album/6jlXxGbWeMOMbSEU9TJ3K9) | 2:56 |
 
-Snapshot ID: `ZismwAAAAADmjhz4f1QhrSU1y8TGwF/z`
+Snapshot ID: `ZmyfPgAAAAChZzBwuzTGFxY9lwNjsZhD`

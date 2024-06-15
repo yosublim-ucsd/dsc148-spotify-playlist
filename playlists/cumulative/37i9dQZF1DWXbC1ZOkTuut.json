@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-05-20",
-  "description": "Descubre los nuevos \u00e1lbumes de M\u00fasica Mexicana. Hit shuffle for a mixed listening experience. Cover: Marca MP",
+  "description": "Descubre los nuevos \u00e1lbumes de M\u00fasica Mexicana. Hit shuffle for a mixed listening experience. Cover: Mario Bautista",
   "name": "New M\u00fasica Mexicana Albums",
   "tracks": [
+    {
+      "album": {
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/3X5IYOoKCpVmADRzZWbUIV"
+      },
+      "artists": [
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142303,
+      "name": "15 De Septiembre",
+      "url": "https://open.spotify.com/track/3FarOC0L1uaC4emSmpRLoX"
+    },
     {
       "album": {
         "name": "ESQUINAS",
@@ -1460,6 +1478,24 @@
       "duration_ms": 199183,
       "name": "Chente",
       "url": "https://open.spotify.com/track/3XY9Ye8KhcXZJJ9zgOl95I"
+    },
+    {
+      "album": {
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/3X5IYOoKCpVmADRzZWbUIV"
+      },
+      "artists": [
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178481,
+      "name": "Chernobyl",
+      "url": "https://open.spotify.com/track/6zX9RUhy51JBg3yvqBwaJY"
     },
     {
       "album": {
@@ -3664,6 +3700,24 @@
       "duration_ms": 193280,
       "name": "Hice (En Vivo)",
       "url": "https://open.spotify.com/track/4DfpqWSzsEyDWG3OHpZVXa"
+    },
+    {
+      "album": {
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/3X5IYOoKCpVmADRzZWbUIV"
+      },
+      "artists": [
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143400,
+      "name": "Hilito Rojo",
+      "url": "https://open.spotify.com/track/1vnBJSE0DRxYB5izG8jRFc"
     },
     {
       "album": {
@@ -8209,6 +8263,24 @@
     },
     {
       "album": {
+        "name": "DESDE MI HABITACI\u00d3N",
+        "url": "https://open.spotify.com/album/3ZxjhNBeDioj81Ft175XPE"
+      },
+      "artists": [
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197988,
+      "name": "SU PRINCE",
+      "url": "https://open.spotify.com/track/7diicPsESM0SYhXAPSKKoj"
+    },
+    {
+      "album": {
         "name": "Hecho En M\u00e9xico\u2026M\u00e1gico",
         "url": "https://open.spotify.com/album/4umhJQSX5KHfnoSpqgjbLv"
       },
@@ -8343,6 +8415,24 @@
     },
     {
       "album": {
+        "name": "DESDE MI HABITACI\u00d3N",
+        "url": "https://open.spotify.com/album/3ZxjhNBeDioj81Ft175XPE"
+      },
+      "artists": [
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160374,
+      "name": "TE FUISTE!",
+      "url": "https://open.spotify.com/track/5F4sE1hdreHlycUwWmn7H4"
+    },
+    {
+      "album": {
         "name": "Seguimos Dejando Marca (En Vivo)",
         "url": "https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k"
       },
@@ -8416,6 +8506,28 @@
       "duration_ms": 195933,
       "name": "Te Vas",
       "url": "https://open.spotify.com/track/59D6TpQ9v93I7ff3OEFU2M"
+    },
+    {
+      "album": {
+        "name": "DESDE MI HABITACI\u00d3N",
+        "url": "https://open.spotify.com/album/3ZxjhNBeDioj81Ft175XPE"
+      },
+      "artists": [
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        },
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225537,
+      "name": "TE XTRA\u00d1O (With Eslabon Armado)",
+      "url": "https://open.spotify.com/track/4ySUM7Cv2sEnNhsmBF0vJd"
     },
     {
       "album": {

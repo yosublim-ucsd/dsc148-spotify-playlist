@@ -981,6 +981,24 @@
     },
     {
       "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/2V2NyOg2eK8ecHkLeD26Zb"
+      },
+      "artists": [
+        {
+          "name": "Yemanjo",
+          "url": "https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313521,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/3iRXajsv5AFqDE47zpqlIN"
+    },
+    {
+      "album": {
         "name": "Psychic",
         "url": "https://open.spotify.com/album/2Q7l5NR9ZY8gfkkTtBnlBt"
       },

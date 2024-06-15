@@ -647,6 +647,24 @@
     },
     {
       "album": {
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173913,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
+    },
+    {
+      "album": {
         "name": "AMAZING",
         "url": "https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe"
       },
@@ -1986,7 +2004,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 145742,
       "name": "BOYS",
       "url": "https://open.spotify.com/track/1U0UUDLyBN8ENq3gjNJq6S"
@@ -3120,6 +3138,28 @@
       "duration_ms": 273556,
       "name": "Cool When I'm with You",
       "url": "https://open.spotify.com/track/2GwzFVMIgdeTseR9S4ZcLL"
+    },
+    {
+      "album": {
+        "name": "Cape Town to Cairo",
+        "url": "https://open.spotify.com/album/3xrdk0MImcnbt9NEc7pSnK"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169124,
+      "name": "Count On Me",
+      "url": "https://open.spotify.com/track/1NFEXNMg8AZ0jGSux4CJdd"
     },
     {
       "album": {
@@ -15208,7 +15248,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 175666,
       "name": "Toro",
       "url": "https://open.spotify.com/track/62QValXcWLH5RSnZRFeKKl"

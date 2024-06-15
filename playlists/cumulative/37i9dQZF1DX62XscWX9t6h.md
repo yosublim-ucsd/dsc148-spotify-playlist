@@ -4,7 +4,7 @@
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-186 songs - 13 hr 14 min
+187 songs - 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,8 +53,9 @@
 | [Eclipse](https://open.spotify.com/track/52Ntzc7mUEEH5ilCz7MYpF) | [XIXA](https://open.spotify.com/artist/00TFWY9PfTDEgsptXLrl1e) | [Eclipse](https://open.spotify.com/album/27SOPYyLOq2RWnzPx6pW4d) | 3:26 | 2021-10-20 |  |
 | [El Alma y el Cuerpo](https://open.spotify.com/track/39NuHXNW3SBW7ME4A1N0y8) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Elegancia Tropical](https://open.spotify.com/album/0tR3iN3sdyxAHcP66cB68F) | 5:01 | 2022-02-18 | 2024-04-19 |
 | [El Alma y el Cuerpo](https://open.spotify.com/track/5a8xzrQxVNRrQbgkzYCkTb) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Elegancia Tropical](https://open.spotify.com/album/3hmKL47fvTuB0pDQP45aY4) | 5:01 | 2022-02-18 |  |
-| [El Diablo Y El Ñau Ñau \(feat\. Chico Mann\)](https://open.spotify.com/track/6mYsi0PrM4EdDBV5cfsNyp) | [Ocote Soul Sounds](https://open.spotify.com/artist/4khzV3qBWcUKdc50QOv8Tc), [Chico Mann](https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB) | [Coconut Rock](https://open.spotify.com/album/7gW7B0IdXwmNaMBAZ0XryK) | 3:57 | 2021-10-20 |  |
+| [El Diablo Y El Ñau Ñau \(feat\. Chico Mann\)](https://open.spotify.com/track/6mYsi0PrM4EdDBV5cfsNyp) | [Ocote Soul Sounds](https://open.spotify.com/artist/4khzV3qBWcUKdc50QOv8Tc), [Chico Mann](https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB) | [Coconut Rock](https://open.spotify.com/album/7gW7B0IdXwmNaMBAZ0XryK) | 3:57 | 2021-10-20 | 2024-06-15 |
 | [Eléctrico](https://open.spotify.com/track/2Y6qcH0XUxAohCNdefCa0J) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Conquistador](https://open.spotify.com/album/2gkJw21X6L6nGdej4VAc6O) | 3:37 | 2021-10-20 |  |
+| [Ew'aa](https://open.spotify.com/track/24ACpMa5jRoCWqLRn0iyE0) | [Tashkezar](https://open.spotify.com/artist/4cDDtvDYT5DwsQkmKpyvIC) | [Ew'aa](https://open.spotify.com/album/6mJ0Oja5FuhCIDwEovGNNQ) | 4:58 | 2024-06-14 |  |
 | [Fantôme](https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Hippie Hourrah!](https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J) | 5:06 | 2021-10-20 |  |
 | [Feira De Mangaio](https://open.spotify.com/track/33iTVkckI2X5ip1qX4dFsh) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ) | [Feira De Mangaio](https://open.spotify.com/album/55ubWcyqgWWOAI1GuowYAH) | 2:36 | 2024-02-10 |  |
 | [Fire By The River](https://open.spotify.com/track/6Nnq45sf7tv9Xjlbga83Lj) | [Harumi](https://open.spotify.com/artist/4ultVGMWqvHvwRHnogpymO) | [Harumi](https://open.spotify.com/album/6OTWrVumdh9JL7ReKtlPMi) | 3:34 | 2021-10-20 |  |

@@ -4,7 +4,7 @@
 
 > Aquele som que é pura brisa\. 🍃 Foto: Lourena, MC Hariel
 
-387 songs - 20 hr 11 min
+388 songs - 20 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Bom Dia](https://open.spotify.com/track/6XHg6HXseoI9JkBT8syZoG) | [Chimarruts](https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW) | [Bom Dia](https://open.spotify.com/album/77YRQEWttYewhkSOXCHAZJ) | 3:33 | 2022-11-19 | 2022-12-10 |
 | [Bonita](https://open.spotify.com/track/0571RzyEWagSsz0pA45VxJ) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH) | [Me Espera](https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof) | 3:14 | 2023-03-10 |  |
 | [Boom](https://open.spotify.com/track/42A4y8cnvDMh18i22aXQH7) | [Rafael Mike](https://open.spotify.com/artist/6V1iaF6ZHSygJlLPk7grXr), [Priscila Tossan](https://open.spotify.com/artist/4EZLWNKsB2l3Lm6vqJDFoA) | [Boom](https://open.spotify.com/album/3GvbxHizeLdikCDuDJ29LB) | 2:11 | 2024-05-31 |  |
+| [Bora pra praia](https://open.spotify.com/track/4Mdr8VdHfOUb3LCeBPmq2m) | [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih), [Yan Cloud](https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP), [BORABAEZ](https://open.spotify.com/artist/3hJUVrmL4KCQKvr9EEilVj) | [Bora pra praia](https://open.spotify.com/album/3p8V4ex0o4XreYjiCYtWPa) | 3:48 | 2024-06-14 |  |
 | [Brigas](https://open.spotify.com/track/5kv8oFqP33vlEbfrtiTb8M) | [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [MC Suh](https://open.spotify.com/artist/2pAmbNN8mzxnBgYwZ4hSSo), [MC Joãozinho VT](https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT), [Mc Nathan ZK](https://open.spotify.com/artist/3H6EeCzAFfNTCayLXuZWdE), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10) | [Brigas](https://open.spotify.com/album/4lXWSwBPFdisfRDLlwcOXH) | 4:52 | 2022-05-23 | 2022-12-10 |
 | [Búzios](https://open.spotify.com/track/1CSakNQI6TxCLkCFYjRiTQ) | [Bufalô](https://open.spotify.com/artist/0wFcHlIKNWSBmSH8nBrpT0), [IVYO](https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa) | [Búzios](https://open.spotify.com/album/7urP2fYm3ZN5xl1OljLWff) | 2:36 | 2023-12-01 | 2024-01-20 |
 | [cABeçA De VEnTo](https://open.spotify.com/track/7xehHTNvc8fQEbNDfoE16P) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [cABeçA De VEnTo](https://open.spotify.com/album/2giZ7WnTkyie1TJJOoTEPX) | 2:45 | 2023-03-10 | 2023-03-25 |
@@ -207,7 +208,7 @@
 | [Melhor Que Ontem](https://open.spotify.com/track/0TpDDNhAvukWiJL9SjEe9O) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Melhor Que Ontem](https://open.spotify.com/album/6FMd26Sy35kd9boORkrOnT) | 3:00 | 2022-05-23 | 2023-11-11 |
 | [Mete o louco](https://open.spotify.com/track/7Ep1kMp6Wxw7xwYMm0xKZ5) | [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih), [Lino Krizz](https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg), [Dow Raiz](https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu) | [Mete o louco](https://open.spotify.com/album/72ftJErLaJz9hZmQ23LlD7) | 3:52 | 2024-04-26 | 2024-06-01 |
 | [Meu Desejo](https://open.spotify.com/track/4UqKWGj0prhKqRrLd4NsL2) | [Motta](https://open.spotify.com/artist/34IQpbynCd4V50MWXIpGHy), [Oframe](https://open.spotify.com/artist/1Ypveoe8x8UyHG9r8d5uDS) | [Meu Desejo](https://open.spotify.com/album/5GBRWMDuTTkVvBjvezwgAj) | 2:17 | 2022-12-02 | 2023-01-29 |
-| [Meu Destino é o Litoral](https://open.spotify.com/track/6nvvhe2emrtQsoCmO1dxNg) | [MENSANA](https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL) | [Meu Destino é o Litoral](https://open.spotify.com/album/6dmHQknnJsKsaoZ9Ow44Mh) | 3:10 | 2024-05-31 |  |
+| [Meu Destino é o Litoral](https://open.spotify.com/track/6nvvhe2emrtQsoCmO1dxNg) | [MENSANA](https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL) | [Meu Destino é o Litoral](https://open.spotify.com/album/6dmHQknnJsKsaoZ9Ow44Mh) | 3:10 | 2024-05-31 | 2024-06-15 |
 | [Meu Fechamento](https://open.spotify.com/track/1Qh2N24WF6Vm0hJsWixrGr) | [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN) | [Meu Fechamento](https://open.spotify.com/album/3vsrbA8dwUeoeo8QQs2xR8) | 3:28 | 2023-09-08 | 2023-09-30 |
 | [Meus Olhos](https://open.spotify.com/track/4YOEPUn818DxI8vzNhylVd) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Meus Olhos](https://open.spotify.com/album/2jrNUWGcmS38KMbCtuqunw) | 3:08 | 2024-01-12 |  |
 | [Minha Arte](https://open.spotify.com/track/2INiIszCU5fQt8SFR3SBTQ) | [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Minha Arte](https://open.spotify.com/album/7iccFIRTCqegLpHgfXPMVt) | 3:43 | 2023-11-24 |  |

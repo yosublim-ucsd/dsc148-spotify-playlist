@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > bgl é seu estilo ser original vocês já sabem\. Foto: Vulgo FK, Oruam, Tz da Coronel
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,995 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,999 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

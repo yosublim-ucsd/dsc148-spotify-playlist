@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 
 > Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles\. Cover: Ezra Koenig
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,979 likes - 125 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,999 likes - 125 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 | 112 | [Gold Rush \- Live at Spotify Studios NYC](https://open.spotify.com/track/4WjTem6hVGUN0sQ83bilib) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Spotify Singles](https://open.spotify.com/album/5WoKNylm4lCVrLV5NuC6sI) | 4:08 |
 | 113 | [Blanket Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4bMHWD1vEnq76Ro208gZHd) | [Hundred Waters](https://open.spotify.com/artist/108ugtkRFQzP9nGgNiyERO) | [Spotify Singles](https://open.spotify.com/album/7BhKeRmiTdFrmc8hvGk5lb) | 5:03 |
 | 114 | [Welcome to Your Life \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2cN7H31DES22HCjYitKggF) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Spotify Singles](https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl) | 3:45 |
-| 115 | [Born Again \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0BGdxW79sZA6nmuws983bE) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [Spotify Singles](https://open.spotify.com/album/5yPmcKtzc9A0RcKpCFqQtZ) | 3:51 |
-| 116 | [Rockstar \- Recorded At Abbey Road Studios, London](https://open.spotify.com/track/5D6Z7Iof3v5QRbaW2LquoN) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Spotify Singles](https://open.spotify.com/album/2bOO36ZGSYDuXj27cdnxKE) | 3:57 |
+| 115 | [Rockstar \- Recorded At Abbey Road Studios, London](https://open.spotify.com/track/5D6Z7Iof3v5QRbaW2LquoN) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Spotify Singles](https://open.spotify.com/album/2bOO36ZGSYDuXj27cdnxKE) | 3:57 |
+| 116 | [Born Again \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0BGdxW79sZA6nmuws983bE) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [Spotify Singles](https://open.spotify.com/album/5yPmcKtzc9A0RcKpCFqQtZ) | 3:51 |
 | 117 | [Genghis Khan \- Jim Eno Sessions](https://open.spotify.com/track/5mFvYNykzBjdXRbPxKnvwA) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Spotify Sessions](https://open.spotify.com/album/7mqNAKmDhYPSA1NrvIG0wv) | 3:19 |
 | 118 | [tonite \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/5hSTBY6xBkx60qPVseOKFX) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Spotify Singles](https://open.spotify.com/album/75bOa6MJhVgz1uzcZBUNhf) | 5:44 |
 | 119 | [Mourning Sound \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4qPb53XN2ilYsBf5OIHdtV) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Spotify Singles](https://open.spotify.com/album/68X345rpDHj4iY6E7pcT6d) | 5:16 |

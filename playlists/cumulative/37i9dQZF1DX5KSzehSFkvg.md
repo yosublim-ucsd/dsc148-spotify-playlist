@@ -4,7 +4,7 @@
 
 > Les meilleurs hits Pop c'est ici\. Cover: Ibtissam Tiskat
 
-124 songs - 6 hr 45 min
+126 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Abala Ya Bali](https://open.spotify.com/track/2a1dUbvOaZw7vrHNanpi3r) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Abala Ya Bali](https://open.spotify.com/album/50QN0SwbM2iAa5DylaLYN1) | 3:48 | 2023-07-07 |  |
 | [Ach Dani](https://open.spotify.com/track/03hSOAM899HlEuFTKVblWf) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Ach Dani](https://open.spotify.com/album/1wTs4aENoCZCWFWGSeOord) | 2:55 | 2024-05-29 |  |
 | [Ajini](https://open.spotify.com/track/2u2ZXCZLrm5lJcD8mi9GlG) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Ajini](https://open.spotify.com/album/5cKUuxhE06AI8Mc5NfjCKf) | 2:48 | 2023-07-07 | 2024-04-19 |
-| [Ajini](https://open.spotify.com/track/5YwpA9KqbnVq05XcP2m2I6) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Ajini](https://open.spotify.com/album/2FhuJD75gtB0BbSlrlvcvj) | 2:48 | 2024-04-17 |  |
+| [Ajini](https://open.spotify.com/track/5YwpA9KqbnVq05XcP2m2I6) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Ajini](https://open.spotify.com/album/2FhuJD75gtB0BbSlrlvcvj) | 2:48 | 2024-04-17 | 2024-06-15 |
 | [Alaise](https://open.spotify.com/track/2Q2s8px0dqAeyUylvZr1u4) | [Aminux](https://open.spotify.com/artist/4BgFW9XAMsJMkMZQJ6lGD9) | [Alaise](https://open.spotify.com/album/2bsjO6jSKij9v47QD4LO9C) | 2:26 | 2023-12-17 |  |
 | [Allo \- الو](https://open.spotify.com/track/1mYKk7dWVDcfn8lTJ6CKJV) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Allo \(الو\)](https://open.spotify.com/album/5sw19c2WnCbMacw9OzubzT) | 4:19 | 2023-07-07 | 2023-10-06 |
 | [Alo 3omry](https://open.spotify.com/track/1nnrbEthwYl9i40tPRm9QY) | [Wiem Yahia](https://open.spotify.com/artist/4LOXLGzjdPXGPQbGwbQXxd), [Rayen Youssef](https://open.spotify.com/artist/3rN1K1PmBAEbbdg2sOP2Pk) | [Alo 3omry](https://open.spotify.com/album/0hhP3TMu5ezA6w9JxLLKm5) | 3:26 | 2024-01-05 | 2024-02-06 |
@@ -39,6 +39,7 @@
 | [CHINWI](https://open.spotify.com/track/0KJjxv5b5sm0rJ3T1bdiVR) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [BANDANA](https://open.spotify.com/album/24JV61zK3eDqPTNdcAnmK5) | 3:41 | 2023-07-07 | 2023-12-01 |
 | [Chkoun Kan Ygoul](https://open.spotify.com/track/5AM9SDedaVbz0hbA4IDNTt) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Chkoun Kan Ygoul](https://open.spotify.com/album/4cQRws3OdhjIszeoHmDNXN) | 3:27 | 2024-03-09 |  |
 | [Cinema](https://open.spotify.com/track/6oCJXqoK6138TxpdB9PYmc) | [Zina Daoudia](https://open.spotify.com/artist/7z6FZ4HMfpp3zHy5OFq93i) | [Cinema](https://open.spotify.com/album/6qL0TJQDp0ifUlPHBjna94) | 2:39 | 2023-08-02 | 2023-11-21 |
+| [Dawini](https://open.spotify.com/track/5d54P8T7TXGwE2d0zyN3uu) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h), [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Dawini](https://open.spotify.com/album/3013V6wepDbBnb81uVU95j) | 2:41 | 2024-06-14 |  |
 | [Dehka Sefra](https://open.spotify.com/track/7oE850hviq7oJIPoZRBtyi) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Dehka Sefra](https://open.spotify.com/album/4ZVGTHPMMIc4zakPmIugvS) | 2:56 | 2024-05-20 |  |
 | [Denia Ya Denia](https://open.spotify.com/track/1p7rp2JnBbcR4YdbH6WRzC) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [Denia Ya Denia](https://open.spotify.com/album/1AKmKRx3R2O2hVPGKeuuFk) | 3:05 | 2023-07-07 | 2024-02-06 |
 | [Dima Mechi](https://open.spotify.com/track/4FqzaLISWmn42eDkTenweI) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Dima Mechi \(ديما ماشي\)](https://open.spotify.com/album/7dcTaS0a7Sp7XafbHbLYf5) | 4:45 | 2023-07-07 |  |
@@ -71,6 +72,7 @@
 | [Khalass](https://open.spotify.com/track/1YAcYC4yCkdBkgSczACr7C) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Tiempo](https://open.spotify.com/album/5OaMylPTG87Y9JrqIH7Vp3) | 3:20 | 2023-07-07 | 2023-08-11 |
 | [kho khwatato](https://open.spotify.com/track/0Zc1kECFQAoJQDMKKsxDLr) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk), [hind ziadi](https://open.spotify.com/artist/4swfRw8HS51lw8HsO2VXVP) | [kho khwatato](https://open.spotify.com/album/03u30VQhTn0dWfMBIld2IV) | 3:43 | 2023-07-07 | 2024-05-18 |
 | [La Grinta](https://open.spotify.com/track/0GZ5TN2SnpfUyx4nkaXT0o) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [La Grinta](https://open.spotify.com/album/10wrdFXjPKazGA8wnjPujS) | 2:40 | 2023-07-07 | 2024-04-12 |
+| [La hadi la hadik](https://open.spotify.com/track/1dOrFX61yagHbUzzMHOzZ0) | [Houssainy](https://open.spotify.com/artist/0Vd0wj4JUTJ6M4ts8Xhpko) | [La hadi la hadik](https://open.spotify.com/album/2Hw4br38JEDdv6b4Al36L1) | 3:25 | 2024-06-14 |  |
 | [La Tzöröni](https://open.spotify.com/track/32GxbI4EMezFdM9hROGw5u) | [Houssainy](https://open.spotify.com/artist/0Vd0wj4JUTJ6M4ts8Xhpko) | [La Tzöröni](https://open.spotify.com/album/4GwUKOnGUSek37TvxSKZy4) | 2:50 | 2023-10-24 |  |
 | [Laman Khalitini](https://open.spotify.com/track/5NuXWwTu9nT3qKnjwRIEVr) | [Zina Daoudia](https://open.spotify.com/artist/7z6FZ4HMfpp3zHy5OFq93i) | [Laman Khalitini](https://open.spotify.com/album/7E9YwAQvad0TuZY1EcJEin) | 3:22 | 2023-08-18 | 2023-12-01 |
 | [Layli](https://open.spotify.com/track/3LzvUSHvZpufB80QIiso36) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Layli](https://open.spotify.com/album/1rUlM8Jod4PEcNizNjQccO) | 2:43 | 2024-02-05 |  |
@@ -92,7 +94,7 @@
 | [Maria](https://open.spotify.com/track/2ieat98TO6yujpLeTsb9U4) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 3:13 | 2023-07-07 | 2024-01-05 |
 | [MARJANA](https://open.spotify.com/track/5lWQ5qYAy2pe11J3Ze7u9o) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [MARJANA](https://open.spotify.com/album/4rOy8yQlICtPvNwZubYkh6) | 3:58 | 2023-07-31 |  |
 | [Mashi Hob](https://open.spotify.com/track/3zjsN1FxzEeBh4dNj52Pu9) | [Mohamed Rifai](https://open.spotify.com/artist/4wc2KdcoFnLiGN9dJgu89W) | [Mashi Hob](https://open.spotify.com/album/0TT4JKqUXjsW45qc95cl7n) | 2:41 | 2024-02-15 | 2024-05-17 |
-| [Massari](https://open.spotify.com/track/0J65uyzYarHKfC4XHBdqfK) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Massari](https://open.spotify.com/album/1h30k7HoeTkiFmlnBub3xg) | 3:26 | 2023-07-07 |  |
+| [Massari](https://open.spotify.com/track/0J65uyzYarHKfC4XHBdqfK) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Massari](https://open.spotify.com/album/1h30k7HoeTkiFmlnBub3xg) | 3:26 | 2023-07-07 | 2024-06-15 |
 | [Mchat Alik](https://open.spotify.com/track/2beWUWJ4hEgSLa3XYCEPdl) | [Zaynab](https://open.spotify.com/artist/392PzXdHwMWrN2PArb8aJu) | [Mchat Alik](https://open.spotify.com/album/4S2EP0CL35nPg3fij4y9gJ) | 3:24 | 2023-08-24 | 2023-12-15 |
 | [Mimti](https://open.spotify.com/track/6MZ3lIqUARBkZEDERr6tlF) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Mimti](https://open.spotify.com/album/0YVkrsk7cyE1xhrKDhpqWv) | 3:18 | 2024-01-15 |  |
 | [Mriyech](https://open.spotify.com/track/7735rwGeak348luaiQVRNE) | [Mehdi Fadili](https://open.spotify.com/artist/3fRwXTuOQctGeBiWD456cG) | [Mriyech](https://open.spotify.com/album/4eLxm3sq1QQ8y22wZi7n2H) | 3:28 | 2023-07-07 |  |

@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,214 songs - 2 day 14 hr 25 min
+1,216 songs - 2 day 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Blue Eyed Boy](https://open.spotify.com/track/2Pa3wJwBskgjo3CXz5y0n1) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Blue Eyed Boy](https://open.spotify.com/album/5NhlbhBmjU4q0BPTf4J47V) | 2:43 | 2023-07-08 | 2024-04-06 |
 | [Blue Skies](https://open.spotify.com/track/4e11dFRYAcJyvIv9Y35ERA) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Blue Skies](https://open.spotify.com/album/3RWu6OftP02gYbA5k0ixM0) | 2:39 | 2021-06-05 | 2021-07-04 |
 | [BLUEBLUEBLUE](https://open.spotify.com/track/3c8joelJQd6Ae7vEIhme97) | [Thomas Porter](https://open.spotify.com/artist/1HWwfeXkUm1jrOHiI61Q6C), [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [BLUEBLUEBLUE](https://open.spotify.com/album/3dOqYtutrXgjShT82NgDZu) | 2:11 | 2021-10-16 | 2022-02-05 |
+| [Bodies](https://open.spotify.com/track/2l0xzmV0j4nrnpBdhrxEtR) | [Chiara Savasta](https://open.spotify.com/artist/5TVI6uAbPFru1azAVIaVZR) | [Bodies](https://open.spotify.com/album/2cOJko4PjK5LWMOBwCX3QI) | 2:49 | 2024-06-14 |  |
 | [Body And Mind](https://open.spotify.com/track/2dAHKe37uyUrB0v0PJrDDj) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/6EWTSpE0fh1tqRkajIZ2Tp) | 3:06 | 2021-05-03 | 2021-09-18 |
 | [Bodybag](https://open.spotify.com/track/3XlrbYlaUFnDYGfRcdoYRU) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny](https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA) | 2:38 | 2021-05-08 | 2021-07-17 |
 | [bon iver](https://open.spotify.com/track/2A6GfKINLJ2oN4sjUWj0g2) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dusk](https://open.spotify.com/album/6oCFVNkKjrFRmieVbpQa3s) | 3:16 | 2020-10-29\* | 2020-11-07 |
@@ -138,14 +139,14 @@
 | [Break](https://open.spotify.com/track/0Qih8wH7Smf780cwH2Pqxk) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Break](https://open.spotify.com/album/2P40voWuU97H7NJGckbEOF) | 2:45 | 2021-09-11 | 2021-12-11 |
 | [Break My Fall](https://open.spotify.com/track/2D2wLzadfYEvxzoQAHtCm5) | [nodisco.](https://open.spotify.com/artist/5r9DYiYT0GKn6FcbbJtlqq) | [Break My Fall](https://open.spotify.com/album/1ge5wbmkpeytkR9oiIyJb9) | 3:26 | 2022-05-20 | 2022-05-21 |
 | [Break My Fall](https://open.spotify.com/track/3vWAeJGKEQGrvCKut2uMzy) | [nodisco.](https://open.spotify.com/artist/5r9DYiYT0GKn6FcbbJtlqq) | [Break My Fall](https://open.spotify.com/album/1at7bad2VMRKWewCs9yBgt) | 3:28 | 2022-12-02 | 2024-04-19 |
-| [Breakfast](https://open.spotify.com/track/1gZ5gMhXQm2fBogPFvuYOb) | [mathijs.iv](https://open.spotify.com/artist/1qtwdqUmc8Nnza2PcPSlSu) | [Breakfast](https://open.spotify.com/album/5EgfYbZo7zIGxqy3fYfcIc) | 2:25 | 2023-11-10 |  |
+| [Breakfast](https://open.spotify.com/track/1gZ5gMhXQm2fBogPFvuYOb) | [mathijs.iv](https://open.spotify.com/artist/1qtwdqUmc8Nnza2PcPSlSu) | [Breakfast](https://open.spotify.com/album/5EgfYbZo7zIGxqy3fYfcIc) | 2:25 | 2023-11-10 | 2024-06-15 |
 | [Broke Mine](https://open.spotify.com/track/3MWQIH5B6TSqxOT4mTYzJk) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Broke Mine](https://open.spotify.com/album/7a4GgADrERVlml8GnNZWvd) | 3:31 | 2022-03-11 | 2022-06-04 |
 | [Broken Lips](https://open.spotify.com/track/6F5cfxHDlMAfQdAQ8KF0JZ) | [Loviet](https://open.spotify.com/artist/2oULrQuWXhDGUEBtWQPiA9) | [Broken Lips](https://open.spotify.com/album/6qDqkwfYuiG4wSOP1oXM4c) | 4:42 | 2022-09-09 | 2022-10-29 |
 | [Bruise](https://open.spotify.com/track/1U1TpPbxYRFteIeT0Az4kM) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [I Love My Girl, She's My Boy](https://open.spotify.com/album/6CS7IxjsKQAamJTVWvQWOF) | 2:59 | 2024-01-26 | 2024-04-19 |
 | [Bruise](https://open.spotify.com/track/26NhDr8bfNqIkmkFCoFdeI) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [Bruise](https://open.spotify.com/album/0pzoYtS7zcG2kd7g4NUbrx) | 2:59 | 2024-04-19 |  |
 | [Bubble Bath](https://open.spotify.com/track/20YR9nQbpzkgu8unaM5daZ) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [Bubble Bath](https://open.spotify.com/album/1xuThITWHkINezQf4Xkj2v) | 2:56 | 2024-02-16 |  |
 | [bubblegum](https://open.spotify.com/track/6nex4xkeGBrngKZbgoDWBi) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [bubblegum](https://open.spotify.com/album/3n4irVf4flMBpTYYbbPqnY) | 3:08 | 2021-07-17 | 2021-08-28 |
-| [Bugs](https://open.spotify.com/track/7uPoiTTpyRhDpSsLivlc1j) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Bugs](https://open.spotify.com/album/2IgEdXtkm2N3YJJuQP4SVL) | 2:42 | 2023-01-27 |  |
+| [Bugs](https://open.spotify.com/track/7uPoiTTpyRhDpSsLivlc1j) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Bugs](https://open.spotify.com/album/2IgEdXtkm2N3YJJuQP4SVL) | 2:42 | 2023-01-27 | 2024-06-15 |
 | [Burger King Bathroom](https://open.spotify.com/track/4eGwQiJNa2zboopOEOvXjf) | [Alann8h](https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We) | [Burger King Bathroom](https://open.spotify.com/album/7g2HX2akwRHItjsTjQ6CtU) | 2:28 | 2020-12-19 | 2021-02-20 |
 | [Busy](https://open.spotify.com/track/1ZOvGngH4YojNtbhtzJCZs) | [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [Busy](https://open.spotify.com/album/3bvUadr6ldYuCapGdpOjC9) | 2:23 | 2020-11-21 | 2021-01-15 |
 | [butterfly](https://open.spotify.com/track/4O6EmKnAT9sjnxXVznq2cT) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [real growth takes time](https://open.spotify.com/album/53HT41h6mDkBhv8jt9oAnc) | 3:09 | 2020-12-12 | 2021-01-09 |
@@ -1099,6 +1100,7 @@
 | [Tiptoeing](https://open.spotify.com/track/3ZptYblxFPhvIJ0RRRozk9) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Tiptoeing](https://open.spotify.com/album/0fi4c4LZKtZuSSbbjygyZv) | 2:35 | 2021-10-23 | 2022-02-05 |
 | [Toast with the Butter](https://open.spotify.com/track/34hdwAVK7oA3OswpGv5gVX) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [How Did We Get Here?](https://open.spotify.com/album/05SVSMRmcL2ESnkwQFlgyt) | 3:26 | 2021-03-06 | 2021-03-19 |
 | [Tomorrow](https://open.spotify.com/track/7BKwEybys8ZWeYCMykvUrL) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [Tomorrow](https://open.spotify.com/album/77Xaj1yittcrI9g7PWbXxq) | 2:08 | 2021-08-21 | 2021-10-09 |
+| [Too High To Cry](https://open.spotify.com/track/7lUIAkNykW5nQhCIBGiQ09) | [mathijs.iv](https://open.spotify.com/artist/1qtwdqUmc8Nnza2PcPSlSu) | [Too High To Cry](https://open.spotify.com/album/5NL9W9396ky1o3QTRd8IFm) | 3:22 | 2024-06-14 |  |
 | [Top Dog](https://open.spotify.com/track/2hGchv7KYaINz9Z1qzufNm) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [mini mix vol\. 3](https://open.spotify.com/album/09FqVvj8EwzFjYQhiT1LUM) | 2:17 | 2023-09-28 | 2024-03-16 |
 | [touch tank](https://open.spotify.com/track/1S3ZeV4CEdqbzBYwu0pxE7) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4XsixtHgUzRfUd9zrhX5eh) | 2:59 | 2022-09-09 | 2023-02-11 |
 | [touch tank](https://open.spotify.com/track/7DrzZN5jaDyE0a0tVuVWnj) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4cH0G6g1NcPguHQ8aOk1h6) | 2:59 | 2022-07-15 | 2022-09-16 |

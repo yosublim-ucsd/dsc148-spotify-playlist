@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 
 > Les meilleurs morceaux alternatifs du moment\. Photo : Fat Dog
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,021 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,023 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 | 49 | [21](https://open.spotify.com/track/0FS3KPmkxlnFl0qzmc2t5V) | [Couch Sleepers](https://open.spotify.com/artist/54VlMlovDgwy2Dod8XTOYw) | [21](https://open.spotify.com/album/0HqhFh2YCt4vHip1D79M20) | 2:40 |
 | 50 | [Feel Too Much](https://open.spotify.com/track/2WTtuIp7Yhg85P2SYPGD6r) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [CWK EP](https://open.spotify.com/album/2xbIzFOBD0L80ARB5GifJw) | 2:48 |
 
-Snapshot ID: `Zmtr4AAAAABWc4Ocv5lLX4e4sSejS/Vp`
+Snapshot ID: `ZmvxigAAAADxWH4uGX+ODShB5wt9OzEy`

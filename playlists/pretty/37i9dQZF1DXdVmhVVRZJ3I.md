@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 
 > Eletrônico energético para acompanhar a sua malhação diária.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,371 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,375 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 | 49 | [Shingaling Shingaling](https://open.spotify.com/track/7mMgH7AulApCvRqiMtVuBS) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady) | [Shingaling Shingaling](https://open.spotify.com/album/2djHqWUscYXsPqrEugmx8w) | 2:52 |
 | 50 | [Alive Again](https://open.spotify.com/track/2P7Vn6uJ9hRKTJVYMmjppN) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Alive Again](https://open.spotify.com/album/3jsZSRV7pLrjFCD8FObfok) | 3:32 |
 
-Snapshot ID: `ZmJ4ZAAAAAAprN5ePiED8Z8lsUXMbeEU`
+Snapshot ID: `Zmuy5AAAAAABDORDFJ26+qvsy9MHKMZs`

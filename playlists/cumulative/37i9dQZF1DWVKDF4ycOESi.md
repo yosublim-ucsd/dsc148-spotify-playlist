@@ -4,7 +4,7 @@
 
 > bnkr44 in cover + le migliori uscite di questa settimana!
 
-765 songs - 1 day 14 hr 12 min
+767 songs - 1 day 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [All I Ever Wanted](https://open.spotify.com/track/3SlVjHXWf3GmFw5eRhW7GM) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [All I Ever Wanted](https://open.spotify.com/album/3ea7Bl4ur3eojJ8ycDVsXZ) | 3:09 | 2024-05-31 | 2024-06-07 |
 | [All My Ladies](https://open.spotify.com/track/4kocYmR9mLFdbFOjRwbIEn) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [All My Ladies](https://open.spotify.com/album/1tau35xhnc5kWidnkBRE8d) | 2:33 | 2024-05-16 | 2024-05-24 |
 | [All My Life](https://open.spotify.com/track/2p5LjvjZlMSxxwNUtDyG5x) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [All My Life](https://open.spotify.com/album/4jrP67zEPygoCd90h6vMHr) | 3:10 | 2024-06-06 | 2024-06-14 |
-| [All Yours](https://open.spotify.com/track/14bmkoHIGDA4F3coRG6d2O) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [All Yours](https://open.spotify.com/album/6JxK2wrBeT1L6lTD6NAICm) | 3:30 | 2024-06-13 |  |
+| [All Yours](https://open.spotify.com/track/0FK76UEefHKQ78AXEWJY31) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [DOPAMINE](https://open.spotify.com/album/1XSUdSojWNJCgNqKNxfcVr) | 3:28 | 2024-06-14 |  |
+| [All Yours](https://open.spotify.com/track/14bmkoHIGDA4F3coRG6d2O) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [All Yours](https://open.spotify.com/album/6JxK2wrBeT1L6lTD6NAICm) | 3:30 | 2024-06-13 | 2024-06-15 |
 | [ALL’OLD \(feat\. I Desideri\)](https://open.spotify.com/track/6EFHIGfNnmIgefswKrMfVV) | [Astol](https://open.spotify.com/artist/13LaDWlkqsIjVkIA9Hdciy), [I Desideri](https://open.spotify.com/artist/4t7NH9MvLDY2RMiNLE50d8) | [AMORI \(giu ‘23 \- mag ‘24\)](https://open.spotify.com/album/65Nd2MOzCg5iHIkfPMzUhs) | 2:31 | 2024-05-16 | 2024-05-24 |
 | [ALTROVE](https://open.spotify.com/track/5mTuGUq93D6eAOeJApPi8J) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [ALTROVE](https://open.spotify.com/album/7wFYcHirgNsa5mSV0yK72r) | 3:25 | 2024-05-09 | 2024-05-17 |
 | [Always Forever](https://open.spotify.com/track/2kSeF6yZz3wLFchfnX0xfO) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Always Forever](https://open.spotify.com/album/65otcCeyfEPtdY4DZMgPtF) | 3:05 | 2024-05-31 | 2024-06-07 |
@@ -115,6 +116,7 @@
 | [Boy](https://open.spotify.com/track/4EMtdCslt1xcCWJyfiRgIJ) | [TA GA DA](https://open.spotify.com/artist/4UL9L4TWC5aRyfvc1qHFZ5) | [Boy](https://open.spotify.com/album/2QMiSFZX3pqwkZkqy2Y5QT) | 2:58 | 2024-05-09 | 2024-05-17 |
 | [BRICIOLE](https://open.spotify.com/track/4rmVCWAOWwytgzoShAMIUO) | [Sierra](https://open.spotify.com/artist/5LxvWvFRXBDQBVI9LwwmVp) | [BRICIOLE](https://open.spotify.com/album/6sWPNhtjcgAKiVBKqJaOuC) | 2:50 | 2024-04-26 | 2024-05-03 |
 | [Broke My Heart](https://open.spotify.com/track/4jf9aWVk63e8c8lC7HABbK) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Broke My Heart](https://open.spotify.com/album/22TAmmHGJNDO7fDwlf0RE7) | 2:46 | 2024-06-06 | 2024-06-14 |
+| [BROTHER STONE \(FEAT\. KODAK BLACK\)](https://open.spotify.com/track/0l3raueiJ78IsmZGwo6CRm) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [BROTHER STONE \(FEAT\. KODAK BLACK\)](https://open.spotify.com/album/0LWTY98ijfILoFHupcQJKE) | 3:22 | 2024-06-14 |  |
 | [Bruce Wayne \(feat\. thasup\)](https://open.spotify.com/track/5mnX1xQIhIMztkuxBchRwr) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [LONEWOLF](https://open.spotify.com/album/6dDq4MNO1T4Gvllo2urL8A) | 2:51 | 2024-05-31 | 2024-06-07 |
 | [BRUCEREI \(DIE4U\)](https://open.spotify.com/track/0QCkIqllcQZt2dC2dIKfUL) | [Piccolo G](https://open.spotify.com/artist/5OIYMOg9lPLouzN3jIerv2) | [BRUCEREI \(DIE4U\)](https://open.spotify.com/album/6dWR9Dy7RLVKu9e3iznqqT) | 2:50 | 2024-05-09 | 2024-05-17 |
 | [brutti giorni \(feat\. chiamamifaro\)](https://open.spotify.com/track/3uzbjLmpuNzRmqEyP0D5zh) | [Itto](https://open.spotify.com/artist/2LJFeWUIvW4OF583ZiqIRh), [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [questi dannati vent'anni](https://open.spotify.com/album/2K1ngpgKYGX4HmFRCvcIeD) | 2:46 | 2024-05-31 | 2024-06-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH?si=0lJgMD1sS\_mVVF1J\_3ofwg>CalledOut Music</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,804 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,811 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 58 | [Worship Medley](https://open.spotify.com/track/1IMg8WvlUUlgwVEfqoaxzE) | [Shadrach SBS](https://open.spotify.com/artist/2eKjftX5gKorRAzO2ECBtb) | [Worship Medley](https://open.spotify.com/album/3ymAF1ocQj5xDgCQTKDjWm) | 6:27 |
 | 59 | [Jesus Ooh](https://open.spotify.com/track/7DROinBm8yLEyyDqu2Jes1) | [Marc Odiba](https://open.spotify.com/artist/68Qg2lgmOoVAXCVSrB2H0T), [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Jesus Ooh](https://open.spotify.com/album/3K73OnlpaUdNIDi84Dfn5R) | 4:36 |
 | 60 | [Yeshua](https://open.spotify.com/track/2rdqRRD1XHPuKy2Mb7NUxT) | [Joseph Godwin](https://open.spotify.com/artist/1DLhXAdXfertIv47pfKSHO) | [Yeshua](https://open.spotify.com/album/0XAGFjujOrvnYv1OARkjzz) | 3:22 |
-| 61 | [Never Let You Go](https://open.spotify.com/track/5nC9epFOVVIrsm5w8nY10D) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP), [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa) | [Never Let You Go](https://open.spotify.com/album/1SAD4f89icou1Sel6Q2FJT) | 3:37 |
-| 62 | [Our Time](https://open.spotify.com/track/3ctFAgGUt7Km0bJO9tiycq) | [Moses Brothers](https://open.spotify.com/artist/0X750MfIihtZU6uZWEJf5E) | [Our Time](https://open.spotify.com/album/1Vw9JpK6Xg9TZAf8rpYYrW) | 3:36 |
+| 61 | [Madzibambo](https://open.spotify.com/track/6T1J9szJWbGoKXq0UMnc4y) | [Obert Chari](https://open.spotify.com/artist/2MRBGtUHomiNjf8BKFMoI5) | [Zambuko](https://open.spotify.com/album/4cRHPBSqSed624lPa53ulT) | 8:30 |
+| 62 | [Never Let You Go](https://open.spotify.com/track/5nC9epFOVVIrsm5w8nY10D) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP), [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa) | [Never Let You Go](https://open.spotify.com/album/1SAD4f89icou1Sel6Q2FJT) | 3:37 |
 | 63 | [More \- Reprise](https://open.spotify.com/track/42ntPM22VYbUfeICz51noE) | [Aghogho](https://open.spotify.com/artist/4yAFPEJ5k77Ev31V4e5POh), [Pv Idemudia](https://open.spotify.com/artist/01zeOIPQPPmHKytrc9sPC3) | [More \(Reprise\)](https://open.spotify.com/album/6FHPFn5apP3ROVvxLnprDC) | 7:04 |
 | 64 | [JESU](https://open.spotify.com/track/5aCtFEuYy4d00bgd1aGdxU) | [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv), [Paul Rarity](https://open.spotify.com/artist/1NIAd4wWEI2kYYBM0i9T48), [Sydneyondabeat](https://open.spotify.com/artist/60sxmdPUcrWe3VtiSx3rGo) | [JESU](https://open.spotify.com/album/5XuTDoLWsU9nfsJoLK3Enu) | 2:38 |
 | 65 | [The Summary](https://open.spotify.com/track/1vH7nnlvnff6TLT7eQq8iP) | [Chrisolo Edukeyz](https://open.spotify.com/artist/4OLHnwqc2PLCKz6KD0AHWA), [Joy Enwang](https://open.spotify.com/artist/2pdI1G1bWROiRA5OR4INVN), [Blessing Ogbonna](https://open.spotify.com/artist/5g3OV0ETKSH73P5GSxYA41), [Onyinyechi Mbanefo](https://open.spotify.com/artist/4S5sV6rq8e5mOR7OzNMPP0), [Winning Sam](https://open.spotify.com/artist/2WbZlnSGyy6nr67C9y4eh7), [Tobor Wealth](https://open.spotify.com/artist/4rKbEw6lGP6qi1ILPv6FPg), [Peculiar Fiaru](https://open.spotify.com/artist/1yV2f25YRJep9Do2TmsShB) | [The Summary](https://open.spotify.com/album/4sfl0I4M6ho9cjbTXReIWS) | 4:24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 
 > Remembering <a href="https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N?si=RA5rgdt2RX\-n7beSCAHzBQ">Brenda Fassie's</a> incredible legacy, 20 years on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,441 likes - 60 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,575 likes - 60 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

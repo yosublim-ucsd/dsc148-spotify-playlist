@@ -2341,6 +2341,24 @@
     },
     {
       "album": {
+        "name": "NA",
+        "url": "https://open.spotify.com/album/40gIiI8skJeWU05P7FoIse"
+      },
+      "artists": [
+        {
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162840,
+      "name": "ABCD",
+      "url": "https://open.spotify.com/track/53rB05bAi7JdNbUfgz72I1"
+    },
+    {
+      "album": {
         "name": "Abeam",
         "url": "https://open.spotify.com/album/5gQa4AbKZcnu8blwLA5gT7"
       },
@@ -13278,6 +13296,28 @@
       "duration_ms": 184613,
       "name": "Brother",
       "url": "https://open.spotify.com/track/1e5uIHjmotxVwtQbo6GzVk"
+    },
+    {
+      "album": {
+        "name": "BROTHER STONE (FEAT. KODAK BLACK)",
+        "url": "https://open.spotify.com/album/0LWTY98ijfILoFHupcQJKE"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202840,
+      "name": "BROTHER STONE (FEAT. KODAK BLACK)",
+      "url": "https://open.spotify.com/track/0l3raueiJ78IsmZGwo6CRm"
     },
     {
       "album": {
@@ -82765,6 +82805,24 @@
     },
     {
       "album": {
+        "name": "STEP",
+        "url": "https://open.spotify.com/album/7ouKhEyy9jcnDeg9KNnXe9"
+      },
+      "artists": [
+        {
+          "name": "LAY",
+          "url": "https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175515,
+      "name": "Step",
+      "url": "https://open.spotify.com/track/4eecTuBlb0nM4DIVTmjWPa"
+    },
+    {
+      "album": {
         "name": "Steppas",
         "url": "https://open.spotify.com/album/5EFWc59llfnLab6hpjJBkX"
       },
@@ -97715,6 +97773,32 @@
     },
     {
       "album": {
+        "name": "BloodBagBrainBomb",
+        "url": "https://open.spotify.com/album/0Mstlb371aRsCUvsUNJqtn"
+      },
+      "artists": [
+        {
+          "name": "\u30d4\u30fc\u30ca\u30c3\u30c4\u304f\u3093",
+          "url": "https://open.spotify.com/artist/3ssBfPaamcxmTrzSXcc2cb"
+        },
+        {
+          "name": "lilbesh ramko",
+          "url": "https://open.spotify.com/artist/5bdiD2ANkGjawGUiBFYmRu"
+        },
+        {
+          "name": "hirihiri",
+          "url": "https://open.spotify.com/artist/4sJMzQ4brQQcRxc5LGyai1"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145371,
+      "name": "Wha u takin bout",
+      "url": "https://open.spotify.com/track/1BfRsHgdypjfn4iYlAFzWN"
+    },
+    {
+      "album": {
         "name": "What A Life",
         "url": "https://open.spotify.com/album/6Y0Nq4Gz0l9YkiI7RDvfQc"
       },
@@ -98959,6 +99043,24 @@
     },
     {
       "album": {
+        "name": "Where You Been",
+        "url": "https://open.spotify.com/album/1FIEL1JZTLWKqtfeo4GabA"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142146,
+      "name": "Where You Been",
+      "url": "https://open.spotify.com/track/6dnzsTXwAaJws8zGrTFSAS"
+    },
+    {
+      "album": {
         "name": "Where You Want",
         "url": "https://open.spotify.com/album/1Pl10i0UUrGwR7JYIywlR4"
       },
@@ -99100,6 +99202,28 @@
       "duration_ms": 307007,
       "name": "Whiskey",
       "url": "https://open.spotify.com/track/0fwQ9azMBpJHQ8pzDl9I9i"
+    },
+    {
+      "album": {
+        "name": "SPEAK NOW",
+        "url": "https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161052,
+      "name": "WHISKEY WHISKEY (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/7hRLuo4QnzCsjICXUOhTE6"
     },
     {
       "album": {

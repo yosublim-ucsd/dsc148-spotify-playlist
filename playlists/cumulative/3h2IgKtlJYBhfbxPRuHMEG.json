@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "The best EDM, Trap, Electronic, Drum&amp;Bass. Cover: Levity",
+  "description": "The best EDM, Trap, Electronic, Drum&amp;Bass. Cover: Taiki Nulight",
   "name": "Bass Drop",
   "tracks": [
     {
@@ -908,7 +908,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 325493,
       "name": "Dooms Dive",
       "url": "https://open.spotify.com/track/4SW0IfMrQ4UuW1LMfeBChC"
@@ -1426,7 +1426,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 215454,
       "name": "i think you're cool - IMANU x QUIET BISON Remix",
       "url": "https://open.spotify.com/track/6Ko6GXJn6zUyCShnmAw7Ym"
@@ -1480,7 +1480,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 240697,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/0AB0UY1M9ie3OFCziEVAT1"
@@ -1556,7 +1556,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 184611,
       "name": "It Gets Better",
       "url": "https://open.spotify.com/track/5erj647SYiDcIR8Zwi6tc9"
@@ -2222,7 +2222,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 208000,
       "name": "Smoke & Ones",
       "url": "https://open.spotify.com/track/1Ozd6d7lNxRvQxGrmMmE37"
@@ -2298,7 +2298,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 170270,
       "name": "Take ft. Kimbra",
       "url": "https://open.spotify.com/track/65GMJ7KrLhUi8ya8uO9jJe"
@@ -2386,6 +2386,24 @@
       "duration_ms": 234615,
       "name": "Ten Toes (Feat. MC Spyda, General Levy & Eksman)",
       "url": "https://open.spotify.com/track/6d7smhFOnBEVeaKAiYm8PK"
+    },
+    {
+      "album": {
+        "name": "The Box",
+        "url": "https://open.spotify.com/album/3eTsXqycvOk2j4STUhDJ2A"
+      },
+      "artists": [
+        {
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221052,
+      "name": "The Box",
+      "url": "https://open.spotify.com/track/0iWXA5HTkEVfIhOUS9dMUI"
     },
     {
       "album": {

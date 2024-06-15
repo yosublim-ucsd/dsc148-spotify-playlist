@@ -1,13 +1,117 @@
 {
   "description": "New releases for the kids. Cover: Laurie Berkner",
-  "num_followers": 24270,
+  "num_followers": 24344,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmKFwAAAAADX1vHvUDcLNICWIHQb3C6k",
+  "snapshot_id": "ZmvAQAAAAAAfTfJ0cvyraS/H9BprvifU",
   "tracks": [
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "These are the Days",
+        "url": "https://open.spotify.com/album/2B3KH1zpR8PudFt2HAzdVB"
+      },
+      "artists": [
+        {
+          "name": "Andrew Jannakos",
+          "url": "https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket"
+        }
+      ],
+      "duration_ms": 146403,
+      "name": "These are the Days",
+      "url": "https://open.spotify.com/track/0DXZdae0ZBfAtzkNXXcfny"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Giant",
+        "url": "https://open.spotify.com/album/5SwDcEn7QW2Woom4yydocN"
+      },
+      "artists": [
+        {
+          "name": "SteveSongs",
+          "url": "https://open.spotify.com/artist/1M85r8fn8TM2VSXv3YGJRJ"
+        }
+      ],
+      "duration_ms": 230506,
+      "name": "Giant",
+      "url": "https://open.spotify.com/track/7ficmVgCGCGe1sk2itqd2G"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Marvel's Spidey and His Amazing Friends - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/28PAtOT7ctTLu3na2oc2E2"
+      },
+      "artists": [
+        {
+          "name": "Patrick Stump",
+          "url": "https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "duration_ms": 130261,
+      "name": "Do the Spidey",
+      "url": "https://open.spotify.com/track/57bon7PWZgGOCLedjHZxIB"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Spin Spin Spin",
+        "url": "https://open.spotify.com/album/6DsPa8s44ih8fK5PzwYiyV"
+      },
+      "artists": [
+        {
+          "name": "LooLoo Kids",
+          "url": "https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx"
+        }
+      ],
+      "duration_ms": 121080,
+      "name": "Spin Spin Spin",
+      "url": "https://open.spotify.com/track/0eHaK2tBOeQSMfpKUUkVuI"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Five Spotted Dogs",
+        "url": "https://open.spotify.com/album/3kS99V0maD0ugJjjpbeS1G"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        },
+        {
+          "name": "Finny the Shark",
+          "url": "https://open.spotify.com/artist/1VJySDu4xQJhRfZgQSgJ1i"
+        }
+      ],
+      "duration_ms": 136901,
+      "name": "Five Spotted Dogs",
+      "url": "https://open.spotify.com/track/7LRha2UjZSgeTedwejSFBu"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Pinkfong & Baby Shark's Best Family Songs",
+        "url": "https://open.spotify.com/album/67zSxoPGc2BRtUPKmLWez9"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "duration_ms": 150972,
+      "name": "Baby Baby Yes Papa & Mama",
+      "url": "https://open.spotify.com/track/33LLGaUlFjbR4saDNeAc8E"
+    },
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {

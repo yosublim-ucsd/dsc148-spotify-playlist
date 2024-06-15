@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "BONITA",
+        "url": "https://open.spotify.com/album/47A9TsLtCEIHXMJMFiWC3P"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154811,
+      "name": "BONITA",
+      "url": "https://open.spotify.com/track/2PC3p183m8iuk49KINvIWQ"
+    },
+    {
+      "album": {
         "name": "KIDZ BOP 2023 Vol. 2",
         "url": "https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m"
       },

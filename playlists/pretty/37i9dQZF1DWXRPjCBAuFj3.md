@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 
 > Il rap è uno sport competitivo 🔥 Eminem in cover con Houdini 🧙
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,967 likes - 120 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,020 likes - 120 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 | 61 | [Survivor’s Remorse](https://open.spotify.com/track/4Xg53MegsZ6MRIbZ2kE6Eh) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Survivor’s Remorse](https://open.spotify.com/album/1vLOjsLCZT2mO1hqYS940W) | 2:36 |
 | 62 | [ATM](https://open.spotify.com/track/5hO3XBO6W6GwyBJOAtivCf) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [ATM](https://open.spotify.com/album/0td44kOi6nnLKRfC8m46IS) | 2:17 |
 | 63 | [La bandite](https://open.spotify.com/track/0goer5e8B6SJaTV2B51k6f) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Rien 100 Rien](https://open.spotify.com/album/2GLuHlc49dJKY8yzxUZb8p) | 2:40 |
-| 64 | [Deep in the Water](https://open.spotify.com/track/2dshtwEGNpyrE0x69wUiHj) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Deep in the Water](https://open.spotify.com/album/3N00K5i1IFjap5SqfxGIPF) | 2:50 |
+| 64 | [DEEP IN THE WATER](https://open.spotify.com/track/2dshtwEGNpyrE0x69wUiHj) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Deep in the Water](https://open.spotify.com/album/3N00K5i1IFjap5SqfxGIPF) | 2:50 |
 | 65 | [Swear to God \(feat\. Future\)](https://open.spotify.com/track/0N3A0tvQ3ppZerKA8Gsztp) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Swear to God \(feat\. Future\)](https://open.spotify.com/album/5j8aNVtgdhzP7azN05Z9h5) | 3:00 |
 | 66 | [X](https://open.spotify.com/track/5URQsgEa4ciF01AYbIhWvO) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [X](https://open.spotify.com/album/2DWSieXN6ldWJczKBB3BCS) | 2:00 |
 | 67 | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx) | 4:12 |

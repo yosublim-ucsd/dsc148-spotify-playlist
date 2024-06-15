@@ -194,7 +194,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 480706,
       "name": "A Little Piece of Heaven",
       "url": "https://open.spotify.com/track/1BLfQ6dPXmuDrFmbdfW7Jl"
@@ -648,7 +648,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 196466,
       "name": "Armageddon",
       "url": "https://open.spotify.com/track/6i8MbzVn4nzyjUcSoVcz7B"
@@ -1093,6 +1093,24 @@
     },
     {
       "album": {
+        "name": "Daur Hidup",
+        "url": "https://open.spotify.com/album/6LVBF7LOvsD1vpacxXS1VI"
+      },
+      "artists": [
+        {
+          "name": "Donne Maula",
+          "url": "https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Bercinta Lewat Kata - From \"Jatuh Cinta Seperti di Film-Film\"",
+      "url": "https://open.spotify.com/track/4snIhdHJ9q2ZNR7egVpG5v"
+    },
+    {
+      "album": {
         "name": "Bercinta Lewat Kata (From \"Jatuh Cinta Seperti di Film-Film\")",
         "url": "https://open.spotify.com/album/2uqiUX7WQx2Yj4TcBy6UHd"
       },
@@ -1104,7 +1122,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 169000,
       "name": "Bercinta Lewat Kata - From \"Jatuh Cinta Seperti di Film-Film\"",
       "url": "https://open.spotify.com/track/7wlfGt5NkpPT6nRC6yCr7u"
@@ -3962,7 +3980,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 92400,
       "name": "intro (end of the world)",
       "url": "https://open.spotify.com/track/2o1pb13quMReXZqE7jWsgq"
@@ -4612,7 +4630,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-12",
+      "date_removed": null,
       "duration_ms": 222706,
       "name": "Komang",
       "url": "https://open.spotify.com/track/654ZF6YNWjQS2NhwR3QnX7"

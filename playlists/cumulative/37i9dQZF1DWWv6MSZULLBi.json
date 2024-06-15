@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: hey, nothing",
+  "description": "A laid-back trip in the folk scene. Cover: Mustafa",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -3541,6 +3541,24 @@
     },
     {
       "album": {
+        "name": "Early Morning Sun",
+        "url": "https://open.spotify.com/album/3b8Exk4GmAPa3OVUNhij5L"
+      },
+      "artists": [
+        {
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191493,
+      "name": "Early Morning Sun",
+      "url": "https://open.spotify.com/track/6irktO5jFEuTjSEB8FIXlS"
+    },
+    {
+      "album": {
         "name": "East Coast",
         "url": "https://open.spotify.com/album/5MuhSLmBPXFjYyf3LWRtFm"
       },
@@ -3912,6 +3930,24 @@
       "duration_ms": 209133,
       "name": "Envy",
       "url": "https://open.spotify.com/track/3VqVn7nTrAwvzBfGowithl"
+    },
+    {
+      "album": {
+        "name": "Evening Dream",
+        "url": "https://open.spotify.com/album/6cnmkV5RbaFtiQuXX0S7Gm"
+      },
+      "artists": [
+        {
+          "name": "Mo Kenney",
+          "url": "https://open.spotify.com/artist/37bB4IgC1rMZekz2XvshyS"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194800,
+      "name": "Evening Dream",
+      "url": "https://open.spotify.com/track/66Y0XuOxcBoVUFkBZY8Iuv"
     },
     {
       "album": {
@@ -5151,6 +5187,24 @@
     },
     {
       "album": {
+        "name": "Gaza is Calling",
+        "url": "https://open.spotify.com/album/33xs5LXJkJZDVptz8ovCcb"
+      },
+      "artists": [
+        {
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270400,
+      "name": "Gaza is Calling",
+      "url": "https://open.spotify.com/track/3ChIzdLUmq1sB9I556xwgC"
+    },
+    {
+      "album": {
         "name": "Get Well / Body Knows",
         "url": "https://open.spotify.com/album/16aw3U3CBhtms6esqGw6xM"
       },
@@ -5552,7 +5606,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 237266,
       "name": "Hang In There",
       "url": "https://open.spotify.com/track/6AVxU4b0LAUVG1jkc6HFaN"
@@ -6948,7 +7002,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 214088,
       "name": "Imaan",
       "url": "https://open.spotify.com/track/1prJ8ZRyFjd60AYJOa9gbP"
@@ -7265,6 +7319,24 @@
     },
     {
       "album": {
+        "name": "Sonido C\u00f3smico",
+        "url": "https://open.spotify.com/album/0FI8JaUH7kqtvM6EkmCm7t"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278862,
+      "name": "It\u2019s All In Your Mind",
+      "url": "https://open.spotify.com/track/6i6zi5TgXuKUxooOMqhKfQ"
+    },
+    {
+      "album": {
         "name": "j's lullaby (darlin' i'd wait for you)",
         "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
       },
@@ -7298,6 +7370,24 @@
       "duration_ms": 216938,
       "name": "Jean Jackets",
       "url": "https://open.spotify.com/track/7scjbEORM6rWarLNN8fKbX"
+    },
+    {
+      "album": {
+        "name": "Jenny",
+        "url": "https://open.spotify.com/album/2np1VMu280TCmJJqrSGRkp"
+      },
+      "artists": [
+        {
+          "name": "clay pigeon",
+          "url": "https://open.spotify.com/artist/7BHNqeFLFZUbD5VS0VtoyL"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239035,
+      "name": "Jenny",
+      "url": "https://open.spotify.com/track/3iBbRE7Oqe2IWrTXggqOau"
     },
     {
       "album": {
@@ -8320,10 +8410,28 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 252430,
       "name": "Look Down That Lonesome Road",
       "url": "https://open.spotify.com/track/5mkNlofyHIruXQJEBCYM1O"
+    },
+    {
+      "album": {
+        "name": "Wide open, horses",
+        "url": "https://open.spotify.com/album/6TVEDs3DPrCUQDyrsG4mXz"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291447,
+      "name": "Look up!!",
+      "url": "https://open.spotify.com/track/09ShrRv6mFFvxfU0wey2X4"
     },
     {
       "album": {
@@ -8576,7 +8684,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 131999,
       "name": "Loving You Will Be The Death Of Me",
       "url": "https://open.spotify.com/track/2TpHdNgZWRCqmZ2iPG90fJ"
@@ -8962,7 +9070,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 313357,
       "name": "Modern Drugs",
       "url": "https://open.spotify.com/track/3mNM1ejXe4UD7wgQXfjYII"
@@ -9362,7 +9470,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 203629,
       "name": "Needle",
       "url": "https://open.spotify.com/track/3pGiuOxzaR0IP4PgzAaK12"
@@ -12805,6 +12913,28 @@
     },
     {
       "album": {
+        "name": "Sweet Dreams (feat. Wesley Schultz of The Lumineers)",
+        "url": "https://open.spotify.com/album/3jkwHJepVtB9oYjz0Kbxl6"
+      },
+      "artists": [
+        {
+          "name": "Goody Grace",
+          "url": "https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30"
+        },
+        {
+          "name": "Wesley Schultz",
+          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188447,
+      "name": "Sweet Dreams (feat. Wesley Schultz of The Lumineers)",
+      "url": "https://open.spotify.com/track/79NP7Nqe8cUJgqHnrEBK0a"
+    },
+    {
+      "album": {
         "name": "Sweet Home",
         "url": "https://open.spotify.com/album/4fev1gmD2IVpftJWt2lfnx"
       },
@@ -13696,7 +13826,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 201880,
       "name": "Think About You",
       "url": "https://open.spotify.com/track/5sMNeg0MEPWlpbjwCg2gRH"

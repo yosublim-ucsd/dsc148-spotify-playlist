@@ -2,7 +2,7 @@
 
 ### [This Is The Used](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ZCBBm)
 
-> This is The Used\. Todos os maiores hits em uma só playlist.
+> This is The Used\. The essential tracks, all in one playlist.
 
 90 songs - 4 hr 53 min
 
@@ -17,12 +17,12 @@
 | [Bloody Nose](https://open.spotify.com/track/7q9kMLY1nPqL4fxO4CgKhZ) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Heartwork](https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp) | 3:04 | 2022-09-12 |  |
 | [Blow Me](https://open.spotify.com/track/1vS7jjy99wfMVVC9nzZtX1) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [Jason Aalon Butler](https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl) | [Heartwork](https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp) | 3:20 | 2022-01-17 |  |
 | [Blue and Yellow](https://open.spotify.com/track/32GWSQbpg1Ea1MMvl8HN23) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 3:21 | 2022-01-17 |  |
-| [body bag \(feat\. YUNGBLUD & Bert McCracken of The Used\)](https://open.spotify.com/track/0NZrY7Lc9g6V03hxRpfToV) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [robbietheused](https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0) | [Tickets To My Downfall \(SOLD OUT Deluxe\)](https://open.spotify.com/album/13lMLnHs5qsmm687oRc3VC) | 2:50 | 2022-01-17 |  |
+| [body bag \(feat\. YUNGBLUD & Bert McCracken of The Used\)](https://open.spotify.com/track/0NZrY7Lc9g6V03hxRpfToV) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [robbietheused](https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0) | [Tickets To My Downfall \(SOLD OUT Deluxe\)](https://open.spotify.com/album/13lMLnHs5qsmm687oRc3VC) | 2:50 | 2022-01-17 | 2024-06-15 |
 | [Born to Quit](https://open.spotify.com/track/35GqUDMKUtbuNyh0YQDmtV) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Artwork](https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI) | 3:33 | 2023-04-04 | 2023-04-06 |
 | [Brain Unguent](https://open.spotify.com/track/6YYVHAMbXOyQSgFtSYYRsW) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Heartwork \(Deluxe\)](https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So) | 1:28 | 2022-01-21 | 2022-12-08 |
 | [Bulimic](https://open.spotify.com/track/7F3siFl1KHijy9icZP3Idd) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 3:20 | 2022-03-01 |  |
 | [Buried Myself Alive](https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 4:02 | 2022-01-17 |  |
-| [Burning Down the House](https://open.spotify.com/track/0rzLLXjpITMF8FyBycxwgM) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Transformers: Revenge Of The Fallen The Album](https://open.spotify.com/album/1fqibtpI0bwD73uQGeEnhn) | 3:39 | 2022-01-17 | 2024-06-14 |
+| [Burning Down the House](https://open.spotify.com/track/0rzLLXjpITMF8FyBycxwgM) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Transformers: Revenge Of The Fallen The Album](https://open.spotify.com/album/1fqibtpI0bwD73uQGeEnhn) | 3:39 | 2022-01-17 |  |
 | [Cathedral Bell](https://open.spotify.com/track/55P8hiMTFfvmTXWlB16seg) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Heartwork](https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp) | 3:04 | 2022-01-17 |  |
 | [Cherry](https://open.spotify.com/track/3aQTxgRDETgigJT8zowxL2) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 2:55 | 2023-05-20 | 2024-04-02 |
 | [Choke Me](https://open.spotify.com/track/1oditvPc1cjhCleCocVlhu) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Shallow Believer](https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU) | 2:00 | 2022-01-17 |  |

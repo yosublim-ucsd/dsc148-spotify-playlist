@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-666 songs - 1 day 13 hr 31 min
+667 songs - 1 day 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,6 +341,7 @@
 | [Kill The Choreography](https://open.spotify.com/track/5uCPD62VzJld8n1aHnXAvv) | [Satellite Mode](https://open.spotify.com/artist/1cV2hqt2CbxlRCGh0Pvkij) | [Robots vs\. Party Girls](https://open.spotify.com/album/7HuimoHm8u50Be2WZk8mrb) | 3:10 | 2023-09-23 | 2024-03-02 |
 | [Killing Me](https://open.spotify.com/track/2Lss5tezmIkgZA3GFfptI2) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Killing Me](https://open.spotify.com/album/7l01qix76t2pcJNPTEMA9E) | 3:24 | 2023-11-10 | 2024-04-19 |
 | [Kiss \- Edit](https://open.spotify.com/track/6pldLFN4pLfySELWJwhYxA) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI) | [Kiss](https://open.spotify.com/album/6RW7rkL2TAKGYO3XbIH6Af) | 3:04 | 2022-08-12 | 2022-09-17 |
+| [Kiss Me](https://open.spotify.com/track/2UYNxBhod7KpjKEFlmHm2b) | [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Kiss Me](https://open.spotify.com/album/1RLqpCyfOigWVl2ufmXNGP) | 3:55 | 2024-06-14 |  |
 | [Kiss Me \(feat\. Rina Sawayama\)](https://open.spotify.com/track/7iUvtFAYg293pzSfKNBGlG) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Kiss Me \(feat\. Rina Sawayama\)](https://open.spotify.com/album/3dYzgkq8CgNH72HHYmNfCQ) | 3:21 | 2023-09-29 | 2024-02-10 |
 | [Kissing In the Cold](https://open.spotify.com/track/1hCo51EshXlxroXjvczKgB) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [Kissing In the Cold](https://open.spotify.com/album/1FxQgKsnvnA1zdrwaXmyPA) | 3:54 | 2024-04-19 |  |
 | [Know Me](https://open.spotify.com/track/2KPBSnz8n5lXYXkLauQXa9) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Know Me](https://open.spotify.com/album/6cDPAUnbS6SSY1T8meA0h1) | 3:46 | 2020-10-13\* | 2021-06-19 |
@@ -654,7 +655,7 @@
 | [Window Shopping](https://open.spotify.com/track/1tYBsN62rh9ssKUeam2uKX) | [Yorke](https://open.spotify.com/artist/0fqpHg28DnvRvfJYvJKk8N), [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [Window Shopping](https://open.spotify.com/album/6NXFgZ3pHn8ftXaaT03Trs) | 3:22 | 2021-07-18 | 2022-04-16 |
 | [Winterbreak](https://open.spotify.com/track/4B6BiC4TZUbvXMbrdx2rhq) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:57 | 2020-10-13\* | 2021-06-26 |
 | [Wish You Were Sober](https://open.spotify.com/track/0kn2gu8Pd03DiYHzRvX2Xk) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 2:48 | 2021-07-17 | 2022-02-19 |
-| [With A Smile](https://open.spotify.com/track/26VCyPfEWFecgJSq3SrF4o) | [Maiah Manser](https://open.spotify.com/artist/2SjlJe4MbPmGLwdEBuMrBV) | [With A Smile](https://open.spotify.com/album/0GHIWxvJmJOYTSBrvUK5jp) | 2:56 | 2023-10-06 |  |
+| [With A Smile](https://open.spotify.com/track/26VCyPfEWFecgJSq3SrF4o) | [Maiah Manser](https://open.spotify.com/artist/2SjlJe4MbPmGLwdEBuMrBV) | [With A Smile](https://open.spotify.com/album/0GHIWxvJmJOYTSBrvUK5jp) | 2:56 | 2023-10-06 | 2024-06-15 |
 | [Without You](https://open.spotify.com/track/2xut8LPDhw24tdYG3jfZMp) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz) | [Without You](https://open.spotify.com/album/43KciNLzCz24T9KfXZuPbO) | 3:11 | 2021-06-26 | 2021-07-04 |
 | [Wolf](https://open.spotify.com/track/4g3alZ0okNvZiOWW4pGUpw) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:13 | 2022-09-30 | 2023-09-25 |
 | [working](https://open.spotify.com/track/31sSFHIe4NaxltVFOEIcTa) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [working](https://open.spotify.com/album/4iCcsBlzVQVZoJzxBvhuyS) | 3:30 | 2021-07-04 | 2021-07-10 |

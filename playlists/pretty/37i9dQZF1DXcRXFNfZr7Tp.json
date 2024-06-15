@@ -1,12 +1,12 @@
 {
   "description": "Current favorites and exciting new music. Cover: Becky Hill",
-  "num_followers": 2880241,
+  "num_followers": 2880448,
   "original_name": "just hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmKFwAAAAAAuQYGQBmGrsW9e77/pPmAH",
+  "snapshot_id": "ZmvAQAAAAAATw29TAEBDoe+7kQ1oXPov",
   "tracks": [
     {
       "added_at": "2024-05-31 04:00:00",
@@ -329,6 +329,22 @@
       "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
     },
     {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Look Who's Laughing Now",
+        "url": "https://open.spotify.com/album/3O3FXwwOlzxhWbETL8sfe3"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 174660,
+      "name": "Look Who's Laughing Now",
+      "url": "https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7"
+    },
+    {
       "added_at": "2024-04-26 04:00:00",
       "album": {
         "name": "JESS",
@@ -453,6 +469,22 @@
       "url": "https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe"
     },
     {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "NA",
+        "url": "https://open.spotify.com/album/40gIiI8skJeWU05P7FoIse"
+      },
+      "artists": [
+        {
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        }
+      ],
+      "duration_ms": 162840,
+      "name": "ABCD",
+      "url": "https://open.spotify.com/track/53rB05bAi7JdNbUfgz72I1"
+    },
+    {
       "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "True Colours",
@@ -487,26 +519,6 @@
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Friday",
-        "url": "https://open.spotify.com/album/7syOKNR2x90o9MzqJI91hQ"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        }
-      ],
-      "duration_ms": 208680,
-      "name": "Friday",
-      "url": "https://open.spotify.com/track/03bOA3BAjZiqJOGyFmWYFz"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -653,6 +665,26 @@
       "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
     },
     {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "HEAT",
+        "url": "https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 217529,
+      "name": "HEAT",
+      "url": "https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD"
+    },
+    {
       "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Never Let Go",
@@ -667,22 +699,6 @@
       "duration_ms": 166812,
       "name": "Never Let Go",
       "url": "https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "favorite",
-        "url": "https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 133608,
-      "name": "favorite",
-      "url": "https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -757,28 +773,24 @@
       "url": "https://open.spotify.com/track/6EIMUjQ7Q8Zr2VtIUik4He"
     },
     {
-      "added_at": "2024-04-19 00:00:00",
+      "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Dance Alone (Qing Madi & Nonso Amadi Remix)",
-        "url": "https://open.spotify.com/album/2FjxxvsyNNw6y20KxvxTDa"
+        "name": "Barcelona",
+        "url": "https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN"
       },
       "artists": [
         {
-          "name": "Preston Pablo",
-          "url": "https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5"
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        },
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
         }
       ],
-      "duration_ms": 166617,
-      "name": "Dance Alone - Qing Madi & Nonso Amadi Remix",
-      "url": "https://open.spotify.com/track/3hS56srxJHe84zPZcLx8fO"
+      "duration_ms": 205086,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -855,26 +867,6 @@
       "duration_ms": 159400,
       "name": "exes",
       "url": "https://open.spotify.com/track/0HD8mbiPjp3o94X3EaZp0o"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Never Be Alone",
-        "url": "https://open.spotify.com/album/1sYaWj31p76yMZhspz73yM"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        }
-      ],
-      "duration_ms": 189087,
-      "name": "Never Be Alone",
-      "url": "https://open.spotify.com/track/3WB9r0SqS5ThjK49bDexXe"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1047,30 +1039,6 @@
       "duration_ms": 246813,
       "name": "Worth It.",
       "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "TOO MUCH",
-        "url": "https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 203894,
-      "name": "TOO MUCH",
-      "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1257,6 +1225,26 @@
       "url": "https://open.spotify.com/track/7xusJWTJfFsyNw0SJYICfv"
     },
     {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "You Found Me",
+        "url": "https://open.spotify.com/album/0A4r9XhPvTM5Axc2ctn3Kv"
+      },
+      "artists": [
+        {
+          "name": "Matoma",
+          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
+        },
+        {
+          "name": "SKAAR",
+          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+        }
+      ],
+      "duration_ms": 207619,
+      "name": "You Found Me",
+      "url": "https://open.spotify.com/track/0xr8Vdy7svQMJXicR1XWEt"
+    },
+    {
       "added_at": "2024-04-19 00:00:00",
       "album": {
         "name": "Saving Up",
@@ -1287,22 +1275,6 @@
       "duration_ms": 188010,
       "name": "WOKE UP",
       "url": "https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 182346,
-      "name": "Stick Season",
-      "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1339,54 +1311,6 @@
       "duration_ms": 179517,
       "name": "You're Hired (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/17oeeAxAbZaHIqKpt402KI"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Something On My Mind",
-        "url": "https://open.spotify.com/album/3RnC5qHBCqZ0Ztjriu9H9U"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Duke Dumont",
-          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
-        },
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 216626,
-      "name": "Something On My Mind",
-      "url": "https://open.spotify.com/track/4AX83kHpGolbsCozHtRpJY"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/5LVD82K4oc2aL5dP4rSiRI"
-      },
-      "artists": [
-        {
-          "name": "Todd Edwards",
-          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
-        },
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        },
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
-        }
-      ],
-      "duration_ms": 188307,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/1Rndhv6jSNOtPMddRd0AGT"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1721,22 +1645,6 @@
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "EASY (English ver.)",
-        "url": "https://open.spotify.com/album/5jdhMhfZ5gdaQnLsrFgcw4"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 164546,
-      "name": "EASY (English ver.)",
-      "url": "https://open.spotify.com/track/3y5nzCgwQPoaYWTdoKxWTo"
-    },
-    {
       "added_at": "2024-04-26 04:00:00",
       "album": {
         "name": "ONE",
@@ -1845,6 +1753,22 @@
       "url": "https://open.spotify.com/track/74CA9T8IpFzrLNFV6EoY3a"
     },
     {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "No Hard Feelings",
+        "url": "https://open.spotify.com/album/5FLuHwbit7X3hXqXB1j6Mb"
+      },
+      "artists": [
+        {
+          "name": "Leigh-Anne",
+          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+        }
+      ],
+      "duration_ms": 166664,
+      "name": "Nature",
+      "url": "https://open.spotify.com/track/7o1OfwR349jSAodpOdTnlG"
+    },
+    {
       "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "IL0V3Y0U",
@@ -1859,22 +1783,6 @@
       "duration_ms": 163567,
       "name": "IL0V3Y0U",
       "url": "https://open.spotify.com/track/0MdcE5oHji8C8XCJCR5o3z"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Talaarawan",
-        "url": "https://open.spotify.com/album/2eT1XApzS0GmkJLMlCBdVv"
-      },
-      "artists": [
-        {
-          "name": "BINI",
-          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
-        }
-      ],
-      "duration_ms": 230218,
-      "name": "Salamin, Salamin",
-      "url": "https://open.spotify.com/track/1iIJtD9hkzw4ZHfR7ND9yb"
     },
     {
       "added_at": "2024-04-05 04:01:00",

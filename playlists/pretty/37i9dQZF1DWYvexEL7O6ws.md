@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvexEL7O6ws.md) - [plain]
 
 ### [This Is OVO Sound](https://open.spotify.com/playlist/37i9dQZF1DWYvexEL7O6ws)
 
-> The label's essential tracks by Drake, PARTYNEXTDOOR, Naomi Sharon, Roy Woods, dvsn, and more\. Cover: <a href="spotify:artist:3TVXtAsR1Inumwj472S9r4">Drake</a> and Noah "40" Shebib
+> The label's essential tracks by Drake, Naomi Sharon, Roy Woods, dvsn and more\. Cover: <a href="spotify:artist:2HPaUgqeutzr3jx5a9WyDV">PARTYNEXTDOOR</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,359 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,387 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvexEL7O6ws.md) - [plain]
 | 99 | [Fake Love](https://open.spotify.com/track/343YBumqHu19cGoGARUTsd) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 3:30 |
 | 100 | [Best I Ever Had](https://open.spotify.com/track/3fyMH1t6UPeR5croea9PrR) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [So Far Gone](https://open.spotify.com/album/61NNWRxokNUQx0aYysBL76) | 4:17 |
 
-Snapshot ID: `Zmc0XQAAAADbaN+PxaAW4vA6vRznVcTa`
+Snapshot ID: `Zmxx5gAAAACj9O91lcDB1HgSx9WgbMd6`

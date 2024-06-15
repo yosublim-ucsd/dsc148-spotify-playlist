@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All Ok
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,143 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,144 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mariyade Prashne](https://open.spotify.com/track/3OZQYVkVo0CEk3SJscqYOP) | [Allok](https://open.spotify.com/artist/2hjcMGEhozNvrTSFHeCWWk) | [Mariyade Prashne](https://open.spotify.com/album/0sTfJL18ftxj2ZzAL2Rptw) | 2:39 |
+| 1 | [Maryade Prashne](https://open.spotify.com/track/3OZQYVkVo0CEk3SJscqYOP) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Maryade Prashne](https://open.spotify.com/album/0sTfJL18ftxj2ZzAL2Rptw) | 2:39 |
 | 2 | [Sakkare Chakori \- Kannada \(feat\. Bela Fleck\)](https://open.spotify.com/track/4IB9wfkGxPOLF4br2rPZvp) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Kiran Kaverappa](https://open.spotify.com/artist/6V4kCkZTtVLAlQz9DKSWc9), [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU) | [Sakkare Chakori \- Kannada \(feat\. Bela Fleck\)](https://open.spotify.com/album/5e2iPdKcYMiG6dJxNr356c) | 4:55 |
 | 3 | [I'M Believer](https://open.spotify.com/track/3KuefA47wSyDNFbFDDOdSJ) | [Ravi Basrur](https://open.spotify.com/artist/2WpKIaiVSpiMSF4gYBZrdE), [Santhosh Venky](https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q), [Airaa Udupi](https://open.spotify.com/artist/1zlUAFoQSKwMdElF0UiiPR) | [I'M Believer](https://open.spotify.com/album/3SGKp99q4VXCUmINWQWqKf) | 3:29 |
-| 4 | [HANTHAKA](https://open.spotify.com/track/5qFoxl74w8PJnjkr9tEGB3) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [HANTHAKA](https://open.spotify.com/album/72pk8t3PDGDUXyfPXONskX) | 2:34 |
+| 4 | [HANTHAKA](https://open.spotify.com/track/5qFoxl74w8PJnjkr9tEGB3) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ), [Carnival Crooks](https://open.spotify.com/artist/4wm3ZRKCCxFf9g4Vd5IN2q) | [HANTHAKA](https://open.spotify.com/album/72pk8t3PDGDUXyfPXONskX) | 2:34 |
 | 5 | [Prabhata](https://open.spotify.com/track/1QqwgZXjOjK8mMXqHtU9eF) | [Sumedh K](https://open.spotify.com/artist/5SSjbuLdyRS8iGfETzC4Sz), [Maharshi Vishwamitra](https://open.spotify.com/artist/4rkwNV7E2Um36KSbvWVu8X) | [Kolahala](https://open.spotify.com/album/0hnQ84XGDpWc5Gp1voTCCS) | 1:09 |
 | 6 | [Hey Hudugi](https://open.spotify.com/track/0mnJiv632SWqhGLWBF5CqY) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Hey Hudugi](https://open.spotify.com/album/5b8NzCPa17gUURnPMhCcr8) | 3:11 |
 | 7 | [5 Sonne](https://open.spotify.com/track/5SVDYs73KClBu5QUN4UzVd) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [5 Sonne](https://open.spotify.com/album/0ZOs6YDIZGoyYFvQsjxcKl) | 1:23 |

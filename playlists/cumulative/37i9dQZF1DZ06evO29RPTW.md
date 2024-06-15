@@ -2,9 +2,9 @@
 
 ### [This Is Rob Zombie](https://open.spotify.com/playlist/37i9dQZF1DZ06evO29RPTW)
 
-> This Is Rob Zombie\. Los temas esenciales, todos en una lista.
+> This is Rob Zombie\. The essential tracks, all in one playlist.
 
-71 songs - 4 hr 2 min
+73 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Demonoid Phenomenon](https://open.spotify.com/track/5sbydPPvDB7fJ1uDo8X6nB) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 4:11 | 2022-05-30 |  |
 | [Dragula](https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 3:42 | 2022-05-30 |  |
 | [Electric Head, Pt\. 1 \(The Agony\) \- Live At Riot Fest / 2016](https://open.spotify.com/track/416cfwP0IYFWPtxzawa1iZ) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Astro\-Creep: 2000 Live \- Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head \(Live At Riot Fest\)](https://open.spotify.com/album/0gUwZR11HJJYAHo47RGvsY) | 5:13 | 2022-05-30 | 2022-10-13 |
-| [Everybody Scream \- From "House Of 1000 Corpses" Soundtrack](https://open.spotify.com/track/60J3svXDePAmdfbXOOUaSJ) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [House Of 1000 Corpses](https://open.spotify.com/album/6QhbmjcoVkxAFGvFSPpTVF) | 2:36 | 2022-05-30 | 2024-06-14 |
+| [Everybody Scream \- From "House Of 1000 Corpses" Soundtrack](https://open.spotify.com/track/60J3svXDePAmdfbXOOUaSJ) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [House Of 1000 Corpses](https://open.spotify.com/album/6QhbmjcoVkxAFGvFSPpTVF) | 2:36 | 2022-05-30 |  |
 | [Expanding the Head of Zed](https://open.spotify.com/track/625Ju6qdFZFspYHeoM0BVe) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Lunar Injection Kool Aid Eclipse Conspiracy](https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e) | 0:54 | 2022-10-31 | 2022-12-08 |
 | [Feel So Numb](https://open.spotify.com/track/6KnNDix4Owr4vNmsPhLmxD) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Sinister Urge](https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I) | 3:53 | 2022-05-30 |  |
 | [Foxy, Foxy](https://open.spotify.com/track/61u3kwCoVSdYc8DH7JQZlN) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Educated Horses](https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY) | 3:28 | 2022-10-12 |  |
@@ -54,7 +54,8 @@
 | [Scum Of The Earth](https://open.spotify.com/track/2qrxKk3y85UpaNcI07LPn9) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Sinister Urge](https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I) | 2:55 | 2022-05-30 |  |
 | [Shadow of the Cemetery Man](https://open.spotify.com/track/6AE0zfXVuVX6iD06Cl58e6) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Lunar Injection Kool Aid Eclipse Conspiracy](https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e) | 3:14 | 2024-03-16 |  |
 | [Shake Your Ass\-Smoke Your Grass](https://open.spotify.com/track/5yTlL7L9jaUM3vmNLoLSOc) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Lunar Injection Kool Aid Eclipse Conspiracy](https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e) | 3:10 | 2022-07-08 |  |
-| [Sick Bubblegum](https://open.spotify.com/track/1cbNBIrRWP4PlJeyjb7ZmT) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe 2 \(Special Edition\)](https://open.spotify.com/album/1lRP2viDsQVnL5FZwTsFwB) | 3:44 | 2022-05-30 |  |
+| [Sick Bubblegum](https://open.spotify.com/track/1cbNBIrRWP4PlJeyjb7ZmT) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe 2 \(Special Edition\)](https://open.spotify.com/album/1lRP2viDsQVnL5FZwTsFwB) | 3:44 | 2022-05-30 | 2024-06-15 |
+| [Sick Bubblegum](https://open.spotify.com/track/3Y1TE5Robqc8DX353CYkHn) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe 2 \(Standard Explicit\)](https://open.spotify.com/album/2A0kUx4CPy9IwsKoVA3Ora) | 3:44 | 2024-06-15 |  |
 | [Spookshow Baby](https://open.spotify.com/track/1NJbYkBhZhcsAVvabqgo08) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 3:38 | 2022-10-12 |  |
 | [Stuck In The Mud \- From "House Of 1000 Corpses" Soundtrack](https://open.spotify.com/track/51Ud7nqBTZncq5ev73ReBL) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [House Of 1000 Corpses](https://open.spotify.com/album/6QhbmjcoVkxAFGvFSPpTVF) | 1:16 | 2022-05-30 | 2022-10-13 |
 | [Superbeast](https://open.spotify.com/track/4eNnMvUrSu2TRpySjVC0Pv) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 3:40 | 2022-05-30 |  |
@@ -75,9 +76,10 @@
 | [Two\-Lane Blacktop](https://open.spotify.com/track/4VIM6bcYnJZsrmIOAbWoxF) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Past, Present & Future](https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz) | 3:02 | 2022-05-30 |  |
 | [Well, Everybody's Fucking In A U.F.O.](https://open.spotify.com/track/3KAS4vmuvRGP2BUQcxmu5i) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser](https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K) | 2:43 | 2022-05-30 |  |
 | [Werewolf Women of the SS](https://open.spotify.com/track/2NakapiJVH4YULWTS0rxoN) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe 2 \(Special Edition\)](https://open.spotify.com/album/1lRP2viDsQVnL5FZwTsFwB) | 3:01 | 2022-06-09 | 2022-08-05 |
-| [Werewolf, Baby!](https://open.spotify.com/track/7fv6wqJX3Mnu7z1dj7i0Ca) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe 2 \(Special Edition\)](https://open.spotify.com/album/1lRP2viDsQVnL5FZwTsFwB) | 3:59 | 2022-05-30 |  |
+| [Werewolf, Baby!](https://open.spotify.com/track/7fv6wqJX3Mnu7z1dj7i0Ca) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe 2 \(Special Edition\)](https://open.spotify.com/album/1lRP2viDsQVnL5FZwTsFwB) | 3:59 | 2022-05-30 | 2024-06-15 |
 | [We’re An American Band](https://open.spotify.com/track/52XSq4ZU4Wu3IZ2wcaBhhD) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Venomous Rat Regeneration Vendor](https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6) | 3:29 | 2022-05-30 |  |
-| [What?](https://open.spotify.com/track/5gZ8nTiDCrI6IIk447z04i) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe 2 \(Special Edition\)](https://open.spotify.com/album/1lRP2viDsQVnL5FZwTsFwB) | 2:47 | 2022-05-30 |  |
+| [What?](https://open.spotify.com/track/5gZ8nTiDCrI6IIk447z04i) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe 2 \(Special Edition\)](https://open.spotify.com/album/1lRP2viDsQVnL5FZwTsFwB) | 2:47 | 2022-05-30 | 2024-06-15 |
+| [What?](https://open.spotify.com/track/7LfCxBT8PCrWc62KweFhX5) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe 2 \(Standard Explicit\)](https://open.spotify.com/album/2A0kUx4CPy9IwsKoVA3Ora) | 2:47 | 2024-06-15 |  |
 | [Wurdalak](https://open.spotify.com/track/58DYA2LQJEUgIFJamK7npK) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser](https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K) | 5:30 | 2022-06-15 | 2022-10-06 |
 
 \*This playlist was first scraped on 2022-05-31. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-614 songs - 1 day 19 hr 1 min
+615 songs - 1 day 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -468,6 +468,7 @@
 | [Shallow Affect](https://open.spotify.com/track/5RO7GtG2ce6um3qPnAKiBb) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z), [Ebb](https://open.spotify.com/artist/4IawKApxht48ov22AEpzqH) | [Shallow Affect](https://open.spotify.com/album/2QZwnkS9fOtZ2mqNh5Yw5S) | 4:58 | 2022-10-07 | 2022-10-15 |
 | [Shaolin](https://open.spotify.com/track/2lFtQc1PhJw5w8az7tvWA7) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv) | [Shaolin](https://open.spotify.com/album/4LVR6xfH1HRQAn1jOZflxi) | 4:36 | 2022-04-08 |  |
 | [Shegry](https://open.spotify.com/track/65QWiFvyFsLgfbG2ZXozNX) | [Regents](https://open.spotify.com/artist/4BmXLF6dxW3qdkKPL8zthd), [Cartridge](https://open.spotify.com/artist/6Z9jFhogCbjbbzlHlE2MIn), [Strategy](https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3) | [Shegry](https://open.spotify.com/album/52FuZ7LCpIb0ASm79pa51Z) | 2:51 | 2022-02-17 | 2023-08-30 |
+| [Shenlong](https://open.spotify.com/track/5f9lGdQdpuJLCINacT7AEZ) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv) | [Shenlong](https://open.spotify.com/album/4Mf48UyRaaOgMBsaFr2CXf) | 3:46 | 2024-06-14 |  |
 | [Shibuya Pet Store \- Trinist Remix](https://open.spotify.com/track/0INax65LOWWVlQCXh0i82i) | [The Upbeats](https://open.spotify.com/artist/5fbq6W6HAncSYaFtlQi7fF), [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY), [Trinist](https://open.spotify.com/artist/6XTrviAQeBuCkWgDenoiId) | [The Resonance VII](https://open.spotify.com/album/5SjR0EUzWxrlNFLgfwbUJq) | 3:51 | 2024-04-26 |  |
 | [Shifter VIP](https://open.spotify.com/track/0zD8Z5tdwFQrwSXOZdUEPO) | [Kloudmen](https://open.spotify.com/artist/2yH2SOYAsueJEvrdTXyiRs) | [Shifter VIP](https://open.spotify.com/album/4a2sKvraE5XS38zKSfQ1gm) | 3:46 | 2022-02-17 | 2022-10-01 |
 | [SHOWSTARTER](https://open.spotify.com/track/6dpxnEBNTC0xU1eoF1dc98) | [jordnmoody](https://open.spotify.com/artist/5WUJ0HwckdD0XHPz9EQ2XU) | [SHOWSTARTER](https://open.spotify.com/album/4Yvgt4KAlmsWctFpdXpsmL) | 2:53 | 2022-09-09 | 2022-09-16 |
@@ -592,7 +593,7 @@
 | [VTRN](https://open.spotify.com/track/3S9ibhJKqpdBfBSDFaCQv4) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [VTRN](https://open.spotify.com/album/3m5zP3S9CyQqJvbjINGvMI) | 5:02 | 2022-04-22 | 2022-10-08 |
 | [Wanchai](https://open.spotify.com/track/5TOrZM4bLcvrJSRSeSGO4y) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv), [Jianbo](https://open.spotify.com/artist/2gSfXIHv6LgFJ94mUrgXft) | [Wanchai](https://open.spotify.com/album/0KxrYioG8RSZf2YK6ntuOb) | 3:46 | 2023-09-22 |  |
 | [War \- Truth Remix](https://open.spotify.com/track/0u6O7D2ou9cXGANFxM0XIo) | [Widow](https://open.spotify.com/artist/2xZXFkZ3aBGqyuhZrmgvse), [Logan](https://open.spotify.com/artist/7uyQOsktLn9VjGJg5KO9Ek), [Truth](https://open.spotify.com/artist/0ZDCCJSvjcdJZH9hOl1uYc) | [War \(Truth Remix\)](https://open.spotify.com/album/6GKQS093OPPoORbtWAtPSt) | 4:00 | 2024-04-19 | 2024-05-18 |
-| [Warrior Mentality](https://open.spotify.com/track/5u0QpOpQl3hyakqr3rb3SE) | [Subtle Mind](https://open.spotify.com/artist/37o1xku99QSw8IHyTRDfHB), [Saule](https://open.spotify.com/artist/7oCas0sTR8sRH5lrOed0E8) | [Chiefin EP](https://open.spotify.com/album/5S3QraJnSF025N9KNuwYxs) | 3:42 | 2022-02-17 |  |
+| [Warrior Mentality](https://open.spotify.com/track/5u0QpOpQl3hyakqr3rb3SE) | [Subtle Mind](https://open.spotify.com/artist/37o1xku99QSw8IHyTRDfHB), [Saule](https://open.spotify.com/artist/7oCas0sTR8sRH5lrOed0E8) | [Chiefin EP](https://open.spotify.com/album/5S3QraJnSF025N9KNuwYxs) | 3:42 | 2022-02-17 | 2024-06-15 |
 | [wassup](https://open.spotify.com/track/73iD1rBBjPjQvFOFe2fM21) | [sfam](https://open.spotify.com/artist/571ojpVCIGwAp4c1LV8yxI), [HerShe](https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J) | [wassup](https://open.spotify.com/album/4D4Xqyr5rLNnzK14GvGTeu) | 2:43 | 2024-03-22 | 2024-06-10 |
 | [Watching From A Distance](https://open.spotify.com/track/7fP6evA1EQzB1tpfbPk9ml) | [Esseks](https://open.spotify.com/artist/27mChCxMpfmLnXhdD07DLZ) | [Watching From A Distance](https://open.spotify.com/album/0W7MdF4x84CqjlHC3RiyIq) | 2:33 | 2022-02-17 | 2023-04-27 |
 | [Wayside](https://open.spotify.com/track/2Qr5YvcqnPtLyhtFuLxluD) | [Hebbe](https://open.spotify.com/artist/5ZkVhiQlO1pdKjtysy3Nrn), [Melle](https://open.spotify.com/artist/71W7FEPaF2yyFETscZpIN8), [MR.K](https://open.spotify.com/artist/75V7zNfB94p5PQ3qnQf47G) | [DUPPLATES Vol\. 1](https://open.spotify.com/album/4H1G1EejuL3DlqI1rJAC0R) | 4:51 | 2022-02-17 | 2022-07-29 |

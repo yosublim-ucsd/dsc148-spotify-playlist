@@ -4,7 +4,7 @@
 
 > Le meilleur de la scène alternative québécoise actuelle\. Photo: BéLi
 
-192 songs - 11 hr 15 min
+193 songs - 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Où est?](https://open.spotify.com/track/17iQ6UIeisPmIHX8fuMSYo) | [Les Lunatiques](https://open.spotify.com/artist/5i6jPkyXixJNovFvLyIRa1) | [Où est?](https://open.spotify.com/album/7CYFUg1UP2PZZ2zoIQkp2d) | 4:31 | 2024-04-19 |  |
 | [Par tes yeux](https://open.spotify.com/track/76aPttv2SeNCJVP0N8hciJ) | [Zoo Baby](https://open.spotify.com/artist/5cwwkrAy5dg58se1CLKuFO) | [Zoo Baby](https://open.spotify.com/album/0Pq1sFQdyRea7Avv570y7T) | 3:23 | 2023-02-10 | 2023-03-13 |
 | [Paradis City](https://open.spotify.com/track/3iT4c9MPnaordWrfvTs8MU) | [Jean Leloup](https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd) | [À Paradis City](https://open.spotify.com/album/0MkliQZ4wrP9drFqtjHVV0) | 2:48 | 2023-02-10 |  |
-| [Parfaite à l'écran](https://open.spotify.com/track/7mITLNL1Dg0SZXL4PHG4Y5) | [Karkwa](https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ) | [Parfaite à l'écran](https://open.spotify.com/album/1JY36zZ5pcZurWXM7wo6fP) | 2:48 | 2023-05-19 |  |
+| [Parfaite à l'écran](https://open.spotify.com/track/7mITLNL1Dg0SZXL4PHG4Y5) | [Karkwa](https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ) | [Parfaite à l'écran](https://open.spotify.com/album/1JY36zZ5pcZurWXM7wo6fP) | 2:48 | 2023-05-19 | 2024-06-15 |
 | [Pas très perspicace](https://open.spotify.com/track/2KfzBQtWlCgDsMiHP4twzK) | [Xela Edna](https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS), [Eius Echo](https://open.spotify.com/artist/5HKktNgsAXBcjWG4frwBmE) | [Pas très perspicace](https://open.spotify.com/album/1gw4tw7bxZnVxGlICTOsCi) | 2:34 | 2024-01-26 |  |
 | [Personne proximité](https://open.spotify.com/track/7G13wfd0wZwJmsQKtqMAfx) | [CRABE](https://open.spotify.com/artist/7fOsYKtUW8t7EVXpohPmSv), [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [Visite du temple inné](https://open.spotify.com/album/4VXFe4n0b6ufCwbtIUxrMM) | 3:26 | 2023-12-08 | 2024-03-16 |
 | [Petit canari](https://open.spotify.com/track/300OkUCUMwKO8tNjoWORP0) | [Radiant Baby](https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM) | [Petit canari](https://open.spotify.com/album/1QiOn6KM23NyBfu4voBV1s) | 2:44 | 2023-09-08 | 2023-12-05 |
@@ -146,6 +146,7 @@
 | [Politesse](https://open.spotify.com/track/6REpTzDy5aTw1W5rEGWKWV) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Politesse](https://open.spotify.com/album/6Ol7V8RECBrqsadRzK252I) | 3:07 | 2023-05-19 | 2023-10-05 |
 | [Pour ne pas mourir en hiver](https://open.spotify.com/track/1tSgGqtkvQ1hIem3GPF3gj) | [Olivier Faubert](https://open.spotify.com/artist/7MtaiRiCaon9iTg2dfHC45) | [Pour ne pas mourir en hiver](https://open.spotify.com/album/5JqyureBGsQjdZzvWqa8cm) | 5:57 | 2024-01-26 | 2024-03-06 |
 | [Pourquoi qu'on dort pas](https://open.spotify.com/track/0e2zBjXM7NfhB780xyNhWX) | [Population II](https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd) | [Pourquoi qu'on dort pas](https://open.spotify.com/album/0TBfTbNl7lbI36jDQmivjg) | 5:21 | 2023-10-06 | 2023-10-21 |
+| [Pretty Privilege \(feat\. Emma Beko\)](https://open.spotify.com/track/0O16BMpkbPWHGgbdUk3tG8) | [Xela Edna](https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS), [Eius Echo](https://open.spotify.com/artist/5HKktNgsAXBcjWG4frwBmE), [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [Pretty Privilege \(feat\. Emma Beko\)](https://open.spotify.com/album/1yrdOeCzid2nTGKUpnVHos) | 3:02 | 2024-06-14 |  |
 | [R.B.](https://open.spotify.com/track/6YMG5XbVgKUdVIrMaFr8J5) | [Population II](https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd) | [R.B.](https://open.spotify.com/album/7xZKrE00O2cUzItOtQ2oPU) | 4:49 | 2024-03-15 | 2024-04-19 |
 | [Razz](https://open.spotify.com/track/7pvzD6IH4mQiPCviN6W42v) | [Ev Bird](https://open.spotify.com/artist/5ZLnYZBRZimCRU1vJzzGsI) | [Razz](https://open.spotify.com/album/17aE8q34Jq6gYImpF2O4g5) | 2:35 | 2023-09-08 | 2024-03-01 |
 | [Rock & roll sur ton chemin](https://open.spotify.com/track/7Aez89dhpMN39MgmFk9d6K) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Rock & roll sur ton chemin](https://open.spotify.com/album/26i7XLkOPTGFz061Ntro8p) | 3:58 | 2023-02-10 | 2023-08-21 |

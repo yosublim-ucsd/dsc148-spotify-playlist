@@ -144,7 +144,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 159141,
       "name": "11pm In London",
       "url": "https://open.spotify.com/track/37G5FXIufiiSVGbBa4J9Os"
@@ -840,6 +840,32 @@
       "duration_ms": 192000,
       "name": "Act Bad",
       "url": "https://open.spotify.com/track/1Bgga0poKKUZftx5p8b16y"
+    },
+    {
+      "album": {
+        "name": "act bad twin! (feat. Cash Cobain & Bay Swag)",
+        "url": "https://open.spotify.com/album/50fHLT2601AXZyUCfOosVB"
+      },
+      "artists": [
+        {
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        },
+        {
+          "name": "Bay Swag",
+          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217244,
+      "name": "act bad twin! (feat. Cash Cobain & Bay Swag)",
+      "url": "https://open.spotify.com/track/1cLjq1FaPI8naEB5xElkFk"
     },
     {
       "album": {
@@ -1560,7 +1586,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 171626,
       "name": "Bad Breed (feat. Sleepy Hallow)",
       "url": "https://open.spotify.com/track/4MTulquGklWpFeOaco1Uv5"
@@ -2102,7 +2128,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 139840,
       "name": "Better Off Alone",
       "url": "https://open.spotify.com/track/2y5ufPCn1z5JRTWuUB2b4C"
@@ -2576,7 +2602,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 188421,
       "name": "Blick (feat. NLE Choppa) - Remix",
       "url": "https://open.spotify.com/track/6W5l0WMb1BTvUsYmVfywco"
@@ -6030,7 +6056,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-25",
+      "date_removed": null,
       "duration_ms": 196962,
       "name": "Dunk Contest",
       "url": "https://open.spotify.com/track/4GP9jcPbHlpu9v1lezfi8V"
@@ -8738,7 +8764,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 234421,
       "name": "Grippy",
       "url": "https://open.spotify.com/track/2dfnX2aizo1CGP8iHh2U8G"
@@ -9254,6 +9280,24 @@
       "duration_ms": 162324,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/7K8AQuuMKWXttVEQun0Bk1"
+    },
+    {
+      "album": {
+        "name": "HOMICIDE",
+        "url": "https://open.spotify.com/album/3wOQrAZ0N4BoGZsdUiSDUt"
+      },
+      "artists": [
+        {
+          "name": "22Gz",
+          "url": "https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163291,
+      "name": "HOMICIDE",
+      "url": "https://open.spotify.com/track/47xzsCqltvufOz3Z3iGbQh"
     },
     {
       "album": {
@@ -11598,7 +11642,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 198352,
       "name": "LIGHTS OUT",
       "url": "https://open.spotify.com/track/4WWTcYV2tlGm7KwfPpXgLb"
@@ -11674,7 +11718,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 136400,
       "name": "Like What (Freestyle)",
       "url": "https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD"
@@ -14384,7 +14428,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 165225,
       "name": "Nourish a Thug",
       "url": "https://open.spotify.com/track/3a3IVG5G7EH6w2mAyxNIOV"
@@ -15076,6 +15120,24 @@
       "duration_ms": 118615,
       "name": "Outside",
       "url": "https://open.spotify.com/track/5HUxZN7PuTML2SkJnBuP5a"
+    },
+    {
+      "album": {
+        "name": "OUTSIDE",
+        "url": "https://open.spotify.com/album/0QJGvfr6KBjXMhWPwU5OUO"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174859,
+      "name": "OUTSIDE",
+      "url": "https://open.spotify.com/track/7HKSujrwU73rKWqJbPKvB0"
     },
     {
       "album": {
@@ -17216,7 +17278,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 189011,
       "name": "RIOT (Rowdy Pipe'n)",
       "url": "https://open.spotify.com/track/0B1xarnfKvUFWUoFdQnooq"
@@ -18241,6 +18303,24 @@
     },
     {
       "album": {
+        "name": "She's Hot",
+        "url": "https://open.spotify.com/album/2XFM7SGRSMPrgQkb8tLFBF"
+      },
+      "artists": [
+        {
+          "name": "ScarLip",
+          "url": "https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146600,
+      "name": "She's Hot",
+      "url": "https://open.spotify.com/track/5FDa2oOuhGQPCMhWhoSCty"
+    },
+    {
+      "album": {
         "name": "Dennis Daughter (Deluxe Version)",
         "url": "https://open.spotify.com/album/3ey0JVQZp7VBFWHEs7z6X1"
       },
@@ -18610,7 +18690,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 159184,
       "name": "Skyami",
       "url": "https://open.spotify.com/track/6sTMOXXZaJSWSMVy8fx2Js"
@@ -19734,7 +19814,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 216456,
       "name": "Superstar Moviestar (feat. Kyle Richh)",
       "url": "https://open.spotify.com/track/4K4nyT9m1hz5bOHnajdxOi"
@@ -19756,6 +19836,24 @@
       "duration_ms": 352613,
       "name": "Survivors Guilt",
       "url": "https://open.spotify.com/track/5cEd8xWXyqhpuCDUXQOyE3"
+    },
+    {
+      "album": {
+        "name": "SUVY THEATERS",
+        "url": "https://open.spotify.com/album/1hhVyW4Otx5eMHxqWETkH7"
+      },
+      "artists": [
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148676,
+      "name": "SUVY THEATERS",
+      "url": "https://open.spotify.com/track/6FTZImGnoJO5I8eq6XmDOU"
     },
     {
       "album": {
@@ -22426,7 +22524,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 173400,
       "name": "White Girl (feat. Val)",
       "url": "https://open.spotify.com/track/1cLIV4e0o9L1G9F4JFeP4B"

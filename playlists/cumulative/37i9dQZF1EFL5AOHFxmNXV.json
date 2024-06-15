@@ -1041,6 +1041,28 @@
     },
     {
       "album": {
+        "name": "Mac & Cheese 5",
+        "url": "https://open.spotify.com/album/5eNbrlazXci6OR5uQeFfV3"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217358,
+      "name": "Goals",
+      "url": "https://open.spotify.com/track/02Tv2Vowd6Dh2ctsY8CGv8"
+    },
+    {
+      "album": {
         "name": "ULTRAVIOLET",
         "url": "https://open.spotify.com/album/75LxF9bnfpeimog46qoQJl"
       },

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/2BvXXHZ3Hx4pS5OacZMVKc.md) - [plain]
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 135,730 likes - 107 songs - 5 hr 42 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 135,720 likes - 107 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Vida Nova](https://open.spotify.com/track/23E61Q0ABWtFFvLnjLmdqO) | [Emin Nilsen](https://open.spotify.com/artist/59TVoD6bvD2JFs9xLZH9bX) | [Vida Nova](https://open.spotify.com/album/1HwnKFaOeS5dEpkmzrMc1Y) | 1:56 |
+| 1 | [DELTA](https://open.spotify.com/track/5NcT6HWiBiETs1mTFYXR1U) | [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe) | [DELTA](https://open.spotify.com/album/6jrRtiZ11ETv5ercTeB2gH) | 2:52 |
 | 2 | [Fell For A Demon](https://open.spotify.com/track/3PXwHjw3Y5DuCAVUONVaSj) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [LINKER](https://open.spotify.com/artist/0THtcraqLXBsPUaZrCZIs6) | [Fell For A Demon](https://open.spotify.com/album/1KVLNWGRRiT6hc15O05rdy) | 4:03 |
-| 3 | [Pushing On](https://open.spotify.com/track/2eK7XCveaHytVpdCdzVwtp) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Pushing On](https://open.spotify.com/album/1nzC7RjhJACSYcI7KCqenG) | 2:28 |
-| 4 | [Throne](https://open.spotify.com/track/1DbjGwT77l5Ph0N89lo8Hy) | [Tomatow](https://open.spotify.com/artist/1FzBO5erQh8xC6qT6tY3tO), [SagaB](https://open.spotify.com/artist/7hSyeMWPot9g32PhU808zU), [Adam Putra](https://open.spotify.com/artist/1PdEYf0awBJvZHoOJu0LtS) | [Throne](https://open.spotify.com/album/6Bfrj9X2sXA8omh8yW5uVi) | 3:20 |
+| 3 | [Throne](https://open.spotify.com/track/1DbjGwT77l5Ph0N89lo8Hy) | [Tomatow](https://open.spotify.com/artist/1FzBO5erQh8xC6qT6tY3tO), [SagaB](https://open.spotify.com/artist/7hSyeMWPot9g32PhU808zU), [Adam Putra](https://open.spotify.com/artist/1PdEYf0awBJvZHoOJu0LtS) | [Throne](https://open.spotify.com/album/6Bfrj9X2sXA8omh8yW5uVi) | 3:20 |
+| 4 | [Pushing On](https://open.spotify.com/track/2eK7XCveaHytVpdCdzVwtp) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Pushing On](https://open.spotify.com/album/1nzC7RjhJACSYcI7KCqenG) | 2:28 |
 | 5 | [WHAT](https://open.spotify.com/track/7gPFNOXap9pXQpHHYNFQRI) | [Jonth](https://open.spotify.com/artist/461fWLhyGb1giJaTUEPpWt) | [WHAT](https://open.spotify.com/album/05K4uCusOkFEIGFCdfQYvo) | 3:44 |
 | 6 | [Feel Like](https://open.spotify.com/track/5Oji8AVm2hDRqs0hTgKJUc) | [Aix Cee](https://open.spotify.com/artist/7gyRTQclDoJrMHMNfSuSUe) | [Feel Like](https://open.spotify.com/album/2gycRsICkZ2zZlXda4YXA6) | 2:51 |
 | 7 | [Vienna](https://open.spotify.com/track/6Mb6rfn9rQkAKUIIo8ZtKU) | [James Mercy](https://open.spotify.com/artist/6RJbFqgnnHvQcq8TGdCIn2), [PhiloSofie](https://open.spotify.com/artist/5Mvx3dMV17trz9HTdF2AkQ) | [Vienna](https://open.spotify.com/album/1mP6fGKWD1xGXHA3kUR43N) | 3:33 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/2BvXXHZ3Hx4pS5OacZMVKc.md) - [plain]
 | 106 | [Over It](https://open.spotify.com/track/4Qx4kYkwuXMZjLd3aRS0ot) | [Idle Days](https://open.spotify.com/artist/6wx2DYiNYOG3HGQYQSBb9j) | [Over It](https://open.spotify.com/album/1PBGk50F3o9bkJUpJpI9zt) | 3:27 |
 | 107 | [Dynamiser](https://open.spotify.com/track/1nruXXU3erq3cQvs8v2FCv) | [Outlandr](https://open.spotify.com/artist/3rEAjEIr7devKI01WDprkl), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Eternity](https://open.spotify.com/album/0VKsGtPK6AupzW1IvsiEjh) | 4:10 |
 
-Snapshot ID: `AAALl0JxL4baLDvAq2EM9W2UvkHBlPL6`
+Snapshot ID: `AAALoA8JEmUCVmXyjMqKxrSYKfHaGGdP`

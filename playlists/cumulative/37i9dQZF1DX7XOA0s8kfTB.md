@@ -4,7 +4,7 @@
 
 > Music from “Girls Band Cry” / アニメ『<a href="https://girls\-band\-cry.com/">ガールズバンドクライ</a>』を彩る数々の楽曲達がここに。怒りも喜びも哀しさも全部ぶちこめ。  ©東映アニメーション
 
-38 songs - 1 hr 42 min
+41 songs - 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Ba\. ルパ ボイスメッセージ](https://open.spotify.com/track/0SFw1KwH6ltFqzrhST2hGs) | [「ガールズバンドクライ」](https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1) | [Ba\. ルパ ボイスメッセージ](https://open.spotify.com/album/0IxVu1A7uA7WTCHJcOuHAm) | 1:01 | 2024-04-04 | 2024-04-06 |
 | [Ba\. ルパ ボイスメッセージ](https://open.spotify.com/track/19jDmN4iPdxdKIgnAQkRqC) | [「ガールズバンドクライ」](https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1) | [Ba\. ルパ ボイスメッセージ](https://open.spotify.com/album/7gk75EjUFhKFdRWPsF4HU1) | 1:01 | 2024-04-06 |  |
 | [Bleeding Hearts](https://open.spotify.com/track/6XjjysW84F31LxB5GDVbZ8) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Bleeding Hearts](https://open.spotify.com/album/55YkdMjpfnqPo2zIFux1BJ) | 3:41 | 2024-04-04 | 2024-04-19 |
+| [Cycle Of Sorrow](https://open.spotify.com/track/4kR9zodYDyqbcAMZ4Uiebq) | [ダイヤモンドダスト](https://open.spotify.com/artist/2Q0v7CWY0hXuqRX8NZ6REp) | [Cycle Of Sorrow](https://open.spotify.com/album/2G9pjJF2gef8yjybCckRxy) | 3:18 | 2024-06-14 |  |
 | [Dr\. 安和 すばる ボイスメッセージ](https://open.spotify.com/track/4AWPsoNGuc7tKwIRKIBGog) | [「ガールズバンドクライ」](https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1) | [Dr\. 安和 すばる ボイスメッセージ](https://open.spotify.com/album/4yoHtdI2CP1VspPyjiElfg) | 0:52 | 2024-04-04 |  |
 | [ETERNAL FLAME 〜空の箱〜](https://open.spotify.com/track/3Gl3gfLfll4OqTvcdj8BfB) | [ダイヤモンドダスト](https://open.spotify.com/artist/2Q0v7CWY0hXuqRX8NZ6REp) | [ETERNAL FLAME 〜空の箱〜](https://open.spotify.com/album/5N26EVvRXe1T7uZTpnpTjr) | 3:24 | 2024-05-24 |  |
 | [Gt\. 河原木 桃香 ボイスメッセージ](https://open.spotify.com/track/1rJ6e59hoGbP02eDTWIy1B) | [「ガールズバンドクライ」](https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1) | [Gt\. 河原木 桃香 ボイスメッセージ](https://open.spotify.com/album/1GqmnFpcDw0XsWXY5gJwPf) | 1:10 | 2024-04-04 |  |
@@ -29,6 +30,7 @@
 | [white drizzle in gloom](https://open.spotify.com/track/0ge5dtz12gXTMquou8xVKL) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [white drizzle in gloom](https://open.spotify.com/album/7q2ujU4Yi2ck5b1Z8GgkAQ) | 3:05 | 2024-04-04 | 2024-04-19 |
 | [Wrong World](https://open.spotify.com/track/3oydLYmU23bex9OQDwjxCz) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Wrong World](https://open.spotify.com/album/3QdDjNx9PAJ9LPSgtfUTNX) | 3:04 | 2024-04-04 | 2024-04-19 |
 | [サヨナラサヨナラサヨナラ](https://open.spotify.com/track/3OCcXnMn1lOwJtsOwbzEsN) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [サヨナラサヨナラサヨナラ](https://open.spotify.com/album/4L4vKyM8psqZ1Us7aEmeS0) | 2:35 | 2024-04-12 |  |
+| [トゲナシトゲアリ ボイスメッセージ](https://open.spotify.com/track/4KEz9VT2ha1i3Q7SRvC21N) | [「ガールズバンドクライ」](https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1) | [トゲナシトゲアリ ボイスメッセージ](https://open.spotify.com/album/4q3FUCzGgofVJu1kUPcACF) | 0:33 | 2024-06-14 |  |
 | [トゲナシトゲアリ ボイスメッセージ](https://open.spotify.com/track/6JwFqtk5jSHRBHGRSzX6CM) | [「ガールズバンドクライ」](https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1) | [トゲナシトゲアリ ボイスメッセージ](https://open.spotify.com/album/20JhoowvZq72C43DxuBJR3) | 1:15 | 2024-05-17 |  |
 | [偽りの理](https://open.spotify.com/track/0utotNyTQgcj3ryT8FuAVu) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [偽りの理](https://open.spotify.com/album/20nzrK1EPA0yAzHm8GMfj7) | 3:09 | 2024-04-12 |  |
 | [傷つき傷つけ痛くて辛い](https://open.spotify.com/track/2185RCcistacxWByF55kAz) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [傷つき傷つけ痛くて辛い](https://open.spotify.com/album/6GOHtMeDdXYNuU5HccbyBj) | 3:16 | 2024-04-12 |  |
@@ -41,6 +43,7 @@
 | [爆ぜて咲く](https://open.spotify.com/track/615jr8wFWfeTiRhfAHSG9D) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [爆ぜて咲く](https://open.spotify.com/album/5Fiv8V10wlCa5Cop5FMmxr) | 3:41 | 2024-04-12 |  |
 | [理想的パラドクスとは](https://open.spotify.com/track/5TNgYaeJdFjrR9BfsEmwDY) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [理想的パラドクスとは](https://open.spotify.com/album/44MHX9OKTB297w51I0TfXM) | 3:49 | 2024-04-12 |  |
 | [空の箱 \- 井芹仁菜、河原木桃香](https://open.spotify.com/track/7EdVl2gW1Vg6koQ23AFPnU) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [空の箱 \(井芹仁菜、河原木桃香\)](https://open.spotify.com/album/3Afh6DsCXR4ZPZ2O2ITEml) | 3:04 | 2024-04-12 |  |
+| [空白とカタルシス](https://open.spotify.com/track/4z8FBzJ2vYi390cYmMD7Yf) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [空白とカタルシス](https://open.spotify.com/album/3igNo52F3h0N9TKxGmQCwW) | 3:10 | 2024-06-14 |  |
 | [視界の隅 朽ちる音 \- 新川崎（仮）](https://open.spotify.com/track/6MbAKUA4XvXmh4ngCHyqV9) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [視界の隅 朽ちる音 \(新川崎（仮）\)](https://open.spotify.com/album/3Ftd6zTVGVTIeIzsh3SUqs) | 3:08 | 2024-05-03 |  |
 | [誰にもなれない私だから](https://open.spotify.com/track/3qUhSNwka3dPwf2Q667y7K) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [誰にもなれない私だから](https://open.spotify.com/album/36v0bfC1o6qrt4YDoZb03s) | 3:09 | 2024-04-12 |  |
 | [運命に賭けたい論理](https://open.spotify.com/track/5HXSZoSZuivD65nPk7POH0) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [運命に賭けたい論理](https://open.spotify.com/album/2O18JMMWL9S389Sw5tXiyn) | 3:15 | 2024-04-12 |  |

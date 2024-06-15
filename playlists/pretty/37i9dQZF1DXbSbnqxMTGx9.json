@@ -1,6 +1,6 @@
 {
   "description": "The ultimate reggae playlist. Cover: Bob Marley",
-  "num_followers": 2972733,
+  "num_followers": 2973181,
   "original_name": "Reggae Classics",
   "owner": {
     "name": "Spotify",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
+        "name": "Be True to Yourself: The Godfather of Lover's Rock (Anthology 1965-1973)",
+        "url": "https://open.spotify.com/album/2MocD24NCoqCSmf1EaaaQ0"
+      },
+      "artists": [
+        {
+          "name": "Alton Ellis",
+          "url": "https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi"
+        }
+      ],
+      "duration_ms": 252466,
+      "name": "Working On a Groovy Thing",
+      "url": "https://open.spotify.com/track/2ndv4sCWLXakWkpagG2CqH"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
         "name": "The Treasure Isle Story",
         "url": "https://open.spotify.com/album/2XfmRJBQBboBV0A7Fox7OI"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 148333,
       "name": "Sister Big Stuff",
       "url": "https://open.spotify.com/track/028ARUhVE9NpsVPX8V1WWy"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Be True to Yourself: The Godfather of Lover's Rock (Anthology 1965-1973)",
-        "url": "https://open.spotify.com/album/2MocD24NCoqCSmf1EaaaQ0"
-      },
-      "artists": [
-        {
-          "name": "Alton Ellis",
-          "url": "https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi"
-        }
-      ],
-      "duration_ms": 252466,
-      "name": "Working On a Groovy Thing",
-      "url": "https://open.spotify.com/track/2ndv4sCWLXakWkpagG2CqH"
     },
     {
       "added_at": "2024-01-29 05:18:16",

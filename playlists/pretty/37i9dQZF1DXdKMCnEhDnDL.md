@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 
 > De beste Nederlandse liedjes\. Cover: Tino Martin & Anouk
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,083 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,133 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 | 25 | [Dansen Aan Zee](https://open.spotify.com/track/6hC1xBNYMVK4acdnEXaZVD) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Watermakers](https://open.spotify.com/album/0IjY6dBOwaD1OAIb8BxdCW) | 4:34 |
 | 26 | [Patronen](https://open.spotify.com/track/1df6j97W2WPuIprZJQ9TxV) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Vrouw Van De Wereld](https://open.spotify.com/album/5kOYsrWUtHR6QL0MzuyJFh) | 2:53 |
 | 27 | [Doe Maar](https://open.spotify.com/track/2oCFzEd9T5Tz9PWsINhaQ5) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Doe Maar](https://open.spotify.com/album/0jw6ieOuuks0vMYStBr1yY) | 2:30 |
-| 28 | [Kwijt](https://open.spotify.com/track/6P3cbZ06AN6B5vcF1cyOz1) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Noodzakelijk Verdriet](https://open.spotify.com/album/2K7gv2r8UMcEbp88ytO12o) | 2:51 |
-| 29 | [Ruggengraat](https://open.spotify.com/track/0rLMwM9J5DkkucxXByncSZ) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Ruggengraat](https://open.spotify.com/album/3JVuWFwn71zVGhyMKyw85V) | 2:34 |
-| 30 | [My Blood](https://open.spotify.com/track/2cZePrelIrMYPgwoWsuKIJ) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [My Blood](https://open.spotify.com/album/07QS9kZSBXmEIDj7knle6G) | 3:41 |
-| 31 | [Ik Kom Weer Thuis](https://open.spotify.com/track/5VzimlAe6d9QJgCYgWky8v) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Ik Kom Weer Thuis](https://open.spotify.com/album/4oFvk66h8AGIxNyh0sFkhk) | 3:03 |
-| 32 | [Dat heb jij gedaan](https://open.spotify.com/track/6lgIi3ixBsr4cMt3r19yX9) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Dat heb jij gedaan](https://open.spotify.com/album/4R1T4H4n4YuL92AJ4EgLyJ) | 3:31 |
+| 28 | [Dat heb jij gedaan](https://open.spotify.com/track/6lgIi3ixBsr4cMt3r19yX9) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Dat heb jij gedaan](https://open.spotify.com/album/4R1T4H4n4YuL92AJ4EgLyJ) | 3:31 |
+| 29 | [Kwijt](https://open.spotify.com/track/6P3cbZ06AN6B5vcF1cyOz1) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Noodzakelijk Verdriet](https://open.spotify.com/album/2K7gv2r8UMcEbp88ytO12o) | 2:51 |
+| 30 | [Ruggengraat](https://open.spotify.com/track/0rLMwM9J5DkkucxXByncSZ) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Ruggengraat](https://open.spotify.com/album/3JVuWFwn71zVGhyMKyw85V) | 2:34 |
+| 31 | [My Blood](https://open.spotify.com/track/2cZePrelIrMYPgwoWsuKIJ) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [My Blood](https://open.spotify.com/album/07QS9kZSBXmEIDj7knle6G) | 3:41 |
+| 32 | [Ik Kom Weer Thuis](https://open.spotify.com/track/5VzimlAe6d9QJgCYgWky8v) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Ik Kom Weer Thuis](https://open.spotify.com/album/4oFvk66h8AGIxNyh0sFkhk) | 3:03 |
 | 33 | [September](https://open.spotify.com/track/43He0vCvIy1tVm0m2TzReh) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Achtentwintig](https://open.spotify.com/album/0f7y8rn9RXOANKpNK3GW6B) | 3:53 |
 | 34 | [Champions League](https://open.spotify.com/track/0VrTqrs9O9mi3dhY4RWuQI) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Champions League](https://open.spotify.com/album/4hbnlDx7CSVBLrrXVpjyFo) | 2:22 |
 | 35 | [Leven](https://open.spotify.com/track/2Mv9R8FDkPCjAghezGUgJC) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Leven](https://open.spotify.com/album/22DIca4jxPu2N5o8vgKAKm) | 2:14 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 | 47 | [HJB](https://open.spotify.com/track/4ahoARJMAvNB6ovGUh5l7B) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM), [Maks](https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI) | [HJB](https://open.spotify.com/album/5o8DLeogUUq8Gdt0S49D8D) | 2:18 |
 | 48 | [Door Weer En Wind](https://open.spotify.com/track/1kAPdyoWB9Mw5CA6zuRVyD) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [Dit Is Het Levenslied](https://open.spotify.com/album/4SbVeX0bcpWLLFlyTMMvlc) | 4:01 |
 | 49 | [Miracles](https://open.spotify.com/track/0kVdeFsVblCJp4zDyf57EG) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Miracles](https://open.spotify.com/album/2HNZaVBtwAnZvKPWbl7fDQ) | 3:22 |
-| 50 | [Bassline](https://open.spotify.com/track/3Zehk6s1n9ZBoDKpYRTK7U) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Sliden EP](https://open.spotify.com/album/4DtdhtDmxanQokbOQmpytY) | 2:19 |
+| 50 | [Bassline](https://open.spotify.com/track/3Zehk6s1n9ZBoDKpYRTK7U) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Sliden](https://open.spotify.com/album/4DtdhtDmxanQokbOQmpytY) | 2:19 |
 | 51 | [Dan Volg Je Haar Benen](https://open.spotify.com/track/3bqsAeHafn7ug4JuQ5Z4lM) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Dan Volg Je Haar Benen](https://open.spotify.com/album/6kfIG4FMIXWw15GPCPizJI) | 3:00 |
 | 52 | [This World Is Our Home](https://open.spotify.com/track/0HUapsBY3CrGXtMzUrsOvY) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [This World Is Our Home](https://open.spotify.com/album/1M1oZP4IZGIj4a4fG6JQny) | 2:53 |
 | 53 | [Onderweg](https://open.spotify.com/track/1EtcyegB7JLkAwwqiPyeJ6) | [Abel](https://open.spotify.com/artist/4jZgb7ktwlvOA56nlmbaFH) | [De Stilte Voorbij](https://open.spotify.com/album/1aUGHhcpj1sfNQlcsd0UL2) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 | 99 | [Pa Olvidarte](https://open.spotify.com/track/3XAaiiSNPVDvXC2CKAetY3) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers Seizoen 12 \(Aflevering 8 \- Duetten\)](https://open.spotify.com/album/282BwXPUfsaB47dC9dKWIi) | 2:51 |
 | 100 | [Alles](https://open.spotify.com/track/1Mvjog6iuetW1uXH4di2bP) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Alles](https://open.spotify.com/album/0XEjnbbUYmcdbDazbxNmvs) | 3:02 |
 
-Snapshot ID: `Zmtr4AAAAACybaBIdrGtmdm4wuhrU+na`
+Snapshot ID: `Zmw4MAAAAAAaeyYSH6xuw5jq5U3/nG6t`

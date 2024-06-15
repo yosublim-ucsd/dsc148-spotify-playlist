@@ -4,7 +4,7 @@
 
 > Bright, sunny, catchy tunes put a smile on your face\. Cover \- Baar Baar Dekho
 
-224 songs - 13 hr 34 min
+225 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Teri Baaton Mein Aisa Uljha Jiya Title Song \(From "Teri Baaton Mein Aisa Uljha Jiya"\)](https://open.spotify.com/track/6IR6mzRO60hnMjNoq8rCPE) | [Raghav](https://open.spotify.com/artist/5PVSEFUT4Inqu3yEq56Ku9), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Teri Baaton Mein Aisa Uljha Jiya Title Song \(From "Teri Baaton Mein Aisa Uljha Jiya"\)](https://open.spotify.com/album/0YCrtSmwjwU1tp5dXtasCJ) | 2:33 | 2024-02-02 |  |
 | [Thandi Hawa](https://open.spotify.com/track/47a8ZHfi1MYmiSVVdS7gId) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Thandi Hawa](https://open.spotify.com/album/3p8eF3bcvZP61JuVNKloJC) | 3:23 | 2022-03-09 | 2022-09-04 |
 | [Thandi Hawa](https://open.spotify.com/track/5tyReDTH3MpN7J5pk2LuGx) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Dev](https://open.spotify.com/album/6y1pmHE0VptaUzu39ApqqE) | 3:23 | 2022-08-08 | 2023-02-11 |
+| [Thank You God](https://open.spotify.com/track/2GD8vxlR7YIgx2ko3Ntv2f) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Shloke Lal](https://open.spotify.com/artist/5hICADiHIRxjNDx2qEhlXb), [David Arkwright](https://open.spotify.com/artist/6tycTl3BdncKN9ubgueSeu) | [Thank You God](https://open.spotify.com/album/39RgIHAyeHNjVDUjyLR6NK) | 2:12 | 2024-06-14 |  |
 | [Theher Ja](https://open.spotify.com/track/00juIvfvPtZ0CfAMwEkHaV) | [Abhishek Arora](https://open.spotify.com/artist/2FV0sdO6uDLDe73NGLUQQq), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [October](https://open.spotify.com/album/50K9juQj3cW0vn9usw7XgM) | 2:41 | 2022-03-09 | 2023-02-21 |
 | [Time Traveller 2](https://open.spotify.com/track/1A773NO838tc7W7vF3f07u) | [Rahul Sharma](https://open.spotify.com/artist/3BAOzRjHe8qlURUC3fDSTf) | [Time Traveller 2 \- Single](https://open.spotify.com/album/0WoIT0tcDkvW7rqW1ZQuYJ) | 4:44 | 2023-03-03 | 2023-03-16 |
 | [Time Traveller 2](https://open.spotify.com/track/2zfpEisDJgUkJeIIBRQNqV) | [Rahul Sharma](https://open.spotify.com/artist/3BAOzRjHe8qlURUC3fDSTf) | [Time Traveller 2](https://open.spotify.com/album/7CRdG6TtmTLYN4bTcszvCX) | 4:44 | 2023-03-03 | 2023-03-05 |

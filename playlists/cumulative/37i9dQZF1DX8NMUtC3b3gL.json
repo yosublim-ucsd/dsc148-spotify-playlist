@@ -335,6 +335,24 @@
     },
     {
       "album": {
+        "name": "Alicante",
+        "url": "https://open.spotify.com/album/5JgwQzMeGwYS4IKKdAQCM3"
+      },
+      "artists": [
+        {
+          "name": "Matt Large",
+          "url": "https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184702,
+      "name": "Alicante",
+      "url": "https://open.spotify.com/track/0YRYWdsmAm97kcgRvXuJDB"
+    },
+    {
+      "album": {
         "name": "Almost Vacation",
         "url": "https://open.spotify.com/album/5KagZqvhmKXMcOuyZ4M0aV"
       },
@@ -630,6 +648,24 @@
       "duration_ms": 189178,
       "name": "Apples & Bananas",
       "url": "https://open.spotify.com/track/5DCWBwovqvYUQd88QFZrpW"
+    },
+    {
+      "album": {
+        "name": "are you there",
+        "url": "https://open.spotify.com/album/5hSB2dkicAbbDgqKk3Yvra"
+      },
+      "artists": [
+        {
+          "name": "Pleij",
+          "url": "https://open.spotify.com/artist/0JohphlOxBRMHrYLcWvIFN"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118571,
+      "name": "are you there",
+      "url": "https://open.spotify.com/track/2tAXrvd0ytv8cBGYNXLIPB"
     },
     {
       "album": {
@@ -2077,6 +2113,24 @@
     },
     {
       "album": {
+        "name": "Cut Smoke",
+        "url": "https://open.spotify.com/album/6BK1XkpXh3E4IIqtbVOJmG"
+      },
+      "artists": [
+        {
+          "name": "HawaiiHockey",
+          "url": "https://open.spotify.com/artist/5zFj3SRX2H5iLzWzqJvGVe"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143455,
+      "name": "Cut Smoke",
+      "url": "https://open.spotify.com/track/1m2Lzo9QpgUtSYvgK10Hc1"
+    },
+    {
+      "album": {
         "name": "cycle of life",
         "url": "https://open.spotify.com/album/5NBahqPEEsIpyzWPHuzn1r"
       },
@@ -2396,6 +2450,28 @@
       "duration_ms": 158041,
       "name": "dusky autumn",
       "url": "https://open.spotify.com/track/7Mm6SoiqSQRYIkwvTBiJmq"
+    },
+    {
+      "album": {
+        "name": "Early Birds",
+        "url": "https://open.spotify.com/album/6tATSmM3ph9cXzwMYinRes"
+      },
+      "artists": [
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        },
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142409,
+      "name": "Early Birds",
+      "url": "https://open.spotify.com/track/1FnSnpMEQF0USjUgeuOf4y"
     },
     {
       "album": {
@@ -4114,7 +4190,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 167723,
       "name": "Ipanema",
       "url": "https://open.spotify.com/track/3FpWJ7NBkGbTp2OifKnIVM"
@@ -6049,6 +6125,24 @@
     },
     {
       "album": {
+        "name": "pawsitive",
+        "url": "https://open.spotify.com/album/300lKvpSauIkOedahVmQ4m"
+      },
+      "artists": [
+        {
+          "name": "misty tapes",
+          "url": "https://open.spotify.com/artist/7I09e7RWQg4vV2aGVH3dqO"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136744,
+      "name": "pawsitive",
+      "url": "https://open.spotify.com/track/67yrjUBrvkVHHZL0HgEJLT"
+    },
+    {
+      "album": {
         "name": "Peach",
         "url": "https://open.spotify.com/album/4NosSndHdk6qgy0OAs9Fay"
       },
@@ -6100,6 +6194,24 @@
       "duration_ms": 114860,
       "name": "Perspectives",
       "url": "https://open.spotify.com/track/68wMkW7xslkxZ7xKhL19pu"
+    },
+    {
+      "album": {
+        "name": "Pheasants",
+        "url": "https://open.spotify.com/album/131vhc74AzdwUVznCpBOpG"
+      },
+      "artists": [
+        {
+          "name": "Horace Maurice",
+          "url": "https://open.spotify.com/artist/5fCp4yfEkKNN24SUYR7ZnP"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112861,
+      "name": "Pheasants",
+      "url": "https://open.spotify.com/track/6eWqiuXsN18FbfiI5yU1MO"
     },
     {
       "album": {
@@ -9032,6 +9144,24 @@
       "duration_ms": 101647,
       "name": "undefined",
       "url": "https://open.spotify.com/track/4RzY9ZLhrqDwsbTl69va0t"
+    },
+    {
+      "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/6D7U3IEW0MrBbty3YrrJHA"
+      },
+      "artists": [
+        {
+          "name": "Cloudsurfin'",
+          "url": "https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138465,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/1Ip1HcsDEv1fbPlzyQ2SKK"
     },
     {
       "album": {

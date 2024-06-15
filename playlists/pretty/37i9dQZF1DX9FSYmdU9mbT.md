@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 
 ### [O Melhor da MPB](https://open.spotify.com/playlist/37i9dQZF1DX9FSYmdU9mbT)
 
-> Os grandes artistas da MPB\. Foto: Gilberto Gil ❤️ Flora
+> Os grandes artistas da MPB\. Foto: Djavan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,304,912 likes - 95 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,305,153 likes - 95 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Andar Com Fé](https://open.spotify.com/track/5IRaXLiPevrMXjToXtD3Rm) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Andar Com Fé](https://open.spotify.com/album/7u1F0ffa1xp774Eyht8K7w) | 3:14 |
-| 2 | [Baby](https://open.spotify.com/track/0C13P4IghHNFPjt4zIJ8vX) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Gal Costa](https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu) | 3:32 |
-| 3 | [Se..\. \(Ao Vivo\)](https://open.spotify.com/track/5ZnmWmQB74hJ9geBL9bY3R) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Djavan "Ao Vivo"](https://open.spotify.com/album/2WWakvH7foDm8RjWFMDcL7) | 4:47 |
+| 1 | [Se..\. \(Ao Vivo\)](https://open.spotify.com/track/5ZnmWmQB74hJ9geBL9bY3R) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Djavan "Ao Vivo"](https://open.spotify.com/album/2WWakvH7foDm8RjWFMDcL7) | 4:47 |
+| 2 | [Andar Com Fé](https://open.spotify.com/track/5IRaXLiPevrMXjToXtD3Rm) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Andar Com Fé](https://open.spotify.com/album/7u1F0ffa1xp774Eyht8K7w) | 3:14 |
+| 3 | [Baby](https://open.spotify.com/track/0C13P4IghHNFPjt4zIJ8vX) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Gal Costa](https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu) | 3:32 |
 | 4 | [Samba do Grande Amor \- Ao Vivo](https://open.spotify.com/track/4tj4BdoordmiTZJcyTjimT) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Que Tal Um Samba? \(Ao Vivo\)](https://open.spotify.com/album/38cyb88pRnyy49dDSuETpO) | 2:50 |
 | 5 | [Força Estranha](https://open.spotify.com/track/6sKopGG4r21ObTE8V6pD6x) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Tropical](https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2) | 3:34 |
 | 6 | [Aquarela](https://open.spotify.com/track/5y2kS20GQdDWwyTEa63GIf) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Carlinhos Brown](https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv) | [Novas Cores, Eternas Canções \(Deluxe\)](https://open.spotify.com/album/5oqdvIvL2zEZv6UFUMwClP) | 3:25 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 94 | [Oba, Lá Vem Ela](https://open.spotify.com/track/1zLfdcVHsyB4Nw6IVfAPtV) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Força Bruta \(1970\)](https://open.spotify.com/album/5Lfeb1NZlD2cZn7EVFIWi4) | 4:12 |
 | 95 | [O Bêbado e a Equilibrista](https://open.spotify.com/track/3bgRCx8adxUZT7It3ryrWU) | [João Bosco](https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH), [Angela Maria](https://open.spotify.com/artist/4SKChJZZUJd8fD4ZbkpL6l) | [Linha De Passe](https://open.spotify.com/album/5hP8pHRsoC1ySE4wVc9wcH) | 3:20 |
 
-Snapshot ID: `ZmJ3sAAAAACe8tu65Sb3Vrc+WnHR6cPC`
+Snapshot ID: `Zmw2OgAAAABRTbfFe470IoZZoI8+owjb`

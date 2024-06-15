@@ -1,12 +1,12 @@
 {
   "description": "This is Movements. The essential tracks, all in one playlist.",
-  "num_followers": 6664,
+  "num_followers": 6672,
   "original_name": "This Is Movements",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjlAAAAAADc43qlQa64PYGySjZ3yd8n",
+  "snapshot_id": "Zmo2gAAAAABFF+mmW9dwTCi3aVrJz2vS",
   "tracks": [
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outgrown Things",
-        "url": "https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO"
+        "name": "Barbed Wire Body",
+        "url": "https://open.spotify.com/album/6Re5QwReJ9IUWdd1H8PCtm"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 218160,
-      "name": "Vacant Home",
-      "url": "https://open.spotify.com/track/5E0DnCREPWkoh5HQvA7uDy"
+      "duration_ms": 208023,
+      "name": "Barbed Wire Body",
+      "url": "https://open.spotify.com/track/1uOXmY4sYHLpaad4ejJLIZ"
     },
     {
       "added_at": null,
@@ -455,6 +455,22 @@
       "duration_ms": 236986,
       "name": "Don\u2019t Give Up Your Ghost",
       "url": "https://open.spotify.com/track/0o0orlqmDZFKNbmAm1Rzgc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outgrown Things",
+        "url": "https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 218160,
+      "name": "Vacant Home",
+      "url": "https://open.spotify.com/track/5E0DnCREPWkoh5HQvA7uDy"
     },
     {
       "added_at": null,

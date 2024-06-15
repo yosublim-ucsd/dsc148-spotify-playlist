@@ -765,6 +765,24 @@
     },
     {
       "album": {
+        "name": "Armageddon - The 1st Album",
+        "url": "https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196466,
+      "name": "Armageddon",
+      "url": "https://open.spotify.com/track/6i8MbzVn4nzyjUcSoVcz7B"
+    },
+    {
+      "album": {
         "name": "STAYDOM",
         "url": "https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS"
       },
@@ -812,7 +830,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 180066,
       "name": "Attention",
       "url": "https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9"
@@ -3030,7 +3048,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 214226,
       "name": "Do or Die (ft. DPR IAN)",
       "url": "https://open.spotify.com/track/1S5cUvGZsueP6xGMeVFHSo"
@@ -4760,7 +4778,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 240440,
       "name": "Girls",
       "url": "https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg"
@@ -4958,7 +4976,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 195855,
       "name": "gogobebe",
       "url": "https://open.spotify.com/track/6E7jAJN2e3znSHyPCdQqx8"
@@ -5731,6 +5749,24 @@
     },
     {
       "album": {
+        "name": "How Sweet",
+        "url": "https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219026,
+      "name": "How Sweet",
+      "url": "https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH"
+    },
+    {
+      "album": {
         "name": "THE ALBUM",
         "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
       },
@@ -6450,6 +6486,24 @@
       "duration_ms": 193413,
       "name": "It's fine",
       "url": "https://open.spotify.com/track/6zl8VOP7l8kFd2nLfmJ2Kg"
+    },
+    {
+      "album": {
+        "name": "I-LAND2 : N/a - 1:1 POSITION BATTLE",
+        "url": "https://open.spotify.com/album/7zjYgWfGErSNv1Zs2IGDGl"
+      },
+      "artists": [
+        {
+          "name": "I-LAND2 : N/a",
+          "url": "https://open.spotify.com/artist/5wA7TzIKrDqmlnEFk6t1y4"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183251,
+      "name": "IWALY",
+      "url": "https://open.spotify.com/track/4SwXtg8jDejWX18zLsZwCO"
     },
     {
       "album": {
@@ -10391,6 +10445,24 @@
     },
     {
       "album": {
+        "name": "SAINT",
+        "url": "https://open.spotify.com/album/7p5Nfjf6G1SC4xveOYrmHc"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179426,
+      "name": "SAINT",
+      "url": "https://open.spotify.com/track/4auMua2dpYAQge1UGMiBnP"
+    },
+    {
+      "album": {
         "name": "SALUTE",
         "url": "https://open.spotify.com/album/0rPtXoQoXvnGKk14lm9ghO"
       },
@@ -11170,7 +11242,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 197040,
       "name": "Spicy",
       "url": "https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP"
@@ -11598,6 +11670,24 @@
       "duration_ms": 154666,
       "name": "Super Shy",
       "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
+    },
+    {
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/0tlwyPgqwZrymr04EfFyry"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178880,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/351KkakA2YtGEXqSEIIasy"
     },
     {
       "album": {

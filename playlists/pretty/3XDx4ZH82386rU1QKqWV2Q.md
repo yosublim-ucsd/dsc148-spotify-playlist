@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 
 > Brazilian Phonk FOCUS ON YOU!  This account is not associated with any social media accounts!
 
-[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 1,076,010 likes - 151 songs - 5 hr 59 min
+[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 1,075,951 likes - 151 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 | 12 | [Untitled \#13 \(Super Slowed\)](https://open.spotify.com/track/3fC7BKJN66Tyq44x6Try2R) | [glwzbll](https://open.spotify.com/artist/4xNuIo74R6m1eXaz7RlpZ6) | [Untitled \#13 \(Super Slowed\)](https://open.spotify.com/album/5a9uibuVUtMag0L3Fo8gkQ) | 3:12 |
 | 13 | [souleater](https://open.spotify.com/track/69q3x2llQKcRkn2gwvFMWV) | [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH), [RXDXVIL](https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz) | [souleater](https://open.spotify.com/album/7HG8j0eBJPkEGmJlKscMQg) | 1:29 |
 | 14 | [DOMINIO DO ARENA](https://open.spotify.com/track/74vp2adEq00W8nbcrh7KDQ) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id), [TOKYOSLEEP](https://open.spotify.com/artist/3S85ac8yF0ePaCGDPVv0LH), [acronym.](https://open.spotify.com/artist/5GFRLmuyDjzaobJ5xRFAU0) | [DOMINIO DO ARENA](https://open.spotify.com/album/0ctJIo2h91wpyR9i7hoIHB) | 1:15 |
-| 15 | [NICOLE ANISTON](https://open.spotify.com/track/07aYKX86UyaEJCtBFLKNlc) | [thmpsn](https://open.spotify.com/artist/4RguKaIgVQ9Iep7mYAJ6J4), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj), [Nicole Aniston](https://open.spotify.com/artist/7mwm8lLPIVdnmvMfshzTsV) | [NICOLE ANISTON](https://open.spotify.com/album/7CjdFHKcKpu4ttUmo5rSsR) | 2:36 |
+| 15 | [NICOLE ANISTON](https://open.spotify.com/track/07aYKX86UyaEJCtBFLKNlc) | [THMPSN](https://open.spotify.com/artist/4RguKaIgVQ9Iep7mYAJ6J4), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj), [Nicole Aniston](https://open.spotify.com/artist/7mwm8lLPIVdnmvMfshzTsV) | [NICOLE ANISTON](https://open.spotify.com/album/7CjdFHKcKpu4ttUmo5rSsR) | 2:36 |
 | 16 | [Satisfaction \- Push Push Push](https://open.spotify.com/track/0Xg5RTrZabrcHUFtLInwvX) | [PXSEIDON](https://open.spotify.com/artist/0WOk6PeJIAZDHrB2U06TOw), [sepulcher.](https://open.spotify.com/artist/0ORxJY41Q29QB1poLCgUzC) | [Satisfaction \- Push Push Push](https://open.spotify.com/album/4K8uGK3wWeVBYqjSNkWyTn) | 1:33 |
 | 17 | [vendetta II](https://open.spotify.com/track/40B8062uIqH58ZevWSBXQg) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta II](https://open.spotify.com/album/2EvnU7YHD02a3HguaxGi2S) | 1:38 |
 | 18 | [MASHA ULTRAFUNK](https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW) | [HISTED](https://open.spotify.com/artist/5Z56BMrvQB2rBAa5kffTPD), [TXVSTERPLAYA](https://open.spotify.com/artist/4Rd0aHKGS9BdLYSXVvFjv5) | [MASHA ULTRAFUNK](https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC) | 1:33 |

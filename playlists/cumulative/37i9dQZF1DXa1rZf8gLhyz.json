@@ -1474,7 +1474,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 179874,
       "name": "Cherokee",
       "url": "https://open.spotify.com/track/2ifo88z2ExBUBsmWav4mca"
@@ -3242,6 +3242,24 @@
       "duration_ms": 177714,
       "name": "Happy Days",
       "url": "https://open.spotify.com/track/6OXbT5aTGZDURNRG9XBNi9"
+    },
+    {
+      "album": {
+        "name": "Harbor of Dreams",
+        "url": "https://open.spotify.com/album/3XtoSB1THdZ5vaLjpa1jG8"
+      },
+      "artists": [
+        {
+          "name": "Julian Emerson",
+          "url": "https://open.spotify.com/artist/5ndOevWj1KK1Za6cMrz1d8"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126204,
+      "name": "Harbor of Dreams",
+      "url": "https://open.spotify.com/track/7JudkcEQdrEyy8b0aSyVxA"
     },
     {
       "album": {
@@ -6629,6 +6647,24 @@
     },
     {
       "album": {
+        "name": "Pearl River",
+        "url": "https://open.spotify.com/album/3ITxyNP7mWyMIEShXSdGKg"
+      },
+      "artists": [
+        {
+          "name": "Andy Luma",
+          "url": "https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182176,
+      "name": "Pearl River",
+      "url": "https://open.spotify.com/track/1CIQCFiUOUiSG29MUiot4y"
+    },
+    {
+      "album": {
         "name": "Pennies From Heaven",
         "url": "https://open.spotify.com/album/75bRjjsmOtXqoSHeziafj0"
       },
@@ -8304,6 +8340,24 @@
       "duration_ms": 159445,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/3q5cGbIcmWU4tfUixjLqKb"
+    },
+    {
+      "album": {
+        "name": "Tender",
+        "url": "https://open.spotify.com/album/2UJIrXP75pjWoPFomeFzu8"
+      },
+      "artists": [
+        {
+          "name": "Millie Blue",
+          "url": "https://open.spotify.com/artist/3Z6Jby1DnvCKJMkHjrwg5P"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154451,
+      "name": "Tender",
+      "url": "https://open.spotify.com/track/0qLG0XauMb5WDt4a7ks7E7"
     },
     {
       "album": {

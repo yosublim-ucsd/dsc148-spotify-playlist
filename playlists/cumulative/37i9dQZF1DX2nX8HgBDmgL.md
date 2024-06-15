@@ -4,7 +4,7 @@
 
 > Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>.
 
-222 songs - 11 hr 56 min
+223 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [No Love](https://open.spotify.com/track/6A2ZwOsMeomTIVhLvfXngC) | [lusttqwe](https://open.spotify.com/artist/1ppoDV6LO37SPuHEK2FAyR), [jesp](https://open.spotify.com/artist/4A6FNKLHprsYDzim1SQAOJ), [bexter](https://open.spotify.com/artist/2nb1xGx7gKOs9Yu5g1sJ8n) | [No Love](https://open.spotify.com/album/6qrdcQLLTx6zzvtNpGkPru) | 2:49 | 2024-01-03 | 2024-01-24 |
 | [No Love](https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [No Love](https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU) | 2:50 | 2022-09-02 | 2024-02-23 |
 | [NO LOVE](https://open.spotify.com/track/5B4YQN1FCuADJ0o4phAtwC) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [NO LOVE](https://open.spotify.com/album/71z4Ni4FHsAUWpcy1oFmOT) | 2:50 | 2022-07-18 | 2022-09-04 |
+| [Nora](https://open.spotify.com/track/0gzbtIaFw9TyOFXDoubusY) | [Nora Fatehi](https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA) | [Nora](https://open.spotify.com/album/6OmdEDooNi3fLL2OJTOtYf) | 2:17 | 2024-06-14 |  |
 | [Not You](https://open.spotify.com/track/5m2NorFFdtQ2fJieypphTh) | [Jaz Dhami](https://open.spotify.com/artist/5IfJHO9jIE1GVuC517P3nr) | [Not You](https://open.spotify.com/album/09ezLt7cArrGiMNW5o2xsc) | 2:32 | 2024-01-03 | 2024-02-23 |
 | [Oehnana ft\. TM Bax](https://open.spotify.com/track/5lUWDZXEFuQ6MjUYKx5guu) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [TM Bax](https://open.spotify.com/artist/0RN2n6EdV90CQmfhfxqv0f) | [The Blend](https://open.spotify.com/album/6C6VvGruQ0ezA6QewMUGPj) | 3:06 | 2022-02-25 | 2022-07-19 |
 | [ON](https://open.spotify.com/track/5aX3nsMieI6ELp3qfFihr9) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [HBIC](https://open.spotify.com/album/6mRkk5VyWx27K4vZjD6sqM) | 2:36 | 2022-07-18 | 2024-02-23 |

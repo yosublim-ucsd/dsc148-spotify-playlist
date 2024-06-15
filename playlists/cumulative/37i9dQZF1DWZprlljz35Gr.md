@@ -4,7 +4,7 @@
 
 > Bluesy blips and blops
 
-84 songs - 5 hr 45 min
+85 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Midnight Dream](https://open.spotify.com/track/1GSa7lngY88UwrL1WulxJ0) | [Little Axe](https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ) | [Hard Grind](https://open.spotify.com/album/1kw3Ixj3jFCe153TQcicpB) | 4:03 | 2020-12-01 | 2024-04-19 |
 | [Mr\. E's Beautiful Blues \- Remix](https://open.spotify.com/track/1cXPXMbHhNZHQYan1C8fzD) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [Useless Trinkets\-B Sides, Soundtracks, Rarieties and Unreleased 1996\-2006](https://open.spotify.com/album/1Umb8lHSJUIXnF0bx9DlH2) | 3:54 | 2020-12-01 |  |
 | [Multiball](https://open.spotify.com/track/22MiGH2lQBET7dtLo5Iua8) | [Vidar Busk](https://open.spotify.com/artist/7bbkRaebsI7fzfa9l5LWG3) | [Starfish](https://open.spotify.com/album/4vhocdV6eNQnR7Rq4CB3Vi) | 3:17 | 2020-12-01 |  |
+| [On My Way](https://open.spotify.com/track/3iRXajsv5AFqDE47zpqlIN) | [Yemanjo](https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N) | [On My Way](https://open.spotify.com/album/2V2NyOg2eK8ecHkLeD26Zb) | 5:13 | 2024-06-14 |  |
 | [Paper Trails](https://open.spotify.com/track/1DK2JuYarBeNwcLNPw1Qyo) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Psychic](https://open.spotify.com/album/2Q7l5NR9ZY8gfkkTtBnlBt) | 4:49 | 2020-12-01 | 2024-04-19 |
 | [Paper Trails](https://open.spotify.com/track/6rqONVHOT73QecUdJ5HVHy) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Psychic](https://open.spotify.com/album/7jqNrm1l4wSxNYSjgK7tmF) | 4:49 | 2020-12-01 |  |
 | [Please Don't Stay](https://open.spotify.com/track/5QCKfr2ckdL5kf9wCQtzUu) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Come on In](https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ) | 2:58 | 2020-12-01 |  |

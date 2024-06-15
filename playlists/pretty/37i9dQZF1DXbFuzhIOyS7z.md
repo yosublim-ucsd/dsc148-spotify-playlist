@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 
 > インスタ音楽メディア『<a href="https://www.instagram.com/playlist\_of/">PLAYLIST</a>』が失恋をテーマに選曲。<br/>音楽はいつでもあなたに寄り添ってくれるから今はこのプレイリストを聴いてたくさん泣こう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,171 likes - 40 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,176 likes - 40 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 | 4 | [Feel Missing](https://open.spotify.com/track/6FtSuG6TbvD3u5wydy7I2d) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Remember Me?](https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2) | 3:18 |
 | 5 | [紫苑](https://open.spotify.com/track/0tzkqPsJQBm6lvtYp61rT5) | [荒谷翔大](https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2) | [紫苑](https://open.spotify.com/album/3NgD4PnatrEWfRI88cSA0c) | 4:07 |
 | 6 | [まってる](https://open.spotify.com/track/0eBYJWoAeeuxNS9omXcoM9) | [sasanomaly](https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ) | [トコシエスタ](https://open.spotify.com/album/70o46gZyB0vo5EZAwo2OV3) | 3:02 |
-| 7 | [抱きしめて](https://open.spotify.com/track/4jyErFsBkMdL5unFEFxyNQ) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [崎山蒼志](https://open.spotify.com/artist/0si9TC9u17YgqZfKmQujBG) | [抱きしめて](https://open.spotify.com/album/7BngxP1i5MR3WrXevF5UPf) | 3:59 |
+| 7 | [抱きしめて](https://open.spotify.com/track/4jyErFsBkMdL5unFEFxyNQ) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [抱きしめて](https://open.spotify.com/album/7BngxP1i5MR3WrXevF5UPf) | 3:59 |
 | 8 | [243](https://open.spotify.com/track/49xpwdBCKQnYpxOAJpfYyu) | [Matsuri](https://open.spotify.com/artist/3gzzyz8FmSOGRVrYW8GubK) | [243](https://open.spotify.com/album/5icSPu6dcdty4pGt8WN30k) | 4:17 |
 | 9 | [君との日々は退屈だ](https://open.spotify.com/track/1yB5Jd42jntYSX7LGKNkgi) | [606号室](https://open.spotify.com/artist/50CaItPFaCPzuA8juPqWfI) | [君との日々は退屈だ](https://open.spotify.com/album/7u3wSzKDWQlvAb7OVRmkL0) | 3:58 |
 | 10 | [花](https://open.spotify.com/track/6ljGz9yc7wpIVXAkHQuG6P) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [ひとつの恋が終わってしまったあなたへ](https://open.spotify.com/album/66LyXB2JRybUvDtGo8MMrb) | 3:58 |

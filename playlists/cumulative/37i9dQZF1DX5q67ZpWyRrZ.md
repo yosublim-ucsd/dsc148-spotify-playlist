@@ -4,7 +4,7 @@
 
 > Best of the Indian Indie scene\. Cover \- Akanksha Bhandari
 
-248 songs - 14 hr 1 min
+249 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Dil Ki Ye Baatein \- Solo](https://open.spotify.com/track/4Yy2lVtP7IRZNyTYHmKJ0y) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Dil Ki Ye Baatein \(Solo\)](https://open.spotify.com/album/0g7Lxz5vDlYCLG2hNzav11) | 2:20 | 2024-05-06 |  |
 | [Dil Mere](https://open.spotify.com/track/0XF0D8HL9gk2sr9tlFOee3) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Aalas Ka Pedh](https://open.spotify.com/album/5xOkxpVDHdpWkI9mNfYXab) | 3:31 | 2023-12-05 | 2024-04-19 |
 | [Dil Mere](https://open.spotify.com/track/6ZmtxXUXRVjxOhugKkmerC) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Aalas Ka Pedh](https://open.spotify.com/album/4U2xdJPJfGo2HofVpSynwO) | 3:31 | 2021-12-06 |  |
-| [Dilbar](https://open.spotify.com/track/3guNmy1Hk82Kssjzui0hiL) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI) | [Dilbar](https://open.spotify.com/album/6oZ2HA0hRgJw2jsoW9bERD) | 2:48 | 2023-02-28 |  |
+| [Dilbar](https://open.spotify.com/track/3guNmy1Hk82Kssjzui0hiL) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI) | [Dilbar](https://open.spotify.com/album/6oZ2HA0hRgJw2jsoW9bERD) | 2:48 | 2023-02-28 | 2024-06-15 |
 | [Dilbar](https://open.spotify.com/track/5YCdQ5NhaZ3PBdcmAV0CZS) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI) | [Dilbar](https://open.spotify.com/album/4pv9PobaeFfnzvZd3IKHEJ) | 2:48 | 2023-02-22 | 2023-03-14 |
 | [Dilnawaz](https://open.spotify.com/track/2KDR0VRWbQ88LQ1cdi8T3z) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Vaaqif](https://open.spotify.com/album/7ouN1RiK4NRenRCnrGkA1Z) | 3:27 | 2022-01-05 | 2022-08-11 |
 | [Dooriyaan](https://open.spotify.com/track/09YtF2lAlYgTN5yA39iYYa) | [Shubumm](https://open.spotify.com/artist/5T3nhvOB6jdI5IxYFpuTZ8) | [Dooriyaan](https://open.spotify.com/album/2Okc9hbSudtpncMMbTRUv0) | 2:48 | 2021-12-06 | 2022-08-10 |
@@ -168,6 +168,7 @@
 | [Mulaqat](https://open.spotify.com/track/7uZLUFqPgGqwzD5rzOl8Sa) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Mulaqat](https://open.spotify.com/album/2LBQG9vBtXEL7RD4FUTJTa) | 4:06 | 2023-10-09 |  |
 | [Muskan](https://open.spotify.com/track/16ZcfVSuCcBDdlpvmEIA1i) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Muskan](https://open.spotify.com/album/3NLZpWHd23xx5YYveGbNlv) | 3:18 | 2022-08-09 | 2022-12-09 |
 | [Muskurahat](https://open.spotify.com/track/6oURWs2pULRYC9JAhLEaw8) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Muskurahat](https://open.spotify.com/album/57G6FAPEMtXBDKEcsatBa1) | 4:18 | 2022-07-08 |  |
+| [nadaaniyan](https://open.spotify.com/track/3bmsaFp11I9pbicxzlStf3) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [nadaaniyan](https://open.spotify.com/album/5iB4wggqDR2cQSduJGBfUy) | 2:51 | 2024-06-14 |  |
 | [Nadaniya](https://open.spotify.com/track/4AQYycFEyP7XknIX9ODpBq) | [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h) | [Nadaniya](https://open.spotify.com/album/2DSR5z0gsqRIVpQqlygNrp) | 2:52 | 2022-12-22 | 2023-01-24 |
 | [Nanchaku](https://open.spotify.com/track/6YwiqqQ5xoeUkPwrn9cfEw) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Nanchaku](https://open.spotify.com/album/4cniRITVrmzAABlGgNv6k4) | 3:13 | 2021-12-06 | 2022-01-06 |
 | [Narazi](https://open.spotify.com/track/0Dea6lSNStSGx3XiLqXIT9) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe) | [Narazi](https://open.spotify.com/album/4QsYPssQ2NAtPdM3sEQGbq) | 2:48 | 2023-02-02 |  |

@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music\. Masayoshi Fujita on cover.
 
-257 songs - 18 hr 58 min
+260 songs - 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Forgetful Angel](https://open.spotify.com/track/3fjXCW8waY8YFu66jnT4BP) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Forgetful Angel](https://open.spotify.com/album/0wzOZrYgU9wrndydzgYOPX) | 2:57 | 2022-09-30 |  |
 | [forsaken](https://open.spotify.com/track/2aQ8wbTd9yDiVJdOnfYCIo) | [Blut Own](https://open.spotify.com/artist/4NxHc6UYBR58ZBCM2vONQH) | [forsaken](https://open.spotify.com/album/0NxN5AVfWdOL45hmEgIb45) | 2:19 | 2023-09-22 |  |
 | [FOSSIL OF FLAME/火の化石\~FIFTY BELL\-TREES/五十鈴](https://open.spotify.com/track/3d1oTcXWsWdtfDrgGbbmCG) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [MERCURIC DANCE\(マーキュリック・ダンス\~躍動の踊り\)](https://open.spotify.com/album/7GCdwdSawyfsXcTiPlMF4L) | 8:31 | 2022-12-30 |  |
+| [Fragment](https://open.spotify.com/track/59Ky2k3xZhNnm1hSe6Oo8P) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Fragment](https://open.spotify.com/album/2wJX51pAtlSaypIYWFdWfu) | 2:59 | 2024-06-15 |  |
 | [Gallery window](https://open.spotify.com/track/13vhl1xEGceDmaf1gTMVCM) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Gallery window](https://open.spotify.com/album/4Pa9k24dXX0WPtTidFKXPq) | 3:31 | 2022-01-07 |  |
 | [Glass Chattering](https://open.spotify.com/track/6lGHPfFmZGcjNv7tmTYzZ0) | [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 5:56 | 2022-12-30 |  |
 | [Gold Dust](https://open.spotify.com/track/7j1kjPYeQiGfk21JEk761r) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Idealism II](https://open.spotify.com/album/5lJI2Znj1TmTnlyGGHlmtk) | 3:16 | 2023-11-24 |  |
@@ -140,6 +141,7 @@
 | [mellow](https://open.spotify.com/track/1VJ77OFm7zzfLcAaV7feNd) | [Daisuke Miyatani](https://open.spotify.com/artist/00W9E7VkwAsnbpofU3fziZ) | [mellow](https://open.spotify.com/album/67z28TWSWLl0K40wnmVmal) | 5:44 | 2022-01-07 |  |
 | [melt](https://open.spotify.com/track/1OBYLRZN5dnufdxtTlmBZ1) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [Sui](https://open.spotify.com/album/7iX6y044SXbJ9Rg0GWxgMh) | 2:40 | 2022-01-07 |  |
 | [memories of younger days \(that never existed\)](https://open.spotify.com/track/50BWDrzzg4I9KttMBUXoQN) | [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [memories of younger days \(that never existed\)](https://open.spotify.com/album/2uOATtxzznGZMs7NXMsa8A) | 4:00 | 2022-09-30 |  |
+| [Mirror\#1](https://open.spotify.com/track/0y6jbOUzzm5NuNOhsGijqb) | [HAL ca](https://open.spotify.com/artist/4PtZB4ONshF7mdbYQgVWtm) | [Reflections](https://open.spotify.com/album/22Nb42QDmyNSEsiAUBAo3c) | 6:01 | 2024-06-15 |  |
 | [Moon](https://open.spotify.com/track/6rOc7kTPNL6SxSVugGlPoG) | [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Moon](https://open.spotify.com/album/45cho4OqwcoNEvhFbI6Tpt) | 2:43 | 2023-01-20 |  |
 | [Mousugu](https://open.spotify.com/track/7h0ifEkfBvKTEA4WgapMQ1) | [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Mousugu](https://open.spotify.com/album/0QWp7B1kzqGqDAsDJOJaTe) | 3:12 | 2022-12-30 | 2023-08-19 |
 | [Moving layer](https://open.spotify.com/track/5C2bOknZW0dN7mhiNNB5Vx) | [Yutaka Hirose](https://open.spotify.com/artist/1FdNQlWcuAjkLTEx7xHf25) | [Nostalghia](https://open.spotify.com/album/5QRSaiLYVS5C6Y9fvMe7Nj) | 7:01 | 2022-12-30 |  |
@@ -250,6 +252,7 @@
 | [What It Means to Me](https://open.spotify.com/track/50zcUtpLD8yp5s2lTARxvV) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [With Love](https://open.spotify.com/album/2bLN1o2TlcAqYSjzLQ9ok7) | 3:46 | 2022-07-22 | 2023-04-30 |
 | [What It Means to Me](https://open.spotify.com/track/7swpWyjiKAnAvaPvsK5kJ9) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [With Love](https://open.spotify.com/album/4tk08ZYNtt6I5GMesH7ODT) | 3:46 | 2022-01-07 |  |
 | [Whirlwind](https://open.spotify.com/track/4fEmztNkFn2Edb6lN4t2Zx) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Great Wind](https://open.spotify.com/album/6pt8OMCD3Q50VoM1mKICaw) | 3:04 | 2023-01-20 |  |
+| [Wrapped](https://open.spotify.com/track/2hP5fvJv3YlaHsKHauQo8g) | [Akira Noumi](https://open.spotify.com/artist/5tUffhZ8wsHXifLfzhwNPm) | [Wrapped](https://open.spotify.com/album/2NHnwthgoUZbyuddHdVamb) | 2:44 | 2024-06-15 |  |
 | [YACHIMATA\_160308](https://open.spotify.com/track/6PO1iv4vQLphE9rnjQAtqa) | [Miyauchi Yuri](https://open.spotify.com/artist/1AVCRg5rAMfIXaUcz2fi3p) | [YACHIMATA](https://open.spotify.com/album/7mFeKzLa9K3mz6AZPT7NVl) | 3:22 | 2022-01-07 | 2022-07-29 |
 | [YACHIMATA\_170424](https://open.spotify.com/track/3qYxmTgoENg9azekCo3pzm) | [Miyauchi Yuri](https://open.spotify.com/artist/1AVCRg5rAMfIXaUcz2fi3p) | [YACHIMATA 4](https://open.spotify.com/album/0UZWM1GVlAGgOzJM2j26xm) | 3:42 | 2022-01-07 | 2022-07-29 |
 | [York](https://open.spotify.com/track/4hHpxHRHcT6RbVW8FcsWQh) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Gone](https://open.spotify.com/album/2cse4C4WEcjxWUwvqrm4Q9) | 4:52 | 2022-01-07 | 2023-04-22 |

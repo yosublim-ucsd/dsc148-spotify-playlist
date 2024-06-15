@@ -1,28 +1,48 @@
 {
-  "description": "The hottest new pop with all the drops. Cover: Confidence Man",
-  "num_followers": 168620,
+  "description": "The hottest new pop with all the drops. Cover: SG Lewis & Tove Lo",
+  "num_followers": 168875,
   "original_name": "New Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmKFwAAAAAD7LvCsaWi5g98VD/1oFmNr",
+  "snapshot_id": "ZmvAQAAAAABlQix7JmZPOkDrpiX4r3an",
   "tracks": [
     {
-      "added_at": "2024-06-07 04:00:00",
+      "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "I CAN'T LOSE YOU",
-        "url": "https://open.spotify.com/album/4Vks6PwxrmJ6CAfhNSrcvO"
+        "name": "HEAT",
+        "url": "https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG"
       },
       "artists": [
         {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
         }
       ],
-      "duration_ms": 155343,
-      "name": "I CAN\u2019T LOSE YOU",
-      "url": "https://open.spotify.com/track/1LLC7MZufBwaO52XRtGRHD"
+      "duration_ms": 217529,
+      "name": "HEAT",
+      "url": "https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Spiral",
+        "url": "https://open.spotify.com/album/1FTD5Ik0Ex0MofuRwt8eYR"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 217018,
+      "name": "Spiral",
+      "url": "https://open.spotify.com/track/6RfgvYyQaM3lFys834sWwx"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -45,6 +65,134 @@
       "url": "https://open.spotify.com/track/5n6gZfEkDTI6mlPHRwM2XP"
     },
     {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Rescue Me",
+        "url": "https://open.spotify.com/album/7JtDBdtxIwotN87YmFy579"
+      },
+      "artists": [
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        },
+        {
+          "name": "Parson James",
+          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
+        }
+      ],
+      "duration_ms": 158771,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/3q2PqEQwM198uo9s0celMS"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Mi Amor (with JVKE & Anitta)",
+        "url": "https://open.spotify.com/album/5cSRo7t8wqzwSiEc5hBDUz"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 139428,
+      "name": "Mi Amor (with JVKE & Anitta)",
+      "url": "https://open.spotify.com/track/5u2EjRHBYRLFvfMXpBAewy"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Austin (Boots Stop Workin') [Distant Matter Remix]",
+        "url": "https://open.spotify.com/album/35gz5TLdUbb0JxSzfKLiHc"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        },
+        {
+          "name": "Distant Matter",
+          "url": "https://open.spotify.com/artist/7jOCrpnW33mqmrR6r6ORvn"
+        }
+      ],
+      "duration_ms": 176670,
+      "name": "Austin (Boots Stop Workin') - Distant Matter Remix",
+      "url": "https://open.spotify.com/track/0gkTJziolVNOmmdwgaRMho"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Riddles",
+        "url": "https://open.spotify.com/album/5RifJhwYzGXU4kQ4KGIkYC"
+      },
+      "artists": [
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 169014,
+      "name": "Riddles",
+      "url": "https://open.spotify.com/track/692A9OaT8kc7KuFhvdcMqu"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "I CAN'T LOSE YOU",
+        "url": "https://open.spotify.com/album/4Vks6PwxrmJ6CAfhNSrcvO"
+      },
+      "artists": [
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        }
+      ],
+      "duration_ms": 155343,
+      "name": "I CAN\u2019T LOSE YOU",
+      "url": "https://open.spotify.com/track/1LLC7MZufBwaO52XRtGRHD"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 173913,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Getaway",
+        "url": "https://open.spotify.com/album/71SQqTmf5CWKLg0z5XUaA1"
+      },
+      "artists": [
+        {
+          "name": "Betta Lemme",
+          "url": "https://open.spotify.com/artist/1WZLagiBdNltn918sr8kkw"
+        }
+      ],
+      "duration_ms": 115464,
+      "name": "Getaway",
+      "url": "https://open.spotify.com/track/6HD8QpAz03vUdINlkfgW5J"
+    },
+    {
       "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Less of You",
@@ -59,6 +207,26 @@
       "duration_ms": 193493,
       "name": "Less of You",
       "url": "https://open.spotify.com/track/3IqGOQkS07q8HhGpGc4bjV"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Barcelona",
+        "url": "https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+        }
+      ],
+      "duration_ms": 205086,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -161,6 +329,22 @@
       "url": "https://open.spotify.com/track/3ixm1rumU8S9aQci6wiJM3"
     },
     {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Way Back",
+        "url": "https://open.spotify.com/album/5OpMXAZNCvc9CxGC1LD72A"
+      },
+      "artists": [
+        {
+          "name": "Tessa Dixson",
+          "url": "https://open.spotify.com/artist/7lIzEb23X68Dbt7Ka94Prh"
+        }
+      ],
+      "duration_ms": 167755,
+      "name": "Way Back",
+      "url": "https://open.spotify.com/track/4AlZ71IlRuG5xCQY4OtPKp"
+    },
+    {
       "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Under The Sun (with Alok)",
@@ -185,24 +369,24 @@
       "url": "https://open.spotify.com/track/59ySremqxhrlZnCuNrqf1Y"
     },
     {
-      "added_at": "2024-06-07 04:00:00",
+      "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Stay The Weekend (feat. Uffie)",
-        "url": "https://open.spotify.com/album/365Ua66eIkbBRD48k0uRTE"
+        "name": "Fair",
+        "url": "https://open.spotify.com/album/0IbbybOy5vCGIbRHf8yHRO"
       },
       "artists": [
         {
-          "name": "Alex Chapman",
-          "url": "https://open.spotify.com/artist/3c8wfedCs5BJGHcFyusyeh"
+          "name": "Billy Gillies",
+          "url": "https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO"
         },
         {
-          "name": "Uffie",
-          "url": "https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj"
+          "name": "Betsy",
+          "url": "https://open.spotify.com/artist/58FAQGIDRMXK5AsxJu9YNp"
         }
       ],
-      "duration_ms": 162938,
-      "name": "Stay The Weekend (feat. Uffie)",
-      "url": "https://open.spotify.com/track/0ZSN8Z0gcBJjVJFYYlpf9U"
+      "duration_ms": 208111,
+      "name": "Fair",
+      "url": "https://open.spotify.com/track/7f9fJAUu3EXbzzOmZA4QRC"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -223,6 +407,26 @@
       "duration_ms": 263879,
       "name": "Without You (with HAYLA)",
       "url": "https://open.spotify.com/track/5KW4qNLjWeh7rMbxCfg89N"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Stay The Weekend (feat. Uffie)",
+        "url": "https://open.spotify.com/album/365Ua66eIkbBRD48k0uRTE"
+      },
+      "artists": [
+        {
+          "name": "Alex Chapman",
+          "url": "https://open.spotify.com/artist/3c8wfedCs5BJGHcFyusyeh"
+        },
+        {
+          "name": "Uffie",
+          "url": "https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj"
+        }
+      ],
+      "duration_ms": 162938,
+      "name": "Stay The Weekend (feat. Uffie)",
+      "url": "https://open.spotify.com/track/0ZSN8Z0gcBJjVJFYYlpf9U"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -255,6 +459,22 @@
       "duration_ms": 148135,
       "name": "Multiply",
       "url": "https://open.spotify.com/track/0d8qNWRwQafcOXAyw6FxiB"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/06AscAzNNnjwtxfzXgrElI"
+      },
+      "artists": [
+        {
+          "name": "Michaela Ja\u00e9",
+          "url": "https://open.spotify.com/artist/1XtZq3vSEgghxZS9aqITv5"
+        }
+      ],
+      "duration_ms": 123726,
+      "name": "I Am",
+      "url": "https://open.spotify.com/track/6MVk4SW25q1CNENQE1RHyv"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1431,66 +1651,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "dive /stay/",
-        "url": "https://open.spotify.com/album/40F183249X27nHVY2QmCal"
-      },
-      "artists": [
-        {
-          "name": "Felix Cartal",
-          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
-        },
-        {
-          "name": "emma l\u00f8v",
-          "url": "https://open.spotify.com/artist/7eCvJy2JvEw2s087UHlJdx"
-        }
-      ],
-      "duration_ms": 185551,
-      "name": "dive /stay/",
-      "url": "https://open.spotify.com/track/41nkDiPZ1lOq90wnmJoL1L"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Dust",
-        "url": "https://open.spotify.com/album/6Z0Ql9KvDQjMUOniIx0R5S"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 169505,
-      "name": "Dust",
-      "url": "https://open.spotify.com/track/63ovddHrcXezSAjE8sSBwO"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/204uhd5Yr7mUtfydYTnBDQ"
-      },
-      "artists": [
-        {
-          "name": "Ian Asher",
-          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
-        },
-        {
-          "name": "SB19",
-          "url": "https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP"
-        },
-        {
-          "name": "Terry Zhong",
-          "url": "https://open.spotify.com/artist/6gmZPYIcqdjmkauB2krvSg"
-        }
-      ],
-      "duration_ms": 168102,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/7cens2GI2PTemvKNnpjxs8"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Friday",
         "url": "https://open.spotify.com/album/7syOKNR2x90o9MzqJI91hQ"
       },
@@ -1511,26 +1671,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Cicadas",
-        "url": "https://open.spotify.com/album/514A89AJBBRebXUNUTVlES"
-      },
-      "artists": [
-        {
-          "name": "MC4D",
-          "url": "https://open.spotify.com/artist/2MbY32LPINIi9P6PCkrOJI"
-        },
-        {
-          "name": "Matty Hendley",
-          "url": "https://open.spotify.com/artist/2yvhvBMATIOiEwXOWiktUS"
-        }
-      ],
-      "duration_ms": 223170,
-      "name": "Cicadas",
-      "url": "https://open.spotify.com/track/3vtqI9PL64e3QEZNH7M6yF"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "My Oh My",
         "url": "https://open.spotify.com/album/3uYWY4pRKn0fbVQJNrfUed"
       },
@@ -1543,26 +1683,6 @@
       "duration_ms": 156155,
       "name": "My Oh My",
       "url": "https://open.spotify.com/track/377uEWjxVKksQDlwDqaIfx"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "In My Bones",
-        "url": "https://open.spotify.com/album/1KIJzQIjSlJaSQZ9qLf1kB"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 156126,
-      "name": "In My Bones",
-      "url": "https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1599,50 +1719,6 @@
       "duration_ms": 152222,
       "name": "To The Beat",
       "url": "https://open.spotify.com/track/4y9tKMhrx5uepqljKj7wq9"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/3kjxjnNjxrMK8vdiy7Mpfo"
-      },
-      "artists": [
-        {
-          "name": "Alex Gaudino",
-          "url": "https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d"
-        },
-        {
-          "name": "Alexandra Stan",
-          "url": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
-        },
-        {
-          "name": "Mufasa & Hypeman",
-          "url": "https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0"
-        }
-      ],
-      "duration_ms": 147960,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/1nk18tNMS3nNWutUXGicMb"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Sinceramente (Bob Sinclar Remix)",
-        "url": "https://open.spotify.com/album/5y2I08N9BypHRsNn7SVemy"
-      },
-      "artists": [
-        {
-          "name": "Annalisa",
-          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
-        },
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        }
-      ],
-      "duration_ms": 201969,
-      "name": "Sinceramente - Bob Sinclar Remix",
-      "url": "https://open.spotify.com/track/2wTnyWk09U8VFejv19FNRR"
     },
     {
       "added_at": "2024-06-07 04:00:00",

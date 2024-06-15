@@ -3021,6 +3021,28 @@
     },
     {
       "album": {
+        "name": "H\u00c4NES",
+        "url": "https://open.spotify.com/album/4tDUIBqDZy3AmhvyMSA4Lp"
+      },
+      "artists": [
+        {
+          "name": "Vinttikoira",
+          "url": "https://open.spotify.com/artist/5BYjPxHBd5aCz5Pt8igAXl"
+        },
+        {
+          "name": "NickyDiesel",
+          "url": "https://open.spotify.com/artist/2Wo5oaP19W1SpOtkY8Rxof"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "H\u00c4NES",
+      "url": "https://open.spotify.com/track/1GMgV7OlLkdZ6nVq4vTZFo"
+    },
+    {
+      "album": {
         "name": "H\u00e4rk\u00e4",
         "url": "https://open.spotify.com/album/5zMykZH0xBJOTr2KDMOmGd"
       },

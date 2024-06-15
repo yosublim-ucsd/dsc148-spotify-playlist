@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 
 > Unwind and restore with the sounds of the Flute, from Indian maestros & modern geniuses\. Cover : Shriram Sampath
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,888 likes - 75 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,894 likes - 75 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 | 61 | [Naima](https://open.spotify.com/track/6lJ0KuPr2ClEz8VO33np8t) | [Deepak Ram](https://open.spotify.com/artist/0IRHoIb1ZFEVrwdm0SzPh5) | [Steps](https://open.spotify.com/album/303VLWbB3C3paaS9UFLoRa) | 6:59 |
 | 62 | [Sadhana](https://open.spotify.com/track/6UcidIpOnWyscCvNWKnaPa) | [Vinayak A](https://open.spotify.com/artist/0rdwBKdUKRIp2t05MeQ7KV), [Flutewala](https://open.spotify.com/artist/4dV1PSWzfh8IgXQgJLrXnH), [Manoj Kumar](https://open.spotify.com/artist/5tgOvwp2QxSAhnnK2s3FX2) | [Sadhana](https://open.spotify.com/album/6JOn66aAncnEDWp31GKfjV) | 4:53 |
 | 63 | [Durga](https://open.spotify.com/track/1f3Etpk0UmSDoj4zHYqIHu) | [Flute Navin](https://open.spotify.com/artist/3apnz04XPisQ04dTfz2Gaw), [Sriram Ramesh](https://open.spotify.com/artist/0DxF5hX19dKuP5x4oE5N2F), [Marina Albero](https://open.spotify.com/artist/2jWfppHhFHZewG8RWk8LHb), [Evan Flory\-Barnes](https://open.spotify.com/artist/4OXSAa2INCHHC74mkGy80D) | [The London Bridge Sessions](https://open.spotify.com/album/4e3EI9dcP63C8kzY4n0qyj) | 3:58 |
-| 64 | [Bansuri \(Tranquil Waters\)](https://open.spotify.com/track/7AyWhg7yOGaT1a8juVaFAF) | [Indian Flute](https://open.spotify.com/artist/4vz48P0cvMOxI2BVAbGcbD) | [Indian Flute Meditation Music \(Pure Positive Vibes & Instrumental Music for Meditation and Yoga\)](https://open.spotify.com/album/42mCdQJfJr1SkICZy0KGaw) | 4:33 |
-| 65 | [Sukoon](https://open.spotify.com/track/6j6fiOB0h2VQPgq865WrbG) | [Raghav Sachar](https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj), [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR) | [Sukoon](https://open.spotify.com/album/7Hsk3m0X0kqyOJtmpEUPdA) | 2:30 |
+| 64 | [Sukoon](https://open.spotify.com/track/6j6fiOB0h2VQPgq865WrbG) | [Raghav Sachar](https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj), [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR) | [Sukoon](https://open.spotify.com/album/7Hsk3m0X0kqyOJtmpEUPdA) | 2:30 |
+| 65 | [Bansuri \(Tranquil Waters\)](https://open.spotify.com/track/7AyWhg7yOGaT1a8juVaFAF) | [Indian Flute](https://open.spotify.com/artist/4vz48P0cvMOxI2BVAbGcbD) | [Indian Flute Meditation Music \(Pure Positive Vibes & Instrumental Music for Meditation and Yoga\)](https://open.spotify.com/album/42mCdQJfJr1SkICZy0KGaw) | 4:33 |
 | 66 | [Silence Is Bliss \(feat\. Pt\. Vishwa Mohan Bhatt\)](https://open.spotify.com/track/1EsiOtldv6cwty7wzjb21G) | [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR), [Pt\. Vishwamohan Bhatt](https://open.spotify.com/artist/6k1v88IuEyekzfG7N5VnDS) | [Silence Is Bliss](https://open.spotify.com/album/4tINT5MiPsX1SSECjIHfzw) | 7:07 |
 | 67 | [Venu](https://open.spotify.com/track/4iNkY671G1WKiFAzEvsT07) | [Martín Asaro](https://open.spotify.com/artist/0V3EGDQyGZgqEOBbWoK5Tk) | [Viajando Con El Viento](https://open.spotify.com/album/4Z2cYIf67ZZUJUTfkl2RpR) | 9:36 |
 | 68 | [Gokul Streets \- Original Mix](https://open.spotify.com/track/5cP04kLMxkCy9tAJ3q8fzp) | [Rupak Mukherjee](https://open.spotify.com/artist/7wbEfkEn8mdeWJqMdjTP5M) | [Classical Melodies of Flute and Tabla](https://open.spotify.com/album/2O3fQR25SIk7vYla9dlchz) | 1:53 |

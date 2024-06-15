@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "Adore U",
+        "url": "https://open.spotify.com/album/6TuqYkU9a9UNy7YxwATWDg"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164178,
+      "name": "Adore U",
+      "url": "https://open.spotify.com/track/5qQHPdQaiLkIrRjMBFTbuz"
+    },
+    {
+      "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/062urW4KS66GPlEHIueefz"
       },
@@ -162,6 +180,24 @@
       "duration_ms": 215384,
       "name": "All I Ever Asked",
       "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
+    },
+    {
+      "album": {
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/6JxK2wrBeT1L6lTD6NAICm"
+      },
+      "artists": [
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210338,
+      "name": "All Yours",
+      "url": "https://open.spotify.com/track/14bmkoHIGDA4F3coRG6d2O"
     },
     {
       "album": {
@@ -854,7 +890,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 170066,
       "name": "Candy Paint",
       "url": "https://open.spotify.com/track/2hZQJequTwkaizRM0NZRa1"
@@ -1130,7 +1166,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 228961,
       "name": "Comfortable",
       "url": "https://open.spotify.com/track/1BEioZa6o8AVDmOh5Sc86j"
@@ -1148,7 +1184,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 157200,
       "name": "Commas",
       "url": "https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy"
@@ -1170,6 +1206,28 @@
       "duration_ms": 128509,
       "name": "Company",
       "url": "https://open.spotify.com/track/1W8Ip7MHOwAg0nCMQ4tQos"
+    },
+    {
+      "album": {
+        "name": "Cape Town to Cairo",
+        "url": "https://open.spotify.com/album/3xrdk0MImcnbt9NEc7pSnK"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169124,
+      "name": "Count On Me",
+      "url": "https://open.spotify.com/track/1NFEXNMg8AZ0jGSux4CJdd"
     },
     {
       "album": {
@@ -1412,7 +1470,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 218405,
       "name": "Don't Let Me Let You Go",
       "url": "https://open.spotify.com/track/1UfCol96gYdamSjGtJtg7p"
@@ -1528,6 +1586,24 @@
       "duration_ms": 268235,
       "name": "Double Fantasy (with Future)",
       "url": "https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi"
+    },
+    {
+      "album": {
+        "name": "Double Life (From \"Despicable Me 4\")",
+        "url": "https://open.spotify.com/album/6k4sB6SP3ekH3iIhaDuUV4"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190782,
+      "name": "Double Life - From \"Despicable Me 4\"",
+      "url": "https://open.spotify.com/track/07oO1U722crtVcavi6frX6"
     },
     {
       "album": {
@@ -1684,6 +1760,28 @@
       "duration_ms": 171493,
       "name": "Envy Me",
       "url": "https://open.spotify.com/track/0xc4ODKuFf11SjYBLUoQUD"
+    },
+    {
+      "album": {
+        "name": "Era",
+        "url": "https://open.spotify.com/album/7u7kdBtG8MMxvqBAsGpfQo"
+      },
+      "artists": [
+        {
+          "name": "Tayla Parx",
+          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
+        },
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133011,
+      "name": "Era",
+      "url": "https://open.spotify.com/track/0lnwlqbqROrhg4IiQ34iH6"
     },
     {
       "album": {
@@ -1856,6 +1954,24 @@
       "duration_ms": 170653,
       "name": "Fast (Motion)",
       "url": "https://open.spotify.com/track/7zEz7q43xjzbRSUar4yH3m"
+    },
+    {
+      "album": {
+        "name": "Father Time",
+        "url": "https://open.spotify.com/album/4KybapfhlV7qCx4TGUiVb3"
+      },
+      "artists": [
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146483,
+      "name": "Father Time",
+      "url": "https://open.spotify.com/track/02JmFiCHPqN5MeYzbdMLEM"
     },
     {
       "album": {
@@ -2475,6 +2591,24 @@
     },
     {
       "album": {
+        "name": "HEATWAVE",
+        "url": "https://open.spotify.com/album/0JClei8LijSQFtP2GrWvVF"
+      },
+      "artists": [
+        {
+          "name": "BRONZE AVERY",
+          "url": "https://open.spotify.com/artist/30XwDI0SEYBda3gBtutSZW"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138947,
+      "name": "HEATWAVE",
+      "url": "https://open.spotify.com/track/6px1hvyZ0WujEYrhGgu23g"
+    },
+    {
+      "album": {
         "name": "Heaven (feat. Tinashe)",
         "url": "https://open.spotify.com/album/6KgSP1vLwIc3xBI7hUTrly"
       },
@@ -2722,6 +2856,46 @@
       "duration_ms": 163786,
       "name": "HUH?",
       "url": "https://open.spotify.com/track/6wvMhmj0Jv7sf4isnzC5RQ"
+    },
+    {
+      "album": {
+        "name": "I AM",
+        "url": "https://open.spotify.com/album/641i013yXfYjOJFpUi9QAf"
+      },
+      "artists": [
+        {
+          "name": "Macy Gray",
+          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
+        },
+        {
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163529,
+      "name": "I AM",
+      "url": "https://open.spotify.com/track/12LIQARQMnu1SR3ECd3Fvm"
+    },
+    {
+      "album": {
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/06AscAzNNnjwtxfzXgrElI"
+      },
+      "artists": [
+        {
+          "name": "Michaela Ja\u00e9",
+          "url": "https://open.spotify.com/artist/1XtZq3vSEgghxZS9aqITv5"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123726,
+      "name": "I Am",
+      "url": "https://open.spotify.com/track/6MVk4SW25q1CNENQE1RHyv"
     },
     {
       "album": {
@@ -3055,6 +3229,24 @@
     },
     {
       "album": {
+        "name": "JUST LIKE THAT",
+        "url": "https://open.spotify.com/album/17Wk4tqPJ8rMH1hFCW4eLf"
+      },
+      "artists": [
+        {
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138618,
+      "name": "JUST LIKE THAT",
+      "url": "https://open.spotify.com/track/4alytlIn91jJgzsu6rSONb"
+    },
+    {
+      "album": {
         "name": "Kiss Me More (feat. SZA)",
         "url": "https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt"
       },
@@ -3110,6 +3302,24 @@
       "duration_ms": 216347,
       "name": "Last Time I Saw You",
       "url": "https://open.spotify.com/track/79DPYZ6x8FfzgSgPoPhpC3"
+    },
+    {
+      "album": {
+        "name": "Leap",
+        "url": "https://open.spotify.com/album/3DgEprE3tOJJM3ZmEHuKbl"
+      },
+      "artists": [
+        {
+          "name": "Billy Porter",
+          "url": "https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207193,
+      "name": "Leap",
+      "url": "https://open.spotify.com/track/5OAk5es80RsL6kn6ruPDDj"
     },
     {
       "album": {
@@ -3228,6 +3438,24 @@
       "duration_ms": 207348,
       "name": "let go of me slowly",
       "url": "https://open.spotify.com/track/5X0QI12MERu54ghfLYF76f"
+    },
+    {
+      "album": {
+        "name": "Letter 2 Myself",
+        "url": "https://open.spotify.com/album/0vYXfkK1E5GrQagUWiGgxc"
+      },
+      "artists": [
+        {
+          "name": "Chesle",
+          "url": "https://open.spotify.com/artist/1OEchET7khtY1YZZ7UFJO2"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165863,
+      "name": "Letter 2 Myself",
+      "url": "https://open.spotify.com/track/0zvrOBR7cTCzYf7AFaw1z4"
     },
     {
       "album": {
@@ -3365,6 +3593,24 @@
     },
     {
       "album": {
+        "name": "i tried.",
+        "url": "https://open.spotify.com/album/3ZrMVmVgaAzizc3MzotdvN"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185800,
+      "name": "Lose Myself",
+      "url": "https://open.spotify.com/track/1uqgUlVmfomaH1IEeDOC5y"
+    },
+    {
+      "album": {
         "name": "Lottery (feat. LU KALA)",
         "url": "https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4"
       },
@@ -3402,6 +3648,24 @@
       "duration_ms": 178041,
       "name": "Love Me JeJe",
       "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
+    },
+    {
+      "album": {
+        "name": "Love Me Not / Love Is Blind",
+        "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213460,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
     },
     {
       "album": {
@@ -3667,6 +3931,42 @@
     },
     {
       "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/6IHfJm4FRah8YHY8PMVOJd"
+      },
+      "artists": [
+        {
+          "name": "Forest Claudette",
+          "url": "https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174358,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/0tNKQB9jfD9vHOJlV9yvg1"
+    },
+    {
+      "album": {
+        "name": "mother, i'm sorry",
+        "url": "https://open.spotify.com/album/3rRi34iScxTHmigFLsLRnl"
+      },
+      "artists": [
+        {
+          "name": "Kamal.",
+          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179012,
+      "name": "mother, i'm sorry",
+      "url": "https://open.spotify.com/track/3MK5179YJv1pSTtgoYDuQ6"
+    },
+    {
+      "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/2R9a1Kl1u7OT9WlUjVyvVd"
       },
@@ -3917,6 +4217,24 @@
     },
     {
       "album": {
+        "name": "No Hard Feelings",
+        "url": "https://open.spotify.com/album/5FLuHwbit7X3hXqXB1j6Mb"
+      },
+      "artists": [
+        {
+          "name": "Leigh-Anne",
+          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166664,
+      "name": "Nature",
+      "url": "https://open.spotify.com/track/7o1OfwR349jSAodpOdTnlG"
+    },
+    {
+      "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
@@ -4134,7 +4452,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 133985,
       "name": "OMG",
       "url": "https://open.spotify.com/track/5EfJsHmAPhnzQB4L6wz5FT"
@@ -4164,6 +4482,24 @@
       "duration_ms": 153194,
       "name": "One Shot (feat. Blxst & Wale)",
       "url": "https://open.spotify.com/track/79zOijd7A1FGKKGBQMqBKl"
+    },
+    {
+      "album": {
+        "name": "Only One I Need",
+        "url": "https://open.spotify.com/album/5yjLnFizgrGtPGdzLjpOgz"
+      },
+      "artists": [
+        {
+          "name": "Amaya Gloor",
+          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146546,
+      "name": "Only One I Need",
+      "url": "https://open.spotify.com/track/3KjEAu1W14nGLCNA52ib3Q"
     },
     {
       "album": {
@@ -4464,7 +4800,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 177562,
       "name": "Please Don't Fall In Love With Me",
       "url": "https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7"
@@ -4508,7 +4844,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series)",
       "url": "https://open.spotify.com/track/38ziag7I4rieq2OzpfuCy2"
@@ -4986,7 +5322,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 153223,
       "name": "Say Cheese",
       "url": "https://open.spotify.com/track/7uJkYfpWvJiiBGsChnk56I"
@@ -5214,6 +5550,24 @@
       "duration_ms": 174748,
       "name": "Special (feat. SZA)",
       "url": "https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk"
+    },
+    {
+      "album": {
+        "name": "Spend It",
+        "url": "https://open.spotify.com/album/2n6OxKUHTgxIfLP6Hz7urN"
+      },
+      "artists": [
+        {
+          "name": "Flyana Boss",
+          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124500,
+      "name": "Spend It",
+      "url": "https://open.spotify.com/track/7K9v9JgMHunEqaRM0WOt7P"
     },
     {
       "album": {
@@ -5545,6 +5899,24 @@
     },
     {
       "album": {
+        "name": "International Girl, Pt. 1",
+        "url": "https://open.spotify.com/album/4C8q9K3fEhwrEULk2akLR7"
+      },
+      "artists": [
+        {
+          "name": "Tolou",
+          "url": "https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133928,
+      "name": "Take Your Time (Slow Down)",
+      "url": "https://open.spotify.com/track/01eRSf9IjbyWK7wjCygQRn"
+    },
+    {
+      "album": {
         "name": "TAKUT\u00c1",
         "url": "https://open.spotify.com/album/3isNlsXrKxnpbrznyJe2gu"
       },
@@ -5618,7 +5990,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 124444,
       "name": "Tell Ur Girlfriend",
       "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
@@ -6590,7 +6962,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 123000,
       "name": "yeaaa",
       "url": "https://open.spotify.com/track/7LRCka2KbO2TylPOYdhASf"

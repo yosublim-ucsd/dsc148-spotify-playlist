@@ -2,7 +2,7 @@
 
 ### [This Is OVO Sound](https://open.spotify.com/playlist/37i9dQZF1DWYvexEL7O6ws)
 
-> The label's essential tracks by Drake, PARTYNEXTDOOR, Naomi Sharon, Roy Woods, dvsn, and more\. Cover: <a href="spotify:artist:3TVXtAsR1Inumwj472S9r4">Drake</a> and Noah "40" Shebib
+> The label's essential tracks by Drake, Naomi Sharon, Roy Woods, dvsn and more\. Cover: <a href="spotify:artist:2HPaUgqeutzr3jx5a9WyDV">PARTYNEXTDOOR</a>
 
 167 songs - 10 hr 39 min
 

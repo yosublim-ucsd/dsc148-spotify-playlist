@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: Jessie Reyez & Big Sean",
+  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: jev.",
   "name": "Northern Bars",
   "tracks": [
     {
@@ -800,7 +800,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 183750,
       "name": "8:00AM",
       "url": "https://open.spotify.com/track/0QsdR68OXSYZqHwS9qJ0lY"
@@ -1418,6 +1418,24 @@
       "duration_ms": 163250,
       "name": "Alejandro Sosa",
       "url": "https://open.spotify.com/track/7E6dftnR9rRdXfBXn2eZow"
+    },
+    {
+      "album": {
+        "name": "when angels cry.",
+        "url": "https://open.spotify.com/album/3Pxu2ymEhjctOANjYZh5eA"
+      },
+      "artists": [
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179366,
+      "name": "ALICE.",
+      "url": "https://open.spotify.com/track/2dVmZ5FPuBsZY8XwK7CRSc"
     },
     {
       "album": {
@@ -2846,6 +2864,24 @@
       "duration_ms": 158181,
       "name": "been a long day",
       "url": "https://open.spotify.com/track/08AAf8wcx8aq1V9n2ROwqq"
+    },
+    {
+      "album": {
+        "name": "Been A Long Time",
+        "url": "https://open.spotify.com/album/1xhYME3bWNQ4FElbvB5ruj"
+      },
+      "artists": [
+        {
+          "name": "Beatox",
+          "url": "https://open.spotify.com/artist/0F8OU3gInLIG9P3jsPk5uT"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "Been A Long Time",
+      "url": "https://open.spotify.com/track/5NsxUxjCJpxi5Sw0u7J3i3"
     },
     {
       "album": {
@@ -9498,7 +9534,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 131544,
       "name": "Frank Miller (Kill Again)",
       "url": "https://open.spotify.com/track/7HZl2VrEC0wODesG5W5q0o"
@@ -18096,7 +18132,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 168000,
       "name": "NO FLYING FCKS",
       "url": "https://open.spotify.com/track/0uhG0jUIigQvG3ydHLYUW7"
@@ -18216,6 +18252,28 @@
       "duration_ms": 144615,
       "name": "NO LOVE LOST",
       "url": "https://open.spotify.com/track/7vB7zhGbL8gpIIuY97dyRY"
+    },
+    {
+      "album": {
+        "name": "No Man's Land",
+        "url": "https://open.spotify.com/album/6dpOkokZkuRlHjdn6tDoaU"
+      },
+      "artists": [
+        {
+          "name": "Daniel Son",
+          "url": "https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF"
+        },
+        {
+          "name": "Futurewave",
+          "url": "https://open.spotify.com/artist/4i9PacC5mAjVi8DzWcpmxz"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171805,
+      "name": "No Man's Land",
+      "url": "https://open.spotify.com/track/3Y29iIdmtvUyADSQ8CrE4C"
     },
     {
       "album": {
@@ -21172,6 +21230,24 @@
       "duration_ms": 221538,
       "name": "Pressure (feat. Mack 11)",
       "url": "https://open.spotify.com/track/6lS2HpL86e2z3Jjkc9ahBJ"
+    },
+    {
+      "album": {
+        "name": "PRICELESS",
+        "url": "https://open.spotify.com/album/1i98id8o4lIF4o0HQNnP8N"
+      },
+      "artists": [
+        {
+          "name": "Devont\u00e9e",
+          "url": "https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161833,
+      "name": "PRICELESS",
+      "url": "https://open.spotify.com/track/3c3aImbDHMBtg7lB4rQ6UA"
     },
     {
       "album": {
@@ -24366,7 +24442,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 117312,
       "name": "St-End",
       "url": "https://open.spotify.com/track/6LWN8hmk9DvZXHrsACGZZn"
@@ -25778,7 +25854,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 160453,
       "name": "Tell Me Why",
       "url": "https://open.spotify.com/track/0PF8sR3KLPvH1Z1yQIN5R8"
@@ -26183,6 +26259,28 @@
     },
     {
       "album": {
+        "name": "THE FUNCTION (feat. WESTSIDE BOOGIE)",
+        "url": "https://open.spotify.com/album/1ctqV6jphrC0PBvG6DveL0"
+      },
+      "artists": [
+        {
+          "name": "Skip Waiters",
+          "url": "https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav"
+        },
+        {
+          "name": "WESTSIDE BOOGIE",
+          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "THE FUNCTION (feat. WESTSIDE BOOGIE)",
+      "url": "https://open.spotify.com/track/7o1xrPEcz0HCAdPvzKos0d"
+    },
+    {
+      "album": {
         "name": "The Getaway",
         "url": "https://open.spotify.com/album/1SrmJcntxwGRO8Yxj9a4nb"
       },
@@ -26496,7 +26594,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 130369,
       "name": "THE SAMURAI'S MONOLOGUE.",
       "url": "https://open.spotify.com/track/2T3eL2nVjkbdVOVbVi84Fj"
@@ -26768,7 +26866,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 98026,
       "name": "Throw Sumn",
       "url": "https://open.spotify.com/track/75SQbrOllxNsjS3CTuSz2E"
@@ -28808,6 +28906,24 @@
       "duration_ms": 147437,
       "name": "Wayne In 06",
       "url": "https://open.spotify.com/track/3eYkCe83EpthV9e0AxzTUe"
+    },
+    {
+      "album": {
+        "name": "We Don't Make Sense",
+        "url": "https://open.spotify.com/album/212WkWG04xW3rGE2JN4sL2"
+      },
+      "artists": [
+        {
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243380,
+      "name": "We Don't Make Sense",
+      "url": "https://open.spotify.com/track/25WdkhsSsNdc0Fa2EjfLim"
     },
     {
       "album": {

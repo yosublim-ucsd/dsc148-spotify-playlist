@@ -4,7 +4,7 @@
 
 > The baddest and most influential women in music \[Ex\. <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\] Cover: Normani
 
-481 songs - 23 hr 53 min
+483 songs - 1 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [All Mine](https://open.spotify.com/track/1NTkBmlvXj3R4nHNbRvQhI) | [Bahja Rodriguez](https://open.spotify.com/artist/7BmPndqloczpnUH2Xu8G29) | [All Mine](https://open.spotify.com/album/5HfRomFAcnSvhGJEDMFE3J) | 2:49 | 2023-02-17 |  |
 | [All Night \(feat\. Saweetie\)](https://open.spotify.com/track/1hkeifGMiDQjXlvAsIoDaa) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [All Night \(feat\. Saweetie\)](https://open.spotify.com/album/3m4sanPtJZrKkYMxSbjRRP) | 3:17 | 2024-01-19 |  |
 | [All the Ladies](https://open.spotify.com/track/19GpYDzW77W8HBMGOwwcO5) | [Operation Mincemeat](https://open.spotify.com/artist/1vI2xejTxGEQnebQGPLYfX) | [Operation Mincemeat: A New Musical \(Original Cast Recording\)](https://open.spotify.com/album/0gA0nTUk4CNoHbRljF5BP3) | 2:12 | 2023-06-02 |  |
+| [All Yours](https://open.spotify.com/track/14bmkoHIGDA4F3coRG6d2O) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [All Yours](https://open.spotify.com/album/6JxK2wrBeT1L6lTD6NAICm) | 3:30 | 2024-06-14 |  |
 | [alone](https://open.spotify.com/track/6wpOHVSrinXhKqF4EBbpuS) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [alone](https://open.spotify.com/album/29sXbgWHLAjGcshP5zHCpW) | 2:52 | 2024-03-01 |  |
 | [Alright](https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 2:53 | 2023-08-25 |  |
 | [AMANTES](https://open.spotify.com/track/3Q7o2zzvXj7QiSCumjBpvu) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Daviles de Novelda](https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI) | [AMANTES](https://open.spotify.com/album/2yEEceuPovV5sAoey4GUJF) | 3:00 | 2022-09-16 | 2023-07-29 |
@@ -417,6 +418,7 @@
 | [Super Star](https://open.spotify.com/track/0kyGwQwAXrKo5wxoMWva1j) | [LUNA](https://open.spotify.com/artist/56HZvtrzD82YKMGGJTlIG2), [Original Broadway Cast of KPOP](https://open.spotify.com/artist/6I2l37l0O5gjtj4dphiPST) | [Super Star](https://open.spotify.com/album/2F5VQ6qg0vWViic8rSFJ6p) | 4:09 | 2023-03-17 | 2023-06-10 |
 | [Surprise](https://open.spotify.com/track/3xcapG4WdzvsER4g70MjKc) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Surprise](https://open.spotify.com/album/2C3rUs6GnKWT0c101eBiQb) | 2:35 | 2022-06-17 | 2023-03-25 |
 | [Sweet Face](https://open.spotify.com/track/4pxPWlC8K2hh5M6rihqpZX) | [Bu Cuaron](https://open.spotify.com/artist/436VIztZC1jpD8Pzo5rvUj) | [Drop By When You Drop Dead](https://open.spotify.com/album/2BfdNvE24Y7JV3yWQLvDA5) | 2:45 | 2024-04-12 |  |
+| [Sweet Like](https://open.spotify.com/track/6Hj7gXUzQreDfSozI4QwbQ) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Moth](https://open.spotify.com/album/3QYrEoeYrBdBNrtsuoCor7) | 3:39 | 2024-06-14 |  |
 | [Switching Sides \(feat\. Dee Gatti\)](https://open.spotify.com/track/4lUEgk2Da44ikFhF5TS863) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG), [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Switching Sides \(feat\. Dee Gatti\)](https://open.spotify.com/album/0t0KTaeuABJBI0XiNM9vyr) | 2:19 | 2023-12-08 |  |
 | [TAKUTÁ](https://open.spotify.com/track/3WRXW64cLmy1WSHEs9zgUZ) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [TAKUTÁ](https://open.spotify.com/album/3isNlsXrKxnpbrznyJe2gu) | 2:38 | 2023-03-31 |  |
 | [tamale](https://open.spotify.com/track/3wYBsydE652XR0KSmUegEZ) | [VALÉ](https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE) | [tamale](https://open.spotify.com/album/5YhH1YhPsOhn4Zg3satPMh) | 2:14 | 2022-06-03 | 2023-03-25 |

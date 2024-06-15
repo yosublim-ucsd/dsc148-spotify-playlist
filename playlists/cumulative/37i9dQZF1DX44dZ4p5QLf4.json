@@ -5162,7 +5162,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 177149,
       "name": "Moving",
       "url": "https://open.spotify.com/track/6G6ZRdY51J76WLRUzl36TO"
@@ -5528,6 +5528,24 @@
       "duration_ms": 208741,
       "name": "One Last Dance",
       "url": "https://open.spotify.com/track/0MzrzzeC7IvFk1J9DFdu4d"
+    },
+    {
+      "album": {
+        "name": "OOTW",
+        "url": "https://open.spotify.com/album/3dKsoVM86jYYP7AHEN3qDX"
+      },
+      "artists": [
+        {
+          "name": "Shae Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139458,
+      "name": "OOTW",
+      "url": "https://open.spotify.com/track/39POBulxadsYQ7hQgni7Z4"
     },
     {
       "album": {
@@ -7984,7 +8002,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 154000,
       "name": "The Way You Are",
       "url": "https://open.spotify.com/track/0y63PuqT04J1EsUioyiQWp"
@@ -8152,7 +8170,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 130750,
       "name": "TIRED",
       "url": "https://open.spotify.com/track/6N8VWaHtkUzJ4uF1gj5wIU"

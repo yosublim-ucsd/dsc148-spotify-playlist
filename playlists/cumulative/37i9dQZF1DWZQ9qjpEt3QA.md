@@ -4,7 +4,7 @@
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-150 songs - 10 hr 7 min
+151 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [DOWN TOWN](https://open.spotify.com/track/3MXCCaSni8I1FSvHeMQIGV) | [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y), [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Hiro\-a\-key](https://open.spotify.com/artist/3xST4IdzibYK6K3IAtcaVe), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [DOWN TOWN](https://open.spotify.com/album/3yY408DUkgwhfZkouMRK0i) | 4:50 | 2023-03-16 |  |
 | [Essential](https://open.spotify.com/track/5jtEduKSyyJXEE6IbZFLJR) | [quicksand bed](https://open.spotify.com/artist/5PHCGqnqL1dzGEud0XL2ym) | [Essential](https://open.spotify.com/album/6WdkSCs0MlShCNo8FQTNC0) | 3:06 | 2022-05-26 |  |
 | [Fantasia](https://open.spotify.com/track/4lALjw6ugXYRubOBAIqP4b) | [Harra.](https://open.spotify.com/artist/0bPHN5TpcAXxpuPjgNbh7O) | [Fantasia](https://open.spotify.com/album/4R29MM1Qdq4ZlNSfldipEb) | 4:08 | 2024-01-10 |  |
+| [Flashlight](https://open.spotify.com/track/4qTspjp0GiwfTTYDvhgJ6u) | [Precious Bloom](https://open.spotify.com/artist/6IFNsMUy9ZIPoITKCjMTMN) | [Flashlight](https://open.spotify.com/album/16670hpVDgDohewHKfthD6) | 7:07 | 2024-06-14 |  |
 | [Free\-Fall](https://open.spotify.com/track/1n3R1qXmNgiam6aPmBy73N) | [Sept.](https://open.spotify.com/artist/5vRnwNYjntZajB1Qx4DCXw) | [Wander Wander](https://open.spotify.com/album/1aFFBDlKtZGKw5SROlidMb) | 3:10 | 2024-01-06 |  |
 | [Give Me The Light](https://open.spotify.com/track/1kTFcaOrSmY4XqneDu3oRm) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [Sunday Seoul Ep.1](https://open.spotify.com/album/0e1xGcRS9hvmVjfDRaFK6V) | 3:10 | 2022-08-30 | 2024-04-19 |
 | [Give Me The Light](https://open.spotify.com/track/63K56gwJ3ALMJsIwiOq4CF) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [Sunday Seoul Ep.1](https://open.spotify.com/album/6ZW5WYi1P6odIEMJDH4xBC) | 3:10 | 2022-05-26 |  |

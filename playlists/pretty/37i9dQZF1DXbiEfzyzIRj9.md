@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Peggy Gou
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,077 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,073 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 8 | [Black Ice Mudra](https://open.spotify.com/track/2Jey7LyTYCdLuEGBjzElRY) | [Rustie](https://open.spotify.com/artist/6YGu0Rv2120wkc4AXZSGgl) | [Black Ice Mudra](https://open.spotify.com/album/6PZ3fBqZM8LdAaP6NkVs8z) | 2:46 |
 | 9 | [places to be](https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [places to be](https://open.spotify.com/album/0M0iJGLagLtI4LlooOiiNZ) | 3:46 |
 | 10 | [dopamine](https://open.spotify.com/track/4biJX8U4rQURHdvNRbqskM) | [JOMMY](https://open.spotify.com/artist/38LGgscsrvNiN82PTOIi10), [SUNNY ONLY 1](https://open.spotify.com/artist/1PcuXbYDyLM8zEsZT1EQtc) | [dopamine](https://open.spotify.com/album/0NmrTfW2IqmZHflEEmX3gE) | 3:10 |
-| 11 | [EVOLUTION \(feat\. HUNJIYA\)](https://open.spotify.com/track/6OPebsuvqCIfYZ5a4Nn1GT) | [swimrabbit](https://open.spotify.com/artist/7klsHI12mBDasOWDaVt5tY), [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC) | [CONNECT](https://open.spotify.com/album/0nY3XuJF7n6J6vbXJTrI0a) | 2:42 |
+| 11 | [EVOLUTION](https://open.spotify.com/track/6OPebsuvqCIfYZ5a4Nn1GT) | [swimrabbit](https://open.spotify.com/artist/7klsHI12mBDasOWDaVt5tY), [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC) | [CONNECT](https://open.spotify.com/album/0nY3XuJF7n6J6vbXJTrI0a) | 2:42 |
 | 12 | [RR.dnk](https://open.spotify.com/track/6az5DcWgPNlWDUte0OqpXM) | [Emma DJ](https://open.spotify.com/artist/5WPBoQGyVEaa54xmfsKsXF) | [Lay2g](https://open.spotify.com/album/2jwLng6VKfEQIj4sMpTmkx) | 3:53 |
 | 13 | [Broke My Heart](https://open.spotify.com/track/1ZHl7FtYY4gio5bGkFfiGP) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Broke My Heart](https://open.spotify.com/album/59CU4E0eXGaVLtAeQ5DwVN) | 2:46 |
 | 14 | [I'll Come Your Way](https://open.spotify.com/track/3lk15upGEldLkgKm7f48QS) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [I'll Come Your Way](https://open.spotify.com/album/2Ck1pJHLkPj5uZxstCJEO9) | 3:33 |

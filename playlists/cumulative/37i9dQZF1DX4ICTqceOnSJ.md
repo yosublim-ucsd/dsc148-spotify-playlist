@@ -4,7 +4,7 @@
 
 > Las canciones esenciales de la escena alternativa en español\. Con Diamante Eléctrico en portada.
 
-274 songs - 15 hr 57 min
+275 songs - 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Dulce Soledad](https://open.spotify.com/track/0BKJNlqLlNvvIunfg2BPCg) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Daltónico](https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy) | 3:44 | 2024-03-08 |  |
 | [Días De Fuego](https://open.spotify.com/track/0llXG2KrSGVjW3fVJrrmcE) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Días De Fuego](https://open.spotify.com/album/0DZPvNS2UafM6bBPMm3QEX) | 3:05 | 2024-03-08 |  |
 | [Díganselo](https://open.spotify.com/track/4CZnsSrphc4CJ5cQT4NWEB) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Díganselo](https://open.spotify.com/album/3DoBSpmUSKCrk8F5wrMkTL) | 3:59 | 2023-05-22 | 2023-08-15 |
+| [El Big Bang](https://open.spotify.com/track/61svvvUEUPodjZvXhXv74e) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [El Big Bang](https://open.spotify.com/album/21sw5hm7AanjSg7mZrBYxz) | 4:03 | 2024-06-14 |  |
 | [El Bolero \- Acústico](https://open.spotify.com/track/27gu4iadh6eZ3seAD74dTM) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [El Bolero \(acústico\)](https://open.spotify.com/album/5P85yo4uOZwMXQT46vubPe) | 3:29 | 2023-03-19 | 2023-04-21 |
 | [El Cardón](https://open.spotify.com/track/2L5z9XcA1PCxUOJ3W24tnX) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [Bungalo Dub](https://open.spotify.com/artist/69JPOTvYfcr3R57sMZdJU0), [Bhajan](https://open.spotify.com/artist/03gjTMhvuxszNbXMxwYJmv) | [El Cardón](https://open.spotify.com/album/69EuMRSnKU8THC0V3WZ4rz) | 3:27 | 2023-03-19 | 2023-06-01 |
 | [El Fin del Mundo](https://open.spotify.com/track/5SeYlZyKVENMOxiSPQkKyw) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Axolotes Mexicanos](https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx) | [El Fin del Mundo](https://open.spotify.com/album/4VfiuZYoSkkLs7N68l75jN) | 3:08 | 2024-03-08 |  |
@@ -109,7 +110,7 @@
 | [Ella se burló de mí](https://open.spotify.com/track/4A7e3xbhvbktOXCgVYBCDZ) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [3D](https://open.spotify.com/album/7CPux4iLNEQ1KGVzmE9CKz) | 2:30 | 2023-10-13 | 2024-03-09 |
 | [Emborracharme](https://open.spotify.com/track/67DveIUUjToBiKJwMnFZiJ) | [Lori Meyers](https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi) | [Impronta](https://open.spotify.com/album/7cQBUtJwVAKluOLttrga9m) | 3:32 | 2024-03-08 | 2024-04-19 |
 | [EME](https://open.spotify.com/track/4Zsk8bKl9FIvaDPBO464BI) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [EME](https://open.spotify.com/album/7LNPWPlfY52Lfip0mubSNx) | 2:27 | 2023-05-31 | 2023-09-04 |
-| [En Avenidas](https://open.spotify.com/track/5GgmtaUrV9qk6aBTbcupcd) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Ruli](https://open.spotify.com/album/3V7wGsYWEcD97RsKgIFZJq) | 3:15 | 2024-03-08 |  |
+| [En Avenidas](https://open.spotify.com/track/5GgmtaUrV9qk6aBTbcupcd) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Ruli](https://open.spotify.com/album/3V7wGsYWEcD97RsKgIFZJq) | 3:15 | 2024-03-08 | 2024-06-15 |
 | [En La Oscuridad](https://open.spotify.com/track/69UvsEF4Kah8cbACRyREqF) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Bolero Apocalíptico \(Deluxe Version\)](https://open.spotify.com/album/6TLARwYU6FpUDAA3nxtKM0) | 4:22 | 2023-10-14 | 2024-03-09 |
 | [En Todas Partes](https://open.spotify.com/track/3e0oTmzpggchmvDpUgEgbL) | [Micaela Salaverry](https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo), [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [En Todas Partes](https://open.spotify.com/album/5jV6AmV4Gpg8GSe3WhSjof) | 3:37 | 2023-03-19 | 2023-06-24 |
 | [Enamorada](https://open.spotify.com/track/5crUoUnVrtjHaHHhDQuf8z) | [Pedrina y Rio](https://open.spotify.com/artist/6JkcXRzUF8IXV78ATWAHRK) | [Canciones Sin Ropa](https://open.spotify.com/album/0L9cqmT0jwp00pj6r49Ttj) | 3:33 | 2024-03-08 |  |

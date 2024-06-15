@@ -304,7 +304,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 164178,
       "name": "Adore U",
       "url": "https://open.spotify.com/track/5qQHPdQaiLkIrRjMBFTbuz"
@@ -1296,7 +1296,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 205086,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy"
@@ -2232,6 +2232,24 @@
       "duration_ms": 166523,
       "name": "Broke My Heart",
       "url": "https://open.spotify.com/track/4jf9aWVk63e8c8lC7HABbK"
+    },
+    {
+      "album": {
+        "name": "Broke Someone",
+        "url": "https://open.spotify.com/album/3vaBxsZ0n0BsaioBee4Sr5"
+      },
+      "artists": [
+        {
+          "name": "Hanne Mj\u00f8en",
+          "url": "https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119530,
+      "name": "Broke Someone",
+      "url": "https://open.spotify.com/track/5NNlroTj7IqcPjTAArldwi"
     },
     {
       "album": {
@@ -3329,6 +3347,24 @@
     },
     {
       "album": {
+        "name": "Dancers",
+        "url": "https://open.spotify.com/album/4NQBMNfQxbgiVp8OCPbeJU"
+      },
+      "artists": [
+        {
+          "name": "ALBA",
+          "url": "https://open.spotify.com/artist/5MKM7cNYL4SIuIe6q4Qd1p"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210247,
+      "name": "Dancers",
+      "url": "https://open.spotify.com/track/0MdXqGO6myqxt0FwvuOqMN"
+    },
+    {
+      "album": {
         "name": "Dancing Type",
         "url": "https://open.spotify.com/album/0P7SpW8srX9NHdROJwkGAy"
       },
@@ -3920,7 +3956,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 190782,
       "name": "Double Life - From \"Despicable Me 4\"",
       "url": "https://open.spotify.com/track/07oO1U722crtVcavi6frX6"
@@ -7826,6 +7862,24 @@
       "duration_ms": 213750,
       "name": "I'll Come Your Way",
       "url": "https://open.spotify.com/track/3lk15upGEldLkgKm7f48QS"
+    },
+    {
+      "album": {
+        "name": "I'm Coming Home",
+        "url": "https://open.spotify.com/album/6r9fKa9NKfZtwbXTVdf3Es"
+      },
+      "artists": [
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "I'm Coming Home",
+      "url": "https://open.spotify.com/track/16gL4P1H5psxy9Zvg5kkDT"
     },
     {
       "album": {
@@ -16002,6 +16056,24 @@
       "duration_ms": 187517,
       "name": "Touching The Sky",
       "url": "https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g"
+    },
+    {
+      "album": {
+        "name": "Towers",
+        "url": "https://open.spotify.com/album/7gW79aYrfQFx0eAyh8Ag1e"
+      },
+      "artists": [
+        {
+          "name": "Hundred Waters",
+          "url": "https://open.spotify.com/artist/108ugtkRFQzP9nGgNiyERO"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299743,
+      "name": "Towers",
+      "url": "https://open.spotify.com/track/4rMzUBEVw3YaU7xelkCgYR"
     },
     {
       "album": {

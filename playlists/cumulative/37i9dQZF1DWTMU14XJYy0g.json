@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "Lo m\u00e1s potente del rock argentino, y algunos invitados de lujo. Foto: Los Piojos",
+  "description": "Lo m\u00e1s potente del rock argentino, y algunos invitados de lujo. Foto: Massacre",
   "name": "Rock Argentino",
   "tracks": [
+    {
+      "album": {
+        "name": "03.10 pm",
+        "url": "https://open.spotify.com/album/6z6DglLQsqOGzZlLAsbRBr"
+      },
+      "artists": [
+        {
+          "name": "Parientes",
+          "url": "https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230920,
+      "name": "03.10 pm",
+      "url": "https://open.spotify.com/track/79vJknY5yQxlhOD5GtMNRT"
+    },
     {
       "album": {
         "name": "200 Monos",
@@ -2613,6 +2631,36 @@
     },
     {
       "album": {
+        "name": "La ilusi\u00f3n que me condena",
+        "url": "https://open.spotify.com/album/3q0JNT0J2YlA3FVRYiIHuI"
+      },
+      "artists": [
+        {
+          "name": "Pier",
+          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
+        },
+        {
+          "name": "Tete Iglesias",
+          "url": "https://open.spotify.com/artist/5un8NCvDWXOp3SVDApxeQY"
+        },
+        {
+          "name": "Bochi Bozzalla",
+          "url": "https://open.spotify.com/artist/2DF67zLVfJntjKXdiGmnbr"
+        },
+        {
+          "name": "Ale Kurz",
+          "url": "https://open.spotify.com/artist/3H6eN5Py0yVvjVg5FaCf0b"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286999,
+      "name": "La ilusi\u00f3n que me condena",
+      "url": "https://open.spotify.com/track/3T4vk3awY1RataAdlFrKew"
+    },
+    {
+      "album": {
         "name": "La Izquierda de la Noche",
         "url": "https://open.spotify.com/album/5l2XPMJy6oB4BiRcYxEp8S"
       },
@@ -2712,6 +2760,28 @@
       "duration_ms": 257271,
       "name": "La Marcha Que Les Deb\u00eda",
       "url": "https://open.spotify.com/track/3OaoAm1Jm6NZjXHvvzfkfr"
+    },
+    {
+      "album": {
+        "name": "Nueve",
+        "url": "https://open.spotify.com/album/0Rv9mZr81HlTZ9UgsjhtNU"
+      },
+      "artists": [
+        {
+          "name": "Massacre",
+          "url": "https://open.spotify.com/artist/0UAAJKwQZz8jVDoVtly8NA"
+        },
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279266,
+      "name": "La M\u00e1quina Del Tiempo",
+      "url": "https://open.spotify.com/track/6OrJEoztUAkM4AR27eCLNE"
     },
     {
       "album": {
@@ -3591,6 +3661,28 @@
     },
     {
       "album": {
+        "name": "No Me Vengas Con Historias",
+        "url": "https://open.spotify.com/album/24Fi9jELNJS4M7E0DGeKcw"
+      },
+      "artists": [
+        {
+          "name": "Willy Quiroga",
+          "url": "https://open.spotify.com/artist/2qQX5DzzT2p5Uhf5nVkTyE"
+        },
+        {
+          "name": "Ricardo Mollo",
+          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199512,
+      "name": "No Me Vengas Con Historias",
+      "url": "https://open.spotify.com/track/1Ul1pjyFvRftWfmIn4vkVv"
+    },
+    {
+      "album": {
         "name": "No Puedo Dormir",
         "url": "https://open.spotify.com/album/5VDaXN4qeSZIZpEoucY9Ow"
       },
@@ -4044,6 +4136,24 @@
       "duration_ms": 206602,
       "name": "Pretenden",
       "url": "https://open.spotify.com/track/0mWsrwWZXW49QXABIg3Qg2"
+    },
+    {
+      "album": {
+        "name": "CORRENTADA",
+        "url": "https://open.spotify.com/album/3yWOpyyG9Plm2O1Y7uD4Gh"
+      },
+      "artists": [
+        {
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271237,
+      "name": "Pulpo",
+      "url": "https://open.spotify.com/track/2VyySCdsyFL2Q0f6oiERG1"
     },
     {
       "album": {

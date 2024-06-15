@@ -1,12 +1,12 @@
 {
   "description": "This Is Joan Sebastian. Los temas esenciales, todos en una lista.",
-  "num_followers": 853542,
+  "num_followers": 853839,
   "original_name": "This Is Joan Sebastian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjlAAAAAAApzioE0o27N13RWv1oHod/",
+  "snapshot_id": "Zmo2gAAAAABjUPW9L/9WWMLDkdIIn1bT",
   "tracks": [
     {
       "added_at": null,
@@ -283,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tambora, Vol. 2",
+        "url": "https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 154110,
+      "name": "Soy C\u00f3mo Quiero Ser",
+      "url": "https://open.spotify.com/track/7g9AOwPEt1zWoxV2ZyQ57m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Que Sea",
         "url": "https://open.spotify.com/album/59uULSbzUmeuVBiDGbLsqR"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 170506,
       "name": "Que Sea",
       "url": "https://open.spotify.com/track/4yKC4OVtG5Z9nIX98r7SQp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tambora, Vol. 2",
-        "url": "https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 154110,
-      "name": "Soy C\u00f3mo Quiero Ser",
-      "url": "https://open.spotify.com/track/7g9AOwPEt1zWoxV2ZyQ57m"
     },
     {
       "added_at": null,
@@ -771,26 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Ellas",
-        "url": "https://open.spotify.com/album/3jK4gv1FXy4CR84iJRQQzN"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 237787,
-      "name": "De Ellas",
-      "url": "https://open.spotify.com/track/6pDixZkveDjPX6eNhKk94J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "13 Celebrando El 13",
         "url": "https://open.spotify.com/album/3LRsbclfKVaByqLU641wH5"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 154749,
       "name": "En Un Jaripeo",
       "url": "https://open.spotify.com/track/3gshXrjB7upvVYgyQo5R4l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Ellas",
+        "url": "https://open.spotify.com/album/3jK4gv1FXy4CR84iJRQQzN"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 237787,
+      "name": "De Ellas",
+      "url": "https://open.spotify.com/track/6pDixZkveDjPX6eNhKk94J"
     },
     {
       "added_at": null,

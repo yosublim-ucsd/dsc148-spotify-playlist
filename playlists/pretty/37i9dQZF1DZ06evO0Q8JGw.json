@@ -1,12 +1,12 @@
 {
-  "description": "This is Pearl Jam. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 748489,
+  "description": "This is Pearl Jam. The essential tracks, all in one playlist.",
+  "num_followers": 748624,
   "original_name": "This Is Pearl Jam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjlAAAAAAB+LwxtYIVR7IuAzcEZ6TN8",
+  "snapshot_id": "Zmo2gAAAAABBsp14QdGOLEkxiXLVVsPD",
   "tracks": [
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backspacer",
-        "url": "https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN"
+        "name": "Riot Act",
+        "url": "https://open.spotify.com/album/7AOWw68DEPnDmTpquZw8bG"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 177560,
-      "name": "The Fixer",
-      "url": "https://open.spotify.com/track/4J9qfNgyYFAkUK8oIOohN1"
+      "duration_ms": 215333,
+      "name": "I Am Mine",
+      "url": "https://open.spotify.com/track/79pY2Z5eFvXMt9bSdHLrnA"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Riot Act",
-        "url": "https://open.spotify.com/album/7AOWw68DEPnDmTpquZw8bG"
+        "name": "Backspacer",
+        "url": "https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 215333,
-      "name": "I Am Mine",
-      "url": "https://open.spotify.com/track/79pY2Z5eFvXMt9bSdHLrnA"
+      "duration_ms": 177560,
+      "name": "The Fixer",
+      "url": "https://open.spotify.com/track/4J9qfNgyYFAkUK8oIOohN1"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 246877,
-      "name": "Something Special",
-      "url": "https://open.spotify.com/track/06vyBAqzokvXjw3b7FPcZi"
+      "duration_ms": 357231,
+      "name": "Upper Hand",
+      "url": "https://open.spotify.com/track/15tI78zBMKToM9A4Bq0TsF"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 357231,
-      "name": "Upper Hand",
-      "url": "https://open.spotify.com/track/15tI78zBMKToM9A4Bq0TsF"
+      "duration_ms": 246877,
+      "name": "Something Special",
+      "url": "https://open.spotify.com/track/06vyBAqzokvXjw3b7FPcZi"
     },
     {
       "added_at": null,

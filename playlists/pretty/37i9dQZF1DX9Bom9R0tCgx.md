@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bom9R0tCgx.md) - [plain]
 
 > All the stuff that will blow your speakers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,888 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,059 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

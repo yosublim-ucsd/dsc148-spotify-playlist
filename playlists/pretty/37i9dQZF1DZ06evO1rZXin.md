@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rZXin.md) - [plain]
 | 13 | [El Huerfnito](https://open.spotify.com/track/7lK6scXajux18QPlPvAYrG) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/0DCi97uYJCrBBWCnDZ1MHR) | 2:44 |
 | 14 | [Muévelo](https://open.spotify.com/track/3N4fXn95JzMo9slLuZWArp) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q) | 3:14 |
 | 15 | [Corrido De Nayarit](https://open.spotify.com/track/0uwQdOxlr8tXd94aKGOhvU) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Te Ves Bien Buena....](https://open.spotify.com/album/2ZTXAvGzM5zhmtImL9G2CJ) | 2:24 |
-| 16 | [Camarón Pelao](https://open.spotify.com/track/4TVANpQOkqEjTjge4Xk8zu) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Busca Amor](https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt) | 2:57 |
+| 16 | [La Banda Rock](https://open.spotify.com/track/448szMJep2MNhcZLVeMeGn) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Busca Amor](https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt) | 3:20 |
 | 17 | [El Ultimo Rodeo](https://open.spotify.com/track/602nYaYlgOn9RZtcPrOXdf) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/0DCi97uYJCrBBWCnDZ1MHR) | 3:15 |
 | 18 | [Oh, Solitario](https://open.spotify.com/track/3RuRYUOr7qZZj7qcoeEwmX) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/3CGWqfqmYROp68wdT8BVmB) | 3:05 |
 | 19 | [El Toro Moro](https://open.spotify.com/track/3dK0G4fedpTO1yJ7z4WiZk) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Te Ves Bien Buena....](https://open.spotify.com/album/2ZTXAvGzM5zhmtImL9G2CJ) | 2:24 |
-| 20 | [La Banda Rock](https://open.spotify.com/track/448szMJep2MNhcZLVeMeGn) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Busca Amor](https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt) | 3:20 |
+| 20 | [Camarón Pelao](https://open.spotify.com/track/4TVANpQOkqEjTjge4Xk8zu) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Busca Amor](https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt) | 2:57 |
 | 21 | [El Farolito](https://open.spotify.com/track/1TtEn9YkPng9lKJKE6cDS9) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/0DCi97uYJCrBBWCnDZ1MHR) | 3:01 |
 | 22 | [La Vaquilla Prieta](https://open.spotify.com/track/4T0RsUzObI18MdCLCbIiCa) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/3CGWqfqmYROp68wdT8BVmB) | 2:24 |
 | 23 | [Puño De Tierra](https://open.spotify.com/track/7BXuEt4g7zQyRQ4d48gVN2) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Te Ves Bien Buena....](https://open.spotify.com/album/2ZTXAvGzM5zhmtImL9G2CJ) | 2:37 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rZXin.md) - [plain]
 | 37 | [Así lo Quiso Él](https://open.spotify.com/track/4K2NgTCeLM0KkrdZpGYAw6) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Fiesta](https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy) | 2:13 |
 | 38 | [La Fiesta](https://open.spotify.com/track/2BjQ7lWbTPAzqR5MjxjKql) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Fiesta](https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy) | 3:01 |
 
-Snapshot ID: `ZmjlAAAAAADvkufIRXkv5UO2bUjTzboE`
+Snapshot ID: `Zmo2gAAAAAA6HtH77H0v/aAiy9U7gFEv`

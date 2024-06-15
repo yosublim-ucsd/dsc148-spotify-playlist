@@ -1,12 +1,12 @@
 {
   "description": "This is Phoebe Bridgers. The essential tracks, all in one playlist.",
-  "num_followers": 124507,
+  "num_followers": 124557,
   "original_name": "This Is Phoebe Bridgers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjlAAAAAADE5nJoYFtuu3QHpFjAg5Vc",
+  "snapshot_id": "Zmo2gAAAAAB5/Q5SZEAiTvr89h9hygnn",
   "tracks": [
     {
       "added_at": null,
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 102146,
-      "name": "Leonard Cohen",
-      "url": "https://open.spotify.com/track/3wdrHVkaD700qA8P3OjmYR"
+      "duration_ms": 200093,
+      "name": "$20",
+      "url": "https://open.spotify.com/track/38xXr3MkiKNzNDv4JDJagF"
     },
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 81733,
-      "name": "Without You Without Them",
-      "url": "https://open.spotify.com/track/12EkF8uGofptstVIX7Oc0C"
+      "duration_ms": 102146,
+      "name": "Leonard Cohen",
+      "url": "https://open.spotify.com/track/3wdrHVkaD700qA8P3OjmYR"
     },
     {
       "added_at": null,
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 187653,
-      "name": "Letter To An Old Poet",
-      "url": "https://open.spotify.com/track/1zShh2S3moxyqU6u6fJZVQ"
+      "duration_ms": 81733,
+      "name": "Without You Without Them",
+      "url": "https://open.spotify.com/track/12EkF8uGofptstVIX7Oc0C"
     },
     {
       "added_at": null,
@@ -679,26 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Soft Machine",
-        "url": "https://open.spotify.com/album/4YCScpRHPfvu81qmsIGGmn"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 186836,
-      "name": "Pegasus (ft. Phoebe Bridgers)",
-      "url": "https://open.spotify.com/track/79rDSeSX1tm97qaYDmPSnD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Better Oblivion Community Center",
         "url": "https://open.spotify.com/album/0uJIxkI8D0rR4shEIKeiDs"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 216786,
       "name": "Dylan Thomas",
       "url": "https://open.spotify.com/track/1AEiKr56njftNDp67QCnHH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Soft Machine",
+        "url": "https://open.spotify.com/album/4YCScpRHPfvu81qmsIGGmn"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 186836,
+      "name": "Pegasus (ft. Phoebe Bridgers)",
+      "url": "https://open.spotify.com/track/79rDSeSX1tm97qaYDmPSnD"
     },
     {
       "added_at": null,
@@ -875,26 +875,6 @@
       "duration_ms": 173714,
       "name": "Prayer in Open D",
       "url": "https://open.spotify.com/track/4fuBj2N1iQNL58iP8FzHQc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "First Two Pages of Frankenstein",
-        "url": "https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 264320,
-      "name": "Your Mind Is Not Your Friend (feat. Phoebe Bridgers)",
-      "url": "https://open.spotify.com/track/0hMqlU7TLbX2HaYmwHPquP"
     }
   ],
   "unique_name": "This Is Phoebe Bridgers",

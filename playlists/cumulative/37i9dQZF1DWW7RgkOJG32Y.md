@@ -4,7 +4,7 @@
 
 > Top trending country tracks from the last few months\. Cover: Koe Wetzel
 
-409 songs - 21 hr 52 min
+411 songs - 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Lying With You](https://open.spotify.com/track/11yIRJ5cyjJVnnfoBhWt6d) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [Lying With You](https://open.spotify.com/album/2YpsZigTtax8g70dlvZsI7) | 2:59 | 2021-12-17 | 2022-04-29 |
 | [Made](https://open.spotify.com/track/4G644pINN0ZYIxyqeyuT4b) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Made](https://open.spotify.com/album/4h4ZmlKntuJzWox0Ci3Q0i) | 3:15 | 2021-12-17 | 2022-03-05 |
 | [Madness](https://open.spotify.com/track/77aohFCZBpaYI4fQrCayIZ) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Madness](https://open.spotify.com/album/1vRyPVAXSmoetQ3HysW46B) | 3:25 | 2021-12-17 | 2022-06-25 |
+| [Man on the Moon](https://open.spotify.com/track/22UE7ARZNnAJHq1TObXLcc) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Man on the Moon](https://open.spotify.com/album/42uGNihY12UIvkV5gEJLaI) | 3:07 | 2024-06-14 |  |
 | [Marry That Girl](https://open.spotify.com/track/3onWmITkM6T6eynH06iJcy) | [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [Let's Do Country Right](https://open.spotify.com/album/4nAKrvfd9o1TeJJTNCBU8I) | 3:10 | 2023-01-20 | 2023-05-06 |
 | [Marry That Girl](https://open.spotify.com/track/5fJguEwoiu8bgePqAWMNRm) | [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [Marry That Girl](https://open.spotify.com/album/3cgovdfB1zXhT5OwCTAaCp) | 3:11 | 2022-10-14 | 2023-01-29 |
 | [Matchmaker](https://open.spotify.com/track/1RJVjtwF6vfw0CF1HIHrlY) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Matchmaker](https://open.spotify.com/album/1Y2OkBKU0Im7RiZeb7imrp) | 2:44 | 2024-02-09 |  |
@@ -249,7 +250,7 @@
 | [Never Til Now](https://open.spotify.com/track/1Qkrd9bYIgyTbZrYgDWiBe) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi), [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Never Til Now](https://open.spotify.com/album/1R63WizerBkcwtE351ynBq) | 2:53 | 2022-04-15 | 2022-08-20 |
 | [Next Thing You Know](https://open.spotify.com/track/2lNTHWu2I5Tcz9ukWsV5Jj) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Next Thing You Know](https://open.spotify.com/album/7Joe4M8FRFyVxmKUSndVqp) | 2:55 | 2022-08-19 | 2023-04-15 |
 | [No Body](https://open.spotify.com/track/3knS4WXNNRBd3zkx2v78cx) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [No Body](https://open.spotify.com/album/1uZ08XKEtgy5FRYv4pogsQ) | 3:07 | 2022-11-18 | 2023-02-25 |
-| [No Caller ID](https://open.spotify.com/track/2uHgCkaiHwZKl7tDBTVsyW) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [No Caller ID](https://open.spotify.com/album/5plO8l5Kz0QC3fOGdHDzrW) | 3:28 | 2024-01-26 |  |
+| [No Caller ID](https://open.spotify.com/track/2uHgCkaiHwZKl7tDBTVsyW) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [No Caller ID](https://open.spotify.com/album/5plO8l5Kz0QC3fOGdHDzrW) | 3:28 | 2024-01-26 | 2024-06-15 |
 | [Not Supposed To Know Each Other](https://open.spotify.com/track/2K52TQ4HqTz2ZbCrhkFw0p) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 2:41 | 2022-07-22 | 2022-12-17 |
 | [Not Supposed To Know Each Other](https://open.spotify.com/track/5B5ToRmXjXYXdShfi8Yx0s) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3FeBLXRG2x2SOz3hOoktdY) | 2:41 | 2022-03-04 | 2022-07-29 |
 | [Not Supposed To Know Each Other](https://open.spotify.com/track/6jphhFUpKLzmptrwS35j0I) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July \(The Album\)](https://open.spotify.com/album/6Xz5OPkS6RCcmQ1hA7JUaO) | 2:41 | 2022-11-02 | 2022-11-13 |
@@ -287,7 +288,7 @@
 | [Run](https://open.spotify.com/track/0OvR1iYRUwrsSwu6Zli9iz) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Run](https://open.spotify.com/album/7dN3NasZNSsCD8OdH08oua) | 3:32 | 2022-02-18 | 2022-10-02 |
 | [Save Me \(with Lainey Wilson\)](https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:57 | 2023-11-17 | 2024-04-19 |
 | [Save Me \(with Lainey Wilson\)](https://open.spotify.com/track/4Bee3PcNdfeqO1B80dDgFn) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whitsitt Chapel](https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu) | 3:57 | 2023-07-21 | 2023-11-18 |
-| [Save Me \(with Lainey Wilson\)](https://open.spotify.com/track/4Ldp4ixS1y6SinsEn44a23) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Save Me \(with Lainey Wilson\)](https://open.spotify.com/album/31QoRLzmn0qTom75qfxEfE) | 3:57 | 2024-04-19 |  |
+| [Save Me \(with Lainey Wilson\)](https://open.spotify.com/track/4Ldp4ixS1y6SinsEn44a23) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Save Me \(with Lainey Wilson\)](https://open.spotify.com/album/31QoRLzmn0qTom75qfxEfE) | 3:57 | 2024-04-19 | 2024-06-15 |
 | [Save The Roses](https://open.spotify.com/track/4r8tnUcdD9kVETRZSTIa5E) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hey World](https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r) | 3:21 | 2023-07-14 | 2024-02-10 |
 | [Say It](https://open.spotify.com/track/0KRIVhkwM3cP4etnY9Qm0o) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Say It](https://open.spotify.com/album/2Qt24wsU01H4Dn58cIsscS) | 3:05 | 2022-07-15 | 2023-04-01 |
 | [Second Guessing](https://open.spotify.com/track/0rrF82CbDxrY8y5nDVM7um) | [Griffen Palmer](https://open.spotify.com/artist/00b93R5OC1EHaBxEdQUfAQ) | [Second Guessing](https://open.spotify.com/album/3dUeViIWtPKrhBzcSzuXAD) | 3:09 | 2023-05-05 | 2023-09-30 |
@@ -297,6 +298,7 @@
 | [Shoot Tequila](https://open.spotify.com/track/6nTul7GTW3DInboBkJvvHw) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [Shoot Tequila](https://open.spotify.com/album/6qm6WlvE5XIrFEoYTcKT2Q) | 3:13 | 2023-01-20 | 2024-02-10 |
 | [Should Have Known Better](https://open.spotify.com/track/0zpaxKLpHw3zCmiYcvn9OV) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [Should Have Known Better](https://open.spotify.com/album/1rx8rmLDRuBdpDxf6Jfd3c) | 2:26 | 2021-12-17 | 2022-05-14 |
 | [Shut the Door](https://open.spotify.com/track/2Qgw0F6DpMy9rs5XxlYh7U) | [Trey Lewis](https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO) | [Shut the Door](https://open.spotify.com/album/2zSXpvoUL2o12rBYTfaL8W) | 2:53 | 2021-12-17 | 2022-06-04 |
+| [SIX FEET UNDER \(Caleigh’s Song\)](https://open.spotify.com/track/6pWmnSmn9EqCRDb2Qg1ngj) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [SIX FEET UNDER \(Caleigh’s Song\)](https://open.spotify.com/album/443mTdceNT52OKQv2tnRN8) | 3:11 | 2024-06-14 |  |
 | [Slow Down Summer](https://open.spotify.com/track/1fff5nZGyRJtFLkOrSSwOU) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Slow Down Summer](https://open.spotify.com/album/6uWWkRv3qKdFcFyayL1Vw4) | 3:36 | 2021-12-17 | 2021-12-24 |
 | [smoke & a light](https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [three twenty four](https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc) | 3:09 | 2024-03-01 |  |
 | [Solo](https://open.spotify.com/track/1XsUBzfpNsho6etkFNLcpR) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Coyote Cry](https://open.spotify.com/album/5uQt9PVJIZvYjOL43EkOId) | 2:48 | 2021-12-31 | 2022-03-18 |

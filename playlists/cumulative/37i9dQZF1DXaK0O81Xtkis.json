@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "make it pop! cover: Zolita",
+  "description": "make it pop! cover: tiffi",
   "name": "soda",
   "tracks": [
     {
@@ -3123,6 +3123,24 @@
     },
     {
       "album": {
+        "name": "cold medicine",
+        "url": "https://open.spotify.com/album/5dcGyDegN1gG3xgf485Bkz"
+      },
+      "artists": [
+        {
+          "name": "tiffi",
+          "url": "https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207911,
+      "name": "cold medicine",
+      "url": "https://open.spotify.com/track/5UgbDqJYYckCKtAjfBtoy2"
+    },
+    {
+      "album": {
         "name": "Colorado",
         "url": "https://open.spotify.com/album/0zOIu4cDkUdJPq1c5uQusO"
       },
@@ -4703,6 +4721,24 @@
     },
     {
       "album": {
+        "name": "emotional affair",
+        "url": "https://open.spotify.com/album/2OE6A20vXzzFh66WJ23Xmu"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181749,
+      "name": "emotional affair",
+      "url": "https://open.spotify.com/track/7IILWCwr8Tgw6lXxjXriT2"
+    },
+    {
+      "album": {
         "name": "AUSTIN",
         "url": "https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy"
       },
@@ -4992,7 +5028,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 139898,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/5gM6XHLOdzgWq17yd0bE2o"
@@ -5313,6 +5349,24 @@
     },
     {
       "album": {
+        "name": "First Time",
+        "url": "https://open.spotify.com/album/2trAIH3JyP0Kas8Ke7H2q6"
+      },
+      "artists": [
+        {
+          "name": "NERIAH",
+          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/3gZ8s2w5v9jmjRkwYFRKxg"
+    },
+    {
+      "album": {
         "name": "Fling for the Summer",
         "url": "https://open.spotify.com/album/1R3ckMl7RHuEhYEPFACpUM"
       },
@@ -5468,7 +5522,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 160337,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/4cAMCALXZ5lUVRYH9dCtIB"
@@ -6490,6 +6544,24 @@
       "duration_ms": 153191,
       "name": "hard enough to stay alive",
       "url": "https://open.spotify.com/track/4fKn4WivcX3bRxCfuS88xS"
+    },
+    {
+      "album": {
+        "name": "Harder to Kill",
+        "url": "https://open.spotify.com/album/5oX8qPG4FJm9lPhZtn7gBu"
+      },
+      "artists": [
+        {
+          "name": "Carter Vail",
+          "url": "https://open.spotify.com/artist/4Bu9DnBZ12oX7MiiaJy9hK"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178346,
+      "name": "Harder to Kill",
+      "url": "https://open.spotify.com/track/5enTtMsxQ2vAsdoM69QTZz"
     },
     {
       "album": {
@@ -10677,6 +10749,24 @@
     },
     {
       "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284068,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
+    },
+    {
+      "album": {
         "name": "Love Hate Music Box",
         "url": "https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj"
       },
@@ -10688,7 +10778,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 181390,
       "name": "Meticulous",
       "url": "https://open.spotify.com/track/2WvsvWRHvcX3bZPiJwTwpy"
@@ -12446,7 +12536,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 124760,
       "name": "Over It",
       "url": "https://open.spotify.com/track/0eArfQGTTeqPmBuj1Z58cv"
@@ -13074,6 +13164,24 @@
       "duration_ms": 164986,
       "name": "Problematic",
       "url": "https://open.spotify.com/track/0I2BCIvlzrb6Iix9hAbQFF"
+    },
+    {
+      "album": {
+        "name": "sorry for everything (deluxe)",
+        "url": "https://open.spotify.com/album/7sjg3abhFc5fmxOjI0QWS7"
+      },
+      "artists": [
+        {
+          "name": "Michael Aldag",
+          "url": "https://open.spotify.com/artist/2e1NO2tyaMZajNoWe71ZiJ"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181603,
+      "name": "promenade",
+      "url": "https://open.spotify.com/track/7hEc1dllavaC7rBJv8nOTY"
     },
     {
       "album": {
@@ -16203,6 +16311,24 @@
     },
     {
       "album": {
+        "name": "The Getaway",
+        "url": "https://open.spotify.com/album/6xGCIArsuBdX0Xq09Qdgpl"
+      },
+      "artists": [
+        {
+          "name": "The Strike",
+          "url": "https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274892,
+      "name": "The Getaway",
+      "url": "https://open.spotify.com/track/57l0zgPkDayvGF2NSYq0ms"
+    },
+    {
+      "album": {
         "name": "The Click",
         "url": "https://open.spotify.com/album/2LyLlHg03okxUU3UVrKtSC"
       },
@@ -16232,7 +16358,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 146931,
       "name": "The Last Time",
       "url": "https://open.spotify.com/track/3bwyDktNV0Y9WJp3HiJq3c"
@@ -17073,6 +17199,24 @@
     },
     {
       "album": {
+        "name": "Turtleneck",
+        "url": "https://open.spotify.com/album/7mZZf1EqXH17Pbo7QKmZms"
+      },
+      "artists": [
+        {
+          "name": "The Wldlfe",
+          "url": "https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208636,
+      "name": "Turtleneck",
+      "url": "https://open.spotify.com/track/5knZIccn4zf6Aeh98u744x"
+    },
+    {
+      "album": {
         "name": "HDTV",
         "url": "https://open.spotify.com/album/6TIzz9Z4n03E5USTDzBweS"
       },
@@ -17792,7 +17936,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 205666,
       "name": "What If You Change?",
       "url": "https://open.spotify.com/track/0X1zc021vthGFkGD8jBfYS"

@@ -1014,7 +1014,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 199948,
       "name": "Block Of Wood",
       "url": "https://open.spotify.com/track/38sbz9ql94TLWkNa7YHA16"
@@ -2571,6 +2571,24 @@
     },
     {
       "album": {
+        "name": "Everybody Loves The Loser",
+        "url": "https://open.spotify.com/album/0Z4G55IYOqn4btODOxYEXn"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Cangiano",
+          "url": "https://open.spotify.com/artist/7dwVih1QdpLWuZ0OeslLcg"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Everybody Loves The Loser",
+      "url": "https://open.spotify.com/track/2oR8aFIcHOVsCAA96LvynY"
+    },
+    {
+      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/18Nmv8QNKh8qjwJnG7iRJD"
       },
@@ -2676,7 +2694,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 228600,
       "name": "Falling Behind",
       "url": "https://open.spotify.com/track/2bgIuOQEKQZ6TDDiMMJbfX"
@@ -7624,6 +7642,24 @@
       "duration_ms": 224826,
       "name": "Something About",
       "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
+    },
+    {
+      "album": {
+        "name": "Son Mad",
+        "url": "https://open.spotify.com/album/5ofh151AVkCnjXPaxDPGyG"
+      },
+      "artists": [
+        {
+          "name": "Mon Doux Saigneur",
+          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127734,
+      "name": "Son Mad",
+      "url": "https://open.spotify.com/track/2ajJIOv9mRekNm1wIfMxi6"
     },
     {
       "album": {

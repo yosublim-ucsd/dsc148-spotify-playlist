@@ -10235,6 +10235,24 @@
     },
     {
       "album": {
+        "name": "Candyland",
+        "url": "https://open.spotify.com/album/2YRcPMc8PS590HD3ybjcQs"
+      },
+      "artists": [
+        {
+          "name": "Tchailyn",
+          "url": "https://open.spotify.com/artist/4RgXfHPfT5Z5pIIqL1k7oF"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251428,
+      "name": "Candyland",
+      "url": "https://open.spotify.com/track/2rX3mk4MmWi75wy53hKqm6"
+    },
+    {
+      "album": {
         "name": "Canicatti",
         "url": "https://open.spotify.com/album/4fyVrIE5va2VOhyv25Oe49"
       },
@@ -34266,7 +34284,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 408910,
       "name": "Ivoo",
       "url": "https://open.spotify.com/track/3oFeJv89Vzs777gE7MQzEc"

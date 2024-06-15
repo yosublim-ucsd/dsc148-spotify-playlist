@@ -4,7 +4,7 @@
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Oficina G3
 
-149 songs - 11 hr 31 min
+150 songs - 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Palavra Antiga \- Ao Vivo](https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH) | [Palavrantiga](https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j) | [Palavrantiga Ao Vivo \(Pt\. 3\)](https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH) | 4:10 | 2022-09-02 |  |
 | [Palavra Que Liberta](https://open.spotify.com/track/1U6LHz1vv8ZMdlMuCNusOf) | [William Graziane](https://open.spotify.com/artist/1d6bwuv0gGdrJbheeMwzip) | [Palavra Que Liberta](https://open.spotify.com/album/3Hr4GvmwDl0cZoThZAAyAO) | 4:24 | 2023-08-18 | 2023-09-16 |
 | [Peregrino](https://open.spotify.com/track/0FvYGlP6nmNr1SJAABbhEQ) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [Peregrino](https://open.spotify.com/album/4dR7tsqUtupAePL6ySYmJG) | 4:18 | 2022-09-02 |  |
+| [Porão](https://open.spotify.com/track/3vU0zgDNn2MA5jbV2eDpyT) | [Marcos Almeida](https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR) | [Porão](https://open.spotify.com/album/7relusD39q6LDbVecuicYx) | 4:29 | 2024-06-14 |  |
 | [Pra Quem Já Perdeu um Sonho](https://open.spotify.com/track/6pLxOs1DafrlwPRGfNziZs) | [Além do Mar](https://open.spotify.com/artist/7jRI5VDkIu2JU3zpyiF1b3) | [Terra À Vista](https://open.spotify.com/album/61UUKcuzMdg2jV5IFTLYSK) | 3:57 | 2022-09-02 | 2023-04-16 |
 | [Prodigus](https://open.spotify.com/track/2RRQa8aFw1aYUTv220EAyx) | [Ministério M3](https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6) | [Prodigus](https://open.spotify.com/album/0q7pvDiTuiZzpq4f1t9Ta5) | 4:40 | 2023-07-14 | 2023-09-16 |
 | [Pura Luz](https://open.spotify.com/track/4ueM9Lm7cMB68qkveLIFG0) | [Os Bravos](https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm) | [Pura Luz](https://open.spotify.com/album/5dC3nxKgPPfZJD0ZJxTE5D) | 5:45 | 2022-09-02 | 2023-03-18 |
@@ -151,7 +152,7 @@
 | [Tudo é Teu / Nova Criatura / Rede ao Mar](https://open.spotify.com/track/4G2fqa20Hkj8uTDwMOzfrr) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Tudo é Teu / Nova Criatura / Rede ao Mar](https://open.spotify.com/album/4LNn5OkVpjCZv5c8aKc4N4) | 5:04 | 2023-04-15 |  |
 | [Uma Carta de Amanhã](https://open.spotify.com/track/5aySEnML7exs5wqd1eV58D) | [Felipe Ramos](https://open.spotify.com/artist/6VXwjEt6oBU4cb59TUJJkX) | [Uma Carta de Amanhã](https://open.spotify.com/album/692vSdGYRKAYnqAoXQaEOJ) | 3:51 | 2022-09-02 | 2024-03-09 |
 | [Vem Cantar \- Salmo 95](https://open.spotify.com/track/1isclXANLY4ny3quvpST7p) | [Tanlan](https://open.spotify.com/artist/1tVNmuJHlGbAP5y5Wl2Vdj) | [Vem Cantar \- Salmo 95](https://open.spotify.com/album/4xZH5F4dsOX652q4btTdAx) | 3:40 | 2023-10-06 | 2023-11-04 |
-| [Vestido Azul](https://open.spotify.com/track/5hLjEIr4NmAsGarqTwm0mA) | [Catarina Von Bora](https://open.spotify.com/artist/3DxQewmz2PoRvVVpWEv5iH), [Coletivo Candiero](https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV), [Daniel Alves](https://open.spotify.com/artist/3eW6cEr5fLxtSXZDBTJNSK) | [Columbário](https://open.spotify.com/album/4o6BATvOsC4vbHJySc5avV) | 3:35 | 2023-11-03 |  |
+| [Vestido Azul](https://open.spotify.com/track/5hLjEIr4NmAsGarqTwm0mA) | [Catarina Von Bora](https://open.spotify.com/artist/3DxQewmz2PoRvVVpWEv5iH), [Coletivo Candiero](https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV), [Daniel Alves](https://open.spotify.com/artist/3eW6cEr5fLxtSXZDBTJNSK) | [Columbário](https://open.spotify.com/album/4o6BATvOsC4vbHJySc5avV) | 3:35 | 2023-11-03 | 2024-06-15 |
 | [Viver](https://open.spotify.com/track/0aAQv9SZAJ3KgJuQ0lqNRn) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT), [Flávio Morilha](https://open.spotify.com/artist/7lZ1saVYmbFFjaY0Vcxuy7) | [Viver](https://open.spotify.com/album/1vS6G52uJfUgt8ZIInVMgK) | 3:48 | 2023-11-24 | 2023-12-23 |
 | [Yeshua](https://open.spotify.com/track/7D3qbQOrea1ME7B7cUrYau) | [Os Bravos](https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm) | [Yeshua](https://open.spotify.com/album/2ubpSKz1ULV8ECWpKcBj20) | 5:46 | 2022-09-02 |  |
 | [É Tempo de Abrir o Coração \- Ao Vivo](https://open.spotify.com/track/5UtV3TOSr21gcvSxKA0mhf) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [É Tempo de Abrir o Coração / Santo \(Ao Vivo\)](https://open.spotify.com/album/42NjnTNuaIEGBsX3XACxGX) | 4:34 | 2022-09-02 |  |

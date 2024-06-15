@@ -4,7 +4,7 @@
 
 > Songs you love with an indie spin on it\. Cover: Royel Otis
 
-457 songs - 1 day 3 hr 56 min
+458 songs - 1 day 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Little Bit of Everything \- Spotify Singles](https://open.spotify.com/track/66yvX4stoMKIiTcZeDJGpt) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Spotify Singles](https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1) | 5:17 | 2023-04-11 |  |
 | [a long december](https://open.spotify.com/track/6AJUq174xQvhXvRLbLvFml) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [a long december](https://open.spotify.com/album/4BEcYq7POg39BXzScVb4qE) | 4:11 | 2022-01-28 | 2022-07-26 |
 | [Adam's Song \- triple j Like A Version](https://open.spotify.com/track/6wAucih2u2ENLTZjIyJN2v) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9), [E^ST](https://open.spotify.com/artist/7ASucWaI33cepJbo74Hlo0) | [Adam's Song \(triple j Like A Version\)](https://open.spotify.com/album/0iOMlmeL9Gwe7KmBfLuxLX) | 4:16 | 2024-03-08 |  |
+| [agora hills \- Spotify Singles](https://open.spotify.com/track/19bepKW8jRL8s5PRYSawZh) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [Spotify Singles](https://open.spotify.com/album/1VrnMUyVCGxRRRHgJhUOSa) | 4:54 | 2024-06-14 |  |
 | [Ain't No Sunshine](https://open.spotify.com/track/7oIr9pjTvm9FKMEQwZvEiv) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [Ain't No Sunshine](https://open.spotify.com/album/6aPAue76teQzfiZTliyHIE) | 2:31 | 2021-03-12 | 2022-06-26 |
 | [Alaska](https://open.spotify.com/track/0QfnsSPIJ1BOHFjZyC2lyk) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Alaska](https://open.spotify.com/album/052acR0QzZbbPNkwnbakxe) | 3:00 | 2022-05-20 | 2024-02-06 |
 | [Alaska](https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y) | [Julia Cooper](https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576) | [Alaska](https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq) | 3:11 | 2021-03-12 |  |
@@ -241,7 +242,7 @@
 | [La Vie En Rose](https://open.spotify.com/track/0KohaUnLZU0PNJC3RZYDZ0) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [La Vie En Rose](https://open.spotify.com/album/4uWWvb7rkoUhYvaO8VEIC6) | 2:50 | 2021-03-12 | 2022-08-03 |
 | [La Vie En Rose](https://open.spotify.com/track/0d4qCmNoQ7D8Hv0azn7Ozu) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [La Vie En Rose](https://open.spotify.com/album/238gzyCPHIjz1GxXqdOY6T) | 2:50 | 2021-03-12 | 2022-07-29 |
 | [Landslide](https://open.spotify.com/track/41fecZEX4sPrRxnjZQ6DGU) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Landslide](https://open.spotify.com/album/3c0Uy2iMgkfZGRwi35XbzS) | 2:59 | 2021-03-12 | 2022-08-10 |
-| [Landslide](https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Landslide](https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw) | 3:30 | 2022-09-03 |  |
+| [Landslide](https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Landslide](https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw) | 3:30 | 2022-09-03 | 2024-06-15 |
 | [Landslide \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1RPFnPCvtBc46BFVOnzmPx) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Spotify Singles](https://open.spotify.com/album/05P14Crb7IRWfwSYFgKiM2) | 3:53 | 2021-03-12 | 2022-07-29 |
 | [Lavender Haze](https://open.spotify.com/track/0uds6C87jkBsk9gShJcuRz) | [aeseaes](https://open.spotify.com/artist/52KatchKjz0L2amwBDxxwO) | [Lavender Haze](https://open.spotify.com/album/3anKF2HvkkACb8cozbL5Zg) | 3:26 | 2024-03-08 | 2024-05-18 |
 | [Lay All Your Love on Me](https://open.spotify.com/track/1XfbGoHFVubq0t4Bw8dPre) | [Pale Honey](https://open.spotify.com/artist/5vINmZdKrgF32tSV2adC7q) | [Lay All Your Love on Me](https://open.spotify.com/album/25LbjtI4lwZKcYhkHxPcwx) | 3:59 | 2021-03-12 | 2022-04-12 |

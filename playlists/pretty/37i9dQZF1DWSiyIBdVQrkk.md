@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 
 > The best in classic and contemporary Reggae\. Cover: Royal Blu
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,221,528 likes - 110 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,221,630 likes - 110 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

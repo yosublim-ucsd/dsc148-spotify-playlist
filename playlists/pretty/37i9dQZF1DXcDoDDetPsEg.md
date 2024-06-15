@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Odeal
 
-[Spotify](https://open.spotify.com/user/spotify) - 983,745 likes - 60 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 983,721 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 | 36 | [X](https://open.spotify.com/track/4evzUQNNDpgP8mnlV2OVkf) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [X](https://open.spotify.com/album/2IuH6EgGRGkFNmEmaLMdrt) | 1:33 |
 | 37 | [Marathon Continues](https://open.spotify.com/track/4AiMQcJD1lTaowia5FIUMB) | [Skrapz](https://open.spotify.com/artist/67R8l2OLqGwA9V4BKllYQY), [Kano](https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4) | [Marathon Continues](https://open.spotify.com/album/5SZFzpbghIe9iLqrZO2Rkd) | 2:40 |
 | 38 | [Empire Freestyle](https://open.spotify.com/track/0QpxLXaC4s2822YjpcCTMM) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Empire Freestyle](https://open.spotify.com/album/4KzwJuobGzPJb9VKkR7RY5) | 2:36 |
-| 39 | [Attitude \(feat\. Charlie Wilson & Cash Cobain\)](https://open.spotify.com/track/0KFXE2mLTFdOKkTZEDgJPv) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Attitude \(feat\. Charlie Wilson & Cash Cobain\)](https://open.spotify.com/album/5qT2WTrg8b062akPjO9AGY) | 2:41 |
+| 39 | [ATTITUDE \(FEAT\. CHARLIE WILSON & CASH COBAIN\)](https://open.spotify.com/track/0KFXE2mLTFdOKkTZEDgJPv) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Attitude \(feat\. Charlie Wilson & Cash Cobain\)](https://open.spotify.com/album/5qT2WTrg8b062akPjO9AGY) | 2:41 |
 | 40 | [oSHA\-PIANO](https://open.spotify.com/track/7Ac8a2AhlTxlbmgj4SAEFk) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [oSHA\-PIANO](https://open.spotify.com/album/5Blk5rVGndIswfPVDBIMjr) | 2:55 |
 | 41 | [Normally \(feat\. NSG\)](https://open.spotify.com/track/3xo3GCZI9Vz1GVDeIKWJhR) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Normally \(feat\. NSG\)](https://open.spotify.com/album/5ED2pTvFshAEdAru6rbhhs) | 2:44 |
 | 42 | [Top G](https://open.spotify.com/track/3V4JfFYg80NO1UlGewGoIA) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Top G](https://open.spotify.com/album/7gmPqfJrRUBTtKN5XZ1R6C) | 3:26 |

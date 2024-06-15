@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 > Only the hottest Hip Hop from Jay Jody \(pictured\), Gunna, Kendrick Lamar, and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,590 likes - 66 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,613 likes - 66 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 | 13 | [WOKE UP](https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WOKE UP](https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw) | 3:08 |
 | 14 | [Precision](https://open.spotify.com/track/0jYYthUDGsJrYMCrtdHYtJ) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Precision](https://open.spotify.com/album/1DNvuu85Qyu95qxWCY8jTO) | 2:47 |
 | 15 | [Calm Down](https://open.spotify.com/track/1fDC4IXBlkHuAPugpCDqOo) | [Roiii](https://open.spotify.com/artist/0DdgjYMzRw7t9TVwFuBI0V) | [Calm Down](https://open.spotify.com/album/1a1UUMwJ6IafQNQo9I7qDB) | 2:42 |
-| 16 | [Bandit](https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Bandit](https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC) | 2:27 |
+| 16 | [BANDIT](https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Bandit](https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC) | 2:27 |
 | 17 | [stoners](https://open.spotify.com/track/3tYBsGcHQS8OqkLlE72Lm7) | [Michael Tuohy](https://open.spotify.com/artist/5FeEPMjFuqvtxQzU2hl6Y5), [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs) | [worth it + stoners](https://open.spotify.com/album/3rTmgPoF2CqroawhmSIZDR) | 2:43 |
 | 18 | [GODS TIMING](https://open.spotify.com/track/0NMYAGETitlHa3Jo0LLJRu) | [ZRi.](https://open.spotify.com/artist/0qEbCUh26COfNR2uiNsh4N), [The Big Hash](https://open.spotify.com/artist/4NR8j34QrjVEIAqUP43SwL), [Steveisfrench](https://open.spotify.com/artist/7hp0SnWWlw5OsqNbDQvmbB) | [THANK GOD FOR THE SUN](https://open.spotify.com/album/2bsEx0B5XsrmBrQCx0DEue) | 3:05 |
 | 19 | [Say It To Yourself](https://open.spotify.com/track/5XJYqaSOlo3kkIBcuVdzNo) | [Touchline](https://open.spotify.com/artist/17GDrcknjyTyuxDbZ4kHlz) | [Say It To Yourself](https://open.spotify.com/album/3p4IiDJBZ8Trs09m0kMJXC) | 4:11 |

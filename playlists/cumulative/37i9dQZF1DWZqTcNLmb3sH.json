@@ -4499,6 +4499,32 @@
     },
     {
       "album": {
+        "name": "Music Shop Murthy (Kannada)",
+        "url": "https://open.spotify.com/album/4VBhIaJbIFd6Q3a9OtY6hY"
+      },
+      "artists": [
+        {
+          "name": "Pavan",
+          "url": "https://open.spotify.com/artist/3DsYnBCj82o1618kqGdGKp"
+        },
+        {
+          "name": "Akshay Badamane",
+          "url": "https://open.spotify.com/artist/0Bm4jb0z86yN1kdXqtNU30"
+        },
+        {
+          "name": "Kishore Vishwakarma",
+          "url": "https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198879,
+      "name": "Bidu Nee",
+      "url": "https://open.spotify.com/track/5gDCOJQENkTfSSUp2USjG5"
+    },
+    {
+      "album": {
         "name": "Feel My Love (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6c27PQGtfDHPDTolAbsJEZ"
       },
@@ -8750,7 +8776,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 181381,
       "name": "Gandu Hennu Nakkagela (From \"Mandyahaida\")",
       "url": "https://open.spotify.com/track/3r9YuGpklx0BxmhBnme1S0"
@@ -9760,6 +9786,32 @@
       "duration_ms": 144071,
       "name": "Happy Birthday London Sparrow (From \"Lineman\") (Kannada)",
       "url": "https://open.spotify.com/track/2gT0mdD11b6jM2uowlaVcu"
+    },
+    {
+      "album": {
+        "name": "Happy Birthday To Me (From \"Happy Birthday To Me\")",
+        "url": "https://open.spotify.com/album/47JIZUw1RUi94K912yNbUb"
+      },
+      "artists": [
+        {
+          "name": "Kalyan Manjunath",
+          "url": "https://open.spotify.com/artist/35Wzhm2uv7DeqM1xRQwcU6"
+        },
+        {
+          "name": "Karthik Gubbi",
+          "url": "https://open.spotify.com/artist/56tRdPoWDeULdZSBKXhIIQ"
+        },
+        {
+          "name": "Vinayshankar T",
+          "url": "https://open.spotify.com/artist/1YcD5mduatQEB4lnhl1ox8"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191798,
+      "name": "Happy Birthday To Me (From \"Happy Birthday To Me\")",
+      "url": "https://open.spotify.com/track/4f8CjD4oDkuz4CN1mIoc5X"
     },
     {
       "album": {
@@ -20812,7 +20864,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 234038,
       "name": "Obbane Shiva Obbane Yuva( From \"Yuva\" )",
       "url": "https://open.spotify.com/track/1DdnaIa2iSUlSl5oXk7sG3"
@@ -22098,6 +22150,44 @@
       "duration_ms": 321773,
       "name": "Paatashaala",
       "url": "https://open.spotify.com/track/0PVm3fYGbyxh9qNB87pDvF"
+    },
+    {
+      "album": {
+        "name": "Padhe Padhe (feat. Rajavardan, Rihana & Divya Suresh) [From \"Hiranya - The Hitman\"]",
+        "url": "https://open.spotify.com/album/0JBaVIZTDmVhYIZXBg7JCk"
+      },
+      "artists": [
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Judah Sandhy",
+          "url": "https://open.spotify.com/artist/4penrzAbWok4rhnaZuwF9V"
+        },
+        {
+          "name": "Pramod Maravanthe",
+          "url": "https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr"
+        },
+        {
+          "name": "Rihana",
+          "url": "https://open.spotify.com/artist/3jPpqmUowZIrmPcrPyVkC7"
+        },
+        {
+          "name": "Rajavardan",
+          "url": "https://open.spotify.com/artist/134XKyWvT4aDOW8li2O4Ph"
+        },
+        {
+          "name": "Divya Suresh",
+          "url": "https://open.spotify.com/artist/30Cfnfbq8ASMKzoP5x86oI"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209019,
+      "name": "Padhe Padhe (feat. Rajavardan, Rihana & Divya Suresh) [From \"Hiranya - The Hitman\"]",
+      "url": "https://open.spotify.com/track/5MtySuDzWviisruGhEU8Nr"
     },
     {
       "album": {

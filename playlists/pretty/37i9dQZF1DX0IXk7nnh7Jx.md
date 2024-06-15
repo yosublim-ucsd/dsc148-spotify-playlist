@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="spotify:artist:0ZDuCmctvivaIwQuHrg48n">Gracie Binion</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,044 likes - 90 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,050 likes - 90 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,15 +1,71 @@
 {
   "description": "",
-  "num_followers": 1534,
+  "num_followers": 1535,
   "original_name": "TERMINAL UNDERGROUND WEEKLY HITTERS",
   "owner": {
     "name": "Matroda",
     "url": "https://open.spotify.com/user/2nightmgmt"
   },
-  "snapshot_id": "AAASyISdEIAj0gGO34pHXEKAz/QsztLf",
+  "snapshot_id": "AAASzyB9flU+Fk/gcdZhEMLRN4aFMchA",
   "tracks": [
     {
-      "added_at": "2024-05-31 16:03:26",
+      "added_at": "2024-06-14 05:46:23",
+      "album": {
+        "name": "BLOW (WHITE GIRL IN TOWN) [feat. Kilo Ali]",
+        "url": "https://open.spotify.com/album/3XqYLQXudPtDBs73gZYLQG"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        },
+        {
+          "name": "Kilo Ali",
+          "url": "https://open.spotify.com/artist/6qbmEw8JjPrPV4HknWp0O1"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "BLOW (WHITE GIRL IN TOWN) [feat. Kilo Ali]",
+      "url": "https://open.spotify.com/track/52r4FYDc8x1DlWt6x2vuiT"
+    },
+    {
+      "added_at": "2024-06-14 05:46:23",
+      "album": {
+        "name": "Pump This Party",
+        "url": "https://open.spotify.com/album/2A9vhEnukc5Tm01qRqqgVO"
+      },
+      "artists": [
+        {
+          "name": "Black V Neck",
+          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Pump This Party",
+      "url": "https://open.spotify.com/track/5WMbVHN5qGZAdP0iBiIjCW"
+    },
+    {
+      "added_at": "2024-06-14 05:46:23",
+      "album": {
+        "name": "Inner Circle",
+        "url": "https://open.spotify.com/album/18jRhz7BaOa35PnnEdsFoQ"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        },
+        {
+          "name": "Sihk",
+          "url": "https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6"
+        }
+      ],
+      "duration_ms": 217617,
+      "name": "Bring The Hats On",
+      "url": "https://open.spotify.com/track/5WfUemQCEBSUWxAbrgezl6"
+    },
+    {
+      "added_at": "2024-06-14 05:46:23",
       "album": {
         "name": "No Guest List",
         "url": "https://open.spotify.com/album/7cprE3sKPwvLtjsWGLBDYr"
@@ -25,86 +81,242 @@
       "url": "https://open.spotify.com/track/15vJitibJtJHKeNmGf3Dz2"
     },
     {
-      "added_at": "2024-05-31 16:03:26",
+      "added_at": "2024-06-14 05:46:23",
       "album": {
-        "name": "No Guest List",
-        "url": "https://open.spotify.com/album/7cprE3sKPwvLtjsWGLBDYr"
+        "name": "Got To Be There",
+        "url": "https://open.spotify.com/album/62cnsAS1PktixoHAuccPWX"
       },
       "artists": [
         {
-          "name": "San Pacho",
-          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+          "name": "BNM",
+          "url": "https://open.spotify.com/artist/4PKL5mH3AwilRovJ93jOvT"
+        }
+      ],
+      "duration_ms": 162098,
+      "name": "Got To Be There",
+      "url": "https://open.spotify.com/track/1yFvtHZwHbNsKZATk4UsJ1"
+    },
+    {
+      "added_at": "2024-06-14 05:46:23",
+      "album": {
+        "name": "Midnight Train",
+        "url": "https://open.spotify.com/album/5dEmfqNAtmbDmH1op87pEM"
+      },
+      "artists": [
+        {
+          "name": "Ferra Black",
+          "url": "https://open.spotify.com/artist/2M9yha8tr0kCqQj2QqVBxD"
         },
         {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/3xO9hPdz5KQ7wOXxshldeL"
+          "name": "Warren Blake",
+          "url": "https://open.spotify.com/artist/0sihR5VNpciUKK9vA2ydm1"
         }
       ],
-      "duration_ms": 156562,
-      "name": "Cha Cha Cha",
-      "url": "https://open.spotify.com/track/1ZU9C5s4NbM30SI7pB3Uql"
+      "duration_ms": 214656,
+      "name": "Midnight Train",
+      "url": "https://open.spotify.com/track/5Pjzz6xQTDpKzj68jK9E4M"
     },
     {
-      "added_at": "2024-05-31 16:03:26",
+      "added_at": "2024-06-14 05:46:23",
       "album": {
-        "name": "No Guest List",
-        "url": "https://open.spotify.com/album/7cprE3sKPwvLtjsWGLBDYr"
+        "name": "Call 911",
+        "url": "https://open.spotify.com/album/1c9JHP0lzjaEyxgo9Z4e8Y"
       },
       "artists": [
         {
-          "name": "San Pacho",
-          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
-        }
-      ],
-      "duration_ms": 148444,
-      "name": "Amor VIP",
-      "url": "https://open.spotify.com/track/2RlH4F2ZnyvlvodxZhFV0c"
-    },
-    {
-      "added_at": "2024-05-31 16:03:26",
-      "album": {
-        "name": "PICK UP THE PHONE (feat. Nate Dogg)",
-        "url": "https://open.spotify.com/album/7gRGY7lnuazLB3axrV5yWE"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
         },
         {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+          "name": "Rafael",
+          "url": "https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6"
         }
       ],
-      "duration_ms": 224124,
-      "name": "PICK UP THE PHONE (feat. Nate Dogg)",
-      "url": "https://open.spotify.com/track/6o0gJtOgimGamRBTS80H5g"
+      "duration_ms": 224032,
+      "name": "Call 911",
+      "url": "https://open.spotify.com/track/1b8Fw5fYEZHHholqLkqzfX"
     },
     {
-      "added_at": "2024-05-31 16:03:26",
+      "added_at": "2024-06-14 05:46:23",
       "album": {
-        "name": "Heatstroke",
-        "url": "https://open.spotify.com/album/37W9OQ6r3clnbM3GTPxVjy"
+        "name": "Beef",
+        "url": "https://open.spotify.com/album/0xg4uo2m48TrsxxjuPDess"
       },
       "artists": [
         {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+          "name": "Mal\u00f3ne",
+          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
         },
         {
-          "name": "Paul Woolford",
-          "url": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
+          "name": "Jesse Bravo",
+          "url": "https://open.spotify.com/artist/5c5YvfauJzP169EcIQV0SD"
         }
       ],
-      "duration_ms": 166000,
-      "name": "Heatstroke",
-      "url": "https://open.spotify.com/track/5IGoWPgvvz0m2fcszFdlSk"
+      "duration_ms": 183750,
+      "name": "Beef",
+      "url": "https://open.spotify.com/track/3c7OJFgOh9Rqu8eAYpoZxh"
     },
     {
-      "added_at": "2024-05-31 16:03:26",
+      "added_at": "2024-06-14 05:46:23",
       "album": {
-        "name": "Close Your Eyes",
-        "url": "https://open.spotify.com/album/26ML5knqJbLOSoU6isAq4H"
+        "name": "Locamente",
+        "url": "https://open.spotify.com/album/5akhXBcvTPaVGrKDwvi711"
+      },
+      "artists": [
+        {
+          "name": "Paskman",
+          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
+        }
+      ],
+      "duration_ms": 139687,
+      "name": "Locamente",
+      "url": "https://open.spotify.com/track/54LL57cecNcm6sNmTglKPH"
+    },
+    {
+      "added_at": "2024-06-14 05:46:23",
+      "album": {
+        "name": "Pushing On",
+        "url": "https://open.spotify.com/album/522KSxvCF6qpxIZI5Yi13w"
+      },
+      "artists": [
+        {
+          "name": "IDRIS",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        },
+        {
+          "name": "Kathy Brown",
+          "url": "https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq"
+        }
+      ],
+      "duration_ms": 165483,
+      "name": "Pushing On",
+      "url": "https://open.spotify.com/track/1V8CQOQ3n0U0okXPWRhtV0"
+    },
+    {
+      "added_at": "2024-06-14 05:46:23",
+      "album": {
+        "name": "PAPI",
+        "url": "https://open.spotify.com/album/5FomfAbIMMLUIfe9fTQi9A"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Sam Collins",
+          "url": "https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx"
+        }
+      ],
+      "duration_ms": 155100,
+      "name": "PAPI",
+      "url": "https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia"
+    },
+    {
+      "added_at": "2024-06-14 05:46:23",
+      "album": {
+        "name": "Rock Your Body",
+        "url": "https://open.spotify.com/album/6PPmtoZZBKpMmelBNFQhlX"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        {
+          "name": "Lara Klart",
+          "url": "https://open.spotify.com/artist/1Rhon5PriofaAjjCEGNrQ2"
+        },
+        {
+          "name": "Alexander Technique",
+          "url": "https://open.spotify.com/artist/5nCphaO35HX9Hxq7LSfkIw"
+        },
+        {
+          "name": "Nicole Rubira",
+          "url": "https://open.spotify.com/artist/2j2vi1lCxpfevNeEf1tFAh"
+        }
+      ],
+      "duration_ms": 179999,
+      "name": "Rock Your Body - Edit",
+      "url": "https://open.spotify.com/track/7cgub1sDMlNJjUIusoJfcc"
+    },
+    {
+      "added_at": "2024-06-14 05:46:23",
+      "album": {
+        "name": "Tell Me What You Want",
+        "url": "https://open.spotify.com/album/4rd5c66hQdMosQrB7O7zHi"
+      },
+      "artists": [
+        {
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "duration_ms": 160314,
+      "name": "Tell Me What You Want",
+      "url": "https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq"
+    },
+    {
+      "added_at": "2024-06-14 05:46:23",
+      "album": {
+        "name": "Can't Stop / Boogie In Your Butt",
+        "url": "https://open.spotify.com/album/2C6HCPyMAHTDtS8jdpssiW"
+      },
+      "artists": [
+        {
+          "name": "Duck Sauce",
+          "url": "https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt"
+        },
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        },
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        }
+      ],
+      "duration_ms": 205429,
+      "name": "Can't Stop",
+      "url": "https://open.spotify.com/track/4lsHkNkJccz58VrEmA1o3q"
+    },
+    {
+      "added_at": "2024-06-14 05:46:23",
+      "album": {
+        "name": "It's All On You",
+        "url": "https://open.spotify.com/album/6RVuczenRVz4Xdwe69LJOf"
+      },
+      "artists": [
+        {
+          "name": "Tom Santa",
+          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
+        },
+        {
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+        },
+        {
+          "name": "Hitty",
+          "url": "https://open.spotify.com/artist/5ihFvuv44N5h6eYxLyftBi"
+        },
+        {
+          "name": "Foonzy",
+          "url": "https://open.spotify.com/artist/39CAY2Pk8BtywnmFcssR6X"
+        }
+      ],
+      "duration_ms": 145332,
+      "name": "It's All On You",
+      "url": "https://open.spotify.com/track/2ugMmpncnUU5BlufHZcq7m"
+    },
+    {
+      "added_at": "2024-06-14 05:46:23",
+      "album": {
+        "name": "Our Lovely City (Hands Up For Detroit) [Audion Remix]",
+        "url": "https://open.spotify.com/album/0hGr0K2VEVCFnQm1D4dCzA"
       },
       "artists": [
         {
@@ -112,293 +324,93 @@
           "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
         },
         {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+          "name": "Matthew Dear",
+          "url": "https://open.spotify.com/artist/2GLf7iaOOujAem5R87xwto"
         },
         {
-          "name": "James Carter",
-          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+          "name": "Audion",
+          "url": "https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8"
         }
       ],
-      "duration_ms": 157500,
-      "name": "Close Your Eyes",
-      "url": "https://open.spotify.com/track/11ZLztlvXKdaortTq9gDaG"
+      "duration_ms": 135000,
+      "name": "Our Lovely City (Hands Up For Detroit) - Audion Remix",
+      "url": "https://open.spotify.com/track/4EaT9xXbYVbdCFTVZAVYFJ"
     },
     {
-      "added_at": "2024-05-31 16:03:26",
+      "added_at": "2024-06-14 05:46:23",
       "album": {
-        "name": "XTC EP",
-        "url": "https://open.spotify.com/album/0hTVFrPW1VzA3ZxAsaR5h6"
+        "name": "Can't Stop",
+        "url": "https://open.spotify.com/album/2EIZWvKBNPhezHx8Jovb3q"
       },
       "artists": [
         {
-          "name": "HoneyLuv",
-          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
-        },
-        {
-          "name": "Mason Maynard",
-          "url": "https://open.spotify.com/artist/4EdTAy3S5GrswFHCdpiKP3"
-        },
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
         }
       ],
-      "duration_ms": 255000,
-      "name": "XTC - Jamie Jones Remix",
-      "url": "https://open.spotify.com/track/6A1tuCeIacSbji2WaWYcVx"
+      "duration_ms": 205977,
+      "name": "Can't Stop",
+      "url": "https://open.spotify.com/track/1JR3cLdPWwOuLOKeOEdigw"
     },
     {
-      "added_at": "2024-05-31 16:03:26",
+      "added_at": "2024-06-14 05:46:23",
       "album": {
-        "name": "Play In This Feeling",
-        "url": "https://open.spotify.com/album/5JlOuj4JESpJlGa0unWLLh"
+        "name": "The Box",
+        "url": "https://open.spotify.com/album/3eTsXqycvOk2j4STUhDJ2A"
       },
       "artists": [
         {
-          "name": "Bontan",
-          "url": "https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud"
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        }
+      ],
+      "duration_ms": 221052,
+      "name": "The Box",
+      "url": "https://open.spotify.com/track/0iWXA5HTkEVfIhOUS9dMUI"
+    },
+    {
+      "added_at": "2024-06-14 05:46:23",
+      "album": {
+        "name": "People In The Club",
+        "url": "https://open.spotify.com/album/3XWcwhj4evaVJoh0pcvTiW"
+      },
+      "artists": [
+        {
+          "name": "NightFunk",
+          "url": "https://open.spotify.com/artist/1UgUBnYpGyrYfGIfkMp08O"
+        }
+      ],
+      "duration_ms": 298005,
+      "name": "People In The Club",
+      "url": "https://open.spotify.com/track/0S1FFRO9CDHnFIBMHT1kD9"
+    },
+    {
+      "added_at": "2024-06-14 05:46:23",
+      "album": {
+        "name": "Warp 1.9 (feat. Steve Aoki) [Westend & Cherry Tooth Remix]",
+        "url": "https://open.spotify.com/album/7qCVuPyIdosx8QkFxuINON"
+      },
+      "artists": [
+        {
+          "name": "The Bloody Beetroots",
+          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
         },
         {
-          "name": "Zentola",
-          "url": "https://open.spotify.com/artist/2F2OxUMrrxk7zco4VmkTIC"
-        }
-      ],
-      "duration_ms": 186169,
-      "name": "Play In This Feeling",
-      "url": "https://open.spotify.com/track/5UqpZi2icpO3BSAcHJfEiM"
-    },
-    {
-      "added_at": "2024-05-31 16:03:26",
-      "album": {
-        "name": "Big Busta",
-        "url": "https://open.spotify.com/album/0V6jv8QUh5TBTR7VSCoyFJ"
-      },
-      "artists": [
-        {
-          "name": "Low Steppa",
-          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         },
         {
-          "name": "Jewel Kid",
-          "url": "https://open.spotify.com/artist/7eoJbho2ohpRTHDjZjkMTB"
-        }
-      ],
-      "duration_ms": 174861,
-      "name": "Big Busta",
-      "url": "https://open.spotify.com/track/6D42dge6dBJYacYkIq9ll1"
-    },
-    {
-      "added_at": "2024-05-31 16:03:26",
-      "album": {
-        "name": "Incanto",
-        "url": "https://open.spotify.com/album/1l0jv9dUNX0HN7E9078Opp"
-      },
-      "artists": [
-        {
-          "name": "Ryan Arnold",
-          "url": "https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7"
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
         },
         {
-          "name": "Raffa Fl",
-          "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
+          "name": "Cherry Tooth",
+          "url": "https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv"
         }
       ],
-      "duration_ms": 186562,
-      "name": "Incanto",
-      "url": "https://open.spotify.com/track/2YU7qOVWn3LgCxmch4PSGp"
-    },
-    {
-      "added_at": "2024-05-31 16:03:26",
-      "album": {
-        "name": "Cacha\u00e7a, Pinga e Puta",
-        "url": "https://open.spotify.com/album/401D3IG7ItNSJjR4KeCw6l"
-      },
-      "artists": [
-        {
-          "name": "De Qualite",
-          "url": "https://open.spotify.com/artist/1SPYqFTZFY8jLNLRUimSAu"
-        },
-        {
-          "name": "Mc Koruja",
-          "url": "https://open.spotify.com/artist/44AXaX2aJKSQhMxVTtNb0s"
-        },
-        {
-          "name": "DJ Rafinha Duarte",
-          "url": "https://open.spotify.com/artist/6FkdZL65sL243K1Wrfgzws"
-        }
-      ],
-      "duration_ms": 178403,
-      "name": "Cacha\u00e7a, Pinga e Puta",
-      "url": "https://open.spotify.com/track/2W7sEVa8EoUhC81pscUEuT"
-    },
-    {
-      "added_at": "2024-05-31 16:03:26",
-      "album": {
-        "name": "Intoxicated",
-        "url": "https://open.spotify.com/album/35XprblJeDWF7j7KzUnyOl"
-      },
-      "artists": [
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        },
-        {
-          "name": "No Thanks",
-          "url": "https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34"
-        }
-      ],
-      "duration_ms": 196190,
-      "name": "Intoxicated",
-      "url": "https://open.spotify.com/track/31rfmss1bYtH3MxPGw6FwE"
-    },
-    {
-      "added_at": "2024-05-31 16:03:26",
-      "album": {
-        "name": "ATALAKOU / TORERO",
-        "url": "https://open.spotify.com/album/1ahkJyO4CfYhM4wJHW7jDx"
-      },
-      "artists": [
-        {
-          "name": "AM\u00c9M\u00c9",
-          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
-        }
-      ],
-      "duration_ms": 209523,
-      "name": "ATALAKOU",
-      "url": "https://open.spotify.com/track/1b3MYLeqwxGwUCeWc3WtSZ"
-    },
-    {
-      "added_at": "2024-05-31 16:03:26",
-      "album": {
-        "name": "IBIZA",
-        "url": "https://open.spotify.com/album/31czGIdxfoex2L6hGzZGy8"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "JADED",
-          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
-        },
-        {
-          "name": "CRCLE",
-          "url": "https://open.spotify.com/artist/0XDbOisy0qfOYDjqLLftvS"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "IBIZA",
-      "url": "https://open.spotify.com/track/2UWGoFGAYstslkTzLnHLXq"
-    },
-    {
-      "added_at": "2024-05-31 16:03:26",
-      "album": {
-        "name": "We No Speak Americano (Sterium & Duarte Remix)",
-        "url": "https://open.spotify.com/album/6T4E5GmHLItsAjCsEFs7pM"
-      },
-      "artists": [
-        {
-          "name": "Yolanda Be Cool",
-          "url": "https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F"
-        },
-        {
-          "name": "Sterium",
-          "url": "https://open.spotify.com/artist/6mZFMQ4sBi39W9dXCLH77s"
-        },
-        {
-          "name": "Duarte",
-          "url": "https://open.spotify.com/artist/11ofEe58zrex8X5NBbWhsk"
-        }
-      ],
-      "duration_ms": 167812,
-      "name": "We No Speak Americano - Sterium & Duarte Remix",
-      "url": "https://open.spotify.com/track/2jvhOYfO6pGAlKkGRDkbY9"
-    },
-    {
-      "added_at": "2024-05-31 16:03:26",
-      "album": {
-        "name": "She's In The Club (feat. Asal)",
-        "url": "https://open.spotify.com/album/7wJPiNFf6AThWb0Sh0ar2C"
-      },
-      "artists": [
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Asal",
-          "url": "https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU"
-        }
-      ],
-      "duration_ms": 188011,
-      "name": "She's In The Club (feat. Asal)",
-      "url": "https://open.spotify.com/track/7BhjlfNllL8h50DLl5Cd4r"
-    },
-    {
-      "added_at": "2024-05-31 16:03:26",
-      "album": {
-        "name": "Paris",
-        "url": "https://open.spotify.com/album/3mgsIkjobWlfq3sxanDdrH"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/17mnuzuIFPEmrDciyrmdfR"
-    },
-    {
-      "added_at": "2024-05-31 16:03:26",
-      "album": {
-        "name": "Toolroom House Party (DJ Mix)",
-        "url": "https://open.spotify.com/album/4UPOJUo6x4TPxATqMs9ToE"
-      },
-      "artists": [
-        {
-          "name": "JADED",
-          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
-        }
-      ],
-      "duration_ms": 193925,
-      "name": "Bang Bang (Mixed)",
-      "url": "https://open.spotify.com/track/7f9b6yaaMqmiTAaL1cidsY"
-    },
-    {
-      "added_at": "2024-05-31 16:03:26",
-      "album": {
-        "name": "Delante",
-        "url": "https://open.spotify.com/album/5vPtAiKazM8CA6NboCmaag"
-      },
-      "artists": [
-        {
-          "name": "Lodgerz",
-          "url": "https://open.spotify.com/artist/1v6MeV1kAPbXmFeF60LtZE"
-        }
-      ],
-      "duration_ms": 145908,
-      "name": "Delante",
-      "url": "https://open.spotify.com/track/3m0cKFBobiuIuNDzOCQJSN"
-    },
-    {
-      "added_at": "2024-05-31 16:03:26",
-      "album": {
-        "name": "Heldeep DJ Tools, Pt. 14 EP",
-        "url": "https://open.spotify.com/album/2TYOVmXgM3CDlFbpQpuLHK"
-      },
-      "artists": [
-        {
-          "name": "DONT BLINK",
-          "url": "https://open.spotify.com/artist/1AD6JUzgEvTAI8TLGwlrba"
-        }
-      ],
-      "duration_ms": 201904,
-      "name": "THE DEALER",
-      "url": "https://open.spotify.com/track/0PbL7qjwjT59tIjhiDsSFD"
+      "duration_ms": 167076,
+      "name": "Warp 1.9 (feat. Steve Aoki) - Westend & Cherry Tooth Remix",
+      "url": "https://open.spotify.com/track/4g3rjdS9GGPsCQ9u3uEweZ"
     }
   ],
   "unique_name": "TERMINAL UNDERGROUND WEEKLY HITTERS",

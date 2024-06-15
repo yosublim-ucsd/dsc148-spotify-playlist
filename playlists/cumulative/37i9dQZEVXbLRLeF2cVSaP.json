@@ -372,10 +372,28 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 104697,
       "name": "HURTZ",
       "url": "https://open.spotify.com/track/2WWlNStuw5Tqg5noCtR7oq"
+    },
+    {
+      "album": {
+        "name": "I GOT U",
+        "url": "https://open.spotify.com/album/4zo7PO4aB50EFFZqerSER4"
+      },
+      "artists": [
+        {
+          "name": "Toxi$",
+          "url": "https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163278,
+      "name": "I GOT U",
+      "url": "https://open.spotify.com/track/39uQdNywrxrH1ZjfOFc72n"
     },
     {
       "album": {
@@ -466,7 +484,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 155151,
       "name": "MILLION DOLLAR BABY",
       "url": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
@@ -524,6 +542,24 @@
       "duration_ms": 108068,
       "name": "Never Broke Again",
       "url": "https://open.spotify.com/track/21LIoC4ZxT3F8xq9gidNbX"
+    },
+    {
+      "album": {
+        "name": "Never Let Go",
+        "url": "https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166812,
+      "name": "Never Let Go",
+      "url": "https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs"
     },
     {
       "album": {
@@ -698,6 +734,24 @@
       "duration_ms": 171640,
       "name": "Stress",
       "url": "https://open.spotify.com/track/3Dt7z7R0wCfSYqU5oqSpN2"
+    },
+    {
+      "album": {
+        "name": "SUNSHINE IN JULY",
+        "url": "https://open.spotify.com/album/2m619MA58ou1A8gyun1OHT"
+      },
+      "artists": [
+        {
+          "name": "Xenia",
+          "url": "https://open.spotify.com/artist/4c13QPiKh4XE8FNqXr28FU"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160727,
+      "name": "SUNSHINE IN JULY",
+      "url": "https://open.spotify.com/track/7AaEI5nXd7NZQlhq8cKJQ8"
     },
     {
       "album": {
@@ -994,7 +1048,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 114924,
       "name": "\u0414\u0410, \u042f \u0420\u0423\u0421\u0421\u041a\u0418\u0419",
       "url": "https://open.spotify.com/track/62XPynwhhzYp7A0Q51MmYT"
@@ -2177,6 +2231,32 @@
     },
     {
       "album": {
+        "name": "Streets Echo 2052",
+        "url": "https://open.spotify.com/album/624pdV54PqxSh8xi1loGzb"
+      },
+      "artists": [
+        {
+          "name": "ALBLAK 52",
+          "url": "https://open.spotify.com/artist/0tkZJURRnsezR78T9uHDjq"
+        },
+        {
+          "name": "Skryptonite",
+          "url": "https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn"
+        },
+        {
+          "name": "FRIENDLY THUG 52 NGG",
+          "url": "https://open.spotify.com/artist/5xtbUYHaOycg6HIi10EZdV"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207724,
+      "name": "\u0421\u043f\u043e\u043a\u043e\u0439\u043d\u043e\u0439 \u043d\u043e\u0447\u0438",
+      "url": "https://open.spotify.com/track/5XLN6w7VBOv3XGgWVVxbI2"
+    },
+    {
+      "album": {
         "name": "\u0421\u0422\u0412\u041e\u041b",
         "url": "https://open.spotify.com/album/1ZZiXJKL51J800x66cqyB6"
       },
@@ -2382,7 +2462,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 164500,
       "name": "\u0423 \u043c\u0430\u043c\u044b \u0435\u0441\u0442\u044c \u0441\u0435\u043a\u0440\u0435\u0442",
       "url": "https://open.spotify.com/track/1R9lVA21mGHXSsJ1LjbMSv"
@@ -2400,7 +2480,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 147000,
       "name": "\u0423\u0442\u0440\u043e",
       "url": "https://open.spotify.com/track/0aKl63MnUIVKkXlVtp2vLr"
@@ -2436,7 +2516,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 75302,
       "name": "\u0444\u0435\u043d\u0438\u0431\u0443\u0442 2.0 - speed up",
       "url": "https://open.spotify.com/track/5ktnJaccf1XbHRws28PlyK"

@@ -1294,7 +1294,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 196260,
       "name": "Nossa Noite",
       "url": "https://open.spotify.com/track/19ZBM3YUW2ckbZ9uAnNbha"
@@ -1388,6 +1388,28 @@
       "duration_ms": 211072,
       "name": "O Quanto Eu Gosto Dela",
       "url": "https://open.spotify.com/track/5TvtSNY4UPIBRddYa1Nmgs"
+    },
+    {
+      "album": {
+        "name": "O Que Dure (Radio Edit)",
+        "url": "https://open.spotify.com/album/4K4kAYic6Jx4pplVDPFBvp"
+      },
+      "artists": [
+        {
+          "name": "Markko Mendes",
+          "url": "https://open.spotify.com/artist/3PbBjz1cgZBSBjvdse8cfG"
+        },
+        {
+          "name": "DJ Hum",
+          "url": "https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188147,
+      "name": "O Que Dure - Radio Edit",
+      "url": "https://open.spotify.com/track/0YXzvBIOA8gFYntsl0D3SL"
     },
     {
       "album": {

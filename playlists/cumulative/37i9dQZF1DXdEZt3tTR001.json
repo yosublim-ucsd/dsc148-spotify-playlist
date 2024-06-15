@@ -217,6 +217,24 @@
     },
     {
       "album": {
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/70L7Lav25m2IILlSSXnN1A"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228040,
+      "name": "Already Gone",
+      "url": "https://open.spotify.com/track/6QrQIAcvX1OZ0UrOjj2mrJ"
+    },
+    {
+      "album": {
         "name": "Lost And Found",
         "url": "https://open.spotify.com/album/0CMYJkOIYIZjo6wCJtlZNq"
       },
@@ -2456,7 +2474,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 181777,
       "name": "Make It To Summer",
       "url": "https://open.spotify.com/track/7FsyUisTus0MEQqGVPAukP"
@@ -2958,7 +2976,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 178436,
       "name": "Pon P\u00f3n",
       "url": "https://open.spotify.com/track/4B3X07DwS1HoviCmfkEKzC"
@@ -3766,6 +3784,24 @@
       "duration_ms": 185371,
       "name": "Suspended",
       "url": "https://open.spotify.com/track/1maIZ0gsjVbdANLvl4v0ao"
+    },
+    {
+      "album": {
+        "name": "Moth",
+        "url": "https://open.spotify.com/album/3QYrEoeYrBdBNrtsuoCor7"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219861,
+      "name": "Sweet Like",
+      "url": "https://open.spotify.com/track/6Hj7gXUzQreDfSozI4QwbQ"
     },
     {
       "album": {

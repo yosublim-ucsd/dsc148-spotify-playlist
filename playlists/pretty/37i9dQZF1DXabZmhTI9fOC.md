@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Keep the villa vibes vibing with music from and inspired by the new season of Love Island USA, streaming only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2406spotifypkerndwbjny446&utm\_campaign=2406spotify&utm\_source=sptfy\_na&utm\_medium=ernd\_wbjny\_acq\_deslnk&utm\_term=spotifyusers&utm\_content=nooffer&voucher\[\]=XXXXXXXXXXXXXX">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,683 likes - 23 songs - 1 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,714 likes - 27 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,12 +24,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 14 | [War](https://open.spotify.com/track/65NKOYrzh6Gz7rtiLmMMek) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [War](https://open.spotify.com/album/0ZaiDvYtUSXN9AFFQnAeHj) | 3:15 |
 | 15 | [This Is the Beginning](https://open.spotify.com/track/5UrvzwTHfS990pHL9BQDQh) | [Ely Eira](https://open.spotify.com/artist/5IdqmiFiHkfWGSQcjdz41u) | [The Legend of Ely: Prologue](https://open.spotify.com/album/65e8nMpoLMzutFih3Cno4T) | 4:04 |
 | 16 | [PARADISE](https://open.spotify.com/track/15vFR8puc7KZ1YvTWP23A7) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE) | [PARADISE](https://open.spotify.com/album/5B5bNotk4KQ4MlwZfzBtXM) | 2:44 |
-| 17 | [Run](https://open.spotify.com/track/6UNe4IwUq0fRBQIFWY7cUZ) | [Wyn Starks](https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ) | [Run](https://open.spotify.com/album/7lQQQkjREMqUXMqQbYDnfm) | 3:27 |
-| 18 | [People Happy](https://open.spotify.com/track/7afcFEV1xMYlzeE4kyrYCH) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [Stace Cadet](https://open.spotify.com/artist/4C825UjHAWCMvdZwbtpwDT) | [People Happy](https://open.spotify.com/album/0bjC4rvDNRzbMYSgaB5zBG) | 2:38 |
-| 19 | [Hot Fever Dream](https://open.spotify.com/track/3bivI0NycEM5Q9uzfmFulF) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Hot Fever Dream](https://open.spotify.com/album/43hFtKcoKhHpJndFac4O1j) | 2:27 |
-| 20 | [Loveher](https://open.spotify.com/track/75PNzduM0yViwNeye50xdP) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Loveher](https://open.spotify.com/album/6n07xRHzroJVVSFnQ6TyiX) | 3:49 |
-| 21 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 |
-| 22 | [Who's Gonna Drown Tonight \(Shots!\)](https://open.spotify.com/track/617KQcTtASIT7W9PTI5Exn) | [Mad Circuit](https://open.spotify.com/artist/1hEew8IFcwMc0gpMyHJm8u) | [Who's Gonna Drown Tonight \(Shots!\)](https://open.spotify.com/album/0qODMAoV5LbviBwFabJs0i) | 3:47 |
-| 23 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 |
+| 17 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 |
+| 18 | [Who's Gonna Drown Tonight \(Shots!\)](https://open.spotify.com/track/617KQcTtASIT7W9PTI5Exn) | [Mad Circuit](https://open.spotify.com/artist/1hEew8IFcwMc0gpMyHJm8u) | [Who's Gonna Drown Tonight \(Shots!\)](https://open.spotify.com/album/0qODMAoV5LbviBwFabJs0i) | 3:47 |
+| 19 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 |
+| 20 | [Good Times](https://open.spotify.com/track/07QCSa14E5bfOOkTXR7oLD) | [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Good Times](https://open.spotify.com/album/30IkUlyQDDF1kuobmVCSBo) | 1:53 |
+| 21 | [24H](https://open.spotify.com/track/2y8yrskJa34zsdKhdotgk2) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [HARD](https://open.spotify.com/album/3b1SWPjpkf4jEDtnNQdfu4) | 2:57 |
+| 22 | [Oo La La](https://open.spotify.com/track/6SBBp9d7ntU5P4Vo5eVnMS) | [The Mondays](https://open.spotify.com/artist/2OIegVYrdsA82KbWYcW2lq), [LiTTiE](https://open.spotify.com/artist/40IENPTKJviFjvPGrlBD8p) | [Oo La La](https://open.spotify.com/album/0e1DmvUvUDzLCSjSc72KUj) | 2:49 |
+| 23 | [On My Knees](https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [On My Knees](https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q) | 4:21 |
+| 24 | [Triumph](https://open.spotify.com/track/7lSTs6DLjCP2oqib43vyGB) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Triumph](https://open.spotify.com/album/6gnZgEs6IZaBrJWO8I6HSb) | 2:38 |
+| 25 | [Unsteady Ground](https://open.spotify.com/track/2fdyrZcYRdvIKbEKRrAIi8) | [Saint Wander](https://open.spotify.com/artist/0foG1Pg4vI16qm8TaiFRPr) | [I Am the Reckoning](https://open.spotify.com/album/0cK0jcSjcI7leJ3JhZGHzb) | 3:28 |
+| 26 | [Showdown](https://open.spotify.com/track/6us1mHKDpUq2AyZRwD5aNq) | [REIMS](https://open.spotify.com/artist/3sbhS05fQerlXJSubVoIbX) | [Light It Up](https://open.spotify.com/album/7wENOZTdyikQ9PGqj2P2u9) | 2:47 |
+| 27 | [Before You Go](https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent \(Extended Edition\)](https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8) | 3:35 |
 
-Snapshot ID: `Zmsw4gAAAACUi3yJ8tmaJppLIcJOPnVd`
+Snapshot ID: `ZmzGDQAAAADe9TfC91vtrqWUJ1LBGye/`

@@ -1400,7 +1400,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 128378,
       "name": "Fear of God",
       "url": "https://open.spotify.com/track/6mmVlg77OTVAbwoQTvUXFS"
@@ -1476,7 +1476,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 170187,
       "name": "Floki lost soul - \u0412\u043e\u0440\u0443\u044e \u0430\u043b\u043a\u043e\u0433\u043e\u043b\u044c",
       "url": "https://open.spotify.com/track/6gUuAhu0OjqCkrznpJbblI"
@@ -1872,7 +1872,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 84656,
       "name": "godspeed.mp3",
       "url": "https://open.spotify.com/track/6dwricV9PC2d9Wfn6GGtmK"
@@ -4929,6 +4929,24 @@
     },
     {
       "album": {
+        "name": "The Lost Soul Down Floki (Slowed)",
+        "url": "https://open.spotify.com/album/7mhSv13p2BjtohDH1grpMA"
+      },
+      "artists": [
+        {
+          "name": "krush",
+          "url": "https://open.spotify.com/artist/2wzro1nMLkaoWx5geebHIp"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170588,
+      "name": "The Lost Soul Down Floki - Slowed",
+      "url": "https://open.spotify.com/track/5MxqdwhenBa3vhk9AeSMIE"
+    },
+    {
+      "album": {
         "name": "The Lost Soul Down x Floki",
         "url": "https://open.spotify.com/album/6ENIspfJ5KHvySTIp3trBn"
       },
@@ -5851,6 +5869,32 @@
     },
     {
       "album": {
+        "name": "\u0410\u0439\u0440\u0430",
+        "url": "https://open.spotify.com/album/0dojGggAP1QCX2I46mHczw"
+      },
+      "artists": [
+        {
+          "name": "nkeeei",
+          "url": "https://open.spotify.com/artist/0kD3TUffiD0sPxGwygzjg7"
+        },
+        {
+          "name": "uniqe",
+          "url": "https://open.spotify.com/artist/0NhjeTa9uSqiD1wEG3gfII"
+        },
+        {
+          "name": "ARTEM SHILOVETS",
+          "url": "https://open.spotify.com/artist/3r1Md7Hk5iqtpyEoGo8032"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158350,
+      "name": "\u0410\u0439\u0440\u0430",
+      "url": "https://open.spotify.com/track/3Shai3GNMBdyHZfz5AR1gC"
+    },
+    {
+      "album": {
         "name": "NEXT LEVEL",
         "url": "https://open.spotify.com/album/5i9F0l9RHeYcuLhZSYPq9y"
       },
@@ -6328,7 +6372,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 102908,
       "name": "\u0412\u0410\u0426\u041e\u041a \u041f\u041e\u0427\u0423\u0412\u0421\u0422\u0412\u0423\u0419",
       "url": "https://open.spotify.com/track/4P872YaAzAZNXLJCcATtFS"
@@ -7482,7 +7526,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 119744,
       "name": "\u041c\u043e\u0439 \u0437\u0430\u0439\u0447\u0438\u043a",
       "url": "https://open.spotify.com/track/04G01nMm1PQQo7XblK45tt"
@@ -7500,7 +7544,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 115884,
       "name": "\u041c\u043e\u0439 \u0437\u0430\u0439\u0447\u0438\u043a (Speed Up)",
       "url": "https://open.spotify.com/track/0bPcEKuJivEVARCN3smAiL"

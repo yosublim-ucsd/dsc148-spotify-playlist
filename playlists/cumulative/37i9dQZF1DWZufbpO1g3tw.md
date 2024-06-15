@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZufbpO1g3tw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZufbpO1g3tw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZufbpO1g3tw)
 
-### [La Playlist Botanera](https://open.spotify.com/playlist/37i9dQZF1DWZufbpO1g3tw)
+### [Botaneando: Día del Padre ](https://open.spotify.com/playlist/37i9dQZF1DWZufbpO1g3tw)
 
 > Aficionades que viven la intensidad de botanear ⚽️🌮🍻
 
-299 songs - 18 hr 28 min
+302 songs - 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Andar Conmigo](https://open.spotify.com/track/05iMQqncVBIm4AE26EvaTL) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Si](https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB) | 3:13 | 2024-05-24 |  |
 | [ANDO](https://open.spotify.com/track/4GvEuYAfJlICR2SpMDaBxQ) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Gittobeatz](https://open.spotify.com/artist/4rRwh9ghjocFABAwIwnunp) | [ÉNFASIS](https://open.spotify.com/album/3Yg6mB7aDyVFTZBMcJPG5B) | 2:52 | 2024-05-24 |  |
 | [Apasionadamente](https://open.spotify.com/track/22mVIMbschh7l57uvZuKma) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Aguerrida](https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6) | 3:00 | 2021-10-20 | 2023-05-10 |
+| [Aquí Mando Yo](https://open.spotify.com/track/777fe7EyoQ7vatcRRHbTmO) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Aquí Mando Yo](https://open.spotify.com/album/3Hn6SB2nMJulWtrRdr5Bnk) | 3:36 | 2024-06-14 |  |
 | [ARRANCÁRMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCÁRMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 | 2023-11-22 |  |
 | [Ateo](https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Ateo](https://open.spotify.com/album/6Re7sviVustR53KeArspwK) | 3:59 | 2021-10-20 | 2023-11-23 |
 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 | 2021-10-20 | 2023-11-23 |
@@ -81,6 +82,7 @@
 | [Cómo Te Voy A Olvidar](https://open.spotify.com/track/6Vwr4zJDyXk2IzNUMzEhmQ) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Íconos 25 Éxitos](https://open.spotify.com/album/63ya14FMMlgowwjeY0R3Yn) | 4:31 | 2022-10-28 | 2023-11-23 |
 | [DANCE CRIP](https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [DANCE CRIP](https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI) | 2:45 | 2023-11-22 |  |
 | [Dancing With Myself](https://open.spotify.com/track/1BY1Vd2Bt6JPOhMvsIwtVv) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Vital Idol](https://open.spotify.com/album/2PSsUGkAAAnBmUUSNBU6se) | 5:59 | 2023-11-22 |  |
+| [Dime \- Toy Selectah Cumbia Remix](https://open.spotify.com/track/5CrIhnbLia8Fqqr4d8UEi1) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Toy Selectah](https://open.spotify.com/artist/6iruqoplIhH7VmvMQV1wDM) | [Dime \(Toy Selectah Cumbia Remix\)](https://open.spotify.com/album/69ZTclRzkCfvGrSsSohSEA) | 3:25 | 2024-06-14 |  |
 | [Don Dimadon](https://open.spotify.com/track/1LfsvLFQprosUmrEtGPHAe) | [Remp](https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Don Dimadon](https://open.spotify.com/album/3AL6ynr4iZhCbOHO3XzLtA) | 3:04 | 2024-03-15 |  |
 | [Donde Estaras](https://open.spotify.com/track/3734uAibGyPgZEABdWFVtM) | [ICC](https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF) | [Donde Estaras](https://open.spotify.com/album/6XOIE8I44BYpa7bqctENqu) | 3:43 | 2022-10-28 | 2023-11-23 |
 | [Donde Estas?](https://open.spotify.com/track/5JKrQ2hLkjh6V8zh1MgaS5) | [Alcalde La Sonora](https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ) | [Donde Estas?](https://open.spotify.com/album/3qn9IYBLGqTUNGHfV4BaeX) | 4:50 | 2022-10-28 | 2023-11-23 |
@@ -95,6 +97,7 @@
 | [El Botecito](https://open.spotify.com/track/2DzLlUtscN7QECJ6E3yvHE) | [Los Hijos Del Pueblo](https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ) | [El Botecito](https://open.spotify.com/album/3F17x1qqSjZBxMCwxbnupP) | 2:30 | 2022-10-28 | 2023-11-23 |
 | [El Efecto](https://open.spotify.com/track/4SJHHpKhcuXwDsCsPqshXj) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [El Efecto](https://open.spotify.com/album/6C8ObcezFoorqPgY2J320r) | 3:37 | 2023-11-22 | 2024-05-24 |
 | [El Rey de la Kumbia](https://open.spotify.com/track/7oSjiHocGhbWhlTu9CN6zh) | [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [El Rey de la Kumbia](https://open.spotify.com/album/45nzMcJJDoGA1zRIaKaIVq) | 3:47 | 2024-04-12 |  |
+| [EL RITMO QUE NOS UNE \(feat\. Selección Colombia\)](https://open.spotify.com/track/79IBoMfFn67UI15YkP1FSp) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD), [Selección Colombia](https://open.spotify.com/artist/5qLqlZazggeL3HVtjuLhJy) | [EL RITMO QUE NOS UNE \(feat\. Selección Colombia\)](https://open.spotify.com/album/6gHvLYdqKPaiCXK92crXFR) | 3:09 | 2024-06-14 |  |
 | [El Traketeo](https://open.spotify.com/track/68wZUaqJLlzSgDpvtOD5z1) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO) | [El Traketeo](https://open.spotify.com/album/4agbz0mDBK5O5c5qoAVOsj) | 3:22 | 2022-04-20 | 2022-12-06 |
 | [El Tucanazo](https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Tucanes De Oro ..\. Secuestro De Amor](https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ) | 2:54 | 2022-10-28 | 2023-11-23 |
 | [Ella Me Enamoró](https://open.spotify.com/track/122nYSJuwGDvoODZxTAuE5) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Ella Me Enamoró](https://open.spotify.com/album/46M72fEbiyFNH4pvyw5Pxp) | 3:46 | 2021-10-20 | 2022-07-29 |

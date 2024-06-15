@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-15",
-  "description": "n\u00fc-metal revival is happening here and now with BLACKGOLD.",
+  "description": "n\u00fc-metal revival is happening here and now with Rise Of The Northstar & Hyro The Hero.",
   "name": "new n\u00fc",
   "tracks": [
     {
@@ -909,6 +909,24 @@
     },
     {
       "album": {
+        "name": "Fall in Line",
+        "url": "https://open.spotify.com/album/7ru1OonrDxyPDGx3zi6MqT"
+      },
+      "artists": [
+        {
+          "name": "Mushroomhead",
+          "url": "https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284453,
+      "name": "Fall In Line",
+      "url": "https://open.spotify.com/track/7ftpyir5ygZkv92mbZMFqi"
+    },
+    {
+      "album": {
         "name": "Paper Hearts",
         "url": "https://open.spotify.com/album/4di62gnBZPDefkKwMBLXPb"
       },
@@ -1151,6 +1169,24 @@
     },
     {
       "album": {
+        "name": "Haven",
+        "url": "https://open.spotify.com/album/0m41NRj9C741A0nn7jvZVJ"
+      },
+      "artists": [
+        {
+          "name": "Split Chain",
+          "url": "https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191290,
+      "name": "Haven",
+      "url": "https://open.spotify.com/track/4aMH5OK4BFr8UW0xtt3AVB"
+    },
+    {
+      "album": {
         "name": "Hellstar",
         "url": "https://open.spotify.com/album/1Wf7jVZ6EzQnLTfAfjmhuv"
       },
@@ -1234,7 +1270,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 226904,
       "name": "I'm Not Right",
       "url": "https://open.spotify.com/track/3mtwzP9E05Ad8sJCvrnRvK"
@@ -1296,7 +1332,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 188557,
       "name": "Kaneda",
       "url": "https://open.spotify.com/track/40CtKggBylHY7G3yUBYPyU"
@@ -1563,6 +1599,24 @@
     },
     {
       "album": {
+        "name": "New Way Out",
+        "url": "https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202909,
+      "name": "New Way Out",
+      "url": "https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t"
+    },
+    {
+      "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/2JvaxDiBaKADQ3Fb9SvEZF"
       },
@@ -1668,7 +1722,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 222153,
       "name": "One Foot In The Grave",
       "url": "https://open.spotify.com/track/54fPJ9UDx68KkayeuskyAJ"
@@ -2295,6 +2349,24 @@
     },
     {
       "album": {
+        "name": "Takers",
+        "url": "https://open.spotify.com/album/5HoeNbrXoL39PA4RHQxo5j"
+      },
+      "artists": [
+        {
+          "name": "Discrepancies",
+          "url": "https://open.spotify.com/artist/4SfKNu30hoXHZRfBFx1W19"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196853,
+      "name": "Takers",
+      "url": "https://open.spotify.com/track/6ayctlryVPbBV7mwVBHfwU"
+    },
+    {
+      "album": {
         "name": "The Generation Of Danger",
         "url": "https://open.spotify.com/album/3o2oLb3RZjWhdIU6d98rnr"
       },
@@ -2494,7 +2566,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 207853,
       "name": "UNBOUND",
       "url": "https://open.spotify.com/track/3LMY1W14udlJRI5cRHH1B9"

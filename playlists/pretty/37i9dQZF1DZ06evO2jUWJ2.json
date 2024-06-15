@@ -1,12 +1,12 @@
 {
   "description": "This is Elevation Worship. The essential tracks, all in one playlist.",
-  "num_followers": 273850,
+  "num_followers": 273943,
   "original_name": "This Is Elevation Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjlAAAAAADBx5AThTXwsMveo+lfHSAf",
+  "snapshot_id": "Zmo2gAAAAABtxYjBgyqlcXKjBkonJwuY",
   "tracks": [
     {
       "added_at": null,
@@ -271,6 +271,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Graves Into Gardens (Live)",
+        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 507306,
+      "name": "The Blessing (Live)",
+      "url": "https://open.spotify.com/track/5O306r2a9Nl7rm5ZlaTqka"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Old Church Basement",
         "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
       },
@@ -315,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here As In Heaven",
-        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 499506,
-      "name": "Here as in Heaven",
-      "url": "https://open.spotify.com/track/0fPwregqch9wLJj4yQH6Bk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hallelujah Here Below",
         "url": "https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC"
       },
@@ -343,6 +351,22 @@
       "duration_ms": 405913,
       "name": "Here Again",
       "url": "https://open.spotify.com/track/1wuqCUWHniGdEmOKZbQ1cg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Here As In Heaven",
+        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 499506,
+      "name": "Here as in Heaven",
+      "url": "https://open.spotify.com/track/0fPwregqch9wLJj4yQH6Bk"
     },
     {
       "added_at": null,
@@ -383,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Graves Into Gardens (Live)",
-        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 291330,
-      "name": "My Testimony (Live)",
-      "url": "https://open.spotify.com/track/3v8BMCftaY6CMe06VBSe0c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hallelujah Here Below",
         "url": "https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC"
       },
@@ -419,22 +427,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Another One (feat. Chris Brown)",
-        "url": "https://open.spotify.com/album/3NfyzXp4dCBmfkc8PVECRE"
+        "name": "Graves Into Gardens (Live)",
+        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
       },
       "artists": [
         {
           "name": "Elevation Worship",
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
         }
       ],
-      "duration_ms": 392308,
-      "name": "Another One (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/1ks04dUr7tjZJUbT89MoJD"
+      "duration_ms": 291330,
+      "name": "My Testimony (Live)",
+      "url": "https://open.spotify.com/track/3v8BMCftaY6CMe06VBSe0c"
     },
     {
       "added_at": null,
@@ -459,18 +463,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Graves Into Gardens (Live)",
-        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
+        "name": "Another One (feat. Chris Brown)",
+        "url": "https://open.spotify.com/album/3NfyzXp4dCBmfkc8PVECRE"
       },
       "artists": [
         {
           "name": "Elevation Worship",
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
         }
       ],
-      "duration_ms": 432052,
-      "name": "RATTLE! (Live)",
-      "url": "https://open.spotify.com/track/6fdglWE2qycjtz0JlW94HW"
+      "duration_ms": 392308,
+      "name": "Another One (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/1ks04dUr7tjZJUbT89MoJD"
     },
     {
       "added_at": null,
@@ -495,6 +503,22 @@
       "duration_ms": 598622,
       "name": "More Than Able (feat. Chandler Moore & Tiffany Hudson)",
       "url": "https://open.spotify.com/track/4vVKQV8ZHk4uUjEkkydLLl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Graves Into Gardens (Live)",
+        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 432052,
+      "name": "RATTLE! (Live)",
+      "url": "https://open.spotify.com/track/6fdglWE2qycjtz0JlW94HW"
     },
     {
       "added_at": null,
@@ -543,26 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LION",
-        "url": "https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
-        }
-      ],
-      "duration_ms": 276036,
-      "name": "What I See (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/4A6zhvBNk6MAUp4u07p7kD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CAN YOU IMAGINE?",
         "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
       },
@@ -583,6 +587,26 @@
       "duration_ms": 512899,
       "name": "Make A Way (feat. Chandler Moore & Brandon Lake)",
       "url": "https://open.spotify.com/track/6zWWw5C05h7blvMcdel3uW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LION",
+        "url": "https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "duration_ms": 276036,
+      "name": "What I See (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/4A6zhvBNk6MAUp4u07p7kD"
     },
     {
       "added_at": null,
@@ -659,30 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Of A Sudden / Another One",
-        "url": "https://open.spotify.com/album/1GS3eQSd9wKyW1IoeBpzfI"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Tiffany Hudson",
-          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
-        }
-      ],
-      "duration_ms": 475718,
-      "name": "All Of A Sudden (feat. Tiffany Hudson & Chris Brown)",
-      "url": "https://open.spotify.com/track/4HAsNHe4VE0kQoFutbZxOK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Old Church Basement",
         "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
       },
@@ -703,6 +703,30 @@
       "duration_ms": 402803,
       "name": "Old Church Basement (feat. Dante Bowe)",
       "url": "https://open.spotify.com/track/5j4EazAPhtFyHhwNpbNzEx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Of A Sudden / Another One",
+        "url": "https://open.spotify.com/album/1GS3eQSd9wKyW1IoeBpzfI"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "duration_ms": 475718,
+      "name": "All Of A Sudden (feat. Tiffany Hudson & Chris Brown)",
+      "url": "https://open.spotify.com/track/4HAsNHe4VE0kQoFutbZxOK"
     },
     {
       "added_at": null,
@@ -747,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "There Is a Cloud",
-        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 247533,
-      "name": "Grateful",
-      "url": "https://open.spotify.com/track/4d2S4TnoA8QSTsV4jsStWK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Old Church Basement",
         "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
       },
@@ -787,6 +795,22 @@
       "duration_ms": 457548,
       "name": "Used To This (feat. Naomi Raine & Brandon Lake)",
       "url": "https://open.spotify.com/track/1d7RCdfczxJNVSgXL4Gkil"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "There Is a Cloud",
+        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 247533,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/4d2S4TnoA8QSTsV4jsStWK"
     },
     {
       "added_at": null,
@@ -827,18 +851,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "There Is a Cloud",
-        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
+        "name": "Joy In The Morning",
+        "url": "https://open.spotify.com/album/170FUziX94zYLzcV7arINC"
       },
       "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
         {
           "name": "Elevation Worship",
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         }
       ],
-      "duration_ms": 240973,
-      "name": "Overcome",
-      "url": "https://open.spotify.com/track/1f5KIqQTDinSwnqQHsaNmn"
+      "duration_ms": 528413,
+      "name": "Joy In The Morning",
+      "url": "https://open.spotify.com/track/6VorEVnu2fEEk6dcG9vb5v"
     },
     {
       "added_at": null,
@@ -863,6 +891,22 @@
       "duration_ms": 420058,
       "name": "Names (feat. Tiffany Hudson)",
       "url": "https://open.spotify.com/track/3SkcC4o5zY5ogakP9hmCQ1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "There Is a Cloud",
+        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 240973,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/1f5KIqQTDinSwnqQHsaNmn"
     },
     {
       "added_at": null,
@@ -903,22 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "There Is a Cloud",
-        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 347893,
-      "name": "There Is a Cloud",
-      "url": "https://open.spotify.com/track/2sn2gK89nnjXgJ0iLO4Gps"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mil Generaciones",
         "url": "https://open.spotify.com/album/7He2T1RondwBwTaEofMIsA"
       },
@@ -939,6 +967,22 @@
       "duration_ms": 294253,
       "name": "Tumbas A Jardines (feat. Elevation Worship)",
       "url": "https://open.spotify.com/track/0RHSDsa4EkiNBC0UJtGn7l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "There Is a Cloud",
+        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 347893,
+      "name": "There Is a Cloud",
+      "url": "https://open.spotify.com/track/2sn2gK89nnjXgJ0iLO4Gps"
     },
     {
       "added_at": null,
@@ -979,42 +1023,6 @@
       "duration_ms": 409217,
       "name": "Encu\u00e9ntrame Otra Vez (Here Again)",
       "url": "https://open.spotify.com/track/7dimXs7O4MhSYcLhb0Xfkd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "At Midnight - EP",
-        "url": "https://open.spotify.com/album/0aUzWjo4EL7n4kjlX0yTCu"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 250571,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/2A0GDEZCIvKq38kj2SgENg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LE\u00d3N",
-        "url": "https://open.spotify.com/album/1PFy3At4783o15yGZQleWZ"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Elevation Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0"
-        }
-      ],
-      "duration_ms": 343244,
-      "name": "LE\u00d3N (LION)",
-      "url": "https://open.spotify.com/track/4gWEajZcRRCSbxkfkmesA5"
     }
   ],
   "unique_name": "This Is Elevation Worship",

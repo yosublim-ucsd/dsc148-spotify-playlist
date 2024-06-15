@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 
 > A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,643 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,634 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,11 +61,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 51 | [Wishlist \(feat\. PJ Morton\)](https://open.spotify.com/track/7ypXUdwJthmzmTxJAWjr5G) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [December Baby](https://open.spotify.com/album/5gzHuhZpa8gB7ABxH60pNT) | 3:57 |
 | 52 | [Angels We Have Heard On High](https://open.spotify.com/track/16WDbS7dNvKGCMoS8tlZLx) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [Motown Christmas](https://open.spotify.com/album/7J5fdT8gIfcxJ4CV7wH73w) | 4:27 |
 | 53 | [This Holiday](https://open.spotify.com/track/3IFrqRG94j0CCZwGJgVQlx) | [WanMor](https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h) | [This Holiday](https://open.spotify.com/album/0PqbB0pvi22Y4I1P2ecr6z) | 2:56 |
-| 54 | [This Christmas](https://open.spotify.com/track/721Z5ii3hik988t1ixcDJc) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S), [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [This Christmas](https://open.spotify.com/album/23jUzlbMdbzQEEUyJgQbl8) | 4:02 |
-| 55 | [Here \(For Christmas\)](https://open.spotify.com/track/21jVByCWeQAlt3xB5XtNfl) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [Jade Novah](https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K) | [Here \(For Christmas\)](https://open.spotify.com/album/6wnQgfOYDXcrI4CcI8I0pw) | 4:13 |
-| 56 | [Kisses On Christmas](https://open.spotify.com/track/2zE7DVdqQxtcZ9LCuRpf0m) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Eazy Christmas](https://open.spotify.com/album/3l8Bbp0kaZXMhUCWKFx2FT) | 2:59 |
-| 57 | [Give Love On Christmas Day](https://open.spotify.com/track/1ep7czKo3gvwkZ2cyuqwFc) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [It's Christmas](https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj) | 3:54 |
-| 58 | [Sleigh Ride](https://open.spotify.com/track/0TTEm8HHxndsd6Jqtn1DDk) | [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS) | [Winter Loversland](https://open.spotify.com/album/0RC79iOln9WK1Rcd9z7IXm) | 1:57 |
+| 54 | [Here \(For Christmas\)](https://open.spotify.com/track/21jVByCWeQAlt3xB5XtNfl) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [Jade Novah](https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K) | [Here \(For Christmas\)](https://open.spotify.com/album/6wnQgfOYDXcrI4CcI8I0pw) | 4:13 |
+| 55 | [This Christmas](https://open.spotify.com/track/721Z5ii3hik988t1ixcDJc) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S), [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [This Christmas](https://open.spotify.com/album/23jUzlbMdbzQEEUyJgQbl8) | 4:02 |
+| 56 | [Sleigh Ride](https://open.spotify.com/track/0TTEm8HHxndsd6Jqtn1DDk) | [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS) | [Winter Loversland](https://open.spotify.com/album/0RC79iOln9WK1Rcd9z7IXm) | 1:57 |
+| 57 | [Kisses On Christmas](https://open.spotify.com/track/2zE7DVdqQxtcZ9LCuRpf0m) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Eazy Christmas](https://open.spotify.com/album/3l8Bbp0kaZXMhUCWKFx2FT) | 2:59 |
+| 58 | [Give Love On Christmas Day](https://open.spotify.com/track/1ep7czKo3gvwkZ2cyuqwFc) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [It's Christmas](https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj) | 3:54 |
 | 59 | [Winter Wonderland](https://open.spotify.com/track/4PtLsREXfoclvux4y7CFZC) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Christmas With Babyface](https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK) | 3:13 |
 | 60 | [The First Noel \(feat\. Cory Henry\) \- Spotify Holiday Single](https://open.spotify.com/track/3tqjlg9Ut8l3WWRe1J0cNQ) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [The First Noel \(feat\. Cory Henry\)](https://open.spotify.com/album/4UUlh9XDS5gIPoCVAUN8zd) | 3:10 |
 | 61 | [Wonderful Christmastime \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4MidM1ux8fwIWEM01eX6AC) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Spotify Singles \- Holiday](https://open.spotify.com/album/50RXkvDaqBXrh7JGUuuCyB) | 3:06 |

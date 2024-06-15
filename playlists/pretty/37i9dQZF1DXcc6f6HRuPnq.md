@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 
 > Late night cool and the sound of smooth blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,802 likes - 80 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,861 likes - 80 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,10 +75,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 65 | [A Fool No More](https://open.spotify.com/track/2Qm98Rw4rdfvo14ZOUiZTN) | [Peter Green](https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU) | [In the Skies](https://open.spotify.com/album/2lN1smqF0snKbzvR6ZY7FJ) | 7:44 |
 | 66 | [Mystery Woman](https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [Come to Find](https://open.spotify.com/album/6TdbTfL5Ql2BMqkAknneZd) | 5:01 |
 | 67 | [That's Why I Play the Blues](https://open.spotify.com/track/2wUDhs2MkJGHWFXHZtNmMQ) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Power of the Blues](https://open.spotify.com/album/3vGzSG4pwDm7L0xRyzC2Lv) | 4:04 |
-| 68 | [It Don't Make Sense \(feat\. Charlie Musselwhite\)](https://open.spotify.com/track/2GIRnzs5MPRzUkJFJF2gTw) | [Tracy Nelson](https://open.spotify.com/artist/41D1NBo5Ib5aJ7Aavt3cWS), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Life Don't Miss Nobody](https://open.spotify.com/album/28gauff9JHiO1Co73MvUnP) | 5:35 |
-| 69 | [Kind Hearted Woman Blues](https://open.spotify.com/track/4TvQu0OSTGGeXErsYCGvcb) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Me and Mr\. Johnson](https://open.spotify.com/album/19Nhw4EECcCOj2379B8idV) | 4:06 |
-| 70 | [Heartbreak Hotel](https://open.spotify.com/track/5KbTAN3GgXJCvBySnOZrih) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Bad Mouthin'](https://open.spotify.com/album/1BDyQ67N0PjyWDF3yVjEoQ) | 3:43 |
-| 71 | [The Moon Is Rising](https://open.spotify.com/track/4rbTBEdi2X7UpEbUnINsEX) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Mama's Still Got The Blues](https://open.spotify.com/album/4DGPVLCkmD24IQoPRseeKc) | 2:13 |
+| 68 | [The Moon Is Rising](https://open.spotify.com/track/4rbTBEdi2X7UpEbUnINsEX) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Mama's Still Got The Blues](https://open.spotify.com/album/4DGPVLCkmD24IQoPRseeKc) | 2:13 |
+| 69 | [It Don't Make Sense \(feat\. Charlie Musselwhite\)](https://open.spotify.com/track/2GIRnzs5MPRzUkJFJF2gTw) | [Tracy Nelson](https://open.spotify.com/artist/41D1NBo5Ib5aJ7Aavt3cWS), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Life Don't Miss Nobody](https://open.spotify.com/album/28gauff9JHiO1Co73MvUnP) | 5:35 |
+| 70 | [Kind Hearted Woman Blues](https://open.spotify.com/track/4TvQu0OSTGGeXErsYCGvcb) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Me and Mr\. Johnson](https://open.spotify.com/album/19Nhw4EECcCOj2379B8idV) | 4:06 |
+| 71 | [Heartbreak Hotel](https://open.spotify.com/track/5KbTAN3GgXJCvBySnOZrih) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Bad Mouthin'](https://open.spotify.com/album/1BDyQ67N0PjyWDF3yVjEoQ) | 3:43 |
 | 72 | [Becky Ann \(feat\. Mitch Kaxhmar & Ronnie Shellist\)](https://open.spotify.com/track/27wfSUGbv33dSWJ3y2tZQ2) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv) | [Porch Sessions](https://open.spotify.com/album/1HiM9YWyFh75nasggcpRoE) | 3:36 |
 | 73 | [Ghetto Woman](https://open.spotify.com/track/1ol9HfVFSKwbVVnzc1vzY2) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Anthology](https://open.spotify.com/album/1LzYzoyDpRjM8o5GDha0yN) | 5:15 |
 | 74 | [Hoodoo Man](https://open.spotify.com/track/2BjtzMioX7p1F7yiIMQn1B) | [Errol Linton](https://open.spotify.com/artist/5HNpXzOeP7gbZgqCkxYfaW) | [Packing My Bags](https://open.spotify.com/album/1y27gJjOVIB19RrTBUw7Km) | 4:54 |

@@ -267,6 +267,32 @@
     },
     {
       "album": {
+        "name": "All About U",
+        "url": "https://open.spotify.com/album/3GOajZbHdHZdLYsmyPozvO"
+      },
+      "artists": [
+        {
+          "name": "Longo",
+          "url": "https://open.spotify.com/artist/6myydsPHqq4xmZD7DWzRjI"
+        },
+        {
+          "name": "Marco Lollis",
+          "url": "https://open.spotify.com/artist/1gjNDmsEJhBAftfWPXIBzI"
+        },
+        {
+          "name": "Martina Corona",
+          "url": "https://open.spotify.com/artist/58tyddZEZ2XcaKSmTV19aA"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186662,
+      "name": "All About U",
+      "url": "https://open.spotify.com/track/6fb4twyNs3gQ0nDnkuRBwH"
+    },
+    {
+      "album": {
         "name": "All Good (Jasper Tygner Remix)",
         "url": "https://open.spotify.com/album/0l8JO6jLZBpLzcNe0vo4Ri"
       },

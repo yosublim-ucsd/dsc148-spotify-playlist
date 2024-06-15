@@ -22194,6 +22194,24 @@
     {
       "album": {
         "name": "Lambing",
+        "url": "https://open.spotify.com/album/2aVGRow778oLyKMOrGFsVC"
+      },
+      "artists": [
+        {
+          "name": "Elisha Pontanares",
+          "url": "https://open.spotify.com/artist/0htMdJTYUTfbpQKVGFjdUc"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246661,
+      "name": "Lambing",
+      "url": "https://open.spotify.com/track/632vvHZtEq7Xk7fDejnWwL"
+    },
+    {
+      "album": {
+        "name": "Lambing",
         "url": "https://open.spotify.com/album/6MVhsXVm5XdDN4TTvHb2US"
       },
       "artists": [

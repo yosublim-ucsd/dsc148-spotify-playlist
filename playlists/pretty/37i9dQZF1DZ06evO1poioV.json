@@ -1,12 +1,12 @@
 {
   "description": "This is Brandi Carlile. The essential tracks, all in one playlist.",
-  "num_followers": 110218,
+  "num_followers": 110248,
   "original_name": "This Is Brandi Carlile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjlAAAAAACht/TQ9wf2jcJ21Fh8fg34",
+  "snapshot_id": "Zmo2gAAAAAD20iUWaOzOquMwnhGjXkF4",
   "tracks": [
     {
       "added_at": null,
@@ -47,22 +47,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stick Season (Forever)",
-        "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
       "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
         {
           "name": "Brandi Carlile",
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 286369,
-      "name": "You\u2019re Gonna Go Far (with Brandi Carlile)",
-      "url": "https://open.spotify.com/track/2U15ix0JMkQY8EsxneUfyL"
+      "duration_ms": 206267,
+      "name": "This Time Tomorrow",
+      "url": "https://open.spotify.com/track/1Cu8QneXq0Hq1HJqkZDPbN"
     },
     {
       "added_at": null,
@@ -79,22 +75,6 @@
       "duration_ms": 214666,
       "name": "Heart's Content",
       "url": "https://open.spotify.com/track/0pegFWSUOTiG0sLVEfxtvA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 206267,
-      "name": "This Time Tomorrow",
-      "url": "https://open.spotify.com/track/1Cu8QneXq0Hq1HJqkZDPbN"
     },
     {
       "added_at": null,
@@ -167,26 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 230098,
-      "name": "You and Me On The Rock (feat. Lucius)",
-      "url": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Djesse Vol. 4",
         "url": "https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1"
       },
@@ -207,42 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Highwomen",
-        "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
-      },
-      "artists": [
-        {
-          "name": "The Highwomen",
-          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "Amanda Shires",
-          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
-        },
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 212480,
-      "name": "Highwomen",
-      "url": "https://open.spotify.com/track/0CTNLJMN9dMG4cl5qgsZSv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Story",
         "url": "https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h"
       },
@@ -255,22 +179,6 @@
       "duration_ms": 152946,
       "name": "Have You Ever",
       "url": "https://open.spotify.com/track/6z2qa2dnJDXgVTngG4gFu7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "By the Way, I Forgive You",
-        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 241146,
-      "name": "Every Time I Hear That Song",
-      "url": "https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8"
     },
     {
       "added_at": null,
@@ -291,6 +199,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "By the Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 241146,
+      "name": "Every Time I Hear That Song",
+      "url": "https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Onward (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5GVC60ITCVDwfUGjblfsst"
       },
@@ -303,38 +227,6 @@
       "duration_ms": 213732,
       "name": "Carried Me With You",
       "url": "https://open.spotify.com/track/0HL3y3bsKSARBSP0qaImwb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Take Me Home, Country Roads",
-        "url": "https://open.spotify.com/album/4hL63mh3FYiIQp35YAKNoo"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 185421,
-      "name": "Take Me Home, Country Roads",
-      "url": "https://open.spotify.com/track/154t1fkfSU7zyJojSN6gvR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "By the Way, I Forgive You",
-        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 196973,
-      "name": "The Mother",
-      "url": "https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer"
     },
     {
       "added_at": null,
@@ -371,6 +263,22 @@
       "duration_ms": 259558,
       "name": "Party of One (feat. Sam Smith)",
       "url": "https://open.spotify.com/track/25fcj6d2W1l8DQL11Czdzb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "By the Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 196973,
+      "name": "The Mother",
+      "url": "https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer"
     },
     {
       "added_at": null,
@@ -496,25 +404,9 @@
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 248240,
-      "name": "Raise Hell",
-      "url": "https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 221813,
-      "name": "Mama Werewolf",
-      "url": "https://open.spotify.com/track/3prWmTfS6HnvkKgezSQFJO"
+      "duration_ms": 222293,
+      "name": "That Wasn't Me",
+      "url": "https://open.spotify.com/track/6iqAJh3X8bf94eo4reme5L"
     },
     {
       "added_at": null,
@@ -575,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bear Creek",
-        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 222293,
-      "name": "That Wasn't Me",
-      "url": "https://open.spotify.com/track/6iqAJh3X8bf94eo4reme5L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Story",
         "url": "https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h"
       },
@@ -627,6 +503,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Greenfields: The Gibb Brothers' Songbook (Vol. 1)",
+        "url": "https://open.spotify.com/album/3IFJ7ZGMjHErGmW9NAOdkp"
+      },
+      "artists": [
+        {
+          "name": "Barry Gibb",
+          "url": "https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 202391,
+      "name": "Run To Me (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/2IE70yrr4bynUzXi7O8Gek"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -655,26 +551,6 @@
       "duration_ms": 142840,
       "name": "Loose Change",
       "url": "https://open.spotify.com/track/2cWVBN3jm1gm9ztho9Ca1E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Greenfields: The Gibb Brothers' Songbook (Vol. 1)",
-        "url": "https://open.spotify.com/album/3IFJ7ZGMjHErGmW9NAOdkp"
-      },
-      "artists": [
-        {
-          "name": "Barry Gibb",
-          "url": "https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 202391,
-      "name": "Run To Me (feat. Brandi Carlile)",
-      "url": "https://open.spotify.com/track/2IE70yrr4bynUzXi7O8Gek"
     },
     {
       "added_at": null,
@@ -727,38 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Highwomen",
-        "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
-      },
-      "artists": [
-        {
-          "name": "The Highwomen",
-          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "Amanda Shires",
-          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
-        }
-      ],
-      "duration_ms": 193373,
-      "name": "If She Ever Leaves Me",
-      "url": "https://open.spotify.com/track/7eU4GSfrANUlZBptlflhR5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Firewatcher's Daughter",
         "url": "https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB"
       },
@@ -771,6 +615,22 @@
       "duration_ms": 230108,
       "name": "Wherever is Your Heart",
       "url": "https://open.spotify.com/track/1kiWXhS6AMJOtU4DPUh0mq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bear Creek",
+        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "Keep Your Heart Young",
+      "url": "https://open.spotify.com/track/102LKbpOsGAXWYQx9sEd5e"
     },
     {
       "added_at": null,
@@ -811,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bear Creek",
-        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
       "artists": [
         {
@@ -820,9 +680,25 @@
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 200040,
-      "name": "Keep Your Heart Young",
-      "url": "https://open.spotify.com/track/102LKbpOsGAXWYQx9sEd5e"
+      "duration_ms": 220720,
+      "name": "Letter To The Past",
+      "url": "https://open.spotify.com/track/0RxUz1GCgFRLO4hQwkobkg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Remember Everything",
+        "url": "https://open.spotify.com/album/3ei2zsbxwzra1rMmokmYZM"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 156146,
+      "name": "I Remember Everything",
+      "url": "https://open.spotify.com/track/1J6OHcQjnrD0upP4skciHO"
     },
     {
       "added_at": null,
@@ -843,22 +719,6 @@
       "duration_ms": 276146,
       "name": "Dear Insecurity (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/73pCLjhGOv4J7IpAPj4D84"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Remember Everything",
-        "url": "https://open.spotify.com/album/3ei2zsbxwzra1rMmokmYZM"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 156146,
-      "name": "I Remember Everything",
-      "url": "https://open.spotify.com/track/1J6OHcQjnrD0upP4skciHO"
     },
     {
       "added_at": null,
@@ -951,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1Q7HOVDbx5pHCROjFc2NDK"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 346397,
-      "name": "Hallelujah - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/33ZIaxsct3MDc0oSPxgY76"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Firewatcher's Daughter",
         "url": "https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB"
       },
@@ -983,6 +827,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1Q7HOVDbx5pHCROjFc2NDK"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 346397,
+      "name": "Hallelujah - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/33ZIaxsct3MDc0oSPxgY76"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "By the Way, I Forgive You",
         "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
       },
@@ -995,6 +855,126 @@
       "duration_ms": 262866,
       "name": "Hold out Your Hand",
       "url": "https://open.spotify.com/track/0xpKRzMR9x53jKSdugItan"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Story",
+        "url": "https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 207786,
+      "name": "Late Morning Lullaby",
+      "url": "https://open.spotify.com/track/3vhaMxyoEBA0WhBXWIP3b6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brandi Carlile",
+        "url": "https://open.spotify.com/album/2NdmuraIk63vprGfnnr3rD"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 151333,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/3SbQ1N1d9hNqTG4d4PeyvW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 233362,
+      "name": "(I Can\u2019t Get No) Satisfaction",
+      "url": "https://open.spotify.com/track/2vw3beLeIQSgMxi72RnJHn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "By the Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 247133,
+      "name": "Whatever You Do",
+      "url": "https://open.spotify.com/track/1PnLCvelHE8KgGmVva5rcY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Highwomen",
+        "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
+      },
+      "artists": [
+        {
+          "name": "The Highwomen",
+          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        }
+      ],
+      "duration_ms": 150746,
+      "name": "My Name Can't Be Mama",
+      "url": "https://open.spotify.com/track/1LHbCL6O09Yqi21XGAIU0U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Firewatcher's Daughter",
+        "url": "https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 270962,
+      "name": "I Belong to You",
+      "url": "https://open.spotify.com/track/1g3ZcTXYefhBrsNwTitiFL"
     }
   ],
   "unique_name": "This Is Brandi Carlile",

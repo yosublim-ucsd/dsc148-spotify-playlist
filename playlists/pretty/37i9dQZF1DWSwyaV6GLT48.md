@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwyaV6GLT48.md) - [plain]
 
 > sunny days, happy people
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,233 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,385 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwyaV6GLT48.md) - [plain]
 | 99 | [Heaven](https://open.spotify.com/track/3Wqossbsoiwknv6unRnPlK) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [Heaven](https://open.spotify.com/album/1WUmhAZpjr4WS7QwHfiyco) | 2:32 |
 | 100 | [OUR LOVE \(80'S\)](https://open.spotify.com/track/02SqV6QA81sYUUlWPEme9O) | [YOURS](https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7) | [OUR LOVE \(80'S\)](https://open.spotify.com/album/7HNr7sE0iiucFcESRnOUjX) | 2:59 |
 
-Snapshot ID: `ZmJNvAAAAAARX8U6ZPRcFJtN7qij9vaj`
+Snapshot ID: `ZmwV1wAAAAD7LKasCdWaP1vcgDth6Qkk`

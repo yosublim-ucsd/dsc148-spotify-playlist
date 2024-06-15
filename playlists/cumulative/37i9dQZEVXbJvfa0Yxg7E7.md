@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,708 songs - 3 day 17 hr 11 min
+1,709 songs - 3 day 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [2055](https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Still Sleep?](https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP) | 2:03 | 2021-08-17 | 2021-08-31 |
 | [21:00](https://open.spotify.com/track/3ySBZ6C9HgMlwFkJ8cauA0) | [ZadeKing](https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw), [Temur](https://open.spotify.com/artist/2vPuwRAvVfadq3wlTgLOvt), [Delshad](https://open.spotify.com/artist/6GJ72vinUOzjizfJodiaTN) | [21:00](https://open.spotify.com/album/5bkVdNzjfTFdnaNpDD9XJZ) | 2:23 | 2023-06-12 | 2023-06-14 |
 | [24](https://open.spotify.com/track/7DBFslKWQzoRgO0HBBkL3u) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:17 | 2021-08-31 | 2021-09-04 |
+| [24/7](https://open.spotify.com/track/1Rf6GheVCYLynmXryOlYJP) | [Rakkere](https://open.spotify.com/artist/48XnKH8HWyuEGOQM199N25) | [24/7](https://open.spotify.com/album/6ynC8U700ylwRS5KEhOG2X) | 2:11 | 2024-06-14 |  |
 | [2step](https://open.spotify.com/track/2SUxn2O9NHL6GHGQFgwCY0) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 2:33 | 2021-10-31 | 2021-11-21 |
 | [2X SPEKTRUM FREESTYLE](https://open.spotify.com/track/4c5BsYDauVKFJuV4njPnvI) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [2X SPEKTRUM FREESTYLE](https://open.spotify.com/album/3GX1PPcRgGZMBXPgMLtdhx) | 5:22 | 2023-11-17 | 2023-12-17 |
 | [31 Etasje](https://open.spotify.com/track/1g6pAG1re0AKUO26JJpZJ8) | [Capow x 2G](https://open.spotify.com/artist/1aNuhjKCoAQGBnIiyCGI3a) | [31 Etasje](https://open.spotify.com/album/4rLCQSbO9N5KjsLpH3dzQy) | 2:37 | 2022-04-01 | 2022-07-22 |
@@ -241,7 +242,7 @@
 | [CARNIVAL](https://open.spotify.com/track/7bZl3YXHeqQ4Q6LDqCBrK4) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [CARNIVAL PACK](https://open.spotify.com/album/7slMR6RdQwcGa0efzspk8o) | 4:24 | 2024-02-15 | 2024-02-17 |
 | [CARNIVAL](https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 4:24 | 2024-02-16 | 2024-04-21 |
 | [Carry You Home](https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Carry You Home](https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu) | 2:46 | 2024-06-01 |  |
-| [Casino](https://open.spotify.com/track/3Si7z1LZ90YE3OzkPfMJAS) | [Golfklubb](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [Individ](https://open.spotify.com/album/40Isxx8PvaqZUvc18jqvId) | 2:52 | 2024-06-07 |  |
+| [Casino](https://open.spotify.com/track/3Si7z1LZ90YE3OzkPfMJAS) | [Golfklubb](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [Individ](https://open.spotify.com/album/40Isxx8PvaqZUvc18jqvId) | 2:52 | 2024-06-07 | 2024-06-15 |
 | [Casino](https://open.spotify.com/track/5achgxVwwMmSzH7QbSfixw) | [Golfklubb](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [Casino](https://open.spotify.com/album/0RT6O74XxjRbsGtDK84p7x) | 2:52 | 2024-03-30 | 2024-06-08 |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-02-23 | 2023-05-07 |
 | [Celestial](https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Celestial](https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29) | 3:29 | 2022-10-01 | 2022-10-06 |

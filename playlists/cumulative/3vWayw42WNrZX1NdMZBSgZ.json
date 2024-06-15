@@ -869,6 +869,32 @@
     },
     {
       "album": {
+        "name": "Anestesia",
+        "url": "https://open.spotify.com/album/1xbZVMAqB3YL2HfXZyMOfb"
+      },
+      "artists": [
+        {
+          "name": "Venesti",
+          "url": "https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU"
+        },
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        },
+        {
+          "name": "Slow Mike",
+          "url": "https://open.spotify.com/artist/25ffNKG1EAXf8RBN88lXKH"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165856,
+      "name": "ANESTESIA",
+      "url": "https://open.spotify.com/track/0FBYr7mYNWv4p1F6KPBisj"
+    },
+    {
+      "album": {
         "name": "ANTES QUE SALGA EL SOL",
         "url": "https://open.spotify.com/album/1LRi8tnlnSaxAcffcxzhwi"
       },
@@ -5672,6 +5698,28 @@
       "duration_ms": 176606,
       "name": "Fr\u00eda",
       "url": "https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL"
+    },
+    {
+      "album": {
+        "name": "Fr\u00eda (French Remix)",
+        "url": "https://open.spotify.com/album/3amOCLytIzLu6aK7vN3GSi"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Tiana da Rocha",
+          "url": "https://open.spotify.com/artist/3KYdnM0Ba2MngqmElBqIZk"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176606,
+      "name": "Fr\u00eda - French Remix",
+      "url": "https://open.spotify.com/track/0iTVdlRhA4TT9pLKjEmjsD"
     },
     {
       "album": {

@@ -291,6 +291,32 @@
     },
     {
       "album": {
+        "name": "100 BPM",
+        "url": "https://open.spotify.com/album/2VhNDCVTromRBdYjLqzDtJ"
+      },
+      "artists": [
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "Bletka",
+          "url": "https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m"
+        },
+        {
+          "name": "BeMelo",
+          "url": "https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146181,
+      "name": "100 BPM",
+      "url": "https://open.spotify.com/track/3wAulDuaq7hYR0Oc61eMXB"
+    },
+    {
+      "album": {
         "name": "100 dni do matury",
         "url": "https://open.spotify.com/album/2XEybHzEROxx8nLUOrtSbL"
       },
@@ -20632,7 +20658,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 155151,
       "name": "MILLION DOLLAR BABY",
       "url": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
@@ -37174,7 +37200,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 155500,
       "name": "WODA SODOWA",
       "url": "https://open.spotify.com/track/2PJjn3nkaSD0vg072NIUOl"
@@ -39722,7 +39748,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 138330,
       "name": "\u017bYCIE TO ZA MA\u0141O",
       "url": "https://open.spotify.com/track/5bayoLypQTj0On1QEkU24K"

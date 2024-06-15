@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The best in current indie rock. Cover: Orla Gartland",
+  "description": "The best in current indie rock. Cover: Nil\u00fcfer Yanya",
   "name": "pulp",
   "tracks": [
     {
@@ -1395,6 +1395,24 @@
     },
     {
       "album": {
+        "name": "Together We Are One, You and I",
+        "url": "https://open.spotify.com/album/2WOw5ZQrrab9Gxr3ZYxrk3"
+      },
+      "artists": [
+        {
+          "name": "mercury",
+          "url": "https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312413,
+      "name": "Born In Early May",
+      "url": "https://open.spotify.com/track/62RtrW0grZ2EUF3FetcbOK"
+    },
+    {
+      "album": {
         "name": "Boyfriend",
         "url": "https://open.spotify.com/album/4JyXpLldphcUiQG9IjLFfs"
       },
@@ -2314,6 +2332,28 @@
       "duration_ms": 197962,
       "name": "Did I Mention I\u2019m Sorry",
       "url": "https://open.spotify.com/track/2IjvWisUntZj8yNT8Uh5uu"
+    },
+    {
+      "album": {
+        "name": "Didn't (feat. Cavetown)",
+        "url": "https://open.spotify.com/album/00r2WdTybcemQTrVEwFeon"
+      },
+      "artists": [
+        {
+          "name": "illuminati hotties",
+          "url": "https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O"
+        },
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153372,
+      "name": "Didn't (feat. Cavetown)",
+      "url": "https://open.spotify.com/track/2Oy5czpSv3bQ6AfD2gl8VI"
     },
     {
       "album": {
@@ -3844,7 +3884,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 219498,
       "name": "Hammer",
       "url": "https://open.spotify.com/track/6Krb3n3QGEubvJjIEMs4Rq"
@@ -5688,7 +5728,7 @@
       ],
       "date_added": "2023-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 171280,
       "name": "Lucky Bean",
       "url": "https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf"
@@ -5890,6 +5930,24 @@
       "duration_ms": 147596,
       "name": "Me & Me",
       "url": "https://open.spotify.com/track/3VJqv26NK9cCRXsjDKJOGY"
+    },
+    {
+      "album": {
+        "name": "Method Actor",
+        "url": "https://open.spotify.com/album/0Qg3qoV8Sz5pY01lIImVeE"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231708,
+      "name": "Method Actor",
+      "url": "https://open.spotify.com/track/6I9GeNnqNqQ5Q8DSrFkkvd"
     },
     {
       "album": {
@@ -9048,7 +9106,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 118835,
       "name": "Tambourine",
       "url": "https://open.spotify.com/track/0gOZ3G7IB5asVtRBnQgTSY"
@@ -9405,6 +9463,24 @@
     },
     {
       "album": {
+        "name": "The Tw*ts",
+        "url": "https://open.spotify.com/album/5N3ROnE45uWHTrgf2XiiQy"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198417,
+      "name": "The only conscious being in the universe",
+      "url": "https://open.spotify.com/track/7iEwvFYCKssQmV1Zz6WPam"
+    },
+    {
+      "album": {
         "name": "The Overload",
         "url": "https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu"
       },
@@ -9434,7 +9510,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 155341,
       "name": "The Phantom Buzz (Kick In)",
       "url": "https://open.spotify.com/track/1wvh2OmuJkO9czmCKbuvpk"

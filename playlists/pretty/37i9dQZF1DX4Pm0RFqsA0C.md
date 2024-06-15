@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Pm0RFqsA0C.md) - [plain]
 
 > 90년대 댄스를 즐기고 싶은 사람 손!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,448 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,455 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,9 +96,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Pm0RFqsA0C.md) - [plain]
 | 86 | [헤어진 후에](https://open.spotify.com/track/0hBLbFUGELrLQ8rJN2rY3p) | [Ko Jaegeun](https://open.spotify.com/artist/0gRX6Q2nFjWXH7cwAgmeyb), [Kim Tae Hyun](https://open.spotify.com/artist/3Y3buSnNqKKR4Me8tEDQby), [Kim Hyun Woo](https://open.spotify.com/artist/1AwkEOEPk9lRW6yAoiykao) | [투유 프로젝트 \- 슈가맨 Pt.33](https://open.spotify.com/album/58KgXF6gkzxLtu19adWtZL) | 3:28 |
 | 87 | [Honey](https://open.spotify.com/track/07jKgIoj1GYsXSagjuLWiT) | [parkjiyoon](https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi) | [Coming of age ceremony](https://open.spotify.com/album/05plPnpK2TV7kYxM9S9kIF) | 3:55 |
 | 88 | [Unreasonable Reason](https://open.spotify.com/track/2FUiNAUxiuHwLFexjh3uFo) | [Park Mi Kyung](https://open.spotify.com/artist/7vMwmuQgDCbHQNdd7Kj3vV) | [이유같지 않은 이유](https://open.spotify.com/album/62H2Sd5Up0rUnftGbRjjuO) | 3:57 |
-| 89 | [Shaky Friendship](https://open.spotify.com/track/3dG8hABjshvQOkCtcq9k7R) | [Hong Kyung Min](https://open.spotify.com/artist/0tpMp5rcHYVqktOutXVIlr) | [홍경민 Vol\. 3](https://open.spotify.com/album/0LGwglKMxT0zZ97bzAzjMU) | 3:56 |
-| 90 | [취중독백](https://open.spotify.com/track/10NjmmWGZGV6WLy8yVpV4K) | [Cho Kyu Chan](https://open.spotify.com/artist/3aeH9jDArUYw5GKgaDIBuX) | [토이2집\-YOUHEEYEOL](https://open.spotify.com/album/6jOgaajTtTZM6zyjIkNd4u) | 3:32 |
-| 91 | [오늘](https://open.spotify.com/track/3EIiFCngVY6q81CW315WMP) | [Roo'RA](https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca) | [All System Go](https://open.spotify.com/album/7tyc2JJtnIBo4hKDmhCgjk) | 3:49 |
+| 89 | [취중독백](https://open.spotify.com/track/10NjmmWGZGV6WLy8yVpV4K) | [Cho Kyu Chan](https://open.spotify.com/artist/3aeH9jDArUYw5GKgaDIBuX) | [토이2집\-YOUHEEYEOL](https://open.spotify.com/album/6jOgaajTtTZM6zyjIkNd4u) | 3:32 |
+| 90 | [오늘](https://open.spotify.com/track/3EIiFCngVY6q81CW315WMP) | [Roo'RA](https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca) | [All System Go](https://open.spotify.com/album/7tyc2JJtnIBo4hKDmhCgjk) | 3:49 |
+| 91 | [Shaky Friendship](https://open.spotify.com/track/3dG8hABjshvQOkCtcq9k7R) | [Hong Kyung Min](https://open.spotify.com/artist/0tpMp5rcHYVqktOutXVIlr) | [홍경민 Vol\. 3](https://open.spotify.com/album/0LGwglKMxT0zZ97bzAzjMU) | 3:56 |
 | 92 | [The day we broke up](https://open.spotify.com/track/6dGU0sWrIvjpwaxdc7CYAf) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [Exchange Kg\. M4](https://open.spotify.com/album/0r7DQWB1NLwAPxC4zlQoVJ) | 4:51 |
 | 93 | [A City Hunter](https://open.spotify.com/track/65FKjFdvrEOCJczzDEODAn) | [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O) | [First Love](https://open.spotify.com/album/6QjtDh6Q7wf3oF7wpUvZTr) | 3:33 |
 | 94 | [Come Back](https://open.spotify.com/track/03pEUw4hE9xzJAmhW0B0Gx) | [Clon](https://open.spotify.com/artist/3IvJqVgapy3AMUBmVGrvag) | [The Best Of CLON 2002](https://open.spotify.com/album/0ioMNxyCTVsyaVYczSEMNp) | 3:08 |

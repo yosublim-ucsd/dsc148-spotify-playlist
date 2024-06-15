@@ -4,7 +4,7 @@
 
 > Nieuw deze week \- Nouveautés de la semaine\. Cover: Camille
 
-686 songs - 1 day 12 hr 32 min
+688 songs - 1 day 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Break ‘Em All](https://open.spotify.com/track/1hH8ByI9BkzG8ASsQJoqcH) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Break 'Em All](https://open.spotify.com/album/1eZMBwcCn2tf7sWn8Ug94a) | 3:33 | 2024-06-06 | 2024-06-14 |
 | [Breaking By](https://open.spotify.com/track/1A0LGwMocD470H5Pre6IkR) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [The Sweater Club](https://open.spotify.com/album/73lkqaVOVZnVMHi2ZYrY0N) | 2:53 | 2024-06-13 |  |
 | [Broken \- uit Liefde Voor Muziek](https://open.spotify.com/track/2oieNznkB9xAjNj55s9iZT) | [Johannes Genard](https://open.spotify.com/artist/6hmstwvcDUg8I2j5KaeRHE) | [Broken \- uit Liefde Voor Muziek](https://open.spotify.com/album/3IujToORi7DlPvfmcyMGb9) | 3:55 | 2024-05-02 | 2024-05-10 |
+| [BROTHER STONE \(FEAT\. KODAK BLACK\)](https://open.spotify.com/track/0l3raueiJ78IsmZGwo6CRm) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [BROTHER STONE \(FEAT\. KODAK BLACK\)](https://open.spotify.com/album/0LWTY98ijfILoFHupcQJKE) | 3:22 | 2024-06-13 |  |
 | [Burning](https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:55 | 2024-06-06 | 2024-06-14 |
 | [By My Side](https://open.spotify.com/track/5xBNgs4uvyA0Ca5YBYhGNg) | [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [Ajna \(BE\)](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN) | [By My Side](https://open.spotify.com/album/3GptuhBKragkhNaOb5oNCo) | 5:56 | 2024-05-09 | 2024-05-17 |
 | [By Now](https://open.spotify.com/track/0OxLol8qf9zsrXSs1IqyMu) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Laura Welsh](https://open.spotify.com/artist/2QGdI8fUEuoVPJ4xuC5NDe) | [By Now](https://open.spotify.com/album/5ayaI14vSPFDIUK23VwzRX) | 2:33 | 2024-04-26 | 2024-05-03 |
@@ -668,6 +669,7 @@
 | [where is your pride?](https://open.spotify.com/track/5H8f92czIxzvXko1n7toHZ) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Benjamin Zephaniah](https://open.spotify.com/artist/43Y2qDsaehzl7U9s2RtFX6) | [where is your pride?](https://open.spotify.com/album/2gC9Z5MHfmUkW2e3uHw56f) | 3:38 | 2024-05-16 | 2024-05-24 |
 | [Wherever You Are](https://open.spotify.com/track/4s5kizLw0McJRd4rBG06B4) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [Wherever You Are](https://open.spotify.com/album/7hjd1WmWPqTyrPGDaywQjK) | 3:27 | 2024-06-06 | 2024-06-14 |
 | [Whiskey Girl](https://open.spotify.com/track/1Xhi3gqLOKUrFDk83lDhkR) | [Naima Joris](https://open.spotify.com/artist/3eSHHprsyLcEwQUYwAAWmw), [Vitja Pauwels](https://open.spotify.com/artist/6LEYR493QnjdHasbFcwdFh) | [Whiskey Girl](https://open.spotify.com/album/5J263vTKBdmESKgc4HsrVj) | 5:19 | 2024-06-13 |  |
+| [WHISKEY WHISKEY \(feat\. Morgan Wallen\)](https://open.spotify.com/track/7hRLuo4QnzCsjICXUOhTE6) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [SPEAK NOW](https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9) | 2:41 | 2024-06-13 |  |
 | [Who Did You Touch?](https://open.spotify.com/track/3YngBnCS5hVTrF0fu2EYGG) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Who Did You Touch?](https://open.spotify.com/album/4XBvrhmXpxJBV87B1Oh0a7) | 3:28 | 2024-05-31 | 2024-06-07 |
 | [Who Would I Be](https://open.spotify.com/track/0eSZbdHaaHKQ1nizBbCeyw) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Void](https://open.spotify.com/album/75mEqyUrrBb3wBz5yWNPnu) | 2:06 | 2024-05-02 | 2024-05-10 |
 | [Who's Gonna](https://open.spotify.com/track/2X3xur7x1K5PYiWrzJfM1O) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Who's Gonna](https://open.spotify.com/album/4PJdPJ45GyTzBrKYgJIheH) | 2:58 | 2024-05-09 | 2024-05-17 |

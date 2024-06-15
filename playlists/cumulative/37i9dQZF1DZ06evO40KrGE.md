@@ -4,7 +4,7 @@
 
 > This is Cassiane\. The essential tracks, all in one playlist.
 
-67 songs - 5 hr 43 min
+68 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Com Cristo é Vencer](https://open.spotify.com/track/4gm9T7Qpul7DteuK1sIpVz) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Muito Louvor](https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw) | 4:24 | 2023-07-09 |  |
 | [Com Muito Louvor](https://open.spotify.com/track/0suvVjf5ZT2Pasu1cDPEVr) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Muito Louvor](https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw) | 5:05 | 2023-07-09 |  |
 | [Contigo Está](https://open.spotify.com/track/0vkZn9FT5xohaQgqm7QkvL) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [A Cura](https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP) | 4:50 | 2023-07-09 | 2024-05-05 |
-| [De Valor em Valor](https://open.spotify.com/track/4CvQslmcng11Gj20yFa33I) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.2](https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r) | 4:28 | 2024-06-11 |  |
+| [De Valor em Valor](https://open.spotify.com/track/4CvQslmcng11Gj20yFa33I) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.2](https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r) | 4:28 | 2024-06-11 | 2024-06-15 |
 | [Deus Tem Poder](https://open.spotify.com/track/39QAy80uCoPxx7ed7wdLDd) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Muito Louvor](https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw) | 4:08 | 2024-05-03 |  |
 | [Deus Velará por Ti](https://open.spotify.com/track/7EtEkZQfJEDHlsLaMZ2jIg) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.2](https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r) | 5:00 | 2023-07-09 |  |
 | [Dia Inesquecível](https://open.spotify.com/track/0t8RFvYHiLd5AEVPS5Iobp) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Recompensa](https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP) | 5:40 | 2024-01-22 |  |
@@ -50,6 +50,7 @@
 | [Não Posso Desistir](https://open.spotify.com/track/2cgCsP1m4K4tilrfRw9nM3) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Não Posso Desistir](https://open.spotify.com/album/0nuJ9Ohww9T23k3MDESFg3) | 3:36 | 2023-07-09 | 2023-12-14 |
 | [Não Reclame](https://open.spotify.com/track/79kb4y6EtyBwDjBNhWrwRd) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Recompensa](https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP) | 4:26 | 2023-07-09 |  |
 | [O Abraço do Noivo](https://open.spotify.com/track/5y9uzQPYBVicXcQaWY6L9q) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Sementes da Fé](https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp) | 7:26 | 2023-07-09 |  |
+| [O Exilado](https://open.spotify.com/track/2IVrqzaBUCSkvjgMfH4viN) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.2](https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r) | 5:26 | 2024-06-15 |  |
 | [O Fogo de Deus](https://open.spotify.com/track/7EznXYdL3RtJkJdFYpZc9k) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Faça Diferença](https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws) | 5:11 | 2023-07-09 |  |
 | [O Leão e o Cordeiro \(Ao Vivo\)](https://open.spotify.com/track/0GVWI4nhY1XyOkL8otfLQo) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Leão e o Cordeiro \(Ao Vivo\)](https://open.spotify.com/album/5CEHU4uCKjNwzGnRMGkBRZ) | 6:42 | 2023-07-09 |  |
 | [O Preço Mais Caro](https://open.spotify.com/track/09Ycc4int063ZpChD3OMCE) | [Sophia Vitória](https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [O Preço Mais Caro](https://open.spotify.com/album/1IevqavLNiL8L03MbiziDx) | 3:57 | 2023-08-25 | 2023-12-14 |

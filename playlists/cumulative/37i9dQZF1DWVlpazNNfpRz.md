@@ -4,7 +4,7 @@
 
 > When the beat drops, that's Guaracha.
 
-119 songs - 6 hr 58 min
+120 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,13 +23,14 @@
 | [Bailar Contigo \- Leeb Remix](https://open.spotify.com/track/0otkSHy1PB1Ycymx0wOrBk) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [LEEB](https://open.spotify.com/artist/3OW9y2kM7N3BAEksWU2xZM) | [Bailar Contigo \(Leeb Remix\)](https://open.spotify.com/album/43iOlqaQpedw7iO8xbKBrv) | 4:22 | 2023-08-11 |  |
 | [Café Con Leche](https://open.spotify.com/track/5vXhgXRIUWMD62onAqA5xy) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Café Con Leche](https://open.spotify.com/album/1WwJMtiIDJLNREM5ldlXRS) | 2:48 | 2023-08-11 |  |
 | [Calling](https://open.spotify.com/track/4LApxjrPhbmSXdTXaHrqA1) | [Exotic](https://open.spotify.com/artist/14ASSasIb42tG16ym4kVfh) | [Elite Guarach](https://open.spotify.com/album/2ISwlwDSZNJFwWEB99DBfh) | 3:37 | 2023-08-11 |  |
+| [Chismofilia](https://open.spotify.com/track/0323rphB8wdBL4riIlKt0G) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Chismofilia](https://open.spotify.com/album/1Ph8fF8qKFyTRnGVgjZqrB) | 2:58 | 2024-06-14 |  |
 | [Confieso](https://open.spotify.com/track/3IBXPyDPW905zIz9Ie4xmh) | [F4ST](https://open.spotify.com/artist/25zPr5malvJ4FznDZUVo1a) | [Confieso](https://open.spotify.com/album/2JtcpWxHOoNCk1U9sPY37a) | 4:05 | 2023-11-10 |  |
 | [Confieso \(Remix\)](https://open.spotify.com/track/25ZjRLqFdc3u1saH4NNxRZ) | [F4ST](https://open.spotify.com/artist/25zPr5malvJ4FznDZUVo1a), [Fainal](https://open.spotify.com/artist/0Q7ezBXgkKjIvdbtDLL3R6) | [Confieso](https://open.spotify.com/album/7HeUwZCMAL3A6lh4KCVkPz) | 3:58 | 2023-08-11 | 2024-04-19 |
 | [Control](https://open.spotify.com/track/06bnGyoNJ0ocZbx2Yv3g8Q) | [Marcela Reyes](https://open.spotify.com/artist/2a3lL5m6feAyGUR1PI2osJ), [Juan Palau](https://open.spotify.com/artist/3fu1SiB0Q7nAH7Oy12jiT9) | [Control](https://open.spotify.com/album/3yLMMoPxPpL8FpB5Vt4kpS) | 3:13 | 2023-08-11 |  |
 | [Dale Guaracha](https://open.spotify.com/track/4J0OrwPCOLar2MlDPJlsjA) | [Private Music](https://open.spotify.com/artist/1eKjyHjZxxy9jt85oWnF1L) | [Dale Guaracha](https://open.spotify.com/album/57XAtWqhOk2YMH7TNWBnu9) | 2:43 | 2023-08-11 |  |
 | [Dame Lo Que Necesito](https://open.spotify.com/track/0WAOOHAIIddCcewpWp4Md4) | [Sebastien Rebels](https://open.spotify.com/artist/2ioGOJriBxdLqsZ0iOcY0i) | [Dame Lo Que Necesito](https://open.spotify.com/album/6hbPx8CW1M9vjyQgBg9246) | 3:04 | 2023-11-10 | 2024-03-19 |
 | [Dame Lo Que Necesito](https://open.spotify.com/track/4VD7GP0r61nRdYfwn7CIkB) | [Sebastien Rebels](https://open.spotify.com/artist/2ioGOJriBxdLqsZ0iOcY0i) | [Dame Lo Que Necesito](https://open.spotify.com/album/1qJcn8JEJRkhdZyiIc1QdJ) | 3:04 | 2023-08-11 | 2024-04-19 |
-| [Dame Lo Que Necesito Morenito \- Guaracha, Aleteo, Afrohouse, Zapateo](https://open.spotify.com/track/41iWkVOXOosXxcZUNKfev8) | [Aleteo Beatz](https://open.spotify.com/artist/14FO0tBE8mCeKv5sID1Gso) | [Dame Lo Que Necesito Morenito \(Guaracha, Aleteo, Afrohouse, Zapateo\)](https://open.spotify.com/album/0jWRp1l3LAx6Nnlzfg4nlT) | 3:04 | 2023-11-10 |  |
+| [Dame Lo Que Necesito Morenito \- Guaracha, Aleteo, Afrohouse, Zapateo](https://open.spotify.com/track/41iWkVOXOosXxcZUNKfev8) | [Aleteo Beatz](https://open.spotify.com/artist/14FO0tBE8mCeKv5sID1Gso) | [Dame Lo Que Necesito Morenito \(Guaracha, Aleteo, Afrohouse, Zapateo\)](https://open.spotify.com/album/0jWRp1l3LAx6Nnlzfg4nlT) | 3:04 | 2023-11-10 | 2024-06-15 |
 | [Delicious](https://open.spotify.com/track/6cS9Hgnnd1zWNsYlVVma9v) | [Fumaratto](https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw), [Happy Face](https://open.spotify.com/artist/0ED4nwCVzVNO4epxO86cOR) | [Delicious](https://open.spotify.com/album/5vsYvKnA7baRbbq3fvEDTW) | 2:46 | 2023-08-11 |  |
 | [Descontrol](https://open.spotify.com/track/4fOhWnhzv9j1bepz5Ap4yr) | [DJ PEREIRA](https://open.spotify.com/artist/56wdeN8OMcYrcKA8nWCkRD), [Alina](https://open.spotify.com/artist/56qkYOeMCKZ5MwXquyMgj1), [Smoove Matt](https://open.spotify.com/artist/3KmalU8VYl6SOPDK8a1L6u) | [Descontrol](https://open.spotify.com/album/4DWQ4xa9iVfvYHJiG7V0cW) | 3:03 | 2023-08-11 |  |
 | [Devuélvete](https://open.spotify.com/track/5zwICoUTp0sJASiQ25fmkQ) | [F4ST](https://open.spotify.com/artist/25zPr5malvJ4FznDZUVo1a), [Sara Tunes](https://open.spotify.com/artist/0y9110h844bML3uSJDgV9C), [Fainal](https://open.spotify.com/artist/0Q7ezBXgkKjIvdbtDLL3R6) | [Devuélvete](https://open.spotify.com/album/6ZpBzWcvs6l5ClmALMViaR) | 4:12 | 2023-08-11 |  |

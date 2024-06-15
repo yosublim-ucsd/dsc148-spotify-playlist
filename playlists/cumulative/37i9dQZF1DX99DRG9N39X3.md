@@ -2,7 +2,7 @@
 
 ### [10s Rock Anthems](https://open.spotify.com/playlist/37i9dQZF1DX99DRG9N39X3)
 
-> These songs rocked the 10s\. Cover: KALEO
+> These songs rocked the 10s\. Cover: Twenty One Pilots
 
 176 songs - 10 hr 53 min
 

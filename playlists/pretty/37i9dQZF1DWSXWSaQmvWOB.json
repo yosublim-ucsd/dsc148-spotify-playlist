@@ -1,12 +1,12 @@
 {
-  "description": "New soul-infused music every week! Cover: Jordan Rakei",
-  "num_followers": 460356,
+  "description": "New soul-infused music every week! Cover: Marc Broussard",
+  "num_followers": 460416,
   "original_name": "Soul 'n' the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmLVEQAAAAA4F5z2wgrDvrCMyRC3k5CI",
+  "snapshot_id": "Zmv/VwAAAADOdDvYAgCtWzBX9vXZqgL8",
   "tracks": [
     {
       "added_at": "2024-06-07 09:38:25",
@@ -23,6 +23,106 @@
       "duration_ms": 219349,
       "name": "Give You the World",
       "url": "https://open.spotify.com/track/77VRjAUqg8NRlBYv9kHJiG"
+    },
+    {
+      "added_at": "2024-06-14 08:29:11",
+      "album": {
+        "name": "Cinnamon Curls",
+        "url": "https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 246586,
+      "name": "Cinnamon Curls",
+      "url": "https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe"
+    },
+    {
+      "added_at": "2024-06-07 09:38:25",
+      "album": {
+        "name": "In Limbo",
+        "url": "https://open.spotify.com/album/4VsRC2WqckvyyMSKu4ulYu"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        },
+        {
+          "name": "Ironsides",
+          "url": "https://open.spotify.com/artist/4nzySyLtM3nYbLWVB8gy0U"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "In Limbo",
+      "url": "https://open.spotify.com/track/0ehGcL48kQnjyvhe8P49pq"
+    },
+    {
+      "added_at": "2024-06-14 08:29:11",
+      "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/3EQEzX8FHQuZ7TTKSJr2jQ"
+      },
+      "artists": [
+        {
+          "name": "JONES",
+          "url": "https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv"
+        }
+      ],
+      "duration_ms": 197733,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/39sR7JrYqrJwrlzXQWlDYN"
+    },
+    {
+      "added_at": "2024-06-14 08:29:11",
+      "album": {
+        "name": "BLACK OR WHITE",
+        "url": "https://open.spotify.com/album/6RJlxyF7OJ7a3PQSarsquc"
+      },
+      "artists": [
+        {
+          "name": "Jake Isaac",
+          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
+        }
+      ],
+      "duration_ms": 218361,
+      "name": "BLACK OR WHITE",
+      "url": "https://open.spotify.com/track/5JEjeIMPnFJcKisnx8LfdG"
+    },
+    {
+      "added_at": "2024-06-07 09:38:25",
+      "album": {
+        "name": "Enchant\u00e9",
+        "url": "https://open.spotify.com/album/563FrJ2AfhKQj1nqYCISaM"
+      },
+      "artists": [
+        {
+          "name": "Tim Atlas",
+          "url": "https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH"
+        }
+      ],
+      "duration_ms": 162600,
+      "name": "Enchant\u00e9",
+      "url": "https://open.spotify.com/track/10wbN21d8FXT0cFIaCw1yV"
+    },
+    {
+      "added_at": "2024-06-14 08:29:11",
+      "album": {
+        "name": "Been So Long",
+        "url": "https://open.spotify.com/album/2fP9dXnBoXjhAIDzdjMTez"
+      },
+      "artists": [
+        {
+          "name": "Liquid Spirits",
+          "url": "https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ"
+        }
+      ],
+      "duration_ms": 233800,
+      "name": "Been So Long",
+      "url": "https://open.spotify.com/track/0nGBUI1nmc07TCY9Nwx6HA"
     },
     {
       "added_at": "2024-06-07 09:38:25",
@@ -47,22 +147,6 @@
     {
       "added_at": "2024-06-07 09:38:25",
       "album": {
-        "name": "All I Need (The Gemini Song)",
-        "url": "https://open.spotify.com/album/71uGvbeHGdF2LIPCIVqYLF"
-      },
-      "artists": [
-        {
-          "name": "Avery*Sunshine",
-          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
-        }
-      ],
-      "duration_ms": 251586,
-      "name": "All I Need (The Gemini Song)",
-      "url": "https://open.spotify.com/track/212aM3sCb6fAeqUnYiLr61"
-    },
-    {
-      "added_at": "2024-06-07 09:38:25",
-      "album": {
         "name": "Sock It To Me",
         "url": "https://open.spotify.com/album/230WChHGiuiwfb3mMwhIw4"
       },
@@ -79,6 +163,54 @@
       "duration_ms": 202687,
       "name": "Sock It To Me",
       "url": "https://open.spotify.com/track/71TgR2sWsKz4tgkVWSOA87"
+    },
+    {
+      "added_at": "2024-06-14 08:29:11",
+      "album": {
+        "name": "A Fathers Song",
+        "url": "https://open.spotify.com/album/0iSSkUsnVkxCkm5EV899Zr"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "duration_ms": 270574,
+      "name": "A Fathers Song",
+      "url": "https://open.spotify.com/track/1bNGCRnimhVvVyfZhcoVSF"
+    },
+    {
+      "added_at": "2024-06-07 09:38:25",
+      "album": {
+        "name": "All I Need (The Gemini Song)",
+        "url": "https://open.spotify.com/album/71uGvbeHGdF2LIPCIVqYLF"
+      },
+      "artists": [
+        {
+          "name": "Avery*Sunshine",
+          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
+        }
+      ],
+      "duration_ms": 251586,
+      "name": "All I Need (The Gemini Song)",
+      "url": "https://open.spotify.com/track/212aM3sCb6fAeqUnYiLr61"
+    },
+    {
+      "added_at": "2024-06-14 08:29:11",
+      "album": {
+        "name": "Wyncm",
+        "url": "https://open.spotify.com/album/5mrCUYzKpGjx64EcpvVQ5H"
+      },
+      "artists": [
+        {
+          "name": "F\u00c4M",
+          "url": "https://open.spotify.com/artist/0GRkFcHaRm50dImpZMc8eG"
+        }
+      ],
+      "duration_ms": 169689,
+      "name": "Wyncm",
+      "url": "https://open.spotify.com/track/1aMofFkhrMODsU7TrHyOch"
     },
     {
       "added_at": "2024-06-07 09:38:25",
@@ -117,6 +249,38 @@
       "url": "https://open.spotify.com/track/6zZBlOFKH6EBEs99krClmE"
     },
     {
+      "added_at": "2024-06-14 08:29:11",
+      "album": {
+        "name": "Love You Anyway (Deluxe)",
+        "url": "https://open.spotify.com/album/24nX5Ge2Wx9S1W4jfH3TG7"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        }
+      ],
+      "duration_ms": 202847,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/1eUkDg4v2xomoSRQkV7XWp"
+    },
+    {
+      "added_at": "2024-06-07 09:38:25",
+      "album": {
+        "name": "Back To Me",
+        "url": "https://open.spotify.com/album/3sBfcY0O7MGHSNZrXZwHum"
+      },
+      "artists": [
+        {
+          "name": "Raquel Rodriguez",
+          "url": "https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q"
+        }
+      ],
+      "duration_ms": 193955,
+      "name": "Back To Me",
+      "url": "https://open.spotify.com/track/7GFkfewfhNv5ghA7M2040q"
+    },
+    {
       "added_at": "2024-06-07 09:38:25",
       "album": {
         "name": "The Loop",
@@ -131,6 +295,22 @@
       "duration_ms": 206571,
       "name": "Trust",
       "url": "https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1"
+    },
+    {
+      "added_at": "2024-06-14 08:29:11",
+      "album": {
+        "name": "SHE\u2019S A BORE",
+        "url": "https://open.spotify.com/album/7lNmtL5DyMuLTA3TBD1UOh"
+      },
+      "artists": [
+        {
+          "name": "Rae Khalil",
+          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
+        }
+      ],
+      "duration_ms": 157960,
+      "name": "SHE'S A BORE",
+      "url": "https://open.spotify.com/track/4fz4wPACzcn8DH44oAJbmo"
     },
     {
       "added_at": "2024-06-07 09:38:25",
@@ -169,6 +349,38 @@
       "url": "https://open.spotify.com/track/4WkFqFqm934Qm0RUWSjZWE"
     },
     {
+      "added_at": "2024-06-14 08:29:11",
+      "album": {
+        "name": "Perfectionist",
+        "url": "https://open.spotify.com/album/4ygAeyP9ZpCcXzLxJODTsX"
+      },
+      "artists": [
+        {
+          "name": "Rich",
+          "url": "https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ"
+        }
+      ],
+      "duration_ms": 99877,
+      "name": "Perfectionist",
+      "url": "https://open.spotify.com/track/0knEJoexYEAv6pH6gk6WIP"
+    },
+    {
+      "added_at": "2024-06-07 09:38:25",
+      "album": {
+        "name": "Feeling Good (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/6YQtpgkFSYr9sF8fTsHbMs"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 239299,
+      "name": "Feeling Good - triple j Like A Version",
+      "url": "https://open.spotify.com/track/4kY3cAWzzKVn3ZmYfOOJul"
+    },
+    {
       "added_at": "2024-06-07 09:38:25",
       "album": {
         "name": "Pair Of Shoes",
@@ -183,42 +395,6 @@
       "duration_ms": 187627,
       "name": "Pair Of Shoes",
       "url": "https://open.spotify.com/track/6iRRGYlnuBrELVLesCpzXZ"
-    },
-    {
-      "added_at": "2024-06-07 09:38:25",
-      "album": {
-        "name": "In Limbo",
-        "url": "https://open.spotify.com/album/4VsRC2WqckvyyMSKu4ulYu"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        },
-        {
-          "name": "Ironsides",
-          "url": "https://open.spotify.com/artist/4nzySyLtM3nYbLWVB8gy0U"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "In Limbo",
-      "url": "https://open.spotify.com/track/0ehGcL48kQnjyvhe8P49pq"
-    },
-    {
-      "added_at": "2024-06-07 09:38:25",
-      "album": {
-        "name": "Back To Me",
-        "url": "https://open.spotify.com/album/3sBfcY0O7MGHSNZrXZwHum"
-      },
-      "artists": [
-        {
-          "name": "Raquel Rodriguez",
-          "url": "https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q"
-        }
-      ],
-      "duration_ms": 193955,
-      "name": "Back To Me",
-      "url": "https://open.spotify.com/track/7GFkfewfhNv5ghA7M2040q"
     },
     {
       "added_at": "2024-06-07 09:38:25",
@@ -279,6 +455,22 @@
       "duration_ms": 208896,
       "name": "Fade (feat. KIRBY)",
       "url": "https://open.spotify.com/track/4JIQyyCvJnUcRTYxKBB4LU"
+    },
+    {
+      "added_at": "2024-06-07 09:38:25",
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/5h38EAp7olx8LgrfGyyxnf"
+      },
+      "artists": [
+        {
+          "name": "Lorr\u00e8n",
+          "url": "https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG"
+        }
+      ],
+      "duration_ms": 183668,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/5IHTebQWVq7axBYbKcpstz"
     },
     {
       "added_at": "2024-06-07 09:38:25",
@@ -355,22 +547,6 @@
     {
       "added_at": "2024-06-07 09:38:25",
       "album": {
-        "name": "Enchant\u00e9",
-        "url": "https://open.spotify.com/album/563FrJ2AfhKQj1nqYCISaM"
-      },
-      "artists": [
-        {
-          "name": "Tim Atlas",
-          "url": "https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH"
-        }
-      ],
-      "duration_ms": 162600,
-      "name": "Enchant\u00e9",
-      "url": "https://open.spotify.com/track/10wbN21d8FXT0cFIaCw1yV"
-    },
-    {
-      "added_at": "2024-06-07 09:38:25",
-      "album": {
         "name": "DOWN TO EARTH",
         "url": "https://open.spotify.com/album/2ytD8Aj9m2zF42kYSHDFVx"
       },
@@ -403,22 +579,6 @@
     {
       "added_at": "2024-06-07 09:38:25",
       "album": {
-        "name": "Feeling Good (triple j Like A Version)",
-        "url": "https://open.spotify.com/album/6YQtpgkFSYr9sF8fTsHbMs"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 239299,
-      "name": "Feeling Good - triple j Like A Version",
-      "url": "https://open.spotify.com/track/4kY3cAWzzKVn3ZmYfOOJul"
-    },
-    {
-      "added_at": "2024-06-07 09:38:25",
-      "album": {
         "name": "Don't Answer",
         "url": "https://open.spotify.com/album/3t08Js8O3fPiiPBSba91z6"
       },
@@ -447,6 +607,22 @@
       "duration_ms": 279000,
       "name": "Defence",
       "url": "https://open.spotify.com/track/0uBXE0zIKcfFiFHHmMuU2R"
+    },
+    {
+      "added_at": "2024-06-07 09:38:25",
+      "album": {
+        "name": "Same Old Story, Same Old Song",
+        "url": "https://open.spotify.com/album/692H3595WFFNmkFWxy34IC"
+      },
+      "artists": [
+        {
+          "name": "Paul van Kessel",
+          "url": "https://open.spotify.com/artist/44nMuC7VvLiVjEzdvFEz3k"
+        }
+      ],
+      "duration_ms": 230365,
+      "name": "Same Old Story, Same Old Song",
+      "url": "https://open.spotify.com/track/1dNeaQbdnzfMLAW6oe3zlf"
     },
     {
       "added_at": "2024-06-07 09:38:25",
@@ -515,6 +691,26 @@
       "duration_ms": 246582,
       "name": "So In Love",
       "url": "https://open.spotify.com/track/3rGJn2JwFW26XDfE4Ww1MF"
+    },
+    {
+      "added_at": "2024-06-07 09:38:25",
+      "album": {
+        "name": "Keep Movin'",
+        "url": "https://open.spotify.com/album/3WH6QxJj0oKMn7XhDegZai"
+      },
+      "artists": [
+        {
+          "name": "Ntjam Rosie",
+          "url": "https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R"
+        },
+        {
+          "name": "Licks & Brains",
+          "url": "https://open.spotify.com/artist/29FlGvcsEZMNyzE37QPB9Z"
+        }
+      ],
+      "duration_ms": 236007,
+      "name": "Keep Movin'",
+      "url": "https://open.spotify.com/track/00Lh7DFG3ScciWc6GbKDH5"
     },
     {
       "added_at": "2024-06-07 09:38:25",
@@ -963,22 +1159,6 @@
     {
       "added_at": "2024-06-07 09:38:25",
       "album": {
-        "name": "Magnificent",
-        "url": "https://open.spotify.com/album/70bnRdCfNQrboNva4UvNpl"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 275754,
-      "name": "Magnificent",
-      "url": "https://open.spotify.com/track/2gGsUlqs3y4yRNh1a372Qp"
-    },
-    {
-      "added_at": "2024-06-07 09:38:25",
-      "album": {
         "name": "Multiply (Feat. Luedji Luna)",
         "url": "https://open.spotify.com/album/77uUexIkyFfbFNRqFNNpHG"
       },
@@ -1179,22 +1359,6 @@
       "duration_ms": 198546,
       "name": "Better",
       "url": "https://open.spotify.com/track/3nsLmjrN9hwht5VszHwU23"
-    },
-    {
-      "added_at": "2024-06-07 09:38:25",
-      "album": {
-        "name": "Same Old Story, Same Old Song",
-        "url": "https://open.spotify.com/album/692H3595WFFNmkFWxy34IC"
-      },
-      "artists": [
-        {
-          "name": "Paul van Kessel",
-          "url": "https://open.spotify.com/artist/44nMuC7VvLiVjEzdvFEz3k"
-        }
-      ],
-      "duration_ms": 230365,
-      "name": "Same Old Story, Same Old Song",
-      "url": "https://open.spotify.com/track/1dNeaQbdnzfMLAW6oe3zlf"
     },
     {
       "added_at": "2024-06-07 09:38:25",
@@ -1463,22 +1627,6 @@
     {
       "added_at": "2024-06-07 09:38:25",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/5h38EAp7olx8LgrfGyyxnf"
-      },
-      "artists": [
-        {
-          "name": "Lorr\u00e8n",
-          "url": "https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG"
-        }
-      ],
-      "duration_ms": 183668,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/5IHTebQWVq7axBYbKcpstz"
-    },
-    {
-      "added_at": "2024-06-07 09:38:25",
-      "album": {
         "name": "That Is You",
         "url": "https://open.spotify.com/album/1iMbj8BIe2irAJc7iUyr4X"
       },
@@ -1531,26 +1679,6 @@
     {
       "added_at": "2024-06-07 09:38:25",
       "album": {
-        "name": "THE BOOK OF CLARENCE (The Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4t3ZghXZc8mQgIpVHUPxW4"
-      },
-      "artists": [
-        {
-          "name": "Jeymes Samuel",
-          "url": "https://open.spotify.com/artist/5LCKmOTlZQaULxnQ1xIkD8"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 248925,
-      "name": "Champagne (feat. Jorja Smith)",
-      "url": "https://open.spotify.com/track/1C5qJQyeR3bNSbPRl9hOhZ"
-    },
-    {
-      "added_at": "2024-06-07 09:38:25",
-      "album": {
         "name": "Two Step",
         "url": "https://open.spotify.com/album/6RZsHSRYUMM4ynG2dSkPHH"
       },
@@ -1567,58 +1695,6 @@
       "duration_ms": 236086,
       "name": "Two Step",
       "url": "https://open.spotify.com/track/0sftTHro9CcZ1vR6xDvVPC"
-    },
-    {
-      "added_at": "2024-06-07 09:38:25",
-      "album": {
-        "name": "STEP BY STEP",
-        "url": "https://open.spotify.com/album/76ZPln9Fip9hBnvs0Z7xal"
-      },
-      "artists": [
-        {
-          "name": "Jordan Mackampa",
-          "url": "https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST"
-        }
-      ],
-      "duration_ms": 209248,
-      "name": "STEP BY STEP",
-      "url": "https://open.spotify.com/track/0IORRm54p9PaFUejiXdjxB"
-    },
-    {
-      "added_at": "2024-06-07 09:38:25",
-      "album": {
-        "name": "Keep Movin'",
-        "url": "https://open.spotify.com/album/3WH6QxJj0oKMn7XhDegZai"
-      },
-      "artists": [
-        {
-          "name": "Ntjam Rosie",
-          "url": "https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R"
-        },
-        {
-          "name": "Licks & Brains",
-          "url": "https://open.spotify.com/artist/29FlGvcsEZMNyzE37QPB9Z"
-        }
-      ],
-      "duration_ms": 236007,
-      "name": "Keep Movin'",
-      "url": "https://open.spotify.com/track/00Lh7DFG3ScciWc6GbKDH5"
-    },
-    {
-      "added_at": "2024-06-07 09:38:25",
-      "album": {
-        "name": "Lifted Up",
-        "url": "https://open.spotify.com/album/4jGb0IWRLtC75RQzIWGpEV"
-      },
-      "artists": [
-        {
-          "name": "Avery*Sunshine",
-          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
-        }
-      ],
-      "duration_ms": 175714,
-      "name": "Lifted Up",
-      "url": "https://open.spotify.com/track/5I49eXTkm0BUI9l5zvVcfw"
     }
   ],
   "unique_name": "Soul 'n' the City",

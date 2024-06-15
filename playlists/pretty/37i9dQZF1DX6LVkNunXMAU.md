@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Paola Navarrete & Adanowsky.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,602 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,609 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 89 | [Lo Que Hicimos](https://open.spotify.com/track/0sCce9Byqxnaj763s0RaWf) | [Agus Vivo](https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW), [Sónico Vivo](https://open.spotify.com/artist/4gKGHKgKXprf8kvRCmcrpe) | [Lo Que Hicimos](https://open.spotify.com/album/5M7QbPWs7IZbZ7GgwucHwh) | 2:37 |
 | 90 | [El rey del yuyal](https://open.spotify.com/track/37q1oUFGyp0Uh8L8kArkym) | [Pensé que era viernes](https://open.spotify.com/artist/4ItV8u3CWrnoo4D8JEHXk1) | [El rey del yuyal](https://open.spotify.com/album/3YmKNf3CiCG381ZvxJwkCk) | 2:54 |
 | 91 | [Buscala](https://open.spotify.com/track/6mJ9vnO3hByuwCumlzHsAr) | [Joaquín Vitola](https://open.spotify.com/artist/4GHo23JMbtceTkGJdnEaXd) | [Conversación Cultural](https://open.spotify.com/album/1XhqaVC1pLZg4FNpOMwAzV) | 3:15 |
-| 92 | [Sigo Llorando](https://open.spotify.com/track/1Ptw4qmBwDENGx2qrfUIBc) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Sigo Llorando](https://open.spotify.com/album/3V1VAfG6FC5nppug6OZHnm) | 3:43 |
-| 93 | [Un Nuevo Ritmo](https://open.spotify.com/track/33D7MHDLCtY3lhDkaEtNe9) | [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Un Nuevo Ritmo](https://open.spotify.com/album/3F2ROcUUuqyFDMAe5WmYr2) | 3:33 |
+| 92 | [Un Nuevo Ritmo](https://open.spotify.com/track/33D7MHDLCtY3lhDkaEtNe9) | [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Un Nuevo Ritmo](https://open.spotify.com/album/3F2ROcUUuqyFDMAe5WmYr2) | 3:33 |
+| 93 | [Sigo Llorando](https://open.spotify.com/track/1Ptw4qmBwDENGx2qrfUIBc) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Sigo Llorando](https://open.spotify.com/album/3V1VAfG6FC5nppug6OZHnm) | 3:43 |
 | 94 | [Huracán](https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO) | [Andres](https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f) | [Huracán](https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf) | 2:41 |
 | 95 | [SAD](https://open.spotify.com/track/4QLq5Ckjq14BcvnO1tAo9d) | [nano mundano](https://open.spotify.com/artist/0UTjWU7XvLl9O12dfTxhfl) | [SAD](https://open.spotify.com/album/5AHDaEzx1v4KKwMHJxJB1E) | 3:44 |
 | 96 | [lo\-fi](https://open.spotify.com/track/0jsCPolR169poPX99rNtCe) | [Martin Oliver](https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm) | [lo\-fi](https://open.spotify.com/album/2ou8ilCBWA00ZJDgZtdRb8) | 2:55 |

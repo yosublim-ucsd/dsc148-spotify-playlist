@@ -1,33 +1,13 @@
 {
   "description": "This is Zendaya. The essential tracks, all in one playlist.",
-  "num_followers": 23872,
+  "num_followers": 23875,
   "original_name": "This Is Zendaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjlAAAAAAB06jwuXe38zMbQ81n8Pq0Y",
+  "snapshot_id": "Zmo2gAAAAAAczjEM0MUuK1o3zKKpNL5d",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rewrite The Stars",
-        "url": "https://open.spotify.com/album/0mRqi6mOvyVVVEIfFFfWXU"
-      },
-      "artists": [
-        {
-          "name": "Zac Efron",
-          "url": "https://open.spotify.com/artist/6U1dBXJhC8gXFjamvFTmHg"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 217440,
-      "name": "Rewrite The Stars",
-      "url": "https://open.spotify.com/track/630sXRhIcfwr2e4RdNtjKN"
-    },
     {
       "added_at": null,
       "album": {
@@ -59,6 +39,26 @@
       "duration_ms": 302146,
       "name": "The Greatest Show",
       "url": "https://open.spotify.com/track/4ylWMuGbMXNDgDd8lErEle"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Imagination & the Misfit Kid",
+        "url": "https://open.spotify.com/album/0zjbNtfnMLmt2q50E3wDx8"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        },
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 191710,
+      "name": "All For Us",
+      "url": "https://open.spotify.com/track/76YSWx6L6FNsuaP6GWBb8P"
     },
     {
       "added_at": null,
@@ -95,6 +95,38 @@
       "duration_ms": 209186,
       "name": "Replay",
       "url": "https://open.spotify.com/track/7d1CFwrBmH34gmS0Hkbfbt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
+      },
+      "artists": [
+        {
+          "name": "Hugh Jackman",
+          "url": "https://open.spotify.com/artist/5F1aoppMtU3OMiltO8ymJ2"
+        },
+        {
+          "name": "Keala Settle",
+          "url": "https://open.spotify.com/artist/7HV2RI2qNug4EcQqLbCAKS"
+        },
+        {
+          "name": "Daniel Everidge",
+          "url": "https://open.spotify.com/artist/2Rimf9z3oYDBeszSXFACRR"
+        },
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        },
+        {
+          "name": "The Greatest Showman Ensemble",
+          "url": "https://open.spotify.com/artist/63nv0hWWDob56Rk8GlNpN8"
+        }
+      ],
+      "duration_ms": 225933,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/5xNUR50KxswPRAvx7S163g"
     },
     {
       "added_at": null,
@@ -371,6 +403,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Piano Acoustic Covers Vol 1",
+        "url": "https://open.spotify.com/album/4qHAgErNddHMr88Uc30hSb"
+      },
+      "artists": [
+        {
+          "name": "Kurt Hugo Schneider",
+          "url": "https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm"
+        },
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 233375,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/1r5f90h75wkkd0eQYMWiqL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zendaya",
+        "url": "https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 177586,
+      "name": "Scared",
+      "url": "https://open.spotify.com/track/4zKqkvPSeOa2918BlJJkKH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "To Live For",
         "url": "https://open.spotify.com/album/3gioCmiIcOvqNRWBpMYrr5"
       },
@@ -391,22 +459,6 @@
       "duration_ms": 230207,
       "name": "My Jam",
       "url": "https://open.spotify.com/track/02DaqClSJTt95OvsiroP5j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zendaya",
-        "url": "https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 177586,
-      "name": "Scared",
-      "url": "https://open.spotify.com/track/4zKqkvPSeOa2918BlJJkKH"
     },
     {
       "added_at": null,
@@ -447,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Zendaya",
+        "url": "https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 253346,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/6GjGwc7oCLRSo6pcTCjGab"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shake It Up: Made In Japan (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5TUn50U2OFVerctibxueCs"
       },
@@ -463,22 +531,6 @@
       "duration_ms": 176560,
       "name": "Made In Japan",
       "url": "https://open.spotify.com/track/6MVd0fiTvnNySVpKcxox6I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zendaya",
-        "url": "https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 253346,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/6GjGwc7oCLRSo6pcTCjGab"
     },
     {
       "added_at": null,
@@ -519,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disney Fairies: Faith, Trust and Pixie Dust",
-        "url": "https://open.spotify.com/album/7CteF40ZbCHjLYBYyYpAAJ"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 182093,
-      "name": "Dig Down Deeper",
-      "url": "https://open.spotify.com/track/3r0TVEiVGNFI5nuX87nstb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zendaya",
         "url": "https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl"
       },
@@ -547,6 +583,22 @@
       "duration_ms": 218733,
       "name": "Bottle You Up",
       "url": "https://open.spotify.com/track/7wbIPJ9Ptn328JWcMONz9p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Disney Fairies: Faith, Trust and Pixie Dust",
+        "url": "https://open.spotify.com/album/7CteF40ZbCHjLYBYyYpAAJ"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 182093,
+      "name": "Dig Down Deeper",
+      "url": "https://open.spotify.com/track/3r0TVEiVGNFI5nuX87nstb"
     },
     {
       "added_at": null,

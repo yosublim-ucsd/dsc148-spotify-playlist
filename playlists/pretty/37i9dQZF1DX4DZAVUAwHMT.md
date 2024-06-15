@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: IDLES
 
-[Spotify](https://open.spotify.com/user/spotify) - 792,432 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 792,398 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 51 | [One Of The Pack](https://open.spotify.com/track/6yluvonzmFUjHMpcbTzBej) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [One Of The Pack](https://open.spotify.com/album/5brmo3bAoy48mBJhm3JiKE) | 3:17 |
 | 52 | [Nineteen](https://open.spotify.com/track/7kHjARp3Q3XDIeC8XGSrPx) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Nineteen](https://open.spotify.com/album/4ES63njGp43adDMGUluERR) | 1:53 |
 | 53 | [Under The Skin](https://open.spotify.com/track/6tsI3hDX8QLySSK06W4YfJ) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Under The Skin](https://open.spotify.com/album/4DFVyeCnVGzdm5Cw2lcLPs) | 4:12 |
-| 54 | [Exit Oblivion](https://open.spotify.com/track/4ycb32qb4NCRIM9kNof98g) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [All Good](https://open.spotify.com/album/4F55MjyuidAYOgPVbf8oes) | 3:30 |
+| 54 | [Exit Oblivion](https://open.spotify.com/track/4ycb32qb4NCRIM9kNof98g) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [all good](https://open.spotify.com/album/4F55MjyuidAYOgPVbf8oes) | 3:30 |
 | 55 | [NVR RLLY](https://open.spotify.com/track/4rKY7tnvkK72142WJkVL0b) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [shed](https://open.spotify.com/album/3FUzGhGjR8rcmJIWmc67AQ) | 3:09 |
 | 56 | [Pulling Teeth](https://open.spotify.com/track/4a3nl8VK9ookqco7tAB2h5) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Pulling Teeth](https://open.spotify.com/album/2lZr3iSgftGuE3AqAs9l1x) | 3:31 |
 | 57 | [21st Century Suffragette](https://open.spotify.com/track/1g2T1BUfAh6U7aOioCiRIX) | [GIRLBAND!](https://open.spotify.com/artist/3QSwq9CQMjqe01RtbKqz0F) | [21st Century Suffragette](https://open.spotify.com/album/2C2ISiaMskaxrMTnAQUd1z) | 2:26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 
 > 
 
-[skillstreet](https://open.spotify.com/user/skillstreet) - 3 likes - 780 songs - 1 day 15 hr 54 min
+[skillstreet](https://open.spotify.com/user/skillstreet) - 3 likes - 783 songs - 1 day 16 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -749,7 +749,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 739 | [AT THE PARTY \(feat\. Pharrell Williams & Travis Scott\)](https://open.spotify.com/track/0kUQWMs1bRlwFNKA4Dce3f) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [INSANO](https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr) | 3:58 |
 | 740 | [4L](https://open.spotify.com/track/1uULQtJ8rbsX5TwjPpPc9Q) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 4:48 |
 | 741 | [Whatever She Wants](https://open.spotify.com/track/1F2YY9lXrRJxAppKaRMGML) | [Rlr Slime](https://open.spotify.com/artist/71ltjO8mWxEALHGt0bbfVZ), [Lil Bryson Tillerr](https://open.spotify.com/artist/1p1Pz5qFGwejLghf94opef) | [Whatever She Wants](https://open.spotify.com/album/1ymOdljx8dHJNxxoOUHV52) | 2:10 |
-| 742 | [Bandit](https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Bandit](https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC) | 2:27 |
+| 742 | [BANDIT](https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Bandit](https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC) | 2:27 |
 | 743 | [do re mi](https://open.spotify.com/track/6Se3x9ANMLv0dCDsjGmEjh) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [digital druglord](https://open.spotify.com/album/0a8WSH44kA5hR4MQ6LyFDB) | 3:32 |
 | 744 | [Curse](https://open.spotify.com/track/5BYCMWNQqz4nqErN1ReRGL) | [Bass Santana](https://open.spotify.com/artist/0O1cTzccAEKaEFShgzAK9V), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Cooliecut](https://open.spotify.com/artist/19uEVh7y7Y9RfjMphMamXc), [Kin$oul](https://open.spotify.com/artist/6HhsbprrJmKeaH8SgSlGge) | [XXXTENTACION Presents: Members Only, Vol\. 3](https://open.spotify.com/album/7ifkO4gppMVf0HNy7JJDHn) | 1:58 |
 | 745 | [NO TRENDS](https://open.spotify.com/track/1R7IfLjtJ4B9kqjIqaEeVf) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF) | 2:31 |
@@ -788,5 +788,8 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 778 | [Everything Lit](https://open.spotify.com/track/3ECYmjiIOeCCXrpSkVj8ff) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Everything Lit](https://open.spotify.com/album/5XL0ne5zAAok8w8A4mZ9Cx) | 2:25 |
 | 779 | [Deep End](https://open.spotify.com/track/1yZpdHZpwnnT7Evpo7W2ZX) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Deep End](https://open.spotify.com/album/6YMwAuclDCYoo0D0fpwFyC) | 2:26 |
 | 780 | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy) | 2:20 |
+| 781 | [TO THE GRAVE](https://open.spotify.com/track/12Qfni7HZUowpG6NNtM10g) | [HotBlock Jmoe](https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [TO THE GRAVE](https://open.spotify.com/album/3oftYhgmFsRf56Ivz1CbVV) | 3:36 |
+| 782 | [PURPLE RAIN \(FEAT\. FUTURE & METRO BOOMIN\)](https://open.spotify.com/track/7i8ncEfBk3s0w5YoG43SV9) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:27 |
+| 783 | [ICE AGE \(FEAT\. TRAVIS SCOTT\)](https://open.spotify.com/track/4nhcjelU9PidsBzUkazfZs) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:38 |
 
-Snapshot ID: `AAADuShMTlfBDgin/m5m433+piqb0kL2`
+Snapshot ID: `AAADvJWATx/xVHJWGAnGvq3708cZsDuL`

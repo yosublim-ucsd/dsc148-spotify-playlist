@@ -2,9 +2,9 @@
 
 ### [Pop Colombia](https://open.spotify.com/playlist/37i9dQZF1DX9cp1suxagma)
 
-> Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Bacilos
+> Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Diamante Eléctrico
 
-210 songs - 11 hr 10 min
+211 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Desde Hola](https://open.spotify.com/track/0oQfmHrqjn3kQM1mlIf3lY) | [Maca & Gero](https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV) | [Desde Hola](https://open.spotify.com/album/2YqHcXxyejgWVXRmPoDIXf) | 3:11 | 2023-11-10 |  |
 | [Después de la Tormenta](https://open.spotify.com/track/4ivDHA6dgIlrit7blIR1hm) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Después de la Tormenta](https://open.spotify.com/album/7brGiRbMHwI4ZuhmXKxuyy) | 3:25 | 2023-02-17 | 2023-03-10 |
 | [Diciembre Frío](https://open.spotify.com/track/2BZjqkq3Og5q8Mf76Tp14p) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Diciembre Frío](https://open.spotify.com/album/1DanZPzGDbBYuMeFVgloC5) | 2:56 | 2023-12-15 | 2024-03-16 |
-| [DIFERENTE](https://open.spotify.com/track/0zjlDOMaan6IH87OFaosuZ) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8) | [BlessDeluxury](https://open.spotify.com/album/0MkMu019XCFwwuL1ftHKmQ) | 3:01 | 2024-05-17 |  |
+| [DIFERENTE](https://open.spotify.com/track/0zjlDOMaan6IH87OFaosuZ) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8) | [BlessDeluxury](https://open.spotify.com/album/0MkMu019XCFwwuL1ftHKmQ) | 3:01 | 2024-05-17 | 2024-06-15 |
 | [Discoteca](https://open.spotify.com/track/7GoflMNfOi849vMcoRuMKB) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Discoteca](https://open.spotify.com/album/1gVXO4KetZZupnhcN9zBxQ) | 3:05 | 2023-11-24 |  |
 | [DONDE SEA \(feat\. César Pinzón\)](https://open.spotify.com/track/61YWfGz2h2GKLz7MikpxC9) | [CIAN](https://open.spotify.com/artist/6ypkanlrdTqptU1RKlUb60), [César Pinzón](https://open.spotify.com/artist/6WmcwbAC7wUcuPzXzxxcG6) | [DONDE SEA \(feat\. César Pinzón\)](https://open.spotify.com/album/41Dok3DBiPOcmBrRkoQieq) | 2:55 | 2023-02-17 | 2023-09-09 |
 | [Dos Semanas](https://open.spotify.com/track/24HpRg5rCOPJtLij5jDY3l) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Dos Semanas](https://open.spotify.com/album/5qLNiFFzTrty1N3gJ0LaW1) | 2:39 | 2024-02-16 | 2024-04-13 |
@@ -59,6 +59,7 @@
 | [Déjala Que Vuelva \(feat\. Manuel Turizo\)](https://open.spotify.com/track/33bnxcjePIkcmNjEFTJX0l) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Déjala Que Vuelva \(feat\. Manuel Turizo\)](https://open.spotify.com/album/70WadO9CAH4rOI1rEbTS0a) | 3:40 | 2023-02-17 |  |
 | [Días de mierda \(Arial 3\)](https://open.spotify.com/track/2SOn6LXgv9xybGMOEoYzwD) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Días de mierda \(Arial 3\)](https://open.spotify.com/album/3suowBgMkaBa4m1sp9Xg78) | 2:21 | 2024-05-24 |  |
 | [El Amor Es Perfecto](https://open.spotify.com/track/69cAqCB2QFhKkmmDmkYc9A) | [Cabas](https://open.spotify.com/artist/3W4lVkySjtIvd67UUg0F3i) | [El Amor Es Perfecto](https://open.spotify.com/album/3jvv2aafvKHKZGuq0EfqFa) | 2:58 | 2023-02-17 | 2024-05-04 |
+| [El Big Bang](https://open.spotify.com/track/61svvvUEUPodjZvXhXv74e) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [El Big Bang](https://open.spotify.com/album/21sw5hm7AanjSg7mZrBYxz) | 4:03 | 2024-06-14 |  |
 | [El Equivocado](https://open.spotify.com/track/25Qow1XsQiXi0v2C8cxhwL) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [El Equivocado](https://open.spotify.com/album/0DKMuyi55HlxjQONKbt1xl) | 3:39 | 2023-02-17 |  |
 | [El Gran Teatro](https://open.spotify.com/track/2n9rHWOVp9Dyy64MNPH3Sf) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Nueve](https://open.spotify.com/album/7EnM4Hxe911FnoxbHlfADy) | 3:53 | 2023-02-17 | 2023-04-29 |
 | [El Mismo Lugar](https://open.spotify.com/track/1XPMT2vZddFZAKrxSWyRBN) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE) | [El Mismo Lugar](https://open.spotify.com/album/5TwX9RNm1X9N7pur94b7i6) | 2:38 | 2023-11-10 | 2024-02-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > Soft and cozy acoustic covers of famous songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,712,075 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,712,067 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 99 | [Eyes Closed](https://open.spotify.com/track/1MFZQ3L9XixU9Hi3XLXeRl) | [Theresa Chase](https://open.spotify.com/artist/1FxU7Hz4HvvknicyJDeG9P) | [Eyes Closed](https://open.spotify.com/album/3ZSjHPyJ3NnbtH271F2kWe) | 3:23 |
 | 100 | [WITHOUT ME](https://open.spotify.com/track/5K17WcyVoqa4lugxn5RcxP) | [Graham Carter](https://open.spotify.com/artist/0A6NReVqiHGQlKWIpriTO3) | [WITHOUT ME](https://open.spotify.com/album/2aVLd13zIVKYBysTP5JTir) | 3:00 |
 
-Snapshot ID: `ZfvuRgAAAACYCgIU7rpfxQe2aCXshPkp`
+Snapshot ID: `ZmxQJwAAAABhDVkjRqYNL997Lb/x+tgz`

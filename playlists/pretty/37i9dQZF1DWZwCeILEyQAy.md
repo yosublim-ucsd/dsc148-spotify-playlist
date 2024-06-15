@@ -2,27 +2,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 
 ### [Pressure](https://open.spotify.com/playlist/37i9dQZF1DWZwCeILEyQAy)
 
-> Real Rap\. All Pressure\. Cover: JT
+> Real Rap\. All Pressure\. Cover: Enchanting
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,028 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,027 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Yeah Glo!](https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Yeah Glo!](https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa) | 2:22 |
-| 2 | [OKAY](https://open.spotify.com/track/0e1KTuawmiFLiK0Lh3nNtM) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [OKAY](https://open.spotify.com/album/7AmtY0qyLuqkGXYu7lOLjL) | 2:44 |
-| 3 | [TTG \(Go\)](https://open.spotify.com/track/4hKmlJ6sSCvDgQm50pTW05) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:20 |
-| 4 | [See Us](https://open.spotify.com/track/04FBRDqyjccu1VVKZKULa1) | [BlakeIANA](https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [See Us](https://open.spotify.com/album/6SM23HeU5L6nBBgezvc0q8) | 2:10 |
-| 5 | [Mike T](https://open.spotify.com/track/7EDA3nGRMEhJnw7Ak7mhhc) | [ScarLip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ) | [Bad Boys: Ride Or Die Soundtrack](https://open.spotify.com/album/5ZeYTX0MWneFbHTk7mZd9l) | 2:47 |
-| 6 | [BOP \(feat\. GloRilla\)](https://open.spotify.com/track/0mpDXW1y4X7MlyPecWAlzJ) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [REDRUM Wizard \(Gangsta Grillz\)](https://open.spotify.com/album/2kcWf4LiavA3V6quKqSXAB) | 3:22 |
-| 7 | [Kash Kommandments](https://open.spotify.com/track/1C4eLUSXUnj6bi8xjShYaH) | [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf) | [Kash Kommandments](https://open.spotify.com/album/3Jl8CMpyyGtUPAoT0XPplY) | 3:29 |
+| 1 | [BOP \(feat\. GloRilla\)](https://open.spotify.com/track/0mpDXW1y4X7MlyPecWAlzJ) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [REDRUM Wizard \(Gangsta Grillz\)](https://open.spotify.com/album/2kcWf4LiavA3V6quKqSXAB) | 3:22 |
+| 2 | [Kash Kommandments](https://open.spotify.com/track/1C4eLUSXUnj6bi8xjShYaH) | [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf) | [Kash Kommandments](https://open.spotify.com/album/3Jl8CMpyyGtUPAoT0XPplY) | 3:29 |
+| 3 | [She's Hot](https://open.spotify.com/track/5FDa2oOuhGQPCMhWhoSCty) | [ScarLip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ) | [She's Hot](https://open.spotify.com/album/2XFM7SGRSMPrgQkb8tLFBF) | 2:26 |
+| 4 | [BACK OUTSIDE \(feat\. Latto\)](https://open.spotify.com/track/5zHqXGQkZ1BSGePTAg6xSF) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [BACK OUTSIDE \(feat\. Latto\)](https://open.spotify.com/album/1NUu71LKvnQJHfrMvrYfap) | 2:53 |
+| 5 | [Track & Field \(feat\. Kaliii\)](https://open.spotify.com/track/2VEqGWCSJaQeQlwToXSB36) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [No Luv](https://open.spotify.com/album/3dWR4DigMGjegp0NPBfAV7) | 2:18 |
+| 6 | [Yeah Glo!](https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Yeah Glo!](https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa) | 2:22 |
+| 7 | [OKAY](https://open.spotify.com/track/0e1KTuawmiFLiK0Lh3nNtM) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [OKAY](https://open.spotify.com/album/7AmtY0qyLuqkGXYu7lOLjL) | 2:44 |
 | 8 | [Rug Burn](https://open.spotify.com/track/1TjzdG5MVNo5tUXcSbZ3iX) | [Wynne](https://open.spotify.com/artist/3fhz0PcZrd3o3xB8APuoPX) | [Rug Burn](https://open.spotify.com/album/2etVzffBW8oWkzkKo3BWW5) | 3:11 |
-| 9 | [Pop It](https://open.spotify.com/track/7uVc645aKDimYANWvNof3A) | [Flau'jae](https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC) | [Pop It](https://open.spotify.com/album/5Z0h3q1fHzPDmIJbG6FuiQ) | 2:18 |
+| 9 | [Borderline \(feat\. Luclover\)](https://open.spotify.com/track/7ktMBGuRKpJLs24WIQwFph) | [Big Mali](https://open.spotify.com/artist/7x34WSbxJuJnz7pMPWg4Yz), [Luclover](https://open.spotify.com/artist/6ehZYiWgZXXxjTbziiKj60) | [Borderline \(feat\. Luclover\)](https://open.spotify.com/album/5XR4dYabzVQpbtuP0BxuJu) | 2:18 |
 | 10 | [Baddies](https://open.spotify.com/track/72ZVTeHKV9Uzkk8qtYbkss) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Baddies](https://open.spotify.com/album/6wj8Zd0xmL1zPc4m6AFSH1) | 2:53 |
-| 11 | [BACK OUTSIDE \(feat\. Latto\)](https://open.spotify.com/track/5zHqXGQkZ1BSGePTAg6xSF) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [BACK OUTSIDE \(feat\. Latto\)](https://open.spotify.com/album/1NUu71LKvnQJHfrMvrYfap) | 2:53 |
+| 11 | [TTG \(Go\)](https://open.spotify.com/track/4hKmlJ6sSCvDgQm50pTW05) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:20 |
 | 12 | [No Statements](https://open.spotify.com/track/0pSOqjxYRQ0HjHs1LbxIkw) | [ScarLip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ) | [No Statements](https://open.spotify.com/album/5iWKMNJfz4v7ht3m0sqbiK) | 2:38 |
-| 13 | [Booty Club](https://open.spotify.com/track/6NhOhoC8H1ZaMOM28dxg1b) | [Sandy Cheekz](https://open.spotify.com/artist/1uHsGsGBsenQpehgM9kP02), [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf) | [Booty Club](https://open.spotify.com/album/1l1OqIyNCvyZFq5qNYSUY5) | 3:08 |
+| 13 | [Talk My Shit 4](https://open.spotify.com/track/4LzfF7d5iWgGoBerbwOiXk) | [Lebra Jolie](https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV) | [Talk My Shit 4](https://open.spotify.com/album/5PLXaD02ib9yHizyR7CZRG) | 2:04 |
 | 14 | [No Bih](https://open.spotify.com/track/3WnxnjGIwQ7rJ7igCOu93l) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Ehhthang Ehhthang](https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI) | 2:59 |
-| 15 | [Talk My Shit 4](https://open.spotify.com/track/4LzfF7d5iWgGoBerbwOiXk) | [Lebra Jolie](https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV) | [Talk My Shit 4](https://open.spotify.com/album/5PLXaD02ib9yHizyR7CZRG) | 2:04 |
+| 15 | [Want Sum](https://open.spotify.com/track/19OABqJi38x5SKEH3hSF1G) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT) | [No Luv](https://open.spotify.com/album/3dWR4DigMGjegp0NPBfAV7) | 2:07 |
 | 16 | [Rich Baby Daddy \(feat\. Sexyy Red & SZA\)](https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 5:19 |
 | 17 | [Get It Sexyy](https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Get It Sexyy](https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw) | 2:28 |
 | 18 | [Rodeo \(Remix\)](https://open.spotify.com/track/035MzEbx4z2DxuRDymHXbv) | [Lah Pat](https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Rodeo \(Remix\)](https://open.spotify.com/album/2grKiiEtU4ij4yPgvlBGTq) | 4:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 49 | [SHAKIN IT \(feat\. Cash Cobain\)](https://open.spotify.com/track/6fciDfvusfex0xul6qjNjW) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [LVL5 P2](https://open.spotify.com/album/7cVPqKEV2caeqpj7T2m7hm) | 2:54 |
 | 50 | [In Dat Mode](https://open.spotify.com/track/0SNIukv9BX1Sv9YGpsokgN) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Ehhthang Ehhthang](https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI) | 3:02 |
 
-Snapshot ID: `ZmKFwAAAAADA+rQ/SQi7zmN+QSJTaLxt`
+Snapshot ID: `ZmvAQAAAAACd6QhddeO7ctJm/1wdmdot`

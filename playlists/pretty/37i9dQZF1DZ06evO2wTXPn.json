@@ -1,12 +1,12 @@
 {
-  "description": "This Is KURT. Los temas esenciales, todos en una lista.",
-  "num_followers": 30483,
+  "description": "This is KURT. The essential tracks, all in one playlist.",
+  "num_followers": 30491,
   "original_name": "This Is KURT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjlAAAAAABR/saAYlQ9PVfLkzde+tSX",
+  "snapshot_id": "Zmo2gAAAAACDMPNx+DXOGcFHdy3/YgoO",
   "tracks": [
     {
       "added_at": null,
@@ -207,26 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "unas ac\u00fasticas",
-        "url": "https://open.spotify.com/album/3oHwatvS7nbzOzbMwiAv1l"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        },
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 202573,
-      "name": "Somos Instantes - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4Pxfoyu1l2rFPCYzdYqdrV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tengo",
         "url": "https://open.spotify.com/album/6uq8cwuvPvPSYp3rjriBQ9"
       },
@@ -243,6 +223,46 @@
       "duration_ms": 230323,
       "name": "Tengo",
       "url": "https://open.spotify.com/track/4Jo5MeAP4GFRFc57m2q7FY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Medio De Este Ruido",
+        "url": "https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Los Claxons",
+          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
+        }
+      ],
+      "duration_ms": 207986,
+      "name": "Los D\u00edas Que Vendr\u00e1n",
+      "url": "https://open.spotify.com/track/2qmRGDSS7kQ0mRjfuNso9T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "unas ac\u00fasticas",
+        "url": "https://open.spotify.com/album/3oHwatvS7nbzOzbMwiAv1l"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 202573,
+      "name": "Somos Instantes - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4Pxfoyu1l2rFPCYzdYqdrV"
     },
     {
       "added_at": null,
@@ -347,6 +367,26 @@
       "duration_ms": 228731,
       "name": "Luna y Marea (feat. KURT)",
       "url": "https://open.spotify.com/track/5Z2gkSJIibMCdbE7TWceE6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Las Ganas",
+        "url": "https://open.spotify.com/album/0mtZkrJ2WBLYjggwI3dyD9"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 241306,
+      "name": "Con Las Ganas",
+      "url": "https://open.spotify.com/track/7gfZYsX0TVWf6RlMOyV9RB"
     },
     {
       "added_at": null,
@@ -523,26 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Su Amor (with KURT)",
-        "url": "https://open.spotify.com/album/0hj1gYgviTYvdi2nRxyMzP"
-      },
-      "artists": [
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        },
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 221336,
-      "name": "Por Su Amor (with KURT)",
-      "url": "https://open.spotify.com/track/4YdQIvvHkj5jzcFUURKHe3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Medio De Este Ruido",
         "url": "https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj"
       },
@@ -575,6 +595,26 @@
       "duration_ms": 217373,
       "name": "Nadie Nos Entiende",
       "url": "https://open.spotify.com/track/1NBLwD8aj37OfbnkBZuwxc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Su Amor (with KURT)",
+        "url": "https://open.spotify.com/album/0hj1gYgviTYvdi2nRxyMzP"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 221336,
+      "name": "Por Su Amor (with KURT)",
+      "url": "https://open.spotify.com/track/4YdQIvvHkj5jzcFUURKHe3"
     },
     {
       "added_at": null,
@@ -671,22 +711,6 @@
       "duration_ms": 174106,
       "name": "Amanec\u00ed Nublado",
       "url": "https://open.spotify.com/track/2K6QLnzA48e8G1fqR6RTYV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Medio De Este Ruido",
-        "url": "https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 239320,
-      "name": "Doler\u00e1",
-      "url": "https://open.spotify.com/track/4ai1InCLeygWk2dwvvYCpX"
     },
     {
       "added_at": null,

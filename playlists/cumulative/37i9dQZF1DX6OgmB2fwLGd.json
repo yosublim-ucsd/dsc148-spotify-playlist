@@ -2393,6 +2393,28 @@
     },
     {
       "album": {
+        "name": "GEMINI!",
+        "url": "https://open.spotify.com/album/1oocvwkq7m9gmJma0SceUi"
+      },
+      "artists": [
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169933,
+      "name": "BIGGAVEL",
+      "url": "https://open.spotify.com/track/4fZBMzTZjq7Z9f5y7bAGTi"
+    },
+    {
+      "album": {
         "name": "Bikini Bottom",
         "url": "https://open.spotify.com/album/3moo248lwSwzx1I3G7PmVq"
       },
@@ -7394,7 +7416,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 142941,
       "name": "Gunz in SOHO",
       "url": "https://open.spotify.com/track/3mNw70F0wDJXItFYEoQ56L"
@@ -10307,6 +10329,24 @@
     },
     {
       "album": {
+        "name": "LAY UP",
+        "url": "https://open.spotify.com/album/3R0pXQrTfkcoMlyVINpoAV"
+      },
+      "artists": [
+        {
+          "name": "Cochise",
+          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162315,
+      "name": "LAY UP",
+      "url": "https://open.spotify.com/track/76My5QFcDYRPsg6uL7vPIf"
+    },
+    {
+      "album": {
         "name": "Lean Beef Patty",
         "url": "https://open.spotify.com/album/5ee7NlaQZi5TYOXRghp04b"
       },
@@ -10660,7 +10700,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 151839,
       "name": "light! (with Lil Nas X & 9lives)",
       "url": "https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj"
@@ -13066,7 +13106,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 118698,
       "name": "OLD TUNES",
       "url": "https://open.spotify.com/track/0Gym2BGsLU15iFSVhMQ3sD"
@@ -14732,6 +14772,24 @@
       "duration_ms": 213287,
       "name": "Ready (feat. Gunna)",
       "url": "https://open.spotify.com/track/4F6yN5FsFW10Ucx7cLCzBh"
+    },
+    {
+      "album": {
+        "name": "#gigi",
+        "url": "https://open.spotify.com/album/5yYtz3hPgOc2XAh5eDjDBa"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142227,
+      "name": "real feel",
+      "url": "https://open.spotify.com/track/7fShwQkgkUYrL6GttNjHTb"
     },
     {
       "album": {

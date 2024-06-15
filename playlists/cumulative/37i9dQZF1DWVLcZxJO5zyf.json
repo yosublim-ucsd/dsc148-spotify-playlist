@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Ou\u00e7a todas as novidades e hits do pop br aqui e agora! Foto: IZA \u2764\ufe0f Yuri",
+  "description": "Ou\u00e7a todas as novidades e hits do pop br aqui e agora! Foto: J\u00c3O",
   "name": "Pop Brasil",
   "tracks": [
     {
@@ -382,6 +382,24 @@
       "duration_ms": 177493,
       "name": "Amor Sem Pausa",
       "url": "https://open.spotify.com/track/78zJu5FmCBkPGhbHnmAL1t"
+    },
+    {
+      "album": {
+        "name": "Amor Traumatizado",
+        "url": "https://open.spotify.com/album/1mn2Kwp5yl0ztp2JkPGnKB"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190858,
+      "name": "Amor Traumatizado",
+      "url": "https://open.spotify.com/track/6Tlsi4Nx5kVBkjKnAwxZVH"
     },
     {
       "album": {
@@ -1746,7 +1764,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 138796,
       "name": "Doce Boy",
       "url": "https://open.spotify.com/track/56UFY8s74kaEkBSsFhSiJA"
@@ -3536,7 +3554,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 220381,
       "name": "NA TUA CABE\u00c7A",
       "url": "https://open.spotify.com/track/7Mu4XSS2eqoUUrWDkJjQJD"
@@ -3782,6 +3800,24 @@
       "duration_ms": 180747,
       "name": "N\u00e3o Te Amo",
       "url": "https://open.spotify.com/track/4NIOFeptzAsbkOUnyBE6FY"
+    },
+    {
+      "album": {
+        "name": "SUPERNOVA",
+        "url": "https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212608,
+      "name": "O Triste \u00c9 Que Eu Te Amo",
+      "url": "https://open.spotify.com/track/3XlPD6JLXbfqqrlAk4zB2w"
     },
     {
       "album": {

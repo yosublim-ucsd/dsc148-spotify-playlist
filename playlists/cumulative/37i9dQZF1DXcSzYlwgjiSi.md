@@ -4,7 +4,7 @@
 
 > The perfect soundtrack for a day on the water.
 
-284 songs - 15 hr 36 min
+285 songs - 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Drink In My Hand](https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Chief](https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF) | 3:11 | 2021-06-18 |  |
 | [Drinkaby](https://open.spotify.com/track/3lg4wfPFpFLapRp2SiQQGd) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Drinkaby](https://open.spotify.com/album/7aMF2CCGWFppLNwMZzGnY6) | 3:02 | 2023-05-19 |  |
 | [Drinkin' Beer\. Talkin' God\. Amen\. \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/1UYfAU2bwgjaM5rIIPQleC) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Drinkin' Beer\. Talkin' God\. Amen\. \(feat\. Florida Georgia Line\)](https://open.spotify.com/album/5H6lxubLtZamdoXEmVmcbz) | 2:40 | 2021-08-06 |  |
+| [Drinkin' Buddies](https://open.spotify.com/track/4OlwATEogDh1BfEoWsRpeC) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk), [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Drinkin' Buddies](https://open.spotify.com/album/7mf5bckIwzkxhUVpoC6IWN) | 3:17 | 2024-06-14 |  |
 | [Drinkin’ Beer\. Talkin’ God\. Amen\. \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/0rOVgtieEk5SoypbulRiKI) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [The Album](https://open.spotify.com/album/5XZ317tmx2xF9ikD4nKusw) | 2:40 | 2023-09-22 | 2024-04-19 |
 | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ) | 4:05 | 2021-06-18 |  |
 | [Drunk On A Boat](https://open.spotify.com/track/7iT7JnPMgxM84mShJNFW8q) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Drunk On A Boat](https://open.spotify.com/album/493qNxg0vKHA4eNEKc0OrA) | 3:12 | 2021-10-08 | 2023-03-16 |

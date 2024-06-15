@@ -4,7 +4,7 @@
 
 > Escute Raphaela Santos e mais mulheres no volume máximo! Co\-curadoria com Raphaela Santos
 
-1,061 songs - 2 day 6 hr 30 min
+1,062 songs - 2 day 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -706,6 +706,7 @@
 | [OLHAR HD](https://open.spotify.com/track/0MKn146xdKs9Gnwtkfl0fB) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Olhar HD](https://open.spotify.com/album/5eAdKrXdGOxJEMmL1gucTv) | 2:47 | 2024-03-06 | 2024-04-04 |
 | [Olhares](https://open.spotify.com/track/03DcWiozvn24lYolc4uYko) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3) | [Glória](https://open.spotify.com/album/5CzkyEDf1muZQdpv3Lvc5q) | 2:14 | 2022-04-06 | 2022-05-05 |
 | [Olho no Gato](https://open.spotify.com/track/6ZwMZUgN277HqoWaSZoFtX) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Vício Inerente](https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr) | 3:39 | 2023-05-03 | 2023-06-01 |
+| [Ondas Voltam Pro Mar](https://open.spotify.com/track/7xaseKeBTdAtb6wr5E1ANu) | [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [Ondas Voltam Pro Mar](https://open.spotify.com/album/1K36bCOMvKKesXv8CCIBVb) | 3:11 | 2024-06-14 |  |
 | [Onde Anda Você](https://open.spotify.com/track/2EOi7E2OSBAytoumN3w2zQ) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Mart'nália Canta Vinicius de Moraes](https://open.spotify.com/album/4rPbnhTZcr97ZgoOnEwaeB) | 3:16 | 2022-05-04 | 2022-06-01 |
 | [One Time](https://open.spotify.com/track/5gIJmws4seQ2IFy8lJ3sE1) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [One Time](https://open.spotify.com/album/4rjOriodyXvpjXWJKDMNWM) | 2:46 | 2022-03-08 | 2022-12-01 |
 | [Opará](https://open.spotify.com/track/51BrTVWQ6qhfJTGJ7A0c0o) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Purakê](https://open.spotify.com/album/2DWVAxnTI2Kndn8KaWVrFe) | 3:10 | 2022-02-03 | 2022-03-09 |

@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "HARD",
+        "url": "https://open.spotify.com/album/3b1SWPjpkf4jEDtnNQdfu4"
+      },
+      "artists": [
+        {
+          "name": "Tove Styrke",
+          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177543,
+      "name": "24H",
+      "url": "https://open.spotify.com/track/2y8yrskJa34zsdKhdotgk2"
+    },
+    {
+      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -894,6 +912,24 @@
       "duration_ms": 228507,
       "name": "Bed on Fire",
       "url": "https://open.spotify.com/track/1Qbh6UdiFpmdwRwNty6ISh"
+    },
+    {
+      "album": {
+        "name": "Divinely Uninspired To A Hellish Extent (Extended Edition)",
+        "url": "https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215106,
+      "name": "Before You Go",
+      "url": "https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP"
     },
     {
       "album": {
@@ -3639,6 +3675,24 @@
     },
     {
       "album": {
+        "name": "Good Times",
+        "url": "https://open.spotify.com/album/30IkUlyQDDF1kuobmVCSBo"
+      },
+      "artists": [
+        {
+          "name": "Non\u00f4",
+          "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113149,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/07QCSa14E5bfOOkTXR7oLD"
+    },
+    {
+      "album": {
         "name": "Greasy, Like Corn On The Cob, Mad Butter and Onion Rings",
         "url": "https://open.spotify.com/album/3uXHcQWJx4yXgzFI8qCc1h"
       },
@@ -4200,7 +4254,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 147733,
       "name": "Hot Fever Dream",
       "url": "https://open.spotify.com/track/3bivI0NycEM5Q9uzfmFulF"
@@ -6386,7 +6440,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 229346,
       "name": "Loveher",
       "url": "https://open.spotify.com/track/75PNzduM0yViwNeye50xdP"
@@ -7039,6 +7093,24 @@
     },
     {
       "album": {
+        "name": "On My Knees",
+        "url": "https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261001,
+      "name": "On My Knees",
+      "url": "https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT"
+    },
+    {
+      "album": {
         "name": "One More Time",
         "url": "https://open.spotify.com/album/32INDtZDynyEP0PqpLiOog"
       },
@@ -7094,6 +7166,28 @@
       "duration_ms": 172266,
       "name": "Only You",
       "url": "https://open.spotify.com/track/3eNRpOVS82tR5p9KWxzoHF"
+    },
+    {
+      "album": {
+        "name": "Oo La La",
+        "url": "https://open.spotify.com/album/0e1DmvUvUDzLCSjSc72KUj"
+      },
+      "artists": [
+        {
+          "name": "The Mondays",
+          "url": "https://open.spotify.com/artist/2OIegVYrdsA82KbWYcW2lq"
+        },
+        {
+          "name": "LiTTiE",
+          "url": "https://open.spotify.com/artist/40IENPTKJviFjvPGrlBD8p"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169218,
+      "name": "Oo La La",
+      "url": "https://open.spotify.com/track/6SBBp9d7ntU5P4Vo5eVnMS"
     },
     {
       "album": {
@@ -7268,7 +7362,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 158582,
       "name": "People Happy",
       "url": "https://open.spotify.com/track/7afcFEV1xMYlzeE4kyrYCH"
@@ -7964,7 +8058,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 207750,
       "name": "Run",
       "url": "https://open.spotify.com/track/6UNe4IwUq0fRBQIFWY7cUZ"
@@ -8362,6 +8456,24 @@
       "duration_ms": 153447,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/0a7ECrkynDauNbc6wQ6ilz"
+    },
+    {
+      "album": {
+        "name": "Light It Up",
+        "url": "https://open.spotify.com/album/7wENOZTdyikQ9PGqj2P2u9"
+      },
+      "artists": [
+        {
+          "name": "REIMS",
+          "url": "https://open.spotify.com/artist/3sbhS05fQerlXJSubVoIbX"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167938,
+      "name": "Showdown",
+      "url": "https://open.spotify.com/track/6us1mHKDpUq2AyZRwD5aNq"
     },
     {
       "album": {
@@ -9815,6 +9927,24 @@
     },
     {
       "album": {
+        "name": "Triumph",
+        "url": "https://open.spotify.com/album/6gnZgEs6IZaBrJWO8I6HSb"
+      },
+      "artists": [
+        {
+          "name": "Bishop Briggs",
+          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158115,
+      "name": "Triumph",
+      "url": "https://open.spotify.com/track/7lSTs6DLjCP2oqib43vyGB"
+    },
+    {
+      "album": {
         "name": "Royalty",
         "url": "https://open.spotify.com/album/5TOLSaeyDW7CyJyIRd9aYw"
       },
@@ -10008,6 +10138,24 @@
       "duration_ms": 234411,
       "name": "Unholy (feat. Kim Petras) - Disclosure Remix",
       "url": "https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5"
+    },
+    {
+      "album": {
+        "name": "I Am the Reckoning",
+        "url": "https://open.spotify.com/album/0cK0jcSjcI7leJ3JhZGHzb"
+      },
+      "artists": [
+        {
+          "name": "Saint Wander",
+          "url": "https://open.spotify.com/artist/0foG1Pg4vI16qm8TaiFRPr"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208040,
+      "name": "Unsteady Ground",
+      "url": "https://open.spotify.com/track/2fdyrZcYRdvIKbEKRrAIi8"
     },
     {
       "album": {

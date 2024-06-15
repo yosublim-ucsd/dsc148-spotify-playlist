@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj?si=FUu68y5zTUi3z0mgiu4pjg\">Year of Dogs</a> ",
+  "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/5LeZoIsr3HTDipdWQbiAfo?si=_B_mifL5R3OfpUUPLAePZQ\">ARD matthews</a> ",
   "name": "Indie GO",
   "tracks": [
     {
@@ -6214,7 +6214,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 221679,
       "name": "Just Life",
       "url": "https://open.spotify.com/track/3Lrfiqxkt9RCijqvqnmxbE"
@@ -13506,6 +13506,24 @@
       "duration_ms": 209293,
       "name": "You Belong To Me",
       "url": "https://open.spotify.com/track/0GwY3N9lLgnkH5C2i3Xi3G"
+    },
+    {
+      "album": {
+        "name": "You Make It Alright",
+        "url": "https://open.spotify.com/album/0IzSX4HGvkb9uJ5erwToSG"
+      },
+      "artists": [
+        {
+          "name": "ARD matthews",
+          "url": "https://open.spotify.com/artist/5LeZoIsr3HTDipdWQbiAfo"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238828,
+      "name": "You Make It Alright",
+      "url": "https://open.spotify.com/track/1oOMo7oBoG0lDFKDEjC8ZS"
     },
     {
       "album": {

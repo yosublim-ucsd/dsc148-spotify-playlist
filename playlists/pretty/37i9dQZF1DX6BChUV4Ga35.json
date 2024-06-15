@@ -1,13 +1,29 @@
 {
   "description": "Your family can visit all of the animals at the zoo with this fun playlist.",
-  "num_followers": 25873,
+  "num_followers": 25912,
   "original_name": "At The Zoo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZllLQAAAAAAw7Z14SDQi9TQ7sSyR6lP3",
+  "snapshot_id": "ZmvAQAAAAACRQcNwvGeoFRxjx23sCptZ",
   "tracks": [
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Working Out at the Zoo",
+        "url": "https://open.spotify.com/album/0Y2zDFFVrkSU9I5yFM82wz"
+      },
+      "artists": [
+        {
+          "name": "Bounce Patrol",
+          "url": "https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm"
+        }
+      ],
+      "duration_ms": 214879,
+      "name": "Working Out at the Zoo",
+      "url": "https://open.spotify.com/track/2YZFI6nXasmLNqGjHtQg4K"
+    },
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {

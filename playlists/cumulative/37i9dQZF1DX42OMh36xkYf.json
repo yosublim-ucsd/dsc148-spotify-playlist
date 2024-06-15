@@ -136,7 +136,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 327064,
       "name": "Antes De Partir",
       "url": "https://open.spotify.com/track/2mbxifzlODJWwSG5O6LMuY"
@@ -583,6 +583,28 @@
     },
     {
       "album": {
+        "name": "Con la vida al centro",
+        "url": "https://open.spotify.com/album/1OROJufh2WokWE8aMzNlDm"
+      },
+      "artists": [
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        },
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172418,
+      "name": "Con la vida al centro",
+      "url": "https://open.spotify.com/track/0TCDtpmn2uLtQzrLZikIKR"
+    },
+    {
+      "album": {
         "name": "Cuando Te Tengo Cerca (Sesi\u00f3n en Vivo)",
         "url": "https://open.spotify.com/album/2j6E3OLYfVWhLxxIg6dooN"
       },
@@ -732,6 +754,28 @@
       "duration_ms": 226500,
       "name": "El Amor Se Fue de Repente",
       "url": "https://open.spotify.com/track/7Kt2X9nFAr7v6lHqclet9m"
+    },
+    {
+      "album": {
+        "name": "El Big Bang",
+        "url": "https://open.spotify.com/album/21sw5hm7AanjSg7mZrBYxz"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        },
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243830,
+      "name": "El Big Bang",
+      "url": "https://open.spotify.com/track/61svvvUEUPodjZvXhXv74e"
     },
     {
       "album": {
@@ -2220,7 +2264,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 235565,
       "name": "relevante",
       "url": "https://open.spotify.com/track/5MsdSGMDYL4vPzoesYcOYt"

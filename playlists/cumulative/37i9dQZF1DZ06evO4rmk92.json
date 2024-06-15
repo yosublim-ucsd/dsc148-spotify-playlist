@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-06-13",
-  "description": "This is Nat King Cole. The essential tracks, all in one playlist.",
+  "description": "This Is Nat King Cole. Los temas esenciales, todos en una lista.",
   "name": "This Is Nat King Cole",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 184466,
       "name": "(I Love You) For Sentimental Reasons",
       "url": "https://open.spotify.com/track/5QnCtH7euld6R68UwcWrte"
@@ -56,6 +56,24 @@
       "duration_ms": 128143,
       "name": "A Media Luz",
       "url": "https://open.spotify.com/track/0jcUpAvfTUzMdcupbgro5S"
+    },
+    {
+      "album": {
+        "name": "The Touch Of Your Lips",
+        "url": "https://open.spotify.com/album/0ec54Pa8SjLsJT94qqK9TU"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286173,
+      "name": "A Nightingale Sang In Berkeley Square",
+      "url": "https://open.spotify.com/track/0XboALCVOmAxzi5JEZHytz"
     },
     {
       "album": {
@@ -117,6 +135,24 @@
     },
     {
       "album": {
+        "name": "The Unforgettable Nat King Cole Sings The Great Songs",
+        "url": "https://open.spotify.com/album/7oQLfatdzvZL4SXboy7LiZ"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "An Affair To Remember",
+      "url": "https://open.spotify.com/track/2Iu8YgkRJNQgqkYnYJ46nv"
+    },
+    {
+      "album": {
         "name": "The Nat King Cole Story",
         "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
       },
@@ -128,7 +164,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 175600,
       "name": "Answer Me, My Love",
       "url": "https://open.spotify.com/track/4i7bU18iUPKxPMrld9W48M"
@@ -146,7 +182,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 133066,
       "name": "Aquellos Ojos Verdes",
       "url": "https://open.spotify.com/track/35uu4l4jYnCLMh88URXqoX"
@@ -168,6 +204,24 @@
       "duration_ms": 154026,
       "name": "Around The World - Remastered",
       "url": "https://open.spotify.com/track/3ps7CQq1zNxAvbXMgHfypY"
+    },
+    {
+      "album": {
+        "name": "Cole Espanol",
+        "url": "https://open.spotify.com/album/6jr4Juj3htePZkpPcg7M0p"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166453,
+      "name": "Arrivederci Roma",
+      "url": "https://open.spotify.com/track/0MOHEhz9GzKd5kMZxtfH4C"
     },
     {
       "album": {
@@ -248,10 +302,28 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 148106,
       "name": "Capullito De Aleli",
       "url": "https://open.spotify.com/track/0dzxDcTxjzqkQlXq1CWwcv"
+    },
+    {
+      "album": {
+        "name": "From The Capitol Vaults (Vol. 1)",
+        "url": "https://open.spotify.com/album/3pYZK02cKFCRUKZ2zemgzk"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179510,
+      "name": "Easter Sunday Morning",
+      "url": "https://open.spotify.com/track/3LB8JR4c3rYEHfQT3Px4Iq"
     },
     {
       "album": {
@@ -266,7 +338,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 144293,
       "name": "El Bodeguero (Grocer's Cha-Cha)",
       "url": "https://open.spotify.com/track/4DfK9livSlasQjziFFVEql"
@@ -306,6 +378,28 @@
       "duration_ms": 148200,
       "name": "Fascination",
       "url": "https://open.spotify.com/track/5RkRXGGRP33dTkap9loPcT"
+    },
+    {
+      "album": {
+        "name": "Nat King Cole Sings George Shearing Plays",
+        "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        },
+        {
+          "name": "George Shearing",
+          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211173,
+      "name": "Fly Me To The Moon (In Other Words)",
+      "url": "https://open.spotify.com/track/2waiAcLQiqlX5bzvLtNUA0"
     },
     {
       "album": {
@@ -446,7 +540,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 135080,
       "name": "Just One Of Those Things",
       "url": "https://open.spotify.com/track/07KWDsIcRU6r5Ej273QCY3"
@@ -482,7 +576,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 165973,
       "name": "Let There Be Love",
       "url": "https://open.spotify.com/track/7AL1pxI9IwHoXs98G0T8cC"
@@ -500,7 +594,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 144560,
       "name": "Let's Face The Music And Dance",
       "url": "https://open.spotify.com/track/6L4rp9CET9EwPyB33b110Q"
@@ -518,7 +612,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 168520,
       "name": "Let's Fall In Love",
       "url": "https://open.spotify.com/track/6Zis3c4TSJHeBkivT2tMzY"
@@ -536,7 +630,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 164573,
       "name": "Love Letters",
       "url": "https://open.spotify.com/track/5SVYNJjplfUnaaknWcLvPm"
@@ -562,7 +656,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 253506,
       "name": "Mean To Me",
       "url": "https://open.spotify.com/track/2h0pcrwhB7xIBWWHqz1W8f"
@@ -641,6 +735,24 @@
     },
     {
       "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153866,
+      "name": "Orange Colored Sky",
+      "url": "https://open.spotify.com/track/6fUDNcmsnnUVyOtEnA9xdC"
+    },
+    {
+      "album": {
         "name": "More Cole Espa\u00f1ol",
         "url": "https://open.spotify.com/album/2MNgRvW32ijISrmFNiCxRr"
       },
@@ -706,7 +818,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 179093,
       "name": "Smile - Mono / 1954 Version / Remastered 1992",
       "url": "https://open.spotify.com/track/0WNsDyndBS63qBMxbZ9OHR"
@@ -724,7 +836,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 165720,
       "name": "Solamente Una Vez",
       "url": "https://open.spotify.com/track/4CzO5nlZdaoa331G9qfpIV"
@@ -742,7 +854,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 129066,
       "name": "Something Makes Me Want To Dance With You",
       "url": "https://open.spotify.com/track/0KeoqUC0VjgxCmJWtSExsD"
@@ -778,10 +890,28 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 160680,
       "name": "Te Quiero Dijiste",
       "url": "https://open.spotify.com/track/5XaRuenP7XjJt1IjWrw49J"
+    },
+    {
+      "album": {
+        "name": "Sings For Two In Love",
+        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177506,
+      "name": "Tenderly - Remastered",
+      "url": "https://open.spotify.com/track/1ufl86TmFCzPuoIJzPCJlU"
     },
     {
       "album": {
@@ -814,7 +944,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 179666,
       "name": "That's All - Remastered",
       "url": "https://open.spotify.com/track/5ru3nEtJjwEGjzPq3si0de"
@@ -858,7 +988,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 205786,
       "name": "The More I See You",
       "url": "https://open.spotify.com/track/64VKSHhJmNdA5sC46RSKTp"
@@ -930,7 +1060,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 145013,
       "name": "Those Lazy, Hazy, Crazy Days Of Summer",
       "url": "https://open.spotify.com/track/0ItlbY5mHDSYQd3SOgAlZu"
@@ -948,7 +1078,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 136093,
       "name": "Three Little Words",
       "url": "https://open.spotify.com/track/6J1oewqsGoNwIyTUv88E7O"
@@ -970,6 +1100,24 @@
       "duration_ms": 145226,
       "name": "To The Ends Of The Earth - Remastered",
       "url": "https://open.spotify.com/track/44QpcUOhq2u0GNzfvO1WBm"
+    },
+    {
+      "album": {
+        "name": "More Cole Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/2MNgRvW32ijISrmFNiCxRr"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125800,
+      "name": "Tres Palabras",
+      "url": "https://open.spotify.com/track/5KN5TBU6dbz9I8oP2bUmZq"
     },
     {
       "album": {
@@ -1158,7 +1306,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 172040,
       "name": "You Made Me Love You (I Didn't Want To Do It) - Remastered",
       "url": "https://open.spotify.com/track/7LPVWfMHGxawDxNzppoHOZ"
@@ -1212,7 +1360,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 169760,
       "name": "You're My Everything",
       "url": "https://open.spotify.com/track/0TRQeUKT5X3gWA4LUZsrvc"
@@ -1248,7 +1396,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 189560,
       "name": "\u2019Tis Autumn",
       "url": "https://open.spotify.com/track/6sQruAh3HYroK1zT8PUrea"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Leaders of the new school...Alternative R&B. Cover: Moses Sumney",
+  "description": "Leaders of the new school...Alternative R&B. Cover: Fana Hues",
   "name": "Vanguard",
   "tracks": [
     {
@@ -1120,6 +1120,24 @@
       "duration_ms": 226278,
       "name": "Alone With You",
       "url": "https://open.spotify.com/track/0jHVNBt8A9L8qEAB8XxGuB"
+    },
+    {
+      "album": {
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/70L7Lav25m2IILlSSXnN1A"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228040,
+      "name": "Already Gone",
+      "url": "https://open.spotify.com/track/6QrQIAcvX1OZ0UrOjj2mrJ"
     },
     {
       "album": {
@@ -3685,6 +3703,28 @@
     },
     {
       "album": {
+        "name": "CH3RRY (with N3WYRKLA)",
+        "url": "https://open.spotify.com/album/2vF7GDeoe5WHov70CdTz05"
+      },
+      "artists": [
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "N3WYRKLA",
+          "url": "https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177479,
+      "name": "CH3RRY (with N3WYRKLA)",
+      "url": "https://open.spotify.com/track/6xoyoWN5fdxLcq84nKlr57"
+    },
+    {
+      "album": {
         "name": "i hope u see this",
         "url": "https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P"
       },
@@ -5737,6 +5777,24 @@
     },
     {
       "album": {
+        "name": "Moth",
+        "url": "https://open.spotify.com/album/3QYrEoeYrBdBNrtsuoCor7"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159027,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/54L1OJ4RopFVYymnXbNvYw"
+    },
+    {
+      "album": {
         "name": "Down",
         "url": "https://open.spotify.com/album/6YHnY9KcwLKtXabds5NUFQ"
       },
@@ -6014,7 +6072,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 201218,
       "name": "Ellipsis",
       "url": "https://open.spotify.com/track/1tneXzol13bt8PkPTPMsS7"
@@ -6308,6 +6366,28 @@
       "duration_ms": 228000,
       "name": "Everybody's Gotta Learn Sometimes",
       "url": "https://open.spotify.com/track/1NIsLZ5LgLUccEM6XGWYRw"
+    },
+    {
+      "album": {
+        "name": "BILLY",
+        "url": "https://open.spotify.com/album/1rma34mRY4zuSyxr3h2rvT"
+      },
+      "artists": [
+        {
+          "name": "SWAVAY",
+          "url": "https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK"
+        },
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186254,
+      "name": "EVERYTHING (feat. Chase Shakur)",
+      "url": "https://open.spotify.com/track/15o9LQkVjPy9R8GaDa8k5D"
     },
     {
       "album": {
@@ -6813,6 +6893,24 @@
     },
     {
       "album": {
+        "name": "Cruzafied",
+        "url": "https://open.spotify.com/album/1QZpj0VyOifnOFn49qEeKv"
+      },
+      "artists": [
+        {
+          "name": "Cruza",
+          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217600,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/1KUAR4EL6XLMwQKjnKhVRn"
+    },
+    {
+      "album": {
         "name": "fitt (with Amaarae)",
         "url": "https://open.spotify.com/album/0rcevx17L0BaFLryqgEQZo"
       },
@@ -7042,7 +7140,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 138857,
       "name": "For One Last Time",
       "url": "https://open.spotify.com/track/7y2odCmGElDDfYzB7a3RCT"
@@ -7420,7 +7518,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 177600,
       "name": "FWT",
       "url": "https://open.spotify.com/track/1SYt4DjJdoSs7W4fB6aLKd"
@@ -9184,7 +9282,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 195257,
       "name": "HONEY (feat. bLAck pARty)",
       "url": "https://open.spotify.com/track/6jTytYwbjNGK0dRQMSJZRq"
@@ -11938,7 +12036,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 273010,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/4wh9zdYIV6gn4ATOQAnyK6"
@@ -12496,7 +12594,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 185314,
       "name": "Mariah",
       "url": "https://open.spotify.com/track/2Mi6o1VgvjnJa31yrPT3UC"
@@ -15812,7 +15910,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 149189,
       "name": "Pulp Jam (feat. Mamii)",
       "url": "https://open.spotify.com/track/3CarOVyNEOcK89v0o3elHk"
@@ -19121,6 +19219,24 @@
     },
     {
       "album": {
+        "name": "Moth",
+        "url": "https://open.spotify.com/album/3QYrEoeYrBdBNrtsuoCor7"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219861,
+      "name": "Sweet Like",
+      "url": "https://open.spotify.com/track/6Hj7gXUzQreDfSozI4QwbQ"
+    },
+    {
+      "album": {
         "name": "sweet thing",
         "url": "https://open.spotify.com/album/4bBfdqQvPwbwKcxt7fXzpz"
       },
@@ -19398,6 +19514,28 @@
       "duration_ms": 148181,
       "name": "TANTRUM!",
       "url": "https://open.spotify.com/track/2qOKYK813gVCIENtN27Ndv"
+    },
+    {
+      "album": {
+        "name": "DOPAMINE",
+        "url": "https://open.spotify.com/album/1XSUdSojWNJCgNqKNxfcVr"
+      },
+      "artists": [
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        },
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190412,
+      "name": "Tantrums (feat. James Blake)",
+      "url": "https://open.spotify.com/track/13emOZj9lqqVJg4JJ7ABBi"
     },
     {
       "album": {

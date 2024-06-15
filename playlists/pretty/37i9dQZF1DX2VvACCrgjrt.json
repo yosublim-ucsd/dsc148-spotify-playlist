@@ -1,12 +1,12 @@
 {
   "description": "Real nasty house with Julian Jordan",
-  "num_followers": 444717,
+  "num_followers": 444738,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmKFwAAAAABEoXPmElugAJa6CGlsYsvb",
+  "snapshot_id": "ZmvAQAAAAACxLD+UcfXh1fs96+CzCAad",
   "tracks": [
     {
       "added_at": "2024-04-26 04:00:00",
@@ -117,20 +117,28 @@
       "url": "https://open.spotify.com/track/5N0p6vaK1JC1C6T6raVb8w"
     },
     {
-      "added_at": "2024-06-07 04:00:00",
+      "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Basslevel",
-        "url": "https://open.spotify.com/album/2OdHr6Qn8JmGrLaFcZ4w5i"
+        "name": "Tech Phonk",
+        "url": "https://open.spotify.com/album/77WEJ0P9dlOSZNhco4LxRV"
       },
       "artists": [
         {
-          "name": "OKAYVAL",
-          "url": "https://open.spotify.com/artist/41TOOGX3nHghrVvmDJDHhQ"
+          "name": "Raven & Kreyn",
+          "url": "https://open.spotify.com/artist/6STjC3QJTieuM5WHHtkGuh"
+        },
+        {
+          "name": "KDH",
+          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
+        },
+        {
+          "name": "Pure Cold",
+          "url": "https://open.spotify.com/artist/63xJ8YYPv8AtvO8sj3ssLI"
         }
       ],
-      "duration_ms": 184687,
-      "name": "Basslevel",
-      "url": "https://open.spotify.com/track/2BbacBpFmPnpeDmzNKbxfM"
+      "duration_ms": 122880,
+      "name": "Tech Phonk",
+      "url": "https://open.spotify.com/track/2EyE6jwl6HC7yhkaPJbH8R"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -389,20 +397,20 @@
       "url": "https://open.spotify.com/track/5dxiZJLeZPChBTvAbOfwXT"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Skank and Rave",
-        "url": "https://open.spotify.com/album/1XyRpYEMgYQvh44L7EVlpk"
+        "name": "Basslevel",
+        "url": "https://open.spotify.com/album/2OdHr6Qn8JmGrLaFcZ4w5i"
       },
       "artists": [
         {
-          "name": "Where It's ATT",
-          "url": "https://open.spotify.com/artist/6sMtJ7VjiMiflyZCnTxEcD"
+          "name": "OKAYVAL",
+          "url": "https://open.spotify.com/artist/41TOOGX3nHghrVvmDJDHhQ"
         }
       ],
-      "duration_ms": 151634,
-      "name": "Skank and Rave",
-      "url": "https://open.spotify.com/track/5RxHbiXTa9mwjYDQ6mjhSM"
+      "duration_ms": 184687,
+      "name": "Basslevel",
+      "url": "https://open.spotify.com/track/2BbacBpFmPnpeDmzNKbxfM"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1013,24 +1021,20 @@
       "url": "https://open.spotify.com/track/2HLAnzeY4r794YnCq2JlgN"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "BAD",
-        "url": "https://open.spotify.com/album/6BjhnTo2M4j5u5wDZEJzwN"
+        "name": "Skank and Rave",
+        "url": "https://open.spotify.com/album/1XyRpYEMgYQvh44L7EVlpk"
       },
       "artists": [
         {
-          "name": "Cheyenne Giles",
-          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
-        },
-        {
-          "name": "ALRT",
-          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
+          "name": "Where It's ATT",
+          "url": "https://open.spotify.com/artist/6sMtJ7VjiMiflyZCnTxEcD"
         }
       ],
-      "duration_ms": 173571,
-      "name": "BAD",
-      "url": "https://open.spotify.com/track/79rtchRTWKO4AjVKzIAgMy"
+      "duration_ms": 151634,
+      "name": "Skank and Rave",
+      "url": "https://open.spotify.com/track/5RxHbiXTa9mwjYDQ6mjhSM"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1713,6 +1717,26 @@
       "url": "https://open.spotify.com/track/1emuD0fT5F0ZnZLcoscLQO"
     },
     {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "BAD",
+        "url": "https://open.spotify.com/album/6BjhnTo2M4j5u5wDZEJzwN"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+        },
+        {
+          "name": "ALRT",
+          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
+        }
+      ],
+      "duration_ms": 173571,
+      "name": "BAD",
+      "url": "https://open.spotify.com/track/79rtchRTWKO4AjVKzIAgMy"
+    },
+    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Cheeky Little Club Banger",
@@ -1807,26 +1831,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Turn Up The Volume",
-        "url": "https://open.spotify.com/album/1VZIx8VbOceGLo2snGw5im"
-      },
-      "artists": [
-        {
-          "name": "Stafford Brothers",
-          "url": "https://open.spotify.com/artist/1dnbud9cuozLQ86MtrDPFr"
-        },
-        {
-          "name": "Taylr Renee",
-          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
-        }
-      ],
-      "duration_ms": 142445,
-      "name": "Turn Up The Volume",
-      "url": "https://open.spotify.com/track/2Y6ighvPsMpW8fIfUQzYXf"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Goons",
         "url": "https://open.spotify.com/album/570lcnIjwcvVUCQAPNhOij"
       },
@@ -1863,6 +1867,26 @@
       "duration_ms": 210400,
       "name": "Full Speed (feat. Aviella)",
       "url": "https://open.spotify.com/track/5pIJ99J4vVntZgDPFZYBtw"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Turn Up The Volume",
+        "url": "https://open.spotify.com/album/1VZIx8VbOceGLo2snGw5im"
+      },
+      "artists": [
+        {
+          "name": "Stafford Brothers",
+          "url": "https://open.spotify.com/artist/1dnbud9cuozLQ86MtrDPFr"
+        },
+        {
+          "name": "Taylr Renee",
+          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
+        }
+      ],
+      "duration_ms": 142445,
+      "name": "Turn Up The Volume",
+      "url": "https://open.spotify.com/track/2Y6ighvPsMpW8fIfUQzYXf"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2079,6 +2103,26 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Hit It Back",
+        "url": "https://open.spotify.com/album/2MpANhnsIZjNCpomkvODeK"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Gian Varela",
+          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
+        }
+      ],
+      "duration_ms": 138139,
+      "name": "Hit It Back",
+      "url": "https://open.spotify.com/track/7maOJYreyKXNVpSdYNoOPn"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Veni, Vidi, Vici",
         "url": "https://open.spotify.com/album/0y5X3mEY5gtzpMATESTlp8"
       },
@@ -2099,26 +2143,6 @@
       "duration_ms": 217941,
       "name": "Underground",
       "url": "https://open.spotify.com/track/0I6ho71EGsxtEEe3k1RtHT"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Hit It Back",
-        "url": "https://open.spotify.com/album/2MpANhnsIZjNCpomkvODeK"
-      },
-      "artists": [
-        {
-          "name": "Laidback Luke",
-          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
-        },
-        {
-          "name": "Gian Varela",
-          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
-        }
-      ],
-      "duration_ms": 138139,
-      "name": "Hit It Back",
-      "url": "https://open.spotify.com/track/7maOJYreyKXNVpSdYNoOPn"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -2375,30 +2399,6 @@
       "duration_ms": 243333,
       "name": "Bodymorph",
       "url": "https://open.spotify.com/track/2ThE3B5ysWddfWZ4EXWjeR"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Sara Thing EP",
-        "url": "https://open.spotify.com/album/2W8E3fxu1UA3mMMcBRYfXw"
-      },
-      "artists": [
-        {
-          "name": "Black V Neck",
-          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
-        },
-        {
-          "name": "zuezeu",
-          "url": "https://open.spotify.com/artist/3dEV8wac1UcsWRFAK3u2vQ"
-        },
-        {
-          "name": "James Cole",
-          "url": "https://open.spotify.com/artist/1SoAmGFpq2szcIOMpnkQkb"
-        }
-      ],
-      "duration_ms": 140624,
-      "name": "Sara Tonin feat. James Cole",
-      "url": "https://open.spotify.com/track/2d1J4wehBvmheclNCk5ts5"
     }
   ],
   "unique_name": "Nasty Bits",

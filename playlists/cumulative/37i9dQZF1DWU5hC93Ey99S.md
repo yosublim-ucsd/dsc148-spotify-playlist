@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-576 songs - 1 day 6 hr 51 min
+577 songs - 1 day 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [afterparty](https://open.spotify.com/track/5Yqv4XWZq1w2ECf9zLuven) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [afterparty](https://open.spotify.com/album/0pFg1h3Hq9kIdOBVhMhwM5) | 2:16 | 2024-06-06 |  |
 | [ALIVE](https://open.spotify.com/track/1eiD9V8Ypb1ASaEQrtwWNw) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC) | [ALIVE](https://open.spotify.com/album/1ZP90zyxvU4zTy6qSYLq2m) | 2:50 | 2023-12-14 |  |
 | [Alive \- Edit](https://open.spotify.com/track/6zynDuNBoBD7AITlS2htjj) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [Alive](https://open.spotify.com/album/51BR1e1klcWNZWsD5SbX4P) | 3:36 | 2023-10-05 | 2024-06-07 |
+| [All About U](https://open.spotify.com/track/6fb4twyNs3gQ0nDnkuRBwH) | [Longo](https://open.spotify.com/artist/6myydsPHqq4xmZD7DWzRjI), [Marco Lollis](https://open.spotify.com/artist/1gjNDmsEJhBAftfWPXIBzI), [Martina Corona](https://open.spotify.com/artist/58tyddZEZ2XcaKSmTV19aA) | [All About U](https://open.spotify.com/album/3GOajZbHdHZdLYsmyPozvO) | 3:06 | 2024-06-14 |  |
 | [All Good \- Jasper Tygner Remix](https://open.spotify.com/track/19FSj8Zq5ZUEF6C87rKPcH) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98), [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [All Good \(Jasper Tygner Remix\)](https://open.spotify.com/album/0l8JO6jLZBpLzcNe0vo4Ri) | 4:03 | 2023-07-21 | 2024-01-06 |
 | [All I Need](https://open.spotify.com/track/4qOErzIVJ5dGY9U0aAZhwz) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [All I Need](https://open.spotify.com/album/2nCBGeudGkR5ZYFey8Ibix) | 3:06 | 2023-04-13 | 2024-01-06 |
 | [All I Need](https://open.spotify.com/track/2N1teUVGfP3vWKKGq0ZxvH) | [NOTSOBAD](https://open.spotify.com/artist/2aLLYZ0sdqweMEPFUyYIXJ) | [All I Need](https://open.spotify.com/album/0REyCTre7WLmJnVmBDMqgN) | 3:21 | 2023-10-19 |  |

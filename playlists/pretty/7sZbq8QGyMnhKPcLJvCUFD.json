@@ -6,7 +6,7 @@
     "name": "NCS",
     "url": "https://open.spotify.com/user/nocopyrightsounds"
   },
-  "snapshot_id": "AAAWWRCLsoYTSe6LlVXa7FBVwuZ9KsWu",
+  "snapshot_id": "AAAWXoMPMXXChqm1PbGK3Wsb2v0sR91q",
   "tracks": [
     {
       "added_at": "2024-05-22 20:42:59",
@@ -121,24 +121,20 @@
       "url": "https://open.spotify.com/track/18A7ha5BitZjmdHTCwXFbU"
     },
     {
-      "added_at": "2024-05-31 09:39:34",
+      "added_at": "2024-06-14 05:27:42",
       "album": {
-        "name": "Red Lights",
-        "url": "https://open.spotify.com/album/3BKsLBIC7u8iMGlVmK6hM5"
+        "name": "DELTA",
+        "url": "https://open.spotify.com/album/6jrRtiZ11ETv5ercTeB2gH"
       },
       "artists": [
         {
-          "name": "Cafe Disko",
-          "url": "https://open.spotify.com/artist/7x6KEmSwlWNo0d628uyi7W"
-        },
-        {
-          "name": "Ella Rosa",
-          "url": "https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F"
+          "name": "DJ FKU",
+          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
         }
       ],
-      "duration_ms": 198923,
-      "name": "Red Lights",
-      "url": "https://open.spotify.com/track/2FhCYRpXmc0wMNaXnVozNh"
+      "duration_ms": 172067,
+      "name": "DELTA",
+      "url": "https://open.spotify.com/track/5NcT6HWiBiETs1mTFYXR1U"
     },
     {
       "added_at": "2024-05-22 20:42:59",
@@ -247,6 +243,26 @@
       "duration_ms": 212812,
       "name": "Never Knew Me",
       "url": "https://open.spotify.com/track/0sk6nrjHfWQZ5IvVkjTBx7"
+    },
+    {
+      "added_at": "2024-06-14 05:29:14",
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/1Ft5RQT1Yqwy4KNRR57Ack"
+      },
+      "artists": [
+        {
+          "name": "Janji",
+          "url": "https://open.spotify.com/artist/5VXPJC0PNpJbzB10A39G8E"
+        },
+        {
+          "name": "Johnning",
+          "url": "https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/1CeWw5m1PvJOAxtO6x9fD4"
     },
     {
       "added_at": "2024-05-22 20:42:59",
@@ -399,6 +415,26 @@
       "duration_ms": 194754,
       "name": "Alright",
       "url": "https://open.spotify.com/track/2pgcIWzePTTC2a99dRrTzd"
+    },
+    {
+      "added_at": "2024-05-31 09:39:34",
+      "album": {
+        "name": "Red Lights",
+        "url": "https://open.spotify.com/album/3BKsLBIC7u8iMGlVmK6hM5"
+      },
+      "artists": [
+        {
+          "name": "Cafe Disko",
+          "url": "https://open.spotify.com/artist/7x6KEmSwlWNo0d628uyi7W"
+        },
+        {
+          "name": "Ella Rosa",
+          "url": "https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F"
+        }
+      ],
+      "duration_ms": 198923,
+      "name": "Red Lights",
+      "url": "https://open.spotify.com/track/2FhCYRpXmc0wMNaXnVozNh"
     },
     {
       "added_at": "2024-05-28 10:31:33",

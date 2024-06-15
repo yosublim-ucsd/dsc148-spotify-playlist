@@ -1,12 +1,12 @@
 {
-  "description": "This Is Esteman. Los temas esenciales, todos en una lista.",
-  "num_followers": 34072,
+  "description": "This is Esteman. The essential tracks, all in one playlist.",
+  "num_followers": 34125,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjlAAAAAABLdHTpg4zXFmcKkibhqgC6",
+  "snapshot_id": "Zmo2gAAAAABYD2msk0pKsE1PKkSxGBvU",
   "tracks": [
     {
       "added_at": null,
@@ -47,22 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr.Trance (Soundtrack From The Animated Series)",
-        "url": "https://open.spotify.com/album/7osyDyziI2EhWM60gcPtlV"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 169667,
-      "name": "Mr.Trance",
-      "url": "https://open.spotify.com/track/1EmplgI51VcVtLHYOHOfHc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor Libre",
         "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 249426,
       "name": "Fuimos Amor",
       "url": "https://open.spotify.com/track/6wkPUUWrRhBUFAqC5UCcG4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr.Trance (Soundtrack From The Animated Series)",
+        "url": "https://open.spotify.com/album/7osyDyziI2EhWM60gcPtlV"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 169667,
+      "name": "Mr.Trance",
+      "url": "https://open.spotify.com/track/1EmplgI51VcVtLHYOHOfHc"
     },
     {
       "added_at": null,
@@ -147,6 +147,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amor Libre",
+        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Noche Sensorial",
+      "url": "https://open.spotify.com/track/3GezDPu1wDhp31VMqgGwox"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Noches De Verano",
         "url": "https://open.spotify.com/album/1ktGnE8t1PSzCRELZJTChF"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 186613,
       "name": "Noches De Verano",
       "url": "https://open.spotify.com/track/5LgasjuMHee4NZ4LsoaOh0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amor Libre",
-        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Noche Sensorial",
-      "url": "https://open.spotify.com/track/3GezDPu1wDhp31VMqgGwox"
     },
     {
       "added_at": null,
@@ -247,26 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00edstica",
-        "url": "https://open.spotify.com/album/4RVFmSzGSl92AyptQdhOub"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 232693,
-      "name": "M\u00edstica",
-      "url": "https://open.spotify.com/track/4YMPFghULbeUXAB4HvXqhy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Besos y Pendientes",
         "url": "https://open.spotify.com/album/0yzbu4LzWQWLA9y5E7LQsF"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 171680,
       "name": "Besos y Pendientes",
       "url": "https://open.spotify.com/track/4xxIXKRyO2t4KiPzzZvHnj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00edstica",
+        "url": "https://open.spotify.com/album/4RVFmSzGSl92AyptQdhOub"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 232693,
+      "name": "M\u00edstica",
+      "url": "https://open.spotify.com/track/4YMPFghULbeUXAB4HvXqhy"
     },
     {
       "added_at": null,
@@ -923,6 +923,26 @@
       "duration_ms": 252727,
       "name": "A qui\u00e9n le importa - Latin Pride Version by Juan Sueiro",
       "url": "https://open.spotify.com/track/1qlUwEvjwotC8lvju3rR3u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desconocidos",
+        "url": "https://open.spotify.com/album/24milmfp1Ttd2ZYjRjezWC"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Recoversi\u00f3n",
+          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
+        }
+      ],
+      "duration_ms": 195913,
+      "name": "Desconocidos",
+      "url": "https://open.spotify.com/track/2dyP9LDKtL2QpU7No6Zxri"
     },
     {
       "added_at": null,

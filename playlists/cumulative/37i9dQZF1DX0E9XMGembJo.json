@@ -3500,7 +3500,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 116630,
       "name": "Funny Thing",
       "url": "https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332"
@@ -7682,6 +7682,28 @@
       "duration_ms": 215360,
       "name": "Put Your Records On",
       "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
+    },
+    {
+      "album": {
+        "name": "Rainbow: 25th Anniversary Expanded Edition",
+        "url": "https://open.spotify.com/album/6yitEMT7G4qfIcV3jWXP8I"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "David Morales",
+          "url": "https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220410,
+      "name": "Rainbow's End",
+      "url": "https://open.spotify.com/track/7LwLIjJICFPNfeiRYFEFGV"
     },
     {
       "album": {

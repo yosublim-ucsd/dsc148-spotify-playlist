@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Rapsody
 
-650 songs - 1 day 10 hr 54 min
+651 songs - 1 day 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Burning Bush](https://open.spotify.com/track/3yDZ1IIFMsNbbe1NIUn53q) | [GRIP](https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP), [Kenny Mason](https://open.spotify.com/artist/5NFQr1KZQS9V6SDSrmU0q3) | [Burning Bush](https://open.spotify.com/album/5YKN83sKhEwwVxCt8UX9kB) | 3:31 | 2021-09-03 | 2022-03-18 |
 | [Burning Desire](https://open.spotify.com/track/2KKrlVEhlXqfrLR1okapHp) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [Burning Desire](https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9) | 1:48 | 2023-10-13 | 2024-04-29 |
 | [BUZZCUT \(feat\. Danny Brown\)](https://open.spotify.com/track/3uOIoS7lOvzQAtbbyttHp6) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [BUZZCUT \(feat\. Danny Brown\)](https://open.spotify.com/album/71qxIkZvfyFGQKUe9YA0ry) | 3:21 | 2021-09-03 | 2022-03-18 |
-| [Can U Dig That?](https://open.spotify.com/track/5poLcNswsi0NovepA5xZ7j) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Can U Dig That?](https://open.spotify.com/album/7weNFtwo3U0B0oHp6FPkhy) | 3:14 | 2024-03-29 |  |
+| [Can U Dig That?](https://open.spotify.com/track/5poLcNswsi0NovepA5xZ7j) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Can U Dig That?](https://open.spotify.com/album/7weNFtwo3U0B0oHp6FPkhy) | 3:14 | 2024-03-29 | 2024-06-15 |
 | [Can You Hear Me Now?](https://open.spotify.com/track/7Lg6d8ii0EXRqPLsgVjAaa) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Church Clothes 4: Dry Clean Only](https://open.spotify.com/album/45xopJH4y7YpIHmogMMLD7) | 3:00 | 2023-02-24 | 2023-05-13 |
 | [Candle of the Devil](https://open.spotify.com/track/253jYqFG4uZUVVjFYQZ2Yg) | [R\-Mean](https://open.spotify.com/artist/4QE3ZjcqH5AIJ3o2tTzDXP), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Scott Storch](https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01) | [Candle of the Devil](https://open.spotify.com/album/4DawXkWA7JwmDoF07SteyI) | 3:14 | 2023-04-07 | 2023-05-06 |
 | [Caravan](https://open.spotify.com/track/4GPEMIgxW5mW9EKn2RKS3L) | [Kipp Stone](https://open.spotify.com/artist/3KSsoLvVR3TTJpzRReIs3X) | [HOMME](https://open.spotify.com/album/3hZ2Me5PAzjdSRbUf4nXod) | 4:00 | 2022-04-01 | 2022-06-16 |
@@ -567,6 +567,7 @@
 | [Tangible Assets](https://open.spotify.com/track/13biO041eq28N49u710xIs) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Orange Print](https://open.spotify.com/album/1TryWyc9xJqfL5htRsgr1F) | 2:07 | 2021-09-03 | 2022-01-15 |
 | [Tear Gas \(feat\. Rick Ross & Lil Wayne\)](https://open.spotify.com/track/5UHGymgm6Okr0oSQOuFNiF) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [God Don't Make Mistakes](https://open.spotify.com/album/4w1BBgCcUVv54r3zJenKpG) | 4:13 | 2022-02-25 | 2022-07-25 |
 | [Teriyaki](https://open.spotify.com/track/7AIuD4vqXRUYtlT1ykFLew) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Teriyaki](https://open.spotify.com/album/6w7cg9sdj8gwmi27nvGoOQ) | 2:56 | 2021-09-03 | 2022-07-28 |
+| [Terms And Conditions](https://open.spotify.com/track/4ckASuglN7Xg6V5yL77bqc) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Conductor Williams](https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC) | [Terms And Conditions](https://open.spotify.com/album/4chvLZw3TfuGn7xwGE3Dk9) | 2:43 | 2024-06-14 |  |
 | [Tetris](https://open.spotify.com/track/5sqs99n1gCg2Ygg3eNz6rJ) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Tetris](https://open.spotify.com/album/3ybxNYXKxSUKMuZOuwJPc5) | 2:04 | 2022-04-29 | 2022-07-21 |
 | [Tetris](https://open.spotify.com/track/7tQpKKS4Jis0pCotemeLdz) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Vinyl Days](https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru) | 2:04 | 2022-07-15 | 2022-10-01 |
 | [Thanksgiving](https://open.spotify.com/track/3nZD0cDcEiz8rqK48SYhgn) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [Thanksgiving](https://open.spotify.com/album/6slT6nHyQrMQaUj2jMl52i) | 2:30 | 2021-09-03 | 2022-03-18 |

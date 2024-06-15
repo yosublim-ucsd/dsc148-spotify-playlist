@@ -4,7 +4,7 @@
 
 > Deep Bass \- Melodic Bass \- Dubstep \- 140 \- Downtempo \- Dance Music \- Tribal Trap \- Grime \- Future Bass
 
-260 songs - 16 hr 28 min
+261 songs - 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Rise Above](https://open.spotify.com/track/1Bws7rhbIf45CAIygXLai7) | [Taiko](https://open.spotify.com/artist/7aymYFvvaOtSIxBICCWSeq) | [Crumpets](https://open.spotify.com/album/5cx3u1fBnyF2oKl7S6lo4U) | 3:43 | 2023-06-09 | 2023-12-14 |
 | [Rude Boy 22 \- Spotify Singles](https://open.spotify.com/track/5nuyCix3R7RUitKPxkqIac) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Spotify Singles](https://open.spotify.com/album/4SZa061qdVYEZTTqE4DfwS) | 2:15 | 2022-09-30 | 2022-10-17 |
 | [Ruminate](https://open.spotify.com/track/7wqq6vKvzbaTYFZ4QUGjic) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [SMBR](https://open.spotify.com/artist/7afurVeEHZHC1d8LV3wnQQ) | [Stutter \- EP](https://open.spotify.com/album/2ywexsHX1MUToJaByaEYYQ) | 5:05 | 2022-09-19 | 2023-05-27 |
+| [Sacred Order Of Pi](https://open.spotify.com/track/2xuHBYNcSfUxWN2icqBA6y) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV), [Shadow Society](https://open.spotify.com/artist/6AJ351ghgydcePFPco6zUY) | [Sacred Order Of Pi](https://open.spotify.com/album/7hMjooVnox49rV4RmN6EkP) | 3:02 | 2024-06-14 |  |
 | [See You](https://open.spotify.com/track/2OQ0lsnpgmwmaIuSfVFIDx) | [Dreamers Delight](https://open.spotify.com/artist/1bDXdxSg3Ve7V7f3bteIyk) | [See You](https://open.spotify.com/album/1Q6A1gHBqhS3uq5nQpzv30) | 4:38 | 2022-02-25 | 2022-08-23 |
 | [Self Made](https://open.spotify.com/track/2k0cA39Wk0jiYiQphhFJu3) | [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial) | [Self Made](https://open.spotify.com/album/5CFZp6HkHrKhjvid0TqLhV) | 3:13 | 2022-10-14 | 2023-05-27 |
 | [Sensi Dub](https://open.spotify.com/track/05OPr91FfXHTY1l0oONnss) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [Sensi Dub](https://open.spotify.com/album/27fy27PL0uFmezHJK2kNJz) | 3:39 | 2024-04-03 |  |

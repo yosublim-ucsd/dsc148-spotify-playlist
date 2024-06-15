@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,730 likes - 273 songs - 14 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,732 likes - 273 songs - 14 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -162,8 +162,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 152 | [My Simple Humble Neighborhood](https://open.spotify.com/track/0SS3LPU1vNojzOOaeVCI49) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/7oJAFBGUEddEbeAJFlA90Y) | 3:07 |
 | 153 | [Where Do I Go](https://open.spotify.com/track/3nMQI2dUZKh7VtBZZTeGLv) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [Llllloco\-Motion](https://open.spotify.com/album/1e6fzvmRJi8r6TInJhimdj) | 2:12 |
 | 154 | [Best of Friends](https://open.spotify.com/track/2zBD9cBfG7ZgEQ90B837Ps) | [Twennynine](https://open.spotify.com/artist/4lrBQQ6NR1pj1nSzsPs7sI), [Lenny White](https://open.spotify.com/artist/478WAnkTtQach00La2gvxR) | [Best Of Friends](https://open.spotify.com/album/53fNq8N0v5K2E7S789DqWi) | 3:52 |
-| 155 | [Let's Start the Party Again](https://open.spotify.com/track/7kD0nK8s5uPVf43t4o5lpU) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [The Incredible Little Eva](https://open.spotify.com/album/2EnCHcnNjyBSV0gZ7XPSFo) | 2:48 |
-| 156 | [I Can't Stop Talking about You](https://open.spotify.com/track/1S3HwyddiVAR18ZYOqxRZ8) | [Steve Lawrence](https://open.spotify.com/artist/271pvVqDFiREx6PqzwOX8p), [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z) | [The Greatest Hits Vol\. 2](https://open.spotify.com/album/4hKXMzhgsG1YMUMBHTEEB8) | 2:07 |
+| 155 | [I Can't Stop Talking about You](https://open.spotify.com/track/1S3HwyddiVAR18ZYOqxRZ8) | [Steve Lawrence](https://open.spotify.com/artist/271pvVqDFiREx6PqzwOX8p), [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z) | [The Greatest Hits Vol\. 2](https://open.spotify.com/album/4hKXMzhgsG1YMUMBHTEEB8) | 2:07 |
+| 156 | [Let's Start the Party Again](https://open.spotify.com/track/7kD0nK8s5uPVf43t4o5lpU) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [The Incredible Little Eva](https://open.spotify.com/album/2EnCHcnNjyBSV0gZ7XPSFo) | 2:48 |
 | 157 | [Satisfied](https://open.spotify.com/track/4aAqN4Xzxd7UqG9KpTeVVI) | [Lulu And The Luvvers](https://open.spotify.com/artist/4N3yBX8wmW8uAXW7MdXwdb) | [Something To Shout About](https://open.spotify.com/album/6d1nUCOvcCLhMGzpTjLbQY) | 2:54 |
 | 158 | [God Only Knows](https://open.spotify.com/track/08eCQi9h03wYDNxtUN94OF) | [The Fun Surfers](https://open.spotify.com/artist/46sr5uwA9UiQgqtVPQMSgM) | [Hot 100 2017: Australia Day](https://open.spotify.com/album/3HQsI1KdfBILNojoVRdDMc) | 2:24 |
 | 159 | [Sweet Sweetheart](https://open.spotify.com/track/333YdlIdHL2ZpWoMDGuEKd) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 2:43 |
@@ -282,4 +282,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 272 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 273 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `AbT+ggAAAADRaGzt8r+ioY/CDH/ex7cP`
+Snapshot ID: `AbUEIgAAAACOeqzkmi6O6nRvr+hGIW7t`

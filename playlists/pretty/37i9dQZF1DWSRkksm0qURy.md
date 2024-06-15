@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkksm0qURy.md) - [plain]
 
 > An immersive solfeggio frequency used by many for balance, healing and removing negative energy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,744 likes - 88 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,778 likes - 88 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

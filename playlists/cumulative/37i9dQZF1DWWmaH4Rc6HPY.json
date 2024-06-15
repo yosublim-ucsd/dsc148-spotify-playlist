@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "\u00a1Y regresaron las guitarras! Jos\u00e9 Madero en portada.",
+  "description": "\u00a1Y regresaron las guitarras! Siddhartha en portada.",
   "name": "Pop Rock Latino",
   "tracks": [
     {
@@ -314,7 +314,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 216721,
       "name": "cada que...",
       "url": "https://open.spotify.com/track/0DxQ4wo5u9JtbTDGqcGO1h"
@@ -332,7 +332,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 174546,
       "name": "caf\u00e9 hipnosis",
       "url": "https://open.spotify.com/track/06VBuaw8eD2U7PCpgsw9XA"
@@ -499,6 +499,24 @@
     },
     {
       "album": {
+        "name": "Miel de Azar",
+        "url": "https://open.spotify.com/album/1qpILF6cHlPJzUOvZfdIma"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192197,
+      "name": "Como Queremos",
+      "url": "https://open.spotify.com/track/0Zcd8XxgKeRNQAUIpsHr7c"
+    },
+    {
+      "album": {
         "name": "Como Te Quiero A Ti",
         "url": "https://open.spotify.com/album/0DPVU9AtUOqW1IM6YvdFPQ"
       },
@@ -536,6 +554,24 @@
       "duration_ms": 296613,
       "name": "Contradicci\u00f3n",
       "url": "https://open.spotify.com/track/2vCQG5PSjoJnfFnij0TdAc"
+    },
+    {
+      "album": {
+        "name": "CRISTAL",
+        "url": "https://open.spotify.com/album/4LTaRXfhC5z6cUpQLDvNnd"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202913,
+      "name": "CRISTAL",
+      "url": "https://open.spotify.com/track/6Gfkt8xCb1bihvs6KOMO2g"
     },
     {
       "album": {
@@ -1299,6 +1335,28 @@
     },
     {
       "album": {
+        "name": "Mi + 1",
+        "url": "https://open.spotify.com/album/6zNItkFIgiGd0ZK35jt6fM"
+      },
+      "artists": [
+        {
+          "name": "Noan",
+          "url": "https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM"
+        },
+        {
+          "name": "Sofia Ellar",
+          "url": "https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166400,
+      "name": "Mi + 1",
+      "url": "https://open.spotify.com/track/7vr6sOiAkiDVteYSmg5FNU"
+    },
+    {
+      "album": {
         "name": "Mi Droga Favorita",
         "url": "https://open.spotify.com/album/5gVIZXNXoXM9Z9AHDtnSqL"
       },
@@ -1354,7 +1412,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 262444,
       "name": "Miel en la Sal",
       "url": "https://open.spotify.com/track/0s2PNPkPCsE4zfc2qmz0Ok"
@@ -1890,7 +1948,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 213990,
       "name": "P\u00e9rdida Total",
       "url": "https://open.spotify.com/track/26abPP7GXhg0WrV3orLtpP"
@@ -2178,6 +2236,28 @@
       "duration_ms": 216866,
       "name": "Siento La Noche (Hale-Bopp, 1997)",
       "url": "https://open.spotify.com/track/6wYlkFiOhd35Q4dOloZXTu"
+    },
+    {
+      "album": {
+        "name": "Silencio",
+        "url": "https://open.spotify.com/album/3OImMIbnVXy6OV1yJHSYeH"
+      },
+      "artists": [
+        {
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        },
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325145,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/4Ey3GCtvICUIJDM0wUCPd0"
     },
     {
       "album": {

@@ -82,7 +82,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 160013,
       "name": "4 Me (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/3RBubtMyzlp9MPZegNcDRK"
@@ -270,7 +270,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 142809,
       "name": "Body Do",
       "url": "https://open.spotify.com/track/4TiUFzVFDc17Gt0m1ktH2N"
@@ -770,7 +770,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 235693,
       "name": "Distraction",
       "url": "https://open.spotify.com/track/1cAL4sFzXXRMbpZnTPa7Zi"
@@ -1356,6 +1356,28 @@
       "duration_ms": 247100,
       "name": "Good Good",
       "url": "https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI"
+    },
+    {
+      "album": {
+        "name": "The Year I Turned 21",
+        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163114,
+      "name": "Goodbye (Warm Up)(feat. Asake)",
+      "url": "https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB"
     },
     {
       "album": {
@@ -2404,7 +2426,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 208000,
       "name": "Love Is U",
       "url": "https://open.spotify.com/track/5uYQczKz44pYSF30aoIcbu"
@@ -2426,6 +2448,24 @@
       "duration_ms": 275706,
       "name": "Love Like This",
       "url": "https://open.spotify.com/track/7MQywXGHEev7JmwwIzMcao"
+    },
+    {
+      "album": {
+        "name": "Love Me JeJe",
+        "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178041,
+      "name": "Love Me JeJe",
+      "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
     },
     {
       "album": {
@@ -2716,6 +2756,24 @@
       "duration_ms": 231906,
       "name": "Na Na",
       "url": "https://open.spotify.com/track/5LIleJbUUgtvYnBW9wfY1W"
+    },
+    {
+      "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176027,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
     },
     {
       "album": {
@@ -3244,6 +3302,24 @@
       "duration_ms": 193901,
       "name": "Questions",
       "url": "https://open.spotify.com/track/2rGAASBrTG770g8wx5NJOV"
+    },
+    {
+      "album": {
+        "name": "Rental",
+        "url": "https://open.spotify.com/album/2kT3e81zlLH8LsIfw1d8da"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189266,
+      "name": "Rental",
+      "url": "https://open.spotify.com/track/2SctW8kEr0eNsnantkaxj1"
     },
     {
       "album": {

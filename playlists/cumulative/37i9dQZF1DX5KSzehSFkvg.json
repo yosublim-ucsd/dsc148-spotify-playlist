@@ -160,7 +160,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 168979,
       "name": "Ajini",
       "url": "https://open.spotify.com/track/5YwpA9KqbnVq05XcP2m2I6"
@@ -580,6 +580,28 @@
       "duration_ms": 159067,
       "name": "Cinema",
       "url": "https://open.spotify.com/track/6oCJXqoK6138TxpdB9PYmc"
+    },
+    {
+      "album": {
+        "name": "Dawini",
+        "url": "https://open.spotify.com/album/3013V6wepDbBnb81uVU95j"
+      },
+      "artists": [
+        {
+          "name": "Tawsen",
+          "url": "https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h"
+        },
+        {
+          "name": "Ayoub Anbaoui",
+          "url": "https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161959,
+      "name": "Dawini",
+      "url": "https://open.spotify.com/track/5d54P8T7TXGwE2d0zyN3uu"
     },
     {
       "album": {
@@ -1191,6 +1213,24 @@
     },
     {
       "album": {
+        "name": "La hadi la hadik",
+        "url": "https://open.spotify.com/album/2Hw4br38JEDdv6b4Al36L1"
+      },
+      "artists": [
+        {
+          "name": "Houssainy",
+          "url": "https://open.spotify.com/artist/0Vd0wj4JUTJ6M4ts8Xhpko"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205058,
+      "name": "La hadi la hadik",
+      "url": "https://open.spotify.com/track/1dOrFX61yagHbUzzMHOzZ0"
+    },
+    {
+      "album": {
         "name": "La Tz\u00f6r\u00f6ni",
         "url": "https://open.spotify.com/album/4GwUKOnGUSek37TvxSKZy4"
       },
@@ -1592,7 +1632,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 206500,
       "name": "Massari",
       "url": "https://open.spotify.com/track/0J65uyzYarHKfC4XHBdqfK"

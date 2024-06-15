@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-05-26",
   "description": "Aficionades que viven la intensidad de botanear \u26bd\ufe0f\ud83c\udf2e\ud83c\udf7b",
-  "name": "La Playlist Botanera",
+  "name": "Botaneando: D\u00eda del Padre ",
   "tracks": [
     {
       "album": {
@@ -230,6 +230,24 @@
       "duration_ms": 180588,
       "name": "Apasionadamente",
       "url": "https://open.spotify.com/track/22mVIMbschh7l57uvZuKma"
+    },
+    {
+      "album": {
+        "name": "Aqu\u00ed Mando Yo",
+        "url": "https://open.spotify.com/album/3Hn6SB2nMJulWtrRdr5Bnk"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216333,
+      "name": "Aqu\u00ed Mando Yo",
+      "url": "https://open.spotify.com/track/777fe7EyoQ7vatcRRHbTmO"
     },
     {
       "album": {
@@ -1387,6 +1405,28 @@
     },
     {
       "album": {
+        "name": "Dime (Toy Selectah Cumbia Remix)",
+        "url": "https://open.spotify.com/album/69ZTclRzkCfvGrSsSohSEA"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Toy Selectah",
+          "url": "https://open.spotify.com/artist/6iruqoplIhH7VmvMQV1wDM"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205517,
+      "name": "Dime - Toy Selectah Cumbia Remix",
+      "url": "https://open.spotify.com/track/5CrIhnbLia8Fqqr4d8UEi1"
+    },
+    {
+      "album": {
         "name": "Don Dimadon",
         "url": "https://open.spotify.com/album/3AL6ynr4iZhCbOHO3XzLtA"
       },
@@ -1656,6 +1696,32 @@
       "duration_ms": 227347,
       "name": "El Rey de la Kumbia",
       "url": "https://open.spotify.com/track/7oSjiHocGhbWhlTu9CN6zh"
+    },
+    {
+      "album": {
+        "name": "EL RITMO QUE NOS UNE (feat. Selecci\u00f3n Colombia)",
+        "url": "https://open.spotify.com/album/6gHvLYdqKPaiCXK92crXFR"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        },
+        {
+          "name": "Selecci\u00f3n Colombia",
+          "url": "https://open.spotify.com/artist/5qLqlZazggeL3HVtjuLhJy"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189795,
+      "name": "EL RITMO QUE NOS UNE (feat. Selecci\u00f3n Colombia)",
+      "url": "https://open.spotify.com/track/79IBoMfFn67UI15YkP1FSp"
     },
     {
       "album": {

@@ -1,13 +1,29 @@
 {
   "description": "The best of today's funk. Cover: Durand Bernarr\n",
-  "num_followers": 323199,
+  "num_followers": 323264,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmKFwAAAAABKqZ2G+phQa/g4SS1zrjf/",
+  "snapshot_id": "ZmvAQAAAAABBwGl6EoSDhwy43Xji8RW7",
   "tracks": [
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Jelly Roll",
+        "url": "https://open.spotify.com/album/3XyBAOkeZyg7rX9GiNw9eZ"
+      },
+      "artists": [
+        {
+          "name": "MonoNeon",
+          "url": "https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j"
+        }
+      ],
+      "duration_ms": 217800,
+      "name": "Jelly Roll",
+      "url": "https://open.spotify.com/track/5H6iPB2CyzGoI7Hzlxz9Da"
+    },
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
@@ -107,6 +123,22 @@
       "duration_ms": 199385,
       "name": "Smoke and Mirrors",
       "url": "https://open.spotify.com/track/1WUwrMCXTFxuOdxf3ltVVN"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Love Myself",
+        "url": "https://open.spotify.com/album/2OtqYv9drYUxpKV1gpX67l"
+      },
+      "artists": [
+        {
+          "name": "KOLA",
+          "url": "https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Love Myself",
+      "url": "https://open.spotify.com/track/14OQ9qHCNEOGiy9UryGImS"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1473,34 +1505,6 @@
       "url": "https://open.spotify.com/track/2HStqTtRnHeqwNoq2lvdsh"
     },
     {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Monoxide",
-        "url": "https://open.spotify.com/album/4vYq3fmB2F9GGY26RgTSja"
-      },
-      "artists": [
-        {
-          "name": "Sly5thAve",
-          "url": "https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi"
-        },
-        {
-          "name": "MonoNeon",
-          "url": "https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j"
-        },
-        {
-          "name": "MacKenzie",
-          "url": "https://open.spotify.com/artist/3RGJj3VbTVH4BOhCNlyWcY"
-        },
-        {
-          "name": "Canoed_sun",
-          "url": "https://open.spotify.com/artist/0Fy8tUfccxSuqfnILrqlzO"
-        }
-      ],
-      "duration_ms": 192864,
-      "name": "Monoxide",
-      "url": "https://open.spotify.com/track/03sMq9PruH6F0jJQFufYPT"
-    },
-    {
       "added_at": "2023-03-24 04:01:00",
       "album": {
         "name": "Come and Get It - A COLORS SHOW",
@@ -1567,26 +1571,6 @@
       "duration_ms": 200000,
       "name": "Dead Inside Shuffle",
       "url": "https://open.spotify.com/track/4imq60KskF2cm4WpYbwk9V"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Seventeen",
-        "url": "https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ"
-      },
-      "artists": [
-        {
-          "name": "TORA DAA",
-          "url": "https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey"
-        },
-        {
-          "name": "Cory Wong",
-          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
-        }
-      ],
-      "duration_ms": 185289,
-      "name": "This is It (feat. Cory Wong)",
-      "url": "https://open.spotify.com/track/09iwuUrPrk4O1ogWhbe35x"
     },
     {
       "added_at": "2023-03-10 05:01:00",

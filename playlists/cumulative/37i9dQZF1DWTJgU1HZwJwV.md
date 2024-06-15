@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-491 songs - 20 hr 50 min
+494 songs - 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Change of scenery](https://open.spotify.com/track/3wXfM0FyraS9FD9cltjZBl) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Change of scenery](https://open.spotify.com/album/2elZupAbb8wSvVXfgkcsMc) | 2:35 | 2023-05-19 | 2024-01-12 |
 | [CLEVELAND, OH](https://open.spotify.com/track/7xAGtSGZCmzZ4gkJetmnoq) | [Brad Barr](https://open.spotify.com/artist/6FHxCoGlbKV6cvqO2AMaKv) | [THE WINTER MISSION](https://open.spotify.com/album/05dhqFgu0AVrq1qMjHhcfq) | 1:34 | 2022-06-17 | 2023-04-29 |
 | [Cliffs](https://open.spotify.com/track/4M4YcXxUpkk8mjJK2dd0DK) | [Stella Weber](https://open.spotify.com/artist/6eslaIujKjRMowrL76Q4Nu) | [Cliffs](https://open.spotify.com/album/1SQYj9x68uGtLrJbTCp99Q) | 1:57 | 2022-06-17 | 2023-09-14 |
+| [Close To Home](https://open.spotify.com/track/1yKZOimGS312NRcpwjhsXd) | [Oaktree Melodies](https://open.spotify.com/artist/0U0qUcjrya7xDHCxVkXvPV) | [Close To Home](https://open.spotify.com/album/5dhdPcBxiWEroTeOjsdgQ4) | 2:33 | 2024-06-14 |  |
 | [Clouded Reflection](https://open.spotify.com/track/0BTLhUHKgEi7Jx8uRjTAii) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Clouded Reflection](https://open.spotify.com/album/6KwQj931Z6T7Q6xg9Ldbge) | 2:03 | 2023-03-24 | 2023-06-23 |
 | [Combo Cadre](https://open.spotify.com/track/2iuH3nCY89Ljb1tjmvcKwV) | [Combo Cadre](https://open.spotify.com/artist/1vnozJqhOSx4kvl9sMGZML) | [Combo Cadre](https://open.spotify.com/album/44IxR6mPGmK1O24wBI3nwx) | 2:59 | 2022-06-17 | 2023-09-08 |
 | [Come to Me in the Silence of the Night](https://open.spotify.com/track/1V7vKOUi1FNJ2Ytl2ERakv) | [Dominic Ruiz](https://open.spotify.com/artist/4x3JdU2gxNgHzMdY61pCOx) | [Come to Me in the Silence of the Night](https://open.spotify.com/album/0yOTmHU1sMWDhOoHi7TCdE) | 3:08 | 2024-05-24 |  |
@@ -207,6 +208,7 @@
 | [Impressions](https://open.spotify.com/track/5FtBh1Ik9zIzJSoh33fxlM) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Impressions](https://open.spotify.com/album/44WfQys4PLW5lRENyD5U62) | 4:18 | 2023-06-22 |  |
 | [In due time](https://open.spotify.com/track/60oudaUU0seUx9WI4Dlgiz) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [In due time](https://open.spotify.com/album/5evrAlWRbv2cGh79NZeBzP) | 1:55 | 2023-05-19 | 2023-09-14 |
 | [In Madeira](https://open.spotify.com/track/0inkIpP5IGzsoPSswvOQX8) | [Emil Dahl](https://open.spotify.com/artist/0ozEvXh18ZvAwli3GDA1N6) | [In Madeira](https://open.spotify.com/album/0wDvPY4UWN3DRGD2hmUwvr) | 1:45 | 2022-06-17 | 2023-09-14 |
+| [In the arms of today](https://open.spotify.com/track/7MZC4MokONv8i0HjhU1iRt) | [Africa Levine](https://open.spotify.com/artist/5PAXHtHmQBQWOpMN2ukyow) | [In the arms of today](https://open.spotify.com/album/6kyVVGeaYijejzJQoAUQuA) | 1:58 | 2024-06-14 |  |
 | [In weiter Ferne](https://open.spotify.com/track/5NQ39FelcVKRWkGZHKUWVe) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Nachtfalke](https://open.spotify.com/album/665FBCmE1FNe3sycFJ5wCO) | 3:28 | 2022-06-17 | 2022-09-09 |
 | [Indubio](https://open.spotify.com/track/0IBin9RIKBxMxDHf9lGtbx) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX) | [Indubio](https://open.spotify.com/album/4OAZ28Z4FK3C50twZJEc0O) | 2:46 | 2022-06-17 | 2023-12-15 |
 | [Infatuated](https://open.spotify.com/track/4snLhsoeQDkuYpjSmnGlUV) | [Amalia Booth](https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP) | [Infatuated](https://open.spotify.com/album/2kIwwzu3FAJcZRxA5P0eFH) | 2:45 | 2023-02-24 | 2023-06-23 |
@@ -307,7 +309,7 @@
 | [Now's Not The Time](https://open.spotify.com/track/1DC5UfKYnUeMTQaKscS46L) | [Gabriel Sellier](https://open.spotify.com/artist/68bFmMmumjz0ig4CCNeoLZ) | [Now's Not The Time](https://open.spotify.com/album/1WaKJvnkORcs3oIvRErCBt) | 2:58 | 2024-03-08 |  |
 | [Ode](https://open.spotify.com/track/2Hoxt6py7gP6fmV8Mh9OOm) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX) | [Ode](https://open.spotify.com/album/7hAG7HHYB00bdiz4T2C6TO) | 2:40 | 2022-06-17 | 2022-09-09 |
 | [Old World](https://open.spotify.com/track/4z66Dw7i6dmpNvKD8DYs8Q) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Cafe des Anges](https://open.spotify.com/album/7JFwJhMHcwKInpK9DZJEOq) | 2:59 | 2023-02-24 | 2023-06-23 |
-| [Olivar de los Padres](https://open.spotify.com/track/3wp1BYW2oP8kfXcKld2FtD) | [Regina Costa](https://open.spotify.com/artist/5HTYfcxPnPgnplg9GvUIEr) | [Olivar de los Padres](https://open.spotify.com/album/2OxKeAL3VTsGxJte3qs2OS) | 3:25 | 2022-06-17 |  |
+| [Olivar de los Padres](https://open.spotify.com/track/3wp1BYW2oP8kfXcKld2FtD) | [Regina Costa](https://open.spotify.com/artist/5HTYfcxPnPgnplg9GvUIEr) | [Olivar de los Padres](https://open.spotify.com/album/2OxKeAL3VTsGxJte3qs2OS) | 3:25 | 2022-06-17 | 2024-06-15 |
 | [On the Yorkshire Moors](https://open.spotify.com/track/127OCZgkNOhXGJdKWX64hF) | [Art Davis](https://open.spotify.com/artist/2zetqgnvUDWRP4Ug8XyUOd) | [On the Yorkshire Moors](https://open.spotify.com/album/6trFUMDDYQJpqzON6WWlXt) | 2:41 | 2022-07-22 | 2023-08-11 |
 | [Onirique](https://open.spotify.com/track/00ktuagJxL4lP7xyJ1d82N) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Retrouvailles](https://open.spotify.com/album/3PwCrvkeUrCWFHwdjHCObf) | 2:41 | 2023-02-24 | 2023-06-23 |
 | [Only Briefly](https://open.spotify.com/track/1ZdHCofnzXzQG262Z0sNyb) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Only Briefly](https://open.spotify.com/album/4v16VnIVhC9FWgRWHluvLG) | 2:07 | 2024-03-29 |  |
@@ -365,6 +367,7 @@
 | [Roots](https://open.spotify.com/track/315o2fMorxv0Ds6zE8KJoo) | [Cristof Walters](https://open.spotify.com/artist/6njQrWP56vwgO6636iLPVa) | [Roots](https://open.spotify.com/album/44ysmHkHLWluf64LGdFUpD) | 3:13 | 2022-06-17 | 2022-12-24 |
 | [Rosales](https://open.spotify.com/track/2LLDiGysmlUcfzuvjruvOM) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Rosales](https://open.spotify.com/album/1b3lqDesHJ4gKr3WawAHrm) | 4:41 | 2022-12-09 | 2023-09-08 |
 | [Rosarium](https://open.spotify.com/track/3EGgZKSXFfD9YdbZ2Zvzf9) | [Twan Bracco Gartner](https://open.spotify.com/artist/2HfAA8YkWctZYQia5wFa6C) | [Rosarium](https://open.spotify.com/album/3tHJOtzuJHpngvUnvsHBXL) | 2:25 | 2022-06-17 | 2022-12-24 |
+| [Rovinj](https://open.spotify.com/track/6hSTsBLxqXM0WQhrmxZRpf) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Rovinj](https://open.spotify.com/album/7gw510u1oc6OWOhENT0P7N) | 3:06 | 2024-06-14 |  |
 | [Rubato](https://open.spotify.com/track/1rlL61WUGjlWdhB5cjbWg8) | [Fei Kura](https://open.spotify.com/artist/5Gs7KAVWa4xqgvsJZpu0jI) | [Rubato](https://open.spotify.com/album/1MTGlmAkxdb0hueMtV3TLA) | 1:44 | 2023-01-06 | 2023-09-14 |
 | [Sage](https://open.spotify.com/track/3XsO2i5UGNZfSiyd3sGJ1Y) | [Darla Churce](https://open.spotify.com/artist/0dQyC5qPStQj4m8Rc0pGN0) | [Sage](https://open.spotify.com/album/29Yl3TO5JAkkkoiqf8iEOd) | 2:43 | 2022-08-05 | 2023-12-15 |
 | [Salzburger Traum](https://open.spotify.com/track/5tkLBbZH27EVS0OZoYxrtf) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Lange Sommernächte](https://open.spotify.com/album/35b7Gi5InlL6W1mhnBZj5q) | 3:44 | 2022-10-14 | 2024-05-25 |
@@ -380,7 +383,7 @@
 | [Secreto a gritos](https://open.spotify.com/track/4nfhvNVF4APrKYyakiVvbJ) | [Nuria Polanka](https://open.spotify.com/artist/2kq2VvWZunlZU33VuP144d) | [Secreto a gritos](https://open.spotify.com/album/1awQz7qa436GOIuQJUsdVt) | 3:05 | 2022-10-07 | 2024-01-12 |
 | [Senza Fine](https://open.spotify.com/track/2EGESNjQMOr0WPl9RCmtQo) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Senza Fine](https://open.spotify.com/album/2831RPrm9Yal2OCTmcNJ59) | 3:05 | 2022-10-07 |  |
 | [Sequoia](https://open.spotify.com/track/461cC9CgeIx0ROdpaIkMtw) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [Sequoia](https://open.spotify.com/album/1t5CbziFDuyPWv75q3tnCY) | 2:51 | 2022-06-17 | 2022-09-09 |
-| [Serengeti](https://open.spotify.com/track/4yoILdPVTyiwWkJQfXqshB) | [Neve Baker](https://open.spotify.com/artist/40E7LcjmJufJCHiaxXzBfT) | [Serengeti](https://open.spotify.com/album/4fEskCIrZkg9C4yPWn7XsZ) | 2:34 | 2023-05-19 |  |
+| [Serengeti](https://open.spotify.com/track/4yoILdPVTyiwWkJQfXqshB) | [Neve Baker](https://open.spotify.com/artist/40E7LcjmJufJCHiaxXzBfT) | [Serengeti](https://open.spotify.com/album/4fEskCIrZkg9C4yPWn7XsZ) | 2:34 | 2023-05-19 | 2024-06-15 |
 | [Seresta](https://open.spotify.com/track/5cTsLgmhCzeBmTO7jPVkfg) | [Benedict Wallfish](https://open.spotify.com/artist/0J9KRHzB7ZVu5zqVztzclJ) | [Rain Forest](https://open.spotify.com/album/5VtmbXvAvcBOSc60XRa2Sr) | 2:46 | 2022-06-17 |  |
 | [Shadows and Sunlight](https://open.spotify.com/track/3b2eNZja0ok5k8QQjn3ezu) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [Shadows and Sunlight](https://open.spotify.com/album/48ererOiL22UHujflBgt0r) | 2:56 | 2024-04-05 |  |
 | [Sharing the Message](https://open.spotify.com/track/6uQ455iD5ovinVMKWuGbVu) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Sharing the Message](https://open.spotify.com/album/23Fi6Kuce1QLJOZLjTYwbl) | 2:56 | 2024-04-19 |  |
@@ -400,7 +403,7 @@
 | [Spitalfields](https://open.spotify.com/track/2hrVoFSh9c8FpuYC6KrUlt) | [Lee Howard\-Taylor](https://open.spotify.com/artist/3fewyiCJIgYVzSHCnDjlgM) | [Spitalfields](https://open.spotify.com/album/1FAKr8DkcxIXk8NXJQAcsA) | 2:55 | 2024-02-02 |  |
 | [Spring has sprung](https://open.spotify.com/track/3wsMlLVsaUa2hlUmXAZgzg) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Sofia](https://open.spotify.com/album/6GjxHAGO2uqKYVZouQiXDa) | 2:18 | 2023-04-28 | 2023-06-23 |
 | [Spring Song](https://open.spotify.com/track/52n5yfjlyiJoFZjTOQKTN6) | [Rick Alexander](https://open.spotify.com/artist/11k1IQi1sxPpXfDnLy78Se) | [Spring Song](https://open.spotify.com/album/2L66m0ySBM5BfEjugxT0LZ) | 2:51 | 2022-06-17 |  |
-| [St\. Joseph](https://open.spotify.com/track/62DYASAsGeiIs4wIRjzuy8) | [Lee Howard\-Taylor](https://open.spotify.com/artist/3fewyiCJIgYVzSHCnDjlgM) | [Faith](https://open.spotify.com/album/1OVjzueVwUxHfVZKb7zbTP) | 2:37 | 2022-06-17 |  |
+| [St\. Joseph](https://open.spotify.com/track/62DYASAsGeiIs4wIRjzuy8) | [Lee Howard\-Taylor](https://open.spotify.com/artist/3fewyiCJIgYVzSHCnDjlgM) | [Faith](https://open.spotify.com/album/1OVjzueVwUxHfVZKb7zbTP) | 2:37 | 2022-06-17 | 2024-06-15 |
 | [Stargazing](https://open.spotify.com/track/1mmbyz9ozdscOnBm2A8lY1) | [Thomas Eder](https://open.spotify.com/artist/2krrSbwXMkf0UncTYMR1qY) | [Stargazing](https://open.spotify.com/album/4iKix895yw4BjGUysZXtCU) | 2:42 | 2022-09-16 |  |
 | [Steps ahead](https://open.spotify.com/track/38HxNjQa0seDx02w8fEhLM) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Steps ahead](https://open.spotify.com/album/0XJK0qLoz7yt1v6CskH7E0) | 2:49 | 2024-04-19 |  |
 | [Stones](https://open.spotify.com/track/3YKRLvwTVd61lcgM1En09p) | [The Bare Bones](https://open.spotify.com/artist/2NKYLVOD0HH7O1anuALOBU) | [Stones](https://open.spotify.com/album/1ejYgT85tPxlEWBYn5jjpP) | 2:24 | 2022-06-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 
 > Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover: <a href="spotify:artist:5tYqFEuFELxnJZgGmmsfSh">Catz 'n Dogz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,951 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,982 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,29 +84,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 74 | [Tamto Lato](https://open.spotify.com/track/6EEZGOaQrpIA8ItnjkxfFc) | [NIEBØ](https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es) | [OLIMP](https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb) | 3:12 |
 | 75 | [$WAG \(lepi się w ch\*j\)](https://open.spotify.com/track/5YfwxLj7jzNM38zLWse9Oi) | [susk](https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc) | [$WAG \(lepi się w ch\*j\)](https://open.spotify.com/album/2MV4hphFIybyLf6cGts90z) | 2:38 |
 | 76 | [Dokąd biegnę](https://open.spotify.com/track/72fif1k16rwOEMH8l8MLVM) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Straty](https://open.spotify.com/album/3nx2oHLmlr03XkXdJ71wBb) | 3:14 |
-| 77 | [Tango](https://open.spotify.com/track/4a2OePCLrPoBzQdjpHrcq4) | [Decadent Fun Club](https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki) | [Stamina](https://open.spotify.com/album/698CpODMEheVL58NRNUKUE) | 3:45 |
+| 77 | [Prawda](https://open.spotify.com/track/1ljhrnf6rToJm43ZpOmorD) | [Decadent Fun Club](https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki) | [OKO](https://open.spotify.com/album/7AKfRwN2fngGqnaRqax8Ab) | 3:31 |
 | 78 | [Bolt](https://open.spotify.com/track/2cdwgNThDAVnQxqzPwtpSY) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c) | [Bolt](https://open.spotify.com/album/5Alc4ujo7Q3ISxeKd9gV62) | 3:36 |
 | 79 | [romantyzuję przeszłość](https://open.spotify.com/track/70LuJ7rdBQQlDBzzfIcC2f) | [RAF](https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk) | [romantyzuję przeszłość](https://open.spotify.com/album/20IlKsdw4YrL4eMXqnZj9W) | 3:08 |
 | 80 | [nie wracam nie wracam nie wracam nie wracam](https://open.spotify.com/track/0AEA4U5rbpOrB4UZlGktsN) | [Kamil Hasselhoff](https://open.spotify.com/artist/1XHvLGFiaNYB5zU9QSVYm9) | [nie wracam nie wracam nie wracam nie wracam](https://open.spotify.com/album/7s9dWBppVm7BbttpnStpfx) | 3:16 |
 | 81 | [Przed siebie](https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7) | [Oskar Kucmann](https://open.spotify.com/artist/6QCsE5n2rSQiqzKS2DSQJK) | [Przed siebie](https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi) | 3:03 |
-| 82 | [Cień](https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [DOM](https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH) | 4:03 |
-| 83 | [miss u](https://open.spotify.com/track/6264KCYuGN6YncMjaGbiRH) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [miss u](https://open.spotify.com/album/0TIjkkDpIOiOmdc3el92Uz) | 2:30 |
-| 84 | [Prawda](https://open.spotify.com/track/1ljhrnf6rToJm43ZpOmorD) | [Decadent Fun Club](https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki) | [OKO](https://open.spotify.com/album/7AKfRwN2fngGqnaRqax8Ab) | 3:31 |
-| 85 | [Po Szkole](https://open.spotify.com/track/1chndxFq6bSnakKnBO6UoU) | [Cudowne Lata](https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf) | [Kółko I Krzyżyk](https://open.spotify.com/album/1lTGKDGJZOFKBGwDKRU6ex) | 2:49 |
-| 86 | [Przypadki](https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2) | [Zawadzki](https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt) | [Przypadki](https://open.spotify.com/album/3zTSTlliW1LwlJTQHvBuCG) | 3:10 |
-| 87 | [Nawzajem](https://open.spotify.com/track/0co1lgFF2B3fimrK2PqHok) | [Sophie Szklarska](https://open.spotify.com/artist/09GfElZ8wfFoJyaHNbSaan) | [Nawzajem](https://open.spotify.com/album/75GNnZ1zBakXOS6ibrMcuI) | 2:22 |
-| 88 | [POKUSSA](https://open.spotify.com/track/3TCmVPkceNFsAWWKiKzGRB) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [Pokussa Na Parkiecie](https://open.spotify.com/album/0rlVEb3I0UMhMGhPCmc0dv) | 2:56 |
+| 82 | [miss u](https://open.spotify.com/track/6264KCYuGN6YncMjaGbiRH) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [miss u](https://open.spotify.com/album/0TIjkkDpIOiOmdc3el92Uz) | 2:30 |
+| 83 | [Cień](https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [DOM](https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH) | 4:03 |
+| 84 | [Tango](https://open.spotify.com/track/4a2OePCLrPoBzQdjpHrcq4) | [Decadent Fun Club](https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki) | [Stamina](https://open.spotify.com/album/698CpODMEheVL58NRNUKUE) | 3:45 |
+| 85 | [Przypadki](https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2) | [Zawadzki](https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt) | [Przypadki](https://open.spotify.com/album/3zTSTlliW1LwlJTQHvBuCG) | 3:10 |
+| 86 | [Po Szkole](https://open.spotify.com/track/1chndxFq6bSnakKnBO6UoU) | [Cudowne Lata](https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf) | [Kółko I Krzyżyk](https://open.spotify.com/album/1lTGKDGJZOFKBGwDKRU6ex) | 2:49 |
+| 87 | [POKUSSA](https://open.spotify.com/track/3TCmVPkceNFsAWWKiKzGRB) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [Pokussa Na Parkiecie](https://open.spotify.com/album/0rlVEb3I0UMhMGhPCmc0dv) | 2:56 |
+| 88 | [Nawzajem](https://open.spotify.com/track/0co1lgFF2B3fimrK2PqHok) | [Sophie Szklarska](https://open.spotify.com/artist/09GfElZ8wfFoJyaHNbSaan) | [Nawzajem](https://open.spotify.com/album/75GNnZ1zBakXOS6ibrMcuI) | 2:22 |
 | 89 | [BSoD \(Bluescreen\)](https://open.spotify.com/track/3Ry1yhZnlCYdwpiz3n2qat) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c) | [BSoD \(Bluescreen\)](https://open.spotify.com/album/2nUamr4mpMpj0ARF90cMag) | 2:59 |
 | 90 | [Wiem, że Smakuję Jak...](https://open.spotify.com/track/4GMIKtwsgJwa6zvA0krAS4) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF), [H8](https://open.spotify.com/artist/0D8D1VueigmXshI27sykHO) | [Przekleństwa Niewinności](https://open.spotify.com/album/5zBEDCmcK2SVgyTK8maiu5) | 2:51 |
-| 91 | [Polska](https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L) | [RAF](https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk) | [Polska](https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR) | 4:03 |
-| 92 | [po męsku](https://open.spotify.com/track/0RIhsQxxndz7XQJSGW9C6H) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [po męsku](https://open.spotify.com/album/7nvX0MECWua6K4t0FYssd4) | 3:46 |
+| 91 | [po męsku](https://open.spotify.com/track/0RIhsQxxndz7XQJSGW9C6H) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [po męsku](https://open.spotify.com/album/7nvX0MECWua6K4t0FYssd4) | 3:46 |
+| 92 | [Polska](https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L) | [RAF](https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk) | [Polska](https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR) | 4:03 |
 | 93 | [priorytetem](https://open.spotify.com/track/1AEjEwTDNB0nZkQFHtbZux) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [psychodynamiczne](https://open.spotify.com/album/2Jp3mZywGkxMFB5Wu2p5s9) | 3:10 |
 | 94 | [Spina](https://open.spotify.com/track/7C0wMSnBrPRZbemrJnU0mX) | [Lulu x Uaziuk](https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O) | [Spina](https://open.spotify.com/album/4tsyIKqr0ikFU4Az20FzSd) | 3:33 |
-| 95 | [Reżyser](https://open.spotify.com/track/57ncBsP6ntAniZygJhDVDl) | [Filip Sterne](https://open.spotify.com/artist/1UIsVRTEON2C0CmFKGnmOw) | [Reżyser](https://open.spotify.com/album/5JdAFKD7E59vMwZQLJQaSd) | 2:58 |
-| 96 | [Światła Lamp](https://open.spotify.com/track/1X6LyZBmgjXBpaJyR11z6D) | [Zawadzki](https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt) | [Światła Lamp](https://open.spotify.com/album/2ZcmKJQ5Ts00yz1IaKZkMo) | 2:44 |
-| 97 | [OH WOW](https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [Nick Sinckler](https://open.spotify.com/artist/3ioPp5l6NUnHUryHBoJHEK) | [OH WOW](https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI) | 2:54 |
-| 98 | [Stamina](https://open.spotify.com/track/4yVnVhWGIN2E2Gl6GgFU6t) | [Decadent Fun Club](https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki) | [Stamina](https://open.spotify.com/album/698CpODMEheVL58NRNUKUE) | 4:22 |
-| 99 | [Język](https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [Język](https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn) | 3:06 |
-| 100 | [Cztery Dwa Zero](https://open.spotify.com/track/4UfS5O48srRx2V1HGjYApg) | [Brokatowe Damy](https://open.spotify.com/artist/3NCIJgTchxctVxgH1oOiVX) | [POTĘŻNE LESBIJKI Z MIECZAMI](https://open.spotify.com/album/47jrlicjC5poOuxmBtgBZ7) | 4:20 |
+| 95 | [Cztery Dwa Zero](https://open.spotify.com/track/4UfS5O48srRx2V1HGjYApg) | [Brokatowe Damy](https://open.spotify.com/artist/3NCIJgTchxctVxgH1oOiVX) | [POTĘŻNE LESBIJKI Z MIECZAMI](https://open.spotify.com/album/47jrlicjC5poOuxmBtgBZ7) | 4:20 |
+| 96 | [OH WOW](https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [Nick Sinckler](https://open.spotify.com/artist/3ioPp5l6NUnHUryHBoJHEK) | [OH WOW](https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI) | 2:54 |
+| 97 | [Światła Lamp](https://open.spotify.com/track/1X6LyZBmgjXBpaJyR11z6D) | [Zawadzki](https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt) | [Światła Lamp](https://open.spotify.com/album/2ZcmKJQ5Ts00yz1IaKZkMo) | 2:44 |
+| 98 | [Reżyser](https://open.spotify.com/track/57ncBsP6ntAniZygJhDVDl) | [Filip Sterne](https://open.spotify.com/artist/1UIsVRTEON2C0CmFKGnmOw) | [Reżyser](https://open.spotify.com/album/5JdAFKD7E59vMwZQLJQaSd) | 2:58 |
+| 99 | [Stamina](https://open.spotify.com/track/4yVnVhWGIN2E2Gl6GgFU6t) | [Decadent Fun Club](https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki) | [Stamina](https://open.spotify.com/album/698CpODMEheVL58NRNUKUE) | 4:22 |
+| 100 | [Język](https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [Język](https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn) | 3:06 |
 
 Snapshot ID: `Zmd3nAAAAAARrW8DdrnQIw41So42LQA1`

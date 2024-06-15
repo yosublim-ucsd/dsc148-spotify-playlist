@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjlAAAAAAAUVITCOG11kxzRiBjDzytJ",
+  "snapshot_id": "Zmo2gAAAAABBRKzFgXm1Mr4kHklfTzO4",
   "tracks": [
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 122528,
-      "name": "Jealousy",
-      "url": "https://open.spotify.com/track/6JR8HjROB76D1td19ma0fv"
+      "duration_ms": 161733,
+      "name": "Car Crash Culture",
+      "url": "https://open.spotify.com/track/6lslbQxWgIuuUSZDQOXCgy"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 161733,
-      "name": "Car Crash Culture",
-      "url": "https://open.spotify.com/track/6lslbQxWgIuuUSZDQOXCgy"
+      "duration_ms": 122528,
+      "name": "Jealousy",
+      "url": "https://open.spotify.com/track/6JR8HjROB76D1td19ma0fv"
     },
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 195066,
-      "name": "Scatterbrain",
-      "url": "https://open.spotify.com/track/4WcdCE3c0lY31jac8qPRnt"
+      "duration_ms": 254106,
+      "name": "He Sinks. He Sleeps",
+      "url": "https://open.spotify.com/track/56z4syxpmOFBfrGAlM0VuR"
     },
     {
       "added_at": null,
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 254106,
-      "name": "He Sinks. He Sleeps",
-      "url": "https://open.spotify.com/track/56z4syxpmOFBfrGAlM0VuR"
+      "duration_ms": 195066,
+      "name": "Scatterbrain",
+      "url": "https://open.spotify.com/track/4WcdCE3c0lY31jac8qPRnt"
     }
   ],
   "unique_name": "This Is The XCERTS",

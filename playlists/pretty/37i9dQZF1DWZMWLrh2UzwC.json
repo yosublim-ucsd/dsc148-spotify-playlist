@@ -1,12 +1,12 @@
 {
   "description": "The best newly released songs of the week. Cover: Jaclyn Victor",
-  "num_followers": 61071,
+  "num_followers": 61085,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmuYGAAAAACZL+4CMPCigc7MOgI4zlLs",
+  "snapshot_id": "Zmv80QAAAADvdOHUj/jen7QK4Sd92NQu",
   "tracks": [
     {
       "added_at": "2024-06-13 16:00:00",
@@ -23,6 +23,22 @@
       "duration_ms": 164178,
       "name": "Adore U",
       "url": "https://open.spotify.com/track/5qQHPdQaiLkIrRjMBFTbuz"
+    },
+    {
+      "added_at": "2024-06-13 16:00:00",
+      "album": {
+        "name": "NA",
+        "url": "https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7"
+      },
+      "artists": [
+        {
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        }
+      ],
+      "duration_ms": 162840,
+      "name": "ABCD",
+      "url": "https://open.spotify.com/track/0V2passWyAXnON67kfAj7y"
     },
     {
       "added_at": "2024-06-13 16:00:00",
@@ -219,6 +235,22 @@
     {
       "added_at": "2024-06-13 16:00:00",
       "album": {
+        "name": "STEP",
+        "url": "https://open.spotify.com/album/7ouKhEyy9jcnDeg9KNnXe9"
+      },
+      "artists": [
+        {
+          "name": "LAY",
+          "url": "https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9"
+        }
+      ],
+      "duration_ms": 175515,
+      "name": "Step",
+      "url": "https://open.spotify.com/track/4eecTuBlb0nM4DIVTmjWPa"
+    },
+    {
+      "added_at": "2024-06-13 16:00:00",
+      "album": {
         "name": "Barcelona",
         "url": "https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN"
       },
@@ -275,7 +307,7 @@
     {
       "added_at": "2024-06-13 16:00:00",
       "album": {
-        "name": "Hold on",
+        "name": "Hold On",
         "url": "https://open.spotify.com/album/7ygCROw5jFHKGpdEVodz4v"
       },
       "artists": [
@@ -289,7 +321,7 @@
         }
       ],
       "duration_ms": 180121,
-      "name": "Hold on",
+      "name": "Hold On",
       "url": "https://open.spotify.com/track/580BvW3DyUNoYFgQgoD2GI"
     },
     {
@@ -1047,6 +1079,22 @@
     {
       "added_at": "2024-06-13 16:00:00",
       "album": {
+        "name": "Diss-a-point",
+        "url": "https://open.spotify.com/album/3qqQOvWAB8XDSWAttiXM7e"
+      },
+      "artists": [
+        {
+          "name": "JUSTHIS",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Diss-a-point",
+      "url": "https://open.spotify.com/track/03RiXSvPMOZp3ow7Id4nJO"
+    },
+    {
+      "added_at": "2024-06-13 16:00:00",
+      "album": {
         "name": "Love Me No More",
         "url": "https://open.spotify.com/album/1p7FNVwY04dM4wpkvCm2Hd"
       },
@@ -1219,6 +1267,26 @@
     {
       "added_at": "2024-06-13 16:00:00",
       "album": {
+        "name": "BROTHER STONE (FEAT. KODAK BLACK)",
+        "url": "https://open.spotify.com/album/0LWTY98ijfILoFHupcQJKE"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 202840,
+      "name": "BROTHER STONE (FEAT. KODAK BLACK)",
+      "url": "https://open.spotify.com/track/0l3raueiJ78IsmZGwo6CRm"
+    },
+    {
+      "added_at": "2024-06-13 16:00:00",
+      "album": {
         "name": "Saturday Night Special (feat. Rick Ross & Fat Joe)",
         "url": "https://open.spotify.com/album/3wAJhTshe6dXXworwy3CF1"
       },
@@ -1239,6 +1307,42 @@
       "duration_ms": 208317,
       "name": "Saturday Night Special (feat. Rick Ross & Fat Joe)",
       "url": "https://open.spotify.com/track/6a14IKtBVWXO0FTOmZNgfI"
+    },
+    {
+      "added_at": "2024-06-13 16:00:00",
+      "album": {
+        "name": "Gas You Up (feat. Hunxho)",
+        "url": "https://open.spotify.com/album/2Eqz4StSB2s5FUa0jemV1h"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        }
+      ],
+      "duration_ms": 171391,
+      "name": "Gas You Up (feat. Hunxho)",
+      "url": "https://open.spotify.com/track/68RKVxLFkC3jqS43GUWtCy"
+    },
+    {
+      "added_at": "2024-06-13 16:00:00",
+      "album": {
+        "name": "Where You Been",
+        "url": "https://open.spotify.com/album/1FIEL1JZTLWKqtfeo4GabA"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        }
+      ],
+      "duration_ms": 142146,
+      "name": "Where You Been",
+      "url": "https://open.spotify.com/track/6dnzsTXwAaJws8zGrTFSAS"
     },
     {
       "added_at": "2024-06-13 16:00:00",

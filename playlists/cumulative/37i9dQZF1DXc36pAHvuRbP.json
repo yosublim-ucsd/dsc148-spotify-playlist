@@ -566,6 +566,24 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166640,
+      "name": "La pagaille",
+      "url": "https://open.spotify.com/track/0qZEARVQAQXwrxUmzoxZQs"
+    },
+    {
+      "album": {
+        "name": "Allez hop hop hop",
+        "url": "https://open.spotify.com/album/7o22tHcJmR29Id0OWEAtAk"
+      },
+      "artists": [
+        {
+          "name": "Les Voil\u00e0 Voil\u00e0",
+          "url": "https://open.spotify.com/artist/5rfuIJA479dntPMrQPu8S8"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
       "date_removed": "2024-05-20",
       "duration_ms": 143906,
       "name": "La p\u00e2te \u00e0 cr\u00eapes",
@@ -602,7 +620,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 250866,
       "name": "La visite",
       "url": "https://open.spotify.com/track/1VNVanWsdzlB4p6mZk9iGt"
@@ -620,7 +638,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 198466,
       "name": "Le temps des cadeaux",
       "url": "https://open.spotify.com/track/5uyvqfUGBXrKIvkgj8BYOK"
@@ -678,6 +696,24 @@
       "duration_ms": 67385,
       "name": "Les coups",
       "url": "https://open.spotify.com/track/01lhCb2oWyU3YgW6bYSMlS"
+    },
+    {
+      "album": {
+        "name": "Les Girafes Se Pavanent",
+        "url": "https://open.spotify.com/album/49ZEytqL33KqYBwljIleGM"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Lotus",
+          "url": "https://open.spotify.com/artist/46tbcnmLXFRWImGYluUQUt"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "Les Girafes Se Pavanent",
+      "url": "https://open.spotify.com/track/1izSRf63idvZ6rUpT7pq4q"
     },
     {
       "album": {

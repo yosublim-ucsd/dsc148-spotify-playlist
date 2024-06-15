@@ -3397,6 +3397,32 @@
     },
     {
       "album": {
+        "name": "Exotic\u00f3n",
+        "url": "https://open.spotify.com/album/4OAeL8hNuiVPRE1lrMPQjS"
+      },
+      "artists": [
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "Tito Torbellino Jr",
+          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154800,
+      "name": "Exotic\u00f3n",
+      "url": "https://open.spotify.com/track/4CWhevCpcvuYoxOLV5Im8q"
+    },
+    {
+      "album": {
         "name": "Fresas de la Capital (Remix)",
         "url": "https://open.spotify.com/album/0KbEkXdXyUEscWEtJulK3M"
       },
@@ -4768,7 +4794,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 153480,
       "name": "Los Cuadros",
       "url": "https://open.spotify.com/track/6kfXiwhfIxhyzkLamTyb6h"
@@ -5210,7 +5236,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 148245,
       "name": "Me Pongo Belikon",
       "url": "https://open.spotify.com/track/3CPGCgJs3AVKxxzPNKYjsY"
@@ -7032,7 +7058,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 212640,
       "name": "Tunechi (with Gabito Ballesteros)",
       "url": "https://open.spotify.com/track/5itIlFvG0hrl0p0FGLjcRj"
@@ -7214,6 +7240,24 @@
       "duration_ms": 156792,
       "name": "Vida Ventajosa",
       "url": "https://open.spotify.com/track/72kaj3MRKcGnv2dbukJQRA"
+    },
+    {
+      "album": {
+        "name": "Voy Enfierrado",
+        "url": "https://open.spotify.com/album/6gFwSuvC9NfquGCjxAC5UB"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "Voy Enfierrado",
+      "url": "https://open.spotify.com/track/39uJGraTSq4lC6UGfCLGm2"
     },
     {
       "album": {
@@ -7452,6 +7496,32 @@
       "duration_ms": 180000,
       "name": "\u00bfCu\u00e1les Fronteras?",
       "url": "https://open.spotify.com/track/4qgHbVa7Zo8S3bIQvvD99s"
+    },
+    {
+      "album": {
+        "name": "\u00c1lbum JGL",
+        "url": "https://open.spotify.com/album/3T4dCPP3hciPkPDsN9EFcL"
+      },
+      "artists": [
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170435,
+      "name": "\u00c1lbum JGL",
+      "url": "https://open.spotify.com/track/7wQMaZgnqNolW1ATTUW1mq"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2shzuwwKw0y"

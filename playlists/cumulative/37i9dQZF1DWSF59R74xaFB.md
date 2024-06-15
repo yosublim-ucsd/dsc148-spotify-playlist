@@ -4,7 +4,7 @@
 
 > El amor no se escucha, se siente...
 
-464 songs - 1 day 3 hr 49 min
+465 songs - 1 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -470,7 +470,8 @@
 | [¿Qué Ha Pasao'?](https://open.spotify.com/track/2zkVH2daHyjS51g7PRJFDn) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [¿Qué Ha Pasao'?](https://open.spotify.com/album/2KSuEqdiRePWkHU15Q9KH6) | 3:18 | 2021-10-21 | 2022-04-21 |
 | [¿Qué Hago Con los Besos?](https://open.spotify.com/track/7Ma67rqmM7JZBD3okCQ2W0) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Las Canciones Más Hermosas Son para Ti](https://open.spotify.com/album/28jeqiktbF30fTzOIdSx1C) | 3:29 | 2024-04-19 | 2024-05-04 |
 | [¿Tú Cómo Estás?](https://open.spotify.com/track/2Wv8i9zzxsNHWfYWY7BU9R) | [Alexander Acha](https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh) | [¿Tú Cómo Estás?](https://open.spotify.com/album/3blO4MbnkRDGVFYpQyk78x) | 3:47 | 2022-07-11 | 2022-08-12 |
-| [¿Y Qué Tal Si Funciona?](https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq) | 3:05 | 2022-08-04 |  |
+| [¿Y Qué Tal Si Funciona?](https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq) | 3:05 | 2022-08-04 | 2024-06-15 |
+| [Él](https://open.spotify.com/track/4uWMutZ5F10gRRsRo5ey3M) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Él](https://open.spotify.com/album/0fxCR3dXs9vmyUdmMf4sJ8) | 2:35 | 2024-06-14 |  |
 | [Él Lo Tiene Todo](https://open.spotify.com/track/5AV4sa9x9Qt3CYUIUbUadZ) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Él Lo Tiene Todo](https://open.spotify.com/album/1LGkKJvNJbYTeKcMzzECN5) | 3:34 | 2021-10-21 |  |
 
 \*This playlist was first scraped on 2022-01-21. Prior content cannot be recovered.

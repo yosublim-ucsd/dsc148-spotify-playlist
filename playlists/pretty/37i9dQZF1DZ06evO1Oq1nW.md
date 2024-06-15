@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Oq1nW.md) - [plain]
 
 > This is The O'Jays\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,067 likes - 50 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,077 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Oq1nW.md) - [plain]
 | 29 | [Your True Heart \(And Shining Star\)](https://open.spotify.com/track/5tJQbWlusbXJkCnSRTTRfH) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [My Favorite Person](https://open.spotify.com/album/6inkUk39Y7bzsJuQtCDCya) | 5:49 |
 | 30 | [Give the People What They Want](https://open.spotify.com/track/2ROR4vROCM58XLVIoCUgbm) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Survival](https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb) | 4:10 |
 | 31 | [Fading](https://open.spotify.com/track/1nq2iaxAzhVWeAszQHiJ7R) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Serious](https://open.spotify.com/album/5nZjWXpp6xHMshWatGuHUG) | 6:46 |
-| 32 | [Deeper \(In Love with You\)](https://open.spotify.com/track/2dnfU8amGZGqhjPxEll7vF) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The O'Jays In Philly](https://open.spotify.com/album/5Zs8zwez1HT4WbUZrc4AfP) | 2:39 |
+| 32 | [Start Stoppin'](https://open.spotify.com/track/43X4A9MxKCrPUSie2SZuuT) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The Last Word](https://open.spotify.com/album/1J7BPFUS7fzCkG4rc4AQQt) | 4:09 |
 | 33 | [Put Your Hands Together](https://open.spotify.com/track/57yGqjGKJUIzgKWdIZo9aR) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 4:07 |
-| 34 | [Start Stoppin'](https://open.spotify.com/track/43X4A9MxKCrPUSie2SZuuT) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The Last Word](https://open.spotify.com/album/1J7BPFUS7fzCkG4rc4AQQt) | 4:09 |
-| 35 | [Keep On Lovin' Me](https://open.spotify.com/track/6rpsIgRcHpiyK47Tqmym0v) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Emotionally Yours](https://open.spotify.com/album/1RkRxV7AWspDjtJxiuuQYf) | 4:43 |
-| 36 | [992 Arguments](https://open.spotify.com/track/7ycwZrSaXqhSaY5yeOZgdS) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 6:06 |
+| 34 | [Deeper \(In Love with You\)](https://open.spotify.com/track/2dnfU8amGZGqhjPxEll7vF) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The O'Jays In Philly](https://open.spotify.com/album/5Zs8zwez1HT4WbUZrc4AfP) | 2:39 |
+| 35 | [992 Arguments](https://open.spotify.com/track/7ycwZrSaXqhSaY5yeOZgdS) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 6:06 |
+| 36 | [Keep On Lovin' Me](https://open.spotify.com/track/6rpsIgRcHpiyK47Tqmym0v) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Emotionally Yours](https://open.spotify.com/album/1RkRxV7AWspDjtJxiuuQYf) | 4:43 |
 | 37 | [Message In Our Music](https://open.spotify.com/track/1lYCmnucH0yo2XGzd2h57r) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Message In The Music](https://open.spotify.com/album/1XoURLvpVgr7WR4fJ6OJSC) | 6:20 |
 | 38 | [I'll Be Sweeter Tomorrow \(Than I Was Today\)](https://open.spotify.com/track/704ko7ZDPIYq51VxFT7TJU) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The Essential O'Jays](https://open.spotify.com/album/4pdU7xetOuKZTvpqW5Kor8) | 3:01 |
 | 39 | [You and Me](https://open.spotify.com/track/4FGYePPcvd3yuxyDR3BsCJ) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Family Reunion \(Expanded Edition\)](https://open.spotify.com/album/2Q3cf5aSlA9Da2269Ai8fD) | 5:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Oq1nW.md) - [plain]
 | 49 | [Let Life Flow](https://open.spotify.com/track/64tjdNWWJA9RDh9NZGoPU9) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Message In The Music](https://open.spotify.com/album/1XoURLvpVgr7WR4fJ6OJSC) | 4:29 |
 | 50 | [What Am I Waiting For](https://open.spotify.com/track/7uWj004PAUVTlu7kqlb8wn) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Survival](https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb) | 3:56 |
 
-Snapshot ID: `ZmjlAAAAAACiHBSoiz0eMUfRNqTmR9V3`
+Snapshot ID: `Zmo2gAAAAADMzqH9O5Prhg95cIIhGnoM`

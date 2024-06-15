@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcP2rXJJ61py.md) - [plain]
 
 > All must choose\. The official playlist for House of the Dragon \(and House Targaryen\) — new season coming soon to Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,257 likes - 85 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,278 likes - 85 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

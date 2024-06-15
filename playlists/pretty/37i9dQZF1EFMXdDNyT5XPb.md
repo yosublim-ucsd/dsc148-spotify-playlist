@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5SUu7au16Jd2bvqWVN09HM">Jon "MAGS" Maguire</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297 likes - 87 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 298 likes - 87 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 38 | [All My Life](https://open.spotify.com/track/73GVjYWUni8NSkMkOfex1P) | [Charlotte Jane](https://open.spotify.com/artist/054xTptvdBhGqiTOHvgUaQ) | [All My Life](https://open.spotify.com/album/0Ilv0FUHDwpsVM4YjxqQ6W) | 3:57 |
 | 39 | [California \- TRU Concept Remix](https://open.spotify.com/track/6jXW2nHRS53cJmlED5PsGC) | [ROOKIES](https://open.spotify.com/artist/0JvtoI1m1MFbXukBpztHK8), [TRU Concept](https://open.spotify.com/artist/0i8byW08EV6y7Dv9gDPUCF) | [California \(TRU Concept Remix\)](https://open.spotify.com/album/5CcqCvkGG0mNtq736gT79s) | 3:20 |
 | 40 | [When You're Lonely](https://open.spotify.com/track/0kknXqNaOqZt0DqPkpE3fc) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [When You're Lonely](https://open.spotify.com/album/1kfbRsla1nsTki4JVunQFW) | 2:39 |
-| 41 | [Amen](https://open.spotify.com/track/5zYCXLfTdGAll7Ijoc2Llm) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [Behind Closed Doors](https://open.spotify.com/album/2xR9pfkpOoqjqLj3APBcZ1) | 3:12 |
-| 42 | [Fiesta](https://open.spotify.com/track/1v03tMJZRX2eN4dM89pCfS) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS) | [Fiesta](https://open.spotify.com/album/43GxzJfjtDyFx1m58gA3rd) | 2:20 |
+| 41 | [Fiesta](https://open.spotify.com/track/1v03tMJZRX2eN4dM89pCfS) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS) | [Fiesta](https://open.spotify.com/album/43GxzJfjtDyFx1m58gA3rd) | 2:20 |
+| 42 | [Amen](https://open.spotify.com/track/5zYCXLfTdGAll7Ijoc2Llm) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [Behind Closed Doors](https://open.spotify.com/album/2xR9pfkpOoqjqLj3APBcZ1) | 3:12 |
 | 43 | [Bridges](https://open.spotify.com/track/1i5jdHutOev5pxMZCiZ9OU) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Bridges](https://open.spotify.com/album/4Qw1soNFVQu96dlP7yDBSO) | 3:20 |
 | 44 | [Paycheck](https://open.spotify.com/track/2746lCDcKoBhnZLt3oKX1Q) | [ROOKIES](https://open.spotify.com/artist/0JvtoI1m1MFbXukBpztHK8), [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez) | [Paycheck](https://open.spotify.com/album/4SPM1AvZv9BLTQTOauUiop) | 2:57 |
 | 45 | [One Look \- Solo Piano Version](https://open.spotify.com/track/0K2gSCI8ehL7qkxzNmsqDZ) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth \- The Solo Piano Collection](https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO) | 3:18 |
@@ -85,10 +85,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 75 | [Save Me From Myself](https://open.spotify.com/track/5w3yOrJubytZAWTPCaejJB) | [Asher Knight](https://open.spotify.com/artist/1ksg2M68kC0Yaz3VA9dQX6) | [Step Back EP](https://open.spotify.com/album/0jjxVahwxOj0x4o8LYyOUT) | 3:28 |
 | 76 | [Oxygen](https://open.spotify.com/track/1TyOikNjNxgLY1xRa5an3Z) | [Asher Knight](https://open.spotify.com/artist/1ksg2M68kC0Yaz3VA9dQX6) | [Oxygen](https://open.spotify.com/album/7irVDSjaTPjKzCIKnqBe2n) | 2:57 |
 | 77 | [Cadillac](https://open.spotify.com/track/27vTsuK5jVQaYOnCp6egkc) | [Sweet California](https://open.spotify.com/artist/0D48D7HFC7NtWKftvsDIXq) | [3](https://open.spotify.com/album/2Esif7qCtdu8GaxVeLbMqN) | 2:56 |
-| 78 | [One Last Time](https://open.spotify.com/track/3V3J6ObCYR8nx1Sk2LqKBp) | [Scouting For Girls](https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd) | [B\-Sides & Rarities](https://open.spotify.com/album/3vwxBq57O0bRKBqHIRVI4a) | 3:01 |
-| 79 | [Lay With Me](https://open.spotify.com/track/5E3IZVtPnAMKJ5jC177L2M) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [Lay With Me](https://open.spotify.com/album/4MfKhq3j9MqPdicPW31B6o) | 2:51 |
-| 80 | [Being with You](https://open.spotify.com/track/3vup8i9EeA4bdyKa47dTKu) | [Si Cranstoun](https://open.spotify.com/artist/7csp7TiZwQF5Yn9Mt2Us2w) | [Modern Life](https://open.spotify.com/album/5DjyYDHHwbfG2v03F5ZXf0) | 2:57 |
-| 81 | [The Writing's On The Wall](https://open.spotify.com/track/0TBNJLc19JEr5PXwbyaWfX) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [The Writing's On The Wall](https://open.spotify.com/album/6Ed2yhkWOGoGog1QTSch0j) | 2:39 |
+| 78 | [Lay With Me](https://open.spotify.com/track/5E3IZVtPnAMKJ5jC177L2M) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [Lay With Me](https://open.spotify.com/album/4MfKhq3j9MqPdicPW31B6o) | 2:51 |
+| 79 | [One Last Time](https://open.spotify.com/track/3V3J6ObCYR8nx1Sk2LqKBp) | [Scouting For Girls](https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd) | [B\-Sides & Rarities](https://open.spotify.com/album/3vwxBq57O0bRKBqHIRVI4a) | 3:01 |
+| 80 | [The Writing's On The Wall](https://open.spotify.com/track/0TBNJLc19JEr5PXwbyaWfX) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [The Writing's On The Wall](https://open.spotify.com/album/6Ed2yhkWOGoGog1QTSch0j) | 2:39 |
+| 81 | [Being with You](https://open.spotify.com/track/3vup8i9EeA4bdyKa47dTKu) | [Si Cranstoun](https://open.spotify.com/artist/7csp7TiZwQF5Yn9Mt2Us2w) | [Modern Life](https://open.spotify.com/album/5DjyYDHHwbfG2v03F5ZXf0) | 2:57 |
 | 82 | [Given up, Giving Up](https://open.spotify.com/track/0boftIU5ryywsX1teSAcsl) | [Lilygreen & Maguire](https://open.spotify.com/artist/4TpXSJQCJhJynucuQQcgwB) | [Have a Good Time All the Time](https://open.spotify.com/album/3XxiTHnlXW5uWW4I6P3D90) | 3:51 |
 | 83 | [Falling out of Love](https://open.spotify.com/track/5dXgMYzwp3o19lLgSL3hdG) | [Lilygreen & Maguire](https://open.spotify.com/artist/4TpXSJQCJhJynucuQQcgwB) | [Have a Good Time All the Time](https://open.spotify.com/album/3XxiTHnlXW5uWW4I6P3D90) | 3:04 |
 | 84 | [Mercedes](https://open.spotify.com/track/0kfY0oZBLuvIZz5ccq8khh) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [WALK OF MY LIFE](https://open.spotify.com/album/74m4nnIEJqwiBD3Lv6f4Xt) | 2:54 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 86 | [All I Care About Is You](https://open.spotify.com/track/1rcEuqhEEc8GPbfNpxujBL) | [Lilygreen & Maguire](https://open.spotify.com/artist/4TpXSJQCJhJynucuQQcgwB) | [Have a Good Time All the Time](https://open.spotify.com/album/3XxiTHnlXW5uWW4I6P3D90) | 3:02 |
 | 87 | [Still Breathing](https://open.spotify.com/track/45Vv22j4BeBa7mmKiWSNoM) | [Jenn Bostic](https://open.spotify.com/artist/0TK1H3VeQnZEczCCdzAvap) | [Faithful](https://open.spotify.com/album/087LvnihJ9pst9AzEn0Iz0) | 3:23 |
 
-Snapshot ID: `AbT+tAAAAADwrvLYAmGSu2TpHTTY+5Sc`
+Snapshot ID: `AbUEVQAAAABPfv6XSGzZdOSjre/SKC8K`

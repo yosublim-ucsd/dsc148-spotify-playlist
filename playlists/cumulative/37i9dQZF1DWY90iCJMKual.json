@@ -371,6 +371,24 @@
     },
     {
       "album": {
+        "name": "baliktanaw",
+        "url": "https://open.spotify.com/album/7DdAQB0WEsUI2C8eDHYvnh"
+      },
+      "artists": [
+        {
+          "name": "KLLY",
+          "url": "https://open.spotify.com/artist/4eBTFDYHEwhgg4OE30E1eF"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "baliktanaw",
+      "url": "https://open.spotify.com/track/47zgYdCb0JjCMkdWqiGmlk"
+    },
+    {
+      "album": {
         "name": "bb girl",
         "url": "https://open.spotify.com/album/0WGdprszHqeEuOIu8F6t5D"
       },
@@ -2700,6 +2718,24 @@
       "duration_ms": 210782,
       "name": "Maharani",
       "url": "https://open.spotify.com/track/6KAnNItOZJ85PT3s0KqMgT"
+    },
+    {
+      "album": {
+        "name": "Mahirap",
+        "url": "https://open.spotify.com/album/2XbDGLTQxv8yYabdHR45HI"
+      },
+      "artists": [
+        {
+          "name": "Johann Regaya",
+          "url": "https://open.spotify.com/artist/3PID0KJW9zSuISzVtbBBpJ"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163350,
+      "name": "Mahirap",
+      "url": "https://open.spotify.com/track/4RUF5cWK5iKOa8OY8gCU0W"
     },
     {
       "album": {

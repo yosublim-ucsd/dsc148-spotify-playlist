@@ -66,7 +66,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 360120,
       "name": "1973",
       "url": "https://open.spotify.com/track/2gOmt646rC7CXUUdDUIvEL"
@@ -202,7 +202,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 161506,
       "name": "A Major Chord",
       "url": "https://open.spotify.com/track/2jEhdp80KX1N5N5t6Z6iR8"
@@ -482,7 +482,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 245759,
       "name": "Better",
       "url": "https://open.spotify.com/track/5l4Uhz4UZ2OLtPOyGeyr7M"
@@ -936,7 +936,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 171760,
       "name": "Everything's Coming Up Roses",
       "url": "https://open.spotify.com/track/5nGY247vAiGjDjZSiIZTS2"
@@ -1138,7 +1138,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 182648,
       "name": "Great Adventure",
       "url": "https://open.spotify.com/track/4H4K1tJ1FZu1oAX6pFclVe"
@@ -1334,6 +1334,28 @@
       "duration_ms": 172026,
       "name": "Hello!",
       "url": "https://open.spotify.com/track/4aoF3pcr9rFBsVHUlvGqVJ"
+    },
+    {
+      "album": {
+        "name": "THE WIZ (2024 Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/38VgKI3hE2ow4FcJqNiH8E"
+      },
+      "artists": [
+        {
+          "name": "THE WIZ Cast",
+          "url": "https://open.spotify.com/artist/0J4zCN8sPmKkNxtAPaHqZR"
+        },
+        {
+          "name": "Nichelle Lewis",
+          "url": "https://open.spotify.com/artist/7frhHBMTNfvx3TUkWpUwi7"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210188,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/7MtRvT1A0EvlgxAwcQyjCT"
     },
     {
       "album": {
@@ -1554,7 +1576,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 212506,
       "name": "I'm the Greatest Star",
       "url": "https://open.spotify.com/track/1qN1krRzAiZWTzTnIgAIXG"
@@ -2076,7 +2098,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 237273,
       "name": "Keep Marching (from the Broadway musical \"Suffs\")",
       "url": "https://open.spotify.com/track/62gT1akd5YKj8uw5bUx9Fe"
@@ -2120,7 +2142,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 234224,
       "name": "Leave The Light On (From The Notebook: Original Broadway Cast Recording)",
       "url": "https://open.spotify.com/track/0K9YKoeZ1aBjxXTIjIx8nM"
@@ -2162,7 +2184,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 256590,
       "name": "Let's Be Bad",
       "url": "https://open.spotify.com/track/4fBjGkTb0dRK3yKZ0MkPqa"
@@ -2496,7 +2518,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 183331,
       "name": "Moments In The Woods",
       "url": "https://open.spotify.com/track/5rUHTkUWnJ7M1l6glNkBJi"
@@ -2638,7 +2660,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 181400,
       "name": "New York, New York",
       "url": "https://open.spotify.com/track/1upGgJfj2TfobA9HBYruRR"
@@ -2726,7 +2748,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 285473,
       "name": "No Friends",
       "url": "https://open.spotify.com/track/5AnA6e58kZpAYLeEeNndGe"
@@ -3642,7 +3664,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 209394,
       "name": "That\u2019s the Way It Is",
       "url": "https://open.spotify.com/track/4gpbXdxDIRmRnJccrjsXsh"
@@ -3792,7 +3814,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 249167,
       "name": "The Ladies Who Lunch",
       "url": "https://open.spotify.com/track/22Hnu6M7hvv6L7BWVhnFmx"
@@ -3814,7 +3836,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 289599,
       "name": "The Lusty Month of May",
       "url": "https://open.spotify.com/track/24HEn0c2i2jgcGQAmdLuf2"
@@ -3844,7 +3866,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 313360,
       "name": "The Story of The Phantom",
       "url": "https://open.spotify.com/track/4mOzutLEORL2uc3lXUigQz"
@@ -3870,7 +3892,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 153686,
       "name": "The Worst Pies in London",
       "url": "https://open.spotify.com/track/7xMxtzwKAaRJ9wiC14aR6A"
@@ -3910,7 +3932,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 172150,
       "name": "This Is Not Over Yet",
       "url": "https://open.spotify.com/track/0D440Wh9nwpDhzF09blPfE"
@@ -3954,7 +3976,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 165693,
       "name": "Till There Was You",
       "url": "https://open.spotify.com/track/7uLFBM3ZcUGni4y3sVvfSF"
@@ -4088,6 +4110,32 @@
       "duration_ms": 303360,
       "name": "Turn It Off",
       "url": "https://open.spotify.com/track/3BvdyscylBbOhf0TL2S0yH"
+    },
+    {
+      "album": {
+        "name": "Hadestown (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1J1yxODbNlqKbwRqJxYJUP"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 De Shields",
+          "url": "https://open.spotify.com/artist/0vtjXmCLNmJti4fJ5dBhxc"
+        },
+        {
+          "name": "Hadestown Original Broadway Company",
+          "url": "https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH"
+        },
+        {
+          "name": "Ana\u00efs Mitchell",
+          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192281,
+      "name": "Wait for Me (Reprise)",
+      "url": "https://open.spotify.com/track/3fJJ28RcXGkgKlgbgBSbc8"
     },
     {
       "album": {
@@ -4424,7 +4472,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 141392,
       "name": "You Don\u2019t Know This Man",
       "url": "https://open.spotify.com/track/4W3EvxBwikKrEJA1h1fjY8"

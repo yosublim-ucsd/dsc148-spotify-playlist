@@ -1,12 +1,12 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Cover: Girl Scout",
-  "num_followers": 220101,
+  "num_followers": 220139,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmnk8gAAAAD/D6+qVSxr9OrdsEJdDHd0",
+  "snapshot_id": "Zmxt2wAAAAAxI5EWg4wiC2N7nAam9Ucp",
   "tracks": [
     {
       "added_at": "2024-06-12 18:12:02",
@@ -123,6 +123,22 @@
       "duration_ms": 199006,
       "name": "Wet Jesus",
       "url": "https://open.spotify.com/track/4qFP0z7k9J2kf8dqT1SzgO"
+    },
+    {
+      "added_at": "2024-06-14 16:20:43",
+      "album": {
+        "name": "Gravity!",
+        "url": "https://open.spotify.com/album/1F0hYqM4FsXQCWmpSmEoG6"
+      },
+      "artists": [
+        {
+          "name": "Issy Wood",
+          "url": "https://open.spotify.com/artist/3nyoodEXBH2JZUcZuT4KhU"
+        }
+      ],
+      "duration_ms": 197008,
+      "name": "Gravity!",
+      "url": "https://open.spotify.com/track/31EipxyslCQyaAmDiyHe4X"
     },
     {
       "added_at": "2024-06-12 18:12:02",

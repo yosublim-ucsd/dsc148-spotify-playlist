@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Cycle Of Sorrow",
+        "url": "https://open.spotify.com/album/2G9pjJF2gef8yjybCckRxy"
+      },
+      "artists": [
+        {
+          "name": "\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\u30c0\u30b9\u30c8",
+          "url": "https://open.spotify.com/artist/2Q0v7CWY0hXuqRX8NZ6REp"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198218,
+      "name": "Cycle Of Sorrow",
+      "url": "https://open.spotify.com/track/4kR9zodYDyqbcAMZ4Uiebq"
+    },
+    {
+      "album": {
         "name": "Dr. \u5b89\u548c \u3059\u3070\u308b \u30dc\u30a4\u30b9\u30e1\u30c3\u30bb\u30fc\u30b8",
         "url": "https://open.spotify.com/album/4yoHtdI2CP1VspPyjiElfg"
       },
@@ -384,6 +402,24 @@
     {
       "album": {
         "name": "\u30c8\u30b2\u30ca\u30b7\u30c8\u30b2\u30a2\u30ea \u30dc\u30a4\u30b9\u30e1\u30c3\u30bb\u30fc\u30b8",
+        "url": "https://open.spotify.com/album/4q3FUCzGgofVJu1kUPcACF"
+      },
+      "artists": [
+        {
+          "name": "\u300c\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30af\u30e9\u30a4\u300d",
+          "url": "https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 33920,
+      "name": "\u30c8\u30b2\u30ca\u30b7\u30c8\u30b2\u30a2\u30ea \u30dc\u30a4\u30b9\u30e1\u30c3\u30bb\u30fc\u30b8",
+      "url": "https://open.spotify.com/track/4KEz9VT2ha1i3Q7SRvC21N"
+    },
+    {
+      "album": {
+        "name": "\u30c8\u30b2\u30ca\u30b7\u30c8\u30b2\u30a2\u30ea \u30dc\u30a4\u30b9\u30e1\u30c3\u30bb\u30fc\u30b8",
         "url": "https://open.spotify.com/album/20JhoowvZq72C43DxuBJR3"
       },
       "artists": [
@@ -596,6 +632,24 @@
       "duration_ms": 184510,
       "name": "\u7a7a\u306e\u7bb1 - \u4e95\u82b9\u4ec1\u83dc\u3001\u6cb3\u539f\u6728\u6843\u9999",
       "url": "https://open.spotify.com/track/7EdVl2gW1Vg6koQ23AFPnU"
+    },
+    {
+      "album": {
+        "name": "\u7a7a\u767d\u3068\u30ab\u30bf\u30eb\u30b7\u30b9",
+        "url": "https://open.spotify.com/album/3igNo52F3h0N9TKxGmQCwW"
+      },
+      "artists": [
+        {
+          "name": "\u30c8\u30b2\u30ca\u30b7\u30c8\u30b2\u30a2\u30ea",
+          "url": "https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190254,
+      "name": "\u7a7a\u767d\u3068\u30ab\u30bf\u30eb\u30b7\u30b9",
+      "url": "https://open.spotify.com/track/4z8FBzJ2vYi390cYmMD7Yf"
     },
     {
       "album": {

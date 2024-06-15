@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Benny Dayal
 
-196 songs - 13 hr 27 min
+197 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Nila](https://open.spotify.com/track/6ph75FfaNYmVPJ0Cl4xBNA) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Jimmy Francis John](https://open.spotify.com/artist/0LQFqghLXxYbgbCfTh8y1d), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec) | [Nila](https://open.spotify.com/album/0C7MY1J5Ge7A6W65QNgMza) | 4:02 | 2023-01-09 | 2023-07-28 |
 | [Nin Mukham](https://open.spotify.com/track/5saGm4ThnJxgtliYLUIdYV) | [Marshall Robinson](https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Arun Alat](https://open.spotify.com/artist/5OlyzvlgJPRnzj4nZSgSwW) | [Nin Mukham](https://open.spotify.com/album/065esGl1GbCWdqSgU2kq51) | 4:20 | 2023-05-18 | 2023-07-28 |
 | [Nin Peru Entha](https://open.spotify.com/track/0FyKI6iz2TOmoIRrg4RRdJ) | [Teejay](https://open.spotify.com/artist/0TBQhPUEj1c5PlmTu3Hq5q), [Geethiyaa Varman](https://open.spotify.com/artist/2E9wl9bV29g6klARlECHsy) | [Nin Peru Entha](https://open.spotify.com/album/671on1d6WwmQn6GUDuy3lc) | 4:12 | 2024-06-07 |  |
+| [NISHANI](https://open.spotify.com/track/7ku3rPm8SXmRRaI6x3GGBa) | [Rishi Roy](https://open.spotify.com/artist/1CPC6yBRVnK1WxibuqwNNH), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc) | [NISHANI](https://open.spotify.com/album/5YGg7k9HioYHeUDJtms8k7) | 2:48 | 2024-06-14 |  |
 | [Njan Evide](https://open.spotify.com/track/08jUw3FwSDHbiG3JCTApUD) | [Anurag Vinod](https://open.spotify.com/artist/1A6anyCbedTpsecKOWxPgy), [m.cnan](https://open.spotify.com/artist/012VXrXmrn0tN8aN8AAc5A), [Sinsiha](https://open.spotify.com/artist/2CYKtGApU77sXioXyfd96E) | [Njan Evide](https://open.spotify.com/album/05ML1jG68YmNtTB9NqLaxX) | 3:34 | 2024-04-22 |  |
 | [Njan Evide](https://open.spotify.com/track/3fMfhQZIu7uF7Z54VI5ODF) | [Anurag Vinod](https://open.spotify.com/artist/1A6anyCbedTpsecKOWxPgy), [m.cnan](https://open.spotify.com/artist/012VXrXmrn0tN8aN8AAc5A), [Sinsiha](https://open.spotify.com/artist/2CYKtGApU77sXioXyfd96E) | [Njan Evide](https://open.spotify.com/album/2qiFRk2E8KfCW4Hb7XCp4v) | 3:37 | 2023-11-23 | 2024-02-09 |
 | [Oblivion](https://open.spotify.com/track/2JXMEXKqT4cnGI1ICepo8C) | [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Ashwin Renju](https://open.spotify.com/artist/6gX6JbltHfNOeMAK89YFkc) | [Oblivion](https://open.spotify.com/album/4Cqq8afOI5McMl7hQCKYy5) | 4:23 | 2022-09-23 | 2023-07-28 |

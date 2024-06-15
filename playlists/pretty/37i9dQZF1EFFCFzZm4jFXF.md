@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/74wXW513Ovy4ux507Wo67A">Brad Mair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 29 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 60 | [Focus](https://open.spotify.com/track/6OZtADZziUiDTULF8rl9ix) | [Daimy Lotus](https://open.spotify.com/artist/0st9WYbAji9jWuubd0HGDL) | [Focus](https://open.spotify.com/album/6hqAU3uwagQI3eIfFGSxPu) | 2:44 |
 | 61 | [Shut Up \(Move On\)](https://open.spotify.com/track/1StVteSWhBuwQLbUYnAtrK) | [Connie Talbot](https://open.spotify.com/artist/6v6kEdFKqKZ2T7XjjBD9um) | [Matters To Me](https://open.spotify.com/album/4srls6038abMh9Mw2jS3Yg) | 3:23 |
 | 62 | [Lost \(Never Enough\)](https://open.spotify.com/track/68l89zTMSlOXFdDKTqSFaL) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Unconscious Minds Innocently Blind](https://open.spotify.com/album/7mXofxuFDsD5ptKg45Mi7m) | 3:05 |
-| 63 | [Red Mist](https://open.spotify.com/track/2JcLNFlx0NB69p86D04Xc8) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Unconscious Minds Innocently Blind](https://open.spotify.com/album/7mXofxuFDsD5ptKg45Mi7m) | 3:17 |
-| 64 | [Following My Heart](https://open.spotify.com/track/2aYwidfNNH7zhdtX7IDzPG) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Following My Heart](https://open.spotify.com/album/1qo7PGE11c3aZtTJnn96py) | 4:19 |
+| 63 | [Following My Heart](https://open.spotify.com/track/2aYwidfNNH7zhdtX7IDzPG) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Following My Heart](https://open.spotify.com/album/1qo7PGE11c3aZtTJnn96py) | 4:19 |
+| 64 | [Red Mist](https://open.spotify.com/track/2JcLNFlx0NB69p86D04Xc8) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Unconscious Minds Innocently Blind](https://open.spotify.com/album/7mXofxuFDsD5ptKg45Mi7m) | 3:17 |
 | 65 | [November](https://open.spotify.com/track/3GMqhioWAjpte7cyEYrOPP) | [NOVACUB](https://open.spotify.com/artist/5AgzqwERKzaLXw6wSL5LcO) | [Fantasies](https://open.spotify.com/album/5RnS2uqk10a4qrGxW84Xb4) | 3:13 |
 | 66 | [Evolution](https://open.spotify.com/track/5T86BDcrE76auUDE6SGyvG) | [Katie Sky](https://open.spotify.com/artist/31bkgXHo67awewnmvrdsah) | [Evo](https://open.spotify.com/album/4iWd9ESivlAe73jkExfOSW) | 3:53 |
 | 67 | [Jump In](https://open.spotify.com/track/2p4td5ssFstuoFdSxGJwjm) | [Emma Stevens](https://open.spotify.com/artist/4ULAjXdgOJfwASBSBJFTUW) | [Light Year](https://open.spotify.com/album/2S9aF2HWF16IjwQ1RwcEgf) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 99 | [Pon Me](https://open.spotify.com/track/6gNgcVrZceb97UQFZbKPCk) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 4:15 |
 | 100 | [Find You](https://open.spotify.com/track/0wtNmuETEesYuB73ni1tZU) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:48 |
 
-Snapshot ID: `AbT+eAAAAAAc4LUGly0X914a4+3mfYiU`
+Snapshot ID: `AbUEVwAAAAAzfJ6cu+a1H6dIulQEleH2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZheHO7xislj.md) - [plain]
 
 > Perfect music for perfect food.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,726 likes - 200 songs - 13 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,729 likes - 200 songs - 13 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -171,9 +171,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZheHO7xislj.md) - [plain]
 | 161 | [Keep On Holding On](https://open.spotify.com/track/0ZYulti55Y3OumnwLQsn1M) | [Ann Sexton](https://open.spotify.com/artist/0GRaCCNpPCOZZ1tTheDKXJ) | [I Want to Be Loved](https://open.spotify.com/album/4vA6tOj1hFAib4Foxu2g6X) | 3:50 |
 | 162 | [How Does It Feel \- Radio Edit](https://open.spotify.com/track/1Xr1t0vvUdBZeUIuBFVicO) | [Giovanca](https://open.spotify.com/artist/1GHgheljbmRBI1NgiDkQ98) | [How Does It Feel \(Radio Edit\)](https://open.spotify.com/album/4Rv4wL7wVch0BVcy3oYFio) | 3:26 |
 | 163 | [What Will It Be?](https://open.spotify.com/track/5Z6Y7HWyIQJ1Y5DaepehAp) | [Room Eleven](https://open.spotify.com/artist/1fnqrUzStcFzRdTybhaOdT) | [Mmm..\. Gumbo? \[ International Version \]](https://open.spotify.com/album/2GhhKuE8coVyF5us5Glbe2) | 3:59 |
-| 164 | [How Come You Don't Call Me](https://open.spotify.com/track/5bAEFsQjo0DEJalVwFVmsW) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(Expanded Edition\)](https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu) | 3:57 |
-| 165 | [Seven Days in Sunny June](https://open.spotify.com/track/04hWLKwZKdwl1mZHafiphV) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Dynamite](https://open.spotify.com/album/7uG6DZHTBiDlrSXA43WpMb) | 3:57 |
-| 166 | [Little Bit of Feel Good](https://open.spotify.com/track/0cIoSMR8kFaJHF8eGgHBHs) | [Jamie Lidell](https://open.spotify.com/artist/6ASGmWCYupa0CXGtsDdYSI) | [Jim](https://open.spotify.com/album/3Hoe3hptCyII2pA7tNEAab) | 4:02 |
+| 164 | [Little Bit of Feel Good](https://open.spotify.com/track/0cIoSMR8kFaJHF8eGgHBHs) | [Jamie Lidell](https://open.spotify.com/artist/6ASGmWCYupa0CXGtsDdYSI) | [Jim](https://open.spotify.com/album/3Hoe3hptCyII2pA7tNEAab) | 4:02 |
+| 165 | [How Come You Don't Call Me](https://open.spotify.com/track/5bAEFsQjo0DEJalVwFVmsW) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(Expanded Edition\)](https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu) | 3:57 |
+| 166 | [Seven Days in Sunny June](https://open.spotify.com/track/04hWLKwZKdwl1mZHafiphV) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Dynamite](https://open.spotify.com/album/7uG6DZHTBiDlrSXA43WpMb) | 3:57 |
 | 167 | [Fantasy \- Single Version](https://open.spotify.com/track/3YcusdF0VAb25wLvmvJDJ6) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Best Of Earth, Wind & Fire Vol\. 1](https://open.spotify.com/album/6kEe268WsSL0bE5KPeaq8X) | 3:46 |
 | 168 | [Bad Bad News](https://open.spotify.com/track/5CDrDzan4wRW3Dj4LD6meH) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Bet Ain't Worth the Hand / Bad Bad News](https://open.spotify.com/album/7Csuf8rJjBOP4GK11pPCw7) | 3:27 |
 | 169 | [It's Love](https://open.spotify.com/track/7A8YLLXffwbChLJs1sW67Y) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Who Is Jill Scott? \(Words And Sounds Vol\. 1\)](https://open.spotify.com/album/2fwvQikqDmWiam99r1om1B) | 5:54 |

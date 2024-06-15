@@ -2412,7 +2412,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 157124,
       "name": "Cruise Control",
       "url": "https://open.spotify.com/track/5pM4L717J3qIMysY51BX0P"
@@ -6277,6 +6277,28 @@
     },
     {
       "album": {
+        "name": "Mene Woaa",
+        "url": "https://open.spotify.com/album/6w0SJqpnBeqYFR5vUqTdGt"
+      },
+      "artists": [
+        {
+          "name": "Strongman",
+          "url": "https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9"
+        },
+        {
+          "name": "Kesse",
+          "url": "https://open.spotify.com/artist/3pqyFnLAZA520AsRRXRXlx"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192748,
+      "name": "Mene Woaa",
+      "url": "https://open.spotify.com/track/24Ceh5kDkM1L4ySRer7Zwt"
+    },
+    {
+      "album": {
         "name": "Menko Me Hemaa",
         "url": "https://open.spotify.com/album/2DBshbcvgxUz5dk2pC2QMD"
       },
@@ -7760,7 +7782,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 204700,
       "name": "ORTESO",
       "url": "https://open.spotify.com/track/0KHLmZFKIKZLWKOlpSYbGH"
@@ -8870,6 +8892,52 @@
       "duration_ms": 163673,
       "name": "Scorpio Flow",
       "url": "https://open.spotify.com/track/7DHnchdhSiTSPSfbO26qZb"
+    },
+    {
+      "album": {
+        "name": "THE MENACE II",
+        "url": "https://open.spotify.com/album/6KArq6S6oonCN2lCps9KLL"
+      },
+      "artists": [
+        {
+          "name": "Skyface SDW",
+          "url": "https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG"
+        },
+        {
+          "name": "Sokka Sdw",
+          "url": "https://open.spotify.com/artist/4PlWzQ3evhRTWHK6u78Cdk"
+        },
+        {
+          "name": "Santha Maria SDW",
+          "url": "https://open.spotify.com/artist/5hCvzBLrAzt2ynKY7vsOM0"
+        },
+        {
+          "name": "Myron SDW",
+          "url": "https://open.spotify.com/artist/2ezbSvAJ08bVGV2xVxeL6F"
+        },
+        {
+          "name": "Dhope Sdw",
+          "url": "https://open.spotify.com/artist/29biEOpHKZcUg3W82KKwxp"
+        },
+        {
+          "name": "Richie Scott SDW",
+          "url": "https://open.spotify.com/artist/25YQS8HSFgtyPKoVtU39Pg"
+        },
+        {
+          "name": "Zuzu SDW",
+          "url": "https://open.spotify.com/artist/2E4ZfDAIEIuCu2vNSjQQeY"
+        },
+        {
+          "name": "Yaway SDW",
+          "url": "https://open.spotify.com/artist/4A8v3WnrShEtps1lrMIJFE"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174942,
+      "name": "SDW FLOW",
+      "url": "https://open.spotify.com/track/719PgmRswbrcaaBmej2fcT"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Tesoros musicales del ayer.
 
-172 songs - 10 hr 1 min
+173 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,13 +128,14 @@
 | [Oiga](https://open.spotify.com/track/1vJOhtqk2fjKHi7vVToylw) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Prisma](https://open.spotify.com/artist/1TyHjg9GOQ8b2oFSRAQhf3) | [Disco De Oro: Baladas, Vol\. 1](https://open.spotify.com/album/4BqbJnEBxaFr21syHgr6bc) | 3:29 | 2021-04-22 |  |
 | [Palabras Tristes](https://open.spotify.com/track/57xX3bw17BSVUu5WXGwoNw) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Solo Baladas](https://open.spotify.com/album/6ThVFZhZjPiHwkeoxjJZjh) | 3:26 | 2021-04-22 |  |
 | [Para Amarnos Más](https://open.spotify.com/track/2pkTdGQJPsHZdqWW4o4jEz) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Mis Mas Grandes Éxitos](https://open.spotify.com/album/28E8gaViYOVOVNz1OQUHD8) | 3:28 | 2021-04-22 | 2024-05-06 |
-| [Payasito \(Ponchinello\) \- Remasterizado](https://open.spotify.com/track/0V4iSCbu2ipf0eEj7S5lEV) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [Leyendas Solamente Los Mejores](https://open.spotify.com/album/0jHKZrqqHTc6uZIwYgKZbJ) | 2:36 | 2021-04-22 |  |
+| [Payasito \(Ponchinello\) \- Remasterizado](https://open.spotify.com/track/0V4iSCbu2ipf0eEj7S5lEV) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [Leyendas Solamente Los Mejores](https://open.spotify.com/album/0jHKZrqqHTc6uZIwYgKZbJ) | 2:36 | 2021-04-22 | 2024-06-15 |
 | [Penas](https://open.spotify.com/track/3xef9cUovCAdblrNkP1CRF) | [Sandro](https://open.spotify.com/artist/5srsgtoePlsp0eQIXmta1O) | [La Magia de Sandro](https://open.spotify.com/album/5AoO2XU5pild42akpbfv9s) | 3:16 | 2021-04-22 |  |
 | [Penelope](https://open.spotify.com/track/099StFOYvyeMEYQU6jxuyr) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Discografía en Castellano](https://open.spotify.com/album/3KRHH5V8abRbkgo9wCndko) | 4:01 | 2021-04-22 | 2022-07-28 |
 | [Pequena y Fragil](https://open.spotify.com/track/66cURA7Ngk7rkrQ5hI46kL) | [Sabu](https://open.spotify.com/artist/4n3J3bRVaUm9R4txtKTVuu) | [15 Originales](https://open.spotify.com/album/3oWuzkgyLf8EjSfTAt5Heg) | 4:07 | 2021-04-22 | 2022-07-22 |
 | [Perdon](https://open.spotify.com/track/6Vdz67EdEfB0d7BItvj9kt) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2) | [Lamento Borincano](https://open.spotify.com/album/0TlQhCdYh4J82vXiSoqUzl) | 3:12 | 2021-04-22 | 2024-04-12 |
 | [Perfume De Gardenias](https://open.spotify.com/track/3U3uaD3q51nImnnU2OUdCC) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [La Internacional Sonora Santanera Vol\. 1](https://open.spotify.com/album/6iEw0U3XZKzJoIpaA6l00V) | 3:24 | 2021-04-22 | 2022-07-27 |
 | [Piel Canela](https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canta En Español Con Los Panchos](https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w) | 2:17 | 2021-04-22 |  |
+| [Popurrí a Luis Arcaraz](https://open.spotify.com/track/3MAYyFpaHuMfgYU2Lsgxk5) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Mis Tributos](https://open.spotify.com/album/30JextuxXVMYWhTDuKQePj) | 7:00 | 2024-06-14 |  |
 | [Por volverte a ver](https://open.spotify.com/track/2FcleEUIUJbhS5Lh6a94Gf) | [Dyango](https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb) | [Bienvenido al Club](https://open.spotify.com/album/4AtWbdrwpxM0vpKc7X55Rv) | 4:01 | 2021-04-22 |  |
 | [Prometimos No Llorar](https://open.spotify.com/track/1J1VWWQE4KEpI9NgmxUmJg) | [Palito Ortega](https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD) | [Idolos de Argentina](https://open.spotify.com/album/6RlXYXZd7cCw6astTKZJIB) | 3:22 | 2021-04-22 | 2022-07-29 |
 | [Prometimos No Llorar](https://open.spotify.com/track/3TSJgodP7iM95y0kODUSyp) | [Palito Ortega](https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD) | [Palito Ortega y Sus Exitos](https://open.spotify.com/album/7LqDl8hqvxYKVArJWWABtC) | 3:22 | 2021-04-22 | 2024-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,846 likes - 90 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,856 likes - 90 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,10 +93,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 83 | [Palomita Mensajera](https://open.spotify.com/track/7hoTIUdGyOfdGrSdbIJ2DU) | [Duo Cejas Solis](https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1) | [Dúo Cejas Solís](https://open.spotify.com/album/6ykh0xH1kYW80selPX5WUS) | 2:02 |
 | 84 | [Adios palomita ingrata](https://open.spotify.com/track/4xCcI7PyEhlSqVWOxJjGj3) | [Palomita y Teresita base](https://open.spotify.com/artist/1OTvm82ikiCNo83RiKYGXo) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 1:50 |
 | 85 | [Camino a las cuchillas](https://open.spotify.com/track/4A9xC1FFaEiFdZNhjaHBpT) | [Los hermanos Cena](https://open.spotify.com/artist/24QlAxZc1ITOKpqu42UIgj) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 1:50 |
-| 86 | [Al Tigre de los Arenales](https://open.spotify.com/track/3zqLf2gIpaEDFfXQuWaUEU) | [Los Tatas del Chamamé](https://open.spotify.com/artist/5ivkhJSBl2creWgSBXy4rw) | [No Le Mezquine la Marca](https://open.spotify.com/album/0wjDpVzsLDJhQJFxh3tDv1) | 2:09 |
-| 87 | [Acordeona No Llores](https://open.spotify.com/track/3wRoOAl3kmaJuaKAPHkV7t) | [La Pilarcita](https://open.spotify.com/artist/0GXO5I9mqQqReUcDWHAmwX), [Miguel Arce y La Yunta del Chamamé](https://open.spotify.com/artist/61kxyPHjk1ql5qfFrLJXuM) | [12 Años Con el Chamamé](https://open.spotify.com/album/70teadXZbmyYMp8GPyNBcV) | 3:11 |
-| 88 | [Mi Anhelo](https://open.spotify.com/track/0RSJWvAw4zgKIZadqV3CaN) | [Los Hermanos Cardozo](https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR) | [Nuestras Mejores 30 Canciones](https://open.spotify.com/album/1xeeiW2aNJnj9Vweycehex) | 2:44 |
-| 89 | [A Chamamé, Lazo y Rebenque / el Quincho de la Historia \- Salud Apadrinador](https://open.spotify.com/track/7C3UsYAWwZ2Ijg2DUj6qYL) | [Marcelo Vera y sus Chamameceros](https://open.spotify.com/artist/2SIhciEoKQ94mNxTMjgtrL) | [A Chamamé, Lazo y Rebenque](https://open.spotify.com/album/40jDtqFvgrikiG9vj3gddX) | 6:10 |
+| 86 | [Acordeona No Llores](https://open.spotify.com/track/3wRoOAl3kmaJuaKAPHkV7t) | [La Pilarcita](https://open.spotify.com/artist/0GXO5I9mqQqReUcDWHAmwX), [Miguel Arce y La Yunta del Chamamé](https://open.spotify.com/artist/61kxyPHjk1ql5qfFrLJXuM) | [12 Años Con el Chamamé](https://open.spotify.com/album/70teadXZbmyYMp8GPyNBcV) | 3:11 |
+| 87 | [Al Tigre de los Arenales](https://open.spotify.com/track/3zqLf2gIpaEDFfXQuWaUEU) | [Los Tatas del Chamamé](https://open.spotify.com/artist/5ivkhJSBl2creWgSBXy4rw) | [No Le Mezquine la Marca](https://open.spotify.com/album/0wjDpVzsLDJhQJFxh3tDv1) | 2:09 |
+| 88 | [A Chamamé, Lazo y Rebenque / el Quincho de la Historia \- Salud Apadrinador](https://open.spotify.com/track/7C3UsYAWwZ2Ijg2DUj6qYL) | [Marcelo Vera y sus Chamameceros](https://open.spotify.com/artist/2SIhciEoKQ94mNxTMjgtrL) | [A Chamamé, Lazo y Rebenque](https://open.spotify.com/album/40jDtqFvgrikiG9vj3gddX) | 6:10 |
+| 89 | [Mi Anhelo](https://open.spotify.com/track/0RSJWvAw4zgKIZadqV3CaN) | [Los Hermanos Cardozo](https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR) | [Nuestras Mejores 30 Canciones](https://open.spotify.com/album/1xeeiW2aNJnj9Vweycehex) | 2:44 |
 | 90 | [Gastando Taco y Suela](https://open.spotify.com/track/1PLxI6MfKHbuGA4F6M0Ph4) | [Azul Carrizo La Dama Del Acordeón](https://open.spotify.com/artist/2DeJ9SnWMsoaImaAeXjmqt), [Santhyago Rios](https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT) | [Gastando Taco y Suela](https://open.spotify.com/album/2QCMPsSHLHeK2NkgsWmuXO) | 2:58 |
 
 Snapshot ID: `ZmopXwAAAACplcJtvQaG8xwP9WvWIBDg`

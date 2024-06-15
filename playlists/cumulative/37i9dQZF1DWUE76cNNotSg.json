@@ -1105,6 +1105,32 @@
     },
     {
       "album": {
+        "name": "Come in, We're Open !",
+        "url": "https://open.spotify.com/album/4b7xh2LjlAY3JQFuLcZMUH"
+      },
+      "artists": [
+        {
+          "name": "Tonique & Man",
+          "url": "https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq"
+        },
+        {
+          "name": "Jean Tonique",
+          "url": "https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI"
+        },
+        {
+          "name": "Mi Man",
+          "url": "https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231040,
+      "name": "Caroline (Hold Tight)",
+      "url": "https://open.spotify.com/track/2ZpNjVWAGnNA0ciUsLWYIG"
+    },
+    {
+      "album": {
         "name": "Casita",
         "url": "https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC"
       },
@@ -1740,7 +1766,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 203498,
       "name": "Daydreamin' - De Rien Remix",
       "url": "https://open.spotify.com/track/0oXr18HpsJlyhVhnKBNh1O"
@@ -3864,7 +3890,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 163981,
       "name": "IDK",
       "url": "https://open.spotify.com/track/4y9wGKxahGfBmvBJM7nGGB"
@@ -4338,7 +4364,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 196071,
       "name": "Kyle (i found you)",
       "url": "https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i"
@@ -4494,6 +4520,28 @@
       "duration_ms": 220842,
       "name": "Light That Shines Through",
       "url": "https://open.spotify.com/track/4YzP1J64MRM6AWsCUNQPIL"
+    },
+    {
+      "album": {
+        "name": "Lil Tune",
+        "url": "https://open.spotify.com/album/4Vv9jIuo0EOmqajkwXaSBH"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        },
+        {
+          "name": "Electric Guest",
+          "url": "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238936,
+      "name": "Lil Tune",
+      "url": "https://open.spotify.com/track/0xFKj9yBje6JakSVa2JsrO"
     },
     {
       "album": {
@@ -4878,7 +4926,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-08",
+      "date_removed": null,
       "duration_ms": 165789,
       "name": "Lovely Day - Austin Millz Remix",
       "url": "https://open.spotify.com/track/3BLqGwshCSzSLNZ2N9mGvy"
@@ -8048,7 +8096,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 208534,
       "name": "Telephone",
       "url": "https://open.spotify.com/track/6nJ5Me87gXfmxAvtsrKFcT"
@@ -9390,7 +9438,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 215823,
       "name": "Workin\u2019 On It",
       "url": "https://open.spotify.com/track/75hfAGu7iaC3hFSnyAwBUx"

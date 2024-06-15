@@ -684,7 +684,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 61375,
       "name": "Intro",
       "url": "https://open.spotify.com/track/57mkeOKwQQuNle97NWo2a8"
@@ -706,7 +706,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-11",
+      "date_removed": null,
       "duration_ms": 237037,
       "name": "It's Okay, I Promise",
       "url": "https://open.spotify.com/track/6zApq99qzcylaUENzFkSk8"
@@ -834,6 +834,32 @@
       "duration_ms": 258750,
       "name": "Mayday (feat. Harrison)",
       "url": "https://open.spotify.com/track/2m5zbzKP9t1w9AQGmUtmZl"
+    },
+    {
+      "album": {
+        "name": "Apricity",
+        "url": "https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "iaamSaam",
+          "url": "https://open.spotify.com/artist/7hiruGfUeM7Em4m8FaCsCx"
+        },
+        {
+          "name": "Matty Tavares",
+          "url": "https://open.spotify.com/artist/2xNQUZyvCA5heFKgWU55sW"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204249,
+      "name": "Midnight Snack (feat. iaamSaam & Matty Tavares)",
+      "url": "https://open.spotify.com/track/0aNGZDDGLR9VvdFL4ACBOk"
     },
     {
       "album": {
@@ -972,7 +998,7 @@
       ],
       "date_added": "2024-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 188516,
       "name": "Next Blue",
       "url": "https://open.spotify.com/track/6DmJLgV5oEEPwvWPq7R5XS"

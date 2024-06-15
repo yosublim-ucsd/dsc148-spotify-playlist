@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Mrs\. GREEN APPLE \*👉 <a href="https://spice.eplus.jp/articles/329516?utm\_source=spotify.com&utm\_medium=referral">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,644 likes - 83 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,661 likes - 83 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 8 | [Arigato](https://open.spotify.com/track/1xawCwHZ5SolACbSX0XgIH) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [AG! Calling](https://open.spotify.com/album/77wA5oi8vqF6VvSYeEt9P1) | 2:52 |
 | 9 | [Never Let Go](https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Never Let Go](https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn) | 2:46 |
 | 10 | [夜明けのあなたへ](https://open.spotify.com/track/22pLeTfTvGsM0SCBgw60Hb) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [夜明けのあなたへ](https://open.spotify.com/album/033g2GrsxkouVAvlxcQH1P) | 4:25 |
-| 11 | [抱きしめて](https://open.spotify.com/track/4jyErFsBkMdL5unFEFxyNQ) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [崎山蒼志](https://open.spotify.com/artist/0si9TC9u17YgqZfKmQujBG) | [抱きしめて](https://open.spotify.com/album/7BngxP1i5MR3WrXevF5UPf) | 3:59 |
+| 11 | [抱きしめて](https://open.spotify.com/track/4jyErFsBkMdL5unFEFxyNQ) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [抱きしめて](https://open.spotify.com/album/7BngxP1i5MR3WrXevF5UPf) | 3:59 |
 | 12 | [紫苑](https://open.spotify.com/track/0tzkqPsJQBm6lvtYp61rT5) | [荒谷翔大](https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2) | [紫苑](https://open.spotify.com/album/3NgD4PnatrEWfRI88cSA0c) | 4:07 |
 | 13 | [まほうのことば](https://open.spotify.com/track/6SXoaxhS29LKLNC6IWLBAL) | [映秀。](https://open.spotify.com/artist/5eqjGrtUd6Hed0ARBv4m0k) | [まほうのことば](https://open.spotify.com/album/4iQIJlizD5OuAvT73BZCPL) | 4:49 |
 | 14 | [Blues in the Closet](https://open.spotify.com/track/4lcupZPn3QWQWQ20C9ZL0M) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [Blues in the Closet](https://open.spotify.com/album/5C3ycPoEWRtvdBClDrH6uK) | 3:37 |

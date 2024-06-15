@@ -380,7 +380,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 194673,
       "name": "All Things - Live",
       "url": "https://open.spotify.com/track/04zTZbv3WwRWmpe7sHoyck"
@@ -1286,7 +1286,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 208660,
       "name": "Bigger Than Hope",
       "url": "https://open.spotify.com/track/4BwTyRXI3RBYoWTW9m592J"
@@ -1959,6 +1959,28 @@
     },
     {
       "album": {
+        "name": "Chances (Live)",
+        "url": "https://open.spotify.com/album/3XUVPO2QO9wPviUHTZJUK9"
+      },
+      "artists": [
+        {
+          "name": "Ke'Erron",
+          "url": "https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0"
+        },
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244891,
+      "name": "Chances - Live",
+      "url": "https://open.spotify.com/track/4QRgxKnKg77vYCCE8OYfWf"
+    },
+    {
+      "album": {
         "name": "Are We There Yet? (Expanded Edition)",
         "url": "https://open.spotify.com/album/6sYp4E312yo75m3UfXyOOt"
       },
@@ -2058,7 +2080,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 222498,
       "name": "Christ Our Wisdom - Live",
       "url": "https://open.spotify.com/track/1Kgr0o5i7GOBufM0ki9ipM"
@@ -3156,7 +3178,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 498332,
       "name": "For My Good (feat. Todd Galberth)",
       "url": "https://open.spotify.com/track/6QBOGJN18Sait5GtGJrW6k"
@@ -4097,6 +4119,24 @@
     },
     {
       "album": {
+        "name": "Help Us See Christ",
+        "url": "https://open.spotify.com/album/7I9fzUZrmBEtF6FxkOVZeN"
+      },
+      "artists": [
+        {
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249799,
+      "name": "Help Us See Christ",
+      "url": "https://open.spotify.com/track/02nIEKXN3xOrJr0I2ObiJn"
+    },
+    {
+      "album": {
         "name": "Your Name (Reimagined, Vol.2)",
         "url": "https://open.spotify.com/album/4HPfO77LpWRjGMs2RsrGxf"
       },
@@ -4456,7 +4496,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 277347,
       "name": "Honest Offering / I Surrender All - Live",
       "url": "https://open.spotify.com/track/6qWGguLKmE88iJMBxCRH4G"
@@ -5533,6 +5573,28 @@
     },
     {
       "album": {
+        "name": "It is Done (Live)",
+        "url": "https://open.spotify.com/album/5JykxP8EoWW9A9LhaUmLkG"
+      },
+      "artists": [
+        {
+          "name": "Christ For The Nations Worship",
+          "url": "https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7"
+        },
+        {
+          "name": "Marya Ad\u00e9",
+          "url": "https://open.spotify.com/artist/0ng9uodX69rzP8nm6VnuLJ"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355915,
+      "name": "It is Done - Live",
+      "url": "https://open.spotify.com/track/737zghobTBR0SauNxmcXrt"
+    },
+    {
+      "album": {
         "name": "Kingdom Kids, Vol. 2",
         "url": "https://open.spotify.com/album/09SYVhIz581fCHeLcRI4oU"
       },
@@ -5950,7 +6012,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 225606,
       "name": "Jesus, Our Judge and Our Savior",
       "url": "https://open.spotify.com/track/6Tkcc0fNdiZaTlJA9PImGc"
@@ -6274,6 +6336,24 @@
       "duration_ms": 328089,
       "name": "Lead Me Down",
       "url": "https://open.spotify.com/track/2HyOtUp1vp7Fe4B9mHSMu5"
+    },
+    {
+      "album": {
+        "name": "Lead Me On",
+        "url": "https://open.spotify.com/album/7gbWtOskZEfrNmjJB1JQ2p"
+      },
+      "artists": [
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 461209,
+      "name": "Lead Me On - Live",
+      "url": "https://open.spotify.com/track/1FlWA9jgMVzj9nn6aAcSZX"
     },
     {
       "album": {
@@ -12206,6 +12286,24 @@
       "duration_ms": 243040,
       "name": "Wonder (feat. Le'Andria Johnson)",
       "url": "https://open.spotify.com/track/48NBwJuiWaieFw8R5W3odZ"
+    },
+    {
+      "album": {
+        "name": "Retro Worship",
+        "url": "https://open.spotify.com/album/6BCCYStZ2GjzRAOwJUPWQm"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172821,
+      "name": "Wonderful Merciful Saviour",
+      "url": "https://open.spotify.com/track/7MQS6PLjtkz8BLWZw0HucY"
     },
     {
       "album": {

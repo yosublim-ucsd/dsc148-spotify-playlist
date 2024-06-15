@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh Latin Indie you should know. Cover: Andrea Bejar",
+  "description": "Fresh Latin Indie you should know. Cover: Bilbao",
   "name": "el nuevo indie",
   "tracks": [
     {
@@ -1383,6 +1383,24 @@
     },
     {
       "album": {
+        "name": "Arco y Flecha",
+        "url": "https://open.spotify.com/album/5TEvOwAKlHcNOqM5EUnohR"
+      },
+      "artists": [
+        {
+          "name": "Mi Amigo Invencible",
+          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163496,
+      "name": "Caballos",
+      "url": "https://open.spotify.com/track/24XhxQCrRigCd7wMEbbRaI"
+    },
+    {
+      "album": {
         "name": "Cabras",
         "url": "https://open.spotify.com/album/4l3SJgabo5QTmFqTfW3KM5"
       },
@@ -1828,7 +1846,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 177386,
       "name": "cielo dorado",
       "url": "https://open.spotify.com/track/0ZkB37rQ8hYoSnDobrVyGo"
@@ -2074,7 +2092,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 180646,
       "name": "Conexi\u00f3n Ancestral",
       "url": "https://open.spotify.com/track/66NoT1tpX8AzNQai4iUlVt"
@@ -2746,7 +2764,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 243234,
       "name": "Diamantes",
       "url": "https://open.spotify.com/track/4UNnkCN1QCJsmFFZOYeBdp"
@@ -3057,6 +3075,28 @@
     },
     {
       "album": {
+        "name": "El Big Bang",
+        "url": "https://open.spotify.com/album/21sw5hm7AanjSg7mZrBYxz"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        },
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243830,
+      "name": "El Big Bang",
+      "url": "https://open.spotify.com/track/61svvvUEUPodjZvXhXv74e"
+    },
+    {
+      "album": {
         "name": "El Diablo",
         "url": "https://open.spotify.com/album/11XDFJBi3v8KwRRadjEGwS"
       },
@@ -3245,6 +3285,24 @@
     },
     {
       "album": {
+        "name": "EN EL MISMO LUGAR",
+        "url": "https://open.spotify.com/album/0aNzPJUm5O1BjrCjWfp5ml"
+      },
+      "artists": [
+        {
+          "name": "Bilbao",
+          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167250,
+      "name": "EN EL MISMO LUGAR",
+      "url": "https://open.spotify.com/track/1ypOiHQBLeKpCge3rI2Qsq"
+    },
+    {
+      "album": {
         "name": "en la ciudad",
         "url": "https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM"
       },
@@ -3398,7 +3456,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 175248,
       "name": "Enamorada De La Luna",
       "url": "https://open.spotify.com/track/6LLEUU6BhIC1c1NijmfaSq"
@@ -6152,7 +6210,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 249917,
       "name": "LVRBOY",
       "url": "https://open.spotify.com/track/4EboiR8ycNdFamgaNcY4bb"
@@ -7311,6 +7369,24 @@
     },
     {
       "album": {
+        "name": "nada conmigo",
+        "url": "https://open.spotify.com/album/6sc1iSuIHONslSqcsJTylx"
+      },
+      "artists": [
+        {
+          "name": "Paul\u00e9",
+          "url": "https://open.spotify.com/artist/2m9jV2Fgzu706beiRass52"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198859,
+      "name": "nada conmigo",
+      "url": "https://open.spotify.com/track/7LeOk7c4D0TfUHRSD0JfKJ"
+    },
+    {
+      "album": {
         "name": "nada de nada",
         "url": "https://open.spotify.com/album/6sGpAWfVlSBzIAhrGrILBG"
       },
@@ -7396,7 +7472,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 208802,
       "name": "Nada por Hecho (feat. Leiva)",
       "url": "https://open.spotify.com/track/44XbWNRHal0zmIFVdxdG18"
@@ -8868,6 +8944,24 @@
       "duration_ms": 183253,
       "name": "Polyhymnia",
       "url": "https://open.spotify.com/track/7grLgKJ2Og4CS6o6ky26U8"
+    },
+    {
+      "album": {
+        "name": "Por Si Ma\u00f1ana No Estoy",
+        "url": "https://open.spotify.com/album/5s9VvQAkDbNI5jSkXXkHS5"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154509,
+      "name": "Por Si Ma\u00f1ana No Estoy",
+      "url": "https://open.spotify.com/track/5z2MwP7ajltQdy6aaq878q"
     },
     {
       "album": {
@@ -10408,7 +10502,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 277645,
       "name": "Solos t\u00fa y yo",
       "url": "https://open.spotify.com/track/0jCcPLWnbGR5S9KzYfkPcC"

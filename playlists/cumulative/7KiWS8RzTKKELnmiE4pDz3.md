@@ -4,7 +4,7 @@
 
 > 
 
-716 songs - 1 day 10 hr 20 min
+717 songs - 1 day 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -552,6 +552,7 @@
 | [Samurai](https://open.spotify.com/track/00LGJRRqN4AtSpHrvjIyiJ) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Samurai](https://open.spotify.com/album/1xG63QNNCiQvy0PERgfpaH) | 3:14 | 2024-05-28 |  |
 | [Save Me](https://open.spotify.com/track/0PzncLHHW8Utar5zZwW6zG) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [The Leek, Vol\. 1](https://open.spotify.com/album/7EqMqgEZ40knsZwfnVxA48) | 3:34 | 2023-01-07 | 2023-04-12 |
 | [Savior \- Interlude](https://open.spotify.com/track/5G4uLkFKdEZLcuNyeomQmE) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 2:32 | 2023-07-10 | 2023-12-14 |
+| [Scared Money \(feat\. J\. Cole and Moneybagg Yo\)](https://open.spotify.com/track/4heBcjj4Lw3X2sQVFNbLbz) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Scared Money](https://open.spotify.com/album/3TsYjPFN8qCxcYWHL3DtL8) | 3:24 | 2024-06-14 |  |
 | [SCIENTISTS & ENGINEERS \(feat\. Future & Eryn Allen Kane\)](https://open.spotify.com/track/1UsPflAuWTNteFUPJAJe8E) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [MICHAEL](https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ) | 4:13 | 2024-05-02 |  |
 | [Second Day Out](https://open.spotify.com/track/0HoWwOa0XVeUFsmYz1sJok) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Second Day Out](https://open.spotify.com/album/0P02ahe5RNTDXEKXIbQmMv) | 1:36 | 2023-01-11 | 2023-12-14 |
 | [Secure the Vibe \(feat\. Young Thug\)](https://open.spotify.com/track/0Zh07yxAYHbGrjd0wFd0be) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Drip Season 2](https://open.spotify.com/album/3vObc2h4jNdpjUoA1XlxCQ) | 2:44 | 2023-12-15 |  |

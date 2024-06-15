@@ -2,9 +2,9 @@
 
 ### [This Is Coke Studio Pakistan](https://open.spotify.com/playlist/37i9dQZF1DX8D7KQ5MCl7U)
 
-> All Coke Studio Pakistan tracks in one place\. Season 15 updated live.
+> Jhol Out Now\. All Coke Studio Pakistan tracks in one place\. Season 15 updated live.
 
-409 songs - 1 day 20 hr 50 min
+410 songs - 1 day 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Jhalliya](https://open.spotify.com/track/3SLF8aHcEjcSWXhQ8UFkhO) | [Faakhir Mehmood](https://open.spotify.com/artist/1qQJwdn7ly96oIwBlIh678), [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [Masooma Anwar and Shahzad Nawaz](https://open.spotify.com/artist/6q3kns9q4DT6KbycguuPfw) | [Coke Studio Season 9 Episode 5](https://open.spotify.com/album/0TYZKlP336TX3VUL39uXR2) | 7:11 | 2022-10-12 | 2024-04-14 |
 | [Jhalliya](https://open.spotify.com/track/57YKVDpOcbB2KHdlqMJlRX) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [MASUMA ANWAR](https://open.spotify.com/artist/55DHZ4eEuBZM0xfX7bCX1H), [Shahzad Nawaz](https://open.spotify.com/artist/7AA9yYS854NOiReCqUnHDJ), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Coke Studio: Season 9](https://open.spotify.com/album/1BFQiBnV2cxrw1WFsabMcL) | 7:11 | 2022-03-23 | 2022-07-29 |
 | [Jhalliya \(Coke Studio Season 9\)](https://open.spotify.com/track/5VFdLShbyF8zbSJUntxeMe) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [Masooma Anwar](https://open.spotify.com/artist/3uGlE431zQyS14tBgF5v3v), [Shahzad Nawaz](https://open.spotify.com/artist/7AA9yYS854NOiReCqUnHDJ) | [Jhalliya \(Coke Studio Season 9\)](https://open.spotify.com/album/5BurzqY4eWJs03pwsZMv2X) | 7:11 | 2022-03-23 | 2024-04-19 |
+| [Jhol](https://open.spotify.com/track/4XTgFBxBHN6var1BzAgE1m) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [Jhol](https://open.spotify.com/album/7grtFo2pj5wwRTM7c6NI9y) | 4:25 | 2024-06-14 |  |
 | [Jhoolay Laal](https://open.spotify.com/track/1D88Y8y9AjpEKFfss5nBPp) | [Sajjad Ali](https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD), [Fariha Pervez](https://open.spotify.com/artist/76zo0c28umB2V9unPHhyKd) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 6:44 | 2022-03-23 |  |
 | [Jind Mahiya](https://open.spotify.com/track/5e2SajlpiF93w5tsjDv0RL) | [Shuja Haider](https://open.spotify.com/artist/5efKihafekkUH7UjW5XUPt) | [Coke Studio Season 11 \(Sound of The Nation\)](https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri) | 3:57 | 2022-03-23 | 2022-07-26 |
 | [Jindjaani](https://open.spotify.com/track/4wWY9C6LjAFfcwKkKv8Dhb) | [Ali Hamza](https://open.spotify.com/artist/0O7Iu0NZE2lU74tHPcel7c), [Nirmal Roy](https://open.spotify.com/artist/29Nyne5MB3F1sTTPq0TQEs) | [Coke Studio Season 10: Episode 4](https://open.spotify.com/album/47IayN7LlLIu6A2RuzhbrX) | 5:34 | 2022-03-23 |  |
@@ -235,7 +236,7 @@
 | [Man Kunto Maula](https://open.spotify.com/track/7yFs95J0gZt15FjC4ylJVj) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [Ali Azmat](https://open.spotify.com/artist/38lgkItatcpCc0I9hV4nEr) | [Man Kunto Maula](https://open.spotify.com/album/4aDtJNM4kem6tl4CeR7YAt) | 9:28 | 2022-03-23 | 2024-04-19 |
 | [Man Kunto Maula](https://open.spotify.com/track/5kVjlBudgNx2D98tNwOzCK) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [Ali Azmat](https://open.spotify.com/artist/38lgkItatcpCc0I9hV4nEr), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Coke Studio: Season 9](https://open.spotify.com/album/1BFQiBnV2cxrw1WFsabMcL) | 9:28 | 2022-03-23 | 2022-07-22 |
 | [Mandh Waai](https://open.spotify.com/track/2ghJ4lWZesUYxW1McTVSRQ) | [The Sketches](https://open.spotify.com/artist/0OIVrDfMAAvg2ZrKI9zSHh), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions \(Season 4\)](https://open.spotify.com/album/49vBV5Xsw7Za0yPIVJZIEs) | 6:33 | 2022-03-23 | 2022-07-22 |
-| [Manzil\-e\-Sufi](https://open.spotify.com/track/44Az6YaqJlqzt5CtW3OcJH) | [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 5:52 | 2022-10-12 |  |
+| [Manzil\-e\-Sufi](https://open.spotify.com/track/44Az6YaqJlqzt5CtW3OcJH) | [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 5:52 | 2022-10-12 | 2024-06-15 |
 | [Maula Tera Noor](https://open.spotify.com/track/43MM7jOLwi9QQRbGXcz6Tx) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Coke Studio Season 10: Episode 7](https://open.spotify.com/album/6N6JL68Ji3Huws0DNHlnv3) | 8:28 | 2022-03-23 |  |
 | [Maula\-E\-Kull](https://open.spotify.com/track/6uAhKs1xbzs4QIREQzHXb1) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Maula\-E\-Kull](https://open.spotify.com/album/4Gb6vs7OZiB2WDExrgRAdl) | 9:52 | 2022-03-23 | 2024-04-19 |
 | [Maula\-E\-Kull](https://open.spotify.com/track/3zNiOIeRHP8Ag6ILRndRpo) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Coke Studio: Season 9](https://open.spotify.com/album/1BFQiBnV2cxrw1WFsabMcL) | 9:52 | 2022-03-23 | 2022-07-28 |

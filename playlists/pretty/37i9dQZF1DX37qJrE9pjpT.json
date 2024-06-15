@@ -1,6 +1,6 @@
 {
   "description": "The hottest rap anthems from Tanzania all in one playlist. Cover: Young Lunya",
-  "num_followers": 2897,
+  "num_followers": 2910,
   "original_name": "Bongo Bars",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,34 @@
       "duration_ms": 178187,
       "name": "BONNIE & CLYDE",
       "url": "https://open.spotify.com/track/4pDLXiEr8ZMq7sVQm4RIqQ"
+    },
+    {
+      "added_at": "2024-06-13 23:59:00",
+      "album": {
+        "name": "POAPOA",
+        "url": "https://open.spotify.com/album/5euaFZNfXeBQ9EgyKzcE1E"
+      },
+      "artists": [
+        {
+          "name": "Cde Hambagen",
+          "url": "https://open.spotify.com/artist/0NypjULeiFikRCIeRZXj8U"
+        },
+        {
+          "name": "AITER TREY",
+          "url": "https://open.spotify.com/artist/0lanR51aZnJ0cVWVwgSamL"
+        },
+        {
+          "name": "RASONIC",
+          "url": "https://open.spotify.com/artist/1LkF6cgkLYEfDzu6rzYR1s"
+        },
+        {
+          "name": "DEXTEROCKBEAT",
+          "url": "https://open.spotify.com/artist/3JZUAaEgBLw59okB4S6PYK"
+        }
+      ],
+      "duration_ms": 158197,
+      "name": "POAPOA",
+      "url": "https://open.spotify.com/track/7t9u8dRuCHMZMdpgOzqoK2"
     },
     {
       "added_at": "2024-06-13 23:59:00",

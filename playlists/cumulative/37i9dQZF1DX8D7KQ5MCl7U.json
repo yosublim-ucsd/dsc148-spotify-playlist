@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-01",
-  "description": "All Coke Studio Pakistan tracks in one place. Season 15 updated live.",
+  "description": "Jhol Out Now. All Coke Studio Pakistan tracks in one place. Season 15 updated live.",
   "name": "This Is Coke Studio Pakistan",
   "tracks": [
     {
@@ -3515,6 +3515,28 @@
     },
     {
       "album": {
+        "name": "Jhol",
+        "url": "https://open.spotify.com/album/7grtFo2pj5wwRTM7c6NI9y"
+      },
+      "artists": [
+        {
+          "name": "Maanu",
+          "url": "https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY"
+        },
+        {
+          "name": "Annural Khalid",
+          "url": "https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265817,
+      "name": "Jhol",
+      "url": "https://open.spotify.com/track/4XTgFBxBHN6var1BzAgE1m"
+    },
+    {
+      "album": {
         "name": "Coke Studio Season 7",
         "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
       },
@@ -5014,7 +5036,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 352378,
       "name": "Manzil-e-Sufi",
       "url": "https://open.spotify.com/track/44Az6YaqJlqzt5CtW3OcJH"

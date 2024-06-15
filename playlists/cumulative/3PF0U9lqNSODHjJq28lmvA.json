@@ -240,7 +240,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 148043,
       "name": "23",
       "url": "https://open.spotify.com/track/0d0fxW31DxScIglB0kVpkk"
@@ -2388,7 +2388,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 195314,
       "name": "Aurinko & Kuu",
       "url": "https://open.spotify.com/track/5iqIvR4YSrBOwNdsM8Jftg"
@@ -5245,6 +5245,24 @@
     },
     {
       "album": {
+        "name": "Catch My Breath",
+        "url": "https://open.spotify.com/album/7BSBFL1228tZkeczg2eZ5Y"
+      },
+      "artists": [
+        {
+          "name": "Stephen Murphy",
+          "url": "https://open.spotify.com/artist/0IGXpRPNet6sqbv0xB4Zwm"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246166,
+      "name": "Catch My Breath",
+      "url": "https://open.spotify.com/track/6Tz1BfDuU6ps0Ri3yiWWSS"
+    },
+    {
+      "album": {
         "name": "Catlover",
         "url": "https://open.spotify.com/album/74zBESEXRGnBwmEmiTz4pE"
       },
@@ -6174,6 +6192,24 @@
       "duration_ms": 262347,
       "name": "Cold Outside",
       "url": "https://open.spotify.com/track/2TPF9UHGlqKe9SBCzKdYqm"
+    },
+    {
+      "album": {
+        "name": "Cold Youth",
+        "url": "https://open.spotify.com/album/3HlT9vLIozged2PNkAsfL4"
+      },
+      "artists": [
+        {
+          "name": "TeYo",
+          "url": "https://open.spotify.com/artist/4quJ5m7lBQ7ZbBEDHikTEC"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172874,
+      "name": "Cold Youth",
+      "url": "https://open.spotify.com/track/0fvq5q0irgl7JvH1Tu4IME"
     },
     {
       "album": {
@@ -7337,6 +7373,24 @@
     },
     {
       "album": {
+        "name": "Defying Gravity",
+        "url": "https://open.spotify.com/album/5QyFbo0Rrja5onKP2eGBmC"
+      },
+      "artists": [
+        {
+          "name": "Florian Voss",
+          "url": "https://open.spotify.com/artist/5jK3Fm8xL2H1d7WnhbT2sW"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191888,
+      "name": "Defying Gravity",
+      "url": "https://open.spotify.com/track/6rYTJMwi9EiW6uv5rYsQ6i"
+    },
+    {
+      "album": {
         "name": "Dekadens",
         "url": "https://open.spotify.com/album/5Y73RHkNArxG7xnUOoVVSG"
       },
@@ -7438,7 +7492,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 210017,
       "name": "Der du g\u00e5r",
       "url": "https://open.spotify.com/track/2mXAscX3OMOA3U1mFzXtFa"
@@ -9074,7 +9128,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 204828,
       "name": "Dusty Desert Road",
       "url": "https://open.spotify.com/track/6fnozHQwhfKBcmpTjfAdqc"
@@ -11539,6 +11593,28 @@
     },
     {
       "album": {
+        "name": "Fire and ice",
+        "url": "https://open.spotify.com/album/1uOFIkHXEaKvY9iQRKYpw3"
+      },
+      "artists": [
+        {
+          "name": "Pothooks & Hangers",
+          "url": "https://open.spotify.com/artist/5TtWqtdZfRfSex3z4PWXAZ"
+        },
+        {
+          "name": "J-Brandt",
+          "url": "https://open.spotify.com/artist/3RhrhZkpeGiQxCvpYGTbWn"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285026,
+      "name": "Fire and ice",
+      "url": "https://open.spotify.com/track/1Z5gJm8bwNObM9zqfYFV65"
+    },
+    {
+      "album": {
         "name": "Fire in the air",
         "url": "https://open.spotify.com/album/0NUZcQcVw3NWHPPhLZSs1C"
       },
@@ -12542,7 +12618,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 191829,
       "name": "From the Wreckage",
       "url": "https://open.spotify.com/track/6PjcCw5SPRVtv7ON8fRQ2M"
@@ -14981,6 +15057,24 @@
     },
     {
       "album": {
+        "name": "HER TATTOOS",
+        "url": "https://open.spotify.com/album/1pxaIPFT8v00UTKLDonUHu"
+      },
+      "artists": [
+        {
+          "name": "The Richie Beakman Band",
+          "url": "https://open.spotify.com/artist/4AiPP0295err6qOcFKFC1F"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268363,
+      "name": "HER TATTOOS",
+      "url": "https://open.spotify.com/track/0G7VT1jHsC3uOpKPWyfOUk"
+    },
+    {
+      "album": {
         "name": "Unrelenting Suicide",
         "url": "https://open.spotify.com/album/3WxLOrQ364qCRMBStIdzFf"
       },
@@ -16625,6 +16719,24 @@
     },
     {
       "album": {
+        "name": "Sinclair",
+        "url": "https://open.spotify.com/album/0IoJkQhIZbZXFRF1dG12lU"
+      },
+      "artists": [
+        {
+          "name": "IVIX",
+          "url": "https://open.spotify.com/artist/0CdfkXly840nzSuduDhEQF"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233030,
+      "name": "i wish that I was normal about her but I'm not",
+      "url": "https://open.spotify.com/track/6av73NjKjmdZPkff3sQODg"
+    },
+    {
+      "album": {
         "name": "I Won't Back Down",
         "url": "https://open.spotify.com/album/5heCFRVrjrc7HdilZuL7rS"
       },
@@ -17594,7 +17706,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 169833,
       "name": "It makes no difference to me",
       "url": "https://open.spotify.com/track/2UizxwKzgevRpsI8SH8obn"
@@ -18574,6 +18686,24 @@
       "duration_ms": 150782,
       "name": "Katokum\u00e4",
       "url": "https://open.spotify.com/track/4CuvQi2S0tacsUUg9enpzJ"
+    },
+    {
+      "album": {
+        "name": "Kauan sitten kaukaisessa galaksissa",
+        "url": "https://open.spotify.com/album/6EBwtBXXrAdIOnohdlOrnO"
+      },
+      "artists": [
+        {
+          "name": "Y\u00f6n Polte",
+          "url": "https://open.spotify.com/artist/10rz5JoVSxAX3I69C8NeXo"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141093,
+      "name": "Kauan sitten kaukaisessa galaksissa",
+      "url": "https://open.spotify.com/track/3s2Z1ccc0MSA7BwveLd76d"
     },
     {
       "album": {
@@ -21032,7 +21162,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 128000,
       "name": "Luv 2 Me",
       "url": "https://open.spotify.com/track/5OtpYpylD2xyODSZyciIds"
@@ -21126,7 +21256,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 212793,
       "name": "L\u00e4mnar stan",
       "url": "https://open.spotify.com/track/1WYPCS7jtYP0JthTKCM7c1"
@@ -22238,7 +22368,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 213062,
       "name": "Midnight Drive",
       "url": "https://open.spotify.com/track/01qWRsUTIH3dI0VJhGBaSl"
@@ -23078,7 +23208,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 187566,
       "name": "My Heart Still Breaks",
       "url": "https://open.spotify.com/track/2jIUzvr9kp0ZKxBDjyNeKT"
@@ -23172,6 +23302,24 @@
       "duration_ms": 154462,
       "name": "My My",
       "url": "https://open.spotify.com/track/34kUinENu5KfXw5hGjr2qL"
+    },
+    {
+      "album": {
+        "name": "All Shades of The Drum - Compilation, Vol. 1",
+        "url": "https://open.spotify.com/album/4XTIGycVWg8thI2WcU9bbr"
+      },
+      "artists": [
+        {
+          "name": "Max SA",
+          "url": "https://open.spotify.com/artist/70juXESYrBbE8KOmDzxcab"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 471461,
+      "name": "My Prayer - Chant Mix",
+      "url": "https://open.spotify.com/track/65IIKAgC48F14G2EQqbA85"
     },
     {
       "album": {
@@ -25161,6 +25309,24 @@
     },
     {
       "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/4ws0fx3qt2mHnYQDhkigXk"
+      },
+      "artists": [
+        {
+          "name": "JustTheDani",
+          "url": "https://open.spotify.com/artist/7djz8hKAB3Eid8dI8Ai4Zh"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369364,
+      "name": "On",
+      "url": "https://open.spotify.com/track/25vF7wLnAR3FdjJOWKHj59"
+    },
+    {
+      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/4S1dp8P2RyMHYRXQTTCyDb"
       },
@@ -25806,6 +25972,24 @@
       "duration_ms": 149768,
       "name": "Out & About",
       "url": "https://open.spotify.com/track/5K1FLrMeLZMWgmP1Yxen9A"
+    },
+    {
+      "album": {
+        "name": "Out Of My Mind",
+        "url": "https://open.spotify.com/album/1RMt0zJYuWIoMdsMJHV0rd"
+      },
+      "artists": [
+        {
+          "name": "Cardio(US)",
+          "url": "https://open.spotify.com/artist/15jsS4gYrQE9zU5GRLokMF"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186895,
+      "name": "Out Of My Mind",
+      "url": "https://open.spotify.com/track/3zsrFhKSkornDn5rp2PrDj"
     },
     {
       "album": {
@@ -29349,6 +29533,28 @@
     },
     {
       "album": {
+        "name": "Second to None",
+        "url": "https://open.spotify.com/album/5iQhux99GCuA5hzeVhWoEv"
+      },
+      "artists": [
+        {
+          "name": "Andy E.",
+          "url": "https://open.spotify.com/artist/1Cnd7VjoBrVoccgXCLDDtk"
+        },
+        {
+          "name": "G\u00f6ran Edman",
+          "url": "https://open.spotify.com/artist/6D6dxVY0ooHhTOJ8YD6UMa"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326901,
+      "name": "Second to None",
+      "url": "https://open.spotify.com/track/4MPd9Sbbvj0gLDWQnxNufJ"
+    },
+    {
+      "album": {
         "name": "Pig's Blood",
         "url": "https://open.spotify.com/album/2rP5pC0q0BAlfimNsB5dU5"
       },
@@ -29805,6 +30011,24 @@
     },
     {
       "album": {
+        "name": "Shadows Tall",
+        "url": "https://open.spotify.com/album/0tXQnIbTMUAxHwshpaVny8"
+      },
+      "artists": [
+        {
+          "name": "God Given Ass",
+          "url": "https://open.spotify.com/artist/3YYiamegMtewnR6PjpzoGx"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101059,
+      "name": "Shadows Tall",
+      "url": "https://open.spotify.com/track/4chmViuxWggVSOlmw71fch"
+    },
+    {
+      "album": {
         "name": "She Called Me Love",
         "url": "https://open.spotify.com/album/0CiLSBx421v9QoKWa8SpkX"
       },
@@ -30068,7 +30292,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 214569,
       "name": "Show No Mercy",
       "url": "https://open.spotify.com/track/1EK9Mi8RXx5mNJ4jf2V1gb"
@@ -32322,7 +32546,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 216062,
       "name": "Stockholm i juli - 2024 Version",
       "url": "https://open.spotify.com/track/21eT7DbQghUIf8LeRpAAQI"
@@ -35753,6 +35977,24 @@
     },
     {
       "album": {
+        "name": "Surreal Nocturnes",
+        "url": "https://open.spotify.com/album/0GIgAKWFgOfrSiT3zc33Y4"
+      },
+      "artists": [
+        {
+          "name": "Sami Lust",
+          "url": "https://open.spotify.com/artist/4MJxUxKRbXxaTxilE16bYp"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138666,
+      "name": "Torment Anthem",
+      "url": "https://open.spotify.com/track/4LN4wl1BtS30gBtCbgLnUj"
+    },
+    {
+      "album": {
         "name": "One Drop (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1BGXgvYnpSxh1IAYaHB9JJ"
       },
@@ -39058,7 +39300,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 174720,
       "name": "With You",
       "url": "https://open.spotify.com/track/2govU7hxeaMch8Lr2wiIAv"
@@ -39076,7 +39318,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 159758,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/6Lgj62EFbVilPyngek65Ni"

@@ -4,7 +4,7 @@
 
 > Chill afro music to study with.
 
-294 songs - 15 hr 0 min
+295 songs - 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Back In Office](https://open.spotify.com/track/1Br3JtJFsEN9byeuryq9zQ) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Back In Office](https://open.spotify.com/album/1gfcxREIzWiCKzAw71PxHp) | 3:11 | 2022-06-09 | 2022-07-25 |
 | [BACK IN UNI](https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [BACK IN UNI](https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I) | 2:30 | 2022-10-07 | 2022-12-08 |
 | [Balablu](https://open.spotify.com/track/60Sewwrwex32vWYXNi6zgJ) | [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D), [Hitsound](https://open.spotify.com/artist/1gkLlq1xDlp3krBv3H9zLg) | [Balablu](https://open.spotify.com/album/6bf4XCYj8Y5wvbhrFKW7S9) | 2:27 | 2023-04-14 | 2023-05-12 |
-| [Be](https://open.spotify.com/track/6JzDmKsKyPmkKixEnk1Iwg) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Hexagon](https://open.spotify.com/album/3I3j5cgln5bast344XgvUA) | 2:43 | 2024-06-07 |  |
+| [Be](https://open.spotify.com/track/6JzDmKsKyPmkKixEnk1Iwg) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Hexagon](https://open.spotify.com/album/3I3j5cgln5bast344XgvUA) | 2:43 | 2024-06-07 | 2024-06-15 |
 | [Be Easy](https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [Be Easy](https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl) | 2:12 | 2023-06-09 |  |
 | [Beautiful Lies](https://open.spotify.com/track/319NHi9Pdo152nUvVBWlgS) | [Runda](https://open.spotify.com/artist/1ECPisHdyXxJzBSPaHCk0x) | [Beautiful Lies](https://open.spotify.com/album/6WlznjoXtwxdJvmTRabNxY) | 2:54 | 2023-07-14 | 2023-09-10 |
 | [Beautifully](https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Beautifully](https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx) | 2:49 | 2022-06-09 |  |
@@ -252,6 +252,7 @@
 | [Stand Strong \(feat\. Sunday Service Choir\)](https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg) | [Stand Strong \(feat\. Sunday Service Choir\)](https://open.spotify.com/album/3MhLmyxJueeWrXsRWlfw0e) | 3:02 | 2022-06-09 | 2023-10-13 |
 | [Steady](https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:23 | 2022-06-09 |  |
 | [Stranger](https://open.spotify.com/track/1ySzohfiLo3l12pcqW40p3) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Stranger](https://open.spotify.com/album/4Q4uGd58eng0BxY3aAF7Bo) | 3:08 | 2023-06-09 | 2023-09-10 |
+| [sundays](https://open.spotify.com/track/1eV2Rt6YeyNUVdTLQpX6IZ) | [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [sundays](https://open.spotify.com/album/1Qgw1P1tA1b4RIeZZrMLHP) | 2:54 | 2024-06-14 |  |
 | [sunsets in sao paolo](https://open.spotify.com/track/0UdBYMjHLlaHfGQZWKnWZk) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [High Life Sessions](https://open.spotify.com/album/7juqezi4APsV2nOoqoUtiB) | 2:19 | 2023-12-22 | 2024-02-03 |
 | [Sunshine](https://open.spotify.com/track/5ApfOFw9J5DZ2XLKQFL8Hm) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Sunshine](https://open.spotify.com/album/4OdvBnXcegSXUJmw3Vewhl) | 2:51 | 2024-03-22 | 2024-04-26 |
 | [SUPAHAWT](https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 1:50 | 2023-02-16 | 2023-03-25 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "This is Panic! At The Disco. The essential tracks, all in one playlist.",
+  "description": "This Is Panic! At The Disco. Los temas esenciales, todos en una lista.",
   "name": "This Is Panic! At The Disco",
   "tracks": [
     {
@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "A Fever You Can't Sweat Out",
+        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191866,
+      "name": "Camisado",
+      "url": "https://open.spotify.com/track/2hgkutEHVmJRg7drAJAFHi"
+    },
+    {
+      "album": {
         "name": "Too Weird to Live, Too Rare to Die!",
         "url": "https://open.spotify.com/album/1hxraaWEf3wFnJxADf8Dge"
       },
@@ -146,7 +164,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-09",
+      "date_removed": null,
       "duration_ms": 198466,
       "name": "Collar Full",
       "url": "https://open.spotify.com/track/1zN3CZlafjfEiMR9uXQGrW"
@@ -204,6 +222,24 @@
       "duration_ms": 203506,
       "name": "Death of a Bachelor",
       "url": "https://open.spotify.com/track/1BECwm5qkaBwlbfo4kpYx8"
+    },
+    {
+      "album": {
+        "name": "Pretty. Odd.",
+        "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254386,
+      "name": "Do You Know What I'm Seeing?",
+      "url": "https://open.spotify.com/track/1ac22sFSlj3iaQV2qAsFkK"
     },
     {
       "album": {
@@ -402,7 +438,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-06",
+      "date_removed": null,
       "duration_ms": 176343,
       "name": "High Hopes - White Panda Remix",
       "url": "https://open.spotify.com/track/1wR8ATQr0sxSfp6jGJ5Oe6"
@@ -456,7 +492,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 186634,
       "name": "I Write Sins Not Tragedies",
       "url": "https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du"
@@ -564,7 +600,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 200226,
       "name": "Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off",
       "url": "https://open.spotify.com/track/5eB7w8UZJKjL5XmnC6Pctg"
@@ -684,7 +720,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 186600,
       "name": "Nicotine",
       "url": "https://open.spotify.com/track/5Q4H1XkVHxQjnrHCUpS61d"
@@ -756,7 +792,7 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 217026,
       "name": "Ready to Go (Get Me Out of My Mind)",
       "url": "https://open.spotify.com/track/7m4HUtdXRUHEitLIqbVWxf"
@@ -864,7 +900,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-06",
+      "date_removed": null,
       "duration_ms": 192306,
       "name": "She's a Handsome Woman",
       "url": "https://open.spotify.com/track/3vl6Lv6TZO429Z2bBwCiZk"
@@ -882,7 +918,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 191239,
       "name": "Sugar Soaker",
       "url": "https://open.spotify.com/track/5SJdekNLV0K53bTxkP3tyq"
@@ -900,7 +936,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 195013,
       "name": "That Green Gentleman (Things Have Changed)",
       "url": "https://open.spotify.com/track/2d1D1E8M48hHE99u6BO8RN"
@@ -918,7 +954,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 226680,
       "name": "The Ballad of Mona Lisa",
       "url": "https://open.spotify.com/track/5rLi8B8qgk6qThwRnKHW2P"
@@ -936,7 +972,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-10",
+      "date_removed": null,
       "duration_ms": 171520,
       "name": "The Good, the Bad and the Dirty",
       "url": "https://open.spotify.com/track/5eoZTdiq4C4aoEfUwAN0ha"
@@ -1026,7 +1062,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 202026,
       "name": "Time to Dance",
       "url": "https://open.spotify.com/track/4C2i4NymWRem1LOVEqwWV6"
@@ -1080,7 +1116,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 178600,
       "name": "Victorious",
       "url": "https://open.spotify.com/track/6od5hFv9IT5JHc7NEF9HRv"

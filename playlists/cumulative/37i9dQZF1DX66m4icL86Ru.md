@@ -2,9 +2,9 @@
 
 ### [BBE](https://open.spotify.com/playlist/37i9dQZF1DX66m4icL86Ru)
 
-> Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Tinashe
+> Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Bree Runway
 
-533 songs - 1 day 1 hr 46 min
+534 songs - 1 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [Jane Doe](https://open.spotify.com/track/0YHHVezUoKC10MtiLUliqx) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [Jane Doe](https://open.spotify.com/album/4dtUttZLZbbkp6cN52zDy2) | 2:44 | 2022-11-11 | 2022-11-19 |
 | [Jump](https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Jump](https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX) | 2:27 | 2024-04-05 |  |
 | [JUMP \(feat\. Coast Contra\)](https://open.spotify.com/track/0Eyr5YGPwE4CzmNGXhxc87) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Coast Contra](https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ) | [JUMP](https://open.spotify.com/album/3QPAXE08JQFgIc5lsmQEg1) | 3:26 | 2022-07-08 | 2022-07-30 |
+| [JUST LIKE THAT](https://open.spotify.com/track/4alytlIn91jJgzsu6rSONb) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [JUST LIKE THAT](https://open.spotify.com/album/17Wk4tqPJ8rMH1hFCW4eLf) | 2:18 | 2024-06-14 |  |
 | [K Toven](https://open.spotify.com/track/0iCsRcu5mugWVlCMpD7wb1) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [K Toven](https://open.spotify.com/album/5vj3vuWumdZW2kOsBc9oXA) | 2:06 | 2023-07-21 | 2023-10-21 |
 | [Keep Dat Nigga](https://open.spotify.com/track/06eobTXs90ICbtbxhmgviZ) | [Icandy](https://open.spotify.com/artist/1I0tv3cE1cDIJvQpHyuCYN) | [Keep Dat Nigga](https://open.spotify.com/album/4EqXw4bTD5XpdI16CSlWng) | 2:18 | 2023-04-25 | 2023-06-10 |
 | [Keep Dat Nigga \(Part 2\) \(feat\. GloRilla, Kali & Big Boss Vette\)](https://open.spotify.com/track/4pgeI9ohPGzSDeKE1D4dYf) | [Icandy](https://open.spotify.com/artist/1I0tv3cE1cDIJvQpHyuCYN), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [Keep Dat Nigga \(Part 2\) \(feat\. GloRilla, Kali & Big Boss Vette\)](https://open.spotify.com/album/3WVAejN3gu5YJuH7OcGtr0) | 3:22 | 2023-06-09 | 2023-09-30 |
@@ -379,7 +380,7 @@
 | [pl4yg1rl](https://open.spotify.com/track/3xA9Cta8gafKNV1xNpMK2r) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [pl4yg1rl](https://open.spotify.com/album/1xQEgoJUeY0K2pc0p8LLXG) | 2:39 | 2022-09-16 | 2022-11-12 |
 | [Plan B](https://open.spotify.com/track/2PljnVsnl2PRwCvfhbdQup) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Plan B](https://open.spotify.com/album/7f9fxAFDIRaflD7W0k7Dhx) | 2:43 | 2022-04-22 | 2022-11-26 |
 | [PLASTIC](https://open.spotify.com/track/7KF3yW2VZX7Ddu6gPREdUf) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9), [ILOVEMAKONNEN](https://open.spotify.com/artist/3aGFCoR8xGN6DKwvdzeSja) | [PLASTIC](https://open.spotify.com/album/3Mgup1DdHwGNSejCMZz5Et) | 2:43 | 2022-07-08 | 2022-07-16 |
-| [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 | 2022-12-12 |  |
+| [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 | 2022-12-12 | 2024-06-15 |
 | [Players \- DJ Smallz 732 \- Jersey Club Remix](https://open.spotify.com/track/731vxZpBMap84vDSqyJjf0) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [Players](https://open.spotify.com/album/5mXzQrjx91TEYRWPQelBDH) | 1:57 | 2022-12-16 | 2022-12-31 |
 | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu) | [FendiDa Rappa](https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l) | 3:45 | 2023-07-07 | 2023-09-16 |
 | [Pop Out](https://open.spotify.com/track/0ng1fmKrKCorqjmFtNneFm) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Pop Out](https://open.spotify.com/album/3IzNDkXpDYxSzoDVNXBSbs) | 2:19 | 2022-04-22 | 2022-05-14 |

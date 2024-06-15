@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "Lo m\u00e1s pegado, lo m\u00e1s trendy, o sea Luck Ra, Maluma & KHEA.",
+  "description": "Lo m\u00e1s pegado, lo m\u00e1s trendy, o sea Paulo Londra.",
   "name": "El Top 2024",
   "tracks": [
     {
@@ -1921,6 +1921,32 @@
     },
     {
       "album": {
+        "name": "Casablanca",
+        "url": "https://open.spotify.com/album/1gnIIZdFJVklWscOqe1qTs"
+      },
+      "artists": [
+        {
+          "name": "Lucho SSJ",
+          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Awesome Pierre",
+          "url": "https://open.spotify.com/artist/7FWtti4FgQOvxvoB2Ycmmh"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187669,
+      "name": "Casablanca",
+      "url": "https://open.spotify.com/track/2N8kAHdidqn9oXgucjltl6"
+    },
+    {
+      "album": {
         "name": "CERO$ / LATI2",
         "url": "https://open.spotify.com/album/47LBnwJDhEr9orf488dmnX"
       },
@@ -3492,7 +3518,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
@@ -3738,7 +3764,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 148263,
       "name": "FLOR ALVAREZ | DJ TAO Turreo Sessions #23",
       "url": "https://open.spotify.com/track/2gaRESK3Gi4hEumz8oThJz"
@@ -3944,6 +3970,28 @@
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
+    },
+    {
+      "album": {
+        "name": "SAYONARA",
+        "url": "https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131853,
+      "name": "GATITAS SANDUNGUERAS VOL.1",
+      "url": "https://open.spotify.com/track/6BpZpCM8d8FJnVnr1IbnFL"
     },
     {
       "album": {
@@ -4330,7 +4378,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 171500,
       "name": "Inocente",
       "url": "https://open.spotify.com/track/6gV8ALkSHfJi7Bprabr1FC"
@@ -5674,7 +5722,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 250303,
       "name": "MADISON",
       "url": "https://open.spotify.com/track/4nW5qMepEJOkZONWTsrc7w"
@@ -5714,7 +5762,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 193708,
       "name": "Maldito Amor",
       "url": "https://open.spotify.com/track/5NlBak3CleM03JgyFHcHET"
@@ -6879,6 +6927,28 @@
     },
     {
       "album": {
+        "name": "No Me Llores",
+        "url": "https://open.spotify.com/album/3Iz5tFIsYZ1K6jV5nCjD52"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Leby",
+          "url": "https://open.spotify.com/artist/1Pk9sKrTxQ1lLfCg9b0PlF"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191846,
+      "name": "No Me Llores",
+      "url": "https://open.spotify.com/track/2fBL047Cv32R3UFEup6xkP"
+    },
+    {
+      "album": {
         "name": "NO SON KLLE",
         "url": "https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y"
       },
@@ -7389,6 +7459,24 @@
     },
     {
       "album": {
+        "name": "Paraca\u00eddas",
+        "url": "https://open.spotify.com/album/2i1Um2d1FxY2f9Dd7vgEk6"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165517,
+      "name": "Paraca\u00eddas",
+      "url": "https://open.spotify.com/track/5nHI1ntEJAmVtBX9j8BHCF"
+    },
+    {
+      "album": {
         "name": "Pasatiempo",
         "url": "https://open.spotify.com/album/79S3lGLNc5komX3DBpmleq"
       },
@@ -7665,6 +7753,24 @@
     },
     {
       "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186365,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
+    },
+    {
+      "album": {
         "name": "Pobre Coraz\u00f3n (En Vivo)",
         "url": "https://open.spotify.com/album/7kNdveFXAKstJ8iNMrwq4Z"
       },
@@ -7786,7 +7892,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 283884,
       "name": "Por Mil Noches",
       "url": "https://open.spotify.com/track/10zSgbysU2KyVTrcRmtu62"
@@ -9106,7 +9212,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 141071,
       "name": "Sin Querer",
       "url": "https://open.spotify.com/track/0kVpyCPMT52a05026zHGiq"

@@ -2,9 +2,9 @@
 
 ### [Enamorándose](https://open.spotify.com/playlist/37i9dQZF1DX14fkzxPABaL)
 
-> La música que te acompaña en el amor\. Foto: Tiago PZK
+> La música que te acompaña en el amor\. Foto: MYA
 
-213 songs - 11 hr 44 min
+214 songs - 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [la oportunidad](https://open.spotify.com/track/3bKnIobC3sURrYNptbi7TN) | [CLEMENTE](https://open.spotify.com/artist/4TDHTrq8xN1oKR2TFnBgez) | [la oportunidad](https://open.spotify.com/album/09AprFAIabYd5MnoHTE8Ei) | 4:15 | 2024-01-26 |  |
 | [La Primera Vez](https://open.spotify.com/track/3AS2NiyobOcS454xthOByC) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Primera Vez](https://open.spotify.com/album/5o6FpcNF63Rzf2sGZL1WYp) | 3:44 | 2023-02-13 | 2024-05-25 |
 | [La Serenata](https://open.spotify.com/track/2FtfaSWn9AFc1uDXNo3LKY) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [La Serenata](https://open.spotify.com/album/7pFJqxrRMrCsYfZZR2yrio) | 3:24 | 2023-10-26 | 2024-05-11 |
-| [lento](https://open.spotify.com/track/0YvDSab87x0r3nTExxhztv) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [lento](https://open.spotify.com/album/1Jb2Q2QQVjqUAMq7mbRkLU) | 3:16 | 2023-09-01 |  |
+| [lento](https://open.spotify.com/track/0YvDSab87x0r3nTExxhztv) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [lento](https://open.spotify.com/album/1Jb2Q2QQVjqUAMq7mbRkLU) | 3:16 | 2023-09-01 | 2024-06-15 |
 | [Ley De Gravedad](https://open.spotify.com/track/2vKbltUtfh6QxlnfPKZTda) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Ley De Gravedad](https://open.spotify.com/album/4iuzVlCaj60ttwNyV1tHFg) | 2:22 | 2022-02-11 | 2023-05-27 |
 | [Llamada Perdida](https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Llamada Perdida](https://open.spotify.com/album/51D2HpSpX5cD0sSXcl6Nm1) | 2:46 | 2022-03-11 | 2022-12-18 |
 | [Llueve sobre mojado](https://open.spotify.com/track/3z4XtoZVf8AOoR18Lnp7e1) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Llueve sobre mojado](https://open.spotify.com/album/16KVHgtlAeiAiav4Yko9KB) | 3:48 | 2022-01-14 | 2022-10-08 |
@@ -112,6 +112,7 @@
 | [Lo Que Hará Mi Boca](https://open.spotify.com/track/4p4r9gmGyvxbfsso3TCvCo) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Lo Que Hará Mi Boca](https://open.spotify.com/album/1SJALCW3q00ib4oDo3T2M6) | 2:56 | 2022-01-14 |  |
 | [Los Domingos No Se Toman Decisiones](https://open.spotify.com/track/2Dl25j4QfSCpyXy7VvnTcz) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Los Domingos No Se Toman Decisiones](https://open.spotify.com/album/1pSEM9UPQSvPjrD8YR6WlA) | 3:20 | 2022-10-07 |  |
 | [Los Tragos](https://open.spotify.com/track/7iXJg4IUyrWont5YSQrbKP) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Los Tragos](https://open.spotify.com/album/74ubg9xT4sJ4FmNxcGHIK0) | 2:51 | 2022-01-14 |  |
+| [LUNAR](https://open.spotify.com/track/1b1pn4vLdyxyRQLbGVEmL8) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [LUNAR](https://open.spotify.com/album/4IjhuO42v4hw5xxPSuk9C3) | 3:06 | 2024-06-14 |  |
 | [Machu Picchu](https://open.spotify.com/track/1LXb70u8SLsvBAPWHMCTMe) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Machu Picchu](https://open.spotify.com/album/7jqXGkhOKZ3wuZuD6IgTYR) | 2:59 | 2022-01-14 |  |
 | [Malibu](https://open.spotify.com/track/1An91dzcVTS96yP3a7F495) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Malibu](https://open.spotify.com/album/5cZ7MgzsFreFseajNN2sph) | 2:31 | 2022-03-11 | 2022-07-29 |
 | [Malibu](https://open.spotify.com/track/6no81SKcduoJ0L8AoO4PP7) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Malibu](https://open.spotify.com/album/05JQChm5ZKQLFvBeywelCU) | 2:31 | 2022-07-22 | 2024-01-13 |

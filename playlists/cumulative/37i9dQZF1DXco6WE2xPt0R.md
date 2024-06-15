@@ -4,7 +4,7 @@
 
 > longe dos perigos noturnos
 
-288 songs - 17 hr 9 min
+289 songs - 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [All Pride Aside with Summer Walker](https://open.spotify.com/track/5xJqIMx7GZg4Lt1dRims0V) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [All Pride Aside with Summer Walker](https://open.spotify.com/album/5OXWFTGZLq6ro7IKpL7E8v) | 4:18 | 2022-02-25 |  |
 | [All That Matters \- Spotify Singles](https://open.spotify.com/track/3lAVnqeRhV3zmkdDhEunUq) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Spotify Singles](https://open.spotify.com/album/2jsHeeW2DY8HuwZWmU1dvc) | 3:44 | 2022-08-05 |  |
 | [All That Matters \- Spotify Singles](https://open.spotify.com/track/7s0pdQmbXq6GtMHpkCTLLw) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Spotify Singles](https://open.spotify.com/album/0vwcoBJSy5vfb9MAt4hibx) | 3:44 | 2022-12-30 | 2024-04-19 |
+| [All Yours](https://open.spotify.com/track/0FK76UEefHKQ78AXEWJY31) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [DOPAMINE](https://open.spotify.com/album/1XSUdSojWNJCgNqKNxfcVr) | 3:28 | 2024-06-14 |  |
 | [Anita Valentine](https://open.spotify.com/track/54hEV0SJrVqPi0SePNXKXg) | [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [Dreamsoul Ballads](https://open.spotify.com/album/4YDB8xoCS8aCo93B5SfPCK) | 3:57 | 2024-04-12 |  |
 | [Another](https://open.spotify.com/track/0R3BfnrLdW13mopXeKOTQZ) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Another](https://open.spotify.com/album/2jc8WpsmpUSKMzAKBQw6di) | 2:32 | 2022-04-15 | 2022-08-27 |
 | [Any Time, Any Place](https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Janet](https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg) | 7:08 | 2022-02-25 | 2022-10-15 |
@@ -183,7 +184,7 @@
 | [No Pussy For Losers](https://open.spotify.com/track/5VDF6rpkDLlbmB8Vf8sxea) | [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [New Growth](https://open.spotify.com/album/5FqqxmI6py4VQuCDCvGFJO) | 2:57 | 2023-11-10 |  |
 | [Nothing Even Matters](https://open.spotify.com/track/3xhXKRGahWzcXF8rD5gUvd) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/2Uc0HAF0Cj0LAgyzYZX5e3) | 5:50 | 2022-02-25 |  |
 | [Nothing Even Matters](https://open.spotify.com/track/19LSoauRHOQHDuXvPdi9QH) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Nothing Even Matters](https://open.spotify.com/album/6zDsHTY8HvN8tTNb1me4bY) | 3:39 | 2024-03-08 | 2024-03-26 |
-| [Nothing Even Matters](https://open.spotify.com/track/1pJsmr01tzKnFfjeCvzcdc) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Nothing Even Matters](https://open.spotify.com/album/6r5e7Kryn9PUFiwofr19K0) | 3:39 | 2022-09-23 |  |
+| [Nothing Even Matters](https://open.spotify.com/track/1pJsmr01tzKnFfjeCvzcdc) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Nothing Even Matters](https://open.spotify.com/album/6r5e7Kryn9PUFiwofr19K0) | 3:39 | 2022-09-23 | 2024-06-15 |
 | [NOTHING EVEN MATTERS](https://open.spotify.com/track/5URTJ8nizZVFDSJVnyPjXf) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [HEAVY](https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX) | 3:39 | 2024-03-22 | 2024-04-19 |
 | [Nothing Even Matters](https://open.spotify.com/track/6J0UG6nhMQUDV3h0Tnds5k) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Nothing Even Matters](https://open.spotify.com/album/6SkRYiDjvd9qqQZKIPUj8J) | 3:39 | 2023-11-10 | 2024-03-18 |
 | [Nothing Even Matters \(feat\. D'Angelo\)](https://open.spotify.com/track/1Q0lOGB52skgfzdcq233vs) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:50 | 2022-07-01 | 2024-04-19 |

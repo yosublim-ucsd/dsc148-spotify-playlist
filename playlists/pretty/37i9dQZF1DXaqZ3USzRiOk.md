@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqZ3USzRiOk.md) - [plain]
 
 > Yo soy tu sangre, mi viejo, soy tu silencio y tu tiempo...
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,340 likes - 150 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,995 likes - 150 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,10 +153,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqZ3USzRiOk.md) - [plain]
 | 143 | [Tus Desprecios](https://open.spotify.com/track/6gyPojQkJawXsMryAeu5Se) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Tus Desprecios](https://open.spotify.com/album/3si2q6g6Mw94o5wsftqXH6) | 2:22 |
 | 144 | [Sin Ti](https://open.spotify.com/track/4DrxITDkVND3H3ptCuCvab) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [15 Exitos Inmortales](https://open.spotify.com/album/5F97yxlWDURcyfLJJfDplk) | 2:45 |
 | 145 | [No Hay Novedad](https://open.spotify.com/track/1cvuESXANPuTV27IFPRtPu) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/37ftvMPjA81bYds5F0NKZs) | 3:04 |
-| 146 | [Cancion Mexicana](https://open.spotify.com/track/0vCKgfSk9GmKGkfWrr0io5) | [María de Lourdes](https://open.spotify.com/artist/3jDbRC3mbW9SwWYDZatz5R) | [La Cancion Mexicana, Vol\. I](https://open.spotify.com/album/5jMc3Jzu9tUzJken0caYyS) | 2:46 |
-| 147 | [Oye Viejo](https://open.spotify.com/track/3TZqC6FXcc0O71tgJJgl9R) | [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w) | [Sigo de Frente](https://open.spotify.com/album/7KyS7fizjuGgxj8MaGU35P) | 3:26 |
+| 146 | [Mi Enemigo El Amor](https://open.spotify.com/track/1jpMQqcqmYBGCkAtNNLy4z) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/6IW904Y2lu2IWmTGdyt7CF) | 3:52 |
+| 147 | [Cancion Mexicana](https://open.spotify.com/track/0vCKgfSk9GmKGkfWrr0io5) | [María de Lourdes](https://open.spotify.com/artist/3jDbRC3mbW9SwWYDZatz5R) | [La Cancion Mexicana, Vol\. I](https://open.spotify.com/album/5jMc3Jzu9tUzJken0caYyS) | 2:46 |
 | 148 | [Cruz de Olvido](https://open.spotify.com/track/0JsMZOrqNNHki6AQgf8gNO) | [Hermanas Huerta](https://open.spotify.com/artist/1hU5wdiWeIWv4fBklDgta1) | [50 Años De Exitos](https://open.spotify.com/album/57WL06JjgLNLbqt9cVPmib) | 3:19 |
-| 149 | [Mi Enemigo El Amor](https://open.spotify.com/track/1jpMQqcqmYBGCkAtNNLy4z) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/6IW904Y2lu2IWmTGdyt7CF) | 3:52 |
+| 149 | [Oye Viejo](https://open.spotify.com/track/3TZqC6FXcc0O71tgJJgl9R) | [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w) | [Sigo de Frente](https://open.spotify.com/album/7KyS7fizjuGgxj8MaGU35P) | 3:26 |
 | 150 | [Cucurrucucu Paloma](https://open.spotify.com/track/4SYjzX3PaRgTxPlwI9lAJx) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [La Reina de la Canción Mexicana](https://open.spotify.com/album/4BLddBWl0kBBxGQnQQ9Sas) | 3:51 |
 
 Snapshot ID: `ZIyUeQAAAABQ1fNS96hUUoZMc9B9X0TJ`

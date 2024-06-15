@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5x5ck36i2uO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5x5ck36i2uO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5x5ck36i2uO)
 
-### [재즈맛 힙합](https://open.spotify.com/playlist/37i9dQZF1DX5x5ck36i2uO)
+### [재즈\-힙 카페 \(Jazz\-Hip Cafe\)](https://open.spotify.com/playlist/37i9dQZF1DX5x5ck36i2uO)
 
-> 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요.
+> 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요\. \(Enjoy hip\-hop music with a soft, luxurious jazz flavor.\)
 
 177 songs - 10 hr 7 min
 

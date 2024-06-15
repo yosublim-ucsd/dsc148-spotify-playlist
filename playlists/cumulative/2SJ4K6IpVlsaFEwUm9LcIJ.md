@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: may\-june 2024 \(previous playlists archived on my profile\)
 
-191 songs - 9 hr 47 min
+193 songs - 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Amponsah](https://open.spotify.com/track/3QXQ4J0akuPQjXS8SRpOrd) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Ebo Taylor](https://open.spotify.com/album/3fS88YBSilKVWgbZ4BksxS) | 4:17 | 2024-05-16 |  |
 | [Angel Style](https://open.spotify.com/track/1Wtl3WGuBQNghBQGajv87L) | [Hooky](https://open.spotify.com/artist/17eGQ5SRFwIv2c8FsrQf8f) | [Mirage](https://open.spotify.com/album/7uk0LH3pI5mDgFBiwbyLvO) | 1:58 | 2024-02-27 | 2024-03-10 |
 | [Anorak](https://open.spotify.com/track/4PLYD3XqOL4Wp8HtEQySFn) | [Peel Dream Magazine](https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd) | [Modern Meta Physic](https://open.spotify.com/album/6pwbRbZ8bOflLkA0lK2dFN) | 2:31 | 2024-01-31 | 2024-03-10 |
+| [Apple](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 | 2024-06-14 |  |
 | [Are You Lonesome Like Me?](https://open.spotify.com/track/7eXefSw0omrWAzAj9bPHdg) | [The Feminine Complex](https://open.spotify.com/artist/01KjnhCy6NazKcRifV68Mm) | [Livin' Love](https://open.spotify.com/album/0k5SeppJRa4SbJnaISfFqf) | 2:52 | 2024-04-25 | 2024-05-16 |
 | [Bad Energy](https://open.spotify.com/track/4Yey0xw2PmrLzize5wvU1T) | [Little Kid](https://open.spotify.com/artist/3GLx1rqsRp2jtViyRo3Qvz) | [A Million Easy Payments](https://open.spotify.com/album/7lC9Sa2mC5mM3VXhWgf2J5) | 7:29 | 2024-03-12 | 2024-05-16 |
 | [Beginning](https://open.spotify.com/track/3ySR4omemna2bEDRSen2nr) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [The Return of The Durutti Column](https://open.spotify.com/album/6ANCHHVpcvjCqQFUDUvDOW) | 1:39 | 2024-05-16 |  |
@@ -117,6 +118,7 @@
 | [Make My Bed](https://open.spotify.com/track/1st16i7UZSXuNteGAJ5pMR) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK), [i.v](https://open.spotify.com/artist/1j2x2XlKDXkrz52H1BrocF) | [100% PROD I.V.](https://open.spotify.com/album/4MGjgJ8yPEZmmjwE4IgW6y) | 2:00 | 2024-03-20 | 2024-05-16 |
 | [March 8](https://open.spotify.com/track/4jRcB4wbhwhYVLYQr6fB8Y) | [角銅真実](https://open.spotify.com/artist/6JsSDr5joM2nS6qE7OSPzQ) | [Ya Chaika](https://open.spotify.com/album/4tVFs4nSvfiD2TubHFYR0B) | 1:21 | 2024-01-31 | 2024-03-10 |
 | [Mario's Cafe](https://open.spotify.com/track/0DphBni42F0bpa2E7ptWjV) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [So Tough](https://open.spotify.com/album/2FTeecYAHUqD087fRHHuNF) | 4:37 | 2024-06-02 |  |
+| [Mean girls](https://open.spotify.com/track/1qKCO2Tocwg8CbepJ9uDtd) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:09 | 2024-06-14 |  |
 | [Microtronics 20](https://open.spotify.com/track/1AmWCQ6yHUOnWb0wKwhzaa) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Microtronics \- Volumes 1 & 2](https://open.spotify.com/album/3nk4c7gVqXNGzkCiVvpLQx) | 1:35 | 2024-04-18 | 2024-05-16 |
 | [Mint](https://open.spotify.com/track/0RYwEPSvf7KSj5YI0VA72t) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Deep in View](https://open.spotify.com/album/6xCiTaBETJXjbRP68e7g0P) | 3:23 | 2024-01-08 | 2024-03-10 |
 | [Moon Like a Pearl](https://open.spotify.com/track/2KkuQ32WtE9ImerVSnUWk5) | [Pia Fraus](https://open.spotify.com/artist/15cjYStG6SRmTS9d5wNVxT) | [Wonder What It's Like](https://open.spotify.com/album/4iIEtjfL8Xdyt0MglEJFTD) | 2:06 | 2024-03-09 | 2024-05-16 |

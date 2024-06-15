@@ -4,7 +4,7 @@
 
 > Novidades do pop nacional pra te deixar mais leve! Foto: GUPE
 
-623 songs - 1 day 6 hr 54 min
+624 songs - 1 day 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [e se for pra ser sincera:](https://open.spotify.com/track/1b0xzVRr8fIGa8dftdW3S8) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [e se for pra ser sincera:](https://open.spotify.com/album/3T8pak58PgFxme2Iu3mHet) | 3:14 | 2023-10-27 | 2023-11-25 |
 | [Efeito Você](https://open.spotify.com/track/2q8bpUPDWeBA7tz6HO1ZtP) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [Efeito Você](https://open.spotify.com/album/4386XCDmsvAdchh9Z3LSXp) | 2:48 | 2024-03-22 |  |
 | [EITA MENINA](https://open.spotify.com/track/2ItOwqddXxLZnOmQmlEbda) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [EITA MENINA](https://open.spotify.com/album/4NIEzSSeFxaLxa66ENiqaE) | 3:07 | 2022-05-13 | 2022-10-01 |
+| [Ela não é pra qualquer um](https://open.spotify.com/track/0lT3qWdrV0qwhjydlgs0uN) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Ela não é pra qualquer um](https://open.spotify.com/album/3agtWz9aoBrXHrbByXd3gS) | 3:13 | 2024-06-14 |  |
 | [Ela É Só Dela](https://open.spotify.com/track/6rkVvNaR1XtmmIbclLlvP3) | [Gabi Luthai](https://open.spotify.com/artist/1mPhhdjInAQwRBg8mI20TV) | [Ela É Só Dela](https://open.spotify.com/album/4sZAzREscCzfftBTpg5Eev) | 2:56 | 2023-07-07 | 2023-09-23 |
 | [Ela É Só Dela \(Ela Tá Voando 2.0\)](https://open.spotify.com/track/2lTXBZaGlHA4V43pBmQpzV) | [Gabi Luthai](https://open.spotify.com/artist/1mPhhdjInAQwRBg8mI20TV) | [Ela É Só Dela \(Ela Tá Voando 2.0\)](https://open.spotify.com/album/6AKzS7OH5Mtf3OQmQwQu70) | 2:55 | 2022-10-10 | 2022-11-29 |
 | [ELA É UM 10](https://open.spotify.com/track/0ZzaOfISh45LGsb3NLz8Yy) | [Sophi](https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn) | [ELA É UM 10](https://open.spotify.com/album/6zFcmzYKrpJT9rTs9FAovf) | 1:51 | 2022-10-21 | 2022-11-26 |

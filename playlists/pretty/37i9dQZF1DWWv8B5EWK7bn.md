@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,951 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,007 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 73 | [Island Family \- uh Remix](https://open.spotify.com/track/6OpTAE9fOLxYzQMMSWyo0s) | [Pictish Trail](https://open.spotify.com/artist/2H5FmmxEe60Tl6PZyfa95F), [uh](https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu) | [Island Family \(Deluxe Edition\)](https://open.spotify.com/album/2qbNe41za0YkFfAebWLXkc) | 4:29 |
 | 74 | [Cholericly Yours](https://open.spotify.com/track/38AYuyUvmoEk4ww4XSVTNI) | [Mayuko](https://open.spotify.com/artist/3QmghTihReRudKflr4UlTe) | [Songs To Whistle When Strolling Along The Abyss](https://open.spotify.com/album/1gAHzOsqvW1jV7lJCCrkle) | 4:12 |
 | 75 | [Dog's Life](https://open.spotify.com/track/2W7rrKEKlBGGYcYmTBHLCY) | [plantoid](https://open.spotify.com/artist/1vrdaOj47E8sKFcc1Ekoxd) | [Dog's Life](https://open.spotify.com/album/5gYTOwpIA1xyeS4olKWPPX) | 3:57 |
-| 76 | [A Liberdade é Cara](https://open.spotify.com/track/5ZRDV496C5qfNwfrC5yUQb) | [Flak](https://open.spotify.com/artist/4wVjp7gqPZ71EFJ16cqlV4), [Cachupa Psicadelica](https://open.spotify.com/artist/1cbsi2uimYgbyBiEssBoLO) | [A Liberdade é Cara](https://open.spotify.com/album/7dFapTJEEOuFLt3tQKbQCq) | 6:20 |
-| 77 | [Nodos](https://open.spotify.com/track/5NxaaeCOluia2b0t6Kmkwf) | [Radiotrónica](https://open.spotify.com/artist/0BBRvMCMiGIJBI3dn5vySN) | [Nodos](https://open.spotify.com/album/6Ja5JJOhoIkI7hf0r5pNlf) | 3:40 |
+| 76 | [Nodos](https://open.spotify.com/track/5NxaaeCOluia2b0t6Kmkwf) | [Radiotrónica](https://open.spotify.com/artist/0BBRvMCMiGIJBI3dn5vySN) | [Nodos](https://open.spotify.com/album/6Ja5JJOhoIkI7hf0r5pNlf) | 3:40 |
+| 77 | [A Liberdade é Cara](https://open.spotify.com/track/5ZRDV496C5qfNwfrC5yUQb) | [Flak](https://open.spotify.com/artist/4wVjp7gqPZ71EFJ16cqlV4), [Cachupa Psicadelica](https://open.spotify.com/artist/1cbsi2uimYgbyBiEssBoLO) | [A Liberdade é Cara](https://open.spotify.com/album/7dFapTJEEOuFLt3tQKbQCq) | 6:20 |
 | 78 | [Sekwar](https://open.spotify.com/track/52OBVPpbLif9YczNqUJUUd) | [Liars](https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z) | [The Apple Drop](https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ) | 4:34 |
 | 79 | [Hasta Mañana](https://open.spotify.com/track/52FOa3LKl18XqXzQQCIaXG) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [P.O.N](https://open.spotify.com/album/716BZhl3283diYxQJZCSyF) | 2:54 |
 | 80 | [Une Autre Attente](https://open.spotify.com/track/7w9ZA5e8wqoFH8vyGUBqoT) | [Laetitia Sadier](https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb) | [Une Autre Attente](https://open.spotify.com/album/1ySxaH3vNdGtrDk42suuA9) | 2:42 |

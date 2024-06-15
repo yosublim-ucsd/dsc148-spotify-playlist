@@ -4,7 +4,7 @@
 
 > La orilla donde el indie se fusiona con la electrónica.
 
-127 songs - 7 hr 53 min
+128 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Drinkee \- Radio Edit](https://open.spotify.com/track/1hWN9FB6Lxnqt2ij8uPH8V) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Drinkee \(Radio Edit\)](https://open.spotify.com/album/1e2Fq1cdld2yJJC0aMPkOK) | 3:11 | 2022-01-07 |  |
 | [Drive \(feat\. Wes Nelson\)](https://open.spotify.com/track/6eCmK3GQyFuTNWCJHsaF9d) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq) | [Drive \(feat\. Wes Nelson\)](https://open.spotify.com/album/7wDWQrTNxHSVvklLTucK2D) | 2:59 | 2022-01-07 |  |
 | [Drop The Game](https://open.spotify.com/track/06WnUZymWyJamDivTWqJZA) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Lockjaw](https://open.spotify.com/album/4wngUMjPQwiOngxqKPuh5p) | 3:41 | 2022-01-07 | 2023-03-11 |
+| [El Big Bang](https://open.spotify.com/track/61svvvUEUPodjZvXhXv74e) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [El Big Bang](https://open.spotify.com/album/21sw5hm7AanjSg7mZrBYxz) | 4:03 | 2024-06-14 |  |
 | [El Intento](https://open.spotify.com/track/35dd9EhmhDHSbqFCTUqJ8S) | [nano mundano](https://open.spotify.com/artist/0UTjWU7XvLl9O12dfTxhfl) | [El Intento](https://open.spotify.com/album/6GEv2BvWI9w3ok9NSxzY3Y) | 3:43 | 2022-03-18 | 2023-03-11 |
 | [El Muro](https://open.spotify.com/track/40KjgjBzPdYEknIkyq11bS) | [Inzul](https://open.spotify.com/artist/6MOWxtx3qLM9FR0EVn4xGp) | [El Muro](https://open.spotify.com/album/38xzRsuZMB90afWuLksZA8) | 3:43 | 2022-01-07 |  |
 | [Eleuthera \- Catching Flies Remix](https://open.spotify.com/track/7sv8W4bgj7MA7ZUN3GKsOg) | [Tor](https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG), [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Eleuthera \(Catching Flies Remix\)](https://open.spotify.com/album/7ahqwpECJWcTM1egy6nGGd) | 4:23 | 2022-01-07 |  |
@@ -109,7 +110,7 @@
 | [Silence & Secrets](https://open.spotify.com/track/05S0KvoffEaOwYbCv4y08e) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Silence & Secrets](https://open.spotify.com/album/5e5z9MRAVAOItfLScdFwtd) | 4:28 | 2022-01-07 |  |
 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 | 2022-01-21 | 2022-03-18 |
 | [Somewhere \(feat\. Gus Dapperton\)](https://open.spotify.com/track/0bmQ5H9mHFzRnJ4ZntylFg) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Somewhere \(feat\. Gus Dapperton\)](https://open.spotify.com/album/6QPRwYT6byImXj3adBh6wm) | 3:03 | 2022-01-07 |  |
-| [Strangers](https://open.spotify.com/track/3OG1FcdabAqljk4irWH3Uu) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Strangers](https://open.spotify.com/album/5fKWSlweaDx1wZwTE00bit) | 3:40 | 2022-01-07 |  |
+| [Strangers](https://open.spotify.com/track/3OG1FcdabAqljk4irWH3Uu) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Strangers](https://open.spotify.com/album/5fKWSlweaDx1wZwTE00bit) | 3:40 | 2022-01-07 | 2024-06-15 |
 | [Strangers](https://open.spotify.com/track/5ieLgTo5CXbIgoO0X2KJHf) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0) | 3:40 | 2023-03-10 | 2024-04-19 |
 | [Strangers](https://open.spotify.com/track/62sQ7kCpCSD2YdJ5CZ9RrM) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans \(Deluxe\)](https://open.spotify.com/album/6btrtJOSwgx00BgBsC4T16) | 3:40 | 2022-07-29 | 2022-11-13 |
 | [Strangers](https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 3:40 | 2022-03-18 | 2024-01-12 |

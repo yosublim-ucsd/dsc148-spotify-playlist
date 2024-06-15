@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The latest in pop. Cover: Sabrina Carpenter",
+  "description": "The latest in pop. Cover: RAYE",
   "name": "Pop All Day",
   "tracks": [
     {
@@ -1123,6 +1123,24 @@
     },
     {
       "album": {
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/6JxK2wrBeT1L6lTD6NAICm"
+      },
+      "artists": [
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210338,
+      "name": "All Yours",
+      "url": "https://open.spotify.com/track/14bmkoHIGDA4F3coRG6d2O"
+    },
+    {
+      "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
       },
@@ -1840,6 +1858,28 @@
       "duration_ms": 182174,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/4JbhkzpHuOliTceuvjw2p2"
+    },
+    {
+      "album": {
+        "name": "Awesome (feat. Baby Tate)",
+        "url": "https://open.spotify.com/album/0U31u16tUxLte3O7ghLpm6"
+      },
+      "artists": [
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145588,
+      "name": "Awesome (feat. Baby Tate)",
+      "url": "https://open.spotify.com/track/0aOFo1FPyMdgopCac1QMmc"
     },
     {
       "album": {
@@ -2734,7 +2774,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 176178,
       "name": "Before You Leave Me",
       "url": "https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA"
@@ -3028,7 +3068,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 133187,
       "name": "Better At Love",
       "url": "https://open.spotify.com/track/0K2gsmFktfSIZpDG6bjBsh"
@@ -3232,6 +3272,24 @@
       "duration_ms": 161367,
       "name": "Bigger Person",
       "url": "https://open.spotify.com/track/2Kqw2ECnErSCU9bxPSVgGx"
+    },
+    {
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
       "album": {
@@ -4568,7 +4626,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 170066,
       "name": "Candy Paint",
       "url": "https://open.spotify.com/track/2hZQJequTwkaizRM0NZRa1"
@@ -4684,6 +4742,24 @@
       "duration_ms": 264438,
       "name": "Carolina - From The Motion Picture \u201cWhere The Crawdads Sing\u201d",
       "url": "https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU"
+    },
+    {
+      "album": {
+        "name": "Carry You Home",
+        "url": "https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166880,
+      "name": "Carry You Home",
+      "url": "https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ"
     },
     {
       "album": {
@@ -7153,6 +7229,24 @@
     },
     {
       "album": {
+        "name": "Double Life (From \"Despicable Me 4\")",
+        "url": "https://open.spotify.com/album/6k4sB6SP3ekH3iIhaDuUV4"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190782,
+      "name": "Double Life - From \"Despicable Me 4\"",
+      "url": "https://open.spotify.com/track/07oO1U722crtVcavi6frX6"
+    },
+    {
+      "album": {
         "name": "dougie jones",
         "url": "https://open.spotify.com/album/7txL4P1ciH1FRiyzjWJSy9"
       },
@@ -8295,6 +8389,24 @@
     },
     {
       "album": {
+        "name": "fairies",
+        "url": "https://open.spotify.com/album/0FSDMokIskaCvKIcpxsHbP"
+      },
+      "artists": [
+        {
+          "name": "Ashley Sienna",
+          "url": "https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "fairies",
+      "url": "https://open.spotify.com/track/6iB0lnSrYWa4emQTnm8EfA"
+    },
+    {
+      "album": {
         "name": "These Things Happen Too",
         "url": "https://open.spotify.com/album/4j7Y3vNhgBBRAujJl85UDk"
       },
@@ -8590,7 +8702,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 157974,
       "name": "Feel It - From The Original Series \u201cInvincible\u201d",
       "url": "https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF"
@@ -8612,7 +8724,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 241951,
       "name": "Feel Less",
       "url": "https://open.spotify.com/track/0uEOOlUaUT2bC2a3anIVjG"
@@ -8794,6 +8906,24 @@
       "duration_ms": 201360,
       "name": "Flip A Switch. (feat. Coi Leray) - Remix",
       "url": "https://open.spotify.com/track/72b7GzsnUAjsk5I56hLkjp"
+    },
+    {
+      "album": {
+        "name": "flip phone",
+        "url": "https://open.spotify.com/album/0Kwwg43ZAWqx7W3QO7Baww"
+      },
+      "artists": [
+        {
+          "name": "PIAO",
+          "url": "https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124553,
+      "name": "flip phone",
+      "url": "https://open.spotify.com/track/0jLYbfU5qwk4ivxrE4sZUi"
     },
     {
       "album": {
@@ -11027,6 +11157,28 @@
     },
     {
       "album": {
+        "name": "HEAT",
+        "url": "https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217529,
+      "name": "HEAT",
+      "url": "https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD"
+    },
+    {
+      "album": {
         "name": "Dreamland (+ Bonus Levels)",
         "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
       },
@@ -12454,7 +12606,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 149667,
       "name": "I Don't Wanna Wait",
       "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
@@ -13418,6 +13570,24 @@
       "duration_ms": 145667,
       "name": "i'm yours",
       "url": "https://open.spotify.com/track/37vVp2sWHuuIBOSl1NswP6"
+    },
+    {
+      "album": {
+        "name": "I'VE ALWAYS HAD THINGS FOR COWBOYS",
+        "url": "https://open.spotify.com/album/1wE70FqUt8R720VSFkCpFl"
+      },
+      "artists": [
+        {
+          "name": "EARTH TO EMILY",
+          "url": "https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181764,
+      "name": "I'VE ALWAYS HAD THINGS FOR COWBOYS",
+      "url": "https://open.spotify.com/track/06RpfITNxlLaFbXFjiqhI3"
     },
     {
       "album": {
@@ -15877,6 +16047,24 @@
     },
     {
       "album": {
+        "name": "Look Who's Laughing Now",
+        "url": "https://open.spotify.com/album/3O3FXwwOlzxhWbETL8sfe3"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174660,
+      "name": "Look Who's Laughing Now",
+      "url": "https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7"
+    },
+    {
+      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
       },
@@ -16650,7 +16838,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 179586,
       "name": "LUNCH",
       "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
@@ -19072,6 +19260,24 @@
       "duration_ms": 170528,
       "name": "Not My Fault (with Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M"
+    },
+    {
+      "album": {
+        "name": "Not the One",
+        "url": "https://open.spotify.com/album/6I3vn2doCf3jZcwIfAKgXX"
+      },
+      "artists": [
+        {
+          "name": "Sophia Fracassi",
+          "url": "https://open.spotify.com/artist/7MPa3OSyGyLNq9CedDr2LT"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182538,
+      "name": "Not the One",
+      "url": "https://open.spotify.com/track/0zX7CXBX6b89D1yUuU3LVS"
     },
     {
       "album": {
@@ -21554,7 +21760,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 143493,
       "name": "Rich",
       "url": "https://open.spotify.com/track/5d1P1mec9QUKTWurAA1fvk"
@@ -21598,7 +21804,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 158728,
       "name": "Ride Or Die, Pt. 2 (with Villano Antillano & Tokischa)",
       "url": "https://open.spotify.com/track/5oYVxFt2k4SkVp6wzVsFWN"
@@ -23945,6 +24151,24 @@
     },
     {
       "album": {
+        "name": "Spiral",
+        "url": "https://open.spotify.com/album/1FTD5Ik0Ex0MofuRwt8eYR"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217018,
+      "name": "Spiral",
+      "url": "https://open.spotify.com/track/6RfgvYyQaM3lFys834sWwx"
+    },
+    {
+      "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
       },
@@ -24014,6 +24238,24 @@
       "duration_ms": 172533,
       "name": "Stargazing",
       "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
+    },
+    {
+      "album": {
+        "name": "STARRING ROLE",
+        "url": "https://open.spotify.com/album/6GG2BEXqzYsOVHANQtZSUP"
+      },
+      "artists": [
+        {
+          "name": "Lilyisthatyou",
+          "url": "https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "STARRING ROLE",
+      "url": "https://open.spotify.com/track/41uZqmD7n7B62synBiLK7U"
     },
     {
       "album": {
@@ -25264,7 +25506,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 158813,
       "name": "The Anchor & The Kite",
       "url": "https://open.spotify.com/track/14GaOalWhixmfpfFVw8ycy"
@@ -26364,7 +26606,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 171618,
       "name": "Too Much Of A Good Thing",
       "url": "https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7"
@@ -27154,7 +27396,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 138535,
       "name": "Unwind",
       "url": "https://open.spotify.com/track/2nuDAyuVQOyQ3PBp4r1SO9"
@@ -29734,7 +29976,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 181500,
       "name": "you're like",
       "url": "https://open.spotify.com/track/7BE81V2jbUz6HtGOIGHGuZ"

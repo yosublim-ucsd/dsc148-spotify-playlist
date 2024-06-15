@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover:\bA Ryun(\uc544\ub95c)) \uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
+  "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover:\b\uacb8(GYE0M)) \uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
   "name": "K-Folk/Acoustic",
   "tracks": [
     {
@@ -5840,7 +5840,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 280507,
       "name": "RAINING",
       "url": "https://open.spotify.com/track/423tVeKOEyAnYZoUg6mAwG"
@@ -7340,6 +7340,24 @@
       "duration_ms": 236329,
       "name": "The Night With You",
       "url": "https://open.spotify.com/track/5V8x6nU0JEFL6qfbct7P2p"
+    },
+    {
+      "album": {
+        "name": "The one of the past",
+        "url": "https://open.spotify.com/album/4l4texZRPRdgSy5kP99CNe"
+      },
+      "artists": [
+        {
+          "name": "GYE0M",
+          "url": "https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170154,
+      "name": "The one of the past",
+      "url": "https://open.spotify.com/track/1lMehRXG8eAGalZwyMfTxz"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,716 likes - 69 songs - 3 hr 43 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,717 likes - 69 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 45 | [Mercy](https://open.spotify.com/track/6u1BgjotlF5sUwMvpTqtdA) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Mercy](https://open.spotify.com/album/3oM67ehG9IkPgF8JqQVPLl) | 2:30 |
 | 46 | [Thousand Sides](https://open.spotify.com/track/7DsJI3bDw7kkOGGdJuCVfp) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Jess Ball](https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07) | [Thousand Sides](https://open.spotify.com/album/4rK2goOC4f0FkcbzeW7sD8) | 3:11 |
 | 47 | [Man In Finance \(with David Guetta\)](https://open.spotify.com/track/5ZKnajvQQbMJeUhqilzi5T) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance \(with David Guetta\)](https://open.spotify.com/album/1ifW7NwlodIApyFTgoEtyS) | 1:53 |
-| 48 | [Lenda](https://open.spotify.com/track/10BvbmIVI24CBEhnhpxPmZ) | [Dim3nsion](https://open.spotify.com/artist/7vEd9uAqFgC4p4EOXiFuQL), [Mirage](https://open.spotify.com/artist/5uOKNdDGSzc6aGyRPKq0pf) | [Lenda](https://open.spotify.com/album/2Op4vCzrAghNvkzQtXPfe8) | 3:51 |
+| 48 | [Lenda](https://open.spotify.com/track/10BvbmIVI24CBEhnhpxPmZ) | [Dim3nsion](https://open.spotify.com/artist/7vEd9uAqFgC4p4EOXiFuQL), [Mirage \(Fr\)](https://open.spotify.com/artist/3FAxFvN7WZ6ZLhRJisqD0f) | [Lenda](https://open.spotify.com/album/2Op4vCzrAghNvkzQtXPfe8) | 3:51 |
 | 49 | [Breaking Myself](https://open.spotify.com/track/5cXP5e2U4nA1wtypcDOZo3) | [ASYM](https://open.spotify.com/artist/793hRxjXyRIHMuM8oRTlLZ) | [Breaking Myself](https://open.spotify.com/album/5THkhGIu6C7lCnpwB9trsX) | 2:53 |
 | 50 | [Shallow Water](https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Shallow Water](https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w) | 3:22 |
 | 51 | [Psychotek](https://open.spotify.com/track/40S4EmuYBEY75SVGhejtrT) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u) | [Psychotek](https://open.spotify.com/album/1HMsXLMCLC990fsyTebV6h) | 3:26 |

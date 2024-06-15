@@ -939,6 +939,24 @@
     },
     {
       "album": {
+        "name": "Gotitas Saladas",
+        "url": "https://open.spotify.com/album/3qm5AFyntlDrD2NbcVGGdU"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203021,
+      "name": "Gotitas Saladas",
+      "url": "https://open.spotify.com/track/5Sas859pm039G13F5wEuyK"
+    },
+    {
+      "album": {
         "name": "Historia sin fin",
         "url": "https://open.spotify.com/album/5IB8MY1KDGEy86lDkEmCPD"
       },
@@ -972,6 +990,24 @@
       "duration_ms": 179320,
       "name": "Inolvidable",
       "url": "https://open.spotify.com/track/7bEZbS1gadU29L5eIwM2gM"
+    },
+    {
+      "album": {
+        "name": "Kbron y Medio",
+        "url": "https://open.spotify.com/album/43lZUcMvNSAHtQTVHzAgax"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258441,
+      "name": "Kbron y Medio",
+      "url": "https://open.spotify.com/track/5mCpJrvnlFIsOIxwd8VIc0"
     },
     {
       "album": {
@@ -1252,7 +1288,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 132355,
       "name": "Los Malacostumbr\u00e9",
       "url": "https://open.spotify.com/track/6Jrp7alMvsw2Nj80XpIGba"
@@ -2190,7 +2226,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 273920,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/3uFzo9GFVS3Yw4KIVdsYHN"
@@ -2693,6 +2729,28 @@
     },
     {
       "album": {
+        "name": "YCQVM",
+        "url": "https://open.spotify.com/album/7KNj5SaBNlQUBX2D1gyaiz"
+      },
+      "artists": [
+        {
+          "name": "Nueva H",
+          "url": "https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183253,
+      "name": "YCQVM",
+      "url": "https://open.spotify.com/track/71bGl0FoaBGHNT0CGhVOs1"
+    },
+    {
+      "album": {
         "name": "YO QUISIERA",
         "url": "https://open.spotify.com/album/0goX73Y7Or1v88yHSd247q"
       },
@@ -2704,7 +2762,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 213425,
       "name": "YO QUISIERA",
       "url": "https://open.spotify.com/track/6oUfleqHtxkXLIGBEZKA9n"

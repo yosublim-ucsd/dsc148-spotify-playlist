@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Killen\. & Oaks
 
-752 songs - 1 day 17 hr 32 min
+753 songs - 1 day 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [Fuck Right Off](https://open.spotify.com/track/7tu0XNOoQxBm4TpvRx8e65) | [Aliiias](https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG) | [Fuck Right Off](https://open.spotify.com/album/54r00dZGEIr77NjIy16JGv) | 2:39 | 2023-03-03 | 2023-09-16 |
 | [game point](https://open.spotify.com/track/2JMCa4YAC2wp0HY0ChY0BQ) | [weird inside](https://open.spotify.com/artist/4iylWAhvTVtSVhIeAoM7Bl) | [game point](https://open.spotify.com/album/4uQ7FC2FsJjv3RdQLKPhHZ) | 3:15 | 2021-08-06 | 2023-05-13 |
 | [Get Closer](https://open.spotify.com/track/24NIpLql6QM8gA1fDbNvUT) | [Sem](https://open.spotify.com/artist/3MNRl7HX8LItpUynecii15), [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Get Closer](https://open.spotify.com/album/4I3MgTn8Qods1j0HpYeqPa) | 3:08 | 2021-08-06 | 2022-04-19 |
+| [get my way](https://open.spotify.com/track/03JEVI9w0PKZ7e2h72XAfl) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd), [Conrad](https://open.spotify.com/artist/788qKGMEh4hfYUTy8yANRC) | [iloveitwhentheyrun](https://open.spotify.com/album/3XlSEKQ4K8luPp5icnTYKo) | 3:08 | 2024-06-13 |  |
 | [GET RIGHT](https://open.spotify.com/track/1SIUAeA91vefUtqyUfXu4W) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [GET RIGHT](https://open.spotify.com/album/1hd4EOuxrB93zMvfu5NSm7) | 2:40 | 2024-05-08 |  |
 | [gimmi it](https://open.spotify.com/track/4TfFYHETOnTpdojoy7Up3H) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [gimmi it](https://open.spotify.com/album/36HIgN887ZohDhP2WKUowb) | 2:47 | 2024-05-08 | 2024-05-17 |
 | [Girls On Bread](https://open.spotify.com/track/1c9MAMTcDFdspPtlcW9kpY) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [Girls On Bread](https://open.spotify.com/album/3TuYXW9Jsb7zbdcCKdySQ3) | 2:59 | 2023-11-09 | 2023-12-14 |

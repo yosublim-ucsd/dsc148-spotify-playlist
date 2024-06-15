@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 
 > The future of metal is here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,470 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,526 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 97 | [A Bellyful of Salt and Spleen](https://open.spotify.com/track/0MNI4YG8dQ82tRR2St6q6V) | [Napalm Death](https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt) | [A Bellyful of Salt and Spleen](https://open.spotify.com/album/4MuT9lqZBCN7JSDEKuzEOP) | 4:36 |
 | 98 | [Within \- Remastered](https://open.spotify.com/track/0bcHyF4pOFr3xXV68mrbvO) | [Neurosis](https://open.spotify.com/artist/1KHydwFySZY3YcWyo2q2dF), [Jarboe](https://open.spotify.com/artist/5cCzokwZSw5IRKcm7LpRbH) | [Neurosis & Jarboe \(Remastered\)](https://open.spotify.com/album/4OYllqJB6dZzQ1n03lhwg9) | 6:14 |
 | 99 | [Light and Darkness](https://open.spotify.com/track/5kyZcZxcgdQwjG9Uhn93Bj) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Light and Darkness](https://open.spotify.com/album/780e6IocGd5aaLIdnF980y) | 4:04 |
-| 100 | [BURNING RUBBER](https://open.spotify.com/track/4LJ6NBnEKhZSBIC3PsBTFA) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [BURNING RUBBER](https://open.spotify.com/album/2IQbuEqIESTmjTgYctYH8e) | 2:13 |
+| 100 | [Concept Unification](https://open.spotify.com/track/5SDEsNpIsdw4Le3ECGHAql) | [Pinkish Black](https://open.spotify.com/artist/60Ob6q8BCjykLBKuF5aroP) | [Concept Unification](https://open.spotify.com/album/7rWHpoEFxd6qJBRmVS2EPc) | 5:13 |
 
 Snapshot ID: `ZXImXgAAAAD2l8BgX2QaBUTG4NA5Zr6I`

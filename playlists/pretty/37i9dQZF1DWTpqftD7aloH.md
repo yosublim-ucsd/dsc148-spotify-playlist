@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,667 likes - 120 songs - 11 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,764 likes - 120 songs - 11 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 | 119 | [Oração De Gratidão](https://open.spotify.com/track/2BrZxM2Acd5g3iESZMV37m) | [AMÉM](https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [Oração De Gratidão](https://open.spotify.com/album/0zyRK8liOTanEtFqhQTnI5) | 3:56 |
 | 120 | [Medley Coração Igual ao Teu \- Ao Vivo](https://open.spotify.com/track/1o0XzYCjhPLMsQ9PXLwlNH) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq), [Mariana Valadão](https://open.spotify.com/artist/4ABs1DvG7IqLjBpYvOQedm), [Helena Tannure](https://open.spotify.com/artist/7yilUzReOHGdRaqypuG7f5), [João Lúcio Tannure](https://open.spotify.com/artist/30TJO7wBIMmfnGdC0bIfSe) | [Medley Coração Igual ao Teu \(Ao Vivo\)](https://open.spotify.com/album/5s1zqwFYmzOAVgMtG1n2PK) | 7:17 |
 
-Snapshot ID: `ZisjHQAAAAA1eKNmwMmmoBEtpY+b0G9T`
+Snapshot ID: `ZmuybAAAAAD3qVHyVwUXKsdpS4E18Dwl`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music discovery is what we're about. Try it on for size. Cover: Matt Stell",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: Blanco Brown",
   "name": "New Boots",
   "tracks": [
     {
@@ -796,6 +796,24 @@
       "duration_ms": 195640,
       "name": "About You",
       "url": "https://open.spotify.com/track/1DEFXwlvvlNK4uJtvUA1ZK"
+    },
+    {
+      "album": {
+        "name": "Tennessee Truth",
+        "url": "https://open.spotify.com/album/3JXT0VtuMwE4kdZh0KErF8"
+      },
+      "artists": [
+        {
+          "name": "Brian Kelley",
+          "url": "https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193040,
+      "name": "Acres",
+      "url": "https://open.spotify.com/track/2QUuvRYxQd0X0AHZKUmkzO"
     },
     {
       "album": {
@@ -2098,7 +2116,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 183253,
       "name": "Baby Daddy's Weekend",
       "url": "https://open.spotify.com/track/5fqSP5pSyVoxnbFyGRjEEe"
@@ -3090,7 +3108,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 180282,
       "name": "Betrayal",
       "url": "https://open.spotify.com/track/7uWM2ITKJdXGA6jjv50N0V"
@@ -9109,6 +9127,24 @@
     },
     {
       "album": {
+        "name": "Everything Is Changing",
+        "url": "https://open.spotify.com/album/6sqrVFMjhsCWg62luCxNS1"
+      },
+      "artists": [
+        {
+          "name": "Billy Currington",
+          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183625,
+      "name": "Everything Is Changing",
+      "url": "https://open.spotify.com/track/7eNQKjmWn5AbYGpIStUQvX"
+    },
+    {
+      "album": {
         "name": "Everything She Ain\u2019t",
         "url": "https://open.spotify.com/album/761yinsOXW3p74dFBge4c7"
       },
@@ -14822,7 +14858,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 207966,
       "name": "Home Less",
       "url": "https://open.spotify.com/track/4E6QysmamTqsumshjlibem"
@@ -15830,7 +15866,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 192773,
       "name": "I Could Be That Rain",
       "url": "https://open.spotify.com/track/7fBDo5rkKphtAqiDc21wWH"
@@ -18416,7 +18452,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 196906,
       "name": "Kiss My Boots",
       "url": "https://open.spotify.com/track/10cp4aOQWs8tFrbKK7A9nD"
@@ -21525,6 +21561,24 @@
     },
     {
       "album": {
+        "name": "Mind Of A Country Boy",
+        "url": "https://open.spotify.com/album/7GIq22HBQ4mKjxE2PaE5Op"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196995,
+      "name": "Mind Of A Country Boy",
+      "url": "https://open.spotify.com/track/6W0hxzuDXmRU6hQmViRaGi"
+    },
+    {
+      "album": {
         "name": "Mind on Fishin'",
         "url": "https://open.spotify.com/album/6qQxkF4cDHxAiMIJlLxKxA"
       },
@@ -24275,6 +24329,24 @@
     },
     {
       "album": {
+        "name": "Cedar Walls & Whiskey",
+        "url": "https://open.spotify.com/album/3V9K8745oH1lBytkH8Iqjh"
+      },
+      "artists": [
+        {
+          "name": "Blanco Brown",
+          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178349,
+      "name": "One Day Less",
+      "url": "https://open.spotify.com/track/4bSAoHsclPr3huBPAUUAzp"
+    },
+    {
+      "album": {
         "name": "One Day Tonight",
         "url": "https://open.spotify.com/album/2MphzYOblUXTBfdWzYxtbl"
       },
@@ -26467,6 +26539,24 @@
     },
     {
       "album": {
+        "name": "Relapse",
+        "url": "https://open.spotify.com/album/4uSU5pj5YinibVkwQF5op3"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158634,
+      "name": "Relapse",
+      "url": "https://open.spotify.com/track/4cfJwDxcinpg5gYUZ4qysj"
+    },
+    {
+      "album": {
         "name": "Relationship Goals",
         "url": "https://open.spotify.com/album/6w2h9Hu1xjHQivlfI6PsCG"
       },
@@ -27762,7 +27852,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 160596,
       "name": "See It Like You",
       "url": "https://open.spotify.com/track/0cCMOma7s2eFjIdO6MDmiD"
@@ -28872,7 +28962,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 220974,
       "name": "Snapshot",
       "url": "https://open.spotify.com/track/3OGNxgX9pdG2mfWM9TEdqa"
@@ -30726,7 +30816,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 149546,
       "name": "STRAIGHT TO MY HEART - feat. Lauren Watkins",
       "url": "https://open.spotify.com/track/53IUSLFtsnqJpiIEp48akd"
@@ -33693,6 +33783,24 @@
     },
     {
       "album": {
+        "name": "Too Easy (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/1dbfKHyu773FIRYf8dQY8v"
+      },
+      "artists": [
+        {
+          "name": "Tanner Adell",
+          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150507,
+      "name": "Too Easy (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/5DWplsLK5juocMo4PBX826"
+    },
+    {
+      "album": {
         "name": "Deeper Well",
         "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
       },
@@ -34714,7 +34822,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 241534,
       "name": "Waging War",
       "url": "https://open.spotify.com/track/2WPzVbrJIM6oOUAvF9q64Q"
@@ -36723,6 +36831,24 @@
     },
     {
       "album": {
+        "name": "WHISKEY WHISKEY",
+        "url": "https://open.spotify.com/album/05hS7HUrkdEIoJxdRXNrj1"
+      },
+      "artists": [
+        {
+          "name": "Graham Barham",
+          "url": "https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139760,
+      "name": "WHISKEY WHISKEY",
+      "url": "https://open.spotify.com/track/0PY70NiuO5yDhn9FjdtPvr"
+    },
+    {
+      "album": {
         "name": "Whisper My Name",
         "url": "https://open.spotify.com/album/2rk3wvCiWSFUaRUNTBuq7C"
       },
@@ -37211,6 +37337,24 @@
     },
     {
       "album": {
+        "name": "Wild Wild West",
+        "url": "https://open.spotify.com/album/4KDC3O88LIjOdyLCtryqtq"
+      },
+      "artists": [
+        {
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181065,
+      "name": "Wild Wild West",
+      "url": "https://open.spotify.com/track/3ZC8vUJMOpy6wsCamiLyGl"
+    },
+    {
+      "album": {
         "name": "Wild World",
         "url": "https://open.spotify.com/album/0lDxMGFnTPcB8vGtjZgJUX"
       },
@@ -37558,6 +37702,24 @@
       "duration_ms": 195960,
       "name": "Wish You Wouldn\u2019t",
       "url": "https://open.spotify.com/track/6n4oQej0fopZK1Vijr6CFo"
+    },
+    {
+      "album": {
+        "name": "Wishbone",
+        "url": "https://open.spotify.com/album/3ZeZvVrDdestHtVR6bWIsy"
+      },
+      "artists": [
+        {
+          "name": "Bryan Martin",
+          "url": "https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175543,
+      "name": "Wishbone",
+      "url": "https://open.spotify.com/track/5znARZJckVRv7QwvQzYQG6"
     },
     {
       "album": {

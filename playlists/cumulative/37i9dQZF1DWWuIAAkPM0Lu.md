@@ -4,7 +4,7 @@
 
 > ⭐️ <a href="spotify:artist:7c7ZeiPKWHf2E1rsf1P4VF">Medina</a> gir os alt hun har ⭐️
 
-837 songs - 1 day 18 hr 37 min
+839 songs - 1 day 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Branded Dinosaur](https://open.spotify.com/track/7iILPvb4orsRyjeLAQzmAQ) | [The Tremolo Beer Gut](https://open.spotify.com/artist/1eQXpCboliMWa6VxBtCx1W) | [Branded Dinosaur](https://open.spotify.com/album/56AuX3ac83u64K0JRZ8VlY) | 2:05 | 2024-05-09 | 2024-05-17 |
 | [Breakfast Club](https://open.spotify.com/track/7xuNajhwayadNJw83UxO9x) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx), [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Breakfast Club](https://open.spotify.com/album/34kfloNyFjcUZiD9Z6EXfu) | 3:09 | 2024-05-30 | 2024-06-07 |
 | [Broke Someone](https://open.spotify.com/track/5NNlroTj7IqcPjTAArldwi) | [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V) | [Broke Someone](https://open.spotify.com/album/3vaBxsZ0n0BsaioBee4Sr5) | 1:59 | 2024-06-13 |  |
+| [BROTHER STONE \(FEAT\. KODAK BLACK\)](https://open.spotify.com/track/0l3raueiJ78IsmZGwo6CRm) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [BROTHER STONE \(FEAT\. KODAK BLACK\)](https://open.spotify.com/album/0LWTY98ijfILoFHupcQJKE) | 3:22 | 2024-06-13 |  |
 | [Brænder Ud](https://open.spotify.com/track/444PXk9mKTa5JCNsgJPrNn) | [Gejst](https://open.spotify.com/artist/5aYWNs1bORooRHDSeuZ1IP) | [Brænder Ud](https://open.spotify.com/album/31q2r95fxuMI3kLBxAp1ft) | 2:57 | 2024-06-06 | 2024-06-14 |
 | [Bullet](https://open.spotify.com/track/46H0GSu3BRBk746HIHH3l1) | [This Is Not America](https://open.spotify.com/artist/2VlxJZZG5aPHnlPzbtNflE) | [Bullet](https://open.spotify.com/album/1lfX9T7i39mnNhyxeYo0XV) | 3:33 | 2024-05-02 | 2024-05-10 |
 | [Burning](https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:55 | 2024-06-06 | 2024-06-14 |
@@ -263,6 +264,7 @@
 | [Fire](https://open.spotify.com/track/4BXAqV100Noy0wBNT7Ui5p) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Fire](https://open.spotify.com/album/1qoo47WZEDvgAm7a4WK73e) | 3:30 | 2024-05-09 | 2024-05-17 |
 | [Fire \- Official UEFA EURO 2024 Song](https://open.spotify.com/track/7MYLHLCf0YWR4TVs3owDny) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Fire \(Official UEFA EURO 2024 Song\)](https://open.spotify.com/album/7qNPp8Jh4LzA0pEMNiTcNQ) | 2:48 | 2024-05-09 | 2024-05-17 |
 | [Fire Øjne](https://open.spotify.com/track/2bZcWMZDTcHiEdocBH1TeQ) | [Louis](https://open.spotify.com/artist/0j2mTlcdXP3EWTduxGWXpa) | [Fire Øjne](https://open.spotify.com/album/6eysUfiTDDdwoLqS5fVPZJ) | 2:07 | 2024-05-02 | 2024-05-10 |
+| [First Time](https://open.spotify.com/track/3gZ8s2w5v9jmjRkwYFRKxg) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [First Time](https://open.spotify.com/album/2trAIH3JyP0Kas8Ke7H2q6) | 2:33 | 2024-06-13 |  |
 | [FLAAKLYPA](https://open.spotify.com/track/32cm8JnD2Eysv3o77BKpWR) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [KEL](https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05) | [FLAAKLYPA](https://open.spotify.com/album/0jyzkdPjsoEP7n4zOJjHI4) | 3:07 | 2024-05-16 | 2024-05-24 |
 | [FLASKEHALSEN PEGER PÅ HVAD FLASKEHALSEN PEGER PÅ](https://open.spotify.com/track/3PDinFbvbbjINdvPdNWchh) | [HUGORM](https://open.spotify.com/artist/2MaqdTB8EUuYLUPDJipWG2) | [FLASKEHALSEN PEGER PÅ HVAD FLASKEHALSEN PEGER PÅ](https://open.spotify.com/album/0naEZTarxsHYQUU3dituRU) | 3:05 | 2024-05-23 | 2024-06-01 |
 | [Flava \(feat\. Coi Leray\)](https://open.spotify.com/track/3VDpWtgUilVuM2WICHgr9n) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Never Gets Late Here](https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz) | 2:44 | 2024-05-23 | 2024-06-01 |

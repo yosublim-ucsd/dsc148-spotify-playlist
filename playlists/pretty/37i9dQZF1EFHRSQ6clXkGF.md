@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2sE0XOCyp1Qp8gfwRn8gjl">Joni Mitchell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,107 likes - 271 songs - 17 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,109 likes - 271 songs - 17 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 56 | [Chinese Cafe/Unchained Melody](https://open.spotify.com/track/40OarQ92vZCzE21uumz2XI) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Wild Things Run Fast](https://open.spotify.com/album/2fcwm99VFatdh3e5HTxzFS) | 5:19 |
 | 57 | [My World Is...](https://open.spotify.com/track/1xb836z7cKQ18ltAIKb5lr) | [Blu & Exile](https://open.spotify.com/artist/567CChDKZrtF4rnk2r5JeP), [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Exile](https://open.spotify.com/artist/4r4XYZJUeeKCcrkvi7voDP) | [Below The Heavens](https://open.spotify.com/album/5svD0PDZ12uj3wTKkdBFMd) | 3:42 |
 | 58 | [One Week Last Summer](https://open.spotify.com/track/6JI3FRIbLAUKQJRNuEQHEC) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Shine](https://open.spotify.com/album/2U5MjSQ07NGHV7rCLfSU6G) | 4:59 |
-| 59 | [For the Roses](https://open.spotify.com/track/4I5vSTy4Du2SSfWqb8K69l) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [For the Roses](https://open.spotify.com/album/1yyPagl5Z7wE6rmJoqv8wj) | 3:43 |
-| 60 | [Rainy Night House](https://open.spotify.com/track/3ZGKe1PrwxQl6sCHwioCyE) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 3:24 |
+| 59 | [Rainy Night House](https://open.spotify.com/track/3ZGKe1PrwxQl6sCHwioCyE) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 3:24 |
+| 60 | [For the Roses](https://open.spotify.com/track/4I5vSTy4Du2SSfWqb8K69l) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [For the Roses](https://open.spotify.com/album/1yyPagl5Z7wE6rmJoqv8wj) | 3:43 |
 | 61 | [Blonde in the Bleachers](https://open.spotify.com/track/33vz15yfffUp8WHoSY4kxL) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [For the Roses](https://open.spotify.com/album/1yyPagl5Z7wE6rmJoqv8wj) | 2:42 |
 | 62 | [Twisted](https://open.spotify.com/track/71erzpH89KI95te7DTPOrG) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Court and Spark](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) | 2:21 |
 | 63 | [That Song About the Midway \- 2008 Remaster](https://open.spotify.com/track/1MsYN2LmlINM37KGbfs91P) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Streetlights](https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO) | 4:44 |
@@ -167,8 +167,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 157 | [The Only Joy In Town](https://open.spotify.com/track/4XF2yFVGrppCdlFilSBofr) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Night Ride Home](https://open.spotify.com/album/58eSrybTtZMVNaZWt2f1rP) | 5:11 |
 | 158 | [Lakota](https://open.spotify.com/track/0jJUULkCzLFazesFZdyNRA) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Chalk Mark In A Rain Storm](https://open.spotify.com/album/2qVwLFYnUbFT8kbl27uZ1J) | 6:26 |
 | 159 | [Number One](https://open.spotify.com/track/51JUcdbLyP5JoOPP4yxwbi) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Chalk Mark In A Rain Storm](https://open.spotify.com/album/2qVwLFYnUbFT8kbl27uZ1J) | 3:47 |
-| 160 | [Le grand parking](https://open.spotify.com/track/2iYqLxOoxGPhWgcmTIC0Uy) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [La Fleur Aux Dents](https://open.spotify.com/album/4v4KFFVfqx1cUgJ0ZFoV71) | 2:13 |
-| 161 | [Off Night Backstreet](https://open.spotify.com/track/0ivlnyFosJ53mEiII13sC3) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Don Juan's Reckless Daughter](https://open.spotify.com/album/7EsyKOyc1yISaxMt4iQvGN) | 3:20 |
+| 160 | [Off Night Backstreet](https://open.spotify.com/track/0ivlnyFosJ53mEiII13sC3) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Don Juan's Reckless Daughter](https://open.spotify.com/album/7EsyKOyc1yISaxMt4iQvGN) | 3:20 |
+| 161 | [Le grand parking](https://open.spotify.com/track/2iYqLxOoxGPhWgcmTIC0Uy) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [La Fleur Aux Dents](https://open.spotify.com/album/4v4KFFVfqx1cUgJ0ZFoV71) | 2:13 |
 | 162 | [Wild Things Run Fast](https://open.spotify.com/track/1hcEB4dpf3vzoMuF7qyrUc) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Wild Things Run Fast](https://open.spotify.com/album/2fcwm99VFatdh3e5HTxzFS) | 2:16 |
 | 163 | [The Three Great Stimulants](https://open.spotify.com/track/4qu8tJxJhTVmxyRzsfHaUl) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Dog Eat Dog](https://open.spotify.com/album/1t7W7Tp5sJZ0iGRUtlowMx) | 6:13 |
 | 164 | [Dog Eat Dog](https://open.spotify.com/track/4L4upbUY4UgmWH7fGlfi2F) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Dog Eat Dog](https://open.spotify.com/album/1t7W7Tp5sJZ0iGRUtlowMx) | 4:41 |
@@ -280,4 +280,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 270 | [Intro To California \(with James Taylor\) \- Live on In Concert, BBC, Paris Theatre, London, England, 10/29/1970](https://open.spotify.com/track/4RQHJvLC2tytuuFxqPR15u) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 0:14 |
 | 271 | [Intro To Chelsea Morning: John Peel \- Live on Top Gear, BBC Radio, London, England, 9/23/1968](https://open.spotify.com/track/5RjnysVYo2c1aDi4w2A3OC) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 0:14 |
 
-Snapshot ID: `AbT+jAAAAABtTsK8n18xkZFaMgZItxaJ`
+Snapshot ID: `AbUELAAAAADSTDcYvjYtl3YTQRpaVb0z`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Rymz",
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: HALO",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -64,6 +64,24 @@
       "duration_ms": 160400,
       "name": "16-5-0",
       "url": "https://open.spotify.com/track/5tbnrWKJIK1RnmEyWPhh6b"
+    },
+    {
+      "album": {
+        "name": "18",
+        "url": "https://open.spotify.com/album/4GgfLtSUNl4RhDdGYFUz45"
+      },
+      "artists": [
+        {
+          "name": "GreenWoodz",
+          "url": "https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205655,
+      "name": "18",
+      "url": "https://open.spotify.com/track/1ql8A7vfO3SEedqedSozyX"
     },
     {
       "album": {
@@ -605,7 +623,7 @@
     },
     {
       "album": {
-        "name": "Airplane Mode",
+        "name": "AIRPLANE MODE",
         "url": "https://open.spotify.com/album/1zfKztw7sjKoIe1UGFYjQw"
       },
       "artists": [
@@ -622,7 +640,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 150000,
-      "name": "Airplane Mode",
+      "name": "AIRPLANE MODE",
       "url": "https://open.spotify.com/track/1Joc2elHCiPE8MOfXDxdLd"
     },
     {
@@ -784,7 +802,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 179560,
       "name": "Angle obtus",
       "url": "https://open.spotify.com/track/1nKh1iLM6TSPdacLG2dCel"
@@ -1438,7 +1456,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 195491,
       "name": "Benda",
       "url": "https://open.spotify.com/track/4KElRi2M7RodLDq6fWoiN5"
@@ -3794,7 +3812,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 244000,
       "name": "Double vie d\u00e9cadente",
       "url": "https://open.spotify.com/track/4dAfZzp86jPkANLeKJfbDB"
@@ -8741,6 +8759,28 @@
     },
     {
       "album": {
+        "name": "Nouveau Chapitre",
+        "url": "https://open.spotify.com/album/1Djf3JZKEMTRnfCXYH7lGR"
+      },
+      "artists": [
+        {
+          "name": "Taktika",
+          "url": "https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3"
+        },
+        {
+          "name": "Mindflip",
+          "url": "https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233411,
+      "name": "Nouveau Chapitre",
+      "url": "https://open.spotify.com/track/6DobGjLzrEevifya8rWxIl"
+    },
+    {
+      "album": {
         "name": "Craven N 3",
         "url": "https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad"
       },
@@ -9211,6 +9251,28 @@
     },
     {
       "album": {
+        "name": "Le cheval blanc de Napol\u00e9on",
+        "url": "https://open.spotify.com/album/3ZoWSR9Fay4WzDRgemaC00"
+      },
+      "artists": [
+        {
+          "name": "Lary Kidd",
+          "url": "https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX"
+        },
+        {
+          "name": "Loud",
+          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207865,
+      "name": "Oui monsieur",
+      "url": "https://open.spotify.com/track/3idjVa2TQt9OP1sN5Xp8AA"
+    },
+    {
+      "album": {
         "name": "Ours en cage",
         "url": "https://open.spotify.com/album/2NbGxEzsahYMFpnp95IPCt"
       },
@@ -9332,6 +9394,28 @@
       "duration_ms": 171546,
       "name": "Pansements",
       "url": "https://open.spotify.com/track/744G65vSbCfEiibL52vfTP"
+    },
+    {
+      "album": {
+        "name": "Papercuts",
+        "url": "https://open.spotify.com/album/39sAxVFPkuC7hBGUZYfFrx"
+      },
+      "artists": [
+        {
+          "name": "20Some",
+          "url": "https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ"
+        },
+        {
+          "name": "Imposs",
+          "url": "https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176102,
+      "name": "Papercuts",
+      "url": "https://open.spotify.com/track/4A2b6v9CmNJsNfykZqawDk"
     },
     {
       "album": {
@@ -9908,7 +9992,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 126179,
       "name": "Pour l'amour du geste II",
       "url": "https://open.spotify.com/track/0lFZYnGWlm2F06POFIQtzt"
@@ -10434,7 +10518,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 182391,
       "name": "Rancer",
       "url": "https://open.spotify.com/track/7j44AT7B8aSygc571iV4e6"
@@ -11313,6 +11397,24 @@
     },
     {
       "album": {
+        "name": "sans moi",
+        "url": "https://open.spotify.com/album/5MULomPuf6S1B90OfIfIJt"
+      },
+      "artists": [
+        {
+          "name": "St-Prince",
+          "url": "https://open.spotify.com/artist/4l9XlDeGxPJgWnF7OoEpgC"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126374,
+      "name": "sans moi",
+      "url": "https://open.spotify.com/track/0Iz8YOutt2JvAhoAgOXEz3"
+    },
+    {
+      "album": {
         "name": "Sans trembler",
         "url": "https://open.spotify.com/album/0PEec1NvTPyeSEhP5hchWn"
       },
@@ -11578,7 +11680,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 192000,
       "name": "Something About Us",
       "url": "https://open.spotify.com/track/3kW25atIQL53yPDTD34aoo"
@@ -12148,6 +12250,24 @@
       "duration_ms": 129266,
       "name": "Tour de Piste",
       "url": "https://open.spotify.com/track/0IxArEbwRpBYcwNg1hy3H0"
+    },
+    {
+      "album": {
+        "name": "Tour du Monde",
+        "url": "https://open.spotify.com/album/1ybBcRxpUhorl343FGWUyO"
+      },
+      "artists": [
+        {
+          "name": "HALO",
+          "url": "https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145263,
+      "name": "Tour du Monde",
+      "url": "https://open.spotify.com/track/2H6qZe4igbGLoLGD3CxvRr"
     },
     {
       "album": {

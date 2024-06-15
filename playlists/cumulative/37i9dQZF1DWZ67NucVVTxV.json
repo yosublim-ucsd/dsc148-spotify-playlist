@@ -587,6 +587,32 @@
     },
     {
       "album": {
+        "name": "Alright (feat. MohBad & HADURAH)",
+        "url": "https://open.spotify.com/album/0MLdJT6OYklHVHbX6hLhDi"
+      },
+      "artists": [
+        {
+          "name": "Niphkeys",
+          "url": "https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV"
+        },
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        },
+        {
+          "name": "HADURAH",
+          "url": "https://open.spotify.com/artist/4w8lSsts1Kw64Rzp1ItXco"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174358,
+      "name": "Alright (feat. MohBad & HADURAH)",
+      "url": "https://open.spotify.com/track/7CxmcGj4sXX9ZhjGUgOb3f"
+    },
+    {
+      "album": {
         "name": "Aluta",
         "url": "https://open.spotify.com/album/5AGGhnDzlCCPjq74uDfZ4t"
       },
@@ -1122,7 +1148,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 170505,
       "name": "Bankuba",
       "url": "https://open.spotify.com/track/1C6sh2CL8VHO2yvJDKjb85"
@@ -1234,7 +1260,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 198068,
       "name": "Best Life",
       "url": "https://open.spotify.com/track/2gXZxlaYxNw0lQLTfwhCik"
@@ -2183,6 +2209,28 @@
     },
     {
       "album": {
+        "name": "Cold War",
+        "url": "https://open.spotify.com/album/5EjNSzsV0sgEcXO7u00f0y"
+      },
+      "artists": [
+        {
+          "name": "Llona",
+          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
+        },
+        {
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195749,
+      "name": "Cold War",
+      "url": "https://open.spotify.com/track/3wZx58DkyBoPIQ8UaAdt3g"
+    },
+    {
+      "album": {
         "name": "Come & Go (Black Sherif Remix)",
         "url": "https://open.spotify.com/album/5fA5w0SjzUnAEaorPRLsht"
       },
@@ -2488,7 +2536,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 157200,
       "name": "Debe (feat. Bloody Civilian)",
       "url": "https://open.spotify.com/track/09tOHZM5ubsQRXrMKQ89Lf"
@@ -3080,7 +3128,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 177391,
       "name": "Everyday (I Dey Pray)",
       "url": "https://open.spotify.com/track/2lOvnEOUtbHlU461mlEfM4"
@@ -3694,7 +3742,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 151868,
       "name": "Gara (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/4FoPiQu25ouBFSZJIhCkc0"
@@ -3832,7 +3880,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 140727,
       "name": "Go Harder",
       "url": "https://open.spotify.com/track/1Yiiy90LfO31UDfE5SpU2a"
@@ -3884,6 +3932,24 @@
       "duration_ms": 400500,
       "name": "God Abeg (feat. Kwesi Arthur, Joey B & Kay T)",
       "url": "https://open.spotify.com/track/5WZXhQL346sTAQ4WKPUJpJ"
+    },
+    {
+      "album": {
+        "name": "Another Style",
+        "url": "https://open.spotify.com/album/0z3KhLC6yItBrFzYvHOe8y"
+      },
+      "artists": [
+        {
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168724,
+      "name": "God Sent",
+      "url": "https://open.spotify.com/track/6psnitGkd9VJdeTtpXeDRA"
     },
     {
       "album": {
@@ -4466,7 +4532,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 142894,
       "name": "How I Live",
       "url": "https://open.spotify.com/track/7Gp7DB686APBQkXBt5RgAn"
@@ -4860,6 +4926,24 @@
       "duration_ms": 162351,
       "name": "Incoming",
       "url": "https://open.spotify.com/track/56amD1DaOooWn1RwbJiJnq"
+    },
+    {
+      "album": {
+        "name": "Insanity",
+        "url": "https://open.spotify.com/album/6wCzfiFO1uuGgISGuhHeUR"
+      },
+      "artists": [
+        {
+          "name": "Celo",
+          "url": "https://open.spotify.com/artist/57jnGVKiJf3uOsUuw7UB5c"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157423,
+      "name": "Insanity",
+      "url": "https://open.spotify.com/track/0R1Z20amcclgAd4WRztJR8"
     },
     {
       "album": {
@@ -6376,7 +6460,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 165851,
       "name": "Money",
       "url": "https://open.spotify.com/track/4Keazb2IMSuk05NiI2D2qE"
@@ -6872,7 +6956,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 142576,
       "name": "No pressure",
       "url": "https://open.spotify.com/track/0xEnqib4eV96z45o8FgyS7"
@@ -7394,7 +7478,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 143408,
       "name": "On Boiz",
       "url": "https://open.spotify.com/track/6dwr5OEMoUDrXcEjVegpHp"
@@ -8064,7 +8148,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 199195,
       "name": "Pray For Me",
       "url": "https://open.spotify.com/track/4XM2KilXlDb2siMTkCGBPI"
@@ -8714,7 +8798,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 138368,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/2xLhR9kp3NM3jCVuP3KfGf"
@@ -9490,7 +9574,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 176898,
       "name": "Te Button",
       "url": "https://open.spotify.com/track/0z2knWPwd0ersERolm2o77"
@@ -9740,7 +9824,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 203628,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/5yuP7KsSKbm3S94BGdK4Jy"

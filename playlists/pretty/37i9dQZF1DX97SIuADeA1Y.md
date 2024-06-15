@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > The bassline keeps you moving.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,169 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,200 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 59 | [All Eyez On Me \- Rework](https://open.spotify.com/track/0OsfIkq5kOtNQkvkgtLgPJ) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [All Eyez On Me \(Rework\)](https://open.spotify.com/album/3HmxGIZ6ZtMO7EoLzHxYh5) | 2:44 |
 | 60 | [World in Your Eyes](https://open.spotify.com/track/5ma7yZhAlSKgFYYEqYHOD9) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Pule](https://open.spotify.com/artist/4ZRiZlB8TEZwhXqwLr0U9R), [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [World in Your Eyes](https://open.spotify.com/album/7hlG0h8cXqlLjF8rVCE92E) | 2:11 |
 
-Snapshot ID: `ZiHsfAAAAABZ1tr9MX8DY0wD4Rj5pl7p`
+Snapshot ID: `ZmvAQAAAAABy4MoTrq69hjYDavlI2IRp`

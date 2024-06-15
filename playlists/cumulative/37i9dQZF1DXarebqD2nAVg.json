@@ -811,6 +811,24 @@
     },
     {
       "album": {
+        "name": "eventide",
+        "url": "https://open.spotify.com/album/3X9VpBT2UrIL9nh6JFthlh"
+      },
+      "artists": [
+        {
+          "name": "sad notes",
+          "url": "https://open.spotify.com/artist/6LlMF86oZBZG1nvkIkso0A"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130287,
+      "name": "eventide",
+      "url": "https://open.spotify.com/track/3EBpMvfHr3mdKiwn5t0m6d"
+    },
+    {
+      "album": {
         "name": "falling behind",
         "url": "https://open.spotify.com/album/78Xt50bJ6SeWBoXjL8wpGK"
       },
@@ -1947,6 +1965,24 @@
     },
     {
       "album": {
+        "name": "mirage",
+        "url": "https://open.spotify.com/album/4tGLc4CknEVw4YnWZCtOOI"
+      },
+      "artists": [
+        {
+          "name": "Lenny Loops",
+          "url": "https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131428,
+      "name": "mirage",
+      "url": "https://open.spotify.com/track/7dUfQSVulg6z9mYR2kuG0u"
+    },
+    {
+      "album": {
         "name": "Harbor",
         "url": "https://open.spotify.com/album/5HpYucXuCE8s379dUfpe3v"
       },
@@ -2070,6 +2106,24 @@
       "duration_ms": 117167,
       "name": "perspective",
       "url": "https://open.spotify.com/track/3aLdjPCbmgvfAo3K0zDgRh"
+    },
+    {
+      "album": {
+        "name": "random thoughts",
+        "url": "https://open.spotify.com/album/1Ci3Z0UfK2ehgnpudw86x4"
+      },
+      "artists": [
+        {
+          "name": "softclouds",
+          "url": "https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "random thoughts",
+      "url": "https://open.spotify.com/track/4bGIc2nxevxRU6FQ22L1mC"
     },
     {
       "album": {

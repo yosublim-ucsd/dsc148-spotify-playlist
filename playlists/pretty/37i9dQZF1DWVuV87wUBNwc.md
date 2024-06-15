@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 
 > Sabrina Carpenter au sommet de la première playlist de France.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,257,050 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,257,411 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 | 36 | [MAMI WATA](https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:53 |
 | 37 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 |
 | 38 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:48 |
-| 39 | [T’étais où ?](https://open.spotify.com/track/1q6nM8Y7NJDsgFknLfZfp4) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [T’étais où ?](https://open.spotify.com/album/4YzgzJggoHU1azpDoUMMf5) | 3:41 |
+| 39 | [T’étais où ?](https://open.spotify.com/track/1q6nM8Y7NJDsgFknLfZfp4) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [T’étais où ?](https://open.spotify.com/album/4YzgzJggoHU1azpDoUMMf5) | 3:41 |
 | 40 | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1) | 2:55 |
 | 41 | [Position](https://open.spotify.com/track/3Zw66L4FvI9YUUx17OReRD) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Prime](https://open.spotify.com/album/2dF2ZByoSuH2ZZrzoGpjzQ) | 2:21 |
 | 42 | [Eyes Closed](https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Eyes Closed](https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG) | 3:20 |

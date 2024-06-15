@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Rei & Duki en la casa del Trap Argentino.",
+  "description": "C.R.O en la casa del Trap Argentino.",
   "name": "Trapperz Argentina",
   "tracks": [
     {
@@ -958,6 +958,28 @@
       "duration_ms": 192678,
       "name": "Cascada",
       "url": "https://open.spotify.com/track/7pKe9aetI14JCwKBZAEe6a"
+    },
+    {
+      "album": {
+        "name": "CASINO",
+        "url": "https://open.spotify.com/album/57LwWb3p9qG2nhCrXI6Fve"
+      },
+      "artists": [
+        {
+          "name": "Flu Os",
+          "url": "https://open.spotify.com/artist/6Sv7bgGea4mSf1iLaQGvnE"
+        },
+        {
+          "name": "PADAWVN",
+          "url": "https://open.spotify.com/artist/68xpgCrWeZtoeRVQh7JiFE"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182286,
+      "name": "CASINO",
+      "url": "https://open.spotify.com/track/5TXWZjLtZjmBK8LDEtWewb"
     },
     {
       "album": {
@@ -2066,7 +2088,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 216107,
       "name": "Fortuna y Fama",
       "url": "https://open.spotify.com/track/1qZIJDqRMoq7BnaJqL7hRa"
@@ -2420,7 +2442,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 112436,
       "name": "Gran Turismo",
       "url": "https://open.spotify.com/track/0Lln3dJk5bcRKaXLWJ5V7O"
@@ -2574,7 +2596,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 148645,
       "name": "Hi-C",
       "url": "https://open.spotify.com/track/1HMcrQaGJ7tkeZ1t0JXXLj"
@@ -2600,7 +2622,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 147692,
       "name": "Hice Lo Que Quise",
       "url": "https://open.spotify.com/track/396kLCfCYPErXk1DxhLiPM"
@@ -3288,7 +3310,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 213818,
       "name": "Mente Gitana",
       "url": "https://open.spotify.com/track/074rCBnmb4MlfA7OoQrAcx"
@@ -3318,6 +3340,24 @@
       "duration_ms": 165336,
       "name": "Meteoritos Vs Dinosaurios",
       "url": "https://open.spotify.com/track/5u1azLYFRISTVqC6FQWLYd"
+    },
+    {
+      "album": {
+        "name": "Metido en los verdes",
+        "url": "https://open.spotify.com/album/5XRyHFJxxYaWuNfSWEESvh"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180953,
+      "name": "Metido en los verdes",
+      "url": "https://open.spotify.com/track/49OSIWq4nZIEeAZ40f1puk"
     },
     {
       "album": {
@@ -3751,6 +3791,28 @@
     },
     {
       "album": {
+        "name": "No Me Llores",
+        "url": "https://open.spotify.com/album/3Iz5tFIsYZ1K6jV5nCjD52"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Leby",
+          "url": "https://open.spotify.com/artist/1Pk9sKrTxQ1lLfCg9b0PlF"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191846,
+      "name": "No Me Llores",
+      "url": "https://open.spotify.com/track/2fBL047Cv32R3UFEup6xkP"
+    },
+    {
+      "album": {
         "name": "NO PARA",
         "url": "https://open.spotify.com/album/2Yir8cApTfiPzWE4HwMRq5"
       },
@@ -3806,7 +3868,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 175028,
       "name": "No Puedo",
       "url": "https://open.spotify.com/track/6MbSMSXrSlvsyHf4kcaLQi"
@@ -4204,7 +4266,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 244688,
       "name": "Pastel Con Nutella",
       "url": "https://open.spotify.com/track/2ksvWFIlW7QgXuvk2MA1FT"
@@ -4226,7 +4288,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 192000,
       "name": "Perdoname Si Llego Tarde",
       "url": "https://open.spotify.com/track/4YvVZba3sBU3qLI7I6TVWD"

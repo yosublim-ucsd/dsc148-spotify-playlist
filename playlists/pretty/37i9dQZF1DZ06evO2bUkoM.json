@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjlAAAAAAAggsubqInTS8ipX+Tx2ir1",
+  "snapshot_id": "Zmo2gAAAAAAwmit5DOEpLM7bxnDmAC3+",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 214463,
-      "name": "found my friends",
-      "url": "https://open.spotify.com/track/27CjS1oiq52oC2m9jciFxt"
+      "duration_ms": 185995,
+      "name": "sugar at the bottom",
+      "url": "https://open.spotify.com/track/6LO0ryApQDcoL42O5o872S"
     },
     {
       "added_at": null,
@@ -283,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 214463,
+      "name": "found my friends",
+      "url": "https://open.spotify.com/track/27CjS1oiq52oC2m9jciFxt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "This Side of Paradise",
         "url": "https://open.spotify.com/album/32GGaHTxe2OxpiIKtD0I4v"
       },
@@ -315,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 195773,
+      "name": "Wanna Be Missed",
+      "url": "https://open.spotify.com/track/3wqPinf9whHeT7y9EApaPM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "somewhere between the sand and the stardust",
         "url": "https://open.spotify.com/album/1GffidSIS7j1j4cM5pX8hY"
       },
@@ -331,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
       },
       "artists": [
         {
@@ -340,9 +372,9 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 195773,
-      "name": "Wanna Be Missed",
-      "url": "https://open.spotify.com/track/3wqPinf9whHeT7y9EApaPM"
+      "duration_ms": 189898,
+      "name": "deep in the woods",
+      "url": "https://open.spotify.com/track/0JmxPS0bVRETJa4haH0zhP"
     },
     {
       "added_at": null,
@@ -371,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PANORAMA",
-        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
       },
       "artists": [
         {
@@ -380,9 +412,9 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 167433,
-      "name": "luna",
-      "url": "https://open.spotify.com/track/4rCiYKROPDRqMGKX0zSGEo"
+      "duration_ms": 231293,
+      "name": "He'll Never Love You (HNLY)",
+      "url": "https://open.spotify.com/track/03PM8jkLPwI6cDcZBvwCSL"
     },
     {
       "added_at": null,
@@ -407,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
       },
       "artists": [
         {
@@ -416,9 +448,9 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 231293,
-      "name": "He'll Never Love You (HNLY)",
-      "url": "https://open.spotify.com/track/03PM8jkLPwI6cDcZBvwCSL"
+      "duration_ms": 167433,
+      "name": "luna",
+      "url": "https://open.spotify.com/track/4rCiYKROPDRqMGKX0zSGEo"
     },
     {
       "added_at": null,
@@ -435,22 +467,6 @@
       "duration_ms": 240840,
       "name": "Palace",
       "url": "https://open.spotify.com/track/46PIPQSUEmFqLQyq3r4QS4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PANORAMA",
-        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 160659,
-      "name": "flicker start",
-      "url": "https://open.spotify.com/track/5u0YYzDVA1HNBBDbVYeCah"
     },
     {
       "added_at": null,
@@ -487,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Citrine EP",
-        "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 235466,
-      "name": "One Bad Night",
-      "url": "https://open.spotify.com/track/098KHkooQ95mfdtdUJrRut"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Missed Calls (feat. Hayley Kiyoko)",
         "url": "https://open.spotify.com/album/3tZEt4VTy1IzCDZpX5XXoI"
       },
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PANORAMA",
-        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
+        "name": "Citrine EP",
+        "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 204373,
-      "name": "well\u2026",
-      "url": "https://open.spotify.com/track/3fp8Zt7cjlnH6E44VTiCgI"
+      "duration_ms": 235466,
+      "name": "One Bad Night",
+      "url": "https://open.spotify.com/track/098KHkooQ95mfdtdUJrRut"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
       "duration_ms": 189872,
       "name": "Better Than Love",
       "url": "https://open.spotify.com/track/3ypI3OKQuqL4LxyXB04zHg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Citrine EP",
-        "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 199666,
-      "name": "Ease My Mind",
-      "url": "https://open.spotify.com/track/7GHSSr69BQ0NwSbpfTjjSm"
     },
     {
       "added_at": null,
@@ -607,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Citrine EP",
+        "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 199666,
+      "name": "Ease My Mind",
+      "url": "https://open.spotify.com/track/7GHSSr69BQ0NwSbpfTjjSm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Belle to Remember",
         "url": "https://open.spotify.com/album/79bdQQVLHNYGEgbPjUHk9z"
       },
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "This Side of Paradise",
+        "url": "https://open.spotify.com/album/1DBeQGiRdap7iuvuxSx3bD"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 230711,
+      "name": "Given It All",
+      "url": "https://open.spotify.com/track/4zVqWUET8JgoDHwmWrYP45"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Glory Days (feat. Hayley Kiyoko) [Party Pupils Remix]",
         "url": "https://open.spotify.com/album/3JH2u1LgVvwsCppzohPDBu"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 168344,
       "name": "Glory Days (feat. Hayley Kiyoko) - Party Pupils Remix",
       "url": "https://open.spotify.com/track/3CZqTaiEQdN61xQP58BNRO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Side of Paradise",
-        "url": "https://open.spotify.com/album/1DBeQGiRdap7iuvuxSx3bD"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 230711,
-      "name": "Given It All",
-      "url": "https://open.spotify.com/track/4zVqWUET8JgoDHwmWrYP45"
     },
     {
       "added_at": null,

@@ -105,6 +105,32 @@
     },
     {
       "album": {
+        "name": "Fxck The Cash Up",
+        "url": "https://open.spotify.com/album/3XMIPVAy1bXKoAaEasIHab"
+      },
+      "artists": [
+        {
+          "name": "Fast Cash Boyz",
+          "url": "https://open.spotify.com/artist/37ijPPH7qiKay4QJ5ktqEU"
+        },
+        {
+          "name": "Tay Keith",
+          "url": "https://open.spotify.com/artist/5iXQ6q7GsGCUew3tVJeG1z"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192888,
+      "name": "Bad Habits (feat. Murda Beatz)",
+      "url": "https://open.spotify.com/track/6J2zOiRkS7rEkmCRpuvZgP"
+    },
+    {
+      "album": {
         "name": "Banana Split (with YNW Melly feat. Lil Durk)",
         "url": "https://open.spotify.com/album/3QWBKAttGO0ONYIcsDHBW4"
       },
@@ -124,7 +150,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 192968,
       "name": "Banana Split (with YNW Melly feat. Lil Durk)",
       "url": "https://open.spotify.com/track/57Lw4YmOvpighLOnwqiuKr"
@@ -394,7 +420,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 171888,
       "name": "DOORS UNLOCKED (feat. Ty Dolla $ign & Polo G)",
       "url": "https://open.spotify.com/track/7CmNyEQUpNSX6RMM5Fw3os"
@@ -698,7 +724,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 136306,
       "name": "Outside",
       "url": "https://open.spotify.com/track/5ZuP7gjwZlBcGsxcSOtpfa"
@@ -720,7 +746,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 193000,
       "name": "Pockets",
       "url": "https://open.spotify.com/track/2ARm0lyL6i8zoHtNvOuGQs"
@@ -746,7 +772,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 156000,
       "name": "Pray (feat. A$AP Ferg)",
       "url": "https://open.spotify.com/track/00oeyRVsQcrVHHUR3wjgOw"
@@ -956,7 +982,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 164671,
       "name": "Studio Trappin",
       "url": "https://open.spotify.com/track/7o4nJGQBqwvjPds4OhIQZi"

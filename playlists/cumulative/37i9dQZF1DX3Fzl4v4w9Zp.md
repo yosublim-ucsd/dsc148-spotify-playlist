@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: The Avett Brothers
 
-682 songs - 1 day 18 hr 7 min
+683 songs - 1 day 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Denial](https://open.spotify.com/track/7MQp9woZdjakP8lCby1Upc) | [Jonathan Peyton](https://open.spotify.com/artist/1rKBNFP4jc1iLEH8ziP7O0) | [Denial](https://open.spotify.com/album/37JPi0mnfoW9HB8VYnJliU) | 3:39 | 2023-01-27 | 2023-06-10 |
 | [Devil In Disguise](https://open.spotify.com/track/3dsX0cXfRFOnhKO7uSMBeM) | [Town Mountain](https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs) | [Devil In Disguise](https://open.spotify.com/album/3fVJWii1fQokWmOe7qsy1U) | 3:17 | 2024-03-29 | 2024-04-19 |
 | [Devil In Disguise](https://open.spotify.com/track/4tTxMLnr9eZmSz6ljylmMz) | [Town Mountain](https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs) | [Devil In Disguise](https://open.spotify.com/album/7l5LHAiohHjQq602sGXbmF) | 3:17 | 2023-12-15 |  |
+| [Devil In My Ear](https://open.spotify.com/track/6BUXeo4htsduta2UWDMdWK) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Devil In My Ear](https://open.spotify.com/album/1wO6dl6mYgTX4DckhmTt7e) | 3:52 | 2024-06-14 |  |
 | [Diamond Studded Shoes](https://open.spotify.com/track/5vJzPLEkqOXaqKZqzsYt9r) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Diamond Studded Shoes](https://open.spotify.com/album/1hH8sinTRPta1RQMY8SFX5) | 3:24 | 2021-12-17 | 2022-02-23 |
 | [Dirt Bike \(feat\. Andrea Kukuly Uriarte\)](https://open.spotify.com/track/60rT7xqMegRkR2Sq4JIfHw) | [Adeem the Artist](https://open.spotify.com/artist/28ZFEGg2RNdrtoaFqxA6vj), [Andrea Kukuly Uriarte](https://open.spotify.com/artist/5RBnd1QU744YvLMRf458SS) | [Dirt Bike \(feat\. Andrea Kukuly Uriarte\)](https://open.spotify.com/album/1nSFYhxHnBvrwrUHwANAXW) | 3:32 | 2023-10-13 |  |
 | [Dogs Run On](https://open.spotify.com/track/0s7aoxrKBPvqc0SptaSm35) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Dogs Run On](https://open.spotify.com/album/0XxzYBvtUBUdoqw6VrqhvK) | 3:36 | 2021-12-17 | 2022-04-02 |
@@ -624,7 +625,7 @@
 | [Upside Down](https://open.spotify.com/track/3loKrxBymgzppOS7mhhNa5) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Watchhouse](https://open.spotify.com/album/4I0MTtE0olpLIVMzoN8KJN) | 4:08 | 2021-12-17 | 2022-07-29 |
 | [Use Me](https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Use Me](https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0) | 4:05 | 2022-04-01 | 2023-02-04 |
 | [Vampire in Appalachia](https://open.spotify.com/track/5ybs4h5XoFYZXBnmKSMjMo) | [Philip Bowen](https://open.spotify.com/artist/3Mm4P393IFVqIQDmL691G9), [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Vampire in Appalachia](https://open.spotify.com/album/6Ch409k36E7j35ECKAqNSu) | 3:04 | 2023-07-07 | 2024-02-10 |
-| [Wanna Be Loved](https://open.spotify.com/track/4boa7Bv0VijpxoP1SHjjUb) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Wanna Be Loved](https://open.spotify.com/album/3gkwDd6hohNwtgET2IpJLZ) | 3:37 | 2024-05-24 |  |
+| [Wanna Be Loved](https://open.spotify.com/track/4boa7Bv0VijpxoP1SHjjUb) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Wanna Be Loved](https://open.spotify.com/album/3gkwDd6hohNwtgET2IpJLZ) | 3:37 | 2024-05-24 | 2024-06-15 |
 | [Wanting and Waiting](https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Wanting and Waiting](https://open.spotify.com/album/7nNsP5Tgq1bsQDXBOXVzhw) | 4:15 | 2024-02-16 |  |
 | [Waste Your Time](https://open.spotify.com/track/0sBRVZYkvO1m9sndONbhg5) | [Jackson+Sellers](https://open.spotify.com/artist/5ckJTICncOrAgKg5z5OTmk) | [Waste Your Time](https://open.spotify.com/album/5Jbk7SSm8MwBeTbZTXLWjZ) | 3:36 | 2021-12-17 | 2022-06-04 |
 | [Wasted Days \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/00KBMCig03dtdMJG4jkrIu) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Wasted Days](https://open.spotify.com/album/2UwZm9HOqn50LEfMb9V1pf) | 4:31 | 2021-12-17 | 2023-04-15 |

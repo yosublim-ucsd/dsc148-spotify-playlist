@@ -1,12 +1,12 @@
 {
   "description": "This is Bailey Zimmerman. The essential tracks, all in one playlist.",
-  "num_followers": 30325,
+  "num_followers": 30357,
   "original_name": "This Is Bailey Zimmerman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjlAAAAAADofuinkDBB4NmYkso1xkk5",
+  "snapshot_id": "Zmo2gAAAAADUVLfra/bO4faXRyTZSYuF",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strong Enough",
-        "url": "https://open.spotify.com/album/7DTTXmNJFIXdf5QyA0Y9JX"
+        "name": "Change",
+        "url": "https://open.spotify.com/album/5jmp7q0hmtB7vlacGfTdAB"
       },
       "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        },
         {
           "name": "Bailey Zimmerman",
           "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 149284,
-      "name": "Strong Enough (feat. Bailey Zimmerman)",
-      "url": "https://open.spotify.com/track/66VuIGcM7fd8NLMoORCqVJ"
+      "duration_ms": 188254,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/5GqFHxvAVUmZPdAFj6THjD"
     },
     {
       "added_at": null,
@@ -111,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/5jmp7q0hmtB7vlacGfTdAB"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 188254,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/5GqFHxvAVUmZPdAFj6THjD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Leave The Light On",
         "url": "https://open.spotify.com/album/5FGZeAnAbmC0MJD597764o"
       },
@@ -136,41 +116,9 @@
           "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 207567,
-      "name": "Never Leave",
-      "url": "https://open.spotify.com/track/0glkts20NpDPX8sZEQpctJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Small Town Crazy",
-        "url": "https://open.spotify.com/album/4edQ6eoWIo3YotjFAZwVxq"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Small Town Crazy",
-      "url": "https://open.spotify.com/track/5AQBsu4oDjhKJui3jT1jbD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Religiously. The Album.",
-        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 207540,
-      "name": "Rock and A Hard Place",
-      "url": "https://open.spotify.com/track/1TE8AAk9koG0UJco6ZAUfx"
+      "duration_ms": 220800,
+      "name": "House On Fire",
+      "url": "https://open.spotify.com/track/4U8SkKuNOZrgTR1NC9WYaC"
     },
     {
       "added_at": null,
@@ -203,22 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Leave The Light On",
-        "url": "https://open.spotify.com/album/5FGZeAnAbmC0MJD597764o"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/37wfiB5kDHZbY5SeYlk7KE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FAST X (Sped Up / Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7nWrdoW9h7NJhk2Bt2rMPO"
       },
@@ -243,6 +175,38 @@
       "duration_ms": 135889,
       "name": "Won\u2019t Back Down (feat. YoungBoy Never Broke Again, Bailey Zimmerman & Dermot Kennedy) - Sped Up",
       "url": "https://open.spotify.com/track/43KSFGpSKun6AX5GxKvQCR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Religiously. The Album.",
+        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 207540,
+      "name": "Rock and A Hard Place",
+      "url": "https://open.spotify.com/track/1TE8AAk9koG0UJco6ZAUfx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Leave The Light On",
+        "url": "https://open.spotify.com/album/5FGZeAnAbmC0MJD597764o"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/37wfiB5kDHZbY5SeYlk7KE"
     },
     {
       "added_at": null,
@@ -288,9 +252,9 @@
           "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 198904,
-      "name": "Chase Her",
-      "url": "https://open.spotify.com/track/3a8NTuwOT8NcIS3FpsLhY1"
+      "duration_ms": 182465,
+      "name": "Get to Gettin\u2019 Gone",
+      "url": "https://open.spotify.com/track/3C3ooMrQyhr0gouukZTGz4"
     },
     {
       "added_at": null,
@@ -320,9 +284,9 @@
           "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 200506,
-      "name": "You Don\u2019t Want That Smoke",
-      "url": "https://open.spotify.com/track/5uPQjirx9C6MS47V556x46"
+      "duration_ms": 198904,
+      "name": "Chase Her",
+      "url": "https://open.spotify.com/track/3a8NTuwOT8NcIS3FpsLhY1"
     }
   ],
   "unique_name": "This Is Bailey Zimmerman",

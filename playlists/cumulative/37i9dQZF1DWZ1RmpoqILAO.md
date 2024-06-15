@@ -4,7 +4,7 @@
 
 > indie tunes with country experimentation featuring music from Dreamer Boy 🌟🌟🌟
 
-242 songs - 15 hr 39 min
+243 songs - 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [All My Thoughts](https://open.spotify.com/track/1hZ8HcjYNAn14cuGSRZT1K) | [Free Range](https://open.spotify.com/artist/2aPB7TI5mAleSnK0Fm0YVP) | [Practice](https://open.spotify.com/album/0pvTFpzVYUErZJTeDO7opu) | 3:45 | 2023-03-03 |  |
 | [All My Thoughts](https://open.spotify.com/track/1tOdpTjRfTuDiM330DCKDD) | [Free Range](https://open.spotify.com/artist/2aPB7TI5mAleSnK0Fm0YVP) | [Practice](https://open.spotify.com/album/6iKPa0KYi9BmKjhfYiRvS1) | 3:45 | 2024-03-01 | 2024-04-19 |
 | [Amy](https://open.spotify.com/track/3owz5csR9o9BTxkaHWa4MP) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [Amy](https://open.spotify.com/album/3St5d6fnFu6CkkWOiN4pCv) | 3:36 | 2023-09-08 |  |
+| [Angel's Eye](https://open.spotify.com/track/1k9LP39OXvFgSVrk7qncVb) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Box for Buddy, Box for Star](https://open.spotify.com/album/3wSIO65dy3pAoBjKBybOcV) | 3:51 | 2024-06-14 |  |
 | [Angels Bowling](https://open.spotify.com/track/6i7nxi0UXihzEUoIaU9Mku) | [Darryl Rahn](https://open.spotify.com/artist/2eogPRB3PTDU7KOd99s4UA) | [Angels Bowling](https://open.spotify.com/album/18IQDpZlz1jlYmnKy3graV) | 2:18 | 2023-02-23 | 2023-07-15 |
 | [another sublet](https://open.spotify.com/track/5QXO4uPk1FdznZEGqTJsLb) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [another sublet](https://open.spotify.com/album/3j4TeXExZfONFBsnukEMuG) | 3:02 | 2023-12-08 | 2024-01-13 |
 | [Ashes](https://open.spotify.com/track/0OVAeW31O5lvcjtfTLIGrK) | [Kelley McRae](https://open.spotify.com/artist/5jisWKblA5tIYYDLfTOKle) | [Ashes](https://open.spotify.com/album/5QWoRFLjMx1SwW4fJaGoCT) | 4:00 | 2023-03-24 | 2024-02-03 |

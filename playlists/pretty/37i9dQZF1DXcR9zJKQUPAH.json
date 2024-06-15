@@ -1,6 +1,6 @@
 {
   "description": "2017 highlights from the home of indie music.",
-  "num_followers": 150061,
+  "num_followers": 150077,
   "original_name": "Best of Indie 2017",
   "owner": {
     "name": "Spotify",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Holo",
-        "url": "https://open.spotify.com/album/0ygukMYaVzLgjcVM4d7oWk"
-      },
-      "artists": [
-        {
-          "name": "Limbo",
-          "url": "https://open.spotify.com/artist/13VunSzrVSmJBpUWxUajJF"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Airplane Mode",
-      "url": "https://open.spotify.com/track/69GQG5cXGUFq4dqCbExWui"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Lost in You",
         "url": "https://open.spotify.com/album/5c9otgSaGE52UfeQ4Eq3zH"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 101000,
       "name": "Lost in You",
       "url": "https://open.spotify.com/track/5mkRGTbm3BwPzNQL9oBV9e"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Holo",
+        "url": "https://open.spotify.com/album/0ygukMYaVzLgjcVM4d7oWk"
+      },
+      "artists": [
+        {
+          "name": "Limbo",
+          "url": "https://open.spotify.com/artist/13VunSzrVSmJBpUWxUajJF"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Airplane Mode",
+      "url": "https://open.spotify.com/track/69GQG5cXGUFq4dqCbExWui"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Antisocialites",
-        "url": "https://open.spotify.com/album/7CCwkPweMxKq8yWkVerH6T"
-      },
-      "artists": [
-        {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
-        }
-      ],
-      "duration_ms": 196026,
-      "name": "Dreams Tonite",
-      "url": "https://open.spotify.com/track/0DRvClQbN9znQ295sx76VC"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "This Old Dog",
         "url": "https://open.spotify.com/album/6XzoFb3hP14jVQeCMRdVJR"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 181586,
       "name": "Still Beating",
       "url": "https://open.spotify.com/track/2N4idqj9TT3HnH2OFT9j0v"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Antisocialites",
+        "url": "https://open.spotify.com/album/7CCwkPweMxKq8yWkVerH6T"
+      },
+      "artists": [
+        {
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+        }
+      ],
+      "duration_ms": 196026,
+      "name": "Dreams Tonite",
+      "url": "https://open.spotify.com/track/0DRvClQbN9znQ295sx76VC"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
+        "name": "RELAXER",
+        "url": "https://open.spotify.com/album/7AVKwlAGKaLBii6gsl1Hje"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 206853,
+      "name": "In Cold Blood",
+      "url": "https://open.spotify.com/track/3bmxsQVFi8k7qfM5ULU8Me"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
         "name": "Process",
         "url": "https://open.spotify.com/album/2gUSWVHCOerKhJHZRwhVtN"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 316187,
       "name": "Plastic 100\u00b0C",
       "url": "https://open.spotify.com/track/0P5bg4JX1fUplClPC0nkUS"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
-        "name": "RELAXER",
-        "url": "https://open.spotify.com/album/7AVKwlAGKaLBii6gsl1Hje"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 232013,
-      "name": "Deadcrush",
-      "url": "https://open.spotify.com/track/4ggJO4tFslcHUjaRJaapDy"
     }
   ],
   "unique_name": "Best of Indie 2017",

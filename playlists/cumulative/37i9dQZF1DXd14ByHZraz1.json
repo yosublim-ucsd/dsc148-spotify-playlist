@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Vem com as tracks dos maiores nomes da m\u00fasica eletr\u00f4nica nacional. Foto: Alok \u2764\ufe0f Romana",
+  "description": "Vem com as tracks dos maiores nomes da m\u00fasica eletr\u00f4nica nacional. Foto: Flux Zone",
   "name": "mint brasil",
   "tracks": [
     {
@@ -1420,7 +1420,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 141600,
       "name": "Focus (Double MZK Remix)",
       "url": "https://open.spotify.com/track/1EKXeIujIqra3DJhx3qqRT"
@@ -3542,6 +3542,28 @@
       "duration_ms": 225365,
       "name": "Spirit",
       "url": "https://open.spotify.com/track/0oN2LfOJQfHiG2SkSJSW6o"
+    },
+    {
+      "album": {
+        "name": "Static",
+        "url": "https://open.spotify.com/album/7rfBYHKPPk1INwUs0uclpd"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Laau",
+          "url": "https://open.spotify.com/artist/3s8bzEJ9jl1AvMHLNIXdNX"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Static",
+      "url": "https://open.spotify.com/track/1mOfzqLMsP6DchvbFNKaHv"
     },
     {
       "album": {

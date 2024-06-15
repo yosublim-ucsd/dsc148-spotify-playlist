@@ -2,9 +2,9 @@
 
 ### [Folk Favourites](https://open.spotify.com/playlist/37i9dQZF1DX2PfO7FL9zWG)
 
-> Revisit stand out songs from these singer/songwriters\. Cover: Medium Build
+> Revisit stand out songs from these singer/songwriters\. Cover: Mark Ambor
 
-352 songs - 22 hr 8 min
+355 songs - 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [For Island Fires and Family](https://open.spotify.com/track/6Rk9OCPLRprxsMmYgnU1UF) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Dermot Kennedy](https://open.spotify.com/album/0JF97yTibdYQh25AaFuioF) | 4:45 | 2022-04-15 | 2023-04-01 |
 | [For You](https://open.spotify.com/track/4HVP9LguwC1S5VzkMhzhqW) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Classic](https://open.spotify.com/album/2gHoyHYnaGEctKR8kysOAU) | 3:27 | 2022-04-15 | 2022-07-29 |
 | [Fragments \- From The Film "The Smog Of The Sea"](https://open.spotify.com/track/2eVKwKivluiYn67kLtZ3d7) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [All The Light Above It Too](https://open.spotify.com/album/1a15dDOiwz5ebSxk1ZeFB5) | 3:41 | 2022-07-27 | 2023-04-01 |
-| [Freedom](https://open.spotify.com/track/6L1PKCmrvrfsVSDbo6f8Jd) | [Jordan Hart](https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo) | [Only Pieces of the Truth](https://open.spotify.com/album/5WTMX9SyPDigNcgewZGtLG) | 4:21 | 2022-04-15 |  |
+| [Freedom](https://open.spotify.com/track/6L1PKCmrvrfsVSDbo6f8Jd) | [Jordan Hart](https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo) | [Only Pieces of the Truth](https://open.spotify.com/album/5WTMX9SyPDigNcgewZGtLG) | 4:21 | 2022-04-15 | 2024-06-15 |
 | [Fruits of My Labor](https://open.spotify.com/track/6qWQRmO2za1TpP0tHYLhXw) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud +3](https://open.spotify.com/album/7kIdOOz6yIvEP6Z5RjhrCw) | 5:05 | 2022-04-15 | 2022-08-07 |
 | [Full Circle](https://open.spotify.com/track/2DtYtc9nMEdyjtJsT1ARqt) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect](https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d) | 3:54 | 2022-04-15 |  |
 | [Full Size Render](https://open.spotify.com/track/13YkIo5DIQwpJvPjEzgY3D) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Full Size Render](https://open.spotify.com/album/1ITm7iuEyilyq4EDMMzzRN) | 2:58 | 2022-04-15 | 2022-07-25 |
@@ -118,6 +118,7 @@
 | [Golden Embers](https://open.spotify.com/track/7HdyKsr1RXenJRtMKcyQ3K) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Golden Embers](https://open.spotify.com/album/0X1BasI4gOX4jIE8YWfu3x) | 4:45 | 2022-04-15 | 2022-07-29 |
 | [Golden Embers](https://open.spotify.com/track/7fdwZ9ShF56daUOBH02U7S) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Tides of a Teardrop](https://open.spotify.com/album/09NM7gTdr3ij71aksxr4Qs) | 4:45 | 2022-07-27 | 2023-04-30 |
 | [Gonna Be Leaving](https://open.spotify.com/track/3xUX0vRkQDW6Lqj3Sk30D5) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Gonna Be Leaving](https://open.spotify.com/album/5ATbjtDTmqgY4mkDwL6Uta) | 3:10 | 2022-04-15 | 2022-07-29 |
+| [Good To Be](https://open.spotify.com/track/0rdGHLnsyAdnLcO4rz5sMK) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Good To Be](https://open.spotify.com/album/6lVzd7PgdTCzmN8P9rOA0o) | 2:27 | 2024-06-14 |  |
 | [Half Your Love](https://open.spotify.com/track/0ut7f4KB9sZQ8uhA4HyOMt) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 2:24 | 2022-04-15 |  |
 | [Half\-Saved](https://open.spotify.com/track/4g3k3DEMkpf7OFoSsc7EHa) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Nothing is Lost](https://open.spotify.com/album/2pWfYBcesgKukL2b9THx10) | 3:22 | 2022-07-27 | 2023-03-05 |
 | [Half\-Saved](https://open.spotify.com/track/6kNLASo01nyX5DVB4UGYFK) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Half\-Saved](https://open.spotify.com/album/1qjryVI5Du1tzWiL8gWQWm) | 3:22 | 2022-04-15 | 2022-07-29 |
@@ -151,6 +152,7 @@
 | [Howling](https://open.spotify.com/track/0BnZ5jNNQYNMuAjStTWdto) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Howling](https://open.spotify.com/album/4mWY2T3y9LOq7Hg4bpkvR5) | 2:55 | 2022-04-15 | 2022-07-14 |
 | [Howling](https://open.spotify.com/track/6lDhuhjPPFEErBAFoEPsSN) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Eighty\-Eight](https://open.spotify.com/album/0fHfPNtkPrHH0OQhKc9zW6) | 2:55 | 2022-07-27 | 2022-11-13 |
 | [Hush](https://open.spotify.com/track/3bb0LediTuPlmgVUJqq447) | [Jackson+Sellers](https://open.spotify.com/artist/5ckJTICncOrAgKg5z5OTmk) | [Hush](https://open.spotify.com/album/3xX7LI0JGsHRXcSycsWBAi) | 2:35 | 2022-04-15 | 2022-07-29 |
+| [I Came Here to Leave You](https://open.spotify.com/track/6g9Qf4VIsk8NRGCjuXIp1e) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [A Week in Nashville](https://open.spotify.com/album/1iMxbWIQFDddaxXHUBq4Ui) | 2:58 | 2024-06-14 |  |
 | [I Can Change](https://open.spotify.com/track/0jCe45cYIc6NXedmbIKy0Q) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Free Yourself Up](https://open.spotify.com/album/1eWP4CbLwVsVuC44utXBOD) | 3:11 | 2022-07-27 | 2024-04-19 |
 | [I Can Change](https://open.spotify.com/track/2uDnC30adouplySDz00DW2) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [I Can Change](https://open.spotify.com/album/1qmJxfBw5e2p2KgYjibOjB) | 3:11 | 2022-04-15 | 2022-07-29 |
 | [I Feel It All](https://open.spotify.com/track/3ghgwo0BTPm329zGMQRfn7) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 3:39 | 2023-03-31 | 2023-12-09 |
@@ -200,7 +202,7 @@
 | [Looking For](https://open.spotify.com/track/26g47GCoXN75w2GAGKmr7F) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Looking For](https://open.spotify.com/album/2pofqtFCTGDbbQ2iSd1woM) | 4:06 | 2024-05-10 |  |
 | [Lost In The Light](https://open.spotify.com/track/6IBpFG2LU2udYofIuROp3w) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/4GRRGsQBwwd2kKaEXZqVNd) | 3:56 | 2023-03-31 | 2024-04-19 |
 | [Lost In The Light](https://open.spotify.com/track/0boz2COxgC376hg1Drao5V) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/78JxIticjNz5ZB3iNYEP6g) | 3:56 | 2024-04-12 |  |
-| [Lost With You](https://open.spotify.com/track/4ZJXI6GhniCI0kSuin51lF) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Lost With You](https://open.spotify.com/album/6AlrbtZvNPmKrgZCQCCOgd) | 2:55 | 2022-07-27 |  |
+| [Lost With You](https://open.spotify.com/track/4ZJXI6GhniCI0kSuin51lF) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Lost With You](https://open.spotify.com/album/6AlrbtZvNPmKrgZCQCCOgd) | 2:55 | 2022-07-27 | 2024-06-15 |
 | [Love Is A Wild Thing](https://open.spotify.com/track/5F5lmpwXkxAJtvZqEguTRo) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:16 | 2022-04-15 |  |
 | [Love Is Blind](https://open.spotify.com/track/6SGTlXM3iSWNMPhomntCGm) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Love Is Blind](https://open.spotify.com/album/4VFwGrbO7HgR7tEnAISwBd) | 3:51 | 2022-04-15 | 2022-07-16 |
 | [Made It Home](https://open.spotify.com/track/1Wz2Cy5cDNOKgExGdmejjI) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [In Our Time](https://open.spotify.com/album/3WM1YDRTNKKdEFdiwRxwKi) | 3:51 | 2022-04-15 | 2022-07-29 |
@@ -225,7 +227,7 @@
 | [New House](https://open.spotify.com/track/1wjekflX5IeRt4JhnF4vix) | [Austin Basham](https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA) | [You and Me for Now](https://open.spotify.com/album/5KPl7k36JzLxe4bisDG8S4) | 3:33 | 2022-07-27 | 2023-04-01 |
 | [New House](https://open.spotify.com/track/5Tmza7OotJYHj6gWbHxLKh) | [Austin Basham](https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA) | [New House](https://open.spotify.com/album/7o8VaAb7k6jv13gJrToJ4Q) | 3:33 | 2022-04-15 | 2022-07-22 |
 | [New Person, Old Place](https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [New Person, Old Place](https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC) | 4:06 | 2022-04-15 | 2022-11-13 |
-| [Nightflyer](https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Nightflyer](https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx) | 4:55 | 2022-05-12 |  |
+| [Nightflyer](https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Nightflyer](https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx) | 4:55 | 2022-05-12 | 2024-06-15 |
 | [No Fun](https://open.spotify.com/track/6IGq3RtjQ7o25MvImbKzRQ) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [No Fun / Lucky for You](https://open.spotify.com/album/7DVkaDX0Y47rRsJqgvHjyh) | 3:31 | 2022-07-27 |  |
 | [Not Dead Yet](https://open.spotify.com/track/1JI3PzOXZhAqUPoN8Vixqs) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Long Lost](https://open.spotify.com/album/48nTl6TmV8hS2x8MCQlUbm) | 2:57 | 2022-04-15 | 2022-07-29 |
 | [Not Dead Yet](https://open.spotify.com/track/6xVd8klTvL6ZRovgIhIs98) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Long Lost](https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD) | 2:57 | 2022-07-27 | 2023-04-01 |
@@ -265,6 +267,7 @@
 | [San Luis](https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ) | 4:32 | 2022-04-15 |  |
 | [Say It To Me](https://open.spotify.com/track/2jXCqbY6SC7AZl0JrMBpkx) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect](https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d) | 3:15 | 2022-04-15 | 2022-05-21 |
 | [Say You Will](https://open.spotify.com/track/01vJRC33O3RZS1dU5dUUJ6) | [Royal Wood](https://open.spotify.com/artist/0gpd8R84x5pZaGi5tgZdKc) | [Say You Will](https://open.spotify.com/album/0QTvXpfQhqsCOTnC80oWgk) | 4:51 | 2022-04-15 | 2022-07-25 |
+| [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 | 2024-06-14 |  |
 | [Set Yourself Free](https://open.spotify.com/track/5ABaIij0Yn257HSPgnQwAU) | [Martin Kerr](https://open.spotify.com/artist/3Qg69CFtPUh3Uu14OfjV2t), [Celeigh Cardinal](https://open.spotify.com/artist/7HAq3UBI3pb8ok9k7dkdGR) | [Set Yourself Free](https://open.spotify.com/album/58kjprgFOt8ER24zp7b5ZW) | 3:52 | 2022-04-15 | 2022-07-18 |
 | [Shiny](https://open.spotify.com/track/7nqdMiUQa07WfmxHgUL6Mo) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Amidst the Chaos \(Bonus Version\)](https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm) | 2:53 | 2022-04-15 | 2022-06-08 |
 | [show me love \- acoustic](https://open.spotify.com/track/0lzXXvUPFmcI8glOYWWdzz) | [isaac gracie](https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb) | [show me love \(acoustic\)](https://open.spotify.com/album/15W7CryIXsEx5sn6keU5ll) | 3:34 | 2022-07-27 | 2022-11-13 |

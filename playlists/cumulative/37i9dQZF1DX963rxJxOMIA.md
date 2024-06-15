@@ -4,7 +4,7 @@
 
 > Fino y elegante, como Maluma y Pirlo.
 
-246 songs - 12 hr 58 min
+247 songs - 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,10 +35,11 @@
 | [Borro Cassette](https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Pretty Boy, Dirty Boy](https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7) | 3:27 | 2022-09-06 | 2022-10-01 |
 | [Brisbane](https://open.spotify.com/track/3pBUftrSlCao62GnIh2Ub9) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Brisbane](https://open.spotify.com/album/6BgsrEfKROBsfJ7quahRS3) | 2:53 | 2023-06-29 | 2023-07-29 |
 | [BUBALU](https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [BUBALU](https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX) | 3:48 | 2023-11-10 |  |
-| [Bulevar \(feat\. Nanpa Básico & Brray\) \- Remix](https://open.spotify.com/track/0YFtiekZdGa81WeWgzbRAG) | [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Bulevar \(feat\. Nanpa Básico & Brray\) \[Remix\]](https://open.spotify.com/album/2Zs2mVbPL5ZJyDYD4oshLD) | 6:00 | 2024-02-09 |  |
+| [Bulevar \(feat\. Nanpa Básico & Brray\) \- Remix](https://open.spotify.com/track/0YFtiekZdGa81WeWgzbRAG) | [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Bulevar \(feat\. Nanpa Básico & Brray\) \[Remix\]](https://open.spotify.com/album/2Zs2mVbPL5ZJyDYD4oshLD) | 6:00 | 2024-02-09 | 2024-06-15 |
 | [CAIRO](https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [CAIRO](https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA) | 3:21 | 2022-11-13 | 2023-03-03 |
 | [Cartagena](https://open.spotify.com/track/04xYsXTqDPw63leBivg2pf) | [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Bowdozen](https://open.spotify.com/artist/4tCGhpQLgAw56eCyh1qQaN), [Sebas Boxian](https://open.spotify.com/artist/61BDXR8Fu8hQ1xmdJR405N) | [Cartagena](https://open.spotify.com/album/7GWo7V5ynQbXrLOKB2aX4u) | 3:15 | 2024-01-26 | 2024-06-08 |
 | [Chichi Pana](https://open.spotify.com/track/0Lqxq5eO2zfQJadlzh89YM) | [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Chichi Pana](https://open.spotify.com/album/7aLKhm7x1iCzRyHqyqCVdK) | 3:01 | 2024-01-26 | 2024-04-11 |
+| [Chicokis](https://open.spotify.com/track/0B4pPvg3BkxwfqleM2ZSWM) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Chicokis](https://open.spotify.com/album/7nwpYVW58MD6SmbW8beX7s) | 3:05 | 2024-06-14 |  |
 | [Chimbiando](https://open.spotify.com/track/2JuzL1lCVol7VJaKn8WnCn) | [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC) | [Chimbiando](https://open.spotify.com/album/7crWoBYWALhKVmqFF3Bx22) | 2:37 | 2023-10-20 | 2023-11-25 |
 | [Chingar \(Remix\)](https://open.spotify.com/track/3yPV7Z22Hf1Zsw8wkpExCc) | [Philip Ariaz](https://open.spotify.com/artist/0OJB7a56o2eMyB6hOmv6vC), [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC) | [Chingar \(Remix\)](https://open.spotify.com/album/1JVd3rY42r8rDAZb4X6Pq5) | 3:07 | 2023-02-02 | 2023-03-10 |
 | [CHORRITO PA LAS ANIMAS](https://open.spotify.com/track/0CYTGMBYkwUxrj1MWDLrC5) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SIXDO](https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa) | 2:48 | 2022-12-02 | 2023-10-21 |

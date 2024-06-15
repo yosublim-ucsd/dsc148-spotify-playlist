@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Jalen Ngonda
 
-424 songs - 1 day 1 hr 42 min
+425 songs - 1 day 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Crazy For You](https://open.spotify.com/track/1sRLsk8xQJA3dQPu6iglM7) | [Conor Hughes](https://open.spotify.com/artist/7uVGtNmhKU2sOSmAvr4ElW) | [Crazy For You](https://open.spotify.com/album/6kiv0BqEcRjmm7Ef4JYWKd) | 2:46 | 2023-06-02 | 2024-05-11 |
 | [Cruisin' to the Parque](https://open.spotify.com/track/1nCEYuoVGIyff0Gb8acGAq) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB), [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Cruisin' To The Parque](https://open.spotify.com/album/4WZY8uTnoLtLPyeROJhAxh) | 3:35 | 2021-12-03 | 2023-02-25 |
 | [Cruisin' to the Parque feat\. Y La Bamba](https://open.spotify.com/track/5ogtCRgBDDaPjInCBcFHTg) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Cruisin' To The Parque feat\. Y La Bamba](https://open.spotify.com/album/1m38XyH8I9KSgnkhv4Axd1) | 3:35 | 2021-12-03 | 2022-07-29 |
-| [CRY](https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 3:57 | 2022-04-05 |  |
+| [CRY](https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 3:57 | 2022-04-05 | 2024-06-15 |
 | [Damaged Heart](https://open.spotify.com/track/3Bj3ZuVPpPDwUxkwpL78L4) | [The Tibbs](https://open.spotify.com/artist/2erVTUGh7hd5PQ3qwChdxw) | [Another Shot Fired](https://open.spotify.com/album/4RRggV5CrnXd2fFtgILVJC) | 3:10 | 2021-07-09 | 2022-06-26 |
 | [Dance With Me](https://open.spotify.com/track/1lGYIrfy4ulioJGYAjRD0h) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Zero Grace](https://open.spotify.com/album/4loYR62mrFQeCzK5pHoV5l) | 3:48 | 2023-11-17 | 2024-04-19 |
 | [Dance With Me](https://open.spotify.com/track/3D5Lrb3hzIs5ueUvuGpWWG) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Dance With Me](https://open.spotify.com/album/5am0gtPGTLFAADXodhymWp) | 3:48 | 2023-11-17 |  |
@@ -351,6 +351,7 @@
 | [Stay Away](https://open.spotify.com/track/4ml0940tmn92PzmkSb2lwU) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [No Time For Dreaming](https://open.spotify.com/album/6llfJp31mi9r7swqmSAwuK) | 3:11 | 2021-07-09 | 2023-01-28 |
 | [Steady](https://open.spotify.com/track/1mC3szr3FGsSzPBcvjweEI) | [Nicole Chambers](https://open.spotify.com/artist/5kvxSGkZcVesEX2mqw0AtC) | [Steady](https://open.spotify.com/album/7s6RxNVhw4gVU9cWLUK0x2) | 2:44 | 2023-09-08 |  |
 | [Still Alive](https://open.spotify.com/track/6op7RGEgw2gs49M87Uct2p) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK) | [Still Alive](https://open.spotify.com/album/7byQuT5JOWWfHTfu7zpxxT) | 3:21 | 2023-11-10 |  |
+| [Strawberry Hill](https://open.spotify.com/track/3xpMvP8XgTxR1k4p0AEZxg) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Human Decency](https://open.spotify.com/album/7wASaUQhuevPwNzNICAvGG) | 4:06 | 2024-06-14 |  |
 | [Street People](https://open.spotify.com/track/39n0HaRNVVxtvINVdivQwH) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Street People](https://open.spotify.com/album/15NOultLFQgFoZyYLfy8hM) | 5:52 | 2024-03-01 | 2024-04-27 |
 | [Stretch Out](https://open.spotify.com/track/73H3Vjx7PtC6ntVr3F1rRU) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Stretch Out](https://open.spotify.com/album/02hSfOu0sNbuWlh8lxEQ4e) | 3:10 | 2023-09-01 |  |
 | [Sun Go Down](https://open.spotify.com/track/6UJThOHpnTSWu583jJ4dbo) | [Fat Night](https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi) | [Lazy Days](https://open.spotify.com/album/3dsG1JN1wE7XL5DLuWNKk5) | 3:42 | 2021-07-09 | 2023-01-28 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Dance to your favorite electronic hits \ud83e\udea9 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave \ud83d\udd7a Cover: KAYTRANADA",
+  "description": "Dance to your favorite electronic hits \ud83e\udea9 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave \ud83d\udd7a Cover: Kygo",
   "name": "Dance For Days \ud83e\udea9\ud83d\udd7a 2024 EDM",
   "tracks": [
     {
@@ -6181,6 +6181,24 @@
     },
     {
       "album": {
+        "name": "Like I Need U",
+        "url": "https://open.spotify.com/album/50QPHuRFKiJF5WnEMwr0W7"
+      },
+      "artists": [
+        {
+          "name": "BIIANCO",
+          "url": "https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Like I Need U",
+      "url": "https://open.spotify.com/track/51nw10yLvdtq9ASHgm1P42"
+    },
+    {
+      "album": {
         "name": "Little Things x Gypsy Woman (L BEATS MASHUP)",
         "url": "https://open.spotify.com/album/052c03LAr2euUtLKgvOKae"
       },
@@ -6882,6 +6900,28 @@
       "duration_ms": 121955,
       "name": "Mami Mami",
       "url": "https://open.spotify.com/track/3tWx4p1GQpPnRmjTvVw8DV"
+    },
+    {
+      "album": {
+        "name": "Me Before You",
+        "url": "https://open.spotify.com/album/4hElKzCyDVbddwxZe4f9jb"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Plested",
+          "url": "https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215976,
+      "name": "Me Before You",
+      "url": "https://open.spotify.com/track/1S4sLPFxkgMTOui1W4GN72"
     },
     {
       "album": {

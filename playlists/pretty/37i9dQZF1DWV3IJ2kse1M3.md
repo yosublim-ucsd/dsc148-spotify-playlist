@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 
 > 在音樂的懷抱裡，你想哭就哭。我能感覺我們兩個世界 愛變得不再熟練 就連擁抱都不再熱烈 像冷空氣降溫的瞬間
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,593 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,589 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

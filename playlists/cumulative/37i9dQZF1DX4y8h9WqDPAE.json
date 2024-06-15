@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Shenseea",
+  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Tommy Richman",
   "name": "Channel-X",
   "tracks": [
     {
@@ -522,6 +522,24 @@
       "duration_ms": 218266,
       "name": "Addicted (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/3Mr7AWHQj2ZUfMwNWq59MK"
+    },
+    {
+      "album": {
+        "name": "Adore U",
+        "url": "https://open.spotify.com/album/6TuqYkU9a9UNy7YxwATWDg"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164178,
+      "name": "Adore U",
+      "url": "https://open.spotify.com/track/5qQHPdQaiLkIrRjMBFTbuz"
     },
     {
       "album": {
@@ -1564,6 +1582,28 @@
       "duration_ms": 214352,
       "name": "Better Thangs (with Summer Walker)",
       "url": "https://open.spotify.com/track/5ToBvPG8kVJ70jXGvealFs"
+    },
+    {
+      "album": {
+        "name": "DOPAMINE",
+        "url": "https://open.spotify.com/album/1XSUdSojWNJCgNqKNxfcVr"
+      },
+      "artists": [
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        },
+        {
+          "name": "Starrah",
+          "url": "https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173087,
+      "name": "Big Boy (feat. Starrah)",
+      "url": "https://open.spotify.com/track/6617OvEesvCz7kGfXLYW4h"
     },
     {
       "album": {
@@ -3066,7 +3106,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 170453,
-      "name": "Deep in the Water",
+      "name": "DEEP IN THE WATER",
       "url": "https://open.spotify.com/track/2dshtwEGNpyrE0x69wUiHj"
     },
     {
@@ -3148,6 +3188,24 @@
       "duration_ms": 178066,
       "name": "Desire (with VITA)",
       "url": "https://open.spotify.com/track/6aCFpO6fjm5FTEsvqJtALr"
+    },
+    {
+      "album": {
+        "name": "DEVIL IS A LIE",
+        "url": "https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130944,
+      "name": "DEVIL IS A LIE",
+      "url": "https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09"
     },
     {
       "album": {
@@ -3633,6 +3691,24 @@
     },
     {
       "album": {
+        "name": "Moth",
+        "url": "https://open.spotify.com/album/3QYrEoeYrBdBNrtsuoCor7"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159027,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/54L1OJ4RopFVYymnXbNvYw"
+    },
+    {
+      "album": {
         "name": "Down Bad",
         "url": "https://open.spotify.com/album/3jppDX7wplL844aWT5EHcY"
       },
@@ -3965,6 +4041,28 @@
     },
     {
       "album": {
+        "name": "Era",
+        "url": "https://open.spotify.com/album/7u7kdBtG8MMxvqBAsGpfQo"
+      },
+      "artists": [
+        {
+          "name": "Tayla Parx",
+          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
+        },
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133011,
+      "name": "Era",
+      "url": "https://open.spotify.com/track/0lnwlqbqROrhg4IiQ34iH6"
+    },
+    {
+      "album": {
         "name": "Before You Go",
         "url": "https://open.spotify.com/album/4bXS4Vs7WMBRiJ1VdPTCte"
       },
@@ -4016,6 +4114,24 @@
       "duration_ms": 166958,
       "name": "Everything",
       "url": "https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO"
+    },
+    {
+      "album": {
+        "name": "Exes",
+        "url": "https://open.spotify.com/album/2CSmZtcqtil57qW8BOiAoG"
+      },
+      "artists": [
+        {
+          "name": "Major Myjah",
+          "url": "https://open.spotify.com/artist/1pseCBuVDMZFDp6RbzuX8L"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162764,
+      "name": "Exes",
+      "url": "https://open.spotify.com/track/4zUkoSQCwdHmidKyzXZXUV"
     },
     {
       "album": {
@@ -4216,6 +4332,28 @@
       "duration_ms": 223702,
       "name": "Favorite Song (with Khalid) [Remix]",
       "url": "https://open.spotify.com/track/40T41lXX0bWVF2OMj0FYdP"
+    },
+    {
+      "album": {
+        "name": "Favourite Girl",
+        "url": "https://open.spotify.com/album/1sbGuc7mOIgMFQoNFJHaRh"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Dess Dior",
+          "url": "https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Favourite Girl",
+      "url": "https://open.spotify.com/track/6UTXf9k0H3JDus2ZZDwGpC"
     },
     {
       "album": {
@@ -4845,6 +4983,28 @@
     },
     {
       "album": {
+        "name": "Gas You Up (feat. Hunxho)",
+        "url": "https://open.spotify.com/album/2Eqz4StSB2s5FUa0jemV1h"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171391,
+      "name": "Gas You Up (feat. Hunxho)",
+      "url": "https://open.spotify.com/track/68RKVxLFkC3jqS43GUWtCy"
+    },
+    {
+      "album": {
         "name": "Closure Tapes",
         "url": "https://open.spotify.com/album/4rAj2yXfbuhHxR5ibpopF5"
       },
@@ -5096,6 +5256,24 @@
       "duration_ms": 201528,
       "name": "Girls Night Out (with Doechii)",
       "url": "https://open.spotify.com/track/74FInvmyz8taG35p8QYU6J"
+    },
+    {
+      "album": {
+        "name": "HARDSTONE PSYCHO",
+        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228560,
+      "name": "GLOCK",
+      "url": "https://open.spotify.com/track/29sbEEB0w4aAY3FofzzEjy"
     },
     {
       "album": {
@@ -6531,6 +6709,24 @@
     },
     {
       "album": {
+        "name": "DOPAMINE",
+        "url": "https://open.spotify.com/album/1XSUdSojWNJCgNqKNxfcVr"
+      },
+      "artists": [
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229131,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/1KynKSyhY1OJzZgQlV3Rda"
+    },
+    {
+      "album": {
         "name": "INTOXYCATED (feat. Dave)",
         "url": "https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV"
       },
@@ -7386,7 +7582,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 206226,
       "name": "Liar (feat. Fireboy DML)",
       "url": "https://open.spotify.com/track/5DIkmpzdunkmEo8yNukpJG"
@@ -8106,6 +8302,24 @@
       "duration_ms": 199440,
       "name": "Main One (feat. Tyga)",
       "url": "https://open.spotify.com/track/2nB44lzuvxp40hNMkT6BZj"
+    },
+    {
+      "album": {
+        "name": "Makaveli",
+        "url": "https://open.spotify.com/album/00gBmKMQctzkcT0AEDLaBH"
+      },
+      "artists": [
+        {
+          "name": "Os\u00e9",
+          "url": "https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164589,
+      "name": "Makaveli",
+      "url": "https://open.spotify.com/track/2gJqEnpvN9tBzZKwO1LETo"
     },
     {
       "album": {
@@ -9517,6 +9731,24 @@
     },
     {
       "album": {
+        "name": "ONOME",
+        "url": "https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197444,
+      "name": "ONOME",
+      "url": "https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH"
+    },
+    {
+      "album": {
         "name": "Pillow Talk",
         "url": "https://open.spotify.com/album/5OqXOVNWcFnBsYnPV0BWc6"
       },
@@ -10920,6 +11152,28 @@
       "duration_ms": 223189,
       "name": "Risk Taker",
       "url": "https://open.spotify.com/track/1rdL4oJxPzqDiNclK2aP3u"
+    },
+    {
+      "album": {
+        "name": "rmb da time' (dundadundun)",
+        "url": "https://open.spotify.com/album/54Ih1ReTQRjLCtOIgIhOFM"
+      },
+      "artists": [
+        {
+          "name": "Destin Laurel",
+          "url": "https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR"
+        },
+        {
+          "name": "Ziahfyah",
+          "url": "https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130285,
+      "name": "rmb da time' (dundadundun)",
+      "url": "https://open.spotify.com/track/31AW2cF3747K6LYnfkASm5"
     },
     {
       "album": {
@@ -12576,6 +12830,32 @@
       "duration_ms": 144344,
       "name": "Stressed (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/2mNaugzeRDyAq991bw4nqv"
+    },
+    {
+      "album": {
+        "name": "Strings (feat. French Montana & Fivio Foreign)",
+        "url": "https://open.spotify.com/album/0iFDKWxOnTocDNt6iNpheh"
+      },
+      "artists": [
+        {
+          "name": "Capella Grey",
+          "url": "https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144062,
+      "name": "Strings (feat. French Montana & Fivio Foreign)",
+      "url": "https://open.spotify.com/track/1nrfmk7g1EORXp2a0WnlHc"
     },
     {
       "album": {

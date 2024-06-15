@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Recent hits and new songs from your fave artists. Cover: Meghan Trainor",
+  "description": "Recent hits and new songs from your fave artists. Cover: Jelly Roll",
   "name": "Just Good Music",
   "tracks": [
     {
@@ -1840,7 +1840,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 195068,
       "name": "Baby Blue Bathing Suit",
       "url": "https://open.spotify.com/track/44g9B391W79R6B0AFXhRyd"
@@ -3582,7 +3582,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 155471,
       "name": "BMXXing",
       "url": "https://open.spotify.com/track/5xR8ngEQmlQ1U2xSE0KzTo"
@@ -5625,6 +5625,28 @@
     },
     {
       "album": {
+        "name": "Cape Town to Cairo",
+        "url": "https://open.spotify.com/album/3xrdk0MImcnbt9NEc7pSnK"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169124,
+      "name": "Count On Me",
+      "url": "https://open.spotify.com/track/1NFEXNMg8AZ0jGSux4CJdd"
+    },
+    {
+      "album": {
         "name": "Courage to Change",
         "url": "https://open.spotify.com/album/09bnoLaXqJi7naZtDXHIbh"
       },
@@ -6572,7 +6594,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 217880,
       "name": "Dispose of Me",
       "url": "https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS"
@@ -6944,6 +6966,24 @@
       "duration_ms": 180807,
       "name": "dose",
       "url": "https://open.spotify.com/track/4KGTM5EQEWR1QMDvo8dzaZ"
+    },
+    {
+      "album": {
+        "name": "Double Life (From \"Despicable Me 4\")",
+        "url": "https://open.spotify.com/album/6k4sB6SP3ekH3iIhaDuUV4"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190782,
+      "name": "Double Life - From \"Despicable Me 4\"",
+      "url": "https://open.spotify.com/track/07oO1U722crtVcavi6frX6"
     },
     {
       "album": {
@@ -7484,7 +7524,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -9767,6 +9807,24 @@
     },
     {
       "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+    },
+    {
+      "album": {
         "name": "Good Man (First Love)",
         "url": "https://open.spotify.com/album/1vS9mqQQuGIFvLklJucvQJ"
       },
@@ -10422,7 +10480,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 179993,
       "name": "Happy World",
       "url": "https://open.spotify.com/track/0kY86R5mW1Js0jymCs8Wfp"
@@ -11940,6 +11998,24 @@
       "duration_ms": 148485,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
+    },
+    {
+      "album": {
+        "name": "I Am Not Okay",
+        "url": "https://open.spotify.com/album/07IZeIkEgAdjs0dSbRxn7i"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197133,
+      "name": "I Am Not Okay",
+      "url": "https://open.spotify.com/track/76ODTQOl0JZQbhfxs6nRV9"
     },
     {
       "album": {
@@ -13593,6 +13669,24 @@
     },
     {
       "album": {
+        "name": "In My Imagination",
+        "url": "https://open.spotify.com/album/6GVdXBg3rFTbg3fB1MJ7pa"
+      },
+      "artists": [
+        {
+          "name": "Devin Kennedy",
+          "url": "https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204316,
+      "name": "In My Imagination",
+      "url": "https://open.spotify.com/track/0f5My552DeGLhVrDWWKpIE"
+    },
+    {
+      "album": {
         "name": "In Real Life",
         "url": "https://open.spotify.com/album/58yGjTqTpGCIYqMYcdrzb9"
       },
@@ -14234,7 +14328,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 160932,
       "name": "Just a Dance",
       "url": "https://open.spotify.com/track/2iulJlc0L0rbcvowdlib7J"
@@ -16203,6 +16297,24 @@
     },
     {
       "album": {
+        "name": "Look Who's Laughing Now",
+        "url": "https://open.spotify.com/album/3O3FXwwOlzxhWbETL8sfe3"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174660,
+      "name": "Look Who's Laughing Now",
+      "url": "https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7"
+    },
+    {
+      "album": {
         "name": "Looks Like Me",
         "url": "https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M"
       },
@@ -18085,6 +18197,24 @@
     },
     {
       "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/6IHfJm4FRah8YHY8PMVOJd"
+      },
+      "artists": [
+        {
+          "name": "Forest Claudette",
+          "url": "https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174358,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/0tNKQB9jfD9vHOJlV9yvg1"
+    },
+    {
+      "album": {
         "name": "Moral of the Story (feat. Niall Horan)",
         "url": "https://open.spotify.com/album/3pqw4TEWnaCDNK2xs0BKhr"
       },
@@ -18324,7 +18454,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 176196,
       "name": "Music On The Radio",
       "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
@@ -20890,7 +21020,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 177562,
       "name": "Please Don't Fall In Love With Me",
       "url": "https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7"
@@ -22516,7 +22646,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 207795,
       "name": "Sexy to Someone",
       "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
@@ -23346,7 +23476,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 199756,
       "name": "Solo",
       "url": "https://open.spotify.com/track/3r4fSBwpm4U0XqxBKc2SWE"
@@ -24765,6 +24895,24 @@
     },
     {
       "album": {
+        "name": "Stumblin' In",
+        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213363,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+    },
+    {
+      "album": {
         "name": "Glory Sound Prep",
         "url": "https://open.spotify.com/album/59YYObx9wFEFG5zVdlfwvf"
       },
@@ -25160,6 +25308,28 @@
       "duration_ms": 183103,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/4Y5gx8VuShNmakYGlnrUzD"
+    },
+    {
+      "album": {
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/124LdmYiB3SM7x2EefHBoa"
+      },
+      "artists": [
+        {
+          "name": "Lindsey Stirling",
+          "url": "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM"
+        },
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197106,
+      "name": "Survive [Feat. Walk Off The Earth]",
+      "url": "https://open.spotify.com/track/2qVZY6UtkkwV3wi2r2cocx"
     },
     {
       "album": {
@@ -25844,6 +26014,24 @@
       "duration_ms": 207537,
       "name": "The Book of You & I",
       "url": "https://open.spotify.com/track/6goVVcwzy7RtZdytF5XADW"
+    },
+    {
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173639,
+      "name": "the boy is mine",
+      "url": "https://open.spotify.com/track/4TYhQPffPcde8OQFnTo62a"
     },
     {
       "album": {

@@ -1446,7 +1446,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 159078,
       "name": "Dunya",
       "url": "https://open.spotify.com/track/3WGDOi0xw7qyPrPnjBg2iu"
@@ -2363,6 +2363,28 @@
     },
     {
       "album": {
+        "name": "Jhol",
+        "url": "https://open.spotify.com/album/7grtFo2pj5wwRTM7c6NI9y"
+      },
+      "artists": [
+        {
+          "name": "Maanu",
+          "url": "https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY"
+        },
+        {
+          "name": "Annural Khalid",
+          "url": "https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265817,
+      "name": "Jhol",
+      "url": "https://open.spotify.com/track/4XTgFBxBHN6var1BzAgE1m"
+    },
+    {
+      "album": {
         "name": "Ram Pam Para",
         "url": "https://open.spotify.com/album/6DiiOftBUslEpML79kbVNW"
       },
@@ -2444,6 +2466,24 @@
       "duration_ms": 189357,
       "name": "Joona",
       "url": "https://open.spotify.com/track/18twglRl0wFIIMtFOy2CHs"
+    },
+    {
+      "album": {
+        "name": "Just Us",
+        "url": "https://open.spotify.com/album/1s5gQHicm3JMqyyia8YcpF"
+      },
+      "artists": [
+        {
+          "name": "Aashir Wajahat",
+          "url": "https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168537,
+      "name": "Just Us",
+      "url": "https://open.spotify.com/track/3wm5N6UAVYLF1lRQMW8t0C"
     },
     {
       "album": {
@@ -2578,6 +2618,32 @@
       "duration_ms": 57428,
       "name": "Kasam Ki Kasam",
       "url": "https://open.spotify.com/track/33e7SIWEr6AhRRT9cpn9ed"
+    },
+    {
+      "album": {
+        "name": "Kat\u00e9 Na",
+        "url": "https://open.spotify.com/album/6rXlYqEbLfN6eNeWOXcfVB"
+      },
+      "artists": [
+        {
+          "name": "Abdullah Kasumbi",
+          "url": "https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR"
+        },
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        },
+        {
+          "name": "Adnan Abbas Rizvi",
+          "url": "https://open.spotify.com/artist/7Jo598naeY8LMLpUmb2cbj"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166530,
+      "name": "Kat\u00e9 Na",
+      "url": "https://open.spotify.com/track/1qtTCasqKlVKVG1DkMEEcg"
     },
     {
       "album": {
@@ -2980,6 +3046,28 @@
       "duration_ms": 153030,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/5Deg8uiLYB1f4jDwsLcc8E"
+    },
+    {
+      "album": {
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/4dIAYG2b0XxwlI9udFN8h8"
+      },
+      "artists": [
+        {
+          "name": "Sameen Khawaja",
+          "url": "https://open.spotify.com/artist/3N3IttjqDCutknUWWA1q9B"
+        },
+        {
+          "name": "Ali Mustafa",
+          "url": "https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/1YmC6MzyctKlE5XGtXy5ow"
     },
     {
       "album": {

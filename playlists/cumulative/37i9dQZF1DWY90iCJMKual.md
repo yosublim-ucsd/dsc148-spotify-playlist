@@ -4,7 +4,7 @@
 
 > 🇵🇭 vibin' 🥶 🔥 Cover: August Wahh
 
-243 songs - 13 hr 49 min
+245 songs - 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [B.A.D.](https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [B.A.D.](https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM) | 2:50 | 2023-10-27 |  |
 | [Babaero](https://open.spotify.com/track/0NJAqnvbF6vzripOB7PclP) | [gins&melodies](https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Babaero](https://open.spotify.com/album/1rWV1baWSlnYYrYxU719QO) | 2:55 | 2024-01-29 |  |
 | [Babalik Ba](https://open.spotify.com/track/2PUnWvAzUpIpIgQtOCRavW) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [Babalik Ba](https://open.spotify.com/album/2tbiWn0aGNRWJm5aYhz6DA) | 2:52 | 2023-04-06 | 2023-09-07 |
+| [baliktanaw](https://open.spotify.com/track/47zgYdCb0JjCMkdWqiGmlk) | [KLLY](https://open.spotify.com/artist/4eBTFDYHEwhgg4OE30E1eF) | [baliktanaw](https://open.spotify.com/album/7DdAQB0WEsUI2C8eDHYvnh) | 2:31 | 2024-06-14 |  |
 | [bb girl](https://open.spotify.com/track/4JkPVqYsg83oHC4VhSW37n) | [Yoki](https://open.spotify.com/artist/2KSbfWcuuca3HqCgxzNR5c) | [bb girl](https://open.spotify.com/album/0WGdprszHqeEuOIu8F6t5D) | 3:13 | 2023-02-23 | 2023-09-07 |
 | [BE KIND](https://open.spotify.com/track/49DQxYQV8e7HFzDLXJGTyf) | [Adjeng](https://open.spotify.com/artist/6YceEbx95WDXZNT8fKpKyi) | [BE KIND](https://open.spotify.com/album/0yaYlzdd5cRPPvX7xgajxm) | 3:24 | 2022-10-12 | 2023-07-29 |
 | [Before You Leave My Heart](https://open.spotify.com/track/4SGJXiT5oEXsLCusmpS849) | [ANNA](https://open.spotify.com/artist/0kdRq6M9xM5QIw0NIfyEHN) | [Before You Leave My Heart](https://open.spotify.com/album/0eEAS5alAozUiNulHgx5bm) | 4:06 | 2022-10-12 | 2023-05-03 |
@@ -143,6 +144,7 @@
 | [LUV DRUNK II](https://open.spotify.com/track/7kmIBigmMa9HL3NfBiqhws) | [KLLY](https://open.spotify.com/artist/4eBTFDYHEwhgg4OE30E1eF), [Colt](https://open.spotify.com/artist/1f14QOvizCQAUSK9XziNPH) | [LUV DRUNK II](https://open.spotify.com/album/1NK1DGc1kgcXL2BbM9EXza) | 2:54 | 2023-09-06 | 2024-01-27 |
 | [Magdamag](https://open.spotify.com/track/1t3YrmdkNAjonhIUBIpm8Y) | [KV](https://open.spotify.com/artist/4ZPvMY3YPMZbVZn5WIjzvB) | [Magdamag](https://open.spotify.com/album/3iDeh0fFf7vcAPSDA6eSTh) | 1:59 | 2023-09-06 | 2023-11-11 |
 | [Maharani](https://open.spotify.com/track/6KAnNItOZJ85PT3s0KqMgT) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Pasulong](https://open.spotify.com/album/6AdDhvJCm1PxzwqYzS1uE2) | 3:30 | 2024-06-05 |  |
+| [Mahirap](https://open.spotify.com/track/4RUF5cWK5iKOa8OY8gCU0W) | [Johann Regaya](https://open.spotify.com/artist/3PID0KJW9zSuISzVtbBBpJ) | [Mahirap](https://open.spotify.com/album/2XbDGLTQxv8yYabdHR45HI) | 2:43 | 2024-06-14 |  |
 | [Maikee's Letters](https://open.spotify.com/track/21XjtaAEZxurElfPGSKrv9) | [Just Hush](https://open.spotify.com/artist/3KovZIDNYgQY8chiNZo2ZF) | [Maikee's Letters](https://open.spotify.com/album/6Hd66jTMfgXgaItso2FfzJ) | 5:00 | 2022-10-12 | 2023-07-29 |
 | [Makasarili Malambing](https://open.spotify.com/track/1c6hnvWjzUsJoypgwUV2sE) | [Kristina Dawn](https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Makasarili Malambing](https://open.spotify.com/album/07y0oEistR8d2JOwd5E67B) | 2:01 | 2024-01-15 |  |
 | [Makasarili Malambing \(feat\. Hev Abi\)](https://open.spotify.com/track/24lbO7qor0IB4u9uu8pDw8) | [Kristina Dawn](https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Makasarili Malambing \(feat\. Hev Abi\)](https://open.spotify.com/album/5nRawGHyy4wk6BEudZx0h4) | 2:01 | 2024-03-12 | 2024-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 
 > Close your eyes and relax to calm, peaceful piano melodies.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 470 likes - 224 songs - 9 hr 40 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 471 likes - 224 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,7 +152,7 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 | 142 | [Cast Adrift](https://open.spotify.com/track/1LhtTP5ocyLK9dvr2LWvWa) | [Joe Sinha Semple](https://open.spotify.com/artist/1A7OPDVDUqq417nwKzAVu6) | [Cast Adrift](https://open.spotify.com/album/3Av9byecCC79L6tcrtsGJn) | 1:59 |
 | 143 | [One Year](https://open.spotify.com/track/0BMY9nY0nOBSWsDLOnvHIi) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [One Year](https://open.spotify.com/album/1zr2DXYzyjAc5zCulGPym0) | 2:26 |
 | 144 | [What Was I Made For? \[From The Motion Picture "Barbie"\] \(Piano Instrumental\)](https://open.spotify.com/track/7DHBf64lC6WSLvdIFx0B9x) | [Re:Imagine](https://open.spotify.com/artist/4VwpVXEXhfbmpwJKIBFrFi) | [What Was I Made For? \[From The Motion Picture "Barbie"\] \(Piano Instrumental\)](https://open.spotify.com/album/02L48TZ94RAA9cWs99fgEa) | 2:39 |
-| 145 | [Idea 9](https://open.spotify.com/track/76OEZ6s2Bhtb7C6iPTkBcq) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Idea 9 \(Slowed + Reverb\)](https://open.spotify.com/album/7MQS5VHSUiNrDy4q4ztXD4) | 2:17 |
+| 145 | [Idea 9](https://open.spotify.com/track/3TdROUy5JZz1OcBKMZjeux) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Idea 9](https://open.spotify.com/album/2BpRxtAl6IrHI2OQtd60PK) | 2:17 |
 | 146 | [Counting Sheep](https://open.spotify.com/track/1GR6UVi4MRNJ2AEV4Hfse9) | [Boyd](https://open.spotify.com/artist/32X14g5e0uOfzySXxatCHA), [David S\. Park](https://open.spotify.com/artist/56ktVDec0voYjJtU66J090) | [Counting Sheep](https://open.spotify.com/album/5dbX3jTIjm10ObwDLIwdjJ) | 2:49 |
 | 147 | [night lights](https://open.spotify.com/track/19JJCUZmRcL6I4zG6O8wC5) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [night lights](https://open.spotify.com/album/6W7nOgUpePMLd2rd79Y0VE) | 1:51 |
 | 148 | [watermelon sugar \- piano instrumental](https://open.spotify.com/track/4gEBcjMwIh1r8KfiMMhGbo) | [Chilled Kitten](https://open.spotify.com/artist/4bAR3McB7SPBGgDmWTRmvP) | [watermelon sugar \(piano instrumental\)](https://open.spotify.com/album/2pPeVMycSTC5MqlW8mdYJq) | 3:08 |
@@ -233,4 +233,4 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 | 223 | [Secret Island Story \(Piano\)](https://open.spotify.com/track/4zyPQPc9nEcJsCw1dQu1mR) | [Beside Bed](https://open.spotify.com/artist/33dcvB5ZSg7z2mTenygZuj), [Jordy Chandra](https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh) | [Genshin Impact Relaxing Beside Bed Collection](https://open.spotify.com/album/2kxtzO6eCq7YwgybnWMyP3) | 2:09 |
 | 224 | [The Soul](https://open.spotify.com/track/4bb9ZHJFbG7LXz6byYoLFe) | [David Redding](https://open.spotify.com/artist/5FRnsphqNLrZB0XuzdSx4H) | [The Soul](https://open.spotify.com/album/2sNud9Y15tXDXNdbRP85tl) | 2:57 |
 
-Snapshot ID: `AAAEUi9vkPfzpaQ3HEDPae2WsI/nUAZ2`
+Snapshot ID: `AAAEWB5PBMZ7TSfhRtiR3bRUazbelOPN`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,815 likes - 323 songs - 20 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,817 likes - 323 songs - 20 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -243,8 +243,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 233 | [Nowhere To Be](https://open.spotify.com/track/0MBw7KEU6wxhhRTD3j4qpv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 3:16 |
 | 234 | [I Had A Heart](https://open.spotify.com/track/2uJZ32A1LXktrJvREA21uf) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 2:48 |
 | 235 | [Rock Bottom](https://open.spotify.com/track/7b2AQnXlxKAPY0PBnjoHNr) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [Le cose che non ho](https://open.spotify.com/album/6471E1sHbiORDuwJkNL3JG) | 3:55 |
-| 236 | [Pop Rock](https://open.spotify.com/track/4hRfQY1nGmSkBg5FU00zcG) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [Opulence EP](https://open.spotify.com/album/15KPwLkZDUQAhBGJdCxowa) | 2:56 |
-| 237 | [My Love](https://open.spotify.com/track/4E7veCcEczlhKQDpOG4qPk) | [Top Hits](https://open.spotify.com/artist/457jVyl9BJJD36YSFM3NkC) | [The Top Hits](https://open.spotify.com/album/6BFWMtAJDVfLF3aPXzndhx) | 4:52 |
+| 236 | [My Love](https://open.spotify.com/track/4E7veCcEczlhKQDpOG4qPk) | [Top Hits](https://open.spotify.com/artist/457jVyl9BJJD36YSFM3NkC) | [The Top Hits](https://open.spotify.com/album/6BFWMtAJDVfLF3aPXzndhx) | 4:52 |
+| 237 | [Pop Rock](https://open.spotify.com/track/4hRfQY1nGmSkBg5FU00zcG) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [Opulence EP](https://open.spotify.com/album/15KPwLkZDUQAhBGJdCxowa) | 2:56 |
 | 238 | [Diamants](https://open.spotify.com/track/6VRn0RfkTHOcTQl9Ekqa0l) | [MPL](https://open.spotify.com/artist/7pcG7za39JaUHalwqiuCt9) | [LU7](https://open.spotify.com/album/70ctKnxErQ38j1sLnWPhJP) | 4:22 |
 | 239 | [Toy Box](https://open.spotify.com/track/1ox13aJPqqpqb6Ej1HO3Db) | [Mylene Cruz \(Herizen Guardiola\) & The Soul Madonnas](https://open.spotify.com/artist/1qCN3pqJTenBwFzJvtaXMS), [The Soul Madonnas](https://open.spotify.com/artist/5tvgyJ5URflCCNGKEZ7iB4) | [The Get Down Part II: Original Soundtrack From The Netflix Original Series](https://open.spotify.com/album/0UqBp39R5ARECBnxnVk25l) | 3:45 |
 | 240 | [Towards The Sun](https://open.spotify.com/track/56Jm8UQS5PD86xfKjanI3r) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 2:47 |
@@ -253,8 +253,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 243 | [Broken Biscuit](https://open.spotify.com/track/3IWBbQlGtsZgCO16AffdKE) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One \(Deluxe Edition\)](https://open.spotify.com/album/5ywlzsK6ga8Drc8RbSI0KX) | 4:55 |
 | 244 | [Like Water \(Originals\)](https://open.spotify.com/track/5lVwpU4qZ6XpGee6Zc4Ohd) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:57 |
 | 245 | [Wanna Be Known](https://open.spotify.com/track/3qV77JjyBtqHovXoYSLnr3) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 3:46 |
-| 246 | [12 Nights](https://open.spotify.com/track/2k5F4391ld0tzQCZf6vV7h) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Snowman Deluxe Edition\)](https://open.spotify.com/album/49kFmuCyxzpbtVfnpLcOP1) | 4:07 |
-| 247 | [One Night](https://open.spotify.com/track/5Ztiajtvy8IJ7ZJMGYCZXn) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 2:58 |
+| 246 | [One Night](https://open.spotify.com/track/5Ztiajtvy8IJ7ZJMGYCZXn) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 2:58 |
+| 247 | [12 Nights](https://open.spotify.com/track/2k5F4391ld0tzQCZf6vV7h) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Snowman Deluxe Edition\)](https://open.spotify.com/album/49kFmuCyxzpbtVfnpLcOP1) | 4:07 |
 | 248 | [Sober and Unkissed](https://open.spotify.com/track/6ll48HRbmGzB5zFK6LwBnJ) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Healing Is Difficult \(10th Anniversary Edition\)](https://open.spotify.com/album/0v1UhTkwjhmUYOFotlws6c) | 4:01 |
 | 249 | [Throw Down the Roses](https://open.spotify.com/track/6cBBqi10U9Nxrab5aFtGxJ) | [Kate Pierson](https://open.spotify.com/artist/3qE0gnM1Y16ZdniN0nkLgD) | [Guitars and Microphones](https://open.spotify.com/album/6hQa2Rryj0F0QrsmqmhCYe) | 3:28 |
 | 250 | [Mister Sister](https://open.spotify.com/track/2j1j7ErJJDpUPiLcL4xv9c) | [Turbonegro](https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz) | [Sexual Harassment](https://open.spotify.com/album/4fsdLpd40uZXSlOkcAvQqQ) | 3:49 |
@@ -332,4 +332,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 322 | [How To Breathe](https://open.spotify.com/track/25NMllQ3Ww9gVZ0BvQUisZ) | [Christine Grünert](https://open.spotify.com/artist/6O3FOxYpUH7Hs6h3QWdGmE) | [How To Breathe](https://open.spotify.com/album/1w6AR2pem7fuleqHhaJSE7) | 3:29 |
 | 323 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 
-Snapshot ID: `AbT+ggAAAABioG5YxvAjdq7reBgCyyr/`
+Snapshot ID: `AbUEIgAAAACaz9fFyXJ8okYus1IWgUMD`

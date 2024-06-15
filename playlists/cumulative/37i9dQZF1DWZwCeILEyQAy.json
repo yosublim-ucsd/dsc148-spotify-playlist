@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Real Rap. All Pressure. Cover: JT",
+  "description": "Real Rap. All Pressure. Cover: Enchanting",
   "name": "Pressure",
   "tracks": [
     {
@@ -1828,7 +1828,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 188235,
       "name": "Booty Club",
       "url": "https://open.spotify.com/track/6NhOhoC8H1ZaMOM28dxg1b"
@@ -1858,6 +1858,28 @@
       "duration_ms": 202285,
       "name": "BOP (feat. GloRilla)",
       "url": "https://open.spotify.com/track/0mpDXW1y4X7MlyPecWAlzJ"
+    },
+    {
+      "album": {
+        "name": "Borderline (feat. Luclover)",
+        "url": "https://open.spotify.com/album/5XR4dYabzVQpbtuP0BxuJu"
+      },
+      "artists": [
+        {
+          "name": "Big Mali",
+          "url": "https://open.spotify.com/artist/7x34WSbxJuJnz7pMPWg4Yz"
+        },
+        {
+          "name": "Luclover",
+          "url": "https://open.spotify.com/artist/6ehZYiWgZXXxjTbziiKj60"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138048,
+      "name": "Borderline (feat. Luclover)",
+      "url": "https://open.spotify.com/track/7ktMBGuRKpJLs24WIQwFph"
     },
     {
       "album": {
@@ -6758,7 +6780,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 167338,
       "name": "Mike T",
       "url": "https://open.spotify.com/track/7EDA3nGRMEhJnw7Ak7mhhc"
@@ -8448,7 +8470,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 138749,
       "name": "Pop It",
       "url": "https://open.spotify.com/track/7uVc645aKDimYANWvNof3A"
@@ -9572,7 +9594,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 130909,
       "name": "See Us",
       "url": "https://open.spotify.com/track/04FBRDqyjccu1VVKZKULa1"
@@ -9830,6 +9852,24 @@
       "duration_ms": 162324,
       "name": "She's Back",
       "url": "https://open.spotify.com/track/3PR8q1B3b6hsJlwphfgCZK"
+    },
+    {
+      "album": {
+        "name": "She's Hot",
+        "url": "https://open.spotify.com/album/2XFM7SGRSMPrgQkb8tLFBF"
+      },
+      "artists": [
+        {
+          "name": "ScarLip",
+          "url": "https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146600,
+      "name": "She's Hot",
+      "url": "https://open.spotify.com/track/5FDa2oOuhGQPCMhWhoSCty"
     },
     {
       "album": {
@@ -11335,6 +11375,28 @@
     },
     {
       "album": {
+        "name": "No Luv",
+        "url": "https://open.spotify.com/album/3dWR4DigMGjegp0NPBfAV7"
+      },
+      "artists": [
+        {
+          "name": "Enchanting",
+          "url": "https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138001,
+      "name": "Track & Field (feat. Kaliii)",
+      "url": "https://open.spotify.com/track/2VEqGWCSJaQeQlwToXSB36"
+    },
+    {
+      "album": {
         "name": "Diary of The Flow Queen",
         "url": "https://open.spotify.com/album/03CKGhq7xh22fxkhHGJxp2"
       },
@@ -11740,6 +11802,24 @@
       "duration_ms": 127946,
       "name": "Want Sum",
       "url": "https://open.spotify.com/track/0sZVQUB6jYpTDAEKSbj4PE"
+    },
+    {
+      "album": {
+        "name": "No Luv",
+        "url": "https://open.spotify.com/album/3dWR4DigMGjegp0NPBfAV7"
+      },
+      "artists": [
+        {
+          "name": "Enchanting",
+          "url": "https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127946,
+      "name": "Want Sum",
+      "url": "https://open.spotify.com/track/19OABqJi38x5SKEH3hSF1G"
     },
     {
       "album": {

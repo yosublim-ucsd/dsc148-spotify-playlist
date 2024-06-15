@@ -2,9 +2,9 @@
 
 ### [Rocktronic](https://open.spotify.com/playlist/37i9dQZF1DWTfrr8pte1rT)
 
-> Rock with a Drop\. Cover: Marshmello, SVDDEN DEATH & Crown The Empire \\m/
+> Rock with a Drop\. Cover: YOOKiE \\m/
 
-415 songs - 23 hr 36 min
+416 songs - 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Don’t Miss \- The Bloody Beetroots Remix](https://open.spotify.com/track/5noYbWiU8xMYd4VEPOeFRz) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC), [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5) | [Don't Miss \(The Bloody Beetroots Remix\)](https://open.spotify.com/album/3yLlpoqKPuRHhUPdvxHJCD) | 2:58 | 2023-04-09 | 2023-11-04 |
 | [Doomsday](https://open.spotify.com/track/6cojcB8ZmJ2U9ihAXzRqrA) | [Figure](https://open.spotify.com/artist/5mADpqv2E8KIHDmEhH7wmr) | [Doomsday](https://open.spotify.com/album/5iZARIvIrSXUXfKeV3SOfH) | 2:27 | 2023-12-15 | 2023-12-23 |
 | [Down Below](https://open.spotify.com/track/2mA88JKm8beu2fB1FM6nWA) | [Awon](https://open.spotify.com/artist/3PHUMTV0xDmeztu4D3fhbz), [Dvddy](https://open.spotify.com/artist/6Gnxo2IdtKi2isu0i6yFSl), [Vanthe](https://open.spotify.com/artist/6xfkmjpCqO7BmqQr4n01yE), [Scaretix](https://open.spotify.com/artist/2v2hEr8gZpd8wDIkHrEbpY) | [Down Below](https://open.spotify.com/album/2fJ3nTxkMxsk3OQe5tIkbe) | 3:53 | 2024-05-31 |  |
+| [DOWN WiTH THE SiCKNESS](https://open.spotify.com/track/4rlTt6hMonpqFW87iXe28G) | [YOOKiE](https://open.spotify.com/artist/26RHyTSsP5JoS4udf8txU5) | [DOWN WiTH THE SiCKNESS](https://open.spotify.com/album/0dJso47tPRHU19MvsbNcFE) | 1:46 | 2024-06-14 |  |
 | [Dream Boy \(JVNA Remix\)](https://open.spotify.com/track/7a9QjEksqPwVBkpTSaoJGU) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Dream Boy \(JVNA Remix\)](https://open.spotify.com/album/3XRvTrfklC5UvOfN3e5Kxp) | 3:12 | 2021-12-10 | 2022-06-19 |
 | [Dreamland](https://open.spotify.com/track/0udIZ5gNmUHGrzaadmP4Wm) | [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [Dreamland](https://open.spotify.com/album/1XwapYg2z28guRjMIXE53U) | 4:01 | 2021-12-10 | 2022-04-02 |
 | [Dreamstate](https://open.spotify.com/track/5Gggw8WykNhnZsYExUVYxy) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Tim Henson](https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4), [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [IT'S NOT A PHASE](https://open.spotify.com/album/5etGhl198ycQOkK4mt8B1w) | 3:12 | 2023-07-21 |  |
@@ -146,7 +147,7 @@
 | [Feel Something \(With I Prevail\)](https://open.spotify.com/track/5dAtKXyrQoQW054LZqJ5dP) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Feel Something \(With I Prevail\)](https://open.spotify.com/album/0oNatPfTF5GM7KnSQ2hRPG) | 3:41 | 2021-12-10 | 2023-03-04 |
 | [Fighter](https://open.spotify.com/track/0wuGHHsJVLVkULt8hUgTFa) | [Blue Stahli](https://open.spotify.com/artist/4DWnSG0RYPAds8EIKY26q3) | [Fighter](https://open.spotify.com/album/0xq3KVLWzl2BYEVjYfqwbr) | 2:25 | 2021-12-10 | 2022-06-24 |
 | [Fighting Gravity \- The Forgotten Remix](https://open.spotify.com/track/3ZAfrkXwfVm2FhgBr4rRQ3) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA), [The Forgotten](https://open.spotify.com/artist/7lXEr5KUTTaln112daJv5t) | [Fighting Gravity](https://open.spotify.com/album/6US71PNDQXGAqL4tynBCuX) | 3:03 | 2022-09-09 | 2022-12-28 |
-| [FIMBULVETR](https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN) | [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [FIMBULVETR](https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP) | 3:53 | 2022-01-07 |  |
+| [FIMBULVETR](https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN) | [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [FIMBULVETR](https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP) | 3:53 | 2022-01-07 | 2024-06-15 |
 | [find u.](https://open.spotify.com/track/2P6GOGbnrVkPBjbyFYyMIx) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [find u.](https://open.spotify.com/album/7oyVNWpF6kzHgmDrkoWZK8) | 3:21 | 2022-01-07 | 2022-06-25 |
 | [Fireball](https://open.spotify.com/track/1r7WUr8dw048EcIXA90lg2) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0), [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [MELLODEATH Tapes Vol\. I](https://open.spotify.com/album/127BvEDtmAoZak4Y8Q1Emc) | 3:15 | 2024-03-08 |  |
 | [First Time](https://open.spotify.com/track/2eFjKl5cyPPYElDByCh6Tb) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [First Time](https://open.spotify.com/album/6GwqbWxgikcrhZn8M2M7sc) | 2:45 | 2021-12-10 | 2022-02-26 |

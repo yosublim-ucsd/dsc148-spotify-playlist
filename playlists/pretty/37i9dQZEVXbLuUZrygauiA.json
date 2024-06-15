@@ -6,58 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Lf5ZmAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Lf+rGAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-06-13 14:19:36",
-      "album": {
-        "name": "Stargazing",
-        "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 172533,
-      "name": "Stargazing",
-      "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
-    },
-    {
-      "added_at": "2024-06-13 14:19:36",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
-    },
-    {
-      "added_at": "2024-06-13 14:19:36",
-      "album": {
-        "name": "EL \u00daLTIMO BAILE",
-        "url": "https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 145342,
-      "name": "REAL GANGSTA LOVE",
-      "url": "https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj"
-    },
-    {
-      "added_at": "2024-06-13 14:19:36",
+      "added_at": "2024-06-14 14:59:15",
       "album": {
         "name": "Memorias <3",
         "url": "https://open.spotify.com/album/7I35dC3g7n1Uv7h1Yn7EXA"
@@ -73,23 +25,71 @@
       "url": "https://open.spotify.com/track/0hkoQgoqic1qQtxPOudmrx"
     },
     {
-      "added_at": "2024-06-13 14:19:36",
+      "added_at": "2024-06-14 14:59:15",
       "album": {
-        "name": "Va En Serio",
-        "url": "https://open.spotify.com/album/1IX7xMQ6ZRtsCU01kFyRXu"
+        "name": "Stargazing",
+        "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
       },
       "artists": [
         {
-          "name": "Los Master Plus",
-          "url": "https://open.spotify.com/artist/5mrBEGdNTaiavWCmaNet6z"
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
         }
       ],
-      "duration_ms": 167130,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/50KucaDoVIZ6Uhyt52gNbQ"
+      "duration_ms": 172533,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
     },
     {
-      "added_at": "2024-06-13 14:19:36",
+      "added_at": "2024-06-14 14:59:15",
+      "album": {
+        "name": "EL \u00daLTIMO BAILE",
+        "url": "https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 145342,
+      "name": "REAL GANGSTA LOVE",
+      "url": "https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj"
+    },
+    {
+      "added_at": "2024-06-14 14:59:15",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "added_at": "2024-06-14 14:59:15",
+      "album": {
+        "name": "Golpe De Calor",
+        "url": "https://open.spotify.com/album/4SnX59bBH3gJ6ufBIET5n6"
+      },
+      "artists": [
+        {
+          "name": "Lupe Borbon y su Blindaje 7",
+          "url": "https://open.spotify.com/artist/7gVnPBgCu1Tce8GLBvk7kl"
+        }
+      ],
+      "duration_ms": 135410,
+      "name": "Golpe De Calor",
+      "url": "https://open.spotify.com/track/7gV6ThNtaAw51bk3KdmBFq"
+    },
+    {
+      "added_at": "2024-06-14 14:59:15",
       "album": {
         "name": "Gimme A Second",
         "url": "https://open.spotify.com/album/01wFnLBPNdYcg05kJDkdbQ"
@@ -109,23 +109,23 @@
       "url": "https://open.spotify.com/track/1xcMA2bFuMseSFaJgpSeXx"
     },
     {
-      "added_at": "2024-06-13 14:19:36",
+      "added_at": "2024-06-14 14:59:15",
       "album": {
-        "name": "Golpe De Calor",
-        "url": "https://open.spotify.com/album/4SnX59bBH3gJ6ufBIET5n6"
+        "name": "Va En Serio",
+        "url": "https://open.spotify.com/album/1IX7xMQ6ZRtsCU01kFyRXu"
       },
       "artists": [
         {
-          "name": "Lupe Borbon y su Blindaje 7",
-          "url": "https://open.spotify.com/artist/7gVnPBgCu1Tce8GLBvk7kl"
+          "name": "Los Master Plus",
+          "url": "https://open.spotify.com/artist/5mrBEGdNTaiavWCmaNet6z"
         }
       ],
-      "duration_ms": 135410,
-      "name": "Golpe De Calor",
-      "url": "https://open.spotify.com/track/7gV6ThNtaAw51bk3KdmBFq"
+      "duration_ms": 167130,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/50KucaDoVIZ6Uhyt52gNbQ"
     },
     {
-      "added_at": "2024-06-13 14:19:36",
+      "added_at": "2024-06-14 14:59:15",
       "album": {
         "name": "WYA REMIX RED",
         "url": "https://open.spotify.com/album/4KparoC39Qn5NatBrMA7nN"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/4YnmQG1fnJR9LnTZtix70T"
     },
     {
-      "added_at": "2024-06-13 14:19:36",
+      "added_at": "2024-06-14 14:59:15",
       "album": {
         "name": "WOKE UP",
         "url": "https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW"
     },
     {
-      "added_at": "2024-06-13 14:19:36",
+      "added_at": "2024-06-14 14:59:15",
       "album": {
         "name": "Good Luck, Babe!",
         "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
@@ -189,27 +189,7 @@
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
-      "added_at": "2024-06-13 14:19:36",
-      "album": {
-        "name": "THE GB",
-        "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 179967,
-      "name": "Neta",
-      "url": "https://open.spotify.com/track/6Q2UhuLaPUlC9VANQOjPxo"
-    },
-    {
-      "added_at": "2024-06-13 14:19:36",
+      "added_at": "2024-06-14 14:59:15",
       "album": {
         "name": "LINDA",
         "url": "https://open.spotify.com/album/3yWUhNOlKeko8CssJgRUF8"
@@ -229,7 +209,7 @@
       "url": "https://open.spotify.com/track/4oowI6IgJp9oqUnJewTp6Y"
     },
     {
-      "added_at": "2024-06-13 14:19:36",
+      "added_at": "2024-06-14 14:59:15",
       "album": {
         "name": "SI NO ES CONTIGO",
         "url": "https://open.spotify.com/album/4ecjQGViGCD4snnZ3QJOEL"
@@ -245,7 +225,27 @@
       "url": "https://open.spotify.com/track/5Uptvz6j1sjDKxidAcnH2L"
     },
     {
-      "added_at": "2024-06-13 14:19:36",
+      "added_at": "2024-06-14 14:59:15",
+      "album": {
+        "name": "THE GB",
+        "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 179967,
+      "name": "Neta",
+      "url": "https://open.spotify.com/track/6Q2UhuLaPUlC9VANQOjPxo"
+    },
+    {
+      "added_at": "2024-06-14 14:59:15",
       "album": {
         "name": "San Pedro",
         "url": "https://open.spotify.com/album/1isqlLWYMmokfCrK1uDSBL"
@@ -265,23 +265,7 @@
       "url": "https://open.spotify.com/track/3meHMCLIeGhw46OBAmC0AC"
     },
     {
-      "added_at": "2024-06-13 14:19:36",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 303440,
-      "name": "CHIHIRO",
-      "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
-    },
-    {
-      "added_at": "2024-06-13 14:19:36",
+      "added_at": "2024-06-14 14:59:15",
       "album": {
         "name": "Porque Te Vas",
         "url": "https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX"
@@ -301,7 +285,23 @@
       "url": "https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z"
     },
     {
-      "added_at": "2024-06-13 14:19:36",
+      "added_at": "2024-06-14 14:59:15",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 303440,
+      "name": "CHIHIRO",
+      "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
+    },
+    {
+      "added_at": "2024-06-14 14:59:15",
       "album": {
         "name": "Stumblin' In",
         "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
     },
     {
-      "added_at": "2024-06-13 14:19:36",
+      "added_at": "2024-06-14 14:59:15",
       "album": {
         "name": "MILLION DOLLAR BABY",
         "url": "https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
     },
     {
-      "added_at": "2024-06-13 14:19:36",
+      "added_at": "2024-06-14 14:59:15",
       "album": {
         "name": "Si No Quieres No",
         "url": "https://open.spotify.com/album/6WkOBnYkj6y5iSr14uhUZF"
@@ -353,23 +353,7 @@
       "url": "https://open.spotify.com/track/1C84d9abZVKWHT2YYpoean"
     },
     {
-      "added_at": "2024-06-13 14:19:36",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 333986,
-      "name": "L\u2019AMOUR DE MA VIE",
-      "url": "https://open.spotify.com/track/6fPan2saHdFaIHuTSatORv"
-    },
-    {
-      "added_at": "2024-06-13 14:19:36",
+      "added_at": "2024-06-14 14:59:15",
       "album": {
         "name": "Ride Or Die, Pt. 2",
         "url": "https://open.spotify.com/album/0KSwPzRWwU14SH8QUCwfM0"
@@ -393,7 +377,7 @@
       "url": "https://open.spotify.com/track/5oYVxFt2k4SkVp6wzVsFWN"
     },
     {
-      "added_at": "2024-06-13 14:19:36",
+      "added_at": "2024-06-14 14:59:15",
       "album": {
         "name": "0 Sentimientos",
         "url": "https://open.spotify.com/album/6Fa9qyvlQcFL1G8h96ZcTi"
@@ -409,7 +393,39 @@
       "url": "https://open.spotify.com/track/3KFej6pGPI0yVV04oxRFf8"
     },
     {
-      "added_at": "2024-06-13 14:19:36",
+      "added_at": "2024-06-14 14:59:15",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 333986,
+      "name": "L\u2019AMOUR DE MA VIE",
+      "url": "https://open.spotify.com/track/6fPan2saHdFaIHuTSatORv"
+    },
+    {
+      "added_at": "2024-06-14 14:59:15",
+      "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 176027,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
+    },
+    {
+      "added_at": "2024-06-14 14:59:15",
       "album": {
         "name": "Mi Morenita",
         "url": "https://open.spotify.com/album/1TFykciPJZ54BYl8iZybM1"
@@ -429,7 +445,7 @@
       "url": "https://open.spotify.com/track/4Xly6Wx7KtcJc739Y4myOt"
     },
     {
-      "added_at": "2024-06-13 14:19:36",
+      "added_at": "2024-06-14 14:59:15",
       "album": {
         "name": "SAYONARA",
         "url": "https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI"
@@ -449,39 +465,7 @@
       "url": "https://open.spotify.com/track/62n1ZpeGX7aM7hqC4NcBsJ"
     },
     {
-      "added_at": "2024-06-13 14:19:36",
-      "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 176027,
-      "name": "Nasty",
-      "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
-    },
-    {
-      "added_at": "2024-06-13 14:19:36",
-      "album": {
-        "name": "PRESENTE",
-        "url": "https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 185933,
-      "name": "Regalo De Dios",
-      "url": "https://open.spotify.com/track/51qYdMBxt9mFbtZBzq1Yfi"
-    },
-    {
-      "added_at": "2024-06-13 14:19:36",
+      "added_at": "2024-06-14 14:59:15",
       "album": {
         "name": "Right Place, Wrong Person",
         "url": "https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I"
@@ -497,7 +481,23 @@
       "url": "https://open.spotify.com/track/02H58MSfVESkKyx4diDgu7"
     },
     {
-      "added_at": "2024-06-13 14:19:36",
+      "added_at": "2024-06-14 14:59:15",
+      "album": {
+        "name": "PRESENTE",
+        "url": "https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 185933,
+      "name": "Regalo De Dios",
+      "url": "https://open.spotify.com/track/51qYdMBxt9mFbtZBzq1Yfi"
+    },
+    {
+      "added_at": "2024-06-14 14:59:15",
       "album": {
         "name": "HAY LUPITA",
         "url": "https://open.spotify.com/album/2VOwmlyJzRjfMfofsNHTtR"
@@ -513,59 +513,7 @@
       "url": "https://open.spotify.com/track/5jFA0f4ZDGLbQP4nxzL8D4"
     },
     {
-      "added_at": "2024-06-13 14:19:36",
-      "album": {
-        "name": "Ya Te Olvide",
-        "url": "https://open.spotify.com/album/1vkcpQesyYNuleAzUmUTsB"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 216317,
-      "name": "Ya Te Olvide",
-      "url": "https://open.spotify.com/track/6Bcy1jJFcIAuAzJMtfpImi"
-    },
-    {
-      "added_at": "2024-06-13 14:19:36",
-      "album": {
-        "name": "Ve y Diles",
-        "url": "https://open.spotify.com/album/4qHt1TJRKfOT7fGvry69XJ"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        },
-        {
-          "name": "Sebastian Llosa",
-          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Ve y Diles",
-      "url": "https://open.spotify.com/track/3bcyUjU6QHY5iFcWhJbRSF"
-    },
-    {
-      "added_at": "2024-06-13 14:19:36",
-      "album": {
-        "name": "EL \u00daLTIMO BAILE",
-        "url": "https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 149083,
-      "name": "RAIN III",
-      "url": "https://open.spotify.com/track/74IoOB0Rxc7jKF7gUYFoNj"
-    },
-    {
-      "added_at": "2024-06-13 14:19:36",
+      "added_at": "2024-06-14 14:59:15",
       "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
@@ -581,7 +529,23 @@
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
-      "added_at": "2024-06-13 14:19:36",
+      "added_at": "2024-06-14 14:59:15",
+      "album": {
+        "name": "Ya Te Olvide",
+        "url": "https://open.spotify.com/album/1vkcpQesyYNuleAzUmUTsB"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 216317,
+      "name": "Ya Te Olvide",
+      "url": "https://open.spotify.com/track/6Bcy1jJFcIAuAzJMtfpImi"
+    },
+    {
+      "added_at": "2024-06-14 14:59:15",
       "album": {
         "name": "Soy VIP",
         "url": "https://open.spotify.com/album/3sIb7P0k12l1IaThmLPzkV"
@@ -601,47 +565,43 @@
       "url": "https://open.spotify.com/track/4Kn7o7LfvnQS9khdDgm05a"
     },
     {
-      "added_at": "2024-06-13 14:19:36",
+      "added_at": "2024-06-14 14:59:15",
       "album": {
-        "name": "a new star (1 9 9 3)",
-        "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
+        "name": "EL \u00daLTIMO BAILE",
+        "url": "https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88"
       },
       "artists": [
         {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
         }
       ],
-      "duration_ms": 223783,
-      "name": "Un Desperdicio",
-      "url": "https://open.spotify.com/track/75qepWUT3FEyPyXQMMMVZm"
+      "duration_ms": 149083,
+      "name": "RAIN III",
+      "url": "https://open.spotify.com/track/74IoOB0Rxc7jKF7gUYFoNj"
     },
     {
-      "added_at": "2024-06-13 14:19:36",
+      "added_at": "2024-06-14 14:59:15",
       "album": {
-        "name": "SAYONARA",
-        "url": "https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI"
+        "name": "Ve y Diles",
+        "url": "https://open.spotify.com/album/4qHt1TJRKfOT7fGvry69XJ"
       },
       "artists": [
         {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
         },
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Sebastian Llosa",
+          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
         }
       ],
-      "duration_ms": 131853,
-      "name": "GATITAS SANDUNGUERAS VOL.1",
-      "url": "https://open.spotify.com/track/6BpZpCM8d8FJnVnr1IbnFL"
+      "duration_ms": 162352,
+      "name": "Ve y Diles",
+      "url": "https://open.spotify.com/track/3bcyUjU6QHY5iFcWhJbRSF"
     },
     {
-      "added_at": "2024-06-13 14:19:36",
+      "added_at": "2024-06-14 14:59:15",
       "album": {
         "name": "SAYONARA",
         "url": "https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI"
@@ -661,7 +621,95 @@
       "url": "https://open.spotify.com/track/7keTeNuCO2ghzRRW7CVzsJ"
     },
     {
-      "added_at": "2024-06-13 14:19:36",
+      "added_at": "2024-06-14 14:59:15",
+      "album": {
+        "name": "a new star (1 9 9 3)",
+        "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 223783,
+      "name": "Un Desperdicio",
+      "url": "https://open.spotify.com/track/75qepWUT3FEyPyXQMMMVZm"
+    },
+    {
+      "added_at": "2024-06-14 14:59:15",
+      "album": {
+        "name": "SAYONARA",
+        "url": "https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 131853,
+      "name": "GATITAS SANDUNGUERAS VOL.1",
+      "url": "https://open.spotify.com/track/6BpZpCM8d8FJnVnr1IbnFL"
+    },
+    {
+      "added_at": "2024-06-14 14:59:15",
+      "album": {
+        "name": "Che Che",
+        "url": "https://open.spotify.com/album/2nidUL9BkkQL6TsHN5JGwS"
+      },
+      "artists": [
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        }
+      ],
+      "duration_ms": 140874,
+      "name": "Che Che",
+      "url": "https://open.spotify.com/track/7ESqP17DjGLx7j8fm0Gp2L"
+    },
+    {
+      "added_at": "2024-06-14 14:59:15",
+      "album": {
+        "name": "No Mastico Culebras",
+        "url": "https://open.spotify.com/album/0fpStU1jiwUS38aRfiSoOW"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 134975,
+      "name": "No Mastico Culebras",
+      "url": "https://open.spotify.com/track/4leBhPSlAThn6GDviA2Tlp"
+    },
+    {
+      "added_at": "2024-06-14 14:59:15",
+      "album": {
+        "name": "Lo Que Hay X Aqu\u00ed",
+        "url": "https://open.spotify.com/album/2aGLQMoG98H1SoSlwmBvEN"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 158545,
+      "name": "Lo Que Hay X Aqu\u00ed",
+      "url": "https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf"
+    },
+    {
+      "added_at": "2024-06-14 14:59:15",
       "album": {
         "name": "Right Place, Wrong Person",
         "url": "https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I"
@@ -677,23 +725,23 @@
       "url": "https://open.spotify.com/track/2sR1e5YFAvXVN6EiIwR2is"
     },
     {
-      "added_at": "2024-06-13 14:19:36",
+      "added_at": "2024-06-14 14:59:15",
       "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+        "name": "Cap\u00edtulo 1: El Regreso Del Dragon",
+        "url": "https://open.spotify.com/album/6NbV4YCgoWwEUyjuN4WMT0"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
         }
       ],
-      "duration_ms": 179586,
-      "name": "LUNCH",
-      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
+      "duration_ms": 226250,
+      "name": "Labios de Cereza 2",
+      "url": "https://open.spotify.com/track/5kydBNKLSxvWNjXSSfyWAr"
     },
     {
-      "added_at": "2024-06-13 14:19:36",
+      "added_at": "2024-06-14 14:59:15",
       "album": {
         "name": "Ronald",
         "url": "https://open.spotify.com/album/01GsZ4orxT9LHqCru5Pnz2"
@@ -717,39 +765,7 @@
       "url": "https://open.spotify.com/track/1xeIvccuZq4DiqqmZDSbAg"
     },
     {
-      "added_at": "2024-06-13 14:19:36",
-      "album": {
-        "name": "Armageddon - The 1st Album",
-        "url": "https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 178880,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/4sgMbwl9lXGyHcHmtFYGMm"
-    },
-    {
-      "added_at": "2024-06-13 14:19:36",
-      "album": {
-        "name": "Cap\u00edtulo 1: El Regreso Del Dragon",
-        "url": "https://open.spotify.com/album/6NbV4YCgoWwEUyjuN4WMT0"
-      },
-      "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        }
-      ],
-      "duration_ms": 226250,
-      "name": "Labios de Cereza 2",
-      "url": "https://open.spotify.com/track/5kydBNKLSxvWNjXSSfyWAr"
-    },
-    {
-      "added_at": "2024-06-13 14:19:36",
+      "added_at": "2024-06-14 14:59:15",
       "album": {
         "name": "J\u00e1lale alv",
         "url": "https://open.spotify.com/album/2fg0Ah2oDL1ne1zECvOdPY"
@@ -769,91 +785,55 @@
       "url": "https://open.spotify.com/track/57uiO4cG6bK5yq51BJTvyE"
     },
     {
-      "added_at": "2024-06-13 14:19:36",
+      "added_at": "2024-06-14 14:59:15",
       "album": {
-        "name": "No Mastico Culebras",
-        "url": "https://open.spotify.com/album/0fpStU1jiwUS38aRfiSoOW"
+        "name": "The Astronaut",
+        "url": "https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox"
       },
       "artists": [
         {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+          "name": "JIN",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
         }
       ],
-      "duration_ms": 134975,
-      "name": "No Mastico Culebras",
-      "url": "https://open.spotify.com/track/4leBhPSlAThn6GDviA2Tlp"
+      "duration_ms": 282463,
+      "name": "The Astronaut",
+      "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
     },
     {
-      "added_at": "2024-06-13 14:19:36",
+      "added_at": "2024-06-14 14:59:15",
       "album": {
-        "name": "Eterno",
-        "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
+        "name": "Armageddon - The 1st Album",
+        "url": "https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB"
       },
       "artists": [
         {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         }
       ],
-      "duration_ms": 197186,
-      "name": "La Distancia",
-      "url": "https://open.spotify.com/track/0LpEr3qpmDQ1gEabnsQlGC"
+      "duration_ms": 178880,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/4sgMbwl9lXGyHcHmtFYGMm"
     },
     {
-      "added_at": "2024-06-13 14:19:36",
+      "added_at": "2024-06-14 14:59:15",
       "album": {
-        "name": "Lo Que Hay X Aqu\u00ed",
-        "url": "https://open.spotify.com/album/2aGLQMoG98H1SoSlwmBvEN"
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
       "artists": [
         {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 158545,
-      "name": "Lo Que Hay X Aqu\u00ed",
-      "url": "https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf"
+      "duration_ms": 179586,
+      "name": "LUNCH",
+      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
     },
     {
-      "added_at": "2024-06-13 14:19:36",
-      "album": {
-        "name": "Che Che",
-        "url": "https://open.spotify.com/album/2nidUL9BkkQL6TsHN5JGwS"
-      },
-      "artists": [
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        }
-      ],
-      "duration_ms": 140874,
-      "name": "Che Che",
-      "url": "https://open.spotify.com/track/7ESqP17DjGLx7j8fm0Gp2L"
-    },
-    {
-      "added_at": "2024-06-13 14:19:36",
-      "album": {
-        "name": "WYA",
-        "url": "https://open.spotify.com/album/510YwmkYmdNRSYPQSxDV2O"
-      },
-      "artists": [
-        {
-          "name": "J Abdiel",
-          "url": "https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI"
-        },
-        {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "WYA",
-      "url": "https://open.spotify.com/track/5lCMDnVpGTuFC7YejgpTIF"
-    },
-    {
-      "added_at": "2024-06-13 14:19:36",
+      "added_at": "2024-06-14 14:59:15",
       "album": {
         "name": "JUGANDO A QUE NO PASA NADA",
         "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
@@ -873,23 +853,23 @@
       "url": "https://open.spotify.com/track/7cXGHxIoogqDTvbuLj0dsO"
     },
     {
-      "added_at": "2024-06-13 14:19:36",
+      "added_at": "2024-06-14 14:59:15",
       "album": {
-        "name": "Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/5e8zaDNGYEs72yRCuPrr4w"
+        "name": "Eterno",
+        "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
       },
       "artists": [
         {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 164565,
-      "name": "Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/7vjG5IXd5ApgPTEVjo8zJu"
+      "duration_ms": 197186,
+      "name": "La Distancia",
+      "url": "https://open.spotify.com/track/0LpEr3qpmDQ1gEabnsQlGC"
     },
     {
-      "added_at": "2024-06-13 14:19:36",
+      "added_at": "2024-06-14 14:59:15",
       "album": {
         "name": "cuatro",
         "url": "https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7"
@@ -907,6 +887,22 @@
       "duration_ms": 218500,
       "name": "Una Vida Pasada",
       "url": "https://open.spotify.com/track/2mLTxNa0bwZX8eNBsuODLX"
+    },
+    {
+      "added_at": "2024-06-14 14:59:15",
+      "album": {
+        "name": "La Guerita",
+        "url": "https://open.spotify.com/album/2LcCq1U716IqmlzlwSLAct"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 184165,
+      "name": "La Guerita",
+      "url": "https://open.spotify.com/track/7AuloEFqtDCrlcPTF2uP9q"
     }
   ],
   "unique_name": "Viral 50 - Mexico",

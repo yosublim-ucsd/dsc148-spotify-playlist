@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YVXCfBlE4D.md) - [plain]
 
 > Deja que tu corazón se rinda ante la música romántica de antaño.
 
-[Spotify](https://open.spotify.com/user/spotify) - 570,453 likes - 170 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,545 likes - 170 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,7 +143,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YVXCfBlE4D.md) - [plain]
 | 133 | [La malagueña \- Remastered](https://open.spotify.com/track/1Ks8E9aDioQVYXXcOcOm2N) | [Trio Calaveras](https://open.spotify.com/artist/6lS7WlU3MgVuHK0o4TRwSs) | [El preso número 9 \(Remastered\)](https://open.spotify.com/album/7jIILQY6IYM13XKSU7h4lE) | 3:38 |
 | 134 | [La Clave Azul \- Remasterizado](https://open.spotify.com/track/6OZ8eHsEYfznNMWxXtWbeB) | [Carmela Rey](https://open.spotify.com/artist/2Qh0hUVmPvqUNkuGBRymiw) | [Tesoros de Colección \- Las Estrellas de la Hora Azul, Vol\. 2](https://open.spotify.com/album/0hGvU70O1EgmXXyB1bhZjK) | 2:15 |
 | 135 | [Manzanillo \- Remastered](https://open.spotify.com/track/0GQxBVqTTgrvSyzRhA25nT) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [Manzanillo \(Remastered\)](https://open.spotify.com/album/7KAfIqpjfUZb3UiCQM3QiA) | 3:22 |
-| 136 | [Odiame](https://open.spotify.com/track/4NjjxA6cgx9aWOXAIaPEpA) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [30 Mejores](https://open.spotify.com/album/5UGFwADgVhFsfnJNoaQJ2T) | 2:52 |
+| 136 | [Nuestro Juramento](https://open.spotify.com/track/2dOF2NUuOkuxskCqYfKbUt) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [15 Años De Exitos](https://open.spotify.com/album/28b76Z4InvP9h1s0vnp9fL) | 3:15 |
 | 137 | [Prisionero del mar](https://open.spotify.com/track/5ugnbcGftW1mFkBgulO065) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Los Tecolines \- Bolero Romantico](https://open.spotify.com/album/4EQ17OKhifC7CcFgxA35Bg) | 3:03 |
 | 138 | [Concha Nacar\-Limosna](https://open.spotify.com/track/36ISJPgCfoZp2MKheJhPx9) | [Elvira Rios](https://open.spotify.com/artist/1us5UEUwARpm9xvMh1i52g) | [Agustín Lara y sus Grandes Intérpretes](https://open.spotify.com/album/3S3nywfRBfej0nFuzmNEik) | 2:59 |
 | 139 | [Bonita](https://open.spotify.com/track/573AAxwwLe12d2eZTm34GI) | [Germán Valdés "Tin Tan"](https://open.spotify.com/artist/3UycXszmChrsTWhbmydyDZ) | [Germán Valdés TIN\-TAN Canciones de Sus Películas](https://open.spotify.com/album/6egxODz7B5lqBxwykR9JgP) | 2:24 |
@@ -153,7 +153,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YVXCfBlE4D.md) - [plain]
 | 143 | [Silencio](https://open.spotify.com/track/00wSD5E1UWPf63ZG78Lfx3) | [Ibrahim Ferrer](https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D) | [Ibrahim Ferrer \(Buena Vista Social Club presents\)](https://open.spotify.com/album/27HNh1cyB39ERqdpSjM2i1) | 4:38 |
 | 144 | [Lagrimas Negras](https://open.spotify.com/track/3Mevw4GIzqLJXM0fCLjHjn) | [Olga Guillot](https://open.spotify.com/artist/2RDV6sncQWynJFH5JUoCfJ) | [Olga Guillot](https://open.spotify.com/album/5hz4nQZDlfodcDuV47cRnc) | 2:51 |
 | 145 | [Cerezo Rosa](https://open.spotify.com/track/3JNIsOyZSwm9ebcm4werBt) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Los Tecolines \- Bolero Romantico](https://open.spotify.com/album/4EQ17OKhifC7CcFgxA35Bg) | 3:01 |
-| 146 | [Nuestro Juramento](https://open.spotify.com/track/2dOF2NUuOkuxskCqYfKbUt) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [15 Años De Exitos](https://open.spotify.com/album/28b76Z4InvP9h1s0vnp9fL) | 3:15 |
+| 146 | [Odiame](https://open.spotify.com/track/4NjjxA6cgx9aWOXAIaPEpA) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [30 Mejores](https://open.spotify.com/album/5UGFwADgVhFsfnJNoaQJ2T) | 2:52 |
 | 147 | [La Gloria Eres Tú](https://open.spotify.com/track/6h1IDdPy9T0LPhqMwUxpxF) | [Germán Valdés "Tin Tan"](https://open.spotify.com/artist/3UycXszmChrsTWhbmydyDZ) | [Germán Valdés TIN\-TAN Canciones de Sus Películas](https://open.spotify.com/album/6egxODz7B5lqBxwykR9JgP) | 2:48 |
 | 148 | [Perdon](https://open.spotify.com/track/2IsKqcHOJlVJskX7UhILXU) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2) | [Lamento Borincano](https://open.spotify.com/album/20vzQzOfUlOeKWuGquhhSv) | 3:12 |
 | 149 | [Veracruz](https://open.spotify.com/track/5nl4vpUgbA78kTgf9CLSpN) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Inmortales de Toña la Negra](https://open.spotify.com/album/4UlE2kIAik6pcM15aztAhs) | 2:11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 
 > late night vibes – notifications off.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,143 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,271 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 | 12 | [Ridin' Shotgun](https://open.spotify.com/track/3V0AIBseDcSsxm8B5yVhBm) | [TYuS](https://open.spotify.com/artist/5J7URjIP8aFmeSn2QwF9Au) | [Ridin' Shotgun](https://open.spotify.com/album/4db6EzTNxSHtDKdaZMXJLh) | 1:53 |
 | 13 | [Dopamine](https://open.spotify.com/track/1MuSaxhOeNsFXdftnS5Ldc) | [Yo Trane](https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH) | [Dopamine](https://open.spotify.com/album/05hmev84ZOX3Bfrl6D0bGC) | 2:37 |
 | 14 | [Impromptu](https://open.spotify.com/track/52brDlLtV8OmnqsPZQpOFu) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [Impromptu](https://open.spotify.com/album/7JVvi1AzVjB8l5pQaDb1b3) | 3:05 |
-| 15 | [Deep in the Water](https://open.spotify.com/track/2dshtwEGNpyrE0x69wUiHj) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Deep in the Water](https://open.spotify.com/album/3N00K5i1IFjap5SqfxGIPF) | 2:50 |
+| 15 | [DEEP IN THE WATER](https://open.spotify.com/track/2dshtwEGNpyrE0x69wUiHj) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Deep in the Water](https://open.spotify.com/album/3N00K5i1IFjap5SqfxGIPF) | 2:50 |
 | 16 | [Intro \(Landmine\)](https://open.spotify.com/track/0LxTBLGeMgCTJZvcX8rI4c) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 1:08 |
 | 17 | [Ex\-Men](https://open.spotify.com/track/2lHxwQEVL9brjoZgXwovhN) | [Sy Ari Da Kid](https://open.spotify.com/artist/5ZI5pbnKxA6Qy1fVNsjCp0) | [Ex\-Men](https://open.spotify.com/album/4nfRCyTlTIlAM9spNTpn7a) | 3:28 |
 | 18 | [act ii: date @ 8 \(feat\. Drake\) \- remix](https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [act ii: date @ 8 \(feat\. Drake\) \[remix\]](https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1) | 3:51 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 
 > Descubre la escena del jazz en México 🎷🎹🎶🇲🇽
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,131 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,137 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 41 | [La vida tiene que seguir, amor](https://open.spotify.com/track/5oxORYdAYEhF8yqTCKHrQj) | [Freddy Marichal](https://open.spotify.com/artist/6ZBb42oo1ieaC08giXjJoA), [Nuevas Relaciones, Las](https://open.spotify.com/artist/2baRW1aGPtYJiA8hsTC61c) | [Nuevas Relaciones: Atardecer](https://open.spotify.com/album/6BGjiD39s1ZeHTOEraKnbl) | 6:10 |
 | 42 | [Ana's Song](https://open.spotify.com/track/5m9ubjmsr1Imfa26KulXz0) | [Patricia Carrión](https://open.spotify.com/artist/1OKNkm7GiyzPsp5xktd9Uj) | [Mujer De Luna](https://open.spotify.com/album/6T8B3gspDicZbXyDW37MV4) | 4:45 |
 | 43 | [Let It Play](https://open.spotify.com/track/1Czyel4ty0L3Jhsw6jQTKl) | [Fiusha](https://open.spotify.com/artist/0CwPHvEoMX4vMIARIu2WZk) | [Funk da Power](https://open.spotify.com/album/04THe7KJSRQ6zRh9idIg63) | 5:16 |
-| 44 | [Calladito Te Ves Mejor](https://open.spotify.com/track/1gRrpSegNLpweoDh03pztu) | [La Bermúdez](https://open.spotify.com/artist/4T3iMc0MZ9Ix9GL8B57fDl), [Renee Goust](https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K) | [Calladito Te Ves Mejor](https://open.spotify.com/album/2idfSG1FdrwZ9VFkBPBo3C) | 3:56 |
-| 45 | [Por los Caminos del Sur](https://open.spotify.com/track/5P4gJvoE9ynAgJdAxp8mlt) | [Guerrero Jazz](https://open.spotify.com/artist/1e7vAz7CGvceTRGJ4E1Sl6) | [Mi Sentimiento Guerrerense](https://open.spotify.com/album/6035edQMGEkEvpgomvasDC) | 5:39 |
+| 44 | [Por los Caminos del Sur](https://open.spotify.com/track/5P4gJvoE9ynAgJdAxp8mlt) | [Guerrero Jazz](https://open.spotify.com/artist/1e7vAz7CGvceTRGJ4E1Sl6) | [Mi Sentimiento Guerrerense](https://open.spotify.com/album/6035edQMGEkEvpgomvasDC) | 5:39 |
+| 45 | [Calladito Te Ves Mejor](https://open.spotify.com/track/1gRrpSegNLpweoDh03pztu) | [La Bermúdez](https://open.spotify.com/artist/4T3iMc0MZ9Ix9GL8B57fDl), [Renee Goust](https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K) | [Calladito Te Ves Mejor](https://open.spotify.com/album/2idfSG1FdrwZ9VFkBPBo3C) | 3:56 |
 | 46 | [Andamos Huyendo](https://open.spotify.com/track/4utJIPfz1GOEnp3KNWkW1J) | [Amanda Tovalin](https://open.spotify.com/artist/5KxINF9FVTlXn05DJB6WBK) | [Andamos Huyendo](https://open.spotify.com/album/6FJPUB4pLZxCKGUJDgDHQQ) | 4:51 |
 | 47 | [Flor Latina](https://open.spotify.com/track/3zjRptZXqA1uhBwUkMl38W) | [Emmanuel Mora](https://open.spotify.com/artist/6iz12BR5JSoaySVJO3P0qm), [Alejandro Mora](https://open.spotify.com/artist/23YqoCb961qdeNiWEDxU5h), [Rodrigo Mora](https://open.spotify.com/artist/3owqtFutm6ZMbZZHBpLZj9), [Tirso Buenfil](https://open.spotify.com/artist/7o1EZ1rNSscAuLSw1fxraV) | [Estaciones](https://open.spotify.com/album/6ktr5l29j7H5yr6deaHJTu) | 5:50 |
-| 48 | [5:PM](https://open.spotify.com/track/76Q411FGiMRHoi3NoFhIGf) | [Palapa](https://open.spotify.com/artist/0ToWehUK2VL3ZmdhthaQt0), [Francisco Lelo de Larrea](https://open.spotify.com/artist/5RARQRDOtniHclBKYK0pdP) | [Bienvenidos](https://open.spotify.com/album/0o32WHvVW7dEI8R2VT2K2K) | 5:43 |
-| 49 | [La Cigarra](https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R) | [Adrián Oropeza Trío](https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl) | [Mezcal](https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX) | 6:33 |
-| 50 | [A la Ventana Carolina](https://open.spotify.com/track/1JFYLc7GyftevczE418CcE) | [Aaron Cruz Trío](https://open.spotify.com/artist/2OeEjkq0aHzQxxCbAupVIL) | [Eco](https://open.spotify.com/album/1bQ17AkcZNNda4ogkEUdFx) | 6:18 |
+| 48 | [La Cigarra](https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R) | [Adrián Oropeza Trío](https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl) | [Mezcal](https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX) | 6:33 |
+| 49 | [A la Ventana Carolina](https://open.spotify.com/track/1JFYLc7GyftevczE418CcE) | [Aaron Cruz Trío](https://open.spotify.com/artist/2OeEjkq0aHzQxxCbAupVIL) | [Eco](https://open.spotify.com/album/1bQ17AkcZNNda4ogkEUdFx) | 6:18 |
+| 50 | [5:PM](https://open.spotify.com/track/76Q411FGiMRHoi3NoFhIGf) | [Palapa](https://open.spotify.com/artist/0ToWehUK2VL3ZmdhthaQt0), [Francisco Lelo de Larrea](https://open.spotify.com/artist/5RARQRDOtniHclBKYK0pdP) | [Bienvenidos](https://open.spotify.com/album/0o32WHvVW7dEI8R2VT2K2K) | 5:43 |
 
 Snapshot ID: `ZiccYAAAAACMb9eAOCwlki7mhZpNRZpZ`

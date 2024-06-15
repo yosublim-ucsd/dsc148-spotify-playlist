@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1cKZ3eM1zf.md) - [plain]
 
 > Het beste van Pinkpop en een greep uit de line\-up van 2024
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,959 likes - 150 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,962 likes - 150 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

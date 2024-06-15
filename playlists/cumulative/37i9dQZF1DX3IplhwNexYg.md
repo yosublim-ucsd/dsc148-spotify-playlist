@@ -2,9 +2,9 @@
 
 ### [pulp](https://open.spotify.com/playlist/37i9dQZF1DX3IplhwNexYg)
 
-> The best in current indie rock\. Cover: Orla Gartland
+> The best in current indie rock\. Cover: Nilüfer Yanya
 
-585 songs - 1 day 8 hr 49 min
+589 songs - 1 day 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Blue](https://open.spotify.com/track/2Jtv7FYvZFQkz7GLJCIbTh) | [Thyla](https://open.spotify.com/artist/0L6tY7VDHwGDhx3T989SAJ) | [Blue](https://open.spotify.com/album/34PFa8obv2n5a5s1zEGnus) | 3:00 | 2021-03-09 | 2022-01-17 |
 | [Blueheart](https://open.spotify.com/track/2tYefVtZYM82eB4pdFtxmR) | [Lucia & The Best Boys](https://open.spotify.com/artist/3hihvmS048d6bb8YlZaTU1) | [Blueheart](https://open.spotify.com/album/0p6qEOTGGbdANAL2Galia5) | 2:49 | 2021-03-09 | 2022-01-17 |
 | [Borderline Insane](https://open.spotify.com/track/3G48URkjBTbQLTwW8mz1Po) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Borderline Insane](https://open.spotify.com/album/5Qh5HPMvrJfFujCGAV9GDB) | 2:19 | 2023-01-13 |  |
+| [Born In Early May](https://open.spotify.com/track/62RtrW0grZ2EUF3FetcbOK) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Together We Are One, You and I](https://open.spotify.com/album/2WOw5ZQrrab9Gxr3ZYxrk3) | 5:12 | 2024-06-14 |  |
 | [Boyfriend](https://open.spotify.com/track/0ty4GQLhjq2lDzV8GpCNCT) | [Hot Freaks](https://open.spotify.com/artist/0wGzciem2JUvglxX6Hr3E9) | [Boyfriend](https://open.spotify.com/album/4JyXpLldphcUiQG9IjLFfs) | 3:22 | 2023-07-13 | 2023-09-10 |
 | [Break Right In](https://open.spotify.com/track/5CGI3BH6qXG6tSRwq6E8IQ) | [Buzzard Buzzard Buzzard](https://open.spotify.com/artist/69ilUSFj31FA2iLHtegRwi) | [Break Right In](https://open.spotify.com/album/6vyfTT54LDqMiX8BoakH0k) | 3:17 | 2022-01-17 | 2022-07-29 |
 | [Break Right In](https://open.spotify.com/track/6uUIfHixhGAsm3PcMOmv1Q) | [Buzzard Buzzard Buzzard](https://open.spotify.com/artist/69ilUSFj31FA2iLHtegRwi) | [A Passionate Life](https://open.spotify.com/album/6xfTNIzi9KL3Lxzz6jbzSp) | 3:17 | 2022-04-01 | 2022-08-19 |
@@ -134,6 +135,7 @@
 | [Designated Driver](https://open.spotify.com/track/73u0xUD9Aag0hI1d2d0VU5) | [Motel Marys](https://open.spotify.com/artist/1mLFRG2MVmK7pRIoPTSRcj) | [Designated Driver](https://open.spotify.com/album/0MQ37Z3Hnkd1KhOHAhCkcH) | 2:35 | 2021-03-09 | 2022-01-17 |
 | [Devotion](https://open.spotify.com/track/6w6gCLDgv4L5AJtVDJNddn) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Devotion](https://open.spotify.com/album/1HEiOzOCnTP6rWQ8i5FskF) | 2:45 | 2023-05-25 | 2023-10-13 |
 | [Did I Mention I’m Sorry](https://open.spotify.com/track/2IjvWisUntZj8yNT8Uh5uu) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [Did I Mention I'm Sorry](https://open.spotify.com/album/5OJsV7LFoQBXSuGk7vBPac) | 3:17 | 2023-08-11 | 2023-10-14 |
+| [Didn't \(feat\. Cavetown\)](https://open.spotify.com/track/2Oy5czpSv3bQ6AfD2gl8VI) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Didn't \(feat\. Cavetown\)](https://open.spotify.com/album/00r2WdTybcemQTrVEwFeon) | 2:33 | 2024-06-14 |  |
 | [Diet Cigarette](https://open.spotify.com/track/66MqvK5aWjC4c2t8txkZh9) | [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [Diet Cigarette](https://open.spotify.com/album/6S8jivSZAqfqU81AR6dZSP) | 3:41 | 2021-10-29 | 2022-08-19 |
 | [Dig!](https://open.spotify.com/track/003jZXYNwnO3rl83ajtLpd) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Dig!](https://open.spotify.com/album/5HoYh07ZPhKkZ1hwV5VFL7) | 2:41 | 2022-09-01 | 2022-09-03 |
 | [Dig!](https://open.spotify.com/track/0jhhWCD0oXc4E480bMl6L7) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Dig!](https://open.spotify.com/album/2Hs7jUW49pEuMW7jirgbt8) | 2:41 | 2022-09-01 | 2022-09-23 |
@@ -218,7 +220,7 @@
 | [Growing Up](https://open.spotify.com/track/4Pa5KeSpeVbr6ubFTiG6If) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/6BkAzZNlSz80Iz3oTlKHet) | 3:06 | 2022-04-01 | 2022-08-19 |
 | [Growing/Dying](https://open.spotify.com/track/4JAFlkYkNy1MM6zOqRbiGp) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Growing/Dying](https://open.spotify.com/album/29kPpfrcYvtyTD1nhXxui0) | 3:32 | 2022-08-18 | 2022-10-07 |
 | [Hachiko](https://open.spotify.com/track/0QXQCwvUmUSB36N2j1cgM3) | [Nathan Day](https://open.spotify.com/artist/3kEC0PwfYf8pGHiKFQk8OX) | [Hachiko](https://open.spotify.com/album/3tO1iMKFjUYG3SW2bhf3Ce) | 2:54 | 2022-11-18 | 2023-01-01 |
-| [Hammer](https://open.spotify.com/track/6Krb3n3QGEubvJjIEMs4Rq) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Hammer](https://open.spotify.com/album/0PwrCiCW0SetmMMx1Uf1ap) | 3:39 | 2024-03-15 |  |
+| [Hammer](https://open.spotify.com/track/6Krb3n3QGEubvJjIEMs4Rq) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Hammer](https://open.spotify.com/album/0PwrCiCW0SetmMMx1Uf1ap) | 3:39 | 2024-03-15 | 2024-06-15 |
 | [Handle](https://open.spotify.com/track/1U2ul6SmAuRtnRCDDIAg3Q) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Handle](https://open.spotify.com/album/0f1y4j9KXMhnrpLzj4PEC6) | 3:25 | 2022-10-13 | 2023-02-01 |
 | [HAPPY](https://open.spotify.com/track/2uLJFEi6rax0x23xZrFyHC) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [HAPPY](https://open.spotify.com/album/2BaEVtgFlWOtqz0jtMiVie) | 2:27 | 2022-10-21 | 2023-02-09 |
 | [happy accident](https://open.spotify.com/track/4CIoVUlxgd0nlSIEhJb4of) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [happy accident](https://open.spotify.com/album/6TF05xh9TbmpbQBwxAKbHA) | 5:45 | 2022-02-18 | 2022-08-19 |
@@ -320,7 +322,7 @@
 | [Love For Two](https://open.spotify.com/track/4h0yZCpf4CunKMi06y8kqZ) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [Green Dream in F\#](https://open.spotify.com/album/3FsVZD0eyVFDemLLWcR8rq) | 2:05 | 2022-10-13 | 2023-01-14 |
 | [Love Song](https://open.spotify.com/track/0SOUQwfAlpvurIBdPurgrd) | [Lime Garden](https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o) | [Love Song](https://open.spotify.com/album/0qiKuGeaGlsWoPtrFcwiDc) | 3:11 | 2024-02-16 | 2024-03-16 |
 | [Love Will Get You There](https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Love Will Get You There](https://open.spotify.com/album/4WXV0n8Gk8TlNJHyXAhyWq) | 4:10 | 2022-10-13 |  |
-| [Lucky Bean](https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [From Nothing To A Little Bit More](https://open.spotify.com/album/285M729So9YyJW5aqmiV3y) | 2:51 | 2023-03-05 |  |
+| [Lucky Bean](https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [From Nothing To A Little Bit More](https://open.spotify.com/album/285M729So9YyJW5aqmiV3y) | 2:51 | 2023-03-05 | 2024-06-15 |
 | [Lunar Eclipse](https://open.spotify.com/track/0dE7NZN4VVLlLxJ7WPgpqd) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Lunar Eclipse](https://open.spotify.com/album/5eHQVvyhbGQdSgPdwngpQ6) | 2:56 | 2023-11-17 | 2024-02-17 |
 | [Lunar Eclipse](https://open.spotify.com/track/7ysZK0xlf1jIWMkiVJoGLB) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Pick\-Up Full Of Pink Carnations](https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4) | 2:56 | 2024-02-16 | 2024-04-19 |
 | [Lux](https://open.spotify.com/track/3OBlUMdio4gMywyU63AhT9) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Lux](https://open.spotify.com/album/1VCH62Yg84u6WevIg7oEiK) | 1:39 | 2021-03-09 | 2022-02-04 |
@@ -332,6 +334,7 @@
 | [Market Street](https://open.spotify.com/track/2xAv91RQ4dlpWqGIq2nTqb) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [Market Street](https://open.spotify.com/album/5muBMq6FHcSUk8nRcJVLml) | 3:17 | 2023-11-10 | 2024-02-19 |
 | [Mastermind Specialism](https://open.spotify.com/track/39rcWMXqxrhrin9uTHiBrG) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [Mastermind Specialism](https://open.spotify.com/album/1koTQWtt7MvkOIJMy5L6yI) | 4:41 | 2023-11-24 | 2024-01-12 |
 | [Me & Me](https://open.spotify.com/track/3VJqv26NK9cCRXsjDKJOGY) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Me & Me](https://open.spotify.com/album/6zmMU4QN9I1a05rqCLuQpi) | 2:27 | 2023-07-21 | 2024-01-09 |
+| [Method Actor](https://open.spotify.com/track/6I9GeNnqNqQ5Q8DSrFkkvd) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Method Actor](https://open.spotify.com/album/0Qg3qoV8Sz5pY01lIImVeE) | 3:51 | 2024-06-14 |  |
 | [Midas](https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Midas](https://open.spotify.com/album/09kwvU6IzvXzqZhmIqjT2R) | 2:18 | 2024-04-12 |  |
 | [midnight sun](https://open.spotify.com/track/2P7mPtGjXFzHoLgT6sMSyZ) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [midnight sun](https://open.spotify.com/album/28oyoR8mAfNqRGTuKIUuo3) | 4:42 | 2022-01-21 | 2022-07-29 |
 | [midnight sun](https://open.spotify.com/track/7M3YPejLG9WxQS9i4ZHVXh) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS](https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7) | 4:42 | 2022-04-01 | 2022-08-19 |
@@ -504,7 +507,7 @@
 | [Sweeter Things](https://open.spotify.com/track/6TOpX6PrdVwYZ0vkFHxuJc) | [Jacqueline Tucci](https://open.spotify.com/artist/3C8jNP8KucAySqnpvVTsyL) | [Sweeter Things](https://open.spotify.com/album/6htfjXRYortoaprlglShQe) | 2:23 | 2021-03-09 | 2022-01-17 |
 | [Talk](https://open.spotify.com/track/4tf04WrZTy60CawyvueIdK) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:38 | 2022-08-18 |  |
 | [Talking About Stuff](https://open.spotify.com/track/2q8XsCkVo9bHwmyDsRfODb) | [THE GOA EXPRESS](https://open.spotify.com/artist/0uuWKORLosOJB3L6D7zplX) | [Talking About Stuff](https://open.spotify.com/album/5EcMHlTz0VWKheWhfo0bSU) | 3:27 | 2023-05-25 | 2023-07-14 |
-| [Tambourine](https://open.spotify.com/track/0gOZ3G7IB5asVtRBnQgTSY) | [86TVs](https://open.spotify.com/artist/6jKNhOt3ygu1yvmEEVacTx) | [Tambourine](https://open.spotify.com/album/3HWlAxC2VYpfcmN04wquzp) | 1:58 | 2024-05-16 |  |
+| [Tambourine](https://open.spotify.com/track/0gOZ3G7IB5asVtRBnQgTSY) | [86TVs](https://open.spotify.com/artist/6jKNhOt3ygu1yvmEEVacTx) | [Tambourine](https://open.spotify.com/album/3HWlAxC2VYpfcmN04wquzp) | 1:58 | 2024-05-16 | 2024-06-15 |
 | [Teacher's Pet](https://open.spotify.com/track/3fu8KKSxAmNCHnhJceJMtB) | [Career Woman](https://open.spotify.com/artist/17RK5BpOKQ4YVtCHFWKK3y) | [Teacher's Pet](https://open.spotify.com/album/0e43xfRNimbjURUz9zA7wA) | 3:56 | 2021-03-09 | 2022-01-17 |
 | [Teen Mom](https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Teen Mom](https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea) | 3:42 | 2023-07-13 | 2023-11-21 |
 | [Telephone](https://open.spotify.com/track/1TapKkIgVLZBijVOCD48nu) | [Annie Taylor](https://open.spotify.com/artist/3oR0fg4OcsTKOjVY17u1e0) | [Telephone](https://open.spotify.com/album/2NdLY5Txb89I9akMp1ktz4) | 2:48 | 2021-03-09 | 2022-01-17 |
@@ -524,8 +527,9 @@
 | [The Enemy](https://open.spotify.com/track/051Rl8dDuMUY4JNtkBdX7n) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [The Enemy](https://open.spotify.com/album/11ZyrIRcdhp4j1IjaozNDR) | 3:08 | 2022-08-18 | 2022-09-30 |
 | [The Hills](https://open.spotify.com/track/1McBsb9H3rFIl5cENthWd6) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [The Hills](https://open.spotify.com/album/0iFGP0AHWd8UHjpeHDUIMz) | 3:31 | 2023-10-13 | 2024-06-10 |
 | [The Narcissist](https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Narcissist](https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz) | 4:05 | 2023-05-18 |  |
+| [The only conscious being in the universe](https://open.spotify.com/track/7iEwvFYCKssQmV1Zz6WPam) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [The Tw\*ts](https://open.spotify.com/album/5N3ROnE45uWHTrgf2XiiQy) | 3:18 | 2024-06-14 |  |
 | [The Overload](https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [The Overload](https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu) | 3:16 | 2022-08-18 |  |
-| [The Phantom Buzz \(Kick In\)](https://open.spotify.com/track/1wvh2OmuJkO9czmCKbuvpk) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Happened to the Beach?](https://open.spotify.com/album/1qgVGhtiq8P6tfURWqDPX5) | 2:35 | 2024-02-09 |  |
+| [The Phantom Buzz \(Kick In\)](https://open.spotify.com/track/1wvh2OmuJkO9czmCKbuvpk) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Happened to the Beach?](https://open.spotify.com/album/1qgVGhtiq8P6tfURWqDPX5) | 2:35 | 2024-02-09 | 2024-06-15 |
 | [The Phantom Buzz \(Kick In\)](https://open.spotify.com/track/34H1rLCq8h3KWNIF6NbSu1) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Happened to the Beach?](https://open.spotify.com/album/2OrfhPs4nDffAUyRrcxXWg) | 2:35 | 2024-02-09 | 2024-02-16 |
 | [The Way It Shatters](https://open.spotify.com/track/1In1QZhWhMiYjHTWHhhGDR) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [Endless Rooms](https://open.spotify.com/album/2inG3MxvNhZYd808mnhbOW) | 4:22 | 2022-04-01 | 2022-09-02 |
 | [The Way It Shatters](https://open.spotify.com/track/1TGXiKyuajqiA242dBji7H) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [The Way It Shatters](https://open.spotify.com/album/4LGidB7kQRA1vAKEizMotl) | 4:22 | 2022-02-04 | 2022-07-29 |

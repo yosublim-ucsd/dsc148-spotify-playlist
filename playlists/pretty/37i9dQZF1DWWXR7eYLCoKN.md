@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 
 > Sambinhas selecionados especialmente pra você curtir um dia de sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,511 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,547 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 99 | [Lenda Das Sereias, Rainha Do Mar \- Ao Vivo](https://open.spotify.com/track/1XJIZ5RdL0ASYYU019t4Ja) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Marisa Monte MM](https://open.spotify.com/album/7J2lXq7A5sn7OnEYiRCOM5) | 4:10 |
 | 100 | [O Bonde Do Dom \- 2006 Digital Remaster;](https://open.spotify.com/track/5CAiHH9KGvXio78RG3jUkS) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Universo Ao Meu Redor](https://open.spotify.com/album/2JExtXYokoGry1iBwhpcDg) | 4:03 |
 
-Snapshot ID: `ZlAC7AAAAABlVSTNSUl0EO0cr6fBiQXG`
+Snapshot ID: `ZmyV7AAAAADEvsYk4wsvntWOPnyoeJVQ`

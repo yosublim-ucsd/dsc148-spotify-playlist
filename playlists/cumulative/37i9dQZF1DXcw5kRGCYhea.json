@@ -1287,6 +1287,24 @@
     },
     {
       "album": {
+        "name": "Samira",
+        "url": "https://open.spotify.com/album/2WrIHAV81oNqgoMikM6kFJ"
+      },
+      "artists": [
+        {
+          "name": "Hornet La Frappe",
+          "url": "https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173142,
+      "name": "Samira",
+      "url": "https://open.spotify.com/track/0Ey3GrVLmtUuOdFSWoYhc1"
+    },
+    {
+      "album": {
         "name": "LVDR",
         "url": "https://open.spotify.com/album/5RVH7GP0pwyS3KMnRurfj1"
       },
@@ -1616,7 +1634,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 168042,
       "name": "ZIGZAG",
       "url": "https://open.spotify.com/track/2Pn4RjpmuYRMJTXWzTonXn"

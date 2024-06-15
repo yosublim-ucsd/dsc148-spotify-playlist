@@ -2,9 +2,9 @@
 
 ### [K\-Pop Bias : KPOP ESSENTIAL](https://open.spotify.com/playlist/1DOwtSHKzJzutiL99WYwb0)
 
-> Collections made with EVERY kind of newly released 'K\-Pop Bias' all over the world\. Cover: KISS OF LIFE
+> Collections made with EVERY kind of newly released 'K\-Pop Bias' all over the world\. Cover: Han Seung Woo
 
-142 songs - 7 hr 28 min
+149 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Bad Cupid](https://open.spotify.com/track/1t09rPAB9kwHtgYdrUYCcn) | [YOUNITE](https://open.spotify.com/artist/4l4eMvpA4K7X02j08cbkNV) | [YOUNI\-ON](https://open.spotify.com/album/7mVMBdyZUYBTXo9RtnRsbr) | 3:05 | 2022-11-11 |  |
 | [Bad News](https://open.spotify.com/track/7AGq5qaaF9awHDaKuCvVjj) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Born to be XX](https://open.spotify.com/album/6yDtQxvq1XRC7Y5qtS03Xx) | 2:40 | 2023-11-10 |  |
 | [Baddie](https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I'VE MINE](https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp) | 2:34 | 2023-10-31 |  |
+| [BADVILLAIN](https://open.spotify.com/track/3BBBK2wYC1TLOyBLnSfWTI) | [BADVILLAIN](https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV) | [OVERSTEP](https://open.spotify.com/album/15rdrWfjFtnMnzdZIemvoQ) | 3:09 | 2024-06-14 |  |
 | [Baila Conmigo](https://open.spotify.com/track/3KXqLK4qPxr6qlrfzVVmNY) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [La Dolce Vita](https://open.spotify.com/album/4ycaoQvk5OsGiRoXP1SLq5) | 3:08 | 2023-10-06 |  |
 | [Bam Yang Gang](https://open.spotify.com/track/5juCu4WFTFRZ2XilopAMTy) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bam Yang Gang](https://open.spotify.com/album/4QJZzFdGz2YlPZEHAlAJ6O) | 2:26 | 2024-02-27 |  |
 | [BANG!](https://open.spotify.com/track/5mYYrcjqLI6Ue42Mt8lkl8) | [WHIB](https://open.spotify.com/artist/4pTBL6fTowmWTa61ef7RNb) | [Cut\-Out](https://open.spotify.com/album/3Wzr75gYnFG8l9GbeAExkg) | 2:45 | 2023-11-10 |  |
@@ -29,6 +30,7 @@
 | [Beautiful Liar](https://open.spotify.com/track/1F6qqwgyBjcIMzen8RrOXQ) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [REASON](https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS) | 3:03 | 2023-02-13 |  |
 | [BEAUTIFUL MONSTER](https://open.spotify.com/track/56s2s5e8WuBsWVKnmz6J9L) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [WE NEED LOVE](https://open.spotify.com/album/04EniWu488MF6louRYafKJ) | 3:00 | 2022-07-21 |  |
 | [BIBORA](https://open.spotify.com/track/0F2woEmPkBMafpMCmgKc6a) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [Sequence](https://open.spotify.com/album/23325hP3aqsiTottDna0mg) | 3:14 | 2024-01-12 |  |
+| [Blooming](https://open.spotify.com/track/5paUelPwZN0tR2i7npWaHy) | [Han Seungwoo](https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl) | [SCENE](https://open.spotify.com/album/1iUt7YsA13ZktuHnIF2zEr) | 2:55 | 2024-06-14 |  |
 | [BODY](https://open.spotify.com/track/3jH1IMkaF2I1sDgNDbegq5) | [HIGHLIGHT](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [Switch On](https://open.spotify.com/album/1TxNDPYLlpyErnOHazzBrN) | 3:12 | 2024-03-14 |  |
 | [BOOM](https://open.spotify.com/track/3jATBjBJAWLVkAB2gCjrqE) | [LEE MINHYUK \(HUTA\)](https://open.spotify.com/artist/4fgfmrBHIWsUuHxeOPhv61) | [BOOM](https://open.spotify.com/album/6s4NdCPDBhDHL7i0P2OjBC) | 3:21 | 2022-07-01 | 2024-04-23 |
 | [BOP BOP!](https://open.spotify.com/track/3FNuG1PjKcOu7tAqZKB4kZ) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 1st Mini Album 'Beam Of Prism'](https://open.spotify.com/album/1SO45pKRdNI74Rdx7Hynh2) | 3:39 | 2022-02-18 | 2023-11-10 |
@@ -36,6 +38,7 @@
 | [Broken Heart](https://open.spotify.com/track/21j3qXlRXCDJRG1xWQt2gW) | [AMPERS&ONE](https://open.spotify.com/artist/4T0Chh3DGxJrEs3gM0biqg) | [ONE HEARTED](https://open.spotify.com/album/2uSqR87CUmRQcEb63HaqbR) | 2:53 | 2024-04-22 |  |
 | [Bubble](https://open.spotify.com/track/4P5ozkI1bxiGxA5rZ27jlO) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [TEENFRESH](https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x) | 2:59 | 2023-08-21 |  |
 | [Business \(Feat\. BE'O\)](https://open.spotify.com/track/1mWyVj0quMfOcwFSDPkQuD) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [The 1st Mini Album 'Day & Night'](https://open.spotify.com/album/2j89XpqZbDCa41WZeN7sNz) | 3:24 | 2022-04-29 | 2024-03-25 |
+| [But I](https://open.spotify.com/track/3kHF06mERCHSLIq1AuSNdZ) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [COLOURS](https://open.spotify.com/album/5Q1cKPuB4vPk8bIdfZH7Fm) | 2:40 | 2024-06-14 |  |
 | [Bye My Monster](https://open.spotify.com/track/7MV68p0TgX9YAo1y3SyjU8) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [Beautiful Shadow](https://open.spotify.com/album/5nXv3AmmxYJit6u1OPkmMI) | 3:26 | 2024-04-22 |  |
 | [C.I.T.T \(Cheese in the Trap\)](https://open.spotify.com/track/0wp8u1swtx3sVvJw3dxXmY) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [C.I.T.T \(Cheese in the Trap\)](https://open.spotify.com/album/0EE8K1IGciwDPMiURGtEBf) | 2:57 | 2022-04-29 | 2024-03-25 |
 | [Candy Sugar Pop](https://open.spotify.com/track/767gRjedAWnbUer6ARRS8d) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [Drive to the Starry Road](https://open.spotify.com/album/5yFMVUSwNR0qAtEW78nDj0) | 2:49 | 2022-05-20 | 2024-03-25 |
@@ -60,6 +63,7 @@
 | [FOCUS](https://open.spotify.com/track/7nj5G4aPUJD0TnNF6SqcrX) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Strange World](https://open.spotify.com/album/2eE6EDzzdWYQH6TfwGjz87) | 3:03 | 2022-08-26 |  |
 | [FULL METAL JACKET](https://open.spotify.com/track/3DdEFAs5UmTIYIoDXTjD5U) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [EPEX 6th EP Album Prelude of Anxiety Chapter 2\. ‘Can We Surrender?’](https://open.spotify.com/album/5D8L3qM4Q9GA1bPDqtS4oK) | 2:52 | 2023-10-06 |  |
 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 | 2022-03-18 | 2023-11-10 |
+| [GEEKIN](https://open.spotify.com/track/6vP4NceJJLHM9xddBbKrH9) | [YOUNITE](https://open.spotify.com/artist/4l4eMvpA4K7X02j08cbkNV) | [ANOTHER](https://open.spotify.com/album/55SsFWSUnjJD0Ztxu9jz2Z) | 2:55 | 2024-06-14 |  |
 | [Generation](https://open.spotify.com/track/1RHTdr5QfviCYI70QPPDJN) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [Acid Angel from Asia <ACCESS>](https://open.spotify.com/album/0EsUBCjxGF328J7VRAE48Y) | 2:44 | 2022-11-11 |  |
 | [GGBB](https://open.spotify.com/track/04qiPs2ScJrI7hgQ8mz4im) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du) | [ACT 1, SCENE 1](https://open.spotify.com/album/3DZzeqdwhn9Q5ScxdaJbkH) | 3:05 | 2023-08-21 |  |
 | [Ghost Town](https://open.spotify.com/track/11zk9584jNu1WoxWEeMWWj) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [Ghost Town](https://open.spotify.com/album/04UAzxqWOm1fb63qG1G1Ng) | 3:09 | 2022-02-23 | 2023-11-10 |
@@ -74,6 +78,7 @@
 | [I AM](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:03 | 2023-08-21 |  |
 | [ICKY](https://open.spotify.com/track/1OhotmnsJBmsHaKwACYMgJ) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 6th Mini Album 'ICKY'](https://open.spotify.com/album/5xRkcPqJ3KO578D11kj9jd) | 2:59 | 2023-08-21 |  |
 | [ILLELLA](https://open.spotify.com/track/0oeVHAgY8Q7Mdce5Quj2G4) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [MIC ON](https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ) | 2:46 | 2022-10-13 |  |
+| [KICK IT](https://open.spotify.com/track/1QO77IkCzSPJ32EyhEOsPe) | [WHIB](https://open.spotify.com/artist/4pTBL6fTowmWTa61ef7RNb) | [ETERNAL YOUTH : KICK IT](https://open.spotify.com/album/4cl2tOZW0kKrJbAduHQ95G) | 2:49 | 2024-06-14 |  |
 | [Kitsch](https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Kitsch](https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67) | 3:15 | 2023-08-21 |  |
 | [Last Sequence](https://open.spotify.com/track/0lNPjT58llQGlycRA2mea4) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [Sequence](https://open.spotify.com/album/2Cv3xionHF2O7QL8p6MbCT) | 3:07 | 2022-07-07 | 2024-04-23 |
 | [LIP GLOSS](https://open.spotify.com/track/5yREbqEnoqMRuIOQ60t6as) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 2ND ALBUM \[PHANTASY\] Pt.1 Christmas In August](https://open.spotify.com/album/6j0bF8s6Kptbr4y8tuIhOY) | 3:32 | 2023-08-21 |  |
@@ -104,6 +109,7 @@
 | [OVERDRIVE](https://open.spotify.com/track/1iiQ6wFdJz4uGn2a2cGjaG) | [WEi](https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5) | [Love Pt.3 : Eternally](https://open.spotify.com/album/2mrCu8xKF0ExIqExAmae9f) | 3:15 | 2023-08-21 |  |
 | [PANDORA](https://open.spotify.com/track/70yszWsLJvNZuZwaHNMROf) | [MAVE:](https://open.spotify.com/artist/2ec7y2L98sHDYFylr7KqEx) | [PANDORA'S BOX](https://open.spotify.com/album/3uYJ8J1nYZB3sXjRNKWHGz) | 3:16 | 2023-02-13 |  |
 | [PARTY ROCK](https://open.spotify.com/track/5n81hoM1QMLib476FVMp2Y) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [NEW WAVE](https://open.spotify.com/album/43PdGV8b4Xb1a4ffk3Ywt6) | 3:04 | 2022-10-13 |  |
+| [Pitter\-Patter\-Love](https://open.spotify.com/track/7whujK8aoJ3N0ZOPm6JWmp) | [FANTASY BOYS](https://open.spotify.com/artist/4IAcb0MN1CCHpwUaq5iEUU) | [MAKE SUNSHINE](https://open.spotify.com/album/0NFeGzCfKg5IV6F21za5v9) | 3:20 | 2024-06-14 |  |
 | [Pop? Pop!](https://open.spotify.com/track/3YN1BTbPyHC4h05Bw3u2g9) | [CSR](https://open.spotify.com/artist/06MX3Ecb8PHyNFmq8irTWC) | [Sequence : 7272](https://open.spotify.com/album/7gUINtQDM7WsXmrmRB8GGo) | 3:35 | 2022-07-29 |  |
 | [PULL UP](https://open.spotify.com/track/4Jmrkz9hytD3jaLDkZ7Qvc) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 3rd Mini Album 'VarioUS'](https://open.spotify.com/album/2XZJWoPAW0Ah1msTIFXFSt) | 2:55 | 2023-02-13 |  |
 | [Puzzle](https://open.spotify.com/track/5QYXBAiagfRIwzlouAnJXQ) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [THE PIECE OF9](https://open.spotify.com/album/5SPtURpxbD8ZCIKRpjQWpo) | 3:36 | 2023-02-13 |  |
@@ -124,6 +130,7 @@
 | [SUGAR](https://open.spotify.com/track/4WFTVcLuQuQlzzO8aS4iRM) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [SUGAR](https://open.spotify.com/album/5kmy3uN2XugLp8DLoL48ef) | 3:06 | 2022-06-23 | 2024-04-23 |
 | [SUPERWOMAN](https://open.spotify.com/track/4NZZdFybgGq1Xwx4wq2BdB) | [UNIS](https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ) | [The 1st Mini Album 'WE UNIS'](https://open.spotify.com/album/3pix2U5QbFUSwOeF1M9Eim) | 3:08 | 2024-04-22 |  |
 | [T.B.H](https://open.spotify.com/track/39gaUtq2z4ejJbno7tWHbL) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [1st Mini Album 'MANITO'](https://open.spotify.com/album/58749dw7F011CU9lRmX0MO) | 2:55 | 2024-04-22 |  |
+| [Taxi Blurr \(Feat\. NATTY of KISS OF LIFE\)](https://open.spotify.com/track/5IY8i6WnkqvmRnIrF4lqDx) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [NATTY](https://open.spotify.com/artist/1Y3klzPXyHrinIk3tQ20Se) | [Jay Park Season 2](https://open.spotify.com/album/0MazhZi5jQbkueKX52rkaR) | 3:50 | 2024-06-14 |  |
 | [Teddy Bear](https://open.spotify.com/track/4kSDi21MeOoSvpZs6MveI9) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Teddy Bear](https://open.spotify.com/album/325MEzmbNCQvjsP3oaJh4x) | 3:09 | 2023-02-16 |  |
 | [Thank You](https://open.spotify.com/track/08rg9OloHTHRsk9evNPpnd) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [THANK YOU](https://open.spotify.com/album/5RaqvFt71ro3Y8nngoucv6) | 3:15 | 2022-03-18 | 2023-11-10 |
 | [Today's Weather](https://open.spotify.com/track/5qFmtbxP5KjekiXwv0axsh) | [Son Dong Woon](https://open.spotify.com/artist/5UzpNJd6zHGN9syxBN8fRY) | [Happy Birthday](https://open.spotify.com/album/0NKjnMeZCTbRLZrMsbuMYg) | 3:06 | 2022-06-13 | 2024-03-25 |

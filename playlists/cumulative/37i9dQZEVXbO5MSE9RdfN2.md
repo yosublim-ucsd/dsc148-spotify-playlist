@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Australia.
 
-476 songs - 1 day 0 hr 30 min
+477 songs - 1 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Honey](https://open.spotify.com/track/6ztI9zfPNMhocBJcXbeEqt) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/0tUmA50dII1GN946D9lUsW) | 4:22 | 2024-04-23 | 2024-04-27 |
 | [Hot Potato \- The Wiggles Sound System Remix](https://open.spotify.com/track/3Az7KofEhlRCdlWm3H7BKk) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf), [Lenny Pearce](https://open.spotify.com/artist/7uIJwRIdyBYonDeoFJCqh8) | [The Wiggles Sound System: Rave of Innocence](https://open.spotify.com/album/1ZZnrkjq3sKWHwEkvtHLdp) | 1:21 | 2024-05-07 | 2024-05-14 |
 | [HOT TO GO!](https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:04 | 2024-04-14 |  |
+| [How Sweet](https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:39 | 2024-06-14 |  |
 | [Hurricane](https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5) | [Hurricane](https://open.spotify.com/album/1s99Lonpnx1JtrAfCZEc9p) | 2:58 | 2024-05-14 | 2024-05-24 |
 | [Husn](https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Husn](https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W) | 3:37 | 2024-01-29 | 2024-02-04 |
 | [i am not who i was](https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [i am not who i was](https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId) | 2:25 | 2024-01-29 | 2024-02-06 |
@@ -301,7 +302,7 @@
 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 | 2024-05-20 |  |
 | [Never Lose Me](https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Never Lose Me](https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL) | 2:05 | 2024-01-29 | 2024-02-21 |
 | [Neverender](https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Hyperdrama](https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86) | 4:26 | 2024-05-14 | 2024-05-22 |
-| [No Face](https://open.spotify.com/track/1Xevt8UUzfEm17ewfSdsiF) | [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Set The Tone \(Guns & Roses\)](https://open.spotify.com/album/4KUIIO52OLcKyV6wCbbtEc) | 4:35 | 2024-05-31 |  |
+| [No Face](https://open.spotify.com/track/1Xevt8UUzfEm17ewfSdsiF) | [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Set The Tone \(Guns & Roses\)](https://open.spotify.com/album/4KUIIO52OLcKyV6wCbbtEc) | 4:35 | 2024-05-31 | 2024-06-15 |
 | [No More Excuses](https://open.spotify.com/track/2DaOCcBGL3xT9KIYFYvnom) | [DMP](https://open.spotify.com/artist/3wsoKQTAMCVBfsnrNsSQpf), [Sdot go](https://open.spotify.com/artist/2ceORrJFBKsQXOvGrWzaEP), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [No More Excuses](https://open.spotify.com/album/4yXcr368pv1oZnUE1HI1dY) | 2:38 | 2024-02-16 | 2024-02-18 |
 | [No More Excuses](https://open.spotify.com/track/6LhdsGjia8IwpmKl2wHnDn) | [DMP](https://open.spotify.com/artist/3wsoKQTAMCVBfsnrNsSQpf), [Sdot go](https://open.spotify.com/artist/2ceORrJFBKsQXOvGrWzaEP), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [No More Excuses](https://open.spotify.com/album/2URy91xt4gChfUP2gHs301) | 2:38 | 2024-02-06 | 2024-02-14 |
 | [No Rules!](https://open.spotify.com/track/4QWrK6lpr8rZ6sa8ymqMrq) | [Windows95Man](https://open.spotify.com/artist/4iIv1KxAdDsqfwq5XjcgQm) | [No Rules!](https://open.spotify.com/album/3hEmkfgNvZOuCNgzmpQWK6) | 2:55 | 2024-05-16 | 2024-05-21 |

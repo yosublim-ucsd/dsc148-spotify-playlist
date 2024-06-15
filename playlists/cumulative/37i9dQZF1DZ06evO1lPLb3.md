@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO1lPLb3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1lPLb3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1lPLb3)
 
-### [This Is Peggy Gou](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1lPLb3)
+### [Peggy Gou This Is‏](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1lPLb3)
 
-> This is Peggy Gou\. The essential tracks, all in one playlist.
+> .Peggy Gou This is‏ הרצועות שחייבים להכיר, מרוכזות בפלייליסט אחד.
 
 44 songs - 3 hr 46 min
 

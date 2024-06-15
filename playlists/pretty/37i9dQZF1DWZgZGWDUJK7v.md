@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 
 > Meet the popular webtoon OSTs now! \(Cover: A Not So Fairy Tale\(선녀외전\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,917 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,943 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 | 87 | [연](https://open.spotify.com/track/6UQUim9WrXBBlBlZODLA0t) | [전하연](https://open.spotify.com/artist/4pJfr9tmGQ8VU6AaLZ2sNp) | [버려진 왕녀는 반역한다\(Original Webtoon Soundtrack\) Pt.28](https://open.spotify.com/album/0ASiUU8wKeZDaZ1N2INV1F) | 4:17 |
 | 88 | [I wait for you without knowing](https://open.spotify.com/track/1jqGHm9Yh5DsuY5cGL7NiU) | [Tae Hwa Yoon](https://open.spotify.com/artist/2D8TOjwm9HxmUClDQC7S5M) | [Coffee Fox Kim Sam Wol OST Part.10 \(Soundtrack\)](https://open.spotify.com/album/3wFlmLOdSwFf0hYlcVbiXM) | 3:43 |
 | 89 | [The way I love you](https://open.spotify.com/track/29yC3hQEyVpmJ2gwFCpV4k) | [BBAHN](https://open.spotify.com/artist/095i3doKOvEd3cY25Mjcvi) | [Oh, Boy! OST Part.4 \(Soundtrack\)](https://open.spotify.com/album/0iCzWgCwoQackdi0mS1I8q) | 3:54 |
-| 90 | [추억을 따라](https://open.spotify.com/track/5bEnO13DJKHOPEaIVf2Lr0) | [Jo Moon Geun](https://open.spotify.com/artist/23ITkiDXXyCmBN6VBKRivR) | [버려진 왕녀는 반역한다\(Original Webtoon Soundtrack\) Pt.4](https://open.spotify.com/album/1d1anmnBgRisaPuoHTfMYC) | 3:28 |
-| 91 | [The sweetest words in the world 'I Love You'](https://open.spotify.com/track/14SOF44GRNxuaWU6ImnK1e) | [An Ye Seul](https://open.spotify.com/artist/4sfK1Rcfv4VCjpZ0ejFYkj) | [Oh, Boy! OST Part.5 \(Soundtrack\)](https://open.spotify.com/album/33UKFC52oo23UDKlVcJAD6) | 3:54 |
+| 90 | [The sweetest words in the world 'I Love You'](https://open.spotify.com/track/14SOF44GRNxuaWU6ImnK1e) | [An Ye Seul](https://open.spotify.com/artist/4sfK1Rcfv4VCjpZ0ejFYkj) | [Oh, Boy! OST Part.5 \(Soundtrack\)](https://open.spotify.com/album/33UKFC52oo23UDKlVcJAD6) | 3:54 |
+| 91 | [추억을 따라](https://open.spotify.com/track/5bEnO13DJKHOPEaIVf2Lr0) | [Jo Moon Geun](https://open.spotify.com/artist/23ITkiDXXyCmBN6VBKRivR) | [버려진 왕녀는 반역한다\(Original Webtoon Soundtrack\) Pt.4](https://open.spotify.com/album/1d1anmnBgRisaPuoHTfMYC) | 3:28 |
 | 92 | [Never say](https://open.spotify.com/track/0g123qCff4LxJwlOakrrEZ) | [CANDO](https://open.spotify.com/artist/06KgokwCwsWO8f1h1pzPcV) | [잉어님과 떡볶이 OST Part.24 \(Soundtrack\)](https://open.spotify.com/album/1KYa1Zcm38TDO0xIO2kehB) | 4:03 |
 | 93 | [품](https://open.spotify.com/track/4BhPMX4CcdGvd9KIQNIhnz) | [Kajin](https://open.spotify.com/artist/7q4cacEQUFUHxQWwgIfSTZ) | [요조신사 마초숙녀 \(Original Webtoon Soundtrack\) Pt\. 29](https://open.spotify.com/album/4Ep6MfNWCisZZGVjZd5eiK) | 3:44 |
 | 94 | [I can't even love you](https://open.spotify.com/track/0V62KTZFy4GcURYyK67QDi) | [Han Ga Bin](https://open.spotify.com/artist/5VXpgnStSS71wk0kWGKwQv) | [The Crush Of Spring OST Part.15](https://open.spotify.com/album/2Vs9a6xFjTehdTeIueAF5u) | 3:42 |
-| 95 | [About time](https://open.spotify.com/track/640mnKfbSWaw7ZVHtqW5qT) | [Mackelli](https://open.spotify.com/artist/3U1caC0cdwaoCO94Kj38C7) | [Dr\. Choi Ki Seok \(Original Webtoon Soundtrack\) Pt.4](https://open.spotify.com/album/0nmZwQAXIexeYz0FLNNZ7Q) | 3:48 |
-| 96 | [그대의 손잡고 걸어갈때면](https://open.spotify.com/track/7uiYOkO9RAHKxBIWQ4tlG5) | [Han Kyung Il](https://open.spotify.com/artist/1QWsO985ZVETFz5Odn4spA) | [요조신사 마초숙녀 \(Original Webtoon Soundtrack\) Pt.12](https://open.spotify.com/album/0YCzPT5o16rWbEXm7k3p62) | 3:30 |
+| 95 | [그대의 손잡고 걸어갈때면](https://open.spotify.com/track/7uiYOkO9RAHKxBIWQ4tlG5) | [Han Kyung Il](https://open.spotify.com/artist/1QWsO985ZVETFz5Odn4spA) | [요조신사 마초숙녀 \(Original Webtoon Soundtrack\) Pt.12](https://open.spotify.com/album/0YCzPT5o16rWbEXm7k3p62) | 3:30 |
+| 96 | [About time](https://open.spotify.com/track/640mnKfbSWaw7ZVHtqW5qT) | [Mackelli](https://open.spotify.com/artist/3U1caC0cdwaoCO94Kj38C7) | [Dr\. Choi Ki Seok \(Original Webtoon Soundtrack\) Pt.4](https://open.spotify.com/album/0nmZwQAXIexeYz0FLNNZ7Q) | 3:48 |
 | 97 | [You know](https://open.spotify.com/track/3cP2EqkvaKpcPI3EGXPLX7) | [Jo Moon Geun](https://open.spotify.com/artist/23ITkiDXXyCmBN6VBKRivR) | [Coffee Fox Kim Sam Wol OST Part.21 \(Soundtrack\)](https://open.spotify.com/album/6bCJ6pN7Pa2s5plf463iFq) | 4:00 |
-| 98 | [돌아올지도 모르니](https://open.spotify.com/track/09rB3mnutNJbSxvEYfAS5o) | [Gureum](https://open.spotify.com/artist/2m4VsaCNtjT7HT6miUYOD1) | [요조신사 마초숙녀 \(Original Webtoon Soundtrack\) Pt\. 26](https://open.spotify.com/album/44JbHSUAKi1QAtpU4bptjH) | 3:28 |
-| 99 | [붙잡고 싶었어](https://open.spotify.com/track/4eGVd6EScWz6MNZBqzGMaD) | [Huh Gong](https://open.spotify.com/artist/2vV9tyqzm5Tz6TeeJaPAQj) | [요조신사 마초숙녀 \(Original Webtoon Soundtrack\) Pt.11](https://open.spotify.com/album/0msxFMPXqR7Vl6KYlYyxjT) | 4:26 |
-| 100 | [사랑이었다면 사랑했었다면](https://open.spotify.com/track/3xbqvnMWtjMkvtYHbShgZl) | [CANDO](https://open.spotify.com/artist/0xO9wbV9n5wWpzsVqtxK7a) | [PETER PANDA \(Original Webtoon Soundtrack\) Pt.5](https://open.spotify.com/album/70IKwOIoIauNtfMRTSlKUr) | 3:05 |
+| 98 | [사랑이었다면 사랑했었다면](https://open.spotify.com/track/3xbqvnMWtjMkvtYHbShgZl) | [CANDO](https://open.spotify.com/artist/0xO9wbV9n5wWpzsVqtxK7a) | [PETER PANDA \(Original Webtoon Soundtrack\) Pt.5](https://open.spotify.com/album/70IKwOIoIauNtfMRTSlKUr) | 3:05 |
+| 99 | [돌아올지도 모르니](https://open.spotify.com/track/09rB3mnutNJbSxvEYfAS5o) | [Gureum](https://open.spotify.com/artist/2m4VsaCNtjT7HT6miUYOD1) | [요조신사 마초숙녀 \(Original Webtoon Soundtrack\) Pt\. 26](https://open.spotify.com/album/44JbHSUAKi1QAtpU4bptjH) | 3:28 |
+| 100 | [붙잡고 싶었어](https://open.spotify.com/track/4eGVd6EScWz6MNZBqzGMaD) | [Huh Gong](https://open.spotify.com/artist/2vV9tyqzm5Tz6TeeJaPAQj) | [요조신사 마초숙녀 \(Original Webtoon Soundtrack\) Pt.11](https://open.spotify.com/album/0msxFMPXqR7Vl6KYlYyxjT) | 4:26 |
 
 Snapshot ID: `ZmAXiQAAAACxCWZw+t4mSO9CNIjGdUm7`

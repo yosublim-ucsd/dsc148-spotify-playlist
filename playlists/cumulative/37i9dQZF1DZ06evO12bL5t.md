@@ -4,7 +4,7 @@
 
 > This is Herencia de Patrones\. The essential tracks, all in one playlist.
 
-64 songs - 3 hr 20 min
+65 songs - 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Lo Que Es](https://open.spotify.com/track/3I8CEUQgFMuGu1UkGrtSTk) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Sorry For The Wait](https://open.spotify.com/album/6yk8A7JtAQZbqiF2OK6iuZ) | 3:22 | 2024-01-29 |  |
 | [Lo Que Pudo Ser](https://open.spotify.com/track/3BONaN9ZGSecM2fJX8CVds) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Sorry For The Wait 2](https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH) | 3:33 | 2024-01-29 |  |
 | [Los 4 Ases \(Corrido Tumbado\)](https://open.spotify.com/track/2MLb1cIk2HkTyfLjh1NEcz) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Retumban2](https://open.spotify.com/album/7e1b68gNd73TPKZgrq3tiy) | 3:58 | 2024-01-29 |  |
-| [Mi Escuela Fueron Las Calles](https://open.spotify.com/track/0FWWehapPaXw1asEDXoDLH) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Mi Escuela Fueron Las Calles](https://open.spotify.com/album/2lp9rfXDp02iJSEv75zbhK) | 2:01 | 2024-01-29 |  |
+| [Mi Escuela Fueron Las Calles](https://open.spotify.com/track/0FWWehapPaXw1asEDXoDLH) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Mi Escuela Fueron Las Calles](https://open.spotify.com/album/2lp9rfXDp02iJSEv75zbhK) | 2:01 | 2024-01-29 | 2024-06-15 |
 | [Moreno 80](https://open.spotify.com/track/1MGJxKsoJ88nwrEMnueAE5) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Moreno 80 \(feat\. Herencia de Patrones\)](https://open.spotify.com/album/5StKBBdChEqEpYAJlsl5lO) | 3:02 | 2024-01-29 |  |
 | [No Es Casualidad](https://open.spotify.com/track/2XbojtQDggjVsEGkB5pUye) | [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [No Es Casualidad](https://open.spotify.com/album/0Tl4y30AejX8M4gERMahsg) | 2:42 | 2024-05-26 |  |
 | [Oro](https://open.spotify.com/track/0peDp43dtDzI4I5599gG02) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Oro](https://open.spotify.com/album/4y7ZS8RuXvWYYaptqoD6Np) | 2:17 | 2024-03-05 |  |
@@ -65,6 +65,7 @@
 | [Ric Flair](https://open.spotify.com/track/1gXU6XIRIJ83Y3C7dZfTBm) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [HP Everything](https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr) | 2:49 | 2024-01-29 |  |
 | [Se Termino](https://open.spotify.com/track/3w68dXKuXUxFocUinFfSeV) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Se Termino](https://open.spotify.com/album/3g09ETqHuYJxpBygHY7cZw) | 3:39 | 2024-03-18 | 2024-04-16 |
 | [Siempre Activo](https://open.spotify.com/track/0K4SyhuWJ915Og82kI8DRz) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa' las Vibras 2](https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE) | 4:26 | 2024-02-18 |  |
+| [Siempre Activo \- En Vivo](https://open.spotify.com/track/6mdGBWH1EZxW3cN2yj737v) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Desde El Cantón, Vol\. II \(En Vivo\)](https://open.spotify.com/album/3jZIGZPZ4iijaPksSNWt13) | 4:07 | 2024-06-15 |  |
 | [Sin Tu Amor](https://open.spotify.com/track/4YdJ3WFfs6R3MhbkLqVSj2) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Sorry For The Wait 2](https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH) | 3:18 | 2024-01-29 |  |
 | [Soy El Jefe](https://open.spotify.com/track/6KzMQ0dcR1OqJ1EziYDQuh) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Para Los Que Conocen El Rollo](https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH) | 3:33 | 2024-01-29 |  |
 | [The Bank Robbery](https://open.spotify.com/track/5xlAr5fNDmI38RlPBpVwvS) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [The Bank Robbery \(feat\. Herencia de Patrones\)](https://open.spotify.com/album/5neNi0izz26mhmGuyJ0U5C) | 2:38 | 2024-01-29 |  |

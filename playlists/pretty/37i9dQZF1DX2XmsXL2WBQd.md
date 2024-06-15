@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 
 > Anthems from the early days of recorded rap music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,615 likes - 70 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,713 likes - 70 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 65 | [The Message \- Extended Version](https://open.spotify.com/track/5isA9icHWl2651hvfr1EOV) | [Grandmaster Flash & The Furious Five](https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop) | [The Message \(Expanded Edition\)](https://open.spotify.com/album/6hrwAx3KoigDlYJx2TCAwC) | 7:10 |
 | 66 | [White Lines \(Don't Do It\)](https://open.spotify.com/track/5iMFwxh6akxfgoujdvI1rf) | [Grandmaster Flash](https://open.spotify.com/artist/1JfnADNz5yYEq3hrzlZHLk), [Grandmaster Melle Mel](https://open.spotify.com/artist/0AWhixY9hX7LEPyPMjh4O0) | [Grandmaster Flash, Grandmaster Melle\-Mel & The Furious Five: The Greatest Hits](https://open.spotify.com/album/40o5zHSxes3t5JFLcQwoa9) | 4:29 |
 | 67 | [That's the Joint](https://open.spotify.com/track/4E3ODD0mMJZ7iCddYGNZnS) | [Funky 4 + 1](https://open.spotify.com/artist/6Jpc1m4U7kxHlzn8hkB85C) | [That's the Joint](https://open.spotify.com/album/275LyQkw1Be2dDfYo64bOX) | 9:22 |
-| 68 | [Apache \(Jump On It\)](https://open.spotify.com/track/6EPacRrsc7nZAPjIwef15G) | [The Sugarhill Gang](https://open.spotify.com/artist/7zliF6Q946WznVk3ZMYhZX) | [A Complete Introduction to Sugar Hill Records](https://open.spotify.com/album/09tnjtNXU0lHOxVsJ7jsAg) | 6:13 |
+| 68 | [8th Wonder](https://open.spotify.com/track/3k2ACFdQY2Y9y8FYdODZxs) | [The Sugarhill Gang](https://open.spotify.com/artist/7zliF6Q946WznVk3ZMYhZX) | [Rapper's Delight](https://open.spotify.com/album/6ao0po28zzbNEl6MoUigrQ) | 7:26 |
 | 69 | [Break Dance \- Electric Boogie](https://open.spotify.com/track/5gs8ySYMZyiGdVGbNcGlbx) | [West Street Mob](https://open.spotify.com/artist/1DF9I8WTbKvhEifX7RwXbO) | [Break Dance \- Electric Boogie](https://open.spotify.com/album/7dFQDsjoGaJEEKG7mQhiow) | 5:11 |
 | 70 | [Going Way Back](https://open.spotify.com/track/0BXKyFXlqi7s2qC7Jvr1Um) | [Just\-Ice](https://open.spotify.com/artist/4o2YVQGcx3e2L4c95B3ZcU), [KRS\-One](https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla) | [Sir Vicious: The Best of Just\-Ice](https://open.spotify.com/album/400dfNwNSiUjJoNlxVIEeS) | 5:03 |
 

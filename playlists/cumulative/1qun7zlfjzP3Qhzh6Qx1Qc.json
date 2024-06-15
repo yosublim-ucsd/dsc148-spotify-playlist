@@ -232,7 +232,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 217533,
       "name": "Bat Outta Hell - With a Boat on the Back",
       "url": "https://open.spotify.com/track/1lAMQ8VFcCUhnd8VtL2G9p"
@@ -734,6 +734,24 @@
       "duration_ms": 171960,
       "name": "Delusional",
       "url": "https://open.spotify.com/track/7GbAoPW5CoWdKqqmJH0gbe"
+    },
+    {
+      "album": {
+        "name": "Devil In My Ear",
+        "url": "https://open.spotify.com/album/1wO6dl6mYgTX4DckhmTt7e"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232252,
+      "name": "Devil In My Ear",
+      "url": "https://open.spotify.com/track/6BUXeo4htsduta2UWDMdWK"
     },
     {
       "album": {
@@ -1578,7 +1596,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 272346,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/3K4HDY4ZfeacNkydO2AYiO"
@@ -1871,6 +1889,24 @@
     },
     {
       "album": {
+        "name": "Fathers & Sons",
+        "url": "https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236055,
+      "name": "Remember Him That Way",
+      "url": "https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD"
+    },
+    {
+      "album": {
         "name": "Rest of Your Life",
         "url": "https://open.spotify.com/album/0RYIEgUnNfz1DaTETsrmVs"
       },
@@ -1936,7 +1972,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 155200,
       "name": "Rouler",
       "url": "https://open.spotify.com/track/4FKSdcyZldfRBTnlOjYpvH"
@@ -2656,6 +2692,24 @@
       "duration_ms": 218746,
       "name": "When a Cowboy Cries",
       "url": "https://open.spotify.com/track/3vUuMxg9Fx9fYWzDaItKhr"
+    },
+    {
+      "album": {
+        "name": "When I Said Goodbye",
+        "url": "https://open.spotify.com/album/1tViUr4a5jrhG8BW2oM3E2"
+      },
+      "artists": [
+        {
+          "name": "Ben Goldsmith",
+          "url": "https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158266,
+      "name": "When I Said Goodbye",
+      "url": "https://open.spotify.com/track/5HcxQR3LbA5NCZBCXLs69t"
     },
     {
       "album": {

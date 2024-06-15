@@ -4,7 +4,7 @@
 
 > All your girl crushes\(걸크러쉬\) in one place\. Cover: EVERGLOW
 
-457 songs - 1 day 0 hr 9 min
+458 songs - 1 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [1, 2](https://open.spotify.com/track/5L2dStRrWW1jXst2aBPSa5) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [CHOI HYUN SUK of TREASURE](https://open.spotify.com/artist/3HO4QMpAs7tVHeBaGnmZKa) | [24℃](https://open.spotify.com/album/47gO1PsZBE4DdS9ipfiHti) | 3:22 | 2021-02-28 | 2022-04-14 |
 | [1718: Psycho \(feat\. Vincent Blue\)](https://open.spotify.com/track/7HTIJkpEYLeQksqtU0vv8E) | [KittiB](https://open.spotify.com/artist/3inqDrxKHZeWUvf8RHbJ6t), [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [1718: Psycho \(feat\. Vincent Blue\)](https://open.spotify.com/album/3B94qRDTNFY4OJVGUT2EFF) | 4:31 | 2021-02-26 | 2022-04-16 |
 | [A.I TROOPER](https://open.spotify.com/track/33xJsKmNqrm8909NnjbguA) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [A.I TROOPER](https://open.spotify.com/album/4EgzPL3u6phqVolLWJhQw6) | 2:02 | 2020-10-13\* | 2022-04-21 |
+| [ABCD](https://open.spotify.com/track/0V2passWyAXnON67kfAj7y) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 2:42 | 2024-06-14 |  |
 | [Abracadabra](https://open.spotify.com/track/3OL3ZJ6YEJpTTxFENVK3L8) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Abracadabra \[THE SEASONS: Red Carpet with Lee Hyo Ri\]](https://open.spotify.com/album/7a81w6Jk4mMnDC6NL36zao) | 3:02 | 2024-03-11 | 2024-04-03 |
 | [ACACIA](https://open.spotify.com/track/5skqcVEBZpXIEICB0yj3XI) | [YEZI](https://open.spotify.com/artist/6LPOT9C3gvGQHxlZtMLHHg) | [ACACIA](https://open.spotify.com/album/0hwx9RAwQqLMt5gCDrC49w) | 3:32 | 2022-05-28 | 2022-05-31 |
 | [Addicted](https://open.spotify.com/track/2ffVhWaUuu5IRaoogJOGFz) | [PIXY](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) | [Fairyforest : Temptation](https://open.spotify.com/album/3999VmQrZOafu4NjYkc0rj) | 3:17 | 2021-10-13 | 2022-04-12 |
@@ -28,16 +29,16 @@
 | [ALIVE](https://open.spotify.com/track/1tjDKrtdCKtVCGEG35jqdI) | [LIGHTSUM](https://open.spotify.com/artist/57HNdw2ObRmfwWHG8Xhs8t) | [Into The Light](https://open.spotify.com/album/5HYN8soZop2qOtyuUnTobz) | 3:06 | 2022-05-24 | 2022-06-10 |
 | [Allure \- Jazz Version](https://open.spotify.com/track/4xeC0YjQ9M0FREWGvu2ReI) | [Hyomin](https://open.spotify.com/artist/1K8kkeM8j0BL8sQ4aR7Vh6) | [Allure](https://open.spotify.com/album/2e0XolxTGtF620kitKaRwb) | 3:10 | 2021-02-26 | 2021-03-15 |
 | [Amigo \(Feat\. Babysoul of Lovelyz\)](https://open.spotify.com/track/4czctkvzB1Yjn0OYNgRNyW) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm), [Babysoul](https://open.spotify.com/artist/2Mq5D1zR3yQIQWhiXOAoeL) | [OPEN](https://open.spotify.com/album/3sWCaTJS9BlBIlp2ECBh9t) | 3:30 | 2021-12-20 | 2022-04-11 |
-| [ANTIFRAGILE](https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:04 | 2022-10-29 | 2024-06-11 |
+| [ANTIFRAGILE](https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:04 | 2022-10-29 |  |
 | [Apple](https://open.spotify.com/track/3jg1u32Pn1c2M5r6SAQBCC) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [回:Song of the Sirens](https://open.spotify.com/album/7nv3pBVVG6Zoc6DmaQ9fVG) | 3:27 | 2020-10-13\* | 2021-03-16 |
 | [ARIA](https://open.spotify.com/track/1T4GQxjwqrGGQ60N3q5Xpw) | [CRAXY](https://open.spotify.com/artist/3C13AlJZ4QWHSruAWe9VPI) | [My Universe](https://open.spotify.com/album/20K3dLngjcAJy2pCEFwQET) | 3:31 | 2021-01-17 | 2022-04-17 |
 | [Armageddon](https://open.spotify.com/track/6i8MbzVn4nzyjUcSoVcz7B) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) | 3:16 | 2024-05-27 |  |
-| [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 | 2022-08-12 |  |
+| [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 | 2022-08-12 | 2024-06-15 |
 | [AYA](https://open.spotify.com/track/4BZXVFYCb76Q0Klojq4piV) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [TRAVEL](https://open.spotify.com/album/3xje7wSW2xwQx2GNJ5cfNu) | 3:31 | 2020-11-09 | 2021-03-01 |
 | [B\[OO\]M\-BOXX](https://open.spotify.com/track/7vf8wdpqIyBgbUd0We65hS) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:13 | 2021-09-25 | 2022-04-18 |
 | [Baby You're Mine](https://open.spotify.com/track/4Kib4w0Np0GtUEWrzn9z2T) | [High School](https://open.spotify.com/artist/37v9QTtJDchfWTji6Nlbk7) | [Baby You're Mine](https://open.spotify.com/album/6bLh16mgcrxxe3jNMwqEmu) | 3:43 | 2021-02-02 | 2022-04-15 |
 | [BAD](https://open.spotify.com/track/2TAK1QNGElbN2fIy6UOu4J) | [Kim NamJoo](https://open.spotify.com/artist/1coxOrU1nr3pjo8KgThKFS) | [BAD](https://open.spotify.com/album/2Abu3BsKcVE3bSdXk6Cukx) | 2:38 | 2024-03-19 | 2024-04-03 |
-| [Bad Boy](https://open.spotify.com/track/5GKwq4sO5ZHKuWaDmdwMQc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Perfect Red Velvet \- The 2nd Album Repackage](https://open.spotify.com/album/0OkJThJls8FO1lutMzMDJ0) | 3:30 | 2020-10-20 |  |
+| [Bad Boy](https://open.spotify.com/track/5GKwq4sO5ZHKuWaDmdwMQc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Perfect Red Velvet \- The 2nd Album Repackage](https://open.spotify.com/album/0OkJThJls8FO1lutMzMDJ0) | 3:30 | 2020-10-20 | 2024-06-15 |
 | [BAD GIRL \(Prod\. Czaer\)](https://open.spotify.com/track/4yCQYX8eKL1XYJmGglSV1A) | [LACHICA](https://open.spotify.com/artist/0vqjEQRfmE1Sov92UQRJMp), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Street Woman Fighter\(SWF\) Special](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) | 3:14 | 2021-11-10 | 2022-04-17 |
 | [Bad News](https://open.spotify.com/track/7AGq5qaaF9awHDaKuCvVjj) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Born to be XX](https://open.spotify.com/album/6yDtQxvq1XRC7Y5qtS03Xx) | 2:40 | 2023-11-08 | 2023-12-09 |
 | [BAD SAD AND MAD](https://open.spotify.com/track/0zPbUxvYRlCGwruakkXPLI) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Life is a Bi…](https://open.spotify.com/album/0VDb4oas0usbuPljrSZH5s) | 2:34 | 2021-04-30 | 2022-04-19 |

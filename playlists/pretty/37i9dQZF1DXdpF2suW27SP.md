@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Mizzy Miles, Teto, MC PH entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,398 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,445 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 7 | [Povo](https://open.spotify.com/track/3W7cu7ORKiHF6A2BvQLam3) | [Supa Squad](https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw), [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [Povo](https://open.spotify.com/album/07m5H8wCm5QicG9jqqh02D) | 3:30 |
 | 8 | [Alô](https://open.spotify.com/track/6vBuEFImAx36hDYiYqBtkZ) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP), [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [O Próprio](https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd) | 3:31 |
 | 9 | [Viver](https://open.spotify.com/track/4DJ6zp87A4UI2b3vOGxh92) | [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Viver](https://open.spotify.com/album/71xiHmvK30gXNVAf1I2B28) | 3:33 |
-| 10 | [Ninfomaníaca](https://open.spotify.com/track/6HJCS09anJ7CAZhinCxxuB) | [Paulelson](https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ) | [Ninfomaníaca](https://open.spotify.com/album/7zrFlnyvrKnh8yx0xQvhEP) | 2:51 |
+| 10 | [Ninfomaníaca](https://open.spotify.com/track/6HJCS09anJ7CAZhinCxxuB) | [Paulelson](https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ), [Mulatooh](https://open.spotify.com/artist/5i3kAmcQVt7k2zHgolEAvo) | [Ninfomaníaca](https://open.spotify.com/album/7zrFlnyvrKnh8yx0xQvhEP) | 2:51 |
 | 11 | [CorDaPele](https://open.spotify.com/track/36S2EbNuLymtUKDxaSEjQ9) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [CorDaPele](https://open.spotify.com/album/7o1xljJyw1AAnNTaFcexNA) | 2:58 |
 | 12 | [Cantona](https://open.spotify.com/track/6mobne6wnkwLGDxF9T7D55) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [O Próprio](https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd) | 2:23 |
 | 13 | [Sem Ti](https://open.spotify.com/track/6bZoSXs4RbMgJaAnEiQsHz) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Sem Ti](https://open.spotify.com/album/13ARq2g2xclODcbnbCEX0X) | 2:35 |

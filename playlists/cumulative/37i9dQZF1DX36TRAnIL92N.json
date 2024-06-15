@@ -118,7 +118,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 390447,
       "name": "Addiction - Original Mix",
       "url": "https://open.spotify.com/track/5WVYs7RVxu9RyFfOMBFsxI"
@@ -1405,6 +1405,28 @@
     },
     {
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/1ZDVL85CeBfljGDtwOVvW9"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        },
+        {
+          "name": "Alt8",
+          "url": "https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238270,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5Hh09KHzQ9NRjRd6HIes5R"
+    },
+    {
+      "album": {
         "name": "Hela",
         "url": "https://open.spotify.com/album/0adQoVV6Qbg358KdIy0Yqn"
       },
@@ -1561,6 +1583,24 @@
     },
     {
       "album": {
+        "name": "I Need It More",
+        "url": "https://open.spotify.com/album/1xy1SNciNQEj4B9Aqd299d"
+      },
+      "artists": [
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158167,
+      "name": "I Need It More",
+      "url": "https://open.spotify.com/track/3if5OebGvCHYFUrgWbcNq2"
+    },
+    {
+      "album": {
         "name": "In a Dream",
         "url": "https://open.spotify.com/album/3A6kZChl99Ml9jA7Fd0sNw"
       },
@@ -1684,7 +1724,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 419164,
       "name": "Inside My Head",
       "url": "https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB"

@@ -1,12 +1,12 @@
 {
   "description": "All your favourite holiday jazz classics for your christmas dinner party.",
-  "num_followers": 118218,
+  "num_followers": 118212,
   "original_name": "Jazzy Christmas Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZYFhkAAAAAAFZdX/r8QIhIyBuX/cyhmF",
+  "snapshot_id": "Zmv4tAAAAABkq7gfOJC9ophHuxf3a1t9",
   "tracks": [
     {
       "added_at": "2023-12-19 09:25:36",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
-        "name": "Santa Claus Is Coming To Town",
-        "url": "https://open.spotify.com/album/29NEpWZtAc1pKuVl6LvEvm"
-      },
-      "artists": [
-        {
-          "name": "Stephen Stevens Quartet",
-          "url": "https://open.spotify.com/artist/0sHjwkrwfeNPET9gG2nNfQ"
-        }
-      ],
-      "duration_ms": 174759,
-      "name": "Toyland",
-      "url": "https://open.spotify.com/track/4rOpf9iZxgQLSALGHsYvk4"
-    },
-    {
-      "added_at": "2023-12-19 09:25:36",
-      "album": {
         "name": "The Very Best Time Of Year",
         "url": "https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 177106,
       "name": "Once A Year Miracle",
       "url": "https://open.spotify.com/track/3HTRqeCKO4BSMflq1DiTWN"
+    },
+    {
+      "added_at": "2023-12-19 09:25:36",
+      "album": {
+        "name": "Santa Claus Is Coming To Town",
+        "url": "https://open.spotify.com/album/29NEpWZtAc1pKuVl6LvEvm"
+      },
+      "artists": [
+        {
+          "name": "Stephen Stevens Quartet",
+          "url": "https://open.spotify.com/artist/0sHjwkrwfeNPET9gG2nNfQ"
+        }
+      ],
+      "duration_ms": 174759,
+      "name": "Toyland",
+      "url": "https://open.spotify.com/track/4rOpf9iZxgQLSALGHsYvk4"
     },
     {
       "added_at": "2023-12-19 09:25:36",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
-        "name": "Christmas Eve",
-        "url": "https://open.spotify.com/album/5cexNJyM1uYPlM3EH2bSpP"
-      },
-      "artists": [
-        {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
-        }
-      ],
-      "duration_ms": 142840,
-      "name": "A Holly Jolly Christmas",
-      "url": "https://open.spotify.com/track/2qIufYDNP1YlmKVsNuOFdn"
-    },
-    {
-      "added_at": "2023-12-19 09:25:36",
-      "album": {
         "name": "I'll Be Home for Christmas",
         "url": "https://open.spotify.com/album/2279rFm900f7XZRc1qKUmh"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 210560,
       "name": "Beautiful, Altogether",
       "url": "https://open.spotify.com/track/7qsv2ZaehJN4uIkCDsubKQ"
+    },
+    {
+      "added_at": "2023-12-19 09:25:36",
+      "album": {
+        "name": "Christmas Eve",
+        "url": "https://open.spotify.com/album/5cexNJyM1uYPlM3EH2bSpP"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "duration_ms": 142840,
+      "name": "A Holly Jolly Christmas",
+      "url": "https://open.spotify.com/track/2qIufYDNP1YlmKVsNuOFdn"
     },
     {
       "added_at": "2023-12-19 09:25:36",

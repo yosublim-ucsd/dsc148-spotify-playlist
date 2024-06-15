@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: Tz da Coronel \u2764\ufe0f Pietra Abreu",
+  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: G.A",
   "name": "Trap Ouro",
   "tracks": [
     {
@@ -464,6 +464,28 @@
       "duration_ms": 180923,
       "name": "24 por 48",
       "url": "https://open.spotify.com/track/22akDLsI3H34M0Lc4upxKJ"
+    },
+    {
+      "album": {
+        "name": "2am in Kamata",
+        "url": "https://open.spotify.com/album/6rdM1hQ6im23RPCJUx3wIS"
+      },
+      "artists": [
+        {
+          "name": "MC Igu",
+          "url": "https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po"
+        },
+        {
+          "name": "Celo1st",
+          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125342,
+      "name": "2am in Kamata",
+      "url": "https://open.spotify.com/track/3H4iF9CxuUWBcFWxYna5fW"
     },
     {
       "album": {
@@ -4299,6 +4321,32 @@
     },
     {
       "album": {
+        "name": "Calabasas",
+        "url": "https://open.spotify.com/album/0XY1KkQ6VRFLSTPQ5LkKKr"
+      },
+      "artists": [
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137964,
+      "name": "Calabasas",
+      "url": "https://open.spotify.com/track/3u1cnoPWsikTxYmVeLktZh"
+    },
+    {
+      "album": {
         "name": "Call me",
         "url": "https://open.spotify.com/album/2Pnva8ngeY9CTxuwO4VEoJ"
       },
@@ -6252,6 +6300,24 @@
       "duration_ms": 201461,
       "name": "Contradi\u00e7\u00f5es",
       "url": "https://open.spotify.com/track/6kudj3VZ7EI2L9tKdZWGhE"
+    },
+    {
+      "album": {
+        "name": "Contrato",
+        "url": "https://open.spotify.com/album/2ZlXC1HEZo1rsFaFGiYFzU"
+      },
+      "artists": [
+        {
+          "name": "Mateca",
+          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112526,
+      "name": "Contrato",
+      "url": "https://open.spotify.com/track/7GdnOU6Zzqiwc0JMQ9v871"
     },
     {
       "album": {
@@ -14946,7 +15012,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 176654,
       "name": "Lembrete",
       "url": "https://open.spotify.com/track/0vBdpw24agUIuXNrwSfmQL"
@@ -15942,6 +16008,28 @@
       "duration_ms": 230411,
       "name": "Mais um dia normal",
       "url": "https://open.spotify.com/track/101fmJbV5JPYnivCoXnJgu"
+    },
+    {
+      "album": {
+        "name": "Mais Uma Vez",
+        "url": "https://open.spotify.com/album/0HFQONR8J5P5GYPgugPek2"
+      },
+      "artists": [
+        {
+          "name": "Xamuel",
+          "url": "https://open.spotify.com/artist/62T0lHxZPLwEo96o1cgBoC"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152892,
+      "name": "Mais Uma Vez",
+      "url": "https://open.spotify.com/track/7DjQ1hL4AvAmEmVJ2bO0hV"
     },
     {
       "album": {
@@ -18389,6 +18477,48 @@
     },
     {
       "album": {
+        "name": "MOTIVO",
+        "url": "https://open.spotify.com/album/0NAC8TzmKrOrEiX9AaPrCa"
+      },
+      "artists": [
+        {
+          "name": "TTF",
+          "url": "https://open.spotify.com/artist/71YqA2qY3ZzGdPAEOf4k7A"
+        },
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        },
+        {
+          "name": "Stef",
+          "url": "https://open.spotify.com/artist/1EMUjMLPKwHMe4tgY2szbF"
+        },
+        {
+          "name": "Luathug",
+          "url": "https://open.spotify.com/artist/0burD8ydqCkfyVSMR2xZhu"
+        },
+        {
+          "name": "ML",
+          "url": "https://open.spotify.com/artist/5Uaca69ukzue3LoQOnqXem"
+        },
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "DESSIIIK",
+          "url": "https://open.spotify.com/artist/3ZLfLpRggl7ncrWSQy9WTV"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217445,
+      "name": "MOTIVO",
+      "url": "https://open.spotify.com/track/4Tqq3LjwRIxXqrfvur7bm8"
+    },
+    {
+      "album": {
         "name": "Consequ\u00eancias De Um Cora\u00e7\u00e3o Machucado",
         "url": "https://open.spotify.com/album/3hvcIAXdaiHr4a1BeCfm9e"
       },
@@ -19224,6 +19354,40 @@
       "duration_ms": 125596,
       "name": "Nata",
       "url": "https://open.spotify.com/track/5dBKzhtE24DZKcF0SJ4gbm"
+    },
+    {
+      "album": {
+        "name": "Nath Fischer",
+        "url": "https://open.spotify.com/album/61mqsvXUsOFGOeNoDfuNaU"
+      },
+      "artists": [
+        {
+          "name": "Nath Fischer",
+          "url": "https://open.spotify.com/artist/1QcNQjPOs6hNGLOvddrwfW"
+        },
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        },
+        {
+          "name": "CJota",
+          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        },
+        {
+          "name": "Victor WAO",
+          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Nath Fischer",
+      "url": "https://open.spotify.com/track/05xJjT5JQ0aS9dX1Gvh64B"
     },
     {
       "album": {
@@ -21074,7 +21238,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 190270,
       "name": "Oi, Me Liga Depois",
       "url": "https://open.spotify.com/track/3gCypMWXLFtBkqcJwM27Ps"
@@ -23090,7 +23254,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 158532,
       "name": "Podcast",
       "url": "https://open.spotify.com/track/4sFtAlaxrYe8STOQVirmuT"
@@ -23592,7 +23756,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 172838,
       "name": "PRAZER, ANSIEDADE",
       "url": "https://open.spotify.com/track/40uEfhdYQxOy95eHB6rrsS"
@@ -27164,7 +27328,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 257622,
       "name": "Seu Nome",
       "url": "https://open.spotify.com/track/5V3CmFA57izQ3cwZFEpmle"
@@ -27696,7 +27860,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 157664,
       "name": "Sorrisos & Choros",
       "url": "https://open.spotify.com/track/1i7GMOnmkpYiQc7ULayXhq"

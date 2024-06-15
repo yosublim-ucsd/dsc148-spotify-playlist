@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 
 > An essential list of recent hits of SoGo\.  Cover:  <a href="https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA">The Browns</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,137 likes - 80 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,145 likes - 80 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 | 50 | [Like This](https://open.spotify.com/track/4njUGRSOV7yThJFoaw21NK) | [Wisecarvers](https://open.spotify.com/artist/4NFztqTXYlGy5RA52qNkit) | [Like This](https://open.spotify.com/album/0MnLy1oJMcbH4HWZztPiDz) | 3:39 |
 | 51 | [These Are The Days](https://open.spotify.com/track/5R8RKqIh4EKQKY5U5Q8K8y) | [Kingsmen](https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX) | [These Are The Days](https://open.spotify.com/album/4NLFC87jCshYTUAz3hbhP6) | 3:18 |
 | 52 | [How Good the Good News Feels](https://open.spotify.com/track/0k8agTGVV7FE3Pr8UfZTUY) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG), [Anthem Edition](https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5) | [How Good the Good News Feels](https://open.spotify.com/album/1g7XmVw8AnXQJs8ReQcFNq) | 3:22 |
-| 53 | [I Don't Belong](https://open.spotify.com/track/2b83n18SCOfBVHSAXUdFr7) | [The Talleys](https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC) | [I Don't Belong](https://open.spotify.com/album/2HNsusLhbziwmwMfBMI6tC) | 4:51 |
-| 54 | [Lord's Prayer](https://open.spotify.com/track/3GprG1XzOUavCgzEqyj84v) | [Lauren Talley](https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg) | [Lord's Prayer](https://open.spotify.com/album/1GTIjIET5P7s2oXtT3sBcs) | 3:55 |
+| 53 | [Lord's Prayer](https://open.spotify.com/track/3GprG1XzOUavCgzEqyj84v) | [Lauren Talley](https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg) | [Lord's Prayer](https://open.spotify.com/album/1GTIjIET5P7s2oXtT3sBcs) | 3:55 |
+| 54 | [I Don't Belong](https://open.spotify.com/track/2b83n18SCOfBVHSAXUdFr7) | [The Talleys](https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC) | [I Don't Belong](https://open.spotify.com/album/2HNsusLhbziwmwMfBMI6tC) | 4:51 |
 | 55 | [The World Needs a Song](https://open.spotify.com/track/2m03vLyMsBkWaEYwJOfP5T) | [The Lore Family](https://open.spotify.com/artist/4LumramOIgEFgFyNkYeb94) | [The World Needs a Song](https://open.spotify.com/album/4E9MITR2tZPyaUOPQpmUOJ) | 3:11 |
 | 56 | [Not For Long](https://open.spotify.com/track/2x5wmviqv1wC7rCd8gL1sQ) | [The Guardians](https://open.spotify.com/artist/1BQ4qhmBKCLXppZm7LXtYo) | [Not For Long](https://open.spotify.com/album/3o2K93AUXYP6ksJabFbM62) | 3:50 |
 | 57 | [In Your Hands](https://open.spotify.com/track/5jv8q8RMsCZLsLoughuYcK) | [Zane & Donna King](https://open.spotify.com/artist/49ez4RKPnnHvNyLPfIgcer) | [In Your Hands](https://open.spotify.com/album/6XEgkVMyUuHhAgs3Z9wh5d) | 3:19 |

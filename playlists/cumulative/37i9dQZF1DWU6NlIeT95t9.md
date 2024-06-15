@@ -4,7 +4,7 @@
 
 > Meet the future\.  Cover: Bayaan
 
-88 songs - 4 hr 52 min
+89 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [HICO](https://open.spotify.com/track/62ImsjOLrem5iMw29NvaSr) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [HICO](https://open.spotify.com/album/1VM1CsYQjbmrVUNjqqkY2U) | 2:28 | 2023-07-31 |  |
 | [Iraaday](https://open.spotify.com/track/6qrifdo7QINdPQr80IelGi) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Iraaday](https://open.spotify.com/album/5rrokeOdlkdlyLaGfiixYy) | 2:13 | 2023-07-31 |  |
 | [JADU](https://open.spotify.com/track/5BFDwitXIlpGKPcLCZVcpA) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [Towers](https://open.spotify.com/artist/3RtQy4G1wwfnhyegf4czBO) | [JADU](https://open.spotify.com/album/1YsuVDWON04EsjwPloOWZS) | 3:10 | 2023-07-31 |  |
+| [Jhol](https://open.spotify.com/track/4XTgFBxBHN6var1BzAgE1m) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [Jhol](https://open.spotify.com/album/7grtFo2pj5wwRTM7c6NI9y) | 4:25 | 2024-06-14 |  |
 | [Jia](https://open.spotify.com/track/1OldtKIXBu5lzLtW37UkqR) | [Omar Mukhtar](https://open.spotify.com/artist/6FR7jutAadVl9LMNooryDl) | [Ram Pam Para](https://open.spotify.com/album/6DiiOftBUslEpML79kbVNW) | 4:04 | 2023-07-31 |  |
 | [JOGI](https://open.spotify.com/track/6KO2ptwXLvr8JiGxk2rFHl) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [JOGI](https://open.spotify.com/album/42ul4c3YVf87TWk7u2d2oG) | 2:07 | 2024-02-23 |  |
 | [Joona](https://open.spotify.com/track/18twglRl0wFIIMtFOy2CHs) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Joona](https://open.spotify.com/album/3ziCoUwiVpBO2DHkMh3UH5) | 3:09 | 2023-07-31 |  |

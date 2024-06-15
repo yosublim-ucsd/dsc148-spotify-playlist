@@ -1,12 +1,12 @@
 {
   "description": "This Is Eden Mu\u00f1oz. Los temas esenciales, todos en una lista.",
-  "num_followers": 232422,
+  "num_followers": 232582,
   "original_name": "This Is Eden Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjlAAAAAACJUs1hNIcM9yrOdfifUpUD",
+  "snapshot_id": "Zmo2gAAAAAD9S4UxoJD07I9dO1uWEop2",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos B\u00e9licos, Vol. IV",
-        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
+        "name": "Como en los Viejos Tiempos",
+        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
           "name": "Eden Mu\u00f1oz",
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 150424,
-      "name": "LMV",
-      "url": "https://open.spotify.com/track/23U6cwNZHA0Zf8F1cVSA8F"
+      "duration_ms": 155908,
+      "name": "Que la Dejen Ir al Baile Sola",
+      "url": "https://open.spotify.com/track/5QBiktcoDAKR4pK5yRmCRe"
     },
     {
       "added_at": null,
@@ -535,22 +535,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como en los Viejos Tiempos",
-        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
+        "name": "Corridos B\u00e9licos, Vol. IV",
+        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
       },
       "artists": [
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         },
         {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 155908,
-      "name": "Que la Dejen Ir al Baile Sola",
-      "url": "https://open.spotify.com/track/5QBiktcoDAKR4pK5yRmCRe"
+      "duration_ms": 150424,
+      "name": "LMV",
+      "url": "https://open.spotify.com/track/23U6cwNZHA0Zf8F1cVSA8F"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Consejos Gratis",
-        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 122242,
-      "name": "Oficialmente en Solter\u00eda",
-      "url": "https://open.spotify.com/track/58P1q91WOAkofRlCEA0IHX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como en los Viejos Tiempos",
         "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 212071,
       "name": "Sue\u00f1o G\u00fcajiro",
       "url": "https://open.spotify.com/track/7uJU4AyXDqUEG4d1eHI92G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Consejos Gratis",
+        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 122242,
+      "name": "Oficialmente en Solter\u00eda",
+      "url": "https://open.spotify.com/track/58P1q91WOAkofRlCEA0IHX"
     },
     {
       "added_at": null,

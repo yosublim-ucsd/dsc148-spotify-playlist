@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Gloryen\. Artwork: Isu Kim
 
-2,421 songs - 5 day 22 hr 43 min
+2,422 songs - 5 day 22 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1166,6 +1166,7 @@
 | [Lakbay](https://open.spotify.com/track/6iTonOKQj97pgInGGSYsjz) | [Nino Obenza](https://open.spotify.com/artist/38iGiwGWAkgE2VnflabU7T) | [Lakbay](https://open.spotify.com/album/3eWZqaPUZgAyJDOxDfKCn7) | 3:27 | 2023-02-16 | 2024-01-12 |
 | [Lalayo O Tatabi](https://open.spotify.com/track/6Mxh4RBf3BA3hNzaqHseqR) | [KV](https://open.spotify.com/artist/4ZPvMY3YPMZbVZn5WIjzvB) | [Lalayo O Tatabi](https://open.spotify.com/album/1103FsKVzZZnObhDt0cHLn) | 2:31 | 2023-07-27 | 2023-08-18 |
 | [Lalim](https://open.spotify.com/track/1iqif1BcFUKkLorG6BjaMn) | [Sunlit Memory](https://open.spotify.com/artist/6IUa7Iyq8GIwvIDkw5vQk3), [drmfy](https://open.spotify.com/artist/4hsyXkZRXr0zZ8WNQAJnhp) | [Lalim](https://open.spotify.com/album/0ZsG8sGVAFHYHtiG08J7VP) | 2:49 | 2024-03-14 | 2024-04-19 |
+| [Lambing](https://open.spotify.com/track/632vvHZtEq7Xk7fDejnWwL) | [Elisha Pontanares](https://open.spotify.com/artist/0htMdJTYUTfbpQKVGFjdUc) | [Lambing](https://open.spotify.com/album/2aVGRow778oLyKMOrGFsVC) | 4:06 | 2024-06-13 |  |
 | [Lambing](https://open.spotify.com/track/70QpaWGDomY4xRJu5Q0jh6) | [Fitz Shioda](https://open.spotify.com/artist/5C2w1OkTeKl8BLSwHI68dj) | [Lambing](https://open.spotify.com/album/6MVhsXVm5XdDN4TTvHb2US) | 3:46 | 2023-08-03 | 2023-09-01 |
 | [Lana Rhoades](https://open.spotify.com/track/7e8DtNotFWaCuLx12DenHN) | [KAISAI](https://open.spotify.com/artist/4EOmdPzt09dPEFC7IKz1Ei) | [Lana Rhoades](https://open.spotify.com/album/6wrZVpuTwNzg6TeNXnggsZ) | 3:24 | 2023-03-16 | 2023-03-31 |
 | [langhiya](https://open.spotify.com/track/5fAt1n8u0NnIBGSum47RTB) | [Joshua Feliciano](https://open.spotify.com/artist/7KX5v2c2WjRTjHce9xLQSL) | [langhiya](https://open.spotify.com/album/2zWBEp4Q2SOyehkn1OeQLo) | 2:54 | 2024-03-14 | 2024-04-19 |

@@ -332,7 +332,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 199384,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/4gu6PuExtQ9NkoMKX37yXR"
@@ -682,6 +682,24 @@
       "duration_ms": 190650,
       "name": "Closer",
       "url": "https://open.spotify.com/track/58CTyLzYaWEQXnBbJeALxM"
+    },
+    {
+      "album": {
+        "name": "Come On Baby",
+        "url": "https://open.spotify.com/album/42lFXowTNmp0YxqlfQ1v1j"
+      },
+      "artists": [
+        {
+          "name": "Kapuzen",
+          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207619,
+      "name": "Come On Baby",
+      "url": "https://open.spotify.com/track/3gHPAH2tqDiz9XxskORxmX"
     },
     {
       "album": {
@@ -1435,6 +1453,24 @@
     },
     {
       "album": {
+        "name": "girl$",
+        "url": "https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209552,
+      "name": "girl$",
+      "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
+    },
+    {
+      "album": {
         "name": "Go Back (feat. Julia Church)",
         "url": "https://open.spotify.com/album/1X6nBOWHHVwjWCcMgm2vdk"
       },
@@ -1498,6 +1534,24 @@
       "duration_ms": 145238,
       "name": "Going Up",
       "url": "https://open.spotify.com/track/0u1iigR4tFHXrNEnJEofp4"
+    },
+    {
+      "album": {
+        "name": "Anomalous",
+        "url": "https://open.spotify.com/album/7BE3EFn1ag4cYGwTjI30AJ"
+      },
+      "artists": [
+        {
+          "name": "Orjan Nilsen",
+          "url": "https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185196,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/4VtBgp52TlDQM13OHwVrUo"
     },
     {
       "album": {
@@ -1600,7 +1654,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 181874,
       "name": "Groove School",
       "url": "https://open.spotify.com/track/0Md2Hi3rZSAGRAJ2QO5oqW"
@@ -4268,10 +4322,28 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 153333,
       "name": "Up All Night",
       "url": "https://open.spotify.com/track/5MZfrYG6pZVlJk6Et2Pyk4"
+    },
+    {
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/72eyVuTbpnrzyvxRXe7vCF"
+      },
+      "artists": [
+        {
+          "name": "D\u00d8KE",
+          "url": "https://open.spotify.com/artist/0s9Qq2cA9XGeWE6QWugoAU"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "Used To Say",
+      "url": "https://open.spotify.com/track/74pFyIn1uUf3A0QkfptZTq"
     },
     {
       "album": {

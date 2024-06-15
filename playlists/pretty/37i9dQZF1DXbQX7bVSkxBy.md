@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 ### [Testify](https://open.spotify.com/playlist/37i9dQZF1DXbQX7bVSkxBy)
 
-> Raise a voice and testify the goodness of God\.  Cover:  <a href=https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX?si=SwbM2mXVT2WiJ3\-L3INptQ>Theresa Phondo</a>
+> Raise a voice and testify the goodness of God\.  Cover:  <a href=https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5?si=5CauwnTERYi6GqA2Gw\-zFA>K3ndrick</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,284 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,313 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Yewo](https://open.spotify.com/track/24q2NrlyFV3htvw0EqqJvE) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Yewo](https://open.spotify.com/album/4BlGgfSDbniELn7AvOd0zM) | 2:34 |
 | 2 | [Congratulations](https://open.spotify.com/track/66BBI9oQqeABCpHkEUVqgW) | [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4), [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Great Grace Music](https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN) | [Congratulations](https://open.spotify.com/album/4WM4SgukPTr9ZRXzkIzD36) | 3:06 |
 | 3 | [I Believe It \(The Life of Jesus\)](https://open.spotify.com/track/2iym3PPUfaR5285b8iLfbq) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [I Believe It \(The Life of Jesus\)](https://open.spotify.com/album/1kn3HEmaNTYMt4ZGUa23sj) | 3:45 |
-| 4 | [Hallelujah](https://open.spotify.com/track/3FqpxUbn5Glawznnl9caTu) | [Mairos](https://open.spotify.com/artist/6magWqKDY1pnK2maOgtH6s), [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy), [WINNER WAYS.](https://open.spotify.com/artist/29L1pzmDzW3P2FmQBovIFK) | [Hallelujah](https://open.spotify.com/album/5XGwrJRQsdJDppW2j1anx6) | 3:17 |
+| 4 | [Accolades](https://open.spotify.com/track/5EX25veDDRIaA0szBnf4YP) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Accolades](https://open.spotify.com/album/2TST6huMqbrXt3N2GaCIIm) | 2:38 |
 | 5 | [Loved By You](https://open.spotify.com/track/04z6JRYVpmeZlyIZHXgV3i) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Loved By You](https://open.spotify.com/album/0GMrWWGjsqb5ofkZrb58wu) | 3:24 |
 | 6 | [Way Maker](https://open.spotify.com/track/3VACsP3SHXxGbpvSEd5KkR) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Way Maker](https://open.spotify.com/album/3rnFSwqvcBtB9OP7em9C2H) | 5:06 |
 | 7 | [No Longer Bound \(I'm Free\)](https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [No Longer Bound \(I'm Free\)](https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 | 49 | [Put it On God](https://open.spotify.com/track/1QcTDyopg7fNm7ZAu0mKoV) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Put It On God](https://open.spotify.com/album/1hGHJnNyDmxPXwxvKH6yr9) | 2:37 |
 | 50 | [For the Love of God](https://open.spotify.com/track/5OrJhxKDfqRsikTH1SaWp7) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [For the Love of God](https://open.spotify.com/album/0PXAm9ob71rL4Cyi4gQTq2) | 3:48 |
 
-Snapshot ID: `ZmJNvAAAAACjx+J99Bhtz571Z1uRFIWc`
+Snapshot ID: `Zmv0/AAAAABtiOYk5xXprmPTfg83Eyw9`

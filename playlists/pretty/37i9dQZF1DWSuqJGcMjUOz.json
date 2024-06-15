@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche de l\u2019\u00e9dition 2024 des Francos de Montr\u00e9al.",
-  "num_followers": 5562,
+  "num_followers": 5584,
   "original_name": "Francos de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -1999,6 +1999,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Kizavibe",
+        "url": "https://open.spotify.com/album/3UmSnzA1lWOT8Y2Pji5Wvv"
+      },
+      "artists": [
+        {
+          "name": "Kizaba",
+          "url": "https://open.spotify.com/artist/57I0wEuRpFPzqFEQTKjP2X"
+        }
+      ],
+      "duration_ms": 230570,
+      "name": "Soso",
+      "url": "https://open.spotify.com/track/5ugVYYDavQiHeu27gFEbll"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/20hYXKljxpp3OB34PHcaIo"
       },
@@ -2015,22 +2031,6 @@
       "duration_ms": 223454,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/6p84e47BuGYmh282V13y4H"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Kizavibe",
-        "url": "https://open.spotify.com/album/3UmSnzA1lWOT8Y2Pji5Wvv"
-      },
-      "artists": [
-        {
-          "name": "Kizaba",
-          "url": "https://open.spotify.com/artist/57I0wEuRpFPzqFEQTKjP2X"
-        }
-      ],
-      "duration_ms": 230570,
-      "name": "Soso",
-      "url": "https://open.spotify.com/track/5ugVYYDavQiHeu27gFEbll"
     },
     {
       "added_at": "2024-05-22 11:00:00",

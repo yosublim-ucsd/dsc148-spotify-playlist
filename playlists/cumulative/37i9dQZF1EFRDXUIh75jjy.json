@@ -2485,6 +2485,24 @@
     },
     {
       "album": {
+        "name": "Pretender",
+        "url": "https://open.spotify.com/album/2fknzhgnc8H82XbX31eE6U"
+      },
+      "artists": [
+        {
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175040,
+      "name": "Pretender",
+      "url": "https://open.spotify.com/track/23qOFgEan1r0oiAxis6U5K"
+    },
+    {
+      "album": {
         "name": "The Contender",
         "url": "https://open.spotify.com/album/75OmZv2K9rN3ySHEvc8GIQ"
       },

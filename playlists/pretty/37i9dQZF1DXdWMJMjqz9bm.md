@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap\. Cover: Russ
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,016 likes - 33 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,017 likes - 33 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 10 | [mr\. sunshine](https://open.spotify.com/track/2NJefEQeqDKUdyiy38GFoV) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 0](https://open.spotify.com/album/3wNkf6SHSN19bVxWCNC3Lu) | 2:57 |
 | 11 | [Workin On Me](https://open.spotify.com/track/4OLpvmygTruvZfH1uyj6sS) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Workin On Me](https://open.spotify.com/album/4htzd8kCbdtovAFvLnHz5f) | 5:00 |
 | 12 | [up again](https://open.spotify.com/track/0eeUeyzWIWbJUIDRkkHwLg) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [the lows.](https://open.spotify.com/album/2I9x3cBlrOEXAPAtTBAc2w) | 2:48 |
-| 13 | [Bandit](https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Bandit](https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC) | 2:27 |
+| 13 | [BANDIT](https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Bandit](https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC) | 2:27 |
 | 14 | [I KNOW ?](https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:31 |
 | 15 | [You Got Me Like](https://open.spotify.com/track/0akftvzeUycOzE8qnd1r2U) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [You Got Me Like](https://open.spotify.com/album/2kgxYPxjhCq5F38bk97l2T) | 2:20 |
 | 16 | [SELF CARE](https://open.spotify.com/track/6xJ8pLfdfnJBpQR6i8J4jq) | [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [SELF CARE](https://open.spotify.com/album/2gUv8u6L3fCT7pDm5FMleh) | 2:54 |

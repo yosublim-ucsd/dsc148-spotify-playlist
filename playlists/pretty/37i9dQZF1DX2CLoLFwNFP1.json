@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 38120,
+  "num_followers": 38155,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
@@ -2099,6 +2099,22 @@
     {
       "added_at": "2024-04-26 14:42:17",
       "album": {
+        "name": "Everything You Wanted",
+        "url": "https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 209392,
+      "name": "All I Wanna Do",
+      "url": "https://open.spotify.com/track/3gdqjIsKs7JqIE76JsNpG4"
+    },
+    {
+      "added_at": "2024-04-26 14:42:17",
+      "album": {
         "name": "Yacht (K) (feat. Sik-K)",
         "url": "https://open.spotify.com/album/7s6Cjus2U5giBB0mZxN2jl"
       },
@@ -2243,22 +2259,6 @@
       "duration_ms": 223681,
       "name": "Me Like Yuh (feat. Hoody) [Korean Version]",
       "url": "https://open.spotify.com/track/40wb1DugiG4c4ztCt9oaWp"
-    },
-    {
-      "added_at": "2024-04-26 14:42:17",
-      "album": {
-        "name": "Everything You Wanted",
-        "url": "https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 209392,
-      "name": "All I Wanna Do",
-      "url": "https://open.spotify.com/track/3gdqjIsKs7JqIE76JsNpG4"
     },
     {
       "added_at": "2024-04-26 14:42:17",

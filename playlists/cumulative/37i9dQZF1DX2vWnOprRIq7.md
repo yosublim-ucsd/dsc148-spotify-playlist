@@ -4,7 +4,7 @@
 
 > El lado electrónico del indie latino, featuring Alex Anwandter.
 
-255 songs - 15 hr 33 min
+256 songs - 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Dice que cambió](https://open.spotify.com/track/2FXgkkcXVbcof5tAaRJnHQ) | [Eli Almic](https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR), [Tinitus](https://open.spotify.com/artist/79cKpnNgBDiqV1LX0VY96O), [MaisonMusic](https://open.spotify.com/artist/4sVdc8xEu0jQAB77aq1Cd9) | [Dice que cambió](https://open.spotify.com/album/43pw905y2K62roRunMGYRl) | 3:11 | 2023-06-16 | 2023-10-07 |
 | [dionysian](https://open.spotify.com/track/7ekJZZ50aVhYWW1TW4OZBP) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX) | [dionysian](https://open.spotify.com/album/5CVy40cgzPpI1nhOSxx2Iz) | 3:10 | 2024-02-02 |  |
 | [Domingo](https://open.spotify.com/track/4W9o6WwYPoSeL4AU5QuJ4d) | [Hipnotica](https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY) | [MIXTO](https://open.spotify.com/album/4dwMdD8JAw7Oni79f4jjLR) | 4:03 | 2023-03-17 | 2023-07-08 |
-| [Dopamine](https://open.spotify.com/track/4cxgmgcbHuWksJKepHAra2) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi), [Chae Solé](https://open.spotify.com/artist/0AKt7gt9B6FzostvBp5JwI) | [Dopamine](https://open.spotify.com/album/1CllJIvSgkCwh7CnJXis1G) | 3:13 | 2023-11-10 |  |
+| [Dopamine](https://open.spotify.com/track/4cxgmgcbHuWksJKepHAra2) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi), [Chae Solé](https://open.spotify.com/artist/0AKt7gt9B6FzostvBp5JwI) | [Dopamine](https://open.spotify.com/album/1CllJIvSgkCwh7CnJXis1G) | 3:13 | 2023-11-10 | 2024-06-15 |
 | [Días](https://open.spotify.com/track/033LUswuPS3Hg1QYYd0lJm) | [Ino Guridi](https://open.spotify.com/artist/2VZdNAReEB4AWkJ5MPj3g7) | [Pasará](https://open.spotify.com/album/4dLe34FABKIx05p6u5ajHC) | 3:34 | 2023-04-07 |  |
 | [Eco](https://open.spotify.com/track/7w4yG9ADQ6yUFR1RwX3hwi) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF), [Martín Berríos](https://open.spotify.com/artist/3EQz0AUS2CMV6lOu3Zplm2) | [Eco](https://open.spotify.com/album/4oCOfG3dcH3CmyA2Qd4XkU) | 4:37 | 2023-07-07 | 2023-09-17 |
 | [El After](https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Lo Que Siento](https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM) | 3:19 | 2023-03-17 | 2024-03-16 |
@@ -121,6 +121,7 @@
 | [hambre](https://open.spotify.com/track/2tZflzxvr7gqNqkKlOl0M4) | [Mondomamba](https://open.spotify.com/artist/3X3Wz70qevXveyieDAl6T0), [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [mondomamba](https://open.spotify.com/album/6sUFaYvnWtt4mfD5OtUZMS) | 3:32 | 2023-03-17 | 2023-08-15 |
 | [Hasta el Final](https://open.spotify.com/track/4bfEXoyHC8Yi1sWWvkCV26) | [Sofía Uzal](https://open.spotify.com/artist/19Hdi3JmltQbOwPCfcUEjd) | [Hasta el Final](https://open.spotify.com/album/3DTN2Ksb343wBlyYkDYjsY) | 2:49 | 2023-03-17 | 2023-05-15 |
 | [Hay que venir al Sur](https://open.spotify.com/track/2rHam5fmV5AFgHJNk80hHi) | [Ibiza Pareo](https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw) | [Hay que venir al Sur](https://open.spotify.com/album/79McrtCPCUlgiwEsAppGZC) | 3:48 | 2023-09-01 |  |
+| [He fakin loves me!](https://open.spotify.com/track/6b7gmH9nE2RjN0jjGt1rMr) | [Vera Frod](https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX) | [He fakin loves me!](https://open.spotify.com/album/2hQjdV56JcnFQmW6URFkDA) | 2:51 | 2024-06-14 |  |
 | [Hechizao \- Pyura Remix](https://open.spotify.com/track/1CFQUCHVBjIBGBsPB0Ngg5) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi), [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Hechizao \(Pyura Remix\)](https://open.spotify.com/album/3uEpl1UF9dQCItTO8eoVrl) | 3:26 | 2024-04-19 |  |
 | [Hemofilia \- Remix](https://open.spotify.com/track/5OK0uhqJ6OZYonsxGK17lQ) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G), [Ferla](https://open.spotify.com/artist/3mnC4xKYX84yK9yRGC6AZW) | [Hemofilia \(Remix\)](https://open.spotify.com/album/4FlmyozlciTYc9RURkfTIV) | 6:47 | 2024-03-08 |  |
 | [Hondo](https://open.spotify.com/track/0KeAMlYAbxfA1YL5HPZqkl) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Cometa](https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww) | 4:57 | 2023-03-17 | 2024-03-16 |

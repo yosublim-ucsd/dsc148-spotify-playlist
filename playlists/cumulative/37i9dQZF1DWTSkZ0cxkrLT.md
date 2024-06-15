@@ -4,7 +4,7 @@
 
 > Música ideal para tomar el té y relajar.
 
-155 songs - 9 hr 12 min
+156 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,9 +34,10 @@
 | [Cactus](https://open.spotify.com/track/1NeZxBuSEhikl0ZrOSgpuW) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Fuerza Natural](https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8) | 3:54 | 2023-08-18 |  |
 | [Chachachá](https://open.spotify.com/track/6aommJFM8i3iT4inKuDSXh) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblate de Mí](https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ) | 3:35 | 2023-08-18 |  |
 | [Chica Acuario](https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Chica Acuario](https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn) | 3:27 | 2023-08-18 |  |
-| [Cielo \- brújula del destino](https://open.spotify.com/track/2BfqQCKiA6F7l294f64IOY) | [Natalia Doco](https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN) | [La Sagrada](https://open.spotify.com/album/1xu99byFIkzbPmPDWxYTMc) | 3:47 | 2024-04-17 |  |
+| [Cielo \- brújula del destino](https://open.spotify.com/track/2BfqQCKiA6F7l294f64IOY) | [Natalia Doco](https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN) | [La Sagrada](https://open.spotify.com/album/1xu99byFIkzbPmPDWxYTMc) | 3:47 | 2024-04-17 | 2024-06-15 |
 | [COMO UN G](https://open.spotify.com/track/7MDfNYdpdohHjmFsYK44KU) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 4:22 | 2023-08-18 |  |
 | [complikado](https://open.spotify.com/track/1VB6OgXXixIet11kOQfc3P) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9) | [complikado](https://open.spotify.com/album/1EjaJUWUoi90MSNuwteZEp) | 2:58 | 2023-10-26 | 2023-11-14 |
+| [Con la vida al centro](https://open.spotify.com/track/0TCDtpmn2uLtQzrLZikIKR) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Con la vida al centro](https://open.spotify.com/album/1OROJufh2WokWE8aMzNlDm) | 2:52 | 2024-06-14 |  |
 | [Con Las Ganas](https://open.spotify.com/track/7gfZYsX0TVWf6RlMOyV9RB) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [Con Las Ganas](https://open.spotify.com/album/0mtZkrJ2WBLYjggwI3dyD9) | 4:01 | 2023-08-18 |  |
 | [configuracionesonduladas\_17.11.23\_nicetoclub\_bsas](https://open.spotify.com/track/50lK2pEB7EDDczjUfKHT5b) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [Las Luces Que Estaban Ocultas \[en vivo\]](https://open.spotify.com/album/1hC1FBKykJyHC2oNyq1Zxo) | 5:24 | 2024-04-25 | 2024-06-01 |
 | [Creep](https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Pablo Honey](https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8) | 3:58 | 2023-08-18 | 2024-04-19 |

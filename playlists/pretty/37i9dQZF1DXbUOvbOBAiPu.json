@@ -1,6 +1,6 @@
 {
   "description": "Nieuw deze week - Nouveaut\u00e9s de la semaine. Cover: Camille",
-  "num_followers": 35277,
+  "num_followers": 35322,
   "original_name": "New Music Friday BE",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,26 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "BROTHER STONE (FEAT. KODAK BLACK)",
+        "url": "https://open.spotify.com/album/0LWTY98ijfILoFHupcQJKE"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 202840,
+      "name": "BROTHER STONE (FEAT. KODAK BLACK)",
+      "url": "https://open.spotify.com/track/0l3raueiJ78IsmZGwo6CRm"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Wide open, horses",
         "url": "https://open.spotify.com/album/6TVEDs3DPrCUQDyrsG4mXz"
       },
@@ -983,6 +1003,26 @@
       "duration_ms": 227409,
       "name": "WalkOnBy (feat. Earl Sweatshirt & Rae Khalil)",
       "url": "https://open.spotify.com/track/5mUHnwhs4N0bLhidpub3FC"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "SPEAK NOW",
+        "url": "https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 161052,
+      "name": "WHISKEY WHISKEY (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/7hRLuo4QnzCsjICXUOhTE6"
     },
     {
       "added_at": "2024-06-13 22:00:00",

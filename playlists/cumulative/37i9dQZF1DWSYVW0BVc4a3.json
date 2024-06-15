@@ -12021,6 +12021,24 @@
     },
     {
       "album": {
+        "name": "Only Love",
+        "url": "https://open.spotify.com/album/1asQljRHSidWiazVxe3Bud"
+      },
+      "artists": [
+        {
+          "name": "OLING",
+          "url": "https://open.spotify.com/artist/2saqEnwA5wcTmHPpvVM1cv"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215085,
+      "name": "Only Love",
+      "url": "https://open.spotify.com/track/5lzoAofjjMVqeB3CLEzah4"
+    },
+    {
+      "album": {
         "name": "Picture Perfect EP",
         "url": "https://open.spotify.com/album/0C6LlsjVraJSPkdLZAsMhf"
       },

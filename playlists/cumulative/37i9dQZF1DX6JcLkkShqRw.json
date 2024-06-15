@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Flow sudamericano con FloyyMenor.",
+  "description": "Flow sudamericano con AKRILLA & TAICHU.",
   "name": "Flow al Sur",
   "tracks": [
     {
@@ -268,7 +268,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 198841,
       "name": "1000 A\u00f1os de Soledad",
       "url": "https://open.spotify.com/track/4uZxVRqtgcVtj6Fd9es9kg"
@@ -2973,6 +2973,24 @@
     },
     {
       "album": {
+        "name": "BALOTELLI",
+        "url": "https://open.spotify.com/album/4FbztfP2zgyTD1SOxfpJmr"
+      },
+      "artists": [
+        {
+          "name": "Akim 88",
+          "url": "https://open.spotify.com/artist/4TDr2te1ZvxbEchksH77Dp"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138591,
+      "name": "BALOTELLI",
+      "url": "https://open.spotify.com/track/0mE7hM5xSTFGhP9VRVqLuw"
+    },
+    {
+      "album": {
         "name": "EL TIBUR\u00d3N",
         "url": "https://open.spotify.com/album/44MDlLPFwSdNNACGyOlfW3"
       },
@@ -4139,6 +4157,28 @@
     },
     {
       "album": {
+        "name": "b\u00e1ilame",
+        "url": "https://open.spotify.com/album/0W8iVv5hCtH8X1ubNKDXdt"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Correa",
+          "url": "https://open.spotify.com/artist/1bVSA9IM2PsnHzY7j3mG7h"
+        },
+        {
+          "name": "Vlntna B",
+          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184812,
+      "name": "b\u00e1ilame",
+      "url": "https://open.spotify.com/track/5qVJTUviBVStHU6xIZ0BGi"
+    },
+    {
+      "album": {
         "name": "B\u00e9same",
         "url": "https://open.spotify.com/album/4vEeBtWA79MqiHIXohBpps"
       },
@@ -4242,6 +4282,24 @@
       "duration_ms": 151417,
       "name": "CADA VEZ QUE",
       "url": "https://open.spotify.com/track/5pIWNTCanCfMoXkS3v5UAa"
+    },
+    {
+      "album": {
+        "name": "Caleta",
+        "url": "https://open.spotify.com/album/3VrVqcy5F8QGOalY2zhx74"
+      },
+      "artists": [
+        {
+          "name": "Franux BB",
+          "url": "https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149052,
+      "name": "Caleta",
+      "url": "https://open.spotify.com/track/719ongISRx7olE8DXyw6zu"
     },
     {
       "album": {
@@ -4630,6 +4688,28 @@
       "duration_ms": 165336,
       "name": "Cash Machine",
       "url": "https://open.spotify.com/track/2S8JTUgPdDhGtb5Ub8zOZ2"
+    },
+    {
+      "album": {
+        "name": "CASINO",
+        "url": "https://open.spotify.com/album/57LwWb3p9qG2nhCrXI6Fve"
+      },
+      "artists": [
+        {
+          "name": "Flu Os",
+          "url": "https://open.spotify.com/artist/6Sv7bgGea4mSf1iLaQGvnE"
+        },
+        {
+          "name": "PADAWVN",
+          "url": "https://open.spotify.com/artist/68xpgCrWeZtoeRVQh7JiFE"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182286,
+      "name": "CASINO",
+      "url": "https://open.spotify.com/track/5TXWZjLtZjmBK8LDEtWewb"
     },
     {
       "album": {
@@ -5344,10 +5424,28 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 195130,
       "name": "Como si n\u00e1",
       "url": "https://open.spotify.com/track/6XUlQSRr5qE48RBYz2fe4I"
+    },
+    {
+      "album": {
+        "name": "Como Soy",
+        "url": "https://open.spotify.com/album/751mFHGdl8l0y5DUEnikve"
+      },
+      "artists": [
+        {
+          "name": "ARA",
+          "url": "https://open.spotify.com/artist/5wkxQh0fD5bsqxKm6Ajv7o"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164004,
+      "name": "Como Soy",
+      "url": "https://open.spotify.com/track/68WrvktVIohfnEmiqqYSeM"
     },
     {
       "album": {
@@ -6412,7 +6510,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 132765,
       "name": "Daikiri",
       "url": "https://open.spotify.com/track/1yHx7Mu7JfPEpR6yRAbtcq"
@@ -6452,7 +6550,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 214464,
       "name": "DAKAR",
       "url": "https://open.spotify.com/track/0Go1oLj9k4wo1GqmKrSYFz"
@@ -7238,6 +7336,24 @@
       "duration_ms": 292181,
       "name": "Diamantes",
       "url": "https://open.spotify.com/track/41YEoD0kVqNohg8JkFPO1u"
+    },
+    {
+      "album": {
+        "name": "DIENTE EN MANO",
+        "url": "https://open.spotify.com/album/36DPUMkdGBx3w5wmhkZufZ"
+      },
+      "artists": [
+        {
+          "name": "ACRU",
+          "url": "https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223448,
+      "name": "DIENTE EN MANO",
+      "url": "https://open.spotify.com/track/16OsWoYQrdMKrwBktAhoM5"
     },
     {
       "album": {
@@ -8370,7 +8486,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 156631,
       "name": "En el BM",
       "url": "https://open.spotify.com/track/5zqikRs8msVCFGmcNYvIVy"
@@ -10440,7 +10556,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 187200,
       "name": "GANAS",
       "url": "https://open.spotify.com/track/2RQsLucjZb02cKkz3s8NZ5"
@@ -14244,7 +14360,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 205783,
       "name": "LUCES LED",
       "url": "https://open.spotify.com/track/4NLUPdPaw05ezEfnzB18tX"
@@ -15510,7 +15626,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 164724,
       "name": "Me Veo Rico",
       "url": "https://open.spotify.com/track/7D3Be8tkPLMzWKohmi63hb"
@@ -15750,6 +15866,24 @@
       "duration_ms": 165336,
       "name": "Meteoritos Vs Dinosaurios",
       "url": "https://open.spotify.com/track/5u1azLYFRISTVqC6FQWLYd"
+    },
+    {
+      "album": {
+        "name": "Metido en los verdes",
+        "url": "https://open.spotify.com/album/5XRyHFJxxYaWuNfSWEESvh"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180953,
+      "name": "Metido en los verdes",
+      "url": "https://open.spotify.com/track/49OSIWq4nZIEeAZ40f1puk"
     },
     {
       "album": {
@@ -18096,7 +18230,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 190239,
       "name": "No Fue Culpa Mia",
       "url": "https://open.spotify.com/track/5R8UcwccsUN90aEYDFTNnW"
@@ -18744,7 +18878,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 191086,
       "name": "Nos Comemos (feat. Ozuna)",
       "url": "https://open.spotify.com/track/6ojZtz3sZr6ynvejLOqgCj"
@@ -19020,7 +19154,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 233273,
       "name": "OCASO",
       "url": "https://open.spotify.com/track/2KibbfI1tM4ofl4f3ojVBF"
@@ -20629,6 +20763,28 @@
     },
     {
       "album": {
+        "name": "PERCOSEX",
+        "url": "https://open.spotify.com/album/0P29ZeH7aAPrrBPkSncYMZ"
+      },
+      "artists": [
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196759,
+      "name": "PERCOSEX",
+      "url": "https://open.spotify.com/track/6DAbtwdNegFUXQJQyKypig"
+    },
+    {
+      "album": {
         "name": "Perd\u00ed",
         "url": "https://open.spotify.com/album/6lQGZi7q4JbUkupUiOfm0a"
       },
@@ -21129,6 +21285,28 @@
     },
     {
       "album": {
+        "name": "POPPER!",
+        "url": "https://open.spotify.com/album/4v0x0syzsxORqMTW3c88Zp"
+      },
+      "artists": [
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        },
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110141,
+      "name": "POPPER!",
+      "url": "https://open.spotify.com/track/3dffM1ONyWwC9153O47a2O"
+    },
+    {
+      "album": {
         "name": "Por El Cuello",
         "url": "https://open.spotify.com/album/6F2hPHmG9vOO1xUHCDrS8Y"
       },
@@ -21266,6 +21444,28 @@
       "duration_ms": 136595,
       "name": "Porrito",
       "url": "https://open.spotify.com/track/6nRCuGV3VqaYWKionlD2eF"
+    },
+    {
+      "album": {
+        "name": "PPP",
+        "url": "https://open.spotify.com/album/4WxhP4D4ttb80Q8qaDjiiy"
+      },
+      "artists": [
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164997,
+      "name": "PPP",
+      "url": "https://open.spotify.com/track/1M7F1tBukdUEY1XqHRgUlW"
     },
     {
       "album": {
@@ -21502,7 +21702,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 252631,
       "name": "Privado - Remix",
       "url": "https://open.spotify.com/track/3yfB2VspVzG0yRiYPhhoAL"
@@ -22263,6 +22463,28 @@
     },
     {
       "album": {
+        "name": "Qui\u00e9n es Dei V?",
+        "url": "https://open.spotify.com/album/2i6InsyHZPR6NBFniDivF5"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Rapido (with Cris Mj)",
+      "url": "https://open.spotify.com/track/1emJPywtseFLmLCcPY92dW"
+    },
+    {
+      "album": {
         "name": "RaXXXet",
         "url": "https://open.spotify.com/album/3UMNMi4XlvR0c1zHGzAMbt"
       },
@@ -22630,6 +22852,28 @@
       "duration_ms": 134000,
       "name": "Revenge",
       "url": "https://open.spotify.com/track/7JEXEuuEQ7qDTW1DAOpFCz"
+    },
+    {
+      "album": {
+        "name": "REY DEL BLOKE",
+        "url": "https://open.spotify.com/album/6tctG3L57CYJLiLrociqLK"
+      },
+      "artists": [
+        {
+          "name": "Royal X",
+          "url": "https://open.spotify.com/artist/7CeWU6iooJWfNWrYfP41Na"
+        },
+        {
+          "name": "Quasar Mov",
+          "url": "https://open.spotify.com/artist/79Dg5TD6RkNBF39hiAlReN"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152763,
+      "name": "REY DEL BLOKE",
+      "url": "https://open.spotify.com/track/4Ga2o38Y3Iv0VzkKv6QK5d"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The biggest festival of the year. The official playlist for Glastonbury 2024.",
-  "num_followers": 145842,
+  "num_followers": 146238,
   "original_name": "Glastonbury 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmrypwAAAABPOb7+EPKGwL9kTMm4omM9",
+  "snapshot_id": "Zmwe1QAAAAA8gWb0L1ast1uYWXhgKX3V",
   "tracks": [
     {
       "added_at": "2024-05-31 13:56:16",
@@ -1135,22 +1135,6 @@
       "duration_ms": 271520,
       "name": "In The Waiting Line",
       "url": "https://open.spotify.com/track/5ARrtxJLVCeTv5TWo1oKgC"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
-        "name": "I Had The Blues But I Shook Them Loose",
-        "url": "https://open.spotify.com/album/4X0bhkSBOfcnOPyfG5Ef6a"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        }
-      ],
-      "duration_ms": 245640,
-      "name": "Always Like This",
-      "url": "https://open.spotify.com/track/73M2Vb5MfZh8iGKudkMtlw"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -3363,6 +3347,22 @@
       "duration_ms": 120000,
       "name": "Sunny Daze",
       "url": "https://open.spotify.com/track/5P7cU0BpCpwE52oNNzPbR7"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "The Magic Numbers",
+        "url": "https://open.spotify.com/album/22V78Zizbqody4GGdF4gLL"
+      },
+      "artists": [
+        {
+          "name": "The Magic Numbers",
+          "url": "https://open.spotify.com/artist/0P2q6xyNc2hVFkG3ThjYcJ"
+        }
+      ],
+      "duration_ms": 257005,
+      "name": "Forever Lost",
+      "url": "https://open.spotify.com/track/0CIUacqGuohdes8fdIP4K3"
     }
   ],
   "unique_name": "Glastonbury 2024",

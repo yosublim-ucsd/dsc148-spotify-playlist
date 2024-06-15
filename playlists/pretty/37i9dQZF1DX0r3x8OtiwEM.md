@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 944,622 likes - 60 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 944,776 likes - 60 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 59 | [The Bridge \(feat\. Kim Wilde\)](https://open.spotify.com/track/6GvQQq5RIDiH1sn5HN2Yg2) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345), [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt), [Kim Wilde](https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo) | [The Bridge \(feat\. Kim Wilde\)](https://open.spotify.com/album/7nPkvjM7DolYtCcyIAny4S) | 3:08 |
 | 60 | [Between Two Worlds](https://open.spotify.com/track/0uO5T7u4DkgfGif1wIeLNr) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Between Two Worlds](https://open.spotify.com/album/2e0Xq16PwrfYtznyso4lHy) | 7:44 |
 
-Snapshot ID: `ZmKFwAAAAACoKnwkzNVouTYGT1/W3Qui`
+Snapshot ID: `Zmx3EAAAAAAbNC++DJTUj0g1hmvGqvnk`

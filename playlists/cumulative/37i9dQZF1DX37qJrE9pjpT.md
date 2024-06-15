@@ -4,7 +4,7 @@
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover: Young Lunya
 
-163 songs - 9 hr 17 min
+164 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [PAPUCHI](https://open.spotify.com/track/1eBsRZiqVztNnTvQZlwL1A) | [Salmin Swaggz](https://open.spotify.com/artist/29Bao5BzmXldCACxALuPcu), [Khalli](https://open.spotify.com/artist/7kPZCvhsvqbRBQLnVbJVLc) | [PAPUCHI](https://open.spotify.com/album/6BM5wNrwsq0OPHg5mVfg2z) | 2:30 | 2023-11-10 | 2024-06-14 |
 | [PAST THE FUTURE \- Smoking Cigars in Jakarta](https://open.spotify.com/track/1vkaoISSwDgdAPosFERaVo) | [Fredrick Mulla](https://open.spotify.com/artist/5rfiYSKHAN3WUdskfrEOvD), [Umoja Sounds](https://open.spotify.com/artist/6a8xnLQPDn7HANbZgT3tj9) | [PAST THE FUTURE](https://open.spotify.com/album/7hlunmg0KZ4F2yqM94q1Pk) | 4:05 | 2024-02-09 |  |
 | [Penzi La Bando](https://open.spotify.com/track/0SxZTwQeZ8v2o7Y6bH7KEX) | [Weusi](https://open.spotify.com/artist/7eECTa41N0fSqdhZbIxcGK), [Khadija Kopa](https://open.spotify.com/artist/1s1TIAIKBdvHt03yUuKmqr) | [AIR WEUSI](https://open.spotify.com/album/5nejSaBxg7FugqcXWtOoNr) | 3:45 | 2022-03-28 | 2022-10-22 |
+| [POAPOA](https://open.spotify.com/track/7t9u8dRuCHMZMdpgOzqoK2) | [Cde Hambagen](https://open.spotify.com/artist/0NypjULeiFikRCIeRZXj8U), [AITER TREY](https://open.spotify.com/artist/0lanR51aZnJ0cVWVwgSamL), [RASONIC](https://open.spotify.com/artist/1LkF6cgkLYEfDzu6rzYR1s), [DEXTEROCKBEAT](https://open.spotify.com/artist/3JZUAaEgBLw59okB4S6PYK) | [POAPOA](https://open.spotify.com/album/5euaFZNfXeBQ9EgyKzcE1E) | 2:38 | 2024-06-13 |  |
 | [PRAISE GOD](https://open.spotify.com/track/2PFhoFM8hDwXyMXVxtTZm1) | [Conrad Bubex](https://open.spotify.com/artist/4w8hRnEWibdMPZs4kd4MxW) | [PRAISE GOD](https://open.spotify.com/album/3V1KNGUw3RZNo3AX1rEoLm) | 3:12 | 2023-04-14 | 2023-12-09 |
 | [Pull up](https://open.spotify.com/track/3E3niL8NqvGoerOJyYzw6G) | [Cde Hambagen](https://open.spotify.com/artist/0NypjULeiFikRCIeRZXj8U), [KG OG KUSH](https://open.spotify.com/artist/6yhz6DTQE8XiTp2jU70it3) | [Pull up](https://open.spotify.com/album/4j2truHj2SPA15iAecfIl8) | 2:38 | 2024-01-19 | 2024-04-06 |
 | [Put Em](https://open.spotify.com/track/6mb4OtLmnltkPkIMcyr3SB) | [The Holyday](https://open.spotify.com/artist/221TPEmJ1UUqZB6SQrx0PC), [10kleeroy](https://open.spotify.com/artist/2OSU31gPBXeqCgsq8K7T9k) | [S.V](https://open.spotify.com/album/3ntZ2rPZ93OhhYpc7DKULv) | 3:07 | 2022-07-08 | 2023-09-22 |

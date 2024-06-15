@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Zach Bryan
 
-454 songs - 1 day 3 hr 50 min
+455 songs - 1 day 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Dusty Bottles](https://open.spotify.com/track/7kpdCMUv7Tc8XNAlfJffmW) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [A Beautiful Time](https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG) | 3:30 | 2022-07-22 | 2022-09-10 |
 | [Easier and Harder](https://open.spotify.com/track/2l1EdoGlGhbhkbbnjV1Bf9) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Goldie Hawn / Easier and Harder / When You Miss Someone / Tanqueray](https://open.spotify.com/album/6G20apxio3xFWZGqv90Auf) | 2:56 | 2023-03-03 | 2023-04-15 |
 | [Easy as Hello](https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Easy as Hello](https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm) | 4:39 | 2023-04-21 |  |
+| [Easygoing](https://open.spotify.com/track/6oFAJFw5D8HjQFCWwf3XFr) | [Skinny Dyck](https://open.spotify.com/artist/1saewocg14MmejEW9t4SZL) | [Easygoing](https://open.spotify.com/album/3bXAVr8a2qBMETr34sSNt0) | 3:53 | 2024-06-14 |  |
 | [Edge of Us](https://open.spotify.com/track/2dH2QAXL3JphxxZOjjCqCZ) | [Jaron Chidiac](https://open.spotify.com/artist/27W3Bt6tacaYmtAMMKxiFX) | [Edge of Us](https://open.spotify.com/album/49hhJpCaz9ClqJAWpiZPyT) | 3:02 | 2022-09-09 | 2023-04-22 |
 | [Empty Hands](https://open.spotify.com/track/18vqU2qFGKhbtjXLUivJdV) | [Shirley Hurt](https://open.spotify.com/artist/0yVyy0jaHPJex2snbCJj0B) | [Empty Hands](https://open.spotify.com/album/6z88uxD3m9LV5nEpsJATG3) | 4:21 | 2022-11-11 | 2023-04-22 |
 | [Encinal Canyon](https://open.spotify.com/track/7l02bzJ5vV8wk67iEpeotE) | [Mapache](https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO) | [Encinal Canyon](https://open.spotify.com/album/0KPk5jj3IJzBo01Klqrrzn) | 3:26 | 2023-08-25 | 2024-02-07 |
@@ -403,7 +404,7 @@
 | [This Masquerade](https://open.spotify.com/track/6NqwctQ0JPaXCwXKZk5wDL) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [This Masquerade](https://open.spotify.com/album/1otvDymvVShCQLgSWp869e) | 3:12 | 2023-08-04 | 2023-11-18 |
 | [This Mess](https://open.spotify.com/track/0FQMhWb3mE3ALWgsaYlAT2) | [FONTINE](https://open.spotify.com/artist/4uFbZzF7cNxNcxIQdF1BWy) | [Yarrow Lover](https://open.spotify.com/album/3ayNhLRIDKjMADyYTPqgSz) | 2:56 | 2023-07-28 | 2023-09-09 |
 | [Till I Return](https://open.spotify.com/track/5bi8RvkKme1gAWymqVbhSR) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Million Eyes](https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY) | 3:36 | 2023-10-27 |  |
-| [Tiny Wooden Box](https://open.spotify.com/track/0FMQTEGsEqpOdiAptT3I68) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [Tiny Wooden Box](https://open.spotify.com/album/1ioQmlcY8eg8BeGBsir850) | 4:07 | 2023-10-27 |  |
+| [Tiny Wooden Box](https://open.spotify.com/track/0FMQTEGsEqpOdiAptT3I68) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [Tiny Wooden Box](https://open.spotify.com/album/1ioQmlcY8eg8BeGBsir850) | 4:07 | 2023-10-27 | 2024-06-15 |
 | [TLC Cagematch](https://open.spotify.com/track/74gvi6fa10cGuSSpCWknMa) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Boat Songs](https://open.spotify.com/album/1G5OaCbp7Tb0YJlSInBeYu) | 3:52 | 2023-04-21 | 2023-04-30 |
 | [TLC Cagematch](https://open.spotify.com/track/5jZxm02JT3CpJulGo4phH3) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Boat Songs](https://open.spotify.com/album/22gbAfr4V10JH93bV7dKW0) | 3:52 | 2023-04-28 | 2023-11-18 |
 | [To Die For](https://open.spotify.com/track/3jrhymhDIXEzFCIGXVYjVH) | [Arlo McKinley](https://open.spotify.com/artist/4bnCmwKU89Rt1zWnRIdSUa) | [This Mess We're In](https://open.spotify.com/album/5CK0pgc09TdzFBkNUQ5GR9) | 3:23 | 2022-07-22 | 2023-09-16 |

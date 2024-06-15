@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 
 > Maak je klaar voor de zomer van 2024!
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,446 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,590 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 | 61 | [Voices](https://open.spotify.com/track/50H7kORRf6hUmq2oV8D7av) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH) | [Voices](https://open.spotify.com/album/4zT0joShw5QJb04PqV3Yzd) | 2:19 |
 | 62 | [Laat Me Nooit Meer Los \(Never Let Me Go\)](https://open.spotify.com/track/1prhH9cmEkXHnAprZ92Ake) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4), [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Laat Me Nooit Meer Los \(Never Let Me Go\)](https://open.spotify.com/album/5HJ2BolbLuIdB6fnpmQ5jc) | 3:27 |
 | 63 | [broken by you](https://open.spotify.com/track/472jZF9DQbbJlp6Zg58aai) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [broken by you](https://open.spotify.com/album/3xGBQIPJYhqeSkTF53Jr70) | 2:52 |
-| 64 | [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 |
+| 64 | [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips \(Deluxe Version\)](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 |
 | 65 | [Waterdicht](https://open.spotify.com/track/1guLggb4orDoc7Dmh2cSuL) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Waterdicht](https://open.spotify.com/album/6RB3yTXoYgKACU6TCqj9qa) | 2:51 |
 | 66 | [Nothing To Lose](https://open.spotify.com/track/4FhKH5QIbjGnha0ZNAyYVt) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [Nothing To Lose](https://open.spotify.com/album/54ER6KotifvALmlVHDeyp6) | 3:04 |
 | 67 | [Dreaming](https://open.spotify.com/track/14uRu4FrDuBKrd4PEwc8ha) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dreaming](https://open.spotify.com/album/3uoFn9YXRikta2GkvMXoR7) | 3:28 |

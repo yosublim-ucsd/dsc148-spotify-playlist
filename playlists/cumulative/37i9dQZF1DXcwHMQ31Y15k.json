@@ -6639,6 +6639,24 @@
     },
     {
       "album": {
+        "name": "Yowes Modaro",
+        "url": "https://open.spotify.com/album/01bzVLH7VeX5g4h03DMMAW"
+      },
+      "artists": [
+        {
+          "name": "Aftershine",
+          "url": "https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292000,
+      "name": "Yowes Modaro",
+      "url": "https://open.spotify.com/track/1SRkMfpmXlfl0p3KPHpB3B"
+    },
+    {
+      "album": {
         "name": "Yowis! (Koplo)",
         "url": "https://open.spotify.com/album/61f6QjZDfdn7o3T4ahIplo"
       },

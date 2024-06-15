@@ -1,6 +1,6 @@
 {
   "description": "Deja que el sentimiento antig\u00fcito de los boleros te envuelva con amor y nostalgia \ud83d\udc96\ud83c\udfb5\ud83c\udf39",
-  "num_followers": 79239,
+  "num_followers": 79266,
   "original_name": "B\u00e9same Mucho",
   "owner": {
     "name": "Spotify",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
+        "name": "15 A\u00f1os De Exitos",
+        "url": "https://open.spotify.com/album/28b76Z4InvP9h1s0vnp9fL"
+      },
+      "artists": [
+        {
+          "name": "Julio Jaramillo",
+          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
+        }
+      ],
+      "duration_ms": 195906,
+      "name": "Nuestro Juramento",
+      "url": "https://open.spotify.com/track/2dOF2NUuOkuxskCqYfKbUt"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
         "name": "Lucho Gatica",
         "url": "https://open.spotify.com/album/2ZbnntCr7Tvw36vt0xHrsO"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 204200,
       "name": "Solamente Una Vez",
       "url": "https://open.spotify.com/track/2J4hetQLI8G66r3SfWllLc"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
-        "name": "15 A\u00f1os De Exitos",
-        "url": "https://open.spotify.com/album/28b76Z4InvP9h1s0vnp9fL"
-      },
-      "artists": [
-        {
-          "name": "Julio Jaramillo",
-          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
-        }
-      ],
-      "duration_ms": 195906,
-      "name": "Nuestro Juramento",
-      "url": "https://open.spotify.com/track/2dOF2NUuOkuxskCqYfKbUt"
     },
     {
       "added_at": "2021-12-26 12:28:38",

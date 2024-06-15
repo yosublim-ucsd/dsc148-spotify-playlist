@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u6700\u524d\u7dda\u306e\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u30fb\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u30c8\u30e9\u30c3\u30af\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002Cover: Denzel Curry",
+  "description": "\u6700\u524d\u7dda\u306e\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u30fb\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u30c8\u30e9\u30c3\u30af\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002Cover: Moneybagg Yo",
   "name": "Frontline -\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u6700\u524d\u7dda-",
   "tracks": [
     {
@@ -976,7 +976,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 161053,
-      "name": "Attitude (feat. Charlie Wilson & Cash Cobain)",
+      "name": "ATTITUDE (FEAT. CHARLIE WILSON & CASH COBAIN)",
       "url": "https://open.spotify.com/track/0KFXE2mLTFdOKkTZEDgJPv"
     },
     {
@@ -2299,6 +2299,28 @@
     },
     {
       "album": {
+        "name": "BROTHER STONE (FEAT. KODAK BLACK)",
+        "url": "https://open.spotify.com/album/0LWTY98ijfILoFHupcQJKE"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202840,
+      "name": "BROTHER STONE (FEAT. KODAK BLACK)",
+      "url": "https://open.spotify.com/track/0l3raueiJ78IsmZGwo6CRm"
+    },
+    {
+      "album": {
         "name": "Buckle Up",
         "url": "https://open.spotify.com/album/0fpuoBi2lP0lAuSges8jNO"
       },
@@ -2629,6 +2651,24 @@
     },
     {
       "album": {
+        "name": "Remember Me?",
+        "url": "https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2"
+      },
+      "artists": [
+        {
+          "name": "Kaneee",
+          "url": "https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144830,
+      "name": "Charming",
+      "url": "https://open.spotify.com/track/4zmo0aFm3UIrSwurMl319I"
+    },
+    {
+      "album": {
         "name": "child of GOD",
         "url": "https://open.spotify.com/album/2tdQ8ymmQslIQTBSPO1xga"
       },
@@ -2666,6 +2706,32 @@
       "duration_ms": 162000,
       "name": "Chocolate Rain",
       "url": "https://open.spotify.com/track/4VtN4HDolfU0II9KOftqy4"
+    },
+    {
+      "album": {
+        "name": "Choppa (with Lil Baby & Rvssian)",
+        "url": "https://open.spotify.com/album/5yYpXnvCCF9l1z5HP1vNgx"
+      },
+      "artists": [
+        {
+          "name": "Byron Messia",
+          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169195,
+      "name": "Choppa (with Lil Baby & Rvssian)",
+      "url": "https://open.spotify.com/track/2PY7w56NZdvh7YhBxfT4pE"
     },
     {
       "album": {
@@ -3604,6 +3670,24 @@
       "duration_ms": 169608,
       "name": "DUDE",
       "url": "https://open.spotify.com/track/57UtHttemgNKZ2PIu0jEnN"
+    },
+    {
+      "album": {
+        "name": "Dundee",
+        "url": "https://open.spotify.com/album/3BAlFd5A5cniOXQ3jX99dR"
+      },
+      "artists": [
+        {
+          "name": "Young T & Bugsey",
+          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162687,
+      "name": "Dundee",
+      "url": "https://open.spotify.com/track/64fF8kyyZ0i55dgNuslZZM"
     },
     {
       "album": {
@@ -7364,7 +7448,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 223258,
       "name": "LLOGCLAY",
       "url": "https://open.spotify.com/track/4CGUa53VCVIM7wQBTMPWoa"
@@ -8094,6 +8178,28 @@
       "duration_ms": 195692,
       "name": "MIND YOUR BUSINESS",
       "url": "https://open.spotify.com/track/6SihMpwoVMy75GwvBXFxJ4"
+    },
+    {
+      "album": {
+        "name": "Mine For The Night",
+        "url": "https://open.spotify.com/album/3xHZvCFIIqqqEH6l24CRJX"
+      },
+      "artists": [
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254867,
+      "name": "Mine For The Night",
+      "url": "https://open.spotify.com/track/5HJr6r6NdRpNnpUOxeXTjK"
     },
     {
       "album": {
@@ -11107,6 +11213,32 @@
     },
     {
       "album": {
+        "name": "Saturday Night Special (feat. Rick Ross & Fat Joe)",
+        "url": "https://open.spotify.com/album/3wAJhTshe6dXXworwy3CF1"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Fat Joe",
+          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208317,
+      "name": "Saturday Night Special (feat. Rick Ross & Fat Joe)",
+      "url": "https://open.spotify.com/track/6a14IKtBVWXO0FTOmZNgfI"
+    },
+    {
+      "album": {
         "name": "SET IT OFF",
         "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
       },
@@ -12313,6 +12445,32 @@
     },
     {
       "album": {
+        "name": "Sunday Service (feat. Megan Thee Stallion & Flo Milli)",
+        "url": "https://open.spotify.com/album/2IrJlw610VJwdfYPiSG8Ae"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Sunday Service (feat. Megan Thee Stallion & Flo Milli)",
+      "url": "https://open.spotify.com/track/7unrQrmU8i2Roc1Dkj0ST2"
+    },
+    {
+      "album": {
         "name": "Sundown (feat. JID)",
         "url": "https://open.spotify.com/album/3Bhw6mGopsWHhS4OlCGDe3"
       },
@@ -12376,6 +12534,24 @@
       "duration_ms": 156645,
       "name": "Survivor\u2019s Remorse",
       "url": "https://open.spotify.com/track/4Xg53MegsZ6MRIbZ2kE6Eh"
+    },
+    {
+      "album": {
+        "name": "SUVY THEATERS",
+        "url": "https://open.spotify.com/album/1hhVyW4Otx5eMHxqWETkH7"
+      },
+      "artists": [
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148676,
+      "name": "SUVY THEATERS",
+      "url": "https://open.spotify.com/track/6FTZImGnoJO5I8eq6XmDOU"
     },
     {
       "album": {
@@ -13082,6 +13258,24 @@
       "duration_ms": 169014,
       "name": "This My Life (with Lil Tecca, The Kid LAROI & Lil Skies)",
       "url": "https://open.spotify.com/track/5CT3zRd2FKM7F81KEacXIP"
+    },
+    {
+      "album": {
+        "name": "New World Depression",
+        "url": "https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130500,
+      "name": "Thorns",
+      "url": "https://open.spotify.com/track/1zUqoSVqUE2O5x3MJ0mHz9"
     },
     {
       "album": {
@@ -13845,6 +14039,32 @@
     },
     {
       "album": {
+        "name": "Wanna Be (Remix Alternate Versions)",
+        "url": "https://open.spotify.com/album/2YhNUDVeFFJshlJDkppXY6"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Wanna Be (with Megan Thee Stallion & Cardi B) - Remix",
+      "url": "https://open.spotify.com/track/0LMNckdqhd2eQr5xV5NGRi"
+    },
+    {
+      "album": {
         "name": "Wanna Be (with Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/06VGCe5MitPzT9VuqH4u1C"
       },
@@ -13882,7 +14102,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 156444,
       "name": "Wanna Be (with Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/7mOC6phfrfz3jfigg1aGsE"
@@ -14254,6 +14474,46 @@
       "duration_ms": 173861,
       "name": "Where They At",
       "url": "https://open.spotify.com/track/0OI6FqVRdAFhWOBo4tq0UV"
+    },
+    {
+      "album": {
+        "name": "Where You Been",
+        "url": "https://open.spotify.com/album/1FIEL1JZTLWKqtfeo4GabA"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142146,
+      "name": "Where You Been",
+      "url": "https://open.spotify.com/track/6dnzsTXwAaJws8zGrTFSAS"
+    },
+    {
+      "album": {
+        "name": "SPEAK NOW",
+        "url": "https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161052,
+      "name": "WHISKEY WHISKEY (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/7hRLuo4QnzCsjICXUOhTE6"
     },
     {
       "album": {

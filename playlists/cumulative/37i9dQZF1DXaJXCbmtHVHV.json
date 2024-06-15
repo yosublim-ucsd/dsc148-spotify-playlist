@@ -804,7 +804,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 194440,
       "name": "Coal",
       "url": "https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g"
@@ -974,7 +974,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 208063,
       "name": "Cowboys and Plowboys",
       "url": "https://open.spotify.com/track/1YfyfFBZ7cY7wgwtZEq3tf"
@@ -2261,6 +2261,24 @@
     },
     {
       "album": {
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178440,
+      "name": "Halfway To Hell",
+      "url": "https://open.spotify.com/track/1fAeFPXsX08Ovnn9iV1x27"
+    },
+    {
+      "album": {
         "name": "Handle On You",
         "url": "https://open.spotify.com/album/65UKRbP97zWe5gBZ48jBkR"
       },
@@ -2634,6 +2652,24 @@
       "duration_ms": 169306,
       "name": "I Can't Love You Anymore",
       "url": "https://open.spotify.com/track/4tKtMWS8LZRvWhzuHKRIdr"
+    },
+    {
+      "album": {
+        "name": "Into The Neon",
+        "url": "https://open.spotify.com/album/4x2LrG46EWrM6jkCie0YuU"
+      },
+      "artists": [
+        {
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192773,
+      "name": "I Could Be That Rain",
+      "url": "https://open.spotify.com/track/7fBDo5rkKphtAqiDc21wWH"
     },
     {
       "album": {

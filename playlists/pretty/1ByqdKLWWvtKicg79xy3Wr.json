@@ -6,8 +6,204 @@
     "name": "RDGO",
     "url": "https://open.spotify.com/user/rgonzalez196"
   },
-  "snapshot_id": "AAAGDESmYCKEZLh5yjHrI4Sgs874ab7u",
+  "snapshot_id": "AAAGElLgh/9sHnPi14kzlymRNBkb36lO",
   "tracks": [
+    {
+      "added_at": "2024-06-14 16:16:54",
+      "album": {
+        "name": "Tell Me What You Want",
+        "url": "https://open.spotify.com/album/4rd5c66hQdMosQrB7O7zHi"
+      },
+      "artists": [
+        {
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "duration_ms": 160314,
+      "name": "Tell Me What You Want",
+      "url": "https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq"
+    },
+    {
+      "added_at": "2024-06-14 16:16:54",
+      "album": {
+        "name": "Back Together (feat. Ron Carroll)",
+        "url": "https://open.spotify.com/album/6UAsBOuRtgAy0MMlTPOS7Z"
+      },
+      "artists": [
+        {
+          "name": "Hardsoul",
+          "url": "https://open.spotify.com/artist/1pOxKVLc0EXgcOSqyWOlKi"
+        },
+        {
+          "name": "Ron Carroll",
+          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
+        }
+      ],
+      "duration_ms": 502286,
+      "name": "Back Together (feat. Ron Carroll) - Classic Mix",
+      "url": "https://open.spotify.com/track/1PH8at6E0jy3rFPH66aH9m"
+    },
+    {
+      "added_at": "2024-06-14 16:16:54",
+      "album": {
+        "name": "Out The Fire (At The Hotel)",
+        "url": "https://open.spotify.com/album/7n456SX833Pv7NyjcZoLis"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        },
+        {
+          "name": "Ros T",
+          "url": "https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO"
+        },
+        {
+          "name": "Eunice Collins",
+          "url": "https://open.spotify.com/artist/0gr9XCDIeAGLE77V58XLyN"
+        }
+      ],
+      "duration_ms": 214687,
+      "name": "Out The Fire (At The Hotel) - Radio Edit",
+      "url": "https://open.spotify.com/track/1xZOYV0Z6i7z0nAnyL1zmT"
+    },
+    {
+      "added_at": "2024-06-14 16:16:54",
+      "album": {
+        "name": "Prince Charming EP",
+        "url": "https://open.spotify.com/album/0OBW1NDnJocNTyHulHRKXe"
+      },
+      "artists": [
+        {
+          "name": "Kyle Walker",
+          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
+        }
+      ],
+      "duration_ms": 154692,
+      "name": "Whateva",
+      "url": "https://open.spotify.com/track/5eKhgfKyFAfZDosK6KCa17"
+    },
+    {
+      "added_at": "2024-06-14 16:16:54",
+      "album": {
+        "name": "Lady Love",
+        "url": "https://open.spotify.com/album/6XGxAqDf3339vdyvHKuUhh"
+      },
+      "artists": [
+        {
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        },
+        {
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+        }
+      ],
+      "duration_ms": 174524,
+      "name": "Lady Love",
+      "url": "https://open.spotify.com/track/3ACTBfO2gL0RY2a3Eb5kY5"
+    },
+    {
+      "added_at": "2024-06-14 16:16:54",
+      "album": {
+        "name": "RAW EP",
+        "url": "https://open.spotify.com/album/1ZWwjrnhtz8V1QIScYEXEK"
+      },
+      "artists": [
+        {
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        },
+        {
+          "name": "THEOS",
+          "url": "https://open.spotify.com/artist/1hfqK3rF48A3CDcV8SAiyM"
+        },
+        {
+          "name": "Queen Rose",
+          "url": "https://open.spotify.com/artist/4ffLGz2xBwZ8DELkCT0T4h"
+        }
+      ],
+      "duration_ms": 214749,
+      "name": "Set You Free (feat. Queen Rose)",
+      "url": "https://open.spotify.com/track/34cdkQW4SdWcX1K5v8G2FP"
+    },
+    {
+      "added_at": "2024-06-14 16:16:54",
+      "album": {
+        "name": "In the Park / Snakes",
+        "url": "https://open.spotify.com/album/2BEW4mDyxZP2BnyHbEx8xo"
+      },
+      "artists": [
+        {
+          "name": "Marco Strous",
+          "url": "https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i"
+        }
+      ],
+      "duration_ms": 180175,
+      "name": "Snakes",
+      "url": "https://open.spotify.com/track/55UzdLZm87ES1oxIo7KIvj"
+    },
+    {
+      "added_at": "2024-06-14 16:16:54",
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/4G7AnMXZWjAHwPUjmRCWx6"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 165146,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/4xULQ1OH1Rm5EpMhuEWULl"
+    },
+    {
+      "added_at": "2024-06-14 16:16:54",
+      "album": {
+        "name": "Across Ocean",
+        "url": "https://open.spotify.com/album/7GJI5AwSmfMlJIlcK5Sd3P"
+      },
+      "artists": [
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        },
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "duration_ms": 211884,
+      "name": "Seeing & Believing - Kolter Remix",
+      "url": "https://open.spotify.com/track/5ofPzkJ57L6IWXPmnb4f0C"
+    },
+    {
+      "added_at": "2024-06-14 16:16:54",
+      "album": {
+        "name": "TIMELESS",
+        "url": "https://open.spotify.com/album/4kPTj6wYQUYtgBOZb1E6Pg"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Dawn Richard",
+          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
+        }
+      ],
+      "duration_ms": 196101,
+      "name": "Hold On (feat. Dawn Richard)",
+      "url": "https://open.spotify.com/track/0ZsXgTAEQYa1dMWoB4GUgo"
+    },
     {
       "added_at": "2024-06-11 08:01:27",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 
 > Even through heartbreak and pain, God’s love remains\. Here are songs that cover the crossroads of hope and heartbreak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,738 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,749 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,10 +76,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 | 66 | [Love You, Still](https://open.spotify.com/track/7hsWnD0nwuMp9hRACCtdm8) | [Andrew Osenga](https://open.spotify.com/artist/1lJC5MbTUW5ld4yXzNB0H4), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [Love You, Still](https://open.spotify.com/album/5fYsh7JcLm4oIA5N5dkG1f) | 5:07 |
 | 67 | [TAKE A CHANCE](https://open.spotify.com/track/27j28hzT9pzB0rx2lJR5u8) | [Spencer Kane](https://open.spotify.com/artist/6wRBVb1TqANRmxpqP7FKtb) | [TAKE A CHANCE](https://open.spotify.com/album/3hXhvsQ8LkRvFHlFyyd6Py) | 2:29 |
 | 68 | [Heaven Is Too Far Away](https://open.spotify.com/track/6iNjeRwNNyRiJQ0RGQiz7s) | [Shelly E\. Johnson](https://open.spotify.com/artist/51ivlzD9Vuy7pi21E3FF67) | [Heaven Is Too Far Away](https://open.spotify.com/album/5ntPNlQX5ElhcWELkkrBUj) | 6:23 |
-| 69 | [doing well](https://open.spotify.com/track/0Q6YrLKv9PUVcj4qfKewxB) | [LLC Flame](https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4) | [doing well](https://open.spotify.com/album/6kihcoNftMnN3IP66yuTnd) | 2:19 |
-| 70 | [Uncharted](https://open.spotify.com/track/4Sab6e6jf4wosrhWMynBYZ) | [Hannah Jewel](https://open.spotify.com/artist/48enPb9xT0Dj6zhg2aU61o) | [1:02](https://open.spotify.com/album/3qHbN5zSMTpGvMsG62iHNY) | 5:30 |
-| 71 | [Last Summer](https://open.spotify.com/track/14Oh5LNkLWLwfAjOb7fy6h) | [MvkeyyJ](https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB), [CAROLENA](https://open.spotify.com/artist/2wkSBnPx1Bh3sWfXNiFF1V) | [Last Summer](https://open.spotify.com/album/3H5SLdvYzz7ykaHvcyvQ7G) | 2:40 |
-| 72 | [Mender Of Broken Hearts](https://open.spotify.com/track/7LrTq9MG2jsGK5VWhEleLa) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Nothing But The Hits: Fred Hammond](https://open.spotify.com/album/0BrE1eS3LplGo2OnLPa2j4) | 5:00 |
+| 69 | [Uncharted](https://open.spotify.com/track/4Sab6e6jf4wosrhWMynBYZ) | [Hannah Jewel](https://open.spotify.com/artist/48enPb9xT0Dj6zhg2aU61o) | [1:02](https://open.spotify.com/album/3qHbN5zSMTpGvMsG62iHNY) | 5:30 |
+| 70 | [doing well](https://open.spotify.com/track/0Q6YrLKv9PUVcj4qfKewxB) | [LLC Flame](https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4) | [doing well](https://open.spotify.com/album/6kihcoNftMnN3IP66yuTnd) | 2:19 |
+| 71 | [Mender Of Broken Hearts](https://open.spotify.com/track/7LrTq9MG2jsGK5VWhEleLa) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Nothing But The Hits: Fred Hammond](https://open.spotify.com/album/0BrE1eS3LplGo2OnLPa2j4) | 5:00 |
+| 72 | [Last Summer](https://open.spotify.com/track/14Oh5LNkLWLwfAjOb7fy6h) | [MvkeyyJ](https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB), [CAROLENA](https://open.spotify.com/artist/2wkSBnPx1Bh3sWfXNiFF1V) | [Last Summer](https://open.spotify.com/album/3H5SLdvYzz7ykaHvcyvQ7G) | 2:40 |
 | 73 | [Just Hold On](https://open.spotify.com/track/7q5LTs2lW6kwp8UC2Da7W4) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [Just Hold On](https://open.spotify.com/album/48OhsxPMxadsXWxAj86IiZ) | 2:23 |
 | 74 | [With You Through It All](https://open.spotify.com/track/5qFEcVgJ8hxgSYkYDYZrnh) | [Savannah Locke](https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb) | [With You Through It All](https://open.spotify.com/album/1JZmkqZ73hsY63GKjeBH0g) | 3:48 |
 | 75 | [Just Say That](https://open.spotify.com/track/2IGS5KiDDnVtjw2d5NRILO) | [Spencer Kane](https://open.spotify.com/artist/6wRBVb1TqANRmxpqP7FKtb) | [Just Say That](https://open.spotify.com/album/6FCgl0Rkbx8OdUBTAk0x8V) | 2:01 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 | 85 | [Tell Me To Go](https://open.spotify.com/track/5XT4Jav7IcUirhKKSbxFj7) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a) | [Tell Me To Go](https://open.spotify.com/album/1eu7uuZ9dgJ3EVL7M1gnn7) | 1:51 |
 | 86 | [Somebody](https://open.spotify.com/track/37lNRW3CLtw08GcBtIlvoJ) | [Luke Alexander](https://open.spotify.com/artist/0aIaLxspYFrwb1GD3nOWY4), [Gabby Callwood](https://open.spotify.com/artist/7uggI2dtxS9l9fSUPp9ebG) | [Somebody](https://open.spotify.com/album/1FRvaZuaDcgvdwzYhsWiqh) | 2:41 |
 | 87 | [Ghosts](https://open.spotify.com/track/0MA3ooeTuRjMxF0IHgPeT4) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [Ghosts](https://open.spotify.com/album/7eoAw7Mk6wpc7RZG3WdJqW) | 3:12 |
-| 88 | [Memories \- Remastered](https://open.spotify.com/track/4zHq7tEb1aU14yBI3h48Dn) | [Audrey Marie](https://open.spotify.com/artist/5CMtW6hgiE5LKpoyEbDbnU) | [Illuminate](https://open.spotify.com/album/3gv6D5I0UO9vDypT3H9UbX) | 4:07 |
-| 89 | [That's On You](https://open.spotify.com/track/1JLDxMUQB6RRh7KtMkkF0f) | [Ilish](https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi) | [Love Parables](https://open.spotify.com/album/4SKqQVUdD8GGRDrQbz7Ls4) | 2:44 |
+| 88 | [That's On You](https://open.spotify.com/track/1JLDxMUQB6RRh7KtMkkF0f) | [Ilish](https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi) | [Love Parables](https://open.spotify.com/album/4SKqQVUdD8GGRDrQbz7Ls4) | 2:44 |
+| 89 | [Memories \- Remastered](https://open.spotify.com/track/4zHq7tEb1aU14yBI3h48Dn) | [Audrey Marie](https://open.spotify.com/artist/5CMtW6hgiE5LKpoyEbDbnU) | [Illuminate](https://open.spotify.com/album/3gv6D5I0UO9vDypT3H9UbX) | 4:07 |
 | 90 | [Like That](https://open.spotify.com/track/3pLDuAz6GEFNnGWVfX6KSO) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [Like That](https://open.spotify.com/album/4lIL3O7bwzUsG036jsXr4A) | 3:21 |
 | 91 | [HOLD ON 2.0](https://open.spotify.com/track/2OiV9yy6TuGrEDCkWeXFCD) | [AJ Crips](https://open.spotify.com/artist/1Inb5PAkUOS1lxSr8WoQ34) | [HOLD ON 2.0](https://open.spotify.com/album/2WcjKD1KdlcM4BXmGhk2YH) | 3:04 |
 | 92 | [Good Parts](https://open.spotify.com/track/1pMf7KYlEZPtc0lhUaAGBh) | [Levi Mitchell](https://open.spotify.com/artist/2lm3ISdfvGLIqhp9roRcdr) | [Good Parts](https://open.spotify.com/album/3Wk3wyZuXvi0ODAZgDogc6) | 2:15 |

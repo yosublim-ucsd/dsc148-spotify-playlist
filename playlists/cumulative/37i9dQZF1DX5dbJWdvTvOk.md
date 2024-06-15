@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-699 songs - 1 day 5 hr 46 min
+701 songs - 1 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [Hold Back The River](https://open.spotify.com/track/52X6M2Kp4HvpHup3tafEF5) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [Hold Back The River](https://open.spotify.com/album/4mUjWwSGmnqzhLzTgqa3mH) | 2:28 | 2023-02-24 | 2023-04-22 |
 | [Homage](https://open.spotify.com/track/71tfqdOmLGrICla4lRpBAS) | [Matthew Everwood](https://open.spotify.com/artist/7C69ACEOoF0mqZxylAevY7) | [Homage](https://open.spotify.com/album/3hRzOvbFJZEx7zpAq3kHjd) | 1:40 | 2023-04-21 | 2023-05-13 |
 | [Homebound](https://open.spotify.com/track/3fZolWbWofhjyFDQXWL0T3) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Homebound](https://open.spotify.com/album/36VPh59fnClN38LLdlgHnU) | 2:24 | 2022-07-15 | 2023-04-22 |
+| [Horizons](https://open.spotify.com/track/3blZZtbNZsv7GR1x2PWkYc) | [Phil Stent](https://open.spotify.com/artist/1E1Kt5Hh9SbIGSTb8tyU8G) | [Horizons](https://open.spotify.com/album/2Si9bFcCwJOPPxnPDoYetT) | 1:56 | 2024-06-14 |  |
 | [Horizonte Tranquilo](https://open.spotify.com/track/1kPz0CM7h5yaQh7ctGV9r6) | [Emanuel Costa](https://open.spotify.com/artist/6iQweq1LCgRS4IEuTzRHQJ) | [Horizonte Tranquilo](https://open.spotify.com/album/3F8rQfhgRWroSrid5gar5M) | 1:41 | 2023-04-21 | 2023-08-26 |
 | [Hou Van Me](https://open.spotify.com/track/5uqwPOIOyFuvtx5e9JfEF0) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Hou Van Me](https://open.spotify.com/album/4amTpNx67WVG3tGQ6DrBPr) | 2:10 | 2023-04-21 |  |
 | [Hours](https://open.spotify.com/track/3Eg3XbufTuk9LWhkSobKlX) | [Steve D](https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW) | [Hours](https://open.spotify.com/album/35N058QZy4FlJheUK0QLEh) | 2:07 | 2023-12-15 |  |
@@ -326,6 +327,7 @@
 | [L'amour au quotidien](https://open.spotify.com/track/48ny2v2vWno2OfQCmAFg91) | [Adone Alleva](https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq) | [L'amour au quotidien](https://open.spotify.com/album/0OOasuBJBlp4qfmuuHIelf) | 2:01 | 2023-04-21 |  |
 | [La Cascata](https://open.spotify.com/track/1BZLT1iTsTy1IpstmYE6PI) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [La Cascata](https://open.spotify.com/album/7tQWWgdBbI5n2K27VmQiMy) | 2:11 | 2022-07-29 | 2024-04-03 |
 | [La Fenice](https://open.spotify.com/track/1x8cTmOxmRcRmySayLAJ9C) | [Matthias Trapp](https://open.spotify.com/artist/5WKLrD3PamTJ6XPLeI3CXg) | [La Fenice](https://open.spotify.com/album/50dvR7Lo3Ir9wMOfpiby3Y) | 2:39 | 2024-01-12 |  |
+| [La llegada de la primavera](https://open.spotify.com/track/1bk2bPAAFZGlaQE4uNxn3V) | [Alonso Librado](https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0) | [La llegada de la primavera](https://open.spotify.com/album/1q4vVhaVCoh9bNzs9ZhPkq) | 2:06 | 2024-06-14 |  |
 | [La Nostalgia](https://open.spotify.com/track/0LPw0eHj4ZzgFoWBNkKMPM) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [José Isidoro](https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz) | [La Nostalgia](https://open.spotify.com/album/7qt3oe7jbO84iozNWFpb4e) | 3:38 | 2022-08-19 | 2023-04-22 |
 | [La Suerte Llegará](https://open.spotify.com/track/6kkupWXVg8I0XjbCbx7lHu) | [Alonso Librado](https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0) | [La Suerte Llegará](https://open.spotify.com/album/1kGSX1V9qlLqa51ldvn9TR) | 2:25 | 2022-07-15 | 2022-09-23 |
 | [La Venue](https://open.spotify.com/track/17Z6iT4BizcR7BnqqBrzTi) | [Marina Portier](https://open.spotify.com/artist/5eY2S3YgZLBtyyEBgP9m7z) | [La Venue](https://open.spotify.com/album/0eGdnNpMq1wzNMtLICDSHZ) | 1:48 | 2023-05-12 | 2023-08-26 |
@@ -412,7 +414,7 @@
 | [Monteverde](https://open.spotify.com/track/7x04qsGEUv26a7gaOE2BsB) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Monteverde](https://open.spotify.com/album/0fYsEA210VvjfSWxQbgLNb) | 2:11 | 2023-04-21 |  |
 | [Moon Hearts](https://open.spotify.com/track/6iC68UqmwcLfceDrhFdE69) | [Remy Simon](https://open.spotify.com/artist/0ExT57wmZSDy4h6wT1AGqs) | [Moon Hearts](https://open.spotify.com/album/4m6Vz7DuJL1u4ezzqHZbOt) | 2:48 | 2023-04-21 | 2023-09-01 |
 | [More than this](https://open.spotify.com/track/4mnfj436ikMOudVg4QEPsj) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [More than this](https://open.spotify.com/album/5u06wlVmeF3Zl6NJReboo8) | 2:39 | 2024-01-12 |  |
-| [Morgensonne](https://open.spotify.com/track/3ozSKHP42w2mYbkmqEnfOq) | [Aurelius Schmidt](https://open.spotify.com/artist/4DRJD1JI9CaeeHH9LrkzbY) | [Sandrina](https://open.spotify.com/album/6Is2bPoXegoPbnYTzVD7nB) | 2:26 | 2022-07-15 |  |
+| [Morgensonne](https://open.spotify.com/track/3ozSKHP42w2mYbkmqEnfOq) | [Aurelius Schmidt](https://open.spotify.com/artist/4DRJD1JI9CaeeHH9LrkzbY) | [Sandrina](https://open.spotify.com/album/6Is2bPoXegoPbnYTzVD7nB) | 2:26 | 2022-07-15 | 2024-06-15 |
 | [Morgensonne](https://open.spotify.com/track/1DVehVLP2YEOGjFgUl4DE0) | [Dominik Buchheim](https://open.spotify.com/artist/7e8fzJdZ6xHzokB2aGULSA) | [Morgensonne](https://open.spotify.com/album/1oAeUw1cBcoek76UVXFRer) | 3:03 | 2022-07-15 | 2023-03-31 |
 | [Morning Dew](https://open.spotify.com/track/0dhPf7uQVTl63JOFCaYsJD) | [Dorothy Laddland](https://open.spotify.com/artist/4faFJj7Vro57tVaN6Q8p3I) | [Morning Dew](https://open.spotify.com/album/1ycPHmmIrXmVYkpdOtKQU9) | 1:52 | 2023-06-02 | 2023-08-26 |
 | [Morongo Basin](https://open.spotify.com/track/2PDKauWWq2aICXQ4jlzA53) | [Carlo Castilla](https://open.spotify.com/artist/3mI0smMNTM9eIfd4EHXYLR) | [Morongo Basin](https://open.spotify.com/album/50yIELzJpSucPRD1OEoDbX) | 2:37 | 2023-08-10 |  |
@@ -518,7 +520,7 @@
 | [Saint Valentine](https://open.spotify.com/track/1rIOkUQTk0LH9UM6tdRlFR) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Saint Valentine](https://open.spotify.com/album/1MbqX2EtuO7SnLnrKzEnkv) | 1:52 | 2022-07-15 | 2023-04-22 |
 | [Salamanca](https://open.spotify.com/track/53AY7g9X2UhBbDZDCFnc3f) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Salamanca](https://open.spotify.com/album/5RmmprgbPa4o0WlIoJFw5g) | 2:34 | 2023-04-21 | 2023-11-28 |
 | [Salt of the earth](https://open.spotify.com/track/4CqfpazHWTsvO1AiSrtfwl) | [Meg Stiles](https://open.spotify.com/artist/6azAZkeJXuyfeAMVQ3YwU8) | [Salt of the Earth](https://open.spotify.com/album/2ilAYRZfti1IwkWeoTVNC1) | 3:02 | 2022-07-15 | 2023-04-22 |
-| [Salut Sandro](https://open.spotify.com/track/2amfLm3CsTQT3OBlqpXh0M) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Salut Sandro](https://open.spotify.com/album/4LxIkpbfjtgmw3Sle1ffAg) | 2:49 | 2023-04-21 |  |
+| [Salut Sandro](https://open.spotify.com/track/2amfLm3CsTQT3OBlqpXh0M) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Salut Sandro](https://open.spotify.com/album/4LxIkpbfjtgmw3Sle1ffAg) | 2:49 | 2023-04-21 | 2024-06-15 |
 | [San Gervasi](https://open.spotify.com/track/6nH1eo4LuuJisJ4m8Blw2h) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [San Gervasi](https://open.spotify.com/album/27DWEE5aDyLTksMdhueuM8) | 2:30 | 2022-07-15 | 2023-04-22 |
 | [san luca](https://open.spotify.com/track/5HBOzyGyihD8KEptCOoxxu) | [Valery Isabel](https://open.spotify.com/artist/4QYwsnE0bbhWxuyUbSFnZR) | [purple dreams](https://open.spotify.com/album/3ofKSAH3DgolDBcU1IaWCs) | 3:06 | 2022-07-15 | 2023-03-11 |
 | [San Tropez](https://open.spotify.com/track/2RjR06sl1N1GVii5Vts7TP) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [San Tropez](https://open.spotify.com/album/7hYM36cQRk7nHmb01n54ts) | 2:22 | 2023-02-24 | 2023-04-22 |

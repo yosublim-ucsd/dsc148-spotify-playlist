@@ -1,12 +1,12 @@
 {
   "description": "Groovy, dancy, funky stuff. When in doubt, turn this on at the party.\n",
-  "num_followers": 317358,
+  "num_followers": 317403,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZiH6UAAAAACD7AMcQJI2b2VjqYypbAV0",
+  "snapshot_id": "ZmvUjAAAAACzO3hb6+xXcq4NXGHWa89F",
   "tracks": [
     {
       "added_at": "2024-02-16 18:16:21",
@@ -403,6 +403,22 @@
       "duration_ms": 218926,
       "name": "Keeping Me Under",
       "url": "https://open.spotify.com/track/79ZQoLroAAQYHM9sJ1kbGh"
+    },
+    {
+      "added_at": "2024-06-14 05:26:36",
+      "album": {
+        "name": "Electric U",
+        "url": "https://open.spotify.com/album/5ZHpLNkTHkhNhuDwQbpFwY"
+      },
+      "artists": [
+        {
+          "name": "Kid Bloom",
+          "url": "https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P"
+        }
+      ],
+      "duration_ms": 171696,
+      "name": "Electric U",
+      "url": "https://open.spotify.com/track/1h3ODYcDJly0H53W2Ai42Q"
     },
     {
       "added_at": "2024-02-16 18:16:21",
@@ -887,26 +903,6 @@
       "duration_ms": 152181,
       "name": "Let's go to Hell",
       "url": "https://open.spotify.com/track/38XLUjlR84JEwK0SOvX77a"
-    },
-    {
-      "added_at": "2024-02-16 18:16:21",
-      "album": {
-        "name": "elated!",
-        "url": "https://open.spotify.com/album/1bddkQczuUlV4e4MW2SOO1"
-      },
-      "artists": [
-        {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
-        },
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        }
-      ],
-      "duration_ms": 207327,
-      "name": "FEEL SOMETHING DIFFERENT",
-      "url": "https://open.spotify.com/track/5STe0hPlbFwIk0OkjNRJLa"
     }
   ],
   "unique_name": "Soir\u00e9e",

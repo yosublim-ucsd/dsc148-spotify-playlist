@@ -182,7 +182,7 @@
       ],
       "date_added": "2019-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 193293,
       "name": "All You Had To Do Was Stay",
       "url": "https://open.spotify.com/track/0dAb8TY433dl3ZfXYCLE19"
@@ -1058,7 +1058,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 227346,
       "name": "Call Your Girlfriend",
       "url": "https://open.spotify.com/track/2sCoROOlNQyFpRQEe6A5lv"
@@ -2102,7 +2102,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 168668,
       "name": "Eras Of Us",
       "url": "https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi"
@@ -4547,6 +4547,24 @@
     },
     {
       "album": {
+        "name": "Joyride",
+        "url": "https://open.spotify.com/album/381H6bOpR27wcH5lqGv5FA"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Joyride",
+      "url": "https://open.spotify.com/track/6n8KUQZOne1iMIyJYhWUrj"
+    },
+    {
+      "album": {
         "name": "A Moment Apart (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4MRcN8PhMhBe84tcPLe2QJ"
       },
@@ -5015,6 +5033,24 @@
     },
     {
       "album": {
+        "name": "The Lost Ones",
+        "url": "https://open.spotify.com/album/67vln5FBToyFmc5IML4aSm"
+      },
+      "artists": [
+        {
+          "name": "Florrie",
+          "url": "https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197746,
+      "name": "Looking for Love",
+      "url": "https://open.spotify.com/track/2mnpxgYxvU3cx8EQtY8cuU"
+    },
+    {
+      "album": {
         "name": "Looks Like Me",
         "url": "https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M"
       },
@@ -5230,6 +5266,24 @@
       "duration_ms": 212660,
       "name": "Love Me More",
       "url": "https://open.spotify.com/track/4PUT0cH2iggaje5hTJZeGe"
+    },
+    {
+      "album": {
+        "name": "Love Me Not / Love Is Blind",
+        "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213460,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
     },
     {
       "album": {

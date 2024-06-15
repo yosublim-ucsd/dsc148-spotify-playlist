@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto: Bruna Olly",
+  "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto: Isadora Pompeo",
   "name": "Mulheres do Gospel",
   "tracks": [
     {
@@ -872,7 +872,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 301395,
       "name": "Dependente",
       "url": "https://open.spotify.com/track/7ilMa9uRyjoVqqRhAYcsax"
@@ -1162,7 +1162,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 290080,
       "name": "Deus Faz Al\u00e9m - Ao Vivo",
       "url": "https://open.spotify.com/track/5tteTRlti30bR43W34YYbQ"
@@ -2969,6 +2969,24 @@
     },
     {
       "album": {
+        "name": "O C\u00e9u Se Abre",
+        "url": "https://open.spotify.com/album/1F6n140GLrPVRY40AJzecK"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "O C\u00e9u Se Abre",
+      "url": "https://open.spotify.com/track/1rr7OQMrPZjktRVfUOYnxd"
+    },
+    {
+      "album": {
         "name": "O Deus dos Pequeninos",
         "url": "https://open.spotify.com/album/0xRgeruz1NjwaL67PxOo4h"
       },
@@ -3376,6 +3394,24 @@
       "duration_ms": 304400,
       "name": "Outra Vez",
       "url": "https://open.spotify.com/track/4tjvxMkJlHPPJ2hRDU2jYg"
+    },
+    {
+      "album": {
+        "name": "Ovelhinha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7mSTc7HSnNJ4mu41Vvmo3y"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276453,
+      "name": "Ovelhinha (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2lKiWWoeqOHhXwyZT8flw6"
     },
     {
       "album": {
@@ -4140,7 +4176,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 290481,
       "name": "Sou Teu Deus",
       "url": "https://open.spotify.com/track/2JtIKFOdjw85nEgKqVK9Gn"
@@ -4234,10 +4270,28 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 380800,
       "name": "Teu Falar - Ao Vivo",
       "url": "https://open.spotify.com/track/77FLekaTNuBaH84ZQX2dzU"
+    },
+    {
+      "album": {
+        "name": "Toda Terra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0xU9l010M4DiRiM0E8CWDt"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 519302,
+      "name": "Toda Terra - Ao Vivo",
+      "url": "https://open.spotify.com/track/409bxok0eao5dfqJfL3Mot"
     },
     {
       "album": {
@@ -4426,6 +4480,24 @@
       "duration_ms": 248768,
       "name": "T\u00e1 Chorando Por Qu\u00ea?",
       "url": "https://open.spotify.com/track/2jHJlzo6TYxqmMufgMDWBl"
+    },
+    {
+      "album": {
+        "name": "T\u00e3o Bom Pra Mim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4XbTXkGhSs2ojN7exXEAtV"
+      },
+      "artists": [
+        {
+          "name": "Nathalia Valencia",
+          "url": "https://open.spotify.com/artist/09joQAVJ6oGbQdpTVjM2DK"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 496326,
+      "name": "T\u00e3o Bom Pra Mim - Ao Vivo",
+      "url": "https://open.spotify.com/track/2hleq4c5eQhYAZVicg6NT8"
     },
     {
       "album": {

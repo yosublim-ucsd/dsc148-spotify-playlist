@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 
 ### [This Is Arch Enemy](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0jmCg8)
 
-> This is Arch Enemy\. The essential tracks, all in one playlist.
+> This is Arch Enemy\. Track\-track unggulan, semuanya dalam satu playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,501 likes - 48 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,532 likes - 48 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 | 47 | [The Last Enemy](https://open.spotify.com/track/2PZLY7ybYMSzbk5WjKGF35) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Rise of the Tyrant](https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl) | 4:15 |
 | 48 | [Shout \- cover version](https://open.spotify.com/track/4iXZ643ujlB8soiF34XTZG) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Covered In Blood](https://open.spotify.com/album/7LfAQgQQISJJRTfgcDxVQS) | 4:45 |
 
-Snapshot ID: `ZmjlAAAAAACWXZQhomAVvSBJKn/WwE3H`
+Snapshot ID: `Zmo2gAAAAABo2YBABm1N+JotDtXsAkNE`

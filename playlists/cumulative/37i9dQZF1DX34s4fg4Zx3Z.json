@@ -1066,7 +1066,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 187495,
       "name": "AMATERASU",
       "url": "https://open.spotify.com/track/0iBlQqIH3Lx9MgCjQf9maI"
@@ -3618,7 +3618,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 251419,
       "name": "B\u00f3ng M\u00e2y",
       "url": "https://open.spotify.com/track/5gYqd158iCUmi4d6gFpZdF"
@@ -11893,6 +11893,24 @@
     },
     {
       "album": {
+        "name": "hard to forget",
+        "url": "https://open.spotify.com/album/3i2ewi2IT4Nq0PjrU1lv4H"
+      },
+      "artists": [
+        {
+          "name": "qt.",
+          "url": "https://open.spotify.com/artist/2PZrzgPEzozv50Ccu7f3ld"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226197,
+      "name": "hard to forget",
+      "url": "https://open.spotify.com/track/1xkL3yiUk8oVQYRV5TnsOF"
+    },
+    {
+      "album": {
         "name": "Hay L\u00e0 Em Gi\u1ea3 V\u1edd Th\u01b0\u01a1ng Anh \u0110i",
         "url": "https://open.spotify.com/album/008Nq0KZybbkOanFyiEvr0"
       },
@@ -13368,6 +13386,24 @@
       "duration_ms": 125457,
       "name": "INFATUATED (saydam)",
       "url": "https://open.spotify.com/track/2LQ02WYH6qL4PTOT3lxEh1"
+    },
+    {
+      "album": {
+        "name": "inner child",
+        "url": "https://open.spotify.com/album/2My7UBbmEUvh853ruVFFxt"
+      },
+      "artists": [
+        {
+          "name": "Sweet Liquor",
+          "url": "https://open.spotify.com/artist/2s2AP9Bj9ltYjB9XIbGr0e"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216923,
+      "name": "inner child",
+      "url": "https://open.spotify.com/track/5HKVz1AlprFBv9aWN5bBlx"
     },
     {
       "album": {
@@ -15684,7 +15720,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 266657,
       "name": "L\u00e0 T\u1eeb L\u00fac",
       "url": "https://open.spotify.com/track/1fgzQI6AtswiR0JMXulldH"
@@ -20637,6 +20673,24 @@
     },
     {
       "album": {
+        "name": "NOISE",
+        "url": "https://open.spotify.com/album/3N8Y74ypPwTQUjuKeL6E0C"
+      },
+      "artists": [
+        {
+          "name": "Niz",
+          "url": "https://open.spotify.com/artist/5iLsTjgsYTcbjkRJXrNMeS"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165075,
+      "name": "NOISE",
+      "url": "https://open.spotify.com/track/68J3rvCgpncWs4Or0fE5Ol"
+    },
+    {
+      "album": {
         "name": "NOIVOIANH",
         "url": "https://open.spotify.com/album/1Bgk336Ij6myaDodxkywSr"
       },
@@ -23159,6 +23213,24 @@
     },
     {
       "album": {
+        "name": "R\u1ed3i Ta S\u1ebd Th\u1eadt H\u1ea1nh Ph\u00fac",
+        "url": "https://open.spotify.com/album/5Xh9BwBh8EKZUg34wsxosm"
+      },
+      "artists": [
+        {
+          "name": "Linh",
+          "url": "https://open.spotify.com/artist/713suxZd6j7VN9OwVeBsBv"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238285,
+      "name": "R\u1ed3i Ta S\u1ebd Th\u1eadt H\u1ea1nh Ph\u00fac",
+      "url": "https://open.spotify.com/track/4FPAP98XzDzAF1po9s8lyv"
+    },
+    {
+      "album": {
         "name": "R\u1ed3i \u0110\u00f4ng S\u1ebd T\u00e0n",
         "url": "https://open.spotify.com/album/60LnJlzjHrweePkSjPTvLy"
       },
@@ -23594,7 +23666,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 140210,
       "name": "Sau Nh\u1eefng L\u1ea7n \u0110au - Remake",
       "url": "https://open.spotify.com/track/6DXlafxUhuXiRZah0yDP6t"
@@ -24424,6 +24496,24 @@
       "duration_ms": 168908,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/3d5tHqHAxHSrixVdQDvvv2"
+    },
+    {
+      "album": {
+        "name": "sunset by the ocean",
+        "url": "https://open.spotify.com/album/1c7bUSeVGaVcUP5HCMQZ61"
+      },
+      "artists": [
+        {
+          "name": "blackvelvetz",
+          "url": "https://open.spotify.com/artist/3LM41UKgiR9khIkg8FS1k3"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139827,
+      "name": "sunset by the ocean",
+      "url": "https://open.spotify.com/track/0hBEDJakp3Qa2Sg441PVF6"
     },
     {
       "album": {
@@ -27464,7 +27554,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 176453,
       "name": "tr\u00f4i \u00eam",
       "url": "https://open.spotify.com/track/3w3r0pFAVTZ1TyRFDx1dyU"
@@ -28272,7 +28362,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 225714,
       "name": "t\u00ecnh y\u00eau say \u0111\u1ea5m",
       "url": "https://open.spotify.com/track/6ZIZC6eeaIrAl137VK3U6S"
@@ -28508,6 +28598,24 @@
       "duration_ms": 282860,
       "name": "T\u1ea1i Sao Ta Kh\u00f4ng Gi\u1eef L\u1ea5y",
       "url": "https://open.spotify.com/track/4GeNbxdsWEq9ECRC2WouSl"
+    },
+    {
+      "album": {
+        "name": "T\u1ea1m Bi\u1ec7t Nh\u00e9 Th\u1ebf Gi\u1edbi C\u1ee7a T\u00f4i",
+        "url": "https://open.spotify.com/album/2m7DIJnOLsOcZasjQP2eFX"
+      },
+      "artists": [
+        {
+          "name": "Longg",
+          "url": "https://open.spotify.com/artist/25PilakcHJVYBi2onpxxtI"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225610,
+      "name": "T\u1ea1m Bi\u1ec7t Nh\u00e9 Th\u1ebf Gi\u1edbi C\u1ee7a T\u00f4i",
+      "url": "https://open.spotify.com/track/4cx7kDz8Y6HMZiRrMwKdkG"
     },
     {
       "album": {

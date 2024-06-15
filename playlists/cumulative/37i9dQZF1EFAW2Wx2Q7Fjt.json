@@ -573,6 +573,24 @@
     },
     {
       "album": {
+        "name": "darkside",
+        "url": "https://open.spotify.com/album/7hr4L6MfvYhgRY2koFzjxC"
+      },
+      "artists": [
+        {
+          "name": "Amy Allen",
+          "url": "https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186874,
+      "name": "darkside",
+      "url": "https://open.spotify.com/track/1NcDHSTO3nwTEsHH1V4iwT"
+    },
+    {
+      "album": {
         "name": "Difficult",
         "url": "https://open.spotify.com/album/4flPdmSeK3DAaiSduOVd2q"
       },

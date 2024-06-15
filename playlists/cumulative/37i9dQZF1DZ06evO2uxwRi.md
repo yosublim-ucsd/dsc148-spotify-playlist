@@ -2,7 +2,7 @@
 
 ### [This Is New Found Glory](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2uxwRi)
 
-> This is New Found Glory\. The essential tracks, all in one playlist.
+> This Is New Found Glory\. Los temas esenciales, todos en una lista.
 
 85 songs - 4 hr 41 min
 
@@ -47,7 +47,7 @@
 | [I Don't Wanna Know](https://open.spotify.com/track/0w0EyGiutPSyk0RC51ZGN3) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Catalyst](https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy) | 3:30 | 2024-06-06 | 2024-06-14 |
 | [I Don't Want To Miss A Thing](https://open.spotify.com/track/29LXlpqEptO2obuA2FC4HU) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo](https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl) | 2:30 | 2024-02-13 |  |
 | [Iris](https://open.spotify.com/track/1GKdDBOZfhi29h8jEE94pM) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo, Pt\. II](https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp) | 3:15 | 2022-09-16 |  |
-| [It's Been A Summer](https://open.spotify.com/track/4HlCd3nabvTxmR2VDNUt05) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks And Stones](https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8) | 3:32 | 2022-09-19 |  |
+| [It's Been A Summer](https://open.spotify.com/track/4HlCd3nabvTxmR2VDNUt05) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks And Stones](https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8) | 3:32 | 2022-09-19 | 2024-06-15 |
 | [It's Not Your Fault](https://open.spotify.com/track/6mWaIL3wd4XtxBZlvams5f) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Coming Home](https://open.spotify.com/album/1rRe0RrLHXpYhOSQeiGgGK) | 3:37 | 2022-09-16 |  |
 | [King Of Wishful Thinking](https://open.spotify.com/track/4hnNT1qx5OpLgdMVDochHI) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo, Pt\. II](https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp) | 3:40 | 2022-09-16 |  |
 | [Kiss Me](https://open.spotify.com/track/3Tm90zTQXKVR2q0KBXgC46) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo, Pt\. II](https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp) | 2:55 | 2022-09-16 |  |
@@ -58,7 +58,7 @@
 | [More And More](https://open.spotify.com/track/2pMW7BEZ4zkrESmv7bFjUQ) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Forever And Ever x Infinity](https://open.spotify.com/album/5D58CIPr9CUqBowJF5jNnJ) | 4:10 | 2022-09-16 | 2022-10-13 |
 | [More Than Enough](https://open.spotify.com/track/6ZH9FOxVmrA0Cmmrszh0jx) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Make The Most Of It](https://open.spotify.com/album/6Dbr1h4wgGml15jhfBmXsA) | 3:42 | 2023-01-22 | 2024-02-14 |
 | [Mouth to Mouth](https://open.spotify.com/track/65aqwAYrWYPVftgfV1xEz1) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Make The Most Of It](https://open.spotify.com/album/6Dbr1h4wgGml15jhfBmXsA) | 4:12 | 2023-01-22 | 2023-06-02 |
-| [My Friends Over You](https://open.spotify.com/track/4pImG3RdbaGfanzQOTFgyr) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks And Stones](https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8) | 3:40 | 2022-09-16 | 2024-06-14 |
+| [My Friends Over You](https://open.spotify.com/track/4pImG3RdbaGfanzQOTFgyr) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks And Stones](https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8) | 3:40 | 2022-09-16 |  |
 | [My Heart Will Go On](https://open.spotify.com/track/1WVtn3yjabxY2016Lv96Ma) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo](https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl) | 3:03 | 2022-09-16 |  |
 | [Never Ending Story Theme Song](https://open.spotify.com/track/6mW2DU0mYICqZ26p53QKsT) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo](https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl) | 2:17 | 2022-09-16 | 2023-01-22 |
 | [nothing matters \(with Jordan Pundik of New Found Glory\)](https://open.spotify.com/track/3HNIIQ6yyYZ3b8zHGeGogf) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 3:24 | 2022-09-16 |  |
@@ -67,7 +67,7 @@
 | [Party On Apocalypse](https://open.spotify.com/track/1lpNUHTrkICQO9vnEpH8g5) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Makes Me Sick](https://open.spotify.com/album/2z9SJZVRMlOKDBtvQXwmhk) | 3:23 | 2022-09-16 |  |
 | [Persistent \(Acoustic\)](https://open.spotify.com/track/3m02NTr8MdzotE4QknlYzJ) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Resurrection: Ascension](https://open.spotify.com/album/7cmMT5imIjUt7RGKpIc1uk) | 3:09 | 2022-09-18 | 2022-10-13 |
 | [Ready and Willing](https://open.spotify.com/track/7gTzs8ZOry1BSr2aDoMdv4) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Resurrection](https://open.spotify.com/album/3CLXR1W9TabxVLY2lZbAS1) | 3:22 | 2022-09-16 | 2023-01-23 |
-| [Red Light Kisser \(with Jordan Pundik of New Found Glory\)](https://open.spotify.com/track/1VOHsSplNgacfmyzDACsmE) | [Your Broken Hero](https://open.spotify.com/artist/2DTdvOlm8xrGEKe9JsaLeD), [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Red Light Kisser \(with Jordan Pundik of New Found Glory\)](https://open.spotify.com/album/3cCSDYqaoN3nfZiISzhffE) | 2:50 | 2023-05-24 |  |
+| [Red Light Kisser](https://open.spotify.com/track/1VOHsSplNgacfmyzDACsmE) | [Your Broken Hero](https://open.spotify.com/artist/2DTdvOlm8xrGEKe9JsaLeD), [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Red Light Kisser](https://open.spotify.com/album/3cCSDYqaoN3nfZiISzhffE) | 2:50 | 2023-05-24 |  |
 | [Shook By Your Shaved Head](https://open.spotify.com/track/7dUQARW7C85mHp9SeF0mOY) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Forever And Ever x Infinity](https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn) | 2:43 | 2022-09-16 | 2024-06-14 |
 | [Sincerely Me](https://open.spotify.com/track/2r4ANDbGuwFVv5zTjJPrTZ) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [New Found Glory](https://open.spotify.com/album/4lrBF0IWC9wZiF6btB68ua) | 2:47 | 2022-09-16 |  |
 | [Something I Call Personality](https://open.spotify.com/track/3hr00EQjDABNtQ1XG0sZIW) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks And Stones](https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8) | 2:40 | 2022-09-16 |  |

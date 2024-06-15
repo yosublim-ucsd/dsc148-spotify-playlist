@@ -531,6 +531,28 @@
     },
     {
       "album": {
+        "name": "Another Love",
+        "url": "https://open.spotify.com/album/2bfcMjTP3vG8cI0cLBF7YA"
+      },
+      "artists": [
+        {
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        },
+        {
+          "name": "Mark With a K",
+          "url": "https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314348,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/66n4fD7vHrJ6jTOqexH8Ny"
+    },
+    {
+      "album": {
         "name": "Anybody Out There (Dr Phunk Remix)",
         "url": "https://open.spotify.com/album/3eumufsKfcrjr9yol2kcIA"
       },
@@ -812,6 +834,28 @@
       "duration_ms": 153624,
       "name": "Bass Attack",
       "url": "https://open.spotify.com/track/3idlXH9t69kYKh6Y2KBOpx"
+    },
+    {
+      "album": {
+        "name": "Battlefield",
+        "url": "https://open.spotify.com/album/5GSLv4dJrExZmK9tvAaeXf"
+      },
+      "artists": [
+        {
+          "name": "Sefa",
+          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
+        },
+        {
+          "name": "Vertile",
+          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187794,
+      "name": "Battlefield",
+      "url": "https://open.spotify.com/track/1EbRl91ytoWtnOoLO7Z91p"
     },
     {
       "album": {
@@ -4228,7 +4272,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 182903,
       "name": "Feel Love",
       "url": "https://open.spotify.com/track/4ZTJg1dnfr2hkFG8LAi3sQ"
@@ -5904,7 +5948,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 182000,
       "name": "Hero",
       "url": "https://open.spotify.com/track/1bc1ykb05EfBvnzjOmqvmi"
@@ -8760,7 +8804,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 173499,
       "name": "Morgenlicht",
       "url": "https://open.spotify.com/track/7dWbcOsfWgjjM4PIsCBl1D"
@@ -12936,7 +12980,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 208383,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/4Y8o07UHVsGFBCWXB2MGRM"
@@ -12966,6 +13010,32 @@
       "duration_ms": 200333,
       "name": "TAKE ME AWAY",
       "url": "https://open.spotify.com/track/66exMOdOYDvytfS9RQXiXq"
+    },
+    {
+      "album": {
+        "name": "Take Me Away (feat. 4 Strings)",
+        "url": "https://open.spotify.com/album/3vOYtOP8y4n972n5YFZL0O"
+      },
+      "artists": [
+        {
+          "name": "Toneshifterz",
+          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+        },
+        {
+          "name": "Dr Phunk",
+          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+        },
+        {
+          "name": "4 Strings",
+          "url": "https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182709,
+      "name": "Take Me Away (feat. 4 Strings)",
+      "url": "https://open.spotify.com/track/6uwZTxW1wBkWNSAqd1noW8"
     },
     {
       "album": {
@@ -14230,6 +14300,28 @@
       "duration_ms": 214500,
       "name": "Tunnel Of Vision",
       "url": "https://open.spotify.com/track/6vAr6v7WLW5xP6Z5uyCLXH"
+    },
+    {
+      "album": {
+        "name": "Turn The Tide",
+        "url": "https://open.spotify.com/album/3cPoYx8ChLEYFm59U6XlM2"
+      },
+      "artists": [
+        {
+          "name": "Felix Harrer",
+          "url": "https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp"
+        },
+        {
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179938,
+      "name": "Turn The Tide",
+      "url": "https://open.spotify.com/track/13eAJfjMoCMJmwzJPLBy6a"
     },
     {
       "album": {

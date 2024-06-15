@@ -2,9 +2,9 @@
 
 ### [Limelight](https://open.spotify.com/playlist/37i9dQZF1DX5bKKZsnMo7c)
 
-> Feeling dramatic? All eyes on you\. Cover: Jack Harris
+> Feeling dramatic? All eyes on you\. Cover: Chappell Roan
 
-369 songs - 19 hr 48 min
+370 songs - 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Habits](https://open.spotify.com/track/0qL3JquOSa7ErWX3RXfUgo) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Habits \(Demo\)](https://open.spotify.com/album/0M696kjDtdAb8gsU3B9kWh) | 2:14 | 2023-04-17 | 2023-06-21 |
 | [Habits](https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Habits](https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo) | 2:16 | 2022-09-14 | 2023-05-08 |
 | [Happy World](https://open.spotify.com/track/0kY86R5mW1Js0jymCs8Wfp) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Happy World](https://open.spotify.com/album/6fFP8CR3WRLZxwnrvBfGTh) | 2:59 | 2024-04-26 |  |
+| [Haunted Hotel](https://open.spotify.com/track/3hU8MzXKeThkB9IPKR7iIr) | [Kidsnot$aints.](https://open.spotify.com/artist/3vcmFdngDnToTjWO61hMTK) | [Haunted Hotel](https://open.spotify.com/album/7J6LFUuNIeajdBgAoA55U9) | 2:01 | 2024-06-14 |  |
 | [Heart Be Still](https://open.spotify.com/track/0ewPlKce3kwoC2kFBlagty) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [Hold Me Like You're Scared To](https://open.spotify.com/album/2VHeRxzNfeqiCOhF6mEYcz) | 3:58 | 2023-01-27 | 2023-02-25 |
 | [HEARTBEAT](https://open.spotify.com/track/6nStBZGqGgTR87MrBpNza0) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [HEARTBEAT](https://open.spotify.com/album/7cLRRJ3fRfyExOHOIwcLDy) | 2:04 | 2022-08-31 | 2022-11-30 |
 | [Hello Florence, How Are You?](https://open.spotify.com/track/0WII8HWOY0oYYpVNscWPDo) | [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Hello Florence, How Are You?](https://open.spotify.com/album/3GVON6N4X0E395w9Ai1cbc) | 4:15 | 2023-01-06 | 2023-01-21 |
@@ -189,7 +190,7 @@
 | [It's All Futile! It's All Pointless!](https://open.spotify.com/track/6letGsy9pQEAiVt0VLJIWg) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/2d2QJv4OPOLS80tXaTCDsB) | 3:40 | 2022-06-14 | 2022-07-13 |
 | [it's ok!](https://open.spotify.com/track/65QnKbugRDVJK6MBdwkKBo) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [it’s ok!](https://open.spotify.com/album/4w7M4EslHGIRR3etqWniTX) | 3:05 | 2023-04-21 | 2024-02-24 |
 | [Jenna](https://open.spotify.com/track/4OuS6CcTr3kofsSYpDyrTB) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC), [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [Jenna](https://open.spotify.com/album/20FpfGh5Cftua64aroaT1k) | 3:11 | 2023-09-22 | 2023-11-11 |
-| [Juliet](https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Animal Kingdom](https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa) | 4:38 | 2023-05-26 |  |
+| [Juliet](https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Animal Kingdom](https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa) | 4:38 | 2023-05-26 | 2024-06-15 |
 | [just last week](https://open.spotify.com/track/6ZaONgEsATQp3q0fxJ8inz) | [Ethan Jewell](https://open.spotify.com/artist/17Cit7wNuKM6q67MwLH6gD) | [stuck in a bad place](https://open.spotify.com/album/5ZaLbGUiBmH6ru5JYzr6vL) | 3:44 | 2023-06-02 | 2024-01-27 |
 | [kill myself](https://open.spotify.com/track/1ESEhyt5VAkioMnh4vnDHC) | [Tom O'Donovan](https://open.spotify.com/artist/06loAWIFFerpfkQdMI0moL) | [kill myself](https://open.spotify.com/album/2FOmTkLSZvr2xVf1hVmDVm) | 3:00 | 2022-07-13 | 2022-07-16 |
 | [Killing Me](https://open.spotify.com/track/2Lss5tezmIkgZA3GFfptI2) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Killing Me](https://open.spotify.com/album/7l01qix76t2pcJNPTEMA9E) | 3:24 | 2023-11-01 | 2024-01-05 |

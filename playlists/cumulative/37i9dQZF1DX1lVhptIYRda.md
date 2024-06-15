@@ -2,9 +2,9 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Thank you to everyone who helped us heat up Spotify House at CMA Fest!
+> Thank you to everyone who helped us heat up Spotify House at CMA Fest! Cover: Shaboozey
 
-777 songs - 1 day 17 hr 56 min
+779 songs - 1 day 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Bulletproof](https://open.spotify.com/track/6VpH2prT3NGiK5pnpG2L3J) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Bulletproof](https://open.spotify.com/album/3ooWwlDKWfaVMx9kumptgg) | 3:03 | 2024-02-16 |  |
 | [Burn 'Em All](https://open.spotify.com/track/2UBvtKeetnXn6lMnsBUrZz) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Burn 'Em All](https://open.spotify.com/album/0IzNkQjU9fUw1SlVgQDckM) | 3:05 | 2020-08-30 | 2021-05-15 |
 | [Burn It Down](https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Never Enough](https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf) | 3:53 | 2023-06-09 | 2023-08-12 |
-| [Burn It Down \- Radio Edit](https://open.spotify.com/track/4bARASJEokNacSYtEhoNBp) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Burn It Down \(Radio Edit\)](https://open.spotify.com/album/113muW4YS82jqoS39y5Jgl) | 3:36 | 2023-08-11 |  |
+| [Burn It Down \- Radio Edit](https://open.spotify.com/track/4bARASJEokNacSYtEhoNBp) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Burn It Down \(Radio Edit\)](https://open.spotify.com/album/113muW4YS82jqoS39y5Jgl) | 3:36 | 2023-08-11 | 2024-06-15 |
 | [Burns Like Her](https://open.spotify.com/track/5XT8mK0cvCkx6Sx7Z7igmI) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Burns Like Her](https://open.spotify.com/album/2CPlLg16DpbTEawZ0iEgPM) | 3:53 | 2024-01-26 | 2024-06-01 |
 | [Bury Me in Georgia \- Single Edit](https://open.spotify.com/track/2mltIbKkhQqyh8gCzaqxqA) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Bury Me in Georgia](https://open.spotify.com/album/5KiNzxNpSxplw7RxB9SSEo) | 2:50 | 2023-03-31 | 2023-09-16 |
 | [But I Got A Beer In My Hand](https://open.spotify.com/track/3jhV8I9sIPXsjPs2ZOnSaf) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [But I Got A Beer In My Hand](https://open.spotify.com/album/2g95B2AWT2gDusBqYO7it3) | 2:56 | 2023-06-16 | 2023-12-02 |
@@ -276,7 +276,7 @@
 | [half of my hometown \(feat\. Kenny Chesney\)](https://open.spotify.com/track/59xdsxc0QGW6TDA3ZuQ9tS) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [half of my hometown](https://open.spotify.com/album/1wvacL4ghUHvi6PODfvbGN) | 3:51 | 2021-03-27 | 2021-12-11 |
 | [half of my hometown \- ballerini album version](https://open.spotify.com/track/3YJOCGSlrb78vNwu6meBSf) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [ballerini](https://open.spotify.com/album/6VHAJu9jfrIAubwug9riDk) | 3:56 | 2020-09-11 | 2020-09-26 |
 | [Halfway Fell](https://open.spotify.com/track/50AEfeAFdAyTVRA13khphv) | [Christie Huff](https://open.spotify.com/artist/3mdJ7xExgfvMfYEAK7rEy7) | [Halfway Fell](https://open.spotify.com/album/3F6JZdBLm29qxFt9iB8WpZ) | 3:00 | 2020-07-19 | 2020-08-01 |
-| [Halfway To Hell](https://open.spotify.com/track/1fAeFPXsX08Ovnn9iV1x27) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 2:58 | 2024-04-05 |  |
+| [Halfway To Hell](https://open.spotify.com/track/1fAeFPXsX08Ovnn9iV1x27) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 2:58 | 2024-04-05 | 2024-06-15 |
 | [Handle On You](https://open.spotify.com/track/6Qpfsw8OS5HW5XxgmXYLWS) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Handle On You](https://open.spotify.com/album/65UKRbP97zWe5gBZ48jBkR) | 3:39 | 2022-09-23 | 2023-06-10 |
 | [Happy Anywhere \(feat\. Gwen Stefani\)](https://open.spotify.com/track/2DwbFtfC6sXBiVDPmju8Dd) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Happy Anywhere \(feat\. Gwen Stefani\)](https://open.spotify.com/album/4K4Zt6ttyStgYV5B3bWuBi) | 2:50 | 2020-08-04 | 2021-01-16 |
 | [Happy Does](https://open.spotify.com/track/2v08cjj3Th8RpfJgluECcj) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Here And Now](https://open.spotify.com/album/0t7ccDIa3CbqzFrL9rOpaw) | 2:48 | 2020-05-01 | 2021-01-16 |
@@ -323,6 +323,7 @@
 | [Human](https://open.spotify.com/track/5AihIu9yF3flkw1jFMyfwW) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Human The Double Album](https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb) | 3:41 | 2022-09-02 | 2023-05-20 |
 | [Hung Up On You](https://open.spotify.com/track/7uokjCoYFxSdgcq53GNWhJ) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [Hung Up on You](https://open.spotify.com/album/6uLznR1dDQtiPu7QRYDgOK) | 3:21 | 2020-04-18 | 2020-06-21 |
 | [Hurt No More](https://open.spotify.com/track/5UDX3jJn9vXGxE5h0sNRCy) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [Hurt No More](https://open.spotify.com/album/0vri0TC8mGVb1EFspFzgJN) | 2:56 | 2023-03-31 | 2023-07-15 |
+| [I Am Not Okay](https://open.spotify.com/track/76ODTQOl0JZQbhfxs6nRV9) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [I Am Not Okay](https://open.spotify.com/album/07IZeIkEgAdjs0dSbRxn7i) | 3:17 | 2024-06-14 |  |
 | [I Bet You Think About Me \(feat\. Chris Stapleton\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4CkgMiMqZ5JzW9iYXSTMTL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:45 | 2021-11-13 | 2022-02-05 |
 | [I Bet You Wanna Know](https://open.spotify.com/track/0mOJz5X44w1RScid7BZ4Mq) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [I Bet You Wanna Know](https://open.spotify.com/album/6d6FyAZ8g1W6TdyF6bWMUl) | 2:37 | 2021-02-14 | 2021-02-27 |
 | [I Called Mama](https://open.spotify.com/track/3YuvAPidBWldqjagOryo40) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [I Called Mama](https://open.spotify.com/album/6cD5F4Ndsh8tyzrJ2zclVA) | 3:31 | 2020-06-14 | 2020-10-18 |
@@ -549,6 +550,7 @@
 | [Refrigerator Door](https://open.spotify.com/track/1b0YOwtdW5ibaAhHEsbdjB) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Prequel \- EP](https://open.spotify.com/album/4nFW5W1gIwov6e4lAzn2vA) | 3:24 | 2019-07-13 | 2019-10-12 |
 | [Religiously](https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 2:58 | 2023-06-02 | 2023-11-25 |
 | [Religiously](https://open.spotify.com/track/0ec7EBr0mjWO6J7TRr09bN) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously](https://open.spotify.com/album/5M1xyJCeOsknHsg8k3yOxI) | 2:58 | 2023-05-05 | 2023-06-07 |
+| [Remember Him That Way](https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 3:56 | 2024-06-14 |  |
 | [Remember You Young](https://open.spotify.com/track/3LK6wDkhbTyg8GhJidU9oC) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 3:00 | 2019-09-08 | 2020-01-13 |
 | [Ridin' Roads](https://open.spotify.com/track/5OBtr92M0xsvOGqpnz3LzW) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Ridin' Roads](https://open.spotify.com/album/5k9qdzeVjlGweGxnb4cnGd) | 3:25 | 2019-05-26\* | 2020-04-04 |
 | [Right Now](https://open.spotify.com/track/27SEGAFBjr1CsjLcUu0Z4f) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Right Now](https://open.spotify.com/album/7K26C63gkM1i2JR0FdLPvT) | 3:55 | 2021-02-18 | 2021-03-27 |

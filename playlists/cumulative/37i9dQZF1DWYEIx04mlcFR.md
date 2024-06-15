@@ -4,7 +4,7 @@
 
 > la nueva ola de artistas con legallyrxx en portada\. 🌊✨
 
-504 songs - 1 day 1 hr 59 min
+505 songs - 1 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [Mundo Fungi](https://open.spotify.com/track/4kE4OAlEOPierDWL2SoDP6) | [Karina Galicia](https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z) | [Mundo Fungi](https://open.spotify.com/album/1eIZG284wSaIwlIdeEpQhA) | 3:32 | 2023-04-14 | 2023-07-07 |
 | [Muñeca Mecánica](https://open.spotify.com/track/7ysBhqazDZ4BYvGGpMQZPX) | [Valgur](https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH) | [Muñeca Mecánica](https://open.spotify.com/album/16W4DDRtb65d98Fp0sHFrJ) | 3:24 | 2023-02-03 | 2023-06-03 |
 | [Máquina Del Tiempo](https://open.spotify.com/track/20YoweYFRfAUHKIIDleCQF) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Máquina Del Tiempo](https://open.spotify.com/album/5XoNFY7hjKE1aM7u7mVArg) | 3:33 | 2023-02-24 | 2023-07-07 |
+| [Más Allá](https://open.spotify.com/track/5y9EP5baygJB9zWQl8549b) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Más Allá](https://open.spotify.com/album/036nFxQ7ocbEdG3FjY88jO) | 3:04 | 2024-06-14 |  |
 | [Más Que Amigas](https://open.spotify.com/track/7vKgCQQc1gjudgVX4SALki) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Más Que Amigas](https://open.spotify.com/album/2tgiIMkITUGSyQaUVjtMpf) | 2:41 | 2023-06-02 |  |
 | [Máscara de Niña](https://open.spotify.com/track/14RubZ8E6S34PohWgJq21G) | [Valgur](https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH) | [Máscara de Niña](https://open.spotify.com/album/5oYBMmeTlPZcIqwqSL9iEw) | 3:14 | 2023-03-24 | 2023-06-17 |
 | [MÍO](https://open.spotify.com/track/7uPHgWAcx4Knbu6Qp0ULNe) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [MÍO](https://open.spotify.com/album/2GdI0IR3dlKQVgNtuwksJP) | 3:37 | 2021-12-10 | 2022-03-05 |
@@ -299,7 +300,7 @@
 | [Natural](https://open.spotify.com/track/206EbLmSB7o5WimiOCE5Va) | [Malamala](https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl) | [Natural](https://open.spotify.com/album/7nXQgF6Zz1V1RHmCujmX7K) | 2:54 | 2022-07-01 | 2022-11-01 |
 | [Navegantes](https://open.spotify.com/track/6T5HmWq4GIX4ujSMuvl4oZ) | [Daniela Calvario](https://open.spotify.com/artist/7hieapEQgIf8bO2eadP1MS), [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc) | [Navegantes](https://open.spotify.com/album/59ZWU9GOX523Im1B05n7mC) | 4:03 | 2022-02-11 | 2022-07-05 |
 | [Necesito un Break de Tanta Pendejad\*](https://open.spotify.com/track/3gLTUkkHiWnbvG49FByvp2) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8), [Bastian](https://open.spotify.com/artist/4K7sffC0683anJ57UKBzyD) | [Necesito un Break de Tanta Pendejad\*](https://open.spotify.com/album/3Xk7qVeD5ygv9rr8kokjUT) | 2:58 | 2022-06-17 | 2023-01-21 |
-| [nikes azules](https://open.spotify.com/track/4dhUtf8F9cIynSoavVG6u7) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [nikes azules](https://open.spotify.com/album/3DggDzjA8fjU3sEuys7NqG) | 2:53 | 2023-08-25 |  |
+| [nikes azules](https://open.spotify.com/track/4dhUtf8F9cIynSoavVG6u7) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [nikes azules](https://open.spotify.com/album/3DggDzjA8fjU3sEuys7NqG) | 2:53 | 2023-08-25 | 2024-06-15 |
 | [Niña de Mis Ojos](https://open.spotify.com/track/2fVw5ymYUWzKAj0FFOyArF) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Niña de Mis Ojos](https://open.spotify.com/album/4YZN11bEMW5RRxF3cRejET) | 2:42 | 2022-02-04 | 2022-05-20 |
 | [niño azul](https://open.spotify.com/track/6qV11bT43TNvpV9WdXN29O) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [niño azul](https://open.spotify.com/album/7uSH6G3Z9z5yGBk9LIH2Zk) | 2:25 | 2024-03-08 |  |
 | [Niño Regañado](https://open.spotify.com/track/3NXuOQFjWRQNOxTPz6DeA7) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y) | [Perfumes](https://open.spotify.com/album/4vr2ydZFM9bBZALUef2ASi) | 2:45 | 2024-05-10 |  |

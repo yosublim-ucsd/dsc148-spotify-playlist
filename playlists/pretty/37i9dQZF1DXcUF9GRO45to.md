@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 
 > French scene makes some noise!
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,022 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,031 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 | 64 | [I Don't Give A Shit](https://open.spotify.com/track/6ZZ8iAhLsaHncTdniCOcex) | [Johnnie Carwash](https://open.spotify.com/artist/6QrdWAI9FMyVqBIKcecUD0) | [Teenage Ends](https://open.spotify.com/album/6fXiSACVJOeI0Gevc1nIBt) | 2:15 |
 | 65 | [Heedless](https://open.spotify.com/track/5Gp3ki8Tvqoop5f1AuvsXr) | [Howard](https://open.spotify.com/artist/3bwdCcoC0DQB3fpQn9fqnm) | [Event Horizon](https://open.spotify.com/album/0x0gdhe3A8aWCEMktBiQAY) | 3:00 |
 | 66 | [Gone](https://open.spotify.com/track/1I2u7A2VycGzm1YUU1Oe36) | [7 Weeks](https://open.spotify.com/artist/3va5uyDVlsWxIq7oxb3ofw) | [Sisyphus](https://open.spotify.com/album/1zZ0wIAF8iYeiLGqNxqVOI) | 3:53 |
-| 67 | [RAVENOUS](https://open.spotify.com/track/7MZS2FBik6EQLAj5zOQbyi) | [Greyborn](https://open.spotify.com/artist/5hV2xBm2AojCQ0EF6jDqis) | [RAVENOUS](https://open.spotify.com/album/6hbQfjVUBeubJNQUgURm1w) | 4:13 |
+| 67 | [Daddy Issues](https://open.spotify.com/track/2IQq6WSFeAeQIdarYvlGxP) | [Grandma's Ashes](https://open.spotify.com/artist/3njH8IdvpiDn8UIV0BoYoY) | [Daddy Issues](https://open.spotify.com/album/31gjmH07EByb5lpua6I4G8) | 4:49 |
 | 68 | [Horns](https://open.spotify.com/track/3NAiEdkwZ6tJHteQ1Lbhax) | [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Horns](https://open.spotify.com/album/62JI5wGV34CnvBhAG2xwxf) | 3:26 |
 | 69 | [Stick It Out](https://open.spotify.com/track/3LglMEtGTUFhAPTxa5ewwa) | [Datcha Mandala](https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88) | [Hara](https://open.spotify.com/album/23RMgtP4v1gGTXnANwQCPU) | 3:24 |
-| 70 | [Daddy Issues](https://open.spotify.com/track/2IQq6WSFeAeQIdarYvlGxP) | [Grandma's Ashes](https://open.spotify.com/artist/3njH8IdvpiDn8UIV0BoYoY) | [Daddy Issues](https://open.spotify.com/album/31gjmH07EByb5lpua6I4G8) | 4:49 |
-| 71 | [Welcome Newcomers](https://open.spotify.com/track/0yPdYvRz6qTo0oI6CFJwDj) | [Cosse](https://open.spotify.com/artist/2sGoKWmM956fjU3X8N5VxH) | [Nothing Belongs to Anything](https://open.spotify.com/album/1hCtl92M5FJH8zmgRT1fN3) | 5:08 |
-| 72 | [Fire Fire](https://open.spotify.com/track/4AtH6aTfjdf8SEVtA7LX30) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [Burning Bright](https://open.spotify.com/album/7lOutDr84PlBG1OAAylOAW) | 3:52 |
+| 70 | [RAVENOUS](https://open.spotify.com/track/7MZS2FBik6EQLAj5zOQbyi) | [Greyborn](https://open.spotify.com/artist/5hV2xBm2AojCQ0EF6jDqis) | [RAVENOUS](https://open.spotify.com/album/6hbQfjVUBeubJNQUgURm1w) | 4:13 |
+| 71 | [Afterlife](https://open.spotify.com/track/6x6pZm52ipZTVIM99Jwb1k) | [Animal Triste](https://open.spotify.com/artist/4w7FwiYOd9cJQ7Pr5o31Eh) | [Night of the Loving Dead](https://open.spotify.com/album/7MgObAh6503Kapx3g6fYDh) | 3:23 |
+| 72 | [Welcome Newcomers](https://open.spotify.com/track/0yPdYvRz6qTo0oI6CFJwDj) | [Cosse](https://open.spotify.com/artist/2sGoKWmM956fjU3X8N5VxH) | [Nothing Belongs to Anything](https://open.spotify.com/album/1hCtl92M5FJH8zmgRT1fN3) | 5:08 |
 | 73 | [Vegan Porn Food](https://open.spotify.com/track/5Q7WoXFIG0X0jEcR4BKAQU) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [Billy Believe](https://open.spotify.com/album/2TucJEKDdHS6doCvqeWmvR) | 4:46 |
-| 74 | [Afterlife](https://open.spotify.com/track/6x6pZm52ipZTVIM99Jwb1k) | [Animal Triste](https://open.spotify.com/artist/4w7FwiYOd9cJQ7Pr5o31Eh) | [Night of the Loving Dead](https://open.spotify.com/album/7MgObAh6503Kapx3g6fYDh) | 3:23 |
+| 74 | [Fire Fire](https://open.spotify.com/track/4AtH6aTfjdf8SEVtA7LX30) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [Burning Bright](https://open.spotify.com/album/7lOutDr84PlBG1OAAylOAW) | 3:52 |
 | 75 | [Fireworks](https://open.spotify.com/track/08JoE08IrBh5FOW91eq7Hu) | [Equipe de Foot](https://open.spotify.com/artist/3sf80v7vKTD23bvp5Xl836) | [Chantal](https://open.spotify.com/album/3U3htuQSFAzCQZgQy42D7W) | 4:13 |
 | 76 | [Knees](https://open.spotify.com/track/49WaJosNna7DBveejaBjra) | [COLISION](https://open.spotify.com/artist/5DTSjTb2jYT5D40f6MW3xJ) | [Healing Is Not Linear](https://open.spotify.com/album/6AiJUiqh1ZYTuRboEmFgV0) | 3:08 |
 | 77 | [Killing God](https://open.spotify.com/track/5EqCrES13fNKmdyR3OBm7r) | [HEADKEYZ](https://open.spotify.com/artist/0MDzWEPptdrc3gVDWyL9ea) | [The Cage & The Crown : Chapter I](https://open.spotify.com/album/7lTD1qTndWk7eQ3skC9nkK) | 3:35 |
@@ -90,23 +90,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 | 80 | [Homecoming](https://open.spotify.com/track/0EEwKVe65Zg558NmnyMtCu) | [Noiseheads](https://open.spotify.com/artist/596tCSFtWm3PP3YHKtid6Q) | [Sitcoms for Aliens](https://open.spotify.com/album/5m60bag09WvO4KA2skUXV6) | 3:05 |
 | 81 | [Can't Wait to Be Fine](https://open.spotify.com/track/3ceHHdlzB4tgJXCviVKTBc) | [We Hate You Please Die](https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l) | [Can't Wait to Be Fine](https://open.spotify.com/album/2MSwOyJWgQm0gnb4ofdNzD) | 5:58 |
 | 82 | [Only Weird People Can Fly](https://open.spotify.com/track/75zhMxYeZoLRp2qrKiz5sQ) | [Dust On Earth](https://open.spotify.com/artist/2HbxbDzJQeFyeHgsH0Mou6) | [Only Weird People Can Fly](https://open.spotify.com/album/2srLsSJHxis4kIt99ugrUV) | 4:18 |
-| 83 | [Vulgar](https://open.spotify.com/track/7cOZA9hhLkBValr2rhaH61) | [Trainfantome](https://open.spotify.com/artist/7pG1EQuqeYlTh3J3jkCHfp) | [Postmodern Blue](https://open.spotify.com/album/4ytKLcwskenzEAA3Ae3Kta) | 2:50 |
-| 84 | [Humans](https://open.spotify.com/track/5rcE08QNXMI9CUsbnpWf7n) | [Rank\-O](https://open.spotify.com/artist/7EfIjVAkrlvg6SKlUjsAgF) | [De Novo](https://open.spotify.com/album/4zv3fK4zaoXhRmOxdcqml6) | 3:12 |
-| 85 | [HORIZON](https://open.spotify.com/track/6G6gPGeURYWsCsjiByoedl) | [The Inspector Cluzo](https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg) | [HORIZON](https://open.spotify.com/album/40qu8vLitjOTHYBKIWGpeU) | 3:48 |
+| 83 | [HORIZON](https://open.spotify.com/track/6G6gPGeURYWsCsjiByoedl) | [The Inspector Cluzo](https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg) | [HORIZON](https://open.spotify.com/album/40qu8vLitjOTHYBKIWGpeU) | 3:48 |
+| 84 | [Vulgar](https://open.spotify.com/track/7cOZA9hhLkBValr2rhaH61) | [Trainfantome](https://open.spotify.com/artist/7pG1EQuqeYlTh3J3jkCHfp) | [Postmodern Blue](https://open.spotify.com/album/4ytKLcwskenzEAA3Ae3Kta) | 2:50 |
+| 85 | [Humans](https://open.spotify.com/track/5rcE08QNXMI9CUsbnpWf7n) | [Rank\-O](https://open.spotify.com/artist/7EfIjVAkrlvg6SKlUjsAgF) | [De Novo](https://open.spotify.com/album/4zv3fK4zaoXhRmOxdcqml6) | 3:12 |
 | 86 | [Others](https://open.spotify.com/track/109wpUkiX8IcWR8WTPV7cp) | [Grit](https://open.spotify.com/artist/7MqjgK85RJWzT4IS6gkCVJ) | [Shreds of Tales](https://open.spotify.com/album/2o7lvEpqFRNvXtfqLtyufl) | 3:31 |
 | 87 | [Sorority](https://open.spotify.com/track/3WBCcdmfS1EmlkHkvZU2o7) | [We Hate You Please Die](https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l) | [SORORITY / CONTROL](https://open.spotify.com/album/3SwAxSQK2G4ziJUs8TDWOK) | 2:43 |
-| 88 | [Liminal Status](https://open.spotify.com/track/0wqxvfCxfga9DBOcKYPWuY) | [Watertank](https://open.spotify.com/artist/2N3PHaigRY80nInbgjjbPC) | [Liminal Status](https://open.spotify.com/album/4pyKwnieAfUEzKdhLw1Ahp) | 3:33 |
-| 89 | [Scatterbrain](https://open.spotify.com/track/6bvf9UBmxgD8CzroXEkPYr) | [DYE CRAP](https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x) | [Life Is Unfair](https://open.spotify.com/album/5QTtQjMlep4CE3893O1Nwo) | 2:15 |
-| 90 | [No Brain No Shame](https://open.spotify.com/track/634Xqm8fG8J1cGymJ51Khy) | [J.C\. Satàn](https://open.spotify.com/artist/3YdIpKk40myJ3aC29izFRW) | [Centaur Desire](https://open.spotify.com/album/0Fjb0kM75nMYhktmSTj4np) | 3:29 |
-| 91 | [Echo Street](https://open.spotify.com/track/7yUuvqh6jUnCiZpk9QUf2x) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [The West Is the Best](https://open.spotify.com/album/0VCp3ltRTuGJAfZfikMkDA) | 3:41 |
+| 88 | [No Brain No Shame](https://open.spotify.com/track/634Xqm8fG8J1cGymJ51Khy) | [J.C\. Satàn](https://open.spotify.com/artist/3YdIpKk40myJ3aC29izFRW) | [Centaur Desire](https://open.spotify.com/album/0Fjb0kM75nMYhktmSTj4np) | 3:29 |
+| 89 | [Liminal Status](https://open.spotify.com/track/0wqxvfCxfga9DBOcKYPWuY) | [Watertank](https://open.spotify.com/artist/2N3PHaigRY80nInbgjjbPC) | [Liminal Status](https://open.spotify.com/album/4pyKwnieAfUEzKdhLw1Ahp) | 3:33 |
+| 90 | [Scatterbrain](https://open.spotify.com/track/6bvf9UBmxgD8CzroXEkPYr) | [DYE CRAP](https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x) | [Life Is Unfair](https://open.spotify.com/album/5QTtQjMlep4CE3893O1Nwo) | 2:15 |
+| 91 | [Hangover](https://open.spotify.com/track/3DbgF86SyidgINXtIx1qnV) | [Nobody's Cult](https://open.spotify.com/artist/2u9TRDPmCOUfSsP0WTFp7R) | [Mood Disorders](https://open.spotify.com/album/0ckv05nXDPG8LxuvCr0mmt) | 3:21 |
 | 92 | [Peeling the Onion](https://open.spotify.com/track/5e8Fj1zNqVK5aDhpBjICev) | [Th Da Freak](https://open.spotify.com/artist/21bdasKU3vHrH6tjuhBIjd) | [Freakenstein](https://open.spotify.com/album/46CswcgmRweHhj7oSvqeS4) | 3:43 |
-| 93 | [Le Squinfus](https://open.spotify.com/track/39Rcz81y7E41a7WObG37kn) | [Stone From the Sky](https://open.spotify.com/artist/1uJnxjKOkMlCa2iZOW3GzD) | [Songs from the Deepwater](https://open.spotify.com/album/5c1WlgOeb83vuE1cVROyOd) | 4:44 |
-| 94 | [Hangover](https://open.spotify.com/track/3DbgF86SyidgINXtIx1qnV) | [Nobody's Cult](https://open.spotify.com/artist/2u9TRDPmCOUfSsP0WTFp7R) | [Mood Disorders](https://open.spotify.com/album/0ckv05nXDPG8LxuvCr0mmt) | 3:21 |
+| 93 | [Echo Street](https://open.spotify.com/track/7yUuvqh6jUnCiZpk9QUf2x) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [The West Is the Best](https://open.spotify.com/album/0VCp3ltRTuGJAfZfikMkDA) | 3:41 |
+| 94 | [Le Squinfus](https://open.spotify.com/track/39Rcz81y7E41a7WObG37kn) | [Stone From the Sky](https://open.spotify.com/artist/1uJnxjKOkMlCa2iZOW3GzD) | [Songs from the Deepwater](https://open.spotify.com/album/5c1WlgOeb83vuE1cVROyOd) | 4:44 |
 | 95 | [Too Late](https://open.spotify.com/track/0nHJq23KJ6Fb34tHeC3qtX) | [Shady Fat Kats](https://open.spotify.com/artist/2ZgDtiPPJJhephke84L7BD) | [Too Late](https://open.spotify.com/album/4vxSmhPj7cz8B1Pqu1Ygdy) | 3:36 |
 | 96 | [Didn’t Know](https://open.spotify.com/track/15nBPDVVQr8F7RXFicG5KT) | [Do It Later](https://open.spotify.com/artist/4ghzsBC2zItzqKvULx6CGF), [Totorro](https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx) | [Future Me](https://open.spotify.com/album/5OaYsU9Y4xwSOYZ8N1TntQ) | 3:07 |
-| 97 | [Get Out](https://open.spotify.com/track/0JYFsziWZQcG1amDlX0owl) | [PALES](https://open.spotify.com/artist/4sOzPsR34wv1akDd5nwQFX) | [Get Out](https://open.spotify.com/album/6kp5Y3JdXqqBZezWoTNIiN) | 3:45 |
-| 98 | [Fall Away](https://open.spotify.com/track/1CEZOLVOKSAQIxbTDT4g8m) | [Hype Lights](https://open.spotify.com/artist/2npU68D7kt0LE5zdDZYFJo) | [Fall Away](https://open.spotify.com/album/5WbqS655AbA289SoaS4x7Q) | 3:02 |
-| 99 | [Strange Feeling](https://open.spotify.com/track/1lQdGdF0LNzhy9v5os0pTS) | [Structures](https://open.spotify.com/artist/4uAJ9vbmemltkuu0D3gBHQ) | [Strange Feeling](https://open.spotify.com/album/2LRUyObrhcVkssuuhw3C3U) | 3:52 |
-| 100 | [Human Tragedy](https://open.spotify.com/track/3nW8rq6Zx8obgEHHiwdvBm) | [YEAHRS](https://open.spotify.com/artist/0xT8wI8JgoOqFrCr5v96qd) | [Human Tragedy](https://open.spotify.com/album/1UxMqp3H1xB8YOiUzQXXzP) | 4:08 |
+| 97 | [Fall Away](https://open.spotify.com/track/1CEZOLVOKSAQIxbTDT4g8m) | [Hype Lights](https://open.spotify.com/artist/2npU68D7kt0LE5zdDZYFJo) | [Fall Away](https://open.spotify.com/album/5WbqS655AbA289SoaS4x7Q) | 3:02 |
+| 98 | [Strange Feeling](https://open.spotify.com/track/1lQdGdF0LNzhy9v5os0pTS) | [Structures](https://open.spotify.com/artist/4uAJ9vbmemltkuu0D3gBHQ) | [Strange Feeling](https://open.spotify.com/album/2LRUyObrhcVkssuuhw3C3U) | 3:52 |
+| 99 | [Get Out](https://open.spotify.com/track/0JYFsziWZQcG1amDlX0owl) | [PALES](https://open.spotify.com/artist/4sOzPsR34wv1akDd5nwQFX) | [Get Out](https://open.spotify.com/album/6kp5Y3JdXqqBZezWoTNIiN) | 3:45 |
+| 100 | [Tree](https://open.spotify.com/track/38fLg3qA8mtJTuLDmtVc3x) | [Servo](https://open.spotify.com/artist/6y5MFAfEupGez5ZLRYDHlN) | [The Lair of Gods](https://open.spotify.com/album/1snWQPp1HIT5ixB77kRcpf) | 4:01 |
 
 Snapshot ID: `ZlbP/gAAAABRpwiqKXqZwXK9/L3+c0p2`

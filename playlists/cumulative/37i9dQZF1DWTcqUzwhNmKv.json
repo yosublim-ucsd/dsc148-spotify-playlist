@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Halestorm on top of today's best Metal playlist.",
+  "description": "The Plot In You on top of today's best Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -142,7 +142,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 226240,
       "name": "21 Gun Salute",
       "url": "https://open.spotify.com/track/33GEGdCuSpbt3x6B33Jd82"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 267956,
       "name": "A Mind Short Circuiting",
       "url": "https://open.spotify.com/track/3oelMc06qyF7tuA55tPnJQ"
@@ -428,6 +428,24 @@
       "duration_ms": 243560,
       "name": "AfterLife",
       "url": "https://open.spotify.com/track/51lcM37Li2HOhk8F8kPwUv"
+    },
+    {
+      "album": {
+        "name": "Aftermath",
+        "url": "https://open.spotify.com/album/3a5NPxFKXmzqWKurkUSfZS"
+      },
+      "artists": [
+        {
+          "name": "The Black Dahlia Murder",
+          "url": "https://open.spotify.com/artist/4xTDPgk4jHCF0qui3dH6BS"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181916,
+      "name": "Aftermath",
+      "url": "https://open.spotify.com/track/7xGYng4pNaJwSTjuOlxyhO"
     },
     {
       "album": {
@@ -632,6 +650,32 @@
       "duration_ms": 234410,
       "name": "Another Ghost",
       "url": "https://open.spotify.com/track/0Wc4KKzPP4436ukZDHFkZH"
+    },
+    {
+      "album": {
+        "name": "Another Nail For Your Coffin (Feat. Kublai Khan TX & Malevolence)",
+        "url": "https://open.spotify.com/album/40CyQnSxAz9rmB9ZcJIwE7"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        },
+        {
+          "name": "Kublai Khan TX",
+          "url": "https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4"
+        },
+        {
+          "name": "Malevolence",
+          "url": "https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240539,
+      "name": "Another Nail For Your Coffin (Feat. Kublai Khan TX & Malevolence)",
+      "url": "https://open.spotify.com/track/7uGFpRMtsb7CGdUgjEeSsk"
     },
     {
       "album": {
@@ -3144,7 +3188,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 230252,
       "name": "Dissociative Being",
       "url": "https://open.spotify.com/track/7viT7z5vi1jk1TP8nKtdzW"
@@ -3852,7 +3896,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 230256,
       "name": "Evidence",
       "url": "https://open.spotify.com/track/4QTwNqLI3XQlf7H1YQJGfJ"
@@ -4867,6 +4911,24 @@
     },
     {
       "album": {
+        "name": "Hands of Sin",
+        "url": "https://open.spotify.com/album/3ZUxHRqFUm7FBFHFT5uXaW"
+      },
+      "artists": [
+        {
+          "name": "Bleed From Within",
+          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236250,
+      "name": "Hands of Sin",
+      "url": "https://open.spotify.com/track/2iVoelOzPLaw3R7GcpBuVe"
+    },
+    {
+      "album": {
         "name": "Handshake with Hell",
         "url": "https://open.spotify.com/album/0NGaiN3rXHa54qJwqzLJLV"
       },
@@ -5731,6 +5793,24 @@
     },
     {
       "album": {
+        "name": "Invisible Rain",
+        "url": "https://open.spotify.com/album/06fR6U5Ps2jja9Lp4kcmlx"
+      },
+      "artists": [
+        {
+          "name": "Stick To Your Guns",
+          "url": "https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159285,
+      "name": "Invisible Rain",
+      "url": "https://open.spotify.com/track/6UxqRS5vDYkFDScGdBX5IO"
+    },
+    {
+      "album": {
         "name": "IOU",
         "url": "https://open.spotify.com/album/2vNZBW15QXrMe4ohiuDjZV"
       },
@@ -5994,7 +6074,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 257798,
       "name": "Keeping Secrets",
       "url": "https://open.spotify.com/track/23ZfzJ2uI17JXeZUJNgC6e"
@@ -6290,6 +6370,24 @@
       "duration_ms": 251939,
       "name": "liMOusIne (feat. AURORA)",
       "url": "https://open.spotify.com/track/6tVahG14lCjexVQnYWKgwF"
+    },
+    {
+      "album": {
+        "name": "look at me",
+        "url": "https://open.spotify.com/album/29rEnJyGy4yKMr0pJkhker"
+      },
+      "artists": [
+        {
+          "name": "thrown",
+          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90036,
+      "name": "look at me",
+      "url": "https://open.spotify.com/track/6fcTTzNTvP7S4aLT3GaVBN"
     },
     {
       "album": {
@@ -7049,6 +7147,24 @@
     },
     {
       "album": {
+        "name": "New Way Out",
+        "url": "https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202909,
+      "name": "New Way Out",
+      "url": "https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t"
+    },
+    {
+      "album": {
         "name": "Nigh to Silence",
         "url": "https://open.spotify.com/album/76tQE4Ts2FfKBxW8v8CISH"
       },
@@ -7136,7 +7252,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 268269,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/0jrOt6XnOTeZOd56U16Bfp"
@@ -7154,7 +7270,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 122005,
       "name": "nights",
       "url": "https://open.spotify.com/track/1I4rlS1d99cwHJ9vRHHTRP"
@@ -7440,7 +7556,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 197674,
       "name": "Obsession",
       "url": "https://open.spotify.com/track/4OCcKzbevqDQlNdOmXSjAK"
@@ -10555,6 +10671,24 @@
     },
     {
       "album": {
+        "name": "THE FIRST TEST",
+        "url": "https://open.spotify.com/album/0AMkClFCC05JsSfKwm34GU"
+      },
+      "artists": [
+        {
+          "name": "Speed",
+          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134224,
+      "name": "THE FIRST TEST",
+      "url": "https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs"
+    },
+    {
+      "album": {
         "name": "The Flowering",
         "url": "https://open.spotify.com/album/0k4ADzUDIVFkMBxV17xoi3"
       },
@@ -12848,7 +12982,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 191470,
       "name": "Z0mbie",
       "url": "https://open.spotify.com/track/1sigPT3Dq2zgrPL0YVMPOj"

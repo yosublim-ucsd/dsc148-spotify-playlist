@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: enau
 
-326 songs - 21 hr 17 min
+327 songs - 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,6 +333,7 @@
 | [Worth](https://open.spotify.com/track/2WSoAaoehLttG8QHoeFtrE) | [Uap Widya](https://open.spotify.com/artist/1WWvSaBJuHGztksVJ0N9A9) | [Worth](https://open.spotify.com/album/3f7pCL5o6C6PsDJxrucVNz) | 2:55 | 2024-04-04 | 2024-04-26 |
 | [YA LLA](https://open.spotify.com/track/6GdQzELu89ExZe6NBmDvBC) | [Novia Bachmid](https://open.spotify.com/artist/6eK6JN4xhNFMfe2QHLwrx9) | [YA LLA](https://open.spotify.com/album/544onbNRkDKJhnXZTB89VL) | 4:05 | 2024-05-30 |  |
 | [Yasudah](https://open.spotify.com/track/4gKgefMQuie6nz017V6jiP) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Yasudah](https://open.spotify.com/album/0NVWNTENg9PZM0J1RfToXX) | 4:56 | 2024-03-14 |  |
+| [You](https://open.spotify.com/track/4T0i2FyNJc8f7QMYQRRJB1) | [T\-Five](https://open.spotify.com/artist/37VFhHJtDBkbN3gZnPiWQ3), [Ten2Five](https://open.spotify.com/artist/5Tl7XjM9Y7Q2D9eIHz5GTO) | [You](https://open.spotify.com/album/5cRvVGFlXb8FUCg8SpvlVW) | 3:18 | 2024-06-13 |  |
 | [Your Favorite Food](https://open.spotify.com/track/4yWaGVdcT6VhMyUY7kjV3d) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Your Favorite Food](https://open.spotify.com/album/6XsHlUuJB9vrOVwflRFoOp) | 4:30 | 2024-02-29 | 2024-05-03 |
 
 \*This playlist was first scraped on 2024-01-20. Prior content cannot be recovered.

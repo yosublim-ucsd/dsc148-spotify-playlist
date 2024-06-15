@@ -1,12 +1,12 @@
 {
   "description": "Rock out while you work out! Follow for updates!",
-  "num_followers": 61089,
+  "num_followers": 61098,
   "original_name": "Hard Rock Workout",
   "owner": {
     "name": "Better Noise Music",
     "url": "https://open.spotify.com/user/elevensevenmusic"
   },
-  "snapshot_id": "AAAIaE6V2rLZyWdR/naTSmzrtNwDCxIx",
+  "snapshot_id": "AAAIcWxEiGfZ4x2AyLtCdXhfwn4Sqx4o",
   "tracks": [
     {
       "added_at": "2024-04-09 17:09:14",
@@ -159,6 +159,22 @@
       "duration_ms": 217847,
       "name": "Burn MF (feat. Rob Zombie)",
       "url": "https://open.spotify.com/track/4zFrUrmwGjLWWDvlyOTcTu"
+    },
+    {
+      "added_at": "2024-06-14 17:37:47",
+      "album": {
+        "name": "Soul Revolution Deluxe: The Collabs",
+        "url": "https://open.spotify.com/album/3zJkZv2QjamztjHmzShhuQ"
+      },
+      "artists": [
+        {
+          "name": "Fire From The Gods",
+          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
+        }
+      ],
+      "duration_ms": 203706,
+      "name": "Guerrilla Radio",
+      "url": "https://open.spotify.com/track/1lenAyuxQejwcsgLQtGqPV"
     },
     {
       "added_at": "2024-04-19 15:09:32",
@@ -421,6 +437,22 @@
       "url": "https://open.spotify.com/track/1YZcTRm1zXj9Gn2HvjBpSS"
     },
     {
+      "added_at": "2024-06-14 17:37:47",
+      "album": {
+        "name": "A Banger A Day Keeps The Doctor Away",
+        "url": "https://open.spotify.com/album/44YwGDqhcIbzprf301vs2Q"
+      },
+      "artists": [
+        {
+          "name": "Solence",
+          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
+        }
+      ],
+      "duration_ms": 216287,
+      "name": "A Banger A Day Keeps The Doctor Away",
+      "url": "https://open.spotify.com/track/7AvALXbGFUPnevTLC41JYK"
+    },
+    {
       "added_at": "2023-07-28 15:39:38",
       "album": {
         "name": "Blackout",
@@ -471,6 +503,26 @@
       "duration_ms": 186462,
       "name": "Unstoppable (feat. Cory Marks)",
       "url": "https://open.spotify.com/track/3MWCJZybLRQ0skDYnSP1Ze"
+    },
+    {
+      "added_at": "2024-06-14 17:37:47",
+      "album": {
+        "name": "Soul Revolution Deluxe: The Collabs",
+        "url": "https://open.spotify.com/album/3zJkZv2QjamztjHmzShhuQ"
+      },
+      "artists": [
+        {
+          "name": "Fire From The Gods",
+          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
+        },
+        {
+          "name": "Nate Vickers",
+          "url": "https://open.spotify.com/artist/7nafgjvAAKl1GZflgBbBbm"
+        }
+      ],
+      "duration_ms": 218147,
+      "name": "SOS (feat. Nate Vickers)",
+      "url": "https://open.spotify.com/track/5Jkg6h2W1msCoLCIJ75vTA"
     },
     {
       "added_at": "2023-07-28 15:42:32",
@@ -2703,6 +2755,58 @@
       "duration_ms": 179045,
       "name": "Savior",
       "url": "https://open.spotify.com/track/6BwmYF0DqrrX6OkaOJphQH"
+    },
+    {
+      "added_at": "2024-06-14 17:35:58",
+      "album": {
+        "name": "A Banger A Day Keeps The Doctor Away",
+        "url": "https://open.spotify.com/album/44YwGDqhcIbzprf301vs2Q"
+      },
+      "artists": [
+        {
+          "name": "Solence",
+          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
+        }
+      ],
+      "duration_ms": 216287,
+      "name": "A Banger A Day Keeps The Doctor Away",
+      "url": "https://open.spotify.com/track/7AvALXbGFUPnevTLC41JYK"
+    },
+    {
+      "added_at": "2024-06-14 17:36:07",
+      "album": {
+        "name": "Soul Revolution Deluxe: The Collabs",
+        "url": "https://open.spotify.com/album/3zJkZv2QjamztjHmzShhuQ"
+      },
+      "artists": [
+        {
+          "name": "Fire From The Gods",
+          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
+        },
+        {
+          "name": "Nate Vickers",
+          "url": "https://open.spotify.com/artist/7nafgjvAAKl1GZflgBbBbm"
+        }
+      ],
+      "duration_ms": 218147,
+      "name": "SOS (feat. Nate Vickers)",
+      "url": "https://open.spotify.com/track/5Jkg6h2W1msCoLCIJ75vTA"
+    },
+    {
+      "added_at": "2024-06-14 17:37:26",
+      "album": {
+        "name": "Soul Revolution Deluxe: The Collabs",
+        "url": "https://open.spotify.com/album/3zJkZv2QjamztjHmzShhuQ"
+      },
+      "artists": [
+        {
+          "name": "Fire From The Gods",
+          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
+        }
+      ],
+      "duration_ms": 203706,
+      "name": "Guerrilla Radio",
+      "url": "https://open.spotify.com/track/1lenAyuxQejwcsgLQtGqPV"
     }
   ],
   "unique_name": "Hard Rock Workout",

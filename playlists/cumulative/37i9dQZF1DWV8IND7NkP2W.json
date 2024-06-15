@@ -7531,6 +7531,28 @@
     },
     {
       "album": {
+        "name": "Mifflin'",
+        "url": "https://open.spotify.com/album/5u5np8MwFWHWgBEAYpnggf"
+      },
+      "artists": [
+        {
+          "name": "Noflik",
+          "url": "https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt"
+        },
+        {
+          "name": "Tenda Senda",
+          "url": "https://open.spotify.com/artist/3yZ1Z0nJmVbL3KFP1afffU"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154520,
+      "name": "Mifflin'",
+      "url": "https://open.spotify.com/track/51J4SXEGP6b7EBVN9eVMxb"
+    },
+    {
+      "album": {
         "name": "Minor Sights",
         "url": "https://open.spotify.com/album/1owPNAaXMDvIonCXvGphVQ"
       },
@@ -7856,7 +7878,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 174578,
       "name": "Moon Walk",
       "url": "https://open.spotify.com/track/3YwotDcCJreaemW9Zb2PP8"
@@ -8596,6 +8618,28 @@
       "duration_ms": 172000,
       "name": "Night Crawl",
       "url": "https://open.spotify.com/track/0qtpXpFtLklZHtComSaSoE"
+    },
+    {
+      "album": {
+        "name": "Night Cruising",
+        "url": "https://open.spotify.com/album/0u5sIKkyupnEQoeTHeG7W0"
+      },
+      "artists": [
+        {
+          "name": "MAHBIE",
+          "url": "https://open.spotify.com/artist/5ggbey9WKiS849lppw8lbs"
+        },
+        {
+          "name": "5OW",
+          "url": "https://open.spotify.com/artist/0JpibIwAjEszA07tpAL164"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92210,
+      "name": "Night Cruising",
+      "url": "https://open.spotify.com/track/1dHfPdc1Vi0lO1uMGyxlfm"
     },
     {
       "album": {
@@ -10974,7 +11018,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 129229,
       "name": "Sliding Doors",
       "url": "https://open.spotify.com/track/3Cxr6JFgfsDlTpFvLjGiEk"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 
 > Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: Maya Amolo
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,759 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,780 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 | 59 | [Niambie](https://open.spotify.com/track/12QXwJTH3XlsNXG7nKbxil) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [MY WAY:VOLUME II](https://open.spotify.com/album/2UX55Fw5fkscU7xWo5wvvK) | 2:38 |
 | 60 | [till forever ends](https://open.spotify.com/track/2ZVOWgbP2Nj76kctTF1jjX) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [little messages](https://open.spotify.com/album/7hDzyjqHrig751Igo5ebvN) | 2:56 |
 
-Snapshot ID: `ZmuHxAAAAACDMA78czIb4lCEYW1gVATg`
+Snapshot ID: `ZmwJqgAAAAARj38hT4Gwr5gvjUBLax0q`

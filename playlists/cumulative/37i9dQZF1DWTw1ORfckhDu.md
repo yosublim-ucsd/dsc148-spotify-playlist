@@ -4,7 +4,7 @@
 
 > 100 Suomi 💯 Kannessa LEWI, Cledos ja VJ
 
-590 songs - 1 day 4 hr 14 min
+591 songs - 1 day 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Huutaa \(feat\. Nebi & Ege Zulu\)](https://open.spotify.com/track/1Ehwz4d0p1xulrFmsE0PSk) | [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944), [Nebi](https://open.spotify.com/artist/0GFEJvcMqGLuhOUUZJavP4), [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O) | [Huutaa \(feat\. Nebi & Ege Zulu\)](https://open.spotify.com/album/0ug4mhNJmpCSrl1UuEyK1U) | 2:44 | 2023-09-21 | 2023-10-13 |
 | [Hymy](https://open.spotify.com/track/6zgw3TXZVHKcsVt8WJdf23) | [Sipe](https://open.spotify.com/artist/3E7bCbwpFw5rgvOD28C1XZ) | [Hymy](https://open.spotify.com/album/0UIshpwXN68SbhzSLZV4mt) | 2:14 | 2024-05-16 |  |
 | [Häivytään](https://open.spotify.com/track/1WrFtx5nBfNPXmJ9RKWJzj) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Yks Kaks / Häivytään](https://open.spotify.com/album/7MNvDdJhEYAkYgaEvswL9N) | 2:44 | 2024-03-21 | 2024-04-19 |
+| [HÄNES](https://open.spotify.com/track/1GMgV7OlLkdZ6nVq4vTZFo) | [Vinttikoira](https://open.spotify.com/artist/5BYjPxHBd5aCz5Pt8igAXl), [NickyDiesel](https://open.spotify.com/artist/2Wo5oaP19W1SpOtkY8Rxof) | [HÄNES](https://open.spotify.com/album/4tDUIBqDZy3AmhvyMSA4Lp) | 3:33 | 2024-06-14 |  |
 | [Härkä](https://open.spotify.com/track/5TYypnnkujwZ8P21OAJ2Kw) | [Olli Antonio](https://open.spotify.com/artist/5UzvBU2UU03rt1kSLGGZa9) | [Härkä](https://open.spotify.com/album/5zMykZH0xBJOTr2KDMOmGd) | 2:51 | 2023-10-19 | 2023-11-10 |
 | [I MADE IT](https://open.spotify.com/track/7himCW3eabGPJ17qGSgb1X) | [Jokrates](https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE) | [I MADE IT](https://open.spotify.com/album/2eYpiQQvI9WPYMbsPpXSr7) | 3:18 | 2023-11-23 | 2023-12-15 |
 | [Ignorant \(feat\. Puri, Landon Cube\) \- Spotify Singles](https://open.spotify.com/track/6B40gOyEJU52bnuyepRubO) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp), [Landon Cube](https://open.spotify.com/artist/04ei5kNgmDuNAydFhhIHnD) | [Ignorant / Good Time](https://open.spotify.com/album/5lEr77mX7UpUDwZQpAl7No) | 3:56 | 2023-09-21 | 2023-09-29 |

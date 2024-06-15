@@ -6,7 +6,7 @@
     "name": "skillstreet",
     "url": "https://open.spotify.com/user/skillstreet"
   },
-  "snapshot_id": "AAADuShMTlfBDgin/m5m433+piqb0kL2",
+  "snapshot_id": "AAADvJWATx/xVHJWGAnGvq3708cZsDuL",
   "tracks": [
     {
       "added_at": "2022-05-25 21:35:35",
@@ -14101,7 +14101,7 @@
         }
       ],
       "duration_ms": 147746,
-      "name": "Bandit",
+      "name": "BANDIT",
       "url": "https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s"
     },
     {
@@ -14831,6 +14831,74 @@
       "duration_ms": 140733,
       "name": "BAND4BAND (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD"
+    },
+    {
+      "added_at": "2024-06-14 04:22:55",
+      "album": {
+        "name": "TO THE GRAVE",
+        "url": "https://open.spotify.com/album/3oftYhgmFsRf56Ivz1CbVV"
+      },
+      "artists": [
+        {
+          "name": "HotBlock Jmoe",
+          "url": "https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 216398,
+      "name": "TO THE GRAVE",
+      "url": "https://open.spotify.com/track/12Qfni7HZUowpG6NNtM10g"
+    },
+    {
+      "added_at": "2024-06-14 17:55:22",
+      "album": {
+        "name": "HARDSTONE PSYCHO",
+        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "duration_ms": 207586,
+      "name": "PURPLE RAIN (FEAT. FUTURE & METRO BOOMIN)",
+      "url": "https://open.spotify.com/track/7i8ncEfBk3s0w5YoG43SV9"
+    },
+    {
+      "added_at": "2024-06-14 17:59:42",
+      "album": {
+        "name": "HARDSTONE PSYCHO",
+        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 218200,
+      "name": "ICE AGE (FEAT. TRAVIS SCOTT)",
+      "url": "https://open.spotify.com/track/4nhcjelU9PidsBzUkazfZs"
     }
   ],
   "unique_name": "locked tf in\ud83d\udd12",

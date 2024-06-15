@@ -4,7 +4,7 @@
 
 > May the Force be with you\. Listen to all the best Star Wars tracks, all in one place.
 
-151 songs - 8 hr 15 min
+152 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Order 66](https://open.spotify.com/track/4pPQxN2GlHsVgAThcfAyK8) | [Natalie Holt](https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ) | [Obi\-Wan Kenobi \(Original Soundtrack\)](https://open.spotify.com/album/2hDDDUl05cnWTrheIVVCma) | 1:40 | 2022-06-28 |  |
 | [Padmé](https://open.spotify.com/track/4ud5wmcUNNO4f9FkPw3FxA) | [Kevin Kiner](https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW) | [Star Wars: The Clone Wars \(Seasons One Through Six/Original Soundtrack\)](https://open.spotify.com/album/4GBpwL8Q9iRbfhtzlkbrKC) | 1:39 | 2021-05-14 |  |
 | [Peace and Purpose](https://open.spotify.com/track/5bhVXcAkmihE4YvKdGimxL) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Last Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX) | 3:06 | 2021-05-14 |  |
+| [Power of Two \- From "Star Wars: The Acolyte"](https://open.spotify.com/track/0cDYBv72lfW0wWGmCGiESV) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Power of Two \(From "Star Wars: The Acolyte"\)](https://open.spotify.com/album/1V18j7d2a9thfb7IB3wW6n) | 3:16 | 2024-06-14 |  |
 | [Princess Leia's Theme](https://open.spotify.com/track/7hlYfQpGJWdheP2quiyz8j) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: A New Hope \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy) | 4:23 | 2024-05-03 |  |
 | [Racing Mix](https://open.spotify.com/track/4P6sr3fe8K6d7EyJoual7j) | [Kevin Kiner](https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW) | [Star Wars: The Bad Batch – Season 2: Vol\. 1 \(Episodes 1\-8\) \[Original Soundtrack\]](https://open.spotify.com/album/7smEVA9YBJQ2PwFk83js1M) | 2:54 | 2023-02-21 |  |
 | [Requiem for Blasters](https://open.spotify.com/track/3rpd2CDwDkSrFGE5M8EvWO) | [Kevin Penkin](https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y) | [Star Wars: Visions \- The Village Bride \(Original Soundtrack\)](https://open.spotify.com/album/5rPbPjB9rABojv7WVhO265) | 1:21 | 2021-10-14 | 2024-05-04 |

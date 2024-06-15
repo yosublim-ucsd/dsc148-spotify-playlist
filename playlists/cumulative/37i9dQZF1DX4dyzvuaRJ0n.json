@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The world's biggest dance hits. Cover: Peggy Gou",
+  "description": "The world's biggest dance hits. Cover: Kaleena Zanders",
   "name": "mint",
   "tracks": [
     {
@@ -6772,7 +6772,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 214575,
       "name": "Halo",
       "url": "https://open.spotify.com/track/6LziN7kYIkvyV4DLz5kAL1"
@@ -6926,6 +6926,28 @@
       "duration_ms": 149163,
       "name": "Heart Still Beating",
       "url": "https://open.spotify.com/track/1IYlFAw4SThAoRx5DWwAjT"
+    },
+    {
+      "album": {
+        "name": "HEAT",
+        "url": "https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217529,
+      "name": "HEAT",
+      "url": "https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD"
     },
     {
       "album": {
@@ -8222,6 +8244,24 @@
       "duration_ms": 308571,
       "name": "I Will",
       "url": "https://open.spotify.com/track/43z2fGPJgfnhOI8w6vofIa"
+    },
+    {
+      "album": {
+        "name": "I Will Find You",
+        "url": "https://open.spotify.com/album/1XxDcTMBN3ag8yHjusNpIv"
+      },
+      "artists": [
+        {
+          "name": "Mathame",
+          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209090,
+      "name": "I Will Find You",
+      "url": "https://open.spotify.com/track/74XpVeIclja8aFEtCQq1Y5"
     },
     {
       "album": {
@@ -10257,6 +10297,24 @@
     },
     {
       "album": {
+        "name": "LOOKING FOR JOY",
+        "url": "https://open.spotify.com/album/3wCt9lFevXlCjEugo5LPlV"
+      },
+      "artists": [
+        {
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "LOOKING FOR JOY",
+      "url": "https://open.spotify.com/track/5EqfKJSbG8yQBicX9YRMKu"
+    },
+    {
+      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/1OYS1FK3tnJ8JhbWuUZaqE"
       },
@@ -10484,7 +10542,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 167559,
       "name": "Love Bites (Feat. Tove Lo & SG Lewis)",
       "url": "https://open.spotify.com/track/3bgaDjKLaicRMFD3Vmw3wv"
@@ -13889,6 +13947,28 @@
     },
     {
       "album": {
+        "name": "Planet Blue",
+        "url": "https://open.spotify.com/album/60JACgI9pZoolSzyl1yCTL"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "Cleo Simone",
+          "url": "https://open.spotify.com/artist/5J88KX5m3P3TxnoUo1h2Ne"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175414,
+      "name": "Planet Blue",
+      "url": "https://open.spotify.com/track/5MvfAqLuOzuJ46quLvHhwn"
+    },
+    {
+      "album": {
         "name": "Player Of Games",
         "url": "https://open.spotify.com/album/1WdV2sVtRWpiaPAxyvq51r"
       },
@@ -16336,7 +16416,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 153518,
       "name": "Somebody (2024)",
       "url": "https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO"
@@ -18332,7 +18412,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 124710,
       "name": "Time - Edit",
       "url": "https://open.spotify.com/track/3VNoo8PUhcbWG0oxHcpeBs"

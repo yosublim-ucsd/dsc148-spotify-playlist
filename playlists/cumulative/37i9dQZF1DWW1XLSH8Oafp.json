@@ -653,6 +653,24 @@
     },
     {
       "album": {
+        "name": "afterparty",
+        "url": "https://open.spotify.com/album/0pFg1h3Hq9kIdOBVhMhwM5"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136500,
+      "name": "afterparty",
+      "url": "https://open.spotify.com/track/5Yqv4XWZq1w2ECf9zLuven"
+    },
+    {
+      "album": {
         "name": "Afterparty Lover",
         "url": "https://open.spotify.com/album/0mfPj3Ugj0OAKu9cvkIJfo"
       },
@@ -2870,6 +2888,24 @@
       "duration_ms": 223680,
       "name": "Capable of love",
       "url": "https://open.spotify.com/track/4bqDgEc3V9o0gle8mvgCgN"
+    },
+    {
+      "album": {
+        "name": "Cardio",
+        "url": "https://open.spotify.com/album/3c4iD4OaMDUcsJumwh7QbC"
+      },
+      "artists": [
+        {
+          "name": "Kissimjau",
+          "url": "https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188176,
+      "name": "Cardio",
+      "url": "https://open.spotify.com/track/6TQI3pWL9dK9zCcBjG471I"
     },
     {
       "album": {
@@ -5192,7 +5228,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 235758,
       "name": "Feel For You",
       "url": "https://open.spotify.com/track/5ro1X9qQIZVJT32Vlx4QAo"
@@ -6406,7 +6442,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 182265,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/7Au4cKPo9CYhtP4fByzYeq"
@@ -6830,7 +6866,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 154911,
       "name": "Heartbreak Hangover",
       "url": "https://open.spotify.com/track/4nEmjzru7UcuqtXQuCVgBb"
@@ -9283,6 +9319,24 @@
     },
     {
       "album": {
+        "name": "Like I Need U",
+        "url": "https://open.spotify.com/album/50QPHuRFKiJF5WnEMwr0W7"
+      },
+      "artists": [
+        {
+          "name": "BIIANCO",
+          "url": "https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Like I Need U",
+      "url": "https://open.spotify.com/track/51nw10yLvdtq9ASHgm1P42"
+    },
+    {
+      "album": {
         "name": "Like Thunder",
         "url": "https://open.spotify.com/album/78fKERJ7JYxRx89Xs1fUAx"
       },
@@ -9610,7 +9664,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 239500,
       "name": "Love",
       "url": "https://open.spotify.com/track/4hriybgE67pyiH6yz7J8R5"
@@ -12045,6 +12099,24 @@
     },
     {
       "album": {
+        "name": "Post Cause Anthem",
+        "url": "https://open.spotify.com/album/1PKwLs5oKKjjZZhC94Wcgc"
+      },
+      "artists": [
+        {
+          "name": "Sam Girling",
+          "url": "https://open.spotify.com/artist/3zQO5XxE5WRRWqk58vt0dS"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212172,
+      "name": "Post Cause Anthem",
+      "url": "https://open.spotify.com/track/6VdmJeeszO1k0LNfWj6WQx"
+    },
+    {
+      "album": {
         "name": "Post Nut Clarity",
         "url": "https://open.spotify.com/album/5E4FRTJyliNAWkPX84mA5f"
       },
@@ -14242,7 +14314,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 206964,
       "name": "Stay With Me (with Absolutely)",
       "url": "https://open.spotify.com/track/1p8R6ArQGBFpzoaLJiLvJh"
@@ -14376,7 +14448,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 172964,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
@@ -14489,6 +14561,24 @@
     },
     {
       "album": {
+        "name": "summer high",
+        "url": "https://open.spotify.com/album/5r9KJXVoPFOhxg9WXX3XbZ"
+      },
+      "artists": [
+        {
+          "name": "niina",
+          "url": "https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176346,
+      "name": "summer high",
+      "url": "https://open.spotify.com/track/0SRnhXZQJnWe5LpXmALHxA"
+    },
+    {
+      "album": {
         "name": "Alchemy",
         "url": "https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71"
       },
@@ -14504,6 +14594,24 @@
       "duration_ms": 274677,
       "name": "Sun Showers",
       "url": "https://open.spotify.com/track/5xbCwWdi2a6qa7zOFc7Ej6"
+    },
+    {
+      "album": {
+        "name": "SUNBURN",
+        "url": "https://open.spotify.com/album/4GJ4LRrT2W9JAvmTwpVMQ5"
+      },
+      "artists": [
+        {
+          "name": "charlieeeee",
+          "url": "https://open.spotify.com/artist/06a7x2F8Yi3TARax1iFKIp"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160862,
+      "name": "SUNBURN",
+      "url": "https://open.spotify.com/track/5gH7QdBAj1HocANgmLwGXD"
     },
     {
       "album": {
@@ -15072,6 +15180,24 @@
       "duration_ms": 161658,
       "name": "The Garden",
       "url": "https://open.spotify.com/track/6doL1BRkcTJtCTrdT2fKkV"
+    },
+    {
+      "album": {
+        "name": "The Ride",
+        "url": "https://open.spotify.com/album/00FaP9dz2MH7dpEVJxcjn8"
+      },
+      "artists": [
+        {
+          "name": "SWIM",
+          "url": "https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "The Ride",
+      "url": "https://open.spotify.com/track/1YnFltuRxUzeSoYGBylKOs"
     },
     {
       "album": {
@@ -16648,7 +16774,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 211970,
       "name": "WFT",
       "url": "https://open.spotify.com/track/3KcvhdB2XV8U0s6PbIy1bc"

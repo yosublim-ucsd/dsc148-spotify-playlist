@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 
 ### [This Is Lainey Wilson](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Pjfzk)
 
-> This is Lainey Wilson\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Lainey Wilson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,735 likes - 46 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,826 likes - 46 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 | 13 | [Never Say Never \(with Lainey Wilson\)](https://open.spotify.com/track/3iYEsBl8NBq1o1j5uY2Noe) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Stereotype](https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa) | 2:56 |
 | 14 | [Dreamcatcher](https://open.spotify.com/track/6DdG99q2hNKrSHZ7hL6pBt) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Lainey Wilson \- EP](https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga) | 3:24 |
 | 15 | [Atta Girl](https://open.spotify.com/track/5yDmKWFlzwTRU4LPyD9MCi) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:26 |
-| 16 | [Praying Woman](https://open.spotify.com/track/0c0yiRhp1dQhjrC2kXOJ10) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [REBEL](https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V) | 3:51 |
-| 17 | [Workin' Overtime](https://open.spotify.com/track/7moCajI0QyQ4mHf1ayiihD) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Workin' Overtime](https://open.spotify.com/album/7lSO4tNS7QRbsJXY8PAq7O) | 3:17 |
+| 16 | [Workin' Overtime](https://open.spotify.com/track/7moCajI0QyQ4mHf1ayiihD) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Workin' Overtime](https://open.spotify.com/album/7lSO4tNS7QRbsJXY8PAq7O) | 3:17 |
+| 17 | [Praying Woman](https://open.spotify.com/track/0c0yiRhp1dQhjrC2kXOJ10) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [REBEL](https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V) | 3:51 |
 | 18 | [Waste of Good Whiskey](https://open.spotify.com/track/3S4ruu2F7dMeRY7FV0ayTb) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Lainey Wilson \- EP](https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga) | 2:55 |
 | 19 | [Weak\-End](https://open.spotify.com/track/56lYNZIKYuWDjYkfvJao2e) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:28 |
 | 20 | [Sayin’ What I’m Thinkin’](https://open.spotify.com/track/5AzFlhzijKM7xFPY5b1taP) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin’ What I’m Thinkin’](https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR) | 3:21 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 | 33 | [Middle Finger \- Spotify Singles](https://open.spotify.com/track/0aioEeNyDjBwl7yb0xH0Rg) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Spotify Singles](https://open.spotify.com/album/6FScslXq5fezJiaKFRwBlQ) | 2:36 |
 | 34 | [Poor, Poor Pitiful Me](https://open.spotify.com/track/53lv0crKsP5DzRj42Ob65x) | [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Terri Clark: Take Two](https://open.spotify.com/album/5T3rAvru0i4Zt08lmYLy0v) | 3:15 |
 | 35 | [Prop Me Up Beside The Jukebox \(If I Die\) \[feat\. The Difftones\]](https://open.spotify.com/track/5X9G3iIyegabYrQQLuzFIs) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD), [The Difftones](https://open.spotify.com/artist/5MYSJaOAK3vklrmAlD3q5q) | [HIXTAPE: Vol\. 3: DIFFTAPE](https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O) | 3:48 |
-| 36 | [More Than Friends \(feat\. Lainey Wilson\)](https://open.spotify.com/track/0ux8xs7l9rh1Hr8SgExguM) | [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [More Than Friends \(feat\. Lainey Wilson\)](https://open.spotify.com/album/0aJOXNP0MBlCLrhJF61Igw) | 3:01 |
-| 37 | [Refugee](https://open.spotify.com/track/607QAv6xaTMW1tkjgx59JE) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Refugee](https://open.spotify.com/album/7snxpZlyi8B7T6dEi3zw1k) | 3:50 |
+| 36 | [Refugee](https://open.spotify.com/track/607QAv6xaTMW1tkjgx59JE) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Refugee](https://open.spotify.com/album/7snxpZlyi8B7T6dEi3zw1k) | 3:50 |
+| 37 | [More Than Friends \(feat\. Lainey Wilson\)](https://open.spotify.com/track/0ux8xs7l9rh1Hr8SgExguM) | [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [More Than Friends \(feat\. Lainey Wilson\)](https://open.spotify.com/album/0aJOXNP0MBlCLrhJF61Igw) | 3:01 |
 | 38 | [You Oughta Know \(feat\. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade\) \- Spotify Singles](https://open.spotify.com/track/7aJmIQGixZmzDUBm3nUIIv) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa), [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [You Oughta Know \(feat\. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade\) \[Spotify Singles\]](https://open.spotify.com/album/6IwwVGLtiflk9IkTcRwE6n) | 4:16 |
 | 39 | [Two Sides of Bad](https://open.spotify.com/track/4LyY1jvrnKnIWl3uv94qd1) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Tougher](https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo) | 2:50 |
 | 40 | [Comin' To Your City \- ESPN College Gameday](https://open.spotify.com/track/39DjHTMaFuDAMdXtq09fNN) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Comin' To Your City \(ESPN College Gameday\)](https://open.spotify.com/album/0youbMUrUsYtJdNe6v9UdW) | 1:43 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 | 45 | [I Make Myself](https://open.spotify.com/track/4lY4XM0j4EwIwm4cFoQyNs) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Tougher](https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo) | 4:34 |
 | 46 | [Gravel](https://open.spotify.com/track/2W08wJxwvaM5k9bjV2cEEI) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Tougher](https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo) | 4:22 |
 
-Snapshot ID: `ZmjlAAAAAABe5xfdpugh6ZjFscduwKS9`
+Snapshot ID: `Zmo2gAAAAABslNCLjEue7j1eljS9xFgf`

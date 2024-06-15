@@ -2717,6 +2717,28 @@
     },
     {
       "album": {
+        "name": "SPEAK NOW",
+        "url": "https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161052,
+      "name": "WHISKEY WHISKEY (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/7hRLuo4QnzCsjICXUOhTE6"
+    },
+    {
+      "album": {
         "name": "Work That",
         "url": "https://open.spotify.com/album/3wi2k5B4qfXu3EwmTsggjD"
       },

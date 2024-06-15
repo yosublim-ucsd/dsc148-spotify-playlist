@@ -1209,6 +1209,24 @@
     },
     {
       "album": {
+        "name": "Arco y Flecha",
+        "url": "https://open.spotify.com/album/5TEvOwAKlHcNOqM5EUnohR"
+      },
+      "artists": [
+        {
+          "name": "Mi Amigo Invencible",
+          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163496,
+      "name": "Caballos",
+      "url": "https://open.spotify.com/track/24XhxQCrRigCd7wMEbbRaI"
+    },
+    {
+      "album": {
         "name": "333",
         "url": "https://open.spotify.com/album/7wepZzZxhVV8M5eM9u8StC"
       },
@@ -8655,6 +8673,24 @@
     },
     {
       "album": {
+        "name": "CORRENTADA",
+        "url": "https://open.spotify.com/album/3yWOpyyG9Plm2O1Y7uD4Gh"
+      },
+      "artists": [
+        {
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271237,
+      "name": "Pulpo",
+      "url": "https://open.spotify.com/track/2VyySCdsyFL2Q0f6oiERG1"
+    },
+    {
+      "album": {
         "name": "Pussy Pancake",
         "url": "https://open.spotify.com/album/22gi3ijlL33ge8zqEBV6F0"
       },
@@ -8836,7 +8872,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 258629,
       "name": "Rayo El\u00e9ctrico",
       "url": "https://open.spotify.com/track/7B29BMyYb5jgnwfiJxLwq8"
@@ -10020,7 +10056,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 173914,
       "name": "Todo de mi (Todo de vos)",
       "url": "https://open.spotify.com/track/5gWdUxIfynfRq94ypST6mY"

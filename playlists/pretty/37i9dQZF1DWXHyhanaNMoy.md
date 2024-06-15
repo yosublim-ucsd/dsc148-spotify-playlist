@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion en good vibes\. Superster: Alessio
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,090 likes - 70 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,159 likes - 70 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 65 | [Perdiste](https://open.spotify.com/track/2A7ZjaERtQStEmMhSU1BU3) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Perdiste](https://open.spotify.com/album/7kViNXWBbOD3RahNpEZMr3) | 1:59 |
 | 66 | [Lost & Found](https://open.spotify.com/track/7kleqbfZAvPzMMiX1uxCin) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Lost & Found](https://open.spotify.com/album/2UMTQXRwobqaIDJaYDsHN8) | 3:15 |
 | 67 | [Commas](https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Commas](https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA) | 2:37 |
-| 68 | [T’étais où ?](https://open.spotify.com/track/1q6nM8Y7NJDsgFknLfZfp4) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [T’étais où ?](https://open.spotify.com/album/4YzgzJggoHU1azpDoUMMf5) | 3:41 |
+| 68 | [T’étais où ?](https://open.spotify.com/track/1q6nM8Y7NJDsgFknLfZfp4) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [T’étais où ?](https://open.spotify.com/album/4YzgzJggoHU1azpDoUMMf5) | 3:41 |
 | 69 | [My Type](https://open.spotify.com/track/6OG7hyl1LZv2dq9QXX7WEv) | [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt) | [My Type](https://open.spotify.com/album/5RrcjQOHU4p7Buzgkj1cvq) | 2:55 |
 | 70 | [Hypé \(feat\. Ayra Starr\)](https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Hypé \(feat\. Ayra Starr\)](https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD) | 2:37 |
 

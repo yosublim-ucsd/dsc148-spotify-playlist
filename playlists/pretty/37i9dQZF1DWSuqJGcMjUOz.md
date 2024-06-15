@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 
 > Découvrez les artistes à l'affiche de l’édition 2024 des Francos de Montréal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,562 likes - 125 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,584 likes - 125 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 112 | [Après la nuit](https://open.spotify.com/track/0BPbIaHil9VVRgKUTOrA3k) | [Marie\-Annick Lepine](https://open.spotify.com/artist/6X0xLOYFVNmRVbKM7t46X3) | [J'ai brodé mon cœur](https://open.spotify.com/album/1PEpCslLEnFiASwWXpkXrP) | 0:34 |
 | 113 | [Ailleurs](https://open.spotify.com/track/6c6DYfUdwCPciEPPsxJN2P) | [Parazar](https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD), [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [Elle était une fois](https://open.spotify.com/album/3mHCRXJZDxAyAcRd2wPwNQ) | 2:51 |
 | 114 | [Plage](https://open.spotify.com/track/2998oP5SBv3hzc4lefuK6B) | [Fanny Bloom](https://open.spotify.com/artist/5WjAa6SM7JS2zr4HfSPsII), [Greg Beaudin](https://open.spotify.com/artist/546YsSEtGcmiOu121v7Yj0) | [Holistique](https://open.spotify.com/album/4EjrzXrsVMgoc4MMWOBMcM) | 3:13 |
-| 115 | [Sorry](https://open.spotify.com/track/6p84e47BuGYmh282V13y4H) | [Dylan Dylan](https://open.spotify.com/artist/2xwod0qobIBd0aaKo4t6BY), [Emma Wizz](https://open.spotify.com/artist/2fAdSDBTsaj7YvTUPHWMTE) | [Sorry](https://open.spotify.com/album/20hYXKljxpp3OB34PHcaIo) | 3:43 |
-| 116 | [Soso](https://open.spotify.com/track/5ugVYYDavQiHeu27gFEbll) | [Kizaba](https://open.spotify.com/artist/57I0wEuRpFPzqFEQTKjP2X) | [Kizavibe](https://open.spotify.com/album/3UmSnzA1lWOT8Y2Pji5Wvv) | 3:50 |
+| 115 | [Soso](https://open.spotify.com/track/5ugVYYDavQiHeu27gFEbll) | [Kizaba](https://open.spotify.com/artist/57I0wEuRpFPzqFEQTKjP2X) | [Kizavibe](https://open.spotify.com/album/3UmSnzA1lWOT8Y2Pji5Wvv) | 3:50 |
+| 116 | [Sorry](https://open.spotify.com/track/6p84e47BuGYmh282V13y4H) | [Dylan Dylan](https://open.spotify.com/artist/2xwod0qobIBd0aaKo4t6BY), [Emma Wizz](https://open.spotify.com/artist/2fAdSDBTsaj7YvTUPHWMTE) | [Sorry](https://open.spotify.com/album/20hYXKljxpp3OB34PHcaIo) | 3:43 |
 | 117 | [Où est passé mon contour](https://open.spotify.com/track/21nOADtle90zRJ13y4Poy1) | [Sandra Contour](https://open.spotify.com/artist/2HqHdeGxArnQWvcEz57v4H) | [Où est passé mon contour](https://open.spotify.com/album/14179pvxliO47am5SkoCLw) | 3:01 |
 | 118 | [Holla](https://open.spotify.com/track/6GBNzIYj90vLRZNmdiS3VR) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [On frap la route?](https://open.spotify.com/album/7hES63PMmDtTdyuXzN2usE) | 2:52 |
 | 119 | [Le bois](https://open.spotify.com/track/7rDjKfbvrjrhCgQVQoSE6V) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [La clairière](https://open.spotify.com/album/6Q5X9RmkPOay3CQQMYTplq) | 2:59 |

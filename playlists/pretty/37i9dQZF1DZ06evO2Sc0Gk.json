@@ -1,12 +1,12 @@
 {
-  "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 19134,
+  "description": "This is Mr Eazi. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 19143,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjlAAAAAABKDFQrZsp/nM4mKEuB5Qkk",
+  "snapshot_id": "Zmo2gAAAAADiIoSb1WJ18y1e5OINkvbD",
   "tracks": [
     {
       "added_at": null,
@@ -99,6 +99,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Colores",
+        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 186693,
+      "name": "Arco\u00edris",
+      "url": "https://open.spotify.com/track/5zzbORcD0GwLY0wQHP1Xs1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Skin Tight",
         "url": "https://open.spotify.com/album/0xkIlDRadF78PKqsAS2DSo"
       },
@@ -163,22 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Something Else",
-        "url": "https://open.spotify.com/album/45GIEj8DhZu8zUPTWokULu"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 119290,
-      "name": "Saudi Arabia",
-      "url": "https://open.spotify.com/track/5PRU9ErsMVSRNzDeczXanb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Evil Genius",
         "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
       },
@@ -191,6 +195,22 @@
       "duration_ms": 168150,
       "name": "Chop Time, No Friend",
       "url": "https://open.spotify.com/track/4qbEAsnEwISp19ebujxhg4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Something Else",
+        "url": "https://open.spotify.com/album/45GIEj8DhZu8zUPTWokULu"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 119290,
+      "name": "Saudi Arabia",
+      "url": "https://open.spotify.com/track/5PRU9ErsMVSRNzDeczXanb"
     },
     {
       "added_at": null,
@@ -243,26 +263,6 @@
       "duration_ms": 155990,
       "name": "DON'T JEALOUS ME",
       "url": "https://open.spotify.com/track/1yvFoBp2Bq1ilD0518ZpQx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Decline",
-        "url": "https://open.spotify.com/album/17Fwkmg4UJ9ORmuOfqb1ud"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 188172,
-      "name": "Decline",
-      "url": "https://open.spotify.com/track/4qCc2AVDeJYIpAHi9AX1N0"
     },
     {
       "added_at": null,
@@ -703,6 +703,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Evil Genius",
+        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 151543,
+      "name": "Jamboree",
+      "url": "https://open.spotify.com/track/17Yhnis5nnAKKRQKMAHtse"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chop Life, Vol. 1: Mzansi Chronicles",
         "url": "https://open.spotify.com/album/2TvhWKLTi6Gv3LCndQDeM0"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 194819,
       "name": "Wena",
       "url": "https://open.spotify.com/track/4DOTgsTJcISBUpLLvo5Hrn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Evil Genius",
-        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 151543,
-      "name": "Jamboree",
-      "url": "https://open.spotify.com/track/17Yhnis5nnAKKRQKMAHtse"
     },
     {
       "added_at": null,

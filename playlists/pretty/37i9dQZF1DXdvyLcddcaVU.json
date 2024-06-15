@@ -1,32 +1,28 @@
 {
   "description": "#fyp\n",
-  "num_followers": 544831,
+  "num_followers": 545363,
   "original_name": "t'as la ref ?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmLnjAAAAABjgmgg9txtfLmx3Avuv96u",
+  "snapshot_id": "ZmxniwAAAACtArw98sBTnIm//bBSSDHv",
   "tracks": [
     {
-      "added_at": "2024-05-17 15:22:51",
+      "added_at": "2024-05-26 13:19:35",
       "album": {
-        "name": "M\u00e9lanine",
-        "url": "https://open.spotify.com/album/0ovXNQjta5DdP31OAMlKXO"
+        "name": "Hakayet",
+        "url": "https://open.spotify.com/album/7Hd8VNqE8T9eK13RUSsWQC"
       },
       "artists": [
         {
-          "name": "Heuss L'enfoir\u00e9",
-          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
-        },
-        {
-          "name": "Werenoi",
-          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+          "name": "VEN1",
+          "url": "https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL"
         }
       ],
-      "duration_ms": 180923,
-      "name": "M\u00e9lanine",
-      "url": "https://open.spotify.com/track/7GCU3DlRW3s65f6JjNBrM4"
+      "duration_ms": 155448,
+      "name": "Hakayet",
+      "url": "https://open.spotify.com/track/5bww9Wf6TszHmZVooMR5um"
     },
     {
       "added_at": "2024-05-17 15:22:51",
@@ -61,20 +57,72 @@
       "url": "https://open.spotify.com/track/2fisgK2Gvu3Fn2yShuZqaO"
     },
     {
-      "added_at": "2024-05-26 13:19:35",
+      "added_at": "2024-05-07 12:10:49",
       "album": {
-        "name": "Hakayet",
-        "url": "https://open.spotify.com/album/7Hd8VNqE8T9eK13RUSsWQC"
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6"
       },
       "artists": [
         {
-          "name": "VEN1",
-          "url": "https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL"
+          "name": "Carbonne",
+          "url": "https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD"
         }
       ],
-      "duration_ms": 155448,
-      "name": "Hakayet",
-      "url": "https://open.spotify.com/track/5bww9Wf6TszHmZVooMR5um"
+      "duration_ms": 165775,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4"
+    },
+    {
+      "added_at": "2024-05-17 15:22:51",
+      "album": {
+        "name": "M\u00e9lanine",
+        "url": "https://open.spotify.com/album/0ovXNQjta5DdP31OAMlKXO"
+      },
+      "artists": [
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        },
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "M\u00e9lanine",
+      "url": "https://open.spotify.com/track/7GCU3DlRW3s65f6JjNBrM4"
+    },
+    {
+      "added_at": "2024-06-14 15:53:47",
+      "album": {
+        "name": "DANS MON MONDE",
+        "url": "https://open.spotify.com/album/0ZF0smxfOf7iK27jC7SEyk"
+      },
+      "artists": [
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "duration_ms": 172368,
+      "name": "DANS MON MONDE",
+      "url": "https://open.spotify.com/track/0R3uBKGyMHv8loHPX1X4hz"
+    },
+    {
+      "added_at": "2024-05-31 14:55:38",
+      "album": {
+        "name": "Jeu De Jambes",
+        "url": "https://open.spotify.com/album/29VGHpvyLnZdJyX1aVkTXZ"
+      },
+      "artists": [
+        {
+          "name": "Davy One",
+          "url": "https://open.spotify.com/artist/3QCQdyKtg9Yx1rYYnMb7pz"
+        }
+      ],
+      "duration_ms": 131428,
+      "name": "Jeu De Jambes",
+      "url": "https://open.spotify.com/track/2vYKJpvtR9JNtBmLW8tAac"
     },
     {
       "added_at": "2024-05-31 14:55:38",
@@ -93,20 +141,20 @@
       "url": "https://open.spotify.com/track/2c5V0zLWBGh6qg15AJZOAn"
     },
     {
-      "added_at": "2024-05-07 12:10:49",
+      "added_at": "2024-06-14 15:53:47",
       "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6"
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
       },
       "artists": [
         {
-          "name": "Carbonne",
-          "url": "https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD"
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
         }
       ],
-      "duration_ms": 165775,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4"
+      "duration_ms": 176027,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
     },
     {
       "added_at": "2024-05-07 12:10:49",
@@ -149,6 +197,42 @@
       "url": "https://open.spotify.com/track/2Tr3E5pg3IGC64zrihS5Vf"
     },
     {
+      "added_at": "2024-06-14 15:53:47",
+      "album": {
+        "name": "Confidences",
+        "url": "https://open.spotify.com/album/4SU8HMrBkIDyCMXj552kNE"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        },
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        }
+      ],
+      "duration_ms": 128197,
+      "name": "Confidences",
+      "url": "https://open.spotify.com/track/3w3ccBSWumRfMn2lYEwZLi"
+    },
+    {
+      "added_at": "2024-04-19 14:36:32",
+      "album": {
+        "name": "Michael Jordan",
+        "url": "https://open.spotify.com/album/56C3vM0iBhNvx6p3i29ugU"
+      },
+      "artists": [
+        {
+          "name": "DA Uzi",
+          "url": "https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf"
+        }
+      ],
+      "duration_ms": 223141,
+      "name": "Michael Jordan",
+      "url": "https://open.spotify.com/track/6zUuYG5WmHSHNoZQ13TiT2"
+    },
+    {
       "added_at": "2024-05-03 14:40:23",
       "album": {
         "name": "Boucan (feat. Franglish)",
@@ -189,20 +273,20 @@
       "url": "https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK"
     },
     {
-      "added_at": "2024-04-19 14:36:32",
+      "added_at": "2024-06-14 15:53:47",
       "album": {
-        "name": "Michael Jordan",
-        "url": "https://open.spotify.com/album/56C3vM0iBhNvx6p3i29ugU"
+        "name": "Viva Bertaga",
+        "url": "https://open.spotify.com/album/63D6gCJC7Wc3gtX819iBer"
       },
       "artists": [
         {
-          "name": "DA Uzi",
-          "url": "https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf"
+          "name": "B\u00e9rurier Noir",
+          "url": "https://open.spotify.com/artist/4boY3fDYvqcujNmLZpQdbc"
         }
       ],
-      "duration_ms": 223141,
-      "name": "Michael Jordan",
-      "url": "https://open.spotify.com/track/6zUuYG5WmHSHNoZQ13TiT2"
+      "duration_ms": 228960,
+      "name": "Porcherie - Live",
+      "url": "https://open.spotify.com/track/34I5gvziy5QXpXrZopO2VH"
     },
     {
       "added_at": "2024-05-17 15:22:51",
@@ -245,20 +329,64 @@
       "url": "https://open.spotify.com/track/1pA6YWfmMgbKHk36LtlcUP"
     },
     {
-      "added_at": "2024-04-19 14:36:32",
+      "added_at": "2024-06-14 15:53:47",
       "album": {
-        "name": "Dans Tes Bras",
-        "url": "https://open.spotify.com/album/1NBS1bUa2UPZpfyBg7oQpK"
+        "name": "Man In Finance (with David Guetta)",
+        "url": "https://open.spotify.com/album/1ifW7NwlodIApyFTgoEtyS"
       },
       "artists": [
         {
-          "name": "A2sia",
-          "url": "https://open.spotify.com/artist/0itGKobK447hHXkglMyy57"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Girl On Couch",
+          "url": "https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy"
+        },
+        {
+          "name": "Billen Ted",
+          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
         }
       ],
-      "duration_ms": 118101,
-      "name": "Dans Tes Bras",
-      "url": "https://open.spotify.com/track/3fnYdXsfIeTVijs8qPXt6O"
+      "duration_ms": 113595,
+      "name": "Man In Finance (with David Guetta)",
+      "url": "https://open.spotify.com/track/5ZKnajvQQbMJeUhqilzi5T"
+    },
+    {
+      "added_at": "2024-03-29 17:17:52",
+      "album": {
+        "name": "Oh qu'elle est belle",
+        "url": "https://open.spotify.com/album/2kFUXzU7bQLQCaUXu3OCC5"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "duration_ms": 220013,
+      "name": "Oh qu'elle est belle",
+      "url": "https://open.spotify.com/track/10zo4OGj1ijR4TaVi526xr"
+    },
+    {
+      "added_at": "2024-04-12 14:16:23",
+      "album": {
+        "name": "SUR LE CHEMIN (Phase 2)",
+        "url": "https://open.spotify.com/album/5snjlu5BRcHa6UFsrmF14C"
+      },
+      "artists": [
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI"
+        }
+      ],
+      "duration_ms": 165586,
+      "name": "GARS DU ZOO",
+      "url": "https://open.spotify.com/track/2x4Tzd6KDGwiMraNGopTyf"
     },
     {
       "added_at": "2024-01-05 14:15:21",
@@ -297,26 +425,6 @@
       "url": "https://open.spotify.com/track/3YRe2NXbJ5aalCE0YH6YBo"
     },
     {
-      "added_at": "2024-03-29 17:17:52",
-      "album": {
-        "name": "Oh qu'elle est belle",
-        "url": "https://open.spotify.com/album/2kFUXzU7bQLQCaUXu3OCC5"
-      },
-      "artists": [
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        },
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
-        }
-      ],
-      "duration_ms": 220013,
-      "name": "Oh qu'elle est belle",
-      "url": "https://open.spotify.com/track/10zo4OGj1ijR4TaVi526xr"
-    },
-    {
       "added_at": "2024-05-31 14:55:38",
       "album": {
         "name": "Paradise",
@@ -335,6 +443,22 @@
       "duration_ms": 326717,
       "name": "Dale x Love Therapy (feat. Aya Nakamura)",
       "url": "https://open.spotify.com/track/0sMcHdKAjVSNuNnPchQu4S"
+    },
+    {
+      "added_at": "2024-04-19 14:36:32",
+      "album": {
+        "name": "Dans Tes Bras",
+        "url": "https://open.spotify.com/album/1NBS1bUa2UPZpfyBg7oQpK"
+      },
+      "artists": [
+        {
+          "name": "A2sia",
+          "url": "https://open.spotify.com/artist/0itGKobK447hHXkglMyy57"
+        }
+      ],
+      "duration_ms": 118101,
+      "name": "Dans Tes Bras",
+      "url": "https://open.spotify.com/track/3fnYdXsfIeTVijs8qPXt6O"
     },
     {
       "added_at": "2024-02-16 14:18:10",
@@ -359,38 +483,6 @@
       "duration_ms": 163746,
       "name": "Chicha kaloud",
       "url": "https://open.spotify.com/track/1h61mBrqvIyTfS3YGgaJRe"
-    },
-    {
-      "added_at": "2024-05-31 14:55:38",
-      "album": {
-        "name": "Jeu De Jambes",
-        "url": "https://open.spotify.com/album/29VGHpvyLnZdJyX1aVkTXZ"
-      },
-      "artists": [
-        {
-          "name": "Davy One",
-          "url": "https://open.spotify.com/artist/3QCQdyKtg9Yx1rYYnMb7pz"
-        }
-      ],
-      "duration_ms": 131428,
-      "name": "Jeu De Jambes",
-      "url": "https://open.spotify.com/track/2vYKJpvtR9JNtBmLW8tAac"
-    },
-    {
-      "added_at": "2024-04-12 14:16:23",
-      "album": {
-        "name": "SUR LE CHEMIN (Phase 2)",
-        "url": "https://open.spotify.com/album/5snjlu5BRcHa6UFsrmF14C"
-      },
-      "artists": [
-        {
-          "name": "UZI",
-          "url": "https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI"
-        }
-      ],
-      "duration_ms": 165586,
-      "name": "GARS DU ZOO",
-      "url": "https://open.spotify.com/track/2x4Tzd6KDGwiMraNGopTyf"
     },
     {
       "added_at": "2024-04-12 14:16:23",
@@ -977,30 +1069,6 @@
       "url": "https://open.spotify.com/track/3BkKW3ASZ0uzvsn0ZH70Rr"
     },
     {
-      "added_at": "2023-10-20 17:48:23",
-      "album": {
-        "name": "Coffre plein",
-        "url": "https://open.spotify.com/album/5tOYj6AOxgk72xSNURFuOu"
-      },
-      "artists": [
-        {
-          "name": "Koba LaD",
-          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
-        },
-        {
-          "name": "Maes",
-          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
-        },
-        {
-          "name": "Zed",
-          "url": "https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq"
-        }
-      ],
-      "duration_ms": 220666,
-      "name": "Coffre plein",
-      "url": "https://open.spotify.com/track/7rjb8ymTxQJjAZHDny04Bn"
-    },
-    {
       "added_at": "2024-03-15 18:22:45",
       "album": {
         "name": "Bottega",
@@ -1051,22 +1119,6 @@
       "duration_ms": 202013,
       "name": "Oublie-le",
       "url": "https://open.spotify.com/track/1XPGoMhSvUIrv7zKG5Vi3y"
-    },
-    {
-      "added_at": "2023-06-16 15:14:25",
-      "album": {
-        "name": "MOOD3 (Glish)",
-        "url": "https://open.spotify.com/album/0inzbBWUtazS8ju1B5fhhb"
-      },
-      "artists": [
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 211180,
-      "name": "Bolingo",
-      "url": "https://open.spotify.com/track/07l8zhiWw5NhHmd9rOmo4G"
     },
     {
       "added_at": "2024-03-22 14:46:26",
@@ -1423,22 +1475,6 @@
     {
       "added_at": "2024-05-17 15:22:51",
       "album": {
-        "name": "Not Like Us",
-        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 274192,
-      "name": "Not Like Us",
-      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
-    },
-    {
-      "added_at": "2024-05-17 15:22:51",
-      "album": {
         "name": "VERSE",
         "url": "https://open.spotify.com/album/5yZcAHicJ6CvuW6x9wFWMS"
       },
@@ -1451,38 +1487,6 @@
       "duration_ms": 134500,
       "name": "VERSE",
       "url": "https://open.spotify.com/track/42WbBtZ7aSn99eOrOnTGXz"
-    },
-    {
-      "added_at": "2024-05-03 14:40:23",
-      "album": {
-        "name": "Bomba Internationale",
-        "url": "https://open.spotify.com/album/6thmHz667FJDAlkmStkXFW"
-      },
-      "artists": [
-        {
-          "name": "Moha K",
-          "url": "https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E"
-        }
-      ],
-      "duration_ms": 165402,
-      "name": "Bomba Internationale",
-      "url": "https://open.spotify.com/track/61R8xjGtLJSDLqdXchuv7Z"
-    },
-    {
-      "added_at": "2024-05-03 14:40:23",
-      "album": {
-        "name": "Sit Still, Look Pretty",
-        "url": "https://open.spotify.com/album/3NoYyHEGIa8as1c0cisZAt"
-      },
-      "artists": [
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 191368,
-      "name": "Hide Away",
-      "url": "https://open.spotify.com/track/7fPyCCiXVwbzPQ1MtoUChl"
     }
   ],
   "unique_name": "t'as la ref ?",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,825 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,832 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 74 | [Lua](https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg) | [24por7](https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF) | [Lua](https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd) | 2:44 |
 | 75 | [Agradeço](https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi) | [Lontraz](https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa), [Felipe Brasil](https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9) | [Agradeço](https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn) | 3:33 |
 
-Snapshot ID: `ZmJ37AAAAAAb+5+YfB+sFRDqbu76XeOl`
+Snapshot ID: `ZmuybAAAAAAPpATmgw8pKrhBXA636Oku`

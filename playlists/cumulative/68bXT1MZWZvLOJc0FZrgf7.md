@@ -2,9 +2,9 @@
 
 ### [Dance For Days 🪩🕺 2024 EDM](https://open.spotify.com/playlist/68bXT1MZWZvLOJc0FZrgf7)
 
-> Dance to your favorite electronic hits 🪩 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: KAYTRANADA
+> Dance to your favorite electronic hits 🪩 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Kygo
 
-587 songs - 1 day 6 hr 31 min
+589 songs - 1 day 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [Let You Go](https://open.spotify.com/track/5B2r60dvkWJ2CDPTWj4JgF) | [ADRIMAARD](https://open.spotify.com/artist/37s9l3CiGkBeeKh1SjZWSY) | [Let You Go](https://open.spotify.com/album/29OIRAHneNyaxabTcmtmSC) | 3:16 | 2023-01-06 | 2023-07-29 |
 | [LET'S GET FKD UP](https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L) | [LET'S GET FKD UP \(feat\. Tribbs\)](https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK) | 2:01 | 2023-12-08 |  |
 | [Lift You Up](https://open.spotify.com/track/766OCy2QMl814sxiR1gl6v) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Lift You Up](https://open.spotify.com/album/1UtcVAhnTCM1eqnCVZLEaI) | 2:13 | 2024-04-19 |  |
+| [Like I Need U](https://open.spotify.com/track/51nw10yLvdtq9ASHgm1P42) | [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt) | [Like I Need U](https://open.spotify.com/album/50QPHuRFKiJF5WnEMwr0W7) | 3:25 | 2024-06-14 |  |
 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 | 2023-06-30 |  |
 | [Little Tokyo \- Cosmonection Remix](https://open.spotify.com/track/3jSxsPKF6isTIw5vjwRvDk) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J), [Cosmonection](https://open.spotify.com/artist/752ZwPUx0lcLZyxgSQTL3D) | [Little Tokyo \(Cosmonection Remix\)](https://open.spotify.com/album/2MaqGCPkmztarlVRG7Azhw) | 5:02 | 2023-08-25 | 2023-12-14 |
 | [Living Without You](https://open.spotify.com/track/1KkV5NgLa2XtD00IfaCPyG) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Living Without You](https://open.spotify.com/album/6i5EQgCokHB7wgiP68UYmA) | 3:04 | 2022-09-02 | 2022-11-19 |
@@ -324,6 +325,7 @@
 | [Magic City \- Vip Mix](https://open.spotify.com/track/5ZL7NaGGBDkqvROpy7bikT) | [Wahlstedt](https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP) | [Magic City \(Vip Mix\)](https://open.spotify.com/album/3vbVuoxKhKjsfiaia8a27Q) | 2:51 | 2023-06-09 | 2023-12-14 |
 | [Make Some Noise](https://open.spotify.com/track/3rsXPMYxQ7vl1XCcrZlzAC) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Chris Nasty](https://open.spotify.com/artist/1rGakp9mQfKaLjN7mT9ohd), [Constantin](https://open.spotify.com/artist/1bW3e15ewZUHeQkIpgXoxg) | [Make Some Noise](https://open.spotify.com/album/3mqinTVMorAEwc9TiyI6DH) | 2:58 | 2023-02-04 | 2023-12-14 |
 | [Mami Mami](https://open.spotify.com/track/3tWx4p1GQpPnRmjTvVw8DV) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Mami Mami](https://open.spotify.com/album/6v136RUEpdzC5ixs6AoR85) | 2:01 | 2023-04-28 | 2023-12-14 |
+| [Me Before You](https://open.spotify.com/track/1S4sLPFxkgMTOui1W4GN72) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [Me Before You](https://open.spotify.com/album/4hElKzCyDVbddwxZe4f9jb) | 3:35 | 2024-06-14 |  |
 | [Me Myself & Adderall](https://open.spotify.com/track/4Z2RT2ODLF7AZSKLdg8jVe) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Me Myself & Adderall](https://open.spotify.com/album/7x1Hfy8KC72bOvaLUWBzbZ) | 2:12 | 2022-06-03 | 2023-02-05 |
 | [Meet Her \- Tiësto vs\. Da Hool](https://open.spotify.com/track/2ObP6OLXWzrmdVvgIFjjc2) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Da Hool](https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW) | [Meet Her \(Tiësto vs\. Da Hool\)](https://open.spotify.com/album/3FkgnEt5ecJiAGlFvPNZQT) | 2:12 | 2023-12-08 |  |
 | [Meetings About Meetings](https://open.spotify.com/track/5nu7wGlcxbpvpYuzyWLitl) | [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Meetings About Meetings](https://open.spotify.com/album/3Co62U2MKSXujRqDrveXFv) | 3:26 | 2023-06-02 |  |

@@ -1339,6 +1339,32 @@
     },
     {
       "album": {
+        "name": "Drinkin' Buddies",
+        "url": "https://open.spotify.com/album/7mf5bckIwzkxhUVpoC6IWN"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        },
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        },
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197347,
+      "name": "Drinkin' Buddies",
+      "url": "https://open.spotify.com/track/4OlwATEogDh1BfEoWsRpeC"
+    },
+    {
+      "album": {
         "name": "The Album",
         "url": "https://open.spotify.com/album/5XZ317tmx2xF9ikD4nKusw"
       },

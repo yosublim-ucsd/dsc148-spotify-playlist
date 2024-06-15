@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-733 songs - 1 day 9 hr 1 min
+735 songs - 1 day 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,6 +401,7 @@
 | [midnightblue](https://open.spotify.com/track/68vICURdbP4DrFdumsxddr) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [midnightblue](https://open.spotify.com/album/5hWozsqDLkH1M9llIOVqP8) | 2:50 | 2021-12-23 | 2022-07-27 |
 | [MidnightBlue](https://open.spotify.com/track/4BeIZYbemmAQ8azx7Y9Vvr) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [Opal](https://open.spotify.com/album/1ltmHOkm08hEvcsoLq4S3Q) | 3:03 | 2022-07-28 | 2022-07-30 |
 | [MidnightBlue](https://open.spotify.com/track/4E60U6cA2viUVDFK66QYwi) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [MidnightBlue](https://open.spotify.com/album/0KVB3GRu9vFgVzHYZydCuC) | 3:03 | 2022-03-24 | 2022-04-17 |
+| [Mifflin'](https://open.spotify.com/track/51J4SXEGP6b7EBVN9eVMxb) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [Tenda Senda](https://open.spotify.com/artist/3yZ1Z0nJmVbL3KFP1afffU) | [Mifflin'](https://open.spotify.com/album/5u5np8MwFWHWgBEAYpnggf) | 2:34 | 2024-06-15 |  |
 | [Migratory Bird](https://open.spotify.com/track/1SJcAnuUDI8nJhMdp6ziiS) | [tajima hal](https://open.spotify.com/artist/5SuPIkCZe2U5TZCqYX4mcI) | [Minor Sights](https://open.spotify.com/album/1owPNAaXMDvIonCXvGphVQ) | 3:35 | 2022-03-24 | 2022-07-27 |
 | [mild waves](https://open.spotify.com/track/6Ggz8uUOumCGSMeNTZhjtu) | [Dyelo think](https://open.spotify.com/artist/7lhzvvDG8CInm97fUkCoC4) | [mild waves](https://open.spotify.com/album/09vAYDtF6xJI3R5IE8iR3X) | 2:17 | 2022-01-13 | 2022-07-27 |
 | [Miles Above](https://open.spotify.com/track/6ugiGxMGuZuQvLXLZte3HD) | [Eccy](https://open.spotify.com/artist/7uld07kmI7qKWujYC7dnbO) | [Fog Over Trees](https://open.spotify.com/album/6cJp8cOaSXXiLwREshy1Cb) | 4:28 | 2022-01-06 | 2022-07-05 |
@@ -418,7 +419,7 @@
 | [Mood Ring](https://open.spotify.com/track/2wsO3NnI1LtUO2fAqb7tY9) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Mood Ring](https://open.spotify.com/album/5b8LIdYst2iRT0fkLpeHc8) | 3:39 | 2023-03-02 | 2023-05-09 |
 | [Moon Gazing](https://open.spotify.com/track/3trUWQLZYKSxZPwqhozd4d) | [Super Natural](https://open.spotify.com/artist/01bfsddtGYcZOQLOB4ZVlU), [Hanae Sakuyama](https://open.spotify.com/artist/0rg9I9507vQXmmfZquZ7oG) | [Moon Gazing](https://open.spotify.com/album/2zrgZOi7EUgwmmC8G2ee5G) | 4:14 | 2021-12-23 | 2022-01-28 |
 | [Moon Prairie](https://open.spotify.com/track/4kMctvfN5UZ3Krn8MZWIx0) | [Shimo](https://open.spotify.com/artist/54yxEyTmJQaDLfTcICtvum) | [Moon Prairie](https://open.spotify.com/album/11eDwqkFL0KgMM3GMvc46a) | 1:31 | 2022-02-17 |  |
-| [Moon Walk](https://open.spotify.com/track/3YwotDcCJreaemW9Zb2PP8) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Moon Walk](https://open.spotify.com/album/5KUtHuA4wzJlbgBSdS81TB) | 2:54 | 2024-02-27 |  |
+| [Moon Walk](https://open.spotify.com/track/3YwotDcCJreaemW9Zb2PP8) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Moon Walk](https://open.spotify.com/album/5KUtHuA4wzJlbgBSdS81TB) | 2:54 | 2024-02-27 | 2024-06-15 |
 | [Moon Walk](https://open.spotify.com/track/79R8D7F0PEmy4nuaD7kqwd) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Moon Walk](https://open.spotify.com/album/4SDIMh7yv7kXXkN4cbTENh) | 2:54 | 2024-02-27 | 2024-04-19 |
 | [MOON WAVE](https://open.spotify.com/track/3frTPQMP9mhtUcYhxYPOGO) | [TOMMY HONDA](https://open.spotify.com/artist/2sHNt94yiTqGXeQEKUDX5n) | [MOON WAVE](https://open.spotify.com/album/4lKMUnLY2dTRV4IzKEpI4B) | 2:57 | 2021-12-23 | 2022-07-20 |
 | [Moonlight](https://open.spotify.com/track/2KybWCmGojaGl10fYmwjFK) | [Dakchi](https://open.spotify.com/artist/1YJAWgwqcfWl06Nyn3Eawa) | [Moonlight](https://open.spotify.com/album/6JTB3gIEKRnXVPv9V5dpl8) | 1:26 | 2022-01-13 | 2022-07-24 |
@@ -457,6 +458,7 @@
 | [New Adventure](https://open.spotify.com/track/3Jftg8VUsBreRUuZdG1bTC) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [New Adventure](https://open.spotify.com/album/3o7NGZYi9oRV6aRnfbOBJg) | 2:27 | 2022-07-28 | 2022-08-30 |
 | [Nicely Nostalgic](https://open.spotify.com/track/5fFZlk4YnpPJkCHllhCXvq) | [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9), [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Idyllic](https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K) | [Nicely Nostalgic](https://open.spotify.com/album/5Qi3p41NKuIZRQY8M2dpJr) | 1:54 | 2022-02-10 | 2023-06-11 |
 | [Night Crawl](https://open.spotify.com/track/0qtpXpFtLklZHtComSaSoE) | [LONELY ONES](https://open.spotify.com/artist/1LKvEhiNWYuFkzrfBsX1i7) | [Night Crawl](https://open.spotify.com/album/2UjBnYEd7L0XNWSLmkRrqu) | 2:52 | 2021-12-23 | 2022-07-28 |
+| [Night Cruising](https://open.spotify.com/track/1dHfPdc1Vi0lO1uMGyxlfm) | [MAHBIE](https://open.spotify.com/artist/5ggbey9WKiS849lppw8lbs), [5OW](https://open.spotify.com/artist/0JpibIwAjEszA07tpAL164) | [Night Cruising](https://open.spotify.com/album/0u5sIKkyupnEQoeTHeG7W0) | 1:32 | 2024-06-15 |  |
 | [Night Drip](https://open.spotify.com/track/2RTmgpcbkD9LTyjjqWTlXl) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Night Drip](https://open.spotify.com/album/3gSJQV6vzdcnmKGoLSxpUn) | 3:03 | 2023-04-20 | 2023-07-05 |
 | [Night Lighter](https://open.spotify.com/track/1cwmPs5fpiJo9Mu0vlTXTl) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Night Lighter](https://open.spotify.com/album/3ljFX8ZaBp0Q6wj1JylOSF) | 2:19 | 2023-06-22 | 2023-07-26 |
 | [Night Lighter](https://open.spotify.com/track/2o926ylJ6b9NAgs7GxeJlA) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Night Lighter](https://open.spotify.com/album/4hj26tah8NTrWsjyN4GOZt) | 2:19 | 2023-06-22 | 2023-06-24 |
@@ -579,7 +581,7 @@
 | [Sleep Walker](https://open.spotify.com/track/6SNlNFbDlx8sUNB7HwOSvO) | [Zen Miyako](https://open.spotify.com/artist/7bQoGwzUNcgjhl5wn7gpOu) | [Sleep Walker](https://open.spotify.com/album/3yF1gRSDuuNphjWk2Ot6AE) | 2:42 | 2023-06-01 |  |
 | [sleeping](https://open.spotify.com/track/6vLM2Mnx7TSprGz0sN5lsl) | [bird](https://open.spotify.com/artist/4UYTq2L0l4zfsUKe8BqeNs) | [sleeping](https://open.spotify.com/album/4pt1aDvcYSMz2UIFpyLkTT) | 3:09 | 2021-12-23 | 2022-07-29 |
 | [Slice](https://open.spotify.com/track/7rwCEAFT5ffObK2pWxx3d7) | [THE BED ROOM TAPE](https://open.spotify.com/artist/6FQe8UCJgRKmFoInsr0Sjk) | [Slice](https://open.spotify.com/album/6JKDszJZhXoXUptZLfeL9I) | 2:41 | 2022-01-13 | 2022-04-30 |
-| [Sliding Doors](https://open.spotify.com/track/3Cxr6JFgfsDlTpFvLjGiEk) | [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9), [Idyllic](https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K) | [Sliding Doors](https://open.spotify.com/album/0UeWO6sRVzCZba6R69kBRO) | 2:09 | 2022-01-06 |  |
+| [Sliding Doors](https://open.spotify.com/track/3Cxr6JFgfsDlTpFvLjGiEk) | [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9), [Idyllic](https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K) | [Sliding Doors](https://open.spotify.com/album/0UeWO6sRVzCZba6R69kBRO) | 2:09 | 2022-01-06 | 2024-06-15 |
 | [Slow Jam](https://open.spotify.com/track/4Vobs6itOWf1ylmTfu1IMd) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI), [Linn Mori](https://open.spotify.com/artist/2XJEj3lY4tkVx0IH5Ue69E) | [Little Bit Blues](https://open.spotify.com/album/75VH43yE690hoaEvImFv5T) | 1:40 | 2023-03-23 |  |
 | [Smiling World](https://open.spotify.com/track/4Taz7DRjSTrAO3PXPdhFgN) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Smiling World](https://open.spotify.com/album/03YLbgauiRKjap4IUesBNS) | 2:06 | 2022-01-06 |  |
 | [SMOKY BANANA](https://open.spotify.com/track/2CKC1hxTqsasAycaaHFptf) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Fruit Panaché Tape](https://open.spotify.com/album/7kmQIiVm8pO92iiUiuUKlo) | 3:22 | 2022-01-13 | 2022-05-30 |

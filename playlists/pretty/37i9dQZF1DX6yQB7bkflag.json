@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu teranyar yang akan menjadi favoritmu selanjutnya. Cover: Donne Maula",
-  "num_followers": 115781,
+  "num_followers": 115790,
   "original_name": "Pop Rising Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmuIIQAAAABCqCBdD2nQXjLR0ChRIscv",
+  "snapshot_id": "ZmvylgAAAAA8r0tC9Hi1GrHcWUVKVMMI",
   "tracks": [
     {
       "added_at": "2024-06-13 17:23:26",
@@ -337,6 +337,38 @@
       "url": "https://open.spotify.com/track/2ak4PK6BeHw8btWrVmOdYz"
     },
     {
+      "added_at": "2024-06-14 07:34:46",
+      "album": {
+        "name": "Bersamaku Akan Sedikit Susah",
+        "url": "https://open.spotify.com/album/2JJDZRInXPi0gqROa9gaf8"
+      },
+      "artists": [
+        {
+          "name": "e\u0144au",
+          "url": "https://open.spotify.com/artist/0agUNq8PH1QSgm88EuhM1u"
+        }
+      ],
+      "duration_ms": 251022,
+      "name": "Bersamaku Akan Sedikit Susah",
+      "url": "https://open.spotify.com/track/2yMuG8byOPFzZRNG4SaDT9"
+    },
+    {
+      "added_at": "2024-06-13 17:23:26",
+      "album": {
+        "name": "STEP",
+        "url": "https://open.spotify.com/album/7ouKhEyy9jcnDeg9KNnXe9"
+      },
+      "artists": [
+        {
+          "name": "LAY",
+          "url": "https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9"
+        }
+      ],
+      "duration_ms": 175515,
+      "name": "Step",
+      "url": "https://open.spotify.com/track/4eecTuBlb0nM4DIVTmjWPa"
+    },
+    {
       "added_at": "2024-06-13 17:23:26",
       "album": {
         "name": "I Hear You",
@@ -351,6 +383,26 @@
       "duration_ms": 298469,
       "name": "Back To One",
       "url": "https://open.spotify.com/track/1kOg8OXkYhsoaCuDppNyxF"
+    },
+    {
+      "added_at": "2024-06-14 02:31:20",
+      "album": {
+        "name": "Bodies",
+        "url": "https://open.spotify.com/album/6ysi49LJQceFnvcCWfixe7"
+      },
+      "artists": [
+        {
+          "name": "HANISA",
+          "url": "https://open.spotify.com/artist/12aAsVqTdYv0Tp3bv3g7xk"
+        },
+        {
+          "name": "Monica Karina",
+          "url": "https://open.spotify.com/artist/4uz19Fx4VF6BHhzmTuSCOR"
+        }
+      ],
+      "duration_ms": 191764,
+      "name": "Bodies",
+      "url": "https://open.spotify.com/track/0gu9eXXuVtIVClm0E2PATP"
     },
     {
       "added_at": "2024-06-13 17:23:26",
@@ -475,6 +527,26 @@
       "duration_ms": 291625,
       "name": "Kau",
       "url": "https://open.spotify.com/track/2ZA2jc2PEwXK4cOsdo1Pdw"
+    },
+    {
+      "added_at": "2024-06-13 22:26:26",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/5cRvVGFlXb8FUCg8SpvlVW"
+      },
+      "artists": [
+        {
+          "name": "T-Five",
+          "url": "https://open.spotify.com/artist/37VFhHJtDBkbN3gZnPiWQ3"
+        },
+        {
+          "name": "Ten2Five",
+          "url": "https://open.spotify.com/artist/5Tl7XjM9Y7Q2D9eIHz5GTO"
+        }
+      ],
+      "duration_ms": 198827,
+      "name": "You",
+      "url": "https://open.spotify.com/track/4T0i2FyNJc8f7QMYQRRJB1"
     },
     {
       "added_at": "2024-06-13 17:23:26",

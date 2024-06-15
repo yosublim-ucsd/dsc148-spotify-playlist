@@ -31127,6 +31127,24 @@
     },
     {
       "album": {
+        "name": "Zambuko",
+        "url": "https://open.spotify.com/album/4cRHPBSqSed624lPa53ulT"
+      },
+      "artists": [
+        {
+          "name": "Obert Chari",
+          "url": "https://open.spotify.com/artist/2MRBGtUHomiNjf8BKFMoI5"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 510119,
+      "name": "Madzibambo",
+      "url": "https://open.spotify.com/track/6T1J9szJWbGoKXq0UMnc4y"
+    },
+    {
+      "album": {
         "name": "Mafinyo",
         "url": "https://open.spotify.com/album/363I7oqJXVSinPYXaNOdTz"
       },
@@ -40102,7 +40120,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 216948,
       "name": "Our Time",
       "url": "https://open.spotify.com/track/3ctFAgGUt7Km0bJO9tiycq"

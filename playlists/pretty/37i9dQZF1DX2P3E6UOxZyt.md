@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2024 全新陣容出列！MEET THE FUTURE 見証未來巨星！Cover: 林潔心
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,386 likes - 33 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,395 likes - 33 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [DIE FOR YOU feat\. FEniX](https://open.spotify.com/track/6lEgJnYGEGu5l0ihRU8pq1) | [林潔心](https://open.spotify.com/artist/3wVMSx6wqCYFZ6Q6vqIFCx), [FEniX](https://open.spotify.com/artist/1sPms9e6GbCtTddGRsT4Fz) | [DIE FOR YOU feat\. FEniX](https://open.spotify.com/album/1WG1hu3F4szsq90ceZPSpI) | 3:27 |
-| 2 | [Hold on](https://open.spotify.com/track/580BvW3DyUNoYFgQgoD2GI) | [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE), [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [Hold on](https://open.spotify.com/album/7ygCROw5jFHKGpdEVodz4v) | 3:00 |
+| 2 | [Hold On](https://open.spotify.com/track/580BvW3DyUNoYFgQgoD2GI) | [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE), [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [Hold On](https://open.spotify.com/album/7ygCROw5jFHKGpdEVodz4v) | 3:00 |
 | 3 | [沙龍 \(feat.吳獻 Osean\)](https://open.spotify.com/track/2F8GUP7I5NEz2nxRr8OFlH) | [ZENBØ](https://open.spotify.com/artist/4Rh3HXq1VRYzQJ3rl2MUfG), [吳獻 Osean](https://open.spotify.com/artist/5bZ0x0ViEXpiJhnTHeLXhc) | [咖啡氤](https://open.spotify.com/album/1EFDsuC0c063wiZFWFuW1V) | 3:51 |
 | 4 | [翼](https://open.spotify.com/track/5VkNI8AtQvQi6L5nr9MIiH) | [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7) | [翼](https://open.spotify.com/album/4lUoLaurs9KbG7SYi4HL9w) | 2:47 |
 | 5 | [緩緩](https://open.spotify.com/track/3aQwzPFgzLgjoPfguQWNFJ) | [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [Fly Machine](https://open.spotify.com/album/73uMsPJLL8PQlQVx9CmeDV) | 3:54 |

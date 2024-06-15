@@ -1,12 +1,12 @@
 {
   "description": "This is Hyperanhas. The essential tracks, all in one playlist.",
-  "num_followers": 3649,
+  "num_followers": 3654,
   "original_name": "This Is Hyperanhas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjlAAAAAABzZQZJGik+VjIoh5NPT3Bg",
+  "snapshot_id": "Zmo2gAAAAACzkVq8TgRYTNzIaWHXTG2O",
   "tracks": [
     {
       "added_at": null,
@@ -787,6 +787,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Na Onda do Boldo",
+        "url": "https://open.spotify.com/album/1FEunMxrUJ7sJigVe74cL4"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Thammy",
+          "url": "https://open.spotify.com/artist/69AJjk7Kr9O05pUtJjGxF0"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Na Onda do Boldo",
+      "url": "https://open.spotify.com/track/42BwDKygmTWy01npggoFhl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Set CaioPassos",
         "url": "https://open.spotify.com/album/3AtubrcAnHQi8q4qIGNtbh"
       },
@@ -827,30 +851,6 @@
       "duration_ms": 180000,
       "name": "Role OG",
       "url": "https://open.spotify.com/track/2i6dVgBNOQA9sYud5pUY9L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Na Onda do Boldo",
-        "url": "https://open.spotify.com/album/1FEunMxrUJ7sJigVe74cL4"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Thammy",
-          "url": "https://open.spotify.com/artist/69AJjk7Kr9O05pUtJjGxF0"
-        },
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Na Onda do Boldo",
-      "url": "https://open.spotify.com/track/42BwDKygmTWy01npggoFhl"
     },
     {
       "added_at": null,
@@ -1151,30 +1151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bailean",
-        "url": "https://open.spotify.com/album/6ZnZ9rmxOVPXHmdvMs5gyS"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Andressinha",
-          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
-        },
-        {
-          "name": "Nath Fischer",
-          "url": "https://open.spotify.com/artist/1QcNQjPOs6hNGLOvddrwfW"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "Bailean",
-      "url": "https://open.spotify.com/track/217FtqeGHQOp6ki2qyNmmR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desfecho",
         "url": "https://open.spotify.com/album/6V2bSKag8gME9P1cT2f021"
       },
@@ -1195,6 +1171,30 @@
       "duration_ms": 142941,
       "name": "Desfecho",
       "url": "https://open.spotify.com/track/0tyR7y2Zz9J7BMZ2PqpmN5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bailean",
+        "url": "https://open.spotify.com/album/6ZnZ9rmxOVPXHmdvMs5gyS"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Andressinha",
+          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
+        },
+        {
+          "name": "Nath Fischer",
+          "url": "https://open.spotify.com/artist/1QcNQjPOs6hNGLOvddrwfW"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "Bailean",
+      "url": "https://open.spotify.com/track/217FtqeGHQOp6ki2qyNmmR"
     },
     {
       "added_at": null,

@@ -2493,6 +2493,28 @@
     },
     {
       "album": {
+        "name": "NISHANI",
+        "url": "https://open.spotify.com/album/5YGg7k9HioYHeUDJtms8k7"
+      },
+      "artists": [
+        {
+          "name": "Rishi Roy",
+          "url": "https://open.spotify.com/artist/1CPC6yBRVnK1WxibuqwNNH"
+        },
+        {
+          "name": "Dabzee",
+          "url": "https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168048,
+      "name": "NISHANI",
+      "url": "https://open.spotify.com/track/7ku3rPm8SXmRRaI6x3GGBa"
+    },
+    {
+      "album": {
         "name": "Njan Evide",
         "url": "https://open.spotify.com/album/05ML1jG68YmNtTB9NqLaxX"
       },

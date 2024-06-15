@@ -4,12 +4,12 @@
 
 > The home of rage rap\. Cover: Homixide Gang
 
-92 songs - 3 hr 51 min
+94 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#CERTIFIED \(feat\. DJ Ess\) \- DJ Ess Mix](https://open.spotify.com/track/2QxYsn2ygOrfJ70JItrlCO) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [DJ Ess](https://open.spotify.com/artist/7odc1yu6mbQ91fsh0KK5SJ) | [\#CERTIFIED \(DJ Ess Mix\) \[feat\. DJ Ess\]](https://open.spotify.com/album/3oUHbi4OZZTbsZe3UEISHJ) | 2:02 | 2024-03-15 |  |
-| [\#scrimjustwannahavefun](https://open.spotify.com/track/2vl8WMaahDYGl4uqYsdxCM) | [Scrim](https://open.spotify.com/artist/5VKvqCyBxqbaXUp8eK0aUy) | [lonely boy \(deluxe edition\)](https://open.spotify.com/album/436V8ojzFS3ZadTeK3GPVZ) | 2:28 | 2024-02-16 |  |
+| [\#scrimjustwannahavefun](https://open.spotify.com/track/2vl8WMaahDYGl4uqYsdxCM) | [Scrim](https://open.spotify.com/artist/5VKvqCyBxqbaXUp8eK0aUy) | [lonely boy \(deluxe edition\)](https://open.spotify.com/album/436V8ojzFS3ZadTeK3GPVZ) | 2:28 | 2024-02-16 | 2024-06-15 |
 | [5unna](https://open.spotify.com/track/2M1LHRfp0vsJKjKfKxOUx3) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU), [R5 Homixide](https://open.spotify.com/artist/0dhgemnyYGddxaOFhqJ2Kw) | [Snotty World \(Deluxe\)](https://open.spotify.com/album/5Fy36L5DnmGWWmAQsq4Ido) | 1:40 | 2023-12-01 |  |
 | [AINT NOTHING](https://open.spotify.com/track/4HmE2Qs4HHAtqc1UBNIMtz) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Ghetto Fabulous](https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT) | 2:34 | 2023-12-01 | 2023-12-19 |
 | [Antisocial \(feat\. Slump6s\)](https://open.spotify.com/track/4KBJ6dFxtup8Ku4uQZcPQ8) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV), [Slump6s](https://open.spotify.com/artist/63ELR8SMfqu8EH9eXqCt9j) | [Antisocial](https://open.spotify.com/album/5XOo1c28e4YMxp4uLh70qS) | 2:55 | 2023-12-01 |  |
@@ -24,6 +24,7 @@
 | [DIRTY SPOT](https://open.spotify.com/track/6ojtrd3WzZYuPfoKOU4wjX) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3) | [DIRTY SPOT / 4 to 6](https://open.spotify.com/album/3PEosVTHOA42DbW4OGLlER) | 2:28 | 2023-12-15 | 2024-04-27 |
 | [DIVE IN!](https://open.spotify.com/track/4pXChuim76A52lXVvFSozF) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [REAL RAW!](https://open.spotify.com/album/3iY0PNNnetAbPmKMWWDkKk) | 1:40 | 2023-12-01 | 2024-02-21 |
 | [DXE DXE DXE \(w/ Homixide Gang\)](https://open.spotify.com/track/1zsPL3JaH13XCndHrglC0B) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [DOOR TO DUSK](https://open.spotify.com/album/1guVWyGigDPn9PYzibhbpJ) | 1:36 | 2024-03-15 |  |
+| [E30](https://open.spotify.com/track/2ysvfpW8UlDz19JDDPu4sQ) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [E30](https://open.spotify.com/album/4SOOhAjyehmv7FRKgdBOix) | 2:08 | 2024-06-14 |  |
 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2023-12-01 | 2024-03-15 |
 | [Fighting My Demons](https://open.spotify.com/track/2c7sRekhMGlj7u1WIIzoQu) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:30 | 2023-12-01 |  |
 | [Figure It Out](https://open.spotify.com/track/7qHQqWGE4JrOom3uvwHPiJ) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Figure It Out](https://open.spotify.com/album/09heES0I3XMjwyxm1stQig) | 1:34 | 2024-03-15 |  |
@@ -48,10 +49,11 @@
 | [LANCEY OR LANCEY](https://open.spotify.com/track/187zHzb6JDM4YDSFNGkQ9u) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [LIFE IN HELL](https://open.spotify.com/album/7A6MutudrSxcDa47a6HHOM) | 3:07 | 2023-12-01 |  |
 | [Lifestyle](https://open.spotify.com/track/20v5X5P8guUGTQQ1EAWys4) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Homixide Lifestyle](https://open.spotify.com/album/4vw2hN5xBkFXRBAfnGjUmK) | 2:17 | 2023-12-01 | 2024-03-16 |
 | [listen!](https://open.spotify.com/track/12eAtj918bpsB4Vts8pCMu) | [hako](https://open.spotify.com/artist/71UHb0juSLfDoktgvCELin) | [listen! \(sped up\)](https://open.spotify.com/album/6IkOB88aFkkxIJT8u46SYF) | 1:28 | 2024-03-15 |  |
+| [LUV 4 YA](https://open.spotify.com/track/4gy2E8Wwz5hgwOLjv03cYS) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [LUV 4 YA](https://open.spotify.com/album/0tTnvcy5uv8w6SXgWw7cOZ) | 3:32 | 2024-06-14 |  |
 | [Lyfe](https://open.spotify.com/track/5GT6tY36LQwQdPfE25NaBA) | [teefaygoo](https://open.spotify.com/artist/58KTnqvNCXA8sd6IHAQ5IV), [prodbysky](https://open.spotify.com/artist/4dkg1q2DJECBqjrSMs8ULh) | [Lyfe \- Instrumental](https://open.spotify.com/album/5sIyurLZodpO94l4l2WMG5) | 2:55 | 2024-01-12 | 2024-02-21 |
 | [MADONNA & RIHANNA](https://open.spotify.com/track/704qSGogleVeb46KLsMl2e) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [MADONNA & RIHANNA](https://open.spotify.com/album/0r81t0FQLIyyAytNSLUbqy) | 2:02 | 2024-04-05 |  |
 | [Magnolia](https://open.spotify.com/track/1e1JKLEDKP7hEQzJfNAgPl) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 3:01 | 2024-03-15 |  |
-| [man of the hour](https://open.spotify.com/track/0k6q702wuOCqWgkbQ2tmqj) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL) | [24](https://open.spotify.com/album/75VTZr9amziCosvNoljnMa) | 2:54 | 2024-05-14 |  |
+| [man of the hour](https://open.spotify.com/track/0k6q702wuOCqWgkbQ2tmqj) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL) | [24](https://open.spotify.com/album/75VTZr9amziCosvNoljnMa) | 2:54 | 2024-05-14 | 2024-06-15 |
 | [maserati slick](https://open.spotify.com/track/3pE08q8PvdFDikPA5oMToS) | [Scrim](https://open.spotify.com/artist/5VKvqCyBxqbaXUp8eK0aUy) | [lonely boy](https://open.spotify.com/album/6KPDJJLnlulWdsy5pENApB) | 2:23 | 2024-02-02 | 2024-03-16 |
 | [MBGB2](https://open.spotify.com/track/5NJ4s5Daq5RUNmtNdjQrRv) | [Fourfive](https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg) | [MBGB2](https://open.spotify.com/album/0R9ZaxhsU6Qtb5KrTJ4g6t) | 1:43 | 2023-12-01 | 2024-06-01 |
 | [Miss The Rage](https://open.spotify.com/track/46NzAxDzsE443IsyZndZfP) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Trip At Knight](https://open.spotify.com/album/4d5LU2n3zJVMuILwMEiQG5) | 3:56 | 2023-12-01 | 2024-03-03 |

@@ -2105,6 +2105,24 @@
     },
     {
       "album": {
+        "name": "Bodies",
+        "url": "https://open.spotify.com/album/2cOJko4PjK5LWMOBwCX3QI"
+      },
+      "artists": [
+        {
+          "name": "Chiara Savasta",
+          "url": "https://open.spotify.com/artist/5TVI6uAbPFru1azAVIaVZR"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169039,
+      "name": "Bodies",
+      "url": "https://open.spotify.com/track/2l0xzmV0j4nrnpBdhrxEtR"
+    },
+    {
+      "album": {
         "name": "if i could make it go quiet",
         "url": "https://open.spotify.com/album/6EWTSpE0fh1tqRkajIZ2Tp"
       },
@@ -2412,7 +2430,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 145847,
       "name": "Breakfast",
       "url": "https://open.spotify.com/track/1gZ5gMhXQm2fBogPFvuYOb"
@@ -2538,7 +2556,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 162575,
       "name": "Bugs",
       "url": "https://open.spotify.com/track/7uPoiTTpyRhDpSsLivlc1j"
@@ -20456,6 +20474,24 @@
       "duration_ms": 128362,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/7BKwEybys8ZWeYCMykvUrL"
+    },
+    {
+      "album": {
+        "name": "Too High To Cry",
+        "url": "https://open.spotify.com/album/5NL9W9396ky1o3QTRd8IFm"
+      },
+      "artists": [
+        {
+          "name": "mathijs.iv",
+          "url": "https://open.spotify.com/artist/1qtwdqUmc8Nnza2PcPSlSu"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Too High To Cry",
+      "url": "https://open.spotify.com/track/7lUIAkNykW5nQhCIBGiQ09"
     },
     {
       "album": {

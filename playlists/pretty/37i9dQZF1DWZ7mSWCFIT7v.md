@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 
 > time\-stretching granular synthesis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,527 likes - 100 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,579 likes - 100 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,16 +95,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 | 85 | [XO 4 \- Wolf 1061c](https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF) | [GCOM](https://open.spotify.com/artist/515LVYd7UvdvWzYcg5niJI) | [E2\-XO](https://open.spotify.com/album/1ugwG7gGoTefOjLbrPDKMd) | 7:55 |
 | 86 | [Röschen \- Edit](https://open.spotify.com/track/7pbORTNPq5NspCrLEYuoI6) | [Pole](https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6) | [Röschen](https://open.spotify.com/album/4Rfa43vE7rRpU51Q5UIDEv) | 3:19 |
 | 87 | [Summer Lawns](https://open.spotify.com/track/4GE1Okvtqjm2t2mn5uyBvj) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Summering \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aNN72v2ecOv6BamVhhWp4) | 1:28 |
-| 88 | [Muckbirth](https://open.spotify.com/track/7tMe5bFiL485sPdkT6VDXZ) | [Teset](https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0) | [Muckbirth](https://open.spotify.com/album/5CRO1vqjhQFgwsYyVzwn6Y) | 3:17 |
-| 89 | [I Can't Die as Well](https://open.spotify.com/track/2raPU3XehkE9fu9i7nPm45) | [Fire\-Toolz](https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o) | [I Can't Die as Well](https://open.spotify.com/album/2EnPEXGeSR82AuXVVUA7ok) | 2:25 |
+| 88 | [I Can't Die as Well](https://open.spotify.com/track/2raPU3XehkE9fu9i7nPm45) | [Fire\-Toolz](https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o) | [I Can't Die as Well](https://open.spotify.com/album/2EnPEXGeSR82AuXVVUA7ok) | 2:25 |
+| 89 | [Muckbirth](https://open.spotify.com/track/7tMe5bFiL485sPdkT6VDXZ) | [Teset](https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0) | [Muckbirth](https://open.spotify.com/album/5CRO1vqjhQFgwsYyVzwn6Y) | 3:17 |
 | 90 | [Park Line](https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Comma](https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt) | 5:11 |
 | 91 | [Attende](https://open.spotify.com/track/3YGYDn8htVD9CtTW4AmlRm) | [Pjusk](https://open.spotify.com/artist/1iqn4OAlsj7UVYzIfNGctq), [Tortusa](https://open.spotify.com/artist/5V9GUZs0R81FpHxKoY1gfo) | [Sakne Verda](https://open.spotify.com/album/36ruLBsItthE59Qe6tptau) | 5:16 |
 | 92 | [Double Fifths](https://open.spotify.com/track/4cOrbFr0M4PDjmeKxpZHTe) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ) | [Ardour \(10th Anniversary Edition\)](https://open.spotify.com/album/4BRfqRgxilQLOJWVPyPMLp) | 2:11 |
 | 93 | [1977](https://open.spotify.com/track/5CPTy1vepzxa0zqcs7F4F1) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X), [Meemo Comma](https://open.spotify.com/artist/46fSsw6Lx6s1kvYGnb4pnd) | [1977](https://open.spotify.com/album/3FoOSS6Pl6CEPSMRTkG2TM) | 5:36 |
-| 94 | [Wiegenmusik](https://open.spotify.com/track/2iiaNKiT2UG0cKMJ6OiwCA) | [Simon Lovermann](https://open.spotify.com/artist/2nWefmRaZ5x1QNWjbPD7xr) | [Wiegenmusik / Constant Structure](https://open.spotify.com/album/4FGpW60vq60Y4K8CFF9tKJ) | 2:32 |
-| 95 | [Second Love](https://open.spotify.com/track/0jaYsfrSaAGb4d81qE5APl) | [Isa Gordon](https://open.spotify.com/artist/2dA8VFOWjWex4ypqqepKwH) | [For You Only](https://open.spotify.com/album/5xpcLzvU7tdIkDkRwrTEJr) | 3:02 |
-| 96 | [Was Du Suchst](https://open.spotify.com/track/5XcMS5s2ryoGrC3EBWlN3G) | [Tiefe Wasser Berlin](https://open.spotify.com/artist/1CB3IMXIZ0RJXC9JRrC7x3) | [Was Du Suchst](https://open.spotify.com/album/7f3jRpt9Ps1nG9VG4AlOLc) | 7:30 |
-| 97 | [Я не хочу знать](https://open.spotify.com/track/198Fm6IlIjBl0bnJRaXQ8B) | [Gilb'r](https://open.spotify.com/artist/2KqugPbttJDL3ZdRUTpU4x), [Cosmic Neman](https://open.spotify.com/artist/7gdIA6xBjnLNBBIXyBKGbn) | [On danse comme des fous](https://open.spotify.com/album/5mCWVbQXAd2kMKS0mj3HMU) | 3:28 |
+| 94 | [Second Love](https://open.spotify.com/track/0jaYsfrSaAGb4d81qE5APl) | [Isa Gordon](https://open.spotify.com/artist/2dA8VFOWjWex4ypqqepKwH) | [For You Only](https://open.spotify.com/album/5xpcLzvU7tdIkDkRwrTEJr) | 3:02 |
+| 95 | [Wiegenmusik](https://open.spotify.com/track/2iiaNKiT2UG0cKMJ6OiwCA) | [Simon Lovermann](https://open.spotify.com/artist/2nWefmRaZ5x1QNWjbPD7xr) | [Wiegenmusik / Constant Structure](https://open.spotify.com/album/4FGpW60vq60Y4K8CFF9tKJ) | 2:32 |
+| 96 | [Я не хочу знать](https://open.spotify.com/track/198Fm6IlIjBl0bnJRaXQ8B) | [Gilb'r](https://open.spotify.com/artist/2KqugPbttJDL3ZdRUTpU4x), [Cosmic Neman](https://open.spotify.com/artist/7gdIA6xBjnLNBBIXyBKGbn) | [On danse comme des fous](https://open.spotify.com/album/5mCWVbQXAd2kMKS0mj3HMU) | 3:28 |
+| 97 | [Was Du Suchst](https://open.spotify.com/track/5XcMS5s2ryoGrC3EBWlN3G) | [Tiefe Wasser Berlin](https://open.spotify.com/artist/1CB3IMXIZ0RJXC9JRrC7x3) | [Was Du Suchst](https://open.spotify.com/album/7f3jRpt9Ps1nG9VG4AlOLc) | 7:30 |
 | 98 | [Resounding](https://open.spotify.com/track/4tWEcrIZeSAwFUr06k8gWs) | [Hotspring](https://open.spotify.com/artist/3QSOFV5VWDB1pbmlpUof4G) | [Obit For Sunshade](https://open.spotify.com/album/7dclubLbsPj645Q0kHWuK2) | 2:51 |
 | 99 | [Riding Metal Mosquitos](https://open.spotify.com/track/4KXTdLEJkgrZ71QHyxThJ3) | [Anders Ilar](https://open.spotify.com/artist/7CM4nBFQursLXbE4yRXRTF) | [Nightwidth](https://open.spotify.com/album/4JTOB1bSYPcHjy5MtliN1q) | 7:19 |
 | 100 | [sssssmilinggggg](https://open.spotify.com/track/6yTewVjFHvPBNyRliPdQOs) | [Kaho Matsui](https://open.spotify.com/artist/2ahVQ3HBZfU8RGxwIgNfnU) | [sssssmilinggggg](https://open.spotify.com/album/2gC9JUs5tlGBgopNouIg7v) | 6:44 |

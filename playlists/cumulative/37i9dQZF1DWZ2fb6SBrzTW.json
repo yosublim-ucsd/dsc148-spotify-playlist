@@ -1556,7 +1556,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-11",
+      "date_removed": null,
       "duration_ms": 151710,
       "name": "Child's Play",
       "url": "https://open.spotify.com/track/7nr3wqDwJkiSDbcbct67Um"
@@ -2108,7 +2108,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 185739,
       "name": "Don't leave me",
       "url": "https://open.spotify.com/track/7Cqv5A4jWWeW3cQ9poAecl"
@@ -2202,7 +2202,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-28",
+      "date_removed": null,
       "duration_ms": 127067,
       "name": "Duffel Bag",
       "url": "https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3"
@@ -3131,6 +3131,24 @@
     },
     {
       "album": {
+        "name": "Another Style",
+        "url": "https://open.spotify.com/album/0z3KhLC6yItBrFzYvHOe8y"
+      },
+      "artists": [
+        {
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156055,
+      "name": "Gin & Juice",
+      "url": "https://open.spotify.com/track/68ywjjGuJD3uzJDKJpXQB5"
+    },
+    {
+      "album": {
         "name": "The Second Wave Deluxe",
         "url": "https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y"
       },
@@ -3434,7 +3452,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 137142,
       "name": "HALLELUJAH (feat. Blaqbonez)",
       "url": "https://open.spotify.com/track/05pGxMUPDOu3lQVDMg6nqS"
@@ -3645,6 +3663,24 @@
     },
     {
       "album": {
+        "name": "Hiii!",
+        "url": "https://open.spotify.com/album/1r2Rkl20WHAT1jjxmacZ4Q"
+      },
+      "artists": [
+        {
+          "name": "ShineTTW",
+          "url": "https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Hiii!",
+      "url": "https://open.spotify.com/track/5MZyGKfdd4KzswVxfZptJb"
+    },
+    {
+      "album": {
         "name": "11:11 (Deluxe)",
         "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
       },
@@ -3714,7 +3750,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 159100,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/5yFhfeO5k8RuGLspbDCQlz"
@@ -3984,7 +4020,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 149243,
       "name": "If You Leave",
       "url": "https://open.spotify.com/track/2eknBYpfzA4Mp5zWHMGac5"
@@ -4002,7 +4038,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 186000,
       "name": "Ijo (Laba Laba)",
       "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
@@ -4238,7 +4274,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 148000,
       "name": "Joha",
       "url": "https://open.spotify.com/track/5UwxpuGHkwiojKDaPC5ZNu"
@@ -4930,7 +4966,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 194500,
       "name": "Lit",
       "url": "https://open.spotify.com/track/6pEWLO7rqNC2LgqHk2gbCY"
@@ -5804,7 +5840,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 153684,
       "name": "New Religion",
       "url": "https://open.spotify.com/track/2KwnwVXtAlpSDdRVO9ccTJ"
@@ -5993,6 +6029,28 @@
     },
     {
       "album": {
+        "name": "BOYAHNAH II (Untold Stories)",
+        "url": "https://open.spotify.com/album/2PIlja96GttnquJXBzPlts"
+      },
+      "artists": [
+        {
+          "name": "Bahd Man Niko",
+          "url": "https://open.spotify.com/artist/2wzUPRXpsHccu7ZxIlqJsb"
+        },
+        {
+          "name": "Bad Boy Timz",
+          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152711,
+      "name": "Okparaji",
+      "url": "https://open.spotify.com/track/7px4SA0BxMTaTSz6Mpxpxa"
+    },
+    {
+      "album": {
         "name": "On My Way",
         "url": "https://open.spotify.com/album/3gUNe3ik8fjvbMxCmADVIR"
       },
@@ -6114,7 +6172,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 162782,
       "name": "Otilo (Izz Gone)",
       "url": "https://open.spotify.com/track/3nTzEDC9sTD0YsC9C7osnN"
@@ -6662,7 +6720,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 169960,
       "name": "Ronaldo",
       "url": "https://open.spotify.com/track/5wRZwN6VCb0rWxG2HUbaUx"
@@ -7082,7 +7140,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-06",
+      "date_removed": null,
       "duration_ms": 139377,
       "name": "Shu-Peru",
       "url": "https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L"
@@ -7100,7 +7158,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 206133,
       "name": "Siy\u00e9",
       "url": "https://open.spotify.com/track/2cvLICgohXX5Rfmoh2jPsZ"
@@ -7794,7 +7852,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 203628,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/5yuP7KsSKbm3S94BGdK4Jy"
@@ -8014,7 +8072,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 181745,
       "name": "under the shade",
       "url": "https://open.spotify.com/track/6bGNvLi0pAD9LDeLzHgQuB"
@@ -8238,7 +8296,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 150863,
       "name": "Walking Dead",
       "url": "https://open.spotify.com/track/18jFtQZUqk4n4lzmjweLq5"
@@ -8502,7 +8560,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 183157,
       "name": "Who Go Pay",
       "url": "https://open.spotify.com/track/34ywCJhKleJmZ3YthwBL4u"
@@ -8688,7 +8746,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 150000,
       "name": "Xtra Cool",
       "url": "https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG"

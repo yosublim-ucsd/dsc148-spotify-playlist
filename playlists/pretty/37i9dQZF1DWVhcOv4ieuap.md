@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhcOv4ieuap.md) - [plain]
 
 > Alegra tu día con lo más pop para la mañana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,023,318 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,023,321 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhcOv4ieuap.md) - [plain]
 | 99 | [No Eres Tú](https://open.spotify.com/track/6pzmv5QfwQMqKQ6419UWoJ) | [Tres Dedos](https://open.spotify.com/artist/4U7l68MAeVO9CLljg04lrF) | [Te Contaron Que Me Gustas](https://open.spotify.com/album/2rbP1TYKeJHsxwwCAKCGAA) | 3:06 |
 | 100 | [Feriado](https://open.spotify.com/track/1cSkkHgh9Ff8zcQpkW71nf) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Feriado](https://open.spotify.com/album/4QiIMsHtpCmGdPYYlhiMet) | 2:46 |
 
-Snapshot ID: `ZmKFwAAAAAAUQ5xACskO76ETGaC6G8Y8`
+Snapshot ID: `ZmvAQAAAAADPasNbrZfCLXKFbe/LNUmz`

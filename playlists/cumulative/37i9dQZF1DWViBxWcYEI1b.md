@@ -2,9 +2,9 @@
 
 ### [Contemporary Blend](https://open.spotify.com/playlist/37i9dQZF1DWViBxWcYEI1b)
 
-> For those with a taste for both the new and the classic\. Cover: Charlotte Cardin
+> For those with a taste for both the new and the classic\. Cover: Shaboozey
 
-1,121 songs - 2 day 14 hr 4 min
+1,123 songs - 2 day 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-20 | 2022-06-04 |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-01 | 2022-05-20 |
 | [Assembly Required](https://open.spotify.com/track/6ce7mZm67N4CB6llmyRPib) | [Olivia Penalva](https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO) | [Assembly Required](https://open.spotify.com/album/3xEUUVwjNVvTaHQjcpea8O) | 3:45 | 2022-09-23 | 2023-03-11 |
-| [Astronaut](https://open.spotify.com/track/7nku4ywsysUidKcPiS4hIQ) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Astronaut](https://open.spotify.com/album/3kEiyT5GXTX6jFK92h6qL9) | 3:35 | 2023-12-08 |  |
+| [Astronaut](https://open.spotify.com/track/7nku4ywsysUidKcPiS4hIQ) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Astronaut](https://open.spotify.com/album/3kEiyT5GXTX6jFK92h6qL9) | 3:35 | 2023-12-08 | 2024-06-15 |
 | [At Your Worst](https://open.spotify.com/track/6IYIPVF7RZQUEbVVs47xqw) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [At Your Worst](https://open.spotify.com/album/0dhaQArDYjNo5woJGbXaYU) | 2:47 | 2023-08-18 | 2023-12-09 |
 | [Australia](https://open.spotify.com/track/0qiHOHIkb4UEoxpKq6WhVZ) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [DRUMMER](https://open.spotify.com/album/09YYQq1yP55sRzmWosI10f) | 3:49 | 2023-09-22 | 2023-10-14 |
 | [Avalanche](https://open.spotify.com/track/2vGiHaabBrlK7JcFPlAIsJ) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 3:47 | 2021-12-17 | 2022-01-08 |
@@ -388,6 +388,7 @@
 | [go \(feat\. Sam Smith\)](https://open.spotify.com/track/7kgNbYOyDZPzDVE89mLs1O) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Go \(Remixes\)](https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu) | 3:35 | 2022-08-19 | 2022-10-08 |
 | [Go Write It In The Stars](https://open.spotify.com/track/4I7ly7eSt1raF0ZSOAlWKP) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Go Write It In The Stars](https://open.spotify.com/album/6SAJNqTw4P8uVV8qeApNbJ) | 3:35 | 2022-10-07 | 2023-01-28 |
 | [Go Write with the Stars](https://open.spotify.com/track/0LIojBe01OpupDLuMUYwHK) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Go Write with the Stars](https://open.spotify.com/album/1WSBhoawi94swRpqd0weQF) | 3:33 | 2022-10-07 | 2022-10-13 |
+| [God Needs The Devil](https://open.spotify.com/track/3nEotpBFeXq0OJstuHzwDP) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [God Needs The Devil](https://open.spotify.com/album/6m9iHuaCahIjbToXBybxnl) | 3:12 | 2024-06-14 |  |
 | [Going Down](https://open.spotify.com/track/5sSTJF2a8Ew2wxIW1mCBG5) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Self/Less](https://open.spotify.com/album/6ufptISTWnxr9Zqm2mS1QP) | 3:11 | 2024-02-16 |  |
 | [Gold](https://open.spotify.com/track/54eE5H6F1HhyM5L4fRLq8s) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Gold](https://open.spotify.com/album/6n7xHs8VlA2i9gXFt4DGRC) | 2:50 | 2023-03-17 | 2023-07-22 |
 | [Good & Bad](https://open.spotify.com/track/48aOK7d3ILprSttYWNWKJh) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Crashing Into Your Living Room, Vol\. 1](https://open.spotify.com/album/2J0j78yYjUb4R62LgnqL31) | 2:36 | 2024-03-22 |  |
@@ -515,7 +516,7 @@
 | [I'm Around](https://open.spotify.com/track/2zfxZsXityOS6bJYWNLgJR) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [I'm Around](https://open.spotify.com/album/7g1ir5F6KEuOJ8NUdZztfS) | 3:20 | 2023-10-20 | 2024-03-16 |
 | [i'm not gonna kill you](https://open.spotify.com/track/3yiJz5qVdA5x2ajY1kw99f) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [eleven achers](https://open.spotify.com/album/5D2AToXPxIC5cBdbdOXHsM) | 2:44 | 2022-03-11 | 2022-03-26 |
 | [I'm Rich](https://open.spotify.com/track/4qkRoNFCVMST5cj2f6BG8b) | [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [Inner Love Energy](https://open.spotify.com/album/5oWvNTQdhL9lVri1H5RAkT) | 3:39 | 2024-04-05 |  |
-| [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9) | 3:07 | 2023-12-15 |  |
+| [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9) | 3:07 | 2023-12-15 | 2024-06-15 |
 | [idc](https://open.spotify.com/track/5vBHFYWu1KAAHYY5EfMl5u) | [Lili\-Ann De Francesco](https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA) | [idc](https://open.spotify.com/album/6I5dntjb6mH8XL0Afju0TL) | 3:26 | 2022-02-18 | 2022-09-09 |
 | [idc \(reprise\)](https://open.spotify.com/track/5sGNha4hVuqh1NqqhO1qnE) | [Lili\-Ann De Francesco](https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA), [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [idc \(reprise\)](https://open.spotify.com/album/5ud32wtU4cbipyUwoOWJ5m) | 3:23 | 2023-02-10 | 2023-05-13 |
 | [If Anybody Cares At All](https://open.spotify.com/track/2rjyhx1TEZEAoGYkJjkdSI) | [Jake Hope](https://open.spotify.com/artist/44PkBtAQLIQ45IDNop6d78) | [If Anybody Cares At All](https://open.spotify.com/album/16V0IPiQhbzoZNnkdSkOPM) | 2:57 | 2023-11-17 | 2024-03-30 |
@@ -561,6 +562,7 @@
 | [Joy](https://open.spotify.com/track/4Hn4zAkBUaNnT8m9p7cYaf) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Joy](https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM) | 3:13 | 2022-01-28 | 2022-02-26 |
 | [Judy](https://open.spotify.com/track/7IoTIzZDVVp7LvHJjWXQpN) | [Jenn Grant](https://open.spotify.com/artist/4ll7UpFe9fDtA0g16Vgf5L), [Kim Harris](https://open.spotify.com/artist/4Z4L0pVDUIQuI48pBKlij6) | [Judy](https://open.spotify.com/album/7MEOwV8tBLmED8HzulmWjP) | 3:21 | 2022-11-11 | 2022-12-10 |
 | [Juice](https://open.spotify.com/track/0xm8ENKMgJtOTavOuAAjWS) | [Maggie Szabo](https://open.spotify.com/artist/1V5IVmwHG2veT0CUw3kb48) | [Juice](https://open.spotify.com/album/0gUqTmqnWCT2yWnpEb1wMq) | 2:12 | 2023-01-13 | 2023-02-04 |
+| [Just a Dance](https://open.spotify.com/track/2iulJlc0L0rbcvowdlib7J) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Just a Dance](https://open.spotify.com/album/39ZiNIvTOozeE4EcV0Ax5e) | 2:40 | 2024-06-14 |  |
 | [Just Another Thing We Don't Talk About](https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 3:39 | 2022-10-28 | 2023-03-18 |
 | [Just Come Home with Me Tonight](https://open.spotify.com/track/6zArUpWiIqCJ4dTThzRpxL) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Just Come Home with Me Tonight](https://open.spotify.com/album/1ClFEzcUmCIcn4zkZs6jjZ) | 4:07 | 2022-11-18 | 2023-01-14 |
 | [Just For The Night I’m In Love With You](https://open.spotify.com/track/44x808kg2vfiJdHkqWCeVG) | [Jonathan Roy](https://open.spotify.com/artist/62ggJuZV87VvP3sAHM0V3K) | [Just For The Night I'm In Love With You](https://open.spotify.com/album/6BpfT9tXKEWqA1pEGfCAyH) | 2:58 | 2024-05-17 |  |

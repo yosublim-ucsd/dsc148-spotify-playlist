@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 
 > Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: dadá Joãozinho / Arte: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,689 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,697 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 | 36 | [Canal Laranja](https://open.spotify.com/track/4MxIs8Uf9ca58TZaU1Afpq) | [Joni](https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe), [meot](https://open.spotify.com/artist/20xtrfwLue7Sslipsez0NI), [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Canal Laranja](https://open.spotify.com/album/02C3OtPh10TYHuXsV8Qr2n) | 5:00 |
 | 37 | [Eclipse](https://open.spotify.com/track/3vOvr7KuYrDH0QqqKv0LYr) | [vicro](https://open.spotify.com/artist/1qJjqP6hPbHi8m1XWZDndF) | [Eclipse](https://open.spotify.com/album/3HGf7CQc2q2LU2MnuW8edv) | 3:50 |
 | 38 | [4 Da Tarde](https://open.spotify.com/track/4qnnh8MopXJCqj8doN5dok) | [Dupoint](https://open.spotify.com/artist/54GML44bZteHh8aoqc644G) | [4 Da Tarde](https://open.spotify.com/album/3f8B8HAmQquLVXVkKuMms0) | 2:48 |
-| 39 | [\(\(\(Vênus\)\)\)](https://open.spotify.com/track/7C9Qeb9mC8kbBmOGoWIzFD) | [Rizzih](https://open.spotify.com/artist/4RU7ivIDDiiEWDxUMfOV64) | [Poema Suspenso](https://open.spotify.com/album/2ZrXjPfZUBTSH2ETLKqB0I) | 2:58 |
-| 40 | [Voraz](https://open.spotify.com/track/3VwZQVbPTpQjnmMk6naYXU) | [GAROUÁ](https://open.spotify.com/artist/4Nr9nS7QaeP4BMCxM35aMN) | [Voraz](https://open.spotify.com/album/2UB78K0EAmpgccF0WYRMMw) | 2:11 |
+| 39 | [Voraz](https://open.spotify.com/track/3VwZQVbPTpQjnmMk6naYXU) | [GAROUÁ](https://open.spotify.com/artist/4Nr9nS7QaeP4BMCxM35aMN) | [Voraz](https://open.spotify.com/album/2UB78K0EAmpgccF0WYRMMw) | 2:11 |
+| 40 | [\(\(\(Vênus\)\)\)](https://open.spotify.com/track/7C9Qeb9mC8kbBmOGoWIzFD) | [Rizzih](https://open.spotify.com/artist/4RU7ivIDDiiEWDxUMfOV64) | [Poema Suspenso](https://open.spotify.com/album/2ZrXjPfZUBTSH2ETLKqB0I) | 2:58 |
 | 41 | [Ilusão](https://open.spotify.com/track/4JOiydkWmnZcSHZlm9wYMG) | [Malu Azevedo](https://open.spotify.com/artist/5xpVv42Tp4R3l8diZQHB4R) | [Ilusão](https://open.spotify.com/album/5HAypEsF8YPskC6yB8WpAm) | 3:21 |
 | 42 | [Amor de Sonhos](https://open.spotify.com/track/5TNjnNIoyT7vFCi11ZAXG2) | [Ana Olic](https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY) | [Amor de Sonhos](https://open.spotify.com/album/1DRENbKlmulnO5zfLi3ltI) | 2:37 |
 | 43 | [Como É Que Faz](https://open.spotify.com/track/4MSEDP06PEA2fcdTkxhYgx) | [Dogge](https://open.spotify.com/artist/7J39epHKObBDnn6fWcDHSF) | [Como É Que Faz](https://open.spotify.com/album/4MZVN5ztuGCDwsiwTScY1e) | 2:40 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 | 67 | [É preciso Calma](https://open.spotify.com/track/0INaEInPtDdJJSSENNS2VY) | [Unidade Nova Praia](https://open.spotify.com/artist/1Onj9Nq0eoWQ1SOdxFJksp) | [Cardeal](https://open.spotify.com/album/6hqXlThpyF5IUy3PMtPwm3) | 3:35 |
 | 68 | [Não Complica](https://open.spotify.com/track/6tKDV2xTSe9yTzy4xt6Q2A) | [Mavi](https://open.spotify.com/artist/0eFYxhPPa43Kn72wtcAA7f) | [Não Complica](https://open.spotify.com/album/5cVTeir11bJByiSLJcadLQ) | 2:41 |
 | 69 | [Fugitivos](https://open.spotify.com/track/0GiAndY0CP81poxiLL1Zwk) | [Taigo](https://open.spotify.com/artist/0mS8emPKSszolKVZVR9fO8) | [Fugitivos](https://open.spotify.com/album/5LuN9WfkZsmzL98d9XVgn9) | 3:29 |
-| 70 | [Disfarça](https://open.spotify.com/track/15k0GNy0sK5l8W14UGX4dL) | [Silveriô](https://open.spotify.com/artist/2Sj8CPktStO7Fy4Ny2qbyg) | [Disfarça](https://open.spotify.com/album/19Z6YlIy7In820N5JN52EW) | 2:39 |
-| 71 | [Esquece](https://open.spotify.com/track/1mKKizzYm8COly8ZD5kkrt) | [Jalma](https://open.spotify.com/artist/13xRiayc0GcRZMvDCecC8L) | [Esquece](https://open.spotify.com/album/7cSnHyjD3lEQHe1EMpSCF1) | 2:58 |
+| 70 | [Esquece](https://open.spotify.com/track/1mKKizzYm8COly8ZD5kkrt) | [Jalma](https://open.spotify.com/artist/13xRiayc0GcRZMvDCecC8L) | [Esquece](https://open.spotify.com/album/7cSnHyjD3lEQHe1EMpSCF1) | 2:58 |
+| 71 | [Disfarça](https://open.spotify.com/track/15k0GNy0sK5l8W14UGX4dL) | [Silveriô](https://open.spotify.com/artist/2Sj8CPktStO7Fy4Ny2qbyg) | [Disfarça](https://open.spotify.com/album/19Z6YlIy7In820N5JN52EW) | 2:39 |
 | 72 | [Bom Vivant](https://open.spotify.com/track/6EOfe5qiplnVypBCxsDrPT) | [M\. Costta](https://open.spotify.com/artist/7qzpPNkxALTx1RzpP7gguE) | [VERO](https://open.spotify.com/album/7hBWRiIx6wh4gsItx2Ojmi) | 3:17 |
 | 73 | [Alívio](https://open.spotify.com/track/0KnIk3stzRxOvb5LPLqmVt) | [Cronistas](https://open.spotify.com/artist/7L5dmHSm4H8cHne1itDWJq) | [Alívio](https://open.spotify.com/album/5zyqo7eSAZlcP6ecgZw4Lb) | 3:11 |
 | 74 | [Amigo](https://open.spotify.com/track/100MjqTU5I7U0qPvYbrWFA) | [Junim](https://open.spotify.com/artist/2VSSpNdBUOGmNkrBLATwft) | [Amigo](https://open.spotify.com/album/0G1eZMhQdujsdZ5RSQQBYc) | 2:35 |

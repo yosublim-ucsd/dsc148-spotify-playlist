@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > i'm looking for a man in finance & pedro pedro pedro
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,101 likes - 946 songs - 2 day 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,190 likes - 946 songs - 2 day 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

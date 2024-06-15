@@ -2,9 +2,9 @@
 
 ### [shine](https://open.spotify.com/playlist/37i9dQZF1DWYzhk8ayyoEy)
 
-> Warm, inspirational pop, that's good at heart.
+> Warm, inspirational pop, that's good at heart\. Cover: PJ Morton
 
-130 songs - 7 hr 19 min
+132 songs - 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [By The Grace Of God](https://open.spotify.com/track/2IRK3qdY6BzbKxKr8eBk8o) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 4:27 | 2023-01-04 |  |
 | [Cherry On Top](https://open.spotify.com/track/235lO0qJ7TO9lpDorTvegE) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Cherry On Top](https://open.spotify.com/album/5xnwFUWAv18LZOUhAKkpGm) | 4:14 | 2024-04-12 | 2024-05-25 |
 | [Clarity](https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Clarity](https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE) | 3:47 | 2023-01-04 |  |
+| [Count On Me](https://open.spotify.com/track/1NFEXNMg8AZ0jGSux4CJdd) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Cape Town to Cairo](https://open.spotify.com/album/3xrdk0MImcnbt9NEc7pSnK) | 2:49 | 2024-06-14 |  |
 | [creature](https://open.spotify.com/track/6tJkq3zUXlEjWluMW9Hdij) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Now, Not Yet](https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z) | 5:35 | 2024-02-27 |  |
 | [Don't Give Up On Me](https://open.spotify.com/track/0fiijtFXDJ9MOVwgSaEQJ5) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Naïve](https://open.spotify.com/album/4NkgzNCOzuki4FuWUOY28R) | 3:16 | 2023-09-29 | 2024-04-19 |
 | [Don't Give Up On Me \- \(From "Five Feet Apart"\)](https://open.spotify.com/track/5A3fPy30SN2wuzrahpcxvV) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Naive](https://open.spotify.com/album/20mlgqmD6YJwkNuAfLRcDC) | 3:16 | 2023-01-04 |  |
@@ -60,6 +61,7 @@
 | [Hope Floats](https://open.spotify.com/track/3Rtx95usvUGG57YgHpOdZt) | [Tyrone Wells](https://open.spotify.com/artist/5zeCSgiRyezbfLiGOpKAsR) | [Hope Floats](https://open.spotify.com/album/2b9NvHkvqvPJxN4XKYmv8G) | 3:18 | 2023-01-04 | 2023-02-03 |
 | [Hope Floats](https://open.spotify.com/track/6se0p6REzFIqJ333SCIlux) | [Tyrone Wells](https://open.spotify.com/artist/5zeCSgiRyezbfLiGOpKAsR) | [Somebody To You](https://open.spotify.com/album/5okrovZbV2oi6t8AIZQRbk) | 3:18 | 2023-01-31 | 2023-08-12 |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2023-01-04 | 2023-09-16 |
+| [I Am Not Okay](https://open.spotify.com/track/76ODTQOl0JZQbhfxs6nRV9) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [I Am Not Okay](https://open.spotify.com/album/07IZeIkEgAdjs0dSbRxn7i) | 3:17 | 2024-06-14 |  |
 | [I Don’t Wanna Worry](https://open.spotify.com/track/1Ej3EHORVUTtvCRh5UnslF) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [I Don’t Wanna Worry](https://open.spotify.com/album/1IlkeN0XXqZcsTcJvbZISS) | 3:33 | 2024-01-05 |  |
 | [I Tried](https://open.spotify.com/track/4Dhic5lCf3U1nefagM5zwy) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [I Tried](https://open.spotify.com/album/6DVwmuhAq0HAq0k4hntOZH) | 2:16 | 2023-02-03 | 2024-02-10 |
 | [I'll Follow](https://open.spotify.com/track/05oHYdKxu7cnqrZgw6CiLK) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [I'll Follow](https://open.spotify.com/album/2eVMMMyptV72ZWM75hER4w) | 2:52 | 2023-05-05 |  |
@@ -72,7 +74,7 @@
 | [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 | 2023-01-04 |  |
 | [Let Me Be](https://open.spotify.com/track/1hGDrKv13rCRaKXjsaHPx2) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF), [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Let Me Be](https://open.spotify.com/album/7HgOBdIBEgUIM0FfoVAQTu) | 3:31 | 2023-01-04 |  |
 | [Let You Down](https://open.spotify.com/track/52RI8jJJ1OxtcfF5Af9zCL) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Let You Down](https://open.spotify.com/album/3UjGAY9p553Qy2blB4cMin) | 3:28 | 2023-09-03 | 2024-01-27 |
-| [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 | 2023-01-04 |  |
+| [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 | 2023-01-04 | 2024-06-15 |
 | [Lift Us Up](https://open.spotify.com/track/4mJ00KHgwBFw2Na0JZxoOy) | [Vanessa Amorosi](https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj) | [Memphis Love](https://open.spotify.com/album/6m88bX6KLUhRVk7DDZBihL) | 4:25 | 2023-11-17 | 2024-03-09 |
 | [Light It Up](https://open.spotify.com/track/27G2FTLanmvyUmXzT0pecS) | [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv), [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE) | [Light It Up](https://open.spotify.com/album/17Ey42YChKT9G4vH9WX52c) | 3:34 | 2023-02-10 |  |
 | [Light Me Up](https://open.spotify.com/track/0Zf1BPkkFAWGtVHeBwHHz4) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [It Doesn't Have To Make Sense](https://open.spotify.com/album/7CboNMoh7xPzZnL1rprGLV) | 4:07 | 2023-01-04 | 2023-03-11 |
@@ -104,7 +106,7 @@
 | [Remedy](https://open.spotify.com/track/3FNGP6PdIy5LwvRqyN0dK6) | [Augustana](https://open.spotify.com/artist/61YE3whKiuRr83j1yOm5M7) | [Remedy](https://open.spotify.com/album/02hu2FF03LeNdAT6M2OMJU) | 3:24 | 2023-01-04 | 2023-01-29 |
 | [Rescue](https://open.spotify.com/track/7r9kOxiNDnkAg5QKqtyjVk) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 3:35 | 2023-01-04 | 2023-04-25 |
 | [Rise Up](https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Cheers to the Fall](https://open.spotify.com/album/6Blubl1glavmervPJa3QVs) | 4:13 | 2023-01-04 |  |
-| [Saved My Life \(with R3HAB\)](https://open.spotify.com/track/6ATM1zRLGYYP72J9xwnL1L) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Saved My Life \(with R3HAB\)](https://open.spotify.com/album/6deJd6SdTPGoCFwyzJk4L7) | 2:54 | 2023-01-04 |  |
+| [Saved My Life \(with R3HAB\)](https://open.spotify.com/track/6ATM1zRLGYYP72J9xwnL1L) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Saved My Life \(with R3HAB\)](https://open.spotify.com/album/6deJd6SdTPGoCFwyzJk4L7) | 2:54 | 2023-01-04 | 2024-06-15 |
 | [So Will I](https://open.spotify.com/track/2MH8nFkQQgVqwr6w6jEPIr) | [Phillip Phillips](https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4) | [So Will I](https://open.spotify.com/album/1jz72j3JNoHfQfaN8QGKH3) | 2:53 | 2023-05-12 |  |
 | [Somebody Loves You](https://open.spotify.com/track/6jOrsBdE4gzgnUuwKjhNdy) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Somebody Loves You](https://open.spotify.com/album/0m1sI2WlgWK2RuYEcB0ExO) | 3:11 | 2023-03-10 | 2023-11-16 |
 | [Something I Could Never Be \(feat\. Wrabel\)](https://open.spotify.com/track/76xRTCRN9TqfvkEfRtz9Kk) | [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Something I Could Never Be \(feat\. Wrabel\)](https://open.spotify.com/album/1I50JGbfZdDfgBMJSx53mM) | 3:43 | 2023-09-15 |  |

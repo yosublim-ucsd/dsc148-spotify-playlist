@@ -2,7 +2,7 @@
 
 ### [Country Frequency](https://open.spotify.com/playlist/37i9dQZF1DWY1wwcap53LA)
 
-> Country music making waves\. Cover: Reyna Roberts, Tanner Adell, Brittney Spencer and Tiera Kennedy
+> Country music making waves\. Cover: Mickey Guyton
 
 207 songs - 10 hr 41 min
 

@@ -5475,6 +5475,28 @@
     },
     {
       "album": {
+        "name": "iloveitwhentheyrun",
+        "url": "https://open.spotify.com/album/3XlSEKQ4K8luPp5icnTYKo"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        },
+        {
+          "name": "Conrad",
+          "url": "https://open.spotify.com/artist/788qKGMEh4hfYUTy8yANRC"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188793,
+      "name": "get my way",
+      "url": "https://open.spotify.com/track/03JEVI9w0PKZ7e2h72XAfl"
+    },
+    {
+      "album": {
         "name": "GET RIGHT",
         "url": "https://open.spotify.com/album/1hd4EOuxrB93zMvfu5NSm7"
       },

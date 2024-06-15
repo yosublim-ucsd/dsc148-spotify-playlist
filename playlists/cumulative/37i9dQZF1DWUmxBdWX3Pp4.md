@@ -2,7 +2,7 @@
 
 ### [TRAPPERZ](https://open.spotify.com/playlist/37i9dQZF1DWUmxBdWX3Pp4)
 
-> Éxitos del Trap Latino\. Foto: Dei V.
+> Éxitos del Trap Latino\. Foto: Grupo Marca Registrada.
 
 449 songs - 1 day 1 hr 27 min
 

@@ -4,7 +4,7 @@
 
 > Temukan musisi kesayanganmu dari berbagai penjuru Jawa Barat\. Cover: Juicy Luicy
 
-99 songs - 7 hr 5 min
+100 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [i don’t mind \- RED](https://open.spotify.com/track/2Tr70FkraG5kJEsEehyRjC) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [i don't mind: RED+BLUE](https://open.spotify.com/album/57042oQZ05m9w5IAbAYN6X) | 2:41 | 2023-03-16 |  |
 | [Ingin Hilang Ingatan](https://open.spotify.com/track/2dPE3VkQ62Ob5rRFi2hdOs) | [Rocket Rockers](https://open.spotify.com/artist/3k7qB8d47YeYcHlrqaLM4U) | [Better Season](https://open.spotify.com/album/2ix3qSVMLVOiPRahWg8OwP) | 4:08 | 2023-03-16 |  |
 | [Insan Biasa](https://open.spotify.com/track/79T9Ab0SwY8h6kxzDoVZdz) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Insan Biasa](https://open.spotify.com/album/2UyX1tZhUrWMt52W3op8ha) | 5:40 | 2023-03-16 |  |
+| [Insya Allah](https://open.spotify.com/track/1iOoTZdnqb5r6eFfzKAJfl) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Insya Allah](https://open.spotify.com/album/27Ul1EwxPb7vJ4DBUX8MOg) | 3:23 | 2024-06-14 |  |
 | [Intermezzo](https://open.spotify.com/track/1g9CyyZFbFd2wl6hOXNrEN) | [Bleach](https://open.spotify.com/artist/18Bd4tKfIWvuvbn5PxeeML), [The Couch Club](https://open.spotify.com/artist/54Ez4eIclterVTLzaIt4nh) | [INTERMEZZO \(THE BLEACH CLUB\)](https://open.spotify.com/album/3CY6wVLwyEXRIgHAbiZQuA) | 1:32 | 2023-03-16 |  |
 | [Jalan Pulang](https://open.spotify.com/track/1ado6H8nwj0izGVinobwuP) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Jalan Pulang](https://open.spotify.com/album/0LqqN2YAboL8vcXqJYpEme) | 3:36 | 2023-03-16 |  |
 | [Kalam](https://open.spotify.com/track/0m0ZGGpcLSR074LZHmwygB) | [Swellow](https://open.spotify.com/artist/0oHQ2Lif0zo9gofe3YPAw2) | [Kalam](https://open.spotify.com/album/2LqkY37FJu6Vs0Tjeju2NR) | 1:58 | 2023-03-16 |  |

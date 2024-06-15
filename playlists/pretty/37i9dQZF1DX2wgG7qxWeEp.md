@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wgG7qxWeEp.md) - [plain]
 
 > Todo hits veraniegos para la mejor fiesta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,279 likes - 120 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,344 likes - 120 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

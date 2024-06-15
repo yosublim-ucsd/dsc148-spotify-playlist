@@ -1,12 +1,12 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb",
-  "num_followers": 52856,
+  "num_followers": 53076,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmKFwAAAAAAh5jF5hUNjPzN/ahCL1Ev5",
+  "snapshot_id": "ZmvAQAAAAAA3iZWhA1fjIoOXN2F9mRrw",
   "tracks": [
     {
       "added_at": "2024-04-19 04:00:00",
@@ -153,24 +153,20 @@
       "url": "https://open.spotify.com/track/0wIZzK1cWw1CzYGxN1Og8m"
     },
     {
-      "added_at": "2024-06-07 04:00:00",
+      "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Tu Camino",
-        "url": "https://open.spotify.com/album/5mRwJTYVUwbDuvWung7Adv"
+        "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE (Rework)",
+        "url": "https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx"
       },
       "artists": [
         {
-          "name": "Calussa",
-          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
-        },
-        {
-          "name": "Sllash & Doppe",
-          "url": "https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj"
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
         }
       ],
-      "duration_ms": 165600,
-      "name": "Tu Camino",
-      "url": "https://open.spotify.com/track/4chazKXFBLQO6DFmv5hwj9"
+      "duration_ms": 186341,
+      "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE - Rework",
+      "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -297,20 +293,24 @@
       "url": "https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE (Rework)",
-        "url": "https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx"
+        "name": "Tu Camino",
+        "url": "https://open.spotify.com/album/5mRwJTYVUwbDuvWung7Adv"
       },
       "artists": [
         {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        },
+        {
+          "name": "Sllash & Doppe",
+          "url": "https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj"
         }
       ],
-      "duration_ms": 186341,
-      "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE - Rework",
-      "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
+      "duration_ms": 165600,
+      "name": "Tu Camino",
+      "url": "https://open.spotify.com/track/4chazKXFBLQO6DFmv5hwj9"
     },
     {
       "added_at": "2024-04-19 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 
 > Clásicos del folklore argentino de la mano de sus más grandes intérpretes\. Foto: Chaqueño Palavecino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,133 likes - 150 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,167 likes - 150 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,9 +121,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 111 | [Lucero Cantor](https://open.spotify.com/track/5Rr0MwgF3sDqch1brtSunL) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [Los Copla](https://open.spotify.com/album/67f8qJ03gPtnrQFeMnIa0k) | 3:14 |
 | 112 | [Santafesino de Veras](https://open.spotify.com/track/1w9LiWF0fCyfCQ8bfSY1VE) | [Ramona Galarza](https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm), [Los Quilla Huasi](https://open.spotify.com/artist/0mldH6GcoYEV145HY3GHEk) | [Folklore: Los 100 Mejores Temas, Vol\. 2](https://open.spotify.com/album/4IHqqOFllocnEbsKA4gLiQ) | 2:39 |
 | 113 | [Como Pájaros en el Aire](https://open.spotify.com/track/1h0XaQjEBN3WOiLAOjhRVe) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Leyenda](https://open.spotify.com/album/0ElncY7qEVIgOs0QXBZUUO) | 3:12 |
-| 114 | [Tarumba](https://open.spotify.com/track/4dkqq32PpBTmzWHiYEYy0Q) | [Chechelos](https://open.spotify.com/artist/6a24LyJKiILo37aDxHVDL6), [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [Tarumba](https://open.spotify.com/album/07JKpHFQF3FbhridKdBg4A) | 3:18 |
+| 114 | [Zamba de Vargas](https://open.spotify.com/track/2WN7uSvBMc2MUnnpoAQ57m) | [A.Yupanqui](https://open.spotify.com/artist/29lDBZbigtSYlk8QoiCyZT) | [Folklore Argentino](https://open.spotify.com/album/02PuvyPY2ohmihaFVkaE4M) | 2:46 |
 | 115 | [Run Run Se Fue Pa'l Norte \- En Vivo](https://open.spotify.com/track/5DOwZZbuM3qLU4GzCPVXYn) | [Liliana Herrero](https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF) | [Antigüedades \(En Vivo\)](https://open.spotify.com/album/470JBBmJHQWNHuPMDENZ2B) | 5:03 |
-| 116 | [Zamba de Vargas](https://open.spotify.com/track/2WN7uSvBMc2MUnnpoAQ57m) | [A.Yupanqui](https://open.spotify.com/artist/29lDBZbigtSYlk8QoiCyZT) | [Folklore Argentino](https://open.spotify.com/album/02PuvyPY2ohmihaFVkaE4M) | 2:46 |
+| 116 | [Tarumba](https://open.spotify.com/track/4dkqq32PpBTmzWHiYEYy0Q) | [Chechelos](https://open.spotify.com/artist/6a24LyJKiILo37aDxHVDL6), [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [Tarumba](https://open.spotify.com/album/07JKpHFQF3FbhridKdBg4A) | 3:18 |
 | 117 | [Canto de mis abuelos \- En Vivo](https://open.spotify.com/track/3xpvV8sTuVli0Up4Az8fwd) | [Sixto Palavecino](https://open.spotify.com/artist/7J3PlfvQyxabanXsQQtJf0) | [Musicos \- Cantores Kuska \(Juntos\) \[En Vivo\]](https://open.spotify.com/album/2KruPURJwzR5o8UEo9IGId) | 2:14 |
 | 118 | [Por Hacer la América](https://open.spotify.com/track/1hCPK4befzCeLDdNQuYKtc) | [Los 4 De Cordoba](https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2) | [Por Hacer la América \(Vol\. 1\)](https://open.spotify.com/album/3JA3dlrGcOEaPf2ExetHIU) | 3:58 |
 | 119 | [Voy andando](https://open.spotify.com/track/3IShFn5CIe7b5UUGfw4g5C) | [Jorge Cafrune](https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38) | [Jorge Cafrune \- Siempre vigente](https://open.spotify.com/album/2oYRod4ggja80dsFy9X585) | 3:29 |

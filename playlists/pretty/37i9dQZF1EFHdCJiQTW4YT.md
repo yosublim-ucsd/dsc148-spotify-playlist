@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7fz7UPTxns39Xp8gj9zoIB">Stephen Wrabel</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338 likes - 142 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 340 likes - 142 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 108 | [abstract art](https://open.spotify.com/track/1flQVimCtHgp6zblwZAcfm) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [based on a true story](https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6) | 3:16 |
 | 109 | [LY4L](https://open.spotify.com/track/2olbaPwSwbBRs0goKzSFVf) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Kool Aid](https://open.spotify.com/album/4bDfdcqRQqnxwEbp24xNdg) | 3:40 |
 | 110 | [lost cause](https://open.spotify.com/track/15yqPpsLKCPEGIVhqE7dUD) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [based on a true story](https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6) | 3:40 |
-| 111 | [Cold](https://open.spotify.com/track/0a14F5kFcz5GCWX10KK6SM) | [Citizen Four](https://open.spotify.com/artist/0bp5rkeCxghGGOsHKWwmUC) | [Cold](https://open.spotify.com/album/59SzZY51q1IcO81ffmExpR) | 3:25 |
-| 112 | [Turn Up the Love](https://open.spotify.com/track/6y8zl9Cb5YXAKlgdIKAEWF) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Turn Up the Love](https://open.spotify.com/album/4SrRqoPeBlp8DuLk5iHKSl) | 3:38 |
+| 111 | [Turn Up the Love](https://open.spotify.com/track/6y8zl9Cb5YXAKlgdIKAEWF) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Turn Up the Love](https://open.spotify.com/album/4SrRqoPeBlp8DuLk5iHKSl) | 3:38 |
+| 112 | [Cold](https://open.spotify.com/track/0a14F5kFcz5GCWX10KK6SM) | [Citizen Four](https://open.spotify.com/artist/0bp5rkeCxghGGOsHKWwmUC) | [Cold](https://open.spotify.com/album/59SzZY51q1IcO81ffmExpR) | 3:25 |
 | 113 | [that's what i'd do \- live](https://open.spotify.com/track/0DIhbi6IbA2o4m5sXQ4vDb) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [that's what i'd do \(live\)](https://open.spotify.com/album/2pUvlqckRhn3gsdgUPr3Hi) | 6:36 |
 | 114 | [Everybody Knows](https://open.spotify.com/track/7KYMs4Y5WwhspkMLApgfCk) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [idina.](https://open.spotify.com/album/3jXpXBlvGdt0LHZ2CqBg3K) | 3:25 |
 | 115 | [one drink away](https://open.spotify.com/track/4TJVd5nC27kOCwPyCo6zEb) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [based on a true story](https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6) | 3:10 |
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 141 | [Mean It](https://open.spotify.com/track/4XW0JyO4DKjyxAFJhNDbps) | [Dustin Domingo](https://open.spotify.com/artist/78bcX1rKaNUMVYutJ5Kq4L) | [Mean It](https://open.spotify.com/album/5dCqM12gg8X650WYNZcbuu) | 3:22 |
 | 142 | [Here Comes the Change](https://open.spotify.com/track/6mrrZi2rUwPhnVLWO7PtO5) | [JukeVox LibrAries](https://open.spotify.com/artist/3XCz6vtF1dsjFpVluDCFRm) | [Waiting For You](https://open.spotify.com/album/2dRmJE9oRpnCpy2eKk9q07) | 4:45 |
 
-Snapshot ID: `AbT+jAAAAADeb4ixkJYs7zUhUWOW/owc`
+Snapshot ID: `AbUELAAAAAClidefP9BQWTsaLZhre8uu`

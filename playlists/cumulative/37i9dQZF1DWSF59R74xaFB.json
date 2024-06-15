@@ -9032,10 +9032,28 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 185038,
       "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
       "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
+    },
+    {
+      "album": {
+        "name": "\u00c9l",
+        "url": "https://open.spotify.com/album/0fxCR3dXs9vmyUdmMf4sJ8"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155581,
+      "name": "\u00c9l",
+      "url": "https://open.spotify.com/track/4uWMutZ5F10gRRsRo5ey3M"
     },
     {
       "album": {

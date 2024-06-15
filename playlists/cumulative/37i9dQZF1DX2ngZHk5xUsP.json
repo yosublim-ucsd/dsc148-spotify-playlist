@@ -705,6 +705,24 @@
     },
     {
       "album": {
+        "name": "Insya Allah",
+        "url": "https://open.spotify.com/album/27Ul1EwxPb7vJ4DBUX8MOg"
+      },
+      "artists": [
+        {
+          "name": "Juicy Luicy",
+          "url": "https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203557,
+      "name": "Insya Allah",
+      "url": "https://open.spotify.com/track/1iOoTZdnqb5r6eFfzKAJfl"
+    },
+    {
+      "album": {
         "name": "INTERMEZZO (THE BLEACH CLUB)",
         "url": "https://open.spotify.com/album/3CY6wVLwyEXRIgHAbiZQuA"
       },

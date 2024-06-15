@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-750 songs - 1 day 19 hr 11 min
+751 songs - 1 day 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -587,6 +587,7 @@
 | [Shine](https://open.spotify.com/track/1RR19k1GVV2Sl0vi65wFTh) | [Sophon](https://open.spotify.com/artist/7AmI3Zl33iDdhRMvq0MiAV), [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [Shine](https://open.spotify.com/album/42WL9WgN516xT16NhXVUyb) | 3:24 | 2022-01-10 | 2022-03-18 |
 | [SICKO](https://open.spotify.com/track/5e9Pd60eHsH6ERbuzh6krO) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [SLEEPER / SICKO](https://open.spotify.com/album/5ucMWsUY72QfFAHonYLrUY) | 1:45 | 2022-10-20 | 2023-01-07 |
 | [Silk Road](https://open.spotify.com/track/545nphHUuiPLuiPIGT3Inn) | [Talamanca](https://open.spotify.com/artist/6T10DjLBN7wT5gtnPnhmEk), [Roald Velden](https://open.spotify.com/artist/1ezY8w6yikBekrZCUVYkLP) | [Silk Road](https://open.spotify.com/album/6mEFavBMsLDQQsbzzIzman) | 3:49 | 2022-04-27 | 2022-07-08 |
+| [Sip On This](https://open.spotify.com/track/1mH6LCjX9SiM6rJEEz8jz4) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [Sip On This](https://open.spotify.com/album/1hSSCKGzuuNbn9IZk8MN8k) | 3:20 | 2024-06-14 |  |
 | [Sky](https://open.spotify.com/track/3W6vWG13TkIE12QTdCSfUT) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv) | [Sky](https://open.spotify.com/album/4SHvglDiEuw5FKPshkQ9Hi) | 3:36 | 2022-10-29 | 2023-01-24 |
 | [Skyline](https://open.spotify.com/track/1FmxHYqNEeMq6KBb3F5dlK) | [Mango](https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w) | [Skyline](https://open.spotify.com/album/4U6Fs0ZXg4IgHXwNqZBOkb) | 3:37 | 2022-10-14 | 2022-12-14 |
 | [SLEEPER](https://open.spotify.com/track/5vkaCS15NjWCJzEAEFbP4q) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [SLEEPER / SICKO](https://open.spotify.com/album/5ucMWsUY72QfFAHonYLrUY) | 2:52 | 2022-10-20 | 2023-01-07 |

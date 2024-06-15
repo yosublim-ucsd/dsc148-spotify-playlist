@@ -2,9 +2,9 @@
 
 ### [Oye Pop](https://open.spotify.com/playlist/37i9dQZF1DX92MLsP3K1fI)
 
-> ¡Sube el volumen y disfruta del pop más chicloso! Kaia Lana en portada.
+> ¡Sube el volumen y disfruta del pop más chicloso! Juan Gabriel en portada.
 
-314 songs - 15 hr 48 min
+316 songs - 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Bien Por Ti](https://open.spotify.com/track/7LWhpOibaXbJNSgQaTPmgG) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [Bien Por Ti](https://open.spotify.com/album/7E0TeYo5ebKzkUzxP1NhX5) | 2:34 | 2022-12-09 | 2024-04-20 |
 | [Bilingües](https://open.spotify.com/track/6euS235KVmpywN68iAVM9j) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Bilingües](https://open.spotify.com/album/2oP9WaSwMpMHagFAtwQkJq) | 2:54 | 2024-05-03 |  |
 | [Blanco Y Negro](https://open.spotify.com/track/3SdMz8hyuRYbbiYoNqmyxO) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [Blanco Y Negro](https://open.spotify.com/album/2M2ao83OAsIDW7uDAf4UHp) | 3:23 | 2022-04-22 | 2022-04-24 |
-| [Blanco Y Negro](https://open.spotify.com/track/3s96JLi4otLNGrVK6Eik7f) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Blanco Y Negro](https://open.spotify.com/album/7csomMVHTbSZuqLPofYE8Y) | 3:32 | 2024-02-23 |  |
+| [Blanco Y Negro](https://open.spotify.com/track/3s96JLi4otLNGrVK6Eik7f) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Blanco Y Negro](https://open.spotify.com/album/7csomMVHTbSZuqLPofYE8Y) | 3:32 | 2024-02-23 | 2024-06-15 |
 | [Blockbuster \(90's R&B\)](https://open.spotify.com/track/5wa8q4KYRxU5Ch8KhPIrJu) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Blockbuster \(90's R&B\)](https://open.spotify.com/album/55M9YK89rE00TLo6TY8Cdk) | 3:27 | 2024-02-23 | 2024-03-16 |
 | [Bobo](https://open.spotify.com/track/4kFK6SkNXA7bBQgTzvFSWz) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Bobo](https://open.spotify.com/album/2xeKzAeesJsiqhN9MfP21f) | 3:00 | 2024-01-26 |  |
 | [boomerang](https://open.spotify.com/track/1bcXs0KpBkBW2FGSbmhJGl) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [boomerang](https://open.spotify.com/album/29cuKsKKlPn4HJ2Keh3jwD) | 2:18 | 2024-03-15 | 2024-06-01 |
@@ -182,7 +182,7 @@
 | [Mis Amigos Opinan Lo Mismo \(Este Volumen Pide Outro\)](https://open.spotify.com/track/4ZHYOSuMJVhx5fnlGI6GGZ) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Mis Amigos Opinan Lo Mismo \(Este Volumen Pide Outro\)](https://open.spotify.com/album/460OjAPOiQCNlu5VvQySCZ) | 1:28 | 2023-08-25 | 2024-01-27 |
 | [Mis Impulsos Sobre Ti](https://open.spotify.com/track/1k6Q5x5CkuGOm4TSRHICDP) | [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Mis Impulsos Sobre Ti](https://open.spotify.com/album/07R6N3nhqDnZpFMUCvaqxu) | 4:02 | 2023-11-17 | 2024-04-07 |
 | [MISS XV x 2](https://open.spotify.com/track/2grZPV3t9Mm420oyJXtTLz) | [Paulina Goto](https://open.spotify.com/artist/3gkRQ3dXFUtmi9kFdjXB2y) | [MISS XV x 2](https://open.spotify.com/album/6NAoM8SewAHPxWPTTVSfKr) | 3:10 | 2022-02-04 | 2022-07-28 |
-| [Modo Melancólico](https://open.spotify.com/track/4APwd61xpDtKY2rcac8VCI) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Modo Melancólico](https://open.spotify.com/album/3dc57wAaDKFlbjfb2Njuz1) | 2:46 | 2022-06-28 |  |
+| [Modo Melancólico](https://open.spotify.com/track/4APwd61xpDtKY2rcac8VCI) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Modo Melancólico](https://open.spotify.com/album/3dc57wAaDKFlbjfb2Njuz1) | 2:46 | 2022-06-28 | 2024-06-15 |
 | [Mojito](https://open.spotify.com/track/2mQ2xgCWPSrlm1eJJdAjfw) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Mojito](https://open.spotify.com/album/6UcyaKAJuH5e90PAbFeVrk) | 2:53 | 2022-02-04 | 2022-11-01 |
 | [Moloko](https://open.spotify.com/track/1lbZNXnbOkiyjAQ4XEyl26) | [NK](https://open.spotify.com/artist/3YkZxu7ClLCOqRJG7CxlK7), [Atomic Otro Way](https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ), [Garrent Atkinson](https://open.spotify.com/artist/16ikdJYPg6shOF2eBGeusR), [Jonathan valdez](https://open.spotify.com/artist/3QhBxclqPukX7LMm2TsgBq) | [Moloko](https://open.spotify.com/album/6h9FKofL5Qa1J2BnCn5prD) | 2:39 | 2024-06-07 |  |
 | [Morena Mujer](https://open.spotify.com/track/3nqD2zEi8WQlI2gUzsGDtm) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Morena Mujer](https://open.spotify.com/album/52Enkie6zGmASAECzepRp1) | 2:54 | 2022-02-04 | 2023-05-15 |
@@ -231,6 +231,7 @@
 | [PLATONIK](https://open.spotify.com/track/1e2593sU7hA1ndV3noEf0o) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 2:41 | 2024-04-19 |  |
 | [Polaroid](https://open.spotify.com/track/2FUsz4y7BNzWomZjvK9ebT) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [¿Cómo sonaría un disco?](https://open.spotify.com/album/5ceNhJg1s3D5sm49J9kLHI) | 2:56 | 2023-02-24 | 2023-04-01 |
 | [Polaroid](https://open.spotify.com/track/3r5FAJam7uWGVxO9wKERn5) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [¿Cómo sonaría un disco?](https://open.spotify.com/album/5KtjJlDfRo3meKI0oKBg6X) | 2:56 | 2023-02-24 | 2023-03-02 |
+| [Popurrí a Luis Arcaraz](https://open.spotify.com/track/3MAYyFpaHuMfgYU2Lsgxk5) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Mis Tributos](https://open.spotify.com/album/30JextuxXVMYWhTDuKQePj) | 7:00 | 2024-06-14 |  |
 | [Por ti](https://open.spotify.com/track/1bgpFTASKqTZiBXjM3somT) | [Famasloop](https://open.spotify.com/artist/0XHiwpimzCx4fWUdtniRC7) | [Lo Más Seguro Es Que Quién Sabe](https://open.spotify.com/album/6wSMFRm8HwZI7ygxo0zS0L) | 3:31 | 2022-09-23 | 2022-12-03 |
 | [Pretty GIRL](https://open.spotify.com/track/2lW7JV6gBtF6vApavqbzGG) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [a new star \(1 9 9 3\)](https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4) | 1:56 | 2024-05-10 |  |
 | [Psycho B\*\*ch](https://open.spotify.com/track/1aRcazIFzvRrybZXVdFT1M) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Psycho B\*\*ch](https://open.spotify.com/album/1QLjJQvFwXCIbfOvJVez4u) | 2:47 | 2022-11-14 | 2024-01-27 |
@@ -322,5 +323,6 @@
 | [¿Cómo Pasó?](https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Cómo Pasó?](https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319) | 2:54 | 2024-02-16 |  |
 | [¿Quién Lo Diría?](https://open.spotify.com/track/270oaSaxrykhHgzWHW1SI5) | [Lala Moré](https://open.spotify.com/artist/0z5FIYdXQFbwyRkliO8HsK) | [¿Quién Lo Diría?](https://open.spotify.com/album/0y0wbNrSmS2KKg1zILrkge) | 3:28 | 2022-02-04 | 2022-07-18 |
 | [¿Qué Más Quieres De Mí?](https://open.spotify.com/track/4PWIY4NKlOU618loEsD41O) | [Alan Navarro](https://open.spotify.com/artist/2OErLAm8iN9bisLoX3E0zH) | [heartbreaker](https://open.spotify.com/album/6ZtYF02g1gexQ4lIb95qTU) | 2:46 | 2022-03-04 | 2022-07-08 |
+| [Él](https://open.spotify.com/track/4uWMutZ5F10gRRsRo5ey3M) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Él](https://open.spotify.com/album/0fxCR3dXs9vmyUdmMf4sJ8) | 2:35 | 2024-06-14 |  |
 
 \*This playlist was first scraped on 2022-02-09. Prior content cannot be recovered.

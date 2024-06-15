@@ -4,7 +4,7 @@
 
 > your daily dose of dopamine
 
-565 songs - 1 day 6 hr 46 min
+566 songs - 1 day 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,7 @@
 | [Freak](https://open.spotify.com/track/3aA6xB0tOilDDX17fIJ0Bl) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Freak](https://open.spotify.com/album/3jCcsG6jkQTnUJyCACAg0r) | 4:44 | 2022-04-01 | 2022-04-16 |
 | [Fruity](https://open.spotify.com/track/4XVPArAtSq0657KUF0vXRy) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Fruity](https://open.spotify.com/album/63awPWi564xa0E4Y61w2dz) | 3:13 | 2022-08-19 | 2022-08-25 |
 | [Fun and Forget](https://open.spotify.com/track/3cZ1SjHd0QIVRgGXiJfb5n) | [SSJ Twiin](https://open.spotify.com/artist/6XvELv4pue2ll8vImdm6ts), [thekid.ACE](https://open.spotify.com/artist/4GqTDpyDAWrxQ9bVCtWIDM) | [Fun and Forget](https://open.spotify.com/album/4fOAgauRwqgTolmLomauv9) | 2:38 | 2023-03-17 | 2023-04-01 |
-| [Funny Thing](https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 1:56 | 2022-03-25 |  |
+| [Funny Thing](https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 1:56 | 2022-03-25 | 2024-06-15 |
 | [Futon](https://open.spotify.com/track/0F57gwy0G6aqnaMAH1ELSV) | [Ūla](https://open.spotify.com/artist/47NHOjhVH9I5BO31wxwpt8) | [Futon](https://open.spotify.com/album/6ZRN6AGbq8CBE59kMsB2bk) | 2:36 | 2021-12-29 | 2022-07-27 |
 | [GEEKIN](https://open.spotify.com/track/2AdcAJUXNrvgKEdIEbXVy8) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF), [Ciscero](https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL) | [GEEKIN](https://open.spotify.com/album/5mmKNEoVu2DMJwMqPz1e4h) | 2:37 | 2022-03-28 | 2022-04-21 |
 | [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA) | 4:08 | 2022-03-28 |  |
@@ -410,6 +410,7 @@
 | [Pumped Up Kicks](https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:59 | 2022-04-01 |  |
 | [Pursuit Of Happiness \(Nightmare\)](https://open.spotify.com/track/5iSEsR6NKjlC9SrIJkyL3k) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [Man On The Moon: The End Of Day](https://open.spotify.com/album/47y3PbX8oIDCkYAFylCJz0) | 4:55 | 2022-03-28 | 2022-04-12 |
 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 | 2022-03-25 |  |
+| [Rainbow's End](https://open.spotify.com/track/7LwLIjJICFPNfeiRYFEFGV) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts) | [Rainbow: 25th Anniversary Expanded Edition](https://open.spotify.com/album/6yitEMT7G4qfIcV3jWXP8I) | 3:40 | 2024-06-14 |  |
 | [Raindrops Keep Fallin' On My Head](https://open.spotify.com/track/4gcEr9c5CeAoxsxVGiYJen) | [joe rico](https://open.spotify.com/artist/099JHSPsupRhpsoZvncbha) | [Raindrops Keep Fallin' On My Head](https://open.spotify.com/album/51mvnjRxLtW4XZN9bnDxDo) | 1:53 | 2022-05-13 | 2022-05-19 |
 | [Raingurl](https://open.spotify.com/track/5z1wOyEyoRu0HTkXYvuqiH) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EP2](https://open.spotify.com/album/0LVHebiLemk6H6Djzi5NVf) | 3:57 | 2022-03-28 | 2022-04-20 |
 | [Red Lights \(feat\. Hello O'shay\)](https://open.spotify.com/track/2qUPj0b3PYLJJoscQvhMUr) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hello O'shay](https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp) | [Red Lights \(feat\. Hello O'shay\)](https://open.spotify.com/album/16yQV8L8zdacH4xEjbODda) | 3:12 | 2022-11-11 | 2022-12-08 |

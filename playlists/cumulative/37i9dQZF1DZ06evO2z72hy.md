@@ -2,13 +2,13 @@
 
 ### [This Is Gondwana](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2z72hy)
 
-> This Is Gondwana\. Los temas esenciales, todos en una lista.
+> This is Gondwana\. The essential tracks, all in one playlist.
 
 80 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Absalom](https://open.spotify.com/track/2YgIp3bhveVkGpmu9JyGmr) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Resiliente](https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo) | 3:24 | 2024-06-14 |  |
+| [Absalom](https://open.spotify.com/track/2YgIp3bhveVkGpmu9JyGmr) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Resiliente](https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo) | 3:24 | 2024-06-14 | 2024-06-15 |
 | [Aire De Jah](https://open.spotify.com/track/21a0hsGjEbG6hBl00N3I5g) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Resiliente](https://open.spotify.com/album/7E1x50ZczCpi7HVjHrvhZ9) | 3:57 | 2022-05-25 | 2022-07-04 |
 | [Aire de Jah](https://open.spotify.com/track/5TXLP8oniNd1RvZOTnTDOB) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Resiliente](https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo) | 3:57 | 2022-07-03 |  |
 | [Alabanza](https://open.spotify.com/track/6g0p5ZemM9FUKyNCqlkt69) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Grandes Exitos](https://open.spotify.com/album/5t2pcgpZR6Lo51JNb6s7jp) | 4:21 | 2022-05-25 |  |
@@ -28,20 +28,20 @@
 | [El Rito](https://open.spotify.com/track/5iccBUGytEmsMoJhaFeRag) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Reggae N Roll](https://open.spotify.com/album/0xvEOmEMONX0ohVCUcudb5) | 5:00 | 2022-05-25 | 2023-05-12 |
 | [Felicidad](https://open.spotify.com/track/3TilMZ5wdTBPrDYPNY9Kc8) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Made In Jamaica](https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg) | 5:41 | 2022-05-25 |  |
 | [Fight](https://open.spotify.com/track/7uGKVP3MSeWevLYFI0FOvI) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Crece](https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr) | 4:38 | 2022-10-12 |  |
-| [Fluye](https://open.spotify.com/track/2crdEEBy8ja6mBGjPxfpxZ) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Crece](https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr) | 5:54 | 2022-05-25 | 2024-06-14 |
+| [Fluye](https://open.spotify.com/track/2crdEEBy8ja6mBGjPxfpxZ) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Crece](https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr) | 5:54 | 2022-05-25 |  |
 | [Fuego](https://open.spotify.com/track/6AdoFjOG4HSzceG4EAHii8) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Made In Jamaica](https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg) | 3:59 | 2024-05-19 | 2024-06-12 |
 | [Fuego Bendito](https://open.spotify.com/track/1K93QCRJlYigCeTG5SsfvY) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Resiliente](https://open.spotify.com/album/7E1x50ZczCpi7HVjHrvhZ9) | 4:08 | 2022-05-25 | 2022-07-01 |
 | [Fuego bendito](https://open.spotify.com/track/5n5oi19eI8icBWVrHHECKw) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Resiliente](https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo) | 4:08 | 2022-07-02 |  |
 | [Give Your Love](https://open.spotify.com/track/6SCxbGzB7xJBPqkEvobpFf) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Crece](https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr) | 3:41 | 2022-05-25 |  |
 | [Guerra](https://open.spotify.com/track/6XkwfvohWsXv7B3GrDblaZ) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana](https://open.spotify.com/album/5aqBD2HHSWt6VpSjSZfiMw) | 3:47 | 2022-05-25 |  |
 | [Hasta Que Salga el Sol](https://open.spotify.com/track/6sBTM191Y2Y9EIQnOGv7bf) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Revolución \(Bonus Track Version\)](https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg) | 3:58 | 2022-06-01 | 2022-10-02 |
-| [Ignorancia](https://open.spotify.com/track/0TzxVKHY0tpICeGNQQ2RLf) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Made In Jamaica](https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg) | 4:36 | 2022-05-25 |  |
+| [Ignorancia](https://open.spotify.com/track/0TzxVKHY0tpICeGNQQ2RLf) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Made In Jamaica](https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg) | 4:36 | 2022-05-25 | 2024-06-15 |
 | [Jah Guide](https://open.spotify.com/track/49HlZ78uRJkjYvUIed53Ko) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Alabanza](https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS) | 4:46 | 2022-05-25 |  |
 | [K\-In](https://open.spotify.com/track/33ZodQe3KOlVo1RCTznvVd) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Resiliente](https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo) | 4:18 | 2022-07-02 |  |
 | [K\-In](https://open.spotify.com/track/46MPomoOJPWxItWUTOk4Fz) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Resiliente](https://open.spotify.com/album/7E1x50ZczCpi7HVjHrvhZ9) | 4:18 | 2022-05-25 | 2022-07-03 |
 | [Keep The Faith](https://open.spotify.com/track/2Qq4l3G6w6WdfM1rKrEqBe) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Alabanza](https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS) | 3:08 | 2022-05-25 | 2024-05-11 |
 | [Keep The Faith](https://open.spotify.com/track/0pKP04PH5nXiPqAq7Ava5o) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Grandes Exitos](https://open.spotify.com/album/5t2pcgpZR6Lo51JNb6s7jp) | 3:08 | 2024-05-11 |  |
-| [La Barca](https://open.spotify.com/track/7LTXQnitAcwSdZdl2t7E13) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Made In Jamaica](https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg) | 4:30 | 2022-05-25 | 2022-10-13 |
+| [La Barca](https://open.spotify.com/track/7LTXQnitAcwSdZdl2t7E13) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Made In Jamaica](https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg) | 4:30 | 2022-05-25 |  |
 | [La Puerta Sigue Abierta](https://open.spotify.com/track/59dzgc60efoAOFx0bywbi2) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Resiliente](https://open.spotify.com/album/7E1x50ZczCpi7HVjHrvhZ9) | 3:43 | 2022-06-02 | 2022-06-07 |
 | [La puerta sigue abierta](https://open.spotify.com/track/6crknC6n2C2wQ8zyy8pNcp) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Resiliente](https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo) | 3:43 | 2022-08-19 | 2022-08-21 |
 | [Libertad](https://open.spotify.com/track/2wod4OhxL86a2qLBiTumLH) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Alabanza](https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS) | 4:00 | 2022-05-28 | 2022-10-17 |

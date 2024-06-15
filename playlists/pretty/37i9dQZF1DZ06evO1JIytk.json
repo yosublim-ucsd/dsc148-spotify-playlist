@@ -1,12 +1,12 @@
 {
   "description": "This is Anti-Flag. The essential tracks, all in one playlist.",
-  "num_followers": 15968,
+  "num_followers": 15973,
   "original_name": "This Is Anti-Flag",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjlAAAAAAC0oE2y8be9YFHGCX/bwGOl",
+  "snapshot_id": "Zmo2gAAAAACMmjp7m7V1VF0Xh170dlSX",
   "tracks": [
     {
       "added_at": null,
@@ -123,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "20/20 Vision",
+        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 166893,
+      "name": "Hate Conquers All",
+      "url": "https://open.spotify.com/track/4FvkeESnHKUsqYHSzUF9Mv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Complete Control Sessions",
         "url": "https://open.spotify.com/album/7sKPLjegUKYQewu3ytf0Si"
       },
@@ -139,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The General Strike",
-        "url": "https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 165767,
-      "name": "This Is the New Sound",
-      "url": "https://open.spotify.com/track/4t98qp03cHX5oau9jsxE0M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For Blood And Empire",
         "url": "https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2"
       },
@@ -167,6 +167,22 @@
       "duration_ms": 130759,
       "name": "I'd Tell You But...",
       "url": "https://open.spotify.com/track/1iZKML1ki9knISenUIzXpM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The General Strike",
+        "url": "https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 165767,
+      "name": "This Is the New Sound",
+      "url": "https://open.spotify.com/track/4t98qp03cHX5oau9jsxE0M"
     },
     {
       "added_at": null,
@@ -203,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20/20 Vision",
-        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 164333,
-      "name": "Christian Nationalist",
-      "url": "https://open.spotify.com/track/0yrCblXgIHbyMGySvvMuwV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For Blood And Empire",
         "url": "https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2"
       },
@@ -231,6 +231,22 @@
       "duration_ms": 150666,
       "name": "1 Trillion Dollar$ - Dirty Version",
       "url": "https://open.spotify.com/track/1dIYsviqWVfAOmkvZm8WQ2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20/20 Vision",
+        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 164333,
+      "name": "Christian Nationalist",
+      "url": "https://open.spotify.com/track/0yrCblXgIHbyMGySvvMuwV"
     },
     {
       "added_at": null,
@@ -327,6 +343,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "LIES THEY TELL OUR CHILDREN",
+        "url": "https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        },
+        {
+          "name": "Shane Told",
+          "url": "https://open.spotify.com/artist/04Pv8STObLiJIKEm72YDPY"
+        }
+      ],
+      "duration_ms": 184626,
+      "name": "LAUGH. CRY. SMILE. DIE. (feat. Shane Told of Silverstein)",
+      "url": "https://open.spotify.com/track/6AmR0jgVwt26PqY3FJL8zk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "American Fall",
         "url": "https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts"
       },
@@ -339,26 +375,6 @@
       "duration_ms": 165813,
       "name": "When The Wall Falls",
       "url": "https://open.spotify.com/track/2j6BvBYHuvlHHRx33sDG7X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LIES THEY TELL OUR CHILDREN",
-        "url": "https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        },
-        {
-          "name": "Stacey Dee",
-          "url": "https://open.spotify.com/artist/5MzVW6bfqpL5hrSa9wfc9T"
-        }
-      ],
-      "duration_ms": 280333,
-      "name": "NVREVR (feat. Stacey Dee of Bad Cop/Bad Cop)",
-      "url": "https://open.spotify.com/track/4vQ8s5KjX2xUuGwPQt5ySu"
     },
     {
       "added_at": null,
@@ -395,6 +411,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "LIES THEY TELL OUR CHILDREN",
+        "url": "https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        },
+        {
+          "name": "Stacey Dee",
+          "url": "https://open.spotify.com/artist/5MzVW6bfqpL5hrSa9wfc9T"
+        }
+      ],
+      "duration_ms": 280333,
+      "name": "NVREVR (feat. Stacey Dee of Bad Cop/Bad Cop)",
+      "url": "https://open.spotify.com/track/4vQ8s5KjX2xUuGwPQt5ySu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "American Fall",
         "url": "https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts"
       },
@@ -407,6 +443,38 @@
       "duration_ms": 163866,
       "name": "The Criminals",
       "url": "https://open.spotify.com/track/5XM2XAGYQxzgGr8CVZi5UP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For Blood And Empire",
+        "url": "https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 163360,
+      "name": "Confessions of an Economic Hit Man - Dirty Version",
+      "url": "https://open.spotify.com/track/7b7RifetHxERla9vz3GATu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The General Strike",
+        "url": "https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 197973,
+      "name": "The Neoliberal Anthem",
+      "url": "https://open.spotify.com/track/1eFFX62lE73xMal8dGPMHU"
     },
     {
       "added_at": null,
@@ -431,38 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Blood And Empire",
-        "url": "https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 163360,
-      "name": "Confessions of an Economic Hit Man - Dirty Version",
-      "url": "https://open.spotify.com/track/7b7RifetHxERla9vz3GATu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Die for the Government",
-        "url": "https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 140293,
-      "name": "F**k Police Brutality",
-      "url": "https://open.spotify.com/track/7znoroIV2dSMcjpv7ZxnLh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "American Fall",
         "url": "https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts"
       },
@@ -479,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The General Strike",
-        "url": "https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw"
+        "name": "Die for the Government",
+        "url": "https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP"
       },
       "artists": [
         {
@@ -488,9 +524,9 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 197973,
-      "name": "The Neoliberal Anthem",
-      "url": "https://open.spotify.com/track/1eFFX62lE73xMal8dGPMHU"
+      "duration_ms": 140293,
+      "name": "F**k Police Brutality",
+      "url": "https://open.spotify.com/track/7znoroIV2dSMcjpv7ZxnLh"
     },
     {
       "added_at": null,
@@ -527,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20/20 Vision",
-        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 143333,
-      "name": "It Went Off Like A Bomb",
-      "url": "https://open.spotify.com/track/5NbgvgPZNVcUr6Epp7VkQE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "American Spring",
         "url": "https://open.spotify.com/album/6UtJ5648uGVbr0EGCJs6S7"
       },
@@ -555,6 +575,22 @@
       "duration_ms": 196306,
       "name": "Fabled World",
       "url": "https://open.spotify.com/track/3HNYcvcsw78tNXJtc4YbES"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20/20 Vision",
+        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 143333,
+      "name": "It Went Off Like A Bomb",
+      "url": "https://open.spotify.com/track/5NbgvgPZNVcUr6Epp7VkQE"
     },
     {
       "added_at": null,
@@ -719,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LIES THEY TELL OUR CHILDREN",
-        "url": "https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk"
+        "name": "A New Kind of Army",
+        "url": "https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv"
       },
       "artists": [
         {
@@ -728,9 +764,9 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 176706,
-      "name": "IMPERIALISM",
-      "url": "https://open.spotify.com/track/5ZJ8eWvSz2cArcKBlxiGrR"
+      "duration_ms": 82964,
+      "name": "Right On",
+      "url": "https://open.spotify.com/track/0GsnorDMZ6mbINFtcHHZbY"
     },
     {
       "added_at": null,
@@ -747,22 +783,6 @@
       "duration_ms": 177980,
       "name": "The Ghosts of Alexandria",
       "url": "https://open.spotify.com/track/73bMXYBkzY0H6Fw0l7WAlR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A New Kind of Army",
-        "url": "https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 82964,
-      "name": "Right On",
-      "url": "https://open.spotify.com/track/0GsnorDMZ6mbINFtcHHZbY"
     },
     {
       "added_at": null,
@@ -827,22 +847,6 @@
       "duration_ms": 88213,
       "name": "The Great Divide",
       "url": "https://open.spotify.com/track/6CVfaxrzx4U7yH0Ntq4M6l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "20/20 Vision",
-        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 169480,
-      "name": "Don't Let The Bastards Get You Down",
-      "url": "https://open.spotify.com/track/4jS72gRZGa6YocQBPQRuwQ"
     }
   ],
   "unique_name": "This Is Anti-Flag",

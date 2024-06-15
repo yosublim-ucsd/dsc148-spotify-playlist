@@ -1,12 +1,12 @@
 {
   "description": "This is Pop Smoke. The essential tracks, all in one playlist.",
-  "num_followers": 470415,
+  "num_followers": 470513,
   "original_name": "This Is Pop Smoke",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjlAAAAAAAnAhH+kmdTnaPQtykxpmLK",
+  "snapshot_id": "Zmo2gAAAAAA1/3XjG/ZO40bLEvxlb1D4",
   "tracks": [
     {
       "added_at": null,
@@ -63,6 +63,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Meet The Woo",
+        "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 216386,
+      "name": "Dior",
+      "url": "https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
         "url": "https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv"
       },
@@ -75,30 +91,6 @@
       "duration_ms": 108131,
       "name": "Imperfections (Interlude)",
       "url": "https://open.spotify.com/track/42er1na9BHF1ERol51wg8M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "JACKBOYS",
-        "url": "https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx"
-      },
-      "artists": [
-        {
-          "name": "JACKBOYS",
-          "url": "https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq"
-        },
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 181144,
-      "name": "GATTI",
-      "url": "https://open.spotify.com/track/40mjsnRjCpycdUw3xhS20g"
     },
     {
       "added_at": null,
@@ -139,42 +131,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
-        "url": "https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv"
+        "name": "JACKBOYS",
+        "url": "https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx"
       },
       "artists": [
+        {
+          "name": "JACKBOYS",
+          "url": "https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq"
+        },
         {
           "name": "Pop Smoke",
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
         },
         {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 190534,
-      "name": "Hello (feat. A Boogie Wit da Hoodie)",
-      "url": "https://open.spotify.com/track/2r6OAV3WsYtXuXjvJ1lIDi"
+      "duration_ms": 181144,
+      "name": "GATTI",
+      "url": "https://open.spotify.com/track/40mjsnRjCpycdUw3xhS20g"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL"
+        "name": "Meet The Woo",
+        "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
       },
       "artists": [
         {
           "name": "Pop Smoke",
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Woo Baby (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/58T4yPLn4NjBYXfRxeweyM"
+      "duration_ms": 118800,
+      "name": "Hawk Em",
+      "url": "https://open.spotify.com/track/2ZRdQMMKtmPLdYp9aP5cK5"
     },
     {
       "added_at": null,
@@ -211,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meet The Woo",
-        "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 118800,
-      "name": "Hawk Em",
-      "url": "https://open.spotify.com/track/2ZRdQMMKtmPLdYp9aP5cK5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/3dkw0XggNMPs4koj5PtL6r"
       },
@@ -247,30 +223,6 @@
       "duration_ms": 188964,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/54NBD72JXFXzrodbQBSzWh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shoot For The Stars Aim For The Moon",
-        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "The Woo (feat. 50 Cent & Roddy Ricch)",
-      "url": "https://open.spotify.com/track/1H7KnK26kc1YyellpbINEn"
     },
     {
       "added_at": null,
@@ -303,18 +255,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meet The Woo",
-        "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
+        "name": "Shoot For The Stars Aim For The Moon",
+        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
       },
       "artists": [
         {
           "name": "Pop Smoke",
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
         }
       ],
-      "duration_ms": 214960,
-      "name": "Welcome To The Party",
-      "url": "https://open.spotify.com/track/0fIffclhgJC5h8AdMMVvkp"
+      "duration_ms": 201600,
+      "name": "The Woo (feat. 50 Cent & Roddy Ricch)",
+      "url": "https://open.spotify.com/track/1H7KnK26kc1YyellpbINEn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meet The Woo 2",
+        "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 160560,
+      "name": "Mannequin (feat. Lil Tjay)",
+      "url": "https://open.spotify.com/track/5eJpwQyirY5EEdNadHKRAM"
     },
     {
       "added_at": null,
@@ -335,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Meet The Woo",
+        "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 199826,
+      "name": "PTSD",
+      "url": "https://open.spotify.com/track/24b6djSbUFQtXAdyb3FMbr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shoot For The Stars Aim For The Moon",
         "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
       },
@@ -351,28 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meet The Woo 2",
-        "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        }
-      ],
-      "duration_ms": 165640,
-      "name": "Shake The Room (feat. Quavo)",
-      "url": "https://open.spotify.com/track/7rSnKi58HPIVC0FVyh04Q1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Meet The Woo",
-        "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL"
       },
       "artists": [
         {
@@ -380,9 +356,9 @@
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
         }
       ],
-      "duration_ms": 199826,
-      "name": "PTSD",
-      "url": "https://open.spotify.com/track/24b6djSbUFQtXAdyb3FMbr"
+      "duration_ms": 175774,
+      "name": "Merci Beaucoup",
+      "url": "https://open.spotify.com/track/6mPZVis3gEGSSR2rhxlehT"
     },
     {
       "added_at": null,
@@ -403,38 +379,6 @@
       "duration_ms": 170669,
       "name": "Backseat (feat. PnB Rock)",
       "url": "https://open.spotify.com/track/0fj9oGrCKxVA4sXDxvbfiM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shoot For The Stars Aim For The Moon",
-        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 158466,
-      "name": "Something Special",
-      "url": "https://open.spotify.com/track/5kkaSMcf4BFlhRRICCKZb6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 175774,
-      "name": "Merci Beaucoup",
-      "url": "https://open.spotify.com/track/6mPZVis3gEGSSR2rhxlehT"
     },
     {
       "added_at": null,
@@ -463,28 +407,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meet The Woo 2",
-        "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 221826,
-      "name": "War (feat. Lil Tjay) - Bonus",
-      "url": "https://open.spotify.com/track/2hYN1IVp5LGIsi5MpzcjVz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Flexin'",
-        "url": "https://open.spotify.com/album/5jSifSNBzx4irk78gafWld"
+        "name": "Shoot For The Stars Aim For The Moon",
+        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
       },
       "artists": [
         {
@@ -492,9 +416,9 @@
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
         }
       ],
-      "duration_ms": 158693,
-      "name": "Flexin'",
-      "url": "https://open.spotify.com/track/7mpoOB5YMpPnbllsALgSfr"
+      "duration_ms": 158466,
+      "name": "Something Special",
+      "url": "https://open.spotify.com/track/5kkaSMcf4BFlhRRICCKZb6"
     },
     {
       "added_at": null,
@@ -511,6 +435,46 @@
       "duration_ms": 121080,
       "name": "Meet the Woo",
       "url": "https://open.spotify.com/track/4kdKKsPHWsyNrvFsZrcg52"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
+        "url": "https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 212658,
+      "name": "Paranoia (feat. Gunna & Young Thug)",
+      "url": "https://open.spotify.com/track/3QqJ44HiM84iyZS0G2IKIP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flexin'",
+        "url": "https://open.spotify.com/album/5jSifSNBzx4irk78gafWld"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 158693,
+      "name": "Flexin'",
+      "url": "https://open.spotify.com/track/7mpoOB5YMpPnbllsALgSfr"
     },
     {
       "added_at": null,
@@ -631,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AP (Music from the film Boogie)",
+        "url": "https://open.spotify.com/album/2xAPKH0b7vGsyD5xzkPpnI"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 171891,
+      "name": "AP - Music from the film Boogie",
+      "url": "https://open.spotify.com/track/17vGPZ5EsdvtgAOCD4FLWI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Meet The Woo",
         "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
       },
@@ -643,6 +623,22 @@
       "duration_ms": 241786,
       "name": "Scenario",
       "url": "https://open.spotify.com/track/2T1GbU75iGVtOhNUbZuNqk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meet The Woo 2",
+        "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 190680,
+      "name": "Christopher Walking",
+      "url": "https://open.spotify.com/track/2IT0T0EqPaUxasjl2o8J2G"
     },
     {
       "added_at": null,
@@ -787,22 +783,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
-        "url": "https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv"
+        "name": "Meet The Woo",
+        "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
       },
       "artists": [
         {
           "name": "Pop Smoke",
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "Jamie Foxx",
-          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
         }
       ],
-      "duration_ms": 155277,
-      "name": "She Feelin Nice (feat. Jamie Foxx)",
-      "url": "https://open.spotify.com/track/3qzSfoByowr6tDfd08b0T0"
+      "duration_ms": 182880,
+      "name": "Brother Man",
+      "url": "https://open.spotify.com/track/7wttMlE6un70hfwymwniYl"
     },
     {
       "added_at": null,
@@ -827,22 +819,6 @@
       "duration_ms": 203586,
       "name": "Bout A Million (feat. 42 Dugg & 21 Savage)",
       "url": "https://open.spotify.com/track/4LaGu95Ui2s4vprSQYWUAZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Meet The Woo",
-        "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 182880,
-      "name": "Brother Man",
-      "url": "https://open.spotify.com/track/7wttMlE6un70hfwymwniYl"
     },
     {
       "added_at": null,
@@ -883,6 +859,26 @@
       "duration_ms": 96040,
       "name": "Showin Off Pt.1 (feat. Fivio Foreign)",
       "url": "https://open.spotify.com/track/7kFMvM2gUzVeW2ZlkKRhzu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Bizzy Banks",
+          "url": "https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv"
+        }
+      ],
+      "duration_ms": 228251,
+      "name": "30 (feat. Bizzy Banks)",
+      "url": "https://open.spotify.com/track/24YG5Z8Of1VHovrfXsbvCZ"
     }
   ],
   "unique_name": "This Is Pop Smoke",

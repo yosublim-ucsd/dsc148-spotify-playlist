@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:27ulglTuwRXeQsKTNbUVe8\">Samuel Troc</a> y <a href=\"spotify:artist:1Cm5r6LqrFQDuA0F4KUIQz\">Lizzy Parra</a> ",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:2miffAnnUvKSyB9ykA2su9\">Living</a> ",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -2752,7 +2752,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 192160,
       "name": "c\u00f3mo pasar\u00e1 ??",
       "url": "https://open.spotify.com/track/4H2dfPSnJJwAeYAk1qMMYU"
@@ -5458,6 +5458,28 @@
     {
       "album": {
         "name": "Hermoso Dios",
+        "url": "https://open.spotify.com/album/1GIeNFsj2qLMMjOPAodES7"
+      },
+      "artists": [
+        {
+          "name": "Felipe S. Santos",
+          "url": "https://open.spotify.com/artist/2CDj0rjKfUgyXeSazcfPHJ"
+        },
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312142,
+      "name": "Hermoso Dios",
+      "url": "https://open.spotify.com/track/6QqR2QsrqD5GmRfD2fdANx"
+    },
+    {
+      "album": {
+        "name": "Hermoso Dios",
         "url": "https://open.spotify.com/album/0ADgip6GPNW6pLZQv07DIZ"
       },
       "artists": [
@@ -6688,7 +6710,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 289917,
       "name": "ME BASTA",
       "url": "https://open.spotify.com/track/1pGI8lP4dHUZDgKwPEcIfa"
@@ -6925,6 +6947,24 @@
     },
     {
       "album": {
+        "name": "mejor que ayer",
+        "url": "https://open.spotify.com/album/4GSVmHW4lN3IOkXbDFo3cQ"
+      },
+      "artists": [
+        {
+          "name": "Living",
+          "url": "https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186710,
+      "name": "mejor que ayer",
+      "url": "https://open.spotify.com/track/1lPCV44nVVAElAxIdyRU8d"
+    },
+    {
+      "album": {
         "name": "Mi Alma Clama",
         "url": "https://open.spotify.com/album/5z2pRMl0mN3tQvJsZ1hbrI"
       },
@@ -6944,6 +6984,24 @@
       "duration_ms": 498663,
       "name": "Mi Alma Clama (feat. Laila Olivera)",
       "url": "https://open.spotify.com/track/47ZJ19AEiODy34xxg8wFmr"
+    },
+    {
+      "album": {
+        "name": "Mi Amado",
+        "url": "https://open.spotify.com/album/4Kky0sPquYqJVvbYsKYxh5"
+      },
+      "artists": [
+        {
+          "name": "Hakuna Group Music",
+          "url": "https://open.spotify.com/artist/7Lemn0MD6Cb2QfmeZJ5BwS"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226264,
+      "name": "Mi Amado",
+      "url": "https://open.spotify.com/track/1nfTVyVDsqJwL0WzP0eWix"
     },
     {
       "album": {
@@ -9952,7 +10010,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 315979,
       "name": "Solo Cristo",
       "url": "https://open.spotify.com/track/5mWLbn5NBU5uhVJrYGdWRT"

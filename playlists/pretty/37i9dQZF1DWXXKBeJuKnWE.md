@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The home for heavy music\. Cover: House Of Protection
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,654 likes - 109 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,634 likes - 109 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

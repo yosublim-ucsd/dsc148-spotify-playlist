@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Jalen Ngonda",
-  "num_followers": 335674,
+  "num_followers": 335715,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmKFwAAAAACEuhv7+FPUGEzB88clE4gC",
+  "snapshot_id": "ZmvAQAAAAACsLWjHARV5+9qrIC2Koc1j",
   "tracks": [
     {
       "added_at": "2024-04-05 04:01:00",
@@ -39,6 +39,22 @@
       "duration_ms": 194821,
       "name": "Desperate For Love",
       "url": "https://open.spotify.com/track/5GArZVXDLrhpGYqvtifNPP"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Human Decency",
+        "url": "https://open.spotify.com/album/7wASaUQhuevPwNzNICAvGG"
+      },
+      "artists": [
+        {
+          "name": "Sugaray Rayford",
+          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
+        }
+      ],
+      "duration_ms": 246149,
+      "name": "Strawberry Hill",
+      "url": "https://open.spotify.com/track/3xpMvP8XgTxR1k4p0AEZxg"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1403,22 +1419,6 @@
       "duration_ms": 226710,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "WE ARE",
-        "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 237244,
-      "name": "CRY",
-      "url": "https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r"
     },
     {
       "added_at": "2023-09-01 04:00:00",

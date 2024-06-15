@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDszK4cnuwgw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4s1bdPvgsNLQZdeWUnc3bx">Young M.A</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210 likes - 78 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 212 likes - 79 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDszK4cnuwgw.md) - [plain]
 | 59 | [Bipolar](https://open.spotify.com/track/59XsNswkAyPPdoamrcq0ar) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 1:58 |
 | 60 | [Hood Love](https://open.spotify.com/track/7u5u37tQVPolLsTi3UimiP) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [SleepWalkin](https://open.spotify.com/album/5UcaPHZWI1ryGAaF09KH5R) | 3:17 |
 | 61 | [Mountains \(with Fivio Foreign & Young M.A\)](https://open.spotify.com/track/5DeONcxxhHSBnmODMadT5l) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 2:48 |
-| 62 | [TUNN UP \(feat\. Young M.A and Kojo Funds\)](https://open.spotify.com/track/00PzZxkblNcMoWC3j5LxUj) | [Red Cafe](https://open.spotify.com/artist/4BWn7qje7L2bGp79bupn3B), [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [TUNN UP \(feat\. Young M.A and Kojo Funds\)](https://open.spotify.com/album/131po673KyCI71iD1Ow4GD) | 3:31 |
-| 63 | [Open Scars](https://open.spotify.com/track/5l2UlIRagkhJgn2qmA10ZV) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Open Scars](https://open.spotify.com/album/6oacjRp4wh0H64Mn944wgf) | 3:56 |
+| 62 | [Open Scars](https://open.spotify.com/track/5l2UlIRagkhJgn2qmA10ZV) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Open Scars](https://open.spotify.com/album/6oacjRp4wh0H64Mn944wgf) | 3:56 |
+| 63 | [TUNN UP \(feat\. Young M.A and Kojo Funds\)](https://open.spotify.com/track/00PzZxkblNcMoWC3j5LxUj) | [Red Cafe](https://open.spotify.com/artist/4BWn7qje7L2bGp79bupn3B), [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [TUNN UP \(feat\. Young M.A and Kojo Funds\)](https://open.spotify.com/album/131po673KyCI71iD1Ow4GD) | 3:31 |
 | 64 | [Friendly Reminder](https://open.spotify.com/track/22Gh786ICJtbUegJ8oDbmp) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Off the Yak](https://open.spotify.com/album/3jS5p3u5bK0OYq9BQKa6PN) | 3:43 |
 | 65 | [M.A \(Intro\)](https://open.spotify.com/track/5rJ8QqvXG2hQuGr0muuoIk) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory](https://open.spotify.com/album/23Fvpx2T1drg9lJ4WC0fXl) | 2:13 |
 | 66 | [Tip The Surgeon](https://open.spotify.com/track/4tacR7Av6xOTRvhzyWssUt) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Tip The Surgeon](https://open.spotify.com/album/1954wNtuh4T3cUJYOZs0eL) | 2:07 |
@@ -85,6 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDszK4cnuwgw.md) - [plain]
 | 75 | [Pick A Side](https://open.spotify.com/track/6VC96yBUe4zgpQPXwgagjC) | [WAP5TAR](https://open.spotify.com/artist/3wk369fbina3PpKTz8f4na), [MA](https://open.spotify.com/artist/7mN9hXvyTCViY3fHNjxm7l) | [Writers Block](https://open.spotify.com/album/7akBwrKckxfE9wOY9XP2Da) | 3:38 |
 | 76 | [Nasty](https://open.spotify.com/track/57jnaPSchj34y6k44qVYc3) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [Max YB](https://open.spotify.com/artist/1utuqjQ62Vu5Kokk1cY7Jg) | [Off the Yak](https://open.spotify.com/album/3jS5p3u5bK0OYq9BQKa6PN) | 2:36 |
 | 77 | [Klub Stories](https://open.spotify.com/track/4C46orOZ07HhFoInkxYIRO) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [Wap5tar](https://open.spotify.com/artist/0ysitIDksCRjXWiyCNaRHC) | [Off the Yak](https://open.spotify.com/album/3jS5p3u5bK0OYq9BQKa6PN) | 2:43 |
-| 78 | [Money Counter](https://open.spotify.com/track/6RWGBw7EvCEtRunRQSMqP2) | [DJ Megan Ryte](https://open.spotify.com/artist/74ZbNtN0o4zPxTZpaWV4Q1), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [DJ Megan Ryte](https://open.spotify.com/album/4eKwiwwSHFfsrgjxGzHdd3) | 2:48 |
+| 78 | [Trim](https://open.spotify.com/track/3jYjgpmhz8QhvREcSzeWMc) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Trim](https://open.spotify.com/album/4f6ckq0JBmR4SzzZIlHhAn) | 3:25 |
+| 79 | [Money Counter](https://open.spotify.com/track/6RWGBw7EvCEtRunRQSMqP2) | [DJ Megan Ryte](https://open.spotify.com/artist/74ZbNtN0o4zPxTZpaWV4Q1), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [DJ Megan Ryte](https://open.spotify.com/album/4eKwiwwSHFfsrgjxGzHdd3) | 2:48 |
 
-Snapshot ID: `AbT+jAAAAABsT2RRA6RkzllCkGmmltLz`
+Snapshot ID: `AbUELAAAAACpy8OFhg1d2vS8qGWzxZYQ`

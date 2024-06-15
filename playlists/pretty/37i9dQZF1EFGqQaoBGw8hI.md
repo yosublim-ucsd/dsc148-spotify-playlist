@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,780 likes - 575 songs - 1 day 16 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,778 likes - 575 songs - 1 day 16 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -273,11 +273,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 263 | [Whipping Boy](https://open.spotify.com/track/0DEMdhqWg1drmkprEHVsYU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 3:44 |
 | 264 | [Africa](https://open.spotify.com/track/4FjXVninfbhkXgvUAw4vYa) | [Ndlovu Youth Choir](https://open.spotify.com/artist/5Wj12iPc23dZqX3K67PwE6) | [Harmonious: Globally Inspired Music from the EPCOT Nighttime Spectacular \(Original Soundtrack\)](https://open.spotify.com/album/6EL24CvOJteuYgnNG7xuJs) | 2:15 |
 | 265 | [The Power](https://open.spotify.com/track/4Rwhsr1QuY8gKgNF1Z9x6T) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Duets](https://open.spotify.com/album/7ptAfRrbwr8pzM1oeUsRea) | 6:24 |
-| 266 | [Deep Into The Ground](https://open.spotify.com/track/2SgrRAN6VqdRUOty8dMj7X) | [Original Cast of Billy Elliot](https://open.spotify.com/artist/0llkptfupTulUWZRCDYqGT) | [Billy Elliot: The Original Cast Recording](https://open.spotify.com/album/0n7z0uxgNQT5YV6z99IIDt) | 3:35 |
-| 267 | [Turn The Lights Out When You Leave](https://open.spotify.com/track/1lGwSKgdYCWXU2LH0P2SZ4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 5:02 |
+| 266 | [Turn The Lights Out When You Leave](https://open.spotify.com/track/1lGwSKgdYCWXU2LH0P2SZ4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 5:02 |
+| 267 | [Deep Into The Ground](https://open.spotify.com/track/2SgrRAN6VqdRUOty8dMj7X) | [Original Cast of Billy Elliot](https://open.spotify.com/artist/0llkptfupTulUWZRCDYqGT) | [Billy Elliot: The Original Cast Recording](https://open.spotify.com/album/0n7z0uxgNQT5YV6z99IIDt) | 3:35 |
 | 268 | [Vero Amore](https://open.spotify.com/track/6L9L1Dnqn97mwVmHOm2iv3) | [Jonathan & Charlotte](https://open.spotify.com/artist/2haot4oxbeveqxow85SbTa) | [Together](https://open.spotify.com/album/1FGOPK6ULN88ECEPrTbiNM) | 3:18 |
-| 269 | [Never Too Old \(To Hold Somebody\)](https://open.spotify.com/track/14KH4059KdXdzTRVpjb5OU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Leon Russell](https://open.spotify.com/artist/6r1Xmz7YUD4z0VRUoGm8XN) | [The Union](https://open.spotify.com/album/5O3tJmTjdvIWSRyut7mTbZ) | 4:57 |
-| 270 | [The King Must Die](https://open.spotify.com/track/5aZWzadLEprtlv0ylYyruD) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 5:07 |
+| 269 | [The King Must Die](https://open.spotify.com/track/5aZWzadLEprtlv0ylYyruD) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 5:07 |
+| 270 | [Never Too Old \(To Hold Somebody\)](https://open.spotify.com/track/14KH4059KdXdzTRVpjb5OU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Leon Russell](https://open.spotify.com/artist/6r1Xmz7YUD4z0VRUoGm8XN) | [The Union](https://open.spotify.com/album/5O3tJmTjdvIWSRyut7mTbZ) | 4:57 |
 | 271 | [The Rumour](https://open.spotify.com/track/7oYUlz8VIzGyvKXQkExD1P) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [The Rumour](https://open.spotify.com/album/0u7QKOGir1VdlDab8BErIB) | 3:58 |
 | 272 | [The Best Part Of The Day](https://open.spotify.com/track/6312UcXTyVUSHD74UcxNun) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Leon Russell](https://open.spotify.com/artist/6r1Xmz7YUD4z0VRUoGm8XN) | [The Union](https://open.spotify.com/album/5O3tJmTjdvIWSRyut7mTbZ) | 4:45 |
 | 273 | [Lady Samantha](https://open.spotify.com/track/7xDvlkYaXpq8c8WjG83YQS) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 3:02 |
@@ -431,8 +431,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 421 | [Nina \- Stereo Mix](https://open.spotify.com/track/3xjhO7i96jCZUgscFmrSTF) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Regimental Sgt\. Zippo](https://open.spotify.com/album/3bfgBQwwP00KPKz6QmsNYz) | 3:52 |
 | 422 | [I Stop And I Breathe](https://open.spotify.com/track/099IIR76QDTEIkuRISFFzE) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 3:39 |
 | 423 | [Sixty](https://open.spotify.com/track/7LdYewqyXq76VabqPahqoE) | [Elton John vs Pnau](https://open.spotify.com/artist/5cwANc87RyiNKHM46y1nPf) | [Good Morning To The Night](https://open.spotify.com/album/20tf6bNLQKKxb6lFxVOVuL) | 3:51 |
-| 424 | [Can I Put You On \- UK\-Release Mix](https://open.spotify.com/track/6mVRyHTk2P190llXw7EXdH) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [17\-11\-70](https://open.spotify.com/album/4oQROC3cT21c88hQWQF47s) | 6:10 |
-| 425 | [The Heart Of Every Girl](https://open.spotify.com/track/3GGiAnxb53Z4LF90CaUOiS) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Mona Lisa Smile \(Music from the Motion Picture\)](https://open.spotify.com/album/77suLYEns1w0HliIh0z5r9) | 3:38 |
+| 424 | [The Heart Of Every Girl](https://open.spotify.com/track/3GGiAnxb53Z4LF90CaUOiS) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Mona Lisa Smile \(Music from the Motion Picture\)](https://open.spotify.com/album/77suLYEns1w0HliIh0z5r9) | 3:38 |
+| 425 | [Can I Put You On \- UK\-Release Mix](https://open.spotify.com/track/6mVRyHTk2P190llXw7EXdH) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [17\-11\-70](https://open.spotify.com/album/4oQROC3cT21c88hQWQF47s) | 6:10 |
 | 426 | [Never Gonna Fall In Love Again](https://open.spotify.com/track/2jTObRM0ckTs6naKA7r7P6) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [21 At 33](https://open.spotify.com/album/6uIizyHYBxUUp3I76LQ8cV) | 4:08 |
 | 427 | [January](https://open.spotify.com/track/3iiDK7xLc1gHFYb2GeiSHl) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Big Picture](https://open.spotify.com/album/7ndxdHA40ZLx0jH0V6fjz9) | 3:59 |
 | 428 | [Karmatron](https://open.spotify.com/track/5r1lqFkEQRhOQ1EtOCZnpA) | [Elton John vs Pnau](https://open.spotify.com/artist/5cwANc87RyiNKHM46y1nPf) | [Good Morning To The Night](https://open.spotify.com/album/20tf6bNLQKKxb6lFxVOVuL) | 2:41 |
@@ -584,4 +584,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 574 | [The Wrong Gift](https://open.spotify.com/track/6WmTBqoLd5agrTigmY9UlX) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(In Goddess We Trust\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 3:00 |
 | 575 | [Sua Canção](https://open.spotify.com/track/5ABQkEGK30DVvB07JhYh5H) | [Plinio Oliveira](https://open.spotify.com/artist/3H0QZbeiCwLxBAqbnzbBK0), [Coro Infantil Sou da Paz](https://open.spotify.com/artist/1NVq6eZp8PQiYBSVAFNahZ), [Orquestra Jovem da Paz](https://open.spotify.com/artist/05RyEHgRQ9x8tJ25ulYEN4) | [Show da Paz 2017](https://open.spotify.com/album/4p3WhZIn7qLUX1UCEDeCUc) | 4:19 |
 
-Snapshot ID: `AbT+eAAAAACuqtIKe8fnXnEm+4NFuxRM`
+Snapshot ID: `AbUEVAAAAADU4gooNhQEsfNfIyUJHxJ3`

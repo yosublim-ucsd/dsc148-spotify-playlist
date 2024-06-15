@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,414 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,527 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 90 | [Giving Up](https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Giving Up](https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE) | 3:23 |
 | 91 | [Feels](https://open.spotify.com/track/1sX4ucOwEW4sKN8pKaZnT8) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Feels](https://open.spotify.com/album/4YfNsgrr8WqPQMkigqeV8m) | 2:27 |
 | 92 | [Make The Night Last](https://open.spotify.com/track/7LhJcuKVjWEJpCRWuE9EiK) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Make The Night Last](https://open.spotify.com/album/0eBsV99mKaO1uMEBi8n75J) | 3:50 |
-| 93 | [Mushrooms](https://open.spotify.com/track/15B1cDTWSXF4t3rmALOtyU) | [Leftwing : Kody](https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR), [Glasgow KI$$](https://open.spotify.com/artist/7oHXioVOisWBMFEj74TDFB), [Robot Collective](https://open.spotify.com/artist/4t9Q7485yjN60bdXa0dBEp) | [Mushrooms](https://open.spotify.com/album/3kCdR5MEFKLMft8GmAGxD3) | 3:10 |
-| 94 | [Escape \(feat\. Hayla\)](https://open.spotify.com/track/10oKSzRcwbZsog2uq2gb4b) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Escape \(feat\. Hayla\)](https://open.spotify.com/album/1VvswDkZLX5hUgFW7F79GI) | 4:00 |
-| 95 | [Alley Rave](https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Alley Rave](https://open.spotify.com/album/1yQU83J37P20ynvBDU31Cc) | 6:04 |
-| 96 | [It's That Time](https://open.spotify.com/track/2YlrFLQMDvkvnAlyS94zo8) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [It's That Time](https://open.spotify.com/album/0kUIijubTS9zx7cBu6HiVv) | 4:00 |
-| 97 | [Happy Music](https://open.spotify.com/track/3rh495Z2rIRwD316blea4f) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/4D78IEl2Nl3ywiu254VOVn) | 3:52 |
-| 98 | [Bionic Boy](https://open.spotify.com/track/7byloGFJ8lO5d7cCxFXOIh) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Bionic Boy](https://open.spotify.com/album/3TZ40t04vfJ9MvEZcdoqsg) | 3:26 |
-| 99 | [No Bueno](https://open.spotify.com/track/1BkVnW3EJByz6sbV8csgkL) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [No Bueno](https://open.spotify.com/album/5fTUKANhhWrTFBfDmNbLbe) | 5:50 |
-| 100 | [You and I Are Equal](https://open.spotify.com/track/4laAIQLzf49FKhy14SmA87) | [BluePrint](https://open.spotify.com/artist/0oV5K4BDmoENgjwB8lvDmT) | [You and I Are Equal](https://open.spotify.com/album/7h1JqqftHbKVq5x6izUNey) | 4:14 |
+| 93 | [Pretty Green Eyes \(Sunset Ibiza Mix\)](https://open.spotify.com/track/6iGMRy5RDMiAdTpuMB5gAm) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Pretty Green Eyes \(Sunset Ibiza Mix\)](https://open.spotify.com/album/5jAnfBukpgxAPJPtrAgLgN) | 4:18 |
+| 94 | [Mushrooms](https://open.spotify.com/track/15B1cDTWSXF4t3rmALOtyU) | [Leftwing : Kody](https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR), [Glasgow KI$$](https://open.spotify.com/artist/7oHXioVOisWBMFEj74TDFB), [Robot Collective](https://open.spotify.com/artist/4t9Q7485yjN60bdXa0dBEp) | [Mushrooms](https://open.spotify.com/album/3kCdR5MEFKLMft8GmAGxD3) | 3:10 |
+| 95 | [No Time \(feat\. SadBoi\)](https://open.spotify.com/track/4NOoZeetavZyquNLaGyxXC) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [No Time \(feat\. SadBoi\)](https://open.spotify.com/album/5K0QqzOKeqI504SN4wMAIe) | 2:51 |
+| 96 | [Bota Bota](https://open.spotify.com/track/6btglV5XNwzpOtDmOclBwI) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [MC Buzzz](https://open.spotify.com/artist/2z8dSH4TMRViQh4QjqrDYv) | [Bota Bota](https://open.spotify.com/album/3rDua1ydCeXjqOfO0pR2BV) | 3:12 |
+| 97 | [I Just Can't Get Enough 2024](https://open.spotify.com/track/5ysryf5WrO4iDe6hm6Cu8x) | [Herd & Fitz](https://open.spotify.com/artist/7L6QP4RbQLJplFQPAlOr5p), [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [Abigail Bailey](https://open.spotify.com/artist/0QUNf5BdFRIp6NSs2WbgxM) | [I Just Can't Get Enough 2024](https://open.spotify.com/album/2LMGCtC018PamOvkrB1IHA) | 3:20 |
+| 98 | [Escape \(feat\. Hayla\)](https://open.spotify.com/track/10oKSzRcwbZsog2uq2gb4b) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Escape \(feat\. Hayla\)](https://open.spotify.com/album/1VvswDkZLX5hUgFW7F79GI) | 4:00 |
+| 99 | [Alley Rave](https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Alley Rave](https://open.spotify.com/album/1yQU83J37P20ynvBDU31Cc) | 6:04 |
+| 100 | [It's That Time](https://open.spotify.com/track/2YlrFLQMDvkvnAlyS94zo8) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [It's That Time](https://open.spotify.com/album/0kUIijubTS9zx7cBu6HiVv) | 4:00 |
 
 Snapshot ID: `ZmuIPAAAAABjwHH8TFZCfFktHneLqYZ/`

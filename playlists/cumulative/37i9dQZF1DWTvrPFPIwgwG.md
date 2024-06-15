@@ -4,7 +4,7 @@
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Kailane Frauches
 
-203 songs - 17 hr 11 min
+205 songs - 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Calma Meu Filho](https://open.spotify.com/track/5TcHJfpBbJn4aqWnN9ijg8) | [Alisson Santos](https://open.spotify.com/artist/4VPAtpxf7iOgmovzCrx6mJ) | [Calma Meu Filho](https://open.spotify.com/album/4soMftZMeHhqIZxqTnf6yG) | 4:10 | 2023-05-05 | 2023-06-03 |
 | [Canta](https://open.spotify.com/track/4jLM5rqH7f4sLDgUEB32nW) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH) | [Canta](https://open.spotify.com/album/6UaxqMu4afpNyU81hk9kfi) | 4:58 | 2022-12-23 |  |
 | [Casa Cheia](https://open.spotify.com/track/1i3DVRWjZuiVwA4bOeKENl) | [Vanilda Bordieri](https://open.spotify.com/artist/01F5yl9fFsa9QQaM3Z6U3O), [Felipe Farkas](https://open.spotify.com/artist/34jtUB0kEXX3VZCMoPPemU) | [Casa Cheia](https://open.spotify.com/album/00EWWHeeej4SKqcPx0pgLJ) | 4:28 | 2022-09-09 | 2022-10-15 |
-| [Cheiro de Guerra](https://open.spotify.com/track/1a8F9EWgr8k4sINiqpstr0) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF) | [Cheiro de Guerra](https://open.spotify.com/album/02jpKdZsl0VvdbwIrBUcVK) | 5:27 | 2023-10-13 |  |
+| [Cheiro de Guerra](https://open.spotify.com/track/1a8F9EWgr8k4sINiqpstr0) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF) | [Cheiro de Guerra](https://open.spotify.com/album/02jpKdZsl0VvdbwIrBUcVK) | 5:27 | 2023-10-13 | 2024-06-15 |
 | [Chora que a Vitória Vem \(Ao Vivo\)](https://open.spotify.com/track/4vfKTqehhEovOgZAR6CdkC) | [Ruthe Dayanne](https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo), [Léa Mendonça](https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97) | [Chora que a Vitória Vem \(Ao Vivo\)](https://open.spotify.com/album/4Gzy29Xj4HenuHeZ9keKKg) | 4:53 | 2023-09-25 |  |
 | [Chore pra Deus](https://open.spotify.com/track/7q4Z46Zj9LRkFpCIIDZmmh) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P) | [Chore pra Deus](https://open.spotify.com/album/07rdfTtj20s6fz8dSJOWCb) | 4:42 | 2022-09-09 | 2023-04-16 |
 | [Cicatrizes](https://open.spotify.com/track/1FEZd9RaMwXO5kTQSFzUcX) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH) | [Cicatrizes](https://open.spotify.com/album/6NkLzttzpEDC0VbT02UdPW) | 5:24 | 2022-09-09 | 2022-10-29 |
@@ -57,7 +57,7 @@
 | [Ele Veio](https://open.spotify.com/track/2VvkkHWKhEb8aNd5JdbgST) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe) | [Ele Veio](https://open.spotify.com/album/2pbZJUXRQArl3v9CyxEaMX) | 6:25 | 2023-03-03 | 2023-06-03 |
 | [Ele É](https://open.spotify.com/track/6cgDuihbqggLhQ7P7IqP8J) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Ele É](https://open.spotify.com/album/6qEYPG5MpIFzDKnFHj6ZZZ) | 6:35 | 2022-10-28 | 2023-02-04 |
 | [Engaja na Vitória](https://open.spotify.com/track/73FKPURqJ3UfrvwCehSFfP) | [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK) | [Engaja na Vitória](https://open.spotify.com/album/5TnKEyLT4DnQEuN0ON7d5c) | 2:34 | 2023-12-22 | 2024-04-20 |
-| [Enquanto a Igreja Ora](https://open.spotify.com/track/7zr5HXsViII0gR1Iwcr0ed) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Enquanto a Igreja Ora](https://open.spotify.com/album/2casb8zplapBFUHPOmTq3q) | 3:21 | 2023-07-07 |  |
+| [Enquanto a Igreja Ora](https://open.spotify.com/track/7zr5HXsViII0gR1Iwcr0ed) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Enquanto a Igreja Ora](https://open.spotify.com/album/2casb8zplapBFUHPOmTq3q) | 3:21 | 2023-07-07 | 2024-06-15 |
 | [Entra no Fogo](https://open.spotify.com/track/2b7TmLYYCG505jb3lCt7Rx) | [Bereia Music](https://open.spotify.com/artist/2uylz2eDUc2XW6eFWoR3N4), [Tarcísio Galldino](https://open.spotify.com/artist/6niwEMdTSjiZU4qSWeWxhU), [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [Entra no Fogo](https://open.spotify.com/album/69Vu7Fi13FBhoIxIUWELUR) | 3:50 | 2023-08-04 | 2023-08-19 |
 | [Esconderijo do Altíssimo](https://open.spotify.com/track/5mwTKuWkJs9ZzrwioLbCyO) | [Aurelina Dourado](https://open.spotify.com/artist/3ABdO3aidrv4Ps6WFJqOwz) | [Esconderijo do Altíssimo](https://open.spotify.com/album/2P6IvWGRjWLuP6rk5We0pL) | 4:45 | 2022-09-09 | 2022-12-24 |
 | [Escritor](https://open.spotify.com/track/0PBoBEHYRIdBV5JNywK2IN) | [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt), [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Escritor](https://open.spotify.com/album/1EvoEIiPtezj0uAVKyvlVd) | 4:49 | 2022-09-09 | 2024-04-19 |
@@ -152,6 +152,7 @@
 | [Prepare o Culto](https://open.spotify.com/track/0KJHv0DwTV3gtU5VDj0BlG) | [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ) | [Prepare o Culto](https://open.spotify.com/album/12C4OeuJKGdvKWCpvSMOHN) | 6:00 | 2023-02-03 | 2023-09-16 |
 | [Profetiza](https://open.spotify.com/track/27XhnRnhyicK7dn2Ui8AeH) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Profetiza](https://open.spotify.com/album/6IgJb5EU0zSGlqlsLfFbzm) | 4:54 | 2022-09-09 |  |
 | [Prossiga \(feat\. Midian Lima\)](https://open.spotify.com/track/0Q4kMlGILF6jZvfEDFnZBz) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Em Meu Coração](https://open.spotify.com/album/62yuV0UZe17S9roAFW5GFa) | 4:32 | 2022-09-09 | 2023-03-25 |
+| [Protegido e Garantido](https://open.spotify.com/track/1dkNsd2BGHDlZ41OcKltrD) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Protegido e Garantido](https://open.spotify.com/album/3MxDTD2fl2tG3yOIYqTfll) | 4:31 | 2024-06-14 |  |
 | [Página Virada \- Ao Vivo](https://open.spotify.com/track/4XPbG1ZX2j45hGVDO3QCUD) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Página Virada \(Ao Vivo\)](https://open.spotify.com/album/1cbheUr3xNDKRmSiFV5CzD) | 7:03 | 2023-09-01 |  |
 | [Quando Eu Chorar \(Ao Vivo\)](https://open.spotify.com/track/5srjAncqbFFzKcPe5NERkF) | [Ruthe Dayanne](https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo) | [Quando Eu Chorar \(Ao Vivo\)](https://open.spotify.com/album/4rFiQMtLIrea4QbsaKzPgJ) | 4:27 | 2023-09-08 |  |
 | [Que Deus É Esse \- Ao Vivo](https://open.spotify.com/track/1tdOK69lGjAECXITM0kgFB) | [Suellen Brum](https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX) | [Que Deus É Esse \(Ao Vivo\)](https://open.spotify.com/album/1x1XcGLGKXkfffLJpUdlYa) | 6:48 | 2023-06-23 |  |
@@ -210,6 +211,7 @@
 | [Vou Deixar na Cruz](https://open.spotify.com/track/1zJCjjA3FRdjPvf2Dex7u2) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Vou Deixar na Cruz](https://open.spotify.com/album/3xEYEcm82oef6MVbjiRUrC) | 5:34 | 2022-09-09 | 2023-07-22 |
 | [Vou Marcar Tua História](https://open.spotify.com/track/5EyxLxAeXQufZxFIqyV5sB) | [Raquel Olliver](https://open.spotify.com/artist/0CsY0kk9b1XBXwvytj42fx), [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Vou Marcar Tua História](https://open.spotify.com/album/17rhygLbze0bt5pti1qhr9) | 4:09 | 2022-09-09 | 2024-04-27 |
 | [É Adorar](https://open.spotify.com/track/15hYPI1c4MMRRpWrvbhJ72) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [É Adorar](https://open.spotify.com/album/5LzA57wiw7joZIj47NiIWC) | 3:57 | 2024-04-19 |  |
+| [É Assim Que Eu Te Amo \(Ao Vivo\)](https://open.spotify.com/track/4wzDrgn77tZpUKZYUTntix) | [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt) | [É Assim Que Eu Te Amo \(Ao Vivo\)](https://open.spotify.com/album/2gKrbdR2ccF6Xi5a5zxlDH) | 3:45 | 2024-06-14 |  |
 | [É Só Você Tentar](https://open.spotify.com/track/2eX2w6YtlIOYsz5GZ5R3Ro) | [Sophia Vitória](https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v) | [É Só Você Tentar](https://open.spotify.com/album/3hS9Dcqu6NLcu1e6mqIpy7) | 4:49 | 2022-09-09 | 2022-10-01 |
 
 \*This playlist was first scraped on 2022-09-15. Prior content cannot be recovered.

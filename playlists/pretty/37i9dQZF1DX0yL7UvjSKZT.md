@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Kaia Kater
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,895 likes - 135 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,928 likes - 135 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 2 | [Here For You](https://open.spotify.com/track/6xnAmE24OBRvjU4b7gN7Eb) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Here For You](https://open.spotify.com/album/1XpRYkvfDy9zX0Se7cI6Gy) | 3:13 |
 | 3 | [In Montreal](https://open.spotify.com/track/084AB0fzsGnHtrkVHATK95) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [The Witch](https://open.spotify.com/album/1tawEN40gmanTIG2QaN3BC) | 3:33 |
 | 4 | [Where Berries Grow](https://open.spotify.com/track/0ideOQQL73HMu4KS99cL99) | [Ana Egge](https://open.spotify.com/artist/1dHhosKN9sgDJjFltalUch) | [Where Berries Grow](https://open.spotify.com/album/30vFeCWrEiXEH1MR75ILfU) | 3:36 |
-| 5 | [Oregon \(with Paul Hoffman of Greensky Bluegrass\)](https://open.spotify.com/track/2QAC1o02NqkJYNIcrSsxNU) | [The Hip Abduction](https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK), [Greensky Bluegrass](https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn), [phoffman](https://open.spotify.com/artist/7kazeE2jicnplL38ucM9qb) | [Oregon \(with Paul Hoffman of Greensky Bluegrass\)](https://open.spotify.com/album/3MQpFKPveaV9kHgCFkPwwh) | 2:34 |
+| 5 | [Oregon \(with phoffman of Greensky Bluegrass\)](https://open.spotify.com/track/2QAC1o02NqkJYNIcrSsxNU) | [The Hip Abduction](https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK), [Greensky Bluegrass](https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn), [phoffman](https://open.spotify.com/artist/7kazeE2jicnplL38ucM9qb) | [Oregon \(with phoffman of Greensky Bluegrass\)](https://open.spotify.com/album/3MQpFKPveaV9kHgCFkPwwh) | 2:34 |
 | 6 | [Loretta](https://open.spotify.com/track/7se1SwflQspTPATjG5xV5X) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX) | [Loretta](https://open.spotify.com/album/14eHpLl1n8q8OwO44unjE9) | 2:28 |
 | 7 | [Raleigh and Spencer](https://open.spotify.com/track/5jN4JkTORouAjbgs53rGLY) | [Laurel Hells Ramblers](https://open.spotify.com/artist/1LDDG7bMMIEaBPAmImJmra), [Joshua Quimby](https://open.spotify.com/artist/1fH3yHATnmsvIirfFNmlf0) | [Raleigh and Spencer](https://open.spotify.com/album/6mCrNmiRJPAvtSzZjIk7p0) | 2:36 |
 | 8 | [Moon in Motion 1](https://open.spotify.com/track/4JL65cYynb4QVhdM4nBM5M) | [Tray Wellington](https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh), [Tray Wellington Band](https://open.spotify.com/artist/4cA3qHzBqSEeeiB9oYzLIp) | [Moon in Motion 1](https://open.spotify.com/album/6xUMxx04zJslYt50p1Ugkp) | 4:09 |

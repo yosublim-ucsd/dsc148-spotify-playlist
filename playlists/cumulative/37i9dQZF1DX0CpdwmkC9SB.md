@@ -4,7 +4,7 @@
 
 > The biggest festival of the year\. The official playlist for Glastonbury 2024.
 
-202 songs - 12 hr 20 min
+203 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [All Together Now](https://open.spotify.com/track/3FMwO7SOz9VTn9ii3Zkk0j) | [The Farm](https://open.spotify.com/artist/3lN1TG4RIoaJCff6Ck9KUR) | [Spartacus](https://open.spotify.com/album/7w7T49LesvAibOIcxebMCw) | 5:42 | 2024-05-31 |  |
 | [All U Gotta Do](https://open.spotify.com/track/1Uk6kqbSTNFBqXACE4Vv6A) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [All U Gotta Do](https://open.spotify.com/album/5eBnGbTjE9gIFh7IC01EEI) | 3:45 | 2024-05-31 |  |
 | [Always](https://open.spotify.com/track/77eb7DGxwuA3ID69HQeDsE) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [W.L\. \(Deluxe\)](https://open.spotify.com/album/6dakS3ouiZyccOIdrBBKcu) | 3:23 | 2024-06-04 |  |
-| [Always Like This](https://open.spotify.com/track/73M2Vb5MfZh8iGKudkMtlw) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [I Had The Blues But I Shook Them Loose](https://open.spotify.com/album/4X0bhkSBOfcnOPyfG5Ef6a) | 4:05 | 2024-05-31 |  |
+| [Always Like This](https://open.spotify.com/track/73M2Vb5MfZh8iGKudkMtlw) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [I Had The Blues But I Shook Them Loose](https://open.spotify.com/album/4X0bhkSBOfcnOPyfG5Ef6a) | 4:05 | 2024-05-31 | 2024-06-15 |
 | [Angel](https://open.spotify.com/track/1kiw6IXeTauPy3L964yxoZ) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [MADRA](https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw) | 3:19 | 2024-05-31 |  |
 | [Another Minute with You](https://open.spotify.com/track/1sqixLUSTJKPHCSBc42egp) | [Ryan McMullan](https://open.spotify.com/artist/4tqPTKknmeQK1uDEFVfX4G) | [The "Debut" Mix Tape](https://open.spotify.com/album/1VE5Uk8DePg4HcYTlT3Tvt) | 2:44 | 2024-05-31 |  |
 | [Archie, Marry Me](https://open.spotify.com/track/5GAB1X0AJq2EZjxXP9zMFt) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/1j3pIPXjLIFkp84OfVUsNT) | 3:16 | 2024-05-31 |  |
@@ -80,6 +80,7 @@
 | [Flight Attendant](https://open.spotify.com/track/51b932KKxiuq7pMxfTqwW6) | [Josh Rouse](https://open.spotify.com/artist/38euc5ce2q2MMzaoJcPstz) | [1972](https://open.spotify.com/album/5SxkCsVQLLCt5edqjNvssO) | 4:46 | 2024-05-31 |  |
 | [flight fm](https://open.spotify.com/track/4Wrd7TpAgRmlUtcbpJCW3T) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [flight fm](https://open.spotify.com/album/7z6MsabW7ZDqtcgmV9fZrv) | 4:07 | 2024-05-31 |  |
 | [Fly Away XTC](https://open.spotify.com/track/5G4sUncALYICBJzxsRBrhn) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Fallen Angel](https://open.spotify.com/album/5eKWupqx2kfK4w9eEmUn6n) | 4:37 | 2024-05-31 |  |
+| [Forever Lost](https://open.spotify.com/track/0CIUacqGuohdes8fdIP4K3) | [The Magic Numbers](https://open.spotify.com/artist/0P2q6xyNc2hVFkG3ThjYcJ) | [The Magic Numbers](https://open.spotify.com/album/22V78Zizbqody4GGdF4gLL) | 4:17 | 2024-05-31 |  |
 | [Found God in a Tomato](https://open.spotify.com/track/4xBFKgS6VAmpmeoG0WJ9Pl) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [High Visceral, Pt\. 1](https://open.spotify.com/album/2BlcdDBE62JOtVOgC3L3xo) | 8:54 | 2024-05-31 |  |
 | [Foundations](https://open.spotify.com/track/6lUk96KJPMHWdhEy6rmwxt) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Made of Bricks](https://open.spotify.com/album/11SwLZF0LlX2GUAgN4rJ1b) | 4:05 | 2024-05-31 |  |
 | [Free](https://open.spotify.com/track/2C0IvokSio8N7UyHwuB638) | [Emz](https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9), [Nasser UK](https://open.spotify.com/artist/0OKtqx9di2GqRpRqA3eFpD), [Valor](https://open.spotify.com/artist/2hdUuoqJUD7RXiGBNhEeUL) | [Free](https://open.spotify.com/album/0TU1txO73cwnDnDc2a9twG) | 3:07 | 2024-05-31 |  |

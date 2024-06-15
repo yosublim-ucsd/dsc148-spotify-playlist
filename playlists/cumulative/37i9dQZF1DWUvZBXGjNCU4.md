@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-331 songs - 14 hr 58 min
+332 songs - 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Dust and Ashes \- Guitar Instrumental](https://open.spotify.com/track/1YSkQpcby9nfzBowrz00wC) | [Quiet Arrows](https://open.spotify.com/artist/7KRnRH8bRvoX4ebQwHw2EI) | [Behind the Breastbone \(Instrumentals\)](https://open.spotify.com/album/6LXLTqQpj8che1C9i2Haro) | 3:22 | 2022-09-02 | 2023-09-01 |
 | [E perto do anoitecer](https://open.spotify.com/track/12JjMTQI1A6Z6cpiuek0z2) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [E perto do anoitecer](https://open.spotify.com/album/2qUsqLtAeAoYKFPUKpR9Qo) | 2:41 | 2022-05-13 | 2024-04-06 |
 | [Easy On The Road Ahead](https://open.spotify.com/track/1bEeNRyUZ236ES8UyPSJxF) | [Woodfray](https://open.spotify.com/artist/1oMo7wloYRSjSQNKgnJlRc) | [Waitwall Mountain](https://open.spotify.com/album/1PSaMx8sT3d1hVK7nUz9tX) | 2:30 | 2022-05-13 | 2023-03-11 |
+| [Echoes of the Past](https://open.spotify.com/track/2St2TvHIluz7NkdgTcEMEv) | [Xavier Carrington](https://open.spotify.com/artist/0JDZapKabh58jXFvcSqZRB) | [Echoes of the Past](https://open.spotify.com/album/6EZc29CJCqoxrDqMUzxVBQ) | 2:36 | 2024-06-14 |  |
 | [El Jacal](https://open.spotify.com/track/65gLeiH2oi3AKIcb62nbnR) | [Colibrí Acústico](https://open.spotify.com/artist/6aKYru6qh4nD6Ivcl3WjUB) | [Cuyutlan](https://open.spotify.com/album/7HhrRiyLX4MJ9m3brNjQ0H) | 2:36 | 2022-05-13 | 2023-04-28 |
 | [Electric Bell](https://open.spotify.com/track/73Dn5KXykn7zPlwN41u8sl) | [Flynn Simmons](https://open.spotify.com/artist/50KiISa7MC3LSlXZmn30Go) | [Electric Bell](https://open.spotify.com/album/7L7ZULdyivBdSeHQHbcTq9) | 1:56 | 2022-05-13 | 2022-06-10 |
 | [Etude](https://open.spotify.com/track/3b0fiwh8g5UubvOVlEWJSx) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Etude](https://open.spotify.com/album/6tgFS8XA8GXQswzyNHS6jf) | 2:27 | 2022-05-13 | 2022-07-15 |
@@ -132,7 +133,7 @@
 | [High Seas](https://open.spotify.com/track/6SCqDHH0cPWjb5RoO8JeJv) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [High Seas](https://open.spotify.com/album/4Y6eHC85yEXFPA0o6ClDgF) | 2:29 | 2022-05-13 | 2024-04-06 |
 | [High Tide](https://open.spotify.com/track/5vpRsRSqIETB8HiHzoJ9lV) | [Danny Black](https://open.spotify.com/artist/1acLmH4vW6PaaqDCDyNf46) | [Adventure Soundtrack](https://open.spotify.com/album/5yLqVDYBeB03t52Nm0myXi) | 1:49 | 2022-05-13 | 2022-06-10 |
 | [Highway 62](https://open.spotify.com/track/7kDoc5DGGuXzQBRVDA2c6G) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Highway 62](https://open.spotify.com/album/6YUK9h48JpAekhqABmFafD) | 2:41 | 2023-03-10 |  |
-| [Hold Back The River](https://open.spotify.com/track/52X6M2Kp4HvpHup3tafEF5) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [Hold Back The River](https://open.spotify.com/album/4mUjWwSGmnqzhLzTgqa3mH) | 2:28 | 2023-02-24 |  |
+| [Hold Back The River](https://open.spotify.com/track/52X6M2Kp4HvpHup3tafEF5) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [Hold Back The River](https://open.spotify.com/album/4mUjWwSGmnqzhLzTgqa3mH) | 2:28 | 2023-02-24 | 2024-06-15 |
 | [homestretch](https://open.spotify.com/track/6X7sxHLt8IMSUeqnw5T8dT) | [Brooke Osmanski](https://open.spotify.com/artist/1feAma94YsixyNehcnalFA) | [away from the city](https://open.spotify.com/album/6V0gpmoSXFlimu7tHH0fmM) | 2:39 | 2022-05-13 | 2022-10-07 |
 | [How Can I](https://open.spotify.com/track/3PMp2l8y9PZfPhLqH6fFW2) | [Oaktree Melodies](https://open.spotify.com/artist/0U0qUcjrya7xDHCxVkXvPV) | [How Can I](https://open.spotify.com/album/07GAcIemxGblmrul2auuzv) | 2:46 | 2024-04-05 |  |
 | [Hummingbirds](https://open.spotify.com/track/2810NQ7JzSiWNnw4FR2wcG) | [Antonio y Lola](https://open.spotify.com/artist/744WzucF7FBLg5nkA15b41) | [Hummingbirds](https://open.spotify.com/album/6Y8ZwQynXvimAfa6r1qZdp) | 2:16 | 2022-12-23 | 2024-04-06 |
@@ -143,7 +144,7 @@
 | [I Remember Well](https://open.spotify.com/track/6JyjBFjhQEp7jRh4uFY7IO) | [Cody Francis](https://open.spotify.com/artist/1RKbW3DVPPhWHNfParfJ32) | [I Remember Well](https://open.spotify.com/album/0anFfTCflj5U1EhZmBPXs8) | 3:06 | 2022-05-13 | 2022-06-10 |
 | [I Saw the Fold](https://open.spotify.com/track/3G2TNt3qMr9TiGSsiroY4p) | [Realizer](https://open.spotify.com/artist/7I2pqQX5c5XTjyl8InIrbt) | [Cross Sectional](https://open.spotify.com/album/0J22yrydJduLHgS7BmRguo) | 2:46 | 2022-05-13 | 2022-06-10 |
 | [I Should Have Known](https://open.spotify.com/track/5WbbKkgOknoPUistDUVjA4) | [Charlie Miller](https://open.spotify.com/artist/4gedU51ks1jf6BRwzCWosG) | [I Should Have Known](https://open.spotify.com/album/0bAFkwTZqAicYDxc88URIK) | 5:24 | 2022-05-13 | 2024-04-06 |
-| [I Still Care](https://open.spotify.com/track/44DlskiTMq62euBoQZWPKO) | [Brett Williams](https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN) | [I Still Care](https://open.spotify.com/album/1gcFVNUSyHlxlv802adTnY) | 4:35 | 2022-05-13 |  |
+| [I Still Care](https://open.spotify.com/track/44DlskiTMq62euBoQZWPKO) | [Brett Williams](https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN) | [I Still Care](https://open.spotify.com/album/1gcFVNUSyHlxlv802adTnY) | 4:35 | 2022-05-13 | 2024-06-15 |
 | [I Will Always Love You](https://open.spotify.com/track/1xqVie2iDsSZe1ZtL3XiG8) | [Nylah Read](https://open.spotify.com/artist/1t57FjgpJN2vjPRo3WS9LZ) | [I Will Always Love You](https://open.spotify.com/album/0UnnUPOlBJCA6rofllWdsw) | 2:08 | 2022-10-07 | 2023-04-28 |
 | [I'll Go South In The Winter](https://open.spotify.com/track/4hkthEhEPIwQolnhMNAvi8) | [Lo Larsen](https://open.spotify.com/artist/1RsZrWsACeuDkqAISdeFDi) | [I'll Go South In The Winter](https://open.spotify.com/album/53O4GY498LMzHCyUrrMyOC) | 3:19 | 2023-04-28 |  |
 | [I'm Coming Home To You](https://open.spotify.com/track/2fPgNS9Q6hMc0vzO4RLuEY) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [I'm Coming Home To You](https://open.spotify.com/album/0k1LPi3NvLhSpzOygfuD8Z) | 2:12 | 2022-05-13 | 2024-04-06 |
@@ -203,7 +204,7 @@
 | [My Favorite Memory Of You](https://open.spotify.com/track/7qQi4pHT2tdu32Po9MsrME) | [Derek Shearer](https://open.spotify.com/artist/3W51gb95wAmpctfOfM9no0) | [My Favorite Memory Of You](https://open.spotify.com/album/6E3b4wqXPPhV56yW6vxDia) | 3:42 | 2022-05-13 | 2022-05-27 |
 | [My Heart In Your Hands](https://open.spotify.com/track/5MxdTIHlQxvk9qMAcuLp7e) | [Equanimity Seekers](https://open.spotify.com/artist/6oXndPl70FAG2e2h7ttCge) | [My Heart In Your Hands](https://open.spotify.com/album/0JNhtB6qvXWnYp1VpKOsLR) | 2:42 | 2022-05-13 | 2023-06-23 |
 | [Name in the sand](https://open.spotify.com/track/704mqSXh2SSuB2uFyluxTt) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [Name in the sand](https://open.spotify.com/album/2Iet70zsUPRRIBlm0MNGAT) | 1:47 | 2023-08-11 | 2023-09-16 |
-| [Nebraska](https://open.spotify.com/track/3q5fdhlCmgridfA7Vvno89) | [Candelion](https://open.spotify.com/artist/3Qq7KInk9dmtAMzajwdPDG) | [Nebraska](https://open.spotify.com/album/0qbdSsiufit9uLqddWE6KK) | 2:31 | 2023-06-09 |  |
+| [Nebraska](https://open.spotify.com/track/3q5fdhlCmgridfA7Vvno89) | [Candelion](https://open.spotify.com/artist/3Qq7KInk9dmtAMzajwdPDG) | [Nebraska](https://open.spotify.com/album/0qbdSsiufit9uLqddWE6KK) | 2:31 | 2023-06-09 | 2024-06-15 |
 | [Neverland](https://open.spotify.com/track/5dBfxNan60Il2DqEFYIcMQ) | [Tristan Wilson](https://open.spotify.com/artist/0Whtro6LqFditoj7nzIOMH) | [Neverland](https://open.spotify.com/album/6jJjT7skytiWDi4reLn9Gk) | 2:30 | 2022-05-13 | 2023-06-23 |
 | [New Horizon](https://open.spotify.com/track/0KhYa12Tp63ShTjYRg5BKO) | [Johannes Grill](https://open.spotify.com/artist/2BjCVkZGxXlhLIYRoQTgA7) | [New Horizon](https://open.spotify.com/album/63IzCevH0NXpuyWn1hVRJW) | 1:59 | 2022-11-18 | 2023-09-16 |
 | [Northern Lights](https://open.spotify.com/track/5aK6HIcjYoAeI4v1o7vQ1X) | [Charles Avnik](https://open.spotify.com/artist/2PeMqgLlOHgfvVfk63Txpp) | [Northern Lights](https://open.spotify.com/album/1mH8PD21X3j431DnydlQ2F) | 2:10 | 2022-05-13 | 2022-06-10 |
@@ -268,7 +269,7 @@
 | [Stream](https://open.spotify.com/track/0iQJKde2ceeY5iu7zX4b6s) | [Masaaki Kishibe](https://open.spotify.com/artist/4D9ADmnRSSpkyrnofqLa7b) | [Stream](https://open.spotify.com/album/4r9WzvRUBLaFP6qep8wHPE) | 2:41 | 2022-05-13 | 2023-11-24 |
 | [Sullen Streets](https://open.spotify.com/track/2EQ4Oc2W8iNG9ZpGdl5wpe) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [Sullen Streets](https://open.spotify.com/album/09kxEbIQ5Ox5v8hczNkQsW) | 2:22 | 2023-02-24 |  |
 | [Summer Haze](https://open.spotify.com/track/1IrUtiuz3vvVGBrZBURdMh) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Summer Haze](https://open.spotify.com/album/6b5M9uiTVphHivV0LrXWeO) | 1:38 | 2022-05-13 | 2023-09-16 |
-| [Sun over the desert](https://open.spotify.com/track/3wNOEQe2NOlExECcLqVPLG) | [lili may](https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a) | [Sun over the desert](https://open.spotify.com/album/3sEZnpkw2WFgCLRTRE5BPV) | 2:08 | 2023-10-27 |  |
+| [Sun over the desert](https://open.spotify.com/track/3wNOEQe2NOlExECcLqVPLG) | [lili may](https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a) | [Sun over the desert](https://open.spotify.com/album/3sEZnpkw2WFgCLRTRE5BPV) | 2:08 | 2023-10-27 | 2024-06-15 |
 | [Sun over the rolling hills](https://open.spotify.com/track/1isTWddGjMgVoDrxsWUBIO) | [Lucy Duclos](https://open.spotify.com/artist/4mcQ5pefKb0EGBe87nvas0) | [Virginia Roads](https://open.spotify.com/album/4sTKdmaDoTWpwCQF1v8nfX) | 2:38 | 2022-05-13 |  |
 | [Sunbeam](https://open.spotify.com/track/5qDr76MRaLPELK9SGKHYu4) | [Acusticalia](https://open.spotify.com/artist/0JsktCrX85DtrZ4PWbs3bv) | [Sunbeam](https://open.spotify.com/album/2PIMTYAFnWmmoBv1cmfTsd) | 2:52 | 2023-08-11 |  |
 | [Sunrise Murmur](https://open.spotify.com/track/1kJApkWnDkH6wgjApxlIcK) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [A Slow Winding Road](https://open.spotify.com/album/2T141nerYqMwPqgCgJk71E) | 3:13 | 2022-05-13 | 2024-04-06 |

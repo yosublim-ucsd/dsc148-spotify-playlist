@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Lo nuevo del mundo tropical. Cover: FARIANA",
+  "description": "Lo nuevo del mundo tropical. Cover: Lola Indigo",
   "name": "el nuevo tropical",
   "tracks": [
     {
@@ -1983,6 +1983,28 @@
     },
     {
       "album": {
+        "name": "Decisiones",
+        "url": "https://open.spotify.com/album/1q0lOGH8EYIdgYCr12JfNU"
+      },
+      "artists": [
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240680,
+      "name": "Decisiones",
+      "url": "https://open.spotify.com/track/1WyQB4K1zhD4zP69Lx0X8T"
+    },
+    {
+      "album": {
         "name": "Desde Otro Malec\u00f3n",
         "url": "https://open.spotify.com/album/7CHIw4LSHWgQbwWZC5rZpO"
       },
@@ -2814,7 +2836,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 227837,
       "name": "En Otra Cama",
       "url": "https://open.spotify.com/track/22k8A4wCNKyfpLfzxnL3lo"
@@ -3318,7 +3340,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 232947,
       "name": "Fuera Fuera",
       "url": "https://open.spotify.com/track/01Dtr8QX5ox2xV7y0QRItu"
@@ -4068,6 +4090,24 @@
       "duration_ms": 202551,
       "name": "La Puerta",
       "url": "https://open.spotify.com/track/34bjkVVJ0bPS1NbeseqpVj"
+    },
+    {
+      "album": {
+        "name": "LA REINA",
+        "url": "https://open.spotify.com/album/2Fy0cyNtT6mpTVWtAAyfh4"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "LA REINA",
+      "url": "https://open.spotify.com/track/06JM1fuKPQOrSL6s9mzDvV"
     },
     {
       "album": {
@@ -5286,7 +5326,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 150708,
       "name": "Muy Loco",
       "url": "https://open.spotify.com/track/0G3Y8zlddFXyKDEANr5YFT"
@@ -5566,6 +5606,24 @@
       "duration_ms": 223410,
       "name": "No Puedo",
       "url": "https://open.spotify.com/track/02OLLxwUuwBKo7ZeoSks1E"
+    },
+    {
+      "album": {
+        "name": "No Quiero Amarte",
+        "url": "https://open.spotify.com/album/2W9C7h596oWi9IqfhvrrK5"
+      },
+      "artists": [
+        {
+          "name": "ELENA",
+          "url": "https://open.spotify.com/artist/6OCqShu6SL11NqhFIUaXzg"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181294,
+      "name": "No Quiero Amarte",
+      "url": "https://open.spotify.com/track/2MM82QZZjFlgXi2vFCPW2C"
     },
     {
       "album": {
@@ -6458,7 +6516,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 208714,
       "name": "Que Me Importa",
       "url": "https://open.spotify.com/track/3IPV7bpJGN0d1ca5mBOrtf"
@@ -6766,6 +6824,24 @@
       "duration_ms": 270253,
       "name": "Regr\u00e9same Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0d2qta4WaYv5x7idIIVxPq"
+    },
+    {
+      "album": {
+        "name": "Relaci\u00f3n",
+        "url": "https://open.spotify.com/album/3iU2gJPWHk6WMMJ3iikVbe"
+      },
+      "artists": [
+        {
+          "name": "HeyBroders",
+          "url": "https://open.spotify.com/artist/6gapwMNVkCxUrQLEzUD6GH"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186500,
+      "name": "Relaci\u00f3n",
+      "url": "https://open.spotify.com/track/1LGnbMqQvJks6VpM2gmKZk"
     },
     {
       "album": {

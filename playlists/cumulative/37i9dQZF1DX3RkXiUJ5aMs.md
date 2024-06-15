@@ -4,7 +4,7 @@
 
 > A collection of inspired songs about life and the love of the father.
 
-82 songs - 5 hr 33 min
+87 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,9 +13,11 @@
 | [Anything Like Me](https://open.spotify.com/track/2FGGvxPrVkpJ3lNZQfottL) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [American Saturday Night](https://open.spotify.com/album/0GCQzPEkcFv8bR90sJf41x) | 4:13 | 2021-06-18 |  |
 | [Before You Ask Her](https://open.spotify.com/track/5WkaAZBjzu9b032Zd6jHPz) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Before You Ask Her](https://open.spotify.com/album/3PqgiZxdVoPEFVnE9mA8PZ) | 3:21 | 2022-06-10 |  |
 | [Between A Father and A Son](https://open.spotify.com/track/3ggjEASNMQ2n9s5WsPXT2i) | [Jace Everett](https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs) | [Old New Borrowed Blues](https://open.spotify.com/album/3ZdzLrDKAyYBv3nr8F6ggI) | 4:12 | 2021-06-18 |  |
+| [Big Feelings](https://open.spotify.com/track/0GPgYS3Ihul7GYor1xen2r) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Big Feelings](https://open.spotify.com/album/65SsCOeKOqa4fF52Uf3CvO) | 3:19 | 2024-06-14 |  |
 | [Butterfly Kisses](https://open.spotify.com/track/1mwCSKK0YRDsgnj2VwyZSU) | [Bob Carlisle](https://open.spotify.com/artist/4PJHDzdFoQcklrWU18QdsU) | [Simply Bob Carlisle](https://open.spotify.com/album/164ZlumFzgmF1ahd7gzyDn) | 5:40 | 2021-06-18 |  |
 | [Can't Live A Day](https://open.spotify.com/track/1mopEOz5TeAMbz81Z63xKJ) | [Avalon](https://open.spotify.com/artist/4rulVipLmUL2Mg67SIUmCO) | [In A Different Light](https://open.spotify.com/album/4F7DNG4XaKfSoyf9u72a75) | 4:46 | 2021-06-18 |  |
 | [Carry On](https://open.spotify.com/track/0JYJV0dIYEboVueifrGQJ1) | [Stu Garrard](https://open.spotify.com/artist/0vmjmjLdT5ed78K0GPBsm2), [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Beatitudes](https://open.spotify.com/album/2YfGHMZyMIeLcs7s2Uv4Wu) | 4:21 | 2021-06-18 |  |
+| [Checking In](https://open.spotify.com/track/18hClnXvRu2j0BjYpfPX5B) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Checking In \(From the Inspired By Soundtrack "Unsung Hero"\)](https://open.spotify.com/album/5pc39dpKoqqIibRMtvrPyr) | 3:15 | 2024-06-14 |  |
 | [Cinderella](https://open.spotify.com/track/1oj4KLsbYhvfHFnhdb3twP) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [This Moment \(Cinderella Edition\)](https://open.spotify.com/album/7HAomGpaAjuPCEbuMevOlP) | 4:25 | 2021-06-18 |  |
 | [Daddy's Hands](https://open.spotify.com/track/2VPnnOGXmejtKqxGY4jg66) | [Holly Dunn](https://open.spotify.com/artist/5RkW6o1M8sDx2FzeAEoNbH) | [Milestones\- Greatest Hits](https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP) | 3:29 | 2021-06-18 |  |
 | [Dance With My Father](https://open.spotify.com/track/7snmvZMLdGGk3l9PcvoYSM) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Dance With My Father](https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM) | 4:26 | 2021-06-18 |  |
@@ -61,6 +63,7 @@
 | [My Little Girl \(from My Friend Flicka\)](https://open.spotify.com/track/7qosBEliJ2mNL87rMTfbT5) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Greatest Hits, Vol\. 2](https://open.spotify.com/album/5gXBn0p6m8neWwnitoZJdd) | 3:39 | 2021-06-18 |  |
 | [My Old Man \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/30x7X9Mjo0Spbb2POIc3E0) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Spotify Singles](https://open.spotify.com/album/0BVShHjHQNedwKZsjLeB3H) | 3:54 | 2021-06-18 |  |
 | [My Old Man \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6hJ7gAxu3QqYBfvaTV3ZOQ) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Spotify Singles](https://open.spotify.com/album/1C640BfNRoMu97Y9ye3iLv) | 3:54 | 2022-06-10 | 2024-04-19 |
+| [Neverland](https://open.spotify.com/track/2QvwG2KB8i6qOF3XtTjwWd) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Neverland](https://open.spotify.com/album/01Gw2cBVHVwJOlIUy7enke) | 4:00 | 2024-06-14 |  |
 | [New Day](https://open.spotify.com/track/1Jc3DqBxWynXZPQLmOEHEe) | [Robbie Seay Band](https://open.spotify.com/artist/4xPxYiZyp9SWFG3MIFkee5) | [Give Yourself Away](https://open.spotify.com/album/5ha4teFmoKCKiRKXg1CYuc) | 4:05 | 2021-06-18 |  |
 | [Other Father](https://open.spotify.com/track/347Ba1xNGGBK2KnnAJHmYd) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [The Road](https://open.spotify.com/album/12o3SJicuqPBQoyoHFdqhM) | 5:29 | 2021-06-18 |  |
 | [Ready, Set, Don't Go](https://open.spotify.com/track/6qUfQrIWFEWjEXrj37ORon) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Country Sings Disney](https://open.spotify.com/album/2Y6qHoBWHY024rUlNPyGnz) | 3:49 | 2021-06-18 |  |
@@ -78,6 +81,8 @@
 | [The Greatest Man I Never Knew](https://open.spotify.com/track/43z33yJDu1dCyE50sPzErp) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [For My Broken Heart](https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5) | 3:14 | 2021-06-18 |  |
 | [The Space Between Us](https://open.spotify.com/track/5dauZHVLFMM67B6B48Httg) | [Shawn McDonald](https://open.spotify.com/artist/0alRw2BasYQZdFSJLfLbIY) | [The Analog Sessions](https://open.spotify.com/album/2fK1QJSyWckVnm5aIBm9Ce) | 4:10 | 2021-06-18 |  |
 | [Then They Do \- With String Intro](https://open.spotify.com/track/7tUZJ2ZcRZXYZQlV7CsMB2) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Definitive Greatest Hits](https://open.spotify.com/album/5CFWkDEnKrS3Ar8Da5CGhR) | 4:30 | 2021-06-18 |  |
+| [These are the Days](https://open.spotify.com/track/7fTB6AmnnOm1zKI5QN69Yc) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [These Are The Days](https://open.spotify.com/album/1OFLHuLwgMSUP7PEjaIWtk) | 4:51 | 2024-06-14 |  |
+| [Time Machine \- Daughter Version](https://open.spotify.com/track/1uHtISIBA8DrU6agy9Qvu2) | [Jon Mullins](https://open.spotify.com/artist/3MKuZm9eAVMdw9ni14mzCP) | [Time Machine](https://open.spotify.com/album/1Wv1DcgXkdS5RTU8Y0Bf2w) | 3:23 | 2024-06-14 |  |
 | [Unfailing Love](https://open.spotify.com/track/2hJtYiDfwn57achG9nuiyl) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Arriving](https://open.spotify.com/album/4cCT11g6AEsDrDkyAome9f) | 3:59 | 2021-06-18 |  |
 | [Walkin' in My Father's Shoes](https://open.spotify.com/track/2ejg3RnPfFmGbU3TptyJVh) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [Craig Morgan](https://open.spotify.com/album/18uwClKqx8EmJDA5Dx9Trf) | 3:29 | 2021-06-18 |  |
 | [We Thought You'd Be Here](https://open.spotify.com/track/7mw3aj23W6dltG4YsysG2H) | [Wes King](https://open.spotify.com/artist/0mv7taBJWmKVK7KVZs2Yep) | [A Room Full Of Stories](https://open.spotify.com/album/2sEJhlTBnUhFaPeNXkj4F2) | 4:49 | 2021-06-18 |  |

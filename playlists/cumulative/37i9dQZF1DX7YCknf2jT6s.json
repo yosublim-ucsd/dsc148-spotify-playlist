@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Nduduzo Makhathini",
+  "description": "New jazz for open minds. Cover: Julius Rodriguez",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -2462,7 +2462,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 483866,
       "name": "Ava's Dance in the Moonlight",
       "url": "https://open.spotify.com/track/04GQe9Os4UaxlcPujrBZTP"
@@ -3759,6 +3759,24 @@
     },
     {
       "album": {
+        "name": "Natural Reflections",
+        "url": "https://open.spotify.com/album/20ecj6Hs3KL1Wq2kJtOiXL"
+      },
+      "artists": [
+        {
+          "name": "Keeth",
+          "url": "https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181422,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/6AlWNYpWiJ52aXmixuYXxc"
+    },
+    {
+      "album": {
         "name": "Blood Calls Blood",
         "url": "https://open.spotify.com/album/4DCZuJX3YAkJwsSirNLtbC"
       },
@@ -4562,7 +4580,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 470960,
       "name": "Camille",
       "url": "https://open.spotify.com/track/4DfDmvEZILiQByqj6whrHH"
@@ -7847,6 +7865,24 @@
     },
     {
       "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/0vxJdKq30ucBCDe8Xp50bL"
+      },
+      "artists": [
+        {
+          "name": "Al Di Meola",
+          "url": "https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269226,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/14lPtmQaItu8yyUsmn0kJr"
+    },
+    {
+      "album": {
         "name": "Edge of Time",
         "url": "https://open.spotify.com/album/6k3c0Lgmcf8BJ6HenmP293"
       },
@@ -8570,7 +8606,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 1013280,
       "name": "Expressions On The Melody Of Kokiriko",
       "url": "https://open.spotify.com/track/63HH4URIpjgUYjE0nzd5uD"
@@ -9964,7 +10000,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 285933,
       "name": "Fuzzy Logic",
       "url": "https://open.spotify.com/track/6N6uauFo7AU2cVlEyotY0N"
@@ -10118,7 +10154,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 206116,
       "name": "GBTC",
       "url": "https://open.spotify.com/track/65GFsgPvRGPJUpShEQ1v5s"
@@ -12374,7 +12410,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 575773,
       "name": "Images Suite",
       "url": "https://open.spotify.com/track/5oABmPQDuEgOyaMsTON6th"
@@ -13905,6 +13941,28 @@
     },
     {
       "album": {
+        "name": "Kim K",
+        "url": "https://open.spotify.com/album/58npMduIodm4oYOAPXCB1o"
+      },
+      "artists": [
+        {
+          "name": "Ebi Soda",
+          "url": "https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU"
+        },
+        {
+          "name": "BODUR",
+          "url": "https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202819,
+      "name": "Kim K",
+      "url": "https://open.spotify.com/track/0w9qz6eqLqHNHu27DoI2dp"
+    },
+    {
+      "album": {
         "name": "Kings & Queens",
         "url": "https://open.spotify.com/album/7vXbmQnd0jGupFglF3BPG6"
       },
@@ -13938,6 +13996,36 @@
       "duration_ms": 140293,
       "name": "Kintsugi",
       "url": "https://open.spotify.com/track/5Y3LPCsFsh9XbgS0iV0xyu"
+    },
+    {
+      "album": {
+        "name": "Kiss Yo' Ass Goodbye",
+        "url": "https://open.spotify.com/album/15ddJIGLgokdLB3WYhlV0o"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Org",
+          "url": "https://open.spotify.com/artist/7ydpneBAwLegNysaViOxHA"
+        },
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Kronos Quartet",
+          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
+        },
+        {
+          "name": "Sara Miyamoto",
+          "url": "https://open.spotify.com/artist/1Jwf2KArN4zKklP5zb74Zz"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 581373,
+      "name": "Kiss Yo' Ass Goodbye",
+      "url": "https://open.spotify.com/track/6vkWk9kEyhsGpLsybHLKFB"
     },
     {
       "album": {
@@ -15391,6 +15479,24 @@
     },
     {
       "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/1Tjpcv4qOxzGikjy4oKwmF"
+      },
+      "artists": [
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222653,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/2FXXvvrkwREbBzzT5j5R89"
+    },
+    {
+      "album": {
         "name": "love + war",
         "url": "https://open.spotify.com/album/3XWMDQNFu7M1QwSCLIkx7h"
       },
@@ -15496,7 +15602,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 229560,
       "name": "Love Everlasting (feat. Keyon Harrold)",
       "url": "https://open.spotify.com/track/0cwNWUmPRol4j4XCjrg6so"
@@ -19098,7 +19204,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 418520,
       "name": "Origins",
       "url": "https://open.spotify.com/track/4ZDsgYjwBIEmVPylsFjf1p"
@@ -19930,6 +20036,28 @@
       "duration_ms": 459360,
       "name": "Peresina",
       "url": "https://open.spotify.com/track/3UJDnJUuX80lpqJt0kw61a"
+    },
+    {
+      "album": {
+        "name": "Pescatore",
+        "url": "https://open.spotify.com/album/6RGVCpa2VAGQLX5H6XYrK1"
+      },
+      "artists": [
+        {
+          "name": "Ted Taforo",
+          "url": "https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX"
+        },
+        {
+          "name": "ddddeeeellllaaa",
+          "url": "https://open.spotify.com/artist/1b1ZHOGcoZfdw68Ru9dznA"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155795,
+      "name": "Pescatore",
+      "url": "https://open.spotify.com/track/0l35O0F378PfmUPhBBLogZ"
     },
     {
       "album": {
@@ -21943,6 +22071,28 @@
     },
     {
       "album": {
+        "name": "Road to Ilha Grande",
+        "url": "https://open.spotify.com/album/71caZmzyY8y1YRvSaLQK6D"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/2PyoC81N6Uz8xs5Lzaquje"
+        },
+        {
+          "name": "Victor Wooten",
+          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354425,
+      "name": "Road to Ilha Grande",
+      "url": "https://open.spotify.com/track/6vV2uc1YEmS7IXxPauGzJa"
+    },
+    {
+      "album": {
         "name": "Quarantine Sessions",
         "url": "https://open.spotify.com/album/0FU8jHfcqwWOTnsxlj7gro"
       },
@@ -22160,6 +22310,24 @@
       "duration_ms": 252000,
       "name": "Ruff Stuff",
       "url": "https://open.spotify.com/track/50pOeDIE20XV1tWDBuSviy"
+    },
+    {
+      "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/5M8eXGXY9ds3L7qSAMY5me"
+      },
+      "artists": [
+        {
+          "name": "Julius Rodriguez",
+          "url": "https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313946,
+      "name": "Run To It (The CP Song)",
+      "url": "https://open.spotify.com/track/6Lb7lH15OsyGlwmmjaAVz8"
     },
     {
       "album": {
@@ -24188,7 +24356,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 254933,
       "name": "Speak To Me",
       "url": "https://open.spotify.com/track/7wc9v9f1agzyv4nckk0peS"
@@ -27401,6 +27569,24 @@
     },
     {
       "album": {
+        "name": "The Seer",
+        "url": "https://open.spotify.com/album/41ege95duesxAA0g2MRXoa"
+      },
+      "artists": [
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302960,
+      "name": "The Seer",
+      "url": "https://open.spotify.com/track/1Z3RwVpioQ9GvWL3LJQXe2"
+    },
+    {
+      "album": {
         "name": "The Solitary Seeker",
         "url": "https://open.spotify.com/album/1cCmnTlv1Nj9ENL0i5mwUN"
       },
@@ -29569,6 +29755,24 @@
     },
     {
       "album": {
+        "name": "Mood Swings",
+        "url": "https://open.spotify.com/album/5mNPsQ3gt6FRqENKabPJgF"
+      },
+      "artists": [
+        {
+          "name": "Jerk",
+          "url": "https://open.spotify.com/artist/47fuoUqgL8n7eSQsSdaCQf"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150329,
+      "name": "Voices in my Head",
+      "url": "https://open.spotify.com/track/1tYkD1SYRtTGjOhczQ7IuW"
+    },
+    {
+      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/2XEGf0YR9tLosVzjb2nImJ"
       },
@@ -30744,7 +30948,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 290213,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6li1FBZmTkTdb9dbLyV8Vp"

@@ -4,7 +4,7 @@
 
 > This is Yeah Yeah Yeahs\. The essential tracks, all in one playlist.
 
-66 songs - 3 hr 58 min
+68 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Different Today](https://open.spotify.com/track/1NI4ZiPR8hcROfDz1Dz3WH) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:27 | 2023-09-25 |  |
 | [Down Boy](https://open.spotify.com/track/3rJKyc4VZJtIVXHoNnZA4d) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [IS IS](https://open.spotify.com/album/6wt9UTlj4kyhYyyLlWDDSi) | 3:52 | 2023-11-10 | 2023-12-21 |
 | [Down Boy](https://open.spotify.com/track/60dhkkPtuzMGOdYgLJIpQD) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Is Is EP](https://open.spotify.com/album/3I6TpzauRC5WzlNbrrdfqo) | 3:53 | 2023-09-25 |  |
+| [Dragon Queen](https://open.spotify.com/track/7AiaJ2OLSCe81eWIfV5QSQ) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm) | 4:02 | 2024-06-15 |  |
 | [Dull Life](https://open.spotify.com/track/2mFUqQpMWpo8shWkYXOsxz) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj) | 4:08 | 2024-05-12 | 2024-05-17 |
 | [Dull Life](https://open.spotify.com/track/5AfDcCcS8fZVtimT1mGy08) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm) | 4:08 | 2023-12-26 |  |
 | [Fleez](https://open.spotify.com/track/65w1d96FbYPmccz3ZdNOdA) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 3:58 | 2023-09-25 |  |
@@ -34,7 +35,8 @@
 | [Honeybear](https://open.spotify.com/track/2oDZprxAu0snrga1chXTdD) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/3lgIiynXHTZYaSvS1ZrMxG) | 2:25 | 2023-09-25 | 2024-05-04 |
 | [Honeybear](https://open.spotify.com/track/4UZtZ5EV1f1GbvWgee28J7) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz) | 2:25 | 2023-12-16 |  |
 | [Hysteric](https://open.spotify.com/track/0sYM2UAQhOvrFGj9C3HARt) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj) | 3:50 | 2023-09-25 | 2024-05-18 |
-| [Hysteric](https://open.spotify.com/track/5rtaBnrHSnGUFWb8UYRspA) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm) | 3:50 | 2024-05-18 |  |
+| [Hysteric](https://open.spotify.com/track/3zH9RnVnw2v4TemWU5j6Qz) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz! \(Deluxe Edition\)](https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG) | 3:50 | 2024-06-15 |  |
+| [Hysteric](https://open.spotify.com/track/5rtaBnrHSnGUFWb8UYRspA) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm) | 3:50 | 2024-05-18 | 2024-06-15 |
 | [Isis](https://open.spotify.com/track/2NYq8NiOFp4k1b4UKgW2n1) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [IS IS](https://open.spotify.com/album/6wt9UTlj4kyhYyyLlWDDSi) | 4:00 | 2023-11-10 |  |
 | [Isis](https://open.spotify.com/track/6EMJFayg2XYkd03FTLiGXi) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Is Is EP](https://open.spotify.com/album/3I6TpzauRC5WzlNbrrdfqo) | 4:00 | 2023-09-25 | 2023-11-11 |
 | [Kiss, Kiss](https://open.spotify.com/track/1mhPIy7YFRXlWTqH2aLdVr) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Is Is EP](https://open.spotify.com/album/3I6TpzauRC5WzlNbrrdfqo) | 2:43 | 2023-09-25 |  |
@@ -65,14 +67,14 @@
 | [Soft Shock](https://open.spotify.com/track/4Ku70eDzBKu5EP3oH7Ki9v) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj) | 3:53 | 2023-09-25 | 2024-06-13 |
 | [Spitting Off the Edge of the World](https://open.spotify.com/track/3kBBjItT7JnKi28k68dGkr) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Spitting Off the Edge of the World](https://open.spotify.com/album/1Jkvi8YFy8FpDK23tTlrhG) | 4:17 | 2023-09-25 |  |
 | [Thirteen \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2VsdSmOcXPGJVRfp9EP7nL) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Spotify Singles \(Recorded At Spotify Studios NYC\)](https://open.spotify.com/album/2G0u5GF3ShGtNqpsrdPzcY) | 3:17 | 2023-09-25 |  |
-| [Tick](https://open.spotify.com/track/2NjbIZpz7YMyo8s0hgheqD) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 1:49 | 2024-05-21 | 2024-06-13 |
+| [Tick](https://open.spotify.com/track/2NjbIZpz7YMyo8s0hgheqD) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 1:49 | 2024-05-21 |  |
 | [Turn Into](https://open.spotify.com/track/4IzJ8gIh9paZfeoN4D0Ah4) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/3lgIiynXHTZYaSvS1ZrMxG) | 4:05 | 2023-09-25 |  |
 | [Under The Earth](https://open.spotify.com/track/4NVRAFB9Xkpluo3Iq5GeEO) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Mosquito \(Deluxe\)](https://open.spotify.com/album/1LQZp37z82iTVxillq6K59) | 4:18 | 2023-09-25 |  |
 | [Way Out](https://open.spotify.com/track/6SRm5IeWfgFq3rMhOYZwhu) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/3lgIiynXHTZYaSvS1ZrMxG) | 2:51 | 2023-09-25 | 2023-12-30 |
 | [Way Out](https://open.spotify.com/track/6tmlwJjSw8QLZnBjwZ4Mej) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz) | 2:51 | 2023-12-13 |  |
 | [Wedding Song](https://open.spotify.com/track/0EZELV7AI8v4KF6DErAgge) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Mosquito \(Deluxe\)](https://open.spotify.com/album/1LQZp37z82iTVxillq6K59) | 4:54 | 2023-09-25 |  |
 | [Wolf](https://open.spotify.com/track/4g3alZ0okNvZiOWW4pGUpw) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:13 | 2023-09-25 |  |
-| [Y Control](https://open.spotify.com/track/5tryzDT3iMMcONq3YHWgC9) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 4:00 | 2023-09-25 |  |
+| [Y Control](https://open.spotify.com/track/5tryzDT3iMMcONq3YHWgC9) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 4:00 | 2023-09-25 | 2024-06-15 |
 | [Zero](https://open.spotify.com/track/6RnfjXnNuKK6zca1d9W0Ir) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/6w21zEx5okRPCYJejLVRdR) | 4:25 | 2023-09-25 |  |
 
 \*This playlist was first scraped on 2023-09-26. Prior content cannot be recovered.

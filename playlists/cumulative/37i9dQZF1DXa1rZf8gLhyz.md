@@ -4,7 +4,7 @@
 
 > Let these calm Jazz tracks lull you to sleep.
 
-559 songs - 1 day 4 hr 39 min
+562 songs - 1 day 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Cheek to Cheek](https://open.spotify.com/track/4Fsl78MLuUrqJMnFXBctW8) | [Penford Giles](https://open.spotify.com/artist/1dIU42U3gWRcyOT7cdNiv6) | [Cheek to Cheek](https://open.spotify.com/album/7ex7nfyDTp2UDpYxKWKsPh) | 3:02 | 2022-06-14 |  |
 | [Chemin de la lune](https://open.spotify.com/track/20uoDnTsBOXkPJd1TmjpqZ) | [Neil Chapman Green](https://open.spotify.com/artist/5iyGZWUlM8wxizjjtBLGFZ) | [Chemin de la lune](https://open.spotify.com/album/12bQXgWbTWoYbUsLr9rxIP) | 2:09 | 2023-03-30 |  |
 | [Cherish the Night](https://open.spotify.com/track/5W3P7uSiJUZIlZxiYFUYam) | [Claire Martinelle](https://open.spotify.com/artist/4cregPQpQ72XMMVzvvyiEl) | [Cherish the Night](https://open.spotify.com/album/6Y9FHM9bhGbQeaNjuFrFwI) | 2:33 | 2024-04-10 |  |
-| [Cherokee](https://open.spotify.com/track/2ifo88z2ExBUBsmWav4mca) | [Andy Luma](https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof) | [Cherokee](https://open.spotify.com/album/5tlafy4PFxdDv5vxuXNlDR) | 2:59 | 2022-10-06 |  |
+| [Cherokee](https://open.spotify.com/track/2ifo88z2ExBUBsmWav4mca) | [Andy Luma](https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof) | [Cherokee](https://open.spotify.com/album/5tlafy4PFxdDv5vxuXNlDR) | 2:59 | 2022-10-06 | 2024-06-15 |
 | [Cherry Blossom](https://open.spotify.com/track/7csJh6rDbBhV6WFFrxoYyB) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [Cherry Blossom](https://open.spotify.com/album/2KPDw3qOzyzqkoFiEmko44) | 2:04 | 2024-05-10 |  |
 | [City Lights and Midnight Blues](https://open.spotify.com/track/4wVMZkj5y4dpT8tvTIBaKw) | [Devon Crouch](https://open.spotify.com/artist/02zs7OtXn8UAl8HAc6hfYZ) | [City Lights and Midnight Blues](https://open.spotify.com/album/5a6KuFxcNag3keou58crVH) | 2:42 | 2023-06-01 |  |
 | [Cityscape](https://open.spotify.com/track/3Y7ZiWwBViTaOeWz6NaZ8F) | [Harry Reed](https://open.spotify.com/artist/1PFJCooFyvogVUkv1abGgu) | [Cityscape](https://open.spotify.com/album/1pNjmKxzeVE3OrXuZNgHRM) | 2:18 | 2024-03-08 |  |
@@ -188,6 +188,7 @@
 | [Grand](https://open.spotify.com/track/3Zd18LrQxTXeqyqCgVyuir) | [Jaden Cohen](https://open.spotify.com/artist/5FDFlNDmnGwmTB0broI9MA) | [Grand](https://open.spotify.com/album/4MWF7jYUvrKlxGUDzI24Qi) | 2:29 | 2023-06-15 |  |
 | [Habit\-forming](https://open.spotify.com/track/6whyQbbwPowZ3u24SsgDWE) | [Alfie Walker](https://open.spotify.com/artist/4ftOemOz9fYLTulZP8ZKol) | [Habit\-forming](https://open.spotify.com/album/2cneO9u6mzVafnCAY8lZWe) | 2:31 | 2023-08-10 |  |
 | [Happy Days](https://open.spotify.com/track/6OXbT5aTGZDURNRG9XBNi9) | [Kim Winther](https://open.spotify.com/artist/7FWhfI8n42MsvBQaXphr3N) | [Happy Days](https://open.spotify.com/album/7DIg6LQbbwVZNioht5hana) | 2:57 | 2023-03-30 |  |
+| [Harbor of Dreams](https://open.spotify.com/track/7JudkcEQdrEyy8b0aSyVxA) | [Julian Emerson](https://open.spotify.com/artist/5ndOevWj1KK1Za6cMrz1d8) | [Harbor of Dreams](https://open.spotify.com/album/3XtoSB1THdZ5vaLjpa1jG8) | 2:06 | 2024-06-14 |  |
 | [Have You Met Miss Jones](https://open.spotify.com/track/3CNMWUJPO4LLndGl6RrSYR) | [Nathalie Ambrosi](https://open.spotify.com/artist/6xOxkOrdq0NoTTAIsrOVEB) | [Have You Met Miss Jones](https://open.spotify.com/album/2Jn4Vsvht7JcDihWent9iT) | 2:41 | 2023-03-30 |  |
 | [Havent You Heard](https://open.spotify.com/track/5kCSDNccCehHIwki5T9lz3) | [Joe M\. Key](https://open.spotify.com/artist/6u5JdEH2gZlzRb2HfVa9Km) | [Havent You Heard](https://open.spotify.com/album/1ffyAQynFHs2uCD4C6HY0t) | 2:46 | 2024-04-17 |  |
 | [Hear This Lullaby](https://open.spotify.com/track/4jNPUwtMdOi6uLqJvi4Tgl) | [Baker St.](https://open.spotify.com/artist/0k4UL5tOqUHXxJpxM4Wyae) | [Hear This Lullaby](https://open.spotify.com/album/1gPekjVyQYquvIe7uElfHp) | 2:29 | 2023-09-22 |  |
@@ -376,6 +377,7 @@
 | [Part 16](https://open.spotify.com/track/7cZ7V0JWA8tUarE1TyABR7) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [Radiance](https://open.spotify.com/album/64EgYMgM0KR2WS5jbvPmKq) | 3:23 | 2021-12-07 | 2022-08-10 |
 | [Past Bedtime](https://open.spotify.com/track/2aeyOhoYRURobHW9vyiKzx) | [Rhys Wells](https://open.spotify.com/artist/4im1JHdAIz4yOsjizlGZzt) | [Past Bedtime](https://open.spotify.com/album/46cRjEkOHMYToSrDYUTCDg) | 2:54 | 2024-04-02 |  |
 | [Peace](https://open.spotify.com/track/5TbGgNC1yyV9NGEQqA9myW) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [Peace](https://open.spotify.com/album/47srmsx8SpAb0YQhA9fLva) | 3:13 | 2021-12-07 |  |
+| [Pearl River](https://open.spotify.com/track/1CIQCFiUOUiSG29MUiot4y) | [Andy Luma](https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof) | [Pearl River](https://open.spotify.com/album/3ITxyNP7mWyMIEShXSdGKg) | 3:02 | 2024-06-14 |  |
 | [Pennies From Heaven](https://open.spotify.com/track/5FZ1EwzovpSlbfPK2eynR0) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [Pennies From Heaven](https://open.spotify.com/album/75bRjjsmOtXqoSHeziafj0) | 4:29 | 2022-04-11 |  |
 | [Piano Reflections](https://open.spotify.com/track/29XzmKfMwDf0AuKJLbRf04) | [Julian Emerson](https://open.spotify.com/artist/5ndOevWj1KK1Za6cMrz1d8) | [Piano Reflections](https://open.spotify.com/album/6PPGgNQEMHIahXUnwIofHW) | 3:15 | 2024-05-23 |  |
 | [Piece de resistance](https://open.spotify.com/track/4BqrjtDW2iF3Cqnm52eySR) | [Jan Singh](https://open.spotify.com/artist/3754x5uMBUG3kwven7gOgu) | [Piece de resistance](https://open.spotify.com/album/4X1xVsNHV3u6faxprtA3Pi) | 2:36 | 2023-09-22 |  |
@@ -469,6 +471,7 @@
 | [Sweet Or Sweeter](https://open.spotify.com/track/3kBBNUhkrZjBarERXoJTzt) | [Lenard Lovito](https://open.spotify.com/artist/6r8kUR60ouPwLjn42RFgPT) | [Sweet Or Sweeter](https://open.spotify.com/album/3ukwljFKcXQugyW40NvzSZ) | 1:59 | 2023-04-20 | 2023-08-19 |
 | [Sweetzer Ave](https://open.spotify.com/track/4ZgHWOPfiCca93ZY8Q2QKB) | [Jonathán Bridges](https://open.spotify.com/artist/2dQCJiivYdK2HuhoUKcerS) | [Sweetzer Ave](https://open.spotify.com/album/5FzXkweNdfaYzRauD8YNsF) | 2:52 | 2024-05-23 |  |
 | [Tangerine](https://open.spotify.com/track/3q5cGbIcmWU4tfUixjLqKb) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [Tangerine](https://open.spotify.com/album/1jRoIrwrLAZlY7quAk5GUJ) | 2:39 | 2023-01-05 |  |
+| [Tender](https://open.spotify.com/track/0qLG0XauMb5WDt4a7ks7E7) | [Millie Blue](https://open.spotify.com/artist/3Z6Jby1DnvCKJMkHjrwg5P) | [Tender](https://open.spotify.com/album/2UJIrXP75pjWoPFomeFzu8) | 2:34 | 2024-06-14 |  |
 | [Tender Moments](https://open.spotify.com/track/3kcML10JWRmtCovbUfiqvL) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Tender Moments](https://open.spotify.com/album/5jMWuMhWDpXOjuEzAHLEHT) | 2:48 | 2024-04-10 |  |
 | [Tender Nocturne](https://open.spotify.com/track/6Cx1VeqZG4vkZdC4ffsXAy) | [Sinead Fisher](https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz) | [Tender Nocturne](https://open.spotify.com/album/3JVmL0xyHtxUPYKZb2yTBI) | 2:36 | 2023-10-27 |  |
 | [Tenderly](https://open.spotify.com/track/7tyZqOZDFhCgARJWP4g6EC) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [Tenderly](https://open.spotify.com/album/1jw8z9WMpLOl5y89HN5Zda) | 3:10 | 2021-12-07 |  |

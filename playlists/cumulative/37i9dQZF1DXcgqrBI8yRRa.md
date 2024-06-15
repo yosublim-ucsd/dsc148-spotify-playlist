@@ -2,9 +2,9 @@
 
 ### [Internet Famous](https://open.spotify.com/playlist/37i9dQZF1DXcgqrBI8yRRa)
 
-> 6 +2 = ATE!
+> Favourite girl
 
-457 songs - 1 day 1 hr 6 min
+458 songs - 1 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2021-10-19 | 2022-02-10 |
 | [Believe Me](https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Believe Me](https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F) | 3:31 | 2023-06-26 | 2023-07-07 |
 | [bend you](https://open.spotify.com/track/4cukkgbgG9P9PKouQ462aV) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:39 | 2024-02-22 | 2024-04-19 |
-| [bend you](https://open.spotify.com/track/6JEVeodVZrjrTZhc1RjMvi) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/6A5x0fKoL7IBjeVy0UU8lq) | 2:39 | 2024-04-03 |  |
+| [bend you](https://open.spotify.com/track/6JEVeodVZrjrTZhc1RjMvi) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/6A5x0fKoL7IBjeVy0UU8lq) | 2:39 | 2024-04-03 | 2024-06-15 |
 | [Bezos](https://open.spotify.com/track/1NAXHOcE8EWudM0WO4D77I) | [Dboi](https://open.spotify.com/artist/0Hm8XNele8yJjZXq2A0nh8) | [Bezos](https://open.spotify.com/album/6QyMp5NklVWVcQRIwKKq49) | 2:48 | 2023-03-13 | 2023-06-13 |
 | [Bezos](https://open.spotify.com/track/3CL2wSAoigecJkzBLJJyjs) | [Dboi](https://open.spotify.com/artist/0Hm8XNele8yJjZXq2A0nh8) | [Bezos](https://open.spotify.com/album/0HWeesVXBwp4q78Ow2RFpx) | 2:48 | 2023-03-13 | 2023-04-27 |
 | [Big Baller](https://open.spotify.com/track/3U0AYNEpt2cumbDILVFiBz) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Big Baller](https://open.spotify.com/album/5ItnpIv7iT87QiTjLKDL4d) | 2:32 | 2024-01-15 | 2024-06-01 |
@@ -234,6 +234,7 @@
 | [Jump](https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Jump](https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX) | 2:27 | 2024-03-29 |  |
 | [just like me](https://open.spotify.com/track/5KI7I4mEtulXcv5VQJaV35) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:51 | 2024-01-15 | 2024-02-03 |
 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 | 2023-03-13 | 2023-06-13 |
+| [KEHLANI](https://open.spotify.com/track/0izPpjfwsu2DuzWGqsABkT) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [KEHLANI](https://open.spotify.com/album/4e9It5Geutbt6LBEqFmHSz) | 2:02 | 2024-06-14 |  |
 | [Khekheleza \(Dlala Dlala\)](https://open.spotify.com/track/183zjMwtPbSQjsE71Yrfoo) | [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [Thama Tee](https://open.spotify.com/artist/2mncgdDLbh8nahtbvLZEcR) | [Khekheleza \(Dlala Dlala\)](https://open.spotify.com/album/0xzQmemSpxC1d1XmNAQY80) | 5:29 | 2023-06-26 | 2023-07-07 |
 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 | 2023-02-16 | 2023-07-07 |
 | [Kill Bill \- Sped Up Version](https://open.spotify.com/track/2ty6DmPnxVPpEFuB23XM0x) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kill Bill](https://open.spotify.com/album/63nEYsFMdabB1qkWCOhsv7) | 2:17 | 2023-03-13 | 2023-06-13 |

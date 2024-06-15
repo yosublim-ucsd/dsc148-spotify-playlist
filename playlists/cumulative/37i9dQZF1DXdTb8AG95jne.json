@@ -1576,7 +1576,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 188253,
       "name": "Burn Like A Star",
       "url": "https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O"
@@ -11360,6 +11360,24 @@
       "duration_ms": 229665,
       "name": "The night we parted",
       "url": "https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM"
+    },
+    {
+      "album": {
+        "name": "The one of the past",
+        "url": "https://open.spotify.com/album/4l4texZRPRdgSy5kP99CNe"
+      },
+      "artists": [
+        {
+          "name": "GYE0M",
+          "url": "https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170154,
+      "name": "The one of the past",
+      "url": "https://open.spotify.com/track/1lMehRXG8eAGalZwyMfTxz"
     },
     {
       "album": {

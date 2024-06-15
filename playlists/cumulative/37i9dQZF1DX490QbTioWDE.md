@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Valentina Marquez.
 
-448 songs - 1 day 4 hr 11 min
+449 songs - 1 day 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [Ji Ji Ji](https://open.spotify.com/track/2716BxBC12mBVOH9uNNsHR) | [THE PALMERS](https://open.spotify.com/artist/4ACQyAX2r9xt9k1y1t7jXN) | [Ji Ji Ji](https://open.spotify.com/album/2RXtIUWgZ3CynngFotIDUF) | 3:13 | 2023-06-09 | 2023-07-31 |
 | [La Bachata \- En Vivo](https://open.spotify.com/track/2BTlIPUB2qpfkR8UIulnaa) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [La Bachata \(En Vivo\)](https://open.spotify.com/album/2QJIJQriH01UyYkD21Fuds) | 2:14 | 2022-09-05 | 2023-11-04 |
 | [La Balada](https://open.spotify.com/track/3GtohcmJ8rbaHNfk8yPQAL) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [La Balada](https://open.spotify.com/album/23kJnWPFErpRCcwelMb7nu) | 3:29 | 2022-04-11 | 2022-04-23 |
-| [La Bella y la Bestia](https://open.spotify.com/track/71BayRBmRYO3UPK2PxoMvy) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [La Bella y la Bestia](https://open.spotify.com/album/6yatQdjakC2F3cQm6359CG) | 3:20 | 2022-01-07 |  |
+| [La Bella y la Bestia](https://open.spotify.com/track/71BayRBmRYO3UPK2PxoMvy) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [La Bella y la Bestia](https://open.spotify.com/album/6yatQdjakC2F3cQm6359CG) | 3:20 | 2022-01-07 | 2024-06-15 |
 | [La Bilirrubina](https://open.spotify.com/track/7JSfpnY4shEyEPSKttQ4Mr) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [50 Años En Vivo \- Parte 1](https://open.spotify.com/album/3iu4XIrQyMusS2ZmL7RlFh) | 3:27 | 2024-05-10 | 2024-05-18 |
 | [La Cabaña](https://open.spotify.com/track/4L2T5N7EwRgUOJzkfYjK8W) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [20 Grandes Exitos](https://open.spotify.com/album/5sODoADgphMzZfAuOC5sGk) | 3:41 | 2021-12-24 | 2022-07-19 |
 | [La Cabaña](https://open.spotify.com/track/2cTKuxpHcPzDFRbbhE2WxP) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Un Sentimiento](https://open.spotify.com/album/5Pw7NFds3tRzOKWB0M1z03) | 3:44 | 2021-12-24 | 2022-07-28 |
@@ -268,6 +268,7 @@
 | [Ni una Sola Palabra / Solo Tus Canciones \- Desde Ensayo](https://open.spotify.com/track/2PSc9sJMIqxHPPRzHhnVz2) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Ni una Sola Palabra / Solo Tus Canciones \(Desde Ensayo\)](https://open.spotify.com/album/56Y8yTpy76NMEeAgy6jfsE) | 3:32 | 2021-12-24 | 2022-07-16 |
 | [No Dire Que Si](https://open.spotify.com/track/0FJIMGhZs0KgL2tiEgeYlV) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p), [Pia Ka](https://open.spotify.com/artist/6cvXeCH32OR5AITdGlcoix) | [No Dire Que Si](https://open.spotify.com/album/6D9PhAmtEItNJZXHZHJoRj) | 3:33 | 2022-11-11 |  |
 | [No Es Cierto](https://open.spotify.com/track/5iMQjwcMNYQYUxTIZSa2u7) | [CÓMO DICE](https://open.spotify.com/artist/0kKSgKccwCUSqdNr4ovJDz) | [No Es Cierto](https://open.spotify.com/album/4csALsYcKamfcEsMl1xGNd) | 3:23 | 2022-06-03 | 2022-08-18 |
+| [No Es Lo Que Dices](https://open.spotify.com/track/1pWmkpmMmzuiFBSY5A4Tb9) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [No Es Lo Que Dices](https://open.spotify.com/album/7wD751cbpMxpXPwJriTfJi) | 3:12 | 2024-06-14 |  |
 | [No Estas Aqui](https://open.spotify.com/track/73i28XzPQ6IvzcSYawYpPO) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [No Estas Aqui](https://open.spotify.com/album/6y6jUwOWQZiiZ5tSix6mnV) | 3:02 | 2023-09-15 | 2023-09-23 |
 | [No Me Dejas Verla](https://open.spotify.com/track/2ENXszqOKxtExOhIkzxqYk) | [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [Pasión Cuartetera](https://open.spotify.com/album/5XExEXYKY3ON16D9HStCRs) | 3:24 | 2022-01-21 | 2022-07-27 |
 | [No Me Mientas](https://open.spotify.com/track/0mYPt9hLmZZvqWAbR9SdNj) | [Walter Olmos](https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N) | [A Pura Sangre](https://open.spotify.com/album/6F1Z5d0Hha07l3sfj2PrYh) | 3:59 | 2023-03-17 | 2024-04-19 |

@@ -82,7 +82,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 214080,
       "name": "Amor Sincero",
       "url": "https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y"
@@ -100,7 +100,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 203165,
       "name": "Apareciste",
       "url": "https://open.spotify.com/track/0HR8yOBRUAJCwy0RiooIYg"
@@ -118,7 +118,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 194228,
       "name": "Aspirina",
       "url": "https://open.spotify.com/track/6ALrReAwOmnpcC9L1GI8GD"
@@ -166,7 +166,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 209669,
       "name": "Ay Amor",
       "url": "https://open.spotify.com/track/2DIhapIzZgaCojayfVUNc7"
@@ -228,7 +228,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 202899,
       "name": "Canciones Con Mentiras",
       "url": "https://open.spotify.com/track/4Ve232oV2qClUrgGE89Ahu"
@@ -250,7 +250,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 198518,
       "name": "Colorao",
       "url": "https://open.spotify.com/track/6Jufm9ebf323m7IqC32UEN"
@@ -436,7 +436,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 189679,
       "name": "D\u00e9jame",
       "url": "https://open.spotify.com/track/7MhVLCLbMMKKg3gJCxsGey"
@@ -546,7 +546,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 168520,
       "name": "Esta Noche",
       "url": "https://open.spotify.com/track/4vhkI8x68EaGQR3Kn7Pwhc"
@@ -724,7 +724,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-12",
+      "date_removed": null,
       "duration_ms": 70992,
       "name": "La Vida",
       "url": "https://open.spotify.com/track/3Prf5JAbQgvxHclJaluYbv"
@@ -842,7 +842,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 197076,
       "name": "Mi Pecadito",
       "url": "https://open.spotify.com/track/5MlE71RdbkyVTuC0lvzWst"
@@ -1226,7 +1226,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 201040,
       "name": "Si Tu Amor No Vuelve",
       "url": "https://open.spotify.com/track/1Q2uBll5mMW8BY4T9XSrCo"
@@ -1292,6 +1292,24 @@
       "duration_ms": 183640,
       "name": "Sola Bonita",
       "url": "https://open.spotify.com/track/7tCdtaWLd8SJlCq9wsjGVO"
+    },
+    {
+      "album": {
+        "name": "Navegando",
+        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180896,
+      "name": "Solita Pa M\u00ed",
+      "url": "https://open.spotify.com/track/4dDsJaYNFjU1szgmhynlEV"
     },
     {
       "album": {
@@ -1406,7 +1424,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 206237,
       "name": "Tu Enemiga",
       "url": "https://open.spotify.com/track/3NxJKoYi9WMBuZdk4UdJuK"

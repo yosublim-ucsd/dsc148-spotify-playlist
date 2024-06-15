@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hVM8E.md) - [plain]
 
 ### [This Is La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1hVM8E)
 
-> This Is La Original Banda El Limón de Salvador Lizárraga\. Los temas esenciales, todos en una lista.
+> This is La Original Banda El Limón de Salvador Lizárraga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,173 likes - 51 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,179 likes - 51 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hVM8E.md) - [plain]
 | 18 | [El 24 De Junio](https://open.spotify.com/track/1K8OcTGhqE2o4bjVWcSxP1) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [25 Corridos Explosivos](https://open.spotify.com/album/1wqdhLWLKOu9l5R54oQtpM) | 2:47 |
 | 19 | [Laurita Garza](https://open.spotify.com/track/1WMqXkIY78VBdOW0DlWEy3) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Me Lo Contaron Ayer](https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT) | 3:06 |
 | 20 | [El Polvorete](https://open.spotify.com/track/1eKCq3MBykT0Z2vDn143Nt) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Corridos de Caballos y Gallos](https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL) | 2:11 |
-| 21 | [Qué Se Te Olvidó](https://open.spotify.com/track/2ThbhSqcxWoptGa0D33L0K) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Qué Se Te Olvidó](https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon) | 3:27 |
-| 22 | [Reproches al Viento](https://open.spotify.com/track/2XBtCwbTe8UDhf83YElXuY) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Lo Nuevo y Lo Mejor](https://open.spotify.com/album/3N6Y3m7YlvnYs94Zfnmcmu) | 3:41 |
+| 21 | [Reproches al Viento](https://open.spotify.com/track/2XBtCwbTe8UDhf83YElXuY) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Lo Nuevo y Lo Mejor](https://open.spotify.com/album/3N6Y3m7YlvnYs94Zfnmcmu) | 3:41 |
+| 22 | [Qué Se Te Olvidó](https://open.spotify.com/track/2ThbhSqcxWoptGa0D33L0K) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Qué Se Te Olvidó](https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon) | 3:27 |
 | 23 | [Fin de Semana](https://open.spotify.com/track/330607uBEh09fIWqWfZFBf) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G), [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Fin de Semana](https://open.spotify.com/album/4o0obEAe45w9aMgAx6fXqs) | 4:18 |
 | 24 | [El Cantador](https://open.spotify.com/track/4AMqtBTOctOO3CNCmBT27h) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Corridos de Caballos y Gallos](https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL) | 3:07 |
 | 25 | [Dos Gotas de Agua](https://open.spotify.com/track/5y9jffhDLOKtHBdEMVm0Ss) | [Julio Preciado](https://open.spotify.com/artist/332dFYM9sC7JH8UvRL1TiR), [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Más Original Que Nunca](https://open.spotify.com/album/4eq9E7F1vZHHvnQwmfMjhJ) | 2:53 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hVM8E.md) - [plain]
 | 50 | [Mis Tres Canciones](https://open.spotify.com/track/7nB30HoNUEgtv8rgDzRo54) | [Julio Preciado](https://open.spotify.com/artist/332dFYM9sC7JH8UvRL1TiR), [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Más Original Que Nunca](https://open.spotify.com/album/4eq9E7F1vZHHvnQwmfMjhJ) | 3:10 |
 | 51 | [Pa'que Me Sirve la Vida](https://open.spotify.com/track/7tc9bte3gaVOUv8se6zKVt) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Qué Se Te Olvidó](https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon) | 3:05 |
 
-Snapshot ID: `ZmjlAAAAAAAyJfbovOur4BdoquO7TwBU`
+Snapshot ID: `Zmo2gAAAAAC4LlKlF7AlKWx1WGyk+vIb`

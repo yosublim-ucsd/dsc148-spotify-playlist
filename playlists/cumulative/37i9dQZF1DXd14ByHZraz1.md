@@ -2,9 +2,9 @@
 
 ### [mint brasil](https://open.spotify.com/playlist/37i9dQZF1DXd14ByHZraz1)
 
-> Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Alok ❤️ Romana
+> Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Flux Zone
 
-190 songs - 9 hr 49 min
+191 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Feeling Good](https://open.spotify.com/track/1lA8kHc8maFVVa8pDXw2BN) | [HAWK.](https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft), [Ruiz](https://open.spotify.com/artist/3O2qgIUDvVtm7iXuzV7BTN), [ZHIKO](https://open.spotify.com/artist/0zr2hUrgdQC7g7v2fpd166) | [Feeling Good](https://open.spotify.com/album/0hlko6kYwEuUbQAmzsyDdL) | 2:46 | 2022-12-02 | 2024-03-23 |
 | [Flute](https://open.spotify.com/track/2PA7dRQno5zcM65bocvu08) | [Voltech](https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o) | [Flute](https://open.spotify.com/album/6pWeipE5YJialIcLkicui8) | 2:47 | 2024-04-26 |  |
 | [Fluttering](https://open.spotify.com/track/1nOugdbqhsI7KLDa591btz) | [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD) | [Fluttering](https://open.spotify.com/album/4nl8e63Gndd2tuQEIUlDrU) | 4:35 | 2024-01-19 |  |
-| [Focus \(Double MZK Remix\)](https://open.spotify.com/track/1EKXeIujIqra3DJhx3qqRT) | [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [Focus \(Double MZK Remix\)](https://open.spotify.com/album/0qo4zOP29YgQAWvbkP18RW) | 2:21 | 2023-06-30 |  |
+| [Focus \(Double MZK Remix\)](https://open.spotify.com/track/1EKXeIujIqra3DJhx3qqRT) | [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [Focus \(Double MZK Remix\)](https://open.spotify.com/album/0qo4zOP29YgQAWvbkP18RW) | 2:21 | 2023-06-30 | 2024-06-15 |
 | [Focus \- Double Mzk Remix](https://open.spotify.com/track/2pNc5obifxjvHxMiTRCoH0) | [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [Focus \(Double Mzk Remix\)](https://open.spotify.com/album/4SzaT0l2P7XNF2b2Ht1RDj) | 2:21 | 2023-12-08 | 2024-04-19 |
 | [Fractions](https://open.spotify.com/track/4JSUAxALzaXQHuhEVMvJ0v) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Fractions](https://open.spotify.com/album/3sTXDxpzc0If67LmjHUm0z) | 3:17 | 2022-12-02 | 2023-04-22 |
 | [fReAk o.O](https://open.spotify.com/track/0p0i2yxBoV1R7LH4RXsavZ) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv), [SPECT3R](https://open.spotify.com/artist/4NWK1Lp9NUDfJpAnSmAo4t) | [fReAk o.O](https://open.spotify.com/album/0aDuBR6kAzlVSVRPaGMwiO) | 3:00 | 2021-12-24 | 2023-11-18 |
@@ -170,6 +170,7 @@
 | [Sophisticated](https://open.spotify.com/track/0Wz8Q9U1m2UkZxCdYa47eH) | [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm), [Coppola](https://open.spotify.com/artist/3ZWMer3TwUiMxSFYqgfurT), [2STRANGE](https://open.spotify.com/artist/7mnsTGmApJRfHFs1ymmBIi) | [Reduto EP](https://open.spotify.com/album/6Enq0QVFspJuwf1hS6Qrdd) | 3:27 | 2024-04-26 |  |
 | [Spinnin' Circles](https://open.spotify.com/track/4AtbLOzVyOaFbzEzkQz15Q) | [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [Spinnin' Circles](https://open.spotify.com/album/7JMeqjNj2dDmm9hoDtgpio) | 3:46 | 2023-11-10 |  |
 | [Spirit](https://open.spotify.com/track/0oN2LfOJQfHiG2SkSJSW6o) | [Mary Mesk](https://open.spotify.com/artist/7Fc6qlNa6F4ONSLfJjlfjJ) | [Spirit](https://open.spotify.com/album/3Hj0YMITtJKGtG6ZwXEE4K) | 3:45 | 2023-07-21 | 2023-09-02 |
+| [Static](https://open.spotify.com/track/1mOfzqLMsP6DchvbFNKaHv) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Laau](https://open.spotify.com/artist/3s8bzEJ9jl1AvMHLNIXdNX) | [Static](https://open.spotify.com/album/7rfBYHKPPk1INwUs0uclpd) | 3:04 | 2024-06-14 |  |
 | [Stay](https://open.spotify.com/track/6syunUw85BZjNmMFAXQgL7) | [BRN](https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj) | [Stay](https://open.spotify.com/album/0AZKItvBz3FYt5N4PykMmc) | 3:11 | 2021-12-24 | 2022-12-03 |
 | [Summer In New York \- Öwnboss & Fancy Inc Remix](https://open.spotify.com/track/6aFXimZOxnkqIEshd7d4JE) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh) | [Summer In New York \(Öwnboss & Fancy Inc Remix\)](https://open.spotify.com/album/4PL8JCOUayJesajCrmpPav) | 2:38 | 2022-07-08 | 2022-11-26 |
 | [Sun Goes Down \(Sound Of Violence\)](https://open.spotify.com/track/66j6JvXOiT608Ivh98URW8) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Zerky](https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok) | [Sun Goes Down \(Sound Of Violence\)](https://open.spotify.com/album/1NAp32E06cqBEDevOLJCYm) | 4:05 | 2022-04-08 | 2023-05-13 |

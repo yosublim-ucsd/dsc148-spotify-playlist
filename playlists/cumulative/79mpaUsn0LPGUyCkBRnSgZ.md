@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-687 songs - 1 day 20 hr 41 min
+688 songs - 1 day 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,6 +462,7 @@
 | [Powderfinger \- 2016 Remaster](https://open.spotify.com/track/5F1CxsOXX6altKaKlEPuox) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [Crazy Horse](https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3) | [Rust Never Sleeps](https://open.spotify.com/album/2QqocFdpBkxOBLcIRo6UuJ) | 5:30 | 2024-03-22 |  |
 | [Pre \(feat\. SK La' Flare\)](https://open.spotify.com/track/4B31QOL13iBeuIsaGD20BS) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [Sk La Flare](https://open.spotify.com/artist/5punRQvOjE5COQqm6JRLhx) | [Doris](https://open.spotify.com/album/5vRfIDOPJHy3W2wHWbzLlE) | 2:52 | 2023-08-20 |  |
 | [Prelude To Ecstasy](https://open.spotify.com/track/1Bkv3iK8eRU6vu6uCspHuu) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 1:36 | 2024-03-01 |  |
+| [Pressure](https://open.spotify.com/track/3ruMQcure3yXNsZkDx0Dqh) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 1:58 | 2024-06-14 |  |
 | [Pretty Hurts](https://open.spotify.com/track/6itVTFZWfIA9J6XJaC1eMT) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BEYONCÉ](https://open.spotify.com/album/5JSDDzvVmUX1axvnUH3ZJy) | 4:17 | 2023-05-08 |  |
 | [Pretty Hurts](https://open.spotify.com/track/7lUA4P03AhwAw40JHkdyGr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 4:17 | 2022-09-17 | 2023-05-09 |
 | [Pretty Things](https://open.spotify.com/track/18AMwecxv5p3dIrLTbc3WE) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Capacity](https://open.spotify.com/album/3jXbdginoAtjcBqT7GcYRd) | 3:04 | 2022-02-19 |  |

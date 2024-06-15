@@ -4,7 +4,7 @@
 
 > Vibrez au rythme des hits urbains et Afro en feu 🎶
 
-79 songs - 4 hr 1 min
+80 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Quillé](https://open.spotify.com/track/05tF2Drqpc0hbHyh071354) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Quillé](https://open.spotify.com/album/1V6CDWdhrcfLbRECo7ERLF) | 3:00 | 2024-05-14 |  |
 | [RAZONES \(feat\. Morad\)](https://open.spotify.com/track/62OmBF30kfTb0XLbGZPeTS) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:04 | 2024-03-26 |  |
 | [Safi Safi \(feat\. Draganov\)](https://open.spotify.com/track/6f8PWwc97weAep3rXAeXyv) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [PIZZA KEBAB Vol\. 1](https://open.spotify.com/album/36pfG4aLiawluO8PgGZkeh) | 2:45 | 2024-03-26 |  |
+| [Samira](https://open.spotify.com/track/0Ey3GrVLmtUuOdFSWoYhc1) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW) | [Samira](https://open.spotify.com/album/2WrIHAV81oNqgoMikM6kFJ) | 2:53 | 2024-06-14 |  |
 | [Shayo](https://open.spotify.com/track/2e7qqQ8MkLa0h5xmHL5cso) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [LVDR](https://open.spotify.com/album/5RVH7GP0pwyS3KMnRurfj1) | 2:41 | 2024-06-14 |  |
 | [Si Si](https://open.spotify.com/track/5iFu4sGrA7CqC6TYXn8sKc) | [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Dj Leska](https://open.spotify.com/artist/6CSKMBCeQhddsPL63zvDhX), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Si Si](https://open.spotify.com/album/2q0V1wmNVUpZUxYy85r1y3) | 3:00 | 2024-06-14 |  |
 | [SO HIGH](https://open.spotify.com/track/4nQfvKT9yLvccSIpQgJ8ME) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 3:56 | 2024-03-26 |  |
@@ -86,6 +87,6 @@
 | [Wine](https://open.spotify.com/track/1KyRQJGLLkuEQC9Y0aeI9U) | [Dawda](https://open.spotify.com/artist/5CtgmVTepFFoGGtuXsPKFj) | [Wine](https://open.spotify.com/album/3HvRgamjEvg5mSB6ergRjc) | 2:18 | 2024-05-17 |  |
 | [Wsalni MSG](https://open.spotify.com/track/5REou7BKcQgFUOe6tTUXBD) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr), [Flack](https://open.spotify.com/artist/3Fi4gBbVvIHrqEG9TGwRTC) | [Wsalni MSG](https://open.spotify.com/album/0QftcGAPGyjwlZespn29DU) | 2:36 | 2024-03-26 |  |
 | [Yemma](https://open.spotify.com/track/3i9rNpToR25Cx5XdkStxn2) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q) | [Yemma](https://open.spotify.com/album/1kPducajpmz3HQOF9e8BoA) | 2:37 | 2024-03-26 |  |
-| [ZIGZAG](https://open.spotify.com/track/2Pn4RjpmuYRMJTXWzTonXn) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [ZIGZAG](https://open.spotify.com/album/00AGiSuiFx3kmEIbj0ENeK) | 2:48 | 2024-03-26 |  |
+| [ZIGZAG](https://open.spotify.com/track/2Pn4RjpmuYRMJTXWzTonXn) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [ZIGZAG](https://open.spotify.com/album/00AGiSuiFx3kmEIbj0ENeK) | 2:48 | 2024-03-26 | 2024-06-15 |
 
 \*This playlist was first scraped on 2024-04-08. Prior content cannot be recovered.

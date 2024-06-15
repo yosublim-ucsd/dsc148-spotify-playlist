@@ -6191,6 +6191,28 @@
     },
     {
       "album": {
+        "name": "Kiss Me",
+        "url": "https://open.spotify.com/album/1RLqpCyfOigWVl2ufmXNGP"
+      },
+      "artists": [
+        {
+          "name": "King Henry",
+          "url": "https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5"
+        },
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235533,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/2UYNxBhod7KpjKEFlmHm2b"
+    },
+    {
+      "album": {
         "name": "Kiss Me (feat. Rina Sawayama)",
         "url": "https://open.spotify.com/album/3dYzgkq8CgNH72HHYmNfCQ"
       },
@@ -12044,7 +12066,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 176756,
       "name": "With A Smile",
       "url": "https://open.spotify.com/track/26VCyPfEWFecgJSq3SrF4o"

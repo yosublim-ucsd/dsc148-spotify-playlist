@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 
 > ¡A preparar la comida con la sazón de música tradicional y deliciosa! 🍅🌶️🍲🎵👩‍🍳
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,594 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,596 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 | 58 | [La Xochipitzahuatl](https://open.spotify.com/track/7pu8bUkiBOS3pHo8rAscBu) | [Lone Piñon](https://open.spotify.com/artist/4UBJuZ2FKZ6owInHfbzJIR) | [Trio Nuevomexicano](https://open.spotify.com/album/2BhVhNFrWNjkcYGSstwY5b) | 3:59 |
 | 59 | [Maria Cristina \- Remastered](https://open.spotify.com/track/5sdcFoCzltb0otINxAFwdl) | [Ñico Saquito](https://open.spotify.com/artist/0OThc8JLqTb1ThkLfsIGUi) | [María Cristina \(Remastered\)](https://open.spotify.com/album/0DoO50j6mZVJ3W7vf1YRW3) | 2:38 |
 | 60 | [Mambo Los Quantic](https://open.spotify.com/track/1JqhsppZflCRYSjP9FX5bG) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Quantic and His Combo Barbaro](https://open.spotify.com/artist/7zc5IwPnsT4IxqtsqVwcSN) | [The Power of the Latin Music](https://open.spotify.com/album/52ToIjbxyelIv0ummj6LeE) | 4:43 |
-| 61 | [Limon En La Cabeza](https://open.spotify.com/track/3NLbpJkkXWoThhEe4RB9t5) | [Gecko Turner](https://open.spotify.com/artist/3vGEIjEdCD0TeZDOMkoaFg) | [Guapapasea!](https://open.spotify.com/album/1YjFIHAJ5SGF1x724MoFYP) | 5:31 |
-| 62 | [El Pájaro Cú \- Live](https://open.spotify.com/track/1xNL418AYlSEzWH4Z8EGFh) | [Son De Madera](https://open.spotify.com/artist/5IjDhtfKUReD5VeIeynKme) | [Concierto en Vivo \(Vienna, Austria\)](https://open.spotify.com/album/3d1bOU7YIj8UwvDRFI7qll) | 5:05 |
+| 61 | [El Pájaro Cú \- Live](https://open.spotify.com/track/1xNL418AYlSEzWH4Z8EGFh) | [Son De Madera](https://open.spotify.com/artist/5IjDhtfKUReD5VeIeynKme) | [Concierto en Vivo \(Vienna, Austria\)](https://open.spotify.com/album/3d1bOU7YIj8UwvDRFI7qll) | 5:05 |
+| 62 | [Limon En La Cabeza](https://open.spotify.com/track/3NLbpJkkXWoThhEe4RB9t5) | [Gecko Turner](https://open.spotify.com/artist/3vGEIjEdCD0TeZDOMkoaFg) | [Guapapasea!](https://open.spotify.com/album/1YjFIHAJ5SGF1x724MoFYP) | 5:31 |
 | 63 | [Cumbia Pa Modernos](https://open.spotify.com/track/48msusnRNPnqKeD9nFA1mB) | [Charanga Cakewalk](https://open.spotify.com/artist/6n57hcHUAiNVQ8CwSOz2SN) | [El Brown Recluse](https://open.spotify.com/album/1nZ9k3BHISZbbTy3uIMV7O) | 4:19 |
 | 64 | [Caramelos](https://open.spotify.com/track/2xirjKVetY5wxvw3hAuELH) | [Celia Cruz y La Sonora Matancera](https://open.spotify.com/artist/3WaTkjZxpbGDryRuQTtj1g) | [Los Originales Vol\. 3](https://open.spotify.com/album/39Xoa9wbneSzbysFRzkVmw) | 2:37 |
 | 65 | [Jacarandosa \- Remastered](https://open.spotify.com/track/43gIa4GPVqRnI7xEon9P6j) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Por siempre Los Panchos, Vol\. 1 \- Noche de ronda y otros éxitos \(Remastered\)](https://open.spotify.com/album/5Z5H3W0jLUyhzY8Fr1CDe8) | 3:06 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 | 90 | [Color Café](https://open.spotify.com/track/2HkMTu0szIT4uXkoXi5q5s) | [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag) | [Esencia Solar](https://open.spotify.com/album/0SQoG3m9WHdMkAzWNWOTlW) | 2:09 |
 | 91 | [Guantanamera](https://open.spotify.com/track/0h70Itu2CDgjn7tT2O8549) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Coleccion de Oro](https://open.spotify.com/album/6WuhBG8F4Izrfmzsb3Fs2y) | 2:43 |
 | 92 | [Sonido Amazonico](https://open.spotify.com/track/2iVUP0Pp37gy6GBRKm9lcg) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x) | [Sonido Amazonico!](https://open.spotify.com/album/1gbenbhLRcuY5PaLmRrlPt) | 4:17 |
-| 93 | [Paga la Cuenta Sinvergüenza](https://open.spotify.com/track/2qSwLZX8vdTsox4IPbQLB8) | [Manzanita y su Conjunto](https://open.spotify.com/artist/5ybBgREkVrODhrtj94QBkc) | [The Best of Chicha: Cumbias, Vol\. 5 \(Spicy Tropical Sounds from Perú\)](https://open.spotify.com/album/5MXDE3BEHOpUoROq53KGnn) | 3:13 |
-| 94 | [Por Las Calles De México](https://open.spotify.com/track/3GKrRfIER0czGwKHuTSnMD) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Serie De Colección 15 Auténticos Éxitos](https://open.spotify.com/album/4RN5IHsk0sNkUpG8ELO633) | 2:46 |
-| 95 | [La Llorona](https://open.spotify.com/track/6wLJjaPujX9AXNvq6OZdDj) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [March of the Zapotec & Realpeople: Holland](https://open.spotify.com/album/7Kub5Byrb3ZLkcCmfODDfy) | 3:36 |
+| 93 | [Por Las Calles De México](https://open.spotify.com/track/3GKrRfIER0czGwKHuTSnMD) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Serie De Colección 15 Auténticos Éxitos](https://open.spotify.com/album/4RN5IHsk0sNkUpG8ELO633) | 2:46 |
+| 94 | [La Llorona](https://open.spotify.com/track/6wLJjaPujX9AXNvq6OZdDj) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [March of the Zapotec & Realpeople: Holland](https://open.spotify.com/album/7Kub5Byrb3ZLkcCmfODDfy) | 3:36 |
+| 95 | [Tengo una Debilidad](https://open.spotify.com/track/3NnXt3aUWvKDsnEsjDdmOB) | [Antonio Machín](https://open.spotify.com/artist/30iuQTTr3l7QihN6KKgJrG) | [Mis 50 Boleros Más Románticos](https://open.spotify.com/album/1H4s4w4fVumN14ipdymows) | 2:36 |
 | 96 | [Tu Voz](https://open.spotify.com/track/2jdasf6mLTfnf4D7HyN7dC) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Cuba](https://open.spotify.com/album/7C4Ju0QXdGSv9zquXxCktP) | 3:21 |
-| 97 | [Tengo una Debilidad](https://open.spotify.com/track/3NnXt3aUWvKDsnEsjDdmOB) | [Antonio Machín](https://open.spotify.com/artist/30iuQTTr3l7QihN6KKgJrG) | [Mis 50 Boleros Más Románticos](https://open.spotify.com/album/1H4s4w4fVumN14ipdymows) | 2:36 |
+| 97 | [Paletero](https://open.spotify.com/track/7ItyQF5aDdr6kizFmQ1u7T) | [Las Cafeteras](https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz) | [Tastes Like L.A.](https://open.spotify.com/album/5SHxpx9zusBX63FOcIo45w) | 3:55 |
 | 98 | [Limón](https://open.spotify.com/track/1j2hwajHISJ0BmrAd7y3AK) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Pa'lante](https://open.spotify.com/album/1IgfNMFIkkqSoZpjp1aEf9) | 4:32 |
-| 99 | [Paletero](https://open.spotify.com/track/7ItyQF5aDdr6kizFmQ1u7T) | [Las Cafeteras](https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz) | [Tastes Like L.A.](https://open.spotify.com/album/5SHxpx9zusBX63FOcIo45w) | 3:55 |
-| 100 | [Hot Tamales \(Los Tamalitos De Olga\)](https://open.spotify.com/track/3zZHmISLTaGk3wbYu3Ct0o) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [The Complete 78s Volume IV](https://open.spotify.com/album/6qCccqKzNPWnQwP0jTGgYK) | 2:33 |
+| 99 | [Hot Tamales \(Los Tamalitos De Olga\)](https://open.spotify.com/track/3zZHmISLTaGk3wbYu3Ct0o) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [The Complete 78s Volume IV](https://open.spotify.com/album/6qCccqKzNPWnQwP0jTGgYK) | 2:33 |
+| 100 | [Paga la Cuenta Sinvergüenza](https://open.spotify.com/track/2qSwLZX8vdTsox4IPbQLB8) | [Manzanita y su Conjunto](https://open.spotify.com/artist/5ybBgREkVrODhrtj94QBkc) | [The Best of Chicha: Cumbias, Vol\. 5 \(Spicy Tropical Sounds from Perú\)](https://open.spotify.com/album/5MXDE3BEHOpUoROq53KGnn) | 3:13 |
 
 Snapshot ID: `ZjpPKgAAAAAoGtx493lRxn+0UI531RFX`

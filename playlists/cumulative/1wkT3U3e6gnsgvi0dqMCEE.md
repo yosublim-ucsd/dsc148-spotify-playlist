@@ -4,7 +4,7 @@
 
 > All of your favourites, new favourites, live favourites and unearthed soon to be favourites\. For up to date new releases and exclusives from your favourite artists, Follow uDiscover <a href="https://udiscoverca.lnk.to/udiscovermusicca">here</a>
 
-141 songs - 8 hr 59 min
+145 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Bring Me To Life](https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:55 | 2023-10-16 | 2024-05-24 |
 | [Brother Down](https://open.spotify.com/track/32WrsvD69H6sSLCPQo5WNy) | [Sam Roberts Band](https://open.spotify.com/artist/09XH90DXG8hru6NN96GbA0) | [We Were Born In A Flame](https://open.spotify.com/album/3AoWVHZuuu68ZVOy1R55l9) | 4:24 | 2023-10-16 | 2024-05-24 |
 | [Cecilia And The Satellite](https://open.spotify.com/track/1MSM3Fo2fvnwVqMcz8Jhjq) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Andrew McMahon In The Wilderness](https://open.spotify.com/album/4IVdl0FxI7cpwyLh8JWOdG) | 3:43 | 2023-10-16 | 2024-05-24 |
+| [Ch\-Check It Out](https://open.spotify.com/track/56H98l4uinRifnTH8e308N) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [To The 5 Boroughs](https://open.spotify.com/album/4nnQZQWLibK1VIhCGDFjk3) | 3:12 | 2024-06-14 |  |
 | [Chasing Cars](https://open.spotify.com/track/11bD1JtSjlIgKgZG2134DZ) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/6fb7z9rBdrjzpBTg1R1Bwp) | 4:27 | 2023-10-16 | 2024-05-24 |
 | [Chocolate](https://open.spotify.com/track/44Ljlpy44mHvLJxcYUvTK0) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb) | 3:44 | 2023-10-16 | 2024-05-24 |
 | [Cigarette Daydreams](https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:28 | 2023-10-16 | 2024-05-24 |
@@ -35,6 +36,7 @@
 | [Dirty Day \- Bitter Kiss / Remastered 2024](https://open.spotify.com/track/3sTp2O4tnaMl2yQEAXLMyH) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Please](https://open.spotify.com/album/1jmFAkO4iGbznWncVkF99A) | 4:34 | 2024-05-23 |  |
 | [Dirty Paws](https://open.spotify.com/track/5g7rJvWYVrloJZwKiShqlS) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) | 4:38 | 2023-10-16 | 2024-05-24 |
 | [Dog Days Are Over](https://open.spotify.com/track/456WNXWhDwYOSf5SpTuqxd) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 4:12 | 2023-10-16 | 2024-05-24 |
+| [Don't You \(Forget About Me\)](https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Once Upon A Time \(Super Deluxe\)](https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm) | 4:23 | 2024-06-14 |  |
 | [Electric Love](https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 3:38 | 2023-10-16 | 2024-05-24 |
 | [Everybody Talks](https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Picture Show](https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr) | 2:57 | 2023-10-16 | 2024-05-24 |
 | [Eyes Closed](https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Eyes Closed](https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG) | 3:20 | 2024-05-23 |  |
@@ -59,6 +61,7 @@
 | [Junior’s Farm \- One Hand Clapping Sessions](https://open.spotify.com/track/6lJsXhblNzOE5blSKK3OSx) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Junior’s Farm \(One Hand Clapping Sessions\)](https://open.spotify.com/album/38Qtqakfwl6TLZ02eKdr5Y) | 4:17 | 2024-05-23 |  |
 | [Just A Girl](https://open.spotify.com/track/5rIkE2zdyUfdDWfWpSwmge) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [The Set List](https://open.spotify.com/album/7Gt5hv82rfRokHQP9a4vAu) | 3:25 | 2024-05-23 |  |
 | [Just Dippin'](https://open.spotify.com/track/1iYWNf225EUIESs4svZudx) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Jewell](https://open.spotify.com/artist/05cqfWVtssCo3KVcqEAYG3) | [No Limit Top Dogg](https://open.spotify.com/album/2evskaXutnTkQAaZeT4PQb) | 4:02 | 2024-05-31 |  |
+| [Just Like 73 \- Tom Morello Version](https://open.spotify.com/track/11DxHa7QIQ5NfdiHstN2O2) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Just Like 73 \(Tom Morello Version\)](https://open.spotify.com/album/7afy0Ytt67hzFxYlLzmKyq) | 3:43 | 2024-06-14 |  |
 | [King Of Pain \- Demo](https://open.spotify.com/track/3zygIi9BmfAo6ORqJlfyqv) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [King Of Pain \(Demo\)](https://open.spotify.com/album/01eQ5d9ozwnYAdAFVzPo7z) | 4:14 | 2024-05-31 |  |
 | [Kryptonite](https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 3:53 | 2023-10-16 | 2024-05-24 |
 | [Legendary](https://open.spotify.com/track/0NJKX45ZZnGWyDcEnoH7C5) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Legendary](https://open.spotify.com/album/4Qp0INJYYCPCOnUpOREZnb) | 4:05 | 2024-05-23 |  |
@@ -107,6 +110,7 @@
 | [She Keeps Me Up](https://open.spotify.com/track/6I0ivNW5YryeC3GQn56NAy) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [No Fixed Address](https://open.spotify.com/album/2mepXKJlgU28VBwkSXjWfY) | 3:57 | 2023-10-16 | 2024-05-24 |
 | [Sledgehammer \- Remastered](https://open.spotify.com/track/2CfavwjTJrKGxy9fiU4otq) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(Special Edition\)](https://open.spotify.com/album/6NuXor1nnxUMgx4rF592Js) | 5:13 | 2024-05-23 |  |
 | [Smooth Criminal](https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Anthology](https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5) | 3:29 | 2023-10-16 | 2024-05-24 |
+| [Soily \- One Hand Clapping Sessions](https://open.spotify.com/track/4ahgYKeOdXFQvnMBL2kLDZ) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [One Hand Clapping](https://open.spotify.com/album/5bo520v8a72MrqnQNCPh5Y) | 3:56 | 2024-06-14 |  |
 | [Somebody That I Used To Know](https://open.spotify.com/track/1qDrWA6lyx8cLECdZE7TV7) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/4G2rJNhsKOE6iHgtUqZ0Ye) | 4:04 | 2023-10-16 | 2024-05-24 |
 | [Somebody Told Me](https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:17 | 2023-10-16 | 2024-05-24 |
 | [Somewhere Only We Know \- Remastered 2024](https://open.spotify.com/track/1mZim3jV9mFvTlf52pnM5H) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears 20](https://open.spotify.com/album/0k4IFAPbeI1mP7TEoTxOEY) | 3:55 | 2024-05-23 |  |

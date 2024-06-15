@@ -1,12 +1,12 @@
 {
   "description": "This is Maren Morris. The essential tracks, all in one playlist.",
-  "num_followers": 72307,
+  "num_followers": 72327,
   "original_name": "This Is Maren Morris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjlAAAAAAA3A7dRRLcdcJUynQtAc//4",
+  "snapshot_id": "Zmo2gAAAAADzFcX3DDz/hJiLiu6X1VX/",
   "tracks": [
     {
       "added_at": null,
@@ -47,38 +47,6 @@
       "duration_ms": 184732,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 197293,
-      "name": "The Bones",
-      "url": "https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HERO (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 197930,
-      "name": "My Church",
-      "url": "https://open.spotify.com/track/1LM5zQv5pBKPyO7rm7Uz6U"
     },
     {
       "added_at": null,
@@ -163,22 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HERO (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 196421,
-      "name": "I Could Use a Love Song",
-      "url": "https://open.spotify.com/track/09iyGiljLWRYXdRazFkdtJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Flicker (Deluxe)",
         "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
       },
@@ -231,26 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fearless (Taylor's Version)",
-        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 220839,
-      "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/4CHpVfAhuxNJ3ibExe6kxO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GIRL",
         "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
       },
@@ -291,38 +223,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Highwomen",
-        "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
+        "name": "Line By Line (feat. Maren Morris)",
+        "url": "https://open.spotify.com/album/0a6mnIEhvLCsIKZNGRcjaK"
       },
       "artists": [
         {
-          "name": "The Highwomen",
-          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
         },
         {
           "name": "Maren Morris",
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "Amanda Shires",
-          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
-        },
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
         }
       ],
-      "duration_ms": 212480,
-      "name": "Highwomen",
-      "url": "https://open.spotify.com/track/0CTNLJMN9dMG4cl5qgsZSv"
+      "duration_ms": 208186,
+      "name": "Line By Line (feat. Maren Morris)",
+      "url": "https://open.spotify.com/track/2gA74HvN6NKFrhgzpd5oNE"
     },
     {
       "added_at": null,
@@ -355,26 +271,6 @@
       "duration_ms": 195586,
       "name": "To Hell & Back",
       "url": "https://open.spotify.com/track/4Yy1VOdLAX7MuKQOcivV4O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Line By Line (feat. Maren Morris)",
-        "url": "https://open.spotify.com/album/0a6mnIEhvLCsIKZNGRcjaK"
-      },
-      "artists": [
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 208186,
-      "name": "Line By Line (feat. Maren Morris)",
-      "url": "https://open.spotify.com/track/2gA74HvN6NKFrhgzpd5oNE"
     },
     {
       "added_at": null,
@@ -431,22 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 250653,
-      "name": "GIRL",
-      "url": "https://open.spotify.com/track/0pGXe7umwkcCm01Ipoxp0U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -479,6 +359,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 250653,
+      "name": "GIRL",
+      "url": "https://open.spotify.com/track/0pGXe7umwkcCm01Ipoxp0U"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Humble Quest",
         "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
       },
@@ -495,34 +391,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "HERO (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
+        "name": "Black",
+        "url": "https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux"
       },
       "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        },
         {
           "name": "Maren Morris",
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 186560,
-      "name": "Bummin' Cigarettes",
-      "url": "https://open.spotify.com/track/1C9Pf4MPHdv0FtEGkHz8F4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 187640,
-      "name": "The Feels",
-      "url": "https://open.spotify.com/track/4c10Mtlt9dPeKvP61sicAs"
+      "duration_ms": 210600,
+      "name": "I'll Be The Moon",
+      "url": "https://open.spotify.com/track/0kIlh2nOwIxx4SgoDrRWDG"
     },
     {
       "added_at": null,
@@ -559,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Restoration: The Songs Of Elton John And Bernie Taupin",
-        "url": "https://open.spotify.com/album/25I3CO8X3zQvoEySDD2UIP"
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
       },
       "artists": [
         {
@@ -568,9 +452,9 @@
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 304026,
-      "name": "Mona Lisas And Mad Hatters",
-      "url": "https://open.spotify.com/track/3sZpfLcumDW0henSU6wbie"
+      "duration_ms": 187640,
+      "name": "The Feels",
+      "url": "https://open.spotify.com/track/4c10Mtlt9dPeKvP61sicAs"
     },
     {
       "added_at": null,
@@ -584,9 +468,25 @@
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 240061,
-      "name": "I Wish I Was",
-      "url": "https://open.spotify.com/track/0CqvhN7ChNjQf4tHp5rKTv"
+      "duration_ms": 186560,
+      "name": "Bummin' Cigarettes",
+      "url": "https://open.spotify.com/track/1C9Pf4MPHdv0FtEGkHz8F4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Restoration: The Songs Of Elton John And Bernie Taupin",
+        "url": "https://open.spotify.com/album/25I3CO8X3zQvoEySDD2UIP"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 304026,
+      "name": "Mona Lisas And Mad Hatters",
+      "url": "https://open.spotify.com/track/3sZpfLcumDW0henSU6wbie"
     },
     {
       "added_at": null,
@@ -632,9 +532,25 @@
           "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
         }
       ],
-      "duration_ms": 193373,
-      "name": "If She Ever Leaves Me",
-      "url": "https://open.spotify.com/track/7eU4GSfrANUlZBptlflhR5"
+      "duration_ms": 345026,
+      "name": "Old Soul",
+      "url": "https://open.spotify.com/track/7sya6fSaMhZmcLYMckxpZm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HERO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 240061,
+      "name": "I Wish I Was",
+      "url": "https://open.spotify.com/track/0CqvhN7ChNjQf4tHp5rKTv"
     },
     {
       "added_at": null,
@@ -651,6 +567,22 @@
       "duration_ms": 136546,
       "name": "Make Out With Me",
       "url": "https://open.spotify.com/track/1XfDYxQ8o7yZN7lbKECwHE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Humble Quest",
+        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 214186,
+      "name": "Background Music",
+      "url": "https://open.spotify.com/track/2QgLakrVOFqkpR2lmMQ6FT"
     },
     {
       "added_at": null,
@@ -675,22 +607,6 @@
       "duration_ms": 232706,
       "name": "Look At Us Now (Honeycomb)",
       "url": "https://open.spotify.com/track/15k7Cy2QyZYV9getS22KXI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Humble Quest",
-        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 214186,
-      "name": "Background Music",
-      "url": "https://open.spotify.com/track/2QgLakrVOFqkpR2lmMQ6FT"
     },
     {
       "added_at": null,
@@ -720,9 +636,41 @@
           "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
         }
       ],
-      "duration_ms": 345026,
-      "name": "Old Soul",
-      "url": "https://open.spotify.com/track/7sya6fSaMhZmcLYMckxpZm"
+      "duration_ms": 150746,
+      "name": "My Name Can't Be Mama",
+      "url": "https://open.spotify.com/track/1LHbCL6O09Yqi21XGAIU0U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 194453,
+      "name": "A Song for Everything",
+      "url": "https://open.spotify.com/track/59C9WyONT72bKyaystIzjq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Humble Quest",
+        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 204240,
+      "name": "Humble Quest",
+      "url": "https://open.spotify.com/track/2kxytjpDPwjZGqVLH8eWkr"
     },
     {
       "added_at": null,
@@ -759,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Humble Quest",
-        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 204240,
-      "name": "Humble Quest",
-      "url": "https://open.spotify.com/track/2kxytjpDPwjZGqVLH8eWkr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "in defense of my own happiness",
         "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
       },
@@ -791,6 +723,22 @@
       "duration_ms": 186986,
       "name": "Bigger Man (with Maren Morris)",
       "url": "https://open.spotify.com/track/3Dd9ip26FejJl8qi6mJ7M8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Humble Quest",
+        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 247400,
+      "name": "Detour",
+      "url": "https://open.spotify.com/track/2nijz65bLAu51eZLFQ0naN"
     },
     {
       "added_at": null,
@@ -831,18 +779,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Humble Quest",
-        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
+        "name": "The Highwomen",
+        "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
       "artists": [
         {
+          "name": "The Highwomen",
+          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        },
+        {
           "name": "Maren Morris",
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        },
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
         }
       ],
-      "duration_ms": 247400,
-      "name": "Detour",
-      "url": "https://open.spotify.com/track/2nijz65bLAu51eZLFQ0naN"
+      "duration_ms": 234133,
+      "name": "Heaven Is A Honky Tonk",
+      "url": "https://open.spotify.com/track/5pg5piAxkAjXqA7aXnOw5Z"
     },
     {
       "added_at": null,
@@ -859,6 +827,38 @@
       "duration_ms": 175213,
       "name": "Nervous",
       "url": "https://open.spotify.com/track/3AMUgKRaujIuutpMw4K7Zn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Humble Quest",
+        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 234493,
+      "name": "The Furthest Thing",
+      "url": "https://open.spotify.com/track/6onpcMnD3eVbTq1B5th05E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HERO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 189146,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/41e2LhE1nFYh41vIteVA5u"
     },
     {
       "added_at": null,
@@ -907,8 +907,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Humble Quest",
-        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
+        "name": "HERO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
       },
       "artists": [
         {
@@ -916,9 +916,9 @@
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 234493,
-      "name": "The Furthest Thing",
-      "url": "https://open.spotify.com/track/6onpcMnD3eVbTq1B5th05E"
+      "duration_ms": 205619,
+      "name": "How It's Done",
+      "url": "https://open.spotify.com/track/0ZUCKcWdFABozlSmojDyLZ"
     }
   ],
   "unique_name": "This Is Maren Morris",

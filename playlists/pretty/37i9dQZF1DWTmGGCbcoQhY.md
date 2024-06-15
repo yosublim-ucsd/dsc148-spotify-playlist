@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 
 > ¡Un sa\-sa\-saludo a todos los amantes de la cu\-cu\-cumbia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,314,669 likes - 125 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,314,776 likes - 125 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,8 +129,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 | 119 | [Cumbia Buena](https://open.spotify.com/track/7q1deBagSVG5uBI2GDawqK) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/1SkeaJEMkfIDuQlCFJb8wC) | 3:33 |
 | 120 | [Amor a Primera Vista \(Cumbia Ecuatoriana\)](https://open.spotify.com/track/1bAKqVOcR0VmoGaQwPnzCa) | [Cumbias Epcm](https://open.spotify.com/artist/54JRdEn6iibgAV3WHt37VJ) | [Amor a Primera Vista \(Cumbia Ecuatoriana\)](https://open.spotify.com/album/33Y9PpG0mFkNPo5sn3PZgf) | 6:04 |
 | 121 | [Abandonado](https://open.spotify.com/track/7beUIItCNM3LL6OmQJAgxh) | [Efrén David](https://open.spotify.com/artist/5j8A0drRTB6kfW70XY9J2g) | [Recuerdos](https://open.spotify.com/album/6nPG2HfxfgQpQzeMLUAKyX) | 4:31 |
-| 122 | [Un Poblano en New York](https://open.spotify.com/track/3H432gSVA7YWDccqx2bvXQ) | [Los Yes Yes](https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q) | [Cumbia Urbana del Pueblo y para el Pueblo, Vol\. 2](https://open.spotify.com/album/5BuCSY4KVyIBcvd1WGLPj6) | 3:08 |
-| 123 | [El Baile De San Juan](https://open.spotify.com/track/3OWgaoLMcjnF6RRbzZrS7O) | [Grupo La Chomba](https://open.spotify.com/artist/1PU5TO9w2QczOKNvSjtctd) | [Con Musica Del Barrio y Para El Barrio](https://open.spotify.com/album/35L0etvGB9w2whJfmkkXQo) | 4:14 |
+| 122 | [El Baile De San Juan](https://open.spotify.com/track/3OWgaoLMcjnF6RRbzZrS7O) | [Grupo La Chomba](https://open.spotify.com/artist/1PU5TO9w2QczOKNvSjtctd) | [Con Musica Del Barrio y Para El Barrio](https://open.spotify.com/album/35L0etvGB9w2whJfmkkXQo) | 4:14 |
+| 123 | [Un Poblano en New York](https://open.spotify.com/track/3H432gSVA7YWDccqx2bvXQ) | [Los Yes Yes](https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q) | [Cumbia Urbana del Pueblo y para el Pueblo, Vol\. 2](https://open.spotify.com/album/5BuCSY4KVyIBcvd1WGLPj6) | 3:08 |
 | 124 | [Amor Sin Primavera](https://open.spotify.com/track/0SPeRV2ZKS9SBgNg9MOHZe) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Los Gigantes De La Cumbia, Vol\. 1, Disco 1](https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly) | 3:52 |
 | 125 | [Corazón Solitario](https://open.spotify.com/track/7pxs0seevgCsp3h23lUGBw) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guarachando](https://open.spotify.com/album/18alqYy5VLW7BxT86gmAGI) | 4:03 |
 

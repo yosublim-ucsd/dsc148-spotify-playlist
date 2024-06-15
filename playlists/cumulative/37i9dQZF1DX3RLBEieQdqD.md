@@ -2,9 +2,9 @@
 
 ### [Ranchenato](https://open.spotify.com/playlist/37i9dQZF1DX3RLBEieQdqD)
 
-> ¡Popular, Mariachi, Vallenato y más pa' sentarse a beber! Foto: Diego Daza
+> ¡Popular, Mariachi, Vallenato y más pa' sentarse a beber! Foto: Yeison Jiménez & Pipe Bueno
 
-188 songs - 10 hr 58 min
+189 songs - 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Cupido](https://open.spotify.com/track/26PCa9oiL7a8frOxeo4G52) | [Diego Daza](https://open.spotify.com/artist/6Rx5xY11vfnmOp312VzXMc), [Carlos Rueda](https://open.spotify.com/artist/7LVgdS3biF4E0taTah5GEW) | [A To' Timbal](https://open.spotify.com/album/62XE6gFwbqHghQwsifIVyO) | 3:26 | 2023-09-01 |  |
 | [Cupido Falló](https://open.spotify.com/track/42RKuMMmSjr4AX3m5RRm8L) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Cupido Falló](https://open.spotify.com/album/5dhqkA6KOXgukDTilRTAj0) | 3:17 | 2022-08-18 |  |
 | [Cómo Lo Hizo](https://open.spotify.com/track/5oQ12KlSu359ek2vpJTMX3) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Sigo Invicto](https://open.spotify.com/album/5nrVqq5BEfcoOYJ1eQQ0ki) | 4:04 | 2022-08-18 |  |
-| [De Lejitos](https://open.spotify.com/track/2lTeOWfZmsXtfrbQn9ehg9) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [De Lejitos](https://open.spotify.com/album/076eF9kL3zTknU67VEJaUW) | 2:39 | 2024-03-29 |  |
+| [De Lejitos](https://open.spotify.com/track/2lTeOWfZmsXtfrbQn9ehg9) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [De Lejitos](https://open.spotify.com/album/076eF9kL3zTknU67VEJaUW) | 2:39 | 2024-03-29 | 2024-06-15 |
 | [De Lejitos](https://open.spotify.com/track/5uJPN3dCdYpDV5pa9llRAT) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [De Lejitos](https://open.spotify.com/album/7lNO8DgAnX90iKx5xHDEbw) | 2:39 | 2024-01-19 | 2024-04-19 |
 | [De Los Besos Que Te Di](https://open.spotify.com/track/2ttoeuNKXixDHom5rRvowm) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [De Los Besos Que Te Di](https://open.spotify.com/album/7273WdaYjbonC99OSZ9Fey) | 2:47 | 2022-08-18 |  |
 | [DE LUNES A LUNES](https://open.spotify.com/track/7yci6r0cjX0Np5AshDZOsR) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [DE LUNES A LUNES](https://open.spotify.com/album/2ESHmQZeKsZgnEA6HTCKt9) | 3:08 | 2023-08-25 |  |
@@ -182,6 +182,7 @@
 | [Tarde Lo Conocí \- Regional Mexicano](https://open.spotify.com/track/3LpyI9jFcToBdJy00IbewV) | [Patricia Teherán](https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF) | [Tarde Lo Conocí \(Regional Mexicano\)](https://open.spotify.com/album/5UfGBfslsUaWjUVMlOHm2F) | 4:34 | 2022-08-18 | 2022-12-20 |
 | [Te Hubieras Ido Antes](https://open.spotify.com/track/0uw9huLXX2ne9bkisvYUFH) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Te Hubieras Ido Antes](https://open.spotify.com/album/6BIQDuXvqKsUb1jj6yvqFf) | 3:13 | 2022-08-18 |  |
 | [Te Superé](https://open.spotify.com/track/3nGC3Mt4aKEPNSG9Ur3xyQ) | [Giovanny Ayala](https://open.spotify.com/artist/1UVPfNPbTcrDocjT0O5jcv) | [Te Superé](https://open.spotify.com/album/6NecYoYGXMKTEn8kBf17iQ) | 2:53 | 2022-08-18 | 2022-12-20 |
+| [Tengo Ganas](https://open.spotify.com/track/4TiS7REpiQIaj6BJHFc05d) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Tengo Ganas](https://open.spotify.com/album/5TMdQRTAyXs6pyka3ICrtg) | 3:08 | 2024-06-14 |  |
 | [TQM](https://open.spotify.com/track/4zzq1AGYtBKQusGF2RJRot) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [TQM](https://open.spotify.com/album/4pwaSmWEjeC59CQnOIW1dv) | 2:46 | 2022-12-19 | 2023-02-04 |
 | [Tu \- En Vivo](https://open.spotify.com/track/0qZO3MuMgRecjEfDdnlGVY) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg) | 4:06 | 2023-08-04 | 2024-04-19 |
 | [Tu \- Live](https://open.spotify.com/track/64xuDtR4TKUI8JAeZoqndu) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados Vol\. 1 \(Live\)](https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K) | 4:06 | 2022-08-18 | 2023-08-09 |

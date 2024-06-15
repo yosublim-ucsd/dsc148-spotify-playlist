@@ -4,7 +4,7 @@
 
 > Sitting in a cozy café studying while the rain is pouring down outside.
 
-126 songs - 7 hr 18 min
+129 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Detour Ahead \(Rain\)](https://open.spotify.com/track/7f8cCtFCSEVOU5c8WDX5Iw) | [Akio](https://open.spotify.com/artist/1Pee2ETMZW5ZH3mVgdrf4A) | [Detour Ahead \(Rain\)](https://open.spotify.com/album/4YYid3LXG2UbfvXCJOVhe3) | 3:45 | 2023-04-27 |  |
 | [Downfall](https://open.spotify.com/track/2dv3ZXTz70qDYe5OpMouWP) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Downfall](https://open.spotify.com/album/6Yl1lhoCj9VAsuNSgxV13i) | 2:52 | 2024-02-02 |  |
 | [Drizzle](https://open.spotify.com/track/7xAsNYcd0c2TRtX29Le7Ul) | [Eric Merlino](https://open.spotify.com/artist/1vL7K80AJZnr8Y10olI96q) | [Drizzle](https://open.spotify.com/album/660BSmyiAOlSjmSTX080Za) | 3:44 | 2023-06-08 |  |
+| [Drops of Love](https://open.spotify.com/track/1XGqKYsdUsykJJiQaGPlOH) | [Quinn Perry Trio](https://open.spotify.com/artist/16azKEAxILijPKm6gQf9Rb) | [Drops of Love](https://open.spotify.com/album/1HU0JocCALzqiT1YRNjA2i) | 2:50 | 2024-06-14 |  |
 | [Easy](https://open.spotify.com/track/0RL0vPsIpS1mGoDGaXOLYJ) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [Rainy Days Jazz](https://open.spotify.com/album/5rfKCLIjhCsotHx4wbWDIV) | 2:22 | 2023-04-27 |  |
 | [Elise](https://open.spotify.com/track/2siast7oxxUacDe3OiZuYx) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Rainy Days Jazz](https://open.spotify.com/album/5rfKCLIjhCsotHx4wbWDIV) | 2:42 | 2023-04-27 |  |
 | [Eternity](https://open.spotify.com/track/5EZQIWcPbstB9bGfZyMVP5) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Eternity Rain](https://open.spotify.com/album/3VyBGuqp5a0oBTCbLkpIdr) | 3:40 | 2023-04-27 |  |
@@ -89,7 +90,7 @@
 | [Monday thunder](https://open.spotify.com/track/6ZQb3pCXG9c7gMCxX5Sf6B) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [Home town rain and thunder](https://open.spotify.com/album/2pDEdJ0ANr2omZ1ww8jXwF) | 2:56 | 2023-09-01 |  |
 | [My Roses](https://open.spotify.com/track/2iY8BxUCYmtQkqU9igxNp4) | [Reese Quartet](https://open.spotify.com/artist/715TpfLaAurJfQk8CjhKsm) | [Rainy Jazz](https://open.spotify.com/album/3QHKLkV974nNsLgaCDZQr2) | 2:39 | 2023-04-27 |  |
 | [My Tears](https://open.spotify.com/track/00cOVMkWHzwMWzYNGOBmF2) | [Magnolia](https://open.spotify.com/artist/3W7N9zZpdLMW6E0JfDmPKx) | [My Tears](https://open.spotify.com/album/1QAWyemipLW254r7eEbgov) | 3:53 | 2023-04-27 | 2024-04-03 |
-| [Myren](https://open.spotify.com/track/4JLkZzfYVaXBi1JtXTOdje) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Rainy Jazz](https://open.spotify.com/album/3QHKLkV974nNsLgaCDZQr2) | 2:38 | 2023-04-27 |  |
+| [Myren](https://open.spotify.com/track/4JLkZzfYVaXBi1JtXTOdje) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Rainy Jazz](https://open.spotify.com/album/3QHKLkV974nNsLgaCDZQr2) | 2:38 | 2023-04-27 | 2024-06-15 |
 | [Neighbourhoods](https://open.spotify.com/track/43eFgyZEkQKOEivmUlxX9A) | [Zoe Rei](https://open.spotify.com/artist/6edzT8AseYcyi1yGJZXHdq) | [Neighbourhoods](https://open.spotify.com/album/6qVnzW9CV9vYruMWeVehCN) | 3:33 | 2023-04-27 |  |
 | [Night and Day](https://open.spotify.com/track/6JJ7JnW8fJZLrAbMMBkttV) | [Daniel Patarava](https://open.spotify.com/artist/2fEhjNNeXKROZI0UgPfiyi) | [Night and Day](https://open.spotify.com/album/22oIgys6iXgc13DKLKkwet) | 2:38 | 2023-04-27 |  |
 | [No Manner](https://open.spotify.com/track/6BcWqLROWgGk488uw9RBgW) | [Herman Fred Trio](https://open.spotify.com/artist/1sTe1YB89lKzCmOju2ipvk) | [No Manner](https://open.spotify.com/album/68t1UBM8b5ZwQWkuHUAgf7) | 3:17 | 2023-08-03 |  |
@@ -99,6 +100,7 @@
 | [Rainless](https://open.spotify.com/track/4LlVfy4JGDwzxFRE66SIkB) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [Rainless](https://open.spotify.com/album/6QSeMLR0Mg9t0c44pite0q) | 4:07 | 2023-11-24 |  |
 | [Rainy Days Ahead](https://open.spotify.com/track/4p0t3HDaFqA40Kkj7YZq8o) | [Tyree](https://open.spotify.com/artist/2iLuAUEEOAfWQr83WzyCof) | [Rainy Days Ahead](https://open.spotify.com/album/2tFuZPqd1oofSheumCpUTN) | 3:27 | 2024-02-09 |  |
 | [Rainy Mix](https://open.spotify.com/track/5Bf6RpE7cymyP9RuFdKUr2) | [Eltingvilles](https://open.spotify.com/artist/7qYYtUCPSVXspwRs4wiQ9R) | [Rainy Jazz](https://open.spotify.com/album/3QHKLkV974nNsLgaCDZQr2) | 4:39 | 2023-04-27 |  |
+| [Rainy Nights](https://open.spotify.com/track/5un2Ci3uFAMQZwxrPa2OCF) | [Tyree](https://open.spotify.com/artist/2iLuAUEEOAfWQr83WzyCof) | [Rainy Nights](https://open.spotify.com/album/2wvtzHGpXw5MkkPMyDSZf0) | 3:26 | 2024-06-14 |  |
 | [Reaching](https://open.spotify.com/track/0tisTFhHm0SFZO2y7RSRRt) | [The Midnight Quartet](https://open.spotify.com/artist/3RgMoZ7V6T8taBTLb58Wld) | [Reaching](https://open.spotify.com/album/4nUAFQ7psaKNzv5aGXALsB) | 3:24 | 2023-04-27 |  |
 | [Reign](https://open.spotify.com/track/6wvYAbSX54UOwWLFNd4rcj) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Reign](https://open.spotify.com/album/1FzB6cl6WzoFi2ruwHEZTp) | 3:10 | 2023-08-03 |  |
 | [Remembrance](https://open.spotify.com/track/21kH0JzzpjdZCQRgWICoU1) | [Ben & Katsy](https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw) | [Remembrance](https://open.spotify.com/album/0bSaNSRTilq44cFMksQqBq) | 4:07 | 2023-04-27 |  |
@@ -120,12 +122,13 @@
 | [Stillness \- Rainy Day Jazz](https://open.spotify.com/track/53AGT4gvkOHRhYiQP3RuOp) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [Stillness \(Rainy Day Jazz\)](https://open.spotify.com/album/38aRLLKUYTDNW4a7E2I7hM) | 2:50 | 2023-04-27 |  |
 | [Summertime](https://open.spotify.com/track/5NrwsKRkhQgczHWPL0BGIm) | [Greta Leja](https://open.spotify.com/artist/4q1DYHDlHRRxgL0B8wGGJt) | [Summertime](https://open.spotify.com/album/7vvyLIo6bR9Cfc3Qb6bbws) | 2:24 | 2023-04-27 |  |
 | [Tell Me \- Rain](https://open.spotify.com/track/6otMukSGKb6tFs0O25xlGl) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Tell Me \(Rain\)](https://open.spotify.com/album/2hNl2gh5ok1dz58Srt82gX) | 4:25 | 2023-04-27 |  |
-| [Tenderness](https://open.spotify.com/track/0Ke9kuEjZzRIEDOPT6bcDR) | [Tyree](https://open.spotify.com/artist/2iLuAUEEOAfWQr83WzyCof) | [Tenderness](https://open.spotify.com/album/0N8Tp6t6hgmGYzbc3fbEVu) | 3:32 | 2023-06-15 |  |
+| [Tenderness](https://open.spotify.com/track/0Ke9kuEjZzRIEDOPT6bcDR) | [Tyree](https://open.spotify.com/artist/2iLuAUEEOAfWQr83WzyCof) | [Tenderness](https://open.spotify.com/album/0N8Tp6t6hgmGYzbc3fbEVu) | 3:32 | 2023-06-15 | 2024-06-15 |
 | [Three Views Of A Secret \- Rain version](https://open.spotify.com/track/7agbpfkAH7NrfjSU2lfiUZ) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Three Views Of A Secret \- Rain version](https://open.spotify.com/album/1pJXVnXlKtZt5hxRWHX6fZ) | 4:26 | 2023-04-27 |  |
 | [Tuesdays](https://open.spotify.com/track/0AzGdVC2mlwjIAG6eeBceQ) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [Tuesdays](https://open.spotify.com/album/2hmGySYY8f7KmXjYD9yn15) | 3:19 | 2024-02-23 |  |
 | [Under My Umbrella](https://open.spotify.com/track/18kKrkIzW4NO0WKRVPtyqT) | [Sverrir Audland](https://open.spotify.com/artist/62pUUDqEOmiAntBGGKLs6T) | [Under My Umbrella](https://open.spotify.com/album/7KAotzp6Y8jn1byQJeo3SC) | 3:59 | 2023-04-27 |  |
 | [Velvet Moon](https://open.spotify.com/track/2jbL9THwH9EQ8MdRgbp7Lx) | [Sive Holmes](https://open.spotify.com/artist/1k2DVXf8G1sKF5n5d6qp5v) | [Velvet Moon](https://open.spotify.com/album/4pcLOa1SDpLc0edJ0wIAop) | 1:52 | 2023-04-27 | 2023-08-26 |
 | [Vesper \- Rainy Jazz](https://open.spotify.com/track/7ehvwDE0lWKvVsYcXQ5CzZ) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [Vesper \(Rainy Jazz\)](https://open.spotify.com/album/5Pn68JjCb2TRPlLX1VBLls) | 4:15 | 2023-04-27 |  |
+| [Wet Leaves](https://open.spotify.com/track/6r9ltIEXBNphJbVISWUuhC) | [Evelyn Parker](https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc) | [Wet Leaves](https://open.spotify.com/album/223CsvboV8mNLadyuZ9ROK) | 3:03 | 2024-06-14 |  |
 | [What's More?](https://open.spotify.com/track/2QVnPUl043doBv8EhSFSWv) | [Magnolia](https://open.spotify.com/artist/3W7N9zZpdLMW6E0JfDmPKx) | [What's More?](https://open.spotify.com/album/12Vi3uObilz0KLoH4yZvdJ) | 3:23 | 2024-04-02 |  |
 | [What's New \(Rain\)](https://open.spotify.com/track/0hE4grfejgr0R9cKPytQCC) | [UWS Jazz Trio](https://open.spotify.com/artist/2hWsHcobGML6Rr9HAdY44K) | [What's New \(Rain\)](https://open.spotify.com/album/7gRcOMFZccNOd9sKAjqGRA) | 4:44 | 2023-08-03 |  |
 | [When You Are Around \- Rain Version](https://open.spotify.com/track/0x2unn4VUE8F2lwPjejUpy) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [When You Are Around \(Rain Version\)](https://open.spotify.com/album/61kKdQ5qVAB9Uwkm3PBOcn) | 3:14 | 2023-04-27 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes.",
+  "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes & Ulises Bueno.",
   "name": "Vivo de Cumbia",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 224806,
       "name": "Ahora Te Vas - En Vivo",
       "url": "https://open.spotify.com/track/1a47ltENRUWMRlNnlqVsvs"
@@ -987,6 +987,28 @@
     },
     {
       "album": {
+        "name": "Intento (En Vivo)",
+        "url": "https://open.spotify.com/album/3UUuCRlQaX3HWZ1HkVuKpb"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        },
+        {
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227103,
+      "name": "Intento - En Vivo",
+      "url": "https://open.spotify.com/track/0YI5vG7XmhB7IAcMJZjvS2"
+    },
+    {
+      "album": {
         "name": "En Vivo en Joya 2019 (Remasterizado 2021)",
         "url": "https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54"
       },
@@ -1639,6 +1661,28 @@
     },
     {
       "album": {
+        "name": "Mira Como Esta La Vagancia Cuartetera / A Decirme Que (En Vivo Luna Park)",
+        "url": "https://open.spotify.com/album/2qQpDG3fsQe4U83k6WsXFs"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        },
+        {
+          "name": "Pablo Lescano",
+          "url": "https://open.spotify.com/artist/6pztqmUqWADMZQKrrmGWGx"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244088,
+      "name": "Mira Como Esta La Vagancia Cuartetera / A Decirme Que - En Vivo Luna Park",
+      "url": "https://open.spotify.com/track/10nFDR4YGrQa4QNMNZTuaM"
+    },
+    {
+      "album": {
         "name": "Muero Por Ti (Vivo)",
         "url": "https://open.spotify.com/album/4yZMxxx2r9b0a7fKdysT1k"
       },
@@ -1694,7 +1738,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 239307,
       "name": "Mujer C\u00f3smica - En Vivo",
       "url": "https://open.spotify.com/track/6NxgReEqcqHa7JnuQmKkLc"

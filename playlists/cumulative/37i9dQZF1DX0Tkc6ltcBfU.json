@@ -100,7 +100,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 155712,
       "name": "1800 Degrees",
       "url": "https://open.spotify.com/track/0EShjURNsCxbi5JpZjqCNG"
@@ -1596,7 +1596,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 161053,
       "name": "Attitude (feat. Charlie Wilson & Cash Cobain)",
       "url": "https://open.spotify.com/track/0KFXE2mLTFdOKkTZEDgJPv"
@@ -1665,6 +1665,24 @@
     },
     {
       "album": {
+        "name": "Baby Drake",
+        "url": "https://open.spotify.com/album/7k8Gq0HexxwPqb1zL9F1tC"
+      },
+      "artists": [
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186381,
+      "name": "Baby Drake",
+      "url": "https://open.spotify.com/track/4slSuTD2HhX4BS5FrW1Dqn"
+    },
+    {
+      "album": {
         "name": "Baby Shark",
         "url": "https://open.spotify.com/album/5GxnOGqSFpOsWVuDg7GRMQ"
       },
@@ -1724,7 +1742,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 241533,
       "name": "Bachelor",
       "url": "https://open.spotify.com/track/35gu7pEQ2gOLUvskspCD3Y"
@@ -2010,7 +2028,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 147746,
       "name": "Bandit",
       "url": "https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s"
@@ -2144,7 +2162,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 160003,
       "name": "BDK",
       "url": "https://open.spotify.com/track/20AW3GrcTk71onw6tS5lHr"
@@ -3681,6 +3699,28 @@
     },
     {
       "album": {
+        "name": "BROTHER STONE (FEAT. KODAK BLACK)",
+        "url": "https://open.spotify.com/album/0LWTY98ijfILoFHupcQJKE"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202840,
+      "name": "BROTHER STONE (FEAT. KODAK BLACK)",
+      "url": "https://open.spotify.com/track/0l3raueiJ78IsmZGwo6CRm"
+    },
+    {
+      "album": {
         "name": "The Forever Story",
         "url": "https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg"
       },
@@ -4714,7 +4754,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 170106,
       "name": "Climate (feat. Offset)",
       "url": "https://open.spotify.com/track/1c7MITQmNJTrvfbDSzWT6x"
@@ -5694,7 +5734,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 170453,
       "name": "Deep in the Water",
       "url": "https://open.spotify.com/track/2dshtwEGNpyrE0x69wUiHj"
@@ -6365,6 +6405,24 @@
     },
     {
       "album": {
+        "name": "Before The Album",
+        "url": "https://open.spotify.com/album/2Dqfl275jjJXXI0agJQZDP"
+      },
+      "artists": [
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161927,
+      "name": "Do This For Me",
+      "url": "https://open.spotify.com/track/2GOJk7tAcAWeDVglFykoe7"
+    },
+    {
+      "album": {
         "name": "Doja",
         "url": "https://open.spotify.com/album/5Gk324K07rxU4Lq7ghWe2o"
       },
@@ -6750,7 +6808,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 148480,
       "name": "EBK",
       "url": "https://open.spotify.com/track/5GF32Lak9flWCNi7qC8ruH"
@@ -9039,6 +9097,24 @@
     },
     {
       "album": {
+        "name": "HARDSTONE PSYCHO",
+        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228560,
+      "name": "GLOCK",
+      "url": "https://open.spotify.com/track/29sbEEB0w4aAY3FofzzEjy"
+    },
+    {
+      "album": {
         "name": "Glory",
         "url": "https://open.spotify.com/album/7glPCixt19lrdyGMIVxQJd"
       },
@@ -9994,7 +10070,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 134000,
       "name": "Hell Yea",
       "url": "https://open.spotify.com/track/40OYvbOfFgcdZ6a0Iz9FfP"
@@ -10164,7 +10240,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 159749,
       "name": "Himothy",
       "url": "https://open.spotify.com/track/00p23Uw776hxaIGNWL9S1Y"
@@ -11296,6 +11372,28 @@
       "duration_ms": 236186,
       "name": "I'M ON ONE (feat. Drake)",
       "url": "https://open.spotify.com/track/6cIWZnJZidKcqGuArAUABr"
+    },
+    {
+      "album": {
+        "name": "HARDSTONE PSYCHO",
+        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218200,
+      "name": "ICE AGE (FEAT. TRAVIS SCOTT)",
+      "url": "https://open.spotify.com/track/4nhcjelU9PidsBzUkazfZs"
     },
     {
       "album": {
@@ -13396,7 +13494,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 108571,
       "name": "Life So Crazy",
       "url": "https://open.spotify.com/track/1iKx45Uo9uQc6Kc6NY37Nt"
@@ -13936,7 +14034,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
@@ -13994,6 +14092,24 @@
       "duration_ms": 136267,
       "name": "LUKAKU",
       "url": "https://open.spotify.com/track/6SyxWg5jvCZe5brD3dNL1q"
+    },
+    {
+      "album": {
+        "name": "LUV 4 YA",
+        "url": "https://open.spotify.com/album/2k04YImJq8pTvYTOwSB66U"
+      },
+      "artists": [
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212088,
+      "name": "LUV 4 YA",
+      "url": "https://open.spotify.com/track/2V9ssBr0S36RJdEXqAREfH"
     },
     {
       "album": {
@@ -14515,6 +14631,24 @@
     },
     {
       "album": {
+        "name": "New World Depression",
+        "url": "https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145782,
+      "name": "Mental Clarity Is a Luxury I Can't Afford",
+      "url": "https://open.spotify.com/track/0JcD5qI9SxWqdEWmRjUX9X"
+    },
+    {
+      "album": {
         "name": "Merch Madness",
         "url": "https://open.spotify.com/album/1iq2ZBnpKsrrM1hr85pw2r"
       },
@@ -14702,6 +14836,24 @@
       "duration_ms": 122266,
       "name": "Mind Yo Business (Feat. Latto)",
       "url": "https://open.spotify.com/track/5hR1PFUnx0uRkqYsW4Z4ja"
+    },
+    {
+      "album": {
+        "name": "Mink",
+        "url": "https://open.spotify.com/album/7wM4xWUZjUsaUEF0xAsfgZ"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166619,
+      "name": "Mink",
+      "url": "https://open.spotify.com/track/5x6ufTZrcowzAQXq97MIQu"
     },
     {
       "album": {
@@ -15375,6 +15527,24 @@
     },
     {
       "album": {
+        "name": "Mystery Trucc",
+        "url": "https://open.spotify.com/album/6QxOIE53INaBCf5qCQJ4Mr"
+      },
+      "artists": [
+        {
+          "name": "Rundown Spaz",
+          "url": "https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139103,
+      "name": "Mystery Trucc",
+      "url": "https://open.spotify.com/track/4WZZhLYxSj8Dvb9qfVhzz5"
+    },
+    {
+      "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
       },
@@ -15656,6 +15826,28 @@
       "duration_ms": 114261,
       "name": "New 50's",
       "url": "https://open.spotify.com/track/1E2ukB8wWsO5BFVrhpgg99"
+    },
+    {
+      "album": {
+        "name": "Fresh Out The Trenches",
+        "url": "https://open.spotify.com/album/6BqhVDaCOylpg7UJduEmJ5"
+      },
+      "artists": [
+        {
+          "name": "Wizz Havinn",
+          "url": "https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE"
+        },
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167852,
+      "name": "New Edition (feat. Rob49)",
+      "url": "https://open.spotify.com/track/6ThqjTvAIww0C7H9lCENAM"
     },
     {
       "album": {
@@ -16749,6 +16941,24 @@
     },
     {
       "album": {
+        "name": "Off Dat Drank",
+        "url": "https://open.spotify.com/album/7qUE8BNEe4THq3saGIDF9y"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164833,
+      "name": "Off Dat Drank",
+      "url": "https://open.spotify.com/track/1z3X66BhWXsSr7lHlSCiDW"
+    },
+    {
+      "album": {
         "name": "off the leash!",
         "url": "https://open.spotify.com/album/2KkDQOnRGyK0oh0sSenizj"
       },
@@ -17058,6 +17268,28 @@
       "duration_ms": 261543,
       "name": "On BS",
       "url": "https://open.spotify.com/track/34tz0eDhGuFErIuW3q4mPX"
+    },
+    {
+      "album": {
+        "name": "SPEAK NOW",
+        "url": "https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "YTB Fatt",
+          "url": "https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153043,
+      "name": "ON DET (feat. YTB Fatt)",
+      "url": "https://open.spotify.com/track/7bXrqOYGbuY4HIku5450fF"
     },
     {
       "album": {
@@ -18112,7 +18344,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 139867,
       "name": "PLAY DA FOOL",
       "url": "https://open.spotify.com/track/35ACwDtccFItn9THDDZ7dm"
@@ -18764,6 +18996,32 @@
       "duration_ms": 136258,
       "name": "Purge Me",
       "url": "https://open.spotify.com/track/4HTkk2vceRNg08yGcRJtBS"
+    },
+    {
+      "album": {
+        "name": "HARDSTONE PSYCHO",
+        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207586,
+      "name": "PURPLE RAIN (FEAT. FUTURE & METRO BOOMIN)",
+      "url": "https://open.spotify.com/track/7i8ncEfBk3s0w5YoG43SV9"
     },
     {
       "album": {
@@ -20196,7 +20454,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 162004,
       "name": "Score",
       "url": "https://open.spotify.com/track/32c876XfKWsYU5jGL3bI64"
@@ -20400,6 +20658,24 @@
       "duration_ms": 176697,
       "name": "Shackles to Diamonds",
       "url": "https://open.spotify.com/track/5e3gWKvlWtGLy5wh7tg1KY"
+    },
+    {
+      "album": {
+        "name": "Shag and Scooby",
+        "url": "https://open.spotify.com/album/6j5ekxHsY7WQ89nq5mUNiL"
+      },
+      "artists": [
+        {
+          "name": "Jdot Breezy",
+          "url": "https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133080,
+      "name": "Shag and Scooby",
+      "url": "https://open.spotify.com/track/3grhOHkDYmy0gHtvzgUQmi"
     },
     {
       "album": {
@@ -20846,7 +21122,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 222985,
       "name": "SIDE EFFExT (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/0zin6HNAYX04mXsWjpUkIk"
@@ -21578,6 +21854,24 @@
       "duration_ms": 162000,
       "name": "Splurge",
       "url": "https://open.spotify.com/track/6by0oknFYQAcUW1i8qItJi"
+    },
+    {
+      "album": {
+        "name": "SportsCenter",
+        "url": "https://open.spotify.com/album/6JDj9XoiUTI8PfbvAX8K2W"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143092,
+      "name": "SportsCenter",
+      "url": "https://open.spotify.com/track/0ouOFAkST5sCy2f2XLJHdP"
     },
     {
       "album": {
@@ -22598,6 +22892,24 @@
       "duration_ms": 158731,
       "name": "Swing My Doe (feat. BiC Fizzle)",
       "url": "https://open.spotify.com/track/4ZTbRGeqWhzv4T5gjcyoJE"
+    },
+    {
+      "album": {
+        "name": "SPEAK NOW",
+        "url": "https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168272,
+      "name": "TABOO MIAMI",
+      "url": "https://open.spotify.com/track/1v97VrHrfBJwJ1HWaWZvIY"
     },
     {
       "album": {
@@ -24329,6 +24641,32 @@
     },
     {
       "album": {
+        "name": "Twisting Our Fingers",
+        "url": "https://open.spotify.com/album/5d61Y5uPCU4QvJCX2axHj6"
+      },
+      "artists": [
+        {
+          "name": "Lil Gotit",
+          "url": "https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Lil Keed",
+          "url": "https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216125,
+      "name": "Twisting Our Fingers",
+      "url": "https://open.spotify.com/track/0M46V5WC2euVqHh80ey1Hw"
+    },
+    {
+      "album": {
         "name": "PRINCESS POP THAT",
         "url": "https://open.spotify.com/album/0aMQ5jGWMxqIOB5JjhOU3a"
       },
@@ -24808,7 +25146,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 174000,
       "name": "V'zzz (feat. Rob49)",
       "url": "https://open.spotify.com/track/2hnx2AnA5p8quBllSn9DGy"
@@ -25696,7 +26034,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 148240,
       "name": "whatsapp (wassam)",
       "url": "https://open.spotify.com/track/4dBoAE3FBnVQa9zBqWLMjQ"
@@ -25802,6 +26140,24 @@
       "duration_ms": 122623,
       "name": "Where Would I Be",
       "url": "https://open.spotify.com/track/1pExjTeIPJsPj26mpJOofO"
+    },
+    {
+      "album": {
+        "name": "Where You Been",
+        "url": "https://open.spotify.com/album/1FIEL1JZTLWKqtfeo4GabA"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142146,
+      "name": "Where You Been",
+      "url": "https://open.spotify.com/track/6dnzsTXwAaJws8zGrTFSAS"
     },
     {
       "album": {

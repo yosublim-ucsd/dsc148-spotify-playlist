@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjlAAAAAAB0PSvqJfTrfsQ9qTQqUWPz",
+  "snapshot_id": "Zmo2gAAAAACHIoAo2yzVPFVo7CvOyGZv",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monsieur Spade (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/4xHv6i545xZKmZR2J5ui1u"
+        "name": "Ezra (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2UbyTUN7UOsnV6lT9ecAky"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 117693,
-      "name": "Gabrielle",
-      "url": "https://open.spotify.com/track/0RuBnQUTmflQVJi4VI556A"
+      "duration_ms": 78533,
+      "name": "Ezra And Mom",
+      "url": "https://open.spotify.com/track/5mJfDjDPOedjotdx5W5NsR"
     },
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Monsieur Spade (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/4xHv6i545xZKmZR2J5ui1u"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 117693,
+      "name": "Gabrielle",
+      "url": "https://open.spotify.com/track/0RuBnQUTmflQVJi4VI556A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Griselda (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw"
       },
@@ -404,25 +420,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 78533,
-      "name": "Ezra And Mom",
-      "url": "https://open.spotify.com/track/5mJfDjDPOedjotdx5W5NsR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chupa (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/6GGqqXXRUwPfbkLaUD65mm"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 70364,
-      "name": "La Cajita de M\u00fasica",
-      "url": "https://open.spotify.com/track/6tfcj3Fheeg4H21Lx8ZAzA"
+      "duration_ms": 60773,
+      "name": "I Sold My Kid Out",
+      "url": "https://open.spotify.com/track/1m09Ft3pf4MicMrrsT4RFv"
     },
     {
       "added_at": null,

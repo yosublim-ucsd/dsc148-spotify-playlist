@@ -1,13 +1,29 @@
 {
   "description": "The jam scene is alive and well. Cover: SunSquabi",
-  "num_followers": 31588,
+  "num_followers": 31619,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmKFwAAAAACSRXfmfurJ7UiBr2WS11/5",
+  "snapshot_id": "ZmvAQAAAAADFHsd04Qu2O9VQ1qjg01fX",
   "tracks": [
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Hey Stranger",
+        "url": "https://open.spotify.com/album/3LrKY4Q1ZJdOXDAEeKGfE9"
+      },
+      "artists": [
+        {
+          "name": "Phish",
+          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+        }
+      ],
+      "duration_ms": 288220,
+      "name": "Hey Stranger",
+      "url": "https://open.spotify.com/track/7y9TVM2phcRCwSlevzG7pj"
+    },
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
@@ -43,22 +59,6 @@
       "duration_ms": 340250,
       "name": "Local on the 8s (feat. Michael Burton)",
       "url": "https://open.spotify.com/track/4eT5B9NbyzsD74UCivbu71"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/6EEjJ6CtxuWLGW34oQkFXv"
-      },
-      "artists": [
-        {
-          "name": "Phish",
-          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
-        }
-      ],
-      "duration_ms": 363863,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/6HvnPZNXaiaOzHldLAiOfE"
     },
     {
       "added_at": "2024-05-17 04:01:00",

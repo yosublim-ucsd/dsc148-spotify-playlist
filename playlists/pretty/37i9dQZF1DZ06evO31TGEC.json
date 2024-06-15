@@ -1,12 +1,12 @@
 {
-  "description": "This Is El Chapo De Sinaloa. Los temas esenciales, todos en una lista.",
-  "num_followers": 46398,
+  "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
+  "num_followers": 46407,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjlAAAAAABSOqffPL+VL/z2W4aU2FAb",
+  "snapshot_id": "Zmo2gAAAAABWHhXeKWpSxopul0KJR9oZ",
   "tracks": [
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Noche Perfecta",
-        "url": "https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Cuando Era Ni\u00f1o",
-      "url": "https://open.spotify.com/track/60W9QkfdZKM7bCRg41K0q2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Decretos",
         "url": "https://open.spotify.com/album/1l4cvjCrT3h7TJWtUoJ5TQ"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 176666,
       "name": "Quisiera Ser Un Mago",
       "url": "https://open.spotify.com/track/7cd0tW4ARJtOLRxPQxGhU0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Noche Perfecta",
+        "url": "https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Cuando Era Ni\u00f1o",
+      "url": "https://open.spotify.com/track/60W9QkfdZKM7bCRg41K0q2"
     },
     {
       "added_at": null,

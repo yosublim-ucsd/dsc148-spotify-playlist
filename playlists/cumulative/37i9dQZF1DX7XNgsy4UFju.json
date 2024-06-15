@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best indie tracks of the moment. Cover: The Mar\u00edas",
+  "description": "The best indie tracks of the moment. Cover: Nil\u00fcfer Yanya",
   "name": "Indie All Stars",
   "tracks": [
     {
@@ -3797,6 +3797,24 @@
     },
     {
       "album": {
+        "name": "The Sweater Club",
+        "url": "https://open.spotify.com/album/73lkqaVOVZnVMHi2ZYrY0N"
+      },
+      "artists": [
+        {
+          "name": "Jelani Aryeh",
+          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173391,
+      "name": "Breaking By",
+      "url": "https://open.spotify.com/track/1A0LGwMocD470H5Pre6IkR"
+    },
+    {
+      "album": {
         "name": "Bright Green Vibrant Gray",
         "url": "https://open.spotify.com/album/6nZGvx9KlQsM23CTuqIMEO"
       },
@@ -3884,6 +3902,28 @@
       "duration_ms": 241499,
       "name": "Broken Record",
       "url": "https://open.spotify.com/track/4LIxmoxqIUvlANwcNR9b3L"
+    },
+    {
+      "album": {
+        "name": "Brother Bear",
+        "url": "https://open.spotify.com/album/2rogBRqyYnC2ZrqRCZkn7O"
+      },
+      "artists": [
+        {
+          "name": "Oscar Louis",
+          "url": "https://open.spotify.com/artist/3beovFcnzA9hTr18ZxymFK"
+        },
+        {
+          "name": "Chris Vincent",
+          "url": "https://open.spotify.com/artist/2TP5gePc0SBG8sOpRp8ymQ"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196145,
+      "name": "Brother Bear",
+      "url": "https://open.spotify.com/track/0LFLw72o8TvHYZ7KLpgUKl"
     },
     {
       "album": {
@@ -5311,6 +5351,24 @@
     },
     {
       "album": {
+        "name": "Colder Than Ever",
+        "url": "https://open.spotify.com/album/0EqPYlRN4EtkZ6ArI12ifF"
+      },
+      "artists": [
+        {
+          "name": "Flowerboy",
+          "url": "https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158789,
+      "name": "Colder Than Ever",
+      "url": "https://open.spotify.com/track/4GMmHr6whewbezj2PzkuPu"
+    },
+    {
+      "album": {
         "name": "Colin",
         "url": "https://open.spotify.com/album/6CdBVQJ5x5Te4skZZjcPK7"
       },
@@ -5578,10 +5636,6 @@
         {
           "name": "OMBIIGIZI",
           "url": "https://open.spotify.com/artist/6M9etLgzbkyne0y9cvxGAG"
-        },
-        {
-          "name": "Zoon",
-          "url": "https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC"
         }
       ],
       "date_added": "2024-05-31",
@@ -12366,7 +12420,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 263974,
       "name": "home",
       "url": "https://open.spotify.com/track/26JqmHoDGUmQMe4HVooNr3"
@@ -16272,7 +16326,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 177475,
       "name": "Like I Say (I runaway)",
       "url": "https://open.spotify.com/track/2D3oVAd8nHrqJH8UAfvtTT"
@@ -17631,6 +17685,24 @@
     },
     {
       "album": {
+        "name": "Method Actor",
+        "url": "https://open.spotify.com/album/0Qg3qoV8Sz5pY01lIImVeE"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231708,
+      "name": "Method Actor",
+      "url": "https://open.spotify.com/track/6I9GeNnqNqQ5Q8DSrFkkvd"
+    },
+    {
+      "album": {
         "name": "Love Hate Music Box",
         "url": "https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj"
       },
@@ -18233,6 +18305,24 @@
     },
     {
       "album": {
+        "name": "Motorcycle",
+        "url": "https://open.spotify.com/album/7mhREQUR2GbBqPILSsKz7g"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166741,
+      "name": "Motorcycle",
+      "url": "https://open.spotify.com/track/0pJAiDG0LmZHlPuMudDvjs"
+    },
+    {
+      "album": {
         "name": "Mount Airy Hill (Way Gone)",
         "url": "https://open.spotify.com/album/2lmr4UYlEiUsqEBT02vfrx"
       },
@@ -18508,7 +18598,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 162291,
       "name": "My Fun",
       "url": "https://open.spotify.com/track/306xT15GTuDs3NyopIANrh"
@@ -20766,7 +20856,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 242653,
       "name": "Pain",
       "url": "https://open.spotify.com/track/10YGow8ChEZt6EWd4Mfc9S"
@@ -21120,6 +21210,24 @@
       "duration_ms": 205222,
       "name": "Perfect Blue",
       "url": "https://open.spotify.com/track/26I0qPVgn8afCccReUkSi4"
+    },
+    {
+      "album": {
+        "name": "Perfect Hand",
+        "url": "https://open.spotify.com/album/1VR9eQWnhFBKrD5eEUFggr"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248535,
+      "name": "Perfect Hand",
+      "url": "https://open.spotify.com/track/59Eh3SJgXdmytbvm7SejXz"
     },
     {
       "album": {
@@ -23988,7 +24096,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 155133,
       "name": "She Loves Me",
       "url": "https://open.spotify.com/track/341bqzt1REzbvIodveSRSJ"
@@ -24154,7 +24262,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 167271,
       "name": "Shudder",
       "url": "https://open.spotify.com/track/1c1iyuIpgPr7FBbMBkQEzJ"
@@ -24967,6 +25075,24 @@
     },
     {
       "album": {
+        "name": "So Soon",
+        "url": "https://open.spotify.com/album/1UZe6JrsMOefY2SUP71rhT"
+      },
+      "artists": [
+        {
+          "name": "Triples",
+          "url": "https://open.spotify.com/artist/11ibUIMgI7iRjbXLzPoH4w"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165418,
+      "name": "So Soon",
+      "url": "https://open.spotify.com/track/0joyOzuzCigTGZNU3stSSv"
+    },
+    {
+      "album": {
         "name": "So Typically Now",
         "url": "https://open.spotify.com/album/30O790HefaQ8ppnxtHYUNc"
       },
@@ -25432,7 +25558,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 189806,
       "name": "Speed of the Sound (of you)",
       "url": "https://open.spotify.com/track/625gH2KUG4kE0G1FR3N7ZW"
@@ -25786,6 +25912,24 @@
       "duration_ms": 207613,
       "name": "Starvation",
       "url": "https://open.spotify.com/track/67c7PNN05Co9royqUCthR7"
+    },
+    {
+      "album": {
+        "name": "Static",
+        "url": "https://open.spotify.com/album/4qTTfS4win0HDAPpeJhYlz"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stel",
+          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215455,
+      "name": "Static",
+      "url": "https://open.spotify.com/track/2mmZEYQ0GuT4DlOL5vIasb"
     },
     {
       "album": {
@@ -26889,6 +27033,24 @@
     },
     {
       "album": {
+        "name": "TAMED",
+        "url": "https://open.spotify.com/album/2SYa72aSgeNmUKGNMwfF7V"
+      },
+      "artists": [
+        {
+          "name": "DACEY",
+          "url": "https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252943,
+      "name": "TAMED",
+      "url": "https://open.spotify.com/track/1kJKWVZANKTrdsJDD1iel7"
+    },
+    {
+      "album": {
         "name": "Myst\u00e8re",
         "url": "https://open.spotify.com/album/1wyShyPmhbFRifAZyP7IHT"
       },
@@ -27676,7 +27838,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 251600,
       "name": "The Kill",
       "url": "https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ"
@@ -28984,7 +29146,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 175666,
       "name": "Toro",
       "url": "https://open.spotify.com/track/62QValXcWLH5RSnZRFeKKl"
@@ -29442,6 +29604,28 @@
       "duration_ms": 226373,
       "name": "Two Bit",
       "url": "https://open.spotify.com/track/5zv8nVUatcuqiK71LywTmQ"
+    },
+    {
+      "album": {
+        "name": "Two Fishes",
+        "url": "https://open.spotify.com/album/2PfujAW7ZEEg9T9Ug2xMmK"
+      },
+      "artists": [
+        {
+          "name": "Benja",
+          "url": "https://open.spotify.com/artist/36Bs5vvvt4AfdIvApt1Rid"
+        },
+        {
+          "name": "Glitter Party",
+          "url": "https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203015,
+      "name": "Two Fishes",
+      "url": "https://open.spotify.com/track/7qMMw7ngQEtW4Cam5GASW3"
     },
     {
       "album": {
@@ -29910,7 +30094,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 208374,
       "name": "Vandalist",
       "url": "https://open.spotify.com/track/3ENotujIHUavrxkpkQdbnh"

@@ -165,6 +165,28 @@
     },
     {
       "album": {
+        "name": "Unparalleled",
+        "url": "https://open.spotify.com/album/4KBE39nXfrx9SW3hbMrEG1"
+      },
+      "artists": [
+        {
+          "name": "Aser",
+          "url": "https://open.spotify.com/artist/4wjWZmOwkSx1AcMhfEO6R6"
+        },
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164586,
+      "name": "1234",
+      "url": "https://open.spotify.com/track/2Zk6wPFUBXdzxuDyrJ0ZIG"
+    },
+    {
+      "album": {
         "name": "1971",
         "url": "https://open.spotify.com/album/5NQlz34r4WxXuJ8gIDxTDn"
       },
@@ -3600,7 +3622,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 181593,
       "name": "Break My Fall - Acoustic",
       "url": "https://open.spotify.com/track/2gr8Hw021sj4yOgQcH7NHv"
@@ -4886,6 +4908,24 @@
       "duration_ms": 367400,
       "name": "Cold Gin - Live From Mid-Hudson Civic Arena, Poughkeepsie NY / 1984",
       "url": "https://open.spotify.com/track/2hec4qB5MssyiR5j25mcU5"
+    },
+    {
+      "album": {
+        "name": "Columbia (Sawmills Outtake)",
+        "url": "https://open.spotify.com/album/38uIcT5xt5iECIYM33vRfK"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437502,
+      "name": "Columbia - Sawmills Outtake",
+      "url": "https://open.spotify.com/track/7C2nz2EEB7pvqUbWFdZk3g"
     },
     {
       "album": {
@@ -6807,6 +6847,24 @@
     },
     {
       "album": {
+        "name": "Dreamlike (orchestral)",
+        "url": "https://open.spotify.com/album/3f7KIERdCN1UPslXmiIxri"
+      },
+      "artists": [
+        {
+          "name": "Dead by April",
+          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144413,
+      "name": "Dreamlike - orchestral",
+      "url": "https://open.spotify.com/track/2jwlaf1skvY0QEC4I38coo"
+    },
+    {
+      "album": {
         "name": "DROP (feat. Randy Blythe)",
         "url": "https://open.spotify.com/album/4NKRWnBsryI3hSVOSm5ihE"
       },
@@ -8196,6 +8254,24 @@
       "duration_ms": 179166,
       "name": "Fake As Hell (with Avril Lavigne)",
       "url": "https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl"
+    },
+    {
+      "album": {
+        "name": "Fall in Line",
+        "url": "https://open.spotify.com/album/7ru1OonrDxyPDGx3zi6MqT"
+      },
+      "artists": [
+        {
+          "name": "Mushroomhead",
+          "url": "https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284453,
+      "name": "Fall In Line",
+      "url": "https://open.spotify.com/track/7ftpyir5ygZkv92mbZMFqi"
     },
     {
       "album": {
@@ -10846,7 +10922,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 237520,
       "name": "Hi, Hi, Hi - One Hand Clapping Sessions",
       "url": "https://open.spotify.com/track/6PjmshE9HbZY3ZakSEkF2v"
@@ -11548,7 +11624,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 142338,
       "name": "I Can't Explain - Trident Studios Version",
       "url": "https://open.spotify.com/track/4l6aIFWRvq0uiPJnILIDXO"
@@ -13827,6 +13903,24 @@
     },
     {
       "album": {
+        "name": "Just Like 73 (Tom Morello Version)",
+        "url": "https://open.spotify.com/album/7afy0Ytt67hzFxYlLzmKyq"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223133,
+      "name": "Just Like 73 - Tom Morello Version",
+      "url": "https://open.spotify.com/track/11DxHa7QIQ5NfdiHstN2O2"
+    },
+    {
+      "album": {
         "name": "Just Like You",
         "url": "https://open.spotify.com/album/3Bjw90fNqB31PMekx2P9NW"
       },
@@ -13882,7 +13976,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 191982,
       "name": "Kamal",
       "url": "https://open.spotify.com/track/00T25CikedG8RZFkfgyPyJ"
@@ -14439,6 +14533,28 @@
     },
     {
       "album": {
+        "name": "Que Viva el Chamam\u00e9",
+        "url": "https://open.spotify.com/album/4HenxJp1vS4ki7Bhye7H0D"
+      },
+      "artists": [
+        {
+          "name": "Antonio Tarrag\u00f3 Ros",
+          "url": "https://open.spotify.com/artist/65jGZiPXVWGDlLhnICMfvI"
+        },
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224243,
+      "name": "La Vida y la Libertad",
+      "url": "https://open.spotify.com/track/0LpzBuOMD5OgSU3uzCHnFZ"
+    },
+    {
+      "album": {
         "name": "I Can't Explain (Trident Studios Version)",
         "url": "https://open.spotify.com/album/7hYVT6L9DPdUCpOKAnguYo"
       },
@@ -14472,6 +14588,24 @@
       "duration_ms": 207131,
       "name": "Lady Stardust - Alternative Version - Take 1",
       "url": "https://open.spotify.com/track/6D4DDG0bTiCaC4x8EBvkSi"
+    },
+    {
+      "album": {
+        "name": "Rock 'n' Roll Star!",
+        "url": "https://open.spotify.com/album/1bqZP0fgsBTnQaYj4Dte7Z"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200004,
+      "name": "Lady Stardust - Sounds Of The 70s: John Peel - recorded 11th January 1972",
+      "url": "https://open.spotify.com/track/4hqwoqhghRw19lZyd0zu7x"
     },
     {
       "album": {
@@ -14963,6 +15097,24 @@
     },
     {
       "album": {
+        "name": "Let You Go",
+        "url": "https://open.spotify.com/album/74Fi5fLSHlxRhveI7HMLHz"
+      },
+      "artists": [
+        {
+          "name": "All That Remains",
+          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231769,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/5URlaiX8c6XtrpI2ucYxpK"
+    },
+    {
+      "album": {
         "name": "Let\u2019s Dance (40th Anniversary Remix E.P.)",
         "url": "https://open.spotify.com/album/1rh2gXfmFr7pNrOW0s6rIB"
       },
@@ -15300,6 +15452,24 @@
       "duration_ms": 203116,
       "name": "Little Dreamer - Live 1977",
       "url": "https://open.spotify.com/track/5SciZFEK33umJnpFZsukSR"
+    },
+    {
+      "album": {
+        "name": "Little Girls Pointing and Laughing (Live)",
+        "url": "https://open.spotify.com/album/7Iy9LMILoGIaZLknGwZTac"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293958,
+      "name": "Little Girls Pointing and Laughing - Live",
+      "url": "https://open.spotify.com/track/0UL9ahJncduDBElTmZJQ2Q"
     },
     {
       "album": {
@@ -16330,6 +16500,28 @@
       "duration_ms": 446400,
       "name": "Master the Hurricane - Live",
       "url": "https://open.spotify.com/track/71U0mFB7NRzZPRFxCiRR30"
+    },
+    {
+      "album": {
+        "name": "Sobras de Arte",
+        "url": "https://open.spotify.com/album/7dNiMRVlejE0ScgbNWDRLX"
+      },
+      "artists": [
+        {
+          "name": "Frainstrumentos",
+          "url": "https://open.spotify.com/artist/1XIFZexGu17xwWAjdFBLwI"
+        },
+        {
+          "name": "Matiah Chinaski",
+          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215221,
+      "name": "Me La Traje Igual",
+      "url": "https://open.spotify.com/track/7J0ovYPmon3DN0pLkJQall"
     },
     {
       "album": {
@@ -20080,7 +20272,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 329147,
       "name": "Poundcake - Live at the West End Marketplace, Dallas, TX, 12/4/1991",
       "url": "https://open.spotify.com/track/0aaj9GsSexGVLmhG2UCEhy"
@@ -20862,6 +21054,28 @@
       "duration_ms": 223779,
       "name": "Rainy Days & Mondays/Goodbye To Love - Live 1976",
       "url": "https://open.spotify.com/track/1Cz57jHCX2v3DhTFMYCrCW"
+    },
+    {
+      "album": {
+        "name": "Ranma 1/2 (Olvida La Amargura)",
+        "url": "https://open.spotify.com/album/6hVWovjwcad0FSoGXqE9Bh"
+      },
+      "artists": [
+        {
+          "name": "The Covers Duo",
+          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
+        },
+        {
+          "name": "Jade",
+          "url": "https://open.spotify.com/artist/2B05Dwi4tSGx2ohCAWPcYm"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160256,
+      "name": "Ranma 1/2 (Olvida La Amargura)",
+      "url": "https://open.spotify.com/track/59sUk0NRw5WEmnBf72F3FU"
     },
     {
       "album": {
@@ -21996,6 +22210,28 @@
       "duration_ms": 231573,
       "name": "Ruska - Live In Helsinki St. John's Church",
       "url": "https://open.spotify.com/track/6U3oadsJct1P3IiwrESmxO"
+    },
+    {
+      "album": {
+        "name": "Saldek 2024",
+        "url": "https://open.spotify.com/album/5DxxXEVXAQa8P8OgTARXL5"
+      },
+      "artists": [
+        {
+          "name": "Las Bibas",
+          "url": "https://open.spotify.com/artist/3tyACE7GyPeRchIPjNpn7S"
+        },
+        {
+          "name": "Dead Can Dance",
+          "url": "https://open.spotify.com/artist/6sq7prp0tj9Abn89khmfja"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385573,
+      "name": "Saldek 2024",
+      "url": "https://open.spotify.com/track/70qYwGsYqv59fxqQ1o3QGn"
     },
     {
       "album": {
@@ -23155,6 +23391,28 @@
     },
     {
       "album": {
+        "name": "Sobras de Arte",
+        "url": "https://open.spotify.com/album/7dNiMRVlejE0ScgbNWDRLX"
+      },
+      "artists": [
+        {
+          "name": "Frainstrumentos",
+          "url": "https://open.spotify.com/artist/1XIFZexGu17xwWAjdFBLwI"
+        },
+        {
+          "name": "Gran Rah",
+          "url": "https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201823,
+      "name": "Siguen Ah\u00ed",
+      "url": "https://open.spotify.com/track/5p2jHU5DGZbztnxcXMa5zu"
+    },
+    {
+      "album": {
         "name": "Silver Tongue",
         "url": "https://open.spotify.com/album/6kzadEspZVh3DAFv5BnulS"
       },
@@ -23502,6 +23760,28 @@
       "duration_ms": 355982,
       "name": "So Supernatural",
       "url": "https://open.spotify.com/track/7mplFRm9LMbgIvAx32rzvf"
+    },
+    {
+      "album": {
+        "name": "One Hand Clapping",
+        "url": "https://open.spotify.com/album/5bo520v8a72MrqnQNCPh5Y"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236933,
+      "name": "Soily - One Hand Clapping Sessions",
+      "url": "https://open.spotify.com/track/4ahgYKeOdXFQvnMBL2kLDZ"
     },
     {
       "album": {
@@ -25632,7 +25912,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 446762,
       "name": "The Call of Ktulu",
       "url": "https://open.spotify.com/track/05fbvl3wlNRQBzaDoZ6zfG"
@@ -25650,7 +25930,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 446762,
       "name": "The Call of Ktulu",
       "url": "https://open.spotify.com/track/3UlMifZrdaMzOiuTGdCq9t"
@@ -26761,6 +27041,28 @@
     },
     {
       "album": {
+        "name": "The Seasons, Op. 37a: No. 3. March: Song of the Lark",
+        "url": "https://open.spotify.com/album/48aEVQlgaq3oQMk8JE1VFi"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "German Kitkin",
+          "url": "https://open.spotify.com/artist/5HOVcgYQBn73abTDJP8MTy"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141484,
+      "name": "The Seasons, Op. 37a: No. 3. March: Song of the Lark",
+      "url": "https://open.spotify.com/track/3Ij91OkPTUL7pmQcBVayMJ"
+    },
+    {
+      "album": {
         "name": "The Seasons, Op. 37a: No. 6, June. Barcarolle",
         "url": "https://open.spotify.com/album/5iIvvsxvseJ6MRoYMBjpx7"
       },
@@ -26798,7 +27100,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 295310,
       "name": "The Seasons, Op. 37a: No. 6. June: Barcarolle",
       "url": "https://open.spotify.com/track/70lPebrY7CGiZspaaLPufG"
@@ -27900,6 +28202,24 @@
       "duration_ms": 240590,
       "name": "Top 10 staTues tHat CriEd bloOd",
       "url": "https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP"
+    },
+    {
+      "album": {
+        "name": "Top of the World (Live at the West End Marketplace, Dallas, TX, 12/4/1991)",
+        "url": "https://open.spotify.com/album/2OG75CV0b66G4TkZRsVJ9J"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383204,
+      "name": "Top of the World - Live at the West End Marketplace, Dallas, TX, 12/4/1991",
+      "url": "https://open.spotify.com/track/22zR1Ih6YXMDDW4eeZmFfH"
     },
     {
       "album": {
@@ -29573,6 +29893,36 @@
     },
     {
       "album": {
+        "name": "Finsterwacht",
+        "url": "https://open.spotify.com/album/6VbJXyZrazAAEfaS7uOyH1"
+      },
+      "artists": [
+        {
+          "name": "Saltatio Mortis",
+          "url": "https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw"
+        },
+        {
+          "name": "Peyton Parrish",
+          "url": "https://open.spotify.com/artist/62uiaKAdkbY94iXJnXyKzc"
+        },
+        {
+          "name": "Cristina Scabbia",
+          "url": "https://open.spotify.com/artist/7AEYSYdB4fWxrRWCMtP2qk"
+        },
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219999,
+      "name": "We Might Be Giants",
+      "url": "https://open.spotify.com/track/6RV8XTQfO7DXRgT0yJmq2U"
+    },
+    {
+      "album": {
         "name": "Ten Summoner's Tales (Expanded Edition)",
         "url": "https://open.spotify.com/album/5IKj6bT2X51L1xEuQhKcMC"
       },
@@ -30411,6 +30761,24 @@
     },
     {
       "album": {
+        "name": "With Arms Wide Open (Live At Freeman Coliseum / 1999)",
+        "url": "https://open.spotify.com/album/02PewFxKI9y5S5rAPcQfRJ"
+      },
+      "artists": [
+        {
+          "name": "Creed",
+          "url": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323738,
+      "name": "With Arms Wide Open - Live At Freeman Coliseum / 1999",
+      "url": "https://open.spotify.com/track/0gFT6Rj2QVxpWSh36EiZ4Z"
+    },
+    {
+      "album": {
         "name": "BETWEEN DREAD AND VALOR",
         "url": "https://open.spotify.com/album/3SmknD92qODVEs7owlhTgI"
       },
@@ -30502,6 +30870,24 @@
       "duration_ms": 369493,
       "name": "Wolves From The Fog - 1993 Remastered",
       "url": "https://open.spotify.com/track/1xXXI8Or7yd63WeR6niRSv"
+    },
+    {
+      "album": {
+        "name": "Worry",
+        "url": "https://open.spotify.com/album/1qISfk68iEjgZ4cG17YuEy"
+      },
+      "artists": [
+        {
+          "name": "b\u00f4a",
+          "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288946,
+      "name": "Worry",
+      "url": "https://open.spotify.com/track/4TBMUdlZiHHWRZPHMBIMq4"
     },
     {
       "album": {
@@ -31028,6 +31414,24 @@
       "duration_ms": 370293,
       "name": "\u010cohkka/Cort\u00e8ge - Live In Helsinki St. John's Church",
       "url": "https://open.spotify.com/track/0086lDreUts8H4OQRxlxEu"
+    },
+    {
+      "album": {
+        "name": "\u0421\u043e\u043d / Son",
+        "url": "https://open.spotify.com/album/1fcCWRHZESlnXFSPs8piEb"
+      },
+      "artists": [
+        {
+          "name": "Molchat Doma",
+          "url": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "\u0421\u043e\u043d / Son - Radio Edit",
+      "url": "https://open.spotify.com/track/6bn5OFUhl8lm4VzKEPSzEz"
     },
     {
       "album": {

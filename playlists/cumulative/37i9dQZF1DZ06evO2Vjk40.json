@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-02-09",
-  "description": "This is Chris Stapleton. The essential tracks, all in one playlist.",
-  "name": "This Is Chris Stapleton",
+  "description": "This is \u30af\u30ea\u30b9\u30fb\u30b9\u30c6\u30a4\u30d7\u30eb\u30c8\u30f3\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "name": "This Is \u30af\u30ea\u30b9\u30fb\u30b9\u30c6\u30a4\u30d7\u30eb\u30c8\u30f3",
   "tracks": [
     {
       "album": {
@@ -328,7 +328,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 285106,
       "name": "I Bet You Think About Me (feat. Chris Stapleton) (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/4CkgMiMqZ5JzW9iYXSTMTL"

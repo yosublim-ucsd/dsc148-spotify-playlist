@@ -2,16 +2,18 @@
 
 ### [Música Católica ](https://open.spotify.com/playlist/37i9dQZF1DX9foP18YmfwY)
 
-> Os padres e nomes que movem multidões pelo país\. Foto: Davidson Silva, Danúbia M.J
+> Os padres e nomes que movem multidões pelo país\. Foto: Padre Marcelo Rossi, Simone Mendes
 
-147 songs - 11 hr 31 min
+149 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Casa é Sua](https://open.spotify.com/track/3vTzc50vz03dnmg9EC78FC) | [Padre Marcelo Rossi](https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [A Casa é Sua](https://open.spotify.com/album/52tDYBCzgTkXhwzuYZooAJ) | 4:32 | 2024-06-14 |  |
 | [A Tua Ternura](https://open.spotify.com/track/4hvjddkw3ZP1Icx9D0wZOE) | [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO), [Adriana Arydes](https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN) | [A Tua Ternura](https://open.spotify.com/album/5QslSAQyAZKQXVjIeVtdjF) | 3:18 | 2023-11-24 | 2024-04-19 |
 | [A tua ternura](https://open.spotify.com/track/407jM0l4pJwZBbvzFXTw4o) | [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO), [Adriana Arydes](https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN) | [A tua ternura](https://open.spotify.com/album/1V5hxJk8n6AgrB7oHJdVwt) | 3:21 | 2022-09-02 |  |
 | [Acalma Minha Tempestade](https://open.spotify.com/track/2PhnQYOU7iDcvTym7tzXwb) | [Banda Quinta Estação \- Música Católica](https://open.spotify.com/artist/5i56yo2E5LSVIylJhTuE5l) | [Acalma Minha Tempestade](https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU) | 5:22 | 2022-10-14 |  |
 | [Acalma o Meu Coração](https://open.spotify.com/track/0bgYj6YkauDFia2BvgrL9M) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Adriana Arydes](https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN) | [Acalma o Meu Coração](https://open.spotify.com/album/4znUClTL2uqwqfIZG1lVw9) | 4:22 | 2022-09-02 |  |
+| [Acima dos Telhados \- Acoustic](https://open.spotify.com/track/4trwDfKxmbB5SR3tTrLnt3) | [Thiago Brado](https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK), [Reale](https://open.spotify.com/artist/5S9ALhmjD6gJ52YKXSHJu6) | [Acima dos Telhados \(Acoustic\)](https://open.spotify.com/album/1cy1MKq0hUWIZYQ6Ws4O9x) | 6:35 | 2024-06-14 |  |
 | [Alma de Cristo](https://open.spotify.com/track/2ihGz1qkAcxCrU8RsO3TZm) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin) | [Banquete Eterno](https://open.spotify.com/album/4jnSnb99zjQcs5sjakBIyp) | 3:52 | 2023-11-24 | 2024-04-19 |
 | [Alma de Cristo](https://open.spotify.com/track/5biyHI1KgkgmP2Lh7qey2S) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin) | [Alma de Cristo](https://open.spotify.com/album/7sEqIY578bRcQMIRpD2jqA) | 3:52 | 2022-09-02 |  |
 | [Ana e Maria](https://open.spotify.com/track/6Z5u1AKPvXMtIJaKah0KeM) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK) | [Ana e Maria](https://open.spotify.com/album/6jjVrZBuB3fRQmqiV9C2Jp) | 3:49 | 2023-02-25 | 2023-06-03 |
@@ -128,7 +130,7 @@
 | [Reinflama](https://open.spotify.com/track/60jwaZ07sq7shi91okXDQL) | [Flavinho](https://open.spotify.com/artist/3H7Mab3ekd2nFkjy9n6co4) | [Reinflama](https://open.spotify.com/album/2D8RWVo0qdvwm3zu8Kvt9I) | 3:51 | 2022-09-02 | 2023-08-19 |
 | [Retrovisor](https://open.spotify.com/track/79Vqir1xW9gpTkZQDe1bje) | [Padre Fábio De Melo](https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Retrovisor](https://open.spotify.com/album/3k0k584H1fIbsaGfdET3Yi) | 3:38 | 2022-09-02 |  |
 | [Romanos 12](https://open.spotify.com/track/1wRFaq5QqbIgS2vJTazBuL) | [Fraternidade São João Paulo II](https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt) | [Romanos 12](https://open.spotify.com/album/1HNPnd9VdzaOtRo933kud2) | 8:10 | 2023-11-24 |  |
-| [Romaria](https://open.spotify.com/track/2qBAmHKdaXpxAm63nPTPQO) | [Daniel](https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Romaria](https://open.spotify.com/album/5PRPqe8TP4JPqklpWtVTne) | 4:41 | 2022-10-14 |  |
+| [Romaria](https://open.spotify.com/track/2qBAmHKdaXpxAm63nPTPQO) | [Daniel](https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Romaria](https://open.spotify.com/album/5PRPqe8TP4JPqklpWtVTne) | 4:41 | 2022-10-14 | 2024-06-15 |
 | [Romaria \- Ao Vivo](https://open.spotify.com/track/06gsgAFv0RXiFnir0PsuYj) | [Daniel](https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM), [Leo Cidade](https://open.spotify.com/artist/6zikg0PVHgcLu227sEPDit) | [Romaria \(Ao Vivo\)](https://open.spotify.com/album/36ZVrFlkRLQOEJO4p2ha3U) | 5:19 | 2022-09-02 |  |
 | [Sagrada Beleza](https://open.spotify.com/track/0cIoeW3jCYVJwRTbKbEFAs) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK) | [Sagrada Beleza](https://open.spotify.com/album/6rzJoLDKx9H0pJVbwTIouy) | 3:47 | 2022-09-02 | 2023-02-11 |
 | [Santa Maria das Criancinhas](https://open.spotify.com/track/7JHagjKO0odXVQAwHfjJjk) | [Música Legionária](https://open.spotify.com/artist/1K8m2SYdmpAHFe54dt5nZB), [Júlia Melo](https://open.spotify.com/artist/2AcaqHSl3NYQZORUxnUygt), [Nilton Duarte](https://open.spotify.com/artist/7KrQ1ROzmauhfaevQDXwG3) | [Santa Maria das Criancinhas](https://open.spotify.com/album/2JgGFjBhY7pPOfBlfhtTwC) | 5:02 | 2023-05-12 | 2023-06-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 
 > This is LEGADO 7\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,071 likes - 51 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,097 likes - 51 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,15 +30,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 | 20 | [Reyes Magos](https://open.spotify.com/track/4FdSA59Wyl2p5FOW3lrNkX) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [JOP](https://open.spotify.com/artist/7ob0holUszbJOSSotPiyba) | [Reyes Magos](https://open.spotify.com/album/607kkbEXNd4v5AOE5CnttF) | 2:08 |
 | 21 | [Cupcake Quemando](https://open.spotify.com/track/2AEIwBU42xkLwkCj7i7USv) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Cupcake Quemando](https://open.spotify.com/album/4jRTPn5owoTaIbmrIgxLjp) | 3:17 |
 | 22 | [El 7 De Fontana](https://open.spotify.com/track/0uY8iUh4kIITAKwz3zCEWI) | [JTres](https://open.spotify.com/artist/540HJhSFm9vELfBbvxRAEJ), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El 7 De Fontana](https://open.spotify.com/album/2oK2LRH64DJEAwxPHoAyYe) | 2:27 |
-| 23 | [Hombre Nuevo](https://open.spotify.com/track/65ns9zvAO4hekJu8JlIooP) | [Eduardo Laguna](https://open.spotify.com/artist/0Av9PpyBkQ2p9rwuvrfx2B), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Hombre Nuevo](https://open.spotify.com/album/0Ug6cCULP4cnBYSC6PfG2d) | 3:21 |
-| 24 | [El Diecinueve](https://open.spotify.com/track/6nEvcWB5luWoVSmClxP6WW) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [El Diecinueve](https://open.spotify.com/album/2KgGpp3o7lwCNGemdnGcEB) | 2:51 |
+| 23 | [El Diecinueve](https://open.spotify.com/track/6nEvcWB5luWoVSmClxP6WW) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [El Diecinueve](https://open.spotify.com/album/2KgGpp3o7lwCNGemdnGcEB) | 2:51 |
+| 24 | [Hombre Nuevo](https://open.spotify.com/track/65ns9zvAO4hekJu8JlIooP) | [Eduardo Laguna](https://open.spotify.com/artist/0Av9PpyBkQ2p9rwuvrfx2B), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Hombre Nuevo](https://open.spotify.com/album/0Ug6cCULP4cnBYSC6PfG2d) | 3:21 |
 | 25 | [Bien Tumbado](https://open.spotify.com/track/21TM6acDWDZOzvamVZnlsD) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Duetos Con La Clika](https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq) | 2:06 |
 | 26 | [El Amor No Va Conmigo](https://open.spotify.com/track/5BC3WcsvtWm3d7nVuyAGMe) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Un Chamaco Sin Futuro](https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI) | 2:21 |
 | 27 | [Pancho Conos](https://open.spotify.com/track/5NNu8DfB4Db1cbr4BSeUsu) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [En Vivo con Tololoche Vol\. 1](https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg) | 2:54 |
 | 28 | [En El Humaderon](https://open.spotify.com/track/6BAZbh10ZAypxD3nVpTPsS) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 3:23 |
 | 29 | [Soy Lo Que Soy](https://open.spotify.com/track/1l3pEeeJygmbS1yVnrd7Cq) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [4\-20\-20](https://open.spotify.com/album/2kdiYl2mgBwY3cvEmIeSgD) | 3:00 |
-| 30 | [El Gori](https://open.spotify.com/track/1HKCPYUanIF67N6vWknABj) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [El Gori](https://open.spotify.com/album/22J5eVxDiCkMMalHqT2jzK) | 2:17 |
-| 31 | [Pateando Latas](https://open.spotify.com/track/3yQXmNacfHANLuaK5qomxz) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [The Magic, Vol.1](https://open.spotify.com/album/4q02YCUCtiUpDcUZ75D561) | 3:11 |
+| 30 | [Pateando Latas](https://open.spotify.com/track/3yQXmNacfHANLuaK5qomxz) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [The Magic, Vol.1](https://open.spotify.com/album/4q02YCUCtiUpDcUZ75D561) | 3:11 |
+| 31 | [El Gori](https://open.spotify.com/track/1HKCPYUanIF67N6vWknABj) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [El Gori](https://open.spotify.com/album/22J5eVxDiCkMMalHqT2jzK) | 2:17 |
 | 32 | [El Doble M](https://open.spotify.com/track/41NPmOc9fdROE5o1BpCn2w) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [El Doble M](https://open.spotify.com/album/63LuzfHyA0yV3RH4ZvEHL9) | 2:26 |
 | 33 | [El Jeffrey](https://open.spotify.com/track/6KKseqrcB5I4IeGB0pEBcV) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [L.A\. Lumbre](https://open.spotify.com/album/7iZ9VeN3GuIQrA0wFnXrDb) | 2:33 |
 | 34 | [El Chili Willy](https://open.spotify.com/track/4TBinkhZWTRdjio4DCHtCm) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [El 7 De La Suerte](https://open.spotify.com/album/5p6nXo6us9G1aTqaHLDJV1) | 3:37 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 | 50 | [Paso En Culiacan \(En Vivo\)](https://open.spotify.com/track/0PXsTgZLZkpEJepjyZAGTS) | [Jaime Y Fernando](https://open.spotify.com/artist/6hd4yoO98vmwUq150wB5gm), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Paso En Culiacan \(En Vivo\)](https://open.spotify.com/album/6dWQ03bpI9ODThTAlqKWbP) | 4:00 |
 | 51 | [Olor a Kush](https://open.spotify.com/track/2MUyOgaUmr77dHeqPoZhAc) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [100% Corridos Verdes](https://open.spotify.com/album/1DUb3GFpaTgNkxkCjdoc2i) | 2:36 |
 
-Snapshot ID: `ZmjlAAAAAADirZlkKYwKY09gs86epflN`
+Snapshot ID: `Zmo2gAAAAAAeTtJsy6aNo8WR5K7h/a3+`

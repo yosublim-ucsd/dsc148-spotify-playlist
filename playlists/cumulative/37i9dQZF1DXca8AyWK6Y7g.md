@@ -2,9 +2,9 @@
 
 ### [young & free](https://open.spotify.com/playlist/37i9dQZF1DXca8AyWK6Y7g)
 
-> your record's so good I wanna play it again and again 📸 Haiden Henderson
+> i tell them it's just your culture and everyone 🙄 📸 Sabrina Carpenter
 
-2,079 songs - 4 day 8 hr 34 min
+2,080 songs - 4 day 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -545,6 +545,7 @@
 | [Elephants](https://open.spotify.com/track/0cQBcNfHjRQ6lP1yQFGsjL) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [Elephants](https://open.spotify.com/album/0lsGEjeoUpw5bhjbloBqaa) | 2:31 | 2019-05-26\* | 2019-08-13 |
 | [Elevator](https://open.spotify.com/track/1YfbJV5J2V2fU5OcFmzi03) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Elevator](https://open.spotify.com/album/0bG8tpGG0eY8VW4PLXa6uC) | 2:45 | 2022-10-21 | 2022-10-29 |
 | [Emotional](https://open.spotify.com/track/7stcGiG3ssPOHa7WZK7flD) | [okaywill](https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L) | [Emotional](https://open.spotify.com/album/4OY86d4jBbtYxj2Yf6IhRo) | 3:12 | 2019-05-26\* | 2019-08-13 |
+| [emotional affair](https://open.spotify.com/track/7IILWCwr8Tgw6lXxjXriT2) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [emotional affair](https://open.spotify.com/album/2OE6A20vXzzFh66WJ23Xmu) | 3:01 | 2024-06-14 |  |
 | [emotional capacity](https://open.spotify.com/track/3tTuteumUYWfrwyYRlJ8WQ) | [Sarah Thompson](https://open.spotify.com/artist/7fMszWkv9oChFal6nM505j) | [emotional capacity](https://open.spotify.com/album/3RMN6pSEmOx2Z1ZtA6qnLn) | 3:14 | 2024-02-23 | 2024-06-01 |
 | [Encinitas](https://open.spotify.com/track/4tO2Ol08xzay6zcfhDKpuN) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [Encinitas](https://open.spotify.com/album/6e9X7ZNcY6gUwwhZdUQl9Z) | 2:51 | 2021-07-06 | 2022-09-03 |
 | [End of an Era](https://open.spotify.com/track/2nQY9jprTEWOVMIAdN0o48) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [End of an Era](https://open.spotify.com/album/4IUNO0oCCoM5DZ3va30wVc) | 2:13 | 2022-10-28 | 2022-12-24 |
@@ -1673,7 +1674,7 @@
 | [Someone New](https://open.spotify.com/track/6YlDVG1IV2DsIkxHNgsLPu) | [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ) | [Someone New](https://open.spotify.com/album/2UtK7ZnCLMEuFf7KuKqGWY) | 3:37 | 2020-10-17 | 2021-04-13 |
 | [Someone On The Internet](https://open.spotify.com/track/4uW3eW3YVRqddbMrZf4caM) | [Will Jay](https://open.spotify.com/artist/4lWJityOQkWcLFiboQBvBq) | [Someone On The Internet](https://open.spotify.com/album/7iy5XSdRsFVU2X25eEAhPX) | 3:02 | 2023-02-03 | 2023-02-18 |
 | [Someone to Blame](https://open.spotify.com/track/7xCrXGPDHKYHIyPOaDAv8Q) | [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [a letter to me](https://open.spotify.com/album/2jLOhU9bWQgsKQ6fVa9xVE) | 3:20 | 2022-06-10 | 2022-06-25 |
-| [Someone You Once Had](https://open.spotify.com/track/0xwjCE5vxusQU55F96GXYa) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Someone You Once Had](https://open.spotify.com/album/5Jgn1TXdSHxrWIfKyzsB67) | 3:12 | 2023-04-22 |  |
+| [Someone You Once Had](https://open.spotify.com/track/0xwjCE5vxusQU55F96GXYa) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Someone You Once Had](https://open.spotify.com/album/5Jgn1TXdSHxrWIfKyzsB67) | 3:12 | 2023-04-22 | 2024-06-15 |
 | [Something for Nothing](https://open.spotify.com/track/2YsTXIYCmu5VMDZwMsRZU4) | [Micah Jasper](https://open.spotify.com/artist/5kchpeY2CQ3Bv6F7flHdRY), [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Something for Nothing](https://open.spotify.com/album/7DHeeuSNLE4O84ZvhWsJeM) | 2:44 | 2021-10-13 | 2021-11-13 |
 | [Something Good](https://open.spotify.com/track/6T8rR0AM7THecfwyVMn63S) | [MAYLYN](https://open.spotify.com/artist/36L4aidPfPFcI1KPY1XDFM) | [Something Good](https://open.spotify.com/album/5AtU2Ooki8hMvilgUV0IZ9) | 2:41 | 2020-04-21 | 2021-05-28 |
 | [Something in the Water](https://open.spotify.com/track/4GGqXsLlVTiHfrCXnMKo2L) | [Carrie Baxter](https://open.spotify.com/artist/052GxJJYMQVVqXRsZfORK1) | [What Now](https://open.spotify.com/album/3WgzjVZhIalVan2yCG3lhr) | 2:40 | 2022-01-07 | 2022-03-12 |

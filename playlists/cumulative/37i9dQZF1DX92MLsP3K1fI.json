@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Kaia Lana en portada.",
+  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Juan Gabriel en portada.",
   "name": "Oye Pop",
   "tracks": [
     {
@@ -764,7 +764,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 212852,
       "name": "Blanco Y Negro",
       "url": "https://open.spotify.com/track/3s96JLi4otLNGrVK6Eik7f"
@@ -3516,7 +3516,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 166207,
       "name": "Modo Melanc\u00f3lico",
       "url": "https://open.spotify.com/track/4APwd61xpDtKY2rcac8VCI"
@@ -4464,6 +4464,24 @@
       "duration_ms": 176524,
       "name": "Polaroid",
       "url": "https://open.spotify.com/track/3r5FAJam7uWGVxO9wKERn5"
+    },
+    {
+      "album": {
+        "name": "Mis Tributos",
+        "url": "https://open.spotify.com/album/30JextuxXVMYWhTDuKQePj"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420400,
+      "name": "Popurr\u00ed a Luis Arcaraz",
+      "url": "https://open.spotify.com/track/3MAYyFpaHuMfgYU2Lsgxk5"
     },
     {
       "album": {
@@ -6258,6 +6276,24 @@
       "duration_ms": 166586,
       "name": "\u00bfQu\u00e9 M\u00e1s Quieres De M\u00ed?",
       "url": "https://open.spotify.com/track/4PWIY4NKlOU618loEsD41O"
+    },
+    {
+      "album": {
+        "name": "\u00c9l",
+        "url": "https://open.spotify.com/album/0fxCR3dXs9vmyUdmMf4sJ8"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155581,
+      "name": "\u00c9l",
+      "url": "https://open.spotify.com/track/4uWMutZ5F10gRRsRo5ey3M"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX92MLsP3K1fI"

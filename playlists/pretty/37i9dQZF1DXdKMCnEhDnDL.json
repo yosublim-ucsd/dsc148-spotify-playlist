@@ -1,12 +1,12 @@
 {
   "description": "De beste Nederlandse liedjes. Cover: Tino Martin & Anouk",
-  "num_followers": 487083,
+  "num_followers": 487133,
   "original_name": "Beste van NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmtr4AAAAACybaBIdrGtmdm4wuhrU+na",
+  "snapshot_id": "Zmw4MAAAAAAaeyYSH6xuw5jq5U3/nG6t",
   "tracks": [
     {
       "added_at": "2024-06-13 22:00:00",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Dat heb jij gedaan",
+        "url": "https://open.spotify.com/album/4R1T4H4n4YuL92AJ4EgLyJ"
+      },
+      "artists": [
+        {
+          "name": "MEAU",
+          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
+        }
+      ],
+      "duration_ms": 211174,
+      "name": "Dat heb jij gedaan",
+      "url": "https://open.spotify.com/track/6lgIi3ixBsr4cMt3r19yX9"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Noodzakelijk Verdriet",
         "url": "https://open.spotify.com/album/2K7gv2r8UMcEbp88ytO12o"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 183281,
       "name": "Ik Kom Weer Thuis",
       "url": "https://open.spotify.com/track/5VzimlAe6d9QJgCYgWky8v"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Dat heb jij gedaan",
-        "url": "https://open.spotify.com/album/4R1T4H4n4YuL92AJ4EgLyJ"
-      },
-      "artists": [
-        {
-          "name": "MEAU",
-          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
-        }
-      ],
-      "duration_ms": 211174,
-      "name": "Dat heb jij gedaan",
-      "url": "https://open.spotify.com/track/6lgIi3ixBsr4cMt3r19yX9"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -875,7 +875,7 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Sliden EP",
+        "name": "Sliden",
         "url": "https://open.spotify.com/album/4DtdhtDmxanQokbOQmpytY"
       },
       "artists": [

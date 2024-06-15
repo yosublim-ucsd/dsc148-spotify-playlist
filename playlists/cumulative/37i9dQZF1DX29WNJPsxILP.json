@@ -345,6 +345,32 @@
     },
     {
       "album": {
+        "name": "Bhai Hai",
+        "url": "https://open.spotify.com/album/030XdUEQhiS5NI7hgvgLap"
+      },
+      "artists": [
+        {
+          "name": "Fotty Seven",
+          "url": "https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA"
+        },
+        {
+          "name": "Bali",
+          "url": "https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8"
+        },
+        {
+          "name": "Enzo",
+          "url": "https://open.spotify.com/artist/0QX0UY2UJtnhfEbqUbTz6h"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144375,
+      "name": "Bhai Hai",
+      "url": "https://open.spotify.com/track/0z2xoirJvVGRDXoBxaH9h8"
+    },
+    {
+      "album": {
         "name": "Bhussi",
         "url": "https://open.spotify.com/album/1bRdFGU7FkyGzJdODQz3dj"
       },
@@ -822,7 +848,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 250434,
       "name": "Fomo",
       "url": "https://open.spotify.com/track/0UtZD1wNeR0VqukhXs0AN4"

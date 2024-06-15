@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHyQewEPANgB.md) - [plain]
 | 84 | [W.H.E.W\. \(Fat Al & The Silk Drawers\)](https://open.spotify.com/track/5ZxIVf6rWtKuBnYMe6smcH) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [W.H.E.W.](https://open.spotify.com/album/5HOZdRUmU9xas3SRjQx5wE) | 1:21 |
 | 85 | [W.H.E.W\. \(SouthWest Kesha Mission\)](https://open.spotify.com/track/2nXQCxv2VSlHZ1ELHpOnLo) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [W.H.E.W.](https://open.spotify.com/album/5HOZdRUmU9xas3SRjQx5wE) | 1:27 |
 
-Snapshot ID: `AbT+ggAAAAAW7ioPl4eODpcKxPi50vW7`
+Snapshot ID: `AbUEIgAAAACYkbbQvbeVURIPQD3ZQZnC`

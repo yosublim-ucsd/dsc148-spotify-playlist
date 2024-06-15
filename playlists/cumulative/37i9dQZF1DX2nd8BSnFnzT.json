@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Leonardo Ramos \u2764\ufe0f Isa Salles, Andre D\u00e9a \u2764\ufe0f Carol Navarro, Paulo Vaz \u2764\ufe0f \ud83d\udd6f\ufe0f\ud83d\ude2c",
+  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Supercombo",
   "name": "P\u00e1tria Rock",
   "tracks": [
     {
@@ -1963,6 +1963,24 @@
     },
     {
       "album": {
+        "name": "De Volta Ao Novo - EP Vers\u00f5es & Remixes",
+        "url": "https://open.spotify.com/album/4SFk6ZJ9AWPVv6inO5jOpu"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206896,
+      "name": "De Volta Ao Novo - Live in Rio",
+      "url": "https://open.spotify.com/track/6yzDcTf1DnuevYmKksYTMe"
+    },
+    {
+      "album": {
         "name": "Deixar Viver",
         "url": "https://open.spotify.com/album/38lIRym65wLQtPHIN5Z9lO"
       },
@@ -2982,7 +3000,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 190384,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/3sOfcud8C4YSVOiCGWynYM"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 
 > The hits you know like you’ve never heard before\. Cover: Madison Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 736,170 likes - 125 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 736,161 likes - 125 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,10 +119,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 | 109 | [Don't Let Me Down \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1RMwLHYjOOlf2EqiCwl6gI) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Spotify Singles](https://open.spotify.com/album/2nj1jLhRLutogV9qdEZpx4) | 2:54 |
 | 110 | [Creep](https://open.spotify.com/track/5LRxdeykOfvKb1aWGrrGyo) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Creep \(mint Singles\)](https://open.spotify.com/album/31LEjqDdP0TyZgiuse84cf) | 2:41 |
 | 111 | [I Like Me Better \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2uQNcZYa0SEbfW4cj0d9OS) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Spotify Singles](https://open.spotify.com/album/2Ivz1Ch7qB9yR3uLr8T1pj) | 3:22 |
-| 112 | [Wide Open Spaces \- Spotify Singles](https://open.spotify.com/track/5ZO6g6fEK9tsXNn2yqlzIr) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Wide Open Spaces \- Spotify Singles](https://open.spotify.com/album/14J7gZWOOBbG3LKtE0xs4t) | 4:00 |
-| 113 | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/track/0Muqa8sNqVvjEQo4yfBKXw) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/album/4TOyAu2CWO1kPitP0AxAZV) | 4:32 |
-| 114 | [Stay \- Spotify Singles](https://open.spotify.com/track/2mKGjVCoxL8Um9GkNhhyto) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Spotify Singles](https://open.spotify.com/album/6lsdqhAPgBr4zykC1SXhW5) | 2:55 |
-| 115 | [Summer Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3LSnp6mtKiVXCJwsmOvfMd) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Spotify Singles](https://open.spotify.com/album/5hLin1G9HnweybsmPME5QV) | 3:34 |
+| 112 | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/track/0Muqa8sNqVvjEQo4yfBKXw) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/album/4TOyAu2CWO1kPitP0AxAZV) | 4:32 |
+| 113 | [Wide Open Spaces \- Spotify Singles](https://open.spotify.com/track/5ZO6g6fEK9tsXNn2yqlzIr) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Wide Open Spaces \- Spotify Singles](https://open.spotify.com/album/14J7gZWOOBbG3LKtE0xs4t) | 4:00 |
+| 114 | [Summer Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3LSnp6mtKiVXCJwsmOvfMd) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Spotify Singles](https://open.spotify.com/album/5hLin1G9HnweybsmPME5QV) | 3:34 |
+| 115 | [Stay \- Spotify Singles](https://open.spotify.com/track/2mKGjVCoxL8Um9GkNhhyto) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Spotify Singles](https://open.spotify.com/album/6lsdqhAPgBr4zykC1SXhW5) | 2:55 |
 | 116 | [Un\-Break My Heart \- Spotify Singles](https://open.spotify.com/track/0wGOX6Go9IHpSXgL6SfsD1) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Spotify Singles](https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25) | 4:16 |
 | 117 | [All Night Long \(All Night\) \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/5LKNumPGm1bEyVroDE4rcZ) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Spotify Singles](https://open.spotify.com/album/0xpF1XxmYVSY6V9fiRiho2) | 3:08 |
 | 118 | [Circles \- Recorded at Electric Lady Studios NYC, 2020](https://open.spotify.com/track/31SdhreEaxPfyMJvWiw9R6) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Spotify Singles](https://open.spotify.com/album/31XFdluptfjbWjlvqGbegP) | 3:52 |

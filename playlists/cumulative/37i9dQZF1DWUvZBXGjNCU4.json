@@ -1431,6 +1431,24 @@
     },
     {
       "album": {
+        "name": "Echoes of the Past",
+        "url": "https://open.spotify.com/album/6EZc29CJCqoxrDqMUzxVBQ"
+      },
+      "artists": [
+        {
+          "name": "Xavier Carrington",
+          "url": "https://open.spotify.com/artist/0JDZapKabh58jXFvcSqZRB"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Echoes of the Past",
+      "url": "https://open.spotify.com/track/2St2TvHIluz7NkdgTcEMEv"
+    },
+    {
+      "album": {
         "name": "Cuyutlan",
         "url": "https://open.spotify.com/album/7HhrRiyLX4MJ9m3brNjQ0H"
       },
@@ -2256,7 +2274,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 148510,
       "name": "Hold Back The River",
       "url": "https://open.spotify.com/track/52X6M2Kp4HvpHup3tafEF5"
@@ -2454,7 +2472,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 275822,
       "name": "I Still Care",
       "url": "https://open.spotify.com/track/44DlskiTMq62euBoQZWPKO"
@@ -3534,7 +3552,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 151666,
       "name": "Nebraska",
       "url": "https://open.spotify.com/track/3q5fdhlCmgridfA7Vvno89"
@@ -4704,7 +4722,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 128167,
       "name": "Sun over the desert",
       "url": "https://open.spotify.com/track/3wNOEQe2NOlExECcLqVPLG"

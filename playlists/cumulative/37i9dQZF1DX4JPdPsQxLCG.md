@@ -4,7 +4,7 @@
 
 > Epic tunes for the open road.
 
-440 songs - 1 day 4 hr 17 min
+441 songs - 1 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,10 +109,11 @@
 | [drive](https://open.spotify.com/track/1POBIDmX5L8lDEQSkO1DBi) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [drive](https://open.spotify.com/album/0DbML0JCn2c8JhNYwx2Fcu) | 2:46 | 2023-10-06 | 2023-10-14 |
 | [Driving](https://open.spotify.com/track/2Q3LZMVppaxai3TTHVxozT) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Driving](https://open.spotify.com/album/0lzkAvzMvBddebjkEqsn3e) | 3:00 | 2023-07-21 | 2024-04-19 |
 | [Early Morning Rain](https://open.spotify.com/track/5M1gX3DQvgc7GI6dBWX9FL) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Gord's Gold](https://open.spotify.com/album/6okC12pcFeLZOifXdunuhQ) | 3:18 | 2022-05-02 | 2023-05-19 |
+| [Easygoing](https://open.spotify.com/track/6oFAJFw5D8HjQFCWwf3XFr) | [Skinny Dyck](https://open.spotify.com/artist/1saewocg14MmejEW9t4SZL) | [Easygoing](https://open.spotify.com/album/3bXAVr8a2qBMETr34sSNt0) | 3:53 | 2024-06-14 |  |
 | [Eat My Brain](https://open.spotify.com/track/2oUASWffEKd5cfoqTpQK86) | [Odds](https://open.spotify.com/artist/1MVQ4bbrG5VdRyozjajZQp) | [Good Weird Feeling](https://open.spotify.com/album/4Ov3XdAlqU8tqWCOwJ1WQq) | 4:26 | 2022-05-02 | 2022-07-29 |
 | [Echo Beach](https://open.spotify.com/track/08gcSzRD66Dc7z3x6yigol) | [Martha and the Muffins](https://open.spotify.com/artist/5nWbdgU2jcFSbrPV7EAoLK) | [80\-Regine del Pop](https://open.spotify.com/album/69POGM6ZPfBNMNvxgUys87) | 3:34 | 2022-09-13 | 2024-03-22 |
 | [Echo Beach](https://open.spotify.com/track/49wHCjiu34kM3VRgumQ1tJ) | [Martha and the Muffins](https://open.spotify.com/artist/5nWbdgU2jcFSbrPV7EAoLK) | [Metro Music](https://open.spotify.com/album/3XyR0jp0zJGjhLJjnltNaX) | 3:39 | 2022-05-02 | 2023-03-02 |
-| [Eckhaus Latta](https://open.spotify.com/track/6eREarnGP0ESQPQAtzx66p) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Eckhaus Latta](https://open.spotify.com/album/581K715k3W1jz1LqgmOKKz) | 2:49 | 2024-04-19 |  |
+| [Eckhaus Latta](https://open.spotify.com/track/6eREarnGP0ESQPQAtzx66p) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Eckhaus Latta](https://open.spotify.com/album/581K715k3W1jz1LqgmOKKz) | 2:49 | 2024-04-19 | 2024-06-15 |
 | [Electric Pow Wow Drum](https://open.spotify.com/track/5e8v4ibmsMHxHLALe5KaiZ) | [The Halluci Nation](https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z) | [A Tribe Called Red](https://open.spotify.com/album/1FYVy6b5R41tMIAhWS6fXJ) | 3:39 | 2022-05-02 | 2024-04-19 |
 | [Enough Is Enough](https://open.spotify.com/track/2N6UO8dx5jlTJSZqHXowFy) | [April Wine](https://open.spotify.com/artist/1JHzh1ETQTMoFb2CgncnTL) | [Power Play](https://open.spotify.com/album/0j0ilztsHKBGYUskQJWyeX) | 4:04 | 2022-05-02 | 2022-07-29 |
 | [Everybody Knows](https://open.spotify.com/track/60s0QWaOZ2UTzqdIHBCt3x) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [I'm Your Man](https://open.spotify.com/album/3gUw30X6A7WEGcRdv1nFr9) | 5:34 | 2022-05-02 | 2023-05-19 |

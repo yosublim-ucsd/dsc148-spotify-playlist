@@ -1,13 +1,29 @@
 {
   "description": "Bluesy blips and blops",
-  "num_followers": 9834,
+  "num_followers": 9837,
   "original_name": "Bluestronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zf0CfAAAAAAX1W/A9hturVqzBLrgZzPG",
+  "snapshot_id": "ZmvAQAAAAACg9IGHBx21Z5GL8dhE94c8",
   "tracks": [
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/2V2NyOg2eK8ecHkLeD26Zb"
+      },
+      "artists": [
+        {
+          "name": "Yemanjo",
+          "url": "https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N"
+        }
+      ],
+      "duration_ms": 313521,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/3iRXajsv5AFqDE47zpqlIN"
+    },
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {

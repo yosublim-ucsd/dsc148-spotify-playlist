@@ -2,7 +2,7 @@
 
 ### [Hip\-Hop Haryanvi](https://open.spotify.com/playlist/37i9dQZF1DWXpuQNEd48No)
 
-> Yo Hai Haryanvi Hip\-Hop! Cover: Dhanda Nyoliwala
+> Yo Hai Haryanvi Hip\-Hop! Cover: Krackerr & Srishti Jaiswal
 
 245 songs - 12 hr 50 min
 
@@ -179,7 +179,7 @@
 | [No Tension](https://open.spotify.com/track/4F3ksXYJZm3ul80riHyKsR) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY) | [No Tension \- Single](https://open.spotify.com/album/1N7yR1QOcwioXADCzjGL5L) | 3:45 | 2023-12-14 | 2024-02-11 |
 | [No Tension](https://open.spotify.com/track/6mXGWMfVqcDd1uvaPK3y7J) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY) | [No Tension](https://open.spotify.com/album/23F9FHnyfGhXc2mUh8kmzc) | 3:45 | 2024-03-01 | 2024-04-19 |
 | [No Worries](https://open.spotify.com/track/6r1TU60kDywJuu3EPrwHLe) | [Pulkit Arora](https://open.spotify.com/artist/2z0yNxAp5m9eZDHARjHwhQ) | [No Worries](https://open.spotify.com/album/5McT7ublWKojSCLew2Eh2C) | 2:52 | 2023-04-18 | 2023-06-11 |
-| [Nonstop](https://open.spotify.com/track/0nmWdTvhu6nduoTl7BB7p5) | [BigMoney](https://open.spotify.com/artist/41pzoBBVcwaMdSiPlrUuth) | [7 Down 8 Up](https://open.spotify.com/album/2TFMQknbNORttU4HjgsIXn) | 2:32 | 2024-06-13 |  |
+| [Nonstop](https://open.spotify.com/track/0nmWdTvhu6nduoTl7BB7p5) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE) | [7 Down 8 Up](https://open.spotify.com/album/2TFMQknbNORttU4HjgsIXn) | 2:32 | 2024-06-13 |  |
 | [Not Afraid](https://open.spotify.com/track/6NiI4lT0odRC70uRJ4Bg77) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY) | [Not Afraid](https://open.spotify.com/album/3suDToPPHBihogvFsRuTcR) | 3:02 | 2023-12-14 | 2024-05-06 |
 | [OG](https://open.spotify.com/track/23ON0lC7ppFxmWTazcIbU6) | [Sammy Dulat](https://open.spotify.com/artist/5yEWvgoNRZReerWDujkDMw) | [OG](https://open.spotify.com/album/2O8jwQ7KdrM6uucbRVBAde) | 2:48 | 2024-03-06 | 2024-03-09 |
 | [OG Choro](https://open.spotify.com/track/4quZp6YfYpGF11kW9F0CJS) | [Nit\-C](https://open.spotify.com/artist/5d78ROCXcoKyqE99MOaYl3) | [OG Choro](https://open.spotify.com/album/6GEnpXLuQQmGVlr2dmJJij) | 2:11 | 2024-06-13 |  |

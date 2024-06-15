@@ -2,7 +2,7 @@
 
 ### [Indielandia](https://open.spotify.com/playlist/37i9dQZF1DWZ0Zsena4JFh)
 
-> Un parque de diversiones para gustos inconformes y sofisticados\. Aurora en portada.
+> Un parque de diversiones para gustos inconformes y sofisticados\. Cigarettes After Sex en portada.
 
 247 songs - 15 hr 3 min
 
@@ -120,7 +120,7 @@
 | [Is This What It Feels Like to Feel Like This?](https://open.spotify.com/track/6LTVD3zeHqAAiSqyKDhNEH) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Is This What It Feels Like to Feel Like This? \(Myd Remix\)](https://open.spotify.com/album/5ntFw6kOzBWC6xXf5SS5Q6) | 2:45 | 2023-08-04 | 2023-11-22 |
 | [Isolette \- Edit](https://open.spotify.com/track/4s8bmFAHXhmPHrBasuGx62) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Isolette \(Edit\)](https://open.spotify.com/album/3uFBPwfmLFoDPIVZxA35b1) | 2:37 | 2023-08-25 | 2023-11-18 |
 | [it's all my fault](https://open.spotify.com/track/6o6QMaHEXJ0uOrYnXjDa2M) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [it's all my fault](https://open.spotify.com/album/7JrTSL1Igl2xTyAMFtJnXt) | 2:35 | 2023-11-24 | 2023-12-02 |
-| [It's So Good](https://open.spotify.com/track/1Cc00pWEDEDiA4eEv3npjD) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [It's So Good](https://open.spotify.com/album/2OzhVjGzyX5BWyMgGKG3Ij) | 4:38 | 2024-01-12 |  |
+| [It's So Good](https://open.spotify.com/track/1Cc00pWEDEDiA4eEv3npjD) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [It's So Good](https://open.spotify.com/album/2OzhVjGzyX5BWyMgGKG3Ij) | 4:38 | 2024-01-12 | 2024-06-15 |
 | [It’s Euphoric](https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [It's Euphoric](https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69) | 3:41 | 2023-08-04 | 2023-09-15 |
 | [Jesus Is Dead](https://open.spotify.com/track/3os2J85M4MsaQtUrGACNgp) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:09 | 2024-03-08 | 2024-05-11 |
 | [ketamine](https://open.spotify.com/track/7tF1CqPkS8BHIG88WDdpHx) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [ketamine](https://open.spotify.com/album/0458RCI6qdYAnUHtGShBMV) | 2:29 | 2024-02-02 | 2024-06-01 |
@@ -231,7 +231,7 @@
 | [thoughts i have while lying in bed](https://open.spotify.com/track/7qsdMGuObHstMzOUfgiNXJ) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [thoughts i have while lying in bed \(with Beach Weather\)](https://open.spotify.com/album/57u0BXm756Oc5nKELfd6qR) | 3:39 | 2023-12-01 | 2023-12-09 |
 | [Thrown Around](https://open.spotify.com/track/6hEiEWEgAuFvEJduuSQLiw) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Thrown Around](https://open.spotify.com/album/6dqfoHNZqWOM54L6TxMOXs) | 4:20 | 2024-05-31 |  |
 | [Tiny Moves](https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Tiny Moves](https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6) | 3:48 | 2024-01-26 | 2024-06-01 |
-| [To Be Alright](https://open.spotify.com/track/2XQAoWy82t8LtVTpRKdepd) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [To Be Alright](https://open.spotify.com/album/4j8V43kmmEB6z8H6axjDcn) | 4:05 | 2024-05-31 | 2024-06-08 |
+| [To Be Alright](https://open.spotify.com/track/2XQAoWy82t8LtVTpRKdepd) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [To Be Alright](https://open.spotify.com/album/4j8V43kmmEB6z8H6axjDcn) | 4:05 | 2024-05-31 |  |
 | [Too Much](https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Too Much](https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr) | 3:03 | 2024-02-16 |  |
 | [Too Much \(Is Too Much\)](https://open.spotify.com/track/5DyMz5TeDuJH2azTQh8HrX) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Too Much \(Is Too Much\)](https://open.spotify.com/album/2TD2bXrFSWlL1Vz9ITwz5b) | 3:21 | 2023-11-24 | 2023-12-02 |
 | [Typical](https://open.spotify.com/track/6E7pDd86Ps7k9eJonSQfh9) | [Daniel Noah Miller](https://open.spotify.com/artist/0ofVQtXisiSCBVTW9tNUTS), [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [Typical](https://open.spotify.com/album/2DjjY1hhVEV4B6X6cEUCc6) | 3:21 | 2023-11-17 | 2023-11-25 |

@@ -1,12 +1,12 @@
 {
-  "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 108176,
+  "description": "This Is Grupo Arriesgado. Los temas esenciales, todos en una lista.",
+  "num_followers": 108193,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjlAAAAAAB3/NtKtS7su3q65H027OoS",
+  "snapshot_id": "Zmo2gAAAAAD1ZaE5kksuj0drmDo9mw0H",
   "tracks": [
     {
       "added_at": null,
@@ -51,22 +51,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enloquecido",
-        "url": "https://open.spotify.com/album/4LW4JlE1RfilioKkkhwMho"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 212915,
-      "name": "Enloquecido",
-      "url": "https://open.spotify.com/track/4uk8GguFehn7djGvFJTUUT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Fugitivo (En Vivo)",
         "url": "https://open.spotify.com/album/5nGUyM4FjbCYl89iXSA4un"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 178050,
       "name": "El Fugitivo (En Vivo)",
       "url": "https://open.spotify.com/track/3FZv9dOK2AO7a1bo2r33D5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Enloquecido",
+        "url": "https://open.spotify.com/album/4LW4JlE1RfilioKkkhwMho"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 212915,
+      "name": "Enloquecido",
+      "url": "https://open.spotify.com/track/4uk8GguFehn7djGvFJTUUT"
     },
     {
       "added_at": null,
@@ -123,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ya No Puedo Con Esto",
+        "url": "https://open.spotify.com/album/1gQGMkX2XzsUL0NUUNExEX"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 149951,
+      "name": "Ya No Puedo Con Esto",
+      "url": "https://open.spotify.com/track/6YiEFOjKbysQ3TzGelUikS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Serafin Zambada",
         "url": "https://open.spotify.com/album/4wIqGZ9el8QllwpREn1IPA"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 128933,
       "name": "Seraf\u00edn Zambada",
       "url": "https://open.spotify.com/track/5ZVyu4Ic8XQOomHPaYSaLN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ya No Puedo Con Esto",
-        "url": "https://open.spotify.com/album/1gQGMkX2XzsUL0NUUNExEX"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 149951,
-      "name": "Ya No Puedo Con Esto",
-      "url": "https://open.spotify.com/track/6YiEFOjKbysQ3TzGelUikS"
     },
     {
       "added_at": null,
@@ -251,6 +251,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Matitas Verdes (En Vivo)",
+        "url": "https://open.spotify.com/album/6dFaDaCDQqEKfdcELahkAt"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 161906,
+      "name": "Matitas Verdes (En Vivo)",
+      "url": "https://open.spotify.com/track/6602oDHS6ArzmjCXUz1DeS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A La Sombra De Un \u00c1rbol, Vol. II (En Vivo)",
         "url": "https://open.spotify.com/album/5E7iMK7m675htoXMQigyeM"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 209157,
       "name": "La Novedad",
       "url": "https://open.spotify.com/track/0dTEbcnrWxFuUsq0dkhHgi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Matitas Verdes (En Vivo)",
-        "url": "https://open.spotify.com/album/6dFaDaCDQqEKfdcELahkAt"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        }
-      ],
-      "duration_ms": 161906,
-      "name": "Matitas Verdes (En Vivo)",
-      "url": "https://open.spotify.com/track/6602oDHS6ArzmjCXUz1DeS"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Las Cuartitos No Falten",
-        "url": "https://open.spotify.com/album/2gdVut9gbjgP5m6puh7QK3"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 179170,
-      "name": "Que las Cuartitos No Falten",
-      "url": "https://open.spotify.com/track/1J5y2EFPoqlUp995jiMiD9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Tiempos De Aguas",
         "url": "https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg"
       },
@@ -815,22 +799,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rancherik Asterik",
-        "url": "https://open.spotify.com/album/4oXl05OItqFoGP7f80mnGD"
+        "name": "Que Las Cuartitos No Falten",
+        "url": "https://open.spotify.com/album/2gdVut9gbjgP5m6puh7QK3"
       },
       "artists": [
-        {
-          "name": "La Cuadrilla Oficial",
-          "url": "https://open.spotify.com/artist/7dGKr4Wpnd2RP4Tas8aGfI"
-        },
         {
           "name": "Grupo Arriesgado",
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 134826,
-      "name": "Rancherik Asterik",
-      "url": "https://open.spotify.com/track/61xXO8u6IwE1o2cDv66V83"
+      "duration_ms": 179170,
+      "name": "Que las Cuartitos No Falten",
+      "url": "https://open.spotify.com/track/1J5y2EFPoqlUp995jiMiD9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amigos Mis Huevos",
+        "url": "https://open.spotify.com/album/1RXRTjAoDzIbi0z96VsaW1"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 149566,
+      "name": "Amigos Mis Huevos",
+      "url": "https://open.spotify.com/track/2psdyq0rZCpZINw5C55GcG"
     },
     {
       "added_at": null,
@@ -851,18 +847,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amigos Mis Huevos",
-        "url": "https://open.spotify.com/album/1RXRTjAoDzIbi0z96VsaW1"
+        "name": "Rancherik Asterik",
+        "url": "https://open.spotify.com/album/4oXl05OItqFoGP7f80mnGD"
       },
       "artists": [
+        {
+          "name": "La Cuadrilla Oficial",
+          "url": "https://open.spotify.com/artist/7dGKr4Wpnd2RP4Tas8aGfI"
+        },
         {
           "name": "Grupo Arriesgado",
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 149566,
-      "name": "Amigos Mis Huevos",
-      "url": "https://open.spotify.com/track/2psdyq0rZCpZINw5C55GcG"
+      "duration_ms": 134826,
+      "name": "Rancherik Asterik",
+      "url": "https://open.spotify.com/track/61xXO8u6IwE1o2cDv66V83"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 
 > Strut to electronic tracks that grace runways in Paris, New York City and Milan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,285 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,311 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 95 | [1 Bump](https://open.spotify.com/track/0qw6U1nveUfBG6wggthDt8) | [partywithray](https://open.spotify.com/artist/7AjFruVAKGzYPVuvD7T8Ex) | [1 Bump](https://open.spotify.com/album/7FPkZoWVcrTs8fN48C3ayy) | 3:13 |
 | 96 | [White Lights](https://open.spotify.com/track/3beMeoozbBTrATGW5u4Emz) | [Jordan Gill](https://open.spotify.com/artist/4SMjBNhuUVL2dqIk67vsKx) | [Cataclysmic](https://open.spotify.com/album/4eXNPTKfQUhbT6JgENZeY4) | 8:11 |
 | 97 | [Lucky \- Edit](https://open.spotify.com/track/32NQyxOI8S3Cvvt3Dp6s8K) | [Cameo Blush](https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v) | [Lucky](https://open.spotify.com/album/1twdlt63HPInhVkVgZ1Dr2) | 3:11 |
-| 98 | [Indie Circus \(feat\. Seafoam Walls\)](https://open.spotify.com/track/6uIO7LPCT5kJ0ivimi1svB) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky), [Sea Foam Walls](https://open.spotify.com/artist/32KC7H62jmp0JsyUPQVexO) | [B.E.M 2.0](https://open.spotify.com/album/1OXyE2AruMF6KLzbONrmLn) | 1:57 |
-| 99 | [We're Alive \- Virgil Abloh Remix](https://open.spotify.com/track/5r8HTctugtsyA9SrnDlvb5) | [Loco Dice](https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P), [Virgil Abloh](https://open.spotify.com/artist/6zKRU70JFcCQtP3vKV4ANm) | [Love Letters Remix Edition](https://open.spotify.com/album/0D9RB5hd10x4kfAp0y44Uu) | 6:29 |
+| 98 | [We're Alive \- Virgil Abloh Remix](https://open.spotify.com/track/5r8HTctugtsyA9SrnDlvb5) | [Loco Dice](https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P), [Virgil Abloh](https://open.spotify.com/artist/6zKRU70JFcCQtP3vKV4ANm) | [Love Letters Remix Edition](https://open.spotify.com/album/0D9RB5hd10x4kfAp0y44Uu) | 6:29 |
+| 99 | [Indie Circus \(feat\. Seafoam Walls\)](https://open.spotify.com/track/6uIO7LPCT5kJ0ivimi1svB) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky), [Sea Foam Walls](https://open.spotify.com/artist/32KC7H62jmp0JsyUPQVexO) | [B.E.M 2.0](https://open.spotify.com/album/1OXyE2AruMF6KLzbONrmLn) | 1:57 |
 | 100 | [LOFF IS ALL YOU SPEED](https://open.spotify.com/track/0rcUKid4bfrHeWu4feQQ9H) | [Héctor Oaks](https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x), [SITA](https://open.spotify.com/artist/4Pi6eaHXMqift5xrs1vPMI) | [LOFF IS ALL YOU SPEED](https://open.spotify.com/album/5q8Bg4uE1LMUDxQPdalwiT) | 3:03 |
 
 Snapshot ID: `ZjpssgAAAACbPcVyqne7Qoj0F9N87Isk`

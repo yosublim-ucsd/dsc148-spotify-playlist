@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/6JyxbY1JEmqBkLdxr1UdxY"
+      },
+      "artists": [
+        {
+          "name": "Noah Rinker",
+          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208500,
+      "name": "After Dark",
+      "url": "https://open.spotify.com/track/26b2184K8AbuALqmkfznSl"
+    },
+    {
+      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/4C3YEmyqlD0ceZoYEXZLrT"
       },
@@ -5119,6 +5137,24 @@
     },
     {
       "album": {
+        "name": "pretty lies and time machines",
+        "url": "https://open.spotify.com/album/3P7Hup9ohD8gLSN6J2qQPw"
+      },
+      "artists": [
+        {
+          "name": "LULLANAS",
+          "url": "https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199267,
+      "name": "out of breath",
+      "url": "https://open.spotify.com/track/16L5lEXtnJ3ahA3jE8aWKo"
+    },
+    {
+      "album": {
         "name": "Nightstorm",
         "url": "https://open.spotify.com/album/05kua9lN7NVGirdDVnxks1"
       },
@@ -5798,7 +5834,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 200137,
       "name": "Signal Sender",
       "url": "https://open.spotify.com/track/1XHTJ2n4ajw9dDzuPGY4Rm"
@@ -6863,6 +6899,24 @@
     },
     {
       "album": {
+        "name": "For all my eyes have seen",
+        "url": "https://open.spotify.com/album/56zLXVP20MYSoP0UV90B9c"
+      },
+      "artists": [
+        {
+          "name": "Rowan Drake",
+          "url": "https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281410,
+      "name": "Unsee",
+      "url": "https://open.spotify.com/track/4s4Qxld7g6ydIcQ5Ir6MTf"
+    },
+    {
+      "album": {
         "name": "Easy On My Eyes",
         "url": "https://open.spotify.com/album/6BUPtXbb2tspYnkVdg5Ef7"
       },
@@ -6932,6 +6986,24 @@
       "duration_ms": 230213,
       "name": "Valentina",
       "url": "https://open.spotify.com/track/0TD0ydYJuFPEaqshquDEpw"
+    },
+    {
+      "album": {
+        "name": "VERSIONS OF FOREVER",
+        "url": "https://open.spotify.com/album/1La2A10EDwizsKONlKdfM8"
+      },
+      "artists": [
+        {
+          "name": "Matt Hansen",
+          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177338,
+      "name": "VERSIONS OF FOREVER",
+      "url": "https://open.spotify.com/track/3yDvu7hXpkWFyQSk3RSiD8"
     },
     {
       "album": {

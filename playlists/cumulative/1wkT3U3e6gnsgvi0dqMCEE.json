@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "To The 5 Boroughs",
+        "url": "https://open.spotify.com/album/4nnQZQWLibK1VIhCGDFjk3"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192426,
+      "name": "Ch-Check It Out",
+      "url": "https://open.spotify.com/track/56H98l4uinRifnTH8e308N"
+    },
+    {
+      "album": {
         "name": "Eyes Open",
         "url": "https://open.spotify.com/album/6fb7z9rBdrjzpBTg1R1Bwp"
       },
@@ -488,6 +506,24 @@
       "duration_ms": 252818,
       "name": "Dog Days Are Over",
       "url": "https://open.spotify.com/track/456WNXWhDwYOSf5SpTuqxd"
+    },
+    {
+      "album": {
+        "name": "Once Upon A Time (Super Deluxe)",
+        "url": "https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263040,
+      "name": "Don't You (Forget About Me)",
+      "url": "https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9"
     },
     {
       "album": {
@@ -936,6 +972,24 @@
       "duration_ms": 242506,
       "name": "Just Dippin'",
       "url": "https://open.spotify.com/track/1iYWNf225EUIESs4svZudx"
+    },
+    {
+      "album": {
+        "name": "Just Like 73 (Tom Morello Version)",
+        "url": "https://open.spotify.com/album/7afy0Ytt67hzFxYlLzmKyq"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223133,
+      "name": "Just Like 73 - Tom Morello Version",
+      "url": "https://open.spotify.com/track/11DxHa7QIQ5NfdiHstN2O2"
     },
     {
       "album": {
@@ -1824,6 +1878,28 @@
       "duration_ms": 209266,
       "name": "Smooth Criminal",
       "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
+    },
+    {
+      "album": {
+        "name": "One Hand Clapping",
+        "url": "https://open.spotify.com/album/5bo520v8a72MrqnQNCPh5Y"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236933,
+      "name": "Soily - One Hand Clapping Sessions",
+      "url": "https://open.spotify.com/track/4ahgYKeOdXFQvnMBL2kLDZ"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
-  "description": "This is Rashid. The essential tracks, all in one playlist.",
-  "num_followers": 46275,
+  "description": "This is Rashid. Track-track unggulan, semuanya dalam satu playlist.",
+  "num_followers": 46276,
   "original_name": "This Is Rashid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjlAAAAAACg6bYkpF8rKeWxxmA+mubs",
+  "snapshot_id": "Zmo2gAAAAAD0y3++4bBeyO8QagSwZnvb",
   "tracks": [
     {
       "added_at": null,
@@ -479,30 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meu Sol",
-        "url": "https://open.spotify.com/album/2C0wXtAfYl7xeW1bCOzVee"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Ferr",
-          "url": "https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "\u00c0VU\u00c0",
-          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
-        }
-      ],
-      "duration_ms": 206643,
-      "name": "Meu Sol",
-      "url": "https://open.spotify.com/track/4zzXS96vHSXFwVTFfJoOHb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dr. Drill",
         "url": "https://open.spotify.com/album/0uc0wcg2BWv4J8NtrzPRK0"
       },
@@ -527,6 +503,30 @@
       "duration_ms": 251418,
       "name": "Aulas e Palestras",
       "url": "https://open.spotify.com/track/0eh5ZxasoT8tJBDEZ6oi6c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meu Sol",
+        "url": "https://open.spotify.com/album/2C0wXtAfYl7xeW1bCOzVee"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Ferr",
+          "url": "https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "\u00c0VU\u00c0",
+          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
+        }
+      ],
+      "duration_ms": 206643,
+      "name": "Meu Sol",
+      "url": "https://open.spotify.com/track/4zzXS96vHSXFwVTFfJoOHb"
     },
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hora de Acordar",
+        "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 273320,
+      "name": "E Se",
+      "url": "https://open.spotify.com/track/3QTZCqej24Zyd5WGRXWJuJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Di\u00e1rio de Bordo 6",
         "url": "https://open.spotify.com/album/3NbugjuhlSg3UudBeYxnu5"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 265763,
       "name": "Di\u00e1rio de Bordo 6",
       "url": "https://open.spotify.com/track/1NhKsK3kPy49YfFyrXaks2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hora de Acordar",
-        "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 273320,
-      "name": "E Se",
-      "url": "https://open.spotify.com/track/3QTZCqej24Zyd5WGRXWJuJ"
     },
     {
       "added_at": null,
@@ -875,22 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crise",
-        "url": "https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 286570,
-      "name": "Estere\u00f3tipo",
-      "url": "https://open.spotify.com/track/4LlPG12E6JJLbV9SmyDS1E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "L\u00edngua dos Campe\u00f5es",
         "url": "https://open.spotify.com/album/4gNx3oF9mLwt04CITND7ge"
       },
@@ -935,6 +919,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Crise",
+        "url": "https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 286570,
+      "name": "Estere\u00f3tipo",
+      "url": "https://open.spotify.com/track/4LlPG12E6JJLbV9SmyDS1E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Confundindo S\u00e1bios",
+        "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 206982,
+      "name": "A Fila Anda",
+      "url": "https://open.spotify.com/track/0LewYp7T0K8wpkPBprMpEK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Posf\u00e1cio",
         "url": "https://open.spotify.com/album/1c46EPnRi9wrhdUUIJTgxT"
       },
@@ -975,22 +991,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confundindo S\u00e1bios",
-        "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 206982,
-      "name": "A Fila Anda",
-      "url": "https://open.spotify.com/track/0LewYp7T0K8wpkPBprMpEK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sinais Sessions - Morro Da Urca (Ao Vivo)",
         "url": "https://open.spotify.com/album/0E7yszyv3sZjZkMcw6VLzo"
       },
@@ -1011,8 +1011,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crise",
-        "url": "https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91"
+        "name": "Confundindo S\u00e1bios",
+        "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
       },
       "artists": [
         {
@@ -1020,9 +1020,9 @@
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         }
       ],
-      "duration_ms": 224725,
-      "name": "M\u00fasica de Guerra",
-      "url": "https://open.spotify.com/track/4RvbMmeHmEuxAVbODGx5Ob"
+      "duration_ms": 177679,
+      "name": "Vagabundo Qualquer",
+      "url": "https://open.spotify.com/track/5DCidfHBwo1kpqCwEDliAj"
     },
     {
       "added_at": null,
@@ -1047,8 +1047,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confundindo S\u00e1bios",
-        "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
+        "name": "T\u00e3o Real",
+        "url": "https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Meu Amigo Tempo",
+      "url": "https://open.spotify.com/track/3xF4D5CH0PvI5UJwA261Si"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crise",
+        "url": "https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91"
       },
       "artists": [
         {
@@ -1056,9 +1076,9 @@
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         }
       ],
-      "duration_ms": 177679,
-      "name": "Vagabundo Qualquer",
-      "url": "https://open.spotify.com/track/5DCidfHBwo1kpqCwEDliAj"
+      "duration_ms": 224725,
+      "name": "M\u00fasica de Guerra",
+      "url": "https://open.spotify.com/track/4RvbMmeHmEuxAVbODGx5Ob"
     },
     {
       "added_at": null,
@@ -1079,26 +1099,6 @@
       "duration_ms": 243070,
       "name": "Ainda Tem",
       "url": "https://open.spotify.com/track/6yZLNopsiNqLwu8NNoCDEl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "T\u00e3o Real",
-        "url": "https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Meu Amigo Tempo",
-      "url": "https://open.spotify.com/track/3xF4D5CH0PvI5UJwA261Si"
     },
     {
       "added_at": null,

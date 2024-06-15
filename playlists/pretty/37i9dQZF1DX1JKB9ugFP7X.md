@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 
 > Lo mejor del pop electrónico en español.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,022 likes - 95 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,024 likes - 95 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 | 84 | [Autosabotear \(Uffie & Lokoy Remix\)](https://open.spotify.com/track/5qJbuq0Z72wXoMVIF7qtRD) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf), [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj), [Lokoy](https://open.spotify.com/artist/5kUcNb2wMcDP3fE51Q52Iv) | [Autosabotear \(Uffie & Lokoy Remix\)](https://open.spotify.com/album/0d7ZiyUl0iBTBgbWBq13H5) | 3:16 |
 | 85 | [Ficción](https://open.spotify.com/track/19ql2PoaEn31alAgeIpsp1) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [Ficción](https://open.spotify.com/album/7kqvgYRCFIHjRTEXnVjSWW) | 3:21 |
 | 86 | [Lucía](https://open.spotify.com/track/2IKC7XhiH7ZVVESFYmW1Ru) | [Renata Di Croce](https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr) | [Lucía](https://open.spotify.com/album/4Ni2gs4GGSo6NmJjvKL0NH) | 4:49 |
-| 87 | [Voces](https://open.spotify.com/track/4E3Qq52I36ROOLPrr9iDiy) | [Julais](https://open.spotify.com/artist/7DdjptBHc71Ltjq2lGjBpF), [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [Voces](https://open.spotify.com/album/6Qm4Tz23VhWx1rY2ZGZKr5) | 3:12 |
-| 88 | [POKITO](https://open.spotify.com/track/1LcaaSNwevnQVU5vTrr7LS) | [GRTSCH](https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK) | [POKITO](https://open.spotify.com/album/6YcErFG20xGWeOk0SoDy9T) | 4:12 |
+| 87 | [POKITO](https://open.spotify.com/track/1LcaaSNwevnQVU5vTrr7LS) | [GRTSCH](https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK) | [POKITO](https://open.spotify.com/album/6YcErFG20xGWeOk0SoDy9T) | 4:12 |
+| 88 | [Voces](https://open.spotify.com/track/4E3Qq52I36ROOLPrr9iDiy) | [Julais](https://open.spotify.com/artist/7DdjptBHc71Ltjq2lGjBpF), [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [Voces](https://open.spotify.com/album/6Qm4Tz23VhWx1rY2ZGZKr5) | 3:12 |
 | 89 | [Ángel Malo](https://open.spotify.com/track/66Rr0jxckqZvjgYfqIInZD) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08), [Karla Grunewaldt](https://open.spotify.com/artist/5w4VSeopBIU3C6uPYqunc3) | [Ángel Malo](https://open.spotify.com/album/2MJTEprt9EmWCzhfSAJKlw) | 3:34 |
 | 90 | [Circular](https://open.spotify.com/track/21Rw3bEHD9hdwDIpD3BaWk) | [Dani Umpi](https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI) | [Guazatumba](https://open.spotify.com/album/63nVyKVXvnLNnVR6x3mlxC) | 3:49 |
 | 91 | [Alta Magia \- Reversión 10 años](https://open.spotify.com/track/5i7zmthWP0dImjaFZvzHDj) | [Rumbo Tumba](https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH), [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [Alta Magia \(Reversión 10 años\)](https://open.spotify.com/album/1a8CMgCRNBYvJCLogVuMVl) | 5:57 |

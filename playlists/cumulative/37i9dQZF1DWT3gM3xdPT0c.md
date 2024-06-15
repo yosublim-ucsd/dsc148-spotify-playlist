@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-342 songs - 14 hr 43 min
+344 songs - 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Innocent Face](https://open.spotify.com/track/1b9Rw5b1fcJFhj70ffmrTb) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Easy Guitar](https://open.spotify.com/album/14NKXsFEn4gODC4D5pOUzJ) | 2:02 | 2023-10-13 | 2023-10-14 |
 | [Inside the stone](https://open.spotify.com/track/1TgZWTvjhmFiHh7A7ld6kl) | [lili may](https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a) | [Inside the stone](https://open.spotify.com/album/2u9U3J5NzpPSPds9VsP5xi) | 2:04 | 2023-03-24 |  |
 | [Intention](https://open.spotify.com/track/5Qsc3ubq1pdHIdhnuITXf9) | [Harper Adams](https://open.spotify.com/artist/4vq84CaNbP8QBiKp5xEK7e) | [Intention](https://open.spotify.com/album/20kiTmsqXc6Dhipmt1YDNL) | 2:16 | 2022-03-04 | 2022-04-22 |
+| [Intergalactic Peace](https://open.spotify.com/track/0EAmMrdgLaPNTc5yM12B6w) | [G\. Samuelsson](https://open.spotify.com/artist/6deDKTj0xS9JYvmDrgzSPn) | [Intergalactic Peace](https://open.spotify.com/album/0yhcTV4RCWZxk94BsxDYv4) | 3:24 | 2024-06-14 |  |
 | [Into the Well](https://open.spotify.com/track/0cSbVRsr50elwoPcp6m2XA) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Limitless](https://open.spotify.com/album/3Fj1XxYEFoqgXMP2JalxB8) | 2:35 | 2022-07-08 | 2022-10-29 |
 | [Jasmine Spring](https://open.spotify.com/track/0rvAQQgVhaUsbl9oF4pmlQ) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Jasmine Spring](https://open.spotify.com/album/5jTFUQwgbtF73qI3Qky9sF) | 2:26 | 2022-07-22 | 2023-01-20 |
 | [Journey Home](https://open.spotify.com/track/1n8JIhb5wq50ZNvuas4ceq) | [LarryLand](https://open.spotify.com/artist/4VWgOACHzlk7bMcAeVpcmK) | [Journey Home](https://open.spotify.com/album/2KGpAwyPvctqPpcpzLpRwh) | 3:08 | 2022-03-04 | 2022-04-06 |
@@ -203,7 +204,7 @@
 | [Matter Of Time](https://open.spotify.com/track/0inCIgjn7rsDDvyFVgMCPl) | [Miller & Bronx](https://open.spotify.com/artist/2qDhaB25EdIZQQ8dF4EBqt) | [Matter Of Time](https://open.spotify.com/album/5oM7hQhVfxOl9pRYIv2zDi) | 1:47 | 2022-07-15 | 2022-11-18 |
 | [Maybe Tomorrow It Will Change](https://open.spotify.com/track/6olLemdG5vLF9msH832Lg6) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Maybe Tomorrow It Will Change](https://open.spotify.com/album/0GwHdP2HTwPNhgWvTSR24c) | 2:42 | 2022-03-04 |  |
 | [Meadows](https://open.spotify.com/track/1808M1IEnm8OFn0FDQvJDm) | [Faelt](https://open.spotify.com/artist/6FlnhTAnvtLGV8mEZLGkBX) | [Meadows](https://open.spotify.com/album/6HVfGn8vy3W6zFcpf3Oz2b) | 3:22 | 2024-04-19 |  |
-| [Meet Me When I Come](https://open.spotify.com/track/6A4OZEbZdVXcWa79ZhanWN) | [Brett Williams](https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN) | [Meet Me When I Come](https://open.spotify.com/album/5n6VG1x2YR6D8xVDrpFGaL) | 3:11 | 2023-06-22 |  |
+| [Meet Me When I Come](https://open.spotify.com/track/6A4OZEbZdVXcWa79ZhanWN) | [Brett Williams](https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN) | [Meet Me When I Come](https://open.spotify.com/album/5n6VG1x2YR6D8xVDrpFGaL) | 3:11 | 2023-06-22 | 2024-06-15 |
 | [Memories](https://open.spotify.com/track/43fv0Uohu4M5XnaBR4NYqh) | [Ian Rice](https://open.spotify.com/artist/7aUuQ2faT5iuixVCX7DXRj) | [As It Was](https://open.spotify.com/album/1wkZ0ftdgQCqV4BORaDiXn) | 3:27 | 2022-11-18 | 2023-02-25 |
 | [Millstätter See](https://open.spotify.com/track/1f2ZxUgU6d5gp7pRyz35I0) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Millstätter See](https://open.spotify.com/album/6f5YB6Y0Ic0ixZ85lsibUG) | 2:37 | 2023-04-21 |  |
 | [Mná Na H'Eireann](https://open.spotify.com/track/5InWJK8aUznloFHTNH3Yza) | [Stephen Wake](https://open.spotify.com/artist/2cJYFSoLAYw942cLIRPGK7) | [Mná Na H'Eireann](https://open.spotify.com/album/0INDZxABsPxB7JxTjYjmEy) | 2:33 | 2022-10-14 | 2023-10-13 |
@@ -254,6 +255,7 @@
 | [Rumors](https://open.spotify.com/track/4Mw71ocvgDe6uYELLu9r0U) | [Colin Reed](https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs) | [By Your Side](https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx) | 2:21 | 2022-03-04 |  |
 | [Sawdust Floors](https://open.spotify.com/track/22CshhpyS2gjbii88Rizzm) | [Verona Cassidy](https://open.spotify.com/artist/6yDAXIdSTIU3nLU6MeYIz0) | [Sawdust Floors](https://open.spotify.com/album/2cgfREGDztUfqSQoVib1Er) | 1:51 | 2023-04-21 | 2023-08-26 |
 | [Seaside](https://open.spotify.com/track/3D3XY8qFF14XSFqhuTi63U) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Seaside](https://open.spotify.com/album/5aTyBkh2qENyZ2yLKuzQUb) | 2:30 | 2023-06-02 |  |
+| [Secret Hero](https://open.spotify.com/track/6kjaY41h1nj7fViaDFd7TV) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [Secret Hero](https://open.spotify.com/album/3qYFXeLR7KMLCQVmpLkjIs) | 2:54 | 2024-06-14 |  |
 | [See It Through](https://open.spotify.com/track/0ZlfrENWdpQyEsBfynIFGF) | [Oaktree Melodies](https://open.spotify.com/artist/0U0qUcjrya7xDHCxVkXvPV) | [See It Through](https://open.spotify.com/album/3VD0JGd9cvNWuMKFpIjlpq) | 3:02 | 2023-12-15 |  |
 | [Seven Trees](https://open.spotify.com/track/4M44CM7HweGJPxTk0Aei8P) | [Lee Young](https://open.spotify.com/artist/50oK46NA905UBCOIRWBU5Z) | [Seven Trees](https://open.spotify.com/album/0SlOD5vmrLv445yvH0AmbV) | 2:27 | 2022-03-04 |  |
 | [Shadow Mountain Road](https://open.spotify.com/track/0Qku1Xmz1hD569s8avKCYn) | [Jaimie Escalera](https://open.spotify.com/artist/3Cbyi7uVS7E3c4XtlEdS0B) | [Shadow Mountain Road](https://open.spotify.com/album/3ZZ558auGHvycTNuluHWAn) | 2:36 | 2023-08-09 |  |
@@ -313,7 +315,7 @@
 | [Tranquil Trails](https://open.spotify.com/track/0bKyIpZMx0azvdVYngl84E) | [Wanderer's Trove](https://open.spotify.com/artist/5G70OWQLpkb6IXJU1ut7E1) | [Tranquil Trails](https://open.spotify.com/album/00Wkk9ftq8UtVykdUhNWaL) | 2:53 | 2024-05-24 |  |
 | [Traveling Through](https://open.spotify.com/track/1UygGXclx9iMNWArEXmQZf) | [Timber Row](https://open.spotify.com/artist/64ICK2JUkKFcevsUA8N8Ll) | [Lone Rider](https://open.spotify.com/album/2KhCe7d9REnKhzfiR3BDFp) | 2:14 | 2022-03-04 | 2023-04-22 |
 | [Tuscany](https://open.spotify.com/track/30Oh4ng8nkRQVhTtJEFI5I) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Tuscany](https://open.spotify.com/album/6HOv6lf3yleb4aJr9H76dw) | 2:04 | 2022-11-25 | 2023-05-10 |
-| [Under the Stars](https://open.spotify.com/track/4hBZeB6q56Jzq3wDh1MuPF) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Under the Stars](https://open.spotify.com/album/51EkjvbQPcZksWNjfrUi91) | 2:16 | 2023-02-24 |  |
+| [Under the Stars](https://open.spotify.com/track/4hBZeB6q56Jzq3wDh1MuPF) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Under the Stars](https://open.spotify.com/album/51EkjvbQPcZksWNjfrUi91) | 2:16 | 2023-02-24 | 2024-06-15 |
 | [Unforced](https://open.spotify.com/track/56hk6GkYuk8AmUOdjPEYDb) | [Toledo Heights](https://open.spotify.com/artist/1nxXdVa0LIKGjk0eLLRM6q) | [Unforced](https://open.spotify.com/album/1ID1Z4DCgMELtWTnLyscGQ) | 2:21 | 2022-03-04 | 2022-05-27 |
 | [Untroubled by a Rainy Day](https://open.spotify.com/track/6v3HIQUCauIZNQZMo0MExg) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Untroubled by a Rainy Day](https://open.spotify.com/album/7BCgTPmYfV2YhtNsIXcYFR) | 3:03 | 2022-03-04 | 2024-05-10 |
 | [Valencia](https://open.spotify.com/track/42OPBRIHro3yVoABLDGAnY) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [Valencia](https://open.spotify.com/album/1cy4QIaqQNFDXEcynAUkvj) | 2:31 | 2022-03-04 | 2022-03-19 |

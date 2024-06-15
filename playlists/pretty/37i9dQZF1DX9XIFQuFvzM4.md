@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XIFQuFvzM4.md) - [plain]
 
 > Feel good with this positively timeless playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,623,984 likes - 150 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,624,108 likes - 150 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,11 +152,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XIFQuFvzM4.md) - [plain]
 | 142 | [Build Me Up Buttercup](https://open.spotify.com/track/3XcuLPQb1LG13ZJEEa6wUI) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [Build Me Up Buttercup](https://open.spotify.com/album/0AFXSZYiYyggIkcYW5GK0x) | 2:58 |
 | 143 | [Get Up Offa That Thing](https://open.spotify.com/track/0nyrltZrQGAJMBZc1bYvuQ) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [20 All\-Time Greatest Hits!](https://open.spotify.com/album/6MjOv3BeIjmht2ymtRih3s) | 4:10 |
 | 144 | [Strictly Reserved for You](https://open.spotify.com/track/2aWr9QRr0pSmYFH04zngiP) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [Victim of Love](https://open.spotify.com/album/3rimYQyKq7BatxuUoPIBrb) | 3:42 |
-| 145 | [Sure Don't Miss You](https://open.spotify.com/track/4k6WZXbHUFEZR02X9FhOuT) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5NaNDBt0tTh3Y8GiS3zfoI) | 2:54 |
-| 146 | [Hold On](https://open.spotify.com/track/3GrTxDPEBPyofDy06rO9mj) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Perfect Union](https://open.spotify.com/album/1n1Ee7s4FUb8wTzT6Cy0eR) | 3:35 |
-| 147 | [Land of 1000 Dances](https://open.spotify.com/track/61w1Ry5X8UUsbNoPG7zRP1) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [Rhino Hi\-Five: Wilson Pickett](https://open.spotify.com/album/3R7ZC37Ur3zx40M06RLMMd) | 2:26 |
+| 145 | [My Girl](https://open.spotify.com/track/6jWkZvd1URGktyTTwcpPpB) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/7C4vMPQR8KcbZv4e2ZI0lc) | 2:45 |
+| 146 | [Sure Don't Miss You](https://open.spotify.com/track/4k6WZXbHUFEZR02X9FhOuT) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5NaNDBt0tTh3Y8GiS3zfoI) | 2:54 |
+| 147 | [Hold On](https://open.spotify.com/track/3GrTxDPEBPyofDy06rO9mj) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Perfect Union](https://open.spotify.com/album/1n1Ee7s4FUb8wTzT6Cy0eR) | 3:35 |
 | 148 | [Papa's Got A Brand New Bag](https://open.spotify.com/track/6v4gV9s0pnwKbmF1yk5knO) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [20 All\-Time Greatest Hits!](https://open.spotify.com/album/6MjOv3BeIjmht2ymtRih3s) | 2:05 |
-| 149 | [My Girl](https://open.spotify.com/track/6jWkZvd1URGktyTTwcpPpB) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/7C4vMPQR8KcbZv4e2ZI0lc) | 2:45 |
-| 150 | [Smooth Sailin'](https://open.spotify.com/track/3JbqwFY5q0ORO3siv5zL3A) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home](https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg) | 3:03 |
+| 149 | [Boogie Nights](https://open.spotify.com/track/20zOIoex7YchUh87d8tlvg) | [Heatwave](https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY) | [Too Hot To Handle](https://open.spotify.com/album/3OjfTt27HmGpVd45IuMAT6) | 5:03 |
+| 150 | [Land of 1000 Dances](https://open.spotify.com/track/61w1Ry5X8UUsbNoPG7zRP1) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [Rhino Hi\-Five: Wilson Pickett](https://open.spotify.com/album/3R7ZC37Ur3zx40M06RLMMd) | 2:26 |
 
 Snapshot ID: `ZiHsfAAAAADmx2sFzVJM7RrdEJXqLydF`

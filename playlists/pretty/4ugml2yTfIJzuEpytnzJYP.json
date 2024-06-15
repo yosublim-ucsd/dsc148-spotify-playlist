@@ -6,8 +6,28 @@
     "name": "An-Ten-Nae",
     "url": "https://open.spotify.com/user/124011761"
   },
-  "snapshot_id": "AAAJNKH04KsLj19Uuzv9gMkEVDHIcZlO",
+  "snapshot_id": "AAAJN4xwXeMpnA8Eo5uQ8u/rhOGI6qKz",
   "tracks": [
+    {
+      "added_at": "2024-06-14 06:16:35",
+      "album": {
+        "name": "Sacred Order Of Pi",
+        "url": "https://open.spotify.com/album/7hMjooVnox49rV4RmN6EkP"
+      },
+      "artists": [
+        {
+          "name": "An-Ten-Nae",
+          "url": "https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV"
+        },
+        {
+          "name": "Shadow Society",
+          "url": "https://open.spotify.com/artist/6AJ351ghgydcePFPco6zUY"
+        }
+      ],
+      "duration_ms": 182571,
+      "name": "Sacred Order Of Pi",
+      "url": "https://open.spotify.com/track/2xuHBYNcSfUxWN2icqBA6y"
+    },
     {
       "added_at": "2024-06-07 11:07:10",
       "album": {

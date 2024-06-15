@@ -2,7 +2,7 @@
 
 ### [This Is Willie Colón](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4szWAU)
 
-> This Is Willie Colón\. Los temas esenciales, todos en una lista.
+> This is Willie Colón\. The essential tracks, all in one playlist.
 
 67 songs - 6 hr 8 min
 
@@ -18,7 +18,7 @@
 | [Barrunto](https://open.spotify.com/track/0oCentzpU5hprEWJtggVIc) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [La Gran Fuga](https://open.spotify.com/album/5fY6IgtUM14tFh6iHwbT6l) | 5:36 | 2022-09-08 |  |
 | [Buscando Guayaba](https://open.spotify.com/track/51pnSx6vfBzV8lkLLNFFpy) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Siembra](https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy) | 5:47 | 2022-09-08 |  |
 | [Calle Luna Calle Sol](https://open.spotify.com/track/1Ics9ai6jbcHHBRaTy1HiD) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Lo Mato](https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr) | 3:48 | 2022-09-08 |  |
-| [Casanova](https://open.spotify.com/track/6dQBpbW4zmZZwWuAB1Xiwc) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Corazón Guerrero](https://open.spotify.com/album/49qrC2ziwxKumQm96y3cO5) | 3:23 | 2022-10-14 | 2024-06-06 |
+| [Casanova](https://open.spotify.com/track/6dQBpbW4zmZZwWuAB1Xiwc) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Corazón Guerrero](https://open.spotify.com/album/49qrC2ziwxKumQm96y3cO5) | 3:23 | 2022-10-14 |  |
 | [Celo](https://open.spotify.com/track/0JWnqFLENqVGs4yNss52gy) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Fantasmas](https://open.spotify.com/album/7dY91yvJXIeBrzDhiMnYDW) | 4:01 | 2023-01-08 | 2024-03-19 |
 | [Ché Ché Colé](https://open.spotify.com/track/4rPtnAmfvHkVSCO2KKkiC1) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Crime Pays](https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K) | 3:31 | 2022-09-08 |  |
 | [Cueste Lo Que Cueste](https://open.spotify.com/track/4BNDskrn6uPYQAbenwJSDD) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Mis Favoritas](https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c) | 5:18 | 2022-09-11 |  |
@@ -38,7 +38,7 @@
 | [Jazzy \- Remastered 2024](https://open.spotify.com/track/1uD4EOq5cVG5qUzgJr11Wc) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [El Malo \(Remastered 2024\)](https://open.spotify.com/album/58uINAct6RtN5ZzQj9pUWc) | 4:04 | 2024-02-03 | 2024-03-02 |
 | [Juana Peña](https://open.spotify.com/track/4GBxHI71GOyv9umXPnbs0z) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Crime Pays](https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K) | 5:38 | 2022-09-08 |  |
 | [Juanito Alimaña](https://open.spotify.com/track/02c7d670y3o6IvkBPazlFu) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Greatest Hits](https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ) | 5:45 | 2022-09-08 |  |
-| [Juanito Alimaña](https://open.spotify.com/track/336Xdyzllb9WbJIC8XF90t) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Vigilante](https://open.spotify.com/album/0gNCmEbPNV1OJ6JIcExTB7) | 7:36 | 2022-09-08 |  |
+| [Juanito Alimaña](https://open.spotify.com/track/336Xdyzllb9WbJIC8XF90t) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Vigilante](https://open.spotify.com/album/0gNCmEbPNV1OJ6JIcExTB7) | 7:36 | 2022-09-08 | 2024-06-15 |
 | [Ligia Elena](https://open.spotify.com/track/38UKG3bIB4gT3EzQqE3eEm) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Canciones Del Solar De Los Aburridos](https://open.spotify.com/album/1szanrwjas55YHd6OzZrCs) | 6:04 | 2022-09-08 |  |
 | [Los Olores Del Amor](https://open.spotify.com/track/7IohE5vxO2AdL0Amc5b8Qc) | [Amilcar Boscan](https://open.spotify.com/artist/4xrEN4FSoIGzynaT06oB6L), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Durando...](https://open.spotify.com/album/0yNoH92hDL674j5VHPLdCQ) | 4:14 | 2022-09-08 |  |
 | [Madame Kalalú](https://open.spotify.com/track/7co76Vzf2YQKUWzU23H4tr) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Canciones Del Solar De Los Aburridos](https://open.spotify.com/album/1szanrwjas55YHd6OzZrCs) | 6:55 | 2024-05-15 | 2024-05-16 |

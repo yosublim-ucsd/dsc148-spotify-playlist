@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 | 55 | [Pedra Que Não Foi Polida](https://open.spotify.com/track/1RakbO7PwbaRHhwAM5wQy3) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 3:21 |
 | 56 | [Vítima](https://open.spotify.com/track/7jMUhDGu6D02gtw5WgLfrz) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 4:03 |
 
-Snapshot ID: `AbT+ggAAAADwqtbfm21E3y4uEyjF6Gln`
+Snapshot ID: `AbUEIgAAAAAVJnOa+7J2I9L3j5HbEhBw`

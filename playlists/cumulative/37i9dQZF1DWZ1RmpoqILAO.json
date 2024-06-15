@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Box for Buddy, Box for Star",
+        "url": "https://open.spotify.com/album/3wSIO65dy3pAoBjKBybOcV"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231349,
+      "name": "Angel's Eye",
+      "url": "https://open.spotify.com/track/1k9LP39OXvFgSVrk7qncVb"
+    },
+    {
+      "album": {
         "name": "Angels Bowling",
         "url": "https://open.spotify.com/album/18IQDpZlz1jlYmnKy3graV"
       },

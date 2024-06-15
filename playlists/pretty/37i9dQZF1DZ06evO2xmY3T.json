@@ -1,12 +1,12 @@
 {
   "description": "This is Cardi B. The essential tracks, all in one playlist.",
-  "num_followers": 670381,
+  "num_followers": 670422,
   "original_name": "This Is Cardi B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmjlAAAAAABSH/GyJR186oS631E2MTXR",
+  "snapshot_id": "Zmo2gAAAAABbzdHj9jbx9LtcIv7BubA+",
   "tracks": [
     {
       "added_at": null,
@@ -51,26 +51,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Red Pill Blues (Deluxe)",
-        "url": "https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 235545,
-      "name": "Girls Like You (feat. Cardi B) - Cardi B Version",
-      "url": "https://open.spotify.com/track/7fa9MBXhVfQ8P8Df9OEbD8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Enough (Miami)",
         "url": "https://open.spotify.com/album/18p7y4EZ6KczLQlgHWya1g"
       },
@@ -107,30 +87,6 @@
       "duration_ms": 204466,
       "name": "South of the Border (feat. Camila Cabello & Cardi B)",
       "url": "https://open.spotify.com/track/4vUmTMuQqjdnvlZmAH61Qk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Invasion of Privacy",
-        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 253390,
-      "name": "I Like It",
-      "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
     },
     {
       "added_at": null,
@@ -199,6 +155,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
+        "url": "https://open.spotify.com/album/0ZHyvPke0EcVt6rYA8Ins3"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
+      "url": "https://open.spotify.com/track/4w8niZpiMy6qz1mntFA5uM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bongos (feat. Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ"
       },
@@ -235,28 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anyways, Life\u2019s Great\u2026",
-        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 209811,
-      "name": "Tomorrow 2 (with Cardi B)",
-      "url": "https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/2drqVzCt52KiDxKgl0Rq0P"
+        "name": "Up (Instrumental)",
+        "url": "https://open.spotify.com/album/0Fe4Uj7GkgA1uDGGk8s92C"
       },
       "artists": [
         {
@@ -264,9 +228,9 @@
           "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 183527,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/2GGMabyHXnJmjY6CXhhB2e"
+      "duration_ms": 156944,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/1M4OcYkxAtu3ErzSgDEfoi"
     },
     {
       "added_at": null,
@@ -291,6 +255,22 @@
       "duration_ms": 224000,
       "name": "Wanna Be (with Megan Thee Stallion & Cardi B) - Remix",
       "url": "https://open.spotify.com/track/2WaOQ9TCXEpoAMVzT9GUJt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/2drqVzCt52KiDxKgl0Rq0P"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 183527,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/2GGMabyHXnJmjY6CXhhB2e"
     },
     {
       "added_at": null,
@@ -435,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "JEALOUSY (feat. Cardi B)",
-        "url": "https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL"
+        "name": "FATHER OF 4",
+        "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
       },
       "artists": [
         {
@@ -448,9 +428,9 @@
           "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 174466,
-      "name": "JEALOUSY (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj"
+      "duration_ms": 205803,
+      "name": "Clout (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/59ywHNwwchG4nZJMLyxSzd"
     },
     {
       "added_at": null,
@@ -464,13 +444,13 @@
           "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         },
         {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 177139,
-      "name": "Ring (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/5DfWF0jqMgZDCiu9zJENTA"
+      "duration_ms": 200205,
+      "name": "I Do (feat. SZA)",
+      "url": "https://open.spotify.com/track/1f5PNhkNgUpvDEeZfcIlO1"
     },
     {
       "added_at": null,
@@ -535,26 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invasion of Privacy",
-        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 200205,
-      "name": "I Do (feat. SZA)",
-      "url": "https://open.spotify.com/track/1f5PNhkNgUpvDEeZfcIlO1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Press",
         "url": "https://open.spotify.com/album/4OYI54WJJQRkCG4FVmIuTZ"
       },
@@ -595,6 +555,30 @@
       "duration_ms": 118249,
       "name": "Shake It (feat. Cardi B, Dougie B & Bory 300)",
       "url": "https://open.spotify.com/track/7ovrKrP1jYi04c1qpHr7mY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Gusta (with Cardi B & Myke Towers)",
+        "url": "https://open.spotify.com/album/5J7bWCachL4Q662xAfzyJd"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 180788,
+      "name": "Me Gusta (with Cardi B & Myke Towers)",
+      "url": "https://open.spotify.com/track/7e1VoRlNumuEkXlITMHKLE"
     },
     {
       "added_at": null,
@@ -715,26 +699,6 @@
       "duration_ms": 224284,
       "name": "Bartier Cardi (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/0dIoGTQXDh1wVnhIiSyYEa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Backin' It Up (feat. Cardi B)",
-        "url": "https://open.spotify.com/album/4g9y8J8mzpl6rxnOjhKrwH"
-      },
-      "artists": [
-        {
-          "name": "Pardison Fontaine",
-          "url": "https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 190466,
-      "name": "Backin' It Up (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/0PpfPNtQOOvbMNVJijTQj0"
     },
     {
       "added_at": null,
@@ -867,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 231453,
+      "name": "Get Up 10",
+      "url": "https://open.spotify.com/track/7p2ewixAShLpjDZrnzZK7c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Famous Cryp (Reloaded)",
         "url": "https://open.spotify.com/album/1bLGOKqe1vcQtUv6q5Mz0h"
       },
@@ -887,34 +867,6 @@
       "duration_ms": 297546,
       "name": "Thotiana (Remix)",
       "url": "https://open.spotify.com/track/6JhP3KShSV3PlniSWYHYAl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Girls (feat. Cardi B, Bebe Rexha & Charli XCX)",
-        "url": "https://open.spotify.com/album/0TITR3yePyzJvlnQk61AWP"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 221153,
-      "name": "Girls (feat. Cardi B, Bebe Rexha & Charli XCX)",
-      "url": "https://open.spotify.com/track/1YNQscOx6OqBQjxgJVhEeW"
     },
     {
       "added_at": null,
@@ -967,6 +919,26 @@
       "duration_ms": 281112,
       "name": "Bitter - Narration By Cardi B",
       "url": "https://open.spotify.com/track/5cwnxz6QPfbOf731UPqphs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "duration_ms": 230952,
+      "name": "She Bad",
+      "url": "https://open.spotify.com/track/0CfmNX2TXk7yoJqHJiixnp"
     },
     {
       "added_at": null,
@@ -1055,6 +1027,42 @@
       "duration_ms": 206186,
       "name": "YES",
       "url": "https://open.spotify.com/track/49npsHkkRrF42IxwU10Egt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What a Girl Likes",
+        "url": "https://open.spotify.com/album/4uVh0v1aUwlSPeKWINQDLa"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 144347,
+      "name": "What a Girl Likes",
+      "url": "https://open.spotify.com/track/7LLJoOUTcfaZDrFTZgmtE3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Championships",
+        "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 225007,
+      "name": "On Me (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/3DnZfpfe8wLeJgzc00gKeW"
     }
   ],
   "unique_name": "This Is Cardi B",

@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "A Million Things",
+        "url": "https://open.spotify.com/album/3m8ZRJvS9m5wEwScchXjlv"
+      },
+      "artists": [
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187159,
+      "name": "A Million Things",
+      "url": "https://open.spotify.com/track/1jG5GaaSjcX5F6qy6RuvbN"
+    },
+    {
+      "album": {
         "name": "All Night",
         "url": "https://open.spotify.com/album/2B6i1KEFu7lM0zkOB8eMX9"
       },
@@ -282,7 +300,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 123380,
       "name": "Bite Size",
       "url": "https://open.spotify.com/track/12DYaQNNZCyDe6mmfMNA2e"
@@ -606,7 +624,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 148374,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/0UUczvIt4oAghLNuY8WSEA"
@@ -1154,7 +1172,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 214588,
       "name": "For You",
       "url": "https://open.spotify.com/track/4WwUs56upUKcrhTaFpN6x7"
@@ -2001,6 +2019,24 @@
     },
     {
       "album": {
+        "name": "Metaverse",
+        "url": "https://open.spotify.com/album/7FSfXLshwfkcoJyCqj926E"
+      },
+      "artists": [
+        {
+          "name": "Oniisha",
+          "url": "https://open.spotify.com/artist/5QjMLsuHSXIyF9GbWoVky1"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157492,
+      "name": "Metaverse",
+      "url": "https://open.spotify.com/track/126kx7xYD916WUTMdvyJho"
+    },
+    {
+      "album": {
         "name": "New Dawn",
         "url": "https://open.spotify.com/album/13vHvBHGz2SNtnyLRStyHm"
       },
@@ -2215,6 +2251,24 @@
     },
     {
       "album": {
+        "name": "ONOME",
+        "url": "https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197444,
+      "name": "ONOME",
+      "url": "https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH"
+    },
+    {
+      "album": {
         "name": "Patience",
         "url": "https://open.spotify.com/album/4UMBCdetMsuG56lwioYP2R"
       },
@@ -2426,7 +2480,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 138870,
       "name": "Pretty Girl Bop",
       "url": "https://open.spotify.com/track/0SAsey25lSxwPdAaGkKZqA"
@@ -2656,6 +2710,24 @@
       "duration_ms": 196420,
       "name": "SAD GIRLZ LUV MONEY",
       "url": "https://open.spotify.com/track/2pgDBO0ZAgvye7joSmdDm8"
+    },
+    {
+      "album": {
+        "name": "SWEET AFROSEXY SUMMERS.",
+        "url": "https://open.spotify.com/album/5EAyTaAbaZDTFJCBcsobgf"
+      },
+      "artists": [
+        {
+          "name": "Lesl\u00e9y",
+          "url": "https://open.spotify.com/artist/1LBzlrdp7raJkjb34IG7m2"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "SELFISH.",
+      "url": "https://open.spotify.com/track/4S6r7dVPgs36suKmecDxHp"
     },
     {
       "album": {
@@ -3040,7 +3112,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 200571,
       "name": "TIME",
       "url": "https://open.spotify.com/track/4abv3ao51qRblxKxkYfw56"

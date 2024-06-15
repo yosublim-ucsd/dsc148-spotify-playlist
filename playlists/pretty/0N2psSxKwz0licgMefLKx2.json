@@ -1,13 +1,29 @@
 {
-  "description": "From Toronto to Nashville- country is more than a genre, it's a lifestyle! Subscribe <a href=\"https://forms.umusic-online.com/forms/-MzVRuWCJewxwySP2ZdQ\">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Thomas Rhett",
+  "description": "From Toronto to Nashville- country is more than a genre, it's a lifestyle! Subscribe <a href=\"https://forms.umusic-online.com/forms/-MzVRuWCJewxwySP2ZdQ\">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Jelly Roll",
   "num_followers": 10368,
   "original_name": "New Country Hits (Country Life)",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAjySJrvN9vygZjYNVXWiU1LyTvZEvc",
+  "snapshot_id": "AAAjzZz0XlqZJaXtG5YNxqL335E84gIi",
   "tracks": [
+    {
+      "added_at": "2024-06-14 04:17:13",
+      "album": {
+        "name": "I Am Not Okay",
+        "url": "https://open.spotify.com/album/07IZeIkEgAdjs0dSbRxn7i"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 197133,
+      "name": "I Am Not Okay",
+      "url": "https://open.spotify.com/track/76ODTQOl0JZQbhfxs6nRV9"
+    },
     {
       "added_at": "2024-06-08 03:14:55",
       "album": {
@@ -1383,6 +1399,22 @@
       "duration_ms": 176426,
       "name": "But I Got A Beer In My Hand",
       "url": "https://open.spotify.com/track/3jhV8I9sIPXsjPs2ZOnSaf"
+    },
+    {
+      "added_at": "2024-06-14 12:44:59",
+      "album": {
+        "name": "Mind Of A Country Boy",
+        "url": "https://open.spotify.com/album/7GIq22HBQ4mKjxE2PaE5Op"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 196995,
+      "name": "Mind Of A Country Boy",
+      "url": "https://open.spotify.com/track/6W0hxzuDXmRU6hQmViRaGi"
     }
   ],
   "unique_name": "New Country Hits (Country Life)",

@@ -845,6 +845,24 @@
     },
     {
       "album": {
+        "name": "Chocolate",
+        "url": "https://open.spotify.com/album/5DyvJsJggD7QUlDGxTZl4M"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Tapari",
+          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228922,
+      "name": "Chocolate",
+      "url": "https://open.spotify.com/track/4iY6Dj9lsdlcqfaqdd7rMV"
+    },
+    {
+      "album": {
         "name": "Cicatrices",
         "url": "https://open.spotify.com/album/52O7lz8Y4dnFUxHEPQFGCD"
       },
@@ -896,7 +914,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 833941,
       "name": "Cloz Session #1",
       "url": "https://open.spotify.com/track/5EvIN9i8OmR6No8l94HZcN"
@@ -1194,7 +1212,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 233002,
       "name": "Conmigo Te Gust\u00f3",
       "url": "https://open.spotify.com/track/5HlgCSzypWjzrQwfmEJNwW"
@@ -1332,7 +1350,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 118000,
       "name": "Coraz\u00f3n Partido",
       "url": "https://open.spotify.com/track/4BYe8ElhYJgFdXBCZsKiv4"
@@ -1889,6 +1907,28 @@
     },
     {
       "album": {
+        "name": "Dime Quien",
+        "url": "https://open.spotify.com/album/4ezfh3czrZ39US5xqEdGza"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        },
+        {
+          "name": "Grupo Anaconda",
+          "url": "https://open.spotify.com/artist/68hQE5kUOEyam0MAChqS8t"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185714,
+      "name": "Dime Quien",
+      "url": "https://open.spotify.com/track/2RmMb9oAYUZKfK1JzahUIi"
+    },
+    {
+      "album": {
         "name": "DIOS ME PERDONE",
         "url": "https://open.spotify.com/album/3FthtqxiqcpsNiypZhUtRY"
       },
@@ -1904,7 +1944,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-10",
+      "date_removed": null,
       "duration_ms": 173548,
       "name": "DIOS ME PERDONE",
       "url": "https://open.spotify.com/track/7g9a6lnFy87FnToiWluG6v"
@@ -2936,7 +2976,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 181699,
       "name": "Fue Facil",
       "url": "https://open.spotify.com/track/6FTYhQeBISU2K63RB0q6xc"
@@ -3182,7 +3222,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 199268,
       "name": "Hoy Quiero Verte",
       "url": "https://open.spotify.com/track/6KejUDGAYcKwvs0EXkQLxg"
@@ -3200,7 +3240,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 255866,
       "name": "Hoy Te Noto Cambiada",
       "url": "https://open.spotify.com/track/3Unm7ymMfylvg2gkll40UH"
@@ -3266,6 +3306,28 @@
       "duration_ms": 206742,
       "name": "Insaciable",
       "url": "https://open.spotify.com/track/1nvoQ3ZBMJZ38wsdDDHzGE"
+    },
+    {
+      "album": {
+        "name": "Intento (En Vivo)",
+        "url": "https://open.spotify.com/album/3UUuCRlQaX3HWZ1HkVuKpb"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        },
+        {
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227103,
+      "name": "Intento - En Vivo",
+      "url": "https://open.spotify.com/track/0YI5vG7XmhB7IAcMJZjvS2"
     },
     {
       "album": {
@@ -3694,7 +3756,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 192429,
       "name": "Le Hace Falta un Beso",
       "url": "https://open.spotify.com/track/65Bae8oBZOIvQqPLesZa71"
@@ -3712,7 +3774,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-11",
+      "date_removed": null,
       "duration_ms": 209066,
       "name": "Lloraras mas de diez veces",
       "url": "https://open.spotify.com/track/3Rw4RpKirEtupNJfQSPOjI"
@@ -3832,7 +3894,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 195000,
       "name": "Luna Dile",
       "url": "https://open.spotify.com/track/4agfq1JqDmRz2V4IeEutab"
@@ -4086,7 +4148,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 381330,
       "name": "Me Gusta Todo de Ti - En Vivo",
       "url": "https://open.spotify.com/track/7rwO1WEEN7hJjqbO3HAtok"
@@ -5192,7 +5254,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-08",
+      "date_removed": null,
       "duration_ms": 242277,
       "name": "Paso la Vida Pensando",
       "url": "https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj"
@@ -5330,7 +5392,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-08",
+      "date_removed": null,
       "duration_ms": 198620,
       "name": "Piel y Huesos",
       "url": "https://open.spotify.com/track/4xtRpCuA9EHceVZKERguSt"
@@ -6192,7 +6254,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 203846,
       "name": "Si Regresas",
       "url": "https://open.spotify.com/track/56MNKndcWxFCIlgpDtd8Fd"
@@ -6214,7 +6276,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-08",
+      "date_removed": null,
       "duration_ms": 239418,
       "name": "Si Te Agarran Las Ganas",
       "url": "https://open.spotify.com/track/3RONkAIswfbMyJ3UCXXBei"
@@ -6690,7 +6752,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 170113,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/50WtswE20cDFRHe183OXkW"
@@ -7288,7 +7350,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 164234,
       "name": "Tu Poeta",
       "url": "https://open.spotify.com/track/60t05P6me4qnDI0kiwM8Bc"

@@ -4,7 +4,7 @@
 
 > India's Rap Scene\. Cover\- MC STAN
 
-167 songs - 9 hr 19 min
+168 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Basti Ka Hasti](https://open.spotify.com/track/3k9PtGmPNnQtt32TKWm6f3) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Insaan](https://open.spotify.com/album/5Xrj5h7GQkxcjXRWJAtNvF) | 3:15 | 2023-03-27 | 2024-05-29 |
 | [Bawli](https://open.spotify.com/track/3cp5VdEzmk4DmLOs7LOTpT) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Bawli](https://open.spotify.com/album/5bIAiDpCAnHxZ6N2EN8mTQ) | 1:58 | 2023-09-12 | 2024-02-06 |
 | [Beta Karta Rap](https://open.spotify.com/track/5yVIHCJRdQNyIQa4sOrsW5) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [King Of The Streets](https://open.spotify.com/album/2hPOXAgxqTZvkg8qNKO88e) | 3:20 | 2023-06-09 | 2023-08-04 |
+| [Bhai Hai](https://open.spotify.com/track/0z2xoirJvVGRDXoBxaH9h8) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Enzo](https://open.spotify.com/artist/0QX0UY2UJtnhfEbqUbTz6h) | [Bhai Hai](https://open.spotify.com/album/030XdUEQhiS5NI7hgvgLap) | 2:24 | 2024-06-14 |  |
 | [Bread And Butter](https://open.spotify.com/track/3DobnqNHraZV31RycNkFBF) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Street Knowledge](https://open.spotify.com/album/4atfMjGwk0GMXIvGvqyNqC) | 2:39 | 2023-09-04 | 2023-12-09 |
 | [Bt Ho Gayi](https://open.spotify.com/track/1guV4vXt4fnnwALAdxy5hq) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Mtv Hustle 2.0](https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R) | 2:36 | 2023-07-17 | 2024-04-19 |
 | [Bt Ho Gayi](https://open.spotify.com/track/1boqva32nCghdoWiKLm5rX) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Hustle 2.0](https://open.spotify.com/album/1IaOxCVpa6TckpUwp6LdXS) | 2:40 | 2023-03-27 |  |

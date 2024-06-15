@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The new school of M\u00fasica Mexicana. Cover: Linea Personal",
+  "description": "The new school of M\u00fasica Mexicana. Cover: El Padrinito Toys and Octavio Cuadras",
   "name": "M\u00fasica Mexicana Rising",
   "tracks": [
     {
@@ -560,7 +560,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 219166,
       "name": "Abismo",
       "url": "https://open.spotify.com/track/0FEayppbKROCxKGyQ78PD8"
@@ -702,6 +702,28 @@
       "duration_ms": 149887,
       "name": "AJUA",
       "url": "https://open.spotify.com/track/0BnpQAlGqVxQKLSrQivHCX"
+    },
+    {
+      "album": {
+        "name": "AK",
+        "url": "https://open.spotify.com/album/3KWj6H9XMhx9J6TuaToMsQ"
+      },
+      "artists": [
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        },
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135242,
+      "name": "AK",
+      "url": "https://open.spotify.com/track/4vw1INwrVLJFv7mOzTObEu"
     },
     {
       "album": {
@@ -1060,7 +1082,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 208467,
       "name": "Ando Devuelta En Miami",
       "url": "https://open.spotify.com/track/2mhdQkkSwj0an6SoEYwJCZ"
@@ -2012,7 +2034,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 180384,
       "name": "Borracho",
       "url": "https://open.spotify.com/track/5GBqM5WXHo3pwxFTfSIstT"
@@ -2354,7 +2376,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 154453,
       "name": "Capital Sobrosa",
       "url": "https://open.spotify.com/track/09SzA6jbeNRxSRW7pZ03Po"
@@ -2682,7 +2704,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 177841,
       "name": "COMO LO MUEVES",
       "url": "https://open.spotify.com/track/2B8LTd0wcI3WkmKtbwuROw"
@@ -4959,6 +4981,24 @@
     },
     {
       "album": {
+        "name": "El Personaje",
+        "url": "https://open.spotify.com/album/0agPsZ82tVrQqf4MhTuAUK"
+      },
+      "artists": [
+        {
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152816,
+      "name": "El Personaje",
+      "url": "https://open.spotify.com/track/0GbHQOOfo66XP8Uujhzb0l"
+    },
+    {
+      "album": {
         "name": "El Piquetito",
         "url": "https://open.spotify.com/album/1tj8rwJ06KkWtWYPR2Sgxc"
       },
@@ -5325,6 +5365,24 @@
     },
     {
       "album": {
+        "name": "El \u00daltimo Abrazo",
+        "url": "https://open.spotify.com/album/6k4IFiHgpu36NwfZjGIA42"
+      },
+      "artists": [
+        {
+          "name": "Franco Rey",
+          "url": "https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187600,
+      "name": "El \u00daltimo Abrazo",
+      "url": "https://open.spotify.com/track/4lFdSvx3Ebpjf72RUCoQ95"
+    },
+    {
+      "album": {
         "name": "Ella",
         "url": "https://open.spotify.com/album/3BOqHu4mY7TRSSWlK3h3xT"
       },
@@ -5612,6 +5670,24 @@
       "duration_ms": 201508,
       "name": "En Un Deportivo Voy",
       "url": "https://open.spotify.com/track/5tjAFuUzHkOlTfL7eX8T6B"
+    },
+    {
+      "album": {
+        "name": "Energ\u00eda Oscura",
+        "url": "https://open.spotify.com/album/3CPufq8qJv3coPhQVdrcck"
+      },
+      "artists": [
+        {
+          "name": "Fabi\u00f8 Guerra",
+          "url": "https://open.spotify.com/artist/3rQkoi7yo0Repzlzn4fMkp"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168891,
+      "name": "Energ\u00eda Oscura",
+      "url": "https://open.spotify.com/track/4PGDLRQNah43T9HMR2eFac"
     },
     {
       "album": {
@@ -6205,6 +6281,32 @@
     },
     {
       "album": {
+        "name": "Exotic\u00f3n",
+        "url": "https://open.spotify.com/album/4OAeL8hNuiVPRE1lrMPQjS"
+      },
+      "artists": [
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "Tito Torbellino Jr",
+          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154800,
+      "name": "Exotic\u00f3n",
+      "url": "https://open.spotify.com/track/4CWhevCpcvuYoxOLV5Im8q"
+    },
+    {
+      "album": {
         "name": "Falsas Palabras",
         "url": "https://open.spotify.com/album/2uEdCtczwsa9RvpvBzsDmw"
       },
@@ -6346,7 +6448,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 159045,
       "name": "FIESTA MANZANITA",
       "url": "https://open.spotify.com/track/1X2PLSpFyTx68goUdhnWBl"
@@ -7452,7 +7554,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 140586,
       "name": "Jordan Fly",
       "url": "https://open.spotify.com/track/46E20RV1VLUJqidEfXP1UM"
@@ -8880,7 +8982,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 153480,
       "name": "Los Cuadros",
       "url": "https://open.spotify.com/track/6kfXiwhfIxhyzkLamTyb6h"
@@ -9014,7 +9116,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 158784,
       "name": "Lujo y Detalle",
       "url": "https://open.spotify.com/track/0GuXQhMkgAviHsjaMoqdAp"
@@ -10084,7 +10186,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 171040,
       "name": "Miami",
       "url": "https://open.spotify.com/track/0ez08k2vkt1siQgu3byVha"
@@ -10356,6 +10458,24 @@
       "duration_ms": 126399,
       "name": "Modo Maniak",
       "url": "https://open.spotify.com/track/2DDGF4X91zeXOeIwJuF3Ai"
+    },
+    {
+      "album": {
+        "name": "Modo Sad",
+        "url": "https://open.spotify.com/album/0OHrVeqmSmhvlHIDuhsusz"
+      },
+      "artists": [
+        {
+          "name": "Uriel AR",
+          "url": "https://open.spotify.com/artist/1YqbztCgjTZ6GcrQ6cDI3K"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218135,
+      "name": "Modo Sad",
+      "url": "https://open.spotify.com/track/15Ccodimg1p4jFMRkYHVHQ"
     },
     {
       "album": {
@@ -12149,6 +12269,24 @@
     },
     {
       "album": {
+        "name": "Plan B",
+        "url": "https://open.spotify.com/album/3pljduvYLW3gKVATmAGx3i"
+      },
+      "artists": [
+        {
+          "name": "ENANO",
+          "url": "https://open.spotify.com/artist/42KS12jXMMjUHxYdQswCuz"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171692,
+      "name": "Plan B",
+      "url": "https://open.spotify.com/track/6prLB64chLph5L7FSiYsiV"
+    },
+    {
+      "album": {
         "name": "Sin Rumbo",
         "url": "https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi"
       },
@@ -12444,6 +12582,32 @@
       "duration_ms": 254745,
       "name": "PSICOD\u00c9LICO",
       "url": "https://open.spotify.com/track/6ZYqnGJapDynq57OjwVelk"
+    },
+    {
+      "album": {
+        "name": "Pura Calidad",
+        "url": "https://open.spotify.com/album/70i8cxgsfosUAWdHmVqbS5"
+      },
+      "artists": [
+        {
+          "name": "Clave 77",
+          "url": "https://open.spotify.com/artist/4wm5p9Ett9OPXZwG1WpqgP"
+        },
+        {
+          "name": "Porte Blindado",
+          "url": "https://open.spotify.com/artist/5cZT2KvkWM3z9GC4hMYPlX"
+        },
+        {
+          "name": "Manuel LM",
+          "url": "https://open.spotify.com/artist/7JILT6i0KPEvN7TCIS1JBy"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148742,
+      "name": "Pura Calidad",
+      "url": "https://open.spotify.com/track/1PYnwflk3YzGnc6tYKXulS"
     },
     {
       "album": {
@@ -14529,6 +14693,24 @@
     },
     {
       "album": {
+        "name": "DESDE MI HABITACI\u00d3N",
+        "url": "https://open.spotify.com/album/3ZxjhNBeDioj81Ft175XPE"
+      },
+      "artists": [
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197988,
+      "name": "SU PRINCE",
+      "url": "https://open.spotify.com/track/7diicPsESM0SYhXAPSKKoj"
+    },
+    {
+      "album": {
         "name": "Substancias",
         "url": "https://open.spotify.com/album/7A0S7gIKQDXGMPuSqC3oKb"
       },
@@ -15372,7 +15554,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 142469,
       "name": "Tu Coquette",
       "url": "https://open.spotify.com/track/6fEGEvOAyszsJjQeLjK6PW"
@@ -16330,6 +16512,24 @@
       "duration_ms": 178904,
       "name": "Voy a Mi Paso",
       "url": "https://open.spotify.com/track/75daErwWpFQEjUqIMFEsOY"
+    },
+    {
+      "album": {
+        "name": "Voy Enfierrado",
+        "url": "https://open.spotify.com/album/6gFwSuvC9NfquGCjxAC5UB"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "Voy Enfierrado",
+      "url": "https://open.spotify.com/track/39uJGraTSq4lC6UGfCLGm2"
     },
     {
       "album": {

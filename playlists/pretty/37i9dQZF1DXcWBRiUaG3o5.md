@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 
 > Keep your night easy and light with this acoustic mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,244,310 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,244,275 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,18 +95,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 85 | [The Moons Detriment](https://open.spotify.com/track/6dRKRVyjzxa2efBCXZez6R) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [The Moons Detriment](https://open.spotify.com/album/40uRLasPxbgmHu5yfueU2m) | 2:35 |
 | 86 | [Poison & Wine](https://open.spotify.com/track/3wsZYuHJrk3lssa7V7jvye) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV) | 3:39 |
 | 87 | [Wake Me](https://open.spotify.com/track/6pOiBHK2mMiSNnPsYNGsEc) | [Message To Bears](https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3) | [Folding Leaves](https://open.spotify.com/album/10BngwMbchdQ5W3LN4tFuk) | 5:31 |
-| 88 | [One More Chance](https://open.spotify.com/track/5WXoxLVNn7Bxrn0Q2RHfka) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [Honest](https://open.spotify.com/album/00ZcKI8FsAB47BfFFNwEYx) | 4:13 |
-| 89 | [Visions](https://open.spotify.com/track/67yniWH9m9UjFwSA0CPeIk) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Visions](https://open.spotify.com/album/3HGLigPm8UcqiA0vPAv3Ye) | 3:55 |
-| 90 | [The Rhine](https://open.spotify.com/track/0gaQPwSznFAihn0xInJUxR) | [Corey Kilgannon](https://open.spotify.com/artist/0XuYkyliNor6szd1B6oBKk) | [She Is Blue Sky, I'm the Gray](https://open.spotify.com/album/77Gum1zJBVkI3IvVYgaM6X) | 3:30 |
-| 91 | [Winter Song](https://open.spotify.com/track/01NSrsQkOZ3PgRcGLGrOT5) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/0xWfhCMYmaiCXtLOuyPoLF) | 2:43 |
-| 92 | [Leave the Light On \- Demo](https://open.spotify.com/track/2nxBkZ02hsiU3SIowH4XQI) | [Marissa Nadler](https://open.spotify.com/artist/5zjaF8JUdylMWrA7AVo3hJ) | [Before July: Demos & Unreleased Songs](https://open.spotify.com/album/7lNnNfJjnoQIKAzyZY9sdL) | 3:12 |
-| 93 | [Stanley Park \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3EIRyXhoQP8zglbqDif1NX) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Spotify Singles](https://open.spotify.com/album/3XV7BmKTGdfoxGEaKDQbJb) | 2:29 |
-| 94 | [The Bride & The Bachelor](https://open.spotify.com/track/3toFxCag8BngPPZYm3p9kY) | [Magnolian](https://open.spotify.com/artist/0Uj91EMXf9p6ha6pGl7XIp) | [Famous Men](https://open.spotify.com/album/6KGnCDspnm0AQe4uHymeg6) | 4:10 |
-| 95 | [If The Creek Don’t Rise](https://open.spotify.com/track/1nJubUVBBLj2bU9KnpvwvM) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Paupers Field](https://open.spotify.com/album/6dXyHp7v65Wn7b2QKitcV2) | 3:24 |
-| 96 | [Fortune \- Acoustic](https://open.spotify.com/track/5UcsxVPmXd974EkMtowmNV) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Acoustic Sessions](https://open.spotify.com/album/3A3SmcC6PqwOyELYxwqUkK) | 3:48 |
-| 97 | [Miss Misanthrope](https://open.spotify.com/track/19VVSsFewSNvevbhgqm5ch) | [Jealous of the Birds](https://open.spotify.com/artist/3S8P24WjZtVNaPLeXjaCJm) | [Parma Violets](https://open.spotify.com/album/0GzuW3EO2SQAsPKSUfl0zQ) | 3:55 |
-| 98 | [Top to Toe](https://open.spotify.com/track/1I6hI9D2b1UXZUGoP8ixM0) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Top to Toe](https://open.spotify.com/album/0QdnZNP2WTEGrmKSyMZ6d1) | 3:36 |
-| 99 | [Under Dusk](https://open.spotify.com/track/5eyE73MfgZshuk82qoH6nn) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx), [Enna Blake](https://open.spotify.com/artist/3qIZ7QSE210xVDfAHDpXmb) | [Under Dusk](https://open.spotify.com/album/0ONOYFtFe1UxsFtO9otjMW) | 3:39 |
-| 100 | [In the Stream](https://open.spotify.com/track/02iZJRlOZ7VRbzO8uVdOva) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [All We Grow](https://open.spotify.com/album/7hoiuRyh1XBh4YUOB0ZeGx) | 5:10 |
+| 88 | [Old Country \(Audiotree Live Version\)](https://open.spotify.com/track/5gx9Tna1CvetTbi0JHQl7d) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Andrea von Kampen on Audiotree Live](https://open.spotify.com/album/3vwPmU4r8gbq0dolrh8T1l) | 2:42 |
+| 89 | [One More Chance](https://open.spotify.com/track/5WXoxLVNn7Bxrn0Q2RHfka) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [Honest](https://open.spotify.com/album/00ZcKI8FsAB47BfFFNwEYx) | 4:13 |
+| 90 | [Visions](https://open.spotify.com/track/67yniWH9m9UjFwSA0CPeIk) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Visions](https://open.spotify.com/album/3HGLigPm8UcqiA0vPAv3Ye) | 3:55 |
+| 91 | [The Rhine](https://open.spotify.com/track/0gaQPwSznFAihn0xInJUxR) | [Corey Kilgannon](https://open.spotify.com/artist/0XuYkyliNor6szd1B6oBKk) | [She Is Blue Sky, I'm the Gray](https://open.spotify.com/album/77Gum1zJBVkI3IvVYgaM6X) | 3:30 |
+| 92 | [Winter Song](https://open.spotify.com/track/01NSrsQkOZ3PgRcGLGrOT5) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/0xWfhCMYmaiCXtLOuyPoLF) | 2:43 |
+| 93 | [Leave the Light On \- Demo](https://open.spotify.com/track/2nxBkZ02hsiU3SIowH4XQI) | [Marissa Nadler](https://open.spotify.com/artist/5zjaF8JUdylMWrA7AVo3hJ) | [Before July: Demos & Unreleased Songs](https://open.spotify.com/album/7lNnNfJjnoQIKAzyZY9sdL) | 3:12 |
+| 94 | [Stanley Park \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3EIRyXhoQP8zglbqDif1NX) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Spotify Singles](https://open.spotify.com/album/3XV7BmKTGdfoxGEaKDQbJb) | 2:29 |
+| 95 | [The Bride & The Bachelor](https://open.spotify.com/track/3toFxCag8BngPPZYm3p9kY) | [Magnolian](https://open.spotify.com/artist/0Uj91EMXf9p6ha6pGl7XIp) | [Famous Men](https://open.spotify.com/album/6KGnCDspnm0AQe4uHymeg6) | 4:10 |
+| 96 | [If The Creek Don’t Rise](https://open.spotify.com/track/1nJubUVBBLj2bU9KnpvwvM) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Paupers Field](https://open.spotify.com/album/6dXyHp7v65Wn7b2QKitcV2) | 3:24 |
+| 97 | [Fortune \- Acoustic](https://open.spotify.com/track/5UcsxVPmXd974EkMtowmNV) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Acoustic Sessions](https://open.spotify.com/album/3A3SmcC6PqwOyELYxwqUkK) | 3:48 |
+| 98 | [Miss Misanthrope](https://open.spotify.com/track/19VVSsFewSNvevbhgqm5ch) | [Jealous of the Birds](https://open.spotify.com/artist/3S8P24WjZtVNaPLeXjaCJm) | [Parma Violets](https://open.spotify.com/album/0GzuW3EO2SQAsPKSUfl0zQ) | 3:55 |
+| 99 | [Top to Toe](https://open.spotify.com/track/1I6hI9D2b1UXZUGoP8ixM0) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Top to Toe](https://open.spotify.com/album/0QdnZNP2WTEGrmKSyMZ6d1) | 3:36 |
+| 100 | [Under Dusk](https://open.spotify.com/track/5eyE73MfgZshuk82qoH6nn) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx), [Enna Blake](https://open.spotify.com/artist/3qIZ7QSE210xVDfAHDpXmb) | [Under Dusk](https://open.spotify.com/album/0ONOYFtFe1UxsFtO9otjMW) | 3:39 |
 
 Snapshot ID: `ZTH7QAAAAAAxKxjxMMb4Duu0Xig/C6y0`

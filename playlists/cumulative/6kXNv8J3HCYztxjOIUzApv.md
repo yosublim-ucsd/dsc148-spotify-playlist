@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-266 songs - 16 hr 49 min
+269 songs - 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [1234](https://open.spotify.com/track/4Mbj2NKklmBRfs0ekO6cQ5) | [Emigrate](https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1), [Benjamin Kowalewicz](https://open.spotify.com/artist/1ysul2Zu0lQs8JMWXSnEa9) | [1234](https://open.spotify.com/album/55qWVcSQBFn5odd33hc1Ie) | 3:22 | 2022-01-25 | 2023-01-04 |
 | [1x1 \(feat\. Nova Twins\)](https://open.spotify.com/track/6sIbv1oWOuma2qV907MUbk) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4) | 3:29 | 2023-07-25 |  |
 | [333](https://open.spotify.com/track/69RTYXKyRkS9j3yk6Q872M) | [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [333](https://open.spotify.com/album/1iR5LjosPKur3wa6eVTREC) | 3:16 | 2021-08-20 | 2023-12-14 |
+| [A Banger A Day Keeps The Doctor Away](https://open.spotify.com/track/7AvALXbGFUPnevTLC41JYK) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [A Banger A Day Keeps The Doctor Away](https://open.spotify.com/album/44YwGDqhcIbzprf301vs2Q) | 3:36 | 2024-06-14 |  |
 | [A Crime To Remember](https://open.spotify.com/track/4YsnD5GTI8nVBUXkmlqur4) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Pop Evil](https://open.spotify.com/album/2zrUlKeTyEhyYulj8Gu8T9) | 3:22 | 2021-08-20 | 2023-01-05 |
 | [A Different Kind of Year](https://open.spotify.com/track/3GnTWJSfDr96JJMxCGUUuu) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [A Different Kind of Year](https://open.spotify.com/album/4jAeOZ3qAjHxj8nsLor5nD) | 3:54 | 2024-01-19 |  |
 | [A Warrior's Call](https://open.spotify.com/track/0hTiTU0yqthnByyZDD3bcc) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Beyond Hell / Above Heaven](https://open.spotify.com/album/2BqLW9LGoxfwRCn1hP5vOq) | 4:23 | 2021-08-20 |  |
@@ -118,6 +119,7 @@
 | [Goldtooth](https://open.spotify.com/track/6GH69Wp5PZUMFHO70RXNme) | [Nothingface](https://open.spotify.com/artist/7v4hyXy0IQiJaKeVTTQX1E) | [An Audio Guide to Everyday Atrocity](https://open.spotify.com/album/2cQcgbRwlsR28UocitcdxF) | 4:21 | 2022-03-08 | 2023-01-04 |
 | [Gone](https://open.spotify.com/track/6Aslruh5oCnzDKWTALrHOZ) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [VENA](https://open.spotify.com/album/0GC8hjVn9Jz5oEq9gFj9KV) | 4:12 | 2023-07-25 | 2024-04-10 |
 | [Got the Life](https://open.spotify.com/track/6nJPHXRpKYv2yqtalEjKy5) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Follow The Leader](https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4) | 3:45 | 2021-08-20 |  |
+| [Guerrilla Radio](https://open.spotify.com/track/1lenAyuxQejwcsgLQtGqPV) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Soul Revolution Deluxe: The Collabs](https://open.spotify.com/album/3zJkZv2QjamztjHmzShhuQ) | 3:23 | 2024-06-14 |  |
 | [Guerrilla Radio](https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [The Battle Of Los Angeles](https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX) | 3:26 | 2021-08-20 | 2023-01-05 |
 | [Hail to the King](https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 5:05 | 2022-01-24 |  |
 | [Hardwired](https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt) | 3:11 | 2023-05-17 |  |
@@ -203,6 +205,7 @@
 | [So Called Life](https://open.spotify.com/track/5EIKp1TKhUNdsThloWPa53) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [So Called Life](https://open.spotify.com/album/1dlAtdEHKRk6fLGfiPT8RW) | 3:26 | 2022-01-24 | 2024-04-10 |
 | [Somewhat Damaged](https://open.spotify.com/track/0yUyPe5c1o5cCyV7aJkz6F) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Fragile](https://open.spotify.com/album/4uiVwLbTzE6VMkXpaDAwB8) | 4:31 | 2022-03-08 | 2023-01-04 |
 | [Song \#3](https://open.spotify.com/track/5pOw4EIHqmSY7SbZETFGAc) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Song \#3](https://open.spotify.com/album/0IIrEJd6qWhKWab1y6Whgw) | 4:16 | 2021-08-20 | 2024-04-10 |
+| [SOS \(feat\. Nate Vickers\)](https://open.spotify.com/track/5Jkg6h2W1msCoLCIJ75vTA) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS), [Nate Vickers](https://open.spotify.com/artist/7nafgjvAAKl1GZflgBbBbm) | [Soul Revolution Deluxe: The Collabs](https://open.spotify.com/album/3zJkZv2QjamztjHmzShhuQ) | 3:38 | 2024-06-14 |  |
 | [Soul Wars](https://open.spotify.com/track/3mZGIXl8RrxiJzJp9F2wm1) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 3:37 | 2022-03-08 | 2023-01-04 |
 | [SPIRITS](https://open.spotify.com/track/3ssc9tjQwV4gk40pkktbOD) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [SPIRITS](https://open.spotify.com/album/2rE2XeImSA5qCuS4faICNV) | 5:39 | 2022-07-25 |  |
 | [Square Hammer](https://open.spotify.com/track/2XgTw2co6xv95TmKpMcL70) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD) | 3:59 | 2022-01-24 |  |

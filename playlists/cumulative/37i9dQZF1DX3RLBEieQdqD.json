@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-07",
-  "description": "\u00a1Popular, Mariachi, Vallenato y m\u00e1s pa' sentarse a beber! Foto: Diego Daza",
+  "description": "\u00a1Popular, Mariachi, Vallenato y m\u00e1s pa' sentarse a beber! Foto: Yeison Jim\u00e9nez & Pipe Bueno",
   "name": "Ranchenato",
   "tracks": [
     {
@@ -906,7 +906,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 159456,
       "name": "De Lejitos",
       "url": "https://open.spotify.com/track/2lTeOWfZmsXtfrbQn9ehg9"
@@ -3534,6 +3534,28 @@
       "duration_ms": 173999,
       "name": "Te Super\u00e9",
       "url": "https://open.spotify.com/track/3nGC3Mt4aKEPNSG9Ur3xyQ"
+    },
+    {
+      "album": {
+        "name": "Tengo Ganas",
+        "url": "https://open.spotify.com/album/5TMdQRTAyXs6pyka3ICrtg"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        },
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188400,
+      "name": "Tengo Ganas",
+      "url": "https://open.spotify.com/track/4TiS7REpiQIaj6BJHFc05d"
     },
     {
       "album": {

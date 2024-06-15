@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "New and emerging R&B, afropop and Alternative tracks. Cover: Turunesh ",
+  "description": "New and emerging R&B, afropop and Alternative tracks. Cover: ShineTTW",
   "name": "Sizzlers ",
   "tracks": [
     {
@@ -461,6 +461,24 @@
     },
     {
       "album": {
+        "name": "A Million Things",
+        "url": "https://open.spotify.com/album/3m8ZRJvS9m5wEwScchXjlv"
+      },
+      "artists": [
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187159,
+      "name": "A Million Things",
+      "url": "https://open.spotify.com/track/1jG5GaaSjcX5F6qy6RuvbN"
+    },
+    {
+      "album": {
         "name": "Festival of the Sun",
         "url": "https://open.spotify.com/album/4KBAvXtsBubhWTTdKy9lfD"
       },
@@ -676,7 +694,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 152971,
       "name": "Afro Bass",
       "url": "https://open.spotify.com/track/57SIbxmrWA7GsMtv5micLJ"
@@ -1202,6 +1220,24 @@
       "duration_ms": 179200,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/3HREDHrvyXwYcIEelACqrS"
+    },
+    {
+      "album": {
+        "name": "THE CHOSEN ONE",
+        "url": "https://open.spotify.com/album/3m3N6TjGG5Pyzqhv9j3dbp"
+      },
+      "artists": [
+        {
+          "name": "ShineTTW",
+          "url": "https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141055,
+      "name": "Amg",
+      "url": "https://open.spotify.com/track/2Qby1reHz7h5nFDwEI9Afq"
     },
     {
       "album": {
@@ -2429,6 +2465,24 @@
     },
     {
       "album": {
+        "name": "Braids",
+        "url": "https://open.spotify.com/album/3HVSOK0ei8azFlyowLimxb"
+      },
+      "artists": [
+        {
+          "name": "Jinmi Abduls",
+          "url": "https://open.spotify.com/artist/22t8cDfMqrZPXSgepZNY4W"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139666,
+      "name": "Braids",
+      "url": "https://open.spotify.com/track/482tB4gtpuW8ObJNQI0BXP"
+    },
+    {
+      "album": {
         "name": "IN CASE I NEVER LOVE AGAIN ( ICINLA)",
         "url": "https://open.spotify.com/album/0xJWHpLQZOiOKoDzqquHfY"
       },
@@ -2674,7 +2728,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 202597,
       "name": "Buy Me Love",
       "url": "https://open.spotify.com/track/0HtzaW1nXWHygysm2ZNAnW"
@@ -3856,7 +3910,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 176700,
       "name": "Distance",
       "url": "https://open.spotify.com/track/5CqoCjBdBTTsVrf6aZOP3t"
@@ -4898,7 +4952,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 184000,
       "name": "Falling",
       "url": "https://open.spotify.com/track/6drtB7tFWbtKvp4QikYuTo"
@@ -5759,6 +5813,28 @@
     },
     {
       "album": {
+        "name": "Further From Me",
+        "url": "https://open.spotify.com/album/0fbR7cmYJ8f0AwqglWbpb9"
+      },
+      "artists": [
+        {
+          "name": "Caleb Awiti",
+          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
+        },
+        {
+          "name": "Faygos Paradise",
+          "url": "https://open.spotify.com/artist/0gHLI704d9CPdory3r1URi"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137187,
+      "name": "Further From Me",
+      "url": "https://open.spotify.com/track/53SWYv39WMzmGub1PAd7O2"
+    },
+    {
+      "album": {
         "name": "Further Lighter",
         "url": "https://open.spotify.com/album/6zLOG4yi9RyGYmZEpBc8z9"
       },
@@ -5984,6 +6060,32 @@
       "duration_ms": 129473,
       "name": "gin and wine (ginuwine)",
       "url": "https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI"
+    },
+    {
+      "album": {
+        "name": "GHOST TOWN",
+        "url": "https://open.spotify.com/album/35awOR0VhAbhvlloOv4Zow"
+      },
+      "artists": [
+        {
+          "name": "SOLIS4EVR",
+          "url": "https://open.spotify.com/artist/3ZbW5RPoVdTdsR7JmRtoms"
+        },
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        },
+        {
+          "name": "Mowalola",
+          "url": "https://open.spotify.com/artist/6BjTMFkrQJF8cQlVsLFbUh"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166399,
+      "name": "girl on a mission",
+      "url": "https://open.spotify.com/track/71cG0LyiL0ozOwKAxyM5Fe"
     },
     {
       "album": {
@@ -8132,7 +8234,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 169824,
       "name": "Jeje",
       "url": "https://open.spotify.com/track/3J6yVWwtgHvYazpP0E8evl"
@@ -8378,7 +8480,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 195537,
       "name": "Just Breathe",
       "url": "https://open.spotify.com/track/4TScWOVUA0ae8vN4OynnPJ"
@@ -15585,6 +15687,24 @@
     },
     {
       "album": {
+        "name": "sundays",
+        "url": "https://open.spotify.com/album/1Qgw1P1tA1b4RIeZZrMLHP"
+      },
+      "artists": [
+        {
+          "name": "\u00d8bed",
+          "url": "https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "sundays",
+      "url": "https://open.spotify.com/track/1eV2Rt6YeyNUVdTLQpX6IZ"
+    },
+    {
+      "album": {
         "name": "Sundress",
         "url": "https://open.spotify.com/album/4l3mnirO3XZxLKHIQ0c3cK"
       },
@@ -15640,7 +15760,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 166791,
       "name": "SUNSET AND YOU - Acoustic",
       "url": "https://open.spotify.com/track/3PWjSGSHCt85GbVhKmhkGM"
@@ -15869,6 +15989,24 @@
     },
     {
       "album": {
+        "name": "Take It",
+        "url": "https://open.spotify.com/album/3WF1FIQKr2vlPcxoPc6zgn"
+      },
+      "artists": [
+        {
+          "name": "Maya Amolo",
+          "url": "https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150666,
+      "name": "Take It",
+      "url": "https://open.spotify.com/track/60BmYE0G5451D7LwIqO7md"
+    },
+    {
+      "album": {
         "name": "Take Your Time",
         "url": "https://open.spotify.com/album/5AXqGvPrSeYKAYXSbQ15ba"
       },
@@ -15934,7 +16072,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 142080,
       "name": "Temptation",
       "url": "https://open.spotify.com/track/3fQNGqh3o9uPfzHyJmFaSs"
@@ -16628,7 +16766,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 163369,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/2y2tmHmV5f2UvQDQLqBpwZ"
@@ -17324,6 +17462,28 @@
       "duration_ms": 146000,
       "name": "Vision",
       "url": "https://open.spotify.com/track/5jLBhr4USswMtmsItEAFqf"
+    },
+    {
+      "album": {
+        "name": "O.N.E (Deluxe)",
+        "url": "https://open.spotify.com/album/7MxR3T4j6QRmjsPftzciOI"
+      },
+      "artists": [
+        {
+          "name": "Josh Blakk",
+          "url": "https://open.spotify.com/artist/0NbfqAkLJq6uLLCKKY3u2l"
+        },
+        {
+          "name": "Bskute",
+          "url": "https://open.spotify.com/artist/5lFXtUEAO1WTelj5dhGIrU"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171958,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/6pRgAsctBATjTrSQWm7vTD"
     },
     {
       "album": {

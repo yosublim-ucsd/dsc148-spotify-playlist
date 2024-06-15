@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 
 > Hindi hai, Indie hai! Cover\- Aditya Rikhari
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,183 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,219 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 99 | [Kya Dekhu](https://open.spotify.com/track/2jhl4HxYbNC5OPvqxiodUG) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Saar](https://open.spotify.com/album/2leNjXvtxbHDUFiltWZtbQ) | 3:05 |
 | 100 | [Pareshaan](https://open.spotify.com/track/5Infc095QF0BDwCF9rMyxD) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Pareshaan](https://open.spotify.com/album/45CSYEp4RHs2bNSiUUdfMb) | 4:04 |
 
-Snapshot ID: `ZmfysAAAAAD+Zao6eakS9ivLos+i8byt`
+Snapshot ID: `ZmvlkgAAAACiYJ0u1Ziymwz0s2SOhKMU`

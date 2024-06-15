@@ -1,32 +1,52 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sai Abhyankar",
-  "num_followers": 11845,
+  "num_followers": 11868,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmsRsgAAAADs2v6bAvLrbC2RqGunFiEF",
+  "snapshot_id": "ZmxfsgAAAADtjc6dhsPlkvXJZ7oi2OeD",
   "tracks": [
     {
-      "added_at": "2024-05-20 08:39:45",
+      "added_at": "2024-06-14 06:04:33",
       "album": {
-        "name": "Adiye",
-        "url": "https://open.spotify.com/album/3I5C4OE79iGOAGazuzmVth"
+        "name": "Thuhila",
+        "url": "https://open.spotify.com/album/0Q76oGNJkWaBkkqLDDO45y"
       },
       "artists": [
         {
-          "name": "Stefan Packianathan",
-          "url": "https://open.spotify.com/artist/0P5zcM5KLVBTlapyoESJIa"
+          "name": "Nicky.M",
+          "url": "https://open.spotify.com/artist/58QgZsCB2X7kk31Og7Fw3Q"
         },
         {
-          "name": "Krishan J",
-          "url": "https://open.spotify.com/artist/3sCHA0pWlvQDwqcjX9TIdw"
+          "name": "Rajaganapathy",
+          "url": "https://open.spotify.com/artist/2VuJo5b1VcEIruE52GtNLq"
+        },
+        {
+          "name": "Aathreya",
+          "url": "https://open.spotify.com/artist/4YSpoNee7EIL8olUEZAQqs"
+        },
+        {
+          "name": "Jasomitha",
+          "url": "https://open.spotify.com/artist/6kDxxqHkVJoLihu5tEpnj2"
+        },
+        {
+          "name": "Pranitha",
+          "url": "https://open.spotify.com/artist/4k6qwsZB8oduj7v8eFsbNB"
+        },
+        {
+          "name": "Sathustica",
+          "url": "https://open.spotify.com/artist/1P2nVyWqmPWbGiLGThqalS"
+        },
+        {
+          "name": "Sulaxshi",
+          "url": "https://open.spotify.com/artist/21A7zn3z5igDaobPTQklK2"
         }
       ],
-      "duration_ms": 213409,
-      "name": "Adiye",
-      "url": "https://open.spotify.com/track/2ZVIeS1p17UmWSjLSJYOt3"
+      "duration_ms": 206724,
+      "name": "Thuhila",
+      "url": "https://open.spotify.com/track/1oBnbrjFdHXL5Duoc8PWpk"
     },
     {
       "added_at": "2024-02-01 05:32:00",
@@ -141,6 +161,22 @@
       "url": "https://open.spotify.com/track/6gHyDQRtXeGMSBflq4teh1"
     },
     {
+      "added_at": "2024-06-14 06:08:05",
+      "album": {
+        "name": "Thedinen",
+        "url": "https://open.spotify.com/album/2PJkun0zvgP70nKfC2isjI"
+      },
+      "artists": [
+        {
+          "name": "Shahithya",
+          "url": "https://open.spotify.com/artist/1duE9FA46dM4h1PflZbyYf"
+        }
+      ],
+      "duration_ms": 202718,
+      "name": "Thedinen",
+      "url": "https://open.spotify.com/track/00gTcMEkHClzEqTtOiJcCH"
+    },
+    {
       "added_at": "2024-05-29 06:05:47",
       "album": {
         "name": "Aneram Andhaneram",
@@ -159,6 +195,62 @@
       "duration_ms": 153229,
       "name": "Aneram Andhaneram",
       "url": "https://open.spotify.com/track/2vu0tf9BIbwwrP9JMYQAsA"
+    },
+    {
+      "added_at": "2024-06-14 15:20:18",
+      "album": {
+        "name": "Manithan",
+        "url": "https://open.spotify.com/album/4jgawAdzNglEss4rhEXuvO"
+      },
+      "artists": [
+        {
+          "name": "Ainthinai",
+          "url": "https://open.spotify.com/artist/7enNExUFBZIE9pRCnD5snJ"
+        }
+      ],
+      "duration_ms": 197267,
+      "name": "Manithan",
+      "url": "https://open.spotify.com/track/3P4zBK6zZoi3UkQnLGqWkW"
+    },
+    {
+      "added_at": "2024-05-20 08:39:45",
+      "album": {
+        "name": "Adiye",
+        "url": "https://open.spotify.com/album/3I5C4OE79iGOAGazuzmVth"
+      },
+      "artists": [
+        {
+          "name": "Stefan Packianathan",
+          "url": "https://open.spotify.com/artist/0P5zcM5KLVBTlapyoESJIa"
+        },
+        {
+          "name": "Krishan J",
+          "url": "https://open.spotify.com/artist/3sCHA0pWlvQDwqcjX9TIdw"
+        }
+      ],
+      "duration_ms": 213409,
+      "name": "Adiye",
+      "url": "https://open.spotify.com/track/2ZVIeS1p17UmWSjLSJYOt3"
+    },
+    {
+      "added_at": "2024-06-14 15:10:42",
+      "album": {
+        "name": "Engu Poven?",
+        "url": "https://open.spotify.com/album/4paIGcasxYVK8teL1wZqnT"
+      },
+      "artists": [
+        {
+          "name": "Rozario",
+          "url": "https://open.spotify.com/artist/3y0YUGmWKQZyVnhUNYPchz"
+        },
+        {
+          "name": "Kiran Surath N",
+          "url": "https://open.spotify.com/artist/3HtIU5rxQT1V2GiAorUK8I"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Engu Poven?",
+      "url": "https://open.spotify.com/track/2WAluA15WXXZBqGcF6m0Vp"
     },
     {
       "added_at": "2024-06-13 15:35:14",
@@ -219,6 +311,22 @@
       "duration_ms": 184000,
       "name": "Kannurangu",
       "url": "https://open.spotify.com/track/2sxqSPufXTi1yyeZmxuPEG"
+    },
+    {
+      "added_at": "2024-06-14 15:10:42",
+      "album": {
+        "name": "Kanniley",
+        "url": "https://open.spotify.com/album/6gJYZ6zxzvzvTxHsU0WsfD"
+      },
+      "artists": [
+        {
+          "name": "Keerthana Kunalan",
+          "url": "https://open.spotify.com/artist/7vpsJyzheyIsSDtsjJzxUe"
+        }
+      ],
+      "duration_ms": 273000,
+      "name": "Kanniley",
+      "url": "https://open.spotify.com/track/2PwYyPokT4pF2RFr1hYgTF"
     },
     {
       "added_at": "2024-06-05 06:38:44",
@@ -307,6 +415,26 @@
       "duration_ms": 136470,
       "name": "Baasha",
       "url": "https://open.spotify.com/track/6ihc2u4GmDXVeIizwL3jEw"
+    },
+    {
+      "added_at": "2024-02-09 10:03:40",
+      "album": {
+        "name": "Idhai Yaar Solvaaro (Deaffrogs Records)",
+        "url": "https://open.spotify.com/album/2RxNgx7KUCHj5o3c1f0luA"
+      },
+      "artists": [
+        {
+          "name": "KENEESHAA",
+          "url": "https://open.spotify.com/artist/4zZsaegDxBfhj2UbGqDIDe"
+        },
+        {
+          "name": "Stony Psyko",
+          "url": "https://open.spotify.com/artist/39cUrSwXh9awPD0itfevhV"
+        }
+      ],
+      "duration_ms": 217241,
+      "name": "Idhai Yaar Solvaaro - Deaffrogs Records",
+      "url": "https://open.spotify.com/track/4OfLGsdYdU2MgWAXyErZ2A"
     },
     {
       "added_at": "2024-05-24 08:28:50",
@@ -581,26 +709,6 @@
       "url": "https://open.spotify.com/track/2MfIpKND74ODPk5Y7t94Z1"
     },
     {
-      "added_at": "2024-05-10 08:59:48",
-      "album": {
-        "name": "Thaai Paasam",
-        "url": "https://open.spotify.com/album/7sHQ4PLs8Zq0iLMDrTWId7"
-      },
-      "artists": [
-        {
-          "name": "Sanathan Shree Krishnan",
-          "url": "https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko"
-        },
-        {
-          "name": "Vasantha Sankarraman",
-          "url": "https://open.spotify.com/artist/1Ec4C4u0suwPwnpeTgFguW"
-        }
-      ],
-      "duration_ms": 182828,
-      "name": "Thaai Paasam",
-      "url": "https://open.spotify.com/track/1rCMd4ocW6OJzqb0lvoGwj"
-    },
-    {
       "added_at": "2024-05-03 05:57:50",
       "album": {
         "name": "Suzhal",
@@ -739,22 +847,6 @@
       "duration_ms": 227687,
       "name": "KANAVINIL KANDEN",
       "url": "https://open.spotify.com/track/775KkS3dsQanEqCXG7CHc7"
-    },
-    {
-      "added_at": "2024-03-22 10:51:02",
-      "album": {
-        "name": "Thavi Thavikudhu",
-        "url": "https://open.spotify.com/album/6bGtp2etuNLu7xxcGvJN4g"
-      },
-      "artists": [
-        {
-          "name": "Adityan",
-          "url": "https://open.spotify.com/artist/3oE6w5AkzIXRIR860NKYjc"
-        }
-      ],
-      "duration_ms": 217252,
-      "name": "Thavi Thavikudhu",
-      "url": "https://open.spotify.com/track/6OgUmT7FKBscC9b0fSpOYS"
     },
     {
       "added_at": "2024-04-04 11:46:33",
@@ -1033,26 +1125,6 @@
       "url": "https://open.spotify.com/track/5JtYr05Ba4xdeXZl9DJVS2"
     },
     {
-      "added_at": "2024-02-09 10:03:40",
-      "album": {
-        "name": "Idhai Yaar Solvaaro (Deaffrogs Records)",
-        "url": "https://open.spotify.com/album/2RxNgx7KUCHj5o3c1f0luA"
-      },
-      "artists": [
-        {
-          "name": "KENEESHAA",
-          "url": "https://open.spotify.com/artist/4zZsaegDxBfhj2UbGqDIDe"
-        },
-        {
-          "name": "Stony Psyko",
-          "url": "https://open.spotify.com/artist/39cUrSwXh9awPD0itfevhV"
-        }
-      ],
-      "duration_ms": 217241,
-      "name": "Idhai Yaar Solvaaro - Deaffrogs Records",
-      "url": "https://open.spotify.com/track/4OfLGsdYdU2MgWAXyErZ2A"
-    },
-    {
       "added_at": "2024-02-14 12:39:04",
       "album": {
         "name": "Kadhal Thorkum Nerame",
@@ -1127,22 +1199,6 @@
       "duration_ms": 138523,
       "name": "OORO",
       "url": "https://open.spotify.com/track/0gJyRJTtghZEfOz9dJIcv2"
-    },
-    {
-      "added_at": "2024-02-01 05:32:00",
-      "album": {
-        "name": "Thalaimurai",
-        "url": "https://open.spotify.com/album/64ubBdVV2I7QE7NYg5dcOQ"
-      },
-      "artists": [
-        {
-          "name": "Samson",
-          "url": "https://open.spotify.com/artist/4kgDn0gghgRb6JMYmiChDQ"
-        }
-      ],
-      "duration_ms": 327624,
-      "name": "Thalaimurai",
-      "url": "https://open.spotify.com/track/0U6NR1jqmslRonec4FHjI0"
     },
     {
       "added_at": "2024-02-01 05:32:00",

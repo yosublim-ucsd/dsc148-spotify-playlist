@@ -1,13 +1,29 @@
 {
   "description": "Rap from hell. Cover: $uicideboy$",
-  "num_followers": 587017,
+  "num_followers": 587120,
   "original_name": "TIRADE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmKT0AAAAADQpySY35fNMBlHR4YM4Rxm",
+  "snapshot_id": "ZmvOUAAAAAC4SCixqE3EadmIZ3iA4oqC",
   "tracks": [
+    {
+      "added_at": "2024-06-14 05:00:00",
+      "album": {
+        "name": "New World Depression",
+        "url": "https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 130500,
+      "name": "Thorns",
+      "url": "https://open.spotify.com/track/1zUqoSVqUE2O5x3MJ0mHz9"
+    },
     {
       "added_at": "2024-06-07 05:00:00",
       "album": {
@@ -23,22 +39,6 @@
       "duration_ms": 86928,
       "name": "Plenty Guns",
       "url": "https://open.spotify.com/track/29gNXaDSlzN4DJtjPjscIJ"
-    },
-    {
-      "added_at": "2024-05-24 05:00:00",
-      "album": {
-        "name": "The Thin Grey Line",
-        "url": "https://open.spotify.com/album/3rXifZlYd2eKqicNt3z5HF"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 105724,
-      "name": "The Thin Grey Line",
-      "url": "https://open.spotify.com/track/0lZYlxoSG7DCecuLvMERfP"
     },
     {
       "added_at": "2024-05-24 05:00:00",
@@ -81,40 +81,20 @@
       "url": "https://open.spotify.com/track/3K5KXm1uZjiyQk0J7op1xf"
     },
     {
-      "added_at": "2024-06-07 05:00:00",
-      "album": {
-        "name": "PACKAPUNCH (feat. Danny Brown)",
-        "url": "https://open.spotify.com/album/1ETJcxo3S1uC4AmGI1aq1R"
-      },
-      "artists": [
-        {
-          "name": "Joey Valence & Brae",
-          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
-        },
-        {
-          "name": "Danny Brown",
-          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
-        }
-      ],
-      "duration_ms": 180580,
-      "name": "PACKAPUNCH (feat. Danny Brown)",
-      "url": "https://open.spotify.com/track/3bZXzHX8CkbMytaM3VGY3e"
-    },
-    {
       "added_at": "2024-05-24 05:00:00",
       "album": {
-        "name": "BULLY",
-        "url": "https://open.spotify.com/album/5Fx6t1QOJLz6EaLQQRJ8TJ"
+        "name": "The Thin Grey Line",
+        "url": "https://open.spotify.com/album/3rXifZlYd2eKqicNt3z5HF"
       },
       "artists": [
         {
-          "name": "$NOT",
-          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 117251,
-      "name": "BULLY",
-      "url": "https://open.spotify.com/track/1T2MtGqjxsP6YkHNPTEjpa"
+      "duration_ms": 105724,
+      "name": "The Thin Grey Line",
+      "url": "https://open.spotify.com/track/0lZYlxoSG7DCecuLvMERfP"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -137,6 +117,42 @@
       "url": "https://open.spotify.com/track/2gzIb9rrsQKz1AGBE2WmKF"
     },
     {
+      "added_at": "2024-06-14 05:00:00",
+      "album": {
+        "name": "the ghost and the spider",
+        "url": "https://open.spotify.com/album/18k2UoIPpnKIf4sr5PWeG5"
+      },
+      "artists": [
+        {
+          "name": "Lil Darkie",
+          "url": "https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U"
+        },
+        {
+          "name": "Savage Ga$p",
+          "url": "https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk"
+        }
+      ],
+      "duration_ms": 181090,
+      "name": "the ghost and the spider",
+      "url": "https://open.spotify.com/track/5OMPhfn3sfkowTaluYOPxs"
+    },
+    {
+      "added_at": "2024-05-24 05:00:00",
+      "album": {
+        "name": "BULLY",
+        "url": "https://open.spotify.com/album/5Fx6t1QOJLz6EaLQQRJ8TJ"
+      },
+      "artists": [
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        }
+      ],
+      "duration_ms": 117251,
+      "name": "BULLY",
+      "url": "https://open.spotify.com/track/1T2MtGqjxsP6YkHNPTEjpa"
+    },
+    {
       "added_at": "2024-05-24 05:00:00",
       "album": {
         "name": "Bl\u00fcdhaven",
@@ -155,6 +171,26 @@
     {
       "added_at": "2024-06-07 05:00:00",
       "album": {
+        "name": "PACKAPUNCH (feat. Danny Brown)",
+        "url": "https://open.spotify.com/album/1ETJcxo3S1uC4AmGI1aq1R"
+      },
+      "artists": [
+        {
+          "name": "Joey Valence & Brae",
+          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
+        },
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "duration_ms": 180580,
+      "name": "PACKAPUNCH (feat. Danny Brown)",
+      "url": "https://open.spotify.com/track/3bZXzHX8CkbMytaM3VGY3e"
+    },
+    {
+      "added_at": "2024-06-07 05:00:00",
+      "album": {
         "name": "BLAME GAME",
         "url": "https://open.spotify.com/album/0d7agnfE8Rh8gSTQVIso0U"
       },
@@ -167,6 +203,22 @@
       "duration_ms": 234000,
       "name": "BLAME GAME",
       "url": "https://open.spotify.com/track/2kXZv8aJh8LVn1FxzSDPtp"
+    },
+    {
+      "added_at": "2024-06-14 05:00:00",
+      "album": {
+        "name": "Chip & Shatter",
+        "url": "https://open.spotify.com/album/4Kbuz9BaitAd7zntsHnf3c"
+      },
+      "artists": [
+        {
+          "name": "Warlord Colossus",
+          "url": "https://open.spotify.com/artist/5gYimn2wODaiKOTFJlzVnn"
+        }
+      ],
+      "duration_ms": 122183,
+      "name": "Chip & Shatter",
+      "url": "https://open.spotify.com/track/20UVnCs6TDi6u9cIqKP2xC"
     },
     {
       "added_at": "2024-04-26 18:40:13",
@@ -233,6 +285,22 @@
       "url": "https://open.spotify.com/track/78RdTKcI2CediltTnGLIqr"
     },
     {
+      "added_at": "2024-06-14 05:00:00",
+      "album": {
+        "name": "Lisan al Gaib",
+        "url": "https://open.spotify.com/album/2pPPFgH3dGwi65w6u9EHhY"
+      },
+      "artists": [
+        {
+          "name": "MAKAVELIGODD",
+          "url": "https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO"
+        }
+      ],
+      "duration_ms": 144034,
+      "name": "Lisan al Gaib",
+      "url": "https://open.spotify.com/track/1mBAQbOtgYgcfDDS114jfh"
+    },
+    {
       "added_at": "2023-06-30 07:33:00",
       "album": {
         "name": "CODE MISTAKE",
@@ -271,22 +339,6 @@
       "duration_ms": 150674,
       "name": "Step Back!",
       "url": "https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j"
-    },
-    {
-      "added_at": "2023-08-29 17:56:43",
-      "album": {
-        "name": "I No Longer Fear The Razor Guarding My Heel (V)",
-        "url": "https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 180774,
-      "name": "Not Even Ghosts Are This Empty",
-      "url": "https://open.spotify.com/track/7rzNKooM3JrKVT40fR22HI"
     },
     {
       "added_at": "2023-12-27 19:57:37",
@@ -375,6 +427,22 @@
       "duration_ms": 139080,
       "name": "pretty girls haunt me",
       "url": "https://open.spotify.com/track/68RD4KGoPUXfRxkCRqrFep"
+    },
+    {
+      "added_at": "2024-06-14 05:00:00",
+      "album": {
+        "name": "CRASH OUT",
+        "url": "https://open.spotify.com/album/33x5uJBpJNtF5SSMG0yxAl"
+      },
+      "artists": [
+        {
+          "name": "$atori Zoom",
+          "url": "https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic"
+        }
+      ],
+      "duration_ms": 140900,
+      "name": "CRASH OUT",
+      "url": "https://open.spotify.com/track/1grv6i3AMM17GVrvJPHRVv"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -841,22 +909,6 @@
       "url": "https://open.spotify.com/track/2KhL8xLS3x2LCwPT2nx2EG"
     },
     {
-      "added_at": "2023-12-27 19:57:37",
-      "album": {
-        "name": "Long Term Effects of SUFFERING",
-        "url": "https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 127768,
-      "name": "New Profile Pic",
-      "url": "https://open.spotify.com/track/0oGakZG2y3wcgHDF1YWPGD"
-    },
-    {
       "added_at": "2023-11-28 15:10:16",
       "album": {
         "name": "A Perfect & Immortal Machine",
@@ -891,30 +943,6 @@
       "duration_ms": 178291,
       "name": "Live From Da Deep End (feat. Black Kray)",
       "url": "https://open.spotify.com/track/0emzIVyxMRBwJOH1N8qwZn"
-    },
-    {
-      "added_at": "2023-06-30 07:33:00",
-      "album": {
-        "name": "D.O.A",
-        "url": "https://open.spotify.com/album/2swBtiVdXKsTFcm2hWkN4D"
-      },
-      "artists": [
-        {
-          "name": "Warlord Colossus",
-          "url": "https://open.spotify.com/artist/5gYimn2wODaiKOTFJlzVnn"
-        },
-        {
-          "name": "Dozy Doe",
-          "url": "https://open.spotify.com/artist/3M5TXkT9LxgZPcLSKBr4Pf"
-        },
-        {
-          "name": "Letoa",
-          "url": "https://open.spotify.com/artist/6x3qkVWtPGzHKCED9ATXrV"
-        }
-      ],
-      "duration_ms": 124354,
-      "name": "D.O.A",
-      "url": "https://open.spotify.com/track/1emIl2ARLo3I2CXbh3EKz1"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -1043,46 +1071,6 @@
       "duration_ms": 141883,
       "name": "Black Dahlia",
       "url": "https://open.spotify.com/track/1Khv5TP0lDVHlWh1uOFIhg"
-    },
-    {
-      "added_at": "2024-02-16 17:56:24",
-      "album": {
-        "name": "GOODFELLAS",
-        "url": "https://open.spotify.com/album/4cEItjSWyNg4WIm0fCgvQk"
-      },
-      "artists": [
-        {
-          "name": "Ramirez",
-          "url": "https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2"
-        },
-        {
-          "name": "SosMula",
-          "url": "https://open.spotify.com/artist/7fFfPSHnrplQpezV79CFYc"
-        }
-      ],
-      "duration_ms": 132857,
-      "name": "GOODFELLAS",
-      "url": "https://open.spotify.com/track/6pIoCKMe157Scoi5dd02CB"
-    },
-    {
-      "added_at": "2023-10-20 16:10:22",
-      "album": {
-        "name": "G.R.E.Y.G.O.D.S.I.I.",
-        "url": "https://open.spotify.com/album/5JPMrbyhWdReHLXNa0V1Vs"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        },
-        {
-          "name": "Ramirez",
-          "url": "https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2"
-        }
-      ],
-      "duration_ms": 171781,
-      "name": "Sarcophagus III",
-      "url": "https://open.spotify.com/track/2aShlCzmEwlId17KVpFdYu"
     },
     {
       "added_at": "2023-12-08 15:38:28",
@@ -1511,22 +1499,6 @@
       "duration_ms": 147062,
       "name": "+44 SMOKE",
       "url": "https://open.spotify.com/track/3OP0mGH2yViz32As5VZgWW"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "OnlyFans",
-        "url": "https://open.spotify.com/album/3Vpv4yYx4izqGzND0fOK1c"
-      },
-      "artists": [
-        {
-          "name": "MAKAVELIGODD",
-          "url": "https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO"
-        }
-      ],
-      "duration_ms": 221028,
-      "name": "OnlyFans",
-      "url": "https://open.spotify.com/track/0kKHU3FB5KMH0RicKI2iRt"
     },
     {
       "added_at": "2023-11-10 05:00:00",

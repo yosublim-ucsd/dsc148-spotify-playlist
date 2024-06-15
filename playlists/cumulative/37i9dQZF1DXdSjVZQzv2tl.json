@@ -335,6 +335,24 @@
     },
     {
       "album": {
+        "name": "Ao Vivo Em Bras\u00edlia (Ao Vivo / Vol.1)",
+        "url": "https://open.spotify.com/album/0B0FhGwHWbamcfAuUo4nNt"
+      },
+      "artists": [
+        {
+          "name": "Clayton & Rom\u00e1rio",
+          "url": "https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147860,
+      "name": "Aproveita - Ao Vivo",
+      "url": "https://open.spotify.com/track/368hYqtNCKCAeUduMoSHhh"
+    },
+    {
+      "album": {
         "name": "Arranh\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/4eELc3RSnehVnvMxk2hy2z"
       },
@@ -1685,6 +1703,28 @@
     },
     {
       "album": {
+        "name": "EU SOU SENTIMENTO",
+        "url": "https://open.spotify.com/album/0ed41BFE41DcIFvnFkjK5V"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        },
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186107,
+      "name": "EU SOU SENTIMENTO",
+      "url": "https://open.spotify.com/track/0HDMisLsuGNml98Xq7atpm"
+    },
+    {
+      "album": {
         "name": "Manifesto Musical (Ao Vivo)",
         "url": "https://open.spotify.com/album/44apM3pC4x6oLt5ULbtV3j"
       },
@@ -2252,7 +2292,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 206538,
       "name": "Lua",
       "url": "https://open.spotify.com/track/1iilEnhis2SZrqGdcjKOY5"
@@ -2344,6 +2384,28 @@
       "duration_ms": 229857,
       "name": "Me Ame Mais",
       "url": "https://open.spotify.com/track/4iavXH4dDUMA8yAabnUhSI"
+    },
+    {
+      "album": {
+        "name": "Fortaleza, Vol.3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0gCOaKfrBuEMpjvKDZnfak"
+      },
+      "artists": [
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        },
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156146,
+      "name": "Me Caiu T\u00e3o Bem - Ao Vivo",
+      "url": "https://open.spotify.com/track/6mTpK40yIRk1xGGNvRMHGg"
     },
     {
       "album": {
@@ -2728,7 +2790,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 190293,
       "name": "MULHER SEGURA - Ao Vivo",
       "url": "https://open.spotify.com/track/0KhLYwYVhi13hMhxX73m55"
@@ -3557,6 +3619,24 @@
     },
     {
       "album": {
+        "name": "Praiou (Ao Vivo / Vol.2)",
+        "url": "https://open.spotify.com/album/1FLBaYOIAuCqsCQo9TUR79"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149696,
+      "name": "Quem T\u00e1 Fora - Ao Vivo",
+      "url": "https://open.spotify.com/track/0pK0Vd1MCWy7AmsyFfIJb8"
+    },
+    {
+      "album": {
         "name": "Quem t\u00e1 Pegando",
         "url": "https://open.spotify.com/album/5khAraskzd7fw9TQbR39PR"
       },
@@ -3866,7 +3946,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 155873,
       "name": "Sorte Da Porra - Ao Vivo",
       "url": "https://open.spotify.com/track/0mAYsM1VLBsYjiHLH3wm8Y"

@@ -1375,6 +1375,24 @@
     },
     {
       "album": {
+        "name": "DELTA",
+        "url": "https://open.spotify.com/album/6jrRtiZ11ETv5ercTeB2gH"
+      },
+      "artists": [
+        {
+          "name": "DJ FKU",
+          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172067,
+      "name": "DELTA",
+      "url": "https://open.spotify.com/track/5NcT6HWiBiETs1mTFYXR1U"
+    },
+    {
+      "album": {
         "name": "Demnuhbad",
         "url": "https://open.spotify.com/album/4NnK9RjEAOOxk5rHtutkBH"
       },
@@ -7006,7 +7024,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 116842,
       "name": "Vida Nova",
       "url": "https://open.spotify.com/track/23E61Q0ABWtFFvLnjLmdqO"

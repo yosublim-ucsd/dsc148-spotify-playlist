@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain](/playlists/plain/37i9dQZF1DX5x5ck36i2uO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5x5ck36i2uO)
 
-### [재즈맛 힙합](https://open.spotify.com/playlist/37i9dQZF1DX5x5ck36i2uO)
+### [재즈\-힙 카페 \(Jazz\-Hip Cafe\)](https://open.spotify.com/playlist/37i9dQZF1DX5x5ck36i2uO)
 
-> 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요.
+> 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요\. \(Enjoy hip\-hop music with a soft, luxurious jazz flavor.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,982 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,994 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 49 | [Walk With Us \(feat\. Jedi P & Am Kay\)](https://open.spotify.com/track/7HtPan3iB9NTVEl4bT9auy) | [Keith Ape](https://open.spotify.com/artist/6f9bmfkqiYbhCtdAZsv7KI), [Jedi P](https://open.spotify.com/artist/5gg8fcfzZ7BLpT4Sm8KgCT), [Am Kay](https://open.spotify.com/artist/34L1Z19WeYdYhWvTQMo3lC) | [Ape Into Space](https://open.spotify.com/album/6KR7vGnlkIuUKzgGAEFODW) | 3:52 |
 | 50 | [Blessin](https://open.spotify.com/track/2zGPJuadZyPGeVILObLb0o) | [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE) | [Blessin](https://open.spotify.com/album/5zOByi7iocKtWjuY8g0Q3v) | 1:53 |
 
-Snapshot ID: `ZkXfBAAAAACf+93efrnA8zQiWb7jNQDZ`
+Snapshot ID: `ZmwNQAAAAACNpETcX63Uc8fgDr9Yds0s`

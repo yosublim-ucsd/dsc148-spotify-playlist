@@ -1225,6 +1225,32 @@
     },
     {
       "album": {
+        "name": "Don't Stop Believin' (Felix Harrer Remix)",
+        "url": "https://open.spotify.com/album/5hvmoQj2imO3EQBwVaK3gN"
+      },
+      "artists": [
+        {
+          "name": "R.I.O.",
+          "url": "https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj"
+        },
+        {
+          "name": "Deeperlove",
+          "url": "https://open.spotify.com/artist/2NJXWjY61CLRVARkqDJeRm"
+        },
+        {
+          "name": "Felix Harrer",
+          "url": "https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207061,
+      "name": "Don't Stop Believin' - Felix Harrer Remix",
+      "url": "https://open.spotify.com/track/1RQAXREowlYVIu5T7t5cQb"
+    },
+    {
+      "album": {
         "name": "Don't You Worry Child (Hardstyle)",
         "url": "https://open.spotify.com/album/4VE1EUhKNGyUjFsKYMQCtP"
       },
@@ -1814,10 +1840,32 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 198010,
       "name": "Heaven - DJ Isaac Remix",
       "url": "https://open.spotify.com/track/6If6tXpbwYs5zBop1AqfwG"
+    },
+    {
+      "album": {
+        "name": "Heaven (Million Miles Rework)",
+        "url": "https://open.spotify.com/album/2g22w07k3HC8TJGSX33KTu"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "HALIENE",
+          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193629,
+      "name": "Heaven - Million Miles Rework",
+      "url": "https://open.spotify.com/track/492rfFS9Gc3mgBrAOiRpc1"
     },
     {
       "album": {
@@ -1866,7 +1914,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 189000,
       "name": "Hit the Road Jack",
       "url": "https://open.spotify.com/track/0iIquQLSu3McHEm3wp9ozN"

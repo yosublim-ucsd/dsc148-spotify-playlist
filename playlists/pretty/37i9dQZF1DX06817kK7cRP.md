@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06817kK7cRP.md) - [plain]
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,897 likes - 120 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,921 likes - 125 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,12 +121,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06817kK7cRP.md) - [plain]
 | 111 | [Morning Waffles](https://open.spotify.com/track/1XhDC4CcSNpeBKuxER02gt) | [Twiggy Fiz](https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8) | [Morning Waffles](https://open.spotify.com/album/0GKyzzLrKS6f61Z6jYCvB7) | 2:24 |
 | 112 | [Flat Out](https://open.spotify.com/track/055fovAr3EQTHeSIgre4ZE) | [Peter Olyni Jr.](https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO) | [Flat Out](https://open.spotify.com/album/1obXVW12h6lb33uWGKUksN) | 2:19 |
 | 113 | [Hideouts](https://open.spotify.com/track/0VD1obEexRZeAfYMluwSox) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Ruck P](https://open.spotify.com/artist/0SIxAAknV8iR2jHcQJ9Sfn) | [Hideouts](https://open.spotify.com/album/2482yoojUTuPHgC2PdUHxY) | 2:12 |
-| 114 | [sip at zibetto](https://open.spotify.com/track/26nx2DrmEhpfw67zsvLPgZ) | [Shayla Sereno](https://open.spotify.com/artist/0d2oMUkzD4I5It0MFXNVpb) | [sip at zibetto](https://open.spotify.com/album/3TVwc64dpqtucwupK2dFYR) | 2:20 |
-| 115 | [frozen biome](https://open.spotify.com/track/1vFxL80Q1etX9noPv9rGmO) | [irons](https://open.spotify.com/artist/4LbLkMAECFLrhXADjgT8Jn), [Drunk Urameshi](https://open.spotify.com/artist/4dbYp5hselpGxIwYtKrLpa) | [frozen biome](https://open.spotify.com/album/7rbqTTCd4uzPS2UpjMI5r3) | 2:00 |
-| 116 | [Late Nights & The Moon](https://open.spotify.com/track/7ClkEROkgQZjroYtEK4sPm) | [glowdayz](https://open.spotify.com/artist/3OL6ZKe15Zli8NicwAUEHF) | [Late Nights & The Moon](https://open.spotify.com/album/7qHioyqzRgi3YkY8Okmjyg) | 2:04 |
-| 117 | [Cuffies](https://open.spotify.com/track/4VNGKsfFQCmLMnIsQfbEs6) | [Soundspretty](https://open.spotify.com/artist/5VDHYoxsF1BT3b0AzeVAHr), [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv), [the intern](https://open.spotify.com/artist/1ZntZlDRZbQGsSIYJhxog2) | [Cuffies](https://open.spotify.com/album/3lzsdyojumISAiNp4gbNBY) | 2:26 |
-| 118 | [Pretrip](https://open.spotify.com/track/1dFNTrPWQd9mt1ZaGr9ZH1) | [ID Labs](https://open.spotify.com/artist/26oVoq5QZzsm9MGhOyT2tv) | [Nothing You Don’t Know](https://open.spotify.com/album/5VQCYupHULZGO2Ji7WyIst) | 2:24 |
-| 119 | [Gelato](https://open.spotify.com/track/7nhFat90m89TNhlHdqjOM5) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O), [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Easely EP](https://open.spotify.com/album/6vRg935QEJInaajnUHSF9t) | 2:17 |
-| 120 | [Willow Tree](https://open.spotify.com/track/7wYizB7TRS0qaPlynGvWBF) | [Ghostnaut](https://open.spotify.com/artist/2RBJhPBOr8mI5evwaL4HR3), [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Willow Tree](https://open.spotify.com/album/3mNapgf1d88ND2hnAfMv31) | 2:15 |
+| 114 | [Late Nights & The Moon](https://open.spotify.com/track/7ClkEROkgQZjroYtEK4sPm) | [glowdayz](https://open.spotify.com/artist/3OL6ZKe15Zli8NicwAUEHF) | [Late Nights & The Moon](https://open.spotify.com/album/7qHioyqzRgi3YkY8Okmjyg) | 2:04 |
+| 115 | [Cuffies](https://open.spotify.com/track/4VNGKsfFQCmLMnIsQfbEs6) | [Soundspretty](https://open.spotify.com/artist/5VDHYoxsF1BT3b0AzeVAHr), [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv), [the intern](https://open.spotify.com/artist/1ZntZlDRZbQGsSIYJhxog2) | [Cuffies](https://open.spotify.com/album/3lzsdyojumISAiNp4gbNBY) | 2:26 |
+| 116 | [Pretrip](https://open.spotify.com/track/1dFNTrPWQd9mt1ZaGr9ZH1) | [ID Labs](https://open.spotify.com/artist/26oVoq5QZzsm9MGhOyT2tv) | [Nothing You Don’t Know](https://open.spotify.com/album/5VQCYupHULZGO2Ji7WyIst) | 2:24 |
+| 117 | [Gelato](https://open.spotify.com/track/7nhFat90m89TNhlHdqjOM5) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O), [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Easely EP](https://open.spotify.com/album/6vRg935QEJInaajnUHSF9t) | 2:17 |
+| 118 | [Alicante](https://open.spotify.com/track/0YRYWdsmAm97kcgRvXuJDB) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Alicante](https://open.spotify.com/album/5JgwQzMeGwYS4IKKdAQCM3) | 3:04 |
+| 119 | [Crescent](https://open.spotify.com/track/3U5jU9SmJxeelFlfKCk6Rd) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Crescent](https://open.spotify.com/album/2IjILZtDXBXx3tHJaxBL2e) | 2:45 |
+| 120 | [are you there](https://open.spotify.com/track/2tAXrvd0ytv8cBGYNXLIPB) | [Pleij](https://open.spotify.com/artist/0JohphlOxBRMHrYLcWvIFN) | [are you there](https://open.spotify.com/album/5hSB2dkicAbbDgqKk3Yvra) | 1:58 |
+| 121 | [Form Style](https://open.spotify.com/track/56tkSdGCIk4V99j5juZaRj) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Form Style](https://open.spotify.com/album/6TB09Usz0qwlaVmuqp7Bvc) | 2:15 |
+| 122 | [Astrologer](https://open.spotify.com/track/4lW2qgYegmaWKP6ynbL8M4) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [Astrologer](https://open.spotify.com/album/4te1BqXkRPGXrhuNDmVZqC) | 2:12 |
+| 123 | [Drama Is Coming](https://open.spotify.com/track/00m4ed2ZgerPoaSQVL9ZzG) | [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf), [Philipp Wisser](https://open.spotify.com/artist/6yq9TQlcPAawnjhi6WzqNl) | [Drama Is Coming](https://open.spotify.com/album/1mRsrNmcs59VffdaMaEZhA) | 3:32 |
+| 124 | [Frontside](https://open.spotify.com/track/28W5X9itWJYO5XzJDRzzYO) | [Homson](https://open.spotify.com/artist/4tFyFMcMdlqK8b4RoADlS2) | [Frontside](https://open.spotify.com/album/6IzKnfHfRAABTOc81vFydK) | 2:40 |
+| 125 | [clocks](https://open.spotify.com/track/2YHZ52RVwbnzyMjGvZYtMN) | [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ) | [clocks](https://open.spotify.com/album/77zz5vKU1zlkvRhmMD6ZtT) | 2:20 |
 
-Snapshot ID: `ZmK0vgAAAAAC5GiJ0JQJqGHfYdDtvBwO`
+Snapshot ID: `Zmw4ewAAAABTONo1gl+Rjfby6wt+XCCe`

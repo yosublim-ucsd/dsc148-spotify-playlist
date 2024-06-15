@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The biggest hits in country music. Cover: Tucker Wetmore",
+  "description": "The biggest hits in country music. Cover: Kane Brown & Marshmello",
   "name": "All About Country",
   "tracks": [
     {
@@ -1990,7 +1990,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 177313,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d"
@@ -2280,7 +2280,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 218878,
       "name": "Cowboys Are Frequently Secretly Fond Of Each Other",
       "url": "https://open.spotify.com/track/5rKTGQ2Q1wndZnX7km8WYu"
@@ -4475,6 +4475,28 @@
     },
     {
       "album": {
+        "name": "High Road (feat. Jessie Murph)",
+        "url": "https://open.spotify.com/album/62NSHNGNQC2hXZKNuvF6pi"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        },
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179413,
+      "name": "High Road (feat. Jessie Murph)",
+      "url": "https://open.spotify.com/track/73KAidtqbDftZjy8AD0H04"
+    },
+    {
+      "album": {
         "name": "High Time",
         "url": "https://open.spotify.com/album/00neLJxSSvcyqcy97jviyn"
       },
@@ -4820,6 +4842,24 @@
       "duration_ms": 204489,
       "name": "I Ain't Going Nowhere",
       "url": "https://open.spotify.com/track/0AQ3u9Uzk3IG5r7sjYH0Cu"
+    },
+    {
+      "album": {
+        "name": "I Am Not Okay",
+        "url": "https://open.spotify.com/album/07IZeIkEgAdjs0dSbRxn7i"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197133,
+      "name": "I Am Not Okay",
+      "url": "https://open.spotify.com/track/76ODTQOl0JZQbhfxs6nRV9"
     },
     {
       "album": {
@@ -6701,6 +6741,32 @@
     },
     {
       "album": {
+        "name": "Midnight Ride",
+        "url": "https://open.spotify.com/album/0q0asrBrmBwrRMXeqxDvBY"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211525,
+      "name": "Midnight Ride",
+      "url": "https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO"
+    },
+    {
+      "album": {
         "name": "Might As Well Be Me",
         "url": "https://open.spotify.com/album/36HUgtKLfvkUFPfsfTbBsV"
       },
@@ -7228,6 +7294,24 @@
       "duration_ms": 214416,
       "name": "Never Wanted To Be That Girl",
       "url": "https://open.spotify.com/track/7yRJMLG9ja0fBVVEmV6vcT"
+    },
+    {
+      "album": {
+        "name": "New Me",
+        "url": "https://open.spotify.com/album/6iGj13T3EKBX8OSMrHBd5x"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173203,
+      "name": "New Me",
+      "url": "https://open.spotify.com/track/5ZSbOZAsbOWi7DNfpO1vqG"
     },
     {
       "album": {
@@ -8852,7 +8936,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 237493,
       "name": "Save Me (with Lainey Wilson)",
       "url": "https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM"
@@ -10186,7 +10270,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 173269,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/2PgjJ90q1zETqCX68dxgyd"

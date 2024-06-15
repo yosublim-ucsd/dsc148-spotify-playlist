@@ -2,9 +2,9 @@
 
 ### [Indie GO](https://open.spotify.com/playlist/37i9dQZF1DX6dYPM8db5Sz)
 
-> The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj?si=FUu68y5zTUi3z0mgiu4pjg">Year of Dogs</a>
+> The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/5LeZoIsr3HTDipdWQbiAfo?si=\_B\_mifL5R3OfpUUPLAePZQ">ARD matthews</a>
 
-742 songs - 1 day 18 hr 12 min
+743 songs - 1 day 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,7 +343,7 @@
 | [Jupiter's Rings](https://open.spotify.com/track/4R1DPf8Xx8vEcdpwcQlIB0) | [Aidan Fraser](https://open.spotify.com/artist/2SNp368DTWkgfo7sM1RqMx) | [Aidan Fraser](https://open.spotify.com/album/4SX8wjnaLxGo19l6x0Xmxt) | 3:47 | 2023-06-22 | 2023-08-05 |
 | [jupiter.](https://open.spotify.com/track/77cN45k7QH6aRbZZzyhcU4) | [JUCINDA](https://open.spotify.com/artist/70ZW0jioaMggqkfttoWkQo) | [jupiter.](https://open.spotify.com/album/2zNMrqKCMmhilQa9GOzrPJ) | 3:46 | 2023-06-08 | 2024-01-27 |
 | [Just Fine](https://open.spotify.com/track/2bnEKLupfbkcYVG708qmSf) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Halcyon Days](https://open.spotify.com/album/7MJFN5eNvnS74BdUIy3sO2) | 2:00 | 2023-02-09 | 2023-03-18 |
-| [Just Life](https://open.spotify.com/track/3Lrfiqxkt9RCijqvqnmxbE) | [Year of Dogs](https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj) | [Just Life](https://open.spotify.com/album/3hU62GObiUj82npdIVp9Cn) | 3:41 | 2024-05-31 |  |
+| [Just Life](https://open.spotify.com/track/3Lrfiqxkt9RCijqvqnmxbE) | [Year of Dogs](https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj) | [Just Life](https://open.spotify.com/album/3hU62GObiUj82npdIVp9Cn) | 3:41 | 2024-05-31 | 2024-06-15 |
 | [Kaleidoscope](https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Kaleidoscope](https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd) | 2:59 | 2023-03-02 | 2023-05-19 |
 | [Karma Arcade](https://open.spotify.com/track/0J9bAWjeOafeNtKO6DqeXx) | [Lakkabrah](https://open.spotify.com/artist/6TLtJV2odjb1t3Ln6V8gQR) | [Karma Arcade](https://open.spotify.com/album/6LpMhbgNRNHVlon4bkHakM) | 4:00 | 2023-03-02 | 2023-05-05 |
 | [Key to the Comet](https://open.spotify.com/track/1lv5oeIB7rGsiL52Q24VxI) | [Jonathan Stephen Simons](https://open.spotify.com/artist/2XxdWUIImuXGYIN3E9Uave) | [Key to the Comet](https://open.spotify.com/album/7vcsdAmWX7eMYuiysE3IfB) | 4:31 | 2023-05-25 | 2023-07-07 |
@@ -736,6 +736,7 @@
 | [Written In The Stars](https://open.spotify.com/track/3arW9nlgAquoBjZnVZmqlI) | [Hunter As a Horse](https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F) | [Written In The Stars](https://open.spotify.com/album/75tepfildppNN5jqkBcEBc) | 3:38 | 2024-03-15 | 2024-06-01 |
 | [Wyoming](https://open.spotify.com/track/2DpP3gfvXqyOroXWIREwxv) | [NIRESAN](https://open.spotify.com/artist/4icnMO2iFmNmeImB5mDFFI) | [Wyoming](https://open.spotify.com/album/60hOYamHX7vgT2glXYFmbm) | 2:45 | 2023-05-05 | 2023-05-12 |
 | [You Belong To Me](https://open.spotify.com/track/0GwY3N9lLgnkH5C2i3Xi3G) | [True nESS](https://open.spotify.com/artist/7b7SUjtDrf6ym930Pmi3jh) | [You Belong To Me](https://open.spotify.com/album/20sqcskAFIfVh30MvH8aG1) | 3:29 | 2022-11-10 | 2022-11-25 |
+| [You Make It Alright](https://open.spotify.com/track/1oOMo7oBoG0lDFKDEjC8ZS) | [ARD matthews](https://open.spotify.com/artist/5LeZoIsr3HTDipdWQbiAfo) | [You Make It Alright](https://open.spotify.com/album/0IzSX4HGvkb9uJ5erwToSG) | 3:58 | 2024-06-14 |  |
 | [You too hot for this shit](https://open.spotify.com/track/03Hczw8b6SVCbKXovqvonC) | [Ghostly Gav](https://open.spotify.com/artist/2Ynv2c4aZWXo9lC6Q8qppv) | [Pretty Dope](https://open.spotify.com/album/4xR8bCYh7r2RUGHAivBA1y) | 2:22 | 2023-08-11 | 2023-09-02 |
 | [You Were My First Everything](https://open.spotify.com/track/5OJ2WzKRqklsfAeiayVbqQ) | [Henry Ate](https://open.spotify.com/artist/54wEBpZEvBl4YK94yhCkvn), [Karma](https://open.spotify.com/artist/5rnNxf9vfxKljGcBFycUM6) | [You Were My First Everything](https://open.spotify.com/album/1CiLpifvEAWG0GWUbSvxa4) | 4:29 | 2024-03-29 | 2024-04-20 |
 | [You Wouldn't Understand](https://open.spotify.com/track/1GVI17KHbG7sblOmYuNQI9) | [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6) | [You Still Don't Know Me](https://open.spotify.com/album/4A7UfGpc5sgcx0ajwjtfLO) | 2:33 | 2021-10-14 | 2022-11-25 |

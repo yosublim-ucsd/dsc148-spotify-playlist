@@ -10714,7 +10714,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 383639,
       "name": "euphoria",
       "url": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
@@ -14492,7 +14492,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 279823,
       "name": "Hit after Hit",
       "url": "https://open.spotify.com/track/5TY9ovYtBeJTY9s7K3ijEd"
@@ -19019,6 +19019,24 @@
     },
     {
       "album": {
+        "name": "KEHLANI",
+        "url": "https://open.spotify.com/album/4e9It5Geutbt6LBEqFmHSz"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122360,
+      "name": "KEHLANI",
+      "url": "https://open.spotify.com/track/0izPpjfwsu2DuzWGqsABkT"
+    },
+    {
+      "album": {
         "name": "Makhelwane",
         "url": "https://open.spotify.com/album/28kb1LVlnyB0BkollLoCi1"
       },
@@ -20066,7 +20084,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 149677,
       "name": "Last Heartbreak Song (feat. Giveon)",
       "url": "https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT"

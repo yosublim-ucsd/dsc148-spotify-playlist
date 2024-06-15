@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFbrncJovdmn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2HO2r9dd9gSjJfz9Sz3w6K">Kal Lavelle</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1 like - 23 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2 likes - 23 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFbrncJovdmn.md) - [plain]
 | 22 | [Last Cigarette](https://open.spotify.com/track/1N8dCEzqaRqrEC6NryhE5R) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [For the Loved and Lost](https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm) | 3:31 |
 | 23 | [Forgive Me](https://open.spotify.com/track/0UP8IaUpsVlQwT2gDY4jaw) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [For the Loved and Lost](https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm) | 4:09 |
 
-Snapshot ID: `AbT+ggAAAAAIxnH7Ie6X7h/4fPp5Ba7E`
+Snapshot ID: `AbUEIgAAAABN2m6kZCtimyWel9/1uIZL`

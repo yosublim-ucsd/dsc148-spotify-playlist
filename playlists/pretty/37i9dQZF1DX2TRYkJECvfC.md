@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TRYkJECvfC.md) - [plain]
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,753,710 likes - 200 songs - 14 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,754,096 likes - 200 songs - 14 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TRYkJECvfC.md) - [plain]
 | 26 | [Like I Used To](https://open.spotify.com/track/2L9M3x9RTHoJ313ajYr0dg) | [Steven Weston](https://open.spotify.com/artist/7zxRSonZpfxzpY2S4Cse4U), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Like I Used To](https://open.spotify.com/album/4JJduz9iTc6n8ntRPAhOUy) | 4:56 |
 | 27 | [LMK](https://open.spotify.com/track/4aHqjlibpXrHQ1nlvGJQrA) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [LMK](https://open.spotify.com/album/0z3SNQSfMGSWS0aKlcuea6) | 3:53 |
 | 28 | [There For You](https://open.spotify.com/track/2m8dDOhC8fIaCFQ53c1l5z) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [There For You](https://open.spotify.com/album/62H7U1XbShQDiRaGtGWlBo) | 2:45 |
-| 29 | [Sun Will Rise \- Edit](https://open.spotify.com/track/0vS9fkI3eI1JYjR1JuffHE) | [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK), [Sasson \(FR\)](https://open.spotify.com/artist/36KXlZ4gT6OvDHpJSg4rpJ) | [Sun Will Rise \(Edit\)](https://open.spotify.com/album/1wT7Bb0gvp6xEjsPLp6wpT) | 3:42 |
+| 29 | [Sun Will Rise \- Edit](https://open.spotify.com/track/0vS9fkI3eI1JYjR1JuffHE) | [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK), [Sasson \(FR\)](https://open.spotify.com/artist/6wG0hZz1XJNZEDaNUyfpSa) | [Sun Will Rise \(Edit\)](https://open.spotify.com/album/1wT7Bb0gvp6xEjsPLp6wpT) | 3:42 |
 | 30 | [Erase](https://open.spotify.com/track/1BbXlbs8pWeYI2yGpGhuzA) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [Erase](https://open.spotify.com/album/76ISW6PFWVDcSJsHO7jBbk) | 4:13 |
 | 31 | [I Never Really Cared](https://open.spotify.com/track/05GiEzky4rkUc2aS95qaUr) | [Stoto](https://open.spotify.com/artist/41kcR4JVrpn1xifg8lM2Fu) | [Afterlife](https://open.spotify.com/album/1GC0SjdlXjnx0NyhHV0Ug8) | 4:21 |
 | 32 | [Indulgence](https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Indulgence](https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou) | 4:29 |

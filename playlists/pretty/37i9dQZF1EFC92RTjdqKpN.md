@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,007 likes - 178 songs - 9 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,006 likes - 178 songs - 9 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,13 +61,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 51 | [Kissing Strangers](https://open.spotify.com/track/5brMixqQiQN4D60xmvrSts) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [COMING HOME](https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS) | 3:08 |
 | 52 | [In The Morning](https://open.spotify.com/track/5Tb0IjmjKKNa81rCXjqBiG) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [In The Morning](https://open.spotify.com/album/5ZbJqA9d9JtOVwVb5nZYkU) | 2:47 |
 | 53 | [Impossible](https://open.spotify.com/track/5zBO8f5BKQX4VNR3ILfDXk) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Impossible](https://open.spotify.com/album/1M6NqKR4E8SISWegTJZsWR) | 3:02 |
-| 54 | [Tattoo](https://open.spotify.com/track/1mxiMQWvsjMQKV0V7EAj3x) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Tattoos](https://open.spotify.com/album/1OdcBxCNY52OXH0r4odXqP) | 3:26 |
-| 55 | [Mona Lisa](https://open.spotify.com/track/7Gq4tfeuWPjr6WQiB7aBXz) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act I](https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK) | 2:18 |
+| 54 | [Mona Lisa](https://open.spotify.com/track/7Gq4tfeuWPjr6WQiB7aBXz) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act I](https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK) | 2:18 |
+| 55 | [Tattoo](https://open.spotify.com/track/1mxiMQWvsjMQKV0V7EAj3x) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Tattoos](https://open.spotify.com/album/1OdcBxCNY52OXH0r4odXqP) | 3:26 |
 | 56 | [Worst Day](https://open.spotify.com/track/2cqpniiN33wLMzSuxaIRah) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 2:47 |
 | 57 | [No Good](https://open.spotify.com/track/7j2jFc1LlQLNPRwbjrgXuv) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [No Good](https://open.spotify.com/album/4roqYaI40M8uIbDJd69ZHj) | 3:11 |
 | 58 | [Dopamine](https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Dopamine](https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX) | 2:59 |
-| 59 | [Overnight](https://open.spotify.com/track/3mVQUlrhWN5Z1i1HUhU8ZH) | [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t) | [Overnight](https://open.spotify.com/album/00lWTbQ4MQezqzl0S8M37D) | 3:37 |
-| 60 | [XXL](https://open.spotify.com/track/3l1grOhgJQG4E1E2MjfHWG) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2) | 3:26 |
+| 59 | [XXL](https://open.spotify.com/track/3l1grOhgJQG4E1E2MjfHWG) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2) | 3:26 |
+| 60 | [Overnight](https://open.spotify.com/track/3mVQUlrhWN5Z1i1HUhU8ZH) | [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t) | [Overnight](https://open.spotify.com/album/00lWTbQ4MQezqzl0S8M37D) | 3:37 |
 | 61 | [Better](https://open.spotify.com/track/1uANN3gRrtjSUd4qegchpK) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Cherry Blossom](https://open.spotify.com/album/3fshReYna7OJ7cl3Rn8h2W) | 2:25 |
 | 62 | [Out Of My League](https://open.spotify.com/track/3JSATYGj6yxP1Vc1b49SSK) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2) | 3:26 |
 | 63 | [Change Your Mind](https://open.spotify.com/track/74age2cUBw5mdUhGGbAtiM) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Trigga](https://open.spotify.com/album/6MUwfeWeo93ZO0WhDFmt6T) | 3:42 |
@@ -128,8 +128,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 118 | [Kill My Heart \(feat\. Parson James & Qveen Herby\)](https://open.spotify.com/track/5yHb2LWlU9XeoUxRhKYKvM) | [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd), [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB), [Qveen Herby](https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT) | [There Will Be Tears](https://open.spotify.com/album/0Rq0YANjTxmxxq9nXVd64w) | 3:13 |
 | 119 | [Wir werden eins](https://open.spotify.com/track/3OFX3q0dbE9VnfoZ6Yll7W) | [Helene Fischer](https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W) | [Rausch \(Deluxe\)](https://open.spotify.com/album/0TvURtXBkEyIElRHFcgJS3) | 3:17 |
 | 120 | [The Only One](https://open.spotify.com/track/5gkGnVQ1XAW0Ee2aZSAGkC) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Where Does This Door Go \(Deluxe Edition\)](https://open.spotify.com/album/4FF4II3GGoTuYRW3zenamA) | 3:20 |
-| 121 | [Feel On Me](https://open.spotify.com/track/4kEM6BvhUtFry78gHUeDHh) | [Ghosted](https://open.spotify.com/artist/3TOyRHj6rptXMN5F97Fpuq), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Feel On Me](https://open.spotify.com/album/6UZnxCo6vgmJG3ONVc6y8b) | 2:54 |
-| 122 | [Super Over](https://open.spotify.com/track/1H1aXt2S07OeZ0wDJo3KMz) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Super Over](https://open.spotify.com/album/0iOqQkGiycHp33vWKGdyqf) | 2:44 |
+| 121 | [Super Over](https://open.spotify.com/track/1H1aXt2S07OeZ0wDJo3KMz) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Super Over](https://open.spotify.com/album/0iOqQkGiycHp33vWKGdyqf) | 2:44 |
+| 122 | [Feel On Me](https://open.spotify.com/track/4kEM6BvhUtFry78gHUeDHh) | [Ghosted](https://open.spotify.com/artist/3TOyRHj6rptXMN5F97Fpuq), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Feel On Me](https://open.spotify.com/album/6UZnxCo6vgmJG3ONVc6y8b) | 2:54 |
 | 123 | [Word Smith](https://open.spotify.com/track/0ycGgmtmbJWnMJRYiVsBcB) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Crystalline](https://open.spotify.com/album/1RAujeeZfUbofVGJUJ0qb8) | 2:58 |
 | 124 | [Angels In The Snow](https://open.spotify.com/track/5LJ9zB2g4qftILTNZeeDgA) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 2:52 |
 | 125 | [After Ours](https://open.spotify.com/track/2coTyOHfAxmAjYF2BiVlud) | [Dahl](https://open.spotify.com/artist/2v9KnUyRW5IW6dWZtptQdU) | [After Ours](https://open.spotify.com/album/0hnE7os3g2jVB6bk7R2jKi) | 2:40 |
@@ -159,8 +159,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 149 | [Regarde\-nous](https://open.spotify.com/track/5FSaM1hSGZm5xw3Dpx2iun) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f) | [Instinct](https://open.spotify.com/album/3JcdFdHgLEKvm11FA3Q83o) | 2:51 |
 | 150 | [Ready or Not](https://open.spotify.com/track/5f4l8AFUn8AndSXGRbBSNY) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [All the Feels](https://open.spotify.com/album/73hQB56aBFJTHE9vshSCLg) | 3:39 |
 | 151 | [Sans toi](https://open.spotify.com/track/7jRXuAMoc8mtQiSmG25Ptp) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f) | [Instinct](https://open.spotify.com/album/3JcdFdHgLEKvm11FA3Q83o) | 3:01 |
-| 152 | [Time After Time](https://open.spotify.com/track/6aZnSlxQmeChHpuKMmYh0u) | [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R) | [Time After Time](https://open.spotify.com/album/4GpRAwq2wyt7GttDqZGLjA) | 3:33 |
-| 153 | [Soul, Body & Mind](https://open.spotify.com/track/5TVuj7S4ZcbBtlCzDVmeVi) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Soul, Body & Mind](https://open.spotify.com/album/4vr53R7apxpdPLKS1gGHto) | 2:55 |
+| 152 | [Soul, Body & Mind](https://open.spotify.com/track/5TVuj7S4ZcbBtlCzDVmeVi) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Soul, Body & Mind](https://open.spotify.com/album/4vr53R7apxpdPLKS1gGHto) | 2:55 |
+| 153 | [Time After Time](https://open.spotify.com/track/6aZnSlxQmeChHpuKMmYh0u) | [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R) | [Time After Time](https://open.spotify.com/album/4GpRAwq2wyt7GttDqZGLjA) | 3:33 |
 | 154 | [Stay Blessed](https://open.spotify.com/track/06WmKeaY6E4Ud9FQoGEjA3) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Human](https://open.spotify.com/album/2N3CpixB4uEbAa6L5xoQED) | 2:50 |
 | 155 | [Go In, Go Hard](https://open.spotify.com/track/4hsxfRX87ev9PJr7Q1r6Vk) | [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R), [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq) | [Go In, Go Hard](https://open.spotify.com/album/0q8nigxLnyvnttpDxeaJIR) | 3:43 |
 | 156 | [Happy Birthday Sadness](https://open.spotify.com/track/4a84ine2fh0DOm387eKIf9) | [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [Happy Birthday Sadness](https://open.spotify.com/album/5E9QiRbXT2TKHuirIJdZKa) | 2:59 |
@@ -187,4 +187,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 177 | [All My Life](https://open.spotify.com/track/15l0pOOpIL11xt2JoWKthY) | [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [With The Music I Die \(Deluxe\)](https://open.spotify.com/album/6lTavhbKfE9Fy582VHOCv4) | 3:36 |
 | 178 | [Tonight](https://open.spotify.com/track/16LDHU7Ir8BAEQs9j61qDE) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [SWAGG](https://open.spotify.com/album/02x1wspowX3eX0DBV63jjF) | 3:53 |
 
-Snapshot ID: `AbT+qgAAAAATEQcEvPMEC2xxmfq3dFOv`
+Snapshot ID: `AbUESgAAAADbw9MHwgyYZNcsVkRML68F`

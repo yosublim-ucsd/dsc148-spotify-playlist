@@ -4,7 +4,7 @@
 
 > Real nasty house with Julian Jordan
 
-783 songs - 1 day 16 hr 34 min
+784 songs - 1 day 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -606,7 +606,7 @@
 | [Rush](https://open.spotify.com/track/2a9hp6HbEtzUQBLv5C81mw) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Cecelia](https://open.spotify.com/artist/6LtDEad7bRcRxBKQoiFAlI) | [Rush](https://open.spotify.com/album/2eZsDmAcZj27p3B73kbcYp) | 3:52 | 2022-09-16 | 2023-07-27 |
 | [Rush](https://open.spotify.com/track/6wL3KiaYImEVwWWmO5InbZ) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Cecelia](https://open.spotify.com/artist/6LtDEad7bRcRxBKQoiFAlI) | [132.00FM](https://open.spotify.com/album/748lnO8zQNczVL8qTGXFBL) | 3:52 | 2023-07-28 | 2024-03-16 |
 | [Safari](https://open.spotify.com/track/25wmVH3ytIFnKBDSFUIdxu) | [CMC$](https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7) | [Safari](https://open.spotify.com/album/6vpMnQ5iOvdTH6oJqKo3aI) | 2:24 | 2023-11-03 | 2024-02-03 |
-| [Sara Tonin feat\. James Cole](https://open.spotify.com/track/2d1J4wehBvmheclNCk5ts5) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a), [zuezeu](https://open.spotify.com/artist/3dEV8wac1UcsWRFAK3u2vQ), [James Cole](https://open.spotify.com/artist/1SoAmGFpq2szcIOMpnkQkb) | [Sara Thing EP](https://open.spotify.com/album/2W8E3fxu1UA3mMMcBRYfXw) | 2:20 | 2024-04-05 |  |
+| [Sara Tonin feat\. James Cole](https://open.spotify.com/track/2d1J4wehBvmheclNCk5ts5) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a), [zuezeu](https://open.spotify.com/artist/3dEV8wac1UcsWRFAK3u2vQ), [James Cole](https://open.spotify.com/artist/1SoAmGFpq2szcIOMpnkQkb) | [Sara Thing EP](https://open.spotify.com/album/2W8E3fxu1UA3mMMcBRYfXw) | 2:20 | 2024-04-05 | 2024-06-15 |
 | [Sassy](https://open.spotify.com/track/41tuW1PbaOO09fTHvzNsqt) | [Makla](https://open.spotify.com/artist/1ngUu0NNbd7uGigLW2je0M), [NEZIEL](https://open.spotify.com/artist/2KAMKVCgamR8Oc59zx7wOY), [MORY](https://open.spotify.com/artist/47N26mG7JIz4P4KXHajaIc) | [Sassy](https://open.spotify.com/album/3DuUq2we8IjXKE6NdpHMFO) | 3:19 | 2024-05-31 |  |
 | [Save Me](https://open.spotify.com/track/7MD0m1CkFZqFZnPBXIBxPe) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Save Me](https://open.spotify.com/album/0d4DHBW1784ap3EhId52ii) | 2:52 | 2023-10-27 | 2023-12-02 |
 | [Scars](https://open.spotify.com/track/5t0EAqNTV7MmQI6tvlrqmk) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Scars](https://open.spotify.com/album/4sdbYcP9fXjLopjsWjawiy) | 3:02 | 2022-01-07 | 2023-04-01 |
@@ -677,6 +677,7 @@
 | [Taking My Time](https://open.spotify.com/track/1MhT60RqS3GoWyCypic28z) | [Stafford Brothers](https://open.spotify.com/artist/1dnbud9cuozLQ86MtrDPFr), [Static Revenger](https://open.spotify.com/artist/4Q08msBV0v3oEN91O7ubsD) | [Taking My Time](https://open.spotify.com/album/1NYbd0nyDLdW0siikDGgzS) | 2:35 | 2022-01-28 | 2023-03-04 |
 | [Talk To Me](https://open.spotify.com/track/6uABa7vKOgFqXnwvk8NBr5) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Talk To Me](https://open.spotify.com/album/7wqh8TtbHufeZmxvsXURsn) | 3:23 | 2021-10-29 | 2022-05-28 |
 | [TEC\-9](https://open.spotify.com/track/44prQa5cc4wj0gnS5y5tt1) | [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl) | [TEC\-9](https://open.spotify.com/album/36agK8BrIfyOpjrP0sMxsK) | 2:22 | 2022-11-11 | 2023-12-09 |
+| [Tech Phonk](https://open.spotify.com/track/2EyE6jwl6HC7yhkaPJbH8R) | [Raven & Kreyn](https://open.spotify.com/artist/6STjC3QJTieuM5WHHtkGuh), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [Pure Cold](https://open.spotify.com/artist/63xJ8YYPv8AtvO8sj3ssLI) | [Tech Phonk](https://open.spotify.com/album/77WEJ0P9dlOSZNhco4LxRV) | 2:02 | 2024-06-14 |  |
 | [Techno](https://open.spotify.com/track/2CcQBQomdpTg3q97rj2Gp7) | [Drezo](https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9), [MASTERIA](https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO) | [Techno](https://open.spotify.com/album/78pp5cZjGZ3HsONFmbn7bE) | 3:42 | 2022-06-24 | 2023-11-03 |
 | [Teen Scene \(ft Buddy\) \- Wax Motif Remix](https://open.spotify.com/track/79IJUGY4ELv8iMeAGYk83S) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Teen Scene \(Remixes\)](https://open.spotify.com/album/7Bv9aPTB8Fm0bEA6FLCz4I) | 4:31 | 2021-10-29 | 2022-05-28 |
 | [TELL ME](https://open.spotify.com/track/4DrsNByVNyPkIY2ZrFYy16) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [TELL ME](https://open.spotify.com/album/6NbsVa7upM30tVESZys9H0) | 2:48 | 2022-05-13 | 2023-04-01 |

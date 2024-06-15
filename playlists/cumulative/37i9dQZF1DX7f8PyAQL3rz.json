@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "voc\u00ea quer um gelado ou um cara ocupado? fala pra elas igor guilherme",
+  "description": "o carro bicho passando, \u00e9 a tropa da mainstreet",
   "name": "creme",
   "tracks": [
     {
@@ -682,6 +682,56 @@
       "duration_ms": 152888,
       "name": "Aquecimento Senta Senta Suave",
       "url": "https://open.spotify.com/track/5WsM6qhZzRSD3oKbtorxzD"
+    },
+    {
+      "album": {
+        "name": "Assault (Carro Bicho)",
+        "url": "https://open.spotify.com/album/5ft3Gzo8bWvAHoofPH9bd5"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Shenlong",
+          "url": "https://open.spotify.com/artist/6Dzh6uXgA0QKVg1eIWxdDY"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Mvk",
+          "url": "https://open.spotify.com/artist/78TUxGXS6Jpos6nj2oEqSP"
+        },
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Mc Filh\u00e3o",
+          "url": "https://open.spotify.com/artist/0bRPXWabRuRy4RqnycT5ne"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409846,
+      "name": "Assault (Carro Bicho)",
+      "url": "https://open.spotify.com/track/52K0daI216x97EPGrSA7jB"
     },
     {
       "album": {
@@ -1474,7 +1524,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 159973,
       "name": "Cart\u00e3o Black",
       "url": "https://open.spotify.com/track/12YCtLHGk6tP6RbHDHflCs"

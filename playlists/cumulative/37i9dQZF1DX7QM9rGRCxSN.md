@@ -2,9 +2,9 @@
 
 ### [Shoegaze & Dreampop en español](https://open.spotify.com/playlist/37i9dQZF1DX7QM9rGRCxSN)
 
-> Belleza y distorsión imaginada por bandas iberoamericanas\. Estrella del Sol en portada.
+> Belleza y distorsión imaginada por bandas iberoamericanas\. Silver Rose en portada.
 
-108 songs - 7 hr 15 min
+109 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Purpura](https://open.spotify.com/track/6EGVCwrmaBn3IbQn22oms2) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Margaritas Podridas](https://open.spotify.com/album/4dbNoziUmHyqx6CIPAic9t) | 2:54 | 2023-05-05 | 2024-04-19 |
 | [Pálida](https://open.spotify.com/track/1v8rkd3pR6Yep9fmdtMGw9) | [Mute](https://open.spotify.com/artist/74pPZbzQHcOt9PuvlFQeCJ) | [Pálida](https://open.spotify.com/album/1V7tcZFpaKWbWlmWp4tmLY) | 2:44 | 2024-02-02 | 2024-04-19 |
 | [Púrpura](https://open.spotify.com/track/3jtaAUbFSzfoKv6bVVo563) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Margaritas Podridas](https://open.spotify.com/album/0zEZh5PgV10xk2VM0GJ3Lm) | 2:54 | 2021-10-19 | 2023-10-16 |
+| [Qué Más Da](https://open.spotify.com/track/7GYl5XD9z5bTzy3N1eMhSW) | [Silver Rose](https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP) | [Qué Más Da](https://open.spotify.com/album/3J29o0RlG0m7yQ08yXC2gr) | 3:33 | 2024-06-14 |  |
 | [reina de primavera](https://open.spotify.com/track/5HI6WZzt6WEz8I4ybF5lt6) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [reina de primavera](https://open.spotify.com/album/5qnpPym42PCcSxP70H8U1Y) | 4:05 | 2023-03-24 |  |
 | [S.O.S.](https://open.spotify.com/track/4ga2J6JnKKeas11GofO65K) | [No sé a quién matar](https://open.spotify.com/artist/4FVmReIogKhsocFmvBPLAV) | [S.O.S.](https://open.spotify.com/album/4RvKYGUHWX2X38wce7NufG) | 2:57 | 2023-05-05 | 2024-06-08 |
 | [Santos Que Yo Te Pinte](https://open.spotify.com/track/1L4irrN3TGmOHS65WM1g4W) | [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL) | [Unidad De Desplazamiento](https://open.spotify.com/album/3CALAHUrBmAtGjVj82x5tz) | 4:39 | 2021-10-19 |  |
@@ -101,7 +102,7 @@
 | [Sigo](https://open.spotify.com/track/55zNzKBlbbSBMKmeDAuq3I) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Sigo](https://open.spotify.com/album/3Zrd8cJji2EZsKcO4loQ6K) | 3:19 | 2023-05-05 | 2024-04-19 |
 | [Sofocar](https://open.spotify.com/track/0HTqH2Wqa6qZNWHNfRR6DB) | [Sadfields](https://open.spotify.com/artist/21EFkTCquqEqYOWXi19fDF) | [Sofocar](https://open.spotify.com/album/3b5oM94hjKo7WcX05XJ2Nq) | 4:45 | 2023-05-05 | 2023-10-30 |
 | [Sueño Aerostático](https://open.spotify.com/track/2d0fMQiWdIzaXH8WVJ9SlC) | [Silvania](https://open.spotify.com/artist/2ZAHar7rLXdAzqRaB9GQeU) | [Solineide Says \(1991\-1993\)](https://open.spotify.com/album/5kULee5TGyEwLJylXpl64j) | 3:41 | 2021-10-19 | 2023-04-23 |
-| [Sueños \- Sentidos Apuestos Remix](https://open.spotify.com/track/3moIc947HyYzgtCY6W4weR) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS), [Sentidos Apuestos](https://open.spotify.com/artist/7fbgniu4fyTZ9iKKTFWMcb) | [Sueños \(Sentidos Apuestos Remix\)](https://open.spotify.com/album/05ZZm9ckA9Yf9Xgt8Ijyrj) | 4:33 | 2024-06-07 |  |
+| [Sueños \- Sentidos Apuestos Remix](https://open.spotify.com/track/3moIc947HyYzgtCY6W4weR) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS), [Sentidos Apuestos](https://open.spotify.com/artist/7fbgniu4fyTZ9iKKTFWMcb) | [Sueños \(Sentidos Apuestos Remix\)](https://open.spotify.com/album/05ZZm9ckA9Yf9Xgt8Ijyrj) | 4:33 | 2024-06-07 | 2024-06-15 |
 | [Sálvame](https://open.spotify.com/track/27tshI1j4jX347xUP8zFeZ) | [Memory Leak](https://open.spotify.com/artist/0i9cI6V5ZvmADyZcqLk8PJ) | [Sálvame](https://open.spotify.com/album/2ybfm8UkHqZOLw1vvF2hfd) | 4:45 | 2023-11-24 | 2024-01-03 |
 | [tdbn](https://open.spotify.com/track/5PKQelL3yzmUpKTDj0j72t) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:14 | 2021-10-19 |  |
 | [te odio](https://open.spotify.com/track/4UBuT5jRH2VG7BmrfWWpX7) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [te odio](https://open.spotify.com/album/3RkgXX6vMLvfQVJ9cocFVt) | 2:50 | 2023-03-24 |  |

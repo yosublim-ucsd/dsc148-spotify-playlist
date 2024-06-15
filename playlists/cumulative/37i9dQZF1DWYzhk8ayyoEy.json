@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-07",
-  "description": "Warm, inspirational pop, that's good at heart. ",
+  "description": "Warm, inspirational pop, that's good at heart. Cover: PJ Morton",
   "name": "shine",
   "tracks": [
     {
@@ -499,6 +499,28 @@
     },
     {
       "album": {
+        "name": "Cape Town to Cairo",
+        "url": "https://open.spotify.com/album/3xrdk0MImcnbt9NEc7pSnK"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169124,
+      "name": "Count On Me",
+      "url": "https://open.spotify.com/track/1NFEXNMg8AZ0jGSux4CJdd"
+    },
+    {
+      "album": {
         "name": "Now, Not Yet",
         "url": "https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z"
       },
@@ -969,6 +991,24 @@
     },
     {
       "album": {
+        "name": "I Am Not Okay",
+        "url": "https://open.spotify.com/album/07IZeIkEgAdjs0dSbRxn7i"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197133,
+      "name": "I Am Not Okay",
+      "url": "https://open.spotify.com/track/76ODTQOl0JZQbhfxs6nRV9"
+    },
+    {
+      "album": {
         "name": "I Don\u2019t Wanna Worry",
         "url": "https://open.spotify.com/album/1IlkeN0XXqZcsTcJvbZISS"
       },
@@ -1204,7 +1244,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 196519,
       "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
       "url": "https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg"
@@ -1812,7 +1852,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 174842,
       "name": "Saved My Life (with R3HAB)",
       "url": "https://open.spotify.com/track/6ATM1zRLGYYP72J9xwnL1L"

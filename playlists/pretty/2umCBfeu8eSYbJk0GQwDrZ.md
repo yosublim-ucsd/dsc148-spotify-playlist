@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 
 > Stay current with the latest indie\-alt tracks.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 27,882 likes - 60 songs - 3 hr 8 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 27,881 likes - 69 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,5 +68,14 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 | 58 | [Fantasy \(feat\. Franc Moody\)](https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Fantasy \(feat\. Franc Moody\)](https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92) | 3:32 |
 | 59 | [Impossible](https://open.spotify.com/track/6DrrY8ardpYRyF90mzN0jF) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [How Do You Sleep At Night?](https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF) | 2:46 |
 | 60 | [Unhappier](https://open.spotify.com/track/7G7TGbFjNOhd2rdCi2DoXR) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [Unhappier](https://open.spotify.com/album/52T8ox6votmUHEqoGzgFd5) | 3:17 |
+| 61 | [Jenny](https://open.spotify.com/track/3iBbRE7Oqe2IWrTXggqOau) | [clay pigeon](https://open.spotify.com/artist/7BHNqeFLFZUbD5VS0VtoyL) | [Jenny](https://open.spotify.com/album/2np1VMu280TCmJJqrSGRkp) | 3:59 |
+| 62 | [darkside](https://open.spotify.com/track/1NcDHSTO3nwTEsHH1V4iwT) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [darkside](https://open.spotify.com/album/7hr4L6MfvYhgRY2koFzjxC) | 3:06 |
+| 63 | [I'm Sorry](https://open.spotify.com/track/6lAc4LYGnQhJfH3QBDTHgm) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [I'm Sorry](https://open.spotify.com/album/6eKMNdKYc24OCTwHPT5M1L) | 3:04 |
+| 64 | [Take Carra Me](https://open.spotify.com/track/6cgjOpUyC4sZpZeYfi7qYz) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Take Carra Me](https://open.spotify.com/album/4pgyG6AnzwHi7PBug0Ohel) | 3:01 |
+| 65 | [Poolside](https://open.spotify.com/track/2dJaKdrXxeXpGroJUpQkXj) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Take Carra Me](https://open.spotify.com/album/4pgyG6AnzwHi7PBug0Ohel) | 2:54 |
+| 66 | [Deja Vu](https://open.spotify.com/track/6K5VC5ij6vPtWAuFATUxD6) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Take Carra Me](https://open.spotify.com/album/4pgyG6AnzwHi7PBug0Ohel) | 2:44 |
+| 67 | [Cinnamon Curls](https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Cinnamon Curls](https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL) | 4:06 |
+| 68 | [Girl In The Orchestra](https://open.spotify.com/track/12l9XTMK21GZbjszAFlTo2) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Girl In The Orchestra](https://open.spotify.com/album/0Wgw9J708bA5yoIR87bJAC) | 3:12 |
+| 69 | [Otis](https://open.spotify.com/track/5bPLGonzwDStcPGlMoe847) | [RMR](https://open.spotify.com/artist/0j1Pwmd6nuk0BXD1RqoHDw) | [Otis](https://open.spotify.com/album/2fl1NLG7HbESKd2e7En9lU) | 2:39 |
 
-Snapshot ID: `AAAg+xhCravVbJQ65rXlvSTIcCVbxD43`
+Snapshot ID: `AAAhAsb0nNsrOjXlq1Et+ZntQ+nN23va`

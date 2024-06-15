@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 
 > y nada más que pop ✨✨✨<br/>📷 Benjamin Amadeo
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,868 likes - 85 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,902 likes - 85 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 | 84 | [Corazón Salvaje](https://open.spotify.com/track/3zwTjNO3wlSsLuXqIha8Sf) | [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9) | [Manantial](https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE) | 4:27 |
 | 85 | [En Un Loop](https://open.spotify.com/track/2sYskpiXS8DD4tEsxoycpS) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [INTERMITENTE](https://open.spotify.com/album/30KCpzi4d2tMxyF5zsRU8j) | 2:49 |
 
-Snapshot ID: `ZlnGsQAAAAAW5J9YjlCevAUlj2pCaUKC`
+Snapshot ID: `ZmuyMAAAAAA3amLOYHGevn0O897g/z/m`

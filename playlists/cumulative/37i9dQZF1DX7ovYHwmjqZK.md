@@ -4,7 +4,7 @@
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-142 songs - 8 hr 28 min
+144 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Coisa Nº 10](https://open.spotify.com/track/7IDT1CPTBq6B8zpgbqVZYG) | [Moacir Santos](https://open.spotify.com/artist/74Hj9zxTTcTgjv3Kh0PozZ) | [Ouro Negro](https://open.spotify.com/album/1WrpDqFJbBpmo85pLhwkUK) | 3:03 | 2024-03-08 | 2024-06-01 |
 | [Compro o Vento](https://open.spotify.com/track/1Ihq48VjNlON6ZbAlOderq) | [Eliza Meireles](https://open.spotify.com/artist/7jfxSuNVObDzGcmTO9keuV) | [O Samba, a Roseira e o Vento](https://open.spotify.com/album/1zVeyQapR2zvcR9xqTMemg) | 2:53 | 2021-11-26 |  |
 | [Cris](https://open.spotify.com/track/2tyj2m04JFJQmJolMfSzXU) | [Hamleto Stamato](https://open.spotify.com/artist/7EqWQMcDQbK4mtYb1pgmeI) | [Autoral](https://open.spotify.com/album/4QuWHriFgdVwmnOwwtNl0s) | 4:00 | 2021-11-26 |  |
+| [Cuida de mim](https://open.spotify.com/track/6iKMTz1fKTN50PQOkLXHIh) | [Guilherme Castel](https://open.spotify.com/artist/13EnZwFsY0CxXKiEsAIOpX) | [Cuida de mim](https://open.spotify.com/album/4Tg4kfHPx27Xbm4CegjX2U) | 3:28 | 2024-06-14 |  |
 | [Depressa a Vida Passa](https://open.spotify.com/track/4CEYFrHQhdutercm6HahHo) | [Renato Braz](https://open.spotify.com/artist/69urXE3DptYZDfblOG15D5) | [Depressa a Vida Passa](https://open.spotify.com/album/1lDrbSt52KH4mRi4U3HvRH) | 4:53 | 2021-11-26 | 2024-02-16 |
 | [Doralice](https://open.spotify.com/track/5mndIuaQ0tJqaSJsvXA1no) | [Adriana Arias](https://open.spotify.com/artist/2GhgatL5H573yU98hb14OK) | [Outra Vez](https://open.spotify.com/album/3PQfcnc1ZdNn7eTGTizZ2B) | 2:47 | 2021-11-26 |  |
 | [Duro Na Queda](https://open.spotify.com/track/3N6tmw4XSBACtxPlWcYB1l) | [João Bosco](https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH) | [Mano Que Zuera](https://open.spotify.com/album/0eSCFDaXV1lwmAL5t3SDAK) | 4:30 | 2021-11-26 |  |
@@ -67,12 +68,12 @@
 | [Ingênuo](https://open.spotify.com/track/5WdwAOjgo2uE6xdnHfbRRx) | [Delicatessen](https://open.spotify.com/artist/402BCt05RMtfellwy880r9) | [Happy Madness](https://open.spotify.com/album/4ATSdXBELcnSW957onlnTJ) | 4:25 | 2021-11-26 | 2024-04-19 |
 | [Ingênuo](https://open.spotify.com/track/6WYUy3Pv1X47qy39ee9cGR) | [Delicatessen](https://open.spotify.com/artist/402BCt05RMtfellwy880r9) | [Happy Madness](https://open.spotify.com/album/6gNaI6mkSJtD1QXDGkAcgO) | 4:25 | 2021-11-26 |  |
 | [Isn't She Lovely](https://open.spotify.com/track/7xytPbtoifMwgcAxuZqRtw) | [Leo Rio Trio](https://open.spotify.com/artist/1R0qL8WmvLHEu1EUrp94Ik) | [Bossa Nova Covers](https://open.spotify.com/album/6HjifVwY0K0LJ1OvByfMTX) | 2:45 | 2021-11-26 |  |
-| [Jardineira](https://open.spotify.com/track/2ROhCRzklIHQ6Ug9oOYv0W) | [GAÊ](https://open.spotify.com/artist/2vyuxwDD1pPSDuTxdLLDrS) | [Jardineira](https://open.spotify.com/album/6tOiLqNhvrhiRs83UAdDJB) | 3:00 | 2024-02-15 |  |
+| [Jardineira](https://open.spotify.com/track/2ROhCRzklIHQ6Ug9oOYv0W) | [GAÊ](https://open.spotify.com/artist/2vyuxwDD1pPSDuTxdLLDrS) | [Jardineira](https://open.spotify.com/album/6tOiLqNhvrhiRs83UAdDJB) | 3:00 | 2024-02-15 | 2024-06-15 |
 | [Lamento](https://open.spotify.com/track/4VzL2zgYITGrRwSTFiL9pI) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Wave](https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T) | 2:46 | 2021-11-26 |  |
 | [Liberdade, vai](https://open.spotify.com/track/2Z93y59jbxTClqyRfihbaX) | [NAY PORTTELA](https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW) | [Liberdade, vai](https://open.spotify.com/album/0HEorW4B4JO0yshM6GELJI) | 3:51 | 2024-05-10 |  |
 | [Libertação](https://open.spotify.com/track/1lamFtTxjFvoPjvmzWGXzY) | [Vidal Assis](https://open.spotify.com/artist/0SAL1paPmwbBf2FR2hAj9L) | [Libertação](https://open.spotify.com/album/6menATFqidzRjusVl0INqK) | 2:56 | 2021-11-26 |  |
 | [Light Dance](https://open.spotify.com/track/7wHsraPGARpUvcRW8holDn) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [Light Dance](https://open.spotify.com/album/0M1TSMQxxvXzHdH4ZtgLkZ) | 3:39 | 2021-11-26 |  |
-| [Maria e o Samba](https://open.spotify.com/track/6dCTNvsRrNdYTRxExM2AnP) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [Quem Foi Que Disse Que Eu Não Faço Samba...](https://open.spotify.com/album/1ohAo7XvtqAnByfw9N0GTf) | 3:14 | 2021-11-26 |  |
+| [Maria e o Samba](https://open.spotify.com/track/6dCTNvsRrNdYTRxExM2AnP) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [Quem Foi Que Disse Que Eu Não Faço Samba...](https://open.spotify.com/album/1ohAo7XvtqAnByfw9N0GTf) | 3:14 | 2021-11-26 | 2024-06-15 |
 | [Marinheiro](https://open.spotify.com/track/5iaG80CUlrQrMte5ZiBXMY) | [Giordano Rosa](https://open.spotify.com/artist/3iapiuDh6JQb6xxMsZA0TU) | [Giordano Rosa](https://open.spotify.com/album/0SHzAgEULVIquqUqZmm7ni) | 2:31 | 2021-11-26 |  |
 | [Me Beija Na Rua](https://open.spotify.com/track/3cvB4ZKg8uHaRrgFGt3zCr) | [Bruna Alimonda](https://open.spotify.com/artist/44RE6rRGC9GinmWmlStjng) | [Estado Febril](https://open.spotify.com/album/7DTS7m1xp1PFlOQwZ0HLyd) | 3:02 | 2024-05-10 |  |
 | [Mediação](https://open.spotify.com/track/2PQ4hwZReLwEZADXDse7Qw) | [Bossa Brothers](https://open.spotify.com/artist/4faMqe3bWK2ptjqMFqtejc) | [Mediação](https://open.spotify.com/album/54pb8DDox8wz1e6BIRj1L1) | 2:31 | 2021-11-26 |  |
@@ -144,6 +145,7 @@
 | [Vivo Sonhando](https://open.spotify.com/track/1CLCxyhhZyUb2Vp9mtP8cK) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Bossa Nova For Lovers](https://open.spotify.com/album/5PQxnjJaBa2FpcgS3U47wJ) | 2:53 | 2022-10-14 | 2022-11-13 |
 | [Vivo Sonhando](https://open.spotify.com/track/1Zfs685ci0kxKAym9WMuxi) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Girl From Ipanema \- The Bossa Nova Years](https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ) | 2:53 | 2021-11-26 | 2023-04-10 |
 | [Vivo Sonhando](https://open.spotify.com/track/1k5uGD16xxHlDzXTyUo5iS) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Collection](https://open.spotify.com/album/31gC5j7HG79gAD6aTCUEiv) | 2:53 | 2021-11-26 |  |
+| [Voando \(Nel Blu Dipinto Di Blu\)](https://open.spotify.com/track/5eJ4kcwdET3HsQvwT5QSuX) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Voando \(Nel Blu Dipinto Di Blu\)](https://open.spotify.com/album/1QQkssDjcaEVl6pJhSOWIQ) | 3:56 | 2024-06-14 |  |
 | [Você](https://open.spotify.com/track/1d3qDMU9yAjC5rnmWysKT8) | [Lucas Sousa Bossa](https://open.spotify.com/artist/0IqYi6pLXMPRYTCLAis6xZ) | [Você](https://open.spotify.com/album/4XmYp5cXvq202uUzz118L5) | 3:33 | 2021-11-26 |  |
 | [Você E Eu](https://open.spotify.com/track/4XsuAqkLStEB5qgiAG3Zgo) | [Bossa Avenida](https://open.spotify.com/artist/5xrWkIVKlaN0xson8wkoWJ) | [Você E Eu](https://open.spotify.com/album/5tGRo4uM3dFYUXusmu9yBe) | 2:59 | 2021-11-26 |  |
 | [Zum Zum](https://open.spotify.com/track/25nxYKQHAh7ehFIsc4kloY) | [Daniela Soledade](https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl) | [Zum Zum](https://open.spotify.com/album/4n0PDXCUXzTzv6z2NaimtJ) | 2:59 | 2021-11-26 |  |

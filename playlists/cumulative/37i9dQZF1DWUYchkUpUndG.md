@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH?si=0lJgMD1sS\_mVVF1J\_3ofwg>CalledOut Music</a>
 
-2,865 songs - 8 day 14 hr 48 min
+2,866 songs - 8 day 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1527,6 +1527,7 @@
 | [Ma coupe déborde](https://open.spotify.com/track/30uQ7yutSYfHhS6zXRt0Ko) | [Isaac Bukasa](https://open.spotify.com/artist/4hDlHt08OIAgnRiQlDUTlX) | [Les bontés de l’Éternel](https://open.spotify.com/album/3HTqGB5zcATKaE5ALXvLQI) | 5:00 | 2024-03-29 | 2024-04-05 |
 | [Made A Way](https://open.spotify.com/track/06a5vvfAiJA15IdqvKh5Ti) | [Stephanie Kome\-Ita](https://open.spotify.com/artist/0wjsc0GiCuJmdgwI0AB7iE) | [Made A Way](https://open.spotify.com/album/4mlwpNTD2M3fOSne1GwsGa) | 2:07 | 2023-12-08 | 2023-12-22 |
 | [Made It](https://open.spotify.com/track/3Au2UnEYRgEuEzLjQMqeaA) | [1Brain](https://open.spotify.com/artist/4c417RTyODO3ByAUiVyJQu) | [Made It](https://open.spotify.com/album/4B6JnZXSaPvxYGU4ZP9NM6) | 3:47 | 2024-02-16 | 2024-02-23 |
+| [Madzibambo](https://open.spotify.com/track/6T1J9szJWbGoKXq0UMnc4y) | [Obert Chari](https://open.spotify.com/artist/2MRBGtUHomiNjf8BKFMoI5) | [Zambuko](https://open.spotify.com/album/4cRHPBSqSed624lPa53ulT) | 8:30 | 2024-06-14 |  |
 | [Mafinyo](https://open.spotify.com/track/37dBDlByr5JgfQ6GuoBNuU) | [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn), [Garvey Royal](https://open.spotify.com/artist/16Kak1UGaE15pDnmAhdH2N), [Desito](https://open.spotify.com/artist/3RVwTLQZE6h8OxDAOjCRrN) | [Mafinyo](https://open.spotify.com/album/363I7oqJXVSinPYXaNOdTz) | 3:14 | 2024-05-17 | 2024-06-01 |
 | [Magnify \- Live](https://open.spotify.com/track/1pJvitCQ8Dr42XFc2NqGcR) | [Femi Matthew](https://open.spotify.com/artist/7qbbVep7mQeoDhYGAx8XsM), [Lifeline Music](https://open.spotify.com/artist/2TmSg2tF748pVBWCViiHQM) | [Sound Of The Heavens \(Live\)](https://open.spotify.com/album/2qDRLPpm1vGDJrmy7DwNu6) | 10:53 | 2024-01-12 | 2024-01-26 |
 | [Mai Iko](https://open.spotify.com/track/6OZGbl0f1ubsVmNDzE0ffp) | [Jakes Hinjari](https://open.spotify.com/artist/0vHke5zDphp49XceKxztGu), [Worshippers' Circle](https://open.spotify.com/artist/0ifftjfVRe5U2xnyKXVUpd) | [Mai Iko](https://open.spotify.com/album/6zMRLGF1JXUYkhHdppPKtp) | 5:44 | 2024-06-14 |  |
@@ -1965,7 +1966,7 @@
 | [Otuekong](https://open.spotify.com/track/4lzQbfxgryATPaKUKxK7c5) | [MaryJane Nweke](https://open.spotify.com/artist/7GcL0el74n5UvZY4mtyhaW) | [Otuekong](https://open.spotify.com/album/5WC7MQ7twruvfZeLn0EoHg) | 5:42 | 2023-06-23 | 2023-06-30 |
 | [Our Father](https://open.spotify.com/track/2kjCAe6UsyFBy1f248UrKp) | [DJ General Slam](https://open.spotify.com/artist/2L2XcmQZP7K9kuOO49ekEZ), [Katlego Nombewu](https://open.spotify.com/artist/3I7CbSq1IkEQP1Q5lMjs2O) | [Our Father](https://open.spotify.com/album/1F0bTcJZR7gJSRxXDXSsEG) | 5:57 | 2024-02-02 | 2024-02-09 |
 | [Our Father](https://open.spotify.com/track/1lQSJrQBTGES2JoGhauQbe) | [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv), [Clinton Flames](https://open.spotify.com/artist/3LEYSk47eQzeiwihi4f1Ye), [Baron Jay](https://open.spotify.com/artist/3I92MLYQY4V30w9jXnKhbv) | [Our Father](https://open.spotify.com/album/6aSBNuYtwTKf4zgvNBzbBO) | 2:44 | 2024-04-05 | 2024-04-19 |
-| [Our Time](https://open.spotify.com/track/3ctFAgGUt7Km0bJO9tiycq) | [Moses Brothers](https://open.spotify.com/artist/0X750MfIihtZU6uZWEJf5E) | [Our Time](https://open.spotify.com/album/1Vw9JpK6Xg9TZAf8rpYYrW) | 3:36 | 2024-06-14 |  |
+| [Our Time](https://open.spotify.com/track/3ctFAgGUt7Km0bJO9tiycq) | [Moses Brothers](https://open.spotify.com/artist/0X750MfIihtZU6uZWEJf5E) | [Our Time](https://open.spotify.com/album/1Vw9JpK6Xg9TZAf8rpYYrW) | 3:36 | 2024-06-14 | 2024-06-15 |
 | [Out of My Belly](https://open.spotify.com/track/2N2pqxvTJQJsOWuqIRRN1O) | [Depths of Worship](https://open.spotify.com/artist/3TIsFycbG1A7hLXusMmmcI) | [Out of My Belly](https://open.spotify.com/album/3iVoSOZsOG48nWk1AgxJrI) | 1:08:26 | 2023-07-28 | 2023-08-11 |
 | [Over](https://open.spotify.com/track/5w53DU4ZVdIn5J7iHP18gT) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Over](https://open.spotify.com/album/3pea7BAnzcaMlscFEhMfRD) | 2:48 | 2023-11-17 | 2023-12-01 |
 | [Over Do](https://open.spotify.com/track/0fzFmrC0PyypWGBpLplUgC) | [Realist Kingsolo](https://open.spotify.com/artist/5NA7wzrYFKmxYrv0GFOSyS) | [Over Do](https://open.spotify.com/album/4SMc8MSi1ZxN8uto4g8lXC) | 3:09 | 2023-05-26 | 2023-06-09 |

@@ -4,7 +4,7 @@
 
 > Your family can visit all of the animals at the zoo with this fun playlist.
 
-132 songs - 4 hr 32 min
+133 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [When You're Living In The Zoo](https://open.spotify.com/track/3Pbl7P6xuV9lzZ7veNDTHj) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ), [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Och Aye The G’Nu](https://open.spotify.com/album/0JhyE3KLmbA9k7mkj3YVnz) | 1:46 | 2022-02-01 |  |
 | [When You're Living in the Zoo](https://open.spotify.com/track/5ynCc46zFCrekNW4lbe0PI) | [Jimmy Barnes](https://open.spotify.com/artist/3M0F6AYQHWDhCmhR9HFSuP), [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Och Aye the G'nu!](https://open.spotify.com/album/4WpAEhGY73DmyQfKXz9Liw) | 1:46 | 2022-07-25 | 2024-04-19 |
 | [Wild and Free](https://open.spotify.com/track/3LLrYsa09Us4UFAtVJggsy) | [Bears and Lions](https://open.spotify.com/artist/55XGQSMgofzZFEtY4bDJPB) | [Wild and Free](https://open.spotify.com/album/5IMky5Cqw3PMV23se8BApI) | 3:02 | 2022-02-01 |  |
+| [Working Out at the Zoo](https://open.spotify.com/track/2YZFI6nXasmLNqGjHtQg4K) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Working Out at the Zoo](https://open.spotify.com/album/0Y2zDFFVrkSU9I5yFM82wz) | 3:34 | 2024-06-14 |  |
 | [You Otter Know](https://open.spotify.com/track/7io1AyyUiTm5hg0RLj7q9X) | [Urban Tails](https://open.spotify.com/artist/06UozYz8Pa1cAYrMSWUYXI) | [Urban Tails](https://open.spotify.com/album/3CfzVCZnB0PR5HGfu7B5t5) | 1:46 | 2022-02-01 |  |
 | [Zebra](https://open.spotify.com/track/2qdyZZueRIFaHZtUFSDiNS) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Animal Songs 2](https://open.spotify.com/album/5L9VHpr6V2kXzN3mI4eqZe) | 1:05 | 2022-02-01 |  |
 

@@ -1,6 +1,6 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 303123,
+  "num_followers": 303173,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-06-07 17:34:56",
       "album": {
+        "name": "Music For The Motion Picture Into The Wild",
+        "url": "https://open.spotify.com/album/0AF0eSjB3atcLpJ7gQBop5"
+      },
+      "artists": [
+        {
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
+        }
+      ],
+      "duration_ms": 236306,
+      "name": "Society",
+      "url": "https://open.spotify.com/track/7AYoXqCtME90flUOpBJM7i"
+    },
+    {
+      "added_at": "2024-06-07 17:34:56",
+      "album": {
         "name": "Fare Thee Well",
         "url": "https://open.spotify.com/album/5au7oNwns9gXVgpOdIh414"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 258586,
       "name": "Infinita Highway - Ao Vivo",
       "url": "https://open.spotify.com/track/4a95GqfQBhSYFzF23JB2eC"
-    },
-    {
-      "added_at": "2024-06-07 17:34:56",
-      "album": {
-        "name": "Music For The Motion Picture Into The Wild",
-        "url": "https://open.spotify.com/album/0AF0eSjB3atcLpJ7gQBop5"
-      },
-      "artists": [
-        {
-          "name": "Eddie Vedder",
-          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
-        }
-      ],
-      "duration_ms": 236306,
-      "name": "Society",
-      "url": "https://open.spotify.com/track/7AYoXqCtME90flUOpBJM7i"
     },
     {
       "added_at": "2024-06-07 17:34:56",

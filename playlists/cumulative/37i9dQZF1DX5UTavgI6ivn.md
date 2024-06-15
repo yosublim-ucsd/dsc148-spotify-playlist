@@ -4,7 +4,7 @@
 
 > Made pa' perrear, pa' cantar y pa' brindar\. Made pa' acá y pa' allá\. Made in Colombia\. Foto: Feid
 
-300 songs - 17 hr 0 min
+301 songs - 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [El Mismo Aire \- con Pablo Alborán](https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [El Mismo Aire \(con Pablo Alborán\)](https://open.spotify.com/album/3E3coJkwv6rbqUTiw1qLZ6) | 3:08 | 2022-01-12 | 2024-02-27 |
 | [El Parrandero \(Masters en Parranda\)](https://open.spotify.com/track/3x4mGFoZa9rrPLCiQuRMWx) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Sin Animo De Lucro](https://open.spotify.com/artist/1cyEMpyEQatd4xre5reEcR), [JBot & Tuti](https://open.spotify.com/artist/5jxVsaFreexOv9fypQsdEX) | [El Parrandero \(Masters en Parranda\)](https://open.spotify.com/album/4Jh6GEK8oIqVfFFRejbrFx) | 3:03 | 2022-01-12 | 2023-05-20 |
 | [EL RELOJ \(con Maluma\)](https://open.spotify.com/track/29eXmdhLZqDUNB8y62rYIZ) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [EL RELOJ \(con Maluma\)](https://open.spotify.com/album/7cw2HqGRaimaXNcTfHxMhR) | 3:00 | 2023-08-11 | 2024-02-27 |
+| [EL RITMO QUE NOS UNE \(feat\. Selección Colombia\)](https://open.spotify.com/track/79IBoMfFn67UI15YkP1FSp) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD), [Selección Colombia](https://open.spotify.com/artist/5qLqlZazggeL3HVtjuLhJy) | [EL RITMO QUE NOS UNE \(feat\. Selección Colombia\)](https://open.spotify.com/album/6gHvLYdqKPaiCXK92crXFR) | 3:09 | 2024-06-14 |  |
 | [Ella](https://open.spotify.com/track/1DPtfQYOFB9IAEk1o4qBmS) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [ÁNGEL](https://open.spotify.com/album/3g5VwrXN4bKoU9UKux5k5N) | 3:07 | 2024-04-04 |  |
 | [Enchule](https://open.spotify.com/track/6NQQJRKTJeCuSnvNZ4J7xA) | [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU) | [Enchule](https://open.spotify.com/album/4yEObSjSnJ1FhFGopfbxnd) | 2:29 | 2023-05-19 | 2023-06-30 |
 | [Energía Bacana](https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Energía Bacana](https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq) | 2:27 | 2023-10-30 | 2024-02-27 |
@@ -110,7 +111,7 @@
 | [Favorito](https://open.spotify.com/track/0Snbzbd74RLfL0i4nn1vU5) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Favorito](https://open.spotify.com/album/5wb9Mx2yfXZzKYPzHp4fae) | 3:31 | 2022-01-12 | 2024-02-27 |
 | [FERXXO 151](https://open.spotify.com/track/1LFXWfARjkBkc9Abofmgp8) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD) | [FERXXO 151](https://open.spotify.com/album/7JsvGZNqsoZlFOl41TKucq) | 3:15 | 2023-09-08 | 2024-01-20 |
 | [Flaca](https://open.spotify.com/track/18PywrD2EQCVJEXMjETy8p) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Flaca](https://open.spotify.com/album/1rGB0EkQQ96tB4iYTklDIy) | 3:24 | 2022-01-12 | 2023-06-30 |
-| [Ganas \- Remix](https://open.spotify.com/track/2gozgdGrgeKxV5ssjzokPo) | [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Ganas \(Remix\)](https://open.spotify.com/album/606mo5NTK2yjOAE1JUiYEF) | 3:28 | 2024-04-08 |  |
+| [Ganas \- Remix](https://open.spotify.com/track/2gozgdGrgeKxV5ssjzokPo) | [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Ganas \(Remix\)](https://open.spotify.com/album/606mo5NTK2yjOAE1JUiYEF) | 3:28 | 2024-04-08 | 2024-06-15 |
 | [Ghetto Star](https://open.spotify.com/track/3t6SsMiA1b1Ju0HzKHIDSl) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [COQE](https://open.spotify.com/artist/7GAYtrIoXkEFFsSP2nhG0E) | [Ghetto Star](https://open.spotify.com/album/2SjlYKPeAVcfvz7ChGCix4) | 3:17 | 2023-02-10 | 2023-03-18 |
 | [Golpes Contra Las Paredes](https://open.spotify.com/track/4pbOoaHqU4xaxqgjNZQunP) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Golpes Contra Las Paredes](https://open.spotify.com/album/7dz4YX7KleW1rR5YQInKog) | 3:10 | 2023-11-10 | 2024-02-27 |
 | [Gris](https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Gris](https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG) | 3:09 | 2023-03-17 | 2023-05-20 |

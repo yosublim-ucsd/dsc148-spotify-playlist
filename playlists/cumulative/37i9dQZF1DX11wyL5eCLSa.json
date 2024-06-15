@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. Odisseo en Portada. ",
+  "description": "Sangre fresca en las escenas del indie y el rock. Vondr\u00e9 en Portada. ",
   "name": "EL ROCK NO HA MUERTO",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 204133,
       "name": "1001",
       "url": "https://open.spotify.com/track/495Lanv4CyxgmALM9II8b1"
@@ -1316,6 +1316,24 @@
       "duration_ms": 321662,
       "name": "como me encanta",
       "url": "https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj"
+    },
+    {
+      "album": {
+        "name": "Miel de Azar",
+        "url": "https://open.spotify.com/album/1qpILF6cHlPJzUOvZfdIma"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192197,
+      "name": "Como Queremos",
+      "url": "https://open.spotify.com/track/0Zcd8XxgKeRNQAUIpsHr7c"
     },
     {
       "album": {
@@ -4064,7 +4082,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-15",
       "duration_ms": 190023,
       "name": "Lo dejo",
       "url": "https://open.spotify.com/track/2T0yb0dYi8My9xNiy9aET2"
@@ -6304,6 +6322,24 @@
       "duration_ms": 263718,
       "name": "Pulitzer",
       "url": "https://open.spotify.com/track/2iscOVkAkT0a51h0IAtZHf"
+    },
+    {
+      "album": {
+        "name": "CORRENTADA",
+        "url": "https://open.spotify.com/album/3yWOpyyG9Plm2O1Y7uD4Gh"
+      },
+      "artists": [
+        {
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271237,
+      "name": "Pulpo",
+      "url": "https://open.spotify.com/track/2VyySCdsyFL2Q0f6oiERG1"
     },
     {
       "album": {

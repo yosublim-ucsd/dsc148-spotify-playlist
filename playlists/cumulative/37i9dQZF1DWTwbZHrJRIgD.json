@@ -4581,6 +4581,32 @@
     },
     {
       "album": {
+        "name": "Thank You God",
+        "url": "https://open.spotify.com/album/39RgIHAyeHNjVDUjyLR6NK"
+      },
+      "artists": [
+        {
+          "name": "Dhvani Bhanushali",
+          "url": "https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk"
+        },
+        {
+          "name": "Shloke Lal",
+          "url": "https://open.spotify.com/artist/5hICADiHIRxjNDx2qEhlXb"
+        },
+        {
+          "name": "David Arkwright",
+          "url": "https://open.spotify.com/artist/6tycTl3BdncKN9ubgueSeu"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132524,
+      "name": "Thank You God",
+      "url": "https://open.spotify.com/track/2GD8vxlR7YIgx2ko3Ntv2f"
+    },
+    {
+      "album": {
         "name": "October",
         "url": "https://open.spotify.com/album/50K9juQj3cW0vn9usw7XgM"
       },

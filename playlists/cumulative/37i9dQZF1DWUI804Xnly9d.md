@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-348 songs - 19 hr 51 min
+349 songs - 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | [Safar](https://open.spotify.com/track/0uAOcZmwkIg5LHDhbuBKYN) | [Nikita Ahuja](https://open.spotify.com/artist/1N9scLdWZukQAQ0p4ZeUUx), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Safar](https://open.spotify.com/album/06yYVu3F7bVRFo6xksZeZX) | 3:19 | 2024-05-24 |  |
 | [Sang Tere](https://open.spotify.com/track/5NsEfpHGCMmBS4sANtp5qo) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL), [Rupin Suchak](https://open.spotify.com/artist/1VKnLalQQJZajLYjTyyYnl) | [Sang Tere](https://open.spotify.com/album/1ps7a8LjOyAqQ49OKG46Me) | 2:55 | 2023-11-29 | 2024-02-21 |
 | [Sapno Mein](https://open.spotify.com/track/1kdcrxXB0QuPBmaOakxwwk) | [Yuvi](https://open.spotify.com/artist/67iUYoHE7CHnWYO2ZtV5IJ) | [Sapno Mein](https://open.spotify.com/album/3SxMEnLGUUg75HrpR31pQW) | 2:58 | 2023-10-26 | 2023-11-25 |
+| [Savera](https://open.spotify.com/track/4XA2TXEycTQL3xhPV7L2kt) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Savera](https://open.spotify.com/album/3JEj0JqpBIbAiIJ3SyADpd) | 2:23 | 2024-06-14 |  |
 | [Shaam O Seher](https://open.spotify.com/track/2oDcHokGFyUid59aiw36DT) | [Bharat Goel](https://open.spotify.com/artist/3gcypsP2mkAyBI3HrIeWnx), [Paresh Pahuja](https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Shaam O Seher](https://open.spotify.com/album/2xHtltGELNqIsy4agezGGA) | 3:03 | 2024-03-05 | 2024-06-01 |
 | [Shamiyana](https://open.spotify.com/track/3QC6onisBo4QROKE7Wr6W9) | [Arpita Chakraborty](https://open.spotify.com/artist/37qkV6Tep5CIGcRk1hJJhk) | [Shamiyana](https://open.spotify.com/album/7IzYRwQO5uLovjokWp81C2) | 5:24 | 2024-02-14 | 2024-04-10 |
 | [Sheher](https://open.spotify.com/track/16ipZHJpbcELsK0B1SXhSV) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Khaak](https://open.spotify.com/album/2TRkDF25nPk8cwga28yooJ) | 3:05 | 2023-06-12 | 2024-03-01 |
@@ -351,7 +352,7 @@
 | [Ye Zindagi](https://open.spotify.com/track/76WGQlitFCuX9m4IsChzsq) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Ye Zindagi](https://open.spotify.com/album/1Tib7ORYuc7K9nEMADj6ME) | 2:47 | 2023-12-15 | 2024-02-29 |
 | [Yeh Mera Dil](https://open.spotify.com/track/459wvXRbstNfUVyQoJ8PB2) | [Hammad Ehsan](https://open.spotify.com/artist/7FvUkx4OEVD7hvYirKrZKD) | [Yeh Mera Dil](https://open.spotify.com/album/7sNjCGtlVEKsRVHCGEISKv) | 3:01 | 2023-10-03 | 2023-12-07 |
 | [Yeh Sama](https://open.spotify.com/track/2HJiciviYnFJXF9bM80AwF) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Yeh Sama](https://open.spotify.com/album/4aU88UQdV5chDfZ3WWcGdp) | 2:09 | 2023-12-01 |  |
-| [Yeh Shaam \- Piano Version](https://open.spotify.com/track/74JiXrwafiTo4W1IH9ZvY7) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Sapne](https://open.spotify.com/album/2Lw9o65L8txLwH8Tg4jvWy) | 3:55 | 2024-01-19 |  |
+| [Yeh Shaam \- Piano Version](https://open.spotify.com/track/74JiXrwafiTo4W1IH9ZvY7) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Sapne](https://open.spotify.com/album/2Lw9o65L8txLwH8Tg4jvWy) | 3:55 | 2024-01-19 | 2024-06-15 |
 | [Zara Zara \- MTV Unwind](https://open.spotify.com/track/5SYVEm7xc8Vi8czRO44q8M) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa) | [Zara Zara \- MTV Unwind \- Single](https://open.spotify.com/album/26VsSu066lK8UdTTiz7JVe) | 3:28 | 2023-05-17 | 2024-04-19 |
 | [Zara Zara \- MTV Unwind](https://open.spotify.com/track/6anGj4SX83j5DyG3aZOzqc) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa) | [Zara Zara \- MTV Unwind](https://open.spotify.com/album/2AQXHeeiHSxhptNmUZdwkU) | 3:28 | 2024-04-19 |  |
 | [Zihaal e Miskin \- Acoustic Version](https://open.spotify.com/track/5pdlxHg7rN1Fwu7s5FBz5b) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Zihaal e Miskin \(Acoustic Version\)](https://open.spotify.com/album/5ZPtE4inm85dD7lyUp68RM) | 4:06 | 2024-03-14 |  |

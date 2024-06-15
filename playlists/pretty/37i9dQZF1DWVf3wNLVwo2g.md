@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf3wNLVwo2g.md) - [plain]
 
 > Powerful female voices, like you've never heard before\.  Cover: Miley Cyrus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,365 likes - 195 songs - 11 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,373 likes - 195 songs - 11 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,8 +167,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf3wNLVwo2g.md) - [plain]
 | 157 | [Many Men \- Spotify Singles](https://open.spotify.com/track/6WnWJWHAEG1m2z8XgvVB1R) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Spotify Singles](https://open.spotify.com/album/4MggS1vGAtUktCGfAef8LM) | 2:36 |
 | 158 | [Loyal \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/19eEtZaPGKHayTsxWRkhoc) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Spotify Singles](https://open.spotify.com/album/1k0gFBFXElnx6DJhcLKmYb) | 3:44 |
 | 159 | [Want You Back \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1VxuPBPMqgVMAv6NXZFQ3B) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Spotify Singles](https://open.spotify.com/album/1YRHQaixdZLJkUxQ5glsnk) | 4:05 |
-| 160 | [Deja Vu \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2qoa1Ok9Kyj3f3CQyxu096) | [Natalie Prass](https://open.spotify.com/artist/0EmUT6i9rTu9ZHy1Tl1iuX) | [Spotify Singles](https://open.spotify.com/album/1gLPXEmEAQevLuShz5BIz0) | 4:43 |
-| 161 | [Hurting \- Recorded At AIR Studios, London](https://open.spotify.com/track/53uc3quxXVrb9sDUdkfYEb) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Spotify Singles](https://open.spotify.com/album/1WiF35jQ1seXSQmXA7rR8c) | 3:40 |
+| 160 | [Hurting \- Recorded At AIR Studios, London](https://open.spotify.com/track/53uc3quxXVrb9sDUdkfYEb) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Spotify Singles](https://open.spotify.com/album/1WiF35jQ1seXSQmXA7rR8c) | 3:40 |
+| 161 | [Deja Vu \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2qoa1Ok9Kyj3f3CQyxu096) | [Natalie Prass](https://open.spotify.com/artist/0EmUT6i9rTu9ZHy1Tl1iuX) | [Spotify Singles](https://open.spotify.com/album/1gLPXEmEAQevLuShz5BIz0) | 4:43 |
 | 162 | [everything i wanted \- Recorded live at Abbey Road Studios, London](https://open.spotify.com/track/7AAMDhzVpaQi6kqjPXSkXi) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Spotify Singles](https://open.spotify.com/album/156cHVsJv86Wi7e9IHIKRx) | 4:29 |
 | 163 | [Hoodie \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5agF0y6utHAyX4LV0wQmeB) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [Spotify Singles](https://open.spotify.com/album/0GfdUmTzDZX5TB1HH9cb7Z) | 3:44 |
 | 164 | [Perfume \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6jPNBp1lDOoLNYm4sd2rWq) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Spotify Singles](https://open.spotify.com/album/7422NfmOW8GffdVQNbM90S) | 2:35 |
