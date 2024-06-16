@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 
 > Some favorites across multiple genres\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 460,258 likes - 68 songs - 4 hr 15 min
+[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 460,401 likes - 68 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 | 33 | [The Great Escape](https://open.spotify.com/track/072RXqSJjwD32MQThcUeAn) | [Jason Zimmerman](https://open.spotify.com/artist/32aOY7csf8fQHk8muv9xuw) | [A Happy Time](https://open.spotify.com/album/3GqeFSVHqxTchaPvSKLIdn) | 3:35 |
 | 34 | [The One](https://open.spotify.com/track/03ZV4UhsyJoPwvEi1P5GMI) | [Deejay Bluemoon](https://open.spotify.com/artist/5y3YDoIHwhJ99cKJ6JNOBo), [Iadan](https://open.spotify.com/artist/4wtXNam3lK5zlZTxIzKh2R), [Melogirl](https://open.spotify.com/artist/52DCEdMBua9Y4gQ9lM4VIT) | [The One](https://open.spotify.com/album/5YgAyDkxUE8xBnLgY2b6Xz) | 4:04 |
 | 35 | [Lento](https://open.spotify.com/track/3C7ZaCKWJwvoqxP87CbaKe) | [boricano\_\_](https://open.spotify.com/artist/0iepN2IYMtrSlSgl7mEeRu) | [Lento](https://open.spotify.com/album/5Rfq3FwGfDK6UJdmHQ0Ydz) | 3:07 |
-| 36 | [Hold Me \(Hara Chakra\)](https://open.spotify.com/track/7F7x10zN1a9hLYScgCYSEx) | [SoundHugs](https://open.spotify.com/artist/4d3uxW7Wzge3xtMNzUzFD3) | [RumiSongs](https://open.spotify.com/album/1f5149Jkd9Pz59s51opaOJ) | 9:31 |
+| 36 | [Hold Me \(Hara Chakra\)](https://open.spotify.com/track/7F7x10zN1a9hLYScgCYSEx) | [SoundHugs](https://open.spotify.com/artist/4d3uxW7Wzge3xtMNzUzFD3), [Klaus Löhrer](https://open.spotify.com/artist/1PaXr6x5XPR5wGljfzYUwO) | [RumiSongs](https://open.spotify.com/album/1f5149Jkd9Pz59s51opaOJ) | 9:31 |
 | 37 | [Lidl Euphoria](https://open.spotify.com/track/7idlKPdAU3FIQK1toW6SMm) | [Nafjodor](https://open.spotify.com/artist/3oddTZYVheCYx6r3ONrP7H) | [Lidl Euphoria](https://open.spotify.com/album/1e0b1StSVqqtvUY5R1fpDC) | 3:34 |
 | 38 | [A\-Lone](https://open.spotify.com/track/0xKR0T4wpOUDAkitFB11Xt) | [Khalid Al\-Shammiry](https://open.spotify.com/artist/6Io7YjlGXul3bUzHmr8RgZ) | [Small Circle](https://open.spotify.com/album/2XdhZ1l0mCQ6LXd6VwhQXZ) | 5:26 |
 | 39 | [Keep Moving](https://open.spotify.com/track/2PN2KrIVjs2qGB76cCDgOj) | [Miss a Jay](https://open.spotify.com/artist/67AUlWtKOo8Kj0NnSu20QP), [Ayesem](https://open.spotify.com/artist/0rW4UXM2SG3Iev76vJ5ekI) | [Keep Moving](https://open.spotify.com/album/4VOLaYiSWDspkXXkddibMR) | 3:54 |

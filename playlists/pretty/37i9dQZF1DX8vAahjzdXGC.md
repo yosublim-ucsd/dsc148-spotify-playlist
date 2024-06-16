@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Alan Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,393 likes - 91 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,489 likes - 91 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 69 | [Spiral](https://open.spotify.com/track/6RfgvYyQaM3lFys834sWwx) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Spiral](https://open.spotify.com/album/1FTD5Ik0Ex0MofuRwt8eYR) | 3:37 |
 | 70 | [Count On Me](https://open.spotify.com/track/1NFEXNMg8AZ0jGSux4CJdd) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Cape Town to Cairo](https://open.spotify.com/album/3xrdk0MImcnbt9NEc7pSnK) | 2:49 |
 | 71 | [Nature](https://open.spotify.com/track/7o1OfwR349jSAodpOdTnlG) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [No Hard Feelings](https://open.spotify.com/album/5FLuHwbit7X3hXqXB1j6Mb) | 2:46 |
-| 72 | [Lose Myself](https://open.spotify.com/track/1uqgUlVmfomaH1IEeDOC5y) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [i tried.](https://open.spotify.com/album/3ZrMVmVgaAzizc3MzotdvN) | 3:05 |
+| 72 | [Lose Myself](https://open.spotify.com/track/1uqgUlVmfomaH1IEeDOC5y) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I TRIED.](https://open.spotify.com/album/3ZrMVmVgaAzizc3MzotdvN) | 3:05 |
 | 73 | [Too Easy \(From Twisters: The Album\)](https://open.spotify.com/track/5DWplsLK5juocMo4PBX826) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Too Easy \(From Twisters: The Album\)](https://open.spotify.com/album/1dbfKHyu773FIRYf8dQY8v) | 2:30 |
 | 74 | [BROTHER STONE \(FEAT\. KODAK BLACK\)](https://open.spotify.com/track/0l3raueiJ78IsmZGwo6CRm) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [BROTHER STONE \(FEAT\. KODAK BLACK\)](https://open.spotify.com/album/0LWTY98ijfILoFHupcQJKE) | 3:22 |
 | 75 | [Saturday Night Special \(feat\. Rick Ross & Fat Joe\)](https://open.spotify.com/track/6a14IKtBVWXO0FTOmZNgfI) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6) | [Saturday Night Special \(feat\. Rick Ross & Fat Joe\)](https://open.spotify.com/album/3wAJhTshe6dXXworwy3CF1) | 3:28 |

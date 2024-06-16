@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 
 > Disfruta del más fino R&B hecho en español\. Maluma y Blessd en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,005 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,985 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

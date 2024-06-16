@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > Emerging sounds in worship from everywhere.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,004 likes - 130 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,032 likes - 130 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

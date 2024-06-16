@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 
 > Walk the bridge between indie and folk\. Cover: Ruby Waters
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,120 likes - 125 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,178 likes - 125 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

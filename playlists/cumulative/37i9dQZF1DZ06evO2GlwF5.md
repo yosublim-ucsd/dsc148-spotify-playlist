@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO2GlwF5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO2GlwF5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO2GlwF5)
 
-### [This Is Maaya Sakamoto](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2GlwF5)
+### [This Is 坂本真綾](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2GlwF5)
 
-> This is Maaya Sakamoto\. The essential tracks, all in one playlist.
+> This is 坂本真綾\. The essential tracks, all in one playlist.
 
 115 songs - 8 hr 43 min
 
@@ -38,7 +38,7 @@
 | [Remedy](https://open.spotify.com/track/4XAdNPY1UfDyQyqBkpZGuL) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [かぜよみ](https://open.spotify.com/album/0lhUq6EneNsa5onks6pTIl) | 4:31 | 2023-10-10 |  |
 | [SAVED.](https://open.spotify.com/track/0Q3M2UGqG8UisohFJUZ0QO) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [FOLLOW ME UP](https://open.spotify.com/album/7MQ0R1cgZTkGqxh0cZ1H0y) | 5:18 | 2022-08-10 | 2022-12-28 |
 | [SONIC BOOM](https://open.spotify.com/track/2fR18TKm6d10XByIfzV4cP) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [かぜよみ](https://open.spotify.com/album/0lhUq6EneNsa5onks6pTIl) | 4:22 | 2022-08-10 |  |
-| [stand up, girls！](https://open.spotify.com/track/2CG4CjNdCy2XvERyCfLppg) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [You can't catch me](https://open.spotify.com/album/4CoGD8RFY0lhSXNxzKT8gr) | 3:47 | 2024-05-11 |  |
+| [stand up, girls！](https://open.spotify.com/track/2CG4CjNdCy2XvERyCfLppg) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [You can't catch me](https://open.spotify.com/album/4CoGD8RFY0lhSXNxzKT8gr) | 3:47 | 2024-05-11 | 2024-06-16 |
 | [Sumire](https://open.spotify.com/track/4ilIh5yaPnwgXHlq3RJ2c8) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [Sumire / Kotoba ni Dekinai](https://open.spotify.com/album/4mvCZ2dM4YhKLIvoXneU21) | 3:57 | 2022-08-10 |  |
 | [Tell me what the rain knows](https://open.spotify.com/track/19WWtnNcvDhVrNrLH5je1Z) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [25周年記念アルバム　シングルコレクション＋ アチコチ](https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf) | 1:42 | 2022-08-10 |  |
 | [That is To Say](https://open.spotify.com/track/35Acye6BqUz6l7oPhetF3f) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [FOLLOW ME UP](https://open.spotify.com/album/7MQ0R1cgZTkGqxh0cZ1H0y) | 4:53 | 2023-01-09 | 2023-01-18 |
@@ -114,7 +114,7 @@
 | [紅茶](https://open.spotify.com/track/670Osl1XXLz8Qc3TcUhD4N) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [ルーシー](https://open.spotify.com/album/7ALU9InqPU79M2k9fD4Yyy) | 5:31 | 2022-08-10 | 2024-05-21 |
 | [色彩](https://open.spotify.com/track/3SbOOdiONumSVvLtsSBKOt) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [幸せについて私が知っている5つの方法/色彩](https://open.spotify.com/album/4f2jYtFDHK66bUVSSzD6MD) | 4:33 | 2022-08-10 |  |
 | [色彩\-unplugged session\-](https://open.spotify.com/track/3CjlH3sNGezw2gQoDBKGQn) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [逆光](https://open.spotify.com/album/26XVXGp8N4WC5l9d4pOhc0) | 5:43 | 2022-09-15 | 2022-09-17 |
-| [荒川小景](https://open.spotify.com/track/0bCYCxhnmWCFA8WcoCOvqz) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [SUPERFINE](https://open.spotify.com/album/6cMizcqPNkknWPgJNeBi9u) | 6:10 | 2022-10-04 | 2024-06-07 |
+| [荒川小景](https://open.spotify.com/track/0bCYCxhnmWCFA8WcoCOvqz) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [SUPERFINE](https://open.spotify.com/album/6cMizcqPNkknWPgJNeBi9u) | 6:10 | 2022-10-04 |  |
 | [蒼のエーテル](https://open.spotify.com/track/6paDGwUHD2mYO9vyAodtVb) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [かぜよみ](https://open.spotify.com/album/0lhUq6EneNsa5onks6pTIl) | 3:58 | 2022-11-18 | 2023-03-04 |
 | [言葉にできない](https://open.spotify.com/track/3FP9fSLpNeQmBuezTgGSGu) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [11thアルバム　記憶の図書館](https://open.spotify.com/album/37FOxaHocFMsIZRSQcfGkS) | 4:55 | 2023-07-04 | 2024-06-11 |
 | [言葉にできない](https://open.spotify.com/track/08bJMeQRwtpLnrMF1ScLvn) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [菫 / 言葉にできない](https://open.spotify.com/album/4Tv3U17WdyaTIPrCtFtt1d) | 4:56 | 2022-08-10 | 2023-06-05 |

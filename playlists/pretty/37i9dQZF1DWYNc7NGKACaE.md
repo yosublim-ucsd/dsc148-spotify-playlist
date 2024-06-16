@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 
 > essa é só pra quem vive no 2.0x
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,742 likes - 66 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,777 likes - 66 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 46 | [SEGREDO VERSÃO BH](https://open.spotify.com/track/7KJ3zD65Na61RsIcqfEfQr) | [Dj Vr Silva](https://open.spotify.com/artist/0IT4DLPp12S9xBzobzce1I), [Karui](https://open.spotify.com/artist/6pJDaYMxmgvbKfRXFkAVYw) | [SEGREDO VERSÃO BH](https://open.spotify.com/album/7Mkqs7f1Ut0cXuKUz3TKMs) | 2:36 |
 | 47 | [Felina, Ai Meu Deus](https://open.spotify.com/track/4mXao1gU5PKbwEd5oi1JBP) | [DJ MT SILVÉRIO](https://open.spotify.com/artist/3BYtk2sGyLpV9UfmCghNSd), [ARTHUR DE AFC](https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb) | [Felina, Ai Meu Deus](https://open.spotify.com/album/3nGpC3zbNobY1JLQzd5MFt) | 2:27 |
 | 48 | [Florxs Speed Up](https://open.spotify.com/track/2rIcX0NTuATrrIFUcC5pdz) | [Thxuzz](https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q) | [Florxs Speed Up](https://open.spotify.com/album/5ZqrLDiksNLzdO5EVQ3lNW) | 2:56 |
-| 49 | [011 É o Ddd \- Speed Up](https://open.spotify.com/track/5cAeEKEsxXj6RpzGhJUgyG) | [Barbz](https://open.spotify.com/artist/06s5q2sH2lnyEbao994fVD), [Menoleozzin](https://open.spotify.com/artist/5T6UOkgOY9iCBHcOnOatUB) | [011 É o Ddd](https://open.spotify.com/album/3dqDCBoecBp7CqMbxP5pjj) | 2:24 |
+| 49 | [011 É o Ddd \- Speed Up](https://open.spotify.com/track/5cAeEKEsxXj6RpzGhJUgyG) | [Barbz](https://open.spotify.com/artist/06s5q2sH2lnyEbao994fVD), [L.HARD](https://open.spotify.com/artist/4X1JOqzevl6se7AQyJy0Vj) | [011 É o Ddd](https://open.spotify.com/album/3dqDCBoecBp7CqMbxP5pjj) | 2:24 |
 | 50 | [Kill Bill \- Speed](https://open.spotify.com/track/2BFlLdo7yye9ZNXlCo3xbS) | [Cabrxlzin](https://open.spotify.com/artist/72ZS9JdFcROgzmTG2jmhkF), [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx) | [Kill Bill \- Speed](https://open.spotify.com/album/65EoSVA4XRpos1EZEgu2KB) | 1:28 |
 | 51 | [Rede Social \- Speed](https://open.spotify.com/track/0FIjebtfvcayZNDzG993SH) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Rede Social \(Speed\)](https://open.spotify.com/album/01iSILkAS9K13llC2AEWZJ) | 2:34 |
 | 52 | [Plug do São João SPEED](https://open.spotify.com/track/5aIwsGfLgCrafntNMP8S2l) | [rs9](https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9) | [SPEED Versions](https://open.spotify.com/album/5hqTK4W81BhI8srFdaCIyw) | 1:46 |

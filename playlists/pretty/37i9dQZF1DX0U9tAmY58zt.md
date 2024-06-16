@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9tAmY58zt.md) - [plain]
 
 > Todos los artistas del Corona Capital en una sola playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,831 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,840 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 > Your go\-to playlist for this week's hottest music featuring Pharrell Williams, Miley Cyrus, and more! Cover: Pharrell Williams
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,017 likes - 50 songs - 2 hr 38 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,016 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

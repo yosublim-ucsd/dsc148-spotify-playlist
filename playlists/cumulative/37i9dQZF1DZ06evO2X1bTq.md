@@ -2,7 +2,7 @@
 
 ### [This Is U2](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2X1bTq)
 
-> This Is U2\. Los temas esenciales, todos en una lista.
+> This is U2。アーティストの代表曲をひとつのプレイリストに。
 
 79 songs - 5 hr 49 min
 
@@ -25,7 +25,7 @@
 | [Electrical Storm \- William Orbit Mix](https://open.spotify.com/track/3gkijt6bxk8ts6S2RCEu4n) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1990\-2000](https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv) | 4:37 | 2022-11-16 | 2022-11-18 |
 | [Elevation](https://open.spotify.com/track/4BC2WQKrZdqMX6rHsvVbUy) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 3:46 | 2022-10-24 |  |
 | [Even Better Than The Real Thing](https://open.spotify.com/track/4bK2vKMdkS0rNhbzRqAZe0) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 3:41 | 2022-10-24 |  |
-| [Everlasting Love](https://open.spotify.com/track/2e3kaO7DTPQ7kZJ6wGwcLo) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1980\-1990 & B\-Sides](https://open.spotify.com/album/205bQLiKXCiUIt3HKlcBUb) | 3:19 | 2022-10-24 |  |
+| [Everlasting Love](https://open.spotify.com/track/2e3kaO7DTPQ7kZJ6wGwcLo) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1980\-1990 & B\-Sides](https://open.spotify.com/album/205bQLiKXCiUIt3HKlcBUb) | 3:19 | 2022-10-24 | 2024-06-16 |
 | [Every Breaking Wave](https://open.spotify.com/track/4z5eLUR8oCbRywMw1ytNol) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Innocence \(Deluxe\)](https://open.spotify.com/album/6wQXpkptAIZPzNf5H0SA10) | 4:12 | 2022-10-24 |  |
 | [Get Out Of Your Own Way](https://open.spotify.com/track/4nXYb4yc3c1a3NWqdpDrnd) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 3:58 | 2022-10-24 | 2023-02-01 |
 | [Get Out Of Your Own Way \- Songs Of Surrender](https://open.spotify.com/track/5e3v1Ulz5O6j09dmry1KgB) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Surrender](https://open.spotify.com/album/3fqPfbVHsvdpovpJXOJlvU) | 3:27 | 2023-03-20 | 2023-06-23 |
@@ -47,7 +47,7 @@
 | [Miracle Drug](https://open.spotify.com/track/2b6pyyrxfP79LhV2hLtTm4) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB) | 3:54 | 2023-01-18 | 2023-03-21 |
 | [Moment Of Surrender](https://open.spotify.com/track/2PwwiKJYMYbuWh7j5yAbwT) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [No Line On The Horizon](https://open.spotify.com/album/5yqMA7IvahYJc53ewRAMnP) | 7:24 | 2024-05-18 | 2024-05-19 |
 | [Mysterious Ways](https://open.spotify.com/track/50JK22El2PTIzZBU2liLDI) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 4:03 | 2022-10-24 |  |
-| [New Year's Day](https://open.spotify.com/track/2CwMxEXxMiLRrKPLjQLmne) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1980 \- 1990](https://open.spotify.com/album/0WSpHK6tinGHU4gvP8fHih) | 4:17 | 2022-10-25 | 2024-06-15 |
+| [New Year's Day](https://open.spotify.com/track/2CwMxEXxMiLRrKPLjQLmne) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1980 \- 1990](https://open.spotify.com/album/0WSpHK6tinGHU4gvP8fHih) | 4:17 | 2022-10-25 |  |
 | [Numb](https://open.spotify.com/track/14QtCWJaRgMj6dkUs6dkcT) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Zooropa](https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE) | 4:19 | 2023-07-12 |  |
 | [October \- Remastered 2008](https://open.spotify.com/track/1UlQqRd3NoMYUI29v6DFb5) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [October \(Deluxe Edition Remastered\)](https://open.spotify.com/album/59O7CFxLYBBKYtrO61LyqF) | 2:21 | 2022-10-24 | 2023-08-06 |
 | [One](https://open.spotify.com/track/3Lk7RWStfLaHG7lXsuS87j) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Breakthrough](https://open.spotify.com/album/13HYuDhB1soZvHzwoymXoV) | 4:20 | 2022-10-24 |  |

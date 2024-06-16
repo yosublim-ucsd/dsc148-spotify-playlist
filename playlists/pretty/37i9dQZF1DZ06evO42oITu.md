@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 
 > This is Eric Clapton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,894 likes - 51 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,977 likes - 51 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 | 50 | [River of Tears](https://open.spotify.com/track/7henYpsVePUUrB8sQmhG6O) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Pilgrim](https://open.spotify.com/album/4zWJPA1aq4IBdLk1QbWD63) | 7:22 |
 | 51 | [Got To Get Better In A Little While \- Live](https://open.spotify.com/track/3lNHwRPfFHckwPm1nTIuu9) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [To Save A Child: An Intimate Live Concert](https://open.spotify.com/album/2AFTCoFxo67KJgTKZtmDWi) | 9:28 |
 
-Snapshot ID: `Zmo2gAAAAADVebAaCxeBlAiTrrLAG5xj`
+Snapshot ID: `ZmuIAAAAAABmLmDK4rs+rV4AfrEELLKV`

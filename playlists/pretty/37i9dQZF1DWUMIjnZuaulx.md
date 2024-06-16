@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\. Cover: <a href="spotify:artist:4rc8nzClXj7sUjvsHVg6AD">Naomi Raine</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,650 likes - 97 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,700 likes - 97 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 29 | [All Yours \(Radio Edit\) \(feat\. Anthony Brown\)](https://open.spotify.com/track/7HPnlHRVAX3uNGkd7zTqlr) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Anthony Brown](https://open.spotify.com/artist/3bOw1pf2tJeMnmalEA7i2o) | [All Yours \(Radio Edit\) \(feat\. Anthony Brown\)](https://open.spotify.com/album/1kEXz6c1DSPl7Gr2rDTecv) | 3:38 |
 | 30 | [I Don't Know What You Came to Do](https://open.spotify.com/track/0VZUMZyUlMibkIjDJfj8tl) | [Fresh Start Worship](https://open.spotify.com/artist/68DSgQk6h3W5oBCsWIgmWG) | [I Don't Know What You Came to Do](https://open.spotify.com/album/31L3iuXAxZ4idS4O8yh4ys) | 2:54 |
 | 31 | [Baptize](https://open.spotify.com/track/0stdRf8zV7vRZwoZaZ2HIK) | [Me’Kayla](https://open.spotify.com/artist/3AKhqrs0V0iRNBOjPKhi5z), [Sir the Baptist](https://open.spotify.com/artist/5kksjhM7NuvwdbisN8smAg), [The HamilTones](https://open.spotify.com/artist/1Nj9dLuiwh4DHn8AIkQyqs) | [Prelude](https://open.spotify.com/album/4z0FehXygMCLEITDShMYQG) | 2:14 |
-| 32 | [Dominion](https://open.spotify.com/track/3Uqb5F6LJOCI9WipwCoTHV) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I) | [Dominion](https://open.spotify.com/album/3UADIpMjM3Dl9W8QWTqm1v) | 8:36 |
+| 32 | [Dominion](https://open.spotify.com/track/3Uqb5F6LJOCI9WipwCoTHV) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [Osby Berry](https://open.spotify.com/artist/7lx0wr5ielfxtapVYT8EzX), [Michael Alexander Todd](https://open.spotify.com/artist/1SaSo4qJjNigo7YNwLyxPV) | [Dominion](https://open.spotify.com/album/3UADIpMjM3Dl9W8QWTqm1v) | 8:36 |
 | 33 | [Love it All](https://open.spotify.com/track/6o31q8H6s4AnIGqw88kQ7N) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Dia Day](https://open.spotify.com/artist/1VlVqLddJC57GJqavMynQ6), [Dedani](https://open.spotify.com/artist/0nWi63z95UXZNmC3wurMfP) | [Love it All](https://open.spotify.com/album/46sVbAB7JHfIMLgAxu2eZs) | 3:17 |
 | 34 | [Up Up Up \- Single Version](https://open.spotify.com/track/08Gac8vZ7kfxJSkDXFqXa8) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w) | [Up Up Up](https://open.spotify.com/album/0CylFxmZ1kFfUKmkyemBb7) | 3:28 |
 | 35 | [Breathe](https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Note To Self](https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw) | 2:52 |

@@ -2,7 +2,7 @@
 
 ### [This Is Banda Carnaval](https://open.spotify.com/playlist/37i9dQZF1DZ06evO408cU0)
 
-> This Is Banda Carnaval\. Los temas esenciales, todos en una lista.
+> This is Banda Carnaval\. The essential tracks, all in one playlist.
 
 97 songs - 5 hr 7 min
 
@@ -43,7 +43,7 @@
 | [Encontrarte](https://open.spotify.com/track/54MQccz1gOXQDrHP0hR6AV) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [La Historia De Mis Manos](https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z) | 3:00 | 2022-06-01 |  |
 | [Entre Ella Y Tú](https://open.spotify.com/track/2HavagLtOTS95ZX8Fmyz6z) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Como No Queriendo](https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ) | 2:32 | 2022-06-01 | 2024-03-13 |
 | [Entre La Lluvia Y Mi Llorar \- En Vivo](https://open.spotify.com/track/2yPC0Jqy4TyU6As3laVefc) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [En Vivo Desde El Rancho San Vicente](https://open.spotify.com/album/4Mg2CoaM5PqRjm7byUonvH) | 2:46 | 2022-12-20 | 2023-05-14 |
-| [Esta Vez Soy Yo](https://open.spotify.com/track/65faC3lVw7RvGuaMv82NxS) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Porque Así Tenía Que Ser](https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk) | 4:13 | 2022-06-01 |  |
+| [Esta Vez Soy Yo](https://open.spotify.com/track/65faC3lVw7RvGuaMv82NxS) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Porque Así Tenía Que Ser](https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk) | 4:13 | 2022-06-01 | 2024-06-16 |
 | [Esta Vida \- En Vivo](https://open.spotify.com/track/0KpDXM7rU7Mbjy7u2ZiAoE) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [En Vivo Desde El Rancho San Vicente](https://open.spotify.com/album/4Mg2CoaM5PqRjm7byUonvH) | 3:37 | 2022-06-01 | 2022-07-30 |
 | [Fibras Sensibles](https://open.spotify.com/track/3ecQDBEjejR0bXp2ZoeYTo) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Fibras Sensibles](https://open.spotify.com/album/1SIOva8bdGwBhujbFfWmUm) | 3:20 | 2022-07-30 |  |
 | [Gente Batallosa](https://open.spotify.com/track/71gk97Oadf8MPN9fCMP9cP) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [El Buen Ejemplo](https://open.spotify.com/album/4FNrB1vD9kdIUQpoTPG5K3) | 2:28 | 2022-06-01 |  |
@@ -84,7 +84,7 @@
 | [Soy Así](https://open.spotify.com/track/5O5vy1yeRas4o7JYgdKPu2) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj), [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Banda Carnaval & Valentín Elizalde](https://open.spotify.com/album/77isjgI5Rz6GNpLvxA4VXm) | 3:36 | 2022-12-13 | 2023-01-16 |
 | [Sueña](https://open.spotify.com/track/6XbAAQ8v3UojztTYdo4jLv) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Porque Así Tenía Que Ser](https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk) | 3:28 | 2022-06-01 |  |
 | [Sálvame](https://open.spotify.com/track/0Wf6gRHcdfnKxDvYo9HPmI) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Sálvame](https://open.spotify.com/album/5SHrspInTsWfV2u8lRUqk3) | 3:35 | 2023-11-10 | 2023-12-20 |
-| [Te Cambio El Domicilio](https://open.spotify.com/track/0ZAt82YCldAohnHnS9h1na) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Hombre De Trabajo](https://open.spotify.com/album/7uIF84opYzXLtE0fX7EVxp) | 2:12 | 2022-06-01 | 2024-06-15 |
+| [Te Cambio El Domicilio](https://open.spotify.com/track/0ZAt82YCldAohnHnS9h1na) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Hombre De Trabajo](https://open.spotify.com/album/7uIF84opYzXLtE0fX7EVxp) | 2:12 | 2022-06-01 |  |
 | [Te Propongo](https://open.spotify.com/track/5ePGMH85WfvJplfjx8Qf2t) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Hombre De Trabajo](https://open.spotify.com/album/7uIF84opYzXLtE0fX7EVxp) | 3:01 | 2022-06-01 | 2022-10-13 |
 | [Te Soñé \(En Vivo\)](https://open.spotify.com/track/2RGQaFUjKxEVBEFzma54YN) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Te Soñé \(En Vivo\)](https://open.spotify.com/album/7DIYjfFkFIAfMBQF66NqKX) | 3:43 | 2024-03-15 |  |
 | [Te Vas Amor \(En Vivo\)](https://open.spotify.com/track/2YHLZsnlSJgVGN7MfNQyVt) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Te Vas Amor \(En Vivo\)](https://open.spotify.com/album/1qKcJWObSOGkvQHvjOilNS) | 2:17 | 2024-03-13 |  |

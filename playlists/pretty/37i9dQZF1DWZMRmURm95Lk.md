@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 
 > Beat e rime, oggi come una volta\. Jangy Leeon, Jack The Smoker e Dani Faiv in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,515 likes - 153 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,517 likes - 153 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

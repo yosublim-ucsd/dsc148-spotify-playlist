@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 
 > This Is Dharius\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,043 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,099 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 | 36 | [Hey Morra](https://open.spotify.com/track/0q7l3V8Hlbwvs2u9UN6w6P) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 3:53 |
 | 37 | [Esto Revienta](https://open.spotify.com/track/0eAgZ5JyKuowgYO9aZYsL9) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Esto Revienta](https://open.spotify.com/album/7sIju5560ZxxmUtY7Ah3bO) | 2:51 |
 | 38 | [La Mision 3](https://open.spotify.com/track/11cBc7p39GKbAzpN8izhbh) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Fermin IV](https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm) | [La Mision 3](https://open.spotify.com/album/5gA4AFEjzYhqv1OxixVOK6) | 4:42 |
-| 39 | [\#LQMQ](https://open.spotify.com/track/2U05xDmQBWf3nY01ZUTLPp) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [\#LQMQ](https://open.spotify.com/album/2wlQGKcIoJ2rm7dvgmTanP) | 3:31 |
+| 39 | [El Perdedor](https://open.spotify.com/track/5QKymytqsCOJX5Jw7vQYCi) | [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Perdedor](https://open.spotify.com/album/0J3NgEahBI5Hst8QJEY821) | 3:48 |
 | 40 | [Te Gustan Malos](https://open.spotify.com/track/6VexUh4HjrQOBEGhLKspoS) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:06 |
-| 41 | [El Perdedor](https://open.spotify.com/track/5QKymytqsCOJX5Jw7vQYCi) | [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Perdedor](https://open.spotify.com/album/0J3NgEahBI5Hst8QJEY821) | 3:48 |
+| 41 | [\#LQMQ](https://open.spotify.com/track/2U05xDmQBWf3nY01ZUTLPp) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [\#LQMQ](https://open.spotify.com/album/2wlQGKcIoJ2rm7dvgmTanP) | 3:31 |
 | 42 | [Polvo Blanco](https://open.spotify.com/track/0pLOQYM1WMrlNtQedapWTM) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx) | [Cuando Todo Acaba](https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU) | 4:29 |
 | 43 | [El After Porky](https://open.spotify.com/track/0floU1nPyzIRi2QaEvm4Bu) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Directo Hasta Arriba](https://open.spotify.com/album/15StyDArmT6s2A3zaiI552) | 3:43 |
 | 44 | [Broche De Oro](https://open.spotify.com/track/6bomSYIzgSeymVS1sdUhsu) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [La Esquina](https://open.spotify.com/album/1AUCWNSatHgDBNYvfthnNa) | 4:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 | 49 | [PLAKATA](https://open.spotify.com/track/3LyM4jvcbsKx8Ps0R2qPSV) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Kami Mami](https://open.spotify.com/artist/52WyfsARd4mYGaH1BBICDG) | [PLAKATA](https://open.spotify.com/album/4TNvAbIvaUZOvHQtNTRyll) | 4:12 |
 | 50 | [WARZONE FREESTYLE](https://open.spotify.com/track/3cXHViSCDDH5m4tWJa2VjI) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [WARZONE FREESTYLE](https://open.spotify.com/album/4IKnvsfuxWYGJIaVUkwC2P) | 3:16 |
 
-Snapshot ID: `Zmo2gAAAAABmXS0ckV/TlWxTR5iSaq/j`
+Snapshot ID: `ZmuIAAAAAABxfAioh7U2qFbEGMbK+0yB`

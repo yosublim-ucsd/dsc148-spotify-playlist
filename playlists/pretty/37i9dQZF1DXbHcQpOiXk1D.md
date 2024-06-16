@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 
 > The best from Britain's vibrant scene\. Cover: Nubiyan Twist
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,853 likes - 75 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,863 likes - 75 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Judas Priest. The essential tracks, all in one playlist.",
-  "num_followers": 165730,
+  "num_followers": 165789,
   "original_name": "This Is Judas Priest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAADFt696JumJPdldiEE81Q8j",
+  "snapshot_id": "ZmuIAAAAAABRM0xCEH9a+wLfWRyNsefa",
   "tracks": [
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Point Of Entry",
-        "url": "https://open.spotify.com/album/02mDd1vg3xHPOxpNYkZIGP"
+        "name": "Screaming For Vengeance",
+        "url": "https://open.spotify.com/album/0V7mTTzioHiYIjfM8ATZBI"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 274866,
-      "name": "Desert Plains",
-      "url": "https://open.spotify.com/track/1zMXCwfwiIGPZA4kq7ideV"
+      "duration_ms": 189733,
+      "name": "Riding on the Wind",
+      "url": "https://open.spotify.com/track/4Myj2cmlFC8tsq9cqj082O"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Screaming For Vengeance",
-        "url": "https://open.spotify.com/album/0V7mTTzioHiYIjfM8ATZBI"
+        "name": "Point Of Entry",
+        "url": "https://open.spotify.com/album/02mDd1vg3xHPOxpNYkZIGP"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 189733,
-      "name": "Riding on the Wind",
-      "url": "https://open.spotify.com/track/4Myj2cmlFC8tsq9cqj082O"
+      "duration_ms": 274866,
+      "name": "Desert Plains",
+      "url": "https://open.spotify.com/track/1zMXCwfwiIGPZA4kq7ideV"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Living After Midnight",
-        "url": "https://open.spotify.com/album/4eoB0NlHD1fentI8ZbXBv5"
+        "name": "Firepower",
+        "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 260160,
-      "name": "The Hellion / Electric Eye",
-      "url": "https://open.spotify.com/track/4LPCfppIoBx8tpW9LrLtWj"
+      "duration_ms": 263973,
+      "name": "Never The Heroes",
+      "url": "https://open.spotify.com/track/2dyoAUok3JghK7dQQeQ2lU"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Firepower",
-        "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
+        "name": "Living After Midnight",
+        "url": "https://open.spotify.com/album/4eoB0NlHD1fentI8ZbXBv5"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 263973,
-      "name": "Never The Heroes",
-      "url": "https://open.spotify.com/track/2dyoAUok3JghK7dQQeQ2lU"
+      "duration_ms": 260160,
+      "name": "The Hellion / Electric Eye",
+      "url": "https://open.spotify.com/track/4LPCfppIoBx8tpW9LrLtWj"
     },
     {
       "added_at": null,

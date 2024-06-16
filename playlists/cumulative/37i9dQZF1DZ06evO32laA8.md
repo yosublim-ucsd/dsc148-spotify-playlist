@@ -2,7 +2,7 @@
 
 ### [This Is Isabel LaRosa](https://open.spotify.com/playlist/37i9dQZF1DZ06evO32laA8)
 
-> This is Isabel LaRosa。アーティストの代表曲をひとつのプレイリストに。
+> This is Isabel LaRosa\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
 20 songs - 48 min 4 sec
 

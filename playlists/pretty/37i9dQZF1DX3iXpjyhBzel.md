@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 
 > A música certa para o seu momento de adoração\. Foto: Gabriela Rocha
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,052,746 likes - 100 songs - 10 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,052,976 likes - 100 songs - 10 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

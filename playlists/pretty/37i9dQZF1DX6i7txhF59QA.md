@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 
 > Let's party with cheerful Korean trot medley\. Cover: Son Tae Jin\(손태진\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,766 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,775 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

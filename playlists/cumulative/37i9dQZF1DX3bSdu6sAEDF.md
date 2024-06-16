@@ -10,7 +10,7 @@
 |---|---|---|---|---|---|
 | [\(Trust Me Now\) I'm Fine](https://open.spotify.com/track/13B8K60ppDcg8MjlvN0Bb9) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [\(Trust Me Now\) I'm Fine](https://open.spotify.com/album/6bfXbubGntyDwedi7dlq5N) | 3:16 | 2024-01-05 |  |
 | [12345](https://open.spotify.com/track/0fxUGOzBYJGKgs5ZKw1Em5) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Egg in the Backseat](https://open.spotify.com/album/1iHhuUxL99xxbDjlLwHV8W) | 2:44 | 2022-07-22 | 2023-08-26 |
-| [23](https://open.spotify.com/track/5ctdVr5OyY7dZZhcsFeK9W) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [23](https://open.spotify.com/album/2MqqJKk8mBYUBtYLZr9B0g) | 3:11 | 2023-10-20 |  |
+| [23](https://open.spotify.com/track/5ctdVr5OyY7dZZhcsFeK9W) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [23](https://open.spotify.com/album/2MqqJKk8mBYUBtYLZr9B0g) | 3:09 | 2023-10-20 |  |
 | [23](https://open.spotify.com/track/4PuAqZlL1tkidkuxfDlLbF) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [23](https://open.spotify.com/album/3i5LIueVgxjgCu1TIZOraP) | 2:59 | 2022-01-19 | 2024-01-20 |
 | [30,000 Feet](https://open.spotify.com/track/0KF5nzdiqZlxVK68MPITst) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [Brand New](https://open.spotify.com/album/4XYWS04Kkk8X1NiUR08Cpi) | 4:16 | 2021-08-05 | 2022-01-20 |
 | [911](https://open.spotify.com/track/2JdhkE7xcEhfk7B646bdG8) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [911](https://open.spotify.com/album/0GxclqIrIal5mWf9vrxnv4) | 2:46 | 2022-01-19 |  |

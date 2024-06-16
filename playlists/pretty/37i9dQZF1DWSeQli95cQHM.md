@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 
 > Na música eletrônica underground brasileira, nos vemos no front.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,671 likes - 50 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,679 likes - 50 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

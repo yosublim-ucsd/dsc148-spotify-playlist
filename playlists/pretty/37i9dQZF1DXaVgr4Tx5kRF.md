@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 
 > The songs that defined a golden era of British indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,673 likes - 65 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,746 likes - 65 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 64 | [Sit Down](https://open.spotify.com/track/3idthQ24V2aPRcthv7Aq5o) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [Gold Mother](https://open.spotify.com/album/47lo706CUDxRCsQNSADyd6) | 4:04 |
 | 65 | [Disco 2000](https://open.spotify.com/track/7ec55GDkRIBmsI8XKrG1lu) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class / Deluxe Edition](https://open.spotify.com/album/1W0fmt3UzzyxvzRqvHoNFw) | 4:33 |
 
-Snapshot ID: `Zipa5wAAAABYRwE0o97/uLiqodnnXTkS`
+Snapshot ID: `Zm5GYAAAAAARto6ZwgF3NZWhwvg2VFgS`

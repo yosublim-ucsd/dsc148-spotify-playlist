@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3omIq8ziEt6.md) - [plain]
 
 > Timeless Latin hits\. Cover: KAROL G & Shakira.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,893,042 likes - 150 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,893,077 likes - 150 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

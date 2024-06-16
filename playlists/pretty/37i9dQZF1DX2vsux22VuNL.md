@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 
 > Aquele som que é pura brisa\. 🍃 Foto: Lourena, MC Hariel
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,273 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,259 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

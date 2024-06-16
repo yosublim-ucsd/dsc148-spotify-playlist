@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nBpII.md) - [plain]
 
 > This is Green Day\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,043,579 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,043,852 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nBpII.md) - [plain]
 | 16 | [Jesus of Suburbia](https://open.spotify.com/track/58KPPL1AdLHMvR2O2PZejr) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 9:08 |
 | 17 | [One Eyed Bastard](https://open.spotify.com/track/3DFEPRUIPY1jszRZR5jHNu) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 2:52 |
 | 18 | [Hitchin' a Ride](https://open.spotify.com/track/6WlmA3HPHuNIR2mxI8LkZF) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:51 |
-| 19 | [Longview](https://open.spotify.com/track/3LRJbFT9rKoKv4aW7PuBJC) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 3:53 |
+| 19 | [Burnout](https://open.spotify.com/track/7dVDWf0wud70V4PgYfKnaG) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 2:07 |
 | 20 | [Minority](https://open.spotify.com/track/4qjfQnccStTR8zNsb6Mizo) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Warning](https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB) | 2:48 |
 | 21 | [Look Ma, No Brains!](https://open.spotify.com/track/6zypPV86f8oALbijmqDsrv) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 2:03 |
 | 22 | [Still Breathing](https://open.spotify.com/track/19YmvsVCetCBeVj6O2mljR) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 3:44 |
-| 23 | [Burnout](https://open.spotify.com/track/7dVDWf0wud70V4PgYfKnaG) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 2:07 |
+| 23 | [Coming Clean](https://open.spotify.com/track/435j8ueVosOip0Vjm3vvj5) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 1:34 |
 | 24 | [Waiting](https://open.spotify.com/track/390SemxFYgPZ3FfGVqiIqt) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Warning](https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB) | 3:12 |
 | 25 | [Bobby Sox](https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:44 |
 | 26 | [Whatsername](https://open.spotify.com/track/6CVWD0WRqwbR4HsiKHk1j3) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 4:17 |
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nBpII.md) - [plain]
 | 33 | [Goodnight Adeline](https://open.spotify.com/track/5oi7EJnwhDhqs4FJ2ewry7) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 2:56 |
 | 34 | [Redundant](https://open.spotify.com/track/0GYTAipuswOBWFtk06kFCL) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 3:18 |
 | 35 | [Bang Bang](https://open.spotify.com/track/278Ao6KQDxWGGszv24uvhI) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 3:25 |
-| 36 | [Walking Contradiction](https://open.spotify.com/track/5Mhe8G8RHdQWR30lStPvO5) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Insomniac](https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d) | 2:31 |
-| 37 | [Macy's Day Parade](https://open.spotify.com/track/3zca0nsKOLnN28ftZEXAQn) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Warning](https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB) | 3:33 |
+| 36 | [Macy's Day Parade](https://open.spotify.com/track/3zca0nsKOLnN28ftZEXAQn) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Warning](https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB) | 3:33 |
+| 37 | [Walking Contradiction](https://open.spotify.com/track/5Mhe8G8RHdQWR30lStPvO5) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Insomniac](https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d) | 2:31 |
 | 38 | [The Grouch](https://open.spotify.com/track/3N5wUrnulGRc9LLSz0rQFb) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:12 |
 | 39 | [When It's Time](https://open.spotify.com/track/5nGCVIpxp0u4AYpVpK0pv4) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot \- The Original Broadway Cast Recording](https://open.spotify.com/album/1wO2srr9om17YtEvouoBue) | 3:23 |
 | 40 | [Last of the American Girls](https://open.spotify.com/track/5Rjm3VIMlxAEIEy5gU2bF7) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [21st Century Breakdown](https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79) | 3:51 |
 | 41 | [I Think We're Alone Now](https://open.spotify.com/track/4gZYdWV1sVNmYkkAr2rRgW) | [Billie Joe Armstrong](https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [No Fun Mondays](https://open.spotify.com/album/6pjuzPdAkJPdNBiKzcloXL) | 2:14 |
-| 42 | [Jaded](https://open.spotify.com/track/6uWp8yAt8dN5ZaT7REJ6RV) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Insomniac](https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d) | 1:30 |
-| 43 | [Scattered](https://open.spotify.com/track/2iP4gsbex3yX32fC0kcwMV) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 3:02 |
+| 42 | [Oh Love](https://open.spotify.com/track/1qIgyDoc2rwtq8w49jeWL8) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [¡UNO!](https://open.spotify.com/album/6AFJIZmd1zWQDBBwHyeo9w) | 5:03 |
+| 43 | [Jaded](https://open.spotify.com/track/6uWp8yAt8dN5ZaT7REJ6RV) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Insomniac](https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d) | 1:30 |
 | 44 | [¿Viva La Gloria? \(Little Girl\)](https://open.spotify.com/track/2mnk1GHN0XmznKiucY4ZW4) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [21st Century Breakdown](https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79) | 3:47 |
-| 45 | [The Saints Are Coming](https://open.spotify.com/track/2OqCyO684ShnEOqFQieN3Z) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [The Saints Are Coming](https://open.spotify.com/album/3s9hW1Wjsxf2LDyIa9J0il) | 3:22 |
-| 46 | [Geek Stink Breath](https://open.spotify.com/track/4mI4HF4OVBg3tl2IWzSaoX) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Insomniac](https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d) | 2:15 |
-| 47 | [Father of All...](https://open.spotify.com/track/17C1AVZVh5jhJU4eAcovpl) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Father of All...](https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE) | 2:31 |
-| 48 | [21st Century Breakdown](https://open.spotify.com/track/0RT1qESYHlNcUJI0Yo5Hzl) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [21st Century Breakdown](https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79) | 5:09 |
+| 45 | [Scattered](https://open.spotify.com/track/2iP4gsbex3yX32fC0kcwMV) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 3:02 |
+| 46 | [The Saints Are Coming](https://open.spotify.com/track/2OqCyO684ShnEOqFQieN3Z) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [The Saints Are Coming](https://open.spotify.com/album/3s9hW1Wjsxf2LDyIa9J0il) | 3:22 |
+| 47 | [Geek Stink Breath](https://open.spotify.com/track/4mI4HF4OVBg3tl2IWzSaoX) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Insomniac](https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d) | 2:15 |
+| 48 | [Father of All...](https://open.spotify.com/track/17C1AVZVh5jhJU4eAcovpl) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Father of All...](https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE) | 2:31 |
 | 49 | [2000 Light Years Away](https://open.spotify.com/track/6pM25DLzJb5oWj74d3ElXI) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Kerplunk!](https://open.spotify.com/album/1UShup0VvfxhxS7j3Omxh2) | 2:24 |
-| 50 | [Stuck with Me](https://open.spotify.com/track/0CXOYEN8m6MuyVY0F1vJTb) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Insomniac](https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d) | 2:15 |
+| 50 | [Boulevard of Broken Dreams \(feat\. John Gallagher Jr., Rebecca Naomi Jones, Stark Sands, The American Idiot Broadway Company\)](https://open.spotify.com/track/41pFyxOpS119Pb8JEzhx0w) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot \- The Original Broadway Cast Recording](https://open.spotify.com/album/1wO2srr9om17YtEvouoBue) | 4:22 |
 
-Snapshot ID: `Zmo2gAAAAACAEk/RXMyjA+qtnwk+FmMj`
+Snapshot ID: `ZmuIAAAAAAAbGrJWsmOvZZ3quOwt1LJu`

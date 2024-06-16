@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7efntgEZlGn.md) - [plain]
 
 > Fresh Gospel tracks to make you move and bop your head in Praise
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,501 likes - 51 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,507 likes - 51 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7efntgEZlGn.md) - [plain]
 | 3 | [Tembea](https://open.spotify.com/track/6UrjlQls3bB7lXtfsMLnb7) | [HopeKid](https://open.spotify.com/artist/3MZDn7MH1suAOBBp9VioKG), [Phyllis Mbuthia](https://open.spotify.com/artist/2Gmusr1VjYGXRYJ7uib6Ii) | [Tembea](https://open.spotify.com/album/2ydl5E3CtrBhi0dAInUiCt) | 3:07 |
 | 4 | [moyo unauma](https://open.spotify.com/track/7e9AVrgGiIyfYa7TNJhhyo) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [moyo unauma](https://open.spotify.com/album/1hUJ2wPQ5Rl2VwYYxFVIHc) | 3:28 |
 | 5 | [Cheza Gospel](https://open.spotify.com/track/23QRgJ0c7GmQens8wuX9N3) | [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn) | [Cheza Gospel](https://open.spotify.com/album/2VH1TToc1g3wnCzl3cGIM7) | 3:34 |
-| 6 | [Wewe \- Live](https://open.spotify.com/track/0XuoAKfrbyTIJ8fO0w3nLe) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [STRIP'T \(live at the bedroom edition\)](https://open.spotify.com/album/45BijZynxXNTWuwXpWhTe0) | 6:23 |
+| 6 | [Wewe \- Live](https://open.spotify.com/track/0XuoAKfrbyTIJ8fO0w3nLe) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [STRIP'T \(Live at The Bedroom Edition\)](https://open.spotify.com/album/45BijZynxXNTWuwXpWhTe0) | 6:23 |
 | 7 | [Zungusha](https://open.spotify.com/track/2IzGYWr08ntzKVeQ1fTvue) | [Jabidii](https://open.spotify.com/artist/67NSWMQJx1JvJ6su9fACTU) | [Zungusha](https://open.spotify.com/album/09i9zQr2d7m5rxiXCgtAKp) | 2:36 |
 | 8 | [Mungu Ni Upendo \(feat\. Pitson\)](https://open.spotify.com/track/0BPriVJeWjmo3ugIVkN2vw) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie), [Pitson](https://open.spotify.com/artist/4eck3OWpx2oKPgHeSSgsMM) | [Mungu Ni Upendo \(feat\. Pitson\)](https://open.spotify.com/album/3rxqx10BOlKbhcu4RkWcGS) | 3:16 |
 | 9 | [Find Me Here \(Blessings Find Me\) \- Afropop Remix](https://open.spotify.com/track/7tXZWxisWNZ0f0oTqjsvpK) | [Sherwin Gardner](https://open.spotify.com/artist/3Dvmmnxs0w0LNL9hoCPQKW), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Find Me Here \(Blessings Find Me\) \[Afropop Remix\]](https://open.spotify.com/album/6VDOkiaNd2gUGN7IuBjYMz) | 2:44 |

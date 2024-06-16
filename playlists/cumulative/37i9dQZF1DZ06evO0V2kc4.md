@@ -2,7 +2,7 @@
 
 ### [This Is Joan Baez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0V2kc4)
 
-> This is: Joan Baez\. Alle wichtigen Tracks in einer Playlist.
+> This is Joan Baez\. The essential tracks, all in one playlist.
 
 91 songs - 5 hr 32 min
 
@@ -27,8 +27,8 @@
 | [De Colores](https://open.spotify.com/track/78I82909V5pLKRmRfKiGAG) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gracias A La Vida \(Here's To Life\)](https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7) | 2:29 | 2022-09-22 |  |
 | [Diamonds & Rust](https://open.spotify.com/track/3mq4d0XatVGY7vOMIhUBEz) | [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn), [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Paradise](https://open.spotify.com/album/2fm8pHor9hd3t6szmNZv1x) | 3:35 | 2022-09-24 |  |
 | [Diamonds And Rust](https://open.spotify.com/track/4O0sGJdqpHMaWz7KoVd7tb) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 4:46 | 2022-09-22 |  |
-| [Don't Think Twice, It's All Right](https://open.spotify.com/track/3ORn0rgu27z7hlnNgvYWse) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The First 10 Years](https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn) | 3:09 | 2022-09-22 |  |
-| [Donna Donna](https://open.spotify.com/track/49uBVeaM3ixGD8VIeqh9KI) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 3:12 | 2022-09-29 | 2024-05-19 |
+| [Don't Think Twice, It's All Right](https://open.spotify.com/track/3ORn0rgu27z7hlnNgvYWse) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The First 10 Years](https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn) | 3:09 | 2022-09-22 | 2024-06-16 |
+| [Donna Donna](https://open.spotify.com/track/49uBVeaM3ixGD8VIeqh9KI) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 3:12 | 2022-09-29 |  |
 | [East Virginia](https://open.spotify.com/track/7cOXUx0Q5PYafyNFriFajr) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 3:43 | 2022-10-07 | 2024-06-06 |
 | [El Preso Numero Nueve](https://open.spotify.com/track/27LWYN5H4rfXlRz1vFNm63) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 2:50 | 2022-09-29 | 2023-02-28 |
 | [El Preso Numero Nueve](https://open.spotify.com/track/68GlMzT0rj2xpUzDetTbA4) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gracias A La Vida \(Here's To Life\)](https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7) | 3:24 | 2023-08-21 |  |
@@ -47,7 +47,7 @@
 | [Guantanamera](https://open.spotify.com/track/6cef8uDKAs49T2SCwwxQ1t) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gracias A La Vida \(Here's To Life\)](https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7) | 3:54 | 2022-09-22 |  |
 | [Hello In There](https://open.spotify.com/track/5T0sb6FbmtLkOkAW08Wfqs) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 3:04 | 2022-09-22 |  |
 | [Help Me Make It Through The Night](https://open.spotify.com/track/7I2pfu7qdqdS0SuLefaFe1) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Blessed Are...](https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye) | 3:02 | 2022-09-22 |  |
-| [Here's To You](https://open.spotify.com/track/5Q7BIxJApyZUjZCIDXyvam) | [Nana Mouskouri](https://open.spotify.com/artist/6p7iFdv6Wn9iaS7AwVLvod), [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Rendez\-Vous](https://open.spotify.com/album/0p8oaAVdEEG7XT7oSZVGtV) | 3:01 | 2024-05-22 | 2024-06-15 |
+| [Here's To You](https://open.spotify.com/track/5Q7BIxJApyZUjZCIDXyvam) | [Nana Mouskouri](https://open.spotify.com/artist/6p7iFdv6Wn9iaS7AwVLvod), [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Rendez\-Vous](https://open.spotify.com/album/0p8oaAVdEEG7XT7oSZVGtV) | 3:01 | 2024-05-22 |  |
 | [Here's to you \(feat\. Joan Baez\)](https://open.spotify.com/track/0o7aA8TNb6zHreGzcDsSU1) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C), [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Sacco e Vanzetti \(Original Motion Picture Soundtrack\) \[Remastered\]](https://open.spotify.com/album/5Kh97XNvwMEk6hl4ZrOtKK) | 3:08 | 2022-09-22 |  |
 | [Honest Lullaby](https://open.spotify.com/track/7053WQcYuZ9B8hoJ25wHN6) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Honest Lullaby](https://open.spotify.com/album/3o4lNwGYID49P7xTQoBcYd) | 4:01 | 2023-05-02 | 2023-08-31 |
 | [House Of The Rising Sun](https://open.spotify.com/track/3AuVZyDw1VhjjLfHZR4ba3) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 2:56 | 2022-09-24 | 2024-06-10 |
@@ -89,7 +89,7 @@
 | [Sweet Sir Galahad](https://open.spotify.com/track/0wVsSz391qR4eORwDy3Xvg) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The First 10 Years](https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn) | 3:43 | 2022-09-22 |  |
 | [The Boxer](https://open.spotify.com/track/2wdvaWg7mqmLUDVYLOrKVJ) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Joan Baez 75th Birthday Celebration](https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl) | 7:25 | 2022-09-22 |  |
 | [The Lily Of The West](https://open.spotify.com/track/5PLaAHbGpQ8DVfChRG2y2b) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez, Vol\. Ii](https://open.spotify.com/album/05okUkdZoQT6MgJsfN7kwg) | 3:20 | 2022-09-22 | 2022-10-11 |
-| [The Night They Drove Old Dixie Down](https://open.spotify.com/track/0uHYplBhwLYey7f9qAmnSM) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Blessed Are...](https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye) | 3:26 | 2022-09-22 |  |
+| [The Night They Drove Old Dixie Down](https://open.spotify.com/track/0uHYplBhwLYey7f9qAmnSM) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Blessed Are...](https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye) | 3:26 | 2022-09-22 | 2024-06-16 |
 | [The Salt Of The Earth](https://open.spotify.com/track/41OQeafHEeLpySghyWgUtC) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Blessed Are...](https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye) | 3:25 | 2022-09-22 | 2022-10-13 |
 | [The Water Is Wide](https://open.spotify.com/track/1wn4WMOzOZo9PXAJdDlcGS) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm), [Indigo Girls](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG), [Mary Chapin Carpenter](https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr) | [Joan Baez 75th Birthday Celebration](https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl) | 5:04 | 2022-11-04 |  |
 | [The Wild Mountain Thyme](https://open.spotify.com/track/6t5Z3MLqcNu471STaCpGPj) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Farewell, Angelina](https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun) | 4:37 | 2022-09-22 |  |

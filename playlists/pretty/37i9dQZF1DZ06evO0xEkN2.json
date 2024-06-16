@@ -1,12 +1,12 @@
 {
   "description": "This Is Panteon Rococo. Los temas esenciales, todos en una lista.",
-  "num_followers": 214863,
+  "num_followers": 214923,
   "original_name": "This Is Panteon Rococo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAADFD6SgaByTtm/2V2OYCh+k",
+  "snapshot_id": "ZmuIAAAAAAATANv3fQsvB+XRFJKasr2B",
   "tracks": [
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infiernos",
-        "url": "https://open.spotify.com/album/6EcnCS0DRha1RYCYmmnOn1"
+        "name": "XX A\u00f1os (En Vivo)",
+        "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 247680,
-      "name": "Botellas",
-      "url": "https://open.spotify.com/track/4Wq399KYm69pDbK1XjFniT"
+      "duration_ms": 161946,
+      "name": "Hostilidades - En Vivo",
+      "url": "https://open.spotify.com/track/6h0bu1UFTCDYP0wicZPoum"
     },
     {
       "added_at": null,
@@ -439,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "XX A\u00f1os (En Vivo)",
-        "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
+        "name": "Infiernos",
+        "url": "https://open.spotify.com/album/6EcnCS0DRha1RYCYmmnOn1"
       },
       "artists": [
         {
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 161946,
-      "name": "Hostilidades - En Vivo",
-      "url": "https://open.spotify.com/track/6h0bu1UFTCDYP0wicZPoum"
+      "duration_ms": 247680,
+      "name": "Botellas",
+      "url": "https://open.spotify.com/track/4Wq399KYm69pDbK1XjFniT"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tres Veces Tres",
-        "url": "https://open.spotify.com/album/6kDnUJJlq5qQmUwJqPKYtS"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 259906,
-      "name": "Busc\u00e1ndote (Paraguayito Dub)",
-      "url": "https://open.spotify.com/track/3APFukPC9NZHmBxbNf3u0n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "XX A\u00f1os (En Vivo)",
         "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 222746,
       "name": "Mar\u00eda (feat. To\u00f1o Lira) - En Vivo",
       "url": "https://open.spotify.com/track/5Frqok1Wj7ljQJX7hBx23B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tres Veces Tres",
+        "url": "https://open.spotify.com/album/6kDnUJJlq5qQmUwJqPKYtS"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 259906,
+      "name": "Busc\u00e1ndote (Paraguayito Dub)",
+      "url": "https://open.spotify.com/track/3APFukPC9NZHmBxbNf3u0n"
     },
     {
       "added_at": null,

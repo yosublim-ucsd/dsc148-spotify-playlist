@@ -4,7 +4,7 @@
 
 > This is My Chemical Romance\. The essential tracks, all in one playlist.
 
-49 songs - 3 hr 4 min
+50 songs - 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Headfirst for Halos](https://open.spotify.com/track/51VwpPzxUd6g94iELptagU) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [I Brought You My Bullets, You Brought Me Your Love](https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605) | 3:28 | 2022-10-25 |  |
 | [Heaven Help Us](https://open.spotify.com/track/7D50nnDRmIkn3D9xnmhCXk) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Welcome to the Black Parade](https://open.spotify.com/album/5tGLTaU1mDDxEfXo89iFKz) | 2:54 | 2022-10-25 |  |
 | [Helena](https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:24 | 2022-10-25 |  |
+| [Helena](https://open.spotify.com/track/3ZaS7Bcz9tpFIjfst63tSw) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [May Death Never Stop You](https://open.spotify.com/album/1SIpLwZu1R69coxKMH06kw) | 3:25 | 2024-06-16 |  |
 | [Honey, This Mirror Isn't Big Enough for the Two of Us](https://open.spotify.com/track/5gNVTfD1L6QrPgOf0wFo0q) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [I Brought You My Bullets, You Brought Me Your Love](https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605) | 3:51 | 2022-10-25 |  |
 | [I Don't Love You](https://open.spotify.com/track/4RAOI1etsgbh5NP3T5R8rN) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 3:58 | 2022-10-25 |  |
 | [I'm Not Okay \(I Promise\)](https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:06 | 2022-10-25 |  |
@@ -52,7 +53,7 @@
 | [The Light Behind Your Eyes](https://open.spotify.com/track/3HyDpKAuR3e4l6QB7hSB2l) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Number Three](https://open.spotify.com/album/4pE8Bo9MYWMvc8JfYr5v5E) | 5:12 | 2022-10-25 |  |
 | [The World Is Ugly](https://open.spotify.com/track/6VtcgrVYo2xfygcWAfRpd1) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Number Three](https://open.spotify.com/album/4pE8Bo9MYWMvc8JfYr5v5E) | 4:54 | 2022-10-25 |  |
 | [Tomorrow's Money](https://open.spotify.com/track/5gqpaxUlKUuOeqxfj8H1L8) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Number One](https://open.spotify.com/album/2RCPu5qyaDPWIeWdy4WJCU) | 3:16 | 2023-05-15 |  |
-| [Under Pressure](https://open.spotify.com/track/4j08A1efdJcVINBHSmQKPS) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Under Pressure](https://open.spotify.com/album/3yeNEy2TFt4hvtQ6sRichS) | 3:31 | 2022-10-25 |  |
+| [Under Pressure](https://open.spotify.com/track/4j08A1efdJcVINBHSmQKPS) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Under Pressure](https://open.spotify.com/album/3yeNEy2TFt4hvtQ6sRichS) | 3:31 | 2022-10-25 | 2024-06-16 |
 | [Vampire Money](https://open.spotify.com/track/4kXHIm097G3CemN3PzcpgL) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Danger Days: The True Lives of the Fabulous Killjoys](https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr) | 3:38 | 2022-10-25 |  |
 | [Vampires Will Never Hurt You](https://open.spotify.com/track/7J4uwuiyWB7BqIcyNdcVRl) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [I Brought You My Bullets, You Brought Me Your Love](https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605) | 5:26 | 2022-10-25 |  |
 | [Welcome to the Black Parade](https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 5:11 | 2022-10-25 |  |

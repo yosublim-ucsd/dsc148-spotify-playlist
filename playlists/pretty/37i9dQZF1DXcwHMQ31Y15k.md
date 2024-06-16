@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Lavora
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,530 likes - 109 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,613 likes - 109 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

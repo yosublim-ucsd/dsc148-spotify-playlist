@@ -2,7 +2,7 @@
 
 ### [This Is Ghost](https://open.spotify.com/playlist/37i9dQZF1DZ06evO12mjqo)
 
-> This Is Ghost\. Los temas esenciales, todos en una lista.
+> This is Ghost\. The essential tracks, all in one playlist.
 
 80 songs - 6 hr 0 min
 
@@ -33,7 +33,7 @@
 | [Ghuleh / Zombie Queen](https://open.spotify.com/track/4yrxgaL6zAsxkeMCwCtORS) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Infestissumam \(Deluxe Version\)](https://open.spotify.com/album/2HlryLawoMpHGIcuDJDfQr) | 7:29 | 2022-05-30 | 2023-06-22 |
 | [Griftwood](https://open.spotify.com/track/74gUN3LUQhqzfTLAP09ejk) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 5:16 | 2022-12-21 |  |
 | [Hanging Around](https://open.spotify.com/track/6OBdX7cxnza92DAzFnFBQb) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Phantomime](https://open.spotify.com/album/3FC7LwzvrDakmJqkGLlXbR) | 4:09 | 2023-05-20 |  |
-| [He Is](https://open.spotify.com/track/6NFKy0jg3S6x380iuF47jX) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/7wcMxzlZFIxccoeiSix0O2) | 4:13 | 2022-05-30 |  |
+| [He Is](https://open.spotify.com/track/6NFKy0jg3S6x380iuF47jX) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/7wcMxzlZFIxccoeiSix0O2) | 4:13 | 2022-05-30 | 2024-06-16 |
 | [Hunter’s Moon](https://open.spotify.com/track/2jfQ2g1q0w8tbjN46rLpr2) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 3:16 | 2022-05-30 |  |
 | [I Believe](https://open.spotify.com/track/0quRJVHIYA7nqC3WFvFW3s) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD) | 4:06 | 2022-06-05 | 2024-04-29 |
 | [I Believe](https://open.spotify.com/track/5a6XgGtGrCjE7qJ5qPtFZd) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/2uaQ1K2eSqaWeVQRXeuGdN) | 4:06 | 2023-05-31 |  |

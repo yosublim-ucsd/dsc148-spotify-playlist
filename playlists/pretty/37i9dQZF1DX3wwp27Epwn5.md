@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 
 > Train insane with these Bollywood tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,844 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,909 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 | 49 | [Urvashi](https://open.spotify.com/track/342pJxy678kgQrZXCL9RG7) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Urvashi](https://open.spotify.com/album/7gXEynlmX5QMPN4ZgyxMso) | 3:35 |
 | 50 | [High Rated Gabru](https://open.spotify.com/track/4dJWik0ax9bRFXl0HqbFjT) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL) | [Nawabzaade](https://open.spotify.com/album/5cExHIssPauI1CN9fwxkOk) | 2:59 |
 
-Snapshot ID: `Zmao9gAAAADnTu+JjPExwFEHq6xwFjjc`
+Snapshot ID: `Zm2NewAAAACLnL5obJY6l8qSf9Y65d7J`

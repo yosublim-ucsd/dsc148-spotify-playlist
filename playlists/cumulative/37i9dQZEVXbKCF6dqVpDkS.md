@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-1,530 songs - 3 day 7 hr 59 min
+1,532 songs - 3 day 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -873,6 +873,7 @@
 | [Mastermind](https://open.spotify.com/track/7FmYn9e7KHMXcxqGSj9LjH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:11 | 2022-10-24 | 2022-10-26 |
 | [Mastermind](https://open.spotify.com/track/7zcJSflhqcSGICHUjgncnj) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/4moVP48t9bji7djUc5VOvi) | 3:11 | 2022-10-22 | 2022-10-24 |
 | [Mata Hari](https://open.spotify.com/track/3wuvVwA5RaifHz1uqKac8P) | [Efendi](https://open.spotify.com/artist/4oe1qp9xGSFxMYH4X9AXtl) | [Mata Hari](https://open.spotify.com/album/2qAJL1ffzMUKu3quKRoMwi) | 2:40 | 2021-05-25 | 2021-05-31 |
+| [Matchday](https://open.spotify.com/track/4peow9pJx76ZvS5FtzGo5H) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Matchday](https://open.spotify.com/album/7o1TBmwLGf3zrBYXlvd8V0) | 2:30 | 2024-06-15 |  |
 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2022-05-21 | 2023-06-10 |
 | [Medicijn](https://open.spotify.com/track/4tiwXaa1ZYEg6gvwoUCEyw) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Medicijn](https://open.spotify.com/album/4OzGI1Vjby4m2IJYQFcSgS) | 3:00 | 2024-05-11 | 2024-05-13 |
 | [Meer Niet Minder](https://open.spotify.com/track/6ZLenpFuI8pxKkqmi2feSj) | [Schoppenvier](https://open.spotify.com/artist/2G4yKSjBFu05HsEkxkYZwV) | [Meer Niet Minder](https://open.spotify.com/album/5iZ9vkNLhGfQvAYTgJVP6o) | 2:25 | 2023-12-09 | 2023-12-12 |
@@ -893,7 +894,7 @@
 | [MIJ ZIJN](https://open.spotify.com/track/0vxrr6DoV0k1xoM0rX3b2q) | [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [MIJ ZIJN](https://open.spotify.com/album/46zQHhhOG0BqZ3t0HBcn22) | 3:18 | 2022-02-12 | 2022-02-27 |
 | [MIJ ZIJN](https://open.spotify.com/track/5EGFR2wHMboCeQHWaEbjlM) | [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [PRIX D'AMI](https://open.spotify.com/album/7Jxzu0TIVcjqKghPNiyUGd) | 3:18 | 2022-02-26 | 2022-03-04 |
 | [Mijn Kleine Presidentje](https://open.spotify.com/track/5Vrrxddu2CDh1wfysRPZJZ) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Mijn Kleine Presidentje](https://open.spotify.com/album/5lwBvsRmcXhtIVVWQFqDJh) | 3:22 | 2022-03-29 | 2022-05-08 |
-| [MILLION DOLLAR BABY](https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54) | 2:35 | 2024-06-05 |  |
+| [MILLION DOLLAR BABY](https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54) | 2:35 | 2024-06-05 | 2024-06-16 |
 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-05-08 | 2024-06-06 |
 | [Mindset](https://open.spotify.com/track/2eoPZGxGB7YhIT8xGBhEN0) | [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Recklezz](https://open.spotify.com/album/2SQP0maBlv8QZunwPVfE3P) | 3:46 | 2022-11-19 | 2022-11-25 |
 | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx) | 3:06 | 2023-03-18 | 2023-10-08 |
@@ -915,6 +916,7 @@
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/2Hjcfw8zHN4dJDZJGOzLd6) | 2:17 | 2021-04-14 | 2021-09-05 |
 | [Mood](https://open.spotify.com/track/4k6yZRw7M04gZE2uW12Cw6) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN) | [Mood](https://open.spotify.com/album/0of66YXURMrVzhAVkYNDeO) | 2:31 | 2022-08-22 | 2022-11-20 |
 | [Moon](https://open.spotify.com/track/2Rd4eJ4KwXQQn2sMSToyUM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:36 | 2021-08-31 | 2021-09-04 |
+| [More Pretty Girls](https://open.spotify.com/track/5cXQQa5G0hyc6m5Mk1rM2i) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [More Pretty Girls](https://open.spotify.com/album/4WwnvAPqTcwcBBd4kuMkx0) | 3:18 | 2024-06-15 |  |
 | [More Time](https://open.spotify.com/track/2wzionesqIt3x5Sglb4n91) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 2:00 | 2021-07-18 | 2021-07-19 |
 | [Morgen Wordt Fantastisch](https://open.spotify.com/track/2UI9rmmINuXVWeOrprjWBy) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Morgen Wordt Fantastisch](https://open.spotify.com/album/2gwvQ8E4bcZbua78zLrj61) | 2:38 | 2023-03-25 | 2023-06-07 |
 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame](https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK) | 3:54 | 2021-10-23 | 2022-04-03 |
@@ -1256,7 +1258,7 @@
 | [Step Into Christmas \- Remastered 1995](https://open.spotify.com/track/11P4sSu6BH2lAbWk1sL6cK) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou \(Remastered 1995\)](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 4:32 | 2023-12-25 | 2023-12-30 |
 | [Sterrenstof](https://open.spotify.com/track/4PW9WvbhNlrFoThvc7zheh) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [De Lachende Derde](https://open.spotify.com/album/11rfbdYl1pFjo4sVoPWuKB) | 3:40 | 2024-01-01 | 2024-01-04 |
 | [Sterrenstof](https://open.spotify.com/track/7D5vAulNfrQV6xEwzgH0OF) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [De Lachende Derde](https://open.spotify.com/album/2xBEH6Yx2yaKVJNljOW2V4) | 3:40 | 2022-01-01 | 2023-04-30 |
-| [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 | 2023-11-10 |  |
+| [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 | 2023-11-10 | 2024-06-16 |
 | [Sticky](https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:03 | 2022-06-18 | 2022-06-25 |
 | [Stiekem](https://open.spotify.com/track/4fWyBvLIPO68D2Ff87t1em) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU), [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Leven](https://open.spotify.com/album/7CDXtPqw2B36tlBnvI912N) | 3:23 | 2022-11-05 | 2024-05-01 |
 | [Stiekem ‘24](https://open.spotify.com/track/1FdncxahefhSPAE1npIMCk) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Stiekem ‘24](https://open.spotify.com/album/7qSfiZ1AVuuOci1fjEXMQr) | 3:08 | 2024-05-11 |  |

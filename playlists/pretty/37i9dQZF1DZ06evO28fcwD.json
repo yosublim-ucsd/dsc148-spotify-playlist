@@ -1,12 +1,12 @@
 {
   "description": "This is Ladysmith Black Mambazo. The essential tracks, all in one playlist.",
-  "num_followers": 27820,
+  "num_followers": 27822,
   "original_name": "This Is Ladysmith Black Mambazo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAAA4fbG70IXK5kkg4n26kucf",
+  "snapshot_id": "ZmuIAAAAAAC472gGebg/tt8+efGDOatO",
   "tracks": [
     {
       "added_at": null,
@@ -183,38 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shaka Zulu",
-        "url": "https://open.spotify.com/album/6BqoNCQsupSaLBkl8u1uME"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 189360,
-      "name": "Hello My Baby",
-      "url": "https://open.spotify.com/track/6FajJfTlwR9r1kkGlKlB8c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Africa in Harmony: 50th Anniversary Edition",
-        "url": "https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 210613,
-      "name": "Nkosi Sikelel' iAfrika (Shosholoza Mix)",
-      "url": "https://open.spotify.com/track/2twGhMExp2xH9ZF3gYl9ZT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Harmony",
         "url": "https://open.spotify.com/album/0Ei2iU4AG1Qgz23S5pNpjf"
       },
@@ -231,6 +199,22 @@
       "duration_ms": 237626,
       "name": "Once In a Blue Moon",
       "url": "https://open.spotify.com/track/1aJD2XbbrBlhjg8zi63o0d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Africa in Harmony: 50th Anniversary Edition",
+        "url": "https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 210613,
+      "name": "Nkosi Sikelel' iAfrika (Shosholoza Mix)",
+      "url": "https://open.spotify.com/track/2twGhMExp2xH9ZF3gYl9ZT"
     },
     {
       "added_at": null,
@@ -515,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shaka Zulu Revisited: 30th Anniversary Celebration",
+        "url": "https://open.spotify.com/album/5GoqzAwIz3px7nSHXDOb3X"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 221760,
+      "name": "This Little Light of Mine (Bonus Track)",
+      "url": "https://open.spotify.com/track/7Eh1tCfRDvCMd20d4Fy4be"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Umthombo Wamanzi",
         "url": "https://open.spotify.com/album/0WhCJsx3LQ7hiZrIDlR1iM"
       },
@@ -543,22 +543,6 @@
       "duration_ms": 342893,
       "name": "Knockin' On Heaven's Door",
       "url": "https://open.spotify.com/track/3Tl8G365ENFoTQj25IGnAk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shaka Zulu Revisited: 30th Anniversary Celebration",
-        "url": "https://open.spotify.com/album/5GoqzAwIz3px7nSHXDOb3X"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 221760,
-      "name": "This Little Light of Mine (Bonus Track)",
-      "url": "https://open.spotify.com/track/7Eh1tCfRDvCMd20d4Fy4be"
     },
     {
       "added_at": null,
@@ -671,6 +655,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "30 : Happy Returns",
+        "url": "https://open.spotify.com/album/2RqzGr5REeTjUOYbT0Pds7"
+      },
+      "artists": [
+        {
+          "name": "Kate Rusby",
+          "url": "https://open.spotify.com/artist/3Cf7jFBOVBRDTvFUxGAJgF"
+        },
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 247253,
+      "name": "We Will Sing @30",
+      "url": "https://open.spotify.com/track/4FpZMe9Hoath6c9K5kggu1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ezulwini Siyakhona",
+        "url": "https://open.spotify.com/album/2VOZDi18mx1k4feiFSXOD6"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 214413,
+      "name": "Ngithunyiwe Kini",
+      "url": "https://open.spotify.com/track/4HKHR5K4KrIeRFHe1hhOFB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Africa in Harmony: 50th Anniversary Edition",
         "url": "https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF"
       },
@@ -691,22 +711,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "30 : Happy Returns",
-        "url": "https://open.spotify.com/album/2RqzGr5REeTjUOYbT0Pds7"
+        "name": "Gospel Hits",
+        "url": "https://open.spotify.com/album/2hJ9BieLDUmePCXiZHFKI3"
       },
       "artists": [
-        {
-          "name": "Kate Rusby",
-          "url": "https://open.spotify.com/artist/3Cf7jFBOVBRDTvFUxGAJgF"
-        },
         {
           "name": "Ladysmith Black Mambazo",
           "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
         }
       ],
-      "duration_ms": 247253,
-      "name": "We Will Sing @30",
-      "url": "https://open.spotify.com/track/4FpZMe9Hoath6c9K5kggu1"
+      "duration_ms": 161160,
+      "name": "Abantwana Basethempeleni (Children of the Temple)",
+      "url": "https://open.spotify.com/track/1n5U6EehsjKoFttFoV6oMZ"
     },
     {
       "added_at": null,
@@ -731,38 +747,6 @@
       "duration_ms": 113313,
       "name": "African Alphabet",
       "url": "https://open.spotify.com/track/3O5q4MvQzxYYzjRLchIOYi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ezulwini Siyakhona",
-        "url": "https://open.spotify.com/album/2VOZDi18mx1k4feiFSXOD6"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 214413,
-      "name": "Ngithunyiwe Kini",
-      "url": "https://open.spotify.com/track/4HKHR5K4KrIeRFHe1hhOFB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gospel Hits",
-        "url": "https://open.spotify.com/album/2hJ9BieLDUmePCXiZHFKI3"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 161160,
-      "name": "Abantwana Basethempeleni (Children of the Temple)",
-      "url": "https://open.spotify.com/track/1n5U6EehsjKoFttFoV6oMZ"
     },
     {
       "added_at": null,
@@ -823,6 +807,22 @@
       "duration_ms": 240160,
       "name": "Amagugu",
       "url": "https://open.spotify.com/track/4Yr0GLFCwZAyIV8WjYYXRk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Izigqi Zendoda",
+        "url": "https://open.spotify.com/album/6gbef5MDVDy0cSHReqQBxx"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 215333,
+      "name": "Lelilungelo Ngelakho",
+      "url": "https://open.spotify.com/track/6ide03N57y59RaaGCqlelJ"
     },
     {
       "added_at": null,
@@ -891,6 +891,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ulwandle Olungcwele",
+        "url": "https://open.spotify.com/album/2auxBwPk8Q0uhBJtzoSaRg"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "Sishumayel' Ivangeli",
+      "url": "https://open.spotify.com/track/2CgAlc3jjlpnTrTeQUKq5X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Listen Again",
         "url": "https://open.spotify.com/album/7bpWEp24oHgUs08ImjakfU"
       },
@@ -943,6 +959,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lihl' Ixhiba Likagogo (My Grandmother's Kitchen)",
+        "url": "https://open.spotify.com/album/2mTxloMTnWHXML3dGLyiDt"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 256946,
+      "name": "Dlondlobala Njalo",
+      "url": "https://open.spotify.com/track/67Ey8t5US5jijGZZnfOfeZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Toast to Our Differences (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ORqx9M6ak7kqDwYUBwvdK"
       },
@@ -959,38 +991,6 @@
       "duration_ms": 47746,
       "name": "Thula Ungakhlai (feat. Ladysmith Black Mambazo)",
       "url": "https://open.spotify.com/track/4mU0YSUlZ0RvXMapVj6kYx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ulwandle Olungcwele",
-        "url": "https://open.spotify.com/album/2auxBwPk8Q0uhBJtzoSaRg"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "Sishumayel' Ivangeli",
-      "url": "https://open.spotify.com/track/2CgAlc3jjlpnTrTeQUKq5X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lihl' Ixhiba Likagogo (My Grandmother's Kitchen)",
-        "url": "https://open.spotify.com/album/2mTxloMTnWHXML3dGLyiDt"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 256946,
-      "name": "Dlondlobala Njalo",
-      "url": "https://open.spotify.com/track/67Ey8t5US5jijGZZnfOfeZ"
     },
     {
       "added_at": null,

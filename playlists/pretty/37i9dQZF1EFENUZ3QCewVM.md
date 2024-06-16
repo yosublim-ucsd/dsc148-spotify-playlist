@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B8HeZBBeDVFkRnWhSTgTN">Delacey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147 likes - 102 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 148 likes - 102 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 19 | [Five More Minutes](https://open.spotify.com/track/0WxSQtLMCLcsAOhliamv5W) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [XV](https://open.spotify.com/album/0i96PtPJV65ddxsfMfo45F) | 2:30 |
 | 20 | [Ruin The Friendship](https://open.spotify.com/track/6VcOObtzWB2dopP4dC8G6x) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Tell Me You Love Me](https://open.spotify.com/album/5Mu891tmjTbt64meovPSuf) | 3:53 |
 | 21 | [HeartLess](https://open.spotify.com/track/3rf9vbMO0vuhtB3CDHTjsO) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [As She Pleases](https://open.spotify.com/album/3PYA0lKJUKoKhYkVSLDyDb) | 2:38 |
-| 22 | [Cruel Intentions](https://open.spotify.com/track/3Lzx6XSjH3ik3ZvigLK1Fb) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 3:12 |
-| 23 | [we're not alike](https://open.spotify.com/track/0tFRxPQHvAUMTbWYRJUo8R) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 3:00 |
+| 22 | [we're not alike](https://open.spotify.com/track/0tFRxPQHvAUMTbWYRJUo8R) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 3:00 |
+| 23 | [Cruel Intentions](https://open.spotify.com/track/3Lzx6XSjH3ik3ZvigLK1Fb) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 3:12 |
 | 24 | [grave](https://open.spotify.com/track/6jDT7DB6k0psPX0nWNDI1K) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 3:13 |
 | 25 | [ghost in my guitar \(feat\. Chris Stapleton\)](https://open.spotify.com/track/0hQyFpC8af9Dj89fEYkXPG) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [TWENTY SOMETHING](https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG) | 3:20 |
 | 26 | [FUCKBOY](https://open.spotify.com/track/4z6F5S9wbnjXK1JcCViIKM) | [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [FUCKBOY](https://open.spotify.com/album/3SWjeSD9WCC3l58LTmKgWU) | 3:10 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 46 | [City of Gods \(Part II\)](https://open.spotify.com/track/33pp6wXPrz46pIwsBrG3HS) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [City of Gods \(Part II\)](https://open.spotify.com/album/0KfUWcVGtomJOLrhIpGT7J) | 3:12 |
 | 47 | [No One's Gonna Ever Love U](https://open.spotify.com/track/5J6yoBNlCTE7uCgXuv8NXK) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 3:22 |
 | 48 | [My Love Is a Weapon \(feat\. Delacey\)](https://open.spotify.com/track/4dhCI327FFSWFYuU5uwqEe) | [Skrux](https://open.spotify.com/artist/6cwRqYSDYwWsLveCcDRhyY), [Delacey](https://open.spotify.com/artist/2GAvE8IRJsYcMuHcC8XkkD) | [My Love Is a Weapon \(feat\. Delacey\)](https://open.spotify.com/album/3hfAE8xs0kQgOt49Toe8Er) | 6:46 |
-| 49 | [Tell Your Girlfriend](https://open.spotify.com/track/0Kryggxs2gZqnkujFYEH1D) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 2:14 |
-| 50 | [Apple Juice](https://open.spotify.com/track/0VccAZeCgMvsnoLnokOBoh) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 3:02 |
+| 49 | [Apple Juice](https://open.spotify.com/track/0VccAZeCgMvsnoLnokOBoh) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 3:02 |
+| 50 | [Tell Your Girlfriend](https://open.spotify.com/track/0Kryggxs2gZqnkujFYEH1D) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 2:14 |
 | 51 | [indieedgycool](https://open.spotify.com/track/1wo8pUckwcg6yQmwSuepvX) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [hello this is the setlist for my tour](https://open.spotify.com/album/1jUrf0KNgZirx7g7672X0s) | 2:26 |
 | 52 | [Black Coffee](https://open.spotify.com/track/6bACnnQ39JxdU7DmvlayZR) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 2:46 |
 | 53 | [When I Close My Eyes](https://open.spotify.com/track/45mViXSHd3IqU41SbeLYv3) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [When I Close My Eyes](https://open.spotify.com/album/0NneZMurkPmr6ZwOTSgVf1) | 2:51 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 101 | [His Vows](https://open.spotify.com/track/036iNbKmOPKvlhugvt8gYS) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 0:42 |
 | 102 | [SPEAK NOW OR FOREVER HOLD YOUR PEACE](https://open.spotify.com/track/0SBQhZMv2SyknHAHUH9Izp) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 0:46 |
 
-Snapshot ID: `AbUEVAAAAAD88oF6GSDIsoWLsv1PW6BU`
+Snapshot ID: `AbUJ/AAAAAAehhRcZrCgC2yUL19eQq4R`

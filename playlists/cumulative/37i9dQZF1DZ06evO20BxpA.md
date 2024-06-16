@@ -4,7 +4,7 @@
 
 > This is Steven Price\. The essential tracks, all in one playlist.
 
-94 songs - 4 hr 19 min
+95 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [A Rich Community Of Life](https://open.spotify.com/track/5Ph3XsyuZi2UEl39r17pAq) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Coastal Seas \(Episode 4 / Soundtrack From The Netflix Original Series "Our Planet"\)](https://open.spotify.com/album/4pYjqXbSvwfKQ8l04afE5h) | 1:06 | 2023-08-04 |  |
 | [A Sparrowhawk's Tale](https://open.spotify.com/track/3c8wPL11gonPOt2Ht4dY5W) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 3:56 | 2023-08-04 |  |
 | [Above Earth](https://open.spotify.com/track/4wrfG7WZathU9Z6tXlPxd1) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 1:50 | 2023-08-04 | 2024-05-10 |
-| [All at Sea](https://open.spotify.com/track/6DhpCiw0t9iopTVQloLzHS) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 3:49 | 2023-08-04 |  |
+| [All at Sea](https://open.spotify.com/track/6DhpCiw0t9iopTVQloLzHS) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 3:49 | 2023-08-04 | 2024-06-16 |
 | [All Life Here Is Waiting](https://open.spotify.com/track/1xhE2gotm4x9zc08Zitzl3) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [One Planet \(Episode 1 / Soundtrack From The Netflix Original Series "Our Planet"\)](https://open.spotify.com/album/4oJxfzmDRFSv95uYNxOfqC) | 1:46 | 2023-11-10 | 2023-12-25 |
 | [An Ingenious Technique \- From "Our Planet"](https://open.spotify.com/track/7FlyYZlURvk8MsSkcYKWlS) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Our Planet \(Music from the Netflix Original Series\)](https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi) | 2:49 | 2023-08-04 | 2024-05-16 |
 | [Aningaaq](https://open.spotify.com/track/5QLoJobHVOWEdodeWghQmS) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 5:08 | 2023-08-04 |  |
@@ -93,7 +93,8 @@
 | [To Lose Himself in Vengeance](https://open.spotify.com/track/7yZWl27qFbjZ8C7GKCSl0s) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 7:01 | 2023-08-04 |  |
 | [Wardaddy](https://open.spotify.com/track/14CNBU26Ob6ZtW8YL11alR) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Fury \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv) | 2:39 | 2024-03-27 | 2024-04-03 |
 | [We Must Rewild The World](https://open.spotify.com/track/1oujzxcMf4yGV5Un4ErGYd) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 2:19 | 2023-08-04 | 2023-08-20 |
-| [We Took To The Skies](https://open.spotify.com/track/5oasJluWbEOguKKAQPzLLb) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Aeronauts \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/56C4vWYQdngTpCxTEdRcFE) | 4:49 | 2023-08-04 | 2024-06-12 |
+| [We Need To Rewild The World](https://open.spotify.com/track/2UZLLrJ7o2XJ1qLCwaoLrk) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK), [David Attenborough](https://open.spotify.com/artist/4QJpMVEZA1B0MkdW0jDMX4) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 2:21 | 2024-06-16 |  |
+| [We Took To The Skies](https://open.spotify.com/track/5oasJluWbEOguKKAQPzLLb) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Aeronauts \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/56C4vWYQdngTpCxTEdRcFE) | 4:49 | 2023-08-04 |  |
 | [When I Closed My Eyes](https://open.spotify.com/track/4UfZpkSy0UIYKpe0ogsgb7) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Swimmers \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4OzF2tJu8iUXybzcNJidMk) | 4:20 | 2023-08-04 | 2023-08-14 |
 | [Who Are You Greeting My Love?](https://open.spotify.com/track/0lriDhntmhaNxJyHC8ji4Q) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 1:42 | 2023-08-04 | 2024-06-12 |
 | [With Or Without Us](https://open.spotify.com/track/6GR1FpZStbjtRdVUPDqCL5) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 2:11 | 2023-12-13 | 2024-04-10 |

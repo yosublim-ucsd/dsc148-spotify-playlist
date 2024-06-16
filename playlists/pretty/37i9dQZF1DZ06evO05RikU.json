@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAAC7j4AGuv/dJZ0Nt+i8S59Q",
+  "snapshot_id": "ZmuIAAAAAAAwpksn6NiJrF+gFsYJkful",
   "tracks": [
     {
       "added_at": null,
@@ -115,26 +115,6 @@
       "duration_ms": 151680,
       "name": "How You Samba",
       "url": "https://open.spotify.com/track/3nyebfHIhsgRvUJd9wv3u1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mal De Amores",
-        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 188333,
-      "name": "Mal de Amores",
-      "url": "https://open.spotify.com/track/4AzTk75T9EQtHaGNWU3UY5"
     },
     {
       "added_at": null,
@@ -482,15 +462,11 @@
         {
           "name": "Sof\u00eda Reyes",
           "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/177ejRPrISENgJPlACpRGJ"
         }
       ],
-      "duration_ms": 231796,
-      "name": "yo tuya, t\u00fa m\u00edo",
-      "url": "https://open.spotify.com/track/6rqalHH9LASV0IMcDl77uY"
+      "duration_ms": 133051,
+      "name": "HOY ME PORTO MAL",
+      "url": "https://open.spotify.com/track/4EVCjLBekvH0x7ogVgHtXN"
     },
     {
       "added_at": null,
@@ -531,6 +507,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gotta Be Patient",
+        "url": "https://open.spotify.com/album/6zqf7sIi51QWskNvkEYaA7"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        },
+        {
+          "name": "Barenaked Ladies",
+          "url": "https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 160318,
+      "name": "Gotta Be Patient",
+      "url": "https://open.spotify.com/track/2Nb2SSUnGfThgDyG9ZOAkS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MILAMORES",
+        "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/177ejRPrISENgJPlACpRGJ"
+        }
+      ],
+      "duration_ms": 231796,
+      "name": "yo tuya, t\u00fa m\u00edo",
+      "url": "https://open.spotify.com/track/6rqalHH9LASV0IMcDl77uY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "1+1 (feat. Yandel & Sof\u00eda Reyes) [Banx & Ranx Remix]",
         "url": "https://open.spotify.com/album/2ds7l2UKWHAj3nKX2Pfmdz"
       },
@@ -555,46 +575,6 @@
       "duration_ms": 204707,
       "name": "1+1 (feat. Yandel & Sof\u00eda Reyes) - Banx & Ranx Remix",
       "url": "https://open.spotify.com/track/2en8KkmwWVRnAFlUueeDs0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MILAMORES",
-        "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 133051,
-      "name": "HOY ME PORTO MAL",
-      "url": "https://open.spotify.com/track/4EVCjLBekvH0x7ogVgHtXN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gotta Be Patient",
-        "url": "https://open.spotify.com/album/6zqf7sIi51QWskNvkEYaA7"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        },
-        {
-          "name": "Barenaked Ladies",
-          "url": "https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 160318,
-      "name": "Gotta Be Patient",
-      "url": "https://open.spotify.com/track/2Nb2SSUnGfThgDyG9ZOAkS"
     },
     {
       "added_at": null,
@@ -751,26 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "coRaZ\u00d3n fR\u00edO",
-        "url": "https://open.spotify.com/album/1BOeRBIyle4Z12OTGe6zHn"
-      },
-      "artists": [
-        {
-          "name": "Nicole Zignago",
-          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 204633,
-      "name": "coRaZ\u00d3n fR\u00edO",
-      "url": "https://open.spotify.com/track/63cNIqiYClDvGsvyxaAfA3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MILAMORES",
         "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
       },
@@ -811,6 +771,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cuando Est\u00e1s T\u00fa",
+        "url": "https://open.spotify.com/album/3af2qc7bfSXU08ecwxQAFC"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 177607,
+      "name": "Cuando Est\u00e1s T\u00fa",
+      "url": "https://open.spotify.com/track/1qZK2nOljXMWpIdOXmandN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mal De Amores",
         "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
       },
@@ -847,26 +827,6 @@
       "duration_ms": 198384,
       "name": "Conmigo (Rest of Your Life)",
       "url": "https://open.spotify.com/track/5B8qZ2uzB58fj4kAPdMDqv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cuando Est\u00e1s T\u00fa",
-        "url": "https://open.spotify.com/album/3af2qc7bfSXU08ecwxQAFC"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 177607,
-      "name": "Cuando Est\u00e1s T\u00fa",
-      "url": "https://open.spotify.com/track/1qZK2nOljXMWpIdOXmandN"
     },
     {
       "added_at": null,
@@ -915,6 +875,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mal De Amores",
+        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 166747,
+      "name": "Pregunta Loca",
+      "url": "https://open.spotify.com/track/4bzHBKmb1SoJCXTQnCfa9u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Louder!.",
         "url": "https://open.spotify.com/album/7tPQLOpoHALuSuHcDFUgB8"
       },
@@ -931,22 +907,6 @@
       "duration_ms": 212204,
       "name": "Muevelo (feat. Wisin)",
       "url": "https://open.spotify.com/track/5Ra1n0XZPneh64gdF3Jv0g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mal De Amores",
-        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 166747,
-      "name": "Pregunta Loca",
-      "url": "https://open.spotify.com/track/4bzHBKmb1SoJCXTQnCfa9u"
     },
     {
       "added_at": null,
@@ -991,6 +951,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Tu Manera [CORBATA]",
+        "url": "https://open.spotify.com/album/0iGPhmdLQ1P3bZeTQmK3qB"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "A Tu Manera [CORBATA]",
+      "url": "https://open.spotify.com/track/7ylkmI5exdKG5Myo7DuH2p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Goofy, Pt. 2 (Remix)",
         "url": "https://open.spotify.com/album/2azRGXriZ9DLXQ0JGrQBaC"
       },
@@ -1015,8 +995,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Tu Manera [CORBATA]",
-        "url": "https://open.spotify.com/album/0iGPhmdLQ1P3bZeTQmK3qB"
+        "name": "Mal De Amores",
+        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
       },
       "artists": [
         {
@@ -1024,13 +1004,13 @@
           "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         },
         {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
         }
       ],
-      "duration_ms": 174545,
-      "name": "A Tu Manera [CORBATA]",
-      "url": "https://open.spotify.com/track/7ylkmI5exdKG5Myo7DuH2p"
+      "duration_ms": 176197,
+      "name": "Limones",
+      "url": "https://open.spotify.com/track/32jT4VCmaCugsi2DxaAcrI"
     },
     {
       "added_at": null,
@@ -1119,6 +1099,26 @@
       "duration_ms": 170765,
       "name": "1, 2, 3 - Sped Up",
       "url": "https://open.spotify.com/track/2RJnhDvc6Z4xwMX6hhkeRX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Treehouse",
+        "url": "https://open.spotify.com/album/0xDUWlPe0z4xOiBi41dmb9"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "Treehouse",
+      "url": "https://open.spotify.com/track/0Zrxq7AxjJQrVg013MYgU2"
     }
   ],
   "unique_name": "This Is Sof\u00eda Reyes",

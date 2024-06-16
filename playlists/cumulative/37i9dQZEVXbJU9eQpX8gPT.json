@@ -4989,6 +4989,24 @@
     },
     {
       "album": {
+        "name": "CHIRON",
+        "url": "https://open.spotify.com/album/1S2sseTcLXsHeyimeIz2gW"
+      },
+      "artists": [
+        {
+          "name": "Tchubi",
+          "url": "https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149096,
+      "name": "CHIRON",
+      "url": "https://open.spotify.com/track/46r8XGC6pHS7EEgn6xjrXD"
+    },
+    {
+      "album": {
         "name": "2x1",
         "url": "https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp"
       },
@@ -6018,6 +6036,28 @@
       "duration_ms": 253714,
       "name": "Datni",
       "url": "https://open.spotify.com/track/4tMCsHp6nZtZR8p7zYhlPK"
+    },
+    {
+      "album": {
+        "name": "Dawini",
+        "url": "https://open.spotify.com/album/3013V6wepDbBnb81uVU95j"
+      },
+      "artists": [
+        {
+          "name": "Tawsen",
+          "url": "https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h"
+        },
+        {
+          "name": "Ayoub Anbaoui",
+          "url": "https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161959,
+      "name": "Dawini",
+      "url": "https://open.spotify.com/track/5d54P8T7TXGwE2d0zyN3uu"
     },
     {
       "album": {
@@ -14404,7 +14444,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 202191,
       "name": "Lmouje",
       "url": "https://open.spotify.com/track/2HQOumI8CH5kHB3V2ZHwnU"
@@ -14682,7 +14722,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 189692,
       "name": "Lovini",
       "url": "https://open.spotify.com/track/7f783hK2ilf4bwfayaNvdB"
@@ -17838,7 +17878,7 @@
       ],
       "date_added": "2023-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 200287,
       "name": "Nfss Lhala",
       "url": "https://open.spotify.com/track/4Sf0D2p1XLbfnVAAFFLl0E"
@@ -18602,6 +18642,24 @@
       "duration_ms": 285560,
       "name": "Obscurit\u00e9 (feat. Hamza)",
       "url": "https://open.spotify.com/track/2FkCxMgyjqvKwV0wqKb3vF"
+    },
+    {
+      "album": {
+        "name": "Odell",
+        "url": "https://open.spotify.com/album/72sYT226FgTKZJn62bOlXC"
+      },
+      "artists": [
+        {
+          "name": "Vali",
+          "url": "https://open.spotify.com/artist/5aJogNKGeY7hqpCX0viC99"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109714,
+      "name": "Odell",
+      "url": "https://open.spotify.com/track/1LEdH2x03yNbWFeVRqvzub"
     },
     {
       "album": {
@@ -22100,7 +22158,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 200929,
       "name": "Set Me Free Pt.2",
       "url": "https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp"
@@ -27696,7 +27754,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 168042,
       "name": "ZIGZAG",
       "url": "https://open.spotify.com/track/2Pn4RjpmuYRMJTXWzTonXn"

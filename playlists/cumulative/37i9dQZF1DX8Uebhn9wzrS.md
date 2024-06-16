@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,960 songs - 3 day 2 hr 37 min
+1,962 songs - 3 day 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -493,6 +493,7 @@
 | [Dusk's Delight](https://open.spotify.com/track/6GpE61U0CCL7k01WyF3DiN) | [Wezley Wiz](https://open.spotify.com/artist/6oGyihO2387JNURS8U5Olg) | [Dusk's Delight](https://open.spotify.com/album/3da8NaCjNEuTJiVOUlDR3O) | 2:00 | 2023-09-22 |  |
 | [Each Moment More Than the Last](https://open.spotify.com/track/6hCLyINmkTLeYc5wmJ32Ym) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Each Moment More Than the Last](https://open.spotify.com/album/0E954159llvUd1ZiGmh8TC) | 2:04 | 2022-09-23 | 2023-01-07 |
 | [Early Bird](https://open.spotify.com/track/3HAZRPavpVr16nian6BTDg) | [Yles](https://open.spotify.com/artist/6xuhrq8QZxXqXRz5XKxwaG), [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X), [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h) | [Early Bird](https://open.spotify.com/album/0Vg86xOE6SCKi9zVkVj3RB) | 1:46 | 2022-06-03 | 2022-11-19 |
+| [Early Birds](https://open.spotify.com/track/1FnSnpMEQF0USjUgeuOf4y) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Early Birds](https://open.spotify.com/album/6tATSmM3ph9cXzwMYinRes) | 2:22 | 2024-06-15 |  |
 | [Early Dawn](https://open.spotify.com/track/0aQpnhEMaZZkCPeft7jsFO) | [morningtime](https://open.spotify.com/artist/7xwOP2sBEig4hhduDiYwHS) | [Early Dawn](https://open.spotify.com/album/1APxE5TxzOZnGVfMGH9gmm) | 2:17 | 2022-07-29 | 2022-08-12 |
 | [Early Grey](https://open.spotify.com/track/4fbZjDV5jrlnJgche5lZBj) | [Blank x Blank](https://open.spotify.com/artist/7tZMN6RonZwh9uUI3zdDgT) | [Early Grey](https://open.spotify.com/album/2mpedk23jMimsBI06nCWxi) | 2:36 | 2022-07-01 | 2024-05-14 |
 | [Early Mornings](https://open.spotify.com/track/3mZQX7fqgtcMIHJuAH3UEA) | [d'Addario](https://open.spotify.com/artist/4V0Cgq9L5jRSOTcDVZgABQ) | [Early Mornings](https://open.spotify.com/album/2Ru4uhUL0lCt81wgMPjimz) | 1:53 | 2022-11-11 |  |
@@ -861,7 +862,7 @@
 | [Jumping high feeling fly](https://open.spotify.com/track/1h8jdSg5q24BLcVOy8bEIo) | [Ohlos](https://open.spotify.com/artist/2nWgplMSltB4r3eOVINEig) | [Jumping high feeling fly](https://open.spotify.com/album/2wdOgG7sRY9L5cTNIQD1fD) | 2:06 | 2022-07-22 | 2023-03-09 |
 | [Jumping Stairs](https://open.spotify.com/track/4hwavFxjOXAFhVxzkLdrXm) | [Casper Loe](https://open.spotify.com/artist/6sgFsC4m16h2OMCFptzH6S) | [Jumping Stairs](https://open.spotify.com/album/6dFhFCZMrfLxxKW3q7PpVW) | 1:54 | 2022-04-15 | 2022-10-29 |
 | [Junami](https://open.spotify.com/track/3nYrPIYlhbkUCqPEyhY3Pj) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra) | [Junami](https://open.spotify.com/album/6IF9gMIW8eUvrF6WFj6ARx) | 2:17 | 2022-05-13 | 2022-11-12 |
-| [Jungle](https://open.spotify.com/track/7m1tBjVEK1JQarLmrOvkic) | [Fluurish\_ish](https://open.spotify.com/artist/2uHiTGGGiEJEA3dgYeLlH8) | [Jungle](https://open.spotify.com/album/52qgVVnp2H1WOoLpzddl4e) | 2:18 | 2023-06-06 |  |
+| [Jungle](https://open.spotify.com/track/7m1tBjVEK1JQarLmrOvkic) | [Fluurish\_ish](https://open.spotify.com/artist/2uHiTGGGiEJEA3dgYeLlH8) | [Jungle](https://open.spotify.com/album/52qgVVnp2H1WOoLpzddl4e) | 2:18 | 2023-06-06 | 2024-06-16 |
 | [jungle](https://open.spotify.com/track/0VqYs76GajViLPEfuVUrUg) | [strøget](https://open.spotify.com/artist/7JtjqVMOUr4hbaYRVQevHq) | [jungle](https://open.spotify.com/album/7fjcuinqcuddrYEX8Ieu2H) | 2:32 | 2023-01-06 | 2023-04-21 |
 | [Junto Ao Mar](https://open.spotify.com/track/5Mv9oFq161OFZh6BvQHnUm) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Kimmø](https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz) | [Junto Ao Mar](https://open.spotify.com/album/0YImyrOh0MK5HzWwQfRQLh) | 2:28 | 2022-05-27 | 2022-11-12 |
 | [just relax](https://open.spotify.com/track/0POolioSzFOWb0n0it50Lz) | [stilistics](https://open.spotify.com/artist/4UexprKNraCvro4K4XYzut) | [ready set go](https://open.spotify.com/album/7L4A0d2BV3EE2YL95AiDze) | 1:36 | 2022-04-15 | 2022-05-13 |
@@ -1288,7 +1289,7 @@
 | [Pass The Pepper](https://open.spotify.com/track/0PECtKDUzSskD0Qin06lSb) | [Eclips3](https://open.spotify.com/artist/6ivJbFCNcqWHdxM9y83LV9) | [Pass The Pepper](https://open.spotify.com/album/72jUuyNU9FVH1ShwZm4OaM) | 2:13 | 2022-09-16 | 2023-04-04 |
 | [Pass the salt](https://open.spotify.com/track/4SXsq4BLWnnQZeYYVy8Eub) | [Eclips3](https://open.spotify.com/artist/6ivJbFCNcqWHdxM9y83LV9) | [Pass the salt](https://open.spotify.com/album/725SX9hC4DguSckhXbDzmL) | 2:08 | 2022-06-03 | 2022-12-09 |
 | [Passenger](https://open.spotify.com/track/1M5Ib1CKTDV8OGEW02y9xS) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA) | [After Life](https://open.spotify.com/album/6tAnYBib3ol7bjjqwI4d2u) | 2:36 | 2022-08-05 | 2022-08-12 |
-| [Passing By...](https://open.spotify.com/track/01rraBw03gDE6g4JWUUs6V) | [AAGAPE](https://open.spotify.com/artist/5H0vNnElBgqs1rirt5I15W) | [Passing By...](https://open.spotify.com/album/3a2l1xdxZxLLoq3V6apQQ0) | 2:11 | 2024-03-22 |  |
+| [Passing By...](https://open.spotify.com/track/01rraBw03gDE6g4JWUUs6V) | [AAGAPE](https://open.spotify.com/artist/5H0vNnElBgqs1rirt5I15W) | [Passing By...](https://open.spotify.com/album/3a2l1xdxZxLLoq3V6apQQ0) | 2:11 | 2024-03-22 | 2024-06-16 |
 | [Past Bedtime](https://open.spotify.com/track/4kCS9oguhIvt2d50M0Gj3Q) | [HollyDave](https://open.spotify.com/artist/0fwfq3m3px40mSeOdDPVnJ) | [Past Bedtime](https://open.spotify.com/album/3qZ3lO3W6gWE1004dR6zky) | 2:05 | 2023-09-29 |  |
 | [past bedtime](https://open.spotify.com/track/4YF1qkAc4Pp4Jcbg1ZKQ3T) | [Son Of Arn](https://open.spotify.com/artist/725aXOndVSiKmldfKJ6Rnr) | [past bedtime](https://open.spotify.com/album/4F7oUJMBgDndBDF4W0E9ey) | 2:08 | 2022-10-28 | 2023-03-25 |
 | [Past Midnight](https://open.spotify.com/track/5FJPi4f5N2CGplLuWUGZ2W) | [City Whisper](https://open.spotify.com/artist/4E2EFjXVHxVxOZBe2rd7Xl) | [Past Midnight](https://open.spotify.com/album/3Fcu1NrW04HZTt7AlRo9Zj) | 1:37 | 2022-04-15 | 2022-07-15 |
@@ -1963,6 +1964,7 @@
 | [Zen A.M.](https://open.spotify.com/track/2Hv9wGHbkfIBScQg4Tti11) | [Howie Doowin](https://open.spotify.com/artist/5GsPaA0g3apgEmOW1HmP7n) | [Zen A.M.](https://open.spotify.com/album/2j59lkIwIxqO2VcqNQXb3l) | 2:00 | 2023-02-06 | 2023-09-29 |
 | [Zen Garden](https://open.spotify.com/track/1n67UFilzbUI9i8wsbyCYi) | [vibesment](https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx) | [Zen Garden](https://open.spotify.com/album/0kPvB9y4kz1T6LlUnxD3uE) | 2:08 | 2024-05-13 |  |
 | [Zen Way](https://open.spotify.com/track/1E7FBgfsrBbS2hSaoecQp1) | [Soul Dojo](https://open.spotify.com/artist/7J3T2ACd6zWe4mHrASzVlI) | [Zen Way](https://open.spotify.com/album/38MgwKlLibLqCp341q38XE) | 2:18 | 2023-11-17 |  |
+| [Zephyr](https://open.spotify.com/track/70jg1afuHgAUYGEnqsh2n9) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Zephyr](https://open.spotify.com/album/6NGoFqVVUw45s8vNrL5GDc) | 1:56 | 2024-06-15 |  |
 | [Zeros](https://open.spotify.com/track/6ik7asMfpomN31lExYVYfz) | [Kartel of Sound](https://open.spotify.com/artist/1aaKuoHFyzRHeLh7nflK1R) | [Zeros](https://open.spotify.com/album/0g4xA0ZpkgM7SrEyvz6aZY) | 2:03 | 2024-03-08 |  |
 | [Zlatan](https://open.spotify.com/track/2KXPb5Q3UQYFx6kmJesS2F) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [Zlatan](https://open.spotify.com/album/56xbsZljmmaVTlTNAwtr5v) | 1:45 | 2023-08-31 | 2024-06-02 |
 | [Zodiac](https://open.spotify.com/track/01tUhIL7bgA6UrByND0Cg3) | [LXXXVII](https://open.spotify.com/artist/311w5PIT9AJHKLoVXGxboO) | [Zodiac](https://open.spotify.com/album/4KJIA7JL7y4Rhfpgb7BeVF) | 2:19 | 2024-02-02 |  |

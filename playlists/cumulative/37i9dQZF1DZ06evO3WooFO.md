@@ -2,7 +2,7 @@
 
 ### [This Is blink\-182](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WooFO)
 
-> This Is blink\-182\. Los temas esenciales, todos en una lista.
+> This is blink\-182\. The essential tracks, all in one playlist.
 
 89 songs - 4 hr 32 min
 
@@ -12,7 +12,7 @@
 | [After Midnight](https://open.spotify.com/track/27H8WsrkD5catdc3a2fCLV) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe\)](https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv) | 3:26 | 2023-05-18 | 2023-08-11 |
 | [After Midnight](https://open.spotify.com/track/29bWDkf8qtCmsvDWOW55CJ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe Explicit Version\)](https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv) | 3:26 | 2022-01-11 |  |
 | [Aliens Exist](https://open.spotify.com/track/3nqm3DdVskqbHhmb8S8hMd) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 3:13 | 2022-01-11 |  |
-| [All The Small Things](https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:47 | 2022-01-11 |  |
+| [All The Small Things](https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:47 | 2022-01-11 | 2024-06-16 |
 | [Always](https://open.spotify.com/track/3HM4NePuYAqdXpAGBk7nNz) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 4:11 | 2022-01-11 | 2024-05-03 |
 | [Always](https://open.spotify.com/track/1JfNuvdAIqI3ggkzXuBvPp) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/6DMUAqxiFfLdqXv0vqcrQA) | 4:11 | 2024-05-03 |  |
 | [Another Girl Another Planet](https://open.spotify.com/track/6klwvrS59j10a8ZqelwK3q) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Greatest Hits](https://open.spotify.com/album/31mnNcl6CzIcX8j9n75vYZ) | 2:41 | 2022-10-12 |  |
@@ -36,7 +36,7 @@
 | [Darkside](https://open.spotify.com/track/39n1y2JqVOPIdfUeLqzgfl) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 3:00 | 2022-01-11 |  |
 | [death bed \(feat\. beabadoobee & blink\-182\) \- bonus remix](https://open.spotify.com/track/607PGYIaTaTyAKQtmPpUom) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [poems of the past](https://open.spotify.com/album/4VUCwdM2v9WfRR8mwZuVq4) | 2:13 | 2022-10-12 | 2023-07-11 |
 | [Dogs Eating Dogs](https://open.spotify.com/track/5uqOdeWBd2gFKUAJPoy1q6) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dogs Eating Dogs](https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar) | 3:30 | 2022-01-11 |  |
-| [Don't Leave Me](https://open.spotify.com/track/1IAeSajljaXAkLZKXBZnE8) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:23 | 2022-08-02 | 2024-06-14 |
+| [Don't Leave Me](https://open.spotify.com/track/1IAeSajljaXAkLZKXBZnE8) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:23 | 2022-08-02 |  |
 | [Down](https://open.spotify.com/track/4nXKO951m6TdWQQbH1KJH3) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 3:03 | 2022-01-11 |  |
 | [Dumpweed](https://open.spotify.com/track/5SlKhaPcdIfSjpoM2QtM4C) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:23 | 2022-01-11 |  |
 | [Dysentery Gary](https://open.spotify.com/track/0nGBoXoR5o9srQlP0BAZ1Y) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:45 | 2023-08-01 | 2024-06-13 |
@@ -49,7 +49,7 @@
 | [Feeling This](https://open.spotify.com/track/26AYR77170U49cMcXB7aRV) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 2:52 | 2022-01-11 |  |
 | [FELL IN LOVE](https://open.spotify.com/track/3wIaPhVmXG6lcIPfm7D0fm) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 2:18 | 2023-11-10 |  |
 | [First Date](https://open.spotify.com/track/1fJFuvU2ldmeAm5nFIHcPP) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 2:51 | 2022-01-11 |  |
-| [Ghost On The Dance Floor](https://open.spotify.com/track/0LC3SKxY9PteyLLxhfFY5d) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe Explicit Version\)](https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv) | 4:17 | 2022-01-11 | 2024-06-15 |
+| [Ghost On The Dance Floor](https://open.spotify.com/track/0LC3SKxY9PteyLLxhfFY5d) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe Explicit Version\)](https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv) | 4:17 | 2022-01-11 |  |
 | [Ghost On The Dance Floor](https://open.spotify.com/track/2qg7jm9wp4HM6CMcZxVYOC) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe\)](https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv) | 4:17 | 2022-07-17 | 2023-09-16 |
 | [Going Away To College](https://open.spotify.com/track/4TofVhKSYwFXRtbYo5M3h4) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:59 | 2022-01-11 |  |
 | [Happy Days](https://open.spotify.com/track/6GHAAp25FcGdaHgAn8rTif) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 2:59 | 2022-01-11 |  |
@@ -76,7 +76,7 @@
 | [Pathetic](https://open.spotify.com/track/3DuH3vgKy6oqhgesvbH1ZC) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dude Ranch](https://open.spotify.com/album/0RADUK8yTUBidzBke6Eszq) | 2:28 | 2022-01-13 | 2023-11-11 |
 | [Pin the Grenade](https://open.spotify.com/track/330cmrgtnIj4NtPTYdDOZv) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 2:59 | 2022-01-11 |  |
 | [Pretty Little Girl](https://open.spotify.com/track/6rJKRar5Jf3Ec2FIhiog7Y) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dogs Eating Dogs](https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar) | 4:20 | 2023-07-01 |  |
-| [Reckless Abandon](https://open.spotify.com/track/4N9fFHRxns1B86F8YTneBz) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 3:06 | 2022-01-11 | 2024-06-14 |
+| [Reckless Abandon](https://open.spotify.com/track/4N9fFHRxns1B86F8YTneBz) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 3:06 | 2022-01-11 |  |
 | [Remember To Forget Me](https://open.spotify.com/track/30zjD8uAoLLckluGf0PNV6) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 3:29 | 2022-01-11 | 2022-10-16 |
 | [Roller Coaster](https://open.spotify.com/track/1BR1AEQSLXDNL9t7nP3xRp) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 2:47 | 2024-05-14 | 2024-06-14 |
 | [San Diego](https://open.spotify.com/track/68jM3HGqCToav6bsNY2slc) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California](https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9) | 3:12 | 2022-01-11 | 2023-11-11 |
@@ -88,7 +88,7 @@
 | [Stockholm Syndrome](https://open.spotify.com/track/5TxY7O9lFJJrd22FmboAXe) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 2:41 | 2022-01-11 | 2024-05-28 |
 | [TERRIFIED](https://open.spotify.com/track/0rztREk2JIN2F63LDnSaM0) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 2:48 | 2023-11-10 | 2024-01-05 |
 | [The First Time](https://open.spotify.com/track/4VwvwlbNZavsDkRdIKFGBi) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 2:26 | 2022-10-15 |  |
-| [The Rock Show](https://open.spotify.com/track/2ydUT1pFhuLDnouelIv4WH) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 2:51 | 2022-01-11 |  |
+| [The Rock Show](https://open.spotify.com/track/2ydUT1pFhuLDnouelIv4WH) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 2:51 | 2022-01-11 | 2024-06-16 |
 | [Up All Night](https://open.spotify.com/track/0sqQ9N6hY0ieocwrgxgJ9F) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe\)](https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv) | 3:19 | 2023-05-01 | 2023-09-16 |
 | [Up All Night](https://open.spotify.com/track/1bvbL0HbprbpwmzwaZczr2) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe Explicit Version\)](https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv) | 3:19 | 2022-01-11 |  |
 | [Violence](https://open.spotify.com/track/6oRvk7PJW3PDKFZkEvJNkq) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 3:39 | 2022-04-13 |  |

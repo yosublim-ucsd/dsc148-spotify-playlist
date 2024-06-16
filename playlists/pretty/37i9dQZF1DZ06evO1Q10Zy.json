@@ -1,12 +1,12 @@
 {
   "description": "This is Babyface. The essential tracks, all in one playlist.",
-  "num_followers": 34614,
+  "num_followers": 34624,
   "original_name": "This Is Babyface",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAAD64pvlfGtxZjozcVI+pUq3",
+  "snapshot_id": "ZmuIAAAAAADYNw1NHneGJjELMAcjwfXP",
   "tracks": [
     {
       "added_at": null,
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 263066,
-      "name": "Roller Coaster",
-      "url": "https://open.spotify.com/track/5o1Trj52mQcOfgiFfNEzAz"
+      "duration_ms": 250080,
+      "name": "Hurt You",
+      "url": "https://open.spotify.com/track/7EB10pKYUvwe7nnCBBn6mA"
     },
     {
       "added_at": null,
@@ -187,6 +187,78 @@
       "duration_ms": 349840,
       "name": "Whip Appeal - 12-inch Version",
       "url": "https://open.spotify.com/track/4D13ulAZI1V7PG7Zg1Ar7r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Girls Night Out",
+        "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 175290,
+      "name": "Keeps On Fallin\u2019 (with Ella Mai)",
+      "url": "https://open.spotify.com/track/2aunyb1BeN1HrWDzAJPyBq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Q's Jook Joint",
+        "url": "https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        },
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        },
+        {
+          "name": "Portrait",
+          "url": "https://open.spotify.com/artist/08fM8wx6uuEwagFsUvQp35"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Tamia",
+          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
+        }
+      ],
+      "duration_ms": 450600,
+      "name": "Slow Jams",
+      "url": "https://open.spotify.com/track/6CtrSJaPZxcGn991fLgxJF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love, Marriage\u200e & Divorce",
+        "url": "https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM"
+      },
+      "artists": [
+        {
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "Take It Back",
+      "url": "https://open.spotify.com/track/3iROjO3tSP0wP9QdnIw5ep"
     },
     {
       "added_at": null,
@@ -227,26 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love, Marriage\u200e & Divorce",
-        "url": "https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM"
-      },
-      "artists": [
-        {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
-        },
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "Take It Back",
-      "url": "https://open.spotify.com/track/3iROjO3tSP0wP9QdnIw5ep"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Babyface Unplugged NYC 1997",
         "url": "https://open.spotify.com/album/6mREwcBMN0h6bNLAyEZtEs"
       },
@@ -259,38 +311,6 @@
       "duration_ms": 305426,
       "name": "I Care About You",
       "url": "https://open.spotify.com/track/0u5NhbNEcSxSA5wjmOfJyq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Return Of The Tender Lover",
-        "url": "https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 340386,
-      "name": "Exceptional",
-      "url": "https://open.spotify.com/track/5JVzZOgYzxK5p5Eq2hPZvz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Face 2 Face",
-        "url": "https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 215466,
-      "name": "Stressed Out",
-      "url": "https://open.spotify.com/track/4ES2gMcCQshE8EWU0FY8vW"
     },
     {
       "added_at": null,
@@ -347,6 +367,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 215466,
+      "name": "Stressed Out",
+      "url": "https://open.spotify.com/track/4ES2gMcCQshE8EWU0FY8vW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Return Of The Tender Lover",
+        "url": "https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 340386,
+      "name": "Exceptional",
+      "url": "https://open.spotify.com/track/5JVzZOgYzxK5p5Eq2hPZvz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bonafide",
         "url": "https://open.spotify.com/album/1Os4j9C15CDRcQsfpraAkY"
       },
@@ -363,22 +415,6 @@
       "duration_ms": 273400,
       "name": "Someone to Love (feat. Babyface)",
       "url": "https://open.spotify.com/track/1ukbwpUGSimFKWxI7KfT8h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "As a matter of fact",
-        "url": "https://open.spotify.com/album/4MkjomUjWjKm4SKBvO8Ksh"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 144581,
-      "name": "As a matter of fact",
-      "url": "https://open.spotify.com/track/7sKqEHM3swTrZAdbwazi7Y"
     },
     {
       "added_at": null,
@@ -403,6 +439,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "As a matter of fact",
+        "url": "https://open.spotify.com/album/4MkjomUjWjKm4SKBvO8Ksh"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 144581,
+      "name": "As a matter of fact",
+      "url": "https://open.spotify.com/track/7sKqEHM3swTrZAdbwazi7Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Day",
+        "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 245373,
+      "name": "I Said I Love You",
+      "url": "https://open.spotify.com/track/3psQ66oTuTZrDeixYxZclj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In My Lifetime, Vol.1",
         "url": "https://open.spotify.com/album/2nJapeqTbOhnhHUhh5tzpB"
       },
@@ -423,22 +491,6 @@
       "duration_ms": 283360,
       "name": "Always Be My Sunshine",
       "url": "https://open.spotify.com/track/1EkteNRr1GNnrjRZ5zRXWy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Day",
-        "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 245373,
-      "name": "I Said I Love You",
-      "url": "https://open.spotify.com/track/3psQ66oTuTZrDeixYxZclj"
     },
     {
       "added_at": null,
@@ -891,38 +943,6 @@
       "duration_ms": 194000,
       "name": "Evergreen (with Babyface)",
       "url": "https://open.spotify.com/track/1Mn263ocXqVrFArQJ3QKJi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Face 2 Face",
-        "url": "https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 271040,
-      "name": "There She Goes",
-      "url": "https://open.spotify.com/track/7dO7S7cAUqTUiVRqQ2v9zh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Day",
-        "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 340200,
-      "name": "When Your Body Gets Weak",
-      "url": "https://open.spotify.com/track/7EFia0ghMpWvJjftBm5Hht"
     }
   ],
   "unique_name": "This Is Babyface",

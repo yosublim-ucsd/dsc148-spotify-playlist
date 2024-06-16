@@ -2,7 +2,7 @@
 
 ### [This Is Ana Bárbara](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2mOf7x)
 
-> This Is Ana Bárbara\. Los temas esenciales, todos en una lista.
+> This is Ana Bárbara\. The essential tracks, all in one playlist.
 
 67 songs - 3 hr 53 min
 
@@ -72,7 +72,7 @@
 | [Todo Lo Aprendí De Ti](https://open.spotify.com/track/7coeVuxvfdL9xM1gy2PfqT) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Necesito Olvidarte](https://open.spotify.com/album/55XhUs9Cx4KtWxIRjLxOPr) | 3:04 | 2023-03-10 |  |
 | [Tu Ingratitud](https://open.spotify.com/track/6kwg6ENvPRdscevp2XE8cR) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Yo Soy La Mujer](https://open.spotify.com/album/3yEDiwSeDMiYh7oJLzl7QC) | 3:18 | 2023-03-10 |  |
 | [Ven a Cantar](https://open.spotify.com/track/5mldPrwCyzAlq9fNsi5aYg) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Ven a Cantar](https://open.spotify.com/album/3HzOOi5kJxfrCpbX96L82F) | 4:21 | 2023-12-13 | 2024-02-13 |
-| [Y Siempre](https://open.spotify.com/track/3N3G4GKbHlkRfktCuNV5Ul) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Ay, Amor](https://open.spotify.com/album/3ZmguqRipyO48mXaLCchdz) | 3:50 | 2023-03-10 |  |
+| [Y Siempre](https://open.spotify.com/track/3N3G4GKbHlkRfktCuNV5Ul) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Ay, Amor](https://open.spotify.com/album/3ZmguqRipyO48mXaLCchdz) | 3:50 | 2023-03-10 | 2024-06-16 |
 | [Ya No Te Creo Nada](https://open.spotify.com/track/7p2XqGtvXYKRE9mSWytHd6) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Ay, Amor](https://open.spotify.com/album/3ZmguqRipyO48mXaLCchdz) | 3:09 | 2023-03-10 |  |
 | [Yo Ya No Estoy](https://open.spotify.com/track/5JBXKpGw5LBTOomR5w20sm) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Yo Soy La Mujer](https://open.spotify.com/album/3yEDiwSeDMiYh7oJLzl7QC) | 3:35 | 2023-03-10 |  |
 

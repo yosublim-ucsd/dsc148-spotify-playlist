@@ -1,12 +1,12 @@
 {
   "description": "This is Matt Maher. The essential tracks, all in one playlist.",
-  "num_followers": 25984,
+  "num_followers": 25988,
   "original_name": "This Is Matt Maher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAABMAlHfKWdRzghZhjK6hlP5",
+  "snapshot_id": "ZmuIAAAAAACbTov75f0hRWfgRPnaTQcF",
   "tracks": [
     {
       "added_at": null,
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alive Again",
+        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 239440,
+      "name": "Alive Again",
+      "url": "https://open.spotify.com/track/5c6flWJGgiffpYElobcA4P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lamb of God (Live)",
         "url": "https://open.spotify.com/album/4obIy2fyaxwVWnskygUke1"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 375019,
       "name": "Unconditional - Live",
       "url": "https://open.spotify.com/track/2oj68EY5FBOuXHjvauvKik"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alive Again",
-        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 239440,
-      "name": "Alive Again",
-      "url": "https://open.spotify.com/track/5c6flWJGgiffpYElobcA4P"
     },
     {
       "added_at": null,
@@ -791,26 +791,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Climate Vigil Songs",
-        "url": "https://open.spotify.com/album/2WHh6TmX4BFuPLBsPwaWff"
+        "name": "Alive Again",
+        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
       },
       "artists": [
         {
-          "name": "The Porter's Gate",
-          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
-        },
-        {
           "name": "Matt Maher",
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        },
-        {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
         }
       ],
-      "duration_ms": 291057,
-      "name": "Hosanna! (Will You Rise?)",
-      "url": "https://open.spotify.com/track/1gZywnKlKqwRqtOFOUxKKg"
+      "duration_ms": 318666,
+      "name": "Remembrance (Communion Song)",
+      "url": "https://open.spotify.com/track/4U1kozpFOiKDYb7CDjqPt7"
     },
     {
       "added_at": null,
@@ -835,8 +827,32 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alive Again",
-        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
+        "name": "Climate Vigil Songs",
+        "url": "https://open.spotify.com/album/2WHh6TmX4BFuPLBsPwaWff"
+      },
+      "artists": [
+        {
+          "name": "The Porter's Gate",
+          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "duration_ms": 291057,
+      "name": "Hosanna! (Will You Rise?)",
+      "url": "https://open.spotify.com/track/1gZywnKlKqwRqtOFOUxKKg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Heart at a Time",
+        "url": "https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG"
       },
       "artists": [
         {
@@ -844,9 +860,9 @@
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 318666,
-      "name": "Remembrance (Communion Song)",
-      "url": "https://open.spotify.com/track/4U1kozpFOiKDYb7CDjqPt7"
+      "duration_ms": 262520,
+      "name": "One Heart at a Time",
+      "url": "https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v"
     },
     {
       "added_at": null,
@@ -867,22 +883,6 @@
       "duration_ms": 481266,
       "name": "Inheritance",
       "url": "https://open.spotify.com/track/6MyskHQ8Aa8W62Cmi3y9oz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One Heart at a Time",
-        "url": "https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 262520,
-      "name": "One Heart at a Time",
-      "url": "https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v"
     },
     {
       "added_at": null,

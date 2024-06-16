@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1jTifM0MFAVzFVvYIpez2Z">Tommy Parker</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15 likes - 84 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 15 likes - 85 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 56 | [Stand Out \(feat\. Keke Palmer\)](https://open.spotify.com/track/41KujPUGBjz9pyoDCo9Gdd) | [Rags Cast](https://open.spotify.com/artist/5igcQeVmcLCLDM2cj43Tuy), [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Rags \(Music From the Original Movie\)](https://open.spotify.com/album/1jXyQ8Yu9hZ54DbX4qg11Z) | 3:07 |
 | 57 | [Thinking of You](https://open.spotify.com/track/70ZhUOVBwrBv2gKXABIgux) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [The California Jet Club](https://open.spotify.com/artist/6OOn7tedu5plMS1AhGi022) | [The Reset](https://open.spotify.com/album/6YLCRtqGScLXhJpkRS2Tff) | 4:24 |
 | 58 | [Code + Love Me Some More](https://open.spotify.com/track/3EErsWRNeSwUg6ffBgDXW3) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [MOB](https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM) | 3:46 |
-| 59 | [When It Ends](https://open.spotify.com/track/78JF5ltZGwtjJkd5gsFZO3) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 4:32 |
-| 60 | [can u?](https://open.spotify.com/track/4WkRn7DXBqE3FpIHM9tmLs) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [can u?](https://open.spotify.com/album/3QOJ06vA52E3QjK6cTo9Ry) | 2:50 |
+| 59 | [can u?](https://open.spotify.com/track/4WkRn7DXBqE3FpIHM9tmLs) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [can u?](https://open.spotify.com/album/3QOJ06vA52E3QjK6cTo9Ry) | 2:50 |
+| 60 | [When It Ends](https://open.spotify.com/track/78JF5ltZGwtjJkd5gsFZO3) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 4:32 |
 | 61 | [Witness](https://open.spotify.com/track/4CwrUYKXLeUyAFhEYlbJld) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 4:16 |
 | 62 | [Just Like Jenny](https://open.spotify.com/track/39fXwsp5ZQG76nN9mGBzbb) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 2:58 |
 | 63 | [Shinanigins](https://open.spotify.com/track/6YTpBXHHEY0PGTxOkJX6wX) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 2:42 |
@@ -86,11 +86,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 76 | [Chemistry \- Interlude](https://open.spotify.com/track/6SvuY3OO9xuaVNaV3ZYB1s) | [Jcksn Ave.](https://open.spotify.com/artist/37GcQTOtCy5LuitT57a8mu) | [They Cloned Tyrone \(Music from and Inspired by the Netflix Film\)](https://open.spotify.com/album/7mr0vhCKqriCbhPXlY1z1v) | 2:01 |
 | 77 | [Strongest Woman I Know](https://open.spotify.com/track/4JsPASwBKWutGo84Na2oQ8) | [Rob Markman](https://open.spotify.com/artist/2bUUwnuZ9pezPvPzGwanok), [Dj Money](https://open.spotify.com/artist/5Gqwy9rFNhFIlgk3rCUiN7) | [If You Don't You'll Regret It](https://open.spotify.com/album/4CRWN3kSdIc7U2qo4SUXFH) | 3:38 |
 | 78 | [Save The World \(On The Dance Floor\)](https://open.spotify.com/track/3wsSqwEfXOgum2fnEGK39A) | [Sonny](https://open.spotify.com/artist/7M32CCGFBfGnTWfQuLngrb) | [International](https://open.spotify.com/album/1Zp6KLtrpzJwyB5zMzg5H1) | 3:53 |
-| 79 | [Tale Of 2 Legends](https://open.spotify.com/track/0AxEBo30NXf2NhZa1GEwxC) | [Humble Soles](https://open.spotify.com/artist/0js1ol9cMZymg0PcJdAbmv), [DJ Clue](https://open.spotify.com/artist/1g8uGVofjr2ApBrI8OZhJf), [Tyre Hakim](https://open.spotify.com/artist/330cgYbAbvsjcSQPrhPwLJ), [RJAE](https://open.spotify.com/artist/0PnrpdWmz1aJYJfNPUejmk) | [Humble Soles](https://open.spotify.com/album/7ByYlJNaU5HDMX4McPX4DR) | 2:56 |
-| 80 | [Highway to the Sky](https://open.spotify.com/track/3Mxex1RPQ8JpU9hiYX5cy5) | [Austin Brown](https://open.spotify.com/artist/2RvMNd0SA3vRFlHm20fn13) | [Highway 85](https://open.spotify.com/album/6LjVjNpmVDtop3I7X5v5oU) | 2:57 |
-| 81 | [What Did I Lose to Love You](https://open.spotify.com/track/5GMa5YK123sRZMMVZtc8hP) | [Austin Brown](https://open.spotify.com/artist/2RvMNd0SA3vRFlHm20fn13) | [Highway 85](https://open.spotify.com/album/6LjVjNpmVDtop3I7X5v5oU) | 3:23 |
-| 82 | [Where Were You](https://open.spotify.com/track/1VeWQU4FLcsoMPLsasN1aR) | [Austin Brown](https://open.spotify.com/artist/2RvMNd0SA3vRFlHm20fn13) | [Highway 85](https://open.spotify.com/album/6LjVjNpmVDtop3I7X5v5oU) | 3:32 |
-| 83 | [This Time](https://open.spotify.com/track/2vhYlpTjJR6WNcLbt6VohD) | [PARADISE LTD](https://open.spotify.com/artist/0ahtFYd681pvCSkj1vh8lv), [Wild Culture](https://open.spotify.com/artist/7hayBHpyq0PvgOt9l96hpp) | [Blood, Sweat & Tears](https://open.spotify.com/album/1agGkgiRsIb0lC6TUApqDS) | 4:07 |
-| 84 | [INTERLUDE](https://open.spotify.com/track/4RyDxpwqXhN5zI39QumvVe) | [T$](https://open.spotify.com/artist/00xAzuaRdsIegeqqDtlzae), [Willie Truitt](https://open.spotify.com/artist/3rrNr8VdtVf9y7PBg5xS9w) | [PURPLE BLOOD](https://open.spotify.com/album/4ECQGzAEn0Vj0RiPWLh1gH) | 0:37 |
+| 79 | [Big Wheel Whippin'](https://open.spotify.com/track/3gSsZVKLIzKzQit8weYbm1) | [Playaz Circle](https://open.spotify.com/artist/5gV9T9VSwhHBlHcRMojEZw) | [Flight 360: The Takeoff](https://open.spotify.com/album/4jCIFGa5tGSh7LeTmPwcS2) | 4:29 |
+| 80 | [Tale Of 2 Legends](https://open.spotify.com/track/0AxEBo30NXf2NhZa1GEwxC) | [Humble Soles](https://open.spotify.com/artist/0js1ol9cMZymg0PcJdAbmv), [DJ Clue](https://open.spotify.com/artist/1g8uGVofjr2ApBrI8OZhJf), [Tyre Hakim](https://open.spotify.com/artist/330cgYbAbvsjcSQPrhPwLJ), [RJAE](https://open.spotify.com/artist/0PnrpdWmz1aJYJfNPUejmk) | [Humble Soles](https://open.spotify.com/album/7ByYlJNaU5HDMX4McPX4DR) | 2:56 |
+| 81 | [Highway to the Sky](https://open.spotify.com/track/3Mxex1RPQ8JpU9hiYX5cy5) | [Austin Brown](https://open.spotify.com/artist/2RvMNd0SA3vRFlHm20fn13) | [Highway 85](https://open.spotify.com/album/6LjVjNpmVDtop3I7X5v5oU) | 2:57 |
+| 82 | [What Did I Lose to Love You](https://open.spotify.com/track/5GMa5YK123sRZMMVZtc8hP) | [Austin Brown](https://open.spotify.com/artist/2RvMNd0SA3vRFlHm20fn13) | [Highway 85](https://open.spotify.com/album/6LjVjNpmVDtop3I7X5v5oU) | 3:23 |
+| 83 | [Where Were You](https://open.spotify.com/track/1VeWQU4FLcsoMPLsasN1aR) | [Austin Brown](https://open.spotify.com/artist/2RvMNd0SA3vRFlHm20fn13) | [Highway 85](https://open.spotify.com/album/6LjVjNpmVDtop3I7X5v5oU) | 3:32 |
+| 84 | [This Time](https://open.spotify.com/track/2vhYlpTjJR6WNcLbt6VohD) | [PARADISE LTD](https://open.spotify.com/artist/0ahtFYd681pvCSkj1vh8lv), [Wild Culture](https://open.spotify.com/artist/7hayBHpyq0PvgOt9l96hpp) | [Blood, Sweat & Tears](https://open.spotify.com/album/1agGkgiRsIb0lC6TUApqDS) | 4:07 |
+| 85 | [INTERLUDE](https://open.spotify.com/track/4RyDxpwqXhN5zI39QumvVe) | [T$](https://open.spotify.com/artist/00xAzuaRdsIegeqqDtlzae), [Willie Truitt](https://open.spotify.com/artist/3rrNr8VdtVf9y7PBg5xS9w) | [PURPLE BLOOD](https://open.spotify.com/album/4ECQGzAEn0Vj0RiPWLh1gH) | 0:37 |
 
-Snapshot ID: `AbUELAAAAACsTVCUH1xGax5y0uxqedbd`
+Snapshot ID: `AbUJzAAAAAAwnC2NE0ZhIoQGAhBQvTW9`

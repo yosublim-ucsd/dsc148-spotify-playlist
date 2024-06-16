@@ -2897,6 +2897,32 @@
     },
     {
       "album": {
+        "name": "VANTABLACK",
+        "url": "https://open.spotify.com/album/2OObNk2YheZrtE1YYZLhD7"
+      },
+      "artists": [
+        {
+          "name": "Lalah Hathaway",
+          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
+        },
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157679,
+      "name": "BLACK.",
+      "url": "https://open.spotify.com/track/5XyvCeZRFOIr9yY4QTA3Ph"
+    },
+    {
+      "album": {
         "name": "Blades",
         "url": "https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep"
       },
@@ -3572,7 +3598,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 252021,
       "name": "Box Chevy 8",
       "url": "https://open.spotify.com/track/0g5LQ3XQqQYxJiQzXSIRNh"
@@ -3598,7 +3624,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 252021,
       "name": "Box Chevy 8",
       "url": "https://open.spotify.com/track/3ulH9vUhRquuWgA2ZTI9tC"
@@ -6512,7 +6538,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 156425,
       "name": "DND (It's Not Personal) - A COLORS SHOW",
       "url": "https://open.spotify.com/track/0uhXqLoDPvsNpdgmmVpFFg"
@@ -11696,7 +11722,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 94204,
       "name": "HereIAm",
       "url": "https://open.spotify.com/track/04BcI0Ptc7lDAWNXb1MK3k"
@@ -17735,6 +17761,36 @@
     },
     {
       "album": {
+        "name": "Morning",
+        "url": "https://open.spotify.com/album/4D7zQeGF6jNh2zaJmvVnuu"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184942,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/1KSknsaLLPqWKLlVRSu8BA"
+    },
+    {
+      "album": {
         "name": "Mota",
         "url": "https://open.spotify.com/album/7BCjqTxD74UnueM9ZGJiiG"
       },
@@ -19564,7 +19620,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 186790,
       "name": "One Cry (feat. Rosa Linn)",
       "url": "https://open.spotify.com/track/2KE3Ukz2maas53WCtYIvCE"
@@ -20716,7 +20772,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 492106,
       "name": "Perfume Of The Timeless",
       "url": "https://open.spotify.com/track/2XXXvrIkEBtR3LlbfJExpJ"
@@ -22422,7 +22478,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 819861,
       "name": "Release",
       "url": "https://open.spotify.com/track/2nsnyuimK758VKC7CAKG2k"
@@ -26888,7 +26944,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 446762,
       "name": "The Call of Ktulu",
       "url": "https://open.spotify.com/track/05fbvl3wlNRQBzaDoZ6zfG"
@@ -26906,7 +26962,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 446762,
       "name": "The Call of Ktulu",
       "url": "https://open.spotify.com/track/3UlMifZrdaMzOiuTGdCq9t"
@@ -28302,7 +28358,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 179200,
       "name": "Together",
       "url": "https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW"

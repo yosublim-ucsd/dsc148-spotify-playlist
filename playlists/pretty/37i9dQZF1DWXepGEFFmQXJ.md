@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Luke Combs
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,098 likes - 90 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,323 likes - 90 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

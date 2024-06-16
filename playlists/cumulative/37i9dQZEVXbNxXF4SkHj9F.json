@@ -5418,7 +5418,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -19122,7 +19122,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 152400,
       "name": "plot twist",
       "url": "https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj"
@@ -19842,7 +19842,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 196400,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/50xSycnGMDy0Wg5jJcOv3S"
@@ -24530,6 +24530,28 @@
       "duration_ms": 282463,
       "name": "The Astronaut",
       "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
+    },
+    {
+      "album": {
+        "name": "ECHOES OF LOVE I (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6lJzDeHVkGbsLAYG5SohwR"
+      },
+      "artists": [
+        {
+          "name": "Ebstar",
+          "url": "https://open.spotify.com/artist/4mH71Zjiq36Q3SI7IZIBQK"
+        },
+        {
+          "name": "VMHP",
+          "url": "https://open.spotify.com/artist/0aJrfz6zrfSiZQjYsryD8Z"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186540,
+      "name": "The Breakup Anthem",
+      "url": "https://open.spotify.com/track/2EpIKv03Cc0Irmw0atbkl6"
     },
     {
       "album": {

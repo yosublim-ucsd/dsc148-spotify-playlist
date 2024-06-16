@@ -485,6 +485,28 @@
     },
     {
       "album": {
+        "name": "Garam Garam (From \"Saripodhaa Sanivaaram\")",
+        "url": "https://open.spotify.com/album/4lkXZmx0fyol03xmpQcqV3"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250761,
+      "name": "Garam Garam (From \"Saripodhaa Sanivaaram\")",
+      "url": "https://open.spotify.com/track/0qdiNx11tQtjFCqbko9i2k"
+    },
+    {
+      "album": {
         "name": "Ghani",
         "url": "https://open.spotify.com/album/1YJtmp0TTJQNN3YsRRq34I"
       },
@@ -1550,7 +1572,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 265283,
       "name": "Sweety",
       "url": "https://open.spotify.com/track/0JwGSIPH2wzFVl6ZW1RQoW"

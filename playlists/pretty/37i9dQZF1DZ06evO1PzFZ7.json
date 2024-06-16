@@ -1,12 +1,12 @@
 {
-  "description": "This Is \u00c1ngela Aguilar. Los temas esenciales, todos en una lista.",
-  "num_followers": 148791,
+  "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
+  "num_followers": 148909,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAADOpIpCmj5nC083qq8hri58",
+  "snapshot_id": "ZmuIAAAAAACbWWTOYHL/jv6yw+pccdoV",
   "tracks": [
     {
       "added_at": null,
@@ -39,6 +39,22 @@
       "duration_ms": 205236,
       "name": "En Realidad",
       "url": "https://open.spotify.com/track/0yig7Mn3nsz17bRgyeameH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gotitas Saladas",
+        "url": "https://open.spotify.com/album/3qm5AFyntlDrD2NbcVGGdU"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 203021,
+      "name": "Gotitas Saladas",
+      "url": "https://open.spotify.com/track/5Sas859pm039G13F5wEuyK"
     },
     {
       "added_at": null,
@@ -563,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mexicana Enamorada",
-        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 324365,
-      "name": "La Malague\u00f1a",
-      "url": "https://open.spotify.com/track/4ArF0aaOlk4K7VAjOVaQgq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que No Se Apague La M\u00fasica",
         "url": "https://open.spotify.com/album/58nt3Nu5aJypSy7RyVryZK"
       },
@@ -591,6 +591,22 @@
       "duration_ms": 113619,
       "name": "Amor, Amor de Mis Amores",
       "url": "https://open.spotify.com/track/15hJAORUQLQnnP6gM9DHrL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 324365,
+      "name": "La Malague\u00f1a",
+      "url": "https://open.spotify.com/track/4ArF0aaOlk4K7VAjOVaQgq"
     },
     {
       "added_at": null,
@@ -715,42 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EADDA9223",
-        "url": "https://open.spotify.com/album/4VdWh8m5cYm3XI6dhayGIg"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 246183,
-      "name": "Brillante Sobre el Mic - EADDA9223",
-      "url": "https://open.spotify.com/track/2usu9spbH4WZ43A9XiT0Tu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baila Esta Cumbia",
-        "url": "https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 168504,
-      "name": "Si una Vez",
-      "url": "https://open.spotify.com/track/6x62gRjlEeDlfIs1dKbGBN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MTV Unplugged (En Vivo)",
         "url": "https://open.spotify.com/album/3I6aJW1b2g32eDirOF0hON"
       },
@@ -771,6 +751,42 @@
       "duration_ms": 462000,
       "name": "La Chancla / el Chivo / Pu\u00f1o de Tierra (En Vivo)",
       "url": "https://open.spotify.com/track/4ykmzBnsAlWN06gSCraH3t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baila Esta Cumbia",
+        "url": "https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 168504,
+      "name": "Si una Vez",
+      "url": "https://open.spotify.com/track/6x62gRjlEeDlfIs1dKbGBN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EADDA9223",
+        "url": "https://open.spotify.com/album/4VdWh8m5cYm3XI6dhayGIg"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 246183,
+      "name": "Brillante Sobre el Mic - EADDA9223",
+      "url": "https://open.spotify.com/track/2usu9spbH4WZ43A9XiT0Tu"
     },
     {
       "added_at": null,

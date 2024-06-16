@@ -4526,7 +4526,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 178579,
       "name": "B2b",
       "url": "https://open.spotify.com/track/4wTvw1dBiPXNiHTh0zzpcI"
@@ -10120,7 +10120,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 153526,
       "name": "Club classics",
       "url": "https://open.spotify.com/track/0CySZwyRJ0vyUqtSjM9i2k"
@@ -12961,6 +12961,24 @@
     },
     {
       "album": {
+        "name": "DOLA",
+        "url": "https://open.spotify.com/album/1htw4rhCdHzbAW08LZRSTK"
+      },
+      "artists": [
+        {
+          "name": "ANGGA DERMAWAN",
+          "url": "https://open.spotify.com/artist/2VyXluaQ6KiQdNLecBtLXY"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230568,
+      "name": "DOLA",
+      "url": "https://open.spotify.com/track/09pjOS7jbVp1ahW8igArTZ"
+    },
+    {
+      "album": {
         "name": "Don Dimadon",
         "url": "https://open.spotify.com/album/3AL6ynr4iZhCbOHO3XzLtA"
       },
@@ -13764,7 +13782,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 299247,
       "name": "D\u00fc\u015fer O",
       "url": "https://open.spotify.com/track/7cCreOFQhqqhCm82twJg0u"
@@ -20466,7 +20484,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-08",
+      "date_removed": null,
       "duration_ms": 184841,
       "name": "HOT TO GO!",
       "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
@@ -24767,6 +24785,32 @@
     },
     {
       "album": {
+        "name": "Kisses (feat. bbyclose)",
+        "url": "https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34"
+      },
+      "artists": [
+        {
+          "name": "BL3SS",
+          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
+        },
+        {
+          "name": "CamrinWatsin",
+          "url": "https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6"
+        },
+        {
+          "name": "bbyclose",
+          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138246,
+      "name": "Kisses (feat. bbyclose)",
+      "url": "https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG"
+    },
+    {
+      "album": {
         "name": "Kitchen Stove",
         "url": "https://open.spotify.com/album/132f6mj4FFCdfh5DnZUy7o"
       },
@@ -28414,7 +28458,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 179586,
       "name": "LUNCH",
       "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
@@ -28454,7 +28498,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 333986,
       "name": "L\u2019AMOUR DE MA VIE",
       "url": "https://open.spotify.com/track/6fPan2saHdFaIHuTSatORv"

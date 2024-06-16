@@ -1,12 +1,12 @@
 {
   "description": "This is Gracie Abrams. The essential tracks, all in one playlist.",
-  "num_followers": 77406,
+  "num_followers": 77563,
   "original_name": "This Is Gracie Abrams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAACRuIxU8phgDMqbEJPF87vV",
+  "snapshot_id": "ZmuIAAAAAAAeg4YfO15/saVZJSJLPWVU",
   "tracks": [
     {
       "added_at": null,
@@ -71,22 +71,6 @@
       "duration_ms": 167538,
       "name": "I miss you, I\u2019m sorry",
       "url": "https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mess It Up",
-        "url": "https://open.spotify.com/album/6VnfHoGb1PKxRPmjNBmeMf"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 171280,
-      "name": "Mess It Up",
-      "url": "https://open.spotify.com/track/0PLhwCmQ7cC3ThRGPn3HxF"
     },
     {
       "added_at": null,
@@ -264,9 +248,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 217368,
-      "name": "Rockland",
-      "url": "https://open.spotify.com/track/5V03tsbEzYG0PmRrh3K4rF"
+      "duration_ms": 246352,
+      "name": "Camden",
+      "url": "https://open.spotify.com/track/1NAWiOec7X7xTa24nXQFCG"
     },
     {
       "added_at": null,
@@ -328,9 +312,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 170805,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/0vZhOON6GYVBxv6ZeeHyZ0"
+      "duration_ms": 180488,
+      "name": "The Bottom",
+      "url": "https://open.spotify.com/track/4Sk74gcXTe9dnE1HU5Pn1y"
     },
     {
       "added_at": null,
@@ -360,9 +344,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 218440,
-      "name": "Long Sleeves",
-      "url": "https://open.spotify.com/track/3wIRxCIGmdxld4ZC6yShZ9"
+      "duration_ms": 141826,
+      "name": "Under / Over",
+      "url": "https://open.spotify.com/track/6e5UOAU8hWJq7FKbHGPp2y"
     },
     {
       "added_at": null,
@@ -392,9 +376,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 160561,
-      "name": "Wishful Thinking",
-      "url": "https://open.spotify.com/track/1vJKO2Phq0XB5MoZ6iMx8x"
+      "duration_ms": 170805,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/0vZhOON6GYVBxv6ZeeHyZ0"
     },
     {
       "added_at": null,
@@ -440,9 +424,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 125452,
-      "name": "Painkillers",
-      "url": "https://open.spotify.com/track/2DWuT8Xe7IeZK6feMqH7it"
+      "duration_ms": 160561,
+      "name": "Wishful Thinking",
+      "url": "https://open.spotify.com/track/1vJKO2Phq0XB5MoZ6iMx8x"
     }
   ],
   "unique_name": "This Is Gracie Abrams",

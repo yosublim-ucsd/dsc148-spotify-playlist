@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ov2lQ.md) - [plain]
 
 > This is Biosphere\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,088 likes - 50 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,086 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ov2lQ.md) - [plain]
 | 26 | [Monju\-1](https://open.spotify.com/track/7skmHTJZz8l3xm2QgiJdXj) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [N\-Plants](https://open.spotify.com/album/3pLDeqeie523ruDyHahav3) | 2:41 |
 | 27 | [Birds Fly By Flapping their Wings](https://open.spotify.com/track/4TWzk0mTsVcwZRGkpoxjvG) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 6:35 |
 | 28 | [Grand Dome](https://open.spotify.com/track/5K58ZWWb2ecuEDwQhQ6Dt0) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Cirque](https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl) | 5:36 |
-| 29 | [Talking to Some Imaginary Person](https://open.spotify.com/track/1xcpQJjF2TLxzCmQIIZPyY) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR) | 3:25 |
-| 30 | [Tanß](https://open.spotify.com/track/4pycEDAeyKSWyumBrtnn3S) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shortwave Memories](https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy) | 5:40 |
+| 29 | [Tanß](https://open.spotify.com/track/4pycEDAeyKSWyumBrtnn3S) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shortwave Memories](https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy) | 5:40 |
+| 30 | [Talking to Some Imaginary Person](https://open.spotify.com/track/1xcpQJjF2TLxzCmQIIZPyY) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR) | 3:25 |
 | 31 | [Warmed By the Drift](https://open.spotify.com/track/5hfG9ztj7AMC4hv1z2CYXK) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 6:50 |
 | 32 | [Miniature Rock Dwellers](https://open.spotify.com/track/0SrIBh7MBoZ741GpqZIgqO) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Cirque](https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl) | 1:04 |
 | 33 | [Black Mesa \(feat\. Joan Lorring & Leslie Howard\) \- \[Joris Voorn Remix\] \[Mixed\]](https://open.spotify.com/track/7etsqxB6RZWBImUKly4b5c) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr), [Joan Lorring](https://open.spotify.com/artist/5SJyvsQqcxNC5QHAFrAj6b), [Leslie Howard](https://open.spotify.com/artist/3rtmHn2sseyxyY21Uh6B31), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Global Underground \#43: Joris Voorn \- Rotterdam \(DJ Mix\)](https://open.spotify.com/album/19mo8UP3Rhdqw1SGBbUFvf) | 1:43 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ov2lQ.md) - [plain]
 | 44 | [Cloudwalker Ii](https://open.spotify.com/track/1sc11Z7HhrSqxFE0YTfH7Z) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Microgravity](https://open.spotify.com/album/1eAieJhXAdvfDc3T2bikrY) | 5:26 |
 | 45 | [Qual Linea Al Centro](https://open.spotify.com/track/33VVSLjvt7d7Eq7n9lclPD) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [L'incoronazione Di Poppea](https://open.spotify.com/album/4TgfPL0vRiA2MToVsBcUEA) | 1:43 |
 | 46 | [Shenzhou](https://open.spotify.com/track/7tXtScBvkr3jYe6e6MfVuL) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 4:59 |
-| 47 | [Down On Ropes](https://open.spotify.com/track/39MxHQGDytjIla3hT87hob) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Departed Glories](https://open.spotify.com/album/78KLYq0YJ5vgbPy9BYlpz9) | 3:10 |
-| 48 | [Delta Function](https://open.spotify.com/track/5BU2xQh5hTf2hvs3MF1vcD) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Inland Delta](https://open.spotify.com/album/2JjR9KTuYLUDLctLpcAYiq) | 5:12 |
+| 47 | [Random Walk](https://open.spotify.com/track/3gKE9QNCacM76LP97oQajn) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Inland Delta](https://open.spotify.com/album/2JjR9KTuYLUDLctLpcAYiq) | 7:21 |
+| 48 | [Down On Ropes](https://open.spotify.com/track/39MxHQGDytjIla3hT87hob) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Departed Glories](https://open.spotify.com/album/78KLYq0YJ5vgbPy9BYlpz9) | 3:10 |
 | 49 | [Tornerai? II](https://open.spotify.com/track/0cxrDTGxIv2kj5ZaVqkUeW) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [L'incoronazione Di Poppea](https://open.spotify.com/album/4TgfPL0vRiA2MToVsBcUEA) | 1:31 |
-| 50 | [Decryption \- Sketch Remix 1](https://open.spotify.com/track/3OhW6WrTctMrHUOjBNH2ea) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr), [Sketch](https://open.spotify.com/artist/0WIvZeTr7H3B4qvY4aAKzl) | [Patashnik \[Decrypted By Sketch\]](https://open.spotify.com/album/1ufomz4DidAU7QxfXkhpQE) | 16:15 |
+| 50 | [Kent Country Train](https://open.spotify.com/track/3ZfjmvEQOCYwahIfCCQGQc) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 2:28 |
 
-Snapshot ID: `Zmo2gAAAAADeHXHMrqrSOUQgCob+rYiP`
+Snapshot ID: `ZmuIAAAAAADWRDw9vIjYwz294Ndg6bWh`

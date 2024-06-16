@@ -1,29 +1,13 @@
 {
-  "description": "This is Deuter. Les chansons essentielles, toutes regroup\u00e9es dans une seule liste de lecture.",
-  "num_followers": 17828,
+  "description": "This is Deuter. The essential tracks, all in one playlist.",
+  "num_followers": 17835,
   "original_name": "This Is Deuter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAAAGtaPaaBslBlzRdPL3BpcB",
+  "snapshot_id": "ZmuIAAAAAAAPA2rv6gU7nVY/8GzFQzW7",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Komorebi sunlight through trees",
-        "url": "https://open.spotify.com/album/6VcOA76z5hcfhy4NzBLQGw"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 283114,
-      "name": "Anemoi",
-      "url": "https://open.spotify.com/track/2JQ2wFAD9tEooUsnIwMKiz"
-    },
     {
       "added_at": null,
       "album": {
@@ -52,9 +36,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 272653,
-      "name": "Hands of Love",
-      "url": "https://open.spotify.com/track/5jhjteLUEdraJNZOWco1dN"
+      "duration_ms": 478520,
+      "name": "Lovesong from the Mountains",
+      "url": "https://open.spotify.com/track/3MJd5S8ZIUp19dVvKxgNoe"
     },
     {
       "added_at": null,
@@ -120,9 +104,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 478520,
-      "name": "Lovesong from the Mountains",
-      "url": "https://open.spotify.com/track/3MJd5S8ZIUp19dVvKxgNoe"
+      "duration_ms": 272653,
+      "name": "Hands of Love",
+      "url": "https://open.spotify.com/track/5jhjteLUEdraJNZOWco1dN"
     },
     {
       "added_at": null,
@@ -184,9 +168,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 572853,
-      "name": "Sound of Invisible Waters",
-      "url": "https://open.spotify.com/track/2SIgGbcduNKHTFEFcvmUaS"
+      "duration_ms": 499266,
+      "name": "Kindred Spirit",
+      "url": "https://open.spotify.com/track/3DnYVJJH3H6P7Svy4x2DYT"
     },
     {
       "added_at": null,
@@ -252,9 +236,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 499266,
-      "name": "Kindred Spirit",
-      "url": "https://open.spotify.com/track/3DnYVJJH3H6P7Svy4x2DYT"
+      "duration_ms": 572853,
+      "name": "Sound of Invisible Waters",
+      "url": "https://open.spotify.com/track/2SIgGbcduNKHTFEFcvmUaS"
     },
     {
       "added_at": null,
@@ -715,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bamboo Forest",
-        "url": "https://open.spotify.com/album/0UpRbuoMpbzQ4hzflnVP8H"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 185573,
-      "name": "Mist in a Temple Cave",
-      "url": "https://open.spotify.com/track/2LxuJmLecSL0sPd6K0d2wy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spiritual Healing",
         "url": "https://open.spotify.com/album/40zjyuW6wrUhGKCuhMZCEA"
       },
@@ -759,6 +727,22 @@
       "duration_ms": 420160,
       "name": "Black Velvet Flirt",
       "url": "https://open.spotify.com/track/23d2D25xH2EYs8dy5bvi5Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bamboo Forest",
+        "url": "https://open.spotify.com/album/0UpRbuoMpbzQ4hzflnVP8H"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 185573,
+      "name": "Mist in a Temple Cave",
+      "url": "https://open.spotify.com/track/2LxuJmLecSL0sPd6K0d2wy"
     },
     {
       "added_at": null,

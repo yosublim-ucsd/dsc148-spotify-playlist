@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 739,136 likes - 120 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 739,167 likes - 120 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

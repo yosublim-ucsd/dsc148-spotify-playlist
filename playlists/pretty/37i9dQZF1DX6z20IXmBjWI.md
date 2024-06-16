@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6z20IXmBjWI.md) - [plain]
 
 > Acoustic and roots music gems\. Cover: Trousdale
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,775 likes - 160 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,797 likes - 160 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

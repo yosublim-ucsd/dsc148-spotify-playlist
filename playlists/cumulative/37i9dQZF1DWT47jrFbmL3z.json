@@ -1651,6 +1651,24 @@
     },
     {
       "album": {
+        "name": "Too Much Of A Good Thing",
+        "url": "https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2024-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171618,
+      "name": "Too Much Of A Good Thing",
+      "url": "https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7"
+    },
+    {
+      "album": {
         "name": "wanna take this downtown?",
         "url": "https://open.spotify.com/album/2ZFg5xTsm9GNA9jwM6E2Kn"
       },

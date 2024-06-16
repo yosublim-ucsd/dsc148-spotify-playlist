@@ -2,9 +2,9 @@
 
 ### [RAGE](https://open.spotify.com/playlist/37i9dQZF1DX7e6SyPRzzx0)
 
-> The home of rage rap\. Cover: Homixide Gang
+> The home of rage rap\. Cover: Destroy Lonely
 
-94 songs - 3 hr 56 min
+95 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [LANCEY OR LANCEY](https://open.spotify.com/track/187zHzb6JDM4YDSFNGkQ9u) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [LIFE IN HELL](https://open.spotify.com/album/7A6MutudrSxcDa47a6HHOM) | 3:07 | 2023-12-01 |  |
 | [Lifestyle](https://open.spotify.com/track/20v5X5P8guUGTQQ1EAWys4) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Homixide Lifestyle](https://open.spotify.com/album/4vw2hN5xBkFXRBAfnGjUmK) | 2:17 | 2023-12-01 | 2024-03-16 |
 | [listen!](https://open.spotify.com/track/12eAtj918bpsB4Vts8pCMu) | [hako](https://open.spotify.com/artist/71UHb0juSLfDoktgvCELin) | [listen! \(sped up\)](https://open.spotify.com/album/6IkOB88aFkkxIJT8u46SYF) | 1:28 | 2024-03-15 |  |
-| [LUV 4 YA](https://open.spotify.com/track/4gy2E8Wwz5hgwOLjv03cYS) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [LUV 4 YA](https://open.spotify.com/album/0tTnvcy5uv8w6SXgWw7cOZ) | 3:32 | 2024-06-14 |  |
+| [LUV 4 YA](https://open.spotify.com/track/2V9ssBr0S36RJdEXqAREfH) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [LUV 4 YA](https://open.spotify.com/album/2k04YImJq8pTvYTOwSB66U) | 3:32 | 2024-06-15 |  |
+| [LUV 4 YA](https://open.spotify.com/track/4gy2E8Wwz5hgwOLjv03cYS) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [LUV 4 YA](https://open.spotify.com/album/0tTnvcy5uv8w6SXgWw7cOZ) | 3:32 | 2024-06-14 | 2024-06-16 |
 | [Lyfe](https://open.spotify.com/track/5GT6tY36LQwQdPfE25NaBA) | [teefaygoo](https://open.spotify.com/artist/58KTnqvNCXA8sd6IHAQ5IV), [prodbysky](https://open.spotify.com/artist/4dkg1q2DJECBqjrSMs8ULh) | [Lyfe \- Instrumental](https://open.spotify.com/album/5sIyurLZodpO94l4l2WMG5) | 2:55 | 2024-01-12 | 2024-02-21 |
 | [MADONNA & RIHANNA](https://open.spotify.com/track/704qSGogleVeb46KLsMl2e) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [MADONNA & RIHANNA](https://open.spotify.com/album/0r81t0FQLIyyAytNSLUbqy) | 2:02 | 2024-04-05 |  |
 | [Magnolia](https://open.spotify.com/track/1e1JKLEDKP7hEQzJfNAgPl) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 3:01 | 2024-03-15 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > All the songs with more than 1 BILLION streams on Spotify\. Cover: Rosalía
 
-[Spotify](https://open.spotify.com/user/spotify) - 614,950 likes - 660 songs - 1 day 16 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,310 likes - 660 songs - 1 day 16 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Julius Rodriguez
 
-[Spotify](https://open.spotify.com/user/spotify) - 929,301 likes - 100 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 929,427 likes - 100 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 4 | [Love](https://open.spotify.com/track/2FXXvvrkwREbBzzT5j5R89) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Love](https://open.spotify.com/album/1Tjpcv4qOxzGikjy4oKwmF) | 3:42 |
 | 5 | [Bolo Na \(feat\. Moor Mother, Joel Ross\)](https://open.spotify.com/track/4FQAxshBZidR2if07k021H) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Moor Mother](https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [Night Reign](https://open.spotify.com/album/2JdE3ilolUGhsNkW1oQfvf) | 6:14 |
 | 6 | [Kiss Yo' Ass Goodbye](https://open.spotify.com/track/6vkWk9kEyhsGpLsybHLKFB) | [Red Hot Org](https://open.spotify.com/artist/7ydpneBAwLegNysaViOxHA), [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Kronos Quartet](https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3), [Sara Miyamoto](https://open.spotify.com/artist/1Jwf2KArN4zKklP5zb74Zz) | [Kiss Yo' Ass Goodbye](https://open.spotify.com/album/15ddJIGLgokdLB3WYhlV0o) | 9:41 |
-| 7 | [Eden](https://open.spotify.com/track/14lPtmQaItu8yyUsmn0kJr) | [Al Di Meola](https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q) | [Eden](https://open.spotify.com/album/0vxJdKq30ucBCDe8Xp50bL) | 4:29 |
+| 7 | [Eden](https://open.spotify.com/track/14lPtmQaItu8yyUsmn0kJr) | [Al Di Meola](https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q), [Siuxx](https://open.spotify.com/artist/62Bzq7sIaStaE1ENlVWFAF) | [Eden](https://open.spotify.com/album/0vxJdKq30ucBCDe8Xp50bL) | 4:29 |
 | 8 | [Libations: KwaKhangelamankengana](https://open.spotify.com/track/71OFi2giEZnnF9kfhWUlq1) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [uNomkhubulwane](https://open.spotify.com/album/282PG9yezvXZUVMimjWkXw) | 6:27 |
 | 9 | [Road to Ilha Grande](https://open.spotify.com/track/6vV2uc1YEmS7IXxPauGzJa) | [Bill Evans](https://open.spotify.com/artist/2PyoC81N6Uz8xs5Lzaquje), [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj) | [Road to Ilha Grande](https://open.spotify.com/album/71caZmzyY8y1YRvSaLQK6D) | 5:54 |
 | 10 | [Kim K](https://open.spotify.com/track/0w9qz6eqLqHNHu27DoI2dp) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU), [BODUR](https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU) | [Kim K](https://open.spotify.com/album/58npMduIodm4oYOAPXCB1o) | 3:22 |

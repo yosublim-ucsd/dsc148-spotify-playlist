@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 
 > A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.
 
-[Spotify](https://open.spotify.com/user/spotify) - 770,800 likes - 75 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 770,982 likes - 75 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

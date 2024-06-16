@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:4MgA2G0NoAMdcFBaK5ZAfw">Loswan Melgar</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,060 likes - 99 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,094 likes - 99 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [FAYA](https://open.spotify.com/track/1RJvNfqqGBC2SMI4Ye6MyN) | [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw) | [FAYA](https://open.spotify.com/album/07kRXxkEOn1mcu5DumPce1) | 2:33 |
 | 2 | [Del Agua Al Cielo](https://open.spotify.com/track/1eDMdg30D6ylaY3cFhKeva) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh), [Eliezer Daniels](https://open.spotify.com/artist/0XSbTfozK3F8xeYpPneVO9), [Esteban Music](https://open.spotify.com/artist/0Xuf6wb2j6Ok0KTAZNJTmH) | [Del Agua Al Cielo](https://open.spotify.com/album/1OCvOFV7UCnBknPshXgXaC) | 3:29 |
 | 3 | [Lo Mío Es Tuyo](https://open.spotify.com/track/2tPIEUQ8AxHdukWLUug8Ih) | [Townix](https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2) | [Lo Mío Es Tuyo](https://open.spotify.com/album/4m8562lRDuyOM3SdOr3pr0) | 3:05 |
-| 4 | [01 FUEGO](https://open.spotify.com/track/0XVMNKaQZOpMfvBja8MGjM) | [Tomi Perfetti](https://open.spotify.com/artist/5uzIBotVPw3Zb6dG74Ua7Z) | [FUEGO](https://open.spotify.com/album/6yTEwg3yr25E5trXinHnIW) | 2:28 |
+| 4 | [01 FUEGO](https://open.spotify.com/track/0XVMNKaQZOpMfvBja8MGjM) | [Tomi Perfetti](https://open.spotify.com/artist/5uzIBotVPw3Zb6dG74Ua7Z), [Snail Lake](https://open.spotify.com/artist/4ykoG2iZk0tSbojpH88lSP) | [FUEGO](https://open.spotify.com/album/6yTEwg3yr25E5trXinHnIW) | 2:28 |
 | 5 | [I SEE](https://open.spotify.com/track/4LacApp0rfeqpwoGCA3tjR) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [I SEE](https://open.spotify.com/album/73bH3w49yuWQ2gM2qISOFp) | 2:47 |
 | 6 | [Días Buenos :\)](https://open.spotify.com/track/51xp0if6i0fqsbcksIg4if) | [David Muguercia](https://open.spotify.com/artist/5nMM1vcEVt8ZMtMozqQ4fu) | [Días Buenos :\)](https://open.spotify.com/album/5bgFo0ihjsMLcVZEylP4KC) | 2:40 |
 | 7 | [The Grace](https://open.spotify.com/track/1Gqsa9pacCojrPOO3On8It) | [Casdapro](https://open.spotify.com/artist/3DL44Lztjajt2EnANMCk2X) | [The Grace](https://open.spotify.com/album/0JhC81hi8MQwHtwnLmd0Fl) | 2:13 |

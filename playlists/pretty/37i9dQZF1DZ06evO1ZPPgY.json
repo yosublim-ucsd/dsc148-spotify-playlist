@@ -1,13 +1,29 @@
 {
-  "description": "This Is Barry White. Los temas esenciales, todos en una lista.",
-  "num_followers": 217218,
+  "description": "This is Barry White. The essential tracks, all in one playlist.",
+  "num_followers": 217262,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAABnelsp4D4tl4aCz3MUx9kY",
+  "snapshot_id": "ZmuIAAAAAABhfbnP9b92b9HY9bIT9rXn",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let The Music Play (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2DQOfMwyvGxAd964nKx1it"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 210386,
+      "name": "Let The Music Play - Single Version",
+      "url": "https://open.spotify.com/track/75pBjCi8cxfkp4xd68uo6O"
+    },
     {
       "added_at": null,
       "album": {
@@ -20,25 +36,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 206936,
-      "name": "You're The First, The Last, My Everything - Edit",
-      "url": "https://open.spotify.com/track/5EcmvgWODi8PNTfVeTlZjb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Can't Get Enough",
-        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 274000,
+      "duration_ms": 242573,
       "name": "Can't Get Enough Of Your Love, Babe",
-      "url": "https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx"
+      "url": "https://open.spotify.com/track/7LaCgCP7FCol0RYwMDQKwK"
     },
     {
       "added_at": null,
@@ -55,6 +55,22 @@
       "duration_ms": 209906,
       "name": "You See The Trouble With Me",
       "url": "https://open.spotify.com/track/3O48gtvD20jxiNtT7tWr4C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 276466,
+      "name": "You're The First, The Last, My Everything",
+      "url": "https://open.spotify.com/track/5dXJ1SoksFkgdx3yxIoYNO"
     },
     {
       "added_at": null,
@@ -84,25 +100,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 242573,
-      "name": "Can't Get Enough Of Your Love, Babe",
-      "url": "https://open.spotify.com/track/7LaCgCP7FCol0RYwMDQKwK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Can't Get Enough",
-        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 276466,
-      "name": "You're The First, The Last, My Everything",
-      "url": "https://open.spotify.com/track/5dXJ1SoksFkgdx3yxIoYNO"
+      "duration_ms": 289106,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/1Xf1lWBSml62NG1du3Ro14"
     },
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barry White - The Collection",
-        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 289106,
-      "name": "Just The Way You Are",
-      "url": "https://open.spotify.com/track/1Xf1lWBSml62NG1du3Ro14"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let The Music Play",
         "url": "https://open.spotify.com/album/2e9sKnS0ISiTbrrn181xlM"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 265506,
       "name": "Baby We Better Try To Get It Together",
       "url": "https://open.spotify.com/track/1JUjt5q1mlm7DvvkaFpkEh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barry White - The Collection",
+        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 250493,
+      "name": "I'll Do For You Anything You Want Me To",
+      "url": "https://open.spotify.com/track/5G1UUuiREQXwDfpJaxu3BC"
     },
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barry White - The Collection",
-        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 250493,
-      "name": "I'll Do For You Anything You Want Me To",
-      "url": "https://open.spotify.com/track/5G1UUuiREQXwDfpJaxu3BC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back On The Block",
         "url": "https://open.spotify.com/album/5DR4gcd3fj3E6XhbPTaF82"
       },
@@ -255,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/2YjxVI9GEc7StNjU4PVhOE"
+        "name": "Barry White - The Collection",
+        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
       },
       "artists": [
         {
@@ -264,9 +248,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 239306,
-      "name": "Practice What You Preach",
-      "url": "https://open.spotify.com/track/5PaTu8aN7ozpFbEb0DwEbt"
+      "duration_ms": 199866,
+      "name": "Don't Make Me Wait Too Long",
+      "url": "https://open.spotify.com/track/1d9QTZFpruDdK81YlwPlmE"
     },
     {
       "added_at": null,
@@ -287,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barry White - The Collection",
-        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/2YjxVI9GEc7StNjU4PVhOE"
       },
       "artists": [
         {
@@ -296,9 +280,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 199866,
-      "name": "Don't Make Me Wait Too Long",
-      "url": "https://open.spotify.com/track/1d9QTZFpruDdK81YlwPlmE"
+      "duration_ms": 239306,
+      "name": "Practice What You Preach",
+      "url": "https://open.spotify.com/track/5PaTu8aN7ozpFbEb0DwEbt"
     },
     {
       "added_at": null,
@@ -319,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barry White Sings For Someone You Love",
-        "url": "https://open.spotify.com/album/65orbyfwR353KTYqz3seIu"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 417600,
-      "name": "It's Ecstasy When You Lay Down Next To Me",
-      "url": "https://open.spotify.com/track/3QXNBUYJX2aekx6mHQ14GZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All-Time Greatest Hits",
         "url": "https://open.spotify.com/album/5cxxcKC0cjR3sZqiJATB6j"
       },
@@ -347,6 +315,22 @@
       "duration_ms": 192160,
       "name": "I'm Qualified To Satisfy You - Edit",
       "url": "https://open.spotify.com/track/2zG5Yo3FFSjdsDuLzejIZe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barry White Sings For Someone You Love",
+        "url": "https://open.spotify.com/album/65orbyfwR353KTYqz3seIu"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 235293,
+      "name": "Oh What A Night For Dancing",
+      "url": "https://open.spotify.com/track/1CMgTRTMXSzIH4nYJX7fbh"
     },
     {
       "added_at": null,
@@ -379,22 +363,6 @@
       "duration_ms": 261733,
       "name": "Just Not Enough",
       "url": "https://open.spotify.com/track/6ZOMSx70yBrS8NI74afiDH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Barry White Sings For Someone You Love",
-        "url": "https://open.spotify.com/album/65orbyfwR353KTYqz3seIu"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 235293,
-      "name": "Oh What A Night For Dancing",
-      "url": "https://open.spotify.com/track/1CMgTRTMXSzIH4nYJX7fbh"
     },
     {
       "added_at": null,
@@ -479,18 +447,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Put Me In Your Mix",
-        "url": "https://open.spotify.com/album/6ZB7sec84vKJ6mBXocdfwL"
+        "name": "Q's Jook Joint",
+        "url": "https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1"
       },
       "artists": [
         {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        },
+        {
           "name": "Barry White",
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        },
+        {
+          "name": "Portrait",
+          "url": "https://open.spotify.com/artist/08fM8wx6uuEwagFsUvQp35"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Tamia",
+          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
         }
       ],
-      "duration_ms": 345333,
-      "name": "Volare",
-      "url": "https://open.spotify.com/track/1LqKlCrgljbKSrjwIfF6cy"
+      "duration_ms": 450600,
+      "name": "Slow Jams",
+      "url": "https://open.spotify.com/track/6CtrSJaPZxcGn991fLgxJF"
     },
     {
       "added_at": null,
@@ -511,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't Get Enough",
-        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
+        "name": "Put Me In Your Mix",
+        "url": "https://open.spotify.com/album/6ZB7sec84vKJ6mBXocdfwL"
       },
       "artists": [
         {
@@ -520,9 +504,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 299226,
-      "name": "I Love You More Than Anything (In This World Girl)",
-      "url": "https://open.spotify.com/track/4Ltz2LvHKcegbx1D6PpdVI"
+      "duration_ms": 345333,
+      "name": "Volare",
+      "url": "https://open.spotify.com/track/1LqKlCrgljbKSrjwIfF6cy"
     },
     {
       "added_at": null,
@@ -539,6 +523,22 @@
       "duration_ms": 190333,
       "name": "I've Got So Much To Give",
       "url": "https://open.spotify.com/track/30BIQMWprmAlVae1W4BRBw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 299226,
+      "name": "I Love You More Than Anything (In This World Girl)",
+      "url": "https://open.spotify.com/track/4Ltz2LvHKcegbx1D6PpdVI"
     },
     {
       "added_at": null,
@@ -627,6 +627,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pavarotti - The Greatest Hits",
+        "url": "https://open.spotify.com/album/2P3b56yTzSqL3HLM25qUq4"
+      },
+      "artists": [
+        {
+          "name": "Peter Sterling Radcliffe",
+          "url": "https://open.spotify.com/artist/54NMfgOhekddlihvy6VRdg"
+        },
+        {
+          "name": "Tony Sepe",
+          "url": "https://open.spotify.com/artist/5OQcWjJISTnIWZT7iMGfjL"
+        },
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        }
+      ],
+      "duration_ms": 267106,
+      "name": "You're The First, The Last, My Everything - Live",
+      "url": "https://open.spotify.com/track/62OKQRxgusW4mvvUwLjGye"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Can't Get Enough",
         "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
       },
@@ -643,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barry White's Greatest Hits",
-        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 323000,
-      "name": "Standing In The Shadows Of Love",
-      "url": "https://open.spotify.com/track/1MFy8oFHdtCiAnyueQ5ffI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Staying Power",
         "url": "https://open.spotify.com/album/4N5IZ7S83zs2UQGxtzkDdS"
       },
@@ -671,6 +683,22 @@
       "duration_ms": 370266,
       "name": "Staying Power",
       "url": "https://open.spotify.com/track/1rjXVxlsnbXDGhWX8ZW3ER"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barry White's Greatest Hits",
+        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 323000,
+      "name": "Standing In The Shadows Of Love",
+      "url": "https://open.spotify.com/track/1MFy8oFHdtCiAnyueQ5ffI"
     },
     {
       "added_at": null,
@@ -819,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Barry White - The Collection",
+        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 273466,
+      "name": "Sho' You Right",
+      "url": "https://open.spotify.com/track/5dRFOwbyqjX1ZqwzBP0iDr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Icon Is Love",
         "url": "https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ"
       },
@@ -831,22 +875,6 @@
       "duration_ms": 639600,
       "name": "Whatever We Had, We Had",
       "url": "https://open.spotify.com/track/6Lu3H89JgTh2QzGRnZqYku"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Just Another Way To Say I Love You",
-        "url": "https://open.spotify.com/album/6IrwV1l7aNrX3QgBqfoj9U"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 620760,
-      "name": "Let Me Live My Life Lovin' You Babe",
-      "url": "https://open.spotify.com/track/3s3iVUIrJHHiHlRXEw4cxb"
     }
   ],
   "unique_name": "This Is Barry White",

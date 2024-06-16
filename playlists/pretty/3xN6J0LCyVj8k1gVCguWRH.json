@@ -6,7 +6,7 @@
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAAilA4vvHMyBp9LzEYVI5Gl0Q4ELFgd",
+  "snapshot_id": "AAAiqqbMhmljmGmttpyXLXrfqa7PF1mA",
   "tracks": [
     {
       "added_at": "2024-03-29 14:33:31",
@@ -89,6 +89,22 @@
       "url": "https://open.spotify.com/track/4P2dm3RqDbYG4LZ4pN4dLc"
     },
     {
+      "added_at": "2024-06-15 15:24:39",
+      "album": {
+        "name": "MILLION DOLLAR BABY",
+        "url": "https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 155151,
+      "name": "MILLION DOLLAR BABY",
+      "url": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
+    },
+    {
       "added_at": "2024-05-10 13:29:34",
       "album": {
         "name": "Rainy",
@@ -103,54 +119,6 @@
       "duration_ms": 147894,
       "name": "Rainy",
       "url": "https://open.spotify.com/track/3p8lRdtsdptq9Td8I7ewjk"
-    },
-    {
-      "added_at": "2024-06-14 23:00:40",
-      "album": {
-        "name": "Save My Soul",
-        "url": "https://open.spotify.com/album/70xFAT8Q8UvzrKK8mY982T"
-      },
-      "artists": [
-        {
-          "name": "My Mojo",
-          "url": "https://open.spotify.com/artist/4l0DYq1KoN3rsxcUCBT0MA"
-        }
-      ],
-      "duration_ms": 270539,
-      "name": "Save My Soul",
-      "url": "https://open.spotify.com/track/5yB6tHAhxcshgp3vaCzbBz"
-    },
-    {
-      "added_at": "2024-06-14 23:00:37",
-      "album": {
-        "name": "SERENA (Prince version)",
-        "url": "https://open.spotify.com/album/5PkySLif5lWNJzjnqpIaPb"
-      },
-      "artists": [
-        {
-          "name": "Kidd Clxoud",
-          "url": "https://open.spotify.com/artist/3a39g3GKqlwqLnW8uExsFB"
-        }
-      ],
-      "duration_ms": 222950,
-      "name": "SERENA - Prince version",
-      "url": "https://open.spotify.com/track/4Phs1OOx1HkMWhpsdLmA9S"
-    },
-    {
-      "added_at": "2024-06-14 23:00:50",
-      "album": {
-        "name": "Reckoning",
-        "url": "https://open.spotify.com/album/3qCaXBFLoz6xJVWbgFn5zy"
-      },
-      "artists": [
-        {
-          "name": "Slstrss",
-          "url": "https://open.spotify.com/artist/3I2THwf2FsgtggwlhGrube"
-        }
-      ],
-      "duration_ms": 202921,
-      "name": "Reckoning",
-      "url": "https://open.spotify.com/track/63fQAhgOzcVWwi4wyDixaK"
     },
     {
       "added_at": "2024-06-12 12:45:31",
@@ -297,20 +265,28 @@
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
-      "added_at": "2024-06-04 15:26:20",
+      "added_at": "2024-06-15 06:02:33",
       "album": {
-        "name": "Can't Stop",
-        "url": "https://open.spotify.com/album/704KBeTw7PNwDzR0RxWvQc"
+        "name": "One Time (Precision Productions & Samman Remix)",
+        "url": "https://open.spotify.com/album/1vQnlehrYwivmfV3KcmhfZ"
       },
       "artists": [
         {
-          "name": "Garden City Movement",
-          "url": "https://open.spotify.com/artist/3HrczLBDJXJu6dJWEMbKHa"
+          "name": "Moelogo",
+          "url": "https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D"
+        },
+        {
+          "name": "Precision Productions",
+          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
+        },
+        {
+          "name": "Samman",
+          "url": "https://open.spotify.com/artist/4CRsbfaTvCz9lkeJEyBjMm"
         }
       ],
-      "duration_ms": 170750,
-      "name": "Can't Stop",
-      "url": "https://open.spotify.com/track/14ipuliZAst3Kn7AE2dU1H"
+      "duration_ms": 221217,
+      "name": "One Time - Precision Productions & Samman Remix",
+      "url": "https://open.spotify.com/track/43MT3JlrX9sqXw4YfEog3V"
     },
     {
       "added_at": "2024-06-05 14:14:55",
@@ -327,22 +303,6 @@
       "duration_ms": 59836,
       "name": "Le D\u00e9part",
       "url": "https://open.spotify.com/track/0FTpFi1BlqoBVELlh7jK50"
-    },
-    {
-      "added_at": "2024-06-15 02:01:20",
-      "album": {
-        "name": "growing pains",
-        "url": "https://open.spotify.com/album/4hYVtYzN1JTtE94V98KNtS"
-      },
-      "artists": [
-        {
-          "name": "Sara Diana",
-          "url": "https://open.spotify.com/artist/5ChJvrPvd0oJoxv67xlT2v"
-        }
-      ],
-      "duration_ms": 310010,
-      "name": "growing pains",
-      "url": "https://open.spotify.com/track/0aJ4TF8p9BwxO8OusBLxqB"
     },
     {
       "added_at": "2024-06-14 13:39:56",
@@ -377,6 +337,42 @@
       "url": "https://open.spotify.com/track/3XCiRxQ5uB3YVSEB4P7uVs"
     },
     {
+      "added_at": "2024-06-15 21:01:34",
+      "album": {
+        "name": "Always Dreaming (of Gina)",
+        "url": "https://open.spotify.com/album/0Q6AE7Vpt9p7M1RmW81qOa"
+      },
+      "artists": [
+        {
+          "name": "KIND-O-CHILL",
+          "url": "https://open.spotify.com/artist/4PHMOjbAOjBNbkShrdzE3y"
+        }
+      ],
+      "duration_ms": 168719,
+      "name": "Always Dreaming (of Gina)",
+      "url": "https://open.spotify.com/track/2aHthzuDY74jguQJaXIF2Q"
+    },
+    {
+      "added_at": "2024-06-15 20:02:10",
+      "album": {
+        "name": "Strawberry Ice",
+        "url": "https://open.spotify.com/album/6kEAAukM1gf3CjS14cqRmz"
+      },
+      "artists": [
+        {
+          "name": "Soro",
+          "url": "https://open.spotify.com/artist/4oEVvyMyPXVP2h8JkNpng5"
+        },
+        {
+          "name": "Ellisay",
+          "url": "https://open.spotify.com/artist/1PNtvh0nGxEXTi9gB8btqv"
+        }
+      ],
+      "duration_ms": 151456,
+      "name": "Strawberry Ice",
+      "url": "https://open.spotify.com/track/6bYoJHuGp4o47JmyUgicZW"
+    },
+    {
       "added_at": "2024-06-05 14:31:55",
       "album": {
         "name": "Lover",
@@ -391,6 +387,22 @@
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+    },
+    {
+      "added_at": "2024-06-15 14:39:24",
+      "album": {
+        "name": "I",
+        "url": "https://open.spotify.com/album/2O9X06yNiwLSJbL8MLGC49"
+      },
+      "artists": [
+        {
+          "name": "Scoobert Doobert",
+          "url": "https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn"
+        }
+      ],
+      "duration_ms": 141250,
+      "name": "omw",
+      "url": "https://open.spotify.com/track/5vKrV3DOFxoqn5zli0HRWg"
     },
     {
       "added_at": "2024-03-14 14:34:47",
@@ -439,38 +451,6 @@
       "duration_ms": 182026,
       "name": "Easy Kinda",
       "url": "https://open.spotify.com/track/6MaLXeX254E0je1C5XbuCz"
-    },
-    {
-      "added_at": "2024-06-05 14:31:35",
-      "album": {
-        "name": "Goodbyes",
-        "url": "https://open.spotify.com/album/5iSzdROTQXPbsEyzzsqqxr"
-      },
-      "artists": [
-        {
-          "name": "Mathilde Widding",
-          "url": "https://open.spotify.com/artist/7yiilgx7kKijTeHJs2FoWb"
-        }
-      ],
-      "duration_ms": 176172,
-      "name": "Goodbyes",
-      "url": "https://open.spotify.com/track/3a86vrsmi1lDfqw1nGQHux"
-    },
-    {
-      "added_at": "2024-06-10 23:11:23",
-      "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/0H4ObxQFzYZUW6mXh9kfWM"
-      },
-      "artists": [
-        {
-          "name": "Melion Music",
-          "url": "https://open.spotify.com/artist/1J3VGrxus1PQ3kR8zGyM1W"
-        }
-      ],
-      "duration_ms": 227970,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/3jLS2y6MxwiK9nsPTFymvy"
     },
     {
       "added_at": "2024-03-12 23:36:07",
@@ -541,6 +521,38 @@
       "url": "https://open.spotify.com/track/4hNWqOYjh5hH3zPY3tEs3E"
     },
     {
+      "added_at": "2024-06-05 14:31:35",
+      "album": {
+        "name": "Goodbyes",
+        "url": "https://open.spotify.com/album/5iSzdROTQXPbsEyzzsqqxr"
+      },
+      "artists": [
+        {
+          "name": "Mathilde Widding",
+          "url": "https://open.spotify.com/artist/7yiilgx7kKijTeHJs2FoWb"
+        }
+      ],
+      "duration_ms": 176172,
+      "name": "Goodbyes",
+      "url": "https://open.spotify.com/track/3a86vrsmi1lDfqw1nGQHux"
+    },
+    {
+      "added_at": "2024-06-10 23:11:23",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/0H4ObxQFzYZUW6mXh9kfWM"
+      },
+      "artists": [
+        {
+          "name": "Melion Music",
+          "url": "https://open.spotify.com/artist/1J3VGrxus1PQ3kR8zGyM1W"
+        }
+      ],
+      "duration_ms": 227970,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/3jLS2y6MxwiK9nsPTFymvy"
+    },
+    {
       "added_at": "2024-06-07 14:28:31",
       "album": {
         "name": "Bad Party Guest (In My Dreams)",
@@ -573,58 +585,6 @@
       "url": "https://open.spotify.com/track/6OM66ijs2qFcfkDOkjWxS1"
     },
     {
-      "added_at": "2024-06-14 13:09:37",
-      "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/2nReVASJSJeVGf18GNbrM0"
-      },
-      "artists": [
-        {
-          "name": "Francisco Sola",
-          "url": "https://open.spotify.com/artist/0ek16Ht9DeNuxjdwq9ODRu"
-        }
-      ],
-      "duration_ms": 231659,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/7MCiJ15OnhI3qX7BnN3cQK"
-    },
-    {
-      "added_at": "2024-06-14 23:00:43",
-      "album": {
-        "name": "TRUE & AUTHENTIC SELF",
-        "url": "https://open.spotify.com/album/0GRS13Qdy20safUIAfD1dK"
-      },
-      "artists": [
-        {
-          "name": "Ditch The Ego",
-          "url": "https://open.spotify.com/artist/7ocZN2y1ifhSUBkfNJsKCk"
-        },
-        {
-          "name": "World Wide Beats",
-          "url": "https://open.spotify.com/artist/6LYLUhnOLQfjCoBpPTDiTE"
-        },
-        {
-          "name": "Parker Hill",
-          "url": "https://open.spotify.com/artist/7FLCI3JvqZ0hxqd46P1QHI"
-        },
-        {
-          "name": "Chris Kennedy",
-          "url": "https://open.spotify.com/artist/41bWT7afBkZEJWW3RI6Alg"
-        },
-        {
-          "name": "Brig",
-          "url": "https://open.spotify.com/artist/573xEprfQphhjDIxTiy7hI"
-        },
-        {
-          "name": "Dazmin D'leon",
-          "url": "https://open.spotify.com/artist/5ECIYzcG6bzu4rM0cFUtLA"
-        }
-      ],
-      "duration_ms": 184727,
-      "name": "TRUE & AUTHENTIC SELF",
-      "url": "https://open.spotify.com/track/6xCgcpSc0VzOJAzkxxAce3"
-    },
-    {
       "added_at": "2024-03-13 13:56:46",
       "album": {
         "name": "Saturn",
@@ -639,6 +599,22 @@
       "duration_ms": 186191,
       "name": "Saturn",
       "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
+    },
+    {
+      "added_at": "2024-06-14 13:09:37",
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/2nReVASJSJeVGf18GNbrM0"
+      },
+      "artists": [
+        {
+          "name": "Francisco Sola",
+          "url": "https://open.spotify.com/artist/0ek16Ht9DeNuxjdwq9ODRu"
+        }
+      ],
+      "duration_ms": 231659,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/7MCiJ15OnhI3qX7BnN3cQK"
     },
     {
       "added_at": "2024-06-12 13:17:48",
@@ -1789,6 +1765,138 @@
       "url": "https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG"
     },
     {
+      "added_at": "2024-06-15 06:02:35",
+      "album": {
+        "name": "Every Kind of Way",
+        "url": "https://open.spotify.com/album/2I3D4xDzcU4JqZ1zywW2Zp"
+      },
+      "artists": [
+        {
+          "name": "Marian Mulock",
+          "url": "https://open.spotify.com/artist/7L8CxnOq1JXYvIKhQTaf7b"
+        }
+      ],
+      "duration_ms": 207673,
+      "name": "Every Kind of Way",
+      "url": "https://open.spotify.com/track/4EY2f16x9kRn2GuQoGi7za"
+    },
+    {
+      "added_at": "2024-06-15 06:02:27",
+      "album": {
+        "name": "Talking In Your Sleep",
+        "url": "https://open.spotify.com/album/3E3pYeCgaXjMBBVKbwzGBd"
+      },
+      "artists": [
+        {
+          "name": "Candy Riot",
+          "url": "https://open.spotify.com/artist/4byDqRILmU1LiHszhz7Ead"
+        }
+      ],
+      "duration_ms": 248489,
+      "name": "Talking In Your Sleep",
+      "url": "https://open.spotify.com/track/3Uj3ZIu76sUFrsxBbBPP9C"
+    },
+    {
+      "added_at": "2024-06-15 06:04:13",
+      "album": {
+        "name": "Night Skies",
+        "url": "https://open.spotify.com/album/0i2FaXMnXBc55s0SKwg0gH"
+      },
+      "artists": [
+        {
+          "name": "ONLYYREECE",
+          "url": "https://open.spotify.com/artist/3gepT42nGN2OEyQ5FmnDNU"
+        }
+      ],
+      "duration_ms": 221866,
+      "name": "Night Skies",
+      "url": "https://open.spotify.com/track/4RNKofeyQuBizGTSKyrkrG"
+    },
+    {
+      "added_at": "2024-06-15 02:01:20",
+      "album": {
+        "name": "growing pains",
+        "url": "https://open.spotify.com/album/4hYVtYzN1JTtE94V98KNtS"
+      },
+      "artists": [
+        {
+          "name": "Sara Diana",
+          "url": "https://open.spotify.com/artist/5ChJvrPvd0oJoxv67xlT2v"
+        }
+      ],
+      "duration_ms": 310010,
+      "name": "growing pains",
+      "url": "https://open.spotify.com/track/0aJ4TF8p9BwxO8OusBLxqB"
+    },
+    {
+      "added_at": "2024-06-14 23:00:43",
+      "album": {
+        "name": "TRUE & AUTHENTIC SELF",
+        "url": "https://open.spotify.com/album/0GRS13Qdy20safUIAfD1dK"
+      },
+      "artists": [
+        {
+          "name": "Ditch The Ego",
+          "url": "https://open.spotify.com/artist/7ocZN2y1ifhSUBkfNJsKCk"
+        },
+        {
+          "name": "World Wide Beats",
+          "url": "https://open.spotify.com/artist/6LYLUhnOLQfjCoBpPTDiTE"
+        },
+        {
+          "name": "Parker Hill",
+          "url": "https://open.spotify.com/artist/7FLCI3JvqZ0hxqd46P1QHI"
+        },
+        {
+          "name": "Chris Kennedy",
+          "url": "https://open.spotify.com/artist/41bWT7afBkZEJWW3RI6Alg"
+        },
+        {
+          "name": "Brig",
+          "url": "https://open.spotify.com/artist/573xEprfQphhjDIxTiy7hI"
+        },
+        {
+          "name": "Dazmin D'leon",
+          "url": "https://open.spotify.com/artist/5ECIYzcG6bzu4rM0cFUtLA"
+        }
+      ],
+      "duration_ms": 184727,
+      "name": "TRUE & AUTHENTIC SELF",
+      "url": "https://open.spotify.com/track/6xCgcpSc0VzOJAzkxxAce3"
+    },
+    {
+      "added_at": "2024-06-14 23:00:40",
+      "album": {
+        "name": "Save My Soul",
+        "url": "https://open.spotify.com/album/70xFAT8Q8UvzrKK8mY982T"
+      },
+      "artists": [
+        {
+          "name": "My Mojo",
+          "url": "https://open.spotify.com/artist/4l0DYq1KoN3rsxcUCBT0MA"
+        }
+      ],
+      "duration_ms": 270539,
+      "name": "Save My Soul",
+      "url": "https://open.spotify.com/track/5yB6tHAhxcshgp3vaCzbBz"
+    },
+    {
+      "added_at": "2024-06-14 23:00:50",
+      "album": {
+        "name": "Reckoning",
+        "url": "https://open.spotify.com/album/3qCaXBFLoz6xJVWbgFn5zy"
+      },
+      "artists": [
+        {
+          "name": "Slstrss",
+          "url": "https://open.spotify.com/artist/3I2THwf2FsgtggwlhGrube"
+        }
+      ],
+      "duration_ms": 202921,
+      "name": "Reckoning",
+      "url": "https://open.spotify.com/track/63fQAhgOzcVWwi4wyDixaK"
+    },
+    {
       "added_at": "2024-06-14 06:01:17",
       "album": {
         "name": "Living Dream",
@@ -1803,6 +1911,22 @@
       "duration_ms": 192937,
       "name": "Living Dream",
       "url": "https://open.spotify.com/track/7F1K6ib5qHbyaA2O5XuF17"
+    },
+    {
+      "added_at": "2024-06-14 23:00:37",
+      "album": {
+        "name": "SERENA (Prince version)",
+        "url": "https://open.spotify.com/album/5PkySLif5lWNJzjnqpIaPb"
+      },
+      "artists": [
+        {
+          "name": "Kidd Clxoud",
+          "url": "https://open.spotify.com/artist/3a39g3GKqlwqLnW8uExsFB"
+        }
+      ],
+      "duration_ms": 222950,
+      "name": "SERENA - Prince version",
+      "url": "https://open.spotify.com/track/4Phs1OOx1HkMWhpsdLmA9S"
     },
     {
       "added_at": "2024-06-08 23:10:30",

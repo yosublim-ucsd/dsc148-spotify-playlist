@@ -1,12 +1,12 @@
 {
   "description": "This Is Paramore. Los temas esenciales, todos en una lista.",
-  "num_followers": 871352,
+  "num_followers": 871551,
   "original_name": "This Is Paramore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAAAUcxRHqrVnZtnT5qzL9xh7",
+  "snapshot_id": "ZmuIAAAAAAAzt/YELBAir/VX69feERiv",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 207652,
       "name": "This Is Why",
       "url": "https://open.spotify.com/track/7z84Fwf1R3Z2BwHCP620CI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paramore",
+        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 216013,
+      "name": "Still into You",
+      "url": "https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d"
     },
     {
       "added_at": null,
@@ -219,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burning Down the House",
-        "url": "https://open.spotify.com/album/4zJNGGmaY5E5E5i1t2m2Ek"
+        "name": "All We Know Is Falling",
+        "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
       },
       "artists": [
         {
@@ -228,9 +244,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 218093,
-      "name": "Burning Down the House",
-      "url": "https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1"
+      "duration_ms": 185733,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/7mG2RbhyzGsjpQOz568d39"
     },
     {
       "added_at": null,
@@ -247,22 +263,6 @@
       "duration_ms": 253946,
       "name": "Brick by Boring Brick",
       "url": "https://open.spotify.com/track/1a9YW7fATU351ok4zWjU7a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All We Know Is Falling",
-        "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 185733,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/7mG2RbhyzGsjpQOz568d39"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brand New Eyes",
-        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 182800,
-      "name": "Playing God",
-      "url": "https://open.spotify.com/track/7hInOqJnlEayXao08yVYAn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All We Know Is Falling",
         "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 240040,
       "name": "Emergency",
       "url": "https://open.spotify.com/track/3i4xZSH1kTLE22TUvUFMYo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 182800,
+      "name": "Playing God",
+      "url": "https://open.spotify.com/track/7hInOqJnlEayXao08yVYAn"
     },
     {
       "added_at": null,
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 187696,
-      "name": "The News",
-      "url": "https://open.spotify.com/track/59RjIhWIpthNpwrlChUvXm"
+      "duration_ms": 260384,
+      "name": "Big Man, Little Dignity",
+      "url": "https://open.spotify.com/track/2bfOeIn8bQkRr02NNX29tR"
     },
     {
       "added_at": null,
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paramore",
-        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 309293,
-      "name": "Hate to See Your Heart Break",
-      "url": "https://open.spotify.com/track/3AX4HIRJY6GT6tgMkO5987"
+      "duration_ms": 198973,
+      "name": "Fences",
+      "url": "https://open.spotify.com/track/4aICBAAFGF3pLSZDlmsMj9"
     },
     {
       "added_at": null,
@@ -600,25 +600,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 260384,
-      "name": "Big Man, Little Dignity",
-      "url": "https://open.spotify.com/track/2bfOeIn8bQkRr02NNX29tR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Riot!",
-        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 198973,
-      "name": "Fences",
-      "url": "https://open.spotify.com/track/4aICBAAFGF3pLSZDlmsMj9"
+      "duration_ms": 232998,
+      "name": "Thick Skull",
+      "url": "https://open.spotify.com/track/0M2SX26YicKMOAxqtWGPUh"
     },
     {
       "added_at": null,
@@ -635,6 +619,22 @@
       "duration_ms": 163517,
       "name": "Tell Me It's Okay - Demo",
       "url": "https://open.spotify.com/track/1b0sV4coLmS3ri2kZjr98z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 228293,
+      "name": "For a Pessimist, I'm Pretty Optimistic",
+      "url": "https://open.spotify.com/track/2PDLmgDWiwjUTxl1pPyDQA"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Riot!",
-        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 228293,
-      "name": "For a Pessimist, I'm Pretty Optimistic",
-      "url": "https://open.spotify.com/track/2PDLmgDWiwjUTxl1pPyDQA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Re: This Is Why",
         "url": "https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 210620,
       "name": "Sanity (demo)",
       "url": "https://open.spotify.com/track/2ZbHgxLSjIzqzTuZAwvbZv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Singles Club",
+        "url": "https://open.spotify.com/album/3qMoGzDfT88nl6TY7YqQs1"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 208094,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/6M9Da8TDERZzTdBYkxMRji"
     },
     {
       "added_at": null,
@@ -719,18 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Singles Club",
-        "url": "https://open.spotify.com/album/3qMoGzDfT88nl6TY7YqQs1"
+        "name": "David Byrne Does Hard Times",
+        "url": "https://open.spotify.com/album/1O2vvoFvP44PCOFdxLHzst"
       },
       "artists": [
         {
           "name": "Paramore",
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        },
+        {
+          "name": "David Byrne",
+          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
         }
       ],
-      "duration_ms": 208094,
-      "name": "Renegade",
-      "url": "https://open.spotify.com/track/6M9Da8TDERZzTdBYkxMRji"
+      "duration_ms": 183098,
+      "name": "David Byrne Does Hard Times",
+      "url": "https://open.spotify.com/track/5LJ5YEEuLmD9bk9PEYiUFI"
     },
     {
       "added_at": null,

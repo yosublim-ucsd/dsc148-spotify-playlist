@@ -2,9 +2,9 @@
 
 ### [This Is $uicideboy$](https://open.spotify.com/playlist/37i9dQZF1DZ06evO15CHq8)
 
-> This is $uicideboy$\. The essential tracks, all in one playlist.
+> This is $uicideboy$\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
-54 songs - 2 hr 12 min
+55 songs - 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Clouds as Witnesses](https://open.spotify.com/track/7s7q9dpsSCMEnDR3WhExZy) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Gray/Grey](https://open.spotify.com/album/3uOjCKXJFyF5hbWz7mGYrr) | 2:33 | 2024-04-06 |  |
 | [CLYDE \(I Hope at Least One of My Ex\-Girlfriends Hears This\)](https://open.spotify.com/track/59aL2q2UPYJkgLTSv0WTlB) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear the Razor Guarding My Heel \(II\)](https://open.spotify.com/album/4mPlRdH5ZL0BppctJqjVoR) | 2:32 | 2024-04-06 |  |
 | [Coma](https://open.spotify.com/track/73hmZZ7HyLgUQj2DaybfBb) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I Want to Die In New Orleans](https://open.spotify.com/album/2ivOxIKDHxEo6WMD9m3ytn) | 2:17 | 2024-04-06 |  |
-| [Dead Batteries](https://open.spotify.com/track/00UDmkyejOcUApEqpiB90i) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [7th or St\. Tammany](https://open.spotify.com/album/4BqLJSu0S1KEsA6DBbJ9L4) | 2:23 | 2024-04-06 |  |
+| [Dead Batteries](https://open.spotify.com/track/00UDmkyejOcUApEqpiB90i) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [7th or St\. Tammany](https://open.spotify.com/album/4BqLJSu0S1KEsA6DBbJ9L4) | 2:23 | 2024-04-06 | 2024-06-16 |
 | [Finding Shelter In My Larynx](https://open.spotify.com/track/7FzP0ZPkQZpV5rauVyb7R6) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear The Razor Guarding My Heel \(V\)](https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas) | 2:20 | 2024-04-06 |  |
 | [For the Last Time](https://open.spotify.com/track/240audWazVjwvwh7XwfSZE) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [For the Last Time](https://open.spotify.com/album/4CcyRnFW6Vgf372ca3xFGR) | 2:36 | 2024-04-06 |  |
 | [Fucking Your Culture](https://open.spotify.com/track/2gkVweydDn7MmHmqXAlEzk) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Sing Me a Lullaby, My Sweet Temptation](https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3) | 3:15 | 2024-04-06 |  |
@@ -57,6 +57,7 @@
 | [That Just Isn't Empirically Possible](https://open.spotify.com/track/3xQq3mpD6hunD2XG7FXHHu) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Stop Staring At the Shadows](https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4) | 2:03 | 2024-04-06 |  |
 | [The Number You Have Dialed Is Not in Service](https://open.spotify.com/track/4gAtj23mqTx5pjfkzVaXhh) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Long Term Effects of SUFFERING](https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2) | 2:45 | 2024-04-06 |  |
 | [The Thin Grey Line](https://open.spotify.com/track/0lZYlxoSG7DCecuLvMERfP) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [The Thin Grey Line](https://open.spotify.com/album/3rXifZlYd2eKqicNt3z5HF) | 1:45 | 2024-05-26 |  |
+| [Thorns](https://open.spotify.com/track/1zUqoSVqUE2O5x3MJ0mHz9) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [New World Depression](https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl) | 2:10 | 2024-06-16 |  |
 | [Ugliest](https://open.spotify.com/track/2Q9nA56DKKJhj4cHMbHlAS) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Long Term Effects of SUFFERING](https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2) | 2:58 | 2024-04-06 |  |
 | [Ugly](https://open.spotify.com/track/3qDbBtbRv6eBls6q51pAL7) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [High Tide in the Snake's Nest](https://open.spotify.com/album/7gMzKwKAsbooGeKgDlX2TL) | 2:35 | 2024-04-06 |  |
 | [Us Vs\. Them](https://open.spotify.com/track/3cmdqMDc0Fj4TgPeyDOYTM) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Us Vs\. Them](https://open.spotify.com/album/6G7r3vu2Snjn8Ese1uwNZp) | 3:04 | 2024-04-06 |  |

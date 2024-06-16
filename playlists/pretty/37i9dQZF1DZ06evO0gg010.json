@@ -1,12 +1,12 @@
 {
-  "description": "This is Fuerza Regida. The essential tracks, all in one playlist.",
-  "num_followers": 465666,
+  "description": "This Is Fuerza Regida. Los temas esenciales, todos en una lista.",
+  "num_followers": 466239,
   "original_name": "This Is Fuerza Regida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAAAtYNGSi6majKAMAn3hTohu",
+  "snapshot_id": "ZmuIAAAAAADRDM1nNAdkrR7jrLhd7+bA",
   "tracks": [
     {
       "added_at": null,
@@ -58,11 +58,15 @@
         {
           "name": "Fuerza Regida",
           "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
         }
       ],
-      "duration_ms": 204815,
-      "name": "CRAZYZ",
-      "url": "https://open.spotify.com/track/4zfQER4owi8q6NL8Gg63Ya"
+      "duration_ms": 143327,
+      "name": "HARLEY QUINN",
+      "url": "https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k"
     },
     {
       "added_at": null,
@@ -130,15 +134,11 @@
         {
           "name": "Fuerza Regida",
           "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
         }
       ],
-      "duration_ms": 143327,
-      "name": "HARLEY QUINN",
-      "url": "https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k"
+      "duration_ms": 204815,
+      "name": "CRAZYZ",
+      "url": "https://open.spotify.com/track/4zfQER4owi8q6NL8Gg63Ya"
     },
     {
       "added_at": null,

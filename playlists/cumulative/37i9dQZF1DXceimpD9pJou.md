@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [01 FUEGO](https://open.spotify.com/track/0XVMNKaQZOpMfvBja8MGjM) | [Tomi Perfetti](https://open.spotify.com/artist/5uzIBotVPw3Zb6dG74Ua7Z) | [FUEGO](https://open.spotify.com/album/6yTEwg3yr25E5trXinHnIW) | 2:28 | 2024-06-14 |  |
+| [01 FUEGO](https://open.spotify.com/track/0XVMNKaQZOpMfvBja8MGjM) | [Tomi Perfetti](https://open.spotify.com/artist/5uzIBotVPw3Zb6dG74Ua7Z), [Snail Lake](https://open.spotify.com/artist/4ykoG2iZk0tSbojpH88lSP) | [FUEGO](https://open.spotify.com/album/6yTEwg3yr25E5trXinHnIW) | 2:28 | 2024-06-14 |  |
 | [10,000 Ejércitos](https://open.spotify.com/track/0zqrejJtpYlERHPMo2qBVo) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Whitney Medina](https://open.spotify.com/artist/2aEALllrzX6yHYGQkQ3jgZ) | [10,000 Ejércitos](https://open.spotify.com/album/4YeVvmjvJD4EWhtk71WUQJ) | 3:45 | 2022-03-25 | 2022-05-20 |
 | [100K](https://open.spotify.com/track/5FUuxaewWzBrQSjnN5JG7A) | [Creyente.7](https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs) | [100K](https://open.spotify.com/album/1vMr6e1dQhD9RDV0oJ29P8) | 5:16 | 2022-07-01 | 2022-09-10 |
 | [123 Enemies](https://open.spotify.com/track/5j29ypXI3IDDGkUppjZtu1) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [123 Enemies](https://open.spotify.com/album/0KJsakvLSRRxiJJ91P8qSW) | 3:30 | 2022-04-29 | 2022-06-18 |

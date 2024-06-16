@@ -1,12 +1,12 @@
 {
   "description": "This is Fernanda Brum. The essential tracks, all in one playlist.",
-  "num_followers": 70971,
+  "num_followers": 70977,
   "original_name": "This Is Fernanda Brum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAAD8mZxdh8pI0LbZn5aIZ+48",
+  "snapshot_id": "ZmuIAAAAAAABYR0fqnuKxYPMtmGycr+N",
   "tracks": [
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Da Eternidade",
-        "url": "https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 290249,
-      "name": "Suas Digitais",
-      "url": "https://open.spotify.com/track/0IRSfwWSF4uQiYe6cxQWsV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cura-me",
         "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
       },
@@ -391,8 +375,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apenas um Toque",
-        "url": "https://open.spotify.com/album/2a9dxd5z61o4if1fI16vel"
+        "name": "Da Eternidade",
+        "url": "https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64"
       },
       "artists": [
         {
@@ -400,9 +384,9 @@
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 420234,
-      "name": "Apenas um Toque",
-      "url": "https://open.spotify.com/track/0edfc3t992Gzwlpk4AFGKY"
+      "duration_ms": 290249,
+      "name": "Suas Digitais",
+      "url": "https://open.spotify.com/track/0IRSfwWSF4uQiYe6cxQWsV"
     },
     {
       "added_at": null,
@@ -423,6 +407,22 @@
       "duration_ms": 231230,
       "name": "Toca-me (Ao Vivo)",
       "url": "https://open.spotify.com/track/2QGt42CpPjWz3YBgArrhXD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apenas um Toque",
+        "url": "https://open.spotify.com/album/2a9dxd5z61o4if1fI16vel"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 420234,
+      "name": "Apenas um Toque",
+      "url": "https://open.spotify.com/track/0edfc3t992Gzwlpk4AFGKY"
     },
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Apenas um Toque",
+        "url": "https://open.spotify.com/album/2a9dxd5z61o4if1fI16vel"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 289041,
+      "name": "Puro Nardo",
+      "url": "https://open.spotify.com/track/7LHGwdC5OJpb4v8nO0ie73"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rastros de Amor (ao Vivo)",
         "url": "https://open.spotify.com/album/1V7TNa8BKB71Bh07oIeEzF"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 262053,
       "name": "Alto Pre\u00e7o - Ao Vivo",
       "url": "https://open.spotify.com/track/0hBqI20YJBtrQvAUUh3CMI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Apenas um Toque",
-        "url": "https://open.spotify.com/album/2a9dxd5z61o4if1fI16vel"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 289041,
-      "name": "Puro Nardo",
-      "url": "https://open.spotify.com/track/7LHGwdC5OJpb4v8nO0ie73"
     },
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sonhos",
+        "url": "https://open.spotify.com/album/1sUvDkBy5POHFyvSuuKmBC"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 206657,
+      "name": "Seu Lugar",
+      "url": "https://open.spotify.com/track/5N4nevHlaNbF5jUNlxUsZo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mem\u00f3rias do Cora\u00e7\u00e3o - Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3gSlwMZxzxqPSDi5vjohCS"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 482974,
       "name": "Medley A Do\u00e7ura do Teu Falar - Ao Vivo",
       "url": "https://open.spotify.com/track/2onlvZpMAwpTKTAZN47Hr4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sonhos",
-        "url": "https://open.spotify.com/album/1sUvDkBy5POHFyvSuuKmBC"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 206657,
-      "name": "Seu Lugar",
-      "url": "https://open.spotify.com/track/5N4nevHlaNbF5jUNlxUsZo"
     },
     {
       "added_at": null,
@@ -1035,22 +1035,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quebrantado Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 251890,
-      "name": "Tempo de Crescer",
-      "url": "https://open.spotify.com/track/2BGIItsqoZ3eRVUpgNJAUk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meu Bem Maior",
         "url": "https://open.spotify.com/album/2WdRhfIIk9y1EbZm0TO3ae"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 217849,
       "name": "Meu Bem Maior",
       "url": "https://open.spotify.com/track/2L45wEZfgukdZIixbyZVA4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quebrantado Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 251890,
+      "name": "Tempo de Crescer",
+      "url": "https://open.spotify.com/track/2BGIItsqoZ3eRVUpgNJAUk"
     },
     {
       "added_at": null,

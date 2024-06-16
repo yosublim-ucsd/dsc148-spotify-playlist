@@ -1,12 +1,12 @@
 {
-  "description": "This is The Black Keys. The essential tracks, all in one playlist.",
-  "num_followers": 282839,
+  "description": "This Is The Black Keys. Los temas esenciales, todos en una lista.",
+  "num_followers": 282932,
   "original_name": "This Is The Black Keys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAAD8qfNwx0jo+1SOyaDJE6c9",
+  "snapshot_id": "ZmuIAAAAAABaWzOnq+DP8HLKRdJNuHFt",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turn Blue",
-        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 246306,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/3Hx7RXqCS7Kzjy2ot2q1Gk"
+      "duration_ms": 177768,
+      "name": "Lo/Hi",
+      "url": "https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ"
     },
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"Let's Rock\"",
-        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+        "name": "Turn Blue",
+        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 177768,
-      "name": "Lo/Hi",
-      "url": "https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ"
+      "duration_ms": 246306,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/3Hx7RXqCS7Kzjy2ot2q1Gk"
     },
     {
       "added_at": null,

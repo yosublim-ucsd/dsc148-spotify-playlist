@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,022 likes - 150 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,016 likes - 150 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

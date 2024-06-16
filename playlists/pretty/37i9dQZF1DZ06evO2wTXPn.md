@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 
 > This is KURT\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,491 likes - 48 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,499 likes - 48 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 | 11 | [50 Meses Tarde \(Ptm\)](https://open.spotify.com/track/4Op6B7yG5b12Bh9UH1PYJE) | [Ale Zéguer](https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [50 Meses Tarde \(Ptm\)](https://open.spotify.com/album/3paLg9Sbgy1gPf0TjAsAkf) | 3:34 |
 | 12 | [Tengo](https://open.spotify.com/track/4Jo5MeAP4GFRFc57m2q7FY) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Tengo](https://open.spotify.com/album/6uq8cwuvPvPSYp3rjriBQ9) | 3:50 |
 | 13 | [Los Días Que Vendrán](https://open.spotify.com/track/2qmRGDSS7kQ0mRjfuNso9T) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Los Claxons](https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf) | [En Medio De Este Ruido](https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj) | 3:27 |
-| 14 | [Somos Instantes \- Acústico](https://open.spotify.com/track/4Pxfoyu1l2rFPCYzdYqdrV) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [unas acústicas](https://open.spotify.com/album/3oHwatvS7nbzOzbMwiAv1l) | 3:22 |
-| 15 | [Roto](https://open.spotify.com/track/6gA1VnJMJYUi4kFTg7OqtM) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [La Vida](https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs) | 2:45 |
+| 14 | [Roto](https://open.spotify.com/track/6gA1VnJMJYUi4kFTg7OqtM) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [La Vida](https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs) | 2:45 |
+| 15 | [Somos Instantes \- Acústico](https://open.spotify.com/track/4Pxfoyu1l2rFPCYzdYqdrV) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [unas acústicas](https://open.spotify.com/album/3oHwatvS7nbzOzbMwiAv1l) | 3:22 |
 | 16 | [Encima De Mil](https://open.spotify.com/track/74wY2RFSQJlz7yznnDWDsj) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Despierto](https://open.spotify.com/album/5zjSZUekfzF97XyDUbWW1T) | 3:09 |
 | 17 | [Qué Suerte](https://open.spotify.com/track/0xlvFISds9itCX4EUX6wMp) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Qué Suerte](https://open.spotify.com/album/2e1pigjsm0n9gxjum8jQg6) | 2:45 |
 | 18 | [Polvo De Gigantes](https://open.spotify.com/track/6zCJNA6EeEZjP6PdZffhAV) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Polvo De Gigantes](https://open.spotify.com/album/1yMkHhULCUvkUJ8bEPG4QL) | 2:33 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 | 28 | [Kintsugi](https://open.spotify.com/track/3pa99b4KAVFpO5NxGcfa1H) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kintsugi](https://open.spotify.com/album/4ovjXs66STqIxRyHqoYtML) | 3:07 |
 | 29 | [No Lo Estás Logrando](https://open.spotify.com/track/1uk2LVKncHycjhxBAz6kyn) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [No Lo Estás Logrando](https://open.spotify.com/album/4SyYB20GsBAd7Uk3Xmi64U) | 3:03 |
 | 30 | [Prometo](https://open.spotify.com/track/2FZFAdvkA8T47FP36wFIoJ) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Hecho Para Ti](https://open.spotify.com/album/2wI3BkdUpXavA47z1LbtC3) | 3:20 |
-| 31 | [10 Veces Mejor](https://open.spotify.com/track/6NjfQuRydh6ckU1Xlf336w) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido](https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj) | 3:22 |
-| 32 | [Nadie Nos Entiende](https://open.spotify.com/track/1NBLwD8aj37OfbnkBZuwxc) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee) | [Nadie Nos Entiende](https://open.spotify.com/album/2qZ4zsYYzMmThZMXHGc8Ms) | 3:37 |
+| 31 | [Nadie Nos Entiende](https://open.spotify.com/track/1NBLwD8aj37OfbnkBZuwxc) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee) | [Nadie Nos Entiende](https://open.spotify.com/album/2qZ4zsYYzMmThZMXHGc8Ms) | 3:37 |
+| 32 | [10 Veces Mejor](https://open.spotify.com/track/6NjfQuRydh6ckU1Xlf336w) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido](https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj) | 3:22 |
 | 33 | [Por Su Amor \(with KURT\)](https://open.spotify.com/track/4YdQIvvHkj5jzcFUURKHe3) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Por Su Amor \(with KURT\)](https://open.spotify.com/album/0hj1gYgviTYvdi2nRxyMzP) | 3:41 |
 | 34 | [Sobreviviendo](https://open.spotify.com/track/3dOQwWB2ootaunCEIFxLZ3) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [La Vida](https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs) | 3:16 |
 | 35 | [YA VA A VENIR](https://open.spotify.com/track/5799eYyRl2Q4rtlk5sCF6B) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Love Dealer](https://open.spotify.com/album/04tuh57qYcWnXDzvjxBLHp) | 3:24 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 | 37 | [Bórrame](https://open.spotify.com/track/28C9fie2Nw8g84LIyKXryW) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Bórrame](https://open.spotify.com/album/6PBHZU81Y7aElnriNbmzRw) | 2:53 |
 | 38 | [Amanecí Nublado](https://open.spotify.com/track/2K6QLnzA48e8G1fqR6RTYV) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [La Vida](https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs) | 2:54 |
 | 39 | [Señal](https://open.spotify.com/track/4kYMirYX6XMi850Ecp44Io) | [Los Claxons](https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Señal](https://open.spotify.com/album/3wJjZt16p9NP1Y9TXUmHOc) | 4:05 |
-| 40 | [Sólo Muere Si Se Olvida](https://open.spotify.com/track/7qYju6UwLKU7FAwt1Vo597) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Sólo Muere Si Se Olvida \(Deluxe\)](https://open.spotify.com/album/0KTZkb2lyXX2FZ8vGfqxtH) | 2:53 |
-| 41 | [En Medio De Este Ruido](https://open.spotify.com/track/1HnsGkbzPZDV0yuI0iVbPw) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido](https://open.spotify.com/album/5P1JlJLQHC5YqZEXBZtmjf) | 4:07 |
+| 40 | [En Medio De Este Ruido](https://open.spotify.com/track/1HnsGkbzPZDV0yuI0iVbPw) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido](https://open.spotify.com/album/5P1JlJLQHC5YqZEXBZtmjf) | 4:07 |
+| 41 | [Sólo Muere Si Se Olvida](https://open.spotify.com/track/7qYju6UwLKU7FAwt1Vo597) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Sólo Muere Si Se Olvida \(Deluxe\)](https://open.spotify.com/album/0KTZkb2lyXX2FZ8vGfqxtH) | 2:53 |
 | 42 | [Lolis](https://open.spotify.com/track/03qqmwlMWMa6yQP84Z4fmB) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [La Vida](https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs) | 2:36 |
 | 43 | [Leyenda](https://open.spotify.com/track/579JzwW1xZKakL7FwFH79r) | [Lucah](https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Leyenda](https://open.spotify.com/album/4Y29vgiupwmAA5uy7xQLBm) | 4:12 |
 | 44 | [Te Regalo](https://open.spotify.com/track/4UjEKy8PegjhpL3BC4iuL6) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Te Regalo](https://open.spotify.com/album/2rEFizrsUbYkh5TN1gxfhi) | 2:37 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 | 47 | [Otra Liza \(Con KURT\)](https://open.spotify.com/track/0aVenGt1PXTHpVG4EfzUX5) | [Alfred García](https://open.spotify.com/artist/0CQgFG7XHyXRpSi24kl0cx), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [1997](https://open.spotify.com/album/0klkzmA0qpleznc4TCug5e) | 3:34 |
 | 48 | [Sin Ti \- En Vivo](https://open.spotify.com/track/3iau72rt7xItihgiYZfwrv) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido En Vivo](https://open.spotify.com/album/3Gx2vWuJTFw3u2sz4GC44K) | 5:07 |
 
-Snapshot ID: `Zmo2gAAAAACDMPNx+DXOGcFHdy3/YgoO`
+Snapshot ID: `ZmuIAAAAAABsZK06/FR12U7qm04/vR7K`

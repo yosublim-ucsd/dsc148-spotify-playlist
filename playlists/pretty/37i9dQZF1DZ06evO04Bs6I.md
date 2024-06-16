@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04Bs6I.md) - [plain]
 
 > This is Isadora Pompeo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,535 likes - 49 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,570 likes - 49 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,15 +17,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04Bs6I.md) - [plain]
 | 7 | [O Nome de Jesus](https://open.spotify.com/track/2HhAhITEupMNYQAG08Ejb1) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [O Nome de Jesus](https://open.spotify.com/album/6j5twTviJB4grpkOV4npGw) | 5:07 |
 | 8 | [Oi, Jesus](https://open.spotify.com/track/24yMODgKNyQDvvCKlbwlxR) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Oi, Jesus](https://open.spotify.com/album/1mQXcTWqbRM5DNgOPN70N4) | 3:53 |
 | 9 | [Como Nunca Antes](https://open.spotify.com/track/6Z3Hm5K81QquaY8nh83TST) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Como Nunca Antes](https://open.spotify.com/album/3bbpurLdQMfiC7KgQPU4F9) | 4:43 |
-| 10 | [Minha Morada \- Ao Vivo](https://open.spotify.com/track/4ndpiHFCHD9vMT39QFzkXU) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Pra Te Contar Os Meus Segredos \(Ao Vivo\)](https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5) | 6:51 |
+| 10 | [Eu Sei Que Vem \- Ao Vivo](https://open.spotify.com/track/5UeQutpeNRqg21FBMiuStv) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Pra Te Contar Os Meus Segredos \(Ao Vivo\)](https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5) | 4:07 |
 | 11 | [Sua Paz](https://open.spotify.com/track/6IxxbIlg3rgzaULZm3DDxG) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Processo](https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP) | 3:25 |
 | 12 | [Deus Faz Além \- Ao Vivo](https://open.spotify.com/track/5tteTRlti30bR43W34YYbQ) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Deus Faz Além \(Ao Vivo\)](https://open.spotify.com/album/2WPOOdQp05sOWXcbHVEs9B) | 4:50 |
 | 13 | [Casinha Favorita](https://open.spotify.com/track/0M3B9SP1tUSu3uuwjz07PH) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Aurora](https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6) | 10:58 |
-| 14 | [Eu Sei Que Vem \- Ao Vivo](https://open.spotify.com/track/5UeQutpeNRqg21FBMiuStv) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Pra Te Contar Os Meus Segredos \(Ao Vivo\)](https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5) | 4:07 |
+| 14 | [Tua Alegria \- Ao Vivo](https://open.spotify.com/track/4mX4HxIdFMOCKiTxWwOO0d) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Pra Te Contar Os Meus Segredos \(Ao Vivo\)](https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5) | 3:58 |
 | 15 | [Nada Pode Calar Um Adorador](https://open.spotify.com/track/6oKhFyUz7kapALHaK0oPfR) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Nada Pode Calar Um Adorador](https://open.spotify.com/album/4q13cIdJiccllKtmogMEkT) | 4:52 |
 | 16 | [Azeite \- ao vivo](https://open.spotify.com/track/6pVm1C9RyzEZJI0o643h74) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Azeite \(ao vivo\)](https://open.spotify.com/album/7GnXwS8TebApYSBsIeRRnf) | 4:32 |
 | 17 | [Vai Passar \- Acústico](https://open.spotify.com/track/1hFe34pro0Dt4a74njqOhB) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Vai Passar \(Acústico\)](https://open.spotify.com/album/7fstEEn2fBN6WM4zE12Ovm) | 4:45 |
-| 18 | [Tua Alegria \- Ao Vivo](https://open.spotify.com/track/4mX4HxIdFMOCKiTxWwOO0d) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Pra Te Contar Os Meus Segredos \(Ao Vivo\)](https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5) | 3:58 |
+| 18 | [Minha Morada \- Ao Vivo](https://open.spotify.com/track/4ndpiHFCHD9vMT39QFzkXU) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Pra Te Contar Os Meus Segredos \(Ao Vivo\)](https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5) | 6:51 |
 | 19 | [História](https://open.spotify.com/track/5dnPxV8jRadA1sClQEtNSX) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Processo](https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP) | 3:46 |
 | 20 | [Nem Um Segundo](https://open.spotify.com/track/7epXtZHT9aSqU4WRpbNrBA) | [Gabriel Pompeo](https://open.spotify.com/artist/14JFOxEqfnMf2YuYsamfe4), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Nem Um Segundo](https://open.spotify.com/album/1L0d5ejVgEd1og01wwET1u) | 5:49 |
 | 21 | [Tetelestai \(feat\. Carol Tauber\) \- ao vivo](https://open.spotify.com/track/1nJkvTusEGVYzqeF1R3Pq3) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Carol Tauber](https://open.spotify.com/artist/6rK1HFXiEMatdQGeQQA1VK) | [Tetelestai \(feat\. Carol Tauber\) \[ao vivo\]](https://open.spotify.com/album/3KEDeUTss9pszz8D9I0c6Q) | 8:38 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04Bs6I.md) - [plain]
 | 25 | [Resultado](https://open.spotify.com/track/7aBQQ6sJixQFZCuC3HPVHI) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Resultado](https://open.spotify.com/album/3Yon9LyJOWdwpwDcoDCvaH) | 3:20 |
 | 26 | [Braços de Amor](https://open.spotify.com/track/4ukZTbuGOaOhn0npxg2aQS) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Braços de Amor](https://open.spotify.com/album/7DAsKDdhuzSZynB1fsCpig) | 5:32 |
 | 27 | [Máscaras](https://open.spotify.com/track/1nrJ9z7TpHGZjcN55Qzwu1) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [João Figueiredo](https://open.spotify.com/artist/15CxFRwagxbz4bOHEeTGXL) | [Processo](https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP) | 3:50 |
-| 28 | [Aliança \- Ao Vivo](https://open.spotify.com/track/4vxgb344xS9W4X99Klkl9j) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Ovelhinha \(Ao Vivo\)](https://open.spotify.com/album/7mSTc7HSnNJ4mu41Vvmo3y) | 5:32 |
+| 28 | [Aliança \(Ao Vivo\)](https://open.spotify.com/track/4vxgb344xS9W4X99Klkl9j) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Ovelhinha \(Ao Vivo\)](https://open.spotify.com/album/7mSTc7HSnNJ4mu41Vvmo3y) | 5:32 |
 | 29 | [Bem Perto \- Ao Vivo](https://open.spotify.com/track/4KE3EfxxvBZwoLVB3gHCc2) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Bem Perto \(Ao Vivo\)](https://open.spotify.com/album/2yBnldCguXVLd6kd78B4Xq) | 7:06 |
 | 30 | [Vou Me Humilhar](https://open.spotify.com/track/6XsCKaTpswfeXBak03mNhl) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Vou Me Humilhar](https://open.spotify.com/album/1JEot4g3P0ySOuBGB9otLB) | 3:56 |
 | 31 | [Em Troca](https://open.spotify.com/track/0cYuoo4STj8htZVrh5w91U) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Processo](https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP) | 4:36 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04Bs6I.md) - [plain]
 | 48 | [Espero Por Ti](https://open.spotify.com/track/00L5VK0Etex3Kolo7iglIV) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Espero Por Ti](https://open.spotify.com/album/6HPsW00Ig5tKjcU5jywqVb) | 5:48 |
 | 49 | [10 Anos](https://open.spotify.com/track/6FN0YpMMkDM3ziaH14MC9m) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [10 Anos](https://open.spotify.com/album/5BqkDaAaj07vQuxqNgPx4z) | 3:19 |
 
-Snapshot ID: `Zmo2gAAAAAB/QiPtoIgiebiRTJJI2PxW`
+Snapshot ID: `ZmuIAAAAAACPOPPcw7wfuWQjQxiuNC8X`

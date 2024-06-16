@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Isadora Pompeo
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,390 likes - 80 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,477 likes - 80 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Soziedad Alkoholika.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,345 likes - 90 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,359 likes - 90 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

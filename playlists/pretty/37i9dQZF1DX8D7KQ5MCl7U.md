@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 
 > Jhol Out Now\. All Coke Studio Pakistan tracks in one place\. Season 15 updated live.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,027 likes - 150 songs - 15 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,173 likes - 150 songs - 15 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

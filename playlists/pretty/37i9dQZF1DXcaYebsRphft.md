@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > セトリで余韻に浸ろう！2024年5月11日\~6月2日に行われた『2024 NCT DREAM WORLD TOUR ＜THE DREAM SHOW 3 : DREAM\( \)SCAPE＞ in JAPAN』のセットリストを公開。
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,360 likes - 31 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,371 likes - 31 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

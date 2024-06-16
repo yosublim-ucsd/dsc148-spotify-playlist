@@ -24548,6 +24548,14 @@
         {
           "name": "Transformation Worship",
           "url": "https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I"
+        },
+        {
+          "name": "Osby Berry",
+          "url": "https://open.spotify.com/artist/7lx0wr5ielfxtapVYT8EzX"
+        },
+        {
+          "name": "Michael Alexander Todd",
+          "url": "https://open.spotify.com/artist/1SaSo4qJjNigo7YNwLyxPV"
         }
       ],
       "date_added": "2024-06-14",
@@ -105056,6 +105064,24 @@
     {
       "album": {
         "name": "Thank You Jesus",
+        "url": "https://open.spotify.com/album/4uCVhpWRXZDwbwylOgbWhe"
+      },
+      "artists": [
+        {
+          "name": "Benji",
+          "url": "https://open.spotify.com/artist/0HUqpd0yqVjDWnLo91j8zY"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156528,
+      "name": "Thank You Jesus",
+      "url": "https://open.spotify.com/track/2zWa2zOIJyPyrWX1qIQxuT"
+    },
+    {
+      "album": {
+        "name": "Thank You Jesus",
         "url": "https://open.spotify.com/album/1w8Gbu0ZFgDiGQkrfTp5xp"
       },
       "artists": [
@@ -105096,24 +105122,6 @@
       "duration_ms": 171866,
       "name": "Thank You Jesus",
       "url": "https://open.spotify.com/track/1TmAG4vhedrQ64GznwECXb"
-    },
-    {
-      "album": {
-        "name": "Thank You Jesus (Hallelujah)",
-        "url": "https://open.spotify.com/album/4uCVhpWRXZDwbwylOgbWhe"
-      },
-      "artists": [
-        {
-          "name": "Benji",
-          "url": "https://open.spotify.com/artist/0HUqpd0yqVjDWnLo91j8zY"
-        }
-      ],
-      "date_added": "2024-06-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 156528,
-      "name": "Thank You Jesus (Hallelujah)",
-      "url": "https://open.spotify.com/track/2zWa2zOIJyPyrWX1qIQxuT"
     },
     {
       "album": {

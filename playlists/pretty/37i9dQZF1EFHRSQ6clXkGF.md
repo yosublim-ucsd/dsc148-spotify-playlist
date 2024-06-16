@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2sE0XOCyp1Qp8gfwRn8gjl">Joni Mitchell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,109 likes - 271 songs - 17 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,108 likes - 271 songs - 17 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 26 | [Gone](https://open.spotify.com/track/6IZGJw6UG0mewlPzG8kgux) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Talk A Good Game \(Deluxe Edition\)](https://open.spotify.com/album/059i5tLNW2ASf1qoVn6LSX) | 4:18 |
 | 27 | [Amelia](https://open.spotify.com/track/0sWXc2HP7INhTEkuUbxJGk) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Hejira](https://open.spotify.com/album/3Z0qQc09rmk4JYtIaxEx2J) | 6:01 |
 | 28 | [People's Parties](https://open.spotify.com/track/5RI0qk5rSvAJwCwxtDSKKM) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Court and Spark](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) | 2:15 |
-| 29 | [Black Crow](https://open.spotify.com/track/2PGBKxAZJxYGxajZ7iO5ai) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Girl In The Other Room](https://open.spotify.com/album/7dZFqyK7mEYr3tyatC7k0s) | 4:47 |
-| 30 | [Ladies of the Canyon](https://open.spotify.com/track/1Q8BMaKg8czMR2Y6wLlXJf) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 3:32 |
+| 29 | [Ladies of the Canyon](https://open.spotify.com/track/1Q8BMaKg8czMR2Y6wLlXJf) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 3:32 |
+| 30 | [Black Crow](https://open.spotify.com/track/2PGBKxAZJxYGxajZ7iO5ai) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Girl In The Other Room](https://open.spotify.com/album/7dZFqyK7mEYr3tyatC7k0s) | 4:47 |
 | 31 | [Urge for Going](https://open.spotify.com/track/6DWrIR5yIbe95e3lZDiuDD) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Hits](https://open.spotify.com/album/0dFqUCRbAMalnd74c4tw25) | 5:08 |
 | 32 | [Conversation](https://open.spotify.com/track/1wcbiRER4ChnikvcLc2OE6) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 4:26 |
 | 33 | [Court and Spark](https://open.spotify.com/track/2l8kERLPqgP7p94Duj9nqH) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Court and Spark](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) | 2:46 |
@@ -125,8 +125,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 115 | [Lesson in Survival](https://open.spotify.com/track/0Xrrxype3ih2nyfyTdUM6O) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [For the Roses](https://open.spotify.com/album/1yyPagl5Z7wE6rmJoqv8wj) | 3:11 |
 | 116 | [Be Cool](https://open.spotify.com/track/6dlLIx8BCm6iiKWCg9NPcq) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [Take Love Easy](https://open.spotify.com/album/0kJ2PsNKRL8lA6jjeZcLDk) | 4:12 |
 | 117 | [The Pirate of Penance](https://open.spotify.com/track/53QbBfo0PTUKfOBM0YoPU7) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Song to a Seagull](https://open.spotify.com/album/6rg3WTvmv68Vd6tgR0yS0E) | 2:44 |
-| 118 | [Love](https://open.spotify.com/track/0bF58EGynl31vglBoTCJz6) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Travelogue](https://open.spotify.com/album/6vxU4GMNZCktb79R76abGb) | 5:38 |
-| 119 | [Cherokee Louise](https://open.spotify.com/track/79S4QZ2BHEor9LIpK0msPd) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Night Ride Home](https://open.spotify.com/album/58eSrybTtZMVNaZWt2f1rP) | 4:31 |
+| 118 | [Cherokee Louise](https://open.spotify.com/track/79S4QZ2BHEor9LIpK0msPd) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Night Ride Home](https://open.spotify.com/album/58eSrybTtZMVNaZWt2f1rP) | 4:31 |
+| 119 | [Love](https://open.spotify.com/track/0bF58EGynl31vglBoTCJz6) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Travelogue](https://open.spotify.com/album/6vxU4GMNZCktb79R76abGb) | 5:38 |
 | 120 | [My Secret Place](https://open.spotify.com/track/0pFQm6WGgNB2Sg9RjTpZ7m) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Chalk Mark In A Rain Storm](https://open.spotify.com/album/2qVwLFYnUbFT8kbl27uZ1J) | 5:00 |
 | 121 | [If](https://open.spotify.com/track/1Yd2N6mFlIGdXAxu2kkVPo) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Shine](https://open.spotify.com/album/2U5MjSQ07NGHV7rCLfSU6G) | 5:32 |
 | 122 | [Judgement of the Moon and Stars \(Ludwig's Tune\)](https://open.spotify.com/track/0UaUU6Od7UUh4AT49Bx3HG) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [For the Roses](https://open.spotify.com/album/1yyPagl5Z7wE6rmJoqv8wj) | 5:19 |
@@ -156,8 +156,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 146 | [Borderline](https://open.spotify.com/track/1Nrhb4a35ODasSOcbBhhvM) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Turbulent Indigo](https://open.spotify.com/album/0m5E4LzAWRkdAPbWGHax0Q) | 4:47 |
 | 147 | [Good Friends](https://open.spotify.com/track/3Fh8qnLTdkWXStJwBpMtq6) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Dog Eat Dog](https://open.spotify.com/album/1t7W7Tp5sJZ0iGRUtlowMx) | 4:28 |
 | 148 | [Last Chance Lost](https://open.spotify.com/track/76keUnX6s7sKyWav3F8fo3) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Turbulent Indigo](https://open.spotify.com/album/0m5E4LzAWRkdAPbWGHax0Q) | 3:14 |
-| 149 | [Day After Day](https://open.spotify.com/track/0u9oWorCtCRwZB7rLFuKau) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Day After Day](https://open.spotify.com/album/0n0ii7DUbJYN4aRENlzCG1) | 2:10 |
-| 150 | [Paprika Plains](https://open.spotify.com/track/4YyxzSIOmxRaanNiy5Ui6a) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Don Juan's Reckless Daughter](https://open.spotify.com/album/7EsyKOyc1yISaxMt4iQvGN) | 16:21 |
+| 149 | [Paprika Plains](https://open.spotify.com/track/4YyxzSIOmxRaanNiy5Ui6a) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Don Juan's Reckless Daughter](https://open.spotify.com/album/7EsyKOyc1yISaxMt4iQvGN) | 16:21 |
+| 150 | [Day After Day](https://open.spotify.com/track/0u9oWorCtCRwZB7rLFuKau) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Day After Day](https://open.spotify.com/album/0n0ii7DUbJYN4aRENlzCG1) | 2:10 |
 | 151 | [Soul Is A Star](https://open.spotify.com/track/2hPgxAvHEOtg4CWRgX1onW) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [33](https://open.spotify.com/album/1FDNmr1WNyQ0Ag27IBAc06) | 3:17 |
 | 152 | [Moon At The Window](https://open.spotify.com/track/6ToHzX0Pj68s0i2FyejAcL) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Wild Things Run Fast](https://open.spotify.com/album/2fcwm99VFatdh3e5HTxzFS) | 3:44 |
 | 153 | [Sweet Sucker Dance](https://open.spotify.com/track/2cdMhXlSCvDUHr72EznCax) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Mingus](https://open.spotify.com/album/33vCXtlecxvFyBcoICxMYx) | 8:04 |
@@ -280,4 +280,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 270 | [Intro To California \(with James Taylor\) \- Live on In Concert, BBC, Paris Theatre, London, England, 10/29/1970](https://open.spotify.com/track/4RQHJvLC2tytuuFxqPR15u) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 0:14 |
 | 271 | [Intro To Chelsea Morning: John Peel \- Live on Top Gear, BBC Radio, London, England, 9/23/1968](https://open.spotify.com/track/5RjnysVYo2c1aDi4w2A3OC) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 0:14 |
 
-Snapshot ID: `AbUELAAAAADSTDcYvjYtl3YTQRpaVb0z`
+Snapshot ID: `AbUJzAAAAAALAV7nnmsP69POCFpStMms`

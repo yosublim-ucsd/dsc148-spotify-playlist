@@ -4,7 +4,7 @@
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-392 songs - 17 hr 37 min
+396 songs - 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Fading](https://open.spotify.com/track/2RP8Svo0pMwZXnVcmOffDw) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Fading](https://open.spotify.com/album/6ZaQeprwD7KA1yLERV2OUW) | 3:27 | 2023-12-29 |  |
 | [Fading](https://open.spotify.com/track/07mZVJUp6D5EfIdeEHuUFT) | [Donner](https://open.spotify.com/artist/1jXVpcmMvyA6AtyzQtG42z) | [Fading](https://open.spotify.com/album/6CGsB67ZpcBnvErNxmrOeq) | 2:03 | 2024-02-02 | 2024-03-16 |
 | [Fairytale](https://open.spotify.com/track/3x9XuWtvk2hqSH6olPcoJZ) | [Lake Matisse](https://open.spotify.com/artist/4UNdUzuLNX9a47ElW0Xb0O), [Kairos Grove](https://open.spotify.com/artist/7Cf1QhdtHmjlckbnmUeC6l) | [Fairytale](https://open.spotify.com/album/0pmtrehbZ9elW5g6Lg3Tqy) | 2:18 | 2024-05-27 |  |
+| [Fallen Angel](https://open.spotify.com/track/0SxkdPdZ6ebgVXnHM0sNKL) | [Vall](https://open.spotify.com/artist/1nn5V08qmK0rKqWX5tFBac), [JAIKO](https://open.spotify.com/artist/0Z18DUpbXTOfz077PDtmhT) | [Fallen Angel](https://open.spotify.com/album/2Xyegzw6FxTxqOAkHnkD14) | 3:05 | 2024-06-15 |  |
 | [Fallin' Apart](https://open.spotify.com/track/19ATI8arQ4ChLZdAjYahEd) | [Æj](https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41) | [Fallin' Apart](https://open.spotify.com/album/2VtVtSPCjL9IGb2g6sHe5X) | 2:40 | 2024-06-07 |  |
 | [Falling in Yøur Eyes](https://open.spotify.com/track/2ZJoEnWdNGIRt67sDAIPEE) | [birø](https://open.spotify.com/artist/4hKPAbYSJKUQtFMSjCOXcO) | [Falling in Yøur Eyes](https://open.spotify.com/album/5S7kz10Q5bFBEg1tuzMGlM) | 2:30 | 2024-04-05 | 2024-05-03 |
 | [Fast Car](https://open.spotify.com/track/1SN1vSPsr4V4tIUTR3s8YW) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:32 | 2023-12-04 |  |
@@ -123,6 +124,7 @@
 | [Feeling The Same](https://open.spotify.com/track/4a9WGmpSTpy2C7mYixenDq) | [Nyday](https://open.spotify.com/artist/0L8JYDELi85NGgYy30MbRa) | [Feeling The Same](https://open.spotify.com/album/6LqkAJv4UW2NuMxsRs54EC) | 2:29 | 2024-04-19 | 2024-05-03 |
 | [Feelings](https://open.spotify.com/track/4dLsJwca1rKhkV1r2WZyoi) | [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Chris Ruo](https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY), [Rory Hope](https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC) | [Feelings](https://open.spotify.com/album/4MNRe35Re0XIVUUHXwc5dh) | 2:16 | 2024-01-19 |  |
 | [Floating](https://open.spotify.com/track/557wRaFFKogsJ42cuktzqu) | [YVMV](https://open.spotify.com/artist/23iMeGaHEpDoHAojo4JeVy), [Luke Taylor](https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR) | [Floating](https://open.spotify.com/album/1wbunGgTE31NEdxboGCXUI) | 2:36 | 2024-04-05 | 2024-05-03 |
+| [Flora](https://open.spotify.com/track/6bsqAKUCs6GU9MGGYDG0jr) | [aural](https://open.spotify.com/artist/2BbjZHngxcMpV9FVewdRzY) | [Flora](https://open.spotify.com/album/2Uof02VZdreIpcDYWK6MS6) | 2:26 | 2024-06-15 |  |
 | [Follow](https://open.spotify.com/track/1JoM3HEBn0cNTi8bNSyqTb) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Follow](https://open.spotify.com/album/2bgUfyfDGDgn1lcchgFOTZ) | 2:32 | 2024-06-14 |  |
 | [Follow the Sun](https://open.spotify.com/track/5NhrlsuS5y4T4N7WbbEute) | [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Follow the Sun](https://open.spotify.com/album/1lSdGLnnafiYlTMRKvXFae) | 2:34 | 2023-01-20 |  |
 | [Following the Sun](https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [NEEKA](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW) | [Following the Sun](https://open.spotify.com/album/140Jok6j3tn10bqgUqcUVG) | 3:25 | 2022-10-25 |  |
@@ -184,7 +186,9 @@
 | [I Won't Lie](https://open.spotify.com/track/1cF9iKZApJPXenLTSZ7Jp4) | [Matvey Emerson](https://open.spotify.com/artist/4n7LqAJhu3k6rrKMu3VfDa), [Kiismin](https://open.spotify.com/artist/1FbUnq2UlNRgUmpMx98NMe), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [I Won't Lie](https://open.spotify.com/album/1YqCgO2jzxG7DZyBXUxidm) | 2:48 | 2023-11-13 |  |
 | [I'm Good](https://open.spotify.com/track/1H27IgTftbtLwK4HrdGV3x) | [P.A.V](https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV) | [I'm Good](https://open.spotify.com/album/7FptgpHqLvYf6sgYhiey41) | 2:32 | 2024-06-07 |  |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/5Yo5PpwKlekpbOd8JucLAP) | [Cupido](https://open.spotify.com/artist/4dLhakqpeWIymuJnoGTUfB) | [I'm Good \(Blue\)](https://open.spotify.com/album/4Glni7CfaUZ2NV3ZmPQJV7) | 2:17 | 2023-10-01 |  |
+| [i'm so tired...](https://open.spotify.com/track/5tFMvtiCZ5Io5jzi6glZVc) | [four30](https://open.spotify.com/artist/2ZIBs9fjeieh0tVW1rnO0S) | [i'm so tired...](https://open.spotify.com/album/6rrS98yasmRLrxvERI68Av) | 2:43 | 2024-06-15 |  |
 | [i'm so tired...](https://open.spotify.com/track/7LpMG3AEaIJgs62HQhAa91) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 2:42 | 2024-01-18 |  |
+| [Ibiza Sunrise](https://open.spotify.com/track/5OwnmkyqPzWNAs9ts1pkjp) | [NORRA](https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7) | [Ibiza Sunrise](https://open.spotify.com/album/2az0c2YcQh2QLdQLnR9g9C) | 3:32 | 2024-06-15 |  |
 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 | 2022-09-15 |  |
 | [In A Heartbeat](https://open.spotify.com/track/6aNCsousLmz0UBVJVzjp2X) | [Honest Regrets](https://open.spotify.com/artist/6WeJcp2maE7mFGx43ccufg), [Kid On The Block](https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH) | [In A Heartbeat](https://open.spotify.com/album/7nR3F8zEEB80ZhGCKEoix7) | 2:46 | 2024-03-08 | 2024-04-15 |
 | [In the Mirror](https://open.spotify.com/track/39US9RrwQtLld8H0Cofii3) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [clarity.](https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH) | [In the Mirror](https://open.spotify.com/album/4I21qLgqAPYlfJGJ1V4Ol6) | 2:07 | 2024-01-25 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX5ZOsG2Ogi1.md) - [plain]
 
 > ¡Perreo del bueno! twerk that 🍑 Cover: Feid
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,327,020 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,327,084 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

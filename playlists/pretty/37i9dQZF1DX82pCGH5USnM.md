@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 
 > Soft house music for your laidback moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,311,361 likes - 362 songs - 17 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,311,564 likes - 362 songs - 17 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

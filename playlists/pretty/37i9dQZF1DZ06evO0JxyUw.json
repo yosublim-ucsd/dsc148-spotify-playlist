@@ -1,12 +1,12 @@
 {
   "description": "This is Christina Aguilera. The essential tracks, all in one playlist.",
-  "num_followers": 261847,
+  "num_followers": 261898,
   "original_name": "This Is Christina Aguilera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAAADcibEoWHhC2pigeck0WXI",
+  "snapshot_id": "ZmuIAAAAAAA/CnrGmxMXxRV2Ms5NcTqM",
   "tracks": [
     {
       "added_at": null,
@@ -231,6 +231,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lady Marmalade",
+        "url": "https://open.spotify.com/album/5rlAvknHpWuF6m4VMS3vnJ"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        },
+        {
+          "name": "M\u00fda",
+          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
+        },
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 267960,
+      "name": "Lady Marmalade - Single Edit",
+      "url": "https://open.spotify.com/track/0PSZ9G584Ve27GK6ThlY6P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Christina Aguilera (Expanded Edition)",
         "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
       },
@@ -243,6 +271,22 @@
       "duration_ms": 203333,
       "name": "Come on over Baby (All I Want Is You) - Radio Version",
       "url": "https://open.spotify.com/track/7A0apkTSTvMbSI7yplcmlh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 245960,
+      "name": "Fighter",
+      "url": "https://open.spotify.com/track/7nXq1vaZiz7PdbfojpPjW5"
     },
     {
       "added_at": null,
@@ -263,8 +307,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stripped",
-        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
+        "name": "Do What U Want",
+        "url": "https://open.spotify.com/album/5R9DO1cXTOaw9p7nd2emkm"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 216573,
+      "name": "Do What U Want",
+      "url": "https://open.spotify.com/track/5XKXMWPACPq51OiqzxenZo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Christina Aguilera (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
       },
       "artists": [
         {
@@ -272,9 +336,45 @@
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 245960,
-      "name": "Fighter",
-      "url": "https://open.spotify.com/track/7nXq1vaZiz7PdbfojpPjW5"
+      "duration_ms": 273706,
+      "name": "I Turn to You",
+      "url": "https://open.spotify.com/track/4Do68W4FWO2hRAJCzG1lus"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "duration_ms": 298853,
+      "name": "Dirrty (feat. Redman)",
+      "url": "https://open.spotify.com/track/59ZTxQo8rBycIXPLUIKvE2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 194213,
+      "name": "Candyman",
+      "url": "https://open.spotify.com/track/5lUTzPuiloBHm1qEaJcJfF"
     },
     {
       "added_at": null,
@@ -304,97 +404,9 @@
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 273706,
-      "name": "I Turn to You",
-      "url": "https://open.spotify.com/track/4Do68W4FWO2hRAJCzG1lus"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back To Basics",
-        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 194213,
-      "name": "Candyman",
-      "url": "https://open.spotify.com/track/5lUTzPuiloBHm1qEaJcJfF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stripped",
-        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        },
-        {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
-        }
-      ],
-      "duration_ms": 298853,
-      "name": "Dirrty (feat. Redman)",
-      "url": "https://open.spotify.com/track/59ZTxQo8rBycIXPLUIKvE2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lotus (Deluxe Version)",
-        "url": "https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        },
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 253746,
-      "name": "Just A Fool",
-      "url": "https://open.spotify.com/track/6nS1vMV1zs8c0Lk6mud78D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Christina Aguilera (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
       "duration_ms": 215800,
       "name": "What a Girl Wants",
       "url": "https://open.spotify.com/track/5bGmuxShUba9maPswDnhCs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back To Basics",
-        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 228906,
-      "name": "Ain't No Other Man",
-      "url": "https://open.spotify.com/track/7huo2wvrCgRucUsjdSDLQV"
     },
     {
       "added_at": null,
@@ -415,6 +427,42 @@
       "duration_ms": 255266,
       "name": "Can't Hold Us Down (feat. Lil' Kim)",
       "url": "https://open.spotify.com/track/0cv1Mnb47oMvjVKMc2cyZw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 228906,
+      "name": "Ain't No Other Man",
+      "url": "https://open.spotify.com/track/7huo2wvrCgRucUsjdSDLQV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lotus (Deluxe Version)",
+        "url": "https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "duration_ms": 253746,
+      "name": "Just A Fool",
+      "url": "https://open.spotify.com/track/6nS1vMV1zs8c0Lk6mud78D"
     },
     {
       "added_at": null,
@@ -923,38 +971,6 @@
       "duration_ms": 173922,
       "name": "Su\u00e9ltame",
       "url": "https://open.spotify.com/track/11dM832bBziKUZvI3tCfW5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Fuerza",
-        "url": "https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 228635,
-      "name": "La Reina",
-      "url": "https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back To Basics",
-        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 193160,
-      "name": "Save Me from Myself",
-      "url": "https://open.spotify.com/track/7aLQoD4MWkYQjZuTQKuT9Y"
     }
   ],
   "unique_name": "This Is Christina Aguilera",

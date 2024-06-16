@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Sexy Pigeon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 754,765 likes - 65 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 754,751 likes - 65 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

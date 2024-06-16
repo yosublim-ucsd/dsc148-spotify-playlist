@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > i tell them it's just your culture and everyone 🙄 📸 Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,498,637 likes - 150 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,498,858 likes - 150 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

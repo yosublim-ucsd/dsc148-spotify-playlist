@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,278 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,284 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 9 | [Pensando en Ti](https://open.spotify.com/track/56oRryxhnnkwWbARsyBuaM) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Pensando en Ti](https://open.spotify.com/album/0DsdrB2awxK94OuFpBl3cH) | 2:53 |
 | 10 | [Me Estoy Enamorando](https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Me Estoy Enamorando](https://open.spotify.com/album/290mTa3886xNkEyOVtC53k) | 3:35 |
 | 11 | [Jullie](https://open.spotify.com/track/44W7bta54sWjSkuj1NyT0c) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Indios](https://open.spotify.com/album/0ZAv3N3wsMLcP1X8NWYRAW) | 3:34 |
-| 12 | [CRISTAL](https://open.spotify.com/track/6Gfkt8xCb1bihvs6KOMO2g) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [CRISTAL](https://open.spotify.com/album/4LTaRXfhC5z6cUpQLDvNnd) | 3:22 |
+| 12 | [Cristal](https://open.spotify.com/track/6Gfkt8xCb1bihvs6KOMO2g) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Cristal](https://open.spotify.com/album/4LTaRXfhC5z6cUpQLDvNnd) | 3:22 |
 | 13 | [Para Vivir Mejor](https://open.spotify.com/track/3WCJS3iT5DIHYYBd7Obm38) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Para Vivir Mejor](https://open.spotify.com/album/6Hvl1yMEJWYNG72bHkZMZs) | 2:31 |
 | 14 | [Ojitos de Md](https://open.spotify.com/track/0Pkc9prDMNlz3WhP9MkwMx) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [Ojitos de Md](https://open.spotify.com/album/5CevLKYFXjNzjGl8hRi1lv) | 2:17 |
 | 15 | [Cosas para Decirte](https://open.spotify.com/track/4bLEdN7hL33Qv4fCz5VLMG) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Cabildo y Juramento](https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn) | 5:40 |

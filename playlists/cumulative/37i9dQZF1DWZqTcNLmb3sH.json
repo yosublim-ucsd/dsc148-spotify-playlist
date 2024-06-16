@@ -2085,32 +2085,6 @@
     },
     {
       "album": {
-        "name": "Avalobllu Sundari (From \"Sundari\")",
-        "url": "https://open.spotify.com/album/13dbNOJ3Cmo5NrmueNZNFh"
-      },
-      "artists": [
-        {
-          "name": "Srikar Athreya",
-          "url": "https://open.spotify.com/artist/25FU01YImlPAbLEGvp6E5X"
-        },
-        {
-          "name": "Ranjan",
-          "url": "https://open.spotify.com/artist/5DCVwNu8GwH5XNIXBLOKag"
-        },
-        {
-          "name": "Vijaysurya",
-          "url": "https://open.spotify.com/artist/0TyAKdyklRc5o304c606BY"
-        }
-      ],
-      "date_added": "2024-05-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 211254,
-      "name": "Avalobllu Sundari (From \"Sundari\")",
-      "url": "https://open.spotify.com/track/74FxChWHek6fCSz4JbHlxQ"
-    },
-    {
-      "album": {
         "name": "Avatara Purusha (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6DxronrVkYLqb6A7zw3x06"
       },
@@ -25988,6 +25962,36 @@
       "duration_ms": 233718,
       "name": "Sundaravaaytu Mana",
       "url": "https://open.spotify.com/track/08DBdSiBJdXxLfeZWpjFCW"
+    },
+    {
+      "album": {
+        "name": "Sundari",
+        "url": "https://open.spotify.com/album/13dbNOJ3Cmo5NrmueNZNFh"
+      },
+      "artists": [
+        {
+          "name": "Srikar Athreya",
+          "url": "https://open.spotify.com/artist/25FU01YImlPAbLEGvp6E5X"
+        },
+        {
+          "name": "Ranjan",
+          "url": "https://open.spotify.com/artist/5DCVwNu8GwH5XNIXBLOKag"
+        },
+        {
+          "name": "Vijaysurya",
+          "url": "https://open.spotify.com/artist/0TyAKdyklRc5o304c606BY"
+        },
+        {
+          "name": "VIJAY LALITAA SURYA",
+          "url": "https://open.spotify.com/artist/7501n7bptKE38lfFRj95QW"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211254,
+      "name": "Sundari",
+      "url": "https://open.spotify.com/track/74FxChWHek6fCSz4JbHlxQ"
     },
     {
       "album": {

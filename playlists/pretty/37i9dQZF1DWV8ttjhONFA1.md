@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 
 > El nuevo sonido argentino lo encontrás acá\. Foto: Mi Amigo Invencible.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,085 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,097 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Caballos](https://open.spotify.com/track/24XhxQCrRigCd7wMEbbRaI) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Arco y Flecha](https://open.spotify.com/album/5TEvOwAKlHcNOqM5EUnohR) | 2:43 |
-| 2 | [CRISTAL](https://open.spotify.com/track/6Gfkt8xCb1bihvs6KOMO2g) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [CRISTAL](https://open.spotify.com/album/4LTaRXfhC5z6cUpQLDvNnd) | 3:22 |
+| 2 | [Cristal](https://open.spotify.com/track/6Gfkt8xCb1bihvs6KOMO2g) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Cristal](https://open.spotify.com/album/4LTaRXfhC5z6cUpQLDvNnd) | 3:22 |
 | 3 | [Sinoca](https://open.spotify.com/track/5VKwR9EzAi8Ucod7lYmVhi) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Hola Precioso](https://open.spotify.com/album/03oOcZPLDZdsocx9QkkNty) | 3:35 |
 | 4 | [Imán](https://open.spotify.com/track/76RL8thD70xxFC3uUwggiG) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1) | [EN EL ESPACIO](https://open.spotify.com/album/4VAaIM6RfM6TWOINp47XoZ) | 3:15 |
 | 5 | [Corazón Extraño](https://open.spotify.com/track/0xlOGGbvgC4gHQ6nYiOexk) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn), [Diosque](https://open.spotify.com/artist/3Ib6KIEhkT9Funk4mqF4Lh) | [Corazón Extraño](https://open.spotify.com/album/6ooGDTPhDaeQPIjE99BtY5) | 2:56 |

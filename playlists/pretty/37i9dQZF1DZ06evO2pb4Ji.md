@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 
 > This is League of Legends\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,695 likes - 51 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,720 likes - 51 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 46 | [Lee Sin, the Blind Monk](https://open.spotify.com/track/7K4eBNwSXioHdSkzNeNUph) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Lee Sin, the Blind Monk](https://open.spotify.com/album/45FmQlpIspEOjoK8yGMtaC) | 4:03 |
 | 47 | [Our Love \(From the series Arcane League of Legends\)](https://open.spotify.com/track/4OiGC4aSeZV2O71xKl6ssk) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Our Love \(From the series Arcane League of Legends\)](https://open.spotify.com/album/0AVg3b9aPqPsyXDgR6E2fV) | 3:38 |
 | 48 | [Rules \(Are Meant to Break\)](https://open.spotify.com/track/0rZiFIOOnem9NmdzFEJBmR) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Che Lingo](https://open.spotify.com/artist/0xNKgWtSixAqcwJLM2c8ez) | [Rules \(Are Meant to Break\)](https://open.spotify.com/album/2iv4BH1w4P2vpiRZq3V9rj) | 3:01 |
-| 49 | [I'll Find a Way](https://open.spotify.com/track/3fYMVtfD6mbDSNREPAl1pq) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [TELLE](https://open.spotify.com/artist/2ZLkrrjhoAzlDuxGZJSWB2) | [Echoes of Light](https://open.spotify.com/album/4BI0o8MQXotNlNIzQl5fGC) | 3:25 |
-| 50 | [The Curse of the Sad Mummy](https://open.spotify.com/track/6vWCjuZTaKuyp5IfDmmNyx) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [The Music of League of Legends Vol\. 1](https://open.spotify.com/album/4pg51OJaG6MGlpRFxWWLpr) | 3:59 |
+| 49 | [The Curse of the Sad Mummy](https://open.spotify.com/track/6vWCjuZTaKuyp5IfDmmNyx) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [The Music of League of Legends Vol\. 1](https://open.spotify.com/album/4pg51OJaG6MGlpRFxWWLpr) | 3:59 |
+| 50 | [I'll Find a Way](https://open.spotify.com/track/3fYMVtfD6mbDSNREPAl1pq) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [TELLE](https://open.spotify.com/artist/2ZLkrrjhoAzlDuxGZJSWB2) | [Echoes of Light](https://open.spotify.com/album/4BI0o8MQXotNlNIzQl5fGC) | 3:25 |
 | 51 | [Set It Off](https://open.spotify.com/track/6qONYDmRz1s7Msz0yVDHMB) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg), [JIMMYCLINE](https://open.spotify.com/artist/4Z6fYh9ANGOfOSylYE5gZz) | [Set It Off](https://open.spotify.com/album/1dvFlkLfxQ9NsmZ61FUO4W) | 2:30 |
 
-Snapshot ID: `Zmo2gAAAAAAOHg9u7D2rBlEKZQGPxky7`
+Snapshot ID: `ZmuIAAAAAABM02c9ybAnYrBatBWlmOjn`

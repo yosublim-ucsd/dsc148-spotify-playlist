@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ku6cgJPhh5.md) - [plain]
 
 > Amp up your commute with rock hits, new and old\. Cover: Pearl Jam
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,258 likes - 125 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,382 likes - 125 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

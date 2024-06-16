@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Nas X. The essential tracks, all in one playlist.",
-  "num_followers": 156320,
+  "num_followers": 156369,
   "original_name": "This Is Lil Nas X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAAB/kZVXVR4WKRnhpDP2wAuZ",
+  "snapshot_id": "ZmuIAAAAAAAjK40qxSe1i1JTOfrw6Fb8",
   "tracks": [
     {
       "added_at": null,
@@ -115,22 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HOLIDAY",
-        "url": "https://open.spotify.com/album/4EvukZrmNBiqJbs3LwOSHu"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 154997,
-      "name": "HOLIDAY",
-      "url": "https://open.spotify.com/track/6zFMeegAMYQo0mt8rXtrli"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Panini",
         "url": "https://open.spotify.com/album/71BrrQxz8mZAneNSDE9Lov"
       },
@@ -143,22 +127,6 @@
       "duration_ms": 114893,
       "name": "Panini",
       "url": "https://open.spotify.com/track/1000nHvUdawXuUHgBod4Wv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "7 EP",
-        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 113000,
-      "name": "Old Town Road",
-      "url": "https://open.spotify.com/track/0F7FA14euOIX8KcbEturGH"
     },
     {
       "added_at": null,
@@ -179,6 +147,22 @@
       "duration_ms": 173560,
       "name": "Tennessee (feat. Lil Nas X)",
       "url": "https://open.spotify.com/track/3AvfMmfCipJLdr9OozL1bv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "7 EP",
+        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 113000,
+      "name": "Old Town Road",
+      "url": "https://open.spotify.com/track/0F7FA14euOIX8KcbEturGH"
     },
     {
       "added_at": null,
@@ -215,6 +199,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Where Do We Go Now? (Music from Lil Nas X: Long Live Montero)",
+        "url": "https://open.spotify.com/album/3xYwyMzauc6ENKu2HhpuiP"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 195470,
+      "name": "Where Do We Go Now? (Music from Lil Nas X: Long Live Montero)",
+      "url": "https://open.spotify.com/track/0jeRoIMD1LHhUkQEbjkXQv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "7 EP",
         "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
       },
@@ -231,22 +231,6 @@
       "duration_ms": 158706,
       "name": "Rodeo",
       "url": "https://open.spotify.com/track/4ak7xjvBeBOcJGWFDX9w5n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Where Do We Go Now? (Music from Lil Nas X: Long Live Montero)",
-        "url": "https://open.spotify.com/album/3xYwyMzauc6ENKu2HhpuiP"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 195470,
-      "name": "Where Do We Go Now? (Music from Lil Nas X: Long Live Montero)",
-      "url": "https://open.spotify.com/track/0jeRoIMD1LHhUkQEbjkXQv"
     },
     {
       "added_at": null,
@@ -291,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "7 EP",
-        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 148653,
-      "name": "C7osure (You Like)",
-      "url": "https://open.spotify.com/track/4no0eHn4fEB7tN1yZSXMma"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "light",
         "url": "https://open.spotify.com/album/6CEVtAdyuYi9llcuUWbgqw"
       },
@@ -327,6 +295,22 @@
       "duration_ms": 151839,
       "name": "light! (with Lil Nas X & 9lives)",
       "url": "https://open.spotify.com/track/7qAiJShKkfvET6wx0M5SRA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "7 EP",
+        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 148653,
+      "name": "C7osure (You Like)",
+      "url": "https://open.spotify.com/track/4no0eHn4fEB7tN1yZSXMma"
     },
     {
       "added_at": null,

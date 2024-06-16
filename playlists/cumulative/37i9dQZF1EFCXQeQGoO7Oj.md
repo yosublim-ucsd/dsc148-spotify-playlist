@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-522 songs - 1 day 7 hr 11 min
+524 songs - 1 day 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Alone](https://open.spotify.com/track/7CUPfpfuPwjicclWi4qKH4) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing \(Expanded Edition\)](https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38) | 3:13 | 2024-01-29 |  |
 | [Analogue \(All I Want\) \- MTV Unplugged](https://open.spotify.com/track/0Qd9Uf3LUsbUObtLK8NSdI) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [MTV Unplugged \- Summer Solstice](https://open.spotify.com/album/55SHqC4ZxSnT0wWQgg9eOY) | 4:43 | 2024-01-29 |  |
 | [Another Lonely Night](https://open.spotify.com/track/4Jy13zZticAaP3XldzKby1) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Another Lonely Night](https://open.spotify.com/album/1PsupjEL5Z5wd4pZMQiTUJ) | 3:44 | 2024-01-30 | 2024-02-02 |
-| [Another Lonely Night](https://open.spotify.com/track/7kOJsVkJXvLQPQ9osGWeKd) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [The Original High \(Deluxe Version\)](https://open.spotify.com/album/3kaQUt8Mp906u1fI0LDqO6) | 3:45 | 2024-01-29 |  |
+| [Another Lonely Night](https://open.spotify.com/track/5HBlVvqWjmGTrFDAO0JVdY) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [The Original High](https://open.spotify.com/album/6hN2y18fg4KVGMaltxfdXZ) | 3:45 | 2024-06-15 |  |
+| [Another Lonely Night](https://open.spotify.com/track/7kOJsVkJXvLQPQ9osGWeKd) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [The Original High \(Deluxe Version\)](https://open.spotify.com/album/3kaQUt8Mp906u1fI0LDqO6) | 3:45 | 2024-01-29 | 2024-06-16 |
 | [Army](https://open.spotify.com/track/1PzKBUHhyD035EQM9GNMfV) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Delirium \(Deluxe\)](https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j) | 3:57 | 2024-01-29 |  |
 | [Around The World](https://open.spotify.com/track/5IxXl4qLDoh16PJ5E7lnql) | [Natalie La Rose](https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Around The World](https://open.spotify.com/album/3gHfWLXRghI7FMAKIlZHQ8) | 3:36 | 2024-01-29 |  |
 | [As Long as You Love Me](https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 3:34 | 2024-01-29 |  |
@@ -176,7 +177,8 @@
 | [Generation](https://open.spotify.com/track/5lsiK5GlpYxmfwFNr76E5b) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Simple Plan](https://open.spotify.com/album/1tjE6cuUdnscgwxTt49ouH) | 3:02 | 2024-01-29 |  |
 | [Get Another Boyfriend](https://open.spotify.com/track/3nx5PkGa2sJyXVJzqE4eYM) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Black & Blue](https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO) | 3:06 | 2024-01-29 |  |
 | [Ghost](https://open.spotify.com/track/2Vl6VlxpDQk99QU7TfQGjO) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:23 | 2024-01-29 |  |
-| [Ghost Town](https://open.spotify.com/track/44aN5xKL3kGHvQ5bXVk6B8) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [The Original High \(Deluxe Version\)](https://open.spotify.com/album/3kaQUt8Mp906u1fI0LDqO6) | 3:28 | 2024-01-29 |  |
+| [Ghost Town](https://open.spotify.com/track/0ALTA9qTr8AQ8BmGifY2O8) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [The Original High](https://open.spotify.com/album/6hN2y18fg4KVGMaltxfdXZ) | 3:28 | 2024-06-15 |  |
+| [Ghost Town](https://open.spotify.com/track/44aN5xKL3kGHvQ5bXVk6B8) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [The Original High \(Deluxe Version\)](https://open.spotify.com/album/3kaQUt8Mp906u1fI0LDqO6) | 3:28 | 2024-01-29 | 2024-06-16 |
 | [ghostin](https://open.spotify.com/track/4lD7gHKF1e8Y9stQuVezZB) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/6sUzNE1SPNLBXBCZs3PIAO) | 4:31 | 2024-01-29 |  |
 | [girls girls girls](https://open.spotify.com/track/6eutgX6jfXAsjTXgQtCtYV) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [girls girls girls](https://open.spotify.com/album/17K0z0mxfAuYNNrV8Jx8v1) | 2:41 | 2024-01-29 |  |
 | [God is a woman](https://open.spotify.com/track/5OCJzvD7sykQEKHH7qAC3C) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:17 | 2024-01-31 |  |

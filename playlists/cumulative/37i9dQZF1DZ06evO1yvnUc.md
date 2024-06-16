@@ -2,7 +2,7 @@
 
 ### [This Is PARTYNEXTDOOR](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1yvnUc)
 
-> This is PARTYNEXTDOOR\. The essential tracks, all in one playlist.
+> This Is PARTYNEXTDOOR\. Los temas esenciales, todos en una lista.
 
 72 songs - 4 hr 17 min
 
@@ -21,7 +21,7 @@
 | [Come and See Me \(feat\. Drake\)](https://open.spotify.com/track/6cEguiQecbXrFlsnMi2ysr) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ) | 3:55 | 2023-06-29 |  |
 | [Damage](https://open.spotify.com/track/0GYSkimHYYaiL2AE9dz9Dl) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Seven Days](https://open.spotify.com/album/5hGC6Zuhu4JaC0YXb8iejw) | 3:33 | 2023-06-29 | 2023-09-03 |
 | [Don't Run](https://open.spotify.com/track/4rKlOGw7Q0si6csx1Xq2IQ) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ) | 4:03 | 2023-06-29 |  |
-| [Excitement](https://open.spotify.com/track/66w7lK0t98OPgvYjXp39IP) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Pegasus](https://open.spotify.com/album/0so2JtZLW2acBWStzut0W5) | 4:43 | 2023-11-10 |  |
+| [Excitement](https://open.spotify.com/track/66w7lK0t98OPgvYjXp39IP) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Pegasus](https://open.spotify.com/album/0so2JtZLW2acBWStzut0W5) | 4:43 | 2023-11-10 | 2024-06-16 |
 | [Excitement \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/7FullO2NDkyvxLuxYVKINa) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Pegasus](https://open.spotify.com/album/2vMi9So8GxXiqaT2zJXbQG) | 4:43 | 2023-06-29 | 2023-11-11 |
 | [F o r C e r t a i n](https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:39 | 2024-05-01 |  |
 | [FREAK IN YOU](https://open.spotify.com/track/0jhodoJFvVnpQ6Ify39lJQ) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [COLOURS](https://open.spotify.com/album/0318GAH0AN431KMF6jhFdz) | 4:32 | 2023-06-29 |  |
@@ -44,7 +44,7 @@
 | [Members Only \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/24FUBxaAYSBlWsbSnEzDcn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:37 | 2023-10-10 |  |
 | [My Affection \(with PARTYNEXTDOOR\)](https://open.spotify.com/track/2aSM4sbNN7cSmpYOG0sf46) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:33 | 2023-06-29 | 2024-06-14 |
 | [N o C h i l l](https://open.spotify.com/track/1zhMHgotgZXkLCXpqNRnPK) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 4:25 | 2024-04-28 |  |
-| [No Fuss](https://open.spotify.com/track/7BAreLM0Yif723pgS8Kydl) | [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [No Fuss](https://open.spotify.com/album/2HEjp4r9NGBGLtXxk5TxsA) | 3:10 | 2023-06-29 | 2024-06-12 |
+| [No Fuss](https://open.spotify.com/track/7BAreLM0Yif723pgS8Kydl) | [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [No Fuss](https://open.spotify.com/album/2HEjp4r9NGBGLtXxk5TxsA) | 3:10 | 2023-06-29 |  |
 | [Not Nice](https://open.spotify.com/track/6tHt7Ln9RV8FTlT4kTxr2b) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ) | 3:22 | 2023-06-29 |  |
 | [NOTHING LESS](https://open.spotify.com/track/5AONS2YjYFpZ6UZ8qiL4le) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16) | 3:28 | 2023-06-29 |  |
 | [One I Want \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/5MuhncU8rh6xe894EKjX2P) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [The Space Between](https://open.spotify.com/album/6tHcEzChizk2IXd5Kxl5hs) | 3:32 | 2023-06-29 | 2024-04-28 |

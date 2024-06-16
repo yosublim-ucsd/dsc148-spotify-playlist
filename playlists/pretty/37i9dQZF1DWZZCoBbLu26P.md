@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > Queens everywhere \- givin' us life.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,647 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,678 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

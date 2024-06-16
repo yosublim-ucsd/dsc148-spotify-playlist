@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeS4XzRgJG0.md) - [plain]
 
 > sorry ik kan niet..\. moet studeren
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,751 likes - 182 songs - 11 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,791 likes - 182 songs - 11 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

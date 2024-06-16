@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 55194,
+  "num_followers": 55217,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAAADV8fRhQxHOheDSsjcEC5x",
+  "snapshot_id": "ZmuIAAAAAAA0NCaS6mi5rohS6n5R8WAH",
   "tracks": [
     {
       "added_at": null,
@@ -79,8 +79,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Just Wanna Feel Your Love Again",
-        "url": "https://open.spotify.com/album/2wjAr1uxq8uRJaRfu2rDh7"
+        "name": "Call U Tomorrow",
+        "url": "https://open.spotify.com/album/7pdP0BWJ8Faz6ZbWb3UCGc"
       },
       "artists": [
         {
@@ -88,9 +88,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 241166,
-      "name": "I Just Wanna Feel Your Love Again",
-      "url": "https://open.spotify.com/track/4JOjqoaUEMZ0SOAzaKUwDj"
+      "duration_ms": 186666,
+      "name": "Call U Tomorrow",
+      "url": "https://open.spotify.com/track/1kPee0zC6xh3DT1mlG5a82"
     },
     {
       "added_at": null,
@@ -127,22 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Call U Tomorrow",
-        "url": "https://open.spotify.com/album/7pdP0BWJ8Faz6ZbWb3UCGc"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Call U Tomorrow",
-      "url": "https://open.spotify.com/track/1kPee0zC6xh3DT1mlG5a82"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wings",
         "url": "https://open.spotify.com/album/6aAPVuhruUUOmdW4VXsT7t"
       },
@@ -155,6 +139,30 @@
       "duration_ms": 168000,
       "name": "Wings",
       "url": "https://open.spotify.com/track/3JnSE5L6NV0W22ZcSJLrBs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "On My Way.",
+        "url": "https://open.spotify.com/album/3YrxGk5ThUcnjsDiTdLZST"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 187331,
+      "name": "On My Way.",
+      "url": "https://open.spotify.com/track/0pNhg9ZtLhBGpKiqpH3X6S"
     },
     {
       "added_at": null,
@@ -191,30 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "On My Way.",
-        "url": "https://open.spotify.com/album/3YrxGk5ThUcnjsDiTdLZST"
-      },
-      "artists": [
-        {
-          "name": "Lord's Child",
-          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
-        },
-        {
-          "name": "Madison Ryann Ward",
-          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 187331,
-      "name": "On My Way.",
-      "url": "https://open.spotify.com/track/0pNhg9ZtLhBGpKiqpH3X6S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bedroom Gospel",
         "url": "https://open.spotify.com/album/17OvPOdUGOGawt0dhZa9Uk"
       },
@@ -231,6 +215,34 @@
       "duration_ms": 227000,
       "name": "Wonderful God (feat. Jonathan Ogden)",
       "url": "https://open.spotify.com/track/6DRTaqEscCrnhsrjR69wnN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Camp Lukewarm",
+        "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+        },
+        {
+          "name": "Taylor Armstrong",
+          "url": "https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc"
+        }
+      ],
+      "duration_ms": 203720,
+      "name": "Wars",
+      "url": "https://open.spotify.com/track/0NzDCZypxqXxgcGQ4rkJRG"
     },
     {
       "added_at": null,
@@ -267,34 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Camp Lukewarm",
-        "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
-      },
-      "artists": [
-        {
-          "name": "Lord's Child",
-          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        },
-        {
-          "name": "Madison Ryann Ward",
-          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
-        },
-        {
-          "name": "Taylor Armstrong",
-          "url": "https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc"
-        }
-      ],
-      "duration_ms": 203720,
-      "name": "Wars",
-      "url": "https://open.spotify.com/track/0NzDCZypxqXxgcGQ4rkJRG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/2zSiFSrqjSoZsXdxzOjQtY"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 149508,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/2jBRks9u41rAywLxQjcdYt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Can\u2019t Get Enough",
+        "url": "https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 131174,
+      "name": "Can\u2019t Get Enough",
+      "url": "https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H"
     },
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can\u2019t Get Enough",
-        "url": "https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 131174,
-      "name": "Can\u2019t Get Enough",
-      "url": "https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's Beautiful.",
         "url": "https://open.spotify.com/album/6MRvWffD81OCQNUsa5J63K"
       },
@@ -371,6 +355,26 @@
       "duration_ms": 182857,
       "name": "3:35am",
       "url": "https://open.spotify.com/track/0QAFiGqEkWn27WVy6AZShQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nights & Days.",
+        "url": "https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 119156,
+      "name": "6:16am",
+      "url": "https://open.spotify.com/track/5pTb9i96sgct5x6jyjwhrM"
     },
     {
       "added_at": null,
@@ -403,26 +407,6 @@
       "duration_ms": 148000,
       "name": "Every Night",
       "url": "https://open.spotify.com/track/21MjiNNSZylKr74tEuGHpm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nights & Days.",
-        "url": "https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3"
-      },
-      "artists": [
-        {
-          "name": "Lord's Child",
-          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 119156,
-      "name": "6:16am",
-      "url": "https://open.spotify.com/track/5pTb9i96sgct5x6jyjwhrM"
     },
     {
       "added_at": null,
@@ -971,6 +955,26 @@
       "duration_ms": 194509,
       "name": "Camp",
       "url": "https://open.spotify.com/track/1WIlQub0N2uENuLhKNuZ5o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Summer/Spring Lofi Compilation",
+        "url": "https://open.spotify.com/album/2zT0rgijDSLbiuQkD0iFvT"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 166132,
+      "name": "flying higher",
+      "url": "https://open.spotify.com/track/0TusZgzmZwHib9C5ljET4I"
     }
   ],
   "unique_name": "This Is Montell Fish",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 
 > This Is Lenin Ramírez\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,024 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,038 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 5 | [Recordando a Manuel](https://open.spotify.com/track/3JuPa0jxEAacGtz4mAKVZA) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Jesús Chairez](https://open.spotify.com/artist/49xb55bacoIXahj7bLmfUp) | [Bendecído](https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu) | 3:28 |
 | 6 | [El Famoso Chino Antrax](https://open.spotify.com/track/5JINcxe6jLF09D6RSpHH5p) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Mi Conquista](https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7) | 3:18 |
 | 7 | [Joaquín](https://open.spotify.com/track/4DnNXHM9LiwuC1jZtXLI0w) | [Revolver Cannabis](https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Joaquín](https://open.spotify.com/album/6QqtIICcsDotbqg5SPWWUi) | 3:29 |
-| 8 | [Polvo Rosita](https://open.spotify.com/track/2wFr4kDAHG9Q3BeetDRpqU) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Polvo Rosita](https://open.spotify.com/album/20uQNNeCnnuo4LbZzpHztz) | 2:39 |
+| 8 | [Belicotas](https://open.spotify.com/track/0jILXu7DxbxTy1HqlbEyuA) | [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [El Flako](https://open.spotify.com/artist/1eQ6mMfISnp987IhbwUlEh), [El Ca$h](https://open.spotify.com/artist/4bkBSXHN1g64Zf09uxIPl5), [Mc Window](https://open.spotify.com/artist/1lhqy1J0L0MoELGM3XckyU), [Atirus](https://open.spotify.com/artist/5mUGcYc3GorwZ8k1dfvsTV) | [Belicotas](https://open.spotify.com/album/6A8vjQalHzuquuXeRVOkUu) | 3:30 |
 | 9 | [Gente del General](https://open.spotify.com/track/0di4Hh3AqJqbY9lFDgcB5Q) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Bendecído](https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu) | 2:45 |
-| 10 | [Belicotas](https://open.spotify.com/track/0jILXu7DxbxTy1HqlbEyuA) | [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [El Flako](https://open.spotify.com/artist/1eQ6mMfISnp987IhbwUlEh), [El Ca$h](https://open.spotify.com/artist/4bkBSXHN1g64Zf09uxIPl5), [Mc Window](https://open.spotify.com/artist/1lhqy1J0L0MoELGM3XckyU), [Atirus](https://open.spotify.com/artist/5mUGcYc3GorwZ8k1dfvsTV) | [Belicotas](https://open.spotify.com/album/6A8vjQalHzuquuXeRVOkUu) | 3:30 |
+| 10 | [Polvo Rosita](https://open.spotify.com/track/2wFr4kDAHG9Q3BeetDRpqU) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Polvo Rosita](https://open.spotify.com/album/20uQNNeCnnuo4LbZzpHztz) | 2:39 |
 | 11 | [Cuando Andaba Recio \(El Cholo\)](https://open.spotify.com/track/3PQbEoyDHaxvCpBqWq6gbn) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Bien Positivo](https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv) | 2:19 |
 | 12 | [El Chino](https://open.spotify.com/track/268zPLDFKoXULAX7aFqcE7) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [El Chino](https://open.spotify.com/album/6cIC7nXT8crS5Q7XaPPZdo) | 2:47 |
 | 13 | [Rolling One](https://open.spotify.com/track/40hjNYfeyudUJU3QHGW0t1) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Bendecído](https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 49 | [Todo Lo Fue](https://open.spotify.com/track/0Sa8aRfGckW0qUGLrBwoBG) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Reinicio](https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7) | 3:12 |
 | 50 | [El Blontezon](https://open.spotify.com/track/2YW8EvFnUFF1ff6mIQGv3v) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Del Barrio Hasta Aquí, Vol\. 2](https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp) | 2:43 |
 
-Snapshot ID: `Zmo2gAAAAABzU9ZsvxalFzshy32yUj4C`
+Snapshot ID: `ZmuIAAAAAABU4Qf2yt2XCLRMlcv8CbfX`

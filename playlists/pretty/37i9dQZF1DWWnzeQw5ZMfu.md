@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Niall Horan
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,308 likes - 100 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,313 likes - 100 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 52 | [When You Say Nothing At All \- Live](https://open.spotify.com/track/5B5X7IDKH9Aeb7NcLdErG7) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh) | [Live 2013 at The O2 Arena, London](https://open.spotify.com/album/05qBbGGNvgkIfOuyDt1jFl) | 4:59 |
 | 53 | [Gimme! Gimme! Gimme! \(A Man After Midnight\) \- Live](https://open.spotify.com/track/3hEy5GbQv7yC1X6yhoPz2y) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Live At Wembley Arena](https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo) | 5:34 |
 | 54 | [Sing \- Live and in Session](https://open.spotify.com/track/5r6UJphd3l3sVEfeZpEZHy) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Live and in Session](https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk) | 5:19 |
-| 55 | [The Power Of Love \- Live à Paris](https://open.spotify.com/track/2nJKHm0UEvnXIxUWSOq26L) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Live à Paris](https://open.spotify.com/album/0mXmpNs70razpUGj8NEu4u) | 4:45 |
+| 55 | [The Power Of Love \- Live at Le Zénith, Paris, France \- October 1995](https://open.spotify.com/track/2nJKHm0UEvnXIxUWSOq26L) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Live à Paris](https://open.spotify.com/album/0mXmpNs70razpUGj8NEu4u) | 4:45 |
 | 56 | [Empire State of Mind \(Part II\) Broken Down \- Live at Metropolis Studios, New York, NY \- May 2013](https://open.spotify.com/track/63kqWV4uJovbh830PAwC1J) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Alicia Keys \- VH1 Storytellers](https://open.spotify.com/album/2JimBGRjtQcmMriFKlNaf9) | 4:18 |
 | 57 | [Kiss You \- Live Version From The Motion Picture "One Direction: This Is Us"](https://open.spotify.com/track/4vk4cHeKY3FjJcEgB2bdKU) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Best Song Ever \(From THIS IS US\)](https://open.spotify.com/album/7slbkjkfIPufuEa858735n) | 4:27 |
 | 58 | [7 Years \- \(Later\) \[Live\]](https://open.spotify.com/track/4Qlrlz9qODmwbCJFQb6iUW) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [7 Years \(Later\) \[Live\]](https://open.spotify.com/album/1p2dYhZNoJb4PikibWUskn) | 4:16 |

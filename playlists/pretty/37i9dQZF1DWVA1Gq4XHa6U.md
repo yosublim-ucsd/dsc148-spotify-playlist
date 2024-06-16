@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA1Gq4XHa6U.md) - [plain]
 
 > Taking it way back! Cover: Lil Wayne
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,700,939 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,701,293 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

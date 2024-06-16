@@ -2240,6 +2240,24 @@
     {
       "album": {
         "name": "Brickell - Intro Extended",
+        "url": "https://open.spotify.com/album/6qLVubWoPeCUoc9KocPQAg"
+      },
+      "artists": [
+        {
+          "name": "Luna Cristofanelli",
+          "url": "https://open.spotify.com/artist/3HQ5dYTQ6URNajUz07H0pr"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178798,
+      "name": "Brickell - Intro Extended",
+      "url": "https://open.spotify.com/track/1twg8SuwiVBgvLedoXpv4R"
+    },
+    {
+      "album": {
+        "name": "Brickell - Intro Extended",
         "url": "https://open.spotify.com/album/60qLES7KUApnds3ragEAiC"
       },
       "artists": [
@@ -3556,7 +3574,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 164705,
       "name": "C\u00farame",
       "url": "https://open.spotify.com/track/1FlL8ycld6uVDDyhV7P5FA"
@@ -3904,7 +3922,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 173133,
       "name": "Dia de Enero",
       "url": "https://open.spotify.com/track/0OEBOJhSObnFuHuasXdt52"
@@ -4006,7 +4024,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 228773,
       "name": "Dile al Amor",
       "url": "https://open.spotify.com/track/6lFM8kkmpffm0aq2gzEtEK"
@@ -5616,7 +5634,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 167760,
       "name": "Ferxxo 100",
       "url": "https://open.spotify.com/track/1sbNEFiURUYfy024cJX8JG"
@@ -7682,7 +7700,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 219048,
       "name": "La Curiosidad",
       "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
@@ -12281,6 +12299,24 @@
     },
     {
       "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186365,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
+    },
+    {
+      "album": {
         "name": "Dembow Worldwide Hits Teteo 42",
         "url": "https://open.spotify.com/album/2iRuPibbnUyit6NnqRBeUL"
       },
@@ -12516,6 +12552,32 @@
       "duration_ms": 202373,
       "name": "Ponte Pa' Mi",
       "url": "https://open.spotify.com/track/4C6BlqqMwjFzOXzqpTeoWR"
+    },
+    {
+      "album": {
+        "name": "ESQUINAS",
+        "url": "https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185207,
+      "name": "POR EL CONTRARIO (with Angela Aguilar & Leonardo Aguilar)",
+      "url": "https://open.spotify.com/track/6VsqdsaY4oV06NODea0L0J"
     },
     {
       "album": {

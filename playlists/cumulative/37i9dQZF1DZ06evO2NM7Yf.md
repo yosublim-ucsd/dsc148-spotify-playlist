@@ -2,9 +2,9 @@
 
 ### [This Is Meg Smith](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2NM7Yf)
 
-> This is Meg Smith。アーティストの代表曲をひとつのプレイリストに。
+> This is Meg Smith\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
-22 songs - 1 hr 5 min
+23 songs - 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Cross My Heart I Hope U Die](https://open.spotify.com/track/3TSRH5IgWTHc8QZSAmo4bz) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cross My Heart I Hope U Die](https://open.spotify.com/album/5AQdr3EeYdMHLTTXNEwfWO) | 2:48 | 2024-01-10 |  |
 | [DO YOU LIKE ME?](https://open.spotify.com/track/1HG9BNyz9ZpesqRqHYausY) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [DO YOU LIKE ME?](https://open.spotify.com/album/0YdAuUnjZSdfJeL377Q0aS) | 2:57 | 2024-04-19 |  |
 | [emotional affair](https://open.spotify.com/track/1GA7ELy6dZsaLBLK8a3POB) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [emotional affair](https://open.spotify.com/album/42WRrsYZ5qC5LWjGNmGJiS) | 3:01 | 2024-06-01 | 2024-06-02 |
+| [emotional affair](https://open.spotify.com/track/7IILWCwr8Tgw6lXxjXriT2) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [emotional affair](https://open.spotify.com/album/2OE6A20vXzzFh66WJ23Xmu) | 3:01 | 2024-06-16 |  |
 | [Emotional Punching Bag](https://open.spotify.com/track/00mXO5pZSGrXQKyqkaI56b) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [emotional punching bag](https://open.spotify.com/album/2h8fMB5OeSth65ZiJl4ixZ) | 2:56 | 2024-01-10 |  |
 | [Fuck Friday](https://open.spotify.com/track/2Pp6DTAzahkBjtQZvuunre) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Fuck Friday](https://open.spotify.com/album/6kHPQWYCCp1iky3B2w4snD) | 3:08 | 2024-01-10 |  |
 | [guitar center](https://open.spotify.com/track/049lFlV3BgUKZU2Itc5rCT) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [guitar center](https://open.spotify.com/album/1efqw25N4FvdLgJ2mduAz0) | 3:07 | 2024-01-10 |  |

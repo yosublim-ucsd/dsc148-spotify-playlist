@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2avZ2E.md) - [plain]
 
 > This is Vanessa Zamora\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,617 likes - 44 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,620 likes - 44 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2avZ2E.md) - [plain]
 | 9 | [Colores](https://open.spotify.com/track/1cXxVEx9k0qQABuYA0MmAU) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Tornaluna](https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8) | 4:34 |
 | 10 | [TRASCENDER](https://open.spotify.com/track/5xZq4873FHfXsT3gGhYY6K) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 4:15 |
 | 11 | [Duele](https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9) | [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Duele](https://open.spotify.com/album/3cbrDaekOIx1EhHbtbr2nk) | 3:17 |
-| 12 | [Amor Eterno](https://open.spotify.com/track/2HWjTmWTuBP7UNbM4xEifo) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Amor Eterno](https://open.spotify.com/album/7Gbb0qmwkbJ58QDL08KVG3) | 5:28 |
+| 12 | [El Mundo Puede Esperar](https://open.spotify.com/track/6uzI8rhOIY8Aifbmq5WyZI) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [El Mundo Puede Esperar](https://open.spotify.com/album/099chjJsmLQM4YqTNuaE9Y) | 2:41 |
 | 13 | [Solegrande](https://open.spotify.com/track/1ucbZ6xHcfJEpZXecucLfx) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Tornaluna](https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8) | 5:15 |
 | 14 | [OJO DE DIOS](https://open.spotify.com/track/71KjTsyGt8v43JMFtg82Aj) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 1:31 |
-| 15 | [El Mundo Puede Esperar](https://open.spotify.com/track/6uzI8rhOIY8Aifbmq5WyZI) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [El Mundo Puede Esperar](https://open.spotify.com/album/099chjJsmLQM4YqTNuaE9Y) | 2:41 |
+| 15 | [Amor Eterno](https://open.spotify.com/track/2HWjTmWTuBP7UNbM4xEifo) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Amor Eterno](https://open.spotify.com/album/7Gbb0qmwkbJ58QDL08KVG3) | 5:28 |
 | 16 | [Dejarnos Ir](https://open.spotify.com/track/1RtxRTF1LfRphqcH0UDvZt) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [JUAN PABLO VEGA](https://open.spotify.com/album/3EKzsn6lugXcs8C7qj7jpR) | 3:42 |
 | 17 | [Idiota](https://open.spotify.com/track/7MDhm9FYj70sbX3U0w4E3m) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Una Caricia](https://open.spotify.com/album/5w5SEY5U50140We5w2gk1f) | 3:28 |
 | 18 | [OPUESTOS](https://open.spotify.com/track/1JrMzp8dK5VhGpfuQboqnh) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 2:38 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2avZ2E.md) - [plain]
 | 43 | [Correr](https://open.spotify.com/track/3RlWx4MPft8Ienq8JqabJI) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Hasta la Fantasía](https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl) | 3:38 |
 | 44 | [Control](https://open.spotify.com/track/6eEzLREEDhrE4ib9JSTNcv) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Hasta la Fantasía](https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl) | 3:00 |
 
-Snapshot ID: `Zmo2gAAAAADgGEQeHxKLi2i5/OVkL2nh`
+Snapshot ID: `ZmuIAAAAAACKy+6WJjG9CMwfGLO/YP6z`

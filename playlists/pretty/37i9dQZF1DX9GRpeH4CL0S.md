@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GRpeH4CL0S.md) - [plain]
 
 > The greatest Alternative Rock songs through the decades\. Cover: Weezer
 
-[Spotify](https://open.spotify.com/user/spotify) - 734,662 likes - 225 songs - 14 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 734,859 likes - 225 songs - 14 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

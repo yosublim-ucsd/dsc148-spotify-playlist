@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 
 > mate\- Bus stop!
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,393 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,400 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 |
-| 2 | [9:45 \(feat\. Lasmid & Ladipoe\)](https://open.spotify.com/track/0dT06xBuL6PQ7fzS37BEjs) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [Ladipoe](https://open.spotify.com/artist/6XkgrLfsDbOyuuT0oKltKF) | [True To Self](https://open.spotify.com/album/3s7ciU4LPvI3mb8yufHJZ5) | 3:46 |
+| 2 | [9:45 \(feat\. Lasmid & Ladipoe\)](https://open.spotify.com/track/0dT06xBuL6PQ7fzS37BEjs) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [True To Self](https://open.spotify.com/album/3s7ciU4LPvI3mb8yufHJZ5) | 3:46 |
 | 3 | [ART](https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:28 |
 | 4 | [Your Body](https://open.spotify.com/track/2E5YFuY3aRD7oZr7GKfgCQ) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Your Body](https://open.spotify.com/album/196SOihxCXE85Ooazqz1sk) | 2:46 |
 | 5 | [Tshwala Bam \(feat\. S.N.E\) \- Remix](https://open.spotify.com/track/6cyXHTix4NQ069gKJEYv41) | [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k), [Yuppe](https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [S.N.E](https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF) | [Tshwala Bam \(feat\. S.N.E\) \[Remix\]](https://open.spotify.com/album/1ZyNY4zHrl8MMzZ5li2Pm2) | 3:23 |

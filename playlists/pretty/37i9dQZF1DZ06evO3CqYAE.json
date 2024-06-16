@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 9549,
+  "num_followers": 9563,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAAA68ZP3ZQRMwYKMLT9kCAkn",
+  "snapshot_id": "ZmuIAAAAAAC0tHUfoIS5DSapTx/4/gzw",
   "tracks": [
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cross: My Gaze",
-        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 327216,
-      "name": "Igwe",
-      "url": "https://open.spotify.com/track/0bmIKllyl9bZhNxt2jgvzA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beyond me (Live at Yalic, Abuja)",
         "url": "https://open.spotify.com/album/6MCsoe8mI0KatCIXP4GcL9"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 598230,
       "name": "Beyond me - Live at Yalic, Abuja",
       "url": "https://open.spotify.com/track/14ZcU8XXyH3tyzG5IKATnG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Cross: My Gaze",
+        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 327216,
+      "name": "Igwe",
+      "url": "https://open.spotify.com/track/0bmIKllyl9bZhNxt2jgvzA"
     },
     {
       "added_at": null,

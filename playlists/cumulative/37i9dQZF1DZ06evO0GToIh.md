@@ -2,7 +2,7 @@
 
 ### [This Is Eden Muñoz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0GToIh)
 
-> This Is Eden Muñoz\. Los temas esenciales, todos en una lista.
+> This is Eden Muñoz\. The essential tracks, all in one playlist.
 
 57 songs - 2 hr 58 min
 
@@ -55,7 +55,7 @@
 | [Te Invito a Ser Feliz](https://open.spotify.com/track/3bUzFhNuke83LHTBw0XhYr) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Te Invito a Ser Feliz](https://open.spotify.com/album/7ukaZijb4JKauWNUYv8ddm) | 3:16 | 2024-01-29 |  |
 | [Te Perdonaría](https://open.spotify.com/track/0fOcoVDRswPO5bIviynzvJ) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Te Perdonaría](https://open.spotify.com/album/6L8a3pdMbTjgHWluN2TLdz) | 2:36 | 2024-01-29 |  |
 | [Te Vale Madre](https://open.spotify.com/track/4KSBQ8YMajJPd7ParPBlV6) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Te Vale Madre](https://open.spotify.com/album/025e1NdAZgqFznEwS9Amvm) | 2:31 | 2024-01-29 |  |
-| [Te Voy A Encontrar](https://open.spotify.com/track/1yBAIwiXhSigAMwLKAbU4S) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Te Voy A Encontrar](https://open.spotify.com/album/69mw22eA0ItFjVDk3tAtdQ) | 3:44 | 2024-01-29 |  |
+| [Te Voy A Encontrar](https://open.spotify.com/track/1yBAIwiXhSigAMwLKAbU4S) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Te Voy A Encontrar](https://open.spotify.com/album/69mw22eA0ItFjVDk3tAtdQ) | 3:44 | 2024-01-29 | 2024-06-16 |
 | [todo me vale madre](https://open.spotify.com/track/2JXwNWEICIo5Utov8kBot1) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [todo me vale madre](https://open.spotify.com/album/6Un1jeqwMNafxhOHfjYXEx) | 2:56 | 2024-05-26 |  |
 | [Tu Me Enseñaste](https://open.spotify.com/track/0367uF6vbcYnIYAgilNWYX) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Tu Me Enseñaste](https://open.spotify.com/album/1p1LvWM0ysgMEPmK8paYm0) | 3:33 | 2024-01-29 |  |
 | [Una Noche En Culiacán](https://open.spotify.com/track/6RxVAo6JVd6MsGYjni0Zto) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Una Noche En Culiacán](https://open.spotify.com/album/06TRhrubPOJpmivI7ufR9s) | 2:53 | 2024-01-29 | 2024-05-20 |

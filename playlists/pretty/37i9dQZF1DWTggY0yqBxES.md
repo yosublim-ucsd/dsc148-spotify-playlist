@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Ski Mask The Slump God
 
-[Spotify](https://open.spotify.com/user/spotify) - 945,692 likes - 99 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 945,782 likes - 99 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 15 | [SALAD](https://open.spotify.com/track/29fUrdzF1FqIhk0ZWxyyby) | [Oblé Reed](https://open.spotify.com/artist/4drP7GL5gdmNowIgcunWgn), [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [SALAD](https://open.spotify.com/album/0xkWdFSnZVaHICeiGyiVIY) | 2:53 |
 | 16 | [Earwax](https://open.spotify.com/track/6R6QNEIy56zoi5BZkx4OEA) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [11th Dimension](https://open.spotify.com/album/4Ioudl1Qx3fTh5AMOYRBvf) | 1:55 |
 | 17 | [Hit & Run](https://open.spotify.com/track/4Cl0ism4qfwNTtDbk8K6qm) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [FARADA](https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [internetboy](https://open.spotify.com/artist/0ZJw6xiDo3vtQXMZpDg3fW) | ['Decent](https://open.spotify.com/album/1WoPO9sVvJXy0MktOhBiIU) | 4:21 |
-| 18 | [MOOD SWINGS \[Feat\. Mike Dimes\]](https://open.spotify.com/track/2uwUyeHUxcvwaGO48ju6ed) | [PlayThatBoiZay](https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM), [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [MOOD SWINGS \(with Mike Dimes\)](https://open.spotify.com/album/0eUG7KiRKFqobPl69dTePO) | 3:00 |
+| 18 | [MOOD SWINGS \(with Mike Dimes\)](https://open.spotify.com/track/2uwUyeHUxcvwaGO48ju6ed) | [PlayThatBoiZay](https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM), [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [MOOD SWINGS \(with Mike Dimes\)](https://open.spotify.com/album/0eUG7KiRKFqobPl69dTePO) | 3:00 |
 | 19 | [What It Do](https://open.spotify.com/track/1VWoUgwdh1FSuF0KKRJU1E) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [What It Do](https://open.spotify.com/album/7CPV08Fhdf7N8SYyMdhnes) | 1:51 |
 | 20 | [E30](https://open.spotify.com/track/2ysvfpW8UlDz19JDDPu4sQ) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [E30](https://open.spotify.com/album/4SOOhAjyehmv7FRKgdBOix) | 2:08 |
 | 21 | [The Thin Grey Line](https://open.spotify.com/track/0lZYlxoSG7DCecuLvMERfP) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [The Thin Grey Line](https://open.spotify.com/album/3rXifZlYd2eKqicNt3z5HF) | 1:45 |

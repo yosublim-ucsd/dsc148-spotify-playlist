@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 582 likes - 147 songs - 10 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 582 likes - 147 songs - 10 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 83 | [The Eighth Veil](https://open.spotify.com/track/2MeGcaarc3ZW0nQ5An18gT) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Duke Ellington & His Orchestra, Vol.1, 1946](https://open.spotify.com/album/4Rdr70bjdonvcrh032nGat) | 3:07 |
 | 84 | [The Flowers Die of Love](https://open.spotify.com/track/1yzw1jc60t503rgQQ6ZV6t) | [Yuri Honing](https://open.spotify.com/artist/2g7wk0dMzm7J1dPxaQ44PS), [Wolfert Brederode](https://open.spotify.com/artist/5G9DP1W3O68G7XA8sxIZDH) | [Avalon Songs](https://open.spotify.com/album/2Ta8gswq0aGIuZvc9lbhKr) | 7:39 |
 | 85 | [Rhythm Pum Te Dum, Pt\. 1 \- Chorus](https://open.spotify.com/track/5VJSgpKSJyFXX2AGLI45nL) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [A Drum Is a Woman](https://open.spotify.com/album/1L06BMH0kRrUQX93Vv3xck) | 2:56 |
-| 86 | [What Else Can You Do With a Drum, Pt\. 1 \- Calypso](https://open.spotify.com/track/05NaZClsqp0omXp4gYF8S0) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [A Drum Is a Woman](https://open.spotify.com/album/1L06BMH0kRrUQX93Vv3xck) | 1:52 |
+| 86 | [What Else Can You Do With a Drum](https://open.spotify.com/track/5gYmkSgdzNS3ymOwR2t6pO) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Copenhagen 1958](https://open.spotify.com/album/49eb6TGttK5jEVK8H1bb29) | 2:03 |
 | 87 | [Ready, Go](https://open.spotify.com/track/3mzYgFyifzbEQ1OPih2xw0) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [Paul Gonsalves](https://open.spotify.com/artist/23hRv3SqLMrj4i3b3tfUu4) | [Duke Ellington And His Orchestra Featuring Paul Gonsalves](https://open.spotify.com/album/7as7qs0NL4DuXja9fLqKuI) | 5:01 |
 | 88 | [Orson](https://open.spotify.com/track/2oKMb55RKeEfMqUnL7sMsZ) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [BD Music Presents Billy Strayhorn Played by Duke Ellington](https://open.spotify.com/album/1FtPZ5ml8WFnCMwd3sKaPQ) | 2:52 |
 | 89 | [In A Blue Summer Garden](https://open.spotify.com/track/2SGN3ts85p2XV2NwpBY6qZ) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Piano Duets: Great Times!](https://open.spotify.com/album/73NLpriWcie3viIgpT8vwc) | 4:03 |
@@ -152,8 +152,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 142 | [Suite For The Duo](https://open.spotify.com/track/2LhGv7K7runCfDvvacEs9L) | [The Mitchell\-Ruff Duo](https://open.spotify.com/artist/6EuDBKUzhOpVFircumtEz6) | [Strayhorn: A Mitchell\-Ruff Interpretation](https://open.spotify.com/album/5ZAbG3O5SXsmw9U7szA1Sq) | 12:42 |
 | 143 | [Boll Weevil Ballet](https://open.spotify.com/track/7JImy6RMJR48M66vZwSMCw) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 5:11 |
 | 144 | [Matumbe](https://open.spotify.com/track/06GVigj1ayGxXAdVxw3vDv) | [Duke Ellington Orchestra](https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB) | [Only God Can Make a Tree](https://open.spotify.com/album/7L6HoS1DoiQucal8O2RBQD) | 4:02 |
-| 145 | [Zajj's Dream](https://open.spotify.com/track/0GFIr9C7miDD3jxL7i54Ra) | [Claude Bolling Big Band](https://open.spotify.com/artist/3YxemJtRsk1WR4ikdnfy6L) | [A Drum Is a Woman, conte musical de Duke Ellington \(Live au Théâtre National de Chaillot en 1996\)](https://open.spotify.com/album/4sTOOHhshmGFyo6GvxHQRc) | 5:26 |
-| 146 | [Lotus Blossom](https://open.spotify.com/track/70dfarV5LT25SJRzmanKDz) | [John Dimartino](https://open.spotify.com/artist/6bCofFGp9w6X6Bh4V3fLQc) | [Passion Flower](https://open.spotify.com/album/4eDXtUYCXcpr7r2SkN0xN8) | 2:33 |
+| 145 | [Lotus Blossom](https://open.spotify.com/track/70dfarV5LT25SJRzmanKDz) | [John Dimartino](https://open.spotify.com/artist/6bCofFGp9w6X6Bh4V3fLQc) | [Passion Flower](https://open.spotify.com/album/4eDXtUYCXcpr7r2SkN0xN8) | 2:33 |
+| 146 | [Zajj's Dream](https://open.spotify.com/track/0GFIr9C7miDD3jxL7i54Ra) | [Claude Bolling Big Band](https://open.spotify.com/artist/3YxemJtRsk1WR4ikdnfy6L) | [A Drum Is a Woman, conte musical de Duke Ellington \(Live au Théâtre National de Chaillot en 1996\)](https://open.spotify.com/album/4sTOOHhshmGFyo6GvxHQRc) | 5:26 |
 | 147 | [Prima Bara Dubla](https://open.spotify.com/track/5p1fIuJvkzF7Rhdry4IuuT) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [INTEGRAL DUKE ELLINGTON 1958 \- 1959](https://open.spotify.com/album/7hTH7xLVl2iNM00iY3E64J) | 5:41 |
 
-Snapshot ID: `AbUEIgAAAADaMSdniCvU/LryncvXyJgP`
+Snapshot ID: `AbUKAAAAAADkAyF6eNHXkuqXodobZOa5`

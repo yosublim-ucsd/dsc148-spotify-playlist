@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WELsJtFZjZ.md) - [plain]
 
 > Mellow songs from the 1980s\. Cover: Tina Turner
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,215,206 likes - 150 songs - 11 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,215,958 likes - 150 songs - 11 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

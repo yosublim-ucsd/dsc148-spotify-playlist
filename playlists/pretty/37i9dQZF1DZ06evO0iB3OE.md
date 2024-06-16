@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iB3OE.md) - [plain]
 
 > This Is El Potro De Sinaloa\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,800 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,803 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iB3OE.md) - [plain]
 | 3 | [El Mochomo \- En Vivo](https://open.spotify.com/track/7dBU9jVoGHCwkEPPzZur9X) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Canelos Jrs](https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF) | [Pa' Destapar La Hielera \(En Vivo\)](https://open.spotify.com/album/4eQuMUIzfeOCKgH6kEUhQH) | 2:38 |
 | 4 | [Las Tempestades](https://open.spotify.com/track/28ylzCdO95jHk2gjTcD02P) | [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA), [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Hombre de 14 Años](https://open.spotify.com/album/3BLUTvavXdcEmRfo52xCPy) | 3:59 |
 | 5 | [Alfredo Beltrán](https://open.spotify.com/track/0zrStlbIlkeFt1fNjXI1kk) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Los Mejores Corridos](https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY) | 2:22 |
-| 6 | [El Solicitado](https://open.spotify.com/track/0w9R6TV9XyHVZCIBY2nWzw) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Y Sigue la Mata Dando](https://open.spotify.com/album/4o1K7sFLLwNlDP5OwjnVUb) | 2:40 |
+| 6 | [El Enemigo Público](https://open.spotify.com/track/1V6lwiuvK0ZzMmuUVJP9L5) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Enemigo Público](https://open.spotify.com/album/7bNnQTposh3BeN2Hz3Xd53) | 2:18 |
 | 7 | [Julio Beltran \- En Vivo](https://open.spotify.com/track/3qoBcxY8TgV2Xmmqo5TxxP) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Canelos Jrs](https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF) | [Pa' Destapar La Hielera \(En Vivo\)](https://open.spotify.com/album/4eQuMUIzfeOCKgH6kEUhQH) | 3:23 |
-| 8 | [El Enemigo Público](https://open.spotify.com/track/1V6lwiuvK0ZzMmuUVJP9L5) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Enemigo Público](https://open.spotify.com/album/7bNnQTposh3BeN2Hz3Xd53) | 2:18 |
+| 8 | [El Solicitado](https://open.spotify.com/track/0w9R6TV9XyHVZCIBY2nWzw) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Y Sigue la Mata Dando](https://open.spotify.com/album/4o1K7sFLLwNlDP5OwjnVUb) | 2:40 |
 | 9 | [Déjame Vacío](https://open.spotify.com/track/0dYYyWLKrlqr1uXIiUnDIo) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Déjame Vacío](https://open.spotify.com/album/1V6lmb3Q26D49Lgx83k4hU) | 3:18 |
 | 10 | [El Vaso Derrama](https://open.spotify.com/track/4qbzincCvSKGd9mhhYCsUF) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Primer Tiempo](https://open.spotify.com/album/1kenLdV50A0LUgYFE73EjH) | 3:56 |
 | 11 | [Con Que Me Pagas](https://open.spotify.com/track/2EAabOFWset3x4EkvCJqaX) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [La Que Se Fue](https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB) | 2:14 |
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iB3OE.md) - [plain]
 | 18 | [Dejame](https://open.spotify.com/track/6rLYzSPsrs95tamhZ6oGrf) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Sinaloense](https://open.spotify.com/artist/2YJ9Y1IAQwEAHag5FABbLq) | [Dejame](https://open.spotify.com/album/1keRzmYxCAym4kPeyTiSYn) | 2:25 |
 | 19 | [La Carrucha](https://open.spotify.com/track/55mqlCzGFS1szEKuaxL8mI) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Cargamento Del Diablo](https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF) | 3:30 |
 | 20 | [La Vida Prestada \- En Vivo](https://open.spotify.com/track/4LrBqsCyeLFmI1KIzcp2r6) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Los Pioneros](https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni) | [En Vivo Con Banda](https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94) | 3:09 |
-| 21 | [Por Que No Vienes](https://open.spotify.com/track/5VgUoHUEPmWg93aX2CgXrf) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [La Que Se Fue](https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB) | 2:29 |
-| 22 | [Yo Fui el Señor de los Llanos](https://open.spotify.com/track/5nQspokXaBMX7266LF0Ynt) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Maz Poderoso](https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ) | 2:18 |
+| 21 | [Yo Fui el Señor de los Llanos](https://open.spotify.com/track/5nQspokXaBMX7266LF0Ynt) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Maz Poderoso](https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ) | 2:18 |
+| 22 | [Por Que No Vienes](https://open.spotify.com/track/5VgUoHUEPmWg93aX2CgXrf) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [La Que Se Fue](https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB) | 2:29 |
 | 23 | [El Inicio...](https://open.spotify.com/track/4Cc8CxUVyq0ZjXy6gH8vKx) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Déjame Vacío](https://open.spotify.com/album/1V6lmb3Q26D49Lgx83k4hU) | 3:48 |
 | 24 | [Los 3 Gallos \- En Vivo](https://open.spotify.com/track/3lTc0IeRqlcbZIARKyVrvZ) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Los Pioneros](https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni) | [En Vivo Con Banda](https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94) | 3:20 |
 | 25 | [El Peinado](https://open.spotify.com/track/1AV3hkXXZnZE5BhZtjjVDg) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Cargamento Del Diablo](https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iB3OE.md) - [plain]
 | 49 | [Por Cristo Vivo \(feat\. El Potro de Sinaloa\)](https://open.spotify.com/track/1LUQKYTfsiyBA8S7nQGzky) | [Tomas Hernandez](https://open.spotify.com/artist/1xYRTB4bJqGh639domz2BS), [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Hombre Nuevo](https://open.spotify.com/album/7gmjWu4fTRRdcEFvUCesrA) | 3:22 |
 | 50 | [Como en la Revolución](https://open.spotify.com/track/3BrZrZ62yBViYCnKnDp5mh) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Maz Poderoso](https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ) | 2:09 |
 
-Snapshot ID: `Zmo2gAAAAAD+/kznxs80AQRIdTYsbIte`
+Snapshot ID: `ZmuIAAAAAADbwo4GlbSTL4vpCyAqOobK`

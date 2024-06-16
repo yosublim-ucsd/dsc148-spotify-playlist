@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 447 likes - 185 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 450 likes - 185 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,13 +127,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 117 | [I Still Pray](https://open.spotify.com/track/3uJjybFZWmfaYQG4PEiiCR) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [I Still Pray](https://open.spotify.com/album/5KfMhRi1Rvr9Eu3EQ9x16p) | 2:44 |
 | 118 | [Circles](https://open.spotify.com/track/0aCYLOpEoSmdEBoKrNCuVd) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Girl Problems](https://open.spotify.com/album/4HUIhXljD7mEOJDEn9ytCC) | 3:41 |
 | 119 | [Here I Come](https://open.spotify.com/track/0fjGRLRER2rCKZfiuUBDwr) | [Dara Reneé](https://open.spotify.com/artist/7BtVR5EyH1mjLM5bjXUD5s), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series \(Original Soundtrack/Season 3\)](https://open.spotify.com/album/71FLsJroKR8vr5BbWRZHGc) | 3:17 |
-| 120 | [Out My Mind](https://open.spotify.com/track/6FB5eizWGtG9hXpWBJwPit) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Slow Dance](https://open.spotify.com/album/3BN8juNaSxMdwagm6RBvwh) | 3:15 |
-| 121 | [One On The Way](https://open.spotify.com/track/4CYFGGc4EVyfktgY6Oli2B) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Lavender](https://open.spotify.com/album/11v89Gklx5GvGK6zfhj5jA) | 3:44 |
-| 122 | [Pretender](https://open.spotify.com/track/23qOFgEan1r0oiAxis6U5K) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Pretender](https://open.spotify.com/album/2fknzhgnc8H82XbX31eE6U) | 2:55 |
+| 120 | [Pretender](https://open.spotify.com/track/23qOFgEan1r0oiAxis6U5K) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Pretender](https://open.spotify.com/album/2fknzhgnc8H82XbX31eE6U) | 2:55 |
+| 121 | [Out My Mind](https://open.spotify.com/track/6FB5eizWGtG9hXpWBJwPit) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Slow Dance](https://open.spotify.com/album/3BN8juNaSxMdwagm6RBvwh) | 3:15 |
+| 122 | [One On The Way](https://open.spotify.com/track/4CYFGGc4EVyfktgY6Oli2B) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Lavender](https://open.spotify.com/album/11v89Gklx5GvGK6zfhj5jA) | 3:44 |
 | 123 | [In My Head](https://open.spotify.com/track/22YECKvXAQGWpsUUULCWcM) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 3:22 |
 | 124 | [You're Cool](https://open.spotify.com/track/2bWIYp9KRcClACWoQtytU1) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Not Afraid to Say Goodbye](https://open.spotify.com/album/76ahXbGodPCqMpKrTHWCpe) | 2:28 |
-| 125 | [Hanging On](https://open.spotify.com/track/6hDXJbOh3PmAO8d6NSfSEv) | [Quinn Lewis](https://open.spotify.com/artist/5n69lhq7BLWqnSjJgNPRh4) | [Hanging On](https://open.spotify.com/album/0PlU5KBD4gYLyee8ixByoR) | 2:51 |
-| 126 | [Selfish](https://open.spotify.com/track/04xYbJK43PdehhM2AA4fhi) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [The Story : RETOLD](https://open.spotify.com/album/1W8HpoJr9zJmNxBYP8uCT9) | 2:50 |
+| 125 | [Selfish](https://open.spotify.com/track/04xYbJK43PdehhM2AA4fhi) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [The Story : RETOLD](https://open.spotify.com/album/1W8HpoJr9zJmNxBYP8uCT9) | 2:50 |
+| 126 | [Hanging On](https://open.spotify.com/track/6hDXJbOh3PmAO8d6NSfSEv) | [Quinn Lewis](https://open.spotify.com/artist/5n69lhq7BLWqnSjJgNPRh4) | [Hanging On](https://open.spotify.com/album/0PlU5KBD4gYLyee8ixByoR) | 2:51 |
 | 127 | [Nevermind](https://open.spotify.com/track/2pGb1wcW7PfIJulOQ3G9Cw) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Nevermind](https://open.spotify.com/album/2w0LOmjGXqQ44zGDcW1lAa) | 2:21 |
 | 128 | [Chameleon](https://open.spotify.com/track/2dUbh6RaHpDQd8gTlu2hUg) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Asia](https://open.spotify.com/artist/1bdytLV3FPjyhfrb6BhMej) | [Chameleon](https://open.spotify.com/album/2sHZNoBTXZmva4P2CD7DNT) | 3:06 |
 | 129 | [In the End](https://open.spotify.com/track/76ZM2e3QNTG2PXHN6Lhg1h) | [Annika Rose](https://open.spotify.com/artist/3E6TQHXjqR21vX9H0c5mOv) | [In the End](https://open.spotify.com/album/5wqeo9Po4CU3afnDB2RdrU) | 4:14 |
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 184 | [Tidal Wave](https://open.spotify.com/track/4ZNjc5TKVprUo1e9NzeCqQ) | [Paulina Jayne](https://open.spotify.com/artist/2VQ1JuL4CakwuJVSgaNBDg) | [Paulina Jayne](https://open.spotify.com/album/4OxqxKz3fmSAcAr1clBfxV) | 3:08 |
 | 185 | [Damage](https://open.spotify.com/track/0QsUCwtJBqLqv8SPexwnfk) | [Aaron Miller Hill](https://open.spotify.com/artist/6JzrBm54EjeRxn01EKjvLe) | [Occasus](https://open.spotify.com/album/3i3SSeZSTyyvlZtaRjjXvq) | 3:36 |
 
-Snapshot ID: `AbUEIgAAAABm56aQxqUyUaN+tzMb++cz`
+Snapshot ID: `AbUKAAAAAABrnhr/zvJa3kMdkhXRbqlI`

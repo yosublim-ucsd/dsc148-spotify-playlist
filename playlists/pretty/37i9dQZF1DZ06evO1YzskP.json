@@ -1,29 +1,13 @@
 {
-  "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 24765,
+  "description": "This Is La Receta. Los temas esenciales, todos en una lista.",
+  "num_followers": 24814,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAABcUdKyGRxaezCfio/hD0WH",
+  "snapshot_id": "ZmuIAAAAAAB/jjA0nxvL37ekMTE5YRWI",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Que Hay X Aqu\u00ed",
-        "url": "https://open.spotify.com/album/2aGLQMoG98H1SoSlwmBvEN"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 158545,
-      "name": "Lo Que Hay X Aqu\u00ed",
-      "url": "https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 235775,
       "name": "Ciega X \u00c9l",
       "url": "https://open.spotify.com/track/1peVaihQpEOjNGWtQecRVI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Que Hay X Aqu\u00ed",
+        "url": "https://open.spotify.com/album/2aGLQMoG98H1SoSlwmBvEN"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 158545,
+      "name": "Lo Que Hay X Aqu\u00ed",
+      "url": "https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf"
     },
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Sombrero De Lado",
+        "url": "https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 128759,
+      "name": "Arturon Beltran",
+      "url": "https://open.spotify.com/track/2C7h3MeFi2lQpYyPJYLnxQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Isidro El Chapo",
         "url": "https://open.spotify.com/album/30HVgN4IGJj9kprrLhb9jz"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 168720,
       "name": "Isidro El Chapo",
       "url": "https://open.spotify.com/track/3oCnK6eVusBd5E0hwy1azd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Sombrero De Lado",
-        "url": "https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 128759,
-      "name": "Arturon Beltran",
-      "url": "https://open.spotify.com/track/2C7h3MeFi2lQpYyPJYLnxQ"
     },
     {
       "added_at": null,
@@ -811,26 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien Firme el Sombrero",
-        "url": "https://open.spotify.com/album/4ZAh45TO8yZIBolO8sEyZ4"
-      },
-      "artists": [
-        {
-          "name": "Fraccion EME",
-          "url": "https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD"
-        },
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 140341,
-      "name": "Bien Firme el Sombrero",
-      "url": "https://open.spotify.com/track/4NBiLab7UlhDLfQyrWZsYN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mauricio MG",
         "url": "https://open.spotify.com/album/7IlEh5bGSPO3OM68Tjcxbw"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 155746,
       "name": "Mauricio MG",
       "url": "https://open.spotify.com/track/7pLa01jnr3LYNq6b3jDi1Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bien Firme el Sombrero",
+        "url": "https://open.spotify.com/album/4ZAh45TO8yZIBolO8sEyZ4"
+      },
+      "artists": [
+        {
+          "name": "Fraccion EME",
+          "url": "https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD"
+        },
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 140341,
+      "name": "Bien Firme el Sombrero",
+      "url": "https://open.spotify.com/track/4NBiLab7UlhDLfQyrWZsYN"
     },
     {
       "added_at": null,
@@ -935,22 +935,6 @@
       "duration_ms": 111666,
       "name": "Al Modo Culiac\u00e1n",
       "url": "https://open.spotify.com/track/63eQoXTDQFMi8hO5D0fcUx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos Asombrerados",
-        "url": "https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 192026,
-      "name": "La Captura Del Ni\u00f1o Vicente",
-      "url": "https://open.spotify.com/track/1vW9v99lo2DlhoAofsJAiS"
     }
   ],
   "unique_name": "This Is La Receta",

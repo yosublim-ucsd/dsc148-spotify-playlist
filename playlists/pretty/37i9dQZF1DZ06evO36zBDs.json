@@ -1,12 +1,12 @@
 {
   "description": "This is ClariS. The essential tracks, all in one playlist.",
-  "num_followers": 19103,
+  "num_followers": 19107,
   "original_name": "This Is ClariS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAAAmgnB2pkz8CpSbOQWEhYCx",
+  "snapshot_id": "ZmuIAAAAAADJ9jz2Gzf5nYakpDtSUNFd",
   "tracks": [
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ClariS 10th Anniversary BEST - Pink Moon -",
-        "url": "https://open.spotify.com/album/2jGthHZFI99DykepNSeGvw"
+        "name": "ClariS 10th Anniversary BEST - Green Star -",
+        "url": "https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
         }
       ],
-      "duration_ms": 259213,
-      "name": "irony -season 02-",
-      "url": "https://open.spotify.com/track/6TrMn2s2KGLq00pQZNM5FB"
+      "duration_ms": 267626,
+      "name": "PRECIOUS",
+      "url": "https://open.spotify.com/track/6pY3mA8t0DUfQWL1HuyGxX"
     },
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ClariS 10th Anniversary BEST - Green Star -",
-        "url": "https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe"
+        "name": "ClariS 10th Anniversary BEST - Pink Moon -",
+        "url": "https://open.spotify.com/album/2jGthHZFI99DykepNSeGvw"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
         }
       ],
-      "duration_ms": 267626,
-      "name": "PRECIOUS",
-      "url": "https://open.spotify.com/track/6pY3mA8t0DUfQWL1HuyGxX"
+      "duration_ms": 259213,
+      "name": "irony -season 02-",
+      "url": "https://open.spotify.com/track/6TrMn2s2KGLq00pQZNM5FB"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hVM8E.md) - [plain]
 
 ### [This Is La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1hVM8E)
 
-> This is La Original Banda El Limón de Salvador Lizárraga\. The essential tracks, all in one playlist.
+> This Is La Original Banda El Limón de Salvador Lizárraga\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,179 likes - 51 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,195 likes - 51 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hVM8E.md) - [plain]
 | 39 | [El Abandonado](https://open.spotify.com/track/6DaZrI8CJueK9v607LjEWh) | [Julio Preciado](https://open.spotify.com/artist/332dFYM9sC7JH8UvRL1TiR), [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Más Original Que Nunca](https://open.spotify.com/album/4eq9E7F1vZHHvnQwmfMjhJ) | 2:12 |
 | 40 | [Las Dos Plebes](https://open.spotify.com/track/3kB3wftiZPmVym3UyoWkNM) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [24 Kilates de Corridos](https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs) | 3:35 |
 | 41 | [Sin Pensar Yo Te Engañé](https://open.spotify.com/track/2TPOVXCnOQtJSY6GmHYA1z) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Derecho De Antigüedad](https://open.spotify.com/album/5NvPZJ8WktUvoVxnyXpgOT) | 3:40 |
-| 42 | [Me Esta Doliendo el Alma](https://open.spotify.com/track/45OPKIF7clW1z8cMGi31jW) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Me Esta Doliendo el Alma](https://open.spotify.com/album/1K3TqiWrJRWN6QuB2uVg3I) | 3:19 |
-| 43 | [Me Caíste del Cielo](https://open.spotify.com/track/3VnEuFStQRp1GauvdhaYTN) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Qué Se Te Olvidó](https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon) | 2:36 |
+| 42 | [Me Caíste del Cielo](https://open.spotify.com/track/3VnEuFStQRp1GauvdhaYTN) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Qué Se Te Olvidó](https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon) | 2:36 |
+| 43 | [Me Esta Doliendo el Alma](https://open.spotify.com/track/45OPKIF7clW1z8cMGi31jW) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Me Esta Doliendo el Alma](https://open.spotify.com/album/1K3TqiWrJRWN6QuB2uVg3I) | 3:19 |
 | 44 | [El Destino](https://open.spotify.com/track/17ZtUnwNLCHd1H9PJ11Vg6) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G), [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [El Primer Lugar](https://open.spotify.com/album/2Ppqps1zuF3NPsto5mJfCa) | 4:38 |
 | 45 | [Rifaré Mi Suerte](https://open.spotify.com/track/1SrYVzqCiKywmHYYsCJ0pI) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Me Lo Contaron Ayer](https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT) | 2:06 |
 | 46 | [Guarecita](https://open.spotify.com/track/0wHFB3V27Tf7dKtZnsgy4Z) | [Julio Preciado](https://open.spotify.com/artist/332dFYM9sC7JH8UvRL1TiR), [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Más Original Que Nunca](https://open.spotify.com/album/4eq9E7F1vZHHvnQwmfMjhJ) | 2:43 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hVM8E.md) - [plain]
 | 50 | [Mis Tres Canciones](https://open.spotify.com/track/7nB30HoNUEgtv8rgDzRo54) | [Julio Preciado](https://open.spotify.com/artist/332dFYM9sC7JH8UvRL1TiR), [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Más Original Que Nunca](https://open.spotify.com/album/4eq9E7F1vZHHvnQwmfMjhJ) | 3:10 |
 | 51 | [Pa'que Me Sirve la Vida](https://open.spotify.com/track/7tc9bte3gaVOUv8se6zKVt) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Qué Se Te Olvidó](https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon) | 3:05 |
 
-Snapshot ID: `Zmo2gAAAAAC4LlKlF7AlKWx1WGyk+vIb`
+Snapshot ID: `ZmuIAAAAAAAIP6ms/4qZnojlmLg7W/Wg`

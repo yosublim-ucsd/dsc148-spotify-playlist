@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Zqxyo07cQ.md) - [plain]
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-[Spotify](https://open.spotify.com/user/spotify) - 789,056 likes - 158 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 789,082 likes - 158 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: NxWorries
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,037,848 likes - 200 songs - 10 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,037,937 likes - 200 songs - 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 47 | [Wish It Wasn't You \- Acoustic](https://open.spotify.com/track/1Enuf7jME8jdypV7RqU10y) | [Amirah](https://open.spotify.com/artist/2mM9wOpDT6r0FTrXwUoutj) | [Wish It Wasn't You \(Acoustic\)](https://open.spotify.com/album/1hWmPDDXRdzinrmaJ6l0Zg) | 3:20 |
 | 48 | [Give Me A Sign](https://open.spotify.com/track/0mSa7JYz22lhKWcEqhF2UP) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Give Me A Sign](https://open.spotify.com/album/7DvwWbC52olqARcjhcUrJN) | 2:40 |
 | 49 | [Moonlight](https://open.spotify.com/track/0tNKQB9jfD9vHOJlV9yvg1) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Moonlight](https://open.spotify.com/album/6IHfJm4FRah8YHY8PMVOJd) | 2:54 |
-| 50 | [Lose Myself](https://open.spotify.com/track/1uqgUlVmfomaH1IEeDOC5y) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [i tried.](https://open.spotify.com/album/3ZrMVmVgaAzizc3MzotdvN) | 3:05 |
+| 50 | [Lose Myself](https://open.spotify.com/track/1uqgUlVmfomaH1IEeDOC5y) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I TRIED.](https://open.spotify.com/album/3ZrMVmVgaAzizc3MzotdvN) | 3:05 |
 | 51 | [Someday \(Prologue\)](https://open.spotify.com/track/28HXlzmylVBElfYBT2h4LK) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Someday \(Prologue\)](https://open.spotify.com/album/0vgEfF9ePnxvgoaVYKDmmJ) | 3:53 |
 | 52 | [Mercy](https://open.spotify.com/track/1eUkDg4v2xomoSRQkV7XWp) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Love You Anyway \(Deluxe\)](https://open.spotify.com/album/24nX5Ge2Wx9S1W4jfH3TG7) | 3:22 |
 | 53 | [Dear Imani](https://open.spotify.com/track/6kxcafIbwbt3dSG81ZacOz) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [Dear Imani](https://open.spotify.com/album/033gPMjdGtD1ITBLEYhyMX) | 2:42 |

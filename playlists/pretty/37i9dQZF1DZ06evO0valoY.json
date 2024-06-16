@@ -1,12 +1,12 @@
 {
   "description": "This is Eslabon Armado. The essential tracks, all in one playlist.",
-  "num_followers": 197387,
+  "num_followers": 197448,
   "original_name": "This Is Eslabon Armado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAABd29cVWFPJmG0dI2VdFP+H",
+  "snapshot_id": "ZmuIAAAAAADZ7M3g2JnjOIVXs5h1mND/",
   "tracks": [
     {
       "added_at": null,
@@ -667,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Mentirosa",
-        "url": "https://open.spotify.com/album/7Ax5vWCPWDcMqa2gkxATNs"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 182380,
-      "name": "Una Mentirosa",
-      "url": "https://open.spotify.com/track/7pl6uuLAW8W0y5qmrpn2P4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Veneno Mortal",
         "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 230443,
       "name": "Quien Es El?",
       "url": "https://open.spotify.com/track/2JVHzNBq01Mf4pmSDagtPA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Una Mentirosa",
+        "url": "https://open.spotify.com/album/7Ax5vWCPWDcMqa2gkxATNs"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 182380,
+      "name": "Una Mentirosa",
+      "url": "https://open.spotify.com/track/7pl6uuLAW8W0y5qmrpn2P4"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Veneno Mortal",
-        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 216685,
-      "name": "Tres de la Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/2KZVUNMAbJ30Tvy9PkY7dB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DESVELADO",
         "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 224378,
       "name": "Hermosura de Mujer",
       "url": "https://open.spotify.com/track/19vV1i1AluuK7mQcJmM5GZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Veneno Mortal",
+        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 216685,
+      "name": "Tres de la Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/2KZVUNMAbJ30Tvy9PkY7dB"
     },
     {
       "added_at": null,

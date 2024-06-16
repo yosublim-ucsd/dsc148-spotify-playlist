@@ -431,6 +431,24 @@
     },
     {
       "album": {
+        "name": "Dusty Lake",
+        "url": "https://open.spotify.com/album/6TjGE9e5AucQWWtYFUSrA1"
+      },
+      "artists": [
+        {
+          "name": "Blue Frog Lofi",
+          "url": "https://open.spotify.com/artist/1xofHYQfp6iMKG9XTk9RQq"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107250,
+      "name": "Dusty Lake",
+      "url": "https://open.spotify.com/track/5xgON9z9ym08pQrRKHkBsT"
+    },
+    {
+      "album": {
         "name": "Mantra, Pt. 1",
         "url": "https://open.spotify.com/album/1EQMjvDq41T3p6iiq0Kx7H"
       },
@@ -548,7 +566,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 189125,
       "name": "Fonnegra",
       "url": "https://open.spotify.com/track/117u8f3wJbrzpAKvFPu1uV"
@@ -732,6 +750,24 @@
       "duration_ms": 249973,
       "name": "It's All Over But the Crying (Instrumental)",
       "url": "https://open.spotify.com/track/1WrQreMyy7L97MUSdS01xu"
+    },
+    {
+      "album": {
+        "name": "Sonido C\u00f3smico",
+        "url": "https://open.spotify.com/album/0FI8JaUH7kqtvM6EkmCm7t"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278862,
+      "name": "It\u2019s All In Your Mind",
+      "url": "https://open.spotify.com/track/6i6zi5TgXuKUxooOMqhKfQ"
     },
     {
       "album": {
@@ -1162,7 +1198,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 159013,
       "name": "People Everywhere (Still Alive)",
       "url": "https://open.spotify.com/track/2OQ1V0e2O56AeIo4ywuYKF"

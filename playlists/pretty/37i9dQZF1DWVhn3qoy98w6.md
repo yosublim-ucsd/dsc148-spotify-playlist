@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles\. Foto: arrecí0
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,847 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,850 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 2 | [Reventarme](https://open.spotify.com/track/637HLsAIU5NCKr4mMssOj1) | [trashi](https://open.spotify.com/artist/4NCT7ucfttKL0FUmd3zllQ) | [Reventarme](https://open.spotify.com/album/5uPGlDtsU8HOG5wktQdJjX) | 3:06 |
 | 3 | [Mas Brillo Que El Sol](https://open.spotify.com/track/1is0JuO1Lja4wYIaDlD3Kn) | [West Srk](https://open.spotify.com/artist/0M0cPEB7uDiRRc22XtyRBZ), [DEVA](https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg), [SLOWMXBEATZ](https://open.spotify.com/artist/1r1zyjf5wMrGc37Zn4JLhH) | [Mas Brillo Que El Sol](https://open.spotify.com/album/0Y8F4c0g6A6O4pLnMfHyW8) | 3:09 |
 | 4 | [QUÉ RICURA!](https://open.spotify.com/track/2jZit0mAWuJil3R8pkDCGT) | [Juliett.](https://open.spotify.com/artist/24Pzb29mhh82I8N3b8nJxi), [Sneaky wh](https://open.spotify.com/artist/0hUhE5n1TjnCHwNLp2mIKf) | [QUÉ RICURA!](https://open.spotify.com/album/4wMaK1RdEpAEO6ULt320pD) | 2:17 |
-| 5 | [4 Years](https://open.spotify.com/track/35AJyoi8KRWApXswXdYCqp) | [Khotton](https://open.spotify.com/artist/3nJV4WKGZ6rh9LqpdwCOnS) | [Enma](https://open.spotify.com/album/5Vw3GTJsF7MHyhLkPWUeKb) | 2:22 |
+| 5 | [Years](https://open.spotify.com/track/35AJyoi8KRWApXswXdYCqp) | [Khotton](https://open.spotify.com/artist/3nJV4WKGZ6rh9LqpdwCOnS) | [Enma](https://open.spotify.com/album/5Vw3GTJsF7MHyhLkPWUeKb) | 2:22 |
 | 6 | [almaenpena\_rmx128bpm](https://open.spotify.com/track/04OGJPfNNwkp5GOMmY5dVE) | [Espineli](https://open.spotify.com/artist/74l577inT1nnMPPMajMv2f), [BAZOFIA](https://open.spotify.com/artist/1imn2WUN95p3MbeAGUP7gK) | [Purgatorio\_RMX](https://open.spotify.com/album/3I3pOaFLUOtxtDgKvQk8BQ) | 3:50 |
 | 7 | [GUSTARLE A TU ABUELA](https://open.spotify.com/track/17VZpzOsVTDEU0z5YV21WK) | [pobre lucca](https://open.spotify.com/artist/4JbQJha6cddW2i4dyS7UkA), [Talla](https://open.spotify.com/artist/0xt6sVefZnVDysMgz4RzHI) | [GUSTARLE A TU ABUELA](https://open.spotify.com/album/51TWL63ENVfXT37Re745gH) | 2:12 |
 | 8 | [LAPERRA6ORDA](https://open.spotify.com/track/0xVVczroq6ksWVWPeuHnfP) | [Sesentay6](https://open.spotify.com/artist/79Q1pSFzZxBxwHxKRhMwmM) | [LAPERRA6ORDA](https://open.spotify.com/album/3UfpXJuDzkb7jyK3HDSUkN) | 2:21 |

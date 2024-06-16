@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTxeAdrVG2l.md) - [plain]
 
 > The biggest songs of the 1990s\. Cover: Jennifer Lopez
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,306,370 likes - 150 songs - 10 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,306,939 likes - 150 songs - 10 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

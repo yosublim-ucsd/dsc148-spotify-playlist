@@ -1,12 +1,12 @@
 {
   "description": "This is Esteman. The essential tracks, all in one playlist.",
-  "num_followers": 34125,
+  "num_followers": 34163,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAABYD2msk0pKsE1PKkSxGBvU",
+  "snapshot_id": "ZmuIAAAAAAAZJkHAfPId22nOk5Hdo9de",
   "tracks": [
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Volviera A Nacer",
-        "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        }
-      ],
-      "duration_ms": 221760,
-      "name": "Juan Y Paul",
-      "url": "https://open.spotify.com/track/1FUKWcdbjLj872lLhgdVeu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bailemos en la Sala",
         "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 211400,
       "name": "Una Noche M\u00e1s",
       "url": "https://open.spotify.com/track/42yqhdvpet3rMgwnfbibh8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si Volviera A Nacer",
+        "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "Si Volviera A Nacer",
+      "url": "https://open.spotify.com/track/6K7J8BsFt49NA2Hx35RI4v"
     },
     {
       "added_at": null,
@@ -379,26 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Volviera A Nacer",
-        "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "Si Volviera A Nacer",
-      "url": "https://open.spotify.com/track/6K7J8BsFt49NA2Hx35RI4v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "IRENE ALEJANDRA",
         "url": "https://open.spotify.com/album/1EtK1Zju9gAMz9uoQ0q9rb"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 217096,
       "name": "Te Am\u00e9 Temprano",
       "url": "https://open.spotify.com/track/0lWowR8X67uvdZLAOpVcTa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si Volviera A Nacer",
+        "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        }
+      ],
+      "duration_ms": 232973,
+      "name": "Extra\u00f1os",
+      "url": "https://open.spotify.com/track/4ATNybPTNGnSm1L7S1Prhl"
     },
     {
       "added_at": null,
@@ -451,26 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Volviera A Nacer",
-        "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
-        }
-      ],
-      "duration_ms": 232973,
-      "name": "Extra\u00f1os",
-      "url": "https://open.spotify.com/track/4ATNybPTNGnSm1L7S1Prhl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ruzzicovers",
         "url": "https://open.spotify.com/album/2iIluiLqHB24y20H2qPbb2"
       },
@@ -487,6 +467,22 @@
       "duration_ms": 187666,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/3LPyNYWlHZgIVx2wh6ME8t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si Volviera A Nacer",
+        "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 237320,
+      "name": "Hasta Que T\u00fa Me Quieras",
+      "url": "https://open.spotify.com/track/78PMNyj9nQ0GzWCgWLpWUr"
     },
     {
       "added_at": null,
@@ -519,22 +515,6 @@
       "duration_ms": 165133,
       "name": "Silencio",
       "url": "https://open.spotify.com/track/63tsypGXts1WqBAK7BYiCA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Si Volviera A Nacer",
-        "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 237320,
-      "name": "Hasta Que T\u00fa Me Quieras",
-      "url": "https://open.spotify.com/track/78PMNyj9nQ0GzWCgWLpWUr"
     },
     {
       "added_at": null,
@@ -579,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 217080,
-      "name": "Si T\u00fa Me Nombras",
-      "url": "https://open.spotify.com/track/7MVXjuvdvYWSMhlIfOOdQQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Despertar",
         "url": "https://open.spotify.com/album/7GMhyohcuBcKYnfR7FMM8L"
       },
@@ -607,6 +571,22 @@
       "duration_ms": 195026,
       "name": "Despertar",
       "url": "https://open.spotify.com/track/4eYTJkjurpWAOvsEmG5W8A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 217080,
+      "name": "Si T\u00fa Me Nombras",
+      "url": "https://open.spotify.com/track/7MVXjuvdvYWSMhlIfOOdQQ"
     },
     {
       "added_at": null,
@@ -627,6 +607,22 @@
       "duration_ms": 226253,
       "name": "Aqu\u00ed Estoy Yo (feat. Andrea Echeverri)",
       "url": "https://open.spotify.com/track/1B2tNAkR6GKP2PcjZqf7Sq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si Volviera A Nacer",
+        "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 226586,
+      "name": "Milagrosa",
+      "url": "https://open.spotify.com/track/7i0IAeWI5SLPWtwCHiS9kD"
     },
     {
       "added_at": null,
@@ -683,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Libre",
-        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 223920,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/367p3heMzeLfeQtx2GufOn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1er Acto",
         "url": "https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg"
       },
@@ -715,6 +695,22 @@
       "duration_ms": 187760,
       "name": "Oh L\u00e0 L\u00e0 (feat. Monsieur Perin\u00e9)",
       "url": "https://open.spotify.com/track/6A9woRzbEFLUshXy15Q4EO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor Libre",
+        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 223920,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/367p3heMzeLfeQtx2GufOn"
     },
     {
       "added_at": null,
@@ -755,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Libre",
-        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 235466,
-      "name": "Burkina Faso",
-      "url": "https://open.spotify.com/track/0oYlFcq0DgLXMzzBSZuPfR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1er Acto",
         "url": "https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg"
       },
@@ -791,6 +771,22 @@
       "duration_ms": 315853,
       "name": "True Love (feat. Monsieur Perin\u00e9 & Juan Pablo Vega)",
       "url": "https://open.spotify.com/track/5uHMZeWwY6GQxKHGJfUvSu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor Libre",
+        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 235466,
+      "name": "Burkina Faso",
+      "url": "https://open.spotify.com/track/0oYlFcq0DgLXMzzBSZuPfR"
     },
     {
       "added_at": null,
@@ -831,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Libre",
-        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 199440,
-      "name": "7 D\u00edas",
-      "url": "https://open.spotify.com/track/0iQ5TF0YYNCuDfUOZ0ASoD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1er Acto",
         "url": "https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg"
       },
@@ -859,6 +839,22 @@
       "duration_ms": 190320,
       "name": "De Otro Planeta",
       "url": "https://open.spotify.com/track/1XfgQpZQqDVNu2edxeyw3h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor Libre",
+        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 199440,
+      "name": "7 D\u00edas",
+      "url": "https://open.spotify.com/track/0iQ5TF0YYNCuDfUOZ0ASoD"
     },
     {
       "added_at": null,
@@ -923,26 +919,6 @@
       "duration_ms": 252727,
       "name": "A qui\u00e9n le importa - Latin Pride Version by Juan Sueiro",
       "url": "https://open.spotify.com/track/1qlUwEvjwotC8lvju3rR3u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desconocidos",
-        "url": "https://open.spotify.com/album/24milmfp1Ttd2ZYjRjezWC"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Recoversi\u00f3n",
-          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
-        }
-      ],
-      "duration_ms": 195913,
-      "name": "Desconocidos",
-      "url": "https://open.spotify.com/track/2dyP9LDKtL2QpU7No6Zxri"
     },
     {
       "added_at": null,

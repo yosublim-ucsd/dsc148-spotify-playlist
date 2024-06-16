@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xGYzRKzf3A.md) - [plain]
 
 > 45 grados y un chingo de cerveza..\. ¡Así suena el noreste!
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,830 likes - 150 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,946 likes - 150 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

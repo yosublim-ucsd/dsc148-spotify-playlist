@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 
 > Catch the hottest Punjabi tracks with Shubh for his track "MVP"
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,021,810 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,023,330 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [MVP](https://open.spotify.com/track/5BQePe9rcCJozHK3oPayYk) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [MVP](https://open.spotify.com/album/5oCCfkVCpkSUhBUXe0pyJF) | 3:16 |
-| 2 | [Winning Speech](https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Winning Speech](https://open.spotify.com/album/0pLUWCJtTpJCcYpzSTK7oC) | 3:47 |
+| 2 | [Winning Speech](https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Winning Speech](https://open.spotify.com/album/0pLUWCJtTpJCcYpzSTK7oC) | 3:47 |
 | 3 | [410](https://open.spotify.com/track/0R1AZYXc34nfMaiengrkRc) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [Offgrid](https://open.spotify.com/artist/7F8zSmymsU25wRm0x7R05Y) | [410](https://open.spotify.com/album/0kUrdWYhWYGz71c0jaGnJe) | 3:54 |
 | 4 | [California Love](https://open.spotify.com/track/610keNiNVTIkYD0CqeSerg) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [ANYWAY](https://open.spotify.com/album/64MZHXV7IglO8LE8KplSRw) | 2:55 |
 | 5 | [King Shit](https://open.spotify.com/track/1BpvuKIG7jK5EiTp2tv5z8) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Leo](https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2) | 3:46 |
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 | 8 | [Kinni Kinni](https://open.spotify.com/track/3F3ZuXYFXGM1V6pk3b3zmi) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 3:33 |
 | 9 | [Forever](https://open.spotify.com/track/6YMF2h9YZVkQs6V6nVLdW3) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Prem Lata](https://open.spotify.com/artist/3ufBSdoViRPzJXqGPVy8rH) | [Broken Silence](https://open.spotify.com/album/4dilkeP7GygdqyRpha2On6) | 2:20 |
 | 10 | [Bandana](https://open.spotify.com/track/7KQdgW7QzNd9oPoCzjCU76) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Bandana](https://open.spotify.com/album/1jiFBECVkHOJwDe9TcKKiB) | 2:34 |
-| 11 | [Goin' Off](https://open.spotify.com/track/3txE0SZnwamBhYB2ZQtHwU) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Goin' Off](https://open.spotify.com/album/3uXGbWKTUkC14RmbgjTQlM) | 2:43 |
+| 11 | [Goin' Off](https://open.spotify.com/track/3txE0SZnwamBhYB2ZQtHwU) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Goin' Off](https://open.spotify.com/album/3uXGbWKTUkC14RmbgjTQlM) | 2:43 |
 | 12 | [9:45](https://open.spotify.com/track/6c4Po8zyQjB4cR5XgLhcGb) | [Prabh Singh](https://open.spotify.com/artist/0VAIiNSKG4DWkSaIy5qWz1), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu), [Rooh Sandhu](https://open.spotify.com/artist/54E3dYx7RpaGZaDVXJTWjr) | [9:45](https://open.spotify.com/album/5ITQeRYoVu4qRdo9TUTuuR) | 1:57 |
 | 13 | [Drippy](https://open.spotify.com/track/4fnIORP0QTYTOMPqMKpJtF) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K), [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Drippy](https://open.spotify.com/album/7xlh4JhUD65QX1HzN2guSX) | 3:15 |
 | 14 | [Cheques](https://open.spotify.com/track/4eBvRhTJ2AcxCsbfTUjoRp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 3:03 |

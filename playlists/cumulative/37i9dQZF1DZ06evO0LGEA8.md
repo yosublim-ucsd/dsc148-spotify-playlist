@@ -2,7 +2,7 @@
 
 ### [This Is La Santa Grifa](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0LGEA8)
 
-> This is La Santa Grifa\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This Is La Santa Grifa\. Los temas esenciales, todos en una lista.
 
 59 songs - 4 hr 6 min
 

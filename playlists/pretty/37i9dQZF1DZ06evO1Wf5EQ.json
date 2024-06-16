@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAACHIoAo2yzVPFVo7CvOyGZv",
+  "snapshot_id": "ZmuIAAAAAAB+gIRXycYLtJToX8thuEME",
   "tracks": [
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Griselda (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw"
+        "name": "Ezra (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2UbyTUN7UOsnV6lT9ecAky"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 59669,
-      "name": "THE LAST CIGARETTE",
-      "url": "https://open.spotify.com/track/7x6BO8H8ez38b3VbfA2blG"
+      "duration_ms": 78533,
+      "name": "Ezra And Mom",
+      "url": "https://open.spotify.com/track/5mJfDjDPOedjotdx5W5NsR"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 135493,
-      "name": "Welcome To LaBelle",
-      "url": "https://open.spotify.com/track/39ymvR1OhXUe0qt7YeFA7y"
+      "duration_ms": 184000,
+      "name": "Mcnue Leaves",
+      "url": "https://open.spotify.com/track/7st5nMW9QlnCq7j5Ygt1rw"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ezra (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2UbyTUN7UOsnV6lT9ecAky"
+        "name": "Griselda (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 78533,
-      "name": "Ezra And Mom",
-      "url": "https://open.spotify.com/track/5mJfDjDPOedjotdx5W5NsR"
+      "duration_ms": 59669,
+      "name": "THE LAST CIGARETTE",
+      "url": "https://open.spotify.com/track/7x6BO8H8ez38b3VbfA2blG"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Mcnue Leaves",
-      "url": "https://open.spotify.com/track/7st5nMW9QlnCq7j5Ygt1rw"
+      "duration_ms": 135493,
+      "name": "Welcome To LaBelle",
+      "url": "https://open.spotify.com/track/39ymvR1OhXUe0qt7YeFA7y"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,732 likes - 273 songs - 14 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,733 likes - 273 songs - 14 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,8 +140,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 130 | [Growing Away from Me](https://open.spotify.com/track/0k2ds7pE5cq6vlDwOzFxbZ) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj) | 3:02 |
 | 131 | [Streams and Lakes](https://open.spotify.com/track/2cTpnlEcVHW8sbtHb1LvND) | [Musica de Piano Escuela](https://open.spotify.com/artist/7yEwQE079hRltYQncYry8m), [Breathe](https://open.spotify.com/artist/7IypdEtKMXgPipj27tsZps), [Chillout Jazz Collective](https://open.spotify.com/artist/1WuhQCzTF8OYGIDGR2VnOU) | [Master Stress Mix \- 40 Melodies to Melt Away All Stress & Indulge Your Mind, Body and Spirit](https://open.spotify.com/album/3aZ15VKbZIjPOUou1JtfJo) | 2:39 |
 | 132 | [I Don't Think You Know Me \- Second Recorded Version; 2006 Remaster](https://open.spotify.com/track/7yUemsSDDVpsm1ismCVPTl) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [More of The Monkees \(Deluxe Edition\)](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) | 2:20 |
-| 133 | [Lady](https://open.spotify.com/track/7qdtc71bUp1oyxaO4IzQae) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Rake It In: The Greatestest Hits](https://open.spotify.com/album/1vUPHNLRsdPmhuyqHmmX1M) | 2:22 |
-| 134 | [Change In Mind, Change Of Heart](https://open.spotify.com/track/4TE2oo9qvqIk6WOpptxMz8) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 4:39 |
+| 133 | [Change In Mind, Change Of Heart](https://open.spotify.com/track/4TE2oo9qvqIk6WOpptxMz8) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 4:39 |
+| 134 | [Lady](https://open.spotify.com/track/7qdtc71bUp1oyxaO4IzQae) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Rake It In: The Greatestest Hits](https://open.spotify.com/album/1vUPHNLRsdPmhuyqHmmX1M) | 2:22 |
 | 135 | [Simple Things](https://open.spotify.com/track/7lIQgzo0Z0dFoPla143iCC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 2:41 |
 | 136 | [I Won't Be](https://open.spotify.com/track/3TgZBMGRl11cLaIQJhsTF2) | [The Queers](https://open.spotify.com/artist/1kRABJWDxSnOJFteI351V6) | [Love Songs For the Retarded](https://open.spotify.com/album/73ywZjlpzgcozKgBP0hlcs) | 2:07 |
 | 137 | [Directions](https://open.spotify.com/track/0FkpcNnT38YM9NLRVjLWvv) | [Illskillz](https://open.spotify.com/artist/2uPLrf6Eg6PENCm0l1uSg7) | [Sick Music 2](https://open.spotify.com/album/7fsWT3eJkTw46541pYLC7g) | 6:20 |
@@ -152,8 +152,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 142 | [Like Little Children \- Demo](https://open.spotify.com/track/6lnEZVZbgjIF2ZZ3bsSGak) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [The Legendary Demos](https://open.spotify.com/album/2DitJu0CqkrvARSR02RmqX) | 3:12 |
 | 143 | [He's a Bad Boy](https://open.spotify.com/track/16rPqhuTKqG41N4tHUGzZN) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Breaking up Is Hard to Do](https://open.spotify.com/album/2Ea6BUGbGQL8tmPmhNN1gY) | 2:22 |
 | 144 | [To Love](https://open.spotify.com/track/15c2qpqoagc2GxNvCaYlte) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 3:36 |
-| 145 | [Eventually \- Live](https://open.spotify.com/track/49PUEUPk6GqeTYHyslrRhx) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Carole King The Carnegie Hall Concert June 18, 1971](https://open.spotify.com/album/1zpek5hOaIualxw0Gmev0z) | 4:38 |
-| 146 | [Blues For A Young Girl Gone](https://open.spotify.com/track/3Y0pyyBki4gOjIqO4u3eTU) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [The World In A Sea Shell](https://open.spotify.com/album/74ipe6kA1lEYQE2Asr6rGZ) | 2:30 |
+| 145 | [Blues For A Young Girl Gone](https://open.spotify.com/track/3Y0pyyBki4gOjIqO4u3eTU) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [The World In A Sea Shell](https://open.spotify.com/album/74ipe6kA1lEYQE2Asr6rGZ) | 2:30 |
+| 146 | [Eventually \- Live](https://open.spotify.com/track/49PUEUPk6GqeTYHyslrRhx) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Carole King The Carnegie Hall Concert June 18, 1971](https://open.spotify.com/album/1zpek5hOaIualxw0Gmev0z) | 4:38 |
 | 147 | [I've Known You All My Life](https://open.spotify.com/track/2x3CU4zpyGG5F8QFaUAKlR) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Dolly](https://open.spotify.com/album/3QmIn4Ilj5fV1eRbYzt21P) | 1:58 |
 | 148 | [You've Been Around Too Long](https://open.spotify.com/track/600ONoBB8YasDriPyUhvcQ) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/3oBOHwgHLmI3HzN9nxaUZl) | 3:42 |
 | 149 | [Avenue P](https://open.spotify.com/track/1IRGY1rljyGOyuZoTsdc1k) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/7oJAFBGUEddEbeAJFlA90Y) | 3:03 |
@@ -282,4 +282,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 272 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 273 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `AbUEIgAAAACOeqzkmi6O6nRvr+hGIW7t`
+Snapshot ID: `AbUJ/gAAAACq5QY8gVAnTrt83lHfigGb`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > Metalcore at its finest\. Cover: Knocked Loose
 
-[Spotify](https://open.spotify.com/user/spotify) - 927,869 likes - 125 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 927,943 likes - 125 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

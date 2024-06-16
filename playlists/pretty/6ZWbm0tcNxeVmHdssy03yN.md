@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 42,230 likes - 100 songs - 5 hr 3 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 42,239 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 19 | [Modo Sad](https://open.spotify.com/track/15Ccodimg1p4jFMRkYHVHQ) | [Uriel AR](https://open.spotify.com/artist/1YqbztCgjTZ6GcrQ6cDI3K) | [Modo Sad](https://open.spotify.com/album/0OHrVeqmSmhvlHIDuhsusz) | 3:38 |
 | 20 | [Brixton](https://open.spotify.com/track/0EPnithPFsJbB7kUD8D0cJ) | [Finga Quenga](https://open.spotify.com/artist/3oPAWnUbHSkerwat9nlVXK), [Blakie](https://open.spotify.com/artist/0oq6CwPPB2P9PcpAgfxHa8), [9MR](https://open.spotify.com/artist/1hBmokyEMieW8SaOVyxp8l) | [Brixton](https://open.spotify.com/album/75vnJVVuAMx32Y7ZPXPag1) | 3:07 |
 | 21 | [Sol](https://open.spotify.com/track/4Vb4xn0vbA6VcYfr9bzqD3) | [Paola Decanini](https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE) | [Sol](https://open.spotify.com/album/0wXQnOcNJtl0tV4yxFz83I) | 3:12 |
-| 22 | [U Lyk My Style](https://open.spotify.com/track/0QlmR1LoIFAyYJKWUFYAeH) | [Asher Kosher](https://open.spotify.com/artist/7nTnkuOevyqxZXyWkzNDz6) | [U Lyk My Style](https://open.spotify.com/album/7esuhCa66JSo1FPMUTUe6y) | 2:52 |
+| 22 | [U Lyk My Style](https://open.spotify.com/track/0QlmR1LoIFAyYJKWUFYAeH) | [Stacy N.K.R](https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U) | [U Lyk My Style](https://open.spotify.com/album/7esuhCa66JSo1FPMUTUe6y) | 2:52 |
 | 23 | [El Doctor](https://open.spotify.com/track/4Xj9OObmNfyGLmRiQb5LJ3) | [Koffee el Kafetero](https://open.spotify.com/artist/3O5Pcxr21PC5RMi3wU1Dkm), [San](https://open.spotify.com/artist/4RT5IA547Brs5MXAWsT8bI) | [El Doctor](https://open.spotify.com/album/5Q6lbHbovNgdF6B57Tcbbn) | 3:35 |
 | 24 | [Landed in Zurich](https://open.spotify.com/track/1uFZTrAPNed90Ehc3ycDaS) | [Keanu](https://open.spotify.com/artist/2DLHZ28eAcr6zDVYqlujDq), [Niels](https://open.spotify.com/artist/67Aux8pNOScNMgB0cA2Gwg) | [Landed in Zurich](https://open.spotify.com/album/6iQiTPag4kPTmgqNLs8QEa) | 2:28 |
 | 25 | [Meta Riddim](https://open.spotify.com/track/2u2vhW0N1UQgq0L1IYyW8w) | [Grima x Azza](https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Shakes](https://open.spotify.com/artist/4f7G11kEJCEhCDVGaSkS9y), [Harry Shotta](https://open.spotify.com/artist/1KDOjuXZPd8XA3YBakakMb), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545), [Jhitzu](https://open.spotify.com/artist/6p5xN1BIOYijBYh94DBE7Y) | [Meta Riddim](https://open.spotify.com/album/7krieuP9hW1gC6sNnUxC8K) | 4:14 |

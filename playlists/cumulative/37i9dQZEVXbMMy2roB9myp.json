@@ -244,10 +244,32 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 151441,
       "name": "30 GRADOS",
       "url": "https://open.spotify.com/track/0GVPemmAwkXhFlYimhdDr3"
+    },
+    {
+      "album": {
+        "name": "30 Grados",
+        "url": "https://open.spotify.com/album/60gvJYHZGLyxwiZSlETv56"
+      },
+      "artists": [
+        {
+          "name": "El Turko",
+          "url": "https://open.spotify.com/artist/7aqaIr9F3tHP7BMsmfAL8Z"
+        },
+        {
+          "name": "Mandale Flow",
+          "url": "https://open.spotify.com/artist/2mrlK4Ow9Fb9U50qbkRMZd"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151441,
+      "name": "30 Grados",
+      "url": "https://open.spotify.com/track/6IRRoV7AbjHT8JWP4uFrD5"
     },
     {
       "album": {
@@ -5848,7 +5870,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "GAFITA Y CHOMBA",
       "url": "https://open.spotify.com/track/1905loqmX0pSFPMbA9rc1f"
@@ -7196,7 +7218,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 162637,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ"

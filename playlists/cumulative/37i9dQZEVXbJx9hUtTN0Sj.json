@@ -2504,7 +2504,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
@@ -3894,7 +3894,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 142514,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
@@ -4185,6 +4185,36 @@
     },
     {
       "album": {
+        "name": "Il est mari\u00e9",
+        "url": "https://open.spotify.com/album/23MQNuBqiNuRdeeUX7OrH5"
+      },
+      "artists": [
+        {
+          "name": "Dj Sad",
+          "url": "https://open.spotify.com/artist/3hLERkA9u0qj3A6S4yGeTb"
+        },
+        {
+          "name": "La Traine",
+          "url": "https://open.spotify.com/artist/5tk0jsqb4leLOR0BFzg2ZR"
+        },
+        {
+          "name": "Ninocess",
+          "url": "https://open.spotify.com/artist/4IjjueQMO8pGfgrjh13Bh3"
+        },
+        {
+          "name": "pitroipa",
+          "url": "https://open.spotify.com/artist/4JJKg8bePqpcxXob8gQVC8"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152952,
+      "name": "Il est mari\u00e9",
+      "url": "https://open.spotify.com/track/6tr6JVAIjhpQ02jtmzMPtm"
+    },
+    {
+      "album": {
         "name": "iluv",
         "url": "https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv"
       },
@@ -4298,7 +4328,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 126494,
       "name": "Islands (kompa pasi\u00f3n)",
       "url": "https://open.spotify.com/track/759dcxbhX9thQaqvHKfZOW"
@@ -4876,7 +4906,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 187319,
       "name": "Lalla",
       "url": "https://open.spotify.com/track/1iM4agLs3G8ihIHEcWojcN"
@@ -5022,6 +5052,24 @@
       "duration_ms": 168275,
       "name": "Le Temps",
       "url": "https://open.spotify.com/track/3iZQNQqVmLQwavpcBaktMH"
+    },
+    {
+      "album": {
+        "name": "Fran\u00e7oise Hardy (Tous les gar\u00e7ons et les filles)",
+        "url": "https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144826,
+      "name": "Le temps de l'amour",
+      "url": "https://open.spotify.com/track/6rqUOLt9dpfMANLMKTzoWj"
     },
     {
       "album": {
@@ -5866,6 +5914,24 @@
       "duration_ms": 189000,
       "name": "Molto Allegro",
       "url": "https://open.spotify.com/track/2tbf8Kg7mmr6wliHGFJrjw"
+    },
+    {
+      "album": {
+        "name": "Fran\u00e7oise Hardy (Mon amie la rose)",
+        "url": "https://open.spotify.com/album/00r4Bh9aFIb7yHux1Kg0ub"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137160,
+      "name": "Mon amie la rose",
+      "url": "https://open.spotify.com/track/1rMX4XuW4KzgYlAyEaDmpO"
     },
     {
       "album": {
@@ -6898,10 +6964,28 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 122187,
       "name": "Pop like this Pt. 2 - Slowed",
       "url": "https://open.spotify.com/track/50YO47KAJL1oEXv5P1hkQX"
+    },
+    {
+      "album": {
+        "name": "Pop like this Pt. 2 (Slowed)",
+        "url": "https://open.spotify.com/album/7AxvdeyukmAFes9SBWYE6x"
+      },
+      "artists": [
+        {
+          "name": "prodbycpkshawn",
+          "url": "https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122187,
+      "name": "Pop like this Pt. 2 - Slowed",
+      "url": "https://open.spotify.com/track/3xvzR05d6KgexfzjJgDRDl"
     },
     {
       "album": {
@@ -9244,7 +9328,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 225132,
       "name": "U My Everything (feat. Drake)",
       "url": "https://open.spotify.com/track/1TgStpMGTflN84asKJ8VU3"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Yoa au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,480 likes - 79 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,487 likes - 79 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 37 | [Cinnamon Curls](https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Cinnamon Curls](https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL) | 4:06 |
 | 38 | [Canon](https://open.spotify.com/track/2FBfpNRDEsjxgT2WKxD7Za) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [CANON](https://open.spotify.com/album/2t720LFlvzliLzW1SJQ3ne) | 2:56 |
 | 39 | [Près du binks](https://open.spotify.com/track/5q6iBLAaUsOWFEogvq8fUl) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi), [77 degrés](https://open.spotify.com/artist/4OkNhj7zVwnB3p57DR2SVN) | [Près du binks](https://open.spotify.com/album/6HiNu5bil1YXuGuZ9PQKOT) | 2:50 |
-| 40 | [J'suis plus là \(feat\. Low Jay & Papi\)](https://open.spotify.com/track/56R1EXj3sVlmy2ldgiTeef) | [Titai](https://open.spotify.com/artist/0kTTkHvvtYNtRKnRPyNGhT), [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR), [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6), [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N), [Papi](https://open.spotify.com/artist/1seuCAgNtazhgOk3LaP68H) | [J'suis plus là \(feat\. Low Jay & Papi\)](https://open.spotify.com/album/6m4vIkjGn1K8TOqYF4d90A) | 2:43 |
+| 40 | [J'suis plus là \(feat\. LowJay & Papi\)](https://open.spotify.com/track/56R1EXj3sVlmy2ldgiTeef) | [Titai](https://open.spotify.com/artist/0kTTkHvvtYNtRKnRPyNGhT), [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR), [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6), [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N), [Papi](https://open.spotify.com/artist/1seuCAgNtazhgOk3LaP68H) | [J'suis plus là \(feat\. LowJay & Papi\)](https://open.spotify.com/album/6m4vIkjGn1K8TOqYF4d90A) | 2:43 |
 | 41 | [RA TA TA](https://open.spotify.com/track/4EGLoafrxloaEWTscMYARN) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [RA TA TA](https://open.spotify.com/album/2ECNBxFFxeMlOC3obWaoNw) | 2:32 |
 | 42 | [Spiral](https://open.spotify.com/track/6RfgvYyQaM3lFys834sWwx) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Spiral](https://open.spotify.com/album/1FTD5Ik0Ex0MofuRwt8eYR) | 3:37 |
 | 43 | [Pansement](https://open.spotify.com/track/31MUDXdxaJ1S2KTg1LyEf3) | [Spider ZED](https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I) | [Pansement](https://open.spotify.com/album/3m3BNRCXasXTyPf2qjsTkZ) | 2:06 |

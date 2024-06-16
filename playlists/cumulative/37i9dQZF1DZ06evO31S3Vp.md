@@ -53,7 +53,7 @@
 | [Tenemos que hablar \- Real Magic](https://open.spotify.com/track/4wjURqSdOtZKt4qlQeioFJ) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Tenemos que hablar \(Real Magic\)](https://open.spotify.com/album/3vZUh3inLziRn9Zpa1cMAC) | 3:15 | 2023-10-10 | 2024-01-16 |
 | [Triste Pra Sempre](https://open.spotify.com/track/3n7ZwCXQUZekntN3f7dzwD) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [ANTI\-HERÓI](https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP) | 2:59 | 2023-10-10 |  |
 | [Você Vai Me Destruir](https://open.spotify.com/track/3mPz8WMo0zOWMxezQjyc8n) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [ANTI\-HERÓI](https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP) | 3:04 | 2023-10-10 |  |
-| [Vou Morrer Sozinho](https://open.spotify.com/track/1XVN2BVHfKUUcMH0jxSRZ5) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS](https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq) | 2:54 | 2023-10-10 |  |
+| [Vou Morrer Sozinho](https://open.spotify.com/track/1XVN2BVHfKUUcMH0jxSRZ5) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS](https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq) | 2:54 | 2023-10-10 | 2024-06-16 |
 | [VSF](https://open.spotify.com/track/6rL40EhmdDeEeqS0FDZ9Ab) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [ANTI\-HERÓI](https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP) | 3:56 | 2023-10-10 |  |
 | [Álcool](https://open.spotify.com/track/5gCMRYJOoAL96WypsjU0Ip) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Álcool](https://open.spotify.com/album/7nBhkDwwqiFWU1RiJaaFpa) | 3:01 | 2023-10-10 | 2023-11-11 |
 

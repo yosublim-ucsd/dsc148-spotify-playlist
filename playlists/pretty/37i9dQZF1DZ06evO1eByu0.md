@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1eByu0.md) - [plain]
 
 ### [This Is Aline Barros](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1eByu0)
 
-> This is Aline Barros\. The essential tracks, all in one playlist.
+> This is Aline Barros\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,341 likes - 51 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,347 likes - 51 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,11 +53,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1eByu0.md) - [plain]
 | 43 | [Pedro, Tiago e João no Barquinho](https://open.spotify.com/track/1180Pe0jjGNslftSXTrEKi) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 2](https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr) | 3:09 |
 | 44 | [Autor de Vida \(Autor da Vida\)](https://open.spotify.com/track/6nixEbKEEewJ6JjmevRUxz) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Autor de Vida \(Autor da Vida\)](https://open.spotify.com/album/2l2BlmPtP3jfR3ujWWUiOu) | 4:56 |
 | 45 | [Sem Limites](https://open.spotify.com/track/4UJbcK8Zm2glSVpmFvt2a9) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Consagração](https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM) | 4:00 |
-| 46 | [Cantarei Desse Amor](https://open.spotify.com/track/3eqExbH8UG4iRmoXcPWLHS) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [PG](https://open.spotify.com/artist/0HrmOxfaNsLC0yqmUZRyBu) | [Deus do Impossível](https://open.spotify.com/album/2GApIH2ulfM7LM4L8byYuM) | 4:00 |
-| 47 | [Lugar Seguro](https://open.spotify.com/track/0dvgPHkCgi2HMaBL9PgXmj) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Graça](https://open.spotify.com/album/5cnXg9VgRklof02kUD45zk) | 4:10 |
+| 46 | [Lugar Seguro](https://open.spotify.com/track/0dvgPHkCgi2HMaBL9PgXmj) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Graça](https://open.spotify.com/album/5cnXg9VgRklof02kUD45zk) | 4:10 |
+| 47 | [Cantarei Desse Amor](https://open.spotify.com/track/3eqExbH8UG4iRmoXcPWLHS) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [PG](https://open.spotify.com/artist/0HrmOxfaNsLC0yqmUZRyBu) | [Deus do Impossível](https://open.spotify.com/album/2GApIH2ulfM7LM4L8byYuM) | 4:00 |
 | 48 | [Jesus Cristo Mudou Meu Viver \(What a Difference You've Made In My Life\) \- Ao Vivo](https://open.spotify.com/track/6lp6PPv7PjP8mLLP7bVjgZ) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros 20 Anos Ao Vivo](https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7) | 3:56 |
 | 49 | [Tudo é Possível \(Ao Vivo\)](https://open.spotify.com/track/1pZoySbCn2iTP3q03yUOhZ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Tudo é Possível \(Ao Vivo\)](https://open.spotify.com/album/1YIJcCFdQGZyLBenh3xPAJ) | 6:23 |
 | 50 | [Yo Sé Quien Soy](https://open.spotify.com/track/34Ie7cr6R8Np8MighWg37q) | [Emir Sensini](https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Yo Sé Quien Soy](https://open.spotify.com/album/5M9E9nX5CYId00OAWa5pPd) | 3:59 |
-| 51 | [Samuel](https://open.spotify.com/track/5NnWQ6Bqy3Lvcek2yoUXSE) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia](https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4) | 2:40 |
+| 51 | [Águas do Trono](https://open.spotify.com/track/2lI2uOhSYZION2FRW7JVBX) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Som de Adoradores](https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9) | 4:47 |
 
-Snapshot ID: `Zmo2gAAAAACHOA7niN7jiCvclP6RCeHe`
+Snapshot ID: `ZmuIAAAAAAAdGCA9NKGsMaoRtDfFnpcs`

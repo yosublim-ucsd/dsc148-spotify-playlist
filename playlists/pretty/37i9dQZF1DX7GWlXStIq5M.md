@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Carol Biazin
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,316 likes - 85 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,330 likes - 85 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 81 | [Tão Bom](https://open.spotify.com/track/7Jyo9NALaL16zPseuE2v9L) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Akilla](https://open.spotify.com/artist/4AlpcXJqYvX4ovs4zEb2UB) | [Vinhos & Fumaça](https://open.spotify.com/album/5P3drrq2VzZYKPn2izLfaa) | 3:16 |
 | 82 | [Campo De Morango](https://open.spotify.com/track/4T88uzmAghjSBhABSz7jcB) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Campo De Morango](https://open.spotify.com/album/4HsyzmEw3gKCS1fFfHjccT) | 1:16 |
 | 83 | [Tudo Pra Amar Você](https://open.spotify.com/track/2lDhKzEXHU14HRRAKja3ba) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Tudo Pra Amar Você](https://open.spotify.com/album/1neVMQB6q1Roh1Voz9dfDA) | 2:55 |
-| 84 | [Cavalo De Troia](https://open.spotify.com/track/2RlqNmjyNfVDQLNQN0DV4k) | [Reddy Allor](https://open.spotify.com/artist/1o5XsCDvEepiA1AwFsiB1S), [Gabeu](https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe) | [Cavalo De Troia](https://open.spotify.com/album/1YjiqXB4sbhxzUcPzpMq0J) | 2:45 |
+| 84 | [Cavalo de Troia](https://open.spotify.com/track/2RlqNmjyNfVDQLNQN0DV4k) | [Reddy Allor](https://open.spotify.com/artist/1o5XsCDvEepiA1AwFsiB1S), [Gabeu](https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe) | [Cavalo de Troia](https://open.spotify.com/album/1YjiqXB4sbhxzUcPzpMq0J) | 2:45 |
 | 85 | [Pode Chegar](https://open.spotify.com/track/0RHgZjiG0iANH5QjE5xSfF) | [Anna](https://open.spotify.com/artist/3sLh7xqgu6RxVYokUj0nEx), [Isix](https://open.spotify.com/artist/4iU2XqRFAxIFelgbns2fug), [Sucre](https://open.spotify.com/artist/6SdlX8i3HPpAGh7FMAh9KF) | [Pode Chegar](https://open.spotify.com/album/0IwMgTR66UQlWAOE5IcvkW) | 2:54 |
 
 Snapshot ID: `ZmuyMAAAAABt2Ldoq5p3oGxZ2p+cDObu`

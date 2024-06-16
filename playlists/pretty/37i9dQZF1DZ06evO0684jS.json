@@ -1,12 +1,12 @@
 {
   "description": "This is Nicki Minaj. The essential tracks, all in one playlist.",
-  "num_followers": 852847,
+  "num_followers": 853042,
   "original_name": "This Is Nicki Minaj",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAACe8VJO1h1vqWYF7wy3opoJ",
+  "snapshot_id": "ZmuIAAAAAABRsoUFjIQFcKYG40nisW5u",
   "tracks": [
     {
       "added_at": null,
@@ -655,42 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Friday: Roman Reloaded The Re-Up (Explicit Version)",
-        "url": "https://open.spotify.com/album/22F5ZYY1sxoJjk6HzZfmC1"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 218746,
-      "name": "High School",
-      "url": "https://open.spotify.com/track/3UrNOHCzVxX2KZbNcKQAyu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pink Friday 2",
-        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 132799,
-      "name": "Barbie Dangerous",
-      "url": "https://open.spotify.com/track/1fKT7RUtOf4xNEqctEFe5L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Culture II",
         "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
       },
@@ -711,6 +675,42 @@
       "duration_ms": 303076,
       "name": "MotorSport",
       "url": "https://open.spotify.com/track/4wFjTWCunQFKtukqrNijEt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 132799,
+      "name": "Barbie Dangerous",
+      "url": "https://open.spotify.com/track/1fKT7RUtOf4xNEqctEFe5L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pink Friday: Roman Reloaded The Re-Up (Explicit Version)",
+        "url": "https://open.spotify.com/album/22F5ZYY1sxoJjk6HzZfmC1"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 218746,
+      "name": "High School",
+      "url": "https://open.spotify.com/track/3UrNOHCzVxX2KZbNcKQAyu"
     },
     {
       "added_at": null,
@@ -863,6 +863,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Last Time I Saw You",
+        "url": "https://open.spotify.com/album/1e26jDA4kEIjhgaMUf8mH1"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 216347,
+      "name": "Last Time I Saw You",
+      "url": "https://open.spotify.com/track/79DPYZ6x8FfzgSgPoPhpC3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Pinkprint (International Deluxe Explicit)",
+        "url": "https://open.spotify.com/album/40XGTQ7FN6Y3dZXJhKBe96"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 260239,
+      "name": "Anaconda",
+      "url": "https://open.spotify.com/track/5eqiMMbaeUZ32Q7sS00H35"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Creed II: The Album",
         "url": "https://open.spotify.com/album/7kSa9AwcDQ6ZUScaXxp8zP"
       },
@@ -891,38 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Pinkprint (International Deluxe Explicit)",
-        "url": "https://open.spotify.com/album/40XGTQ7FN6Y3dZXJhKBe96"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 260239,
-      "name": "Anaconda",
-      "url": "https://open.spotify.com/track/5eqiMMbaeUZ32Q7sS00H35"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Last Time I Saw You",
-        "url": "https://open.spotify.com/album/1e26jDA4kEIjhgaMUf8mH1"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 216347,
-      "name": "Last Time I Saw You",
-      "url": "https://open.spotify.com/track/79DPYZ6x8FfzgSgPoPhpC3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Queen",
         "url": "https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny"
       },
@@ -939,26 +939,6 @@
       "duration_ms": 189533,
       "name": "Bed (feat. Ariana Grande)",
       "url": "https://open.spotify.com/track/3L4GsGLgxpHieVQH86H8bv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Love (Remix)",
-        "url": "https://open.spotify.com/album/7ghSWpMQsrdOH8icfRKsk9"
-      },
-      "artists": [
-        {
-          "name": "August Alsina",
-          "url": "https://open.spotify.com/artist/19Fi1Rj7kk8kyiwxpXy3yM"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 276080,
-      "name": "No Love",
-      "url": "https://open.spotify.com/track/7ewfvLrlI0VNht4vEnoTMh"
     },
     {
       "added_at": null,
@@ -1023,6 +1003,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Yourself \u7d50 'Answer'",
+        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 260233,
+      "name": "IDOL",
+      "url": "https://open.spotify.com/track/54azQnjuDYDFfImXimGFsA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Pinkprint (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5qs8T6ZHSrnllnOuUk6muC"
       },
@@ -1047,22 +1047,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Yourself \u7d50 'Answer'",
-        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
+        "name": "2012 (It Ain't The End)",
+        "url": "https://open.spotify.com/album/6Yu5seu8YlZCOCF0qYVoIr"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "Jay Sean",
+          "url": "https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H"
         },
         {
           "name": "Nicki Minaj",
           "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 260233,
-      "name": "IDOL",
-      "url": "https://open.spotify.com/track/54azQnjuDYDFfImXimGFsA"
+      "duration_ms": 222200,
+      "name": "2012 (It Ain't The End)",
+      "url": "https://open.spotify.com/track/1ERCOXHQcoLSTlgmNTlcrR"
     }
   ],
   "unique_name": "This Is Nicki Minaj",

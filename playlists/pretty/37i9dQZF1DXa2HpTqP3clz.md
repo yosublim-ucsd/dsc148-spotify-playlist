@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 
 > Today's Bluegrass and old time favorites\. Cover: Tony Trischka
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,790 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,809 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

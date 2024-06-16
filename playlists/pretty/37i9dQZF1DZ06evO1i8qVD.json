@@ -1,12 +1,12 @@
 {
   "description": "This is Buddy Guy. The essential tracks, all in one playlist.",
-  "num_followers": 33246,
+  "num_followers": 33265,
   "original_name": "This Is Buddy Guy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAAAOnq0ggM9wtH4t6H5oViIv",
+  "snapshot_id": "ZmuIAAAAAADd4XQL9Cxdro+A+Xr8qZ/4",
   "tracks": [
     {
       "added_at": null,
@@ -219,6 +219,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Damn Right, I've Got The Blues",
+        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 418880,
+      "name": "Rememberin' Stevie",
+      "url": "https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Blues Is Alive And Well",
         "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 322280,
       "name": "Cognac (feat. Jeff Beck & Keith Richards)",
       "url": "https://open.spotify.com/track/3BkMv30DKcUEOsRbDSAyIq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Damn Right, I've Got The Blues",
-        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 418880,
-      "name": "Rememberin' Stevie",
-      "url": "https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT"
     },
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Blues Is Alive And Well",
+        "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 242600,
+      "name": "Whiskey For Sale",
+      "url": "https://open.spotify.com/track/1zzQeiehbYBPf6MmaM4Cli"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I'm A Woman",
         "url": "https://open.spotify.com/album/0ul0OtmuYOCV00rsaKaHPm"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 298984,
       "name": "I'm A Woman",
       "url": "https://open.spotify.com/track/58ttzG8XXKZzXkRd0PFagO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Blues Is Alive And Well",
-        "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 242600,
-      "name": "Whiskey For Sale",
-      "url": "https://open.spotify.com/track/1zzQeiehbYBPf6MmaM4Cli"
     },
     {
       "added_at": null,
@@ -587,26 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heavy Love",
-        "url": "https://open.spotify.com/album/5ihjiZb9879Hd3MjOBaxRu"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Jonny Lang",
-          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
-        }
-      ],
-      "duration_ms": 320640,
-      "name": "Midnight Train (feat. Jonny Lang)",
-      "url": "https://open.spotify.com/track/3zhWfTjCmrfcYTZy7C4OaD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Blues Is Alive And Well",
         "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
       },
@@ -627,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bring 'Em In",
-        "url": "https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6"
+        "name": "Heavy Love",
+        "url": "https://open.spotify.com/album/5ihjiZb9879Hd3MjOBaxRu"
       },
       "artists": [
         {
@@ -636,13 +616,13 @@
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         },
         {
-          "name": "Keith Richards",
-          "url": "https://open.spotify.com/artist/08avsqaGIlK2x3i2Cu7rKH"
+          "name": "Jonny Lang",
+          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
         }
       ],
-      "duration_ms": 220986,
-      "name": "The Price You Gotta Pay",
-      "url": "https://open.spotify.com/track/34JrJDLnQSCdcvX54bRYys"
+      "duration_ms": 320640,
+      "name": "Midnight Train (feat. Jonny Lang)",
+      "url": "https://open.spotify.com/track/3zhWfTjCmrfcYTZy7C4OaD"
     },
     {
       "added_at": null,
@@ -663,6 +643,26 @@
       "duration_ms": 210333,
       "name": "Wear You Out (feat. Billy Gibbons)",
       "url": "https://open.spotify.com/track/41DyUcEAiyVtNCrWElC32R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bring 'Em In",
+        "url": "https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Keith Richards",
+          "url": "https://open.spotify.com/artist/08avsqaGIlK2x3i2Cu7rKH"
+        }
+      ],
+      "duration_ms": 220986,
+      "name": "The Price You Gotta Pay",
+      "url": "https://open.spotify.com/track/34JrJDLnQSCdcvX54bRYys"
     },
     {
       "added_at": null,
@@ -859,8 +859,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Was Walking Through The Woods (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
+        "name": "Can't Quit The Blues",
+        "url": "https://open.spotify.com/album/5CIK2RIt6REWTwC7p44yst"
       },
       "artists": [
         {
@@ -868,9 +868,9 @@
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 139626,
-      "name": "I Got My Eyes On You",
-      "url": "https://open.spotify.com/track/5Hm4G8TmOoaVdNWA7okYvn"
+      "duration_ms": 384280,
+      "name": "Miss Ida B",
+      "url": "https://open.spotify.com/track/0BX4XzYSTD4HBz2BzcQ8Iu"
     },
     {
       "added_at": null,
@@ -887,22 +887,6 @@
       "duration_ms": 225666,
       "name": "Meet Me in Chicago",
       "url": "https://open.spotify.com/track/35sEYu9d2rT5BPLiOiMYob"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Can't Quit The Blues",
-        "url": "https://open.spotify.com/album/5CIK2RIt6REWTwC7p44yst"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 384280,
-      "name": "Miss Ida B",
-      "url": "https://open.spotify.com/track/0BX4XzYSTD4HBz2BzcQ8Iu"
     },
     {
       "added_at": null,
@@ -955,6 +939,26 @@
       "duration_ms": 191333,
       "name": "Mary Ann",
       "url": "https://open.spotify.com/track/6aENAvyxfR6LU8KPg5jnUV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bring 'Em In",
+        "url": "https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Carlos Santana",
+          "url": "https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ"
+        }
+      ],
+      "duration_ms": 244373,
+      "name": "I Put a Spell On You (feat. Carlos Santana)",
+      "url": "https://open.spotify.com/track/3e1vsLS7W9LNOofXgGccH3"
     }
   ],
   "unique_name": "This Is Buddy Guy",

@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "2012 (It Ain't The End)",
+        "url": "https://open.spotify.com/album/6Yu5seu8YlZCOCF0qYVoIr"
+      },
+      "artists": [
+        {
+          "name": "Jay Sean",
+          "url": "https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2024-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222200,
+      "name": "2012 (It Ain't The End)",
+      "url": "https://open.spotify.com/track/1ERCOXHQcoLSTlgmNTlcrR"
+    },
+    {
+      "album": {
         "name": "Dreams Worth More Than Money",
         "url": "https://open.spotify.com/album/2O3OKOYCub892PUGprsaQo"
       },
@@ -846,7 +868,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 276080,
       "name": "No Love",
       "url": "https://open.spotify.com/track/7ewfvLrlI0VNht4vEnoTMh"

@@ -1,12 +1,12 @@
 {
   "description": "This is Pop Smoke. The essential tracks, all in one playlist.",
-  "num_followers": 470513,
+  "num_followers": 470577,
   "original_name": "This Is Pop Smoke",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAAA1/3XjG/ZO40bLEvxlb1D4",
+  "snapshot_id": "ZmuIAAAAAADsoaj9bKB6IgpREU+0FxJB",
   "tracks": [
     {
       "added_at": null,
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
         }
       ],
-      "duration_ms": 135746,
-      "name": "Element",
-      "url": "https://open.spotify.com/track/57BGVV6wcyhbn3hsjlqEZB"
+      "duration_ms": 108160,
+      "name": "Get Back",
+      "url": "https://open.spotify.com/track/3DWjFSDEQ9IWz1mj449fB7"
     },
     {
       "added_at": null,
@@ -155,6 +155,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Woo Baby (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/58T4yPLn4NjBYXfRxeweyM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shoot For The Stars Aim For The Moon",
+        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 190476,
+      "name": "For The Night (feat. Lil Baby & DaBaby)",
+      "url": "https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Meet The Woo",
         "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
       },
@@ -167,38 +211,6 @@
       "duration_ms": 118800,
       "name": "Hawk Em",
       "url": "https://open.spotify.com/track/2ZRdQMMKtmPLdYp9aP5cK5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shoot For The Stars Aim For The Moon",
-        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 164579,
-      "name": "Got It On Me",
-      "url": "https://open.spotify.com/track/25zlnOAzbVoOzIeXSvQFf1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Meet The Woo 2",
-        "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 108160,
-      "name": "Get Back",
-      "url": "https://open.spotify.com/track/3DWjFSDEQ9IWz1mj449fB7"
     },
     {
       "added_at": null,
@@ -227,6 +239,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Meet The Woo 2",
+        "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 160560,
+      "name": "Mannequin (feat. Lil Tjay)",
+      "url": "https://open.spotify.com/track/5eJpwQyirY5EEdNadHKRAM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shoot For The Stars Aim For The Moon",
+        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 164579,
+      "name": "Got It On Me",
+      "url": "https://open.spotify.com/track/25zlnOAzbVoOzIeXSvQFf1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Slide (Remix) (feat. Pop Smoke, A Boogie Wit da Hoodie & Chris Brown) (feat. Pop Smoke)",
         "url": "https://open.spotify.com/album/7LMJKPGcBZjZf6AEnTBS2t"
       },
@@ -251,6 +299,38 @@
       "duration_ms": 296011,
       "name": "Slide (Remix) (feat. Pop Smoke, A Boogie Wit da Hoodie & Chris Brown) (feat. Pop Smoke)",
       "url": "https://open.spotify.com/track/6MO2bfLHKykUgCChFdw91H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meet The Woo",
+        "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 214960,
+      "name": "Welcome To The Party",
+      "url": "https://open.spotify.com/track/0fIffclhgJC5h8AdMMVvkp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
+        "url": "https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 151011,
+      "name": "Hotel Lobby",
+      "url": "https://open.spotify.com/track/5xKXcU8tpSYz7C7wrMMYec"
     },
     {
       "added_at": null,
@@ -288,29 +368,13 @@
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
         },
         {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
         }
       ],
-      "duration_ms": 160560,
-      "name": "Mannequin (feat. Lil Tjay)",
-      "url": "https://open.spotify.com/track/5eJpwQyirY5EEdNadHKRAM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
-        "url": "https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 151011,
-      "name": "Hotel Lobby",
-      "url": "https://open.spotify.com/track/5xKXcU8tpSYz7C7wrMMYec"
+      "duration_ms": 165640,
+      "name": "Shake The Room (feat. Quavo)",
+      "url": "https://open.spotify.com/track/7rSnKi58HPIVC0FVyh04Q1"
     },
     {
       "added_at": null,
@@ -327,6 +391,26 @@
       "duration_ms": 199826,
       "name": "PTSD",
       "url": "https://open.spotify.com/track/24b6djSbUFQtXAdyb3FMbr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
+        "url": "https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        }
+      ],
+      "duration_ms": 170669,
+      "name": "Backseat (feat. PnB Rock)",
+      "url": "https://open.spotify.com/track/0fj9oGrCKxVA4sXDxvbfiM"
     },
     {
       "added_at": null,
@@ -363,26 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
-        "url": "https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "PnB Rock",
-          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
-        }
-      ],
-      "duration_ms": 170669,
-      "name": "Backseat (feat. PnB Rock)",
-      "url": "https://open.spotify.com/track/0fj9oGrCKxVA4sXDxvbfiM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Man On The Moon III: The Chosen",
         "url": "https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w"
       },
@@ -407,34 +471,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shoot For The Stars Aim For The Moon",
-        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
+        "name": "Meet The Woo 2",
+        "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5"
       },
       "artists": [
         {
           "name": "Pop Smoke",
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 158466,
-      "name": "Something Special",
-      "url": "https://open.spotify.com/track/5kkaSMcf4BFlhRRICCKZb6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Meet The Woo",
-        "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
-      },
-      "artists": [
+        },
         {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
         }
       ],
-      "duration_ms": 121080,
-      "name": "Meet the Woo",
-      "url": "https://open.spotify.com/track/4kdKKsPHWsyNrvFsZrcg52"
+      "duration_ms": 221826,
+      "name": "War (feat. Lil Tjay) - Bonus",
+      "url": "https://open.spotify.com/track/2hYN1IVp5LGIsi5MpzcjVz"
     },
     {
       "added_at": null,
@@ -459,6 +511,22 @@
       "duration_ms": 212658,
       "name": "Paranoia (feat. Gunna & Young Thug)",
       "url": "https://open.spotify.com/track/3QqJ44HiM84iyZS0G2IKIP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meet The Woo",
+        "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 121080,
+      "name": "Meet the Woo",
+      "url": "https://open.spotify.com/track/4kdKKsPHWsyNrvFsZrcg52"
     },
     {
       "added_at": null,
@@ -579,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MPR",
-        "url": "https://open.spotify.com/album/7wEkFJd7KaysobIVuxEYK6"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 155386,
-      "name": "MPR",
-      "url": "https://open.spotify.com/track/26eibHIN0oV4AGuFCbTTm0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AP (Music from the film Boogie)",
         "url": "https://open.spotify.com/album/2xAPKH0b7vGsyD5xzkPpnI"
       },
@@ -611,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MPR",
+        "url": "https://open.spotify.com/album/7wEkFJd7KaysobIVuxEYK6"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 155386,
+      "name": "MPR",
+      "url": "https://open.spotify.com/track/26eibHIN0oV4AGuFCbTTm0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Meet The Woo",
         "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
       },
@@ -623,22 +691,6 @@
       "duration_ms": 241786,
       "name": "Scenario",
       "url": "https://open.spotify.com/track/2T1GbU75iGVtOhNUbZuNqk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Meet The Woo 2",
-        "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 190680,
-      "name": "Christopher Walking",
-      "url": "https://open.spotify.com/track/2IT0T0EqPaUxasjl2o8J2G"
     },
     {
       "added_at": null,
@@ -783,18 +835,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meet The Woo",
-        "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
+        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
+        "url": "https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv"
       },
       "artists": [
         {
           "name": "Pop Smoke",
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Jamie Foxx",
+          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
         }
       ],
-      "duration_ms": 182880,
-      "name": "Brother Man",
-      "url": "https://open.spotify.com/track/7wttMlE6un70hfwymwniYl"
+      "duration_ms": 155277,
+      "name": "She Feelin Nice (feat. Jamie Foxx)",
+      "url": "https://open.spotify.com/track/3qzSfoByowr6tDfd08b0T0"
     },
     {
       "added_at": null,
@@ -859,26 +915,6 @@
       "duration_ms": 96040,
       "name": "Showin Off Pt.1 (feat. Fivio Foreign)",
       "url": "https://open.spotify.com/track/7kFMvM2gUzVeW2ZlkKRhzu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "Bizzy Banks",
-          "url": "https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv"
-        }
-      ],
-      "duration_ms": 228251,
-      "name": "30 (feat. Bizzy Banks)",
-      "url": "https://open.spotify.com/track/24YG5Z8Of1VHovrfXsbvCZ"
     }
   ],
   "unique_name": "This Is Pop Smoke",

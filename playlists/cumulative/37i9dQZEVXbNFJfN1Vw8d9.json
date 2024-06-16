@@ -1917,6 +1917,24 @@
     },
     {
       "album": {
+        "name": "Torii Yama",
+        "url": "https://open.spotify.com/album/081q4OltFPrPe8IYfPQELu"
+      },
+      "artists": [
+        {
+          "name": "DELLAFUENTE",
+          "url": "https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155700,
+      "name": "Ayer",
+      "url": "https://open.spotify.com/track/7l8b7o5ufcFtWEQl99AbAP"
+    },
+    {
+      "album": {
         "name": "ESTRELLA",
         "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
       },
@@ -2306,7 +2324,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -7124,7 +7142,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
@@ -7989,6 +8007,28 @@
     },
     {
       "album": {
+        "name": "Torii Yama",
+        "url": "https://open.spotify.com/album/081q4OltFPrPe8IYfPQELu"
+      },
+      "artists": [
+        {
+          "name": "DELLAFUENTE",
+          "url": "https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV"
+        },
+        {
+          "name": "Lia Kali",
+          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178782,
+      "name": "Fosforito",
+      "url": "https://open.spotify.com/track/4CjH1LnrqgFplg4po9oei6"
+    },
+    {
+      "album": {
         "name": "Fragancia (with Jay Wheeler)",
         "url": "https://open.spotify.com/album/6IvNKfgj37xVwthEmXHcMK"
       },
@@ -8436,7 +8476,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 221714,
       "name": "Gitana (feat. Bryartz)",
       "url": "https://open.spotify.com/track/4mnpgUTLYMs3XFpqTWxVyA"
@@ -9520,7 +9560,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 248010,
       "name": "Japoni (Feat. Camin, Moncho Chavea, Jthyago & Samueliyo Baby)",
       "url": "https://open.spotify.com/track/7Mu0u7u2e0eOiAvMfEr2A7"
@@ -10720,6 +10760,24 @@
       "duration_ms": 229738,
       "name": "LA RANGER (feat. Myke Towers)",
       "url": "https://open.spotify.com/track/0QoaFLmBJyuVuzOIGy6iCS"
+    },
+    {
+      "album": {
+        "name": "LA REINA",
+        "url": "https://open.spotify.com/album/2Fy0cyNtT6mpTVWtAAyfh4"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "LA REINA",
+      "url": "https://open.spotify.com/track/06JM1fuKPQOrSL6s9mzDvV"
     },
     {
       "album": {
@@ -12473,6 +12531,28 @@
     },
     {
       "album": {
+        "name": "Torii Yama",
+        "url": "https://open.spotify.com/album/081q4OltFPrPe8IYfPQELu"
+      },
+      "artists": [
+        {
+          "name": "DELLAFUENTE",
+          "url": "https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV"
+        },
+        {
+          "name": "AMORE",
+          "url": "https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177500,
+      "name": "Malicia",
+      "url": "https://open.spotify.com/track/1Mku1dK6RHeoqOwfXCmaI3"
+    },
+    {
+      "album": {
         "name": "Sol Mar\u00eda",
         "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
       },
@@ -12804,10 +12884,28 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 164365,
       "name": "Martini",
       "url": "https://open.spotify.com/track/5tikPg9QkVfGtstjTUb5dB"
+    },
+    {
+      "album": {
+        "name": "Qui\u00e9n es Dei V?",
+        "url": "https://open.spotify.com/album/2i6InsyHZPR6NBFniDivF5"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164365,
+      "name": "Martini",
+      "url": "https://open.spotify.com/track/6opCVD6WJNDyBAxvrzKLnH"
     },
     {
       "album": {
@@ -15088,7 +15186,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 201935,
       "name": "offline",
       "url": "https://open.spotify.com/track/7s4emXHJwAuo5VvGBXmnBL"
@@ -17137,6 +17235,24 @@
     },
     {
       "album": {
+        "name": "Qui\u00e9n es Dei V?",
+        "url": "https://open.spotify.com/album/2i6InsyHZPR6NBFniDivF5"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162244,
+      "name": "Qui\u00e9n es Dei V?",
+      "url": "https://open.spotify.com/track/5cDb5zMz121WQde65PLZY4"
+    },
+    {
+      "album": {
         "name": "qu\u00e9 le pasa conmigo?",
         "url": "https://open.spotify.com/album/2U3fK2dphVapz4xU77aflc"
       },
@@ -17368,6 +17484,28 @@
       "duration_ms": 153865,
       "name": "Rapido",
       "url": "https://open.spotify.com/track/4OMeEpkakI4Vb77gulgTDw"
+    },
+    {
+      "album": {
+        "name": "Qui\u00e9n es Dei V?",
+        "url": "https://open.spotify.com/album/2i6InsyHZPR6NBFniDivF5"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Rapido (with Cris Mj)",
+      "url": "https://open.spotify.com/track/1emJPywtseFLmLCcPY92dW"
     },
     {
       "album": {
@@ -17792,6 +17930,28 @@
       "duration_ms": 173729,
       "name": "RoCKSTAR 2.0",
       "url": "https://open.spotify.com/track/4xUtTQuVT6UBF76SPsgOsr"
+    },
+    {
+      "album": {
+        "name": "Torii Yama",
+        "url": "https://open.spotify.com/album/081q4OltFPrPe8IYfPQELu"
+      },
+      "artists": [
+        {
+          "name": "DELLAFUENTE",
+          "url": "https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV"
+        },
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191414,
+      "name": "Romero Santo",
+      "url": "https://open.spotify.com/track/43nitq9EhZDk73rzMKjM8W"
     },
     {
       "album": {
@@ -20629,6 +20789,28 @@
     },
     {
       "album": {
+        "name": "Qui\u00e9n es Dei V?",
+        "url": "https://open.spotify.com/album/2i6InsyHZPR6NBFniDivF5"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225154,
+      "name": "Trending Remix (with Myke Towers)",
+      "url": "https://open.spotify.com/track/6LB49nISRDX9hK0d28SfY1"
+    },
+    {
+      "album": {
         "name": "Trending Remix (with Myke Towers)",
         "url": "https://open.spotify.com/album/0I0LtVW3UJjJtXkCJ7RPLO"
       },
@@ -20644,7 +20826,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 225154,
       "name": "Trending Remix (with Myke Towers)",
       "url": "https://open.spotify.com/track/7y8wfdPTJT94sIs6LnGDJC"
@@ -21158,7 +21340,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 243898,
       "name": "Una Foto Remix (feat. Emilia)",
       "url": "https://open.spotify.com/track/1kqH58eGh2ZTOHwqBIB2tM"
@@ -21404,7 +21586,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 215600,
       "name": "VAGABUNDO",
       "url": "https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG"

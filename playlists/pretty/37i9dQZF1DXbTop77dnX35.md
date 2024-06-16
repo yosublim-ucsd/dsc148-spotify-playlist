@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from KAESTLYE, Llona, SOLIS4EVR, taves, ShineTTW & more
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,549 likes - 59 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,378 likes - 59 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 35 | [BROTHER STONE \(FEAT\. KODAK BLACK\)](https://open.spotify.com/track/0l3raueiJ78IsmZGwo6CRm) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [BROTHER STONE \(FEAT\. KODAK BLACK\)](https://open.spotify.com/album/0LWTY98ijfILoFHupcQJKE) | 3:22 |
 | 36 | [GANGSTAS RELATE \(feat\. Lil Durk\)](https://open.spotify.com/track/2JCWe0T7tj4FGl95dD1slq) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [SPEAK NOW](https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9) | 2:39 |
 | 37 | [Naija Anthem \- Afro Version](https://open.spotify.com/track/7BMECN8ISbVJaGG0dJ3uy0) | [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m) | [Naija Anthem \(Afro Version\)](https://open.spotify.com/album/1xQQxue3uG1jmx8yvEzdoX) | 2:31 |
-| 38 | [Alright \(feat\. MohBad & HADURAH\)](https://open.spotify.com/track/7CxmcGj4sXX9ZhjGUgOb3f) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa), [HADURAH](https://open.spotify.com/artist/4w8lSsts1Kw64Rzp1ItXco) | [Alright \(feat\. MohBad & HADURAH\)](https://open.spotify.com/album/0MLdJT6OYklHVHbX6hLhDi) | 2:54 |
+| 38 | [Alright](https://open.spotify.com/track/7CxmcGj4sXX9ZhjGUgOb3f) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa), [HADURAH](https://open.spotify.com/artist/4w8lSsts1Kw64Rzp1ItXco) | [Alright](https://open.spotify.com/album/0MLdJT6OYklHVHbX6hLhDi) | 2:54 |
 | 39 | [Hankipanki \- Remix](https://open.spotify.com/track/1AvXjAlNaFNlDpSMO4qPum) | [Josh Blakk](https://open.spotify.com/artist/0NbfqAkLJq6uLLCKKY3u2l), [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [O.N.E \(Deluxe\)](https://open.spotify.com/album/7MxR3T4j6QRmjsPftzciOI) | 3:39 |
 | 40 | [Down For Me](https://open.spotify.com/track/0L6cIRuCVhrc1FzGGgSTeT) | [A.L.I.A.S](https://open.spotify.com/artist/3KfBBcEhPPx3s4l1sfttCz), [Selorm Jerry](https://open.spotify.com/artist/3gEz7HaGnUimINViUZpkr0) | [Down For Me](https://open.spotify.com/album/6AIEDtMEiCnb3f7xuP8yM9) | 3:51 |
 | 41 | [Tomorrow](https://open.spotify.com/track/2sX1u8wtf1nYE5UCKZEMuL) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj), [Derrick Sound](https://open.spotify.com/artist/6K2wSa8g588RRkVb0ZPkqo) | [Tomorrow](https://open.spotify.com/album/10Y6khLe4rbREkogRICeH0) | 3:13 |

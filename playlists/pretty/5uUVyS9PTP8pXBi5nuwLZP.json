@@ -1,6 +1,6 @@
 {
   "description": "Some favorites across multiple genres. Songs distributed by DistroKid, playlist curated by the public. To vote, head to: distrokid.com/spotlight",
-  "num_followers": 460258,
+  "num_followers": 460401,
   "original_name": "DistroKid Spotlight",
   "owner": {
     "name": "DistroKid",
@@ -614,6 +614,10 @@
         {
           "name": "SoundHugs",
           "url": "https://open.spotify.com/artist/4d3uxW7Wzge3xtMNzUzFD3"
+        },
+        {
+          "name": "Klaus L\u00f6hrer",
+          "url": "https://open.spotify.com/artist/1PaXr6x5XPR5wGljfzYUwO"
         }
       ],
       "duration_ms": 571000,

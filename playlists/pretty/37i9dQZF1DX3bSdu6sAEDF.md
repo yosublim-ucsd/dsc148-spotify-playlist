@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 
 > Let this smooth mix carry you home in style.
 
-[Spotify](https://open.spotify.com/user/spotify) - 515,483 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 515,504 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 | 33 | [Magic](https://open.spotify.com/track/1ozTHWtYAhhLeJ2CejjNyF) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Magic](https://open.spotify.com/album/4ArIrhbEuQiYmNsePoj1OJ) | 3:13 |
 | 34 | [know that you're not alone](https://open.spotify.com/track/2FdrRql2ltOBghZNvwcNrn) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [know that you're not alone](https://open.spotify.com/album/6YHrzZ7O74d7QZg2EkIURl) | 2:56 |
 | 35 | [Into Your Room \(with MUNA\)](https://open.spotify.com/track/3RaG1pAMRHFiCAqcE9KKNo) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Into Your Room \(with MUNA\)](https://open.spotify.com/album/5xoc8PmIs7xsuxaA7t4Oun) | 3:31 |
-| 36 | [23](https://open.spotify.com/track/5ctdVr5OyY7dZZhcsFeK9W) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [23](https://open.spotify.com/album/2MqqJKk8mBYUBtYLZr9B0g) | 3:11 |
+| 36 | [23](https://open.spotify.com/track/5ctdVr5OyY7dZZhcsFeK9W) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [23](https://open.spotify.com/album/2MqqJKk8mBYUBtYLZr9B0g) | 3:09 |
 | 37 | [MIRACLE](https://open.spotify.com/track/5nzB0LJDNELDNb06PQMrWF) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [SUNDAY AT FOXWOODS](https://open.spotify.com/album/6YYgBgZ9yBTZ0l0Wpk9NSQ) | 3:00 |
 | 38 | [Holding on to Us](https://open.spotify.com/track/7pgjXQqGqzUi0Wp3ySvhTc) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN) | [Holding on to Us](https://open.spotify.com/album/5SwqkXIOm7AbNgMxnB1FSh) | 3:24 |
 | 39 | [Jealousy](https://open.spotify.com/track/4pwt8iULKdutuGAPp4gxr5) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C) | [In His Mania](https://open.spotify.com/album/2woJZoFrOoeKSHIftNknKp) | 3:10 |

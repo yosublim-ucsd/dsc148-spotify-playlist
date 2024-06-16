@@ -2070,7 +2070,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 131030,
       "name": "comfort, texas",
       "url": "https://open.spotify.com/track/5G4dllapO3PVyuIy2XYZQG"
@@ -2912,7 +2912,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 137441,
       "name": "Ease",
       "url": "https://open.spotify.com/track/1Bdi806EPJLWxzIlu0vPu2"
@@ -3500,7 +3500,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 116630,
       "name": "Funny Thing",
       "url": "https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332"
@@ -4368,7 +4368,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 238614,
       "name": "HERO",
       "url": "https://open.spotify.com/track/2gjEdzgJMgVaZBdRuIRVW5"
@@ -5052,7 +5052,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 188727,
       "name": "Is It Magic?",
       "url": "https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht"
@@ -7048,7 +7048,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-26",
+      "date_removed": null,
       "duration_ms": 199232,
       "name": "Ode to a Conversation Stuck in Your Throat",
       "url": "https://open.spotify.com/track/51Lf3l6wx008NdBxCQnD6B"
@@ -9507,6 +9507,24 @@
     },
     {
       "album": {
+        "name": "Technicolor Dream",
+        "url": "https://open.spotify.com/album/165OxgFnUaeMTJnYndej77"
+      },
+      "artists": [
+        {
+          "name": "My Friend Catie",
+          "url": "https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250085,
+      "name": "Technicolor Dream",
+      "url": "https://open.spotify.com/track/4Mn0mNcjY2GpycbCChNLej"
+    },
+    {
+      "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/4n42G2OKF6kxGugj2MMn5c"
       },
@@ -10798,7 +10816,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 207333,
       "name": "Young, Wild & Free (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/5HQVUIKwCEXpe7JIHyY734"

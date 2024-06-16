@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40KrGE.md) - [plain]
 
 > This is Cassiane\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,892 likes - 51 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,898 likes - 51 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40KrGE.md) - [plain]
 | 50 | [Muita Unção](https://open.spotify.com/track/6ugWrHr1hONNz5NAahRjxk) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Recompensa](https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP) | 5:05 |
 | 51 | [O Exilado](https://open.spotify.com/track/2IVrqzaBUCSkvjgMfH4viN) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.2](https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r) | 5:26 |
 
-Snapshot ID: `Zmo2gAAAAADXlpCRz8IIn5ZIjJ+Dz3BP`
+Snapshot ID: `ZmuIAAAAAAAU8oycU2qnFkUkEOFCLyrm`

@@ -3361,6 +3361,24 @@
     },
     {
       "album": {
+        "name": "Copenhagen 1958",
+        "url": "https://open.spotify.com/album/49eb6TGttK5jEVK8H1bb29"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123875,
+      "name": "What Else Can You Do With a Drum",
+      "url": "https://open.spotify.com/track/5gYmkSgdzNS3ymOwR2t6pO"
+    },
+    {
+      "album": {
         "name": "A Drum Is a Woman",
         "url": "https://open.spotify.com/album/1L06BMH0kRrUQX93Vv3xck"
       },
@@ -3372,7 +3390,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 112386,
       "name": "What Else Can You Do With a Drum, Pt. 1 - Calypso",
       "url": "https://open.spotify.com/track/05NaZClsqp0omXp4gYF8S0"

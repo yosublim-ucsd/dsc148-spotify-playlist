@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Padre Marcelo Rossi, Simone Mendes
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,061 likes - 70 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,149 likes - 70 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

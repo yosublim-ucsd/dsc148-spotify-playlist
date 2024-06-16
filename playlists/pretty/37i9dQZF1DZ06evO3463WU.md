@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 
 > This Is Pancho Barraza\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,532 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,572 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 | 8 | [Te Esperare](https://open.spotify.com/track/54tmAoMDUoz4a1WSZJEkhU) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mi Historia](https://open.spotify.com/album/6Xes51EPRhxPClnSVFA9qq) | 3:32 |
 | 9 | [Nuestro Amor](https://open.spotify.com/track/4gfCFNZiohK3xpwCQUUifT) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Hombre Enamorado](https://open.spotify.com/album/5D77PYz1WHp9nna1DkA48I) | 3:31 |
 | 10 | [Mi Amor Y Mi Agonia](https://open.spotify.com/track/6GQkrXZHNg4EzgP0Q6exy3) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [20 Exitos](https://open.spotify.com/album/0z3EHq0Bni4Fv60XoTtk21) | 2:51 |
-| 11 | [Ya Se Fue](https://open.spotify.com/track/3hIFiQfRn4tOaIS6ePCNXr) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Ya Se Fue](https://open.spotify.com/album/5aX6a0wLRfsIPr8kvZ5S1k) | 3:21 |
-| 12 | [No Llega el Olvido \(En Vivo\)](https://open.spotify.com/track/6qn4mgku9XyOU5IoTcrNgW) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Viva México \(En Vivo\)](https://open.spotify.com/album/3D3QKcpxh5MPOYQVZJ4qdE) | 4:32 |
+| 11 | [No Llega el Olvido \(En Vivo\)](https://open.spotify.com/track/6qn4mgku9XyOU5IoTcrNgW) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Viva México \(En Vivo\)](https://open.spotify.com/album/3D3QKcpxh5MPOYQVZJ4qdE) | 4:32 |
+| 12 | [Ya Se Fue](https://open.spotify.com/track/3hIFiQfRn4tOaIS6ePCNXr) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Ya Se Fue](https://open.spotify.com/album/5aX6a0wLRfsIPr8kvZ5S1k) | 3:21 |
 | 13 | [Yo Estaba Solo](https://open.spotify.com/track/4XcPwUTY31I4atXFTVE6XB) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mas Fuerte Que Nunca](https://open.spotify.com/album/7EQVo82zWf1HDubvJmdbEi) | 3:11 |
 | 14 | [Donde Andará](https://open.spotify.com/track/1AvJ3JBfma4kdkpY91rc4l) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Del Campo a la Ciudad](https://open.spotify.com/album/1YVcOrdEEN3xZSSRMI5288) | 3:47 |
 | 15 | [Adios Mi Vida](https://open.spotify.com/track/6XwAxF4iekTzTgsyZA6mpa) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Bendita Mujer](https://open.spotify.com/album/5jzKBAq7ZRUCTCMGX6h5WV) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 | 49 | [Te Deseo Lo Mejor \- Versión Mariachi](https://open.spotify.com/track/4JmJUdY5z9NhJYDdRx6cuC) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Te Deseo Lo Mejor \(Versión Mariachi\)](https://open.spotify.com/album/4n1aw8mKj9hZTqC8TcXoDr) | 2:38 |
 | 50 | [No Hay Vuelta Atrás](https://open.spotify.com/track/7dvYzShf3owmoVTKoyx0cp) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [No Hay Vuelta Atrás](https://open.spotify.com/album/1wxG2pLrXsQmMcyPa1LPQ8) | 3:14 |
 
-Snapshot ID: `Zmo2gAAAAABASpmGI2fhjbkJ+DU445l3`
+Snapshot ID: `ZmuIAAAAAADYxRvSwIAFZQ0gMzhGfi2x`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 
 > En samling av de bästa svenska låtarna just nu\. Cover: SVEA
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,626 likes - 138 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,625 likes - 138 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

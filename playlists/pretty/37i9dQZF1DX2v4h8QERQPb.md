@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Rimas argentinas\. Foto: Homer El Mero Mero.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,951 likes - 104 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,985 likes - 104 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

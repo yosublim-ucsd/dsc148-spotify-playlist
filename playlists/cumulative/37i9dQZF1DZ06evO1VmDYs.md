@@ -4,7 +4,7 @@
 
 > This is Weezer\. The essential tracks, all in one playlist.
 
-57 songs - 3 hr 9 min
+58 songs - 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Aloo Gobi](https://open.spotify.com/track/6rSJz9u8Y9xixsh5fKu9hV) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [OK Human](https://open.spotify.com/album/0dL9rGQxUeIqpiUndXaQLl) | 3:03 | 2024-05-11 |  |
 | [Back To The Shack](https://open.spotify.com/track/42YgaJLCehufTbH2orwBHM) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Everything Will Be Alright In The End](https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM) | 3:05 | 2024-05-11 |  |
 | [Beverly Hills](https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Make Believe](https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz) | 3:16 | 2024-05-11 |  |
-| [Buddy Holly](https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 2:39 | 2024-05-12 | 2024-06-14 |
+| [Buddy Holly](https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 2:39 | 2024-05-12 |  |
 | [Burndt Jamb](https://open.spotify.com/track/1ytYTPuKbW0NIXb2kgmSVq) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 2:38 | 2024-05-11 |  |
 | [California Kids](https://open.spotify.com/track/0UbS4oWIo2nUXeTxsvFaN1) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(White Album\)](https://open.spotify.com/album/6StNTJJ7Yq3Hf121kLvPBz) | 3:25 | 2024-05-11 | 2024-06-15 |
 | [Crab](https://open.spotify.com/track/0RzUwciNNYvMvdixIUtgfB) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 2:34 | 2024-05-11 |  |
@@ -26,7 +26,7 @@
 | [Everybody Wants to Rule the World](https://open.spotify.com/track/3gEoKDn0uhb9qqLwC16tly) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Teal Album\)](https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN) | 4:04 | 2024-05-11 |  |
 | [Falling For You](https://open.spotify.com/track/1MnXNW03vkijBz0GHAsHgW) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton](https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl) | 3:47 | 2024-05-11 |  |
 | [Feels Like Summer](https://open.spotify.com/track/2jz1bw1p0WQj0PDnVDP0uY) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pacific Daydream](https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP) | 3:15 | 2024-05-11 |  |
-| [Getchoo](https://open.spotify.com/track/1rvbY7HXYsFXSlLqxphocK) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton](https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl) | 2:52 | 2024-05-13 |  |
+| [Getchoo](https://open.spotify.com/track/1rvbY7HXYsFXSlLqxphocK) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton](https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl) | 2:52 | 2024-05-13 | 2024-06-16 |
 | [Go Away](https://open.spotify.com/track/1O9D7P7Z1wMJXW19zTXrXi) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Everything Will Be Alright In The End](https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM) | 3:13 | 2024-06-03 | 2024-06-04 |
 | [Grapes Of Wrath](https://open.spotify.com/track/7s42bmqI0kQpoO80H3Vnqu) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [OK Human](https://open.spotify.com/album/0dL9rGQxUeIqpiUndXaQLl) | 2:50 | 2024-05-11 |  |
 | [Happy Hour](https://open.spotify.com/track/6ILpnOUHollfHp4xWH7nqV) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pacific Daydream](https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP) | 2:57 | 2024-05-11 |  |
@@ -50,8 +50,9 @@
 | [Pork And Beans](https://open.spotify.com/track/7wclPheMJAUKn2njmO2s3A) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/6v8wNjiQDhDijoapXXZ9mZ) | 3:09 | 2024-05-11 |  |
 | [Rainbow Connection](https://open.spotify.com/track/2i17YXd93A17BSsut23gEa) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Muppets: The Green Album](https://open.spotify.com/album/77klgRm6FxdgXYArYvXGYj) | 4:00 | 2024-05-15 | 2024-06-14 |
 | [Records](https://open.spotify.com/track/23ZmKlucJRQrdR0QItAafL) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [SZNZ: Summer](https://open.spotify.com/album/1DvBf2E2OgU8HAjgInLT6H) | 3:28 | 2024-05-11 |  |
-| [Say It Ain't So](https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 4:18 | 2024-05-11 |  |
+| [Say It Ain't So](https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 4:18 | 2024-05-11 | 2024-06-16 |
 | [Smile](https://open.spotify.com/track/3dYi32XQ9mVplNKDcWp59K) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 2:38 | 2024-06-03 | 2024-06-10 |
+| [Surf Wax America](https://open.spotify.com/track/1w8gsT5RBrFfTrLYhDRJIk) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 3:06 | 2024-06-16 |  |
 | [Sweet Dreams \(Are Made of This\)](https://open.spotify.com/track/0fjMXEy7uQIMtGlhHfzqXh) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Teal Album\)](https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN) | 3:34 | 2024-05-11 |  |
 | [Take on Me](https://open.spotify.com/track/1ZB2qWsheGabSEYvBYxjKn) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Teal Album\)](https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN) | 3:43 | 2024-05-11 |  |
 | [Thank God for Girls](https://open.spotify.com/track/5uywMR3hTeVPoWaFDSliJb) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(White Album\)](https://open.spotify.com/album/6StNTJJ7Yq3Hf121kLvPBz) | 3:30 | 2024-05-11 |  |
@@ -61,8 +62,8 @@
 | [Tired Of Sex](https://open.spotify.com/track/42hDrA9GTkuvpxjLtAshct) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton](https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl) | 3:01 | 2024-05-11 |  |
 | [Tragic Girl](https://open.spotify.com/track/2J4Q2WIx3572uZuTTNkCby) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton \- Deluxe Edition](https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz) | 5:26 | 2024-05-11 |  |
 | [Troublemaker](https://open.spotify.com/track/4r53Y7uKvyXCU7a9dsnb58) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/6v8wNjiQDhDijoapXXZ9mZ) | 2:44 | 2024-05-11 |  |
-| [Undone \- The Sweater Song](https://open.spotify.com/track/5WhtlIoxoZrMmuaWWEQhwV) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 5:05 | 2024-05-11 |  |
-| [Why Bother?](https://open.spotify.com/track/43Qr1YBCY3vSVCvZuR0PCb) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton](https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl) | 2:08 | 2024-05-11 | 2024-06-15 |
+| [Undone \- The Sweater Song](https://open.spotify.com/track/5WhtlIoxoZrMmuaWWEQhwV) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 5:05 | 2024-05-11 | 2024-06-16 |
+| [Why Bother?](https://open.spotify.com/track/43Qr1YBCY3vSVCvZuR0PCb) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton](https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl) | 2:08 | 2024-05-11 |  |
 | [You Gave Your Love To Me Softly](https://open.spotify.com/track/6nfLKum9Lr2AuLkeDMoJ8e) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton \- Deluxe Edition](https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz) | 1:58 | 2024-05-11 |  |
 | [You Might Think \- From "Cars 2"/Soundtrack Version](https://open.spotify.com/track/5tKlIgkTo8QZBVLGkyhEso) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Cars 2 \(Original Soundtrack\)](https://open.spotify.com/album/3GJM6mv4riGX4gPM6goLk3) | 3:07 | 2024-05-11 |  |
 

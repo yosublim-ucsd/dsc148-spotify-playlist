@@ -672,7 +672,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 143309,
       "name": "A MILLI",
       "url": "https://open.spotify.com/track/1Tj6QVXAebX0JmisaRmDrR"
@@ -8298,7 +8298,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 133608,
       "name": "favorite",
       "url": "https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be"
@@ -9396,7 +9396,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 129557,
       "name": "Ghost in My Mind",
       "url": "https://open.spotify.com/track/2HBTuTAallHsOGrDmP4jmt"
@@ -10970,7 +10970,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 212640,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s"
@@ -18248,6 +18248,24 @@
       "duration_ms": 161699,
       "name": "OTNOSHENIQ",
       "url": "https://open.spotify.com/track/2kikbn1fYBQ6L3Wzkb9c9K"
+    },
+    {
+      "album": {
+        "name": "Ouhla",
+        "url": "https://open.spotify.com/album/4ZgPQx7GgGH60HdHCMTMz2"
+      },
+      "artists": [
+        {
+          "name": "Youbz",
+          "url": "https://open.spotify.com/artist/43U6XyCXVLldLfwqL3cLEj"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194798,
+      "name": "Ouhla",
+      "url": "https://open.spotify.com/track/6Q3MDHphxaqSSzjj7EWgC0"
     },
     {
       "album": {
@@ -30890,6 +30908,24 @@
       "duration_ms": 182333,
       "name": "\u041d\u0435 \u043c\u0435 \u0434\u0430\u0432\u0430\u0439, \u0442\u0430\u0442\u043a\u043e!",
       "url": "https://open.spotify.com/track/4hq3RTXfB9Y6sVhZ7insII"
+    },
+    {
+      "album": {
+        "name": "\u041d\u0435 \u043c\u0438 \u043f\u0443\u043a\u0430",
+        "url": "https://open.spotify.com/album/4kwubJwiplh4umMOGXcEUv"
+      },
+      "artists": [
+        {
+          "name": "Papi Hans",
+          "url": "https://open.spotify.com/artist/27szsMQxZzAUJrm5BmhaNY"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187968,
+      "name": "\u041d\u0435 \u043c\u0438 \u043f\u0443\u043a\u0430",
+      "url": "https://open.spotify.com/track/5OYL8uer8K3yGycHhxA5zO"
     },
     {
       "album": {

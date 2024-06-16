@@ -1,12 +1,12 @@
 {
-  "description": "This Is LUDMILLA. Los temas esenciales, todos en una lista.",
-  "num_followers": 292454,
+  "description": "This is LUDMILLA. The essential tracks, all in one playlist.",
+  "num_followers": 292512,
   "original_name": "This Is LUDMILLA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAABy6fmuuShHVCcjpaVKdBEB",
+  "snapshot_id": "ZmuIAAAAAABwxt7aLFZ6/6Agi/tUxgj6",
   "tracks": [
     {
       "added_at": null,
@@ -703,6 +703,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Numanice #2 (Ao Vivo) - Deluxe",
+        "url": "https://open.spotify.com/album/6iCqu8WWngOqpEGxGthyvv"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Belo",
+          "url": "https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki"
+        }
+      ],
+      "duration_ms": 187796,
+      "name": "N\u00e3o v\u00e1 me enganar - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Q3JFwQ0EoAO7gosrWI3na"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Numanice #2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 160027,
+      "name": "Eu estive Aqui - Ao Vivo",
+      "url": "https://open.spotify.com/track/07lEHXZYuhl0KpmXOYvwpc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FUTURO FLUXO",
         "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
       },
@@ -727,38 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Numanice #2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 160027,
-      "name": "Eu estive Aqui - Ao Vivo",
-      "url": "https://open.spotify.com/track/07lEHXZYuhl0KpmXOYvwpc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VIL\u00c3",
-        "url": "https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Sintomas de Prazer",
-      "url": "https://open.spotify.com/track/2D1rmVTeaZrr5Ipow29t4b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Numanice (Ao vivo)",
         "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
       },
@@ -775,22 +779,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "DOCE 22",
-        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
+        "name": "VIL\u00c3",
+        "url": "https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh"
       },
       "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
         {
           "name": "LUDMILLA",
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 181173,
-      "name": "CAF\u00c9 DA MANH\u00c3 ;P",
-      "url": "https://open.spotify.com/track/0sPtV4stCHkFJB6GpoaZ1f"
+      "duration_ms": 148800,
+      "name": "Sintomas de Prazer",
+      "url": "https://open.spotify.com/track/2D1rmVTeaZrr5Ipow29t4b"
     },
     {
       "added_at": null,
@@ -815,22 +815,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pi\u00f1a Colada",
-        "url": "https://open.spotify.com/album/2E8hbRURjwvoqiWbb6Pf7S"
+        "name": "DOCE 22",
+        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
       },
       "artists": [
         {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         },
         {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 189375,
-      "name": "Pi\u00f1a Colada",
-      "url": "https://open.spotify.com/track/07n2nBfbBGVpVLcbElqTOy"
+      "duration_ms": 181173,
+      "name": "CAF\u00c9 DA MANH\u00c3 ;P",
+      "url": "https://open.spotify.com/track/0sPtV4stCHkFJB6GpoaZ1f"
     },
     {
       "added_at": null,
@@ -855,8 +855,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Numanice #2 (Ao Vivo) - Deluxe",
-        "url": "https://open.spotify.com/album/6iCqu8WWngOqpEGxGthyvv"
+        "name": "Pi\u00f1a Colada",
+        "url": "https://open.spotify.com/album/2E8hbRURjwvoqiWbb6Pf7S"
       },
       "artists": [
         {
@@ -864,13 +864,13 @@
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         },
         {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
         }
       ],
-      "duration_ms": 301682,
-      "name": "Faz uma Loucura por mim / Voc\u00ea me vira a cabe\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/2hy9PyCleGC4HRe5MsPwfF"
+      "duration_ms": 189375,
+      "name": "Pi\u00f1a Colada",
+      "url": "https://open.spotify.com/track/07n2nBfbBGVpVLcbElqTOy"
     },
     {
       "added_at": null,
@@ -891,6 +891,26 @@
       "duration_ms": 140703,
       "name": "Me Arrepender - Ao Vivo",
       "url": "https://open.spotify.com/track/46WAJyMF8mNDcn9CcsTcmT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Numanice #2 (Ao Vivo) - Deluxe",
+        "url": "https://open.spotify.com/album/6iCqu8WWngOqpEGxGthyvv"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "duration_ms": 301682,
+      "name": "Faz uma Loucura por mim / Voc\u00ea me vira a cabe\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/2hy9PyCleGC4HRe5MsPwfF"
     },
     {
       "added_at": null,

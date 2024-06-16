@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sJGkrvCPgm.md) - [plain]
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,521 likes - 150 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,519 likes - 150 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

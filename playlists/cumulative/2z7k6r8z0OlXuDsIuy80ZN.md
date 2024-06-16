@@ -4,7 +4,7 @@
 
 > ¡Los 40 principales éxitos de la radio musical! Se actualiza cada semana con la nueva lista de LOS40 ¡Busca más playlists en nuestro perfil y en la <a href="http://onelink.to/los40app">app LOS40</a>!
 
-242 songs - 12 hr 41 min
+243 songs - 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-11-26 | 2023-03-26 |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-16 | 2023-03-05 |
 | [ASI ES LA VIDA](https://open.spotify.com/track/0Me3GyNuLOa1YTIxhJPyCn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [ASI ES LA VIDA](https://open.spotify.com/album/6qW93Zylfk7oxZ8ZzwjkL5) | 2:52 | 2023-10-28 |  |
-| [b.o.b.o.](https://open.spotify.com/track/0aHqflgjBiuNWvFJw2MhoQ) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [b.o.b.o.](https://open.spotify.com/album/2FdIPbrSPyPEL9jKup9KQC) | 2:22 | 2023-12-02 |  |
+| [b.o.b.o.](https://open.spotify.com/track/0aHqflgjBiuNWvFJw2MhoQ) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [b.o.b.o.](https://open.spotify.com/album/2FdIPbrSPyPEL9jKup9KQC) | 2:22 | 2023-12-02 | 2024-06-16 |
 | [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 | 2023-05-20 | 2024-01-21 |
 | [BABY HELLO](https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [BABY HELLO](https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0) | 3:42 | 2023-08-12 |  |
 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 | 2022-01-15 | 2022-04-10 |
@@ -89,6 +89,7 @@
 | [Entre Un Millón](https://open.spotify.com/track/2FtObgxe46yRTU44PopBAc) | [Miki Núñez](https://open.spotify.com/artist/2hahtdJusGYC77DKod4qfB) | [Entre Un Millón](https://open.spotify.com/album/1XcZTqDAGNwle5lfpIaiqg) | 3:19 | 2023-06-17 | 2023-11-05 |
 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 | 2022-08-20 | 2023-03-26 |
 | [Eres](https://open.spotify.com/track/668a0lyEpOKAcjDkvSofhL) | [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA) | [Eres](https://open.spotify.com/album/5sxHFZ5lwvkNkNvNvPkdD4) | 3:48 | 2023-03-04 | 2023-05-14 |
+| [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-06-15 |  |
 | [Estamos a un beso](https://open.spotify.com/track/4bRg5nJCS7OcyJUMPgRAqH) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Estamos a un beso](https://open.spotify.com/album/7Gf9kJXYIaRwbgnbG0vHxM) | 3:12 | 2023-07-08 | 2023-11-05 |
 | [Estrellas y Fantasmas](https://open.spotify.com/track/1kSOnjrlR3JAuP2buX6d1I) | [David Otero](https://open.spotify.com/artist/4cA5JN7tiNZ8afYeuSQj5h) | [Estrellas y Fantasmas](https://open.spotify.com/album/5tYJy6FQJRHCwAn8Ul5l65) | 3:32 | 2024-03-16 |  |
 | [Eva Longoria](https://open.spotify.com/track/0nfnCp3NNcUjksmxd5xqEG) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Afro](https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA) | 3:19 | 2023-07-22 | 2024-04-21 |

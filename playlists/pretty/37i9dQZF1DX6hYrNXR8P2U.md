@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > Más música, menos etiquetas\.  <br/>📷 Gauchito Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,859 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,898 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 24 | [Arruinarse](https://open.spotify.com/track/39sttgETErQLwfc8SougBO) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [Canciones del Huracan + Wonderful Noches](https://open.spotify.com/album/4h5EtTpKEa9ba7f2Ea1buJ) | 4:08 |
 | 25 | [QUEREME](https://open.spotify.com/track/0bhWW1Bve1Ng6kEm8WjiQA) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [QUEREME](https://open.spotify.com/album/5Z6Tv47n8WpXgNf8ZZLNw7) | 3:14 |
 | 26 | [El Tesoro](https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Sintesis O'Konor](https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK) | 4:31 |
-| 27 | [CRISTAL](https://open.spotify.com/track/6Gfkt8xCb1bihvs6KOMO2g) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [CRISTAL](https://open.spotify.com/album/4LTaRXfhC5z6cUpQLDvNnd) | 3:22 |
+| 27 | [Cristal](https://open.spotify.com/track/6Gfkt8xCb1bihvs6KOMO2g) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Cristal](https://open.spotify.com/album/4LTaRXfhC5z6cUpQLDvNnd) | 3:22 |
 | 28 | [CANCIÓN AL DOLOR](https://open.spotify.com/track/79mqphOzYvHLcvIcBZeVb8) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [CANCIÓN AL DOLOR](https://open.spotify.com/album/7ifpnlIV75MM1UmKSR5Nx7) | 2:21 |
 | 29 | [Que Fluya](https://open.spotify.com/track/2edb2SIakC6HADUz6s34hS) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [LAS LETRAS YA NO IMPORTAN](https://open.spotify.com/album/2VqfdamIWfwbBVzOzHJWs3) | 4:22 |
 | 30 | [Viaje de Ida](https://open.spotify.com/track/6NxIfPSFv9ZFTaptcnGEUU) | [MACO](https://open.spotify.com/artist/0XerM4yoGja0adi5ohB8Lm) | [Viaje de Ida](https://open.spotify.com/album/5DdMn4yexdusfpW05ddQnR) | 3:11 |

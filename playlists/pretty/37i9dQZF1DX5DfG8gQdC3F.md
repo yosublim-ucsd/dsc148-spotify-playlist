@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > Get ready for Juneteenth with new music from Normani, Mustafa, Aqyila, Dylan Sinclair and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 527,107 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 527,101 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 71 | [Evergreen](https://open.spotify.com/track/36rHWqSwfNtNwO1d6pwyuw) | [JRDN](https://open.spotify.com/artist/2YVjMQPHJLrs0zA0ILNoEs) | [Evergreen](https://open.spotify.com/album/03FuDNZwI3AUcCDGJ2Mqaz) | 2:12 |
 | 72 | [Count On Me](https://open.spotify.com/track/1NFEXNMg8AZ0jGSux4CJdd) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Cape Town to Cairo](https://open.spotify.com/album/3xrdk0MImcnbt9NEc7pSnK) | 2:49 |
 | 73 | [Otis](https://open.spotify.com/track/5bPLGonzwDStcPGlMoe847) | [RMR](https://open.spotify.com/artist/0j1Pwmd6nuk0BXD1RqoHDw) | [Otis](https://open.spotify.com/album/2fl1NLG7HbESKd2e7En9lU) | 2:39 |
-| 74 | [Lose Myself](https://open.spotify.com/track/1uqgUlVmfomaH1IEeDOC5y) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [i tried.](https://open.spotify.com/album/3ZrMVmVgaAzizc3MzotdvN) | 3:05 |
+| 74 | [Lose Myself](https://open.spotify.com/track/1uqgUlVmfomaH1IEeDOC5y) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I TRIED.](https://open.spotify.com/album/3ZrMVmVgaAzizc3MzotdvN) | 3:05 |
 | 75 | [First Time](https://open.spotify.com/track/1KUAR4EL6XLMwQKjnKhVRn) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Cruzafied](https://open.spotify.com/album/1QZpj0VyOifnOFn49qEeKv) | 3:37 |
 | 76 | [Era](https://open.spotify.com/track/0lnwlqbqROrhg4IiQ34iH6) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Era](https://open.spotify.com/album/7u7kdBtG8MMxvqBAsGpfQo) | 2:13 |
 | 77 | [Yara](https://open.spotify.com/track/0ahreZE7HlAcG4UguRmjnV) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Frigid Armadillo](https://open.spotify.com/artist/6IWmSzycuN6VEXbSE2r83i), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Yara](https://open.spotify.com/album/4iipxXHRMIQbDZj2RBPRaF) | 3:32 |
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 81 | [Nulle](https://open.spotify.com/track/5iJXTnWiW4JUOZwJjVbWAw) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Nulle](https://open.spotify.com/album/5EqwOYVB4vIhB6pZSuCtBe) | 3:14 |
 | 82 | [Poison Cookie ft\. AUDREY NUNA](https://open.spotify.com/track/49fSj7bWWBfsi8thBoHN3S) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Poison Cookie ft\. AUDREY NUNA](https://open.spotify.com/album/2Lt2LwVh3NWx3P96GxkGjq) | 2:37 |
 | 83 | [Makaveli](https://open.spotify.com/track/2gJqEnpvN9tBzZKwO1LETo) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj) | [Makaveli](https://open.spotify.com/album/00gBmKMQctzkcT0AEDLaBH) | 2:44 |
-| 84 | [Slow Rider](https://open.spotify.com/track/6PoyUY1cahG3vn1JMfiM2N) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV) | [Infinity High](https://open.spotify.com/album/0UlqS6mKG6GoEJTDma4hMQ) | 2:40 |
+| 84 | [Slow Rider](https://open.spotify.com/track/6PoyUY1cahG3vn1JMfiM2N) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV) | [Infinity High \- EP](https://open.spotify.com/album/0UlqS6mKG6GoEJTDma4hMQ) | 2:40 |
 | 85 | [Change](https://open.spotify.com/track/2LP4LllG0k6nSvAtbe60Xr) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Change](https://open.spotify.com/album/4fqQu9B3x8EwknltlbXv83) | 3:32 |
 | 86 | [Monaco](https://open.spotify.com/track/6DVsivH0ZQS6zzvnHACEzB) | [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH), [Koko Love](https://open.spotify.com/artist/5asP5PYlJdyHHpFdVAw9kn), [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [Monaco](https://open.spotify.com/album/3NhCbVbQL1xDlTEDMTjo38) | 2:13 |
 | 87 | [No Lie](https://open.spotify.com/track/7k9EZESFOvZavFZ3xFPsh2) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [VANTABLACK](https://open.spotify.com/album/2OObNk2YheZrtE1YYZLhD7) | 4:29 |

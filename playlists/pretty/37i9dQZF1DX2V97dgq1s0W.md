@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 
 > The best voices in R&B\. Featuring the film "Riffs & Runs: WE LIVE"  Cover: Shae Universe
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,109 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,238 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 | 36 | [Greatest Gift \(feat\. Lila Iké\)](https://open.spotify.com/track/02DTkcgh0BpYrEYPO05Zex) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:12 |
 | 37 | [Is It A Crime? \- Unplugged](https://open.spotify.com/track/3DIJ3pP9lUSsYvZTGcdKK0) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [No Guidnce \- Unplugged](https://open.spotify.com/album/2GpbE6KxDwyCZgWnX2q7ue) | 3:02 |
 | 38 | [Hold Up](https://open.spotify.com/track/5jIPK0iZ3wzCHWsEze021Z) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Hold Up](https://open.spotify.com/album/6Wjf1qyWX7TZfsmcjo5Qab) | 2:28 |
-| 39 | [Lose Myself](https://open.spotify.com/track/1uqgUlVmfomaH1IEeDOC5y) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [i tried.](https://open.spotify.com/album/3ZrMVmVgaAzizc3MzotdvN) | 3:05 |
+| 39 | [Lose Myself](https://open.spotify.com/track/1uqgUlVmfomaH1IEeDOC5y) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I TRIED.](https://open.spotify.com/album/3ZrMVmVgaAzizc3MzotdvN) | 3:05 |
 | 40 | [Wherever I Go](https://open.spotify.com/track/6P76Ve1pRObGGpuUTbYwsA) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 3:01 |
 | 41 | [Heaven](https://open.spotify.com/track/3Wqossbsoiwknv6unRnPlK) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [Heaven](https://open.spotify.com/album/1WUmhAZpjr4WS7QwHfiyco) | 2:32 |
 | 42 | [He Loves Us Both \(feat\. H.E.R.\)](https://open.spotify.com/track/5SvKcEK87sdbOyrthx9ZAU) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [He Loves Us Both \(feat\. H.E.R.\)](https://open.spotify.com/album/0x1tZBPycC2BPbosebRSr5) | 3:41 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/098hVwvAVYKJZd5kTwm9Ra.md) - [plain]
 
 > Summer Barbeque grilling essentials for your backyard party\. Featuring 80s Classic Rock, 70s Yacht Rock, and Country Music favorites from AC/DC, Kenny Loggins, Rick Springfield, Kansas, TOTO, Van Morrison + more!
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 90,480 likes - 211 songs - 13 hr 52 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 90,508 likes - 211 songs - 13 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,33 +1,13 @@
 {
-  "description": "This Is Eden Mu\u00f1oz. Los temas esenciales, todos en una lista.",
-  "num_followers": 232582,
+  "description": "This is Eden Mu\u00f1oz. The essential tracks, all in one playlist.",
+  "num_followers": 232803,
   "original_name": "This Is Eden Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAAD9S4UxoJD07I9dO1uWEop2",
+  "snapshot_id": "ZmuIAAAAAACMwvAsY/S3YavW8CFktNvh",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coraz\u00f3n en Coma",
-        "url": "https://open.spotify.com/album/2boFi3yXrsqfBY0vydMx2k"
-      },
-      "artists": [
-        {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 172100,
-      "name": "Coraz\u00f3n en Coma",
-      "url": "https://open.spotify.com/track/2csv4XBvwNJ2o9ZVnUxXzQ"
-    },
     {
       "added_at": null,
       "album": {
@@ -307,6 +287,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Como en los Viejos Tiempos",
+        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 212563,
+      "name": "Pudiste Pero No Quisiste",
+      "url": "https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te Perdonar\u00eda",
         "url": "https://open.spotify.com/album/6L8a3pdMbTjgHWluN2TLdz"
       },
@@ -327,18 +323,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como en los Viejos Tiempos",
-        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
+        "name": "Coraz\u00f3n en Coma",
+        "url": "https://open.spotify.com/album/2boFi3yXrsqfBY0vydMx2k"
       },
       "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        },
         {
           "name": "Eden Mu\u00f1oz",
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 212563,
-      "name": "Pudiste Pero No Quisiste",
-      "url": "https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC"
+      "duration_ms": 172100,
+      "name": "Coraz\u00f3n en Coma",
+      "url": "https://open.spotify.com/track/2csv4XBvwNJ2o9ZVnUxXzQ"
     },
     {
       "added_at": null,
@@ -359,6 +359,26 @@
       "duration_ms": 185738,
       "name": "Y Me Ver\u00e1n",
       "url": "https://open.spotify.com/track/5Y5n1K7yn5kHFvNf7xL8l5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como en los Viejos Tiempos",
+        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 156834,
+      "name": "El Mikima",
+      "url": "https://open.spotify.com/track/2CBfHu8O0jRDnJuUaQWVkg"
     },
     {
       "added_at": null,
@@ -395,26 +415,6 @@
       "duration_ms": 205681,
       "name": "Bandido",
       "url": "https://open.spotify.com/track/6v7oDF8Q6MdjwpxxebMYDC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Como en los Viejos Tiempos",
-        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        }
-      ],
-      "duration_ms": 156834,
-      "name": "El Mikima",
-      "url": "https://open.spotify.com/track/2CBfHu8O0jRDnJuUaQWVkg"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Historia Debe Continuar (TOUR EN VIVO) [En Vivo]",
-        "url": "https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 204967,
-      "name": "Simplemente Amigos",
-      "url": "https://open.spotify.com/track/56NULn2XHpZwU2YJQ6OAbm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Rend\u00ed",
         "url": "https://open.spotify.com/album/6hVo9wZ2AAyh9nDnzU86E6"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 220866,
       "name": "Me Rend\u00ed",
       "url": "https://open.spotify.com/track/4SdLUkVGNUm2gNF7YQdhY1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Historia Debe Continuar (TOUR EN VIVO) [En Vivo]",
+        "url": "https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 204967,
+      "name": "Simplemente Amigos",
+      "url": "https://open.spotify.com/track/56NULn2XHpZwU2YJQ6OAbm"
     },
     {
       "added_at": null,
@@ -887,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Historia Debe Continuar (TOUR EN VIVO) [En Vivo]",
-        "url": "https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 244125,
-      "name": "Soy De La Calle - En Vivo",
-      "url": "https://open.spotify.com/track/6ghL4oDMZxwNhZUed6L1Ug"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor Clandestino",
         "url": "https://open.spotify.com/album/7yjF8BA8QCEg6w5zcklYLA"
       },
@@ -923,6 +907,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Historia Debe Continuar (TOUR EN VIVO) [En Vivo]",
+        "url": "https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 244125,
+      "name": "Soy De La Calle - En Vivo",
+      "url": "https://open.spotify.com/track/6ghL4oDMZxwNhZUed6L1Ug"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ni Volviendo a Nacer",
         "url": "https://open.spotify.com/album/4iIj1mXav2SUNKXS0yR57W"
       },
@@ -935,22 +935,6 @@
       "duration_ms": 166992,
       "name": "Ni Volviendo a Nacer",
       "url": "https://open.spotify.com/track/1mQ20WIB5sGmvqaiHm5mw5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Voy A Encontrar",
-        "url": "https://open.spotify.com/album/69mw22eA0ItFjVDk3tAtdQ"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 224222,
-      "name": "Te Voy A Encontrar",
-      "url": "https://open.spotify.com/track/1yBAIwiXhSigAMwLKAbU4S"
     }
   ],
   "unique_name": "This Is Eden Mu\u00f1oz",

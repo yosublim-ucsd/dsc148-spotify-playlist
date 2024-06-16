@@ -1100,7 +1100,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 123293,
       "name": "Abyss - from Kaiju No. 8",
       "url": "https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5"
@@ -4016,7 +4016,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 275862,
       "name": "BBY BOO - REMIX",
       "url": "https://open.spotify.com/track/43PiEypaceH339CSNiggyj"
@@ -5032,7 +5032,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 343120,
       "name": "BLUE",
       "url": "https://open.spotify.com/track/2prqm9sPLj10B4Wg0wE5x9"
@@ -17418,7 +17418,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 109866,
       "name": "J\u00e1lale alv",
       "url": "https://open.spotify.com/track/57uiO4cG6bK5yq51BJTvyE"
@@ -19502,7 +19502,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 224210,
       "name": "LINDA",
       "url": "https://open.spotify.com/track/4oowI6IgJp9oqUnJewTp6Y"
@@ -24414,6 +24414,28 @@
       "duration_ms": 265263,
       "name": "NEON BLADE",
       "url": "https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt"
+    },
+    {
+      "album": {
+        "name": "THE GB",
+        "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179967,
+      "name": "Neta",
+      "url": "https://open.spotify.com/track/6Q2UhuLaPUlC9VANQOjPxo"
     },
     {
       "album": {

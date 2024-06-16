@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUjFC.md) - [plain]
 
 ### [This Is Danny Felix](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2WUjFC)
 
-> This Is Danny Felix\. Los temas esenciales, todos en una lista.
+> This is Danny Felix\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 777 likes - 51 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 777 likes - 51 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,21 +43,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUjFC.md) - [plain]
 | 33 | [Cajita De Oro \(Live\)](https://open.spotify.com/track/4sLDHPWudebdkvgfRZcugM) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 3:52 |
 | 34 | [BANDIDOS](https://open.spotify.com/track/3HFpZKFhuaKGAoG3syVTMi) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Brandon Reyes y Elvin](https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq) | [TUMBADO STYLE](https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7) | 3:50 |
 | 35 | [Trato De Muerte \- En Vivo](https://open.spotify.com/track/22QCnHj9YU33d0IfjhQadE) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Trato De Muerte \(En Vivo\)](https://open.spotify.com/album/3ExhBTPMqMnOqCDTwF1FKu) | 4:10 |
-| 36 | [LA VIDA](https://open.spotify.com/track/2B0hBszNk6Se9sHipx9dig) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [La Vida](https://open.spotify.com/album/5JHQikqMLjcbEu7gIPLmK7) | 3:43 |
-| 37 | [Ya Están Cantando Los Gallos \(Live\)](https://open.spotify.com/track/7M0ai5eJ5f301qH51XZcjp) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 6:02 |
-| 38 | [Mi Ranchito \(En Vivo\)](https://open.spotify.com/track/5ILd4zLafaVVp4VtbAIMIB) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Llegadores](https://open.spotify.com/artist/2lhN8TPwOos3I4qeGuc9B2), [Conjunto Amenaza](https://open.spotify.com/artist/3uGV2MQUIGC13cRbP6oCJs) | [Mi Ranchito \(En Vivo\)](https://open.spotify.com/album/1CCEw0IApi1xVQ43G6ufvf) | 4:41 |
+| 36 | [Mi Ranchito \(En Vivo\)](https://open.spotify.com/track/5ILd4zLafaVVp4VtbAIMIB) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Llegadores](https://open.spotify.com/artist/2lhN8TPwOos3I4qeGuc9B2), [Conjunto Amenaza](https://open.spotify.com/artist/3uGV2MQUIGC13cRbP6oCJs) | [Mi Ranchito \(En Vivo\)](https://open.spotify.com/album/1CCEw0IApi1xVQ43G6ufvf) | 4:41 |
+| 37 | [El Caballero \(Live\)](https://open.spotify.com/track/5NW8DCHsFtv1BeV03FTAgT) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 4:46 |
+| 38 | [LA VIDA](https://open.spotify.com/track/2B0hBszNk6Se9sHipx9dig) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [La Vida](https://open.spotify.com/album/5JHQikqMLjcbEu7gIPLmK7) | 3:43 |
 | 39 | [Impala Tumbado](https://open.spotify.com/track/3ufuq63rR9b6vVDoCWuIkd) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Impala Tumbado](https://open.spotify.com/album/23bBZvZ2qUoFRrZ7puYXfT) | 2:57 |
-| 40 | [fake](https://open.spotify.com/track/4g42FsFm9WVhl1fReFPxNg) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [amorlove](https://open.spotify.com/album/2fr723OoqF6nYM0ucTIuQ8) | 2:56 |
-| 41 | [El Caballero \(Live\)](https://open.spotify.com/track/5NW8DCHsFtv1BeV03FTAgT) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 4:46 |
-| 42 | [Mentiras](https://open.spotify.com/track/2A1O05xCTx3gzPVqTfV1cP) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Mariachi Tumbado](https://open.spotify.com/album/2sbXCLAfQ1cE5DBgyp3idU) | 2:51 |
-| 43 | [Nave 727 \- En Vivo](https://open.spotify.com/track/5Zk59MAZxwbf6oMulM8P0k) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [No Hay Pedo, Hay Peda \(En Vivo\)](https://open.spotify.com/album/5jaNQ9eqs1mTJwOsEunLY5) | 3:50 |
-| 44 | [Vuelve](https://open.spotify.com/track/40n0B9pwCkW8QeD7RflSjL) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Vuelve](https://open.spotify.com/album/4cZukU1kJ55MUGKTRkgge2) | 3:09 |
+| 40 | [Mentiras](https://open.spotify.com/track/2A1O05xCTx3gzPVqTfV1cP) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Mariachi Tumbado](https://open.spotify.com/album/2sbXCLAfQ1cE5DBgyp3idU) | 2:51 |
+| 41 | [Ya Están Cantando Los Gallos \(Live\)](https://open.spotify.com/track/7M0ai5eJ5f301qH51XZcjp) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 6:02 |
+| 42 | [fake](https://open.spotify.com/track/4g42FsFm9WVhl1fReFPxNg) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [amorlove](https://open.spotify.com/album/2fr723OoqF6nYM0ucTIuQ8) | 2:56 |
+| 43 | [Vuelve](https://open.spotify.com/track/40n0B9pwCkW8QeD7RflSjL) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Vuelve](https://open.spotify.com/album/4cZukU1kJ55MUGKTRkgge2) | 3:09 |
+| 44 | [Nave 727 \- En Vivo](https://open.spotify.com/track/5Zk59MAZxwbf6oMulM8P0k) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [No Hay Pedo, Hay Peda \(En Vivo\)](https://open.spotify.com/album/5jaNQ9eqs1mTJwOsEunLY5) | 3:50 |
 | 45 | [Soy Todo Tuyo \- En Vivo](https://open.spotify.com/track/7mQrIbmgWDpB9zmkTeot98) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Soy Todo Tuyo \(En Vivo\)](https://open.spotify.com/album/7KO6eGq5GgbuGef7jXS4OK) | 3:15 |
-| 46 | [TÍO LITO](https://open.spotify.com/track/2ciwbD1E3lk13o1zODnJjL) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Tío Lito](https://open.spotify.com/album/4jNExfI0rnr7LOtTbUYAzM) | 2:57 |
+| 46 | [Popurri de Cumbias](https://open.spotify.com/track/5ew0ma07k1CCzudmFsD9xJ) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los De Finix](https://open.spotify.com/artist/5PQoAsNyQgPfDgncYxm8jz) | [Sigo Firme de Pie](https://open.spotify.com/album/1vWG9z0gnPJ0YzVmciYKpT) | 4:50 |
 | 47 | [TUMBADÓN](https://open.spotify.com/track/1nlWsqcnO3VL9UfMvEGuzY) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [12:34](https://open.spotify.com/album/7GhNtRAUiODAMJQyl8fa6b) | 2:35 |
-| 48 | [Popurri de Cumbias](https://open.spotify.com/track/5ew0ma07k1CCzudmFsD9xJ) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los De Finix](https://open.spotify.com/artist/5PQoAsNyQgPfDgncYxm8jz) | [Sigo Firme de Pie](https://open.spotify.com/album/1vWG9z0gnPJ0YzVmciYKpT) | 4:50 |
-| 49 | [DOCTOR DEL BARRIO](https://open.spotify.com/track/0nML7ShqQh6oxvVE7RZZBo) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [TUMBADO STYLE](https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7) | 2:21 |
-| 50 | [Zombie](https://open.spotify.com/track/5p9FYWkDFenGUL5KY6bmBL) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Zombie](https://open.spotify.com/album/7BrLxwMJBnpfsVSg0Ie6q1) | 3:17 |
-| 51 | [A Quién No Le Gusta Eso \- En Vivo](https://open.spotify.com/track/6UMAQA7SccxUbw4oA0AIkf) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [A Quién No Le Gusta Eso \(En Vivo\)](https://open.spotify.com/album/5j2VUYmnBUtDCQJrMID12X) | 5:59 |
+| 48 | [TÍO LITO](https://open.spotify.com/track/2ciwbD1E3lk13o1zODnJjL) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Tío Lito](https://open.spotify.com/album/4jNExfI0rnr7LOtTbUYAzM) | 2:57 |
+| 49 | [Zombie](https://open.spotify.com/track/5p9FYWkDFenGUL5KY6bmBL) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Zombie](https://open.spotify.com/album/7BrLxwMJBnpfsVSg0Ie6q1) | 3:17 |
+| 50 | [DOCTOR DEL BARRIO](https://open.spotify.com/track/0nML7ShqQh6oxvVE7RZZBo) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [TUMBADO STYLE](https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7) | 2:21 |
+| 51 | [De Verde Una Hectárea](https://open.spotify.com/track/4Epr5XuIyiVQhCC5SMVXtw) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [De Verde Una Hectárea](https://open.spotify.com/album/0Ki6JrEdXYE7HqsQAktUYq) | 2:23 |
 
-Snapshot ID: `Zmo2gAAAAADA8CRxaxvIOW23BEE5AoON`
+Snapshot ID: `ZmuIAAAAAADxkqvjqIJ41KZlcdoMwAs4`

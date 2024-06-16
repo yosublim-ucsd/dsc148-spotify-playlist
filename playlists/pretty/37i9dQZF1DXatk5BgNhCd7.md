@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Lola Indigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,594 likes - 49 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,615 likes - 49 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [LA REINA](https://open.spotify.com/track/06JM1fuKPQOrSL6s9mzDvV) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [LA REINA](https://open.spotify.com/album/2Fy0cyNtT6mpTVWtAAyfh4) | 2:30 |
 | 2 | [Decisiones](https://open.spotify.com/track/1WyQB4K1zhD4zP69Lx0X8T) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [Decisiones](https://open.spotify.com/album/1q0lOGH8EYIdgYCr12JfNU) | 4:00 |
-| 3 | [Mira Como Esta La Vagancia Cuartetera / A Decirme Que \- En Vivo Luna Park](https://open.spotify.com/track/10nFDR4YGrQa4QNMNZTuaM) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B), [Pablo Lescano](https://open.spotify.com/artist/6pztqmUqWADMZQKrrmGWGx) | [Mira Como Esta La Vagancia Cuartetera / A Decirme Que \(En Vivo Luna Park\)](https://open.spotify.com/album/2qQpDG3fsQe4U83k6WsXFs) | 4:04 |
+| 3 | [A decirme qué \- En Vivo Luna Park](https://open.spotify.com/track/10nFDR4YGrQa4QNMNZTuaM) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B), [Pablo Lescano](https://open.spotify.com/artist/6pztqmUqWADMZQKrrmGWGx) | [A decirme qué \(En Vivo Luna Park\)](https://open.spotify.com/album/2qQpDG3fsQe4U83k6WsXFs) | 4:04 |
 | 4 | [Intento \- En Vivo](https://open.spotify.com/track/0YI5vG7XmhB7IAcMJZjvS2) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Intento \(En Vivo\)](https://open.spotify.com/album/3UUuCRlQaX3HWZ1HkVuKpb) | 3:47 |
-| 5 | [YA FUE](https://open.spotify.com/track/1Vd2kfgMMq7hsd1tPQYpl7) | [Los Nota Lokos](https://open.spotify.com/artist/76iFMHDqONZusQlTu2ckKQ), [elz](https://open.spotify.com/artist/0b8QeBXlPuivBLiOQoUG0W) | [YA FUE](https://open.spotify.com/album/2e79z8fLPvZPXV0RXdzQL7) | 2:04 |
+| 5 | [YA FUE](https://open.spotify.com/track/1Vd2kfgMMq7hsd1tPQYpl7) | [Los Nota Lokos](https://open.spotify.com/artist/76iFMHDqONZusQlTu2ckKQ), [elz](https://open.spotify.com/artist/0b8QeBXlPuivBLiOQoUG0W) | [YA FUE](https://open.spotify.com/album/2e79z8fLPvZPXV0RXdzQL7) | 2:05 |
 | 6 | [No Es Lo Que Dices](https://open.spotify.com/track/1pWmkpmMmzuiFBSY5A4Tb9) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [No Es Lo Que Dices](https://open.spotify.com/album/7wD751cbpMxpXPwJriTfJi) | 3:12 |
 | 7 | [Chocolate](https://open.spotify.com/track/4iY6Dj9lsdlcqfaqdd7rMV) | [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Chocolate](https://open.spotify.com/album/5DyvJsJggD7QUlDGxTZl4M) | 3:48 |
 | 8 | [Ayer / Quiere Beber / OA](https://open.spotify.com/track/1UGtRPa4OnNWsLIEF4YZxa) | [El Rodri](https://open.spotify.com/artist/1fosVknoHjmETFcLUMCRjm) | [Ayer / Quiere Beber / OA](https://open.spotify.com/album/1OnLHm1FqU0kjuzI5klHjS) | 5:17 |

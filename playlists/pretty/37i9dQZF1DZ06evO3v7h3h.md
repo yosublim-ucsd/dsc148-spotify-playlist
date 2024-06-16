@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v7h3h.md) - [plain]
 
 ### [This Is Rashid](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3v7h3h)
 
-> This is Rashid\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Rashid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,276 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,272 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v7h3h.md) - [plain]
 | 33 | [Homem do Mundo \(feat\. Criolo\)](https://open.spotify.com/track/5MsCM2wH563bsuSkqp5Upb) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [A Coragem da Luz](https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl) | 3:17 |
 | 34 | [Porque Eu Rimo](https://open.spotify.com/track/25xKAsnTAkwYSe2beEw3ns) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe) | [Non Ducor Duco](https://open.spotify.com/album/6hDIyQC1ljD1gmxWFTSTNG) | 4:03 |
 | 35 | [Pílula Vermelha, Pílula Azul \(Incidental: Banditismo por uma Questão de Classe\)](https://open.spotify.com/track/6dax1ewiAtKBMI3JiLybwQ) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Movimento Rápido dos Olhos](https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog) | 3:09 |
-| 36 | [Gratidão](https://open.spotify.com/track/7KS9hVnDI7CUf9E7KxbXPI) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Gratidão](https://open.spotify.com/album/74bFWd3N2kKb76W7unhGg0) | 3:34 |
-| 37 | [Tão Real](https://open.spotify.com/track/2wC1oh2ag0oBcdSSqheGx8) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Tão Real](https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw) | 4:15 |
+| 36 | [Tão Real](https://open.spotify.com/track/2wC1oh2ag0oBcdSSqheGx8) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Tão Real](https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw) | 4:15 |
+| 37 | [Gratidão](https://open.spotify.com/track/7KS9hVnDI7CUf9E7KxbXPI) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Gratidão](https://open.spotify.com/album/74bFWd3N2kKb76W7unhGg0) | 3:34 |
 | 38 | [Tudo Ou Nada](https://open.spotify.com/track/5GTavkrnIWZmNXlFO8Qm7L) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Que Assim Seja](https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu) | 4:25 |
 | 39 | [Língua dos Campeões](https://open.spotify.com/track/0Uq6l0gRWpsUzoDPklSPmp) | [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR), [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj), [Holly Hood](https://open.spotify.com/artist/3DOJU0CqEqSdfFIMGiykRv), [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d), [Sir Scratch](https://open.spotify.com/artist/5rvP5KtLM6n8xOUDqhmq4i) | [Língua dos Campeões](https://open.spotify.com/album/4gNx3oF9mLwt04CITND7ge) | 7:44 |
 | 40 | [Estereótipo](https://open.spotify.com/track/4LlPG12E6JJLbV9SmyDS1E) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Crise](https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91) | 4:46 |
 | 41 | [A Fila Anda](https://open.spotify.com/track/0LewYp7T0K8wpkPBprMpEK) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Confundindo Sábios](https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU) | 3:26 |
-| 42 | [Recordações](https://open.spotify.com/track/1alIVYE2bdhYwNalVu3htc) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Kamau](https://open.spotify.com/artist/4eEZCRtFHFEiAuR2wdNVYX) | [Posfácio](https://open.spotify.com/album/1c46EPnRi9wrhdUUIJTgxT) | 4:22 |
-| 43 | [Eu Te Avisei](https://open.spotify.com/track/3dPygQx0ohogo6TwFCiJR3) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Que Assim Seja](https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu) | 4:00 |
-| 44 | [Outra Dose 2 \- Ao Vivo](https://open.spotify.com/track/6MejtXqCnEjoZKqGvHFAIE) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Sinais Sessions \- Morro Da Urca \(Ao Vivo\)](https://open.spotify.com/album/0E7yszyv3sZjZkMcw6VLzo) | 3:12 |
-| 45 | [Vagabundo Qualquer](https://open.spotify.com/track/5DCidfHBwo1kpqCwEDliAj) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Confundindo Sábios](https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU) | 2:57 |
-| 46 | [Mais que Refrão](https://open.spotify.com/track/0sn1LzuoN2frfvwNMsKtAM) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Bem Longe do Fim](https://open.spotify.com/album/1Q8a40uNxsPxfKOizRyTcH) | 2:45 |
+| 42 | [Eu Te Avisei](https://open.spotify.com/track/3dPygQx0ohogo6TwFCiJR3) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Que Assim Seja](https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu) | 4:00 |
+| 43 | [Recordações](https://open.spotify.com/track/1alIVYE2bdhYwNalVu3htc) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Kamau](https://open.spotify.com/artist/4eEZCRtFHFEiAuR2wdNVYX) | [Posfácio](https://open.spotify.com/album/1c46EPnRi9wrhdUUIJTgxT) | 4:22 |
+| 44 | [Mais que Refrão](https://open.spotify.com/track/0sn1LzuoN2frfvwNMsKtAM) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Bem Longe do Fim](https://open.spotify.com/album/1Q8a40uNxsPxfKOizRyTcH) | 2:45 |
+| 45 | [Outra Dose 2 \- Ao Vivo](https://open.spotify.com/track/6MejtXqCnEjoZKqGvHFAIE) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Sinais Sessions \- Morro Da Urca \(Ao Vivo\)](https://open.spotify.com/album/0E7yszyv3sZjZkMcw6VLzo) | 3:12 |
+| 46 | [Vagabundo Qualquer](https://open.spotify.com/track/5DCidfHBwo1kpqCwEDliAj) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Confundindo Sábios](https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU) | 2:57 |
 | 47 | [Meu Amigo Tempo](https://open.spotify.com/track/3xF4D5CH0PvI5UJwA261Si) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Tão Real](https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw) | 3:15 |
 | 48 | [Música de Guerra](https://open.spotify.com/track/4RvbMmeHmEuxAVbODGx5Ob) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Crise](https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91) | 3:44 |
 | 49 | [Ainda Tem](https://open.spotify.com/track/6yZLNopsiNqLwu8NNoCDEl) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho) | [Seis Sons](https://open.spotify.com/album/5TuZ4UVa6g5ZtGBe9YOPKY) | 4:03 |
 | 50 | [Cê Já Teve um Sonho?](https://open.spotify.com/track/5JjMSODzrHuLDGjhQf5JNm) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [A Coragem da Luz](https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl) | 1:56 |
 
-Snapshot ID: `Zmo2gAAAAAD0y3++4bBeyO8QagSwZnvb`
+Snapshot ID: `ZmuIAAAAAACu99yuGf0PBPBqJKOsyyij`

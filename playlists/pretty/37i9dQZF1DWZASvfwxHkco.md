@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZASvfwxHkco.md) - [plain]
 
 > 世界中で話題のエレクトリック・ダンスミュージックを一つのプレイリストに！Cover: Tove Lo, SG Lewis
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,986 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,996 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

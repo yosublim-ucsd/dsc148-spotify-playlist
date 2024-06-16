@@ -2,7 +2,7 @@
 
 ### [This Is: Raisa](https://open.spotify.com/playlist/37i9dQZF1DXdt7jjdf1IdF)
 
-> Merayakan hari kelahiran Raisa sekaligus menyambut Harta Tahta Raisa
+> Dengar lagu\-lagu teristimewa yang dapat membuat kita jatuh hati dan terjebak nostalgia
 
 49 songs - 3 hr 15 min
 

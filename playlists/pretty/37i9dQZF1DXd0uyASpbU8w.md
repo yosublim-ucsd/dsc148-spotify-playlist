@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb?si=\-DHFhtU5S0ilY44wXm22hQ">Major League Djz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,181 likes - 79 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,308 likes - 79 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 22 | [Go Easy](https://open.spotify.com/track/0RyPs7L5HOqaGTWPi3xhkp) | [Ntate Stunna](https://open.spotify.com/artist/1HKxOYJiTBtSgVTbKHK5XL), [Onesimus](https://open.spotify.com/artist/5DzY4LLmDMOCZmrpPDjLkm) | [Go Easy](https://open.spotify.com/album/2wupgWsDSa6jWpd7oRdAtH) | 4:02 |
 | 23 | [Storyteller \- Main Mix](https://open.spotify.com/track/0lHPij1kpyp1mSlFL7adPB) | [Kota Embassy](https://open.spotify.com/artist/3LIjRpCZ2elJjOBvrh2E53), [SjavasDaDeejay](https://open.spotify.com/artist/7LkCT07miUMz6JlKRqi3v0) | [Storyteller \(Main Mix\)](https://open.spotify.com/album/1czkOTv2rjrQCh5oDCgGBQ) | 7:00 |
 | 24 | [Unbothered](https://open.spotify.com/track/70KneIyETnRCR0bUwKSjwz) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Unbothered](https://open.spotify.com/album/0HM5xmkTOEzur0wayhKqae) | 3:06 |
-| 25 | [Lose Myself](https://open.spotify.com/track/1uqgUlVmfomaH1IEeDOC5y) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [i tried.](https://open.spotify.com/album/3ZrMVmVgaAzizc3MzotdvN) | 3:05 |
+| 25 | [Lose Myself](https://open.spotify.com/track/1uqgUlVmfomaH1IEeDOC5y) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I TRIED.](https://open.spotify.com/album/3ZrMVmVgaAzizc3MzotdvN) | 3:05 |
 | 26 | [Continental \(feat\. Shallipopi\)](https://open.spotify.com/track/5p3PWZEHyHxlFhoROX4dzz) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Continental \(feat\. Shallipopi\)](https://open.spotify.com/album/0WjeuE3MxIdRxWUb8PURa8) | 3:00 |
 | 27 | [Count On Me](https://open.spotify.com/track/1NFEXNMg8AZ0jGSux4CJdd) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Cape Town to Cairo](https://open.spotify.com/album/3xrdk0MImcnbt9NEc7pSnK) | 2:49 |
 | 28 | [2 Million Secrets](https://open.spotify.com/track/3NdaK14IqqJ2nTJcpB2HLY) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [2 Million Secrets](https://open.spotify.com/album/1KtNb4lHJqr0XcRpqhp6zF) | 2:53 |

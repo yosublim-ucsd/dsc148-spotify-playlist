@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,100 likes - 226 songs - 13 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,102 likes - 226 songs - 13 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 102 | [Life](https://open.spotify.com/track/3awb095cQIAqy6d0T0E7uX) | [wens](https://open.spotify.com/artist/0QcblRyHbgYTLOKlP5BE66) | [Life](https://open.spotify.com/album/0OwVeTY6EU5CuHNhEhc4kJ) | 3:39 |
 | 103 | [This City Remix \(feat\. Nico Santos\)](https://open.spotify.com/track/1ApZXdmjbw5amGoIKLyaw5) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [This City Remix \(feat\. Nico Santos\)](https://open.spotify.com/album/6OwA1VFpPcGCrr1drHwpfs) | 3:14 |
 | 104 | [Lie To Me](https://open.spotify.com/track/4KRdv66BiKGL4wNEhKmGYW) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Open Up Your Head](https://open.spotify.com/album/65YsNAuX9dJ7fVIKicT0d1) | 3:19 |
-| 105 | [DON'T THINK ABOUT IT](https://open.spotify.com/track/6h9O1F4bL1AM28t18lImsk) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN](https://open.spotify.com/album/4uH776h4uovgy3YYG1vbKC) | 3:34 |
-| 106 | [Boom Boom Back](https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Boom Boom Back](https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi) | 3:24 |
+| 105 | [Boom Boom Back](https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Boom Boom Back](https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi) | 3:24 |
+| 106 | [DON'T THINK ABOUT IT](https://open.spotify.com/track/6h9O1F4bL1AM28t18lImsk) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN](https://open.spotify.com/album/4uH776h4uovgy3YYG1vbKC) | 3:34 |
 | 107 | [Tongue Tied](https://open.spotify.com/track/0PpYaJXaLa7CWeOWuz06bZ) | [wens](https://open.spotify.com/artist/0QcblRyHbgYTLOKlP5BE66) | [tongue tied \(at the dmv\)](https://open.spotify.com/album/2OvUzoi1blGPg0aAD1DWZY) | 3:31 |
 | 108 | [Desert Man](https://open.spotify.com/track/5dDUOouAExTM498k5nyP9O) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Lost Girls](https://open.spotify.com/album/21pLZkjJiP0zaFve7FJ8wq) | 3:26 |
 | 109 | [Maybe In Another Life](https://open.spotify.com/track/69meckPoEWAVOUXjkp5ShS) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [High](https://open.spotify.com/album/3xqwpX5JdCFwVTsGRBu3sB) | 4:07 |
@@ -170,8 +170,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 160 | [Taken](https://open.spotify.com/track/6GyAI9p6xUZ3b3JUDjoaqd) | [Lily Elise](https://open.spotify.com/artist/0vXCJClmVVEuhh3o28O56r) | [Taken](https://open.spotify.com/album/7J0gNnx4AEarVNCYbFmHXl) | 3:25 |
 | 161 | [people like you](https://open.spotify.com/track/28bqKJ8P2akWe6Q1hf3x37) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 3:32 |
 | 162 | [Utopia](https://open.spotify.com/track/41zk1nBv8kt0Sj9nZYosBN) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 3: the band\-aid](https://open.spotify.com/album/4DFytu8dXeGdPVdCDvKLWd) | 3:17 |
-| 163 | [fever](https://open.spotify.com/track/3HjOcLYE63CNxrV9xnjB3V) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 3:30 |
-| 164 | [Cry Baby](https://open.spotify.com/track/34CBLV8ypdoSsYZ5aMcbxc) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Heartbeat Highway](https://open.spotify.com/album/1mBlpKV5enWAZdQxBqZ96r) | 3:23 |
+| 163 | [Cry Baby](https://open.spotify.com/track/34CBLV8ypdoSsYZ5aMcbxc) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Heartbeat Highway](https://open.spotify.com/album/1mBlpKV5enWAZdQxBqZ96r) | 3:23 |
+| 164 | [fever](https://open.spotify.com/track/3HjOcLYE63CNxrV9xnjB3V) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 3:30 |
 | 165 | [Kiss Me](https://open.spotify.com/track/1RMYwkxY1v6RryYIbfDHjY) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [The Mess We Seem To Make \(Deluxe\)](https://open.spotify.com/album/3C1OK6djJ12taoAWI95Sef) | 3:34 |
 | 166 | [Real Thing](https://open.spotify.com/track/1r4YhgOx3OYHsjRF8NgF5e) | [Clare Dunn](https://open.spotify.com/artist/2VDsDEKCdNm7c7Ve43Z9gw) | [REAL THING](https://open.spotify.com/album/2uigbDgEe5WhlYbPID5Aqe) | 3:40 |
 | 167 | [I Don't Care](https://open.spotify.com/track/1IbsTBaHXh15yc7kb041Ve) | [Brandon](https://open.spotify.com/artist/3mMlNCX0juOKPTTkSsiOie), [Savannah](https://open.spotify.com/artist/1NmrIlbg3XEPGnsKyQ0pDB) | [Adolescent Summer \- EP](https://open.spotify.com/album/4KIPIQ1jyctI8bfRUPiLZF) | 3:21 |
@@ -227,12 +227,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 217 | [Perfect Magnitude](https://open.spotify.com/track/7t1fjw7oIwDzMAmiLR2nDc) | [Roses Gabor](https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r) | [Fantasy & Facts](https://open.spotify.com/album/70gaiI4hthpS7Ef5uo8C2h) | 4:31 |
 | 218 | [Invention](https://open.spotify.com/track/1HS1531ZSGB77lUFEn74BY) | [Brandon](https://open.spotify.com/artist/3mMlNCX0juOKPTTkSsiOie), [Savannah](https://open.spotify.com/artist/1NmrIlbg3XEPGnsKyQ0pDB) | [Adolescent Summer \- EP](https://open.spotify.com/album/4KIPIQ1jyctI8bfRUPiLZF) | 3:53 |
 | 219 | [More](https://open.spotify.com/track/35kWsOZfYrSwxkNlKxs6gO) | [Erose](https://open.spotify.com/artist/3nTWNq4d2PshG3F70A8zg8) | [More](https://open.spotify.com/album/3sL80wIlotSWKeEpaCvdpK) | 2:41 |
-| 220 | [like a woman](https://open.spotify.com/track/0vj40dnn4QFxBJPKyYKMW8) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:08 |
-| 221 | [Bump](https://open.spotify.com/track/2AvoLwHjA39pO6R5W0dl0E) | [Erose](https://open.spotify.com/artist/3nTWNq4d2PshG3F70A8zg8) | [Unrealistic](https://open.spotify.com/album/7DJ38rShyy5odFN0uT9C8i) | 2:34 |
-| 222 | [Wait for love](https://open.spotify.com/track/2ncrUmm8ClzbvOnsyaTACm) | [Nicky Blitz](https://open.spotify.com/artist/1auEXVjtAE1Q22jdOmeYcq) | [Hawk EP Enhanced](https://open.spotify.com/album/3e6VAyayA9bzvrwOTHc6UC) | 1:55 |
-| 223 | [Happy Birthday \- Originally Performed By John Farnham](https://open.spotify.com/track/283rty1XQLfvw6zUDHJ1Ed) | [B the Star](https://open.spotify.com/artist/1UNVJFSDvwWjoRoQGDgorD) | [40 Super Hits Karaoke: Legends V5](https://open.spotify.com/album/3wvs9SsOuyNknFmcwzCWUS) | 2:37 |
-| 224 | [Change](https://open.spotify.com/track/2LP4LllG0k6nSvAtbe60Xr) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Change](https://open.spotify.com/album/4fqQu9B3x8EwknltlbXv83) | 3:32 |
+| 220 | [Change](https://open.spotify.com/track/2LP4LllG0k6nSvAtbe60Xr) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Change](https://open.spotify.com/album/4fqQu9B3x8EwknltlbXv83) | 3:32 |
+| 221 | [like a woman](https://open.spotify.com/track/0vj40dnn4QFxBJPKyYKMW8) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:08 |
+| 222 | [Bump](https://open.spotify.com/track/2AvoLwHjA39pO6R5W0dl0E) | [Erose](https://open.spotify.com/artist/3nTWNq4d2PshG3F70A8zg8) | [Unrealistic](https://open.spotify.com/album/7DJ38rShyy5odFN0uT9C8i) | 2:34 |
+| 223 | [Wait for love](https://open.spotify.com/track/2ncrUmm8ClzbvOnsyaTACm) | [Nicky Blitz](https://open.spotify.com/artist/1auEXVjtAE1Q22jdOmeYcq) | [Hawk EP Enhanced](https://open.spotify.com/album/3e6VAyayA9bzvrwOTHc6UC) | 1:55 |
+| 224 | [Happy Birthday \- Originally Performed By John Farnham](https://open.spotify.com/track/283rty1XQLfvw6zUDHJ1Ed) | [B the Star](https://open.spotify.com/artist/1UNVJFSDvwWjoRoQGDgorD) | [40 Super Hits Karaoke: Legends V5](https://open.spotify.com/album/3wvs9SsOuyNknFmcwzCWUS) | 2:37 |
 | 225 | [Never Love Me](https://open.spotify.com/track/73wdJkuGNi5r5yaxQcbbnx) | [Erose](https://open.spotify.com/artist/3nTWNq4d2PshG3F70A8zg8) | [Unrealistic](https://open.spotify.com/album/7DJ38rShyy5odFN0uT9C8i) | 2:00 |
 | 226 | [Goodbye Wrong](https://open.spotify.com/track/5DrxXrWnsxkpbR0QUBj8aS) | [Dawn Marie](https://open.spotify.com/artist/4BCgFgcMiSfFEmRIqeAD1K) | [Goodbye Wrong](https://open.spotify.com/album/3dFRqt0nO1GxdcBaE3ryth) | 3:25 |
 
-Snapshot ID: `AbUEIgAAAABU9ftaaknDCr48Tsn+/WAN`
+Snapshot ID: `AbUKAwAAAAC3br+RlvAFoFJTkdpZJlkU`

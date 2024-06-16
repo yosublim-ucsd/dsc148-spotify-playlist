@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: HALO
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,101 likes - 75 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,109 likes - 75 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 24 | [Oh mah god](https://open.spotify.com/track/3IdWwsWVyl4QvsuM6V8y87) | [D\-Track](https://open.spotify.com/artist/6iCGxocdnrQ3pxNN1drzNu) | [L'Osstidtour](https://open.spotify.com/album/7xAbPL5CIEyi48EJSJPi8N) | 2:42 |
 | 25 | [Jeune Fiori](https://open.spotify.com/track/3g7ezTi7UhygHwHZ3UQgUN) | [DJ White Socks](https://open.spotify.com/artist/0j0eSYnIP4NmdBRRMRvdUf), [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2) | [Jeune Fiori](https://open.spotify.com/album/5f0ykgertWsuRDny9E2az2) | 1:58 |
 | 26 | [Je suis Lui](https://open.spotify.com/track/29FkN0B3K17qtzYEOnhyW3) | [Lostboy Carlos](https://open.spotify.com/artist/7tYNQF6fww1VELqVD0TBeb) | [Sous Pression](https://open.spotify.com/album/4Wqm3skMPygg27BNMtNEDw) | 2:03 |
-| 27 | [ORIGINAL FINESSEUR](https://open.spotify.com/track/2rSKV180yMV8T4goCCFq8k) | [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc) | [ORIGINAL FINESSEUR](https://open.spotify.com/album/2t0i4ZzpYztDiDegowkufU) | 3:27 |
+| 27 | [ORIGINAL FINESSEUR](https://open.spotify.com/track/2rSKV180yMV8T4goCCFq8k) | [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc) | [ORIGINAL FINESSEUR](https://open.spotify.com/album/2t0i4ZzpYztDiDegowkufU) | 3:53 |
 | 28 | [Next](https://open.spotify.com/track/4OK1zs3eTax8Gp92amb9d7) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Next](https://open.spotify.com/album/1MjpbZZT5XSUoaaTQ7KXgj) | 2:50 |
 | 29 | [Péroxyde](https://open.spotify.com/track/0JIJMuV5B8ZFIYRfiMgD9l) | [Trappo officiel](https://open.spotify.com/artist/2qAQAxmoafsvNVp31ROnaE) | [Péroxyde](https://open.spotify.com/album/60KbxzUMRvskEhapoRaEhF) | 2:51 |
 | 30 | [Laisse\-moi](https://open.spotify.com/track/5hjSxdoZRFcW6amolaINKn) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Portrait robot](https://open.spotify.com/album/2XacUMB8RXlMXTr2GCIyzs) | 3:14 |

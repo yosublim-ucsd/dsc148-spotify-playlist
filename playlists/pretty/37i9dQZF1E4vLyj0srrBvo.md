@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 
 > With FKA twigs, Crystal Castles, Purity Ring and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,779 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,814 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 | 49 | [Clouds](https://open.spotify.com/track/5fr0ocIee7TpDCRWaK0002) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Abyss](https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV) | 4:07 |
 | 50 | [Insomniac](https://open.spotify.com/track/2klj0StczYde6WUHBJo5F6) | [Memo Boy](https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek), [Chakra Efendi](https://open.spotify.com/artist/3pFSlKAoVnaEycgIcPDctw) | [Songs & Demos 2015\-2017](https://open.spotify.com/album/0a0ftVkZr4K1QoOXcZF0V1) | 3:32 |
 
-Snapshot ID: `Zm0EGQAAAAA+h8mbmut71Q7pe7/IdQkV`
+Snapshot ID: `Zm5QkAAAAAB6SIA/kf0QzA9y7zyF8Y12`

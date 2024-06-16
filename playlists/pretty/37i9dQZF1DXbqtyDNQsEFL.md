@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM?si=KUZp91ddT0KaVJ2rY5I\_Vg>Moses Bliss</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,699 likes - 80 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,757 likes - 80 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

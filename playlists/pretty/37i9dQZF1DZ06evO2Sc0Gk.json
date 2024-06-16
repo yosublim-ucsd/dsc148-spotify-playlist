@@ -1,12 +1,12 @@
 {
-  "description": "This is Mr Eazi. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 19143,
+  "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
+  "num_followers": 19147,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAADiIoSb1WJ18y1e5OINkvbD",
+  "snapshot_id": "ZmuIAAAAAAA0cq1Dl5nMxcYVnzvW20Ed",
   "tracks": [
     {
       "added_at": null,
@@ -267,6 +267,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Decline",
+        "url": "https://open.spotify.com/album/17Fwkmg4UJ9ORmuOfqb1ud"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 188172,
+      "name": "Decline",
+      "url": "https://open.spotify.com/track/4qCc2AVDeJYIpAHi9AX1N0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Evil Genius",
         "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
       },
@@ -319,6 +339,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "One Day You Will Understand",
+        "url": "https://open.spotify.com/album/6Z22tsn1nyT9CmcTZa8ZEC"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "emPawa Africa",
+          "url": "https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Baby I'm Jealous",
+      "url": "https://open.spotify.com/track/5lAOltJO0aw2FUP5Use4cD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bad (feat. Yungen, MoStack, Mr Eazi & Not3s)",
         "url": "https://open.spotify.com/album/3X34zuRCa6RTlmAUP30kIh"
       },
@@ -347,30 +391,6 @@
       "duration_ms": 204832,
       "name": "Bad (feat. Yungen, MoStack, Mr Eazi & Not3s)",
       "url": "https://open.spotify.com/track/5vySkXA0v40CDwofIvhc1Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One Day You Will Understand",
-        "url": "https://open.spotify.com/album/6Z22tsn1nyT9CmcTZa8ZEC"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "emPawa Africa",
-          "url": "https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Baby I'm Jealous",
-      "url": "https://open.spotify.com/track/5lAOltJO0aw2FUP5Use4cD"
     },
     {
       "added_at": null,
@@ -659,26 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ohema (feat. Mr Eazi)",
-        "url": "https://open.spotify.com/album/4u0p0PbPm2Wm1E2K6LEvad"
-      },
-      "artists": [
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 208666,
-      "name": "Ohema (feat. Mr Eazi)",
-      "url": "https://open.spotify.com/track/6f4JwY2yPutl4DIq29Pn7h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life is Eazi, Vol. 2 - Lagos to London",
         "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
       },
@@ -699,6 +699,26 @@
       "duration_ms": 178106,
       "name": "Dabebi",
       "url": "https://open.spotify.com/track/63wuVACH3s92oXqKzvYBke"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ohema (feat. Mr Eazi)",
+        "url": "https://open.spotify.com/album/4u0p0PbPm2Wm1E2K6LEvad"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 208666,
+      "name": "Ohema (feat. Mr Eazi)",
+      "url": "https://open.spotify.com/track/6f4JwY2yPutl4DIq29Pn7h"
     },
     {
       "added_at": null,
@@ -775,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Advice",
-        "url": "https://open.spotify.com/album/3eAG4eWO35O6G1I8qkwPKM"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 165995,
-      "name": "Advice",
-      "url": "https://open.spotify.com/track/3pPT38es75c1jiI2hRSkXA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hollup",
         "url": "https://open.spotify.com/album/4X9ME05TzIGSBuHx5rYQuj"
       },
@@ -815,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Advice",
+        "url": "https://open.spotify.com/album/3eAG4eWO35O6G1I8qkwPKM"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 165995,
+      "name": "Advice",
+      "url": "https://open.spotify.com/track/3pPT38es75c1jiI2hRSkXA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sekkle & Bop",
         "url": "https://open.spotify.com/album/36cRjKRxYLQlSbenG5wuej"
       },
@@ -835,26 +855,6 @@
       "duration_ms": 156327,
       "name": "Sekkle & Bop (feat. Popcaan)",
       "url": "https://open.spotify.com/track/6MNFebzmVKDYvgjxSQcAfq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Life is Eazi, Vol. 2 - Lagos to London",
-        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Mo-T",
-          "url": "https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg"
-        }
-      ],
-      "duration_ms": 145174,
-      "name": "Property",
-      "url": "https://open.spotify.com/track/5hiegqyy2caIt1A0p0db5A"
     },
     {
       "added_at": null,
@@ -887,6 +887,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Mo-T",
+          "url": "https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg"
+        }
+      ],
+      "duration_ms": 145174,
+      "name": "Property",
+      "url": "https://open.spotify.com/track/5hiegqyy2caIt1A0p0db5A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
         "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
       },
@@ -907,6 +927,30 @@
       "duration_ms": 244000,
       "name": "Life Is Eazi",
       "url": "https://open.spotify.com/track/6GPyqTzuYf5bMS0kTRmsbQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tall Shade",
+        "url": "https://open.spotify.com/album/1ot4OOnFQfD7FtoQAU3qKS"
+      },
+      "artists": [
+        {
+          "name": "Patrice",
+          "url": "https://open.spotify.com/artist/1fBcQOi8yEfWN7fknMoqIE"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Jugglerz",
+          "url": "https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY"
+        }
+      ],
+      "duration_ms": 179750,
+      "name": "Tall Shade",
+      "url": "https://open.spotify.com/track/4pACPCpLl5vqvrToSE161d"
     },
     {
       "added_at": null,
@@ -1055,54 +1099,6 @@
       "duration_ms": 176011,
       "name": "Combo (feat. Mr Eazi)",
       "url": "https://open.spotify.com/track/60A1Bcrt8Nq8WoLFNc9SRx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Take Control",
-        "url": "https://open.spotify.com/album/1w7zh77gLaDTosxWxQ2eNT"
-      },
-      "artists": [
-        {
-          "name": "DJ Battle",
-          "url": "https://open.spotify.com/artist/5rQh3Nz0mE7UaBIp9hotMq"
-        },
-        {
-          "name": "Jahyanai",
-          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
-        },
-        {
-          "name": "Bamby",
-          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 213354,
-      "name": "Take Control",
-      "url": "https://open.spotify.com/track/24kLQBF5CBJyr0x06lRpiy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Marry",
-        "url": "https://open.spotify.com/album/6vYZnTZuk2w6xsNRmZkEKm"
-      },
-      "artists": [
-        {
-          "name": "DJ Neptune",
-          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 209841,
-      "name": "Marry",
-      "url": "https://open.spotify.com/track/6jIFjFLu7OtUJeo6B92r4D"
     }
   ],
   "unique_name": "This Is Mr Eazi",

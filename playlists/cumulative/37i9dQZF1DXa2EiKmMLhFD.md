@@ -4,7 +4,7 @@
 
 > Hits terpanas dari Dudy Oris, Tiara Andini serta artis terfavorit Anda dari dalam negeri dan mancanegara.
 
-215 songs - 13 hr 28 min
+216 songs - 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Bertahan Terluka](https://open.spotify.com/track/62sancAaHEMwPxBuatzaay) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [ASHER](https://open.spotify.com/album/4km2qQIoGCCevm1Qf51OcE) | 4:00 | 2023-03-23 | 2023-05-20 |
 | [Bertaut](https://open.spotify.com/track/630DpnzdfjdVqv2yLfPbAX) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Selamat Ulang Tahun](https://open.spotify.com/album/75KyCmWatZRvlMcMRed9BG) | 5:15 | 2024-03-07 |  |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-06-11 |  |
+| [Boleh Juga](https://open.spotify.com/track/2RadWC8dJhTEkvSBTndJZ5) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Boleh Juga](https://open.spotify.com/album/61yVevFbBURg0USzarrdQ4) | 3:47 | 2024-06-16 |  |
 | [Broken Melodies](https://open.spotify.com/track/5OehhztxLfJeCxUMbFfPy6) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Broken Melodies](https://open.spotify.com/album/54rCRVcg8v1yA9MFCYol8W) | 3:46 | 2023-06-22 | 2023-07-06 |
 | [Bulan Dikekang Malam \- From ''Ayat Ayat Cinta 2''](https://open.spotify.com/track/1fztiHQGVlICM9hI17dCmn) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Bulan Dikekang Malam \(From ''Ayat Ayat Cinta 2''\)](https://open.spotify.com/album/50mMnTDrXLCCFEE5zzWS69) | 3:54 | 2024-02-08 | 2024-02-23 |
 | [Bunga Hati](https://open.spotify.com/track/4AfhlJghKIWkXa8sfFEXVd) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Bunga Hati](https://open.spotify.com/album/4F4XK6lkrHveOTKSGMeGF4) | 2:53 | 2024-01-03 |  |

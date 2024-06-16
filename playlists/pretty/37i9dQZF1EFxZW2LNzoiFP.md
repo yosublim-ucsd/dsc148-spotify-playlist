@@ -174,8 +174,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 164 | [wraith](https://open.spotify.com/track/6AqOu3JIw2gbA3YPb0QFRY) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [crawl\_\_space](https://open.spotify.com/album/49Ci8AbHDggwLpVWLrluXm) | 2:45 |
 | 165 | [I Don't Want To See You Like That](https://open.spotify.com/track/5sz5CknwFGpttn1Lfb1hiI) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 2:41 |
 | 166 | [Time Glows](https://open.spotify.com/track/2uZ2Od68eVgL0FnuHgXyyD) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a) | [Voici](https://open.spotify.com/album/3xyBcVogDkkgrWDK5pZvTj) | 2:59 |
-| 167 | [Out of Touch](https://open.spotify.com/track/4wVU2w2ec3vpmOXcxLbeGT) | [IYVES](https://open.spotify.com/artist/1TowXwlitIcnb3Sm2pdg3t) | [Out of Touch](https://open.spotify.com/album/5yqd6fxZGkwg0MpPm3WTQD) | 3:19 |
-| 168 | [Snow White](https://open.spotify.com/track/2NtdqCfyAe6Jqq4o5cFAo4) | [Fake A Smile](https://open.spotify.com/artist/3sHwzQ71N1kblQD9D2WxDm) | [Snow White](https://open.spotify.com/album/4Sw7FWTQwQQnX6MuBy1nSK) | 3:35 |
+| 167 | [Snow White](https://open.spotify.com/track/2NtdqCfyAe6Jqq4o5cFAo4) | [Fake A Smile](https://open.spotify.com/artist/3sHwzQ71N1kblQD9D2WxDm) | [Snow White](https://open.spotify.com/album/4Sw7FWTQwQQnX6MuBy1nSK) | 3:35 |
+| 168 | [Out of Touch](https://open.spotify.com/track/4wVU2w2ec3vpmOXcxLbeGT) | [IYVES](https://open.spotify.com/artist/1TowXwlitIcnb3Sm2pdg3t) | [Out of Touch](https://open.spotify.com/album/5yqd6fxZGkwg0MpPm3WTQD) | 3:19 |
 | 169 | [<shine>](https://open.spotify.com/track/5CwjYBkkOkhxGIrA6KrTpS) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [shine\_\_space](https://open.spotify.com/album/6J0wi27wJvDbgGXpY42NES) | 0:33 |
 | 170 | [Reputation](https://open.spotify.com/track/6XMTNaQQlk7LRxhNJu6jSy) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7dPuO1tzvLVw0WA9kwDnyQ) | 2:57 |
 | 171 | [I Get Too High](https://open.spotify.com/track/03MROZ5GH5mGHKarlKAFyf) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7dPuO1tzvLVw0WA9kwDnyQ) | 4:29 |
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 214 | [L35af](https://open.spotify.com/track/4CBVNHEJSOsBEMFDcufcro) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/3NYkp0ZDr042IOtYqkYewm) | 4:07 |
 | 215 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
 
-Snapshot ID: `AbUEVAAAAAAv3108Nm9P6rZP4at888v+`
+Snapshot ID: `AbUJ/QAAAACxbXKqkv+CbNnzyEaoeWQy`

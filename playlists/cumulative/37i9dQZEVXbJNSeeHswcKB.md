@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belgium.
 
-1,475 songs - 3 day 9 hr 53 min
+1,477 songs - 3 day 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Athéna](https://open.spotify.com/track/4OTgPQji476VR0qarMgsgG) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [Civilisation](https://open.spotify.com/album/2o2GBOfy2GG9oKYZgfZkur) | 2:52 | 2021-11-21 | 2021-11-26 |
 | [Attentat](https://open.spotify.com/track/5ioieZofgvXQK70RFhVohl) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Enna Boost](https://open.spotify.com/album/2INbsI9qbLPDqII4MNkowx) | 3:14 | 2021-11-14 | 2022-03-06 |
 | [Au Bout De La Nuit](https://open.spotify.com/track/2r6L78L65TyGirzPgJvYEy) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Sincèrement](https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y) | 3:01 | 2023-02-18 | 2023-03-05 |
+| [Aucune attache](https://open.spotify.com/track/3KZN01EuBoqh04jyGXpnxr) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Aucune attache](https://open.spotify.com/album/2u9Mg8knLxFwiEsALkFslI) | 2:41 | 2024-06-15 |  |
 | [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-03-21 | 2024-03-25 |
 | [Austin \(Boots Stop Workin'\)](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:51 | 2024-03-25 |  |
 | [Aïcha](https://open.spotify.com/track/3u2NGFCIe5Ynxv8djbpVP8) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:39 | 2021-12-05 | 2021-12-19 |
@@ -191,7 +192,7 @@
 | [Blind Op Zoek \(Trapagas\)](https://open.spotify.com/track/0jm8p2ErwB4u3uvxc7vxGy) | [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk) | [Blind Op Zoek \(Trapagas\)](https://open.spotify.com/album/44ODNi0Z8Bh70aourII7wk) | 2:22 | 2022-10-01 | 2022-12-03 |
 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 | 2021-03-27\* | 2024-01-10 |
 | [Bloody Mary](https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:04 | 2022-12-07 | 2023-01-14 |
-| [BLUE](https://open.spotify.com/track/2prqm9sPLj10B4Wg0wE5x9) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:43 | 2024-05-18 |  |
+| [BLUE](https://open.spotify.com/track/2prqm9sPLj10B4Wg0wE5x9) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:43 | 2024-05-18 | 2024-06-16 |
 | [Blue Christmas](https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Christmas Album](https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N) | 2:09 | 2021-12-25 | 2023-12-30 |
 | [Blue story \(feat\. Lil Baby\)](https://open.spotify.com/track/3t6CmLKKMFxclNBzvJd51t) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 4:18 | 2023-07-01 | 2023-07-09 |
 | [Bobo](https://open.spotify.com/track/6wL9pSXJ4roDSEoBpYyQy7) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Bobo](https://open.spotify.com/album/5SCo5QT25AqRFb5CnipuTI) | 3:07 | 2021-06-05 | 2021-07-18 |
@@ -548,6 +549,7 @@
 | [Guilty as Sin?](https://open.spotify.com/track/0W0iAC1VGlB82PI6elxFYf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:14 | 2024-04-20 | 2024-04-27 |
 | [HAINE&SEX](https://open.spotify.com/track/6Vcxzw4ifKqYxVrp3ckpVF) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [DRILL FR](https://open.spotify.com/album/31H0KWvM2hCC3p8jkctCWN) | 3:21 | 2021-04-10 | 2021-07-04 |
 | [Hakayet](https://open.spotify.com/track/5bww9Wf6TszHmZVooMR5um) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [Hakayet](https://open.spotify.com/album/7Hd8VNqE8T9eK13RUSsWQC) | 2:35 | 2024-06-11 | 2024-06-15 |
+| [Hakayet](https://open.spotify.com/track/3PyRt7gpih7EPvV0fMWEom) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [Hakayet](https://open.spotify.com/album/2p3ns7RThAsCEkBf6Py5cO) | 2:38 | 2024-06-15 |  |
 | [Hallelujah](https://open.spotify.com/track/0HZk0QsXPhMNAWNDR3rYE8) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas Deluxe](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) | 4:28 | 2023-12-24 | 2023-12-30 |
 | [Halley's Comet](https://open.spotify.com/track/5XsAal7ZcWg1I5T4NcRjkv) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:54 | 2021-08-01 | 2021-08-02 |
 | [Halo](https://open.spotify.com/track/3ERa3mEeOnrh2Mc47qM6T1) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 4:21 | 2024-04-01 | 2024-04-03 |
@@ -871,7 +873,7 @@
 | [Mode Akimbo \(feat\. Jul\)](https://open.spotify.com/track/7qezIDRM0E3WTW1lWxItug) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [JVLIVS II](https://open.spotify.com/album/7eKvzMoLTENJaukj2pHrw7) | 3:37 | 2021-03-27\* | 2021-03-29 |
 | [MODERN JAM](https://open.spotify.com/track/3KCNiDi9Pza6ZD8FggNoaw) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:15 | 2023-07-29 | 2023-08-01 |
 | [MOLLY \- A COLORS SHOW](https://open.spotify.com/track/6KNw3UKRp3QRsO7Cf4ASVE) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [MOLLY \- A COLORS SHOW](https://open.spotify.com/album/6ZIJvsgdRVinkp5FaVbgRz) | 2:22 | 2022-06-02 | 2022-07-03 |
-| [Mon amour](https://open.spotify.com/track/4BVcVEp6Df9VQN5qFwxDn3) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Essentiels](https://open.spotify.com/album/30d0ikqr92UVb1L0xVe0Fx) | 3:01 | 2024-05-11 |  |
+| [Mon amour](https://open.spotify.com/track/4BVcVEp6Df9VQN5qFwxDn3) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Essentiels](https://open.spotify.com/album/30d0ikqr92UVb1L0xVe0Fx) | 3:01 | 2024-05-11 | 2024-06-16 |
 | [Mon amour](https://open.spotify.com/track/6lBCjH1gpm5sk9KBll9akT) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw) | 2:52 | 2022-03-05 | 2022-03-16 |
 | [Mon BB](https://open.spotify.com/track/3E2A0uk8xtCGqgTsiz8Qug) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Mon BB](https://open.spotify.com/album/3UWJlCOQbnwW72X4q052NL) | 3:08 | 2023-06-17 | 2023-06-19 |
 | [Mon poto \- Extrait de la BO de « En Passant Pécho »](https://open.spotify.com/track/1SelxYHPb04GjUy0oYV1Jw) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [En Passant Pécho \(Bande originale inspirée du film\)](https://open.spotify.com/album/5Z31afWU0NIldn8hRK5CZq) | 3:03 | 2021-03-27\* | 2021-04-11 |

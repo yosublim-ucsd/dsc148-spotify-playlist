@@ -1112,7 +1112,7 @@
       ],
       "date_added": "2021-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -9970,6 +9970,32 @@
       "duration_ms": 183725,
       "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
       "url": "https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP"
+    },
+    {
+      "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/7ABqqIa0kKV7PqlD9uCi7H"
+      },
+      "artists": [
+        {
+          "name": "Ben Cristovao",
+          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
+        },
+        {
+          "name": "Mirai",
+          "url": "https://open.spotify.com/artist/5m2pDQbSRuWbxRR1FUcHle"
+        },
+        {
+          "name": "David Koller",
+          "url": "https://open.spotify.com/artist/5lq1tp9zahj157KpMyF8VQ"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197538,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/2UTxmdJ6Yp1ck6SAJuvM7X"
     },
     {
       "album": {
@@ -21904,7 +21930,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-02",
+      "date_removed": null,
       "duration_ms": 186782,
       "name": "Re\u017eim neru\u0161it",
       "url": "https://open.spotify.com/track/6AZaXcXWfcFgJRgl4bsgvD"
@@ -26116,7 +26142,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"

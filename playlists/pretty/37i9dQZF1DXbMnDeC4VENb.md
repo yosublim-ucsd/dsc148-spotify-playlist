@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 
 > Una eufórica dosis de urbano romántico en español\. Takeover: Geassasin
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,786 likes - 54 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,789 likes - 54 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

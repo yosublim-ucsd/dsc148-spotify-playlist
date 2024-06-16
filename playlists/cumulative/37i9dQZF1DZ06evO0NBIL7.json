@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "all good",
+        "url": "https://open.spotify.com/album/4F55MjyuidAYOgPVbf8oes"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "date_added": "2024-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210729,
+      "name": "Exit Oblivion",
+      "url": "https://open.spotify.com/track/4ycb32qb4NCRIM9kNof98g"
+    },
+    {
+      "album": {
         "name": "Coma Happy",
         "url": "https://open.spotify.com/album/6QhOK8ASSEafbqLRoifCnn"
       },
@@ -596,6 +614,24 @@
       "duration_ms": 199076,
       "name": "Vulture Culture",
       "url": "https://open.spotify.com/track/1e58Lv9zzEcX5t9PYFWhZO"
+    },
+    {
+      "album": {
+        "name": "all good",
+        "url": "https://open.spotify.com/album/4F55MjyuidAYOgPVbf8oes"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "date_added": "2024-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190560,
+      "name": "You Had Me At Hello",
+      "url": "https://open.spotify.com/track/1lIPBKk37wADzBJvC3RB2D"
     },
     {
       "album": {

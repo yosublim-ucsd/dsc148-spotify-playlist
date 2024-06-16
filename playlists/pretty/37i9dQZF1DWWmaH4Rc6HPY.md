@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 
 > ¡Y regresaron las guitarras! Siddhartha en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,841 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,877 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 2 | [Como Queremos](https://open.spotify.com/track/0Zcd8XxgKeRNQAUIpsHr7c) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Miel de Azar](https://open.spotify.com/album/1qpILF6cHlPJzUOvZfdIma) | 3:12 |
 | 3 | [Silencio](https://open.spotify.com/track/4Ey3GCtvICUIJDM0wUCPd0) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Silencio](https://open.spotify.com/album/3OImMIbnVXy6OV1yJHSYeH) | 5:25 |
 | 4 | [Faltas Tú](https://open.spotify.com/track/4mIc3AQWkqLb2LVjkVKv4K) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Faltas Tú](https://open.spotify.com/album/0ZNk0pIBMIIDgutlALp6ia) | 3:21 |
-| 5 | [CRISTAL](https://open.spotify.com/track/6Gfkt8xCb1bihvs6KOMO2g) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [CRISTAL](https://open.spotify.com/album/4LTaRXfhC5z6cUpQLDvNnd) | 3:22 |
+| 5 | [Cristal](https://open.spotify.com/track/6Gfkt8xCb1bihvs6KOMO2g) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Cristal](https://open.spotify.com/album/4LTaRXfhC5z6cUpQLDvNnd) | 3:22 |
 | 6 | [Todo cambia](https://open.spotify.com/track/0uOxKY91hTmnJOxGPGpJtd) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Todo cambia](https://open.spotify.com/album/2rwGnAgqgUU3mYtY5pscXd) | 3:30 |
 | 7 | [Mi + 1](https://open.spotify.com/track/7vr6sOiAkiDVteYSmg5FNU) | [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM), [Sofia Ellar](https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR) | [Mi + 1](https://open.spotify.com/album/6zNItkFIgiGd0ZK35jt6fM) | 2:46 |
 | 8 | [Plan A](https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Plan A](https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg) | 2:58 |

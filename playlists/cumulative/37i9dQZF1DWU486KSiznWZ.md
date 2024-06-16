@@ -4,7 +4,7 @@
 
 > اكتشفوا أفضل الاغاني الخليجية <br/>الغلاف: عايض
 
-173 songs - 12 hr 21 min
+174 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Bahjat ALkhater](https://open.spotify.com/track/3eReZhyR5JIDiRN1kxxHOl) | [Mohamed Al Shehhi](https://open.spotify.com/artist/0dMebvi9NQ4TNjqWIH9dXp) | [Bahjat ALkhater](https://open.spotify.com/album/4UmJoi5HlTPVDeWuDQWgpx) | 4:32 | 2022-04-07 | 2023-04-21 |
 | [Bakir](https://open.spotify.com/track/2ZLWxFGNauOddLUTWcvsok) | [Abdulaziz Elmuanna](https://open.spotify.com/artist/4bzY16GQnsfRHuIzHN4lC7) | [\#1](https://open.spotify.com/album/1ufUw2q6WAB4jrghwChTec) | 3:50 | 2024-04-18 |  |
 | [Bdet Ateeb](https://open.spotify.com/track/5XtURwv3QcCqXKBmMZi95H) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Bdet Ateeb](https://open.spotify.com/album/6GmP2R2kvNM4ZO1oUnxlGI) | 4:36 | 2024-04-18 |  |
-| [Bel Salamah](https://open.spotify.com/track/6BPAlkPIa5LDBrJ2FzT6vl) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Bel Salamah](https://open.spotify.com/album/7us6HjjHLdI7eHRzHEfzSx) | 5:37 | 2023-04-26 |  |
+| [Bel Salamah](https://open.spotify.com/track/6BPAlkPIa5LDBrJ2FzT6vl) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Bel Salamah](https://open.spotify.com/album/7us6HjjHLdI7eHRzHEfzSx) | 5:37 | 2023-04-26 | 2024-06-16 |
 | [Chokran](https://open.spotify.com/track/77JDzVjytmCZH8xIWmCY3l) | [Jamila](https://open.spotify.com/artist/7K0Se2JHfaWPp6OUS2gvgI), [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2) | [Chokran](https://open.spotify.com/album/09wY9vArfB6xzsNaRfwuZ1) | 3:34 | 2022-04-07 | 2022-10-05 |
 | [Da Elly 7sal \- دا اللي حصل](https://open.spotify.com/track/5eRUK0x3XJSbrk57aET9aX) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Da Elly 7sal \(دا اللي حصل\)](https://open.spotify.com/album/0Vw2fBg9gnCfKIBwfiS4JO) | 4:12 | 2023-02-24 |  |
 | [Da3it Allah](https://open.spotify.com/track/5lcuSQuICbP7C6X9EtBhlv) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Da3it Allah](https://open.spotify.com/album/71klQgQA3xV0HdXMGOr4W7) | 4:28 | 2022-10-04 |  |
@@ -44,6 +44,7 @@
 | [Entaha](https://open.spotify.com/track/14pBZT0Up0pDBa4duA5iog) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Entaha \(Balqees\)](https://open.spotify.com/album/6BSESL2MfbqMBvO25FglJh) | 3:07 | 2023-03-28 | 2023-04-21 |
 | [Entaha](https://open.spotify.com/track/3TNLk413ZyKiUNU2IPYLUW) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Entaha](https://open.spotify.com/album/1W9ZA3sustAg1YF2Lfywj1) | 3:07 | 2022-04-07 | 2023-04-02 |
 | [Entebhlek](https://open.spotify.com/track/19xth9Xqzirpot7cy1nWfZ) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Entebhlek](https://open.spotify.com/album/5kxIt7TKG05RmoD5815UfQ) | 3:59 | 2023-05-06 | 2024-05-16 |
+| [Estaslam Qalb](https://open.spotify.com/track/3vji65yQ70Lkznq2sqlGtL) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Estaslam Qalb](https://open.spotify.com/album/291dphae9w4umV6vgSxEJc) | 5:25 | 2024-06-15 |  |
 | [Fahem](https://open.spotify.com/track/5LXlfCsvGlsobIrJ093Rai) | [Abass Ibrahim](https://open.spotify.com/artist/24GgPBu7p3GhaMVvIMAk8T) | [Mant Fahem](https://open.spotify.com/album/3jk49p7zeBgUYG8ANRDP42) | 5:01 | 2023-02-14 | 2024-05-23 |
 | [Faraktozy](https://open.spotify.com/track/12h7uMuEanhGWfnzOyvo8h) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Faraktozy](https://open.spotify.com/album/1OAttDR3r7GbxCNeSgElrE) | 3:50 | 2022-08-14 | 2022-10-05 |
 | [Fattak](https://open.spotify.com/track/1enP6Ed10meQlHsbOF7qob) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Fattak](https://open.spotify.com/album/1StqBpyc5o8sBJxXIt3xAW) | 4:23 | 2022-04-07 | 2022-08-15 |

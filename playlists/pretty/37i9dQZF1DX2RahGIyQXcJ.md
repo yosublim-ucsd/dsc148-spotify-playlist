@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 
 > Best of hip\-hop tracks from South Asia\. Cover: Shubh
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,504 likes - 69 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,624 likes - 69 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bandana](https://open.spotify.com/track/7KQdgW7QzNd9oPoCzjCU76) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Bandana](https://open.spotify.com/album/1jiFBECVkHOJwDe9TcKKiB) | 2:34 |
-| 2 | [Winning Speech](https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Winning Speech](https://open.spotify.com/album/0pLUWCJtTpJCcYpzSTK7oC) | 3:47 |
+| 2 | [Winning Speech](https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Winning Speech](https://open.spotify.com/album/0pLUWCJtTpJCcYpzSTK7oC) | 3:47 |
 | 3 | [One Love](https://open.spotify.com/track/5ZLkihi6DVsHwDL3B8ym1t) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [One Love](https://open.spotify.com/album/3tNH9Fp4dm3qa3Kr4cv5uJ) | 2:39 |
 | 4 | [9:45](https://open.spotify.com/track/6c4Po8zyQjB4cR5XgLhcGb) | [Prabh Singh](https://open.spotify.com/artist/0VAIiNSKG4DWkSaIy5qWz1), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu), [Rooh Sandhu](https://open.spotify.com/artist/54E3dYx7RpaGZaDVXJTWjr) | [9:45](https://open.spotify.com/album/5ITQeRYoVu4qRdo9TUTuuR) | 1:57 |
 | 5 | [MVP](https://open.spotify.com/track/5BQePe9rcCJozHK3oPayYk) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [MVP](https://open.spotify.com/album/5oCCfkVCpkSUhBUXe0pyJF) | 3:16 |

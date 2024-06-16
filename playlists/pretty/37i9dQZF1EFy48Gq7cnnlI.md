@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1St9w8DIFsyXLZAnjNUpZ1">Alex Hope</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 782 likes - 111 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 783 likes - 111 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 60 | [The Pause](https://open.spotify.com/track/18YzQn4Tgib169dXJ6gZlC) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Madness](https://open.spotify.com/album/2ploE2Xfb4u43TnK7OAos3) | 3:57 |
 | 61 | [Knock Me Out](https://open.spotify.com/track/3ZKWAGpEG2UGvjzoNgJEPq) | [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [SAMURAI SESSIONS vol.3 \- Worlds Collide \-](https://open.spotify.com/album/4H9oh7fZrr6GBH1SWSNYsR) | 3:41 |
 | 62 | [In Pieces](https://open.spotify.com/track/5yxPPPKxyYnuom2CrWT78O) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [In Pieces](https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI) | 3:59 |
-| 63 | [Already Gone](https://open.spotify.com/track/7e6K0ZWjHjFJxk2k7aeu2v) | [Taylor Henderson](https://open.spotify.com/artist/40usJiKvNyNHy3GAcNXSWx) | [Burnt Letters](https://open.spotify.com/album/35q6agQrUXirvl16mq8YAa) | 3:10 |
-| 64 | [Andrew](https://open.spotify.com/track/237a1KEb4rg7YORlb1evKG) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 4:00 |
+| 63 | [Andrew](https://open.spotify.com/track/237a1KEb4rg7YORlb1evKG) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 4:00 |
+| 64 | [Already Gone](https://open.spotify.com/track/7e6K0ZWjHjFJxk2k7aeu2v) | [Taylor Henderson](https://open.spotify.com/artist/40usJiKvNyNHy3GAcNXSWx) | [Burnt Letters](https://open.spotify.com/album/35q6agQrUXirvl16mq8YAa) | 3:10 |
 | 65 | [Don't Believe the Things They Tell You \(They Lie\)](https://open.spotify.com/track/3UKobrVucp8j0sP8Anxqs1) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Hey, I'm Just like You](https://open.spotify.com/album/4tnkPLLedgamtrRCDdpqwX) | 3:05 |
 | 66 | [Villain in Me](https://open.spotify.com/track/446BbuQVXxRVT3RwKnDeab) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Masquerades](https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ) | 3:37 |
 | 67 | [I Know I'm Not the Only One](https://open.spotify.com/track/0kTzTXAzvfx4ojKw8aLgT6) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Hey, I'm Just like You](https://open.spotify.com/album/4tnkPLLedgamtrRCDdpqwX) | 3:00 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 92 | [Hallucinate](https://open.spotify.com/track/1OkWTc4o5N7e78c5lrabPQ) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [Solastalgia](https://open.spotify.com/album/7rwzI6iThLPPhZWL07AgE4) | 3:07 |
 | 93 | [Revolution](https://open.spotify.com/track/1cMkI0yq7RjIjSQA7cqZhQ) | [Lily Donat](https://open.spotify.com/artist/3jRKjQ2Eul9SnJVFfdyTj2) | [I Am Woman \(Original Motion Picture Soundtrack\) \[Inspired by the story of Helen Reddy\]](https://open.spotify.com/album/4Dv1Twt5mHut1IGY3XF6Dq) | 2:51 |
 | 94 | [Diss and Disappoint](https://open.spotify.com/track/1RXFZcTmIoG3BpYobw0eyu) | [flowerkid](https://open.spotify.com/artist/4VFDBAAO80bu4bTcVJ6M8i) | [Diss and Disappoint](https://open.spotify.com/album/7oaEeaY8WIXyHbV72oLHfk) | 2:57 |
-| 95 | [Silver Second](https://open.spotify.com/track/7xQWEbfhhw60STdzIar6dP) | [Theia](https://open.spotify.com/artist/29ADVF7I6YQyY2SGUlzCcB) | [Theia](https://open.spotify.com/album/0JlZC7e9FLo1bgQ0stvEbM) | 3:09 |
-| 96 | [All American Queen](https://open.spotify.com/track/7oV6XYXTKqVdViwzzoJR70) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 3:40 |
+| 95 | [All American Queen](https://open.spotify.com/track/7oV6XYXTKqVdViwzzoJR70) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 3:40 |
+| 96 | [Silver Second](https://open.spotify.com/track/7xQWEbfhhw60STdzIar6dP) | [Theia](https://open.spotify.com/artist/29ADVF7I6YQyY2SGUlzCcB) | [Theia](https://open.spotify.com/album/0JlZC7e9FLo1bgQ0stvEbM) | 3:09 |
 | 97 | [Chasing Daylight](https://open.spotify.com/track/0SympNX0lUgXjbfUL1KO8G) | [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [FAME](https://open.spotify.com/album/3pF80DknR77Qb9gyd1CXM9) | 3:51 |
 | 98 | [Palace](https://open.spotify.com/track/6e3MJw1cAjb1mN2yAVmKZ3) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [Beautiful \(Platinum Edition\)](https://open.spotify.com/album/3XT3rHDWteNpQNhnARN7Ap) | 3:14 |
 | 99 | [Hold Back](https://open.spotify.com/track/7vsyU7jX2M53yOJtCIYSKh) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Run Where the Light Calls](https://open.spotify.com/album/6WHWwuMGt0T2sH2aZKnmiD) | 3:46 |
@@ -112,12 +112,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 102 | [Home Of The Terrified](https://open.spotify.com/track/6hlzVaT8sRQy3kfAYrcEO1) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 3:23 |
 | 103 | [One Thing](https://open.spotify.com/track/1LyS6bH3nN1wtfoNZoe4O9) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [Communication](https://open.spotify.com/album/3ED7XEg0vYJlynJMpbUTSi) | 2:52 |
 | 104 | [Last Girl on Earth](https://open.spotify.com/track/6PPxnLwM1Bzyyo0K2Kf5zK) | [Tristan](https://open.spotify.com/artist/0dxAnY1JAcSuYnBckIDhRv) | [Last Girl on Earth](https://open.spotify.com/album/6MUJP0mwWCuUeG9TgAMm2M) | 3:21 |
-| 105 | [feather](https://open.spotify.com/track/3nUc4j3R64TGkuJ8s7WVuB) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [i hate rollercoasters](https://open.spotify.com/album/0mOtflw3cAMTvFlAjn94A9) | 2:27 |
-| 106 | [Don't Look Back](https://open.spotify.com/track/21cXxyZA06qG6FrO7dsk3l) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Reset \(Deluxe Edition\)](https://open.spotify.com/album/6ggDEFRZIVCxKjgdqe1qxG) | 4:06 |
-| 107 | [4 Better 4 Worse](https://open.spotify.com/track/1VVx8V9T7AKIHqcRqvbdJd) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [Never Waste A Heartbreak](https://open.spotify.com/album/1pDrtSjfeGl78gKFL67OaL) | 2:37 |
+| 105 | [4 Better 4 Worse](https://open.spotify.com/track/1VVx8V9T7AKIHqcRqvbdJd) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [Never Waste A Heartbreak](https://open.spotify.com/album/1pDrtSjfeGl78gKFL67OaL) | 2:37 |
+| 106 | [feather](https://open.spotify.com/track/3nUc4j3R64TGkuJ8s7WVuB) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [i hate rollercoasters](https://open.spotify.com/album/0mOtflw3cAMTvFlAjn94A9) | 2:27 |
+| 107 | [Don't Look Back](https://open.spotify.com/track/21cXxyZA06qG6FrO7dsk3l) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Reset \(Deluxe Edition\)](https://open.spotify.com/album/6ggDEFRZIVCxKjgdqe1qxG) | 4:06 |
 | 108 | [Patchwork Heart](https://open.spotify.com/track/3iIX6xq7tORLwX9UPsMepy) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Reset \(Deluxe Edition\)](https://open.spotify.com/album/6ggDEFRZIVCxKjgdqe1qxG) | 3:55 |
 | 109 | [Lose Myself](https://open.spotify.com/track/5GiQpCHV469WHEbhef3EVB) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Reset \(Deluxe Edition\)](https://open.spotify.com/album/6ggDEFRZIVCxKjgdqe1qxG) | 3:50 |
 | 110 | [die!](https://open.spotify.com/track/3XUqv7Ou5XyrGfbSi15KqU) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm), [Alex Hope](https://open.spotify.com/artist/4vYPr06Tg8byX6r8i2Q3rP) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:13 |
 | 111 | [Love Again](https://open.spotify.com/track/5a1gRWJqyuvuH9jfknO4yd) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [Love Again](https://open.spotify.com/album/7ir4YDxoF1JGzuRvaYSZhF) | 3:05 |
 
-Snapshot ID: `AbUEIgAAAABG/VZmAFzCuH5feIQmeyrr`
+Snapshot ID: `AbUJ/gAAAADzkK/KSiFZdK0qx/rKL9IA`

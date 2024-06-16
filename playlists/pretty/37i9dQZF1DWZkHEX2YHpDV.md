@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 
 > pop punk, emo, post\-hardcore, alt, & more\. Cover: The Story So Far
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,282 likes - 150 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,301 likes - 150 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 70 | [Constant Headache](https://open.spotify.com/track/2xJV9FaGKNMIecMOtjGxX0) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8), [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [Constant Headache](https://open.spotify.com/album/7bjfE4DXQd0lN46FX4wIwK) | 3:01 |
 | 71 | [Not Joking](https://open.spotify.com/track/5UrwXORPNlSUuR0SemqM3O) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [You Are Who You Hang Out With](https://open.spotify.com/album/5ti35p8028PSksErKRW415) | 3:18 |
 | 72 | [Alameda County Fair](https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Alameda County Fair](https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P) | 2:27 |
-| 73 | [Girl Shaped Crater](https://open.spotify.com/track/4vkD9qo574mcQnd9i8nXFT) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Girl Shaped Crater](https://open.spotify.com/album/3UfD0zbowB8b2iEn6wS1Tk) | 3:02 |
+| 73 | [Girl Shaped Crater](https://open.spotify.com/track/4vkD9qo574mcQnd9i8nXFT) | [Games We Play](https://open.spotify.com/artist/05TLaN7QC4nesO4XCQzRT4) | [Girl Shaped Crater](https://open.spotify.com/album/3UfD0zbowB8b2iEn6wS1Tk) | 3:02 |
 | 74 | [Call My Name](https://open.spotify.com/track/5betEwymOveIl6bzmtFLle) | [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo) | [Call My Name](https://open.spotify.com/album/5AbO9dSzvvUI7OX8ttuuIC) | 3:50 |
 | 75 | [better than this](https://open.spotify.com/track/53HsQKvda5AREIgqeCujU9) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [better than this](https://open.spotify.com/album/2VaKXOJ6RcIHwsYyWF6nlK) | 2:58 |
 | 76 | [Cigarettes](https://open.spotify.com/track/3tl9B6c07WZujRH2FP5hKA) | [Rozei](https://open.spotify.com/artist/4KDCtEFisBruCfqakuV4PZ), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Cigarettes](https://open.spotify.com/album/6wpL9zVLAjk8G8mlR6mq4H) | 2:36 |

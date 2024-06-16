@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Diamond Platnumz
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,356 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,441 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 3 | [Chouchou des nanas](https://open.spotify.com/track/56Xr14dI8ugeQcuIvTzusS) | [kulturr](https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4) | [Chouchou des nanas](https://open.spotify.com/album/5Eo9jgJoVDhSArHrMiftFY) | 2:24 |
 | 4 | [ONOME](https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [ONOME](https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg) | 3:17 |
 | 5 | [Luv Again](https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Luv Again](https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv) | 3:40 |
-| 6 | [J'suis plus là \(feat\. Low Jay & Papi\)](https://open.spotify.com/track/56R1EXj3sVlmy2ldgiTeef) | [Titai](https://open.spotify.com/artist/0kTTkHvvtYNtRKnRPyNGhT), [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR), [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6), [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N), [Papi](https://open.spotify.com/artist/1seuCAgNtazhgOk3LaP68H) | [J'suis plus là \(feat\. Low Jay & Papi\)](https://open.spotify.com/album/6m4vIkjGn1K8TOqYF4d90A) | 2:43 |
+| 6 | [J'suis plus là \(feat\. LowJay & Papi\)](https://open.spotify.com/track/56R1EXj3sVlmy2ldgiTeef) | [Titai](https://open.spotify.com/artist/0kTTkHvvtYNtRKnRPyNGhT), [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR), [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6), [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N), [Papi](https://open.spotify.com/artist/1seuCAgNtazhgOk3LaP68H) | [J'suis plus là \(feat\. LowJay & Papi\)](https://open.spotify.com/album/6m4vIkjGn1K8TOqYF4d90A) | 2:43 |
 | 7 | [Only Me](https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Only Me](https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns) | 2:39 |
 | 8 | [Dalilah II](https://open.spotify.com/track/3pU5thrIWedorXzDa3gOjb) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Dalilah II](https://open.spotify.com/album/1axrqyHSrmprv2iwLbClVb) | 2:58 |
 | 9 | [Menteur \(feat\. Ronisia & John Scorp\)](https://open.spotify.com/track/1ktG6CAaqao0wcBvNSLlkS) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [John Scorp](https://open.spotify.com/artist/3ExbC2VW9YPQwTc1It1rvu) | [Menteur \(feat\. Ronisia & John Scorp\)](https://open.spotify.com/album/0XEMqLQn4Egdsh1lZKdpUd) | 2:24 |

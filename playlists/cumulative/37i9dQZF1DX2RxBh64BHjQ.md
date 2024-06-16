@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:2R0CFyeMDiRbfkhkIMbyl1">Cash Cobain</a>
 
-1,789 songs - 3 day 7 hr 55 min
+1,790 songs - 3 day 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -877,6 +877,7 @@
 | [Lick Or Sum](https://open.spotify.com/track/132Yd321hAG0oOz3lbiqig) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Lick Or Sum](https://open.spotify.com/album/2W4jWUc0pUCWdqJFAMvddR) | 2:21 | 2023-05-26 | 2023-08-05 |
 | [LIFE LESSON](https://open.spotify.com/track/7J76km0mxxnV8aZCsFI0IN) | [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L) | [LIFE LESSON](https://open.spotify.com/album/0U6xL9lUzQMSogzT9c4Kp8) | 2:38 | 2024-05-03 | 2024-06-08 |
 | [Life of Sin](https://open.spotify.com/track/1xiUzPAksS3sKRHYRtPtP2) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI) | [Life of Sin](https://open.spotify.com/album/0aLvHpsvtzOJsgGz4r4bYl) | 2:49 | 2022-03-04 | 2022-04-02 |
+| [Life So Crazy](https://open.spotify.com/track/1iKx45Uo9uQc6Kc6NY37Nt) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [Life So Crazy](https://open.spotify.com/album/2kquRyWJgXH7894vcWgM3O) | 1:48 | 2024-06-15 |  |
 | [Light Breeze](https://open.spotify.com/track/3NWOO9SW0Irf9aUUC3om4i) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Light Breeze](https://open.spotify.com/album/0N1u2tCscAuCsNYia6HAM4) | 2:38 | 2022-07-22 | 2022-08-20 |
 | [Lights](https://open.spotify.com/track/1FXvRJJIgwFaxGBGmDpCVh) | [Seddy Hendrinx](https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4) | [Lights](https://open.spotify.com/album/1a8oQ1RHBGXlwepKtMjAfg) | 3:49 | 2022-06-10 | 2022-09-03 |
 | [like bow](https://open.spotify.com/track/49jpdovhmgQGrBUjQqLwLy) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [nights and weekends](https://open.spotify.com/album/39jNh5MndiuFTNjDjuWnDQ) | 1:56 | 2024-03-22 |  |
@@ -1239,7 +1240,7 @@
 | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK) | 2:52 | 2023-04-14 | 2023-08-12 |
 | [Privacy](https://open.spotify.com/track/08427CeuqM3qFTOUioNbNR) | [Lil Goat](https://open.spotify.com/artist/40zuFXVJaYmGFpEXojbUiV), [RALAN STYLES](https://open.spotify.com/artist/5Vjj1sZw4lyTGfbJZ9epbY) | [Privacy](https://open.spotify.com/album/7EF2L8ic78Oo6lrb1swqDd) | 3:12 | 2023-09-22 | 2023-11-11 |
 | [Private Phones](https://open.spotify.com/track/5ub5nP1gGGVgt0J14Gqpf2) | [FBG GOAT](https://open.spotify.com/artist/5hq1b1Dgo4pPwbZV6iobbr), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Private Phones](https://open.spotify.com/album/69WSH1VDMGXIDCZIGANJNh) | 3:02 | 2021-12-25 | 2022-01-08 |
-| [Private Room](https://open.spotify.com/track/35qWJOaWkfaGLuY9Ngn6VV) | [J.P.](https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH) | [Coming Out Party](https://open.spotify.com/album/5vdKOSZqhHsEf9HEMqWidz) | 2:33 | 2024-06-07 |  |
+| [Private Room](https://open.spotify.com/track/35qWJOaWkfaGLuY9Ngn6VV) | [J.P.](https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH) | [Coming Out Party](https://open.spotify.com/album/5vdKOSZqhHsEf9HEMqWidz) | 2:33 | 2024-06-07 | 2024-06-16 |
 | [Problem](https://open.spotify.com/track/7LFN9ERrNzpsVg5BYcJCqt) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [Problem](https://open.spotify.com/album/3OTsLgRdYM4OMNa8U4TaIq) | 2:24 | 2023-03-24 | 2023-04-15 |
 | [Problems \(feat\. Pusha T\)](https://open.spotify.com/track/66WAjLAZq8rkxDTxyqg9bY) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Problems \(feat\. Pusha T\)](https://open.spotify.com/album/289mRXICkON1VGzFVpuabq) | 3:46 | 2024-02-23 | 2024-04-06 |
 | [Product of the Trenches](https://open.spotify.com/track/0udAiP0GuXUI4ntJPX4lkT) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Product of the Trenches](https://open.spotify.com/album/15aptOkjKJrzLFeCTOodEF) | 1:46 | 2022-11-11 | 2023-01-21 |

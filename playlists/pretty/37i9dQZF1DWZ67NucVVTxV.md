@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > Grind day motivation
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,174 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,207 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 11 | [Stubborn \(with Asake\)](https://open.spotify.com/track/4cpxSBb2TRx8WJhQM1Jdpk) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Stubborn \(with Asake\)](https://open.spotify.com/album/6VgHyE8Qnldqdf6Ab8JR0b) | 2:56 |
 | 12 | [WOTOWOTO SEASONING \(feat\. Black Sherif\)](https://open.spotify.com/track/2LP8KwtvzUx1onvXKQCoKR) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [EZIOKWU \(UNCUT\)](https://open.spotify.com/album/59oUX928TvSEtKvCPREKVW) | 2:51 |
 | 13 | [Tonic No Lime \- Remix](https://open.spotify.com/track/44iABFwPsdM9jVxKojQrw5) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL), [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX) | [Tonic No Lime \(Remix\)](https://open.spotify.com/album/6ad5OgTWoLvk1ELlu01Tu5) | 3:03 |
-| 14 | [Alright \(feat\. MohBad & HADURAH\)](https://open.spotify.com/track/7CxmcGj4sXX9ZhjGUgOb3f) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa), [HADURAH](https://open.spotify.com/artist/4w8lSsts1Kw64Rzp1ItXco) | [Alright \(feat\. MohBad & HADURAH\)](https://open.spotify.com/album/0MLdJT6OYklHVHbX6hLhDi) | 2:54 |
+| 14 | [Alright](https://open.spotify.com/track/7CxmcGj4sXX9ZhjGUgOb3f) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa), [HADURAH](https://open.spotify.com/artist/4w8lSsts1Kw64Rzp1ItXco) | [Alright](https://open.spotify.com/album/0MLdJT6OYklHVHbX6hLhDi) | 2:54 |
 | 15 | [Billions](https://open.spotify.com/track/06KTlwAvk8ioxuSpHZISoc) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Billions](https://open.spotify.com/album/2BwLuz9L140VU4vu1bMvV2) | 3:44 |
 | 16 | [Therapist](https://open.spotify.com/track/0EHJsg3FsmyksqKx3TOWoI) | [Ajesings](https://open.spotify.com/artist/0ZWskTAdA6A0Y83znKqSDF) | [Therapist](https://open.spotify.com/album/2dzJKHfizbfzvq6be269eK) | 2:32 |
 | 17 | [Under The Canopy](https://open.spotify.com/track/1QCtwTegsRR8XtgaMpoQLk) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Under The Canopy](https://open.spotify.com/album/7c6oqqAN19VuIGt7KsKf9t) | 2:51 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-896 songs - 2 day 5 hr 24 min
+898 songs - 2 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [500天](https://open.spotify.com/track/3tHqubDUl1OHGgGz87YreF) | [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h) | [500天](https://open.spotify.com/album/4qayKoVULYGmEcyTZNhHqY) | 4:00 | 2022-02-26 | 2022-09-18 |
 | [A Love Before Time](https://open.spotify.com/track/2fgDCzvKVb5G47zdsOzQW5) | [CoCo Lee](https://open.spotify.com/artist/3ioHf138TiMxYRCWmC8yJX) | [Promise](https://open.spotify.com/album/45I9zOLkpyzEBuN2wodeyF) | 3:37 | 2023-07-07 | 2023-07-09 |
 | [A Sky Full of Stars](https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:27 | 2023-11-12 | 2023-11-20 |
+| [ABCD](https://open.spotify.com/track/0V2passWyAXnON67kfAj7y) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 2:42 | 2024-06-15 |  |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-12-05 | 2022-05-28 |
 | [Aegean](https://open.spotify.com/track/2RsGjBGFCB2LygfIqEEpsz) | [Solkatt](https://open.spotify.com/artist/1G79HjKLqjevxhllvfICNl) | [Journey](https://open.spotify.com/album/5FZheturYFnPrzndRzmL9j) | 3:50 | 2024-06-13 | 2024-06-15 |
 | [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 | 2022-08-23 | 2023-07-08 |
@@ -214,6 +215,7 @@
 | [Hold Me Tight](https://open.spotify.com/track/18U6DzjWgoMMYg14kJxCMu) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ), [張粹方](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l) | [Hold Me Tight](https://open.spotify.com/album/72vVTzqoBOdbJDkZZmVmgd) | 4:06 | 2022-01-19 | 2022-02-04 |
 | [Hold My Hand](https://open.spotify.com/track/1c2hJSwcCfoPEw1su83Sw0) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Top Gun: Maverick \(Music From The Motion Picture\)](https://open.spotify.com/album/3tjIKRAPBy5Qu4z8F5HmBz) | 3:45 | 2022-05-30 | 2022-08-07 |
 | [Hold On](https://open.spotify.com/track/1nahzW3kfMuwReTka28tH5) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:50 | 2021-03-27\* | 2021-06-25 |
+| [Hold On](https://open.spotify.com/track/580BvW3DyUNoYFgQgoD2GI) | [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE), [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [Hold On](https://open.spotify.com/album/7ygCROw5jFHKGpdEVodz4v) | 3:00 | 2024-06-15 |  |
 | [Holly Jolly Christmas](https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 1:59 | 2021-12-26 | 2022-12-28 |
 | [Holssi](https://open.spotify.com/track/0UTtK6hregIBOsefavRI26) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [The Winning](https://open.spotify.com/album/08CvAj58nVMpq1Nw7T6maj) | 3:10 | 2024-02-22 | 2024-02-26 |
 | [Honest \(feat\. Don Toliver\)](https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Honest](https://open.spotify.com/album/2luYA3MBCKI7SfK3K0U3xf) | 3:13 | 2022-05-01 | 2022-05-08 |
@@ -443,7 +445,7 @@
 | [SPECIALZ](https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SPECIALZ](https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc) | 3:58 | 2023-09-02 | 2023-12-03 |
 | [Spicy](https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [MY WORLD \- The 3rd Mini Album](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) | 3:17 | 2023-05-10 | 2023-07-04 |
 | [SPOT!](https://open.spotify.com/track/1SS0WlKhJewviwEDZ6dWj0) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [SPOT!](https://open.spotify.com/album/3K3C9JjwCGQAzj3Bu7BUaI) | 2:47 | 2024-04-27 |  |
-| [Spring Snow](https://open.spotify.com/track/0tCr7DoUBSdtdSl0rxZmct) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Lovely Runner, Pt\. 8 \(Original Soundtrack\)](https://open.spotify.com/album/69sGrzymuW18usgEvLnvU1) | 3:21 | 2024-05-31 |  |
+| [Spring Snow](https://open.spotify.com/track/0tCr7DoUBSdtdSl0rxZmct) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Lovely Runner, Pt\. 8 \(Original Soundtrack\)](https://open.spotify.com/album/69sGrzymuW18usgEvLnvU1) | 3:21 | 2024-05-31 | 2024-06-16 |
 | [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 | 2023-11-04 | 2024-01-11 |
 | [Stars Align \(with Jolin Tsai\)](https://open.spotify.com/track/0xDQPgYdTQZCn92Ee1W0WW) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [Stars Align \(with Jolin Tsai\)](https://open.spotify.com/album/3NaSfby8UoOmwbNKFlo1zu) | 2:41 | 2021-04-26 | 2021-07-14 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/567e29TDzLwZwfDuEpGTwo) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:21 | 2023-01-21 | 2024-06-12 |
@@ -869,7 +871,7 @@
 | [逆光](https://open.spotify.com/track/78MS9OT9Flm2V78fhTw4rk) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:57 | 2022-08-22 | 2022-09-19 |
 | [逆夢](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [逆夢](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 | 2022-02-28 | 2022-04-24 |
 | [這世界那麼多人 \- 電影《我要我們在一起》主題曲](https://open.spotify.com/track/7uupMVckq9ta7ei9ghX8q0) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [這世界那麼多人 \(電影《我要我們在一起》主題曲\)](https://open.spotify.com/album/5FnNKdAIdmlLIabRoAuL90) | 4:45 | 2021-05-14 | 2021-05-21 |
-| [這麼多年 \- 電影《我想和你在一起》插曲](https://open.spotify.com/track/5NykvdFrH8mejmohWZvIWo) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [這麼多年 \- 電影《我想和你在一起》插曲](https://open.spotify.com/album/2FNcaYMCTEtkEOugvt8PtG) | 4:12 | 2024-06-13 |  |
+| [這麼多年 \- 電影《我想和你在一起》插曲](https://open.spotify.com/track/5NykvdFrH8mejmohWZvIWo) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [這麼多年 \- 電影《我想和你在一起》插曲](https://open.spotify.com/album/2FNcaYMCTEtkEOugvt8PtG) | 4:12 | 2024-06-13 | 2024-06-16 |
 | [遇見](https://open.spotify.com/track/3xJK8ywApYVEYIDhymYMC6) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [The Moment](https://open.spotify.com/album/6CGJuQoWMkq1rmStrYbRzr) | 3:29 | 2023-01-17 | 2023-03-02 |
 | [運轉人生 \- 影集《華麗計程車行》插曲](https://open.spotify.com/track/30slz6D2PtbwDimGJaEVsH) | [邱軍](https://open.spotify.com/artist/5LKh6CH11tVjyXpxz2NjFW) | [情歌手](https://open.spotify.com/album/2Oqw9GtKcsHbjbL7OXNpO5) | 3:28 | 2024-05-22 |  |
 | [過完冬季](https://open.spotify.com/track/15ELObT3DaSGLdtAfwZqZi) | [CoCo Lee](https://open.spotify.com/artist/3ioHf138TiMxYRCWmC8yJX) | [DI\-DA\-DI暗示](https://open.spotify.com/album/1hW9QA6WJxiH8VqxSa4KTz) | 5:23 | 2023-07-07 | 2023-07-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMxIh88NH1N.md) - [plain]
 
 > ¡Al cien para un buen ejercicio!
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,822 likes - 150 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,875 likes - 150 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

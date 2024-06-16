@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes & Ulises Bueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,749 likes - 64 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,069 likes - 64 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Intento \- En Vivo](https://open.spotify.com/track/0YI5vG7XmhB7IAcMJZjvS2) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Intento \(En Vivo\)](https://open.spotify.com/album/3UUuCRlQaX3HWZ1HkVuKpb) | 3:47 |
-| 2 | [Mira Como Esta La Vagancia Cuartetera / A Decirme Que \- En Vivo Luna Park](https://open.spotify.com/track/10nFDR4YGrQa4QNMNZTuaM) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B), [Pablo Lescano](https://open.spotify.com/artist/6pztqmUqWADMZQKrrmGWGx) | [Mira Como Esta La Vagancia Cuartetera / A Decirme Que \(En Vivo Luna Park\)](https://open.spotify.com/album/2qQpDG3fsQe4U83k6WsXFs) | 4:04 |
+| 2 | [A decirme qué \- En Vivo Luna Park](https://open.spotify.com/track/10nFDR4YGrQa4QNMNZTuaM) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B), [Pablo Lescano](https://open.spotify.com/artist/6pztqmUqWADMZQKrrmGWGx) | [A decirme qué \(En Vivo Luna Park\)](https://open.spotify.com/album/2qQpDG3fsQe4U83k6WsXFs) | 4:04 |
 | 3 | [Pobre Corazón](https://open.spotify.com/track/1gpayq8BQ8Z1AZSCHUeZOC) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [Pobre Corazón](https://open.spotify.com/album/1IV4edNM4eYtHUOieGtIj9) | 3:18 |
 | 4 | [Costumbres \- Vivo](https://open.spotify.com/track/6HT88WDVwEJiHEbPuQ5XcB) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Costumbres \(Vivo\)](https://open.spotify.com/album/5bF1CFdbRtYvsCbVro137h) | 2:13 |
 | 5 | [El Humo del Cigarrillo \- En Vivo](https://open.spotify.com/track/1d3bKbNVwO3YgXPAi3YrI9) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [Raul Ramirez](https://open.spotify.com/artist/5LN3tGphckDuG0irNsiAs0) | [Sin Miedo: Un Tiro \- Raúl Ramirez \(Sessiones con Público\) \[En Vivo\]](https://open.spotify.com/album/6EwZ8CnSFgD8IKvwbhToc0) | 1:56 |

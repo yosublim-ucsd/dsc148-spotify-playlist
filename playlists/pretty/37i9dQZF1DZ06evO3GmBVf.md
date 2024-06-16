@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 
 > This Is Lefty Sm\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,590 likes - 51 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,725 likes - 51 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 | 5 | [Qué Bonita](https://open.spotify.com/track/6sKHf7XZWBHQlShNLNm73F) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Qué Bonita](https://open.spotify.com/album/3YwzuRRgvGIUKxNbbB2xP8) | 3:50 |
 | 6 | [Par de Dosis](https://open.spotify.com/track/52k464DnpIm5sVQNEY76PN) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Par de Dosis](https://open.spotify.com/album/1zv3vTA4S3DeHHpI9J34O2) | 3:51 |
 | 7 | [Mexicano](https://open.spotify.com/track/3Jm4jlq8Tl9ejmyVBwmSQ2) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mexicano](https://open.spotify.com/album/4n56qxAOz6RDbCR4BE73rt) | 2:54 |
-| 8 | [El Baisón \(feat\. Toser One\)](https://open.spotify.com/track/6WwCuYWEH32z0tn8mSN3MY) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [El Baisón \(feat\. Toser One\)](https://open.spotify.com/album/0lQOsBHEf9EAm0j8hlbFYr) | 3:39 |
-| 9 | [Diganle](https://open.spotify.com/track/0j9r3PY022HrFfOmQgGZvr) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Diganle](https://open.spotify.com/album/6UIzmCyfkz90JlYM9Xeenr) | 3:15 |
+| 8 | [Diganle](https://open.spotify.com/track/0j9r3PY022HrFfOmQgGZvr) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Diganle](https://open.spotify.com/album/6UIzmCyfkz90JlYM9Xeenr) | 3:15 |
+| 9 | [El Baisón \(feat\. Toser One\)](https://open.spotify.com/track/6WwCuYWEH32z0tn8mSN3MY) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [El Baisón \(feat\. Toser One\)](https://open.spotify.com/album/0lQOsBHEf9EAm0j8hlbFYr) | 3:39 |
 | 10 | [Encerrado En Mi Mundo](https://open.spotify.com/track/6B8higk6pidzE5DQbBGOzy) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Encerrado En Mi Mundo](https://open.spotify.com/album/5YvOq1cAoJNiHkLLL2qgX9) | 3:58 |
 | 11 | [Pa' Andar Risueño](https://open.spotify.com/track/4PXt1De2NogcDlcDkf9jJa) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Pa' Andar Risueño](https://open.spotify.com/album/0cPYwfMhD0H0RVwOLiNM13) | 3:36 |
 | 12 | [Vuela](https://open.spotify.com/track/1QXwpAhLrrHsCKdtiHMFCt) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Vuela](https://open.spotify.com/album/0X0f1u386z18IE4KK2rdkZ) | 3:37 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 | 50 | [Orgullo Café](https://open.spotify.com/track/6beXs35DoHlGfudHu071EC) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Orgullo Café](https://open.spotify.com/album/3pTN4HzDOG1tBzHWKSnvDC) | 3:33 |
 | 51 | [Click Clack](https://open.spotify.com/track/0YCWXhQ8rSi03cHRD4UTm6) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Chain Trackz](https://open.spotify.com/artist/58HXUsUwpjyLNpaKs4gMvM) | [Click Clack](https://open.spotify.com/album/5rHtSYUHWTm6Jr76MVeGAE) | 2:58 |
 
-Snapshot ID: `Zmo2gAAAAACPo6orXXPFkuXNtcC9T35G`
+Snapshot ID: `ZmuIAAAAAABFq6Ry3ccRvh3hPidicyMq`

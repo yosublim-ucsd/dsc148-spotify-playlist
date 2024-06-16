@@ -419,6 +419,24 @@
     },
     {
       "album": {
+        "name": "May Death Never Stop You",
+        "url": "https://open.spotify.com/album/1SIpLwZu1R69coxKMH06kw"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "date_added": "2024-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205920,
+      "name": "Helena",
+      "url": "https://open.spotify.com/track/3ZaS7Bcz9tpFIjfst63tSw"
+    },
+    {
+      "album": {
         "name": "I Brought You My Bullets, You Brought Me Your Love",
         "url": "https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605"
       },
@@ -812,7 +830,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 211733,
       "name": "Under Pressure",
       "url": "https://open.spotify.com/track/4j08A1efdJcVINBHSmQKPS"

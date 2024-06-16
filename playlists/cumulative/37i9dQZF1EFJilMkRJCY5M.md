@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5MvQUYjD2Ap5Ga6pD5YN9g">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-119 songs - 6 hr 12 min
+120 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [The Truth](https://open.spotify.com/track/1iEBtGIwux7Z91TkCzbDV7) | [Eloise Alterman](https://open.spotify.com/artist/6fwUdydSdIHu9NHHTCDYc0) | [The Truth](https://open.spotify.com/album/7uTgWHct2uQraEWN3IXLuv) | 3:03 | 2022-05-29 |  |
 | [There Goes My Heart](https://open.spotify.com/track/3PBjyEIhY26g5wByX9lDBt) | [Liz Huett](https://open.spotify.com/artist/4wh5xUIEU8YlGPXZHV6klA) | [There Goes My Heart](https://open.spotify.com/album/7h2JwEdU03S7OoTasIdhWx) | 2:32 | 2022-05-29 |  |
 | [Think of You](https://open.spotify.com/track/7Kv6dG9sVPnJuKmCQdrlUs) | [Thimlife](https://open.spotify.com/artist/5hlGugY24gHs0FqG05AgN0), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Think of You](https://open.spotify.com/album/4sdfdyZcABEAT0dm6BjAHa) | 3:25 | 2022-05-29 |  |
+| [This Is Where I Leave You](https://open.spotify.com/track/0jtRYpwMmDV5pypwHYksSw) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z) | [In My Imagination](https://open.spotify.com/album/6GVdXBg3rFTbg3fB1MJ7pa) | 2:39 | 2024-06-15 |  |
 | [This Side Of The Dirt](https://open.spotify.com/track/2fsYoZ2E7LNRkNqCH5FuMo) | [Hunter Brothers](https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT) | [This Side Of The Dirt](https://open.spotify.com/album/7zkixgWE2b1OoR3L8UClPZ) | 3:21 | 2023-12-13 |  |
 | [Thought This Through](https://open.spotify.com/track/42yqibM1tXoZoYGybdIWpr) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Backseats and Burnt CDs](https://open.spotify.com/album/1OqREMCBqRnAvoe86lT30y) | 2:52 | 2022-05-29 |  |
 | [Thought You Were](https://open.spotify.com/track/4WZ87h5SBuHRWiRg5wLLr9) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Thought You Were](https://open.spotify.com/album/1AQDa6Iua2M8t8lT1j3Yc4) | 3:06 | 2024-05-17 |  |

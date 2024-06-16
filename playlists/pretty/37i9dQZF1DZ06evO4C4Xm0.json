@@ -1,12 +1,12 @@
 {
   "description": "This is Brian Eno. The essential tracks, all in one playlist.",
-  "num_followers": 42472,
+  "num_followers": 42485,
   "original_name": "This Is Brian Eno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAABbX1gaHr8qpwvYzUV+PAZw",
+  "snapshot_id": "ZmuIAAAAAABesfF+o8JQlyHwlm53NPAj",
   "tracks": [
     {
       "added_at": null,
@@ -111,18 +111,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reflection (Excerpt)",
-        "url": "https://open.spotify.com/album/03BnBPo40oPD9AvYIkURet"
+        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
+        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
       },
       "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Eugene Bowen",
+          "url": "https://open.spotify.com/artist/06MankK2DQyv2fsv6F2XYh"
+        },
         {
           "name": "Brian Eno",
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 260834,
-      "name": "Reflection - Excerpt",
-      "url": "https://open.spotify.com/track/03CZYhKdRRSVurRPD3GWbT"
+      "duration_ms": 89813,
+      "name": "Steal Away - Remastered 2004",
+      "url": "https://open.spotify.com/track/5tAb6fBqO5zgUKlhqMyxfr"
     },
     {
       "added_at": null,
@@ -139,6 +147,22 @@
       "duration_ms": 166560,
       "name": "Signals - Remastered 2005",
       "url": "https://open.spotify.com/track/5Q5MFVjUWVNgb7XBerPdbQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reflection (Excerpt)",
+        "url": "https://open.spotify.com/album/03BnBPo40oPD9AvYIkURet"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 260834,
+      "name": "Reflection - Excerpt",
+      "url": "https://open.spotify.com/track/03CZYhKdRRSVurRPD3GWbT"
     },
     {
       "added_at": null,
@@ -195,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Pearl",
-        "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
+        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
+        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
       },
       "artists": [
         {
@@ -208,9 +232,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 292213,
-      "name": "Against The Sky - 2005 Digital Remaster",
-      "url": "https://open.spotify.com/track/50mwGp3PgKoZldhBvfy2cf"
+      "duration_ms": 175746,
+      "name": "Above Chiangmai - Remastered 2004",
+      "url": "https://open.spotify.com/track/0ycQOJSAh2HXg1DaKLGoRX"
     },
     {
       "added_at": null,
@@ -235,42 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
-        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 175746,
-      "name": "Above Chiangmai - Remastered 2004",
-      "url": "https://open.spotify.com/track/0ycQOJSAh2HXg1DaKLGoRX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 244181,
-      "name": "Always Returning - Remastered 2005",
-      "url": "https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Pearl",
         "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
       },
@@ -291,6 +279,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 244181,
+      "name": "Always Returning - Remastered 2005",
+      "url": "https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
+        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 133706,
+      "name": "The Chill Air - Remastered 2004",
+      "url": "https://open.spotify.com/track/1ijeMou08IoCT7ZhjPvu42"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Secret Life",
         "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
@@ -304,9 +328,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 304111,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/0fzYA55s7e6OF1EafxOxaN"
+      "duration_ms": 143133,
+      "name": "Pause",
+      "url": "https://open.spotify.com/track/0RLkIJSQ2gMSZNhesO44Cx"
     },
     {
       "added_at": null,
@@ -380,9 +404,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 143133,
-      "name": "Pause",
-      "url": "https://open.spotify.com/track/0RLkIJSQ2gMSZNhesO44Cx"
+      "duration_ms": 304111,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/0fzYA55s7e6OF1EafxOxaN"
     },
     {
       "added_at": null,
@@ -611,26 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
-        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 204680,
-      "name": "Among Fields Of Crystal - Remastered 2004",
-      "url": "https://open.spotify.com/track/1Z2OQ4XtLwrhQKGS9BA4wi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drums Between The Bells",
         "url": "https://open.spotify.com/album/3jOnjiEr8GKLRXfyUajpo2"
       },
@@ -687,22 +691,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
-        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
+        "name": "Ambient 1: Music For Airports (Remastered 2004)",
+        "url": "https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa"
       },
       "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        },
         {
           "name": "Brian Eno",
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 230853,
-      "name": "Not Yet Remembered - Remastered 2004",
-      "url": "https://open.spotify.com/track/1kxf6rOZTJh2rVMIqkMpFm"
+      "duration_ms": 578466,
+      "name": "2/2 - Remastered 2004",
+      "url": "https://open.spotify.com/track/3QpN3dazIcMNqru0L1qLMt"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
       "duration_ms": 148293,
       "name": "An Echo Of Night - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/1PoRGnn6KqdOnY22gBVrzw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ambient 1: Music For Airports (Remastered 2004)",
-        "url": "https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 578466,
-      "name": "2/2 - Remastered 2004",
-      "url": "https://open.spotify.com/track/3QpN3dazIcMNqru0L1qLMt"
     },
     {
       "added_at": null,
@@ -799,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Music For Films",
+        "url": "https://open.spotify.com/album/1ISvymGGbUmHY01eJ8EF07"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 129660,
+      "name": "Strange Light - Remastered 2005",
+      "url": "https://open.spotify.com/track/4aj2jVlgfEhisRdGdxdcoU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Pearl",
         "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
       },
@@ -815,22 +815,6 @@
       "duration_ms": 284133,
       "name": "Late October - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/2Ef5Vgw0ShuKGoNfO6Nrof"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music For Films",
-        "url": "https://open.spotify.com/album/1ISvymGGbUmHY01eJ8EF07"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 129660,
-      "name": "Strange Light - Remastered 2005",
-      "url": "https://open.spotify.com/track/4aj2jVlgfEhisRdGdxdcoU"
     },
     {
       "added_at": null,
@@ -867,6 +851,26 @@
       "duration_ms": 140653,
       "name": "Brave Are the Waves",
       "url": "https://open.spotify.com/track/6kKeHrBbkc3atBtbVHrIVq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Pearl",
+        "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 211253,
+      "name": "The Silver Ball - 2005 Digital Remaster",
+      "url": "https://open.spotify.com/track/2FA6ZLzJ2f5ZhX1qzoGfWA"
     }
   ],
   "unique_name": "This Is Brian Eno",

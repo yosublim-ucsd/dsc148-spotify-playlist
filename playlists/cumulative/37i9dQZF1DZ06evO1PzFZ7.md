@@ -2,9 +2,9 @@
 
 ### [This Is Ángela Aguilar](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1PzFZ7)
 
-> This Is Ángela Aguilar\. Los temas esenciales, todos en una lista.
+> This is Ángela Aguilar\. The essential tracks, all in one playlist.
 
-112 songs - 6 hr 43 min
+113 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Fruta Prohibida](https://open.spotify.com/track/5SXHKeVmlPxpP5jNkOXo1B) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Que No Se Apague La Música](https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl) | 2:53 | 2023-03-10 | 2024-01-08 |
 | [Fue un Placer Conocerte](https://open.spotify.com/track/1tR9gMkQ507oO0XTcMweQj) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Fue un Placer Conocerte: Gracias Juan Gabriel, Vol\. 1](https://open.spotify.com/album/6HyjP6pRKQtfkeqHkuZD3T) | 3:30 | 2024-01-06 |  |
 | [Fue un Placer Conocerte](https://open.spotify.com/track/2keN15BswHOxejdRAaMT8s) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Fue un Placer Conocerte: Gracias Juan Gabriel, Vol\. 1](https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV) | 3:30 | 2023-03-10 | 2024-01-07 |
+| [Gotitas Saladas](https://open.spotify.com/track/5Sas859pm039G13F5wEuyK) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Gotitas Saladas](https://open.spotify.com/album/3qm5AFyntlDrD2NbcVGGdU) | 3:23 | 2024-06-16 |  |
 | [Inevitable](https://open.spotify.com/track/0Je044p1uanai2hpiVY3ax) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7) | 2:58 | 2024-01-05 |  |
 | [Inevitable](https://open.spotify.com/track/293y4eczsVhfT5dbjvhUNz) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 2:58 | 2023-03-10 | 2024-01-06 |
 | [Invítame A Un Café](https://open.spotify.com/track/5gv6rmOzIQkC6CHbelz60d) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Invítame A Un Café](https://open.spotify.com/album/6c8d7PNLIYu4Mfyf6J9SK5) | 3:07 | 2023-06-17 |  |

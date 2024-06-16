@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTujiC7wfofZ.md) - [plain]
 
 > All the indie disco platters that matter.
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,575 likes - 250 songs - 16 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,616 likes - 250 songs - 16 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

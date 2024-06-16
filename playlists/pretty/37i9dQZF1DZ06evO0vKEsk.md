@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 
 > This is Bruna Karla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,359 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,372 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 | 28 | [Aleluya](https://open.spotify.com/track/7EOxhfDRdKdLknVVuyKKQ4) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS) | [Aleluya](https://open.spotify.com/album/58TuxVBW2c8guPlnGptw9c) | 5:34 |
 | 29 | [Lugar Santo](https://open.spotify.com/track/6YTm0iqTuVkiAA1kQ57e1w) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Siga em Frente](https://open.spotify.com/album/1IzXIdVD5bF5GYpkVwpfit) | 4:13 |
 | 30 | [Deus Está Cuidando de Você](https://open.spotify.com/track/3BXYxSllo4ZsW2yeeSi8pQ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Deus Está Cuidando de Você](https://open.spotify.com/album/7Koc2gllVK7SbTtBymCFjz) | 4:28 |
-| 31 | [Deus Tremendo](https://open.spotify.com/track/7JNDE2MxMjsBq1Bsy4M4EK) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Alegria Real](https://open.spotify.com/album/6Rn8MMSrj193ofYERw8Osp) | 5:08 |
-| 32 | [Toca\-me, Pai](https://open.spotify.com/track/0W9Sjpu4N5dTq4LsvDNo18) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Como Águia.](https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH) | 4:38 |
+| 31 | [Toca\-me, Pai](https://open.spotify.com/track/0W9Sjpu4N5dTq4LsvDNo18) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Como Águia.](https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH) | 4:38 |
+| 32 | [Deus Tremendo](https://open.spotify.com/track/7JNDE2MxMjsBq1Bsy4M4EK) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Alegria Real](https://open.spotify.com/album/6Rn8MMSrj193ofYERw8Osp) | 5:08 |
 | 33 | [Recompensa \(Ao Vivo\)](https://open.spotify.com/track/73DqTcyWoULHoOjmsjYFhd) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Recompensa \(Ao Vivo\)](https://open.spotify.com/album/0vQ7L4VXrnkUnQ7B8nmEdx) | 3:51 |
 | 34 | [Com os Olhos da Fé](https://open.spotify.com/track/5ffnMtzwfY0noBToWK8X0J) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Com os Olhos da Fé](https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk) | 4:47 |
 | 35 | [Vento do Espírito](https://open.spotify.com/track/576nbIQo0FL0pVII6YrzYe) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Vento do Espírito](https://open.spotify.com/album/1o8OkaZKl1pTCMrWlDHxEp) | 4:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 | 49 | [É Jesus \(Ao Vivo\)](https://open.spotify.com/track/7nHPvZM13ckEpxauxF505o) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [É Jesus \(Ao Vivo\)](https://open.spotify.com/album/4UWpM2Rhi9trDC9jevaMl9) | 7:31 |
 | 50 | [Levantamos Tu Nombre](https://open.spotify.com/track/29xdoA7Qz83rm5D0GOhbED) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Levantamos Tu Nombre](https://open.spotify.com/album/2wPoovI5GUgIiOkRQETfde) | 5:50 |
 
-Snapshot ID: `Zmo2gAAAAADODTClm+wGcbpJ+aDYCFoL`
+Snapshot ID: `ZmuIAAAAAACkbFRL3ProCBeJrdI2OIj4`

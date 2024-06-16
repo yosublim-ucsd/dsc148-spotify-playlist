@@ -24,7 +24,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 257493,
       "name": "A$AP Ferg",
       "url": "https://open.spotify.com/track/4EbULzyWMuFx94aoIY1MlJ"
@@ -220,7 +220,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 219816,
       "name": "Car Sick (feat. NAV & Metro Boomin)",
       "url": "https://open.spotify.com/track/4xisLMFhYADhKnkOCCV4Am"
@@ -356,10 +356,36 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 204855,
       "name": "Favorite Lady (with NAV & Cash Cobain)",
       "url": "https://open.spotify.com/track/6jUKHPysxKgQI3YRqGGCLc"
+    },
+    {
+      "album": {
+        "name": "Favorite Lady (with NAV & Cash Cobain)",
+        "url": "https://open.spotify.com/album/78adtlPeGeYd1Am0o9dNz7"
+      },
+      "artists": [
+        {
+          "name": "Diany Dior",
+          "url": "https://open.spotify.com/artist/4A0F4D2N7CtAVHPNUHftem"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "date_added": "2024-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204935,
+      "name": "Favorite Lady (with NAV & Cash Cobain)",
+      "url": "https://open.spotify.com/track/4DCvMCGfSBMoNwvpKqtCpt"
     },
     {
       "album": {
@@ -396,7 +422,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 133773,
       "name": "Foreign (feat. Nav)",
       "url": "https://open.spotify.com/track/3CTOc6QGsoaxwaPJYFxNsG"
@@ -596,7 +622,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 195000,
       "name": "Kuko\u010d (feat. NAV)",
       "url": "https://open.spotify.com/track/188Y8ny5w1GArwFjXE2arA"
@@ -636,7 +662,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 194843,
       "name": "Leaders (feat. NAV)",
       "url": "https://open.spotify.com/track/4D7NrSeqkTarBrJ80b2sBc"
@@ -702,7 +728,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 156518,
       "name": "Make It Right Back",
       "url": "https://open.spotify.com/track/6AyXdUH0gnVrJFQb7L7rkI"
@@ -1026,7 +1052,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 193575,
       "name": "Pull Up (feat. NAV)",
       "url": "https://open.spotify.com/track/76vviJBqmRdMMb9u9npgfj"

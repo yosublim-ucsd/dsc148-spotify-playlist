@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Foto: Tiago PZK
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,822 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,907 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 7 | [IMAN \(Two Of Us\)](https://open.spotify.com/track/3sra6aEWWDXUiy46fWQobH) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [IMAN \(Two Of Us\)](https://open.spotify.com/album/6wDJCPLe4cheYx7dWJQavb) | 2:02 |
 | 8 | [JET\_Set.mp3](https://open.spotify.com/track/4AINuhTujSI5LmfO7sJRA8) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [JET\_Set.mp3](https://open.spotify.com/album/3UQ9Yd5Rsz6McPImmr3jWW) | 2:25 |
 | 9 | [tinta 90](https://open.spotify.com/track/4eiXf3HZDlrMxDNB1ahhpa) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [un mechón de pelo](https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga) | 2:46 |
-| 10 | [The Door](https://open.spotify.com/track/4yq8Oc51K2mgLfo9BjU3Rr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [The Door](https://open.spotify.com/album/7KZQ4RX8Eqcx36FAWgCpx2) | 3:32 |
+| 10 | [The Door \(Tiago PZK Version\)](https://open.spotify.com/track/4yq8Oc51K2mgLfo9BjU3Rr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [The Door \(Tiago PZK Version\)](https://open.spotify.com/album/7KZQ4RX8Eqcx36FAWgCpx2) | 3:32 |
 | 11 | [EXTRA](https://open.spotify.com/track/3UM7hJZDNLVmTriIcWBzZ8) | [K4OS](https://open.spotify.com/artist/0jwhC8DIMe1p89BXvsMnYj) | [EXTRA](https://open.spotify.com/album/2WphhHzujB2jSv4b4UccPM) | 2:31 |
 | 12 | [M.A.I](https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [111](https://open.spotify.com/album/338cbfABt3duRORfvNeqLT) | 3:04 |
 | 13 | [Ojos Verdes](https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Ojos Verdes](https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk) | 2:22 |

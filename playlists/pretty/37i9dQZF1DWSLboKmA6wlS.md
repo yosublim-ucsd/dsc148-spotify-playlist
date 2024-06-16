@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: Pentor Jeerapat\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,351 likes - 65 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,352 likes - 65 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

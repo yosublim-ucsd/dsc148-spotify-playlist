@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AcHDy.md) - [plain]
 
 ### [This Is Rina Sawayama](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1AcHDy)
 
-> This Is Rina Sawayama\. Los temas esenciales, todos en una lista.
+> This is Rina Sawayama\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,542 likes - 36 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,548 likes - 36 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AcHDy.md) - [plain]
 | 35 | [Dance In The Dark \- Spotify Singles](https://open.spotify.com/track/19aAGYe7PlYf6yfUrDGykW) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Dance In The Dark \(Spotify Singles\)](https://open.spotify.com/album/1ibvZu6jF8lo8BhLslS0SX) | 3:45 |
 | 36 | [Take Me as I Am](https://open.spotify.com/track/1BIbxPcsSNOzXXDKawSwCi) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [RINA](https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w) | 3:25 |
 
-Snapshot ID: `Zmo2gAAAAACXXUOT3EfJNUSIEhQATmVn`
+Snapshot ID: `ZmuIAAAAAAAREfI2CHfxNhLK8wu29ZhK`

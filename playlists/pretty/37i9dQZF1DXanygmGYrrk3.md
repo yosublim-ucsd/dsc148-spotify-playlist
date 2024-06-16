@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanygmGYrrk3.md) - [plain]
 
 > Tus canciones favoritas de Música Mexicana, all in one place! Cover: Carin Leon
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,050 likes - 150 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,256 likes - 150 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

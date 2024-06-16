@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Mi Amigo Invencible en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,282 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,293 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 32 | [Música Gigante \(Anti\-Anti\)](https://open.spotify.com/track/0SgoBed7vjSKnYecYl5rOw) | [llilli](https://open.spotify.com/artist/4QXDj9kt5lBanHAtDi6yK0) | [Música Gigante \(Anti\-Anti\)](https://open.spotify.com/album/7Dh00B989MlLpQUpLxyabG) | 4:53 |
 | 33 | [Dos Cometas](https://open.spotify.com/track/3cbe5jMgOGY4hd8zc28pmX) | [Me Acuerdo de Todo](https://open.spotify.com/artist/0wrKWOH2hVMJ4mRAYkRz1h) | [Lo que Dejamos al Irnos](https://open.spotify.com/album/5rdw1wPeBNPTbMpn0w8spZ) | 4:30 |
 | 34 | [Despertar](https://open.spotify.com/track/1x9AtEGJN37IFreQvwIXfO) | [L!mbus](https://open.spotify.com/artist/4DOAYcnLuG4D09awGDzAGS) | [Despertar](https://open.spotify.com/album/4XgI8scKhmesadVwD0MiWQ) | 3:03 |
-| 35 | [CRISTAL](https://open.spotify.com/track/6Gfkt8xCb1bihvs6KOMO2g) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [CRISTAL](https://open.spotify.com/album/4LTaRXfhC5z6cUpQLDvNnd) | 3:22 |
+| 35 | [Cristal](https://open.spotify.com/track/6Gfkt8xCb1bihvs6KOMO2g) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Cristal](https://open.spotify.com/album/4LTaRXfhC5z6cUpQLDvNnd) | 3:22 |
 | 36 | [Apapáchame Lento](https://open.spotify.com/track/04BffOVFlbFBHZMy8hBK9N) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2) | [Apapáchame Lento](https://open.spotify.com/album/3517qoFZybOtp9VKJh62Gp) | 3:21 |
 | 37 | [Supernova](https://open.spotify.com/track/1tcNSGtEw6tWdZAc7WyF7u) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Supernova](https://open.spotify.com/album/75wGI3rgs4adPBLiFsNodK) | 3:04 |
 | 38 | [nunca y después](https://open.spotify.com/track/5M0quwzJafA2xYHv2fjk6e) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Rafa Arreguín](https://open.spotify.com/artist/0j9ovuQB4NHk6e0Vn42mKJ) | [nunca y después](https://open.spotify.com/album/3JZKpaOiDOoanRYQc1nMOq) | 3:31 |

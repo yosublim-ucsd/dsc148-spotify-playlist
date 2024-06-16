@@ -2,9 +2,9 @@
 
 ### [The Pit](https://open.spotify.com/playlist/37i9dQZF1DWXXKBeJuKnWE)
 
-> The home for heavy music\. Cover: House Of Protection
+> The home for heavy music\. Cover: Bury Tomorrow
 
-353 songs - 21 hr 11 min
+358 songs - 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Act Violently](https://open.spotify.com/track/7ly7Em7Mwj89WKKSQKhOBK) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Act Violently](https://open.spotify.com/album/5z8XoC7FxcuPfT2PrT0xEK) | 2:51 | 2024-05-03 |  |
 | [Alkaline](https://open.spotify.com/track/0B4YX3OMtZSmPm9KpiZKl2) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC) | 3:34 | 2023-02-10 | 2023-03-25 |
 | [Alkaline](https://open.spotify.com/track/2bhO18WXe8NbFpc7sAQcEw) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/53PfSATgN0YM7IsfI2CDvs) | 3:34 | 2022-11-10 | 2023-02-18 |
+| [All My Life](https://open.spotify.com/track/2p5LjvjZlMSxxwNUtDyG5x) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [All My Life](https://open.spotify.com/album/4jrP67zEPygoCd90h6vMHr) | 3:10 | 2024-06-15 |  |
 | [All Or Nothing](https://open.spotify.com/track/4X7W1t7pii0H8i5YS4Zu5Z) | [Bobby Wolfgang](https://open.spotify.com/artist/7HJGdWKxnA9ef6HtaQfXJP) | [All Or Nothing](https://open.spotify.com/album/4MzxRsRJOsaU76pZxhNUCI) | 3:18 | 2023-07-25 | 2024-01-27 |
 | [AmEN! \(feat\. Lil Uzi Vert and Daryl Palumbo of Glassjaw\)](https://open.spotify.com/track/5viZ8CLipufc1Q1NXpMRNN) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Daryl Palumbo](https://open.spotify.com/artist/6GcRo52zMhZXYOsEkMyMrX), [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [AmEN! \(feat\. Lil Uzi Vert and Daryl Palumbo of Glassjaw\)](https://open.spotify.com/album/1n9nqA87ulG7FxxVrpULRA) | 3:09 | 2023-06-01 | 2024-05-24 |
 | [Angel Dust](https://open.spotify.com/track/4bDZt8PBRFOhBEcBS1Rdfs) | [Savage Hands](https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx) | [Angel Dust](https://open.spotify.com/album/1PFAJuhUUb52aSlAMhRPPf) | 3:27 | 2023-07-25 | 2024-01-12 |
@@ -146,6 +147,7 @@
 | [Hate Me](https://open.spotify.com/track/4iAS1uaOYUqLimqOwKMELn) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [Hard Reset](https://open.spotify.com/album/17cbasTWOvRFtMoHb7aiHm) | 3:41 | 2024-03-22 | 2024-04-19 |
 | [Hate Me \(feat\. Loveless\)](https://open.spotify.com/track/70RYhIYRYeL1YNJcAIBjjm) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [Hate Me \(feat\. Loveless\)](https://open.spotify.com/album/77saHZy6WPP1JjEVPr4e74) | 3:41 | 2023-08-04 |  |
 | [Haunted](https://open.spotify.com/track/38NEzzR2y74D41NvB09VBn) | [AILSHA](https://open.spotify.com/artist/3OL5LLdKpy2xb9P1lepdgH) | [Haunted](https://open.spotify.com/album/6qnp9qiW7lBpM2mTUGtIOr) | 3:32 | 2024-05-30 |  |
+| [Haven](https://open.spotify.com/track/4aMH5OK4BFr8UW0xtt3AVB) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [Haven](https://open.spotify.com/album/0m41NRj9C741A0nn7jvZVJ) | 3:11 | 2024-06-15 |  |
 | [HEAT ME UP](https://open.spotify.com/track/0ZI1XuZlawgTXIvo9nle6l) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [HEAT ME UP](https://open.spotify.com/album/71aOtUp6xHip01jrsaYLCt) | 3:45 | 2024-05-23 |  |
 | [Her](https://open.spotify.com/track/4hcxkA5rIL9oNLcEMRBsmV) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC) | 2:08 | 2023-03-23 | 2023-04-22 |
 | [Her Wings](https://open.spotify.com/track/19Wz8xYiIcD4yjUiUUexp9) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [The Noble Art Of Self Destruction](https://open.spotify.com/album/3aiw4bCQVAeJXZYJh74zAF) | 2:58 | 2023-08-24 |  |
@@ -171,6 +173,7 @@
 | [Jaded](https://open.spotify.com/track/1ZdDr1zM46JxFu2ugQc1mE) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Jaded](https://open.spotify.com/album/3bYrjYgEAEWCbgawd17dif) | 4:22 | 2023-08-24 |  |
 | [Jaded](https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Jaded](https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU) | 4:22 | 2023-11-17 | 2024-04-19 |
 | [Jesus He Knows Me](https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Jesus He Knows Me](https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK) | 4:05 | 2023-04-14 | 2023-07-26 |
+| [Just Like 73 \- Tom Morello Version](https://open.spotify.com/track/11DxHa7QIQ5NfdiHstN2O2) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Just Like 73 \(Tom Morello Version\)](https://open.spotify.com/album/7afy0Ytt67hzFxYlLzmKyq) | 3:43 | 2024-06-15 |  |
 | [Just Pretend](https://open.spotify.com/track/1H4Y9uW4N0LsxJUz0VnaPJ) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 3:24 | 2022-11-10 | 2023-07-26 |
 | [Karma Police](https://open.spotify.com/track/2GBeNjgz5HSvBkE7dRryxk) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Karma Police](https://open.spotify.com/album/0lsE84fafmngJgIwvVcr8S) | 4:28 | 2024-04-19 |  |
 | [Kingslayer \(feat\. BABYMETAL\)](https://open.spotify.com/track/7CAbF0By0Fpnbiu6Xn5ZF7) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4) | 3:40 | 2022-11-10 | 2023-07-26 |
@@ -251,6 +254,7 @@
 | [REAL SUPER DARK](https://open.spotify.com/track/2YGfjeZvYJyy1BQrbsLmGr) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:29 | 2023-03-23 | 2023-07-13 |
 | [REAL SUPER DARK](https://open.spotify.com/track/6nXtGWUzOGxfI7q5hUa6Jj) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:29 | 2023-02-03 | 2023-04-17 |
 | [RED](https://open.spotify.com/track/66Rl6HThnoHCRRVCUbslIG) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [RED](https://open.spotify.com/album/6jS6EMy8bdawl6dbBzag1X) | 3:54 | 2023-08-10 | 2023-10-06 |
+| [Roads Of The Lowly](https://open.spotify.com/track/4VyrZgmNUfnNIZh16wuhGG) | [Fu Manchu](https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k) | [The Return Of Tomorrow](https://open.spotify.com/album/3iQnDyZOXW8xaMxWEXvomX) | 3:42 | 2024-06-15 |  |
 | [Rotoscope](https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds) | 3:35 | 2022-11-10 | 2023-07-26 |
 | [Russian Roulette](https://open.spotify.com/track/7KIrDWJzJGKx1xlK0tOqiU) | [Liquid State](https://open.spotify.com/artist/5Bn0UxpJyKDg5mpcDOaS3p) | [Russian Roulette](https://open.spotify.com/album/5dSgvHcSr0RE9aXpWD2HZB) | 3:50 | 2023-07-25 | 2024-03-08 |
 | [San Quentin](https://open.spotify.com/track/0nErfLIYBOb0DHE2jqAe6k) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [San Quentin](https://open.spotify.com/album/2oEamuLTW9IlUiDrZLAPMZ) | 3:31 | 2022-11-10 | 2023-07-26 |
@@ -282,6 +286,7 @@
 | [Spillways \[Feat\. Joe Elliott\]](https://open.spotify.com/track/720C8mWrqRdh1zYBGqLj9p) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D), [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ), [Joe Elliott](https://open.spotify.com/artist/5Nbg0g30EwMpYD6jQ2xcfX) | [Spillways \[Feat\. Joe Elliott\]](https://open.spotify.com/album/1aMqVnl2zFenUsGrlYMc91) | 3:19 | 2023-02-03 | 2023-07-26 |
 | [START AGAIN](https://open.spotify.com/track/4XLk8KXgCCnXf5cCXnAyUh) | [Florence Black](https://open.spotify.com/artist/7ubhUvkY7FB68rfzz7DmW4) | [START AGAIN](https://open.spotify.com/album/2blJUAX8ujjwOHR657iEXP) | 2:43 | 2023-07-25 | 2023-08-05 |
 | [STFU](https://open.spotify.com/track/3kUOyI09uhyv2hqKgj2o39) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [STFU](https://open.spotify.com/album/0NYz1EimESo3xgx3KMkknf) | 2:52 | 2022-11-10 | 2023-04-18 |
+| [Stillpoint](https://open.spotify.com/track/7e7MSmuu0opQe214jZFuix) | [Higher Power](https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT), [Never Ending Game](https://open.spotify.com/artist/1S8NfdnAl7u08mTjEtDWLp) | [Stillpoint](https://open.spotify.com/album/6HYN0mvt1KfBvMOPJc0DlN) | 3:37 | 2024-06-15 |  |
 | [Straight From The Heart](https://open.spotify.com/track/1Dioc5wCu4sUXTjwQv4Cuw) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Straight From The Heart](https://open.spotify.com/album/4pfs6RS2T9Ic6GbtXFmpNN) | 3:34 | 2024-05-10 |  |
 | [Sunshine!](https://open.spotify.com/track/1CZvgUpZPRnvfABPVSj5nX) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Might Love Myself](https://open.spotify.com/album/0ljuBtTppOSas8ZE46yLwa) | 3:18 | 2023-07-25 | 2023-10-15 |
 | [Sunshine!](https://open.spotify.com/track/5UZvBguQtkxJfgYrMZcRhe) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Sunshine!](https://open.spotify.com/album/1wh6d2qvnS769wK1IEeXE1) | 3:18 | 2023-04-21 | 2023-07-26 |

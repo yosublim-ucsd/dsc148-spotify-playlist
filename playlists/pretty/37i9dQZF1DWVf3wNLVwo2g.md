@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf3wNLVwo2g.md) - [plain]
 
 > Powerful female voices, like you've never heard before\.  Cover: Miley Cyrus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,373 likes - 195 songs - 11 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,379 likes - 195 songs - 11 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

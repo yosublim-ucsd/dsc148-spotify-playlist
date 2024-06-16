@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e6SyPRzzx0.md) - [plain]
 
 ### [RAGE](https://open.spotify.com/playlist/37i9dQZF1DX7e6SyPRzzx0)
 
-> The home of rage rap\. Cover: Homixide Gang
+> The home of rage rap\. Cover: Destroy Lonely
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,122 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,128 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [LUV 4 YA](https://open.spotify.com/track/4gy2E8Wwz5hgwOLjv03cYS) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [LUV 4 YA](https://open.spotify.com/album/0tTnvcy5uv8w6SXgWw7cOZ) | 3:32 |
+| 1 | [LUV 4 YA](https://open.spotify.com/track/2V9ssBr0S36RJdEXqAREfH) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [LUV 4 YA](https://open.spotify.com/album/2k04YImJq8pTvYTOwSB66U) | 3:32 |
 | 2 | [SIDE EFFExT \(feat\. Lil Yachty\)](https://open.spotify.com/track/0zin6HNAYX04mXsWjpUkIk) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [i5u5we5](https://open.spotify.com/album/6VQw51JISwFViXaj3K7u9d) | 3:42 |
 | 3 | [overseas](https://open.spotify.com/track/7ovB5FvDwq1g7AG9ICYaNY) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [overseas](https://open.spotify.com/album/0FRicF4BU62Z0OUMZw9l8U) | 2:21 |
 | 4 | [E30](https://open.spotify.com/track/2ysvfpW8UlDz19JDDPu4sQ) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [E30](https://open.spotify.com/album/4SOOhAjyehmv7FRKgdBOix) | 2:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e6SyPRzzx0.md) - [plain]
 | 49 | [Jennifer’s Body](https://open.spotify.com/track/04hgBWsBDEyVP8pH0BCZbG) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:38 |
 | 50 | [Vamp Anthem](https://open.spotify.com/track/4CzhtKifG867Lu5DNQVBSA) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 2:04 |
 
-Snapshot ID: `Zmy65AAAAABvtwz+eFehMt8tdbUAoE2b`
+Snapshot ID: `Zm2MyQAAAABOKb6aPwXB0RInkyEOBuKD`

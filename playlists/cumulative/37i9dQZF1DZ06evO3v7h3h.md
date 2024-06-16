@@ -2,7 +2,7 @@
 
 ### [This Is Rashid](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3v7h3h)
 
-> This is Rashid\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Rashid\. The essential tracks, all in one playlist.
 
 65 songs - 4 hr 37 min
 

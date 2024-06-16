@@ -4,7 +4,7 @@
 
 > This is Raveena\. The essential tracks, all in one playlist.
 
-36 songs - 2 hr 13 min
+37 songs - 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Johnny It's the Last Time](https://open.spotify.com/track/6dykAIAUe10GWeNUs0Rsre) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Johnny It's the Last Time](https://open.spotify.com/album/6iz6kClVQTu8MBWh166XwT) | 3:13 | 2023-05-02 |  |
 | [Junebug \(feat\. JPEGMAFIA\)](https://open.spotify.com/track/3E0ulIRg5neojZkEgVM2B7) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [Junebug \(feat\. JPEGMAFIA\)](https://open.spotify.com/album/3tNvAR0dlCWi58TQmkwwBz) | 3:45 | 2024-06-07 |  |
 | [Kathy Left 4 Kathmandu](https://open.spotify.com/track/3yOaX3XEVAnTIyUHagBJvj) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Asha’s Awakening](https://open.spotify.com/album/2q0yeivzk1b2UUdtHf8mcC) | 2:27 | 2023-05-02 |  |
+| [Lose My Focus](https://open.spotify.com/track/5zhmlyLla3YNdjpEyi3Amk) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain](https://open.spotify.com/album/4vbhdsO89cvNkFlHoQ9D9p) | 3:47 | 2024-06-16 |  |
 | [Love Child](https://open.spotify.com/track/7xlhCrF1qme2kFUmynnaQq) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Shanti](https://open.spotify.com/album/0u5GdeMzPuGFMbkJgt2RHz) | 2:43 | 2023-05-02 |  |
 | [Love Overgrown](https://open.spotify.com/track/2e4oIsOkGJNQ4Ab9sjOm52) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Asha’s Awakening](https://open.spotify.com/album/2q0yeivzk1b2UUdtHf8mcC) | 3:20 | 2023-05-02 |  |
 | [Lucky](https://open.spotify.com/track/3cQJowYPZdx2mpmVhrRk2e) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Lucky](https://open.spotify.com/album/1iM2E9fPRRzADkK1EitFWr) | 3:46 | 2024-05-25 |  |

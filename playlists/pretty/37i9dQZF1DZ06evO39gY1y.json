@@ -1,12 +1,12 @@
 {
   "description": "This Is Charles Ans. Los temas esenciales, todos en una lista.",
-  "num_followers": 224128,
+  "num_followers": 224195,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAADOgvikUQn7Bn36T5k58+My",
+  "snapshot_id": "ZmuIAAAAAAB9RhlEzzM5WpafaDnbvVaw",
   "tracks": [
     {
       "added_at": null,
@@ -1043,6 +1043,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cada Vez",
+        "url": "https://open.spotify.com/album/4eNiNe8uTe8LK410C4OOTJ"
+      },
+      "artists": [
+        {
+          "name": "Desert Ni\u00f1os",
+          "url": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Cada Vez",
+      "url": "https://open.spotify.com/track/63Fb4Ug0IreGmhoKf6PVrt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Anticonceptivos",
         "url": "https://open.spotify.com/album/2SUHmJQpAQBKhAIcl9DxOd"
       },
@@ -1063,26 +1083,6 @@
       "duration_ms": 192500,
       "name": "Anticonceptivos",
       "url": "https://open.spotify.com/track/3L2JZWPU5PtlKP7QwTmNyt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cada Vez",
-        "url": "https://open.spotify.com/album/4eNiNe8uTe8LK410C4OOTJ"
-      },
-      "artists": [
-        {
-          "name": "Desert Ni\u00f1os",
-          "url": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Cada Vez",
-      "url": "https://open.spotify.com/track/63Fb4Ug0IreGmhoKf6PVrt"
     }
   ],
   "unique_name": "This Is Charles Ans",

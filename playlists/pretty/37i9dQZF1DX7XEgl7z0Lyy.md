@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 
 > music from the underworld
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,277 likes - 94 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,200 likes - 94 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 | 39 | [Montagem Mysterious Game](https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK) | [Montagem Mysterious Game](https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe) | 1:43 |
 | 40 | [SKELLY](https://open.spotify.com/track/4uTRXCFrOQ97tKYCLj9Dm8) | [ominix](https://open.spotify.com/artist/6MmBfkGkUe5eMKjZbhJcBd) | [SKELLY](https://open.spotify.com/album/49yuEdA79idYEVbiMiGjVu) | 1:36 |
 | 41 | [GMFU \(w/ 6arelyhuman\)](https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [GMFU \(w/ 6arelyhuman\)](https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E) | 2:07 |
-| 42 | [CANADA \(w/ jnhygs\)](https://open.spotify.com/track/38OOJRnOLE4IZc0LG39JjK) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [CANADA \(w/ jnhygs\)](https://open.spotify.com/album/5w6irPlMaNY8kQZJcMD8Th) | 1:50 |
+| 42 | [CANADA](https://open.spotify.com/track/38OOJRnOLE4IZc0LG39JjK) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [CANADA \(w/ jnhygs\)](https://open.spotify.com/album/5w6irPlMaNY8kQZJcMD8Th) | 1:50 |
 | 43 | [Rock Your Body](https://open.spotify.com/track/1LKk576aw3RM47MNytUtrD) | [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [Rock Your Body](https://open.spotify.com/album/1bL31qYzTMyihNFR91mgFt) | 2:13 |
 | 44 | [BAIXO](https://open.spotify.com/track/3f1Jurx7wpabtVoxpLrtCE) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [BAIXO](https://open.spotify.com/album/4FZ9dWvoOMpOMzh914Jmhc) | 1:44 |
 | 45 | [FCKNSTR](https://open.spotify.com/track/4hFlAmJ6zJ53nZNRbsNpTn) | [Britney Manson](https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [FCKNSTR](https://open.spotify.com/album/1LXC62pD9hPjQaMWT4wKuD) | 2:34 |

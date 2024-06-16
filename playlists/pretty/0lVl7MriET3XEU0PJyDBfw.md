@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 
 > House music I absolutely love at the moment! Submissions: houseiumpromo@gmail.com
 
-[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,067 likes - 75 songs - 3 hr 46 min
+[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,066 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

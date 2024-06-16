@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 
 > Trending lofi beats from across the World Wide Web.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,462 likes - 240 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,507 likes - 240 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

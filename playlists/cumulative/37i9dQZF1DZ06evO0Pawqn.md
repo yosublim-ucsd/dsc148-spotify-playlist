@@ -2,7 +2,7 @@
 
 ### [This Is Los Tiranos Del Norte](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Pawqn)
 
-> This is Los Tiranos Del Norte\. The essential tracks, all in one playlist.
+> This Is Los Tiranos Del Norte\. Los temas esenciales, todos en una lista.
 
 86 songs - 4 hr 28 min
 
@@ -55,7 +55,7 @@
 | [Infiel](https://open.spotify.com/track/03HOauAbdksUhAZq9IZLSM) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Dos Coronas a Mi Madre](https://open.spotify.com/album/2jebo7aeg5sh5sSjXJ935y) | 2:37 | 2023-08-05 | 2023-11-11 |
 | [La Huella de Mis Besos](https://open.spotify.com/track/0I6sTG0nOH92inb6TmXqgw) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Entrega Total](https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN) | 2:02 | 2022-06-01 |  |
 | [Las Mismas Costumbres](https://open.spotify.com/track/5L6gQi0avt8xWO9fVd81SH) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Amor Sin Barreras](https://open.spotify.com/album/0YIdmynE6PnOMGaB0q5eSi) | 2:54 | 2022-06-01 | 2024-01-08 |
-| [Le Doblamos La Edad](https://open.spotify.com/track/3TGRjmDrlWAvaDumXQCqeB) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Invencibles](https://open.spotify.com/album/12ECqvcpA6cSRdDN8sif7c) | 3:51 | 2024-01-01 |  |
+| [Le Doblamos La Edad](https://open.spotify.com/track/3TGRjmDrlWAvaDumXQCqeB) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Invencibles](https://open.spotify.com/album/12ECqvcpA6cSRdDN8sif7c) | 3:51 | 2024-01-01 | 2024-06-16 |
 | [Mares de Licor \- En Vivo](https://open.spotify.com/track/0TEVzhoz8bTA6vhOLM7c2m) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Grandes Éxitos \(En Vivo\)](https://open.spotify.com/album/7pEcnufaP1g1YEEXHUEQM0) | 2:26 | 2022-06-01 |  |
 | [Matame a Besos](https://open.spotify.com/track/0om9GXGwk5d7VNyp0nOSuW) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Tiranos del Norte](https://open.spotify.com/album/2N2PsW32lWDtPq1wM8EGKf) | 3:17 | 2022-06-01 |  |
 | [Me Ha Llegado el Amor](https://open.spotify.com/track/31j4yUg8cOyaoSeM104lRf) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Para Mi Pueblo](https://open.spotify.com/album/0Kq5vvguGWYRyftSzsr7eI) | 3:52 | 2022-06-01 |  |
@@ -81,7 +81,7 @@
 | [Quisiera Amarte Menos](https://open.spotify.com/track/0QTX4cAhxpHO4o8zEin8jn) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Entrega Total](https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN) | 3:36 | 2022-06-01 |  |
 | [Renunciacion](https://open.spotify.com/track/5C5rat4IzxN0DbEW0Lp6Hu) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Inolvidables](https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr) | 2:38 | 2022-06-01 | 2024-01-25 |
 | [Renunciacion](https://open.spotify.com/track/2iZSq7M0KmaCLJsPDvK8l3) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Exitos De Oro](https://open.spotify.com/album/5gP2oZWJVWOCrEBH1pZRrZ) | 2:56 | 2024-01-24 |  |
-| [Rosas Tristes](https://open.spotify.com/track/21gb8fPgoAR7V31dnqr0f0) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Invencibles](https://open.spotify.com/album/12ECqvcpA6cSRdDN8sif7c) | 2:37 | 2024-01-16 | 2024-06-10 |
+| [Rosas Tristes](https://open.spotify.com/track/21gb8fPgoAR7V31dnqr0f0) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Invencibles](https://open.spotify.com/album/12ECqvcpA6cSRdDN8sif7c) | 2:37 | 2024-01-16 |  |
 | [Sabor a Mi](https://open.spotify.com/track/0yaZWlPAoBm3iyQa8F3k4X) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Inolvidables](https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr) | 3:15 | 2022-06-01 |  |
 | [Se Me Hizo Facil](https://open.spotify.com/track/2aLcE8XA2Szi6lbhfeVBXW) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Pa Que Son Pasiones](https://open.spotify.com/album/01yx9SBrqS2cmbXdGZ52Ze) | 2:42 | 2022-06-01 | 2023-07-19 |
 | [Sentencia](https://open.spotify.com/track/0A68MP0eyN498lCVN1xi1s) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Pa Que Son Pasiones](https://open.spotify.com/album/01yx9SBrqS2cmbXdGZ52Ze) | 3:12 | 2022-06-01 |  |

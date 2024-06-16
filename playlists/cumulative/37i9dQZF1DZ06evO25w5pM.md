@@ -2,14 +2,14 @@
 
 ### [This Is Deuter](https://open.spotify.com/playlist/37i9dQZF1DZ06evO25w5pM)
 
-> This is Deuter\. Les chansons essentielles, toutes regroupées dans une seule liste de lecture.
+> This is Deuter\. The essential tracks, all in one playlist.
 
 72 songs - 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Along the High Ridges](https://open.spotify.com/track/64vIE1KwDyg4Ar9SosQR4w) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Spiritual Healing](https://open.spotify.com/album/40zjyuW6wrUhGKCuhMZCEA) | 11:29 | 2022-06-07 | 2022-09-22 |
-| [Anemoi](https://open.spotify.com/track/2JQ2wFAD9tEooUsnIwMKiz) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Komorebi sunlight through trees](https://open.spotify.com/album/6VcOA76z5hcfhy4NzBLQGw) | 4:43 | 2024-05-19 |  |
+| [Anemoi](https://open.spotify.com/track/2JQ2wFAD9tEooUsnIwMKiz) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Komorebi sunlight through trees](https://open.spotify.com/album/6VcOA76z5hcfhy4NzBLQGw) | 4:43 | 2024-05-19 | 2024-06-16 |
 | [Black Velvet Flirt](https://open.spotify.com/track/23d2D25xH2EYs8dy5bvi5Y) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [East of the Full Moon](https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon) | 7:00 | 2022-05-29 |  |
 | [Blessing](https://open.spotify.com/track/4Tr55kF33JNtISHKGCkYb4) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Buddha Nature](https://open.spotify.com/album/72PYgOokcFMyEXjzgkfkRu) | 6:24 | 2022-12-12 | 2023-04-24 |
 | [Celestial Meadows](https://open.spotify.com/track/6wkfsDSCPrfEAEfQo8XYjx) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Mystery of Light](https://open.spotify.com/album/2U4w7DS7sZVl7uwWdp7wS9) | 5:05 | 2022-05-29 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Vanessa Zamora. The essential tracks, all in one playlist.",
-  "num_followers": 2617,
+  "num_followers": 2620,
   "original_name": "This Is Vanessa Zamora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAADgGEQeHxKLi2i5/OVkL2nh",
+  "snapshot_id": "ZmuIAAAAAACKy+6WJjG9CMwfGLO/YP6z",
   "tracks": [
     {
       "added_at": null,
@@ -211,8 +211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Eterno",
-        "url": "https://open.spotify.com/album/7Gbb0qmwkbJ58QDL08KVG3"
+        "name": "El Mundo Puede Esperar",
+        "url": "https://open.spotify.com/album/099chjJsmLQM4YqTNuaE9Y"
       },
       "artists": [
         {
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 328018,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/2HWjTmWTuBP7UNbM4xEifo"
+      "duration_ms": 161142,
+      "name": "El Mundo Puede Esperar",
+      "url": "https://open.spotify.com/track/6uzI8rhOIY8Aifbmq5WyZI"
     },
     {
       "added_at": null,
@@ -259,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mundo Puede Esperar",
-        "url": "https://open.spotify.com/album/099chjJsmLQM4YqTNuaE9Y"
+        "name": "Amor Eterno",
+        "url": "https://open.spotify.com/album/7Gbb0qmwkbJ58QDL08KVG3"
       },
       "artists": [
         {
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 161142,
-      "name": "El Mundo Puede Esperar",
-      "url": "https://open.spotify.com/track/6uzI8rhOIY8Aifbmq5WyZI"
+      "duration_ms": 328018,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/2HWjTmWTuBP7UNbM4xEifo"
     },
     {
       "added_at": null,

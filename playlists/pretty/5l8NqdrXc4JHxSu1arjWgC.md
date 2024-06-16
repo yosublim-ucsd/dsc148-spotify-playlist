@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,353 likes - 697 songs - 1 day 22 hr 50 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,356 likes - 701 songs - 1 day 23 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -705,5 +705,9 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 695 | [Eye On The Bat](https://open.spotify.com/track/7HRBGUCJQSjsPoYeB96OlM) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Eye On The Bat](https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR) | 2:56 |
 | 696 | [Kicking Up A Fuss](https://open.spotify.com/track/0AyKKF4K1lV33LtP40tYlV) | [BC Camplight](https://open.spotify.com/artist/3cePP77CX6XY9b0aigzrqh) | [The Last Rotation Of Earth](https://open.spotify.com/album/1kpZEHpJh4GJ5mYxzaP8WR) | 4:16 |
 | 697 | [The Last Rotation Of Earth](https://open.spotify.com/track/07MmMkkxvMpcc9uvfjj46i) | [BC Camplight](https://open.spotify.com/artist/3cePP77CX6XY9b0aigzrqh) | [The Last Rotation Of Earth](https://open.spotify.com/album/1kpZEHpJh4GJ5mYxzaP8WR) | 4:09 |
+| 698 | [So Lo](https://open.spotify.com/track/7LO8KfTNCTHdgl6BNCw3lg) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [So Lo](https://open.spotify.com/album/7JdNHtMhV5ZfXpxyaP3JTx) | 3:48 |
+| 699 | [Church Bells](https://open.spotify.com/track/4X7odtlm2ufZKXJR5QNHoJ) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [A Dream Is All We Know](https://open.spotify.com/album/3ZEIxul2SC2AslVuGZGO68) | 2:06 |
+| 700 | [They Don't Know How To Fall In Place](https://open.spotify.com/track/39u1WhGogGr2ZJ2WKP6ENt) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [A Dream Is All We Know](https://open.spotify.com/album/3ZEIxul2SC2AslVuGZGO68) | 3:33 |
+| 701 | [My Golden Years](https://open.spotify.com/track/0BikNVR79txZhmczhZE68l) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [A Dream Is All We Know](https://open.spotify.com/album/3ZEIxul2SC2AslVuGZGO68) | 3:13 |
 
-Snapshot ID: `AAAGtbBumNhz4a9zHxtKyGOygT46XrH3`
+Snapshot ID: `AAAGuWGw6W/x6QdMSLnVE1QjcFhRmzZy`

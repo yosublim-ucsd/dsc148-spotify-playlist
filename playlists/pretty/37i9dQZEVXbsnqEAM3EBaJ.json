@@ -6,24 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABfI6ko7aFaw3s9/FlwsdTy",
+  "snapshot_id": "AAAAAAAAAADZXaln42eO0osRcnigfbnz",
   "tracks": [
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Worry",
-        "url": "https://open.spotify.com/album/1qISfk68iEjgZ4cG17YuEy"
-      },
-      "artists": [
-        {
-          "name": "b\u00f4a",
-          "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
-        }
-      ],
-      "duration_ms": 288946,
-      "name": "Worry",
-      "url": "https://open.spotify.com/track/4TBMUdlZiHHWRZPHMBIMq4"
-    },
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
@@ -43,38 +27,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Fall in Line",
-        "url": "https://open.spotify.com/album/7ru1OonrDxyPDGx3zi6MqT"
-      },
-      "artists": [
-        {
-          "name": "Mushroomhead",
-          "url": "https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M"
-        }
-      ],
-      "duration_ms": 284453,
-      "name": "Fall In Line",
-      "url": "https://open.spotify.com/track/7ftpyir5ygZkv92mbZMFqi"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Columbia (Sawmills Outtake)",
-        "url": "https://open.spotify.com/album/38uIcT5xt5iECIYM33vRfK"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 437502,
-      "name": "Columbia - Sawmills Outtake",
-      "url": "https://open.spotify.com/track/7C2nz2EEB7pvqUbWFdZk3g"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "Rock 'n' Roll Star!",
         "url": "https://open.spotify.com/album/1bqZP0fgsBTnQaYj4Dte7Z"
       },
@@ -84,9 +36,9 @@
           "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
         }
       ],
-      "duration_ms": 200004,
-      "name": "Lady Stardust - Sounds Of The 70s: John Peel - recorded 11th January 1972",
-      "url": "https://open.spotify.com/track/4hqwoqhghRw19lZyd0zu7x"
+      "duration_ms": 142338,
+      "name": "I Can't Explain - Trident Studios Version",
+      "url": "https://open.spotify.com/track/0YK64CRFEMRCDkMTiM6Sjk"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -103,54 +55,6 @@
       "duration_ms": 323738,
       "name": "With Arms Wide Open - Live At Freeman Coliseum / 1999",
       "url": "https://open.spotify.com/track/0gFT6Rj2QVxpWSh36EiZ4Z"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Top of the World (Live at the West End Marketplace, Dallas, TX, 12/4/1991)",
-        "url": "https://open.spotify.com/album/2OG75CV0b66G4TkZRsVJ9J"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 383204,
-      "name": "Top of the World - Live at the West End Marketplace, Dallas, TX, 12/4/1991",
-      "url": "https://open.spotify.com/track/22zR1Ih6YXMDDW4eeZmFfH"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Just Like 73 (Tom Morello Version)",
-        "url": "https://open.spotify.com/album/7afy0Ytt67hzFxYlLzmKyq"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 223133,
-      "name": "Just Like 73 - Tom Morello Version",
-      "url": "https://open.spotify.com/track/11DxHa7QIQ5NfdiHstN2O2"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Let You Go",
-        "url": "https://open.spotify.com/album/74Fi5fLSHlxRhveI7HMLHz"
-      },
-      "artists": [
-        {
-          "name": "All That Remains",
-          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
-        }
-      ],
-      "duration_ms": 231769,
-      "name": "Let You Go",
-      "url": "https://open.spotify.com/track/5URlaiX8c6XtrpI2ucYxpK"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -187,6 +91,74 @@
       "duration_ms": 236933,
       "name": "Soily - One Hand Clapping Sessions",
       "url": "https://open.spotify.com/track/4ahgYKeOdXFQvnMBL2kLDZ"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Columbia (Sawmills Outtake)",
+        "url": "https://open.spotify.com/album/38uIcT5xt5iECIYM33vRfK"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 437502,
+      "name": "Columbia - Sawmills Outtake",
+      "url": "https://open.spotify.com/track/7C2nz2EEB7pvqUbWFdZk3g"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Ranma 1/2 (Olvida La Amargura)",
+        "url": "https://open.spotify.com/album/6hVWovjwcad0FSoGXqE9Bh"
+      },
+      "artists": [
+        {
+          "name": "The Covers Duo",
+          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
+        },
+        {
+          "name": "Jade",
+          "url": "https://open.spotify.com/artist/2B05Dwi4tSGx2ohCAWPcYm"
+        }
+      ],
+      "duration_ms": 160256,
+      "name": "Ranma 1/2 (Olvida La Amargura)",
+      "url": "https://open.spotify.com/track/59sUk0NRw5WEmnBf72F3FU"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Fall in Line",
+        "url": "https://open.spotify.com/album/7ru1OonrDxyPDGx3zi6MqT"
+      },
+      "artists": [
+        {
+          "name": "Mushroomhead",
+          "url": "https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M"
+        }
+      ],
+      "duration_ms": 284453,
+      "name": "Fall In Line",
+      "url": "https://open.spotify.com/track/7ftpyir5ygZkv92mbZMFqi"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Just Like 73 (Tom Morello Version)",
+        "url": "https://open.spotify.com/album/7afy0Ytt67hzFxYlLzmKyq"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 223133,
+      "name": "Just Like 73 - Tom Morello Version",
+      "url": "https://open.spotify.com/track/11DxHa7QIQ5NfdiHstN2O2"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -231,22 +203,18 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Ranma 1/2 (Olvida La Amargura)",
-        "url": "https://open.spotify.com/album/6hVWovjwcad0FSoGXqE9Bh"
+        "name": "Top of the World (Live at the West End Marketplace, Dallas, TX, 12/4/1991)",
+        "url": "https://open.spotify.com/album/2OG75CV0b66G4TkZRsVJ9J"
       },
       "artists": [
         {
-          "name": "The Covers Duo",
-          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
-        },
-        {
-          "name": "Jade",
-          "url": "https://open.spotify.com/artist/2B05Dwi4tSGx2ohCAWPcYm"
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
         }
       ],
-      "duration_ms": 160256,
-      "name": "Ranma 1/2 (Olvida La Amargura)",
-      "url": "https://open.spotify.com/track/59sUk0NRw5WEmnBf72F3FU"
+      "duration_ms": 383204,
+      "name": "Top of the World - Live at the West End Marketplace, Dallas, TX, 12/4/1991",
+      "url": "https://open.spotify.com/track/22zR1Ih6YXMDDW4eeZmFfH"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -267,6 +235,38 @@
       "duration_ms": 224243,
       "name": "La Vida y la Libertad",
       "url": "https://open.spotify.com/track/0LpzBuOMD5OgSU3uzCHnFZ"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Worry",
+        "url": "https://open.spotify.com/album/1qISfk68iEjgZ4cG17YuEy"
+      },
+      "artists": [
+        {
+          "name": "b\u00f4a",
+          "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
+        }
+      ],
+      "duration_ms": 288946,
+      "name": "Worry",
+      "url": "https://open.spotify.com/track/4TBMUdlZiHHWRZPHMBIMq4"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Let You Go",
+        "url": "https://open.spotify.com/album/74Fi5fLSHlxRhveI7HMLHz"
+      },
+      "artists": [
+        {
+          "name": "All That Remains",
+          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
+        }
+      ],
+      "duration_ms": 231769,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/5URlaiX8c6XtrpI2ucYxpK"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -427,18 +427,18 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Pictures of You",
-        "url": "https://open.spotify.com/album/7H0rjJQJ1QqQC9VLaOSEa5"
+        "name": "The Quest for Tanelorn (Revisited)",
+        "url": "https://open.spotify.com/album/7vtUeoxwk5o5zSJ7IudmNY"
       },
       "artists": [
         {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+          "name": "Blind Guardian",
+          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
         }
       ],
-      "duration_ms": 231160,
-      "name": "Pictures of You",
-      "url": "https://open.spotify.com/track/5E5cy2Ns02oIxRL0STdLOP"
+      "duration_ms": 366906,
+      "name": "The Quest for Tanelorn - Revisited",
+      "url": "https://open.spotify.com/track/2mAjUCgk5GowangZMlQJTa"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -459,18 +459,18 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "The Quest for Tanelorn (Revisited)",
-        "url": "https://open.spotify.com/album/7vtUeoxwk5o5zSJ7IudmNY"
+        "name": "Pictures of You",
+        "url": "https://open.spotify.com/album/7H0rjJQJ1QqQC9VLaOSEa5"
       },
       "artists": [
         {
-          "name": "Blind Guardian",
-          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 366906,
-      "name": "The Quest for Tanelorn - Revisited",
-      "url": "https://open.spotify.com/track/2mAjUCgk5GowangZMlQJTa"
+      "duration_ms": 231160,
+      "name": "Pictures of You",
+      "url": "https://open.spotify.com/track/5E5cy2Ns02oIxRL0STdLOP"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "The Call of Ktulu",
-        "url": "https://open.spotify.com/album/2rQ0vvy8JtDNl8ptHhoHoq"
-      },
-      "artists": [
-        {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        }
-      ],
-      "duration_ms": 446762,
-      "name": "The Call of Ktulu",
-      "url": "https://open.spotify.com/track/3UlMifZrdaMzOiuTGdCq9t"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "Quer\u00eda Saber",
         "url": "https://open.spotify.com/album/45rGX85ik14xfJT0oPGYme"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 348340,
       "name": "Am\u00e9rica",
       "url": "https://open.spotify.com/track/18S3d7Qxm462bVqqcdhwXy"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Plays Metallica, Vol. 2",
+        "url": "https://open.spotify.com/album/5iBW3WJk0JpwNaxsjQxlAI"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        }
+      ],
+      "duration_ms": 446762,
+      "name": "The Call of Ktulu",
+      "url": "https://open.spotify.com/track/05fbvl3wlNRQBzaDoZ6zfG"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -571,6 +571,34 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
+        "name": "Finsterwacht",
+        "url": "https://open.spotify.com/album/6VbJXyZrazAAEfaS7uOyH1"
+      },
+      "artists": [
+        {
+          "name": "Saltatio Mortis",
+          "url": "https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw"
+        },
+        {
+          "name": "Peyton Parrish",
+          "url": "https://open.spotify.com/artist/62uiaKAdkbY94iXJnXyKzc"
+        },
+        {
+          "name": "Cristina Scabbia",
+          "url": "https://open.spotify.com/artist/7AEYSYdB4fWxrRWCMtP2qk"
+        },
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 219999,
+      "name": "We Might Be Giants",
+      "url": "https://open.spotify.com/track/6RV8XTQfO7DXRgT0yJmq2U"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
         "name": "The Born in the U.S.A. Tour '84 - '85",
         "url": "https://open.spotify.com/album/7I1AeiGL76IsHls98I6xEe"
       },
@@ -583,6 +611,26 @@
       "duration_ms": 252366,
       "name": "Downbound Train - Live at LA Memorial Coliseum, Los Angeles, CA - 9/27/1985",
       "url": "https://open.spotify.com/track/08xrGsq938BBXHX9yRwDyB"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Look At All the Things",
+        "url": "https://open.spotify.com/album/6QXU3uN1jniAg8PPbvt9Gx"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        },
+        {
+          "name": "Crazy Horse",
+          "url": "https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3"
+        }
+      ],
+      "duration_ms": 178609,
+      "name": "Look At All the Things",
+      "url": "https://open.spotify.com/track/5JcIqEaPTtCxXiF0ZwKLpq"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -631,54 +679,6 @@
       "duration_ms": 141108,
       "name": "We Have Heaven (Full Version) - Steven Wilson Mix",
       "url": "https://open.spotify.com/track/0fvp6bQkSptkKcHedAjV8x"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Look At All the Things",
-        "url": "https://open.spotify.com/album/6QXU3uN1jniAg8PPbvt9Gx"
-      },
-      "artists": [
-        {
-          "name": "Neil Young",
-          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
-        },
-        {
-          "name": "Crazy Horse",
-          "url": "https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3"
-        }
-      ],
-      "duration_ms": 178609,
-      "name": "Look At All the Things",
-      "url": "https://open.spotify.com/track/5JcIqEaPTtCxXiF0ZwKLpq"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Finsterwacht",
-        "url": "https://open.spotify.com/album/6VbJXyZrazAAEfaS7uOyH1"
-      },
-      "artists": [
-        {
-          "name": "Saltatio Mortis",
-          "url": "https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw"
-        },
-        {
-          "name": "Peyton Parrish",
-          "url": "https://open.spotify.com/artist/62uiaKAdkbY94iXJnXyKzc"
-        },
-        {
-          "name": "Cristina Scabbia",
-          "url": "https://open.spotify.com/artist/7AEYSYdB4fWxrRWCMtP2qk"
-        },
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 219999,
-      "name": "We Might Be Giants",
-      "url": "https://open.spotify.com/track/6RV8XTQfO7DXRgT0yJmq2U"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -843,58 +843,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Perfume Of The Timeless",
-        "url": "https://open.spotify.com/album/2lzs5KtWl3eovh9AMdWwCt"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 492106,
-      "name": "Perfume Of The Timeless",
-      "url": "https://open.spotify.com/track/2XXXvrIkEBtR3LlbfJExpJ"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "POST HUMAN: NeX GEn",
-        "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
-        }
-      ],
-      "duration_ms": 260625,
-      "name": "a bulleT w/ my namE On (feat. Underoath)",
-      "url": "https://open.spotify.com/track/2tWhiQJQSTa5WE3eiByOf1"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Burden",
-        "url": "https://open.spotify.com/album/2fs6Z7LmQT1hd81hM8YlZx"
-      },
-      "artists": [
-        {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
-        }
-      ],
-      "duration_ms": 245947,
-      "name": "Burden",
-      "url": "https://open.spotify.com/track/0W2pvsskj1e50sC2KL9Gge"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "The Reckoning (feat. Amy Lee) [Live in Amsterdam]",
         "url": "https://open.spotify.com/album/6jALyqQddf992tgYntZITS"
       },
@@ -931,22 +879,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Hooked On A Feeling - Spotify Singles",
-        "url": "https://open.spotify.com/album/4jlPlNZFyZa1bCFRp2N7fn"
-      },
-      "artists": [
-        {
-          "name": "The Hives",
-          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
-        }
-      ],
-      "duration_ms": 134052,
-      "name": "Hooked On A Feeling - Spotify Singles",
-      "url": "https://open.spotify.com/track/7t8vTwXLc7EZqTo9t88LTH"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "No Fun (ADF30 Rework)",
         "url": "https://open.spotify.com/album/4RMo1eqb2vwG6BqG02vHCo"
       },
@@ -967,38 +899,38 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Rancid",
-        "url": "https://open.spotify.com/album/4ptHCnj9ZvHibMqdPFx5Bt"
+        "name": "POST HUMAN: NeX GEn",
+        "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
       },
       "artists": [
         {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
         }
       ],
-      "duration_ms": 97024,
-      "name": "The Sentence",
-      "url": "https://open.spotify.com/track/25Dri4NJ7U5yrRUPZBMDlv"
+      "duration_ms": 260625,
+      "name": "a bulleT w/ my namE On (feat. Underoath)",
+      "url": "https://open.spotify.com/track/2tWhiQJQSTa5WE3eiByOf1"
     },
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Run Run Se Fue pa'l Norte",
-        "url": "https://open.spotify.com/album/2j4Ow6x9WPRYS3FC8xowxO"
+        "name": "Hooked On A Feeling - Spotify Singles",
+        "url": "https://open.spotify.com/album/4jlPlNZFyZa1bCFRp2N7fn"
       },
       "artists": [
         {
-          "name": "Criollas",
-          "url": "https://open.spotify.com/artist/5Bcy0y4rVtSr1EAzd9f5aV"
-        },
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
         }
       ],
-      "duration_ms": 269688,
-      "name": "Run Run Se Fue pa'l Norte",
-      "url": "https://open.spotify.com/track/5d7L6rZ5jEjPuC19aaFXjm"
+      "duration_ms": 134052,
+      "name": "Hooked On A Feeling - Spotify Singles",
+      "url": "https://open.spotify.com/track/7t8vTwXLc7EZqTo9t88LTH"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1103,58 +1035,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Reasons",
-        "url": "https://open.spotify.com/album/7pC2fK2Dpp3o2cUh9yL0j3"
-      },
-      "artists": [
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        },
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        },
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "Reasons - TDWP Version feat. L\u00d8L\u00d8",
-      "url": "https://open.spotify.com/track/2udXkSxzo6KziHfIVgOcoo"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Fortnight (feat. Post Malone) [BLOND:ISH Remix]",
-        "url": "https://open.spotify.com/album/1agEHpWnELaZHWzcbGDCpu"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        }
-      ],
-      "duration_ms": 216979,
-      "name": "Fortnight (feat. Post Malone) - BLOND:ISH Remix",
-      "url": "https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "The Shadow Club",
         "url": "https://open.spotify.com/album/7p9SacciT3Ul89WJAtIYGj"
       },
@@ -1191,58 +1071,6 @@
       "duration_ms": 215538,
       "name": "il nostro amore",
       "url": "https://open.spotify.com/track/0IqfraORNLEiUxDyif3E7p"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "The Rob Ritter Tapes - Live at Starwood 1980",
-        "url": "https://open.spotify.com/album/2BpjL883XkKTkfLroX8qxH"
-      },
-      "artists": [
-        {
-          "name": "Adolescents",
-          "url": "https://open.spotify.com/artist/2sSmGd0x45FGBtjJwNBSFr"
-        }
-      ],
-      "duration_ms": 184346,
-      "name": "Amoeba - Live",
-      "url": "https://open.spotify.com/track/4wekOtjac6ZFrPZcenF8Dv"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Here To Eternity",
-        "url": "https://open.spotify.com/album/4ZRomgX1r7Fam2zytYHwP6"
-      },
-      "artists": [
-        {
-          "name": "Collective Soul",
-          "url": "https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6"
-        }
-      ],
-      "duration_ms": 294840,
-      "name": "Keep It On Track",
-      "url": "https://open.spotify.com/track/13PYRY0Z8gek8xPKbhHqpb"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Circular (BVSMV Sunset Mix)",
-        "url": "https://open.spotify.com/album/1llzlwanfn739rdbRJzyO7"
-      },
-      "artists": [
-        {
-          "name": "Synesthete",
-          "url": "https://open.spotify.com/artist/4aGmGByHKTsXe696A3GHJl"
-        },
-        {
-          "name": "BVSMV",
-          "url": "https://open.spotify.com/artist/7HWcg7goTzFVUBMnzDCYdF"
-        }
-      ],
-      "duration_ms": 313988,
-      "name": "Circular - BVSMV Sunset Mix",
-      "url": "https://open.spotify.com/track/3HF3PWNCMzpS0vkRrG1ZUc"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Venesti, Goyo & Slow Mike
 
-[Spotify](https://open.spotify.com/user/spotify) - 589,048 likes - 51 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 589,117 likes - 51 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 17 | [YCQVM](https://open.spotify.com/track/71bGl0FoaBGHNT0CGhVOs1) | [Nueva H](https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [YCQVM](https://open.spotify.com/album/7KNj5SaBNlQUBX2D1gyaiz) | 3:03 |
 | 18 | [GONZY MONTANA](https://open.spotify.com/track/1niuG9ErJRe0bbbnnita3L) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [GONZY MONTANA](https://open.spotify.com/album/0dLJHosPrTuh5OZa9LcJJn) | 3:23 |
 | 19 | [Amor y Odio](https://open.spotify.com/track/5qjIYISISFwiLKw8kmHM60) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Amor y Odio](https://open.spotify.com/album/2hB0IHbLyW8tSmLs6GwGA6) | 2:59 |
-| 20 | [YA VALIÓ](https://open.spotify.com/track/0VNwfyKyDrGw1BW7zxlGeQ) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx) | [YA VALIÓ](https://open.spotify.com/album/4BlW4CMNTGpfIb4aVYNnDr) | 2:31 |
+| 20 | [YA VALIÓ](https://open.spotify.com/track/0VNwfyKyDrGw1BW7zxlGeQ) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [YA VALIÓ](https://open.spotify.com/album/4BlW4CMNTGpfIb4aVYNnDr) | 2:31 |
 | 21 | [EL RITMO QUE NOS UNE \(feat\. Selección Colombia\)](https://open.spotify.com/track/79IBoMfFn67UI15YkP1FSp) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD), [Selección Colombia](https://open.spotify.com/artist/5qLqlZazggeL3HVtjuLhJy) | [EL RITMO QUE NOS UNE \(feat\. Selección Colombia\)](https://open.spotify.com/album/6gHvLYdqKPaiCXK92crXFR) | 3:09 |
 | 22 | [Mi Cuki](https://open.spotify.com/track/7uqNxRCccosBv9eeAxWsMQ) | [Eix](https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5) | [Mi Cuki](https://open.spotify.com/album/1JbB7otm98HhkAA55BV1He) | 2:38 |
 | 23 | [Ayer](https://open.spotify.com/track/7l8b7o5ufcFtWEQl99AbAP) | [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV) | [Torii Yama](https://open.spotify.com/album/081q4OltFPrPe8IYfPQELu) | 2:35 |

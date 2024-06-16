@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: Kaneee
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,484 likes - 92 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,505 likes - 92 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,13 +1,29 @@
 {
-  "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 580376,
+  "description": "This is $uicideboy$. \u0623\u063a\u0627\u0646\u064d \u0631\u0627\u0626\u0639\u0629 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0623\u063a\u0627\u0646\u064d \u0648\u0627\u062d\u062f\u0629.",
+  "num_followers": 580685,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAAB/kznBsdchGRqMq323jFkf",
+  "snapshot_id": "ZmuIAAAAAADAlatQPJH9dmWZBkxSzzdp",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "New World Depression",
+        "url": "https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 130500,
+      "name": "Thorns",
+      "url": "https://open.spotify.com/track/1zUqoSVqUE2O5x3MJ0mHz9"
+    },
     {
       "added_at": null,
       "album": {
@@ -847,22 +863,6 @@
       "duration_ms": 140028,
       "name": "Finding Shelter In My Larynx",
       "url": "https://open.spotify.com/track/7FzP0ZPkQZpV5rauVyb7R6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "7th or St. Tammany",
-        "url": "https://open.spotify.com/album/4BqLJSu0S1KEsA6DBbJ9L4"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 143220,
-      "name": "Dead Batteries",
-      "url": "https://open.spotify.com/track/00UDmkyejOcUApEqpiB90i"
     }
   ],
   "unique_name": "This Is $uicideboy$",

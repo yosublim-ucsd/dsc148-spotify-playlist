@@ -17960,7 +17960,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 234421,
       "name": "Grippy",
       "url": "https://open.spotify.com/track/2dfnX2aizo1CGP8iHh2U8G"
@@ -35082,7 +35082,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 144846,
       "name": "Pedro",
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
@@ -38316,7 +38316,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 196754,
       "name": "Ronald",
       "url": "https://open.spotify.com/track/1xeIvccuZq4DiqqmZDSbAg"
@@ -43410,7 +43410,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
@@ -44774,7 +44774,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 143046,
       "name": "TELESCOPE",
       "url": "https://open.spotify.com/track/2vhyG6wMN64nlNakXJeKZ1"
@@ -44800,7 +44800,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 143046,
       "name": "TELESCOPE",
       "url": "https://open.spotify.com/track/46oDV1H9EdVmnWSivShuH1"
@@ -45320,10 +45320,36 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 157369,
       "name": "That Girl",
       "url": "https://open.spotify.com/track/1SV8Z3emrbM9FPb0fo2muW"
+    },
+    {
+      "album": {
+        "name": "Judaa 3 Chapter 2",
+        "url": "https://open.spotify.com/album/6d5G9vxugneVH3l4id4XCO"
+      },
+      "artists": [
+        {
+          "name": "Amrinder Gill",
+          "url": "https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh"
+        },
+        {
+          "name": "Dr Zeus",
+          "url": "https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm"
+        },
+        {
+          "name": "Raj Ranjodh",
+          "url": "https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157369,
+      "name": "That Girl",
+      "url": "https://open.spotify.com/track/2lHslGtLZJe0IGhiGwswBy"
     },
     {
       "album": {

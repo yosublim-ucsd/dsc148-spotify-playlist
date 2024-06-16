@@ -4,7 +4,7 @@
 
 > Keeping it lowkey with the best chill pop\. Cover: Remi Wolf
 
-1,801 songs - 4 day 0 hr 52 min
+1,802 songs - 4 day 0 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -813,7 +813,7 @@
 | [Invisible](https://open.spotify.com/track/5CC5Dia3BhRVkP1dzJJs7p) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [Invisible](https://open.spotify.com/album/4TCPGeP8KROlyQn4TuZeH3) | 3:40 | 2020-04-26\* | 2020-07-31 |
 | [Invisible Things](https://open.spotify.com/track/1ShHhJlzaLuoZbJ3aP4z0m) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:17 | 2020-04-26\* | 2020-10-09 |
 | [IRL](https://open.spotify.com/track/2hTm4MljABGm013AzKCxN6) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [IRL](https://open.spotify.com/album/1GoynDFX8zhqqBaM3mFoJo) | 3:18 | 2021-02-19 | 2021-04-24 |
-| [is it my face?](https://open.spotify.com/track/17PatSYk0lOvw1jc1pXOci) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [is it my face?](https://open.spotify.com/album/0j5i3HJlYDuhce85GFYBQN) | 2:24 | 2024-05-17 |  |
+| [is it my face?](https://open.spotify.com/track/17PatSYk0lOvw1jc1pXOci) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [is it my face?](https://open.spotify.com/album/0j5i3HJlYDuhce85GFYBQN) | 2:24 | 2024-05-17 | 2024-06-16 |
 | [is your bedroom ceiling bored? \(feat\. Cavetown\)](https://open.spotify.com/track/3ehrCQoouv7NW8LRgcMvRF) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [is your bedroom ceiling bored? \(feat\. Cavetown\)](https://open.spotify.com/album/3EScPN7QqAa3WUVgZe1dNo) | 3:27 | 2020-08-05 | 2020-12-04 |
 | [Island](https://open.spotify.com/track/0lJrPatloYarTbsKciShJu) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:59 | 2023-03-10 | 2023-09-28 |
 | [Island](https://open.spotify.com/track/4LRxmh62YHxSHL4hGLq0ln) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:59 | 2023-09-22 | 2023-10-19 |
@@ -937,6 +937,7 @@
 | [london \(with Cam\)](https://open.spotify.com/track/47EMbOhi8EB7FjLm2OQDln) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [london \(with Cam\)](https://open.spotify.com/album/41rhdJBIvsm2mb7RSPIo3K) | 4:26 | 2022-02-04 | 2022-07-29 |
 | [London Is Lonely](https://open.spotify.com/track/5dXiKFepHXZktud7z5635H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [London Is Lonely](https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG) | 3:54 | 2022-01-21 | 2022-07-23 |
 | [Lonely Ones](https://open.spotify.com/track/42BFZETGGpgA8AVUUgnu6H) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Lonely Ones](https://open.spotify.com/album/5MfQihyF0DVwpWQtfk8492) | 3:07 | 2020-10-30 | 2021-01-15 |
+| [Lonesome](https://open.spotify.com/track/0HYhOGKAHiOsv8GW4JdMJ8) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:07 | 2024-06-15 |  |
 | [Long Shot](https://open.spotify.com/track/4DSNXNrBKv2rMo30c5DyTh) | [RIKA](https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5), [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Long Shot](https://open.spotify.com/album/0jSxGspgNSr6D1o839Brhl) | 3:24 | 2024-01-19 | 2024-02-17 |
 | [long story short](https://open.spotify.com/track/2o2sgVJIgFXk8GQjWTgI6U) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 3:35 | 2020-12-13 | 2021-01-29 |
 | [Long Story Short](https://open.spotify.com/track/0Uknrznov3f65WSUmmfXoQ) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Long Story Short](https://open.spotify.com/album/0fsUPGZdjtXb5F7KJ4FSzk) | 3:37 | 2020-05-23 | 2020-09-11 |

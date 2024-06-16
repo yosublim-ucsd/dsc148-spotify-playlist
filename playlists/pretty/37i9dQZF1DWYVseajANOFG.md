@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 
 > Así suena la música urbana de Panamá hoy\. Foto: Boza, Elena Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,311 likes - 55 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,358 likes - 55 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Orion](https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Orion](https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6) | 4:00 |
 | 2 | [La Niña Consentida](https://open.spotify.com/track/2H5lq3Gn1t7FBX5l4as2im) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Kevin Ice](https://open.spotify.com/artist/6T7bOrkvmlGkEVPer6rDp3) | [La Niña Consentida](https://open.spotify.com/album/6HSMFCODetruC7z5k8MalQ) | 4:59 |
-| 3 | [YA VALIÓ](https://open.spotify.com/track/0VNwfyKyDrGw1BW7zxlGeQ) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx) | [YA VALIÓ](https://open.spotify.com/album/4BlW4CMNTGpfIb4aVYNnDr) | 2:31 |
+| 3 | [YA VALIÓ](https://open.spotify.com/track/0VNwfyKyDrGw1BW7zxlGeQ) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [YA VALIÓ](https://open.spotify.com/album/4BlW4CMNTGpfIb4aVYNnDr) | 2:31 |
 | 4 | [Sígueme \- Remix](https://open.spotify.com/track/3pAwh9JxSJxWyUy3BUBPb4) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Sígueme \(Remix\)](https://open.spotify.com/album/3pnENHsnCw6FKRfUmwJbKF) | 3:22 |
 | 5 | [Yo Te Llamo](https://open.spotify.com/track/4lFnfbRhGSpTm17XKGcXs6) | [JEYSON](https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb), [SMILE BEATS](https://open.spotify.com/artist/5A0VwTrVvV03LMeBZYT99d) | [De 0 a 100](https://open.spotify.com/album/56xJFIXqrvIjX2GldeMfwl) | 2:33 |
 | 6 | [Alerta](https://open.spotify.com/track/2avAoEP6lqD0VEPlgd8Hmk) | [Big Yamo](https://open.spotify.com/artist/1a2HwAlOE2wUPmNisvZxSw), [Lorna](https://open.spotify.com/artist/2AwxAHULVspHSlffbyOSg3), [Jimmy Bad Boy](https://open.spotify.com/artist/5KQIqm4ZbWSfcrWuzGBI9r) | [Alerta](https://open.spotify.com/album/2Zq3b8VWpMELoVQKcrxUPw) | 3:23 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "This Is Black Eyed Peas. Los temas esenciales, todos en una lista.",
+  "description": "This is Black Eyed Peas. The essential tracks, all in one playlist.",
   "name": "This Is Black Eyed Peas",
   "tracks": [
     {
@@ -216,7 +216,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 251440,
       "name": "Boom Boom Pow",
       "url": "https://open.spotify.com/track/3oDFtOhcN08qeDPAK6MEQG"
@@ -252,7 +252,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-26",
+      "date_removed": null,
       "duration_ms": 219813,
       "name": "CELEBRATE",
       "url": "https://open.spotify.com/track/4MV3y1rxojIWLDLMqf6D5d"
@@ -270,7 +270,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 219000,
       "name": "Don't Lie",
       "url": "https://open.spotify.com/track/6tp27J7xy18DQiQXut3GsF"
@@ -354,7 +354,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 278759,
       "name": "DOPENESS (feat. CL)",
       "url": "https://open.spotify.com/track/1LYuXxdooUiWRNMPEPleqX"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 200191,
       "name": "DOUBLE D'Z",
       "url": "https://open.spotify.com/track/4u6G3AHLpiNZdpijHa07SV"
@@ -654,7 +654,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 235428,
       "name": "HIT IT (feat. Saweetie & Lele Pons)",
       "url": "https://open.spotify.com/track/3F450ZpnsuW5G7YMmjMLmi"
@@ -672,7 +672,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 289133,
       "name": "I Gotta Feeling",
       "url": "https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR"
@@ -719,6 +719,24 @@
     },
     {
       "album": {
+        "name": "Behind The Front",
+        "url": "https://open.spotify.com/album/4nxUuXwV9awZCltuoXhCSt"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2024-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215466,
+      "name": "Joints & Jam",
+      "url": "https://open.spotify.com/track/0O3nYVLoS46oBxV19w1xaN"
+    },
+    {
+      "album": {
         "name": "The Beginning",
         "url": "https://open.spotify.com/album/3IpexNXiKbezuY526S4Jvy"
       },
@@ -730,7 +748,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 219426,
       "name": "Just Can\u2019t Get Enough",
       "url": "https://open.spotify.com/track/3JA9Jsuxr4xgHXEawAdCp4"
@@ -770,7 +788,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 217733,
       "name": "Let's Get It Started - Spike Mix",
       "url": "https://open.spotify.com/track/4hfIVhq0F0zFUcrbecsYmo"
@@ -956,7 +974,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 250986,
       "name": "My Humps - Single Version",
       "url": "https://open.spotify.com/track/4ThCFbTzk1ghQ3zcUUswtE"
@@ -996,7 +1014,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-02",
+      "date_removed": null,
       "duration_ms": 283586,
       "name": "Party All The Time",
       "url": "https://open.spotify.com/track/6HEOkR22W4pJuKNpDwnSFC"
@@ -1098,7 +1116,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 221714,
       "name": "RITMO (Bad Boys For Life)",
       "url": "https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf"
@@ -1116,7 +1134,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO"
@@ -1156,7 +1174,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 296186,
       "name": "Shut Up",
       "url": "https://open.spotify.com/track/0KxU9wjCedUxSGdjuFdBDu"
@@ -1200,7 +1218,7 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 304733,
       "name": "Smells Like Funk",
       "url": "https://open.spotify.com/track/69Urq0NuoEZ6RwoaNVn1Pg"
@@ -1312,7 +1330,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 406840,
       "name": "They Don't Want Music",
       "url": "https://open.spotify.com/track/4d1bLoK77pR9N6giV6spVB"
@@ -1408,7 +1426,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 234374,
       "name": "VIDA LOCA",
       "url": "https://open.spotify.com/track/6c6Pr4ALb2SD7j7UnS5YDE"
@@ -1430,7 +1448,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-07",
+      "date_removed": null,
       "duration_ms": 287240,
       "name": "Weekends",
       "url": "https://open.spotify.com/track/444PDY0AH99Pgnq6B9T4pZ"
@@ -1484,7 +1502,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 272533,
       "name": "Where Is The Love?",
       "url": "https://open.spotify.com/track/0xmjwnQ3FNE6HuWCt2nHdZ"

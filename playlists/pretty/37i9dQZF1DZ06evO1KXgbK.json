@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 245871,
+  "num_followers": 245918,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAACzOUhfugbjvZudsWj949r7",
+  "snapshot_id": "ZmuIAAAAAADlaSWA1LmqqvJF/4ZAOAOP",
   "tracks": [
     {
       "added_at": null,
@@ -251,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "White Limozeen",
+        "url": "https://open.spotify.com/album/10jK6LkJr9Dav78dhsXZJY"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 152506,
+      "name": "Why'd You Come in Here Lookin' Like That",
+      "url": "https://open.spotify.com/track/5oheUEVCpJllnImTs5nNiS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Real Love",
         "url": "https://open.spotify.com/album/2JcQQnzKJABvKWNZB3MyuS"
       },
@@ -287,26 +303,6 @@
       "duration_ms": 156160,
       "name": "The Last Thing On My Mind",
       "url": "https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You Can't Make Old Friends",
-        "url": "https://open.spotify.com/album/1cAujZxQJDEhqXK0EBBNtr"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 242680,
-      "name": "You Can't Make Old Friends - Duet with Dolly Parton",
-      "url": "https://open.spotify.com/track/48Xp0fGOluD1NJmHOeYFg5"
     },
     {
       "added_at": null,
@@ -351,6 +347,26 @@
       "duration_ms": 204121,
       "name": "Somebody's Child",
       "url": "https://open.spotify.com/track/28lmqduaFZVV6r46kALIpP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Can't Make Old Friends",
+        "url": "https://open.spotify.com/album/1cAujZxQJDEhqXK0EBBNtr"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 242680,
+      "name": "You Can't Make Old Friends - Duet with Dolly Parton",
+      "url": "https://open.spotify.com/track/48Xp0fGOluD1NJmHOeYFg5"
     },
     {
       "added_at": null,
@@ -619,22 +635,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Words",
-        "url": "https://open.spotify.com/album/6pWNv9LbVXV2ZvlK3gvmRp"
+        "name": "Dolly Dolly Dolly",
+        "url": "https://open.spotify.com/album/1zdDoTRBMsZNywgmlin186"
       },
       "artists": [
-        {
-          "name": "Barry Gibb",
-          "url": "https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d"
-        },
         {
           "name": "Dolly Parton",
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 191928,
-      "name": "Words",
-      "url": "https://open.spotify.com/track/733sNPL4OMX4iN8DE6p2RH"
+      "duration_ms": 203026,
+      "name": "Old Flames Can't Hold a Candle to You",
+      "url": "https://open.spotify.com/track/0u1mi4pYlXkx0rxgCbtyqv"
     },
     {
       "added_at": null,
@@ -683,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 156960,
-      "name": "Baby I'm Burnin'",
-      "url": "https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trio II (2016 Remaster)",
         "url": "https://open.spotify.com/album/6exPHeQxJirI2kkgLss9d7"
       },
@@ -719,6 +715,22 @@
       "duration_ms": 211586,
       "name": "After the Gold Rush - 2015 Remaster",
       "url": "https://open.spotify.com/track/22GKOoU7q9YGhaedUzhlpT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 156960,
+      "name": "Baby I'm Burnin'",
+      "url": "https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq"
     },
     {
       "added_at": null,
@@ -803,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Harvest...First Gathering",
-        "url": "https://open.spotify.com/album/1cvsUKsk753nko4CmpzG4H"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 315613,
-      "name": "You Are",
-      "url": "https://open.spotify.com/track/6okcxWVQetuXyRKMcVqJXZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One Night in Nashville",
         "url": "https://open.spotify.com/album/2xBdaZLyGFkEgyScXSwZep"
       },
@@ -835,6 +831,22 @@
       "duration_ms": 180959,
       "name": "Bets On Us",
       "url": "https://open.spotify.com/track/0QniqyO4C5JdxALPM4rulH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Harvest...First Gathering",
+        "url": "https://open.spotify.com/album/1cvsUKsk753nko4CmpzG4H"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 315613,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/6okcxWVQetuXyRKMcVqJXZ"
     },
     {
       "added_at": null,
@@ -863,22 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Dolly Parton",
-        "url": "https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 180906,
-      "name": "9 to 5",
-      "url": "https://open.spotify.com/track/7ob0221dnx0OOGVSzNZgXO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Southern Accents",
         "url": "https://open.spotify.com/album/21tc4DJs0FYI8Y0mF0x4Ob"
       },
@@ -891,6 +887,22 @@
       "duration_ms": 267237,
       "name": "Southern Accents",
       "url": "https://open.spotify.com/track/2kTr8C8xtKJd4UCF9MhxM7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Essential Dolly Parton",
+        "url": "https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 180906,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/7ob0221dnx0OOGVSzNZgXO"
     },
     {
       "added_at": null,
@@ -995,30 +1007,6 @@
       "duration_ms": 188266,
       "name": "Mule Skinner Blues (Blue Yodel No. 8)",
       "url": "https://open.spotify.com/track/1XChvxIUbR911TOb0HhNJi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trio (2016 Remaster)",
-        "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        },
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 153920,
-      "name": "The Pain of Loving You - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3zQzQUYoDGIZOUM0BL84mM"
     }
   ],
   "unique_name": "This Is Dolly Parton",

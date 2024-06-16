@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Dark, hard hitting pop\. Cover: CATTY
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,156 likes - 70 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,147 likes - 70 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

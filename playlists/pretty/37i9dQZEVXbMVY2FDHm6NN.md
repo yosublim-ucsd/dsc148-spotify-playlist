@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Taiwan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,391 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,405 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 49 | [MILLION DOLLAR BABY](https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54) | 2:35 |
 | 50 | [总会有人](https://open.spotify.com/track/1JUvV9eEZuws2YpA1p0e6o) | [向思思](https://open.spotify.com/artist/7jlM8w6yhqvHOYZ7y32CNX) | [总会有人](https://open.spotify.com/album/64ltqQrDRCyssMx3VG9Fzf) | 3:30 |
 
-Snapshot ID: `Lf+rGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LgD+8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

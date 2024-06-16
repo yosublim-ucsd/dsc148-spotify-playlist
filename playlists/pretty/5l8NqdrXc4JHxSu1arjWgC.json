@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 4353,
+  "num_followers": 4356,
   "original_name": "Red Vox Recent Favorites",
   "owner": {
     "name": "Red Vox",
     "url": "https://open.spotify.com/user/vinnyvinesauce"
   },
-  "snapshot_id": "AAAGtbBumNhz4a9zHxtKyGOygT46XrH3",
+  "snapshot_id": "AAAGuWGw6W/x6QdMSLnVE1QjcFhRmzZy",
   "tracks": [
     {
       "added_at": "2022-03-23 01:58:53",
@@ -11295,6 +11295,70 @@
       "duration_ms": 249000,
       "name": "The Last Rotation Of Earth",
       "url": "https://open.spotify.com/track/07MmMkkxvMpcc9uvfjj46i"
+    },
+    {
+      "added_at": "2024-06-16 00:43:26",
+      "album": {
+        "name": "So Lo",
+        "url": "https://open.spotify.com/album/7JdNHtMhV5ZfXpxyaP3JTx"
+      },
+      "artists": [
+        {
+          "name": "Pond",
+          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
+        }
+      ],
+      "duration_ms": 228564,
+      "name": "So Lo",
+      "url": "https://open.spotify.com/track/7LO8KfTNCTHdgl6BNCw3lg"
+    },
+    {
+      "added_at": "2024-06-16 00:43:37",
+      "album": {
+        "name": "A Dream Is All We Know",
+        "url": "https://open.spotify.com/album/3ZEIxul2SC2AslVuGZGO68"
+      },
+      "artists": [
+        {
+          "name": "The Lemon Twigs",
+          "url": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
+        }
+      ],
+      "duration_ms": 126706,
+      "name": "Church Bells",
+      "url": "https://open.spotify.com/track/4X7odtlm2ufZKXJR5QNHoJ"
+    },
+    {
+      "added_at": "2024-06-16 00:43:45",
+      "album": {
+        "name": "A Dream Is All We Know",
+        "url": "https://open.spotify.com/album/3ZEIxul2SC2AslVuGZGO68"
+      },
+      "artists": [
+        {
+          "name": "The Lemon Twigs",
+          "url": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
+        }
+      ],
+      "duration_ms": 213706,
+      "name": "They Don't Know How To Fall In Place",
+      "url": "https://open.spotify.com/track/39u1WhGogGr2ZJ2WKP6ENt"
+    },
+    {
+      "added_at": "2024-06-16 00:43:54",
+      "album": {
+        "name": "A Dream Is All We Know",
+        "url": "https://open.spotify.com/album/3ZEIxul2SC2AslVuGZGO68"
+      },
+      "artists": [
+        {
+          "name": "The Lemon Twigs",
+          "url": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
+        }
+      ],
+      "duration_ms": 193906,
+      "name": "My Golden Years",
+      "url": "https://open.spotify.com/track/0BikNVR79txZhmczhZE68l"
     }
   ],
   "unique_name": "Red Vox Recent Favorites",

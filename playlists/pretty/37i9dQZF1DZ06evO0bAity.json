@@ -1,12 +1,12 @@
 {
   "description": "This is DZ Deathrays. The essential tracks, all in one playlist.",
-  "num_followers": 1226,
+  "num_followers": 1228,
   "original_name": "This Is DZ Deathrays",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAACZfERu4z5ewF4gEvUFReVT",
+  "snapshot_id": "ZmuIAAAAAADg/4cVz/k4yHmDNQwHTpqF",
   "tracks": [
     {
       "added_at": null,
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 136933,
-      "name": "Shadow Walk",
-      "url": "https://open.spotify.com/track/7eyh4ltUdCpwsgFcnyYFuc"
+      "duration_ms": 200760,
+      "name": "King B",
+      "url": "https://open.spotify.com/track/6xqUpuxqktp3eLQEPUDHyM"
     },
     {
       "added_at": null,
@@ -272,29 +272,25 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 200760,
-      "name": "King B",
-      "url": "https://open.spotify.com/track/6xqUpuxqktp3eLQEPUDHyM"
+      "duration_ms": 136933,
+      "name": "Shadow Walk",
+      "url": "https://open.spotify.com/track/7eyh4ltUdCpwsgFcnyYFuc"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Tuff Luck (Blood Red Shoes Remix)",
-        "url": "https://open.spotify.com/album/6pCvuLcfU1BnAK8KduO9T9"
+        "name": "Positive Rising: Part 2",
+        "url": "https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs"
       },
       "artists": [
         {
           "name": "DZ Deathrays",
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        },
-        {
-          "name": "Blood Red Shoes",
-          "url": "https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR"
         }
       ],
-      "duration_ms": 148671,
-      "name": "Tuff Luck - Blood Red Shoes Remix",
-      "url": "https://open.spotify.com/track/7zi8IAXelULSGfbVSOv2i3"
+      "duration_ms": 215613,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/13nIVQX1UgXlQkpQEjwaoC"
     },
     {
       "added_at": null,
@@ -315,18 +311,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Positive Rising: Part 2",
-        "url": "https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs"
+        "name": "Tuff Luck (Blood Red Shoes Remix)",
+        "url": "https://open.spotify.com/album/6pCvuLcfU1BnAK8KduO9T9"
       },
       "artists": [
         {
           "name": "DZ Deathrays",
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        },
+        {
+          "name": "Blood Red Shoes",
+          "url": "https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR"
         }
       ],
-      "duration_ms": 215613,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/13nIVQX1UgXlQkpQEjwaoC"
+      "duration_ms": 148671,
+      "name": "Tuff Luck - Blood Red Shoes Remix",
+      "url": "https://open.spotify.com/track/7zi8IAXelULSGfbVSOv2i3"
     },
     {
       "added_at": null,
@@ -379,6 +379,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Positive Rising: Part 1",
+        "url": "https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 212440,
+      "name": "Still No Change",
+      "url": "https://open.spotify.com/track/7evhmpAOrk9f9Ecl2HRUwl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "R.I.F.F",
+        "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/6nX2HXWLt2I5AM6kHm64zI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Front Row Hustle",
         "url": "https://open.spotify.com/album/09TdDGWBeDqdEx4TjZkDPk"
       },
@@ -403,38 +435,6 @@
       "duration_ms": 223499,
       "name": "Front Row Hustle",
       "url": "https://open.spotify.com/track/0JNmthvbaoZlUaHfhpBo4V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "R.I.F.F",
-        "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 199133,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/6nX2HXWLt2I5AM6kHm64zI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Positive Rising: Part 1",
-        "url": "https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 212440,
-      "name": "Still No Change",
-      "url": "https://open.spotify.com/track/7evhmpAOrk9f9Ecl2HRUwl"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 172400,
-      "name": "Cops / Capacity",
-      "url": "https://open.spotify.com/track/1yqmcfHazwWohYFsI7pSnP"
+      "duration_ms": 235080,
+      "name": "Gebbie Street",
+      "url": "https://open.spotify.com/track/02v5ggYAHVdQYMzbfq5Y2Q"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 235080,
-      "name": "Gebbie Street",
-      "url": "https://open.spotify.com/track/02v5ggYAHVdQYMzbfq5Y2Q"
+      "duration_ms": 172400,
+      "name": "Cops / Capacity",
+      "url": "https://open.spotify.com/track/1yqmcfHazwWohYFsI7pSnP"
     }
   ],
   "unique_name": "This Is DZ Deathrays",

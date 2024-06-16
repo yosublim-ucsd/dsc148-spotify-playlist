@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Pale Waves
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,113,941 likes - 125 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,114,074 likes - 125 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 71 | [SPINE](https://open.spotify.com/track/6Stz1dIY7OD61gU7SdVR22) | [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ) | [SPINE](https://open.spotify.com/album/0Cid17L0G17hI9bmEuR5G2) | 3:00 |
 | 72 | [Sunshine](https://open.spotify.com/track/4ChYzD2AahSZSSSevWrrbw) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Sunshine](https://open.spotify.com/album/2q59WbPEzBKEVJlKkh4Rp1) | 2:18 |
 | 73 | [Vandalist](https://open.spotify.com/track/3ENotujIHUavrxkpkQdbnh) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Vandalist](https://open.spotify.com/album/1J2Qg6llMj5VoOamJrRVsQ) | 3:28 |
-| 74 | [Slow Rider](https://open.spotify.com/track/6PoyUY1cahG3vn1JMfiM2N) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV) | [Infinity High](https://open.spotify.com/album/0UlqS6mKG6GoEJTDma4hMQ) | 2:40 |
+| 74 | [Slow Rider](https://open.spotify.com/track/6PoyUY1cahG3vn1JMfiM2N) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV) | [Infinity High \- EP](https://open.spotify.com/album/0UlqS6mKG6GoEJTDma4hMQ) | 2:40 |
 | 75 | [STRAY](https://open.spotify.com/track/7MCtZJoabikk4AVQp8o6rP) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [STRAY / SAD OCTOBER](https://open.spotify.com/album/1RQRIpDcdE828hNQ8bpQsT) | 2:33 |
 | 76 | [Change Your Mind](https://open.spotify.com/track/7rOk84mV0kJ0H9wsBDDDUY) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Change Your Mind](https://open.spotify.com/album/4CnceuWVsiNQmneTfgc3nc) | 3:19 |
 | 77 | [Long Dark Night](https://open.spotify.com/track/5VdRRwhBeLyO2CuAgUvqVY) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [The Process](https://open.spotify.com/album/2sJMzA3LuOW1u3UEKbF6J3) | 3:08 |

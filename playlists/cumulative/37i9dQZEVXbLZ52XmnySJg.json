@@ -276,7 +276,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 117606,
       "name": "9:45",
       "url": "https://open.spotify.com/track/6c4Po8zyQjB4cR5XgLhcGb"
@@ -650,7 +650,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 253223,
       "name": "Agar Ho Tum (From \"Mr. And Mrs. Mahi\")",
       "url": "https://open.spotify.com/track/2JS0RFqBJvBtvG1GIsZmjW"
@@ -6696,7 +6696,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 179169,
       "name": "House Of Lies",
       "url": "https://open.spotify.com/track/3hfWgH0UEDW1uJNlj5gRW1"
@@ -12034,7 +12034,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-26",
+      "date_removed": null,
       "duration_ms": 193355,
       "name": "Mere Sohneya (From \"Kabir Singh\")",
       "url": "https://open.spotify.com/track/2IoZMG3RqiTmsy7Li3zGFg"
@@ -20072,6 +20072,10 @@
         {
           "name": "Karan Aujla",
           "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
         }
       ],
       "date_added": "2024-05-18",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 684,967 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 693,987 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: Saint Levant
 
-337 songs - 18 hr 34 min
+338 songs - 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [El Radio \(feat\. Amal Maghrabi\)](https://open.spotify.com/track/2OvkCZfT67niZHpnZ28215) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO), [Amal Maghrabi](https://open.spotify.com/artist/5QzA0opnA9ZIGWF5ZFFnNI) | [El Radio \(feat\. Amal Maghrabi\)](https://open.spotify.com/album/7rUWs9A2Owofq7T1IfVnkQ) | 3:28 | 2022-07-28 | 2023-01-26 |
 | [ELEPHANT in the room](https://open.spotify.com/track/6ZyM3trBytgnYgRfh2stYu) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [ELEPHANT in the room](https://open.spotify.com/album/3t98yciKCkgEvjLYwtrNPg) | 2:54 | 2023-07-31 | 2023-09-20 |
 | [Enta](https://open.spotify.com/track/1mRSA7bk3iEvAyKLXHL7bi) | [DJ KABOO](https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q) | [Arab Trap \- EP.1](https://open.spotify.com/album/3dQpnLxtGSzIRi7TEA8MzC) | 3:08 | 2022-04-22 | 2023-06-15 |
+| [Escape Plan](https://open.spotify.com/track/57nPLBMMNk8w4KDNSwDxdz) | [Jana Diab](https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq) | [Escape Plan](https://open.spotify.com/album/3kt4vMSt4GLQQ7M5pS5Dpx) | 2:19 | 2024-06-15 |  |
 | [Everlasting Dance](https://open.spotify.com/track/7w4iy6gupo2mDSPlnvidGv) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [Everlasting Dance](https://open.spotify.com/album/4lR6iy0jlBIctr2Pwg2Fe1) | 3:23 | 2023-06-07 |  |
 | [EXCUSE U](https://open.spotify.com/track/7mvyMA1kzEdASKIZVIo25t) | [NARCY](https://open.spotify.com/artist/0dkcQCK8GjDBCGrjlUJhlg), [Tribe of Monsters](https://open.spotify.com/artist/6ZBkSEQim7hD4OpsvDuCh3) | [EXCUSE U](https://open.spotify.com/album/2OjfODnTf5wHLMr8qvzInN) | 2:54 | 2023-09-19 | 2023-09-30 |
 | [Exist With You](https://open.spotify.com/track/2Ql5hqShctiwksSLN3XRiM) | [Reina Khoury](https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq) | [Exist With You](https://open.spotify.com/album/3RNA3HxO5AskgF6QxPqqiA) | 2:35 | 2021-12-16 | 2022-11-20 |

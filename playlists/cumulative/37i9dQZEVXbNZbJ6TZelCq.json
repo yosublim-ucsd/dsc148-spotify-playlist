@@ -1069,6 +1069,24 @@
     },
     {
       "album": {
+        "name": "Hustler",
+        "url": "https://open.spotify.com/album/6Xy6jJdpb5Cck12U7pHA1E"
+      },
+      "artists": [
+        {
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115263,
+      "name": "Agresiv",
+      "url": "https://open.spotify.com/track/2lQCIU7pzDTvs16TT1bHAo"
+    },
+    {
+      "album": {
         "name": "Ai fost (cu Mario Fresh)",
         "url": "https://open.spotify.com/album/4Lb1X9Ah2bFMN9iMaindit"
       },
@@ -5702,7 +5720,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 303440,
       "name": "CHIHIRO",
       "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
@@ -6350,6 +6368,28 @@
       "duration_ms": 189240,
       "name": "Colindam, Colindam",
       "url": "https://open.spotify.com/track/6jinEAvpeFUuXTQLVwb9mN"
+    },
+    {
+      "album": {
+        "name": "Hustler",
+        "url": "https://open.spotify.com/album/6Xy6jJdpb5Cck12U7pHA1E"
+      },
+      "artists": [
+        {
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+        },
+        {
+          "name": "Marko Glass",
+          "url": "https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201230,
+      "name": "Combin Rom",
+      "url": "https://open.spotify.com/track/2w1L0bFNsy6fDEX7KiQ62S"
     },
     {
       "album": {
@@ -9710,7 +9750,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 129522,
       "name": "Fall Back",
       "url": "https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi"
@@ -11158,6 +11198,32 @@
       "duration_ms": 215555,
       "name": "F\u0103r\u0103 Fric\u0103",
       "url": "https://open.spotify.com/track/6fQghxewVEhZkgxqflXd4H"
+    },
+    {
+      "album": {
+        "name": "F\u0103r\u0103 ru\u0219ine",
+        "url": "https://open.spotify.com/album/2qPYp4kMxixY9lJtWQUHy4"
+      },
+      "artists": [
+        {
+          "name": "Ruxit",
+          "url": "https://open.spotify.com/artist/2eZznjvEZqB1UOCAPKW2MH"
+        },
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        },
+        {
+          "name": "Ministerul Manelelor",
+          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168219,
+      "name": "F\u0103r\u0103 ru\u0219ine",
+      "url": "https://open.spotify.com/track/6IkuWdoDQtSpMYG8GOuu2m"
     },
     {
       "album": {
@@ -13320,7 +13386,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 258266,
       "name": "Hymn for the Weekend",
       "url": "https://open.spotify.com/track/3RiPr603aXAoi4GHyXx0uy"
@@ -14780,7 +14846,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-06",
+      "date_removed": null,
       "duration_ms": 149647,
       "name": "Iubire in Rate",
       "url": "https://open.spotify.com/track/2C2G5bh0reFJh7FgBz9dIP"
@@ -20944,7 +21010,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 132000,
       "name": "Ofiter la pamant",
       "url": "https://open.spotify.com/track/1BbXHat6Zlcg4bpFL2qEBE"
@@ -21280,7 +21346,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 121399,
       "name": "ONE CALL",
       "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
@@ -22528,7 +22594,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 187200,
       "name": "Ping Pong",
       "url": "https://open.spotify.com/track/3qnJsnPfN3IeBg2dzWazVV"
@@ -27310,7 +27376,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 247160,
       "name": "Something Just Like This",
       "url": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW"
@@ -27336,6 +27402,24 @@
       "duration_ms": 244363,
       "name": "Special/Hulk",
       "url": "https://open.spotify.com/track/5iRgCmF1QZdxHHfeSNuply"
+    },
+    {
+      "album": {
+        "name": "Hustler",
+        "url": "https://open.spotify.com/album/6Xy6jJdpb5Cck12U7pHA1E"
+      },
+      "artists": [
+        {
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173437,
+      "name": "Sper Ca Esti Bine",
+      "url": "https://open.spotify.com/track/6WUGsDp56TjkMRrF5WsElJ"
     },
     {
       "album": {
@@ -30375,6 +30459,24 @@
     },
     {
       "album": {
+        "name": "HARDSTONE PSYCHO",
+        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126986,
+      "name": "TORE UP",
+      "url": "https://open.spotify.com/track/1jKXjxMWlq4BhH6f9GtZbu"
+    },
+    {
+      "album": {
         "name": "Il ballo della vita",
         "url": "https://open.spotify.com/album/44a7Wk3Jh2JGVhjcFYWozj"
       },
@@ -32046,7 +32148,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 242373,
       "name": "Viva La Vida",
       "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"

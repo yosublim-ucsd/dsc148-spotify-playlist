@@ -1,12 +1,12 @@
 {
   "description": "This is Madonna. The essential tracks, all in one playlist.",
-  "num_followers": 658329,
+  "num_followers": 658474,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAAC9vIku3/gxwQw8dwZECUKq",
+  "snapshot_id": "ZmuIAAAAAADGlrwVrMayFhL1b0xseQDM",
   "tracks": [
     {
       "added_at": null,
@@ -71,6 +71,30 @@
       "duration_ms": 342680,
       "name": "Like a Prayer",
       "url": "https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Popular (Music from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 215466,
+      "name": "Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series)",
+      "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
     },
     {
       "added_at": null,
@@ -731,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Life",
-        "url": "https://open.spotify.com/album/6makHXbA3KBYNlYEPXyFJW"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 216026,
-      "name": "Love Profusion",
-      "url": "https://open.spotify.com/track/5NDS6qHwbOmVqZgTvtC66y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back That Up To The Beat",
         "url": "https://open.spotify.com/album/2gDxombRu8s5Acs8EPKpqt"
       },
@@ -779,6 +787,22 @@
       "duration_ms": 245706,
       "name": "Faz Gostoso (feat. Anitta)",
       "url": "https://open.spotify.com/track/2SC14LGDbRWRlyLg9Wupa0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Life",
+        "url": "https://open.spotify.com/album/6makHXbA3KBYNlYEPXyFJW"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 216026,
+      "name": "Love Profusion",
+      "url": "https://open.spotify.com/track/5NDS6qHwbOmVqZgTvtC66y"
     },
     {
       "added_at": null,
@@ -867,22 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Erotica (PA Version)",
-        "url": "https://open.spotify.com/album/1a2NoE9makqEWb1uUogxFQ"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 323333,
-      "name": "Bad Girl",
-      "url": "https://open.spotify.com/track/2tySjBBWqam7oaBUZ26oNL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bedtime Stories",
         "url": "https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB"
       },
@@ -899,6 +907,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Erotica (PA Version)",
+        "url": "https://open.spotify.com/album/1a2NoE9makqEWb1uUogxFQ"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 323333,
+      "name": "Bad Girl",
+      "url": "https://open.spotify.com/track/2tySjBBWqam7oaBUZ26oNL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "American Life",
         "url": "https://open.spotify.com/album/6makHXbA3KBYNlYEPXyFJW"
       },
@@ -911,26 +935,6 @@
       "duration_ms": 262626,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/4ixxz1GXB57Q6K2nbR4AwL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Frozen On Fire",
-        "url": "https://open.spotify.com/album/1tigrws32UpX26xU9Y3Yac"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Sickick",
-          "url": "https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Frozen On Fire",
-      "url": "https://open.spotify.com/track/7MfRwjpGwlZpxOvKiMlf1m"
     }
   ],
   "unique_name": "This Is Madonna",

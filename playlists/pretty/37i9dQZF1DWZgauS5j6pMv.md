@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Durand Bernarr
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,264 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,373 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jelly Roll](https://open.spotify.com/track/5H6iPB2CyzGoI7Hzlxz9Da) | [MonoNeon](https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j) | [Jelly Roll](https://open.spotify.com/album/3XyBAOkeZyg7rX9GiNw9eZ) | 3:37 |
-| 2 | [Yellow Daze](https://open.spotify.com/track/1MeoURhRLribQiy7BZReBV) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Triple H Horns](https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN) | [Yellow Daze](https://open.spotify.com/album/5nrHNWI8YfZYzdFtVN973m) | 2:57 |
+| 2 | [Yellow Daze](https://open.spotify.com/track/1MeoURhRLribQiy7BZReBV) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Triple H Horns](https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Yellow Daze](https://open.spotify.com/album/5nrHNWI8YfZYzdFtVN973m) | 2:57 |
 | 3 | [Fist Bump \(feat\. Free Nationals\) \- Radio Edit](https://open.spotify.com/track/5El5mxXJzfYYr0PM61xrvn) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj) | [Fist Bump \(feat\. Free Nationals\) \(Radio Edit\)](https://open.spotify.com/album/2KKfaCj1zRMDHuCa2fmlZa) | 3:33 |
 | 4 | [Just Imagine](https://open.spotify.com/track/0uD6yDPOKCmcV7yYPlkCLG) | [Gabe Costa](https://open.spotify.com/artist/6LMyfO4lGSYAkJg3Yc06ZR), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [Giovanni Ghioldi](https://open.spotify.com/artist/4shS3E4SYPpSHf76AiBNK8) | [Just Imagine](https://open.spotify.com/album/6fRqErW9pUNqsPhZEHpfFe) | 2:31 |
 | 5 | [Watch Me Get It Like](https://open.spotify.com/track/0OxC4TyAkd9MjXAQrx9Qdf) | [Bobby Saint](https://open.spotify.com/artist/6L6VjBcf06AK6boIxqIEit) | [Watch Me Get It Like](https://open.spotify.com/album/1mnWypqJawxa2BelNLfAik) | 2:15 |

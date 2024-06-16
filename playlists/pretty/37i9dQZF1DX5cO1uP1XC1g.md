@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 
 > The biggest Arabic hits all in one place\. Cover:  Elissa
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,515 likes - 40 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,609 likes - 40 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [حظي ضحكلي](https://open.spotify.com/track/2NbP39zui35hegUiB4txsp) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [أنا سكتين](https://open.spotify.com/album/6EmaA8aa8us7sIYspAdvTH) | 3:12 |
+| 1 | [Ma Fi Leil](https://open.spotify.com/track/7eBCrBVZGlfgbutr8CbqiG) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65), [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Ma Fi Leil](https://open.spotify.com/album/1Rp9bFeceWXdz8bifip2cM) | 3:57 |
 | 2 | [Sabran](https://open.spotify.com/track/682Rtn75JGXSwDR8h0Fqae) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Sabran](https://open.spotify.com/album/17b30vKiI4h0MzAokaF83X) | 3:22 |
-| 3 | [Ma Fi Leil](https://open.spotify.com/track/7eBCrBVZGlfgbutr8CbqiG) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65), [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Ma Fi Leil](https://open.spotify.com/album/1Rp9bFeceWXdz8bifip2cM) | 3:57 |
-| 4 | [هيجيلي موجوع](https://open.spotify.com/track/2Heqj9jtxarmecKxycGSWn) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [هيجيلي موجوع](https://open.spotify.com/album/0pSmKTjNF9e51ZUGXRVDWI) | 3:30 |
+| 3 | [هيجيلي موجوع](https://open.spotify.com/track/2Heqj9jtxarmecKxycGSWn) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [هيجيلي موجوع](https://open.spotify.com/album/0pSmKTjNF9e51ZUGXRVDWI) | 3:30 |
+| 4 | [حظي ضحكلي](https://open.spotify.com/track/2NbP39zui35hegUiB4txsp) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [أنا سكتين](https://open.spotify.com/album/6EmaA8aa8us7sIYspAdvTH) | 3:12 |
 | 5 | [بيكلموني](https://open.spotify.com/track/4CJIs5dygfQCbByVKAnK2T) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [خليني أشوفك](https://open.spotify.com/album/5JwGbgFci3q0pLCKHzGZPc) | 5:16 |
 | 6 | [كل وعد](https://open.spotify.com/track/53A95mGzwiRKw61TOI7VEW) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [كل وعد](https://open.spotify.com/album/6UAXKC0N1xKuEh7otKcz3H) | 3:28 |
 | 7 | [Woseltelha](https://open.spotify.com/track/1oh3WIRKgoNi60o9SMykwS) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Woseltelha](https://open.spotify.com/album/6RrDEMqADohA3DYvWkulNB) | 4:08 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 | 39 | [براحة يا شيخة](https://open.spotify.com/track/1VfR7wqvEB9vQZrpizMRmf) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [براحة يا شيخة](https://open.spotify.com/album/20FUHKKDyLbnf8shknBSnk) | 2:59 |
 | 40 | [Bel Ahlam](https://open.spotify.com/track/4tqnXpS0wJcqkZMFx7reaY) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Bel Ahlam](https://open.spotify.com/album/6NqhRld7ho3Y5w40QKf9Dk) | 2:49 |
 
-Snapshot ID: `Zk4uEAAAAADVfNfU44tSEtoaYHDNshn8`
+Snapshot ID: `Zm3tYwAAAACp5tEAwprkLcVAgoQDLp7O`

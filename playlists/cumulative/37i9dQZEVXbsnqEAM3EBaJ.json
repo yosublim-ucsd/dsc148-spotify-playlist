@@ -1544,7 +1544,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 184346,
       "name": "Amoeba - Live",
       "url": "https://open.spotify.com/track/4wekOtjac6ZFrPZcenF8Dv"
@@ -3778,7 +3778,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 245947,
       "name": "Burden",
       "url": "https://open.spotify.com/track/0W2pvsskj1e50sC2KL9Gge"
@@ -4734,7 +4734,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 313988,
       "name": "Circular - BVSMV Sunset Mix",
       "url": "https://open.spotify.com/track/3HF3PWNCMzpS0vkRrG1ZUc"
@@ -8884,7 +8884,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 216979,
       "name": "Fortnight (feat. Post Malone) - BLOND:ISH Remix",
       "url": "https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc"
@@ -11613,6 +11613,24 @@
     },
     {
       "album": {
+        "name": "Rock 'n' Roll Star!",
+        "url": "https://open.spotify.com/album/1bqZP0fgsBTnQaYj4Dte7Z"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142338,
+      "name": "I Can't Explain - Trident Studios Version",
+      "url": "https://open.spotify.com/track/0YK64CRFEMRCDkMTiM6Sjk"
+    },
+    {
+      "album": {
         "name": "I Can't Explain (Trident Studios Version)",
         "url": "https://open.spotify.com/album/7hYVT6L9DPdUCpOKAnguYo"
       },
@@ -14100,7 +14118,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 294840,
       "name": "Keep It On Track",
       "url": "https://open.spotify.com/track/13PYRY0Z8gek8xPKbhHqpb"
@@ -14602,7 +14620,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 200004,
       "name": "Lady Stardust - Sounds Of The 70s: John Peel - recorded 11th January 1972",
       "url": "https://open.spotify.com/track/4hqwoqhghRw19lZyd0zu7x"
@@ -19772,7 +19790,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 492106,
       "name": "Perfume Of The Timeless",
       "url": "https://open.spotify.com/track/2XXXvrIkEBtR3LlbfJExpJ"
@@ -21320,7 +21338,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 261000,
       "name": "Reasons - TDWP Version feat. L\u00d8L\u00d8",
       "url": "https://open.spotify.com/track/2udXkSxzo6KziHfIVgOcoo"
@@ -22068,7 +22086,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 269688,
       "name": "Run Run Se Fue pa'l Norte",
       "url": "https://open.spotify.com/track/5d7L6rZ5jEjPuC19aaFXjm"
@@ -25912,7 +25930,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 446762,
       "name": "The Call of Ktulu",
       "url": "https://open.spotify.com/track/05fbvl3wlNRQBzaDoZ6zfG"
@@ -25930,7 +25948,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 446762,
       "name": "The Call of Ktulu",
       "url": "https://open.spotify.com/track/3UlMifZrdaMzOiuTGdCq9t"
@@ -27118,7 +27136,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 97024,
       "name": "The Sentence",
       "url": "https://open.spotify.com/track/25Dri4NJ7U5yrRUPZBMDlv"

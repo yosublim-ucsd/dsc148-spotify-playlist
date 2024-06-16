@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACoWESA+eyR0CwZntLhJskk",
+  "snapshot_id": "AAAAAAAAAACpUwdM9S88Deb9XJaSKY3o",
   "tracks": [
     {
       "added_at": "2024-06-14 04:00:00",
@@ -39,6 +39,30 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
+        "name": "VANTABLACK",
+        "url": "https://open.spotify.com/album/2OObNk2YheZrtE1YYZLhD7"
+      },
+      "artists": [
+        {
+          "name": "Lalah Hathaway",
+          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
+        },
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        }
+      ],
+      "duration_ms": 157679,
+      "name": "BLACK.",
+      "url": "https://open.spotify.com/track/5XyvCeZRFOIr9yY4QTA3Ph"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
         "name": "Lemons",
         "url": "https://open.spotify.com/album/4CYg6XtJs56jEQ1vzDSvAd"
       },
@@ -55,46 +79,6 @@
       "duration_ms": 204923,
       "name": "Lemons",
       "url": "https://open.spotify.com/track/4aePYLeftWwSrVGVtBVA1v"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Sega",
-        "url": "https://open.spotify.com/album/7bVrwttLi9lgVg2Pa53DO1"
-      },
-      "artists": [
-        {
-          "name": "Action Bronson",
-          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
-        }
-      ],
-      "duration_ms": 105577,
-      "name": "Sega",
-      "url": "https://open.spotify.com/track/35abyRG69nf9bvTAwCpASz"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Why Lawd?",
-        "url": "https://open.spotify.com/album/0LlzHi8Erl8zpTumqt88Qe"
-      },
-      "artists": [
-        {
-          "name": "NxWorries",
-          "url": "https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Knxwledge",
-          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
-        }
-      ],
-      "duration_ms": 94204,
-      "name": "HereIAm",
-      "url": "https://open.spotify.com/track/04BcI0Ptc7lDAWNXb1MK3k"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -131,18 +115,18 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Cinnamon Curls",
-        "url": "https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL"
+        "name": "Hey Stranger",
+        "url": "https://open.spotify.com/album/3LrKY4Q1ZJdOXDAEeKGfE9"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+          "name": "Phish",
+          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
         }
       ],
-      "duration_ms": 246586,
-      "name": "Cinnamon Curls",
-      "url": "https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe"
+      "duration_ms": 288220,
+      "name": "Hey Stranger",
+      "url": "https://open.spotify.com/track/7y9TVM2phcRCwSlevzG7pj"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -167,38 +151,18 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Hey Stranger",
-        "url": "https://open.spotify.com/album/3LrKY4Q1ZJdOXDAEeKGfE9"
+        "name": "Sega",
+        "url": "https://open.spotify.com/album/7bVrwttLi9lgVg2Pa53DO1"
       },
       "artists": [
         {
-          "name": "Phish",
-          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
         }
       ],
-      "duration_ms": 288220,
-      "name": "Hey Stranger",
-      "url": "https://open.spotify.com/track/7y9TVM2phcRCwSlevzG7pj"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Okay",
-        "url": "https://open.spotify.com/album/78JhwRR3SIBikI4z0CyqEY"
-      },
-      "artists": [
-        {
-          "name": "MC Solaar",
-          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
-        },
-        {
-          "name": "Marie-Flore",
-          "url": "https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr"
-        }
-      ],
-      "duration_ms": 186611,
-      "name": "Okay",
-      "url": "https://open.spotify.com/track/0oohdNzQIMjaFUk4130Lyh"
+      "duration_ms": 105577,
+      "name": "Sega",
+      "url": "https://open.spotify.com/track/35abyRG69nf9bvTAwCpASz"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -223,22 +187,18 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "always centered at night",
-        "url": "https://open.spotify.com/album/7LSEGVCXkU6TNmLHV8CPic"
+        "name": "Cinnamon Curls",
+        "url": "https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL"
       },
       "artists": [
         {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        },
-        {
-          "name": "Raquel Rodriguez",
-          "url": "https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
-      "duration_ms": 245471,
-      "name": "feelings come undone (feat. Raquel Rodriguez)",
-      "url": "https://open.spotify.com/track/6KIVg5NKdTujYktbRX3aTv"
+      "duration_ms": 246586,
+      "name": "Cinnamon Curls",
+      "url": "https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -263,6 +223,46 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
+        "name": "always centered at night",
+        "url": "https://open.spotify.com/album/7LSEGVCXkU6TNmLHV8CPic"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Raquel Rodriguez",
+          "url": "https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q"
+        }
+      ],
+      "duration_ms": 245471,
+      "name": "feelings come undone (feat. Raquel Rodriguez)",
+      "url": "https://open.spotify.com/track/6KIVg5NKdTujYktbRX3aTv"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/78JhwRR3SIBikI4z0CyqEY"
+      },
+      "artists": [
+        {
+          "name": "MC Solaar",
+          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
+        },
+        {
+          "name": "Marie-Flore",
+          "url": "https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr"
+        }
+      ],
+      "duration_ms": 186611,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/0oohdNzQIMjaFUk4130Lyh"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
         "name": "The HU Live At Glastonbury",
         "url": "https://open.spotify.com/album/28ytxeelhWVunLrrNrAaUV"
       },
@@ -279,8 +279,8 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "The Call of Ktulu",
-        "url": "https://open.spotify.com/album/2rQ0vvy8JtDNl8ptHhoHoq"
+        "name": "Plays Metallica, Vol. 2",
+        "url": "https://open.spotify.com/album/5iBW3WJk0JpwNaxsjQxlAI"
       },
       "artists": [
         {
@@ -290,7 +290,7 @@
       ],
       "duration_ms": 446762,
       "name": "The Call of Ktulu",
-      "url": "https://open.spotify.com/track/3UlMifZrdaMzOiuTGdCq9t"
+      "url": "https://open.spotify.com/track/05fbvl3wlNRQBzaDoZ6zfG"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -307,26 +307,6 @@
       "duration_ms": 194272,
       "name": "Ready To Go (Metal Version)",
       "url": "https://open.spotify.com/track/409n98170wq7DrxvE2C8nJ"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "A Draco Tale",
-        "url": "https://open.spotify.com/album/18NSYf3g7gXsAvmV1khhyJ"
-      },
-      "artists": [
-        {
-          "name": "DragonForce",
-          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
-        },
-        {
-          "name": "Brawl Stars",
-          "url": "https://open.spotify.com/artist/6uqbI01HHuIVZ2LcZoDGlG"
-        }
-      ],
-      "duration_ms": 216535,
-      "name": "A Draco Tale",
-      "url": "https://open.spotify.com/track/0Tdu40S3ME29eOb9rDWooV"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -351,6 +331,26 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
+        "name": "A Draco Tale",
+        "url": "https://open.spotify.com/album/18NSYf3g7gXsAvmV1khhyJ"
+      },
+      "artists": [
+        {
+          "name": "DragonForce",
+          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
+        },
+        {
+          "name": "Brawl Stars",
+          "url": "https://open.spotify.com/artist/6uqbI01HHuIVZ2LcZoDGlG"
+        }
+      ],
+      "duration_ms": 216535,
+      "name": "A Draco Tale",
+      "url": "https://open.spotify.com/track/0Tdu40S3ME29eOb9rDWooV"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
         "name": "Kyivan Clouds",
         "url": "https://open.spotify.com/album/68Bzzem57zx7bEoLgDR5hK"
       },
@@ -367,22 +367,6 @@
       "duration_ms": 218000,
       "name": "Kyivan Clouds",
       "url": "https://open.spotify.com/track/7qvplgmAE2jWixibdMrVCo"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Del Oro",
-        "url": "https://open.spotify.com/album/5EmgZrhnGC2kXDJrN3Lnx0"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 374122,
-      "name": "Del Oro",
-      "url": "https://open.spotify.com/track/5YgEN0XaRJo5EEiWuXDTqv"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -423,6 +407,22 @@
       "duration_ms": 197160,
       "name": "Other Side (feat. Charlotte Sands)",
       "url": "https://open.spotify.com/track/23aw0goM4v4fmIzA8AaBgo"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Del Oro",
+        "url": "https://open.spotify.com/album/5EmgZrhnGC2kXDJrN3Lnx0"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 374122,
+      "name": "Del Oro",
+      "url": "https://open.spotify.com/track/5YgEN0XaRJo5EEiWuXDTqv"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -480,7 +480,7 @@
       "added_at": "2024-06-14 04:00:00",
       "album": {
         "name": "War Story",
-        "url": "https://open.spotify.com/album/3EEFJJ4z0dlNCGp2YpVj1m"
+        "url": "https://open.spotify.com/album/4C7oXqnGPi6aDyhEGslzIx"
       },
       "artists": [
         {
@@ -498,7 +498,7 @@
       ],
       "duration_ms": 252021,
       "name": "Box Chevy 8",
-      "url": "https://open.spotify.com/track/3ulH9vUhRquuWgA2ZTI9tC"
+      "url": "https://open.spotify.com/track/0g5LQ3XQqQYxJiQzXSIRNh"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -515,6 +515,34 @@
       "duration_ms": 307800,
       "name": "libre",
       "url": "https://open.spotify.com/track/2Mb6eQQg99LqGIEitCnPea"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Morning",
+        "url": "https://open.spotify.com/album/4D7zQeGF6jNh2zaJmvVnuu"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 184942,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/1KSknsaLLPqWKLlVRSu8BA"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -579,42 +607,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "DND (It\u2019s Not Personal) - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/0mXQq8b0ovLxhT9TrGIgIP"
-      },
-      "artists": [
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        },
-        {
-          "name": "Bee-B",
-          "url": "https://open.spotify.com/artist/13FgCXn7z3ld9mR2Pz8eqc"
-        }
-      ],
-      "duration_ms": 156425,
-      "name": "DND (It's Not Personal) - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/0uhXqLoDPvsNpdgmmVpFFg"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Perfume Of The Timeless",
-        "url": "https://open.spotify.com/album/2lzs5KtWl3eovh9AMdWwCt"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 492106,
-      "name": "Perfume Of The Timeless",
-      "url": "https://open.spotify.com/track/2XXXvrIkEBtR3LlbfJExpJ"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "wasted time re-mix",
         "url": "https://open.spotify.com/album/67EFBkdaaq4kJ9gUUYgRXe"
       },
@@ -647,62 +639,6 @@
       "duration_ms": 368240,
       "name": "Burn for You - Extended Remix",
       "url": "https://open.spotify.com/track/6ZbVB0IaTWxNndZu2VIgGJ"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Grounded",
-        "url": "https://open.spotify.com/album/0ZidxETSzhXyT7pZV2CZ7q"
-      },
-      "artists": [
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        }
-      ],
-      "duration_ms": 819861,
-      "name": "Release",
-      "url": "https://open.spotify.com/track/2nsnyuimK758VKC7CAKG2k"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Rx",
-        "url": "https://open.spotify.com/album/5vegvIWwKcdSc8gYfirlgx"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
-        }
-      ],
-      "duration_ms": 186790,
-      "name": "One Cry (feat. Rosa Linn)",
-      "url": "https://open.spotify.com/track/2KE3Ukz2maas53WCtYIvCE"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

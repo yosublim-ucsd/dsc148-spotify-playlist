@@ -1238,7 +1238,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 153526,
       "name": "Club classics",
       "url": "https://open.spotify.com/track/0CySZwyRJ0vyUqtSjM9i2k"
@@ -1550,7 +1550,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 257683,
       "name": "DIRTY \u0441\u043c\u0435",
       "url": "https://open.spotify.com/track/1crbbcJi9fNG5Ax0cx1dTR"
@@ -3350,7 +3350,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-09",
+      "date_removed": null,
       "duration_ms": 186396,
       "name": "KOKAINOV",
       "url": "https://open.spotify.com/track/0NDeehQ58le8LCqIIg7yIP"
@@ -4152,7 +4152,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 93650,
       "name": "MASHA ULTRAFUNK",
       "url": "https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW"
@@ -4780,7 +4780,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 274192,
       "name": "Not Like Us",
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
@@ -5737,6 +5737,24 @@
     },
     {
       "album": {
+        "name": "sad girl summer (not again)",
+        "url": "https://open.spotify.com/album/5wvhIKjErWv8FGIqP0zQ57"
+      },
+      "artists": [
+        {
+          "name": "VICTORIA",
+          "url": "https://open.spotify.com/artist/21rgoGGMOSvl9RD6zeuOnq"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227465,
+      "name": "sad girl summer (not again)",
+      "url": "https://open.spotify.com/track/1Jt7lSay7eL1XFeq1m591s"
+    },
+    {
+      "album": {
         "name": "Santa",
         "url": "https://open.spotify.com/album/0SqUi6bPIlAaWfvZibBfia"
       },
@@ -6522,7 +6540,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 172533,
       "name": "Stargazing",
       "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
@@ -6826,7 +6844,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 143046,
       "name": "TELESCOPE",
       "url": "https://open.spotify.com/track/2vhyG6wMN64nlNakXJeKZ1"
@@ -6852,7 +6870,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 143046,
       "name": "TELESCOPE",
       "url": "https://open.spotify.com/track/46oDV1H9EdVmnWSivShuH1"
@@ -6932,6 +6950,44 @@
       "duration_ms": 235636,
       "name": "TEXAS HOLD 'EM",
       "url": "https://open.spotify.com/track/7AYmToZ5y67fBjq4RLFbuq"
+    },
+    {
+      "album": {
+        "name": "Thandaza",
+        "url": "https://open.spotify.com/album/6EJu5rECOfBSeHfVM3g6pm"
+      },
+      "artists": [
+        {
+          "name": "&ME",
+          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        },
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        },
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "Alan Dixon",
+          "url": "https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        },
+        {
+          "name": "Arabic Piano",
+          "url": "https://open.spotify.com/artist/0Na64T53YX2qe1XG97JyCO"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361810,
+      "name": "Thandaza",
+      "url": "https://open.spotify.com/track/4x6jx7AeSyE7PlQTdCjIJs"
     },
     {
       "album": {
@@ -7184,10 +7240,28 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 105724,
       "name": "The Thin Grey Line",
       "url": "https://open.spotify.com/track/0lZYlxoSG7DCecuLvMERfP"
+    },
+    {
+      "album": {
+        "name": "New World Depression",
+        "url": "https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105724,
+      "name": "The Thin Grey Line",
+      "url": "https://open.spotify.com/track/1d966178PJg6b4kcXqoYF3"
     },
     {
       "album": {
@@ -7656,7 +7730,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 134528,
       "name": "VEMPA",
       "url": "https://open.spotify.com/track/3pPMgoouYtezLiBTEeL9be"
@@ -8550,7 +8624,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 187164,
       "name": "\u0410\u043a\u043e \u0441\u0435 \u043e\u0431\u0430\u0434\u0438\u0448",
       "url": "https://open.spotify.com/track/2MEuBgeNUfk8ARB5RdFxSr"

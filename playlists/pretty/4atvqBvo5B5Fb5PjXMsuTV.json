@@ -1,13 +1,145 @@
 {
   "description": "Updated daily, with the latest popular singles!",
-  "num_followers": 78,
-  "original_name": "NEW SINGLES RELEASES | UPDATED 15 JUN",
+  "num_followers": 77,
+  "original_name": "NEW SINGLES RELEASES | UPDATED 16 JUN",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAI5EtEG4LXK0M/Tx2IFO1BvZ8C/AJA",
+  "snapshot_id": "AAAI6SOuvyb5oXWddAnvseXiVjN2swwD",
   "tracks": [
+    {
+      "added_at": "2024-06-15 22:02:07",
+      "album": {
+        "name": "Alltime",
+        "url": "https://open.spotify.com/album/4WvG2rQbkbdGPiD1iSnDF6"
+      },
+      "artists": [
+        {
+          "name": "LAZER DIM 700",
+          "url": "https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U"
+        }
+      ],
+      "duration_ms": 106924,
+      "name": "Alltime",
+      "url": "https://open.spotify.com/track/6vKfaYRT7SvKtmeIx5CC4c"
+    },
+    {
+      "added_at": "2024-06-15 22:02:07",
+      "album": {
+        "name": "Emptiness and Catharsis",
+        "url": "https://open.spotify.com/album/5FnjkyLo0SbPdMFUDuCwjk"
+      },
+      "artists": [
+        {
+          "name": "\u30c8\u30b2\u30ca\u30b7\u30c8\u30b2\u30a2\u30ea",
+          "url": "https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F"
+        }
+      ],
+      "duration_ms": 190254,
+      "name": "Emptiness and Catharsis",
+      "url": "https://open.spotify.com/track/2Kufli4GuFy252Pg2epaox"
+    },
+    {
+      "added_at": "2024-06-15 22:02:07",
+      "album": {
+        "name": "attraction",
+        "url": "https://open.spotify.com/album/0CB43CgpadF312vDqTXcGk"
+      },
+      "artists": [
+        {
+          "name": "PATTERN",
+          "url": "https://open.spotify.com/artist/4elUOMiZMJjFKBv13kA0vg"
+        }
+      ],
+      "duration_ms": 188825,
+      "name": "Pairing",
+      "url": "https://open.spotify.com/track/5IvPdDaqzww5jXCpnZp2jX"
+    },
+    {
+      "added_at": "2024-06-15 10:02:48",
+      "album": {
+        "name": "Back to You",
+        "url": "https://open.spotify.com/album/0AEyLiiOG8X8gJDlxNjndR"
+      },
+      "artists": [
+        {
+          "name": "St. Lucia",
+          "url": "https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu"
+        }
+      ],
+      "duration_ms": 213954,
+      "name": "Back to You",
+      "url": "https://open.spotify.com/track/0NCV1LFqZdk2CAAfvb0L2G"
+    },
+    {
+      "added_at": "2024-06-15 10:02:48",
+      "album": {
+        "name": "Off Dat Drank",
+        "url": "https://open.spotify.com/album/7qUE8BNEe4THq3saGIDF9y"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "duration_ms": 164833,
+      "name": "Off Dat Drank",
+      "url": "https://open.spotify.com/track/1z3X66BhWXsSr7lHlSCiDW"
+    },
+    {
+      "added_at": "2024-06-15 10:02:48",
+      "album": {
+        "name": "you won't regret",
+        "url": "https://open.spotify.com/album/2LwXyRQxukvB2TcJigt1u6"
+      },
+      "artists": [
+        {
+          "name": "usedcvnt",
+          "url": "https://open.spotify.com/artist/54Xm6xMcgYBf0Q6jwKU3Yg"
+        },
+        {
+          "name": "DVDirl",
+          "url": "https://open.spotify.com/artist/2JwkpUdWYXiwdKqDDFiXuY"
+        }
+      ],
+      "duration_ms": 144565,
+      "name": "you won't regret",
+      "url": "https://open.spotify.com/track/6huZYEaGs7oiMvO4hcmbhl"
+    },
+    {
+      "added_at": "2024-06-15 10:02:48",
+      "album": {
+        "name": "going crazy",
+        "url": "https://open.spotify.com/album/1QASEFZAD3oNW8GnjpUXHQ"
+      },
+      "artists": [
+        {
+          "name": "Swapa",
+          "url": "https://open.spotify.com/artist/37v7VwiEJ4ImKCmCrA2Z6a"
+        }
+      ],
+      "duration_ms": 118282,
+      "name": "going crazy",
+      "url": "https://open.spotify.com/track/1GzUELvTaP9xjmxtp0YRJf"
+    },
+    {
+      "added_at": "2024-06-15 10:02:48",
+      "album": {
+        "name": "His Lies",
+        "url": "https://open.spotify.com/album/4aUtux0hKlWWudD9zTc70e"
+      },
+      "artists": [
+        {
+          "name": "Wretched Tongues",
+          "url": "https://open.spotify.com/artist/4x0FG84m1lKUYZf343WSVH"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "His Lies",
+      "url": "https://open.spotify.com/track/1sq1EJ9C5LSMgaPCzaqaic"
+    },
     {
       "added_at": "2024-06-14 22:02:38",
       "album": {
@@ -299,148 +431,8 @@
       "duration_ms": 212088,
       "name": "LUV 4 YA",
       "url": "https://open.spotify.com/track/4gy2E8Wwz5hgwOLjv03cYS"
-    },
-    {
-      "added_at": "2024-06-14 10:04:11",
-      "album": {
-        "name": "Worry",
-        "url": "https://open.spotify.com/album/1qISfk68iEjgZ4cG17YuEy"
-      },
-      "artists": [
-        {
-          "name": "b\u00f4a",
-          "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
-        }
-      ],
-      "duration_ms": 288946,
-      "name": "Worry",
-      "url": "https://open.spotify.com/track/4TBMUdlZiHHWRZPHMBIMq4"
-    },
-    {
-      "added_at": "2024-06-14 10:04:11",
-      "album": {
-        "name": "Scammers Jackboys Robbers!",
-        "url": "https://open.spotify.com/album/2XjjmykWZk81naK7qQE3EY"
-      },
-      "artists": [
-        {
-          "name": "Autumn!",
-          "url": "https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt"
-        }
-      ],
-      "duration_ms": 156734,
-      "name": "Scammers Jackboys Robbers!",
-      "url": "https://open.spotify.com/track/6QgEVyW6MM1PKrKX4VIr8W"
-    },
-    {
-      "added_at": "2024-06-14 10:04:11",
-      "album": {
-        "name": "HOMICIDE",
-        "url": "https://open.spotify.com/album/3wOQrAZ0N4BoGZsdUiSDUt"
-      },
-      "artists": [
-        {
-          "name": "22Gz",
-          "url": "https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz"
-        }
-      ],
-      "duration_ms": 163291,
-      "name": "HOMICIDE",
-      "url": "https://open.spotify.com/track/47xzsCqltvufOz3Z3iGbQh"
-    },
-    {
-      "added_at": "2024-06-14 10:04:11",
-      "album": {
-        "name": "\u0422\u0443\u0434\u0430 \u0421\u044e\u0434\u0430 \u041c\u0438\u043b\u043b\u0438\u043e\u043d\u0435\u0440",
-        "url": "https://open.spotify.com/album/4zeZnTsm2cWTonvPWb42Jk"
-      },
-      "artists": [
-        {
-          "name": "Scally Milano",
-          "url": "https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg"
-        },
-        {
-          "name": "uglystephan",
-          "url": "https://open.spotify.com/artist/3I9Bd4StaxvFWPG9AAjlrO"
-        }
-      ],
-      "duration_ms": 130123,
-      "name": "\u0422\u0443\u0434\u0430 \u0421\u044e\u0434\u0430 \u041c\u0438\u043b\u043b\u0438\u043e\u043d\u0435\u0440",
-      "url": "https://open.spotify.com/track/5pVoWJcrs67551V6KAP6EH"
-    },
-    {
-      "added_at": "2024-06-14 10:04:11",
-      "album": {
-        "name": "Motorcycle",
-        "url": "https://open.spotify.com/album/3PtySbGmgRqnWMIKMvy2ip"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 166741,
-      "name": "Motorcycle",
-      "url": "https://open.spotify.com/track/1UHoE7uBnV3f9xrtil0ZL8"
-    },
-    {
-      "added_at": "2024-06-14 10:04:11",
-      "album": {
-        "name": "Grey Scale",
-        "url": "https://open.spotify.com/album/2PcTdFPrOWM28ffy1e8cY6"
-      },
-      "artists": [
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        }
-      ],
-      "duration_ms": 179160,
-      "name": "Grey Scale",
-      "url": "https://open.spotify.com/track/33zlW22yOTjdRB1X7SRdzU"
-    },
-    {
-      "added_at": "2024-06-14 10:04:11",
-      "album": {
-        "name": "DEVIL IS A LIE",
-        "url": "https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 130944,
-      "name": "DEVIL IS A LIE",
-      "url": "https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09"
-    },
-    {
-      "added_at": "2024-06-14 10:04:11",
-      "album": {
-        "name": "Twisting Our Fingers",
-        "url": "https://open.spotify.com/album/5d61Y5uPCU4QvJCX2axHj6"
-      },
-      "artists": [
-        {
-          "name": "Lil Gotit",
-          "url": "https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Lil Keed",
-          "url": "https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29"
-        }
-      ],
-      "duration_ms": 216125,
-      "name": "Twisting Our Fingers",
-      "url": "https://open.spotify.com/track/0M46V5WC2euVqHh80ey1Hw"
     }
   ],
-  "unique_name": "NEW SINGLES RELEASES | UPDATED 15 JUN",
+  "unique_name": "NEW SINGLES RELEASES | UPDATED 16 JUN",
   "url": "https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV"
 }

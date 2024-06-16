@@ -1960,7 +1960,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 191855,
       "name": "Cuando Se Te Moja La Tare",
       "url": "https://open.spotify.com/track/00EVTGFVlGQ5ZNmiUvR2H8"
@@ -2620,7 +2620,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
@@ -4358,7 +4358,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 259200,
       "name": "Lo Que Tiene",
       "url": "https://open.spotify.com/track/6RqD0fpAaKEZvQd0QrTj7j"
@@ -5562,7 +5562,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 117576,
       "name": "MTG QUERO VER SE VOC\u00ca TEM ATITUDE",
       "url": "https://open.spotify.com/track/13KLZ8VI9P7H7bxs0vtsXC"
@@ -6488,10 +6488,28 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 122187,
       "name": "Pop like this Pt. 2 - Slowed",
       "url": "https://open.spotify.com/track/50YO47KAJL1oEXv5P1hkQX"
+    },
+    {
+      "album": {
+        "name": "Pop like this Pt. 2 (Slowed)",
+        "url": "https://open.spotify.com/album/7AxvdeyukmAFes9SBWYE6x"
+      },
+      "artists": [
+        {
+          "name": "prodbycpkshawn",
+          "url": "https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122187,
+      "name": "Pop like this Pt. 2 - Slowed",
+      "url": "https://open.spotify.com/track/3xvzR05d6KgexfzjJgDRDl"
     },
     {
       "album": {
@@ -7153,6 +7171,28 @@
     },
     {
       "album": {
+        "name": "Sentado en un bar (Live)",
+        "url": "https://open.spotify.com/album/3bcAVIqWS2hMp9AynpfScP"
+      },
+      "artists": [
+        {
+          "name": "Kumbia Fusi\u00f3n",
+          "url": "https://open.spotify.com/artist/3aE0V09TxCeV1aU819Drh5"
+        },
+        {
+          "name": "Gary Make",
+          "url": "https://open.spotify.com/artist/5czkZedBdT8b7G8NJRu1l3"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319563,
+      "name": "Sentado en un bar - Live",
+      "url": "https://open.spotify.com/track/4ORqKIPU4MQzIDN6fTuei6"
+    },
+    {
+      "album": {
         "name": "Sequencia Phonk",
         "url": "https://open.spotify.com/album/7HLkljVrdJYzyqgegFm405"
       },
@@ -7324,7 +7364,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 206800,
       "name": "SIN PODERES",
       "url": "https://open.spotify.com/track/7keTeNuCO2ghzRRW7CVzsJ"
@@ -7668,7 +7708,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 201595,
       "name": "Spring Snow",
       "url": "https://open.spotify.com/track/0tCr7DoUBSdtdSl0rxZmct"
@@ -9272,7 +9312,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 196363,
       "name": "WYA",
       "url": "https://open.spotify.com/track/5lCMDnVpGTuFC7YejgpTIF"

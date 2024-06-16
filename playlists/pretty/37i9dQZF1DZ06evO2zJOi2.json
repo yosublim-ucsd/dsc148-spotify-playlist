@@ -1,12 +1,12 @@
 {
   "description": "This is Morgan Wallen. The essential tracks, all in one playlist.",
-  "num_followers": 613312,
+  "num_followers": 613801,
   "original_name": "This Is Morgan Wallen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAADHcV86IiP7aOSHateF0Vj/",
+  "snapshot_id": "ZmuIAAAAAAD2CMIEldRqRRqbFExbBWS/",
   "tracks": [
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 158003,
-      "name": "Ain\u2019t That Some",
-      "url": "https://open.spotify.com/track/2YVlDlk2zRceefo6XlC6DX"
+      "duration_ms": 157477,
+      "name": "You Proof",
+      "url": "https://open.spotify.com/track/5W4kiM2cUYBJXKRudNyxjW"
     },
     {
       "added_at": null,
@@ -278,15 +278,11 @@
         {
           "name": "Morgan Wallen",
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 191231,
-      "name": "Man Made A Bar (feat. Eric Church)",
-      "url": "https://open.spotify.com/track/73zawW1ttszLRgT9By826D"
+      "duration_ms": 158003,
+      "name": "Ain\u2019t That Some",
+      "url": "https://open.spotify.com/track/2YVlDlk2zRceefo6XlC6DX"
     },
     {
       "added_at": null,
@@ -350,11 +346,15 @@
         {
           "name": "Morgan Wallen",
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 215571,
-      "name": "Thought You Should Know",
-      "url": "https://open.spotify.com/track/3Qu3Zh4WTKhP9GEXo0aDnb"
+      "duration_ms": 191231,
+      "name": "Man Made A Bar (feat. Eric Church)",
+      "url": "https://open.spotify.com/track/73zawW1ttszLRgT9By826D"
     },
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 206864,
-      "name": "One Thing At A Time",
-      "url": "https://open.spotify.com/track/1rXq0uoV4KTgRN64jXzIxo"
+      "duration_ms": 215571,
+      "name": "Thought You Should Know",
+      "url": "https://open.spotify.com/track/3Qu3Zh4WTKhP9GEXo0aDnb"
     },
     {
       "added_at": null,

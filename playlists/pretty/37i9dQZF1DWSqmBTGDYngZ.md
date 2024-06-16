@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqmBTGDYngZ.md) - [plain]
 
 > Splash and sing\-along.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,589,490 likes - 200 songs - 12 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,589,701 likes - 200 songs - 12 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

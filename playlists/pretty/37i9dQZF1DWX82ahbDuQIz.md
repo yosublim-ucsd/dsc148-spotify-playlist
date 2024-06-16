@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX82ahbDuQIz.md) - [plain]
 
 > Musical songs from Broadway, the West End and beyond\. Cover: Merrily We Roll Along
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,944 likes - 82 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,010 likes - 82 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

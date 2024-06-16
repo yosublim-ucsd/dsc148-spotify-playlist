@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover :  Krishnam Pranaya Sakhi
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,721 likes - 76 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,720 likes - 76 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 35 | [Udupi Anthem](https://open.spotify.com/track/7faGHJ7itPYUuDA0YCxK7K) | [Keerthan Holla](https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re) | [Udupi Anthem](https://open.spotify.com/album/4eqOEB6xL6Tds5obPP4YRA) | 3:48 |
 | 36 | [Preethiya Sagarake](https://open.spotify.com/track/6ptZTuOn6ttBebQsxftRs0) | [Varun Ramachandra](https://open.spotify.com/artist/5UayLxcBFJpD03u2qihj84), [Suprith Sharma](https://open.spotify.com/artist/2DQjdiDaVXZwVMW1tPtRVb), [Yashwanth Venkatesh](https://open.spotify.com/artist/0Za9MmuS6RBGpdKiAMlfuh) | [Preethiya Sagarake](https://open.spotify.com/album/5kKNBvPE6PFjV2bKeMK9F1) | 5:08 |
 | 37 | [Baalu Badenekayi \(From "Karataka Damanaka"\)](https://open.spotify.com/track/0vEK02cOCFe09MtUWNap6d) | [V\. Harikrishna](https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX) | [Karataka Damanaka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6pCbSNLoGXzk8LXoge6mil) | 3:42 |
-| 38 | [Avalobllu Sundari \(From "Sundari"\)](https://open.spotify.com/track/74FxChWHek6fCSz4JbHlxQ) | [Srikar Athreya](https://open.spotify.com/artist/25FU01YImlPAbLEGvp6E5X), [Ranjan](https://open.spotify.com/artist/5DCVwNu8GwH5XNIXBLOKag), [Vijaysurya](https://open.spotify.com/artist/0TyAKdyklRc5o304c606BY) | [Avalobllu Sundari \(From "Sundari"\)](https://open.spotify.com/album/13dbNOJ3Cmo5NrmueNZNFh) | 3:31 |
+| 38 | [Sundari](https://open.spotify.com/track/74FxChWHek6fCSz4JbHlxQ) | [Srikar Athreya](https://open.spotify.com/artist/25FU01YImlPAbLEGvp6E5X), [Ranjan](https://open.spotify.com/artist/5DCVwNu8GwH5XNIXBLOKag), [Vijaysurya](https://open.spotify.com/artist/0TyAKdyklRc5o304c606BY), [VIJAY LALITAA SURYA](https://open.spotify.com/artist/7501n7bptKE38lfFRj95QW) | [Sundari](https://open.spotify.com/album/13dbNOJ3Cmo5NrmueNZNFh) | 3:31 |
 | 39 | [Kcpd](https://open.spotify.com/track/3aV5SxX2wHOXWvBli4mKQR) | [Aniruddha Sastry](https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa) | [Atharva \[KANNADA\]](https://open.spotify.com/album/5VqyrB2kxECCAEV8qJvjWy) | 3:52 |
 | 40 | [Kavithe Kavithe \(From "Yuva"\)](https://open.spotify.com/track/51JkjupL5rHz5jGDwlWCad) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Kavithe Kavithe \(From "Yuva"\)](https://open.spotify.com/album/0RdWBnLcwZU4wCv4VlPvH8) | 3:34 |
 | 41 | [Kandor Mane Kathe \- From "Somberi"](https://open.spotify.com/track/4U772Dx5rNN0tidXo4xqzU) | [Naveen Sajju](https://open.spotify.com/artist/2PxwriIRRPcrUf2YHU7Wzx), [Gowtham Yashodhara](https://open.spotify.com/artist/5SJuQhyuTlyRVcTfcQQK5E), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Kandor Mane Kathe \(From "Somberi"\)](https://open.spotify.com/album/3XU5fm7Y4e9P8b11wot8Y7) | 2:47 |

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, Keep it Real\. Cover: JERRY
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,471 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,488 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Don't Look 2](https://open.spotify.com/track/4ZQAFya68eENRy7VGVXSUe) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [G\-Funk](https://open.spotify.com/artist/5fYzmklFOBvIXZef0iVmEH) | [Don't Look 2](https://open.spotify.com/album/5RCnxjGciArcGJScujPXyU) | 3:18 |
 | 2 | [Busy Doin Nothin](https://open.spotify.com/track/0xOblh9Op69YZkvbsHrsDW) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Busy Doin Nothin](https://open.spotify.com/album/5P7BaRLeaZ0RVj9DKUtPgx) | 3:40 |
-| 3 | [Winning Speech](https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Winning Speech](https://open.spotify.com/album/0pLUWCJtTpJCcYpzSTK7oC) | 3:47 |
+| 3 | [Winning Speech](https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Winning Speech](https://open.spotify.com/album/0pLUWCJtTpJCcYpzSTK7oC) | 3:47 |
 | 4 | [Khoobia](https://open.spotify.com/track/7vdLeF0hqThuFH8dxgUhrc) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [L.B.E](https://open.spotify.com/album/3SdX0ZgW8NqfTir2YEo05E) | 2:29 |
 | 5 | [Akhiyan](https://open.spotify.com/track/6Bfd1hyQ5AOqiBHlA3AAck) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [MERCURY](https://open.spotify.com/album/1xkw0stgWaNw9H3vx7CbXW) | 2:34 |
 | 6 | [ON TOP 2](https://open.spotify.com/track/2G4GimpAMeWaZ6VkcQ1RT9) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [On Top 2](https://open.spotify.com/album/7Mu7sumZaG3bM4rAfs6S8p) | 3:01 |

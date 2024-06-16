@@ -297,6 +297,24 @@
     },
     {
       "album": {
+        "name": "For the Loved and Lost",
+        "url": "https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm"
+      },
+      "artists": [
+        {
+          "name": "Kal Lavelle",
+          "url": "https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204320,
+      "name": "Saddest Song",
+      "url": "https://open.spotify.com/track/1qCO1GKJevNPfKPm3vLPtk"
+    },
+    {
+      "album": {
         "name": "= (Tour Edition)",
         "url": "https://open.spotify.com/album/4Hmz9dqVLEO7eVcXNTqkH2"
       },

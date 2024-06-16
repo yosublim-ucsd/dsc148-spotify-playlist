@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Margaux, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,198,655 likes - 132 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,198,777 likes - 132 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

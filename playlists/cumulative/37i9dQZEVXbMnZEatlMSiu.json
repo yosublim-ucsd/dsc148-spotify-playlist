@@ -211,6 +211,24 @@
     },
     {
       "album": {
+        "name": "NA",
+        "url": "https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7"
+      },
+      "artists": [
+        {
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162840,
+      "name": "ABCD",
+      "url": "https://open.spotify.com/track/0V2passWyAXnON67kfAj7y"
+    },
+    {
+      "album": {
         "name": "abcdefu",
         "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
       },
@@ -3934,6 +3952,28 @@
       "duration_ms": 170813,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/1nahzW3kfMuwReTka28tH5"
+    },
+    {
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/7ygCROw5jFHKGpdEVodz4v"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u723e\u5ba3 OSN",
+          "url": "https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE"
+        },
+        {
+          "name": "Patrick Brasca",
+          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180121,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/580BvW3DyUNoYFgQgoD2GI"
     },
     {
       "album": {
@@ -8282,7 +8322,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 201595,
       "name": "Spring Snow",
       "url": "https://open.spotify.com/track/0tCr7DoUBSdtdSl0rxZmct"
@@ -16258,7 +16298,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 252000,
       "name": "\u9019\u9ebc\u591a\u5e74 - \u96fb\u5f71\u300a\u6211\u60f3\u548c\u4f60\u5728\u4e00\u8d77\u300b\u63d2\u66f2",
       "url": "https://open.spotify.com/track/5NykvdFrH8mejmohWZvIWo"

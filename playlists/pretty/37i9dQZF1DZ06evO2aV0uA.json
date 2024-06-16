@@ -1,12 +1,12 @@
 {
   "description": "This is Lamb of God. The essential tracks, all in one playlist.",
-  "num_followers": 127751,
+  "num_followers": 127779,
   "original_name": "This Is Lamb of God",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAAAVYN7g0yURPb6vxFAbqhmm",
+  "snapshot_id": "ZmuIAAAAAAB/e0JXcVpaTsO6HY2BQQGk",
   "tracks": [
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lamb of God (Deluxe Version)",
-        "url": "https://open.spotify.com/album/13oFnEbK6yXLZBLm1rMqzE"
+        "name": "VII: Sturm und Drang",
+        "url": "https://open.spotify.com/album/3MnHIi1Nbk2TaHSE2dMVM0"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 245948,
-      "name": "Ghost Shaped People",
-      "url": "https://open.spotify.com/track/6gq5YInoFxEUT13bzu9DyC"
+      "duration_ms": 262333,
+      "name": "Still Echoes",
+      "url": "https://open.spotify.com/track/2MgcmZ2DnI6ZTUSf5ytjo9"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "VII: Sturm und Drang",
-        "url": "https://open.spotify.com/album/3MnHIi1Nbk2TaHSE2dMVM0"
+        "name": "Lamb of God (Deluxe Version)",
+        "url": "https://open.spotify.com/album/13oFnEbK6yXLZBLm1rMqzE"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 262333,
-      "name": "Still Echoes",
-      "url": "https://open.spotify.com/track/2MgcmZ2DnI6ZTUSf5ytjo9"
+      "duration_ms": 245948,
+      "name": "Ghost Shaped People",
+      "url": "https://open.spotify.com/track/6gq5YInoFxEUT13bzu9DyC"
     },
     {
       "added_at": null,
@@ -775,6 +775,38 @@
       "duration_ms": 286906,
       "name": "The Undertow",
       "url": "https://open.spotify.com/track/659HIjo4YGCavNiVEgqBtI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bill & Ted Face The Music (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4RFYP3Mo9vSA6Cf7HXDxsa"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 239441,
+      "name": "The Death Of Us - From The \"Bill & Ted Face The Music\" Soundtrack",
+      "url": "https://open.spotify.com/track/3ipiVujau0BpkJ0PmYUtWx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VII: Sturm und Drang",
+        "url": "https://open.spotify.com/album/4JvuAxQRUNbVcw66kFlXH9"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 264686,
+      "name": "Footprints",
+      "url": "https://open.spotify.com/track/44suwRrP7rmlugLUaC9qyZ"
     },
     {
       "added_at": null,
@@ -815,22 +847,6 @@
       "duration_ms": 146653,
       "name": "Straight For The Sun",
       "url": "https://open.spotify.com/track/7cqj8hfthKgGLy4cupPCGr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VII: Sturm und Drang",
-        "url": "https://open.spotify.com/album/4JvuAxQRUNbVcw66kFlXH9"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 264686,
-      "name": "Footprints",
-      "url": "https://open.spotify.com/track/44suwRrP7rmlugLUaC9qyZ"
     }
   ],
   "unique_name": "This Is Lamb of God",

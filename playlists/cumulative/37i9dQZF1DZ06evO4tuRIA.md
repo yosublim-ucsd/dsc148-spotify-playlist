@@ -4,7 +4,7 @@
 
 > This is LEGADO 7\. The essential tracks, all in one playlist.
 
-63 songs - 3 hr 5 min
+64 songs - 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [El Gori](https://open.spotify.com/track/1HKCPYUanIF67N6vWknABj) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [El Gori](https://open.spotify.com/album/22J5eVxDiCkMMalHqT2jzK) | 2:17 | 2024-01-29 |  |
 | [El Jeffrey](https://open.spotify.com/track/6KKseqrcB5I4IeGB0pEBcV) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [L.A\. Lumbre](https://open.spotify.com/album/7iZ9VeN3GuIQrA0wFnXrDb) | 2:33 | 2024-01-29 |  |
 | [El Popeye](https://open.spotify.com/track/64gzvtnbBAQVJslAmzxL2V) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 3:36 | 2024-01-29 |  |
+| [El Que Me Cerro La Puerta](https://open.spotify.com/track/1t4U0iirg1JtCJQnRdHuY5) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [El Que Me Cerro La Puerta](https://open.spotify.com/album/0RxCvHCUdi49gwWg83eIcq) | 3:02 | 2024-06-16 |  |
 | [El Ranchero](https://open.spotify.com/track/2LMF4sDKysFt18OJcJc6Sz) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [El Ranchero](https://open.spotify.com/album/1gMHDCpvHESeXVamqZyaEn) | 3:55 | 2024-03-02 |  |
 | [El Señoron](https://open.spotify.com/track/38vFTLhNQ2Yp3IbNFLSvO8) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [En Vivo con Tololoche Vol\. 1](https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg) | 2:10 | 2024-01-29 | 2024-04-19 |
 | [En El Calorón](https://open.spotify.com/track/6N7TWCgpK7kRfpnyQ6yt5B) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ) | [En El Calorón](https://open.spotify.com/album/7gPpeOQQNtZn90O5YvA7Ai) | 2:39 | 2024-01-29 | 2024-03-09 |
@@ -54,7 +55,7 @@
 | [Muchacho Criticado](https://open.spotify.com/track/1HmhaHMeiykfHi5xVHBeUn) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [Una Vez Más \(En Vivo\)](https://open.spotify.com/album/3jBjL4EUESfAaPjVosHAbb) | 2:48 | 2024-04-12 |  |
 | [Nuevos Talentos](https://open.spotify.com/track/2mDiFVZo6phlOcjbh5vShb) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Una Vez Más \(En Vivo\)](https://open.spotify.com/album/3jBjL4EUESfAaPjVosHAbb) | 2:48 | 2024-04-07 | 2024-05-03 |
 | [Ojos De Maniaco](https://open.spotify.com/track/52Cpyvd2dKb6XRn313nH87) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Duetos Con La Clika](https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq) | 3:38 | 2024-01-29 |  |
-| [Olor a Kush](https://open.spotify.com/track/2MUyOgaUmr77dHeqPoZhAc) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [100% Corridos Verdes](https://open.spotify.com/album/1DUb3GFpaTgNkxkCjdoc2i) | 2:36 | 2024-02-26 |  |
+| [Olor a Kush](https://open.spotify.com/track/2MUyOgaUmr77dHeqPoZhAc) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [100% Corridos Verdes](https://open.spotify.com/album/1DUb3GFpaTgNkxkCjdoc2i) | 2:36 | 2024-02-26 | 2024-06-16 |
 | [Pancho Conos](https://open.spotify.com/track/5NNu8DfB4Db1cbr4BSeUsu) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [En Vivo con Tololoche Vol\. 1](https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg) | 2:54 | 2024-01-29 |  |
 | [Paso En Culiacan \(En Vivo\)](https://open.spotify.com/track/0PXsTgZLZkpEJepjyZAGTS) | [Jaime Y Fernando](https://open.spotify.com/artist/6hd4yoO98vmwUq150wB5gm), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Paso En Culiacan \(En Vivo\)](https://open.spotify.com/album/6dWQ03bpI9ODThTAlqKWbP) | 4:00 | 2024-01-29 |  |
 | [Pateando Latas](https://open.spotify.com/track/3yQXmNacfHANLuaK5qomxz) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [The Magic, Vol.1](https://open.spotify.com/album/4q02YCUCtiUpDcUZ75D561) | 3:11 | 2024-01-29 |  |

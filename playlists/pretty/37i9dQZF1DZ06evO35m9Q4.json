@@ -1,12 +1,12 @@
 {
-  "description": "This Is Stevie Ray Vaughan. Los temas esenciales, todos en una lista.",
-  "num_followers": 151068,
+  "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
+  "num_followers": 151122,
   "original_name": "This Is Stevie Ray Vaughan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAABWBBlH2zFQDNV5eeifJqls",
+  "snapshot_id": "ZmuIAAAAAAA9n8MdjjIUomAqtmKUBSY6",
   "tracks": [
     {
       "added_at": null,
@@ -415,6 +415,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Solos, Sessions & Encores",
+        "url": "https://open.spotify.com/album/34moluVsUish03HIUdzSze"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        },
+        {
+          "name": "Dick Dale",
+          "url": "https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg"
+        }
+      ],
+      "duration_ms": 179826,
+      "name": "Pipeline",
+      "url": "https://open.spotify.com/track/38woaO9J9HFdlL5qBdAm68"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soul to Soul",
         "url": "https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e"
       },
@@ -627,38 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live at Carnegie Hall",
-        "url": "https://open.spotify.com/album/5Q0OpLSi7q2fKcHQHVeBGd"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 188533,
-      "name": "Letter to My Girlfriend - Live at Carnegie Hall, New York, NY - October 1984",
-      "url": "https://open.spotify.com/track/0Vxtc6GsFXlhRiJZ2IRG06"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Sky Is Crying",
-        "url": "https://open.spotify.com/album/7pBJuCKTNKFLf6JztTYv6B"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 348160,
-      "name": "May I Have a Talk with You",
-      "url": "https://open.spotify.com/track/01CIueRxPGWmkQjjzT70wi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Session",
         "url": "https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb"
       },
@@ -679,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Archives",
-        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
+        "name": "The Sky Is Crying",
+        "url": "https://open.spotify.com/album/7pBJuCKTNKFLf6JztTYv6B"
       },
       "artists": [
         {
@@ -688,9 +676,25 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 101973,
-      "name": "Slip Slidin' Slim",
-      "url": "https://open.spotify.com/track/67LxQFCjFefEJ1cqq1Y5br"
+      "duration_ms": 348160,
+      "name": "May I Have a Talk with You",
+      "url": "https://open.spotify.com/track/01CIueRxPGWmkQjjzT70wi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live at Carnegie Hall",
+        "url": "https://open.spotify.com/album/5Q0OpLSi7q2fKcHQHVeBGd"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 188533,
+      "name": "Letter to My Girlfriend - Live at Carnegie Hall, New York, NY - October 1984",
+      "url": "https://open.spotify.com/track/0Vxtc6GsFXlhRiJZ2IRG06"
     },
     {
       "added_at": null,
@@ -707,6 +711,22 @@
       "duration_ms": 270360,
       "name": "Come On, Pt. III",
       "url": "https://open.spotify.com/track/0t4Ef0Z7BGIRtwoK8S8299"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Archives",
+        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 101973,
+      "name": "Slip Slidin' Slim",
+      "url": "https://open.spotify.com/track/67LxQFCjFefEJ1cqq1Y5br"
     },
     {
       "added_at": null,

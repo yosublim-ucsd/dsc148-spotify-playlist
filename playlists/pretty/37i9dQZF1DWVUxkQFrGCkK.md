@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > 6 in the morning
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,143 likes - 284 songs - 20 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,290 likes - 284 songs - 20 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

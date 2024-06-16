@@ -1,12 +1,12 @@
 {
-  "description": "This is PARTYNEXTDOOR. The essential tracks, all in one playlist.",
-  "num_followers": 103185,
+  "description": "This Is PARTYNEXTDOOR. Los temas esenciales, todos en una lista.",
+  "num_followers": 103315,
   "original_name": "This Is PARTYNEXTDOOR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAAD9hVVdPWk3MDz2KLcjTat2",
+  "snapshot_id": "ZmuIAAAAAADkKYCHRoYxpY7Nd+kevLwe",
   "tracks": [
     {
       "added_at": null,
@@ -251,42 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pegasus",
-        "url": "https://open.spotify.com/album/0so2JtZLW2acBWStzut0W5"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 283285,
-      "name": "Excitement",
-      "url": "https://open.spotify.com/track/66w7lK0t98OPgvYjXp39IP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PARTYNEXTDOOR 4 (P4)",
-        "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 194733,
-      "name": "R e a l W o m a n",
-      "url": "https://open.spotify.com/track/7FzUJj4UzBlswK4EmF6BDK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
       },
@@ -307,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PARTYNEXTDOOR TWO",
-        "url": "https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ"
+        "name": "PARTYNEXTDOOR 4 (P4)",
+        "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
       },
       "artists": [
         {
@@ -316,9 +280,9 @@
           "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 229776,
-      "name": "Sex on the Beach",
-      "url": "https://open.spotify.com/track/1A8RGlqkdjAfwkXtEgJ7wR"
+      "duration_ms": 194733,
+      "name": "R e a l W o m a n",
+      "url": "https://open.spotify.com/track/7FzUJj4UzBlswK4EmF6BDK"
     },
     {
       "added_at": null,
@@ -339,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PARTYNEXTDOOR 4 (P4)",
-        "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
+        "name": "PARTYNEXTDOOR TWO",
+        "url": "https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ"
       },
       "artists": [
         {
@@ -348,9 +312,9 @@
           "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 179971,
-      "name": "S t u c k I n M y W a y s",
-      "url": "https://open.spotify.com/track/1S6d4cV78ODCv3IRtl07us"
+      "duration_ms": 229776,
+      "name": "Sex on the Beach",
+      "url": "https://open.spotify.com/track/1A8RGlqkdjAfwkXtEgJ7wR"
     },
     {
       "added_at": null,
@@ -367,6 +331,38 @@
       "duration_ms": 224187,
       "name": "R e s e n t m e n t",
       "url": "https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PARTYNEXTDOOR 4 (P4)",
+        "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 179971,
+      "name": "S t u c k I n M y W a y s",
+      "url": "https://open.spotify.com/track/1S6d4cV78ODCv3IRtl07us"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PARTYNEXTDOOR",
+        "url": "https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 192626,
+      "name": "Ballin'",
+      "url": "https://open.spotify.com/track/6qWfJkV2jRO5RkOIZMC3hL"
     },
     {
       "added_at": null,
@@ -391,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PARTYNEXTDOOR",
-        "url": "https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e"
+        "name": "COLOURS",
+        "url": "https://open.spotify.com/album/0318GAH0AN431KMF6jhFdz"
       },
       "artists": [
         {
@@ -400,9 +396,9 @@
           "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 192626,
-      "name": "Ballin'",
-      "url": "https://open.spotify.com/track/6qWfJkV2jRO5RkOIZMC3hL"
+      "duration_ms": 272339,
+      "name": "FREAK IN YOU",
+      "url": "https://open.spotify.com/track/0jhodoJFvVnpQ6Ify39lJQ"
     },
     {
       "added_at": null,
@@ -419,22 +415,6 @@
       "duration_ms": 234075,
       "name": "C h e e r s",
       "url": "https://open.spotify.com/track/6OyOjq2nMELgQX7GspwXlR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "COLOURS",
-        "url": "https://open.spotify.com/album/0318GAH0AN431KMF6jhFdz"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 272339,
-      "name": "FREAK IN YOU",
-      "url": "https://open.spotify.com/track/0jhodoJFvVnpQ6Ify39lJQ"
     },
     {
       "added_at": null,
@@ -495,18 +475,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "PARTYNEXTDOOR 3 (P3)",
-        "url": "https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ"
+        "name": "FIXTAPE",
+        "url": "https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi"
       },
       "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
         {
           "name": "PARTYNEXTDOOR",
           "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 202661,
-      "name": "Not Nice",
-      "url": "https://open.spotify.com/track/6tHt7Ln9RV8FTlT4kTxr2b"
+      "duration_ms": 259651,
+      "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
+      "url": "https://open.spotify.com/track/27g5G3TW90FSm3YxclYpAs"
     },
     {
       "added_at": null,
@@ -547,30 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FIXTAPE",
-        "url": "https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi"
-      },
-      "artists": [
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 259651,
-      "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
-      "url": "https://open.spotify.com/track/27g5G3TW90FSm3YxclYpAs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PARTYNEXTDOOR 3 (P3)",
         "url": "https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ"
       },
@@ -580,9 +544,9 @@
           "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 175211,
-      "name": "Only U",
-      "url": "https://open.spotify.com/track/3Ox7FJrgNNBfctIGPgj40s"
+      "duration_ms": 202661,
+      "name": "Not Nice",
+      "url": "https://open.spotify.com/track/6tHt7Ln9RV8FTlT4kTxr2b"
     },
     {
       "added_at": null,
@@ -607,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PARTYNEXTDOOR",
+        "url": "https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 171366,
+      "name": "Make a Mil",
+      "url": "https://open.spotify.com/track/2c1jezYXHqGN8C0AJhIE1S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PARTYMOBILE",
         "url": "https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16"
       },
@@ -623,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PARTYNEXTDOOR",
-        "url": "https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e"
+        "name": "PARTYNEXTDOOR 3 (P3)",
+        "url": "https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ"
       },
       "artists": [
         {
@@ -632,9 +612,9 @@
           "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 171366,
-      "name": "Make a Mil",
-      "url": "https://open.spotify.com/track/2c1jezYXHqGN8C0AJhIE1S"
+      "duration_ms": 175211,
+      "name": "Only U",
+      "url": "https://open.spotify.com/track/3Ox7FJrgNNBfctIGPgj40s"
     },
     {
       "added_at": null,
@@ -827,6 +807,26 @@
       "duration_ms": 208789,
       "name": "NOTHING LESS",
       "url": "https://open.spotify.com/track/5AONS2YjYFpZ6UZ8qiL4le"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Fuss",
+        "url": "https://open.spotify.com/album/2HEjp4r9NGBGLtXxk5TxsA"
+      },
+      "artists": [
+        {
+          "name": "OG Parker",
+          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 190111,
+      "name": "No Fuss",
+      "url": "https://open.spotify.com/track/7BAreLM0Yif723pgS8Kydl"
     }
   ],
   "unique_name": "This Is PARTYNEXTDOOR",

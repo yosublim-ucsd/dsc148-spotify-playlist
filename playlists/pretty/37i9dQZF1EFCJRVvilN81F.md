@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZGCSS2mWfQa1SXZ83hZIO">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,621 likes - 136 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,625 likes - 136 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 120 | [Intro \- Live At Capitol Studios / 2014](https://open.spotify.com/track/0fnld7tIRNZq8Kel2OLcbv) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Covered \(The Robert Glasper Trio Recorded Live At Capitol Studios\)](https://open.spotify.com/album/24G0m5YTTWxqrRvllb9O7v) | 2:12 |
 | 121 | [Dance](https://open.spotify.com/track/6xvPMkfMPhli1sGUXcbdMp) | [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [Jerome Raheem Fortune](https://open.spotify.com/album/12kL6ZRjIQgXTuc382LTR3) | 3:06 |
 | 122 | [Goin](https://open.spotify.com/track/3TAACPVfSwjwZy3Bc4CwC8) | [Diggy](https://open.spotify.com/artist/2LuUALONla8DJRSCiGONBp) | [Lighten Up](https://open.spotify.com/album/2cOUZ5AnAz7dCO2sdIg3Ic) | 2:39 |
-| 123 | [Name Drop Interlude \- Robert Glasper x KAYTRANADA](https://open.spotify.com/track/3z3xbjtTWL4BhZditetd8R) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Robert Glasper x KAYTRANADA: The ArtScience Remixes](https://open.spotify.com/album/62JcJAgTFI06FHviKCdrro) | 1:39 |
-| 124 | [DJ Got Me](https://open.spotify.com/track/5lFcDZXn5dXeAimwkpNP6s) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [DJ Got Me](https://open.spotify.com/album/0M8nZTO9KJ0x06YJPshuMZ) | 2:15 |
+| 123 | [DJ Got Me](https://open.spotify.com/track/5lFcDZXn5dXeAimwkpNP6s) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [DJ Got Me](https://open.spotify.com/album/0M8nZTO9KJ0x06YJPshuMZ) | 2:15 |
+| 124 | [Name Drop Interlude \- Robert Glasper x KAYTRANADA](https://open.spotify.com/track/3z3xbjtTWL4BhZditetd8R) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Robert Glasper x KAYTRANADA: The ArtScience Remixes](https://open.spotify.com/album/62JcJAgTFI06FHviKCdrro) | 1:39 |
 | 125 | [Outro \- Robert Glasper x KAYTRANADA](https://open.spotify.com/track/31Xy58NK7jr4H05K28EzrH) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Robert Glasper x KAYTRANADA: The ArtScience Remixes](https://open.spotify.com/album/62JcJAgTFI06FHviKCdrro) | 2:32 |
 | 126 | [Written In Stone](https://open.spotify.com/track/1DThFZ1wt6UQqApCofAKFb) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [ArtScience](https://open.spotify.com/album/3Bn4x1v0uRbt2JwkxVg7Wu) | 5:01 |
 | 127 | [Leave it Behind](https://open.spotify.com/track/0AleScLkrP6aQcJPBBzPPK) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [Leave It Behind](https://open.spotify.com/album/15OP5lGJB4ra76N5qGT9ua) | 2:51 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 135 | [Hold Tight](https://open.spotify.com/track/0pne7H1f67nyV7uPasAatn) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 3:28 |
 | 136 | [Undercover](https://open.spotify.com/track/5dUW0FWt3OO052bu7oczo9) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 4:07 |
 
-Snapshot ID: `AbUEWAAAAAC6FilAgLoWPls8KiUN6OpT`
+Snapshot ID: `AbUJ+AAAAAAZhCsQ5sBI/IBPdNfBw+TO`

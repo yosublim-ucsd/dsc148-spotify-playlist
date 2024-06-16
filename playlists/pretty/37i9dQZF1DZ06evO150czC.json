@@ -1,12 +1,12 @@
 {
   "description": "This is Midian Lima. The essential tracks, all in one playlist.",
-  "num_followers": 19640,
+  "num_followers": 19645,
   "original_name": "This Is Midian Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAACgoCEWxs/I7x3LIEAAG9z5",
+  "snapshot_id": "ZmuIAAAAAABpkCYxgRSVBaiPlAQAk6sQ",
   "tracks": [
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Milagre",
+        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 286023,
+      "name": "Shekinah",
+      "url": "https://open.spotify.com/track/7wVqvLKSrL6VJJgMgyTZdL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mais Um Dia",
         "url": "https://open.spotify.com/album/67K8kSFzjEqx7Fk9GO7nil"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 317000,
       "name": "Mais Um Dia",
       "url": "https://open.spotify.com/track/2lpkT44bYWAyMoZ8zMf5Dm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Milagre",
-        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 286023,
-      "name": "Shekinah",
-      "url": "https://open.spotify.com/track/7wVqvLKSrL6VJJgMgyTZdL"
     },
     {
       "added_at": null,
@@ -775,6 +775,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quando o Vento Soprar (Legado)",
+        "url": "https://open.spotify.com/album/2wLdIPoyLpyLl6dpFRwiQY"
+      },
+      "artists": [
+        {
+          "name": "Beno C\u00e9sar",
+          "url": "https://open.spotify.com/artist/2mnVdA4TjOXomvcMYpuUP2"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 262002,
+      "name": "Quando o Vento Soprar (Legado)",
+      "url": "https://open.spotify.com/track/4uLv8S0e4ocdYQxDOJ1kR9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Irresist\u00edvel Gl\u00f3ria",
         "url": "https://open.spotify.com/album/74pDWxumSyeuZox1bZNXBw"
       },
@@ -795,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinto o Teu Poder (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1Usw0QkOqkadByMwjlr26Y"
-      },
-      "artists": [
-        {
-          "name": "Jozyanne",
-          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 271539,
-      "name": "Sinto o Teu Poder (Ao Vivo)",
-      "url": "https://open.spotify.com/track/57gcsPS1Mu1sVzFV6YzsZv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Midian Lima (Ao Vivo)",
         "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
       },
@@ -831,22 +831,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quando o Vento Soprar (Legado)",
-        "url": "https://open.spotify.com/album/2wLdIPoyLpyLl6dpFRwiQY"
+        "name": "Sinto o Teu Poder (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1Usw0QkOqkadByMwjlr26Y"
       },
       "artists": [
         {
-          "name": "Beno C\u00e9sar",
-          "url": "https://open.spotify.com/artist/2mnVdA4TjOXomvcMYpuUP2"
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
         },
         {
           "name": "Midian Lima",
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 262002,
-      "name": "Quando o Vento Soprar (Legado)",
-      "url": "https://open.spotify.com/track/4uLv8S0e4ocdYQxDOJ1kR9"
+      "duration_ms": 271539,
+      "name": "Sinto o Teu Poder (Ao Vivo)",
+      "url": "https://open.spotify.com/track/57gcsPS1Mu1sVzFV6YzsZv"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from IDLES \(pictured\), Cassö x Jazzy ft Headie One, Normani and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 852,684 likes - 117 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 852,710 likes - 117 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 23 | [OOTW](https://open.spotify.com/track/39POBulxadsYQ7hQgni7Z4) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [OOTW](https://open.spotify.com/album/3dKsoVM86jYYP7AHEN3qDX) | 2:19 |
 | 24 | [No Time \(feat\. SadBoi\)](https://open.spotify.com/track/4NOoZeetavZyquNLaGyxXC) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [No Time \(feat\. SadBoi\)](https://open.spotify.com/album/5K0QqzOKeqI504SN4wMAIe) | 2:51 |
 | 25 | [Does Only God Know That We're Lonely?](https://open.spotify.com/track/37un1ILHAQAkHqsvGKTUPe) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Midnight Butterflies](https://open.spotify.com/album/2IRQGgPLBObcTHu1PW2hOq) | 3:02 |
-| 26 | [Lose Myself](https://open.spotify.com/track/1uqgUlVmfomaH1IEeDOC5y) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [i tried.](https://open.spotify.com/album/3ZrMVmVgaAzizc3MzotdvN) | 3:05 |
+| 26 | [Lose Myself](https://open.spotify.com/track/1uqgUlVmfomaH1IEeDOC5y) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I TRIED.](https://open.spotify.com/album/3ZrMVmVgaAzizc3MzotdvN) | 3:05 |
 | 27 | [Riddles](https://open.spotify.com/track/692A9OaT8kc7KuFhvdcMqu) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Riddles](https://open.spotify.com/album/5RifJhwYzGXU4kQ4KGIkYC) | 2:49 |
 | 28 | [BLOW \(WHITE GIRL IN TOWN\) \[feat\. Kilo Ali\]](https://open.spotify.com/track/52r4FYDc8x1DlWt6x2vuiT) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [Kilo Ali](https://open.spotify.com/artist/6qbmEw8JjPrPV4HknWp0O1) | [BLOW \(WHITE GIRL IN TOWN\) \[feat\. Kilo Ali\]](https://open.spotify.com/album/3XqYLQXudPtDBs73gZYLQG) | 2:25 |
 | 29 | [ARABAMBI](https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [ARABAMBI](https://open.spotify.com/album/0aqdDNCzRkyTKA8fqy1NK1) | 3:10 |

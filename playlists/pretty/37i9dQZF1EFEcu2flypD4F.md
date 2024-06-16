@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,817 likes - 323 songs - 20 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,816 likes - 323 songs - 20 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -191,8 +191,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 181 | [Volcano](https://open.spotify.com/track/3rxTCj1eLJi9BK8ULnVTzQ) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [Volcano](https://open.spotify.com/album/5wmItckZHykA0C6PqXi4Nb) | 4:04 |
 | 182 | [Death By Chocolate](https://open.spotify.com/track/3bcGux71KANXSsGPODKz5A) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Some People Have REAL Problems](https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt) | 5:02 |
 | 183 | [Moonquake Lake](https://open.spotify.com/track/5k6nO1xvzgfktS4Ay9iQrC) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6SHWGGZJPmwfOLInPMEUFW) | 2:53 |
-| 184 | [Brightest Morning Star](https://open.spotify.com/track/7MXf5oS9bilbC70ii9YWbf) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney Jean \(Deluxe Version\)](https://open.spotify.com/album/5rlB2HPoNHg2m1wmmh0TRv) | 2:59 |
-| 185 | [Miracle](https://open.spotify.com/track/0eMtK0mVNQZtHKXYH2axiS) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 3:18 |
+| 184 | [Miracle](https://open.spotify.com/track/0eMtK0mVNQZtHKXYH2axiS) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 3:18 |
+| 185 | [Brightest Morning Star](https://open.spotify.com/track/7MXf5oS9bilbC70ii9YWbf) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney Jean \(Deluxe Version\)](https://open.spotify.com/album/5rlB2HPoNHg2m1wmmh0TRv) | 2:59 |
 | 186 | [You're My Flame](https://open.spotify.com/track/0TcD1Vrb1DKMLp25uHVUFR) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [The Garden](https://open.spotify.com/album/5eqHucyy09GuijWam8RAja) | 3:19 |
 | 187 | [Beautiful Calm Driving](https://open.spotify.com/track/3vn3tYZAJ3h95G9JSsKJv9) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Some People Have REAL Problems](https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt) | 5:02 |
 | 188 | [Big Girl Little Girl](https://open.spotify.com/track/4W2t7IWugHayILQdV3FLun) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [We Are Born](https://open.spotify.com/album/2sefE1XYR7ox1JTKCPerSI) | 4:18 |
@@ -250,9 +250,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 240 | [Towards The Sun](https://open.spotify.com/track/56Jm8UQS5PD86xfKjanI3r) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 2:47 |
 | 241 | [Don't Give Up \(Heaven Edit\)](https://open.spotify.com/track/50nNOHPUI1HCmbLpnHSTo9) | [Sam i](https://open.spotify.com/artist/5AUTN6tMncnOnYgJK1VM6K), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Don't Give Up \(Heaven Edit\)](https://open.spotify.com/album/3L9ufHivNkSdvYiVDnY1OT) | 3:26 |
 | 242 | [Cares At The Door](https://open.spotify.com/track/21MIfQxzau3lmiPtnwQzJX) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Some People Have REAL Problems](https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt) | 3:51 |
-| 243 | [Broken Biscuit](https://open.spotify.com/track/3IWBbQlGtsZgCO16AffdKE) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One \(Deluxe Edition\)](https://open.spotify.com/album/5ywlzsK6ga8Drc8RbSI0KX) | 4:55 |
-| 244 | [Like Water \(Originals\)](https://open.spotify.com/track/5lVwpU4qZ6XpGee6Zc4Ohd) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:57 |
-| 245 | [Wanna Be Known](https://open.spotify.com/track/3qV77JjyBtqHovXoYSLnr3) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 3:46 |
+| 243 | [Wanna Be Known](https://open.spotify.com/track/3qV77JjyBtqHovXoYSLnr3) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 3:46 |
+| 244 | [Broken Biscuit](https://open.spotify.com/track/3IWBbQlGtsZgCO16AffdKE) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One \(Deluxe Edition\)](https://open.spotify.com/album/5ywlzsK6ga8Drc8RbSI0KX) | 4:55 |
+| 245 | [Like Water \(Originals\)](https://open.spotify.com/track/5lVwpU4qZ6XpGee6Zc4Ohd) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:57 |
 | 246 | [One Night](https://open.spotify.com/track/5Ztiajtvy8IJ7ZJMGYCZXn) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 2:58 |
 | 247 | [12 Nights](https://open.spotify.com/track/2k5F4391ld0tzQCZf6vV7h) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Snowman Deluxe Edition\)](https://open.spotify.com/album/49kFmuCyxzpbtVfnpLcOP1) | 4:07 |
 | 248 | [Sober and Unkissed](https://open.spotify.com/track/6ll48HRbmGzB5zFK6LwBnJ) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Healing Is Difficult \(10th Anniversary Edition\)](https://open.spotify.com/album/0v1UhTkwjhmUYOFotlws6c) | 4:01 |
@@ -332,4 +332,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 322 | [How To Breathe](https://open.spotify.com/track/25NMllQ3Ww9gVZ0BvQUisZ) | [Christine Grünert](https://open.spotify.com/artist/6O3FOxYpUH7Hs6h3QWdGmE) | [How To Breathe](https://open.spotify.com/album/1w6AR2pem7fuleqHhaJSE7) | 3:29 |
 | 323 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 
-Snapshot ID: `AbUEIgAAAACaz9fFyXJ8okYus1IWgUMD`
+Snapshot ID: `AbUJ/gAAAAAiHObCnH3V55GyqVQ8crMO`

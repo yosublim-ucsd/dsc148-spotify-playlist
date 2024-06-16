@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > It's not just about the music, it's about the culture\. Cover: <br/><a href="https://open.spotify.com/artist/4kF0844GqqOkj7bvFTlW6E?si=sX1T3GUtRo\-m\_D9FuXmljA">Surreal Sessions</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,307 likes - 60 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,370 likes - 60 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

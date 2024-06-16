@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,827 likes - 315 songs - 16 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,826 likes - 315 songs - 16 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 57 | [Red Bentley \(feat\. Young Thug\)](https://open.spotify.com/track/3fFBZvG777xoKyvcrBq7lc) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Future & Juice WRLD Present..\. WRLD ON DRUGS](https://open.spotify.com/album/6P9PZjWXoCRF5b66BafPKY) | 3:27 |
 | 58 | [More Than That](https://open.spotify.com/track/180WImKPbvdUrboKUov5f4) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [More Than That](https://open.spotify.com/album/5f1rhSMLYVduMx8B62dtPv) | 2:38 |
 | 59 | [I'm Not Goin' \(feat\. Kevin Gates\)](https://open.spotify.com/track/79GYAkpRIEXZEEKSqufbj8) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Evil Genius](https://open.spotify.com/album/5xqQtdlJUY7Fg4BMp13LrX) | 3:16 |
-| 60 | [Built My Legacy \(feat\. Offset\)](https://open.spotify.com/track/7Jd3almoehzurMOYuy2eIE) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Project Baby 2: All Grown Up](https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i) | 3:04 |
-| 61 | [Unexplainable](https://open.spotify.com/track/6X5x6uOKio6vBiHyptfkGV) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Project Baby 2: All Grown Up](https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i) | 2:30 |
+| 60 | [Unexplainable](https://open.spotify.com/track/6X5x6uOKio6vBiHyptfkGV) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Project Baby 2: All Grown Up](https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i) | 2:30 |
+| 61 | [Built My Legacy \(feat\. Offset\)](https://open.spotify.com/track/7Jd3almoehzurMOYuy2eIE) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Project Baby 2: All Grown Up](https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i) | 3:04 |
 | 62 | [Forget That \(feat\. Rylo Rodriguez\)](https://open.spotify.com/track/7wxl36fAGU3Afv87ZblUwg) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 2:47 |
 | 63 | [Eat It](https://open.spotify.com/track/4V5Dv8IjHNTk2YJzU9vgsW) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 2:49 |
 | 64 | [Too Many](https://open.spotify.com/track/0CR60XwKbzgohE3I6NMjlR) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Legendary](https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV) | 2:25 |
@@ -206,8 +206,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 196 | [Let's Build \(feat\. Quavo\)](https://open.spotify.com/track/5lJHPJC0YUCpngW38H9T78) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [The Album](https://open.spotify.com/album/0BwUN4oXLzs95nE8GO1vrI) | 2:31 |
 | 197 | [Disciples](https://open.spotify.com/track/4uhHPuMHYujbT55nPXSaLc) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 2:48 |
 | 198 | [One on One \(feat\. YFN Lucci & Meek Mill\)](https://open.spotify.com/track/4z4aIN7Pmo3rpumYH0krXf) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [I Still Am](https://open.spotify.com/album/1tSsb3t0pqVVONvBJivoT9) | 3:50 |
-| 199 | [Road Trip](https://open.spotify.com/track/1rgQcTT1rHoxnX39im3E5z) | [Ehrling](https://open.spotify.com/artist/5wo7dlNLNdFmaaU7NTtdoT) | [Tropical Confessions, Pt\. 2](https://open.spotify.com/album/7epq2AHDFXB9tfhUuHcONB) | 3:30 |
-| 200 | [Contacts](https://open.spotify.com/track/5AhNq2KzWTlgJwx5oKybwD) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:23 |
+| 199 | [Contacts](https://open.spotify.com/track/5AhNq2KzWTlgJwx5oKybwD) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:23 |
+| 200 | [Road Trip](https://open.spotify.com/track/1rgQcTT1rHoxnX39im3E5z) | [Ehrling](https://open.spotify.com/artist/5wo7dlNLNdFmaaU7NTtdoT) | [Tropical Confessions, Pt\. 2](https://open.spotify.com/album/7epq2AHDFXB9tfhUuHcONB) | 3:30 |
 | 201 | [Playa Playa](https://open.spotify.com/track/12RYWJHQvfjdPBBKe1KGEj) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Yung Rich Nation](https://open.spotify.com/album/34DPoSeDW5fw2QW9Hl5Y92) | 4:40 |
 | 202 | [Novacane](https://open.spotify.com/track/3autIySOEzceIx7kKp0P1V) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Novacane](https://open.spotify.com/album/7JRWPjH1IDKuw2jxMcEhLh) | 2:54 |
 | 203 | [Chance](https://open.spotify.com/track/4NM7miPEdR7T8WXehTlbsV) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Chance \(feat\. Vybz Kartel\)](https://open.spotify.com/album/30LPolWtP4efyRTAbNmALl) | 2:54 |
@@ -324,4 +324,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 314 | [On God](https://open.spotify.com/track/1rmWQqmKWRtm9bks6Lr0Sp) | [Majin Murda](https://open.spotify.com/artist/7LLv3nfvIIYTqBAV8XjlO9) | [3K](https://open.spotify.com/album/7zjBIckQRALycP2MCWEYUg) | 3:27 |
 | 315 | [Peace Of Mind](https://open.spotify.com/track/6xISF2zBnsQ8SGWT4KmWsC) | [Heightsbaby](https://open.spotify.com/artist/4fEE1O32L50PqVbKhnfkCD) | [Peace Of Mind](https://open.spotify.com/album/1Kqzy0cn7DIKQKkHqTqQD6) | 2:55 |
 
-Snapshot ID: `AbUEIgAAAADi/QIRY1kR/bVOprU5cqfg`
+Snapshot ID: `AbUJ/gAAAADPEhnc8aEc8xEd42/7x5Nb`

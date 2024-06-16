@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 
 > Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,875 likes - 120 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,873 likes - 120 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

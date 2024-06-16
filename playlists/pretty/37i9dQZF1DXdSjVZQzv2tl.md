@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Diego & Victor Hugo
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,662,354 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,663,195 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bem Mais Que Eu \- Ao Vivo](https://open.spotify.com/track/5cdheFwwvj4mi3oJmTynKA) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Bem Mais Que Eu \(Ao Vivo\)](https://open.spotify.com/album/58RDGPq0zXYXqlLlwCf78W) | 2:57 |
+| 1 | [Bem Mais Que Eu \(Você Quer Caçar Seu Rumo\) \- Ao Vivo](https://open.spotify.com/track/5cdheFwwvj4mi3oJmTynKA) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Bem Mais Que Eu \(Você Quer Caçar Seu Rumo\) \[Ao Vivo\]](https://open.spotify.com/album/58RDGPq0zXYXqlLlwCf78W) | 2:57 |
 | 2 | [Dois Tristes \- Ao Vivo](https://open.spotify.com/track/4kQbzdZLAeqlrw3y7o4k3i) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cantando Sua História \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/14BMySBTWlLEkqQcUEpdtk) | 3:09 |
 | 3 | [Morena De Goiânia \- Ao Vivo](https://open.spotify.com/track/1WHDOr19zyyqu6XXIvdgfX) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [062 \(Ao Vivo\)](https://open.spotify.com/album/2BvTUSzjyRiATeuIPicQPY) | 2:46 |
 | 4 | [Foi Intenso \- Ao Vivo](https://open.spotify.com/track/3w392XWJ5bXzjcCR2Dmvqn) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Foi Intenso \(Ao Vivo\)](https://open.spotify.com/album/4zj7umsrvAbaEIxj9h2eS9) | 2:12 |

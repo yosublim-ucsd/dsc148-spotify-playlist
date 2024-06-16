@@ -743,6 +743,24 @@
     },
     {
       "album": {
+        "name": "Ra\u010da Gangsta Paradise",
+        "url": "https://open.spotify.com/album/74ejtJkmL6Irv8ayWW0Opa"
+      },
+      "artists": [
+        {
+          "name": "13K",
+          "url": "https://open.spotify.com/artist/0DXtbUJKCkHeaHPQPzFM9a"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145554,
+      "name": "4 Xany",
+      "url": "https://open.spotify.com/track/5McaxrUzgYSjviDdFLVaBX"
+    },
+    {
+      "album": {
         "name": "TEEN(R)AGE",
         "url": "https://open.spotify.com/album/0L6mO5j0TzekxaMWAayRot"
       },
@@ -1452,7 +1470,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 151875,
       "name": "ahoj temnota",
       "url": "https://open.spotify.com/track/3niIh2l3PDbIDC9yvCn1WN"
@@ -5048,7 +5066,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 343120,
       "name": "BLUE",
       "url": "https://open.spotify.com/track/2prqm9sPLj10B4Wg0wE5x9"
@@ -19190,7 +19208,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 177600,
       "name": "KICKIN\u2019 DOORS",
       "url": "https://open.spotify.com/track/0Fdlt45ZC5yioKm90ERE86"
@@ -19252,6 +19270,32 @@
       "duration_ms": 152727,
       "name": "Kiss Kiss",
       "url": "https://open.spotify.com/track/7DhcFv4TIHRspzpwupIrKs"
+    },
+    {
+      "album": {
+        "name": "Kisses (feat. bbyclose)",
+        "url": "https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34"
+      },
+      "artists": [
+        {
+          "name": "BL3SS",
+          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
+        },
+        {
+          "name": "CamrinWatsin",
+          "url": "https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6"
+        },
+        {
+          "name": "bbyclose",
+          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138246,
+      "name": "Kisses (feat. bbyclose)",
+      "url": "https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG"
     },
     {
       "album": {
@@ -36888,7 +36932,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 143046,
       "name": "TELESCOPE",
       "url": "https://open.spotify.com/track/2vhyG6wMN64nlNakXJeKZ1"
@@ -36914,7 +36958,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 143046,
       "name": "TELESCOPE",
       "url": "https://open.spotify.com/track/46oDV1H9EdVmnWSivShuH1"
@@ -37826,10 +37870,28 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 105724,
       "name": "The Thin Grey Line",
       "url": "https://open.spotify.com/track/0lZYlxoSG7DCecuLvMERfP"
+    },
+    {
+      "album": {
+        "name": "New World Depression",
+        "url": "https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105724,
+      "name": "The Thin Grey Line",
+      "url": "https://open.spotify.com/track/1d966178PJg6b4kcXqoYF3"
     },
     {
       "album": {
@@ -39465,6 +39527,28 @@
     },
     {
       "album": {
+        "name": "U\u017e Sa Mi Smej\u00fa O\u010di",
+        "url": "https://open.spotify.com/album/3k2HkapuEBRYmCW6JS0oIb"
+      },
+      "artists": [
+        {
+          "name": "Sara Rikas",
+          "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
+        },
+        {
+          "name": "Deryck",
+          "url": "https://open.spotify.com/artist/5K3tn27bBXu4lYlQa0zdxX"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179782,
+      "name": "U\u017e Sa Mi Smej\u00fa O\u010di",
+      "url": "https://open.spotify.com/track/7y6BRIc7V5Y7mVwZIcf7rP"
+    },
+    {
+      "album": {
         "name": "V Oblakoch",
         "url": "https://open.spotify.com/album/0ilGSSMKllux4qNrj4FKln"
       },
@@ -39952,7 +40036,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 153833,
       "name": "vietor",
       "url": "https://open.spotify.com/track/6fYhVvZTKt35QHSKUadh1H"
@@ -41844,7 +41928,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"

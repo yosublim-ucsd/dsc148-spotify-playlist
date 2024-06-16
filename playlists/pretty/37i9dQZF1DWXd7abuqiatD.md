@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXd7abuqiatD.md) - [plain]
 
 > Driving to work? or on a road trip? Find your sing\-along moments here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,860 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,972 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

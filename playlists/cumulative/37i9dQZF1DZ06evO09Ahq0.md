@@ -2,7 +2,7 @@
 
 ### [This Is Avenged Sevenfold](https://open.spotify.com/playlist/37i9dQZF1DZ06evO09Ahq0)
 
-> This Is Avenged Sevenfold\. Los temas esenciales, todos en una lista.
+> This is Avenged Sevenfold\. The essential tracks, all in one playlist.
 
 70 songs - 6 hr 20 min
 
@@ -11,9 +11,9 @@
 | [\(O\)rdinary](https://open.spotify.com/track/5Jfa1TJRwDnofxUlDg1yQy) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Life Is But a Dream…](https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa) | 2:52 | 2023-06-03 |  |
 | [\(O\)rdinary \- Synthwave Edition](https://open.spotify.com/track/598o75t7QhZ3Rfk4zUY8KA) | [All The Damn Vampires](https://open.spotify.com/artist/2U0OKMms9WuTVQztib78cH), [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [\(O\) rdinary \[Synthwave Edition\]](https://open.spotify.com/album/6uJm20KmWYCDi4fTLV8SXD) | 3:47 | 2024-02-13 | 2024-03-20 |
 | [A Little Piece of Heaven](https://open.spotify.com/track/1BLfQ6dPXmuDrFmbdfW7Jl) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Avenged Sevenfold](https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF) | 8:00 | 2022-05-30 |  |
-| [Afterlife](https://open.spotify.com/track/7zAt4tdL44D3VuzsvM0N8n) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Avenged Sevenfold](https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF) | 5:52 | 2022-05-30 | 2024-06-15 |
+| [Afterlife](https://open.spotify.com/track/7zAt4tdL44D3VuzsvM0N8n) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Avenged Sevenfold](https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF) | 5:52 | 2022-05-30 |  |
 | [Almost Easy](https://open.spotify.com/track/0DkmhHO4yyqCJFjosmmWPU) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Avenged Sevenfold](https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF) | 3:54 | 2022-05-30 |  |
-| [Bat Country](https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [City of Evil](https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA) | 5:11 | 2022-05-30 |  |
+| [Bat Country](https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [City of Evil](https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA) | 5:11 | 2022-05-30 | 2024-06-16 |
 | [Beast and the Harlot](https://open.spotify.com/track/6FVYwnVrnAEIRnY3bHJb46) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [City of Evil](https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA) | 5:43 | 2022-05-30 |  |
 | [Blinded in Chains](https://open.spotify.com/track/39ZiU2QVBvDQzeepJjg8tp) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [City of Evil](https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA) | 6:34 | 2022-05-30 |  |
 | [Buried Alive](https://open.spotify.com/track/4veeNpXDK1YRHMTJ1Cppsg) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nightmare](https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr) | 6:44 | 2022-05-30 |  |
@@ -43,7 +43,7 @@
 | [Heretic](https://open.spotify.com/track/31sv85yD7zbD6X9B2FHpxy) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 4:55 | 2022-05-30 |  |
 | [I Won't See You Tonight Part 1](https://open.spotify.com/track/67w1cb9ESAnCGJkC9hW2nO) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Waking The Fallen](https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk) | 8:58 | 2022-05-30 |  |
 | [Linewleum \(feat\. Avenged Sevenfold\)](https://open.spotify.com/track/0LIfpDM2OVNy2acS0aghJi) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ), [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Single Album](https://open.spotify.com/album/7clMEugC4qJ1ApbscpXsaL) | 3:19 | 2022-10-12 | 2023-05-23 |
-| [Lost](https://open.spotify.com/track/0EtXiKDaHJcVFFvhWpSfiN) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Avenged Sevenfold](https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF) | 5:01 | 2022-11-26 |  |
+| [Lost](https://open.spotify.com/track/0EtXiKDaHJcVFFvhWpSfiN) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Avenged Sevenfold](https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF) | 5:01 | 2022-11-26 | 2024-06-16 |
 | [M.I.A.](https://open.spotify.com/track/3PrvYgv97s5U752pIpDMNf) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [City of Evil](https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA) | 8:46 | 2022-05-30 |  |
 | [Mad Hatter](https://open.spotify.com/track/06ccOZxagoqk4oc0cGaJw7) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Mad Hatter](https://open.spotify.com/album/4cYx05jNL7Pz1AW0kcwoXi) | 5:03 | 2022-05-30 | 2023-06-05 |
 | [Malagueña Salerosa](https://open.spotify.com/track/2oZSBEtzUtq70iQwpNjrnk) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [The Stage \(Deluxe Edition\)](https://open.spotify.com/album/0OJ2cB135AqvHEtfXifM5D) | 4:14 | 2022-10-12 | 2023-06-29 |
@@ -62,7 +62,7 @@
 | [Seize the Day](https://open.spotify.com/track/7HKRWMTErKh56EIBeFcmdf) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [City of Evil](https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA) | 5:34 | 2022-05-30 |  |
 | [Set Me Free](https://open.spotify.com/track/2IrdmiRatVE5s3l2YRcIXH) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Set Me Free](https://open.spotify.com/album/0QKfHcNAjUqQo6PyQrGPk9) | 6:21 | 2022-05-30 |  |
 | [Shepherd of Fire](https://open.spotify.com/track/1fQaoh3imrMunWVZh5kf90) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 5:23 | 2022-05-30 |  |
-| [Sidewinder](https://open.spotify.com/track/6rujTb9hJa0XdUNtPftz4M) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [City of Evil](https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA) | 7:01 | 2024-06-11 | 2024-06-12 |
+| [Sidewinder](https://open.spotify.com/track/6rujTb9hJa0XdUNtPftz4M) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [City of Evil](https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA) | 7:01 | 2024-06-11 |  |
 | [So Far Away](https://open.spotify.com/track/7Hr1Ignop7cymbE3FbOtXa) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nightmare](https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr) | 5:26 | 2022-05-30 | 2024-05-29 |
 | [So Far Away](https://open.spotify.com/track/1vl4jCsTEs8basRO7pKQ7f) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nightmare](https://open.spotify.com/album/1kZNgA27ewArSfE17yog8U) | 5:26 | 2024-05-29 |  |
 | [St\. James](https://open.spotify.com/track/2n8rY6H6u2AnUe6Fi8M6P6) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Diamonds in the Rough](https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d) | 5:02 | 2022-10-12 |  |

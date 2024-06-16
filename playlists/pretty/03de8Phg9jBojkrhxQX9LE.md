@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,561 likes - 148 songs - 8 hr 14 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,577 likes - 148 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 53 | [Moments](https://open.spotify.com/track/0BU2hNH4lvkignYKP6kJW8) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02) | [Moments](https://open.spotify.com/album/3wLwVLZ25BdqRKjcnWSTx5) | 3:08 |
 | 54 | [Broke My Heart](https://open.spotify.com/track/7r2ysTQQLDP1aWOmTCeUQb) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Broke My Heart](https://open.spotify.com/album/6b0Z6PZLKI7VKE90f7HtUT) | 2:46 |
 | 55 | [CONTEXT](https://open.spotify.com/track/209naSvFNpkDmJGZ8pVoZ5) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra) | [CONTEXT](https://open.spotify.com/album/38gQnVVwncSqxJ4msdAvwy) | 2:17 |
-| 56 | [Flip It \- ÆON:MODE Remix](https://open.spotify.com/track/6zw7s3znqtUvU90Q5blgEj) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Dem Jointz](https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd) | [Flip It \(ÆON:MODE Remix\)](https://open.spotify.com/album/2SQt6DV4BmY6XonaNZCPOg) | 2:32 |
+| 56 | [Flip It \- ÆON:MODE Remix](https://open.spotify.com/track/6zw7s3znqtUvU90Q5blgEj) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Dem Jointz](https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd), [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV) | [Flip It \(ÆON:MODE Remix\)](https://open.spotify.com/album/2SQt6DV4BmY6XonaNZCPOg) | 2:32 |
 | 57 | [Right Here \(In Your Mind\)](https://open.spotify.com/track/2ZRx66Wel12Cujl9tkMDn5) | [Thys](https://open.spotify.com/artist/6x8tZ30aFwdl50YjETAppR), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Eigenwise](https://open.spotify.com/album/5eo4trPhzsVaCrpYsOd9gq) | 4:10 |
 | 58 | [TAKA \- Taiki Nulight Remix](https://open.spotify.com/track/0tdHittlEah9GOXVRx3CHu) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a) | [TAKA \(Taiki Nulight Remix\)](https://open.spotify.com/album/13DYWnl7vnV6gMGMGiDai8) | 3:29 |
 | 59 | [All Night](https://open.spotify.com/track/3CvvvvYhonflLwyBCx4Vpg) | [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB) | [All Night](https://open.spotify.com/album/3MAAtnlCAaruyYjvK0z484) | 3:10 |

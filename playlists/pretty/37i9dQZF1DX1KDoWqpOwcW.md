@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain]
 
 > Desde el Estadio de los 👹👹👹 Trueno nos comparte su nueva rola ⚾️🏟🧢
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,949 likes - 125 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,956 likes - 125 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

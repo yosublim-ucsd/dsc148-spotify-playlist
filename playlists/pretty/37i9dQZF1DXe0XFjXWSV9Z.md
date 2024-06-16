@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 
 > La psicodelia tropical latinoamericana y sus alucinantes ritmos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,375 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,394 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

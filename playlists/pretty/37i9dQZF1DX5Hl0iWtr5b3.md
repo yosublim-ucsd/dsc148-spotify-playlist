@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Hl0iWtr5b3.md) - [plain]
 
 > Even a wallflower can bloom...Listen to the music from Bridgerton, new season now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,268,805 likes - 108 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,278,474 likes - 108 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

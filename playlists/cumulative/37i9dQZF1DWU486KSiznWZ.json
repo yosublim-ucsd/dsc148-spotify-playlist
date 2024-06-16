@@ -428,7 +428,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 337368,
       "name": "Bel Salamah",
       "url": "https://open.spotify.com/track/6BPAlkPIa5LDBrJ2FzT6vl"
@@ -670,6 +670,24 @@
       "duration_ms": 239341,
       "name": "Entebhlek",
       "url": "https://open.spotify.com/track/19xth9Xqzirpot7cy1nWfZ"
+    },
+    {
+      "album": {
+        "name": "Estaslam Qalb",
+        "url": "https://open.spotify.com/album/291dphae9w4umV6vgSxEJc"
+      },
+      "artists": [
+        {
+          "name": "Aseel Hameem",
+          "url": "https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325038,
+      "name": "Estaslam Qalb",
+      "url": "https://open.spotify.com/track/3vji65yQ70Lkznq2sqlGtL"
     },
     {
       "album": {

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-04-26",
   "description": "Updated daily, with the latest popular singles!",
-  "name": "NEW SINGLES RELEASES | UPDATED 15 JUN",
+  "name": "NEW SINGLES RELEASES | UPDATED 16 JUN",
   "tracks": [
     {
       "album": {
@@ -605,6 +605,24 @@
     },
     {
       "album": {
+        "name": "Alltime",
+        "url": "https://open.spotify.com/album/4WvG2rQbkbdGPiD1iSnDF6"
+      },
+      "artists": [
+        {
+          "name": "LAZER DIM 700",
+          "url": "https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106924,
+      "name": "Alltime",
+      "url": "https://open.spotify.com/track/6vKfaYRT7SvKtmeIx5CC4c"
+    },
+    {
+      "album": {
         "name": "Already Gone",
         "url": "https://open.spotify.com/album/70L7Lav25m2IILlSSXnN1A"
       },
@@ -934,6 +952,24 @@
       "duration_ms": 186381,
       "name": "Baby Drake",
       "url": "https://open.spotify.com/track/4slSuTD2HhX4BS5FrW1Dqn"
+    },
+    {
+      "album": {
+        "name": "Back to You",
+        "url": "https://open.spotify.com/album/0AEyLiiOG8X8gJDlxNjndR"
+      },
+      "artists": [
+        {
+          "name": "St. Lucia",
+          "url": "https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213954,
+      "name": "Back to You",
+      "url": "https://open.spotify.com/track/0NCV1LFqZdk2CAAfvb0L2G"
     },
     {
       "album": {
@@ -3114,7 +3150,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 130944,
       "name": "DEVIL IS A LIE",
       "url": "https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09"
@@ -3738,6 +3774,24 @@
       "duration_ms": 159240,
       "name": "emotional time",
       "url": "https://open.spotify.com/track/1SqeqVKfcAI6oGZ6LmVr5e"
+    },
+    {
+      "album": {
+        "name": "Emptiness and Catharsis",
+        "url": "https://open.spotify.com/album/5FnjkyLo0SbPdMFUDuCwjk"
+      },
+      "artists": [
+        {
+          "name": "\u30c8\u30b2\u30ca\u30b7\u30c8\u30b2\u30a2\u30ea",
+          "url": "https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190254,
+      "name": "Emptiness and Catharsis",
+      "url": "https://open.spotify.com/track/2Kufli4GuFy252Pg2epaox"
     },
     {
       "album": {
@@ -4901,6 +4955,24 @@
     },
     {
       "album": {
+        "name": "going crazy",
+        "url": "https://open.spotify.com/album/1QASEFZAD3oNW8GnjpUXHQ"
+      },
+      "artists": [
+        {
+          "name": "Swapa",
+          "url": "https://open.spotify.com/artist/37v7VwiEJ4ImKCmCrA2Z6a"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118282,
+      "name": "going crazy",
+      "url": "https://open.spotify.com/track/1GzUELvTaP9xjmxtp0YRJf"
+    },
+    {
+      "album": {
         "name": "Gold River",
         "url": "https://open.spotify.com/album/5Npn6xTYfjg4s4IMbiwmqM"
       },
@@ -4956,7 +5028,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 179160,
       "name": "Grey Scale",
       "url": "https://open.spotify.com/track/33zlW22yOTjdRB1X7SRdzU"
@@ -5361,6 +5433,24 @@
     },
     {
       "album": {
+        "name": "His Lies",
+        "url": "https://open.spotify.com/album/4aUtux0hKlWWudD9zTc70e"
+      },
+      "artists": [
+        {
+          "name": "Wretched Tongues",
+          "url": "https://open.spotify.com/artist/4x0FG84m1lKUYZf343WSVH"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "His Lies",
+      "url": "https://open.spotify.com/track/1sq1EJ9C5LSMgaPCzaqaic"
+    },
+    {
+      "album": {
         "name": "Hollywouldn't",
         "url": "https://open.spotify.com/album/5nMD0LZaLjeh9yaqQbLurW"
       },
@@ -5408,7 +5498,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 163291,
       "name": "HOMICIDE",
       "url": "https://open.spotify.com/track/47xzsCqltvufOz3Z3iGbQh"
@@ -7626,7 +7716,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 166741,
       "name": "Motorcycle",
       "url": "https://open.spotify.com/track/1UHoE7uBnV3f9xrtil0ZL8"
@@ -8393,6 +8483,24 @@
     },
     {
       "album": {
+        "name": "Off Dat Drank",
+        "url": "https://open.spotify.com/album/7qUE8BNEe4THq3saGIDF9y"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164833,
+      "name": "Off Dat Drank",
+      "url": "https://open.spotify.com/track/1z3X66BhWXsSr7lHlSCiDW"
+    },
+    {
+      "album": {
         "name": "Oh France",
         "url": "https://open.spotify.com/album/5YREluP9Wz4gG4C5aJXuPS"
       },
@@ -8638,6 +8746,24 @@
       "duration_ms": 284226,
       "name": "Paint Me Like A Woman",
       "url": "https://open.spotify.com/track/6uFOrSpwGRFrSCCZIwaVrY"
+    },
+    {
+      "album": {
+        "name": "attraction",
+        "url": "https://open.spotify.com/album/0CB43CgpadF312vDqTXcGk"
+      },
+      "artists": [
+        {
+          "name": "PATTERN",
+          "url": "https://open.spotify.com/artist/4elUOMiZMJjFKBv13kA0vg"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188825,
+      "name": "Pairing",
+      "url": "https://open.spotify.com/track/5IvPdDaqzww5jXCpnZp2jX"
     },
     {
       "album": {
@@ -9928,7 +10054,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 156734,
       "name": "Scammers Jackboys Robbers!",
       "url": "https://open.spotify.com/track/6QgEVyW6MM1PKrKX4VIr8W"
@@ -12078,7 +12204,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 216125,
       "name": "Twisting Our Fingers",
       "url": "https://open.spotify.com/track/0M46V5WC2euVqHh80ey1Hw"
@@ -13020,7 +13146,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 288946,
       "name": "Worry",
       "url": "https://open.spotify.com/track/4TBMUdlZiHHWRZPHMBIMq4"
@@ -13118,6 +13244,28 @@
       "duration_ms": 139240,
       "name": "You Will Never Get Me",
       "url": "https://open.spotify.com/track/42MMJB5rgQu5X0P4nA8W6a"
+    },
+    {
+      "album": {
+        "name": "you won't regret",
+        "url": "https://open.spotify.com/album/2LwXyRQxukvB2TcJigt1u6"
+      },
+      "artists": [
+        {
+          "name": "usedcvnt",
+          "url": "https://open.spotify.com/artist/54Xm6xMcgYBf0Q6jwKU3Yg"
+        },
+        {
+          "name": "DVDirl",
+          "url": "https://open.spotify.com/artist/2JwkpUdWYXiwdKqDDFiXuY"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144565,
+      "name": "you won't regret",
+      "url": "https://open.spotify.com/track/6huZYEaGs7oiMvO4hcmbhl"
     },
     {
       "album": {
@@ -13244,7 +13392,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 130123,
       "name": "\u0422\u0443\u0434\u0430 \u0421\u044e\u0434\u0430 \u041c\u0438\u043b\u043b\u0438\u043e\u043d\u0435\u0440",
       "url": "https://open.spotify.com/track/5pVoWJcrs67551V6KAP6EH"

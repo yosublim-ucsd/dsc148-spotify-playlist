@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEa9Yw06mQB.md) - [plain]
 
 > Los clásicos de hoy y siempre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,579 likes - 150 songs - 10 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,672 likes - 150 songs - 10 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

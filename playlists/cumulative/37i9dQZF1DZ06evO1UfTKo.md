@@ -2,7 +2,7 @@
 
 ### [This Is Los Tigres Del Norte](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1UfTKo)
 
-> This Is Los Tigres Del Norte\. Los temas esenciales, todos en una lista.
+> This is Los Tigres Del Norte\. The essential tracks, all in one playlist.
 
 58 songs - 3 hr 12 min
 
@@ -23,7 +23,7 @@
 | [Directo Al Corazón](https://open.spotify.com/track/325noBSyeuRHcIzHO6s3ks) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Directo Al Corazon](https://open.spotify.com/album/5U0b7CBxQ6n6KDKseRGmGN) | 3:26 | 2024-01-29 |  |
 | [El Avión De La Muerte](https://open.spotify.com/track/088gbyPjGW9bF5Gf8hWKMA) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Mi Buena Suerte](https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA) | 4:02 | 2024-01-29 |  |
 | [El Ejemplo](https://open.spotify.com/track/5ccRYB0YtW768SGsAThK0T) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [El Ejemplo](https://open.spotify.com/album/1P96z53SwJ2Q0298WPBdUB) | 2:55 | 2024-01-29 |  |
-| [El Espinazo Del Diablo](https://open.spotify.com/track/6WZxlWrAukPrcfenEjV9t6) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Corridos Prohibidos](https://open.spotify.com/album/6ur3OZ3UXA4Y4IgLpMW5Rw) | 2:58 | 2024-01-29 |  |
+| [El Espinazo Del Diablo](https://open.spotify.com/track/6WZxlWrAukPrcfenEjV9t6) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Corridos Prohibidos](https://open.spotify.com/album/6ur3OZ3UXA4Y4IgLpMW5Rw) | 2:58 | 2024-01-29 | 2024-06-16 |
 | [El Maestro](https://open.spotify.com/track/1Vtiq4XS36Y0qvFp9HRyin) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Garra De...](https://open.spotify.com/album/36X48S9LwuT4hOF9igko7Y) | 2:52 | 2024-01-29 |  |
 | [El Niño Y La Boda](https://open.spotify.com/track/6n4urlKnhlJ9kD3NaagMAx) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Idolos Del Pueblo](https://open.spotify.com/album/1NL9uEozaXDi9wET7qCXfG) | 3:03 | 2024-01-29 |  |
 | [El Rengo Del Gallo Giro](https://open.spotify.com/track/7vUdpsAP66ZPZxuJJbVzVo) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Herencia Musical 20 Corridos Inolvidables](https://open.spotify.com/album/5HHesQPquZcoecO60eTNBT) | 3:05 | 2024-01-29 |  |
@@ -37,7 +37,7 @@
 | [La Banda Del Carro Rojo](https://open.spotify.com/track/6WDwbOSL8PGwokjxxZ7FDG) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Banda Del Carro Rojo](https://open.spotify.com/album/7fetk69EbFu3iKqjhrKJdA) | 3:06 | 2024-01-29 |  |
 | [La Camioneta Gris](https://open.spotify.com/track/7e9vWIQWNE6r74PBC7ixdS) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Corridos Prohibidos](https://open.spotify.com/album/6ur3OZ3UXA4Y4IgLpMW5Rw) | 3:15 | 2024-01-29 |  |
 | [La Fuga Del Rojo](https://open.spotify.com/track/0V0YkCQBSXaStCEDQttZgy) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Un Dia A La Vez](https://open.spotify.com/album/7dNBtrYe7XJMTTjuTtWp1U) | 3:12 | 2024-01-29 |  |
-| [La Jaula De Oro](https://open.spotify.com/track/0Ui4HOFj8qhdh2nm1lJ074) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Jaula De Oro](https://open.spotify.com/album/4xfHI8aqhWroOghjZ7NqkO) | 2:42 | 2024-01-29 | 2024-06-14 |
+| [La Jaula De Oro](https://open.spotify.com/track/0Ui4HOFj8qhdh2nm1lJ074) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Jaula De Oro](https://open.spotify.com/album/4xfHI8aqhWroOghjZ7NqkO) | 2:42 | 2024-01-29 |  |
 | [La Mesa Del Rincón](https://open.spotify.com/track/1FrXO0TFnw6g0ygHxhiZ3p) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Los Dos Plebes](https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK) | 3:23 | 2024-01-29 |  |
 | [La Mesera](https://open.spotify.com/track/3nbpeJzRTTL6D87fcXBcZs) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Contrabando Y Traicion](https://open.spotify.com/album/380Fi3mpLOmJAQYiZx22Y3) | 3:41 | 2024-01-29 |  |
 | [La Puerta Negra](https://open.spotify.com/track/5TueyPDnDMPSRdQd7VYooI) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Gracias America Sin Fronteras](https://open.spotify.com/album/53JJBD8NXpO3X2p6TgyTMd) | 3:23 | 2024-01-29 |  |

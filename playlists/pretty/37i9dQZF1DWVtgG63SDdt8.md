@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover:   <a href="spotify:artist:44tJHJzGo1h7XbBTepJwb0">Ke'Erron</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,053 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,104 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 15 | [We Always Win \- Live at Ramp Church Texas](https://open.spotify.com/track/1i7ukStv7lTLkMAF00Q9f1) | [Pastor Evan D\. Risher](https://open.spotify.com/artist/5v5PlejmZKnkJln0IPIfwt), [Culture](https://open.spotify.com/artist/4DbtUTi2WsBNdruAZL2pNz), [Davarius Crowder](https://open.spotify.com/artist/38My9HGnbUsb1b1XzEIV26) | [We Always Win \(Live at Ramp Church Texas\)](https://open.spotify.com/album/5qXZlAiiELIY8uhZB4lEEm) | 6:07 |
 | 16 | [I Don't Know What You Came to Do](https://open.spotify.com/track/0VZUMZyUlMibkIjDJfj8tl) | [Fresh Start Worship](https://open.spotify.com/artist/68DSgQk6h3W5oBCsWIgmWG) | [I Don't Know What You Came to Do](https://open.spotify.com/album/31L3iuXAxZ4idS4O8yh4ys) | 2:54 |
 | 17 | [Glory \(feat\. Dwan Hill\) \- Live](https://open.spotify.com/track/3F2vnQf1OxBuQouJGx4DSY) | [Cross Point Music](https://open.spotify.com/artist/7J5NYM9bwpfxk3hiwQH27P), [Dwan Hill](https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ) | [Glory](https://open.spotify.com/album/44qbLLOs5PWPB9RDor8DAu) | 4:26 |
-| 18 | [Dominion](https://open.spotify.com/track/3Uqb5F6LJOCI9WipwCoTHV) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I) | [Dominion](https://open.spotify.com/album/3UADIpMjM3Dl9W8QWTqm1v) | 8:36 |
+| 18 | [Dominion](https://open.spotify.com/track/3Uqb5F6LJOCI9WipwCoTHV) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [Osby Berry](https://open.spotify.com/artist/7lx0wr5ielfxtapVYT8EzX), [Michael Alexander Todd](https://open.spotify.com/artist/1SaSo4qJjNigo7YNwLyxPV) | [Dominion](https://open.spotify.com/album/3UADIpMjM3Dl9W8QWTqm1v) | 8:36 |
 | 19 | [Green Light](https://open.spotify.com/track/6D1RMZkJQvwb66Y413ykQN) | [SEMAJE](https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW) | [Green Light](https://open.spotify.com/album/1tBPCE3UREXlSMxQy5K1ij) | 2:23 |
 | 20 | [Feed Me](https://open.spotify.com/track/1qZIiR7Y1x4DFmSwuqfzDu) | [Titus Showers](https://open.spotify.com/artist/6XBycjw3xsUgrPyah0XZsc), [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Feed Me](https://open.spotify.com/album/53JjLZZw7tU2FsJnApvZCM) | 5:11 |
 | 21 | [We Gon Fight](https://open.spotify.com/track/5z6OcLtoJHUZbSSHrnCCrO) | [Nakitta Foxx](https://open.spotify.com/artist/3O7k7XATIWSxApm2qnj7qd) | [He Kept Me \(Deluxe Edition\)](https://open.spotify.com/album/5luW7YGCJVK2NOfNl4R5cd) | 3:34 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 31 | [You](https://open.spotify.com/track/6cyhb99lhlEGNcHbeLiw5D) | [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [You](https://open.spotify.com/album/0igGC3PsZJxlQH6Uk5o6zt) | 2:25 |
 | 32 | [GODS HAND](https://open.spotify.com/track/3ziRrlTS93NcvP3eGgJz5r) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [GODS HAND](https://open.spotify.com/album/0c2qV4UymqJK1C8iXFrEQd) | 3:33 |
 | 33 | [Jesus Juke \(Favor\)](https://open.spotify.com/track/2kEmG9OPYYIQ6gUjiQmbPF) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2) | [Jesus Juke \(Favor\)](https://open.spotify.com/album/6LsEKSVjxYiUSUXkUpGXF9) | 2:00 |
-| 34 | [Thank You Jesus \(Hallelujah\)](https://open.spotify.com/track/2zWa2zOIJyPyrWX1qIQxuT) | [Benji](https://open.spotify.com/artist/0HUqpd0yqVjDWnLo91j8zY) | [Thank You Jesus \(Hallelujah\)](https://open.spotify.com/album/4uCVhpWRXZDwbwylOgbWhe) | 2:36 |
+| 34 | [Thank You Jesus](https://open.spotify.com/track/2zWa2zOIJyPyrWX1qIQxuT) | [Benji](https://open.spotify.com/artist/0HUqpd0yqVjDWnLo91j8zY) | [Thank You Jesus](https://open.spotify.com/album/4uCVhpWRXZDwbwylOgbWhe) | 2:36 |
 | 35 | [TIGHTROPE](https://open.spotify.com/track/1AUw3hXkj4phJ29UQ3WsiD) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [TuKool Tiff](https://open.spotify.com/artist/50YX6wIj2UNBUvYs13U61H) | [TIGHTROPE](https://open.spotify.com/album/5PDi46ieLVa8dQagMPxySo) | 3:04 |
 | 36 | [True Religion](https://open.spotify.com/track/0hw0pt9irKkXj3qmML0Vbe) | [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O) | [True Religion](https://open.spotify.com/album/6gIjCOKVtLmcFYQvr3sWjg) | 2:26 |
 | 37 | [renaissance](https://open.spotify.com/track/6SxQqlPw6rqBOIoihXGpjx) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [renaissance](https://open.spotify.com/album/6679OcphVWYGyReuepOQNW) | 3:12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Free to be! Musica dalla comunità LGBQTIA+ italiana\. Gianna Nannini in cover! ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,475 likes - 85 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,479 likes - 85 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

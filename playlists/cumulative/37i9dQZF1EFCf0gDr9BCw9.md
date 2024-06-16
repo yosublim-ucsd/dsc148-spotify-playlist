@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-182 songs - 13 hr 38 min
+183 songs - 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,8 @@
 | [U.M.M.G\. \(Upper Manhattan Medical Group\)](https://open.spotify.com/track/72H0USNW6ZRKmYPRyyIO1g) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Lush Life](https://open.spotify.com/album/6AhxBDEY3T5JSsNXv1Oqtg) | 5:00 | 2024-05-16 | 2024-05-23 |
 | [Up and Down, Up and Down \(I Will Lead Them Up and Down\) \[Puck\]](https://open.spotify.com/track/1Cs9WtbQl4eWqzeOLNlBwo) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder \(Expanded Edition\)](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 3:02 | 2022-09-08 | 2023-05-15 |
 | [Valse](https://open.spotify.com/track/71BIOhurzguCa78klmstoH) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [Lush Life](https://open.spotify.com/album/06bL3slLObxuzHxNO8CDyQ) | 2:35 | 2022-09-08 |  |
-| [What Else Can You Do With a Drum, Pt\. 1 \- Calypso](https://open.spotify.com/track/05NaZClsqp0omXp4gYF8S0) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [A Drum Is a Woman](https://open.spotify.com/album/1L06BMH0kRrUQX93Vv3xck) | 1:52 | 2022-09-08 |  |
+| [What Else Can You Do With a Drum](https://open.spotify.com/track/5gYmkSgdzNS3ymOwR2t6pO) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Copenhagen 1958](https://open.spotify.com/album/49eb6TGttK5jEVK8H1bb29) | 2:03 | 2024-06-15 |  |
+| [What Else Can You Do With a Drum, Pt\. 1 \- Calypso](https://open.spotify.com/track/05NaZClsqp0omXp4gYF8S0) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [A Drum Is a Woman](https://open.spotify.com/album/1L06BMH0kRrUQX93Vv3xck) | 1:52 | 2022-09-08 | 2024-06-16 |
 | [Wounded Love](https://open.spotify.com/track/0MilYv2CPSz8OSagzt4OZ3) | [Ack van Rooyen](https://open.spotify.com/artist/0vKyK79242pyAt7Q2Q098s), [Paul Heller](https://open.spotify.com/artist/0a1edbJ1q3RcJJVNs6OZE7), [Hubert Nuss](https://open.spotify.com/artist/2ZGQmeuUjYVQqFBlOuCHu8), [Ingmar Heller](https://open.spotify.com/artist/2eN5KGOnoYxAXKdGXUmlV8) | [Live & In Studio](https://open.spotify.com/album/1AX3jZbnAs6Y6dCsZsYZ93) | 3:20 | 2024-03-17 |  |
 | [Wounded Love](https://open.spotify.com/track/3gwT3FmmqbAGYoGyZ658nT) | [Ack van Rooyen](https://open.spotify.com/artist/0vKyK79242pyAt7Q2Q098s), [Paul Heller](https://open.spotify.com/artist/0a1edbJ1q3RcJJVNs6OZE7), [Hubert Nuss](https://open.spotify.com/artist/2ZGQmeuUjYVQqFBlOuCHu8), [Ingmar Heller](https://open.spotify.com/artist/2eN5KGOnoYxAXKdGXUmlV8) | [Live & In Studio](https://open.spotify.com/album/6BcqNuH9JWg0ntgHOdiNhW) | 3:20 | 2024-03-01 | 2024-03-18 |
 | [You Better Know It \- 2004 Remaster](https://open.spotify.com/track/76d5GR4aO4HZqb8NQGQzq2) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings Ellington](https://open.spotify.com/album/4O1uLlNwEIVbwUXrpKL7rB) | 2:25 | 2022-09-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41?si=Qqq3\_LTYRHiV5smFQ16rLA">Franja Du Plessis</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,292 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,347 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 6 | [Vlerke In Die Wind](https://open.spotify.com/track/3384Slyd2MKR20102kWr4v) | [Andriette](https://open.spotify.com/artist/7bnm6q08SwpVAs76TGUj1P) | [Vlerke In Die Wind](https://open.spotify.com/album/3JmOrH2uDee5jsEtmiCzNO) | 3:30 |
 | 7 | [As Ek Opstaan](https://open.spotify.com/track/1TNSmK6EDmDIh1v3fj53JS) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [As Ek Opstaan](https://open.spotify.com/album/1mys7jg2amt0xxyfxW0xvK) | 3:50 |
 | 8 | [Net Dans](https://open.spotify.com/track/6QK8fzJ3pmgNN0uUXgtLzD) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Net Dans](https://open.spotify.com/album/43oqNDoTsJiNoYb7mbHouf) | 3:48 |
-| 9 | [Plaaskat](https://open.spotify.com/track/5LVE5RfHmwb6A5L8vDimP1) | [Richann Brussow](https://open.spotify.com/artist/6Oj09J13TIKZrR0n18DAom) | [Plaaskat](https://open.spotify.com/album/1lHVpQN3cS9LtPlElrIHdW) | 3:22 |
+| 9 | [Plaaskat](https://open.spotify.com/track/5LVE5RfHmwb6A5L8vDimP1) | [Richann Brüssow](https://open.spotify.com/artist/6Oj09J13TIKZrR0n18DAom) | [Plaaskat](https://open.spotify.com/album/1lHVpQN3cS9LtPlElrIHdW) | 3:22 |
 | 10 | [Sokkie Tot Die Einde](https://open.spotify.com/track/42zwwodmjObOkLONUDkjRv) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Sokkie Tot Die Einde](https://open.spotify.com/album/28FmLzjwY5uqI69rq5HJkP) | 3:48 |
 | 11 | [Skoolgeld](https://open.spotify.com/track/6H7HQCZpBc5NTrBM3OsbWu) | [Elvis Blue](https://open.spotify.com/artist/66TsrRnVkNfvLgLemHCLaJ) | [Skoolgeld](https://open.spotify.com/album/1Jcl9HhpniF43eEJVzTgc1) | 3:30 |
 | 12 | [Berge](https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Berge](https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE) | 4:15 |

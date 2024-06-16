@@ -1,12 +1,12 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 132359,
+  "num_followers": 132372,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAADODTClm+wGcbpJ+aDYCFoL",
+  "snapshot_id": "ZmuIAAAAAACkbFRL3ProCBeJrdI2OIj4",
   "tracks": [
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alegria Real",
-        "url": "https://open.spotify.com/album/6Rn8MMSrj193ofYERw8Osp"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 308964,
-      "name": "Deus Tremendo",
-      "url": "https://open.spotify.com/track/7JNDE2MxMjsBq1Bsy4M4EK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como \u00c1guia.",
         "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 278500,
       "name": "Toca-me, Pai",
       "url": "https://open.spotify.com/track/0W9Sjpu4N5dTq4LsvDNo18"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alegria Real",
+        "url": "https://open.spotify.com/album/6Rn8MMSrj193ofYERw8Osp"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 308964,
+      "name": "Deus Tremendo",
+      "url": "https://open.spotify.com/track/7JNDE2MxMjsBq1Bsy4M4EK"
     },
     {
       "added_at": null,

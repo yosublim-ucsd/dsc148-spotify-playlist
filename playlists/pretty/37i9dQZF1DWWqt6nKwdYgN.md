@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Penyair en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,217 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,212 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 3 | [VITALICIO](https://open.spotify.com/track/3XDms8gGxWCMmwpSDzwGPy) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [VITALICIO](https://open.spotify.com/album/3oTtPK9gUgOnHznnjNo161) | 2:00 |
 | 4 | [Mis Demonios](https://open.spotify.com/track/2bt4ICyaBAmqjfSjkMcNtx) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6) | [Mis Demonios](https://open.spotify.com/album/5xXtWGBc3x0tqPSgPlmA8B) | 3:30 |
 | 5 | [Konbini Wars](https://open.spotify.com/track/4G6fhntNzO01jPr2jV8TAk) | [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW), [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [Konbini Wars](https://open.spotify.com/album/1mCk7AHyKfC93rJ8tjhRZg) | 2:53 |
-| 6 | [Olvidarme de Ti](https://open.spotify.com/track/3maV3zRST3lH8rT5RHVHzH) | [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L) | [Apartamento 23](https://open.spotify.com/album/2X5xKYHX32aybrZiZznQet) | 3:49 |
+| 6 | [Olvidarme de Ti](https://open.spotify.com/track/3maV3zRST3lH8rT5RHVHzH) | [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L), [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Apartamento 23](https://open.spotify.com/album/2X5xKYHX32aybrZiZznQet) | 3:49 |
 | 7 | [Donante de Sangre](https://open.spotify.com/track/1HtO3fFig35Hj12m6luK0u) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Donante de Sangre](https://open.spotify.com/album/2YWkq261ekVyIFsm9LpvB6) | 3:47 |
 | 8 | [Que Viaje](https://open.spotify.com/track/1yvnZx7APnGuSnX6INm1Km) | [Tes](https://open.spotify.com/artist/20dfkG8rga7N6cZDKWIWhD), [Thomas Parr](https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB), [Donnie Denso](https://open.spotify.com/artist/6vE6yzTWbGYBnVd16jTwpW) | [Que Viaje](https://open.spotify.com/album/2XBeukTZsLWD3Z6xyyxuES) | 2:38 |
 | 9 | [No Somos Iguales](https://open.spotify.com/track/768hs3HVSrFZzBtuEw4ZBE) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Gabylonia](https://open.spotify.com/artist/1dTtCb4nYTZLKpTnJ1f5uU), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI) | [No Somos Iguales](https://open.spotify.com/album/6a8f7KXUjf2AWp0Mf5tKxH) | 3:06 |

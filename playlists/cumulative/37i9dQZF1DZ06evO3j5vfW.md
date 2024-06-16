@@ -2,9 +2,9 @@
 
 ### [This Is Nicky Romero](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3j5vfW)
 
-> This Is Nicky Romero\. Los temas esenciales, todos en una lista.
+> This is Nicky Romero\. The essential tracks, all in one playlist.
 
-110 songs - 5 hr 50 min
+111 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Awakening](https://open.spotify.com/track/7vmI0ZeIjndCcohHfJex0m) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Awakening](https://open.spotify.com/album/4PgoalLTxvrc4vPsDdstqE) | 3:25 | 2021-12-20 | 2023-05-14 |
 | [Back To Where We Started](https://open.spotify.com/track/3Xkf0dPNJbLMzi2BuGmbDo) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Back To Where We Started](https://open.spotify.com/album/4Oe7H10BsC7n7hiAFruhQa) | 3:29 | 2022-11-06 | 2024-04-26 |
 | [Back To You](https://open.spotify.com/track/1eZXJrEbdGSuST1f8NY5Qk) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Back To You](https://open.spotify.com/album/5MuuG7O578wt7v4fwLwkrs) | 3:05 | 2021-12-20 | 2022-10-30 |
+| [Bad Boy](https://open.spotify.com/track/6DtrplY1gFIUigPCPLTCIO) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V) | [Bad Boy](https://open.spotify.com/album/0sWfMsoSshIRZYdMxzBzaZ) | 3:36 | 2024-06-16 |  |
 | [Be Somebody](https://open.spotify.com/track/2xsx8DRlmbGJlxY4msANSB) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [Neon Future III](https://open.spotify.com/album/2XLdhcA2xQy2Iw74Cly9QL) | 3:18 | 2021-12-20 | 2023-11-11 |
 | [Be Somebody \(feat\. Kiiara\)](https://open.spotify.com/track/0YnJVay1kDxknXcIigPSvn) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [Neon Future III](https://open.spotify.com/album/1VFgefav92A6JzlPSUatzV) | 3:18 | 2023-12-13 |  |
 | [Bittersweet \(ft\. Quarterback\) \- Firelite Remix](https://open.spotify.com/track/2YvQO5jfnT29NL2dUwY0ou) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Trilane](https://open.spotify.com/artist/4hEojNVUgNvXDE8Aem4P7h), [Kokaholla](https://open.spotify.com/artist/6Bb2R70eMBIIG6BFJhHv7f), [Quarterback Baby](https://open.spotify.com/artist/4t47pMNIyXO3lDZfzi8ENS), [Firelite](https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2) | [Bittersweet \(ft\. Quarterback\) \[Remixes\]](https://open.spotify.com/album/4ePDJZwZk6pXba002oCTT6) | 3:00 | 2021-12-20 |  |

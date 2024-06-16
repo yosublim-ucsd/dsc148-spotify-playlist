@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 
 > aqui tem feijoada hot dog com purê sushi farofa açaí cm peixe frito enfim desfrute / Foto: DJ TOPO, Seu Jorge, Mc Leozin
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,431 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,725 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

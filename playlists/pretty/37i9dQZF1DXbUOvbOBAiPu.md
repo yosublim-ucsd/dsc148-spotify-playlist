@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > Nieuw deze week \- Nouveautés de la semaine\. Cover: Camille
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,322 likes - 92 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,337 likes - 92 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 66 | [Lose My Focus](https://open.spotify.com/track/5zhmlyLla3YNdjpEyi3Amk) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain](https://open.spotify.com/album/4vbhdsO89cvNkFlHoQ9D9p) | 3:47 |
 | 67 | [feelings come undone](https://open.spotify.com/track/6ac9BW8zBHo2vhUVkswM9o) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [always centered at night](https://open.spotify.com/album/6Q9F246p5fOQzz8tts4ylS) | 4:05 |
 | 68 | [Shining Lights](https://open.spotify.com/track/6eGEEQnQJjl5lMUBwDe6yj) | [BORN GLOBAL](https://open.spotify.com/artist/7iaSAMDhF90JWgqSqbXOZH), [Eda Hinkova](https://open.spotify.com/artist/4doUjy4CUhKC3Hf0lZMTmq) | [Shining Lights](https://open.spotify.com/album/0Amvu7aUSHVBkAQJFaZ4hr) | 3:08 |
-| 69 | [Chaleur](https://open.spotify.com/track/3bJRv2OGTlm6mvgUNKqa1l) | [Kid Noize](https://open.spotify.com/artist/1nSBihjWQgnAwxnd65XPdN), [Pepe](https://open.spotify.com/artist/3W4Pu5O6QhIU3I9fO8wpUZ) | [Chaleur](https://open.spotify.com/album/5NqZikOVtwylmFye4eOZk4) | 2:55 |
+| 69 | [Chaleur](https://open.spotify.com/track/3bJRv2OGTlm6mvgUNKqa1l) | [Kid Noize](https://open.spotify.com/artist/1nSBihjWQgnAwxnd65XPdN), [Pepe](https://open.spotify.com/artist/7LSMwMEiplq82LaCHPyx38) | [Chaleur](https://open.spotify.com/album/5NqZikOVtwylmFye4eOZk4) | 2:55 |
 | 70 | [LA PIEDAD](https://open.spotify.com/track/3lXdAkh18mOXGFByuF2tk5) | [Xenia](https://open.spotify.com/artist/4A4iJY0b5mySlZkZveuuPR), [Blu Samu](https://open.spotify.com/artist/6RcPiWIVptnyi8y3EIbDLB) | [LA PIEDAD](https://open.spotify.com/album/68kpTy3fdxS6VCyqRkI1zn) | 3:20 |
 | 71 | [Whiskey Girl](https://open.spotify.com/track/1Xhi3gqLOKUrFDk83lDhkR) | [Naima Joris](https://open.spotify.com/artist/3eSHHprsyLcEwQUYwAAWmw), [Vitja Pauwels](https://open.spotify.com/artist/6LEYR493QnjdHasbFcwdFh) | [Whiskey Girl](https://open.spotify.com/album/5J263vTKBdmESKgc4HsrVj) | 5:19 |
 | 72 | [Elle veut jouer](https://open.spotify.com/track/5SgWtxeEdURryOPLk5fdfk) | [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd), [Singuila](https://open.spotify.com/artist/7uN1aqKCrD6Ju1sn74MPgf) | [Elle veut jouer](https://open.spotify.com/album/4c6nG8eIqzLAh3SH7QDh2n) | 2:48 |

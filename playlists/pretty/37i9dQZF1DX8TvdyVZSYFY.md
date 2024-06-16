@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 
 > Big hits from the world of acoustics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,060,072 likes - 300 songs - 17 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,060,115 likes - 300 songs - 17 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Wrench your heart out with NIKI but she's letting go
 
-85 songs - 4 hr 42 min
+86 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Swan Song](https://open.spotify.com/track/790TzR1UxBXVMFSGq8p7bv) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 2:47 | 2022-08-11 |  |
 | [Switchblade](https://open.spotify.com/track/6RufIITrVLg4TI8toUNMBd) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [MOONCHILD](https://open.spotify.com/album/7BYMS9hVqR7UH9b3WeqPsw) | 3:24 | 2022-08-11 | 2024-04-19 |
 | [Switchblade](https://open.spotify.com/track/7b6z03ctOD39o4Cez0wr0X) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [MOONCHILD](https://open.spotify.com/album/59Y3t7Q4Vf8pw8STJ6fogW) | 3:24 | 2022-08-11 |  |
+| [Too Much Of A Good Thing](https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Too Much Of A Good Thing](https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84) | 2:51 | 2024-06-16 |  |
 | [urs](https://open.spotify.com/track/4EMTe461jubpxPqFfVA0Rp) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [wanna take this downtown?](https://open.spotify.com/album/2ZFg5xTsm9GNA9jwM6E2Kn) | 2:36 | 2022-08-11 | 2024-04-19 |
 | [urs](https://open.spotify.com/track/50oEtTUNlce4TuZXQoJzXW) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [wanna take this downtown?](https://open.spotify.com/album/3HLwiAL4LbHVwQaVCl3tnR) | 2:36 | 2022-08-11 |  |
 | [Vintage](https://open.spotify.com/track/1NCUe90ZCiWTnWn3umrwqw) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Zephyr](https://open.spotify.com/album/4E3FHEEdQkcuEd0D2GKRrX) | 2:57 | 2022-08-11 |  |

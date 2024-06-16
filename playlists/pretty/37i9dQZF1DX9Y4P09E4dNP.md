@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 
 > The big Hip\-Life hits rn\. Cover: King Promise
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,158 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,184 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [9:45 \(feat\. Lasmid & Ladipoe\)](https://open.spotify.com/track/0dT06xBuL6PQ7fzS37BEjs) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [Ladipoe](https://open.spotify.com/artist/6XkgrLfsDbOyuuT0oKltKF) | [True To Self](https://open.spotify.com/album/3s7ciU4LPvI3mb8yufHJZ5) | 3:46 |
+| 1 | [9:45 \(feat\. Lasmid & Ladipoe\)](https://open.spotify.com/track/0dT06xBuL6PQ7fzS37BEjs) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [True To Self](https://open.spotify.com/album/3s7ciU4LPvI3mb8yufHJZ5) | 3:46 |
 | 2 | [Asylum](https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana \(Deluxe\)](https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV) | 3:02 |
 | 3 | [Puul](https://open.spotify.com/track/5JGGx9Lv5VqXSGsuiOtIfZ) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Puul](https://open.spotify.com/album/7KKdwqiI0wG0pzpaDN7cTj) | 2:52 |
 | 4 | [Sneaky](https://open.spotify.com/track/6m71O5AaaMUJoqbIGfnILk) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Sneaky](https://open.spotify.com/album/4AaZnGqzpA2o47uXxrHt0o) | 2:46 |

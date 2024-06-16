@@ -1,12 +1,12 @@
 {
-  "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 159341,
+  "description": "This is Aline Barros. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 159347,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAACHOA7niN7jiCvclP6RCeHe",
+  "snapshot_id": "ZmuIAAAAAAAdGCA9NKGsMaoRtDfFnpcs",
   "tracks": [
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gra\u00e7a",
+        "url": "https://open.spotify.com/album/5cnXg9VgRklof02kUD45zk"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 250682,
+      "name": "Lugar Seguro",
+      "url": "https://open.spotify.com/track/0dvgPHkCgi2HMaBL9PgXmj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deus do Imposs\u00edvel",
         "url": "https://open.spotify.com/album/2GApIH2ulfM7LM4L8byYuM"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 240743,
       "name": "Cantarei Desse Amor",
       "url": "https://open.spotify.com/track/3eqExbH8UG4iRmoXcPWLHS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gra\u00e7a",
-        "url": "https://open.spotify.com/album/5cnXg9VgRklof02kUD45zk"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 250682,
-      "name": "Lugar Seguro",
-      "url": "https://open.spotify.com/track/0dvgPHkCgi2HMaBL9PgXmj"
     },
     {
       "added_at": null,
@@ -887,8 +887,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aline Barros e Cia",
-        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
+        "name": "Som de Adoradores",
+        "url": "https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9"
       },
       "artists": [
         {
@@ -896,9 +896,9 @@
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 160914,
-      "name": "Samuel",
-      "url": "https://open.spotify.com/track/5NnWQ6Bqy3Lvcek2yoUXSE"
+      "duration_ms": 287137,
+      "name": "\u00c1guas do Trono",
+      "url": "https://open.spotify.com/track/2lI2uOhSYZION2FRW7JVBX"
     }
   ],
   "unique_name": "This Is Aline Barros",

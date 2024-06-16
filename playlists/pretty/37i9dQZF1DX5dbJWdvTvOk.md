@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 
 > Canciones instrumentales de guitarra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,561 likes - 300 songs - 12 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,557 likes - 300 songs - 12 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

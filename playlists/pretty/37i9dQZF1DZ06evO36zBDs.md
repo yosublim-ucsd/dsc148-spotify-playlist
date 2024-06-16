@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO36zBDs.md) - [plain]
 
 > This is ClariS\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,103 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,107 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO36zBDs.md) - [plain]
 | 33 | [コネクト \-2017\-](https://open.spotify.com/track/13gcdbzfAArRm6RDhijxM7) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Castle\(Deluxe Edition）](https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4) | 4:30 |
 | 34 | [with you](https://open.spotify.com/track/0q7cr2AmsvucswUwfX1FoL) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [SECOND STORY](https://open.spotify.com/album/33dTcMAujg3u1lpBsbUsWx) | 3:54 |
 | 35 | [Freaky Candy](https://open.spotify.com/track/35OUwOIMMdg68nX0LDEEhR) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Iris](https://open.spotify.com/album/5EoIMhQciDeHOfHhGSNq4T) | 3:54 |
-| 36 | [irony \-season 02\-](https://open.spotify.com/track/6TrMn2s2KGLq00pQZNM5FB) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Pink Moon \-](https://open.spotify.com/album/2jGthHZFI99DykepNSeGvw) | 4:19 |
+| 36 | [PRECIOUS](https://open.spotify.com/track/6pY3mA8t0DUfQWL1HuyGxX) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Green Star \-](https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe) | 4:27 |
 | 37 | [アネモネ](https://open.spotify.com/track/4D0wg2S4PdRvccSOVpu8zV) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Castle\(Deluxe Edition）](https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4) | 4:32 |
 | 38 | [treasure](https://open.spotify.com/track/0a6dL9FS3oWoGlAtR3yxQr) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [BIRTHDAY](https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7) | 4:20 |
 | 39 | [Wonder Night](https://open.spotify.com/track/1mJtB1WTcJHphoPnJU1vwi) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Iris](https://open.spotify.com/album/5EoIMhQciDeHOfHhGSNq4T) | 3:38 |
-| 40 | [PRECIOUS](https://open.spotify.com/track/6pY3mA8t0DUfQWL1HuyGxX) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Green Star \-](https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe) | 4:27 |
+| 40 | [irony \-season 02\-](https://open.spotify.com/track/6TrMn2s2KGLq00pQZNM5FB) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Pink Moon \-](https://open.spotify.com/album/2jGthHZFI99DykepNSeGvw) | 4:19 |
 | 41 | [Gravity](https://open.spotify.com/track/31FWbJsuaaqqk87RwYRqNg) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Castle\(Deluxe Edition）](https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4) | 4:12 |
 | 42 | [PRIMALove](https://open.spotify.com/track/0C0S6SJcJlAkPQHBT1qo7U) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Party](https://open.spotify.com/album/34cOizYrnROPXji1gfR38k) | 4:15 |
 | 43 | [アサガオ](https://open.spotify.com/track/4yHYiD5mBQ98LuAnHEO8sJ) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Iris](https://open.spotify.com/album/5EoIMhQciDeHOfHhGSNq4T) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO36zBDs.md) - [plain]
 | 49 | [君色](https://open.spotify.com/track/62AcHFZEOPip5hGuaKoRpz) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ふぉりら](https://open.spotify.com/album/3ah4RPsC1U9fGp3sSLdtsi) | 3:34 |
 | 50 | [恋のバカンス](https://open.spotify.com/track/5AoEKI3ai8YPdhnBYqloud) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [SUMMER TRACKS －夏のうた－](https://open.spotify.com/album/6RdqPyLLLJr8K96ppojbgC) | 2:39 |
 
-Snapshot ID: `Zmo2gAAAAAAmgnB2pkz8CpSbOQWEhYCx`
+Snapshot ID: `ZmuIAAAAAADJ9jz2Gzf5nYakpDtSUNFd`

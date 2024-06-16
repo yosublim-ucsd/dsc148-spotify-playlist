@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH?si=0lJgMD1sS\_mVVF1J\_3ofwg>CalledOut Music</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,811 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,818 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 22 | [Loved By You](https://open.spotify.com/track/1s5PidlJHIPl89u6Rvjl6s) | [Nnâmdi](https://open.spotify.com/artist/6Y7ODpu4UEAApsm6iSz9xP), [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY) | [Loved By You](https://open.spotify.com/album/77g19S0D0k7uuSDiCh2XxT) | 2:26 |
 | 23 | [Loved By You](https://open.spotify.com/track/04z6JRYVpmeZlyIZHXgV3i) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Loved By You](https://open.spotify.com/album/0GMrWWGjsqb5ofkZrb58wu) | 3:24 |
 | 24 | [Praise You](https://open.spotify.com/track/0D0T6euB9gjQ9ArOLx9mWA) | [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21), [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Praise You](https://open.spotify.com/album/5njyhZ1cZ99DUyHlV3EUtV) | 1:59 |
-| 25 | [Will FOEVA \(Chopped and Screwed\)](https://open.spotify.com/track/5nJHwm4LLZJPWJjKBrGPck) | [Das the Nomad](https://open.spotify.com/artist/7uWsxmHo1d1FczD7Ger5lL), [FOEVA](https://open.spotify.com/artist/2heAYgLQ8mW1NBwAIWYDfI) | [Will FOEVA \(Chopped and Screwed\)](https://open.spotify.com/album/23C8spTMTqSqOOWcJDDgWg) | 3:45 |
+| 25 | [Will Ferrell \(Chopped and Screwed\)](https://open.spotify.com/track/5nJHwm4LLZJPWJjKBrGPck) | [Das the Nomad](https://open.spotify.com/artist/7uWsxmHo1d1FczD7Ger5lL), [FOEVA](https://open.spotify.com/artist/2heAYgLQ8mW1NBwAIWYDfI) | [Will Ferrell \(Chopped and Screwed\)](https://open.spotify.com/album/23C8spTMTqSqOOWcJDDgWg) | 3:45 |
 | 26 | [Yewo](https://open.spotify.com/track/24q2NrlyFV3htvw0EqqJvE) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Yewo](https://open.spotify.com/album/4BlGgfSDbniELn7AvOd0zM) | 2:34 |
 | 27 | [Emmanuel](https://open.spotify.com/track/5jiwZ0QanieOPplSznG8RQ) | [Rotimikeys](https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [I AM WORSHIP](https://open.spotify.com/album/4KeOD3GEkjsXVZjGUkVs4c) | 9:04 |
 | 28 | [AWAY](https://open.spotify.com/track/5hVEJdVu0jJReVJQRvjFtz) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY) | [AWAY](https://open.spotify.com/album/2t9FeXfRbzq03QGQ6NWumJ) | 2:15 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 34 | [Benefits](https://open.spotify.com/track/2oPXy0rG9vs5f205UGw2kY) | [Kelar Thrillz](https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb), [Izee Smith](https://open.spotify.com/artist/6GyPcrxlrvHEre7Rb63RHt) | [Benefits](https://open.spotify.com/album/49YUiACmblbDrOuX0ROQX7) | 3:25 |
 | 35 | [Agaba Eehh](https://open.spotify.com/track/0UgjpenOKlnuIMsLHni103) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Agaba Eehh](https://open.spotify.com/album/1tisIXVXX3PpudBmry3b4r) | 6:03 |
 | 36 | [Project Kite](https://open.spotify.com/track/58YSLeJdrr2zld59lgwsSP) | [Kushim](https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX) | [Project Kite](https://open.spotify.com/album/2LnA168mRVk0jKpJWSjNme) | 2:18 |
-| 37 | [Wewe \- Live](https://open.spotify.com/track/0XuoAKfrbyTIJ8fO0w3nLe) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [STRIP'T \(live at the bedroom edition\)](https://open.spotify.com/album/45BijZynxXNTWuwXpWhTe0) | 6:23 |
+| 37 | [Wewe \- Live](https://open.spotify.com/track/0XuoAKfrbyTIJ8fO0w3nLe) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [STRIP'T \(Live at The Bedroom Edition\)](https://open.spotify.com/album/45BijZynxXNTWuwXpWhTe0) | 6:23 |
 | 38 | [Tell Everybody](https://open.spotify.com/track/0p6l116QaggFfe5fedjBu3) | [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi) | [Tell Everybody](https://open.spotify.com/album/5Q1x5WcTuIwKDI7COLCtTJ) | 3:28 |
 | 39 | [There is no name](https://open.spotify.com/track/5jq3yxKZJT5qUcKrRxgQpE) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [There is no name](https://open.spotify.com/album/0qw8sJp5pHo4sPAUwrF9vJ) | 2:19 |
 | 40 | [Mai Iko](https://open.spotify.com/track/6OZGbl0f1ubsVmNDzE0ffp) | [Jakes Hinjari](https://open.spotify.com/artist/0vHke5zDphp49XceKxztGu), [Worshippers' Circle](https://open.spotify.com/artist/0ifftjfVRe5U2xnyKXVUpd) | [Mai Iko](https://open.spotify.com/album/6zMRLGF1JXUYkhHdppPKtp) | 5:44 |

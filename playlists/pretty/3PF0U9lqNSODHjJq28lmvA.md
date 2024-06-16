@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,356 likes - 13 songs - 52 min 12 sec
+[Record Union](https://open.spotify.com/user/recordunion) - 2,358 likes - 13 songs - 52 min 12 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 | 4 | [My Prayer \- Chant Mix](https://open.spotify.com/track/65IIKAgC48F14G2EQqbA85) | [Max SA](https://open.spotify.com/artist/70juXESYrBbE8KOmDzxcab) | [All Shades of The Drum \- Compilation, Vol\. 1](https://open.spotify.com/album/4XTIGycVWg8thI2WcU9bbr) | 7:51 |
 | 5 | [Shadows Tall](https://open.spotify.com/track/4chmViuxWggVSOlmw71fch) | [God Given Ass](https://open.spotify.com/artist/3YYiamegMtewnR6PjpzoGx) | [Shadows Tall](https://open.spotify.com/album/0tXQnIbTMUAxHwshpaVny8) | 1:41 |
 | 6 | [Torment Anthem](https://open.spotify.com/track/4LN4wl1BtS30gBtCbgLnUj) | [Sami Lust](https://open.spotify.com/artist/4MJxUxKRbXxaTxilE16bYp) | [Surreal Nocturnes](https://open.spotify.com/album/0GIgAKWFgOfrSiT3zc33Y4) | 2:18 |
-| 7 | [Out Of My Mind](https://open.spotify.com/track/3zsrFhKSkornDn5rp2PrDj) | [Cardio\(US\)](https://open.spotify.com/artist/15jsS4gYrQE9zU5GRLokMF) | [Out Of My Mind](https://open.spotify.com/album/1RMt0zJYuWIoMdsMJHV0rd) | 3:06 |
+| 7 | [Out Of My Mind](https://open.spotify.com/track/3zsrFhKSkornDn5rp2PrDj) | [Cardio](https://open.spotify.com/artist/1zeFfKiPLX9G9N7l5etRiG) | [Out Of My Mind](https://open.spotify.com/album/1RMt0zJYuWIoMdsMJHV0rd) | 3:06 |
 | 8 | [Fire and ice](https://open.spotify.com/track/1Z5gJm8bwNObM9zqfYFV65) | [Pothooks & Hangers](https://open.spotify.com/artist/5TtWqtdZfRfSex3z4PWXAZ), [J\-Brandt](https://open.spotify.com/artist/3RhrhZkpeGiQxCvpYGTbWn) | [Fire and ice](https://open.spotify.com/album/1uOFIkHXEaKvY9iQRKYpw3) | 4:45 |
 | 9 | [On](https://open.spotify.com/track/25vF7wLnAR3FdjJOWKHj59) | [JustTheDani](https://open.spotify.com/artist/7djz8hKAB3Eid8dI8Ai4Zh) | [Starlight](https://open.spotify.com/album/4ws0fx3qt2mHnYQDhkigXk) | 6:09 |
 | 10 | [Second to None](https://open.spotify.com/track/4MPd9Sbbvj0gLDWQnxNufJ) | [Andy E.](https://open.spotify.com/artist/1Cnd7VjoBrVoccgXCLDDtk), [Göran Edman](https://open.spotify.com/artist/6D6dxVY0ooHhTOJ8YD6UMa) | [Second to None](https://open.spotify.com/album/5iQhux99GCuA5hzeVhWoEv) | 5:26 |

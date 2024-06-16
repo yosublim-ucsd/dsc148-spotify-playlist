@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5463MYlHXHD.md) - [plain]
 
 > Cumbia pa' volar la chapa con Damas Gratis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,922 likes - 120 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,006 likes - 120 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5463MYlHXHD.md) - [plain]
 | 29 | [Ahi Ahi](https://open.spotify.com/track/5O9IqFNUVtjRlDpdKex3YH) | [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75) | [Ahi Ahi](https://open.spotify.com/album/10b8qKyITW4qsKqatPr8q3) | 2:56 |
 | 30 | [MI VIEJO](https://open.spotify.com/track/4sN0m8KGkPsyBEDhEE2oBm) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [MI VIEJO](https://open.spotify.com/album/681q2pGU7k5hFiEABZPdAZ) | 3:13 |
 | 31 | [Butakera](https://open.spotify.com/track/60DHrnRAhNJMy4WeEf23NH) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav) | [Butakera](https://open.spotify.com/album/0LmZsaUKBzNRmVt9vC4Rv3) | 2:23 |
-| 32 | [YA FUE](https://open.spotify.com/track/1Vd2kfgMMq7hsd1tPQYpl7) | [Los Nota Lokos](https://open.spotify.com/artist/76iFMHDqONZusQlTu2ckKQ), [elz](https://open.spotify.com/artist/0b8QeBXlPuivBLiOQoUG0W) | [YA FUE](https://open.spotify.com/album/2e79z8fLPvZPXV0RXdzQL7) | 2:04 |
+| 32 | [YA FUE](https://open.spotify.com/track/1Vd2kfgMMq7hsd1tPQYpl7) | [Los Nota Lokos](https://open.spotify.com/artist/76iFMHDqONZusQlTu2ckKQ), [elz](https://open.spotify.com/artist/0b8QeBXlPuivBLiOQoUG0W) | [YA FUE](https://open.spotify.com/album/2e79z8fLPvZPXV0RXdzQL7) | 2:05 |
 | 33 | [Tu Turrito](https://open.spotify.com/track/45dlaEXrXW47TVbrQ4gK7E) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [Tu Turrito](https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02) | 2:44 |
 | 34 | [Mi Casaca](https://open.spotify.com/track/7tZVIu2cV8ppvLpD1wLV8j) | [Nuke](https://open.spotify.com/artist/7h7LjA71LfeSKizl1Vrevu), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [Mi Casaca](https://open.spotify.com/album/2h6Z67hiFtIPpdy1MAB24R) | 2:08 |
 | 35 | [DIME SI ERES FELIZ VOL.2](https://open.spotify.com/track/7v7RTZrtBsoENSPD0SCMLy) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [DIME SI ERES FELIZ VOL.2](https://open.spotify.com/album/4qsduU9ye1CNUnHVE6BHGn) | 2:51 |

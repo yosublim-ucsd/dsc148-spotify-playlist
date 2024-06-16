@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: Honey Revenge
 
-[Spotify](https://open.spotify.com/user/spotify) - 571,766 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 571,821 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 44 | [GROWING UP ON THE INTERNET](https://open.spotify.com/track/2JEdblWbXROMy0otLQL5UL) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [GROWING UP ON THE INTERNET](https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8) | 3:19 |
 | 45 | [Alameda County Fair](https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Alameda County Fair](https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P) | 2:27 |
 | 46 | [Modern Love](https://open.spotify.com/track/4Qjv4VFulw2xS9P5EVLvOp) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Modern Love](https://open.spotify.com/album/4q5GY0DRqSNEOb3n3JCigy) | 3:14 |
-| 47 | [Girl Shaped Crater](https://open.spotify.com/track/4vkD9qo574mcQnd9i8nXFT) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Girl Shaped Crater](https://open.spotify.com/album/3UfD0zbowB8b2iEn6wS1Tk) | 3:02 |
+| 47 | [Girl Shaped Crater](https://open.spotify.com/track/4vkD9qo574mcQnd9i8nXFT) | [Games We Play](https://open.spotify.com/artist/05TLaN7QC4nesO4XCQzRT4) | [Girl Shaped Crater](https://open.spotify.com/album/3UfD0zbowB8b2iEn6wS1Tk) | 3:02 |
 | 48 | [cherry cigarettes](https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [cherry cigarettes](https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti) | 2:18 |
 | 49 | [Hey Ben](https://open.spotify.com/track/4E3BK77SynwO7hMHp2KvAa) | [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl), [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Hey Ben](https://open.spotify.com/album/6rnlieOtH8DDSZnBqe1L3M) | 3:20 |
 | 50 | [use me](https://open.spotify.com/track/1r8j5j9hBIlkz0onyxl4hO) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [can we start over?](https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6) | 3:01 |

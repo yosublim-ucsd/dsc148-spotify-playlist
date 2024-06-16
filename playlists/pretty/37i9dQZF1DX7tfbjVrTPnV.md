@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Lori McKenna
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,987 likes - 150 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,063 likes - 150 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

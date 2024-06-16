@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6kXNv8J3HCYztxjOIUzApv.md) - [plain]
 
 > Rock out while you work out! Follow for updates!
 
-[Better Noise Music](https://open.spotify.com/user/elevensevenmusic) - 61,098 likes - 162 songs - 10 hr 16 min
+[Better Noise Music](https://open.spotify.com/user/elevensevenmusic) - 61,097 likes - 162 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/6kXNv8J3HCYztxjOIUzApv.md) - [plain]
 | 26 | [Monster In Me](https://open.spotify.com/track/4vyztsf6uzcuLF5gRDQYWt) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Blackout](https://open.spotify.com/album/2JvaxDiBaKADQ3Fb9SvEZF) | 3:34 |
 | 27 | [Psycho](https://open.spotify.com/track/6s3MpvQ1ulwrTuRhBgv0Eu) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Psycho](https://open.spotify.com/album/1dK86eMRKHfAeN92ZwFaCe) | 3:56 |
 | 28 | [Unstoppable \(feat\. Cory Marks\)](https://open.spotify.com/track/3MWCJZybLRQ0skDYnSP1Ze) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c), [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [Unstoppable \(feat\. Cory Marks\)](https://open.spotify.com/album/6cAguc6Xmqh9KmaLiTiFRp) | 3:06 |
-| 29 | [SOS \(feat\. Nate Vickers\)](https://open.spotify.com/track/5Jkg6h2W1msCoLCIJ75vTA) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS), [Nate Vickers](https://open.spotify.com/artist/7nafgjvAAKl1GZflgBbBbm) | [Soul Revolution Deluxe: The Collabs](https://open.spotify.com/album/3zJkZv2QjamztjHmzShhuQ) | 3:38 |
+| 29 | [SOS \- Alternative Version](https://open.spotify.com/track/5Jkg6h2W1msCoLCIJ75vTA) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Soul Revolution Deluxe: The Collabs](https://open.spotify.com/album/3zJkZv2QjamztjHmzShhuQ) | 3:38 |
 | 30 | [Legacy](https://open.spotify.com/track/1zTRJMLEQP1fJfmzsLMWDu) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Blackout](https://open.spotify.com/album/2JvaxDiBaKADQ3Fb9SvEZF) | 3:39 |
 | 31 | [Knife](https://open.spotify.com/track/4EziK2zE4fTvXi4obtunZh) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Knife](https://open.spotify.com/album/0w4KpUcSpjvxkiccChtB2C) | 3:38 |
 | 32 | [A Different Kind of Year](https://open.spotify.com/track/3GnTWJSfDr96JJMxCGUUuu) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [A Different Kind of Year](https://open.spotify.com/album/4jAeOZ3qAjHxj8nsLor5nD) | 3:54 |
@@ -168,7 +168,7 @@ pretty - [cumulative](/playlists/cumulative/6kXNv8J3HCYztxjOIUzApv.md) - [plain]
 | 158 | [Generation Psycho](https://open.spotify.com/track/77UBXLVoE90TpVmUKsgjGx) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8) | [Generation Psycho](https://open.spotify.com/album/6env54gj95TlpdQEMDXRKk) | 3:49 |
 | 159 | [Savior](https://open.spotify.com/track/6BwmYF0DqrrX6OkaOJphQH) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Die About It](https://open.spotify.com/album/7vL9sQj9AGhuBRHn969A9X) | 2:59 |
 | 160 | [A Banger A Day Keeps The Doctor Away](https://open.spotify.com/track/7AvALXbGFUPnevTLC41JYK) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [A Banger A Day Keeps The Doctor Away](https://open.spotify.com/album/44YwGDqhcIbzprf301vs2Q) | 3:36 |
-| 161 | [SOS \(feat\. Nate Vickers\)](https://open.spotify.com/track/5Jkg6h2W1msCoLCIJ75vTA) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS), [Nate Vickers](https://open.spotify.com/artist/7nafgjvAAKl1GZflgBbBbm) | [Soul Revolution Deluxe: The Collabs](https://open.spotify.com/album/3zJkZv2QjamztjHmzShhuQ) | 3:38 |
+| 161 | [SOS \- Alternative Version](https://open.spotify.com/track/5Jkg6h2W1msCoLCIJ75vTA) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Soul Revolution Deluxe: The Collabs](https://open.spotify.com/album/3zJkZv2QjamztjHmzShhuQ) | 3:38 |
 | 162 | [Guerrilla Radio](https://open.spotify.com/track/1lenAyuxQejwcsgLQtGqPV) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Soul Revolution Deluxe: The Collabs](https://open.spotify.com/album/3zJkZv2QjamztjHmzShhuQ) | 3:23 |
 
 Snapshot ID: `AAAIcWxEiGfZ4x2AyLtCdXhfwn4Sqx4o`

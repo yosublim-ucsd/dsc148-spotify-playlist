@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZESE3fHLhmD.md) - [plain]
 
 > Songs, die nach Sonnencreme riechen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,287,823 likes - 90 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,288,440 likes - 90 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

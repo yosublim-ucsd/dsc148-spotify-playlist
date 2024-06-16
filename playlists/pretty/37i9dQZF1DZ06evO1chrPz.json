@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 197765,
+  "num_followers": 197803,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAABVlJYXVWcBRIXwKx6dnpL2",
+  "snapshot_id": "ZmuIAAAAAAAEo3m3YcRCVtSmCmsKzcRq",
   "tracks": [
     {
       "added_at": null,
@@ -383,26 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simple",
-        "url": "https://open.spotify.com/album/6Loc2VbViFUgIe6EYa6z4Q"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Emmy Rose",
-          "url": "https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo"
-        }
-      ],
-      "duration_ms": 293377,
-      "name": "Tend",
-      "url": "https://open.spotify.com/track/21OxPURFtFrTwWGq9aJCju"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Have It All (Live)",
         "url": "https://open.spotify.com/album/1Jwe1Xa8cuTizhE5EGozP2"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 280762,
       "name": "Lion and the Lamb",
       "url": "https://open.spotify.com/track/4eLKR4wt81H4aso4KyAkO1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Simple",
+        "url": "https://open.spotify.com/album/6Loc2VbViFUgIe6EYa6z4Q"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Emmy Rose",
+          "url": "https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo"
+        }
+      ],
+      "duration_ms": 293377,
+      "name": "Tend",
+      "url": "https://open.spotify.com/track/21OxPURFtFrTwWGq9aJCju"
     },
     {
       "added_at": null,
@@ -1003,18 +1003,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Without Words: Synesthesia",
-        "url": "https://open.spotify.com/album/4D7S7xyJToJ28MVcSH3YFo"
+        "name": "Bethel Music en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1"
       },
       "artists": [
         {
           "name": "Bethel Music",
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Bethany Wohrle",
+          "url": "https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e"
         }
       ],
-      "duration_ms": 248910,
-      "name": "Luminosity",
-      "url": "https://open.spotify.com/track/6ZLsrfSUuGQak9ZaWkoLCI"
+      "duration_ms": 291986,
+      "name": "Mi Esperanza Est\u00e1 en Jes\u00fas (Live)",
+      "url": "https://open.spotify.com/track/38e9daXegEIuNlP7lMII4Z"
     }
   ],
   "unique_name": "This Is Bethel Music",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > Tune in for the ultimate mix of tunes for your house party!! Project X \- House Party \- DJ \- Club Bangers \- Dance Music \- Viral Dance Tunes
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 110,420 likes - 60 songs - 3 hr 13 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 110,422 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

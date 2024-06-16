@@ -2,13 +2,13 @@
 
 ### [This Is Danny Felix](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2WUjFC)
 
-> This Is Danny Felix\. Los temas esenciales, todos en una lista.
+> This is Danny Felix\. The essential tracks, all in one playlist.
 
 74 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Quién No Le Gusta Eso \- En Vivo](https://open.spotify.com/track/6UMAQA7SccxUbw4oA0AIkf) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [A Quién No Le Gusta Eso \(En Vivo\)](https://open.spotify.com/album/5j2VUYmnBUtDCQJrMID12X) | 5:59 | 2024-06-13 |  |
+| [A Quién No Le Gusta Eso \- En Vivo](https://open.spotify.com/track/6UMAQA7SccxUbw4oA0AIkf) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [A Quién No Le Gusta Eso \(En Vivo\)](https://open.spotify.com/album/5j2VUYmnBUtDCQJrMID12X) | 5:59 | 2024-06-13 | 2024-06-16 |
 | [Amigos](https://open.spotify.com/track/3Aztz5WADJSB6G94A1Zi96) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 2:43 | 2024-01-29 |  |
 | [AMIGOS CON DERECHO](https://open.spotify.com/track/7pQtPgMjkFfOyY1TWTBIGp) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [AMIGOS CON DERECHO](https://open.spotify.com/album/3MVfbjBmTmSAMVgFj436Lk) | 3:36 | 2024-03-09 |  |
 | [amorlove](https://open.spotify.com/track/7FwmTxJMAymJsRwR4YVPYF) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [amorlove](https://open.spotify.com/album/6rShPRJVTWIv4uvdcQgKmZ) | 2:29 | 2024-01-29 | 2024-05-24 |
@@ -21,7 +21,7 @@
 | [Con la U y la P](https://open.spotify.com/track/2zOPjlGlARwM0t5YEHPwf4) | [La Destreza](https://open.spotify.com/artist/24R1KBqLrpV8Ta5Yha8TTm), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Chris Hermosillo](https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B) | [Con la U y la P](https://open.spotify.com/album/4uuRnTWV3KUzdZBQOZSb5t) | 3:16 | 2024-01-29 |  |
 | [De Cero](https://open.spotify.com/track/5UCOFCpcZuAqZhB3pwmA6X) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [AMEN](https://open.spotify.com/album/628Kex6bcmoIkHin6sdBS6) | 3:51 | 2024-01-29 |  |
 | [De Negra a Negra](https://open.spotify.com/track/2PJfn1KMAIupqjdHOvp1AY) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [De Negra a Negra](https://open.spotify.com/album/7LCKyNYcDIA6pHGmGxxuGp) | 2:45 | 2024-01-29 | 2024-06-13 |
-| [De Verde Una Hectárea](https://open.spotify.com/track/4Epr5XuIyiVQhCC5SMVXtw) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [De Verde Una Hectárea](https://open.spotify.com/album/0Ki6JrEdXYE7HqsQAktUYq) | 2:23 | 2024-01-29 | 2024-05-17 |
+| [De Verde Una Hectárea](https://open.spotify.com/track/4Epr5XuIyiVQhCC5SMVXtw) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [De Verde Una Hectárea](https://open.spotify.com/album/0Ki6JrEdXYE7HqsQAktUYq) | 2:23 | 2024-01-29 |  |
 | [DOCTOR DEL BARRIO](https://open.spotify.com/track/0nML7ShqQh6oxvVE7RZZBo) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [TUMBADO STYLE](https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7) | 2:21 | 2024-01-29 |  |
 | [Duele](https://open.spotify.com/track/48ZdF2LKw0IsgwdDaFpUsX) | [Rigo V](https://open.spotify.com/artist/2OrdbIVrQKIvjm90oSGi7L), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Duele](https://open.spotify.com/album/0eLv2WcLX7SmQULAp1MKhJ) | 3:07 | 2024-01-29 | 2024-02-10 |
 | [Déjame Llevarte](https://open.spotify.com/track/0UJs00Ps6vf3SuI84DjufP) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Mariachi Tumbado](https://open.spotify.com/album/2sbXCLAfQ1cE5DBgyp3idU) | 2:42 | 2024-01-29 |  |

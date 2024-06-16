@@ -1635,6 +1635,24 @@
     },
     {
       "album": {
+        "name": "Escape Plan",
+        "url": "https://open.spotify.com/album/3kt4vMSt4GLQQ7M5pS5Dpx"
+      },
+      "artists": [
+        {
+          "name": "Jana Diab",
+          "url": "https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139003,
+      "name": "Escape Plan",
+      "url": "https://open.spotify.com/track/57nPLBMMNk8w4KDNSwDxdz"
+    },
+    {
+      "album": {
         "name": "Everlasting Dance",
         "url": "https://open.spotify.com/album/4lR6iy0jlBIctr2Pwg2Fe1"
       },

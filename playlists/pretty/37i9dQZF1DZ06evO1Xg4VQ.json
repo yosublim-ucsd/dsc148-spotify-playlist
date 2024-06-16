@@ -1,12 +1,12 @@
 {
-  "description": "This is Lila Downs. The essential tracks, all in one playlist.",
-  "num_followers": 69120,
+  "description": "This Is Lila Downs. Los temas esenciales, todos en una lista.",
+  "num_followers": 69127,
   "original_name": "This Is Lila Downs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAACqwAHZk2bv41I6HZrCYxda",
+  "snapshot_id": "ZmuIAAAAAAA+IR9Ot6k0+wAc8+Z7nQcO",
   "tracks": [
     {
       "added_at": null,
@@ -451,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Alma De Lila Downs",
+        "url": "https://open.spotify.com/album/78cEKu2fMM5fo0TAsBHcRT"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 191640,
+      "name": "Naila",
+      "url": "https://open.spotify.com/track/3doaeUZd2v2BbYTJLYUytI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Marcha de la Vida",
         "url": "https://open.spotify.com/album/7cdhRB4dbNZJMn1OafvISD"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 269133,
       "name": "Calaveras",
       "url": "https://open.spotify.com/track/6PO6PjA5zvQ9gCAFjDAG8D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Alma De Lila Downs",
-        "url": "https://open.spotify.com/album/78cEKu2fMM5fo0TAsBHcRT"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 191640,
-      "name": "Naila",
-      "url": "https://open.spotify.com/track/3doaeUZd2v2BbYTJLYUytI"
     },
     {
       "added_at": null,
@@ -651,38 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Chile",
-        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 208946,
-      "name": "La Campanera",
-      "url": "https://open.spotify.com/track/7fw1xC8CxyRiCz7XJiz47k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pecados Y Milagros",
-        "url": "https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 223013,
-      "name": "Tu C\u00e1rcel",
-      "url": "https://open.spotify.com/track/7qh0rNl1J5JPONLpZbAofd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ra\u00edz Nunca Me Fui",
         "url": "https://open.spotify.com/album/2sRduC2gcyo5qGQ0nqa5wf"
       },
@@ -703,6 +671,38 @@
       "duration_ms": 156149,
       "name": "Pon Que Dale",
       "url": "https://open.spotify.com/track/3ErQOQJdOZkHyFQgDaOric"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pecados Y Milagros",
+        "url": "https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 223013,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/7qh0rNl1J5JPONLpZbAofd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Al Chile",
+        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 208946,
+      "name": "La Campanera",
+      "url": "https://open.spotify.com/track/7fw1xC8CxyRiCz7XJiz47k"
     },
     {
       "added_at": null,
@@ -783,6 +783,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ra\u00edz Nunca Me Fui",
+        "url": "https://open.spotify.com/album/2sRduC2gcyo5qGQ0nqa5wf"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        },
+        {
+          "name": "Ni\u00f1a Pastori",
+          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
+        },
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "duration_ms": 223332,
+      "name": "Hispano",
+      "url": "https://open.spotify.com/track/0ZnL8oJ3OJHelUk473qqHZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Al Chile",
         "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
       },
@@ -815,30 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ra\u00edz Nunca Me Fui",
-        "url": "https://open.spotify.com/album/2sRduC2gcyo5qGQ0nqa5wf"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        },
-        {
-          "name": "Ni\u00f1a Pastori",
-          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
-        },
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        }
-      ],
-      "duration_ms": 223332,
-      "name": "Hispano",
-      "url": "https://open.spotify.com/track/0ZnL8oJ3OJHelUk473qqHZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Cantina",
         "url": "https://open.spotify.com/album/5R7B1EJgSgq0I0jo92098G"
       },
@@ -859,22 +859,6 @@
       "duration_ms": 187186,
       "name": "El Relampago",
       "url": "https://open.spotify.com/track/0x5CGLK5BTGAbn8CZqwidU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Al Chile",
-        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 205200,
-      "name": "Los Caminos de la Vida",
-      "url": "https://open.spotify.com/track/6c3lhT9ewcn6Vv0J8deA2b"
     },
     {
       "added_at": null,
@@ -939,22 +923,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "En El \u00daltimo Trago",
-        "url": "https://open.spotify.com/album/54zPJXpQnBrIHKSfWY4cF6"
+        "name": "Al Chile",
+        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
       },
       "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        },
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 207200,
-      "name": "En el \u00faltimo trago",
-      "url": "https://open.spotify.com/track/2bZK0muecji5JyEEhnId9l"
+      "duration_ms": 205200,
+      "name": "Los Caminos de la Vida",
+      "url": "https://open.spotify.com/track/6c3lhT9ewcn6Vv0J8deA2b"
     },
     {
       "added_at": null,
@@ -971,6 +951,26 @@
       "duration_ms": 295013,
       "name": "Dios Nunca Muere",
       "url": "https://open.spotify.com/track/28QHawocxdu8KeK3EpfNbN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En El \u00daltimo Trago",
+        "url": "https://open.spotify.com/album/54zPJXpQnBrIHKSfWY4cF6"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 207200,
+      "name": "En el \u00faltimo trago",
+      "url": "https://open.spotify.com/track/2bZK0muecji5JyEEhnId9l"
     },
     {
       "added_at": null,

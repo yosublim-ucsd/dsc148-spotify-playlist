@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Ina Wroldsen x Alan Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,913 likes - 95 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,945 likes - 95 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

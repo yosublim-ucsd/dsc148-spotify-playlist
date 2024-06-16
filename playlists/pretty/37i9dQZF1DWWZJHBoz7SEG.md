@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Verano futbolero! Aquí el soundtrack con las novedades más chidas para armar la previa\. Yeri Mua, Ovi y Uzielito Mix en portada 🥵
 
-[Spotify](https://open.spotify.com/user/spotify) - 843,507 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 843,692 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 6 | [TE XTRAÑO \(With Eslabon Armado\)](https://open.spotify.com/track/4ySUM7Cv2sEnNhsmBF0vJd) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [DESDE MI HABITACIÓN](https://open.spotify.com/album/3ZxjhNBeDioj81Ft175XPE) | 3:45 |
 | 7 | [Gotitas Saladas](https://open.spotify.com/track/5Sas859pm039G13F5wEuyK) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Gotitas Saladas](https://open.spotify.com/album/3qm5AFyntlDrD2NbcVGGdU) | 3:23 |
 | 8 | [Popurrí a Luis Arcaraz](https://open.spotify.com/track/3MAYyFpaHuMfgYU2Lsgxk5) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Mis Tributos](https://open.spotify.com/album/30JextuxXVMYWhTDuKQePj) | 7:00 |
-| 9 | [YA VALIÓ](https://open.spotify.com/track/0VNwfyKyDrGw1BW7zxlGeQ) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx) | [YA VALIÓ](https://open.spotify.com/album/4BlW4CMNTGpfIb4aVYNnDr) | 2:31 |
+| 9 | [YA VALIÓ](https://open.spotify.com/track/0VNwfyKyDrGw1BW7zxlGeQ) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [YA VALIÓ](https://open.spotify.com/album/4BlW4CMNTGpfIb4aVYNnDr) | 2:31 |
 | 10 | [PPP](https://open.spotify.com/track/1M7F1tBukdUEY1XqHRgUlW) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [PPP](https://open.spotify.com/album/4WxhP4D4ttb80Q8qaDjiiy) | 2:44 |
 | 11 | [Nena Linda \(feat\. Oviña\)](https://open.spotify.com/track/6TGKIXje52nlR8IXZ2PMuc) | [El Gudi](https://open.spotify.com/artist/4bBHOk8nEyfPGCZsDEEZsB), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Tensec](https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB), [Oviña](https://open.spotify.com/artist/3cJuFQQKreRtCtbQZ83Sam) | [Nena Linda \(feat\. Oviña\)](https://open.spotify.com/album/3pJwEw0j6QTOtudgdMP1mt) | 2:30 |
 | 12 | [Paracaídas](https://open.spotify.com/track/5nHI1ntEJAmVtBX9j8BHCF) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Paracaídas](https://open.spotify.com/album/2i1Um2d1FxY2f9Dd7vgEk6) | 2:45 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 38 | [GONZY MONTANA](https://open.spotify.com/track/1niuG9ErJRe0bbbnnita3L) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [GONZY MONTANA](https://open.spotify.com/album/0dLJHosPrTuh5OZa9LcJJn) | 3:23 |
 | 39 | [MI VIEJO](https://open.spotify.com/track/4sN0m8KGkPsyBEDhEE2oBm) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [MI VIEJO](https://open.spotify.com/album/681q2pGU7k5hFiEABZPdAZ) | 3:13 |
 | 40 | [Sicilia](https://open.spotify.com/track/42ojGwws4Xe69HvxanSGYW) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt), [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [Sicilia](https://open.spotify.com/album/0McGTXdQofTziYO11rZXRJ) | 3:27 |
-| 41 | [Olvidarme de Ti](https://open.spotify.com/track/3maV3zRST3lH8rT5RHVHzH) | [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L) | [Apartamento 23](https://open.spotify.com/album/2X5xKYHX32aybrZiZznQet) | 3:49 |
+| 41 | [Olvidarme de Ti](https://open.spotify.com/track/3maV3zRST3lH8rT5RHVHzH) | [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L), [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Apartamento 23](https://open.spotify.com/album/2X5xKYHX32aybrZiZznQet) | 3:49 |
 | 42 | [No Hay Manera](https://open.spotify.com/track/5mKCsXRmLoKDEIEhYBx0cL) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [No Hay Manera](https://open.spotify.com/album/3qn5tzsbRAMOFvQabRxPP9) | 3:01 |
 | 43 | [Amor y Odio](https://open.spotify.com/track/5qjIYISISFwiLKw8kmHM60) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Amor y Odio](https://open.spotify.com/album/2hB0IHbLyW8tSmLs6GwGA6) | 2:59 |
 | 44 | [Prender El Fuego Otra Vez](https://open.spotify.com/track/0V6jKKHTLqoLp6pF0xp9N5) | [Magneto](https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p) | [Prender El Fuego Otra Vez](https://open.spotify.com/album/43LqmwV9BJBwE4ZMr9J7f7) | 2:39 |

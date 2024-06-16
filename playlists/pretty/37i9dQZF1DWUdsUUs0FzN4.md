@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 
 > Con licuachela en mano y perreando hasta el piso\. Adán Cruz y El Bogueto en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,970 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,971 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

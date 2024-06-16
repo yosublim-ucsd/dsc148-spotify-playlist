@@ -3254,7 +3254,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 204266,
       "name": "Eyes Off You",
       "url": "https://open.spotify.com/track/0VpEX8ib3wE7u8NOw4szU6"
@@ -5044,7 +5044,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 233617,
       "name": "I Knew You Were Trouble - Spotify Singles",
       "url": "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w"
@@ -6589,6 +6589,24 @@
     },
     {
       "album": {
+        "name": "emails i can\u2019t send fwd:",
+        "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187591,
+      "name": "Lonesome",
+      "url": "https://open.spotify.com/track/0HYhOGKAHiOsv8GW4JdMJ8"
+    },
+    {
+      "album": {
         "name": "Sunset Season",
         "url": "https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz"
       },
@@ -7980,7 +7998,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 198022,
       "name": "Not The 1975",
       "url": "https://open.spotify.com/track/2U0Zowgw2tgJXu5K56i4Q4"
@@ -8118,6 +8136,24 @@
       "duration_ms": 200379,
       "name": "ocean eyes",
       "url": "https://open.spotify.com/track/7hDVYcQq6MxkdJGweuCtl9"
+    },
+    {
+      "album": {
+        "name": "Del Water Gap",
+        "url": "https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199232,
+      "name": "Ode to a Conversation Stuck in Your Throat",
+      "url": "https://open.spotify.com/track/51Lf3l6wx008NdBxCQnD6B"
     },
     {
       "album": {
@@ -12302,6 +12338,24 @@
       "duration_ms": 145298,
       "name": "Where We Are",
       "url": "https://open.spotify.com/track/5SVVRjlM7vtrnHP6Aaq8sS"
+    },
+    {
+      "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248807,
+      "name": "White Ferrari",
+      "url": "https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV"
     },
     {
       "album": {

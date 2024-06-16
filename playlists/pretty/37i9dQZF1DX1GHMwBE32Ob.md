@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 
 > From the trenches\. Through the streets.<br/>Cover: Muyeez
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,489 likes - 60 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,546 likes - 60 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 4 | [Therapist](https://open.spotify.com/track/0EHJsg3FsmyksqKx3TOWoI) | [Ajesings](https://open.spotify.com/artist/0ZWskTAdA6A0Y83znKqSDF) | [Therapist](https://open.spotify.com/album/2dzJKHfizbfzvq6be269eK) | 2:32 |
 | 5 | [Different Pattern](https://open.spotify.com/track/7FB5261Iv3MRbSz13HYP5l) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NAHAMciaga](https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk) | 2:03 |
 | 6 | [Trending](https://open.spotify.com/track/4Xik88j0lef96PqxYFR66a) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Muyeez \(Deluxe\)](https://open.spotify.com/album/3z5ScTzthtKvfOzxc2XBE0) | 2:34 |
-| 7 | [Alright \(feat\. MohBad & HADURAH\)](https://open.spotify.com/track/7CxmcGj4sXX9ZhjGUgOb3f) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa), [HADURAH](https://open.spotify.com/artist/4w8lSsts1Kw64Rzp1ItXco) | [Alright \(feat\. MohBad & HADURAH\)](https://open.spotify.com/album/0MLdJT6OYklHVHbX6hLhDi) | 2:54 |
+| 7 | [Alright](https://open.spotify.com/track/7CxmcGj4sXX9ZhjGUgOb3f) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa), [HADURAH](https://open.spotify.com/artist/4w8lSsts1Kw64Rzp1ItXco) | [Alright](https://open.spotify.com/album/0MLdJT6OYklHVHbX6hLhDi) | 2:54 |
 | 8 | [Stubborn \(with Asake\)](https://open.spotify.com/track/4cpxSBb2TRx8WJhQM1Jdpk) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Stubborn \(with Asake\)](https://open.spotify.com/album/6VgHyE8Qnldqdf6Ab8JR0b) | 2:56 |
 | 9 | [ASAP](https://open.spotify.com/track/6FZlSfQrD9aoB4SSnoAzWk) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Shakespopi](https://open.spotify.com/album/3DLGqqI7dfoKvk9EIpwpm4) | 2:40 |
 | 10 | [Cash](https://open.spotify.com/track/55gLtEmwF6yOkMUbSIXKUG) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Wara Wara Szn](https://open.spotify.com/album/6ToVRccANedcEkdMa1eQQs) | 3:00 |

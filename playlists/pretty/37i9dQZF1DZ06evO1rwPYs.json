@@ -1,12 +1,12 @@
 {
-  "description": "This is: Celia Cruz. Alle wichtigen Tracks in einer Playlist.",
-  "num_followers": 101992,
+  "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
+  "num_followers": 102003,
   "original_name": "This Is Celia Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAADSGbVAXCa0AVMEBs3xOU2g",
+  "snapshot_id": "ZmuIAAAAAAC8t9eh/LgLQbxZRHl1Lfg5",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,26 @@
       "duration_ms": 344750,
       "name": "Quimbara - En Vivo",
       "url": "https://open.spotify.com/track/7uLcRFJ4Fa2yIKoR1fTXI0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tremendo Cach\u00e9 (Remastered 2024)",
+        "url": "https://open.spotify.com/album/7ahpvQJfp5KGi1BKye9vyt"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        }
+      ],
+      "duration_ms": 212190,
+      "name": "No Aguanto M\u00e1s - Remastered 2024",
+      "url": "https://open.spotify.com/track/197MneiFpfPzCuLJvYetVu"
     },
     {
       "added_at": null,
@@ -443,26 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tremendo Cache",
-        "url": "https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        }
-      ],
-      "duration_ms": 229373,
-      "name": "C\u00facala",
-      "url": "https://open.spotify.com/track/4lDazSsfp0eKRWUh4BKCgI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bambol\u00e9o",
         "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
       },
@@ -479,6 +479,26 @@
       "duration_ms": 327466,
       "name": "Bambol\u00e9o",
       "url": "https://open.spotify.com/track/4Gu8MRCmbJbX2sGueXipVg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tremendo Cache",
+        "url": "https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        }
+      ],
+      "duration_ms": 229373,
+      "name": "C\u00facala",
+      "url": "https://open.spotify.com/track/4lDazSsfp0eKRWUh4BKCgI"
     },
     {
       "added_at": null,
@@ -783,22 +803,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alma Caribe\u00f1a",
-        "url": "https://open.spotify.com/album/24obAzHAF54ZtdSUZtn0np"
+        "name": "Canciones Premiadas De Celia Cruz",
+        "url": "https://open.spotify.com/album/2RwLH5eQUSysH3JYCGC0HB"
       },
       "artists": [
         {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        },
-        {
           "name": "Celia Cruz",
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
         }
       ],
-      "duration_ms": 257160,
-      "name": "Tres Gotas De Agua Bendita (feat. Celia Cruz)",
-      "url": "https://open.spotify.com/track/39wf4YalXTzfjokmGTg0cl"
+      "duration_ms": 175600,
+      "name": "Melao De Ca\u00f1a",
+      "url": "https://open.spotify.com/track/3plteX0fS86RHbRTwEIHuo"
     },
     {
       "added_at": null,
@@ -815,6 +835,26 @@
       "duration_ms": 168475,
       "name": "Ven Bernabe - Remastered",
       "url": "https://open.spotify.com/track/5v5QvuADGTmk9D0rST4s0e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alma Caribe\u00f1a",
+        "url": "https://open.spotify.com/album/24obAzHAF54ZtdSUZtn0np"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 257160,
+      "name": "Tres Gotas De Agua Bendita (feat. Celia Cruz)",
+      "url": "https://open.spotify.com/track/39wf4YalXTzfjokmGTg0cl"
     },
     {
       "added_at": null,
@@ -871,42 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grandes \u00c9xitos De Celia Cruz",
-        "url": "https://open.spotify.com/album/3fZuVtDVcGHISoULNx4Dw3"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 189600,
-      "name": "Guede Zaina",
-      "url": "https://open.spotify.com/track/6HxrX0t2TnBbrAYTaV3zj0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Serenata Guajira",
-        "url": "https://open.spotify.com/album/4WKWwc85zSpD2Nd63yN2aM"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 152379,
-      "name": "Esperar\u00e9",
-      "url": "https://open.spotify.com/track/42o6HDxZXTqUuvGPwOSvTf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Viva la Reina de la Salsa",
         "url": "https://open.spotify.com/album/5sj5rxV32E8izCz99fNFLU"
       },
@@ -923,6 +927,22 @@
       "duration_ms": 224293,
       "name": "Cao Cao Man\u00ed Picao",
       "url": "https://open.spotify.com/track/4jrV8b9VyVl0bGRDrlReSt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serenata Guajira",
+        "url": "https://open.spotify.com/album/4WKWwc85zSpD2Nd63yN2aM"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 152379,
+      "name": "Esperar\u00e9",
+      "url": "https://open.spotify.com/track/42o6HDxZXTqUuvGPwOSvTf"
     },
     {
       "added_at": null,
@@ -1076,9 +1096,9 @@
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 167400,
-      "name": "Me Voy A Pinar Del R\u00edo",
-      "url": "https://open.spotify.com/track/14uucuWFa78hDSkfqq0uoE"
+      "duration_ms": 161386,
+      "name": "Caramelos",
+      "url": "https://open.spotify.com/track/76kSyrC39OifBZweY6JdP8"
     }
   ],
   "unique_name": "This Is Celia Cruz",

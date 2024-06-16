@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqYqGLu7kTX.md) - [plain]
 
 > This is how we do it, This is our style.<br/>Cover: Sidhu Moose Wala
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,334 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,664 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Drippy](https://open.spotify.com/track/4fnIORP0QTYTOMPqMKpJtF) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K), [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Drippy](https://open.spotify.com/album/7xlh4JhUD65QX1HzN2guSX) | 3:15 |
 | 2 | [Don't Look 2](https://open.spotify.com/track/4ZQAFya68eENRy7VGVXSUe) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [G\-Funk](https://open.spotify.com/artist/5fYzmklFOBvIXZef0iVmEH) | [Don't Look 2](https://open.spotify.com/album/5RCnxjGciArcGJScujPXyU) | 3:18 |
 | 3 | [Safety Off](https://open.spotify.com/track/3NwmvlTYDZPRBGDMGgJH8K) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Leo](https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2) | 2:23 |
-| 4 | [Goin' Off](https://open.spotify.com/track/3txE0SZnwamBhYB2ZQtHwU) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Goin' Off](https://open.spotify.com/album/3uXGbWKTUkC14RmbgjTQlM) | 2:43 |
+| 4 | [Goin' Off](https://open.spotify.com/track/3txE0SZnwamBhYB2ZQtHwU) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Goin' Off](https://open.spotify.com/album/3uXGbWKTUkC14RmbgjTQlM) | 2:43 |
 | 5 | [MVP](https://open.spotify.com/track/5BQePe9rcCJozHK3oPayYk) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [MVP](https://open.spotify.com/album/5oCCfkVCpkSUhBUXe0pyJF) | 3:16 |
 | 6 | [ON TOP 2](https://open.spotify.com/track/2G4GimpAMeWaZ6VkcQ1RT9) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [On Top 2](https://open.spotify.com/album/7Mu7sumZaG3bM4rAfs6S8p) | 3:01 |
 | 7 | [Murder](https://open.spotify.com/track/0uMY0ZOYpXKHPxuakVtQzs) | [Real Boss](https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP), [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G) | [Murder](https://open.spotify.com/album/1i6h3Xs1qunoQAO7N2XHVg) | 3:02 |
 | 8 | [Rubicon Drill](https://open.spotify.com/track/03yKEFruN3BS2coglBtt2N) | [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p), [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Forever](https://open.spotify.com/album/4qlI6YM61j9NeGe832mExq) | 3:08 |
 | 9 | [King Shit](https://open.spotify.com/track/1BpvuKIG7jK5EiTp2tv5z8) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Leo](https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2) | 3:46 |
-| 10 | [Winning Speech](https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Winning Speech](https://open.spotify.com/album/0pLUWCJtTpJCcYpzSTK7oC) | 3:47 |
+| 10 | [Winning Speech](https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Winning Speech](https://open.spotify.com/album/0pLUWCJtTpJCcYpzSTK7oC) | 3:47 |
 | 11 | [WYS](https://open.spotify.com/track/5GG8UKvp8FzRSM21DSNl5M) | [Real Boss](https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP), [Baggh\-e SMG](https://open.spotify.com/artist/4eu7AyzvnafwOygTQlfAMu), [Farmaan SMG](https://open.spotify.com/artist/3yXzSYXBOTZ0m1QAfjlzKK), [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G) | [WHEN WE RIDE](https://open.spotify.com/album/2x1eisYz2DSHg76V6HkaH5) | 2:57 |
 | 12 | [410](https://open.spotify.com/track/0R1AZYXc34nfMaiengrkRc) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [Offgrid](https://open.spotify.com/artist/7F8zSmymsU25wRm0x7R05Y) | [410](https://open.spotify.com/album/0kUrdWYhWYGz71c0jaGnJe) | 3:54 |
 | 13 | [Miami Flow](https://open.spotify.com/track/2DgeseqrXJEc7MmKvXWxY0) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [RAW](https://open.spotify.com/album/72MyJJSH7ZThR7366dRC2Y) | 2:29 |

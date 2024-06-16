@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,358 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,413 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
 | 50 | [De 10 Mulher 11 É Maluca](https://open.spotify.com/track/1jN0ysNJ2d9VZwVdlgspjr) | [MC Saci](https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p), [MC Fahah](https://open.spotify.com/artist/0MlMFTEEEk0uSwI4hYSxrq), [DJ Sammer](https://open.spotify.com/artist/70dP66OT4eq3soksc1syUs), [Dj Lc](https://open.spotify.com/artist/3JcD2LnyvfEki9d7705GaY) | [De 10 Mulher 11 É Maluca](https://open.spotify.com/album/5geYQEhBL2t9iqTsBKgkPe) | 1:55 |
 
-Snapshot ID: `Lf+rGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LgD+8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

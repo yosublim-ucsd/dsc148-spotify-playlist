@@ -4,7 +4,7 @@
 
 > Cumbia pa' volar la chapa con Damas Gratis.
 
-273 songs - 15 hr 28 min
+273 songs - 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,7 +273,7 @@
 | [Vos de Bebe](https://open.spotify.com/track/2mVBkHUzTGdHZsZ90F77bF) | [Los Gedes](https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf) | [Alta Gira](https://open.spotify.com/album/1tlUQn78wbsFerurcSe8Hy) | 4:07 | 2023-05-26 | 2024-03-06 |
 | [Voz de bebé](https://open.spotify.com/track/38WBgeP8cXm9I5Rr6kftyE) | [Los Gedes](https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf), [Búfalo Ortiz](https://open.spotify.com/artist/5j7kpHc00qZrSIxnSZ4YZj) | [Voz de bebé](https://open.spotify.com/album/60RFhH1hdv4XPfXO9UDwof) | 4:07 | 2023-07-14 | 2023-08-05 |
 | [Vuelve a Mi Lado](https://open.spotify.com/track/318gvXrsPsP1r3ocHcFIcH) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [La 2da del Boxeador](https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X) | 1:44 | 2024-03-05 | 2024-06-01 |
-| [YA FUE](https://open.spotify.com/track/1Vd2kfgMMq7hsd1tPQYpl7) | [Los Nota Lokos](https://open.spotify.com/artist/76iFMHDqONZusQlTu2ckKQ), [elz](https://open.spotify.com/artist/0b8QeBXlPuivBLiOQoUG0W) | [YA FUE](https://open.spotify.com/album/2e79z8fLPvZPXV0RXdzQL7) | 2:04 | 2024-06-14 |  |
+| [YA FUE](https://open.spotify.com/track/1Vd2kfgMMq7hsd1tPQYpl7) | [Los Nota Lokos](https://open.spotify.com/artist/76iFMHDqONZusQlTu2ckKQ), [elz](https://open.spotify.com/artist/0b8QeBXlPuivBLiOQoUG0W) | [YA FUE](https://open.spotify.com/album/2e79z8fLPvZPXV0RXdzQL7) | 2:05 | 2024-06-14 |  |
 | [Yendo No, Llegando](https://open.spotify.com/track/166qsYi2wR3u6qfg7wrh1r) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi), [Dj Plaga](https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Yendo No, Llegando](https://open.spotify.com/album/3b9MJ9krpxzCmggrlOpIyP) | 3:31 | 2023-05-26 |  |
 | [Yo amo la música](https://open.spotify.com/track/46iC4HPfnbMAj34EwPKJVB) | [Los Gedes](https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf), [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [Yo amo la música](https://open.spotify.com/album/2NNCMbHXF5ZyywFPwN5k8g) | 3:44 | 2023-09-29 | 2023-10-13 |
 | [Yo Fumo](https://open.spotify.com/track/2AOiUFvBd1AbUtEnmwqhaI) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Yo Fumo](https://open.spotify.com/album/33FknRCSpak207j4cmiApB) | 3:10 | 2023-05-26 | 2023-06-13 |

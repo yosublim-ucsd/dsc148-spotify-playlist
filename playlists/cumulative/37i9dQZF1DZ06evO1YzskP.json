@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "This is La Receta. The essential tracks, all in one playlist.",
+  "description": "This Is La Receta. Los temas esenciales, todos en una lista.",
   "name": "This Is La Receta",
   "tracks": [
     {
@@ -704,7 +704,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 192026,
       "name": "La Captura Del Ni\u00f1o Vicente",
       "url": "https://open.spotify.com/track/1vW9v99lo2DlhoAofsJAiS"

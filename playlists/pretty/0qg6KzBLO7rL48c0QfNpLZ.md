@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 97,606 likes - 237 songs - 10 hr 53 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 97,625 likes - 241 songs - 11 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -245,5 +245,9 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 235 | [The One](https://open.spotify.com/track/2hT9vWmKp6uduKzmalqeMA) | [Jane Good](https://open.spotify.com/artist/1rFqZWRuRsmDNAuSMRGwSE), [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8) | [The One](https://open.spotify.com/album/5Jop0OBRotixCpYtx5VUsH) | 2:05 |
 | 236 | [Hold This Memory](https://open.spotify.com/track/21VnSlwtvNKUFFHHKqt7fI) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Hold This Memory](https://open.spotify.com/album/7G39pVt7Ed3PTkC0tHw7QG) | 2:40 |
 | 237 | [Craving](https://open.spotify.com/track/7hMbTPIYxu9q2yFN92Kz29) | [Who](https://open.spotify.com/artist/5kd3KjfO9uFcNDvuGJRXsU) | [Craving](https://open.spotify.com/album/2MlYAECsEqKtHcKAT3fXKX) | 2:29 |
+| 238 | [Flora](https://open.spotify.com/track/6bsqAKUCs6GU9MGGYDG0jr) | [aural](https://open.spotify.com/artist/2BbjZHngxcMpV9FVewdRzY) | [Flora](https://open.spotify.com/album/2Uof02VZdreIpcDYWK6MS6) | 2:26 |
+| 239 | [Fallen Angel](https://open.spotify.com/track/0SxkdPdZ6ebgVXnHM0sNKL) | [Vall](https://open.spotify.com/artist/1nn5V08qmK0rKqWX5tFBac), [JAIKO](https://open.spotify.com/artist/0Z18DUpbXTOfz077PDtmhT) | [Fallen Angel](https://open.spotify.com/album/2Xyegzw6FxTxqOAkHnkD14) | 3:05 |
+| 240 | [Ibiza Sunrise](https://open.spotify.com/track/5OwnmkyqPzWNAs9ts1pkjp) | [NORRA](https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7) | [Ibiza Sunrise](https://open.spotify.com/album/2az0c2YcQh2QLdQLnR9g9C) | 3:32 |
+| 241 | [i'm so tired...](https://open.spotify.com/track/5tFMvtiCZ5Io5jzi6glZVc) | [four30](https://open.spotify.com/artist/2ZIBs9fjeieh0tVW1rnO0S) | [i'm so tired...](https://open.spotify.com/album/6rrS98yasmRLrxvERI68Av) | 2:43 |
 
-Snapshot ID: `AAAW9fkptWL6RPHFZb52IfyQpJEUMzHq`
+Snapshot ID: `AAAW+R9f5SzGWXDm4PF+YmkK3tGY/CfY`

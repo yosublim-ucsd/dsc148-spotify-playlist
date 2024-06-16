@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,826 likes - 160 songs - 11 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,856 likes - 160 songs - 11 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover:   <a href=https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH?si=0lJgMD1sS\_mVVF1J\_3ofwg>CalledOut Music
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,179 likes - 105 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,474 likes - 105 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

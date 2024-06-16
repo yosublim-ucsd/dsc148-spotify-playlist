@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vWnOprRIq7.md) - [plain]
 
 > El lado electrónico del indie latino, featuring Alex Anwandter.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,504 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,519 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

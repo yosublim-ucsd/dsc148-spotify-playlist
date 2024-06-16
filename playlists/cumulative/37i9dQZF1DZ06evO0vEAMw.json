@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "This is Davido. The essential tracks, all in one playlist.",
+  "description": "This is: Davido. Alle wichtigen Tracks in einer Playlist.",
   "name": "This Is Davido",
   "tracks": [
     {
@@ -818,7 +818,7 @@
       ],
       "date_added": "2024-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 132912,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/5ZGXOgSHLkDYlDssUkVp7a"
@@ -1653,6 +1653,32 @@
     },
     {
       "album": {
+        "name": "More Pretty Girls",
+        "url": "https://open.spotify.com/album/4WwnvAPqTcwcBBd4kuMkx0"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "date_added": "2024-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198323,
+      "name": "More Pretty Girls",
+      "url": "https://open.spotify.com/track/5cXQQa5G0hyc6m5Mk1rM2i"
+    },
+    {
+      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/2hFJ5AXzhqEzl2meezVwyN"
       },
@@ -1928,7 +1954,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 217154,
       "name": "Ride for You",
       "url": "https://open.spotify.com/track/5SwcKxSMFVxftpfHclPc03"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Marama, Migrantes & Flor Alvarez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,163,175 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,163,174 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

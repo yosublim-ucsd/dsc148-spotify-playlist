@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 170480,
       "name": "AMARGURA",
       "url": "https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k"
@@ -7396,7 +7396,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 230513,
       "name": "Gata Only (Remix)",
       "url": "https://open.spotify.com/track/0JGTfiC4Z41GEEpMYLbWwO"
@@ -9282,6 +9282,32 @@
       "duration_ms": 263340,
       "name": "La Peineta / Todos los Domingos / Pobre Caminante / Cumbia para Adormecerte / La Mafafa",
       "url": "https://open.spotify.com/track/40T4UlSEpSqWgUMl1K7nqu"
+    },
+    {
+      "album": {
+        "name": "La Pulenta",
+        "url": "https://open.spotify.com/album/2q5j7yaSNguryfJ710Rwpq"
+      },
+      "artists": [
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Javiielo",
+          "url": "https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5"
+        },
+        {
+          "name": "Best",
+          "url": "https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221543,
+      "name": "La Pulenta",
+      "url": "https://open.spotify.com/track/6sd73b5KtzKUinD5VCNqg7"
     },
     {
       "album": {
@@ -12130,6 +12156,24 @@
       "duration_ms": 185600,
       "name": "Mia Na' Mas",
       "url": "https://open.spotify.com/track/4s6y1Ca36L1lxKR2nXgDD8"
+    },
+    {
+      "album": {
+        "name": "miau",
+        "url": "https://open.spotify.com/album/71I1bBOFoP9ootc5n4LPjg"
+      },
+      "artists": [
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185972,
+      "name": "miau",
+      "url": "https://open.spotify.com/track/5osSgKDiyrzhLjsEABO6c9"
     },
     {
       "album": {
@@ -15732,7 +15776,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 172797,
       "name": "QLONA",
       "url": "https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK"
@@ -16012,6 +16056,28 @@
       "duration_ms": 200785,
       "name": "Ram Pam Pam",
       "url": "https://open.spotify.com/track/4DHDIdeayp8xvlyg22wREO"
+    },
+    {
+      "album": {
+        "name": "Qui\u00e9n es Dei V?",
+        "url": "https://open.spotify.com/album/2i6InsyHZPR6NBFniDivF5"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Rapido (with Cris Mj)",
+      "url": "https://open.spotify.com/track/1emJPywtseFLmLCcPY92dW"
     },
     {
       "album": {

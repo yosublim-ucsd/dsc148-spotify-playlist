@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TlTLxcIo6J.md) - [plain]
 
 > New songwriters on the horizon from around the world\. Cover: <a href="https://open.spotify.com/user/1217186610?si=6cbd40453d654a75">Ariana Wong</a> ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,441 likes - 65 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,459 likes - 65 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TlTLxcIo6J.md) - [plain]
 | 2 | [hard feelings](https://open.spotify.com/track/5sZyB7g56Oy6bs7WLLHZwU) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Forest in the City](https://open.spotify.com/album/7ijzh3hVmlwWRxuJGPSoeR) | 2:30 |
 | 3 | [Principalmente Me Sinto Arrasada](https://open.spotify.com/track/24LGL93o3wuVuYLCBhV3c5) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 2:53 |
 | 4 | [Whole Package \(feat\. Flo Milli\)](https://open.spotify.com/track/3W8LZctsNYqn2DQCJTrLB4) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [The Coldest](https://open.spotify.com/album/0V2BZLpJjyk4eey1BOC9st) | 2:26 |
-| 5 | [Creature \- Remix](https://open.spotify.com/track/2tv8ppFp8QeGsWxk9I05az) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [Creature \(Remix\)](https://open.spotify.com/album/1ARlBuNQfm3t9pljmDwbsv) | 6:56 |
+| 5 | [Creature \- MYRNE Remix](https://open.spotify.com/track/2tv8ppFp8QeGsWxk9I05az) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [Creature \(MYRNE Remix\)](https://open.spotify.com/album/1ARlBuNQfm3t9pljmDwbsv) | 6:56 |
 | 6 | [yine bana kal](https://open.spotify.com/track/5XXXU9Nx21Klm3vZwyC9V2) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [yine bana kal](https://open.spotify.com/album/59ACJKAX7mYDjX8lwIXCTX) | 3:03 |
 | 7 | [NE SENLE NE SENSİZ](https://open.spotify.com/track/5bqI4hBdL3OOW0wMtjA9Fn) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [NE SENLE NE SENSİZ](https://open.spotify.com/album/67KVsFKWwM07Xeg3WOXFCU) | 3:42 |
 | 8 | [Alıştım Zehrine](https://open.spotify.com/track/0QH13vxepuaLmJvBFRwDDD) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Alıştım Zehrine](https://open.spotify.com/album/6xL4FouxMMHxeQjbMJZNn0) | 2:39 |

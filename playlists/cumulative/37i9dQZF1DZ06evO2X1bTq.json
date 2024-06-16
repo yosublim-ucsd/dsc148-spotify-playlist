@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-25",
-  "description": "This Is U2. Los temas esenciales, todos en una lista.",
+  "description": "This is U2\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
   "name": "This Is U2",
   "tracks": [
     {
@@ -322,7 +322,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 199333,
       "name": "Everlasting Love",
       "url": "https://open.spotify.com/track/2e3kaO7DTPQ7kZJ6wGwcLo"
@@ -718,7 +718,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 257040,
       "name": "New Year's Day",
       "url": "https://open.spotify.com/track/2CwMxEXxMiLRrKPLjQLmne"

@@ -1,12 +1,12 @@
 {
   "description": "This is Tassia Reis. The essential tracks, all in one playlist.",
-  "num_followers": 1865,
+  "num_followers": 1866,
   "original_name": "This Is Tassia Reis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo2gAAAAADoFryXPPOhmYxqDDndeUkJ",
+  "snapshot_id": "ZmuIAAAAAACiDoMMOTNXa2R6KtUqIOaL",
   "tracks": [
     {
       "added_at": null,
@@ -359,30 +359,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorry Drummer & Friends, Vol. 2",
-        "url": "https://open.spotify.com/album/5hZ7f9dv3Ra5xVtBQcJRS0"
+        "name": "Bem Longe do Fim",
+        "url": "https://open.spotify.com/album/1Q8a40uNxsPxfKOizRyTcH"
       },
       "artists": [
-        {
-          "name": "Sorry Drummer",
-          "url": "https://open.spotify.com/artist/4wkKjUT8XmCYW5cnN4LIuL"
-        },
-        {
-          "name": "Slim Rimografia",
-          "url": "https://open.spotify.com/artist/4nvBf0lV2z3i1dDtuZjOxp"
-        },
         {
           "name": "Tassia Reis",
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
         },
         {
-          "name": "Silvera",
-          "url": "https://open.spotify.com/artist/1ou3OL7zp8g8TYm2zZA7OB"
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         }
       ],
-      "duration_ms": 191750,
-      "name": "Diz Que Sim",
-      "url": "https://open.spotify.com/track/2kp4Va2kwMESfeZmokDfBK"
+      "duration_ms": 165818,
+      "name": "Mais que Refr\u00e3o",
+      "url": "https://open.spotify.com/track/0sn1LzuoN2frfvwNMsKtAM"
     },
     {
       "added_at": null,
@@ -407,22 +399,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bem Longe do Fim",
-        "url": "https://open.spotify.com/album/1Q8a40uNxsPxfKOizRyTcH"
+        "name": "Sorry Drummer & Friends, Vol. 2",
+        "url": "https://open.spotify.com/album/5hZ7f9dv3Ra5xVtBQcJRS0"
       },
       "artists": [
+        {
+          "name": "Sorry Drummer",
+          "url": "https://open.spotify.com/artist/4wkKjUT8XmCYW5cnN4LIuL"
+        },
+        {
+          "name": "Slim Rimografia",
+          "url": "https://open.spotify.com/artist/4nvBf0lV2z3i1dDtuZjOxp"
+        },
         {
           "name": "Tassia Reis",
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
         },
         {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+          "name": "Silvera",
+          "url": "https://open.spotify.com/artist/1ou3OL7zp8g8TYm2zZA7OB"
         }
       ],
-      "duration_ms": 165818,
-      "name": "Mais que Refr\u00e3o",
-      "url": "https://open.spotify.com/track/0sn1LzuoN2frfvwNMsKtAM"
+      "duration_ms": 191750,
+      "name": "Diz Que Sim",
+      "url": "https://open.spotify.com/track/2kp4Va2kwMESfeZmokDfBK"
     },
     {
       "added_at": null,
@@ -559,18 +559,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outra Esfera",
-        "url": "https://open.spotify.com/album/7BZkkvPysgOxPgwO4HzB3v"
+        "name": "T\u00e1ssia Reis",
+        "url": "https://open.spotify.com/album/2ERj7DCOq6FAH2Y7qad5hN"
       },
       "artists": [
         {
           "name": "Tassia Reis",
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        },
+        {
+          "name": "Tiago Mac",
+          "url": "https://open.spotify.com/artist/3GM0VyM1n1qvk0v2PfXX4n"
         }
       ],
-      "duration_ms": 246160,
-      "name": "Desapegada",
-      "url": "https://open.spotify.com/track/2UEcxnVXBbuaIZdDVD8mEM"
+      "duration_ms": 240213,
+      "name": "Good Trip",
+      "url": "https://open.spotify.com/track/34tLeAhdqvCTvkZEFwrDzO"
     },
     {
       "added_at": null,
@@ -595,26 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00e1ssia Reis",
-        "url": "https://open.spotify.com/album/2ERj7DCOq6FAH2Y7qad5hN"
-      },
-      "artists": [
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        },
-        {
-          "name": "Tiago Mac",
-          "url": "https://open.spotify.com/artist/3GM0VyM1n1qvk0v2PfXX4n"
-        }
-      ],
-      "duration_ms": 240213,
-      "name": "Good Trip",
-      "url": "https://open.spotify.com/track/34tLeAhdqvCTvkZEFwrDzO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bem Longe do Fim",
         "url": "https://open.spotify.com/album/1Q8a40uNxsPxfKOizRyTcH"
       },
@@ -631,22 +615,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pedras, Flechas, Lan\u00e7as, Espadas e Espelhos",
-        "url": "https://open.spotify.com/album/5U1zfJbVLAGHq6DfYCCkUH"
+        "name": "Outra Esfera",
+        "url": "https://open.spotify.com/album/7BZkkvPysgOxPgwO4HzB3v"
       },
       "artists": [
-        {
-          "name": "Thiago Elni\u00f1o",
-          "url": "https://open.spotify.com/artist/5x7AmAnecUurZjYguXAwED"
-        },
         {
           "name": "Tassia Reis",
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
         }
       ],
-      "duration_ms": 205515,
-      "name": "Os Pretinho Bem",
-      "url": "https://open.spotify.com/track/3zMrFioc8zQT7F5XPfyu4N"
+      "duration_ms": 246160,
+      "name": "Desapegada",
+      "url": "https://open.spotify.com/track/2UEcxnVXBbuaIZdDVD8mEM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T\u00e1ssia Reis",
+        "url": "https://open.spotify.com/album/2ERj7DCOq6FAH2Y7qad5hN"
+      },
+      "artists": [
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 198784,
+      "name": "Primavera",
+      "url": "https://open.spotify.com/track/4nrBZ1bxeP1JYL0jykNWOK"
     },
     {
       "added_at": null,
@@ -667,18 +663,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00e1ssia Reis",
-        "url": "https://open.spotify.com/album/2ERj7DCOq6FAH2Y7qad5hN"
+        "name": "Pedras, Flechas, Lan\u00e7as, Espadas e Espelhos",
+        "url": "https://open.spotify.com/album/5U1zfJbVLAGHq6DfYCCkUH"
       },
       "artists": [
+        {
+          "name": "Thiago Elni\u00f1o",
+          "url": "https://open.spotify.com/artist/5x7AmAnecUurZjYguXAwED"
+        },
         {
           "name": "Tassia Reis",
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
         }
       ],
-      "duration_ms": 198784,
-      "name": "Primavera",
-      "url": "https://open.spotify.com/track/4nrBZ1bxeP1JYL0jykNWOK"
+      "duration_ms": 205515,
+      "name": "Os Pretinho Bem",
+      "url": "https://open.spotify.com/track/3zMrFioc8zQT7F5XPfyu4N"
     },
     {
       "added_at": null,
@@ -767,46 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siento por Ciento (Remix)",
-        "url": "https://open.spotify.com/album/1AqpgAjhy5ZK7KbTUmNZS4"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        },
-        {
-          "name": "G Sony",
-          "url": "https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT"
-        },
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        }
-      ],
-      "duration_ms": 207709,
-      "name": "Siento Por Ciento - Remix",
-      "url": "https://open.spotify.com/track/3F9jxW2QPwwlbcoV9AAixI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pr\u00f3spera",
-        "url": "https://open.spotify.com/album/3bgrfyRjo8FI7smYgASHwK"
-      },
-      "artists": [
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        }
-      ],
-      "duration_ms": 213198,
-      "name": "Try",
-      "url": "https://open.spotify.com/track/2xDxwmGw4q5LRo8duRC0z5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Copy",
         "url": "https://open.spotify.com/album/0aabe3MkHEfOH89G3AA7rX"
       },
@@ -839,6 +799,46 @@
       "duration_ms": 181778,
       "name": "Copy",
       "url": "https://open.spotify.com/track/3Q6P44efSOTR4O52255KmX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pr\u00f3spera",
+        "url": "https://open.spotify.com/album/3bgrfyRjo8FI7smYgASHwK"
+      },
+      "artists": [
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 213198,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/2xDxwmGw4q5LRo8duRC0z5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Siento por Ciento (Remix)",
+        "url": "https://open.spotify.com/album/1AqpgAjhy5ZK7KbTUmNZS4"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        },
+        {
+          "name": "G Sony",
+          "url": "https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT"
+        },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 207709,
+      "name": "Siento Por Ciento - Remix",
+      "url": "https://open.spotify.com/track/3F9jxW2QPwwlbcoV9AAixI"
     },
     {
       "added_at": null,
@@ -999,26 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Selva",
-        "url": "https://open.spotify.com/album/5A3ELDQfpzdyD9lAkHmhg5"
-      },
-      "artists": [
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        },
-        {
-          "name": "Fabriccio",
-          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
-        }
-      ],
-      "duration_ms": 215624,
-      "name": "Preta",
-      "url": "https://open.spotify.com/track/3UfzovrAYda3M8mL3CpGoN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pr\u00f3spera D+",
         "url": "https://open.spotify.com/album/2pwEcYczMERg84xdmJQzhj"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 234576,
       "name": "B\u00eabada de Feriado",
       "url": "https://open.spotify.com/track/23C1cUsh8QcMZZfUXiXbeR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Selva",
+        "url": "https://open.spotify.com/album/5A3ELDQfpzdyD9lAkHmhg5"
+      },
+      "artists": [
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        },
+        {
+          "name": "Fabriccio",
+          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
+        }
+      ],
+      "duration_ms": 215624,
+      "name": "Preta",
+      "url": "https://open.spotify.com/track/3UfzovrAYda3M8mL3CpGoN"
     },
     {
       "added_at": null,

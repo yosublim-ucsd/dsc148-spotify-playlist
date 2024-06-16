@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RRbChYKNCUva4pRPwsBbC">Ging FKA Frank Dukes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259 likes - 229 songs - 13 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 260 likes - 229 songs - 13 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 44 | [She Loves Control](https://open.spotify.com/track/5HwnezK198pJCEj1l2Adjy) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 2:57 |
 | 45 | [CRY FOR ME](https://open.spotify.com/track/0PoAZ7SLFpqpYR9LSCYAo8) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [CRY FOR ME](https://open.spotify.com/album/1Zk459EmzjRKMYbfxMY5CY) | 3:24 |
 | 46 | [Over Now \(with The Weeknd\)](https://open.spotify.com/track/58AGoOGbwsQMhBbH0eFLRR) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Over Now \(with The Weeknd\)](https://open.spotify.com/album/3GPiefSRSOxqTrgKJIB7RL) | 3:30 |
-| 47 | [Real Friends](https://open.spotify.com/track/66Q3fAmSX5eHamgbKa9alP) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 4:11 |
-| 48 | [Staring At The Sun \(feat\. SZA\)](https://open.spotify.com/track/5KE9b4x7Zj2A8XtbkqhqTe) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 2:48 |
+| 47 | [Staring At The Sun \(feat\. SZA\)](https://open.spotify.com/track/5KE9b4x7Zj2A8XtbkqhqTe) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 2:48 |
+| 48 | [Real Friends](https://open.spotify.com/track/66Q3fAmSX5eHamgbKa9alP) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 4:11 |
 | 49 | [Spice Girl](https://open.spotify.com/track/4HW5kSQ8M2IQWZhSxERvla) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Good For You](https://open.spotify.com/album/3lajefIuUk4SfzqVBSJy8p) | 2:53 |
 | 50 | [trademark usa](https://open.spotify.com/track/15hJmqqEtASVXl6sM7i4UF) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg) | 4:30 |
 | 51 | [Privilege](https://open.spotify.com/track/0Nwar8rweBUyfyuoyjjUvk) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 2:50 |
@@ -238,4 +238,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 228 | [The Grand Design](https://open.spotify.com/track/3pVOogOInku8irJgvk91yh) | [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73) | [Season 2](https://open.spotify.com/album/0kWlgwwcyciyZcNe0JXqqy) | 2:41 |
 | 229 | [Lost](https://open.spotify.com/track/6agJafc27z0MwdEDyaVGPN) | [Kateel](https://open.spotify.com/artist/4egOVLqYZVVI4gwzMAcRlT) | [Lost](https://open.spotify.com/album/7xkfLCegBO0SnTIJ1qzChA) | 2:07 |
 
-Snapshot ID: `AbUEWwAAAABUtoxki9knavfiMX+5yCcD`
+Snapshot ID: `AbUJ+wAAAAAAtfGRo2irLsILqA+/lRU+`

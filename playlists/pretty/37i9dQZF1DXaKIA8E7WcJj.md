@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKIA8E7WcJj.md) - [plain]
 
 > The biggest songs of the 1960s\. Cover: The Beach Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,107,105 likes - 150 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,107,421 likes - 150 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

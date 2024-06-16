@@ -98,7 +98,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 249444,
       "name": "After Last Night (with Thundercat & Bootsy Collins)",
       "url": "https://open.spotify.com/track/3jiKUMXqwEodB7gVv1RMZU"
@@ -120,7 +120,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 211160,
       "name": "Billionaire (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/2M9ULmQwTaTGmAdXaXpfz5"
@@ -190,7 +190,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-12",
+      "date_removed": null,
       "duration_ms": 250080,
       "name": "Calling All My Lovelies",
       "url": "https://open.spotify.com/track/6ObpR8ek44tvWefQRcSo8K"
@@ -318,7 +318,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 219389,
       "name": "Fly As Me",
       "url": "https://open.spotify.com/track/7suB6D6uKX5DfPukdGaz0W"
@@ -354,7 +354,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 222091,
       "name": "Grenade",
       "url": "https://open.spotify.com/track/4lLtanYk6tkMvooU0tWzG8"
@@ -500,7 +500,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 303813,
       "name": "Lighters",
       "url": "https://open.spotify.com/track/5zpDHEU12zATwLGvozxPw2"
@@ -566,7 +566,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 307014,
       "name": "Love's Train",
       "url": "https://open.spotify.com/track/2JUQ7mV1AHk2owXLydmN4Z"
@@ -712,7 +712,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 210053,
       "name": "Perm",
       "url": "https://open.spotify.com/track/1I6pKIyaBp4OebTGLJpCCC"
@@ -778,7 +778,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 148448,
       "name": "Runaway Baby",
       "url": "https://open.spotify.com/track/7hCNBVRhHzcsRAv0TQnOzq"
@@ -874,7 +874,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 197442,
       "name": "Smokin Out The Window",
       "url": "https://open.spotify.com/track/3xVZYkcuWalGudeKl861wb"
@@ -946,7 +946,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 206693,
       "name": "That's What I Like",
       "url": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
@@ -968,7 +968,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 195888,
       "name": "That's What I Like - Alan Walker Remix",
       "url": "https://open.spotify.com/track/1KtU0WCq472KzqCXgMOxkS"
@@ -1004,7 +1004,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 281826,
       "name": "Too Good to Say Goodbye",
       "url": "https://open.spotify.com/track/0B0tYbVp7pDQAqKDhgMeaL"
@@ -1088,6 +1088,28 @@
       "duration_ms": 261240,
       "name": "Versace on the Floor",
       "url": "https://open.spotify.com/track/0kN8xEmgMW9mh7UmDYHlJP"
+    },
+    {
+      "album": {
+        "name": "Versace On The Floor (Bruno Mars vs. David Guetta)",
+        "url": "https://open.spotify.com/album/0yDiMZdbFwO5lGB9Dq5wlL"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2024-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228300,
+      "name": "Versace on the Floor (Bruno Mars vs. David Guetta)",
+      "url": "https://open.spotify.com/track/5UJshy5HDHdNEVqlJwzsQB"
     },
     {
       "album": {

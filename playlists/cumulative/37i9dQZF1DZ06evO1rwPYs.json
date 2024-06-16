@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "This is: Celia Cruz. Alle wichtigen Tracks in einer Playlist.",
+  "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
   "name": "This Is Celia Cruz",
   "tracks": [
     {
@@ -306,7 +306,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 161386,
       "name": "Caramelos",
       "url": "https://open.spotify.com/track/76kSyrC39OifBZweY6JdP8"
@@ -1180,7 +1180,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 189600,
       "name": "Guede Zaina",
       "url": "https://open.spotify.com/track/6HxrX0t2TnBbrAYTaV3zj0"
@@ -1596,7 +1596,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 167400,
       "name": "Me Voy A Pinar Del R\u00edo",
       "url": "https://open.spotify.com/track/14uucuWFa78hDSkfqq0uoE"
@@ -1618,7 +1618,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-11",
+      "date_removed": null,
       "duration_ms": 175600,
       "name": "Melao De Ca\u00f1a",
       "url": "https://open.spotify.com/track/3plteX0fS86RHbRTwEIHuo"
@@ -1786,6 +1786,28 @@
       "duration_ms": 347893,
       "name": "Nadie Se Salva De La Rumba",
       "url": "https://open.spotify.com/track/75ujCf7ZZCV65jPJCCZuZp"
+    },
+    {
+      "album": {
+        "name": "Tremendo Cach\u00e9 (Remastered 2024)",
+        "url": "https://open.spotify.com/album/7ahpvQJfp5KGi1BKye9vyt"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        }
+      ],
+      "date_added": "2024-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212190,
+      "name": "No Aguanto M\u00e1s - Remastered 2024",
+      "url": "https://open.spotify.com/track/197MneiFpfPzCuLJvYetVu"
     },
     {
       "album": {

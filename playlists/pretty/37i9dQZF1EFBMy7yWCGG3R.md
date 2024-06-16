@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,264 likes - 242 songs - 13 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,272 likes - 242 songs - 13 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 97 | [Papercut](https://open.spotify.com/track/62hWYjPL57rbUd5rhvI3Of) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [True Colors](https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT) | 7:23 |
 | 98 | [In A Perfect World \(with Julia Michaels\)](https://open.spotify.com/track/2ibGdhv3nTO89VN9KR7N2H) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [In A Perfect World \(with Julia Michaels\)](https://open.spotify.com/album/2OFiWC4MyJh72imvTDV3gq) | 3:11 |
 | 99 | [Touch](https://open.spotify.com/track/5vvTArvy925m36VaABJvdB) | [Tough Love](https://open.spotify.com/artist/16KSSLMXOdKQ2MHt9bOHTG), [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [Touch](https://open.spotify.com/album/5Vhwmy8P4MljjsgZe4sgmG) | 3:18 |
-| 100 | [Little Did I Know](https://open.spotify.com/track/4hkSiyO1zy1scfc4HWMGR4) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/59Zhv6U3Zge8ZFdBvkSpcI) | 3:16 |
-| 101 | [decode](https://open.spotify.com/track/17wMOhLqVB3DRCmTaLjwVM) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:08 |
+| 100 | [decode](https://open.spotify.com/track/17wMOhLqVB3DRCmTaLjwVM) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:08 |
+| 101 | [Little Did I Know](https://open.spotify.com/track/4hkSiyO1zy1scfc4HWMGR4) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/59Zhv6U3Zge8ZFdBvkSpcI) | 3:16 |
 | 102 | [Wrong Move \(feat\. Olivia Holt\)](https://open.spotify.com/track/7athZqYpRW1KOj7CKvIU6F) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [THRDL!FE](https://open.spotify.com/artist/04O00MEN0lHEKWTwRjb1nS), [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [The Wave](https://open.spotify.com/album/7tODvFh4chMI6i0VIQ5UTv) | 3:31 |
 | 103 | [Home Alone](https://open.spotify.com/track/6He0K0vTMdPdbweh18nnrB) | [Ansel Elgort](https://open.spotify.com/artist/59mjRp0i1B8oWSSMmGWJlJ) | [Home Alone](https://open.spotify.com/album/4C7GGrEh4JlcKH4B0gPj7A) | 4:16 |
 | 104 | [No Deal](https://open.spotify.com/track/2GJxkCRFJ6maLi2VmYRX9R) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Beautiful Mind](https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL) | 3:07 |
@@ -251,4 +251,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 241 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 | 242 | [It's Not You](https://open.spotify.com/track/4Bs02m3Wc1B3CAyNQPzTjQ) | [Michael Reiser](https://open.spotify.com/artist/1j8LcBs60GqvQuleshFkhw) | [Quiet Moon](https://open.spotify.com/album/2f1yMMxCo13pt6Ao1ZXyBJ) | 3:33 |
 
-Snapshot ID: `AbUEIgAAAADJvpXDOpSE5ftVZYYx9tFv`
+Snapshot ID: `AbUKAgAAAACY6CR2iSF1+XP7W9LlJ1E6`

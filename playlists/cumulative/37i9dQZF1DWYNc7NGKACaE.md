@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [011 É o Ddd \- Speed Up](https://open.spotify.com/track/5cAeEKEsxXj6RpzGhJUgyG) | [Barbz](https://open.spotify.com/artist/06s5q2sH2lnyEbao994fVD), [Menoleozzin](https://open.spotify.com/artist/5T6UOkgOY9iCBHcOnOatUB) | [011 É o Ddd](https://open.spotify.com/album/3dqDCBoecBp7CqMbxP5pjj) | 2:24 | 2023-09-26 |  |
+| [011 É o Ddd \- Speed Up](https://open.spotify.com/track/5cAeEKEsxXj6RpzGhJUgyG) | [Barbz](https://open.spotify.com/artist/06s5q2sH2lnyEbao994fVD), [L.HARD](https://open.spotify.com/artist/4X1JOqzevl6se7AQyJy0Vj) | [011 É o Ddd](https://open.spotify.com/album/3dqDCBoecBp7CqMbxP5pjj) | 2:24 | 2023-09-26 |  |
 | [202 \- Speed](https://open.spotify.com/track/29wpflca4iReYa4UX7lSYg) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Thomie](https://open.spotify.com/artist/5UkeFCuymumzsQizZ1xzsW), [prodbyeros](https://open.spotify.com/artist/2VykmpwjNmZuVWKiKnqonz) | [202 \(Speed\)](https://open.spotify.com/album/6uH5sAKYYfL8BdqI2YOmhJ) | 2:22 | 2023-09-26 |  |
 | [7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul](https://open.spotify.com/track/05UzengsM8WqaRbwgLcn6f) | [Dj LD da Favelinha](https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7) | [7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul](https://open.spotify.com/album/55NOFy7Em1EvBc8ZY5vIuX) | 3:22 | 2023-09-26 |  |
 | [Aff \- Speed Up](https://open.spotify.com/track/2KvhoUSJ3m6BYGefGVzjmX) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Jesus Invadiu a Cena \(Deluxe\)](https://open.spotify.com/album/2i9A3MdMLm2DaslCoMZMKX) | 2:26 | 2023-09-26 |  |

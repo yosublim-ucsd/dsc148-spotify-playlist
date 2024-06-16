@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > Get ready for Juneteenth with new music from Don Toliver, Normani, Tanner Adell, Khalid and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,182,678 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,182,861 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 20 | [Gaza is Calling](https://open.spotify.com/track/3ChIzdLUmq1sB9I556xwgC) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Gaza is Calling](https://open.spotify.com/album/33xs5LXJkJZDVptz8ovCcb) | 4:30 |
 | 21 | [One Day Less](https://open.spotify.com/track/4bSAoHsclPr3huBPAUUAzp) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Cedar Walls & Whiskey](https://open.spotify.com/album/3V9K8745oH1lBytkH8Iqjh) | 2:58 |
 | 22 | [Unbothered](https://open.spotify.com/track/70KneIyETnRCR0bUwKSjwz) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Unbothered](https://open.spotify.com/album/0HM5xmkTOEzur0wayhKqae) | 3:06 |
-| 23 | [Slow Rider](https://open.spotify.com/track/6PoyUY1cahG3vn1JMfiM2N) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV) | [Infinity High](https://open.spotify.com/album/0UlqS6mKG6GoEJTDma4hMQ) | 2:40 |
+| 23 | [Slow Rider](https://open.spotify.com/track/6PoyUY1cahG3vn1JMfiM2N) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV) | [Infinity High \- EP](https://open.spotify.com/album/0UlqS6mKG6GoEJTDma4hMQ) | 2:40 |
 | 24 | [JUST LIKE THAT](https://open.spotify.com/track/4alytlIn91jJgzsu6rSONb) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [JUST LIKE THAT](https://open.spotify.com/album/17Wk4tqPJ8rMH1hFCW4eLf) | 2:18 |
 | 25 | [ONOME](https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [ONOME](https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg) | 3:17 |
 | 26 | [So You Know](https://open.spotify.com/track/17FinQgW5IDSFU6eZXmP3O) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [So You Know](https://open.spotify.com/album/2jELYQXQdqowizHRPUUwAQ) | 4:11 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 37 | [Choppa \(with Lil Baby & Rvssian\)](https://open.spotify.com/track/2PY7w56NZdvh7YhBxfT4pE) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Choppa \(with Lil Baby & Rvssian\)](https://open.spotify.com/album/5yYpXnvCCF9l1z5HP1vNgx) | 2:49 |
 | 38 | [Count On Me](https://open.spotify.com/track/1NFEXNMg8AZ0jGSux4CJdd) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Cape Town to Cairo](https://open.spotify.com/album/3xrdk0MImcnbt9NEc7pSnK) | 2:49 |
 | 39 | [mother, i'm sorry](https://open.spotify.com/track/3MK5179YJv1pSTtgoYDuQ6) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [mother, i'm sorry](https://open.spotify.com/album/3rRi34iScxTHmigFLsLRnl) | 2:59 |
-| 40 | [Lose Myself](https://open.spotify.com/track/1uqgUlVmfomaH1IEeDOC5y) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [i tried.](https://open.spotify.com/album/3ZrMVmVgaAzizc3MzotdvN) | 3:05 |
+| 40 | [Lose Myself](https://open.spotify.com/track/1uqgUlVmfomaH1IEeDOC5y) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I TRIED.](https://open.spotify.com/album/3ZrMVmVgaAzizc3MzotdvN) | 3:05 |
 | 41 | [LEMON TREES](https://open.spotify.com/track/3P4nm6VN7ZHA8Xbd4KGkIk) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [LEMON TREES](https://open.spotify.com/album/5doYyd0IKAUbUtrYL6DGOV) | 2:31 |
 | 42 | [First Time](https://open.spotify.com/track/1KUAR4EL6XLMwQKjnKhVRn) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Cruzafied](https://open.spotify.com/album/1QZpj0VyOifnOFn49qEeKv) | 3:37 |
 | 43 | [Tuesday](https://open.spotify.com/track/073gctjGEOq9cXuFjldqxT) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Tuesday](https://open.spotify.com/album/3OJhV8FhTJQLH979qE2QXA) | 2:29 |

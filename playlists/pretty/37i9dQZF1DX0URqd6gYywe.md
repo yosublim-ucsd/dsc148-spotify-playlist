@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 
 > Dejate llevar por los mejores lentos del rock\. Foto: El Plan De La Mariposa
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,312 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,391 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Fuego de Febrero](https://open.spotify.com/track/5QnnbCGngds8lyDAJi3jSc) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [CORRENTADA](https://open.spotify.com/album/3yWOpyyG9Plm2O1Y7uD4Gh) | 3:35 |
+| 1 | [Fuego de Febrero](https://open.spotify.com/track/5QnnbCGngds8lyDAJi3jSc) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [CORRENTADA](https://open.spotify.com/album/3yWOpyyG9Plm2O1Y7uD4Gh) | 3:34 |
 | 2 | [Fue Amor](https://open.spotify.com/track/7c7e0Gr9AOzmJ8rDvOknI1) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Inconsciente Colectivo](https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE) | 3:12 |
 | 3 | [Flaca](https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Alta Suciedad](https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6) | 4:37 |
 | 4 | [Desarma y sangra](https://open.spotify.com/track/5d4Up4On9hK55gVJ8qIrKi) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [HILDA CANTA CHARLY](https://open.spotify.com/album/2cHEbZW4aAGuRVvdnQNX5O) | 3:44 |

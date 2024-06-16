@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Cassö, Jazzy, Headie One
 
-[Spotify](https://open.spotify.com/user/spotify) - 542,758 likes - 78 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 542,763 likes - 78 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

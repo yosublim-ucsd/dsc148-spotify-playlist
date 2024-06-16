@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,499 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,544 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 | 49 | [El Amor De Mi Vida](https://open.spotify.com/track/3pCkC3Ahgl7MShJbafchZz) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Se Agradece](https://open.spotify.com/album/2Lmb5xFacnm56wDhFRdUDO) | 3:04 |
 | 50 | [Ya No Vuelvas \(Versión Cuarteto\)](https://open.spotify.com/track/0u6JsFiEEXb6kaF0oqyeFi) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [QUE NOS FALTE TODO](https://open.spotify.com/album/3X0T1blaMiY2aev0wrbK1G) | 3:24 |
 
-Snapshot ID: `Lf+rGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LgD+8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

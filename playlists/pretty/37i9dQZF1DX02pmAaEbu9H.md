@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX02pmAaEbu9H.md) - [plain]
 
 > Recorre los kilómetros con estos cantables clásicos para el camino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,454,966 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,455,069 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

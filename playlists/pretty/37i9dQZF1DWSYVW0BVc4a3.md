@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > one life
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,437 likes - 244 songs - 16 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,101 likes - 244 songs - 16 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 82 | [La Hora de Mosquitos](https://open.spotify.com/track/1peMgPtl1gJFownhX11SDI) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [La Hora de Mosquitos](https://open.spotify.com/album/7w0qau6GanV5QVJnZwtiob) | 5:48 |
 | 83 | [Back Home](https://open.spotify.com/track/47EKiH3Bda9wUpROLd3MD7) | [ASHER SWISSA](https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM), [Makasi](https://open.spotify.com/artist/6eV9xjvttxeYB2iST5hfT6) | [Back Home](https://open.spotify.com/album/34TVyZ6ihx9yJHwXhlKAGc) | 2:55 |
 | 84 | [While The Record Spins](https://open.spotify.com/track/1ckOvdwaxiooVcfL0DzK9a) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [While The Record Spins](https://open.spotify.com/album/135CTWr4t18H7fhDpgQyHr) | 3:07 |
-| 85 | [A Little Fun](https://open.spotify.com/track/5ED4Qj4sGvtkObXYXJ88L3) | [Cole Knight](https://open.spotify.com/artist/6dZJom6MdxO0nNa0Ot7lqb) | [A Little Fun EP](https://open.spotify.com/album/08DaiRJietHugD3s69qrhO) | 3:14 |
+| 85 | [A Little Fun](https://open.spotify.com/track/5ED4Qj4sGvtkObXYXJ88L3) | [Cole Knight](https://open.spotify.com/artist/6dZJom6MdxO0nNa0Ot7lqb) | [A Little Fun / Brain Drain](https://open.spotify.com/album/08DaiRJietHugD3s69qrhO) | 3:14 |
 | 86 | [Young Money](https://open.spotify.com/track/0xlZeaB8bFiFKpTKIcTOIq) | [Ragie Ban](https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL) | [Young Money](https://open.spotify.com/album/1hiQPT0R07NhqFghAC15xr) | 3:00 |
 | 87 | [Forever 2 \(Crush Mix\) \- DJ ADHD & Chloé Robinson Remix](https://open.spotify.com/track/0eIipAMZZspSHnVJIAOZ0O) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo), [Chloé Robinson](https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66) | [Forever 2 \(Crush Mix\) \[DJ ADHD & Chloé Robinson Remix\]](https://open.spotify.com/album/7JFs8Lf4hGYsdWbxxCtnua) | 3:22 |
 | 88 | [Forget](https://open.spotify.com/track/2q18AKTf10vS8iTSg5sQ2r) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [ALSO ASTIR](https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv) | [Forget](https://open.spotify.com/album/78pEteivhGT2HxTFWmjM2S) | 4:18 |

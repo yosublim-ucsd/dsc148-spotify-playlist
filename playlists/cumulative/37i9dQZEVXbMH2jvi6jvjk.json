@@ -819,6 +819,28 @@
     },
     {
       "album": {
+        "name": "Abekho",
+        "url": "https://open.spotify.com/album/3BMX6pWfzzS6PCKvaDYFVu"
+      },
+      "artists": [
+        {
+          "name": "Sonwabile",
+          "url": "https://open.spotify.com/artist/10nJhya28FQvYO31jFYZry"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Abekho",
+      "url": "https://open.spotify.com/track/7wb5FuOqOswDqHl4U4T8bQ"
+    },
+    {
+      "album": {
         "name": "Ace Of Spades (Reshuffle)",
         "url": "https://open.spotify.com/album/2kE4dNChxoaS64Xdt6XLvu"
       },
@@ -4173,6 +4195,44 @@
     },
     {
       "album": {
+        "name": "Bayazi (feat. Mellow & Sleazy, Nobantu Vilakazi, Cowboii)",
+        "url": "https://open.spotify.com/album/1e5djIrZtTfyunMxUvGAR1"
+      },
+      "artists": [
+        {
+          "name": "SjavasDaDeejay",
+          "url": "https://open.spotify.com/artist/7LkCT07miUMz6JlKRqi3v0"
+        },
+        {
+          "name": "TitoM",
+          "url": "https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k"
+        },
+        {
+          "name": "Vyno Keys",
+          "url": "https://open.spotify.com/artist/3vWbrBxoOzcfiwskz0IsgS"
+        },
+        {
+          "name": "CowBoii",
+          "url": "https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "Nobantu Vilakazi",
+          "url": "https://open.spotify.com/artist/3qo2q05gFa09MXrEZltr7q"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380251,
+      "name": "Bayazi (feat. Mellow & Sleazy, Nobantu Vilakazi, Cowboii)",
+      "url": "https://open.spotify.com/track/3mxQry8oUO3gvdz9sGkbud"
+    },
+    {
+      "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
       },
@@ -5218,6 +5278,28 @@
       "duration_ms": 278085,
       "name": "Body (Remix) [feat. ArrDee, E1 (3x3), ZT (3x3), Bugzy Malone, Buni, Fivio Foreign & Darkoo]",
       "url": "https://open.spotify.com/track/6uvMKqNlrSvcC4NaKnrwjZ"
+    },
+    {
+      "album": {
+        "name": "Kwakhanya",
+        "url": "https://open.spotify.com/album/4wSUQRLxZdGyicxSuYlFaX"
+      },
+      "artists": [
+        {
+          "name": "Sam Deep",
+          "url": "https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq"
+        },
+        {
+          "name": "Azana",
+          "url": "https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378882,
+      "name": "BoGogo",
+      "url": "https://open.spotify.com/track/4kydNoaTX4vfyCPeXE2bpt"
     },
     {
       "album": {
@@ -6808,7 +6890,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 303440,
       "name": "CHIHIRO",
       "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
@@ -9314,7 +9396,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 198293,
       "name": "Don't",
       "url": "https://open.spotify.com/track/3pXF1nA74528Edde4of9CC"
@@ -10036,7 +10118,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-11",
+      "date_removed": null,
       "duration_ms": 407804,
       "name": "Ebasini (feat. Tman Xpress, Visca, Ceeka RSA, Sjavasdadeejayj & Al Xapo)",
       "url": "https://open.spotify.com/track/3E1PwVodPiDbBHOI85CO9M"
@@ -10934,7 +11016,7 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 194613,
       "name": "Exchange",
       "url": "https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN"
@@ -17812,7 +17894,7 @@
       ],
       "date_added": "2023-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-12",
+      "date_removed": null,
       "duration_ms": 414966,
       "name": "Izenzo",
       "url": "https://open.spotify.com/track/3pImmSzeKex5ffzsDoaL3z"
@@ -19819,6 +19901,44 @@
     },
     {
       "album": {
+        "name": "Kwelanga",
+        "url": "https://open.spotify.com/album/2z9yriqyUhlEWg1HQXPwRK"
+      },
+      "artists": [
+        {
+          "name": "Bassie",
+          "url": "https://open.spotify.com/artist/1ELUrmWBlXkqVabjVincQ6"
+        },
+        {
+          "name": "M-Touch",
+          "url": "https://open.spotify.com/artist/1WyQuSMk2VrDyfYfdfa4w6"
+        },
+        {
+          "name": "Ranger",
+          "url": "https://open.spotify.com/artist/6V0AnQuqPD8zkTZKbO1pbk"
+        },
+        {
+          "name": "Amaza",
+          "url": "https://open.spotify.com/artist/0lxNEAFHu0uIMSTWMiKV3q"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "Tman Xpress",
+          "url": "https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441894,
+      "name": "Kwelanga 2.0 (feat. Tman Xpress & LeeMcKrazy)",
+      "url": "https://open.spotify.com/track/1gM44tVZ9pfUe9v35Stp31"
+    },
+    {
+      "album": {
         "name": "Kwelinye (feat. Keynote)",
         "url": "https://open.spotify.com/album/24TZ4ZmMcYuc5MllwlSPmr"
       },
@@ -21080,7 +21200,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 267706,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
@@ -21830,7 +21950,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 179586,
       "name": "LUNCH",
       "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
@@ -26716,7 +26836,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 144000,
       "name": "one of wun",
       "url": "https://open.spotify.com/track/4Na2HfNSr58chvfX69fy36"
@@ -32880,7 +33000,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 161831,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/51eSHglvG1RJXtL3qI5trr"
@@ -42054,7 +42174,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 428543,
       "name": "Xola",
       "url": "https://open.spotify.com/track/1KpHX3zexEHvYTw0dSyfgF"

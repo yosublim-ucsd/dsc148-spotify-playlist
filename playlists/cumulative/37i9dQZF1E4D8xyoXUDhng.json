@@ -110,7 +110,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 255546,
       "name": "23rd Psalm - Feat. Michelle Jordan",
       "url": "https://open.spotify.com/track/2k2lsjEr1pP43ItYoD2Ut4"
@@ -1502,7 +1502,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 370480,
       "name": "Back II Eden",
       "url": "https://open.spotify.com/track/6xZjmlwgIk0tMwo8buLuzH"
@@ -2292,7 +2292,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 546053,
       "name": "Blessing in the House",
       "url": "https://open.spotify.com/track/3KCjICuMd265LIb29ORXBo"
@@ -4448,7 +4448,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 220643,
       "name": "Excellent is Your Name",
       "url": "https://open.spotify.com/track/2CgUi1ueMGCkqzQeM2Jilc"
@@ -6434,7 +6434,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 202106,
       "name": "God's Got It All In Control",
       "url": "https://open.spotify.com/track/3b3hXOn2s0QDZcm90mZwxx"
@@ -6854,7 +6854,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 241093,
       "name": "Grace Of God",
       "url": "https://open.spotify.com/track/1HUqceGhRTXNuvuyMT7teG"
@@ -7046,7 +7046,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 283843,
       "name": "Hallelujah Salvation And Glory",
       "url": "https://open.spotify.com/track/24Fke8uiCaProihCQMSKpu"
@@ -9352,7 +9352,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 248417,
       "name": "I Can't Breathe",
       "url": "https://open.spotify.com/track/4eEOh2xjZTFkLYDVknWz6Q"
@@ -9660,7 +9660,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 297653,
       "name": "I Got Out",
       "url": "https://open.spotify.com/track/29mZrqJI0XyyUvVMo2edpk"
@@ -10650,7 +10650,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 261016,
       "name": "I Will Praise",
       "url": "https://open.spotify.com/track/5F9nTjJGsKjtsHQa6myd0s"
@@ -11020,7 +11020,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 356573,
       "name": "I'll Praise",
       "url": "https://open.spotify.com/track/7wkJJPm4cJnevULnXYJhJm"
@@ -11078,7 +11078,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 376733,
       "name": "I'm Blessed",
       "url": "https://open.spotify.com/track/3OSisLxn3uLYN6ivdFLUSp"
@@ -12674,10 +12674,28 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 437026,
       "name": "Jesus Can Work it Out",
       "url": "https://open.spotify.com/track/6Qq3csxxJfrIUvrM92nLvd"
+    },
+    {
+      "album": {
+        "name": "Nobody but You",
+        "url": "https://open.spotify.com/album/0bGII8Qu64tXhPGu6uCPuq"
+      },
+      "artists": [
+        {
+          "name": "Norman Hutchins",
+          "url": "https://open.spotify.com/artist/2gya4YZQdto5OdF91ZdEzh"
+        }
+      ],
+      "date_added": "2024-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442586,
+      "name": "Jesus I Love You",
+      "url": "https://open.spotify.com/track/1aut5JgSR58lsrfX9n9sjR"
     },
     {
       "album": {
@@ -12835,6 +12853,24 @@
     },
     {
       "album": {
+        "name": "Sings With The World's Greates Choirs 20th Anniversary Album",
+        "url": "https://open.spotify.com/album/0IPRmQf1TCdifsHGUvD7jf"
+      },
+      "artists": [
+        {
+          "name": "James Cleveland",
+          "url": "https://open.spotify.com/artist/5g1lWbZIQ0LCWbKmRJDSSn"
+        }
+      ],
+      "date_added": "2024-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393906,
+      "name": "Jesus Is The Best Thing That Ever Happened To Me",
+      "url": "https://open.spotify.com/track/3P1QDUO53xtz069gsYcMYy"
+    },
+    {
+      "album": {
         "name": "Malaco 50th Celebration",
         "url": "https://open.spotify.com/album/0bwPEqxYd4lrCqiuOhN20h"
       },
@@ -12976,7 +13012,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 264600,
       "name": "Jesus Promised Me A Home Over There",
       "url": "https://open.spotify.com/track/3skyxWR7CvllvzFpcohn7P"
@@ -14754,7 +14790,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 446266,
       "name": "Lord You're Mighty",
       "url": "https://open.spotify.com/track/6bMp6YqjDfaoWd0JKGiblx"
@@ -15514,7 +15550,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-21",
+      "date_removed": null,
       "duration_ms": 308000,
       "name": "Mary Don't You Weep",
       "url": "https://open.spotify.com/track/3Zjf3jJAAYpFqntz9u6iOO"
@@ -15594,7 +15630,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 278426,
       "name": "Maybe God Is Tryin' To Tell You Somethin' - From \"The Color Purple\" Soundtrack",
       "url": "https://open.spotify.com/track/4JXiNTDq6OGkyp5aZ7X7cn"
@@ -16294,7 +16330,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 405203,
       "name": "My Everything",
       "url": "https://open.spotify.com/track/3sqqOLBZogXER6fjpkamO0"
@@ -16406,7 +16442,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 461800,
       "name": "My Help",
       "url": "https://open.spotify.com/track/0W8RhOqOvJdZNPYSgaxhSn"
@@ -16508,7 +16544,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 282985,
       "name": "My Soul Loves Jesus",
       "url": "https://open.spotify.com/track/2FPhJsu5y3yWSjJ2gl4Ole"
@@ -19790,7 +19826,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-27",
+      "date_removed": null,
       "duration_ms": 286760,
       "name": "Running Back To You",
       "url": "https://open.spotify.com/track/5xZMkew3Fshtxul72kEsrr"
@@ -19844,7 +19880,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 208472,
       "name": "Safe In His Arms",
       "url": "https://open.spotify.com/track/3aqTs1agcNKsBo6verQzus"
@@ -21348,7 +21384,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 396453,
       "name": "Spiritual",
       "url": "https://open.spotify.com/track/264DuAk6ypux2fHZFoUSKD"
@@ -22074,7 +22110,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-15",
+      "date_removed": null,
       "duration_ms": 293120,
       "name": "Take It to the Lord in Prayer",
       "url": "https://open.spotify.com/track/3kg8P8fbGvuS4U1wo5RGA3"
@@ -22164,7 +22200,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 138106,
       "name": "Take My Hand, Precious Lord",
       "url": "https://open.spotify.com/track/6T4ZSDChdkVg9ZUZpRPTHd"
@@ -22258,7 +22294,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 287000,
       "name": "Tears",
       "url": "https://open.spotify.com/track/4J66kcwvE9ibty7Pserl5k"
@@ -23347,6 +23383,24 @@
     },
     {
       "album": {
+        "name": "Setlist: The Very Best Of Byron Cage LIVE",
+        "url": "https://open.spotify.com/album/3ddsXrWYN4VGDyauxvzDBf"
+      },
+      "artists": [
+        {
+          "name": "Byron Cage",
+          "url": "https://open.spotify.com/artist/1bxsoj9E6Z2GoHVIswbRez"
+        }
+      ],
+      "date_added": "2024-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395613,
+      "name": "The Presence of the Lord Is Here",
+      "url": "https://open.spotify.com/track/0j7NzeiNUJfpqTdE2P3lcX"
+    },
+    {
+      "album": {
         "name": "The Journey",
         "url": "https://open.spotify.com/album/1I19eatzCQ4WboYkiEnVPx"
       },
@@ -23682,7 +23736,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 367893,
       "name": "There Is No Way",
       "url": "https://open.spotify.com/track/3vOjNcU69o8kkLCu09JNtO"
@@ -24038,7 +24092,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-16",
       "duration_ms": 316866,
       "name": "Through The Fire",
       "url": "https://open.spotify.com/track/3hL9eq9hA9iAIIIr5kmbAa"
@@ -24390,7 +24444,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 272866,
       "name": "Try Me",
       "url": "https://open.spotify.com/track/1Run0PicyCCEPqEYlgTnDZ"
@@ -24846,7 +24900,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 308866,
       "name": "Victory Is Mine",
       "url": "https://open.spotify.com/track/2PdoPOjC8qhDgpz2NlOcYg"
@@ -25886,7 +25940,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-28",
+      "date_removed": null,
       "duration_ms": 219065,
       "name": "Whole World In His Hands - Radio Edit",
       "url": "https://open.spotify.com/track/2rH6klpQqamjrWudLnKCmQ"

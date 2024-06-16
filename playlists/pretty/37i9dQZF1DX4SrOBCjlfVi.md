@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring NxWorries, Don Toliver, Moneybagg Yo and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,507 likes - 48 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,575 likes - 48 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 31 | [Shag and Scooby](https://open.spotify.com/track/3grhOHkDYmy0gHtvzgUQmi) | [Jdot Breezy](https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ) | [Shag and Scooby](https://open.spotify.com/album/6j5ekxHsY7WQ89nq5mUNiL) | 2:13 |
 | 32 | [TO THE GRAVE](https://open.spotify.com/track/12Qfni7HZUowpG6NNtM10g) | [HotBlock Jmoe](https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [TO THE GRAVE](https://open.spotify.com/album/3oftYhgmFsRf56Ivz1CbVV) | 3:36 |
 | 33 | [The Type \(feat\. NoCap\)](https://open.spotify.com/track/7ebMxBq9SJHAz2iSoYWIgb) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Fresh Out The Trenches](https://open.spotify.com/album/6BqhVDaCOylpg7UJduEmJ5) | 3:09 |
-| 34 | [MOOD SWINGS \[Feat\. Mike Dimes\]](https://open.spotify.com/track/2uwUyeHUxcvwaGO48ju6ed) | [PlayThatBoiZay](https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM), [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [MOOD SWINGS \(with Mike Dimes\)](https://open.spotify.com/album/0eUG7KiRKFqobPl69dTePO) | 3:00 |
+| 34 | [MOOD SWINGS \(with Mike Dimes\)](https://open.spotify.com/track/2uwUyeHUxcvwaGO48ju6ed) | [PlayThatBoiZay](https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM), [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [MOOD SWINGS \(with Mike Dimes\)](https://open.spotify.com/album/0eUG7KiRKFqobPl69dTePO) | 3:00 |
 | 35 | [Lisan al Gaib](https://open.spotify.com/track/1mBAQbOtgYgcfDDS114jfh) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [Lisan al Gaib](https://open.spotify.com/album/2pPPFgH3dGwi65w6u9EHhY) | 2:24 |
 | 36 | [NUK3 \(w/ Luci4 & LAZER DIM 700\)](https://open.spotify.com/track/4KLR5fhJxXom7MPyo7sdPm) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Luci4](https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6), [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U) | [NUK3 \(w/ Luci4 & LAZER DIM 700\)](https://open.spotify.com/album/1mGWFWUMH5I4JSohESzH2M) | 2:46 |
 | 37 | [real feel](https://open.spotify.com/track/7fShwQkgkUYrL6GttNjHTb) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#gigi](https://open.spotify.com/album/5yYtz3hPgOc2XAh5eDjDBa) | 2:22 |

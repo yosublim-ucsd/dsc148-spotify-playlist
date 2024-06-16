@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 
 > Pop music driving the current, every week\.  Cover: Shenseea
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,924 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,004 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 | 5 | [Era](https://open.spotify.com/track/0lnwlqbqROrhg4IiQ34iH6) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Era](https://open.spotify.com/album/7u7kdBtG8MMxvqBAsGpfQo) | 2:13 |
 | 6 | [JUST LIKE THAT](https://open.spotify.com/track/4alytlIn91jJgzsu6rSONb) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [JUST LIKE THAT](https://open.spotify.com/album/17Wk4tqPJ8rMH1hFCW4eLf) | 2:18 |
 | 7 | [Letter 2 Myself](https://open.spotify.com/track/0zvrOBR7cTCzYf7AFaw1z4) | [Chesle](https://open.spotify.com/artist/1OEchET7khtY1YZZ7UFJO2) | [Letter 2 Myself](https://open.spotify.com/album/0vYXfkK1E5GrQagUWiGgxc) | 2:45 |
-| 8 | [Lose Myself](https://open.spotify.com/track/1uqgUlVmfomaH1IEeDOC5y) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [i tried.](https://open.spotify.com/album/3ZrMVmVgaAzizc3MzotdvN) | 3:05 |
+| 8 | [Lose Myself](https://open.spotify.com/track/1uqgUlVmfomaH1IEeDOC5y) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I TRIED.](https://open.spotify.com/album/3ZrMVmVgaAzizc3MzotdvN) | 3:05 |
 | 9 | [Count On Me](https://open.spotify.com/track/1NFEXNMg8AZ0jGSux4CJdd) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Cape Town to Cairo](https://open.spotify.com/album/3xrdk0MImcnbt9NEc7pSnK) | 2:49 |
 | 10 | [Double Life \- From "Despicable Me 4"](https://open.spotify.com/track/07oO1U722crtVcavi6frX6) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Double Life \(From "Despicable Me 4"\)](https://open.spotify.com/album/6k4sB6SP3ekH3iIhaDuUV4) | 3:10 |
 | 11 | [mother, i'm sorry](https://open.spotify.com/track/3MK5179YJv1pSTtgoYDuQ6) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [mother, i'm sorry](https://open.spotify.com/album/3rRi34iScxTHmigFLsLRnl) | 2:59 |
