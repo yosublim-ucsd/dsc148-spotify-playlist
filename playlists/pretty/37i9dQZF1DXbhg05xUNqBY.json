@@ -1,6 +1,6 @@
 {
   "description": "Breathe deep, and relax with the softer side of Christian music.",
-  "num_followers": 350076,
+  "num_followers": 350068,
   "original_name": "Calming Christian",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/5DhIZm5AX92oYAFlZzj05T"
+      },
+      "artists": [
+        {
+          "name": "John Mark Pantana",
+          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+        }
+      ],
+      "duration_ms": 170119,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/1U9teJ7N3lMrDzued877qU"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
         "name": "Goodness of God (Acoustic)",
         "url": "https://open.spotify.com/album/4Z3vUTENWAm8P8TNnD9vyZ"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 228385,
       "name": "Call on Your Name - Piano Version",
       "url": "https://open.spotify.com/track/5gETd5liL7Q0SJht440CNt"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/5DhIZm5AX92oYAFlZzj05T"
-      },
-      "artists": [
-        {
-          "name": "John Mark Pantana",
-          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
-        }
-      ],
-      "duration_ms": 170119,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/1U9teJ7N3lMrDzued877qU"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -291,30 +291,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Forever Amen",
-        "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
-      },
-      "artists": [
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        },
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
-        },
-        {
-          "name": "Wonder Grace Gretzinger",
-          "url": "https://open.spotify.com/artist/2Sh7QdDYLyKTR0SPofWKsD"
-        }
-      ],
-      "duration_ms": 266826,
-      "name": "Christ The Lord Is with Me (with Amanda Cook & Wonder Grace Gretzinger)",
-      "url": "https://open.spotify.com/track/0VJc0VM2TJWp6wi4szBFaw"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Quiet Talk",
         "url": "https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW"
       },
@@ -327,6 +303,26 @@
       "duration_ms": 168000,
       "name": "Quiet Talk",
       "url": "https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Songs from Home",
+        "url": "https://open.spotify.com/album/6jdZFEEGZA6KcSUiETNOUP"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+        },
+        {
+          "name": "Kindred Worship",
+          "url": "https://open.spotify.com/artist/1oOjYMuuEgcp5h2bawP47T"
+        }
+      ],
+      "duration_ms": 307062,
+      "name": "Jesus My Beloved",
+      "url": "https://open.spotify.com/track/4EsYYFhkGUz9kxjQzMx1D3"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -351,22 +347,26 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Songs from Home",
-        "url": "https://open.spotify.com/album/6jdZFEEGZA6KcSUiETNOUP"
+        "name": "Forever Amen",
+        "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
       },
       "artists": [
         {
-          "name": "Jonathan Ogden",
-          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
         },
         {
-          "name": "Kindred Worship",
-          "url": "https://open.spotify.com/artist/1oOjYMuuEgcp5h2bawP47T"
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        },
+        {
+          "name": "Wonder Grace Gretzinger",
+          "url": "https://open.spotify.com/artist/2Sh7QdDYLyKTR0SPofWKsD"
         }
       ],
-      "duration_ms": 307062,
-      "name": "Jesus My Beloved",
-      "url": "https://open.spotify.com/track/4EsYYFhkGUz9kxjQzMx1D3"
+      "duration_ms": 266826,
+      "name": "Christ The Lord Is with Me (with Amanda Cook & Wonder Grace Gretzinger)",
+      "url": "https://open.spotify.com/track/0VJc0VM2TJWp6wi4szBFaw"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -439,18 +439,18 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Shiloh",
-        "url": "https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG"
+        "name": "Twenty Four",
+        "url": "https://open.spotify.com/album/0tyhsvvuD7LAkKv2Z9FfU2"
       },
       "artists": [
         {
-          "name": "Audrey Assad",
-          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
         }
       ],
-      "duration_ms": 268360,
-      "name": "Shiloh",
-      "url": "https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN"
+      "duration_ms": 138019,
+      "name": "06:00 Sunrise",
+      "url": "https://open.spotify.com/track/3mCfc1Sf16fonjtBdxZOXC"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -471,6 +471,22 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
+        "name": "Shiloh",
+        "url": "https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG"
+      },
+      "artists": [
+        {
+          "name": "Audrey Assad",
+          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+        }
+      ],
+      "duration_ms": 268360,
+      "name": "Shiloh",
+      "url": "https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
         "name": "All Of My Best Friends (Acoustic)",
         "url": "https://open.spotify.com/album/00lmUTOABE4CrkH6vNkijc"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 293160,
       "name": "Lord Send Revival - Acoustic",
       "url": "https://open.spotify.com/track/3ceYEyDWAU10XMolE7bWYD"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
-        "name": "Twenty Four",
-        "url": "https://open.spotify.com/album/0tyhsvvuD7LAkKv2Z9FfU2"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Ogden",
-          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
-        }
-      ],
-      "duration_ms": 138019,
-      "name": "06:00 Sunrise",
-      "url": "https://open.spotify.com/track/3mCfc1Sf16fonjtBdxZOXC"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Just Like Heaven",
-        "url": "https://open.spotify.com/album/1ZQderlUe4quEPiuuZqADk"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 336572,
-      "name": "Just Like Heaven",
-      "url": "https://open.spotify.com/track/79C3lXRjQvLCSPHeTfy52k"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "No Hopeless Soul",
         "url": "https://open.spotify.com/album/5mg0wELBle06BD2gHOafYk"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 193558,
       "name": "No Hopeless Soul - Unplugged",
       "url": "https://open.spotify.com/track/6wMKTbF8Vi03uBJDGHZcHC"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Just Like Heaven",
+        "url": "https://open.spotify.com/album/1ZQderlUe4quEPiuuZqADk"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 336572,
+      "name": "Just Like Heaven",
+      "url": "https://open.spotify.com/track/79C3lXRjQvLCSPHeTfy52k"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Shalom",
-        "url": "https://open.spotify.com/album/1rTB3LVsO0KH1BAdLPiv7M"
-      },
-      "artists": [
-        {
-          "name": "Laura Hackett Park",
-          "url": "https://open.spotify.com/artist/6ScYoRIa2PsNj7YZd030BV"
-        }
-      ],
-      "duration_ms": 239500,
-      "name": "Shalom",
-      "url": "https://open.spotify.com/track/2ZXWSdd7SufihL5Jf5BYFy"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Perfect Peace",
         "url": "https://open.spotify.com/album/1u9VgFbs81jjmsVRMxADlv"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 260799,
       "name": "Perfect Peace",
       "url": "https://open.spotify.com/track/4UQEeqgbZ2JZGRREiTbKcZ"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Shalom",
+        "url": "https://open.spotify.com/album/1rTB3LVsO0KH1BAdLPiv7M"
+      },
+      "artists": [
+        {
+          "name": "Laura Hackett Park",
+          "url": "https://open.spotify.com/artist/6ScYoRIa2PsNj7YZd030BV"
+        }
+      ],
+      "duration_ms": 239500,
+      "name": "Shalom",
+      "url": "https://open.spotify.com/track/2ZXWSdd7SufihL5Jf5BYFy"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -803,6 +803,22 @@
       "duration_ms": 219272,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/2AmHhr6CvjpvYqdXy02VgU"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Dreaming of Eden",
+        "url": "https://open.spotify.com/album/2wUYq8HZAjtno3Q14QoumT"
+      },
+      "artists": [
+        {
+          "name": "Tenielle Neda",
+          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
+        }
+      ],
+      "duration_ms": 254813,
+      "name": "Dreaming of Eden",
+      "url": "https://open.spotify.com/track/7Moo8abBatLMNr3rq2MmJh"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -907,22 +923,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Dreaming of Eden",
-        "url": "https://open.spotify.com/album/2wUYq8HZAjtno3Q14QoumT"
-      },
-      "artists": [
-        {
-          "name": "Tenielle Neda",
-          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
-        }
-      ],
-      "duration_ms": 254813,
-      "name": "Dreaming of Eden",
-      "url": "https://open.spotify.com/track/7Moo8abBatLMNr3rq2MmJh"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "A King & His Kindness",
         "url": "https://open.spotify.com/album/0IRJOZdtvLrek403fb6Skm"
       },
@@ -935,6 +935,22 @@
       "duration_ms": 248633,
       "name": "Who is This Jesus?",
       "url": "https://open.spotify.com/track/4dErkQsniqyeTwsei3bCqs"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Same God (Acoustic)",
+        "url": "https://open.spotify.com/album/2r1aM6zqJOqmFBiCiQQ2Lt"
+      },
+      "artists": [
+        {
+          "name": "Hannah Kerr",
+          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "Same God - Acoustic",
+      "url": "https://open.spotify.com/track/4Q4fzpczkjfZRdpt6P2gDW"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -959,38 +975,22 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "This Is My Father's World",
-        "url": "https://open.spotify.com/album/3ro1HG56YOlRvFrua1vRPy"
+        "name": "Battle Is the Lord's",
+        "url": "https://open.spotify.com/album/2tuiNFjJyMb9lbhcjz4j6g"
       },
       "artists": [
         {
-          "name": "Ri-An",
-          "url": "https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo"
+          "name": "Rebecca St. James",
+          "url": "https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9"
         },
         {
-          "name": "Rachael Lampa",
-          "url": "https://open.spotify.com/artist/5gDmH6DbtzajiPTSuR7L6y"
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         }
       ],
-      "duration_ms": 207804,
-      "name": "This Is My Father's World",
-      "url": "https://open.spotify.com/track/7hJQplsQxxoHC2qzD0Q3S7"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
-        "name": "Same God (Acoustic)",
-        "url": "https://open.spotify.com/album/2r1aM6zqJOqmFBiCiQQ2Lt"
-      },
-      "artists": [
-        {
-          "name": "Hannah Kerr",
-          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "Same God - Acoustic",
-      "url": "https://open.spotify.com/track/4Q4fzpczkjfZRdpt6P2gDW"
+      "duration_ms": 235360,
+      "name": "Battle Is the Lord's",
+      "url": "https://open.spotify.com/track/2kj7BxMb1pUQOFK2tDE8gi"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Battle Is the Lord's",
-        "url": "https://open.spotify.com/album/2tuiNFjJyMb9lbhcjz4j6g"
-      },
-      "artists": [
-        {
-          "name": "Rebecca St. James",
-          "url": "https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 235360,
-      "name": "Battle Is the Lord's",
-      "url": "https://open.spotify.com/track/2kj7BxMb1pUQOFK2tDE8gi"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Way Maker (Acoustic)",
         "url": "https://open.spotify.com/album/5KAHkPE1V2eFznIELyRYNX"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 253378,
       "name": "Way Maker - Acoustic",
       "url": "https://open.spotify.com/track/4mX7EwCwqR6iW2Wl5WzDxG"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "This Is My Father's World",
+        "url": "https://open.spotify.com/album/3ro1HG56YOlRvFrua1vRPy"
+      },
+      "artists": [
+        {
+          "name": "Ri-An",
+          "url": "https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo"
+        },
+        {
+          "name": "Rachael Lampa",
+          "url": "https://open.spotify.com/artist/5gDmH6DbtzajiPTSuR7L6y"
+        }
+      ],
+      "duration_ms": 207804,
+      "name": "This Is My Father's World",
+      "url": "https://open.spotify.com/track/7hJQplsQxxoHC2qzD0Q3S7"
     },
     {
       "added_at": "2023-02-07 17:43:02",

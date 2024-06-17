@@ -4,7 +4,7 @@
 
 > Dance Machi Dance<br/>Cover : GOAT
 
-139 songs - 8 hr 21 min
+140 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Asku Maaro](https://open.spotify.com/track/4gmZ9uup1Jl1AyzLGHdgDQ) | [Dharan Kumar](https://open.spotify.com/artist/1IeJ7wOH2CgIca4B1CBikF), [K\. Sivaangi](https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz) | [Asku Maaro](https://open.spotify.com/album/73N2dOPA0VuWPWfD6LDUPX) | 4:00 | 2021-12-01 | 2023-04-18 |
 | [Ayyo Haiyo \(From "Raid"\)](https://open.spotify.com/track/7d9hWEtDzTBlrDYaps2z1z) | [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H), [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Mohan Rajan](https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma) | [Ayyo Haiyo \(From "Raid"\)](https://open.spotify.com/album/3tuNKc5bPcP620FeIEZsDY) | 3:18 | 2023-11-06 | 2024-01-03 |
 | [Azhaiyaa Mazhai \(From "Pathaan"\) \- Tamil Version](https://open.spotify.com/track/1b2tuYykyDmm5MS9aFuA3b) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Caralisa Monteiro](https://open.spotify.com/artist/2Yf4MRVpt0rcAd5y5h5ph1), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Azhaiyaa Mazhai \(From "Pathaan"\) \- Tamil Version](https://open.spotify.com/album/2Vws0b3MjI2zHJJK11UPKL) | 4:18 | 2022-12-12 | 2023-02-07 |
+| [Bhairava Anthem \(From "Kalki 2898 Ad"\) \(Tamil\)](https://open.spotify.com/track/4pLpEysZ0Y6kZ1SCC1pNtY) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Bhairava Anthem \(From "Kalki 2898 Ad"\) \(Tamil\)](https://open.spotify.com/album/1VakDDz6IzQqUWdbXfEZpS) | 2:42 | 2024-06-17 |  |
 | [Bimbilikki Pilapi](https://open.spotify.com/track/1Hdz67JES35Z4h3Yd4PXvV) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv), [Sahithi Chaganti](https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM) | [Prince \(Tamil\)](https://open.spotify.com/album/6lxJ6xdX66dSk6qunfYNkA) | 4:07 | 2022-09-01 |  |
 | [Breakup Song \- From "Naan Sirithal"](https://open.spotify.com/track/7wXCinXw50iT5VdReFalv2) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Breakup Song \(From "Naan Sirithal"\)](https://open.spotify.com/album/6ABJBM7ORI04UjG0btqkDL) | 2:49 | 2021-12-01 | 2023-04-18 |
 | [Bujji \(From "Jagame Thandhiram"\)](https://open.spotify.com/track/6rJhjykEkCqm3H64uALhhf) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Bujji \(From "Jagame Thandhiram"\)](https://open.spotify.com/album/3jTx8LYOYIO0cRZDlS1uPx) | 4:27 | 2021-12-01 | 2023-04-18 |

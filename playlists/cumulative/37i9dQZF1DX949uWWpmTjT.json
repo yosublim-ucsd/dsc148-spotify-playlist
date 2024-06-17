@@ -3138,7 +3138,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 208791,
       "name": "Clean Break Idea",
       "url": "https://open.spotify.com/track/7KMAWlB6RcWmlLW62FDtvy"
@@ -13068,6 +13068,24 @@
       "duration_ms": 205349,
       "name": "Peeping into past",
       "url": "https://open.spotify.com/track/4hRxtDqEEfuj2gHVWNBx9k"
+    },
+    {
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/4tdUUO1bWa0h0gijIBIIq9"
+      },
+      "artists": [
+        {
+          "name": "Tonic and their Time",
+          "url": "https://open.spotify.com/artist/4f9dZJd9mswxGvKKoTJSZT"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192005,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/2bYlyQeTRZgfalIdw3VkkL"
     },
     {
       "album": {

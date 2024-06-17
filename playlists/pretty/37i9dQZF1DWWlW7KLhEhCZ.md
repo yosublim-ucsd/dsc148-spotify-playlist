@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Xamuel
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,097 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,109 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 31 | [Teto Preto](https://open.spotify.com/track/1N1gYuQjZO8eHgluRvbffH) | [Hashi](https://open.spotify.com/artist/137b3EpKbbmxmY2dGgzx2Q), [Mandark](https://open.spotify.com/artist/5zvgzd56jcRvu40O5mdyGB) | [É O Ritmo](https://open.spotify.com/album/2Vc0zpNC3OnnVMcD1Ku2GQ) | 2:32 |
 | 32 | [Geminiano Treinado](https://open.spotify.com/track/6fp2YVZ3Iknafj7QfKM36h) | [Tavin 777](https://open.spotify.com/artist/6n9j6RQkWMVhfG7Ob5k0mC), [Oklin](https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A), [Prod\. 2t'](https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN) | [Geminiano Treinado](https://open.spotify.com/album/3AZXsjU8BbondBCUQWdhkd) | 2:44 |
 | 33 | [Bandida](https://open.spotify.com/track/20Bue8isWFXYXjxVcLKJZH) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Bandida](https://open.spotify.com/album/5rPUr8CQYik6Qxi3Rr8VFN) | 2:04 |
-| 34 | [Caminho Certo \- Studio](https://open.spotify.com/track/1QUCR7aAUAlegcUcX5VJkq) | [Aklipe44](https://open.spotify.com/artist/3Sdc0xD6vTtMz4j6z5tFtz), [WMBR](https://open.spotify.com/artist/2an7bxC6SGMZ0OsS6w4C28) | [Caminho Certo \(Studio\)](https://open.spotify.com/album/2CVFlUNLImwnK8wdpAp2AL) | 2:32 |
+| 34 | [Caminho Certo](https://open.spotify.com/track/1QUCR7aAUAlegcUcX5VJkq) | [Aklipe44](https://open.spotify.com/artist/3Sdc0xD6vTtMz4j6z5tFtz), [WMBR](https://open.spotify.com/artist/2an7bxC6SGMZ0OsS6w4C28) | [Caminho Certo](https://open.spotify.com/album/2CVFlUNLImwnK8wdpAp2AL) | 2:32 |
 | 35 | [Pepp@](https://open.spotify.com/track/6tV3ou10FfpVcUbUwPfTjs) | [LH CHUCRO](https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH) | [Pepp@](https://open.spotify.com/album/1BGVpDtN7BiwUKQYvhnJtm) | 1:50 |
 | 36 | [Fantástico](https://open.spotify.com/track/1OhJE8RgWeKXvMEj9TBYB3) | [Young Ganni](https://open.spotify.com/artist/1Hm3uKt8JXy3dnxIFfJUog), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Lastra](https://open.spotify.com/artist/129dSsTOV93qJq9ANvrDu9) | [O Fantástico Mundo de Ganni](https://open.spotify.com/album/6Tfl3UdZrUm14cGFPRIteI) | 3:00 |
 | 37 | [Carro Filmado](https://open.spotify.com/track/40JOKn2wTQpXtYDsDl8hty) | [AK SAITO](https://open.spotify.com/artist/7g2naiPJNLtDQg6hesnj6K), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d) | [Carro Filmado](https://open.spotify.com/album/6aK7y6lZboIDRF3dnU4KbF) | 1:48 |

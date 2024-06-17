@@ -2732,7 +2732,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 243105,
       "name": "Desperate Company",
       "url": "https://open.spotify.com/track/0sNRNcFz7qGtBCyotVjy8Z"
@@ -5034,7 +5034,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 212215,
       "name": "I Just Killed A Man",
       "url": "https://open.spotify.com/track/7D9H7ROCXakc9PDf9PJZwG"
@@ -5688,7 +5688,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 212946,
       "name": "Last Goodbye",
       "url": "https://open.spotify.com/track/4G3alzPjLhRcm7rxsSHMkp"
@@ -7583,6 +7583,24 @@
     },
     {
       "album": {
+        "name": "Radio Wave",
+        "url": "https://open.spotify.com/album/4VkuvviTPG2MUXRJ6iJGEQ"
+      },
+      "artists": [
+        {
+          "name": "Silverada",
+          "url": "https://open.spotify.com/artist/5fTJlk4f1YRh4ObYssJo44"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350894,
+      "name": "Radio Wave",
+      "url": "https://open.spotify.com/track/7vITJOjR7emNaKVadPQZ0N"
+    },
+    {
+      "album": {
         "name": "Rainin On Me",
         "url": "https://open.spotify.com/album/4nExf5XzwhQFltAYmBUfbt"
       },
@@ -8488,7 +8506,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 150572,
       "name": "Side of Goodbye",
       "url": "https://open.spotify.com/track/4qgbOxYNnvahjjZra6TSt7"
@@ -9690,6 +9708,24 @@
       "duration_ms": 192458,
       "name": "The Light Saw Me",
       "url": "https://open.spotify.com/track/3PPM7i0ZexIaFoZPvFmYur"
+    },
+    {
+      "album": {
+        "name": "The Little Things",
+        "url": "https://open.spotify.com/album/62iaYGnhb2PL2kzngNGxjO"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218480,
+      "name": "The Little Things",
+      "url": "https://open.spotify.com/track/0yfPThPvlNrnQaOoeoQMDl"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Mzansi Raps](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
-> Only the hottest South African rap from the streets\. <br/>Cover:  <a href="https://open.spotify.com/artist/0NP68X3OIbbv98djUruUKU?si=hm3zArY2RUqP9Xd0KDTkNQ">ZuluMecca</a>
+> Celebrating the future of South Africa through music\. Happy Youth Day!
 
 771 songs - 1 day 17 hr 35 min
 

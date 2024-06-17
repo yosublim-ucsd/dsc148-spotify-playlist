@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A Las Ilusas De Mi Marido",
+        "url": "https://open.spotify.com/album/7DyuSQm2UGYw1GvWajnJr2"
+      },
+      "artists": [
+        {
+          "name": "Miriam Cruz",
+          "url": "https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221500,
+      "name": "A Las Ilusas De Mi Marido",
+      "url": "https://open.spotify.com/track/4jLiMmLFOY5xfms4LSfmVg"
+    },
+    {
+      "album": {
         "name": "Wilfrido Vargas y Sus Consentidas",
         "url": "https://open.spotify.com/album/7Cy3uYBDhdrsIimK2AGLiV"
       },
@@ -128,7 +146,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 207906,
       "name": "Amapola",
       "url": "https://open.spotify.com/track/7lxyCH0EgKyrxzsyZybkDV"

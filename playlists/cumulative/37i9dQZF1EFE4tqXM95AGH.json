@@ -3293,6 +3293,28 @@
     },
     {
       "album": {
+        "name": "Stampede: Vol. 1",
+        "url": "https://open.spotify.com/album/5xmQFJ2yArFC5glJ3xclfE"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        },
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "date_added": "2024-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186284,
+      "name": "The Hurtin' Kind",
+      "url": "https://open.spotify.com/track/1jGtrIhO85jGbmkR3gRvo5"
+    },
+    {
+      "album": {
         "name": "The Other Side (From \"Sierra Burgess Is a Loser\")",
         "url": "https://open.spotify.com/album/6PMDxho9YZstxzVxOLkVaY"
       },

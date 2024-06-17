@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wTpeB.md) - [plain]
 
 ### [This Is Ali Aka Mind](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3wTpeB)
 
-> This is Ali Aka Mind\. The essential tracks, all in one playlist.
+> This Is Ali Aka Mind\. Los temas esenciales, todos en una lista.
 
 [Spotify](https://open.spotify.com/user/spotify) - 4,006 likes - 50 songs - 2 hr 50 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wTpeB.md) - [plain]
 | 49 | [Resiste](https://open.spotify.com/track/6NXti8tVz8vE6udH1UJkYD) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu), [Unknown Mizery de Babylon Warchild](https://open.spotify.com/artist/56o7VNkbWKgVZpmvSe2jqu) | [Mestizo](https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw) | 3:13 |
 | 50 | [Melancólicos](https://open.spotify.com/track/08oK0PA2snKyuURSJq8cnP) | [Abram](https://open.spotify.com/artist/77JcIMJmNJpBchsYdXyeae), [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [SIRIAN](https://open.spotify.com/artist/2VdT0FWo6kAW0UdNGSB9eF) | [Melancólicos](https://open.spotify.com/album/4CkNFb3361xzBBnlCh6TY0) | 4:00 |
 
-Snapshot ID: `ZmuIAAAAAAAesDbW6cEV4Yy/9MaxFAPP`
+Snapshot ID: `ZmuIAAAAAAC426B4cLDW+o0JAVDxVI03`

@@ -4,7 +4,7 @@
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-620 songs - 2 day 0 hr 36 min
+621 songs - 2 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,6 +361,7 @@
 | [Nuska](https://open.spotify.com/track/6O7OnCq0HzT08Msx088gxn) | [maya ongaku](https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5) | [Approach to Anima](https://open.spotify.com/album/6306c8CVmaIrZRGHG8UP5O) | 4:44 | 2024-02-08 | 2024-04-19 |
 | [obi](https://open.spotify.com/track/356DU7XWkqYSrmPnMDPD49) | [soma hayato](https://open.spotify.com/artist/7Ggi7oQcGOPoOZe1tMbxnJ) | [TENbient \(vol.01 "the first"\)](https://open.spotify.com/album/2DyfeR0bFqTunVWMluANrl) | 7:36 | 2022-04-16 | 2022-06-01 |
 | [Obscure Corner](https://open.spotify.com/track/7p1GxtJvJMEcAs70TnK15l) | [Hegira Moya](https://open.spotify.com/artist/5GKnUWZLOg93scPTUsXtkj) | [Slow Vein](https://open.spotify.com/album/3SzmsmIURHxAiXTQQdVRPM) | 4:49 | 2022-03-30 | 2022-04-05 |
+| [Of Mystic Dreams](https://open.spotify.com/track/3dtTmuaWc0EcnnZK63CzSq) | [Chari Chari](https://open.spotify.com/artist/4MJT57L7RMCvSvg2GjU0wQ) | [We hear the last decades dreaming](https://open.spotify.com/album/55v2rPWFhanCrbVNytkTmT) | 6:26 | 2024-06-15 |  |
 | [ohayashi](https://open.spotify.com/track/0kuHELP9kPhXOZ5oEurNUQ) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [アダンの風](https://open.spotify.com/album/0clp0SFljD12UGPDOP0kN4) | 3:44 | 2022-03-31 | 2022-07-28 |
 | [ohayashi](https://open.spotify.com/track/1LTzuEZtKewRM804YjrDg6) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Windswept Adan](https://open.spotify.com/album/1W0SccGphtGQNYqaqQ5nhA) | 3:44 | 2022-07-28 | 2023-11-17 |
 | [ohayashi](https://open.spotify.com/track/7dadALlIbGUdpYYv7HlEFD) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Windswept Adan](https://open.spotify.com/album/0LxeUCxtPfUtnHTKbW52MB) | 3:44 | 2023-11-09 | 2024-02-09 |
@@ -576,7 +577,7 @@
 | [wonder particle](https://open.spotify.com/track/4jRjH2pxVAzOefjjZ57HmF) | [Moskitoo](https://open.spotify.com/artist/52WEpfvOZEZDwkfBgqZ0Pe) | [Mitosis](https://open.spotify.com/album/4s1LjWD9iyDX0shEDjEddc) | 5:31 | 2022-03-31 | 2022-06-26 |
 | [yorumayoi](https://open.spotify.com/track/4a4q1cEaV4AqfXtdHKk2jH) | [Osamu Fukuzawa](https://open.spotify.com/artist/7FumP227z8vPxFVjYWe80F) | [0\-1](https://open.spotify.com/album/7hLDJKG0Ry6TAFwIdGVuIj) | 4:51 | 2024-02-27 | 2024-05-24 |
 | [You Are Cat](https://open.spotify.com/track/4xaIslOXb5HVDzCgQ4lBms) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Neko Wa Dakumono \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6btY0OvITMAa9aV0EpfeC7) | 3:15 | 2024-02-15 | 2024-04-19 |
-| [Zhan\-ti\-sui Temple](https://open.spotify.com/track/0aOmAlujBbTmbnMrxy0iwk) | [Utena Kobayashi](https://open.spotify.com/artist/3JU5NOb3kKE7xffuEn7udg) | [6 roads](https://open.spotify.com/album/0wvuqxZa7jZHv4N57qbJih) | 4:14 | 2024-02-08 |  |
+| [Zhan\-ti\-sui Temple](https://open.spotify.com/track/0aOmAlujBbTmbnMrxy0iwk) | [Utena Kobayashi](https://open.spotify.com/artist/3JU5NOb3kKE7xffuEn7udg) | [6 roads](https://open.spotify.com/album/0wvuqxZa7jZHv4N57qbJih) | 4:14 | 2024-02-08 | 2024-06-17 |
 | [Ziggy \(Aphex Twin Mix \#1\)](https://open.spotify.com/track/6swGS4LZBAtaJdRndiBqzL) | [Nav Katze](https://open.spotify.com/artist/1iwziQKg4hUeVorWxibG9V) | [Never mind the distortion](https://open.spotify.com/album/4sWgYalzicCobacdleRh2t) | 6:02 | 2022-03-31 | 2023-12-22 |
 | [Zzz](https://open.spotify.com/track/4Yl9WaP9IbAU3xxWn7cWrN) | [Motohiro Nakashima](https://open.spotify.com/artist/47PsFNDJiKR2giXf3ey9zG) | [And I Went To Sleep](https://open.spotify.com/album/4uW7Kn6pFlhzN8G2SkeiwT) | 2:38 | 2022-03-31 | 2022-04-21 |
 | [あなたは猫です](https://open.spotify.com/track/4B8y9ZGZeWoCV0KOIzFSoU) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [猫は抱くもの \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/5inaGyoHpfa8ImmeriboUB) | 3:15 | 2024-03-07 |  |

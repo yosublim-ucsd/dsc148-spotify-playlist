@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: cignature\(시그니처\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,667 likes - 439 songs - 1 day 0 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,744 likes - 439 songs - 1 day 0 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -359,7 +359,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 349 | [X10](https://open.spotify.com/track/4gqpNgLOarYEPrIRqjy5gZ) | [MCND](https://open.spotify.com/artist/59dDRtMe8DILtibke8FWLK) | [X10](https://open.spotify.com/album/0lSgROy25yUfnZqrY9g4P4) | 2:56 |
 | 350 | [I hope](https://open.spotify.com/track/3kzxLAVrLkCF6S467Gmzcx) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Songstealer \- I hope](https://open.spotify.com/album/24jBIxa28Mf1PFSdUJZvup) | 3:43 |
 | 351 | [Out of Breath \(Prod\. Ryo, hyeminsong\)](https://open.spotify.com/track/1eFgtBIxUe0t8kHQJxfezQ) | [Chu Seo Jun](https://open.spotify.com/artist/1rVGJZbfXkVcGv0qpOprl2), [GEMma](https://open.spotify.com/artist/2OHfq64yFsF9ehuUjCZwJF) | [Monthly AP \- May, 2024](https://open.spotify.com/album/6UohaSRYdEPaSvS8SIUvMX) | 3:25 |
-| 352 | [Your picture](https://open.spotify.com/track/7I7tNQ4jof6d1YHdTsgryg) | [Shin Hyun Woo](https://open.spotify.com/artist/3HDvjWBZO7L6wQ0ExZ7muK) | [Flowers and trees](https://open.spotify.com/album/1STETfr5X90UxIhOPCMVOd) | 3:52 |
+| 352 | [Flowers and trees](https://open.spotify.com/track/7I7tNQ4jof6d1YHdTsgryg) | [Shin Hyun Woo](https://open.spotify.com/artist/3HDvjWBZO7L6wQ0ExZ7muK) | [Flowers and trees](https://open.spotify.com/album/1STETfr5X90UxIhOPCMVOd) | 3:52 |
 | 353 | [Cartier on your wrist](https://open.spotify.com/track/6PeKbpxVeAwoWxYoqSh0MQ) | [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy) | [Cartier on your wrist](https://open.spotify.com/album/0rBXKeEZoV1i5x1ISycY5K) | 3:02 |
 | 354 | [Love Is Like The Wind](https://open.spotify.com/track/2RZNDSRs5aXdoEwvcf74Ti) | [HAEUN](https://open.spotify.com/artist/7BYHne6KtWNlbJnjZwLLRW) | [Missing Crown Prince \(Original Television Soundtrack\) Pt\. 4 \- Love Is Like The Wind](https://open.spotify.com/album/2DGXz0USHVje4KFPUMfogv) | 4:21 |
 | 355 | [Always by your side](https://open.spotify.com/track/6EqypvUzeDjUy06apeCi4g) | [Jung Yup](https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP) | [Always by your side \(18x2 Beyond Youthful Days with Jungyup\)](https://open.spotify.com/album/6Li7dxQcRmzDqVTOCM85Nz) | 3:54 |

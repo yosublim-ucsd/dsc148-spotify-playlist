@@ -4,7 +4,7 @@
 
 > i tell them it's just your culture and everyone 🙄 📸 Sabrina Carpenter
 
-2,080 songs - 4 day 8 hr 37 min
+2,081 songs - 4 day 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -613,7 +613,7 @@
 | [FEMININE RAGE](https://open.spotify.com/track/08iDzwXKP72XYGnjXLSwW2) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [DEAR READER](https://open.spotify.com/album/1JsRmuktjMsrdolUuZ5UMp) | 2:27 | 2024-04-26 |  |
 | [Feverbreak \- Basenji Remix](https://open.spotify.com/track/1nu21EDKSGoLcITwVnxcTL) | [Odette](https://open.spotify.com/artist/1iQVsRr2JalWIOLQa4T7O6), [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u), [Basenji](https://open.spotify.com/artist/4FH1qQ5KcTtomryu4O5pgX) | [Feverbreak \(Basenji Remix\)](https://open.spotify.com/album/7vMFRuXX3UI0JLG77cREuR) | 3:54 | 2021-02-26 | 2021-10-14 |
 | [Figure It Out](https://open.spotify.com/track/5G5qyRHlLmZgy915TBTCkB) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Figure It Out](https://open.spotify.com/album/2Hnlavdkpy4vZhva8VsTfq) | 2:44 | 2021-02-23 | 2022-01-04 |
-| [Figure You Out](https://open.spotify.com/track/2yv7z2i0N0ItdmOHgxTPtW) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [Figure You Out](https://open.spotify.com/album/0Qyf9iXdQCMuzWj2yxZKGZ) | 3:29 | 2023-09-01 |  |
+| [Figure You Out](https://open.spotify.com/track/2yv7z2i0N0ItdmOHgxTPtW) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [Figure You Out](https://open.spotify.com/album/0Qyf9iXdQCMuzWj2yxZKGZ) | 3:29 | 2023-09-01 | 2024-06-17 |
 | [Find](https://open.spotify.com/track/49ex5tTzAH1XMbzWUv0AEQ) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Cody Lovaas](https://open.spotify.com/artist/7fWrZ2q4fGZAnuCPfgSU52) | [Find](https://open.spotify.com/album/6oM9lQGrxXasipni3i4skG) | 3:39 | 2019-05-26\* | 2019-08-13 |
 | [Fine By Me](https://open.spotify.com/track/214eImoHDFo0vb3WL2Amk4) | [morgen](https://open.spotify.com/artist/6jadsn0j1QjrlJTMiaUJYF) | [Fine By Me](https://open.spotify.com/album/0M5snw5pGGynwHrxwJBtwn) | 2:29 | 2021-11-26 | 2022-01-29 |
 | [Fire Escape](https://open.spotify.com/track/6dLuZg4jYj6IhvxyypY1sc) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [Fire Escape](https://open.spotify.com/album/2VMM7Zc5cSMP6l02uUcBcE) | 3:01 | 2023-05-05 | 2023-06-09 |
@@ -2078,6 +2078,7 @@
 | [You Suck](https://open.spotify.com/track/1WtpaFt6EQ35ojei9qVv3m) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [You Suck](https://open.spotify.com/album/1QkTbqolFWqAtaOWJmyR0v) | 3:01 | 2023-06-23 | 2023-09-16 |
 | [Young And On Fire](https://open.spotify.com/track/09WWY8SJbQ2Sc6vqkRwNZ7) | [BEGINNERS](https://open.spotify.com/artist/3W8j0OhMMduqR1eNV6ktu3), [Night Panda](https://open.spotify.com/artist/4pmV88dqzWGC82M7yFVx5z) | [Young And On Fire](https://open.spotify.com/album/7s7PkNqB2vgIGrjEBecLo6) | 3:49 | 2019-05-26\* | 2020-02-19 |
 | [Younger](https://open.spotify.com/track/51eQMjXhiJ9QXeILUujs0I) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [I've Loved You For So Long](https://open.spotify.com/album/5LO06DFO56CESiQ6BjGsVJ) | 2:10 | 2023-06-02 | 2023-06-26 |
+| [Younger Guys](https://open.spotify.com/track/2lH8ZQyQr529EZlfORuVko) | [Brooke Alexx](https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7) | [Younger Guys](https://open.spotify.com/album/36sWfCWgEOIRQVWikXmP48) | 2:08 | 2024-06-14 |  |
 | [Your Bones](https://open.spotify.com/track/6bIJHwyaNb1txgOKbYh0rH) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Your Bones](https://open.spotify.com/album/4DYdcN6zXdIH8lWmtd1FQV) | 2:39 | 2023-09-15 | 2024-01-05 |
 | [YOUR GHOST](https://open.spotify.com/track/6X8NtXpTWAdHj01tn03LCz) | [RILEY](https://open.spotify.com/artist/38SHprY6NUd8O9LyWJ4hg4) | [LOSS ANGELES: OVERDOSE](https://open.spotify.com/album/4J0gMzK8BpoGaNtHdTbH2W) | 2:53 | 2022-03-25 | 2022-05-14 |
 | [Your Internet Sucks](https://open.spotify.com/track/6W1r7ohhmFUKYGbiOsy58q) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Your Internet Sucks](https://open.spotify.com/album/4xmseo8B4OHl74HwkgdR4R) | 2:49 | 2023-01-13 | 2023-01-28 |

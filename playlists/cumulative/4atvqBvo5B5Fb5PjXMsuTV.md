@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/4atvqBvo5B5Fb5PjXMsuTV.md) - cumulative - [plain](/playlists/plain/4atvqBvo5B5Fb5PjXMsuTV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4atvqBvo5B5Fb5PjXMsuTV)
 
-### [NEW SINGLES RELEASES \| UPDATED 16 JUN](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
+### [NEW SINGLES RELEASES \| UPDATED 17 JUN](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
 > Updated daily, with the latest popular singles!
 
-701 songs - 1 day 14 hr 52 min
+704 songs - 1 day 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Bad Tattoo](https://open.spotify.com/track/6QRZvirg2FzBXo1qfsJpsU) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [Bad Tattoo](https://open.spotify.com/album/5ps668E8mAfEpi3PGq6lKp) | 3:04 | 2024-04-26 | 2024-05-01 |
 | [Balenciaga Store Closed](https://open.spotify.com/track/0wfp9BxXwjyN0z0F4BGMEq) | [BIGBABYGUCCI](https://open.spotify.com/artist/1ra8ujbJcZrV5aUjcfzFKs) | [Balenciaga Store Closed](https://open.spotify.com/album/0AJJ90UzxJ1Jz3a9WLS0dx) | 2:38 | 2024-06-07 | 2024-06-11 |
 | [Balloon in Love](https://open.spotify.com/track/3x6unDluyCL4v5AeGrAVGA) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Balloon in Love](https://open.spotify.com/album/2AxY2j1VRmHSoIooqtQ7p9) | 3:14 | 2024-06-13 | 2024-06-15 |
+| [Barnacles](https://open.spotify.com/track/5twkvcBhCfhvujp1TerwgX) | [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U) | [Barnacles](https://open.spotify.com/album/2JmRJPmuscTeGnrV2akaJi) | 1:37 | 2024-06-16 |  |
 | [Be Ready Homeless Man](https://open.spotify.com/track/5MFKPoD4TUAl2pjq1l3sr5) | [Acidgvrl](https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f), [Yûmi](https://open.spotify.com/artist/3m8rTxRDybQjzmsC0DU1ni) | [Be Ready Homeless Man](https://open.spotify.com/album/4xBL1NPn3pLNUO8ldjV3eL) | 2:52 | 2024-06-10 | 2024-06-12 |
 | [BE SOMEBODY](https://open.spotify.com/track/4UibiUi3DvzFYI8EZO1NqC) | [YOOK SUNGJAE](https://open.spotify.com/artist/7mFGOWJEkdlJBCXcJ5EWi9) | [EXHIBITION : Look Closely](https://open.spotify.com/album/5eXvNWA29n8vSvflqfDxOB) | 3:02 | 2024-05-09 | 2024-05-11 |
 | [Beach House](https://open.spotify.com/track/5exf0keVsX7ocqamzUOVtG) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Beach House](https://open.spotify.com/album/0p2EBGp6qHe4u90O8LuHHt) | 3:17 | 2024-05-18 | 2024-05-22 |
@@ -113,6 +114,7 @@
 | [Burj Khalifa](https://open.spotify.com/track/49Ycoi7GZLEciqnmhtge14) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [Burj Khalifa](https://open.spotify.com/album/26heFnuWNaGoVT1pZ3Tw9v) | 3:05 | 2024-04-26 | 2024-04-28 |
 | [Bus](https://open.spotify.com/track/0PapPJvQmfN96mB69yN9la) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [Bus](https://open.spotify.com/album/6FK77NipcZYmaVIsSep1cU) | 3:23 | 2024-06-06 | 2024-06-11 |
 | [Butterfly](https://open.spotify.com/track/02ErXm9zvvhi7qT7JUGhZj) | [Unto Others](https://open.spotify.com/artist/1W5khHrkcznsyChxwIBfAI) | [Butterfly](https://open.spotify.com/album/1yImqDY0D5RKThLhZlONAH) | 3:08 | 2024-05-02 | 2024-05-04 |
+| [Buy Sum](https://open.spotify.com/track/4iYx83z9fFXFsKV0tIwRj4) | [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR) | [Buy Sum](https://open.spotify.com/album/5uqekVJdkmGmhgEjCnTzGf) | 2:38 | 2024-06-16 |  |
 | [By The Evening](https://open.spotify.com/track/7x2VKKaiXYbFztJhq0p3nN) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [By The Evening](https://open.spotify.com/album/3rRTLxAgSPxOD5i4p1a8ab) | 2:54 | 2024-05-25 | 2024-05-29 |
 | [C WUT I B!](https://open.spotify.com/track/4IwifRBzq2o5NI2iJXX9HC) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [C WUT I B!](https://open.spotify.com/album/4nuSKwsOp3UWgVpiDBG8t2) | 2:34 | 2024-05-18 | 2024-05-22 |
 | [Cali 2 Canada](https://open.spotify.com/track/6XfdzHJyQpNuMpt3hESXui) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE) | [Cali 2 Canada](https://open.spotify.com/album/1vvtix4jni9CaCLldZgmlX) | 3:06 | 2024-06-01 | 2024-06-05 |
@@ -381,7 +383,7 @@
 | [Loveless Suffering](https://open.spotify.com/track/7IhlAdGLiaFhPIVKNUvL6S) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [Loveless Suffering](https://open.spotify.com/album/5YgSuWfKgSWzmPttENfOTX) | 4:07 | 2024-05-08 | 2024-05-11 |
 | [Luchtballon](https://open.spotify.com/track/024pThriWXJRFgGQuixYs7) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Luchtballon](https://open.spotify.com/album/2m1aJzbzSnoIiSwN8UXhXT) | 2:16 | 2024-06-05 | 2024-06-07 |
 | [Lucy Takes a Picture](https://open.spotify.com/track/20vW1Ew2jU6mgOFrRZhUdN) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Lucy Takes a Picture](https://open.spotify.com/album/1dQQ661oLGGtZ1fC1dj6dx) | 4:19 | 2024-05-21 | 2024-05-24 |
-| [LUV 4 YA](https://open.spotify.com/track/4gy2E8Wwz5hgwOLjv03cYS) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [LUV 4 YA](https://open.spotify.com/album/0tTnvcy5uv8w6SXgWw7cOZ) | 3:32 | 2024-06-14 |  |
+| [LUV 4 YA](https://open.spotify.com/track/4gy2E8Wwz5hgwOLjv03cYS) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [LUV 4 YA](https://open.spotify.com/album/0tTnvcy5uv8w6SXgWw7cOZ) | 3:32 | 2024-06-14 | 2024-06-17 |
 | [Luxury](https://open.spotify.com/track/4b30gTH3S93qtH6uQKcq6j) | [Miss Madeline](https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v), [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [Luxury](https://open.spotify.com/album/627z5HCoLuRLtWscADexPz) | 2:42 | 2024-06-10 | 2024-06-12 |
 | [L’AMOUR DE MA VIE \[OVER NOW EXTENDED EDIT\]](https://open.spotify.com/track/2Y6U158gVXfvqNWOLdis0R) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [L’AMOUR DE MA VIE \[OVER NOW EXTENDED EDIT\]](https://open.spotify.com/album/4YCeHlXgJTKlzuwHmvZZo8) | 4:31 | 2024-05-22 | 2024-05-25 |
 | [Mach die Augen auf](https://open.spotify.com/track/74EasdbNav1osDCwRCFwrS) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Mach die Augen auf](https://open.spotify.com/album/6LUAQItFCJarUpFHnzMjtH) | 1:51 | 2024-05-25 | 2024-05-29 |
@@ -390,7 +392,7 @@
 | [Make Sunshine](https://open.spotify.com/track/1AYK0GEnEpwoartEVQIP2U) | [FANTASY BOYS](https://open.spotify.com/artist/4IAcb0MN1CCHpwUaq5iEUU) | [MAKE SUNSHINE](https://open.spotify.com/album/0NFeGzCfKg5IV6F21za5v9) | 4:00 | 2024-05-02 | 2024-05-04 |
 | [MAN ON A MISSION](https://open.spotify.com/track/45laCYgRXaL01J8Ss4rLPG) | [MkX](https://open.spotify.com/artist/0eulFYzjHkalG4jALSAQAo) | [MAN ON A MISSION](https://open.spotify.com/album/1299WPttwjNgIkT7L47RAm) | 2:47 | 2024-05-15 | 2024-05-17 |
 | [Massachusetts](https://open.spotify.com/track/4oqVe3JGyD25AeTupMmxqL) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Massachusetts](https://open.spotify.com/album/3A779MgsgOOYSBTYOxyQEb) | 3:38 | 2024-06-11 | 2024-06-13 |
-| [Me Vs\. You](https://open.spotify.com/track/6uNdjUxjBxWlNt8i2Z1uWs) | [Tom MacDonald](https://open.spotify.com/artist/6DvlemMOlMH6VD9tB7BPRf) | [Me Vs\. You](https://open.spotify.com/album/77S3woa3D2b2L6AWdgfRRE) | 3:53 | 2024-06-14 |  |
+| [Me Vs\. You](https://open.spotify.com/track/6uNdjUxjBxWlNt8i2Z1uWs) | [Tom MacDonald](https://open.spotify.com/artist/6DvlemMOlMH6VD9tB7BPRf) | [Me Vs\. You](https://open.spotify.com/album/77S3woa3D2b2L6AWdgfRRE) | 3:53 | 2024-06-14 | 2024-06-17 |
 | [Meconopsis](https://open.spotify.com/track/0dkaKuFSragCpBIy3Vks7k) | [Ninomae Ina’nis](https://open.spotify.com/artist/3iPvwu8p75fYRa0V4wi8gN) | [Meconopsis](https://open.spotify.com/album/5tes2Mmt5dXKnDCJYH9HFd) | 3:37 | 2024-05-23 | 2024-05-25 |
 | [MEDZ](https://open.spotify.com/track/7sfp82nSU4R52zXcJpv0DQ) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [MEDZ](https://open.spotify.com/album/6Xwq41gv27p5DPAqnoZmxQ) | 2:45 | 2024-05-17 | 2024-05-19 |
 | [Meet Me In Napa](https://open.spotify.com/track/4ka9I2hD6xiqurbf3kAJTg) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Meet Me In Napa](https://open.spotify.com/album/4sraCh5YMlYBlJfAGJFejr) | 2:40 | 2024-05-07 | 2024-05-10 |
@@ -544,7 +546,7 @@
 | [Show Time](https://open.spotify.com/track/7hxN0o1cVf72nnyIJQw92u) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [Show Time](https://open.spotify.com/album/4uVWubQu7a4IjEv6B0n6R0) | 2:52 | 2024-06-11 | 2024-06-13 |
 | [Shut Up And Dance](https://open.spotify.com/track/1cZ3mzkuWrAP1uXSWekuLD) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Shut Up And Dance](https://open.spotify.com/album/2hF853Cnu1FKZ2D9oiwu8G) | 2:57 | 2024-05-17 | 2024-05-21 |
 | [Siege Lord](https://open.spotify.com/track/4vmT3Rruzg7N0SCKJTI96u) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Siege Lord](https://open.spotify.com/album/3O1MrlUbcvMZgXlwbZKEuP) | 3:25 | 2024-05-02 | 2024-05-04 |
-| [SIGMA](https://open.spotify.com/track/4vfm50GzceHAl5bIN05vrM) | [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y) | [SIGMA](https://open.spotify.com/album/6HfYRGgHEoPNvsDJhQOoAL) | 4:48 | 2024-06-14 |  |
+| [SIGMA](https://open.spotify.com/track/4vfm50GzceHAl5bIN05vrM) | [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y) | [SIGMA](https://open.spotify.com/album/6HfYRGgHEoPNvsDJhQOoAL) | 4:48 | 2024-06-14 | 2024-06-17 |
 | [Silver Tongue](https://open.spotify.com/track/0Qxsuh1NoCMWDYVfC49XRE) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Silver Tongue](https://open.spotify.com/album/6kzadEspZVh3DAFv5BnulS) | 4:22 | 2024-05-25 | 2024-05-29 |
 | [SIMMER](https://open.spotify.com/track/2kPgSxXgvQPrVkMx3R5UCz) | [daysormay](https://open.spotify.com/artist/1gneO1Mf6DCsgxUtDzF4lS) | [SIMMER](https://open.spotify.com/album/0jmSZLtFG74vjKqjIFGBOo) | 3:03 | 2024-05-16 | 2024-05-18 |
 | [Simple And Clean \(Re\-Recording\)](https://open.spotify.com/track/5obU0c9t9qIfz9HYbcvsha) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Simple And Clean \(Re\-Recording\)](https://open.spotify.com/album/5ldAOZT0g81QqnZZnK135e) | 4:35 | 2024-05-22 | 2024-05-24 |
@@ -629,6 +631,7 @@
 | [THIS IS THE DREAM](https://open.spotify.com/track/66Bt9jzuuyAOuYAtHJFRug) | [Justin Stone](https://open.spotify.com/artist/5Vu87j6vCvfwc7FNVGnBwk) | [THIS IS THE DREAM](https://open.spotify.com/album/7hMpXLuMESmttzh6760QY5) | 2:15 | 2024-04-26 | 2024-04-27 |
 | [Throw Some Ass](https://open.spotify.com/track/5YO44oPkpH4zeinnihUpIR) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Throw Some Ass](https://open.spotify.com/album/6IMZTpxljVKTek4hLAgiVG) | 3:02 | 2024-05-04 | 2024-05-08 |
 | [Thrown Around](https://open.spotify.com/track/6hEiEWEgAuFvEJduuSQLiw) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Thrown Around](https://open.spotify.com/album/6dqfoHNZqWOM54L6TxMOXs) | 4:20 | 2024-05-26 | 2024-06-01 |
+| [Time Heals and Hurts](https://open.spotify.com/track/5glkGkNCTSzfToLyRM2day) | [OMB Peezy](https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak) | [Time Heals and Hurts](https://open.spotify.com/album/1uwqoblpN49G4zekhUOeeF) | 2:37 | 2024-06-16 |  |
 | [Titanic](https://open.spotify.com/track/41Eyl93uSxpPze9qTAZfRH) | [Edward Skeletrix](https://open.spotify.com/artist/0xWlWvXGQve3reUhtjlPrS) | [Titanic](https://open.spotify.com/album/05JoK0jxL5RzOMro967Xpx) | 1:35 | 2024-05-13 | 2024-05-15 |
 | [To Be Alright](https://open.spotify.com/track/2XQAoWy82t8LtVTpRKdepd) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [To Be Alright](https://open.spotify.com/album/4j8V43kmmEB6z8H6axjDcn) | 4:05 | 2024-05-31 | 2024-06-04 |
 | [To See Death Just Once](https://open.spotify.com/track/3U9a8cjFWLbEdthz33Awmp) | [Ulcerate](https://open.spotify.com/artist/3Bv5btxNbwbt79fcjw9DAg) | [To See Death Just Once](https://open.spotify.com/album/0YEeRPPU8EqvNPsDTeRJF7) | 8:23 | 2024-05-15 | 2024-05-18 |

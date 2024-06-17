@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 
 > get into the groove
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,168 likes - 100 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,215 likes - 100 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Cobalt](https://open.spotify.com/track/6QKaF0hXfAgCpm3w7lM3Z2) | [Fouk](https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe) | [Gravity](https://open.spotify.com/album/0WBwfTxabbs3HeYu6Wlt0o) | 5:39 |
-| 2 | [Organi](https://open.spotify.com/track/3V4jUn174X6KNP601Ma0BB) | [Masters At Work](https://open.spotify.com/artist/5Fkj0k7EPUhIsESSIEA9f1), [Louie Vega](https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX) | [Organi](https://open.spotify.com/album/6VJVIazxwDx1jnhNzbLhjP) | 6:36 |
-| 3 | [Offside](https://open.spotify.com/track/2oNamOYQd7RvSo13byqyjN) | [Ben Van Kuringen](https://open.spotify.com/artist/26l6VHwzbStlQFOsGqS0s2) | [Offside](https://open.spotify.com/album/1Fi2zMTF7fHkV8eMKROqub) | 3:50 |
-| 4 | [Let's Keep Floating](https://open.spotify.com/track/3Kt84nPo7IPy5cGrWAEdbH) | [De Sluwe Vos](https://open.spotify.com/artist/6NOaZCnZyowwJiTHbh5dLS) | [Let's Keep Floating](https://open.spotify.com/album/6kHRvKCyPNFXOHNSS3J51A) | 7:41 |
-| 5 | [Say Yes \(feat\. Rona Ray\) \- Jimpster Remix](https://open.spotify.com/track/468OCUl2AS0D9dfFMYICLK) | [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ), [Rona Ray](https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P), [Jimpster](https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85) | [Say Yes \(feat\. Rona Ray\) \[Jimpster Remix\]](https://open.spotify.com/album/0bK7ineznnkxK4cEKEohbt) | 4:03 |
-| 6 | [Magic Circus](https://open.spotify.com/track/2kRuYyYqUMl9TSNuiKGuq7) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S) | [Magic Circus](https://open.spotify.com/album/6gaJv57EuO0tFPoVXPG0W4) | 3:49 |
+| 1 | [Magic Circus](https://open.spotify.com/track/2kRuYyYqUMl9TSNuiKGuq7) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S) | [Magic Circus](https://open.spotify.com/album/6gaJv57EuO0tFPoVXPG0W4) | 3:49 |
+| 2 | [Cobalt](https://open.spotify.com/track/6QKaF0hXfAgCpm3w7lM3Z2) | [Fouk](https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe) | [Gravity](https://open.spotify.com/album/0WBwfTxabbs3HeYu6Wlt0o) | 5:39 |
+| 3 | [Organi](https://open.spotify.com/track/3V4jUn174X6KNP601Ma0BB) | [Masters At Work](https://open.spotify.com/artist/5Fkj0k7EPUhIsESSIEA9f1), [Louie Vega](https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX) | [Organi](https://open.spotify.com/album/6VJVIazxwDx1jnhNzbLhjP) | 6:36 |
+| 4 | [Offside](https://open.spotify.com/track/2oNamOYQd7RvSo13byqyjN) | [Ben Van Kuringen](https://open.spotify.com/artist/26l6VHwzbStlQFOsGqS0s2) | [Offside](https://open.spotify.com/album/1Fi2zMTF7fHkV8eMKROqub) | 3:50 |
+| 5 | [Let's Keep Floating](https://open.spotify.com/track/3Kt84nPo7IPy5cGrWAEdbH) | [De Sluwe Vos](https://open.spotify.com/artist/6NOaZCnZyowwJiTHbh5dLS) | [Let's Keep Floating](https://open.spotify.com/album/6kHRvKCyPNFXOHNSS3J51A) | 7:41 |
+| 6 | [Say Yes \(feat\. Rona Ray\) \- Jimpster Remix](https://open.spotify.com/track/468OCUl2AS0D9dfFMYICLK) | [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ), [Rona Ray](https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P), [Jimpster](https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85) | [Say Yes \(feat\. Rona Ray\) \[Jimpster Remix\]](https://open.spotify.com/album/0bK7ineznnkxK4cEKEohbt) | 4:03 |
 | 7 | [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/track/4hGLX2kT2Ayrw0Uh2oQp0J) | [Flex \(UK\)](https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/album/1UYXqmZmTj9HA98fJpEwTs) | 2:48 |
 | 8 | [Makin Ends Meet \- Deez Raw Life Mix](https://open.spotify.com/track/30WaY0F2Hdb3lVTT9mvdAG) | [Rob Redford](https://open.spotify.com/artist/4shvfwybHhZZ5OaVbBBJ92), [Demarkus Lewis](https://open.spotify.com/artist/68fzfWiT3Mlyy93zT2mnyl) | [Making Ends Meet Remix](https://open.spotify.com/album/7cufHD0NIiHd47jC9wU52v) | 6:40 |
 | 9 | [Wait on You \(Say Goodbye\)](https://open.spotify.com/track/4fmZ8PRxCYf3HyTZeNcmlh) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj) | [Wait on You \(Say Goodbye\)](https://open.spotify.com/album/7L3jstAlot6t02ETuGi0Pm) | 4:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 | 99 | [Good to You](https://open.spotify.com/track/0zuBTTsaoYyYmNhuiVsgSO) | [Makam](https://open.spotify.com/artist/2TOcbvWbyh2rWEKBdCwpUS) | [Dekmantel Anniversary Series](https://open.spotify.com/album/2JriIHEiDKJ60FnfxJnvqT) | 4:25 |
 | 100 | [AM\_909](https://open.spotify.com/track/6YMdkjJCuA6cpbtyD9h7ge) | [Deetron](https://open.spotify.com/artist/0d4nL4lAEkHJIqLZSHBuav) | [Runnin’ / AM\_909](https://open.spotify.com/album/3rA9h7aaGJRRqtPAS3YKUQ) | 5:38 |
 
-Snapshot ID: `ZmIxYAAAAABFXAD8fn9CWAJxfDyUlRnJ`
+Snapshot ID: `Zm9FbAAAAABn0fbi1KDfsXXcEmmu9AWT`

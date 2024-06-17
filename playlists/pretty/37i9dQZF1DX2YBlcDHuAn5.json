@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 7527,
+  "num_followers": 7533,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
@@ -479,18 +479,18 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Aphrodite",
-        "url": "https://open.spotify.com/album/4Z9VwS2ksXpFBdn5pSxfoQ"
+        "name": "The Epic Tale of the Stranded Man",
+        "url": "https://open.spotify.com/album/1BfrHxEQliuMZYzetI8TGH"
       },
       "artists": [
         {
-          "name": "Donna Blue",
-          "url": "https://open.spotify.com/artist/2p3WhDRwfMseVi8f04ODpd"
+          "name": "VanWyck",
+          "url": "https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb"
         }
       ],
-      "duration_ms": 198666,
-      "name": "Aphrodite",
-      "url": "https://open.spotify.com/track/6noeTONJnM5NukhaQYsqDQ"
+      "duration_ms": 212139,
+      "name": "Lola with the Light Eyes",
+      "url": "https://open.spotify.com/track/05eGBCOwS0vA4c2TBVRiJ0"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -511,18 +511,18 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "The Epic Tale of the Stranded Man",
-        "url": "https://open.spotify.com/album/1BfrHxEQliuMZYzetI8TGH"
+        "name": "Aphrodite",
+        "url": "https://open.spotify.com/album/4Z9VwS2ksXpFBdn5pSxfoQ"
       },
       "artists": [
         {
-          "name": "VanWyck",
-          "url": "https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb"
+          "name": "Donna Blue",
+          "url": "https://open.spotify.com/artist/2p3WhDRwfMseVi8f04ODpd"
         }
       ],
-      "duration_ms": 212139,
-      "name": "Lola with the Light Eyes",
-      "url": "https://open.spotify.com/track/05eGBCOwS0vA4c2TBVRiJ0"
+      "duration_ms": 198666,
+      "name": "Aphrodite",
+      "url": "https://open.spotify.com/track/6noeTONJnM5NukhaQYsqDQ"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Alpine Gold",
-        "url": "https://open.spotify.com/album/56epnGRSer3a3fTncdQMxK"
-      },
-      "artists": [
-        {
-          "name": "Dawn Brothers",
-          "url": "https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a"
-        }
-      ],
-      "duration_ms": 196426,
-      "name": "It's So Easy",
-      "url": "https://open.spotify.com/track/5cvgCBm4qIPpgnvn6hiZ25"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Times",
         "url": "https://open.spotify.com/album/6RiH1JegZGAMd8lx4Jsw3l"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 244060,
       "name": "Times",
       "url": "https://open.spotify.com/track/2SihsYSOGwYDHMfd0riW4Y"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Alpine Gold",
+        "url": "https://open.spotify.com/album/56epnGRSer3a3fTncdQMxK"
+      },
+      "artists": [
+        {
+          "name": "Dawn Brothers",
+          "url": "https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a"
+        }
+      ],
+      "duration_ms": 196426,
+      "name": "It's So Easy",
+      "url": "https://open.spotify.com/track/5cvgCBm4qIPpgnvn6hiZ25"
     },
     {
       "added_at": "2024-06-13 22:00:00",

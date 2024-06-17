@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sa2Fqej3CR.md) - [plain]
 
 > Alaina Castillo의 추천곡과 함께 감미로운 재즈 타임을 가져보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 120 likes - 11 songs - 41 min 19 sec
+[Spotify](https://open.spotify.com/user/spotify) - 118 likes - 11 songs - 41 min 19 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

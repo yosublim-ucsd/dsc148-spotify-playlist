@@ -4,7 +4,7 @@
 
 > slow burners for late nights
 
-740 songs - 1 day 20 hr 29 min
+741 songs - 1 day 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [Dark Red](https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ) | 2:53 | 2020-12-21 | 2022-05-07 |
 | [Dawn \- duendita Remix](https://open.spotify.com/track/7b8EmRyBoQnQIvUti4Qi52) | [Eli Keszler](https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z), [duendita](https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22) | [Dawn \(duendita Remix\)](https://open.spotify.com/album/0NMozM9EOlTVZUJVJBnNZB) | 2:42 | 2023-10-17 | 2023-11-18 |
 | [DAYDREAM](https://open.spotify.com/track/2BVeeIDSD2dCnkNMhGDYK4) | [Fishmans](https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR) | [宇宙 日本 世田谷](https://open.spotify.com/album/0hUfv1cSXNaBZ6dHKGluEy) | 8:39 | 2022-07-20 | 2023-10-01 |
-| [Days Like This](https://open.spotify.com/track/5dXSZacyn5kvZHrXZ3rFsL) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Some Place Else](https://open.spotify.com/album/5lGV6B08akg9VD5VhqHb5v) | 4:55 | 2023-10-17 | 2024-06-13 |
+| [Days Like This](https://open.spotify.com/track/5dXSZacyn5kvZHrXZ3rFsL) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Some Place Else](https://open.spotify.com/album/5lGV6B08akg9VD5VhqHb5v) | 4:55 | 2023-10-17 |  |
 | [Daytrip](https://open.spotify.com/track/5QTFijKBM9oCO5vH744k7r) | [STEPHAN](https://open.spotify.com/artist/5nactm2CY1y393GPVUzKOY), [Current Blue](https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS) | [Daytrip](https://open.spotify.com/album/2MbEjelAESGKIBDL54OYeY) | 2:24 | 2020-12-21 | 2022-04-17 |
 | [DD](https://open.spotify.com/track/1JHmvvbneBOS4NkEu8omQz) | [Insightful](https://open.spotify.com/artist/0iq8RFnJPaAzjxStLi9Y9z) | [33](https://open.spotify.com/album/0HuHiy3hPKuTiS0qw1lFD7) | 3:20 | 2023-05-25 |  |
 | [Dead of Night](https://open.spotify.com/track/08unC8N1V1dEcqiyi06g6W) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Pony](https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ) | 3:59 | 2022-01-12 | 2023-10-24 |
@@ -401,7 +401,7 @@
 | [Love & Death](https://open.spotify.com/track/0XsnNCd73qJLL1BJwVKao3) | [O'SULLIVAN](https://open.spotify.com/artist/7HsLh1ehOq28zgMBpKBcVT) | [these are not songs, they are stories](https://open.spotify.com/album/7aDyL8GlUNonSXeUeAGfCF) | 3:06 | 2023-05-25 | 2023-11-18 |
 | [Love Again](https://open.spotify.com/track/43oLxXiNcylpsTwcyhGkpN) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [Love Again](https://open.spotify.com/album/4FfsMdl6O73pgkxSqasps2) | 4:03 | 2020-12-21 | 2022-07-29 |
 | [Love Again](https://open.spotify.com/track/56hp2ikFv3vZJgZXtViF2N) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [Swim Slowly](https://open.spotify.com/album/72CYjnuOowNfegnlP9UMRF) | 4:03 | 2022-10-28 | 2023-11-23 |
-| [Love As A Weapon](https://open.spotify.com/track/2CwZN7Qv20PRenBsoyUp7v) | [Alan Chang](https://open.spotify.com/artist/0vYLvMZ5Io4mFGTsiIvo7g) | [Check Please](https://open.spotify.com/album/7573edXJCcJ5VlWhonMqXS) | 3:28 | 2024-01-04 |  |
+| [Love As A Weapon](https://open.spotify.com/track/2CwZN7Qv20PRenBsoyUp7v) | [Alan Chang](https://open.spotify.com/artist/0vYLvMZ5Io4mFGTsiIvo7g) | [Check Please](https://open.spotify.com/album/7573edXJCcJ5VlWhonMqXS) | 3:28 | 2024-01-04 | 2024-06-17 |
 | [Love Sabbatical](https://open.spotify.com/track/0wg18xmOX7PxHgZDYgBBtw) | [Zeeland](https://open.spotify.com/artist/4CvsUCqrOaQBLUV5la9pMa), [Nana Adjoa](https://open.spotify.com/artist/2W61gnKGmJykgFSJSvqVCe) | [Love Sabbatical](https://open.spotify.com/album/4CMbQ55xolNf1WVSJ5YzW2) | 3:17 | 2023-10-17 | 2023-11-18 |
 | [Lovefool](https://open.spotify.com/track/3dmsgudsfeGdQ9NsZFOm0C) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Amo XO](https://open.spotify.com/album/04Yi3MVgftQcAqIqVdy9Wu) | 2:10 | 2020-12-21 | 2023-10-08 |
 | [Lovefool](https://open.spotify.com/track/5d7NvMz2SgyEkvRow7us99) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Amo XO](https://open.spotify.com/album/5pqwxGPtXIBYHBQ0r7Sydq) | 2:10 | 2023-09-29 | 2023-10-24 |
@@ -427,6 +427,7 @@
 | [Magia](https://open.spotify.com/track/4jMHWmtD14blSqbRhq2gjp) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Magia](https://open.spotify.com/album/2cs1QNUdl1o7r9wsZjWtf7) | 3:19 | 2021-09-10 | 2022-04-06 |
 | [Make Out in My Car \- Sufjan Stevens Version](https://open.spotify.com/track/099OI5KEJXIIj1GezRIWU0) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Make Out in My Car: Chameleon Suite](https://open.spotify.com/album/2i1xXXX3jYKBtWLRSNu1ee) | 2:46 | 2022-07-08 | 2023-10-24 |
 | [Me \(heavy\)](https://open.spotify.com/track/3MhbnxA1JnksiATu9xyB2c) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:03 | 2022-07-20 | 2023-08-19 |
+| [Medium Horny](https://open.spotify.com/track/17XEMkbTpM2hZDz4VdgUMd) | [French Cassettes](https://open.spotify.com/artist/0VcpOwnjkQaqDeEiVa9cu5) | [Medium Horny](https://open.spotify.com/album/14dSses42hrFFqQQHwijCO) | 2:55 | 2024-04-23 |  |
 | [Meet the Frownies](https://open.spotify.com/track/3DZfp14PTnqbFToBnCztfW) | [Mr Twin Sister](https://open.spotify.com/artist/5ltJZgIW3OkY5WvuzX5MYz) | [Meet the Frownies](https://open.spotify.com/album/5MklZDFSt57gbbaPv0kO6S) | 4:00 | 2023-04-25 | 2023-12-30 |
 | [Meet the Frownies](https://open.spotify.com/track/5kxinzQqkSJhL7QDdvkDFM) | [Mr Twin Sister](https://open.spotify.com/artist/5ltJZgIW3OkY5WvuzX5MYz) | [Meet the Frownies](https://open.spotify.com/album/0epKF07WR4vfVXnxrYIsPT) | 4:00 | 2023-04-25 | 2023-04-29 |
 | [Midnight Blue](https://open.spotify.com/track/0GHlFvtU5ALfhCSNEtTE0T) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Midnight Blue](https://open.spotify.com/album/6SEcf0C3QO1K45Fju3dqEO) | 4:39 | 2020-12-21 | 2022-04-20 |
@@ -435,7 +436,7 @@
 | [Miss Me Sometimes U Do](https://open.spotify.com/track/4g9VBiwuUAsUnhfqVstSuf) | [The Nice Nice](https://open.spotify.com/artist/0eFNwPu1ML0WJ0Bobwakea) | [Miss Me Sometimes U Do](https://open.spotify.com/album/3gcN6pRbxzn7qmI8ip30g1) | 3:23 | 2020-12-21 | 2022-04-19 |
 | [Missing the Moon](https://open.spotify.com/track/2JvbaCFEHS8aaakQ92xWmz) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Missing the Moon](https://open.spotify.com/album/1hNTKdVUzEhglYbukbndok) | 3:32 | 2023-03-16 | 2023-08-19 |
 | [Mixer](https://open.spotify.com/track/5Gda2dF6ew4ORmTL4xaxZT) | [Nap Eyes](https://open.spotify.com/artist/1ysOXSDpupZ5RBQ9PNFZU7) | [Thought Rock Fish Scale](https://open.spotify.com/album/1FDHzgZsF2Pn7CL9d87eRY) | 4:36 | 2020-12-21 | 2022-04-20 |
-| [Mom](https://open.spotify.com/track/7zeQPFtQPH6Y8Jqz5jXCQg) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Le Soir](https://open.spotify.com/album/3TaPQINqimLIx8MStTQQge) | 1:13 | 2023-11-21 |  |
+| [Mom](https://open.spotify.com/track/7zeQPFtQPH6Y8Jqz5jXCQg) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Le Soir](https://open.spotify.com/album/3TaPQINqimLIx8MStTQQge) | 1:13 | 2023-11-21 | 2024-06-17 |
 | [Moment](https://open.spotify.com/track/4CpqVGd8GCTFQqEifhgsTz) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [MOVIES! WORLDWIDE: PART I](https://open.spotify.com/album/7hXTfD7rkqM78jsnBMT0md) | 2:12 | 2023-11-21 |  |
 | [Monday](https://open.spotify.com/track/6F5SQwp6UjEA99hnevuF6w) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Monday](https://open.spotify.com/album/7lKgwQvRpotyn5gu6B6NQu) | 4:07 | 2020-12-21 | 2022-04-18 |
 | [Money Can't Buy \(single\)](https://open.spotify.com/track/3aWe6p3qrsVjO4HFNih7Vc) | [Howard](https://open.spotify.com/artist/7kfaJkEGQmDhceMYvn9Ax5) | [Money Can't Buy \(single\)](https://open.spotify.com/album/30KrxdirxapHi8TbixqxwK) | 3:21 | 2020-12-21 | 2022-04-21 |

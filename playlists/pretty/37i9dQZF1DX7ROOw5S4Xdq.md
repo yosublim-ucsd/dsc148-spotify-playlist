@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Gabriel Guedes de Almeida
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,637 likes - 53 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,701 likes - 53 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 22 | [É Sobre Isso \- Ao Vivo](https://open.spotify.com/track/0HxbKgaHS4s1gD17FXBk6s) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Silas Simões](https://open.spotify.com/artist/0o1MH6PBeBMiZOcbxsNj8r) | [É Sobre Isso \(Ao Vivo\)](https://open.spotify.com/album/7BOAlidcvxlTVvdW6WqtKo) | 3:15 |
 | 23 | [O Senhor é o Meu Pastor \- Ao Vivo](https://open.spotify.com/track/7k7hhDB8ZleGKhxMg43Fwr) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [O Senhor é o Meu Pastor \(Ao Vivo\)](https://open.spotify.com/album/4V6W8jgXxmcr5VBPdStzmx) | 6:21 |
 | 24 | [Louve \- Ao Vivo](https://open.spotify.com/track/2BtYfou9MvzgQ8CfmMhaWM) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O), [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ), [Eliezer de Tarsis](https://open.spotify.com/artist/7swIpYfKi5yjFe1J2LQCnL) | [Louve \(Ao Vivo\)](https://open.spotify.com/album/7geG63BdCpln7c2JcpFrKI) | 4:57 |
-| 25 | [Azeite \- ao vivo](https://open.spotify.com/track/6pVm1C9RyzEZJI0o643h74) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Azeite \(ao vivo\)](https://open.spotify.com/album/7GnXwS8TebApYSBsIeRRnf) | 4:32 |
+| 25 | [Azeite \(Ao Vivo\)](https://open.spotify.com/track/6pVm1C9RyzEZJI0o643h74) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Azeite \(Ao Vivo\)](https://open.spotify.com/album/7GnXwS8TebApYSBsIeRRnf) | 4:32 |
 | 26 | [Jesus Em Tua Presença \- Ao Vivo](https://open.spotify.com/track/195P7EewiDBpU3oeWqFA8n) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Leandro Rodrigues](https://open.spotify.com/artist/3sPrLEud945nswy3EMr7YK), [PVAP](https://open.spotify.com/artist/7L6zOJDqVGy8lf7nesvo1a) | [Jesus Em Tua Presença \(Ao Vivo\)](https://open.spotify.com/album/4khpvbIk3o6QoT387sOmG8) | 4:07 |
 | 27 | [Vem Cear Comigo \- Playback](https://open.spotify.com/track/5KeukL9NLLmYBCAGVlCyCt) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH) | [Vem Cear Comigo \(Playback\)](https://open.spotify.com/album/2KsSMmTeIobCVJ09yUCZCC) | 3:54 |
 | 28 | [Estou Seguro \- Ao Vivo](https://open.spotify.com/track/1xq082rReneWUY1TCp9A5Y) | [Jhonas Serra](https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH) | [Estou Seguro \(Ao Vivo\)](https://open.spotify.com/album/6TkF6PgdQ04omotO399jAG) | 5:14 |

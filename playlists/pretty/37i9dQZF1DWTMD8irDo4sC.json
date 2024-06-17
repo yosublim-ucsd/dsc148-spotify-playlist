@@ -1,6 +1,6 @@
 {
   "description": "Chill to these acoustic songs from the Middle East and North Africa. Cover: Labess.",
-  "num_followers": 67535,
+  "num_followers": 67555,
   "original_name": "Acoustic Arabic",
   "owner": {
     "name": "Spotify",
@@ -135,22 +135,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Identit\u00e9",
-        "url": "https://open.spotify.com/album/0BhgbOGDmeayGBVonX5hVR"
-      },
-      "artists": [
-        {
-          "name": "Labess",
-          "url": "https://open.spotify.com/artist/5ifXprV3Ehe3xSTObbk16Y"
-        }
-      ],
-      "duration_ms": 216506,
-      "name": "El Kess Yaddour",
-      "url": "https://open.spotify.com/track/7pgUEhd5vgSZLDMBVapiTm"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "\u0635\u062d \u0627\u0644\u0646\u0648\u0645",
         "url": "https://open.spotify.com/album/5GLEKnaRshEuOfenkwAC0j"
       },
@@ -219,22 +203,18 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "\u064a\u0627 \u062d\u0633\u0631\u0629 \u0639\u0644\u064a\u0643 \u064a\u0627 \u062f\u0646\u064a\u0627",
-        "url": "https://open.spotify.com/album/7EzzK8xvtwDahUXA7vub1h"
+        "name": "Identit\u00e9",
+        "url": "https://open.spotify.com/album/0BhgbOGDmeayGBVonX5hVR"
       },
       "artists": [
         {
-          "name": "Hamza Namira",
-          "url": "https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk"
-        },
-        {
-          "name": "Amine Babylone",
-          "url": "https://open.spotify.com/artist/2Dxc5IVSmvyXjR6sidLPT3"
+          "name": "Labess",
+          "url": "https://open.spotify.com/artist/5ifXprV3Ehe3xSTObbk16Y"
         }
       ],
-      "duration_ms": 254745,
-      "name": "\u064a\u0627 \u062d\u0633\u0631\u0629 \u0639\u0644\u064a\u0643 \u064a\u0627 \u062f\u0646\u064a\u0627",
-      "url": "https://open.spotify.com/track/3GLGbZdxErd1d46wEQMELb"
+      "duration_ms": 216506,
+      "name": "El Kess Yaddour",
+      "url": "https://open.spotify.com/track/7pgUEhd5vgSZLDMBVapiTm"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -251,6 +231,26 @@
       "duration_ms": 221466,
       "name": "Mnam",
       "url": "https://open.spotify.com/track/2Sf3tqzeuPldmDH1hDgzd2"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "\u064a\u0627 \u062d\u0633\u0631\u0629 \u0639\u0644\u064a\u0643 \u064a\u0627 \u062f\u0646\u064a\u0627",
+        "url": "https://open.spotify.com/album/7EzzK8xvtwDahUXA7vub1h"
+      },
+      "artists": [
+        {
+          "name": "Hamza Namira",
+          "url": "https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk"
+        },
+        {
+          "name": "Amine Babylone",
+          "url": "https://open.spotify.com/artist/2Dxc5IVSmvyXjR6sidLPT3"
+        }
+      ],
+      "duration_ms": 254745,
+      "name": "\u064a\u0627 \u062d\u0633\u0631\u0629 \u0639\u0644\u064a\u0643 \u064a\u0627 \u062f\u0646\u064a\u0627",
+      "url": "https://open.spotify.com/track/3GLGbZdxErd1d46wEQMELb"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -415,18 +415,34 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Between City Walls",
-        "url": "https://open.spotify.com/album/0aUGJkdUCaTmBqlB2gD3I0"
+        "name": "Win Yamchi Zine",
+        "url": "https://open.spotify.com/album/3gkBsIfmzf69MGfMji8gnf"
       },
       "artists": [
         {
-          "name": "Maysa Daw",
-          "url": "https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6"
+          "name": "Cameleon",
+          "url": "https://open.spotify.com/artist/6S2OpU5mNabEiTOEcTJ8Y9"
         }
       ],
-      "duration_ms": 221043,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/4CZ2wKpcjgoQDxGMQNUdqb"
+      "duration_ms": 193881,
+      "name": "Win Yamchi Zine",
+      "url": "https://open.spotify.com/track/3Zlfkuzu8esBnCck3OAztD"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "Oumniya",
+        "url": "https://open.spotify.com/album/4hu42nNoG5DCRahtvY77NP"
+      },
+      "artists": [
+        {
+          "name": "Souad Massi",
+          "url": "https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k"
+        }
+      ],
+      "duration_ms": 264515,
+      "name": "Salam",
+      "url": "https://open.spotify.com/track/7Grw73QC2BopimbTXSbV3o"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -451,6 +467,22 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
+        "name": "Between City Walls",
+        "url": "https://open.spotify.com/album/0aUGJkdUCaTmBqlB2gD3I0"
+      },
+      "artists": [
+        {
+          "name": "Maysa Daw",
+          "url": "https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6"
+        }
+      ],
+      "duration_ms": 221043,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/4CZ2wKpcjgoQDxGMQNUdqb"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
         "name": "Dalia",
         "url": "https://open.spotify.com/album/2pjOROJjvXkkao44OrafiC"
       },
@@ -467,22 +499,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Oumniya",
-        "url": "https://open.spotify.com/album/4hu42nNoG5DCRahtvY77NP"
-      },
-      "artists": [
-        {
-          "name": "Souad Massi",
-          "url": "https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k"
-        }
-      ],
-      "duration_ms": 264515,
-      "name": "Salam",
-      "url": "https://open.spotify.com/track/7Grw73QC2BopimbTXSbV3o"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "Aw'at (Acoustic Version)",
         "url": "https://open.spotify.com/album/6pQPztLyEyAIPZEzIzOzs1"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 185345,
       "name": "Aw'at (Acoustic Version)",
       "url": "https://open.spotify.com/track/0v034Wtk8VdmetOJGMAVZV"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
-        "name": "Win Yamchi Zine",
-        "url": "https://open.spotify.com/album/3gkBsIfmzf69MGfMji8gnf"
-      },
-      "artists": [
-        {
-          "name": "Cameleon",
-          "url": "https://open.spotify.com/artist/6S2OpU5mNabEiTOEcTJ8Y9"
-        }
-      ],
-      "duration_ms": 193881,
-      "name": "Win Yamchi Zine",
-      "url": "https://open.spotify.com/track/3Zlfkuzu8esBnCck3OAztD"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
+        "name": "Rawquha",
+        "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
+      },
+      "artists": [
+        {
+          "name": "Apo & the Apostles",
+          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
+        }
+      ],
+      "duration_ms": 274363,
+      "name": "Walhani",
+      "url": "https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
         "name": "Baby Baby (Acoustic Version)",
         "url": "https://open.spotify.com/album/0LriuhHAoi1kknfbUrAq82"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 346293,
       "name": "Munaya (Dream)",
       "url": "https://open.spotify.com/track/3bhui3GTdH3kJ4ic6ubmQS"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
-        "name": "Rawquha",
-        "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
-      },
-      "artists": [
-        {
-          "name": "Apo & the Apostles",
-          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
-        }
-      ],
-      "duration_ms": 274363,
-      "name": "Walhani",
-      "url": "https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Alsahraa",
-        "url": "https://open.spotify.com/album/08aS2e6UrwEoq6BPGyNHe2"
-      },
-      "artists": [
-        {
-          "name": "Amira Kheir",
-          "url": "https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh"
-        }
-      ],
-      "duration_ms": 370542,
-      "name": "Habibi Ta'al",
-      "url": "https://open.spotify.com/track/19oH7VGiIr2dBr8tOQxE9Q"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "\u062f\u064f\u0631\u064e\u0631\u0652",
         "url": "https://open.spotify.com/album/1ERu5zVIzOLu1lfBNRVOhD"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 268861,
       "name": "\u062f\u0631\u0631",
       "url": "https://open.spotify.com/track/3BPWuKnv4MwaMX5GjQf9KY"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "Alsahraa",
+        "url": "https://open.spotify.com/album/08aS2e6UrwEoq6BPGyNHe2"
+      },
+      "artists": [
+        {
+          "name": "Amira Kheir",
+          "url": "https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh"
+        }
+      ],
+      "duration_ms": 370542,
+      "name": "Habibi Ta'al",
+      "url": "https://open.spotify.com/track/19oH7VGiIr2dBr8tOQxE9Q"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
+        "name": "Brya",
+        "url": "https://open.spotify.com/album/6HrTAIVCm1zlmM0Qjgjeci"
+      },
+      "artists": [
+        {
+          "name": "Babylone",
+          "url": "https://open.spotify.com/artist/4sP2g2ixZhad5ZlxPirn8i"
+        }
+      ],
+      "duration_ms": 220525,
+      "name": "Bekitini",
+      "url": "https://open.spotify.com/track/1ufipNCGdfkkaBXg06vojb"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
         "name": "Mafi Mennik",
         "url": "https://open.spotify.com/album/2nudqbtl9EcsCjrWOhChaF"
       },
@@ -1079,38 +1095,6 @@
       "duration_ms": 248952,
       "name": "Ella Enta - Live Session",
       "url": "https://open.spotify.com/track/0O1Fa5JhUMU0n8AInGOCk9"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
-        "name": "Brya",
-        "url": "https://open.spotify.com/album/6HrTAIVCm1zlmM0Qjgjeci"
-      },
-      "artists": [
-        {
-          "name": "Babylone",
-          "url": "https://open.spotify.com/artist/4sP2g2ixZhad5ZlxPirn8i"
-        }
-      ],
-      "duration_ms": 220525,
-      "name": "Bekitini",
-      "url": "https://open.spotify.com/track/1ufipNCGdfkkaBXg06vojb"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
-        "name": "Aziz Maraka",
-        "url": "https://open.spotify.com/album/5FCww0KdMiP4lKUzm4wEXY"
-      },
-      "artists": [
-        {
-          "name": "Aziz Maraka",
-          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
-        }
-      ],
-      "duration_ms": 247041,
-      "name": "Ya Bay",
-      "url": "https://open.spotify.com/track/25dpNlHr9GTVBvIcUr9cWu"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -1179,6 +1163,22 @@
       "duration_ms": 199171,
       "name": "Sahar El Layali (Kan Enna Tahoun)",
       "url": "https://open.spotify.com/track/2FCybmEGNqquzBkIGO9RNX"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "Aziz Maraka",
+        "url": "https://open.spotify.com/album/5FCww0KdMiP4lKUzm4wEXY"
+      },
+      "artists": [
+        {
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+        }
+      ],
+      "duration_ms": 247041,
+      "name": "Ya Bay",
+      "url": "https://open.spotify.com/track/25dpNlHr9GTVBvIcUr9cWu"
     },
     {
       "added_at": "2022-05-09 08:05:11",

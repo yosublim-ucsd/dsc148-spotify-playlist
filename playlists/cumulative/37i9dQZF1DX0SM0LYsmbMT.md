@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,151 songs - 6 day 14 hr 32 min
+4,152 songs - 6 day 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2631,7 +2631,7 @@
 | [oscarto](https://open.spotify.com/track/1CEEgJrmLuKDSm6pt7sXok) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Snow Vol\. 5](https://open.spotify.com/album/1jbN4bYY8ZX7FpkBn49FlG) | 1:36 | 2021-01-17 | 2021-03-14 |
 | [Osloer Straße \- Instrumental](https://open.spotify.com/track/3ESyOoe4nT5sEBGiKHOROZ) | [Galv](https://open.spotify.com/artist/7mbdcJkkgnyrlLvFBg32U6), [S\. Fidelity](https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW) | [Shigeo \- Instrumentals](https://open.spotify.com/album/7sNPCxItzNTviUXCiGQymE) | 1:56 | 2019-08-10 | 2019-11-15 |
 | [othello](https://open.spotify.com/track/5cB5hyrP15gtkFp0JVeiNd) | [Bassti](https://open.spotify.com/artist/0tFVT92PBHTTLoKmS8WbFP), [Nalim](https://open.spotify.com/artist/4jCcTzbBzXz7vIGVilN52F) | [othello](https://open.spotify.com/album/6cV8TkMfuzCKFOOYkjIvhi) | 3:01 | 2020-04-24 | 2020-07-01 |
-| [Otters](https://open.spotify.com/track/3wXlfGmKCqG30LxBj0zERw) | [Peter Kind](https://open.spotify.com/artist/1xMxQQ71TIGQgzH4NY0ECM) | [Otters](https://open.spotify.com/album/72CicGuIXlZpVJUIkcTNPE) | 1:53 | 2023-09-14 |  |
+| [Otters](https://open.spotify.com/track/3wXlfGmKCqG30LxBj0zERw) | [Peter Kind](https://open.spotify.com/artist/1xMxQQ71TIGQgzH4NY0ECM) | [Otters](https://open.spotify.com/album/72CicGuIXlZpVJUIkcTNPE) | 1:53 | 2023-09-14 | 2024-06-17 |
 | [Our Little Dilemma](https://open.spotify.com/track/56hqH6z2CU6G8NbVvVXAb2) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84) | [Our Little Dilemma](https://open.spotify.com/album/1oG7Rrh028vORF4dYs0GRI) | 3:22 | 2021-03-14 | 2021-05-21 |
 | [Out for a Stroll](https://open.spotify.com/track/36Foss260ItalU4rLJhYks) | [Tabi](https://open.spotify.com/artist/5BE83iQiIHIQZwcHZYCZMK) | [Journey](https://open.spotify.com/album/0Y89JuEUKr68HwH9XDEmFA) | 3:42 | 2022-11-17 | 2022-12-24 |
 | [Out for a Stroll](https://open.spotify.com/track/52uThjP5ZMRijeBTKUMUkS) | [Tabi](https://open.spotify.com/artist/5BE83iQiIHIQZwcHZYCZMK) | [Out for a Stroll](https://open.spotify.com/album/0LGnwyI6nxYH6ZHbyYtoDZ) | 3:42 | 2021-07-16 | 2022-11-20 |
@@ -3854,6 +3854,7 @@
 | [Velvet](https://open.spotify.com/track/6FBgZgrEdY6qKcgNlEisXl) | [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Velvet](https://open.spotify.com/album/6LlUTJwCopFzKcRziJKrGn) | 1:52 | 2019-06-03 | 2019-12-11 |
 | [Velvet](https://open.spotify.com/track/1RwHXo9NxsqVaEA9A3N0Wr) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [Velvet](https://open.spotify.com/album/2mzBXDHecUdqw2EsH52EcQ) | 1:48 | 2022-11-17 | 2023-04-07 |
 | [Velvet](https://open.spotify.com/track/3SQS72cQY2TM0nDYJip1yZ) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [Velvet](https://open.spotify.com/album/07GO5VjNgmfNVLUWi0CyuF) | 1:48 | 2021-09-26 | 2022-11-20 |
+| [velvet tide](https://open.spotify.com/track/7iCsAGGyRZGvKkiyDFhJDr) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [velvet tide](https://open.spotify.com/album/5NelLexLQ1EbTT7Hseqz1H) | 2:18 | 2024-06-13 |  |
 | [Venice](https://open.spotify.com/track/6dVT7B22eI14m2h13jracB) | [Elior](https://open.spotify.com/artist/0tquhVod10o2zf1ht2aVoz) | [Venice](https://open.spotify.com/album/53fuaQklDb3yfIKE0M3POt) | 2:05 | 2021-06-04 | 2021-10-16 |
 | [Venice](https://open.spotify.com/track/5VmL8CrjM82tIGWwum8Cbo) | [Gyvus](https://open.spotify.com/artist/6qNRi3Mn9apPNnMSt6Qbvn) | [Venice](https://open.spotify.com/album/380nnXWEOGoB4ILSl7mijj) | 2:36 | 2019-05-26\* | 2020-04-29 |
 | [Ventilator](https://open.spotify.com/track/7tobQQazW32ZWVzc6yTLSY) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Ventilator](https://open.spotify.com/album/5VLGUMQJIHXvwUC63jJS43) | 2:17 | 2023-03-23 |  |

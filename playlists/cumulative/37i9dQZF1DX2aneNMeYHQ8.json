@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 199874,
       "name": "Deep Stays Down",
       "url": "https://open.spotify.com/track/2IbB995oiJcMJXTfkMHioG"
@@ -1358,6 +1358,24 @@
       "duration_ms": 230986,
       "name": "Do It Over",
       "url": "https://open.spotify.com/track/4BqKXZhbl6paNvkzk2YTa0"
+    },
+    {
+      "album": {
+        "name": "Midnight Butterflies",
+        "url": "https://open.spotify.com/album/2IRQGgPLBObcTHu1PW2hOq"
+      },
+      "artists": [
+        {
+          "name": "Sea Girls",
+          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Does Only God Know That We're Lonely?",
+      "url": "https://open.spotify.com/track/37un1ILHAQAkHqsvGKTUPe"
     },
     {
       "album": {
@@ -2522,7 +2540,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 203853,
       "name": "Hello",
       "url": "https://open.spotify.com/track/7IH898LJRwuh0m2x29N0fm"
@@ -7250,6 +7268,24 @@
       "duration_ms": 237703,
       "name": "When We Were Close",
       "url": "https://open.spotify.com/track/4QsXlCYFMNpVUzSR9UwWup"
+    },
+    {
+      "album": {
+        "name": "when we were young",
+        "url": "https://open.spotify.com/album/6kSSORbrUJCzT6ejYCJSHX"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256178,
+      "name": "when we were young",
+      "url": "https://open.spotify.com/track/40UpmsBZs3vJhtnR4VROIl"
     },
     {
       "album": {

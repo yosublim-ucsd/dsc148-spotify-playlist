@@ -1112,7 +1112,7 @@
       ],
       "date_added": "2021-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-16",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -2552,7 +2552,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 173917,
       "name": "Bbejbb",
       "url": "https://open.spotify.com/track/3BQqSkF8Raj9lEzJdscmmu"
@@ -4148,7 +4148,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 145089,
       "name": "B\u00edl\u00fd Tri\u010dko",
       "url": "https://open.spotify.com/track/2klnTxBCn7LvUqBLJejJsO"
@@ -9028,7 +9028,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
@@ -9992,7 +9992,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 197538,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/2UTxmdJ6Yp1ck6SAJuvM7X"
@@ -15376,7 +15376,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-11",
+      "date_removed": null,
       "duration_ms": 203567,
       "name": "Mal\u00e1 d\u00e1ma",
       "url": "https://open.spotify.com/track/6Le5KOUhQgU4PQNkcX6sP4"
@@ -17580,6 +17580,24 @@
       "duration_ms": 186250,
       "name": "Nech bejt",
       "url": "https://open.spotify.com/track/7enRBbBvCJQ9SLqCbqUcs4"
+    },
+    {
+      "album": {
+        "name": "D\u00edvka s perlami ve vlasech",
+        "url": "https://open.spotify.com/album/5lJnE0e3c2blm5dgGtuLpW"
+      },
+      "artists": [
+        {
+          "name": "Ales Brichta",
+          "url": "https://open.spotify.com/artist/5jsRitlBtl5bF7sT0RetNo"
+        }
+      ],
+      "date_added": "2024-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183266,
+      "name": "Nechte vlajky vl\u00e1t - Radio Edit",
+      "url": "https://open.spotify.com/track/6TCtOAmBYHrWbmgk7OjmLU"
     },
     {
       "album": {
@@ -21930,7 +21948,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 186782,
       "name": "Re\u017eim neru\u0161it",
       "url": "https://open.spotify.com/track/6AZaXcXWfcFgJRgl4bsgvD"
@@ -25206,7 +25224,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 256720,
       "name": "Svaz \u010desk\u00fdch boh\u00e9m\u016f",
       "url": "https://open.spotify.com/track/0twbASvGKPDvbWviKZcpyy"
@@ -30684,11 +30702,15 @@
         {
           "name": "Ego",
           "url": "https://open.spotify.com/artist/2L3W8TmknCpxsOCiZQixyl"
+        },
+        {
+          "name": "Robert Burian",
+          "url": "https://open.spotify.com/artist/64FzaTBI1Z4TZXlhrihUDg"
         }
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 205780,
       "name": "\u017dijeme len raz",
       "url": "https://open.spotify.com/track/3vjZjq1a1kCmt4FWuDIiOJ"

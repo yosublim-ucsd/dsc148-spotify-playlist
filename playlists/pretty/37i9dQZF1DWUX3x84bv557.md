@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: Emma Heesters & Rolf Sanchez
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,680 likes - 70 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,688 likes - 70 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Contigo](https://open.spotify.com/track/6r3AQNLSSqiSJQtRctbMSC) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Contigo](https://open.spotify.com/album/1fGfhBbKIxQ9MyMgFhZ9MF) | 2:54 |
+| 1 | [Contigo](https://open.spotify.com/track/5dDTrE9ePpX0nGY1naajL0) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Contigo](https://open.spotify.com/album/5K3M8cOMFr6ITmE4FgMdI8) | 2:54 |
 | 2 | [Slapen](https://open.spotify.com/track/1qcoBRRqgbmSTHpLbMLo1E) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Samen Tegen Elkaar](https://open.spotify.com/album/0SICrWXEeAB0feHy4iyTbH) | 3:51 |
 | 3 | [Wat Er Ook Gebeurt](https://open.spotify.com/track/1DfvARmbKyxKZwa6Y6LQtF) | [Xerxes](https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS) | [Wat Er Ook Gebeurt](https://open.spotify.com/album/68nAyxzH7dJkcsGnifgI5k) | 3:08 |
 | 4 | [HJB \(Stil\)](https://open.spotify.com/track/4iHggacNJlIn8m5qJzHqpE) | [Floris Keijzer](https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC) | [HJB \(Stil\)](https://open.spotify.com/album/0cLq1RpxhkE8tuA2hi6H7U) | 2:34 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 69 | [Vliegtuigmodus](https://open.spotify.com/track/4H4O3fDyHXgTWXqSbvBFyV) | [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Jongen Uit De Stad](https://open.spotify.com/album/1Z8FFVmqvUf3YpqsQf8ztr) | 2:24 |
 | 70 | [Wasted](https://open.spotify.com/track/5A8S6jJRIeFjMHFQ66Opr7) | [Fokke Simons](https://open.spotify.com/artist/6bdx9tCkHEg9ff61hu7xkI), [Floris Keijzer](https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC) | [Wasted](https://open.spotify.com/album/26ALDsugBcToHqcDvA0Bu4) | 2:40 |
 
-Snapshot ID: `Zmtr4AAAAAAe+VKBEJIKX84ixsbL/gxU`
+Snapshot ID: `Zm9BrAAAAADg5RpVQE8dP8013qpO9Vow`

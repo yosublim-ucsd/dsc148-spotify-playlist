@@ -1,13 +1,37 @@
 {
-  "description": "Trending songs from Tollywood! \nCover: Tillu Square",
-  "num_followers": 109872,
+  "description": "Trending songs from Tollywood! \nCover: Kalki 2898 Ad",
+  "num_followers": 110291,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmLSWAAAAAAv6V8hh7rsV2Diq1Kw46OI",
+  "snapshot_id": "Zm7dJQAAAAB1LTFQbbzrbnBmFgsyjHkY",
   "tracks": [
+    {
+      "added_at": "2024-06-16 12:40:05",
+      "album": {
+        "name": "Bhairava Anthem (From \"Kalki 2898 Ad\") (Telugu)",
+        "url": "https://open.spotify.com/album/1NhxK8JrKi6H4jjTEZgheV"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Deepak Blue",
+          "url": "https://open.spotify.com/artist/6n7qbMaXMDg5volEeeB9Ao"
+        },
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        }
+      ],
+      "duration_ms": 163354,
+      "name": "Bhairava Anthem (From \"Kalki 2898 Ad\") (Telugu)",
+      "url": "https://open.spotify.com/track/5kNydYWkUyXh4zVoy8QDmC"
+    },
     {
       "added_at": "2024-06-05 09:12:34",
       "album": {
@@ -359,30 +383,6 @@
       "duration_ms": 200113,
       "name": "Gundellonaa",
       "url": "https://open.spotify.com/track/6D2LwdOQ5gjoFrpkoO5fvu"
-    },
-    {
-      "added_at": "2024-06-04 06:47:16",
-      "album": {
-        "name": "Allari Priyudu",
-        "url": "https://open.spotify.com/album/3hdRNCS8W4vNLlI25LfOqq"
-      },
-      "artists": [
-        {
-          "name": "S. P. Balasubrahmanyam",
-          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
-        },
-        {
-          "name": "K. S. Chithra",
-          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
-        },
-        {
-          "name": "Chorus",
-          "url": "https://open.spotify.com/artist/2Bu3DMTHHdXW4jnhoWHhPa"
-        }
-      ],
-      "duration_ms": 316891,
-      "name": "Rose Rose Rose",
-      "url": "https://open.spotify.com/track/7jWIGj3glxfoe4LiXGhw9G"
     },
     {
       "added_at": "2023-09-25 09:44:04",

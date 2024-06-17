@@ -1,6 +1,6 @@
 {
   "description": "Flaket kommer studsa!",
-  "num_followers": 365497,
+  "num_followers": 365459,
   "original_name": "Studentfest!",
   "owner": {
     "name": "Spotify",
@@ -371,62 +371,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "B\u00e6rum Bitches (Mannschaft)",
-        "url": "https://open.spotify.com/album/04FzRblfFwLUm81HJEYCAo"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8te og Rare Gutter",
-          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
-        }
-      ],
-      "duration_ms": 146938,
-      "name": "B\u00e6rum Bitches (Mannschaft)",
-      "url": "https://open.spotify.com/track/7BPcWZDSRLdMbOybXlspcC"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "I'm an Albatraoz",
-        "url": "https://open.spotify.com/album/1qHVYbxQ6IS8YRviorKDJI"
-      },
-      "artists": [
-        {
-          "name": "AronChupa",
-          "url": "https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh"
-        },
-        {
-          "name": "Little Sis Nora",
-          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
-        }
-      ],
-      "duration_ms": 166848,
-      "name": "I'm an Albatraoz",
-      "url": "https://open.spotify.com/track/5MhsZlmKJG6X5kTHkdwC4B"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Man In Finance (G6 Trust Fund)",
-        "url": "https://open.spotify.com/album/3d3AJIkcxgFjeJV4LbwcFs"
-      },
-      "artists": [
-        {
-          "name": "Girl On Couch",
-          "url": "https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy"
-        },
-        {
-          "name": "Billen Ted",
-          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
-        }
-      ],
-      "duration_ms": 151405,
-      "name": "Man In Finance (G6 Trust Fund)",
-      "url": "https://open.spotify.com/track/5zuPzhnGl0DRRWmquMi2MP"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Feeling Good",
         "url": "https://open.spotify.com/album/5YnyS9JNsqhkaBPIWOYtXk"
       },
@@ -459,6 +403,62 @@
       "duration_ms": 145846,
       "name": "it boy",
       "url": "https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Man In Finance (G6 Trust Fund)",
+        "url": "https://open.spotify.com/album/3d3AJIkcxgFjeJV4LbwcFs"
+      },
+      "artists": [
+        {
+          "name": "Girl On Couch",
+          "url": "https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy"
+        },
+        {
+          "name": "Billen Ted",
+          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
+        }
+      ],
+      "duration_ms": 151405,
+      "name": "Man In Finance (G6 Trust Fund)",
+      "url": "https://open.spotify.com/track/5zuPzhnGl0DRRWmquMi2MP"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "B\u00e6rum Bitches (Mannschaft)",
+        "url": "https://open.spotify.com/album/04FzRblfFwLUm81HJEYCAo"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8te og Rare Gutter",
+          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
+        }
+      ],
+      "duration_ms": 146938,
+      "name": "B\u00e6rum Bitches (Mannschaft)",
+      "url": "https://open.spotify.com/track/7BPcWZDSRLdMbOybXlspcC"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "I'm an Albatraoz",
+        "url": "https://open.spotify.com/album/1qHVYbxQ6IS8YRviorKDJI"
+      },
+      "artists": [
+        {
+          "name": "AronChupa",
+          "url": "https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh"
+        },
+        {
+          "name": "Little Sis Nora",
+          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
+        }
+      ],
+      "duration_ms": 166848,
+      "name": "I'm an Albatraoz",
+      "url": "https://open.spotify.com/track/5MhsZlmKJG6X5kTHkdwC4B"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Rockafeller Skank",
+        "url": "https://open.spotify.com/album/4VzJuJaV7gtjJhXMLEt9WD"
+      },
+      "artists": [
+        {
+          "name": "ILYAA",
+          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
+        }
+      ],
+      "duration_ms": 145568,
+      "name": "Rockafeller Skank",
+      "url": "https://open.spotify.com/track/2CeMzUrbykkE7QWA3qlXvx"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "UNGA & FRIA",
         "url": "https://open.spotify.com/album/07w87eimESXFgxpCI191vp"
       },
@@ -675,18 +691,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Rockafeller Skank",
-        "url": "https://open.spotify.com/album/4VzJuJaV7gtjJhXMLEt9WD"
+        "name": "The Spark",
+        "url": "https://open.spotify.com/album/6xNvkXuK0QL7vr9wEsCREW"
       },
       "artists": [
         {
-          "name": "ILYAA",
-          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
+          "name": "Kabin Crew",
+          "url": "https://open.spotify.com/artist/6BHou7i94KE1FpHgDVWZEK"
+        },
+        {
+          "name": "Lisdoonvarna Crew",
+          "url": "https://open.spotify.com/artist/7BUWoquo4gsA4kREUujbSi"
         }
       ],
-      "duration_ms": 145568,
-      "name": "Rockafeller Skank",
-      "url": "https://open.spotify.com/track/2CeMzUrbykkE7QWA3qlXvx"
+      "duration_ms": 146384,
+      "name": "The Spark",
+      "url": "https://open.spotify.com/track/0bhnFakmRioZbuQcmhVwoH"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -731,26 +751,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "FULLA",
-        "url": "https://open.spotify.com/album/2yxZKoAqVmePN35Txs3L0n"
-      },
-      "artists": [
-        {
-          "name": "Silje Bakke",
-          "url": "https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c"
-        },
-        {
-          "name": "Lia Larsson",
-          "url": "https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD"
-        }
-      ],
-      "duration_ms": 141360,
-      "name": "FULLA",
-      "url": "https://open.spotify.com/track/2elQQCpDbMJZyFntQB8jFM"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Bailar (feat. Elvis Crespo) [Radio Edit]",
         "url": "https://open.spotify.com/album/1tAISk8OvvhU8V5QGuXyJS"
       },
@@ -771,18 +771,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/0wX0I9s2XCXV6IODVIwIkA"
+        "name": "FULLA",
+        "url": "https://open.spotify.com/album/2yxZKoAqVmePN35Txs3L0n"
       },
       "artists": [
         {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+          "name": "Silje Bakke",
+          "url": "https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c"
+        },
+        {
+          "name": "Lia Larsson",
+          "url": "https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD"
         }
       ],
-      "duration_ms": 165931,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/70jAESz42ftg7bQsihU6hL"
+      "duration_ms": 141360,
+      "name": "FULLA",
+      "url": "https://open.spotify.com/track/2elQQCpDbMJZyFntQB8jFM"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -807,22 +811,18 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "We No Speak Americano",
-        "url": "https://open.spotify.com/album/57qvObQidfcN8quFMvQOXm"
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/0wX0I9s2XCXV6IODVIwIkA"
       },
       "artists": [
         {
-          "name": "Yolanda Be Cool",
-          "url": "https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F"
-        },
-        {
-          "name": "DCup",
-          "url": "https://open.spotify.com/artist/6OkVmXCnj1BPjTf5aihiwt"
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
         }
       ],
-      "duration_ms": 269800,
-      "name": "We No Speak Americano",
-      "url": "https://open.spotify.com/track/0CJ1quCQhVX9Ax2jYwwovA"
+      "duration_ms": 165931,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/70jAESz42ftg7bQsihU6hL"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -847,38 +847,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Sun Goes Up",
-        "url": "https://open.spotify.com/album/0JxEJBxZUarekN0UZzV9iT"
+        "name": "We No Speak Americano",
+        "url": "https://open.spotify.com/album/57qvObQidfcN8quFMvQOXm"
       },
       "artists": [
         {
-          "name": "C3DRIC",
-          "url": "https://open.spotify.com/artist/5P2W0yAyT5iL5HzSi7uHpK"
+          "name": "Yolanda Be Cool",
+          "url": "https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F"
         },
         {
-          "name": "Eliine",
-          "url": "https://open.spotify.com/artist/1E2Zt9ZCpNq2Styo5IzYHk"
+          "name": "DCup",
+          "url": "https://open.spotify.com/artist/6OkVmXCnj1BPjTf5aihiwt"
         }
       ],
-      "duration_ms": 133200,
-      "name": "Sun Goes Up",
-      "url": "https://open.spotify.com/track/5dkOqvclwlxrYMR3RTEVrV"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Uggla Box",
-        "url": "https://open.spotify.com/album/4NsccIPhTDWkCdBVXIHPfx"
-      },
-      "artists": [
-        {
-          "name": "Magnus Uggla",
-          "url": "https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq"
-        }
-      ],
-      "duration_ms": 198053,
-      "name": "Kung f\u00f6r en dag",
-      "url": "https://open.spotify.com/track/58X2vGyNWT2ZPEaGUw1tAb"
+      "duration_ms": 269800,
+      "name": "We No Speak Americano",
+      "url": "https://open.spotify.com/track/0CJ1quCQhVX9Ax2jYwwovA"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -899,6 +883,42 @@
       "duration_ms": 182867,
       "name": "Summer Dreaming",
       "url": "https://open.spotify.com/track/5tJjs0KFkVzMWCXZGu10G8"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Uggla Box",
+        "url": "https://open.spotify.com/album/4NsccIPhTDWkCdBVXIHPfx"
+      },
+      "artists": [
+        {
+          "name": "Magnus Uggla",
+          "url": "https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq"
+        }
+      ],
+      "duration_ms": 198053,
+      "name": "Kung f\u00f6r en dag",
+      "url": "https://open.spotify.com/track/58X2vGyNWT2ZPEaGUw1tAb"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Sun Goes Up",
+        "url": "https://open.spotify.com/album/0JxEJBxZUarekN0UZzV9iT"
+      },
+      "artists": [
+        {
+          "name": "C3DRIC",
+          "url": "https://open.spotify.com/artist/5P2W0yAyT5iL5HzSi7uHpK"
+        },
+        {
+          "name": "Eliine",
+          "url": "https://open.spotify.com/artist/1E2Zt9ZCpNq2Styo5IzYHk"
+        }
+      ],
+      "duration_ms": 133200,
+      "name": "Sun Goes Up",
+      "url": "https://open.spotify.com/track/5dkOqvclwlxrYMR3RTEVrV"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -959,6 +979,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Bella Festa",
+        "url": "https://open.spotify.com/album/6aLUITxk36ysZN4b0We6cE"
+      },
+      "artists": [
+        {
+          "name": "De Vet Du",
+          "url": "https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u"
+        }
+      ],
+      "duration_ms": 117494,
+      "name": "Bella Festa",
+      "url": "https://open.spotify.com/track/7uvG84wfF2XbvEiKajw3eZ"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
         "url": "https://open.spotify.com/album/0xyf39pFfwPDJYHCIAxjVF"
       },
@@ -987,18 +1023,42 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Bella Festa",
-        "url": "https://open.spotify.com/album/6aLUITxk36ysZN4b0We6cE"
+        "name": "Om du var min Feat. EMMY",
+        "url": "https://open.spotify.com/album/5iaCqxVddsqcWvonadClWp"
       },
       "artists": [
         {
-          "name": "De Vet Du",
-          "url": "https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u"
+          "name": "J.O.X",
+          "url": "https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9"
+        },
+        {
+          "name": "EMMY",
+          "url": "https://open.spotify.com/artist/4rrI3dKjmTOzRZvOwOWOlu"
         }
       ],
-      "duration_ms": 117494,
-      "name": "Bella Festa",
-      "url": "https://open.spotify.com/track/7uvG84wfF2XbvEiKajw3eZ"
+      "duration_ms": 158896,
+      "name": "Om du var min Feat. EMMY",
+      "url": "https://open.spotify.com/track/520OGfBzjjGqVLO52KPvvC"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "VOI TILL MIN FUCKBOI",
+        "url": "https://open.spotify.com/album/2CuUNP6q3OohkEEUw2orgT"
+      },
+      "artists": [
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        },
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        }
+      ],
+      "duration_ms": 142304,
+      "name": "VOI TILL MIN FUCKBOI",
+      "url": "https://open.spotify.com/track/7MVDhCrcjzdEdZbOkZa2XV"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1039,22 +1099,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Leva/D\u00f6",
-        "url": "https://open.spotify.com/album/2fvPVTfcUKVgvsr4f2aU4X"
-      },
-      "artists": [
-        {
-          "name": "Albatraoz",
-          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
-        }
-      ],
-      "duration_ms": 152105,
-      "name": "Leva/D\u00f6",
-      "url": "https://open.spotify.com/track/2DpoXMqHG88yjwZZEcoqzM"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "PO PO PULL UP",
         "url": "https://open.spotify.com/album/5ofmwqey2otEVLQdwb8I2Z"
       },
@@ -1075,62 +1119,18 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "VOI TILL MIN FUCKBOI",
-        "url": "https://open.spotify.com/album/2CuUNP6q3OohkEEUw2orgT"
+        "name": "Leva/D\u00f6",
+        "url": "https://open.spotify.com/album/2fvPVTfcUKVgvsr4f2aU4X"
       },
       "artists": [
         {
-          "name": "FR\u00d6KEN SNUSK",
-          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
-        },
-        {
-          "name": "Rasmus Gozzi",
-          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+          "name": "Albatraoz",
+          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
         }
       ],
-      "duration_ms": 142304,
-      "name": "VOI TILL MIN FUCKBOI",
-      "url": "https://open.spotify.com/track/7MVDhCrcjzdEdZbOkZa2XV"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "SUPA (Studentl\u00e5ten)",
-        "url": "https://open.spotify.com/album/6FmEqvZ3GQUATK71XlIxak"
-      },
-      "artists": [
-        {
-          "name": "Rasmus Gozzi",
-          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
-        },
-        {
-          "name": "FR\u00d6KEN SNUSK",
-          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
-        }
-      ],
-      "duration_ms": 160519,
-      "name": "SUPA (Studentl\u00e5ten)",
-      "url": "https://open.spotify.com/track/4wWihgtVue0ILcKsXAQsEN"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Om du var min Feat. EMMY",
-        "url": "https://open.spotify.com/album/5iaCqxVddsqcWvonadClWp"
-      },
-      "artists": [
-        {
-          "name": "J.O.X",
-          "url": "https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9"
-        },
-        {
-          "name": "EMMY",
-          "url": "https://open.spotify.com/artist/4rrI3dKjmTOzRZvOwOWOlu"
-        }
-      ],
-      "duration_ms": 158896,
-      "name": "Om du var min Feat. EMMY",
-      "url": "https://open.spotify.com/track/520OGfBzjjGqVLO52KPvvC"
+      "duration_ms": 152105,
+      "name": "Leva/D\u00f6",
+      "url": "https://open.spotify.com/track/2DpoXMqHG88yjwZZEcoqzM"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1151,6 +1151,26 @@
       "duration_ms": 149499,
       "name": "Soffa fr\u00e5n IKEA",
       "url": "https://open.spotify.com/track/31hIfKm7C5TroLqa2Lubap"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "SUPA (Studentl\u00e5ten)",
+        "url": "https://open.spotify.com/album/6FmEqvZ3GQUATK71XlIxak"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        }
+      ],
+      "duration_ms": 160519,
+      "name": "SUPA (Studentl\u00e5ten)",
+      "url": "https://open.spotify.com/track/4wWihgtVue0ILcKsXAQsEN"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1187,6 +1207,26 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Sommarn\u00e4tter",
+        "url": "https://open.spotify.com/album/1aC01cXxZVXtqigdiN5RQu"
+      },
+      "artists": [
+        {
+          "name": "PERZZONA",
+          "url": "https://open.spotify.com/artist/4WId87hZzznRDnqwQQLyeC"
+        },
+        {
+          "name": "J.O.X",
+          "url": "https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9"
+        }
+      ],
+      "duration_ms": 144874,
+      "name": "Sommarn\u00e4tter",
+      "url": "https://open.spotify.com/track/3c1KrqOhuqTigFZTev07rK"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Vad b\u00e4nkar du?",
         "url": "https://open.spotify.com/album/5WO3CjAea8nJIB0CLJNOuv"
       },
@@ -1215,26 +1255,6 @@
       "duration_ms": 184258,
       "name": "MEDVETSL\u00d6S",
       "url": "https://open.spotify.com/track/0vNFRCUrTjjD70nzpjBSxy"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Sommarn\u00e4tter",
-        "url": "https://open.spotify.com/album/1aC01cXxZVXtqigdiN5RQu"
-      },
-      "artists": [
-        {
-          "name": "PERZZONA",
-          "url": "https://open.spotify.com/artist/4WId87hZzznRDnqwQQLyeC"
-        },
-        {
-          "name": "J.O.X",
-          "url": "https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9"
-        }
-      ],
-      "duration_ms": 144874,
-      "name": "Sommarn\u00e4tter",
-      "url": "https://open.spotify.com/track/3c1KrqOhuqTigFZTev07rK"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1283,26 +1303,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "HELAN G\u00c5R",
-        "url": "https://open.spotify.com/album/4sJqw8dnkNombjj84qXhrb"
-      },
-      "artists": [
-        {
-          "name": "Louise Andersson Bodin",
-          "url": "https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE"
-        },
-        {
-          "name": "MADNEZZ",
-          "url": "https://open.spotify.com/artist/5lmx6s9v76pWT7alLaiL9b"
-        }
-      ],
-      "duration_ms": 103291,
-      "name": "HELAN G\u00c5R",
-      "url": "https://open.spotify.com/track/5Isz9KOquPmsHmL6gWw2b2"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "ALLA F\u00c5R KOMMA",
         "url": "https://open.spotify.com/album/7izPnVoMJlAbo5eH23Oce8"
       },
@@ -1323,6 +1323,26 @@
       "duration_ms": 144732,
       "name": "ALLA F\u00c5R KOMMA",
       "url": "https://open.spotify.com/track/5hfJmnBWRsot4uJeVYc7xX"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "HELAN G\u00c5R",
+        "url": "https://open.spotify.com/album/4sJqw8dnkNombjj84qXhrb"
+      },
+      "artists": [
+        {
+          "name": "Louise Andersson Bodin",
+          "url": "https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE"
+        },
+        {
+          "name": "MADNEZZ",
+          "url": "https://open.spotify.com/artist/5lmx6s9v76pWT7alLaiL9b"
+        }
+      ],
+      "duration_ms": 103291,
+      "name": "HELAN G\u00c5R",
+      "url": "https://open.spotify.com/track/5Isz9KOquPmsHmL6gWw2b2"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1387,26 +1407,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "PRIPPS I L\u00c5NGBURK",
-        "url": "https://open.spotify.com/album/1EXl5ML4D40WYVEGWjOCcX"
-      },
-      "artists": [
-        {
-          "name": "vem e du",
-          "url": "https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ"
-        },
-        {
-          "name": "Banditerna",
-          "url": "https://open.spotify.com/artist/2M0RKn1NTwiZsfqXuSaKpQ"
-        }
-      ],
-      "duration_ms": 95438,
-      "name": "PRIPPS I L\u00c5NGBURK",
-      "url": "https://open.spotify.com/track/1iDImQzAyl6Nm5tlyTUJVT"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Mwaki (Timmy Trumpet Remix)",
         "url": "https://open.spotify.com/album/3lSaV7UGZKKTBxhZEluKDk"
       },
@@ -1431,22 +1431,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "The Spark",
-        "url": "https://open.spotify.com/album/6xNvkXuK0QL7vr9wEsCREW"
+        "name": "PRIPPS I L\u00c5NGBURK",
+        "url": "https://open.spotify.com/album/1EXl5ML4D40WYVEGWjOCcX"
       },
       "artists": [
         {
-          "name": "Kabin Crew",
-          "url": "https://open.spotify.com/artist/6BHou7i94KE1FpHgDVWZEK"
+          "name": "vem e du",
+          "url": "https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ"
         },
         {
-          "name": "Lisdoonvarna Crew",
-          "url": "https://open.spotify.com/artist/7BUWoquo4gsA4kREUujbSi"
+          "name": "Banditerna",
+          "url": "https://open.spotify.com/artist/2M0RKn1NTwiZsfqXuSaKpQ"
         }
       ],
-      "duration_ms": 146384,
-      "name": "The Spark",
-      "url": "https://open.spotify.com/track/0bhnFakmRioZbuQcmhVwoH"
+      "duration_ms": 95438,
+      "name": "PRIPPS I L\u00c5NGBURK",
+      "url": "https://open.spotify.com/track/1iDImQzAyl6Nm5tlyTUJVT"
     },
     {
       "added_at": "2024-06-13 22:00:00",

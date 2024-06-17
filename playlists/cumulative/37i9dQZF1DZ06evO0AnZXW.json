@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-08",
-  "description": "This is XXXTENTACION. The essential tracks, all in one playlist.",
+  "description": "This Is XXXTENTACION. Z\u00e1sadn\u00ed skladby, v\u0161echny v\u00a0jednom playlistu.",
   "name": "This Is XXXTENTACION",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 173320,
       "name": "#ImSippinTeaInYoHood",
       "url": "https://open.spotify.com/track/2z6W6oeZvBaO56Mg587v0w"
@@ -202,7 +202,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 99658,
       "name": "before I close my eyes",
       "url": "https://open.spotify.com/track/16x9bQHw8TBNaGDyULvwad"
@@ -442,7 +442,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-28",
+      "date_removed": null,
       "duration_ms": 93447,
       "name": "Floor 555",
       "url": "https://open.spotify.com/track/6r7ULK6c5CLVvImjTIztl1"
@@ -522,7 +522,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 103986,
       "name": "hate will never win",
       "url": "https://open.spotify.com/track/3TzgIJC8U7o57nx8xnWvnt"
@@ -624,7 +624,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 192229,
       "name": "I don\u2019t even speak spanish lol - feat. Rio Santana, Judah, Andrez Babii",
       "url": "https://open.spotify.com/track/14boA065HMHWvqyPPEeN4y"
@@ -690,6 +690,28 @@
       "duration_ms": 176590,
       "name": "infinity (888) - feat. Joey Bada$$",
       "url": "https://open.spotify.com/track/7J2gyNghNTzl4EsLhXp01Q"
+    },
+    {
+      "album": {
+        "name": "11th Dimension",
+        "url": "https://open.spotify.com/album/4Ioudl1Qx3fTh5AMOYRBvf"
+      },
+      "artists": [
+        {
+          "name": "Ski Mask The Slump God",
+          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62750,
+      "name": "Jah's Interlude (feat. XXXTENTACION)",
+      "url": "https://open.spotify.com/track/7zV7Liwc0902KEGFv8ssQG"
     },
     {
       "album": {
@@ -852,7 +874,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 186267,
       "name": "NUMB",
       "url": "https://open.spotify.com/track/01TnVDiet1DFTsyWKUKovl"
@@ -1008,7 +1030,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 166605,
       "name": "SAD!",
       "url": "https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2"
@@ -1096,7 +1118,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-16",
+      "date_removed": null,
       "duration_ms": 209107,
       "name": "Slipknot",
       "url": "https://open.spotify.com/track/2NaIkDKuKrAcHoj8moeIQV"
@@ -1140,7 +1162,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-16",
+      "date_removed": null,
       "duration_ms": 210386,
       "name": "Take A Step Back",
       "url": "https://open.spotify.com/track/2gQYziDV5cSTRSqr6akzi5"
@@ -1158,7 +1180,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 160184,
       "name": "the remedy for a broken heart (why am I so in love)",
       "url": "https://open.spotify.com/track/4UKCKdYiLN6IMA5ZESUTL7"

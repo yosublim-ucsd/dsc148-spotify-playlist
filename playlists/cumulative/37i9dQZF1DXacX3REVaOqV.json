@@ -5790,7 +5790,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 265365,
       "name": "Now Or Never - Gregor Salto Radio Edit",
       "url": "https://open.spotify.com/track/6SKfEQtJtub7opGLeMSd0m"
@@ -7234,6 +7234,32 @@
       "duration_ms": 445946,
       "name": "Sinfonia Della Notte",
       "url": "https://open.spotify.com/track/14iTtRdW9NJ1K3TKn7KR4T"
+    },
+    {
+      "album": {
+        "name": "Siria",
+        "url": "https://open.spotify.com/album/4Vdoliff2jpy7BcFzivmtQ"
+      },
+      "artists": [
+        {
+          "name": "Rob Manga",
+          "url": "https://open.spotify.com/artist/2ML0pLLTPGJVaMFcHdOU9f"
+        },
+        {
+          "name": "Gregor Salto",
+          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
+        },
+        {
+          "name": "Luiz Eduardo",
+          "url": "https://open.spotify.com/artist/46QYKS2a0d9CFnHYJmVHOD"
+        }
+      ],
+      "date_added": "2024-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120480,
+      "name": "Siria",
+      "url": "https://open.spotify.com/track/1keaNjg2Rlwg49IAEF8UMC"
     },
     {
       "album": {

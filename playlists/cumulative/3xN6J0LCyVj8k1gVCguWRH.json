@@ -1149,6 +1149,24 @@
     },
     {
       "album": {
+        "name": "A Little Bit Of Honey",
+        "url": "https://open.spotify.com/album/5hyuC8ffnoLUTfkBb9zzxQ"
+      },
+      "artists": [
+        {
+          "name": "Marius Billgobenson",
+          "url": "https://open.spotify.com/artist/5LshlgMg104Dihupzy7GBo"
+        }
+      ],
+      "date_added": "2024-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318840,
+      "name": "A Little Bit Of Honey",
+      "url": "https://open.spotify.com/track/6EVHVCQ5bGyjh0MedmOBLK"
+    },
+    {
+      "album": {
         "name": "A Little More",
         "url": "https://open.spotify.com/album/08MkaEmLn6GsAcjFQ8OUfg"
       },
@@ -3128,7 +3146,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 187480,
       "name": "Always",
       "url": "https://open.spotify.com/track/4P2dm3RqDbYG4LZ4pN4dLc"
@@ -17687,6 +17705,24 @@
     },
     {
       "album": {
+        "name": "Ethereal Mood",
+        "url": "https://open.spotify.com/album/0Tnth2UeLvTchfO9z7cVCR"
+      },
+      "artists": [
+        {
+          "name": "ERLY",
+          "url": "https://open.spotify.com/artist/2z7Bw7TpA0GEbtU3dJRK6I"
+        }
+      ],
+      "date_added": "2024-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208315,
+      "name": "Ethereal Mood",
+      "url": "https://open.spotify.com/track/7fzMyMFoOtewaSSYYK7J8g"
+    },
+    {
+      "album": {
         "name": "Euphoria",
         "url": "https://open.spotify.com/album/1VpTGuftlixn7vMVyfFTFU"
       },
@@ -23368,7 +23404,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 176172,
       "name": "Goodbyes",
       "url": "https://open.spotify.com/track/3a86vrsmi1lDfqw1nGQHux"
@@ -31738,7 +31774,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 59836,
       "name": "Le D\u00e9part",
       "url": "https://open.spotify.com/track/0FTpFi1BlqoBVELlh7jK50"
@@ -32696,6 +32732,28 @@
       "duration_ms": 222857,
       "name": "Life Affirming - Remix",
       "url": "https://open.spotify.com/track/6Q3zl74sireBnF4Q8n4n1N"
+    },
+    {
+      "album": {
+        "name": "Life Comes from the Sun (Dale's Radio Edit)",
+        "url": "https://open.spotify.com/album/4bGtyCS8xe8VvR1oSOOWMB"
+      },
+      "artists": [
+        {
+          "name": "Byamm",
+          "url": "https://open.spotify.com/artist/7LrZ3vUOQx9GMBzz94CNzv"
+        },
+        {
+          "name": "Dale",
+          "url": "https://open.spotify.com/artist/0qsQcIKGYlnopYZn8sSLPh"
+        }
+      ],
+      "date_added": "2024-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220613,
+      "name": "Life Comes from the Sun (Dale's Radio Edit)",
+      "url": "https://open.spotify.com/track/6QcONDPHQjHyVPZTbsbEgP"
     },
     {
       "album": {
@@ -34978,7 +35036,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"

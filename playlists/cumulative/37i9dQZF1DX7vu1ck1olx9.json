@@ -3390,7 +3390,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 163764,
       "name": "night.owls",
       "url": "https://open.spotify.com/track/2bFnRt6WKhNw4maKOxLyj3"
@@ -4602,7 +4602,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 118518,
       "name": "Sonar",
       "url": "https://open.spotify.com/track/2WqVy95w7d9XloMp9zUsjG"
@@ -4902,6 +4902,24 @@
       "duration_ms": 80000,
       "name": "Suave",
       "url": "https://open.spotify.com/track/1PS3K87McFoH9jI9RAgmnr"
+    },
+    {
+      "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/0Odh9MaSEKZD5C9bn5ZPfG"
+      },
+      "artists": [
+        {
+          "name": "Asokiah",
+          "url": "https://open.spotify.com/artist/4uGUzUAhZFtLDYLCR6THc5"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/08fWv17k9llzVRJ4hxq2aX"
     },
     {
       "album": {
@@ -5524,6 +5542,24 @@
       "duration_ms": 155200,
       "name": "Umbrellas",
       "url": "https://open.spotify.com/track/5PwVDKa5tAPIYRiRF21pnC"
+    },
+    {
+      "album": {
+        "name": "Under the Moon",
+        "url": "https://open.spotify.com/album/1FIsq8iNelMqHuXctToihT"
+      },
+      "artists": [
+        {
+          "name": "Tropicolor",
+          "url": "https://open.spotify.com/artist/0C33MFjaSg48bmzyUkSAoO"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Under the Moon",
+      "url": "https://open.spotify.com/track/2f1ksx2y6I207HVlilYBBZ"
     },
     {
       "album": {

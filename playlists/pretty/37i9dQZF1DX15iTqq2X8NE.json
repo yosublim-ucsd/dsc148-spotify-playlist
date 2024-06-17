@@ -1,6 +1,6 @@
 {
   "description": "A journey in the modern & old Sudanese sounds.\n",
-  "num_followers": 18269,
+  "num_followers": 18270,
   "original_name": "Sudan Sounds",
   "owner": {
     "name": "Spotify",
@@ -159,58 +159,6 @@
     {
       "added_at": "2024-01-22 14:03:50",
       "album": {
-        "name": "Fawda | \u0641\u0648\u0636\u064a",
-        "url": "https://open.spotify.com/album/3nvEPbZmYCfINY95gXb5xr"
-      },
-      "artists": [
-        {
-          "name": "Hleem Taj Alser",
-          "url": "https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN"
-        },
-        {
-          "name": "Dj Reo",
-          "url": "https://open.spotify.com/artist/2wNCR677docA3slrerB4Bl"
-        }
-      ],
-      "duration_ms": 255059,
-      "name": "Fawda | \u0641\u0648\u0636\u064a",
-      "url": "https://open.spotify.com/track/09anZUksJfj5f1BbphM5lV"
-    },
-    {
-      "added_at": "2024-01-22 14:03:50",
-      "album": {
-        "name": "Warm Pants",
-        "url": "https://open.spotify.com/album/7Aa1y7FVfTeMlcToaq2HoN"
-      },
-      "artists": [
-        {
-          "name": "Dua Saleh",
-          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
-        }
-      ],
-      "duration_ms": 314000,
-      "name": "Warm Pants",
-      "url": "https://open.spotify.com/track/11ZY9wPKm72osWrXBPYoSc"
-    },
-    {
-      "added_at": "2024-01-22 14:03:50",
-      "album": {
-        "name": "DOPAMINE",
-        "url": "https://open.spotify.com/album/29yH3NTWxPeFUpZTfHm0nA"
-      },
-      "artists": [
-        {
-          "name": "Dafencii",
-          "url": "https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv"
-        }
-      ],
-      "duration_ms": 134328,
-      "name": "DOPAMINE",
-      "url": "https://open.spotify.com/track/2mX3Udxyayq72cbJhlpaho"
-    },
-    {
-      "added_at": "2024-01-22 14:03:50",
-      "album": {
         "name": "Sudaniyat",
         "url": "https://open.spotify.com/album/4qKyrkwm1F2CvDUx6OGAw5"
       },
@@ -271,22 +219,6 @@
     {
       "added_at": "2024-01-22 14:03:50",
       "album": {
-        "name": "Fantastic",
-        "url": "https://open.spotify.com/album/2kwi1bM3Xh3vIV0AlMoQvH"
-      },
-      "artists": [
-        {
-          "name": "Soulja",
-          "url": "https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN"
-        }
-      ],
-      "duration_ms": 152404,
-      "name": "Fantastic",
-      "url": "https://open.spotify.com/track/6RjS6MPgwJZF46uIZ42xKo"
-    },
-    {
-      "added_at": "2024-01-22 14:03:50",
-      "album": {
         "name": "Ghadara",
         "url": "https://open.spotify.com/album/12AoBSJdRUTki8mNWS6VOR"
       },
@@ -303,18 +235,70 @@
     {
       "added_at": "2024-01-22 14:03:50",
       "album": {
-        "name": "Bouquets (Freestyle)",
-        "url": "https://open.spotify.com/album/6sqH8lc5qVrsvtRMJWcTtq"
+        "name": "DOPAMINE",
+        "url": "https://open.spotify.com/album/29yH3NTWxPeFUpZTfHm0nA"
       },
       "artists": [
         {
-          "name": "G-SALIH",
-          "url": "https://open.spotify.com/artist/3scwYk1hqSSlet4g32bRw6"
+          "name": "Dafencii",
+          "url": "https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv"
         }
       ],
-      "duration_ms": 192333,
-      "name": "Bouquets (Freestyle)",
-      "url": "https://open.spotify.com/track/4A52eJ2VD8d2wQxaH4ckMv"
+      "duration_ms": 134328,
+      "name": "DOPAMINE",
+      "url": "https://open.spotify.com/track/2mX3Udxyayq72cbJhlpaho"
+    },
+    {
+      "added_at": "2024-01-22 14:03:50",
+      "album": {
+        "name": "Warm Pants",
+        "url": "https://open.spotify.com/album/7Aa1y7FVfTeMlcToaq2HoN"
+      },
+      "artists": [
+        {
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+        }
+      ],
+      "duration_ms": 314000,
+      "name": "Warm Pants",
+      "url": "https://open.spotify.com/track/11ZY9wPKm72osWrXBPYoSc"
+    },
+    {
+      "added_at": "2024-01-22 14:03:50",
+      "album": {
+        "name": "Fawda | \u0641\u0648\u0636\u064a",
+        "url": "https://open.spotify.com/album/3nvEPbZmYCfINY95gXb5xr"
+      },
+      "artists": [
+        {
+          "name": "Hleem Taj Alser",
+          "url": "https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN"
+        },
+        {
+          "name": "Dj Reo",
+          "url": "https://open.spotify.com/artist/2wNCR677docA3slrerB4Bl"
+        }
+      ],
+      "duration_ms": 255059,
+      "name": "Fawda | \u0641\u0648\u0636\u064a",
+      "url": "https://open.spotify.com/track/09anZUksJfj5f1BbphM5lV"
+    },
+    {
+      "added_at": "2024-01-22 14:03:50",
+      "album": {
+        "name": "Fantastic",
+        "url": "https://open.spotify.com/album/2kwi1bM3Xh3vIV0AlMoQvH"
+      },
+      "artists": [
+        {
+          "name": "Soulja",
+          "url": "https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN"
+        }
+      ],
+      "duration_ms": 152404,
+      "name": "Fantastic",
+      "url": "https://open.spotify.com/track/6RjS6MPgwJZF46uIZ42xKo"
     },
     {
       "added_at": "2024-01-22 14:03:50",
@@ -339,18 +323,18 @@
     {
       "added_at": "2024-01-22 14:03:50",
       "album": {
-        "name": "\u0627\u0644\u062d\u0642\u064a\u0642\u0629",
-        "url": "https://open.spotify.com/album/6BfJKMdN2X8QIDODtHWLIE"
+        "name": "Bouquets (Freestyle)",
+        "url": "https://open.spotify.com/album/6sqH8lc5qVrsvtRMJWcTtq"
       },
       "artists": [
         {
-          "name": "Connan",
-          "url": "https://open.spotify.com/artist/2rwkjlKZ4WoJXfkqUt3L45"
+          "name": "G-SALIH",
+          "url": "https://open.spotify.com/artist/3scwYk1hqSSlet4g32bRw6"
         }
       ],
-      "duration_ms": 126101,
-      "name": "\u0627\u0644\u062d\u0642\u064a\u0642\u0629",
-      "url": "https://open.spotify.com/track/3R3kbAiHl5Ir08AIWkmoAb"
+      "duration_ms": 192333,
+      "name": "Bouquets (Freestyle)",
+      "url": "https://open.spotify.com/track/4A52eJ2VD8d2wQxaH4ckMv"
     },
     {
       "added_at": "2024-01-22 14:03:50",
@@ -371,22 +355,6 @@
     {
       "added_at": "2024-01-22 14:03:50",
       "album": {
-        "name": "TARAT ALTAYARA",
-        "url": "https://open.spotify.com/album/4iMrkh6Bh24sQvhQ28uDbu"
-      },
-      "artists": [
-        {
-          "name": "Dafencii",
-          "url": "https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv"
-        }
-      ],
-      "duration_ms": 122412,
-      "name": "TARAT ALTAYARA",
-      "url": "https://open.spotify.com/track/50FN7D4vPEJCTzt7KXAyD1"
-    },
-    {
-      "added_at": "2024-01-22 14:03:50",
-      "album": {
         "name": "3bdo Mota",
         "url": "https://open.spotify.com/album/0JP5fr97ytUIM5IYzAzDw2"
       },
@@ -403,38 +371,34 @@
     {
       "added_at": "2024-01-22 14:03:50",
       "album": {
-        "name": "Apocalypto",
-        "url": "https://open.spotify.com/album/7c84xKcwZ06RQgsd3HoOl2"
+        "name": "\u0627\u0644\u062d\u0642\u064a\u0642\u0629",
+        "url": "https://open.spotify.com/album/6BfJKMdN2X8QIDODtHWLIE"
       },
       "artists": [
         {
-          "name": "TooDope",
-          "url": "https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd"
+          "name": "Connan",
+          "url": "https://open.spotify.com/artist/2rwkjlKZ4WoJXfkqUt3L45"
         }
       ],
-      "duration_ms": 177884,
-      "name": "Apocalypto",
-      "url": "https://open.spotify.com/track/3RTdo0zHATe4q1FI6iPTng"
+      "duration_ms": 126101,
+      "name": "\u0627\u0644\u062d\u0642\u064a\u0642\u0629",
+      "url": "https://open.spotify.com/track/3R3kbAiHl5Ir08AIWkmoAb"
     },
     {
       "added_at": "2024-01-22 14:03:50",
       "album": {
-        "name": "Sit Al Banat (feat. Sheme)",
-        "url": "https://open.spotify.com/album/7gwGg3MoOvIUPe0kQ4lonz"
+        "name": "TARAT ALTAYARA",
+        "url": "https://open.spotify.com/album/4iMrkh6Bh24sQvhQ28uDbu"
       },
       "artists": [
         {
-          "name": "MarSimba",
-          "url": "https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W"
-        },
-        {
-          "name": "Sheme",
-          "url": "https://open.spotify.com/artist/5XKKqryFZZpWO2oVEbBesD"
+          "name": "Dafencii",
+          "url": "https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv"
         }
       ],
-      "duration_ms": 206424,
-      "name": "Sit Al Banat (feat. Sheme)",
-      "url": "https://open.spotify.com/track/6epkYhfZvmAYz6dbAgP2Jw"
+      "duration_ms": 122412,
+      "name": "TARAT ALTAYARA",
+      "url": "https://open.spotify.com/track/50FN7D4vPEJCTzt7KXAyD1"
     },
     {
       "added_at": "2024-01-22 14:03:50",
@@ -455,6 +419,58 @@
       "duration_ms": 136001,
       "name": "Caribby",
       "url": "https://open.spotify.com/track/7L2S4kdbsp2NzM3Q3OjyKi"
+    },
+    {
+      "added_at": "2024-01-22 14:03:50",
+      "album": {
+        "name": "Apocalypto",
+        "url": "https://open.spotify.com/album/7c84xKcwZ06RQgsd3HoOl2"
+      },
+      "artists": [
+        {
+          "name": "TooDope",
+          "url": "https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd"
+        }
+      ],
+      "duration_ms": 177884,
+      "name": "Apocalypto",
+      "url": "https://open.spotify.com/track/3RTdo0zHATe4q1FI6iPTng"
+    },
+    {
+      "added_at": "2024-01-22 14:03:50",
+      "album": {
+        "name": "Modarab",
+        "url": "https://open.spotify.com/album/3dzdj41YMNwyT4BPoCpujO"
+      },
+      "artists": [
+        {
+          "name": "Montiyago",
+          "url": "https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "Modarab",
+      "url": "https://open.spotify.com/track/4FmRfOUWREoooYkcT9DFW6"
+    },
+    {
+      "added_at": "2024-01-22 14:03:50",
+      "album": {
+        "name": "Sit Al Banat (feat. Sheme)",
+        "url": "https://open.spotify.com/album/7gwGg3MoOvIUPe0kQ4lonz"
+      },
+      "artists": [
+        {
+          "name": "MarSimba",
+          "url": "https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W"
+        },
+        {
+          "name": "Sheme",
+          "url": "https://open.spotify.com/artist/5XKKqryFZZpWO2oVEbBesD"
+        }
+      ],
+      "duration_ms": 206424,
+      "name": "Sit Al Banat (feat. Sheme)",
+      "url": "https://open.spotify.com/track/6epkYhfZvmAYz6dbAgP2Jw"
     },
     {
       "added_at": "2024-01-22 14:03:50",
@@ -527,8 +543,8 @@
     {
       "added_at": "2024-01-22 14:03:50",
       "album": {
-        "name": "Modarab",
-        "url": "https://open.spotify.com/album/3dzdj41YMNwyT4BPoCpujO"
+        "name": "Kalam Kteer",
+        "url": "https://open.spotify.com/album/7ticL8OnOkr0oJ9VdssO3a"
       },
       "artists": [
         {
@@ -536,9 +552,9 @@
           "url": "https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk"
         }
       ],
-      "duration_ms": 131000,
-      "name": "Modarab",
-      "url": "https://open.spotify.com/track/4FmRfOUWREoooYkcT9DFW6"
+      "duration_ms": 172593,
+      "name": "Kalam Kteer",
+      "url": "https://open.spotify.com/track/2MPhQqiPRsHJUVZqAW3xNi"
     },
     {
       "added_at": "2024-01-22 14:03:50",
@@ -579,26 +595,6 @@
     {
       "added_at": "2024-01-22 14:03:50",
       "album": {
-        "name": "Hollanda",
-        "url": "https://open.spotify.com/album/3kgNHqvzzItDSbhn6tEAVl"
-      },
-      "artists": [
-        {
-          "name": "Walgz",
-          "url": "https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT"
-        },
-        {
-          "name": "MaMan",
-          "url": "https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30"
-        }
-      ],
-      "duration_ms": 194841,
-      "name": "Red (feat. MaMan)",
-      "url": "https://open.spotify.com/track/2PJHJevFPEFWn0CwMv4yZF"
-    },
-    {
-      "added_at": "2024-01-22 14:03:50",
-      "album": {
         "name": "Zaman Maf",
         "url": "https://open.spotify.com/album/5m1ZHWPTBZq9V7xeV27IO3"
       },
@@ -619,22 +615,22 @@
     {
       "added_at": "2024-01-22 14:03:50",
       "album": {
-        "name": "Tnt: Injaz",
-        "url": "https://open.spotify.com/album/08nO4dVa88kyXFzL89vMVf"
+        "name": "Hollanda",
+        "url": "https://open.spotify.com/album/3kgNHqvzzItDSbhn6tEAVl"
       },
       "artists": [
         {
-          "name": "Rotation",
-          "url": "https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So"
+          "name": "Walgz",
+          "url": "https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT"
         },
         {
-          "name": "TooDope",
-          "url": "https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd"
+          "name": "MaMan",
+          "url": "https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30"
         }
       ],
-      "duration_ms": 220164,
-      "name": "Ejaza",
-      "url": "https://open.spotify.com/track/5gZV4PSCLqcDVPklLfqmHk"
+      "duration_ms": 194841,
+      "name": "Red (feat. MaMan)",
+      "url": "https://open.spotify.com/track/2PJHJevFPEFWn0CwMv4yZF"
     },
     {
       "added_at": "2024-01-22 14:03:50",
@@ -655,22 +651,6 @@
     {
       "added_at": "2024-01-22 14:03:50",
       "album": {
-        "name": "Kalam Kteer",
-        "url": "https://open.spotify.com/album/7ticL8OnOkr0oJ9VdssO3a"
-      },
-      "artists": [
-        {
-          "name": "Montiyago",
-          "url": "https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk"
-        }
-      ],
-      "duration_ms": 172593,
-      "name": "Kalam Kteer",
-      "url": "https://open.spotify.com/track/2MPhQqiPRsHJUVZqAW3xNi"
-    },
-    {
-      "added_at": "2024-01-22 14:03:50",
-      "album": {
         "name": "Ganay Albreedo",
         "url": "https://open.spotify.com/album/1dntlbkIw0jZGk3HIDxu2q"
       },
@@ -687,34 +667,22 @@
     {
       "added_at": "2024-01-22 14:03:50",
       "album": {
-        "name": "HYDR",
-        "url": "https://open.spotify.com/album/2vOm3Yvo9VjTU73WJRfLyA"
+        "name": "Tnt: Injaz",
+        "url": "https://open.spotify.com/album/08nO4dVa88kyXFzL89vMVf"
       },
       "artists": [
         {
-          "name": "Mvndila",
-          "url": "https://open.spotify.com/artist/4xChDGJOSeebJva9pcvmSJ"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "sxcbnda",
-      "url": "https://open.spotify.com/track/6RK9RIMO12fdRKVfzxN5JH"
-    },
-    {
-      "added_at": "2024-01-22 14:03:50",
-      "album": {
-        "name": "Marsa",
-        "url": "https://open.spotify.com/album/4dEXa6zSQParkOq7js55Jt"
-      },
-      "artists": [
+          "name": "Rotation",
+          "url": "https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So"
+        },
         {
-          "name": "Walgz",
-          "url": "https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT"
+          "name": "TooDope",
+          "url": "https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd"
         }
       ],
-      "duration_ms": 176750,
-      "name": "Marsa",
-      "url": "https://open.spotify.com/track/59LnpUJtFTYVYo1JBN8vsO"
+      "duration_ms": 220164,
+      "name": "Ejaza",
+      "url": "https://open.spotify.com/track/5gZV4PSCLqcDVPklLfqmHk"
     },
     {
       "added_at": "2024-01-22 14:03:50",
@@ -751,6 +719,42 @@
       "duration_ms": 288008,
       "name": "Matalib",
       "url": "https://open.spotify.com/track/0chh0JBXHHvrOymWelevQM"
+    },
+    {
+      "added_at": "2024-01-22 14:03:50",
+      "album": {
+        "name": "Nuba",
+        "url": "https://open.spotify.com/album/5GAeFMPBckZec9KiQDmy4P"
+      },
+      "artists": [
+        {
+          "name": "Mvndila",
+          "url": "https://open.spotify.com/artist/4xChDGJOSeebJva9pcvmSJ"
+        },
+        {
+          "name": "Rotation",
+          "url": "https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So"
+        }
+      ],
+      "duration_ms": 248633,
+      "name": "Nuba",
+      "url": "https://open.spotify.com/track/5Rww2ayeOPenb1neGq4fV3"
+    },
+    {
+      "added_at": "2024-01-22 14:03:50",
+      "album": {
+        "name": "Marsa",
+        "url": "https://open.spotify.com/album/4dEXa6zSQParkOq7js55Jt"
+      },
+      "artists": [
+        {
+          "name": "Walgz",
+          "url": "https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT"
+        }
+      ],
+      "duration_ms": 176750,
+      "name": "Marsa",
+      "url": "https://open.spotify.com/track/59LnpUJtFTYVYo1JBN8vsO"
     },
     {
       "added_at": "2024-01-22 14:03:50",
@@ -859,38 +863,34 @@
     {
       "added_at": "2024-01-22 14:03:50",
       "album": {
-        "name": "Nuba",
-        "url": "https://open.spotify.com/album/5GAeFMPBckZec9KiQDmy4P"
+        "name": "HYDR",
+        "url": "https://open.spotify.com/album/2vOm3Yvo9VjTU73WJRfLyA"
       },
       "artists": [
         {
           "name": "Mvndila",
           "url": "https://open.spotify.com/artist/4xChDGJOSeebJva9pcvmSJ"
-        },
-        {
-          "name": "Rotation",
-          "url": "https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So"
         }
       ],
-      "duration_ms": 248633,
-      "name": "Nuba",
-      "url": "https://open.spotify.com/track/5Rww2ayeOPenb1neGq4fV3"
+      "duration_ms": 174000,
+      "name": "sxcbnda",
+      "url": "https://open.spotify.com/track/6RK9RIMO12fdRKVfzxN5JH"
     },
     {
       "added_at": "2024-01-22 14:03:50",
       "album": {
-        "name": "View From Somewhere",
-        "url": "https://open.spotify.com/album/3Kv4BSX3GJrngRKK61JKR8"
+        "name": "O'd the EP",
+        "url": "https://open.spotify.com/album/3yPFtPM6fwAlfbr1pLkp9I"
       },
       "artists": [
         {
-          "name": "Amira Kheir",
-          "url": "https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh"
+          "name": "O'd",
+          "url": "https://open.spotify.com/artist/0LwmaxKGW5M2qF7Mas5ejk"
         }
       ],
-      "duration_ms": 308280,
-      "name": "Ahel Allel",
-      "url": "https://open.spotify.com/track/7km3RkjOhMJFs0N5kMuFot"
+      "duration_ms": 313220,
+      "name": "Waraga",
+      "url": "https://open.spotify.com/track/5d7lKOsOxblM7m6uI4nz9J"
     }
   ],
   "unique_name": "Sudan Sounds",

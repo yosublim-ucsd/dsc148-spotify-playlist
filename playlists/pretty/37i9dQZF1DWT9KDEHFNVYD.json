@@ -1,6 +1,6 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations. CAN on cover.",
-  "num_followers": 12540,
+  "num_followers": 12548,
   "original_name": "Krautrock",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Flying Microtonal Banana",
-        "url": "https://open.spotify.com/album/4G9ANFGk9579p2uirMbVT0"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 468093,
-      "name": "Rattlesnake",
-      "url": "https://open.spotify.com/track/4HOnIpqP8txGle3UvfjStU"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Sound of Silver",
         "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 235226,
       "name": "Watch the Tapes",
       "url": "https://open.spotify.com/track/4tzg6aQGUBL6YMOASdLkjN"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Zuckerzeit",
+        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
+      },
+      "artists": [
+        {
+          "name": "Cluster",
+          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
+        }
+      ],
+      "duration_ms": 141160,
+      "name": "Hei\u00dfe Lippen",
+      "url": "https://open.spotify.com/track/7gZZfNIWxgA8zs5YxVdiFe"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -251,18 +251,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Zuckerzeit",
-        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
+        "name": "Flying Microtonal Banana",
+        "url": "https://open.spotify.com/album/4G9ANFGk9579p2uirMbVT0"
       },
       "artists": [
         {
-          "name": "Cluster",
-          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
         }
       ],
-      "duration_ms": 141160,
-      "name": "Hei\u00dfe Lippen",
-      "url": "https://open.spotify.com/track/7gZZfNIWxgA8zs5YxVdiFe"
+      "duration_ms": 468093,
+      "name": "Rattlesnake",
+      "url": "https://open.spotify.com/track/4HOnIpqP8txGle3UvfjStU"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -511,18 +511,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "No Shouts, No Calls",
-        "url": "https://open.spotify.com/album/5UgqB0fJd5lI58r6tPJNMs"
+        "name": "Zuckerzeit",
+        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
       },
       "artists": [
         {
-          "name": "Electrelane",
-          "url": "https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY"
+          "name": "Cluster",
+          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
         }
       ],
-      "duration_ms": 295026,
-      "name": "To the East",
-      "url": "https://open.spotify.com/track/1bzQEsGH0KEMLt9ZlJ3vmk"
+      "duration_ms": 189040,
+      "name": "Caramel",
+      "url": "https://open.spotify.com/track/2OqsnTNCy43fwWAVmkiJj8"
     },
     {
       "added_at": "2024-04-09 16:27:14",
@@ -541,20 +541,20 @@
       "url": "https://open.spotify.com/track/0GNWAR5YioLyQSZMXMjBX4"
     },
     {
-      "added_at": "2023-01-25 02:05:47",
+      "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Blackouts",
-        "url": "https://open.spotify.com/album/140BMrMHrJKORgGdutEFde"
+        "name": "No Shouts, No Calls",
+        "url": "https://open.spotify.com/album/5UgqB0fJd5lI58r6tPJNMs"
       },
       "artists": [
         {
-          "name": "Ashra",
-          "url": "https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe"
+          "name": "Electrelane",
+          "url": "https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY"
         }
       ],
-      "duration_ms": 410666,
-      "name": "77 Slightly Delayed",
-      "url": "https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC"
+      "duration_ms": 295026,
+      "name": "To the East",
+      "url": "https://open.spotify.com/track/1bzQEsGH0KEMLt9ZlJ3vmk"
     },
     {
       "added_at": "2024-03-12 18:16:53",
@@ -573,20 +573,20 @@
       "url": "https://open.spotify.com/track/6GFhFmcObGLbUS4EfRtLQw"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
+      "added_at": "2023-01-25 02:05:47",
       "album": {
-        "name": "Zuckerzeit",
-        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
+        "name": "Blackouts",
+        "url": "https://open.spotify.com/album/140BMrMHrJKORgGdutEFde"
       },
       "artists": [
         {
-          "name": "Cluster",
-          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
+          "name": "Ashra",
+          "url": "https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe"
         }
       ],
-      "duration_ms": 189040,
-      "name": "Caramel",
-      "url": "https://open.spotify.com/track/2OqsnTNCy43fwWAVmkiJj8"
+      "duration_ms": 410666,
+      "name": "77 Slightly Delayed",
+      "url": "https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC"
     },
     {
       "added_at": "2024-04-09 16:27:14",
@@ -671,18 +671,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Autobahn (2009 Remaster)",
-        "url": "https://open.spotify.com/album/5ysfe4Bmv9xLNaPDrXFMBr"
+        "name": "Floating Coffin",
+        "url": "https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c"
       },
       "artists": [
         {
-          "name": "Kraftwerk",
-          "url": "https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU"
+          "name": "Thee Oh Sees",
+          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
         }
       ],
-      "duration_ms": 1367093,
-      "name": "Autobahn - 2009 Remaster",
-      "url": "https://open.spotify.com/track/44HjyYf1lYuO7oXRusudHN"
+      "duration_ms": 266120,
+      "name": "No Spell",
+      "url": "https://open.spotify.com/track/24vNTDqvAfgKMyDAT6ZFBd"
     },
     {
       "added_at": "2024-04-09 16:27:14",
@@ -703,18 +703,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Floating Coffin",
-        "url": "https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c"
+        "name": "Autobahn (2009 Remaster)",
+        "url": "https://open.spotify.com/album/5ysfe4Bmv9xLNaPDrXFMBr"
       },
       "artists": [
         {
-          "name": "Thee Oh Sees",
-          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
+          "name": "Kraftwerk",
+          "url": "https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU"
         }
       ],
-      "duration_ms": 266120,
-      "name": "No Spell",
-      "url": "https://open.spotify.com/track/24vNTDqvAfgKMyDAT6ZFBd"
+      "duration_ms": 1367093,
+      "name": "Autobahn - 2009 Remaster",
+      "url": "https://open.spotify.com/track/44HjyYf1lYuO7oXRusudHN"
     },
     {
       "added_at": "2024-04-09 16:27:14",
@@ -997,20 +997,20 @@
       "url": "https://open.spotify.com/track/5jK90x3YoYnsxt2hUGpj3R"
     },
     {
-      "added_at": "2023-01-25 02:05:47",
+      "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Nieve Afuera",
-        "url": "https://open.spotify.com/album/3McBi4ulUbSELV3e3S3JQo"
+        "name": "Transparent Things",
+        "url": "https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI"
       },
       "artists": [
         {
-          "name": "Aliage",
-          "url": "https://open.spotify.com/artist/2rsoCjZsneCZ25MC2os3Dt"
+          "name": "Fujiya & Miyagi",
+          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
         }
       ],
-      "duration_ms": 277845,
-      "name": "Nieve Afuera",
-      "url": "https://open.spotify.com/track/2uODWJ6wW0PKoJVVfcY2XQ"
+      "duration_ms": 250029,
+      "name": "Conductor 71",
+      "url": "https://open.spotify.com/track/1dqjTVRISUGI2eKjgcndIz"
     },
     {
       "added_at": "2022-03-18 05:36:55",
@@ -1029,20 +1029,20 @@
       "url": "https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
+      "added_at": "2023-01-25 02:05:47",
       "album": {
-        "name": "Transparent Things",
-        "url": "https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI"
+        "name": "Nieve Afuera",
+        "url": "https://open.spotify.com/album/3McBi4ulUbSELV3e3S3JQo"
       },
       "artists": [
         {
-          "name": "Fujiya & Miyagi",
-          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
+          "name": "Aliage",
+          "url": "https://open.spotify.com/artist/2rsoCjZsneCZ25MC2os3Dt"
         }
       ],
-      "duration_ms": 250029,
-      "name": "Conductor 71",
-      "url": "https://open.spotify.com/track/1dqjTVRISUGI2eKjgcndIz"
+      "duration_ms": 277845,
+      "name": "Nieve Afuera",
+      "url": "https://open.spotify.com/track/2uODWJ6wW0PKoJVVfcY2XQ"
     },
     {
       "added_at": "2023-01-12 03:40:17",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "F\u00fcr mich",
-        "url": "https://open.spotify.com/album/54afnNMBOmsGVGXs6yi3rO"
+        "name": "Transparent Things",
+        "url": "https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI"
       },
       "artists": [
         {
-          "name": "Thomas Dinger",
-          "url": "https://open.spotify.com/artist/35aFCAq2lreYMf2nrhtgfm"
+          "name": "Fujiya & Miyagi",
+          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
         }
       ],
-      "duration_ms": 566520,
-      "name": "F\u00fcr Dich",
-      "url": "https://open.spotify.com/track/2NpCvpwdrxQ6y6LQ8jQo43"
+      "duration_ms": 391002,
+      "name": "Cassettesingle",
+      "url": "https://open.spotify.com/track/66vwhVWctdciNG21GcOC3G"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1107,6 +1107,22 @@
       "duration_ms": 646960,
       "name": "Pass The Hatchet, I Think I'm Goodkind",
       "url": "https://open.spotify.com/track/2Sz8LPsM6ltd9sb34H6Oz8"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "F\u00fcr mich",
+        "url": "https://open.spotify.com/album/54afnNMBOmsGVGXs6yi3rO"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dinger",
+          "url": "https://open.spotify.com/artist/35aFCAq2lreYMf2nrhtgfm"
+        }
+      ],
+      "duration_ms": 566520,
+      "name": "F\u00fcr Dich",
+      "url": "https://open.spotify.com/track/2NpCvpwdrxQ6y6LQ8jQo43"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Transparent Things",
-        "url": "https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI"
-      },
-      "artists": [
-        {
-          "name": "Fujiya & Miyagi",
-          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
-        }
-      ],
-      "duration_ms": 391002,
-      "name": "Cassettesingle",
-      "url": "https://open.spotify.com/track/66vwhVWctdciNG21GcOC3G"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Anthology (Remastered Version)",
         "url": "https://open.spotify.com/album/6XFyzX1oEpqQl6TPf0nhpH"
       },
@@ -1187,22 +1187,6 @@
       "duration_ms": 381868,
       "name": "The Sound of all Things",
       "url": "https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Inform - Educate - Entertain",
-        "url": "https://open.spotify.com/album/1aSU7tVnGuKquY8yKCw1jm"
-      },
-      "artists": [
-        {
-          "name": "Public Service Broadcasting",
-          "url": "https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h"
-        }
-      ],
-      "duration_ms": 237532,
-      "name": "Spitfire",
-      "url": "https://open.spotify.com/track/2vRI17zbIpXatNS3IS1ktx"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1251,6 +1235,22 @@
       "duration_ms": 310093,
       "name": "Bang",
       "url": "https://open.spotify.com/track/6vp9GwKIXt60WV3QxsemRN"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Inform - Educate - Entertain",
+        "url": "https://open.spotify.com/album/1aSU7tVnGuKquY8yKCw1jm"
+      },
+      "artists": [
+        {
+          "name": "Public Service Broadcasting",
+          "url": "https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h"
+        }
+      ],
+      "duration_ms": 237532,
+      "name": "Spitfire",
+      "url": "https://open.spotify.com/track/2vRI17zbIpXatNS3IS1ktx"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1385,6 +1385,22 @@
       "url": "https://open.spotify.com/track/7w6PcnUzc5cRadoO4DJa1e"
     },
     {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "La D\u00fcsseldorf",
+        "url": "https://open.spotify.com/album/4GYlqAkTsHoY55fEq03EPZ"
+      },
+      "artists": [
+        {
+          "name": "La D\u00fcsseldorf",
+          "url": "https://open.spotify.com/artist/3GLAEAmt9FYRZWv8HUYha0"
+        }
+      ],
+      "duration_ms": 482773,
+      "name": "Silver Cloud",
+      "url": "https://open.spotify.com/track/5dviL3v73PIFxsAgWTfgSY"
+    },
+    {
       "added_at": "2023-02-17 02:03:26",
       "album": {
         "name": "Autoditacker",
@@ -1415,22 +1431,6 @@
       "duration_ms": 300003,
       "name": "Otto",
       "url": "https://open.spotify.com/track/6NfDAjWmXX6SQeB7kCEKXK"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "La D\u00fcsseldorf",
-        "url": "https://open.spotify.com/album/4GYlqAkTsHoY55fEq03EPZ"
-      },
-      "artists": [
-        {
-          "name": "La D\u00fcsseldorf",
-          "url": "https://open.spotify.com/artist/3GLAEAmt9FYRZWv8HUYha0"
-        }
-      ],
-      "duration_ms": 482773,
-      "name": "Silver Cloud",
-      "url": "https://open.spotify.com/track/5dviL3v73PIFxsAgWTfgSY"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Lost Worker Bee - EP",
-        "url": "https://open.spotify.com/album/3NfECFAHwzcFlUQJJxh9Ko"
-      },
-      "artists": [
-        {
-          "name": "Elbow",
-          "url": "https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk"
-        }
-      ],
-      "duration_ms": 387383,
-      "name": "Roll Call",
-      "url": "https://open.spotify.com/track/6Z1DuLOqfcmIh9qIz5n1OG"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Minami Deutsch",
         "url": "https://open.spotify.com/album/73HnAuOAaL60sprIydSdtd"
       },
@@ -1535,6 +1519,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Lost Worker Bee - EP",
+        "url": "https://open.spotify.com/album/3NfECFAHwzcFlUQJJxh9Ko"
+      },
+      "artists": [
+        {
+          "name": "Elbow",
+          "url": "https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk"
+        }
+      ],
+      "duration_ms": 387383,
+      "name": "Roll Call",
+      "url": "https://open.spotify.com/track/6Z1DuLOqfcmIh9qIz5n1OG"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "The Secret Cosmic Music of the East German Olympic Program 1972-83, Vol. 1",
         "url": "https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ"
       },
@@ -1544,9 +1544,9 @@
           "url": "https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B"
         }
       ],
-      "duration_ms": 787133,
-      "name": "Die lange Gerade",
-      "url": "https://open.spotify.com/track/1yrbDZHMtkAi88vp7m5UXU"
+      "duration_ms": 392320,
+      "name": "Tonband Laufspur",
+      "url": "https://open.spotify.com/track/2lHk5LW04d246aunZYEPcr"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Songs of Love and Revolution",
-        "url": "https://open.spotify.com/album/696w66r6e8uJcPYPUh5JrU"
+        "name": "The Secret Cosmic Music of the East German Olympic Program 1972-83, Vol. 1",
+        "url": "https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ"
       },
       "artists": [
         {
-          "name": "The Telescopes",
-          "url": "https://open.spotify.com/artist/5MTQzge85m3QSefD2LdS1J"
+          "name": "Kosmischer L\u00e4ufer",
+          "url": "https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B"
         }
       ],
-      "duration_ms": 207213,
-      "name": "Strange Waves",
-      "url": "https://open.spotify.com/track/3cYrfhx1aOlUXQGPQGRqxg"
+      "duration_ms": 787133,
+      "name": "Die lange Gerade",
+      "url": "https://open.spotify.com/track/1yrbDZHMtkAi88vp7m5UXU"
     }
   ],
   "unique_name": "Krautrock",

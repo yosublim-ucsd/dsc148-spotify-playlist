@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Portada: Paulo Londra
 
-[Spotify](https://open.spotify.com/user/spotify) - 882,968 likes - 53 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 882,983 likes - 53 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 43 | [Popurrí a Luis Arcaraz](https://open.spotify.com/track/3MAYyFpaHuMfgYU2Lsgxk5) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Mis Tributos](https://open.spotify.com/album/30JextuxXVMYWhTDuKQePj) | 7:00 |
 | 44 | [Más Allá](https://open.spotify.com/track/5y9EP5baygJB9zWQl8549b) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Más Allá](https://open.spotify.com/album/036nFxQ7ocbEdG3FjY88jO) | 3:04 |
 | 45 | [TOXICA](https://open.spotify.com/track/4n4DyqsnxJCOnvLJfKo8zV) | [Los Rakas](https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0) | [TOXICA](https://open.spotify.com/album/2xe4QNxIw3EGuSMkmguknD) | 2:36 |
-| 46 | [HAVE THE RUNNING](https://open.spotify.com/track/3bEDmuhR5NRsmimInB7inT) | [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [FRANCESCO TOTTI](https://open.spotify.com/album/51YbUPSntH5Zu0N594e9Bk) | 8:18 |
+| 46 | [I HAVE THEM RUNNING](https://open.spotify.com/track/3bEDmuhR5NRsmimInB7inT) | [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [FRANCESCO TOTTI](https://open.spotify.com/album/51YbUPSntH5Zu0N594e9Bk) | 8:18 |
 | 47 | [El Big Bang](https://open.spotify.com/track/61svvvUEUPodjZvXhXv74e) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [El Big Bang](https://open.spotify.com/album/21sw5hm7AanjSg7mZrBYxz) | 4:03 |
 | 48 | [DÍGANLE](https://open.spotify.com/track/5tQ4Ji3zMSxy6K5F49Is71) | [BEBEBOY](https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk) | [DÍGANLE](https://open.spotify.com/album/1LygIM3IHShbCLPsO11W1K) | 2:00 |
 | 49 | [Junto a Mi](https://open.spotify.com/track/4nB3mDL1L6THwHtBvUwjm7) | [ALMAS](https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC) | [Junto a Mi](https://open.spotify.com/album/50kZKXFGgFJunfwdmVEqky) | 3:04 |

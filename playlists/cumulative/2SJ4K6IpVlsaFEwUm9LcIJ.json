@@ -437,6 +437,28 @@
     },
     {
       "album": {
+        "name": "Breaking",
+        "url": "https://open.spotify.com/album/5ROCUR5iG4np8RCpujQDpm"
+      },
+      "artists": [
+        {
+          "name": "ANOHNI",
+          "url": "https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo"
+        },
+        {
+          "name": "Antony and the Johnsons",
+          "url": "https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204429,
+      "name": "Breaking",
+      "url": "https://open.spotify.com/track/0M8xf6txl5E1krF7yO1XIO"
+    },
+    {
+      "album": {
         "name": "Calm Before...",
         "url": "https://open.spotify.com/album/6A4VmOZWt0GZfdbfhfWXhJ"
       },

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Grupo Los de la O. Los temas esenciales, todos en una lista.",
-  "num_followers": 53290,
+  "description": "This is Grupo Los de la O. The essential tracks, all in one playlist.",
+  "num_followers": 53315,
   "original_name": "This Is Grupo Los de la O",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmuIAAAAAABFlSSM40h2XKQY1gT4spyl",
+  "snapshot_id": "ZmzZgAAAAAC+l4dmtkPF6f4gxkoynDYH",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tras las Rejas",
-        "url": "https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 177749,
-      "name": "French Inhale",
-      "url": "https://open.spotify.com/track/4fMuM5gdpDeXmd7oDPqPct"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Resiliencia",
         "url": "https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 165930,
       "name": "Por Extra\u00f1arte",
       "url": "https://open.spotify.com/track/25Mzk9mO2Dumb2PLzVpWjr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tras las Rejas",
+        "url": "https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 177749,
+      "name": "French Inhale",
+      "url": "https://open.spotify.com/track/4fMuM5gdpDeXmd7oDPqPct"
     },
     {
       "added_at": null,
@@ -207,6 +207,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Resiliencia",
+        "url": "https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 179583,
+      "name": "Ya No Siento Nada",
+      "url": "https://open.spotify.com/track/4tOXIb6w4jG6SOeGJnUAWU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Parque de Diversiones",
         "url": "https://open.spotify.com/album/139h5UsommAbalxqYcSD4h"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 179669,
       "name": "Holy Molly",
       "url": "https://open.spotify.com/track/0tL39kApl53imatnaQiY4H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Resiliencia",
-        "url": "https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 179583,
-      "name": "Ya No Siento Nada",
-      "url": "https://open.spotify.com/track/4tOXIb6w4jG6SOeGJnUAWU"
     },
     {
       "added_at": null,
@@ -279,6 +279,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Resiliencia",
+        "url": "https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 192085,
+      "name": "Brillo Propio",
+      "url": "https://open.spotify.com/track/7cVgN6hkW4FY8jEdO0ZA4S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bien Equipados",
         "url": "https://open.spotify.com/album/2f0KcsjEftYpn1OmCJAs2P"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 170461,
       "name": "Bien Equipados",
       "url": "https://open.spotify.com/track/58jOk6VlZQxcUADl5RhOEq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Resiliencia",
-        "url": "https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 192085,
-      "name": "Brillo Propio",
-      "url": "https://open.spotify.com/track/7cVgN6hkW4FY8jEdO0ZA4S"
     },
     {
       "added_at": null,
@@ -351,6 +351,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Resiliencia",
+        "url": "https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 205717,
+      "name": "Mejor Sin Ti",
+      "url": "https://open.spotify.com/track/56gY9CWrtD5BMiKPxsLv5y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pura Manzanita Vol. 3",
         "url": "https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 235477,
       "name": "La Lealtad",
       "url": "https://open.spotify.com/track/163KLwvYqUElKJA27ygSoa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Resiliencia",
-        "url": "https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 191765,
-      "name": "La Corta",
-      "url": "https://open.spotify.com/track/5qL61OUdgYV3Wxzb0Tf5RS"
     },
     {
       "added_at": null,
@@ -419,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Resiliencia",
+        "url": "https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 191765,
+      "name": "La Corta",
+      "url": "https://open.spotify.com/track/5qL61OUdgYV3Wxzb0Tf5RS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pura Manzanita",
         "url": "https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 203293,
       "name": "Fuga Pa' Cali - En Vivo",
       "url": "https://open.spotify.com/track/3WjorfFU6IxlbopMintsT0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Resiliencia",
-        "url": "https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 205717,
-      "name": "Mejor Sin Ti",
-      "url": "https://open.spotify.com/track/56gY9CWrtD5BMiKPxsLv5y"
     },
     {
       "added_at": null,
@@ -467,26 +467,6 @@
       "duration_ms": 186589,
       "name": "En la Ciudad",
       "url": "https://open.spotify.com/track/0iDBiUWfjxXi3BAiAuxaeH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Noruega",
-        "url": "https://open.spotify.com/album/728gIavs2Kutq5E8FuiPCC"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        },
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 155532,
-      "name": "Noruega",
-      "url": "https://open.spotify.com/track/2tmFNOYiBXllSBmfdm6OF5"
     },
     {
       "added_at": null,
@@ -523,6 +503,26 @@
       "duration_ms": 186154,
       "name": "Estado Natural",
       "url": "https://open.spotify.com/track/5KXiq5PZndbpUXX0Mqm9Du"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Noruega",
+        "url": "https://open.spotify.com/album/728gIavs2Kutq5E8FuiPCC"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        },
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 155532,
+      "name": "Noruega",
+      "url": "https://open.spotify.com/track/2tmFNOYiBXllSBmfdm6OF5"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diez Mandamientos",
-        "url": "https://open.spotify.com/album/5gWxmJhCpWPQlMsC2U9pDn"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "Diez Mandamientos",
-      "url": "https://open.spotify.com/track/1rkibuPk7ICzB33axkx8Bc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tras las Rejas",
         "url": "https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN"
       },
@@ -775,28 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Caravana de Carros",
-        "url": "https://open.spotify.com/album/5EuUYNWx0jmsGyWkMV3MP2"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 220143,
-      "name": "Caravana de Carros",
-      "url": "https://open.spotify.com/track/6O3Wb4IuCALnVzcs63aoEZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pura Manzanita",
-        "url": "https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V"
+        "name": "Diez Mandamientos",
+        "url": "https://open.spotify.com/album/5gWxmJhCpWPQlMsC2U9pDn"
       },
       "artists": [
         {
@@ -804,9 +768,9 @@
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 194845,
-      "name": "Se\u00f1or de la A - En Vivo",
-      "url": "https://open.spotify.com/track/4LmuzqcwGGERD1BvBhz4vy"
+      "duration_ms": 207400,
+      "name": "Diez Mandamientos",
+      "url": "https://open.spotify.com/track/1rkibuPk7ICzB33axkx8Bc"
     },
     {
       "added_at": null,
@@ -827,6 +791,42 @@
       "duration_ms": 122212,
       "name": "El Rey de Los Paquetes",
       "url": "https://open.spotify.com/track/3xL6WPIw4Gf65zxDpo0wcy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pura Manzanita",
+        "url": "https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 194845,
+      "name": "Se\u00f1or de la A - En Vivo",
+      "url": "https://open.spotify.com/track/4LmuzqcwGGERD1BvBhz4vy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Caravana de Carros",
+        "url": "https://open.spotify.com/album/5EuUYNWx0jmsGyWkMV3MP2"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 220143,
+      "name": "Caravana de Carros",
+      "url": "https://open.spotify.com/track/6O3Wb4IuCALnVzcs63aoEZ"
     },
     {
       "added_at": null,

@@ -4,11 +4,11 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-290 songs - 19 hr 28 min
+291 songs - 19 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [19 \- Josh Butler Remix](https://open.spotify.com/track/5GiM1m00X51F9MpREgqy23) | [Piem](https://open.spotify.com/artist/08st4VKj9jjZJ5eKzAOHq8), [ANNNA](https://open.spotify.com/artist/6paIiBu0X4cvePrfNpD2QY), [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX) | [19](https://open.spotify.com/album/1ZUfDvXGzk8AQCrZl1g5Dv) | 3:06 | 2021-07-24 |  |
+| [19 \- Josh Butler Remix](https://open.spotify.com/track/5GiM1m00X51F9MpREgqy23) | [Piem](https://open.spotify.com/artist/08st4VKj9jjZJ5eKzAOHq8), [ANNNA](https://open.spotify.com/artist/6paIiBu0X4cvePrfNpD2QY), [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX) | [19](https://open.spotify.com/album/1ZUfDvXGzk8AQCrZl1g5Dv) | 3:06 | 2021-07-24 | 2024-06-17 |
 | [1995](https://open.spotify.com/track/17w2wuWpKr9iTr6cH2AFlT) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5), [Sllash & Doppe](https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj) | [1995](https://open.spotify.com/album/0aFwFwf7V1cXqefElALhJu) | 3:04 | 2023-07-07 | 2023-07-22 |
 | [<3 beat](https://open.spotify.com/track/5LU0XONtCOg9zduG7t0CZI) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [comic relief](https://open.spotify.com/album/0atx8iYFmiwntVxFkr7Fou) | 3:17 | 2023-12-15 |  |
 | [Aboutchu](https://open.spotify.com/track/7bttLEX8382hapywl6M2JJ) | [Wake the Wild](https://open.spotify.com/artist/3gi0dYfoSKUqGYRO9Ixhf9) | [Aboutchu](https://open.spotify.com/album/1yJH7iGpEeE2F5QxBTYo4s) | 2:52 | 2023-05-19 | 2023-07-23 |
@@ -274,6 +274,7 @@
 | [Tokyo Flower](https://open.spotify.com/track/1ePTOMXU0I6uB9NfsSConB) | [Krystal Klear](https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI) | [Tokyo Flower](https://open.spotify.com/album/47YEoBCvoakAWX6LtQ39U6) | 4:18 | 2023-05-19 | 2023-06-13 |
 | [Tom's Bar](https://open.spotify.com/track/4KvzDmumgsIpFGAJf9cjG9) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [MOSS](https://open.spotify.com/album/1zpy9y8QLdMYZnHUaMbcPs) | 4:10 | 2021-07-24 | 2023-05-20 |
 | [Touch](https://open.spotify.com/track/0MwSy08n4JFvUCGMogz2Xf) | [Swoosh](https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG) | [Touch](https://open.spotify.com/album/0SQFyjExg2msQL7xm8Pdw2) | 2:59 | 2024-05-10 |  |
+| [Turning My Heart Blue](https://open.spotify.com/track/4gIfhN6xTKfPDupplMF5xu) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [Turning My Heart Blue](https://open.spotify.com/album/7fIfDMV8cMkrikHlLyt93R) | 3:54 | 2024-06-14 |  |
 | [Turning Onto You \- HNNY Remix](https://open.spotify.com/track/38hxhxzCWO8ffzhdY57pBM) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1), [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Turning Onto You \(HNNY Remix\)](https://open.spotify.com/album/3GJkWCJPr1egPYRDXaQcE2) | 3:30 | 2023-09-15 |  |
 | [Turning Point](https://open.spotify.com/track/7acNNBB5PObjYKnRNLH9vR) | [Pandar](https://open.spotify.com/artist/2zZ1SrHD5FqPVXgBIH7Xe1) | [Turning Point](https://open.spotify.com/album/6J5pC5wdHx2ODTdnKlKF0z) | 6:35 | 2022-06-20 | 2023-07-07 |
 | [Unconditional feat\. Rationale \- Extended Version](https://open.spotify.com/track/2ETcVAJp0womgNLhC1Esgt) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Rationale](https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy) | [Unconditional feat\. Rationale \(Extended Version\)](https://open.spotify.com/album/2oHFjPiBi2VSLFzlinbzTk) | 6:22 | 2024-04-26 |  |

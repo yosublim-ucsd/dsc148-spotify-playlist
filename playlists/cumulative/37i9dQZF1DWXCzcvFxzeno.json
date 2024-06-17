@@ -358,7 +358,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 462324,
       "name": "Calvin Klein",
       "url": "https://open.spotify.com/track/5C69PdWc5YoFWiZV1q9aBR"
@@ -1425,6 +1425,28 @@
     },
     {
       "album": {
+        "name": "TM002",
+        "url": "https://open.spotify.com/album/27d7ZMLhcyuaALVrjYK6rF"
+      },
+      "artists": [
+        {
+          "name": "K\u00f8zl\u00f8v",
+          "url": "https://open.spotify.com/artist/6lmg9kOOeuhhgThuBOE4bX"
+        },
+        {
+          "name": "CARV",
+          "url": "https://open.spotify.com/artist/6xenmpQHeDugzwDn9H2pSI"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334177,
+      "name": "Mystic Blast",
+      "url": "https://open.spotify.com/track/6X24jDDs8Hx1PuuGounCth"
+    },
+    {
+      "album": {
         "name": "Never Enough",
         "url": "https://open.spotify.com/album/301BTyjA0xlkTu8gDm3ToF"
       },
@@ -1614,7 +1636,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 315115,
       "name": "Psychotic Mind",
       "url": "https://open.spotify.com/track/6O3Aqqdc4IaSGwNWIfV8bN"
@@ -2072,6 +2094,24 @@
       "duration_ms": 337454,
       "name": "The Bass",
       "url": "https://open.spotify.com/track/12lZnyC84ht2jq7codKpZy"
+    },
+    {
+      "album": {
+        "name": "The Big Bang",
+        "url": "https://open.spotify.com/album/7hIianSVljHEKAx80e81is"
+      },
+      "artists": [
+        {
+          "name": "Zatox",
+          "url": "https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "The Big Bang",
+      "url": "https://open.spotify.com/track/3eMp80mvXvOmvmaKRpTnVe"
     },
     {
       "album": {

@@ -957,6 +957,28 @@
     },
     {
       "album": {
+        "name": "TE XTRA\u00d1O (With Eslabon Armado)",
+        "url": "https://open.spotify.com/album/43jEzQ4AlCO7sHXegbuYjm"
+      },
+      "artists": [
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        },
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225537,
+      "name": "TE XTRA\u00d1O (With Eslabon Armado)",
+      "url": "https://open.spotify.com/track/15BYgAqFbSrnsKvvs3Yu45"
+    },
+    {
+      "album": {
         "name": "Tu Veneno Mortal",
         "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
       },

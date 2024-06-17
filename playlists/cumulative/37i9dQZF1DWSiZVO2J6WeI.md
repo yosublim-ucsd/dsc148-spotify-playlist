@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-372 songs - 19 hr 10 min
+374 songs - 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Arriving](https://open.spotify.com/track/730JGpAFz7uj2i53ySidzR) | [Arctic Pulse](https://open.spotify.com/artist/3KFpB0Bu4nUJ4zkJ1JoPVi) | [Eternalis](https://open.spotify.com/album/3qZMZFTUJyvi0fOJuo31sx) | 3:12 | 2022-01-12 | 2024-05-21 |
 | [As It Is At Night](https://open.spotify.com/track/59NK1uiTWnRLNKmtUf4Uw1) | [Elder Tones](https://open.spotify.com/artist/3F3LvjnePHn3mn8uuLQdcU) | [As it is At Night](https://open.spotify.com/album/3llDds59tzLvV6Hb4LAJq4) | 2:15 | 2022-03-18 | 2024-01-18 |
 | [Astral](https://open.spotify.com/track/25Eazeq2jR3OAXKVyn5A46) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg), [Skyler Wilson](https://open.spotify.com/artist/2V2FOQ4bEqDyrhGnzLBCr3) | [Astral](https://open.spotify.com/album/5wSkF4kNNzlYaSpbpCXO3o) | 2:27 | 2022-06-24 |  |
-| [Atlas](https://open.spotify.com/track/2DRe9TGpWAUjWZDR1loVXO) | [Hélder Sequeira](https://open.spotify.com/artist/3yp9yOOw145wizsNjq5IdG) | [Atlas](https://open.spotify.com/album/1dieBUEVZBBgsCaUJWMZEl) | 2:31 | 2023-07-28 |  |
+| [Atlas](https://open.spotify.com/track/2DRe9TGpWAUjWZDR1loVXO) | [Hélder Sequeira](https://open.spotify.com/artist/3yp9yOOw145wizsNjq5IdG) | [Atlas](https://open.spotify.com/album/1dieBUEVZBBgsCaUJWMZEl) | 2:31 | 2023-07-28 | 2024-06-17 |
 | [Atmospherical Aura](https://open.spotify.com/track/5hYlPIXXwNPr4XavYPuiXr) | [Deltachromatique](https://open.spotify.com/artist/2nXUAmp23RozTZQs70fIuP) | [Atmospherical Aura](https://open.spotify.com/album/2z3LxcaSWnGzElgfM7vH8X) | 3:20 | 2024-01-17 |  |
 | [Aurora](https://open.spotify.com/track/0CwVkwUUCZPYZdj7SafQYL) | [The Destination](https://open.spotify.com/artist/5LqmDSsJGx12mu0u8vmj1w) | [Aurora](https://open.spotify.com/album/4Sgl6em7yRdXxbnn3AVhOP) | 3:05 | 2022-01-12 | 2024-05-21 |
 | [Auspice](https://open.spotify.com/track/5MbKg6YZGi482yfmoVv5Hm) | [Lynx XII](https://open.spotify.com/artist/4NkftNKnmddqOOVCrSvOOa) | [Auspice](https://open.spotify.com/album/46WkfadLvsh5GhRxzLpuU9) | 3:19 | 2024-01-17 | 2024-05-21 |
@@ -145,12 +145,14 @@
 | [Fantastical](https://open.spotify.com/track/1QX9Fz6OXoTjHxs3hkwNkw) | [Rainbow Rise](https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd) | [Majestic](https://open.spotify.com/album/624aXTR4dUoP9dVfUAoryG) | 4:05 | 2022-01-12 | 2024-01-18 |
 | [Faust](https://open.spotify.com/track/6hGXKSiC1vB11654kyEI5Z) | [Smith/Hill](https://open.spotify.com/artist/7HBGJDqgtjAhCnoFpZzFDS) | [Faust](https://open.spotify.com/album/4oxmPdY5YNv6BBIlsYZ4vo) | 2:18 | 2022-04-13 | 2023-07-13 |
 | [Favaloro](https://open.spotify.com/track/4UxVwYIO8HiIK2mk01jLub) | [Zoniacs](https://open.spotify.com/artist/6IiJPhO9buoldoCLSG4foO) | [Favaloro](https://open.spotify.com/album/3lb2K4j1L2SZ3WyxqMjEAB) | 2:39 | 2024-02-07 | 2024-03-21 |
+| [Feel The Zen](https://open.spotify.com/track/4qvfIAc3oz1wQYf8GbzaOX) | [Massive Foam](https://open.spotify.com/artist/7of7Q7two2tiZoRRC5Y8u8) | [Feel The Zen](https://open.spotify.com/album/13p3itqL005ij8fI6gmHug) | 2:19 | 2024-06-13 |  |
 | [Fèath](https://open.spotify.com/track/52dScVRoybs6acPSkmK6jc) | [Andy Kamman](https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y) | [Fèath](https://open.spotify.com/album/1uPNzg4SM9YYcclHGewiyC) | 3:26 | 2022-01-12 | 2022-02-02 |
 | [Finalement](https://open.spotify.com/track/0X1yIZPqq7RJv3QtSy2W83) | [Nuit Pluie](https://open.spotify.com/artist/6fPF7rV8SX0fysuJVs7mZb) | [Finalement](https://open.spotify.com/album/7smRBKywYWDRKGrLQx5p4H) | 2:56 | 2022-01-19 | 2022-04-16 |
 | [Floating Fables](https://open.spotify.com/track/2zbBtt6TvkQp0EUnXkfpM8) | [Youssouf Yaro](https://open.spotify.com/artist/7pFjwqCdPUodEXf6mfoM7g) | [Floating Fables](https://open.spotify.com/album/00ncspP1ugoJtLW2POqoaB) | 2:59 | 2024-01-17 | 2024-02-08 |
 | [Floating Forest](https://open.spotify.com/track/6VnjI1HG4vrnkqf8BdCwN1) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Ancient Analogue](https://open.spotify.com/album/7M37zkkLECmNsbpSh0gWHR) | 3:51 | 2022-12-30 |  |
 | [Floating Time](https://open.spotify.com/track/5rSogWGLs158gr5NodSxDo) | [Somaya Kudri](https://open.spotify.com/artist/09RcU7Ss356i0nOIe9Mqys) | [Floating Time](https://open.spotify.com/album/3lcJGoXkij70Op2NhALEdm) | 2:50 | 2023-07-28 |  |
 | [Fresh Sky](https://open.spotify.com/track/20SlQNNjADqbjAfzlCL1xg) | [Najia](https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1) | [Fresh Sky](https://open.spotify.com/album/2eXKhTlcj0iQO5CrUxpjDy) | 3:03 | 2024-01-17 | 2024-02-08 |
+| [friendship](https://open.spotify.com/track/46FHTWfIlwJmV1hz30FgAx) | [Dalliance Blues](https://open.spotify.com/artist/4gwkNRgkSrQhmyJevVAuCu) | [friendship](https://open.spotify.com/album/4CrQSPAgBUpOEbhnGPIGoT) | 2:05 | 2024-06-13 |  |
 | [Frozen In Time](https://open.spotify.com/track/62Knl604s3YRBX5nnaBkeP) | [Jin Eun\-Kyung](https://open.spotify.com/artist/5v2Kob3cL8QTD2sVTraH4y) | [Obelus](https://open.spotify.com/album/6L18pvdnitc2BMONeCRD3b) | 3:23 | 2023-02-25 |  |
 | [Further Into Something](https://open.spotify.com/track/21mLKJKteB3RL3t3NUM8Jw) | [Vilhelm Brandt](https://open.spotify.com/artist/4k5hcVGerX1LVQ79iXD52S) | [Nordic Calmness](https://open.spotify.com/album/0fQT7eDWuxAuw7IxcdHsnk) | 2:31 | 2022-01-12 | 2023-07-29 |
 | [Gamma Sinus 80 Hz \- 120 Hz](https://open.spotify.com/track/4uoKvNOS3juPZeI1rqvWmR) | [Delta Hz](https://open.spotify.com/artist/5DeI5zDGqIRRmW5o1TrYD0) | [Delta Hz](https://open.spotify.com/album/27AWjUaOfAFqukeJGgV119) | 3:24 | 2022-01-12 | 2023-04-22 |
@@ -278,7 +280,7 @@
 | [Purity 432hz](https://open.spotify.com/track/60kuRpoUHGfYmVswKdvcO0) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Purity 432hz](https://open.spotify.com/album/5OSOyRZDMMgLu8vjaS2gyh) | 4:02 | 2022-01-19 | 2022-04-22 |
 | [Quartz](https://open.spotify.com/track/6fEgQLmEhvE5Y04aldWGyd) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Gemstones, Vol\. 6](https://open.spotify.com/album/4ca7z1pgOg98DEiailChTn) | 2:36 | 2022-01-12 | 2023-03-15 |
 | [Rachael Or Pris](https://open.spotify.com/track/52tvffLe50EKvIznL67HnT) | [Threading Hair](https://open.spotify.com/artist/7KIgyuskfqOG0gHsnnHPPA) | [Rachael Or Pris](https://open.spotify.com/album/37lTxs02FjGCDpbEdGCte7) | 3:44 | 2022-01-12 | 2023-02-14 |
-| [Rain Gravitat](https://open.spotify.com/track/7oC2TTCDwexaML468NqBlp) | [Rufus Odobata](https://open.spotify.com/artist/5x7BmkqNC3iDXqN4PvDwdK) | [Rain Gravitat](https://open.spotify.com/album/0IhugtJosb1RC2llsPCFFI) | 3:27 | 2024-01-17 |  |
+| [Rain Gravitat](https://open.spotify.com/track/7oC2TTCDwexaML468NqBlp) | [Rufus Odobata](https://open.spotify.com/artist/5x7BmkqNC3iDXqN4PvDwdK) | [Rain Gravitat](https://open.spotify.com/album/0IhugtJosb1RC2llsPCFFI) | 3:27 | 2024-01-17 | 2024-06-17 |
 | [Reality](https://open.spotify.com/track/6aFkocMc8DruHQocIyMMFi) | [Aural Veneer](https://open.spotify.com/artist/2KxXrvu8Ji2aHsMLwrE0Go) | [Reality](https://open.spotify.com/album/2hhN0BhSiM9MgBickzVA3k) | 3:04 | 2024-03-06 |  |
 | [Red Mind](https://open.spotify.com/track/1WhFXIOfYDaLiAKrBO9hmX) | [Selma Key](https://open.spotify.com/artist/3TiO9o6VESefaIb0yJBjYa) | [Red Mind](https://open.spotify.com/album/7gton8cQc8A19dy3C2oaIT) | 3:00 | 2024-01-17 |  |
 | [Reflections](https://open.spotify.com/track/09m5o0FIa430LyBfvraj6h) | [SARAB](https://open.spotify.com/artist/6PM7BEoNAzJtH7BRBgagYI) | [Reflections](https://open.spotify.com/album/15Tv8kdEGfcAkY8y2rQNcb) | 4:12 | 2022-01-12 | 2023-03-15 |

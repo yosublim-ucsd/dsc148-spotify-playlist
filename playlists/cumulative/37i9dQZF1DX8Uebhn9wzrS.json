@@ -768,7 +768,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 140571,
       "name": "Affirmation",
       "url": "https://open.spotify.com/track/3iK8fZSXJKZvkbYcSVVvYN"
@@ -1192,7 +1192,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 142060,
       "name": "akissou",
       "url": "https://open.spotify.com/track/1yQccxbOXGsIeK7DMPP9Pd"
@@ -14335,6 +14335,24 @@
     },
     {
       "album": {
+        "name": "hjortron",
+        "url": "https://open.spotify.com/album/5sANFRqIeEJUz1aVPmgEjA"
+      },
+      "artists": [
+        {
+          "name": "bomull",
+          "url": "https://open.spotify.com/artist/1F32IriH9KUZxZzUoxeQub"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129996,
+      "name": "hjortron",
+      "url": "https://open.spotify.com/track/1eGHzlNpyXAsi4qKfm5z27"
+    },
+    {
+      "album": {
         "name": "hoj ti to",
         "url": "https://open.spotify.com/album/2UuKxvayuxXBjzi5iSVuFO"
       },
@@ -18212,7 +18230,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 151754,
       "name": "Lonely Astronaut",
       "url": "https://open.spotify.com/track/2kVhsKwPV0Cc4rd7DsLFZP"
@@ -19658,7 +19676,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 156374,
       "name": "meadows",
       "url": "https://open.spotify.com/track/1sP0q6Egdh6pSclFNwpWBa"
@@ -23946,7 +23964,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 97602,
       "name": "Paper Heart",
       "url": "https://open.spotify.com/track/1Hc3WJFNoEVScMuJ8ofDxB"
@@ -29156,7 +29174,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 153474,
       "name": "Snowflakes",
       "url": "https://open.spotify.com/track/2y0qzhtfsdGqYjsfKIh2kP"
@@ -30350,7 +30368,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-11",
+      "date_removed": null,
       "duration_ms": 169691,
       "name": "Stoplight",
       "url": "https://open.spotify.com/track/4rl9BtI2ieHybBIVbjf1tG"
@@ -33901,6 +33919,24 @@
     },
     {
       "album": {
+        "name": "Triplo",
+        "url": "https://open.spotify.com/album/5VqOQRx98N3whzppY6PvmO"
+      },
+      "artists": [
+        {
+          "name": "Pjuck",
+          "url": "https://open.spotify.com/artist/4y7TV9mGqoi2fHB1RLhqZm"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128470,
+      "name": "Triplo",
+      "url": "https://open.spotify.com/track/5RpukHbnGDArxAsBV6Uk4W"
+    },
+    {
+      "album": {
         "name": "Tronntora",
         "url": "https://open.spotify.com/album/38e12KrFKnDpLXp6x5rrCN"
       },
@@ -35796,7 +35832,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 114000,
       "name": "What Matters",
       "url": "https://open.spotify.com/track/2LjUTOfZNTXuNfFZbhEdoA"

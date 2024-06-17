@@ -4,7 +4,7 @@
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: <a href="spotify:artist:4DROs1Ye9DiLY3X8L7xvl8">Andrez Babii</a>
 
-352 songs - 20 hr 40 min
+353 songs - 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [De Aquí Pa’ Allá](https://open.spotify.com/track/0be8ZrVxq5jFl9ijZahHJE) | [Imprenta Fragante](https://open.spotify.com/artist/0aRuSv9WkCvxeZOgYJL9G3), [Alex Linares](https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT) | [De Aquí Pa’ Allá](https://open.spotify.com/album/41SvsYRO8fVE8zsLNxfk8J) | 3:46 | 2021-11-05 | 2022-04-18 |
 | [DE0A100](https://open.spotify.com/track/3KLxfvg9yHr8H9ErkYiF9C) | [Arias](https://open.spotify.com/artist/2GK6y5dmhaWM16VZxHiO15), [Jiggy Min](https://open.spotify.com/artist/5SHu7uKUt1PNAsrqHXxFmv) | [DE0A100](https://open.spotify.com/album/4wI070qgSUZnFX5iSDQ0Kq) | 2:44 | 2024-03-20 |  |
 | [Dejarme Llevar](https://open.spotify.com/track/3uk8hBCkJTOOPyEJgikqOa) | [Zoprano](https://open.spotify.com/artist/2mdcXhVmknCqnJU4M5ofyl), [Emma y Mánuel](https://open.spotify.com/artist/2Hp3AiYxGS7PZ2twzxcxGP), [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd) | [Dejarme Llevar](https://open.spotify.com/album/2fkd1AkzmQqxR2Dis88ffD) | 3:46 | 2021-11-05 | 2022-04-18 |
+| [Del King](https://open.spotify.com/track/65nKmGCZYmrH0I8XkINCp8) | [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Del King](https://open.spotify.com/album/5R1hMMfusXGYXQvJBR8YlH) | 4:34 | 2024-05-03 |  |
 | [Depre :/](https://open.spotify.com/track/71BbRmBoqh6lA7xuD9v5Gq) | [Kenny Rivers](https://open.spotify.com/artist/41twdk8sw4fNv4nosACqp9) | [River Szn](https://open.spotify.com/album/4AzpEzJCV42uTeIi9vo74E) | 2:25 | 2022-08-27 |  |
 | [DIEZ TRES](https://open.spotify.com/track/52i6fFvKp73lA7TbyRcd6K) | [Barajas](https://open.spotify.com/artist/0oaW8w858ZIyAnhDIskEqw), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [DIEZ TRES](https://open.spotify.com/album/4cySlWwwNv3D2XtmoNsGEK) | 3:54 | 2024-04-18 |  |
 | [Diles](https://open.spotify.com/track/38Tj0qQJ9mJpL7seyMIEnW) | [Claudio Parra](https://open.spotify.com/artist/1BJ34ykPT14HD4fgGYStes), [Kako](https://open.spotify.com/artist/4aNsCJTWjuxDsn1dyTaLg9) | [Diles](https://open.spotify.com/album/7D8N5qyBZwweBEnwYYa8hE) | 3:07 | 2021-11-05 | 2022-03-23 |
@@ -86,7 +87,7 @@
 | [ECHO](https://open.spotify.com/track/5dlME4r4Bt7RqHDDyT0kdY) | [Damaris Guerra](https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj), [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [ECHO](https://open.spotify.com/album/2TounfDp8FG5wdmzSCc0fT) | 3:15 | 2022-08-27 |  |
 | [El Cielo Lloró](https://open.spotify.com/track/12ptkCXWrpVK3B4nTDboxM) | [Proyecto 67](https://open.spotify.com/artist/5KRzlmC8PZJvfvbM9cCNTW) | [El Cielo Lloró](https://open.spotify.com/album/6Hf4LJ5XHn65JVzpurhhPD) | 4:39 | 2022-04-17 |  |
 | [El Diario Del Barrio \(En Vivo\)](https://open.spotify.com/track/2HY851WpJ0F3V3BUtrN4Fm) | [Travy Joe](https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5), [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd) | [El Diario Del Barrio \(En Vivo\)](https://open.spotify.com/album/6FTGnldUcblMtzMHrb2d2s) | 3:24 | 2021-11-05 | 2022-03-23 |
-| [El Diseñador](https://open.spotify.com/track/30aEQibVvYLhzIOTuNpT3b) | [GaVriel](https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2) | [El Diseñador](https://open.spotify.com/album/0tz45s1oDSc54xcm3HCHmC) | 3:45 | 2022-04-17 |  |
+| [El Diseñador](https://open.spotify.com/track/30aEQibVvYLhzIOTuNpT3b) | [GaVriel](https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2) | [El Diseñador](https://open.spotify.com/album/0tz45s1oDSc54xcm3HCHmC) | 3:45 | 2022-04-17 | 2024-06-17 |
 | [El Fuego](https://open.spotify.com/track/48f9BX8tVDm406EAABwTJW) | [Sarah La Profeta](https://open.spotify.com/artist/7oSuYRjBK40aiakDdYUvCL), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [El Fuego](https://open.spotify.com/album/32gxyKrCEHuLdixBXby5Dh) | 3:10 | 2022-04-17 |  |
 | [El Perdón](https://open.spotify.com/track/5bsiikhimXTUQGSxFiFHGV) | [Melania Pacheco](https://open.spotify.com/artist/4Y1ELLOTOaH6E0qe0WGXLR) | [Con Amor para Yah](https://open.spotify.com/album/63AK2ZWdBUBMpasQUswT3G) | 2:49 | 2022-04-17 | 2022-07-26 |
 | [Eleva Tu Alma](https://open.spotify.com/track/5pZuCKXUjx3u3dP1c2eJH8) | [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1) | [Eleva Tu Alma](https://open.spotify.com/album/341uNJDUClwb5EOHWOjkW5) | 3:31 | 2024-05-03 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now\. Cover:  <a href="spotify:artist:4leTWyczsXYGlzUh8sFGSz">Kim Walker\-Smith</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 980,635 likes - 99 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 980,660 likes - 99 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

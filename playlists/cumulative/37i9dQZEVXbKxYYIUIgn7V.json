@@ -2316,7 +2316,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 196271,
       "name": "Delija",
       "url": "https://open.spotify.com/track/5JRSB2DgagXcOzaAJqb6yh"
@@ -4593,6 +4593,24 @@
     },
     {
       "album": {
+        "name": "Igraj Moja Hrvatska",
+        "url": "https://open.spotify.com/album/4izFYon8ceH5EQTAeyVWqm"
+      },
+      "artists": [
+        {
+          "name": "Zapresic Boys",
+          "url": "https://open.spotify.com/artist/6XUBLSIcQpM9NLCpcZGS6Z"
+        }
+      ],
+      "date_added": "2024-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197738,
+      "name": "Igraj Moja Hrvatska",
+      "url": "https://open.spotify.com/track/4pYIPmmtdXJW8AuVMi07oR"
+    },
+    {
+      "album": {
         "name": "iluv",
         "url": "https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv"
       },
@@ -5678,7 +5696,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 141600,
       "name": "Liebesbriefe",
       "url": "https://open.spotify.com/track/45roVuodsjHKjPeEL0Gru1"
@@ -7728,6 +7746,24 @@
       "duration_ms": 193000,
       "name": "Princess Cuts My Wrist",
       "url": "https://open.spotify.com/track/3bdlwCZm9O5LP33Smf3i5b"
+    },
+    {
+      "album": {
+        "name": "Purple Hat",
+        "url": "https://open.spotify.com/album/25mGhdGeV6FHAfqLCANz2J"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "date_added": "2024-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178369,
+      "name": "Purple Hat",
+      "url": "https://open.spotify.com/track/6WiGRFQfx2qw49MA7OeDYK"
     },
     {
       "album": {

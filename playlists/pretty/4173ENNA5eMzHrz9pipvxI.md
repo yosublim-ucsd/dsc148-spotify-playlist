@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: GUZ &amp; Millean.
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,211 likes - 7 songs - 17 min 7 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,204 likes - 7 songs - 17 min 7 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: Taeha(\ud0dc\ud558)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 52358,
+  "num_followers": 52364,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
@@ -219,26 +219,6 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
-        "name": "First Winter",
-        "url": "https://open.spotify.com/album/7Kudn82wLhfFfxLVhi9VhA"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        },
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 240853,
-      "name": "First Winter",
-      "url": "https://open.spotify.com/track/5eWw4OyW26hL51XFSTkTPg"
-    },
-    {
-      "added_at": "2024-06-05 04:06:41",
-      "album": {
         "name": "MORE & MORE",
         "url": "https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv"
       },
@@ -255,18 +235,22 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
-        "name": "timeabout,",
-        "url": "https://open.spotify.com/album/1cBAfX0otvkoIOI6HtOrAc"
+        "name": "First Winter",
+        "url": "https://open.spotify.com/album/7Kudn82wLhfFfxLVhi9VhA"
       },
       "artists": [
         {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        },
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 207125,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/0AAEFC3RGirgzRFhi44Y79"
+      "duration_ms": 240853,
+      "name": "First Winter",
+      "url": "https://open.spotify.com/track/5eWw4OyW26hL51XFSTkTPg"
     },
     {
       "added_at": "2024-06-05 04:06:41",
@@ -299,6 +283,22 @@
       "duration_ms": 221160,
       "name": "1/6",
       "url": "https://open.spotify.com/track/5o0dqwd2sAdckax4pb6feU"
+    },
+    {
+      "added_at": "2024-06-05 04:06:41",
+      "album": {
+        "name": "timeabout,",
+        "url": "https://open.spotify.com/album/1cBAfX0otvkoIOI6HtOrAc"
+      },
+      "artists": [
+        {
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+        }
+      ],
+      "duration_ms": 207125,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/0AAEFC3RGirgzRFhi44Y79"
     },
     {
       "added_at": "2024-06-05 04:06:41",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
-        "name": "Pink Tape - The 2nd Album",
-        "url": "https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z"
-      },
-      "artists": [
-        {
-          "name": "f(x)",
-          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
-        }
-      ],
-      "duration_ms": 200863,
-      "name": "\uc2dc\uadf8\ub110 (Signal)",
-      "url": "https://open.spotify.com/track/1Ed91xIltQC8hSOAOCA7Se"
-    },
-    {
-      "added_at": "2024-06-05 04:06:41",
-      "album": {
         "name": "\u2018The ReVe Festival\u2019 Day 2",
         "url": "https://open.spotify.com/album/3DXz6ItR9DzIw9S0h3Cxfc"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 209453,
       "name": "Like Heaven (Feat. Paul Blanco)",
       "url": "https://open.spotify.com/track/5VqfYiw615GoTJpkvzWPYm"
+    },
+    {
+      "added_at": "2024-06-05 04:06:41",
+      "album": {
+        "name": "Pink Tape - The 2nd Album",
+        "url": "https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z"
+      },
+      "artists": [
+        {
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
+        }
+      ],
+      "duration_ms": 200863,
+      "name": "\uc2dc\uadf8\ub110 (Signal)",
+      "url": "https://open.spotify.com/track/1Ed91xIltQC8hSOAOCA7Se"
     },
     {
       "added_at": "2024-06-05 04:06:41",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
-        "name": "5min to heartbreak",
-        "url": "https://open.spotify.com/album/5Pxpez2LzgGCu3LZTzfxwa"
-      },
-      "artists": [
-        {
-          "name": "Choi HEART",
-          "url": "https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m"
-        }
-      ],
-      "duration_ms": 200053,
-      "name": "5min to heartbreak",
-      "url": "https://open.spotify.com/track/7Ei4gfGU4wrXLTw2xcBcYw"
-    },
-    {
-      "added_at": "2024-06-05 04:06:41",
-      "album": {
         "name": "BASIC",
         "url": "https://open.spotify.com/album/7EQD5wkntQXxh7zT2XEwGS"
       },
@@ -711,6 +695,22 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
+        "name": "5min to heartbreak",
+        "url": "https://open.spotify.com/album/5Pxpez2LzgGCu3LZTzfxwa"
+      },
+      "artists": [
+        {
+          "name": "Choi HEART",
+          "url": "https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m"
+        }
+      ],
+      "duration_ms": 200053,
+      "name": "5min to heartbreak",
+      "url": "https://open.spotify.com/track/7Ei4gfGU4wrXLTw2xcBcYw"
+    },
+    {
+      "added_at": "2024-06-05 04:06:41",
+      "album": {
         "name": "Ending",
         "url": "https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD"
       },
@@ -723,22 +723,6 @@
       "duration_ms": 226453,
       "name": "A day of weather",
       "url": "https://open.spotify.com/track/21hBj9FtDyTISSXrTuApaw"
-    },
-    {
-      "added_at": "2024-06-05 04:06:41",
-      "album": {
-        "name": "Scent",
-        "url": "https://open.spotify.com/album/5ub9WgwYDknUaigTqwnf2G"
-      },
-      "artists": [
-        {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
-        }
-      ],
-      "duration_ms": 211149,
-      "name": "Scent",
-      "url": "https://open.spotify.com/track/1QHhyQMvuCrN1xrtLZttxk"
     },
     {
       "added_at": "2024-06-05 04:06:41",
@@ -807,18 +791,18 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
-        "name": "RE_vive",
-        "url": "https://open.spotify.com/album/5ZR4gMvmyzSX7AApmIR88h"
+        "name": "Scent",
+        "url": "https://open.spotify.com/album/5ub9WgwYDknUaigTqwnf2G"
       },
       "artists": [
         {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
         }
       ],
-      "duration_ms": 232906,
-      "name": "Wonder Woman",
-      "url": "https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16"
+      "duration_ms": 211149,
+      "name": "Scent",
+      "url": "https://open.spotify.com/track/1QHhyQMvuCrN1xrtLZttxk"
     },
     {
       "added_at": "2024-06-05 04:06:41",
@@ -839,34 +823,18 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
-        "name": "<K>",
-        "url": "https://open.spotify.com/album/69pBx0bi45GYip7oXcHbzu"
+        "name": "RE_vive",
+        "url": "https://open.spotify.com/album/5ZR4gMvmyzSX7AApmIR88h"
       },
       "artists": [
         {
-          "name": "HeeJin",
-          "url": "https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks"
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
         }
       ],
-      "duration_ms": 188320,
-      "name": "Algorithm",
-      "url": "https://open.spotify.com/track/0i8K9oyDQSg5tPZUTHPwhX"
-    },
-    {
-      "added_at": "2024-06-05 04:06:41",
-      "album": {
-        "name": "GFRIEND The 7th Mini Album `FEVER SEASON`",
-        "url": "https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR"
-      },
-      "artists": [
-        {
-          "name": "GFRIEND",
-          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
-        }
-      ],
-      "duration_ms": 194306,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/5dl4insuwy9dfDw3Co0fKO"
+      "duration_ms": 232906,
+      "name": "Wonder Woman",
+      "url": "https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16"
     },
     {
       "added_at": "2024-06-05 04:06:41",
@@ -907,6 +875,22 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
+        "name": "GFRIEND The 7th Mini Album `FEVER SEASON`",
+        "url": "https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR"
+      },
+      "artists": [
+        {
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+        }
+      ],
+      "duration_ms": 194306,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/5dl4insuwy9dfDw3Co0fKO"
+    },
+    {
+      "added_at": "2024-06-05 04:06:41",
+      "album": {
         "name": "Skyline",
         "url": "https://open.spotify.com/album/3SjIA2SL9WUDf8skobvjwE"
       },
@@ -927,22 +911,18 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
-        "name": "AQUA CITY",
-        "url": "https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2"
+        "name": "<K>",
+        "url": "https://open.spotify.com/album/69pBx0bi45GYip7oXcHbzu"
       },
       "artists": [
         {
-          "name": "KIM A REUM",
-          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
-        },
-        {
-          "name": "Muzie",
-          "url": "https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg"
+          "name": "HeeJin",
+          "url": "https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks"
         }
       ],
-      "duration_ms": 299500,
-      "name": "Aqua (feat. Muzie)",
-      "url": "https://open.spotify.com/track/2wxvPuX2kCTVBRn42Ez6fC"
+      "duration_ms": 188320,
+      "name": "Algorithm",
+      "url": "https://open.spotify.com/track/0i8K9oyDQSg5tPZUTHPwhX"
     },
     {
       "added_at": "2024-06-05 04:06:41",
@@ -963,34 +943,22 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
-        "name": "Plastic Candy",
-        "url": "https://open.spotify.com/album/6H85pl4CetdaJl4wNlzXoJ"
+        "name": "AQUA CITY",
+        "url": "https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2"
       },
       "artists": [
         {
-          "name": "HaSeul",
-          "url": "https://open.spotify.com/artist/5clV5I50OxxG9JGGxeW0C9"
-        }
-      ],
-      "duration_ms": 214106,
-      "name": "Plastic Candy",
-      "url": "https://open.spotify.com/track/1MxLhOFpRp0XgVgIV9Yakr"
-    },
-    {
-      "added_at": "2024-06-05 04:06:41",
-      "album": {
-        "name": "I\u2019m not good at",
-        "url": "https://open.spotify.com/album/7rTw76epZxmCpniX4WVDjc"
-      },
-      "artists": [
+          "name": "KIM A REUM",
+          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
+        },
         {
-          "name": "Mitty",
-          "url": "https://open.spotify.com/artist/1RyHoiUL5MomO7N7kzgZjQ"
+          "name": "Muzie",
+          "url": "https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg"
         }
       ],
-      "duration_ms": 223653,
-      "name": "I\u2019m not good at",
-      "url": "https://open.spotify.com/track/0lpvVtvprYHA8L0uBYTFtS"
+      "duration_ms": 299500,
+      "name": "Aqua (feat. Muzie)",
+      "url": "https://open.spotify.com/track/2wxvPuX2kCTVBRn42Ez6fC"
     },
     {
       "added_at": "2024-06-05 04:06:41",
@@ -1023,6 +991,38 @@
       "duration_ms": 197240,
       "name": "Self Camera",
       "url": "https://open.spotify.com/track/04Quw3a7e9R7f2Sr45l6Vx"
+    },
+    {
+      "added_at": "2024-06-05 04:06:41",
+      "album": {
+        "name": "I\u2019m not good at",
+        "url": "https://open.spotify.com/album/7rTw76epZxmCpniX4WVDjc"
+      },
+      "artists": [
+        {
+          "name": "Mitty",
+          "url": "https://open.spotify.com/artist/1RyHoiUL5MomO7N7kzgZjQ"
+        }
+      ],
+      "duration_ms": 223653,
+      "name": "I\u2019m not good at",
+      "url": "https://open.spotify.com/track/0lpvVtvprYHA8L0uBYTFtS"
+    },
+    {
+      "added_at": "2024-06-05 04:06:41",
+      "album": {
+        "name": "Plastic Candy",
+        "url": "https://open.spotify.com/album/6H85pl4CetdaJl4wNlzXoJ"
+      },
+      "artists": [
+        {
+          "name": "HaSeul",
+          "url": "https://open.spotify.com/artist/5clV5I50OxxG9JGGxeW0C9"
+        }
+      ],
+      "duration_ms": 214106,
+      "name": "Plastic Candy",
+      "url": "https://open.spotify.com/track/1MxLhOFpRp0XgVgIV9Yakr"
     },
     {
       "added_at": "2024-06-05 04:06:41",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
-        "name": "Beautiful Night - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
-      },
-      "artists": [
-        {
-          "name": "YESUNG",
-          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
-        }
-      ],
-      "duration_ms": 214560,
-      "name": "Fireworks",
-      "url": "https://open.spotify.com/track/6omXzzkHd7CjudfMcs3i9a"
-    },
-    {
-      "added_at": "2024-06-05 04:06:41",
-      "album": {
         "name": "\uc5b4\ub9b0\uc655\uc790 The Little Prince - The 1st Mini Album",
         "url": "https://open.spotify.com/album/6I6CK3eLNgufEnfz7Se93z"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 201223,
       "name": "\uadf8\ub300 Hello",
       "url": "https://open.spotify.com/track/4XFCMuCMB62vIRPRbHEEiX"
+    },
+    {
+      "added_at": "2024-06-05 04:06:41",
+      "album": {
+        "name": "Beautiful Night - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
+      },
+      "artists": [
+        {
+          "name": "YESUNG",
+          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
+        }
+      ],
+      "duration_ms": 214560,
+      "name": "Fireworks",
+      "url": "https://open.spotify.com/track/6omXzzkHd7CjudfMcs3i9a"
     },
     {
       "added_at": "2024-06-05 04:06:41",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
+        "name": "AQUA CITY",
+        "url": "https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2"
+      },
+      "artists": [
+        {
+          "name": "KIM A REUM",
+          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
+        }
+      ],
+      "duration_ms": 216578,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/0ZHyC8NwIeGWaf73dQuK0y"
+    },
+    {
+      "added_at": "2024-06-05 04:06:41",
+      "album": {
         "name": "DRIVE (Feat. Leellamarz) (Single Edition 2)",
         "url": "https://open.spotify.com/album/6OVQlbKrHdQDJqzkxnj0oy"
       },
@@ -1267,22 +1283,6 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
-        "name": "What's Your Number? - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/7DHBtzFbNw2eYLRlz45tyC"
-      },
-      "artists": [
-        {
-          "name": "ZHOUMI",
-          "url": "https://open.spotify.com/artist/2xrUYKqC1VxHd16IiPxOUH"
-        }
-      ],
-      "duration_ms": 240970,
-      "name": "What's Your Number?",
-      "url": "https://open.spotify.com/track/2sz51U97nSzNWJIsCSNH89"
-    },
-    {
-      "added_at": "2024-06-05 04:06:41",
-      "album": {
         "name": "Rainbow note",
         "url": "https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp"
       },
@@ -1299,18 +1299,34 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
-        "name": "AQUA CITY",
-        "url": "https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2"
+        "name": "Cristal Love",
+        "url": "https://open.spotify.com/album/5sIhEUT8XBrUpdIsFkXkjK"
       },
       "artists": [
         {
-          "name": "KIM A REUM",
-          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
+          "name": "En Sokum",
+          "url": "https://open.spotify.com/artist/3RjGXbgDR40y0ZzZhCACfF"
         }
       ],
-      "duration_ms": 216578,
-      "name": "Sign",
-      "url": "https://open.spotify.com/track/0ZHyC8NwIeGWaf73dQuK0y"
+      "duration_ms": 217058,
+      "name": "Cristal Love",
+      "url": "https://open.spotify.com/track/056ve9qgYBqfAadX29x9ds"
+    },
+    {
+      "added_at": "2024-06-05 04:06:41",
+      "album": {
+        "name": "What's Your Number? - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/7DHBtzFbNw2eYLRlz45tyC"
+      },
+      "artists": [
+        {
+          "name": "ZHOUMI",
+          "url": "https://open.spotify.com/artist/2xrUYKqC1VxHd16IiPxOUH"
+        }
+      ],
+      "duration_ms": 240970,
+      "name": "What's Your Number?",
+      "url": "https://open.spotify.com/track/2sz51U97nSzNWJIsCSNH89"
     },
     {
       "added_at": "2024-06-05 04:06:41",
@@ -1335,42 +1351,6 @@
       "duration_ms": 278226,
       "name": "Forget You (Feat. Rainbow note, Louie)",
       "url": "https://open.spotify.com/track/6s9WfGSYC8dh9Tk6ATQhlC"
-    },
-    {
-      "added_at": "2024-06-05 04:06:41",
-      "album": {
-        "name": "Guardian (Feat. KIM A REUM)",
-        "url": "https://open.spotify.com/album/3fyp8CcFGBggndD2XtnjdW"
-      },
-      "artists": [
-        {
-          "name": "Space Cowboy",
-          "url": "https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7"
-        },
-        {
-          "name": "KIM A REUM",
-          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
-        }
-      ],
-      "duration_ms": 300289,
-      "name": "Guardian (Feat. KIM A REUM)",
-      "url": "https://open.spotify.com/track/78CBTuYALVOFENLsmR4f3H"
-    },
-    {
-      "added_at": "2024-06-05 04:06:41",
-      "album": {
-        "name": "Cristal Love",
-        "url": "https://open.spotify.com/album/5sIhEUT8XBrUpdIsFkXkjK"
-      },
-      "artists": [
-        {
-          "name": "En Sokum",
-          "url": "https://open.spotify.com/artist/3RjGXbgDR40y0ZzZhCACfF"
-        }
-      ],
-      "duration_ms": 217058,
-      "name": "Cristal Love",
-      "url": "https://open.spotify.com/track/056ve9qgYBqfAadX29x9ds"
     },
     {
       "added_at": "2024-06-05 04:06:41",
@@ -1407,22 +1387,6 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
-        "name": "MINI",
-        "url": "https://open.spotify.com/album/74DqQrYGTSS6NfqZY7Vml0"
-      },
-      "artists": [
-        {
-          "name": "LIM JIMIN",
-          "url": "https://open.spotify.com/artist/6MR6N2h4KSNmJ26OSrROYh"
-        }
-      ],
-      "duration_ms": 187653,
-      "name": "Loveholic",
-      "url": "https://open.spotify.com/track/6ti3JvY3ZSdqvTA7PaSA1e"
-    },
-    {
-      "added_at": "2024-06-05 04:06:41",
-      "album": {
         "name": "Empty",
         "url": "https://open.spotify.com/album/1PXidTC6ygrMxPUuMch2Tm"
       },
@@ -1443,18 +1407,38 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
-        "name": "City",
-        "url": "https://open.spotify.com/album/5tIUoIBCtGC1TYpuoZ2xIF"
+        "name": "Guardian (Feat. KIM A REUM)",
+        "url": "https://open.spotify.com/album/3fyp8CcFGBggndD2XtnjdW"
       },
       "artists": [
         {
-          "name": "\uc815\uc740\uc7ac",
-          "url": "https://open.spotify.com/artist/6hG6knn5PcWdv4hN0Yhvso"
+          "name": "Space Cowboy",
+          "url": "https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7"
+        },
+        {
+          "name": "KIM A REUM",
+          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
         }
       ],
-      "duration_ms": 162709,
-      "name": "City",
-      "url": "https://open.spotify.com/track/38qecpqjU5yzD7bFwU6GKL"
+      "duration_ms": 300289,
+      "name": "Guardian (Feat. KIM A REUM)",
+      "url": "https://open.spotify.com/track/78CBTuYALVOFENLsmR4f3H"
+    },
+    {
+      "added_at": "2024-06-05 04:06:41",
+      "album": {
+        "name": "MINI",
+        "url": "https://open.spotify.com/album/74DqQrYGTSS6NfqZY7Vml0"
+      },
+      "artists": [
+        {
+          "name": "LIM JIMIN",
+          "url": "https://open.spotify.com/artist/6MR6N2h4KSNmJ26OSrROYh"
+        }
+      ],
+      "duration_ms": 187653,
+      "name": "Loveholic",
+      "url": "https://open.spotify.com/track/6ti3JvY3ZSdqvTA7PaSA1e"
     },
     {
       "added_at": "2024-06-05 04:06:41",
@@ -1471,6 +1455,38 @@
       "duration_ms": 240687,
       "name": "Our love like tonight",
       "url": "https://open.spotify.com/track/5qtYh6ZnzFGwwwJ8BknAsx"
+    },
+    {
+      "added_at": "2024-06-05 04:06:41",
+      "album": {
+        "name": "City",
+        "url": "https://open.spotify.com/album/5tIUoIBCtGC1TYpuoZ2xIF"
+      },
+      "artists": [
+        {
+          "name": "\uc815\uc740\uc7ac",
+          "url": "https://open.spotify.com/artist/6hG6knn5PcWdv4hN0Yhvso"
+        }
+      ],
+      "duration_ms": 162709,
+      "name": "City",
+      "url": "https://open.spotify.com/track/38qecpqjU5yzD7bFwU6GKL"
+    },
+    {
+      "added_at": "2024-06-05 04:06:41",
+      "album": {
+        "name": "My Universe - Home Recording Project #4",
+        "url": "https://open.spotify.com/album/1XZD87d6fZmsBcIS4qfeCk"
+      },
+      "artists": [
+        {
+          "name": "W24",
+          "url": "https://open.spotify.com/artist/2SJQjeKXsMqPziotLsmEit"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "My Universe - Home Recording Project #4",
+      "url": "https://open.spotify.com/track/0ljn4YeQP7xgEZ1vznVDCx"
     },
     {
       "added_at": "2024-06-05 04:06:41",
@@ -1495,22 +1511,6 @@
       "duration_ms": 212750,
       "name": "Midnight (feat. SFC.JGR & B JYUN.)",
       "url": "https://open.spotify.com/track/3LYOTfdF9jyJXVcLvhZ8nz"
-    },
-    {
-      "added_at": "2024-06-05 04:06:41",
-      "album": {
-        "name": "My Universe - Home Recording Project #4",
-        "url": "https://open.spotify.com/album/1XZD87d6fZmsBcIS4qfeCk"
-      },
-      "artists": [
-        {
-          "name": "W24",
-          "url": "https://open.spotify.com/artist/2SJQjeKXsMqPziotLsmEit"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "My Universe - Home Recording Project #4",
-      "url": "https://open.spotify.com/track/0ljn4YeQP7xgEZ1vznVDCx"
     },
     {
       "added_at": "2024-06-05 04:06:41",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
-        "name": "Monthly Project 2023 January Yoon Jong Shin - The Third",
-        "url": "https://open.spotify.com/album/1rIQCBkQf1iYVCHK7hCxZr"
-      },
-      "artists": [
-        {
-          "name": "Yoon Jong Shin",
-          "url": "https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw"
-        }
-      ],
-      "duration_ms": 255839,
-      "name": "Monthly Project 2023 January Yoon Jong Shin - The Third",
-      "url": "https://open.spotify.com/track/51ZFJYJmdt8nX2nInpDOJk"
-    },
-    {
-      "added_at": "2024-06-05 04:06:41",
-      "album": {
         "name": "Temperature of Love",
         "url": "https://open.spotify.com/album/243WfskVKVmbYsRLsMnhhV"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 226440,
       "name": "Love Counseling",
       "url": "https://open.spotify.com/track/3806qzWO2NAHJUEBse4g8a"
+    },
+    {
+      "added_at": "2024-06-05 04:06:41",
+      "album": {
+        "name": "Monthly Project 2023 January Yoon Jong Shin - The Third",
+        "url": "https://open.spotify.com/album/1rIQCBkQf1iYVCHK7hCxZr"
+      },
+      "artists": [
+        {
+          "name": "Yoon Jong Shin",
+          "url": "https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw"
+        }
+      ],
+      "duration_ms": 255839,
+      "name": "Monthly Project 2023 January Yoon Jong Shin - The Third",
+      "url": "https://open.spotify.com/track/51ZFJYJmdt8nX2nInpDOJk"
     },
     {
       "added_at": "2024-06-05 04:06:41",

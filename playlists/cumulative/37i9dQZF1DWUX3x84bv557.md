@@ -4,7 +4,7 @@
 
 > De nieuwste Nederlandse pop! Cover: Emma Heesters & Rolf Sanchez
 
-619 songs - 1 day 5 hr 58 min
+620 songs - 1 day 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,8 @@
 | [Cheffen](https://open.spotify.com/track/1raZ0KuZsWD6YVjkbBdBh9) | [Maks](https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI) | [Cheffen](https://open.spotify.com/album/29fGj0pzvEHkAwGcBFNmqi) | 2:38 | 2024-01-11 | 2024-02-16 |
 | [Confetti](https://open.spotify.com/track/2QdLK8Px4ogArZbqV4fzyF) | [Hiwot Music](https://open.spotify.com/artist/6XA5RMPFFjXUEksZkHHCh7), [Hiwot](https://open.spotify.com/artist/1I4MIUVnff0JGmxgjcXeX9) | [Confetti](https://open.spotify.com/album/5aJiOr7wOCxeMZ08Jb5jbT) | 2:40 | 2023-08-17 | 2023-09-01 |
 | [Consensual](https://open.spotify.com/track/3WzfdbLODInkYLnPDZ18x7) | [Sleeq](https://open.spotify.com/artist/2qvTXvob9J4bX63ZrZyliD) | [Consensual](https://open.spotify.com/album/5XQ3CGBa4p7Irp64jyrJc9) | 2:21 | 2024-04-18 | 2024-06-01 |
-| [Contigo](https://open.spotify.com/track/6r3AQNLSSqiSJQtRctbMSC) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Contigo](https://open.spotify.com/album/1fGfhBbKIxQ9MyMgFhZ9MF) | 2:54 | 2024-06-13 |  |
+| [Contigo](https://open.spotify.com/track/5dDTrE9ePpX0nGY1naajL0) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Contigo](https://open.spotify.com/album/5K3M8cOMFr6ITmE4FgMdI8) | 2:54 | 2024-06-16 |  |
+| [Contigo](https://open.spotify.com/track/6r3AQNLSSqiSJQtRctbMSC) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Contigo](https://open.spotify.com/album/1fGfhBbKIxQ9MyMgFhZ9MF) | 2:54 | 2024-06-13 | 2024-06-17 |
 | [Cupido](https://open.spotify.com/track/4eqKoFDvkBK96nYgUTXUWp) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Cupido](https://open.spotify.com/album/4Tl02H0tgYPsKORUb338Kt) | 2:23 | 2023-11-16 | 2024-02-16 |
 | [Dakkie Open](https://open.spotify.com/track/0AdtOEkY2yw0r4dU5nasSd) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Dakkie Open](https://open.spotify.com/album/4fdBY1p8awy4SvM1O9pbtB) | 3:14 | 2023-08-31 | 2023-10-13 |
 | [Dangerous](https://open.spotify.com/track/1CYCk63BLjz4sGA8coNU6u) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Dangerous](https://open.spotify.com/album/4gHZ6Z0tf7LVAwSt1SffdA) | 2:50 | 2024-01-11 | 2024-04-12 |

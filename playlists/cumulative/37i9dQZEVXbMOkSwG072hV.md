@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-2,398 songs - 5 day 4 hr 54 min
+2,399 songs - 5 day 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,7 +364,7 @@
 | [Business](https://open.spotify.com/track/3B4MxQOkvwS5Cx3G4Csn03) | [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Gu$Z](https://open.spotify.com/artist/0NTTVLWsZy8PsDeT2JD1vv), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Essa é a Vida de um Corredor](https://open.spotify.com/album/7bBlOZxxwCMSMpFngmSIPO) | 2:12 | 2023-03-07 | 2023-03-27 |
 | [Bécane](https://open.spotify.com/track/424utU9OlUcB7j2LRU9l6f) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [ELOWI](https://open.spotify.com/album/49TUnWv5swURA9osAyLHI2) | 3:03 | 2024-01-12 | 2024-01-22 |
 | [Bécane \- A COLORS SHOW](https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Bécane \- A COLORS SHOW](https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB) | 3:02 | 2023-12-18 | 2024-02-11 |
-| [Bêbada Favorita](https://open.spotify.com/track/2Kuf7IkhGSFLHVRNojyxV2) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 3:24 | 2024-05-31 |  |
+| [Bêbada Favorita](https://open.spotify.com/track/2Kuf7IkhGSFLHVRNojyxV2) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 3:24 | 2024-05-31 | 2024-06-17 |
 | [Bênçãos Que Não Têm Fim \(Counting My Blessings\)](https://open.spotify.com/track/7dKqPh21HpsysZvRWyNeM1) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Bênçãos Que Não Têm Fim \(Counting My Blessings\)](https://open.spotify.com/album/5W5SfUqsLvMtbdncu1fGah) | 3:29 | 2023-11-28 | 2024-02-05 |
 | [Cabeleira Do Zezé](https://open.spotify.com/track/7rwXwVOfULqhoa8vdOSLJx) | [Banda Gol](https://open.spotify.com/artist/3wJpJ3peSD0wgw8cttrr8k) | [Baile de Carnaval: As Melhores Marchinhas de Todos os Tempos](https://open.spotify.com/album/2soSNWvOOVLzQutEEkXtIA) | 2:28 | 2022-02-27 | 2024-02-18 |
 | [Cabelin Te Phonka Hoje](https://open.spotify.com/track/0r7aIZaaC0xI3ALGTlLW3J) | [Prod By vZz](https://open.spotify.com/artist/4ymeE5I93BfAn6dEQpRIRN) | [Cabelin Te Phonka Hoje](https://open.spotify.com/album/4memGtXCeJVE28RNHJtK5t) | 2:11 | 2023-01-17 | 2023-01-19 |
@@ -1761,6 +1761,7 @@
 | [Quadradinho do Hexa](https://open.spotify.com/track/11pPLhehMf74ZXExfmR1vZ) | [Bonde das Maravilhas](https://open.spotify.com/artist/3UZyjeKVvRv39UqBpeYX6d) | [Maravilhas](https://open.spotify.com/album/5Dw8PdaouOAOJOPAqrVqCy) | 2:07 | 2022-11-25 | 2022-12-03 |
 | [Quadrilha Brasileira / O Sanfoneiro Só Tocava Isso](https://open.spotify.com/track/3KSFbrgX9nK3ikU87T9fki) | [Ze Pipa](https://open.spotify.com/artist/2dC1FYyHbI8M7K6Zu5bVC1) | [Festa Junina de São João na Sanfona](https://open.spotify.com/album/3xMSqJlipZC0MsRctd68px) | 9:32 | 2022-06-17 | 2022-07-06 |
 | [Quadrilha Brasileira / O Sanfoneiro Só Tocava Isso \- Instrumental](https://open.spotify.com/track/5bJnIg3FhAHoALP407aeMW) | [Ze Pipa](https://open.spotify.com/artist/2dC1FYyHbI8M7K6Zu5bVC1) | [Festa Junina de São João na Sanfona \(Instrumental\)](https://open.spotify.com/album/66RE3lXWgeS00N38KnxDVW) | 9:32 | 2023-06-18 | 2023-07-05 |
+| [Quadrilha Junina \- Quadrilha Tradicional](https://open.spotify.com/track/40M3ggRyoagyNSZu3saYQI) | [MF Digital Music](https://open.spotify.com/artist/3PpEMU65ILNsDZJAcvu8Ce) | [Quadrilha Junina \- Quadrilha Tradicional](https://open.spotify.com/album/2rAE6AHoxGpqiVpA2osycu) | 10:16 | 2024-06-16 |  |
 | [Qual é seu desejo?](https://open.spotify.com/track/2HzLEPWKXcfpwfmEIUURHo) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Qual é seu desejo?](https://open.spotify.com/album/5qNaCpWDBGkFQ4xfLs0TKs) | 2:33 | 2024-03-19 | 2024-04-10 |
 | [Quando a Chuva Passar](https://open.spotify.com/track/3EYs1xHiDQD9jw4MnHjbi9) | [Thiago Freitas](https://open.spotify.com/artist/26u3LeVpw9EOQLkNVX6NUj) | [Apaixonando Coração](https://open.spotify.com/album/6PnH29qiKcyRGTyFJj4n2j) | 3:31 | 2023-10-24 | 2023-11-16 |
 | [Quando Bate Aquela Saudade](https://open.spotify.com/track/76bcaYeKOKTrj9lEc9BZFU) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Pearl](https://open.spotify.com/album/25fli8PlxpP10WpirvDpMT) | 6:34 | 2023-03-07 | 2023-03-21 |

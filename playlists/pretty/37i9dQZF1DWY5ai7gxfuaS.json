@@ -1,6 +1,6 @@
 {
   "description": "The future of metal is here.",
-  "num_followers": 288578,
+  "num_followers": 288647,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
@@ -183,22 +183,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "POST HUMAN: SURVIVAL HORROR",
-        "url": "https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 164797,
-      "name": "Dear Diary,",
-      "url": "https://open.spotify.com/track/3DW6GVr7RVyfvo4NBRvZIZ"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Intoxicated",
         "url": "https://open.spotify.com/album/385qWF7ljbjZNS6r9LCbZ6"
       },
@@ -267,6 +251,38 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/12Sjx8c63V2PHvbgX6f7Ge"
+      },
+      "artists": [
+        {
+          "name": "Kim Dracula",
+          "url": "https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp"
+        }
+      ],
+      "duration_ms": 166466,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/2jPqRiw1kJvxDKIibCPhHu"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "POST HUMAN: SURVIVAL HORROR",
+        "url": "https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 164797,
+      "name": "Dear Diary,",
+      "url": "https://open.spotify.com/track/3DW6GVr7RVyfvo4NBRvZIZ"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
         "name": "FAIRY PHONK",
         "url": "https://open.spotify.com/album/305PTplSb0MkTkVEOgV6Kj"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 125454,
       "name": "KILL ALL PREDATORS",
       "url": "https://open.spotify.com/track/0mH0iiNINYULYFwszeqWnW"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
-        "name": "Drown",
-        "url": "https://open.spotify.com/album/12Sjx8c63V2PHvbgX6f7Ge"
-      },
-      "artists": [
-        {
-          "name": "Kim Dracula",
-          "url": "https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp"
-        }
-      ],
-      "duration_ms": 166466,
-      "name": "Drown",
-      "url": "https://open.spotify.com/track/2jPqRiw1kJvxDKIibCPhHu"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Wake of a Nation",
-        "url": "https://open.spotify.com/album/5s02KPkBjMkrz9zUJBWXDA"
-      },
-      "artists": [
-        {
-          "name": "Zeal & Ardor",
-          "url": "https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y"
-        }
-      ],
-      "duration_ms": 189105,
-      "name": "At the Seams",
-      "url": "https://open.spotify.com/track/23lu3i2IiQgqR5xBKJhdHR"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Salma Hayek",
         "url": "https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 219630,
       "name": "Salma Hayek",
       "url": "https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Wake of a Nation",
+        "url": "https://open.spotify.com/album/5s02KPkBjMkrz9zUJBWXDA"
+      },
+      "artists": [
+        {
+          "name": "Zeal & Ardor",
+          "url": "https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y"
+        }
+      ],
+      "duration_ms": 189105,
+      "name": "At the Seams",
+      "url": "https://open.spotify.com/track/23lu3i2IiQgqR5xBKJhdHR"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Mitsuko",
-        "url": "https://open.spotify.com/album/4FRKJAQ4jL39BOV1ju8GKO"
-      },
-      "artists": [
-        {
-          "name": "Lake Malice",
-          "url": "https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO"
-        }
-      ],
-      "duration_ms": 129078,
-      "name": "Mitsuko",
-      "url": "https://open.spotify.com/track/1oIEBoljXDbbaEciwMVzfx"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Blood Year",
         "url": "https://open.spotify.com/album/1LWWmVyhDxFAxBmQe3ecZb"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 393026,
       "name": "Arluck",
       "url": "https://open.spotify.com/track/0aOsJ0gpHm7cfG2AMaBX1g"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Mitsuko",
+        "url": "https://open.spotify.com/album/4FRKJAQ4jL39BOV1ju8GKO"
+      },
+      "artists": [
+        {
+          "name": "Lake Malice",
+          "url": "https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO"
+        }
+      ],
+      "duration_ms": 129078,
+      "name": "Mitsuko",
+      "url": "https://open.spotify.com/track/1oIEBoljXDbbaEciwMVzfx"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -719,26 +719,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Moot",
-        "url": "https://open.spotify.com/album/0mla1tVzfxr60Nl3JKqnaQ"
-      },
-      "artists": [
-        {
-          "name": "We Are PIGS",
-          "url": "https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz"
-        },
-        {
-          "name": "Morgan Lander",
-          "url": "https://open.spotify.com/artist/6UmXnQCZQvayT1eZxAIvz5"
-        }
-      ],
-      "duration_ms": 245664,
-      "name": "Moot",
-      "url": "https://open.spotify.com/track/4uyZcMuMZ53OPEqH41AsUe"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Azure",
         "url": "https://open.spotify.com/album/4p3wtygUwO9Rfjun8urArN"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 235000,
       "name": "Russian Doll",
       "url": "https://open.spotify.com/track/5KY4Km7rllwWovNNU8hhPt"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Moot",
+        "url": "https://open.spotify.com/album/0mla1tVzfxr60Nl3JKqnaQ"
+      },
+      "artists": [
+        {
+          "name": "We Are PIGS",
+          "url": "https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz"
+        },
+        {
+          "name": "Morgan Lander",
+          "url": "https://open.spotify.com/artist/6UmXnQCZQvayT1eZxAIvz5"
+        }
+      ],
+      "duration_ms": 245664,
+      "name": "Moot",
+      "url": "https://open.spotify.com/track/4uyZcMuMZ53OPEqH41AsUe"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Soul Revolution",
-        "url": "https://open.spotify.com/album/4JNGZre3bq4Fgmy0zUkOel"
-      },
-      "artists": [
-        {
-          "name": "Fire From The Gods",
-          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
-        }
-      ],
-      "duration_ms": 214775,
-      "name": "Soul Revolution",
-      "url": "https://open.spotify.com/track/3OMaAVh09E6AgvevhWybRP"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Make It Out Alive",
         "url": "https://open.spotify.com/album/3QpZhoEwPACrnTWTmSil9K"
       },
@@ -891,18 +875,18 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "BLOODSUCKERS",
-        "url": "https://open.spotify.com/album/78xfo3XQBKNBUzHXuXVYOb"
+        "name": "Soul Revolution",
+        "url": "https://open.spotify.com/album/4JNGZre3bq4Fgmy0zUkOel"
       },
       "artists": [
         {
-          "name": "Saint Agnes",
-          "url": "https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL"
+          "name": "Fire From The Gods",
+          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
         }
       ],
-      "duration_ms": 202693,
-      "name": "Bloodsuckers",
-      "url": "https://open.spotify.com/track/2vbixTLaxeZetGfoKx3Yl1"
+      "duration_ms": 214775,
+      "name": "Soul Revolution",
+      "url": "https://open.spotify.com/track/3OMaAVh09E6AgvevhWybRP"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -923,6 +907,22 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
+        "name": "BLOODSUCKERS",
+        "url": "https://open.spotify.com/album/78xfo3XQBKNBUzHXuXVYOb"
+      },
+      "artists": [
+        {
+          "name": "Saint Agnes",
+          "url": "https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL"
+        }
+      ],
+      "duration_ms": 202693,
+      "name": "Bloodsuckers",
+      "url": "https://open.spotify.com/track/2vbixTLaxeZetGfoKx3Yl1"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
         "name": "Don't Wait",
         "url": "https://open.spotify.com/album/6kw0XsjkS9XYTmNtxrb9eO"
       },
@@ -939,22 +939,6 @@
       "duration_ms": 128371,
       "name": "Don't Wait",
       "url": "https://open.spotify.com/track/4oOCcO06KEM6a8gEEBOh8x"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
-        "name": "Alone I...",
-        "url": "https://open.spotify.com/album/6b5mOy8LTM2pN8LQ5uspEj"
-      },
-      "artists": [
-        {
-          "name": "Synthetic Blast",
-          "url": "https://open.spotify.com/artist/20OWBlxvp4RbBfmibyOQ8b"
-        }
-      ],
-      "duration_ms": 280549,
-      "name": "Alone I Burn - Radio Edit",
-      "url": "https://open.spotify.com/track/5GvOnHHJz0BUnlExQdPnAE"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -991,6 +975,22 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
+        "name": "Alone I...",
+        "url": "https://open.spotify.com/album/6b5mOy8LTM2pN8LQ5uspEj"
+      },
+      "artists": [
+        {
+          "name": "Synthetic Blast",
+          "url": "https://open.spotify.com/artist/20OWBlxvp4RbBfmibyOQ8b"
+        }
+      ],
+      "duration_ms": 280549,
+      "name": "Alone I Burn - Radio Edit",
+      "url": "https://open.spotify.com/track/5GvOnHHJz0BUnlExQdPnAE"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
         "name": "Picasso On The Concrete",
         "url": "https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM"
       },
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Telescope",
-        "url": "https://open.spotify.com/album/5G4YhsTHSNpLSAutMvL80X"
-      },
-      "artists": [
-        {
-          "name": "Tallah",
-          "url": "https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf"
-        }
-      ],
-      "duration_ms": 249979,
-      "name": "Telescope",
-      "url": "https://open.spotify.com/track/0EY7Er3cOHyLZplxeODrcs"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Pyroclasts",
         "url": "https://open.spotify.com/album/7qBdr5VAmWMSJ7dij0mV3f"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 656933,
       "name": "Frost (C)",
       "url": "https://open.spotify.com/track/24jWKZE0j30z3LlnzArFf2"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Telescope",
+        "url": "https://open.spotify.com/album/5G4YhsTHSNpLSAutMvL80X"
+      },
+      "artists": [
+        {
+          "name": "Tallah",
+          "url": "https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf"
+        }
+      ],
+      "duration_ms": 249979,
+      "name": "Telescope",
+      "url": "https://open.spotify.com/track/0EY7Er3cOHyLZplxeODrcs"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
+        "name": "FUCK WITH A WITCH 2",
+        "url": "https://open.spotify.com/album/2ZfQhbjBKK9MAEoUO3Vj2e"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        }
+      ],
+      "duration_ms": 90491,
+      "name": "FUCK WITH A WITCH 2",
+      "url": "https://open.spotify.com/track/3S38ENcItSgp1NGqxZn01C"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
         "name": "DODGE A BULLET",
         "url": "https://open.spotify.com/album/7lyLpdvd2DK5oXCqU5YW0M"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 166504,
       "name": "DODGE A BULLET",
       "url": "https://open.spotify.com/track/0VoNtFDVvqndbPHYnR7JYC"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
-        "name": "FUCK WITH A WITCH 2",
-        "url": "https://open.spotify.com/album/2ZfQhbjBKK9MAEoUO3Vj2e"
-      },
-      "artists": [
-        {
-          "name": "Banshee",
-          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
-        }
-      ],
-      "duration_ms": 90491,
-      "name": "FUCK WITH A WITCH 2",
-      "url": "https://open.spotify.com/track/3S38ENcItSgp1NGqxZn01C"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Fight Alone",
-        "url": "https://open.spotify.com/album/6C1DNopbfI128o0pc2iahx"
-      },
-      "artists": [
-        {
-          "name": "Motive Black",
-          "url": "https://open.spotify.com/artist/1cCTbyI3umMlxOoqjt7uDw"
-        }
-      ],
-      "duration_ms": 220333,
-      "name": "Fight Alone",
-      "url": "https://open.spotify.com/track/3zMFgPNhMu2Em1E4HvNcqw"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "White Noise",
         "url": "https://open.spotify.com/album/5XK72MyNkvyWhgclcg0XvF"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 277024,
       "name": "White Noise",
       "url": "https://open.spotify.com/track/750uSPGwf5jqU1teWD5cdO"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Fight Alone",
+        "url": "https://open.spotify.com/album/6C1DNopbfI128o0pc2iahx"
+      },
+      "artists": [
+        {
+          "name": "Motive Black",
+          "url": "https://open.spotify.com/artist/1cCTbyI3umMlxOoqjt7uDw"
+        }
+      ],
+      "duration_ms": 220333,
+      "name": "Fight Alone",
+      "url": "https://open.spotify.com/track/3zMFgPNhMu2Em1E4HvNcqw"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "EUGH!",
-        "url": "https://open.spotify.com/album/0mEno0dMRPUrWNkp11zB8X"
-      },
-      "artists": [
-        {
-          "name": "SPIIRAL",
-          "url": "https://open.spotify.com/artist/2MNOsEKFbWpezBWYtSrtZC"
-        }
-      ],
-      "duration_ms": 82926,
-      "name": "EUGH!",
-      "url": "https://open.spotify.com/track/1kFjv9uKUcatuEkamM0Tgx"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Nowhere Now Here",
         "url": "https://open.spotify.com/album/4SnsgTwNCmqJMOiuj4hxH3"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 336513,
       "name": "After You Comes the Flood",
       "url": "https://open.spotify.com/track/66JSsyAmLobSSYZDjwla5b"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "EUGH!",
+        "url": "https://open.spotify.com/album/0mEno0dMRPUrWNkp11zB8X"
+      },
+      "artists": [
+        {
+          "name": "SPIIRAL",
+          "url": "https://open.spotify.com/artist/2MNOsEKFbWpezBWYtSrtZC"
+        }
+      ],
+      "duration_ms": 82926,
+      "name": "EUGH!",
+      "url": "https://open.spotify.com/track/1kFjv9uKUcatuEkamM0Tgx"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Animo",
-        "url": "https://open.spotify.com/album/5z7fDpyjFEYF4XrnUQ8BEd"
-      },
-      "artists": [
-        {
-          "name": "Profiler",
-          "url": "https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo"
-        }
-      ],
-      "duration_ms": 195800,
-      "name": "Animo",
-      "url": "https://open.spotify.com/track/3JDUSXqeaecr0d1mCFTSMh"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "AN ITERATION",
         "url": "https://open.spotify.com/album/0xMePIGPcoO7Xirx1Jh0da"
       },
@@ -1491,6 +1475,22 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
+        "name": "Animo",
+        "url": "https://open.spotify.com/album/5z7fDpyjFEYF4XrnUQ8BEd"
+      },
+      "artists": [
+        {
+          "name": "Profiler",
+          "url": "https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo"
+        }
+      ],
+      "duration_ms": 195800,
+      "name": "Animo",
+      "url": "https://open.spotify.com/track/3JDUSXqeaecr0d1mCFTSMh"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/4MAo5gILZxksQ3eAF1VkEq"
       },
@@ -1503,26 +1503,6 @@
       "duration_ms": 269265,
       "name": "Power",
       "url": "https://open.spotify.com/track/49CICsKXhKYkvXobgkrutz"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
-        "name": "Going Under",
-        "url": "https://open.spotify.com/album/1HqFkGXZGw489mMw2xVC9g"
-      },
-      "artists": [
-        {
-          "name": "HIGHSOCIETY",
-          "url": "https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
-        }
-      ],
-      "duration_ms": 193281,
-      "name": "Going Under",
-      "url": "https://open.spotify.com/track/0hXSGi92Kprn6CEhULCGV3"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1559,6 +1539,26 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
+        "name": "Going Under",
+        "url": "https://open.spotify.com/album/1HqFkGXZGw489mMw2xVC9g"
+      },
+      "artists": [
+        {
+          "name": "HIGHSOCIETY",
+          "url": "https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "duration_ms": 193281,
+      "name": "Going Under",
+      "url": "https://open.spotify.com/track/0hXSGi92Kprn6CEhULCGV3"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
         "name": "Lifers",
         "url": "https://open.spotify.com/album/4QorJObMBo6fFHnW8CNcGB"
       },
@@ -1571,38 +1571,6 @@
       "duration_ms": 298991,
       "name": "Lifers",
       "url": "https://open.spotify.com/track/0cluQGCBtjYHtVTW9GJayG"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
-        "name": "The Angel of History",
-        "url": "https://open.spotify.com/album/5dhT3bPpiEtSDnMvkwjekT"
-      },
-      "artists": [
-        {
-          "name": "Cryptodira",
-          "url": "https://open.spotify.com/artist/6aaRy3pEsAC5lrbpQC5WEl"
-        }
-      ],
-      "duration_ms": 213688,
-      "name": "Dante's Inspiration",
-      "url": "https://open.spotify.com/track/0xqCqprCOqvz2zGridoiqu"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
-        "name": "Machine Violence",
-        "url": "https://open.spotify.com/album/2adncZksC8j5GeagRKPNsP"
-      },
-      "artists": [
-        {
-          "name": "Realize",
-          "url": "https://open.spotify.com/artist/5Lcte3icI4BDaSt7TyRYKL"
-        }
-      ],
-      "duration_ms": 202973,
-      "name": "Alone Against Flames",
-      "url": "https://open.spotify.com/track/0chpxeBNSAxm3OcHJEgBgo"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1639,6 +1607,38 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
+        "name": "The Angel of History",
+        "url": "https://open.spotify.com/album/5dhT3bPpiEtSDnMvkwjekT"
+      },
+      "artists": [
+        {
+          "name": "Cryptodira",
+          "url": "https://open.spotify.com/artist/6aaRy3pEsAC5lrbpQC5WEl"
+        }
+      ],
+      "duration_ms": 213688,
+      "name": "Dante's Inspiration",
+      "url": "https://open.spotify.com/track/0xqCqprCOqvz2zGridoiqu"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Machine Violence",
+        "url": "https://open.spotify.com/album/2adncZksC8j5GeagRKPNsP"
+      },
+      "artists": [
+        {
+          "name": "Realize",
+          "url": "https://open.spotify.com/artist/5Lcte3icI4BDaSt7TyRYKL"
+        }
+      ],
+      "duration_ms": 202973,
+      "name": "Alone Against Flames",
+      "url": "https://open.spotify.com/track/0chpxeBNSAxm3OcHJEgBgo"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
         "name": "The Triumphal Chariot of Antimony",
         "url": "https://open.spotify.com/album/1EIi0O4cK8iTq79mY8PceL"
       },
@@ -1651,6 +1651,26 @@
       "duration_ms": 339053,
       "name": "The Triumphal Chariot of Antimony",
       "url": "https://open.spotify.com/track/2UaSBb1eH8SxqUZ4qvc8fZ"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Neurosis & Jarboe (Remastered)",
+        "url": "https://open.spotify.com/album/4OYllqJB6dZzQ1n03lhwg9"
+      },
+      "artists": [
+        {
+          "name": "Neurosis",
+          "url": "https://open.spotify.com/artist/1KHydwFySZY3YcWyo2q2dF"
+        },
+        {
+          "name": "Jarboe",
+          "url": "https://open.spotify.com/artist/5cCzokwZSw5IRKcm7LpRbH"
+        }
+      ],
+      "duration_ms": 374706,
+      "name": "Within - Remastered",
+      "url": "https://open.spotify.com/track/0bcHyF4pOFr3xXV68mrbvO"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1683,26 +1703,6 @@
       "duration_ms": 276485,
       "name": "A Bellyful of Salt and Spleen",
       "url": "https://open.spotify.com/track/0MNI4YG8dQ82tRR2St6q6V"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
-        "name": "Neurosis & Jarboe (Remastered)",
-        "url": "https://open.spotify.com/album/4OYllqJB6dZzQ1n03lhwg9"
-      },
-      "artists": [
-        {
-          "name": "Neurosis",
-          "url": "https://open.spotify.com/artist/1KHydwFySZY3YcWyo2q2dF"
-        },
-        {
-          "name": "Jarboe",
-          "url": "https://open.spotify.com/artist/5cCzokwZSw5IRKcm7LpRbH"
-        }
-      ],
-      "duration_ms": 374706,
-      "name": "Within - Remastered",
-      "url": "https://open.spotify.com/track/0bcHyF4pOFr3xXV68mrbvO"
     },
     {
       "added_at": "2023-12-07 20:09:02",

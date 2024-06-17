@@ -1059,6 +1059,24 @@
     },
     {
       "album": {
+        "name": "All About Me",
+        "url": "https://open.spotify.com/album/5oMMQjSkPPFccLMqwY1zYK"
+      },
+      "artists": [
+        {
+          "name": "Calum Bowie",
+          "url": "https://open.spotify.com/artist/0BjKESiuU8dT323VIL8SqG"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179031,
+      "name": "All About Me",
+      "url": "https://open.spotify.com/track/59HfHJcz1z8TMrZz6kjH9Y"
+    },
+    {
+      "album": {
         "name": "Ombak Banyu Asmara",
         "url": "https://open.spotify.com/album/5sETnYAu5J0G3dMIfGRGBW"
       },
@@ -3268,7 +3286,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 170986,
       "name": "break me",
       "url": "https://open.spotify.com/track/2mumSkODFJWLAX4p1RsGoZ"
@@ -7482,6 +7500,24 @@
       "duration_ms": 177000,
       "name": "Fashion Killer",
       "url": "https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1"
+    },
+    {
+      "album": {
+        "name": "Favorite Kind Of Lonely",
+        "url": "https://open.spotify.com/album/0JcdAP9yv2TEDI2twbFzT0"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178639,
+      "name": "Favorite Kind Of Lonely",
+      "url": "https://open.spotify.com/track/38dBz3okkrzx62DPYqRo8u"
     },
     {
       "album": {
@@ -16410,7 +16446,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 254348,
       "name": "Obvio Bien",
       "url": "https://open.spotify.com/track/1tB9yQnhyBrnft7mUSpbEh"
@@ -18250,7 +18286,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 212859,
       "name": "Proud of Me",
       "url": "https://open.spotify.com/track/4p3QFHlxOOJzE2dy9CL7WR"
@@ -19003,6 +19039,32 @@
     },
     {
       "album": {
+        "name": "Romanzo Rosa",
+        "url": "https://open.spotify.com/album/1ozTJQBhbtke6kyb7Co7x6"
+      },
+      "artists": [
+        {
+          "name": "STE",
+          "url": "https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz"
+        },
+        {
+          "name": "endly",
+          "url": "https://open.spotify.com/artist/1cqb0IqRUO8HCpKFdMsdvI"
+        },
+        {
+          "name": "Rnla",
+          "url": "https://open.spotify.com/artist/5lKJ1MdVwexXUEEUFLI4l9"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "Romanzo Rosa",
+      "url": "https://open.spotify.com/track/5oR5NvN3Cml2LD0sq7zDAN"
+    },
+    {
+      "album": {
         "name": "Rome",
         "url": "https://open.spotify.com/album/6tsIKPtNFPVwUztMLk8nST"
       },
@@ -19334,7 +19396,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-09",
+      "date_removed": null,
       "duration_ms": 229450,
       "name": "SAH - Acoustic Version",
       "url": "https://open.spotify.com/track/15E37jzTXmjIrF2r3eNYDD"
@@ -24704,7 +24766,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 194158,
       "name": "your house, my house",
       "url": "https://open.spotify.com/track/3dS3l0OmExgoXx9gYloCyN"

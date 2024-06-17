@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-498 songs - 1 day 4 hr 8 min
+499 songs - 1 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,7 @@
 | [La Puerta](https://open.spotify.com/track/6v988u9uCkXho3hvjqom1s) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP), [nan Q](https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc) | [La Puerta](https://open.spotify.com/album/6aEKqi158pdsZCKcMjiHlP) | 2:57 | 2024-06-14 |  |
 | [Laberinto](https://open.spotify.com/track/2xWTpdIasfP9dRNY4Wi1lK) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [Laberinto](https://open.spotify.com/album/6VFBkyvHaA3dYW4wVN7y0R) | 3:42 | 2022-01-07 | 2022-07-27 |
 | [Las Flores](https://open.spotify.com/track/1xQqAdL14WHwCUoCqwBVjk) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ciencia Exacta](https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv) | 2:38 | 2022-01-07 | 2023-10-06 |
-| [Las Heridas](https://open.spotify.com/track/5tSRZ0kysfMalFuqqNT8XE) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [Las Heridas](https://open.spotify.com/album/1YbjaWrc4nPrynTDCvOIwd) | 3:25 | 2022-01-28 |  |
+| [Las Heridas](https://open.spotify.com/track/5tSRZ0kysfMalFuqqNT8XE) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [Las Heridas](https://open.spotify.com/album/1YbjaWrc4nPrynTDCvOIwd) | 3:25 | 2022-01-28 | 2024-06-17 |
 | [Las Voces](https://open.spotify.com/track/4JW6406Y4xsE9ZVE318A7c) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Las Voces](https://open.spotify.com/album/5MlI1naMkXMqRxNS0YsftP) | 3:30 | 2022-07-15 | 2023-10-06 |
 | [Las Voces](https://open.spotify.com/track/5n35LxE6iL7ln99Qj6i1Om) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Las Voces](https://open.spotify.com/album/5yCE891fAPPt3v1hzwTfCJ) | 3:30 | 2022-01-07 | 2022-07-29 |
 | [Lengua de Miel](https://open.spotify.com/track/42FrIc8RihFRS6UsPzQMxd) | [Kastiello](https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X), [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [Rokola](https://open.spotify.com/album/7y4REEOABNP1VKqZLIW6tF) | 3:22 | 2022-04-01 | 2022-04-19 |
@@ -494,6 +494,7 @@
 | [Violeta](https://open.spotify.com/track/07JZgNu7dmGPgMZqJbWp1q) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Armenia](https://open.spotify.com/album/6Iaq3qu4Dw78MSTG0YE2R1) | 4:09 | 2022-01-07 | 2022-07-29 |
 | [Violeta](https://open.spotify.com/track/4hSsj724kIt0OKkWbB7PLP) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Armenia](https://open.spotify.com/album/4tT3ltCmgXpxtVuYTWN1bm) | 4:09 | 2022-07-15 | 2023-03-03 |
 | [Volver a Comenzar](https://open.spotify.com/track/2laeYSKqa9rFsoVuPKmOo6) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Volver a Comenzar](https://open.spotify.com/album/03RbdxiAdZEVBelOjPKZJp) | 3:07 | 2022-01-07 | 2022-07-28 |
+| [Vulnerable](https://open.spotify.com/track/4Smf2SlfBKvBztC7WLRIn3) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj) | [Vulnerable](https://open.spotify.com/album/1fLDwkdNXMFKjEdvI1rAap) | 3:58 | 2024-06-14 |  |
 | [Vámonos de Viaje](https://open.spotify.com/track/2aoaTP39LTDPGHxSKj9OW5) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [BACH](https://open.spotify.com/album/4SsEredFwBsSDyu6tF8cCg) | 3:55 | 2022-01-07 | 2022-07-29 |
 | [Vámonos De Viaje](https://open.spotify.com/track/6KVK1XO1Xzy7KGfoOockqA) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [BACH](https://open.spotify.com/album/6HZ9qdQUobF9C9ovVnRjNg) | 3:56 | 2022-07-15 | 2023-03-03 |
 | [X AMOR](https://open.spotify.com/track/3dVxdzni1LpSrHY4trEbMK) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [X AMOR](https://open.spotify.com/album/4RhwgeqH9jfFBPptPeM7P1) | 4:02 | 2022-01-28 |  |

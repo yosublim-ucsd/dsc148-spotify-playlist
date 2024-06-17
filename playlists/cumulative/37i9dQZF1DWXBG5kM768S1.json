@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "Annen som du",
+        "url": "https://open.spotify.com/album/1WxHEl0KfSA2h25BcoNFGS"
+      },
+      "artists": [
+        {
+          "name": "Trang F\u00f8dsel",
+          "url": "https://open.spotify.com/artist/3pOEfaqokP940PuLUoho3l"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217703,
+      "name": "Annen som du",
+      "url": "https://open.spotify.com/track/4DMSneArB5W5BTAz8A2ij4"
+    },
+    {
+      "album": {
         "name": "Alt vi har kj\u00e6rt",
         "url": "https://open.spotify.com/album/3IFHntkbXihZ5r7JkrfyVu"
       },
@@ -4522,7 +4540,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 212920,
       "name": "\u00c6 og Min Elskede",
       "url": "https://open.spotify.com/track/5X2RlVIgj7zAkYQtW9FqpV"

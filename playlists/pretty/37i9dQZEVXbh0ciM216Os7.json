@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACpUwdM9S88Deb9XJaSKY3o",
+  "snapshot_id": "AAAAAAAAAAC/rgyYLviQRMwMzWYZ9t3d",
   "tracks": [
     {
       "added_at": "2024-06-14 04:00:00",
@@ -63,26 +63,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Lemons",
-        "url": "https://open.spotify.com/album/4CYg6XtJs56jEQ1vzDSvAd"
-      },
-      "artists": [
-        {
-          "name": "Wax",
-          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
-        },
-        {
-          "name": "Quicdraw",
-          "url": "https://open.spotify.com/artist/0IyFO6QAx0fT29TuT9AyCQ"
-        }
-      ],
-      "duration_ms": 204923,
-      "name": "Lemons",
-      "url": "https://open.spotify.com/track/4aePYLeftWwSrVGVtBVA1v"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "Why Lawd?",
         "url": "https://open.spotify.com/album/0LlzHi8Erl8zpTumqt88Qe"
       },
@@ -115,38 +95,18 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Hey Stranger",
-        "url": "https://open.spotify.com/album/3LrKY4Q1ZJdOXDAEeKGfE9"
+        "name": "Cinnamon Curls",
+        "url": "https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL"
       },
       "artists": [
         {
-          "name": "Phish",
-          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
-      "duration_ms": 288220,
-      "name": "Hey Stranger",
-      "url": "https://open.spotify.com/track/7y9TVM2phcRCwSlevzG7pj"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Johnny Freight (with Passafire)",
-        "url": "https://open.spotify.com/album/2FlPqSYP0HB7KfcDlhwc5V"
-      },
-      "artists": [
-        {
-          "name": "Dale and the ZDubs",
-          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
-        },
-        {
-          "name": "Passafire",
-          "url": "https://open.spotify.com/artist/3Il8w8T0de4sdogo2EQEVJ"
-        }
-      ],
-      "duration_ms": 203626,
-      "name": "Johnny Freight (with Passafire)",
-      "url": "https://open.spotify.com/track/2SLo0QVJKiqFR3NlrQwxQY"
+      "duration_ms": 246586,
+      "name": "Cinnamon Curls",
+      "url": "https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -163,6 +123,42 @@
       "duration_ms": 105577,
       "name": "Sega",
       "url": "https://open.spotify.com/track/35abyRG69nf9bvTAwCpASz"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Hey Stranger",
+        "url": "https://open.spotify.com/album/3LrKY4Q1ZJdOXDAEeKGfE9"
+      },
+      "artists": [
+        {
+          "name": "Phish",
+          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+        }
+      ],
+      "duration_ms": 288220,
+      "name": "Hey Stranger",
+      "url": "https://open.spotify.com/track/7y9TVM2phcRCwSlevzG7pj"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Lemons",
+        "url": "https://open.spotify.com/album/4CYg6XtJs56jEQ1vzDSvAd"
+      },
+      "artists": [
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        },
+        {
+          "name": "Quicdraw",
+          "url": "https://open.spotify.com/artist/0IyFO6QAx0fT29TuT9AyCQ"
+        }
+      ],
+      "duration_ms": 204923,
+      "name": "Lemons",
+      "url": "https://open.spotify.com/track/4aePYLeftWwSrVGVtBVA1v"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -187,38 +183,22 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Cinnamon Curls",
-        "url": "https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL"
+        "name": "Johnny Freight (with Passafire)",
+        "url": "https://open.spotify.com/album/2FlPqSYP0HB7KfcDlhwc5V"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 246586,
-      "name": "Cinnamon Curls",
-      "url": "https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/5M8eXGXY9ds3L7qSAMY5me"
-      },
-      "artists": [
-        {
-          "name": "Julius Rodriguez",
-          "url": "https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF"
+          "name": "Dale and the ZDubs",
+          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
         },
         {
-          "name": "Georgia Anne Muldrow",
-          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+          "name": "Passafire",
+          "url": "https://open.spotify.com/artist/3Il8w8T0de4sdogo2EQEVJ"
         }
       ],
-      "duration_ms": 214120,
-      "name": "Champion\u2019s Call (feat. Georgia Anne Muldrow)",
-      "url": "https://open.spotify.com/track/4aB1U0QvgHWDAMTwR5zSFS"
+      "duration_ms": 203626,
+      "name": "Johnny Freight (with Passafire)",
+      "url": "https://open.spotify.com/track/2SLo0QVJKiqFR3NlrQwxQY"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -259,6 +239,26 @@
       "duration_ms": 186611,
       "name": "Okay",
       "url": "https://open.spotify.com/track/0oohdNzQIMjaFUk4130Lyh"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/5M8eXGXY9ds3L7qSAMY5me"
+      },
+      "artists": [
+        {
+          "name": "Julius Rodriguez",
+          "url": "https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF"
+        },
+        {
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+        }
+      ],
+      "duration_ms": 214120,
+      "name": "Champion\u2019s Call (feat. Georgia Anne Muldrow)",
+      "url": "https://open.spotify.com/track/4aB1U0QvgHWDAMTwR5zSFS"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -351,26 +351,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Kyivan Clouds",
-        "url": "https://open.spotify.com/album/68Bzzem57zx7bEoLgDR5hK"
-      },
-      "artists": [
-        {
-          "name": "Circa 54",
-          "url": "https://open.spotify.com/artist/7q2Ar9BEXkCDB52YWvTHTb"
-        },
-        {
-          "name": "Elly Cooke",
-          "url": "https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Kyivan Clouds",
-      "url": "https://open.spotify.com/track/7qvplgmAE2jWixibdMrVCo"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "Step",
         "url": "https://open.spotify.com/album/2ZgwNJaq7UwUnNlCjJ3wuu"
       },
@@ -391,26 +371,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Other Side (feat. Charlotte Sands)",
-        "url": "https://open.spotify.com/album/7fN1RNlLuPuOjEl4tJW2PP"
-      },
-      "artists": [
-        {
-          "name": "MisterWives",
-          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
-        },
-        {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
-        }
-      ],
-      "duration_ms": 197160,
-      "name": "Other Side (feat. Charlotte Sands)",
-      "url": "https://open.spotify.com/track/23aw0goM4v4fmIzA8AaBgo"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "Del Oro",
         "url": "https://open.spotify.com/album/5EmgZrhnGC2kXDJrN3Lnx0"
       },
@@ -423,6 +383,26 @@
       "duration_ms": 374122,
       "name": "Del Oro",
       "url": "https://open.spotify.com/track/5YgEN0XaRJo5EEiWuXDTqv"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Kyivan Clouds",
+        "url": "https://open.spotify.com/album/68Bzzem57zx7bEoLgDR5hK"
+      },
+      "artists": [
+        {
+          "name": "Circa 54",
+          "url": "https://open.spotify.com/artist/7q2Ar9BEXkCDB52YWvTHTb"
+        },
+        {
+          "name": "Elly Cooke",
+          "url": "https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Kyivan Clouds",
+      "url": "https://open.spotify.com/track/7qvplgmAE2jWixibdMrVCo"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -447,6 +427,26 @@
       "duration_ms": 274707,
       "name": "Cold Blues",
       "url": "https://open.spotify.com/track/0sO16Fj8Mj9ztczfbxF7dy"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Other Side (feat. Charlotte Sands)",
+        "url": "https://open.spotify.com/album/7fN1RNlLuPuOjEl4tJW2PP"
+      },
+      "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        },
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "duration_ms": 197160,
+      "name": "Other Side (feat. Charlotte Sands)",
+      "url": "https://open.spotify.com/track/23aw0goM4v4fmIzA8AaBgo"
     },
     {
       "added_at": "2024-06-14 04:00:00",

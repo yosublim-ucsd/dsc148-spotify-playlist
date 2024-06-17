@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di 22simba e Icy Subzero, Digital Astro, Ensi e Nerone e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,941 likes - 90 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,959 likes - 90 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

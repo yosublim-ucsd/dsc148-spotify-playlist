@@ -4,7 +4,7 @@
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: Coldzy
 
-178 songs - 10 hr 20 min
+179 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Buồn Hay Vui \(feat\. RPT MCK, Obito, Ronboogz & Boyzed\)](https://open.spotify.com/track/1khMN4Adfi3LrZvxOq4YM5) | [VSOUL](https://open.spotify.com/artist/22MX8BG5870DGzpNricY7q), [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e), [Boyzed](https://open.spotify.com/artist/1JPTuJJ7KzpwcDCOWkEjUb) | [Buồn Hay Vui \(feat\. RPT MCK, Obito, Ronboogz & Boyzed\)](https://open.spotify.com/album/5G6By1MBIwE0P4ixJ06x1M) | 4:51 | 2024-01-01 |  |
 | [Bài Này Chill Phết](https://open.spotify.com/track/2nR51wakN5K3AJENqGaNg9) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [Bài Này Chill Phết](https://open.spotify.com/album/7vjwxcUJGv2cAD584tBDzn) | 4:36 | 2023-10-19 | 2024-04-19 |
 | [Bạn Đời](https://open.spotify.com/track/0kHgteR4TV4LO80wrasDSR) | [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F), [GDucky](https://open.spotify.com/artist/3T3DOlgOEkr243zdzFCrXW) | [Bạn Đời](https://open.spotify.com/album/2D1Enc9iq16z9Ikh6azGc2) | 5:00 | 2023-10-19 |  |
-| [Bảo Tàng](https://open.spotify.com/track/2ctmaWoBxLBYiZB7AKmK1D) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Bảo Tàng](https://open.spotify.com/album/4ZaeSyWcJmXC2tJgU70q31) | 3:05 | 2023-11-30 |  |
+| [Bảo Tàng](https://open.spotify.com/track/2ctmaWoBxLBYiZB7AKmK1D) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Bảo Tàng](https://open.spotify.com/album/4ZaeSyWcJmXC2tJgU70q31) | 3:05 | 2023-11-30 | 2024-06-17 |
 | [Bật Nhạc Lên](https://open.spotify.com/track/0hiQvlWSSTr7n1kc1X2Lus) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [Harmonie](https://open.spotify.com/artist/5UaJojKyJSqngDfoUw0P01) | [Bật Nhạc Lên](https://open.spotify.com/album/0YuGAT79ULNpdxzxWVXHFH) | 3:20 | 2023-12-11 | 2024-04-10 |
 | [Chim Sẻ & Dâu Tây \- Stage Version](https://open.spotify.com/track/6WACMD2SUMiLK5dHRXlm2s) | [Dế Choắt \(DC\)](https://open.spotify.com/artist/1KLRO4UHKmiwS0grGzFdgT) | [1St.](https://open.spotify.com/album/5xQZPhFLzj9o3iplCfMMH7) | 2:05 | 2024-01-23 | 2024-02-03 |
 | [Cho Mình Em](https://open.spotify.com/track/51bYFYWODfYOZU0rwvjiCc) | [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj), [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi) | [Cho Mình Em](https://open.spotify.com/album/5oOVxWfhlsD4cYzUh1VBCr) | 3:26 | 2024-06-12 |  |
@@ -147,6 +147,7 @@
 | [TETVOVEN](https://open.spotify.com/track/72ictTz6o0dusD2QpCn4bn) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh), [Machiot](https://open.spotify.com/artist/53JNigMoziak3PfjdVcNLh) | [TETVOVEN](https://open.spotify.com/album/3jwSlUKUdfxcIuy3b2SCxc) | 3:17 | 2023-12-04 |  |
 | [Thanh Xuân](https://open.spotify.com/track/3b34161QoxLwsqhWSPy9i5) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f) | [Thanh Xuân](https://open.spotify.com/album/2S83wtOFg3NgQbyo3Lswkw) | 3:40 | 2023-10-19 |  |
 | [Thay Đổi](https://open.spotify.com/track/3tJC3m7HJ6Y5XoKGEkc5vt) | [Lil Wuyn](https://open.spotify.com/artist/3Wj34lTDJnPp70u4YCl4jz) | [An](https://open.spotify.com/album/0J9ZJ2vnTHm4NpzKVE779w) | 3:15 | 2024-06-12 |  |
+| [Thiêu Thân](https://open.spotify.com/track/2QyOYFAxW2khNYee4yeT6r) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9), [Sofia](https://open.spotify.com/artist/0obXkAXG0Ivhjj6TK6QZfd), [Châu Đăng Khoa](https://open.spotify.com/artist/7oOFsgF6y3Z9wI7fgJTbFk), [Masew](https://open.spotify.com/artist/3nGqUwkJHiLPDECMVrX1Sq) | [Thiêu Thân](https://open.spotify.com/album/5IRZs8eeDLf4flNXbWJ4K9) | 3:18 | 2024-06-12 |  |
 | [Thôi Em Đừng Đi](https://open.spotify.com/track/7kpNUrBDYDoX6QKGzrBD1R) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 2:53 | 2023-10-19 |  |
 | [Thư Gửi Mẹ](https://open.spotify.com/track/6l17suq4g7v7n7oeT4f2nw) | [Tez](https://open.spotify.com/artist/1yWLf9thhwjqScDt6Az4Z9) | [Thư Gửi Mẹ](https://open.spotify.com/album/4jVzsgaxE1y5dGbQ3QzOKB) | 3:33 | 2024-02-11 | 2024-02-16 |
 | [Thương](https://open.spotify.com/track/0sMc56aynx4DJwJtElVOSf) | [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F), [Vũ Phụng Tiên](https://open.spotify.com/artist/70ULEgr5A3zBL12foM4bnj) | [Thương](https://open.spotify.com/album/0eVRpLCwnAcVnlZM52DN5m) | 3:05 | 2023-10-19 | 2024-05-08 |

@@ -82,6 +82,24 @@
     {
       "album": {
         "name": "A Hometown Odyssey",
+        "url": "https://open.spotify.com/album/65J7c5IxoJ9GU79gg6AK7X"
+      },
+      "artists": [
+        {
+          "name": "Livingston",
+          "url": "https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ"
+        }
+      ],
+      "date_added": "2024-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212173,
+      "name": "Architect",
+      "url": "https://open.spotify.com/track/4KicwnxHDBQLfeytoUBmux"
+    },
+    {
+      "album": {
+        "name": "A Hometown Odyssey",
         "url": "https://open.spotify.com/album/5uKhWGoRFaENvmmdmCN99K"
       },
       "artists": [
@@ -92,7 +110,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 212173,
       "name": "Architect",
       "url": "https://open.spotify.com/track/7rEoxvquS9aZYSe6wM4REi"

@@ -1,12 +1,12 @@
 {
   "description": "This Is Los Invasores De Nuevo Le\u00f3n. Los temas esenciales, todos en una lista.",
-  "num_followers": 162248,
+  "num_followers": 162382,
   "original_name": "This Is Los Invasores De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmuIAAAAAAAnHa5qqmZqsub4AD0jjpVL",
+  "snapshot_id": "ZmzZgAAAAAA1SBCMFKI6be6yet3kHcMZ",
   "tracks": [
     {
       "added_at": null,
@@ -39,6 +39,22 @@
       "duration_ms": 161493,
       "name": "A M\u00ed, \u00bfQu\u00e9 Me Qued\u00f3?",
       "url": "https://open.spotify.com/track/0b72rOmkspR8dJHsUjaVi4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Embargame A Mi",
+        "url": "https://open.spotify.com/album/3W3HJXgsvDaZr8lxKqNN6m"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 175666,
+      "name": "Playa Sola",
+      "url": "https://open.spotify.com/track/0mzpP5g8OCOj3dCtowPAjV"
     },
     {
       "added_at": null,
@@ -347,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se\u00f1al De Alerta",
-        "url": "https://open.spotify.com/album/28K8AZI79UWVamCJZglQlq"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 165853,
-      "name": "Ni Que Tuvieras Tanta Suerte",
-      "url": "https://open.spotify.com/track/0OzRg0JDqxDDxtmKn2GUVi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "21 Black Jack",
         "url": "https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC"
       },
@@ -375,6 +375,22 @@
       "duration_ms": 185640,
       "name": "Ni Dada La Quiero",
       "url": "https://open.spotify.com/track/4AplGNlqrFDyxkCM27gSCl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se\u00f1al De Alerta",
+        "url": "https://open.spotify.com/album/28K8AZI79UWVamCJZglQlq"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 165853,
+      "name": "Ni Que Tuvieras Tanta Suerte",
+      "url": "https://open.spotify.com/track/0OzRg0JDqxDDxtmKn2GUVi"
     },
     {
       "added_at": null,
@@ -591,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Boleros Volumen 2",
+        "url": "https://open.spotify.com/album/7JL6rJigUVM0qfWOFnbx2k"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 184533,
+      "name": "Para Ti Mi Amor",
+      "url": "https://open.spotify.com/track/79KkCXH9weKlaTsur7y8tk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Es Demasiado Tarde",
         "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
       },
@@ -619,22 +651,6 @@
       "duration_ms": 153733,
       "name": "La Costumbre",
       "url": "https://open.spotify.com/track/1lhPvRuwUY0BIgxx98cOL2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boleros Volumen 2",
-        "url": "https://open.spotify.com/album/7JL6rJigUVM0qfWOFnbx2k"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 184533,
-      "name": "Para Ti Mi Amor",
-      "url": "https://open.spotify.com/track/79KkCXH9weKlaTsur7y8tk"
     },
     {
       "added_at": null,
@@ -807,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Laurita Garza",
-        "url": "https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg"
+        "name": "Ventanas Al Viento",
+        "url": "https://open.spotify.com/album/6KkN3P3M0gqz7IeiejsZwE"
       },
       "artists": [
         {
@@ -816,25 +832,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 155506,
-      "name": "La Tumba Ser\u00e1 El Final",
-      "url": "https://open.spotify.com/track/4AcJrebC9ncscQPZlP9xED"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "15 Boleros De Oro",
-        "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 157066,
-      "name": "Para Que Te Explico",
-      "url": "https://open.spotify.com/track/08tHBseKFFGXzLJhJkRo20"
+      "duration_ms": 188960,
+      "name": "Te Quiero Para Mi",
+      "url": "https://open.spotify.com/track/6K36cGSYWq4kRO4lMEKXJf"
     }
   ],
   "unique_name": "This Is Los Invasores De Nuevo Le\u00f3n",

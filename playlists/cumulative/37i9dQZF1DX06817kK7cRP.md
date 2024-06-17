@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-182 songs - 8 hr 10 min
+183 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [citynights](https://open.spotify.com/track/4a5ydZOgONWaxaFMN4bmyx) | [Ny Cic](https://open.spotify.com/artist/3xmRTk6mD5NZTBGI05KIZ9) | [citynights](https://open.spotify.com/album/4uYrJhj8oQGKm2UoocoMGF) | 2:14 | 2023-03-16 |  |
 | [Clap Clap](https://open.spotify.com/track/31IXUhiPiTtdkxw5mRWsMW) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek) | [Clap Clap](https://open.spotify.com/album/6ExpYI6P4mqjwlgxI4t8jk) | 2:39 | 2023-01-13 |  |
 | [Class](https://open.spotify.com/track/3jfb2El9s0DKukAvOpON9a) | [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [No\. 18](https://open.spotify.com/artist/1p6OSG0rFg8ISBQXjWsfgm), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Class](https://open.spotify.com/album/7wORQYmtzCmi9afnh4TwYo) | 2:53 | 2023-01-12 |  |
-| [clocks](https://open.spotify.com/track/2YHZ52RVwbnzyMjGvZYtMN) | [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ) | [clocks](https://open.spotify.com/album/77zz5vKU1zlkvRhmMD6ZtT) | 2:20 | 2024-06-14 |  |
+| [clocks](https://open.spotify.com/track/2YHZ52RVwbnzyMjGvZYtMN) | [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ) | [clocks](https://open.spotify.com/album/77zz5vKU1zlkvRhmMD6ZtT) | 2:20 | 2024-06-14 | 2024-06-17 |
 | [Crescent](https://open.spotify.com/track/3U5jU9SmJxeelFlfKCk6Rd) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Crescent](https://open.spotify.com/album/2IjILZtDXBXx3tHJaxBL2e) | 2:45 | 2024-06-14 |  |
 | [Cruise Control](https://open.spotify.com/track/5xSQbBayVvZcjreQ4t3KhQ) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS), [ALGONZO](https://open.spotify.com/artist/3SK7UL3Cgpgn58MxvfFxy8) | [Cruise Control](https://open.spotify.com/album/7tSLPHy2Sg8YmHTTvREaAB) | 2:24 | 2023-12-12 |  |
 | [Cuffies](https://open.spotify.com/track/4VNGKsfFQCmLMnIsQfbEs6) | [Soundspretty](https://open.spotify.com/artist/5VDHYoxsF1BT3b0AzeVAHr), [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv), [the intern](https://open.spotify.com/artist/1ZntZlDRZbQGsSIYJhxog2) | [Cuffies](https://open.spotify.com/album/3lzsdyojumISAiNp4gbNBY) | 2:26 | 2024-06-07 |  |
@@ -180,6 +180,7 @@
 | [Turnarounds](https://open.spotify.com/track/4d2UJiZtKRJMc4DZMqo9m9) | [HLY WUD](https://open.spotify.com/artist/51htK4Ln3sMNbTBcs7Ft8S) | [Turnarounds](https://open.spotify.com/album/59pR0anVAX7bEA1nlDnGdA) | 1:56 | 2023-10-27 | 2024-03-26 |
 | [Up the Block \(Live\)](https://open.spotify.com/track/3PVuA7US6N5rOmTpy0tjyv) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Undertones \(Live\)](https://open.spotify.com/album/5te7urDPMWPADOtb7lnPKw) | 2:48 | 2023-01-12 |  |
 | [VA Noir](https://open.spotify.com/track/3qa5y1yALHkSU3i698pici) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [ENCORE](https://open.spotify.com/album/4g0lXhnrip7njhqaY787O9) | 1:45 | 2023-01-12 | 2023-04-14 |
+| [Voices in my Head](https://open.spotify.com/track/1tYkD1SYRtTGjOhczQ7IuW) | [Jerk](https://open.spotify.com/artist/47fuoUqgL8n7eSQsSdaCQf) | [Mood Swings](https://open.spotify.com/album/5mNPsQ3gt6FRqENKabPJgF) | 2:30 | 2024-06-14 |  |
 | [Volpaia](https://open.spotify.com/track/4Xp91oprIAo7n9tMYvK1f4) | [Webmoms](https://open.spotify.com/artist/2ol5Xy14VMiqF9KjzW41c4), [Loyae](https://open.spotify.com/artist/4Euj21Xnjoe3pGCcXPAo4I), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Volpaia](https://open.spotify.com/album/0mR6D7VJMDdUNL7LPo4DEw) | 2:13 | 2023-01-12 |  |
 | [Warm Light](https://open.spotify.com/track/4t983wHwJcdqPGjCq6SA3V) | [Swink](https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0), [another silent weekend](https://open.spotify.com/artist/7tYro3kW5Ocevel9uXDCKA) | [Lost Travelers](https://open.spotify.com/album/6SdTEzCdDtiWCSSnwzE2jb) | 2:36 | 2023-01-12 |  |
 | [What Now](https://open.spotify.com/track/3XC4cQ8qffBghftJ7W2QKC) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [What Now](https://open.spotify.com/album/7HorxGWOCHa1pLBH0wE8Iz) | 2:44 | 2023-01-12 |  |

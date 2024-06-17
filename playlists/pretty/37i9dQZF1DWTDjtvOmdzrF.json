@@ -1,6 +1,6 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 554909,
+  "num_followers": 554927,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-06-05 07:57:22",
       "album": {
+        "name": "Sorai",
+        "url": "https://open.spotify.com/album/60YDoJUMHjkYtZnPztRvZ1"
+      },
+      "artists": [
+        {
+          "name": "Nadin Amizah",
+          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
+        }
+      ],
+      "duration_ms": 278333,
+      "name": "Sorai",
+      "url": "https://open.spotify.com/track/3ymuBMTviroWLuf1jMsMVf"
+    },
+    {
+      "added_at": "2024-06-05 07:57:22",
+      "album": {
         "name": "YURA",
         "url": "https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8"
       },
@@ -507,18 +523,18 @@
     {
       "added_at": "2024-06-05 07:57:22",
       "album": {
-        "name": "Sorai",
-        "url": "https://open.spotify.com/album/60YDoJUMHjkYtZnPztRvZ1"
+        "name": "Senandung Hati dan Jiwa",
+        "url": "https://open.spotify.com/album/6JZRJTpUNTsaTqk5auZj52"
       },
       "artists": [
         {
-          "name": "Nadin Amizah",
-          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
+          "name": "NaFF",
+          "url": "https://open.spotify.com/artist/1ryXwlpQNzkSCfU685Ftx5"
         }
       ],
-      "duration_ms": 278333,
-      "name": "Sorai",
-      "url": "https://open.spotify.com/track/3ymuBMTviroWLuf1jMsMVf"
+      "duration_ms": 240600,
+      "name": "Kenanglah Aku",
+      "url": "https://open.spotify.com/track/0zJIPpVcHKWqmf2FaKXbQQ"
     },
     {
       "added_at": "2024-06-05 07:57:22",
@@ -535,22 +551,6 @@
       "duration_ms": 308036,
       "name": "Surat Cinta Untuk Starla",
       "url": "https://open.spotify.com/track/5o6StwqqVfG3vRLx8UP310"
-    },
-    {
-      "added_at": "2024-06-05 07:57:22",
-      "album": {
-        "name": "Senandung Hati dan Jiwa",
-        "url": "https://open.spotify.com/album/6JZRJTpUNTsaTqk5auZj52"
-      },
-      "artists": [
-        {
-          "name": "NaFF",
-          "url": "https://open.spotify.com/artist/1ryXwlpQNzkSCfU685Ftx5"
-        }
-      ],
-      "duration_ms": 240600,
-      "name": "Kenanglah Aku",
-      "url": "https://open.spotify.com/track/0zJIPpVcHKWqmf2FaKXbQQ"
     },
     {
       "added_at": "2024-06-05 07:57:22",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-06-05 07:57:22",
       "album": {
+        "name": "Dunia Batas",
+        "url": "https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ"
+      },
+      "artists": [
+        {
+          "name": "Payung Teduh",
+          "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Berdua Saja",
+      "url": "https://open.spotify.com/track/7tZ69fC235bauF9Dyxk8Ps"
+    },
+    {
+      "added_at": "2024-06-05 07:57:22",
+      "album": {
         "name": "Tolong",
         "url": "https://open.spotify.com/album/0Qfjl4xAivyvuIEhJ1Mo47"
       },
@@ -835,22 +851,6 @@
     {
       "added_at": "2024-06-05 07:57:22",
       "album": {
-        "name": "1st (Special Edition)",
-        "url": "https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK"
-      },
-      "artists": [
-        {
-          "name": "MALIQ & D'Essentials",
-          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "Untitled",
-      "url": "https://open.spotify.com/track/1i9iliTpiPLizleapSg37I"
-    },
-    {
-      "added_at": "2024-06-05 07:57:22",
-      "album": {
         "name": "happy",
         "url": "https://open.spotify.com/album/0pVXyvbdicfbAhqKaxsnkd"
       },
@@ -863,6 +863,22 @@
       "duration_ms": 173217,
       "name": "happy",
       "url": "https://open.spotify.com/track/6YTmsdqH5LZzCGIY0lqloD"
+    },
+    {
+      "added_at": "2024-06-05 07:57:22",
+      "album": {
+        "name": "1st (Special Edition)",
+        "url": "https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK"
+      },
+      "artists": [
+        {
+          "name": "MALIQ & D'Essentials",
+          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "Untitled",
+      "url": "https://open.spotify.com/track/1i9iliTpiPLizleapSg37I"
     },
     {
       "added_at": "2024-06-05 07:57:22",
@@ -892,25 +908,9 @@
           "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
         }
       ],
-      "duration_ms": 267000,
-      "name": "Berdua Saja",
-      "url": "https://open.spotify.com/track/7tZ69fC235bauF9Dyxk8Ps"
-    },
-    {
-      "added_at": "2024-06-05 07:57:22",
-      "album": {
-        "name": "Cek Toko Sebelah (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5RWbax0hn7iswKdw9FsyAe"
-      },
-      "artists": [
-        {
-          "name": "TheOvertunes",
-          "url": "https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk"
-        }
-      ],
-      "duration_ms": 286313,
-      "name": "I Still Love You",
-      "url": "https://open.spotify.com/track/4reIsHKw5hUj4pV8zzMjLA"
+      "duration_ms": 306428,
+      "name": "Menuju Senja",
+      "url": "https://open.spotify.com/track/6ctfCjsLBJfadmBH41SFkl"
     },
     {
       "added_at": "2024-06-05 07:57:22",
@@ -927,6 +927,22 @@
       "duration_ms": 260003,
       "name": "Kusut",
       "url": "https://open.spotify.com/track/3diD8b3u6oEn74BezQpujj"
+    },
+    {
+      "added_at": "2024-06-05 07:57:22",
+      "album": {
+        "name": "Cek Toko Sebelah (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5RWbax0hn7iswKdw9FsyAe"
+      },
+      "artists": [
+        {
+          "name": "TheOvertunes",
+          "url": "https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk"
+        }
+      ],
+      "duration_ms": 286313,
+      "name": "I Still Love You",
+      "url": "https://open.spotify.com/track/4reIsHKw5hUj4pV8zzMjLA"
     },
     {
       "added_at": "2024-06-05 07:57:22",
@@ -1011,38 +1027,6 @@
     {
       "added_at": "2024-06-05 07:57:22",
       "album": {
-        "name": "Dunia Batas",
-        "url": "https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ"
-      },
-      "artists": [
-        {
-          "name": "Payung Teduh",
-          "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
-        }
-      ],
-      "duration_ms": 306428,
-      "name": "Menuju Senja",
-      "url": "https://open.spotify.com/track/6ctfCjsLBJfadmBH41SFkl"
-    },
-    {
-      "added_at": "2024-06-05 07:57:22",
-      "album": {
-        "name": "No-Dream Land",
-        "url": "https://open.spotify.com/album/48T59PbJb3U3MHLS5UiuRX"
-      },
-      "artists": [
-        {
-          "name": "Float",
-          "url": "https://open.spotify.com/artist/1g7ocdBhmOogW1VAYBtgZf"
-        }
-      ],
-      "duration_ms": 197306,
-      "name": "Pulang",
-      "url": "https://open.spotify.com/track/5Ge3e6dV4wsae8lDQQq8PY"
-    },
-    {
-      "added_at": "2024-06-05 07:57:22",
-      "album": {
         "name": "Menghapus Jejakmu",
         "url": "https://open.spotify.com/album/4UOQ8yXRAdRDOpEcDgZdGq"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 182414,
       "name": "Menghapus Jejakmu",
       "url": "https://open.spotify.com/track/3NuKl7HM691ycLcCa6Vbq2"
+    },
+    {
+      "added_at": "2024-06-05 07:57:22",
+      "album": {
+        "name": "No-Dream Land",
+        "url": "https://open.spotify.com/album/48T59PbJb3U3MHLS5UiuRX"
+      },
+      "artists": [
+        {
+          "name": "Float",
+          "url": "https://open.spotify.com/artist/1g7ocdBhmOogW1VAYBtgZf"
+        }
+      ],
+      "duration_ms": 197306,
+      "name": "Pulang",
+      "url": "https://open.spotify.com/track/5Ge3e6dV4wsae8lDQQq8PY"
     },
     {
       "added_at": "2024-06-05 07:57:22",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-06-05 07:57:22",
       "album": {
-        "name": "Tentang Kamu",
-        "url": "https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8"
-      },
-      "artists": [
-        {
-          "name": "Bunga Citra Lestari",
-          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
-        }
-      ],
-      "duration_ms": 203640,
-      "name": "Pernah Muda",
-      "url": "https://open.spotify.com/track/53jVt2BD1Wgh1aUoqAodQT"
-    },
-    {
-      "added_at": "2024-06-05 07:57:22",
-      "album": {
         "name": "Tanpa Pamrih",
         "url": "https://open.spotify.com/album/73wlf7LjR5ytZvdINDIowe"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 212968,
       "name": "Tanpa Pamrih",
       "url": "https://open.spotify.com/track/2WKS8Tk8OwHnAY847eq1Xr"
+    },
+    {
+      "added_at": "2024-06-05 07:57:22",
+      "album": {
+        "name": "Tentang Kamu",
+        "url": "https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8"
+      },
+      "artists": [
+        {
+          "name": "Bunga Citra Lestari",
+          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
+        }
+      ],
+      "duration_ms": 203640,
+      "name": "Pernah Muda",
+      "url": "https://open.spotify.com/track/53jVt2BD1Wgh1aUoqAodQT"
     },
     {
       "added_at": "2024-06-05 07:57:22",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2024-06-05 07:57:22",
       "album": {
-        "name": "Terus Bersinar",
-        "url": "https://open.spotify.com/album/6MYbZW735XmueTaOEUE0hG"
+        "name": "Monokrom",
+        "url": "https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ"
       },
       "artists": [
         {
-          "name": "Lobow",
-          "url": "https://open.spotify.com/artist/4sPz5IAXZQ428gHmhH78Ib"
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
         }
       ],
-      "duration_ms": 284946,
-      "name": "Kau Cantik Hari Ini",
-      "url": "https://open.spotify.com/track/1dDXZDCgyvioujRUDfKxCr"
+      "duration_ms": 195914,
+      "name": "Cahaya",
+      "url": "https://open.spotify.com/track/2rGGLCSkv9ISfH64KSYFBj"
     }
   ],
   "unique_name": "Kopikustik",

@@ -2716,7 +2716,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 195694,
       "name": "Gonna Get Better",
       "url": "https://open.spotify.com/track/3lnKBvycf8vphhmpvhruNI"
@@ -3736,7 +3736,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 253200,
       "name": "Joan of Hill",
       "url": "https://open.spotify.com/track/0SgfCKFbTlNj1bjQglw00K"
@@ -4569,6 +4569,24 @@
     },
     {
       "album": {
+        "name": "nobody",
+        "url": "https://open.spotify.com/album/2sJBawOKr8hPG3bgsMvyIB"
+      },
+      "artists": [
+        {
+          "name": "44phantom",
+          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145294,
+      "name": "nobody",
+      "url": "https://open.spotify.com/track/6kp9BhBa7IZnjLUPYTGyaZ"
+    },
+    {
+      "album": {
         "name": "Nowhere, Ohio",
         "url": "https://open.spotify.com/album/4FCAlxabfOFH49RbFNrGWE"
       },
@@ -5086,6 +5104,28 @@
       "duration_ms": 149194,
       "name": "REAL SUPER DARK",
       "url": "https://open.spotify.com/track/7uuHc1gwZCKG9CGJopnSF3"
+    },
+    {
+      "album": {
+        "name": "Reaper (feat. Dan Campbell)",
+        "url": "https://open.spotify.com/album/4SqCiKtsjqNZfi8jgmlaE9"
+      },
+      "artists": [
+        {
+          "name": "Beauty School",
+          "url": "https://open.spotify.com/artist/46yPZXaKNR5nkEqMzhifG6"
+        },
+        {
+          "name": "Dan Campbell",
+          "url": "https://open.spotify.com/artist/0Sq6ZIWDzx9P76abl8svUr"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177073,
+      "name": "Reaper (feat. Dan Campbell)",
+      "url": "https://open.spotify.com/track/1CWhm6LbkdLxFFZ7h54NOT"
     },
     {
       "album": {
@@ -6584,7 +6624,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 180970,
       "name": "theme song",
       "url": "https://open.spotify.com/track/4pKW3eDE5EonKFYboxagYB"
@@ -7100,6 +7140,24 @@
       "duration_ms": 199598,
       "name": "Walk Over My Grave",
       "url": "https://open.spotify.com/track/43c7a2qXSry2me3tYfowdZ"
+    },
+    {
+      "album": {
+        "name": "Walk This World With Me",
+        "url": "https://open.spotify.com/album/3bOo5s7GANC5FY4nQKWnkm"
+      },
+      "artists": [
+        {
+          "name": "The Home Team",
+          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228372,
+      "name": "Walk This World With Me",
+      "url": "https://open.spotify.com/track/4C4xwikhiK5uZX1oyxsRpZ"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This Is Chalino Sanchez. Los temas esenciales, todos en una lista.",
-  "num_followers": 301257,
+  "num_followers": 301409,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmuIAAAAAAAGWGRHS31qk8je1+2yYpB6",
+  "snapshot_id": "ZmzZgAAAAABQXn5ab6rasA8qHvZeYRUM",
   "tracks": [
     {
       "added_at": null,
@@ -383,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El 21 Black Jack",
+        "url": "https://open.spotify.com/album/1q7gvn0iLFjNP1liFvZtcC"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 146386,
+      "name": "Pilares de Cristal",
+      "url": "https://open.spotify.com/track/5MCLSA55onhNKIOd0R4hzT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nieves de Enero",
         "url": "https://open.spotify.com/album/69CnGWLFrxlYAl5ku4q5XV"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 213089,
       "name": "Nocturno A Rosario",
       "url": "https://open.spotify.com/track/2ovPbQJ88pynqbYNyoTBLh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El 21 Black Jack",
-        "url": "https://open.spotify.com/album/1q7gvn0iLFjNP1liFvZtcC"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 146386,
-      "name": "Pilares de Cristal",
-      "url": "https://open.spotify.com/track/5MCLSA55onhNKIOd0R4hzT"
     },
     {
       "added_at": null,
@@ -539,26 +539,6 @@
       "duration_ms": 161343,
       "name": "Corrido De Rosalino",
       "url": "https://open.spotify.com/track/10TR4FENX2vDT599CGc8ls"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/1HjUAVVEwOBdj2UOgxiVIz"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
-        {
-          "name": "Los Amables Del Norte",
-          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
-        }
-      ],
-      "duration_ms": 219997,
-      "name": "Coquio Castro",
-      "url": "https://open.spotify.com/track/58kdEzKW2J51TzU1CGUIUf"
     },
     {
       "added_at": null,

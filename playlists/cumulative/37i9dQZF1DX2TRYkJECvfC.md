@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-520 songs - 1 day 20 hr 21 min
+521 songs - 1 day 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Ano](https://open.spotify.com/track/7GEuIUb8ffHIsZ05O5Zdcl) | [MOLØ](https://open.spotify.com/artist/29k6IUtkDp9ErAaJrh1Tlg) | [Ano EP](https://open.spotify.com/album/3X7duLBTg1yRaYk5rEMlvJ) | 6:59 | 2024-04-12 |  |
 | [Another Time](https://open.spotify.com/track/2W9zh4QNFmuOyKHbtYYNm0) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [Kwesi](https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV) | [Another Time](https://open.spotify.com/album/6puL9vl482M9AKa3fm7v3B) | 4:15 | 2021-12-08 | 2023-03-01 |
 | [Another Time](https://open.spotify.com/track/67f7gMWZ2PJI7IsUBs3mNQ) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [Kwesi](https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV) | [Another Time](https://open.spotify.com/album/4rqr9zrFHD4fd2Y1hv6RKK) | 4:15 | 2023-03-03 | 2024-04-19 |
+| [Anyone](https://open.spotify.com/track/0s1XsqBecwpSibK8RSueWM) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0), [Taylr Renee](https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8) | [Anyone](https://open.spotify.com/album/4YLt37YBJKmbL9udretXlK) | 4:27 | 2024-06-07 |  |
 | [Anything & Everything](https://open.spotify.com/track/3LbSfbeLXZSWVHiyFvahcM) | [Beneath Usual](https://open.spotify.com/artist/7v9VVpzvaQx30gTNBHhsJB), [M.A.](https://open.spotify.com/artist/5pdHwAOqazh01p7oNiOPKU) | [Anything & Everything](https://open.spotify.com/album/50hN7avV4g1QOiEc7d320W) | 5:46 | 2021-12-08 | 2022-07-29 |
 | [Anything & Everything \- Mihai Popoviciu Remix](https://open.spotify.com/track/2mZAtO7U09nHPjmOqGhTu3) | [Beneath Usual](https://open.spotify.com/artist/7v9VVpzvaQx30gTNBHhsJB), [M.A.](https://open.spotify.com/artist/5pdHwAOqazh01p7oNiOPKU), [Mihai Popoviciu](https://open.spotify.com/artist/0NkrYKqkzWI0pilb6ko9uM) | [Anything & Everything](https://open.spotify.com/album/50hN7avV4g1QOiEc7d320W) | 6:39 | 2021-12-08 | 2023-02-03 |
 | [anywhere](https://open.spotify.com/track/1jKBME4tJGPwtEUELTEPRH) | [Carinth](https://open.spotify.com/artist/330FPb6pKzidkaSS968Ezm) | [anywhere](https://open.spotify.com/album/55qyYaN2mF0uoRkpZwjS9x) | 2:56 | 2024-04-12 |  |
@@ -339,7 +340,7 @@
 | [Passing Clouds](https://open.spotify.com/track/1quyPEEgePl4mFkIumBWyJ) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Passing Clouds](https://open.spotify.com/album/3SoSko9KzlGKS7PbM4acLt) | 2:32 | 2023-05-26 | 2024-04-19 |
 | [Passing Clouds](https://open.spotify.com/track/3jCTivI1jcDKREf1KKbhM6) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Passing Clouds](https://open.spotify.com/album/06WTLNXbFeMrujjCJ0CT8P) | 2:32 | 2022-10-28 | 2023-06-18 |
 | [Passing Me By](https://open.spotify.com/track/2irEY0gvB7djriQOFTGFsq) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Darkside](https://open.spotify.com/album/1MEXNdnUKUN3H1cyleKxUH) | 6:13 | 2022-05-03 | 2022-11-17 |
-| [Pau \- Bella Boo Remix](https://open.spotify.com/track/5fCqNBQMkXtjYc1y3yBZAB) | [Kasper Bjørke](https://open.spotify.com/artist/4xcn3zUUGf03kOIJueXHVp), [El Agua Es Profunda](https://open.spotify.com/artist/4ivbEFZIAFkf4xDd5g5t1F), [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Pau \(Bella Boo Remix\)](https://open.spotify.com/album/6MjAU8LKv6GVTjNjDmjOZ3) | 5:18 | 2024-04-12 |  |
+| [Pau \- Bella Boo Remix](https://open.spotify.com/track/5fCqNBQMkXtjYc1y3yBZAB) | [Kasper Bjørke](https://open.spotify.com/artist/4xcn3zUUGf03kOIJueXHVp), [El Agua Es Profunda](https://open.spotify.com/artist/4ivbEFZIAFkf4xDd5g5t1F), [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Pau \(Bella Boo Remix\)](https://open.spotify.com/album/6MjAU8LKv6GVTjNjDmjOZ3) | 5:18 | 2024-04-12 | 2024-06-17 |
 | [Peaceful Groove](https://open.spotify.com/track/1ur4amXvk23LWTtEMSjlxt) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Reality Refresh 3](https://open.spotify.com/album/5pogukTeYEaNxklDvrNqYl) | 3:31 | 2023-12-15 | 2024-04-19 |
 | [Peaceful Groove](https://open.spotify.com/track/5JP4iOnbCRu7zfYd95oG7V) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Peaceful Groove](https://open.spotify.com/album/4KNqp5ucheEGU8MgUD3Te0) | 3:31 | 2021-12-08 | 2022-07-29 |
 | [Peaceful Groove](https://open.spotify.com/track/6wSH047nyWHvlasvivVeMK) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Reality Refresh 3](https://open.spotify.com/album/5veblHHhKvDHweWmbaBNEn) | 3:31 | 2022-05-03 | 2023-12-16 |

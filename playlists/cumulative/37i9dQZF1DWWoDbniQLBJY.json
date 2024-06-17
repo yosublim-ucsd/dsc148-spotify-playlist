@@ -941,6 +941,24 @@
     },
     {
       "album": {
+        "name": "DESASTRE",
+        "url": "https://open.spotify.com/album/3O0R0OFOqeC5yG7B0OVHWB"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222187,
+      "name": "DESASTRE",
+      "url": "https://open.spotify.com/track/6GUKOpUYvQtgHoCpcTmhWk"
+    },
+    {
+      "album": {
         "name": "Desde las Alturas",
         "url": "https://open.spotify.com/album/7LjiZnqwouFkTnOKFJntcS"
       },
@@ -2768,7 +2786,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 147120,
       "name": "Pasajera",
       "url": "https://open.spotify.com/track/5STIaMQXTQIpWyF3BLS40o"

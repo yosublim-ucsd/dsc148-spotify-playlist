@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1E4Dmnn4U23IpI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1E4Dmnn4U23IpI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E4Dmnn4U23IpI)
 
-### [Radio de The Midnight](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
+### [The Midnight Radio](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
 
-> Con FM\-84, Timecop1983, Kalax y más
+> With FM\-84, Timecop1983, Kalax and more
 
 1,536 songs - 4 day 9 hr 45 min
 
@@ -658,7 +658,7 @@
 | [Insomnia](https://open.spotify.com/track/6EvaUw2FhdxdHdZAYuHnSg) | [Kidburn](https://open.spotify.com/artist/26ULKfy6zRYeBbsryBZiFk) | [Love in Times of Death](https://open.spotify.com/album/2WcsxwSpYqihfokixuKCT6) | 4:31 | 2022-05-25 | 2022-05-26 |
 | [Intelestellar](https://open.spotify.com/track/4A4DryuyUKLQOhuiFKBaPF) | [Voyager](https://open.spotify.com/artist/4c52ieTjtWXVaW4RCtXCHY) | [Orbital](https://open.spotify.com/album/5cb5ZgNp1dLbymi2lXWrVm) | 4:21 | 2022-10-07 | 2022-10-08 |
 | [Intergalactic Highway](https://open.spotify.com/track/5PauDNMgo5ehM1xQV9T1iv) | [Dynatron](https://open.spotify.com/artist/0SkwL0prvhD2CWyqj0vlF6) | [The Legacy Collection, Vol\. I](https://open.spotify.com/album/4VzabqOc5cLuD4G41aJ4c9) | 4:28 | 2022-10-13 | 2022-10-14 |
-| [Interspace](https://open.spotify.com/track/4sZ3hUbwzxGo2ERNoekmzI) | [Starcadian](https://open.spotify.com/artist/3I0ceM8qfqhCKGepaswmVg) | [Interspace](https://open.spotify.com/album/72fxvL27SI7AYnbGAn6Iss) | 5:23 | 2021-12-05 | 2024-06-16 |
+| [Interspace](https://open.spotify.com/track/4sZ3hUbwzxGo2ERNoekmzI) | [Starcadian](https://open.spotify.com/artist/3I0ceM8qfqhCKGepaswmVg) | [Interspace](https://open.spotify.com/album/72fxvL27SI7AYnbGAn6Iss) | 5:23 | 2021-12-05 |  |
 | [Interspace](https://open.spotify.com/track/0ViVqX6QDJKUD2sDKYDint) | [Starcadian](https://open.spotify.com/artist/3I0ceM8qfqhCKGepaswmVg) | [Midnight Signals \(Original Motion Picture Score\)](https://open.spotify.com/album/1zxAn2q8xIOZAj93KVLZ1q) | 5:23 | 2022-03-09 | 2024-04-02 |
 | [Interstellar](https://open.spotify.com/track/0GVWl5wt4tE9hC5t5wRfyd) | [LeBrock](https://open.spotify.com/artist/461TaZqofVfcQo2wtMwnQJ) | [Fuse \(Deluxe Edition\)](https://open.spotify.com/album/7MEvuLXzDAeE7xbA2bYjkP) | 4:28 | 2022-03-17 | 2023-06-16 |
 | [Into Nothing](https://open.spotify.com/track/6EjsvDyfZdgJdutxTWI8Ms) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI) | 4:29 | 2022-06-08 | 2022-10-25 |
@@ -1473,7 +1473,7 @@
 | [Wallow \- Edit](https://open.spotify.com/track/7vjzMUjRHPU27f51NzxhT6) | [Brothertiger](https://open.spotify.com/artist/2MaMzvFmtu68r9zpdJ4tLE) | [Wallow](https://open.spotify.com/album/1fbVAuhQLjJ75mbAc4PaWp) | 4:01 | 2022-04-20 | 2022-05-06 |
 | [Walls](https://open.spotify.com/track/0t2UWqIog9hL6VaDasZgOp) | [Icarus](https://open.spotify.com/artist/17IDrizGUiveZm4P77Kkio) | [Walls](https://open.spotify.com/album/2O47TCvygCIjc9rkeMHQDz) | 3:19 | 2023-04-12 | 2024-02-06 |
 | [Wanderers](https://open.spotify.com/track/3ZmNtoa1me9KilDTlcvwNq) | [The G](https://open.spotify.com/artist/6efaB8Z4oqKHAdrdf578jJ), [Mint Simon](https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh) | [Wanderers](https://open.spotify.com/album/77CsoFgj7Zu0bPwiKKv3pa) | 3:18 | 2023-06-09 | 2023-12-17 |
-| [Wanting More](https://open.spotify.com/track/5aAEK6raY3K0S02HeKtCsO) | [Absinth3](https://open.spotify.com/artist/2rP6AMwZCN1E1zl5Rpxftm) | [Unstable](https://open.spotify.com/album/0RTR4xxBltSYLonGGzZ6Y0) | 4:28 | 2021-12-02 |  |
+| [Wanting More](https://open.spotify.com/track/5aAEK6raY3K0S02HeKtCsO) | [Absinth3](https://open.spotify.com/artist/2rP6AMwZCN1E1zl5Rpxftm) | [Unstable](https://open.spotify.com/album/0RTR4xxBltSYLonGGzZ6Y0) | 4:28 | 2021-12-02 | 2024-06-17 |
 | [Wanting This](https://open.spotify.com/track/5OkODgA2tVNMnoLhlOJeNp) | [The Chain Gang Of 1974](https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM) | [Wanting This](https://open.spotify.com/album/5TXf7biSiVivFH0JKwmL7t) | 4:02 | 2022-07-26 | 2022-10-15 |
 | [War](https://open.spotify.com/track/5fvEjrcTpOds2SOBvzopXP) | [Dance With the Dead](https://open.spotify.com/artist/2KtnZQwMQJN3uyI8eHZRvm) | [Loved to Death](https://open.spotify.com/album/1lnSh8xb06nXe4ZxRSvQhn) | 4:56 | 2021-12-27 | 2021-12-28 |
 | [Warp Drive](https://open.spotify.com/track/3s4hxwmmzhCT0Z4g94cY3N) | [Tonebox](https://open.spotify.com/artist/3r5rHoyzqZHGJkU8fGZtNO) | [Nocturn](https://open.spotify.com/album/4pZRg3gdstKlGTLKR0FsxT) | 6:43 | 2021-12-04 | 2022-06-18 |

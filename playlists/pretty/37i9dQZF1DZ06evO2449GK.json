@@ -1,12 +1,12 @@
 {
   "description": "This is Alcolirykoz. The essential tracks, all in one playlist.",
-  "num_followers": 45896,
+  "num_followers": 45936,
   "original_name": "This Is Alcolirykoz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmuIAAAAAABprRLPx0bJhgFsItwvCcr5",
+  "snapshot_id": "ZmzZgAAAAABwMT6s/PERvOkHN6wnI8Pb",
   "tracks": [
     {
       "added_at": null,
@@ -646,15 +646,11 @@
         {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Jannyval",
-          "url": "https://open.spotify.com/artist/3F14vlNUYXHRT40gJqNIi9"
         }
       ],
-      "duration_ms": 253986,
-      "name": "La Revancha de los Timidos",
-      "url": "https://open.spotify.com/track/44XNwAUXOV4A8BcX8p9cGj"
+      "duration_ms": 229506,
+      "name": "Clapzz",
+      "url": "https://open.spotify.com/track/59VKZYrUoPfC92rNt2tWJG"
     },
     {
       "added_at": null,
@@ -714,11 +710,15 @@
         {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Jannyval",
+          "url": "https://open.spotify.com/artist/3F14vlNUYXHRT40gJqNIi9"
         }
       ],
-      "duration_ms": 229506,
-      "name": "Clapzz",
-      "url": "https://open.spotify.com/track/59VKZYrUoPfC92rNt2tWJG"
+      "duration_ms": 253986,
+      "name": "La Revancha de los Timidos",
+      "url": "https://open.spotify.com/track/44XNwAUXOV4A8BcX8p9cGj"
     },
     {
       "added_at": null,

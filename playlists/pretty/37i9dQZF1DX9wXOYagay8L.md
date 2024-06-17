@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v?si=MbEBY4wxQyaMoVNCREdvgQ">Phila Dlozi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,901 likes - 60 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,914 likes - 60 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

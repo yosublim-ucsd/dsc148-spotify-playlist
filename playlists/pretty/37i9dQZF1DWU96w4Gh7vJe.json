@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 574764,
+  "num_followers": 574755,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
@@ -155,26 +155,6 @@
     {
       "added_at": "2024-06-05 08:03:22",
       "album": {
-        "name": "Hoodie (feat. Alisson Shore)",
-        "url": "https://open.spotify.com/album/1NwGufXGKSYH6fbENHi7HK"
-      },
-      "artists": [
-        {
-          "name": "Dionela",
-          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
-        },
-        {
-          "name": "Alisson Shore",
-          "url": "https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ"
-        }
-      ],
-      "duration_ms": 170895,
-      "name": "Hoodie (feat. Alisson Shore)",
-      "url": "https://open.spotify.com/track/617TML0prwU24bJPd7uESm"
-    },
-    {
-      "added_at": "2024-06-05 08:03:22",
-      "album": {
         "name": "Patutunguhan",
         "url": "https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I"
       },
@@ -227,6 +207,26 @@
       "duration_ms": 214606,
       "name": "Sa Susunod Na Lang",
       "url": "https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU"
+    },
+    {
+      "added_at": "2024-06-05 08:03:22",
+      "album": {
+        "name": "Hoodie (feat. Alisson Shore)",
+        "url": "https://open.spotify.com/album/1NwGufXGKSYH6fbENHi7HK"
+      },
+      "artists": [
+        {
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+        },
+        {
+          "name": "Alisson Shore",
+          "url": "https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ"
+        }
+      ],
+      "duration_ms": 170895,
+      "name": "Hoodie (feat. Alisson Shore)",
+      "url": "https://open.spotify.com/track/617TML0prwU24bJPd7uESm"
     },
     {
       "added_at": "2024-06-05 08:03:22",
@@ -319,6 +319,22 @@
     {
       "added_at": "2024-06-05 08:03:22",
       "album": {
+        "name": "Maybe The Night",
+        "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 217197,
+      "name": "Maybe The Night",
+      "url": "https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei"
+    },
+    {
+      "added_at": "2024-06-05 08:03:22",
+      "album": {
         "name": "Kung Wala Ka",
         "url": "https://open.spotify.com/album/4iaCi771IT9I2xwtnXnjlx"
       },
@@ -331,26 +347,6 @@
       "duration_ms": 242800,
       "name": "Kung Wala Ka",
       "url": "https://open.spotify.com/track/4JSDhJVmo2UqdF7nxbyenn"
-    },
-    {
-      "added_at": "2024-06-05 08:03:22",
-      "album": {
-        "name": "Byahe",
-        "url": "https://open.spotify.com/album/6GkdhbqD0GxO1YMan6eK2b"
-      },
-      "artists": [
-        {
-          "name": "John Roa",
-          "url": "https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y"
-        },
-        {
-          "name": "Skusta Clee",
-          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
-        }
-      ],
-      "duration_ms": 197192,
-      "name": "Dati (feat. Skusta Clee)",
-      "url": "https://open.spotify.com/track/7pa4kToAE3b6Gtk7fWrsLl"
     },
     {
       "added_at": "2024-06-05 08:03:22",
@@ -371,22 +367,6 @@
     {
       "added_at": "2024-06-05 08:03:22",
       "album": {
-        "name": "Maybe The Night",
-        "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 217197,
-      "name": "Maybe The Night",
-      "url": "https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei"
-    },
-    {
-      "added_at": "2024-06-05 08:03:22",
-      "album": {
         "name": "Bakit?",
         "url": "https://open.spotify.com/album/4yUpIXYnlsHPTT3mIAzIKI"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 194442,
       "name": "Bakit?",
       "url": "https://open.spotify.com/track/1PpuRYoMSWX8CQZDTE1MRV"
+    },
+    {
+      "added_at": "2024-06-05 08:03:22",
+      "album": {
+        "name": "Byahe",
+        "url": "https://open.spotify.com/album/6GkdhbqD0GxO1YMan6eK2b"
+      },
+      "artists": [
+        {
+          "name": "John Roa",
+          "url": "https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y"
+        },
+        {
+          "name": "Skusta Clee",
+          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
+        }
+      ],
+      "duration_ms": 197192,
+      "name": "Dati (feat. Skusta Clee)",
+      "url": "https://open.spotify.com/track/7pa4kToAE3b6Gtk7fWrsLl"
     },
     {
       "added_at": "2024-06-05 08:03:22",
@@ -603,26 +603,6 @@
     {
       "added_at": "2024-06-05 08:03:22",
       "album": {
-        "name": "Mikasa",
-        "url": "https://open.spotify.com/album/4xhKTo8zhVUzDDwsNb9Cdq"
-      },
-      "artists": [
-        {
-          "name": "Arthur Nery",
-          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
-        },
-        {
-          "name": "Janine Berdin",
-          "url": "https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr"
-        }
-      ],
-      "duration_ms": 253333,
-      "name": "Mikasa",
-      "url": "https://open.spotify.com/track/12TuXwmfjap9XnPVtBHS8B"
-    },
-    {
-      "added_at": "2024-06-05 08:03:22",
-      "album": {
         "name": "LOVES7AGE",
         "url": "https://open.spotify.com/album/69ewkNFbekxjGlMyc5kCYQ"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 186240,
       "name": "Para Sa Akin",
       "url": "https://open.spotify.com/track/0MqkYdGBzHx7lnaFvo7doR"
+    },
+    {
+      "added_at": "2024-06-05 08:03:22",
+      "album": {
+        "name": "Mikasa",
+        "url": "https://open.spotify.com/album/4xhKTo8zhVUzDDwsNb9Cdq"
+      },
+      "artists": [
+        {
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+        },
+        {
+          "name": "Janine Berdin",
+          "url": "https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr"
+        }
+      ],
+      "duration_ms": 253333,
+      "name": "Mikasa",
+      "url": "https://open.spotify.com/track/12TuXwmfjap9XnPVtBHS8B"
     },
     {
       "added_at": "2024-06-05 08:03:22",
@@ -699,6 +699,26 @@
     {
       "added_at": "2024-06-05 08:03:22",
       "album": {
+        "name": "The Platinum Collection",
+        "url": "https://open.spotify.com/album/1ybbXhOGoaqW8qn3QqCcSz"
+      },
+      "artists": [
+        {
+          "name": "Side A",
+          "url": "https://open.spotify.com/artist/31oMMIBDMM2Z1RQO7u8irE"
+        },
+        {
+          "name": "Jun Reyes",
+          "url": "https://open.spotify.com/artist/74ZrVPO9hBg3o6j7g0OZ6u"
+        }
+      ],
+      "duration_ms": 273493,
+      "name": "Set You Free",
+      "url": "https://open.spotify.com/track/64juMW0Kj0MLIn5pbuNvKD"
+    },
+    {
+      "added_at": "2024-06-05 08:03:22",
+      "album": {
         "name": "Could Be Something",
         "url": "https://open.spotify.com/album/333wl5bz94xWRNTPBBfKcI"
       },
@@ -711,6 +731,22 @@
       "duration_ms": 196781,
       "name": "Could Be Something",
       "url": "https://open.spotify.com/track/3hrkISrdVUz0qJLeH2KI9r"
+    },
+    {
+      "added_at": "2024-06-05 08:03:22",
+      "album": {
+        "name": "Kursunada",
+        "url": "https://open.spotify.com/album/3UtNIGkQvgd4V5qJxQrebA"
+      },
+      "artists": [
+        {
+          "name": "Adie",
+          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
+        }
+      ],
+      "duration_ms": 179117,
+      "name": "Kursunada",
+      "url": "https://open.spotify.com/track/0vDzg5rADviX5YizHGo6UU"
     },
     {
       "added_at": "2024-06-05 08:03:22",
@@ -735,42 +771,6 @@
     {
       "added_at": "2024-06-05 08:03:22",
       "album": {
-        "name": "The Platinum Collection",
-        "url": "https://open.spotify.com/album/1ybbXhOGoaqW8qn3QqCcSz"
-      },
-      "artists": [
-        {
-          "name": "Side A",
-          "url": "https://open.spotify.com/artist/31oMMIBDMM2Z1RQO7u8irE"
-        },
-        {
-          "name": "Jun Reyes",
-          "url": "https://open.spotify.com/artist/74ZrVPO9hBg3o6j7g0OZ6u"
-        }
-      ],
-      "duration_ms": 273493,
-      "name": "Set You Free",
-      "url": "https://open.spotify.com/track/64juMW0Kj0MLIn5pbuNvKD"
-    },
-    {
-      "added_at": "2024-06-05 08:03:22",
-      "album": {
-        "name": "Kursunada",
-        "url": "https://open.spotify.com/album/3UtNIGkQvgd4V5qJxQrebA"
-      },
-      "artists": [
-        {
-          "name": "Adie",
-          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
-        }
-      ],
-      "duration_ms": 179117,
-      "name": "Kursunada",
-      "url": "https://open.spotify.com/track/0vDzg5rADviX5YizHGo6UU"
-    },
-    {
-      "added_at": "2024-06-05 08:03:22",
-      "album": {
         "name": "Halfway There",
         "url": "https://open.spotify.com/album/6Xs7i3w3oTmK6j2cpry6sg"
       },
@@ -783,26 +783,6 @@
       "duration_ms": 155000,
       "name": "Halfway There",
       "url": "https://open.spotify.com/track/78CpG0pJFe6KC3JjuMeEQu"
-    },
-    {
-      "added_at": "2024-06-05 08:03:22",
-      "album": {
-        "name": "Abot Langit (Ricovered)",
-        "url": "https://open.spotify.com/album/23EBcDqjGPESxImYjrbJak"
-      },
-      "artists": [
-        {
-          "name": "Rico Blanco",
-          "url": "https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0"
-        },
-        {
-          "name": "Maris Racal",
-          "url": "https://open.spotify.com/artist/4bOVj4CTZ1WzSIiWRG9b3n"
-        }
-      ],
-      "duration_ms": 177692,
-      "name": "Abot Langit - Ricovered",
-      "url": "https://open.spotify.com/track/17FlJCEmLjIEHIfdhP960V"
     },
     {
       "added_at": "2024-06-05 08:03:22",
@@ -827,6 +807,26 @@
     {
       "added_at": "2024-06-05 08:03:22",
       "album": {
+        "name": "Abot Langit (Ricovered)",
+        "url": "https://open.spotify.com/album/23EBcDqjGPESxImYjrbJak"
+      },
+      "artists": [
+        {
+          "name": "Rico Blanco",
+          "url": "https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0"
+        },
+        {
+          "name": "Maris Racal",
+          "url": "https://open.spotify.com/artist/4bOVj4CTZ1WzSIiWRG9b3n"
+        }
+      ],
+      "duration_ms": 177692,
+      "name": "Abot Langit - Ricovered",
+      "url": "https://open.spotify.com/track/17FlJCEmLjIEHIfdhP960V"
+    },
+    {
+      "added_at": "2024-06-05 08:03:22",
+      "album": {
         "name": "Baliw",
         "url": "https://open.spotify.com/album/60jvhHVlmuAmEzdjRpkvue"
       },
@@ -839,22 +839,6 @@
       "duration_ms": 218983,
       "name": "Baliw",
       "url": "https://open.spotify.com/track/7cHycXGo5HnVQ5NkI3dLWK"
-    },
-    {
-      "added_at": "2024-06-05 08:03:22",
-      "album": {
-        "name": "Pagtingin",
-        "url": "https://open.spotify.com/album/4a0SAaOEW4bxKEvSqSDoQz"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 227370,
-      "name": "Pagtingin",
-      "url": "https://open.spotify.com/track/7178ubXeY1sFOqdNkKrUwb"
     },
     {
       "added_at": "2024-06-05 08:03:22",
@@ -875,22 +859,34 @@
     {
       "added_at": "2024-06-05 08:03:22",
       "album": {
-        "name": "Sakote",
-        "url": "https://open.spotify.com/album/2852rN5GsWjyvC6u5EQHJy"
+        "name": "CLAPCLAPCLAP!",
+        "url": "https://open.spotify.com/album/5mGR6qKnpILzSzq1yyAUXk"
       },
       "artists": [
         {
-          "name": "Awie",
-          "url": "https://open.spotify.com/artist/7o1cM5psPSV3rxsv9JwjDm"
-        },
-        {
-          "name": "Gat Putch",
-          "url": "https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v"
+          "name": "IV Of Spades",
+          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
         }
       ],
-      "duration_ms": 289083,
-      "name": "Sakote",
-      "url": "https://open.spotify.com/track/0QDJGf6Wo4cCbBVn4g8D4d"
+      "duration_ms": 238571,
+      "name": "Bawat Kaluluwa",
+      "url": "https://open.spotify.com/track/2gnVqlNifLIGvinryubyG4"
+    },
+    {
+      "added_at": "2024-06-05 08:03:22",
+      "album": {
+        "name": "Pagtingin",
+        "url": "https://open.spotify.com/album/4a0SAaOEW4bxKEvSqSDoQz"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 227370,
+      "name": "Pagtingin",
+      "url": "https://open.spotify.com/track/7178ubXeY1sFOqdNkKrUwb"
     }
   ],
   "unique_name": "Relax Tayo",

@@ -6559,6 +6559,24 @@
     },
     {
       "album": {
+        "name": "We hear the last decades dreaming",
+        "url": "https://open.spotify.com/album/55v2rPWFhanCrbVNytkTmT"
+      },
+      "artists": [
+        {
+          "name": "Chari Chari",
+          "url": "https://open.spotify.com/artist/4MJT57L7RMCvSvg2GjU0wQ"
+        }
+      ],
+      "date_added": "2024-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386170,
+      "name": "Of Mystic Dreams",
+      "url": "https://open.spotify.com/track/3dtTmuaWc0EcnnZK63CzSq"
+    },
+    {
+      "album": {
         "name": "\u30a2\u30c0\u30f3\u306e\u98a8",
         "url": "https://open.spotify.com/album/0clp0SFljD12UGPDOP0kN4"
       },
@@ -10732,7 +10750,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 254146,
       "name": "Zhan-ti-sui Temple",
       "url": "https://open.spotify.com/track/0aOmAlujBbTmbnMrxy0iwk"

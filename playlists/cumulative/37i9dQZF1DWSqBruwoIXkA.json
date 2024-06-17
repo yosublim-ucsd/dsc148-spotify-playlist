@@ -6269,6 +6269,24 @@
     },
     {
       "album": {
+        "name": "If It Wasn't for You",
+        "url": "https://open.spotify.com/album/3Zr4Kd5sSV6nIlL8ywhc8t"
+      },
+      "artists": [
+        {
+          "name": "Caleb Hearn",
+          "url": "https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190455,
+      "name": "If It Wasn't for You",
+      "url": "https://open.spotify.com/track/1BjneBkwJHVnX8245oXW2h"
+    },
+    {
+      "album": {
         "name": "if you hate me, say it",
         "url": "https://open.spotify.com/album/3SuFmwD5seyB2fgzvJGg8r"
       },
@@ -8228,7 +8246,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 220798,
       "name": "Men On The Moon",
       "url": "https://open.spotify.com/track/164LL9rTyEZ6DF0KMgXxsJ"

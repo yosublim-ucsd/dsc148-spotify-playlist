@@ -1,6 +1,6 @@
 {
   "description": "The best in modern punk rock music. Cover: Speed",
-  "num_followers": 447422,
+  "num_followers": 447434,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,18 @@
     {
       "added_at": "2024-06-14 13:20:41",
       "album": {
-        "name": "Ultimatum",
-        "url": "https://open.spotify.com/album/0YjaDupGt0URWOJKzc9bSP"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/78idguEf1xfzmWnsL6akZn"
       },
       "artists": [
         {
-          "name": "408",
-          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
-        },
-        {
-          "name": "We The Kings",
-          "url": "https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl"
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
         }
       ],
-      "duration_ms": 206040,
-      "name": "Ultimatum",
-      "url": "https://open.spotify.com/track/53oGdQkeoXpAtu9HLlsycx"
+      "duration_ms": 153266,
+      "name": "Mood Swings - Spotify Singles",
+      "url": "https://open.spotify.com/track/0AYOV3i35BkGFHBwZTKDl2"
     },
     {
       "added_at": "2024-06-14 13:20:41",
@@ -351,6 +347,26 @@
     {
       "added_at": "2024-06-14 13:20:41",
       "album": {
+        "name": "Ultimatum",
+        "url": "https://open.spotify.com/album/0YjaDupGt0URWOJKzc9bSP"
+      },
+      "artists": [
+        {
+          "name": "408",
+          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
+        },
+        {
+          "name": "We The Kings",
+          "url": "https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl"
+        }
+      ],
+      "duration_ms": 206040,
+      "name": "Ultimatum",
+      "url": "https://open.spotify.com/track/53oGdQkeoXpAtu9HLlsycx"
+    },
+    {
+      "added_at": "2024-06-14 13:20:41",
+      "album": {
         "name": "Undefeated",
         "url": "https://open.spotify.com/album/5htcBxqWfEWaZ7CCETXcH9"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 145973,
       "name": "International Hide and Seek Champions",
       "url": "https://open.spotify.com/track/7brqlMfN4OHSCFPqWLpk4d"
-    },
-    {
-      "added_at": "2024-06-14 13:20:41",
-      "album": {
-        "name": "Mirror Muscles",
-        "url": "https://open.spotify.com/album/7t0LEMUQbVJ6VaEGQSGSbG"
-      },
-      "artists": [
-        {
-          "name": "SOFT PLAY",
-          "url": "https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL"
-        }
-      ],
-      "duration_ms": 163257,
-      "name": "Mirror Muscles",
-      "url": "https://open.spotify.com/track/62i7ZpVSxDbgPe1JKHrPHu"
     },
     {
       "added_at": "2024-06-14 13:20:41",
@@ -399,18 +399,18 @@
     {
       "added_at": "2024-06-14 13:20:41",
       "album": {
-        "name": "Sour",
-        "url": "https://open.spotify.com/album/5M1Sl7MWUVktekMDVKZweJ"
+        "name": "Mirror Muscles",
+        "url": "https://open.spotify.com/album/7t0LEMUQbVJ6VaEGQSGSbG"
       },
       "artists": [
         {
-          "name": "Yours Truly",
-          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
+          "name": "SOFT PLAY",
+          "url": "https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL"
         }
       ],
-      "duration_ms": 165858,
-      "name": "Sour",
-      "url": "https://open.spotify.com/track/1eEq2illl2lZlqawke83S8"
+      "duration_ms": 163257,
+      "name": "Mirror Muscles",
+      "url": "https://open.spotify.com/track/62i7ZpVSxDbgPe1JKHrPHu"
     },
     {
       "added_at": "2024-06-14 13:20:41",
@@ -431,6 +431,22 @@
     {
       "added_at": "2024-06-14 13:20:41",
       "album": {
+        "name": "Sour",
+        "url": "https://open.spotify.com/album/5M1Sl7MWUVktekMDVKZweJ"
+      },
+      "artists": [
+        {
+          "name": "Yours Truly",
+          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
+        }
+      ],
+      "duration_ms": 165858,
+      "name": "Sour",
+      "url": "https://open.spotify.com/track/1eEq2illl2lZlqawke83S8"
+    },
+    {
+      "added_at": "2024-06-14 13:20:41",
+      "album": {
         "name": "Cheapskate",
         "url": "https://open.spotify.com/album/4J3fxlyKmCqkgK6C9jwJkG"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 191761,
       "name": "Cheapskate",
       "url": "https://open.spotify.com/track/3ydtco4AwW0uPKi3GFpnGQ"
-    },
-    {
-      "added_at": "2024-06-14 13:20:41",
-      "album": {
-        "name": "Half Album",
-        "url": "https://open.spotify.com/album/6TabKLBAyynahNuuxaKGOD"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 370939,
-      "name": "The Last Drag",
-      "url": "https://open.spotify.com/track/6YgLfZRRyZ22lYuEMg5rC7"
     },
     {
       "added_at": "2024-06-14 13:20:41",
@@ -491,6 +491,22 @@
       "duration_ms": 137076,
       "name": "No Backbone",
       "url": "https://open.spotify.com/track/4aVYHhJU15iTOK29U4PWIM"
+    },
+    {
+      "added_at": "2024-06-14 13:20:41",
+      "album": {
+        "name": "Half Album",
+        "url": "https://open.spotify.com/album/6TabKLBAyynahNuuxaKGOD"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 370939,
+      "name": "The Last Drag",
+      "url": "https://open.spotify.com/track/6YgLfZRRyZ22lYuEMg5rC7"
     },
     {
       "added_at": "2024-06-14 13:20:41",
@@ -611,18 +627,34 @@
     {
       "added_at": "2024-06-14 13:20:41",
       "album": {
-        "name": "Break You",
-        "url": "https://open.spotify.com/album/7DcUOc7DA2zHoQVudHCPaR"
+        "name": "3 DAY HEADACHE",
+        "url": "https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK"
       },
       "artists": [
         {
-          "name": "Trash Boat",
-          "url": "https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh"
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
         }
       ],
-      "duration_ms": 139593,
-      "name": "Break You",
-      "url": "https://open.spotify.com/track/3lp0POJTRk9qFKF2keDpJV"
+      "duration_ms": 114284,
+      "name": "3 DAY HEADACHE",
+      "url": "https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb"
+    },
+    {
+      "added_at": "2024-06-14 13:20:41",
+      "album": {
+        "name": "Still Nervous",
+        "url": "https://open.spotify.com/album/6PWrD6nfaFP8DEJNCvz9Eh"
+      },
+      "artists": [
+        {
+          "name": "Bad Nerves",
+          "url": "https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ"
+        }
+      ],
+      "duration_ms": 148106,
+      "name": "You've Got The Nerve",
+      "url": "https://open.spotify.com/track/4D27D0dO71irY4ngdUvsjJ"
     },
     {
       "added_at": "2024-06-14 13:20:41",
@@ -643,6 +675,38 @@
     {
       "added_at": "2024-06-14 13:20:41",
       "album": {
+        "name": "Break You",
+        "url": "https://open.spotify.com/album/7DcUOc7DA2zHoQVudHCPaR"
+      },
+      "artists": [
+        {
+          "name": "Trash Boat",
+          "url": "https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh"
+        }
+      ],
+      "duration_ms": 139593,
+      "name": "Break You",
+      "url": "https://open.spotify.com/track/3lp0POJTRk9qFKF2keDpJV"
+    },
+    {
+      "added_at": "2024-06-14 13:20:41",
+      "album": {
+        "name": "The Prius Diaries: A Hybrid Story",
+        "url": "https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU"
+      },
+      "artists": [
+        {
+          "name": "WALWIN",
+          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
+        }
+      ],
+      "duration_ms": 142538,
+      "name": "Stop Living & Don't Dream",
+      "url": "https://open.spotify.com/track/70xKZgV2e8oA6ww1CFb0f6"
+    },
+    {
+      "added_at": "2024-06-14 13:20:41",
+      "album": {
         "name": "Get Down",
         "url": "https://open.spotify.com/album/1q6grMLrlXI4o1fANDnovc"
       },
@@ -659,22 +723,6 @@
     {
       "added_at": "2024-06-14 13:20:41",
       "album": {
-        "name": "3 DAY HEADACHE",
-        "url": "https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK"
-      },
-      "artists": [
-        {
-          "name": "NOAHFINNCE",
-          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
-        }
-      ],
-      "duration_ms": 114284,
-      "name": "3 DAY HEADACHE",
-      "url": "https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb"
-    },
-    {
-      "added_at": "2024-06-14 13:20:41",
-      "album": {
         "name": "The Twits",
         "url": "https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0"
       },
@@ -687,22 +735,6 @@
       "duration_ms": 174521,
       "name": "worlds greatest emoter",
       "url": "https://open.spotify.com/track/1eUnBxdddaPlWDVqVjC8bO"
-    },
-    {
-      "added_at": "2024-06-14 13:20:41",
-      "album": {
-        "name": "Still Nervous",
-        "url": "https://open.spotify.com/album/6PWrD6nfaFP8DEJNCvz9Eh"
-      },
-      "artists": [
-        {
-          "name": "Bad Nerves",
-          "url": "https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ"
-        }
-      ],
-      "duration_ms": 148106,
-      "name": "You've Got The Nerve",
-      "url": "https://open.spotify.com/track/4D27D0dO71irY4ngdUvsjJ"
     },
     {
       "added_at": "2024-06-14 13:20:41",
@@ -743,6 +775,22 @@
     {
       "added_at": "2024-06-14 13:20:41",
       "album": {
+        "name": "Lower Feeling",
+        "url": "https://open.spotify.com/album/35QyWZYT93Nh3JXUjLXaF3"
+      },
+      "artists": [
+        {
+          "name": "Rarity",
+          "url": "https://open.spotify.com/artist/2EIhbnEc2cvYIAsXXbo9tg"
+        }
+      ],
+      "duration_ms": 192680,
+      "name": "New Paint",
+      "url": "https://open.spotify.com/track/5Ex8Ze050rnPRmYhjEMZQT"
+    },
+    {
+      "added_at": "2024-06-14 13:20:41",
+      "album": {
         "name": "Sixteen",
         "url": "https://open.spotify.com/album/71jVpE2XmMErw3Ef45xrOY"
       },
@@ -759,18 +807,18 @@
     {
       "added_at": "2024-06-14 13:20:41",
       "album": {
-        "name": "Sanguivore Special Edition",
-        "url": "https://open.spotify.com/album/6Jqw7LKE3lEkc5GTEFrjNf"
+        "name": "Approachable",
+        "url": "https://open.spotify.com/album/5LabQRkQ7ULkIAm2mZktMl"
       },
       "artists": [
         {
-          "name": "Creeper",
-          "url": "https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj"
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
         }
       ],
-      "duration_ms": 253377,
-      "name": "Love And Pain",
-      "url": "https://open.spotify.com/track/7cqu8HAnerp6pOPRlRzLyG"
+      "duration_ms": 240973,
+      "name": "Approachable",
+      "url": "https://open.spotify.com/track/5GtTdg5XdVYzp0sQjQvkRm"
     },
     {
       "added_at": "2024-06-14 13:20:41",
@@ -791,18 +839,34 @@
     {
       "added_at": "2024-06-14 13:20:41",
       "album": {
-        "name": "Lower Feeling",
-        "url": "https://open.spotify.com/album/35QyWZYT93Nh3JXUjLXaF3"
+        "name": "Sanguivore Special Edition",
+        "url": "https://open.spotify.com/album/6Jqw7LKE3lEkc5GTEFrjNf"
       },
       "artists": [
         {
-          "name": "Rarity",
-          "url": "https://open.spotify.com/artist/2EIhbnEc2cvYIAsXXbo9tg"
+          "name": "Creeper",
+          "url": "https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj"
         }
       ],
-      "duration_ms": 192680,
-      "name": "New Paint",
-      "url": "https://open.spotify.com/track/5Ex8Ze050rnPRmYhjEMZQT"
+      "duration_ms": 253377,
+      "name": "Love And Pain",
+      "url": "https://open.spotify.com/track/7cqu8HAnerp6pOPRlRzLyG"
+    },
+    {
+      "added_at": "2024-06-14 13:20:41",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/0UzkkyZr2P80OnYgsDGUU5"
+      },
+      "artists": [
+        {
+          "name": "DEADLETTER",
+          "url": "https://open.spotify.com/artist/4MfUQ99z2kgMnl9hAwffBx"
+        }
+      ],
+      "duration_ms": 268146,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/57g6SFW7Fc8bCyni1BCYTM"
     },
     {
       "added_at": "2024-06-14 13:20:41",
@@ -823,50 +887,18 @@
     {
       "added_at": "2024-06-14 13:20:41",
       "album": {
-        "name": "You're My Medicine",
-        "url": "https://open.spotify.com/album/3DuCbWlWRyCwqctRcICOiZ"
+        "name": "What A Fucking Nightmare",
+        "url": "https://open.spotify.com/album/7zLyYaOIilCtSBIrexqQ55"
       },
       "artists": [
         {
-          "name": "Greywind",
-          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
+          "name": "The Chisel",
+          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
         }
       ],
-      "duration_ms": 192682,
-      "name": "You're My Medicine",
-      "url": "https://open.spotify.com/track/1gXk7JzeRTPJn9ugLErbNb"
-    },
-    {
-      "added_at": "2024-06-14 13:20:41",
-      "album": {
-        "name": "Orange Leaf",
-        "url": "https://open.spotify.com/album/2X33k6Fadw65HP4AbtPuC8"
-      },
-      "artists": [
-        {
-          "name": "One Step Closer",
-          "url": "https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb"
-        }
-      ],
-      "duration_ms": 159386,
-      "name": "Orange Leaf",
-      "url": "https://open.spotify.com/track/0sglBJ8VrL4W6Mlw37FAPu"
-    },
-    {
-      "added_at": "2024-06-14 13:20:41",
-      "album": {
-        "name": "The Prius Diaries: A Hybrid Story",
-        "url": "https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU"
-      },
-      "artists": [
-        {
-          "name": "WALWIN",
-          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
-        }
-      ],
-      "duration_ms": 142538,
-      "name": "Stop Living & Don't Dream",
-      "url": "https://open.spotify.com/track/70xKZgV2e8oA6ww1CFb0f6"
+      "duration_ms": 145957,
+      "name": "Cry Your Eyes Out",
+      "url": "https://open.spotify.com/track/0OVyXMEWE466pyca4a0HPR"
     },
     {
       "added_at": "2024-06-14 13:20:41",
@@ -887,34 +919,18 @@
     {
       "added_at": "2024-06-14 13:20:41",
       "album": {
-        "name": "What A Fucking Nightmare",
-        "url": "https://open.spotify.com/album/7zLyYaOIilCtSBIrexqQ55"
+        "name": "You're My Medicine",
+        "url": "https://open.spotify.com/album/3DuCbWlWRyCwqctRcICOiZ"
       },
       "artists": [
         {
-          "name": "The Chisel",
-          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
+          "name": "Greywind",
+          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
         }
       ],
-      "duration_ms": 145957,
-      "name": "Cry Your Eyes Out",
-      "url": "https://open.spotify.com/track/0OVyXMEWE466pyca4a0HPR"
-    },
-    {
-      "added_at": "2024-06-14 13:20:41",
-      "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/0UzkkyZr2P80OnYgsDGUU5"
-      },
-      "artists": [
-        {
-          "name": "DEADLETTER",
-          "url": "https://open.spotify.com/artist/4MfUQ99z2kgMnl9hAwffBx"
-        }
-      ],
-      "duration_ms": 268146,
-      "name": "Mother",
-      "url": "https://open.spotify.com/track/57g6SFW7Fc8bCyni1BCYTM"
+      "duration_ms": 192682,
+      "name": "You're My Medicine",
+      "url": "https://open.spotify.com/track/1gXk7JzeRTPJn9ugLErbNb"
     },
     {
       "added_at": "2024-06-14 13:20:41",
@@ -939,18 +955,18 @@
     {
       "added_at": "2024-06-14 13:20:41",
       "album": {
-        "name": "Fascist Bob",
-        "url": "https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL"
+        "name": "Orange Leaf",
+        "url": "https://open.spotify.com/album/2X33k6Fadw65HP4AbtPuC8"
       },
       "artists": [
         {
-          "name": "SOAPBOX",
-          "url": "https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO"
+          "name": "One Step Closer",
+          "url": "https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb"
         }
       ],
-      "duration_ms": 116240,
-      "name": "Fascist Bob",
-      "url": "https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI"
+      "duration_ms": 159386,
+      "name": "Orange Leaf",
+      "url": "https://open.spotify.com/track/0sglBJ8VrL4W6Mlw37FAPu"
     },
     {
       "added_at": "2024-06-14 13:20:41",
@@ -971,6 +987,58 @@
     {
       "added_at": "2024-06-14 13:20:41",
       "album": {
+        "name": "Fascist Bob",
+        "url": "https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL"
+      },
+      "artists": [
+        {
+          "name": "SOAPBOX",
+          "url": "https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO"
+        }
+      ],
+      "duration_ms": 116240,
+      "name": "Fascist Bob",
+      "url": "https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI"
+    },
+    {
+      "added_at": "2024-06-14 13:20:41",
+      "album": {
+        "name": "Johnny",
+        "url": "https://open.spotify.com/album/47lvAhcAnEbkuhpJwJYE6r"
+      },
+      "artists": [
+        {
+          "name": "CARR",
+          "url": "https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ"
+        }
+      ],
+      "duration_ms": 149786,
+      "name": "Johnny",
+      "url": "https://open.spotify.com/track/37wZMhakpKNVYQO8LjHaDJ"
+    },
+    {
+      "added_at": "2024-06-14 13:20:41",
+      "album": {
+        "name": "Churro",
+        "url": "https://open.spotify.com/album/3LoEELocgdXod9VQvLHxai"
+      },
+      "artists": [
+        {
+          "name": "N8NOFACE",
+          "url": "https://open.spotify.com/artist/0HlRzJcjY69mM3nW2Xvrzi"
+        },
+        {
+          "name": "Conejo",
+          "url": "https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j"
+        }
+      ],
+      "duration_ms": 154561,
+      "name": "Churro",
+      "url": "https://open.spotify.com/track/0OsN5xY2fdSmCMSUobmKUl"
+    },
+    {
+      "added_at": "2024-06-14 13:20:41",
+      "album": {
         "name": "Cold World",
         "url": "https://open.spotify.com/album/3puZVzk32SvGkXZd7P4FXI"
       },
@@ -987,18 +1055,18 @@
     {
       "added_at": "2024-06-14 13:20:41",
       "album": {
-        "name": "Hopefully Pitchfork Doesn't Hear This",
-        "url": "https://open.spotify.com/album/01GmOq8jksLHTkozUJ9Ixg"
+        "name": "Call A Doctor",
+        "url": "https://open.spotify.com/album/60BvLrCIHyg11qbV8m9MK6"
       },
       "artists": [
         {
-          "name": "Super American",
-          "url": "https://open.spotify.com/artist/2rYqBfxSvw45tW4WP5drQ2"
+          "name": "Girl and Girl",
+          "url": "https://open.spotify.com/artist/6tRT8DibGiNSkXViROkIBn"
         }
       ],
-      "duration_ms": 146600,
-      "name": "Hopefully Pitchfork Doesn't Hear This",
-      "url": "https://open.spotify.com/track/3D6N0OuzZPTEDP9MfSIgA0"
+      "duration_ms": 309184,
+      "name": "Call A Doctor",
+      "url": "https://open.spotify.com/track/5J8NNFnkQI2YjUcE0o2PLT"
     },
     {
       "added_at": "2024-06-14 13:20:41",
@@ -1023,38 +1091,18 @@
     {
       "added_at": "2024-06-14 13:20:41",
       "album": {
-        "name": "Call A Doctor",
-        "url": "https://open.spotify.com/album/60BvLrCIHyg11qbV8m9MK6"
+        "name": "Hopefully Pitchfork Doesn't Hear This",
+        "url": "https://open.spotify.com/album/01GmOq8jksLHTkozUJ9Ixg"
       },
       "artists": [
         {
-          "name": "Girl and Girl",
-          "url": "https://open.spotify.com/artist/6tRT8DibGiNSkXViROkIBn"
+          "name": "Super American",
+          "url": "https://open.spotify.com/artist/2rYqBfxSvw45tW4WP5drQ2"
         }
       ],
-      "duration_ms": 309184,
-      "name": "Call A Doctor",
-      "url": "https://open.spotify.com/track/5J8NNFnkQI2YjUcE0o2PLT"
-    },
-    {
-      "added_at": "2024-06-14 13:20:41",
-      "album": {
-        "name": "Churro",
-        "url": "https://open.spotify.com/album/3LoEELocgdXod9VQvLHxai"
-      },
-      "artists": [
-        {
-          "name": "N8NOFACE",
-          "url": "https://open.spotify.com/artist/0HlRzJcjY69mM3nW2Xvrzi"
-        },
-        {
-          "name": "Conejo",
-          "url": "https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j"
-        }
-      ],
-      "duration_ms": 154561,
-      "name": "Churro",
-      "url": "https://open.spotify.com/track/0OsN5xY2fdSmCMSUobmKUl"
+      "duration_ms": 146600,
+      "name": "Hopefully Pitchfork Doesn't Hear This",
+      "url": "https://open.spotify.com/track/3D6N0OuzZPTEDP9MfSIgA0"
     },
     {
       "added_at": "2024-06-14 13:20:41",
@@ -1095,38 +1143,6 @@
     {
       "added_at": "2024-06-14 13:20:41",
       "album": {
-        "name": "Approachable",
-        "url": "https://open.spotify.com/album/5LabQRkQ7ULkIAm2mZktMl"
-      },
-      "artists": [
-        {
-          "name": "Gurriers",
-          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
-        }
-      ],
-      "duration_ms": 240973,
-      "name": "Approachable",
-      "url": "https://open.spotify.com/track/5GtTdg5XdVYzp0sQjQvkRm"
-    },
-    {
-      "added_at": "2024-06-14 13:20:41",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/78idguEf1xfzmWnsL6akZn"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 153266,
-      "name": "Mood Swings - Spotify Singles",
-      "url": "https://open.spotify.com/track/0AYOV3i35BkGFHBwZTKDl2"
-    },
-    {
-      "added_at": "2024-06-14 13:20:41",
-      "album": {
         "name": "Now When We Talk It's Violence",
         "url": "https://open.spotify.com/album/63T8vRb63TY4Bj1mAPlu9O"
       },
@@ -1155,6 +1171,38 @@
       "duration_ms": 156600,
       "name": "Ultrasound",
       "url": "https://open.spotify.com/track/6DohhL3ptxwD3GBvhHujCA"
+    },
+    {
+      "added_at": "2024-06-14 13:20:41",
+      "album": {
+        "name": "TANGK",
+        "url": "https://open.spotify.com/album/6JBHYSMp3KYqiTTjmn26BU"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 143413,
+      "name": "Hall & Oates",
+      "url": "https://open.spotify.com/track/0OXXyvXpIVATItV6mbduyE"
+    },
+    {
+      "added_at": "2024-06-14 13:20:41",
+      "album": {
+        "name": "WEIRDO",
+        "url": "https://open.spotify.com/album/53RO0O7zjPj1yJuLegkzoz"
+      },
+      "artists": [
+        {
+          "name": "GANG!",
+          "url": "https://open.spotify.com/artist/50DgH5MV7YHdaQ3behXw4C"
+        }
+      ],
+      "duration_ms": 155526,
+      "name": "WEIRDO",
+      "url": "https://open.spotify.com/track/46WTvn5j8rx0JRB8BMF2YQ"
     },
     {
       "added_at": "2024-06-14 13:20:41",
@@ -1191,38 +1239,6 @@
     {
       "added_at": "2024-06-14 13:20:41",
       "album": {
-        "name": "HAWD THAT",
-        "url": "https://open.spotify.com/album/7IBKsN43AlunQwU7scSCuA"
-      },
-      "artists": [
-        {
-          "name": "SOAPBOX",
-          "url": "https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO"
-        }
-      ],
-      "duration_ms": 154920,
-      "name": "Stiff Upper Lip",
-      "url": "https://open.spotify.com/track/4vOs2zpYvQIaLp1zfU5xJz"
-    },
-    {
-      "added_at": "2024-06-14 13:20:41",
-      "album": {
-        "name": "TANGK",
-        "url": "https://open.spotify.com/album/6JBHYSMp3KYqiTTjmn26BU"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 143413,
-      "name": "Hall & Oates",
-      "url": "https://open.spotify.com/track/0OXXyvXpIVATItV6mbduyE"
-    },
-    {
-      "added_at": "2024-06-14 13:20:41",
-      "album": {
         "name": "So Cold",
         "url": "https://open.spotify.com/album/0LM6iYcA8RxgcHwR0J4yN8"
       },
@@ -1235,6 +1251,22 @@
       "duration_ms": 221465,
       "name": "So Cold",
       "url": "https://open.spotify.com/track/3dTlvE1QJ0UaZ1imdtA0Ot"
+    },
+    {
+      "added_at": "2024-06-14 13:20:41",
+      "album": {
+        "name": "HAWD THAT",
+        "url": "https://open.spotify.com/album/7IBKsN43AlunQwU7scSCuA"
+      },
+      "artists": [
+        {
+          "name": "SOAPBOX",
+          "url": "https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO"
+        }
+      ],
+      "duration_ms": 154920,
+      "name": "Stiff Upper Lip",
+      "url": "https://open.spotify.com/track/4vOs2zpYvQIaLp1zfU5xJz"
     },
     {
       "added_at": "2024-06-14 13:20:41",
@@ -1259,22 +1291,6 @@
     {
       "added_at": "2024-06-14 13:20:41",
       "album": {
-        "name": "WEIRDO",
-        "url": "https://open.spotify.com/album/53RO0O7zjPj1yJuLegkzoz"
-      },
-      "artists": [
-        {
-          "name": "GANG!",
-          "url": "https://open.spotify.com/artist/50DgH5MV7YHdaQ3behXw4C"
-        }
-      ],
-      "duration_ms": 155526,
-      "name": "WEIRDO",
-      "url": "https://open.spotify.com/track/46WTvn5j8rx0JRB8BMF2YQ"
-    },
-    {
-      "added_at": "2024-06-14 13:20:41",
-      "album": {
         "name": "Be Better",
         "url": "https://open.spotify.com/album/06DjLKHL3vU2hmwkgQavK2"
       },
@@ -1291,34 +1307,18 @@
     {
       "added_at": "2024-06-14 13:20:41",
       "album": {
-        "name": "Roll With It",
-        "url": "https://open.spotify.com/album/4CpQRht0zS8BLLNk78dr0W"
+        "name": "Sink Or Swim",
+        "url": "https://open.spotify.com/album/3aTuERruHynGl1FD2f5psx"
       },
       "artists": [
         {
-          "name": "Cold Years",
-          "url": "https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp"
+          "name": "SNAYX",
+          "url": "https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0"
         }
       ],
-      "duration_ms": 215760,
-      "name": "Roll With It",
-      "url": "https://open.spotify.com/track/3xHgszDlff5N2EOZWWWcAy"
-    },
-    {
-      "added_at": "2024-06-14 13:20:41",
-      "album": {
-        "name": "Lately",
-        "url": "https://open.spotify.com/album/7HbR9q2DAVOJuQleC222Q0"
-      },
-      "artists": [
-        {
-          "name": "Jaws the Shark",
-          "url": "https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S"
-        }
-      ],
-      "duration_ms": 209736,
-      "name": "Lately",
-      "url": "https://open.spotify.com/track/4wHJ9q7QZBSEFmpsMyQwkz"
+      "duration_ms": 192080,
+      "name": "Sink Or Swim",
+      "url": "https://open.spotify.com/track/00FSOP3RZcF20UK4t6wKQt"
     }
   ],
   "unique_name": "Today's Punk",

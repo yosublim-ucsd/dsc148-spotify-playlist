@@ -567,6 +567,32 @@
     },
     {
       "album": {
+        "name": "Rainbow: 25th Anniversary Expanded Edition",
+        "url": "https://open.spotify.com/album/6yitEMT7G4qfIcV3jWXP8I"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Jermaine Dupri",
+          "url": "https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208328,
+      "name": "How Much (feat. Usher) - So So Def Remix",
+      "url": "https://open.spotify.com/track/1tkQjwwuvWlMRiRgRD8ZNy"
+    },
+    {
+      "album": {
         "name": "Mariah Carey",
         "url": "https://open.spotify.com/album/5SwNGsGw1I8H361DKiYnnn"
       },
@@ -1420,7 +1446,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 350866,
       "name": "We Are The World - Live",
       "url": "https://open.spotify.com/track/5hqWLWK1WuNsUDJJBNwJv8"

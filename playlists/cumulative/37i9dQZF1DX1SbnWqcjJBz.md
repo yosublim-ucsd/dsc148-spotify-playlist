@@ -2,7 +2,7 @@
 
 ### [Deserved](https://open.spotify.com/playlist/37i9dQZF1DX1SbnWqcjJBz)
 
-> Talented, brilliant, incredible, amazing, show\-stopping… See also: <a href="spotify:playlist:37i9dQZF1DX7YE2tQ4q86h">OBSESSED</a>
+> this should have been her espresso<br/><br/>See also: <a href="spotify:playlist:37i9dQZF1DX7YE2tQ4q86h">OBSESSED</a>
 
 343 songs - 20 hr 26 min
 

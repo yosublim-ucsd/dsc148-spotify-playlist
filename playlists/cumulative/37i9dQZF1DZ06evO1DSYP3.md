@@ -4,7 +4,7 @@
 
 > This is P\-Lo\. The essential tracks, all in one playlist.
 
-60 songs - 2 hr 47 min
+61 songs - 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Boy \(feat\. P\-Lo\)](https://open.spotify.com/track/2YjFfpWIEWu4F7BFxevDqv) | [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [B\-Legit](https://open.spotify.com/artist/6nltEpEZtqZD1v4YJLlaZI), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Connected And Respected](https://open.spotify.com/album/2BThd0FFROidBahO46lH1y) | 3:41 | 2024-05-17 |  |
 | [Do It For The Bay](https://open.spotify.com/track/0rxd3zqvnNV8AQgkhYKDke) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Do It For The Bay](https://open.spotify.com/album/7LhiiKXxWkyRs3PDtIsl60) | 1:58 | 2024-01-29 |  |
 | [Get Me Lit](https://open.spotify.com/track/3NHIF5vQRcSN4sGbtL2E8M) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Get Me Lit](https://open.spotify.com/album/7FpzFkovqgilEa9eF7LJZW) | 2:11 | 2024-01-29 |  |
+| [GIVE ME A BEAT!](https://open.spotify.com/track/01XhYQFGlrDCYAmyhgIYlA) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [GIVE ME A BEAT!](https://open.spotify.com/album/388GujEhTMzqdyVt1t0IxO) | 3:18 | 2024-06-17 |  |
 | [Going Off](https://open.spotify.com/track/0ptpL3gNn7Z8c2LoV4VthT) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Going Off](https://open.spotify.com/album/4U7mZO24WBKhnjXWpFhHFS) | 2:03 | 2024-01-29 |  |
 | [Going To Work](https://open.spotify.com/track/1iri2k9wVGJl2UQuHlNxrM) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Going To Work \- Single](https://open.spotify.com/album/0CTn4BqFFTsfDuWrPguexd) | 3:17 | 2024-01-29 |  |
 | [Good \(feat\. Larry June\)](https://open.spotify.com/track/5xMGrKAdfo5RDUychxfMYQ) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [STUNNA](https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM) | 2:00 | 2024-01-29 |  |
@@ -51,7 +52,7 @@
 | [same squad](https://open.spotify.com/track/0YCl0i8CTDqtISiphhLIE8) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [PRIME](https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL) | 2:31 | 2024-01-29 |  |
 | [shake ya ass \(feat\. P\-Lo\)](https://open.spotify.com/track/0quqp7sNqZnyrePWcTPfpi) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [drink bleach](https://open.spotify.com/album/4VQDvbycoUett0aIo9ku6r) | 3:21 | 2024-01-29 |  |
 | [Shine](https://open.spotify.com/track/7reqdhRTImOChEgyZlrqJJ) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 1:58 | 2024-01-29 | 2024-06-09 |
-| [SILK](https://open.spotify.com/track/649JkfJv5FNUMTbIarTDty) | [Ymtk](https://open.spotify.com/artist/1qGA73vOmiGDs08cvGo6rV), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [SILK](https://open.spotify.com/album/5aMNCaPqaJDh9BDjrYFdOR) | 3:21 | 2024-01-29 |  |
+| [SILK](https://open.spotify.com/track/649JkfJv5FNUMTbIarTDty) | [Ymtk](https://open.spotify.com/artist/1qGA73vOmiGDs08cvGo6rV), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [SILK](https://open.spotify.com/album/5aMNCaPqaJDh9BDjrYFdOR) | 3:21 | 2024-01-29 | 2024-06-17 |
 | [Sneeze](https://open.spotify.com/track/5ON3vOmbAsjByiJObo2CHi) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 2:35 | 2024-01-29 |  |
 | [Stunna Anthem](https://open.spotify.com/track/32swiA5dr04YdzEpLOTiXX) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [STUNNA](https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM) | 3:01 | 2024-01-29 |  |
 | [Talkin Bout](https://open.spotify.com/track/15u0ZhVWMUTEaStEDPXgTO) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Talkin Bout](https://open.spotify.com/album/6L5CxmKI39lczQsNncVrhx) | 1:57 | 2024-01-29 |  |

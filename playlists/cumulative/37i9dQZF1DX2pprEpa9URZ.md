@@ -4,7 +4,7 @@
 
 > A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.
 
-392 songs - 1 day 18 hr 46 min
+393 songs - 1 day 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Bosque](https://open.spotify.com/track/48lLbEReLswTVWsZYhhPks) | [Bosquemar](https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY) | [Bosque](https://open.spotify.com/album/4HROnq4ngJRmaEfRX5YkRt) | 6:33 | 2021-05-08 |  |
 | [Bote Chin](https://open.spotify.com/track/5G4UC9fnqy2o50V4p2EuYZ) | [DJ Phellix](https://open.spotify.com/artist/3SpYdayszFL9XOR5Ur09zV), [OF REZZ](https://open.spotify.com/artist/6PjQPlHoQlkxmgnNIkXu15), [Amir Sheykh](https://open.spotify.com/artist/0jkm4met7RZxXJCE8IvGmr) | [Bote Chin](https://open.spotify.com/album/2I0DiWIgK52RnfjkE2jRRC) | 7:05 | 2023-01-30 | 2023-02-23 |
 | [Bush Society](https://open.spotify.com/track/16dLsIQ6BksCu60IDmm91r) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Bush Society](https://open.spotify.com/album/76leyzNTAK6BNW7pj62hQr) | 10:45 | 2021-10-11 | 2022-04-21 |
-| [Cafune](https://open.spotify.com/track/2O3V17L93GZyCDX6vhEKz5) | [Double Touch](https://open.spotify.com/artist/2gs35pd58Hjh9gOlH95QtF), [Budajevo](https://open.spotify.com/artist/6Ep2vI7FwSPggbjZQTsEnR) | [Cafune](https://open.spotify.com/album/0td3Appnt0WXWgtUDSIgee) | 7:45 | 2021-08-12 |  |
+| [Cafune](https://open.spotify.com/track/2O3V17L93GZyCDX6vhEKz5) | [Double Touch](https://open.spotify.com/artist/2gs35pd58Hjh9gOlH95QtF), [Budajevo](https://open.spotify.com/artist/6Ep2vI7FwSPggbjZQTsEnR) | [Cafune](https://open.spotify.com/album/0td3Appnt0WXWgtUDSIgee) | 7:45 | 2021-08-12 | 2024-06-17 |
 | [Calido](https://open.spotify.com/track/7BG0uaqYbhpq4ZjYDURkf6) | [Rey&Kjavik](https://open.spotify.com/artist/0R7kz98b2zjiuU3AffoeYz) | [Calido](https://open.spotify.com/album/4Q6skYgXLAI7Cgs6ddw6xN) | 5:53 | 2020-09-26 | 2022-07-28 |
 | [Calling \- Made by Pete Remix](https://open.spotify.com/track/6LtaIU7b2Ozhja8c0hAhW9) | [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r), [UNDERHER](https://open.spotify.com/artist/450wFwmuEK6ytahAaWlhbX), [Made By Pete](https://open.spotify.com/artist/4yLpA3QZ00hrlmJ0yX0TVa) | [Heartless Remixes](https://open.spotify.com/album/3oRlLU3a8HfDaKEeJJ1xaN) | 7:37 | 2022-04-04 | 2022-04-21 |
 | [Caminando de Noche](https://open.spotify.com/track/4L7g38G0N4RWSdaciFkTdQ) | [Niko Schwind](https://open.spotify.com/artist/4jPpDbD1ERO3zjBon97ECM), [Robbie Akbal](https://open.spotify.com/artist/3LvGzX9zs4GCx44NhOWN1H), [Ay Sarita](https://open.spotify.com/artist/5HifrXbZ6BSp7ATd2S8OxS) | [15 Years of Akbal Music, Pt\. 2](https://open.spotify.com/album/1y2JST2SwbJcG2MCrxvwlT) | 7:44 | 2021-12-17 | 2024-05-16 |
@@ -398,6 +398,7 @@
 | [Yoruba](https://open.spotify.com/track/6VNWwYYl9jCCIZD224ALSD) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Yoruba](https://open.spotify.com/album/5S65Qudj7Jk2YLiDUsWBJ9) | 7:07 | 2022-11-25 | 2023-09-22 |
 | [Younan](https://open.spotify.com/track/5mzakuJeEfkwBusJHVybMv) | [Ali Farahani](https://open.spotify.com/artist/0q46YeYGv3A3UVmUI8D8gw) | [Younan](https://open.spotify.com/album/7rcIyauF38HelZmiWq4mzp) | 6:58 | 2019-08-02\* | 2020-06-09 |
 | [Zoo La La](https://open.spotify.com/track/0tPucqttADQgxhUVFNMYYf) | [Danielle Nicole](https://open.spotify.com/artist/6hzT9e66x0sNZT1jiUob7d) | [Zoo La La](https://open.spotify.com/album/2Oz0XaCkyqDTFCd1GEbwqI) | 7:34 | 2019-09-20 | 2020-03-04 |
+| [Zurna](https://open.spotify.com/track/5Kl2LAN9eM6FQBodDXZeTC) | [Badbox](https://open.spotify.com/artist/1rfV7OLiCDOYcAacFcJ6Kf) | [Zurna](https://open.spotify.com/album/5RzdvVQ7EY5WJW6SdXILld) | 7:11 | 2024-04-26 |  |
 | [Ànima](https://open.spotify.com/track/1FaxSOVfMZNsVRiJsfq9B0) | [Akkan](https://open.spotify.com/artist/2CA2ypghZh6RCxJdPOQ4Ze), [Huaira](https://open.spotify.com/artist/1oXdrffaOVmxTsY90wSmbF) | [Ànima](https://open.spotify.com/album/4f8hRXFyaWO313jVcWmfJA) | 5:47 | 2020-09-10 | 2022-07-28 |
 | [Água \- Diogo Strausz & JKriv Remix Single Edit](https://open.spotify.com/track/5IP4AvvjLbgNNqQc7957Ol) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Antonio Carlos & Jocafi](https://open.spotify.com/artist/6we2u0wHu4S9H6A1LVZ6LA), [JKriv](https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K), [Diogo Strausz](https://open.spotify.com/artist/58HWl0aH0VFAKnxfiZdVzO) | [Água \(Diogo Strausz & JKriv Remix Single Edit\)](https://open.spotify.com/album/15SCFJINrG7KeN9MnYQdq1) | 4:57 | 2021-05-14 | 2022-04-29 |
 

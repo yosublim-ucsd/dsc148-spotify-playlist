@@ -1713,6 +1713,36 @@
     },
     {
       "album": {
+        "name": "Heart Sped Up (BFF)",
+        "url": "https://open.spotify.com/album/2e1ZjtU3Dikrdpx21IzXSz"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        },
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "bambi",
+          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
+        },
+        {
+          "name": "Young Leosia",
+          "url": "https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116108,
+      "name": "Heart Sped Up (BFF)",
+      "url": "https://open.spotify.com/track/1ywCn7d9mHQ8PROIIZdVGL"
+    },
+    {
+      "album": {
         "name": "Herz an Herz",
         "url": "https://open.spotify.com/album/2ErXScnw552ExYN83eloZw"
       },
@@ -4416,7 +4446,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 176693,
       "name": "Weak - Nicolas Julian Remix",
       "url": "https://open.spotify.com/track/6pN9NiJ816dbL3OKeAke0w"

@@ -1,6 +1,6 @@
 {
   "description": "Welcome to the universe of complex rhythms and mesmerizing loops. Cover: LITE",
-  "num_followers": 176053,
+  "num_followers": 176135,
   "original_name": "Math Rock",
   "owner": {
     "name": "Spotify",
@@ -11,18 +11,18 @@
     {
       "added_at": "2024-05-30 15:24:15",
       "album": {
-        "name": "For the first time",
-        "url": "https://open.spotify.com/album/2PfgptDcfJTFtoZIS3AukX"
+        "name": "Spring Island",
+        "url": "https://open.spotify.com/album/4JeLdGuCEO9SF9SnFa9LBh"
       },
       "artists": [
         {
-          "name": "Black Country, New Road",
-          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+          "name": "Delta Sleep",
+          "url": "https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk"
         }
       ],
-      "duration_ms": 382600,
-      "name": "Athens, France",
-      "url": "https://open.spotify.com/track/4gb6bKMg61GGfbhPTifP8A"
+      "duration_ms": 269173,
+      "name": "The Detail",
+      "url": "https://open.spotify.com/track/1ExXxnndA4qMDA0SK8KnLM"
     },
     {
       "added_at": "2024-05-30 15:24:15",
@@ -43,6 +43,22 @@
     {
       "added_at": "2024-05-30 15:24:15",
       "album": {
+        "name": "For the first time",
+        "url": "https://open.spotify.com/album/2PfgptDcfJTFtoZIS3AukX"
+      },
+      "artists": [
+        {
+          "name": "Black Country, New Road",
+          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+        }
+      ],
+      "duration_ms": 382600,
+      "name": "Athens, France",
+      "url": "https://open.spotify.com/track/4gb6bKMg61GGfbhPTifP8A"
+    },
+    {
+      "added_at": "2024-05-30 15:24:15",
+      "album": {
         "name": "Newborn Sun",
         "url": "https://open.spotify.com/album/6gDHF6BrncxR8UlIuvfUpT"
       },
@@ -55,6 +71,22 @@
       "duration_ms": 172437,
       "name": "Bubble Dream",
       "url": "https://open.spotify.com/track/0mnyjCNu9XUi5dv0JD3UqM"
+    },
+    {
+      "added_at": "2024-05-30 15:24:15",
+      "album": {
+        "name": "STRATA (Preview)",
+        "url": "https://open.spotify.com/album/6qppQkSHafK4PIhHEiwetT"
+      },
+      "artists": [
+        {
+          "name": "LITE",
+          "url": "https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9"
+        }
+      ],
+      "duration_ms": 249045,
+      "name": "Deep Inside",
+      "url": "https://open.spotify.com/track/1jDOObnZ18kkIqZAFIv1j1"
     },
     {
       "added_at": "2024-05-30 15:24:15",
@@ -79,38 +111,6 @@
     {
       "added_at": "2024-05-30 15:24:15",
       "album": {
-        "name": "STRATA (Preview)",
-        "url": "https://open.spotify.com/album/6qppQkSHafK4PIhHEiwetT"
-      },
-      "artists": [
-        {
-          "name": "LITE",
-          "url": "https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9"
-        }
-      ],
-      "duration_ms": 249045,
-      "name": "Deep Inside",
-      "url": "https://open.spotify.com/track/1jDOObnZ18kkIqZAFIv1j1"
-    },
-    {
-      "added_at": "2024-05-30 15:24:15",
-      "album": {
-        "name": "Here comes a new challenger!",
-        "url": "https://open.spotify.com/album/5WoJ4WK2WeN4uFB4Sz4NR7"
-      },
-      "artists": [
-        {
-          "name": "Chinese Football",
-          "url": "https://open.spotify.com/artist/65qWysYTXcTL8nqZzg84Hk"
-        }
-      ],
-      "duration_ms": 310432,
-      "name": "Electronic Girl",
-      "url": "https://open.spotify.com/track/3jLdAQ7guhHOppAj02RJmW"
-    },
-    {
-      "added_at": "2024-05-30 15:24:15",
-      "album": {
         "name": "the book about my idle plot on a vague anxiety",
         "url": "https://open.spotify.com/album/1KA09QKRS9dbzAzArPIICS"
       },
@@ -127,18 +127,18 @@
     {
       "added_at": "2024-05-30 15:24:15",
       "album": {
-        "name": "Young Mountain",
-        "url": "https://open.spotify.com/album/4In2V4QylBdWT8HJ0dLDw5"
+        "name": "Here comes a new challenger!",
+        "url": "https://open.spotify.com/album/5WoJ4WK2WeN4uFB4Sz4NR7"
       },
       "artists": [
         {
-          "name": "This Will Destroy You",
-          "url": "https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk"
+          "name": "Chinese Football",
+          "url": "https://open.spotify.com/artist/65qWysYTXcTL8nqZzg84Hk"
         }
       ],
-      "duration_ms": 293173,
-      "name": "Quiet",
-      "url": "https://open.spotify.com/track/4llDF3RuBQYj2nkjTCJY4w"
+      "duration_ms": 310432,
+      "name": "Electronic Girl",
+      "url": "https://open.spotify.com/track/3jLdAQ7guhHOppAj02RJmW"
     },
     {
       "added_at": "2024-05-30 15:24:15",
@@ -163,18 +163,18 @@
     {
       "added_at": "2024-05-30 15:24:15",
       "album": {
-        "name": "Spring Island",
-        "url": "https://open.spotify.com/album/4JeLdGuCEO9SF9SnFa9LBh"
+        "name": "Young Mountain",
+        "url": "https://open.spotify.com/album/4In2V4QylBdWT8HJ0dLDw5"
       },
       "artists": [
         {
-          "name": "Delta Sleep",
-          "url": "https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk"
+          "name": "This Will Destroy You",
+          "url": "https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk"
         }
       ],
-      "duration_ms": 269173,
-      "name": "The Detail",
-      "url": "https://open.spotify.com/track/1ExXxnndA4qMDA0SK8KnLM"
+      "duration_ms": 293173,
+      "name": "Quiet",
+      "url": "https://open.spotify.com/track/4llDF3RuBQYj2nkjTCJY4w"
     },
     {
       "added_at": "2024-05-30 15:24:15",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-05-30 15:24:15",
       "album": {
+        "name": "World Class Listening Problem",
+        "url": "https://open.spotify.com/album/6NQ2rof0OEKvQklJ4GO1Xk"
+      },
+      "artists": [
+        {
+          "name": "Don Caballero",
+          "url": "https://open.spotify.com/artist/30h1cDhDvSG9RZlfBHmt9C"
+        }
+      ],
+      "duration_ms": 316213,
+      "name": "Railroad Cancellation",
+      "url": "https://open.spotify.com/track/4wXUhfW8mXFbvga8KVcozJ"
+    },
+    {
+      "added_at": "2024-05-30 15:24:15",
+      "album": {
         "name": "split",
         "url": "https://open.spotify.com/album/27Omp1v6xsiOdN6nKi20jN"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 232986,
       "name": "When the Catholic Girls Go Camping, the Nicotine Vampires Rule Supreme.",
       "url": "https://open.spotify.com/track/6svSukdIhpKDFaFJNrblJ4"
-    },
-    {
-      "added_at": "2024-05-30 15:24:15",
-      "album": {
-        "name": "World Class Listening Problem",
-        "url": "https://open.spotify.com/album/6NQ2rof0OEKvQklJ4GO1Xk"
-      },
-      "artists": [
-        {
-          "name": "Don Caballero",
-          "url": "https://open.spotify.com/artist/30h1cDhDvSG9RZlfBHmt9C"
-        }
-      ],
-      "duration_ms": 316213,
-      "name": "Railroad Cancellation",
-      "url": "https://open.spotify.com/track/4wXUhfW8mXFbvga8KVcozJ"
     },
     {
       "added_at": "2024-05-30 15:24:15",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-05-30 15:24:15",
       "album": {
+        "name": "D'arcy",
+        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
+      },
+      "artists": [
+        {
+          "name": "No Somos Marineros",
+          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
+        }
+      ],
+      "duration_ms": 173106,
+      "name": "Los Bajos Fondos",
+      "url": "https://open.spotify.com/track/4LX270g9HEBkA0qYtGAel8"
+    },
+    {
+      "added_at": "2024-05-30 15:24:15",
+      "album": {
         "name": "Get In Losers, We\u2019re Going to Eternal Damnation",
         "url": "https://open.spotify.com/album/4c2Nq7XkRFNISEOZ9uYrbc"
       },
@@ -811,22 +827,6 @@
     {
       "added_at": "2024-05-30 15:24:15",
       "album": {
-        "name": "D'arcy",
-        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
-      },
-      "artists": [
-        {
-          "name": "No Somos Marineros",
-          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
-        }
-      ],
-      "duration_ms": 173106,
-      "name": "Los Bajos Fondos",
-      "url": "https://open.spotify.com/track/4LX270g9HEBkA0qYtGAel8"
-    },
-    {
-      "added_at": "2024-05-30 15:24:15",
-      "album": {
         "name": "Yum !!",
         "url": "https://open.spotify.com/album/2tvYqqcIyY6fz3knjQ2fJx"
       },
@@ -891,6 +891,22 @@
     {
       "added_at": "2024-05-30 15:24:15",
       "album": {
+        "name": "D'arcy",
+        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
+      },
+      "artists": [
+        {
+          "name": "No Somos Marineros",
+          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
+        }
+      ],
+      "duration_ms": 395146,
+      "name": "D'arcy",
+      "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
+    },
+    {
+      "added_at": "2024-05-30 15:24:15",
+      "album": {
         "name": "Naufragio",
         "url": "https://open.spotify.com/album/6RneXac3NVeZFsjPfd9I9Z"
       },
@@ -923,22 +939,6 @@
     {
       "added_at": "2024-05-30 15:24:15",
       "album": {
-        "name": "Muted Earth",
-        "url": "https://open.spotify.com/album/6jw9yrfHNn1Yigjnlunk0L"
-      },
-      "artists": [
-        {
-          "name": "Via Luna",
-          "url": "https://open.spotify.com/artist/3qu0nHytyZet7JFUe2Afow"
-        }
-      ],
-      "duration_ms": 251600,
-      "name": "Infinite Spice",
-      "url": "https://open.spotify.com/track/40hF24KMxg9LpglA9We3As"
-    },
-    {
-      "added_at": "2024-05-30 15:24:15",
-      "album": {
         "name": "Sorrow EP",
         "url": "https://open.spotify.com/album/1O55VrSOG9wwOHgD4F7XRY"
       },
@@ -951,6 +951,22 @@
       "duration_ms": 138891,
       "name": "Mimi Ashi",
       "url": "https://open.spotify.com/track/1gFr9j7lS0HIgRiJUQWTMm"
+    },
+    {
+      "added_at": "2024-05-30 15:24:15",
+      "album": {
+        "name": "Muted Earth",
+        "url": "https://open.spotify.com/album/6jw9yrfHNn1Yigjnlunk0L"
+      },
+      "artists": [
+        {
+          "name": "Via Luna",
+          "url": "https://open.spotify.com/artist/3qu0nHytyZet7JFUe2Afow"
+        }
+      ],
+      "duration_ms": 251600,
+      "name": "Infinite Spice",
+      "url": "https://open.spotify.com/track/40hF24KMxg9LpglA9We3As"
     },
     {
       "added_at": "2024-05-30 15:24:15",
@@ -971,22 +987,6 @@
     {
       "added_at": "2024-05-30 15:24:15",
       "album": {
-        "name": "D'arcy",
-        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
-      },
-      "artists": [
-        {
-          "name": "No Somos Marineros",
-          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
-        }
-      ],
-      "duration_ms": 395146,
-      "name": "D'arcy",
-      "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
-    },
-    {
-      "added_at": "2024-05-30 15:24:15",
-      "album": {
         "name": "Valerio Benustelli",
         "url": "https://open.spotify.com/album/3ycc6AzUEeovj9wuiVNhGc"
       },
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-05-30 15:24:15",
       "album": {
-        "name": "Ni Hablar",
-        "url": "https://open.spotify.com/album/25VaZh2ORGoNWwdNSn5H1s"
-      },
-      "artists": [
-        {
-          "name": "LE\u00d1A",
-          "url": "https://open.spotify.com/artist/3A3FoilKOXzYIkHm948iBS"
-        }
-      ],
-      "duration_ms": 221686,
-      "name": "GRVD",
-      "url": "https://open.spotify.com/track/7dKs6gN3niTRTFkoJWc3JJ"
-    },
-    {
-      "added_at": "2024-05-30 15:24:15",
-      "album": {
         "name": "Floaty Boaty",
         "url": "https://open.spotify.com/album/5R0x6BSokx2A1Y6xgPzQqF"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 256532,
       "name": "Floaty Boaty",
       "url": "https://open.spotify.com/track/07b3OjJPJmxfCsmCwemABr"
+    },
+    {
+      "added_at": "2024-05-30 15:24:15",
+      "album": {
+        "name": "Ni Hablar",
+        "url": "https://open.spotify.com/album/25VaZh2ORGoNWwdNSn5H1s"
+      },
+      "artists": [
+        {
+          "name": "LE\u00d1A",
+          "url": "https://open.spotify.com/artist/3A3FoilKOXzYIkHm948iBS"
+        }
+      ],
+      "duration_ms": 221686,
+      "name": "GRVD",
+      "url": "https://open.spotify.com/track/7dKs6gN3niTRTFkoJWc3JJ"
     },
     {
       "added_at": "2024-05-30 15:24:15",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2024-05-30 15:24:15",
       "album": {
+        "name": "Propulsor",
+        "url": "https://open.spotify.com/album/5vuM8yklTf8nA3wU9q85hI"
+      },
+      "artists": [
+        {
+          "name": "Helices",
+          "url": "https://open.spotify.com/artist/1eyGv5vUAQZ85vT3rR4t28"
+        }
+      ],
+      "duration_ms": 381360,
+      "name": "Una Historia para Acabar Con Todas las Historias",
+      "url": "https://open.spotify.com/track/4Hz9fhs2GgLBMIkyjDf4ND"
+    },
+    {
+      "added_at": "2024-05-30 15:24:15",
+      "album": {
         "name": "P\u00e1ramo",
         "url": "https://open.spotify.com/album/6dvTFKqd5icLCXWLL1NlNz"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 262666,
       "name": "El Capit\u00e1n",
       "url": "https://open.spotify.com/track/2qocldaWoDwzSPR4D1Dqpv"
-    },
-    {
-      "added_at": "2024-05-30 15:24:15",
-      "album": {
-        "name": "Propulsor",
-        "url": "https://open.spotify.com/album/5vuM8yklTf8nA3wU9q85hI"
-      },
-      "artists": [
-        {
-          "name": "Helices",
-          "url": "https://open.spotify.com/artist/1eyGv5vUAQZ85vT3rR4t28"
-        }
-      ],
-      "duration_ms": 381360,
-      "name": "Una Historia para Acabar Con Todas las Historias",
-      "url": "https://open.spotify.com/track/4Hz9fhs2GgLBMIkyjDf4ND"
     },
     {
       "added_at": "2024-05-30 15:24:15",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-05-30 15:24:15",
       "album": {
-        "name": "Magyarorsz\u00e1g vagy hal\u00e1l",
-        "url": "https://open.spotify.com/album/5HdscyNkq8Wqeb4ksu775M"
-      },
-      "artists": [
-        {
-          "name": "Hungr\u00eda",
-          "url": "https://open.spotify.com/artist/0OrifgXKiu7rDYQbFW0Dpx"
-        }
-      ],
-      "duration_ms": 337006,
-      "name": "Queso",
-      "url": "https://open.spotify.com/track/7v0tdOisj4IEYUjM8KBCBz"
-    },
-    {
-      "added_at": "2024-05-30 15:24:15",
-      "album": {
         "name": "003: Haiyah!",
         "url": "https://open.spotify.com/album/1FKjY7xOj7quTktAnX2hUE"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 234451,
       "name": "003: Haiyah!",
       "url": "https://open.spotify.com/track/0c0bDlQjSzaEZEOb3TJdm3"
+    },
+    {
+      "added_at": "2024-05-30 15:24:15",
+      "album": {
+        "name": "Magyarorsz\u00e1g vagy hal\u00e1l",
+        "url": "https://open.spotify.com/album/5HdscyNkq8Wqeb4ksu775M"
+      },
+      "artists": [
+        {
+          "name": "Hungr\u00eda",
+          "url": "https://open.spotify.com/artist/0OrifgXKiu7rDYQbFW0Dpx"
+        }
+      ],
+      "duration_ms": 337006,
+      "name": "Queso",
+      "url": "https://open.spotify.com/track/7v0tdOisj4IEYUjM8KBCBz"
     },
     {
       "added_at": "2024-05-30 15:24:15",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-05-30 15:24:15",
       "album": {
-        "name": "Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/6mUGFYdjj6WKPfLOPdXbzw"
-      },
-      "artists": [
-        {
-          "name": "FRDZ",
-          "url": "https://open.spotify.com/artist/3jNpad0kg45sRNra2vNp3t"
-        }
-      ],
-      "duration_ms": 141306,
-      "name": "Ausente",
-      "url": "https://open.spotify.com/track/5mZbQmUlpLaq5ZFSsGcVE6"
-    },
-    {
-      "added_at": "2024-05-30 15:24:15",
-      "album": {
         "name": "Ten Billion People",
         "url": "https://open.spotify.com/album/6KkbUhO6mLJSldvbSSK5h8"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 389333,
       "name": "Ten Billion People",
       "url": "https://open.spotify.com/track/04B0actK1X1Y4Buy2vXARb"
+    },
+    {
+      "added_at": "2024-05-30 15:24:15",
+      "album": {
+        "name": "Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/6mUGFYdjj6WKPfLOPdXbzw"
+      },
+      "artists": [
+        {
+          "name": "FRDZ",
+          "url": "https://open.spotify.com/artist/3jNpad0kg45sRNra2vNp3t"
+        }
+      ],
+      "duration_ms": 141306,
+      "name": "Ausente",
+      "url": "https://open.spotify.com/track/5mZbQmUlpLaq5ZFSsGcVE6"
     },
     {
       "added_at": "2024-05-30 15:24:15",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-05-30 15:24:15",
       "album": {
-        "name": "Fontana Bella",
-        "url": "https://open.spotify.com/album/2g1ryrsisD6xbYSV89N2Oc"
-      },
-      "artists": [
-        {
-          "name": "Austin TV",
-          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
-        }
-      ],
-      "duration_ms": 284413,
-      "name": "Voces iluminadas por sonrientes",
-      "url": "https://open.spotify.com/track/1O1fDYgOOTKbMV1eeRCPk8"
-    },
-    {
-      "added_at": "2024-05-30 15:24:15",
-      "album": {
         "name": "The Occident",
         "url": "https://open.spotify.com/album/5ZVY96PXe98i1LfYLFGvzP"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 187026,
       "name": "Bonus Trigger",
       "url": "https://open.spotify.com/track/5XaNG4xBlu7aWomscrTugX"
+    },
+    {
+      "added_at": "2024-05-30 15:24:15",
+      "album": {
+        "name": "Fontana Bella",
+        "url": "https://open.spotify.com/album/2g1ryrsisD6xbYSV89N2Oc"
+      },
+      "artists": [
+        {
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+        }
+      ],
+      "duration_ms": 284413,
+      "name": "Voces iluminadas por sonrientes",
+      "url": "https://open.spotify.com/track/1O1fDYgOOTKbMV1eeRCPk8"
     },
     {
       "added_at": "2024-05-30 15:24:15",

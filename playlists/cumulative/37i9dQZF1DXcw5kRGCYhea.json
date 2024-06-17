@@ -580,7 +580,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 155280,
       "name": "Hyati",
       "url": "https://open.spotify.com/track/1bsoYydWFNmocIOD2eeWI5"
@@ -1492,6 +1492,24 @@
       "duration_ms": 217773,
       "name": "Ti\u00e9 fou",
       "url": "https://open.spotify.com/track/2pSmuV6Vt0KkJLoEfB2DxW"
+    },
+    {
+      "album": {
+        "name": "Tout g\u00e2ch\u00e9",
+        "url": "https://open.spotify.com/album/2Rev1BAh4FMZNxcQbsdlj7"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "date_added": "2024-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150029,
+      "name": "Tout g\u00e2ch\u00e9",
+      "url": "https://open.spotify.com/track/2U8Rdlgi2r3KDp7Bc4e33s"
     },
     {
       "album": {

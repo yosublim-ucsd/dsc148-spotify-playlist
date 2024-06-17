@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,161 songs - 1 day 20 hr 7 min
+1,163 songs - 1 day 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -576,7 +576,7 @@
 | [little horse](https://open.spotify.com/track/6pJI9B6N9cYUZ1fBTpeECg) | [iomoo](https://open.spotify.com/artist/1nCanHmL8zMpzm84QvyHuo), [summermind](https://open.spotify.com/artist/6BLywjzUXJfNUsykJ8FNOX) | [little horse](https://open.spotify.com/album/1cYpuX9gDuzfLlxfBDmkq5) | 2:24 | 2022-12-09 | 2023-04-28 |
 | [lizardking](https://open.spotify.com/track/4QLN5N3Gdq7MYgWQsw2Vk3) | [frek!](https://open.spotify.com/artist/00vQreQBu9wC4dQCmHWJin) | [strawberry fields](https://open.spotify.com/album/5k4KTIwWAmGaGLgDyAkLnW) | 1:54 | 2021-11-10 | 2022-10-15 |
 | [Lo\-Fi Script](https://open.spotify.com/track/3lgZiAGYdOZt7oY4kF6Zhh) | [Blue Motyl](https://open.spotify.com/artist/0xOHCFbX8RDbK6CHogBjfS) | [Joy Fever](https://open.spotify.com/album/34GqgZ2dZ2ewfyK1kIiNpA) | 2:02 | 2021-11-10 | 2022-09-23 |
-| [lo: expectations](https://open.spotify.com/track/5d7ciFNQxpSxePqrzlICTM) | [sentiment:lo](https://open.spotify.com/artist/1l0WI0auKXfzkkkk3QQT5g), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [lo: expectations](https://open.spotify.com/album/45WF3XO90C2lbvIfp78ypD) | 2:16 | 2023-03-16 |  |
+| [lo: expectations](https://open.spotify.com/track/5d7ciFNQxpSxePqrzlICTM) | [sentiment:lo](https://open.spotify.com/artist/1l0WI0auKXfzkkkk3QQT5g), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [lo: expectations](https://open.spotify.com/album/45WF3XO90C2lbvIfp78ypD) | 2:16 | 2023-03-16 | 2024-06-17 |
 | [Lofty](https://open.spotify.com/track/4vlrbIwJjTKhlZqJ94LpJQ) | [alt.bin.beats](https://open.spotify.com/artist/19RtbWE9QLz3K4YW19qdos) | [Lofty](https://open.spotify.com/album/1zcKsdgFhJyRk27iKPGu6k) | 2:11 | 2023-05-19 |  |
 | [Lonely Nights](https://open.spotify.com/track/6v5hJdP5vPVVOHkyca2183) | [Cobes Corner](https://open.spotify.com/artist/28mxXShDdThghI0aylMctp) | [Lonely Nights](https://open.spotify.com/album/5cLFlBf1s9XKwWhZV9xTkL) | 2:07 | 2022-12-09 | 2023-08-04 |
 | [Lonesome](https://open.spotify.com/track/4lV7chcdj3OH3Hg97L7Rli) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Lonesome](https://open.spotify.com/album/5iO1n0DfhbvzySEYCGZqyn) | 2:35 | 2021-11-10 | 2022-07-08 |
@@ -704,7 +704,7 @@
 | [Nesting](https://open.spotify.com/track/1rAr1l1UYqxSjiGLKxQRkV) | [Snake Ritual](https://open.spotify.com/artist/30SIuvvR5UVKlMgTPiyndf) | [Nesting](https://open.spotify.com/album/1sliK69gORXTCCHRhVsQQ9) | 3:00 | 2022-12-09 | 2024-05-14 |
 | [Never Forgotten](https://open.spotify.com/track/74BxYDojYHtw9GOeTsik8f) | [Dream Phobia](https://open.spotify.com/artist/5PYBO1ouuWJGeyAJyimodq) | [Never Forgotten](https://open.spotify.com/album/7zgBhhx6aV03m41a2veUUX) | 3:05 | 2023-12-22 |  |
 | [New Adventures](https://open.spotify.com/track/7yBTDVkyI3ZUNFgLCw1y7b) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [New Adventures](https://open.spotify.com/album/4v75HfqwkIB2e5Hz3S6W7K) | 2:01 | 2023-10-06 |  |
-| [new chimes](https://open.spotify.com/track/3HbMWLdJrCNjXaVWIcXijo) | [Boshi](https://open.spotify.com/artist/7FwQ4GIIxJqMCHK6H6Hj9I) | [new chimes](https://open.spotify.com/album/5vlYGwXhpAqd4ylljVY1U6) | 2:43 | 2022-10-28 |  |
+| [new chimes](https://open.spotify.com/track/3HbMWLdJrCNjXaVWIcXijo) | [Boshi](https://open.spotify.com/artist/7FwQ4GIIxJqMCHK6H6Hj9I) | [new chimes](https://open.spotify.com/album/5vlYGwXhpAqd4ylljVY1U6) | 2:43 | 2022-10-28 | 2024-06-17 |
 | [New Hope](https://open.spotify.com/track/0K1f1EUIFTSrxn07fsbiWH) | [paris91](https://open.spotify.com/artist/0IF1xUEFhGXZ7zz8BW1zqv), [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [New Hope](https://open.spotify.com/album/6vnOs7e9fVIrqFoIbMSblB) | 1:30 | 2023-07-13 |  |
 | [New Start](https://open.spotify.com/track/63EvcDNHX5y1RKG27xA8MU) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [New Start](https://open.spotify.com/album/2PvliQgtmpDKaYA0Vk5LeS) | 2:15 | 2023-04-20 | 2023-10-13 |
 | [new umbrella](https://open.spotify.com/track/2P0WFMWtobbWsSyqTCnFUj) | [C\-90](https://open.spotify.com/artist/23TW2SFcDS3yUZOPwMmzIq) | [new umbrella](https://open.spotify.com/album/32IJq0kE30S5VhKtHqyjMP) | 2:15 | 2023-03-24 |  |
@@ -1032,6 +1032,7 @@
 | [The Story](https://open.spotify.com/track/64sbKboQ2UAvVXhQ3lrdq7) | [Strewing](https://open.spotify.com/artist/3xrmsAjmghKq63pzvotPNJ), [L O F I L U V](https://open.spotify.com/artist/4yhcsS8fEAHnMszuWUU37O) | [The Story](https://open.spotify.com/album/09804Khi8BfOlrNXoqQxsD) | 1:53 | 2022-12-09 |  |
 | [the village](https://open.spotify.com/track/3sHl6w5wL2D2XxQdAWiz5i) | [really big mountains](https://open.spotify.com/artist/4yJevCr3DRO4fW0NG2rjt4) | [sonder](https://open.spotify.com/album/0OESQqApCnyYPj49o5S0jY) | 2:03 | 2021-11-10 | 2022-04-08 |
 | [Theme 4](https://open.spotify.com/track/2Llr4t1DGeszidGhWsOMto) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y), [Peter Thomas Sound Orchester](https://open.spotify.com/artist/2guRkkGBMKiboUZJr0NhZF), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Theme 4](https://open.spotify.com/album/4wOlFumY13kWF3liXZfUat) | 1:57 | 2023-04-20 | 2024-05-14 |
+| [Theoretical](https://open.spotify.com/track/0PZZO3Ja2oqiKS6DkSDn5r) | [Sleepy Panda](https://open.spotify.com/artist/0jh6qoHguqq77wVg1XE3JA) | [Theoretical](https://open.spotify.com/album/6MAY4jpcIayBvRUd7dhfIp) | 2:33 | 2024-06-05 |  |
 | [Theres A Light](https://open.spotify.com/track/4hA14T1yvVbmeDLXzxJzB1) | [milow](https://open.spotify.com/artist/5Fhirk5jON5pzTHB3BJaAo) | [Growing Mind](https://open.spotify.com/album/6fnjiqOUwvnK4YmsRl4dxe) | 1:51 | 2023-07-13 |  |
 | [This Heartbeat](https://open.spotify.com/track/1whP2B0zOAoboIhN2BZtiU) | [Oliver Arnegie](https://open.spotify.com/artist/4EYXiVEDHrBofH6O2WUIQf) | [This Heartbeat](https://open.spotify.com/album/7M2QuLb0I1yhEHDyeOZYIS) | 1:50 | 2022-09-02 | 2024-05-17 |
 | [This Wave](https://open.spotify.com/track/3v5clD1XubNmt9cS21fEsV) | [heroku](https://open.spotify.com/artist/376UjXiYKUUjXatPRQoWSC) | [Too Close](https://open.spotify.com/album/6cSJgnK1IAxMk2tS0c5ouz) | 1:24 | 2023-02-17 |  |
@@ -1111,6 +1112,7 @@
 | [Voices In My Head](https://open.spotify.com/track/5qcuzoVn3eqQiDPIcSqo6g) | [Maci](https://open.spotify.com/artist/77F1LaKJCaKmlPJY6ANEHy) | [Voices In My Head](https://open.spotify.com/album/6j2sv5DzZKnZxOgIZgalrY) | 2:20 | 2021-11-10 |  |
 | [Vortex.](https://open.spotify.com/track/3l7UqpS6fuxwkzAyhQPRro) | [Sakloma24](https://open.spotify.com/artist/6PkzYxQ7Bae6IJyyhkPhmf) | [Vortex.](https://open.spotify.com/album/3Pk7tN2fVNO9w4GtxqwqZC) | 1:41 | 2022-09-02 | 2024-06-06 |
 | [Waiting For You](https://open.spotify.com/track/58uuxvsGr3cpFxJrwHAVfQ) | [Sandy Mental](https://open.spotify.com/artist/1TIM4mSeLlFajoWxR0GDK3) | [Waiting For You](https://open.spotify.com/album/2KpDhAglVEswhtYXXLupts) | 2:10 | 2022-06-03 | 2022-07-29 |
+| [Wakame Park](https://open.spotify.com/track/3BoaLeGJGi4z0YCkghRrwQ) | [Fritz Pants](https://open.spotify.com/artist/6gGcdv1surWW1Mh32Q3GF1) | [Wakame Park](https://open.spotify.com/album/4y67IfbREBFe9YGDg8F81y) | 2:18 | 2024-06-05 |  |
 | [wake up dream](https://open.spotify.com/track/6KJECUHc9yQfowRBFSLNhA) | [Qushy](https://open.spotify.com/artist/156wti6EEtzclFPBm50lUH) | [wake up dream](https://open.spotify.com/album/2MOuiisV4x9nRhWwOs1F2A) | 2:15 | 2022-06-24 | 2022-10-01 |
 | [Walchensee](https://open.spotify.com/track/3MoTz259DAhWf822rjW0Qb) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [Walchensee](https://open.spotify.com/album/1ZAERRi2Ej8VxlFzypJMcL) | 1:59 | 2023-04-20 |  |
 | [Walking In The Rain](https://open.spotify.com/track/2rQ6jDIoT94aUR8p8RrC20) | [Nadja Salkova](https://open.spotify.com/artist/7tmmBlFgiMjRHlv1GY1l18) | [Walking In The Rain](https://open.spotify.com/album/6aoHysv4kqrMuVixhuONsk) | 2:03 | 2021-11-10 | 2022-06-10 |

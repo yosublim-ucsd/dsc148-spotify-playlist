@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-541 songs - 1 day 2 hr 18 min
+542 songs - 1 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -449,7 +449,8 @@
 | [Sou Eu](https://open.spotify.com/track/7BLf2w4tV2dBlE8QQ5Zjut) | [Edson & Hudson](https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl) | [Amor + Boteco](https://open.spotify.com/album/3dtipPMN5XhtCo9rfRGlLJ) | 4:12 | 2023-12-30 |  |
 | [Sou Fraco Demais](https://open.spotify.com/track/72PznJQ7E48iIL6g5tDqnR) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Naiara Sunrise, Ep3](https://open.spotify.com/album/473826n2BTdzaVKChaFvwM) | 2:57 | 2023-12-30 |  |
 | [Suor Da Sua Boca \- Ao Vivo](https://open.spotify.com/track/6sIEV0ZQF6XWIYlozmM5n4) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Livre \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/5XzBQMo9WMrpRlgoBaeTIf) | 3:04 | 2023-12-30 |  |
-| [Surra de Cama](https://open.spotify.com/track/7eFezDGsbmX3bawb3rmtAr) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Surra de Cama](https://open.spotify.com/album/7AYYczZNBEyORW1pvWr7kf) | 2:58 | 2023-12-30 |  |
+| [Surra de Cama](https://open.spotify.com/track/7eFezDGsbmX3bawb3rmtAr) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Surra de Cama](https://open.spotify.com/album/7AYYczZNBEyORW1pvWr7kf) | 2:58 | 2023-12-30 | 2024-06-17 |
+| [Surra de Cama](https://open.spotify.com/track/7nYSONEPdNmonFeAUjCbPT) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [As Melhores de São João 2024 \(Ao Vivo\)](https://open.spotify.com/album/10QHGWfwDCpEqEpyGYh2rk) | 2:58 | 2024-06-16 |  |
 | [Surra De Flores \- Ao Vivo](https://open.spotify.com/track/54VKo72xTqGPATsVIMJNSP) | [Leo Chaves](https://open.spotify.com/artist/0FYpZOHSyfPpCSsLwydVbL), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Retorno \(Ao Vivo\)](https://open.spotify.com/album/0nuU23HeR7hFATG34c1mH4) | 2:50 | 2023-12-30 |  |
 | [Surra de Sacanagem \- Ao Vivo](https://open.spotify.com/track/2Yg03QUHxNTG6v00n63jrU) | [Paulo Rick](https://open.spotify.com/artist/3Zeq2k9wPrBMwRgLWLfNpm) | [Surra de Sacanagem \(Ao Vivo\)](https://open.spotify.com/album/5acJpTYfcEWsipNuPUlvRX) | 2:57 | 2023-12-30 |  |
 | [Só Experimentando pra Saber](https://open.spotify.com/track/3eX7ZkbcDRGmmCEHUkG4Ku) | [Sebá Junior](https://open.spotify.com/artist/0k5cyG9XYHtWKDN05J0Vw7) | [Só Experimentando pra Saber](https://open.spotify.com/album/2yqVk1JWENCYDyZK01uoW1) | 2:55 | 2023-12-30 |  |

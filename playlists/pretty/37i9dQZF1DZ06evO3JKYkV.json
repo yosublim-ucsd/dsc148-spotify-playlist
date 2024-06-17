@@ -1,12 +1,12 @@
 {
   "description": "This is Aphex Twin. The essential tracks, all in one playlist.",
-  "num_followers": 64351,
+  "num_followers": 64392,
   "original_name": "This Is Aphex Twin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmuIAAAAAABMQA3xdNSmB//kpTg1ZLiX",
+  "snapshot_id": "ZmzZgAAAAABbARiSiyuJRXxluy590K9/",
   "tracks": [
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 125106,
-      "name": "#17",
-      "url": "https://open.spotify.com/track/2ry9LQ8m7dRbRn6FN8uT5u"
+      "duration_ms": 440333,
+      "name": "#13",
+      "url": "https://open.spotify.com/track/3jRCZkYVcDniUrXjL71QwE"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 440333,
-      "name": "#13",
-      "url": "https://open.spotify.com/track/3jRCZkYVcDniUrXjL71QwE"
+      "duration_ms": 125106,
+      "name": "#17",
+      "url": "https://open.spotify.com/track/2ry9LQ8m7dRbRn6FN8uT5u"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Syro",
-        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 303920,
-      "name": "produk 29 [101]",
-      "url": "https://open.spotify.com/track/2oe8134WXw7Pw0ixstdOu8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Digeridoo (Expanded Edition)",
         "url": "https://open.spotify.com/album/58H1ArDcd3bUzOK0cn31lD"
       },
@@ -555,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blackbox Life Recorder 21f / in a room7 F760",
-        "url": "https://open.spotify.com/album/0yp0GVa92trHmWZuEZTuL2"
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
       },
       "artists": [
         {
@@ -564,9 +548,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 233755,
-      "name": "in a room7 F760",
-      "url": "https://open.spotify.com/track/3sFYzy26BTS3te7WV8QeLx"
+      "duration_ms": 303920,
+      "name": "produk 29 [101]",
+      "url": "https://open.spotify.com/track/2oe8134WXw7Pw0ixstdOu8"
     },
     {
       "added_at": null,
@@ -587,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blackbox Life Recorder 21f / in a room7 F760",
+        "url": "https://open.spotify.com/album/0yp0GVa92trHmWZuEZTuL2"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 233755,
+      "name": "in a room7 F760",
+      "url": "https://open.spotify.com/track/3sFYzy26BTS3te7WV8QeLx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blackbox Life Recorder 21f",
         "url": "https://open.spotify.com/album/3LIBbRYQgXY8ARKlSl6TJX"
       },
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Syro",
-        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 631240,
-      "name": "XMAS_EVET10 [120][thanaton3 mix]",
-      "url": "https://open.spotify.com/track/3QwQ9oyEWD1Ufx7WfiJ4bn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Digeridoo (Expanded Edition)",
         "url": "https://open.spotify.com/album/58H1ArDcd3bUzOK0cn31lD"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 383964,
       "name": "Isoprophlex - 2022 Remaster",
       "url": "https://open.spotify.com/track/1U3W1jTqreI3YL84sA1eCx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 631240,
+      "name": "XMAS_EVET10 [120][thanaton3 mix]",
+      "url": "https://open.spotify.com/track/3QwQ9oyEWD1Ufx7WfiJ4bn"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Syro",
-        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 58586,
-      "name": "fz pseudotimestretch+e+3 [138.85]",
-      "url": "https://open.spotify.com/track/1xUwLbfbNoulgxRHeOAI04"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "...I Care Because You Do",
         "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 231413,
       "name": "Mookid",
       "url": "https://open.spotify.com/track/75Ml44CCprAbusMbPZuHEr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 58586,
+      "name": "fz pseudotimestretch+e+3 [138.85]",
+      "url": "https://open.spotify.com/track/1xUwLbfbNoulgxRHeOAI04"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come To Daddy",
-        "url": "https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 345106,
-      "name": "Bucephalus Bouncing Ball [Chosen by Warp co-founder Steve Beckett]",
-      "url": "https://open.spotify.com/track/5rpHPGXMnJhEsUUh7ttCY7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "...I Care Because You Do",
         "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
       },
@@ -779,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Come To Daddy",
+        "url": "https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 345106,
+      "name": "Bucephalus Bouncing Ball [Chosen by Warp co-founder Steve Beckett]",
+      "url": "https://open.spotify.com/track/5rpHPGXMnJhEsUUh7ttCY7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Richard D. James Album",
         "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
       },
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Computer Controlled Acoustic Instruments pt2 EP",
-        "url": "https://open.spotify.com/album/4NmpBWikuFV6jbYMegdi01"
+        "name": "...I Care Because You Do",
+        "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 50343,
-      "name": "piano un1 arpej",
-      "url": "https://open.spotify.com/track/3s2ID3iHa7h3K8Fv1NnnLi"
+      "duration_ms": 289693,
+      "name": "The Waxen Pith",
+      "url": "https://open.spotify.com/track/2O47kvC3i2H5u1SBSFU60B"
     }
   ],
   "unique_name": "This Is Aphex Twin",

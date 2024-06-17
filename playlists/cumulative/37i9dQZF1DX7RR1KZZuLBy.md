@@ -4,7 +4,7 @@
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-276 songs - 1 day 1 hr 2 min
+277 songs - 1 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Hosanna](https://open.spotify.com/track/2HFkbiZm1jOFG4mBotFZ8X) | [Karabo](https://open.spotify.com/artist/4lVkctc6sd3UNFSUV5m13w) | [Hosanna](https://open.spotify.com/album/7AUWNeNCVeuK8zvK0yy6if) | 4:05 | 2021-11-18 | 2023-08-11 |
 | [Hosanna](https://open.spotify.com/track/7rvB5RRZFsbj4mjTNJfOG5) | [Karabo](https://open.spotify.com/artist/0mCZlZDqg0tTXWmcjzpI8c) | [Hosanna](https://open.spotify.com/album/2rC7XoJ937wxoDUjfh5Ev7) | 4:05 | 2023-02-21 | 2023-11-03 |
 | [I Am](https://open.spotify.com/track/3cCn4kCzhQst0vNHpSxDzt) | [Tanner Wareham](https://open.spotify.com/artist/0PjEfAc4kotv7fU7OiNj9L) | [I Am](https://open.spotify.com/album/3NOvXdoNlWfXipNrdWW3fE) | 4:48 | 2023-09-29 | 2023-11-10 |
+| [I Got You](https://open.spotify.com/track/0jbludNUb0EqbuTsnRpRmE) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [I Got You](https://open.spotify.com/album/70oL8RgGaLCkwEyMXBEmGu) | 3:04 | 2024-05-31 |  |
 | [I Love The Cross \- Radio Edit](https://open.spotify.com/track/6j8RopDLVla75gRzuam9So) | [Stefan Green](https://open.spotify.com/artist/1VlsN7ndYTrSCrqFcWzdNO) | [I Love The Cross \(Radio Edit\)](https://open.spotify.com/album/6bjN3En1KZDZXxOluuy8O6) | 3:47 | 2023-08-18 | 2023-11-03 |
 | [I Need Thee \(Live\)](https://open.spotify.com/track/0k72g6s6faEERwGTSENvB2) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Legendary in His Presence \(Live\)](https://open.spotify.com/album/2P7NaOnVBSjHgmrbAFUM4G) | 2:16 | 2023-09-29 | 2023-11-10 |
 | [I Need You Now](https://open.spotify.com/track/44q2DhInsQYJ8X1q2H1RNj) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [I Need You Now](https://open.spotify.com/album/5vjrbEc6Kpn67oHShGgBJF) | 4:11 | 2023-09-26 | 2024-06-01 |
@@ -283,6 +284,6 @@
 | [You're The Worthy One](https://open.spotify.com/track/66CzJlOG9NhQbwSX3ImhWp) | [HLE](https://open.spotify.com/artist/7bSO8mze1FilCh2kZimKLD) | [You're The Worthy One](https://open.spotify.com/album/41nAXYitdpFqk1LmbekoP1) | 4:48 | 2023-09-26 | 2023-11-03 |
 | [Zilungiselen'](https://open.spotify.com/track/3mmfdTiC29CbKmoOnsxvER) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [Rebecca Malope](https://open.spotify.com/artist/3AKDIFynpUHJKEZfiSJNw7) | [Zilungiselen'](https://open.spotify.com/album/1hHb9UMcL2lBjFqwBUkbOP) | 4:34 | 2021-11-18 | 2023-06-23 |
 | [Zonke](https://open.spotify.com/track/16WWnfjYPxZ8vPAFGZkeeQ) | [Shaik Omar](https://open.spotify.com/artist/6uyYHSi3xlCzb4222Ywd7p), [Dr Thulz](https://open.spotify.com/artist/7IYCnKAJvGLnnZvHuLbSf4) | [Zonke](https://open.spotify.com/album/33eNdn70pZjbv8CsRKomtm) | 4:13 | 2023-08-18 | 2023-11-03 |
-| [— \[DASH\]](https://open.spotify.com/track/18m4zA9001ngkgo3sau9aO) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [— \[DASH\]](https://open.spotify.com/album/5xdnf2Q7SRhqsSejRlvZaT) | 2:58 | 2024-05-31 |  |
+| [— \[DASH\]](https://open.spotify.com/track/18m4zA9001ngkgo3sau9aO) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [— \[DASH\]](https://open.spotify.com/album/5xdnf2Q7SRhqsSejRlvZaT) | 2:58 | 2024-05-31 | 2024-06-17 |
 
 \*This playlist was first scraped on 2022-10-01. Prior content cannot be recovered.

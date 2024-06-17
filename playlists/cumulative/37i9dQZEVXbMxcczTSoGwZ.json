@@ -1686,7 +1686,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 187857,
       "name": "Anarkiaa (feat. MELO)",
       "url": "https://open.spotify.com/track/34GbnrLuIiMJ9snwFZ310Q"
@@ -7323,6 +7323,28 @@
     },
     {
       "album": {
+        "name": "En sit\u00e4 tarkoittanut",
+        "url": "https://open.spotify.com/album/58lUia8zs4GrvsxDt6v3vO"
+      },
+      "artists": [
+        {
+          "name": "Edicti",
+          "url": "https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS"
+        },
+        {
+          "name": "F",
+          "url": "https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht"
+        }
+      ],
+      "date_added": "2024-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "En sit\u00e4 tarkoittanut",
+      "url": "https://open.spotify.com/track/00PdQeNpWlEzqrMN3eauPl"
+    },
+    {
+      "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
       },
@@ -7890,7 +7912,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-16",
+      "date_removed": null,
       "duration_ms": 160218,
       "name": "Europapa",
       "url": "https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR"
@@ -24984,7 +25006,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 205213,
       "name": "N\u00f6ss\u00f6\u00f6 el\u00e4m\u00e4\u00e4",
       "url": "https://open.spotify.com/track/2j2PrCc78t95Z1UiSMYJjB"
@@ -36884,7 +36906,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-16",
+      "date_removed": null,
       "duration_ms": 160350,
       "name": "Valheista kaunein",
       "url": "https://open.spotify.com/track/2W1fGOBi9irc3iLZb6D7Pp"
@@ -38024,7 +38046,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 212613,
       "name": "Viinii",
       "url": "https://open.spotify.com/track/3n3hf9PWHruPQp6HsnbvfR"

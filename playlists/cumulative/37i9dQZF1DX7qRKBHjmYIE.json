@@ -1456,7 +1456,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 207204,
       "name": "Blockbuster (90's R&B)",
       "url": "https://open.spotify.com/track/5wa8q4KYRxU5Ch8KhPIrJu"
@@ -2573,6 +2573,32 @@
     },
     {
       "album": {
+        "name": "Coraz\u00f3n Extra\u00f1o",
+        "url": "https://open.spotify.com/album/6ooGDTPhDaeQPIjE99BtY5"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        },
+        {
+          "name": "Juliana Gattas",
+          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
+        },
+        {
+          "name": "Diosque",
+          "url": "https://open.spotify.com/artist/3Ib6KIEhkT9Funk4mqF4Lh"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176009,
+      "name": "Coraz\u00f3n Extra\u00f1o",
+      "url": "https://open.spotify.com/track/0xlOGGbvgC4gHQ6nYiOexk"
+    },
+    {
+      "album": {
         "name": "Cortada en la Frente",
         "url": "https://open.spotify.com/album/2XTHHhHJJiOWmx3ptLnOGy"
       },
@@ -2976,6 +3002,24 @@
       "duration_ms": 188755,
       "name": "DARK CLOUDS",
       "url": "https://open.spotify.com/track/2DR4WqM6nPQu9WYZkfA3h4"
+    },
+    {
+      "album": {
+        "name": "day ONe",
+        "url": "https://open.spotify.com/album/5owcX09d3IttMCUWNHwlAO"
+      },
+      "artists": [
+        {
+          "name": "day2k",
+          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136551,
+      "name": "day ONe",
+      "url": "https://open.spotify.com/track/2HRFVNcecY9zOVKeh1GW8z"
     },
     {
       "album": {
@@ -10274,7 +10318,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 217560,
       "name": "Picor",
       "url": "https://open.spotify.com/track/1CL4KsBWs2vm3xPlrr7flj"

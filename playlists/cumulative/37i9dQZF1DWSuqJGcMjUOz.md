@@ -4,7 +4,7 @@
 
 > Découvrez les artistes à l'affiche de l’édition 2024 des Francos de Montréal.
 
-457 songs - 1 day 1 hr 57 min
+458 songs - 1 day 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,7 @@
 | [La grande évasion](https://open.spotify.com/track/2aA0QjPKz8BDUHx2JTUVjp) | [Patrice Michaud](https://open.spotify.com/artist/5qwQpqVBAApujajOflaRz1) | [Grand voyage désorganisé](https://open.spotify.com/album/1rLmRNRjmGvzDk1rGGKUET) | 2:35 | 2022-05-25 | 2023-04-13 |
 | [la honte](https://open.spotify.com/track/3j8wfBkVowBTt1bGmtHOf7) | [blesse](https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge), [David Numwami](https://open.spotify.com/artist/2uKChU7eHSda8R79iR9rel) | [la honte](https://open.spotify.com/album/5MxKI5pwIa2LuSyhJGA2wO) | 3:29 | 2024-05-22 |  |
 | [La jungle du capital](https://open.spotify.com/track/0uEMCE8qrTD3ivM3TVoQtu) | [Émile Bilodeau](https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu) | [Petite nature](https://open.spotify.com/album/7x0PB0u5Mr7agHHV35EKj4) | 4:08 | 2022-05-25 | 2023-04-13 |
-| [LA LA LA](https://open.spotify.com/track/3JIxKFRguGFlGAGwla497a) | [K!RA OJI](https://open.spotify.com/artist/5qL0GdnYTCXlr2wJK6XCQm) | [Chercheur de lumières](https://open.spotify.com/album/2STVRCEnziOB3BpCHqEtmZ) | 2:57 | 2024-04-23 |  |
+| [LA LA LA](https://open.spotify.com/track/3JIxKFRguGFlGAGwla497a) | [K!RA OJI](https://open.spotify.com/artist/5qL0GdnYTCXlr2wJK6XCQm) | [Chercheur de lumières](https://open.spotify.com/album/2STVRCEnziOB3BpCHqEtmZ) | 2:57 | 2024-04-23 | 2024-06-17 |
 | [La lettre](https://open.spotify.com/track/5T0pz4KYzXrOBWxrBvpZ8W) | [Juste Robert](https://open.spotify.com/artist/4lll5qbnN7kMIi5jOZUpVi) | [Ta théorie sur la lumière](https://open.spotify.com/album/16smfu1rntYNsY9yYqvDDC) | 3:24 | 2022-05-25 | 2023-04-13 |
 | [La lumineuse](https://open.spotify.com/track/68tP0IQTdnvRM5MmcNbGq9) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [La lumineuse](https://open.spotify.com/album/0mW7rqJgg8r3BfjOwwAavP) | 3:08 | 2022-05-25 | 2023-04-13 |
 | [La Presse \(Baby Girl\)](https://open.spotify.com/track/7JnfndIUMmzrMWFF9s9VgA) | [Marie\-Gold](https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G) | [Bienvenue à Baveuse City](https://open.spotify.com/album/6Ewy5jluK73NCmTeHN9sNC) | 2:55 | 2022-05-25 | 2023-03-21 |
@@ -273,6 +273,7 @@
 | [Les Rois](https://open.spotify.com/track/0LYoSwbEATgEhaW08cnR3I) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv) | [Excalibur](https://open.spotify.com/album/4TaVDxoWyoR6F7s1aTyz8T) | 3:08 | 2022-05-25 | 2023-04-13 |
 | [LESBIENNE WOKE SUR L'AUTOTUNE](https://open.spotify.com/track/7hElxwN1zI3SLAOh6aX2uD) | [Calamine](https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ) | [LESBIENNE WOKE SUR L'AUTOTUNE](https://open.spotify.com/album/6mKwEJV5F4DqilpZaJMS0N) | 3:24 | 2022-05-25 | 2022-07-31 |
 | [Levinas](https://open.spotify.com/track/6Qtwkmr2qpve1v3vfIHozx) | [Bolduc tout croche](https://open.spotify.com/artist/1vwXvp34Xf2Rl6L4lAgbbF) | [Construire une table pour y mettre notre poing ensemble](https://open.spotify.com/album/1VfclioQa33YTGOwrGiNIJ) | 1:57 | 2022-05-25 | 2022-07-27 |
+| [Libre](https://open.spotify.com/track/1cxU8Lm89wGrMCcQISzYTf) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Libre](https://open.spotify.com/album/4bMFs8RYpu4qRI4x4tpkZl) | 3:09 | 2024-06-16 |  |
 | [LOVE'n'TENDRESSE](https://open.spotify.com/track/3j16DCyqOQMF1Q6XXIRgTr) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR](https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK) | 3:16 | 2024-04-03 |  |
 | [Légendaire](https://open.spotify.com/track/2dMS1TDVseVattgEVMvURB) | [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C) | [ÉlévaZIIION \(Société distincte\)](https://open.spotify.com/album/7sjiQnZKBAU6etTZUeFfR8) | 4:53 | 2024-04-23 |  |
 | [Maintenant ou jamais](https://open.spotify.com/track/118a8HYWmt3jzaXTxGZsnv) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Objets perdus](https://open.spotify.com/album/23ZdRpke5PxHJYscobdOk9) | 3:24 | 2024-04-03 |  |

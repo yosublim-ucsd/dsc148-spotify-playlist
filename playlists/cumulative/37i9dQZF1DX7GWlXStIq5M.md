@@ -4,7 +4,7 @@
 
 > Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Carol Biazin
 
-761 songs - 1 day 14 hr 11 min
+762 songs - 1 day 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,6 +412,7 @@
 | [Mil Vezes \- Remix](https://open.spotify.com/track/2azJDduVngaqpaUsxKXevt) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Mil Vezes \(Remix\)](https://open.spotify.com/album/28TohT0cuarLuUCyC7VGA1) | 2:07 | 2024-01-05 | 2024-06-01 |
 | [Milkshake](https://open.spotify.com/track/1S04Xi3itu6MyqEzI0kAE0) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Gente Crazy](https://open.spotify.com/album/1BA3CXKhTegfp6WIAIbxGC) | 2:31 | 2023-02-14 | 2023-06-24 |
 | [Minha Arte](https://open.spotify.com/track/2INiIszCU5fQt8SFR3SBTQ) | [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Minha Arte](https://open.spotify.com/album/7iccFIRTCqegLpHgfXPMVt) | 3:43 | 2023-11-24 |  |
+| [Miragem](https://open.spotify.com/track/1fqC1wqKMIhyp2pSpyap0H) | [Anna Pêgo](https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ) | [Miragem](https://open.spotify.com/album/4yfl8iRfVZLaH7xab67n40) | 2:08 | 2024-06-14 |  |
 | [Mitsubishi](https://open.spotify.com/track/3bcduSxypEUxlM5UawQ3kD) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic) | [Mitsubishi](https://open.spotify.com/album/5vDJ7p8TCRpjRn1gGrDmpY) | 3:02 | 2020-10-20 | 2022-07-28 |
 | [Mlks de Sp](https://open.spotify.com/track/2cWCwWJTozhsGxmvrJJaXn) | [Recayd Mob](https://open.spotify.com/artist/1QBWA6tuiZ0JuDluPqbe71), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po), [Jé Santiago](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td) | [Mlks de Sp](https://open.spotify.com/album/6GCqblH05x7Gt4QzYrPz4t) | 3:15 | 2020-10-20 | 2022-07-26 |
 | [Modo Trapaça](https://open.spotify.com/track/3OAOGZwWMzP24qefZmPYWR) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Modo Trapaça](https://open.spotify.com/album/4zKBStIg0K3ZoPDQHq1IIQ) | 3:12 | 2020-10-20 | 2022-07-28 |
@@ -708,7 +709,7 @@
 | [Tudo Meu](https://open.spotify.com/track/4R7e0VeGP4ouYYd3fJIsH9) | [RUBY](https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Tudo Meu](https://open.spotify.com/album/0JdAzfGhlWWcF3za66uSLK) | 2:25 | 2024-03-22 | 2024-04-20 |
 | [Tudo Ou Nada](https://open.spotify.com/track/4kFYhqh5xOBNNhKoy6uDCp) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [ARRISCA](https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc) | 4:08 | 2023-05-05 | 2023-06-10 |
 | [tudo por você](https://open.spotify.com/track/1KgpFol2UWbneMpc0dKzK8) | [Carol Passos](https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP), [CASITA](https://open.spotify.com/artist/2AFHUuEtvqHN4JlNzyq8cv) | [tudo por você](https://open.spotify.com/album/4E32Qu06lpLfc9tAEQXbdY) | 2:22 | 2024-04-19 |  |
-| [Tudo Pra Amar Você](https://open.spotify.com/track/2lDhKzEXHU14HRRAKja3ba) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Tudo Pra Amar Você](https://open.spotify.com/album/1neVMQB6q1Roh1Voz9dfDA) | 2:55 | 2023-02-24 |  |
+| [Tudo Pra Amar Você](https://open.spotify.com/track/2lDhKzEXHU14HRRAKja3ba) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Tudo Pra Amar Você](https://open.spotify.com/album/1neVMQB6q1Roh1Voz9dfDA) | 2:55 | 2023-02-24 | 2024-06-17 |
 | [Tudo Pra Amar Você](https://open.spotify.com/track/5GZ4UmrT3wv3eftsHo3WZ1) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Tudo Pra Amar Você](https://open.spotify.com/album/0FlzEsJbLiNBGr8rlaacLa) | 2:55 | 2023-04-25 | 2023-08-15 |
 | [Tudo Pra Amar Você](https://open.spotify.com/track/729wf3M4niTm0Cw7J8p63a) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Vício Inerente](https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr) | 2:55 | 2023-04-28 | 2024-04-19 |
 | [Turks \(feat\. Travis Scott\)](https://open.spotify.com/track/0lSZh5W0wDeurkGzLYY6hf) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Turks](https://open.spotify.com/album/2nfOFXxNyf61geA17cW6e6) | 2:41 | 2020-10-20 | 2023-02-15 |

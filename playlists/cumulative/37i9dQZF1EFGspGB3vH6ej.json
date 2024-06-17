@@ -1575,6 +1575,24 @@
     },
     {
       "album": {
+        "name": "Rainbow: 25th Anniversary Expanded Edition",
+        "url": "https://open.spotify.com/album/6yitEMT7G4qfIcV3jWXP8I"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2024-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 617335,
+      "name": "Heartbreaker / \"If You Should Ever Be Lonely\" - Junior's Heartbreaker Club Mix",
+      "url": "https://open.spotify.com/track/3Ekhg6QIzoT0rsgd8xFZa8"
+    },
+    {
+      "album": {
         "name": "Heartbreaker EP",
         "url": "https://open.spotify.com/album/1VktLKfdjb6cq5QoRzp0e0"
       },
@@ -1586,7 +1604,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 619000,
       "name": "Heartbreaker / \"If You Should Ever Be Lonely\" - Junior's Heartbreaker Club Mix",
       "url": "https://open.spotify.com/track/4kICqHfFdOIfJLZ1H17UIv"
@@ -4409,6 +4427,24 @@
     },
     {
       "album": {
+        "name": "Rainbow: 25th Anniversary Expanded Edition",
+        "url": "https://open.spotify.com/album/6yitEMT7G4qfIcV3jWXP8I"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2024-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254056,
+      "name": "There For Me",
+      "url": "https://open.spotify.com/track/3mASdjEd8tR3D2oSvPJouk"
+    },
+    {
+      "album": {
         "name": "This Is Who I Am",
         "url": "https://open.spotify.com/album/42bh9TTUoDJG3x5ewGF6Gd"
       },
@@ -4420,7 +4456,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 292626,
       "name": "There For You (There For Me) - This Is Who I Am Album Version",
       "url": "https://open.spotify.com/track/1DkESE6JQNVXSng4wbcJ7a"

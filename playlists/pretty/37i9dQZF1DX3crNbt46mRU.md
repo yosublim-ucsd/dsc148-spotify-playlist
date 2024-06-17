@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Vegedream
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,187 likes - 105 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,189 likes - 105 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 41 | [Count On My Love](https://open.spotify.com/track/3nxyManavy2vBdYkilvhmF) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Daniel Wilson](https://open.spotify.com/artist/0LHsUOtcrTFzM7YJ7HoZUv), [Kon](https://open.spotify.com/artist/4JbrK7cFQmSZ7tKBUbV3zi) | [Count On My Love](https://open.spotify.com/album/5RZ9EztjAiggK1wcVqdRgs) | 5:56 |
 | 42 | [Dum Dum](https://open.spotify.com/track/5YHNNhgvpJYPlxyrx7UNjd) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d) | [Dum Dum](https://open.spotify.com/album/3jzcoZusqtkQUZlLza3FLR) | 2:41 |
 | 43 | [Alive](https://open.spotify.com/track/4fQcgUB7KTn09DULUsUOsA) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem), [Noxxia](https://open.spotify.com/artist/1yTxofaXhlhAG82AO55Atu) | [Alive](https://open.spotify.com/album/1YDFh8RWxuQ3xaMsvREbc8) | 2:22 |
-| 44 | [Kompliziert](https://open.spotify.com/track/1flZCmMHxyiTbECxXgSmdE) | [Christoph Sakwerda](https://open.spotify.com/artist/04R6CrSnQeDoB6j6Z7x8Lq) | [Kompliziert](https://open.spotify.com/album/4F8HG29Z93i5nLtZFTpR44) | 2:35 |
+| 44 | [Kompliziert](https://open.spotify.com/track/1flZCmMHxyiTbECxXgSmdE) | [Christoph Sakwerda](https://open.spotify.com/artist/04R6CrSnQeDoB6j6Z7x8Lq), [Manith Bertz](https://open.spotify.com/artist/46QiTWb30K45FoB3rAUXFE) | [Kompliziert](https://open.spotify.com/album/4F8HG29Z93i5nLtZFTpR44) | 2:35 |
 | 45 | [Disco Marathon \(feat\. NEEKA\)](https://open.spotify.com/track/6eLLQ5NzQchs3RalH4TcVa) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [NEEKA](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW) | [Disco Marathon \(feat\. NEEKA\)](https://open.spotify.com/album/00g9nQ0HVCvPIN6qEwQww8) | 2:16 |
 | 46 | [Spring breakers](https://open.spotify.com/track/3dk7WaeS0y0JG0OMd0FVcg) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Brat and it’s the same but there’s three more songs so it’s not](https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq) | 2:22 |
 | 47 | [8i Bahnhof Chur](https://open.spotify.com/track/5eI0qlF9oyguBUP7H20pj0) | [Gimma](https://open.spotify.com/artist/3lShmS9FBjiOfFURcLkihv) | [8i Bahnhof Chur](https://open.spotify.com/album/6esoNSFpYuo2nrueqFMOiS) | 3:02 |

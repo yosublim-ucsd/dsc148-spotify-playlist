@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-04-26",
   "description": "Updated daily, with the latest popular singles!",
-  "name": "NEW SINGLES RELEASES | UPDATED 16 JUN",
+  "name": "NEW SINGLES RELEASES | UPDATED 17 JUN",
   "tracks": [
     {
       "album": {
@@ -1027,6 +1027,24 @@
     },
     {
       "album": {
+        "name": "Barnacles",
+        "url": "https://open.spotify.com/album/2JmRJPmuscTeGnrV2akaJi"
+      },
+      "artists": [
+        {
+          "name": "LAZER DIM 700",
+          "url": "https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U"
+        }
+      ],
+      "date_added": "2024-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97332,
+      "name": "Barnacles",
+      "url": "https://open.spotify.com/track/5twkvcBhCfhvujp1TerwgX"
+    },
+    {
+      "album": {
         "name": "Be Ready Homeless Man",
         "url": "https://open.spotify.com/album/4xBL1NPn3pLNUO8ldjV3eL"
       },
@@ -1992,6 +2010,24 @@
       "duration_ms": 188840,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/02ErXm9zvvhi7qT7JUGhZj"
+    },
+    {
+      "album": {
+        "name": "Buy Sum",
+        "url": "https://open.spotify.com/album/5uqekVJdkmGmhgEjCnTzGf"
+      },
+      "artists": [
+        {
+          "name": "Queen Key",
+          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
+        }
+      ],
+      "date_added": "2024-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158011,
+      "name": "Buy Sum",
+      "url": "https://open.spotify.com/track/4iYx83z9fFXFsKV0tIwRj4"
     },
     {
       "album": {
@@ -7214,7 +7250,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 212088,
       "name": "LUV 4 YA",
       "url": "https://open.spotify.com/track/4gy2E8Wwz5hgwOLjv03cYS"
@@ -7380,7 +7416,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 233617,
       "name": "Me Vs. You",
       "url": "https://open.spotify.com/track/6uNdjUxjBxWlNt8i2Z1uWs"
@@ -10336,7 +10372,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 288500,
       "name": "SIGMA",
       "url": "https://open.spotify.com/track/4vfm50GzceHAl5bIN05vrM"
@@ -11948,6 +11984,24 @@
       "duration_ms": 260407,
       "name": "Thrown Around",
       "url": "https://open.spotify.com/track/6hEiEWEgAuFvEJduuSQLiw"
+    },
+    {
+      "album": {
+        "name": "Time Heals and Hurts",
+        "url": "https://open.spotify.com/album/1uwqoblpN49G4zekhUOeeF"
+      },
+      "artists": [
+        {
+          "name": "OMB Peezy",
+          "url": "https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak"
+        }
+      ],
+      "date_added": "2024-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157288,
+      "name": "Time Heals and Hurts",
+      "url": "https://open.spotify.com/track/5glkGkNCTSzfToLyRM2day"
     },
     {
       "album": {

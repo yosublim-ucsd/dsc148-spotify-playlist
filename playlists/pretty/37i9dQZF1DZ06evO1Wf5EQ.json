@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmuIAAAAAAB+gIRXycYLtJToX8thuEME",
+  "snapshot_id": "ZmzZgAAAAABs8sUf3ZpbDgcL1yZvKm8+",
   "tracks": [
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 74046,
-      "name": "Methuen Home For Children 1957",
-      "url": "https://open.spotify.com/track/0oavd02JI7eQqJLUz6ymdB"
+      "duration_ms": 78496,
+      "name": "The Scholar's Mate",
+      "url": "https://open.spotify.com/track/2qKga0VHaH41ajUMbVofcb"
     },
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 78496,
-      "name": "The Scholar's Mate",
-      "url": "https://open.spotify.com/track/2qKga0VHaH41ajUMbVofcb"
+      "duration_ms": 74046,
+      "name": "Methuen Home For Children 1957",
+      "url": "https://open.spotify.com/track/0oavd02JI7eQqJLUz6ymdB"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 72642,
-      "name": "Kentucky State Championship 1963",
-      "url": "https://open.spotify.com/track/5LuS85cUwjH3vXXjUPrbqW"
+      "duration_ms": 72907,
+      "name": "First Day At School",
+      "url": "https://open.spotify.com/track/1qBXkDmnMZXaumaaxwmdYu"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Griselda (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw"
+        "name": "Ezra (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2UbyTUN7UOsnV6lT9ecAky"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 59669,
-      "name": "THE LAST CIGARETTE",
-      "url": "https://open.spotify.com/track/7x6BO8H8ez38b3VbfA2blG"
+      "duration_ms": 60773,
+      "name": "I Sold My Kid Out",
+      "url": "https://open.spotify.com/track/1m09Ft3pf4MicMrrsT4RFv"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 72907,
-      "name": "First Day At School",
-      "url": "https://open.spotify.com/track/1qBXkDmnMZXaumaaxwmdYu"
+      "duration_ms": 72642,
+      "name": "Kentucky State Championship 1963",
+      "url": "https://open.spotify.com/track/5LuS85cUwjH3vXXjUPrbqW"
     },
     {
       "added_at": null,
@@ -359,6 +359,22 @@
       "duration_ms": 135493,
       "name": "Welcome To LaBelle",
       "url": "https://open.spotify.com/track/39ymvR1OhXUe0qt7YeFA7y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Griselda (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 59669,
+      "name": "THE LAST CIGARETTE",
+      "url": "https://open.spotify.com/track/7x6BO8H8ez38b3VbfA2blG"
     },
     {
       "added_at": null,
@@ -395,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ezra (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2UbyTUN7UOsnV6lT9ecAky"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 123613,
+      "name": "I Pet A Horse",
+      "url": "https://open.spotify.com/track/2tJFjum9KunK7kcVpHPEFP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Griselda (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw"
       },
@@ -420,9 +452,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 60773,
-      "name": "I Sold My Kid Out",
-      "url": "https://open.spotify.com/track/1m09Ft3pf4MicMrrsT4RFv"
+      "duration_ms": 111573,
+      "name": "Life Is Messy",
+      "url": "https://open.spotify.com/track/4r0V4D1P9OVn7ogJsxwu1a"
     },
     {
       "added_at": null,
@@ -439,6 +471,38 @@
       "duration_ms": 94853,
       "name": "EXTRAORDINARY AMOUNTS OF COCAINE",
       "url": "https://open.spotify.com/track/7xepsXs2ddlWXKGCF8ERaE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ezra (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2UbyTUN7UOsnV6lT9ecAky"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 80880,
+      "name": "Pop Pop",
+      "url": "https://open.spotify.com/track/2Gik6WVPq3jzdvjBvHP8S9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ezra (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2UbyTUN7UOsnV6lT9ecAky"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 94133,
+      "name": "The Hug",
+      "url": "https://open.spotify.com/track/15bUmSZRN7XnH8p3ipCQgt"
     }
   ],
   "unique_name": "This Is Carlos Rafael Rivera",

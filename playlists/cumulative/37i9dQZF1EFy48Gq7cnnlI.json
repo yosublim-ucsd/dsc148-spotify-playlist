@@ -2209,6 +2209,24 @@
     },
     {
       "album": {
+        "name": "When I Said Goodbye",
+        "url": "https://open.spotify.com/album/1tViUr4a5jrhG8BW2oM3E2"
+      },
+      "artists": [
+        {
+          "name": "Ben Goldsmith",
+          "url": "https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8"
+        }
+      ],
+      "date_added": "2024-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158266,
+      "name": "When I Said Goodbye",
+      "url": "https://open.spotify.com/track/5HcxQR3LbA5NCZBCXLs69t"
+    },
+    {
+      "album": {
         "name": "Burnt Letters",
         "url": "https://open.spotify.com/album/35q6agQrUXirvl16mq8YAa"
       },

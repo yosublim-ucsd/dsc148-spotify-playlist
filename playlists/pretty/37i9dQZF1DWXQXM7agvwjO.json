@@ -1,6 +1,6 @@
 {
   "description": "Hottest indie sounds & the best new tracks from Asia. cover: N.Y.P.D. \u5357\u6d0b\u6d3e\u5c0d (Hong Kong)",
-  "num_followers": 97011,
+  "num_followers": 97046,
   "original_name": ".ORG",
   "owner": {
     "name": "Spotify",
@@ -755,6 +755,22 @@
     {
       "added_at": "2024-06-13 16:01:37",
       "album": {
+        "name": "Anthems For A Seventeen Year-Old Girl (From \"I Saw the TV Glow\")",
+        "url": "https://open.spotify.com/album/3vnboMJaGw6fLJ0B82OkvT"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "duration_ms": 212750,
+      "name": "Anthems For A Seventeen Year-Old Girl - From \"I Saw the TV Glow\"",
+      "url": "https://open.spotify.com/track/15kuqWifv5GzGq3A2P6EbC"
+    },
+    {
+      "added_at": "2024-06-13 16:01:37",
+      "album": {
         "name": "Our Beloved Summer (Original Television Soundtrack), Pt. 11",
         "url": "https://open.spotify.com/album/460wwJJ7kVYYue0MfHTsVD"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 254500,
       "name": "\u0e40\u0e1e\u0e35\u0e22\u0e07\u0e41\u0e04\u0e48\u0e16\u0e32\u0e21\u0e40\u0e18\u0e2d\u0e14\u0e39 (Can I ask)",
       "url": "https://open.spotify.com/track/7qSVwjc5M7zZwBUshWTS1z"
-    },
-    {
-      "added_at": "2024-06-13 16:01:37",
-      "album": {
-        "name": "Anthems For A Seventeen Year-Old Girl (From \"I Saw the TV Glow\")",
-        "url": "https://open.spotify.com/album/3vnboMJaGw6fLJ0B82OkvT"
-      },
-      "artists": [
-        {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
-        }
-      ],
-      "duration_ms": 212750,
-      "name": "Anthems For A Seventeen Year-Old Girl - From \"I Saw the TV Glow\"",
-      "url": "https://open.spotify.com/track/15kuqWifv5GzGq3A2P6EbC"
     },
     {
       "added_at": "2024-06-13 16:01:37",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-06-13 16:01:37",
       "album": {
+        "name": "WELL DONE",
+        "url": "https://open.spotify.com/album/3ZYrXylEYlFvr3HDv1wJqJ"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 159617,
+      "name": "My Dear",
+      "url": "https://open.spotify.com/track/38dyoMgDMotr4qX8qlL17j"
+    },
+    {
+      "added_at": "2024-06-13 16:01:37",
+      "album": {
         "name": "tears",
         "url": "https://open.spotify.com/album/4shzDdJe5GyQvm2EVsE9Qt"
       },
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2024-06-13 16:01:37",
       "album": {
-        "name": "WELL DONE",
-        "url": "https://open.spotify.com/album/3ZYrXylEYlFvr3HDv1wJqJ"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 159617,
-      "name": "My Dear",
-      "url": "https://open.spotify.com/track/38dyoMgDMotr4qX8qlL17j"
-    },
-    {
-      "added_at": "2024-06-13 16:01:37",
-      "album": {
         "name": "\u0110\u1ea1i L\u1ed9 M\u1eb7t Tr\u1eddi",
         "url": "https://open.spotify.com/album/5ysXBJHiqhcE5Pw8p1XDia"
       },
@@ -1051,26 +1051,6 @@
       "duration_ms": 182815,
       "name": "Bite you",
       "url": "https://open.spotify.com/track/0HQY3oa2908qhJwIPtiYHE"
-    },
-    {
-      "added_at": "2024-06-13 16:01:37",
-      "album": {
-        "name": "Getaway (feat. Phum Viphurit)",
-        "url": "https://open.spotify.com/album/3Bm2iB1HH5jHglICVBIbH7"
-      },
-      "artists": [
-        {
-          "name": "PREP",
-          "url": "https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42"
-        },
-        {
-          "name": "Phum Viphurit",
-          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
-        }
-      ],
-      "duration_ms": 247745,
-      "name": "Getaway (feat. Phum Viphurit)",
-      "url": "https://open.spotify.com/track/5JfLK7hYOhU3fj2xCxEKQ5"
     },
     {
       "added_at": "2024-06-13 16:01:37",
@@ -1123,6 +1103,26 @@
       "duration_ms": 281658,
       "name": "DREAM LIKE ME",
       "url": "https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m"
+    },
+    {
+      "added_at": "2024-06-13 16:01:37",
+      "album": {
+        "name": "Getaway (feat. Phum Viphurit)",
+        "url": "https://open.spotify.com/album/3Bm2iB1HH5jHglICVBIbH7"
+      },
+      "artists": [
+        {
+          "name": "PREP",
+          "url": "https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42"
+        },
+        {
+          "name": "Phum Viphurit",
+          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+        }
+      ],
+      "duration_ms": 247745,
+      "name": "Getaway (feat. Phum Viphurit)",
+      "url": "https://open.spotify.com/track/5JfLK7hYOhU3fj2xCxEKQ5"
     },
     {
       "added_at": "2024-06-13 16:01:37",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2024-06-13 16:01:37",
       "album": {
+        "name": "Divine",
+        "url": "https://open.spotify.com/album/3fmFGrUV5K4gN82pvxje31"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/30FlUAmPFIns6SaAeoLkQi"
+    },
+    {
+      "added_at": "2024-06-13 16:01:37",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7ChLJ2d4pLNKIrLSuGl8Df"
       },
@@ -1399,18 +1415,18 @@
     {
       "added_at": "2024-06-13 16:01:37",
       "album": {
-        "name": "\u0110\u1ec3 N\u00f3 \u0110\u1ebfn",
-        "url": "https://open.spotify.com/album/4i8YeSRnK4jfQ1WCFPzTDV"
+        "name": "No Cares Era",
+        "url": "https://open.spotify.com/album/5FZpZ3glnOilS48UA4C5aB"
       },
       "artists": [
         {
-          "name": "Th\u1eafng",
-          "url": "https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F"
+          "name": "Valentina Ploy",
+          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
         }
       ],
-      "duration_ms": 263225,
-      "name": "\u0110\u1ec3 N\u00f3 \u0110\u1ebfn",
-      "url": "https://open.spotify.com/track/6mg6biMH1unKldegMb84SB"
+      "duration_ms": 200425,
+      "name": "No Cares Era",
+      "url": "https://open.spotify.com/track/1dI9QSKVCt4uXHzGVuBRLa"
     },
     {
       "added_at": "2024-06-13 16:01:37",
@@ -1431,38 +1447,34 @@
     {
       "added_at": "2024-06-13 16:01:37",
       "album": {
-        "name": "No Cares Era",
-        "url": "https://open.spotify.com/album/5FZpZ3glnOilS48UA4C5aB"
+        "name": "\u0110\u1ec3 N\u00f3 \u0110\u1ebfn",
+        "url": "https://open.spotify.com/album/4i8YeSRnK4jfQ1WCFPzTDV"
       },
       "artists": [
         {
-          "name": "Valentina Ploy",
-          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
+          "name": "Th\u1eafng",
+          "url": "https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F"
         }
       ],
-      "duration_ms": 200425,
-      "name": "No Cares Era",
-      "url": "https://open.spotify.com/track/1dI9QSKVCt4uXHzGVuBRLa"
+      "duration_ms": 263225,
+      "name": "\u0110\u1ec3 N\u00f3 \u0110\u1ebfn",
+      "url": "https://open.spotify.com/track/6mg6biMH1unKldegMb84SB"
     },
     {
       "added_at": "2024-06-13 16:01:37",
       "album": {
-        "name": "Wings",
-        "url": "https://open.spotify.com/album/1BzkLEFlQ4JQWUFWZrNIvC"
+        "name": "Movie Scenes",
+        "url": "https://open.spotify.com/album/1LfkYj4wbQoXrAmmeGE1Jm"
       },
       "artists": [
         {
-          "name": "So!YoON!",
-          "url": "https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg"
-        },
-        {
-          "name": "Phum Viphurit",
-          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+          "name": "Javi That's Me",
+          "url": "https://open.spotify.com/artist/4yPRWVvazFxeuAd4R26X8W"
         }
       ],
-      "duration_ms": 195573,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/4XQnhcwRPRmGG4E6PakLMb"
+      "duration_ms": 203333,
+      "name": "Movie Scenes",
+      "url": "https://open.spotify.com/track/6pkvHlxFsRuAmE0eSCd2BI"
     },
     {
       "added_at": "2024-06-13 16:01:37",
@@ -1507,22 +1519,6 @@
     {
       "added_at": "2024-06-13 16:01:37",
       "album": {
-        "name": "Movie Scenes",
-        "url": "https://open.spotify.com/album/1LfkYj4wbQoXrAmmeGE1Jm"
-      },
-      "artists": [
-        {
-          "name": "Javi That's Me",
-          "url": "https://open.spotify.com/artist/4yPRWVvazFxeuAd4R26X8W"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "Movie Scenes",
-      "url": "https://open.spotify.com/track/6pkvHlxFsRuAmE0eSCd2BI"
-    },
-    {
-      "added_at": "2024-06-13 16:01:37",
-      "album": {
         "name": "moon & stars",
         "url": "https://open.spotify.com/album/6Hr5d75EQeHRSFU9tUQtjS"
       },
@@ -1555,6 +1551,22 @@
     {
       "added_at": "2024-06-13 16:01:37",
       "album": {
+        "name": "\u7406\u60f3\u72c0\u614b",
+        "url": "https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY"
+      },
+      "artists": [
+        {
+          "name": "Cosmos People",
+          "url": "https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G"
+        }
+      ],
+      "duration_ms": 241317,
+      "name": "\u4f60\u7684\u6a23\u5b50",
+      "url": "https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz"
+    },
+    {
+      "added_at": "2024-06-13 16:01:37",
+      "album": {
         "name": "UMAMI",
         "url": "https://open.spotify.com/album/1Ja6sE2nTmSFRUWJKuo48g"
       },
@@ -1579,22 +1591,6 @@
     {
       "added_at": "2024-06-13 16:01:37",
       "album": {
-        "name": "Divine",
-        "url": "https://open.spotify.com/album/3fmFGrUV5K4gN82pvxje31"
-      },
-      "artists": [
-        {
-          "name": "Rangga Jones",
-          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "Divine",
-      "url": "https://open.spotify.com/track/30FlUAmPFIns6SaAeoLkQi"
-    },
-    {
-      "added_at": "2024-06-13 16:01:37",
-      "album": {
         "name": "tired",
         "url": "https://open.spotify.com/album/6NIR1zEyjL76C1aiyOWPLA"
       },
@@ -1611,38 +1607,6 @@
       "duration_ms": 144793,
       "name": "tired",
       "url": "https://open.spotify.com/track/55fNfPGUBeRWSvSStXU2b9"
-    },
-    {
-      "added_at": "2024-06-13 16:01:37",
-      "album": {
-        "name": "\u7406\u60f3\u72c0\u614b",
-        "url": "https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY"
-      },
-      "artists": [
-        {
-          "name": "Cosmos People",
-          "url": "https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G"
-        }
-      ],
-      "duration_ms": 241317,
-      "name": "\u4f60\u7684\u6a23\u5b50",
-      "url": "https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz"
-    },
-    {
-      "added_at": "2024-06-13 16:01:37",
-      "album": {
-        "name": "Don't Miss You",
-        "url": "https://open.spotify.com/album/4O8dBJK2LHyco37w4M0jsQ"
-      },
-      "artists": [
-        {
-          "name": "dopameen",
-          "url": "https://open.spotify.com/artist/29ZvIa5tO8jkzpnYI52b8T"
-        }
-      ],
-      "duration_ms": 112131,
-      "name": "Don't Miss You",
-      "url": "https://open.spotify.com/track/1BvnzvJjR746QsUlDYrTYL"
     },
     {
       "added_at": "2024-06-13 16:01:37",
@@ -1667,6 +1631,26 @@
     {
       "added_at": "2024-06-13 16:01:37",
       "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/1BzkLEFlQ4JQWUFWZrNIvC"
+      },
+      "artists": [
+        {
+          "name": "So!YoON!",
+          "url": "https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg"
+        },
+        {
+          "name": "Phum Viphurit",
+          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+        }
+      ],
+      "duration_ms": 195573,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/4XQnhcwRPRmGG4E6PakLMb"
+    },
+    {
+      "added_at": "2024-06-13 16:01:37",
+      "album": {
         "name": "Correspondances",
         "url": "https://open.spotify.com/album/7bHqPAAsC9LBhk1HhMYG6z"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 148000,
       "name": "\u58f0\u3092\u805e\u304b\u305b\u3066",
       "url": "https://open.spotify.com/track/0ZJmMINFDqxtS5QhZzMjWh"
+    },
+    {
+      "added_at": "2024-06-13 16:01:37",
+      "album": {
+        "name": "Don't Miss You",
+        "url": "https://open.spotify.com/album/4O8dBJK2LHyco37w4M0jsQ"
+      },
+      "artists": [
+        {
+          "name": "dopameen",
+          "url": "https://open.spotify.com/artist/29ZvIa5tO8jkzpnYI52b8T"
+        }
+      ],
+      "duration_ms": 112131,
+      "name": "Don't Miss You",
+      "url": "https://open.spotify.com/track/1BvnzvJjR746QsUlDYrTYL"
     },
     {
       "added_at": "2024-06-13 16:01:37",
@@ -1699,22 +1699,18 @@
     {
       "added_at": "2024-06-13 16:01:37",
       "album": {
-        "name": "Pretense",
-        "url": "https://open.spotify.com/album/64Ucc9nGoY5gpfh86alRVm"
+        "name": "love is growing",
+        "url": "https://open.spotify.com/album/422FUc3Fc4UG1Cn9CeeOAQ"
       },
       "artists": [
         {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        },
-        {
-          "name": "\u674e\u6d69\u744b Howard Lee",
-          "url": "https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs"
+          "name": "Plastic Plastic",
+          "url": "https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd"
         }
       ],
-      "duration_ms": 267986,
-      "name": "Pretense",
-      "url": "https://open.spotify.com/track/1iGilBtLO9t5Wm6hs4I7pj"
+      "duration_ms": 178422,
+      "name": "love is growing",
+      "url": "https://open.spotify.com/track/1xzKJE6Q1fOhXLzYOCXXQg"
     }
   ],
   "unique_name": ".ORG",

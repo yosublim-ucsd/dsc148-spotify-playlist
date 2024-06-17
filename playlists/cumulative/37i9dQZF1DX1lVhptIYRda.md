@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Thank you to everyone who helped us heat up Spotify House at CMA Fest! Cover: Shaboozey
+> Today's top country hits\. Cover: Shaboozey
 
 779 songs - 1 day 18 hr 3 min
 

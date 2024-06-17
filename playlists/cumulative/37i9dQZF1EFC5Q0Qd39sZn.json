@@ -7995,6 +7995,24 @@
     },
     {
       "album": {
+        "name": "Rainbow: 25th Anniversary Expanded Edition",
+        "url": "https://open.spotify.com/album/6yitEMT7G4qfIcV3jWXP8I"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2024-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254056,
+      "name": "There For Me",
+      "url": "https://open.spotify.com/track/3mASdjEd8tR3D2oSvPJouk"
+    },
+    {
+      "album": {
         "name": "Naked Without You",
         "url": "https://open.spotify.com/album/6qrmgCo7ZTnPPqLEcCcdvD"
       },

@@ -587,6 +587,28 @@
     },
     {
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/5OAbT0PY5TgrjxXmSVkCBU"
+      },
+      "artists": [
+        {
+          "name": "Roman Messer",
+          "url": "https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR"
+        },
+        {
+          "name": "Jennifer Rene",
+          "url": "https://open.spotify.com/artist/44RB2EcmMwG4gC8EH75Ix1"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196521,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/5rWYUzI9sHRtHUghcUJwus"
+    },
+    {
+      "album": {
         "name": "Alone (Ilan Bluestone Remix)",
         "url": "https://open.spotify.com/album/1wNbgGwbX1J1O0gdgueLli"
       },
@@ -1664,6 +1686,32 @@
       "duration_ms": 168358,
       "name": "Being Alone",
       "url": "https://open.spotify.com/track/0LkhrxxLxmitdXcSr7wfMQ"
+    },
+    {
+      "album": {
+        "name": "Belong To You",
+        "url": "https://open.spotify.com/album/5kkx78UKw8yToOOBdtc7Am"
+      },
+      "artists": [
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        },
+        {
+          "name": "22Bullets",
+          "url": "https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9"
+        },
+        {
+          "name": "Couch\u00e9",
+          "url": "https://open.spotify.com/artist/6N6ZLdTZg3Pasm0JCF5nbl"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177120,
+      "name": "Belong To You",
+      "url": "https://open.spotify.com/track/5VrUy953DPeHmOUCCrkz3A"
     },
     {
       "album": {
@@ -4551,6 +4599,24 @@
     },
     {
       "album": {
+        "name": "Echoes Of Courage",
+        "url": "https://open.spotify.com/album/7ACQ8HHm7FRemgqXlB7RMl"
+      },
+      "artists": [
+        {
+          "name": "Ilan Bluestone",
+          "url": "https://open.spotify.com/artist/1yoZuH2j43vVSWsOwYuQyn"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178370,
+      "name": "Echoes Of Courage",
+      "url": "https://open.spotify.com/track/3OCMeoGaTmxKS55xUNlDm9"
+    },
+    {
+      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/5RimnDa07WmMJcI0WESfrh"
       },
@@ -5455,6 +5521,28 @@
     },
     {
       "album": {
+        "name": "Fair",
+        "url": "https://open.spotify.com/album/0IbbybOy5vCGIbRHf8yHRO"
+      },
+      "artists": [
+        {
+          "name": "Billy Gillies",
+          "url": "https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO"
+        },
+        {
+          "name": "Betsy",
+          "url": "https://open.spotify.com/artist/58FAQGIDRMXK5AsxJu9YNp"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208111,
+      "name": "Fair",
+      "url": "https://open.spotify.com/track/7f9fJAUu3EXbzzOmZA4QRC"
+    },
+    {
+      "album": {
         "name": "Fall Into You",
         "url": "https://open.spotify.com/album/6JTLfvfLyLEq2E1PB5pSwS"
       },
@@ -6348,6 +6436,28 @@
       "duration_ms": 228750,
       "name": "Forgiven Not Forgotten",
       "url": "https://open.spotify.com/track/3WPkQDALdIsNZ1SY6bn9u2"
+    },
+    {
+      "album": {
+        "name": "Frantika",
+        "url": "https://open.spotify.com/album/2ciMoNoKuKlnYoU7o34IVo"
+      },
+      "artists": [
+        {
+          "name": "Markus Schulz",
+          "url": "https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL"
+        },
+        {
+          "name": "Daxson",
+          "url": "https://open.spotify.com/artist/4WwMR8h0vztJLNgiL5ZFqW"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Frantika",
+      "url": "https://open.spotify.com/track/0Q1Yh6Ln9TUvaqU1JJyMz4"
     },
     {
       "album": {
@@ -9040,7 +9150,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 216956,
       "name": "Killer Zone",
       "url": "https://open.spotify.com/track/17yDqFqMZpy3fpDH67GKbD"
@@ -11300,7 +11410,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 231428,
       "name": "My Silver Lining",
       "url": "https://open.spotify.com/track/0mcJHIEb7aTQ2HKojKUJNO"
@@ -13562,7 +13672,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 200597,
       "name": "Reflected",
       "url": "https://open.spotify.com/track/5apmD6ssqm55PJoLlersMZ"
@@ -15538,7 +15648,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 220588,
       "name": "Starburst - Alex M.O.R.P.H. & Aimoon Pres. Northern Storm",
       "url": "https://open.spotify.com/track/3ZHpG7NBJcWOVhPyIEd4Bp"
@@ -15802,7 +15912,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 245683,
       "name": "Stolen",
       "url": "https://open.spotify.com/track/1Mns7l7I5KdfHRhCnikhJd"

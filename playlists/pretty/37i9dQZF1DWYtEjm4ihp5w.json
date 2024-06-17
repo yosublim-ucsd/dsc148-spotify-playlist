@@ -1,33 +1,13 @@
 {
   "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: Kouz1",
-  "num_followers": 150152,
+  "num_followers": 150235,
   "original_name": "ABAT\u2211RA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmuWEAAAAAAQuE/LAu1+HhNDTWNAVt6R",
+  "snapshot_id": "Zm5tOwAAAAAWXxbBDszlnIODyWWBhnAt",
   "tracks": [
-    {
-      "added_at": "2024-06-14 01:00:00",
-      "album": {
-        "name": "Drari",
-        "url": "https://open.spotify.com/album/5H2BQ6JJTu07btoGKRiISX"
-      },
-      "artists": [
-        {
-          "name": "Kouz1",
-          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
-        },
-        {
-          "name": "Smallx",
-          "url": "https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS"
-        }
-      ],
-      "duration_ms": 192320,
-      "name": "Drari",
-      "url": "https://open.spotify.com/track/3E0tyueJ8RwaR9787Iucqc"
-    },
     {
       "added_at": "2024-06-14 01:00:00",
       "album": {
@@ -51,18 +31,22 @@
     {
       "added_at": "2024-06-14 01:00:00",
       "album": {
-        "name": "27",
-        "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
+        "name": "Drari",
+        "url": "https://open.spotify.com/album/5H2BQ6JJTu07btoGKRiISX"
       },
       "artists": [
         {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+          "name": "Kouz1",
+          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
+        },
+        {
+          "name": "Smallx",
+          "url": "https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS"
         }
       ],
-      "duration_ms": 254800,
-      "name": "MAGHRIBI",
-      "url": "https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1"
+      "duration_ms": 192320,
+      "name": "Drari",
+      "url": "https://open.spotify.com/track/3E0tyueJ8RwaR9787Iucqc"
     },
     {
       "added_at": "2024-06-14 01:00:00",
@@ -79,6 +63,38 @@
       "duration_ms": 149096,
       "name": "CHIRON",
       "url": "https://open.spotify.com/track/46r8XGC6pHS7EEgn6xjrXD"
+    },
+    {
+      "added_at": "2024-06-14 01:00:00",
+      "album": {
+        "name": "27",
+        "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 254800,
+      "name": "MAGHRIBI",
+      "url": "https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1"
+    },
+    {
+      "added_at": "2024-06-14 01:00:00",
+      "album": {
+        "name": "Douwi Douwi",
+        "url": "https://open.spotify.com/album/17Zn5YkVV8L3sNpBDTS71K"
+      },
+      "artists": [
+        {
+          "name": "7liwa",
+          "url": "https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Douwi Douwi",
+      "url": "https://open.spotify.com/track/7wFJmDfeb7CtN8xAr4ftSV"
     },
     {
       "added_at": "2024-06-14 01:00:00",
@@ -115,22 +131,6 @@
       "duration_ms": 273454,
       "name": "NIKEY",
       "url": "https://open.spotify.com/track/3pkKb7bj2eVQjNaHOGzYSf"
-    },
-    {
-      "added_at": "2024-06-14 01:00:00",
-      "album": {
-        "name": "Douwi Douwi",
-        "url": "https://open.spotify.com/album/17Zn5YkVV8L3sNpBDTS71K"
-      },
-      "artists": [
-        {
-          "name": "7liwa",
-          "url": "https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Douwi Douwi",
-      "url": "https://open.spotify.com/track/7wFJmDfeb7CtN8xAr4ftSV"
     },
     {
       "added_at": "2024-06-14 01:00:00",

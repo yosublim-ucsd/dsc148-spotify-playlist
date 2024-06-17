@@ -3061,6 +3061,24 @@
     },
     {
       "album": {
+        "name": "Love You the Most",
+        "url": "https://open.spotify.com/album/4pbTZ28exY6GZ6x3Hm5psZ"
+      },
+      "artists": [
+        {
+          "name": "Marc Scibilia",
+          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171928,
+      "name": "Love You the Most",
+      "url": "https://open.spotify.com/track/6I0b7U4mlURIEL7uiIxjhj"
+    },
+    {
+      "album": {
         "name": "The Tides",
         "url": "https://open.spotify.com/album/4L0K6IA83m6hrJNVgkmIKU"
       },
@@ -5956,7 +5974,7 @@
       ],
       "date_added": "2019-09-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-06-17",
       "duration_ms": 245840,
       "name": "Who Saved Who",
       "url": "https://open.spotify.com/track/3xQMRlwBgqvYWJX8TsOOgq"

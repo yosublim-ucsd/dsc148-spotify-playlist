@@ -1,6 +1,6 @@
 {
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Deb Never.",
-  "num_followers": 8781,
+  "num_followers": 8782,
   "original_name": "API Pride",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,22 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
+        "name": "whatever u like",
+        "url": "https://open.spotify.com/album/721LnudJW05TovLVLcSoMa"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "duration_ms": 200877,
+      "name": "whatever u like",
+      "url": "https://open.spotify.com/track/4tv72g5KnIy4XbyDBhEFgA"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/3EcOE2h7DHr5m6IaALejAs"
       },
@@ -259,38 +275,6 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Rules!",
-        "url": "https://open.spotify.com/album/0kk6iwrHZ2eoRyHXMFhwga"
-      },
-      "artists": [
-        {
-          "name": "Manila Luzon",
-          "url": "https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g"
-        }
-      ],
-      "duration_ms": 202389,
-      "name": "Robbed",
-      "url": "https://open.spotify.com/track/29IHIrE9eWpH8j6c3P10nq"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
-        "name": "whatever u like",
-        "url": "https://open.spotify.com/album/721LnudJW05TovLVLcSoMa"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        }
-      ],
-      "duration_ms": 200877,
-      "name": "whatever u like",
-      "url": "https://open.spotify.com/track/4tv72g5KnIy4XbyDBhEFgA"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
         "name": "Tweety",
         "url": "https://open.spotify.com/album/275j6uhDFzJkQZEaRcZZ0T"
       },
@@ -307,6 +291,22 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
+        "name": "Rules!",
+        "url": "https://open.spotify.com/album/0kk6iwrHZ2eoRyHXMFhwga"
+      },
+      "artists": [
+        {
+          "name": "Manila Luzon",
+          "url": "https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g"
+        }
+      ],
+      "duration_ms": 202389,
+      "name": "Robbed",
+      "url": "https://open.spotify.com/track/29IHIrE9eWpH8j6c3P10nq"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
         "name": "good juju : vol. 1",
         "url": "https://open.spotify.com/album/2JBGnfjeAuIK26Ysk3XlIS"
       },
@@ -319,22 +319,6 @@
       "duration_ms": 181424,
       "name": "Need Ya",
       "url": "https://open.spotify.com/track/7DdiwiiHRuqRZizeq6s1NM"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
-        "name": "What Happened, Happened",
-        "url": "https://open.spotify.com/album/38Vulf6o5aVnrQae85FmOZ"
-      },
-      "artists": [
-        {
-          "name": "Emily Vu",
-          "url": "https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS"
-        }
-      ],
-      "duration_ms": 184528,
-      "name": "What Happened, Happened",
-      "url": "https://open.spotify.com/track/2Ck8r31kURBqC7K2G9lLBo"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -403,6 +387,22 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
+        "name": "What Happened, Happened",
+        "url": "https://open.spotify.com/album/38Vulf6o5aVnrQae85FmOZ"
+      },
+      "artists": [
+        {
+          "name": "Emily Vu",
+          "url": "https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS"
+        }
+      ],
+      "duration_ms": 184528,
+      "name": "What Happened, Happened",
+      "url": "https://open.spotify.com/track/2Ck8r31kURBqC7K2G9lLBo"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
         "name": "K I'm Mortal",
         "url": "https://open.spotify.com/album/2qzYOiBrWiN5QTMCu8km9P"
       },
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/791zxJ2XcDy6Es5FEDU8xn"
-      },
-      "artists": [
-        {
-          "name": "LEADR",
-          "url": "https://open.spotify.com/artist/5MBtoGEv50nmq08tb3y38v"
-        }
-      ],
-      "duration_ms": 174295,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/2gU2Eg1PfmJMHtfIMxIMnK"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
         "name": "Round and Round (Bright Light Bright Light Remix)",
         "url": "https://open.spotify.com/album/3MX5f6IsfLSCvWHkjS11CD"
       },
@@ -467,6 +451,38 @@
       "duration_ms": 216842,
       "name": "Round and Round (Bright Light Bright Light Remix)",
       "url": "https://open.spotify.com/track/2OeJvSrwnM8fb64WJ4YUXC"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
+        "name": "Abide",
+        "url": "https://open.spotify.com/album/3s7Np4fVlWEsQv4R8b5IOO"
+      },
+      "artists": [
+        {
+          "name": "Summer C",
+          "url": "https://open.spotify.com/artist/4q0x2gtJstAX1i8B95hLO7"
+        }
+      ],
+      "duration_ms": 191684,
+      "name": "Abide",
+      "url": "https://open.spotify.com/track/5dBxM0ddTrg8VKEyM7BgTG"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/791zxJ2XcDy6Es5FEDU8xn"
+      },
+      "artists": [
+        {
+          "name": "LEADR",
+          "url": "https://open.spotify.com/artist/5MBtoGEv50nmq08tb3y38v"
+        }
+      ],
+      "duration_ms": 174295,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/2gU2Eg1PfmJMHtfIMxIMnK"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -499,22 +515,6 @@
       "duration_ms": 160226,
       "name": "out!",
       "url": "https://open.spotify.com/track/7BB8XTZKAuFkgQavowZUxN"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
-        "name": "Abide",
-        "url": "https://open.spotify.com/album/3s7Np4fVlWEsQv4R8b5IOO"
-      },
-      "artists": [
-        {
-          "name": "Summer C",
-          "url": "https://open.spotify.com/artist/4q0x2gtJstAX1i8B95hLO7"
-        }
-      ],
-      "duration_ms": 191684,
-      "name": "Abide",
-      "url": "https://open.spotify.com/track/5dBxM0ddTrg8VKEyM7BgTG"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
+        "name": "Kaitlin",
+        "url": "https://open.spotify.com/album/2ccdUnXqoL64PqdCi7AdjT"
+      },
+      "artists": [
+        {
+          "name": "NoSo",
+          "url": "https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o"
+        }
+      ],
+      "duration_ms": 263400,
+      "name": "Kaitlin",
+      "url": "https://open.spotify.com/track/2hIWxmZOcLmn4zYwLRaBYC"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
         "name": "Chance",
         "url": "https://open.spotify.com/album/5asOQyea3S0k6bgt2nTK9Y"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 230000,
       "name": "Boys Aside",
       "url": "https://open.spotify.com/track/2aqQYoZ3FuifdW29q1SO1s"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
-        "name": "Kaitlin",
-        "url": "https://open.spotify.com/album/2ccdUnXqoL64PqdCi7AdjT"
-      },
-      "artists": [
-        {
-          "name": "NoSo",
-          "url": "https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o"
-        }
-      ],
-      "duration_ms": 263400,
-      "name": "Kaitlin",
-      "url": "https://open.spotify.com/track/2hIWxmZOcLmn4zYwLRaBYC"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -731,18 +731,22 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Good Advice",
-        "url": "https://open.spotify.com/album/4azZB6gjS66sHkFaGx7RAy"
+        "name": "Open up Babe (Perry twins remix)",
+        "url": "https://open.spotify.com/album/3gRtkDFfm9vNXknawgocnI"
       },
       "artists": [
         {
-          "name": "khai dreams",
-          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+          "name": "Wils",
+          "url": "https://open.spotify.com/artist/4CVZoZcpNbLBtmK2IddbWn"
+        },
+        {
+          "name": "Perry Twins",
+          "url": "https://open.spotify.com/artist/7F125d4xYCuEndViJQmj1K"
         }
       ],
-      "duration_ms": 164295,
-      "name": "Good Advice",
-      "url": "https://open.spotify.com/track/4JVPw2DvZp4faUTHjfa4PM"
+      "duration_ms": 267000,
+      "name": "Open up Babe - Perry twins remix",
+      "url": "https://open.spotify.com/track/1S1Bg9s61Q4NDl8g6VWmOk"
     }
   ],
   "unique_name": "API Pride",

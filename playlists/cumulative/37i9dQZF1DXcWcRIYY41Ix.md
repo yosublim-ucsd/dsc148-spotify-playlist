@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Karmento y Bewis de la Rosa.
 
-613 songs - 1 day 12 hr 37 min
+614 songs - 1 day 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,6 +316,7 @@
 | [lo que siento](https://open.spotify.com/track/6cMql2rbxU8fKCDjNIdjBu) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [lo que siento](https://open.spotify.com/album/6DtlwcQChlzCGwjErEk8et) | 3:11 | 2023-01-20 | 2023-03-18 |
 | [lo\_divino](https://open.spotify.com/track/3cINNpglikeD4NAuTFMOaX) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [lo\_divino](https://open.spotify.com/album/2g6RJzn4rdlFwB3UgCX63A) | 3:21 | 2024-01-12 | 2024-02-17 |
 | [Lobo](https://open.spotify.com/track/7yRhEZ11EWwbHwIUQmxT49) | [Elena Gadel](https://open.spotify.com/artist/1xRDIbNubdwQ6WGevJWCHO) | [Lobo](https://open.spotify.com/album/2LOiM1ZumqvUE6Imy2AdwT) | 4:36 | 2023-03-02 | 2023-03-18 |
+| [Lobo](https://open.spotify.com/track/5S7SNJqC03c5D9WgG2Agr6) | [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY) | [Lobo](https://open.spotify.com/album/4d3I9khxaMn5J7RxbpBkJk) | 3:06 | 2024-06-14 |  |
 | [Los Ancestros](https://open.spotify.com/track/7epCtFajoM2z7QtbnY23W2) | [Lucio Mantel](https://open.spotify.com/artist/5kCJ9ht14oLO98WlBRfwyk), [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [Los Ancestros](https://open.spotify.com/album/2CUmklyaIJvfKBU65k5o24) | 4:10 | 2024-05-30 |  |
 | [Los Andes](https://open.spotify.com/track/6bfd8pclPiJJ0Iunlt50xQ) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Los Andes](https://open.spotify.com/album/46HToLQXsQFmePBjJlF07j) | 2:35 | 2022-07-22 | 2022-08-03 |
 | [Los Fugaces](https://open.spotify.com/track/1pmz5PiqPyhAWbRN5sSwpg) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Los Fugaces](https://open.spotify.com/album/25rWkoEU6iw4EBuvH7BrBr) | 3:28 | 2021-12-24 | 2022-05-24 |
@@ -510,7 +511,7 @@
 | [Si Entras Tú](https://open.spotify.com/track/6n2WRPkRDZzuijN5ugt7EL) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM) | [Si Entras Tú](https://open.spotify.com/album/4GsLOIVspA9gbCfGMCOZQc) | 2:39 | 2024-06-11 |  |
 | [Si llega el fin](https://open.spotify.com/track/1r1oclIVtc9FUiKxy4tX8u) | [Lou Cornago](https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v) | [Si llega el fin](https://open.spotify.com/album/6gymWg2EhGxMGyDhDGT7Ck) | 2:18 | 2024-01-05 | 2024-01-27 |
 | [Si te vas](https://open.spotify.com/track/7z2lbDCKutqY3TT5Oof84E) | [Paul Alone](https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE) | [Si te vas](https://open.spotify.com/album/6208RozH4lBLu94n6ih083) | 3:03 | 2024-01-12 | 2024-01-20 |
-| [Siembro](https://open.spotify.com/track/6ul1XHxB6IKQ4wCKSebTXk) | [Alvaro Ruiz](https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg), [Raquel Riba Rossy](https://open.spotify.com/artist/629uR7Xkvj3EDudnJ4Rybe) | [Siembro](https://open.spotify.com/album/5N1HdD5SThy4eh5Fpp7IAA) | 3:51 | 2021-12-24 |  |
+| [Siembro](https://open.spotify.com/track/6ul1XHxB6IKQ4wCKSebTXk) | [Alvaro Ruiz](https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg), [Raquel Riba Rossy](https://open.spotify.com/artist/629uR7Xkvj3EDudnJ4Rybe) | [Siembro](https://open.spotify.com/album/5N1HdD5SThy4eh5Fpp7IAA) | 3:51 | 2021-12-24 | 2024-06-17 |
 | [Siempre sale el sol en Barcelona \- Live Session Chez Xefo Art Gallery](https://open.spotify.com/track/6WPgSIwrJG8gSbkGEYQWo8) | [Luisa y el Mar](https://open.spotify.com/artist/1DtFgHhE0JUClAC5rOiZiC) | [Siempre sale el sol en Barcelona \(Live Session Chez Xefo Art Gallery\)](https://open.spotify.com/album/2qsM651C2i9MUZ819mNvSm) | 2:55 | 2023-06-23 |  |
 | [Silencio](https://open.spotify.com/track/2gjB9GgSZFlj0YwItEACpQ) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Salvavidas de hielo](https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0) | 3:27 | 2021-12-24 | 2022-05-13 |
 | [SN 2020Z](https://open.spotify.com/track/332M1uElwOFaCIm82QVF2U) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [SN 2020Z](https://open.spotify.com/album/0nzy45puRrqJHchb66A3uw) | 3:27 | 2024-03-15 |  |

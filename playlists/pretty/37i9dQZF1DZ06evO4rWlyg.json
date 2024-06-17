@@ -1,12 +1,12 @@
 {
-  "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 134278,
+  "description": "This is Bj\u00f6rk. Tutti i brani in un'unica playlist.",
+  "num_followers": 134300,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmuIAAAAAABpW7fzZLUi9diPTKk+3s1I",
+  "snapshot_id": "ZmzZgAAAAAA1UCE2tICzfOyYX9YLUMXO",
   "tracks": [
     {
       "added_at": null,
@@ -131,8 +131,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homogenic",
-        "url": "https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT"
+        "name": "J\u00f3ga",
+        "url": "https://open.spotify.com/album/3dGUvbnWtfcmXLXHtty0pG"
       },
       "artists": [
         {
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 312666,
-      "name": "Bachelorette",
-      "url": "https://open.spotify.com/track/6txguGr32i8SpgZ4KEKQQG"
+      "duration_ms": 305360,
+      "name": "J\u00f3ga",
+      "url": "https://open.spotify.com/track/1iTqAwKFKNRTcZX9Mtl1PZ"
     },
     {
       "added_at": null,
@@ -179,8 +179,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "J\u00f3ga",
-        "url": "https://open.spotify.com/album/3dGUvbnWtfcmXLXHtty0pG"
+        "name": "Homogenic",
+        "url": "https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT"
       },
       "artists": [
         {
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 305360,
-      "name": "J\u00f3ga",
-      "url": "https://open.spotify.com/track/1iTqAwKFKNRTcZX9Mtl1PZ"
+      "duration_ms": 312666,
+      "name": "Bachelorette",
+      "url": "https://open.spotify.com/track/6txguGr32i8SpgZ4KEKQQG"
     },
     {
       "added_at": null,
