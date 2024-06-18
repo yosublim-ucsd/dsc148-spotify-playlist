@@ -4,7 +4,7 @@
 
 > Groove to music from your Netflix Kids favorites! Cover: Thelma the Unicorn
 
-129 songs - 5 hr 18 min
+130 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Tyrannosaurus Rex](https://open.spotify.com/track/2tTNL53GjEEg9ah6g8Xc9J) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Dinosaurs Songs](https://open.spotify.com/album/2XTEsFKRewMuGEWqtOcAjW) | 1:22 | 2023-02-03 | 2024-04-19 |
 | [Tyrannosaurus Rex](https://open.spotify.com/track/5hAafNnf54qxm1jNX9nLZ0) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Dinosaurs Songs](https://open.spotify.com/album/6SOJ7P1HeZFSAyX6CXr5FK) | 1:22 | 2022-04-08 |  |
 | [Ultraluminary \(From the Netflix Film "Over the Moon"\)](https://open.spotify.com/track/5Yx7Cl7QZx80fx3hvESVB2) | [Phillipa Soo](https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 3:20 | 2022-04-08 |  |
+| [ULTRAMAN \- From The Netflix Film "Ultraman: Rising"](https://open.spotify.com/track/6qjUr0g56tRAWRdQ3IQYdL) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [ULTRAMAN \(From The Netflix Film "Ultraman: Rising"\)](https://open.spotify.com/album/7rZoGRmY7hcAlozzSEdjJH) | 3:24 | 2024-06-17 |  |
 | [Wake Up \(feat\. Madison Reyes\)](https://open.spotify.com/track/3gy83YfNaZOsAvkbVgD6IQ) | [Julie and the Phantoms Cast](https://open.spotify.com/artist/52OQXvCMAJ0zqE2ZQrBTqC), [Madison Reyes](https://open.spotify.com/artist/7zGcGkMtgpbkCKljWto3NQ) | [Julie and the Phantoms: Season 1 \(From the Netflix Original Series\)](https://open.spotify.com/album/3rxj1eHjamXQyJHLVPOpHm) | 3:37 | 2022-04-08 |  |
 | [We Are The Planets](https://open.spotify.com/track/3OQVXUIYVddmvvf8nnXopf) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Ask The StoryBots: Season 3 \(Music From The Netflix Original Series\)](https://open.spotify.com/album/6qNlSlebwkg2ZRq9W1obvj) | 1:40 | 2023-02-09 | 2024-04-19 |
 | [We Are The Planets](https://open.spotify.com/track/6T6reDGarkisz8OraafLRy) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Ask The StoryBots: Season 3 \(Music From The Netflix Original Series\)](https://open.spotify.com/album/51GT17yuHO7LjfxsCv5Ycl) | 1:41 | 2022-04-08 |  |

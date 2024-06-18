@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZufbpO1g3tw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZufbpO1g3tw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZufbpO1g3tw)
 
-### [Botaneando: Día del Padre ](https://open.spotify.com/playlist/37i9dQZF1DWZufbpO1g3tw)
+### [La Playlist Botanera](https://open.spotify.com/playlist/37i9dQZF1DWZufbpO1g3tw)
 
 > Aficionades que viven la intensidad de botanear ⚽️🌮🍻
 
-302 songs - 18 hr 39 min
+303 songs - 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Andar Conmigo](https://open.spotify.com/track/05iMQqncVBIm4AE26EvaTL) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Si](https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB) | 3:13 | 2024-05-24 |  |
 | [ANDO](https://open.spotify.com/track/4GvEuYAfJlICR2SpMDaBxQ) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Gittobeatz](https://open.spotify.com/artist/4rRwh9ghjocFABAwIwnunp) | [ÉNFASIS](https://open.spotify.com/album/3Yg6mB7aDyVFTZBMcJPG5B) | 2:52 | 2024-05-24 |  |
 | [Apasionadamente](https://open.spotify.com/track/22mVIMbschh7l57uvZuKma) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Aguerrida](https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6) | 3:00 | 2021-10-20 | 2023-05-10 |
-| [Aquí Mando Yo](https://open.spotify.com/track/777fe7EyoQ7vatcRRHbTmO) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Aquí Mando Yo](https://open.spotify.com/album/3Hn6SB2nMJulWtrRdr5Bnk) | 3:36 | 2024-06-14 |  |
+| [Aquí Mando Yo](https://open.spotify.com/track/777fe7EyoQ7vatcRRHbTmO) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Aquí Mando Yo](https://open.spotify.com/album/3Hn6SB2nMJulWtrRdr5Bnk) | 3:36 | 2024-06-14 | 2024-06-18 |
+| [Aquí Mando Yo](https://open.spotify.com/track/3Kv0GCIjO52qkUj1K9PqZW) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Aquí Mando Yo](https://open.spotify.com/album/0UT6sSqUR1QMQ7a1vt9ROP) | 3:37 | 2024-06-17 |  |
 | [ARRANCÁRMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCÁRMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 | 2023-11-22 |  |
 | [Ateo](https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Ateo](https://open.spotify.com/album/6Re7sviVustR53KeArspwK) | 3:59 | 2021-10-20 | 2023-11-23 |
 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 | 2021-10-20 | 2023-11-23 |

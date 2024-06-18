@@ -4,7 +4,7 @@
 
 > Get nostalgic with all the summer hits and bangers you'll need\. From Beyoncé, Alicia Keys, John Legend, Miley Cyrus, P!nk and many more....
 
-356 songs - 22 hr 5 min
+357 songs - 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Animals](https://open.spotify.com/track/16pwlVsypm4aDKMhXdOuXg) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V \(Deluxe\)](https://open.spotify.com/album/4KXLjIEas8MTwwX3xpmAdC) | 3:51 | 2023-09-12 |  |
 | [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 | 2020-10-20\* |  |
 | [Another Love \(Tom Odell\) \- slowed down](https://open.spotify.com/track/3LO3fkXAyzyhKjfx0IBhCh) | [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl) | [another love / heal \- slowed down + sped up](https://open.spotify.com/album/2KcysSqOaNpjk5tzQVhkre) | 4:44 | 2023-02-16 | 2023-09-13 |
-| [Another Love \(Zwette Remix\) \[Radio Edit\]](https://open.spotify.com/track/0AhrgQlnppyE66RRi3eD25) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [Zwette](https://open.spotify.com/artist/6J2749jPHYhAZUq79rsNi0) | [Ultra Dance](https://open.spotify.com/album/4GIaim1dlXAaPVPi8IRZzM) | 3:36 | 2023-11-09 |  |
+| [Another Love \(Zwette Remix\) \[Radio Edit\]](https://open.spotify.com/track/0AhrgQlnppyE66RRi3eD25) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [Zwette](https://open.spotify.com/artist/6J2749jPHYhAZUq79rsNi0) | [Ultra Dance](https://open.spotify.com/album/4GIaim1dlXAaPVPi8IRZzM) | 3:36 | 2023-11-09 | 2024-06-18 |
 | [Another Love \- Zwette Edit](https://open.spotify.com/track/5snyhxAh55A2wlNRH7VVZJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [Zwette](https://open.spotify.com/artist/6J2749jPHYhAZUq79rsNi0) | [Another Love \(Zwette Edit\)](https://open.spotify.com/album/3Bi2XO3N9AL5f7VvVmyVna) | 6:34 | 2021-04-17 | 2023-04-04 |
 | [Atlantis](https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Tell Me It's Real \(Expanded Edition\)](https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt) | 3:49 | 2021-08-26 | 2023-11-10 |
 | [Ayo](https://open.spotify.com/track/0k6DnZMLoEUH8NGD5zh2SE) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Fan of A Fan The Album \(Expanded Edition\)](https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G) | 3:45 | 2020-10-20\* | 2021-07-01 |
@@ -333,6 +333,7 @@
 | [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/track/20xeS3akpiqflyfnHfqe3g) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Happy Songs](https://open.spotify.com/album/3dYBrvPnWpycwiclPq9Qlf) | 4:30 | 2020-10-20\* | 2021-03-06 |
 | [Wait](https://open.spotify.com/track/6AvfZXpbb6r35DfF7gHPRq) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH) | 3:10 | 2023-09-12 |  |
 | [Waka Waka \(This Time for Africa\) \[The Official 2010 FIFA World Cup \(TM\) Song\] \(feat\. Freshlyground\)](https://open.spotify.com/track/2Cd9iWfcOpGDHLz6tVA3G4) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Waka Waka \(This Time for Africa\) \[The Official 2010 FIFA World Cup \(TM\) Song\] \(feat\. Freshlyground\)](https://open.spotify.com/album/3pzQF7YgU1f66pBayA8uHv) | 3:22 | 2021-03-06 |  |
+| [Waka Waka \(This Time for Africa\) \[The Official 2010 FIFA World Cup \(TM\) Song\] \(feat\. Freshlyground\)](https://open.spotify.com/track/6bNB5gxFX6Q87DbQWb8OWZ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Listen Up! The Official 2010 FIFA World Cup Album](https://open.spotify.com/album/0CKqyf7ptIwn4EtOV8nddm) | 3:22 | 2024-06-17 |  |
 | [Wake Me Up](https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0) | 4:07 | 2023-09-12 |  |
 | [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 | 2023-09-12 |  |
 | [Want to Want Me](https://open.spotify.com/track/7oGZAicScQt96OAW4AruYy) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Everything Is 4](https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI) | 3:27 | 2023-09-12 |  |

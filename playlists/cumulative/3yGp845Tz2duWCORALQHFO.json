@@ -907,6 +907,24 @@
     },
     {
       "album": {
+        "name": "Cream",
+        "url": "https://open.spotify.com/album/2j9eNPsHPQKJzmXNQ0aAyh"
+      },
+      "artists": [
+        {
+          "name": "Steering Will",
+          "url": "https://open.spotify.com/artist/4mzymqidYbaWR93Chsm8Xy"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310647,
+      "name": "Cream",
+      "url": "https://open.spotify.com/track/5mdwk9BIUDh2CvWdqfv7Qw"
+    },
+    {
+      "album": {
         "name": "Crossed the Line (All the Things)",
         "url": "https://open.spotify.com/album/0obglgVf7TdYMja8vf6V1m"
       },
@@ -1511,6 +1529,24 @@
     },
     {
       "album": {
+        "name": "For The Night",
+        "url": "https://open.spotify.com/album/4adDNBl8ZI2R3at8fV33bq"
+      },
+      "artists": [
+        {
+          "name": "Bone Nest",
+          "url": "https://open.spotify.com/artist/0xWjVpyUgTeXnYWScqBEdq"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210139,
+      "name": "For The Night",
+      "url": "https://open.spotify.com/track/7ablcOQcnJHjOfrF7AwUYe"
+    },
+    {
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/3AMig0sZ9DxelenhRrM0KQ"
       },
@@ -2112,6 +2148,24 @@
       "duration_ms": 232999,
       "name": "It Isn't Easy (feat. EKKSTACY)",
       "url": "https://open.spotify.com/track/2QAg6Hu5MJAafBSbtdgwmo"
+    },
+    {
+      "album": {
+        "name": "It Started With a Dream",
+        "url": "https://open.spotify.com/album/5FMPyYKM6pmnxGIsW1zqxQ"
+      },
+      "artists": [
+        {
+          "name": "FHONO",
+          "url": "https://open.spotify.com/artist/5E3W9cit6Ec5ORdJvGy3k3"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "It Started With a Dream",
+      "url": "https://open.spotify.com/track/265WL9WryTbqm9K9Agq2ne"
     },
     {
       "album": {
@@ -2820,6 +2874,24 @@
       "duration_ms": 113595,
       "name": "Man In Finance (with David Guetta)",
       "url": "https://open.spotify.com/track/5ZKnajvQQbMJeUhqilzi5T"
+    },
+    {
+      "album": {
+        "name": "Marlboro Man",
+        "url": "https://open.spotify.com/album/0VcVOHmCyjFtbGuYu649fr"
+      },
+      "artists": [
+        {
+          "name": "Kaleb Sanders",
+          "url": "https://open.spotify.com/artist/4hsCKTS1M5pg7uIJuotsDB"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200420,
+      "name": "Marlboro Man",
+      "url": "https://open.spotify.com/track/3Oh65kNgVezqIUCHd7EKiQ"
     },
     {
       "album": {
@@ -4697,6 +4769,24 @@
     },
     {
       "album": {
+        "name": "Take Me Higher",
+        "url": "https://open.spotify.com/album/6ZAJdlXE9dpcgDmsJTdxGX"
+      },
+      "artists": [
+        {
+          "name": "Rave Jesus",
+          "url": "https://open.spotify.com/artist/3mPHVEre3DiAHKuOCBFP8D"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193255,
+      "name": "Take Me Higher",
+      "url": "https://open.spotify.com/track/6xTv7ao4KotZoZIKF7sSpH"
+    },
+    {
+      "album": {
         "name": "Take Me There",
         "url": "https://open.spotify.com/album/5MUu5GYpjKwC7IDXjYIGWx"
       },
@@ -4939,7 +5029,7 @@
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 261469,
+      "duration_ms": 256422,
       "name": "Till the Sun Goes Down",
       "url": "https://open.spotify.com/track/0cMKPeSoYyMOrnlMUKXE47"
     },

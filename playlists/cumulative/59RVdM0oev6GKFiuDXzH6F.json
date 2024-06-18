@@ -8403,6 +8403,28 @@
     },
     {
       "album": {
+        "name": "Naughty",
+        "url": "https://open.spotify.com/album/5IWGUvSPVF8mnbfHyJ6s2a"
+      },
+      "artists": [
+        {
+          "name": "Tom Budin",
+          "url": "https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt"
+        },
+        {
+          "name": "Rydz",
+          "url": "https://open.spotify.com/artist/4WoYfeD73d5vx3UE0rsJnC"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154173,
+      "name": "Naughty",
+      "url": "https://open.spotify.com/track/56HE8zzcJZAF3OZUgCBmQB"
+    },
+    {
+      "album": {
         "name": "Need You Tonight",
         "url": "https://open.spotify.com/album/22dSYgnOpPTX7nlNKnBM7j"
       },

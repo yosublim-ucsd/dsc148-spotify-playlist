@@ -1,6 +1,6 @@
 {
   "description": "Break a sweat with this Zumba-inspired playlist! Find a class at Zumba.com ",
-  "num_followers": 1793611,
+  "num_followers": 1793582,
   "original_name": "Zumba\u00ae Beats",
   "owner": {
     "name": "Spotify",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2024-06-07 18:59:40",
       "album": {
-        "name": "Mi Otra Mitad (Remix)",
-        "url": "https://open.spotify.com/album/668u02QByaBqOr2YiJE0hW"
-      },
-      "artists": [
-        {
-          "name": "Elio Leiros",
-          "url": "https://open.spotify.com/artist/3oOY07QqOUrLSEJ4AOv9rz"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 194885,
-      "name": "Mi Otra Mitad (Remix)",
-      "url": "https://open.spotify.com/track/5nkVhLA1qnWbH1QN1aR6lG"
-    },
-    {
-      "added_at": "2024-06-07 18:59:40",
-      "album": {
         "name": "BAILAR CONTIGO",
         "url": "https://open.spotify.com/album/0WzsZzwIw15yVvkBHx3XRG"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 223352,
       "name": "BAILAR CONTIGO",
       "url": "https://open.spotify.com/track/2GdHCkeAycTJ1RgMlptaRE"
+    },
+    {
+      "added_at": "2024-06-07 18:59:40",
+      "album": {
+        "name": "Mi Otra Mitad (Remix)",
+        "url": "https://open.spotify.com/album/668u02QByaBqOr2YiJE0hW"
+      },
+      "artists": [
+        {
+          "name": "Elio Leiros",
+          "url": "https://open.spotify.com/artist/3oOY07QqOUrLSEJ4AOv9rz"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 194885,
+      "name": "Mi Otra Mitad (Remix)",
+      "url": "https://open.spotify.com/track/5nkVhLA1qnWbH1QN1aR6lG"
     },
     {
       "added_at": "2024-06-07 18:59:40",

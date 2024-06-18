@@ -1481,6 +1481,24 @@
     },
     {
       "album": {
+        "name": "Chicago Skyline",
+        "url": "https://open.spotify.com/album/2Ms75YNPCMcEGhhwLoQSBf"
+      },
+      "artists": [
+        {
+          "name": "Ron Bladworth",
+          "url": "https://open.spotify.com/artist/0BqBNOQfrBTClJMq6n03Mf"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164381,
+      "name": "Chicago Skyline",
+      "url": "https://open.spotify.com/track/0AvO7DJa9amyACsz6SyaI0"
+    },
+    {
+      "album": {
         "name": "Chimes",
         "url": "https://open.spotify.com/album/2n04MCWQqg1W7hXDVa5pzi"
       },
@@ -3868,7 +3886,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 286500,
       "name": "I'm Glad There Is You",
       "url": "https://open.spotify.com/track/0wAqaMAcQhd9Jk78XgqHWs"
@@ -4469,6 +4487,24 @@
     },
     {
       "album": {
+        "name": "Jazzy Stroll",
+        "url": "https://open.spotify.com/album/7jgvCiU5LN0fQSOg3fo05c"
+      },
+      "artists": [
+        {
+          "name": "Kim Winther",
+          "url": "https://open.spotify.com/artist/7FWhfI8n42MsvBQaXphr3N"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154961,
+      "name": "Jazzy Stroll",
+      "url": "https://open.spotify.com/track/0zBLm2v0hnCxIxuPmYYXs6"
+    },
+    {
+      "album": {
         "name": "Journeying",
         "url": "https://open.spotify.com/album/2wn9Ltw3roFXfB1c0XFkQe"
       },
@@ -4480,7 +4516,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 186318,
       "name": "Journeying",
       "url": "https://open.spotify.com/track/1DfdEGpdA0fELrmIsPAfuF"
@@ -4876,7 +4912,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 169066,
       "name": "Let's Get Away",
       "url": "https://open.spotify.com/track/3sE2c9m6eByRjMBDvWMs2c"
@@ -5866,7 +5902,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 216144,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/3obd7EnVJVaSLSqjBf0BZl"
@@ -6658,7 +6694,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 196250,
       "name": "P.S. I Love You",
       "url": "https://open.spotify.com/track/2pmeZ067WnFhjPc6zZS3xy"
@@ -6712,7 +6748,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 193000,
       "name": "Peace",
       "url": "https://open.spotify.com/track/5TbGgNC1yyV9NGEQqA9myW"

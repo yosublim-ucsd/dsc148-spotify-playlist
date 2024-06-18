@@ -2,7 +2,7 @@
 
 ### [This Is Britney Spears](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1bSHqE)
 
-> This is Britney Spears\. The essential tracks, all in one playlist.
+> This Is Britney Spears\. Los temas esenciales, todos en una lista.
 
 69 songs - 4 hr 10 min
 

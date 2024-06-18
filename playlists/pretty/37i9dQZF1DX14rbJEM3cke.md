@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 
 > New Rock & Alt driving the current\. Cover: Lenny Kravitz
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,514 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,534 likes - 77 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,15 +58,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 | 48 | [Everyone I please hates me](https://open.spotify.com/track/1KaZWvFJELretod1Gk98nS) | [JonoJono](https://open.spotify.com/artist/0HPzKByIKi4qqSgS3gc26q) | [I'm cool...I guess](https://open.spotify.com/album/5duNYF5T14CMxB4V3ps9lA) | 4:44 |
 | 49 | [Silence](https://open.spotify.com/track/56KHcZ1DEkj3ixRCoxOean) | [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r) | [Silence](https://open.spotify.com/album/439nkD5urLMoeNQfkIEEYx) | 2:20 |
 | 50 | [Cancer Culture](https://open.spotify.com/track/516AojuldUfpp7HCk1CIA0) | [Post Profit](https://open.spotify.com/artist/0nLFDUWGeYyJ88FNXnx4Xg) | [Cancer Culture](https://open.spotify.com/album/6NFbxxTMWwClMqD899KnBO) | 3:13 |
-| 51 | [Jimmy Neutron](https://open.spotify.com/track/2nz67XVT2Ir9Y4YT8QM8sZ) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Save The Baby](https://open.spotify.com/album/04MxjBwa4oIgWxBlu4iS14) | 3:51 |
-| 52 | [All Eyes On You](https://open.spotify.com/track/0PCxjGxmj0q3b3wpYZAgWe) | [Buggin](https://open.spotify.com/artist/3cMV6gZTWyfJZCaGl2eZBJ) | [Concrete Cowboys](https://open.spotify.com/album/7IBJilbVkpJYBHVZDty26c) | 1:32 |
-| 53 | [Cherry Blue Intention](https://open.spotify.com/track/2JrozyGS7r75L39rt3xoGx) | [Special Interest](https://open.spotify.com/artist/2CYTLJOt91YLe1JLStFu6m) | [Endure](https://open.spotify.com/album/7EU4Jf2J97Iamh3lwHCHy9) | 3:23 |
-| 54 | [BACKSTABBER](https://open.spotify.com/track/6aUOOz8yi26EOEy7ChtaNm) | [Ergo, Bria](https://open.spotify.com/artist/0AF9HrL08aOaZPsIiO8GmA) | [Change, Change, Change](https://open.spotify.com/album/6yi6vnoFBME61c12lCWDJR) | 3:08 |
-| 55 | [Wait and Bleed \- Spotify Singles](https://open.spotify.com/track/1BDUdn6OmlJ9oR9XpSxgNR) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a) | [Spotify Singles](https://open.spotify.com/album/6ZACt8yCJS2jPAlwspSMaO) | 2:35 |
-| 56 | [Tunnel Vision](https://open.spotify.com/track/0RxvS6KLWG0SYqQJnhHIpM) | [Jesus Piece](https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR) | [Tunnel Vision](https://open.spotify.com/album/1GZ2py8wHv4xPTfTFmlfmz) | 3:22 |
-| 57 | [I See Walking Caskets](https://open.spotify.com/track/6fipbTytF7EemCZiutVtOl) | [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF), [Tim Randolph](https://open.spotify.com/artist/5uVOiAmUu3bAnxORJDOFbs) | [I See Walking Caskets](https://open.spotify.com/album/1vvaWC0ov1lC4jwNTJJm99) | 2:01 |
-| 58 | [Elephant](https://open.spotify.com/track/31E2QPxSDBf0PxfRClagj6) | [M.A.G.S.](https://open.spotify.com/artist/1EEbOYIZFHRuGEgL39cN3s) | [Destroyer](https://open.spotify.com/album/0iVXfI7KbWDPcenBT2PUyC) | 3:41 |
-| 59 | [Outta My Mind](https://open.spotify.com/track/20Xj7F8TKGEmDbAsbVGmav) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Outta My Mind](https://open.spotify.com/album/0zFmBki2eFR3QZEgqKZHdd) | 2:45 |
+| 51 | [All Eyes On You](https://open.spotify.com/track/0PCxjGxmj0q3b3wpYZAgWe) | [Buggin](https://open.spotify.com/artist/3cMV6gZTWyfJZCaGl2eZBJ) | [Concrete Cowboys](https://open.spotify.com/album/7IBJilbVkpJYBHVZDty26c) | 1:32 |
+| 52 | [Cherry Blue Intention](https://open.spotify.com/track/2JrozyGS7r75L39rt3xoGx) | [Special Interest](https://open.spotify.com/artist/2CYTLJOt91YLe1JLStFu6m) | [Endure](https://open.spotify.com/album/7EU4Jf2J97Iamh3lwHCHy9) | 3:23 |
+| 53 | [BACKSTABBER](https://open.spotify.com/track/6aUOOz8yi26EOEy7ChtaNm) | [Ergo, Bria](https://open.spotify.com/artist/0AF9HrL08aOaZPsIiO8GmA) | [Change, Change, Change](https://open.spotify.com/album/6yi6vnoFBME61c12lCWDJR) | 3:08 |
+| 54 | [Wait and Bleed \- Spotify Singles](https://open.spotify.com/track/1BDUdn6OmlJ9oR9XpSxgNR) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a) | [Spotify Singles](https://open.spotify.com/album/6ZACt8yCJS2jPAlwspSMaO) | 2:35 |
+| 55 | [Tunnel Vision](https://open.spotify.com/track/0RxvS6KLWG0SYqQJnhHIpM) | [Jesus Piece](https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR) | [Tunnel Vision](https://open.spotify.com/album/1GZ2py8wHv4xPTfTFmlfmz) | 3:22 |
+| 56 | [I See Walking Caskets](https://open.spotify.com/track/6fipbTytF7EemCZiutVtOl) | [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF), [Tim Randolph](https://open.spotify.com/artist/5uVOiAmUu3bAnxORJDOFbs) | [I See Walking Caskets](https://open.spotify.com/album/1vvaWC0ov1lC4jwNTJJm99) | 2:01 |
+| 57 | [Elephant](https://open.spotify.com/track/31E2QPxSDBf0PxfRClagj6) | [M.A.G.S.](https://open.spotify.com/artist/1EEbOYIZFHRuGEgL39cN3s) | [Destroyer](https://open.spotify.com/album/0iVXfI7KbWDPcenBT2PUyC) | 3:41 |
+| 58 | [Outta My Mind](https://open.spotify.com/track/20Xj7F8TKGEmDbAsbVGmav) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Outta My Mind](https://open.spotify.com/album/0zFmBki2eFR3QZEgqKZHdd) | 2:45 |
+| 59 | [Change](https://open.spotify.com/track/2LP4LllG0k6nSvAtbe60Xr) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Change](https://open.spotify.com/album/4fqQu9B3x8EwknltlbXv83) | 3:32 |
 | 60 | [ETA2 \(feat\. Paris Texas\)](https://open.spotify.com/track/6ceM12zLnXEBQ7JrF3rprq) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM), [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [ETA2 \(feat\. Paris Texas\)](https://open.spotify.com/album/0ULka9xARlH01Pv5ewup22) | 2:09 |
 | 61 | [Alone In December](https://open.spotify.com/track/2hHLMZd2Jwg3ytJGxpN40m) | [Hello Yello](https://open.spotify.com/artist/7qh0Fzuz79iruogSwYTY3G) | [Alone In December](https://open.spotify.com/album/25DQdkYKZ6gA3MU3jEbUDw) | 2:50 |
 | 62 | [Clique, Boom](https://open.spotify.com/track/5rWy99nNNONycsObYOMzHx) | [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [Are We There yet?](https://open.spotify.com/album/4EhXfx3WlNuUYsefNjrvUv) | 2:33 |
@@ -77,11 +77,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 | 67 | [So Sentimental](https://open.spotify.com/track/0e6cllU5p2HDCFm2cyKSai) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [So Sentimental](https://open.spotify.com/album/2n6RlkptiwMVnkRYUIpFUF) | 2:29 |
 | 68 | [Sitting on Ice](https://open.spotify.com/track/6RYRFuYDMyJIzmzLprp9rZ) | [psykhi](https://open.spotify.com/artist/6Jv3pqZlwHy3RlsfdBGbRc) | [Sitting on Ice](https://open.spotify.com/album/1YN7nOQ8g1n4VvHDrMVs60) | 2:59 |
 | 69 | [Body Language](https://open.spotify.com/track/45t5U9tRXXYjp40w4PZpgU) | [Mint Green](https://open.spotify.com/artist/5ivuVlLA09RcBnLFkOza7C) | [All Girls Go to Heaven](https://open.spotify.com/album/0dU3VxFjynVOH4jjv7CySV) | 4:07 |
-| 70 | [try again](https://open.spotify.com/track/1MyG8JxwY3hosoRPgpuWJ1) | [Cam Kahin](https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw) | [WHEN IT'S ALL OVER](https://open.spotify.com/album/77ae55sz3o6xw9kiLBH8Yb) | 4:14 |
-| 71 | [FINALLY SOBER \(ANGELS CALLING\)](https://open.spotify.com/track/2PzygCxvCYzsIyc50VStxD) | [Benjamin Carter](https://open.spotify.com/artist/2mN6M9Kde408WNk0YrHnQn) | [FINALLY SOBER \(ANGELS CALLING\)](https://open.spotify.com/album/6E0GwKl75NuFkeh6WoFI03) | 3:07 |
-| 72 | [Ours](https://open.spotify.com/track/1B7XSl075FcGoHjnHMoiIK) | [Oarts](https://open.spotify.com/artist/2rFOTt38op2IreMwRrLc2f) | [Ours](https://open.spotify.com/album/17mEEi35ueNfguWoDRt8Tb) | 4:13 |
-| 73 | [Red Is My Favorite Color](https://open.spotify.com/track/3VWAcQuJUg4MaxDJFylZ4i) | [JULES IS DEAD](https://open.spotify.com/artist/5inrtHsPByV845LcC1mDmM) | [Red Is My Favorite Color](https://open.spotify.com/album/45YaDxH88ruPMKjFvu6ozR) | 3:18 |
-| 74 | [Vegas Days](https://open.spotify.com/track/2GihXKy7Y9dF3JEs33p4db) | [Zhariah](https://open.spotify.com/artist/1acX2jfBZ38KLMwFh3ldm7) | [Vegas Days](https://open.spotify.com/album/3iDz7wS8M2d2rZDSoRKqxj) | 3:27 |
-| 75 | [Fight 4 luv](https://open.spotify.com/track/2uP2DSCbBr8vXo5PWeYHNO) | [Dimitri Miller](https://open.spotify.com/artist/2ZKmcBDtaUAUMnNbCvNdhC) | [Bro...it's not that deep](https://open.spotify.com/album/4CDRjB3gXtisl1KinHU7f9) | 2:54 |
+| 70 | [dayz gone](https://open.spotify.com/track/7smNyoh7fzczIYUOAoM4uJ) | [CLIFFDIVER](https://open.spotify.com/artist/3yYFfLWWw90qPAloqOGM7x) | [dayz gone / black lodge breakfast burrito \(limited time only\)](https://open.spotify.com/album/4RgMjUyuNFO9f1llm5UeMS) | 3:11 |
+| 71 | [try again](https://open.spotify.com/track/1MyG8JxwY3hosoRPgpuWJ1) | [Cam Kahin](https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw) | [WHEN IT'S ALL OVER](https://open.spotify.com/album/77ae55sz3o6xw9kiLBH8Yb) | 4:14 |
+| 72 | [FINALLY SOBER \(ANGELS CALLING\)](https://open.spotify.com/track/2PzygCxvCYzsIyc50VStxD) | [Benjamin Carter](https://open.spotify.com/artist/2mN6M9Kde408WNk0YrHnQn) | [FINALLY SOBER \(ANGELS CALLING\)](https://open.spotify.com/album/6E0GwKl75NuFkeh6WoFI03) | 3:07 |
+| 73 | [Ours](https://open.spotify.com/track/1B7XSl075FcGoHjnHMoiIK) | [Oarts](https://open.spotify.com/artist/2rFOTt38op2IreMwRrLc2f) | [Ours](https://open.spotify.com/album/17mEEi35ueNfguWoDRt8Tb) | 4:13 |
+| 74 | [Red Is My Favorite Color](https://open.spotify.com/track/3VWAcQuJUg4MaxDJFylZ4i) | [JULES IS DEAD](https://open.spotify.com/artist/5inrtHsPByV845LcC1mDmM) | [Red Is My Favorite Color](https://open.spotify.com/album/45YaDxH88ruPMKjFvu6ozR) | 3:18 |
+| 75 | [Vegas Days](https://open.spotify.com/track/2GihXKy7Y9dF3JEs33p4db) | [Zhariah](https://open.spotify.com/artist/1acX2jfBZ38KLMwFh3ldm7) | [Vegas Days](https://open.spotify.com/album/3iDz7wS8M2d2rZDSoRKqxj) | 3:27 |
+| 76 | [Fight 4 luv](https://open.spotify.com/track/2uP2DSCbBr8vXo5PWeYHNO) | [Dimitri Miller](https://open.spotify.com/artist/2ZKmcBDtaUAUMnNbCvNdhC) | [Bro...it's not that deep](https://open.spotify.com/album/4CDRjB3gXtisl1KinHU7f9) | 2:54 |
+| 77 | [YOU'RE SO POLITE](https://open.spotify.com/track/1S2QiFXMbfFENSZ9aSOBRZ) | [FISHLORD](https://open.spotify.com/artist/1Hv9p9zMYy3gc2VWQfK5gg) | [YOU LOOK LIKE YOU TREAT YOUR DOGS LIKE PEOPLE](https://open.spotify.com/album/5UV9GkDE8P00zLyBMloD2g) | 1:58 |
 
-Snapshot ID: `ZlpVUwAAAADktSTyUFUYlHbpboFoE99u`
+Snapshot ID: `ZnCqqAAAAAAnPwd4VbrVrbKAbam4l9CE`

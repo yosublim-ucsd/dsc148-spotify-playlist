@@ -4,7 +4,7 @@
 
 > De nieuwste Nederlandse pop! Cover: Emma Heesters & Rolf Sanchez
 
-620 songs - 1 day 6 hr 1 min
+621 songs - 1 day 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,7 @@
 | [Eloise](https://open.spotify.com/track/3QGIkkjhRIhRwanFXkenW9) | [Nils](https://open.spotify.com/artist/2m8UpPHNuamk6f8mgNHyU7) | [Eloise](https://open.spotify.com/album/6wCab0sEdCH02C5LgY9c4q) | 2:14 | 2024-04-11 |  |
 | [Emiliana \- Mashup](https://open.spotify.com/track/19hNwhS9vYF4ITIDb3jHfp) | [Younes](https://open.spotify.com/artist/2ftVjcrQgFBQ7JMkVX6wVw), [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Emiliana \(Mashup\)](https://open.spotify.com/album/6kxTmTYdpLQXCnSffJbgFk) | 3:48 | 2023-04-27 | 2023-08-25 |
 | [Emotieloos](https://open.spotify.com/track/7yHSLU0G7GSaBv1vqmmUX7) | [BEAU](https://open.spotify.com/artist/3sLVXD6W3m1cTT2uBWTVWt), [Purp Sagir](https://open.spotify.com/artist/1xcx9BR9EMM80E0LGvTTkJ), [Jerry](https://open.spotify.com/artist/0kBsWW34jA4aNzn2xuQNE0) | [Emotieloos](https://open.spotify.com/album/0gspBGHDmPpfV0yxBu5U4H) | 3:06 | 2023-05-18 | 2023-08-25 |
-| [Entourage](https://open.spotify.com/track/48kxfGK5XbO1eW8Cf4Vil7) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Entourage](https://open.spotify.com/album/3QuhArgaKaAgzXoh6Iggue) | 2:09 | 2024-03-14 |  |
+| [Entourage](https://open.spotify.com/track/48kxfGK5XbO1eW8Cf4Vil7) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Entourage](https://open.spotify.com/album/3QuhArgaKaAgzXoh6Iggue) | 2:09 | 2024-03-14 | 2024-06-18 |
 | [Er Was Eens Een Meid](https://open.spotify.com/track/128TSKhbp925wwRpJksRXH) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Er Was Eens Een Meid](https://open.spotify.com/album/3fO8TSTjkapJpQU4xKgahE) | 2:56 | 2023-03-30 | 2023-05-26 |
 | [Even Vergeten](https://open.spotify.com/track/1aCe30IitJK7xMjitBHOrJ) | [Loen](https://open.spotify.com/artist/4xz8GW1ZE8go3EZKeT5ZHp) | [Even Vergeten](https://open.spotify.com/album/4DpkzyFHJGrfoee5CcpJfu) | 2:50 | 2023-06-15 | 2023-06-30 |
 | [Fallin](https://open.spotify.com/track/2rVUddzICzXAXelpLVvCF4) | [Roets](https://open.spotify.com/artist/3K0u138EjCuhbWEwUnGwmu) | [Ergens In Mijn Hoofd](https://open.spotify.com/album/5SLGlNJEsUCQTruDSCLZZr) | 3:14 | 2024-01-11 | 2024-02-09 |
@@ -233,6 +233,7 @@
 | [Het Eind](https://open.spotify.com/track/2umHBbVBhktAVcU5U6L2BY) | [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx) | [Het Eind](https://open.spotify.com/album/2IsYJShE9eFjUwvkVuIOrG) | 2:25 | 2023-02-23 | 2023-06-16 |
 | [Het Feest Is Al Voorbij](https://open.spotify.com/track/79L1CzU84gFrFIqriFu6os) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Alles Smaakt Beter Met Prik](https://open.spotify.com/album/6QXgdZ5XkMOuQmRpv0KIo0) | 3:19 | 2023-03-30 | 2023-06-02 |
 | [Het Gaat Niet Meer](https://open.spotify.com/track/15QecetmQsVjqqB6pkmaBG) | [Giorgio Sanches](https://open.spotify.com/artist/4czBYH5Cx0BFCXixmMsgyU) | [Het Gaat Niet Meer](https://open.spotify.com/album/6maAcQQlUQE5Ns4JXA5OYf) | 2:36 | 2023-05-18 | 2023-09-08 |
+| [Het Geluid Van Stilte](https://open.spotify.com/track/7M3Ep9kaUWHi7CfXcKSykz) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Het Geluid Van Stilte](https://open.spotify.com/album/4vKBjBPUUBmQSTYtouAIFH) | 2:22 | 2024-06-17 |  |
 | [Het Heeft Zo Moeten Zijn](https://open.spotify.com/track/2vEIeP2yzMbijx7o27YT39) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Het Heeft Zo Moeten Zijn](https://open.spotify.com/album/3Zm4rS2BrqDniIQxHWy8kE) | 3:42 | 2023-07-07 | 2023-10-13 |
 | [Het Huis Van Onze Liefde](https://open.spotify.com/track/74v7jNoqbp5S9k1F01eoNd) | [Mathilde Bloom](https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM) | [Het Huis Van Onze Liefde](https://open.spotify.com/album/6cIj1dMRQaBxVIWRX3A1P0) | 2:53 | 2024-02-08 | 2024-03-08 |
 | [Het Is Oké](https://open.spotify.com/track/7eNPGRuvBe9QIMCg8iADqM) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Het Is Oké](https://open.spotify.com/album/20mUdY2uXTDQN9TglefuWu) | 2:34 | 2023-05-26 | 2023-09-15 |

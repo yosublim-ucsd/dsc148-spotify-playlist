@@ -4,7 +4,7 @@
 
 > Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover: <a href="spotify:artist:5tYqFEuFELxnJZgGmmsfSh">Catz 'n Dogz</a>
 
-231 songs - 13 hr 1 min
+234 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Czar](https://open.spotify.com/track/2sbSjNpFbHpVvgiJkDOA03) | [Antonina](https://open.spotify.com/artist/0kG8pgFRDYXphEkcRTReNS) | [Czar](https://open.spotify.com/album/6mbc9q7Kvg63UKFtTM4nbr) | 2:45 | 2021-06-22 | 2022-06-01 |
 | [Cztery Dwa Zero](https://open.spotify.com/track/4UfS5O48srRx2V1HGjYApg) | [Brokatowe Damy](https://open.spotify.com/artist/3NCIJgTchxctVxgH1oOiVX) | [POTĘŻNE LESBIJKI Z MIECZAMI](https://open.spotify.com/album/47jrlicjC5poOuxmBtgBZ7) | 4:20 | 2023-07-11 |  |
 | [Daj mi jeszcze jedną szansę](https://open.spotify.com/track/3VHXHfcl9ovXKzfycuZr1k) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Daj mi jeszcze jedną szansę](https://open.spotify.com/album/7gWLqkWIShjmmRj4VsT1ro) | 2:52 | 2023-01-24 | 2023-06-01 |
+| [dans mon coeur](https://open.spotify.com/track/71L3PsA9CXvDDIlUF4q715) | [Madox](https://open.spotify.com/artist/6AypwNfEAiPfY2S4sYHeqN) | [dans mon coeur](https://open.spotify.com/album/34JJiGRjSOTYs28CS1MsDJ) | 2:49 | 2024-06-17 |  |
 | [Dark Horse](https://open.spotify.com/track/4sMcbKRS6qM1Ogr6p8ugHi) | [Agata Karczewska](https://open.spotify.com/artist/3F59TScUxGWsl0aG7Vmqx2) | [Dark Horse](https://open.spotify.com/album/4B4mMKNQkAi1w5WLCCnSQu) | 4:39 | 2024-05-06 |  |
 | [Deadfall](https://open.spotify.com/track/3JCRS3QDBI69OXYF5UAL7W) | [Zamilska](https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH) | [Deadfall](https://open.spotify.com/album/4ZKXU8IhV2iq3qUzmMRALn) | 4:23 | 2023-11-13 |  |
 | [December](https://open.spotify.com/track/0IfjvMq4MHyfKoTd0K4WA6) | [Kuba Kluza](https://open.spotify.com/artist/1I0FVrxB03evIF9eTEwsVa) | [December](https://open.spotify.com/album/7ErTmSBSxGQlXxYkcpNNyg) | 2:52 | 2024-05-06 |  |
@@ -76,6 +77,7 @@
 | [Haiku](https://open.spotify.com/track/4kdJPEgNmlyzo0mrRC4kOQ) | [Iwona Skv](https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8) | [Haiku](https://open.spotify.com/album/1utL1XsLZYrQEiLQX8o3qu) | 3:09 | 2024-04-08 |  |
 | [Head in The Sky](https://open.spotify.com/track/5qLtgcbN26a38JV6VY26KY) | [Bloo Crane](https://open.spotify.com/artist/2fArSWn7Q393fy7zt2Im9I) | [Bloo Feelings](https://open.spotify.com/album/4YFda393j1BTBGPBNFvaiq) | 3:35 | 2021-06-22 | 2022-06-01 |
 | [Heatwave](https://open.spotify.com/track/4Id8fcHyGqnOqABDhwlQJ2) | [Cougar](https://open.spotify.com/artist/75DcASVacTXkCzbP0eWUZ2) | [ABOUT US.](https://open.spotify.com/album/6H24A2xEAHDrYeYc8M4Ch8) | 3:37 | 2024-06-10 |  |
+| [HERBATA](https://open.spotify.com/track/3QWj1jMClM2pr1zdsIJtqF) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0) | [HERBATA](https://open.spotify.com/album/7aA766Depq4CAHxRnOeaLn) | 2:10 | 2024-06-17 |  |
 | [Hot and Heavy](https://open.spotify.com/track/4vyoGRV89S2iYtgbKG4RSw) | [Mona Lizak](https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb) | [Hot and Heavy](https://open.spotify.com/album/5bot6sVmTvitGKuYJfNX53) | 2:35 | 2024-04-08 | 2024-06-11 |
 | [HOTEL](https://open.spotify.com/track/4VBvF9iBuitlLSEKDQR1PW) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [HOTEL](https://open.spotify.com/album/4Et5dfI8KUrOpRrwqy4Wc1) | 3:10 | 2024-02-12 |  |
 | [HOTEL PLAZA](https://open.spotify.com/track/3ANmOXEnDDgaW6L6URD7O3) | [shane.](https://open.spotify.com/artist/3tDcEwPEYCO45ks2GFURkT) | [HOTEL PLAZA](https://open.spotify.com/album/3PwvN9fNcJPXW87LQt7W7v) | 3:22 | 2024-06-10 |  |
@@ -88,7 +90,7 @@
 | [Jeszcze mam serce](https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [Jeszcze mam serce](https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow) | 4:11 | 2022-06-01 | 2024-02-13 |
 | [jeśli płynę pod prąd](https://open.spotify.com/track/3SwBJrQbfOymrCOS7CCZbB) | [27.Fuckdemons](https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw) | [jeśli płynę pod prąd](https://open.spotify.com/album/4UYAR6apkBSUCXAFdNiotL) | 2:16 | 2024-06-10 |  |
 | [JOY](https://open.spotify.com/track/0UuGEWNj6aiWTtCujOGozw) | [Yanch](https://open.spotify.com/artist/0cB5gHRy82zYYouDMeckVZ) | [JOY](https://open.spotify.com/album/4rYwfcRtfdG95A0kBVH9Oj) | 5:59 | 2021-06-22 | 2024-06-11 |
-| [Język](https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [Język](https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn) | 3:06 | 2022-06-03 |  |
+| [Język](https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [Język](https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn) | 3:06 | 2022-06-03 | 2024-06-18 |
 | [Kapitał](https://open.spotify.com/track/076XHfTDuN1nqeseWLNMcj) | [susk](https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc) | [Kapitał](https://open.spotify.com/album/3B1tI4mwm8eIVvOeMcssNF) | 2:20 | 2023-03-17 | 2023-06-24 |
 | [Kiedy Chcę](https://open.spotify.com/track/0pmfleJhXSffwFhcCwU0X4) | [Amba Fatima](https://open.spotify.com/artist/12ivTmFWs3JKtKOGxdSszN) | [Kiedy Chcę](https://open.spotify.com/album/1hfBy3gnykFhIssAvV9Fwr) | 2:41 | 2023-10-09 | 2024-02-15 |
 | [Kimkolwiek chcę](https://open.spotify.com/track/3mpogytAIg8ctUvq9hg91i) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [Kimkolwiek chcę](https://open.spotify.com/album/6QdVPvKhXhXRpPyxhLlJve) | 2:54 | 2022-07-01 | 2023-07-11 |
@@ -134,7 +136,7 @@
 | [Obok mnie \- Radio edit](https://open.spotify.com/track/0YhJgS3GaY3KXsww0gPOdW) | [Zawadzki](https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt) | [Obok mnie \(Radio edit\)](https://open.spotify.com/album/6m4H7cotFDKmd7dMqna8qO) | 2:42 | 2022-07-22 | 2023-07-11 |
 | [oddaję Ci melodię](https://open.spotify.com/track/5zvfPxqXLOXEls3qME9Uz9) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [oddaję Ci melodię](https://open.spotify.com/album/4OVGD8MkQjwtXeUaJwpJ7U) | 2:23 | 2023-06-23 |  |
 | [Oddalamy się od siebie](https://open.spotify.com/track/3YqJi5lBb3xg3ctnx1kHnO) | [Kamil Kempiński](https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df) | [Oddalamy się od siebie](https://open.spotify.com/album/5xtNNb9YV6spu5WlxzqDV0) | 3:28 | 2021-06-22 | 2022-06-01 |
-| [OH WOW](https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [Nick Sinckler](https://open.spotify.com/artist/3ioPp5l6NUnHUryHBoJHEK) | [OH WOW](https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI) | 2:54 | 2022-06-01 |  |
+| [OH WOW](https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [Nick Sinckler](https://open.spotify.com/artist/3ioPp5l6NUnHUryHBoJHEK) | [OH WOW](https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI) | 2:54 | 2022-06-01 | 2024-06-18 |
 | [Once or Twice](https://open.spotify.com/track/4LThfO3v9lOyfgxhDz0Nz0) | [Filip Sterne](https://open.spotify.com/artist/1UIsVRTEON2C0CmFKGnmOw) | [Once or Twice](https://open.spotify.com/album/3jw76MTX5cY9nJGWfzmEde) | 3:14 | 2024-02-12 |  |
 | [Organic Love](https://open.spotify.com/track/6X4IRCLajdsOARXdefbv4m) | [MICUŁA](https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai) | [Organic Love](https://open.spotify.com/album/7wiEOdACTzjmwGtG8hIWWX) | 3:12 | 2021-06-22 | 2024-06-11 |
 | [Ostatnia piosenka o tobie](https://open.spotify.com/track/4AKCYZw3cILC41qQmm8LiR) | [Kamil Kempiński](https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df) | [Ostatnia piosenka o tobie](https://open.spotify.com/album/45qbG2EnDCUWNJ3Greaowm) | 4:09 | 2021-06-22 | 2022-06-01 |
@@ -162,6 +164,7 @@
 | [Prawda](https://open.spotify.com/track/1ljhrnf6rToJm43ZpOmorD) | [Decadent Fun Club](https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki) | [OKO](https://open.spotify.com/album/7AKfRwN2fngGqnaRqax8Ab) | 3:31 | 2024-03-11 |  |
 | [priorytetem](https://open.spotify.com/track/1AEjEwTDNB0nZkQFHtbZux) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [psychodynamiczne](https://open.spotify.com/album/2Jp3mZywGkxMFB5Wu2p5s9) | 3:10 | 2023-01-24 |  |
 | [priorytetem](https://open.spotify.com/track/1mFqDcaUxiLXNTKDLXyiWD) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [priorytetem](https://open.spotify.com/album/0vRIm5pGMLhANYjfNcopGB) | 3:10 | 2022-06-01 | 2023-01-25 |
+| [Priorytety](https://open.spotify.com/track/3Q3U0azD3REhtU7nLrhabj) | [Alan Cyprysiak](https://open.spotify.com/artist/0gbd0sFWxT28CVsxZ6J6Ig) | [Priorytety](https://open.spotify.com/album/2B46Wx88prs5gPWMnvFMVO) | 4:27 | 2024-06-17 |  |
 | [profet](https://open.spotify.com/track/69dZdSGn4LTC5ZKpoJxkAf) | [NANGA](https://open.spotify.com/artist/3wBGonHcTaPDylffjRWwGR) | [CISZA W BLOKU](https://open.spotify.com/album/0fIAR61jSqd4pjpWrsCRbb) | 4:16 | 2021-06-22 | 2022-06-01 |
 | [Przed siebie](https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7) | [Oskar Kucmann](https://open.spotify.com/artist/6QCsE5n2rSQiqzKS2DSQJK) | [Przed siebie](https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi) | 3:03 | 2022-06-01 |  |
 | [Przypadki](https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2) | [Zawadzki](https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt) | [Przypadki](https://open.spotify.com/album/3zTSTlliW1LwlJTQHvBuCG) | 3:10 | 2021-06-22 |  |
@@ -169,7 +172,7 @@
 | [Randomowe noce](https://open.spotify.com/track/2cnLvmsaqXJ46GVbtd6qtR) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Randomowe noce](https://open.spotify.com/album/5nMxp5U3ENlLByqe6vWNTv) | 2:16 | 2024-03-11 |  |
 | [Reach](https://open.spotify.com/track/5Qh5dgVlsM9wAC8CczAq3G) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh) | [Reach](https://open.spotify.com/album/4qfKKvcWUcxJLsw1CcRfiy) | 3:38 | 2023-01-24 | 2023-07-11 |
 | [Red Flag](https://open.spotify.com/track/7CaxmQCb4APvMLQaVJhCTR) | [Kamil Kempiński](https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df) | [Red Flag](https://open.spotify.com/album/5ogmBRaKh9KkVRZycRnP1u) | 2:48 | 2022-06-01 |  |
-| [Reżyser](https://open.spotify.com/track/57ncBsP6ntAniZygJhDVDl) | [Filip Sterne](https://open.spotify.com/artist/1UIsVRTEON2C0CmFKGnmOw) | [Reżyser](https://open.spotify.com/album/5JdAFKD7E59vMwZQLJQaSd) | 2:58 | 2024-02-12 |  |
+| [Reżyser](https://open.spotify.com/track/57ncBsP6ntAniZygJhDVDl) | [Filip Sterne](https://open.spotify.com/artist/1UIsVRTEON2C0CmFKGnmOw) | [Reżyser](https://open.spotify.com/album/5JdAFKD7E59vMwZQLJQaSd) | 2:58 | 2024-02-12 | 2024-06-18 |
 | [Rise](https://open.spotify.com/track/1MmIVXWV7tldbdqdmK2YH7) | [Zamilska](https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH) | [Undone](https://open.spotify.com/album/18XoNEtXXRrJyP9XJoQY3h) | 3:57 | 2024-06-10 |  |
 | [Rodeo](https://open.spotify.com/track/7757YVXBXfK8wF82Lkfc92) | [Agata Karczewska](https://open.spotify.com/artist/3F59TScUxGWsl0aG7Vmqx2) | [Rodeo](https://open.spotify.com/album/0e71KflqBG790HkG7j5DgL) | 4:15 | 2024-05-06 |  |
 | [Rojava](https://open.spotify.com/track/1JFGEjYNN1gUHBXWuwsATW) | [MICUŁA](https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai) | [Rojava](https://open.spotify.com/album/1xHgpZuHmlOATKtuOIsT0L) | 4:27 | 2022-06-01 | 2024-06-11 |

@@ -1,6 +1,6 @@
 {
   "description": "New makes old. Cover: Sierra Ferrell",
-  "num_followers": 297862,
+  "num_followers": 297929,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Room 41",
-        "url": "https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a"
-      },
-      "artists": [
-        {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
-        }
-      ],
-      "duration_ms": 239803,
-      "name": "Holy Ghost Fire",
-      "url": "https://open.spotify.com/track/2LjvIdtY6NISb0eIB2wDJb"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Fuck With Sad Girls",
         "url": "https://open.spotify.com/album/42QRkIDihCyPWIrsYVgWni"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 278546,
       "name": "Fuck With Sad Girls",
       "url": "https://open.spotify.com/track/68oChP7L8vv9Oy7ekk1DcV"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Room 41",
+        "url": "https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a"
+      },
+      "artists": [
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        }
+      ],
+      "duration_ms": 239803,
+      "name": "Holy Ghost Fire",
+      "url": "https://open.spotify.com/track/2LjvIdtY6NISb0eIB2wDJb"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Listening to the Music",
+        "url": "https://open.spotify.com/album/13VYDl6nj8dGQgyWiZPOJO"
+      },
+      "artists": [
+        {
+          "name": "Zephaniah OHora",
+          "url": "https://open.spotify.com/artist/6kWzLAW2ZUuy22mLrdwZSY"
+        }
+      ],
+      "duration_ms": 190035,
+      "name": "Black & Blue",
+      "url": "https://open.spotify.com/track/529y37n9VZXubT1KlWM78i"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Same Devil (feat. Brandi Carlile)",
         "url": "https://open.spotify.com/album/6XL1xCLdUOU6j35YspCkqO"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 187466,
       "name": "Same Devil (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/11ztTGjFtV3MNoNx0XvApC"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Listening to the Music",
-        "url": "https://open.spotify.com/album/13VYDl6nj8dGQgyWiZPOJO"
-      },
-      "artists": [
-        {
-          "name": "Zephaniah OHora",
-          "url": "https://open.spotify.com/artist/6kWzLAW2ZUuy22mLrdwZSY"
-        }
-      ],
-      "duration_ms": 190035,
-      "name": "Black & Blue",
-      "url": "https://open.spotify.com/track/529y37n9VZXubT1KlWM78i"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Ramblin' Soul",
+        "url": "https://open.spotify.com/album/0lkkaseHHUBnHQMf4GDfvA"
+      },
+      "artists": [
+        {
+          "name": "Melissa Carper",
+          "url": "https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX"
+        }
+      ],
+      "duration_ms": 253080,
+      "name": "From What I Recall",
+      "url": "https://open.spotify.com/track/4vCu2i1WDukiV06xQUnCMj"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Pohorylle",
         "url": "https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR"
       },
@@ -955,22 +971,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Ramblin' Soul",
-        "url": "https://open.spotify.com/album/0lkkaseHHUBnHQMf4GDfvA"
-      },
-      "artists": [
-        {
-          "name": "Melissa Carper",
-          "url": "https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX"
-        }
-      ],
-      "duration_ms": 253080,
-      "name": "From What I Recall",
-      "url": "https://open.spotify.com/track/4vCu2i1WDukiV06xQUnCMj"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Runnin'",
         "url": "https://open.spotify.com/album/0qcRycVTiFPrDF2DKQdRCv"
       },
@@ -983,6 +983,22 @@
       "duration_ms": 237786,
       "name": "Runnin'",
       "url": "https://open.spotify.com/track/2EM8Ann4TIcFjnVtNpkT8D"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Trophy",
+        "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
+      },
+      "artists": [
+        {
+          "name": "Sunny Sweeney",
+          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
+        }
+      ],
+      "duration_ms": 199991,
+      "name": "Nothing Wrong with Texas",
+      "url": "https://open.spotify.com/track/56CnTJ6SeEj5luYSIcE6tv"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1023,18 +1039,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Trophy",
-        "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
+        "name": "Every Single Star",
+        "url": "https://open.spotify.com/album/3nrtejgwleUGvNPWXMymV2"
       },
       "artists": [
         {
-          "name": "Sunny Sweeney",
-          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
+          "name": "Dori Freeman",
+          "url": "https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt"
         }
       ],
-      "duration_ms": 199991,
-      "name": "Nothing Wrong with Texas",
-      "url": "https://open.spotify.com/track/56CnTJ6SeEj5luYSIcE6tv"
+      "duration_ms": 163906,
+      "name": "That's How I Feel",
+      "url": "https://open.spotify.com/track/0184cc4SRW7zVafrYR8I7U"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1055,22 +1071,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Every Single Star",
-        "url": "https://open.spotify.com/album/3nrtejgwleUGvNPWXMymV2"
-      },
-      "artists": [
-        {
-          "name": "Dori Freeman",
-          "url": "https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt"
-        }
-      ],
-      "duration_ms": 163906,
-      "name": "That's How I Feel",
-      "url": "https://open.spotify.com/track/0184cc4SRW7zVafrYR8I7U"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Playing Old Games",
         "url": "https://open.spotify.com/album/1Snd0dkRGTZ2mVH4AmCzvP"
       },
@@ -1087,22 +1087,6 @@
       "duration_ms": 209880,
       "name": "Playing Old Games",
       "url": "https://open.spotify.com/track/1LBAyPeZeEy6Q3UqNZoEN1"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Violets as Camouflage",
-        "url": "https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk"
-      },
-      "artists": [
-        {
-          "name": "Mary Bragg",
-          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
-        }
-      ],
-      "duration_ms": 223713,
-      "name": "Trouble Me Anytime",
-      "url": "https://open.spotify.com/track/0VW1XlmXrdB1H27SWKzN9k"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1143,6 +1127,22 @@
       "duration_ms": 229506,
       "name": "Lonely Game (feat. Andrew Combs & Jessie Baylin)",
       "url": "https://open.spotify.com/track/2hPPJefLGV53Mwlir5mRcG"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Violets as Camouflage",
+        "url": "https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk"
+      },
+      "artists": [
+        {
+          "name": "Mary Bragg",
+          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
+        }
+      ],
+      "duration_ms": 223713,
+      "name": "Trouble Me Anytime",
+      "url": "https://open.spotify.com/track/0VW1XlmXrdB1H27SWKzN9k"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Cool Cars - EP",
-        "url": "https://open.spotify.com/album/6EIsPf2RVWonLJzfSSUtV2"
+        "name": "Bright Shadow",
+        "url": "https://open.spotify.com/album/5iPNtCubSl6R02RY4jFFrO"
       },
       "artists": [
         {
-          "name": "Kelsey Waters",
-          "url": "https://open.spotify.com/artist/7rjqEDqvREzfmSP58SLYXT"
+          "name": "Ana Egge",
+          "url": "https://open.spotify.com/artist/1dHhosKN9sgDJjFltalUch"
         }
       ],
-      "duration_ms": 237426,
-      "name": "Cool Cars",
-      "url": "https://open.spotify.com/track/7gr3VoP3mj1EturQLVIM6x"
+      "duration_ms": 170813,
+      "name": "Flat Top Guitar",
+      "url": "https://open.spotify.com/track/5XMZFXDY5DQOSFLsW1ykDy"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Bright Shadow",
-        "url": "https://open.spotify.com/album/5iPNtCubSl6R02RY4jFFrO"
+        "name": "Cool Cars - EP",
+        "url": "https://open.spotify.com/album/6EIsPf2RVWonLJzfSSUtV2"
       },
       "artists": [
         {
-          "name": "Ana Egge",
-          "url": "https://open.spotify.com/artist/1dHhosKN9sgDJjFltalUch"
+          "name": "Kelsey Waters",
+          "url": "https://open.spotify.com/artist/7rjqEDqvREzfmSP58SLYXT"
         }
       ],
-      "duration_ms": 170813,
-      "name": "Flat Top Guitar",
-      "url": "https://open.spotify.com/track/5XMZFXDY5DQOSFLsW1ykDy"
+      "duration_ms": 237426,
+      "name": "Cool Cars",
+      "url": "https://open.spotify.com/track/7gr3VoP3mj1EturQLVIM6x"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Kids In The Street",
-        "url": "https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU"
-      },
-      "artists": [
-        {
-          "name": "Justin Townes Earle",
-          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
-        }
-      ],
-      "duration_ms": 233706,
-      "name": "What's She Crying For",
-      "url": "https://open.spotify.com/track/7piSpTyc00ahEUgqBMLYjH"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Kindness of Strangers",
         "url": "https://open.spotify.com/album/0YNskLt7opNVnpNjkh3oeQ"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 210173,
       "name": "Kindness of Strangers",
       "url": "https://open.spotify.com/track/32QP97prqm0wjkHEqfbz19"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Kids In The Street",
+        "url": "https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU"
+      },
+      "artists": [
+        {
+          "name": "Justin Townes Earle",
+          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
+        }
+      ],
+      "duration_ms": 233706,
+      "name": "What's She Crying For",
+      "url": "https://open.spotify.com/track/7piSpTyc00ahEUgqBMLYjH"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "May Your Kindness Remain",
+        "url": "https://open.spotify.com/album/2243YLxNEgz5YJLgfDU9vb"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 234306,
+      "name": "May Your Kindness Remain",
+      "url": "https://open.spotify.com/track/71pFxGowi0CXkBJ9wgSwgf"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Highway Queen",
         "url": "https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 202396,
       "name": "Buddies",
       "url": "https://open.spotify.com/track/2LIOtDQuQ3mJuB1OOHPxIk"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "May Your Kindness Remain",
-        "url": "https://open.spotify.com/album/2243YLxNEgz5YJLgfDU9vb"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 234306,
-      "name": "May Your Kindness Remain",
-      "url": "https://open.spotify.com/track/71pFxGowi0CXkBJ9wgSwgf"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "All Or Nothin' (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0MtDML13BxeSu5oeI1VCzQ"
+      },
+      "artists": [
+        {
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "Right Time",
+      "url": "https://open.spotify.com/track/3dEWwyEuqeNFH0V9OvyRWv"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Silver Tears",
         "url": "https://open.spotify.com/album/2JG1zKeTogtW6HUSJD0K6L"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 230120,
       "name": "Only Lies",
       "url": "https://open.spotify.com/track/72glNsoRmefP9dHyPevxnz"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Western Swing & Waltzes and Other Punchy Songs",
-        "url": "https://open.spotify.com/album/1RbJr45fQ7wvjfT2poSHwI"
-      },
-      "artists": [
-        {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
-        }
-      ],
-      "duration_ms": 192626,
-      "name": "Cowpoke",
-      "url": "https://open.spotify.com/track/1FJDhcC36CbA16lMIxgT1F"
     }
   ],
   "unique_name": "Vintage Vibes",

@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 34555,
+  "num_followers": 34559,
   "original_name": "This Is Mc Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmzZgAAAAAB/3bX87GIDs7HgANSMJhhX",
+  "snapshot_id": "Zm4rAAAAAAD8dvoLPk//JStCh5CL0Jtr",
   "tracks": [
     {
       "added_at": null,
@@ -643,30 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Casal Mandrake",
-        "url": "https://open.spotify.com/album/2NeOoMEaPlPKfO41ws0TRI"
-      },
-      "artists": [
-        {
-          "name": "MC Paulin da Capital",
-          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Dj GM",
-          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
-        }
-      ],
-      "duration_ms": 139826,
-      "name": "Casal Mandrake",
-      "url": "https://open.spotify.com/track/5x6P0oWuUOHwKNPlDMm5vM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se o Port\u00e3o Tiver Trancado",
         "url": "https://open.spotify.com/album/1us003huY5cKbFdB7zaLcB"
       },
@@ -739,6 +715,30 @@
       "duration_ms": 435565,
       "name": "Festa Linda 2",
       "url": "https://open.spotify.com/track/0DE1l2HcghLozALTx39lQt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Casal Mandrake",
+        "url": "https://open.spotify.com/album/2NeOoMEaPlPKfO41ws0TRI"
+      },
+      "artists": [
+        {
+          "name": "MC Paulin da Capital",
+          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Dj GM",
+          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
+        }
+      ],
+      "duration_ms": 139826,
+      "name": "Casal Mandrake",
+      "url": "https://open.spotify.com/track/5x6P0oWuUOHwKNPlDMm5vM"
     },
     {
       "added_at": null,
@@ -935,22 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vegas",
-        "url": "https://open.spotify.com/album/5ectgcy98pAnAPP90OoHAn"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Vegas",
-      "url": "https://open.spotify.com/track/06GVxEh3wIwWGg54BauJ1p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como Se T\u00e1 Maravilhosa",
         "url": "https://open.spotify.com/album/4LNewfE8VAsibABsIDWPGE"
       },
@@ -991,6 +975,42 @@
       "duration_ms": 144915,
       "name": "Bate Com Vontade (Remix)",
       "url": "https://open.spotify.com/track/5iQwqOEVRAMyZ3HeBggL78"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vegas",
+        "url": "https://open.spotify.com/album/5ectgcy98pAnAPP90OoHAn"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Vegas",
+      "url": "https://open.spotify.com/track/06GVxEh3wIwWGg54BauJ1p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quarentena do Trator",
+        "url": "https://open.spotify.com/album/7fM3cotqvLSIB9jaopm93D"
+      },
+      "artists": [
+        {
+          "name": "Dod\u00f4 Press\u00e3o",
+          "url": "https://open.spotify.com/artist/239tGNfFtP07aQ07ZrbTGz"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 133100,
+      "name": "Vuco Vuco",
+      "url": "https://open.spotify.com/track/66GXPHdBsFaBpUv6qCsumj"
     },
     {
       "added_at": null,
@@ -1039,26 +1059,6 @@
       "duration_ms": 135616,
       "name": "PANCADA",
       "url": "https://open.spotify.com/track/4TsPXN8xOpRRaetAtnlKRU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quarentena do Trator",
-        "url": "https://open.spotify.com/album/7fM3cotqvLSIB9jaopm93D"
-      },
-      "artists": [
-        {
-          "name": "Dod\u00f4 Press\u00e3o",
-          "url": "https://open.spotify.com/artist/239tGNfFtP07aQ07ZrbTGz"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 133100,
-      "name": "Vuco Vuco",
-      "url": "https://open.spotify.com/track/66GXPHdBsFaBpUv6qCsumj"
     },
     {
       "added_at": null,
@@ -1263,26 +1263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Maior Piseiro de Todos os Tempos!",
-        "url": "https://open.spotify.com/album/0oxygTtCqNQwwgTd7xIezI"
-      },
-      "artists": [
-        {
-          "name": "Biu do Piseiro",
-          "url": "https://open.spotify.com/artist/0Pl4c5YACE9Hwq4l48d9kv"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 119640,
-      "name": "Vegas (feat. Mc Dricka)",
-      "url": "https://open.spotify.com/track/5TOpvd9y5J0v6ZN8Yiz2p4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Donas do Jogo",
         "url": "https://open.spotify.com/album/7MBjkpeqRT5iQeff5uhcP9"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 244000,
       "name": "Donas do Jogo",
       "url": "https://open.spotify.com/track/1cS6RxJm9VWnbIYyFM0BVm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Maior Piseiro de Todos os Tempos!",
+        "url": "https://open.spotify.com/album/0oxygTtCqNQwwgTd7xIezI"
+      },
+      "artists": [
+        {
+          "name": "Biu do Piseiro",
+          "url": "https://open.spotify.com/artist/0Pl4c5YACE9Hwq4l48d9kv"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 119640,
+      "name": "Vegas (feat. Mc Dricka)",
+      "url": "https://open.spotify.com/track/5TOpvd9y5J0v6ZN8Yiz2p4"
     },
     {
       "added_at": null,
@@ -1439,6 +1439,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vou Te Fazer De Seda",
+        "url": "https://open.spotify.com/album/1GdFy8YYJksjaL2UUQYqhS"
+      },
+      "artists": [
+        {
+          "name": "DJ Dozabri",
+          "url": "https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg"
+        },
+        {
+          "name": "DJ Danilinho Beat",
+          "url": "https://open.spotify.com/artist/01Cn9JiIX1sQa4TK13HX4e"
+        },
+        {
+          "name": "MC Rafa 22",
+          "url": "https://open.spotify.com/artist/5wz306kfhCBTtqb9wuILIt"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "Vou Te Fazer De Seda",
+      "url": "https://open.spotify.com/track/4N8nfgF8qzo7SlWcgzqCna"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mar\u00e9 Cheia",
         "url": "https://open.spotify.com/album/4HqF4h22gdNFl3PjYFBXM3"
       },
@@ -1479,34 +1507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vou Te Fazer De Seda",
-        "url": "https://open.spotify.com/album/1GdFy8YYJksjaL2UUQYqhS"
-      },
-      "artists": [
-        {
-          "name": "DJ Dozabri",
-          "url": "https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg"
-        },
-        {
-          "name": "DJ Danilinho Beat",
-          "url": "https://open.spotify.com/artist/01Cn9JiIX1sQa4TK13HX4e"
-        },
-        {
-          "name": "MC Rafa 22",
-          "url": "https://open.spotify.com/artist/5wz306kfhCBTtqb9wuILIt"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "Vou Te Fazer De Seda",
-      "url": "https://open.spotify.com/track/4N8nfgF8qzo7SlWcgzqCna"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CORO COM CO\u00c7A",
         "url": "https://open.spotify.com/album/1mJUlfDXB7F62HqNsvJ9f8"
       },
@@ -1539,26 +1539,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "INEF\u00c1VEL",
-        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
+        "name": "\u00c9 S\u00f3 Pirocad\u00e3o (Brega Funk Remix)",
+        "url": "https://open.spotify.com/album/69LyHjijVlo0FEEGoKDe02"
       },
       "artists": [
         {
-          "name": "Long beatz",
-          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
+          "name": "O Brutto",
+          "url": "https://open.spotify.com/artist/6cu7LD1IwsOS6Rtgr2F0BV"
+        },
+        {
+          "name": "Tinho do Coque",
+          "url": "https://open.spotify.com/artist/14IIWGbDqOjAFpxmOoEsmt"
+        },
+        {
+          "name": "Pop Na Batida",
+          "url": "https://open.spotify.com/artist/7lu87j6js86vL5rp9qczz0"
         },
         {
           "name": "Mc Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "PTK",
-          "url": "https://open.spotify.com/artist/4M7XfX7J0sw520nrZXkbpL"
         }
       ],
-      "duration_ms": 160909,
-      "name": "Only Fan$",
-      "url": "https://open.spotify.com/track/2WKciZdNlja4UfSoonkCaE"
+      "duration_ms": 121600,
+      "name": "\u00c9 S\u00f3 Pirocad\u00e3o - Brega Funk Remix",
+      "url": "https://open.spotify.com/track/0r6btzAF7SYcYjCCFckau4"
     }
   ],
   "unique_name": "This Is Mc Dricka",

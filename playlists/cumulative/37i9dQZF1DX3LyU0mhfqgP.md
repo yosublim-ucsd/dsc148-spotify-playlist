@@ -2,9 +2,9 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Listen to the hottest songs from LGBTQIA+ artists\. Cover: Carol Biazin
+> Listen to the hottest songs from LGBTQIA+ artists\. Cover: Tove Lo
 
-1,229 songs - 2 day 18 hr 21 min
+1,230 songs - 2 day 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [AMEIANOITE](https://open.spotify.com/track/0zQhdzUijGmorUhopvtoue) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Noitada](https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY) | 2:46 | 2023-02-10 | 2024-01-11 |
 | [AMEIANOITE](https://open.spotify.com/track/1ZISfpg3UgLPXx9tucGgsP) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Noitada](https://open.spotify.com/album/1qSPqdwqoRlWiMVRr9nITg) | 2:46 | 2023-02-10 | 2023-02-15 |
 | [American Teenager](https://open.spotify.com/track/2k5D4U0IEcEW5eGyNtpXhH) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [American Teenager](https://open.spotify.com/album/5LFr8f5ZW3vhdaDKsIDh7a) | 4:18 | 2022-04-22 | 2022-10-13 |
-| [American Teenager](https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 4:18 | 2022-10-08 |  |
+| [American Teenager](https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 4:18 | 2022-10-08 | 2024-06-18 |
 | [Amoeba](https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:48 | 2021-12-17 | 2022-01-28 |
 | [Amor Traumatizado](https://open.spotify.com/track/6Tlsi4Nx5kVBkjKnAwxZVH) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Amor Traumatizado](https://open.spotify.com/album/1mn2Kwp5yl0ztp2JkPGnKB) | 3:10 | 2024-06-12 |  |
 | [Amour, Haine & Danger](https://open.spotify.com/track/64ryOoAgl2QuzB1G5cukz3) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Nonante\-Cinq La Suite](https://open.spotify.com/album/1O6LqsYQ8uIdo3utTawVCl) | 3:19 | 2023-01-24 | 2023-03-08 |
@@ -449,6 +449,7 @@
 | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/album/2dwZS75dB000xVnvUDBHYH) | 2:52 | 2023-06-02 | 2023-07-12 |
 | [Heart Storm \(with NAO\)](https://open.spotify.com/track/7txZm78LBuKa7oD0YnWt0t) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Heart Storm \(with NAO\)](https://open.spotify.com/album/43vZ7lfU9t7EzSeM4e8I0D) | 3:13 | 2021-12-17 | 2022-01-29 |
 | [heartbreak honeymoon](https://open.spotify.com/track/58QZNN5P9UC8moU8mWVzNy) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [heartbreak honeymoon](https://open.spotify.com/album/0BBy35QpH4SqoAbwxLZypl) | 2:50 | 2022-01-21 | 2022-08-01 |
+| [HEAT](https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [HEAT](https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG) | 3:37 | 2024-06-17 |  |
 | [Heaven](https://open.spotify.com/track/0Y1RDty5uEqseA1C4kqa4x) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Bridges](https://open.spotify.com/album/4Qw1soNFVQu96dlP7yDBSO) | 3:14 | 2022-11-30 | 2023-01-25 |
 | [Heaven](https://open.spotify.com/track/4hpGHoJuJTtAqq9pkevLp6) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Heaven](https://open.spotify.com/album/1K5R5JjqMQnT9wFFCGMGnw) | 3:14 | 2022-04-29 | 2022-12-01 |
 | [Heaven](https://open.spotify.com/track/617rg45LEx76r1paWSNpZy) | [Dyllón Burnside](https://open.spotify.com/artist/70P3P13wKq4OwV4JlnrCiV), [Daley](https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw) | [Heaven](https://open.spotify.com/album/4yursmWYHfO2gpvwszJq7x) | 2:45 | 2021-12-17 | 2022-01-27 |

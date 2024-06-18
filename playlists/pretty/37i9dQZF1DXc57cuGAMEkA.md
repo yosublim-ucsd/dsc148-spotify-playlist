@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Normani, Tove Lo & SG Lewis, Khalid, 10\-FEET and more! cover: Normani
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,062 likes - 67 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,084 likes - 67 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

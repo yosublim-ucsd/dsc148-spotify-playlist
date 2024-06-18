@@ -4,7 +4,7 @@
 
 > The biggest festival of the year\. The official playlist for Glastonbury 2024.
 
-203 songs - 12 hr 24 min
+204 songs - 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Brilliant Mind](https://open.spotify.com/track/5S46E2UNGDYcwZ26yj6aNr) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [ReBourne](https://open.spotify.com/album/4Y2Cla7P9zqTppJ1Xq92At) | 2:17 | 2024-05-31 |  |
 | [Burnt Toast & Coffee](https://open.spotify.com/track/0Am98XXjdvVo1O3fYpjaTs) | [High Fade](https://open.spotify.com/artist/7aRGzyzEWC50FDDzdNFMtF) | [Burnt Toast & Coffee](https://open.spotify.com/album/0xl0L7fwDbjrqatRt1SNkY) | 3:18 | 2024-05-31 |  |
 | [By Your Side](https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [By Your Side](https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg) | 6:07 | 2024-05-31 |  |
+| [BYE BYE](https://open.spotify.com/track/3b34EvMAFHcdRBujeo9e6t) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [The Collective](https://open.spotify.com/album/4j9UADX3wZtXWolDNT3y3x) | 4:14 | 2024-06-13 |  |
 | [Call on Me \- Radio Mix](https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Call on Me \(Radio Mix\)](https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z) | 2:51 | 2024-05-31 |  |
 | [Cannonball](https://open.spotify.com/track/1KdwPeY1WRWQGHCmRJTveb) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Last Splash](https://open.spotify.com/album/57F44c0MTziVzHPEuJtH9A) | 3:33 | 2024-05-31 |  |
 | [Caroline](https://open.spotify.com/track/6xTp4nC8NBRSYMxGqIikSh) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:36 | 2024-05-31 |  |
@@ -173,7 +174,7 @@
 | [Stay High](https://open.spotify.com/track/5FJivl7KKZrbK990A7OE0u) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/1UW7biiGu9RbUg35auUM2s) | 3:11 | 2024-05-31 |  |
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2024-05-31 |  |
 | [Streets of London](https://open.spotify.com/track/2zwH1NlxBEpzVlvzXNHQso) | [Ralph McTell](https://open.spotify.com/artist/6uQnHzEj8hj0UZCKjBvTaG) | [Spiral Staircase \(Expanded Edition\)](https://open.spotify.com/album/1KNG7O89f5oHbvvI3eOMPv) | 4:08 | 2024-05-31 |  |
-| [Sunny Daze](https://open.spotify.com/track/5P7cU0BpCpwE52oNNzPbR7) | [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz) | [S.O.I.L](https://open.spotify.com/album/2KeXfCPVafhxp6GUUjc0sy) | 2:00 | 2024-05-31 |  |
+| [Sunny Daze](https://open.spotify.com/track/5P7cU0BpCpwE52oNNzPbR7) | [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz) | [S.O.I.L](https://open.spotify.com/album/2KeXfCPVafhxp6GUUjc0sy) | 2:00 | 2024-05-31 | 2024-06-18 |
 | [Super](https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 10th Mini Album 'FML'](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) | 3:20 | 2024-05-31 |  |
 | [Superstylin'](https://open.spotify.com/track/2yWyFT6bW1Rd9cjVvYi4v8) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Goodbye Country \(Hello Nightclub\)](https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6) | 6:00 | 2024-05-31 |  |
 | [Tadow](https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Lady Lady](https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt) | 5:01 | 2024-05-31 |  |

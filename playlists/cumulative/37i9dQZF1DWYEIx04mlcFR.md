@@ -4,7 +4,7 @@
 
 > la nueva ola de artistas con legallyrxx en portada\. 🌊✨
 
-505 songs - 1 day 2 hr 2 min
+506 songs - 1 day 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [for good \(with RENEE\)](https://open.spotify.com/track/78HK0gO7EqqvTrxvnHX9VP) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [for good \(with RENEE\)](https://open.spotify.com/album/3WdMJuv0B4oYEZBaFVJI2H) | 3:02 | 2022-10-31 | 2022-11-26 |
 | [Fortuna y Maldición](https://open.spotify.com/track/2eUN0JaW9jGln2Y7ND8kRy) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [Fortuna y Maldición](https://open.spotify.com/album/5pevKZr0dFpIxFGmUwXoKx) | 3:19 | 2024-05-31 |  |
 | [GENIAL](https://open.spotify.com/track/1jhkJLvoQBAGCqfTVeOhkJ) | [CRYMES](https://open.spotify.com/artist/2Js99jlxIiJItAAh69aZMM) | [GENIAL](https://open.spotify.com/album/5rafwaYjurrEADQNdqBFSS) | 3:06 | 2023-02-03 | 2023-06-24 |
+| [Genérico](https://open.spotify.com/track/4XNuxlT1MZ5qD7JFnZ4ci1) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Club 614](https://open.spotify.com/album/6bUyVi8PXGQQObGzCmcPX2) | 2:40 | 2024-06-17 |  |
 | [Girasol](https://open.spotify.com/track/78hbBz2TqsXCG1GfXOWGve) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Girasol](https://open.spotify.com/album/6QylIYKDZPDZmLR8ORYitd) | 3:24 | 2021-12-10 | 2022-05-10 |
 | [Gitana \(feat\. Jeis, Pao Alvarado & Charly Romero\)](https://open.spotify.com/track/36sCyXGpgGVkiPaTObxvVT) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Yung Dupe](https://open.spotify.com/artist/7ATR883ZrEevrEWAlMXFs3), [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0), [Charly Romero](https://open.spotify.com/artist/6fnfIkbG8zBq4ZKKnvHGhx), [Jeis](https://open.spotify.com/artist/48AZRfn6TdspMxXToat0WB), [Pao Alvarado](https://open.spotify.com/artist/0fDaJzTT0WTIYVyIkjqpB4) | [El Morro Que Hace Música](https://open.spotify.com/album/4RoRb3XF1ibgFcrbNeI3h3) | 3:57 | 2023-07-06 | 2024-04-13 |
 | [Gotas](https://open.spotify.com/track/3RPVMsjKwcPb4M9BsqeYhd) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Gotas](https://open.spotify.com/album/76YyNZPRiXT5cyULAqajlB) | 3:35 | 2022-05-06 | 2023-01-11 |
@@ -300,7 +301,7 @@
 | [Natural](https://open.spotify.com/track/206EbLmSB7o5WimiOCE5Va) | [Malamala](https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl) | [Natural](https://open.spotify.com/album/7nXQgF6Zz1V1RHmCujmX7K) | 2:54 | 2022-07-01 | 2022-11-01 |
 | [Navegantes](https://open.spotify.com/track/6T5HmWq4GIX4ujSMuvl4oZ) | [Daniela Calvario](https://open.spotify.com/artist/7hieapEQgIf8bO2eadP1MS), [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc) | [Navegantes](https://open.spotify.com/album/59ZWU9GOX523Im1B05n7mC) | 4:03 | 2022-02-11 | 2022-07-05 |
 | [Necesito un Break de Tanta Pendejad\*](https://open.spotify.com/track/3gLTUkkHiWnbvG49FByvp2) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8), [Bastian](https://open.spotify.com/artist/4K7sffC0683anJ57UKBzyD) | [Necesito un Break de Tanta Pendejad\*](https://open.spotify.com/album/3Xk7qVeD5ygv9rr8kokjUT) | 2:58 | 2022-06-17 | 2023-01-21 |
-| [nikes azules](https://open.spotify.com/track/4dhUtf8F9cIynSoavVG6u7) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [nikes azules](https://open.spotify.com/album/3DggDzjA8fjU3sEuys7NqG) | 2:53 | 2023-08-25 |  |
+| [nikes azules](https://open.spotify.com/track/4dhUtf8F9cIynSoavVG6u7) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [nikes azules](https://open.spotify.com/album/3DggDzjA8fjU3sEuys7NqG) | 2:53 | 2023-08-25 | 2024-06-18 |
 | [Niña de Mis Ojos](https://open.spotify.com/track/2fVw5ymYUWzKAj0FFOyArF) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Niña de Mis Ojos](https://open.spotify.com/album/4YZN11bEMW5RRxF3cRejET) | 2:42 | 2022-02-04 | 2022-05-20 |
 | [niño azul](https://open.spotify.com/track/6qV11bT43TNvpV9WdXN29O) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [niño azul](https://open.spotify.com/album/7uSH6G3Z9z5yGBk9LIH2Zk) | 2:25 | 2024-03-08 |  |
 | [Niño Regañado](https://open.spotify.com/track/3NXuOQFjWRQNOxTPz6DeA7) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y) | [Perfumes](https://open.spotify.com/album/4vr2ydZFM9bBZALUef2ASi) | 2:45 | 2024-05-10 |  |

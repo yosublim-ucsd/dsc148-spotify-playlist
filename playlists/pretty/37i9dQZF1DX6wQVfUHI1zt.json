@@ -1,6 +1,6 @@
 {
   "description": "All the Tejano classics for you to enjoy! Cover: Selena",
-  "num_followers": 213351,
+  "num_followers": 213386,
   "original_name": "Tejano Classics",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
+        "name": "Chulas Fronteras & Del Mero Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1oy5u4Jx010Bl15qSpVbsc"
+      },
+      "artists": [
+        {
+          "name": "Little Joe & La Familia",
+          "url": "https://open.spotify.com/artist/59NWRwGcObmk2sukU5uqmN"
+        }
+      ],
+      "duration_ms": 294533,
+      "name": "Las Nubes",
+      "url": "https://open.spotify.com/track/5x6z28U8d6qYXR4cqU8zN9"
+    },
+    {
+      "added_at": "2024-05-02 04:14:20",
+      "album": {
         "name": "La Leyenda (Version Super Deluxe)",
         "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 227986,
       "name": "T\u00fa Robaste Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3Purte9GoV5OeheLFYZDxj"
-    },
-    {
-      "added_at": "2024-05-02 04:14:20",
-      "album": {
-        "name": "Chulas Fronteras & Del Mero Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1oy5u4Jx010Bl15qSpVbsc"
-      },
-      "artists": [
-        {
-          "name": "Little Joe & La Familia",
-          "url": "https://open.spotify.com/artist/59NWRwGcObmk2sukU5uqmN"
-        }
-      ],
-      "duration_ms": 294533,
-      "name": "Las Nubes",
-      "url": "https://open.spotify.com/track/5x6z28U8d6qYXR4cqU8zN9"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "La Leyenda (Version Super Deluxe)",
-        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
-      },
-      "artists": [
-        {
-          "name": "Selena y los Dinos",
-          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
-        }
-      ],
-      "duration_ms": 247533,
-      "name": "Contigo Quiero Estar",
-      "url": "https://open.spotify.com/track/5KX6L00FeQmmFyE3XChFaQ"
-    },
-    {
-      "added_at": "2024-05-02 04:14:20",
-      "album": {
         "name": "10 Grandes Exitos",
         "url": "https://open.spotify.com/album/292cmQRwzL6DPOZG5OKBww"
       },
@@ -887,18 +871,38 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "Mucho Mas Que Amor",
-        "url": "https://open.spotify.com/album/3LeSzG6DuuxpKdq48olrny"
+        "name": "Gran Encuentro (20 \u00c9xitos Originales)",
+        "url": "https://open.spotify.com/album/3NVYF9ggdJq4nvydfVTzS6"
       },
       "artists": [
         {
-          "name": "Ram Herrera",
-          "url": "https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE"
+          "name": "David Lee Garza",
+          "url": "https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke"
+        },
+        {
+          "name": "Los Musicales",
+          "url": "https://open.spotify.com/artist/71Vi0mhi8ZgBczjBNJlLah"
         }
       ],
-      "duration_ms": 205266,
-      "name": "Eres Mi Todo",
-      "url": "https://open.spotify.com/track/0bWKrBW9avAHSqsgYa19nE"
+      "duration_ms": 206200,
+      "name": "Hasta Cuando",
+      "url": "https://open.spotify.com/track/6qawPmwCkK6BLcKVwtIfuy"
+    },
+    {
+      "added_at": "2024-05-02 04:14:20",
+      "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena y los Dinos",
+          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
+        }
+      ],
+      "duration_ms": 247533,
+      "name": "Contigo Quiero Estar",
+      "url": "https://open.spotify.com/track/5KX6L00FeQmmFyE3XChFaQ"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -923,6 +927,22 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
+        "name": "Mucho Mas Que Amor",
+        "url": "https://open.spotify.com/album/3LeSzG6DuuxpKdq48olrny"
+      },
+      "artists": [
+        {
+          "name": "Ram Herrera",
+          "url": "https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE"
+        }
+      ],
+      "duration_ms": 205266,
+      "name": "Eres Mi Todo",
+      "url": "https://open.spotify.com/track/0bWKrBW9avAHSqsgYa19nE"
+    },
+    {
+      "added_at": "2024-05-02 04:14:20",
+      "album": {
         "name": "ANTHOLOGY: BACK IN THE DAY",
         "url": "https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 167279,
       "name": "Que Tristeza",
       "url": "https://open.spotify.com/track/2oM0iRiHYqh7SDzjIKWRap"
-    },
-    {
-      "added_at": "2024-05-02 04:14:20",
-      "album": {
-        "name": "Gran Encuentro (20 \u00c9xitos Originales)",
-        "url": "https://open.spotify.com/album/3NVYF9ggdJq4nvydfVTzS6"
-      },
-      "artists": [
-        {
-          "name": "David Lee Garza",
-          "url": "https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke"
-        },
-        {
-          "name": "Los Musicales",
-          "url": "https://open.spotify.com/artist/71Vi0mhi8ZgBczjBNJlLah"
-        }
-      ],
-      "duration_ms": 206200,
-      "name": "Hasta Cuando",
-      "url": "https://open.spotify.com/track/6qawPmwCkK6BLcKVwtIfuy"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
+        "name": "12 Favoritas",
+        "url": "https://open.spotify.com/album/6AAXyPYIMRcRSJjsboOZdk"
+      },
+      "artists": [
+        {
+          "name": "Ram Herrera",
+          "url": "https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE"
+        }
+      ],
+      "duration_ms": 240146,
+      "name": "Amor Querido",
+      "url": "https://open.spotify.com/track/3Wx6K6u4Q13a4lbdCLlXjR"
+    },
+    {
+      "added_at": "2024-05-02 04:14:20",
+      "album": {
         "name": "ANTHOLOGY: BACK IN THE DAY",
         "url": "https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 194013,
       "name": "Al Partir",
       "url": "https://open.spotify.com/track/7ts1SN8aMJCuAXKQ2pICTD"
-    },
-    {
-      "added_at": "2024-05-02 04:14:20",
-      "album": {
-        "name": "12 Favoritas",
-        "url": "https://open.spotify.com/album/6AAXyPYIMRcRSJjsboOZdk"
-      },
-      "artists": [
-        {
-          "name": "Ram Herrera",
-          "url": "https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE"
-        }
-      ],
-      "duration_ms": 240146,
-      "name": "Amor Querido",
-      "url": "https://open.spotify.com/track/3Wx6K6u4Q13a4lbdCLlXjR"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
+        "name": "Gran Encuentro (20 \u00c9xitos Originales)",
+        "url": "https://open.spotify.com/album/3NVYF9ggdJq4nvydfVTzS6"
+      },
+      "artists": [
+        {
+          "name": "Ram Herrera",
+          "url": "https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE"
+        }
+      ],
+      "duration_ms": 212466,
+      "name": "Rosas Para Una Rosa",
+      "url": "https://open.spotify.com/track/4upZxV6D7P9tRoHPssVGTx"
+    },
+    {
+      "added_at": "2024-05-02 04:14:20",
+      "album": {
         "name": "Por Puro Amor",
         "url": "https://open.spotify.com/album/7z6Mg4FgZucMjSfMxbXkoA"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 170426,
       "name": "Me Derrito",
       "url": "https://open.spotify.com/track/69XkXUWR0XOXNXdR5qYDRQ"
-    },
-    {
-      "added_at": "2024-05-02 04:14:20",
-      "album": {
-        "name": "Gran Encuentro (20 \u00c9xitos Originales)",
-        "url": "https://open.spotify.com/album/3NVYF9ggdJq4nvydfVTzS6"
-      },
-      "artists": [
-        {
-          "name": "Ram Herrera",
-          "url": "https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE"
-        }
-      ],
-      "duration_ms": 212466,
-      "name": "Rosas Para Una Rosa",
-      "url": "https://open.spotify.com/track/4upZxV6D7P9tRoHPssVGTx"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "Enamorada de Ti",
-        "url": "https://open.spotify.com/album/6QT2jnwcvYH2H3fEbXeu0l"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 190840,
-      "name": "No Me Queda M\u00e1s",
-      "url": "https://open.spotify.com/track/6wDNRITsP5tBCImheKBTgi"
-    },
-    {
-      "added_at": "2024-05-02 04:14:20",
-      "album": {
         "name": "Vive",
         "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 251493,
       "name": "La Carcacha",
       "url": "https://open.spotify.com/track/6ylsnFJHjC6g68EOlMpjnq"
+    },
+    {
+      "added_at": "2024-05-02 04:14:20",
+      "album": {
+        "name": "Enamorada de Ti",
+        "url": "https://open.spotify.com/album/6QT2jnwcvYH2H3fEbXeu0l"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 190840,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/6wDNRITsP5tBCImheKBTgi"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "\u00cdconos 25 \u00c9xitos",
-        "url": "https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 195293,
-      "name": "Soy Un Novato",
-      "url": "https://open.spotify.com/track/5akdgRJMR9kwrrpOY2KUHg"
-    },
-    {
-      "added_at": "2024-05-02 04:14:20",
-      "album": {
         "name": "Iconic (Remastered)",
         "url": "https://open.spotify.com/album/04QjiAjGtDlaGITJRecZRj"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 224506,
       "name": "Di Algo featuring Edgar Ramirez of Zeri",
       "url": "https://open.spotify.com/track/65othLo1tpzoD8LUT16GTu"
+    },
+    {
+      "added_at": "2024-05-02 04:14:20",
+      "album": {
+        "name": "\u00cdconos 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 195293,
+      "name": "Soy Un Novato",
+      "url": "https://open.spotify.com/track/5akdgRJMR9kwrrpOY2KUHg"
     },
     {
       "added_at": "2024-05-02 04:14:20",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,819 likes - 323 songs - 20 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,815 likes - 323 songs - 20 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -212,8 +212,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 202 | [Get Me](https://open.spotify.com/track/1L0fGe5sfqUDoacJwTdhlt) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Amplified Heart](https://open.spotify.com/album/6gFFQtaTdZcbu97Xo6wVvH) | 3:34 |
 | 203 | [Wonderful](https://open.spotify.com/track/2St9phLphjLD3e0tpZV4tH) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [Phases](https://open.spotify.com/album/5dAuovYBdntbFoq6xFScts) | 3:12 |
 | 204 | [Speed Dial No\. 2](https://open.spotify.com/track/7rhc9e9gzWZOj9khLQE8mb) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [When It Falls](https://open.spotify.com/album/2pTVmzJ3y3H2TI9dDQMvl7) | 3:51 |
-| 205 | [Sweet Potato](https://open.spotify.com/track/0X5REyeiMlUl1YJqsjXW3w) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One](https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5) | 3:56 |
-| 206 | [Little Wing](https://open.spotify.com/track/4ZK786lHXz8nZ8NwODGc6L) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 3:18 |
+| 205 | [Little Wing](https://open.spotify.com/track/4ZK786lHXz8nZ8NwODGc6L) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 3:18 |
+| 206 | [Sweet Potato](https://open.spotify.com/track/0X5REyeiMlUl1YJqsjXW3w) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One](https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5) | 3:56 |
 | 207 | [Stronger Than Ever](https://open.spotify.com/track/0GzrDJVavYZpA8Hc6MRxuU) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Bionic \(Deluxe Version\)](https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H) | 4:15 |
 | 208 | [Rewrite](https://open.spotify.com/track/1NMzLXCP8jEv0WLz6wrhrs) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One](https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5) | 4:45 |
 | 209 | [Where I Belong](https://open.spotify.com/track/6CfKKiBm6iRgNCqVITrmtO) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One](https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5) | 4:43 |
@@ -332,4 +332,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 322 | [How To Breathe](https://open.spotify.com/track/25NMllQ3Ww9gVZ0BvQUisZ) | [Christine Grünert](https://open.spotify.com/artist/6O3FOxYpUH7Hs6h3QWdGmE) | [How To Breathe](https://open.spotify.com/album/1w6AR2pem7fuleqHhaJSE7) | 3:29 |
 | 323 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 
-Snapshot ID: `AbUPngAAAABz09ipgzsQ4PIz/OnpxRNF`
+Snapshot ID: `AbUVAgAAAAAN8dzWU6qX8aUmx8SnXFMc`

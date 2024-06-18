@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 
 > This is our playground! 🪩  Cover: Keinemusik
 
-[Spotify](https://open.spotify.com/user/spotify) - 872,538 likes - 80 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 872,618 likes - 80 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 77 | [Rise Of The 2nd Sun](https://open.spotify.com/track/12cknKcAEanf3PlwPOYvg5) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Rise Of The 2nd Sun](https://open.spotify.com/album/2vcdcwvURyhYMkh8P0wfJT) | 7:05 |
 | 78 | [AMA](https://open.spotify.com/track/4aJo4L06xodly3Gam3MSoP) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW), [Mar+Mer](https://open.spotify.com/artist/5RYSSOzPU8mkHGBq0S64xa) | [AMA](https://open.spotify.com/album/5YjPVazlA5oBaWvOfUIVfb) | 5:34 |
 | 79 | [Cinecittà](https://open.spotify.com/track/7BpAUyMcDLWfFZo8tvJvh5) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD) | [Cinecittà](https://open.spotify.com/album/6V7vOaDpcH3fHQbkFzSBB2) | 3:28 |
-| 80 | [Betrayal](https://open.spotify.com/track/6a25inJpWjDP9WwKgO8gFI) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Betrayal](https://open.spotify.com/album/4QTWadvF8SLwDbnwMJ7DSR) | 6:06 |
+| 80 | [Starchaser](https://open.spotify.com/track/6irg87ZXAFnNfSSyAN5RQM) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Starchaser](https://open.spotify.com/album/5hWKdvx2iIO3qOeQiWiehL) | 4:14 |
 
 Snapshot ID: `ZmwdoQAAAADBcLdJTkBUxzX5DpPFq5/e`

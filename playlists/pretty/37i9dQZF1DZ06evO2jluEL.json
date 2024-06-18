@@ -1,12 +1,12 @@
 {
   "description": "This is Ludmila Ferber. The essential tracks, all in one playlist.",
-  "num_followers": 22554,
+  "num_followers": 22560,
   "original_name": "This Is Ludmila Ferber",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmzZgAAAAAD5ygJOoBc9bus+RS1Hn2oC",
+  "snapshot_id": "Zm4rAAAAAABCT6yzetuaJE+ytzrUSwqW",
   "tracks": [
     {
       "added_at": null,
@@ -347,26 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nunca Pare de Lutar / Tua Gra\u00e7a Me Basta",
-        "url": "https://open.spotify.com/album/2woKwrMEpv4ltwGp4cDa6D"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 459662,
-      "name": "Nunca Pare De Lutar",
-      "url": "https://open.spotify.com/track/3xcF4BD6UoNL3jqQ5xmV2V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ou\u00e7o Deus Me Chamar",
         "url": "https://open.spotify.com/album/06qcwXnweJvNixBPekCcSd"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 298000,
       "name": "Ou\u00e7o Deus Me Chamar",
       "url": "https://open.spotify.com/track/78jlmri0xPa63LDt3g4h2E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nunca Pare de Lutar / Tua Gra\u00e7a Me Basta",
+        "url": "https://open.spotify.com/album/2woKwrMEpv4ltwGp4cDa6D"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 459662,
+      "name": "Nunca Pare De Lutar",
+      "url": "https://open.spotify.com/track/3xcF4BD6UoNL3jqQ5xmV2V"
     },
     {
       "added_at": null,
@@ -487,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pra Me Alegrar",
+        "url": "https://open.spotify.com/album/0gH7iDQNDPnJ5C4ynNNf4l"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 281853,
+      "name": "Eu Vou Vencer",
+      "url": "https://open.spotify.com/track/41o38M2qihgQQChyMQf1mq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "P\u00e9rolas da Adora\u00e7\u00e3o - M\u00fasicas que Marcaram a Nossa Hist\u00f3ria",
         "url": "https://open.spotify.com/album/5OMvO6gJEnRda4CEV6T7mL"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 391586,
       "name": "Orar e Adorar (feat. David Quinlan)",
       "url": "https://open.spotify.com/track/2uEQpuWq4XyYVe8DWiGCqw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pra Me Alegrar",
-        "url": "https://open.spotify.com/album/0gH7iDQNDPnJ5C4ynNNf4l"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 281853,
-      "name": "Eu Vou Vencer",
-      "url": "https://open.spotify.com/track/41o38M2qihgQQChyMQf1mq"
     },
     {
       "added_at": null,
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
         }
       ],
-      "duration_ms": 387573,
-      "name": "Faz Chover",
-      "url": "https://open.spotify.com/track/1cVb9gErlRvhJJD5gERg0w"
+      "duration_ms": 338800,
+      "name": "Pal\u00e1cio para Deus",
+      "url": "https://open.spotify.com/track/1TFwbGJqvnbZ9o28pgliYF"
     },
     {
       "added_at": null,

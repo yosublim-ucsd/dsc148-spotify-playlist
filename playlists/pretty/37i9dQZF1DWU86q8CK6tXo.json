@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: Kehlani",
-  "num_followers": 58219,
+  "num_followers": 58234,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-06-01 04:00:00",
       "album": {
-        "name": "Hang Tight Honey",
-        "url": "https://open.spotify.com/album/5WyXnepLcbyDzp4qhBZ5f2"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 189786,
-      "name": "Hang Tight Honey",
-      "url": "https://open.spotify.com/track/6w7OpHp3Y3ByHzmfQXYCRN"
-    },
-    {
-      "added_at": "2024-06-01 04:00:00",
-      "album": {
         "name": "JAGUAR II",
         "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 173913,
       "name": "Alright",
       "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
+    },
+    {
+      "added_at": "2024-06-01 04:00:00",
+      "album": {
+        "name": "Hang Tight Honey",
+        "url": "https://open.spotify.com/album/5WyXnepLcbyDzp4qhBZ5f2"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 189786,
+      "name": "Hang Tight Honey",
+      "url": "https://open.spotify.com/track/6w7OpHp3Y3ByHzmfQXYCRN"
     },
     {
       "added_at": "2024-06-01 04:00:00",
@@ -303,18 +303,18 @@
     {
       "added_at": "2024-06-01 04:00:00",
       "album": {
-        "name": "Runnin\u2019 Outta Time",
-        "url": "https://open.spotify.com/album/0DM1q8OFj5WezPEx2QgiZK"
+        "name": "Mis Amigas Las Flores",
+        "url": "https://open.spotify.com/album/04J0mWsIEmidkQdWLlw8Ji"
       },
       "artists": [
         {
-          "name": "Lily Rose",
-          "url": "https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Back Pew",
-      "url": "https://open.spotify.com/track/0ppLBUHGmimID65lKkpibY"
+      "duration_ms": 178039,
+      "name": "Mis Amigas Las Flores",
+      "url": "https://open.spotify.com/track/3Vm0VFtepYi1AVNBbywzYJ"
     },
     {
       "added_at": "2024-06-01 04:00:00",
@@ -335,18 +335,18 @@
     {
       "added_at": "2024-06-01 04:00:00",
       "album": {
-        "name": "Mis Amigas Las Flores",
-        "url": "https://open.spotify.com/album/04J0mWsIEmidkQdWLlw8Ji"
+        "name": "Runnin\u2019 Outta Time",
+        "url": "https://open.spotify.com/album/0DM1q8OFj5WezPEx2QgiZK"
       },
       "artists": [
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "Lily Rose",
+          "url": "https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3"
         }
       ],
-      "duration_ms": 178039,
-      "name": "Mis Amigas Las Flores",
-      "url": "https://open.spotify.com/track/3Vm0VFtepYi1AVNBbywzYJ"
+      "duration_ms": 192000,
+      "name": "Back Pew",
+      "url": "https://open.spotify.com/track/0ppLBUHGmimID65lKkpibY"
     },
     {
       "added_at": "2024-06-01 04:00:00",

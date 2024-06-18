@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 
 > Ouça e conheça as revelações da música gospel\. Foto: Bea Rodrigues
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,837 likes - 60 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,851 likes - 60 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,14 +23,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 | 13 | [Incomparável](https://open.spotify.com/track/4C4cQJRtSAQFzJkr5fXHsh) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Incomparável](https://open.spotify.com/album/2RAxcqYvInUcuemO3ck1o0) | 5:00 |
 | 14 | [O Teu Poder \(Creio em Ti\)](https://open.spotify.com/track/7wpguZT8WHrxVimzWfEusv) | [Alex Silva](https://open.spotify.com/artist/72qyJQtv9lGSNCSMqRJ35H), [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG) | [O Teu Poder \(Creio em Ti\)](https://open.spotify.com/album/3gUFySRFOAKWn5VfZ9dvAI) | 4:01 |
 | 15 | [Ele Vem](https://open.spotify.com/track/5oznsuwB77V1VZHBN4PEe2) | [Samuel Miranda](https://open.spotify.com/artist/0OF4E3fXk2tsG0C6zWmsLS), [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Ele Vem](https://open.spotify.com/album/1cEYntMwveI3wIHUXyJXMT) | 5:59 |
-| 16 | [Emanuel](https://open.spotify.com/track/17fYhMm4mxOnbo5vDn7567) | [Atm Praise](https://open.spotify.com/artist/1bb4IKt4oYKRRXFlu2f7oN), [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS) | [Emanuel](https://open.spotify.com/album/5gKW8nJBHsjNVUjW5TuJWV) | 9:09 |
-| 17 | [Ter Paz](https://open.spotify.com/track/2NZPRJTWKpzcZQ2sMIRNty) | [Geovanne Oliveira](https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR) | [Ter Paz](https://open.spotify.com/album/6rO8TZsIW5667kvsUQkpQW) | 4:45 |
+| 16 | [Ter Paz](https://open.spotify.com/track/2NZPRJTWKpzcZQ2sMIRNty) | [Geovanne Oliveira](https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR) | [Ter Paz](https://open.spotify.com/album/6rO8TZsIW5667kvsUQkpQW) | 4:45 |
+| 17 | [Emanuel](https://open.spotify.com/track/17fYhMm4mxOnbo5vDn7567) | [Atm Praise](https://open.spotify.com/artist/1bb4IKt4oYKRRXFlu2f7oN), [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS) | [Emanuel](https://open.spotify.com/album/5gKW8nJBHsjNVUjW5TuJWV) | 9:09 |
 | 18 | [Majestade](https://open.spotify.com/track/65iy5QZhhMWXRlXWQIAuc5) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6) | [Abra os Céus](https://open.spotify.com/album/0MqIQx2OQmDFuDklfQgLkb) | 6:10 |
 | 19 | [Eu Me Rendo](https://open.spotify.com/track/2s60fUc38llO2Dr1k65P4I) | [Manú Paiva](https://open.spotify.com/artist/58ynl54r37EoYJC5LIUOER) | [Eu Me Rendo](https://open.spotify.com/album/4VHSizj9mNhF3BJtlarg5H) | 4:54 |
 | 20 | [Sou o Teu Altar](https://open.spotify.com/track/3ifjRXZwN56gmTROvagUpx) | [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb), [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Sou o Teu Altar](https://open.spotify.com/album/2y4aQE5LYe1FSgKGVnbH9g) | 4:35 |
-| 21 | [Vai Adorando \(Ao Vivo\)](https://open.spotify.com/track/73mYxEGk6SojNZzFZORJdH) | [Mateus Pereira](https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO), [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv) | [Vai Adorando \(Ao Vivo\)](https://open.spotify.com/album/5zfXPIB02pgp89cE0aubR2) | 5:30 |
+| 21 | [Primeiro Amor](https://open.spotify.com/track/53QAehrU0CmcYdozhxiWhQ) | [Patricia Romania](https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K) | [Primeiro Amor](https://open.spotify.com/album/3g0N4fo9QqXCS50IuUZe4J) | 3:56 |
 | 22 | [Recursos](https://open.spotify.com/track/0m1n3GsWSGMWTKS6m2AtTm) | [Vitória Souza](https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Recursos](https://open.spotify.com/album/7mb788K0YryGvPkHTFWs2Z) | 5:46 |
-| 23 | [Primeiro Amor](https://open.spotify.com/track/53QAehrU0CmcYdozhxiWhQ) | [Patricia Romania](https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K) | [Primeiro Amor](https://open.spotify.com/album/3g0N4fo9QqXCS50IuUZe4J) | 3:56 |
+| 23 | [Vai Adorando \(Ao Vivo\)](https://open.spotify.com/track/73mYxEGk6SojNZzFZORJdH) | [Mateus Pereira](https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO), [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv) | [Vai Adorando \(Ao Vivo\)](https://open.spotify.com/album/5zfXPIB02pgp89cE0aubR2) | 5:30 |
 | 24 | [Ágape \- Ao Vivo](https://open.spotify.com/track/3rIDyWXB8u4gJS584dfOSz) | [Áquila](https://open.spotify.com/artist/4z6EQDJNZwMQ6uHmjL87nQ) | [Ágape \(Ao Vivo\)](https://open.spotify.com/album/4aL4nd5yk53RN33wrEdSru) | 9:33 |
 | 25 | [Dependente \(Ao Vivo\)](https://open.spotify.com/track/0r4OTkCtkDh8YttRZ7OrPO) | [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb), [Mateus Pereira](https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO) | [Dependente \(Ao Vivo\)](https://open.spotify.com/album/4d6CjDJNQSn1PxayDnNopB) | 3:36 |
 | 26 | [Deus Te Chama](https://open.spotify.com/track/2gvXxniAjF1Fe79bhBadRJ) | [Samuel Miranda](https://open.spotify.com/artist/0OF4E3fXk2tsG0C6zWmsLS) | [Deus Te Chama](https://open.spotify.com/album/1Fitkeh9wxq0beb7mCFL2e) | 4:23 |

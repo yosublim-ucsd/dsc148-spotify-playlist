@@ -1335,6 +1335,24 @@
     },
     {
       "album": {
+        "name": "TO FALL IN LOVE",
+        "url": "https://open.spotify.com/album/5KeVZZc4uzp63XH2IetTL1"
+      },
+      "artists": [
+        {
+          "name": "Liil Jay",
+          "url": "https://open.spotify.com/artist/0KA4BF3xL0wSVEY5ovpEru"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147651,
+      "name": "Algo En Comun",
+      "url": "https://open.spotify.com/track/5aJabrnoCJnO9RgEiwGNEw"
+    },
+    {
+      "album": {
         "name": "Jim Jones Presents: 12 Days Of Xmas",
         "url": "https://open.spotify.com/album/4SQycPtHY3MZU1l64aGhPq"
       },
@@ -17095,6 +17113,24 @@
     },
     {
       "album": {
+        "name": "Mi Reflejo",
+        "url": "https://open.spotify.com/album/6CogXW7hHzchhMbwbLpCxq"
+      },
+      "artists": [
+        {
+          "name": "Dra. Tania Medina",
+          "url": "https://open.spotify.com/artist/5em6qgrInihTkUJcHHG8fV"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184282,
+      "name": "Mi Reflejo",
+      "url": "https://open.spotify.com/track/6EjdICy62eSA3U9n2VagaD"
+    },
+    {
+      "album": {
         "name": "Mi Todo",
         "url": "https://open.spotify.com/album/6USw58KGtEJK1bTtUskvrx"
       },
@@ -21524,7 +21560,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 147853,
       "name": "Prometiste",
       "url": "https://open.spotify.com/track/0YsvYq2PU7A6FIyq63HcfC"
@@ -29494,7 +29530,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 214646,
       "name": "Wait 4 Me",
       "url": "https://open.spotify.com/track/6GwQLeCFwsVYcEO8PTWnPX"

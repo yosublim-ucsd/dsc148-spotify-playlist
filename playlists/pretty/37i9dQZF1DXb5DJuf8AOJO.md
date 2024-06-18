@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5DJuf8AOJO.md) - [plain]
 
 > Lift our voices to Him.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,814 likes - 85 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,836 likes - 85 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -6116,7 +6116,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 167691,
       "name": "Enrolar",
       "url": "https://open.spotify.com/track/6kINKNCezsxA0wQFxSP2Aa"
@@ -10182,7 +10182,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 155723,
       "name": "LOCA FARANDULERA",
       "url": "https://open.spotify.com/track/17SRuSYEW2fdGok0m0vAsO"
@@ -15783,6 +15783,32 @@
     },
     {
       "album": {
+        "name": "Que Brille Sola Mami",
+        "url": "https://open.spotify.com/album/4ga6C0sQM4PdBwwpJfvJGC"
+      },
+      "artists": [
+        {
+          "name": "Tobal Mj",
+          "url": "https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Kail BRL",
+          "url": "https://open.spotify.com/artist/1F5KgWs6pawyDs5px23UIQ"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195004,
+      "name": "Que Brille Sola Mami",
+      "url": "https://open.spotify.com/track/5MQ4q4Cjb7Bmwx8goqyRob"
+    },
+    {
+      "album": {
         "name": "Que Hay Amor",
         "url": "https://open.spotify.com/album/0X2LGV7tO8XoIca038V56u"
       },
@@ -20586,7 +20612,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 166736,
       "name": "Vida Peligrosa",
       "url": "https://open.spotify.com/track/5b0lXK1WJTKkDGbWlImwSb"

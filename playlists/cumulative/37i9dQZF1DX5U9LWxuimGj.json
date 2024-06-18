@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Country music with a Latin flair. Cover: Carin Leon & Kane Brown",
+  "description": "Country music with a Latin flair. Cover: Carin Leon ",
   "name": "Country Latino",
   "tracks": [
     {
@@ -235,6 +235,24 @@
     },
     {
       "album": {
+        "name": "Bartender I'll Take Two",
+        "url": "https://open.spotify.com/album/6SQuLISq4Rb7eMvjkkTn57"
+      },
+      "artists": [
+        {
+          "name": "Selestial Alcoser",
+          "url": "https://open.spotify.com/artist/4HtKg8ufn3YPH6xsZLQEUn"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218063,
+      "name": "Bartender I'll Take Two",
+      "url": "https://open.spotify.com/track/5xr9LifX1cb8oRoCMzqEVC"
+    },
+    {
+      "album": {
         "name": "Seven Roses Vol. 1",
         "url": "https://open.spotify.com/album/2vWWEIgN5eRHdIvBceUm0Q"
       },
@@ -412,7 +430,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 177416,
       "name": "Chevy Bel Air",
       "url": "https://open.spotify.com/track/1tepd9MBwVeC9jRva63Rv1"
@@ -452,7 +470,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 161493,
       "name": "Como Las Cinco Un Viernes - 5 on a Friday - Spanish Version",
       "url": "https://open.spotify.com/track/3ndv8kUmluaGkfrHMeYfmo"
@@ -546,7 +564,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 197019,
       "name": "Crying (Bilingual Version)",
       "url": "https://open.spotify.com/track/0CYzZDqEq4O7ArwvMqzQ7B"
@@ -648,6 +666,24 @@
       "duration_ms": 205265,
       "name": "Desert Rain",
       "url": "https://open.spotify.com/track/54uGAxFnjUCk0ySobH4kPL"
+    },
+    {
+      "album": {
+        "name": "Boca Chueca, Vol. 1",
+        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231375,
+      "name": "Desp\u00eddase bien",
+      "url": "https://open.spotify.com/track/1llaUCfG1g5WzKt6JafYyk"
     },
     {
       "album": {
@@ -1022,7 +1058,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 203540,
       "name": "Hell in a Handbag",
       "url": "https://open.spotify.com/track/3AU9pWnplEeKOQP55P66kr"
@@ -1449,6 +1485,24 @@
     },
     {
       "album": {
+        "name": "Kbron y Medio",
+        "url": "https://open.spotify.com/album/43lZUcMvNSAHtQTVHzAgax"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258441,
+      "name": "Kbron y Medio",
+      "url": "https://open.spotify.com/track/5mCpJrvnlFIsOIxwd8VIc0"
+    },
+    {
+      "album": {
         "name": "La Bamba",
         "url": "https://open.spotify.com/album/48s9qikZZvbEhVX1tdWc5R"
       },
@@ -1530,6 +1584,28 @@
       "duration_ms": 213560,
       "name": "LA LLUVIA (with Jordyn Shellhart)",
       "url": "https://open.spotify.com/track/2OSkxJooTe20Djkvepb7QT"
+    },
+    {
+      "album": {
+        "name": "THE GB",
+        "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155157,
+      "name": "La Ni\u00f1a",
+      "url": "https://open.spotify.com/track/1ufvUzb22WGWvNoHecXWZn"
     },
     {
       "album": {
@@ -1620,6 +1696,28 @@
       "duration_ms": 232640,
       "name": "Late",
       "url": "https://open.spotify.com/track/6l1OCMAfxY4VjK2XXcxsbE"
+    },
+    {
+      "album": {
+        "name": "Leaving With My Heart",
+        "url": "https://open.spotify.com/album/27bjp60VMZ1tzeMZTcjs2Z"
+      },
+      "artists": [
+        {
+          "name": "Vinny Tovar",
+          "url": "https://open.spotify.com/artist/0SdfAIPqjuj8pPmO0mJqWV"
+        },
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178943,
+      "name": "Leaving With My Heart",
+      "url": "https://open.spotify.com/track/6UG5p0ZG93YqHAKS4NBmnl"
     },
     {
       "album": {
@@ -1836,7 +1934,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 140160,
       "name": "Me Vale Madre",
       "url": "https://open.spotify.com/track/5jJFvVBgWznxyoJAhQO08H"
@@ -2024,7 +2122,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 274179,
       "name": "No Rompas Mi Corazon",
       "url": "https://open.spotify.com/track/50kX2IurNXtSQZG5e4z9VP"
@@ -2474,7 +2572,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 210293,
       "name": "South On Me",
       "url": "https://open.spotify.com/track/4DNhJNM7vu2fYWKJllUBeu"
@@ -2753,6 +2851,24 @@
     },
     {
       "album": {
+        "name": "The Ballad Of A Lonely Man",
+        "url": "https://open.spotify.com/album/6t4jHWaV2flIBBSyGU7Olh"
+      },
+      "artists": [
+        {
+          "name": "Vinny Tovar",
+          "url": "https://open.spotify.com/artist/0SdfAIPqjuj8pPmO0mJqWV"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211390,
+      "name": "The Ballad Of A Lonely Man",
+      "url": "https://open.spotify.com/track/7h4xRKEGtCq6VMcy4IuNif"
+    },
+    {
+      "album": {
         "name": "The One (Pero No Como Yo)",
         "url": "https://open.spotify.com/album/5kz3yJ6kdxXHY2BIW5Ldz1"
       },
@@ -2880,7 +2996,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 180361,
       "name": "Tonto",
       "url": "https://open.spotify.com/track/33wYgNxWB4MXTiv6L36SoO"
@@ -3035,6 +3151,24 @@
     },
     {
       "album": {
+        "name": "Cumbias Light, Vol. 2",
+        "url": "https://open.spotify.com/album/50On6TIoLAj9Ljf1gBzi99"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215869,
+      "name": "Whiskey and Tequila",
+      "url": "https://open.spotify.com/track/7rJCLLO5ukvTRQxjpmDvOd"
+    },
+    {
+      "album": {
         "name": "Who's Such a Fool",
         "url": "https://open.spotify.com/album/1TY3eBAdpLr2m178vJgFSg"
       },
@@ -3075,6 +3209,24 @@
     },
     {
       "album": {
+        "name": "Womanizer",
+        "url": "https://open.spotify.com/album/0SlfYU1bRTlOdQZpArX6Eu"
+      },
+      "artists": [
+        {
+          "name": "Sunny Sauceda",
+          "url": "https://open.spotify.com/artist/1UFXT6Zf12IsTUnNPRbmUg"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210879,
+      "name": "Womanizer",
+      "url": "https://open.spotify.com/track/7broLIw834Zvv993xx6nV3"
+    },
+    {
+      "album": {
         "name": "El Ahijado Consentido",
         "url": "https://open.spotify.com/album/35F7wwWfEZV6FSrCppyNPP"
       },
@@ -3086,7 +3238,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 189346,
       "name": "Ya Me Enter\u00e9",
       "url": "https://open.spotify.com/track/4ggabbjjuHrG06SsYnqvEs"
@@ -3126,6 +3278,24 @@
       "duration_ms": 181034,
       "name": "You and the Radio",
       "url": "https://open.spotify.com/track/3A5XNlTgvAnJXgFpl1fsSh"
+    },
+    {
+      "album": {
+        "name": "Zapatos Grandes",
+        "url": "https://open.spotify.com/album/7eONexMnq2H99kteCv22o5"
+      },
+      "artists": [
+        {
+          "name": "Jerry DeLeon & Southbound",
+          "url": "https://open.spotify.com/artist/0BhWkzHglAanDkZISPU6QQ"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211800,
+      "name": "Zapatos Grandes",
+      "url": "https://open.spotify.com/track/6mxX1h2SLYjsmPQRMZBb8O"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5U9LWxuimGj"

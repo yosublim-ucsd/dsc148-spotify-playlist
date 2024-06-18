@@ -4,7 +4,7 @@
 
 > ist nur einmal im Jahr!
 
-142 songs - 7 hr 14 min
+143 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Filmriss](https://open.spotify.com/track/3wPFB1azIiqIeydG9q9cYW) | [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf), [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ) | [Filmriss](https://open.spotify.com/album/3wulBgGVUtbWHJRNvhBtAP) | 2:14 | 2023-12-11 | 2024-04-30 |
 | [FiNCHiBOY](https://open.spotify.com/track/4ipRnhSMOaVeLCCo5sPY9K) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Finchi's Love Tape](https://open.spotify.com/album/2XTORm9FlIAjLcTqrguBhM) | 2:50 | 2023-11-14 |  |
 | [Freitag, Samstag](https://open.spotify.com/track/35WEFAhw47XLju1gu40cjT) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Freitag, Samstag](https://open.spotify.com/album/2vdeMLYYKkx1kp0J9ggsBL) | 2:36 | 2023-07-28 |  |
+| [Füllkrug](https://open.spotify.com/track/7wjxG3KrEHET4nzbHhlVfC) | [Aditotoro](https://open.spotify.com/artist/7AYd5ec5oCdcckA0IsFSM6), [paulomuc](https://open.spotify.com/artist/2h1bNYhXzndDwlCHHWlRnG) | [Füllkrug](https://open.spotify.com/album/0hEPdluEoDlW46Q7pDTldT) | 3:16 | 2024-06-17 |  |
 | [Geh mal Bier hol'n \- GmBh](https://open.spotify.com/track/0NipOXqC53PNZVUMfthzPt) | [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q) | [Ein Wort sagt mehr als 1000 Bilder](https://open.spotify.com/album/1hh1YtzD7HiKAla6K6W0KZ) | 3:07 | 2024-03-27 |  |
 | [Geiles Leben \- Madizin Single Mix](https://open.spotify.com/track/4GyG53nBdaEvSEn9o8roA2) | [Glasperlenspiel](https://open.spotify.com/artist/2UFKXTZgKtOTHSqMSyAcLO), [Madizin](https://open.spotify.com/artist/3KCO1VWpmHG0T2zYJjXVgj) | [Tag X \(Geiles Leben Edition\)](https://open.spotify.com/album/1dK5iraBeq5qeMowd8Itsn) | 3:31 | 2024-03-27 |  |
 | [Grapefruit](https://open.spotify.com/track/6tsfUUzJ5SFKP7n2H9V22F) | [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc), [Julia Engelmann](https://open.spotify.com/artist/3yKyH3s5xOHdLDfsD0W9gK), [Raket One](https://open.spotify.com/artist/3WiX1u4IpVintfUX7Qze06) | [Grapefruit](https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo) | 3:04 | 2023-07-28 |  |
@@ -133,7 +134,7 @@
 | [Scheißegal, ich feier \- Radio Edit](https://open.spotify.com/track/59OdgXmYQOW5oGmOQlyPEg) | [Mütze Katze](https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF) | [Scheißegal, ich feier \(Radio Edit\)](https://open.spotify.com/album/5b9J518c3kaHN5FIZ4EOhY) | 2:44 | 2023-07-14 |  |
 | [Schnelle Brille](https://open.spotify.com/track/2jZhxHB4xaTaxktl8bcl6z) | [Nancy Franck](https://open.spotify.com/artist/1TgdpH31IOzayp4PFpSUqD) | [Schnelle Brille](https://open.spotify.com/album/4UzKoWcOCq6GUpvE9I9xQ5) | 2:17 | 2023-12-19 |  |
 | [Senorita](https://open.spotify.com/track/5OHOykHs3Ct2pgbqod8uMD) | [Kay One](https://open.spotify.com/artist/6VjbeCqoayiHYnefrisskv), [Pietro Lombardi](https://open.spotify.com/artist/387fj6TuPJ3y2H8ViAm6r0) | [Senorita](https://open.spotify.com/album/7sC0Co4ka745oGeBfB3Bhk) | 3:58 | 2023-08-28 | 2024-04-24 |
-| [Skandal!](https://open.spotify.com/track/0fd2RUyWXauYxN8Vu3UnLo) | [Lorenz Büffel](https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai), [Almklausi](https://open.spotify.com/artist/3f56dbtoRz7bucWJUeofzK), [Bierkapitän](https://open.spotify.com/artist/3HoitUEA01wrQKA6ONZUuD) | [Skandal!](https://open.spotify.com/album/2fFV1SfNw2nAO0ANVWQQYc) | 2:52 | 2024-04-24 |  |
+| [Skandal!](https://open.spotify.com/track/0fd2RUyWXauYxN8Vu3UnLo) | [Lorenz Büffel](https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai), [Almklausi](https://open.spotify.com/artist/3f56dbtoRz7bucWJUeofzK), [Bierkapitän](https://open.spotify.com/artist/3HoitUEA01wrQKA6ONZUuD) | [Skandal!](https://open.spotify.com/album/2fFV1SfNw2nAO0ANVWQQYc) | 2:52 | 2024-04-24 | 2024-06-18 |
 | [So viel gemeinsam](https://open.spotify.com/track/3iyH9HYxpRskunFjMF8F7O) | [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ) | [So viel gemeinsam](https://open.spotify.com/album/6YiV531P44nWmCr2E6PvPl) | 2:16 | 2023-07-14 | 2023-08-04 |
 | [Sorry](https://open.spotify.com/track/7A9VbC1Bs8Tz7gNrBwDOUX) | [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc) | [Sorry](https://open.spotify.com/album/5KQ8edF4yq8BPBMxM8al9u) | 2:24 | 2023-07-14 |  |
 | [Strobo Pop](https://open.spotify.com/track/0xTsllHxzqwYrsPUcruf72) | [Die Atzen](https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu), [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Party Chaos](https://open.spotify.com/album/68DUsll6ui4bYNyvEZmIzS) | 3:14 | 2023-07-14 |  |

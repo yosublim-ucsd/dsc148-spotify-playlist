@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,382 likes - 100 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,448 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 | 41 | [Rio Grande](https://open.spotify.com/track/174aZteQew30wcq8sPzlW6) | [Ikebe Shakedown](https://open.spotify.com/artist/5ABBZoXY5r0UL1txACjinb) | [Stone by Stone](https://open.spotify.com/album/6eKOlWJno03vPizhhyY1VO) | 3:50 |
 | 42 | [Chismiten](https://open.spotify.com/track/5RHN9R3BqScU4Jzu84U7pZ) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Afrique Victime](https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2) | 4:58 |
 | 43 | [Fire By The River](https://open.spotify.com/track/6Nnq45sf7tv9Xjlbga83Lj) | [Harumi](https://open.spotify.com/artist/4ultVGMWqvHvwRHnogpymO) | [Harumi](https://open.spotify.com/album/6OTWrVumdh9JL7ReKtlPMi) | 3:34 |
-| 44 | [Kek Alghalm](https://open.spotify.com/track/6a2lsRBLR68z0azpNyFrzr) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb), [Wes Corbett](https://open.spotify.com/artist/2OkbDT2Do2fc1sRAUFedD8) | [Amatssou](https://open.spotify.com/album/6midUauH9WLxQllqEAvqhM) | 3:31 |
-| 45 | [Parev' Ajere](https://open.spotify.com/track/6nPnAYsGwE8HDGxdNvSaex) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:33 |
+| 44 | [Parev' Ajere](https://open.spotify.com/track/6nPnAYsGwE8HDGxdNvSaex) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:33 |
+| 45 | [Kek Alghalm](https://open.spotify.com/track/6a2lsRBLR68z0azpNyFrzr) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb), [Wes Corbett](https://open.spotify.com/artist/2OkbDT2Do2fc1sRAUFedD8) | [Amatssou](https://open.spotify.com/album/6midUauH9WLxQllqEAvqhM) | 3:31 |
 | 46 | [On te l'avait dit](https://open.spotify.com/track/3d6u38zeC6XIt87Hhp4pql) | [Voilaaa](https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1), [Pat Kalla](https://open.spotify.com/artist/3qOrdMiR9VBKS6MIlDH4Aj) | [On te l'avait dit](https://open.spotify.com/album/769hXvYI0EBGEC2ldfRgnp) | 6:24 |
 | 47 | [The Wild Rover](https://open.spotify.com/track/0hJuFoWIujL61y6bFwUpsL) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [The Livelong Day](https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC) | 10:14 |
 | 48 | [Atomic Bomb](https://open.spotify.com/track/6FDGkw2X2Pmp4AaQP8x6mX) | [William Onyeabor](https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi) | [World Psychedelic Classics 5: Who Is William Onyeabor?](https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0) | 7:59 |
@@ -88,11 +88,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 | 78 | [Charango Dub](https://open.spotify.com/track/4Z4WBdtkbCiLhcc28e23Jx) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Charango Dub](https://open.spotify.com/album/1L7MABgdSg4VF8VjYoySmU) | 4:44 |
 | 79 | [Geeta duniki](https://open.spotify.com/track/6Y4txHIZfSfFfON6SG8484) | [Ammar 808](https://open.spotify.com/artist/0TAPEEcG2NQAfSKkreQWAM), [Susha](https://open.spotify.com/artist/1ZwNmkTnRKkILlrPV2yPpC) | [Global Control / Invisible Invasion](https://open.spotify.com/album/1teOHeiThN9wbZLcYKfqjI) | 3:32 |
 | 80 | [Fantôme](https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Hippie Hourrah!](https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J) | 5:06 |
-| 81 | [Nomad](https://open.spotify.com/track/5S82EFqseyysMtgTrMrW9K) | [Cavolo Nero](https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU) | [Nomad](https://open.spotify.com/album/6QYMchWFthbYhRQNNaypBs) | 4:35 |
-| 82 | [Nautilus](https://open.spotify.com/track/0IVZO1pU0ddXEh0qtN3jMA) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [The Age of Aquarius](https://open.spotify.com/album/4hocimNA2HqHGJENlvTvws) | 4:01 |
-| 83 | [Wakangenei](https://open.spotify.com/track/5p1U25xU1JZNFcZVHlZVwH) | [Ankobo + Kaboo](https://open.spotify.com/artist/3YbBjagRnNl4slaLBbhiO6) | [Wakangenei](https://open.spotify.com/album/4bLNEzOnUc5MHalt1RyWO2) | 3:52 |
-| 84 | [Taivshral](https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO) | [Enji](https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s) | [Taivshral](https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq) | 3:07 |
-| 85 | [Arnaq](https://open.spotify.com/track/7eMFZDDVezqN2tOEBOU29v) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [The Ballad of the Runaway Girl](https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU) | 3:25 |
+| 81 | [Nautilus](https://open.spotify.com/track/0IVZO1pU0ddXEh0qtN3jMA) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [The Age of Aquarius](https://open.spotify.com/album/4hocimNA2HqHGJENlvTvws) | 4:01 |
+| 82 | [Nomad](https://open.spotify.com/track/5S82EFqseyysMtgTrMrW9K) | [Cavolo Nero](https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU) | [Nomad](https://open.spotify.com/album/6QYMchWFthbYhRQNNaypBs) | 4:35 |
+| 83 | [Taivshral](https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO) | [Enji](https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s) | [Taivshral](https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq) | 3:07 |
+| 84 | [Arnaq](https://open.spotify.com/track/7eMFZDDVezqN2tOEBOU29v) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [The Ballad of the Runaway Girl](https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU) | 3:25 |
+| 85 | [Wakangenei](https://open.spotify.com/track/5p1U25xU1JZNFcZVHlZVwH) | [Ankobo + Kaboo](https://open.spotify.com/artist/3YbBjagRnNl4slaLBbhiO6) | [Wakangenei](https://open.spotify.com/album/4bLNEzOnUc5MHalt1RyWO2) | 3:52 |
 | 86 | [Chez Mounir](https://open.spotify.com/track/3AYbUnxgA6rrg6VC9rtFod) | [Charif Megarbane](https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4) | [Marzipan \(Habibi Funk 023\) \[Bonus Edition\]](https://open.spotify.com/album/6KzZvtfDldSPWptq61k3Sv) | 2:50 |
 | 87 | [Muíño](https://open.spotify.com/track/6zAuPi2fZsUYgXMIozkowv) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS) | [Solpor](https://open.spotify.com/album/2q1DwJpZOWhNW0NFYwS8rs) | 5:19 |
 | 88 | [Junchuch](https://open.spotify.com/track/0NURA4GHHo6vi4hGtgo62O) | [Tunkuy](https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0) | [Junchuch](https://open.spotify.com/album/5RYTRBOAJE7KlDb1cJ0bBY) | 4:36 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 | 93 | [Weird Fishes/ Arpeggi](https://open.spotify.com/track/3A8hPbFFV3YFolz2vSKY83) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Weird Fishes/ Arpeggi](https://open.spotify.com/album/6zGiR59zDHE9xFJtTDsZe1) | 5:25 |
 | 94 | [3aks el Seir](https://open.spotify.com/track/7gmqj88AyDwnbxHzeoPQ2F) | [Charif Megarbane](https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4) | [Marzipan \(Habibi Funk 023\) \[Bonus Edition\]](https://open.spotify.com/album/6KzZvtfDldSPWptq61k3Sv) | 2:45 |
 | 95 | [Eclipse](https://open.spotify.com/track/52Ntzc7mUEEH5ilCz7MYpF) | [XIXA](https://open.spotify.com/artist/00TFWY9PfTDEgsptXLrl1e) | [Eclipse](https://open.spotify.com/album/27SOPYyLOq2RWnzPx6pW4d) | 3:26 |
-| 96 | [Touch Me Not](https://open.spotify.com/track/1hY1xVHfG9wHrkF26mIYoT) | [Dengue Fever](https://open.spotify.com/artist/3wFHDAXLsjvclEtifEV7F5) | [Ting Mong](https://open.spotify.com/album/2km8A0QjXH4vXxYek57n7E) | 4:22 |
-| 97 | [Binboğa](https://open.spotify.com/track/0zxL1Bz2ntGvyljo7EVO39) | [Yalnayak](https://open.spotify.com/artist/3jEtefzgPeUqmWbhrh27gu) | [Binboğa](https://open.spotify.com/album/2ZETfZLZlvOUvF2sI4hBZ9) | 4:02 |
-| 98 | [Uummati Attanarsimat \(Heart of Glass\)](https://open.spotify.com/track/74RYxK9eVeNDLdlCJTmQnJ) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Uummati Attanarsimat \(Heart of Glass\)](https://open.spotify.com/album/4qQYh3Udg39IwdwBPM8TZZ) | 3:58 |
+| 96 | [Uummati Attanarsimat \(Heart of Glass\)](https://open.spotify.com/track/74RYxK9eVeNDLdlCJTmQnJ) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Uummati Attanarsimat \(Heart of Glass\)](https://open.spotify.com/album/4qQYh3Udg39IwdwBPM8TZZ) | 3:58 |
+| 97 | [Touch Me Not](https://open.spotify.com/track/1hY1xVHfG9wHrkF26mIYoT) | [Dengue Fever](https://open.spotify.com/artist/3wFHDAXLsjvclEtifEV7F5) | [Ting Mong](https://open.spotify.com/album/2km8A0QjXH4vXxYek57n7E) | 4:22 |
+| 98 | [Binboğa](https://open.spotify.com/track/0zxL1Bz2ntGvyljo7EVO39) | [Yalnayak](https://open.spotify.com/artist/3jEtefzgPeUqmWbhrh27gu) | [Binboğa](https://open.spotify.com/album/2ZETfZLZlvOUvF2sI4hBZ9) | 4:02 |
 | 99 | [Ordunun Dereleri](https://open.spotify.com/track/64Pztp6tg1ZBV9zF09mdFr) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Ordunun Dereleri](https://open.spotify.com/album/4mfZiG69wQPi8f4iJdv2xm) | 4:45 |
-| 100 | [L'homme félin](https://open.spotify.com/track/1p8nQ36Vd8akX6JaJJ9UAY) | [Labelle](https://open.spotify.com/artist/7wF9y3gjWdR3DOtFG5PVFS) | [NOIR ANIMA](https://open.spotify.com/album/2KY2Lb0t4KYC11YDvYeJna) | 4:36 |
+| 100 | [El Diablo Y El Ñau Ñau \(feat\. Chico Mann\)](https://open.spotify.com/track/6mYsi0PrM4EdDBV5cfsNyp) | [Ocote Soul Sounds](https://open.spotify.com/artist/4khzV3qBWcUKdc50QOv8Tc), [Chico Mann](https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB) | [Coconut Rock](https://open.spotify.com/album/7gW7B0IdXwmNaMBAZ0XryK) | 3:57 |
 
 Snapshot ID: `ZmxoNQAAAAALhijxlbj0dYHJblSB3LVG`

@@ -177,6 +177,24 @@
     },
     {
       "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192340,
+      "name": "Cold Shoulder",
+      "url": "https://open.spotify.com/track/3SHGPpmeK4qbxVLVGldMzl"
+    },
+    {
+      "album": {
         "name": "Wild West",
         "url": "https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ"
       },
@@ -338,7 +356,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 230621,
       "name": "Don\u2019t Like Drill (feat. Central Cee)",
       "url": "https://open.spotify.com/track/6LIwF5yxLwnNfVohAwSWdC"
@@ -818,7 +836,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 94500,
       "name": "No Pain",
       "url": "https://open.spotify.com/track/4G9K8NVdInl16lnn5EbJLZ"
@@ -1266,7 +1284,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 212114,
       "name": "West Connect (feat. Central Cee)",
       "url": "https://open.spotify.com/track/1Fb8gCHRkmNAaN8vytd5vg"

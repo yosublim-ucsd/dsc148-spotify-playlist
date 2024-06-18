@@ -4,7 +4,7 @@
 
 > Vibrez au rythme des hits urbains et Afro en feu 🎶
 
-81 songs - 4 hr 6 min
+82 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Agent secret](https://open.spotify.com/track/30B10lRLJJkHttK73Ghyo5) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Agent Secret](https://open.spotify.com/album/0XoS4VGmUz0yAlkirrl03X) | 2:44 | 2024-04-18 | 2024-05-10 |
 | [Akatsuki](https://open.spotify.com/track/3w9OyPSIXaD3kKeFhJoWaR) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Akatsuki](https://open.spotify.com/album/65EesuAKGSKS1PZfLcub5V) | 2:59 | 2024-03-26 |  |
 | [Bad Vibes \(feat\. Seyi Vibez\)](https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Bad Vibes](https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g) | 2:48 | 2024-05-10 |  |
-| [BLADI](https://open.spotify.com/track/16RbqwDYPAHUPR9esyfGlq) | [Flack](https://open.spotify.com/artist/3Fi4gBbVvIHrqEG9TGwRTC) | [BLADI](https://open.spotify.com/album/08GcEYNhOjc5zovnynkbvk) | 3:19 | 2024-03-26 |  |
+| [BLADI](https://open.spotify.com/track/16RbqwDYPAHUPR9esyfGlq) | [Flack](https://open.spotify.com/artist/3Fi4gBbVvIHrqEG9TGwRTC) | [BLADI](https://open.spotify.com/album/08GcEYNhOjc5zovnynkbvk) | 3:19 | 2024-03-26 | 2024-06-18 |
 | [Blue](https://open.spotify.com/track/74Sbxr7GNTQM8RyPEmp9Nq) | [Kaneki](https://open.spotify.com/artist/6y9D9asiDbnfHSZETC6pkZ), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Blue](https://open.spotify.com/album/029ymf5WOrdIbvXv1EdmSN) | 3:07 | 2024-03-26 | 2024-04-24 |
 | [BLUE LOVE](https://open.spotify.com/track/0YZ2ANy2Hhf21koqFpph5F) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC) | 3:07 | 2024-03-26 |  |
 | [Chemin d'or](https://open.spotify.com/track/3rkyVQEgaDR5nZvW10QOrQ) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Carré](https://open.spotify.com/album/4IoXKS2ihE2YnCpyBxcdCn) | 3:32 | 2024-03-26 | 2024-04-19 |
@@ -48,6 +48,7 @@
 | [Layem](https://open.spotify.com/track/2DQesgJDquBgHaJZii1atA) | [Lord Mehdi](https://open.spotify.com/artist/6owJvX8GXLnH24cFMjsptJ) | [Layem](https://open.spotify.com/album/0Hm6EUOkb44U2BzmyVhdbU) | 2:46 | 2024-03-26 | 2024-05-10 |
 | [LGHERBAL](https://open.spotify.com/track/2qNvrq2gmzl7dwReVWLdpD) | [Tflow](https://open.spotify.com/artist/1gEQbGxdBq1vvCskS9qQBI) | [LGHERBAL](https://open.spotify.com/album/6TijljvrYcwq5G1SpJFev4) | 2:45 | 2024-03-26 | 2024-06-14 |
 | [LOCO](https://open.spotify.com/track/1WVesbZHbBbFBEbrnk1Nnb) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [LOCO](https://open.spotify.com/album/3oR3u9aONQNmyyn8SqSA5N) | 2:41 | 2024-04-23 |  |
+| [LV](https://open.spotify.com/track/3PDz3mtJB61Zpc8Bq8ui51) | [Smurxa](https://open.spotify.com/artist/14vgRvHLwVocqfsOWht6wB) | [LV](https://open.spotify.com/album/6ZDribH9XHfeMilznJ2YmS) | 2:54 | 2024-06-17 |  |
 | [MA DOUCE](https://open.spotify.com/track/3G9yB5mhAfdq3toymB5Pug) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [MA DOUCE](https://open.spotify.com/album/2ySxKt2YEOhxUcF0Iw5X1R) | 3:36 | 2024-03-26 |  |
 | [Madama](https://open.spotify.com/track/6jzV27cHgFjY5Cbl6HP8XK) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw) | [Madama](https://open.spotify.com/album/4uhbVUiV2gfJxb35hfw66m) | 2:23 | 2024-03-26 |  |
 | [MARADONA](https://open.spotify.com/track/1GxUG5xWcY2R9hQ3NcE5ya) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 2:40 | 2024-03-26 |  |

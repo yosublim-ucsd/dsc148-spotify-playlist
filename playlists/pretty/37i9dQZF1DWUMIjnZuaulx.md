@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\. Cover: <a href="spotify:artist:4rc8nzClXj7sUjvsHVg6AD">Naomi Raine</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,791 likes - 97 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,871 likes - 97 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 96 | [From My Savior](https://open.spotify.com/track/1MSaw3zb7ZFoXLyxTXiyJX) | [Romeyo Wilson](https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ) | [From My Savior](https://open.spotify.com/album/1LRH1yU3aHVG5oJNbEkEK5) | 2:31 |
 | 97 | [Ransom](https://open.spotify.com/track/6YlAikG2vnFgcMO4tfijub) | [Rudy Currence](https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8) | [Stained Glass Windows](https://open.spotify.com/album/5IlQakSgyg5MaLlyUlTieh) | 4:35 |
 
-Snapshot ID: `ZmvymAAAAABYL75gdeeglvE0TStpAYAE`
+Snapshot ID: `ZnDJ5gAAAABkoXn7Td1qPJ7+ti3HPjKh`

@@ -1,12 +1,12 @@
 {
   "description": "This is TOKiMONSTA. The essential tracks, all in one playlist.",
-  "num_followers": 8010,
+  "num_followers": 8013,
   "original_name": "This Is TOKiMONSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmzZgAAAAAAkgOrJAeTpsviWdhCgTjFC",
+  "snapshot_id": "Zm4rAAAAAABUQLelMjW1MZApxudWK+bW",
   "tracks": [
     {
       "added_at": null,
@@ -355,18 +355,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream Chorus",
-        "url": "https://open.spotify.com/album/3uPpKcsjnkBwb44qudcJDZ"
+        "name": "Creature Dreams",
+        "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
       },
       "artists": [
         {
           "name": "TOKiMONSTA",
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Gavin Turek",
+          "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
         }
       ],
-      "duration_ms": 139426,
-      "name": "Dream Chorus",
-      "url": "https://open.spotify.com/track/0kIpJOynQACVOaafTMOM3M"
+      "duration_ms": 241753,
+      "name": "Little Pleasures",
+      "url": "https://open.spotify.com/track/0rX9TS7ru452E29D7uekAY"
     },
     {
       "added_at": null,
@@ -391,22 +395,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Creature Dreams",
-        "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
+        "name": "Dream Chorus",
+        "url": "https://open.spotify.com/album/3uPpKcsjnkBwb44qudcJDZ"
       },
       "artists": [
         {
           "name": "TOKiMONSTA",
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Gavin Turek",
-          "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
         }
       ],
-      "duration_ms": 241753,
-      "name": "Little Pleasures",
-      "url": "https://open.spotify.com/track/0rX9TS7ru452E29D7uekAY"
+      "duration_ms": 139426,
+      "name": "Dream Chorus",
+      "url": "https://open.spotify.com/track/0kIpJOynQACVOaafTMOM3M"
     },
     {
       "added_at": null,
@@ -431,30 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FOVERE",
-        "url": "https://open.spotify.com/album/1RP9ycGSR3PgUffaLibvh7"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "KRANE",
-          "url": "https://open.spotify.com/artist/2aOoD3zsuYforFcDvUpZoH"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Put It Down",
-      "url": "https://open.spotify.com/track/0GcCn2SHSVLSwWaFJPQmmk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boom",
         "url": "https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO"
       },
@@ -475,6 +451,30 @@
       "duration_ms": 182001,
       "name": "Time To",
       "url": "https://open.spotify.com/track/2mW3CIZa1khCJehpWhp79C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FOVERE",
+        "url": "https://open.spotify.com/album/1RP9ycGSR3PgUffaLibvh7"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "KRANE",
+          "url": "https://open.spotify.com/artist/2aOoD3zsuYforFcDvUpZoH"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "Put It Down",
+      "url": "https://open.spotify.com/track/0GcCn2SHSVLSwWaFJPQmmk"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midnight Menu",
-        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 237357,
-      "name": "Death by Disco",
-      "url": "https://open.spotify.com/track/2pHP1dKdtCEErOLtxwTYcy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Creature Dreams",
         "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 275586,
       "name": "Day Job",
       "url": "https://open.spotify.com/track/15Mo2tdzulBWzaG6Yv37Tq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midnight Menu",
+        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 237357,
+      "name": "Death by Disco",
+      "url": "https://open.spotify.com/track/2pHP1dKdtCEErOLtxwTYcy"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midnight Menu",
-        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 216726,
-      "name": "Sweet Day",
-      "url": "https://open.spotify.com/track/5WSdubzrIpADdcmacJFjCR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Creature Dreams",
         "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 195607,
       "name": "Fallen Arches",
       "url": "https://open.spotify.com/track/1E2qjmmP6gkptMPFmGfHav"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midnight Menu",
+        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 216726,
+      "name": "Sweet Day",
+      "url": "https://open.spotify.com/track/5WSdubzrIpADdcmacJFjCR"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midnight Menu",
-        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 220032,
-      "name": "Lovely Soul",
-      "url": "https://open.spotify.com/track/01wmlBhq22bHYCCvmySnzC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oasis Nocturno (Remixed)",
         "url": "https://open.spotify.com/album/4DukjYnNOXaJgv8JiVcKfH"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 248907,
       "name": "Come and Go - Halogenix Remix",
       "url": "https://open.spotify.com/track/20vmuTwxzhupT4hQhAtdtL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midnight Menu",
+        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 220032,
+      "name": "Lovely Soul",
+      "url": "https://open.spotify.com/track/01wmlBhq22bHYCCvmySnzC"
     },
     {
       "added_at": null,
@@ -935,22 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oasis Nocturno",
-        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 266345,
-      "name": "House of Dal",
-      "url": "https://open.spotify.com/track/0QppVcTeM2ZQlxKbHhs3pf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You're Invited",
         "url": "https://open.spotify.com/album/5LcAvv0x4sgtjOIxhdpLRo"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 212727,
       "name": "Hemisphere",
       "url": "https://open.spotify.com/track/7CA70mF79PyWToJHIvqdhU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oasis Nocturno",
+        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 266345,
+      "name": "House of Dal",
+      "url": "https://open.spotify.com/track/0QppVcTeM2ZQlxKbHhs3pf"
     }
   ],
   "unique_name": "This Is TOKiMONSTA",

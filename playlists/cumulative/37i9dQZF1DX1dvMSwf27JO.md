@@ -4,7 +4,7 @@
 
 > music to get fly to ft\. Teyana Taylor
 
-614 songs - 1 day 9 hr 12 min
+615 songs - 1 day 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Cards On The Table](https://open.spotify.com/track/56NeC5RB6XA4ctZ8FctwG4) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Cards On The Table](https://open.spotify.com/album/3QOKfNss8qymLZprTy2jox) | 2:56 | 2024-05-02 | 2024-05-07 |
 | [Carillon \- Gigi D'Agostino Molto Remix](https://open.spotify.com/track/4sbKTeBfbWAZ8syhKVUqYz) | [Magic Box](https://open.spotify.com/artist/28dHzwKBKuJZUGQKAwlpln), [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [Carillon](https://open.spotify.com/album/7ElE2NUmRAjX6gCan9lHDs) | 8:47 | 2023-09-07 | 2023-10-05 |
 | [Ce Soir](https://open.spotify.com/track/207wpnoruEx0FoLj2Z8cQj) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Ce Soir](https://open.spotify.com/album/1TALRsJFB8dPBIFWL3WfPl) | 2:42 | 2022-08-12 | 2023-09-08 |
-| [Cell Reception](https://open.spotify.com/track/3w0nLMuGyy82tHzWEPzHG2) | [Ice Cream Social](https://open.spotify.com/artist/65Oh7PG58v6dLmMCyp7B9p), [shane doe](https://open.spotify.com/artist/1RF0rh60Ls1x2qz4c018Hi), [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4) | [Cell Reception](https://open.spotify.com/album/7AW2GRQPKJqQwMnMJycw92) | 2:18 | 2024-05-17 |  |
+| [Cell Reception](https://open.spotify.com/track/3w0nLMuGyy82tHzWEPzHG2) | [Ice Cream Social](https://open.spotify.com/artist/65Oh7PG58v6dLmMCyp7B9p), [shane doe](https://open.spotify.com/artist/1RF0rh60Ls1x2qz4c018Hi), [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4) | [Cell Reception](https://open.spotify.com/album/7AW2GRQPKJqQwMnMJycw92) | 2:18 | 2024-05-17 | 2024-06-18 |
 | [Charmander](https://open.spotify.com/track/4NP3gHruXgIo4YSJSNDRBz) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Charmander](https://open.spotify.com/album/5Cy8xrlkPh9lR5XolUM0QE) | 2:11 | 2021-11-04 | 2022-07-12 |
 | [chasing the bus](https://open.spotify.com/track/2nvb9TWAONy5kzsqEUyT2z) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [chasing the bus](https://open.spotify.com/album/1YT9NhBcdQG2dlWouHhaSp) | 3:08 | 2024-05-02 | 2024-05-07 |
 | [Check](https://open.spotify.com/track/1jk9c0gZI0wbn5GvAj7PBV) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Barter 6](https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e) | 3:50 | 2022-08-30 |  |
@@ -585,6 +585,7 @@
 | [Wait a Minute!](https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ARDIPITHECUS](https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h) | 3:16 | 2021-08-05 | 2022-08-27 |
 | [Wake up Jacob](https://open.spotify.com/track/0Gr1QWlPlbdA4n8hTMAXcy) | [Sitcom](https://open.spotify.com/artist/1AHWalyPZ4Zx1s7BampY8C), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Be the One You Love](https://open.spotify.com/album/4vnVALee891bV599C0I6rI) | 3:43 | 2023-09-05 |  |
 | [Walk Like This](https://open.spotify.com/track/0IGjUHYbwnK6Bo8u79d2E3) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Walk Like This](https://open.spotify.com/album/6Hrl23TC9yxPxXhu4jFPqF) | 3:17 | 2024-05-02 | 2024-05-07 |
+| [WAN ME DEAD](https://open.spotify.com/track/7xQNKbIhGbfibisThIb75d) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [WAN ME DEAD](https://open.spotify.com/album/2IZuFx4C7bvUQdCWEiRcLR) | 2:11 | 2024-05-17 |  |
 | [Wanna Be \(with Megan Thee Stallion\)](https://open.spotify.com/track/0Izt8MdEU7zDy2hDsm5YkH) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Wanna Be \(with Megan Thee Stallion\)](https://open.spotify.com/album/06VGCe5MitPzT9VuqH4u1C) | 2:36 | 2024-05-02 | 2024-05-07 |
 | [Warm Leatherette](https://open.spotify.com/track/7mxvuhmRrnQ31vHRm9A9qj) | [The Normal](https://open.spotify.com/artist/6y1jbhyM2QbpU3Bm8Z8fbe) | [Warm Leatherette](https://open.spotify.com/album/3tKJpBOfn19pPUh26tphfD) | 3:23 | 2023-09-07 | 2023-10-05 |
 | [Water](https://open.spotify.com/track/0wYwXrgGrrU1idueX5A1wJ) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 3:20 | 2024-05-02 | 2024-05-07 |

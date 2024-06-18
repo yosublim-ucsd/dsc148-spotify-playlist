@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Belgium.
 
-519 songs - 1 day 2 hr 48 min
+520 songs - 1 day 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,8 +132,9 @@
 | [EASY](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:44 | 2024-03-05 | 2024-03-08 |
 | [Een Vriend Van Mij](https://open.spotify.com/track/4pOO88DFK58M5EZeghPkZv) | [Pieter Embrechts](https://open.spotify.com/artist/329LDCoGezrPu43skOa0tH) | [Onderwoud](https://open.spotify.com/album/7xO8R5S8IoU4utxztlrxk8) | 5:31 | 2024-02-23 | 2024-03-20 |
 | [Elevator](https://open.spotify.com/track/3DQDIWoTNm44PdwNWaiu2c) | [Beachcrimes](https://open.spotify.com/artist/5xWycgZa4Oul2kU6o1QVo7), [Tia Tia](https://open.spotify.com/artist/6fbIkBK4DW2IPnlKk9MLWS) | [PM](https://open.spotify.com/album/6v08UujTzmpaZOUUq9IcYw) | 3:34 | 2024-03-14 | 2024-03-19 |
-| [Elini Ver](https://open.spotify.com/track/4wwZyKI0OtpRfHmpxv6JdR) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Elini Ver](https://open.spotify.com/album/5r0s3anoC7C85G0NvcC0yN) | 2:22 | 2024-06-04 | 2024-06-15 |
+| [Elini Ver](https://open.spotify.com/track/4wwZyKI0OtpRfHmpxv6JdR) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Elini Ver](https://open.spotify.com/album/5r0s3anoC7C85G0NvcC0yN) | 2:22 | 2024-06-04 |  |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-02-15 | 2024-05-06 |
+| [ENIGE ECHTE](https://open.spotify.com/track/4PmcIRzpW13ukIM3SIsbbU) | [JR](https://open.spotify.com/artist/1uBVAOArtDJV3NOliZbEyN) | [ENIGE ECHTE](https://open.spotify.com/album/6alhJuqij8CP5v5MwXT6ob) | 2:00 | 2024-06-17 |  |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-04-30 | 2024-06-16 |
 | [Europapa](https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Europapa](https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS) | 2:40 | 2024-03-19 | 2024-06-02 |
 | [Fall Back](https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Fall Back / Selfish Game](https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR) | 2:09 | 2024-04-19 |  |
@@ -402,7 +403,7 @@
 | [Shook Part 3](https://open.spotify.com/track/4pMUnltcUJs5tTqkrwuCYE) | [Nick Morgan](https://open.spotify.com/artist/29P8YF3232VxBXaU3vE4W8) | [Shook Pt\. 3](https://open.spotify.com/album/4t1LC2icopXccVIOpSPKZ8) | 7:02 | 2024-01-29 | 2024-02-03 |
 | [Sinceramente](https://open.spotify.com/track/60QN1JrgYM7jcfW8pdQFqT) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [E POI SIAMO FINITI NEL VORTICE](https://open.spotify.com/album/4GIt1yQFoBhEi3wOrgZDbg) | 3:35 | 2024-02-27 | 2024-03-05 |
 | [SLAY!](https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [SLAY!](https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx) | 1:47 | 2024-04-02 | 2024-05-08 |
-| [Slide da Treme Melódica v2](https://open.spotify.com/track/6xBpb9zNWlRHTslOAe6kXF) | [DJ FNK](https://open.spotify.com/artist/7nM7RtPXQ6jwNlFTfPyZnA), [Polaris](https://open.spotify.com/artist/4DWPOsGWbW7sBHb1UuBvWs) | [Slide da Treme Melódica v2](https://open.spotify.com/album/4sWmzhpogE4nLa1f2q9Ke0) | 2:45 | 2024-06-12 |  |
+| [Slide da Treme Melódica v2](https://open.spotify.com/track/6xBpb9zNWlRHTslOAe6kXF) | [DJ FNK](https://open.spotify.com/artist/7nM7RtPXQ6jwNlFTfPyZnA), [Polaris](https://open.spotify.com/artist/4DWPOsGWbW7sBHb1UuBvWs) | [Slide da Treme Melódica v2](https://open.spotify.com/album/4sWmzhpogE4nLa1f2q9Ke0) | 2:45 | 2024-06-12 | 2024-06-18 |
 | [Slim Shady](https://open.spotify.com/track/0OdUo9w8jeAOuOUtnGwJJv) | [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk) | [Slim Shady](https://open.spotify.com/album/21k7KeTJQt3xbx4ykAnfDm) | 2:45 | 2024-02-29 | 2024-03-06 |
 | [Slow It Down](https://open.spotify.com/track/51eSHglvG1RJXtL3qI5trr) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 2:41 | 2024-04-09 | 2024-04-12 |
 | [Smart](https://open.spotify.com/track/3lwK3WyKAI5bUuGY1OgGbZ) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Smart \(Remixes\)](https://open.spotify.com/album/4IqfdL14SOkeFN2c5ASmGh) | 2:46 | 2024-03-25 | 2024-04-01 |
@@ -440,7 +441,7 @@
 | [Temps en temps](https://open.spotify.com/track/2ZEzQtuXsSbFJrR9xhhiei) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Frères Ennemis](https://open.spotify.com/album/1HLUjcUDDsszfj7OIl6LGh) | 2:33 | 2024-01-30 | 2024-02-06 |
 | [Ten Thousand \- uit Liefde Voor Muziek](https://open.spotify.com/track/5Scr0LDePHvGM9t7kNEf3X) | [Johannes Genard](https://open.spotify.com/artist/6hmstwvcDUg8I2j5KaeRHE) | [Ten Thousand \- uit Liefde Voor Muziek](https://open.spotify.com/album/7DyME3vnW56oAgtTcowYgy) | 3:40 | 2024-04-23 | 2024-04-25 |
 | [Teresa & Maria](https://open.spotify.com/track/7n3Czk07KugPQOWuqCHDmF) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8), [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Teresa & Maria](https://open.spotify.com/album/0Q3a4oVaiaVAQeq9WPz5aB) | 2:59 | 2024-03-02 | 2024-05-29 |
-| [Terug In De Tijd](https://open.spotify.com/track/0vrKBjEBQAVn3sdhIXmpHE) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Terug In De Tijd](https://open.spotify.com/album/54hRAA81BH7x1af3X7ackS) | 3:07 | 2024-05-31 |  |
+| [Terug In De Tijd](https://open.spotify.com/track/0vrKBjEBQAVn3sdhIXmpHE) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Terug In De Tijd](https://open.spotify.com/album/54hRAA81BH7x1af3X7ackS) | 3:07 | 2024-05-31 | 2024-06-18 |
 | [TEXAS HOLD 'EM](https://open.spotify.com/track/7AYmToZ5y67fBjq4RLFbuq) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/2NXwHjhgaAdkDy6GPSxMAd) | 3:53 | 2024-02-27 | 2024-03-31 |
 | [TEXAS HOLD 'EM](https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:53 | 2024-03-30 | 2024-04-17 |
 | [Thandaza](https://open.spotify.com/track/4x6jx7AeSyE7PlQTdCjIJs) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Arabic Piano](https://open.spotify.com/artist/0Na64T53YX2qe1XG97JyCO) | [Thandaza](https://open.spotify.com/album/6EJu5rECOfBSeHfVM3g6pm) | 6:01 | 2024-04-02 | 2024-04-10 |

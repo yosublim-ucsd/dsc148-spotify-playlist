@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUES7kJcgJ4x.md) - [plain]
 
 > Modernas, rebeldes y divertidas, ¡Así son ellas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,289 likes - 50 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,294 likes - 50 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,16 +27,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUES7kJcgJ4x.md) - [plain]
 | 17 | [Bule, bule](https://open.spotify.com/track/1e5fCFpVSLlpDvUBv8U9zd) | [Queta Garay](https://open.spotify.com/artist/62j60zX240zvCx8ZGfaqjg) | [Peerless 80 Aniversario \- 24 Éxitos](https://open.spotify.com/album/52eGdmCUeEOIJFOM1rGJYX) | 2:33 |
 | 18 | [Tumbaloflesicodelicomicoso](https://open.spotify.com/track/1Ae5yrpad97frKpGWjRVVD) | [Chelo](https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 2:46 |
 | 19 | [Supercalifragilisticoespialidoso](https://open.spotify.com/track/2nsdIXWjz3oq7uK75aJldh) | [Tania Velia](https://open.spotify.com/artist/7JphpBGpfygziWKh2Wuu3G) | [Donde Están las Llaves](https://open.spotify.com/album/60BZH8eGyNMsjl3WvcZVYn) | 2:10 |
-| 20 | [Cerca de ti \- 2015 Remastered Version](https://open.spotify.com/track/3E03E8hqTwUBmkNcWqnC19) | [Las Chic](https://open.spotify.com/artist/17V3HR9eBXClxwY2oS0Foj) | [Bailando el chic \(Remasterizado 2015\)](https://open.spotify.com/album/3PoBHm7Eh5S0MAY42odJ3T) | 2:30 |
-| 21 | [Dime Mi Amor](https://open.spotify.com/track/0OntImjbj7R9nZcWx4CkDv) | [Hilda Aguirre](https://open.spotify.com/artist/3OSm0uwQm0s67bllaGW80E) | [Jingle Jangle](https://open.spotify.com/album/4VO4juUpEGOsIxEmRrkwOC) | 2:02 |
+| 20 | [Dime Mi Amor](https://open.spotify.com/track/0OntImjbj7R9nZcWx4CkDv) | [Hilda Aguirre](https://open.spotify.com/artist/3OSm0uwQm0s67bllaGW80E) | [Jingle Jangle](https://open.spotify.com/album/4VO4juUpEGOsIxEmRrkwOC) | 2:02 |
+| 21 | [Cerca de ti \- 2015 Remastered Version](https://open.spotify.com/track/3E03E8hqTwUBmkNcWqnC19) | [Las Chic](https://open.spotify.com/artist/17V3HR9eBXClxwY2oS0Foj) | [Bailando el chic \(Remasterizado 2015\)](https://open.spotify.com/album/3PoBHm7Eh5S0MAY42odJ3T) | 2:30 |
 | 22 | [Tú No Eres Ye Yé \(Jägerlatein\)](https://open.spotify.com/track/1Za7ZDhPUshMp2MOTiFbKT) | [Blanca Aurora](https://open.spotify.com/artist/4PPSXsmdy7P9QBDuoBLJ7M) | [Tú No Eres Ye Yé](https://open.spotify.com/album/2DuHHwSXls32idFXEZkiI0) | 2:19 |
 | 23 | [Muy Cerca de Tí](https://open.spotify.com/track/5f80txb4SYgEJtO6QTKS9l) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t) | [Cuando España Bailaba el Twist](https://open.spotify.com/album/1S1vdRlUTJVDMMNCEol9zU) | 2:32 |
-| 24 | [Me lo dijo Pérez](https://open.spotify.com/track/3ncN95x01VjT3FPm1ymMCc) | [Karina](https://open.spotify.com/artist/7kL7lbaqaHIUB3Ol5YU69a) | [Los EP's Originales, Vol\. 2](https://open.spotify.com/album/3BdHDRBRICbHKSx5d67PGR) | 2:11 |
-| 25 | [Johnny \- Remastered](https://open.spotify.com/track/5QUna8ZopPtdNbdVKfbo44) | [Marisol](https://open.spotify.com/artist/0sJaoFM0uFCOBE5Qcrhv7n) | [Grabaciones Completas \(Remastered\)](https://open.spotify.com/album/4FYwjdq1HA7SenIHj5gNdQ) | 2:12 |
+| 24 | [Johnny \- Remastered](https://open.spotify.com/track/5QUna8ZopPtdNbdVKfbo44) | [Marisol](https://open.spotify.com/artist/0sJaoFM0uFCOBE5Qcrhv7n) | [Grabaciones Completas \(Remastered\)](https://open.spotify.com/album/4FYwjdq1HA7SenIHj5gNdQ) | 2:12 |
+| 25 | [Me lo dijo Pérez](https://open.spotify.com/track/3ncN95x01VjT3FPm1ymMCc) | [Karina](https://open.spotify.com/artist/7kL7lbaqaHIUB3Ol5YU69a) | [Los EP's Originales, Vol\. 2](https://open.spotify.com/album/3BdHDRBRICbHKSx5d67PGR) | 2:11 |
 | 26 | [Profesor](https://open.spotify.com/track/5JZSW0sHsLPoEPye1jQc4A) | [Alicia Granados](https://open.spotify.com/artist/4MdLsOw1fEglZyW9qkEaft) | [Profesor](https://open.spotify.com/album/1bqkkVj2oGYrp9832YeIfc) | 1:51 |
 | 27 | [Let's Shake Baby](https://open.spotify.com/track/4YxycWQkXTmhxFmlCzeVjg) | [Zoe and the Stormies](https://open.spotify.com/artist/13Ocf5aEBC9rxxx8zEiWf6), [Nikos Mastorakis](https://open.spotify.com/artist/5epd50kg8EHEdO4xIggASf) | [Sixties' Best Greek Pop Songs Vol\. 3](https://open.spotify.com/album/1aK1LgKJJ6lezxkF3eI7Ej) | 2:04 |
-| 28 | [Pourquoi Pas Moi](https://open.spotify.com/track/40PaVbkEZY0sz6m4P4NdfH) | [Stella](https://open.spotify.com/artist/0ZPDnYMSbQCDhIZ3KTkhTA) | [Swinging Mademoiselles](https://open.spotify.com/album/7CkK9z6Cd7xH2Yz0cOPnnb) | 2:53 |
-| 29 | [Snob Ye Ye](https://open.spotify.com/track/4D3FBC7IY6BPfDS2ujBHuX) | [Maleni Castro](https://open.spotify.com/artist/4ANgotw3bp4zcRUsl6tbRt) | [Una Guitarra Española](https://open.spotify.com/album/2WfpqizNpjBpzLEwHboLjp) | 2:05 |
+| 28 | [Snob Ye Ye](https://open.spotify.com/track/4D3FBC7IY6BPfDS2ujBHuX) | [Maleni Castro](https://open.spotify.com/artist/4ANgotw3bp4zcRUsl6tbRt) | [Una Guitarra Española](https://open.spotify.com/album/2WfpqizNpjBpzLEwHboLjp) | 2:05 |
+| 29 | [Pourquoi Pas Moi](https://open.spotify.com/track/40PaVbkEZY0sz6m4P4NdfH) | [Stella](https://open.spotify.com/artist/0ZPDnYMSbQCDhIZ3KTkhTA) | [Swinging Mademoiselles](https://open.spotify.com/album/7CkK9z6Cd7xH2Yz0cOPnnb) | 2:53 |
 | 30 | [The "In" Crowd](https://open.spotify.com/track/139BfysfluWVAu4gnNh7L8) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [Pure Instrumental Memories](https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq) | 3:14 |
 | 31 | [The Born Loser's Theme](https://open.spotify.com/track/2K89nNrayOqbAWDlTwxsd4) | [The Sidewalk Sounds](https://open.spotify.com/artist/4CV3N7gi2jJZJDZJP0ib60) | [Born Losers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx) | 1:47 |
 | 32 | [Tengo 17 Años](https://open.spotify.com/track/6MhIzu7jyYl7lCmAGLPhNZ) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Rocio Durcal \- Canciones De Juventud Los Años Prodigiosos De Una Artista Inolvidable 1962\- 1972](https://open.spotify.com/album/13lSObYUJPdxDePasnJxYh) | 3:01 |

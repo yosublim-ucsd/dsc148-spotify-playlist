@@ -1,12 +1,12 @@
 {
   "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
-  "num_followers": 38888,
+  "num_followers": 38893,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmuIAAAAAACu2wocTDxH618bes+vj1Jq",
+  "snapshot_id": "Zm4rAAAAAADzaIbgDNnC9P5XzLLnSO1b",
   "tracks": [
     {
       "added_at": null,
@@ -571,38 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stories On Stories",
-        "url": "https://open.spotify.com/album/7rqxrTJYrTRSszKiqn6VXK"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 240457,
-      "name": "Stories On Stories",
-      "url": "https://open.spotify.com/track/3GLialPfon3PHfwNjZvgi2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M\u00e1s Profundo",
-        "url": "https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 308533,
-      "name": "Magnifico",
-      "url": "https://open.spotify.com/track/4TttGy09a1Cd8eeA8w57fQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pura Sal",
         "url": "https://open.spotify.com/album/4VTKlmH5109WzN8ZRJSzdV"
       },
@@ -623,6 +591,22 @@
       "duration_ms": 266253,
       "name": "Por la Eternidad",
       "url": "https://open.spotify.com/track/7vi7vdA2mYGC0vkD0bB14J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00e1s Profundo",
+        "url": "https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 308533,
+      "name": "Magnifico",
+      "url": "https://open.spotify.com/track/4TttGy09a1Cd8eeA8w57fQ"
     },
     {
       "added_at": null,
@@ -663,26 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Famous For (I Believe) - Collection",
-        "url": "https://open.spotify.com/album/1qIjL3BCQeXyXmy6fI8iQu"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 242427,
-      "name": "Tu Poder (Creo en Ti)",
-      "url": "https://open.spotify.com/track/3sb13o5UC6YzcvNzOm5aaA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Solo Tu... Lo Unico Que Quiero",
         "url": "https://open.spotify.com/album/6B0oYyezYLKGtmhKhHOEwP"
       },
@@ -715,22 +679,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grande y Fiel (Live)",
-        "url": "https://open.spotify.com/album/0TCN0IwS8kJ1qwgMu0tElH"
+        "name": "Famous For (I Believe) - Collection",
+        "url": "https://open.spotify.com/album/1qIjL3BCQeXyXmy6fI8iQu"
       },
       "artists": [
         {
-          "name": "Gateway Worship Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
         },
         {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 335528,
-      "name": "El Shaddai - Live",
-      "url": "https://open.spotify.com/track/7nHFsC0S9EgcxneuxNxdpB"
+      "duration_ms": 242427,
+      "name": "Tu Poder (Creo en Ti)",
+      "url": "https://open.spotify.com/track/3sb13o5UC6YzcvNzOm5aaA"
     },
     {
       "added_at": null,
@@ -751,6 +715,26 @@
       "duration_ms": 458993,
       "name": "Mi Padre Me Ama - Adoraci\u00f3n Espont\u00e1nea",
       "url": "https://open.spotify.com/track/18Xx6rRsGhSjThPrTKzE1X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grande y Fiel (Live)",
+        "url": "https://open.spotify.com/album/0TCN0IwS8kJ1qwgMu0tElH"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 335528,
+      "name": "El Shaddai - Live",
+      "url": "https://open.spotify.com/track/7nHFsC0S9EgcxneuxNxdpB"
     },
     {
       "added_at": null,
@@ -863,50 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Esa Es La Raz\u00f3n (Live)",
-        "url": "https://open.spotify.com/album/5HTaOwYUl701aYLyxYlezf"
-      },
-      "artists": [
-        {
-          "name": "Gateway Worship Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
-        },
-        {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
-        },
-        {
-          "name": "Travy Joe",
-          "url": "https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 395757,
-      "name": "Esa Es La Raz\u00f3n - Live",
-      "url": "https://open.spotify.com/track/3lwiyQh8K7qWumYTiheXlq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M\u00e1s Profundo",
-        "url": "https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 242813,
-      "name": "Santo (Tu Nombre Es)",
-      "url": "https://open.spotify.com/track/3zZVyvL9DGymP5ICt9bmsf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EVANGELIO (En Vivo)",
         "url": "https://open.spotify.com/album/4x17cmkqwt4gA0q0zVnDEd"
       },
@@ -947,6 +887,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "M\u00e1s Profundo",
+        "url": "https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 242813,
+      "name": "Santo (Tu Nombre Es)",
+      "url": "https://open.spotify.com/track/3zZVyvL9DGymP5ICt9bmsf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Esa Es La Raz\u00f3n (Live)",
+        "url": "https://open.spotify.com/album/5HTaOwYUl701aYLyxYlezf"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Travy Joe",
+          "url": "https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 395757,
+      "name": "Esa Es La Raz\u00f3n - Live",
+      "url": "https://open.spotify.com/track/3lwiyQh8K7qWumYTiheXlq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Venga Tu Reino",
         "url": "https://open.spotify.com/album/7HfjVzPW3EPDhbXA8jKPp4"
       },
@@ -971,6 +955,26 @@
       "duration_ms": 453077,
       "name": "Me Rindo (feat. Karen Espinosa & Christine D'Clario)",
       "url": "https://open.spotify.com/track/2qs43wB0Gts37Kg53TZAot"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ambientes de Cuna",
+        "url": "https://open.spotify.com/album/5G15j9kqUFavMmjyrBTQCu"
+      },
+      "artists": [
+        {
+          "name": "Aliento Kids",
+          "url": "https://open.spotify.com/artist/3YizQtvjJAAx4IJSRxVBYt"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 452354,
+      "name": "Como Dijiste",
+      "url": "https://open.spotify.com/track/7eTHXbvKavcvhSoD5L7D5J"
     },
     {
       "added_at": null,

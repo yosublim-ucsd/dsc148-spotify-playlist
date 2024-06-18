@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 
 > Sweet gems to help you slow down and savor your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,534 likes - 125 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,609 likes - 125 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 | 51 | [Lullaby](https://open.spotify.com/track/2s5bAoQpITfCJiX5LRBx60) | [Britti](https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn) | [Lullaby](https://open.spotify.com/album/2PT518qif2NTxvgizAObme) | 3:35 |
 | 52 | [Palace \- Cover](https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Palace \(Cover\) / Diane](https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS) | 3:49 |
 | 53 | [Sleepless in Seattle](https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Sleepless in Seattle](https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL) | 4:00 |
-| 54 | [Life Is](https://open.spotify.com/track/3aJrUfPxOANdzY1weAqrgH) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Life Is](https://open.spotify.com/album/54eLc8KKiIJcWmrkQV3A2b) | 3:08 |
-| 55 | [Golden \(Acoustic\)](https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Golden \(Acoustic\)](https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br) | 5:07 |
+| 54 | [Golden \(Acoustic\)](https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Golden \(Acoustic\)](https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br) | 5:07 |
+| 55 | [Life Is](https://open.spotify.com/track/3aJrUfPxOANdzY1weAqrgH) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Life Is](https://open.spotify.com/album/54eLc8KKiIJcWmrkQV3A2b) | 3:08 |
 | 56 | [is there still a light on?](https://open.spotify.com/track/5y6psYdUSjFFVTGcN5YqmE) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [is there still a light on?](https://open.spotify.com/album/2yCWy5yUJaVhYnm5wZTCET) | 4:11 |
 | 57 | [Any Light](https://open.spotify.com/track/0M6t7xgQNc0EMIN6rJ4xJO) | [Loving](https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq) | [Any Light](https://open.spotify.com/album/14IfM9MyHqdo2523Lk0Szo) | 3:00 |
 | 58 | [To Learn](https://open.spotify.com/track/63a0svve0p3CIiGx9a9DTy) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [To Learn](https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l) | 2:17 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 | 80 | [Sorrow](https://open.spotify.com/track/7K1isQ76aI5TG5RziWpKCM) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Sorrow](https://open.spotify.com/album/5UWayfTfIPcFAmZvpz2yJp) | 3:55 |
 | 81 | [Golden](https://open.spotify.com/track/77EOVfDhyUX5nSzzc4ZEGX) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Good Woman](https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR) | 5:13 |
 | 82 | [You Never Know](https://open.spotify.com/track/3BOU0eJQjfmhbZsQ76OJi9) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [You Never Know](https://open.spotify.com/album/5FecyVN6cTbuI1UnwvaYcD) | 4:50 |
-| 83 | [Stones & Waves](https://open.spotify.com/track/634FnvBHSfPkHbG5ovee8Y) | [Elias Hix](https://open.spotify.com/artist/7caEhKgBilB0MHIyWWWGsV) | [Stones & Waves](https://open.spotify.com/album/6GXgoZCLZA8FVakysuTHkZ) | 3:10 |
-| 84 | [Wait Up](https://open.spotify.com/track/464vzE6yinrOYJU0pba5HY) | [Neffy](https://open.spotify.com/artist/75Qz8WXumn9ghkXDwpj34N) | [Wait Up](https://open.spotify.com/album/1vodStDlRmay0I5Wbfdjng) | 3:11 |
+| 83 | [Wait Up](https://open.spotify.com/track/464vzE6yinrOYJU0pba5HY) | [Neffy](https://open.spotify.com/artist/75Qz8WXumn9ghkXDwpj34N) | [Wait Up](https://open.spotify.com/album/1vodStDlRmay0I5Wbfdjng) | 3:11 |
+| 84 | [Stones & Waves](https://open.spotify.com/track/634FnvBHSfPkHbG5ovee8Y) | [Elias Hix](https://open.spotify.com/artist/7caEhKgBilB0MHIyWWWGsV) | [Stones & Waves](https://open.spotify.com/album/6GXgoZCLZA8FVakysuTHkZ) | 3:10 |
 | 85 | [Same Old Eyes](https://open.spotify.com/track/0x2xErt1R95NpZPNjccGnu) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Twenty\-Twenty](https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO) | 4:01 |
 | 86 | [Smoke \- Acoustic](https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [There's Always Glimmer \(Deluxe Version\)](https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y) | 2:32 |
 | 87 | [Everything](https://open.spotify.com/track/0tsaquCXztQovOSRJhVCVi) | [Sun Child](https://open.spotify.com/artist/37INDqVvlodgiw1G55deqX) | [Everything](https://open.spotify.com/album/7iqiQOwXT2Gf0gCsNi80i8) | 3:53 |
@@ -99,12 +99,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 | 89 | [River](https://open.spotify.com/track/62h7AycdIWjq6uYWC0LBht) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [Patty Griffin](https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0) | 5:23 |
 | 90 | [Fixed](https://open.spotify.com/track/2BCTLF0QVwtM2BMECbmLx9) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj) | [Violets as Camouflage](https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk) | 3:07 |
 | 91 | [Evidence of Living](https://open.spotify.com/track/3vTw0hP6ksUfC6dQ9JnaG7) | [David Keenan](https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG) | [A Beginner's Guide to Bravery](https://open.spotify.com/album/5zo0VhHzIPJJMEdhiV3DLo) | 6:48 |
-| 92 | [Kathy's Song](https://open.spotify.com/track/6i6hIiqSXwfzU4B2Tbtw4S) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [You Don't Own Me Anymore](https://open.spotify.com/album/48oEbT2demuZV5mRLlbaLC) | 3:43 |
-| 93 | [Way I Go](https://open.spotify.com/track/6v0X2SMVKK9gXHH9y6ilA4) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Way I Go](https://open.spotify.com/album/5YqVZuseoRLBTC5xoYVvFj) | 4:07 |
-| 94 | [Roof of the World](https://open.spotify.com/track/0pOYLQ8ZnPF1G6GE43Jf7U) | [Justin Wade Tam](https://open.spotify.com/artist/2kxKYNPzruEZEDD7ccBrLi) | [Roof of the World](https://open.spotify.com/album/4VDDyQSZ7fT8YgQqjufWoP) | 4:16 |
-| 95 | [No Fooling Me](https://open.spotify.com/track/0GEdMvgn1eLGBQeoDeSyPs) | [Ward Thomas](https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw) | [Restless Minds](https://open.spotify.com/album/5wIJ5KSFs23rMjn3JDoTR7) | 2:46 |
-| 96 | [Collateral](https://open.spotify.com/track/0WwBPTz2wuv3A8qLIklg6y) | [Daulton Hopkins](https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS) | [Collateral](https://open.spotify.com/album/4rDtkcswamhTIK6xOEgbWF) | 2:59 |
-| 97 | [I Only See the Moon](https://open.spotify.com/track/37Fhfv4v0beY9Q57Hfg5Dp) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [I Only See the Moon](https://open.spotify.com/album/7tXYHXjFDzAtPIZoIoX2W6) | 2:57 |
+| 92 | [Way I Go](https://open.spotify.com/track/6v0X2SMVKK9gXHH9y6ilA4) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Way I Go](https://open.spotify.com/album/5YqVZuseoRLBTC5xoYVvFj) | 4:07 |
+| 93 | [Roof of the World](https://open.spotify.com/track/0pOYLQ8ZnPF1G6GE43Jf7U) | [Justin Wade Tam](https://open.spotify.com/artist/2kxKYNPzruEZEDD7ccBrLi) | [Roof of the World](https://open.spotify.com/album/4VDDyQSZ7fT8YgQqjufWoP) | 4:16 |
+| 94 | [No Fooling Me](https://open.spotify.com/track/0GEdMvgn1eLGBQeoDeSyPs) | [Ward Thomas](https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw) | [Restless Minds](https://open.spotify.com/album/5wIJ5KSFs23rMjn3JDoTR7) | 2:46 |
+| 95 | [I Only See the Moon](https://open.spotify.com/track/37Fhfv4v0beY9Q57Hfg5Dp) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [I Only See the Moon](https://open.spotify.com/album/7tXYHXjFDzAtPIZoIoX2W6) | 2:57 |
+| 96 | [Kathy's Song](https://open.spotify.com/track/6i6hIiqSXwfzU4B2Tbtw4S) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [You Don't Own Me Anymore](https://open.spotify.com/album/48oEbT2demuZV5mRLlbaLC) | 3:43 |
+| 97 | [Collateral](https://open.spotify.com/track/0WwBPTz2wuv3A8qLIklg6y) | [Daulton Hopkins](https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS) | [Collateral](https://open.spotify.com/album/4rDtkcswamhTIK6xOEgbWF) | 2:59 |
 | 98 | [Carrie](https://open.spotify.com/track/6RsQrfzyexFtl37NOVjT0S) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Carrie](https://open.spotify.com/album/2SoOXRCpYdmeB07e9Ln6Ub) | 4:02 |
 | 99 | [Fallout](https://open.spotify.com/track/359hAVmBw0503I81ATOcaJ) | [Jesse Jo Stark](https://open.spotify.com/artist/1VmIiQ7VHrqHg90igSWrB0) | [Fallout](https://open.spotify.com/album/1moTvG9SmxZ59rYEpitQ64) | 3:51 |
 | 100 | [Reliance](https://open.spotify.com/track/2rNlmDqduDNkj8W9D1O7KM) | [Amy Jay](https://open.spotify.com/artist/7ztk56WZhRA5oIiMaNYuh3) | [Reliance](https://open.spotify.com/album/2tTLL49vo53UoDXLcDjPgS) | 3:39 |
@@ -129,9 +129,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 | 119 | [when i look at you.](https://open.spotify.com/track/2Hf4lbVibsJo6u6cFAxwdQ) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [when i look at you.](https://open.spotify.com/album/1RxM5TK6tax3e20Z90SRPC) | 3:52 |
 | 120 | [Love Is Everywhere \(Beware\)](https://open.spotify.com/track/4hrJhMznNddR7UThDKHSJy) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Love Is Everywhere \(Beware\)](https://open.spotify.com/album/0xZgWQ2PZZnFK6T1Lr0OMv) | 3:33 |
 | 121 | [The Swimmer \(To Be an Old Man\)](https://open.spotify.com/track/7LEGwwvRtilCPvNrHxxRGw) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Bravado](https://open.spotify.com/album/6HG6bnPHDDW3R6RBlJBFGq) | 4:07 |
-| 122 | [I Just Love You](https://open.spotify.com/track/0q7kQr5gUO8SxzNfru6k9s) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [I Just Love You](https://open.spotify.com/album/2owEBEzStwkeUDp7dHLj9R) | 3:15 |
-| 123 | [The Barrel](https://open.spotify.com/track/04XeEuHyG4Z3NKY1zgAYEO) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/0QNJa03XQeMOuQhi9izThh) | 4:59 |
-| 124 | [First Defeat](https://open.spotify.com/track/57FqmzNGTziRPCyuqaUrHo) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Ledges](https://open.spotify.com/album/27VFXuIlqXgZeIImVfjszW) | 4:03 |
-| 125 | [Masterpiece \- \(solo\)](https://open.spotify.com/track/5cic8eTn6twPA0ArO8zcjR) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dandelion](https://open.spotify.com/album/3eFyzMClI2LYbGBlwzlqLQ) | 4:00 |
+| 122 | [Wake Me](https://open.spotify.com/track/6pOiBHK2mMiSNnPsYNGsEc) | [Message To Bears](https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3) | [Folding Leaves](https://open.spotify.com/album/10BngwMbchdQ5W3LN4tFuk) | 5:31 |
+| 123 | [I Just Love You](https://open.spotify.com/track/0q7kQr5gUO8SxzNfru6k9s) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [I Just Love You](https://open.spotify.com/album/2owEBEzStwkeUDp7dHLj9R) | 3:15 |
+| 124 | [The Barrel](https://open.spotify.com/track/04XeEuHyG4Z3NKY1zgAYEO) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/0QNJa03XQeMOuQhi9izThh) | 4:59 |
+| 125 | [First Defeat](https://open.spotify.com/track/57FqmzNGTziRPCyuqaUrHo) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Ledges](https://open.spotify.com/album/27VFXuIlqXgZeIImVfjszW) | 4:03 |
 
 Snapshot ID: `ZiKQiwAAAAA8s3N4AZn/1qo+RxAHLwhe`

@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-353 songs - 19 hr 22 min
+354 songs - 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,7 +242,8 @@
 | [Ragnarok](https://open.spotify.com/track/5n5d39gcjEstUpM6kadJYF) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa) | [Ragnarok](https://open.spotify.com/album/263NdHDN0i3w7CNrfDFh6P) | 4:09 | 2022-04-08 | 2022-07-29 |
 | [Rain](https://open.spotify.com/track/4SGCk2NRPEueHeupJiIdy4) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [Rain](https://open.spotify.com/album/7qfpJ7a2HZpempfpBBkPmd) | 2:54 | 2021-11-19 | 2022-01-08 |
 | [Rainbow Brain](https://open.spotify.com/track/2XDNYySUXdZNlACNr7XRn1) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY), [Chrishira Perrier](https://open.spotify.com/artist/0A7SwEIXcHDINnTgiHq5M2) | [Rainbow Brain](https://open.spotify.com/album/1BHSEilVU74s7UKj1bToQA) | 4:21 | 2021-11-19 | 2022-01-08 |
-| [RATATA](https://open.spotify.com/track/4wteGC0HtLeZWjDcczc4Pw) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Quest For Fire](https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt) | 2:06 | 2023-02-24 |  |
+| [RATATA](https://open.spotify.com/track/3YVeaqhSFth8QAL45wO19L) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [RATATA](https://open.spotify.com/album/1Gjfloocho6vjWqkxhW6L4) | 2:06 | 2024-06-17 |  |
+| [RATATA](https://open.spotify.com/track/4wteGC0HtLeZWjDcczc4Pw) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Quest For Fire](https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt) | 2:06 | 2023-02-24 | 2024-06-18 |
 | [Rattle Your Bones](https://open.spotify.com/track/2QXGAgIReGxutvkKg2FjDh) | [Volt](https://open.spotify.com/artist/2kKSibjeb2x2e6L3VjJkRu), [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Rattle Your Bones](https://open.spotify.com/album/1fz3JrQ1Z1LImADGSCEWzi) | 2:43 | 2021-11-19 | 2022-01-08 |
 | [READY](https://open.spotify.com/track/5qXBSsV4uMtyAeL1ZkWPqr) | [P.A.F.F.](https://open.spotify.com/artist/5ynSJLaMOekhm2xGFlK08a), [Rockstar Payso](https://open.spotify.com/artist/1zRjufpe1ZYK0nqNwTW6Wx) | [808 WAYS TO DIE](https://open.spotify.com/album/0qMSWJSCjDyWxN9eys9jaa) | 3:12 | 2021-11-19 | 2022-01-08 |
 | [Ready For War \(feat\. Joe Buras of Born Of Osiris\)](https://open.spotify.com/track/1lYXxGp7yHS4mTweHvmVtE) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Dogma](https://open.spotify.com/artist/2Yqpp9KVye0sP88SinqAPs), [Joe Buras](https://open.spotify.com/artist/6ZEQd5GaRTVFKuXGFKYXRt), [Born Of Osiris](https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt) | [Ready For War \(feat\. Joe Buras of Born Of Osiris\)](https://open.spotify.com/album/1IfN5ILhMSmTf5e5Opn2XA) | 3:05 | 2021-11-19 | 2022-01-08 |

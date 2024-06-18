@@ -403,6 +403,32 @@
     },
     {
       "album": {
+        "name": "Anestesia",
+        "url": "https://open.spotify.com/album/1xbZVMAqB3YL2HfXZyMOfb"
+      },
+      "artists": [
+        {
+          "name": "Venesti",
+          "url": "https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU"
+        },
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        },
+        {
+          "name": "Slow Mike",
+          "url": "https://open.spotify.com/artist/25ffNKG1EAXf8RBN88lXKH"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165856,
+      "name": "ANESTESIA",
+      "url": "https://open.spotify.com/track/0FBYr7mYNWv4p1F6KPBisj"
+    },
+    {
+      "album": {
         "name": "CARPETA DE VERANO (VOL. 1)",
         "url": "https://open.spotify.com/album/09rh3FOkytsok3CPyKuRSh"
       },
@@ -1479,6 +1505,28 @@
     },
     {
       "album": {
+        "name": "Con la vida al centro",
+        "url": "https://open.spotify.com/album/1OROJufh2WokWE8aMzNlDm"
+      },
+      "artists": [
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        },
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172418,
+      "name": "Con la vida al centro",
+      "url": "https://open.spotify.com/track/0TCDtpmn2uLtQzrLZikIKR"
+    },
+    {
+      "album": {
         "name": "Conexi\u00f3n Ancestral",
         "url": "https://open.spotify.com/album/79OKhULelTTI45ivhaKiQ9"
       },
@@ -2406,6 +2454,28 @@
       "duration_ms": 266178,
       "name": "Falling Back",
       "url": "https://open.spotify.com/track/1vbn9fEyw1IYhqgZJdu9ZB"
+    },
+    {
+      "album": {
+        "name": "always centered at night",
+        "url": "https://open.spotify.com/album/6Q9F246p5fOQzz8tts4ylS"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Raquel Rodriguez",
+          "url": "https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245471,
+      "name": "feelings come undone",
+      "url": "https://open.spotify.com/track/6ac9BW8zBHo2vhUVkswM9o"
     },
     {
       "album": {
@@ -3992,7 +4062,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 216980,
       "name": "Low Key (feat. Humby)",
       "url": "https://open.spotify.com/track/4PfR2vNZ3ig9OCyZmWsQL2"
@@ -5748,7 +5818,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 141031,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/7nFIZVAJEYbwbB5nbzkoka"
@@ -6372,7 +6442,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 171789,
       "name": "SOL",
       "url": "https://open.spotify.com/track/4uVrU5XO5MxKbNlfjoBo5Z"
@@ -6778,6 +6848,28 @@
       "duration_ms": 180648,
       "name": "Tengamos Pasado",
       "url": "https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP"
+    },
+    {
+      "album": {
+        "name": "Tengo Un Plan (Remix)",
+        "url": "https://open.spotify.com/album/13CfzKNWzSAkJj6nsFadsQ"
+      },
+      "artists": [
+        {
+          "name": "Key-Key",
+          "url": "https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215448,
+      "name": "Tengo Un Plan - Remix",
+      "url": "https://open.spotify.com/track/6SJ01hvFkBLTUnkLyZ72G5"
     },
     {
       "album": {
@@ -7522,7 +7614,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 176520,
       "name": "VIVO",
       "url": "https://open.spotify.com/track/5FiLiXXCn6dd7tESjc8nTt"

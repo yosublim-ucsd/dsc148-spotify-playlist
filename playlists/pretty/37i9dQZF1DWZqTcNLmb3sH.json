@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover :  Krishnam Pranaya Sakhi\n",
-  "num_followers": 57725,
+  "num_followers": 57733,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmwuDAAAAABLzuxWtA4R1ddSokx0u/UE",
+  "snapshot_id": "Zm/b5AAAAADN4inImdEiqIjSTQgrcvUd",
   "tracks": [
     {
       "added_at": "2024-06-11 10:34:59",
@@ -67,6 +67,30 @@
       "duration_ms": 209019,
       "name": "Padhe Padhe (feat. Rajavardan, Rihana & Divya Suresh) [From \"Hiranya - The Hitman\"]",
       "url": "https://open.spotify.com/track/5MtySuDzWviisruGhEU8Nr"
+    },
+    {
+      "added_at": "2024-06-17 06:46:15",
+      "album": {
+        "name": "Dhoom Dham (From \" LoveLi \")",
+        "url": "https://open.spotify.com/album/5at3LpeCS0Tnem9vV5cxVK"
+      },
+      "artists": [
+        {
+          "name": "Supreeth Phalguna",
+          "url": "https://open.spotify.com/artist/5QlgyJNe32Beofvbw7RhsA"
+        },
+        {
+          "name": "Pramod Maravanthe",
+          "url": "https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr"
+        },
+        {
+          "name": "J. Anoop Seelin",
+          "url": "https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R"
+        }
+      ],
+      "duration_ms": 174525,
+      "name": "Dhoom Dham - From \" LoveLi \"",
+      "url": "https://open.spotify.com/track/5ovBxwA1UO3SPIbUPrvwS7"
     },
     {
       "added_at": "2024-06-13 11:42:28",
@@ -139,6 +163,30 @@
       "duration_ms": 200374,
       "name": "My Marriage is Fixed (From \"Krishnam Pranaya Sakhi\")",
       "url": "https://open.spotify.com/track/06dfByjLibFeOmhFAy6hLr"
+    },
+    {
+      "added_at": "2024-06-17 06:45:38",
+      "album": {
+        "name": "Kaadaadi (Kannada)",
+        "url": "https://open.spotify.com/album/0B4LYwORNZqX1anawKLtKR"
+      },
+      "artists": [
+        {
+          "name": "Bheems Ceciroleo",
+          "url": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
+        },
+        {
+          "name": "Ananya Bhat",
+          "url": "https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8"
+        },
+        {
+          "name": "Krishna",
+          "url": "https://open.spotify.com/artist/5qG25VRsnLdydJTj1VGZSk"
+        }
+      ],
+      "duration_ms": 167640,
+      "name": "Kiri Kiri",
+      "url": "https://open.spotify.com/track/6wTlVAheYU6rErV2QGwWRg"
     },
     {
       "added_at": "2024-06-13 11:42:28",
@@ -1679,74 +1727,6 @@
       "duration_ms": 172742,
       "name": "Ivane Avatara Purusha (From \"Avatara Purusha 2\")",
       "url": "https://open.spotify.com/track/6yhZJxvU8kYHGtEXaiPdSY"
-    },
-    {
-      "added_at": "2024-04-03 12:06:52",
-      "album": {
-        "name": "Manaselede (From \"Grey Games\")",
-        "url": "https://open.spotify.com/album/4KiAbEPrlHLwjelsXm1hJq"
-      },
-      "artists": [
-        {
-          "name": "Pancham Jeeva",
-          "url": "https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s"
-        },
-        {
-          "name": "Shriyansh Shreeram",
-          "url": "https://open.spotify.com/artist/4B1sflNWueE49cSjMTPgQO"
-        }
-      ],
-      "duration_ms": 237051,
-      "name": "Manaselede (From \"Grey Games\")",
-      "url": "https://open.spotify.com/track/1wPDauXPTSKi06njhTwTY3"
-    },
-    {
-      "added_at": "2024-03-27 08:31:33",
-      "album": {
-        "name": "Manada Kitaki (From \"Lineman\") (Kannada)",
-        "url": "https://open.spotify.com/album/5kfzOQ9chuTppeplKmXRUW"
-      },
-      "artists": [
-        {
-          "name": "Kadri Manikanth",
-          "url": "https://open.spotify.com/artist/0CTZkrzz9PYo5m9MvTymA0"
-        },
-        {
-          "name": "Haricharan",
-          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
-        },
-        {
-          "name": "V Raghu Shastry",
-          "url": "https://open.spotify.com/artist/4HIXKu2NIlPwjhDVj9l4LA"
-        }
-      ],
-      "duration_ms": 198968,
-      "name": "Manada Kitaki (From \"Lineman\") (Kannada)",
-      "url": "https://open.spotify.com/track/5lRCjJMhS9C1GwJNNOGsBe"
-    },
-    {
-      "added_at": "2024-04-03 12:08:10",
-      "album": {
-        "name": "Modala Dinada Maathu (From \"Ratna\")",
-        "url": "https://open.spotify.com/album/02uNJ1eVshBbtUi9yuq9j9"
-      },
-      "artists": [
-        {
-          "name": "Rajesh Krishnan",
-          "url": "https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA"
-        },
-        {
-          "name": "Shruthi Prahlada",
-          "url": "https://open.spotify.com/artist/1KW5uuc8ZpuVbpnAnopYpi"
-        },
-        {
-          "name": "Sathish Babu",
-          "url": "https://open.spotify.com/artist/0QIDBVhKyNWgBzJYyB1T6R"
-        }
-      ],
-      "duration_ms": 174694,
-      "name": "Modala Dinada Maathu (From \"Ratna\")",
-      "url": "https://open.spotify.com/track/3ZcaL4nLaaQFZ9oJWr6ftW"
     }
   ],
   "unique_name": "Latest Kannada",

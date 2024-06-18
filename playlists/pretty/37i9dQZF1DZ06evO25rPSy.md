@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rPSy.md) - [plain]
 
 ### [This Is Pedro Suárez\-Vértiz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO25rPSy)
 
-> This Is Pedro Suárez\-Vértiz\. Los temas esenciales, todos en una lista.
+> This is Pedro Suárez\-Vértiz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,620 likes - 44 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,630 likes - 44 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Cuéntame](https://open.spotify.com/track/76KLnsqCiFEFTEQp2Vaf8R) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [\(No Existen\) Técnicas para Olvidar](https://open.spotify.com/album/0R0UUOJ6km3KSucmDUPlyS) | 3:58 |
-| 2 | [Un Vino, Una Cerveza](https://open.spotify.com/track/5Q2J37xbIR60z6ifswoGKe) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Degeneracion Actual](https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx) | 4:35 |
+| 1 | [Un Vino, Una Cerveza](https://open.spotify.com/track/5Q2J37xbIR60z6ifswoGKe) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Degeneracion Actual](https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx) | 4:35 |
+| 2 | [Cuéntame](https://open.spotify.com/track/76KLnsqCiFEFTEQp2Vaf8R) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [\(No Existen\) Técnicas para Olvidar](https://open.spotify.com/album/0R0UUOJ6km3KSucmDUPlyS) | 3:58 |
 | 3 | [Los Globos del Cielo](https://open.spotify.com/track/0gnsuw6eGZEwph1rKnxzOu) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Póntelo en la Lengua](https://open.spotify.com/album/0MJmowf2LOm4U6TJmXHnW1) | 3:59 |
 | 4 | [Como las Mariposas](https://open.spotify.com/track/7guD52BYWJ9QGtYsdAUhNu) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Play](https://open.spotify.com/album/7huVX9xQKmsWtRQrS7LCbB) | 3:49 |
-| 5 | [Esa Sí Es una Mujer](https://open.spotify.com/track/0XXbz44sfkVbDgs2c7sKOS) | [Christian Meier](https://open.spotify.com/artist/3OgfCHk8YwaZ7NjQHbL4f3), [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [No Me Acuerdo Quién Fui](https://open.spotify.com/album/6T0Ekn1CIDccf5CbDRfHkF) | 3:51 |
-| 6 | [Degeneración Actual](https://open.spotify.com/track/58t9Q8VqXGhaqtilMkIkRx) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Degeneracion Actual](https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx) | 5:16 |
+| 5 | [Degeneración Actual](https://open.spotify.com/track/58t9Q8VqXGhaqtilMkIkRx) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Degeneracion Actual](https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx) | 5:16 |
+| 6 | [Esa Sí Es una Mujer](https://open.spotify.com/track/0XXbz44sfkVbDgs2c7sKOS) | [Christian Meier](https://open.spotify.com/artist/3OgfCHk8YwaZ7NjQHbL4f3), [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [No Me Acuerdo Quién Fui](https://open.spotify.com/album/6T0Ekn1CIDccf5CbDRfHkF) | 3:51 |
 | 7 | [Me Estoy Enamorando](https://open.spotify.com/track/4COvULULVKLsMKMRKIiXUa) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Póntelo en la Lengua](https://open.spotify.com/album/0MJmowf2LOm4U6TJmXHnW1) | 4:46 |
 | 8 | [Lo Olvidé](https://open.spotify.com/track/5knDuscjSq3x4mEa1G1wP6) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Play](https://open.spotify.com/album/7huVX9xQKmsWtRQrS7LCbB) | 3:58 |
 | 9 | [No Pensé Que Era Amor](https://open.spotify.com/track/7jXYUkQiz302VHuZjmMuyI) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [\(No Existen\) Técnicas para Olvidar](https://open.spotify.com/album/0R0UUOJ6km3KSucmDUPlyS) | 3:53 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rPSy.md) - [plain]
 | 34 | [Sed](https://open.spotify.com/track/6x7vNg7TggZP1UxZhi9SVL) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno), [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Rarezas](https://open.spotify.com/album/1OUIaXZm6xIincR77xH6dz) | 4:20 |
 | 35 | [Déjame Vivir](https://open.spotify.com/track/23fdwUloWJ2n92QaTWTD2i) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Degeneracion Actual](https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx) | 4:42 |
 | 36 | [Hay un modo](https://open.spotify.com/track/36cnhbhrWisHZdWmcr5WtP) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas](https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa) | 3:35 |
-| 37 | [Los Niños Se Enamoran](https://open.spotify.com/track/12A6D4178vfnvBJx2zBuvX) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Play](https://open.spotify.com/album/7huVX9xQKmsWtRQrS7LCbB) | 3:24 |
-| 38 | [Rara Soledad](https://open.spotify.com/track/5xAeUE0ty5YgPHj2xZSXiK) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Talk Show](https://open.spotify.com/album/01nnzNP8wRSGdwmXne0a8N) | 2:16 |
+| 37 | [Rara Soledad](https://open.spotify.com/track/5xAeUE0ty5YgPHj2xZSXiK) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Talk Show](https://open.spotify.com/album/01nnzNP8wRSGdwmXne0a8N) | 2:16 |
+| 38 | [Los Niños Se Enamoran](https://open.spotify.com/track/12A6D4178vfnvBJx2zBuvX) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Play](https://open.spotify.com/album/7huVX9xQKmsWtRQrS7LCbB) | 3:24 |
 | 39 | [Mariló](https://open.spotify.com/track/1ndwvemO3SxGIlqF4Hor7p) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas \(Uncut\)](https://open.spotify.com/album/7BjsgXmi5ZPl2rT30HLFs8) | 5:17 |
 | 40 | [Amazonas](https://open.spotify.com/track/5yJQWY6GhEF5i4mj717vp1) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas](https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa) | 3:56 |
 | 41 | [El Triunfo Tan Soñado](https://open.spotify.com/track/1v59pqs9mVGBH6eW4yFP70) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Talk Show](https://open.spotify.com/album/01nnzNP8wRSGdwmXne0a8N) | 4:22 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rPSy.md) - [plain]
 | 43 | [Estoy cansado de llorar](https://open.spotify.com/track/0F56YBp7upYaoHaN4VfzMn) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas](https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa) | 3:35 |
 | 44 | [Hoy Me Llenaré de Valor \(Tema de Tereso\)](https://open.spotify.com/track/5DUMbxThKMFAyDpoq6rjJw) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Talk Show](https://open.spotify.com/album/01nnzNP8wRSGdwmXne0a8N) | 3:13 |
 
-Snapshot ID: `ZmuIAAAAAACg3/iyA9nsJTynWjcsIa7k`
+Snapshot ID: `Zm4rAAAAAAC7gtMdMIUB+RvORerRHJyu`

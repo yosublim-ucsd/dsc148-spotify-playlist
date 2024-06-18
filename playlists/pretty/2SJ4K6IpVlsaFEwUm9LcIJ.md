@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: may\-june 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 19,916 likes - 50 songs - 2 hr 27 min
+[margeaux](https://open.spotify.com/user/1220511975) - 19,925 likes - 52 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,8 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 47 | [Good For Me](https://open.spotify.com/track/0la9WOK8JlpmfDEJiFsVCl) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Tri\-State](https://open.spotify.com/album/7oGejxIa9yVGrUvwt74OPU) | 5:42 |
 | 48 | [Apple](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 |
 | 49 | [Mean girls](https://open.spotify.com/track/1qKCO2Tocwg8CbepJ9uDtd) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:09 |
-| 50 | [Breaking](https://open.spotify.com/track/0M8xf6txl5E1krF7yO1XIO) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo), [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW) | [Breaking](https://open.spotify.com/album/5ROCUR5iG4np8RCpujQDpm) | 3:24 |
+| 50 | [Space and Time](https://open.spotify.com/track/7IZXUoILTWAX5LRRkogRG2) | [Emma Russack](https://open.spotify.com/artist/1Uk2WvbKqPrA19SbAO9miy) | [Space and Time](https://open.spotify.com/album/1Ygk2W8N1jbTdkcSy8UDgP) | 2:36 |
+| 51 | [Breaking](https://open.spotify.com/track/0M8xf6txl5E1krF7yO1XIO) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo), [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW) | [Breaking](https://open.spotify.com/album/5ROCUR5iG4np8RCpujQDpm) | 3:24 |
+| 52 | [Tbtf](https://open.spotify.com/track/7Dha5Jw4EVQbFHe58pJ5AU) | [Kevin Drew](https://open.spotify.com/artist/64RGS9OBGsUWkopEtO5Cz7) | [Spirit If...](https://open.spotify.com/album/0MtuWHjHXAEwWimsMuEtZf) | 3:51 |
 
-Snapshot ID: `AAAKm1tNYpBQFAnVcRGTkjS6az1cQU9r`
+Snapshot ID: `AAAKngIxYcj4ok689uZayt/Xo3IovMki`

@@ -1,12 +1,12 @@
 {
   "description": "This is Migos. The essential tracks, all in one playlist.",
-  "num_followers": 430201,
+  "num_followers": 430232,
   "original_name": "This Is Migos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmzZgAAAAABQpd/XnBnfJUJySyAfvdId",
+  "snapshot_id": "Zm4rAAAAAACihd0iR0vciXJOSJvwUhYS",
   "tracks": [
     {
       "added_at": null,
@@ -39,42 +39,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Culture III",
-        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 195680,
-      "name": "Need It (feat. YoungBoy Never Broke Again)",
-      "url": "https://open.spotify.com/track/1cMMVJ4FDqhCci9efd1BU6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Culture II",
-        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 190288,
-      "name": "Stir Fry",
-      "url": "https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfect Ten",
         "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
       },
@@ -95,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Culture",
-        "url": "https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO"
+        "name": "Culture II",
+        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
       },
       "artists": [
         {
@@ -104,13 +68,13 @@
           "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
         },
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 343150,
-      "name": "Bad and Boujee (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/0M9ydKzuF3oZTfYYPfaGX1"
+      "duration_ms": 276147,
+      "name": "Walk It Talk It",
+      "url": "https://open.spotify.com/track/6n4U3TlzUGhdSFbUUhTvLP"
     },
     {
       "added_at": null,
@@ -131,26 +95,6 @@
       "duration_ms": 233087,
       "name": "I Get the Bag (feat. Migos)",
       "url": "https://open.spotify.com/track/1XRgIKC5TPwo7nWGyKqgG0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Culture II",
-        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 276147,
-      "name": "Walk It Talk It",
-      "url": "https://open.spotify.com/track/6n4U3TlzUGhdSFbUUhTvLP"
     },
     {
       "added_at": null,
@@ -195,6 +139,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Culture II",
+        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 233880,
+      "name": "Notice Me",
+      "url": "https://open.spotify.com/track/3OnOomd79OjqSYHchCQ6ht"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Label II",
+        "url": "https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 216247,
+      "name": "Fight Night",
+      "url": "https://open.spotify.com/track/6Xa2q0dapj03CsRzmD0Os5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Family (feat. Migos) [from \"The Addams Family\"]",
         "url": "https://open.spotify.com/album/6C9Wzv1cnhqbXytAzby4K2"
       },
@@ -219,6 +199,22 @@
       "duration_ms": 177352,
       "name": "My Family - from \"The Addams Family\"",
       "url": "https://open.spotify.com/track/62rchuhJrm5JSlIfHz7cH3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Culture",
+        "url": "https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 242407,
+      "name": "T-Shirt",
+      "url": "https://open.spotify.com/track/1rkfJLgTlB6XYNjgZ0sVaK"
     },
     {
       "added_at": null,
@@ -251,70 +247,6 @@
       "duration_ms": 210556,
       "name": "Handsome And Wealthy",
       "url": "https://open.spotify.com/track/2ZBnK2CGFK6jcagWrpyPzA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Culture",
-        "url": "https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 242407,
-      "name": "T-Shirt",
-      "url": "https://open.spotify.com/track/1rkfJLgTlB6XYNjgZ0sVaK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Bedroom Tour Playlist",
-        "url": "https://open.spotify.com/album/6Rkm6kbTaw7ViHDUrhWa1u"
-      },
-      "artists": [
-        {
-          "name": "Niykee Heaton",
-          "url": "https://open.spotify.com/artist/63bCkf4n15jiKjHhLV7kSZ"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
-          "name": "OG Parker",
-          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
-        }
-      ],
-      "duration_ms": 245722,
-      "name": "Bad Intentions",
-      "url": "https://open.spotify.com/track/5W3UniuRMkHHIpaiQo1hAW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Culture II",
-        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 303076,
-      "name": "MotorSport",
-      "url": "https://open.spotify.com/track/4wFjTWCunQFKtukqrNijEt"
     },
     {
       "added_at": null,
@@ -359,6 +291,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Culture II",
+        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 303076,
+      "name": "MotorSport",
+      "url": "https://open.spotify.com/track/4wFjTWCunQFKtukqrNijEt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Straightenin",
+        "url": "https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 255532,
+      "name": "Straightenin",
+      "url": "https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Culture III",
         "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
       },
@@ -375,6 +347,22 @@
       "duration_ms": 278191,
       "name": "Having Our Way (feat. Drake)",
       "url": "https://open.spotify.com/track/2NM0qHzx4Ohy8iXHEEgwlO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Culture",
+        "url": "https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 257545,
+      "name": "Get Right Witcha",
+      "url": "https://open.spotify.com/track/2jGEiQ3otr4CPIeBgefjRA"
     },
     {
       "added_at": null,
@@ -423,22 +411,6 @@
       "duration_ms": 217815,
       "name": "We Set The Trends (feat. Migos & \u200eJuelz Santana) - Remix",
       "url": "https://open.spotify.com/track/3KNxJvz0dM6aPb6bVJdyKi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Culture",
-        "url": "https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 257545,
-      "name": "Get Right Witcha",
-      "url": "https://open.spotify.com/track/2jGEiQ3otr4CPIeBgefjRA"
     },
     {
       "added_at": null,
@@ -519,26 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invasion of Privacy",
-        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 262308,
-      "name": "Drip (feat. Migos)",
-      "url": "https://open.spotify.com/track/2qcG0nZ6S3zZV0UrkY5nFo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Culture III",
         "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
       },
@@ -555,22 +507,6 @@
       "duration_ms": 262340,
       "name": "Antisocial (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/3lakLxKgelrvKBTyGwDXhX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Racks 2 Skinny",
-        "url": "https://open.spotify.com/album/3PASWLvNfvfMF68dDznEgK"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 178024,
-      "name": "Racks 2 Skinny",
-      "url": "https://open.spotify.com/track/568OIKgeHyGRD3uWR44JbO"
     },
     {
       "added_at": null,
@@ -611,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Culture III",
-        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 239316,
-      "name": "Time For Me",
-      "url": "https://open.spotify.com/track/0hfaWJEQfbiX7PnZNAzN1r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Versace (feat. Drake) [Remix] - Single",
         "url": "https://open.spotify.com/album/35Lhx0cJU8MMnENePMmt6f"
       },
@@ -643,6 +563,22 @@
       "duration_ms": 246047,
       "name": "Versace (Remix)",
       "url": "https://open.spotify.com/track/0XGLsSU6wtfnKXiMNvQr61"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Culture III",
+        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 239316,
+      "name": "Time For Me",
+      "url": "https://open.spotify.com/track/0hfaWJEQfbiX7PnZNAzN1r"
     },
     {
       "added_at": null,
@@ -687,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Culture III",
-        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 241790,
-      "name": "Modern Day",
-      "url": "https://open.spotify.com/track/2Igem6Q4sfvXGJ3JkG7Baw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quality Control: Control The Streets Volume 1",
         "url": "https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ"
       },
@@ -723,6 +643,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Culture III",
+        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 241790,
+      "name": "Modern Day",
+      "url": "https://open.spotify.com/track/2Igem6Q4sfvXGJ3JkG7Baw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Culture",
+        "url": "https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 248506,
+      "name": "What the Price",
+      "url": "https://open.spotify.com/track/74tYjkmVk06hYJzzzskWa0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Is You Ready (From \"Mile 22\")",
         "url": "https://open.spotify.com/album/0kcQVLgW7ugVdFapH14iiP"
       },
@@ -735,6 +687,42 @@
       "duration_ms": 184276,
       "name": "Is You Ready - From \"Mile 22\"",
       "url": "https://open.spotify.com/track/6FwJj7uwhZ1vrBlDZvMLZk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Culture III (Deluxe)",
+        "url": "https://open.spotify.com/album/2actLFtpiiBZm1z0TUzMx2"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 229434,
+      "name": "How We Coming",
+      "url": "https://open.spotify.com/track/0oxfifOPoqzmWlTT2Tnu3k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Culture III",
+        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 248651,
+      "name": "Malibu (feat. Polo G)",
+      "url": "https://open.spotify.com/track/3v1zVVdzNVNt7vmI9VG2gq"
     },
     {
       "added_at": null,
@@ -907,6 +895,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quality Control: Control The Streets Volume 2",
+        "url": "https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9"
+      },
+      "artists": [
+        {
+          "name": "Quality Control",
+          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 258741,
+      "name": "Frosted Flakes",
+      "url": "https://open.spotify.com/track/2ngLCsaDgirvx3aNgejilJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hot Summer",
         "url": "https://open.spotify.com/album/6BEHK0e0rknUYbDUIFv4Sl"
       },
@@ -987,22 +995,6 @@
       "duration_ms": 256320,
       "name": "Oh Me Oh My",
       "url": "https://open.spotify.com/track/56urRCfhQX5H3tfGt6q3uU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Young Rich N*ggas",
-        "url": "https://open.spotify.com/album/4YmTZjHk8SmTFTiVMXBN1A"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 212712,
-      "name": "Hannah Montana",
-      "url": "https://open.spotify.com/track/3SnLc0bQjQeE3HgGdNfb8u"
     }
   ],
   "unique_name": "This Is Migos",

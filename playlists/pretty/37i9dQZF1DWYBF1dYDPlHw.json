@@ -1,6 +1,6 @@
 {
   "description": "All killer, no filler, 100% hits. ",
-  "num_followers": 1024798,
+  "num_followers": 1024836,
   "original_name": "Sing-Along Indie Hits",
   "owner": {
     "name": "Spotify",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Funeral",
-        "url": "https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 310893,
-      "name": "Rebellion (Lies)",
-      "url": "https://open.spotify.com/track/0xOeB16JDbBJBJKSdHbElT"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Gold Mother",
         "url": "https://open.spotify.com/album/7qQEoMXpeyJ2GJkkdDsVdr"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 244866,
       "name": "Sit Down",
       "url": "https://open.spotify.com/track/66IC0uXoVyYT5q3R27bbZy"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Funeral",
+        "url": "https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 310893,
+      "name": "Rebellion (Lies)",
+      "url": "https://open.spotify.com/track/0xOeB16JDbBJBJKSdHbElT"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Yours Truly, Angry Mob",
-        "url": "https://open.spotify.com/album/4J2DGuw6IwLdEwQL94msiU"
-      },
-      "artists": [
-        {
-          "name": "Kaiser Chiefs",
-          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
-        }
-      ],
-      "duration_ms": 204200,
-      "name": "Ruby",
-      "url": "https://open.spotify.com/track/2fAIfPLrPUTW1AmJRR428Q"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Jake Bugg",
         "url": "https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 195986,
       "name": "Two Fingers",
       "url": "https://open.spotify.com/track/582EVyAFKmKPa1bVPSDurJ"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Yours Truly, Angry Mob",
+        "url": "https://open.spotify.com/album/4J2DGuw6IwLdEwQL94msiU"
+      },
+      "artists": [
+        {
+          "name": "Kaiser Chiefs",
+          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+        }
+      ],
+      "duration_ms": 204200,
+      "name": "Ruby",
+      "url": "https://open.spotify.com/track/2fAIfPLrPUTW1AmJRR428Q"
     },
     {
       "added_at": "2024-05-22 11:00:00",

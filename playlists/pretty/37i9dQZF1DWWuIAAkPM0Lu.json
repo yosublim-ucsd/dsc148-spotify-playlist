@@ -795,6 +795,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Dance With Me",
+        "url": "https://open.spotify.com/album/1wkUCIDGpYN0PEIcyG4dS6"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 225204,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/2I5ipWaIXUknimwtJPoPYt"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Mi Amor (with JVKE & Anitta)",
         "url": "https://open.spotify.com/album/5cSRo7t8wqzwSiEc5hBDUz"
       },

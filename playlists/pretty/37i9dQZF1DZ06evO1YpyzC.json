@@ -1,12 +1,12 @@
 {
   "description": "This is Kane Brown. The essential tracks, all in one playlist.",
-  "num_followers": 254452,
+  "num_followers": 254496,
   "original_name": "This Is Kane Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmzZgAAAAAB6pL8sTa2/B1q/QuG82ivv",
+  "snapshot_id": "Zm4rAAAAAAAqumwq2VgMLdsuZSwZhjhG",
   "tracks": [
     {
       "added_at": null,
@@ -83,6 +83,42 @@
       "duration_ms": 188253,
       "name": "What Ifs (feat. Lauren Alaina)",
       "url": "https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kane Brown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 179506,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Thing Right",
+        "url": "https://open.spotify.com/album/4QAC6FquY8D0RXom13iE5J"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 181823,
+      "name": "One Thing Right",
+      "url": "https://open.spotify.com/track/4hPpVbbakQNv8YTHYaOJP4"
     },
     {
       "added_at": null,
@@ -187,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Experiment Extended",
-        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 192053,
-      "name": "Good as You",
-      "url": "https://open.spotify.com/track/19kUPdKTp85q9RZNwaXM15"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My City (FAST X Soundtrack)",
         "url": "https://open.spotify.com/album/1aLqbEIzAVcrTLgx92YW1h"
       },
@@ -227,6 +247,22 @@
       "duration_ms": 149263,
       "name": "My City",
       "url": "https://open.spotify.com/track/6uWykkthdJzx6GMLcFI2iB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Experiment Extended",
+        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/30RZAuEkYeDXvy46Iv6l7E"
     },
     {
       "added_at": null,
@@ -263,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Experiment Extended",
-        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "Homesick",
-      "url": "https://open.spotify.com/track/30RZAuEkYeDXvy46Iv6l7E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Next To You (feat. Kane Brown)",
         "url": "https://open.spotify.com/album/2lN4M7HJ3xPgPFpVuInEQe"
       },
@@ -299,6 +319,22 @@
       "duration_ms": 161344,
       "name": "Next To You (feat. Kane Brown)",
       "url": "https://open.spotify.com/track/6iZ2inFhxOuHKxOlTwwhZq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Experiment Extended",
+        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 178986,
+      "name": "Lose It",
+      "url": "https://open.spotify.com/track/7epGknfpAlH1u33S71Ur1o"
     },
     {
       "added_at": null,
@@ -339,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Experiment Extended",
-        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 178986,
-      "name": "Lose It",
-      "url": "https://open.spotify.com/track/7epGknfpAlH1u33S71Ur1o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nothing Compares To You (Feat. Kane Brown)",
         "url": "https://open.spotify.com/album/0BYlX788W98lKLXQ4RqKKG"
       },
@@ -371,6 +391,22 @@
       "duration_ms": 207800,
       "name": "Nothing Compares To You (Feat. Kane Brown)",
       "url": "https://open.spotify.com/track/3bf3XBOxWYhspKjUNsmD8Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Experiment Extended",
+        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 194146,
+      "name": "Short Skirt Weather",
+      "url": "https://open.spotify.com/track/6PN7QeNItfzZBpCTQvsLyq"
     },
     {
       "added_at": null,
@@ -395,6 +431,22 @@
       "duration_ms": 164683,
       "name": "On Me (feat. Ava Max)",
       "url": "https://open.spotify.com/track/7k6tAZp4m93oswrPqSfBbc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cool Again",
+        "url": "https://open.spotify.com/album/2uqdv3ixmTDSnH1sZFk3y9"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 164668,
+      "name": "Cool Again",
+      "url": "https://open.spotify.com/track/5P3oaNpPDVLRJsL3152SEs"
     },
     {
       "added_at": null,
@@ -871,66 +923,6 @@
       "duration_ms": 173673,
       "name": "Grits & Glamour (feat. Kane Brown)",
       "url": "https://open.spotify.com/track/3mxfnoWPnSxcuxj897oDX7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kane Brown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
-          "name": "Chris Young",
-          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
-        }
-      ],
-      "duration_ms": 200293,
-      "name": "Setting the Night On Fire (with Chris Young)",
-      "url": "https://open.spotify.com/track/2OeyphE568es62xmmJTt1z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Last Minute Late Night - Single",
-        "url": "https://open.spotify.com/album/4XUkagfCTG1jc1dpUemE23"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 169565,
-      "name": "Last Minute Late Night",
-      "url": "https://open.spotify.com/track/3Sso0f19u0o5HavJErdZEN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HiROQUEST: Genesis",
-        "url": "https://open.spotify.com/album/68QeWSGSKSQKI0mpDkP7Lg"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
-          "name": "ricky retro",
-          "url": "https://open.spotify.com/artist/1fA8WmzG2eU2q13kAAjoN8"
-        }
-      ],
-      "duration_ms": 191299,
-      "name": "Move On",
-      "url": "https://open.spotify.com/track/1oHaysAy4fA9EusHpPk5Bn"
     }
   ],
   "unique_name": "This Is Kane Brown",

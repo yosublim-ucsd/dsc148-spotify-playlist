@@ -4724,7 +4724,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 250303,
       "name": "MADISON",
       "url": "https://open.spotify.com/track/4nW5qMepEJOkZONWTsrc7w"
@@ -5170,6 +5170,24 @@
       "duration_ms": 237605,
       "name": "Mi peor enemigo",
       "url": "https://open.spotify.com/track/2icnkjMudyHcjCHbxvYo2l"
+    },
+    {
+      "album": {
+        "name": "Mi Viejo",
+        "url": "https://open.spotify.com/album/5TPXh9m774wXBlaMuRJwxj"
+      },
+      "artists": [
+        {
+          "name": "Piero",
+          "url": "https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197960,
+      "name": "Mi Viejo",
+      "url": "https://open.spotify.com/track/3bWMCH2M7JWUga1WRagDzs"
     },
     {
       "album": {
@@ -6114,6 +6132,24 @@
       "duration_ms": 299810,
       "name": "Nunca Lo Olvides",
       "url": "https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV"
+    },
+    {
+      "album": {
+        "name": "Nunca Me Amo (Guarachetamix)",
+        "url": "https://open.spotify.com/album/4vuh4MQmWwgkLf8wyd2nD5"
+      },
+      "artists": [
+        {
+          "name": "Blaster DJ",
+          "url": "https://open.spotify.com/artist/04tXa59qDOMrlU6mWs6aqT"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195385,
+      "name": "Nunca Me Amo - Guarachetamix",
+      "url": "https://open.spotify.com/track/0tUVUDxp2I8RXQ1HSWpLg1"
     },
     {
       "album": {
@@ -8278,7 +8314,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 152963,
       "name": "TIKTOK",
       "url": "https://open.spotify.com/track/25UNTIJcqsfMnY726IpiiF"

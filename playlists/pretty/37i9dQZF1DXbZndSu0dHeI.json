@@ -1,6 +1,6 @@
 {
   "description": "Have the loveliest little day.",
-  "num_followers": 222464,
+  "num_followers": 222546,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
@@ -425,22 +425,6 @@
       "url": "https://open.spotify.com/track/1Z9kJcKVm7OLSpesWRwgTW"
     },
     {
-      "added_at": "2024-05-31 19:59:04",
-      "album": {
-        "name": "You (Show Me Where My Days Went)",
-        "url": "https://open.spotify.com/album/6cN6j2Fr5vVCSZnWQyqSSs"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 167144,
-      "name": "You (Show Me Where My Days Went)",
-      "url": "https://open.spotify.com/track/3UIeiuDKnbhZ7OoXZ9j0U5"
-    },
-    {
       "added_at": "2024-03-22 16:44:40",
       "album": {
         "name": "Bleachers",
@@ -455,6 +439,22 @@
       "duration_ms": 228381,
       "name": "Tiny Moves",
       "url": "https://open.spotify.com/track/4yTqr0F1vVAY2pUCRiRpr9"
+    },
+    {
+      "added_at": "2024-05-31 19:59:04",
+      "album": {
+        "name": "You (Show Me Where My Days Went)",
+        "url": "https://open.spotify.com/album/6cN6j2Fr5vVCSZnWQyqSSs"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 167144,
+      "name": "You (Show Me Where My Days Went)",
+      "url": "https://open.spotify.com/track/3UIeiuDKnbhZ7OoXZ9j0U5"
     },
     {
       "added_at": "2024-05-10 16:04:45",
@@ -553,22 +553,6 @@
       "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
     },
     {
-      "added_at": "2024-02-18 00:00:00",
-      "album": {
-        "name": "Missing Out",
-        "url": "https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 217320,
-      "name": "Missing Out",
-      "url": "https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD"
-    },
-    {
       "added_at": "2022-08-05 10:31:40",
       "album": {
         "name": "Wachito Rico",
@@ -583,6 +567,22 @@
       "duration_ms": 254885,
       "name": "honey",
       "url": "https://open.spotify.com/track/6pXe0HxGT1xufKGhZYqweC"
+    },
+    {
+      "added_at": "2024-02-18 00:00:00",
+      "album": {
+        "name": "Missing Out",
+        "url": "https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 217320,
+      "name": "Missing Out",
+      "url": "https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD"
     },
     {
       "added_at": "2024-05-31 19:59:04",
@@ -767,18 +767,18 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Coming of Age",
-        "url": "https://open.spotify.com/album/4qPv6QTcXY9nIMn5rjF1Ka"
+        "name": "In Mind",
+        "url": "https://open.spotify.com/album/7IQn4jT1WciC5O9DZrxeKv"
       },
       "artists": [
         {
-          "name": "Blondes",
-          "url": "https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP"
+          "name": "Real Estate",
+          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Coming of Age",
-      "url": "https://open.spotify.com/track/6BVsQpqbI2Aj4TwwgmfqGT"
+      "duration_ms": 260386,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI"
     },
     {
       "added_at": "2023-02-03 00:30:16",
@@ -799,18 +799,18 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "In Mind",
-        "url": "https://open.spotify.com/album/7IQn4jT1WciC5O9DZrxeKv"
+        "name": "Coming of Age",
+        "url": "https://open.spotify.com/album/4qPv6QTcXY9nIMn5rjF1Ka"
       },
       "artists": [
         {
-          "name": "Real Estate",
-          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
+          "name": "Blondes",
+          "url": "https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP"
         }
       ],
-      "duration_ms": 260386,
-      "name": "Darling",
-      "url": "https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI"
+      "duration_ms": 248000,
+      "name": "Coming of Age",
+      "url": "https://open.spotify.com/track/6BVsQpqbI2Aj4TwwgmfqGT"
     },
     {
       "added_at": "2024-03-23 15:28:23",
@@ -881,22 +881,6 @@
       "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
     },
     {
-      "added_at": "2023-02-03 00:30:16",
-      "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/6xQIAbfKyR8HaoJmxTnOHv"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 203826,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/1KaAcMbFNcqxmt9lzjkm9b"
-    },
-    {
       "added_at": "2022-08-05 10:31:40",
       "album": {
         "name": "Let's Get Out Of This Country",
@@ -915,18 +899,18 @@
     {
       "added_at": "2023-02-03 00:30:16",
       "album": {
-        "name": "The Florist",
-        "url": "https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa"
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/6xQIAbfKyR8HaoJmxTnOHv"
       },
       "artists": [
         {
-          "name": "Abby Sage",
-          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
         }
       ],
-      "duration_ms": 190601,
-      "name": "The Florist",
-      "url": "https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo"
+      "duration_ms": 203826,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/1KaAcMbFNcqxmt9lzjkm9b"
     },
     {
       "added_at": "2024-05-31 19:59:04",
@@ -959,6 +943,22 @@
       "duration_ms": 240080,
       "name": "Bluebird Singing",
       "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
+    },
+    {
+      "added_at": "2023-02-03 00:30:16",
+      "album": {
+        "name": "The Florist",
+        "url": "https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa"
+      },
+      "artists": [
+        {
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+        }
+      ],
+      "duration_ms": 190601,
+      "name": "The Florist",
+      "url": "https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1297,6 +1297,22 @@
       "url": "https://open.spotify.com/track/53Mq10qpih00CLPph20MVp"
     },
     {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "{Awayland}",
+        "url": "https://open.spotify.com/album/4lZBE5uyS5BGnJOJc88s95"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 223935,
+      "name": "Nothing Arrived",
+      "url": "https://open.spotify.com/track/4Qegqm597Rw1PfaV43WkLy"
+    },
+    {
       "added_at": "2024-03-22 14:38:07",
       "album": {
         "name": "Fantasneeze (feat. Matilda Mann)",
@@ -1319,18 +1335,18 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "{Awayland}",
-        "url": "https://open.spotify.com/album/4lZBE5uyS5BGnJOJc88s95"
+        "name": "Look Out!",
+        "url": "https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF"
       },
       "artists": [
         {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
         }
       ],
-      "duration_ms": 223935,
-      "name": "Nothing Arrived",
-      "url": "https://open.spotify.com/track/4Qegqm597Rw1PfaV43WkLy"
+      "duration_ms": 176506,
+      "name": "Look Out!",
+      "url": "https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX"
     },
     {
       "added_at": "2024-05-10 16:04:45",
@@ -1347,22 +1363,6 @@
       "duration_ms": 237272,
       "name": "Can You Feel My Love",
       "url": "https://open.spotify.com/track/3rnWd8tja5FuJaeIf4Y4Mz"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Look Out!",
-        "url": "https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF"
-      },
-      "artists": [
-        {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
-        }
-      ],
-      "duration_ms": 176506,
-      "name": "Look Out!",
-      "url": "https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX"
     },
     {
       "added_at": "2024-05-10 16:04:45",
@@ -1481,6 +1481,22 @@
       "url": "https://open.spotify.com/track/6UMqwvwPmgr2oql5Bse9E4"
     },
     {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Manta Rays",
+        "url": "https://open.spotify.com/album/1Y0Z13jxlT0EgeH2L3u4Zb"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "duration_ms": 211826,
+      "name": "Manta Rays",
+      "url": "https://open.spotify.com/track/7oTi7GKtvXnwnaVFk6OkLU"
+    },
+    {
       "added_at": "2024-03-28 22:30:08",
       "album": {
         "name": "Never Trust a Happy Song",
@@ -1499,22 +1515,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Manta Rays",
-        "url": "https://open.spotify.com/album/1Y0Z13jxlT0EgeH2L3u4Zb"
-      },
-      "artists": [
-        {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
-        }
-      ],
-      "duration_ms": 211826,
-      "name": "Manta Rays",
-      "url": "https://open.spotify.com/track/7oTi7GKtvXnwnaVFk6OkLU"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "You Do Not Have To Be Good",
         "url": "https://open.spotify.com/album/4eikHhG2WppVJiTkTuTtzN"
       },
@@ -1527,22 +1527,6 @@
       "duration_ms": 171481,
       "name": "Cadillac",
       "url": "https://open.spotify.com/track/16vuy4pwheYCxp2Pyv3YRy"
-    },
-    {
-      "added_at": "2024-02-21 11:44:23",
-      "album": {
-        "name": "Girls That Play",
-        "url": "https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx"
-      },
-      "artists": [
-        {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
-        }
-      ],
-      "duration_ms": 202302,
-      "name": "Girls That Play",
-      "url": "https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1563,6 +1547,22 @@
       "duration_ms": 230568,
       "name": "leave a light on",
       "url": "https://open.spotify.com/track/2K7fFi3Y4zJB9XWlvBQbR8"
+    },
+    {
+      "added_at": "2024-02-21 11:44:23",
+      "album": {
+        "name": "Girls That Play",
+        "url": "https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "duration_ms": 202302,
+      "name": "Girls That Play",
+      "url": "https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0"
     },
     {
       "added_at": "2022-08-05 10:31:40",

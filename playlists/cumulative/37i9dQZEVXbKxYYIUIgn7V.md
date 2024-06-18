@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Austria.
 
-532 songs - 1 day 1 hr 54 min
+533 songs - 1 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,7 +305,7 @@
 | [Luktelk](https://open.spotify.com/track/4ZBe9Plh2adT70U4PDxve1) | [Silvester Belt](https://open.spotify.com/artist/2Tna85W7SvTboWMUSFilH6) | [Luktelk](https://open.spotify.com/album/0IzVeFuUVSQsLj8boRMCO2) | 2:41 | 2024-05-09 | 2024-05-17 |
 | [Luktelk](https://open.spotify.com/track/5cVMsMEgeJXghVqWv7wrGl) | [Silvester Belt](https://open.spotify.com/artist/2Tna85W7SvTboWMUSFilH6) | [Luktelk](https://open.spotify.com/album/6KE3Dun7Ey66uVoIlujVYz) | 2:41 | 2024-05-25 | 2024-05-29 |
 | [Lumi Une](https://open.spotify.com/track/7GYvfyzpwBIUejDlXQ5XGh) | [Irkenc Hyka](https://open.spotify.com/artist/2IjzQBz1eSjEiop2L4omdu) | [Lumi Une](https://open.spotify.com/album/7vGU5ssVjf96I70nCm61rd) | 2:50 | 2024-03-11 | 2024-03-13 |
-| [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-06-04 |  |
+| [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-06-04 | 2024-06-18 |
 | [Mach die Augen auf](https://open.spotify.com/track/74EasdbNav1osDCwRCFwrS) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Mach die Augen auf](https://open.spotify.com/album/6LUAQItFCJarUpFHnzMjtH) | 1:51 | 2024-06-12 |  |
 | [Made For Me](https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Made For Me](https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv) | 3:08 | 2024-02-22 | 2024-03-06 |
 | [Made in Romania](https://open.spotify.com/track/58U2OeaIAkQ6scuGNVazuT) | [Ionut Cercel](https://open.spotify.com/artist/3nEGbFFQiHXnjhbJVwzega) | [Sapte trandafiri](https://open.spotify.com/album/6Pr1PMiL3fc6EHRmRVRmoh) | 4:05 | 2024-04-28 | 2024-05-08 |
@@ -385,6 +385,7 @@
 | [Pistoleta](https://open.spotify.com/track/61qNgUkD4ThD2DrmQSTH0X) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl), [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U), [ilo 7araga](https://open.spotify.com/artist/6yljBnmcExcQrkUMJOhgga) | [Augen Husky 2](https://open.spotify.com/album/0c5TX9ItLpEs1Z8wuA93dk) | 2:13 | 2024-05-12 | 2024-05-15 |
 | [Pistoleta](https://open.spotify.com/track/7ciTcePUxWjBbaouXk7Bvf) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl), [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U), [ilo 7araga](https://open.spotify.com/artist/6yljBnmcExcQrkUMJOhgga) | [Pistoleta](https://open.spotify.com/album/2vMOUzUPeNqSZl3P0Ib3fU) | 2:13 | 2024-04-30 | 2024-05-13 |
 | [Poison \- Hazbin Hotel Original Soundtrack](https://open.spotify.com/track/6ZXL1A1BVshe1JZ1IY734k) | [Blake Roman](https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay) | [Poison \(Hazbin Hotel Original Soundtrack\)](https://open.spotify.com/album/6dB85sDBpcpU4s5kwU7etB) | 2:07 | 2024-01-29 | 2024-03-06 |
+| [Pop like this Pt\. 2 \- Slowed](https://open.spotify.com/track/3xvzR05d6KgexfzjJgDRDl) | [prodbycpkshawn](https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z) | [Pop like this Pt\. 2 \(Slowed\)](https://open.spotify.com/album/7AxvdeyukmAFes9SBWYE6x) | 2:02 | 2024-06-17 |  |
 | [Praise Jah In The Moonlight](https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight](https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd) | 4:23 | 2024-01-29 | 2024-03-27 |
 | [Praise Jah In The Moonlight](https://open.spotify.com/track/7ueuqvQkKA9k1Pys0hB5br) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight \(Live\)](https://open.spotify.com/album/1GhTKndy4z6y8sJoKXi1kt) | 4:23 | 2024-04-11 | 2024-04-17 |
 | [Princess Cuts My Wrist](https://open.spotify.com/track/3bdlwCZm9O5LP33Smf3i5b) | [Sickboyrari](https://open.spotify.com/artist/395BAMokcNaqWcCl8uU1ky) | [City Of Doves](https://open.spotify.com/album/0Xm2sldIIZvDvcAOsgtIXo) | 3:13 | 2024-05-23 | 2024-06-07 |

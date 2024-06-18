@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-943 songs - 1 day 22 hr 57 min
+944 songs - 1 day 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Baby Naber?](https://open.spotify.com/track/26BtOe3Dyvbe0Uavxj60ST) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [Baby Naber?](https://open.spotify.com/album/11FT97nMjQ7wgtPvFtdLIk) | 1:58 | 2023-08-12 | 2023-08-14 |
 | [Bahçemin En Zor Gülü](https://open.spotify.com/track/6rRwSZRESAriAagC5CmWMS) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Fatih](https://open.spotify.com/album/7eB3zd25eiAwsUMCcLpRCf) | 4:30 | 2023-09-26 | 2023-09-30 |
 | [BAKSANA BİLADER \- Saz Mi Caz Mi](https://open.spotify.com/track/2BepN9ElbmjHlE2loXT72r) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [Kuty](https://open.spotify.com/artist/1spo5AJ302sAMnRXUPlSy1) | [BAKSANA BİLADER \(Saz Mi Caz Mi\)](https://open.spotify.com/album/5xS8dSZF7pVnJ7LfTsA4og) | 2:56 | 2023-07-15 | 2023-07-17 |
-| [BAL](https://open.spotify.com/track/2RojZW2380o281z4LF0wTh) | [Gülşen](https://open.spotify.com/artist/1F2v33FQTavJyaD7ZsyhdA) | [BAL](https://open.spotify.com/album/14jmglD62tPPu5yptZcSv4) | 2:37 | 2024-05-18 |  |
+| [BAL](https://open.spotify.com/track/2RojZW2380o281z4LF0wTh) | [Gülşen](https://open.spotify.com/artist/1F2v33FQTavJyaD7ZsyhdA) | [BAL](https://open.spotify.com/album/14jmglD62tPPu5yptZcSv4) | 2:37 | 2024-05-18 | 2024-06-18 |
 | [BANA GAYRET](https://open.spotify.com/track/0y07MvJpFBuMEtsa0bIeJj) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [22](https://open.spotify.com/album/3rLonfO60rC52gkXQzy7TW) | 2:25 | 2022-01-22 | 2022-01-29 |
 | [BANA GÖNDER!](https://open.spotify.com/track/4L34uXdYfwRA7zTFFfajFI) | [Lvbel C5](https://open.spotify.com/artist/09ic2uid6mCDyUdFBb4N1B), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [BANA GÖNDER!](https://open.spotify.com/album/0pQazycqkeWHnSTBnW3Ich) | 2:16 | 2023-10-14 | 2023-10-16 |
 | [Bana Sorma](https://open.spotify.com/track/2QxaqKlNW0XZIjppSQJahw) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Bana Sorma](https://open.spotify.com/album/5qmPZh2dhkvsXrVRZCXwV7) | 2:45 | 2021-04-04 | 2021-04-15 |
@@ -597,6 +597,7 @@
 | [Memur](https://open.spotify.com/track/3fYaXsoqjyXl23azMihWBZ) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Memur](https://open.spotify.com/album/1O8TqhH7uk03m7OJ1GkjfQ) | 2:44 | 2021-04-26 | 2021-05-07 |
 | [Mercedes\-Benz](https://open.spotify.com/track/6KXCI6kj8Pj5zaJWcpXzKd) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Mercedes\-Benz](https://open.spotify.com/album/0xiWift9upRyhr0Yu8YZtO) | 2:37 | 2021-05-29 | 2021-08-21 |
 | [Merhamet Yok](https://open.spotify.com/track/4uygtPMHsP9DBlJUb7um4s) | [Orkundk](https://open.spotify.com/artist/6D4pFxSoZkmJJnFUtSkWum), [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [Merhamet Yok](https://open.spotify.com/album/72iWjIqFHLOdSwWOucXKWk) | 3:14 | 2021-04-05 | 2021-04-11 |
+| [Merhametsiz](https://open.spotify.com/track/4hQVobSCtZ6zI7cjCyIOF4) | [Cevher](https://open.spotify.com/artist/5jUaU1L6PePJadPjzKYFXf) | [Merhametsiz](https://open.spotify.com/album/6ahlCcEViVQLxgoQKVfH3X) | 4:06 | 2024-06-17 |  |
 | [MERVE \- Masada Chivas](https://open.spotify.com/track/1QR6XjncDYLxeYCmxPb2Ab) | [B4TU INC.](https://open.spotify.com/artist/0JVl2O7TNYlEc6Lc2jHW3o) | [MERVE \(Masada Chivas\)](https://open.spotify.com/album/6Q21JmmA4ohsWT4GcZfq2z) | 2:39 | 2023-03-10 | 2023-03-23 |
 | [MERVE \- Masada Chivas](https://open.spotify.com/track/3x8hqraew3LLsZENdhGv3P) | [B4TU INC.](https://open.spotify.com/artist/0JVl2O7TNYlEc6Lc2jHW3o) | [MERVE \(Masada Chivas\)](https://open.spotify.com/album/7Jo5ql6vYAeGbWtPphIk2U) | 2:39 | 2023-03-22 | 2023-07-08 |
 | [Mesafe](https://open.spotify.com/track/7lj9PG3guq2A4VLRBLkfKI) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Mesafe](https://open.spotify.com/album/65Gj4stdKzlvo1vh5UvzzE) | 3:51 | 2023-09-02 | 2024-01-06 |

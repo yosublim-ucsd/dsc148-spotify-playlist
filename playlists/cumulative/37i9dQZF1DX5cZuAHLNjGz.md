@@ -4,7 +4,7 @@
 
 > Ultimate 101 Punjabi Hits with Karan Aujla
 
-377 songs - 19 hr 27 min
+378 songs - 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Bandana](https://open.spotify.com/track/7KQdgW7QzNd9oPoCzjCU76) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Bandana](https://open.spotify.com/album/1jiFBECVkHOJwDe9TcKKiB) | 2:34 | 2024-03-29 |  |
 | [Barood Wargi](https://open.spotify.com/track/5BWIrdXMuMewFbyXBntyjA) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9) | [Barood Wargi](https://open.spotify.com/album/3mELIQNKJF2jSZmPL086Jm) | 3:51 | 2022-05-29 | 2022-08-20 |
 | [Bewafa](https://open.spotify.com/track/4FcknXDJ8yW2QYUl0cm6uJ) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Bewafa](https://open.spotify.com/album/31EKix5WSmQMNWLj1Je8dg) | 3:44 | 2022-12-10 | 2024-02-20 |
+| [Bhairava Anthem \(From "Kalki 2898 Ad"\) \(Hindi\)](https://open.spotify.com/track/73qEZ1uDm4V2jq9EeXWM8G) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Vijaynarain](https://open.spotify.com/artist/1QEANF9GtDX4y4fXApJHUi), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Bhairava Anthem \(From "Kalki 2898 Ad"\) \(Hindi\)](https://open.spotify.com/album/62LIgpBt6vwzmdzpj3fGdA) | 2:42 | 2024-06-17 |  |
 | [Bhalwani Gedi](https://open.spotify.com/track/6v1eVFNX8VmZQHY4woM9R6) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Above All](https://open.spotify.com/album/5MIukl4CU37RkKANzs0UbG) | 3:27 | 2022-05-29 | 2023-08-01 |
 | [Bijlee Bijlee](https://open.spotify.com/track/1iZLpuGMr4tn1F5bZu32Kb) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Bijlee Bijlee](https://open.spotify.com/album/3tG0IGB24sRhGFLs5F1Km8) | 2:48 | 2022-05-29 | 2023-03-18 |
 | [Bijlee Bijlee](https://open.spotify.com/track/6rypIt9X1x9Okl0mgCdoVV) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Happy Chocolate Day 2022](https://open.spotify.com/album/64MPIq8mztoup1uwycI8dw) | 2:48 | 2022-07-28 | 2022-07-30 |
@@ -251,7 +252,7 @@
 | [On Top](https://open.spotify.com/track/1RT06dWvxSC13JY6WnQmb5) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [On Top](https://open.spotify.com/album/3F9ZTXMumebU1qkltpEqg1) | 3:03 | 2022-11-25 |  |
 | [On Top](https://open.spotify.com/track/4SJMuaIYcBS8ke96lDYOsw) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [On Top](https://open.spotify.com/album/6ephunHyThVj3tQkGgZKpJ) | 3:03 | 2022-12-15 | 2024-04-19 |
 | [ON TOP 2](https://open.spotify.com/track/2G4GimpAMeWaZ6VkcQ1RT9) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [On Top 2](https://open.spotify.com/album/7Mu7sumZaG3bM4rAfs6S8p) | 3:01 | 2024-06-10 |  |
-| [One Heart](https://open.spotify.com/track/1bXQPGdEHDQJeawQWbptQ7) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Narinder Batth](https://open.spotify.com/artist/74M1wGWIo8rcoavCwsmY3P), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [One Heart](https://open.spotify.com/album/1GJUwjSzE2a19V58lST3wg) | 2:37 | 2024-06-07 |  |
+| [One Heart](https://open.spotify.com/track/1bXQPGdEHDQJeawQWbptQ7) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Narinder Batth](https://open.spotify.com/artist/74M1wGWIo8rcoavCwsmY3P), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [One Heart](https://open.spotify.com/album/1GJUwjSzE2a19V58lST3wg) | 2:37 | 2024-06-07 | 2024-06-18 |
 | [One Love](https://open.spotify.com/track/5ZLkihi6DVsHwDL3B8ym1t) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [One Love](https://open.spotify.com/album/3tNH9Fp4dm3qa3Kr4cv5uJ) | 2:39 | 2023-08-17 | 2024-06-01 |
 | [One Question](https://open.spotify.com/track/7FzOhj7WiLKN9UejUNILOW) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Disturbing the Peace](https://open.spotify.com/album/2G8KnZQKOEaxVhK9GQsOmN) | 2:49 | 2022-11-18 | 2024-03-21 |
 | [Oouuu](https://open.spotify.com/track/4hAmLeBT1Ryk2oxSMMiJ7z) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Way Ahead](https://open.spotify.com/album/0hyDY9e60a2LNEasyI52KF) | 2:27 | 2022-05-29 | 2023-09-21 |

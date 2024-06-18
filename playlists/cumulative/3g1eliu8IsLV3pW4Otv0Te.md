@@ -4,7 +4,7 @@
 
 > 
 
-200 songs - 13 hr 56 min
+201 songs - 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Summer \- Draper Remix](https://open.spotify.com/track/4KNrg4NXdv5fq6r130agst) | [Frank Hamilton](https://open.spotify.com/artist/4h1KKGcIKkVPfuH6K7nVYa), [Draper](https://open.spotify.com/artist/5Z8Qlj0jWh0OOmJ55EwSnu) | [Summer](https://open.spotify.com/album/3OE0jNtgMaNflJWEs9hd6u) | 5:09 | 2016-10-05 |  |
 | [Surrender](https://open.spotify.com/track/4T2l26ij73txdRG1HjfOew) | [Collin McLoughlin](https://open.spotify.com/artist/6oKeE1UH8FizqNPScqM1NE) | [Surrender](https://open.spotify.com/album/1SXZeuAWtKGCyIH8A3YfwX) | 3:56 | 2016-01-15 |  |
 | [Symphony \(feat\. Zara Larsson\)](https://open.spotify.com/track/1x5sYLZiu9r5E43kMlt9f8) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Symphony \(feat\. Zara Larsson\)](https://open.spotify.com/album/4b13SJlne61y53KSEwuQtD) | 3:32 | 2024-04-08 |  |
+| [Taped Up Heart \(feat\. Clara Mae\) \- VIP Mix](https://open.spotify.com/track/4fp5ICMxsl5kq9qWWpYBjN) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Taped Up Heart \(feat\. Clara Mae\) \[VIP Mix\]](https://open.spotify.com/album/1ntKoYAM9D8evm4zKZSMbq) | 3:29 | 2024-06-17 |  |
 | [The Big Blue \- Original Mix](https://open.spotify.com/track/5EVb1n5Vv08ESikvX74NLe) | [Brookes Brothers](https://open.spotify.com/artist/2FPeVdIIXD9Wb9Kbn1Hyz6) | [Brookes Brothers](https://open.spotify.com/album/1A7uR2aksX5WHWU7foGagL) | 4:52 | 2016-01-27 |  |
 | [The End](https://open.spotify.com/track/7Kbp9MabVOQl0r88KIMLou) | [Maduk](https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL), [Voicians](https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW) | [The End \(feat\. Voicians\)](https://open.spotify.com/album/1dfmsroFhaRRMlX0Cfx4GY) | 4:55 | 2016-09-17 |  |
 | [The Great Divide \- Seven Lions Remix](https://open.spotify.com/track/2A7Y6Q3EkKEz9Eq8ccMMPy) | [Velvetine](https://open.spotify.com/artist/192J7pIS4EJBx0U70kx40D) | [The Great Divide \(The Remixes\)](https://open.spotify.com/album/6yBzDGcZ1jgVqN7TS5kkhM) | 5:01 | 2016-01-15 |  |

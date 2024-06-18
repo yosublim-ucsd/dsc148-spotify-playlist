@@ -1,12 +1,12 @@
 {
   "description": "A happy place \ud83e\udea9\ud83e\udea9",
-  "num_followers": 322164,
+  "num_followers": 322187,
   "original_name": "DISCOLAND",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmKFwAAAAAAyrjHp2ugh2XYvDMlaNXUx",
+  "snapshot_id": "ZnCzsgAAAADPuoFoCeVtv5n4VcTDGJk/",
   "tracks": [
     {
       "added_at": "2024-04-19 04:00:00",
@@ -41,28 +41,24 @@
       "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
     },
     {
-      "added_at": "2024-06-07 04:00:00",
+      "added_at": "2024-06-17 22:07:46",
       "album": {
-        "name": "On My Mind (Enzo is Burning Remix)",
-        "url": "https://open.spotify.com/album/1LDeKZgXNEW6gkUvLykMkN"
+        "name": "Move On Up (Mark Knight Remix)",
+        "url": "https://open.spotify.com/album/7hg20oE5SyyQf7JN8YA1Dq"
       },
       "artists": [
         {
-          "name": "Alan Fitzpatrick",
-          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
         },
         {
-          "name": "Ronnie Spiteri",
-          "url": "https://open.spotify.com/artist/7tH1Y2LeCe2LUxvru8y7Df"
-        },
-        {
-          "name": "Enzo is Burning",
-          "url": "https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB"
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
         }
       ],
-      "duration_ms": 162748,
-      "name": "On My Mind - Enzo is Burning Remix",
-      "url": "https://open.spotify.com/track/6OYWH6FZgixV7e7VN14neq"
+      "duration_ms": 149047,
+      "name": "Move On Up (Mark Knight Remix)",
+      "url": "https://open.spotify.com/track/39pkyUMcOfKfjx3xhCeiVM"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -193,24 +189,28 @@
       "url": "https://open.spotify.com/track/0TcZAw5Xs5JwdqE5nRzAbQ"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "girlgetdown",
-        "url": "https://open.spotify.com/album/44N3y65SMG5JBz3WC4uUQV"
+        "name": "On My Mind (Enzo is Burning Remix)",
+        "url": "https://open.spotify.com/album/1LDeKZgXNEW6gkUvLykMkN"
       },
       "artists": [
         {
-          "name": "Yung Bae",
-          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
         },
         {
-          "name": "Vantage",
-          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
+          "name": "Ronnie Spiteri",
+          "url": "https://open.spotify.com/artist/7tH1Y2LeCe2LUxvru8y7Df"
+        },
+        {
+          "name": "Enzo is Burning",
+          "url": "https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB"
         }
       ],
-      "duration_ms": 127058,
-      "name": "girlgetdown",
-      "url": "https://open.spotify.com/track/7w3apThciiYhZoSXnloZXE"
+      "duration_ms": 162748,
+      "name": "On My Mind - Enzo is Burning Remix",
+      "url": "https://open.spotify.com/track/6OYWH6FZgixV7e7VN14neq"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -345,20 +345,20 @@
       "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-17 22:07:46",
       "album": {
-        "name": "Don't You Feel Me",
-        "url": "https://open.spotify.com/album/3P2NQCLhl5DolsmrdUFx6l"
+        "name": "BONKERS",
+        "url": "https://open.spotify.com/album/4nZWTZl55srdbsah2ijVRj"
       },
       "artists": [
         {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+          "name": "Never Dull",
+          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
         }
       ],
-      "duration_ms": 164505,
-      "name": "Don't You Feel Me - Edit",
-      "url": "https://open.spotify.com/track/3JMeiqYwiqkZaqmyHS9RVr"
+      "duration_ms": 186666,
+      "name": "BONKERS",
+      "url": "https://open.spotify.com/track/0xttlPnsPJBbasq9fzDlzH"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -745,20 +745,20 @@
       "url": "https://open.spotify.com/track/4eoXQkvPfWs6JEE2kmgeKR"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-06-17 22:07:46",
       "album": {
-        "name": "Disco Slammer EP",
-        "url": "https://open.spotify.com/album/60mCIx9bWM5Zm4a16Q2axE"
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/6fiiphWZ02SgbvKveIktJx"
       },
       "artists": [
         {
-          "name": "Darius Syrossian",
-          "url": "https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf"
+          "name": "Munky Fike",
+          "url": "https://open.spotify.com/artist/1sAtijnwqNE0wlqp2QwbVm"
         }
       ],
-      "duration_ms": 170078,
-      "name": "Disco Slammer",
-      "url": "https://open.spotify.com/track/6xYXGRLxgs0yFJIGVDT9gj"
+      "duration_ms": 341750,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/7FlPx7oz9iX4x6cCRKkooH"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -931,6 +931,22 @@
       "duration_ms": 181477,
       "name": "Substitution (feat. Julian Perretta)",
       "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
+    },
+    {
+      "added_at": "2024-06-17 22:07:46",
+      "album": {
+        "name": "Moodena's Message",
+        "url": "https://open.spotify.com/album/3UVjubH0ONlqpgVz0ja9Qx"
+      },
+      "artists": [
+        {
+          "name": "Moodena",
+          "url": "https://open.spotify.com/artist/1YGnrgB2TrCnJkNwlhJLiy"
+        }
+      ],
+      "duration_ms": 345000,
+      "name": "Moodena's Message",
+      "url": "https://open.spotify.com/track/6bxlHFp8cr6mrGD1FyM96K"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1351,6 +1367,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "All I've Got",
+        "url": "https://open.spotify.com/album/3YHpgtyPexAIoTk7znG9aW"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "duration_ms": 181308,
+      "name": "All I've Got",
+      "url": "https://open.spotify.com/track/3sz9aYLzEjrN9B4d4m1EwL"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Love Is Real",
         "url": "https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X"
       },
@@ -1367,22 +1399,6 @@
       "duration_ms": 197727,
       "name": "Love Is Real",
       "url": "https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "All I've Got",
-        "url": "https://open.spotify.com/album/3YHpgtyPexAIoTk7znG9aW"
-      },
-      "artists": [
-        {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
-        }
-      ],
-      "duration_ms": 181308,
-      "name": "All I've Got",
-      "url": "https://open.spotify.com/track/3sz9aYLzEjrN9B4d4m1EwL"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1507,22 +1523,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Finally Free",
-        "url": "https://open.spotify.com/album/7k5QqZcj5N8mnUExGZ71Vg"
-      },
-      "artists": [
-        {
-          "name": "Kossisko",
-          "url": "https://open.spotify.com/artist/3TmVOBZL0RYrAAF3f2QSGq"
-        }
-      ],
-      "duration_ms": 282283,
-      "name": "Finally Free",
-      "url": "https://open.spotify.com/track/5I9DZbgz1XQ97915lhNnNf"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "Pleasure",
         "url": "https://open.spotify.com/album/5j8xtKpXFKalXAn7GtbHlw"
       },
@@ -1539,6 +1539,22 @@
       "duration_ms": 183414,
       "name": "Pleasure",
       "url": "https://open.spotify.com/track/1igxWL3hFmQTISSoq2KvYq"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Finally Free",
+        "url": "https://open.spotify.com/album/7k5QqZcj5N8mnUExGZ71Vg"
+      },
+      "artists": [
+        {
+          "name": "Kossisko",
+          "url": "https://open.spotify.com/artist/3TmVOBZL0RYrAAF3f2QSGq"
+        }
+      ],
+      "duration_ms": 282283,
+      "name": "Finally Free",
+      "url": "https://open.spotify.com/track/5I9DZbgz1XQ97915lhNnNf"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1571,6 +1587,26 @@
       "duration_ms": 236307,
       "name": "Hey Baby",
       "url": "https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "girlgetdown",
+        "url": "https://open.spotify.com/album/44N3y65SMG5JBz3WC4uUQV"
+      },
+      "artists": [
+        {
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+        },
+        {
+          "name": "Vantage",
+          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
+        }
+      ],
+      "duration_ms": 127058,
+      "name": "girlgetdown",
+      "url": "https://open.spotify.com/track/7w3apThciiYhZoSXnloZXE"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1967,26 +2003,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "I Discover",
-        "url": "https://open.spotify.com/album/5IxqMn18v2DltVwchiRPpO"
-      },
-      "artists": [
-        {
-          "name": "Felix Da Housecat",
-          "url": "https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI"
-        },
-        {
-          "name": "Chris Trucher",
-          "url": "https://open.spotify.com/artist/5qtuQoZI8KbbCx3hD0MQ5D"
-        }
-      ],
-      "duration_ms": 155750,
-      "name": "I Discover",
-      "url": "https://open.spotify.com/track/74oBQ9l3m1Q32dAtQ4zrlb"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Sometimes The Going Gets A Little Tough",
         "url": "https://open.spotify.com/album/7hk8GE39ew5hvnrPPlhng9"
       },
@@ -2003,6 +2019,26 @@
       "duration_ms": 339835,
       "name": "Sometimes The Going Gets A Little Tough - Mella Dee Going Got A Bit Tougher Mix",
       "url": "https://open.spotify.com/track/0sseNUohdOMxlKtLHGxNH1"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "I Discover",
+        "url": "https://open.spotify.com/album/5IxqMn18v2DltVwchiRPpO"
+      },
+      "artists": [
+        {
+          "name": "Felix Da Housecat",
+          "url": "https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI"
+        },
+        {
+          "name": "Chris Trucher",
+          "url": "https://open.spotify.com/artist/5qtuQoZI8KbbCx3hD0MQ5D"
+        }
+      ],
+      "duration_ms": 155750,
+      "name": "I Discover",
+      "url": "https://open.spotify.com/track/74oBQ9l3m1Q32dAtQ4zrlb"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2027,26 +2063,6 @@
       "duration_ms": 296453,
       "name": "Be The One (feat. Yung Bae)",
       "url": "https://open.spotify.com/track/4mpyalWKRgGgghWqr0DGRr"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Alright",
-        "url": "https://open.spotify.com/album/6sr8xHsqWALanJDYV0RDJx"
-      },
-      "artists": [
-        {
-          "name": "Tobtok",
-          "url": "https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL"
-        },
-        {
-          "name": "Oliver Nelson",
-          "url": "https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/50lItJcoM4uB8a7sZ649vv"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2087,6 +2103,26 @@
       "duration_ms": 164912,
       "name": "Pleasure Love",
       "url": "https://open.spotify.com/track/22itU9LO5xcgMIQ2wDYg3b"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/6sr8xHsqWALanJDYV0RDJx"
+      },
+      "artists": [
+        {
+          "name": "Tobtok",
+          "url": "https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL"
+        },
+        {
+          "name": "Oliver Nelson",
+          "url": "https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/50lItJcoM4uB8a7sZ649vv"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -2323,26 +2359,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Det l\u00e4cker (Sebastian Furrer Edit)",
-        "url": "https://open.spotify.com/album/0K58w3lG2p00OCvTDLp3KA"
-      },
-      "artists": [
-        {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
-        },
-        {
-          "name": "Sebastian Furrer",
-          "url": "https://open.spotify.com/artist/0F0otkpvDmCa1E0ePmHmi9"
-        }
-      ],
-      "duration_ms": 221397,
-      "name": "Det l\u00e4cker - Sebastian Furrer Edit",
-      "url": "https://open.spotify.com/track/1ixA4PqNk3745oLPMiqmVW"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Lost In Space (feat. SG Lewis)",
         "url": "https://open.spotify.com/album/22zT7XF3pnP4T2MxDZOcDC"
       },
@@ -2363,6 +2379,26 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Det l\u00e4cker (Sebastian Furrer Edit)",
+        "url": "https://open.spotify.com/album/0K58w3lG2p00OCvTDLp3KA"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        },
+        {
+          "name": "Sebastian Furrer",
+          "url": "https://open.spotify.com/artist/0F0otkpvDmCa1E0ePmHmi9"
+        }
+      ],
+      "duration_ms": 221397,
+      "name": "Det l\u00e4cker - Sebastian Furrer Edit",
+      "url": "https://open.spotify.com/track/1ixA4PqNk3745oLPMiqmVW"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Best Of Me",
         "url": "https://open.spotify.com/album/0jKRFNGHFQujXgmZ7G3n8c"
       },
@@ -2375,42 +2411,6 @@
       "duration_ms": 229893,
       "name": "Best Of Me",
       "url": "https://open.spotify.com/track/6GkSwWTuOF8awxEtVaBvVt"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Pretty Girl Pack",
-        "url": "https://open.spotify.com/album/3Bc5Vgu3fmPIz2LWy6AV5N"
-      },
-      "artists": [
-        {
-          "name": "LU KALA",
-          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
-        }
-      ],
-      "duration_ms": 224865,
-      "name": "Pretty Girl Era - Super Disco Mix",
-      "url": "https://open.spotify.com/track/6AXNXza0OnkcpL1eZRDRFB"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Dancing Down The Path",
-        "url": "https://open.spotify.com/album/35wPcnLcQuxqDIV0VlfELS"
-      },
-      "artists": [
-        {
-          "name": "The Coney Island Rhythm Band",
-          "url": "https://open.spotify.com/artist/5kml8KV4qmcGVDF4Co2tAi"
-        },
-        {
-          "name": "Jerk Boy",
-          "url": "https://open.spotify.com/artist/4w5bgvbaOepmRv2CQ0x1iA"
-        }
-      ],
-      "duration_ms": 381172,
-      "name": "Dancing Down The Path",
-      "url": "https://open.spotify.com/track/1jtAputapT9efP7VO88zaJ"
     }
   ],
   "unique_name": "DISCOLAND",

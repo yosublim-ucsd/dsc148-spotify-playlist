@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 
 > Roll the windows down and take a few risks out on the open, country roads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,101 likes - 80 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,107 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 75 | [Loud and Heavy](https://open.spotify.com/track/0SF38KDlXNLJAxbYyOMnCy) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Adobe Sessions](https://open.spotify.com/album/1tzRfpfSIo3RWhCMCZnO19) | 3:49 |
 | 76 | [Tuesday I'll Be Gone \(feat\. Blake Shelton\)](https://open.spotify.com/track/6QN8DLxJ1Vvib4JaLOw0O2) | [John Anderson](https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Tuesday I'll Be Gone \(feat\. Blake Shelton\)](https://open.spotify.com/album/5Cfm8cQjzRQGEoIv2XkAbr) | 3:44 |
 | 77 | [Before That Final Bell](https://open.spotify.com/track/4vwpnBraqdzWKugN0Brrfq) | [Western Centuries](https://open.spotify.com/artist/0NlJw273FRxv1BFIYwYBTp) | [Call the Captain](https://open.spotify.com/album/5YNqgj9e3qqsaUojuGfPSi) | 3:42 |
-| 78 | [Colder Than You](https://open.spotify.com/track/2blxo5iZckUK1UraX8B1nq) | [Canaan Smith](https://open.spotify.com/artist/0q2lY1ZzFckzciuoMtUvck) | [Colder Than You](https://open.spotify.com/album/4tJcolZrF1YhafTGxATF1R) | 3:21 |
-| 79 | [Heading South](https://open.spotify.com/track/2c8WbESPtql9rRE2lB9Wwl) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Heading South](https://open.spotify.com/album/7Awf9BeZKWESAP9w5qarWp) | 2:51 |
+| 78 | [God Speed](https://open.spotify.com/track/2NkPawxG0L9hSrB1wU2D3z) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [DeAnn](https://open.spotify.com/album/3YYZIztXVAGgWTnoNsK1XA) | 4:13 |
+| 79 | [Colder Than You](https://open.spotify.com/track/2blxo5iZckUK1UraX8B1nq) | [Canaan Smith](https://open.spotify.com/artist/0q2lY1ZzFckzciuoMtUvck) | [Colder Than You](https://open.spotify.com/album/4tJcolZrF1YhafTGxATF1R) | 3:21 |
 | 80 | [Somebody's Daughter](https://open.spotify.com/track/7GW2dqJ13S3UutqzSuvzlR) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Somebody's Daughter](https://open.spotify.com/album/5JANosOg20QAjkayyPeb2I) | 3:46 |
 
 Snapshot ID: `ZgGsBwAAAABZ7/Ex5TGWDl9l7m/fzTCn`

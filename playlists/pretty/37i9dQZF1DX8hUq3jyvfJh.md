@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Raphaela Santos e mais mulheres no volume máximo! Co\-curadoria com Raphaela Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,615 likes - 48 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,650 likes - 48 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 10 | [Água de Sal](https://open.spotify.com/track/6XrAZaqZVdQRF5uZoyxjSc) | [Marília Tavares](https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL) | [Maturidade \- EP 01 \(Ao vivo\)](https://open.spotify.com/album/1MWTKErRMYIBR2Su0QOTuK) | 3:08 |
 | 11 | [Se Não For Tu](https://open.spotify.com/track/35xkDvyLQULaNiRYVQO5t4) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Se Não For Tu](https://open.spotify.com/album/35jt8GxrLlWmSBGECbZnjZ) | 3:08 |
 | 12 | [Cê Não Me Superou \- Ao Vivo](https://open.spotify.com/track/7zmS0vPbWg2k6sfL3uqrGD) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Continua, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/7mcHPmUUdA3O8JjnVkKjxe) | 2:48 |
-| 13 | [melhor sozinha :\-\)\-:](https://open.spotify.com/track/0gpZ8zy9OAE98nNBVIxWvi) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [melhor sozinha :\-\)\-:](https://open.spotify.com/album/2v9lUQunZBqGCZ6qUiWvuO) | 3:47 |
+| 13 | [Romance Desapegado](https://open.spotify.com/track/54OqGd3dmug64db0ZtOtF4) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Romance Desapegado](https://open.spotify.com/album/20wtzoFxbEgoQgrlmIpBud) | 3:04 |
 | 14 | [Solteiro Forçado \- Boiadeira Internacional](https://open.spotify.com/track/4Z2i41GDQyu3KRpBavEnyR) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Solteiro Forçado \(Boiadeira Internacional\)](https://open.spotify.com/album/787d22Rcq1Rndn8D3NXd3i) | 3:14 |
-| 15 | [Romance Desapegado](https://open.spotify.com/track/54OqGd3dmug64db0ZtOtF4) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Romance Desapegado](https://open.spotify.com/album/20wtzoFxbEgoQgrlmIpBud) | 3:04 |
+| 15 | [melhor sozinha :\-\)\-:](https://open.spotify.com/track/0gpZ8zy9OAE98nNBVIxWvi) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [melhor sozinha :\-\)\-:](https://open.spotify.com/album/2v9lUQunZBqGCZ6qUiWvuO) | 3:47 |
 | 16 | [Adeus](https://open.spotify.com/track/2PVYuRC4zqT4w5k4gsEDVG) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Adeus](https://open.spotify.com/album/6Q5Z70gn0iZjrdWQdWkpux) | 3:49 |
 | 17 | [Você Humilha \- Ao Vivo](https://open.spotify.com/track/5kMKSkbbwi6VHiHDRegH7N) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Verdade \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/1cZdFWvvyAKXlUDAZNMs1c) | 3:01 |
 | 18 | [Irracional](https://open.spotify.com/track/5mPsTxFCrLnONgihzdJn7n) | [Gabi Suarez](https://open.spotify.com/artist/2S54NC7x1kcKyzL3PS699V) | [Diamante, Pt\. 2](https://open.spotify.com/album/4XH8lNZUhYEUZ6dXLjt9SY) | 3:10 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 39 | [Frase Decorada](https://open.spotify.com/track/0lu1ncJkS1BzB41ByBqtBY) | [Ester Moraes](https://open.spotify.com/artist/07gBSJp5Y3SQYut7biit26) | [Frase Decorada](https://open.spotify.com/album/7jNwEJn3p7qvmQG72klx5T) | 3:39 |
 | 40 | [Status](https://open.spotify.com/track/210jgouJg1YRS4rtp0xkNm) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Status](https://open.spotify.com/album/5aEKsmuiELa952fvaIyzri) | 2:23 |
 | 41 | [Ex Meu, Ex Dela \- Ao Vivo](https://open.spotify.com/track/1Lj20YC5YZsB3VwGckxgxM) | [Rayane & Rafaela](https://open.spotify.com/artist/7hiUUv81g2TwR7AyoRduYJ) | [Rayane & Rafaela, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3alOXtWjiWAlFbCYcpvvni) | 2:36 |
-| 42 | [Pronta e Preparada](https://open.spotify.com/track/4o2JCrxHtJmyP5QzwHHQTr) | [Gabi Martins](https://open.spotify.com/artist/3bMxoALDz4DJM8pJG0bnvs) | [Pronta e Preparada](https://open.spotify.com/album/2BzXxcBxMFNltW6ZhCy7ED) | 3:10 |
-| 43 | [Batom Na Boca](https://open.spotify.com/track/5wgMwNVQuyMFdZ7KX5kbD7) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Marília Tavares](https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL) | [Se Joga \(Deluxe\)](https://open.spotify.com/album/18sftFYNsEQomDlRzldTIY) | 2:44 |
+| 42 | [Batom Na Boca](https://open.spotify.com/track/5wgMwNVQuyMFdZ7KX5kbD7) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Marília Tavares](https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL) | [Se Joga \(Deluxe\)](https://open.spotify.com/album/18sftFYNsEQomDlRzldTIY) | 2:44 |
+| 43 | [Pronta e Preparada](https://open.spotify.com/track/4o2JCrxHtJmyP5QzwHHQTr) | [Gabi Martins](https://open.spotify.com/artist/3bMxoALDz4DJM8pJG0bnvs) | [Pronta e Preparada](https://open.spotify.com/album/2BzXxcBxMFNltW6ZhCy7ED) | 3:10 |
 | 44 | [Ondas Voltam Pro Mar](https://open.spotify.com/track/7xaseKeBTdAtb6wr5E1ANu) | [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [Ondas Voltam Pro Mar](https://open.spotify.com/album/1K36bCOMvKKesXv8CCIBVb) | 3:11 |
 | 45 | [A Nova Eu](https://open.spotify.com/track/4YpuytpEgBHQQSoOyW4EVu) | [Andrielly Souza](https://open.spotify.com/artist/2uWWjwGR4PAdCDOmcyXO7q) | [A Nova Eu](https://open.spotify.com/album/7xQyYvtB0Ycit9srpDfHsb) | 3:02 |
 | 46 | [Primeiro Eu](https://open.spotify.com/track/47G10yf49cHf5exz459prW) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk) | [Recados pra Você](https://open.spotify.com/album/0iIdORWFds4EUo7zbUiNxF) | 3:12 |

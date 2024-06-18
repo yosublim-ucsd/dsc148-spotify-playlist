@@ -4,7 +4,7 @@
 
 > Highlighting key releases from this month’s most exciting songwriters from around the globe\. Cover: <a href="spotify:artist:7y2o4IQi5QnL6PbsOYuNp5">Jeffrey Eli</a>, <a href="spotify:playlist:37i9dQZF1EFHZvY2t6fRcn">Trey Campbell</a>, Benchwarmer.
 
-183 songs - 9 hr 58 min
+185 songs - 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Give A Damn](https://open.spotify.com/track/1uKagSnjV0EeXkg3QasysC) | [Wyatt McCubbin](https://open.spotify.com/artist/4HxnSRFjP0vKzW7z21kuPf) | [Give A Damn](https://open.spotify.com/album/6VXljITZMzLoGVryKXWfem) | 2:47 | 2024-06-07 |  |
 | [Give Me](https://open.spotify.com/track/2qtEMFFGe7hODRfTLjkRLl) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi), [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Give Me](https://open.spotify.com/album/4VX0z1gIfnSzQnGHga7E2w) | 2:57 | 2024-03-01 | 2024-04-06 |
 | [Good Mourning](https://open.spotify.com/track/4MAJtt0IHlIn3gEGhIq8Oe) | [Shaznay Lewis](https://open.spotify.com/artist/4LUOGNccPSilRIm4Jcflg2), [Shola Ama](https://open.spotify.com/artist/1XCorAp4vtEceWjPgyiiw6), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I) | [Good Mourning](https://open.spotify.com/album/6Ak3S243l0i5MNlVspH79i) | 4:00 | 2024-05-02 | 2024-06-08 |
+| [Great Expectations](https://open.spotify.com/track/2bKMUbbsjZ6Rusud4ivwdO) | [Casper Caan](https://open.spotify.com/artist/0dtmnZBKsEGpSCpdcr3pRc) | [Great Expectations](https://open.spotify.com/album/103uUNennMSrzCzH9NlNnq) | 4:01 | 2024-06-17 |  |
 | [Hearts On The Run](https://open.spotify.com/track/1trMsUW2eHAnh3p5fScmks) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [Hearts On The Run](https://open.spotify.com/album/3U1EZvE1sBl6PkUlgDPbka) | 3:08 | 2024-03-01 | 2024-05-03 |
 | [Hello Cowboy](https://open.spotify.com/track/2cA6vVOVZCopd5I3VkbLKi) | [Maja Francis](https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c) | [Hello Cowboy](https://open.spotify.com/album/5MF7mgDlb5nDBnOdWN7LsK) | 3:23 | 2024-04-05 | 2024-05-03 |
 | [Hello Lonely](https://open.spotify.com/track/0qVkhLbM5Y3ef73wirigiQ) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Hello Lonely](https://open.spotify.com/album/4LG7UeHRKbdRoth0my9vbr) | 3:31 | 2024-05-02 | 2024-06-08 |
@@ -93,6 +94,7 @@
 | [Learning](https://open.spotify.com/track/6UtXR2Odm1Uang1ZI9vFfc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Learning](https://open.spotify.com/album/2w11Pxtx3QBbVRPKstvPFL) | 4:43 | 2024-03-01 | 2024-05-03 |
 | [Let It Go](https://open.spotify.com/track/524wbK27Ssf7fMuzOUmJ7U) | [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [Let It Go](https://open.spotify.com/album/2mjKjhxmC3ZInWFSmtAy71) | 3:33 | 2024-01-22 | 2024-03-01 |
 | [Let You Go](https://open.spotify.com/track/3fjoLni3kK44sAV34KgbeT) | [Teddy Beats](https://open.spotify.com/artist/38aAEKHAmZwECZgFuUfdCB), [Cecilia Gault](https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk) | [Let You Go](https://open.spotify.com/album/2gn7njh6rbT1FsVtPbONCt) | 2:30 | 2024-01-22 | 2024-03-01 |
+| [Like It's Your Birthday](https://open.spotify.com/track/7dIEN78tr21NM4JSCzBNRD) | [Sons of Val](https://open.spotify.com/artist/5dwKc1jqNNYaEJE6fvpMeH) | [Like It's Your Birthday](https://open.spotify.com/album/57thdt8C3MmF7BR2QfNWxn) | 3:05 | 2024-06-17 |  |
 | [Linger](https://open.spotify.com/track/3RFCh5fzSwd30ko4Ohw4rr) | [Lorelei Marcell](https://open.spotify.com/artist/3JUdBypm7CxRBcQRdTucgK) | [Linger](https://open.spotify.com/album/6c1poNZVs5KYcai5aN6oK2) | 2:43 | 2024-04-05 |  |
 | [Little Do You Know \(feat\. Keke Palmer & Aloe Blacc\) \- LIMONADE Afrobeats Mix](https://open.spotify.com/track/1BgdRifsKfDXSp9XX7T3iE) | [LIMONADE](https://open.spotify.com/artist/0MJJvDrHdl7GGYostfweWJ), [Toby Gad](https://open.spotify.com/artist/2v4e16xkId2E5YbYEWgPP8), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl), [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Little Do You Know \(The Remixes\)](https://open.spotify.com/album/1aiIyDXij92yv2bxyWoRbN) | 2:28 | 2024-03-01 | 2024-04-06 |
 | [Long Yellow Dress](https://open.spotify.com/track/5LKidZHW0GGEhFjwBHgq1E) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Long Yellow Dress](https://open.spotify.com/album/5cDUm4xijWkKovh69cUL3H) | 3:09 | 2024-05-02 | 2024-06-08 |

@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de los patrones. Los Chavalitos en portada.",
-  "num_followers": 221350,
+  "num_followers": 221401,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-05-24 06:00:00",
       "album": {
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 209920,
+      "name": "Backpack",
+      "url": "https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF"
+    },
+    {
+      "added_at": "2024-05-24 06:00:00",
+      "album": {
         "name": "Lujo y Detalle",
         "url": "https://open.spotify.com/album/3zCFdseaQ02uBKqM4A0WTj"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 158784,
       "name": "Lujo y Detalle",
       "url": "https://open.spotify.com/track/0GuXQhMkgAviHsjaMoqdAp"
-    },
-    {
-      "added_at": "2024-05-24 06:00:00",
-      "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 209920,
-      "name": "Backpack",
-      "url": "https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF"
     },
     {
       "added_at": "2024-05-24 06:00:00",
@@ -663,26 +663,6 @@
     {
       "added_at": "2024-05-24 06:00:00",
       "album": {
-        "name": "EL RELOJITO",
-        "url": "https://open.spotify.com/album/6aKRUnrvwB3b53ddouvs6h"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 189027,
-      "name": "EL RELOJITO",
-      "url": "https://open.spotify.com/track/2QE59JyEPQAwCj92Lryao6"
-    },
-    {
-      "added_at": "2024-05-24 06:00:00",
-      "album": {
         "name": "El Dos de los Antrax",
         "url": "https://open.spotify.com/album/3QREXMTqKJdqBNU0JnNgvS"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 199769,
       "name": "El Dos de los Antrax",
       "url": "https://open.spotify.com/track/0afnj4MhXXw66wK238iUwe"
+    },
+    {
+      "added_at": "2024-05-24 06:00:00",
+      "album": {
+        "name": "EL RELOJITO",
+        "url": "https://open.spotify.com/album/6aKRUnrvwB3b53ddouvs6h"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 189027,
+      "name": "EL RELOJITO",
+      "url": "https://open.spotify.com/track/2QE59JyEPQAwCj92Lryao6"
     },
     {
       "added_at": "2024-05-24 06:00:00",
@@ -723,22 +723,18 @@
     {
       "added_at": "2024-05-24 06:00:00",
       "album": {
-        "name": "El Sr. Guzm\u00e1n",
-        "url": "https://open.spotify.com/album/4SDzyNpdHGp3w2dH0Puc2v"
+        "name": "Contrato A La Vida",
+        "url": "https://open.spotify.com/album/0mUwAhUW45BYtG3apeePZD"
       },
       "artists": [
         {
-          "name": "Dinamicos Jrs",
-          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
-        },
-        {
-          "name": "El Compa JD",
-          "url": "https://open.spotify.com/artist/0ulACiQS73IYsCG3SqkTO0"
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
         }
       ],
-      "duration_ms": 153377,
-      "name": "El Sr. Guzm\u00e1n",
-      "url": "https://open.spotify.com/track/1uo3hSrqYJj5UKeAoEQnAq"
+      "duration_ms": 186366,
+      "name": "Chambeando En Lo Verde",
+      "url": "https://open.spotify.com/track/7qfEXN9F6xhtgpsadxQu8m"
     },
     {
       "added_at": "2024-05-24 06:00:00",
@@ -763,18 +759,22 @@
     {
       "added_at": "2024-05-24 06:00:00",
       "album": {
-        "name": "Contrato A La Vida",
-        "url": "https://open.spotify.com/album/0mUwAhUW45BYtG3apeePZD"
+        "name": "El Sr. Guzm\u00e1n",
+        "url": "https://open.spotify.com/album/4SDzyNpdHGp3w2dH0Puc2v"
       },
       "artists": [
         {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+          "name": "Dinamicos Jrs",
+          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
+        },
+        {
+          "name": "El Compa JD",
+          "url": "https://open.spotify.com/artist/0ulACiQS73IYsCG3SqkTO0"
         }
       ],
-      "duration_ms": 186366,
-      "name": "Chambeando En Lo Verde",
-      "url": "https://open.spotify.com/track/7qfEXN9F6xhtgpsadxQu8m"
+      "duration_ms": 153377,
+      "name": "El Sr. Guzm\u00e1n",
+      "url": "https://open.spotify.com/track/1uo3hSrqYJj5UKeAoEQnAq"
     },
     {
       "added_at": "2024-05-24 06:00:00",
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-05-24 06:00:00",
       "album": {
+        "name": "Contrato A La Vida",
+        "url": "https://open.spotify.com/album/0mUwAhUW45BYtG3apeePZD"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 163359,
+      "name": "Fuga Del Jefe",
+      "url": "https://open.spotify.com/track/3V6lLVVvLJKMqtGRsuSX6l"
+    },
+    {
+      "added_at": "2024-05-24 06:00:00",
+      "album": {
         "name": "Chorumbo",
         "url": "https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh"
       },
@@ -955,18 +971,22 @@
     {
       "added_at": "2024-05-24 06:00:00",
       "album": {
-        "name": "Contrato A La Vida",
-        "url": "https://open.spotify.com/album/0mUwAhUW45BYtG3apeePZD"
+        "name": "Clave 18",
+        "url": "https://open.spotify.com/album/2Lo2rpX7dX8CtCWMJUEC5S"
       },
       "artists": [
         {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        },
+        {
+          "name": "Novillos de la Sierra",
+          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
         }
       ],
-      "duration_ms": 163359,
-      "name": "Fuga Del Jefe",
-      "url": "https://open.spotify.com/track/3V6lLVVvLJKMqtGRsuSX6l"
+      "duration_ms": 235663,
+      "name": "Clave 18",
+      "url": "https://open.spotify.com/track/6my08Qad7A0PzZSlLOlDgG"
     },
     {
       "added_at": "2024-05-24 06:00:00",
@@ -987,26 +1007,6 @@
       "duration_ms": 218534,
       "name": "Desde Topo Hasta La Sierra",
       "url": "https://open.spotify.com/track/3S9PY0y2pMioMEIMnmO6dj"
-    },
-    {
-      "added_at": "2024-05-24 06:00:00",
-      "album": {
-        "name": "Clave 18",
-        "url": "https://open.spotify.com/album/2Lo2rpX7dX8CtCWMJUEC5S"
-      },
-      "artists": [
-        {
-          "name": "Panchito Arredondo",
-          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
-        },
-        {
-          "name": "Novillos de la Sierra",
-          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
-        }
-      ],
-      "duration_ms": 235663,
-      "name": "Clave 18",
-      "url": "https://open.spotify.com/track/6my08Qad7A0PzZSlLOlDgG"
     },
     {
       "added_at": "2024-05-24 06:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-05-24 06:00:00",
       "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 237679,
-      "name": "El Mago",
-      "url": "https://open.spotify.com/track/4wsDPCHzxThEqCx4iYPAIO"
-    },
-    {
-      "added_at": "2024-05-24 06:00:00",
-      "album": {
         "name": "De Hecho",
         "url": "https://open.spotify.com/album/014yJonHJQZg1Q4NC8qQiz"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 216437,
       "name": "De Hecho",
       "url": "https://open.spotify.com/track/4y77SuMNWdhonXsrqz10FR"
+    },
+    {
+      "added_at": "2024-05-24 06:00:00",
+      "album": {
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 237679,
+      "name": "El Mago",
+      "url": "https://open.spotify.com/track/4wsDPCHzxThEqCx4iYPAIO"
     },
     {
       "added_at": "2024-05-24 06:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-05-24 06:00:00",
       "album": {
-        "name": "Punto Y Aparte",
-        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 189149,
-      "name": "Seraf\u00edn",
-      "url": "https://open.spotify.com/track/7s9pcSenofBwaNfI0vjisP"
-    },
-    {
-      "added_at": "2024-05-24 06:00:00",
-      "album": {
         "name": "10 Corridos Autorizados",
         "url": "https://open.spotify.com/album/2wrps2mlZBUfw63G9Sf7Th"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 226944,
       "name": "El Doble R",
       "url": "https://open.spotify.com/track/78ZDV7gNfRTDQaVdgzs8PN"
+    },
+    {
+      "added_at": "2024-05-24 06:00:00",
+      "album": {
+        "name": "Punto Y Aparte",
+        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 189149,
+      "name": "Seraf\u00edn",
+      "url": "https://open.spotify.com/track/7s9pcSenofBwaNfI0vjisP"
     },
     {
       "added_at": "2024-05-24 06:00:00",
@@ -1423,18 +1423,22 @@
     {
       "added_at": "2024-05-24 06:00:00",
       "album": {
-        "name": "De Buena Cepa",
-        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
+        "name": "El 7 Tito Beltr\u00e1n",
+        "url": "https://open.spotify.com/album/0prEM4d9iiHcvYLZwStnJg"
       },
       "artists": [
         {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+          "name": "Novillos de la Sierra",
+          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
+        },
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
         }
       ],
-      "duration_ms": 224693,
-      "name": "Ismael Pa\u2019 Servirle",
-      "url": "https://open.spotify.com/track/1c1R6tiqHwigD1Ga5NmxRc"
+      "duration_ms": 247944,
+      "name": "El 7 Tito Beltr\u00e1n",
+      "url": "https://open.spotify.com/track/3ja3iKYBSQmwa20EYJym8D"
     },
     {
       "added_at": "2024-05-24 06:00:00",
@@ -1463,22 +1467,18 @@
     {
       "added_at": "2024-05-24 06:00:00",
       "album": {
-        "name": "El 7 Tito Beltr\u00e1n",
-        "url": "https://open.spotify.com/album/0prEM4d9iiHcvYLZwStnJg"
+        "name": "De Buena Cepa",
+        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
       },
       "artists": [
         {
-          "name": "Novillos de la Sierra",
-          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
-        },
-        {
-          "name": "El Rabbanito",
-          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 247944,
-      "name": "El 7 Tito Beltr\u00e1n",
-      "url": "https://open.spotify.com/track/3ja3iKYBSQmwa20EYJym8D"
+      "duration_ms": 224693,
+      "name": "Ismael Pa\u2019 Servirle",
+      "url": "https://open.spotify.com/track/1c1R6tiqHwigD1Ga5NmxRc"
     },
     {
       "added_at": "2024-05-24 06:00:00",
@@ -1535,22 +1535,6 @@
       "duration_ms": 171519,
       "name": "Estilo Guzm\u00e1n",
       "url": "https://open.spotify.com/track/1JGy92ftziV5hdHP0rwOwh"
-    },
-    {
-      "added_at": "2024-05-24 06:00:00",
-      "album": {
-        "name": "Punto Y Aparte",
-        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 123013,
-      "name": "Nene Zambada",
-      "url": "https://open.spotify.com/track/3IVFOkEMepCHIAGnUjvWJg"
     },
     {
       "added_at": "2024-05-24 06:00:00",
@@ -1627,6 +1611,22 @@
     {
       "added_at": "2024-05-24 06:00:00",
       "album": {
+        "name": "Don Cheyo Imperial",
+        "url": "https://open.spotify.com/album/6FMWZ9K8YlljAxvWdLBYOn"
+      },
+      "artists": [
+        {
+          "name": "Grupo H-100",
+          "url": "https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9"
+        }
+      ],
+      "duration_ms": 177485,
+      "name": "Don Cheyo Imperial",
+      "url": "https://open.spotify.com/track/6bUi10rGDo5g2FKSPUUBmY"
+    },
+    {
+      "added_at": "2024-05-24 06:00:00",
+      "album": {
         "name": "Porte de Scarface",
         "url": "https://open.spotify.com/album/5bircs6AOMJQprSwCyAhnp"
       },
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2024-05-24 06:00:00",
       "album": {
-        "name": "Don Cheyo Imperial",
-        "url": "https://open.spotify.com/album/6FMWZ9K8YlljAxvWdLBYOn"
+        "name": "Punto Y Aparte",
+        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
       },
       "artists": [
         {
-          "name": "Grupo H-100",
-          "url": "https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9"
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 177485,
-      "name": "Don Cheyo Imperial",
-      "url": "https://open.spotify.com/track/6bUi10rGDo5g2FKSPUUBmY"
+      "duration_ms": 123013,
+      "name": "Nene Zambada",
+      "url": "https://open.spotify.com/track/3IVFOkEMepCHIAGnUjvWJg"
     },
     {
       "added_at": "2024-05-24 06:00:00",

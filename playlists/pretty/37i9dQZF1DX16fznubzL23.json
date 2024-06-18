@@ -1,6 +1,6 @@
 {
   "description": "For the pain, tears and heartbreak.",
-  "num_followers": 25889,
+  "num_followers": 25910,
   "original_name": "End in Tears ",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,26 @@
     {
       "added_at": "2024-06-14 06:41:32",
       "album": {
+        "name": "Home - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5ckAHp1ePv5NQvC6dN7hPo"
+      },
+      "artists": [
+        {
+          "name": "Godwin",
+          "url": "https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y"
+        },
+        {
+          "name": "KITSCHKRIEG",
+          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
+        }
+      ],
+      "duration_ms": 144413,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/37DkD7AlTuPQIh97hO8hVI"
+    },
+    {
+      "added_at": "2024-06-14 06:41:32",
+      "album": {
         "name": "SCAR",
         "url": "https://open.spotify.com/album/6DYZXRdAM1qUFdFVGoUlC5"
       },
@@ -831,26 +851,6 @@
       "duration_ms": 203333,
       "name": "SCAR",
       "url": "https://open.spotify.com/track/3q29n7RqZ4lRzfnKzIqDZy"
-    },
-    {
-      "added_at": "2024-06-14 06:41:32",
-      "album": {
-        "name": "Home - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5ckAHp1ePv5NQvC6dN7hPo"
-      },
-      "artists": [
-        {
-          "name": "Godwin",
-          "url": "https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y"
-        },
-        {
-          "name": "KITSCHKRIEG",
-          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
-        }
-      ],
-      "duration_ms": 144413,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/37DkD7AlTuPQIh97hO8hVI"
     },
     {
       "added_at": "2024-06-14 06:41:32",

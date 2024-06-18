@@ -1,6 +1,6 @@
 {
   "description": "Spain without the S ",
-  "num_followers": 539777,
+  "num_followers": 539830,
   "original_name": "teen angst",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-03-25 22:07:45",
       "album": {
-        "name": "SPIT IN MY FACE!",
-        "url": "https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA"
-      },
-      "artists": [
-        {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
-        }
-      ],
-      "duration_ms": 147874,
-      "name": "SPIT IN MY FACE!",
-      "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
-    },
-    {
-      "added_at": "2024-03-25 22:07:45",
-      "album": {
         "name": "American Idiot",
         "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 176346,
       "name": "American Idiot",
       "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
+    },
+    {
+      "added_at": "2024-03-25 22:07:45",
+      "album": {
+        "name": "SPIT IN MY FACE!",
+        "url": "https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "duration_ms": 147874,
+      "name": "SPIT IN MY FACE!",
+      "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
     },
     {
       "added_at": "2024-03-25 22:07:45",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-03-25 22:07:45",
       "album": {
-        "name": "All Killer, No Filler",
-        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 207093,
-      "name": "In Too Deep",
-      "url": "https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL"
-    },
-    {
-      "added_at": "2024-03-25 22:07:45",
-      "album": {
         "name": "A Place In The Sun",
         "url": "https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 169026,
       "name": "My Own Worst Enemy",
       "url": "https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z"
+    },
+    {
+      "added_at": "2024-03-25 22:07:45",
+      "album": {
+        "name": "All Killer, No Filler",
+        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 207093,
+      "name": "In Too Deep",
+      "url": "https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL"
     },
     {
       "added_at": "2024-03-25 22:07:45",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-03-25 22:07:45",
       "album": {
-        "name": "Bad Reputation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 169186,
-      "name": "Bad Reputation",
-      "url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M"
-    },
-    {
-      "added_at": "2024-03-25 22:07:45",
-      "album": {
         "name": "B-Sides & Rarities",
         "url": "https://open.spotify.com/album/0UArfu79AC2LrQ6lsvohp5"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 124173,
       "name": "Please Please Please Let Me Get What I Want - 2005 Remaster",
       "url": "https://open.spotify.com/track/42gzADgUU7e2yu5Qn8WfeC"
+    },
+    {
+      "added_at": "2024-03-25 22:07:45",
+      "album": {
+        "name": "Bad Reputation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 169186,
+      "name": "Bad Reputation",
+      "url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M"
     },
     {
       "added_at": "2024-03-25 22:07:45",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-03-25 22:07:45",
       "album": {
-        "name": "Overcompensate",
-        "url": "https://open.spotify.com/album/5ZSqGFLuXUJUlIObSkN0Bz"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 190733,
-      "name": "Overcompensate (edit)",
-      "url": "https://open.spotify.com/track/7kcApwUclbIw9B6MuVmqPc"
-    },
-    {
-      "added_at": "2024-03-25 22:07:45",
-      "album": {
         "name": "Now You See Inside",
         "url": "https://open.spotify.com/album/1eDNzJLCxus27R8ZC2hS3z"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 240453,
       "name": "Be My Escape",
       "url": "https://open.spotify.com/track/5eK5xQl8EGzR5zYkxaDCAn"
+    },
+    {
+      "added_at": "2024-03-25 22:07:45",
+      "album": {
+        "name": "Overcompensate",
+        "url": "https://open.spotify.com/album/5ZSqGFLuXUJUlIObSkN0Bz"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 190733,
+      "name": "Overcompensate (edit)",
+      "url": "https://open.spotify.com/track/7kcApwUclbIw9B6MuVmqPc"
     },
     {
       "added_at": "2024-03-25 22:07:45",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-03-25 22:07:45",
       "album": {
-        "name": "WHAT THE HELL",
-        "url": "https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ"
-      },
-      "artists": [
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 172604,
-      "name": "WHAT THE HELL",
-      "url": "https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO"
-    },
-    {
-      "added_at": "2024-03-25 22:07:45",
-      "album": {
         "name": "Hell",
         "url": "https://open.spotify.com/album/5f11kxQydj1NJONC9URJsU"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 126347,
       "name": "Hell",
       "url": "https://open.spotify.com/track/1DNrgnLWqHEC7CfTSRuvvW"
+    },
+    {
+      "added_at": "2024-03-25 22:07:45",
+      "album": {
+        "name": "WHAT THE HELL",
+        "url": "https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "duration_ms": 172604,
+      "name": "WHAT THE HELL",
+      "url": "https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO"
     },
     {
       "added_at": "2024-03-25 22:07:45",
@@ -1625,20 +1625,20 @@
       "url": "https://open.spotify.com/track/1OYchHxLhckxWStYd5qTyq"
     },
     {
-      "added_at": "2024-03-25 22:07:45",
+      "added_at": "2024-05-22 22:24:13",
       "album": {
-        "name": "Friends With Your EX",
-        "url": "https://open.spotify.com/album/6Lv24dBmFka5bThmdwMCOn"
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/52g4ptmJZyzP2q33EnVaOO"
       },
       "artists": [
         {
-          "name": "Landon Barker",
-          "url": "https://open.spotify.com/artist/7tWnepocfeqynsYC75hWoF"
+          "name": "Friday Pilots Club",
+          "url": "https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY"
         }
       ],
-      "duration_ms": 118933,
-      "name": "Friends With Your EX",
-      "url": "https://open.spotify.com/track/5dLhmqJRJiV0RyRwv7VUdv"
+      "duration_ms": 159800,
+      "name": "We Don't Wanna Talk",
+      "url": "https://open.spotify.com/track/7Gzs6HvJBEBSxsNkXwBqay"
     }
   ],
   "unique_name": "teen angst",

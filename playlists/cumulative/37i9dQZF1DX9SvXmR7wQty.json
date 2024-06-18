@@ -10243,6 +10243,28 @@
     },
     {
       "album": {
+        "name": "C\u0152UR DE ICE",
+        "url": "https://open.spotify.com/album/16q1SBIfIoTnp6jxlRugUe"
+      },
+      "artists": [
+        {
+          "name": "Naps",
+          "url": "https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204080,
+      "name": "C\u0152UR DE ICE",
+      "url": "https://open.spotify.com/track/1KPuYzyP2wKwFXQEF1voqj"
+    },
+    {
+      "album": {
         "name": "Adulte jamais",
         "url": "https://open.spotify.com/album/0AE0U3Vqv1gtLPUSuKUnZ3"
       },
@@ -27006,7 +27028,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 201055,
       "name": "Les Montgolfi\u00e8res",
       "url": "https://open.spotify.com/track/0ZHisJB7IPvhXl5dubBMBv"
@@ -32570,7 +32592,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 153006,
       "name": "NO LACK",
       "url": "https://open.spotify.com/track/6YojceyxipGujmAgHCm4ur"
@@ -45006,6 +45028,32 @@
       "duration_ms": 237800,
       "name": "TH\u00c9MISTOCLE",
       "url": "https://open.spotify.com/track/4EESHVnsX0GLc40MI1lBPn"
+    },
+    {
+      "album": {
+        "name": "TI TI TI",
+        "url": "https://open.spotify.com/album/4xAALJ2WaDy2IhJUaXPPfP"
+      },
+      "artists": [
+        {
+          "name": "Gradur",
+          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        },
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "TI TI TI",
+      "url": "https://open.spotify.com/track/6ob9uKyryapebruQXDzIlu"
     },
     {
       "album": {

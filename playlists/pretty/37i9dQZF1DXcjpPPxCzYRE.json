@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 402333,
+  "num_followers": 402404,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
+        "name": "Les jolies choses",
+        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 222373,
+      "name": "Les jolies choses",
+      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
         "name": "Pon P\u00f3n",
         "url": "https://open.spotify.com/album/6TNu9Fm6dr3ReP1omRRaZl"
       },
@@ -639,18 +655,22 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Les jolies choses",
-        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
+        "name": "Barcelona",
+        "url": "https://open.spotify.com/album/6TzswGbJlD3UorEQoST3bc"
       },
       "artists": [
         {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+          "name": "Pajaro Sunrise",
+          "url": "https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq"
+        },
+        {
+          "name": "Yuri M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H"
         }
       ],
-      "duration_ms": 222373,
-      "name": "Les jolies choses",
-      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
+      "duration_ms": 155048,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/4ksOH8hJAZJpqWzOJJ5fCV"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -675,26 +695,6 @@
       "duration_ms": 146471,
       "name": "I Think I Like You",
       "url": "https://open.spotify.com/track/2Rf33E2vpnJsIV5DpHCC6Y"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Barcelona",
-        "url": "https://open.spotify.com/album/6TzswGbJlD3UorEQoST3bc"
-      },
-      "artists": [
-        {
-          "name": "Pajaro Sunrise",
-          "url": "https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq"
-        },
-        {
-          "name": "Yuri M\u00e9ndez",
-          "url": "https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H"
-        }
-      ],
-      "duration_ms": 155048,
-      "name": "Barcelona",
-      "url": "https://open.spotify.com/track/4ksOH8hJAZJpqWzOJJ5fCV"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
+        "name": "Acoustic Hits",
+        "url": "https://open.spotify.com/album/2QL3fVo50dTiXdvmCc1I9q"
+      },
+      "artists": [
+        {
+          "name": "Softband",
+          "url": "https://open.spotify.com/artist/7KS4igpkjzmjCn4nhTnhhV"
+        }
+      ],
+      "duration_ms": 228013,
+      "name": "Livin\u00b4 On a Prayer",
+      "url": "https://open.spotify.com/track/33wSIvyZvFVzOap7H89JMG"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
         "name": "Al L\u00edmite (feat. Juancho Marqu\u00e9s)",
         "url": "https://open.spotify.com/album/1FPNRXlL2c6ihVC2IajCc3"
       },
@@ -963,18 +979,18 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Acoustic Hits",
-        "url": "https://open.spotify.com/album/2QL3fVo50dTiXdvmCc1I9q"
+        "name": "Hold Your Head Up High",
+        "url": "https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J"
       },
       "artists": [
         {
-          "name": "Softband",
-          "url": "https://open.spotify.com/artist/7KS4igpkjzmjCn4nhTnhhV"
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
         }
       ],
-      "duration_ms": 228013,
-      "name": "Livin\u00b4 On a Prayer",
-      "url": "https://open.spotify.com/track/33wSIvyZvFVzOap7H89JMG"
+      "duration_ms": 217360,
+      "name": "Hold Your Head Up High",
+      "url": "https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -995,22 +1011,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Hold Your Head Up High",
-        "url": "https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J"
-      },
-      "artists": [
-        {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
-        }
-      ],
-      "duration_ms": 217360,
-      "name": "Hold Your Head Up High",
-      "url": "https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "TANDA",
         "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
       },
@@ -1023,22 +1023,6 @@
       "duration_ms": 240904,
       "name": "Como Viene Se Va",
       "url": "https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Don't You Cry For Me (Acoustic)",
-        "url": "https://open.spotify.com/album/2YK6l9mVcjDHrw7cLyT7j7"
-      },
-      "artists": [
-        {
-          "name": "Cobi",
-          "url": "https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN"
-        }
-      ],
-      "duration_ms": 275564,
-      "name": "Don't You Cry For Me - Acoustic",
-      "url": "https://open.spotify.com/track/2okaCGJegLC7oK8z7OXutm"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1063,6 +1047,22 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
+        "name": "Don't You Cry For Me (Acoustic)",
+        "url": "https://open.spotify.com/album/2YK6l9mVcjDHrw7cLyT7j7"
+      },
+      "artists": [
+        {
+          "name": "Cobi",
+          "url": "https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN"
+        }
+      ],
+      "duration_ms": 275564,
+      "name": "Don't You Cry For Me - Acoustic",
+      "url": "https://open.spotify.com/track/2okaCGJegLC7oK8z7OXutm"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
         "name": "Caf\u00e9 Acoustic Session (Acoustic Version)",
         "url": "https://open.spotify.com/album/2A1S0jZ4Xbmue6lq4GSLuW"
       },
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Unspoken",
-        "url": "https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt"
-      },
-      "artists": [
-        {
-          "name": "Aaron Smith",
-          "url": "https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Unspoken",
-      "url": "https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 286400,
       "name": "Older Chests",
       "url": "https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "Unspoken",
+        "url": "https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt"
+      },
+      "artists": [
+        {
+          "name": "Aaron Smith",
+          "url": "https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Unspoken",
+      "url": "https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
+        "name": "Sanadoras Voluntades",
+        "url": "https://open.spotify.com/album/4en5TaKhMK6hxjQVW0hHoa"
+      },
+      "artists": [
+        {
+          "name": "Macaco",
+          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
+        }
+      ],
+      "duration_ms": 164956,
+      "name": "Sanadoras Voluntades",
+      "url": "https://open.spotify.com/track/7AqHsrlrP34XzmOgx5CmGe"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
         "name": "Soma",
         "url": "https://open.spotify.com/album/6nlMPBV9pvlP9O5sUA1iez"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 213920,
       "name": "Leve",
       "url": "https://open.spotify.com/track/4hswVtm8bkPLsMqnctlIBb"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Sanadoras Voluntades",
-        "url": "https://open.spotify.com/album/4en5TaKhMK6hxjQVW0hHoa"
-      },
-      "artists": [
-        {
-          "name": "Macaco",
-          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
-        }
-      ],
-      "duration_ms": 164956,
-      "name": "Sanadoras Voluntades",
-      "url": "https://open.spotify.com/track/7AqHsrlrP34XzmOgx5CmGe"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "reverie",
-        "url": "https://open.spotify.com/album/4aZGAh90HuhACBbHn9becT"
-      },
-      "artists": [
-        {
-          "name": "isaac gracie",
-          "url": "https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb"
-        }
-      ],
-      "duration_ms": 343249,
-      "name": "reverie",
-      "url": "https://open.spotify.com/track/1g2eirb8uaYn54iEYZl3CS"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "Chilleando por Madrid",
         "url": "https://open.spotify.com/album/3vNNIS0eZY0cu45dYfq6q8"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 234922,
       "name": "Chilleando por Madrid",
       "url": "https://open.spotify.com/track/5aMpFYfR9ixFBje9eeZMGE"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "reverie",
+        "url": "https://open.spotify.com/album/4aZGAh90HuhACBbHn9becT"
+      },
+      "artists": [
+        {
+          "name": "isaac gracie",
+          "url": "https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb"
+        }
+      ],
+      "duration_ms": 343249,
+      "name": "reverie",
+      "url": "https://open.spotify.com/track/1g2eirb8uaYn54iEYZl3CS"
     },
     {
       "added_at": "2024-06-06 22:00:00",

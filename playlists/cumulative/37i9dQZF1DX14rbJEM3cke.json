@@ -898,6 +898,24 @@
     {
       "album": {
         "name": "Change",
+        "url": "https://open.spotify.com/album/4fqQu9B3x8EwknltlbXv83"
+      },
+      "artists": [
+        {
+          "name": "Enumclaw",
+          "url": "https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212958,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/2LP4LllG0k6nSvAtbe60Xr"
+    },
+    {
+      "album": {
+        "name": "Change",
         "url": "https://open.spotify.com/album/1Og1tMxcRr64qwuA5T6BKu"
       },
       "artists": [
@@ -1204,6 +1222,24 @@
       "duration_ms": 269081,
       "name": "Days",
       "url": "https://open.spotify.com/track/3xQoeVaWyF046QIhdbGRCO"
+    },
+    {
+      "album": {
+        "name": "dayz gone / black lodge breakfast burrito (limited time only)",
+        "url": "https://open.spotify.com/album/4RgMjUyuNFO9f1llm5UeMS"
+      },
+      "artists": [
+        {
+          "name": "CLIFFDIVER",
+          "url": "https://open.spotify.com/artist/3yYFfLWWw90qPAloqOGM7x"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191066,
+      "name": "dayz gone",
+      "url": "https://open.spotify.com/track/7smNyoh7fzczIYUOAoM4uJ"
     },
     {
       "album": {
@@ -2664,7 +2700,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 231202,
       "name": "Jimmy Neutron",
       "url": "https://open.spotify.com/track/2nz67XVT2Ir9Y4YT8QM8sZ"
@@ -5228,6 +5264,24 @@
       "duration_ms": 120149,
       "name": "YOU NEEDED A HIT//",
       "url": "https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z"
+    },
+    {
+      "album": {
+        "name": "YOU LOOK LIKE YOU TREAT YOUR DOGS LIKE PEOPLE",
+        "url": "https://open.spotify.com/album/5UV9GkDE8P00zLyBMloD2g"
+      },
+      "artists": [
+        {
+          "name": "FISHLORD",
+          "url": "https://open.spotify.com/artist/1Hv9p9zMYy3gc2VWQfK5gg"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118380,
+      "name": "YOU'RE SO POLITE",
+      "url": "https://open.spotify.com/track/1S2QiFXMbfFENSZ9aSOBRZ"
     },
     {
       "album": {

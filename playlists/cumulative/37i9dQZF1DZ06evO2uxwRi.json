@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "This is New Found Glory. The essential tracks, all in one playlist.",
-  "name": "This Is New Found Glory",
+  "description": "This is \u30cb\u30e5\u30fc\u30fb\u30d5\u30a1\u30a6\u30f3\u30c9\u30fb\u30b0\u30ed\u30fc\u30ea\u30fc\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "name": "This Is \u30cb\u30e5\u30fc\u30fb\u30d5\u30a1\u30a6\u30f3\u30c9\u30fb\u30b0\u30ed\u30fc\u30ea\u30fc",
   "tracks": [
     {
       "album": {
@@ -718,7 +718,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 212560,
       "name": "It's Been A Summer",
       "url": "https://open.spotify.com/track/4HlCd3nabvTxmR2VDNUt05"
@@ -916,7 +916,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 220200,
       "name": "My Friends Over You",
       "url": "https://open.spotify.com/track/4pImG3RdbaGfanzQOTFgyr"

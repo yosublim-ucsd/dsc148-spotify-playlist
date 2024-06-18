@@ -4,7 +4,7 @@
 
 > Let's party with cheerful Korean trot medley\. Cover: Son Tae Jin\(손태진\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-830 songs - 1 day 23 hr 27 min
+831 songs - 1 day 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Get Set Yo \(Feat.Kim Tae\-Yeon\)](https://open.spotify.com/track/02VtwKSW1DamHVXLj2uuck) | [MJ](https://open.spotify.com/artist/1LHYoqa8tahdIWTUvxb17Y), [Kim Tae Yeon](https://open.spotify.com/artist/28dsgPrVGPbhHY4OuVmqpE) | [Happy Virus](https://open.spotify.com/album/2NEL9YgaBADZabZiQUQ7Wp) | 2:56 | 2022-04-07 |  |
 | [Gimme Gimme](https://open.spotify.com/track/5OWPx8RbpYTXKaQ6WG4Sl7) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Love call center PART25](https://open.spotify.com/album/3qAezcPNlqDFfJzBrYh9gt) | 2:56 | 2022-04-22 | 2022-07-29 |
 | [Gimme Gimme](https://open.spotify.com/track/63mAJxQc6MHRJ5Zw9NGkMf) | [Second Aunt KimDaVi](https://open.spotify.com/artist/2XrCYhwuq6x15QFddD1gQv) | [Gimme Gimme](https://open.spotify.com/album/0UPav2rFyYj36nC9lxDZp3) | 2:55 | 2022-04-07 |  |
+| [GiNiTa MoZZa \(So cool\)](https://open.spotify.com/track/2ok2w2jTCaaDlQyUUtumWx) | [Song Min Kyung](https://open.spotify.com/artist/1yLEsEryx3a0UMg0h7GE2X) | [GiNiTa MoZZa \(So cool\)](https://open.spotify.com/album/2sFVEp4hHXGeSvdUvvVGK2) | 2:44 | 2024-06-17 |  |
 | [Girl from Soyang River](https://open.spotify.com/track/6euTU6KhtvJPCPFtKEZwx4) | [Yeong Tak](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Love call center PART22](https://open.spotify.com/album/06luoFbKDOBf1Fbioazq9f) | 2:49 | 2022-04-21 | 2022-04-23 |
 | [Girl next door](https://open.spotify.com/track/3HdLXpJla7NJE6mPATwjdu) | [Jang Yoon\-Jeong](https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM) | [Cho young soo All star \- Jang yoon joeng](https://open.spotify.com/album/18KzXcZdFUA6NjfFLp38Bt) | 2:53 | 2022-04-07 |  |
 | [Girls girls girls](https://open.spotify.com/track/4u6ezTi03y6DScGKZovYBo) | [Yeong Tak](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Bongsungah school PART8](https://open.spotify.com/album/69qkW8reqrUoLlLmvKX7oY) | 2:55 | 2022-06-18 | 2022-06-28 |
@@ -837,6 +838,6 @@
 | [황홀한 고백](https://open.spotify.com/track/1VI71vA9wydLNgoyB2gPE7) | [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH), [박일환](https://open.spotify.com/artist/7fqe8G54YspEcm7afcbaB9) | [아무도 모르게 김호중의 파트너 Pt\. 1](https://open.spotify.com/album/60gWqkO4zELpk6S55P4nIX) | 3:12 | 2022-04-07 | 2022-07-26 |
 | [효도합시다](https://open.spotify.com/track/41FhRD804NUxuZGFtdXWQ7) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [miracle](https://open.spotify.com/album/11Moy2ErrWV2Jtzxl2fK1K) | 3:04 | 2022-04-21 | 2022-07-27 |
 | [힘내라 대한민국](https://open.spotify.com/track/3TH3VPHg59BvIgo4p1dnPs) | [나태주](https://open.spotify.com/artist/61km720PlFBWz14G7qHSCP) | [인생열차](https://open.spotify.com/album/7gnE6znPjohbNzPfQ4R0qE) | 3:36 | 2022-04-07 | 2022-07-21 |
-| [힘내라 인생](https://open.spotify.com/track/7sqrP9sf2g4d56csMcwwU2) | [박서진](https://open.spotify.com/artist/2xgEz0ywY5BONyBfzW47oQ) | [국가대표 와이프 \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/1MsabixkQ4Xea4CfLst1ft) | 2:50 | 2022-04-07 |  |
+| [힘내라 인생](https://open.spotify.com/track/7sqrP9sf2g4d56csMcwwU2) | [박서진](https://open.spotify.com/artist/2xgEz0ywY5BONyBfzW47oQ) | [국가대표 와이프 \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/1MsabixkQ4Xea4CfLst1ft) | 2:50 | 2022-04-07 | 2024-06-18 |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

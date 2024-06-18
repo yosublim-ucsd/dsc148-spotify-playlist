@@ -4,7 +4,7 @@
 
 > i tell them it's just your culture and everyone 🙄 📸 Sabrina Carpenter
 
-2,081 songs - 4 day 8 hr 39 min
+2,082 songs - 4 day 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,7 +373,7 @@
 | [Confetti](https://open.spotify.com/track/73m3OYU7lG7irNbFjNipwF) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:03 | 2023-09-15 | 2023-12-09 |
 | [Confetti](https://open.spotify.com/track/0ELnNmc1vQFW3aPEzQ5zOg) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Confetti](https://open.spotify.com/album/4IvDhxrStvfyvnUy876AQY) | 3:04 | 2023-04-14 | 2023-09-18 |
 | [Congratulations](https://open.spotify.com/track/1UqWYp2HnYr6UDkv9EJERF) | [DEZI](https://open.spotify.com/artist/3X9hlPTLBIZ9pEONCQnjTm) | [Congratulations](https://open.spotify.com/album/6eSLN8ssi7MTmuKajgn6K6) | 2:31 | 2022-07-15 | 2022-07-28 |
-| [congratulations](https://open.spotify.com/track/7pegeIRzsya5cj5VcXGV5l) | [Kenzie Cait](https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM) | [congratulations](https://open.spotify.com/album/6y892XaOB7haGQ3NZUoEsN) | 3:05 | 2024-05-17 |  |
+| [congratulations](https://open.spotify.com/track/7pegeIRzsya5cj5VcXGV5l) | [Kenzie Cait](https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM) | [congratulations](https://open.spotify.com/album/6y892XaOB7haGQ3NZUoEsN) | 3:05 | 2024-05-17 | 2024-06-18 |
 | [Contact](https://open.spotify.com/track/2IQB5iBapo0Y37Yc0PtIZc) | [Lulleaux](https://open.spotify.com/artist/6bA8L82JXU9CQa2nyUnLDh), [Giang Pham](https://open.spotify.com/artist/6OxNVd9jJ2IbNrOjHdcpJZ) | [Contact](https://open.spotify.com/album/7qCZ7hu4uJKHGAbQvdBgVG) | 2:21 | 2019-05-26\* | 2019-06-15 |
 | [Control](https://open.spotify.com/track/7yS8NOPrjvSelAd9xuRwxm) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Control](https://open.spotify.com/album/799MtiaLaTx19lk7NQCPhK) | 3:06 | 2021-04-24 | 2021-11-20 |
 | [Cool Again](https://open.spotify.com/track/7tDqtZnEQcgAE92mEMtgnF) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [Cool Again](https://open.spotify.com/album/0gWTwy5h4m4G851BIQKg37) | 3:11 | 2019-05-26\* | 2020-04-18 |
@@ -621,6 +621,7 @@
 | [Fireworks](https://open.spotify.com/track/61zdF5AXTsmr7eZ4bQBvnM) | [míra](https://open.spotify.com/artist/0WB5rykKeHBde6sSIfg4jj) | [Fireworks](https://open.spotify.com/album/2ALIhcb3aDJs0MFWtlJvC8) | 3:28 | 2021-03-14 | 2021-05-23 |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-04-08 | 2022-06-25 |
 | [First Time](https://open.spotify.com/track/5OLVjtDBzeHtqGTn5Pwo1B) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Video](https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1) | 4:14 | 2021-10-11 | 2021-10-14 |
+| [First Time](https://open.spotify.com/track/3gZ8s2w5v9jmjRkwYFRKxg) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [First Time](https://open.spotify.com/album/2trAIH3JyP0Kas8Ke7H2q6) | 2:33 | 2024-06-14 |  |
 | [First To Go](https://open.spotify.com/track/3RGTkawjlaqoIsgWSPM47w) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [First To Go](https://open.spotify.com/album/3PLVbHQDtLfU70Nji5erZl) | 2:53 | 2024-02-23 | 2024-05-18 |
 | [Flight](https://open.spotify.com/track/2goIwdUEmzggwr7pAiK6CL) | [Dutchkid](https://open.spotify.com/artist/2mgl6HmStFhjJciWKpStup) | [Flight](https://open.spotify.com/album/4GFi5MclhdI9SShAu6w3ls) | 3:06 | 2019-09-27 | 2021-05-09 |
 | [Flight](https://open.spotify.com/track/5QKcEj7uhcOG9xeKIV5I5B) | [Dutchkid](https://open.spotify.com/artist/2mgl6HmStFhjJciWKpStup) | [Flight](https://open.spotify.com/album/4jKwV2mPQqqyNPXiEYKux1) | 3:06 | 2019-09-14 | 2020-01-16 |

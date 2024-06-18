@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,912 songs - 4 day 7 hr 0 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,913 songs - 4 day 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1920,5 +1920,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1910 | [Talk talk](https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:41 |
 | 1911 | [puke my gutzz O\_o](https://open.spotify.com/track/6kqlHdAgxs12KJCrnVKfht) | [zeija](https://open.spotify.com/artist/6m8acOBf7WOpC5ikjqcRTr) | [puke my gutzz O\_o](https://open.spotify.com/album/3UFtX4dv9LcSJ4Q1DubVzL) | 2:26 |
 | 1912 | [365](https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 |
+| 1913 | [Pop like this Pt\. 2](https://open.spotify.com/track/2Ct0MnmqHDvjLqpi5gxcSM) | [prodbycpkshawn](https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z) | [Pop like this Pt\. 2](https://open.spotify.com/album/6pNuMVebkxgLAeQsYOQNyQ) | 1:39 |
 
-Snapshot ID: `AAADFKSgkmKRHxM1yC6n0sef6lWUTL44`
+Snapshot ID: `AAADFekLuax+jV+ljgeGF/k17YPCtSI8`

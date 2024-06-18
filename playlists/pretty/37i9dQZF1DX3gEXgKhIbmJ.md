@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 
 > pra entrar e ficar na onda
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,430 likes - 60 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,446 likes - 60 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 | 3 | [NAVE](https://open.spotify.com/track/7gjhc84DGkAIqvbhR5qJ5L) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [NAVE](https://open.spotify.com/album/2a3E5uCRivtqyEWToSXVqY) | 2:36 |
 | 4 | [Billie Jean](https://open.spotify.com/track/3UAf6wQDnoQqJZ7hrPIXR2) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [TkN](https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS), [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i) | [Amor e Ódio](https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt) | 1:53 |
 | 5 | [Se Quiser Só Vai](https://open.spotify.com/track/6EuqZJcP7TWPxEUDRavQ0U) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Chave](https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB) | 2:43 |
-| 6 | [Se Mantenha Original](https://open.spotify.com/track/6ApBQ3NHwPQoBQ0VwU6kDN) | [RealLamak](https://open.spotify.com/artist/1xGwIZJW5hCGGMGJZ468Nb), [Zero Pacceli](https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw) | [Se Mantenha Original](https://open.spotify.com/album/6fM0Wxm6piFAIzEGQvhRMD) | 2:17 |
+| 6 | [Se Mantenha Original](https://open.spotify.com/track/6ApBQ3NHwPQoBQ0VwU6kDN) | [RealLamak](https://open.spotify.com/artist/1xGwIZJW5hCGGMGJZ468Nb), [Zero Pacceli](https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw), [991Didi](https://open.spotify.com/artist/4Gi0bQFqrTkn6d6xAH0AIr) | [Se Mantenha Original](https://open.spotify.com/album/6fM0Wxm6piFAIzEGQvhRMD) | 2:17 |
 | 7 | [Bpn](https://open.spotify.com/track/5L3AslRWDg4kyf3wkRGYEl) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30) | [A Peça Final](https://open.spotify.com/album/7wOg102RsIsFYkYSRI1STQ) | 2:20 |
 | 8 | [Perdas \(Introdução\)](https://open.spotify.com/track/63ih7IytiVEosEaJPuYu9x) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [Yokame](https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F) | [Perdas & Ganhos](https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB) | 3:11 |
 | 9 | [SONHOS](https://open.spotify.com/track/4uvuvrx8lcrmpO01qqkeiK) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [ALMA IMORTAL](https://open.spotify.com/album/2wTVtjLOFxTnHmkCmgTpdp) | 2:12 |

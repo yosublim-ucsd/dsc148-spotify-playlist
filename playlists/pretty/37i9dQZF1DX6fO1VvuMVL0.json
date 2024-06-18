@@ -1,6 +1,6 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 77934,
+  "num_followers": 77994,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-03-20 13:15:26",
       "album": {
-        "name": "September In The Rain",
-        "url": "https://open.spotify.com/album/5b86ek4lKCKjQgEfCq3142"
-      },
-      "artists": [
-        {
-          "name": "George Shearing",
-          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
-        }
-      ],
-      "duration_ms": 166640,
-      "name": "I'll Remember April",
-      "url": "https://open.spotify.com/track/2BMorWMRsJPc1hEstsFKRU"
-    },
-    {
-      "added_at": "2024-03-20 13:15:26",
-      "album": {
         "name": "Lester Young With The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/4LT6FAMWGSf3qpPn3Wdyh1"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 208468,
       "name": "There Will Never Be Another You",
       "url": "https://open.spotify.com/track/5uQkJU8FDt9srkxKfKRiBN"
+    },
+    {
+      "added_at": "2024-03-20 13:15:26",
+      "album": {
+        "name": "September In The Rain",
+        "url": "https://open.spotify.com/album/5b86ek4lKCKjQgEfCq3142"
+      },
+      "artists": [
+        {
+          "name": "George Shearing",
+          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
+        }
+      ],
+      "duration_ms": 166640,
+      "name": "I'll Remember April",
+      "url": "https://open.spotify.com/track/2BMorWMRsJPc1hEstsFKRU"
     },
     {
       "added_at": "2024-03-20 13:15:26",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-03-20 13:15:26",
       "album": {
-        "name": "Stan Kenton",
-        "url": "https://open.spotify.com/album/4QLm0I7BPdpM15KRuuznS8"
-      },
-      "artists": [
-        {
-          "name": "Stan Kenton",
-          "url": "https://open.spotify.com/artist/27hSR8e34ZM5vj5fUFixyb"
-        }
-      ],
-      "duration_ms": 553320,
-      "name": "Tangerine",
-      "url": "https://open.spotify.com/track/5WXfkqqLNfjzUHFxQhlOpR"
-    },
-    {
-      "added_at": "2024-03-20 13:15:26",
-      "album": {
         "name": "The Return Of Art Pepper",
         "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 356133,
       "name": "Walkin' Out Blues",
       "url": "https://open.spotify.com/track/7vKWeu6VMsG0Lc303NU68l"
+    },
+    {
+      "added_at": "2024-03-20 13:15:26",
+      "album": {
+        "name": "Stan Kenton",
+        "url": "https://open.spotify.com/album/4QLm0I7BPdpM15KRuuznS8"
+      },
+      "artists": [
+        {
+          "name": "Stan Kenton",
+          "url": "https://open.spotify.com/artist/27hSR8e34ZM5vj5fUFixyb"
+        }
+      ],
+      "duration_ms": 553320,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/5WXfkqqLNfjzUHFxQhlOpR"
     },
     {
       "added_at": "2024-03-20 13:15:26",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-03-20 13:15:26",
       "album": {
-        "name": "Fontessa",
-        "url": "https://open.spotify.com/album/4ceTTa0JKnKsppT43oe8dc"
-      },
-      "artists": [
-        {
-          "name": "The Modern Jazz Quartet",
-          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
-        }
-      ],
-      "duration_ms": 288106,
-      "name": "Willow Weep for Me",
-      "url": "https://open.spotify.com/track/72mQKpTSTOs7fZDSEOE2XN"
-    },
-    {
-      "added_at": "2024-03-20 13:15:26",
-      "album": {
         "name": "Jazz Impressions Of Japan",
         "url": "https://open.spotify.com/album/1Rb6B6oexFpWWfGoclK4bX"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 279893,
       "name": "Rising Sun",
       "url": "https://open.spotify.com/track/4nYxNjXiOCl1QzjSu9H9ip"
+    },
+    {
+      "added_at": "2024-03-20 13:15:26",
+      "album": {
+        "name": "Fontessa",
+        "url": "https://open.spotify.com/album/4ceTTa0JKnKsppT43oe8dc"
+      },
+      "artists": [
+        {
+          "name": "The Modern Jazz Quartet",
+          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
+        }
+      ],
+      "duration_ms": 288106,
+      "name": "Willow Weep for Me",
+      "url": "https://open.spotify.com/track/72mQKpTSTOs7fZDSEOE2XN"
     },
     {
       "added_at": "2024-03-20 13:15:26",
@@ -799,50 +799,18 @@
     {
       "added_at": "2024-03-20 13:15:26",
       "album": {
-        "name": "Django (Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp"
+        "name": "Time Out",
+        "url": "https://open.spotify.com/album/4jEfuEYJ34e3N8AHccUJ7u"
       },
       "artists": [
         {
-          "name": "The Modern Jazz Quartet",
-          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
         }
       ],
-      "duration_ms": 192800,
-      "name": "The Queen's Fancy",
-      "url": "https://open.spotify.com/track/0jKWfUHO1Zy4wPPiRZLT9F"
-    },
-    {
-      "added_at": "2024-03-20 13:15:26",
-      "album": {
-        "name": "Jazz Guitar",
-        "url": "https://open.spotify.com/album/5RfC4bI1lfV7PFOyVxawiM"
-      },
-      "artists": [
-        {
-          "name": "Jim Hall",
-          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
-        }
-      ],
-      "duration_ms": 319240,
-      "name": "Thanks For The Memory",
-      "url": "https://open.spotify.com/track/6eBEARA33jF1lPXoPGhSqG"
-    },
-    {
-      "added_at": "2024-03-20 13:15:26",
-      "album": {
-        "name": "Intuition",
-        "url": "https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc"
-      },
-      "artists": [
-        {
-          "name": "Warne Marsh",
-          "url": "https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D"
-        }
-      ],
-      "duration_ms": 256133,
-      "name": "Quintessence - Remastered",
-      "url": "https://open.spotify.com/track/2CMmZJwUiiQXVro8lDB7ZE"
+      "duration_ms": 287840,
+      "name": "Kathy's Waltz",
+      "url": "https://open.spotify.com/track/7kknJtlKKE4Njdmy1IK7cQ"
     },
     {
       "added_at": "2024-03-20 13:15:26",
@@ -863,18 +831,50 @@
     {
       "added_at": "2024-03-20 13:15:26",
       "album": {
-        "name": "Time Out",
-        "url": "https://open.spotify.com/album/4jEfuEYJ34e3N8AHccUJ7u"
+        "name": "Intuition",
+        "url": "https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc"
       },
       "artists": [
         {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+          "name": "Warne Marsh",
+          "url": "https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D"
         }
       ],
-      "duration_ms": 287840,
-      "name": "Kathy's Waltz",
-      "url": "https://open.spotify.com/track/7kknJtlKKE4Njdmy1IK7cQ"
+      "duration_ms": 256133,
+      "name": "Quintessence - Remastered",
+      "url": "https://open.spotify.com/track/2CMmZJwUiiQXVro8lDB7ZE"
+    },
+    {
+      "added_at": "2024-03-20 13:15:26",
+      "album": {
+        "name": "Jazz Guitar",
+        "url": "https://open.spotify.com/album/5RfC4bI1lfV7PFOyVxawiM"
+      },
+      "artists": [
+        {
+          "name": "Jim Hall",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+        }
+      ],
+      "duration_ms": 319240,
+      "name": "Thanks For The Memory",
+      "url": "https://open.spotify.com/track/6eBEARA33jF1lPXoPGhSqG"
+    },
+    {
+      "added_at": "2024-03-20 13:15:26",
+      "album": {
+        "name": "Django (Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp"
+      },
+      "artists": [
+        {
+          "name": "The Modern Jazz Quartet",
+          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "The Queen's Fancy",
+      "url": "https://open.spotify.com/track/0jKWfUHO1Zy4wPPiRZLT9F"
     },
     {
       "added_at": "2024-03-20 13:15:26",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-03-20 13:15:26",
       "album": {
-        "name": "The Jimmy Giuffre 3",
-        "url": "https://open.spotify.com/album/7L9RwXgST9R54GVTQnVSWK"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Giuffre",
-          "url": "https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6"
-        }
-      ],
-      "duration_ms": 231466,
-      "name": "That's the Way It Is",
-      "url": "https://open.spotify.com/track/0NshH0K6HstTk06zPgATkT"
-    },
-    {
-      "added_at": "2024-03-20 13:15:26",
-      "album": {
         "name": "Jazz Alive! A Night At The Half Note (Live)",
         "url": "https://open.spotify.com/album/7JG3HQ0se1jy6zJLQvHfrn"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 614533,
       "name": "It Had To Be You - Live At The Half Note, NYC, 1959",
       "url": "https://open.spotify.com/track/2qSaqU4oifGvpq4bP5VOyc"
+    },
+    {
+      "added_at": "2024-03-20 13:15:26",
+      "album": {
+        "name": "The Jimmy Giuffre 3",
+        "url": "https://open.spotify.com/album/7L9RwXgST9R54GVTQnVSWK"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Giuffre",
+          "url": "https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6"
+        }
+      ],
+      "duration_ms": 231466,
+      "name": "That's the Way It Is",
+      "url": "https://open.spotify.com/track/0NshH0K6HstTk06zPgATkT"
     },
     {
       "added_at": "2024-03-20 13:15:26",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-03-20 13:15:26",
       "album": {
-        "name": "Subconscious-Lee",
-        "url": "https://open.spotify.com/album/59CmIk9Nm4m6qjber66Twe"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Fishin' Around",
-      "url": "https://open.spotify.com/track/1z67MjOaUDdtUGMWShXQJM"
-    },
-    {
-      "added_at": "2024-03-20 13:15:26",
-      "album": {
         "name": "A Pell Of A Time",
         "url": "https://open.spotify.com/album/3logMpjjsrzsWhezuwyumY"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 339053,
       "name": "Angle Eyes",
       "url": "https://open.spotify.com/track/2vhB5PyP62vNar5AuxgD0b"
+    },
+    {
+      "added_at": "2024-03-20 13:15:26",
+      "album": {
+        "name": "Subconscious-Lee",
+        "url": "https://open.spotify.com/album/59CmIk9Nm4m6qjber66Twe"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Fishin' Around",
+      "url": "https://open.spotify.com/track/1z67MjOaUDdtUGMWShXQJM"
     },
     {
       "added_at": "2024-03-20 13:15:26",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2024-03-20 13:15:26",
       "album": {
-        "name": "Tangents In Jazz",
-        "url": "https://open.spotify.com/album/4rWfghH0lL654S1yXh4gzh"
+        "name": "Meet the Jazztet",
+        "url": "https://open.spotify.com/album/56OywEvg2cq2C75EPzpGRc"
       },
       "artists": [
         {
-          "name": "Jimmy Giuffre",
-          "url": "https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6"
+          "name": "Art Farmer & Benny Golson",
+          "url": "https://open.spotify.com/artist/7wBmz5nj8jTmGvQXQC2EqT"
         }
       ],
-      "duration_ms": 253413,
-      "name": "Lazy Tones",
-      "url": "https://open.spotify.com/track/0J3JhmsnaMzkgPCDzz5VqR"
+      "duration_ms": 270866,
+      "name": "It Ain't Necessarily So",
+      "url": "https://open.spotify.com/track/1XjlS8YfcN2E4OJQ5CgOQC"
     },
     {
       "added_at": "2024-03-20 13:15:26",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2024-03-20 13:15:26",
       "album": {
-        "name": "Meet the Jazztet",
-        "url": "https://open.spotify.com/album/56OywEvg2cq2C75EPzpGRc"
+        "name": "Tangents In Jazz",
+        "url": "https://open.spotify.com/album/4rWfghH0lL654S1yXh4gzh"
       },
       "artists": [
         {
-          "name": "Art Farmer & Benny Golson",
-          "url": "https://open.spotify.com/artist/7wBmz5nj8jTmGvQXQC2EqT"
+          "name": "Jimmy Giuffre",
+          "url": "https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6"
         }
       ],
-      "duration_ms": 270866,
-      "name": "It Ain't Necessarily So",
-      "url": "https://open.spotify.com/track/1XjlS8YfcN2E4OJQ5CgOQC"
+      "duration_ms": 253413,
+      "name": "Lazy Tones",
+      "url": "https://open.spotify.com/track/0J3JhmsnaMzkgPCDzz5VqR"
     },
     {
       "added_at": "2024-03-20 13:15:26",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-03-20 13:15:26",
       "album": {
-        "name": "Very Cool + Tranquillity",
-        "url": "https://open.spotify.com/album/6Q9k7bnX9UhjY54le5AFtJ"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        }
-      ],
-      "duration_ms": 486040,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/7G15K7aNH361xuYXGmR5ek"
-    },
-    {
-      "added_at": "2024-03-20 13:15:26",
-      "album": {
         "name": "The Jazz Giants",
         "url": "https://open.spotify.com/album/44oGFX0F5QBXitVzuxmFxg"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 606026,
       "name": "I Didn't Know What Time It Was",
       "url": "https://open.spotify.com/track/6aLIAUgSkoBMz7cRzqsVN7"
+    },
+    {
+      "added_at": "2024-03-20 13:15:26",
+      "album": {
+        "name": "Very Cool + Tranquillity",
+        "url": "https://open.spotify.com/album/6Q9k7bnX9UhjY54le5AFtJ"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        }
+      ],
+      "duration_ms": 486040,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/7G15K7aNH361xuYXGmR5ek"
     },
     {
       "added_at": "2024-03-20 13:15:26",

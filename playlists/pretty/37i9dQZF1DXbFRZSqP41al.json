@@ -1,6 +1,6 @@
 {
   "description": "Burn off all those beers from last night.",
-  "num_followers": 1402076,
+  "num_followers": 1402000,
   "original_name": "One More Rep",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-05-28 05:24:22",
       "album": {
-        "name": "SELF HELL",
-        "url": "https://open.spotify.com/album/2zJSn15yO7k1iatSC7j0pW"
-      },
-      "artists": [
-        {
-          "name": "While She Sleeps",
-          "url": "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
-        }
-      ],
-      "duration_ms": 279752,
-      "name": "SELF HELL",
-      "url": "https://open.spotify.com/track/5qFKySO2oLQ1eo9kMN6mgm"
-    },
-    {
-      "added_at": "2024-05-28 05:24:22",
-      "album": {
         "name": "Live to Rise",
         "url": "https://open.spotify.com/album/0AhVRxG0GqFP4yTZWhJaCm"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 280653,
       "name": "Live to Rise",
       "url": "https://open.spotify.com/track/579801BT5wkzD5IVwRLI8t"
+    },
+    {
+      "added_at": "2024-05-28 05:24:22",
+      "album": {
+        "name": "SELF HELL",
+        "url": "https://open.spotify.com/album/2zJSn15yO7k1iatSC7j0pW"
+      },
+      "artists": [
+        {
+          "name": "While She Sleeps",
+          "url": "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
+        }
+      ],
+      "duration_ms": 279752,
+      "name": "SELF HELL",
+      "url": "https://open.spotify.com/track/5qFKySO2oLQ1eo9kMN6mgm"
     },
     {
       "added_at": "2024-05-28 05:24:22",

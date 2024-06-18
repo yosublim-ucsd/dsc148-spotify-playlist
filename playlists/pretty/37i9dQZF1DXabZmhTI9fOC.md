@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Keep the villa vibes vibing with music from and inspired by the new season of Love Island USA, streaming only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2406spotifypkerndwbjny446&utm\_campaign=2406spotify&utm\_source=sptfy\_na&utm\_medium=ernd\_wbjny\_acq\_deslnk&utm\_term=spotifyusers&utm\_content=nooffer&voucher\[\]=XXXXXXXXXXXXXX">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,966 likes - 27 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,345 likes - 40 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,5 +35,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 25 | [Unsteady Ground](https://open.spotify.com/track/2fdyrZcYRdvIKbEKRrAIi8) | [Saint Wander](https://open.spotify.com/artist/0foG1Pg4vI16qm8TaiFRPr) | [I Am the Reckoning](https://open.spotify.com/album/0cK0jcSjcI7leJ3JhZGHzb) | 3:28 |
 | 26 | [Showdown](https://open.spotify.com/track/6us1mHKDpUq2AyZRwD5aNq) | [REIMS](https://open.spotify.com/artist/3sbhS05fQerlXJSubVoIbX) | [Light It Up](https://open.spotify.com/album/7wENOZTdyikQ9PGqj2P2u9) | 2:47 |
 | 27 | [Before You Go](https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent \(Extended Edition\)](https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8) | 3:35 |
+| 28 | [About To Get Crazy](https://open.spotify.com/track/3HtN9YBRCw6rIZIkmd3GGA) | [Oh The Larceny](https://open.spotify.com/artist/3p5nfUyEYsxx8izMCym07n) | [Move With It](https://open.spotify.com/album/53nMmwWs7tA4XOTrJYS9Yo) | 3:06 |
+| 29 | [lights out](https://open.spotify.com/track/4NJQjbsghwy8pQCBbz1Rib) | [BLVCK VIØLET](https://open.spotify.com/artist/1izSVOOO2niWhSrqoi107b), [Jade Morgan Kelly](https://open.spotify.com/artist/0XQAPEzanOVfbyV4LZBDIs) | [lights out](https://open.spotify.com/album/3r3GXbYGGdATyD21r7c5kJ) | 2:51 |
+| 30 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO) | 2:46 |
+| 31 | [Have Some Fun](https://open.spotify.com/track/36n3G0Gd8Y2AGBynsUqvcn) | [Laurell](https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR) | [Jaw Drop](https://open.spotify.com/album/5GSK2zyZeXipkEkdfRWD9V) | 2:02 |
+| 32 | [Bad Idea](https://open.spotify.com/track/6azVi5ToFHo6KfKs6SstAC) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Bad Idea](https://open.spotify.com/album/7toU4cKKa2d6AVUjrappDo) | 2:35 |
+| 33 | [Complicated](https://open.spotify.com/track/0lzbkwUTUJW2In3sA8N5hS) | [paperthread](https://open.spotify.com/artist/2p72b1UI5MFSbiIWRouVtd) | [Complicated](https://open.spotify.com/album/199JDuwP5a15Vz7RHrLPxb) | 4:12 |
+| 34 | [Cry](https://open.spotify.com/track/0kb42sln40xKrX5wgwU1ak) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Cry](https://open.spotify.com/album/0O35a57sTTUEI2sid9EPQa) | 3:15 |
+| 35 | [Crash](https://open.spotify.com/track/4TOHoGo1RR1K5AKF1Sj1PC) | [DAKOO](https://open.spotify.com/artist/72343jDquF52drRGQa3xZV) | [Let's Get Wild](https://open.spotify.com/album/4ZwXi1jqvaLGcBE2DGCiS4) | 2:31 |
+| 36 | [can we speak in the morning?](https://open.spotify.com/track/7MkIOxjKzCQunEKebCIA2J) | [BLVCK VIØLET](https://open.spotify.com/artist/1izSVOOO2niWhSrqoi107b) | [hold my hand, i'm too scared of falling](https://open.spotify.com/album/77C946veQgGJL8qDHVhlob) | 3:37 |
+| 37 | [Came Here for Love \- Acoustic](https://open.spotify.com/track/6gBwaCbb1lKHvlN9mVOVAg) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Came Here for Love \(Acoustic\)](https://open.spotify.com/album/2YwHJ9OLSiwzwo6n4VLEvk) | 3:36 |
+| 38 | [Good to Be Bad \(Lionel Fabert Remix\)](https://open.spotify.com/track/5K9ou6fnkrGkuMCCvjsqvr) | [CRMNL](https://open.spotify.com/artist/4KGzIN3H6JbwyLKjs93tUQ), [Lionel Fabert](https://open.spotify.com/artist/5Qep23Mw61DcpUzoosnA43) | [Good to Be Bad \(Lionel Fabert Remix\)](https://open.spotify.com/album/638rijoSUJUZEz6sJxZ5jB) | 2:33 |
+| 39 | [Poison](https://open.spotify.com/track/6SI4Vs250peJHFYUShlst7) | [RAVN](https://open.spotify.com/artist/3TvMWdojrvPFOiU0PznJJ2) | [Revival](https://open.spotify.com/album/0a8kRcuw4NOalpS2V4dhjv) | 2:21 |
+| 40 | [Toxic](https://open.spotify.com/track/7sgvhY89MQ5ipWtgr9l3NQ) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc) | [Sequels](https://open.spotify.com/album/5eHFt6Ecfv45j25kI1KLxN) | 3:57 |
 
-Snapshot ID: `ZmzGDQAAAADe9TfC91vtrqWUJ1LBGye/`
+Snapshot ID: `ZnCaFgAAAAB2/u8P/szz/juACdWFdTux`

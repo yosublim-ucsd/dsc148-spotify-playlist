@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 
 > This is Bethel Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,850 likes - 50 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,887 likes - 50 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 41 | [God I Look to You](https://open.spotify.com/track/5VMPBdWTXlBkTOinoxfhHI) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Be Lifted High](https://open.spotify.com/album/4AfsCUxKAgdmrQGsL88rzC) | 7:32 |
 | 42 | [Death Is Hollow \(Live\)](https://open.spotify.com/track/5v7qO8qitDFzTaOWyxGnZo) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Death Is Hollow](https://open.spotify.com/album/5Ti4NcO8efw0WohpUXgPJg) | 8:39 |
 | 43 | [Graves into Gardens](https://open.spotify.com/track/2s4fnSh4FZjj0oZxruiqtc) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Peace, Vol\. II](https://open.spotify.com/album/6rlmahX20G4EGu7ClCHe4p) | 7:33 |
-| 44 | [Stand In Awe \(Spontaneous\) \[Live\]](https://open.spotify.com/track/6gUcDVCEvlXo4QuIFpvBEW) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya) | [Moments: Wait \(Live\)](https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL) | 10:00 |
-| 45 | [Son Of Suffering \- Live](https://open.spotify.com/track/5DWuh0oKJfcpabhzAMbXOM) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Homecoming \(Live\)](https://open.spotify.com/album/1lYaL9YlcMsLXXhmJMDrNL) | 7:59 |
+| 44 | [Son Of Suffering \- Live](https://open.spotify.com/track/5DWuh0oKJfcpabhzAMbXOM) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Homecoming \(Live\)](https://open.spotify.com/album/1lYaL9YlcMsLXXhmJMDrNL) | 7:59 |
+| 45 | [Stand In Awe \(Spontaneous\) \[Live\]](https://open.spotify.com/track/6gUcDVCEvlXo4QuIFpvBEW) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya) | [Moments: Wait \(Live\)](https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL) | 10:00 |
 | 46 | [Isabelline \(Interlude\)](https://open.spotify.com/track/5vSIZDCn7bVFuEFB6DKmFX) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Synesthesia](https://open.spotify.com/album/4D7S7xyJToJ28MVcSH3YFo) | 1:19 |
 | 47 | [Surrounded By Holy](https://open.spotify.com/track/3Gx2IFzYlAhaGpBMASAA0U) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [Come Up Here](https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03) | 4:54 |
-| 48 | [Show Me Your Face \(Spontaneous\) \[Live\]](https://open.spotify.com/track/3Q9K0fPrqJFWTCWbSp4k9V) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [John Wilds](https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg) | [Moments: Wait \(Live\)](https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL) | 7:31 |
-| 49 | [Gravity \- Instrumental](https://open.spotify.com/track/15LGKUgpAFUjQznIhE6Y2I) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [After All These Years \(Instrumental\)](https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk) | 5:14 |
+| 48 | [Gravity \- Instrumental](https://open.spotify.com/track/15LGKUgpAFUjQznIhE6Y2I) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [After All These Years \(Instrumental\)](https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk) | 5:14 |
+| 49 | [Show Me Your Face \(Spontaneous\) \[Live\]](https://open.spotify.com/track/3Q9K0fPrqJFWTCWbSp4k9V) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [John Wilds](https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg) | [Moments: Wait \(Live\)](https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL) | 7:31 |
 | 50 | [Mi Esperanza Está en Jesús \(Live\)](https://open.spotify.com/track/38e9daXegEIuNlP7lMII4Z) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Bethany Wohrle](https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e) | [Bethel Music en Español](https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1) | 4:51 |
 
-Snapshot ID: `ZmzZgAAAAACiTeCkdf4DCBoaoTTl0qGt`
+Snapshot ID: `Zm4rAAAAAAAYToY/CbouymEAzbjLRvwp`

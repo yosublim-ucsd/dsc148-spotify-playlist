@@ -1,12 +1,12 @@
 {
-  "description": "This is Emilia. The essential tracks, all in one playlist.",
-  "num_followers": 147959,
+  "description": "This Is Emilia. Los temas esenciales, todos en una lista.",
+  "num_followers": 148229,
   "original_name": "This Is Emilia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmzZgAAAAADN1J5ePJzoY8Js1LxVI8ju",
+  "snapshot_id": "Zm4rAAAAAACpj78AyhKzaG7wYqdYFR0e",
   "tracks": [
     {
       "added_at": null,
@@ -247,26 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Salgo a Bailar",
-        "url": "https://open.spotify.com/album/0uRoHlgfvgSwumltupp9vs"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 157830,
-      "name": "Salgo a Bailar",
-      "url": "https://open.spotify.com/track/7xX7bER73YZSE4m76OpMXV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hotel Miranda!",
         "url": "https://open.spotify.com/album/5QL33hpDp6XBWdNsc0VGUO"
       },
@@ -287,6 +267,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Salgo a Bailar",
+        "url": "https://open.spotify.com/album/0uRoHlgfvgSwumltupp9vs"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 157830,
+      "name": "Salgo a Bailar",
+      "url": "https://open.spotify.com/track/7xX7bER73YZSE4m76OpMXV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": ".mp3",
         "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
       },
@@ -299,6 +299,30 @@
       "duration_ms": 151653,
       "name": "GTA.mp3",
       "url": "https://open.spotify.com/track/6hv8hai0yo19JF2c6pppj6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quieres",
+        "url": "https://open.spotify.com/album/6FYsivfijNDaQ1bpw8Kljc"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        }
+      ],
+      "duration_ms": 213666,
+      "name": "Quieres",
+      "url": "https://open.spotify.com/track/4iGnpp1h0i33lpoP42Y8Jt"
     },
     {
       "added_at": null,
@@ -335,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Chain",
-        "url": "https://open.spotify.com/album/5JrH2FXWYe541F1YAdDkid"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 139518,
-      "name": "La Chain",
-      "url": "https://open.spotify.com/track/5lkgHMBFyhk6P3jinwsYo0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": ".mp3",
         "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
       },
@@ -363,6 +371,22 @@
       "duration_ms": 181043,
       "name": "IConic.mp3",
       "url": "https://open.spotify.com/track/6ZVLfXr015ogdhov4FW4pG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Chain",
+        "url": "https://open.spotify.com/album/5JrH2FXWYe541F1YAdDkid"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 139518,
+      "name": "La Chain",
+      "url": "https://open.spotify.com/track/5lkgHMBFyhk6P3jinwsYo0"
     },
     {
       "added_at": null,
@@ -403,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": ".mp3",
+        "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 155861,
+      "name": "Jagger.mp3",
+      "url": "https://open.spotify.com/track/5XUWO8VqwE4PEkLYAtt7h7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "r\u00e1pido lento",
         "url": "https://open.spotify.com/album/7wrDNMoSx249yOV0xFdRzn"
       },
@@ -419,22 +459,6 @@
       "duration_ms": 213000,
       "name": "r\u00e1pido lento",
       "url": "https://open.spotify.com/track/4xv2A022v5A8nyewDkYOkQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": ".mp3",
-        "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 155861,
-      "name": "Jagger.mp3",
-      "url": "https://open.spotify.com/track/5XUWO8VqwE4PEkLYAtt7h7"
     },
     {
       "added_at": null,
@@ -475,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": ".mp3",
+        "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 130098,
+      "name": "Facts.mp3",
+      "url": "https://open.spotify.com/track/2QWV6LlwgXF0ZIcg4VxkUh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Esto Reci\u00e9n Empieza",
         "url": "https://open.spotify.com/album/4uByxcE4UmzHo553LlwymU"
       },
@@ -491,22 +531,6 @@
       "duration_ms": 172352,
       "name": "Esto Reci\u00e9n Empieza",
       "url": "https://open.spotify.com/track/0ZLkb9lDDlTPwYZPvuGnHB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": ".mp3",
-        "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 130098,
-      "name": "Facts.mp3",
-      "url": "https://open.spotify.com/track/2QWV6LlwgXF0ZIcg4VxkUh"
     },
     {
       "added_at": null,
@@ -651,6 +675,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "HISTERIQUEO",
+        "url": "https://open.spotify.com/album/0ajHIug4wUF4TowpnpQoPc"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 205809,
+      "name": "HISTERIQUEO",
+      "url": "https://open.spotify.com/track/3z4y1bSwBoz21QuVqKVnEM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Boomshakalaka",
         "url": "https://open.spotify.com/album/2dO6HvLMmEFMuOLasVY9eC"
       },
@@ -679,26 +723,6 @@
       "duration_ms": 211920,
       "name": "Boomshakalaka",
       "url": "https://open.spotify.com/track/4yb5Z9dwnKhO9gC0AZQYDe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HISTERIQUEO",
-        "url": "https://open.spotify.com/album/0ajHIug4wUF4TowpnpQoPc"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 205809,
-      "name": "HISTERIQUEO",
-      "url": "https://open.spotify.com/track/3z4y1bSwBoz21QuVqKVnEM"
     },
     {
       "added_at": null,
@@ -739,26 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bendici\u00f3n",
-        "url": "https://open.spotify.com/album/1ngKwKbpwwd5twNds3LN8N"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        }
-      ],
-      "duration_ms": 185988,
-      "name": "Bendici\u00f3n",
-      "url": "https://open.spotify.com/track/54LxLkCDvShuYKRtTUQ2G4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Q-Lito",
         "url": "https://open.spotify.com/album/7vy05msyjhqtzv6wgemce7"
       },
@@ -775,6 +779,26 @@
       "duration_ms": 188360,
       "name": "Q-Lito",
       "url": "https://open.spotify.com/track/1W9c0BUe6ETdtBfQyqeOgw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/1ngKwKbpwwd5twNds3LN8N"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        }
+      ],
+      "duration_ms": 185988,
+      "name": "Bendici\u00f3n",
+      "url": "https://open.spotify.com/track/54LxLkCDvShuYKRtTUQ2G4"
     },
     {
       "added_at": null,

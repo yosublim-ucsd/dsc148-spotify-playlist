@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 44680,
+  "num_followers": 44695,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,22 @@
     {
       "added_at": "2024-03-28 01:34:50",
       "album": {
+        "name": "Selecci\u00f3n de Huaynos: Centro - Sur",
+        "url": "https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO"
+      },
+      "artists": [
+        {
+          "name": "Estudiantina Per\u00fa",
+          "url": "https://open.spotify.com/artist/5etoNGyzurcPYsyeLgVnDC"
+        }
+      ],
+      "duration_ms": 177653,
+      "name": "Convoycito de Huancayo",
+      "url": "https://open.spotify.com/track/4C36p2WRgwhAiQtZa1JRkX"
+    },
+    {
+      "added_at": "2024-03-28 01:34:50",
+      "album": {
         "name": "Folklore",
         "url": "https://open.spotify.com/album/1muX3zfFprVt4WLCxrXF0h"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 210560,
       "name": "Adi\u00f3s Pueblo De Ayacucho",
       "url": "https://open.spotify.com/track/3HmLLvBwJhsYChABzWH9Of"
-    },
-    {
-      "added_at": "2024-03-28 01:34:50",
-      "album": {
-        "name": "Selecci\u00f3n de Huaynos: Centro - Sur",
-        "url": "https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO"
-      },
-      "artists": [
-        {
-          "name": "Estudiantina Per\u00fa",
-          "url": "https://open.spotify.com/artist/5etoNGyzurcPYsyeLgVnDC"
-        }
-      ],
-      "duration_ms": 177653,
-      "name": "Convoycito de Huancayo",
-      "url": "https://open.spotify.com/track/4C36p2WRgwhAiQtZa1JRkX"
     },
     {
       "added_at": "2024-03-28 01:34:50",

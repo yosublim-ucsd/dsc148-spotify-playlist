@@ -656,7 +656,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 207133,
       "name": "Adore You",
       "url": "https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7"
@@ -3360,7 +3360,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-28",
+      "date_removed": null,
       "duration_ms": 231754,
       "name": "Call It Dreaming",
       "url": "https://open.spotify.com/track/1MxHIIzcTeFnaNsDGY3pfj"
@@ -8070,7 +8070,7 @@
       ],
       "date_added": "2019-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 230506,
       "name": "Georgia",
       "url": "https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm"
@@ -8492,7 +8492,7 @@
       ],
       "date_added": "2020-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 198453,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT"
@@ -9386,7 +9386,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 250173,
       "name": "Hang On, Hang On",
       "url": "https://open.spotify.com/track/5jn4aPKkBTJ21lLeLGizv4"
@@ -9566,7 +9566,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 155303,
       "name": "Head And Heart On Fire",
       "url": "https://open.spotify.com/track/6f5GeZlpVOSdLh9k1vzl1h"
@@ -9818,7 +9818,7 @@
       ],
       "date_added": "2019-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-16",
+      "date_removed": null,
       "duration_ms": 198586,
       "name": "Here On Out",
       "url": "https://open.spotify.com/track/1p0R5cAQaMh7lM5Zt3X67h"
@@ -11038,7 +11038,7 @@
       ],
       "date_added": "2019-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-16",
+      "date_removed": null,
       "duration_ms": 233039,
       "name": "I Found Out",
       "url": "https://open.spotify.com/track/2IxOGK5JJIhi2Alx5BA7oe"
@@ -11830,7 +11830,7 @@
       ],
       "date_added": "2019-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 239786,
       "name": "I'm with You",
       "url": "https://open.spotify.com/track/6Qwuw0eOeszVlewLpu24gR"
@@ -13624,7 +13624,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 253680,
       "name": "Lesson Learned (feat. John Mayer)",
       "url": "https://open.spotify.com/track/2c3jpiVWrH2l8O5HHRkJ5e"
@@ -13822,7 +13822,7 @@
       ],
       "date_added": "2019-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 245186,
       "name": "Let's See What The Night Can Do",
       "url": "https://open.spotify.com/track/3dglCYsVMjPbDlU2CC9Vq7"
@@ -14540,6 +14540,24 @@
       "duration_ms": 309666,
       "name": "Look For The Good",
       "url": "https://open.spotify.com/track/05Ysei8K5zQxvLRzHcEhhe"
+    },
+    {
+      "album": {
+        "name": "Look For The Good",
+        "url": "https://open.spotify.com/album/53RPwec3JaKKPJF8I18TYS"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239697,
+      "name": "Look For The Good (Single Version)",
+      "url": "https://open.spotify.com/track/3IORLAm07yxo4T7B8cRET3"
     },
     {
       "album": {
@@ -16046,7 +16064,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 215840,
       "name": "Missing Piece",
       "url": "https://open.spotify.com/track/2vB9ME0oZwfTGAUMC71CaT"
@@ -19662,7 +19680,7 @@
       ],
       "date_added": "2019-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 214720,
       "name": "Saturday Sun",
       "url": "https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ"
@@ -25674,7 +25692,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 361013,
       "name": "We'll Make It Through",
       "url": "https://open.spotify.com/track/4WzQEkUYTBzo0DRnJfYPls"
@@ -26890,7 +26908,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 221013,
       "name": "Worry No More",
       "url": "https://open.spotify.com/track/4Fl07whZv6iX3LK9FDy1gT"

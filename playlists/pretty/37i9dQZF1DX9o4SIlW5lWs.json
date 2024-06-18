@@ -1,6 +1,6 @@
 {
   "description": "Al coraz\u00f3n! Foto: La Kuppe & Amar Azul.",
-  "num_followers": 220720,
+  "num_followers": 220778,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
@@ -135,18 +135,22 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Ni Una Ni Dos",
-        "url": "https://open.spotify.com/album/2BrbrEMfRYAMmNPprw4Jey"
+        "name": "Hoy",
+        "url": "https://open.spotify.com/album/4ENi7P1IV01E2jzbHZeKxn"
       },
       "artists": [
         {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+          "name": "Valentino Merlo",
+          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
         }
       ],
-      "duration_ms": 158535,
-      "name": "Ni Una Ni Dos",
-      "url": "https://open.spotify.com/track/0H9WU0OIXPpbOVgzzOanXb"
+      "duration_ms": 198495,
+      "name": "Hoy",
+      "url": "https://open.spotify.com/track/0SoBfYjQHvL6cuWHtPUYnq"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -167,22 +171,18 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Hoy",
-        "url": "https://open.spotify.com/album/4ENi7P1IV01E2jzbHZeKxn"
+        "name": "Ni Una Ni Dos",
+        "url": "https://open.spotify.com/album/2BrbrEMfRYAMmNPprw4Jey"
       },
       "artists": [
         {
-          "name": "Valentino Merlo",
-          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
-        },
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
         }
       ],
-      "duration_ms": 198495,
-      "name": "Hoy",
-      "url": "https://open.spotify.com/track/0SoBfYjQHvL6cuWHtPUYnq"
+      "duration_ms": 158535,
+      "name": "Ni Una Ni Dos",
+      "url": "https://open.spotify.com/track/0H9WU0OIXPpbOVgzzOanXb"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Mi \u00danico Amor",
-        "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        }
-      ],
-      "duration_ms": 212062,
-      "name": "Una Calle Nos Separa",
-      "url": "https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
         "name": "Si Te Vas (Vivo)",
         "url": "https://open.spotify.com/album/3P9PZxc8N5rAXTQfqWS3sM"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 275375,
       "name": "Si Te Vas - Vivo",
       "url": "https://open.spotify.com/track/4v17MVpCUu5l2p0mSlw8PK"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
+        "name": "Mi \u00danico Amor",
+        "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "duration_ms": 212062,
+      "name": "Una Calle Nos Separa",
+      "url": "https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
+        "name": "Solo un Momento",
+        "url": "https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 204669,
+      "name": "Dej\u00e9moslo As\u00ed",
+      "url": "https://open.spotify.com/track/5tjst7DmSA9UXWncROr3oc"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
         "name": "Sin Valent\u00edn",
         "url": "https://open.spotify.com/album/1ZPwG0m0QpSpsPKcmqAJdj"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 161874,
       "name": "Sin Valent\u00edn",
       "url": "https://open.spotify.com/track/4qjw6B9bJWb3jd0RInF1RY"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
-        "name": "Solo un Momento",
-        "url": "https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 204669,
-      "name": "Dej\u00e9moslo As\u00ed",
-      "url": "https://open.spotify.com/track/5tjst7DmSA9UXWncROr3oc"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1163,18 +1163,22 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Maldito Amor",
-        "url": "https://open.spotify.com/album/4GCmuw2jffd56b9EHXGkSn"
+        "name": "\u00c9ramos los dos",
+        "url": "https://open.spotify.com/album/3Wtyw5fG0HucGm59A3xo3m"
       },
       "artists": [
         {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        },
+        {
+          "name": "La Kuppe",
+          "url": "https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb"
         }
       ],
-      "duration_ms": 193708,
-      "name": "Maldito Amor",
-      "url": "https://open.spotify.com/track/5NlBak3CleM03JgyFHcHET"
+      "duration_ms": 221250,
+      "name": "\u00c9ramos los dos",
+      "url": "https://open.spotify.com/track/16dlgB8k2xsI4qmteGhKTI"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1211,6 +1215,22 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
+        "name": "Maldito Amor",
+        "url": "https://open.spotify.com/album/4GCmuw2jffd56b9EHXGkSn"
+      },
+      "artists": [
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "duration_ms": 193708,
+      "name": "Maldito Amor",
+      "url": "https://open.spotify.com/track/5NlBak3CleM03JgyFHcHET"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
         "name": "Tu Eres",
         "url": "https://open.spotify.com/album/17YtuICFuZ4z4LbUBJNlz1"
       },
@@ -1239,22 +1259,6 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "COMO TE LLAMAS",
-        "url": "https://open.spotify.com/album/32eUPU9W0UD3ADcu28HwQW"
-      },
-      "artists": [
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        }
-      ],
-      "duration_ms": 158570,
-      "name": "COMO TE LLAMAS",
-      "url": "https://open.spotify.com/track/1RMIuLirLVncPn4ljyOUv3"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
         "name": "Mensajeros del Amor",
         "url": "https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6"
       },
@@ -1271,22 +1275,34 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "\u00c9ramos los dos",
-        "url": "https://open.spotify.com/album/3Wtyw5fG0HucGm59A3xo3m"
+        "name": "COMO TE LLAMAS",
+        "url": "https://open.spotify.com/album/32eUPU9W0UD3ADcu28HwQW"
       },
       "artists": [
         {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        },
-        {
-          "name": "La Kuppe",
-          "url": "https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb"
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
         }
       ],
-      "duration_ms": 221250,
-      "name": "\u00c9ramos los dos",
-      "url": "https://open.spotify.com/track/16dlgB8k2xsI4qmteGhKTI"
+      "duration_ms": 158570,
+      "name": "COMO TE LLAMAS",
+      "url": "https://open.spotify.com/track/1RMIuLirLVncPn4ljyOUv3"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
+        "name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
+        "url": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
+      },
+      "artists": [
+        {
+          "name": "Los Charros",
+          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
+        }
+      ],
+      "duration_ms": 224946,
+      "name": "Te extra\u00f1o",
+      "url": "https://open.spotify.com/track/6SGsYigLaGXaCH2jM2JwlZ"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1311,18 +1327,18 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
-        "url": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
+        "name": "Maravillosa Esta Noche",
+        "url": "https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb"
       },
       "artists": [
         {
-          "name": "Los Charros",
-          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
         }
       ],
-      "duration_ms": 224946,
-      "name": "Te extra\u00f1o",
-      "url": "https://open.spotify.com/track/6SGsYigLaGXaCH2jM2JwlZ"
+      "duration_ms": 242400,
+      "name": "Maravillosa Esta Noche",
+      "url": "https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1339,22 +1355,6 @@
       "duration_ms": 187533,
       "name": "Vete de Mi Lado",
       "url": "https://open.spotify.com/track/6JbqHYS9zYzxX1eWUZbKSl"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
-        "name": "Maravillosa Esta Noche",
-        "url": "https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "Maravillosa Esta Noche",
-      "url": "https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 207957,
-      "name": "Que Ser\u00e1 de Ti",
-      "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
         "name": "Te Sigo Queriendo",
         "url": "https://open.spotify.com/album/7KyFOWUu5Wdj28JqPmYwDK"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 188133,
       "name": "Hoy Te Vas",
       "url": "https://open.spotify.com/track/20iwP3Qzh9AnLJRguIKWqN"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 207957,
+      "name": "Que Ser\u00e1 de Ti",
+      "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/36oATZA0DYBVYdzkpO1V45"
+      },
+      "artists": [
+        {
+          "name": "Valentino Merlo",
+          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
+        }
+      ],
+      "duration_ms": 193347,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/4BLvE7hQoyWPvvp3Y5YEbz"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
         "name": "Hecho con Amor",
         "url": "https://open.spotify.com/album/7M8zzURI76D1gAX5M0o0bl"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 279763,
       "name": "Fuerte No Soy",
       "url": "https://open.spotify.com/track/03iuCunPkJmx6b7P3V0Mfq"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/36oATZA0DYBVYdzkpO1V45"
-      },
-      "artists": [
-        {
-          "name": "Valentino Merlo",
-          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
-        }
-      ],
-      "duration_ms": 193347,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/4BLvE7hQoyWPvvp3Y5YEbz"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1659,8 +1659,8 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Paso la Vida Pensando",
-        "url": "https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG"
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/260Sbv1NKuKSMi9QunvtsI"
       },
       "artists": [
         {
@@ -1668,29 +1668,13 @@
           "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
         },
         {
-          "name": "Lucas Sugo",
-          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
+          "name": "Pablito HC",
+          "url": "https://open.spotify.com/artist/3VGOer5eApPF1qsyYXlMFT"
         }
       ],
-      "duration_ms": 242277,
-      "name": "Paso la Vida Pensando",
-      "url": "https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
-        "name": "Grupo Play - Ahora juega en primera",
-        "url": "https://open.spotify.com/album/3Cb31lj9pek33puxonY1qM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Play",
-          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
-        }
-      ],
-      "duration_ms": 209066,
-      "name": "Lloraras mas de diez veces",
-      "url": "https://open.spotify.com/track/3Rw4RpKirEtupNJfQSPOjI"
+      "duration_ms": 170113,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/50WtswE20cDFRHe183OXkW"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1715,42 +1699,18 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "DIOS ME PERDONE",
-        "url": "https://open.spotify.com/album/3FthtqxiqcpsNiypZhUtRY"
+        "name": "Grupo Play - Ahora juega en primera",
+        "url": "https://open.spotify.com/album/3Cb31lj9pek33puxonY1qM"
       },
       "artists": [
         {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        },
-        {
-          "name": "Omar Varela",
-          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+          "name": "Grupo Play",
+          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
         }
       ],
-      "duration_ms": 173548,
-      "name": "DIOS ME PERDONE",
-      "url": "https://open.spotify.com/track/7g9a6lnFy87FnToiWluG6v"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
-        "name": "Hoy Quiero Verte",
-        "url": "https://open.spotify.com/album/19AtwODbc5YtbcUYQcRsRX"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        },
-        {
-          "name": "Nahuel The Coach",
-          "url": "https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg"
-        }
-      ],
-      "duration_ms": 199268,
-      "name": "Hoy Quiero Verte",
-      "url": "https://open.spotify.com/track/6KejUDGAYcKwvs0EXkQLxg"
+      "duration_ms": 209066,
+      "name": "Lloraras mas de diez veces",
+      "url": "https://open.spotify.com/track/3Rw4RpKirEtupNJfQSPOjI"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1767,6 +1727,46 @@
       "duration_ms": 198620,
       "name": "Piel y Huesos",
       "url": "https://open.spotify.com/track/4xtRpCuA9EHceVZKERguSt"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
+        "name": "Una Cartita",
+        "url": "https://open.spotify.com/album/579lllA20Ok3w4rBAcaUDq"
+      },
+      "artists": [
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        },
+        {
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+        }
+      ],
+      "duration_ms": 178588,
+      "name": "Una Cartita",
+      "url": "https://open.spotify.com/track/6vG53GzGUFjla9oiMq4TK3"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
+        "name": "DIOS ME PERDONE",
+        "url": "https://open.spotify.com/album/3FthtqxiqcpsNiypZhUtRY"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        }
+      ],
+      "duration_ms": 173548,
+      "name": "DIOS ME PERDONE",
+      "url": "https://open.spotify.com/track/7g9a6lnFy87FnToiWluG6v"
     },
     {
       "added_at": "2024-06-14 03:00:00",

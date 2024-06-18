@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297 likes - 251 songs - 14 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 296 likes - 251 songs - 14 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,11 +95,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 85 | [Drive You Crazy \(feat\. Jason Derulo & Juicy J\)](https://open.spotify.com/track/34en17vDgo4EoaFMQ0q1zk) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:50 |
 | 86 | [LBD](https://open.spotify.com/track/3c0uKKorZypy13KkO1u8AD) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [LBD](https://open.spotify.com/album/4HjMn5cTiTU7LkG4GcKDjg) | 3:23 |
 | 87 | [Lighthouse](https://open.spotify.com/track/2rN51xbGi6n0kB72PBwQQT) | [G.R.L.](https://open.spotify.com/artist/3Yl4nkmEa8BSuGWbwhdLDq) | [Lighthouse](https://open.spotify.com/album/0ITz7kMihqY42O79jazQTz) | 3:36 |
-| 88 | [Skippin'](https://open.spotify.com/track/3FpxgSaFXy0UkJ1oQ9c3Lg) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Go](https://open.spotify.com/album/23heJEeNSmPytB3UpSJ3iD) | 3:58 |
-| 89 | [Big FU](https://open.spotify.com/track/2HbTwmup8SWz5tMcKZXFLh) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Big FU](https://open.spotify.com/album/6fmQcEPiGQlBlA8LGClYVU) | 2:41 |
+| 88 | [Big FU](https://open.spotify.com/track/2HbTwmup8SWz5tMcKZXFLh) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Big FU](https://open.spotify.com/album/6fmQcEPiGQlBlA8LGClYVU) | 2:41 |
+| 89 | [Skippin'](https://open.spotify.com/track/3FpxgSaFXy0UkJ1oQ9c3Lg) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Go](https://open.spotify.com/album/23heJEeNSmPytB3UpSJ3iD) | 3:58 |
 | 90 | [Fuck Love](https://open.spotify.com/track/5lcqxNUw7TJE57tUedUHNR) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [The New Classic](https://open.spotify.com/album/3r51pg8BwnjazLJlW6dJIh) | 2:39 |
-| 91 | [If This Isn't Love](https://open.spotify.com/track/5hdLExWFX65PEWnk1sEOzO) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [Jennifer Hudson](https://open.spotify.com/album/2keYz2u0j1QdnZw2z88kXp) | 3:36 |
-| 92 | [BIRTHDAY DANCE](https://open.spotify.com/track/0WkfQ4SJqsKrixNQNYSMsq) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [DISC TWO \(SCRATCHED UP\)](https://open.spotify.com/album/2Dl2fPxFNqw7d3oFhHqHc3) | 2:24 |
+| 91 | [BIRTHDAY DANCE](https://open.spotify.com/track/0WkfQ4SJqsKrixNQNYSMsq) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [DISC TWO \(SCRATCHED UP\)](https://open.spotify.com/album/2Dl2fPxFNqw7d3oFhHqHc3) | 2:24 |
+| 92 | [If This Isn't Love](https://open.spotify.com/track/5hdLExWFX65PEWnk1sEOzO) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [Jennifer Hudson](https://open.spotify.com/album/2keYz2u0j1QdnZw2z88kXp) | 3:36 |
 | 93 | [I Wanna Be](https://open.spotify.com/track/7Bd6h5KwA4ASCXCSoWIS3i) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v), [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [I Wanna Be \- The 1st Album Repackage](https://open.spotify.com/album/2QDzBw32zlyvFtfeRCoSFH) | 3:13 |
 | 94 | [Lingerie](https://open.spotify.com/track/4tf0POzZuU6h0jpjRoYEdh) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 3:21 |
 | 95 | [Jump](https://open.spotify.com/track/7yEM9hYRsw9R3pJB5W0gxb) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [GLOWINTHEDARK](https://open.spotify.com/artist/2gLZZdgHD8ZbSAB2qQkr3P) | [Jump](https://open.spotify.com/album/1y8yeYpcaqJB0DWN9KWUlb) | 3:34 |
@@ -203,10 +203,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 193 | [Save My Soul](https://open.spotify.com/track/2r6DJtkGe7BumeqcEt0GKI) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [What Dreams Are Made Of](https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB) | 4:01 |
 | 194 | [Got No Shorty](https://open.spotify.com/track/4J9cHn7AatMiY45zpTTeif) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Sean Kingston](https://open.spotify.com/album/1y6Vw5HI0HmLOY2EtzLiPh) | 3:21 |
 | 195 | [On & On](https://open.spotify.com/track/2QlEtOiNBjGnnLBvT7rq6N) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [Emotionally Unavailable](https://open.spotify.com/album/0DU2vGl3iqTMSHHHd2l6eP) | 3:48 |
-| 196 | [All Good](https://open.spotify.com/track/579ctiuYd1ZLAfM3X1UWyz) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 3:39 |
-| 197 | [Change](https://open.spotify.com/track/25wUMe5Y8edc6XHLFdHnJT) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Sean Kingston](https://open.spotify.com/album/1y6Vw5HI0HmLOY2EtzLiPh) | 3:38 |
-| 198 | [Fall Back](https://open.spotify.com/track/3UmbvRKk9BYNhFhuHIRPv5) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [Fall Back](https://open.spotify.com/album/46FToXWq82RQnC7hoKWBGF) | 3:34 |
-| 199 | [LIGHTS OUT](https://open.spotify.com/track/4WWTcYV2tlGm7KwfPpXgLb) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [LIGHTS OUT](https://open.spotify.com/album/7EvhlLz5NF0LGUn6s0ceZv) | 3:18 |
+| 196 | [LIGHTS OUT](https://open.spotify.com/track/4WWTcYV2tlGm7KwfPpXgLb) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [LIGHTS OUT](https://open.spotify.com/album/7EvhlLz5NF0LGUn6s0ceZv) | 3:18 |
+| 197 | [All Good](https://open.spotify.com/track/579ctiuYd1ZLAfM3X1UWyz) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 3:39 |
+| 198 | [Change](https://open.spotify.com/track/25wUMe5Y8edc6XHLFdHnJT) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Sean Kingston](https://open.spotify.com/album/1y6Vw5HI0HmLOY2EtzLiPh) | 3:38 |
+| 199 | [Fall Back](https://open.spotify.com/track/3UmbvRKk9BYNhFhuHIRPv5) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [Fall Back](https://open.spotify.com/album/46FToXWq82RQnC7hoKWBGF) | 3:34 |
 | 200 | [TRAPPIN 4 A LIVIN](https://open.spotify.com/track/7IJaFyGv5V9FWsI8HBSzfH) | [Baby E](https://open.spotify.com/artist/3AhRH2q3GOnk8r1ZPHBnRM) | [TRAPPIN 4 A LIVIN](https://open.spotify.com/album/3DkRrvR3gqK3Ntq04aMcnI) | 2:55 |
 | 201 | [Losin' It](https://open.spotify.com/track/5pWcgT7W9pJOh6viBmehTm) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Losin' It](https://open.spotify.com/album/62vzwQLiTzoVPwpG6ShQxG) | 3:56 |
 | 202 | [Exit Wounds](https://open.spotify.com/track/1CTadyC9JCazf75DtdY97p) | [Luke James](https://open.spotify.com/artist/4E7AV8mtElSjHZP3xA9kyU) | [Luke James \(Deluxe\)](https://open.spotify.com/album/55Oye0FffojvyoADZteEFT) | 4:26 |
@@ -260,4 +260,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 250 | [Badonthebeat](https://open.spotify.com/track/6CjgPFN7Y2Sly314epQUSi) | [Malibu Babie](https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ) | [Malibu Babie SZN: Vol I](https://open.spotify.com/album/0baOUkjYE0kLhwWaGwdu78) | 2:24 |
 | 251 | [Closer](https://open.spotify.com/track/4Lar2nRAUCSGFNbw7995gi) | [Jah Patriot](https://open.spotify.com/artist/4W5RKsjBgeGJk5JgikxmZn) | [Blind Justice](https://open.spotify.com/album/5v24HOnEY07CArXQReEC84) | 3:56 |
 
-Snapshot ID: `AbUPbAAAAAAANm5+4drpo5AMQljNS22c`
+Snapshot ID: `AbUVDAAAAAAzSN841gqmV9+bFP3MOt6n`

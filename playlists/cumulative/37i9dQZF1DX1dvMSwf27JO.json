@@ -2024,7 +2024,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 138666,
       "name": "Cell Reception",
       "url": "https://open.spotify.com/track/3w0nLMuGyy82tHzWEPzHG2"
@@ -11124,6 +11124,24 @@
       "duration_ms": 197493,
       "name": "Walk Like This",
       "url": "https://open.spotify.com/track/0IGjUHYbwnK6Bo8u79d2E3"
+    },
+    {
+      "album": {
+        "name": "WAN ME DEAD",
+        "url": "https://open.spotify.com/album/2IZuFx4C7bvUQdCWEiRcLR"
+      },
+      "artists": [
+        {
+          "name": "808vic",
+          "url": "https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131427,
+      "name": "WAN ME DEAD",
+      "url": "https://open.spotify.com/track/7xQNKbIhGbfibisThIb75d"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694. (Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.)",
-  "num_followers": 13770,
+  "num_followers": 13775,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-06-05 03:49:36",
       "album": {
-        "name": "Deep in the night, you and me",
-        "url": "https://open.spotify.com/album/2HmxJAWEQLr6g2IIZ8DnXQ"
-      },
-      "artists": [
-        {
-          "name": "109",
-          "url": "https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh"
-        }
-      ],
-      "duration_ms": 167480,
-      "name": "Deep in the night, you and me",
-      "url": "https://open.spotify.com/track/0ytGKS7VQwOeviYgqjwgUY"
-    },
-    {
-      "added_at": "2024-06-05 03:49:36",
-      "album": {
         "name": "Sweet Lullaby",
         "url": "https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 153000,
       "name": "It will be all fine",
       "url": "https://open.spotify.com/track/7xzN0ZWjfkLCagoEeQWLri"
+    },
+    {
+      "added_at": "2024-06-05 03:49:36",
+      "album": {
+        "name": "Deep in the night, you and me",
+        "url": "https://open.spotify.com/album/2HmxJAWEQLr6g2IIZ8DnXQ"
+      },
+      "artists": [
+        {
+          "name": "109",
+          "url": "https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh"
+        }
+      ],
+      "duration_ms": 167480,
+      "name": "Deep in the night, you and me",
+      "url": "https://open.spotify.com/track/0ytGKS7VQwOeviYgqjwgUY"
     },
     {
       "added_at": "2024-06-05 03:49:36",
@@ -235,18 +235,18 @@
     {
       "added_at": "2024-06-05 03:49:36",
       "album": {
-        "name": "Record of Youth (Original Television Soundtrack) Pt. 8",
-        "url": "https://open.spotify.com/album/447N7ppCfmPhtj9vULuQpt"
+        "name": "If",
+        "url": "https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5"
       },
       "artists": [
         {
-          "name": "J Rabbit",
-          "url": "https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G"
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
         }
       ],
-      "duration_ms": 225080,
-      "name": "Just You",
-      "url": "https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9"
+      "duration_ms": 251560,
+      "name": "If",
+      "url": "https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ"
     },
     {
       "added_at": "2024-06-05 03:49:36",
@@ -267,6 +267,22 @@
     {
       "added_at": "2024-06-05 03:49:36",
       "album": {
+        "name": "Record of Youth (Original Television Soundtrack) Pt. 8",
+        "url": "https://open.spotify.com/album/447N7ppCfmPhtj9vULuQpt"
+      },
+      "artists": [
+        {
+          "name": "J Rabbit",
+          "url": "https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G"
+        }
+      ],
+      "duration_ms": 225080,
+      "name": "Just You",
+      "url": "https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9"
+    },
+    {
+      "added_at": "2024-06-05 03:49:36",
+      "album": {
         "name": "Give me a title",
         "url": "https://open.spotify.com/album/4Zt3JbOedE78z8zWp9Oxgp"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 163786,
       "name": "Give me a title",
       "url": "https://open.spotify.com/track/5HKr2mcxgqd3LHCd0VMRb7"
-    },
-    {
-      "added_at": "2024-06-05 03:49:36",
-      "album": {
-        "name": "If",
-        "url": "https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5"
-      },
-      "artists": [
-        {
-          "name": "Standing Egg",
-          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
-        }
-      ],
-      "duration_ms": 251560,
-      "name": "If",
-      "url": "https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ"
     },
     {
       "added_at": "2024-06-05 03:49:36",
@@ -367,38 +367,6 @@
     {
       "added_at": "2024-06-05 03:49:36",
       "album": {
-        "name": "Beautiful Now (Original Television Soundtrack) Pt. 9",
-        "url": "https://open.spotify.com/album/2X9zquczSyputp24lpjLkr"
-      },
-      "artists": [
-        {
-          "name": "Hello Ga-Young",
-          "url": "https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo"
-        }
-      ],
-      "duration_ms": 219939,
-      "name": "beautiful inside",
-      "url": "https://open.spotify.com/track/1bxzxAOlqll6JIAeEZEINR"
-    },
-    {
-      "added_at": "2024-06-05 03:49:36",
-      "album": {
-        "name": "i and i",
-        "url": "https://open.spotify.com/album/6DnaYS5enLDhJwz5KbQwrU"
-      },
-      "artists": [
-        {
-          "name": "NavyQuokka",
-          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
-        }
-      ],
-      "duration_ms": 178493,
-      "name": "i and i",
-      "url": "https://open.spotify.com/track/33PhGGthxOh1gmUCW28gMB"
-    },
-    {
-      "added_at": "2024-06-05 03:49:36",
-      "album": {
         "name": "What Should I do",
         "url": "https://open.spotify.com/album/4uJHtqDoEdNtRYxCmLMURt"
       },
@@ -415,6 +383,22 @@
     {
       "added_at": "2024-06-05 03:49:36",
       "album": {
+        "name": "Beautiful Now (Original Television Soundtrack) Pt. 9",
+        "url": "https://open.spotify.com/album/2X9zquczSyputp24lpjLkr"
+      },
+      "artists": [
+        {
+          "name": "Hello Ga-Young",
+          "url": "https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo"
+        }
+      ],
+      "duration_ms": 219939,
+      "name": "beautiful inside",
+      "url": "https://open.spotify.com/track/1bxzxAOlqll6JIAeEZEINR"
+    },
+    {
+      "added_at": "2024-06-05 03:49:36",
+      "album": {
         "name": "PLAYLIST (Original Soundtrack), Pt.1",
         "url": "https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 281000,
       "name": "Like a Bird",
       "url": "https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok"
+    },
+    {
+      "added_at": "2024-06-05 03:49:36",
+      "album": {
+        "name": "i and i",
+        "url": "https://open.spotify.com/album/6DnaYS5enLDhJwz5KbQwrU"
+      },
+      "artists": [
+        {
+          "name": "NavyQuokka",
+          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
+        }
+      ],
+      "duration_ms": 178493,
+      "name": "i and i",
+      "url": "https://open.spotify.com/track/33PhGGthxOh1gmUCW28gMB"
     },
     {
       "added_at": "2024-06-05 03:49:36",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-06-05 03:49:36",
       "album": {
-        "name": "My Little Thought",
-        "url": "https://open.spotify.com/album/0uH4sHGp8WT9KyK5d8Ge8g"
-      },
-      "artists": [
-        {
-          "name": "Sandeul",
-          "url": "https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx"
-        }
-      ],
-      "duration_ms": 187173,
-      "name": "Lazy Me",
-      "url": "https://open.spotify.com/track/3WHtA1TRzo9TCLFAPBafnq"
-    },
-    {
-      "added_at": "2024-06-05 03:49:36",
-      "album": {
         "name": "Lonely night",
         "url": "https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 187186,
       "name": "Lost Stars",
       "url": "https://open.spotify.com/track/7DljYOk60TzF33yBL9fdnn"
+    },
+    {
+      "added_at": "2024-06-05 03:49:36",
+      "album": {
+        "name": "My Little Thought",
+        "url": "https://open.spotify.com/album/0uH4sHGp8WT9KyK5d8Ge8g"
+      },
+      "artists": [
+        {
+          "name": "Sandeul",
+          "url": "https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx"
+        }
+      ],
+      "duration_ms": 187173,
+      "name": "Lazy Me",
+      "url": "https://open.spotify.com/track/3WHtA1TRzo9TCLFAPBafnq"
     },
     {
       "added_at": "2024-06-05 03:49:36",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-06-05 03:49:36",
       "album": {
+        "name": "OceanooM\u2218\u263d",
+        "url": "https://open.spotify.com/album/7DuHhV2JLZRN36IpeQ8Jcq"
+      },
+      "artists": [
+        {
+          "name": "MAKTUB",
+          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
+        }
+      ],
+      "duration_ms": 205306,
+      "name": "OceanooM\u2218\u263d",
+      "url": "https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2"
+    },
+    {
+      "added_at": "2024-06-05 03:49:36",
+      "album": {
         "name": "Do You Know My Heart",
         "url": "https://open.spotify.com/album/5BZA1HF4gHVHejvemSXfYD"
       },
@@ -715,18 +731,18 @@
     {
       "added_at": "2024-06-05 03:49:36",
       "album": {
-        "name": "OceanooM\u2218\u263d",
-        "url": "https://open.spotify.com/album/7DuHhV2JLZRN36IpeQ8Jcq"
+        "name": "\ub0b4\uc77c\uc774 \ub418\uba74",
+        "url": "https://open.spotify.com/album/06P2vAqOGRpEgvs1eUrIyz"
       },
       "artists": [
         {
-          "name": "MAKTUB",
-          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
+          "name": "soon",
+          "url": "https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW"
         }
       ],
-      "duration_ms": 205306,
-      "name": "OceanooM\u2218\u263d",
-      "url": "https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2"
+      "duration_ms": 220842,
+      "name": "\ub0b4\uc77c\uc774 \ub418\uba74",
+      "url": "https://open.spotify.com/track/6PMHyBLXJft4jmxdCjgmta"
     },
     {
       "added_at": "2024-06-05 03:49:36",
@@ -743,22 +759,6 @@
       "duration_ms": 211456,
       "name": "Free Giveaway",
       "url": "https://open.spotify.com/track/2z6tFZKtzpgEYa0Fcvk7Bi"
-    },
-    {
-      "added_at": "2024-06-05 03:49:36",
-      "album": {
-        "name": "\ub0b4\uc77c\uc774 \ub418\uba74",
-        "url": "https://open.spotify.com/album/06P2vAqOGRpEgvs1eUrIyz"
-      },
-      "artists": [
-        {
-          "name": "soon",
-          "url": "https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW"
-        }
-      ],
-      "duration_ms": 220842,
-      "name": "\ub0b4\uc77c\uc774 \ub418\uba74",
-      "url": "https://open.spotify.com/track/6PMHyBLXJft4jmxdCjgmta"
     },
     {
       "added_at": "2024-06-05 03:49:36",

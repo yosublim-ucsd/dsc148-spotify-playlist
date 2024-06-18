@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 
 > Listen to women at full volume\. Cover \- Neha Bhasin
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,784 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,790 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 | 7 | [ZID](https://open.spotify.com/track/036DrB9LguQLZUnxKcjctQ) | [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86), [Bharatt\-Saurabh](https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK) | [ZID](https://open.spotify.com/album/1Yi80QjxTA9KfqqZtbmyxo) | 3:24 |
 | 8 | [Gulzar](https://open.spotify.com/track/3ShWYm6l1yTykAHwKfycO1) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [Subhi](https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2) | [Gulzar](https://open.spotify.com/album/0QxuxbL7genbsdvL7fJ62j) | 3:09 |
 | 9 | [Ratiyaan](https://open.spotify.com/track/0uuNPxggjzumpudPx8yBLD) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc) | [Ratiyaan](https://open.spotify.com/album/2OEMbjabRjOTxkcYHgiYXU) | 3:41 |
-| 10 | [Khol Pinjra](https://open.spotify.com/track/7DDICwvqE3u7VBQSWDc4yM) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Arkadeep Karmakar](https://open.spotify.com/artist/3KLIBp2yncKK6B8w9H44uo), [Ritajaya Banerjee](https://open.spotify.com/artist/56WXTuyUxC708UuZaiX4eP) | [Savi](https://open.spotify.com/album/1y88LjCqrGBeuSEoExLUAX) | 3:08 |
-| 11 | [Sonchadi \| Coke Studio Bharat](https://open.spotify.com/track/730gDa5hYH6XbhFwAEQ4gv) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [digV](https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK), [Kamla Devi](https://open.spotify.com/artist/4ZgORT0DyKb49NF04cNGrH) | [Sonchadi \| Coke Studio Bharat](https://open.spotify.com/album/79ue9SUuZwiB3DAndWME0z) | 4:35 |
+| 10 | [Sonchadi \| Coke Studio Bharat](https://open.spotify.com/track/730gDa5hYH6XbhFwAEQ4gv) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [digV](https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK), [Kamla Devi](https://open.spotify.com/artist/4ZgORT0DyKb49NF04cNGrH) | [Sonchadi \| Coke Studio Bharat](https://open.spotify.com/album/79ue9SUuZwiB3DAndWME0z) | 4:35 |
+| 11 | [Lori \- From "Munjya"](https://open.spotify.com/track/4qYiwXY6S55UuWXFyPC8ce) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Munjya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ePim81cUsLymwQDqPsO6M) | 2:58 |
 | 12 | [Guddi](https://open.spotify.com/track/70x96HsFSMNY4OhnAi5gN3) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Guddi](https://open.spotify.com/album/0pvqE0ScBga6tTlf9lCfeT) | 4:27 |
 | 13 | [Ranjha \- Sid X Kiara Version](https://open.spotify.com/track/1nvvaiJbrhCkM3Az74N1pM) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Prerna Arora](https://open.spotify.com/artist/44OCqb4De16h6EY5QfzYp7), [Ashwani Basoya](https://open.spotify.com/artist/37Zo1pexxNhKlFtkYTGngm) | [Ranjha \(Sid X Kiara Version\)](https://open.spotify.com/album/0BJ8hGiNXBa38eAUHRB3Mm) | 1:58 |
 | 14 | [Pari Hoon Main \(From "Thank You For Coming"\)](https://open.spotify.com/track/6ENW5H0OaRbNDESsXljuOb) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Sushant Divgikar](https://open.spotify.com/artist/7a2NKzIrcY9uEhQQbpSpv8), [Rahul Pais](https://open.spotify.com/artist/0iByQOkheGQaW823yagplF), [Nariman Khambata](https://open.spotify.com/artist/3kvPoJrBHkhNT8j7Pj8QZN), [Leslee Lewis](https://open.spotify.com/artist/42mDOvp3BiaMBM3ae4zWwV), [Rajesh Johri](https://open.spotify.com/artist/4Jl8jq6OJfgIj896dVWVn2) | [Pari Hoon Main \(From "Thank You For Coming"\)](https://open.spotify.com/album/3Xdjd6F5JB9EFMXCDbrwLk) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 | 49 | [Kusu Kusu \(From "Satyameva Jayate 2"\)](https://open.spotify.com/track/6G699QfN1BWYWXfiblH51F) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Zahrah S Khan](https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P), [Dev Negi](https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK) | [Kusu Kusu \(From "Satyameva Jayate 2"\)](https://open.spotify.com/album/4QsZTMq6EZp26T67ou6ch9) | 3:15 |
 | 50 | [Genda Phool \(feat\. Payal Dev\)](https://open.spotify.com/track/0gzu5mm36VJH2Zqu8sQPTf) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7) | [Genda Phool \(feat\. Payal Dev\)](https://open.spotify.com/album/4wGiiYsZ5QR9vj3fa0L7UV) | 2:50 |
 
-Snapshot ID: `Zmu/lwAAAABQE4ftluNV+W0rhL/YoFTR`
+Snapshot ID: `Zm/rvQAAAAAfquZzjZruGd6LvHuibOE9`

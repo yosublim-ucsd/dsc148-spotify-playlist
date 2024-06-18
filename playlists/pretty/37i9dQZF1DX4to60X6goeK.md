@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: SOTA
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,810 likes - 55 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,834 likes - 55 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,6 +62,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 52 | [Lady Petrol](https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [Lady Petrol](https://open.spotify.com/album/24e3IAndixmqYlExyKTldi) | 5:09 |
 | 53 | [Skillz](https://open.spotify.com/track/03F1wRaMhskWtit3JAaxUg) | [Grima x Azza](https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R), [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Nu Elementz](https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP), [MC Spyda](https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545) | [Skillz](https://open.spotify.com/album/1RpdC3AIXrHGQURbvUqswf) | 3:24 |
 | 54 | [Lightspeed](https://open.spotify.com/track/6uSlV69MsqwwLKcXy8GaXl) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Back To Normal](https://open.spotify.com/album/0yfDa2WdnPtxcckL5IQIe9) | 4:28 |
-| 55 | [Count To Ten \(2024\)](https://open.spotify.com/track/5ArpYtNCWRaGCxFv8xERer) | [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2), [Enei](https://open.spotify.com/artist/6X3QjCYg5HcTwO5FPVQj0J) | [Count To Ten \(2024\) / Break the Cycle](https://open.spotify.com/album/6vDQhJv8UlLNuoTGWKsSOG) | 2:20 |
+| 55 | [Too Lazy](https://open.spotify.com/track/20z8sOQkGiwos8mlmRfbnj) | [Document One](https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu) | [Too Lazy](https://open.spotify.com/album/25EVRGSF2edbKo80nU9QKm) | 3:54 |
 
 Snapshot ID: `Zj44RAAAAAAzfjbbN2KVJVmiI0Egpej+`

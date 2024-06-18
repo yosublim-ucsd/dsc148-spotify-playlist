@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > ft\. charli
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,462 likes - 146 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,572 likes - 146 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 145 | [Affirmations](https://open.spotify.com/track/5BgsNewvpXArLhK1sxZyPB) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Affirmations](https://open.spotify.com/album/6fswdiE5noqpRbyZCj3fnm) | 3:34 |
 | 146 | [Lost Everything](https://open.spotify.com/track/55gIwFTMl1c3ZuesPM0VHo) | [Thy Slaughter](https://open.spotify.com/artist/4tXmMY3u0qbzec7aocHPPt), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [EASYFUN](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Lost Everything / Reign](https://open.spotify.com/album/6n6uqHl0JaMqDe2sFErG83) | 4:01 |
 
-Snapshot ID: `ZmvW/AAAAAAl6Pahp1AFWpGFlhNbi2DC`
+Snapshot ID: `ZnCGAAAAAAANpy/EkCLQZzhsumRP4Y4B`

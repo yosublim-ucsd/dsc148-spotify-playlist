@@ -1,6 +1,6 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. Maluma y Blessd en portada.",
-  "num_followers": 253978,
+  "num_followers": 253973,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "posta",
-        "url": "https://open.spotify.com/album/40qHcVnx8VFQxi9uVzVa4Z"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 121290,
-      "name": "posta",
-      "url": "https://open.spotify.com/track/7gmATHjiYdt4s9lNdji8nj"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "Dime Si Tu",
         "url": "https://open.spotify.com/album/2LkuDGwEPEfOlrU5cmBt43"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 196823,
       "name": "Dime Si Tu",
       "url": "https://open.spotify.com/track/2hiEWGnFqLCJoZvXU9Ozmr"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "posta",
+        "url": "https://open.spotify.com/album/40qHcVnx8VFQxi9uVzVa4Z"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 121290,
+      "name": "posta",
+      "url": "https://open.spotify.com/track/7gmATHjiYdt4s9lNdji8nj"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "K NO ME SUELTES",
-        "url": "https://open.spotify.com/album/0suJmL0fyf4I5yBT7geZYB"
-      },
-      "artists": [
-        {
-          "name": "Vera GRV",
-          "url": "https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa"
-        },
-        {
-          "name": "Edu Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4Gr4Wo60IdAOBJLYgRZytK"
-        }
-      ],
-      "duration_ms": 177666,
-      "name": "K NO ME SUELTES",
-      "url": "https://open.spotify.com/track/2vtBaWSQQSEw0lZv5sKQan"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "Te Hice Mal (Remix)",
         "url": "https://open.spotify.com/album/3QJN1KLfND8BJpBRHDPCDk"
       },
@@ -1579,6 +1559,26 @@
       "duration_ms": 269000,
       "name": "Te Hice Mal (Remix)",
       "url": "https://open.spotify.com/track/5GScJWskAOiLZz9upeOKaI"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "K NO ME SUELTES",
+        "url": "https://open.spotify.com/album/0suJmL0fyf4I5yBT7geZYB"
+      },
+      "artists": [
+        {
+          "name": "Vera GRV",
+          "url": "https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa"
+        },
+        {
+          "name": "Edu Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4Gr4Wo60IdAOBJLYgRZytK"
+        }
+      ],
+      "duration_ms": 177666,
+      "name": "K NO ME SUELTES",
+      "url": "https://open.spotify.com/track/2vtBaWSQQSEw0lZv5sKQan"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1611,6 +1611,42 @@
       "duration_ms": 153600,
       "name": "Kafka",
       "url": "https://open.spotify.com/track/0dPMYriM07Lu8Md86ZEiIf"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "THICK",
+        "url": "https://open.spotify.com/album/7iFPYMnIrLl33MDiZwyb5o"
+      },
+      "artists": [
+        {
+          "name": "Kris Floyd",
+          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
+        }
+      ],
+      "duration_ms": 139285,
+      "name": "THICK",
+      "url": "https://open.spotify.com/track/4b14BvhPrVDbbpICnw2P9L"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "Nadie Nos Entiende",
+        "url": "https://open.spotify.com/album/2qZ4zsYYzMmThZMXHGc8Ms"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Willy Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee"
+        }
+      ],
+      "duration_ms": 217373,
+      "name": "Nadie Nos Entiende",
+      "url": "https://open.spotify.com/track/1NBLwD8aj37OfbnkBZuwxc"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1659,42 +1695,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Nadie Nos Entiende",
-        "url": "https://open.spotify.com/album/2qZ4zsYYzMmThZMXHGc8Ms"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        },
-        {
-          "name": "Willy Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee"
-        }
-      ],
-      "duration_ms": 217373,
-      "name": "Nadie Nos Entiende",
-      "url": "https://open.spotify.com/track/1NBLwD8aj37OfbnkBZuwxc"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
-        "name": "THICK",
-        "url": "https://open.spotify.com/album/7iFPYMnIrLl33MDiZwyb5o"
-      },
-      "artists": [
-        {
-          "name": "Kris Floyd",
-          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
-        }
-      ],
-      "duration_ms": 139285,
-      "name": "THICK",
-      "url": "https://open.spotify.com/track/4b14BvhPrVDbbpICnw2P9L"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "Invisible",
         "url": "https://open.spotify.com/album/4xxtiFnG5k9Tr92mdUGTaW"
       },
@@ -1711,26 +1711,6 @@
       "duration_ms": 156060,
       "name": "Invisible",
       "url": "https://open.spotify.com/track/02nqZpvFs0QLGbn8lItNWW"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
-        "name": "Reflejos",
-        "url": "https://open.spotify.com/album/1WgfXjXFPY3cweBPJrU5es"
-      },
-      "artists": [
-        {
-          "name": "Vera GRV",
-          "url": "https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa"
-        },
-        {
-          "name": "Toni Anzis",
-          "url": "https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Reflejos",
-      "url": "https://open.spotify.com/track/5oqDCwIzUNosjxCoIvkihd"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1759,6 +1739,26 @@
       "duration_ms": 192000,
       "name": "RIP",
       "url": "https://open.spotify.com/track/1iSLhqv5Lf9N9Rp9bqQQWD"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "Reflejos",
+        "url": "https://open.spotify.com/album/1WgfXjXFPY3cweBPJrU5es"
+      },
+      "artists": [
+        {
+          "name": "Vera GRV",
+          "url": "https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa"
+        },
+        {
+          "name": "Toni Anzis",
+          "url": "https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Reflejos",
+      "url": "https://open.spotify.com/track/5oqDCwIzUNosjxCoIvkihd"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Al Rev\u00e9s",
-        "url": "https://open.spotify.com/album/2CkrTRjWLytC0Ihmm6GBQR"
-      },
-      "artists": [
-        {
-          "name": "FERCHO",
-          "url": "https://open.spotify.com/artist/5MkJLgGk2KS4XihPHuEXOU"
-        }
-      ],
-      "duration_ms": 138485,
-      "name": "Al Rev\u00e9s",
-      "url": "https://open.spotify.com/track/56q9dVA6Fo4s0BAhUJRip8"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "Gotas",
         "url": "https://open.spotify.com/album/76YyNZPRiXT5cyULAqajlB"
       },
@@ -1847,18 +1831,18 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Boomerang",
-        "url": "https://open.spotify.com/album/6GBWx201Pez8oOd7Y4Szqe"
+        "name": "Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/2CkrTRjWLytC0Ihmm6GBQR"
       },
       "artists": [
         {
-          "name": "Miranda Santizo",
-          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
+          "name": "FERCHO",
+          "url": "https://open.spotify.com/artist/5MkJLgGk2KS4XihPHuEXOU"
         }
       ],
-      "duration_ms": 169365,
-      "name": "Boomerang",
-      "url": "https://open.spotify.com/track/3VeFS1wjkjIk3pfzdtB4GJ"
+      "duration_ms": 138485,
+      "name": "Al Rev\u00e9s",
+      "url": "https://open.spotify.com/track/56q9dVA6Fo4s0BAhUJRip8"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1875,6 +1859,22 @@
       "duration_ms": 182500,
       "name": "Room 302",
       "url": "https://open.spotify.com/track/1CRG6Br8GUtDwpi2l4LuIW"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/6GBWx201Pez8oOd7Y4Szqe"
+      },
+      "artists": [
+        {
+          "name": "Miranda Santizo",
+          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
+        }
+      ],
+      "duration_ms": 169365,
+      "name": "Boomerang",
+      "url": "https://open.spotify.com/track/3VeFS1wjkjIk3pfzdtB4GJ"
     },
     {
       "added_at": "2024-06-07 06:00:00",

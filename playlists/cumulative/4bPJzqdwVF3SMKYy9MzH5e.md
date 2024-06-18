@@ -4,7 +4,7 @@
 
 > 
 
-1,920 songs - 4 day 7 hr 35 min
+1,921 songs - 4 day 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1304,6 +1304,7 @@
 | [Pocky Boy](https://open.spotify.com/track/6Ts2TyVBF6Osom4IV88JNr) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Serotonin II](https://open.spotify.com/album/5HZHvhX5TpJJD6hTgn0j0D) | 4:01 | 2022-12-05 |  |
 | [Poison Tree](https://open.spotify.com/track/6RDVwKLpBBEksWdp9jwBlD) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Inca Ore / Grouper](https://open.spotify.com/album/3vMDgHTapJG43G5rrBg3SE) | 3:16 | 2021-08-05 |  |
 | [Pon de Replay](https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Music Of The Sun](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) | 4:06 | 2021-08-05 |  |
+| [Pop like this Pt\. 2](https://open.spotify.com/track/2Ct0MnmqHDvjLqpi5gxcSM) | [prodbycpkshawn](https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z) | [Pop like this Pt\. 2](https://open.spotify.com/album/6pNuMVebkxgLAeQsYOQNyQ) | 1:39 | 2024-06-17 |  |
 | [Pop Style](https://open.spotify.com/track/5mPSyjLatqB00IkPqRlbTE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 3:32 | 2021-08-05 |  |
 | [Portrait of Ned](https://open.spotify.com/track/70iAPmTJ1w6QQq4zMYmFBy) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Bcos U Will Never B Free](https://open.spotify.com/album/32wYrmt3fg2c8maA80Ioc2) | 1:53 | 2021-08-05 |  |
 | [Posing in Bondage](https://open.spotify.com/track/7BgTfU79dcZjeBtthiBsku) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Polyvinyl 4\-Track Singles Series, Vol\. 3](https://open.spotify.com/album/15YQ9B4mRh5aoydduHt3Ak) | 2:07 | 2023-06-16 |  |

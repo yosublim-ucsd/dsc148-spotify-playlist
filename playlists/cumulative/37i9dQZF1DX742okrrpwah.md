@@ -4,7 +4,7 @@
 
 > Yoa au top des nouveautés de la semaine !
 
-650 songs - 1 day 9 hr 40 min
+651 songs - 1 day 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Cursed Romantics](https://open.spotify.com/track/5492WJL5APlDdZFOjn0PxK) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Cursed Romantics](https://open.spotify.com/album/0JKztCLBEY4jKjVSQBWeGE) | 3:10 | 2024-05-16 | 2024-05-24 |
 | [Cutting Like A Knife](https://open.spotify.com/track/1hnY45gsLDOwthNbiUeMXj) | [Yodelice](https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ) | [Cutting Like A Knife](https://open.spotify.com/album/4p3D0h28NVPzuoMtdyBJuC) | 2:51 | 2024-06-13 |  |
 | [CŒUR DE ICE](https://open.spotify.com/track/1KPuYzyP2wKwFXQEF1voqj) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [CŒUR DE ICE](https://open.spotify.com/album/16q1SBIfIoTnp6jxlRugUe) | 3:24 | 2024-06-13 |  |
+| [Dance With Me](https://open.spotify.com/track/2I5ipWaIXUknimwtJPoPYt) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance With Me](https://open.spotify.com/album/1wkUCIDGpYN0PEIcyG4dS6) | 3:45 | 2024-06-13 |  |
 | [Dark Magic](https://open.spotify.com/track/3HVYkMY3COZQMdY7AFxZUy) | [Marina Kaye](https://open.spotify.com/artist/4hHzZPvlU4rRbYnkXddpid) | [Heavenbound](https://open.spotify.com/album/5vNJ0VAIYS5Na10nzHkbaY) | 3:15 | 2024-04-25 | 2024-05-03 |
 | [Deal With Love](https://open.spotify.com/track/32JvxnUlvQEtPY9SCRXwK3) | [Møme](https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX), [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Deal With Love](https://open.spotify.com/album/0lWEcyqe1x63wdfzVpGgS8) | 4:32 | 2024-05-23 | 2024-06-01 |
 | [Debout sur les affaires](https://open.spotify.com/track/1mboflQHVf9HBR6DYjAydv) | [BABY NEELOU](https://open.spotify.com/artist/5bpO0XTVIGNUnClzfHHQUz), [Caballero](https://open.spotify.com/artist/5DE0by3fZT0nrlJSutY2D7) | [Debout sur les affaires](https://open.spotify.com/album/6Y2l5I93rNuCQpsDxtONlG) | 2:47 | 2024-05-02 | 2024-05-10 |

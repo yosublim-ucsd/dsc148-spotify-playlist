@@ -503,6 +503,24 @@
     },
     {
       "album": {
+        "name": "First Impressions Of Earth",
+        "url": "https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189973,
+      "name": "Ask Me Anything",
+      "url": "https://open.spotify.com/track/6THqWFqcUAAB7At66622Wr"
+    },
+    {
+      "album": {
         "name": "Room On Fire",
         "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
       },

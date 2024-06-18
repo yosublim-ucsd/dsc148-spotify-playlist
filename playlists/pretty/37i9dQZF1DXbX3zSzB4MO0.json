@@ -1,6 +1,6 @@
 {
   "description": "Club vibes wherever you are!",
-  "num_followers": 10921,
+  "num_followers": 10986,
   "original_name": "Club Beats",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-02-07 08:57:42",
       "album": {
-        "name": "Hesitate",
-        "url": "https://open.spotify.com/album/1NphNEK4Twi2yrGmLkjym8"
-      },
-      "artists": [
-        {
-          "name": "Picco",
-          "url": "https://open.spotify.com/artist/6i1CBwvebApraHKXUhMHQK"
-        }
-      ],
-      "duration_ms": 170155,
-      "name": "Hesitate",
-      "url": "https://open.spotify.com/track/522LFdtOuvHkNQeYJrAvIC"
-    },
-    {
-      "added_at": "2024-02-07 08:57:42",
-      "album": {
         "name": "Jealous",
         "url": "https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 256406,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0"
+    },
+    {
+      "added_at": "2024-02-07 08:57:42",
+      "album": {
+        "name": "Hesitate",
+        "url": "https://open.spotify.com/album/1NphNEK4Twi2yrGmLkjym8"
+      },
+      "artists": [
+        {
+          "name": "Picco",
+          "url": "https://open.spotify.com/artist/6i1CBwvebApraHKXUhMHQK"
+        }
+      ],
+      "duration_ms": 170155,
+      "name": "Hesitate",
+      "url": "https://open.spotify.com/track/522LFdtOuvHkNQeYJrAvIC"
     },
     {
       "added_at": "2024-02-07 08:57:42",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-02-07 08:57:42",
       "album": {
+        "name": "Schwer",
+        "url": "https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10"
+      },
+      "artists": [
+        {
+          "name": "Paul Kalkbrenner",
+          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
+        }
+      ],
+      "duration_ms": 214895,
+      "name": "Schwer",
+      "url": "https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt"
+    },
+    {
+      "added_at": "2024-02-07 08:57:42",
+      "album": {
         "name": "Day 'N' Night",
         "url": "https://open.spotify.com/album/0nnIZNFYODXvnI9gOFqrI0"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 200040,
       "name": "Day 'N' Night",
       "url": "https://open.spotify.com/track/6NT2Yovx1t0mMvbwBzRsYc"
-    },
-    {
-      "added_at": "2024-02-07 08:57:42",
-      "album": {
-        "name": "Schwer",
-        "url": "https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10"
-      },
-      "artists": [
-        {
-          "name": "Paul Kalkbrenner",
-          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
-        }
-      ],
-      "duration_ms": 214895,
-      "name": "Schwer",
-      "url": "https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt"
     },
     {
       "added_at": "2024-02-07 08:57:42",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-02-07 08:57:42",
       "album": {
-        "name": "We Don\u2019t Need (Club Edit)",
-        "url": "https://open.spotify.com/album/5aW2wXp4q8UKrVEbBRt2g7"
-      },
-      "artists": [
-        {
-          "name": "Piero Pirupa",
-          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
-        }
-      ],
-      "duration_ms": 158462,
-      "name": "We Don\u2019t Need - Club Edit",
-      "url": "https://open.spotify.com/track/3hp1sx2wqHipS9fanoPrzV"
-    },
-    {
-      "added_at": "2024-02-07 08:57:42",
-      "album": {
         "name": "Body Rock",
         "url": "https://open.spotify.com/album/2N7fWqjHyi2OpIxPJPBdO2"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 133884,
       "name": "Body Rock",
       "url": "https://open.spotify.com/track/0qtjn6dbQ8VDNJwJQ9w7Cy"
+    },
+    {
+      "added_at": "2024-02-07 08:57:42",
+      "album": {
+        "name": "We Don\u2019t Need (Club Edit)",
+        "url": "https://open.spotify.com/album/5aW2wXp4q8UKrVEbBRt2g7"
+      },
+      "artists": [
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        }
+      ],
+      "duration_ms": 158462,
+      "name": "We Don\u2019t Need - Club Edit",
+      "url": "https://open.spotify.com/track/3hp1sx2wqHipS9fanoPrzV"
     },
     {
       "added_at": "2024-02-07 08:57:42",
@@ -1487,18 +1487,22 @@
     {
       "added_at": "2024-02-07 08:57:42",
       "album": {
-        "name": "One Of A Kind",
-        "url": "https://open.spotify.com/album/2xpSf5fa0lJ04r8Ya6g1J0"
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/1yC5yJEeMRUSeeQgkho7Ai"
       },
       "artists": [
         {
-          "name": "Tita Lau",
-          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "VLTRA (IT)",
+          "url": "https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA"
         }
       ],
-      "duration_ms": 138725,
-      "name": "One Of A Kind",
-      "url": "https://open.spotify.com/track/0GL2DIZoRorbVbsRejFCaW"
+      "duration_ms": 230645,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/52jCFwQBAf04Bi8xrE8DJu"
     }
   ],
   "unique_name": "Club Beats",

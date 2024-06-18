@@ -276,7 +276,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 117606,
       "name": "9:45",
       "url": "https://open.spotify.com/track/6c4Po8zyQjB4cR5XgLhcGb"
@@ -1758,6 +1758,36 @@
       "duration_ms": 288902,
       "name": "Balam Pichkari",
       "url": "https://open.spotify.com/track/18e3XXYCv4Tx8uUl1mP3CN"
+    },
+    {
+      "album": {
+        "name": "Ballaatha Jaathi",
+        "url": "https://open.spotify.com/album/4N0sSPkeAkvORKcSrL2yuj"
+      },
+      "artists": [
+        {
+          "name": "NJ",
+          "url": "https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp"
+        },
+        {
+          "name": "BABY JEAN",
+          "url": "https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b"
+        },
+        {
+          "name": "Dabzee",
+          "url": "https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc"
+        },
+        {
+          "name": "Rzee",
+          "url": "https://open.spotify.com/artist/0JDjRH8br9CkytJV93g1Et"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Ballaatha Jaathi",
+      "url": "https://open.spotify.com/track/4tYxGORIOZSPLnZmrSpva7"
     },
     {
       "album": {
@@ -6048,7 +6078,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 167234,
       "name": "God Damn",
       "url": "https://open.spotify.com/track/209QxKVJzh2FLUmZHpYs4m"
@@ -9288,7 +9318,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 213344,
       "name": "Kinni Kinni",
       "url": "https://open.spotify.com/track/3F3ZuXYFXGM1V6pk3b3zmi"

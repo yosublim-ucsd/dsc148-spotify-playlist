@@ -6,7 +6,7 @@
     "name": "skillstreet",
     "url": "https://open.spotify.com/user/skillstreet"
   },
-  "snapshot_id": "AAADvJWATx/xVHJWGAnGvq3708cZsDuL",
+  "snapshot_id": "AAADve8jRrkqZHzW4PqKClZaKs/f201o",
   "tracks": [
     {
       "added_at": "2022-05-25 21:35:35",
@@ -505,7 +505,7 @@
         },
         {
           "name": "Russ Millions",
-          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+          "url": "https://open.spotify.com/artist/3glwpkS2UIcYp8vojjnbr5"
         },
         {
           "name": "ArrDee",
@@ -14899,6 +14899,34 @@
       "duration_ms": 218200,
       "name": "ICE AGE (FEAT. TRAVIS SCOTT)",
       "url": "https://open.spotify.com/track/4nhcjelU9PidsBzUkazfZs"
+    },
+    {
+      "added_at": "2024-06-17 06:31:21",
+      "album": {
+        "name": "His & Hers (feat. Don Toliver & Lil Uzi Vert)",
+        "url": "https://open.spotify.com/album/6FJQeinfF6MQckQ0HbTRxe"
+      },
+      "artists": [
+        {
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 224042,
+      "name": "His & Hers (feat. Don Toliver & Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/5LKIZ4UTKebSE5VFbLSQnr"
     }
   ],
   "unique_name": "locked tf in\ud83d\udd12",

@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 25043,
+  "num_followers": 25076,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -71,18 +71,22 @@
     {
       "added_at": "2024-06-14 06:48:31",
       "album": {
-        "name": "PARTYNEXTDOOR 4 (P4)",
-        "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
+        "name": "My Dealer",
+        "url": "https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU"
       },
       "artists": [
         {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 219949,
-      "name": "F o r C e r t a i n",
-      "url": "https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi"
+      "duration_ms": 148297,
+      "name": "My Dealer",
+      "url": "https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM"
     },
     {
       "added_at": "2024-06-14 06:48:31",
@@ -111,22 +115,18 @@
     {
       "added_at": "2024-06-14 06:48:31",
       "album": {
-        "name": "My Dealer",
-        "url": "https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU"
+        "name": "PARTYNEXTDOOR 4 (P4)",
+        "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
       },
       "artists": [
         {
-          "name": "KAESTYLE",
-          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 148297,
-      "name": "My Dealer",
-      "url": "https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM"
+      "duration_ms": 219949,
+      "name": "F o r C e r t a i n",
+      "url": "https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi"
     },
     {
       "added_at": "2024-06-14 06:48:31",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-06-14 06:48:31",
       "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/2IuH6EgGRGkFNmEmaLMdrt"
+      },
+      "artists": [
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+        }
+      ],
+      "duration_ms": 93099,
+      "name": "X",
+      "url": "https://open.spotify.com/track/4evzUQNNDpgP8mnlV2OVkf"
+    },
+    {
+      "added_at": "2024-06-14 06:48:31",
+      "album": {
         "name": "I Told Them...",
         "url": "https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 114419,
       "name": "Evidence",
       "url": "https://open.spotify.com/track/3EedyRBEZu0u5FH6Z9tHU1"
-    },
-    {
-      "added_at": "2024-06-14 06:48:31",
-      "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/2IuH6EgGRGkFNmEmaLMdrt"
-      },
-      "artists": [
-        {
-          "name": "Gabzy",
-          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
-        }
-      ],
-      "duration_ms": 93099,
-      "name": "X",
-      "url": "https://open.spotify.com/track/4evzUQNNDpgP8mnlV2OVkf"
     },
     {
       "added_at": "2024-06-14 06:48:31",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2024-06-14 06:48:31",
       "album": {
-        "name": "shadow",
-        "url": "https://open.spotify.com/album/2IFdqPlm98pTA57pt9iTdU"
-      },
-      "artists": [
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        },
-        {
-          "name": "255",
-          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
-        }
-      ],
-      "duration_ms": 160280,
-      "name": "shadow",
-      "url": "https://open.spotify.com/track/6Jllvxl97ni5T2bW3zEDGi"
-    },
-    {
-      "added_at": "2024-06-14 06:48:31",
-      "album": {
         "name": "Trumpet",
         "url": "https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 188656,
       "name": "Trumpet",
       "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"
+    },
+    {
+      "added_at": "2024-06-14 06:48:31",
+      "album": {
+        "name": "shadow",
+        "url": "https://open.spotify.com/album/2IFdqPlm98pTA57pt9iTdU"
+      },
+      "artists": [
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        },
+        {
+          "name": "255",
+          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+        }
+      ],
+      "duration_ms": 160280,
+      "name": "shadow",
+      "url": "https://open.spotify.com/track/6Jllvxl97ni5T2bW3zEDGi"
     },
     {
       "added_at": "2024-06-14 06:48:31",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-06-14 06:48:31",
       "album": {
-        "name": "California / Rollercoaster",
-        "url": "https://open.spotify.com/album/6ocXzmy38tFXV54CL56bga"
-      },
-      "artists": [
-        {
-          "name": "Majeeed",
-          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
-        }
-      ],
-      "duration_ms": 140357,
-      "name": "California",
-      "url": "https://open.spotify.com/track/2NJaVPITRe1XCSwTpbIZk3"
-    },
-    {
-      "added_at": "2024-06-14 06:48:31",
-      "album": {
         "name": "Call Me",
         "url": "https://open.spotify.com/album/51xSh3oKnYhYi77871elgq"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 167653,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/3ymSx5mCHlWAeb1yF6ZAPb"
+    },
+    {
+      "added_at": "2024-06-14 06:48:31",
+      "album": {
+        "name": "California / Rollercoaster",
+        "url": "https://open.spotify.com/album/6ocXzmy38tFXV54CL56bga"
+      },
+      "artists": [
+        {
+          "name": "Majeeed",
+          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
+        }
+      ],
+      "duration_ms": 140357,
+      "name": "California",
+      "url": "https://open.spotify.com/track/2NJaVPITRe1XCSwTpbIZk3"
     },
     {
       "added_at": "2024-06-14 06:48:31",

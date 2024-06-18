@@ -1,6 +1,6 @@
 {
   "description": "Sad songs 4 sad days.",
-  "num_followers": 1757397,
+  "num_followers": 1757374,
   "original_name": "sad latino",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-06-14 03:04:37",
       "album": {
-        "name": "Eres Diamante",
-        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 240295,
-      "name": "Ojos Noche",
-      "url": "https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV"
-    },
-    {
-      "added_at": "2024-06-14 03:04:37",
-      "album": {
         "name": "Aqu\u00ed Te Espero",
         "url": "https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 255373,
       "name": "Aqu\u00ed Te Espero",
       "url": "https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6"
+    },
+    {
+      "added_at": "2024-06-14 03:04:37",
+      "album": {
+        "name": "Eres Diamante",
+        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 240295,
+      "name": "Ojos Noche",
+      "url": "https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV"
     },
     {
       "added_at": "2024-06-14 03:04:37",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-06-14 03:04:37",
       "album": {
-        "name": "La Gata Bajo la Lluvia",
-        "url": "https://open.spotify.com/album/11nesNQ5Gd9bkt5iDXBidY"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        }
-      ],
-      "duration_ms": 222550,
-      "name": "La Gata Bajo la Lluvia",
-      "url": "https://open.spotify.com/track/14XWhFTOKNYtzQfVnXPcO1"
-    },
-    {
-      "added_at": "2024-06-14 03:04:37",
-      "album": {
         "name": "quiero estar contigo",
         "url": "https://open.spotify.com/album/7rnkMAuBAjIrYp9wPJJeVD"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 216607,
       "name": "quiero estar contigo",
       "url": "https://open.spotify.com/track/6SXWPe4uImrVzE4jcB8nnd"
+    },
+    {
+      "added_at": "2024-06-14 03:04:37",
+      "album": {
+        "name": "La Gata Bajo la Lluvia",
+        "url": "https://open.spotify.com/album/11nesNQ5Gd9bkt5iDXBidY"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "duration_ms": 222550,
+      "name": "La Gata Bajo la Lluvia",
+      "url": "https://open.spotify.com/track/14XWhFTOKNYtzQfVnXPcO1"
     },
     {
       "added_at": "2024-06-14 03:04:37",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-06-14 03:04:37",
       "album": {
-        "name": "Estemos Donde Estemos",
-        "url": "https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C"
-      },
-      "artists": [
-        {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
-        }
-      ],
-      "duration_ms": 107320,
-      "name": "50/50",
-      "url": "https://open.spotify.com/track/464aJm0nr5hDzFEoYyqnNk"
-    },
-    {
-      "added_at": "2024-06-14 03:04:37",
-      "album": {
         "name": "Romancera",
         "url": "https://open.spotify.com/album/427UD26U4IkJqIUicqVMZ9"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 232493,
       "name": "Romancera",
       "url": "https://open.spotify.com/track/4HED7T9WqduhZ6TgMl7ugE"
+    },
+    {
+      "added_at": "2024-06-14 03:04:37",
+      "album": {
+        "name": "Estemos Donde Estemos",
+        "url": "https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "duration_ms": 107320,
+      "name": "50/50",
+      "url": "https://open.spotify.com/track/464aJm0nr5hDzFEoYyqnNk"
     },
     {
       "added_at": "2024-06-14 03:04:37",
@@ -755,6 +755,22 @@
     {
       "added_at": "2024-06-14 03:04:37",
       "album": {
+        "name": "Luna (pag.1)",
+        "url": "https://open.spotify.com/album/5UseQdtOQBHEDc7bJhTbrG"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Rubio",
+          "url": "https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG"
+        }
+      ],
+      "duration_ms": 169790,
+      "name": "Luna (pag.1)",
+      "url": "https://open.spotify.com/track/2c6MW214s0JaQBtkQs9saS"
+    },
+    {
+      "added_at": "2024-06-14 03:04:37",
+      "album": {
         "name": "Ojos Papel",
         "url": "https://open.spotify.com/album/4pUpYaz59EsSzIFSr8SHUS"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 161142,
       "name": "Ojos Papel",
       "url": "https://open.spotify.com/track/5SzQY6suUQ69pVovGuhgkJ"
-    },
-    {
-      "added_at": "2024-06-14 03:04:37",
-      "album": {
-        "name": "Luna (pag.1)",
-        "url": "https://open.spotify.com/album/5UseQdtOQBHEDc7bJhTbrG"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Rubio",
-          "url": "https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG"
-        }
-      ],
-      "duration_ms": 169790,
-      "name": "Luna (pag.1)",
-      "url": "https://open.spotify.com/track/2c6MW214s0JaQBtkQs9saS"
     },
     {
       "added_at": "2024-06-14 03:04:37",

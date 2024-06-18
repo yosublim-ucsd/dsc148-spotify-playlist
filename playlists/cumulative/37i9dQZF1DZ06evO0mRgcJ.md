@@ -2,9 +2,9 @@
 
 ### [This Is Los Desvelados](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0mRgcJ)
 
-> This Is Los Desvelados\. Los temas esenciales, todos en una lista.
+> This is Los Desvelados\. The essential tracks, all in one playlist.
 
-66 songs - 3 hr 36 min
+67 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,13 +39,14 @@
 | [En Lynwood Transito](https://open.spotify.com/track/5FIaAzVDQoAWc4bQdrkuz2) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Dueto Consentido](https://open.spotify.com/artist/5oTnGKTgUQYePdPHjbTM4R) | [En Lynwood Transito](https://open.spotify.com/album/0CECKpMVo8kFrGfFdIPkrI) | 3:55 | 2024-01-29 |  |
 | [En Uno al 7 \(En Vivo\)](https://open.spotify.com/track/0MDB6Pst3BtDbp0rk7uiWs) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground Desde Culiacan Sin \(En Vivo\)](https://open.spotify.com/album/0h0VNlor4eGbnLPC71mRdp) | 3:06 | 2024-01-29 |  |
 | [Equipo Cannabis](https://open.spotify.com/track/7Kuljk1IHforwjZryE6QC5) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Grupo Viada](https://open.spotify.com/artist/6TBtNrAvB4UVFzWZK293ix) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 2:48 | 2024-01-29 |  |
+| [ERA Mi destino](https://open.spotify.com/track/0HqqGn94ykvvsy3Qn4vQln) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [ERA Mi destino](https://open.spotify.com/album/2euxkkWCWtxfuvbCLbwByP) | 4:12 | 2024-06-18 |  |
 | [Espérame](https://open.spotify.com/track/2y17NHDaifOGWU0GBbk9HA) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Conjunto Brio Norteño](https://open.spotify.com/artist/0DjscwAusQfeGfhAtTjczy) | [Espérame](https://open.spotify.com/album/1Y1VMmBRZqSOG0hCn1Lfiz) | 3:53 | 2024-02-23 | 2024-02-25 |
 | [Gucci](https://open.spotify.com/track/7kSRQrZzc36I1XYFFMiDlW) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 3](https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11) | 3:47 | 2024-01-29 |  |
 | [Hay Les Voy De Nuevo](https://open.spotify.com/track/72oyJ4ZmOWPuqyXw2d6I6m) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Los Juniors de California](https://open.spotify.com/artist/3Eqt4YgWB1MBq9E692lhk1) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 3:14 | 2024-01-29 |  |
 | [HUMILDE Y RANCHERO](https://open.spotify.com/track/1AfJbVYMxJpwy8VKmtViS5) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [CORRIDOS UNDERGROUND \(Vol\. 4\)](https://open.spotify.com/album/2Nqb3yTWqrq8IJ5hPMn9UY) | 4:09 | 2024-04-27 |  |
 | [Humilde y Sencillo \(En Vivo\)](https://open.spotify.com/track/5w7W726cvmYEG4WUnNzjfT) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground Desde Culiacan Sin \(En Vivo\)](https://open.spotify.com/album/0h0VNlor4eGbnLPC71mRdp) | 1:49 | 2024-01-29 |  |
 | [Johnny Boy \(feat\. Los Nuevos Ilegales & La Decima Banda\)](https://open.spotify.com/track/4APetySIwtHz0sUdBcwsNw) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U), [Los Nuevos Ilegales](https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac) | [Johnny Boy \(feat\. Los Nuevos Ilegales & La Decima Banda\)](https://open.spotify.com/album/7MgODVOyJPFXuThp6bivKL) | 2:37 | 2024-01-29 |  |
-| [Joven Delincuente](https://open.spotify.com/track/5esyzttlthLkvEhaJsPtUd) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Joven Delincuente](https://open.spotify.com/album/6LJQHthrT6kncN1zN9atvE) | 3:56 | 2024-01-29 |  |
+| [Joven Delincuente](https://open.spotify.com/track/5esyzttlthLkvEhaJsPtUd) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Joven Delincuente](https://open.spotify.com/album/6LJQHthrT6kncN1zN9atvE) | 3:56 | 2024-01-29 | 2024-06-18 |
 | [Joven Delinquente](https://open.spotify.com/track/0H6CmqrDWzdGS6C4nVrDuv) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Grupo Elexion](https://open.spotify.com/artist/5JQFHFB2VCcven5RfSH1d7) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 3:42 | 2024-05-24 | 2024-05-26 |
 | [Layo Gastelum \(En Vivo\)](https://open.spotify.com/track/3numKkxd3guCAWjwJgLjdH) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 2](https://open.spotify.com/album/5ePdJzekAiQoxukqYlzEiY) | 2:28 | 2024-01-29 |  |
 | [Los Tengo Viendo](https://open.spotify.com/track/7hGcGzrh6Bl6OLubzHbLb2) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Los Tengo Viendo](https://open.spotify.com/album/22YgCj8XGrlDQjlJGT8faI) | 3:54 | 2024-01-29 |  |

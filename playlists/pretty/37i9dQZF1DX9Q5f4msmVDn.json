@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/archdvs/\">Archie Davis</a>",
-  "num_followers": 21476,
+  "num_followers": 21482,
   "original_name": "Archie Davis' Taste",
   "owner": {
     "name": "Spotify",
@@ -631,6 +631,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Lay Wit Ya (feat. Duke Deuce)",
+        "url": "https://open.spotify.com/album/0Y3NDVXecRTw8quOVxBBZ9"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        },
+        {
+          "name": "Duke Deuce",
+          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
+        }
+      ],
+      "duration_ms": 202331,
+      "name": "Lay Wit Ya (feat. Duke Deuce)",
+      "url": "https://open.spotify.com/track/0RlsFYqkOzlg4ZxVQs9YJA"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "3.15.20",
         "url": "https://open.spotify.com/album/600ClrWRsAr7jZ0qjaBLHz"
       },
@@ -655,26 +675,6 @@
       "duration_ms": 392186,
       "name": "12.38 (feat. 21 Savage, Ink & Kadhja Bonet)",
       "url": "https://open.spotify.com/track/011ZwIM48eD8ee2UBpG8nK"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Lay Wit Ya (feat. Duke Deuce)",
-        "url": "https://open.spotify.com/album/0Y3NDVXecRTw8quOVxBBZ9"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
-        },
-        {
-          "name": "Duke Deuce",
-          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
-        }
-      ],
-      "duration_ms": 202331,
-      "name": "Lay Wit Ya (feat. Duke Deuce)",
-      "url": "https://open.spotify.com/track/0RlsFYqkOzlg4ZxVQs9YJA"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -779,6 +779,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Greatest Slow Jams",
+        "url": "https://open.spotify.com/album/5bnLsmE5xb2EzTbq7JMoeG"
+      },
+      "artists": [
+        {
+          "name": "Maze",
+          "url": "https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt"
+        },
+        {
+          "name": "Frankie Beverly",
+          "url": "https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n"
+        }
+      ],
+      "duration_ms": 431133,
+      "name": "Happy Feelin's",
+      "url": "https://open.spotify.com/track/6OxTGWA4bxZ1u1auaeTDNv"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Space Jam: A New Legacy (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 191067,
       "name": "About That Time (with G-Eazy, P-Lo & White Dave)",
       "url": "https://open.spotify.com/track/1wEbh1de74iKTl2L932zcJ"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Greatest Slow Jams",
-        "url": "https://open.spotify.com/album/5bnLsmE5xb2EzTbq7JMoeG"
-      },
-      "artists": [
-        {
-          "name": "Maze",
-          "url": "https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt"
-        },
-        {
-          "name": "Frankie Beverly",
-          "url": "https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n"
-        }
-      ],
-      "duration_ms": 431133,
-      "name": "Happy Feelin's",
-      "url": "https://open.spotify.com/track/6OxTGWA4bxZ1u1auaeTDNv"
     },
     {
       "added_at": "2022-10-01 16:00:00",

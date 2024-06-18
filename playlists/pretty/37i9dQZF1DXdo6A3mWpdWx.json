@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1990s. Cover: Aqua.",
-  "num_followers": 866420,
+  "num_followers": 866813,
   "original_name": "90s Party",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-06-11 19:27:48",
       "album": {
-        "name": "Boombastic",
-        "url": "https://open.spotify.com/album/40rtksAqnwebfPKWzSL6Iv"
-      },
-      "artists": [
-        {
-          "name": "Shaggy",
-          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
-        }
-      ],
-      "duration_ms": 249933,
-      "name": "Boombastic",
-      "url": "https://open.spotify.com/track/4fxF8ljwryMZX5c9EKrLFE"
-    },
-    {
-      "added_at": "2024-06-11 19:27:48",
-      "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 252106,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF"
+    },
+    {
+      "added_at": "2024-06-11 19:27:48",
+      "album": {
+        "name": "Boombastic",
+        "url": "https://open.spotify.com/album/40rtksAqnwebfPKWzSL6Iv"
+      },
+      "artists": [
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        }
+      ],
+      "duration_ms": 249933,
+      "name": "Boombastic",
+      "url": "https://open.spotify.com/track/4fxF8ljwryMZX5c9EKrLFE"
     },
     {
       "added_at": "2024-06-11 19:27:48",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-06-11 19:27:48",
       "album": {
-        "name": "Children (Dance Vault Mixes)",
-        "url": "https://open.spotify.com/album/5vwm8dEf7xGTqUAas8zGdC"
-      },
-      "artists": [
-        {
-          "name": "Robert Miles",
-          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
-        }
-      ],
-      "duration_ms": 243266,
-      "name": "Children",
-      "url": "https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc"
-    },
-    {
-      "added_at": "2024-06-11 19:27:48",
-      "album": {
         "name": "Pocket Full Of Kryptonite",
         "url": "https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 256733,
       "name": "Two Princes",
       "url": "https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90"
+    },
+    {
+      "added_at": "2024-06-11 19:27:48",
+      "album": {
+        "name": "Children (Dance Vault Mixes)",
+        "url": "https://open.spotify.com/album/5vwm8dEf7xGTqUAas8zGdC"
+      },
+      "artists": [
+        {
+          "name": "Robert Miles",
+          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
+        }
+      ],
+      "duration_ms": 243266,
+      "name": "Children",
+      "url": "https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc"
     },
     {
       "added_at": "2024-06-11 19:27:48",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-06-11 19:27:48",
       "album": {
-        "name": "...Baby One More Time (Digital Deluxe Version)",
-        "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 198066,
-      "name": "(You Drive Me) Crazy",
-      "url": "https://open.spotify.com/track/1DSJNBNhGZCigg9ll5VeZv"
-    },
-    {
-      "added_at": "2024-06-11 19:27:48",
-      "album": {
         "name": "Surprise",
         "url": "https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 451826,
       "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Basement Boy Strip To The Bone Mix",
       "url": "https://open.spotify.com/track/1SShxVVBeZBCY7WddnksPz"
+    },
+    {
+      "added_at": "2024-06-11 19:27:48",
+      "album": {
+        "name": "...Baby One More Time (Digital Deluxe Version)",
+        "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 198066,
+      "name": "(You Drive Me) Crazy",
+      "url": "https://open.spotify.com/track/1DSJNBNhGZCigg9ll5VeZv"
     },
     {
       "added_at": "2024-06-11 19:27:48",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-06-11 19:27:48",
       "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/74QhQQa0lhpkOSrz9HXWyE"
-      },
-      "artists": [
-        {
-          "name": "Skee-Lo",
-          "url": "https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy"
-        }
-      ],
-      "duration_ms": 252306,
-      "name": "I Wish - Radio Edit",
-      "url": "https://open.spotify.com/track/0QMHVTnrFTQJoaqmkdsKhT"
-    },
-    {
-      "added_at": "2024-06-11 19:27:48",
-      "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
       },
@@ -1379,6 +1363,22 @@
     {
       "added_at": "2024-06-11 19:27:48",
       "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/74QhQQa0lhpkOSrz9HXWyE"
+      },
+      "artists": [
+        {
+          "name": "Skee-Lo",
+          "url": "https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy"
+        }
+      ],
+      "duration_ms": 252306,
+      "name": "I Wish - Radio Edit",
+      "url": "https://open.spotify.com/track/0QMHVTnrFTQJoaqmkdsKhT"
+    },
+    {
+      "added_at": "2024-06-11 19:27:48",
+      "album": {
         "name": "Ice 'n' Green",
         "url": "https://open.spotify.com/album/3fSQDORWIQuhjPWZOptkML"
       },
@@ -1391,6 +1391,22 @@
       "duration_ms": 260973,
       "name": "Think About the Way",
       "url": "https://open.spotify.com/track/2foOeJLKSvepjHEkb4NR8N"
+    },
+    {
+      "added_at": "2024-06-11 19:27:48",
+      "album": {
+        "name": "Homebase",
+        "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
+      },
+      "artists": [
+        {
+          "name": "DJ Jazzy Jeff & The Fresh Prince",
+          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
+        }
+      ],
+      "duration_ms": 270973,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
     },
     {
       "added_at": "2024-06-11 19:27:48",
@@ -1427,22 +1443,6 @@
       "duration_ms": 242333,
       "name": "You Don't Know Me (feat. Duane Harden) - Radio Edit",
       "url": "https://open.spotify.com/track/7BpyfQEmvi0sUmOq29plEE"
-    },
-    {
-      "added_at": "2024-06-11 19:27:48",
-      "album": {
-        "name": "Homebase",
-        "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
-      },
-      "artists": [
-        {
-          "name": "DJ Jazzy Jeff & The Fresh Prince",
-          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
-        }
-      ],
-      "duration_ms": 270973,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
     },
     {
       "added_at": "2024-06-11 19:27:48",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-06-11 19:27:48",
       "album": {
-        "name": "The Immaculate Collection",
-        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 317080,
-      "name": "Vogue",
-      "url": "https://open.spotify.com/track/7j5TIXPi0cCbSSqItmbyZy"
-    },
-    {
-      "added_at": "2024-06-11 19:27:48",
-      "album": {
         "name": "Love Is Not Sex",
         "url": "https://open.spotify.com/album/01ChjoiBlN7bBmsvrzuzlo"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 253573,
       "name": "More And More - Single Version",
       "url": "https://open.spotify.com/track/0JXXm3RqxU8EKzX4P8M0n3"
+    },
+    {
+      "added_at": "2024-06-11 19:27:48",
+      "album": {
+        "name": "The Immaculate Collection",
+        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 317080,
+      "name": "Vogue",
+      "url": "https://open.spotify.com/track/7j5TIXPi0cCbSSqItmbyZy"
     },
     {
       "added_at": "2024-06-11 19:27:48",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2024-06-11 19:27:48",
       "album": {
-        "name": "The Bodyguard - Original Soundtrack Album",
-        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 285106,
-      "name": "I'm Every Woman",
-      "url": "https://open.spotify.com/track/2eHj0klWkwRQuIrNlPpCPa"
-    },
-    {
-      "added_at": "2024-06-11 19:27:48",
-      "album": {
         "name": "Fiesta Macarena",
         "url": "https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 252133,
       "name": "Macarena - Bayside Boys Remix",
       "url": "https://open.spotify.com/track/7obdw7ZGr6l1GqSBkFiY11"
+    },
+    {
+      "added_at": "2024-06-11 19:27:48",
+      "album": {
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 285106,
+      "name": "I'm Every Woman",
+      "url": "https://open.spotify.com/track/2eHj0klWkwRQuIrNlPpCPa"
     },
     {
       "added_at": "2024-06-11 19:27:48",
@@ -2339,22 +2339,6 @@
     {
       "added_at": "2024-06-11 19:27:48",
       "album": {
-        "name": "There Is a Party",
-        "url": "https://open.spotify.com/album/4pjPDN9F3qcR4Mug9VAPii"
-      },
-      "artists": [
-        {
-          "name": "DJ BoBo",
-          "url": "https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd"
-        }
-      ],
-      "duration_ms": 269706,
-      "name": "Love Is All Around",
-      "url": "https://open.spotify.com/track/0juz4iKEbAAKHfPzqgixRK"
-    },
-    {
-      "added_at": "2024-06-11 19:27:48",
-      "album": {
         "name": "Funky Divas",
         "url": "https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA"
       },
@@ -2367,6 +2351,22 @@
       "duration_ms": 281613,
       "name": "My Lovin' (You're Never Gonna Get It)",
       "url": "https://open.spotify.com/track/3R97rNX7JnmshCWBwOSFet"
+    },
+    {
+      "added_at": "2024-06-11 19:27:48",
+      "album": {
+        "name": "There Is a Party",
+        "url": "https://open.spotify.com/album/4pjPDN9F3qcR4Mug9VAPii"
+      },
+      "artists": [
+        {
+          "name": "DJ BoBo",
+          "url": "https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd"
+        }
+      ],
+      "duration_ms": 269706,
+      "name": "Love Is All Around",
+      "url": "https://open.spotify.com/track/0juz4iKEbAAKHfPzqgixRK"
     },
     {
       "added_at": "2024-06-11 19:27:48",
@@ -2487,22 +2487,6 @@
     {
       "added_at": "2024-06-11 19:27:48",
       "album": {
-        "name": "On Vol.1",
-        "url": "https://open.spotify.com/album/1xo1nQrV2vHnZB3CSkcaIj"
-      },
-      "artists": [
-        {
-          "name": "D:Ream",
-          "url": "https://open.spotify.com/artist/2dCQKsTjB762AhtIACbAQA"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Things Can Only Get Better",
-      "url": "https://open.spotify.com/track/5HmwYfynpGAjgrj4bp9eMy"
-    },
-    {
-      "added_at": "2024-06-11 19:27:48",
-      "album": {
         "name": "Toonage",
         "url": "https://open.spotify.com/album/0lKry7c7VLzsx4dD0DXSiI"
       },
@@ -2515,6 +2499,22 @@
       "duration_ms": 187533,
       "name": "Witch Doctor - Radio Mix",
       "url": "https://open.spotify.com/track/1li2UA33w6LQcVXt4Di5UA"
+    },
+    {
+      "added_at": "2024-06-11 19:27:48",
+      "album": {
+        "name": "On Vol.1",
+        "url": "https://open.spotify.com/album/1xo1nQrV2vHnZB3CSkcaIj"
+      },
+      "artists": [
+        {
+          "name": "D:Ream",
+          "url": "https://open.spotify.com/artist/2dCQKsTjB762AhtIACbAQA"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Things Can Only Get Better",
+      "url": "https://open.spotify.com/track/5HmwYfynpGAjgrj4bp9eMy"
     }
   ],
   "unique_name": "90s Party",

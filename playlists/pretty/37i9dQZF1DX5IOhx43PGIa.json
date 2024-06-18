@@ -1,6 +1,6 @@
 {
   "description": "Illuminating Asian artists everywhere.  Cover: Raveena.",
-  "num_followers": 286823,
+  "num_followers": 286801,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
+        "name": "Tuesday",
+        "url": "https://open.spotify.com/album/3OJhV8FhTJQLH979qE2QXA"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 149600,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/073gctjGEOq9cXuFjldqxT"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
         "name": "All For You",
         "url": "https://open.spotify.com/album/3cVgJaFSI609MSqk80Yg6v"
       },
@@ -1131,22 +1147,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Pluto",
-        "url": "https://open.spotify.com/album/2mwjp35FHpj726XhNWOOen"
-      },
-      "artists": [
-        {
-          "name": "Raveena",
-          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
-        }
-      ],
-      "duration_ms": 213360,
-      "name": "Pluto",
-      "url": "https://open.spotify.com/track/0GdWI9k2h0PzW6x2kAhXeI"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "Right About Love",
         "url": "https://open.spotify.com/album/7KrtzyHudvDuQVKwqQDeIk"
       },
@@ -1159,6 +1159,22 @@
       "duration_ms": 122448,
       "name": "Right About Love",
       "url": "https://open.spotify.com/track/3bQ7nKbcQeq6r3baY1vLNB"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Pluto",
+        "url": "https://open.spotify.com/album/2mwjp35FHpj726XhNWOOen"
+      },
+      "artists": [
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        }
+      ],
+      "duration_ms": 213360,
+      "name": "Pluto",
+      "url": "https://open.spotify.com/track/0GdWI9k2h0PzW6x2kAhXeI"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1199,26 +1215,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Sunny When I'm With You",
-        "url": "https://open.spotify.com/album/5wlnSQbgrirIifiisWn94E"
-      },
-      "artists": [
-        {
-          "name": "Ysanygo",
-          "url": "https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ"
-        },
-        {
-          "name": "Purplecat",
-          "url": "https://open.spotify.com/artist/2oxXzHzL7FaXIE29VwWPvN"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Sunny When I'm With You",
-      "url": "https://open.spotify.com/track/28ZIuMr3gGVhdZO12SvAvB"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "E-SIDE 3",
         "url": "https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U"
       },
@@ -1235,18 +1231,22 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Tuesday",
-        "url": "https://open.spotify.com/album/3OJhV8FhTJQLH979qE2QXA"
+        "name": "Sunny When I'm With You",
+        "url": "https://open.spotify.com/album/5wlnSQbgrirIifiisWn94E"
       },
       "artists": [
         {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+          "name": "Ysanygo",
+          "url": "https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ"
+        },
+        {
+          "name": "Purplecat",
+          "url": "https://open.spotify.com/artist/2oxXzHzL7FaXIE29VwWPvN"
         }
       ],
-      "duration_ms": 149600,
-      "name": "Tuesday",
-      "url": "https://open.spotify.com/track/073gctjGEOq9cXuFjldqxT"
+      "duration_ms": 180000,
+      "name": "Sunny When I'm With You",
+      "url": "https://open.spotify.com/track/28ZIuMr3gGVhdZO12SvAvB"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
+        "name": "to love in the 21st century: the epilogue",
+        "url": "https://open.spotify.com/album/5gJGE4rjt0FgauKwsrak11"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 165026,
+      "name": "july",
+      "url": "https://open.spotify.com/track/69hJjlCCD9ZbeSTYl6id04"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
         "name": "Sorry Sorry",
         "url": "https://open.spotify.com/album/3I2q66LfIWOWrRniUc4XGC"
       },
@@ -1355,18 +1371,18 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "to love in the 21st century: the epilogue",
-        "url": "https://open.spotify.com/album/5gJGE4rjt0FgauKwsrak11"
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/4rZXOJhiSMy1iwwUCwBBum"
       },
       "artists": [
         {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+          "name": "Weston Estate",
+          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
         }
       ],
-      "duration_ms": 165026,
-      "name": "july",
-      "url": "https://open.spotify.com/track/69hJjlCCD9ZbeSTYl6id04"
+      "duration_ms": 173661,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1387,22 +1403,6 @@
       "duration_ms": 160707,
       "name": "Love Like That (feat. Ali Sethi)",
       "url": "https://open.spotify.com/track/6vBuBiZkJDabpSEZqZFYNS"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Slowly",
-        "url": "https://open.spotify.com/album/4rZXOJhiSMy1iwwUCwBBum"
-      },
-      "artists": [
-        {
-          "name": "Weston Estate",
-          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
-        }
-      ],
-      "duration_ms": 173661,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1547,26 +1547,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Tell Her",
-        "url": "https://open.spotify.com/album/64k5YDxZtFWPvKWMGxKYrO"
-      },
-      "artists": [
-        {
-          "name": "River Tiber",
-          "url": "https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0"
-        },
-        {
-          "name": "Justin Nozuka",
-          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
-        }
-      ],
-      "duration_ms": 231691,
-      "name": "Tell Her",
-      "url": "https://open.spotify.com/track/0ZcA1W51b0NeKhoQzHdA7Q"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "loml",
         "url": "https://open.spotify.com/album/0szj1LIFIQjDAxMJv8m1Zq"
       },
@@ -1583,6 +1563,26 @@
       "duration_ms": 201908,
       "name": "loml",
       "url": "https://open.spotify.com/track/2y8XtG31pTKikEHTkqbZFK"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Tell Her",
+        "url": "https://open.spotify.com/album/64k5YDxZtFWPvKWMGxKYrO"
+      },
+      "artists": [
+        {
+          "name": "River Tiber",
+          "url": "https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0"
+        },
+        {
+          "name": "Justin Nozuka",
+          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
+        }
+      ],
+      "duration_ms": 231691,
+      "name": "Tell Her",
+      "url": "https://open.spotify.com/track/0ZcA1W51b0NeKhoQzHdA7Q"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
+        "name": "love, k",
+        "url": "https://open.spotify.com/album/0kqNCBy6PiWKB13kp3DL1x"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "duration_ms": 151631,
+      "name": "If I Weren't Me",
+      "url": "https://open.spotify.com/track/0FAdft85l0fYbs8qHnMakf"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
         "name": "Too Late",
         "url": "https://open.spotify.com/album/2XwhGc3pk122VucoekKmxj"
       },
@@ -1755,18 +1771,18 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "love, k",
-        "url": "https://open.spotify.com/album/0kqNCBy6PiWKB13kp3DL1x"
+        "name": "flip phone",
+        "url": "https://open.spotify.com/album/0Kwwg43ZAWqx7W3QO7Baww"
       },
       "artists": [
         {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+          "name": "PIAO",
+          "url": "https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb"
         }
       ],
-      "duration_ms": 151631,
-      "name": "If I Weren't Me",
-      "url": "https://open.spotify.com/track/0FAdft85l0fYbs8qHnMakf"
+      "duration_ms": 124553,
+      "name": "flip phone",
+      "url": "https://open.spotify.com/track/0jLYbfU5qwk4ivxrE4sZUi"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1815,22 +1831,6 @@
       "duration_ms": 184148,
       "name": "New Beginnings",
       "url": "https://open.spotify.com/track/2p63i5ntlS4BvoL0ijU9bG"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "flip phone",
-        "url": "https://open.spotify.com/album/0Kwwg43ZAWqx7W3QO7Baww"
-      },
-      "artists": [
-        {
-          "name": "PIAO",
-          "url": "https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb"
-        }
-      ],
-      "duration_ms": 124553,
-      "name": "flip phone",
-      "url": "https://open.spotify.com/track/0jLYbfU5qwk4ivxrE4sZUi"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -2171,6 +2171,22 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
+        "name": "cold medicine",
+        "url": "https://open.spotify.com/album/5dcGyDegN1gG3xgf485Bkz"
+      },
+      "artists": [
+        {
+          "name": "tiffi",
+          "url": "https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4"
+        }
+      ],
+      "duration_ms": 207911,
+      "name": "cold medicine",
+      "url": "https://open.spotify.com/track/5UgbDqJYYckCKtAjfBtoy2"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
         "name": "Sunday Song",
         "url": "https://open.spotify.com/album/3QuIuCr8XwSA5xjqG6CYlb"
       },
@@ -2199,22 +2215,6 @@
       "duration_ms": 201506,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/37MGryCBQtujYtMNflLZM5"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "cold medicine",
-        "url": "https://open.spotify.com/album/5dcGyDegN1gG3xgf485Bkz"
-      },
-      "artists": [
-        {
-          "name": "tiffi",
-          "url": "https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4"
-        }
-      ],
-      "duration_ms": 207911,
-      "name": "cold medicine",
-      "url": "https://open.spotify.com/track/5UgbDqJYYckCKtAjfBtoy2"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Blue Car",
-        "url": "https://open.spotify.com/album/2nmTgipc2Mjf7vhtgjkbSl"
-      },
-      "artists": [
-        {
-          "name": "Shivani Day",
-          "url": "https://open.spotify.com/artist/5mnwQTXBL1eoE4Fj9v9Awn"
-        }
-      ],
-      "duration_ms": 179538,
-      "name": "Blue Car",
-      "url": "https://open.spotify.com/track/6q0T53SQOskEXvzI5BcpWR"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "Birdwatcher",
         "url": "https://open.spotify.com/album/5jdRIHmKzjrDjvfK6Zf9rZ"
       },
@@ -2347,6 +2331,22 @@
       "duration_ms": 192317,
       "name": "Birdwatcher",
       "url": "https://open.spotify.com/track/2poBY9AIHsO7O6MjY4350M"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Blue Car",
+        "url": "https://open.spotify.com/album/2nmTgipc2Mjf7vhtgjkbSl"
+      },
+      "artists": [
+        {
+          "name": "Shivani Day",
+          "url": "https://open.spotify.com/artist/5mnwQTXBL1eoE4Fj9v9Awn"
+        }
+      ],
+      "duration_ms": 179538,
+      "name": "Blue Car",
+      "url": "https://open.spotify.com/track/6q0T53SQOskEXvzI5BcpWR"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -2531,22 +2531,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Lately I",
-        "url": "https://open.spotify.com/album/1nnAQnkffXQRxlBs52PhIj"
-      },
-      "artists": [
-        {
-          "name": "Peach Tree Rascals",
-          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
-        }
-      ],
-      "duration_ms": 187162,
-      "name": "Lately I",
-      "url": "https://open.spotify.com/track/0gLFMd2AWX4C0KIipkixxj"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "You Could Stay In One Spot, and I\u2019d Love You The Same",
         "url": "https://open.spotify.com/album/02NXgCnjg4NbFUSm4LGJeK"
       },
@@ -2559,6 +2543,22 @@
       "duration_ms": 197622,
       "name": "Before And After",
       "url": "https://open.spotify.com/track/4TtF1aNhUmgg5UNB9WEdcz"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Lately I",
+        "url": "https://open.spotify.com/album/1nnAQnkffXQRxlBs52PhIj"
+      },
+      "artists": [
+        {
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
+        }
+      ],
+      "duration_ms": 187162,
+      "name": "Lately I",
+      "url": "https://open.spotify.com/track/0gLFMd2AWX4C0KIipkixxj"
     },
     {
       "added_at": "2024-06-14 04:00:00",

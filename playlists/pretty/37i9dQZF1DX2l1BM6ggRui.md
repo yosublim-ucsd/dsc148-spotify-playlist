@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 
 > 듣고만 있어도 행복한 노래들과 더더욱 행복하세요 ;\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,513 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,515 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 | 19 | [My Love \(Duet Ver.\)](https://open.spotify.com/track/0K0HXYXl26keaIiVH8dPI1) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Lee Seung Chul 35th Anniversary Album Special 'My Love'](https://open.spotify.com/album/3gAshpQbkBHturbpMAB3YL) | 3:47 |
 | 20 | [About You](https://open.spotify.com/track/3Pc9NJtnXnFdhmqcQWXZnF) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [YUMI's Cells 2, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/3g8K5V6U4ZkEC1X7rRZoBo) | 3:15 |
 | 21 | [Thursday Night \(feat.Beenzino\)](https://open.spotify.com/track/6Qm8MRcsr9VlRIGf1AJ1W5) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Thursday Night](https://open.spotify.com/album/7GVvjxihGZSqkUokJhSKtq) | 3:30 |
-| 22 | [She Gonna Stop \(Feat\. Leellamarz\) \(Prod\. TOIL\)](https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [She Gonna Stop](https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN) | 3:29 |
-| 23 | [Cherry Pink](https://open.spotify.com/track/1v1BaddwAdO140TemWG1Yy) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Cherry Pink](https://open.spotify.com/album/7y70AqYlhTBHeeUucSv8WX) | 3:17 |
+| 22 | [Cherry Pink](https://open.spotify.com/track/1v1BaddwAdO140TemWG1Yy) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Cherry Pink](https://open.spotify.com/album/7y70AqYlhTBHeeUucSv8WX) | 3:17 |
+| 23 | [She Gonna Stop \(Feat\. Leellamarz\) \(Prod\. TOIL\)](https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [She Gonna Stop](https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN) | 3:29 |
 | 24 | [When the door opens](https://open.spotify.com/track/1P0B7bgi2NfSoAM5awO1r0) | [JT&MARCUS](https://open.spotify.com/artist/20XGi1IKkqt4emnpwQjVjH) | [When the door opens \(From "Going to You at a Speed of 493km" \[Original Soundtrack\]\), Pt.5](https://open.spotify.com/album/5FcTAparH1cY84LvR03Pg1) | 3:27 |
 | 25 | [Shooting Star](https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Omnibus, Pt\. 2: Inside Out](https://open.spotify.com/album/5JxvBJJnSkZt5RXWITnO9A) | 3:52 |
 | 26 | [The Melody](https://open.spotify.com/track/5FqgslYHEkv51KtapyWsBZ) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Melody](https://open.spotify.com/album/749XA133WWzUmG03OCSqFn) | 3:11 |
@@ -44,14 +44,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 | 34 | [Color It](https://open.spotify.com/track/5kFDEZPQLyyt7bvaiqPyRc) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Color It](https://open.spotify.com/album/5b4eIlmtGlTHfY6yPTjD75) | 3:19 |
 | 35 | [System Error](https://open.spotify.com/track/3ugIDVprXVn0yoIeHjIgNm) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [System Error](https://open.spotify.com/album/1CszyO6eUiSOXJgQRwl8cf) | 3:22 |
 | 36 | [Today's Mood](https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL) | 3:45 |
-| 37 | [At Night](https://open.spotify.com/track/4BiLpvhNDqeRPo065ZMCqB) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Crash Course in Romance OST Part 4](https://open.spotify.com/album/460aXMPaEyerh9lPpwsxCn) | 2:52 |
-| 38 | [A Day For Me](https://open.spotify.com/track/5bbGJRlU89huFWFR3GE42e) | [Shinae An](https://open.spotify.com/artist/5lt17V0z9fzfwRDFCZVWIQ) | [Doctor Cha \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/3CGiV1dCJ0v7p2urd4vAuU) | 2:28 |
+| 37 | [A Day For Me](https://open.spotify.com/track/5bbGJRlU89huFWFR3GE42e) | [Shinae An](https://open.spotify.com/artist/5lt17V0z9fzfwRDFCZVWIQ) | [Doctor Cha \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/3CGiV1dCJ0v7p2urd4vAuU) | 2:28 |
+| 38 | [At Night](https://open.spotify.com/track/4BiLpvhNDqeRPo065ZMCqB) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Crash Course in Romance OST Part 4](https://open.spotify.com/album/460aXMPaEyerh9lPpwsxCn) | 2:52 |
 | 39 | [Girls](https://open.spotify.com/track/0jRA23cPBShrFIXPGfegQC) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Seoul Check\-in OST Part 1](https://open.spotify.com/album/1lQLjWafvbyoQ9XUmAZI2L) | 4:36 |
 | 40 | [DREAMLIKE](https://open.spotify.com/track/4mBSGhDX6mvp96LJbJpmnq) | [PL](https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP) | [DREAMLIKE](https://open.spotify.com/album/2Dlvu7PCAzAHwIswgD6soZ) | 3:35 |
 | 41 | [be like YOU](https://open.spotify.com/track/2OpFlqsiJHetPoNMWpHJhE) | [JUNGSOOMIN](https://open.spotify.com/artist/5e907QyP66bLqY6UiT2sXc) | [be like YOU](https://open.spotify.com/album/4DvrkrGMiV3rl5GaoskeG8) | 2:34 |
 | 42 | [Take it To the Grave](https://open.spotify.com/track/3xq5Xe4iYlYypb2YUUTJwx) | [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Take it To the Grave](https://open.spotify.com/album/0AQw1etI1NpTj2kSCbEY8A) | 3:26 |
-| 43 | [Violet](https://open.spotify.com/track/7yvfL6YPEj91CxZZlQTk4z) | [J.Fla](https://open.spotify.com/artist/2GbvMs4GBhcjd9d4N9sGUV) | [Colours: The First](https://open.spotify.com/album/1F51jRZBetMoziSlIaj2Xa) | 1:48 |
-| 44 | [flowerain](https://open.spotify.com/track/1p0cy7P5OdzZtVJOzhjfSF) | [Yunsae](https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt) | [flowerain](https://open.spotify.com/album/00h8cmaMZFSyKkPAJ4uvTJ) | 2:57 |
+| 43 | [flowerain](https://open.spotify.com/track/1p0cy7P5OdzZtVJOzhjfSF) | [Yunsae](https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt) | [flowerain](https://open.spotify.com/album/00h8cmaMZFSyKkPAJ4uvTJ) | 2:57 |
+| 44 | [Violet](https://open.spotify.com/track/7yvfL6YPEj91CxZZlQTk4z) | [J.Fla](https://open.spotify.com/artist/2GbvMs4GBhcjd9d4N9sGUV) | [Colours: The First](https://open.spotify.com/album/1F51jRZBetMoziSlIaj2Xa) | 1:48 |
 | 45 | [TALK2ME! \(feat\. pH\-1\)](https://open.spotify.com/track/6tCVRuYVGG6L5tjeOcxaqR) | [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [KHAMAI](https://open.spotify.com/album/0vnfG9S9NskFX5FPP1SxHR) | 3:25 |
 | 46 | [WE NEED LOVE](https://open.spotify.com/track/1WJtCrPY9tA5QSbBqwBmUU) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:15 |
 | 47 | [Playlist](https://open.spotify.com/track/04NgqZ5Wq2BDq4iMJlUyC5) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [Playlist](https://open.spotify.com/album/2nuDgXGMLk7qQYwnuh6Jsu) | 2:46 |

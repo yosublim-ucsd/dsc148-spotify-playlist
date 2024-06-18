@@ -4,7 +4,7 @@
 
 > ✨❤️🌹Para Rocanlovers
 
-228 songs - 13 hr 56 min
+230 songs - 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Califórnica](https://open.spotify.com/track/50gjhPjZCyQpya1Bcq2BNe) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [Monarca](https://open.spotify.com/album/2Y2jwkzcM6CszpX1FEghEw) | 3:30 | 2022-04-26 | 2023-07-01 |
 | [Carta de Amor](https://open.spotify.com/track/6Mn0TEs0e0EVOD6tzwlada) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Carta de Amor](https://open.spotify.com/album/3vvkKLrUnow3o3O3VbRiUF) | 2:56 | 2023-11-22 |  |
 | [Cerca](https://open.spotify.com/track/2qZ146aMtXEx3mQ4qLijol) | [Silver Rose](https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP) | [Cerca](https://open.spotify.com/album/7H9c1oaTs6DRLoRM1SR3it) | 4:43 | 2023-02-10 | 2024-03-05 |
+| [Como Queremos](https://open.spotify.com/track/0Zcd8XxgKeRNQAUIpsHr7c) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Miel de Azar](https://open.spotify.com/album/1qpILF6cHlPJzUOvZfdIma) | 3:12 | 2024-06-17 |  |
 | [Como Quiero Que Me Quieras](https://open.spotify.com/track/71NIlviM9agiffcoqAVKE1) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [Como Quiero Que Me Quieras](https://open.spotify.com/album/3xTH9gNXwR0KJgkEKEP7Si) | 3:54 | 2022-08-13 | 2023-02-18 |
 | [Como Tú](https://open.spotify.com/track/7BuDf00x8RNcMTlNaxE70f) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [ECOS](https://open.spotify.com/album/49Qd6nYCgc2ra4E3TJHEty) | 3:13 | 2022-07-01 | 2023-09-02 |
 | [Como Un Sol](https://open.spotify.com/track/3TDJAqSeDZheVTrPU7Ruui) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 4:17 | 2022-04-26 |  |
@@ -71,7 +72,7 @@
 | [Discomanía](https://open.spotify.com/track/3UXcPbwfPgYQjr7tH72p0Q) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Discomanía](https://open.spotify.com/album/24sgoyMdfp46v2N1gYcN2K) | 3:08 | 2023-07-21 | 2023-09-02 |
 | [Dos Amantes](https://open.spotify.com/track/66lOJXZVLAIBFogLrXM4Z6) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk) | [Dos Amantes](https://open.spotify.com/album/58yZYSZWbW5RP5xMZTqsgM) | 4:10 | 2022-01-28 | 2023-11-23 |
 | [EL FINAL](https://open.spotify.com/track/2v0HNNJ3mijsvzOgHq8EHO) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [EL FINAL](https://open.spotify.com/album/6InT8SPpU1AIUXcQsbMZ00) | 3:52 | 2023-05-19 | 2024-05-14 |
-| [El grito](https://open.spotify.com/track/1dQuJZVVlSTiFmiKveWNc8) | [Mikel Izal](https://open.spotify.com/artist/4H3BAAfpEcLHQkaQKfvoW8) | [El grito](https://open.spotify.com/album/4X7CJxDX5KU5taf312VW4U) | 4:40 | 2023-09-22 |  |
+| [El grito](https://open.spotify.com/track/1dQuJZVVlSTiFmiKveWNc8) | [Mikel Izal](https://open.spotify.com/artist/4H3BAAfpEcLHQkaQKfvoW8) | [El grito](https://open.spotify.com/album/4X7CJxDX5KU5taf312VW4U) | 4:40 | 2023-09-22 | 2024-06-18 |
 | [El Principal](https://open.spotify.com/track/38zXJ37YwjF6X6K5yP6640) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [El Principal](https://open.spotify.com/album/203WYe8y0NrDe7bBNGO28v) | 3:30 | 2023-05-05 |  |
 | [El Ruido](https://open.spotify.com/track/6YJLHnSvofGO8vvKC8Bps0) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [El Ruido](https://open.spotify.com/album/0P4JYnPhEPPdSmFq1jxObl) | 2:57 | 2022-07-01 | 2023-07-01 |
 | [El Sonido De Tu Voz](https://open.spotify.com/track/76JCWoDhnbdd4gA36NqxLN) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Lindas Mañanas](https://open.spotify.com/album/23ibdDZsfvGujFlsvB8wnV) | 2:50 | 2022-01-28 | 2022-11-13 |
@@ -122,7 +123,7 @@
 | [Insatisfecho](https://open.spotify.com/track/12bpuwhO89NZuKgcWAM7tN) | [PJAMA](https://open.spotify.com/artist/6rEnCeFGwNGiOuBhjOPMVH) | [Insatisfecho](https://open.spotify.com/album/67677bOS0mEinGuIto707S) | 3:07 | 2022-01-28 | 2023-07-01 |
 | [Invierno](https://open.spotify.com/track/7Lt1pDskyOACrikOmHGz98) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Cometa](https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww) | 4:16 | 2022-11-24 | 2023-12-23 |
 | [Irresponsables](https://open.spotify.com/track/0dsViRiDTIuexAL42Nc1Kh) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Infame](https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn) | 2:36 | 2022-01-28 |  |
-| [La Llamada](https://open.spotify.com/track/7LDc6HR0Z2wvcPmlH3zvAG) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [La Llamada](https://open.spotify.com/album/7HKAzGH5Lo7v2WYRIAuZDt) | 4:09 | 2023-10-23 |  |
+| [La Llamada](https://open.spotify.com/track/7LDc6HR0Z2wvcPmlH3zvAG) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [La Llamada](https://open.spotify.com/album/7HKAzGH5Lo7v2WYRIAuZDt) | 4:09 | 2023-10-23 | 2024-06-18 |
 | [La Magia](https://open.spotify.com/track/3XJmD5suzFUBHJ7sizBAiy) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 4:05 | 2022-01-28 | 2024-04-19 |
 | [La Magia](https://open.spotify.com/track/6Z8JXcW9fQuNRXznoBMfgp) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/7F82fBlo73zEKEauNfNQLP) | 4:05 | 2022-01-28 |  |
 | [lagunas](https://open.spotify.com/track/4lB3bD59ItctK9ii4Thy3y) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [lagunas](https://open.spotify.com/album/1pCNxr8UOeAaWuJ67ZFsfx) | 3:39 | 2023-12-22 |  |
@@ -145,6 +146,7 @@
 | [MEDIA NOCHE](https://open.spotify.com/track/5jCWAarxFiYUE0DjCsAnWn) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [HÍPER](https://open.spotify.com/album/3qEvUejyOisLMmhsR7JwxL) | 3:28 | 2023-09-22 |  |
 | [Medio Oriente](https://open.spotify.com/track/2c4bKlj1FMGd9Ftv8yxtX4) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Medio Oriente](https://open.spotify.com/album/2oI2xY2YwCMcp6yYdzGUIb) | 3:09 | 2022-01-28 | 2023-07-01 |
 | [MELANCOLÍA](https://open.spotify.com/track/5spLk611BNLAjZF4YHhn2r) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [MELANCOLÍA](https://open.spotify.com/album/59hsT0IGncAPHWmuhoDetX) | 4:22 | 2023-06-23 | 2023-07-21 |
+| [Mi + 1](https://open.spotify.com/track/7vr6sOiAkiDVteYSmg5FNU) | [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM), [Sofia Ellar](https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR) | [Mi + 1](https://open.spotify.com/album/6zNItkFIgiGd0ZK35jt6fM) | 2:46 | 2024-06-17 |  |
 | [Miel](https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Miel](https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q) | 3:37 | 2023-06-02 |  |
 | [Monitor](https://open.spotify.com/track/7on4qNO1Iu5EX61mD80Cgv) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Monitor](https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB) | 3:57 | 2022-01-28 |  |
 | [Morrita Azul](https://open.spotify.com/track/5ugkK2FaDZNOT2qT6G1wyW) | [Lengua de Mapa](https://open.spotify.com/artist/0IdsdNuZXciBVnTTNjJS3A) | [Morrita Azul](https://open.spotify.com/album/6v9VzXOcsqq4ZfCe593lYs) | 3:57 | 2024-02-23 |  |

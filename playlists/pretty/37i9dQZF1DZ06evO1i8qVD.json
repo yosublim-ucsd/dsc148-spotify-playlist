@@ -1,12 +1,12 @@
 {
   "description": "This is Buddy Guy. The essential tracks, all in one playlist.",
-  "num_followers": 33279,
+  "num_followers": 33283,
   "original_name": "This Is Buddy Guy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmzZgAAAAABlIgjgroEPWSlUDSEpAaMr",
+  "snapshot_id": "Zm4rAAAAAACA5AWOIuw55P85ftwuY7lK",
   "tracks": [
     {
       "added_at": null,
@@ -547,26 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buddy Guy & Junior Wells Play The Blues",
-        "url": "https://open.spotify.com/album/1GGe9Rkv0Yby4ZiEc54pLu"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        }
-      ],
-      "duration_ms": 135546,
-      "name": "Messin' with the Kid",
-      "url": "https://open.spotify.com/track/6VkaGRe98A6x7S5dGmxd30"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rhythm & Blues",
         "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 224280,
       "name": "One Day Away (feat. Keith Urban)",
       "url": "https://open.spotify.com/track/15e3leRc1c26oStnjjiex6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heavy Love",
+        "url": "https://open.spotify.com/album/5ihjiZb9879Hd3MjOBaxRu"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Jonny Lang",
+          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
+        }
+      ],
+      "duration_ms": 320640,
+      "name": "Midnight Train (feat. Jonny Lang)",
+      "url": "https://open.spotify.com/track/3zhWfTjCmrfcYTZy7C4OaD"
     },
     {
       "added_at": null,
@@ -623,26 +623,6 @@
       "duration_ms": 210333,
       "name": "Wear You Out (feat. Billy Gibbons)",
       "url": "https://open.spotify.com/track/41DyUcEAiyVtNCrWElC32R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heavy Love",
-        "url": "https://open.spotify.com/album/5ihjiZb9879Hd3MjOBaxRu"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Jonny Lang",
-          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
-        }
-      ],
-      "duration_ms": 320640,
-      "name": "Midnight Train (feat. Jonny Lang)",
-      "url": "https://open.spotify.com/track/3zhWfTjCmrfcYTZy7C4OaD"
     },
     {
       "added_at": null,
@@ -747,28 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Real Gone",
-        "url": "https://open.spotify.com/album/5Y3BKzJMHKfPlGb24weYXe"
-      },
-      "artists": [
-        {
-          "name": "Ally Venable",
-          "url": "https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM"
-        },
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 175530,
-      "name": "Texas Louisiana (feat. Buddy Guy)",
-      "url": "https://open.spotify.com/track/3Wed8ynhMSTPj9ErweJIVl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DJ Play My Blues",
-        "url": "https://open.spotify.com/album/0wN1Cv8D4Ht38g8TMx7psy"
+        "name": "Rhythm & Blues",
+        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
       },
       "artists": [
         {
@@ -776,9 +736,9 @@
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 282493,
-      "name": "Just Teasin'",
-      "url": "https://open.spotify.com/track/7qR9FrZIWNzOMkfzjINkiH"
+      "duration_ms": 255600,
+      "name": "I Go By Feel",
+      "url": "https://open.spotify.com/track/599KFVKTx45bNXIYhdVCxn"
     },
     {
       "added_at": null,
@@ -799,18 +759,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rhythm & Blues",
-        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
+        "name": "Real Gone",
+        "url": "https://open.spotify.com/album/5Y3BKzJMHKfPlGb24weYXe"
       },
       "artists": [
+        {
+          "name": "Ally Venable",
+          "url": "https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM"
+        },
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 255600,
-      "name": "I Go By Feel",
-      "url": "https://open.spotify.com/track/599KFVKTx45bNXIYhdVCxn"
+      "duration_ms": 175530,
+      "name": "Texas Louisiana (feat. Buddy Guy)",
+      "url": "https://open.spotify.com/track/3Wed8ynhMSTPj9ErweJIVl"
     },
     {
       "added_at": null,
@@ -855,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Can't Quit The Blues",
+        "url": "https://open.spotify.com/album/5CIK2RIt6REWTwC7p44yst"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 384280,
+      "name": "Miss Ida B",
+      "url": "https://open.spotify.com/track/0BX4XzYSTD4HBz2BzcQ8Iu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Blues Don't Lie",
         "url": "https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp"
       },
@@ -875,8 +855,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't Quit The Blues",
-        "url": "https://open.spotify.com/album/5CIK2RIt6REWTwC7p44yst"
+        "name": "Rhythm & Blues",
+        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
       },
       "artists": [
         {
@@ -884,9 +864,9 @@
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 384280,
-      "name": "Miss Ida B",
-      "url": "https://open.spotify.com/track/0BX4XzYSTD4HBz2BzcQ8Iu"
+      "duration_ms": 225666,
+      "name": "Meet Me in Chicago",
+      "url": "https://open.spotify.com/track/35sEYu9d2rT5BPLiOiMYob"
     },
     {
       "added_at": null,
@@ -903,22 +883,6 @@
       "duration_ms": 139626,
       "name": "I Got My Eyes On You",
       "url": "https://open.spotify.com/track/5Hm4G8TmOoaVdNWA7okYvn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rhythm & Blues",
-        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 225666,
-      "name": "Meet Me in Chicago",
-      "url": "https://open.spotify.com/track/35sEYu9d2rT5BPLiOiMYob"
     },
     {
       "added_at": null,
@@ -955,6 +919,42 @@
       "duration_ms": 300373,
       "name": "Stay Around A Little Longer (feat. B.B. King)",
       "url": "https://open.spotify.com/track/48z2rCxqFdlMejXthnbCkX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feels Like Rain",
+        "url": "https://open.spotify.com/album/2GXqcjyaSAMRnmFuvHM2Bd"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 191333,
+      "name": "Mary Ann",
+      "url": "https://open.spotify.com/track/6aENAvyxfR6LU8KPg5jnUV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bring 'Em In",
+        "url": "https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Carlos Santana",
+          "url": "https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ"
+        }
+      ],
+      "duration_ms": 244373,
+      "name": "I Put a Spell On You (feat. Carlos Santana)",
+      "url": "https://open.spotify.com/track/3e1vsLS7W9LNOofXgGccH3"
     }
   ],
   "unique_name": "This Is Buddy Guy",

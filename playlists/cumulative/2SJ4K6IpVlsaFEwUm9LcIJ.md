@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: may\-june 2024 \(previous playlists archived on my profile\)
 
-194 songs - 9 hr 56 min
+196 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Slow](https://open.spotify.com/track/2r8qfNBFEXlYrIpF0m31un) | [Florence Sinclair](https://open.spotify.com/artist/1zIrnPKywoksAoyOuTDL2W) | [It's a big man ting](https://open.spotify.com/album/2NIMo3HrBwvtkIHsTmluZa) | 1:55 | 2024-04-01 | 2024-05-16 |
 | [Snake Eyes \(again\)](https://open.spotify.com/track/1Hkx2RQA79iG4jiip6bE3N) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Gates of Heaven / Snake Eyes \(again\)](https://open.spotify.com/album/6Ek7TQ6Halv6mbhuzRuvcZ) | 3:00 | 2024-03-13 | 2024-05-16 |
 | [Song For My Sister's Son](https://open.spotify.com/track/5N95j02ERsrcueKLaOu465) | [Okonski](https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5) | [Magnolia](https://open.spotify.com/album/6ttutrbx6EDudIvUhyfWpf) | 4:40 | 2024-01-05 | 2024-03-10 |
+| [Space and Time](https://open.spotify.com/track/7IZXUoILTWAX5LRRkogRG2) | [Emma Russack](https://open.spotify.com/artist/1Uk2WvbKqPrA19SbAO9miy) | [Space and Time](https://open.spotify.com/album/1Ygk2W8N1jbTdkcSy8UDgP) | 2:36 | 2024-06-17 |  |
 | [Spirits](https://open.spotify.com/track/5ypoadj8L1UdREY4rS9JbK) | [NINA](https://open.spotify.com/artist/53O83dY0rBGmnM4gV7Sqyr) | [Classics](https://open.spotify.com/album/2xwtG3ZLBMMuk1gd1d6Wa3) | 1:55 | 2024-01-05 | 2024-03-10 |
 | [Spoon](https://open.spotify.com/track/4yGEFWe0tZzYGkNtJRg9bf) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Ege Bamyasi \(Remastered\)](https://open.spotify.com/album/6Seo9dju2EMVYkUVUDlkXw) | 3:04 | 2024-01-05 | 2024-03-10 |
 | [Star](https://open.spotify.com/track/5ijSUALHfNot7KSafyLI4E) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:59 | 2024-03-09 | 2024-05-16 |
@@ -178,6 +179,7 @@
 | [Sunny](https://open.spotify.com/track/7LQDZxNGroDz0eg0Vyb2av) | [Blue Bendy](https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG) | [So Medieval](https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C) | 1:46 | 2024-05-16 |  |
 | [Tape 27 Track 5](https://open.spotify.com/track/4yDWhQvxgjHElaMgdELmZx) | [Ahmed Malek](https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB), [Natureboy Flako](https://open.spotify.com/artist/41gy1E3ZlSK5KOjiDiqgmH) | [The Electronic Tapes \(Habibi Funk 005\)](https://open.spotify.com/album/7x2uLqFMqaviXJ3sf4E01J) | 1:38 | 2024-01-08 | 2024-03-10 |
 | [Target](https://open.spotify.com/track/0pC0qIpSTvptjrCSg0p9Gq) | [Rui Gabriel](https://open.spotify.com/artist/1LhAwMWCGYmplvmnZmvoDz), [Kate Teague](https://open.spotify.com/artist/5yNcIZz69fYkSRhiGoFx8T) | [Target](https://open.spotify.com/album/3ZbLs2qH6lDnDbEnNmsYYv) | 4:59 | 2024-02-23 | 2024-03-10 |
+| [Tbtf](https://open.spotify.com/track/7Dha5Jw4EVQbFHe58pJ5AU) | [Kevin Drew](https://open.spotify.com/artist/64RGS9OBGsUWkopEtO5Cz7) | [Spirit If...](https://open.spotify.com/album/0MtuWHjHXAEwWimsMuEtZf) | 3:51 | 2024-06-17 |  |
 | [Tea Or Coffee](https://open.spotify.com/track/4ZISwlHvOnn5zg9kHZmM7o) | [Gaze](https://open.spotify.com/artist/7nRXUCPuFbA0y7dGZ06Jlq) | [Shake the Pounce](https://open.spotify.com/album/3eMTYeAfSefi2vy5TTbB4Q) | 2:11 | 2024-05-29 | 2024-06-06 |
 | [The Beat Of Black Wings](https://open.spotify.com/track/2DyQKUqKUpOFV3Fs3ijW9Q) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Chalk Mark In A Rain Storm](https://open.spotify.com/album/2qVwLFYnUbFT8kbl27uZ1J) | 5:24 | 2024-03-25 | 2024-04-25 |
 | [The Duke Of Burgundy](https://open.spotify.com/track/5FCJpFKaJrPrXy8YyK9vBG) | [Cat's Eyes](https://open.spotify.com/artist/6DdzNsmghFtH7toJKhQfF6) | [The Duke Of Burgundy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3L2QXOFpMeZaU2xxJXZPur) | 2:18 | 2024-05-16 |  |

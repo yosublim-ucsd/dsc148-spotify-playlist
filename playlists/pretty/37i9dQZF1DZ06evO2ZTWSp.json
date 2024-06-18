@@ -1,12 +1,12 @@
 {
-  "description": "This is Lizzo. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 490130,
+  "description": "This is Lizzo. The essential tracks, all in one playlist.",
+  "num_followers": 490115,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmzZgAAAAAAtgBlIuuIvFNV+01aYT58y",
+  "snapshot_id": "Zm4rAAAAAADgc2UHVvPiZkx1MObmTF+x",
   "tracks": [
     {
       "added_at": null,
@@ -79,22 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuz I Love You (Super Deluxe)",
-        "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 159735,
-      "name": "Good as Hell",
-      "url": "https://open.spotify.com/track/6KgBpzTuTRPebChN0VTyzV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "About Damn Time",
         "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
       },
@@ -127,6 +111,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cuz I Love You (Super Deluxe)",
+        "url": "https://open.spotify.com/album/2KJjOBX280F3hZZE1xO33O"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 173325,
+      "name": "Truth Hurts",
+      "url": "https://open.spotify.com/track/3HWzoMvoF3TQfYg4UPszDq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "About Damn Time (Purple Disco Machine Remix)",
         "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
       },
@@ -143,26 +143,6 @@
       "duration_ms": 218476,
       "name": "About Damn Time - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cuz I Love You (Super Deluxe)",
-        "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 159011,
-      "name": "Good as Hell (feat. Ariana Grande)",
-      "url": "https://open.spotify.com/track/2rjjNUYONZqC7wSd1i6OFq"
     },
     {
       "added_at": null,
@@ -203,6 +183,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cuz I Love You (Super Deluxe)",
+        "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 159011,
+      "name": "Good as Hell (feat. Ariana Grande)",
+      "url": "https://open.spotify.com/track/2rjjNUYONZqC7wSd1i6OFq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
+        "url": "https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
+      "url": "https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cuz I Love You",
         "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
       },
@@ -223,6 +243,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 121112,
+      "name": "Grrrls",
+      "url": "https://open.spotify.com/track/1iV2uSjP8BfHTXVLblBOxI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cuz I Love You (Super Deluxe)",
         "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
       },
@@ -235,22 +271,6 @@
       "duration_ms": 172630,
       "name": "Boys",
       "url": "https://open.spotify.com/track/1du4tPkvJfCIuVL6WMtqSs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 165689,
-      "name": "The Sign",
-      "url": "https://open.spotify.com/track/7GSwmKxanoWEdpurOCldDe"
     },
     {
       "added_at": null,
@@ -287,6 +307,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blame It on Your Love",
+        "url": "https://open.spotify.com/album/7taiT9oVLbid3rJ7KwM9jf"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 191113,
+      "name": "Blame It on Your Love (feat. Lizzo)",
+      "url": "https://open.spotify.com/track/1MfuskV4ODUp14C2dnyPgW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cuz I Love You (Super Deluxe)",
         "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
       },
@@ -312,25 +352,9 @@
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 148490,
-      "name": "I Love You Bitch",
-      "url": "https://open.spotify.com/track/3WjCwQWPM8ggvyEwUPFBZ5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stayin' Alive (from Happy Death Day 2U)",
-        "url": "https://open.spotify.com/album/272z7QfS5G7vsodGkl5ZmL"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 197428,
-      "name": "Stayin' Alive (from Happy Death Day 2U)",
-      "url": "https://open.spotify.com/track/2tZWKgDClGMoxqiU5FxYI0"
+      "duration_ms": 215799,
+      "name": "Everybody\u2019s Gay",
+      "url": "https://open.spotify.com/track/5uhaFPXTIG06S9Hb2c5tsT"
     },
     {
       "added_at": null,
@@ -351,8 +375,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuz I Love You (Super Deluxe)",
-        "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
+        "name": "Stayin' Alive (from Happy Death Day 2U)",
+        "url": "https://open.spotify.com/album/272z7QfS5G7vsodGkl5ZmL"
       },
       "artists": [
         {
@@ -360,25 +384,9 @@
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 133058,
-      "name": "Better in Color",
-      "url": "https://open.spotify.com/track/0bt3YJTupDqdTKpnFFgs7f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 215799,
-      "name": "Everybody\u2019s Gay",
-      "url": "https://open.spotify.com/track/5uhaFPXTIG06S9Hb2c5tsT"
+      "duration_ms": 197428,
+      "name": "Stayin' Alive (from Happy Death Day 2U)",
+      "url": "https://open.spotify.com/track/2tZWKgDClGMoxqiU5FxYI0"
     },
     {
       "added_at": null,
@@ -403,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuz I Love You",
-        "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 175234,
-      "name": "Soulmate",
-      "url": "https://open.spotify.com/track/6h2wpo2pshM8QnAvRySEO0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pink Panther",
         "url": "https://open.spotify.com/album/3LqJO6tvTMpEfXKciCTcSV"
       },
@@ -439,6 +431,26 @@
       "duration_ms": 159715,
       "name": "Pink Panther",
       "url": "https://open.spotify.com/track/0dFShT2MD9OMNyQBUCeJCV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuz I Love You",
+        "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "duration_ms": 143190,
+      "name": "Exactly How I Feel (feat. Gucci Mane)",
+      "url": "https://open.spotify.com/track/7BZtzkbV48eu0sGKhHP7R9"
     },
     {
       "added_at": null,
@@ -495,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phone",
-        "url": "https://open.spotify.com/album/2MiUqzCCfWD0hLJvQXfBG2"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 169042,
-      "name": "Phone",
-      "url": "https://open.spotify.com/track/61yntOSHzW2kTeEsLhOH9c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuz I Love You",
         "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
       },
@@ -523,6 +519,26 @@
       "duration_ms": 231570,
       "name": "Jerome",
       "url": "https://open.spotify.com/track/3kxsEF30mM0TZWfkOv4XsS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spotify Sessions (Live at SXSW 2014)",
+        "url": "https://open.spotify.com/album/36YdveJJhT49E0blTQODsS"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        },
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 316510,
+      "name": "A Change Is Gonna Come (feat. Lizzo) - Live at SXSW 2013",
+      "url": "https://open.spotify.com/track/2z6qRBkf6jjWUuzLA9CXO0"
     },
     {
       "added_at": null,
@@ -552,29 +568,9 @@
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 175497,
-      "name": "Coldplay",
-      "url": "https://open.spotify.com/track/2GpCh34HpurCeyeHvSe8To"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spotify Sessions (Live at SXSW 2014)",
-        "url": "https://open.spotify.com/album/36YdveJJhT49E0blTQODsS"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        },
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 316510,
-      "name": "A Change Is Gonna Come (feat. Lizzo) - Live at SXSW 2013",
-      "url": "https://open.spotify.com/track/2z6qRBkf6jjWUuzLA9CXO0"
+      "duration_ms": 191659,
+      "name": "If You Love Me",
+      "url": "https://open.spotify.com/track/52GgzMLY2W5VKqxO7nkQAN"
     },
     {
       "added_at": null,
@@ -599,6 +595,26 @@
       "duration_ms": 61796,
       "name": "Torn Apart, Pt II (Bastille Vs. GRADES Vs. Lizzo)",
       "url": "https://open.spotify.com/track/6Gy30w4ebJg02BjLdULdNm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Truth Hurts (DaBaby Remix)",
+        "url": "https://open.spotify.com/album/5Z1L2QX1aTvFy3a6lmmHlE"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 197610,
+      "name": "Truth Hurts (DaBaby Remix)",
+      "url": "https://open.spotify.com/track/01jBJGEa9Ex9W2IjkIzuY6"
     },
     {
       "added_at": null,
@@ -679,22 +695,6 @@
       "duration_ms": 425859,
       "name": "Boiled Peanuts",
       "url": "https://open.spotify.com/track/1810boVAzbaxqBzAwXp2ZM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coconut Oil",
-        "url": "https://open.spotify.com/album/5RVuRq4HKlj8LkapG1Tcrv"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 194751,
-      "name": "Deep",
-      "url": "https://open.spotify.com/track/7G4zqUWXpbRDc5ian2oos8"
     },
     {
       "added_at": null,
@@ -947,6 +947,38 @@
       "duration_ms": 236467,
       "name": "Ain't I",
       "url": "https://open.spotify.com/track/0uaeowtteE1XHrrC79oTfT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lizzobangers",
+        "url": "https://open.spotify.com/album/79Dum9lX5ARC0FbqlWFi1v"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 133313,
+      "name": "Be Still",
+      "url": "https://open.spotify.com/track/3OEehKLb1fptEU0zkyNrUe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big GRRRL Small World",
+        "url": "https://open.spotify.com/album/40T5m4a19xUgVyWQaYrVRb"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 179558,
+      "name": "The Fade",
+      "url": "https://open.spotify.com/track/2InsYVVlqME5FHbOAEddOJ"
     }
   ],
   "unique_name": "This Is Lizzo",

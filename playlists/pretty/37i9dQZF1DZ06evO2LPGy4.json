@@ -1,12 +1,12 @@
 {
   "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
-  "num_followers": 426694,
+  "num_followers": 426791,
   "original_name": "This Is Gerardo Ortiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmzZgAAAAAAtKhTIm1qqVBg+jaBMgACt",
+  "snapshot_id": "Zm4rAAAAAAC0rM+N1ttEzy/0DwksnU3o",
   "tracks": [
     {
       "added_at": null,
@@ -283,18 +283,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre Dios y El Diablo (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
+        "name": "Pasado Pisado (En Vivo)",
+        "url": "https://open.spotify.com/album/3LQdXD28CDOMZsera2xIhw"
       },
       "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
         {
           "name": "Gerardo Ortiz",
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 181986,
-      "name": "Amor Confuso",
-      "url": "https://open.spotify.com/track/4DylHCW46VE8AmQiW1EjUZ"
+      "duration_ms": 156597,
+      "name": "Pasado Pisado (En Vivo)",
+      "url": "https://open.spotify.com/track/60JPfps8dyCRG9s5sKM0Xm"
     },
     {
       "added_at": null,
@@ -315,22 +319,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pasado Pisado (En Vivo)",
-        "url": "https://open.spotify.com/album/3LQdXD28CDOMZsera2xIhw"
+        "name": "Entre Dios y El Diablo (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
       },
       "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
         {
           "name": "Gerardo Ortiz",
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 156597,
-      "name": "Pasado Pisado (En Vivo)",
-      "url": "https://open.spotify.com/track/60JPfps8dyCRG9s5sKM0Xm"
+      "duration_ms": 181986,
+      "name": "Amor Confuso",
+      "url": "https://open.spotify.com/track/4DylHCW46VE8AmQiW1EjUZ"
     },
     {
       "added_at": null,
@@ -459,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Comer\u00e9 Callado, Vol. 1",
+        "url": "https://open.spotify.com/album/4IeW4TAoqfbRYzQNAKxk91"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 180693,
+      "name": "Palma Salazar",
+      "url": "https://open.spotify.com/track/4UhPBzZ2yHMsedsRxfH40T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Al Frente y de Frente",
         "url": "https://open.spotify.com/album/3HBCUAU5pi2fQVk9K0zj3c"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 150880,
       "name": "El Comando del Diablo",
       "url": "https://open.spotify.com/track/3WW63E8a8JLIAHMiatELLb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Comer\u00e9 Callado, Vol. 1",
-        "url": "https://open.spotify.com/album/4IeW4TAoqfbRYzQNAKxk91"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 180693,
-      "name": "Palma Salazar",
-      "url": "https://open.spotify.com/track/4UhPBzZ2yHMsedsRxfH40T"
     },
     {
       "added_at": null,
@@ -531,26 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FIVE (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 186773,
-      "name": "Moneda (feat. Gerardo Ortiz)",
-      "url": "https://open.spotify.com/track/6zR3aAwQ7cn2U7F1sBtdj1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Asi Es la Vida",
         "url": "https://open.spotify.com/album/3XLeRZusHt9brXcWTNslHO"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 126120,
       "name": "A La Moda",
       "url": "https://open.spotify.com/track/4qap3khBojdW5RkU9FouIV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FIVE (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 186773,
+      "name": "Moneda (feat. Gerardo Ortiz)",
+      "url": "https://open.spotify.com/track/6zR3aAwQ7cn2U7F1sBtdj1"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Primer Ministro",
+        "url": "https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 114120,
+      "name": "El Primer Ministro",
+      "url": "https://open.spotify.com/track/33fgAYNJAmbNoT76SLiOL1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pura Manzanita Vol. 3",
         "url": "https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 165760,
       "name": "Area 81",
       "url": "https://open.spotify.com/track/3XlsdR2Fna6QHyDTfgSqZq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Primer Ministro",
-        "url": "https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 114120,
-      "name": "El Primer Ministro",
-      "url": "https://open.spotify.com/track/33fgAYNJAmbNoT76SLiOL1"
     },
     {
       "added_at": null,

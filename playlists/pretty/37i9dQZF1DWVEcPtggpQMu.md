@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 ### [Mzansi Raps](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
-> Celebrating the future of South Africa through music\. Happy Youth Day!
+> Only the hottest South African rap from the streets\. <br/>Cover:  <a href="https://open.spotify.com/artist/0NP68X3OIbbv98djUruUKU?si=hm3zArY2RUqP9Xd0KDTkNQ">ZuluMecca</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,386 likes - 59 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,424 likes - 59 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 | 58 | [4am](https://open.spotify.com/track/0a5z5IAC1kssY9gKvBDsW9) | [Loatinover Pounds](https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [4am](https://open.spotify.com/album/12Xqw4xIfcWk6ESdetl9YD) | 3:11 |
 | 59 | [Back Into It](https://open.spotify.com/track/3Kyr9vr7VP2NLc9lBqxQFZ) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Back Into It](https://open.spotify.com/album/2p3kYxinqZYCrQaHWiF4gT) | 2:42 |
 
-Snapshot ID: `Zm7AqAAAAABrBmDsaG1UbcFGxRNUImYU`
+Snapshot ID: `Zm+msAAAAAAQgAv0pIbClq97BKbcjlK8`

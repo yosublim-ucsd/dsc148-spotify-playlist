@@ -1,6 +1,6 @@
 {
   "description": "Musica da ascoltare con un drink in mano. \ud83c\udf79",
-  "num_followers": 246206,
+  "num_followers": 246281,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,26 @@
     {
       "added_at": "2024-06-12 14:27:14",
       "album": {
+        "name": "L.I.F.E",
+        "url": "https://open.spotify.com/album/2lHZPKz3zuSek7PXOYk7r2"
+      },
+      "artists": [
+        {
+          "name": "&ME",
+          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        }
+      ],
+      "duration_ms": 449093,
+      "name": "L.I.F.E",
+      "url": "https://open.spotify.com/track/3BWFWF4G8XySY7b98HjS6K"
+    },
+    {
+      "added_at": "2024-06-12 14:27:14",
+      "album": {
         "name": "Peach",
         "url": "https://open.spotify.com/album/1NR1qk73skJHCcxkXUTRCh"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 187586,
       "name": "The Divine Chord",
       "url": "https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO"
-    },
-    {
-      "added_at": "2024-06-12 14:27:14",
-      "album": {
-        "name": "L.I.F.E",
-        "url": "https://open.spotify.com/album/2lHZPKz3zuSek7PXOYk7r2"
-      },
-      "artists": [
-        {
-          "name": "&ME",
-          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
-        },
-        {
-          "name": "Keinemusik",
-          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
-        }
-      ],
-      "duration_ms": 449093,
-      "name": "L.I.F.E",
-      "url": "https://open.spotify.com/track/3BWFWF4G8XySY7b98HjS6K"
     },
     {
       "added_at": "2024-06-12 14:27:14",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2024-06-12 14:27:14",
       "album": {
-        "name": "Outer Peace",
-        "url": "https://open.spotify.com/album/0QIT60nFvB6oxdntBO8dmQ"
+        "name": "Dance of the Crab",
+        "url": "https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL"
       },
       "artists": [
         {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
         }
       ],
-      "duration_ms": 183752,
-      "name": "Ordinary Pleasure",
-      "url": "https://open.spotify.com/track/6SlYQ2fAKWSfHEHNhH2kgM"
+      "duration_ms": 144479,
+      "name": "Dance of the Crab - Edit",
+      "url": "https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k"
     },
     {
       "added_at": "2024-06-12 14:27:14",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2024-06-12 14:27:14",
       "album": {
-        "name": "Dance of the Crab",
-        "url": "https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL"
+        "name": "Outer Peace",
+        "url": "https://open.spotify.com/album/0QIT60nFvB6oxdntBO8dmQ"
       },
       "artists": [
         {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
         }
       ],
-      "duration_ms": 144479,
-      "name": "Dance of the Crab - Edit",
-      "url": "https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k"
+      "duration_ms": 183752,
+      "name": "Ordinary Pleasure",
+      "url": "https://open.spotify.com/track/6SlYQ2fAKWSfHEHNhH2kgM"
     },
     {
       "added_at": "2024-06-12 14:27:14",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2024-06-12 14:27:14",
       "album": {
-        "name": "Good Life (Remastered)",
-        "url": "https://open.spotify.com/album/5O2HWH0ZfYJl6DAkzU50UK"
-      },
-      "artists": [
-        {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
-        },
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Good Life (Remastered)",
-      "url": "https://open.spotify.com/track/67zr6xdiSAhsuyvL2Dczc1"
-    },
-    {
-      "added_at": "2024-06-12 14:27:14",
-      "album": {
         "name": "All In A Dream",
         "url": "https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 230015,
       "name": "All In A Dream",
       "url": "https://open.spotify.com/track/11SEKnYpFCFRXnUap3Cso2"
+    },
+    {
+      "added_at": "2024-06-12 14:27:14",
+      "album": {
+        "name": "Good Life (Remastered)",
+        "url": "https://open.spotify.com/album/5O2HWH0ZfYJl6DAkzU50UK"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Good Life (Remastered)",
+      "url": "https://open.spotify.com/track/67zr6xdiSAhsuyvL2Dczc1"
     },
     {
       "added_at": "2024-06-12 14:27:14",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-06-12 14:27:14",
       "album": {
-        "name": "Wait on Me EP",
-        "url": "https://open.spotify.com/album/00t0zeNG6lLjFxtrwQSfzc"
-      },
-      "artists": [
-        {
-          "name": "Felipe Gordon",
-          "url": "https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj"
-        }
-      ],
-      "duration_ms": 289208,
-      "name": "The Semimodular Bird of Jazz",
-      "url": "https://open.spotify.com/track/30w0Ow2tuaZL26ep5pEn2M"
-    },
-    {
-      "added_at": "2024-06-12 14:27:14",
-      "album": {
         "name": "JOY (Head To The Sky)",
         "url": "https://open.spotify.com/album/3lmxO2QJCTxkr2ERMZHwFu"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 230650,
       "name": "JOY (Head To The Sky)",
       "url": "https://open.spotify.com/track/1qx0YqBNlRlqJAB4w3PjQo"
+    },
+    {
+      "added_at": "2024-06-12 14:27:14",
+      "album": {
+        "name": "Wait on Me EP",
+        "url": "https://open.spotify.com/album/00t0zeNG6lLjFxtrwQSfzc"
+      },
+      "artists": [
+        {
+          "name": "Felipe Gordon",
+          "url": "https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj"
+        }
+      ],
+      "duration_ms": 289208,
+      "name": "The Semimodular Bird of Jazz",
+      "url": "https://open.spotify.com/track/30w0Ow2tuaZL26ep5pEn2M"
     },
     {
       "added_at": "2024-06-12 14:27:14",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-06-12 14:27:14",
       "album": {
-        "name": "Supply The Love",
-        "url": "https://open.spotify.com/album/7y3keAFTj2vYq3zIqQEBjf"
-      },
-      "artists": [
-        {
-          "name": "SILK",
-          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
-        }
-      ],
-      "duration_ms": 155821,
-      "name": "Supply The Love",
-      "url": "https://open.spotify.com/track/59kU1EApSoqDXqAqlGIvCy"
-    },
-    {
-      "added_at": "2024-06-12 14:27:14",
-      "album": {
         "name": "Asara (feat. Bambo Cissokho)",
         "url": "https://open.spotify.com/album/39YxZgJhoL9YQfc4lmKwhN"
       },
@@ -1687,18 +1671,18 @@
     {
       "added_at": "2024-06-12 14:27:14",
       "album": {
-        "name": "Small Moments",
-        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
+        "name": "Supply The Love",
+        "url": "https://open.spotify.com/album/7y3keAFTj2vYq3zIqQEBjf"
       },
       "artists": [
         {
-          "name": "Dan Kye",
-          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
+          "name": "SILK",
+          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
         }
       ],
-      "duration_ms": 315608,
-      "name": "Moving",
-      "url": "https://open.spotify.com/track/3FsbNA7632mDE8gLp4K6oB"
+      "duration_ms": 155821,
+      "name": "Supply The Love",
+      "url": "https://open.spotify.com/track/59kU1EApSoqDXqAqlGIvCy"
     },
     {
       "added_at": "2024-06-12 14:27:14",
@@ -1715,6 +1699,22 @@
       "duration_ms": 269799,
       "name": "Don't Let Go",
       "url": "https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by"
+    },
+    {
+      "added_at": "2024-06-12 14:27:14",
+      "album": {
+        "name": "Small Moments",
+        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
+      },
+      "artists": [
+        {
+          "name": "Dan Kye",
+          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
+        }
+      ],
+      "duration_ms": 315608,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/3FsbNA7632mDE8gLp4K6oB"
     },
     {
       "added_at": "2024-06-12 14:27:14",

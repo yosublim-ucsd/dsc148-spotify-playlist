@@ -1,6 +1,6 @@
 {
   "description": "A mega Anime hits mix! \u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u306e\u30ed\u30f3\u30b0&\u30e1\u30ac\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u697d\u3057\u3082\u3046\u3002Illustration by <a href=\"https://kazuhisauragami.com/\"> Kazuhisa Uragami</a> ",
-  "num_followers": 606968,
+  "num_followers": 607345,
   "original_name": "Anime On Replay",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-04-30 15:00:00",
       "album": {
-        "name": "Devil",
-        "url": "https://open.spotify.com/album/7DDrVqzCsXJAdR2fQh9GZD"
-      },
-      "artists": [
-        {
-          "name": "VK Blanka",
-          "url": "https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d"
-        }
-      ],
-      "duration_ms": 196946,
-      "name": "Black Catcher",
-      "url": "https://open.spotify.com/track/2y7f8qkrgIqY5KsfPNcuix"
-    },
-    {
-      "added_at": "2024-04-30 15:00:00",
-      "album": {
         "name": "Tree",
         "url": "https://open.spotify.com/album/1NF6OvO7LcY8f7m5rVxU1T"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 291346,
       "name": "RPG",
       "url": "https://open.spotify.com/track/7facNrW6VRW8s3ICZ8G1uW"
+    },
+    {
+      "added_at": "2024-04-30 15:00:00",
+      "album": {
+        "name": "Devil",
+        "url": "https://open.spotify.com/album/7DDrVqzCsXJAdR2fQh9GZD"
+      },
+      "artists": [
+        {
+          "name": "VK Blanka",
+          "url": "https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d"
+        }
+      ],
+      "duration_ms": 196946,
+      "name": "Black Catcher",
+      "url": "https://open.spotify.com/track/2y7f8qkrgIqY5KsfPNcuix"
     },
     {
       "added_at": "2024-04-30 15:00:00",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2024-04-30 15:00:00",
       "album": {
+        "name": "\u5149\u306e\u4e2d\u3078",
+        "url": "https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8"
+      },
+      "artists": [
+        {
+          "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
+          "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
+        }
+      ],
+      "duration_ms": 258265,
+      "name": "\u5149\u306e\u4e2d\u3078",
+      "url": "https://open.spotify.com/track/5pRchw0E4RpVqIWcyVCrJv"
+    },
+    {
+      "added_at": "2024-04-30 15:00:00",
+      "album": {
         "name": "give it back",
         "url": "https://open.spotify.com/album/4FYIha9FBi1bZueBbSJSRI"
       },
@@ -1327,6 +1343,22 @@
       "duration_ms": 212476,
       "name": "give it back",
       "url": "https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z"
+    },
+    {
+      "added_at": "2024-04-30 15:00:00",
+      "album": {
+        "name": "\u82b1\u306e\u5854",
+        "url": "https://open.spotify.com/album/5N4WUOp0F0eUngAyPXJico"
+      },
+      "artists": [
+        {
+          "name": "Sayuri",
+          "url": "https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz"
+        }
+      ],
+      "duration_ms": 275614,
+      "name": "\u82b1\u306e\u5854",
+      "url": "https://open.spotify.com/track/1yt4wO7dKCwsfjch8SN9aU"
     },
     {
       "added_at": "2024-04-30 15:00:00",
@@ -1351,38 +1383,6 @@
       "duration_ms": 222366,
       "name": "\u30a2\u30a4\u30a6\u30a8",
       "url": "https://open.spotify.com/track/7rqYTYi70xZBqEMAtSVhXc"
-    },
-    {
-      "added_at": "2024-04-30 15:00:00",
-      "album": {
-        "name": "\u5149\u306e\u4e2d\u3078",
-        "url": "https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8"
-      },
-      "artists": [
-        {
-          "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
-          "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
-        }
-      ],
-      "duration_ms": 258265,
-      "name": "\u5149\u306e\u4e2d\u3078",
-      "url": "https://open.spotify.com/track/5pRchw0E4RpVqIWcyVCrJv"
-    },
-    {
-      "added_at": "2024-04-30 15:00:00",
-      "album": {
-        "name": "\u82b1\u306e\u5854",
-        "url": "https://open.spotify.com/album/5N4WUOp0F0eUngAyPXJico"
-      },
-      "artists": [
-        {
-          "name": "Sayuri",
-          "url": "https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz"
-        }
-      ],
-      "duration_ms": 275614,
-      "name": "\u82b1\u306e\u5854",
-      "url": "https://open.spotify.com/track/1yt4wO7dKCwsfjch8SN9aU"
     },
     {
       "added_at": "2024-04-30 15:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-04-30 15:00:00",
       "album": {
-        "name": "\u660e\u3051\u661f",
-        "url": "https://open.spotify.com/album/4iQhpT848HsgBFeXfLgBoY"
-      },
-      "artists": [
-        {
-          "name": "LiSA",
-          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "\u660e\u3051\u661f",
-      "url": "https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12"
-    },
-    {
-      "added_at": "2024-04-30 15:00:00",
-      "album": {
         "name": "Traveler",
         "url": "https://open.spotify.com/album/0AcDdZ01F1DSv6XSvLunkb"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 299164,
       "name": "\u30a4\u30a8\u30b9\u30bf\u30c7\u30a4",
       "url": "https://open.spotify.com/track/53WuztMfY1VH3rLIm0zApQ"
+    },
+    {
+      "added_at": "2024-04-30 15:00:00",
+      "album": {
+        "name": "\u660e\u3051\u661f",
+        "url": "https://open.spotify.com/album/4iQhpT848HsgBFeXfLgBoY"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "\u660e\u3051\u661f",
+      "url": "https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12"
     },
     {
       "added_at": "2024-04-30 15:00:00",
@@ -1515,22 +1515,6 @@
       "duration_ms": 414466,
       "name": "Is There Still Anything That Love Can Do?",
       "url": "https://open.spotify.com/track/56pvqFKGXPjubh5eY6sOlv"
-    },
-    {
-      "added_at": "2024-04-30 15:00:00",
-      "album": {
-        "name": "\u30b7\u30f3\u30c7\u30ec\u30e9",
-        "url": "https://open.spotify.com/album/1OqBXmqvKxd0nlL5v9sA7u"
-      },
-      "artists": [
-        {
-          "name": "Cidergirl",
-          "url": "https://open.spotify.com/artist/3hprFQEXS7glX1Jxxwv9Dn"
-        }
-      ],
-      "duration_ms": 212310,
-      "name": "\u30b7\u30f3\u30c7\u30ec\u30e9",
-      "url": "https://open.spotify.com/track/6ilTR3RpLCAHDt3Z6YuQGx"
     },
     {
       "added_at": "2024-04-30 15:00:00",
@@ -1571,6 +1555,22 @@
     {
       "added_at": "2024-04-30 15:00:00",
       "album": {
+        "name": "\u30b7\u30f3\u30c7\u30ec\u30e9",
+        "url": "https://open.spotify.com/album/1OqBXmqvKxd0nlL5v9sA7u"
+      },
+      "artists": [
+        {
+          "name": "Cidergirl",
+          "url": "https://open.spotify.com/artist/3hprFQEXS7glX1Jxxwv9Dn"
+        }
+      ],
+      "duration_ms": 212310,
+      "name": "\u30b7\u30f3\u30c7\u30ec\u30e9",
+      "url": "https://open.spotify.com/track/6ilTR3RpLCAHDt3Z6YuQGx"
+    },
+    {
+      "added_at": "2024-04-30 15:00:00",
+      "album": {
         "name": "\u9583\u5149",
         "url": "https://open.spotify.com/album/1M0bv6o77rYRLeP0RYAcju"
       },
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2024-04-30 15:00:00",
       "album": {
+        "name": "SOULSOUP",
+        "url": "https://open.spotify.com/album/2nilNZLuzCuFSkhXC2h10C"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "duration_ms": 314469,
+      "name": "SOULSOUP",
+      "url": "https://open.spotify.com/track/1JrxwbZ9u0VNwemdcJwZNi"
+    },
+    {
+      "added_at": "2024-04-30 15:00:00",
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/4c1Fq2QlSHxUxKlNrmtpjO"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 249477,
       "name": "\u7d19\u4e00\u91cd",
       "url": "https://open.spotify.com/track/4WqWAyxI9uf6CVxUBwglrb"
-    },
-    {
-      "added_at": "2024-04-30 15:00:00",
-      "album": {
-        "name": "SOULSOUP",
-        "url": "https://open.spotify.com/album/2nilNZLuzCuFSkhXC2h10C"
-      },
-      "artists": [
-        {
-          "name": "OFFICIAL HIGE DANDISM",
-          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
-        }
-      ],
-      "duration_ms": 314469,
-      "name": "SOULSOUP",
-      "url": "https://open.spotify.com/track/1JrxwbZ9u0VNwemdcJwZNi"
     },
     {
       "added_at": "2024-04-30 15:00:00",

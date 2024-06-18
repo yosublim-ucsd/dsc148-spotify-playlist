@@ -4,7 +4,7 @@
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa ANI ja VIIVI.
 
-896 songs - 1 day 22 hr 23 min
+897 songs - 1 day 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Crybaby](https://open.spotify.com/track/7gcjgCVdyvXgbme0Q47Pfr) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Crybaby](https://open.spotify.com/album/5Wm0HVhzfIZa0Euf4CNXv7) | 2:54 | 2024-04-26 | 2024-05-03 |
 | [Cult to A Saint](https://open.spotify.com/track/6LiZv6hKaSY9DMMqVO3hgy) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU), [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [Cult to A Saint](https://open.spotify.com/album/5J51HUdRQFacntDsIhRmbf) | 3:38 | 2024-05-16 | 2024-05-24 |
 | [Cursed Romantics](https://open.spotify.com/track/5492WJL5APlDdZFOjn0PxK) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Cursed Romantics](https://open.spotify.com/album/0JKztCLBEY4jKjVSQBWeGE) | 3:10 | 2024-05-16 | 2024-05-24 |
+| [Dance With Me](https://open.spotify.com/track/2I5ipWaIXUknimwtJPoPYt) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance With Me](https://open.spotify.com/album/1wkUCIDGpYN0PEIcyG4dS6) | 3:45 | 2024-06-14 |  |
 | [Dancers](https://open.spotify.com/track/0MdXqGO6myqxt0FwvuOqMN) | [ALBA](https://open.spotify.com/artist/5MKM7cNYL4SIuIe6q4Qd1p) | [Dancers](https://open.spotify.com/album/4NQBMNfQxbgiVp8OCPbeJU) | 3:30 | 2024-06-13 |  |
 | [Dancing](https://open.spotify.com/track/1moowWD712AFItlVWQ1bbd) | [LIZZIP](https://open.spotify.com/artist/1jNyttT0vL0IEemrawjILH), [Meyo](https://open.spotify.com/artist/6pRL2CdxQOp85mZuVSJBD3) | [Dancing](https://open.spotify.com/album/3XSNqp3oQyfEd4qN1pdxd4) | 2:37 | 2024-04-26 | 2024-05-03 |
 | [Dancing Type](https://open.spotify.com/track/3Gf35KMfySYgS8MFLFpIEc) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Dancing Type](https://open.spotify.com/album/0P7SpW8srX9NHdROJwkGAy) | 2:35 | 2024-04-26 | 2024-05-03 |

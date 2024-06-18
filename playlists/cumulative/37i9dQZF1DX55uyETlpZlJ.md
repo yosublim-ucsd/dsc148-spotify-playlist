@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All Ok
 
-345 songs - 18 hr 40 min
+346 songs - 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [Lemme know](https://open.spotify.com/track/52do3BlT1cljawMI2jUVHj) | [Rd Tillu](https://open.spotify.com/artist/1BWba6jCmo7OnYO052llOx), [Ponnamma](https://open.spotify.com/artist/3q46DthMtPWUhsoJUyGw2N) | [Lemme know](https://open.spotify.com/album/7hy987UBUHXMHVtT2UgttW) | 3:01 | 2023-12-19 | 2024-06-14 |
 | [Live Lakshmi](https://open.spotify.com/track/1kgvfvXFjAEpUwKYqZcc54) | [Praveen Kadapatti](https://open.spotify.com/artist/3g5LvlyMO7x7Pn0sCIFvst), [Kishor](https://open.spotify.com/artist/6GYVBglYMAmbDVoLAX02kD), [Kavya SM](https://open.spotify.com/artist/7HrXhvguvaak7G4Luv63yu) | [Live Lakshmi](https://open.spotify.com/album/32fNJbDr7iUAZZx1dBi8f1) | 1:57 | 2023-08-24 | 2024-02-17 |
 | [Lokada Kalaji \(Rendition\) \- SKODA Deccan Beats](https://open.spotify.com/track/3CrD7UchbZpqrm3Q6rzFGp) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Sunil Nakod](https://open.spotify.com/artist/5b6rKTAj1FD4aaerrJ8nay) | [Lokada Kalaji \(Rendition\) \[SKODA Deccan Beats\]](https://open.spotify.com/album/6pIZpEbcqhKgVJJXw5CTxd) | 1:45 | 2023-07-24 | 2023-08-09 |
-| [Love U Dia](https://open.spotify.com/track/1OJ9OGqVw2IShCyaTrxXR2) | [Shameer Mudipu](https://open.spotify.com/artist/7ey1yG4zjWT6QvVl6PiMHN) | [Love U Dia](https://open.spotify.com/album/5CIGmqNeoeBygTISjLUwHw) | 4:51 | 2024-02-09 |  |
+| [Love U Dia](https://open.spotify.com/track/1OJ9OGqVw2IShCyaTrxXR2) | [Shameer Mudipu](https://open.spotify.com/artist/7ey1yG4zjWT6QvVl6PiMHN) | [Love U Dia](https://open.spotify.com/album/5CIGmqNeoeBygTISjLUwHw) | 4:51 | 2024-02-09 | 2024-06-18 |
 | [MADE IN KARNATAKA](https://open.spotify.com/track/02Zr33EJNBLMJOUgLxWBwb) | [YASHICA RAJ](https://open.spotify.com/artist/0mlHmQy2Zursbiill6EeXd), [MC Bijju](https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp) | [MADE IN KARNATAKA](https://open.spotify.com/album/19gnp7j1D1BKrNMXzfNw91) | 1:36 | 2024-01-31 | 2024-06-11 |
 | [Madhya Raatri](https://open.spotify.com/track/3vyaUrfqe16FA0njHxK8fE) | [Yaaru](https://open.spotify.com/artist/5uIPe6WLxAprhUHVBME3hx), [Rohan San](https://open.spotify.com/artist/3orEjTOJwiLWzVRocxDUZl) | [Madhya Raatri](https://open.spotify.com/album/5CsVCGI8MUuW7xSjG4rTDg) | 3:15 | 2022-09-05 | 2023-06-13 |
 | [Maha Ganapathim](https://open.spotify.com/track/0DY2HqSTGGBtTFKfsshNYd) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Maha Ganapathim](https://open.spotify.com/album/4CHgztUDbbXxRZSTohaQvQ) | 4:09 | 2023-01-18 | 2023-08-25 |
@@ -266,6 +266,7 @@
 | [Ninna Maatu](https://open.spotify.com/track/3ZYUDXKEHiZt165iWMHoiT) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Genius 7.0](https://open.spotify.com/artist/2nUMj3rQJbYwn47xH0UYnV) | [Ninna Maatu](https://open.spotify.com/album/3wx0ENl8ddRFBiHdmLDOIX) | 3:46 | 2023-04-06 | 2023-12-23 |
 | [Ninna Maduveyali](https://open.spotify.com/track/2RIO50cubGPxhSaf7lbA21) | [Sabik Sabi Puttur](https://open.spotify.com/artist/0ZUVnvAf9j1zQ8PVrROBQG), [Niyaz Nijju](https://open.spotify.com/artist/70VuXJ5CAUJyuYTBHfTnt7) | [Ninna Maduveyali](https://open.spotify.com/album/2v4iLTmeYe1J3WFQN9Qyzr) | 5:10 | 2023-02-24 | 2023-06-08 |
 | [Ninna Nodade](https://open.spotify.com/track/31fsnh7dvxBu8UFxKsKeuB) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Asher Mendonca](https://open.spotify.com/artist/7vT1RnB74vnPFxhjnPC4Rr) | [Ninna Nodade](https://open.spotify.com/album/3SBnWJqW6Uao7ANAFeBCDa) | 3:41 | 2023-05-09 | 2024-01-09 |
+| [Ninna Noduta](https://open.spotify.com/track/5baFUoZRasKY4kY9mfvBXj) | [Vishwas V Mathad](https://open.spotify.com/artist/7baUdCAhXJrptpQORiFozW), [Meghana Pramod](https://open.spotify.com/artist/7q8wxbNtA07ytbGBH6KGnF), [Chetan Argungi](https://open.spotify.com/artist/7aLguQeD2WV6jUH3wNoMwY) | [Ninna Noduta](https://open.spotify.com/album/2IaJzPfIu3AOdG3A31UQ9Y) | 3:20 | 2024-06-17 |  |
 | [Ninna Preethi](https://open.spotify.com/track/23SkLenhmQOqaMm1jkFIo3) | [Prasanna Bhojashettar](https://open.spotify.com/artist/6d913SnOMtIZnOxh9IiURJ) | [Ninna Preethi](https://open.spotify.com/album/0V48aBzTDzvRy2WuEcPhll) | 3:58 | 2023-11-06 | 2024-02-17 |
 | [Ninnane Bayaside](https://open.spotify.com/track/2gVeV88YIQzA5zO0rTiyzu) | [Satvik C S](https://open.spotify.com/artist/5nqsLJcHlqXLCvvWjdEIoR) | [Ninnane Bayaside](https://open.spotify.com/album/65X3c2WdqKnrralQy9ccEm) | 2:52 | 2023-03-03 | 2023-12-09 |
 | [Ninnindha shuru](https://open.spotify.com/track/6gTFqOudf70o2LhdhtesT2) | [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N), [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr), [Siddu R Wadeyar](https://open.spotify.com/artist/4vtqdT9JcejRLMiju5YTBu) | [Ninnindha shuru](https://open.spotify.com/album/004SIcTnIEekzQ4rozlWtD) | 4:17 | 2024-03-05 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 
 > This is Djonga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,098 likes - 51 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,148 likes - 51 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,11 +53,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 | 43 | [Só Quero Saber](https://open.spotify.com/track/759JQKhbfrQjs9wNcmyAfl) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [DJ Costela 4M](https://open.spotify.com/artist/3LueG3tmXa6Y5qWU6DtOPb) | [O Cara Do Momento, Vol\. 2](https://open.spotify.com/album/35C0UUdgV8mkuBaJrxbagf) | 3:16 |
 | 44 | [Xapralá](https://open.spotify.com/track/6l9UA6IlEGFl1RVAncqvwo) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1), [Rapaz do Dread](https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B) | [NU](https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP) | 3:48 |
 | 45 | [bala fini](https://open.spotify.com/track/1gnDVuH3uQnJH0cBLRSJKC) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [O Dono do Lugar](https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4) | 3:29 |
-| 46 | [REAL NIGGA](https://open.spotify.com/track/6cL2kYwllJ29fyvrGMKWxE) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [VERÃO CRIMINOSO](https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx) | 3:12 |
-| 47 | [ATÍPICO](https://open.spotify.com/track/0PnZJZwuVFs6rPlYuFkTpi) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [O MENINO QUE QUERIA SER DEUS](https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX) | 3:19 |
+| 46 | [ATÍPICO](https://open.spotify.com/track/0PnZJZwuVFs6rPlYuFkTpi) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [O MENINO QUE QUERIA SER DEUS](https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX) | 3:19 |
+| 47 | [REAL NIGGA](https://open.spotify.com/track/6cL2kYwllJ29fyvrGMKWxE) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [VERÃO CRIMINOSO](https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx) | 3:12 |
 | 48 | [Sintoniza](https://open.spotify.com/track/52aonA32y0YYt1NfnZNvWv) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [AFRODHIT](https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5) | 2:58 |
 | 49 | [tôbem](https://open.spotify.com/track/7DQcatEz0pafKCO6LYzSef) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [O Dono do Lugar](https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4) | 3:20 |
 | 50 | [Zero Chances \- Ao Vivo](https://open.spotify.com/track/2BApXORsRdAgiHFlmuxAMz) | [Akatu](https://open.spotify.com/artist/1AuDtbIuaPj9LHnOUMT3C8), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Zero Chances \(Ao Vivo\)](https://open.spotify.com/album/46Wor6bbb4uOs3xhIgfSR9) | 3:38 |
 | 51 | [Santa Ceia](https://open.spotify.com/track/1NFfZNNGAl0pbjiK9NuHsW) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k), [Yodabren](https://open.spotify.com/artist/2m8hZOT5QUrECPyIHd1ZrQ) | [Heresia](https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2) | 4:39 |
 
-Snapshot ID: `ZmzZgAAAAACYTa/exwKrwk2ZyGHQ0USq`
+Snapshot ID: `Zm4rAAAAAADhGj8jbdjV9N4EYYRAKX7Z`

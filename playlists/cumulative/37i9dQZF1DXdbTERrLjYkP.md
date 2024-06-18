@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent writing their own songs\. Cover: Noah Rinker on the Fresh Finds rooftop
 
-691 songs - 1 day 12 hr 43 min
+692 songs - 1 day 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,6 +349,7 @@
 | [Introverted](https://open.spotify.com/track/23hY0BOxI8uDhVxxKtStBE) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Introverted](https://open.spotify.com/album/2uZ4tlQGq0AAhNvhYQp7pm) | 4:00 | 2023-05-05 | 2023-08-12 |
 | [Irish Eyes](https://open.spotify.com/track/6BuNcxbUQyssRpHEBqmpLw) | [Rose Betts](https://open.spotify.com/artist/3DYAP9CXyfNiM2nlu09w4i) | [Irish Eyes](https://open.spotify.com/album/3DVq0JXN7pboBAOyeM2qQQ) | 2:16 | 2023-07-14 | 2023-12-14 |
 | [Is It Enough](https://open.spotify.com/track/5CiwHSUDf9C1Uv0r4nUVLd) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Is It Enough](https://open.spotify.com/album/6zmkcJhd5cv7pBrQYPDYfY) | 2:33 | 2022-07-08 | 2022-09-03 |
+| [Isabel](https://open.spotify.com/track/5TyN1lnBNcQzomwOhfqGxN) | [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [Isabel](https://open.spotify.com/album/6agP6NpGBGCN2O7UyzhfHO) | 4:19 | 2024-06-17 |  |
 | [Isn't It Obvious](https://open.spotify.com/track/5QDtGxC2khjwLEq1bXhdEj) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Isn't It Obvious](https://open.spotify.com/album/20qybCQYkW2B6pONKi8u0v) | 2:38 | 2023-11-17 |  |
 | [Isolate Myself](https://open.spotify.com/track/24i28lemdaXJuEpmWcoDzU) | [Mallory Merk](https://open.spotify.com/artist/5GHFapUxfP2H2xxuMytwaF) | [Isolate Myself](https://open.spotify.com/album/2m6MKgiZRApIMIxOAptu3C) | 3:05 | 2022-07-08 | 2022-12-03 |
 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 | 2022-01-14 | 2022-08-06 |
@@ -629,7 +630,7 @@
 | [Tornado Warnings](https://open.spotify.com/track/6DY0iLFVIw9EvFSVzaoNbu) | [Katie Lynne Sharbaugh](https://open.spotify.com/artist/7ufoDy3DR2gEi68WTyUGcu) | [Tornado Warnings](https://open.spotify.com/album/51G4VeQtOObldVbGda0oy3) | 3:08 | 2022-09-16 | 2022-12-24 |
 | [touch tank](https://open.spotify.com/track/1S3ZeV4CEdqbzBYwu0pxE7) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4XsixtHgUzRfUd9zrhX5eh) | 2:59 | 2022-09-09 | 2022-10-01 |
 | [touch tank](https://open.spotify.com/track/7DrzZN5jaDyE0a0tVuVWnj) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4cH0G6g1NcPguHQ8aOk1h6) | 2:59 | 2022-07-05 | 2022-09-16 |
-| [Treehouse \(feat\. Brandy Clark\)](https://open.spotify.com/track/1YhfDSpXJ61IHRF5IymP3S) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Treehouse](https://open.spotify.com/album/5fXOvCcWEgxK4x0qgY35U0) | 3:34 | 2024-05-17 |  |
+| [Treehouse \(feat\. Brandy Clark\)](https://open.spotify.com/track/1YhfDSpXJ61IHRF5IymP3S) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Treehouse](https://open.spotify.com/album/5fXOvCcWEgxK4x0qgY35U0) | 3:34 | 2024-05-17 | 2024-06-18 |
 | [Tropical Sour Candy](https://open.spotify.com/track/0zwKGD9KXvdIfZXlCb0WzI) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [If It's Not Forever](https://open.spotify.com/album/5OhIJcMEADcrAKH5kkAvzT) | 3:09 | 2022-04-01 | 2022-05-20 |
 | [Trustfall](https://open.spotify.com/track/1xeDnOaPmfVZsMYSsDLyhF) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Trustfall](https://open.spotify.com/album/2whIOqiGvtYyy2SA67pElo) | 3:02 | 2023-12-01 | 2024-06-15 |
 | [Twenty Nothing](https://open.spotify.com/track/35MVdVBcADS8oEOBY6IKOX) | [Frankie Bird](https://open.spotify.com/artist/4j8LfmADKGMGknwJOUFKYf) | [Twenty Nothing](https://open.spotify.com/album/5cg7Ma4c3H9WEFQythH6XM) | 3:51 | 2023-06-12 | 2023-07-08 |

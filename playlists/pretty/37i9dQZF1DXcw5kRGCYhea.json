@@ -1,12 +1,12 @@
 {
   "description": "Vibrez au rythme des hits urbains et Afro en feu \ud83c\udfb6",
-  "num_followers": 23785,
+  "num_followers": 23799,
   "original_name": "SEHD",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zm8OcgAAAACwGohBJmRMqbnsE9CmtAjR",
+  "snapshot_id": "ZnB5GQAAAAA4ZtP8rsaK3IFI4GDHAA6T",
   "tracks": [
     {
       "added_at": "2024-06-16 16:10:26",
@@ -103,6 +103,22 @@
       "duration_ms": 150029,
       "name": "Tout g\u00e2ch\u00e9",
       "url": "https://open.spotify.com/track/2U8Rdlgi2r3KDp7Bc4e33s"
+    },
+    {
+      "added_at": "2024-06-17 17:57:45",
+      "album": {
+        "name": "LV",
+        "url": "https://open.spotify.com/album/6ZDribH9XHfeMilznJ2YmS"
+      },
+      "artists": [
+        {
+          "name": "Smurxa",
+          "url": "https://open.spotify.com/artist/14vgRvHLwVocqfsOWht6wB"
+        }
+      ],
+      "duration_ms": 174915,
+      "name": "LV",
+      "url": "https://open.spotify.com/track/3PDz3mtJB61Zpc8Bq8ui51"
     },
     {
       "added_at": "2024-06-16 16:10:26",
@@ -903,22 +919,6 @@
       "duration_ms": 225230,
       "name": "Omri",
       "url": "https://open.spotify.com/track/4EwhShRVqFuVTdqPKM5yoj"
-    },
-    {
-      "added_at": "2024-06-16 16:10:26",
-      "album": {
-        "name": "BLADI",
-        "url": "https://open.spotify.com/album/08GcEYNhOjc5zovnynkbvk"
-      },
-      "artists": [
-        {
-          "name": "Flack",
-          "url": "https://open.spotify.com/artist/3Fi4gBbVvIHrqEG9TGwRTC"
-        }
-      ],
-      "duration_ms": 199411,
-      "name": "BLADI",
-      "url": "https://open.spotify.com/track/16RbqwDYPAHUPR9esyfGlq"
     },
     {
       "added_at": "2024-06-16 16:10:26",

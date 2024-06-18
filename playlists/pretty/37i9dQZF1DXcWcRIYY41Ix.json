@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Karmento y Bewis de la Rosa.",
-  "num_followers": 124162,
+  "num_followers": 124176,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -627,26 +627,6 @@
     {
       "added_at": "2024-06-14 10:17:36",
       "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/3QfGs7DDFiZo4bv5HELUaD"
-      },
-      "artists": [
-        {
-          "name": "La Otra",
-          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
-        },
-        {
-          "name": "Guillem Roma",
-          "url": "https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro"
-        }
-      ],
-      "duration_ms": 212019,
-      "name": "T\u00f3came",
-      "url": "https://open.spotify.com/track/2TDPkO4JsdkMeAsCLIQwY2"
-    },
-    {
-      "added_at": "2024-06-14 10:17:36",
-      "album": {
         "name": "Al o\u00edrla cantar",
         "url": "https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 336330,
       "name": "Al o\u00edrla cantar",
       "url": "https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t"
+    },
+    {
+      "added_at": "2024-06-14 10:17:36",
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/3QfGs7DDFiZo4bv5HELUaD"
+      },
+      "artists": [
+        {
+          "name": "La Otra",
+          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
+        },
+        {
+          "name": "Guillem Roma",
+          "url": "https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro"
+        }
+      ],
+      "duration_ms": 212019,
+      "name": "T\u00f3came",
+      "url": "https://open.spotify.com/track/2TDPkO4JsdkMeAsCLIQwY2"
     },
     {
       "added_at": "2024-06-14 10:17:36",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-06-14 10:17:36",
       "album": {
+        "name": "Kumbayeo (Lado A)",
+        "url": "https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        }
+      ],
+      "duration_ms": 197346,
+      "name": "Orquesta natural",
+      "url": "https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe"
+    },
+    {
+      "added_at": "2024-06-14 10:17:36",
+      "album": {
         "name": "La Mirada",
         "url": "https://open.spotify.com/album/3FZkTuYvjUBlFTzQ3GlNUC"
       },
@@ -843,18 +859,18 @@
     {
       "added_at": "2024-06-14 10:17:36",
       "album": {
-        "name": "Kumbayeo (Lado A)",
-        "url": "https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid"
+        "name": "Los N\u00e1ufragos",
+        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
       },
       "artists": [
         {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
         }
       ],
-      "duration_ms": 197346,
-      "name": "Orquesta natural",
-      "url": "https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe"
+      "duration_ms": 202680,
+      "name": "En Las Olas",
+      "url": "https://open.spotify.com/track/6d3SDtnXjcQ7l7qNJGx1hY"
     },
     {
       "added_at": "2024-06-14 10:17:36",
@@ -871,22 +887,6 @@
       "duration_ms": 207587,
       "name": "SN 2020Z",
       "url": "https://open.spotify.com/track/332M1uElwOFaCIm82QVF2U"
-    },
-    {
-      "added_at": "2024-06-14 10:17:36",
-      "album": {
-        "name": "Los N\u00e1ufragos",
-        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 202680,
-      "name": "En Las Olas",
-      "url": "https://open.spotify.com/track/6d3SDtnXjcQ7l7qNJGx1hY"
     },
     {
       "added_at": "2024-06-14 10:17:36",
@@ -1051,22 +1051,18 @@
     {
       "added_at": "2024-06-14 10:17:36",
       "album": {
-        "name": "Los Ancestros",
-        "url": "https://open.spotify.com/album/2CUmklyaIJvfKBU65k5o24"
+        "name": "Maison Du Monde",
+        "url": "https://open.spotify.com/album/7yV0PHxjUqJ3CnB0J7OxD3"
       },
       "artists": [
         {
-          "name": "Lucio Mantel",
-          "url": "https://open.spotify.com/artist/5kCJ9ht14oLO98WlBRfwyk"
-        },
-        {
-          "name": "La L\u00e1",
-          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
+          "name": "Luis Ramiro",
+          "url": "https://open.spotify.com/artist/1WWezGDnjvHxS6DjIq9GjT"
         }
       ],
-      "duration_ms": 250723,
-      "name": "Los Ancestros",
-      "url": "https://open.spotify.com/track/7epCtFajoM2z7QtbnY23W2"
+      "duration_ms": 205271,
+      "name": "Maison Du Monde",
+      "url": "https://open.spotify.com/track/4joqLG9X39fahIqs0ObvGu"
     },
     {
       "added_at": "2024-06-14 10:17:36",
@@ -1087,18 +1083,22 @@
     {
       "added_at": "2024-06-14 10:17:36",
       "album": {
-        "name": "Maison Du Monde",
-        "url": "https://open.spotify.com/album/7yV0PHxjUqJ3CnB0J7OxD3"
+        "name": "Los Ancestros",
+        "url": "https://open.spotify.com/album/2CUmklyaIJvfKBU65k5o24"
       },
       "artists": [
         {
-          "name": "Luis Ramiro",
-          "url": "https://open.spotify.com/artist/1WWezGDnjvHxS6DjIq9GjT"
+          "name": "Lucio Mantel",
+          "url": "https://open.spotify.com/artist/5kCJ9ht14oLO98WlBRfwyk"
+        },
+        {
+          "name": "La L\u00e1",
+          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
         }
       ],
-      "duration_ms": 205271,
-      "name": "Maison Du Monde",
-      "url": "https://open.spotify.com/track/4joqLG9X39fahIqs0ObvGu"
+      "duration_ms": 250723,
+      "name": "Los Ancestros",
+      "url": "https://open.spotify.com/track/7epCtFajoM2z7QtbnY23W2"
     },
     {
       "added_at": "2024-06-14 10:17:36",
@@ -1309,6 +1309,22 @@
       "url": "https://open.spotify.com/track/2lG6Uab6jE44w5PPQKTRC7"
     },
     {
+      "added_at": "2024-06-14 10:42:29",
+      "album": {
+        "name": "Lobo",
+        "url": "https://open.spotify.com/album/4d3I9khxaMn5J7RxbpBkJk"
+      },
+      "artists": [
+        {
+          "name": "Marta G\u00f3mez",
+          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
+        }
+      ],
+      "duration_ms": 186181,
+      "name": "Lobo",
+      "url": "https://open.spotify.com/track/5S7SNJqC03c5D9WgG2Agr6"
+    },
+    {
       "added_at": "2024-06-14 10:17:36",
       "album": {
         "name": "Hoy no tengo nada que hacer",
@@ -1327,22 +1343,6 @@
       "duration_ms": 251856,
       "name": "Hoy no tengo nada que hacer",
       "url": "https://open.spotify.com/track/4ZhM1JjdSSJs0QVv7EDcBu"
-    },
-    {
-      "added_at": "2024-06-14 10:17:36",
-      "album": {
-        "name": "Crezco y no lo veo",
-        "url": "https://open.spotify.com/album/7xxxbjh0tmefVgDoqJjjvr"
-      },
-      "artists": [
-        {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
-        }
-      ],
-      "duration_ms": 190561,
-      "name": "Crezco y no lo veo",
-      "url": "https://open.spotify.com/track/42lBWRathPCNc7MX35eQg6"
     },
     {
       "added_at": "2024-06-14 10:17:36",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2024-06-14 10:17:36",
       "album": {
-        "name": "Piel de pantera",
-        "url": "https://open.spotify.com/album/4MHTbRMsbY662stuYGeczO"
+        "name": "Crezco y no lo veo",
+        "url": "https://open.spotify.com/album/7xxxbjh0tmefVgDoqJjjvr"
       },
       "artists": [
         {
-          "name": "Carey",
-          "url": "https://open.spotify.com/artist/0oxfm2BvNWiRi3WwmcOdQy"
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
         }
       ],
-      "duration_ms": 183797,
-      "name": "Piel de pantera",
-      "url": "https://open.spotify.com/track/3HjGCQ1KQfIKc1IkNbrJVn"
+      "duration_ms": 190561,
+      "name": "Crezco y no lo veo",
+      "url": "https://open.spotify.com/track/42lBWRathPCNc7MX35eQg6"
     },
     {
       "added_at": "2024-06-14 10:17:36",
@@ -1401,20 +1401,20 @@
       "url": "https://open.spotify.com/track/0dEr4JTpdsy1sAwHM6RGHF"
     },
     {
-      "added_at": "2024-06-14 10:42:29",
+      "added_at": "2024-06-14 10:17:36",
       "album": {
-        "name": "Lobo",
-        "url": "https://open.spotify.com/album/4d3I9khxaMn5J7RxbpBkJk"
+        "name": "Piel de pantera",
+        "url": "https://open.spotify.com/album/4MHTbRMsbY662stuYGeczO"
       },
       "artists": [
         {
-          "name": "Marta G\u00f3mez",
-          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
+          "name": "Carey",
+          "url": "https://open.spotify.com/artist/0oxfm2BvNWiRi3WwmcOdQy"
         }
       ],
-      "duration_ms": 186181,
-      "name": "Lobo",
-      "url": "https://open.spotify.com/track/5S7SNJqC03c5D9WgG2Agr6"
+      "duration_ms": 183797,
+      "name": "Piel de pantera",
+      "url": "https://open.spotify.com/track/3HjGCQ1KQfIKc1IkNbrJVn"
     },
     {
       "added_at": "2024-06-14 10:17:36",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-06-14 10:17:36",
       "album": {
-        "name": "Camino al Bemb\u00e9",
-        "url": "https://open.spotify.com/album/4XeP79F6lHKf2YZgR3Ggtb"
-      },
-      "artists": [
-        {
-          "name": "Carey",
-          "url": "https://open.spotify.com/artist/0oxfm2BvNWiRi3WwmcOdQy"
-        }
-      ],
-      "duration_ms": 203393,
-      "name": "Camino al Bemb\u00e9",
-      "url": "https://open.spotify.com/track/4PzPtQgbDCaRajfbppvNBd"
-    },
-    {
-      "added_at": "2024-06-14 10:17:36",
-      "album": {
         "name": "Propuestas Imposibles",
         "url": "https://open.spotify.com/album/1cmDYMQXjP5IGxgp2KPwfb"
       },
@@ -1563,18 +1547,18 @@
     {
       "added_at": "2024-06-14 10:17:36",
       "album": {
-        "name": "Para Conquistarnos",
-        "url": "https://open.spotify.com/album/3U3Z7R8BOcNjWzjZ8MA81P"
+        "name": "Camino al Bemb\u00e9",
+        "url": "https://open.spotify.com/album/4XeP79F6lHKf2YZgR3Ggtb"
       },
       "artists": [
         {
-          "name": "Faneka",
-          "url": "https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo"
+          "name": "Carey",
+          "url": "https://open.spotify.com/artist/0oxfm2BvNWiRi3WwmcOdQy"
         }
       ],
-      "duration_ms": 207647,
-      "name": "Para Conquistarnos",
-      "url": "https://open.spotify.com/track/4M23bk18inOdFsmW9mRlXO"
+      "duration_ms": 203393,
+      "name": "Camino al Bemb\u00e9",
+      "url": "https://open.spotify.com/track/4PzPtQgbDCaRajfbppvNBd"
     },
     {
       "added_at": "2024-06-14 10:17:36",
@@ -1591,6 +1575,22 @@
       "duration_ms": 162843,
       "name": "Abanicos negros",
       "url": "https://open.spotify.com/track/2nZYV4fsJFo9HK8d4uScJf"
+    },
+    {
+      "added_at": "2024-06-14 10:17:36",
+      "album": {
+        "name": "Para Conquistarnos",
+        "url": "https://open.spotify.com/album/3U3Z7R8BOcNjWzjZ8MA81P"
+      },
+      "artists": [
+        {
+          "name": "Faneka",
+          "url": "https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo"
+        }
+      ],
+      "duration_ms": 207647,
+      "name": "Para Conquistarnos",
+      "url": "https://open.spotify.com/track/4M23bk18inOdFsmW9mRlXO"
     },
     {
       "added_at": "2024-06-14 10:17:36",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2024-06-14 10:17:36",
       "album": {
-        "name": "Por Qu\u00e9?",
-        "url": "https://open.spotify.com/album/62j8PLK7DJG9oaxGXjca5f"
-      },
-      "artists": [
-        {
-          "name": "Mari Segura",
-          "url": "https://open.spotify.com/artist/0mwwTd1NjYKz2gRF68AwFt"
-        }
-      ],
-      "duration_ms": 220569,
-      "name": "Por Qu\u00e9?",
-      "url": "https://open.spotify.com/track/7bHmqyyWyEhzw9KxtrkAe5"
-    },
-    {
-      "added_at": "2024-06-14 10:17:36",
-      "album": {
         "name": "Tananan\u00e1",
         "url": "https://open.spotify.com/album/1WktnsGN1LVZrei84VJXm2"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 245172,
       "name": "Tananan\u00e1",
       "url": "https://open.spotify.com/track/35O39AR91OBFPMWIZfBzoo"
+    },
+    {
+      "added_at": "2024-06-14 10:17:36",
+      "album": {
+        "name": "Por Qu\u00e9?",
+        "url": "https://open.spotify.com/album/62j8PLK7DJG9oaxGXjca5f"
+      },
+      "artists": [
+        {
+          "name": "Mari Segura",
+          "url": "https://open.spotify.com/artist/0mwwTd1NjYKz2gRF68AwFt"
+        }
+      ],
+      "duration_ms": 220569,
+      "name": "Por Qu\u00e9?",
+      "url": "https://open.spotify.com/track/7bHmqyyWyEhzw9KxtrkAe5"
     },
     {
       "added_at": "2024-06-14 10:17:36",

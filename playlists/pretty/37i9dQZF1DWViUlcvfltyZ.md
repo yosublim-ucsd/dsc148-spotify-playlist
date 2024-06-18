@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti! Novità rock, indie e punk dall'Italia\. Emma Nolde in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,277 likes - 91 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,279 likes - 91 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

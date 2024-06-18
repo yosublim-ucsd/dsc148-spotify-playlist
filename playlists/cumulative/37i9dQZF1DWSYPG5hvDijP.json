@@ -2173,6 +2173,32 @@
     },
     {
       "album": {
+        "name": "Colonial Mindset",
+        "url": "https://open.spotify.com/album/3p0Bw5SSaU6CJtRr4CqmJ5"
+      },
+      "artists": [
+        {
+          "name": "Sikander Kahlon",
+          "url": "https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN"
+        },
+        {
+          "name": "Al Bamania",
+          "url": "https://open.spotify.com/artist/4pyPB6M72hmPH7Ec3LGVap"
+        },
+        {
+          "name": "Kaka Sady",
+          "url": "https://open.spotify.com/artist/4MkyBr9fmRHVsOmeyjk3N8"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192152,
+      "name": "Fulveri",
+      "url": "https://open.spotify.com/track/3UuFC3sajVWwouDMwo7Cjh"
+    },
+    {
+      "album": {
         "name": "Ek Tha Raja",
         "url": "https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU"
       },
@@ -2808,7 +2834,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 262765,
       "name": "Hona Hi Tha",
       "url": "https://open.spotify.com/track/3ezm3DukK26vagWIIPvmgS"

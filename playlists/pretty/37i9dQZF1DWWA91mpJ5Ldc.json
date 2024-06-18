@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 126904,
+  "num_followers": 126914,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-12-26 03:01:00",
       "album": {
+        "name": "Bom Mesmo \u00e9 Estar Debaixo D'\u00c1gua Deluxe",
+        "url": "https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 304780,
+      "name": "Enquanto Durmo",
+      "url": "https://open.spotify.com/track/1St2uU9hgjVMnmuLeLePlk"
+    },
+    {
+      "added_at": "2023-12-26 03:01:00",
+      "album": {
         "name": "C\u00e9u Lil\u00e1s (Na Estrada)",
         "url": "https://open.spotify.com/album/0Kb73BaWQJh0GRxnOaSzdV"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 218822,
       "name": "Na Estrada",
       "url": "https://open.spotify.com/track/1kurYZn4PdsziIm0IsttFY"
-    },
-    {
-      "added_at": "2023-12-26 03:01:00",
-      "album": {
-        "name": "Bom Mesmo \u00e9 Estar Debaixo D'\u00c1gua Deluxe",
-        "url": "https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 304780,
-      "name": "Enquanto Durmo",
-      "url": "https://open.spotify.com/track/1St2uU9hgjVMnmuLeLePlk"
     },
     {
       "added_at": "2023-12-26 03:01:00",

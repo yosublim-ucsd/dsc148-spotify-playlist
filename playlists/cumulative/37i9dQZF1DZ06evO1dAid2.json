@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-18",
-  "description": "This is Chuck Berry. The essential tracks, all in one playlist.",
+  "description": "This Is Chuck Berry. Los temas esenciales, todos en una lista.",
   "name": "This Is Chuck Berry",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 162400,
       "name": "Around And Around",
       "url": "https://open.spotify.com/track/39AyLDOmmidKqmwvkNfnD9"
@@ -128,7 +128,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 152200,
       "name": "Beautiful Delilah - Alternate Takes 15/16",
       "url": "https://open.spotify.com/track/4RdZsxHKdBVjRj1PgcCe4h"
@@ -398,7 +398,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 107026,
       "name": "Come On - Stereo Version",
       "url": "https://open.spotify.com/track/5Ua8GaCh6GAOXu3zXJXyzQ"
@@ -434,7 +434,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 131946,
       "name": "Confessin' the Blues",
       "url": "https://open.spotify.com/track/1jITXDhtm0vwjyeY3bLVN3"
@@ -524,7 +524,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 126853,
       "name": "Don't You Lie To Me",
       "url": "https://open.spotify.com/track/4swHUuuN5IDBFsBYAHBude"
@@ -762,7 +762,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 127880,
       "name": "Gun - Instrumental - Fast",
       "url": "https://open.spotify.com/track/2VfqSzJTiokxWLhTQE2icH"
@@ -780,7 +780,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-12",
+      "date_removed": null,
       "duration_ms": 186706,
       "name": "Havana Moon",
       "url": "https://open.spotify.com/track/1dwg7tCqzs616yYWj6NJ2i"
@@ -816,7 +816,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 117066,
       "name": "Hey Pedro",
       "url": "https://open.spotify.com/track/0VUc41McjQW8ILujFWlP5t"
@@ -960,7 +960,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 108320,
       "name": "I'm Talking About You",
       "url": "https://open.spotify.com/track/4Qz94VdIvKAmtBIyuoAZW9"
@@ -978,7 +978,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 178160,
       "name": "I've Changed",
       "url": "https://open.spotify.com/track/5qOIrW0uyiMtstW7m8IUsa"
@@ -1112,7 +1112,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 175560,
       "name": "Lady B. Goode",
       "url": "https://open.spotify.com/track/3mtry5ywMoh9yz388egZb9"
@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 163800,
       "name": "Little Queenie",
       "url": "https://open.spotify.com/track/0OA0lBeSRzpXyAbv8iTXw6"
@@ -1256,7 +1256,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 143240,
       "name": "Maybellene",
       "url": "https://open.spotify.com/track/3SQhmctWreNM0X6Zkm2K5R"
@@ -1292,7 +1292,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 131800,
       "name": "Memphis, Tennessee",
       "url": "https://open.spotify.com/track/3UYtylPa55RqHS1YDGZoLs"
@@ -1364,7 +1364,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 169000,
       "name": "Nadine - Stereo Remix",
       "url": "https://open.spotify.com/track/5QHrCl8kOMIFOWYQQzHXFH"
@@ -1526,7 +1526,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 195186,
       "name": "Reelin' And Rockin'",
       "url": "https://open.spotify.com/track/4goByJ8dubc57qxiT7AH9p"
@@ -1598,7 +1598,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-16",
+      "date_removed": null,
       "duration_ms": 144600,
       "name": "Roll Over Beethoven",
       "url": "https://open.spotify.com/track/6C7aTTCUWRK7dD379yUT3W"
@@ -1634,7 +1634,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 171413,
       "name": "Route 66",
       "url": "https://open.spotify.com/track/6TXnGAr6DLVYshIrMeP0lZ"
@@ -1868,7 +1868,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-16",
+      "date_removed": null,
       "duration_ms": 142586,
       "name": "Thirty Days",
       "url": "https://open.spotify.com/track/1t5XUupizGiodTmIhqcqD2"
@@ -1922,7 +1922,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 152026,
       "name": "Too Pooped To Pop - Single Version",
       "url": "https://open.spotify.com/track/70SnE9a7hQL6H067apySdF"
@@ -1940,7 +1940,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 91666,
       "name": "Trick Or Treat",
       "url": "https://open.spotify.com/track/4iTanMp15eReVbBMeQILEY"
@@ -2012,7 +2012,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-16",
+      "date_removed": null,
       "duration_ms": 182906,
       "name": "Wee Wee Hours",
       "url": "https://open.spotify.com/track/2P7FDhmzGh4iJ2ATb7d9oo"

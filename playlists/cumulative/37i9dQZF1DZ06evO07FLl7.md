@@ -2,7 +2,7 @@
 
 ### [This Is Tassia Reis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO07FLl7)
 
-> This is Tassia Reis\. The essential tracks, all in one playlist.
+> This Is Tassia Reis\. Los temas esenciales, todos en una lista.
 
 65 songs - 4 hr 12 min
 
@@ -12,7 +12,7 @@
 | [Abaixo do Radar](https://open.spotify.com/track/3avSwfBE4PjSLBMUGQ0jXi) | [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [Barba Negra](https://open.spotify.com/artist/5BPmokvgi18I0XyI0sK0Rq), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [As Incríveis Histórias De: Underground Superhero Vs o Terrível Ladrão de Loops \(Deluxe\)](https://open.spotify.com/album/3yZh6sqDa0RQzQgwciIhZa) | 3:01 | 2024-06-02 |  |
 | [Agora Que Eu Quero Ver](https://open.spotify.com/track/1RShRN08PjU20gFysZQDDX) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Douglas Sã](https://open.spotify.com/artist/02UytBDvw7HUUzB28LWydz) | [Tássia Reis](https://open.spotify.com/album/2ERj7DCOq6FAH2Y7qad5hN) | 3:05 | 2023-09-18 |  |
 | [Ansiejazz](https://open.spotify.com/track/0tZVFCC60EASRBcdv9OTjY) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera](https://open.spotify.com/album/3bgrfyRjo8FI7smYgASHwK) | 2:59 | 2023-09-18 |  |
-| [BABY](https://open.spotify.com/track/3caKU7alEI7k7umlX9m6UA) | [WillsBife](https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Kayuá](https://open.spotify.com/artist/6GRG2j3z9S1Lsa47YgPjkH) | [FEBRE AMARELA](https://open.spotify.com/album/6niwDsmhFpUuWWoiT9s3q4) | 3:22 | 2023-09-18 |  |
+| [BABY](https://open.spotify.com/track/3caKU7alEI7k7umlX9m6UA) | [WillsBife](https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Kayuá](https://open.spotify.com/artist/6GRG2j3z9S1Lsa47YgPjkH) | [FEBRE AMARELA](https://open.spotify.com/album/6niwDsmhFpUuWWoiT9s3q4) | 3:22 | 2023-09-18 | 2024-06-18 |
 | [Bem Longe do Fim](https://open.spotify.com/track/2j3dKkYkaknKhACoUxlPMs) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Bem Longe do Fim](https://open.spotify.com/album/1Q8a40uNxsPxfKOizRyTcH) | 3:33 | 2024-03-16 |  |
 | [BoxOkê](https://open.spotify.com/track/0G7AtVdCLQAGrGjRbLvCeK) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Caramelows](https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi), [ATR](https://open.spotify.com/artist/4l4EjHjmOJyDgzN9Vqukn0), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Remonta](https://open.spotify.com/album/0Ii4TGRRMO6hEKOu22d6CH) | 3:17 | 2023-09-18 |  |
 | [Bêbada de Feriado](https://open.spotify.com/track/23C1cUsh8QcMZZfUXiXbeR) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Jules Hiero](https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J) | [Próspera D+](https://open.spotify.com/album/2pwEcYczMERg84xdmJQzhj) | 3:54 | 2023-09-18 |  |

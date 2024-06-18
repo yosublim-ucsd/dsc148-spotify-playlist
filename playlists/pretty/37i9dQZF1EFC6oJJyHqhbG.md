@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5WOedGxnA81idBhEPfRzgl">Bonnie Mckee</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,298 likes - 126 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,297 likes - 126 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,8 +124,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 114 | [Green Grass](https://open.spotify.com/track/6ymEuVSzJHo2buCkyTyUgC) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Trouble](https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S) | 4:20 |
 | 115 | [Confessions of a Teenage Girl](https://open.spotify.com/track/1DETYnNVfsy8Pr49Aw54SH) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Trouble](https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S) | 2:55 |
 | 116 | [Resurrection](https://open.spotify.com/track/6kUVHH4fLCNHdtGgsRmsdJ) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [The Return \(Deadly Deluxe\)](https://open.spotify.com/album/4pAQW3M2Fe7jNTBe64CtKX) | 3:33 |
-| 117 | [Ferocious](https://open.spotify.com/track/0vHpQeHjHhsSpnMhQRPA09) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [The Sequel](https://open.spotify.com/album/7MOu9tp7BiEexvtVahvllb) | 3:24 |
-| 118 | [Electric Heaven](https://open.spotify.com/track/2I02ASw3z4X4GXOvnKn6sq) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:25 |
+| 117 | [Electric Heaven](https://open.spotify.com/track/2I02ASw3z4X4GXOvnKn6sq) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:25 |
+| 118 | [Ferocious](https://open.spotify.com/track/0vHpQeHjHhsSpnMhQRPA09) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [The Sequel](https://open.spotify.com/album/7MOu9tp7BiEexvtVahvllb) | 3:24 |
 | 119 | [Dressed To Kill](https://open.spotify.com/track/5Pz1poeYFm7MjbOkxpZoPd) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [The Sequel](https://open.spotify.com/album/7MOu9tp7BiEexvtVahvllb) | 2:59 |
 | 120 | [Worst in Me](https://open.spotify.com/track/4trfqZ3V0XpLvPL6h6Wr2s) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:42 |
 | 121 | [Soul Sucker](https://open.spotify.com/track/1DD3sH7gYsX2kzqIigjihp) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [The Return \(Deadly Deluxe\)](https://open.spotify.com/album/4pAQW3M2Fe7jNTBe64CtKX) | 3:26 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 125 | [Bad Witches](https://open.spotify.com/track/5v1PfygiFLtzkzzDxRUgm0) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T) | [V](https://open.spotify.com/album/2L7KIZcK3zvkxaZZ5S8I2k) | 2:49 |
 | 126 | [Burnin'](https://open.spotify.com/track/16zrncqFw9Jlh9x98rhVFp) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Dehiro](https://open.spotify.com/artist/5wveL5t3Phar9SspgSSf1f) | [V](https://open.spotify.com/album/2L7KIZcK3zvkxaZZ5S8I2k) | 3:29 |
 
-Snapshot ID: `AbUPngAAAABuASo6lVzkf9T4ShWGR1iP`
+Snapshot ID: `AbUVAgAAAAB7AyOc+z28frNmpmXm8n68`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,167 likes - 100 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,180 likes - 100 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,10 +95,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 85 | [La Superacción \- En Vivo en el Metropólitan](https://open.spotify.com/track/4SQEBJU7ISs2n9TqNPhD43) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR), [LOBEL](https://open.spotify.com/artist/6ZYC3LeRCpUZheX0WKVPGl) | [La Superacción \(En Vivo en el Metropólitan\)](https://open.spotify.com/album/6U3QnrJIkFiJACZv9WhXKO) | 5:17 |
 | 86 | [Julieta \- Vivo Moscú](https://open.spotify.com/track/1fKns7yBA2gao1CGrGVSlx) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [BABYROCK \(Vivo Moscú\)](https://open.spotify.com/album/3iWXsRv0pPb0OdcraHOjUh) | 3:45 |
 | 87 | [Bailando en el infierno \- En Vivo](https://open.spotify.com/track/46rlMCKqElZwLwMyUO1k0Q) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Bailando en el infierno \(En Vivo\)](https://open.spotify.com/album/1trxlnUc5BXdYd2TTX8Y6l) | 5:15 |
-| 88 | [Ni Mierda \- Vivo En Obras](https://open.spotify.com/track/5uNgDVyoegpIQcHu4Fto8h) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Ni Mierda \(Vivo En Obras\)](https://open.spotify.com/album/7kzJtlZEgD8fLVuT2wgoVs) | 5:11 |
+| 88 | [Colgado de la luna \- En vivo El Sol 2, abril 1998](https://open.spotify.com/track/4gPtmKoWB6X7vXxLn3Dhcf) | [Ariel Rot](https://open.spotify.com/artist/5kXK8waG1JeBQ8b5leWNSu) | [Colgado de la luna \(En vivo El Sol 2, abril 1998\)](https://open.spotify.com/album/0w8Lpf5B1qVbRid4BFMCWo) | 4:15 |
 | 89 | [Cinco Siglos Igual \(En Vivo Teatro Coliseo\)](https://open.spotify.com/track/7BvZe1dKoDjB7cWaenTgkX) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Cinco Siglos Igual \(En Vivo Teatro Coliseo\)](https://open.spotify.com/album/66xb8pQPGVe9j2f2LeAH5x) | 4:28 |
 | 90 | [Ojos Rojos \- En vivo](https://open.spotify.com/track/5Rbbj3DEeK2PXRkzbJVv19) | [Buitres](https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl) | [Ojos Rojos \(En Vivo\)](https://open.spotify.com/album/3ccn8gkTRS9ly0X6795rsO) | 3:20 |
-| 91 | [Colgado de la luna \- En vivo El Sol 2, abril 1998](https://open.spotify.com/track/4gPtmKoWB6X7vXxLn3Dhcf) | [Ariel Rot](https://open.spotify.com/artist/5kXK8waG1JeBQ8b5leWNSu) | [Colgado de la luna \(En vivo El Sol 2, abril 1998\)](https://open.spotify.com/album/0w8Lpf5B1qVbRid4BFMCWo) | 4:15 |
+| 91 | [Ni Mierda \- Vivo En Obras](https://open.spotify.com/track/5uNgDVyoegpIQcHu4Fto8h) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Ni Mierda \(Vivo En Obras\)](https://open.spotify.com/album/7kzJtlZEgD8fLVuT2wgoVs) | 5:11 |
 | 92 | [Una Persona Especial \(En Vivo\)](https://open.spotify.com/track/0ba0fBNrr6wuOzPXtIcvht) | [Smitten](https://open.spotify.com/artist/6b12ezIOzhz60P3CASuEtL) | [En Vivo en Chile Volumen 2](https://open.spotify.com/album/6FDXSzTmfZ1sVYf6D81HGv) | 2:25 |
 | 93 | [Dorado y Púrpura \- En Vivo](https://open.spotify.com/track/082OAP5nOvl0u5hJgs15rB) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [En Vivo En El Emergente 02.06.2023](https://open.spotify.com/album/75kVWmC0bVSKjv234nhQGl) | 10:17 |
 | 94 | [Para Que Sigamos Siendo \(En Vivo Estadio Obras\)](https://open.spotify.com/track/4dOghAt99V7KcMlPf7eKP7) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [XV Años \- En Vivo Estadio Obras](https://open.spotify.com/album/7unx0aGfSv4shjF38D3qwX) | 6:17 |

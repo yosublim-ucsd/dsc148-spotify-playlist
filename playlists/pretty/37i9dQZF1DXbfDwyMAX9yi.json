@@ -1,13 +1,33 @@
 {
   "description": "Our favorite subject? Their chemistry. Listen to the music from Maxton Hall: The World Between Us, now streaming on Prime Video.",
-  "num_followers": 48660,
+  "num_followers": 49144,
   "original_name": "Maxton Hall Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmzIHAAAAACD0c3IdC8f7hC3Vyx58jz0",
+  "snapshot_id": "ZnCafAAAAADn647RHHfupo1/EKjtANck",
   "tracks": [
+    {
+      "added_at": "2024-06-06 18:25:38",
+      "album": {
+        "name": "Maxton Hall: The World Between Us (Season 1) (Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/3AjUBcGTv6uYjAH0VUPRQt"
+      },
+      "artists": [
+        {
+          "name": "songs in cinema",
+          "url": "https://open.spotify.com/artist/23BjnFsuLGv1a5TNFqmSP6"
+        },
+        {
+          "name": "Kenyatta Joyner",
+          "url": "https://open.spotify.com/artist/1pZg0JIQopGmtqbcODO0uD"
+        }
+      ],
+      "duration_ms": 186586,
+      "name": "First and Last (Extended Album Version) (feat. Kenyatta Joyner) - from \"Maxton Hall\"",
+      "url": "https://open.spotify.com/track/6ix12EBGthzl5iOHKciJtA"
+    },
     {
       "added_at": "2024-06-06 18:25:38",
       "album": {
@@ -43,26 +63,6 @@
       "duration_ms": 202000,
       "name": "Where's My Love",
       "url": "https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn"
-    },
-    {
-      "added_at": "2024-06-06 18:25:38",
-      "album": {
-        "name": "Maxton Hall: The World Between Us (Season 1) (Amazon Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/3AjUBcGTv6uYjAH0VUPRQt"
-      },
-      "artists": [
-        {
-          "name": "songs in cinema",
-          "url": "https://open.spotify.com/artist/23BjnFsuLGv1a5TNFqmSP6"
-        },
-        {
-          "name": "Kenyatta Joyner",
-          "url": "https://open.spotify.com/artist/1pZg0JIQopGmtqbcODO0uD"
-        }
-      ],
-      "duration_ms": 186586,
-      "name": "First and Last (Extended Album Version) (feat. Kenyatta Joyner) - from \"Maxton Hall\"",
-      "url": "https://open.spotify.com/track/6ix12EBGthzl5iOHKciJtA"
     },
     {
       "added_at": "2024-06-06 18:25:38",

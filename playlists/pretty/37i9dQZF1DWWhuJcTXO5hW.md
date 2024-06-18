@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 
 > The most chill instrumental oud sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,116 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,154 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 | 34 | [Zeynep's Romance](https://open.spotify.com/track/46SUVokaUmUCcGTRqX7fM3) | [Brian Keane](https://open.spotify.com/artist/0YF3htY87UKOd5AOQwEuPh), [Omar Faruk Tekbilek](https://open.spotify.com/artist/0PLhi5tAE8QcXnuEMui2Oe) | [Kelebek / The Butterfly \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/23treRoNBDr6nTpG9zp12k) | 4:07 |
 | 35 | [Sama' Ay Sihr Misr](https://open.spotify.com/track/3iflS35RQOA8uPKQ9TF455) | [Saber Abdelsattar](https://open.spotify.com/artist/2TtJW54EuW7FoqRimKehA5) | [Alabanza \- Tasabih](https://open.spotify.com/album/4NsiDOK7VsDTJoEQQvzCK0) | 4:35 |
 | 36 | [Solo oud \(feat\. Amer Ammouri\)](https://open.spotify.com/track/0it5BioYQs1dC6VKDgbaH1) | [Salatin Al Tarab Orchestra](https://open.spotify.com/artist/4hTMpf0ODUmFlW4uzJTx6l), [Amer Ammouri](https://open.spotify.com/artist/6faOVTE4L8BoaUeYKh3uR9) | [Arabian Classics for Belly Dance](https://open.spotify.com/album/1RYwe9ttWsCXR7o5wYbava) | 1:02 |
-| 37 | [Makam Ajam / Tala'a Mint Beit Abouha \- Takassim](https://open.spotify.com/track/1ahxUKddfqp0ZRTySX4vwZ) | [Omar Bashir](https://open.spotify.com/artist/4IRXGwXby9WAyL7hrgLOQH) | [To My Father](https://open.spotify.com/album/5IQmbdf0EFqGyuwpV6J85n) | 4:10 |
-| 38 | [FIRAT](https://open.spotify.com/track/3vjOp0AczE2nzHxMxr8Dwj) | [ismet Demirhan](https://open.spotify.com/artist/6JmJZt2L5BFINYsz9IldUV) | [ISMET DEMIRHAN](https://open.spotify.com/album/2N3iaWdPPDxXuMukwkdlOo) | 4:47 |
+| 37 | [FIRAT](https://open.spotify.com/track/3vjOp0AczE2nzHxMxr8Dwj) | [ismet Demirhan](https://open.spotify.com/artist/6JmJZt2L5BFINYsz9IldUV) | [ISMET DEMIRHAN](https://open.spotify.com/album/2N3iaWdPPDxXuMukwkdlOo) | 4:47 |
+| 38 | [Makam Ajam / Tala'a Mint Beit Abouha \- Takassim](https://open.spotify.com/track/1ahxUKddfqp0ZRTySX4vwZ) | [Omar Bashir](https://open.spotify.com/artist/4IRXGwXby9WAyL7hrgLOQH) | [To My Father](https://open.spotify.com/album/5IQmbdf0EFqGyuwpV6J85n) | 4:10 |
 | 39 | [Turkish Coffee](https://open.spotify.com/track/3169aUzrWTznvVupy1f20E) | [Basel Rajoub](https://open.spotify.com/artist/68rxFd814z29ByrpJtXcNp) | [Khameer](https://open.spotify.com/album/1nGR5fdDSZrUkeUrdbPxDC) | 4:24 |
 | 40 | [Alhambra Arabic Moorish Princess Song for Flamenco Guitar](https://open.spotify.com/track/0vgccJeXNDJ5KudfDDzhOu) | [Andrei Krylov](https://open.spotify.com/artist/7Ho9ldCZU5NDAvEvWU56Wv) | [Music of Spanish Streets and New Flamenco Gypsy Guitar \(For Best Romantic Ambience, Lounge, Dining, Spa, Party\)](https://open.spotify.com/album/7xYgUEQ6BM0haJCKvA8qHv) | 4:11 |
 | 41 | [Nara](https://open.spotify.com/track/49ppdLKp66bzhMWoK3wlzy) | [Imane Homsy](https://open.spotify.com/artist/3rSLFFNKHgWYbmDi1DoC5R), [Charbel Rouhana](https://open.spotify.com/artist/544JiY0RNPRFaxnkLS3cFL) | [Charbel Rouhana: the Art of the Middle Eastern Oud \- New Perspectives On Trad\. Maqams](https://open.spotify.com/album/56H6omd7p4dFyx1gPMEM6e) | 2:15 |

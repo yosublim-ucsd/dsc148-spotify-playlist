@@ -91,22 +91,6 @@
     {
       "added_at": "2024-04-22 05:06:08",
       "album": {
-        "name": "Still Life",
-        "url": "https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 188369,
-      "name": "Still Life",
-      "url": "https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW"
-    },
-    {
-      "added_at": "2024-04-22 05:06:08",
-      "album": {
         "name": "Like Water - The 1st Mini Album",
         "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 244546,
       "name": "When This Rain Stops",
       "url": "https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf"
+    },
+    {
+      "added_at": "2024-04-22 05:06:08",
+      "album": {
+        "name": "Still Life",
+        "url": "https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 188369,
+      "name": "Still Life",
+      "url": "https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW"
     },
     {
       "added_at": "2024-04-22 05:06:08",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-04-22 05:06:08",
       "album": {
-        "name": "H1-KEYnote #2 [Deeper]",
-        "url": "https://open.spotify.com/album/1v8S64LHiST7uozBRziaIN"
-      },
-      "artists": [
-        {
-          "name": "H1-KEY",
-          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
-        }
-      ],
-      "duration_ms": 216160,
-      "name": "Deeper",
-      "url": "https://open.spotify.com/track/6T2XxCNGgkbFvyyuJNN3fQ"
-    },
-    {
-      "added_at": "2024-04-22 05:06:08",
-      "album": {
         "name": "ERROR",
         "url": "https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 198558,
       "name": "Panorama",
       "url": "https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i"
+    },
+    {
+      "added_at": "2024-04-22 05:06:08",
+      "album": {
+        "name": "H1-KEYnote #2 [Deeper]",
+        "url": "https://open.spotify.com/album/1v8S64LHiST7uozBRziaIN"
+      },
+      "artists": [
+        {
+          "name": "H1-KEY",
+          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
+        }
+      ],
+      "duration_ms": 216160,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/6T2XxCNGgkbFvyyuJNN3fQ"
     },
     {
       "added_at": "2024-04-22 05:06:08",

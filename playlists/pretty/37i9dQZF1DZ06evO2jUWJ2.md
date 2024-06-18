@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 
 > This is Elevation Worship\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,140 likes - 50 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,246 likes - 50 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 | 33 | [It Is So](https://open.spotify.com/track/4A7X1OObKEp7KAZOYrcPnr) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [At Midnight \- EP](https://open.spotify.com/album/0aUzWjo4EL7n4kjlX0yTCu) | 5:50 |
 | 34 | [Tumbas A Jardines \(Graves Into Gardens\) \(feat\. Brandon Lake\)](https://open.spotify.com/track/0LetLotK5ziqrdD7WWpGN1) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Elevation Español](https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Tumbas A Jardines](https://open.spotify.com/album/6x77tBsuSV3YvKbFx2NAYf) | 5:53 |
 | 35 | [Old Church Basement \(feat\. Dante Bowe\)](https://open.spotify.com/track/5j4EazAPhtFyHhwNpbNzEx) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 6:42 |
-| 36 | [All Of A Sudden \(feat\. Tiffany Hudson & Chris Brown\)](https://open.spotify.com/track/4HAsNHe4VE0kQoFutbZxOK) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [All Of A Sudden / Another One](https://open.spotify.com/album/1GS3eQSd9wKyW1IoeBpzfI) | 7:55 |
-| 37 | [QUIET \(Stripped\) \[Morning & Evening\]](https://open.spotify.com/track/1CwJWOYHSt3zOeEjP5cEYC) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [Graves Into Gardens: Morning & Evening](https://open.spotify.com/album/4FSbyaejQ4FwM396Jl0Zc1) | 3:45 |
+| 36 | [QUIET \(Stripped\) \[Morning & Evening\]](https://open.spotify.com/track/1CwJWOYHSt3zOeEjP5cEYC) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [Graves Into Gardens: Morning & Evening](https://open.spotify.com/album/4FSbyaejQ4FwM396Jl0Zc1) | 3:45 |
+| 37 | [All Of A Sudden \(feat\. Tiffany Hudson & Chris Brown\)](https://open.spotify.com/track/4HAsNHe4VE0kQoFutbZxOK) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [All Of A Sudden / Another One](https://open.spotify.com/album/1GS3eQSd9wKyW1IoeBpzfI) | 7:55 |
 | 38 | [Never Lost \(Live\) \(feat\. Tauren Wells\)](https://open.spotify.com/track/0Ck8Iw5OM5Ag8q2CjBqjrV) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6) | 6:50 |
 | 39 | [Used To This \(feat\. Naomi Raine & Brandon Lake\)](https://open.spotify.com/track/1d7RCdfczxJNVSgXL4Gkil) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 7:37 |
 | 40 | [La Bendición \(The Blessing\)](https://open.spotify.com/track/5KNP7zONOFZqOL3ixeWMOQ) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Elevation Español](https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0) | [Tumbas A Jardines](https://open.spotify.com/album/6x77tBsuSV3YvKbFx2NAYf) | 6:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 | 49 | [There Is a Cloud](https://open.spotify.com/track/2sn2gK89nnjXgJ0iLO4Gps) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [There Is a Cloud](https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB) | 5:47 |
 | 50 | [The One You Love](https://open.spotify.com/track/7ssoLXeu8jLn1hLbPgG3TK) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [LION](https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh) | 7:57 |
 
-Snapshot ID: `ZmzZgAAAAAAPNvAC1GomS3Da7TMGBHsT`
+Snapshot ID: `Zm4rAAAAAACDn0auMFRX+nImGUpe/eQV`

@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 467847,
+  "num_followers": 467839,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -255,26 +255,22 @@
     {
       "added_at": "2024-06-14 03:03:00",
       "album": {
-        "name": "Can't Get Over You",
-        "url": "https://open.spotify.com/album/5McVvbere3ujsgUgEp5gGR"
+        "name": "Outside Of Love (Zerb Remix)",
+        "url": "https://open.spotify.com/album/24mUalHE64ktRE9OiW5PgE"
       },
       "artists": [
         {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
         },
         {
-          "name": "The Otherz",
-          "url": "https://open.spotify.com/artist/2vi0mEbkU7fjjyJs1dcukY"
-        },
-        {
-          "name": "Gabriel Froede",
-          "url": "https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx"
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
         }
       ],
-      "duration_ms": 142439,
-      "name": "Can't Get Over You",
-      "url": "https://open.spotify.com/track/3dTmgecC7MCMbteWjf8Ls7"
+      "duration_ms": 192317,
+      "name": "Outside Of Love - Zerb Remix",
+      "url": "https://open.spotify.com/track/7pO5CuNmPjoG2c27YWliB5"
     },
     {
       "added_at": "2024-06-14 03:03:00",
@@ -319,6 +315,30 @@
     {
       "added_at": "2024-06-14 03:03:00",
       "album": {
+        "name": "Can't Get Over You",
+        "url": "https://open.spotify.com/album/5McVvbere3ujsgUgEp5gGR"
+      },
+      "artists": [
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "The Otherz",
+          "url": "https://open.spotify.com/artist/2vi0mEbkU7fjjyJs1dcukY"
+        },
+        {
+          "name": "Gabriel Froede",
+          "url": "https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx"
+        }
+      ],
+      "duration_ms": 142439,
+      "name": "Can't Get Over You",
+      "url": "https://open.spotify.com/track/3dTmgecC7MCMbteWjf8Ls7"
+    },
+    {
+      "added_at": "2024-06-14 03:03:00",
+      "album": {
         "name": "Algum Ritmo (Remix)",
         "url": "https://open.spotify.com/album/1FfRtToPv63IurU5tHWyn2"
       },
@@ -339,26 +359,6 @@
       "duration_ms": 197419,
       "name": "Algum Ritmo - Remix",
       "url": "https://open.spotify.com/track/2oMlMXJUUKtLrsw6jCVyHG"
-    },
-    {
-      "added_at": "2024-06-14 03:03:00",
-      "album": {
-        "name": "Outside Of Love (Zerb Remix)",
-        "url": "https://open.spotify.com/album/24mUalHE64ktRE9OiW5PgE"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
-        }
-      ],
-      "duration_ms": 192317,
-      "name": "Outside Of Love - Zerb Remix",
-      "url": "https://open.spotify.com/track/7pO5CuNmPjoG2c27YWliB5"
     },
     {
       "added_at": "2024-06-14 03:03:00",
@@ -535,22 +535,26 @@
     {
       "added_at": "2024-06-14 03:03:00",
       "album": {
-        "name": "Telegrama (Double MZK Remix)",
-        "url": "https://open.spotify.com/album/5CyzZozQCAbNg8t1ww9UD2"
+        "name": "Pro Dia Nascer Feliz",
+        "url": "https://open.spotify.com/album/2CObgWbsU4BPyiqfyG9IGk"
       },
       "artists": [
         {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+          "name": "Jetlag Music",
+          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
         },
         {
-          "name": "Double MZK",
-          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+          "name": "Malifoo",
+          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
+        },
+        {
+          "name": "Frejat",
+          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
         }
       ],
-      "duration_ms": 159193,
-      "name": "Telegrama (Double MZK Remix)",
-      "url": "https://open.spotify.com/track/6ZT3MwKnS3u4IvNFT8iz8i"
+      "duration_ms": 203225,
+      "name": "Pro Dia Nascer Feliz",
+      "url": "https://open.spotify.com/track/2EjGS0YJPaf3C4TCmJddGL"
     },
     {
       "added_at": "2024-06-14 03:03:00",
@@ -579,26 +583,22 @@
     {
       "added_at": "2024-06-14 03:03:00",
       "album": {
-        "name": "Pro Dia Nascer Feliz",
-        "url": "https://open.spotify.com/album/2CObgWbsU4BPyiqfyG9IGk"
+        "name": "Telegrama (Double MZK Remix)",
+        "url": "https://open.spotify.com/album/5CyzZozQCAbNg8t1ww9UD2"
       },
       "artists": [
         {
-          "name": "Jetlag Music",
-          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
         },
         {
-          "name": "Malifoo",
-          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
-        },
-        {
-          "name": "Frejat",
-          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
         }
       ],
-      "duration_ms": 203225,
-      "name": "Pro Dia Nascer Feliz",
-      "url": "https://open.spotify.com/track/2EjGS0YJPaf3C4TCmJddGL"
+      "duration_ms": 159193,
+      "name": "Telegrama (Double MZK Remix)",
+      "url": "https://open.spotify.com/track/6ZT3MwKnS3u4IvNFT8iz8i"
     },
     {
       "added_at": "2024-06-14 03:03:00",
@@ -827,26 +827,6 @@
     {
       "added_at": "2024-06-14 03:03:00",
       "album": {
-        "name": "Fiz Esse Som Pra Voc\u00ea (Double MZK Remix)",
-        "url": "https://open.spotify.com/album/2XCHq2MObCG83E7w3umWCT"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Double MZK",
-          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
-        }
-      ],
-      "duration_ms": 209032,
-      "name": "Fiz Esse Som Pra Voc\u00ea - Double MZK Remix",
-      "url": "https://open.spotify.com/track/2HI7WY6XIzVB47espl3Sho"
-    },
-    {
-      "added_at": "2024-06-14 03:03:00",
-      "album": {
         "name": "Halfway (feat. Twan Ray)",
         "url": "https://open.spotify.com/album/3Ql67TcOvEK8VOSML3UEv1"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 158416,
       "name": "Halfway (feat. Twan Ray)",
       "url": "https://open.spotify.com/track/1BAupWJ7hkJFJuOL0eHb45"
+    },
+    {
+      "added_at": "2024-06-14 03:03:00",
+      "album": {
+        "name": "Fiz Esse Som Pra Voc\u00ea (Double MZK Remix)",
+        "url": "https://open.spotify.com/album/2XCHq2MObCG83E7w3umWCT"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+        }
+      ],
+      "duration_ms": 209032,
+      "name": "Fiz Esse Som Pra Voc\u00ea - Double MZK Remix",
+      "url": "https://open.spotify.com/track/2HI7WY6XIzVB47espl3Sho"
     },
     {
       "added_at": "2024-06-14 03:03:00",
@@ -1135,30 +1135,6 @@
     {
       "added_at": "2024-06-14 03:03:00",
       "album": {
-        "name": "Lil\u00e1s",
-        "url": "https://open.spotify.com/album/28FXnWF3WGPDZLgNP08M9W"
-      },
-      "artists": [
-        {
-          "name": "Pic Schmitz",
-          "url": "https://open.spotify.com/artist/1sE1LdTZxsVYyGl84vl9zl"
-        },
-        {
-          "name": "Windy City Classics",
-          "url": "https://open.spotify.com/artist/7DHW83PorP554oWiE7pn8m"
-        },
-        {
-          "name": "Lucas Borchardt",
-          "url": "https://open.spotify.com/artist/1awSZh0X5DJMLQVgx8TyeR"
-        }
-      ],
-      "duration_ms": 187741,
-      "name": "Lil\u00e1s",
-      "url": "https://open.spotify.com/track/3MCmAAKZRaIFRhpfSYo6OP"
-    },
-    {
-      "added_at": "2024-06-14 03:03:00",
-      "album": {
         "name": "Todo Homem (Bhaskar, Mojjo Remix)",
         "url": "https://open.spotify.com/album/3Yo6lJRghDLJlv9v0oqyoN"
       },
@@ -1179,6 +1155,30 @@
       "duration_ms": 269015,
       "name": "Todo Homem - Bhaskar, Mojjo Remix",
       "url": "https://open.spotify.com/track/40gvTsSMqg7yiEwIMvsrCn"
+    },
+    {
+      "added_at": "2024-06-14 03:03:00",
+      "album": {
+        "name": "Lil\u00e1s",
+        "url": "https://open.spotify.com/album/28FXnWF3WGPDZLgNP08M9W"
+      },
+      "artists": [
+        {
+          "name": "Pic Schmitz",
+          "url": "https://open.spotify.com/artist/1sE1LdTZxsVYyGl84vl9zl"
+        },
+        {
+          "name": "Windy City Classics",
+          "url": "https://open.spotify.com/artist/7DHW83PorP554oWiE7pn8m"
+        },
+        {
+          "name": "Lucas Borchardt",
+          "url": "https://open.spotify.com/artist/1awSZh0X5DJMLQVgx8TyeR"
+        }
+      ],
+      "duration_ms": 187741,
+      "name": "Lil\u00e1s",
+      "url": "https://open.spotify.com/track/3MCmAAKZRaIFRhpfSYo6OP"
     },
     {
       "added_at": "2024-06-14 03:03:00",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2024-06-14 03:03:00",
       "album": {
-        "name": "O Descobridor dos Sete Mares",
-        "url": "https://open.spotify.com/album/4DBbseTNsBbkEDe2mTW2cd"
-      },
-      "artists": [
-        {
-          "name": "WhyNot Music",
-          "url": "https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m"
-        },
-        {
-          "name": "Rodrigo S\u00e1",
-          "url": "https://open.spotify.com/artist/1ttThBcIEeYfzDZ4rYT3Ho"
-        }
-      ],
-      "duration_ms": 212640,
-      "name": "O Descobridor dos Sete Mares",
-      "url": "https://open.spotify.com/track/6bEBNUXuY9zKjSYFGGyL1E"
-    },
-    {
-      "added_at": "2024-06-14 03:03:00",
-      "album": {
         "name": "Eu Vou Pra Bahia (Felguk, Watzgood Remix)",
         "url": "https://open.spotify.com/album/6t5UoBRyZejocCUowTmzSW"
       },
@@ -1271,6 +1251,26 @@
     {
       "added_at": "2024-06-14 03:03:00",
       "album": {
+        "name": "O Descobridor dos Sete Mares",
+        "url": "https://open.spotify.com/album/4DBbseTNsBbkEDe2mTW2cd"
+      },
+      "artists": [
+        {
+          "name": "WhyNot Music",
+          "url": "https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m"
+        },
+        {
+          "name": "Rodrigo S\u00e1",
+          "url": "https://open.spotify.com/artist/1ttThBcIEeYfzDZ4rYT3Ho"
+        }
+      ],
+      "duration_ms": 212640,
+      "name": "O Descobridor dos Sete Mares",
+      "url": "https://open.spotify.com/track/6bEBNUXuY9zKjSYFGGyL1E"
+    },
+    {
+      "added_at": "2024-06-14 03:03:00",
+      "album": {
         "name": "Mais um Dia",
         "url": "https://open.spotify.com/album/5sdl2ykjnptMYB9ohAAxLR"
       },
@@ -1283,6 +1283,26 @@
       "duration_ms": 138536,
       "name": "Mais um Dia",
       "url": "https://open.spotify.com/track/3ITlmTf0fgkY0YLWUQzGfk"
+    },
+    {
+      "added_at": "2024-06-14 03:03:00",
+      "album": {
+        "name": "When In Rome",
+        "url": "https://open.spotify.com/album/3daubnhKaUTkjWO1DO310f"
+      },
+      "artists": [
+        {
+          "name": "GATT\u00dcSO",
+          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
+        },
+        {
+          "name": "Damon Sharpe",
+          "url": "https://open.spotify.com/artist/3Woqe3KegExVyrEK1I6ITJ"
+        }
+      ],
+      "duration_ms": 194767,
+      "name": "When In Rome",
+      "url": "https://open.spotify.com/track/1ysP0xeOMwpdaPvYbZtBN5"
     },
     {
       "added_at": "2024-06-14 03:03:00",
@@ -1307,26 +1327,6 @@
       "duration_ms": 174219,
       "name": "Se Voc\u00ea Quiser",
       "url": "https://open.spotify.com/track/0Zk7UObYCZLCLd1pqN3Gjb"
-    },
-    {
-      "added_at": "2024-06-14 03:03:00",
-      "album": {
-        "name": "When In Rome",
-        "url": "https://open.spotify.com/album/3daubnhKaUTkjWO1DO310f"
-      },
-      "artists": [
-        {
-          "name": "GATT\u00dcSO",
-          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
-        },
-        {
-          "name": "Damon Sharpe",
-          "url": "https://open.spotify.com/artist/3Woqe3KegExVyrEK1I6ITJ"
-        }
-      ],
-      "duration_ms": 194767,
-      "name": "When In Rome",
-      "url": "https://open.spotify.com/track/1ysP0xeOMwpdaPvYbZtBN5"
     },
     {
       "added_at": "2024-06-14 03:03:00",

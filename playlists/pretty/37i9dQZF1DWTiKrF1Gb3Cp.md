@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 
 > Musicaliza tu sesión de videojuegos con estos versos de barrio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,718 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,774 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 | 82 | [Se Rumora](https://open.spotify.com/track/5kK5N62V7fPenNQZESjuH8) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Se Rumora](https://open.spotify.com/album/7pYSDOHmFBIwXSD8fjgElh) | 4:12 |
 | 83 | [Adentro de la Disco \(feat\. Myke Towers\)](https://open.spotify.com/track/2QJQJEI9WvhqQViGS58gZ7) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Adentro de la Disco \(feat\. Myke Towers\)](https://open.spotify.com/album/2gRPPH31jHTGwhniJINHVr) | 3:12 |
 | 84 | [El rápido y la muerte](https://open.spotify.com/track/1IsSTMD9AL0wokF1pfxiyd) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Noel Torres](https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG) | [El rápido y la muerte](https://open.spotify.com/album/4KEAWW8uiHym3lJLk35aKb) | 2:20 |
-| 85 | [Alucin Machin](https://open.spotify.com/track/5AibZkdAmpg1cw9qP9KnsH) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX) | [Bajo Penumbra](https://open.spotify.com/album/7ilmJebvGeONTImSes5gu7) | 4:26 |
-| 86 | [El Corrido Del MC](https://open.spotify.com/track/4yV80LJGxo6LxrTRglFyLJ) | [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [El Corrido Del MC](https://open.spotify.com/album/2zhxO2yyAg7TPDZJkyvpXo) | 2:37 |
+| 85 | [El Corrido Del MC](https://open.spotify.com/track/4yV80LJGxo6LxrTRglFyLJ) | [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [El Corrido Del MC](https://open.spotify.com/album/2zhxO2yyAg7TPDZJkyvpXo) | 2:37 |
+| 86 | [Alucin Machin](https://open.spotify.com/track/5AibZkdAmpg1cw9qP9KnsH) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX) | [Bajo Penumbra](https://open.spotify.com/album/7ilmJebvGeONTImSes5gu7) | 4:26 |
 | 87 | [DDD \(Don Dimadon\)](https://open.spotify.com/track/4RD4bv5iG8233iA3VMgPcF) | [TUNDER](https://open.spotify.com/artist/6GMxW7EAQQjvk00uTF8pzZ), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy) | [DDD \(Don Dimadon\)](https://open.spotify.com/album/57rh0geFIqYsrhh7qq9VGe) | 3:05 |
 | 88 | [VRGCRA](https://open.spotify.com/track/0b7azY2RKZWzYStlCui40W) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [VRGCRA](https://open.spotify.com/album/1ZpLpDdS8bX7Yd8ARkDfTx) | 3:58 |
 | 89 | [Fe](https://open.spotify.com/track/5E3DUwke6Or4h5rosrn5Z1) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Fe](https://open.spotify.com/album/0Roxdafecg5p3VQXUBfNkP) | 4:14 |

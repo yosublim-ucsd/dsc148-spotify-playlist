@@ -1,12 +1,12 @@
 {
-  "description": "This is Five Finger Death Punch. The essential tracks, all in one playlist.",
-  "num_followers": 541487,
+  "description": "This Is Five Finger Death Punch. Los temas esenciales, todos en una lista.",
+  "num_followers": 541668,
   "original_name": "This Is Five Finger Death Punch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmzZgAAAAACJVjwEGP1UXk8iwawAP1dR",
+  "snapshot_id": "Zm4rAAAAAACOzjHu6LD4mljxtNCMF1Jg",
   "tracks": [
     {
       "added_at": null,
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "And Justice for None (Deluxe)",
-        "url": "https://open.spotify.com/album/7BXbyT2VJgiD6eYLPJrsJp"
+        "name": "American Capitalist",
+        "url": "https://open.spotify.com/album/0AiuvwadoYnRjDJRdpmusr"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 227309,
-      "name": "When the Seasons Change",
-      "url": "https://open.spotify.com/track/093pLJk6h71BCYyrcVQGEO"
+      "duration_ms": 203813,
+      "name": "The Pride",
+      "url": "https://open.spotify.com/track/4HQAeEIplslteReNxE8jFW"
     },
     {
       "added_at": null,
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Capitalist",
-        "url": "https://open.spotify.com/album/0AiuvwadoYnRjDJRdpmusr"
+        "name": "And Justice for None (Deluxe)",
+        "url": "https://open.spotify.com/album/7BXbyT2VJgiD6eYLPJrsJp"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 203813,
-      "name": "The Pride",
-      "url": "https://open.spotify.com/track/4HQAeEIplslteReNxE8jFW"
+      "duration_ms": 227309,
+      "name": "When the Seasons Change",
+      "url": "https://open.spotify.com/track/093pLJk6h71BCYyrcVQGEO"
     },
     {
       "added_at": null,

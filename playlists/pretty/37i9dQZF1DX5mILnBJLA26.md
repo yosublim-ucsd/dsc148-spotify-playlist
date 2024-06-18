@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 ### [AMAPIANO grooves](https://open.spotify.com/playlist/37i9dQZF1DX5mILnBJLA26)
 
-> Celebrating music as the tool to freedom of expression\. Happy Youth Day!
+> The biggest Amapiano singles making waves in South Africa and the world\. Cover:  <a href="https://open.spotify.com/artist/1lDWyPzSZOqP5jfZNm5lLI?si=8dM77iyPQ8C\_fJOHKg8xcw">DJ Stokie</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 787,055 likes - 50 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 787,670 likes - 50 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 49 | [Magents \(Khululu\)](https://open.spotify.com/track/6lQTHlyhOsQ0FSSWRNepce) | [Mr JazziQ](https://open.spotify.com/artist/1nVEvn7RMNxj27rn0WE13E), [Robot Boii](https://open.spotify.com/artist/66MEUwWMZWL1PlTEHx8Grp), [Jay Music](https://open.spotify.com/artist/7AE6YSdoxlOzzW4kaYcNdi) | [Magents \(Khululu\)](https://open.spotify.com/album/4CqntmDXUQkYkfJYroFAs0) | 7:00 |
 | 50 | [Amalobolo](https://open.spotify.com/track/6SYd9stPpCzbuLAeU3FR9K) | [Kelvin Momo](https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v), [Babalwa M](https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG), [Stixx](https://open.spotify.com/artist/3rIVgeRWFhGxhFF9wgJFC2), [Nia Pearl](https://open.spotify.com/artist/7kIugQ8wJXbh4k72hgMuyK) | [Kurhula](https://open.spotify.com/album/13msT9b5VOsDENyqMX7V1c) | 8:29 |
 
-Snapshot ID: `Zm7BhQAAAAA6B1smXO0fRMz4kNdJ0hIg`
+Snapshot ID: `ZnAoLwAAAADi6bo3IkdeoXq2DEbmuVC1`

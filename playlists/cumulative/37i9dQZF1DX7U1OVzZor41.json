@@ -673,6 +673,24 @@
     },
     {
       "album": {
+        "name": "\u9084\u662f\u60f3\u5ff5",
+        "url": "https://open.spotify.com/album/4Bay19OUdTjD1eB7NOF4dP"
+      },
+      "artists": [
+        {
+          "name": "Jia Jia",
+          "url": "https://open.spotify.com/artist/5qUYuf6cIHU241KxPyDMBp"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273405,
+      "name": "\u5bb6\u5bb6\u9152",
+      "url": "https://open.spotify.com/track/6mO5fCJKvB9tr5RAFvBO7z"
+    },
+    {
+      "album": {
         "name": "\u5c0f\u5e78\u904b",
         "url": "https://open.spotify.com/album/6PqQY9oiU7zXQEuWUYBZs5"
       },
@@ -1470,7 +1488,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 282770,
       "name": "\u9ad4\u9762",
       "url": "https://open.spotify.com/track/7oOfvZDUqhiJd9OC2Tq8Nh"

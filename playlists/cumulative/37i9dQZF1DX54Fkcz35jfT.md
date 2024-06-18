@@ -4,7 +4,7 @@
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: 打首獄門同好会
 
-318 songs - 18 hr 19 min
+319 songs - 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Dive](https://open.spotify.com/track/0e5R5RHym5iKSPUzES8Nt6) | [Kanna](https://open.spotify.com/artist/47U5PirBYuleMsuD307qej) | [Youth](https://open.spotify.com/album/1QS0b8uup5KXDD858XJecR) | 3:00 | 2023-12-05 | 2023-12-20 |
 | [Dive in Your Faith](https://open.spotify.com/track/0pzu9pwttcFnbx822XA9xx) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Dive in Your Faith](https://open.spotify.com/album/38QdEHccuklJS8B35kl2qE) | 3:27 | 2023-07-20 | 2023-12-27 |
 | [DO THE DANCE](https://open.spotify.com/track/0bAUr8cmsxdjIIyGNJmc2F) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [DO THE DANCE](https://open.spotify.com/album/7iWCRdzPIQw6HiPFvTb5l2) | 3:16 | 2023-07-27 | 2023-09-30 |
+| [DO THE DANCE](https://open.spotify.com/track/0eCjxBaTwjCNksbytKPlqh) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E) | 3:16 | 2024-06-11 |  |
 | [DO THE DANCE](https://open.spotify.com/track/1dyxnU4Me5DETPSXkNpaDl) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0) | 3:16 | 2023-09-26 | 2024-04-19 |
 | [DO THE DANCE](https://open.spotify.com/track/6fqHrKRWVAobPJBPvgMEqM) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/7tf9tNN8G9jS6kqCkbDy12) | 3:16 | 2023-07-27 | 2023-07-29 |
 | [Drain Water](https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:11 | 2023-07-20 |  |
@@ -269,7 +270,7 @@
 | [ZERO](https://open.spotify.com/track/5XdByWSKX0rkqG3YkNTjDh) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh) | [ZERO](https://open.spotify.com/album/76kQt4pqSy9i9TB3L2aQ2q) | 3:07 | 2024-02-15 |  |
 | [あつまれ！パーティーピーポー](https://open.spotify.com/track/1dIvfhOBd3UpHfuaQnFlhr) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [BEST of the Tank\-top](https://open.spotify.com/album/0Ng4VLkEM5p6YLXmqJi5Gf) | 3:14 | 2023-11-14 | 2023-11-22 |
 | [かわE](https://open.spotify.com/track/4EjGcScTz7Uy1ISJfeeeEd) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [BEST of the Tank\-top](https://open.spotify.com/album/0Ng4VLkEM5p6YLXmqJi5Gf) | 3:24 | 2023-11-14 | 2023-12-22 |
-| [むずかしいてれぱしい](https://open.spotify.com/track/3gK4FH3UWiitJgVzvgun0K) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [音樂](https://open.spotify.com/album/6YEPeFr7BwExXt6ZxLQ8SM) | 2:49 | 2024-04-30 |  |
+| [むずかしいてれぱしい](https://open.spotify.com/track/3gK4FH3UWiitJgVzvgun0K) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [音樂](https://open.spotify.com/album/6YEPeFr7BwExXt6ZxLQ8SM) | 2:49 | 2024-04-30 | 2024-06-18 |
 | [ゆらめき \(YURAMEKI\)](https://open.spotify.com/track/3wfpG43c7wdb0LofeE0NlM) | [DIR EN GREY](https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA) | [19990120](https://open.spotify.com/album/5xkvN0sLl4iaokgZixvhvz) | 5:09 | 2024-01-31 | 2024-03-20 |
 | [アイデンティティー](https://open.spotify.com/track/1oe5T289Oiv3s6a2QAxAyr) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [アイデンティティー](https://open.spotify.com/album/5pF9bdQUrBXSafswwiTUfP) | 4:01 | 2024-03-26 | 2024-05-08 |
 | [アンセム](https://open.spotify.com/track/5ZMS3dRr2INkP6r2TZnU6m) | [LINK](https://open.spotify.com/artist/6RqbKKub3TQaChfwAqYooJ) | [太陽と月のビートニクス](https://open.spotify.com/album/06dTtsuu4ZddnDTW7mIUpa) | 2:48 | 2023-12-05 | 2023-12-20 |

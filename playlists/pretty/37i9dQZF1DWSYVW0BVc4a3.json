@@ -1,12 +1,12 @@
 {
-  "description": "one life",
-  "num_followers": 140789,
+  "description": "6 in the morning",
+  "num_followers": 141812,
   "original_name": "Open Air",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmxLqgAAAAChpCm1oP4ZRXAhMW2o7LGV",
+  "snapshot_id": "ZnAC1wAAAAAc4NXCGIW5MoStglCTNep8",
   "tracks": [
     {
       "added_at": "2024-06-13 22:00:00",
@@ -47,6 +47,30 @@
       "duration_ms": 145454,
       "name": "BLOW (WHITE GIRL IN TOWN) [feat. Kilo Ali]",
       "url": "https://open.spotify.com/track/52r4FYDc8x1DlWt6x2vuiT"
+    },
+    {
+      "added_at": "2024-06-17 09:31:30",
+      "album": {
+        "name": "FUKINASTY / Look, Alright",
+        "url": "https://open.spotify.com/album/7cK9lEO7XG4JGq9eB4Lwla"
+      },
+      "artists": [
+        {
+          "name": "Amine Edge & DANCE",
+          "url": "https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm"
+        },
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "DJ Rush",
+          "url": "https://open.spotify.com/artist/6gBmUpKvNYtnQTSLK5vwS5"
+        }
+      ],
+      "duration_ms": 177923,
+      "name": "FUKINASTY",
+      "url": "https://open.spotify.com/track/2fMAc4QZwcOOuE441dPpYD"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -155,30 +179,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "FUKINASTY / Look, Alright",
-        "url": "https://open.spotify.com/album/7cK9lEO7XG4JGq9eB4Lwla"
+        "name": "Everybody Get Up",
+        "url": "https://open.spotify.com/album/5PpvKpWaDFmCAtJgEdGkar"
       },
       "artists": [
         {
-          "name": "Amine Edge & DANCE",
-          "url": "https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm"
+          "name": "Samm (BE)",
+          "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
         },
         {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Sosa UK",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        },
-        {
-          "name": "DJ Rush",
-          "url": "https://open.spotify.com/artist/6gBmUpKvNYtnQTSLK5vwS5"
+          "name": "MAXI MERAKI",
+          "url": "https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm"
         }
       ],
-      "duration_ms": 180000,
-      "name": "FUKINASTY - Sosa UK Remix",
-      "url": "https://open.spotify.com/track/7om9wYulxLAvrjnW7UebBl"
+      "duration_ms": 356013,
+      "name": "Everybody Get Up",
+      "url": "https://open.spotify.com/track/1G0MN1mA2aeS4hf47JMr3m"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -199,26 +215,6 @@
       "duration_ms": 224032,
       "name": "Call 911",
       "url": "https://open.spotify.com/track/1b8Fw5fYEZHHholqLkqzfX"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Everybody Get Up",
-        "url": "https://open.spotify.com/album/5PpvKpWaDFmCAtJgEdGkar"
-      },
-      "artists": [
-        {
-          "name": "Samm (BE)",
-          "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
-        },
-        {
-          "name": "MAXI MERAKI",
-          "url": "https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm"
-        }
-      ],
-      "duration_ms": 356013,
-      "name": "Everybody Get Up",
-      "url": "https://open.spotify.com/track/1G0MN1mA2aeS4hf47JMr3m"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -443,30 +439,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Changing Colors",
-        "url": "https://open.spotify.com/album/2wW09qZMOQYec3CHMcnofR"
-      },
-      "artists": [
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        },
-        {
-          "name": "Solique",
-          "url": "https://open.spotify.com/artist/0RIUSfIxj9TP0NcloqxKiR"
-        },
-        {
-          "name": "ALSO ASTIR",
-          "url": "https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv"
-        }
-      ],
-      "duration_ms": 230526,
-      "name": "Changing Colors",
-      "url": "https://open.spotify.com/track/04UuPln30oxyJeoufFB1cg"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Tarantula (Max Styler Remix)",
         "url": "https://open.spotify.com/album/7DQVlvH1zjJBYzQXmNBPQ1"
       },
@@ -563,26 +535,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "E",
-        "url": "https://open.spotify.com/album/07PbaG5HdaNuRB9kyCL7aG"
-      },
-      "artists": [
-        {
-          "name": "Ark Patrol",
-          "url": "https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9"
-        },
-        {
-          "name": "Lecx Stacy",
-          "url": "https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO"
-        }
-      ],
-      "duration_ms": 239775,
-      "name": "Relief",
-      "url": "https://open.spotify.com/track/15AI5E0i8xnrE3m7MvWaGV"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Vent",
         "url": "https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU"
       },
@@ -595,30 +547,6 @@
       "duration_ms": 176898,
       "name": "Vent",
       "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "encore",
-        "url": "https://open.spotify.com/album/3L3wCKCD42do9KaJDvIz5k"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        },
-        {
-          "name": "Danny L Harle",
-          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
-        },
-        {
-          "name": "Club Shy",
-          "url": "https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq"
-        }
-      ],
-      "duration_ms": 169266,
-      "name": "encore",
-      "url": "https://open.spotify.com/track/29DtfDAK5Q78nvlyPgYlWv"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -643,30 +571,6 @@
       "duration_ms": 256743,
       "name": "Last Night - Anyma x Layton Giordani Remix",
       "url": "https://open.spotify.com/track/22hOKPKTAegLoLJKM33K4a"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Voyage (Denis Horvat Remix)",
-        "url": "https://open.spotify.com/album/03ENmS6U3KWsZiPG6jUdJe"
-      },
-      "artists": [
-        {
-          "name": "Hernan Cattaneo",
-          "url": "https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB"
-        },
-        {
-          "name": "Hicky & Kalo",
-          "url": "https://open.spotify.com/artist/6yI7QGvmk87s42R0UyhWRT"
-        },
-        {
-          "name": "Denis Horvat",
-          "url": "https://open.spotify.com/artist/5eJJoSS6weFQeI9AtNFLee"
-        }
-      ],
-      "duration_ms": 314253,
-      "name": "Voyage - Denis Horvat Remix",
-      "url": "https://open.spotify.com/track/1Oi9Rpb1fECaqQx439uBdO"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1063,22 +967,6 @@
       "duration_ms": 195483,
       "name": "Swim",
       "url": "https://open.spotify.com/track/2VVc6KYA43Ga5yjceg0j4L"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Open Up The Door",
-        "url": "https://open.spotify.com/album/1JfjVkwfK41qSS4zXJgvaU"
-      },
-      "artists": [
-        {
-          "name": "Megra",
-          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
-        }
-      ],
-      "duration_ms": 134734,
-      "name": "Open Up The Door",
-      "url": "https://open.spotify.com/track/2ZeKFaqUq3NPXECGKlxG95"
     },
     {
       "added_at": "2024-06-13 22:00:00",

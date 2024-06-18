@@ -1,6 +1,6 @@
 {
   "description": "Dreamy melodies and hushed vocals. Cover: Clairo",
-  "num_followers": 1109173,
+  "num_followers": 1109246,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Joker & Rainbow",
+        "url": "https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk"
+      },
+      "artists": [
+        {
+          "name": "Jesse\u00ae",
+          "url": "https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo"
+        }
+      ],
+      "duration_ms": 176546,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/4tpguuBe7cTThXmDCYSJZq"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "my forever",
         "url": "https://open.spotify.com/album/2JoAyLaBfgrpMtGY7Sbg6U"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 202500,
       "name": "my forever",
       "url": "https://open.spotify.com/track/15clT8j9S3OjjhjGqsoVZv"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Joker & Rainbow",
-        "url": "https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk"
-      },
-      "artists": [
-        {
-          "name": "Jesse\u00ae",
-          "url": "https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo"
-        }
-      ],
-      "duration_ms": 176546,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/4tpguuBe7cTThXmDCYSJZq"
     },
     {
       "added_at": "2024-05-24 04:00:00",

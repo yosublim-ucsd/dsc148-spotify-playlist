@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Vegedream
 
-12,576 songs - 26 day 5 hr 8 min
+12,577 songs - 26 day 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2483,6 +2483,7 @@
 | [Dance With Me](https://open.spotify.com/track/2tzdoLz5F3sDXoCALKCWl6) | [Adesse](https://open.spotify.com/artist/7EWemnOZ5SxADQ1z8bf0r9) | [Dance With Me](https://open.spotify.com/album/6EOIfiT1MNvE7hdMcwtgk7) | 2:48 | 2023-02-02 | 2023-02-10 |
 | [DANCE WITH ME](https://open.spotify.com/track/0FnuaL9AcJxAdzwGPcIHVr) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [DANCE WITH ME](https://open.spotify.com/album/3Uo59FndkcDDp0H7k9yJmh) | 3:08 | 2023-10-05 | 2023-10-13 |
 | [Dance With Me](https://open.spotify.com/track/68CSSUw2sMsZeJyYyLdISN) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi) | [Dance With Me](https://open.spotify.com/album/0znuMSXd3OdzY0ccEl2XaH) | 2:40 | 2022-06-30 | 2022-07-08 |
+| [Dance With Me](https://open.spotify.com/track/2I5ipWaIXUknimwtJPoPYt) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance With Me](https://open.spotify.com/album/1wkUCIDGpYN0PEIcyG4dS6) | 3:45 | 2024-06-13 |  |
 | [Dance With You \(The Comeback\)](https://open.spotify.com/track/1ilkppSXMza88ER3LRG05B) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Dance With You \(The Comeback\)](https://open.spotify.com/album/2nN3SvOwvL9p98jt1fPnKp) | 2:44 | 2023-04-06 | 2023-04-14 |
 | [DANCING ALL ALONE](https://open.spotify.com/track/3vHKqg3WDgtWA5unl5layh) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [DANCING ALL ALONE](https://open.spotify.com/album/6E1rMJkFB1eJwgyMQhN1mg) | 2:51 | 2023-02-16 | 2023-12-08 |
 | [Dancing Alone](https://open.spotify.com/track/0kd0RQZjFRUkS1CEh6Ry47) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB) | [Human disorder](https://open.spotify.com/album/7pqfT0igQtjHaDnYChZjCl) | 2:57 | 2022-03-24 | 2022-04-01 |

@@ -1,15 +1,15 @@
 {
   "description": "Sempre aggiornata. Con nuovi brani di 22simba e Icy Subzero, Digital Astro, Ensi e Nerone e tanti altri.",
-  "num_followers": 44959,
+  "num_followers": 44961,
   "original_name": "Novit\u00e0 Rap Italiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmtsHAAAAADP8P2wbLGx0jnowvkSBXb8",
+  "snapshot_id": "ZnCyHAAAAAA7YxE7IpsDQRyOj55X2hch",
   "tracks": [
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "Isolamento Di Gruppo",
         "url": "https://open.spotify.com/album/4cx6LWYWFMw3Vd9kbYr9az"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/2qze6cCZKajjrqpCwVhEgB"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "WIFEY (feat. Gu\u00e8)",
         "url": "https://open.spotify.com/album/4iax1wFoOMb9vTL7lQJzv6"
@@ -53,27 +53,55 @@
       "url": "https://open.spotify.com/track/1me6JiCLFU4Cr2Mlh19uJl"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
-        "name": "DIO LO SA",
-        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
+        "name": "Another One",
+        "url": "https://open.spotify.com/album/44Qx6sP7zs2CRCm44X7Es2"
       },
       "artists": [
         {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
         },
         {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+          "name": "On The Radar",
+          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
         }
       ],
-      "duration_ms": 200000,
-      "name": "IO T\u2019O GIUR\u2019 (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/4z9xPVz2Sii4dhM7yhxOpj"
+      "duration_ms": 183997,
+      "name": "Ragazzi Di Strada",
+      "url": "https://open.spotify.com/track/0Jmw3UGD25rtBNtUYxYkY8"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
+      "album": {
+        "name": "Vaniglia (feat. VillaBanks, Boro & Andry The Hitmaker)",
+        "url": "https://open.spotify.com/album/5umTTXnLDMrhAqrnBUyb1U"
+      },
+      "artists": [
+        {
+          "name": "Elmatadormc7",
+          "url": "https://open.spotify.com/artist/7516jrFSCN9rahmTvPAYUu"
+        },
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        },
+        {
+          "name": "Boro",
+          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
+        },
+        {
+          "name": "Andry The Hitmaker",
+          "url": "https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ"
+        }
+      ],
+      "duration_ms": 192857,
+      "name": "Vaniglia (feat. VillaBanks, Boro & Andry The Hitmaker)",
+      "url": "https://open.spotify.com/track/3ceeE7trGex4ioSAYMcuOr"
+    },
+    {
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "SOS (feat. Don Pero)",
         "url": "https://open.spotify.com/album/6ua3Ey0s26gMEu3lQ7lssD"
@@ -93,7 +121,27 @@
       "url": "https://open.spotify.com/track/60ioEgP8cdoC5OrxlKAjn5"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
+      "album": {
+        "name": "DIO LO SA",
+        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "IO T\u2019O GIUR\u2019 (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/4z9xPVz2Sii4dhM7yhxOpj"
+    },
+    {
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "BRAVA GENTE - EXTRA",
         "url": "https://open.spotify.com/album/5IXUWaTnABGOuAm7u8mI9H"
@@ -117,7 +165,7 @@
       "url": "https://open.spotify.com/track/3kBlfl2W2NjFTOBNLCe6TC"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "30\u00baC",
         "url": "https://open.spotify.com/album/66o9NYg61y0te154pzWWth"
@@ -133,7 +181,7 @@
       "url": "https://open.spotify.com/track/5eyL6waluu7hXrRrWewBFU"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "Respiro",
         "url": "https://open.spotify.com/album/45ZXo91lK7a6x2lylI6siL"
@@ -149,7 +197,7 @@
       "url": "https://open.spotify.com/track/31ePh9rOTkIERrloY8BUUc"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "Danimarca",
         "url": "https://open.spotify.com/album/01yiaCziEOgYtQZggS6hYA"
@@ -169,7 +217,7 @@
       "url": "https://open.spotify.com/track/5bkUPNhCQ3LlUEnOT9jQW3"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "E Io Gioco A Fare Il Gymbro",
         "url": "https://open.spotify.com/album/1S7wN1SO879chXd7y0xGV2"
@@ -185,7 +233,7 @@
       "url": "https://open.spotify.com/track/5kMQS8DqKJqABuDj73BtQ8"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "ENTRANO ESCONO",
         "url": "https://open.spotify.com/album/1XXihd96WHGHrkvAsERUUe"
@@ -209,7 +257,7 @@
       "url": "https://open.spotify.com/track/1XJRDNalg7tfCVs6mxUpyh"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "SUPERSEX (feat. Spender)",
         "url": "https://open.spotify.com/album/2TSj70pDYykZp31LGD0mf0"
@@ -229,7 +277,7 @@
       "url": "https://open.spotify.com/track/2gDPoogKgwYJQ0FB9mWaed"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "Homeless (Sergio)",
         "url": "https://open.spotify.com/album/4JxNiuHppYBUequK1OshvN"
@@ -245,7 +293,7 @@
       "url": "https://open.spotify.com/track/2LpD9Qk21arHomrhohi0rn"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "LOYAL & GRATO",
         "url": "https://open.spotify.com/album/6RNJYExGs8AxMFZ5WvbIdu"
@@ -265,7 +313,7 @@
       "url": "https://open.spotify.com/track/2zBWKEpEE4QlqBaIGX2i7c"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "Marciapiedi",
         "url": "https://open.spotify.com/album/1BNWwVi1kcszOWggwgqVxz"
@@ -285,7 +333,7 @@
       "url": "https://open.spotify.com/track/6A3YyCGFwsSH3FHmqjHJdN"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "GHETTO LOVE (feat. CLARA)",
         "url": "https://open.spotify.com/album/79TRrzyyW28JYQ9eNIeHey"
@@ -305,7 +353,7 @@
       "url": "https://open.spotify.com/track/5JEAwqy2UQebOWrE0Sc4Fs"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "DIO LO SA",
         "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
@@ -333,7 +381,7 @@
       "url": "https://open.spotify.com/track/04fyqFKw0UeWRfFylNODYv"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "PLD",
         "url": "https://open.spotify.com/album/1BWG6HnhvJc70IC9z0ap5i"
@@ -353,7 +401,7 @@
       "url": "https://open.spotify.com/track/6OT4dc0gYkf1I3uxUay82r"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "Pazzi",
         "url": "https://open.spotify.com/album/1jiBgaJe2LbJb6MExUiOkZ"
@@ -373,7 +421,7 @@
       "url": "https://open.spotify.com/track/7necSK14DaUPU46qJIILQc"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "Sheitana",
         "url": "https://open.spotify.com/album/3l5orTO5lDkdRpaEelkE8o"
@@ -393,7 +441,7 @@
       "url": "https://open.spotify.com/track/0bknzqsiU8O3mXBhUzPs0j"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "BRACCIALETTO",
         "url": "https://open.spotify.com/album/0uJB1zLIDO7edKUxvvXEkN"
@@ -413,7 +461,7 @@
       "url": "https://open.spotify.com/track/11fe4piZvzUztbc0fgY5RR"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "BONAZZO",
         "url": "https://open.spotify.com/album/1uIDksgNalSBGnKsZOm2HP"
@@ -429,7 +477,7 @@
       "url": "https://open.spotify.com/track/7hbsPe6bEYmmkicxJ5HOCZ"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "Bodyguard",
         "url": "https://open.spotify.com/album/2J5YY1Zh6fPKT0kRo6gS83"
@@ -445,7 +493,7 @@
       "url": "https://open.spotify.com/track/7CwL7roJA3Joy3vKfGgDmu"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "La Divina Commedia (Deluxe)",
         "url": "https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD"
@@ -477,7 +525,7 @@
       "url": "https://open.spotify.com/track/5eV8XfvbR9bsFqG1jvvNmw"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "First Day Out",
         "url": "https://open.spotify.com/album/4wcgoc19ZVFRcX0JxnBKNG"
@@ -493,7 +541,7 @@
       "url": "https://open.spotify.com/track/3JXgSnBQCLWjnyx6XAF0R9"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "DIO LO SA",
         "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
@@ -517,7 +565,7 @@
       "url": "https://open.spotify.com/track/78jAJtOnoKtpHvXM8ByleE"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "SAFARI",
         "url": "https://open.spotify.com/album/0f6IrFFNoPDo3WcjBp10jF"
@@ -533,7 +581,7 @@
       "url": "https://open.spotify.com/track/5QwtOb6SSQv1KMgzl2Icxq"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "Batto il piede gi\u00f9",
         "url": "https://open.spotify.com/album/39inoBrpaaTTXTMY94qsKa"
@@ -553,7 +601,7 @@
       "url": "https://open.spotify.com/track/7B6YpmeNk6cl10ACUd0jIb"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "4U",
         "url": "https://open.spotify.com/album/4mfgGWakJ6bcENRG7OqatI"
@@ -573,7 +621,7 @@
       "url": "https://open.spotify.com/track/6TV4UxrKTqf5lDBUZOfAKY"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "4:30 AM",
         "url": "https://open.spotify.com/album/4wFLeHHZJclhhoYLYFja8K"
@@ -593,7 +641,7 @@
       "url": "https://open.spotify.com/track/4KZnnvL6JfvnI5k8CKI9t7"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "Marlboro (Senza fare niente)",
         "url": "https://open.spotify.com/album/3iToBBgBBmH8abTVteeEPC"
@@ -609,7 +657,7 @@
       "url": "https://open.spotify.com/track/1nTO1LvOGpgiB1K1HrSNqR"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "Grave Digger",
         "url": "https://open.spotify.com/album/20amRZTTPzhZHw6UuCG50w"
@@ -629,7 +677,7 @@
       "url": "https://open.spotify.com/track/5tY1lDmOhFhajX8nlmpWBX"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "LONEWOLF",
         "url": "https://open.spotify.com/album/6dDq4MNO1T4Gvllo2urL8A"
@@ -649,7 +697,7 @@
       "url": "https://open.spotify.com/track/5mnX1xQIhIMztkuxBchRwr"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "Cultura Italiana Pt.1",
         "url": "https://open.spotify.com/album/5uNUfyRRg7WrbviPwQVrge"
@@ -673,7 +721,7 @@
       "url": "https://open.spotify.com/track/0H3Y78oMfwkjyJe2hDGdB1"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "DIO LO SA",
         "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
@@ -697,7 +745,7 @@
       "url": "https://open.spotify.com/track/6PBr7VubD4T2TqqIj7FaWw"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "5X5",
         "url": "https://open.spotify.com/album/5HcTHIPgDq2I0yA3heALlu"
@@ -713,7 +761,7 @@
       "url": "https://open.spotify.com/track/1QnOV3sO14AsjSIMxP0psf"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "BITCH",
         "url": "https://open.spotify.com/album/2ma0sRaWuNdmfFFED4Yrjq"
@@ -737,7 +785,7 @@
       "url": "https://open.spotify.com/track/2OmFMiThTjYJU5l5F7g45a"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "Perdenn 'A Cap (feat. Armouann, O'Tsunami & Flaza)",
         "url": "https://open.spotify.com/album/0f0tWgJ73mj7gwLv3iZxAs"
@@ -765,7 +813,7 @@
       "url": "https://open.spotify.com/track/4PPAVU1RIdKKiNE4UTIzQ7"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "PUTTO",
         "url": "https://open.spotify.com/album/5OWCMmb6X9X9GfWRxxPOEC"
@@ -781,7 +829,7 @@
       "url": "https://open.spotify.com/track/6nXBEhbgZCC7MCo1tt3iph"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "Giubbotti gialli",
         "url": "https://open.spotify.com/album/55rX8xcLgKKjhElpGInEPR"
@@ -801,7 +849,7 @@
       "url": "https://open.spotify.com/track/1KTuepAVxkoDOmmqE2wj5H"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "LA MIA VITA \u00c8 QUESTA",
         "url": "https://open.spotify.com/album/11o53YUMjAoIU9hfx8p2Zf"
@@ -821,7 +869,7 @@
       "url": "https://open.spotify.com/track/5vRGU1Ks0YVBHwf3Mq8QRh"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "TENERIFE",
         "url": "https://open.spotify.com/album/0CS3bnrptFEUFRnX7146qU"
@@ -841,7 +889,7 @@
       "url": "https://open.spotify.com/track/18mqXOiSOKKeFAYfkA5bWe"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "KILL AU MIC",
         "url": "https://open.spotify.com/album/4TOPISag2zNvXTVN0voCoo"
@@ -857,7 +905,7 @@
       "url": "https://open.spotify.com/track/6QqG5u7yw2wHVWpiqJVmLm"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "FISCHIO",
         "url": "https://open.spotify.com/album/6Cl9je1gRfvNrexziQ9NXi"
@@ -881,7 +929,7 @@
       "url": "https://open.spotify.com/track/0B0qqVndmPmAmN4oNh4Z4v"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "CAPO DELLA JERSEY",
         "url": "https://open.spotify.com/album/0MLAg2GbEnu5DB5mQE6Oa1"
@@ -905,7 +953,7 @@
       "url": "https://open.spotify.com/track/6NGePboJSoe60i9s3MTngC"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "GIUNGLA",
         "url": "https://open.spotify.com/album/5pvBKHtcHTSGu88tVy8jDV"
@@ -929,7 +977,7 @@
       "url": "https://open.spotify.com/track/3p0qtUQlEubds7Wcd4Rtc0"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "Troll",
         "url": "https://open.spotify.com/album/1iNwavqXN3jzNJ8RPUfTqd"
@@ -949,7 +997,7 @@
       "url": "https://open.spotify.com/track/3MsfRTVwsb4cr1jJNOtjUR"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "METRONOMO",
         "url": "https://open.spotify.com/album/0qF140qL8FEOqbTUokuDZ6"
@@ -973,7 +1021,7 @@
       "url": "https://open.spotify.com/track/60KMbrrUJx9Azph2keQ3b2"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "\u00c8 GOTH x4",
         "url": "https://open.spotify.com/album/4bDuGhcMZT2z3FoWenwks5"
@@ -997,7 +1045,7 @@
       "url": "https://open.spotify.com/track/3td13aoV6404jLAsK4DuWJ"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "La mia rotta",
         "url": "https://open.spotify.com/album/3AQeqScxxa2TrRUNvtGR01"
@@ -1013,7 +1061,7 @@
       "url": "https://open.spotify.com/track/2ppLw5WuekuWJdIF50QwgS"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "MONEY",
         "url": "https://open.spotify.com/album/0Vl8W5rXaMZVZP2gs0PPup"
@@ -1029,7 +1077,7 @@
       "url": "https://open.spotify.com/track/2W1pRQGgIT4FgXXLJhAz7o"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "Man Down 2!",
         "url": "https://open.spotify.com/album/4Si52LzZQGS9pfVBeL1wiR"
@@ -1045,7 +1093,7 @@
       "url": "https://open.spotify.com/track/7HfGyfKBamKBmM8IqZBroD"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "Demoni & Bitches",
         "url": "https://open.spotify.com/album/3VeZ1fZtMX9tpJqqc5xLgC"
@@ -1065,7 +1113,7 @@
       "url": "https://open.spotify.com/track/5igR4ckUc31NrR5PaKKsTi"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "Molly",
         "url": "https://open.spotify.com/album/71U89HHqx5ETCYvi4kKPcl"
@@ -1085,7 +1133,7 @@
       "url": "https://open.spotify.com/track/1oHPxuDHRpBrtVrVyrHAQ4"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "STAY ON BARS #1",
         "url": "https://open.spotify.com/album/2KHagMF2ivCxgvajHZeFoU"
@@ -1101,7 +1149,7 @@
       "url": "https://open.spotify.com/track/4qaJQlcJcn6NWlSrOgolDb"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "Dsquared2",
         "url": "https://open.spotify.com/album/2atXP9Nap5FoukWwItOJeT"
@@ -1117,7 +1165,7 @@
       "url": "https://open.spotify.com/track/12b9pPGmt1iQ0QhOAyIcxH"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "MISSWAG FREESTYLE",
         "url": "https://open.spotify.com/album/3Up0ce6LcG9NBvh6xjvG2h"
@@ -1133,7 +1181,7 @@
       "url": "https://open.spotify.com/track/0HjubEauJgEHDYv907rnhS"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "Fast Life #2",
         "url": "https://open.spotify.com/album/2PRX3B2tGKlPPBK9MX1M12"
@@ -1157,7 +1205,7 @@
       "url": "https://open.spotify.com/track/0QiPaWxxbsiB6n5YRCVOGo"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "DATTERO",
         "url": "https://open.spotify.com/album/5O1UEN0mzrHA8pqe2IcckR"
@@ -1177,7 +1225,7 @@
       "url": "https://open.spotify.com/track/4CUE29IMZJE6epvXGeajVM"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "QUELLI COME ME",
         "url": "https://open.spotify.com/album/6uosEztuQgjGdCue7TzIm4"
@@ -1193,7 +1241,7 @@
       "url": "https://open.spotify.com/track/5K8KAcxyDeYoZWsnRkSHOt"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "SILENZIO",
         "url": "https://open.spotify.com/album/5Tcf8EP6w6L88snAodVwhm"
@@ -1209,7 +1257,7 @@
       "url": "https://open.spotify.com/track/5Jh3UTgdBcaShACxVOua3k"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "MERDAPARLANDO 2",
         "url": "https://open.spotify.com/album/13G2FeIWKUfKvuQxcZE2Wr"
@@ -1225,7 +1273,7 @@
       "url": "https://open.spotify.com/track/380tI1gUjyEPNNcYturtdH"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "MARTIRE",
         "url": "https://open.spotify.com/album/2tkvBmrgcyL5lVa4kG3mt4"
@@ -1241,7 +1289,7 @@
       "url": "https://open.spotify.com/track/4ONvuzbTgmM3ZTELCDMDCz"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "GIANDUIA",
         "url": "https://open.spotify.com/album/5Af8LrBAFOqNpvHxHK5EKS"
@@ -1265,7 +1313,7 @@
       "url": "https://open.spotify.com/track/4UrLbcAZnCzhz8bUxmwMcT"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "GAS",
         "url": "https://open.spotify.com/album/272OajDwr17InniWwa7BHj"
@@ -1289,7 +1337,7 @@
       "url": "https://open.spotify.com/track/1vm8Lzx4Hd6vOKF5Q6GCXa"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "Maluna",
         "url": "https://open.spotify.com/album/4cKQ5z1Ss4ELXweb3Pdqlo"
@@ -1309,7 +1357,7 @@
       "url": "https://open.spotify.com/track/1Jm5ANvZQNxMxTY2Xwd91T"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "ON GOD",
         "url": "https://open.spotify.com/album/0qoifaU28ylwldTiNQyrSU"
@@ -1325,7 +1373,7 @@
       "url": "https://open.spotify.com/track/7oXAz4OXkcMUtzJE5wWzYe"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "SPARTA",
         "url": "https://open.spotify.com/album/6nRyDaNHiEhBwL7W37fKPh"
@@ -1341,7 +1389,7 @@
       "url": "https://open.spotify.com/track/2WSxzT62zKA1iDZlmiDqXq"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "O'Sistem",
         "url": "https://open.spotify.com/album/4jz6bKLP1EPbzA0qZsYMa9"
@@ -1361,7 +1409,7 @@
       "url": "https://open.spotify.com/track/786qEDqFcpcxzDzRf7K944"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "Malutempu",
         "url": "https://open.spotify.com/album/1e8LqFYs1FlOq6rDDp5a0p"
@@ -1377,7 +1425,7 @@
       "url": "https://open.spotify.com/track/7fDPw3JjxlcfBvzFEpaQTF"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "Lupara",
         "url": "https://open.spotify.com/album/7xreQZArpRyrOEEOHjhocO"
@@ -1393,7 +1441,7 @@
       "url": "https://open.spotify.com/track/2WLbcKEyR1rPLZuJJRpDtY"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "TWERKA FORTE",
         "url": "https://open.spotify.com/album/3Ji7eSop4T8R6oAf19rxUg"
@@ -1409,7 +1457,7 @@
       "url": "https://open.spotify.com/track/6yxAhMbMue2oVqodhTXxfQ"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "MALAVITA, Pt. 2 / HeadShot, Vol. 3",
         "url": "https://open.spotify.com/album/2Ym6KhFJz7TwRqppa3fHMy"
@@ -1453,7 +1501,7 @@
       "url": "https://open.spotify.com/track/7sVCJaINF95KpCraI7sgRE"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "100km/h",
         "url": "https://open.spotify.com/album/6V7IfGgWWRPoACpMULrNyc"
@@ -1473,23 +1521,7 @@
       "url": "https://open.spotify.com/track/5tEXvHxGK7itvpKvqtVLqq"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
-      "album": {
-        "name": "Cavaliere",
-        "url": "https://open.spotify.com/album/1AWHCFFkqSuPqoZ34LXsDH"
-      },
-      "artists": [
-        {
-          "name": "Kero",
-          "url": "https://open.spotify.com/artist/0BY7xhioKfbWBEEViq4ds6"
-        }
-      ],
-      "duration_ms": 145819,
-      "name": "Cavaliere",
-      "url": "https://open.spotify.com/track/5KG99rNbxru06gg3Zrx95A"
-    },
-    {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "Cicatrici",
         "url": "https://open.spotify.com/album/0sCElQXoeOOJmUhLkyssVL"
@@ -1509,7 +1541,7 @@
       "url": "https://open.spotify.com/track/3Hh8CSUrzC5rjDllNXYB8E"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "MOI & TOI",
         "url": "https://open.spotify.com/album/7b4EfSTHNogGNt1Fk523Gp"
@@ -1525,7 +1557,7 @@
       "url": "https://open.spotify.com/track/7by1HUEp1swCEIwK5iC9qZ"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "O MI SALVI O MI UCCIDI",
         "url": "https://open.spotify.com/album/0EbZ2kjdWrs7BCwNC3rALu"
@@ -1545,7 +1577,7 @@
       "url": "https://open.spotify.com/track/0FzmTvY51AX7ru4JAFgh74"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "Una che",
         "url": "https://open.spotify.com/album/2f3D7FLWNBmiRM9wsxkUpj"
@@ -1569,7 +1601,7 @@
       "url": "https://open.spotify.com/track/2os3FyWjG6CnS7pNmOYjlN"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "NELLA MACCHINA",
         "url": "https://open.spotify.com/album/0HVvL0rk1GGqUN6i3IMlVc"
@@ -1585,27 +1617,7 @@
       "url": "https://open.spotify.com/track/4fB2na1VbZD4xO05vYYUAS"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
-      "album": {
-        "name": "Odiare di meno",
-        "url": "https://open.spotify.com/album/1bla2axjgZR01vvSwv2pHT"
-      },
-      "artists": [
-        {
-          "name": "Blue Virus",
-          "url": "https://open.spotify.com/artist/7H9TcusDoz60eSTxB0Avxn"
-        },
-        {
-          "name": "fil",
-          "url": "https://open.spotify.com/artist/2Dgp0r5wvNCnj5XdvGaK7u"
-        }
-      ],
-      "duration_ms": 147777,
-      "name": "Odiare di meno",
-      "url": "https://open.spotify.com/track/00Whn6EII0P1mBrBhLhJhJ"
-    },
-    {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "Higuita",
         "url": "https://open.spotify.com/album/5IYW1yw1Tw8siI5rlD6osQ"
@@ -1625,7 +1637,7 @@
       "url": "https://open.spotify.com/track/2FVFTHAgDSnhnbsDzqlGEi"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "BEAUCOUP D'BIFF",
         "url": "https://open.spotify.com/album/1nzG9S4OXltV843h3dvNVq"
@@ -1649,7 +1661,7 @@
       "url": "https://open.spotify.com/track/4kfkn6Y1hoD1yf0Wu1dR3c"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "AWW (feat. yungenob)",
         "url": "https://open.spotify.com/album/1Bc6QGg3ie8aaRMlRuiuub"
@@ -1673,7 +1685,7 @@
       "url": "https://open.spotify.com/track/3aSzhV351cI09hZXt4ahiS"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "Correre (100%)",
         "url": "https://open.spotify.com/album/6OhoX1TveEVTtANEvNTbt5"
@@ -1689,7 +1701,7 @@
       "url": "https://open.spotify.com/track/0GM7nQBEZ3fOM7wshlMbji"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "Vita Diversa",
         "url": "https://open.spotify.com/album/7pDRCUQSkFfpvE1blKelXX"
@@ -1705,7 +1717,7 @@
       "url": "https://open.spotify.com/track/2X7jLMQn3bfT3KvsrsrLiO"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "OKOK",
         "url": "https://open.spotify.com/album/4HELP1Hj8kPeU79lJJDUB6"
@@ -1721,7 +1733,7 @@
       "url": "https://open.spotify.com/track/3iKGHl5z71jocmVJSIQX0j"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "Northside Melodies",
         "url": "https://open.spotify.com/album/3UOgCV3tWykMlgP0LG33eX"
@@ -1741,7 +1753,7 @@
       "url": "https://open.spotify.com/track/5BAGDRm7iSlnMCgbMFJm0C"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "Cocaina (feat. Don Pero)",
         "url": "https://open.spotify.com/album/534APhNqtPZDcua3ALuqPt"
@@ -1761,7 +1773,7 @@
       "url": "https://open.spotify.com/track/72raywHOW3sBZkcoXHuHkC"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "FastLife",
         "url": "https://open.spotify.com/album/4aRlaWMvGMkn7VnnH6kozU"
@@ -1777,7 +1789,7 @@
       "url": "https://open.spotify.com/track/4sizvsYW0lR2OYGMN69Ak6"
     },
     {
-      "added_at": "2024-06-13 22:01:00",
+      "added_at": "2024-06-17 22:01:00",
       "album": {
         "name": "Vis a Vis",
         "url": "https://open.spotify.com/album/5VTWZuEhrfP2mDwkn5ApSz"

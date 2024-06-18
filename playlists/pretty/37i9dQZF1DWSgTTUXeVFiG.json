@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 7636,
+  "num_followers": 7679,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
@@ -819,18 +819,22 @@
     {
       "added_at": "2024-03-19 14:30:29",
       "album": {
-        "name": "Live At Madison Square Garden",
-        "url": "https://open.spotify.com/album/73lQS6xaOyVGEoVCmcDWcQ"
+        "name": "Un Sonido Bestial El Concierto (En Vivo)",
+        "url": "https://open.spotify.com/album/47KtIx9HvtgMaoWL4jGmMg"
       },
       "artists": [
         {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+          "name": "Richie Ray",
+          "url": "https://open.spotify.com/artist/1mX1TP27ndNVthqdB95bMf"
+        },
+        {
+          "name": "Bobby Cruz",
+          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
         }
       ],
-      "duration_ms": 426240,
-      "name": "He Tratado - Live at MSG Version",
-      "url": "https://open.spotify.com/track/2h93BD54TVsD2kq22uscBB"
+      "duration_ms": 371813,
+      "name": "Sonido Bestial - En Vivo",
+      "url": "https://open.spotify.com/track/1DSmNMXYNM3MrCzeXzZBrX"
     },
     {
       "added_at": "2024-03-19 14:30:29",
@@ -867,22 +871,18 @@
     {
       "added_at": "2024-03-19 14:30:29",
       "album": {
-        "name": "Un Sonido Bestial El Concierto (En Vivo)",
-        "url": "https://open.spotify.com/album/47KtIx9HvtgMaoWL4jGmMg"
+        "name": "Live At Madison Square Garden",
+        "url": "https://open.spotify.com/album/73lQS6xaOyVGEoVCmcDWcQ"
       },
       "artists": [
         {
-          "name": "Richie Ray",
-          "url": "https://open.spotify.com/artist/1mX1TP27ndNVthqdB95bMf"
-        },
-        {
-          "name": "Bobby Cruz",
-          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
         }
       ],
-      "duration_ms": 371813,
-      "name": "Sonido Bestial - En Vivo",
-      "url": "https://open.spotify.com/track/1DSmNMXYNM3MrCzeXzZBrX"
+      "duration_ms": 426240,
+      "name": "He Tratado - Live at MSG Version",
+      "url": "https://open.spotify.com/track/2h93BD54TVsD2kq22uscBB"
     },
     {
       "added_at": "2024-03-19 14:30:29",

@@ -1,6 +1,6 @@
 {
   "description": "Country classics you know and love.",
-  "num_followers": 464464,
+  "num_followers": 464707,
   "original_name": "Classic Country",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-05-04 20:18:13",
       "album": {
-        "name": "Storms of Life",
-        "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 178973,
-      "name": "Diggin' Up Bones",
-      "url": "https://open.spotify.com/track/6JdbV5DDltMVCyV0twmKwj"
-    },
-    {
-      "added_at": "2024-05-04 20:18:13",
-      "album": {
         "name": "Louisiana Woman, Mississippi Man",
         "url": "https://open.spotify.com/album/1t9NDn6KVCLkj5bD7a2xAS"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 151731,
       "name": "Louisiana Woman, Mississippi Man",
       "url": "https://open.spotify.com/track/02sENi9ULQ36x9mKo5B7XW"
+    },
+    {
+      "added_at": "2024-05-04 20:18:13",
+      "album": {
+        "name": "Storms of Life",
+        "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 178973,
+      "name": "Diggin' Up Bones",
+      "url": "https://open.spotify.com/track/6JdbV5DDltMVCyV0twmKwj"
     },
     {
       "added_at": "2024-05-04 20:18:13",
@@ -483,18 +483,18 @@
     {
       "added_at": "2024-05-04 20:18:13",
       "album": {
-        "name": "Southern Comfort",
-        "url": "https://open.spotify.com/album/4IBg62LpRIejaV7VFcsyl9"
+        "name": "The Oak Ridge Boys Have Arrived",
+        "url": "https://open.spotify.com/album/4AKEZZ8hdjYl8i5IiQMyaC"
       },
       "artists": [
         {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
         }
       ],
-      "duration_ms": 174640,
-      "name": "Slow Hand",
-      "url": "https://open.spotify.com/track/2h1Xj6D76ygKS3tu9DgIY5"
+      "duration_ms": 179533,
+      "name": "Leaving Louisiana In The Broad Daylight",
+      "url": "https://open.spotify.com/track/6BjA6FWovt4T2T5ZIW1XJQ"
     },
     {
       "added_at": "2024-05-04 20:18:13",
@@ -515,18 +515,18 @@
     {
       "added_at": "2024-05-04 20:18:13",
       "album": {
-        "name": "The Oak Ridge Boys Have Arrived",
-        "url": "https://open.spotify.com/album/4AKEZZ8hdjYl8i5IiQMyaC"
+        "name": "Southern Comfort",
+        "url": "https://open.spotify.com/album/4IBg62LpRIejaV7VFcsyl9"
       },
       "artists": [
         {
-          "name": "The Oak Ridge Boys",
-          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
         }
       ],
-      "duration_ms": 179533,
-      "name": "Leaving Louisiana In The Broad Daylight",
-      "url": "https://open.spotify.com/track/6BjA6FWovt4T2T5ZIW1XJQ"
+      "duration_ms": 174640,
+      "name": "Slow Hand",
+      "url": "https://open.spotify.com/track/2h1Xj6D76ygKS3tu9DgIY5"
     },
     {
       "added_at": "2024-05-04 20:18:13",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-05-04 20:18:13",
       "album": {
-        "name": "When I Dream",
-        "url": "https://open.spotify.com/album/6yjOONx5zNbysHWi6a9sah"
-      },
-      "artists": [
-        {
-          "name": "Crystal Gayle",
-          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
-        }
-      ],
-      "duration_ms": 174520,
-      "name": "Talking In Your Sleep",
-      "url": "https://open.spotify.com/track/4JqusF4byBFBfcv43ZPyjc"
-    },
-    {
-      "added_at": "2024-05-04 20:18:13",
-      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of Webb Pierce",
         "url": "https://open.spotify.com/album/6LlsOhQeU1WQQbGaaFANSy"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 146666,
       "name": "There Stands The Glass",
       "url": "https://open.spotify.com/track/0VxX3RBKO46Ky6XgvN0bME"
+    },
+    {
+      "added_at": "2024-05-04 20:18:13",
+      "album": {
+        "name": "When I Dream",
+        "url": "https://open.spotify.com/album/6yjOONx5zNbysHWi6a9sah"
+      },
+      "artists": [
+        {
+          "name": "Crystal Gayle",
+          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
+        }
+      ],
+      "duration_ms": 174520,
+      "name": "Talking In Your Sleep",
+      "url": "https://open.spotify.com/track/4JqusF4byBFBfcv43ZPyjc"
     },
     {
       "added_at": "2024-05-04 20:18:13",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-05-04 20:18:13",
       "album": {
-        "name": "The Essential Eddy Arnold",
-        "url": "https://open.spotify.com/album/2JQPr2Z79G7wkvZ8w5EzVs"
-      },
-      "artists": [
-        {
-          "name": "Eddy Arnold",
-          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
-        }
-      ],
-      "duration_ms": 163346,
-      "name": "Cattle Call",
-      "url": "https://open.spotify.com/track/6Ha2dwEqdLBrDhImosfrBA"
-    },
-    {
-      "added_at": "2024-05-04 20:18:13",
-      "album": {
         "name": "The Very Best Of Rosanne Cash",
         "url": "https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 195080,
       "name": "Tennessee Flat Top Box",
       "url": "https://open.spotify.com/track/3zyj0RajXg2w2Bnn773mnW"
+    },
+    {
+      "added_at": "2024-05-04 20:18:13",
+      "album": {
+        "name": "The Essential Eddy Arnold",
+        "url": "https://open.spotify.com/album/2JQPr2Z79G7wkvZ8w5EzVs"
+      },
+      "artists": [
+        {
+          "name": "Eddy Arnold",
+          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
+        }
+      ],
+      "duration_ms": 163346,
+      "name": "Cattle Call",
+      "url": "https://open.spotify.com/track/6Ha2dwEqdLBrDhImosfrBA"
     },
     {
       "added_at": "2024-05-04 20:18:13",

@@ -4,7 +4,7 @@
 
 > Music From "Monster Hunter Now"! 音楽で辿る「Monster Hunter Now」の世界! © 2023 Niantic\. Characters / Artwork/ Music © CAPCOM CO., LTD.
 
-62 songs - 2 hr 50 min
+63 songs - 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Succession of Light](https://open.spotify.com/track/1qtmr0RDgcyEhMEmN0VZzf) | [YUKO KOMIYAMA](https://open.spotify.com/artist/4EbP1joGE8aSWYO4Seq23A) | [Monster Hunter World: Iceborne Original Soundtrack](https://open.spotify.com/album/4AenYpO2QiF0pi74wSIDOa) | 3:45 | 2023-09-13 | 2024-04-19 |
 | [Sunbreak \- English Version](https://open.spotify.com/track/1H4PFdeesF3V0ELt8AJO2J) | [堀諭史](https://open.spotify.com/artist/56JQzzYTLuEO1MvPct6Tfg), [サラ・オレイン](https://open.spotify.com/artist/0VVDJwGWHTDTyzQDCenBoN) | [MONSTER HUNTER RISE:SUNBREAK ORIGINALSOUNDTRACK](https://open.spotify.com/album/6R1dDgIgAg07LgssoTdSzr) | 5:36 | 2023-09-13 | 2024-04-19 |
 | [Sunbreak \- 英語 ver.](https://open.spotify.com/track/5efdMhrUxiycPp5wOkrQ2m) | [堀諭史](https://open.spotify.com/artist/56JQzzYTLuEO1MvPct6Tfg), [サラ・オレイン](https://open.spotify.com/artist/0VVDJwGWHTDTyzQDCenBoN) | [モンスターハンターライズ:サンブレイク オリジナル・サウンドトラック](https://open.spotify.com/album/6J51LKG9lj0uwWwkMa7CQu) | 5:36 | 2023-09-13 |  |
+| [survival dAnce](https://open.spotify.com/track/0pj4w3Vaj8CGI4yHwVo6QM) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [survival dAnce](https://open.spotify.com/album/619D9YA3zlPSp8KV3KCuxi) | 2:19 | 2024-06-18 |  |
 | [Wildspire Waste: Medium Monsters Abound](https://open.spotify.com/track/6mllzC3mGOvMBZ9u0LONa3) | [Akihiko Narita](https://open.spotify.com/artist/6iA27PNXCsDXNyhLGYk6Bl) | [MONSTER HUNTER: WORLD ORIGINAL SOUNDTRACK](https://open.spotify.com/album/3QkEVIvIqgVfyHY0Lf8QRG) | 2:33 | 2023-09-13 | 2024-04-19 |
 | [Wildspire Waste: Small Monsters Abound](https://open.spotify.com/track/505juTsBnOtvVtfHvP1lUU) | [Akihiko Narita](https://open.spotify.com/artist/6iA27PNXCsDXNyhLGYk6Bl) | [MONSTER HUNTER: WORLD ORIGINAL SOUNDTRACK](https://open.spotify.com/album/3QkEVIvIqgVfyHY0Lf8QRG) | 1:55 | 2023-09-13 | 2024-04-19 |
 | [カムラ祓え歌](https://open.spotify.com/track/29gR6IJ9DWBOP2oFOzTLmA) | [Reo Uratani](https://open.spotify.com/artist/09RfEzNT81tvlqp2yvrZpA) | [モンスターハンターライズ オリジナルサウンドトラック](https://open.spotify.com/album/5Ktf5vRcVR04E4Ojl5dQmc) | 4:00 | 2023-09-13 |  |

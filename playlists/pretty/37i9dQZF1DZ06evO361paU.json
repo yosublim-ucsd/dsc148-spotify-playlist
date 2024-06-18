@@ -1,12 +1,12 @@
 {
   "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 260658,
+  "num_followers": 260723,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmzZgAAAAACle/6RW4vLIxQKanYilaAo",
+  "snapshot_id": "Zm4rAAAAAABeg4Jw81qNRJ5/i3bl0Shq",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 221332,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/7aiQ0WWBBC0HzeI0PgGYJs"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 231666,
       "name": "Again",
       "url": "https://open.spotify.com/track/5c1QJAiC3773EwiZLwHf5x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/3YcbqIhwAiHy3w2vWy2orI"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 257733,
+      "name": "I Belong To You",
+      "url": "https://open.spotify.com/track/02UjN28wB5uyeqUhZTiuZ2"
     },
     {
       "added_at": null,
@@ -103,22 +103,6 @@
       "duration_ms": 191200,
       "name": "Heaven Help",
       "url": "https://open.spotify.com/track/0uHbPoDjquncfYsLt00Aj2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 264560,
-      "name": "American Woman",
-      "url": "https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl"
     },
     {
       "added_at": null,
@@ -339,22 +323,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backatown",
-        "url": "https://open.spotify.com/album/5J26uchSALEhy9xwkdeV5a"
+        "name": "Are You Gonna Go My Way",
+        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
       },
       "artists": [
-        {
-          "name": "Trombone Shorty",
-          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
-        },
         {
           "name": "Lenny Kravitz",
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 221360,
-      "name": "Something Beautiful",
-      "url": "https://open.spotify.com/track/1ZESGzWrFSwXPplkscUsUR"
+      "duration_ms": 294693,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/6x9t21Gl6bRhOrgigur7wK"
     },
     {
       "added_at": null,
@@ -391,18 +371,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Are You Gonna Go My Way",
-        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
+        "name": "Backatown",
+        "url": "https://open.spotify.com/album/5J26uchSALEhy9xwkdeV5a"
       },
       "artists": [
+        {
+          "name": "Trombone Shorty",
+          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
+        },
         {
           "name": "Lenny Kravitz",
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 294693,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/6x9t21Gl6bRhOrgigur7wK"
+      "duration_ms": 221360,
+      "name": "Something Beautiful",
+      "url": "https://open.spotify.com/track/1ZESGzWrFSwXPplkscUsUR"
     },
     {
       "added_at": null,
@@ -795,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baptism",
-        "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
+        "name": "Black and White America",
+        "url": "https://open.spotify.com/album/0RJA6msM8USEqe50FRY6b0"
       },
       "artists": [
         {
@@ -804,9 +788,9 @@
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 255573,
-      "name": "Lady",
-      "url": "https://open.spotify.com/track/4qM2h3xkzwGJiVv6GgL6w0"
+      "duration_ms": 208626,
+      "name": "Superlove",
+      "url": "https://open.spotify.com/track/3jzm36w0SW0QD005JxbRUR"
     },
     {
       "added_at": null,
@@ -827,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black and White America",
-        "url": "https://open.spotify.com/album/0RJA6msM8USEqe50FRY6b0"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1cW0de5T5fdedlS4YqvyCv"
       },
       "artists": [
         {
@@ -836,9 +820,9 @@
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 208626,
-      "name": "Superlove",
-      "url": "https://open.spotify.com/track/3jzm36w0SW0QD005JxbRUR"
+      "duration_ms": 290826,
+      "name": "Black Velveteen",
+      "url": "https://open.spotify.com/track/7ptNdKLu4PHKcma1zCAQLW"
     }
   ],
   "unique_name": "This Is Lenny Kravitz",

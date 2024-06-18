@@ -178,7 +178,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 186666,
       "name": "About To Get Crazy",
       "url": "https://open.spotify.com/track/3HtN9YBRCw6rIZIkmd3GGA"
@@ -732,6 +732,24 @@
       "duration_ms": 230746,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
+    },
+    {
+      "album": {
+        "name": "Bad Idea",
+        "url": "https://open.spotify.com/album/7toU4cKKa2d6AVUjrappDo"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155681,
+      "name": "Bad Idea",
+      "url": "https://open.spotify.com/track/6azVi5ToFHo6KfKs6SstAC"
     },
     {
       "album": {
@@ -1525,6 +1543,46 @@
     },
     {
       "album": {
+        "name": "Came Here for Love (Acoustic)",
+        "url": "https://open.spotify.com/album/2YwHJ9OLSiwzwo6n4VLEvk"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Ella Eyre",
+          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216015,
+      "name": "Came Here for Love - Acoustic",
+      "url": "https://open.spotify.com/track/6gBwaCbb1lKHvlN9mVOVAg"
+    },
+    {
+      "album": {
+        "name": "hold my hand, i'm too scared of falling",
+        "url": "https://open.spotify.com/album/77C946veQgGJL8qDHVhlob"
+      },
+      "artists": [
+        {
+          "name": "BLVCK VI\u00d8LET",
+          "url": "https://open.spotify.com/artist/1izSVOOO2niWhSrqoi107b"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217014,
+      "name": "can we speak in the morning?",
+      "url": "https://open.spotify.com/track/7MkIOxjKzCQunEKebCIA2J"
+    },
+    {
+      "album": {
         "name": "Covers (Vol. 1)",
         "url": "https://open.spotify.com/album/3SxDqwIDZusXnAdybQD3mP"
       },
@@ -1881,6 +1939,24 @@
     },
     {
       "album": {
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/199JDuwP5a15Vz7RHrLPxb"
+      },
+      "artists": [
+        {
+          "name": "paperthread",
+          "url": "https://open.spotify.com/artist/2p72b1UI5MFSbiIWRouVtd"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252794,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/0lzbkwUTUJW2In3sA8N5hS"
+    },
+    {
+      "album": {
         "name": "Confident",
         "url": "https://open.spotify.com/album/2plkDryrrvLh6gUY7Zx1tA"
       },
@@ -1971,6 +2047,24 @@
     },
     {
       "album": {
+        "name": "Let's Get Wild",
+        "url": "https://open.spotify.com/album/4ZwXi1jqvaLGcBE2DGCiS4"
+      },
+      "artists": [
+        {
+          "name": "DAKOO",
+          "url": "https://open.spotify.com/artist/72343jDquF52drRGQa3xZV"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151664,
+      "name": "Crash",
+      "url": "https://open.spotify.com/track/4TOHoGo1RR1K5AKF1Sj1PC"
+    },
+    {
+      "album": {
         "name": "Crazy What Love Can Do",
         "url": "https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707"
       },
@@ -1994,6 +2088,24 @@
       "duration_ms": 169756,
       "name": "Crazy What Love Can Do",
       "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
+    },
+    {
+      "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/0O35a57sTTUEI2sid9EPQa"
+      },
+      "artists": [
+        {
+          "name": "Mergui",
+          "url": "https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195848,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/0kb42sln40xKrX5wgwU1ak"
     },
     {
       "album": {
@@ -3693,6 +3805,28 @@
     },
     {
       "album": {
+        "name": "Good to Be Bad (Lionel Fabert Remix)",
+        "url": "https://open.spotify.com/album/638rijoSUJUZEz6sJxZ5jB"
+      },
+      "artists": [
+        {
+          "name": "CRMNL",
+          "url": "https://open.spotify.com/artist/4KGzIN3H6JbwyLKjs93tUQ"
+        },
+        {
+          "name": "Lionel Fabert",
+          "url": "https://open.spotify.com/artist/5Qep23Mw61DcpUzoosnA43"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153928,
+      "name": "Good to Be Bad (Lionel Fabert Remix)",
+      "url": "https://open.spotify.com/track/5K9ou6fnkrGkuMCCvjsqvr"
+    },
+    {
+      "album": {
         "name": "Greasy, Like Corn On The Cob, Mad Butter and Onion Rings",
         "url": "https://open.spotify.com/album/3uXHcQWJx4yXgzFI8qCc1h"
       },
@@ -3805,6 +3939,24 @@
     },
     {
       "album": {
+        "name": "Jaw Drop",
+        "url": "https://open.spotify.com/album/5GSK2zyZeXipkEkdfRWD9V"
+      },
+      "artists": [
+        {
+          "name": "Laurell",
+          "url": "https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122893,
+      "name": "Have Some Fun",
+      "url": "https://open.spotify.com/track/36n3G0Gd8Y2AGBynsUqvcn"
+    },
+    {
+      "album": {
         "name": "Head & Heart (feat. MNEK)",
         "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
       },
@@ -3820,7 +3972,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-19",
+      "date_removed": null,
       "duration_ms": 166028,
       "name": "Head & Heart (feat. MNEK)",
       "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
@@ -6041,6 +6193,28 @@
     },
     {
       "album": {
+        "name": "lights out",
+        "url": "https://open.spotify.com/album/3r3GXbYGGdATyD21r7c5kJ"
+      },
+      "artists": [
+        {
+          "name": "BLVCK VI\u00d8LET",
+          "url": "https://open.spotify.com/artist/1izSVOOO2niWhSrqoi107b"
+        },
+        {
+          "name": "Jade Morgan Kelly",
+          "url": "https://open.spotify.com/artist/0XQAPEzanOVfbyV4LZBDIs"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171186,
+      "name": "lights out",
+      "url": "https://open.spotify.com/track/4NJQjbsghwy8pQCBbz1Rib"
+    },
+    {
+      "album": {
         "name": "DANCING ON THE PEOPLE",
         "url": "https://open.spotify.com/album/2tkR7vg5l9QJRmHVXZ76sK"
       },
@@ -7500,6 +7674,24 @@
       "duration_ms": 200500,
       "name": "Playing With Fire",
       "url": "https://open.spotify.com/track/7zQYsDCMYhXNcG3SbDQvHR"
+    },
+    {
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/0a8kRcuw4NOalpS2V4dhjv"
+      },
+      "artists": [
+        {
+          "name": "RAVN",
+          "url": "https://open.spotify.com/artist/3TvMWdojrvPFOiU0PznJJ2"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141293,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/6SI4Vs250peJHFYUShlst7"
     },
     {
       "album": {
@@ -9848,7 +10040,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 237202,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/7sgvhY89MQ5ipWtgr9l3NQ"

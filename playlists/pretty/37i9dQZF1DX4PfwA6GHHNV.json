@@ -1,6 +1,6 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 17581,
+  "num_followers": 17580,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -519,26 +519,6 @@
     {
       "added_at": "2024-06-07 03:01:00",
       "album": {
-        "name": "YEY\u00ca",
-        "url": "https://open.spotify.com/album/3MvzSKmhx9dx2wzKP48nMT"
-      },
-      "artists": [
-        {
-          "name": "Ally Akin",
-          "url": "https://open.spotify.com/artist/1BcFdQaRLbfN6nzhUIPalx"
-        },
-        {
-          "name": "BM Ally",
-          "url": "https://open.spotify.com/artist/3SRpSeXuXx3FqwmOEV3gKE"
-        }
-      ],
-      "duration_ms": 195400,
-      "name": "YEY\u00ca",
-      "url": "https://open.spotify.com/track/5K99hrcPJLnVBQg15v6UYq"
-    },
-    {
-      "added_at": "2024-06-07 03:01:00",
-      "album": {
         "name": "Replay",
         "url": "https://open.spotify.com/album/11of4rayZUkQv4wEy17NAt"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 217959,
       "name": "Replay",
       "url": "https://open.spotify.com/track/0p91gGZkNb2i0n2QLtf5rB"
+    },
+    {
+      "added_at": "2024-06-07 03:01:00",
+      "album": {
+        "name": "YEY\u00ca",
+        "url": "https://open.spotify.com/album/3MvzSKmhx9dx2wzKP48nMT"
+      },
+      "artists": [
+        {
+          "name": "Ally Akin",
+          "url": "https://open.spotify.com/artist/1BcFdQaRLbfN6nzhUIPalx"
+        },
+        {
+          "name": "BM Ally",
+          "url": "https://open.spotify.com/artist/3SRpSeXuXx3FqwmOEV3gKE"
+        }
+      ],
+      "duration_ms": 195400,
+      "name": "YEY\u00ca",
+      "url": "https://open.spotify.com/track/5K99hrcPJLnVBQg15v6UYq"
     },
     {
       "added_at": "2024-06-07 03:01:00",
@@ -779,6 +779,26 @@
     {
       "added_at": "2024-06-07 03:01:00",
       "album": {
+        "name": "T\u00f4 Aqui de Novo",
+        "url": "https://open.spotify.com/album/3OeSVUi0XIzOeoZtq8ILhp"
+      },
+      "artists": [
+        {
+          "name": "Vinijoe",
+          "url": "https://open.spotify.com/artist/3WpBCx2iY4izkCdALJW2Tg"
+        },
+        {
+          "name": "Pedrin 31",
+          "url": "https://open.spotify.com/artist/2pjR2u4veZ9FwwBGNhkzyx"
+        }
+      ],
+      "duration_ms": 215572,
+      "name": "T\u00f4 Aqui de Novo",
+      "url": "https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo"
+    },
+    {
+      "added_at": "2024-06-07 03:01:00",
+      "album": {
         "name": "Me Diz",
         "url": "https://open.spotify.com/album/78VjVSVMCI9QXjb0I3XxQP"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 162338,
       "name": "Me Diz",
       "url": "https://open.spotify.com/track/2apnjeVNCCWHMN0nlF8caL"
-    },
-    {
-      "added_at": "2024-06-07 03:01:00",
-      "album": {
-        "name": "T\u00f4 Aqui de Novo",
-        "url": "https://open.spotify.com/album/3OeSVUi0XIzOeoZtq8ILhp"
-      },
-      "artists": [
-        {
-          "name": "Vinijoe",
-          "url": "https://open.spotify.com/artist/3WpBCx2iY4izkCdALJW2Tg"
-        },
-        {
-          "name": "Pedrin 31",
-          "url": "https://open.spotify.com/artist/2pjR2u4veZ9FwwBGNhkzyx"
-        }
-      ],
-      "duration_ms": 215572,
-      "name": "T\u00f4 Aqui de Novo",
-      "url": "https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo"
     },
     {
       "added_at": "2024-06-07 03:01:00",
@@ -931,6 +931,22 @@
     {
       "added_at": "2024-06-07 03:01:00",
       "album": {
+        "name": "LUNA",
+        "url": "https://open.spotify.com/album/1YGjRxJd4jYc5GIFgaroNu"
+      },
+      "artists": [
+        {
+          "name": "Andrade",
+          "url": "https://open.spotify.com/artist/2R5AqLTQob9ojaJVg26TDQ"
+        }
+      ],
+      "duration_ms": 171789,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/2532CwbBhEyoXmEE6udb1J"
+    },
+    {
+      "added_at": "2024-06-07 03:01:00",
+      "album": {
         "name": "Natureza",
         "url": "https://open.spotify.com/album/19DOtV64ZPswRZNDJqeGVd"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 144000,
       "name": "Natureza",
       "url": "https://open.spotify.com/track/7HUgyJJ6xMLA3Y0kQaNPub"
-    },
-    {
-      "added_at": "2024-06-07 03:01:00",
-      "album": {
-        "name": "LUNA",
-        "url": "https://open.spotify.com/album/1YGjRxJd4jYc5GIFgaroNu"
-      },
-      "artists": [
-        {
-          "name": "Andrade",
-          "url": "https://open.spotify.com/artist/2R5AqLTQob9ojaJVg26TDQ"
-        }
-      ],
-      "duration_ms": 171789,
-      "name": "LUNA",
-      "url": "https://open.spotify.com/track/2532CwbBhEyoXmEE6udb1J"
     },
     {
       "added_at": "2024-06-07 03:01:00",

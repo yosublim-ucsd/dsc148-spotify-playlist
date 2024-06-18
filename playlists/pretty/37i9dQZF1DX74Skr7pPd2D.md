@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,987 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,988 likes - 100 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 40 | [Ruint](https://open.spotify.com/track/1WIabt99ZdD7c8ZHg9mkJO) | [Johnny Hodges & His Orchestra](https://open.spotify.com/artist/586u2f7H540oCefUIazflT) | [Side By Side](https://open.spotify.com/album/24gavJ6O46xWEAW2nDJX1m) | 2:31 |
 | 41 | [All Of Me](https://open.spotify.com/track/3Fa1u9uDaAvLq77HsS4yuM) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Motion](https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU) | 7:37 |
 | 42 | [Samba Para Dos](https://open.spotify.com/track/2T2Q1jDvjYRfxI4thF8v08) | [Lalo Schifrin](https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1), [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Samba Para Dos](https://open.spotify.com/album/1VHvivZcnwF5NoENyrP0hM) | 10:06 |
-| 43 | [Movin' Wes \- Pt\. 1](https://open.spotify.com/track/5uwbSwv7uRUEMEy3YkqwrZ) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Movin' Wes](https://open.spotify.com/album/0dJZSz1W74REVpVeedPvS5) | 3:29 |
-| 44 | [Too Close For Comfort](https://open.spotify.com/track/5Omijj1Iu3rbEADHsGSpKe) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC), [The Marty Paich Orchestra](https://open.spotify.com/artist/0FAwCZTimDLgBoxY1vyH3p) | [Mel Torme: Swings Shubert Alley](https://open.spotify.com/album/0CEOTjrTaR5vu6GlptfPFE) | 4:05 |
+| 43 | [Too Close For Comfort](https://open.spotify.com/track/5Omijj1Iu3rbEADHsGSpKe) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC), [The Marty Paich Orchestra](https://open.spotify.com/artist/0FAwCZTimDLgBoxY1vyH3p) | [Mel Torme: Swings Shubert Alley](https://open.spotify.com/album/0CEOTjrTaR5vu6GlptfPFE) | 4:05 |
+| 44 | [Movin' Wes \- Pt\. 1](https://open.spotify.com/track/5uwbSwv7uRUEMEy3YkqwrZ) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Movin' Wes](https://open.spotify.com/album/0dJZSz1W74REVpVeedPvS5) | 3:29 |
 | 45 | [Noche De Ronda](https://open.spotify.com/track/65KxxZPi752Fd6cqwiFzHx) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Nocturne](https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo) | 5:40 |
 | 46 | [Stompin' At The Savoy](https://open.spotify.com/track/4Skc87uKf4cHqEYbnr56La) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [A Generation Ago Today](https://open.spotify.com/album/1L4xE6y5n2qKfYqJCoqzLf) | 6:08 |
 | 47 | [Bye Bye Blackbird](https://open.spotify.com/track/41QzbYkCxCe5MgnK1SQdzi) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Ben Webster Meets Oscar Peterson](https://open.spotify.com/album/52vxvueV32JO6tZHaSojRZ) | 6:42 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 54 | [Worlds Outside](https://open.spotify.com/track/5as828xQewhAy2JBXwakAj) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [The Very Best of Chris Botti](https://open.spotify.com/album/33vfemONdHY85yWu1yjBaD) | 4:37 |
 | 55 | [Round Midnight](https://open.spotify.com/track/7LzDBgmMFhfcqPaYBTJoj4) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [An Image: Lee Konitz With Strings](https://open.spotify.com/album/3uW4dhafeqWlQrN9bXE3YN) | 5:19 |
 | 56 | [The Nearness Of You](https://open.spotify.com/track/4ulKHoPTqwSvcHCK8SqSCV) | [Will Downing](https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY), [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [Pleasures Of The Night](https://open.spotify.com/album/65jikqU2UvCqjLdI1y8baP) | 7:19 |
-| 57 | [My Funny Valentine](https://open.spotify.com/track/00GTtlXO556jzueCinWmu9) | [Lalo Schifrin](https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1), [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Samba Para Dos](https://open.spotify.com/album/1VHvivZcnwF5NoENyrP0hM) | 2:00 |
-| 58 | [Moonlight \(Claro de Luna\)](https://open.spotify.com/track/538qa5HsgLRVkRqTKBbuDn) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Nocturne](https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo) | 5:33 |
+| 57 | [Moonlight \(Claro de Luna\)](https://open.spotify.com/track/538qa5HsgLRVkRqTKBbuDn) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Nocturne](https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo) | 5:33 |
+| 58 | [My Funny Valentine](https://open.spotify.com/track/00GTtlXO556jzueCinWmu9) | [Lalo Schifrin](https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1), [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Samba Para Dos](https://open.spotify.com/album/1VHvivZcnwF5NoENyrP0hM) | 2:00 |
 | 59 | [BR Blues](https://open.spotify.com/track/6xFQq4wY6YODELrMwB2npk) | [Buddy Rich And His Sextet](https://open.spotify.com/artist/4wc5BNI4IBB2UtTrT5OQZK) | [Blues Caravan](https://open.spotify.com/album/4ZFU2bXCizAwkLJmQVogZ9) | 3:09 |
 | 60 | [Let's Go Back To The Waltz](https://open.spotify.com/track/2JJJzJ5E8wx3H5CwuxZO0f) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Shelly Manne](https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo) | [Empathy](https://open.spotify.com/album/3R0A51xf7JzlKCEm3RmleH) | 4:30 |
 | 61 | [What's New?](https://open.spotify.com/track/6rUJjG9w109kXQywBxfPLV) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Giblet Gravy \(Expanded Edition\)](https://open.spotify.com/album/2tqkMzsAAFDhOwjGGCkJZJ) | 5:32 |

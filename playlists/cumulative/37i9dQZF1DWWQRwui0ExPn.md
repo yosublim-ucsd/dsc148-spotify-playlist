@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,821 songs - 10 day 18 hr 34 min
+6,822 songs - 10 day 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1718,6 +1718,7 @@
 | [Earflower](https://open.spotify.com/track/3ak7OdhMSb9AstNkgTdPSS) | [Pinetops Winston](https://open.spotify.com/artist/3Ypfonvr3ggb1Fe3OaYpEd) | [Earflower](https://open.spotify.com/album/3rIhreyU9OzMe5NaUkmnxd) | 2:49 | 2022-06-17 | 2022-10-28 |
 | [Early Bird](https://open.spotify.com/track/7EZkcQqobXfRZOjsnT8duc) | [Pelicano](https://open.spotify.com/artist/3CRpU6gIV5tdSEjvZqlRl0), [DJ Lagoa](https://open.spotify.com/artist/4YFewOTyrU36fR7k3LkIY4) | [Early Bird](https://open.spotify.com/album/6PDsP1rXR8nJHBmBctnfSV) | 2:03 | 2021-04-17 | 2022-01-14 |
 | [Early Bird](https://open.spotify.com/track/3HAZRPavpVr16nian6BTDg) | [Yles](https://open.spotify.com/artist/6xuhrq8QZxXqXRz5XKxwaG), [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X), [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h) | [Early Bird](https://open.spotify.com/album/0Vg86xOE6SCKi9zVkVj3RB) | 1:46 | 2022-06-03 | 2022-09-30 |
+| [Early Birds](https://open.spotify.com/track/1FnSnpMEQF0USjUgeuOf4y) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Early Birds](https://open.spotify.com/album/6tATSmM3ph9cXzwMYinRes) | 2:22 | 2024-06-14 |  |
 | [Early Grey](https://open.spotify.com/track/4fbZjDV5jrlnJgche5lZBj) | [Blank x Blank](https://open.spotify.com/artist/7tZMN6RonZwh9uUI3zdDgT) | [Early Grey](https://open.spotify.com/album/2mpedk23jMimsBI06nCWxi) | 2:36 | 2022-07-01 | 2022-10-28 |
 | [Early In The Morning](https://open.spotify.com/track/2QMy9wSKOl72BjeJMAE5fm) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [A Really Cool One / Early In The Morning](https://open.spotify.com/album/0o8OgZeg0OLrHcUoXD6aUh) | 1:26 | 2022-06-17 | 2022-07-16 |
 | [Early morning](https://open.spotify.com/track/1X5wPCs7mTrKAFlQXQGZcq) | [Blooky Jeeky](https://open.spotify.com/artist/0vUFizCD32zqgWG2BYHYVn) | [Only Surface](https://open.spotify.com/album/4JsHKaH4j84GCEwGwQfa7X) | 1:46 | 2022-02-14 | 2022-07-22 |
@@ -5594,7 +5595,7 @@
 | [Stray Cats](https://open.spotify.com/track/7MVV6xMCSes6sXMV0kEd1Q) | [Slowdown](https://open.spotify.com/artist/6qMZqcd02lR7PB8Np47OSF) | [Stray Cats](https://open.spotify.com/album/74Da4ZxXjMZTWTEswgcSTN) | 1:46 | 2022-12-09 | 2023-11-24 |
 | [Stream of Consciousness](https://open.spotify.com/track/5zCwGSdX2et9QL5bvCNEp3) | [Lightover](https://open.spotify.com/artist/3YArYgoxRyJPcpSLjKJeX3) | [Stream of Consciousness](https://open.spotify.com/album/4dKDzOF6I8IMZqKFEInpcn) | 2:32 | 2022-06-10 | 2022-09-30 |
 | [Stream Of Consciousness](https://open.spotify.com/track/0hoLtYBWuzQscvEUsSMCon) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [cløse2u](https://open.spotify.com/artist/4SAUbKw5T4xORiIq16XKUE) | [Stream Of Consciousness](https://open.spotify.com/album/04sFoMvrdoFbMjy7iquiQj) | 2:22 | 2023-06-07 | 2023-09-16 |
-| [Street 34](https://open.spotify.com/track/4hIalvhaz7MeO1J0kYKx3p) | [Benjiroe](https://open.spotify.com/artist/6Wn8G21OpyLGppBZazEhHp) | [Street 34](https://open.spotify.com/album/6jFTYjYvX678auOMIeYwVh) | 2:00 | 2024-01-12 |  |
+| [Street 34](https://open.spotify.com/track/4hIalvhaz7MeO1J0kYKx3p) | [Benjiroe](https://open.spotify.com/artist/6Wn8G21OpyLGppBZazEhHp) | [Street 34](https://open.spotify.com/album/6jFTYjYvX678auOMIeYwVh) | 2:00 | 2024-01-12 | 2024-06-18 |
 | [Streetmarket Jam](https://open.spotify.com/track/4KOJ6hxcyraAVfFnMTMmMy) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa) | [Streetmarket Jam](https://open.spotify.com/album/1wVSPcdIh4UHgLqQVHkKAM) | 1:54 | 2022-11-25 | 2023-09-16 |
 | [streets](https://open.spotify.com/track/1qdfzxtmZYZ4pmpvmJGD4Z) | [lomix](https://open.spotify.com/artist/25bLrD0Ko3DxkuA5mhdEZA) | [streets](https://open.spotify.com/album/4be64RBfU7NfyRztEPMi8G) | 1:56 | 2022-09-23 | 2024-02-23 |
 | [Stressed Out](https://open.spotify.com/track/428XVwBl5Fb7INjU72Po14) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [Stressed Out](https://open.spotify.com/album/4nqypFxRgnryfWJqXkv3av) | 2:10 | 2022-09-16 | 2022-12-24 |

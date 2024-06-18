@@ -264,7 +264,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 87850,
       "name": "armor club",
       "url": "https://open.spotify.com/track/6srHQG1Fj6eL2MelBZxA3E"
@@ -924,7 +924,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 213781,
       "name": "Defeated",
       "url": "https://open.spotify.com/track/5N7k2pJXcRlWpXOOHp3OhQ"
@@ -2394,7 +2394,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 134144,
       "name": "jackass",
       "url": "https://open.spotify.com/track/4YudWFElI1fvs8cHgbzslh"
@@ -3782,7 +3782,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 194666,
       "name": "Nuts",
       "url": "https://open.spotify.com/track/2sR1e5YFAvXVN6EiIwR2is"
@@ -3880,7 +3880,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 152500,
       "name": "Ome Robert",
       "url": "https://open.spotify.com/track/4hFLAgCvQdngAtIhb3KaVI"
@@ -5770,7 +5770,7 @@
       ],
       "date_added": "2024-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 193493,
       "name": "You Spin Me Round (Like A Record)",
       "url": "https://open.spotify.com/track/3Ubdfh2RcVAvNR8YfvVvRi"
@@ -7240,7 +7240,7 @@
       ],
       "date_added": "2024-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 239072,
       "name": "\u041a\u043e\u043a\u043e\u0440\u043e",
       "url": "https://open.spotify.com/track/1QpOOcfTPwdkJUJShO882a"
@@ -7602,10 +7602,28 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 118356,
       "name": "\u041c\u043e\u0448\u0435\u043d\u043d\u0438\u0447\u0435\u0441\u0442\u0432\u043e",
       "url": "https://open.spotify.com/track/0rxbo7bvHMBqeR5T1hslqE"
+    },
+    {
+      "album": {
+        "name": "\u041c\u0443\u0437\u044b\u043a\u0430 \u0421\u0444\u0435\u0440 (\u041c\u0443\u0437\u044b\u043a\u0430 \u043a \u0444\u0438\u043b\u044c\u043c\u0443 \u00ab\u041c\u0430\u0439\u043e\u0440 \u0413\u0440\u043e\u043c: \u0418\u0433\u0440\u0430\u00bb)",
+        "url": "https://open.spotify.com/album/6jEL6LFmPgmRnySgidketg"
+      },
+      "artists": [
+        {
+          "name": "GONE.Fludd",
+          "url": "https://open.spotify.com/artist/0ohUvVskERzK18bvWXFEqi"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141017,
+      "name": "\u041c\u0443\u0437\u044b\u043a\u0430 \u0421\u0444\u0435\u0440 - \u041c\u0443\u0437\u044b\u043a\u0430 \u043a \u0444\u0438\u043b\u044c\u043c\u0443 \u00ab\u041c\u0430\u0439\u043e\u0440 \u0413\u0440\u043e\u043c: \u0418\u0433\u0440\u0430\u00bb",
+      "url": "https://open.spotify.com/track/7cDUhWJ5TVjx3sSryc5dG8"
     },
     {
       "album": {
@@ -8538,6 +8556,24 @@
       "duration_ms": 148500,
       "name": "\u0421\u043d\u0435\u0433 \u0440\u0430\u0441\u0442\u0430\u044f\u043b \u043d\u0430 \u043f\u043b\u0435\u0447\u0430\u0445",
       "url": "https://open.spotify.com/track/6mC2PY4sm4M0YFL9dsBMGc"
+    },
+    {
+      "album": {
+        "name": "\u0421\u043d\u044b \u0410\u043b\u0438\u0441\u044b",
+        "url": "https://open.spotify.com/album/0GOqgXz8R8Qv2Kc9drW5S3"
+      },
+      "artists": [
+        {
+          "name": "HOFMANNITA",
+          "url": "https://open.spotify.com/artist/6J48nc1Q9SmB4gEl9c4IgC"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161280,
+      "name": "\u0421\u043d\u044b \u0410\u043b\u0438\u0441\u044b",
+      "url": "https://open.spotify.com/track/4y0BtpEX8nemCjNIfBvA5y"
     },
     {
       "album": {

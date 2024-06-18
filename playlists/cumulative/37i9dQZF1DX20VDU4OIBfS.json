@@ -1959,6 +1959,28 @@
     },
     {
       "album": {
+        "name": "Dos Idolos Cantando",
+        "url": "https://open.spotify.com/album/34xJsekBz5oh2dgmc0tAfy"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        },
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172133,
+      "name": "El Loco (with Javier Sol\u00eds)",
+      "url": "https://open.spotify.com/track/0CFTtVmYOGxriJj1NtPoTW"
+    },
+    {
+      "album": {
         "name": "El Sonido Vol I",
         "url": "https://open.spotify.com/album/1NKOp3Ct4RzmSGIApAKkS6"
       },
@@ -2190,7 +2212,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 162186,
       "name": "El \u00faltimo beso - The Last Kiss",
       "url": "https://open.spotify.com/track/0XrGUM48yLYhS13v4NsGuj"

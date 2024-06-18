@@ -1,6 +1,6 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 223123,
+  "num_followers": 223348,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-06-14 00:01:00",
       "album": {
-        "name": "Take A Chance",
-        "url": "https://open.spotify.com/album/0jFg1pE1m0257KL4hpzq2m"
-      },
-      "artists": [
-        {
-          "name": "Mr. Flagio",
-          "url": "https://open.spotify.com/artist/1arUaR84JlrYFPAjZaBKSq"
-        }
-      ],
-      "duration_ms": 472361,
-      "name": "Take A Chance - Original Mix",
-      "url": "https://open.spotify.com/track/0lLqS6XnoLYJJXHj57h4jz"
-    },
-    {
-      "added_at": "2024-06-14 00:01:00",
-      "album": {
         "name": "Gary Low: The Best of",
         "url": "https://open.spotify.com/album/4TS52eFZYJNOkRKnQ37Vt9"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 509240,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/34yg2BvpUtDP6VPmZYCP9x"
+    },
+    {
+      "added_at": "2024-06-14 00:01:00",
+      "album": {
+        "name": "Take A Chance",
+        "url": "https://open.spotify.com/album/0jFg1pE1m0257KL4hpzq2m"
+      },
+      "artists": [
+        {
+          "name": "Mr. Flagio",
+          "url": "https://open.spotify.com/artist/1arUaR84JlrYFPAjZaBKSq"
+        }
+      ],
+      "duration_ms": 472361,
+      "name": "Take A Chance - Original Mix",
+      "url": "https://open.spotify.com/track/0lLqS6XnoLYJJXHj57h4jz"
     },
     {
       "added_at": "2024-06-14 00:01:00",
@@ -819,22 +819,18 @@
     {
       "added_at": "2024-06-14 00:01:00",
       "album": {
-        "name": "Luca (Protopapa Remix)",
-        "url": "https://open.spotify.com/album/4WFylezzuTH1eMxbu10hjW"
+        "name": "Italiana Vol. 1",
+        "url": "https://open.spotify.com/album/3v0KSycOqTxmNwyMhhrNOD"
       },
       "artists": [
         {
-          "name": "Raffaella Carr\u00e0",
-          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
-        },
-        {
-          "name": "Protopapa",
-          "url": "https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54"
+          "name": "Mina",
+          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
         }
       ],
-      "duration_ms": 193762,
-      "name": "Luca (Protopapa Remix)",
-      "url": "https://open.spotify.com/track/4ZA06tbP3P7GvsNYm9n8g2"
+      "duration_ms": 259773,
+      "name": "Morir\u00f2 Per Te - 2001 Remaster",
+      "url": "https://open.spotify.com/track/6Q2gYxDdz165RwZXHCcyIy"
     },
     {
       "added_at": "2024-06-14 00:01:00",
@@ -859,18 +855,22 @@
     {
       "added_at": "2024-06-14 00:01:00",
       "album": {
-        "name": "Italiana Vol. 1",
-        "url": "https://open.spotify.com/album/3v0KSycOqTxmNwyMhhrNOD"
+        "name": "Luca (Protopapa Remix)",
+        "url": "https://open.spotify.com/album/4WFylezzuTH1eMxbu10hjW"
       },
       "artists": [
         {
-          "name": "Mina",
-          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
+          "name": "Raffaella Carr\u00e0",
+          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
+        },
+        {
+          "name": "Protopapa",
+          "url": "https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54"
         }
       ],
-      "duration_ms": 259773,
-      "name": "Morir\u00f2 Per Te - 2001 Remaster",
-      "url": "https://open.spotify.com/track/6Q2gYxDdz165RwZXHCcyIy"
+      "duration_ms": 193762,
+      "name": "Luca (Protopapa Remix)",
+      "url": "https://open.spotify.com/track/4ZA06tbP3P7GvsNYm9n8g2"
     },
     {
       "added_at": "2024-06-14 00:01:00",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2024-06-14 00:01:00",
       "album": {
+        "name": "Desiderio",
+        "url": "https://open.spotify.com/album/73G2ccMo3S3DS7DTCd6pCG"
+      },
+      "artists": [
+        {
+          "name": "Bruno Belissimo",
+          "url": "https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI"
+        }
+      ],
+      "duration_ms": 265663,
+      "name": "Desiderio",
+      "url": "https://open.spotify.com/track/6QCjkO9QE3itTOwe3tmX01"
+    },
+    {
+      "added_at": "2024-06-14 00:01:00",
+      "album": {
         "name": "BUBBLEGUM (J\u00fcrgen Paape \"Frutti Di Mare\" Remix)",
         "url": "https://open.spotify.com/album/3eQABYZMjZ0ZPFlPdxcO5C"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 315916,
       "name": "BUBBLEGUM - J\u00fcrgen Paape \"Frutti Di Mare\" Remix",
       "url": "https://open.spotify.com/track/4A1PYa1gZxIeRdF2iOHEYO"
-    },
-    {
-      "added_at": "2024-06-14 00:01:00",
-      "album": {
-        "name": "Desiderio",
-        "url": "https://open.spotify.com/album/73G2ccMo3S3DS7DTCd6pCG"
-      },
-      "artists": [
-        {
-          "name": "Bruno Belissimo",
-          "url": "https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI"
-        }
-      ],
-      "duration_ms": 265663,
-      "name": "Desiderio",
-      "url": "https://open.spotify.com/track/6QCjkO9QE3itTOwe3tmX01"
     },
     {
       "added_at": "2024-06-14 00:01:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2024-06-14 00:01:00",
       "album": {
+        "name": "When I Let You Down / Boogie Tonight",
+        "url": "https://open.spotify.com/album/3rC5gRgxvzwScP6CbpURsb"
+      },
+      "artists": [
+        {
+          "name": "M & G",
+          "url": "https://open.spotify.com/artist/6Btez2XSYafSPd6FHi1oEe"
+        }
+      ],
+      "duration_ms": 366076,
+      "name": "When I Let You Down - Extended Mix",
+      "url": "https://open.spotify.com/track/40DxZa2JmoJAHW45EJ15ju"
+    },
+    {
+      "added_at": "2024-06-14 00:01:00",
+      "album": {
         "name": "Let me love tonight (12 Inc)",
         "url": "https://open.spotify.com/album/4VJs7sQLWpnHDAXnni4LCU"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 229999,
       "name": "Let Me Love Tonight - Radio Version",
       "url": "https://open.spotify.com/track/6zEAlbxY12vp24gMkiwM1d"
-    },
-    {
-      "added_at": "2024-06-14 00:01:00",
-      "album": {
-        "name": "Dancing on Townsquare",
-        "url": "https://open.spotify.com/album/6gAB9n1Aa5DzJTuoeeBl7c"
-      },
-      "artists": [
-        {
-          "name": "The Chaplin Band",
-          "url": "https://open.spotify.com/artist/0Na3lGtrQVJlRaQEnQD5P2"
-        }
-      ],
-      "duration_ms": 210186,
-      "name": "Il Veliero - Single Version",
-      "url": "https://open.spotify.com/track/26u2CgXp9Qr0MtcEBWi2gv"
     }
   ],
   "unique_name": "Italo Disco",

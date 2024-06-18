@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: oSHAMO
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,455 likes - 191 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,456 likes - 191 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

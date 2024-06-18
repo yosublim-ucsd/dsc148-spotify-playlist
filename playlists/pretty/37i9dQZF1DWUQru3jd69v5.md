@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Digital Astro in cover con WIFEY feat Guè.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,561 likes - 60 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,558 likes - 60 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 18 | [UFFA \(feat\. Silent Bob\)](https://open.spotify.com/track/6Z5xZS3W3zLJGGDA5hv64H) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI) | [È LA \(LOVE\)](https://open.spotify.com/album/2xceE0IerYTmZi5Ueeppqt) | 3:35 |
 | 19 | [Vis a Vis](https://open.spotify.com/track/6LiIq6x7MS67eCY7pzB2A1) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx), [wherestheplug](https://open.spotify.com/artist/1GnHdsagr2KE4NG74AUI0K) | [Vis a Vis](https://open.spotify.com/album/5VTWZuEhrfP2mDwkn5ApSz) | 2:27 |
 | 20 | [Demoni & Bitches](https://open.spotify.com/track/5igR4ckUc31NrR5PaKKsTi) | [Enny P](https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj), [TITE LAVOZ](https://open.spotify.com/artist/7iVCUJA6rWV5yHo9P0b070) | [Demoni & Bitches](https://open.spotify.com/album/3VeZ1fZtMX9tpJqqc5xLgC) | 2:34 |
-| 21 | [Pazzi](https://open.spotify.com/track/7necSK14DaUPU46qJIILQc) | [Kevin Kalvin](https://open.spotify.com/artist/2AAA2f9pypoLem07n4Rj9n), [Abby 6ix](https://open.spotify.com/artist/19nW3VjtThtO0ek8Ymmg9P) | [Pazzi](https://open.spotify.com/album/1jiBgaJe2LbJb6MExUiOkZ) | 3:16 |
-| 22 | [5X5](https://open.spotify.com/track/1QnOV3sO14AsjSIMxP0psf) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [5X5](https://open.spotify.com/album/5HcTHIPgDq2I0yA3heALlu) | 2:18 |
-| 23 | [AFFIDAMENTO](https://open.spotify.com/track/1cyToyIoI0Nr1iSfQWXtzV) | [Skinny](https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk), [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P) | [AFFIDAMENTO](https://open.spotify.com/album/7giGjwm5mpuKSr4YLCYWqK) | 2:21 |
-| 24 | [Grave Digger](https://open.spotify.com/track/5tY1lDmOhFhajX8nlmpWBX) | [YTN Maden](https://open.spotify.com/artist/23kbFdbRpeUNQumiTA88NU), [Sapobully](https://open.spotify.com/artist/2u5doTfPeC2gnLwislKGLE) | [Grave Digger](https://open.spotify.com/album/20amRZTTPzhZHw6UuCG50w) | 2:28 |
-| 25 | [Cocaina \(feat\. Don Pero\)](https://open.spotify.com/track/72raywHOW3sBZkcoXHuHkC) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX), [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [Cocaina \(feat\. Don Pero\)](https://open.spotify.com/album/534APhNqtPZDcua3ALuqPt) | 2:34 |
+| 21 | [5X5](https://open.spotify.com/track/1QnOV3sO14AsjSIMxP0psf) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [5X5](https://open.spotify.com/album/5HcTHIPgDq2I0yA3heALlu) | 2:18 |
+| 22 | [Cocaina \(feat\. Don Pero\)](https://open.spotify.com/track/72raywHOW3sBZkcoXHuHkC) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX), [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [Cocaina \(feat\. Don Pero\)](https://open.spotify.com/album/534APhNqtPZDcua3ALuqPt) | 2:34 |
+| 23 | [Pazzi](https://open.spotify.com/track/7necSK14DaUPU46qJIILQc) | [Kevin Kalvin](https://open.spotify.com/artist/2AAA2f9pypoLem07n4Rj9n), [Abby 6ix](https://open.spotify.com/artist/19nW3VjtThtO0ek8Ymmg9P) | [Pazzi](https://open.spotify.com/album/1jiBgaJe2LbJb6MExUiOkZ) | 3:16 |
+| 24 | [AFFIDAMENTO](https://open.spotify.com/track/1cyToyIoI0Nr1iSfQWXtzV) | [Skinny](https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk), [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P) | [AFFIDAMENTO](https://open.spotify.com/album/7giGjwm5mpuKSr4YLCYWqK) | 2:21 |
+| 25 | [Grave Digger](https://open.spotify.com/track/5tY1lDmOhFhajX8nlmpWBX) | [YTN Maden](https://open.spotify.com/artist/23kbFdbRpeUNQumiTA88NU), [Sapobully](https://open.spotify.com/artist/2u5doTfPeC2gnLwislKGLE) | [Grave Digger](https://open.spotify.com/album/20amRZTTPzhZHw6UuCG50w) | 2:28 |
 | 26 | [Cavaliere](https://open.spotify.com/track/5KG99rNbxru06gg3Zrx95A) | [Kero](https://open.spotify.com/artist/0BY7xhioKfbWBEEViq4ds6) | [Cavaliere](https://open.spotify.com/album/1AWHCFFkqSuPqoZ34LXsDH) | 2:25 |
 | 27 | [Io e Te \(feat\. Néza\)](https://open.spotify.com/track/1xA7UTMMWgHQbkVKtDS7ds) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Isolamento Di Gruppo](https://open.spotify.com/album/0WxNhe7IRznAEeqgclmjlP) | 2:48 |
 | 28 | [Batto il piede giù](https://open.spotify.com/track/7B6YpmeNk6cl10ACUd0jIb) | [Sisco](https://open.spotify.com/artist/7iASU6YGjRZDizIxW6Q7YE), [DiglieloMosi](https://open.spotify.com/artist/1mRo02HeQHdWL4q6gVJCRK) | [Batto il piede giù](https://open.spotify.com/album/39inoBrpaaTTXTMY94qsKa) | 1:51 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 59 | [QUELLI COME ME](https://open.spotify.com/track/5K8KAcxyDeYoZWsnRkSHOt) | [TPrex](https://open.spotify.com/artist/0DS0HbGsD8o2ptbl1lCCok) | [QUELLI COME ME](https://open.spotify.com/album/6uosEztuQgjGdCue7TzIm4) | 2:03 |
 | 60 | [Casino](https://open.spotify.com/track/1L8vTvcSJT0DOS0kpwB7mO) | [Yandie Gotam](https://open.spotify.com/artist/12UoE3xYsxvEWaofNx00Jp), [Ervie](https://open.spotify.com/artist/2jv3dj48LmJ18EwXdgzARH), [Frostee](https://open.spotify.com/artist/6xZVjHaQyPmX5XIXqAWfae), [Kidhakku](https://open.spotify.com/artist/0SXyvXgEtR9aXwFJzuBBjU) | [Casino](https://open.spotify.com/album/1tp24JzWcW3DU7nO0tKW42) | 2:48 |
 
-Snapshot ID: `ZmtsHAAAAACFfq0ZhC9sAdPmNZfiI+BW`
+Snapshot ID: `ZnAeBwAAAAC1aA7o86W+FW2HDZUK7DFv`

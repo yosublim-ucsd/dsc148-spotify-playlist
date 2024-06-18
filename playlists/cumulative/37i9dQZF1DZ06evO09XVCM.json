@@ -306,10 +306,32 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 219906,
       "name": "Fly Rasta",
       "url": "https://open.spotify.com/track/5yy9slyOjLet4v7AOi2AYg"
+    },
+    {
+      "album": {
+        "name": "Fly Rasta",
+        "url": "https://open.spotify.com/album/2OT4p3NBqb7zyvvQwA4EM8"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "U-Roy",
+          "url": "https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219906,
+      "name": "Fly Rasta (feat. U-Roy)",
+      "url": "https://open.spotify.com/track/52Vx26w55TBxVt9mG9dT9V"
     },
     {
       "album": {
@@ -540,7 +562,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 236000,
       "name": "Lift Our Spirits Raise Our Voice",
       "url": "https://open.spotify.com/track/7IHx43ARFywJyi0SDbY85D"
@@ -682,7 +704,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 210720,
       "name": "MMMM MMMM",
       "url": "https://open.spotify.com/track/1jpk6gBEQginuRnNzpuDKp"

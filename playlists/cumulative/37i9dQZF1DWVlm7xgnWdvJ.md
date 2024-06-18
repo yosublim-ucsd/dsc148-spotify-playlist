@@ -4,7 +4,7 @@
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-154 songs - 14 hr 20 min
+155 songs - 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Merchants \- Sofia Kourtesis Remix](https://open.spotify.com/track/520mMFaIht3gpQTDKFWV9q) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Merchants \(Sofia Kourtesis Remix\)](https://open.spotify.com/album/33RTfD7VivJU7thDW1w9qj) | 4:40 | 2023-04-11 | 2023-09-09 |
 | [Milkshake 20 \(Alex Wann Remix\)](https://open.spotify.com/track/49wEdWGkL2CcOrXEKklXtJ) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [Milkshake 20 \(Alex Wann Remix\)](https://open.spotify.com/album/6x2zv2rhiwUYECd681EisA) | 2:56 | 2023-11-08 | 2024-03-23 |
 | [More Love \- Rampa &ME Remix](https://open.spotify.com/track/70ofkwt6aIb4bPQ51OQMQO) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [More Love \(Rampa &ME Remix\)](https://open.spotify.com/album/4ml88dBgRFbbucUERI1BYC) | 6:11 | 2023-11-08 |  |
+| [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 | 2024-06-17 |  |
 | [Más Profundo](https://open.spotify.com/track/30DWdX9NQEdfJ07vfGReOt) | [Bruxas](https://open.spotify.com/artist/5NPL2jGG32a4LCnu4koPL7) | [Más Profundo](https://open.spotify.com/album/0yQsxixiempTlPvQcITFCx) | 6:12 | 2022-12-20 |  |
 | [Need](https://open.spotify.com/track/5NwfT0n9gsv08ttQbRgyEs) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Ember EP](https://open.spotify.com/album/51pq1K9jNO2oymTOp5wHEI) | 5:44 | 2023-06-08 | 2024-03-23 |
 | [Never Going Home \- Domenico Torti Remix](https://open.spotify.com/track/1tyYyBx8vCmejG0mOARIKL) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Domenico Torti](https://open.spotify.com/artist/1FeMiF3aRrgJz69y01jiwt) | [Never Going Home \(Domenico Torti Remix\)](https://open.spotify.com/album/2ukNeGLr9CC4WNFNPaUGuQ) | 4:13 | 2022-12-20 |  |

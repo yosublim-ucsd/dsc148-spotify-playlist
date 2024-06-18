@@ -12209,6 +12209,24 @@
     },
     {
       "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/3EsFLxuzw23LOKbaG33jAe"
+      },
+      "artists": [
+        {
+          "name": "Liquid Stranger",
+          "url": "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286779,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/67lUp5rf0rzq8PhAZ805Lc"
+    },
+    {
+      "album": {
         "name": "In Time",
         "url": "https://open.spotify.com/album/5epOkHu9dFr3Og9tPC7zXc"
       },

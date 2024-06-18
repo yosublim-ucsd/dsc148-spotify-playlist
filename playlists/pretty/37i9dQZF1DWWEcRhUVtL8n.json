@@ -1,6 +1,6 @@
 {
   "description": "New and approved indie pop. Cover: ROLE MODEL",
-  "num_followers": 1680005,
+  "num_followers": 1680050,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
@@ -401,10 +401,10 @@
       "url": "https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9"
     },
     {
-      "added_at": "2024-04-05 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Creatures In Heaven",
-        "url": "https://open.spotify.com/album/6l3Qxnvv49CGolilrSvsd3"
+        "name": "A Tear in Space (Airlock)",
+        "url": "https://open.spotify.com/album/6X2fbRz8huOXlxzId6ET7J"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
         }
       ],
-      "duration_ms": 221670,
-      "name": "Creatures in Heaven",
-      "url": "https://open.spotify.com/track/1e7EdcxkUPFZWfuY4VI3rh"
+      "duration_ms": 203989,
+      "name": "A Tear in Space (Airlock)",
+      "url": "https://open.spotify.com/track/6Bi1Y7TD70eWTCKn7jsQQm"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -561,10 +561,10 @@
       "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv"
     },
     {
-      "added_at": "2024-06-07 04:00:00",
+      "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "A Tear in Space (Airlock)",
-        "url": "https://open.spotify.com/album/6X2fbRz8huOXlxzId6ET7J"
+        "name": "Creatures In Heaven",
+        "url": "https://open.spotify.com/album/6l3Qxnvv49CGolilrSvsd3"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
         }
       ],
-      "duration_ms": 203989,
-      "name": "A Tear in Space (Airlock)",
-      "url": "https://open.spotify.com/track/6Bi1Y7TD70eWTCKn7jsQQm"
+      "duration_ms": 221670,
+      "name": "Creatures in Heaven",
+      "url": "https://open.spotify.com/track/1e7EdcxkUPFZWfuY4VI3rh"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -673,22 +673,6 @@
       "url": "https://open.spotify.com/track/5tL2wDaEAsdTGLa8hN5NWq"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "If Only + No One Noticed",
-        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 236906,
-      "name": "No One Noticed",
-      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
-    },
-    {
       "added_at": "2024-04-12 04:00:00",
       "album": {
         "name": "My Fun",
@@ -703,6 +687,22 @@
       "duration_ms": 162291,
       "name": "My Fun",
       "url": "https://open.spotify.com/track/306xT15GTuDs3NyopIANrh"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "If Only + No One Noticed",
+        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 236906,
+      "name": "No One Noticed",
+      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1113,22 +1113,6 @@
       "url": "https://open.spotify.com/track/5Czd9hqOj4uvwpieRmVlTw"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Oh, Gemini",
-        "url": "https://open.spotify.com/album/1REr4nKLgAAe1GoKIDG2c9"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 164971,
-      "name": "Oh, Gemini",
-      "url": "https://open.spotify.com/track/3SYNTZgVt7Wht3jRf0ElGh"
-    },
-    {
       "added_at": "2024-03-08 05:00:00",
       "album": {
         "name": "Ghost of Chicago",
@@ -1143,6 +1127,22 @@
       "duration_ms": 187100,
       "name": "Ghost of Chicago",
       "url": "https://open.spotify.com/track/4whpHwKr9rH2MTFzXk7mkW"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Oh, Gemini",
+        "url": "https://open.spotify.com/album/1REr4nKLgAAe1GoKIDG2c9"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 164971,
+      "name": "Oh, Gemini",
+      "url": "https://open.spotify.com/track/3SYNTZgVt7Wht3jRf0ElGh"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1191,6 +1191,22 @@
       "duration_ms": 212320,
       "name": "Strawberry Jam",
       "url": "https://open.spotify.com/track/2ANtjCxEa3I883stgWh5Mz"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Cinnamon Curls",
+        "url": "https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 246586,
+      "name": "Cinnamon Curls",
+      "url": "https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1277,20 +1293,20 @@
       "url": "https://open.spotify.com/track/2FdrRql2ltOBghZNvwcNrn"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
+      "added_at": "2024-04-26 04:34:58",
       "album": {
-        "name": "work in progress",
-        "url": "https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5"
+        "name": "I wish for the rain",
+        "url": "https://open.spotify.com/album/1d8v7jpq86c6WjRwTsoYIk"
       },
       "artists": [
         {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
         }
       ],
-      "duration_ms": 176805,
-      "name": "Down Swinging",
-      "url": "https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72"
+      "duration_ms": 151999,
+      "name": "I wish for the rain",
+      "url": "https://open.spotify.com/track/5SbkJitufb38BnGDsUjdqN"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1309,20 +1325,20 @@
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
     },
     {
-      "added_at": "2024-04-26 04:34:58",
+      "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "I wish for the rain",
-        "url": "https://open.spotify.com/album/1d8v7jpq86c6WjRwTsoYIk"
+        "name": "work in progress",
+        "url": "https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5"
       },
       "artists": [
         {
-          "name": "Liana Flores",
-          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
         }
       ],
-      "duration_ms": 151999,
-      "name": "I wish for the rain",
-      "url": "https://open.spotify.com/track/5SbkJitufb38BnGDsUjdqN"
+      "duration_ms": 176805,
+      "name": "Down Swinging",
+      "url": "https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1429,38 +1445,6 @@
       "url": "https://open.spotify.com/track/7hMQeVQwsKzLKAuF6iXS8d"
     },
     {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Eyes on my baby",
-        "url": "https://open.spotify.com/album/6dVL5KrLrQeJM1IxKnkKhZ"
-      },
-      "artists": [
-        {
-          "name": "BETWEEN FRIENDS",
-          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
-        }
-      ],
-      "duration_ms": 132737,
-      "name": "Eyes on my baby",
-      "url": "https://open.spotify.com/track/7cM6obAwlMkP6nDTwNPEl2"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Cinnamon Curls",
-        "url": "https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 246586,
-      "name": "Cinnamon Curls",
-      "url": "https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe"
-    },
-    {
       "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Water the Flowers, Pray for a Garden",
@@ -1475,6 +1459,22 @@
       "duration_ms": 206419,
       "name": "Water the Flowers, Pray for a Garden",
       "url": "https://open.spotify.com/track/0bx0g4s3zy0nfonXqPoJJL"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Eyes on my baby",
+        "url": "https://open.spotify.com/album/6dVL5KrLrQeJM1IxKnkKhZ"
+      },
+      "artists": [
+        {
+          "name": "BETWEEN FRIENDS",
+          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
+        }
+      ],
+      "duration_ms": 132737,
+      "name": "Eyes on my baby",
+      "url": "https://open.spotify.com/track/7cM6obAwlMkP6nDTwNPEl2"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1513,22 +1513,6 @@
       "url": "https://open.spotify.com/track/2iulJlc0L0rbcvowdlib7J"
     },
     {
-      "added_at": "2024-05-17 04:01:10",
-      "album": {
-        "name": "BOYS",
-        "url": "https://open.spotify.com/album/3ar9EPv1ddMgvDnOCONH15"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 145742,
-      "name": "BOYS",
-      "url": "https://open.spotify.com/track/1U0UUDLyBN8ENq3gjNJq6S"
-    },
-    {
       "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "No Problems",
@@ -1543,6 +1527,22 @@
       "duration_ms": 224888,
       "name": "No Problems",
       "url": "https://open.spotify.com/track/5whkkXkOsCfRzUXe70AlpO"
+    },
+    {
+      "added_at": "2024-05-17 04:01:10",
+      "album": {
+        "name": "BOYS",
+        "url": "https://open.spotify.com/album/3ar9EPv1ddMgvDnOCONH15"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 145742,
+      "name": "BOYS",
+      "url": "https://open.spotify.com/track/1U0UUDLyBN8ENq3gjNJq6S"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1561,22 +1561,6 @@
       "url": "https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv"
     },
     {
-      "added_at": "2024-05-17 04:01:10",
-      "album": {
-        "name": "Confusion Song",
-        "url": "https://open.spotify.com/album/3TsIzke1clyxvsgzCjn3Y5"
-      },
-      "artists": [
-        {
-          "name": "Luna Li",
-          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
-        }
-      ],
-      "duration_ms": 161661,
-      "name": "Confusion Song",
-      "url": "https://open.spotify.com/track/62Zw1ojf7TsvGCUMzzQOT8"
-    },
-    {
       "added_at": "2024-04-12 04:00:00",
       "album": {
         "name": "I'M DOING IT AGAIN BABY!",
@@ -1591,6 +1575,22 @@
       "duration_ms": 172007,
       "name": "New Love",
       "url": "https://open.spotify.com/track/1WFNU6zWFu5BpSiQOAVTAO"
+    },
+    {
+      "added_at": "2024-05-17 04:01:10",
+      "album": {
+        "name": "Confusion Song",
+        "url": "https://open.spotify.com/album/3TsIzke1clyxvsgzCjn3Y5"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "duration_ms": 161661,
+      "name": "Confusion Song",
+      "url": "https://open.spotify.com/track/62Zw1ojf7TsvGCUMzzQOT8"
     },
     {
       "added_at": "2024-03-08 05:00:00",

@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-685 songs - 1 day 10 hr 8 min
+686 songs - 1 day 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,6 +413,7 @@
 | [My Satisfaction](https://open.spotify.com/track/6N8aYvqIUek43xj6ePTMQl) | [Toxic Joy](https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to) | [My Satisfaction](https://open.spotify.com/album/4ZnqM0n9DeQYRIkUIrr63z) | 2:22 | 2023-02-12 | 2023-04-13 |
 | [My Way \- Radio Edit](https://open.spotify.com/track/5NJ7mZoWHbXPxix0U2xaio) | [Ale Molinari](https://open.spotify.com/artist/1RFM675BkU3koitVKnwatx) | [My Way](https://open.spotify.com/album/2uCuSVAlar4ynu5xwYcZdv) | 2:55 | 2023-09-04 | 2023-12-14 |
 | [NAHUA](https://open.spotify.com/track/6DYsMAVUPaytcvuuTNlyOC) | [LST CNTRL](https://open.spotify.com/artist/1I4KEPUYYuXcdBB6cZNapZ) | [NAHUA](https://open.spotify.com/album/5QUTOkbPa8Zhb5d0WU1rQ6) | 3:44 | 2024-01-26 |  |
+| [Naughty](https://open.spotify.com/track/56HE8zzcJZAF3OZUgCBmQB) | [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt), [Rydz](https://open.spotify.com/artist/4WoYfeD73d5vx3UE0rsJnC) | [Naughty](https://open.spotify.com/album/5IWGUvSPVF8mnbfHyJ6s2a) | 2:34 | 2024-06-17 |  |
 | [Need You Tonight](https://open.spotify.com/track/0qiVfBD3w55Yb62Ie5c2XZ) | [Marvel Riot](https://open.spotify.com/artist/5cI4WAoXtZwW7uz55thjkZ), [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7) | [Need You Tonight](https://open.spotify.com/album/22dSYgnOpPTX7nlNKnBM7j) | 3:22 | 2023-05-05 | 2023-12-23 |
 | [Needle On The Record](https://open.spotify.com/track/5qKuF0NtvWVn5UarAgyli3) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Needle On The Record](https://open.spotify.com/album/7E0q2fAykseBKfLY7X53jJ) | 3:06 | 2023-11-10 |  |
 | [Nikes](https://open.spotify.com/track/6Al4eNOERy6uxX8yieyPnl) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r) | [Nikes](https://open.spotify.com/album/5UHMgAgtfB9zgRdkOgq4MK) | 2:29 | 2023-03-10 | 2023-12-23 |

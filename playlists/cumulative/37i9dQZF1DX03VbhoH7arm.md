@@ -4,7 +4,7 @@
 
 > Grandes hits do BR e do mundo! / Foto: Gloria Groove
 
-294 songs - 14 hr 9 min
+295 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-03-08 | 2023-07-29 |
 | [Don't Start Now](https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:03 | 2022-05-20 | 2022-12-14 |
 | [Dono da Porsche \(Bom Dia Princesa\)](https://open.spotify.com/track/6XQ87rq4dZpaNG8aVi99Jg) | [MC Reino](https://open.spotify.com/artist/5VYxsvivVgcLrPjgLUFRG1) | [Dono da Porsche \(Bom Dia Princesa\)](https://open.spotify.com/album/3DJCxAao78RWA21d2LUEWD) | 2:36 | 2024-03-22 |  |
-| [Double Team](https://open.spotify.com/track/6NYEwgaB1NESBTjPG5Vfsx) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Double Team](https://open.spotify.com/album/3VmiAMccKEWDwNzNSUQ55V) | 3:51 | 2024-03-22 |  |
+| [Double Team](https://open.spotify.com/track/6NYEwgaB1NESBTjPG5Vfsx) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Double Team](https://open.spotify.com/album/3VmiAMccKEWDwNzNSUQ55V) | 3:51 | 2024-03-22 | 2024-06-18 |
 | [Down, Down, Down](https://open.spotify.com/track/0rJZEBFFrIsNLpJ5ZKjfZt) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Back to Be](https://open.spotify.com/album/345Rzs9N9hE2h7caTpMdmr) | 3:03 | 2022-05-20 | 2022-06-23 |
 | [El Que Espera](https://open.spotify.com/track/2oNSHvGBGZIrZouRAA1eaX) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [El Que Espera](https://open.spotify.com/album/1iouSXg5RihFIXRvZFJyTa) | 2:50 | 2022-08-12 | 2023-04-14 |
 | [ELA PIROU NA DODGE RAM](https://open.spotify.com/track/3o4wcB1Y6xC62eF02n9RSZ) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [ELA PIROU NA DODGE RAM](https://open.spotify.com/album/52rFElLntscFgyQVwbcEs3) | 2:59 | 2023-03-22 | 2023-03-25 |
@@ -291,6 +291,7 @@
 | [VERMELHO](https://open.spotify.com/track/4EVzu5mYyigjyLrryKbZs7) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 2:32 | 2022-05-20 | 2023-04-14 |
 | [Vida \- Ao Vivo](https://open.spotify.com/track/3rTg5u0gjZVZW8OGphOlcU) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [MF No Rio, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2P8zuC56lsghvc5KHP4rfQ) | 3:01 | 2023-01-06 | 2023-12-08 |
 | [Vou Morar no Cabaré](https://open.spotify.com/track/4ewVY1OIA2ud9D58zjD7Ll) | [GORDÃO DO PC](https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS), [Dj Wesley Gonzaga](https://open.spotify.com/artist/4mRdkoKoBtNFo5sDAgQlgi) | [Vou Morar no Cabaré](https://open.spotify.com/album/7Hyki9fAsyJ04V1lkMMGH6) | 1:45 | 2022-12-22 | 2023-02-17 |
+| [Vou Passar Gelinho](https://open.spotify.com/track/2BfDOZLtOL79e6L6QphWlS) | [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ) | [Vou Passar Gelinho](https://open.spotify.com/album/1oSR4ze0V0iwLUCit4oGfY) | 2:22 | 2024-06-17 |  |
 | [Vulgo Mc Paiva](https://open.spotify.com/track/6S2336rQHx8rcEGuCETufv) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Dj LK da Escócia](https://open.spotify.com/artist/6WIjKbyqeO9MkfNMFJsF50) | [Vulgo Mc Paiva](https://open.spotify.com/album/7nAqWtxAmYqQuSMGSahW9X) | 2:00 | 2023-08-31 | 2024-01-17 |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-10-09 | 2024-05-18 |
 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 | 2022-05-20 | 2022-09-28 |

@@ -4,7 +4,7 @@
 
 > Inizia la giornata con la tua dose di caffè e buonumore!
 
-207 songs - 10 hr 58 min
+208 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [MILLE – feat\. Orietta Berti](https://open.spotify.com/track/6qdMhG7pRFi0csRlFGvLE4) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv), [Orietta Berti](https://open.spotify.com/artist/6W7O7oseXcbYLoiarQrpOw) | [MILLE – feat\. Orietta Berti](https://open.spotify.com/album/4hxHffYYs32MfS9C1H5l6q) | 2:55 | 2022-05-06 | 2022-07-29 |
 | [Missing Piece](https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Missing Piece](https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3) | 3:37 | 2022-07-14 | 2024-05-11 |
 | [Mohicani \(feat\. Baby K\)](https://open.spotify.com/track/5Wml9i3afqwcm8UNDD1GXw) | [Boomdabash](https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6), [Baby K](https://open.spotify.com/artist/725KKhVCSCQbYkZBptBTfg) | [Mohicani \(feat\. Baby K\)](https://open.spotify.com/album/0pLyIpDKGpjC7SdWoiPYcP) | 2:51 | 2022-05-06 | 2022-07-29 |
+| [Musica Italiana](https://open.spotify.com/track/3m2loz99NJ3z8UYEFcFdmS) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [Musica Italiana](https://open.spotify.com/album/753BrMSZZPDcA4Ue5MdF6u) | 3:03 | 2024-06-03 |  |
 | [Musica leggerissima](https://open.spotify.com/track/5vYXOk1umkpp7JhXZm6rDI) | [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf), [Dimartino](https://open.spotify.com/artist/1k3zqz5SgrYCE0wpcfJX3g) | [I Mortali²](https://open.spotify.com/album/3jGpIpMIVzZ4gY9NWE6qMU) | 4:00 | 2022-05-06 | 2022-07-29 |
 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 | 2022-05-06 |  |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2022-05-06 |  |
@@ -189,7 +190,7 @@
 | [TUTA GOLD](https://open.spotify.com/track/654Jxp6rUFgPckixlIusRJ) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [TUTA GOLD](https://open.spotify.com/album/298TPucavaqMuiInBsW7jX) | 2:58 | 2024-03-19 |  |
 | [Tutte le notti](https://open.spotify.com/track/1lXb1BTmGM2aWg5NTlZZPH) | [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Tutte le notti](https://open.spotify.com/album/1pB2lL3t2LWptXc6tfN3oi) | 3:36 | 2022-05-06 | 2022-05-20 |
 | [Un bacio all'improvviso](https://open.spotify.com/track/4iMigesJsEKt8JczIwUrBO) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Un bacio all'improvviso](https://open.spotify.com/album/0iPt2nuMRgzHJ6IiqooufW) | 2:51 | 2022-05-06 | 2022-07-29 |
-| [Un Briciolo Di Allegria \(con MINA\)](https://open.spotify.com/track/6ds6kgkB0qRSpSnxcBomCO) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Innamorato](https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP) | 3:27 | 2023-04-13 |  |
+| [Un Briciolo Di Allegria \(con MINA\)](https://open.spotify.com/track/6ds6kgkB0qRSpSnxcBomCO) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Innamorato](https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP) | 3:27 | 2023-04-13 | 2024-06-18 |
 | [UN DIA \(ONE DAY\) \(Feat\. Tainy\)](https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [UN DIA \(ONE DAY\) \(Feat\. Tainy\)](https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr) | 3:52 | 2022-07-14 |  |
 | [UN RAGAZZO UNA RAGAZZA](https://open.spotify.com/track/60NDVF7fFIq13aO9rIN80c) | [The Kolors](https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR) | [UN RAGAZZO UNA RAGAZZA](https://open.spotify.com/album/3tNnKTFodG4lOLiGM39yvV) | 3:37 | 2024-03-19 |  |
 | [Una cosa più grande](https://open.spotify.com/track/46V0yUR2slCRsWRylPCr5u) | [Ermal Meta](https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd), [Giuliano Sangiorgi](https://open.spotify.com/artist/4nVlr3WO33XWrBFDwtUlW4) | [Una cosa più grande](https://open.spotify.com/album/0VlXEovJWRHc4gaKzAbB92) | 3:24 | 2022-05-06 | 2022-05-27 |

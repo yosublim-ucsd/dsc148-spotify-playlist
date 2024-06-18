@@ -1,6 +1,6 @@
 {
   "description": "Symphonic metal at its most epic. Cover: Nightwish\n",
-  "num_followers": 768189,
+  "num_followers": 768280,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
@@ -503,26 +503,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Aeterna",
-        "url": "https://open.spotify.com/album/12ihdZ3MmYvMcepMaOsYIY"
-      },
-      "artists": [
-        {
-          "name": "Simone Simons",
-          "url": "https://open.spotify.com/artist/5Mbm3otSC2eWtbfbwOBgw4"
-        },
-        {
-          "name": "Ayreon",
-          "url": "https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt"
-        }
-      ],
-      "duration_ms": 362346,
-      "name": "Aeterna",
-      "url": "https://open.spotify.com/track/0e0YvuEbZFJycBvYlIC2wz"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "We Come Alive",
         "url": "https://open.spotify.com/album/1CBC8kMy5E274Kvcp7oJyI"
       },
@@ -559,6 +539,26 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Aeterna",
+        "url": "https://open.spotify.com/album/12ihdZ3MmYvMcepMaOsYIY"
+      },
+      "artists": [
+        {
+          "name": "Simone Simons",
+          "url": "https://open.spotify.com/artist/5Mbm3otSC2eWtbfbwOBgw4"
+        },
+        {
+          "name": "Ayreon",
+          "url": "https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt"
+        }
+      ],
+      "duration_ms": 362346,
+      "name": "Aeterna",
+      "url": "https://open.spotify.com/track/0e0YvuEbZFJycBvYlIC2wz"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "The Catalyst",
         "url": "https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj"
       },
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Natural Born Killer",
-        "url": "https://open.spotify.com/album/44aKRAvfkITepinjdP1jVb"
-      },
-      "artists": [
-        {
-          "name": "Dynazty",
-          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
-        }
-      ],
-      "duration_ms": 205826,
-      "name": "Natural Born Killer",
-      "url": "https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Glory for Salvation",
         "url": "https://open.spotify.com/album/4OfONg7cNiDlH9tpVNKN5i"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 346053,
       "name": "Son of Vengeance",
       "url": "https://open.spotify.com/track/0fNSEGMYMcJpQIcLpUq9FT"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Natural Born Killer",
+        "url": "https://open.spotify.com/album/44aKRAvfkITepinjdP1jVb"
+      },
+      "artists": [
+        {
+          "name": "Dynazty",
+          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
+        }
+      ],
+      "duration_ms": 205826,
+      "name": "Natural Born Killer",
+      "url": "https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Power of Will",
-        "url": "https://open.spotify.com/album/6MSd9d2q11JwWSsZh6fBVr"
-      },
-      "artists": [
-        {
-          "name": "Dynazty",
-          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
-        }
-      ],
-      "duration_ms": 233653,
-      "name": "Power of Will",
-      "url": "https://open.spotify.com/track/480rtuITvEdBj1TA76juXO"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "The Wicked Rule The Night",
         "url": "https://open.spotify.com/album/7jMuIzBQ7Wz3h9uLvUHCJf"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 264946,
       "name": "The Wicked Rule The Night",
       "url": "https://open.spotify.com/track/7GuZED83VYeWCoXJPysg7e"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Power of Will",
+        "url": "https://open.spotify.com/album/6MSd9d2q11JwWSsZh6fBVr"
+      },
+      "artists": [
+        {
+          "name": "Dynazty",
+          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
+        }
+      ],
+      "duration_ms": 233653,
+      "name": "Power of Will",
+      "url": "https://open.spotify.com/track/480rtuITvEdBj1TA76juXO"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Diamond Claws",
-        "url": "https://open.spotify.com/album/6ABYt8Esd1En0LnDm9iKBx"
-      },
-      "artists": [
-        {
-          "name": "Rhapsody Of Fire",
-          "url": "https://open.spotify.com/artist/3IjLXN4eSksdGj8uDE4Jm1"
-        }
-      ],
-      "duration_ms": 276552,
-      "name": "Diamond Claws",
-      "url": "https://open.spotify.com/track/1Zd6cxz9jtBEMPjbKHHOIJ"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Of Silence",
         "url": "https://open.spotify.com/album/1dR6oYAK5YRVstm9q6AtA1"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 226128,
       "name": "The Hanging Tree",
       "url": "https://open.spotify.com/track/2dZaznMM1CnsCcRprcYs5Z"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Diamond Claws",
+        "url": "https://open.spotify.com/album/6ABYt8Esd1En0LnDm9iKBx"
+      },
+      "artists": [
+        {
+          "name": "Rhapsody Of Fire",
+          "url": "https://open.spotify.com/artist/3IjLXN4eSksdGj8uDE4Jm1"
+        }
+      ],
+      "duration_ms": 276552,
+      "name": "Diamond Claws",
+      "url": "https://open.spotify.com/track/1Zd6cxz9jtBEMPjbKHHOIJ"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Feed the Fire",
-        "url": "https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP"
-      },
-      "artists": [
-        {
-          "name": "Crimson Sun",
-          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Feed the Fire",
-      "url": "https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Interrogativa Cantilena",
         "url": "https://open.spotify.com/album/5DAq7mFDpXPw7dKZDKfetl"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 228000,
       "name": "Interrogativa Cantilena",
       "url": "https://open.spotify.com/track/6oQaYzijl3xEoX1a8P7Foz"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Feed the Fire",
+        "url": "https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP"
+      },
+      "artists": [
+        {
+          "name": "Crimson Sun",
+          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Feed the Fire",
+      "url": "https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI"
     },
     {
       "added_at": "2024-05-24 04:00:00",

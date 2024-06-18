@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "New indie driving the current. Cover: Jelani Aryeh",
+  "description": "New indie from black artists driving the current. Cover: Jelani Aryeh",
   "name": "Indie Frequency",
   "tracks": [
     {
@@ -373,6 +373,24 @@
     },
     {
       "album": {
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/70L7Lav25m2IILlSSXnN1A"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228040,
+      "name": "Already Gone",
+      "url": "https://open.spotify.com/track/6QrQIAcvX1OZ0UrOjj2mrJ"
+    },
+    {
+      "album": {
         "name": "homeless n*gga pop music",
         "url": "https://open.spotify.com/album/5j9zothL0paSMkfcdjCdHA"
       },
@@ -402,7 +420,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 352178,
       "name": "Angel",
       "url": "https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0"
@@ -648,7 +666,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-05",
+      "date_removed": null,
       "duration_ms": 235773,
       "name": "Basquiat",
       "url": "https://open.spotify.com/track/1KeXz6D76LhEaBhYR9n5vI"
@@ -1872,7 +1890,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 169720,
       "name": "dirty dancer",
       "url": "https://open.spotify.com/track/1ciQU7ZQGHq129m3njp9en"
@@ -2718,7 +2736,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-12",
+      "date_removed": null,
       "duration_ms": 129473,
       "name": "gin and wine (ginuwine)",
       "url": "https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI"
@@ -3422,7 +3440,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 197333,
       "name": "Hotel",
       "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
@@ -3556,7 +3574,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 180040,
       "name": "I HATE IT TOO",
       "url": "https://open.spotify.com/track/6CCWKFDhQamC5rGxM97Erj"
@@ -4134,7 +4152,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 165867,
       "name": "Jodie",
       "url": "https://open.spotify.com/track/1w52s8ZgbSHjwjoZ1zQMET"
@@ -4192,7 +4210,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-05",
+      "date_removed": null,
       "duration_ms": 220243,
       "name": "Just Cool",
       "url": "https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP"
@@ -4940,7 +4958,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-10",
+      "date_removed": null,
       "duration_ms": 201464,
       "name": "MUSTARD (with 6LACK)",
       "url": "https://open.spotify.com/track/1vITRP5ITGjLK5v8LjjVo0"
@@ -5320,7 +5338,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 158426,
       "name": "Once in a Lifetime",
       "url": "https://open.spotify.com/track/2u7SG14j5vzSwxttBoGO2A"
@@ -5648,7 +5666,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 213360,
       "name": "Pluto",
       "url": "https://open.spotify.com/track/0GdWI9k2h0PzW6x2kAhXeI"
@@ -6348,7 +6366,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-11",
+      "date_removed": null,
       "duration_ms": 167271,
       "name": "Shudder",
       "url": "https://open.spotify.com/track/1c1iyuIpgPr7FBbMBkQEzJ"
@@ -6772,7 +6790,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 156506,
       "name": "Static",
       "url": "https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem"
@@ -7202,7 +7220,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 190581,
       "name": "the ride-",
       "url": "https://open.spotify.com/track/04HeNxRRVjcwctfp2K2kMu"
@@ -7459,6 +7477,24 @@
     },
     {
       "album": {
+        "name": "Tuesday",
+        "url": "https://open.spotify.com/album/3OJhV8FhTJQLH979qE2QXA"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149600,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/073gctjGEOq9cXuFjldqxT"
+    },
+    {
+      "album": {
         "name": "Undecided",
         "url": "https://open.spotify.com/album/7xQuTGBZQO20Ss8MLgHnoG"
       },
@@ -7514,7 +7550,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 144446,
       "name": "unruly",
       "url": "https://open.spotify.com/track/2bTrWTnaLwQ5WVnUzS2X46"
@@ -7568,7 +7604,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-10",
+      "date_removed": null,
       "duration_ms": 208713,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/275KNpBTmpEriHiYRgLM8t"
@@ -7885,6 +7921,24 @@
     },
     {
       "album": {
+        "name": "Who Did You Touch?",
+        "url": "https://open.spotify.com/album/4XBvrhmXpxJBV87B1Oh0a7"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208732,
+      "name": "Who Did You Touch?",
+      "url": "https://open.spotify.com/track/3YngBnCS5hVTrF0fu2EYGG"
+    },
+    {
+      "album": {
         "name": "KAYTRAMIN\u00c9",
         "url": "https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW"
       },
@@ -8114,7 +8168,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 171472,
       "name": "ZUU (zoo) - A COLORS SHOW",
       "url": "https://open.spotify.com/track/67gqISMPcivK7FnOw7c0EW"

@@ -2,9 +2,9 @@
 
 ### [100 DK](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> hello <a href="spotify:track:0L8mArFgQMunWP6qip3U7k">KITTY</a>, lets get it.\. <a href="spotify:artist:4g53FCcxQZEj8SSr1rHmiH">DIBSET</a> & <a href="spotify:album:16y1M4Dnrqiodnk8KvRhLf">Tessa</a> 🔥
+> den største danske rap lige nu: <a href="spotify:artist:4ZwOlDVAGXQo66ykbLQ8dP">Lamin</a> 🔥
 
-186 songs - 8 hr 2 min
+187 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [MDMA](https://open.spotify.com/track/6IybluLzGGNRTe8blxh69C) | [LAY](https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0) | [Mange Døjer Med Angst](https://open.spotify.com/album/5txniOdxQFJAotpTiCJGUj) | 2:37 | 2023-10-12 | 2023-12-14 |
 | [Mi Amor](https://open.spotify.com/track/0uUbeTMGlvqFWdtMuqLTEB) | [Fouli](https://open.spotify.com/artist/1IWMpdsWQeTckTQSGVNj8N) | [Mi Amor](https://open.spotify.com/album/08bFLkMDwhsO59XMM9qobU) | 2:35 | 2023-09-21 | 2023-12-14 |
 | [Miguel Félix](https://open.spotify.com/track/5uQvsr0OBicAIl0DJJAQeC) | [Shooter Gang](https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO) | [Miguel Félix](https://open.spotify.com/album/5rJSr8ejGeIEmteVDHyTVO) | 3:14 | 2023-09-21 | 2024-01-19 |
+| [MINUTTER, TIMER](https://open.spotify.com/track/7G8pVonwyErF4HRkSdG16I) | [Maurice](https://open.spotify.com/artist/49LRYB6Kf2RsNbsXIBrGSl) | [MINUTTER, TIMER](https://open.spotify.com/album/7sZH0d6hb3Q0s7CXuW2l7w) | 2:42 | 2024-06-17 |  |
 | [Money Talks](https://open.spotify.com/track/0hjlzcCK6cOnKKb5jo9esn) | [HAM fra Syd](https://open.spotify.com/artist/142bVo1OspxTJbxwyawU5h), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Money Talks](https://open.spotify.com/album/3tPZCAN5x9qk2KIwjqfyPN) | 2:16 | 2024-02-22 | 2024-04-05 |
 | [MOULAGA](https://open.spotify.com/track/5MzZ0U4Zihj9iAR9c7uUyy) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg) | [MOULAGA](https://open.spotify.com/album/16WOsN6JTgg1QV4VwrdlXm) | 2:15 | 2023-09-21 | 2023-12-14 |
 | [Murciélago](https://open.spotify.com/track/6bTv8wFuVu5O21g7HTxdqd) | [ZK](https://open.spotify.com/artist/4uvOZHqwKYuWz1ywTBN5En) | [Murciélago](https://open.spotify.com/album/2HZAQ8Ur0Ac7es5G4IfIAS) | 2:02 | 2024-02-08 | 2024-04-05 |

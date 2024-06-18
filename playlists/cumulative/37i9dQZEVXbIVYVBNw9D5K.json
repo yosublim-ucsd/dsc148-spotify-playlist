@@ -2108,7 +2108,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 157625,
       "name": "BAL",
       "url": "https://open.spotify.com/track/2RojZW2380o281z4LF0wTh"
@@ -11588,6 +11588,24 @@
       "duration_ms": 194159,
       "name": "Merhamet Yok",
       "url": "https://open.spotify.com/track/4uygtPMHsP9DBlJUb7um4s"
+    },
+    {
+      "album": {
+        "name": "Merhametsiz",
+        "url": "https://open.spotify.com/album/6ahlCcEViVQLxgoQKVfH3X"
+      },
+      "artists": [
+        {
+          "name": "Cevher",
+          "url": "https://open.spotify.com/artist/5jUaU1L6PePJadPjzKYFXf"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246494,
+      "name": "Merhametsiz",
+      "url": "https://open.spotify.com/track/4hQVobSCtZ6zI7cjCyIOF4"
     },
     {
       "album": {

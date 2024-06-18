@@ -2982,7 +2982,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 238892,
       "name": "Se\u00f1ora",
       "url": "https://open.spotify.com/track/5tY5SZELFkC8VTlHAp9HPx"
@@ -3350,6 +3350,28 @@
       "duration_ms": 292800,
       "name": "Todo No Puede Llamarse Amor (with V\u00edctor Manuelle)",
       "url": "https://open.spotify.com/track/6h6TfBUXiUBOvgwz2boo9r"
+    },
+    {
+      "album": {
+        "name": "El Caballero Del Vallenato",
+        "url": "https://open.spotify.com/album/3qJ2kc4NkR6UBnbYUsyxeu"
+      },
+      "artists": [
+        {
+          "name": "Peter Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL"
+        },
+        {
+          "name": "Sergio Luis Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247813,
+      "name": "Traga'o De Ti",
+      "url": "https://open.spotify.com/track/3xOKZR7rwQYEx7l5Mc9jQ6"
     },
     {
       "album": {

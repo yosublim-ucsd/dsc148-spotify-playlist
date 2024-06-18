@@ -4,7 +4,7 @@
 
 > Sing\-along with your favorite songs from Disney Junior shows including new music from Ariel.
 
-205 songs - 5 hr 14 min
+206 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Disney Junior Music: Make It a Mickey Morning](https://open.spotify.com/track/02Fn1rxmlveZZfx4iltIMz) | [Felicia Barton](https://open.spotify.com/artist/7BtsooSogDGtA54zLBjk3N), [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE) | [Disney Junior Music: Mickey Mornings](https://open.spotify.com/album/5cUlQxfGjSP19VFtF6fqGh) | 1:42 | 2022-07-27 |  |
 | [Disney Junior Music: Make It a Mickey Morning \- From "Mickey Mornings"](https://open.spotify.com/track/7FlQiOdu7Y3K2M3qVD3uW8) | [Felicia Barton](https://open.spotify.com/artist/7BtsooSogDGtA54zLBjk3N), [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE) | [Disney Junior Music: Make It a Mickey Morning \(From "Mickey Mornings"\)](https://open.spotify.com/album/29sfhfZcyWIOEi6RIyw1LW) | 1:41 | 2022-03-18 | 2022-07-29 |
 | [Disney Junior Music: The Chicken Squad Main Title Theme \- From "The Chicken Squad"](https://open.spotify.com/track/06XgB6mkJzkzv3ITeXLses) | [The Chicken Squad \- Cast](https://open.spotify.com/artist/0IYe9D09F9fIMG0xGbZ2SD) | [Disney Junior Music: The Chicken Squad Main Title Theme \(From "The Chicken Squad"\)](https://open.spotify.com/album/1EpGbbGoFKEUFE8OUmQUR6) | 0:40 | 2022-03-18 |  |
+| [Do the Spidey](https://open.spotify.com/track/57bon7PWZgGOCLedjHZxIB) | [Patrick Stump](https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Marvel's Spidey and His Amazing Friends \- Music From and Inspired By](https://open.spotify.com/album/28PAtOT7ctTLu3na2oc2E2) | 2:10 | 2024-06-17 |  |
 | [Doc McStuffins Theme Song](https://open.spotify.com/track/4Fo9Kh6aTfiX1KX2G3G3rO) | [China Anne McClain](https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV) | [Doc McStuffins: The Doc Is In](https://open.spotify.com/album/69MUbfppLbJ1dTxKwqmjgE) | 0:56 | 2022-03-18 |  |
 | [Dog Washin'](https://open.spotify.com/track/1H65UKRE3oRqxpCnVVWRi3) | ["Puppy Dog Pals" Cast](https://open.spotify.com/artist/6XYqhT02pSA6p3BoYe9P63) | [Disney Junior Music: Puppy Dog Pals \- Pup\-tastic Party](https://open.spotify.com/album/3veVX6rvkJ01H7UcpyOIp7) | 1:02 | 2022-03-18 |  |
 | [Elena of Avalor \(Main Title\)](https://open.spotify.com/track/6eykmqPkR0ItSGhrwPvOEF) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Elena of Avalor \(Original Soundtrack\)](https://open.spotify.com/album/42OLLIcdDeCiLitu9o3FYw) | 1:02 | 2022-03-18 |  |

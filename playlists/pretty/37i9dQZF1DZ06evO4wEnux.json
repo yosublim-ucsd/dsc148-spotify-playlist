@@ -1,12 +1,12 @@
 {
   "description": "This is Fatherson. The essential tracks, all in one playlist.",
-  "num_followers": 806,
+  "num_followers": 809,
   "original_name": "This Is Fatherson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmzZgAAAAABFsyxf3Oj3GlXwypBFB9Un",
+  "snapshot_id": "Zm4rAAAAAAAmuDTZaJNCPfC9ci0glnhH",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piece Of Mind",
-        "url": "https://open.spotify.com/album/1B5wJGS5bsRvEdNg7Nyp08"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 201951,
-      "name": "Piece Of Mind",
-      "url": "https://open.spotify.com/track/5XlTOWQoMZttmK9pZvgzLv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sum of All Your Parts",
         "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 212080,
       "name": "Making Waves",
       "url": "https://open.spotify.com/track/3m56AGXgBIaVGbGO1MJx5T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piece Of Mind",
+        "url": "https://open.spotify.com/album/1B5wJGS5bsRvEdNg7Nyp08"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 201951,
+      "name": "Piece Of Mind",
+      "url": "https://open.spotify.com/track/5XlTOWQoMZttmK9pZvgzLv"
     },
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Am an Island",
-        "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 203668,
-      "name": "Hometown",
-      "url": "https://open.spotify.com/track/5efUl9eBORs9HtkA3M8FRZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sum of All Your Parts",
         "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 238546,
       "name": "The Rain",
       "url": "https://open.spotify.com/track/5TJXQHPvQpcYssuFnL8hy8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Am an Island",
+        "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 203668,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/5efUl9eBORs9HtkA3M8FRZ"
     },
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Am an Island",
-        "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 194919,
-      "name": "An Island",
-      "url": "https://open.spotify.com/track/677aexYSCY66OqFPoVhA57"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sum of All Your Parts",
         "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 242733,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/7jgWtz8BD3dZBLBnKtsu63"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Am an Island",
+        "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 194919,
+      "name": "An Island",
+      "url": "https://open.spotify.com/track/677aexYSCY66OqFPoVhA57"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Am an Island",
-        "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 180680,
-      "name": "Mine for Me",
-      "url": "https://open.spotify.com/track/34ibYVScp6xv9YmBvI4r99"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sum of All Your Parts",
         "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 314066,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/7Jf9Lpz4MWXDMRVj2CUv0l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Am an Island",
+        "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 180680,
+      "name": "Mine for Me",
+      "url": "https://open.spotify.com/track/34ibYVScp6xv9YmBvI4r99"
     },
     {
       "added_at": null,
@@ -331,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Afterwords",
+        "url": "https://open.spotify.com/album/5qxhSY3SgCnFLaMQYtOF4R"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 268777,
+      "name": "Afterwords",
+      "url": "https://open.spotify.com/track/7Jp5JCzWgFBHrpJGQI0gzu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Am an Island",
         "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 188447,
       "name": "Lights",
       "url": "https://open.spotify.com/track/3Hw9NcN6S0zMt7B9IwY7z7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sum of All Your Parts",
-        "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 319506,
-      "name": "Oh Yes",
-      "url": "https://open.spotify.com/track/6zK1NS9Mgik6BKycYDFRFs"
     },
     {
       "added_at": null,
@@ -388,9 +388,25 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 191506,
-      "name": "The Feeling And The Sound",
-      "url": "https://open.spotify.com/track/7L23QYPDsq0xtDQ1493KNV"
+      "duration_ms": 198413,
+      "name": "Honest To God",
+      "url": "https://open.spotify.com/track/5ZTCrAYPecQ2zjt7lmwNYw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sum of All Your Parts",
+        "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 319506,
+      "name": "Oh Yes",
+      "url": "https://open.spotify.com/track/6zK1NS9Mgik6BKycYDFRFs"
     },
     {
       "added_at": null,
@@ -407,22 +423,6 @@
       "duration_ms": 297828,
       "name": "James",
       "url": "https://open.spotify.com/track/2gyUKRywqkiAVP0X3rUj2b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Afterwords",
-        "url": "https://open.spotify.com/album/5qxhSY3SgCnFLaMQYtOF4R"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 268777,
-      "name": "Afterwords",
-      "url": "https://open.spotify.com/track/7Jp5JCzWgFBHrpJGQI0gzu"
     },
     {
       "added_at": null,

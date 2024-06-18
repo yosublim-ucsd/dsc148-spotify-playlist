@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 
 > All your favourite Country songs in one place! Featuring: <a href="https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2?si=hGObFgbfQnOQ75\_EbuOhDg"> Zach Bryan</a>, The Castellows, Bailey Zimmerman, Warren Zeiders, Cody Johnson, Dan + Shay,  Cole Swindell, Kenny Chesney &amp; many more
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 34,791 likes - 75 songs - 4 hr 9 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 34,788 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,5 +83,10 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 | 73 | [White Horse](https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [White Horse](https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7) | 4:27 |
 | 74 | [Livin' Ain't Killed Me Yet](https://open.spotify.com/track/5LXfYCQQFJCasWN2DT5ajG) | [Naomi Cooke Johnson](https://open.spotify.com/artist/0TOpxMqjBLR53TUNKK29ML) | [Livin' Ain't Killed Me Yet](https://open.spotify.com/album/20avoS99wAkzfnxks3FmQH) | 2:40 |
 | 75 | [Cowboy Don’t](https://open.spotify.com/track/5qxXv3JWNTTliODO4LZ0V4) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Cowboy Don’t](https://open.spotify.com/album/3mZSYPQPoNheFwNc5ize7q) | 2:42 |
+| 76 | [Never Left Me \(From Twisters: The Album\)](https://open.spotify.com/track/3IuBfjh6U8r2K0a5sP8Lvf) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Never Left Me \(From Twisters: The Album\)](https://open.spotify.com/album/7g8sRyHTnJBUuDb5VkzBP9) | 3:11 |
+| 77 | [Purple Gas](https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas](https://open.spotify.com/album/1dd5vDwnKBlh4NA5ynpDwH) | 3:00 |
+| 78 | [Love You Again](https://open.spotify.com/track/7pvy3nhtBIQUakHS4OjFqB) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Come Get Your Memory](https://open.spotify.com/album/5p1dDu2h83DMOPi9ULbqts) | 2:53 |
+| 79 | [Too Easy \(From Twisters: The Album\)](https://open.spotify.com/track/5DWplsLK5juocMo4PBX826) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Too Easy \(From Twisters: The Album\)](https://open.spotify.com/album/1dbfKHyu773FIRYf8dQY8v) | 2:30 |
+| 80 | [Midnight Ride](https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Midnight Ride](https://open.spotify.com/album/0q0asrBrmBwrRMXeqxDvBY) | 3:31 |
 
-Snapshot ID: `AAAZwMI2U/PFgYK7AFOxNOsoai/FddIw`
+Snapshot ID: `AAAZxfLfStBucFwYNRUortQVtPnPn8u5`

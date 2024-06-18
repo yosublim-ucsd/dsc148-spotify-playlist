@@ -1,12 +1,12 @@
 {
-  "description": "This is Marcos Witt. \u0627\u0644\u0645\u0642\u0627\u0637\u0639 \u0627\u0644\u0623\u0633\u0627\u0633\u064a\u0629\u060c \u0643\u0644\u0647\u0627 \u0641\u064a \u0642\u0627\u064a\u0645\u0629 \u0623\u063a\u0627\u0646\u064a \u0648\u0627\u062d\u062f\u0629.",
-  "num_followers": 91132,
+  "description": "This is Marcos Witt. En \u00f6nemli par\u00e7alar, hepsi tek bir \u00e7alma listesinde.",
+  "num_followers": 91149,
   "original_name": "This Is Marcos Witt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmzZgAAAAAC7+XpWRgkEI4M1kQz04L4y",
+  "snapshot_id": "Zm4rAAAAAACjxYoiCd0dMupXEIeIjUg3",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dios es Bueno",
+        "url": "https://open.spotify.com/album/7MenDLEbG0q3kbykELJeoa"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 325029,
+      "name": "En los Montes en los Valles",
+      "url": "https://open.spotify.com/track/5f2PRDxosdBcx2zWgezrab"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Su Poder",
         "url": "https://open.spotify.com/album/3CTS3cRwUso9FkNqxY4pEV"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 302587,
       "name": "Su Poder",
       "url": "https://open.spotify.com/track/4ggL9CpFu2bIr4nxpIoQpz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dios es Bueno",
-        "url": "https://open.spotify.com/album/7MenDLEbG0q3kbykELJeoa"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 325029,
-      "name": "En los Montes en los Valles",
-      "url": "https://open.spotify.com/track/5f2PRDxosdBcx2zWgezrab"
     },
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sobrenatural",
-        "url": "https://open.spotify.com/album/1EDofreiBInsrMtMbpt7hL"
+        "name": "En adoraci\u00f3n",
+        "url": "https://open.spotify.com/album/0kfCuoDxi46cnlurjvW5zD"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 311706,
-      "name": "Sobrenatural",
-      "url": "https://open.spotify.com/track/0bYJJNIhLTPqz7SSU0Fw3V"
+      "duration_ms": 437460,
+      "name": "Dios ha sido bueno",
+      "url": "https://open.spotify.com/track/7dhiLa8Fvcdhzs6cpC4Osp"
     },
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En adoraci\u00f3n",
-        "url": "https://open.spotify.com/album/0kfCuoDxi46cnlurjvW5zD"
+        "name": "Sobrenatural",
+        "url": "https://open.spotify.com/album/1EDofreiBInsrMtMbpt7hL"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 437460,
-      "name": "Dios ha sido bueno",
-      "url": "https://open.spotify.com/track/7dhiLa8Fvcdhzs6cpC4Osp"
+      "duration_ms": 311706,
+      "name": "Sobrenatural",
+      "url": "https://open.spotify.com/track/0bYJJNIhLTPqz7SSU0Fw3V"
     },
     {
       "added_at": null,
@@ -587,26 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eres Rey",
-        "url": "https://open.spotify.com/album/5IElr9Pfprf2TElNtY5DNr"
-      },
-      "artists": [
-        {
-          "name": "Coalo Zamorano",
-          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
-        },
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 349801,
-      "name": "Eres Rey",
-      "url": "https://open.spotify.com/track/5fEOyBNgi2VQvlISgerFEf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vivir\u00e9",
         "url": "https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 241656,
       "name": "Es Posible",
       "url": "https://open.spotify.com/track/0uybu0niD36vI134J5nqNz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eres Rey",
+        "url": "https://open.spotify.com/album/5IElr9Pfprf2TElNtY5DNr"
+      },
+      "artists": [
+        {
+          "name": "Coalo Zamorano",
+          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
+        },
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 349801,
+      "name": "Eres Rey",
+      "url": "https://open.spotify.com/track/5fEOyBNgi2VQvlISgerFEf"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sigues Siendo Dios (En Vivo)",
-        "url": "https://open.spotify.com/album/053ovbmjuMUiTEQ6QKAfm5"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 286933,
-      "name": "Sigues Siendo Dios - En Vivo",
-      "url": "https://open.spotify.com/track/7ixh37GsLjSFgUuZpt77eX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jes\u00fas Salva",
         "url": "https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 308253,
       "name": "Abre hoy los cielos",
       "url": "https://open.spotify.com/track/63FhFLxr19VoiJnVH7QnEG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sigues Siendo Dios (En Vivo)",
+        "url": "https://open.spotify.com/album/053ovbmjuMUiTEQ6QKAfm5"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 286933,
+      "name": "Sigues Siendo Dios - En Vivo",
+      "url": "https://open.spotify.com/track/7ixh37GsLjSFgUuZpt77eX"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
       "duration_ms": 178233,
       "name": "Perdonados",
       "url": "https://open.spotify.com/track/3L0pj40jXUDOX3p1OmZqvQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sana Nuestra Tierra",
+        "url": "https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 412708,
+      "name": "Sananos",
+      "url": "https://open.spotify.com/track/3pf1Pa1b4Vd1KuilOA0CpH"
     },
     {
       "added_at": null,
@@ -799,22 +815,6 @@
       "duration_ms": 651080,
       "name": "Dios De Pactos",
       "url": "https://open.spotify.com/track/4wFBzIA7HuaaGz89DQnWyo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sana Nuestra Tierra",
-        "url": "https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 412708,
-      "name": "Sananos",
-      "url": "https://open.spotify.com/track/3pf1Pa1b4Vd1KuilOA0CpH"
     },
     {
       "added_at": null,
@@ -875,22 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Mejor de Instrumentales",
-        "url": "https://open.spotify.com/album/2W84MBeBF9SHaNhUmfiS1Q"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 203206,
-      "name": "Tu amor por Mi",
-      "url": "https://open.spotify.com/track/2bWQuqMF3uxDIzTi1DRjXT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ayer y Hoy",
         "url": "https://open.spotify.com/album/7svEhoIUz5fCkt6IXhcAsc"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 362320,
       "name": "A Ti & Temprano Yo Te Buscar\u00e9 (feat. Marcos Witt)",
       "url": "https://open.spotify.com/track/1o733VX6GW0U6mPlYx4deP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Mejor de Instrumentales",
+        "url": "https://open.spotify.com/album/2W84MBeBF9SHaNhUmfiS1Q"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 203206,
+      "name": "Tu amor por Mi",
+      "url": "https://open.spotify.com/track/2bWQuqMF3uxDIzTi1DRjXT"
     }
   ],
   "unique_name": "This Is Marcos Witt",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 
 > ¡Ahi viene la plaga..\. por eso, aviéntense todos a bailar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,281 likes - 100 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,313 likes - 100 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 6 | [Creo Estar Soñando](https://open.spotify.com/track/76k8SMT9ALvTijx3EQiJP0) | [Hermanos Carrion](https://open.spotify.com/artist/1imQoJLlChzLWuwtodAgWN) | [Discos Del Millón](https://open.spotify.com/album/6UdmTdJKNARrt4QGRURZ8k) | 2:42 |
 | 7 | [Pensaba en Ti \- Tema Remasterizado](https://open.spotify.com/track/63bJH7VTZF8tgtgm7dPLrw) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [Serie De Colección 16 Autenticos Exitos](https://open.spotify.com/album/6DB6Osx9qCOSB0wPNbSE2A) | 3:25 |
 | 8 | [Cuando Me Enamoro \(Quando Mi Inamoro\)](https://open.spotify.com/track/4tOpQs1UNniDYeVAc9Ck8u) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [RCA 100 Años De Musica](https://open.spotify.com/album/6kmo9ICrHMtTWTr6AghTa2) | 3:03 |
-| 9 | [Se Fue](https://open.spotify.com/track/3LxPolifAA2lfU0cvmOhVQ) | [Los Hermanos Carrion](https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz) | [Hermanos Carrion 50 Años, Vol\. 1](https://open.spotify.com/album/1gT2Z4hNEKewsnyZmY4eCH) | 2:42 |
-| 10 | [Bule bule \- Remastered](https://open.spotify.com/track/4lY1RHHCrH5bAxAA7KlUhT) | [Enrique Guzmán & Teen Tops](https://open.spotify.com/artist/1Q2UXM1vlDYOzeAZYDI2WD) | [El rock de la cárcel \(Remastered\)](https://open.spotify.com/album/0errWAKWe4xl8p5DxVS93H) | 2:21 |
+| 9 | [Bule bule \- Remastered](https://open.spotify.com/track/4lY1RHHCrH5bAxAA7KlUhT) | [Enrique Guzmán & Teen Tops](https://open.spotify.com/artist/1Q2UXM1vlDYOzeAZYDI2WD) | [El rock de la cárcel \(Remastered\)](https://open.spotify.com/album/0errWAKWe4xl8p5DxVS93H) | 2:21 |
+| 10 | [Se Fue](https://open.spotify.com/track/3LxPolifAA2lfU0cvmOhVQ) | [Los Hermanos Carrion](https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz) | [Hermanos Carrion 50 Años, Vol\. 1](https://open.spotify.com/album/1gT2Z4hNEKewsnyZmY4eCH) | 2:42 |
 | 11 | [Cuando yo era un jovencito \- Cotto Fields\-](https://open.spotify.com/track/5ouydE9d0hoTU6d1Vz1cWX) | [Los Apson](https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW) | [Peerless 80 Aniversario \- 24 Exitos Vol\. 2](https://open.spotify.com/album/4r7lKZlexihhW6tGY89UoO) | 2:47 |
 | 12 | [Buen Rock Esta Noche \- Good Rockin' Tonight \[Remasterizado\]](https://open.spotify.com/track/6A3rHCtV9sP5aRvBDth3wB) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [Serie De Colección 16 Autenticos Exitos](https://open.spotify.com/album/6DB6Osx9qCOSB0wPNbSE2A) | 2:16 |
 | 13 | [Cosas](https://open.spotify.com/track/0HyMclCYwn2zd92zxHAP2E) | [Oscar Madrigal](https://open.spotify.com/artist/1TWdQKKan4cnjG1YTdHW6t) | [Emociones Sin Límite Volumen 1](https://open.spotify.com/album/3PDBK5dKDsYY42NOIh8STL) | 2:22 |
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 61 | [Chuby Chuby \- Chewy Chewy](https://open.spotify.com/track/578D97y2BlyUHv3f5wHYHp) | [Las Ventanas](https://open.spotify.com/artist/44cgJrhaBld32Xou7xno1x) | [Serie de Colección 18 Auténticos Éxitos Hit´s de Grupos, Vol\. 2](https://open.spotify.com/album/3eXRb8zVCNGSWx3OHodqXB) | 2:40 |
 | 62 | [Juego De Amor](https://open.spotify.com/track/2GaAmsIrZOKEPnt4w1YfIe) | [Los Rockin' Devils](https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:19 |
 | 63 | [Dulces a Mi Amor](https://open.spotify.com/track/3s6xa3WDlEZ3QdPuyhftSh) | [Los Jokers](https://open.spotify.com/artist/2LklOiSHWX50yM3NVYF26Q) | [RCA 100 Anos De Musica \- Segunda Parte \(Exitos Inolvidables Del Rock & Roll En Español\)](https://open.spotify.com/album/2e5up6v7vHRX4lFW2N43OK) | 2:30 |
-| 64 | [La Batalla De Jericó](https://open.spotify.com/track/6cHCv08cDeeZWaETJInX4Y) | [Black Jeans](https://open.spotify.com/artist/5VC9QlLIQLWM2ppXD9OZd0) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:06 |
+| 64 | [Pan Con Mantequilla](https://open.spotify.com/track/4hWIlKthIn4NGThpUVn5tj) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Roots Of Rock En Español](https://open.spotify.com/album/66v26zIv917KdNZHVRXTWr) | 1:37 |
 | 65 | [El Esqueleto](https://open.spotify.com/track/1vSBPw23dARiJyon6Ttoj7) | [Los Jockers](https://open.spotify.com/artist/1tHxyQ3P1Oo7T7YFKfRaKK) | [Rock, Puro Rock](https://open.spotify.com/album/2uZRx3gfHsgndRHm8Ks7RE) | 2:45 |
-| 66 | [Yo No Soy Rebele](https://open.spotify.com/track/29yCUGao7C8ksqVASeCD8v) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Roots Of Rock En Español](https://open.spotify.com/album/66v26zIv917KdNZHVRXTWr) | 1:30 |
+| 66 | [La Batalla De Jericó](https://open.spotify.com/track/6cHCv08cDeeZWaETJInX4Y) | [Black Jeans](https://open.spotify.com/artist/5VC9QlLIQLWM2ppXD9OZd0) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:06 |
 | 67 | [Ella No Está Ahí](https://open.spotify.com/track/0pQY35zkNpzWhYT9187fxR) | [Polo](https://open.spotify.com/artist/4tiGY5k0vmyz1eLLppihMk) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:32 |
 | 68 | [Fiebre \- Fever](https://open.spotify.com/track/5Lp5euQo2kUiBRWopCiZFE) | [Los Johnny Jets](https://open.spotify.com/artist/65t9bQlShQt2XgkYr5XyWK) | [Lucha Va Voom \- Señor Amor's Mexican R&R Faves](https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B) | 2:36 |
 | 69 | [La Catedral De Winchestern](https://open.spotify.com/track/7wbROPLgipLyC5OYe2SxxW) | [Abril](https://open.spotify.com/artist/6i3CrGDk8vbDsddphpPbCG) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:21 |

@@ -2,7 +2,7 @@
 
 ### [This Is Frequency](https://open.spotify.com/playlist/37i9dQZF1DWVgsJtp58d1t)
 
-> New music from Black artists every Friday\. Happy Black Music Month! Cover: <a href="spotify:artist:5xKVALj2MSqOHmQhburCM8">Tanner Addell</a>
+> New music from Black artists every Friday\. Happy Black Music Month! Cover: <a href="spotify:artist:5xKVALj2MSqOHmQhburCM8">Tanner Addell</a>, Shot by: Shaun Llewellyn
 
 3,385 songs - 7 day 2 hr 20 min
 

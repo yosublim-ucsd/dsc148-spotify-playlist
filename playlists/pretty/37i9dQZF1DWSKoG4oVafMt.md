@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Kulwinder Billa & Shivani Parihar
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,007 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,113 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Naanke](https://open.spotify.com/track/74oWyckFTzMSn7MkhHUQrP) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV), [Ricky Khan](https://open.spotify.com/artist/5QcmkDotvADr6cAYDdlRZQ) | [Naanke](https://open.spotify.com/album/2EmA299vtiy17Xp30pKn7d) | 2:41 |
+| 1 | [Naanke](https://open.spotify.com/track/74oWyckFTzMSn7MkhHUQrP) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV), [Ricky Khan](https://open.spotify.com/artist/5QcmkDotvADr6cAYDdlRZQ), [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8) | [Naanke](https://open.spotify.com/album/2EmA299vtiy17Xp30pKn7d) | 2:41 |
 | 2 | [Suniyan Suniyan](https://open.spotify.com/track/0XRb6eZE4dBIJdqwf1Mixu) | [Juss](https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Suniyan Suniyan](https://open.spotify.com/album/7fDOsfo0KfyUV2crgrG6zR) | 3:17 |
 | 3 | [Tainu Khabar Nahi \- From "Munjya"](https://open.spotify.com/track/5npFBWhVs3VVlc0nY5xQMA) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Tainu Khabar Nahi \(From "Munjya"\)](https://open.spotify.com/album/0cJXodCZCl2EWRNcw6m1eJ) | 3:08 |
 | 4 | [Tareefan](https://open.spotify.com/track/4hYKmQvLi2yaFAd7Kx07Vp) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw) | [Tareefan](https://open.spotify.com/album/36Bplz54txKmm4xAJoUGcg) | 3:12 |

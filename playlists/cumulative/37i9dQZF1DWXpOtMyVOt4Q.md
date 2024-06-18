@@ -4,7 +4,7 @@
 
 > Chill tunes to soundtrack your gaming session.
 
-277 songs - 15 hr 33 min
+278 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Awake](https://open.spotify.com/track/2qC1sUo8xxRRqYsaYEdDuZ) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Awake](https://open.spotify.com/album/7HWdGPosPkb9GY5MOgLgSW) | 4:43 | 2019-12-16 | 2022-07-29 |
 | [Awake](https://open.spotify.com/track/5MhMXTuVODDF234VDvSxQx) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Awake](https://open.spotify.com/album/0GjrPTT00KWsalUi8jnpR9) | 4:43 | 2019-12-16 | 2022-09-01 |
 | [Behind Every Decision](https://open.spotify.com/track/2kbruQXVXFmxxm4l75zuwy) | [Yehezkel Raz](https://open.spotify.com/artist/31klRMTQJ94NrxwIZJwJBY) | [Preludes, Book 2 \- Torrents](https://open.spotify.com/album/23evXngVDHzY3P9A2wNDJY) | 1:45 | 2023-09-08 |  |
-| [black roses](https://open.spotify.com/track/1nR2dLSV4UXr9r8UFBECqQ) | [mood.](https://open.spotify.com/artist/3fL0KDSqNCWDtbu1wfIaVo) | [letting go](https://open.spotify.com/album/1RZ20rR89O00egMOSmaR5I) | 1:53 | 2024-05-08 |  |
+| [black roses](https://open.spotify.com/track/1nR2dLSV4UXr9r8UFBECqQ) | [mood.](https://open.spotify.com/artist/3fL0KDSqNCWDtbu1wfIaVo) | [letting go](https://open.spotify.com/album/1RZ20rR89O00egMOSmaR5I) | 1:53 | 2024-05-08 | 2024-06-18 |
 | [Bless This Morning Year](https://open.spotify.com/track/6knzYloG0x3MroAhnLVLGe) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Eingya](https://open.spotify.com/album/1OF3AnbSDa1ZSEFE7lukTb) | 6:01 | 2019-12-16 | 2022-09-01 |
 | [braincells](https://open.spotify.com/track/6aMk9gUq9pjZgmjsAm3FjS) | [tomcbumpz](https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy) | [comfortable silence](https://open.spotify.com/album/1Mlp2X6DPCWVLoN6QqH25x) | 0:59 | 2023-09-20 |  |
 | [Breathturn](https://open.spotify.com/track/2MRcpN5ofn2KicuqV1Xgsw) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Chasing After Shadows...Living with the Ghosts \(Deluxe Edition\)](https://open.spotify.com/album/3unaqYHP341UgXm5OvITDS) | 6:00 | 2019-12-16 | 2022-07-29 |
@@ -67,6 +67,7 @@
 | [dark snowy night \- Slowed & Reverb Version](https://open.spotify.com/track/05GNWCE3kGfTRIh2Zld3NH) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [dark snowy night](https://open.spotify.com/album/0WnATwrpuFPvyTpqxo1R5O) | 3:31 | 2023-09-08 | 2024-05-09 |
 | [Dead Metal](https://open.spotify.com/track/7CCPRhIy6VHd4ZmquuIggW) | [Rhys Lindsay](https://open.spotify.com/artist/1LD84W4loy082VZ4Mw7Td8) | [Exo One \(Original Game Soundtrack\)](https://open.spotify.com/album/22rQYIwZ0eL57N6FQ3ixme) | 1:05 | 2023-09-08 | 2024-05-09 |
 | [deep reverie](https://open.spotify.com/track/6qSwCH11dUzTMU6dxvDtRo) | [buggy beats](https://open.spotify.com/artist/20sIKWsBpGJNPLbWNeSrT7) | [deep reverie](https://open.spotify.com/album/030JyTVxSvL5YzNCVrW12m) | 2:33 | 2024-05-08 | 2024-05-18 |
+| [Der Dritte](https://open.spotify.com/track/4rCzoJztCW9Hr3M7UtM8aq) | [Bassti](https://open.spotify.com/artist/0tFVT92PBHTTLoKmS8WbFP) | [Expedition, Vol\. 18 \(Girl\)](https://open.spotify.com/album/54IjRainY8NtZpZN2LYZBg) | 1:10 | 2024-05-22 |  |
 | [Distant Memory](https://open.spotify.com/track/7HL7aFk0ONq1QnlnDTtzov) | [Juliàn](https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk), [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [Distant Memory](https://open.spotify.com/album/5r4tbLxLxxotZV0qRQbpFG) | 2:43 | 2022-08-31 | 2023-04-12 |
 | [Don't Get Any Closer](https://open.spotify.com/track/3A2fblRWcD5rUZEBDLefw0) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Nightmare Ending](https://open.spotify.com/album/1XKm22uQVwp5JLNjRDRC4P) | 9:06 | 2019-12-16 | 2022-09-01 |
 | [Don't Get Any Closer](https://open.spotify.com/track/5aEW7hL4yJ3StRw4x9ZLLn) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Nightmare Ending](https://open.spotify.com/album/4BMYwbOZd1i9vraiSXtSkg) | 9:06 | 2019-12-16 | 2022-07-29 |

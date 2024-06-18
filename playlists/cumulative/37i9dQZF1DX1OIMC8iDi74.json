@@ -202,7 +202,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 228169,
       "name": "All of Me (feat. Logic, ROZES)",
       "url": "https://open.spotify.com/track/3ISiZ0GzocM9ssIwqRn1AW"
@@ -366,7 +366,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 204480,
       "name": "Apocalyptic",
       "url": "https://open.spotify.com/track/3E5Go2swucT0A6NmqOEChM"
@@ -624,7 +624,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Bellz",
       "url": "https://open.spotify.com/track/753DZsGGXlasRCp48FmOhH"
@@ -1086,7 +1086,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 129856,
       "name": "Burning Doghouse",
       "url": "https://open.spotify.com/track/4FGtOCJV6ExayepusoUTpl"
@@ -1638,7 +1638,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-17",
+      "date_removed": null,
       "duration_ms": 185285,
       "name": "Cyanide",
       "url": "https://open.spotify.com/track/3iFJjgV27J4vDs9N7RAAKs"
@@ -1964,7 +1964,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 245090,
       "name": "Do or Die (feat. Childish Gambino)",
       "url": "https://open.spotify.com/track/2BTPW7osibjN9gFDRY4mYN"
@@ -1982,7 +1982,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 195790,
       "name": "Do You?",
       "url": "https://open.spotify.com/track/0tAFy8LVdMQgW6A6Nq7olS"
@@ -2178,6 +2178,24 @@
       "duration_ms": 126857,
       "name": "DR!P",
       "url": "https://open.spotify.com/track/5jSfWCUwhSpG7EJiupoL15"
+    },
+    {
+      "album": {
+        "name": "Drifting in the Dark",
+        "url": "https://open.spotify.com/album/2DaIUVT6XAUpN8YKIiH0LY"
+      },
+      "artists": [
+        {
+          "name": "RemK",
+          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Drifting in the Dark",
+      "url": "https://open.spotify.com/track/3B06Gf1WqbgpZ8dBl1b5xd"
     },
     {
       "album": {
@@ -2844,7 +2862,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 190682,
       "name": "FEELING GUD",
       "url": "https://open.spotify.com/track/0suLmBuEbatdochI4tHduq"
@@ -3872,7 +3890,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 213340,
       "name": "High You Are (Branchez Remix)",
       "url": "https://open.spotify.com/track/4YIoQqE50AdyG4BQafCi3u"
@@ -4086,7 +4104,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 192000,
       "name": "HYPER_SURF",
       "url": "https://open.spotify.com/track/3PXGBlgTA6rpbcMqwMcL7S"
@@ -4410,7 +4428,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 233142,
       "name": "In The Sky",
       "url": "https://open.spotify.com/track/3Z0aVXkpXQhpYosTStTu4t"
@@ -4899,6 +4917,24 @@
     },
     {
       "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/2O8q12IQra2jingsPnMsk1"
+      },
+      "artists": [
+        {
+          "name": "Stooki Sound",
+          "url": "https://open.spotify.com/artist/6ky7h0ow6NQgAnsoN2AB7h"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199261,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/2lahbcDB1cttd0k3Mu6p6D"
+    },
+    {
+      "album": {
         "name": "Let You Go",
         "url": "https://open.spotify.com/album/2yCztLk81wZsugtw4DGuMQ"
       },
@@ -4928,7 +4964,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 239853,
       "name": "Light",
       "url": "https://open.spotify.com/track/6jq6rcOikCZAmjliAgAmfT"
@@ -5166,6 +5202,28 @@
       "duration_ms": 198690,
       "name": "Look Back",
       "url": "https://open.spotify.com/track/6uU3is35QYYPXgK2NylZ3E"
+    },
+    {
+      "album": {
+        "name": "Alter/Ego Volume III",
+        "url": "https://open.spotify.com/album/5yXptClzNwBAw9GdIRxt76"
+      },
+      "artists": [
+        {
+          "name": "Hex Cougar",
+          "url": "https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR"
+        },
+        {
+          "name": "Acyan",
+          "url": "https://open.spotify.com/artist/0o70ZPcBroPuIcUOOLWDI4"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208279,
+      "name": "LOSE CONTROL",
+      "url": "https://open.spotify.com/track/6dGm7Nbq7TCho3U8jew0HG"
     },
     {
       "album": {
@@ -6559,6 +6617,24 @@
     },
     {
       "album": {
+        "name": "Pause",
+        "url": "https://open.spotify.com/album/5o0A9wlHUUOB8mVxW1COX9"
+      },
+      "artists": [
+        {
+          "name": "GorillaT",
+          "url": "https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117428,
+      "name": "Pause",
+      "url": "https://open.spotify.com/track/3BEN6MDiWwQ0zekceNpU5y"
+    },
+    {
+      "album": {
         "name": "People I Know",
         "url": "https://open.spotify.com/album/65WRyCsZ6Si9DdosdDyhBS"
       },
@@ -7476,7 +7552,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 231627,
       "name": "Shibuya Pet Store - Trinist Remix",
       "url": "https://open.spotify.com/track/0INax65LOWWVlQCXh0i82i"
@@ -7700,7 +7776,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 168827,
       "name": "SNOOZE",
       "url": "https://open.spotify.com/track/6KTvDXOWRaG6PVsBj24g1M"
@@ -8482,7 +8558,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 271749,
       "name": "Thief - Flux Pavilion Remix",
       "url": "https://open.spotify.com/track/6btkdvumrTmcFzy3oFpZqS"
@@ -8694,6 +8770,24 @@
       "duration_ms": 170704,
       "name": "Touch",
       "url": "https://open.spotify.com/track/5ZtIpR2A1ebZTaYyQEtEc8"
+    },
+    {
+      "album": {
+        "name": "Touch My Body",
+        "url": "https://open.spotify.com/album/4B7Bt1NuP5Sabg4KHABBD7"
+      },
+      "artists": [
+        {
+          "name": "capshun",
+          "url": "https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237705,
+      "name": "Touch My Body",
+      "url": "https://open.spotify.com/track/5h3My28wmQAobAeIgYtMzE"
     },
     {
       "album": {

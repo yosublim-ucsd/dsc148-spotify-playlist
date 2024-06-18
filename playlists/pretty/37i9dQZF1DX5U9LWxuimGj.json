@@ -1,18 +1,18 @@
 {
-  "description": "Country music with a Latin flair. Cover: Carin Leon & Kane Brown",
-  "num_followers": 22477,
+  "description": "Country music with a Latin flair. Cover: Carin Leon ",
+  "num_followers": 22497,
   "original_name": "Country Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZiHsQAAAAACZx7K3ING0lL86lghRwxt+",
+  "snapshot_id": "ZnCLqAAAAACkC895beZXpatJ2tM99V2B",
   "tracks": [
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-06-17 19:16:56",
       "album": {
-        "name": "Colmillo De Leche Live Sessions (En Vivo)",
-        "url": "https://open.spotify.com/album/4lAoWJAGBqKpgCBMGGVTWz"
+        "name": "Boca Chueca, Vol. 1",
+        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
       },
       "artists": [
         {
@@ -20,64 +20,168 @@
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 218357,
-      "name": "Love Like This - En Vivo",
-      "url": "https://open.spotify.com/track/3tVSavUm2ytulh0CWlknlH"
+      "duration_ms": 231375,
+      "name": "Desp\u00eddase bien",
+      "url": "https://open.spotify.com/track/1llaUCfG1g5WzKt6JafYyk"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-06-17 19:16:56",
       "album": {
-        "name": "Lost in the Middle of Nowhere (feat. Becky G) (Spanish Remix)",
-        "url": "https://open.spotify.com/album/6UheMHszVb1bG2O5AB7lkI"
+        "name": "Leaving With My Heart",
+        "url": "https://open.spotify.com/album/27bjp60VMZ1tzeMZTcjs2Z"
       },
       "artists": [
+        {
+          "name": "Vinny Tovar",
+          "url": "https://open.spotify.com/artist/0SdfAIPqjuj8pPmO0mJqWV"
+        },
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "duration_ms": 178943,
+      "name": "Leaving With My Heart",
+      "url": "https://open.spotify.com/track/6UG5p0ZG93YqHAKS4NBmnl"
+    },
+    {
+      "added_at": "2024-06-17 19:16:56",
+      "album": {
+        "name": "Beautiful Crazy [Bella Locura]",
+        "url": "https://open.spotify.com/album/2i7Kp0HZyQ42NXSL0FRnmv"
+      },
+      "artists": [
+        {
+          "name": "Sammy Arriaga",
+          "url": "https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3"
+        }
+      ],
+      "duration_ms": 176254,
+      "name": "Beautiful Crazy [Bella Locura] - Spanish",
+      "url": "https://open.spotify.com/track/2EHn6Ud7fm4gnNw6cWk3GH"
+    },
+    {
+      "added_at": "2024-06-17 19:16:56",
+      "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/3LKddDEC4veAwqoUNKWizM"
+      },
+      "artists": [
+        {
+          "name": "Louie TheSinger",
+          "url": "https://open.spotify.com/artist/0Ht6v1kud5bXl4mp8eaDjj"
+        }
+      ],
+      "duration_ms": 204018,
+      "name": "Brothers",
+      "url": "https://open.spotify.com/track/6Imq8YhHb4vmcNRMhj0QaI"
+    },
+    {
+      "added_at": "2024-06-17 19:16:56",
+      "album": {
+        "name": "THE GB",
+        "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 155157,
+      "name": "La Ni\u00f1a",
+      "url": "https://open.spotify.com/track/1ufvUzb22WGWvNoHecXWZn"
+    },
+    {
+      "added_at": "2024-06-17 19:16:56",
+      "album": {
+        "name": "Zapatos Grandes",
+        "url": "https://open.spotify.com/album/7eONexMnq2H99kteCv22o5"
+      },
+      "artists": [
+        {
+          "name": "Jerry DeLeon & Southbound",
+          "url": "https://open.spotify.com/artist/0BhWkzHglAanDkZISPU6QQ"
+        }
+      ],
+      "duration_ms": 211800,
+      "name": "Zapatos Grandes",
+      "url": "https://open.spotify.com/track/6mxX1h2SLYjsmPQRMZBb8O"
+    },
+    {
+      "added_at": "2024-06-17 19:16:56",
+      "album": {
+        "name": "Make it Norte\u00f1o Vol. 1",
+        "url": "https://open.spotify.com/album/7h2wTuvmqp4qoDfrOh10rs"
+      },
+      "artists": [
+        {
+          "name": "EZ Band",
+          "url": "https://open.spotify.com/artist/2gTWLwanLiNZFR0iNPD847"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "Hey There Delilah",
+      "url": "https://open.spotify.com/track/6DcuRMCIu66fLSGiS0MgZ8"
+    },
+    {
+      "added_at": "2024-06-17 19:16:56",
+      "album": {
+        "name": "The One (Pero No Como Yo)",
+        "url": "https://open.spotify.com/album/1XHEmP9tUeP0oWRjntPfyX"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
         {
           "name": "Kane Brown",
           "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         }
       ],
-      "duration_ms": 189833,
-      "name": "Lost in the Middle of Nowhere (feat. Becky G) (Spanish Remix)",
-      "url": "https://open.spotify.com/track/6pNeLrBdPEkUG3f1jbrMG9"
+      "duration_ms": 176800,
+      "name": "The One (Pero No Como Yo)",
+      "url": "https://open.spotify.com/track/4sP0UhSgdEExt7KpcgWHFq"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-06-17 19:16:56",
       "album": {
-        "name": "Los Tigres Del Norte At Folsom Prison (Original Soundtrack/Live)",
-        "url": "https://open.spotify.com/album/3vEowTdZIpdcVdbLlqZc6q"
+        "name": "Kbron y Medio",
+        "url": "https://open.spotify.com/album/43lZUcMvNSAHtQTVHzAgax"
       },
       "artists": [
         {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 199666,
-      "name": "La Prisi\u00f3n De Folsom (Folsom Prison Blues) - Live At Folsom Prison",
-      "url": "https://open.spotify.com/track/6h23gt9orDwsnjl2R1MGpN"
+      "duration_ms": 258441,
+      "name": "Kbron y Medio",
+      "url": "https://open.spotify.com/track/5mCpJrvnlFIsOIxwd8VIc0"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-06-17 19:16:56",
       "album": {
-        "name": "El Ahijado Consentido",
-        "url": "https://open.spotify.com/album/35F7wwWfEZV6FSrCppyNPP"
+        "name": "The Ballad Of A Lonely Man",
+        "url": "https://open.spotify.com/album/6t4jHWaV2flIBBSyGU7Olh"
       },
       "artists": [
         {
-          "name": "Chay\u00edn Rubio",
-          "url": "https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B"
+          "name": "Vinny Tovar",
+          "url": "https://open.spotify.com/artist/0SdfAIPqjuj8pPmO0mJqWV"
         }
       ],
-      "duration_ms": 189346,
-      "name": "Ya Me Enter\u00e9",
-      "url": "https://open.spotify.com/track/4ggabbjjuHrG06SsYnqvEs"
+      "duration_ms": 211390,
+      "name": "The Ballad Of A Lonely Man",
+      "url": "https://open.spotify.com/track/7h4xRKEGtCq6VMcy4IuNif"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-06-17 19:16:56",
       "album": {
         "name": "Alch Si",
         "url": "https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc"
@@ -97,43 +201,7 @@
       "url": "https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Drinkin' Problem (Brindemos)",
-        "url": "https://open.spotify.com/album/0yGUU5Wcj5PBvXOyMWuGp5"
-      },
-      "artists": [
-        {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
-        },
-        {
-          "name": "Jay de la Cueva",
-          "url": "https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu"
-        }
-      ],
-      "duration_ms": 220720,
-      "name": "Drinkin' Problem (Brindemos)",
-      "url": "https://open.spotify.com/track/7AY1uEEkYfFLFCEuc8QvUH"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Uh-huh (Aj\u00e1)",
-        "url": "https://open.spotify.com/album/1dgloxARc4TDcrBgI6z6d6"
-      },
-      "artists": [
-        {
-          "name": "Frank Ray",
-          "url": "https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF"
-        }
-      ],
-      "duration_ms": 182733,
-      "name": "Uh-huh (Aj\u00e1)",
-      "url": "https://open.spotify.com/track/1gjG3auVpW1dugekfaCHXo"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-06-17 19:16:56",
       "album": {
         "name": "Tennessee Whiskey (Spanglish + Spanish)",
         "url": "https://open.spotify.com/album/5KLC4e2nMAmcJt9P5fE9bK"
@@ -149,7 +217,39 @@
       "url": "https://open.spotify.com/track/0VvE78qLaoWabpnU7jKo0E"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-06-17 19:16:56",
+      "album": {
+        "name": "Cumbias Light, Vol. 2",
+        "url": "https://open.spotify.com/album/50On6TIoLAj9Ljf1gBzi99"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 215869,
+      "name": "Whiskey and Tequila",
+      "url": "https://open.spotify.com/track/7rJCLLO5ukvTRQxjpmDvOd"
+    },
+    {
+      "added_at": "2024-06-17 19:16:56",
+      "album": {
+        "name": "Bartender I'll Take Two",
+        "url": "https://open.spotify.com/album/6SQuLISq4Rb7eMvjkkTn57"
+      },
+      "artists": [
+        {
+          "name": "Selestial Alcoser",
+          "url": "https://open.spotify.com/artist/4HtKg8ufn3YPH6xsZLQEUn"
+        }
+      ],
+      "duration_ms": 218063,
+      "name": "Bartender I'll Take Two",
+      "url": "https://open.spotify.com/track/5xr9LifX1cb8oRoCMzqEVC"
+    },
+    {
+      "added_at": "2024-06-17 19:16:56",
       "album": {
         "name": "Friends in Low Places",
         "url": "https://open.spotify.com/album/2xsdKICcsa8pXbUByoP3tv"
@@ -177,59 +277,111 @@
       "url": "https://open.spotify.com/track/2xAexQlBRpLrHsTk7hvdPk"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-06-17 19:16:56",
       "album": {
-        "name": "The One (Pero No Como Yo)",
-        "url": "https://open.spotify.com/album/1XHEmP9tUeP0oWRjntPfyX"
+        "name": "Womanizer",
+        "url": "https://open.spotify.com/album/0SlfYU1bRTlOdQZpArX6Eu"
+      },
+      "artists": [
+        {
+          "name": "Sunny Sauceda",
+          "url": "https://open.spotify.com/artist/1UFXT6Zf12IsTUnNPRbmUg"
+        }
+      ],
+      "duration_ms": 210879,
+      "name": "Womanizer",
+      "url": "https://open.spotify.com/track/7broLIw834Zvv993xx6nV3"
+    },
+    {
+      "added_at": "2024-06-17 19:16:56",
+      "album": {
+        "name": "Colmillo De Leche Live Sessions (En Vivo)",
+        "url": "https://open.spotify.com/album/4lAoWJAGBqKpgCBMGGVTWz"
       },
       "artists": [
         {
           "name": "Carin Leon",
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
+        }
+      ],
+      "duration_ms": 218357,
+      "name": "Love Like This - En Vivo",
+      "url": "https://open.spotify.com/track/3tVSavUm2ytulh0CWlknlH"
+    },
+    {
+      "added_at": "2024-06-17 19:16:56",
+      "album": {
+        "name": "Lost in the Middle of Nowhere (feat. Becky G) (Spanish Remix)",
+        "url": "https://open.spotify.com/album/6UheMHszVb1bG2O5AB7lkI"
+      },
+      "artists": [
         {
           "name": "Kane Brown",
           "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         }
       ],
-      "duration_ms": 176800,
-      "name": "The One (Pero No Como Yo)",
-      "url": "https://open.spotify.com/track/4sP0UhSgdEExt7KpcgWHFq"
+      "duration_ms": 189833,
+      "name": "Lost in the Middle of Nowhere (feat. Becky G) (Spanish Remix)",
+      "url": "https://open.spotify.com/track/6pNeLrBdPEkUG3f1jbrMG9"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-06-17 19:16:56",
       "album": {
-        "name": "South On Me",
-        "url": "https://open.spotify.com/album/1KesYtUzvUIhgTksXIQLh5"
+        "name": "Los Tigres Del Norte At Folsom Prison (Original Soundtrack/Live)",
+        "url": "https://open.spotify.com/album/3vEowTdZIpdcVdbLlqZc6q"
       },
       "artists": [
         {
-          "name": "Filmore",
-          "url": "https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG"
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 210293,
-      "name": "South On Me",
-      "url": "https://open.spotify.com/track/4DNhJNM7vu2fYWKJllUBeu"
+      "duration_ms": 199666,
+      "name": "La Prisi\u00f3n De Folsom (Folsom Prison Blues) - Live At Folsom Prison",
+      "url": "https://open.spotify.com/track/6h23gt9orDwsnjl2R1MGpN"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-06-17 19:16:56",
       "album": {
-        "name": "Me Vale Madre",
-        "url": "https://open.spotify.com/album/0mGwiGJ9bh9kgRuFIjQA92"
+        "name": "Drinkin' Problem (Brindemos)",
+        "url": "https://open.spotify.com/album/0yGUU5Wcj5PBvXOyMWuGp5"
       },
       "artists": [
         {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        },
+        {
+          "name": "Jay de la Cueva",
+          "url": "https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu"
         }
       ],
-      "duration_ms": 140160,
-      "name": "Me Vale Madre",
-      "url": "https://open.spotify.com/track/5jJFvVBgWznxyoJAhQO08H"
+      "duration_ms": 220720,
+      "name": "Drinkin' Problem (Brindemos)",
+      "url": "https://open.spotify.com/track/7AY1uEEkYfFLFCEuc8QvUH"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-06-17 19:16:56",
+      "album": {
+        "name": "Uh-huh (Aj\u00e1)",
+        "url": "https://open.spotify.com/album/1dgloxARc4TDcrBgI6z6d6"
+      },
+      "artists": [
+        {
+          "name": "Frank Ray",
+          "url": "https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF"
+        }
+      ],
+      "duration_ms": 182733,
+      "name": "Uh-huh (Aj\u00e1)",
+      "url": "https://open.spotify.com/track/1gjG3auVpW1dugekfaCHXo"
+    },
+    {
+      "added_at": "2024-06-17 19:16:56",
       "album": {
         "name": "S\u00f3lo Muere Si Se Olvida",
         "url": "https://open.spotify.com/album/3TIZvT8jpaoMMexlvfvsuu"
@@ -245,7 +397,7 @@
       "url": "https://open.spotify.com/track/6Ot71Is6rWE8KWEbWgxhZr"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-06-17 19:16:56",
       "album": {
         "name": "Caminando",
         "url": "https://open.spotify.com/album/7gKR2yAqsDQoeCRGKKrLQl"
@@ -265,7 +417,7 @@
       "url": "https://open.spotify.com/track/6187nmNResODDMkb2WNgES"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-06-17 19:16:56",
       "album": {
         "name": "Primera Cita",
         "url": "https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z"
@@ -281,23 +433,7 @@
       "url": "https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Beautiful Crazy [Bella Locura]",
-        "url": "https://open.spotify.com/album/2i7Kp0HZyQ42NXSL0FRnmv"
-      },
-      "artists": [
-        {
-          "name": "Sammy Arriaga",
-          "url": "https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3"
-        }
-      ],
-      "duration_ms": 176254,
-      "name": "Beautiful Crazy [Bella Locura] - Spanish",
-      "url": "https://open.spotify.com/track/2EHn6Ud7fm4gnNw6cWk3GH"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-06-17 19:16:56",
       "album": {
         "name": "Vaquero Arrepentido",
         "url": "https://open.spotify.com/album/60l7sli9oBPRzNGCh1rXJI"
@@ -313,39 +449,7 @@
       "url": "https://open.spotify.com/track/4g7ZMgMMZA2WPpnaeNK80l"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Leyendas del Pueblo Con Caballo Dorado",
-        "url": "https://open.spotify.com/album/19LluRsD0BLJNqcs5ryzuA"
-      },
-      "artists": [
-        {
-          "name": "Caballo Dorado",
-          "url": "https://open.spotify.com/artist/38yOUctO9eek9ti5NWMQXm"
-        }
-      ],
-      "duration_ms": 274179,
-      "name": "No Rompas Mi Corazon",
-      "url": "https://open.spotify.com/track/50kX2IurNXtSQZG5e4z9VP"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Crying",
-        "url": "https://open.spotify.com/album/4vkqPJ5odJpdDKBOPV338B"
-      },
-      "artists": [
-        {
-          "name": "Veronique Medrano",
-          "url": "https://open.spotify.com/artist/4fN7gCSTewGjaMJnuk8K2h"
-        }
-      ],
-      "duration_ms": 197019,
-      "name": "Crying (Bilingual Version)",
-      "url": "https://open.spotify.com/track/0CYzZDqEq4O7ArwvMqzQ7B"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-06-17 19:16:56",
       "album": {
         "name": "Cowboy Cumbia (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6PJa8XuD1rafZnJR5PnFRq"
@@ -361,7 +465,7 @@
       "url": "https://open.spotify.com/track/3j9R13BrWuygVOgOeIu2qe"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-06-17 19:16:56",
       "album": {
         "name": "Mal Necesario",
         "url": "https://open.spotify.com/album/146b6Xmk2VYXUwg8QsJxT1"
@@ -377,7 +481,7 @@
       "url": "https://open.spotify.com/track/0UQdOHYfDl4OY9waK0gFfu"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-06-17 19:16:56",
       "album": {
         "name": "Triston Marez",
         "url": "https://open.spotify.com/album/0MLWqiGjmaYa46WL2Rv56N"
@@ -401,7 +505,7 @@
       "url": "https://open.spotify.com/track/2yfzrPr0hBXLNFSbSBftj4"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-06-17 19:16:56",
       "album": {
         "name": "Vaquero Arrepentido",
         "url": "https://open.spotify.com/album/60l7sli9oBPRzNGCh1rXJI"
@@ -417,7 +521,7 @@
       "url": "https://open.spotify.com/track/4WOwOPyNHnJKNPQNdGsRtZ"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-06-17 19:16:56",
       "album": {
         "name": "Down Here",
         "url": "https://open.spotify.com/album/6UWvFvtdmemHeFzWuBUlOW"
@@ -437,7 +541,7 @@
       "url": "https://open.spotify.com/track/4BChEw9qEJjOmPIE9CU65e"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-06-17 19:16:56",
       "album": {
         "name": "Laredo",
         "url": "https://open.spotify.com/album/6UvkjIXN6hwu8xsfeFmtNV"
@@ -453,7 +557,7 @@
       "url": "https://open.spotify.com/track/2NrfHt0kmyH1l2C6k0cBxR"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-06-17 19:16:56",
       "album": {
         "name": "Morenita",
         "url": "https://open.spotify.com/album/5jm5YRpf876zq3wb9v8VKN"
@@ -469,7 +573,7 @@
       "url": "https://open.spotify.com/track/7sIpHft18Pg6GsvOsYTGd0"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-06-17 19:16:56",
       "album": {
         "name": "Tomemos Un Trago (Let's Find A Bar - Spanish Version)",
         "url": "https://open.spotify.com/album/3fThkG75KkFTnCjG4sss5N"
@@ -485,23 +589,7 @@
       "url": "https://open.spotify.com/track/38sGy3JpSD3oT6NyFhUtPc"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Chevy Bel Air",
-        "url": "https://open.spotify.com/album/2z6mvbkzLrnpWYSe7VT03Q"
-      },
-      "artists": [
-        {
-          "name": "Sammy Arriaga",
-          "url": "https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3"
-        }
-      ],
-      "duration_ms": 177416,
-      "name": "Chevy Bel Air",
-      "url": "https://open.spotify.com/track/1tepd9MBwVeC9jRva63Rv1"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-06-17 19:16:56",
       "album": {
         "name": "Never Be the Same (feat. Kane Brown)",
         "url": "https://open.spotify.com/album/2BAqpci48cWxxLwIDqjPRU"
@@ -521,23 +609,7 @@
       "url": "https://open.spotify.com/track/0xk4woi8ENN8VWFDZTcF8h"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Hell in a Handbag",
-        "url": "https://open.spotify.com/album/7El9JLvuISfaC9EZACDzX7"
-      },
-      "artists": [
-        {
-          "name": "Alyssa Micaela",
-          "url": "https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej"
-        }
-      ],
-      "duration_ms": 203540,
-      "name": "Hell in a Handbag",
-      "url": "https://open.spotify.com/track/3AU9pWnplEeKOQP55P66kr"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-06-17 19:16:56",
       "album": {
         "name": "Cura Local (En Vivo)",
         "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
@@ -557,7 +629,7 @@
       "url": "https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-06-17 19:16:56",
       "album": {
         "name": "La Bamba",
         "url": "https://open.spotify.com/album/48s9qikZZvbEhVX1tdWc5R"
@@ -577,7 +649,7 @@
       "url": "https://open.spotify.com/track/0dJUbqKkP9EwuBtyLeQWHt"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-06-17 19:16:56",
       "album": {
         "name": "I Can't Even Drink Straight",
         "url": "https://open.spotify.com/album/3HAnMO7pzNRKMuTU2U99VD"
@@ -593,23 +665,7 @@
       "url": "https://open.spotify.com/track/07hSFiKCVTEOxjRn5agBkS"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Country Pop Latino",
-        "url": "https://open.spotify.com/album/2UXkZRTHGwRSVKSwbdtwqm"
-      },
-      "artists": [
-        {
-          "name": "Stefano Manrique",
-          "url": "https://open.spotify.com/artist/5QmOgnigMzwCp9MXowvpFP"
-        }
-      ],
-      "duration_ms": 180361,
-      "name": "Tonto",
-      "url": "https://open.spotify.com/track/33wYgNxWB4MXTiv6L36SoO"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-06-17 19:16:56",
       "album": {
         "name": "The Unforgiven",
         "url": "https://open.spotify.com/album/4fKKWNlAQjOY8zG8pY4ZmW"
@@ -625,7 +681,7 @@
       "url": "https://open.spotify.com/track/4xfUlRu5KWuf3RvpyBzkgg"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-06-17 19:16:56",
       "album": {
         "name": "Para\u00edso (Heaven) [Ao Vivo]",
         "url": "https://open.spotify.com/album/0hD5CDJxCMjN5vw11oFeGD"
@@ -645,7 +701,7 @@
       "url": "https://open.spotify.com/track/2WJdzFwnx0weS4sekT175s"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-06-17 19:16:56",
       "album": {
         "name": "Overthink",
         "url": "https://open.spotify.com/album/5WcaHxFqd0BjF3xBtZ8Fd9"
@@ -661,23 +717,7 @@
       "url": "https://open.spotify.com/track/3l0oInOR4MnPPgpG2PYQex"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Kat & Alex Lado B",
-        "url": "https://open.spotify.com/album/2q3MgdvSHJ2MbldHccxoC2"
-      },
-      "artists": [
-        {
-          "name": "Kat & Alex",
-          "url": "https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg"
-        }
-      ],
-      "duration_ms": 161493,
-      "name": "Como Las Cinco Un Viernes - 5 on a Friday - Spanish Version",
-      "url": "https://open.spotify.com/track/3ndv8kUmluaGkfrHMeYfmo"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-06-17 19:16:56",
       "album": {
         "name": "Atemporal",
         "url": "https://open.spotify.com/album/69opE4juUkLG8qTWNKB6Cv"
@@ -693,7 +733,7 @@
       "url": "https://open.spotify.com/track/3tV7TCBFRB4dZ03gYwZ7Ax"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-06-17 19:16:56",
       "album": {
         "name": "Playlist",
         "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
@@ -713,7 +753,7 @@
       "url": "https://open.spotify.com/track/1DrCBBXN9gEiMU8ME7Vhpt"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-06-17 19:16:56",
       "album": {
         "name": "Tears Of Gold",
         "url": "https://open.spotify.com/album/2US38BIkYb1habQEAGJyfD"
@@ -733,7 +773,7 @@
       "url": "https://open.spotify.com/track/1GmQN5AYSmZFYTw10AfcLe"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-06-17 19:16:56",
       "album": {
         "name": "Luz Prendida",
         "url": "https://open.spotify.com/album/3ai6kChzcTOxYvail4UJ1C"
@@ -749,7 +789,7 @@
       "url": "https://open.spotify.com/track/04GQvEby350jUhpZOMMMG1"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-06-17 19:16:56",
       "album": {
         "name": "Homesick",
         "url": "https://open.spotify.com/album/7BZblgdX1lrGf0sdu0MG3P"
@@ -769,7 +809,7 @@
       "url": "https://open.spotify.com/track/7esySixzBv7n9uM259kLeP"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-06-17 19:16:56",
       "album": {
         "name": "Getcha Some",
         "url": "https://open.spotify.com/album/0c0L1aGHLaPeh5v2Mk9tDU"
@@ -785,7 +825,7 @@
       "url": "https://open.spotify.com/track/4YTfDoUTGwFlH8hnRV9YjF"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-06-17 19:16:56",
       "album": {
         "name": "Got It From My Mama (Lo Tengo De Mi Mama)",
         "url": "https://open.spotify.com/album/6QXVVqTWjbGQA3RZsYoUDc"
@@ -805,23 +845,7 @@
       "url": "https://open.spotify.com/track/7Ez88DLp50CyywDPZeEN4j"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Make it Norte\u00f1o Vol. 1",
-        "url": "https://open.spotify.com/album/7h2wTuvmqp4qoDfrOh10rs"
-      },
-      "artists": [
-        {
-          "name": "EZ Band",
-          "url": "https://open.spotify.com/artist/2gTWLwanLiNZFR0iNPD847"
-        }
-      ],
-      "duration_ms": 232533,
-      "name": "Hey There Delilah",
-      "url": "https://open.spotify.com/track/6DcuRMCIu66fLSGiS0MgZ8"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-06-17 19:16:56",
       "album": {
         "name": "That Kinda Night",
         "url": "https://open.spotify.com/album/0CgVsOyazunVFsXFNDdEg5"
@@ -837,7 +861,7 @@
       "url": "https://open.spotify.com/track/3uAS0qo2n4AoVpTqVTj6Qn"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-06-17 19:16:56",
       "album": {
         "name": "DLUX",
         "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
@@ -857,23 +881,7 @@
       "url": "https://open.spotify.com/track/2OSkxJooTe20Djkvepb7QT"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/3LKddDEC4veAwqoUNKWizM"
-      },
-      "artists": [
-        {
-          "name": "Louie TheSinger",
-          "url": "https://open.spotify.com/artist/0Ht6v1kud5bXl4mp8eaDjj"
-        }
-      ],
-      "duration_ms": 204018,
-      "name": "Brothers",
-      "url": "https://open.spotify.com/track/6Imq8YhHb4vmcNRMhj0QaI"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-06-17 19:16:56",
       "album": {
         "name": "Space in My Heart",
         "url": "https://open.spotify.com/album/7CATUcNzHCmx3vsOETqKM9"

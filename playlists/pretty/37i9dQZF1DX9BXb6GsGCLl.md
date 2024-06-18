@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BXb6GsGCLl.md) - [plain]
 
 > Fuel your powerwalk with these upbeat and uplifting tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,627 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,692 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BXb6GsGCLl.md) - [plain]
 | 66 | [X \(with KAROL G\)](https://open.spotify.com/track/77fvnWALKJR0ws1VUx09CY) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [XV](https://open.spotify.com/album/0i96PtPJV65ddxsfMfo45F) | 3:05 |
 | 67 | [South of the Border \(feat\. Camila Cabello & Cardi B\) \- Cheat Codes Remix](https://open.spotify.com/track/19TOAlTFq0NDHvUPQR0tkr) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU) | [South of the Border \(feat\. Camila Cabello & Cardi B\) \[Cheat Codes Remix\]](https://open.spotify.com/album/3BjxjIkTZKUpeZ6n5MYMNx) | 3:15 |
 | 68 | [90s Kids](https://open.spotify.com/track/34evGV6SaoRLHTcXXUVOpb) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [90s Kids](https://open.spotify.com/album/3AAFCYRP4Rje75J6FORJMJ) | 2:43 |
-| 69 | [Ammunition](https://open.spotify.com/track/16gu3zjAEer6t6c8qxaltf) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 3:42 |
-| 70 | [Fake A Smile](https://open.spotify.com/track/6rAGFY9D3ah6Lb7fUgbNNH) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Fake A Smile](https://open.spotify.com/album/1leY6jsSJO6qjoZYUxE2fN) | 2:48 |
+| 69 | [Fake A Smile](https://open.spotify.com/track/6rAGFY9D3ah6Lb7fUgbNNH) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Fake A Smile](https://open.spotify.com/album/1leY6jsSJO6qjoZYUxE2fN) | 2:48 |
+| 70 | [Ammunition](https://open.spotify.com/track/16gu3zjAEer6t6c8qxaltf) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 3:42 |
 | 71 | [Let It Be Me \(feat\. Ava Max\)](https://open.spotify.com/track/2F83FxNVkK6PPMHuYnwyVc) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [7](https://open.spotify.com/album/5rbJtzuXtpIP0Ykk7ewIit) | 2:52 |
 | 72 | [Slow Dance \(feat\. Ava Max\) \- Sam Feldt Remix](https://open.spotify.com/track/2wenGTypSYHXl1sN1pNC7X) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Slow Dance \(feat\. Ava Max\) \[Sam Feldt Remix\]](https://open.spotify.com/album/6Ol6C42O7AWnTkj8pHMHWv) | 3:13 |
 | 73 | [Sweet Dreams \(Are Made of This\)](https://open.spotify.com/track/1o9D0rUusi2V5idyOEOPII) | [Winati](https://open.spotify.com/artist/7hsdPMApV4JTkBUUL4ZWMk), [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [BELLMAN](https://open.spotify.com/artist/7GVF8DDjYLdmf5Y4oJHsaC), [Louise CS](https://open.spotify.com/artist/0dn1gA4vEmgPxarhdWcLCM) | [Sweet Dreams \(are Made of This\)](https://open.spotify.com/album/6j3DvP1XrNbx0FtXBu5N4B) | 2:56 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 
 > 50 canciones que llenan tu rutina de pura energía.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,012 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,068 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 | 31 | [Anywhere](https://open.spotify.com/track/4LixDfUyJFL3OFyZqruBto) | [Cytrax](https://open.spotify.com/artist/654q5ND8XzmkMhxU1JwS2U), [Sebastian Mateo](https://open.spotify.com/artist/4McoittPoukRnXpQM6oqus) | [Anywhere](https://open.spotify.com/album/6oMuOHFOSbSashSF1L4qgB) | 2:22 |
 | 32 | [Pink](https://open.spotify.com/track/397D6hKNBOuxkFHMY5a9z6) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29) | [Pink](https://open.spotify.com/album/1IoexiSs2Ue7tG9ef9sdeR) | 2:40 |
 | 33 | [Siren Song \(feat\. Eden\) \- Radio Edit](https://open.spotify.com/track/1uGXhKyK50NIXNqBKN73DS) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Eden](https://open.spotify.com/artist/6N2Ia8zUwFniMNuziWgRw0) | [Siren Song \(feat\. Eden\)](https://open.spotify.com/album/7zis7e312jvXA0xwyS8hmG) | 3:27 |
-| 34 | [Hey You \(Love Comes First\)](https://open.spotify.com/track/1S1HrkjxspECOxst4NJavc) | [Chemical Neon](https://open.spotify.com/artist/4mAq0LHObKTj1SaNZ9Nt8K), [Trosk](https://open.spotify.com/artist/63VhQFmCaLpDaNuPWftJCN), [LiMa](https://open.spotify.com/artist/5jbXNyTXpJYKeYsmweGIgH) | [Hey You \(Love Comes First\)](https://open.spotify.com/album/7yNA4WraWbiML4PlkxtI8I) | 3:07 |
-| 35 | [Nada](https://open.spotify.com/track/1mlm9a4lCSLazplVoS15Fn) | [Madhouse](https://open.spotify.com/artist/74YcnRxZTY5Nu1RIqS8ovS), [Angel Vergara](https://open.spotify.com/artist/5MPkxfxPIhOca5QfYPfP2x) | [Nada](https://open.spotify.com/album/5NTJKD9sSSUkWDBfTjp7E1) | 3:21 |
+| 34 | [Nada](https://open.spotify.com/track/1mlm9a4lCSLazplVoS15Fn) | [Madhouse](https://open.spotify.com/artist/74YcnRxZTY5Nu1RIqS8ovS), [Angel Vergara](https://open.spotify.com/artist/5MPkxfxPIhOca5QfYPfP2x) | [Nada](https://open.spotify.com/album/5NTJKD9sSSUkWDBfTjp7E1) | 3:21 |
+| 35 | [Hey You \(Love Comes First\)](https://open.spotify.com/track/1S1HrkjxspECOxst4NJavc) | [Chemical Neon](https://open.spotify.com/artist/4mAq0LHObKTj1SaNZ9Nt8K), [Trosk](https://open.spotify.com/artist/63VhQFmCaLpDaNuPWftJCN), [LiMa](https://open.spotify.com/artist/5jbXNyTXpJYKeYsmweGIgH) | [Hey You \(Love Comes First\)](https://open.spotify.com/album/7yNA4WraWbiML4PlkxtI8I) | 3:07 |
 | 36 | [Won’t Give Up](https://open.spotify.com/track/1MWyASNuARY5NrHVPh81lx) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Won't Give Up](https://open.spotify.com/album/6cgX5pGfRM5YccxFeFKZr1) | 3:02 |
 | 37 | [Dance and Chant](https://open.spotify.com/track/1ZhpOYEE0nGcn0k7Ai7DK1) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F) | [Dance and Chant](https://open.spotify.com/album/1kyWzwoj5zkIK71DCoHXIq) | 3:09 |
 | 38 | [Where Do We Go?](https://open.spotify.com/track/0VzbCGoQosaUAoy4RMgKAm) | [Oxide & Neutrino](https://open.spotify.com/artist/0uhNYfjHJyAmHh2xNZ4vqf), [Leo The Lion](https://open.spotify.com/artist/0Wq4b4GUAJ0awoPYiCftWL) | [Where Do We Go?](https://open.spotify.com/album/5ExfclQkJzsVxIBpzv3WfE) | 3:14 |

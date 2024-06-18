@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 32640,
+  "num_followers": 32644,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmzZgAAAAAAo5N1JOn3a+fyvo6rPxThE",
+  "snapshot_id": "Zm4rAAAAAAAoKTU78CDLBlUHsMif96rN",
   "tracks": [
     {
       "added_at": null,
@@ -139,30 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Almighty So 2",
-        "url": "https://open.spotify.com/album/6xw2hoSzBYynn2dGmERunp"
-      },
-      "artists": [
-        {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
-        },
-        {
-          "name": "Ballout",
-          "url": "https://open.spotify.com/artist/0VlR93v41JFZlo1tRAgy2A"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Neph Nem (feat. Ballout & G Herbo)",
-      "url": "https://open.spotify.com/track/0IzqRBC2zj2ejfg5EvZ3o9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who is Nardo Wick?",
         "url": "https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR"
       },
@@ -187,6 +163,30 @@
       "duration_ms": 279573,
       "name": "Who Want Smoke?? (feat. G Herbo, Lil Durk & 21 Savage)",
       "url": "https://open.spotify.com/track/7ACW7VpgoKmfM1sKo15UhX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Almighty So 2",
+        "url": "https://open.spotify.com/album/6xw2hoSzBYynn2dGmERunp"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        },
+        {
+          "name": "Ballout",
+          "url": "https://open.spotify.com/artist/0VlR93v41JFZlo1tRAgy2A"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Neph Nem (feat. Ballout & G Herbo)",
+      "url": "https://open.spotify.com/track/0IzqRBC2zj2ejfg5EvZ3o9"
     },
     {
       "added_at": null,
@@ -251,6 +251,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "TO THE GRAVE",
+        "url": "https://open.spotify.com/album/3oftYhgmFsRf56Ivz1CbVV"
+      },
+      "artists": [
+        {
+          "name": "HotBlock Jmoe",
+          "url": "https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 216398,
+      "name": "TO THE GRAVE",
+      "url": "https://open.spotify.com/track/12Qfni7HZUowpG6NNtM10g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Levon James",
         "url": "https://open.spotify.com/album/1ZRAeQ6zsPJ5W1K3DvpRpP"
       },
@@ -291,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Subject",
+        "url": "https://open.spotify.com/album/2URgWzMdduouoVGG0zSzPf"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 160135,
+      "name": "Subject",
+      "url": "https://open.spotify.com/track/5ulhSfhwH8HJtYtYUTCTdg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Coldest",
         "url": "https://open.spotify.com/album/0V2BZLpJjyk4eey1BOC9st"
       },
@@ -311,22 +351,6 @@
       "duration_ms": 202788,
       "name": "Mike Jack (feat. G Herbo & Rob49)",
       "url": "https://open.spotify.com/track/5PqtvOUAjO6XXSbGcvA7Oo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Subject",
-        "url": "https://open.spotify.com/album/2URgWzMdduouoVGG0zSzPf"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 160135,
-      "name": "Subject",
-      "url": "https://open.spotify.com/track/5ulhSfhwH8HJtYtYUTCTdg"
     },
     {
       "added_at": null,
@@ -679,6 +703,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The D.O.A. Tape",
+        "url": "https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD"
+      },
+      "artists": [
+        {
+          "name": "Kay Flock",
+          "url": "https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 153826,
+      "name": "Being Honest (Remix) [feat. G Herbo]",
+      "url": "https://open.spotify.com/track/2344qwORd0Q3bZhwssd2mw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Still Swervin",
         "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
       },
@@ -723,26 +767,6 @@
       "duration_ms": 238421,
       "name": "Plenty",
       "url": "https://open.spotify.com/track/3OZoJykI0r4G7ycbRXkDhw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The D.O.A. Tape",
-        "url": "https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD"
-      },
-      "artists": [
-        {
-          "name": "Kay Flock",
-          "url": "https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 153826,
-      "name": "Being Honest (Remix) [feat. G Herbo]",
-      "url": "https://open.spotify.com/track/2344qwORd0Q3bZhwssd2mw"
     },
     {
       "added_at": null,
@@ -903,6 +927,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
+        "url": "https://open.spotify.com/album/2MTfZnikwjrMJ20QSomF5j"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+        }
+      ],
+      "duration_ms": 244853,
+      "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
+      "url": "https://open.spotify.com/track/5QdVpZhASstTN4BBwglPz6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FOR CERTAIN (Deluxe)",
         "url": "https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc"
       },
@@ -923,6 +971,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Still Swervin",
+        "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Hood Cycle (Bonus)",
+      "url": "https://open.spotify.com/track/5vaJVMWz7VHcGjYcfdwXvb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Beam Me Up Scotty",
         "url": "https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r"
       },
@@ -939,22 +1003,6 @@
       "duration_ms": 231983,
       "name": "Chi-Raq (with G Herbo)",
       "url": "https://open.spotify.com/track/5dOcS75jq0kLKbvCY9P2Ex"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Still Swervin",
-        "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Hood Cycle (Bonus)",
-      "url": "https://open.spotify.com/track/5vaJVMWz7VHcGjYcfdwXvb"
     },
     {
       "added_at": null,
@@ -1047,42 +1095,6 @@
       "duration_ms": 139541,
       "name": "Skeme (feat. G Herbo)",
       "url": "https://open.spotify.com/track/6ds1oPJafnw3gDfjjJj1Aq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Humble Beast (Deluxe)",
-        "url": "https://open.spotify.com/album/46Shwm91xl9opm3MadNEGn"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 209786,
-      "name": "Man Now",
-      "url": "https://open.spotify.com/track/6e8qzxdh2JPbPqGCUXva59"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me vs. Me",
-        "url": "https://open.spotify.com/album/4KrQSZfzmxp0aftaBZj7m3"
-      },
-      "artists": [
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 209454,
-      "name": "Chicago to Memphis (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/2mNoak5bp3xjAOAWgWtLrS"
     }
   ],
   "unique_name": "This Is G Herbo",

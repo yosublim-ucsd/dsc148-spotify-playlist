@@ -4,7 +4,7 @@
 
 > The hottest dance hits, updated every week.\. All the biggest summer dance, house and electronic music to vibe to in 2024!
 
-203 songs - 9 hr 44 min
+204 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Lay Low](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lay Low](https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn) | 2:33 | 2024-01-05 |  |
 | [Lay Low](https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:33 | 2023-11-03 | 2023-11-11 |
 | [leavemealone](https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [leavemealone](https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb) | 3:42 | 2023-12-11 | 2024-04-10 |
+| [Left Or Right](https://open.spotify.com/track/5UGOIEo6EyUm9WFfFfU9NN) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Matthew Nolan](https://open.spotify.com/artist/00eBZtIQVnVtZHOW1qDDDn) | [Left Or Right](https://open.spotify.com/album/7ugGaIBq4zFiaIiKDDWRlZ) | 3:13 | 2024-06-17 |  |
 | [Lies \(feat\. Mila Falls\)](https://open.spotify.com/track/0nZtIF76gwedFKYur7Wwxd) | [Fubu](https://open.spotify.com/artist/5U99N4P6k5PDjiOJz8qE96), [Tom Ferry](https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Lies \(feat\. Mila Falls\)](https://open.spotify.com/album/3aDUGFHbqWla3M3xJ9mTZG) | 2:46 | 2023-11-03 |  |
 | [Like I Used To](https://open.spotify.com/track/6lDc44gzmoUCF9L8PL0KrA) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Like I Used To](https://open.spotify.com/album/5bRtAP2yHcZ7dW7tqkTmx6) | 3:06 | 2023-11-03 |  |
 | [Little Bit Yours](https://open.spotify.com/track/0LOjVJaTDqXyu37cjUYpT2) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [Little Bit Yours](https://open.spotify.com/album/1AAnGhmJLEL4usZgEyIS97) | 3:16 | 2023-11-24 | 2023-12-09 |
@@ -154,7 +155,7 @@
 | [Shadow \(feat\. MORGAN\)](https://open.spotify.com/track/4P4653vortdXtcHf4iXWW7) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [MORGAN](https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI) | [Shadow \(feat\. MORGAN\)](https://open.spotify.com/album/1Ypjjp8ACgey0utUoUBBM1) | 3:00 | 2023-11-03 | 2023-12-16 |
 | [Shallow Water](https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Shallow Water](https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w) | 3:22 | 2024-06-10 | 2024-06-15 |
 | [She Talks Like That](https://open.spotify.com/track/2aoqeBK5HuexOsN3XkAsoE) | [Just Aaron](https://open.spotify.com/artist/3P0enmC2QzJvz1alkJydUk) | [She Talks Like That](https://open.spotify.com/album/3b0aqGKMQqM1k9eNQWkeHd) | 3:07 | 2024-05-31 | 2024-06-15 |
-| [Silence](https://open.spotify.com/track/3JvijFDDd3fUj4DZxcGw0l) | [Tom Ferry](https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA), [Going Deeper](https://open.spotify.com/artist/2SHmJ9pvh1h1TXu2WulzL4), [Sylvie](https://open.spotify.com/artist/65ZxzibB1frczfKSahNg5R) | [Silence](https://open.spotify.com/album/0ZWIMOsnBMBlTihsaKpfn4) | 3:42 | 2024-02-16 |  |
+| [Silence](https://open.spotify.com/track/3JvijFDDd3fUj4DZxcGw0l) | [Tom Ferry](https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA), [Going Deeper](https://open.spotify.com/artist/2SHmJ9pvh1h1TXu2WulzL4), [Sylvie](https://open.spotify.com/artist/65ZxzibB1frczfKSahNg5R) | [Silence](https://open.spotify.com/album/0ZWIMOsnBMBlTihsaKpfn4) | 3:42 | 2024-02-16 | 2024-06-18 |
 | [Sinceramente](https://open.spotify.com/track/2O7jON0xYyTaSkWj9wZXCJ) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Sinceramente](https://open.spotify.com/album/6Ftqr86cfGFu8mQ0Vt2jse) | 3:35 | 2024-02-14 | 2024-06-01 |
 | [Sinner](https://open.spotify.com/track/1WumDA51R5dHvmRVhmoP6t) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT) | [Sinner](https://open.spotify.com/album/23x07E0mPIzgXa1i4i6EnW) | 3:11 | 2023-11-03 |  |
 | [Sky \(Shining Bright\)](https://open.spotify.com/track/6C941cB4Kzxkw67MhPzlXr) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ) | [Sky \(Shining Bright\)](https://open.spotify.com/album/0ENcoMHBD8idjhAShpgTr7) | 2:50 | 2024-05-17 |  |

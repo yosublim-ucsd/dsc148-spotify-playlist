@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house with Julian Jordan",
-  "num_followers": 444791,
+  "num_followers": 444820,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1177,26 +1177,6 @@
       "url": "https://open.spotify.com/track/5zn6eUXHpt3JjEB7XAXyaf"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Numb",
-        "url": "https://open.spotify.com/album/6FnqdQC9PHxPoLE5rQqtrn"
-      },
-      "artists": [
-        {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
-        },
-        {
-          "name": "Sunday Scaries",
-          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
-        }
-      ],
-      "duration_ms": 178300,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/6TvCNh37pSO9rp9fIhskKN"
-    },
-    {
       "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "Get It Now",
@@ -1215,6 +1195,26 @@
       "duration_ms": 168937,
       "name": "Get It Now",
       "url": "https://open.spotify.com/track/1BKM1I18zJBgQBNJ90EFxk"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/6FnqdQC9PHxPoLE5rQqtrn"
+      },
+      "artists": [
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        },
+        {
+          "name": "Sunday Scaries",
+          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
+        }
+      ],
+      "duration_ms": 178300,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/6TvCNh37pSO9rp9fIhskKN"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1477,22 +1477,6 @@
       "url": "https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Up is Down",
-        "url": "https://open.spotify.com/album/6oEri5AEs70JB2Gf4IsALb"
-      },
-      "artists": [
-        {
-          "name": "Zingara",
-          "url": "https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1"
-        }
-      ],
-      "duration_ms": 205975,
-      "name": "Up is Down",
-      "url": "https://open.spotify.com/track/0xWGZsahvCkVoYE40DVnAZ"
-    },
-    {
       "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "No Competition",
@@ -1533,6 +1517,22 @@
       "url": "https://open.spotify.com/track/0WW8txqecanm76y5Je34nf"
     },
     {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Up is Down",
+        "url": "https://open.spotify.com/album/6oEri5AEs70JB2Gf4IsALb"
+      },
+      "artists": [
+        {
+          "name": "Zingara",
+          "url": "https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1"
+        }
+      ],
+      "duration_ms": 205975,
+      "name": "Up is Down",
+      "url": "https://open.spotify.com/track/0xWGZsahvCkVoYE40DVnAZ"
+    },
+    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Can't Get Enough",
@@ -1555,26 +1555,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Rawthentic",
-        "url": "https://open.spotify.com/album/38eQYM81j2GjCi9SvUX7tP"
-      },
-      "artists": [
-        {
-          "name": "Mr. Bill",
-          "url": "https://open.spotify.com/artist/5JJclMMPi2YgEKjJY9AjbB"
-        },
-        {
-          "name": "Infected Mushroom",
-          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
-        }
-      ],
-      "duration_ms": 221918,
-      "name": "Rawthentic",
-      "url": "https://open.spotify.com/track/7hTdAaszcY2o1YpdQuWCV0"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Chrome",
         "url": "https://open.spotify.com/album/28LsxANYPdphsjifnCR1xo"
       },
@@ -1591,6 +1571,26 @@
       "duration_ms": 161428,
       "name": "Chrome",
       "url": "https://open.spotify.com/track/1MwOIwpxfqZtsnaBx9tswz"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Rawthentic",
+        "url": "https://open.spotify.com/album/38eQYM81j2GjCi9SvUX7tP"
+      },
+      "artists": [
+        {
+          "name": "Mr. Bill",
+          "url": "https://open.spotify.com/artist/5JJclMMPi2YgEKjJY9AjbB"
+        },
+        {
+          "name": "Infected Mushroom",
+          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+        }
+      ],
+      "duration_ms": 221918,
+      "name": "Rawthentic",
+      "url": "https://open.spotify.com/track/7hTdAaszcY2o1YpdQuWCV0"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1757,26 +1757,6 @@
       "url": "https://open.spotify.com/track/2tLJLA0Z4N9BXhuJ6JEsDb"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "I Just Wanna",
-        "url": "https://open.spotify.com/album/5ghrKBTszcAkPeMWrzcl8K"
-      },
-      "artists": [
-        {
-          "name": "Kriss Reeve",
-          "url": "https://open.spotify.com/artist/5oS267l8pGKqJmh9ZhCYGS"
-        },
-        {
-          "name": "CHOCO",
-          "url": "https://open.spotify.com/artist/5ZYidw4RKqIwucn0hQzYz8"
-        }
-      ],
-      "duration_ms": 168281,
-      "name": "I Just Wanna",
-      "url": "https://open.spotify.com/track/3PfFnAMDnkuDrTdXuz8W2L"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Stereo Function",
@@ -1795,6 +1775,26 @@
       "duration_ms": 206904,
       "name": "Stereo Function",
       "url": "https://open.spotify.com/track/1Sk2Kzze1ZTfp6Gt2klZgc"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "I Just Wanna",
+        "url": "https://open.spotify.com/album/5ghrKBTszcAkPeMWrzcl8K"
+      },
+      "artists": [
+        {
+          "name": "Kriss Reeve",
+          "url": "https://open.spotify.com/artist/5oS267l8pGKqJmh9ZhCYGS"
+        },
+        {
+          "name": "CHOCO",
+          "url": "https://open.spotify.com/artist/5ZYidw4RKqIwucn0hQzYz8"
+        }
+      ],
+      "duration_ms": 168281,
+      "name": "I Just Wanna",
+      "url": "https://open.spotify.com/track/3PfFnAMDnkuDrTdXuz8W2L"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "HABANERO",
-        "url": "https://open.spotify.com/album/3RhjyhgMng1xNRiSTi2iCd"
-      },
-      "artists": [
-        {
-          "name": "Matt Hawk",
-          "url": "https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "HABANERO",
-      "url": "https://open.spotify.com/track/5Owdw7WjhY4NxHAecSSwF3"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Certified",
         "url": "https://open.spotify.com/album/0TyvVgpxn616G6DGoA25VK"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 175492,
       "name": "Certified",
       "url": "https://open.spotify.com/track/6ZvL9vA6ZbSCNdpgdYjW12"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "HABANERO",
+        "url": "https://open.spotify.com/album/3RhjyhgMng1xNRiSTi2iCd"
+      },
+      "artists": [
+        {
+          "name": "Matt Hawk",
+          "url": "https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "HABANERO",
+      "url": "https://open.spotify.com/track/5Owdw7WjhY4NxHAecSSwF3"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Young Money",
-        "url": "https://open.spotify.com/album/1hiQPT0R07NhqFghAC15xr"
-      },
-      "artists": [
-        {
-          "name": "Ragie Ban",
-          "url": "https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "Young Money",
-      "url": "https://open.spotify.com/track/0xlZeaB8bFiFKpTKIcTOIq"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "NRG",
         "url": "https://open.spotify.com/album/55rwbbipDik1y3Q0Fesmb4"
       },
@@ -2029,6 +2013,38 @@
       "url": "https://open.spotify.com/track/0zEwlfpJgIMzh3BV0UiQ3l"
     },
     {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Young Money",
+        "url": "https://open.spotify.com/album/1hiQPT0R07NhqFghAC15xr"
+      },
+      "artists": [
+        {
+          "name": "Ragie Ban",
+          "url": "https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "Young Money",
+      "url": "https://open.spotify.com/track/0xlZeaB8bFiFKpTKIcTOIq"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Vibration",
+        "url": "https://open.spotify.com/album/3s3X1n94zpVxVRuUygWOYZ"
+      },
+      "artists": [
+        {
+          "name": "Holy Goof",
+          "url": "https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU"
+        }
+      ],
+      "duration_ms": 230977,
+      "name": "Vibration",
+      "url": "https://open.spotify.com/track/4613nvw3ll31NrUW5TCuSW"
+    },
+    {
       "added_at": "2024-05-10 04:00:00",
       "album": {
         "name": "Fever Dream",
@@ -2047,22 +2063,6 @@
       "duration_ms": 211696,
       "name": "Fever Dream",
       "url": "https://open.spotify.com/track/1uuwS1OxQ0tM8MbZDRFs3q"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Vibration",
-        "url": "https://open.spotify.com/album/3s3X1n94zpVxVRuUygWOYZ"
-      },
-      "artists": [
-        {
-          "name": "Holy Goof",
-          "url": "https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU"
-        }
-      ],
-      "duration_ms": 230977,
-      "name": "Vibration",
-      "url": "https://open.spotify.com/track/4613nvw3ll31NrUW5TCuSW"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2217,20 +2217,28 @@
       "url": "https://open.spotify.com/track/1VGFyQ88dFZXj1LUlkXnHC"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Circus",
-        "url": "https://open.spotify.com/album/7HBt3brXr9Ml3NlMdkWh2o"
+        "name": "I\u2019m A Freak (feat. Kazhi)",
+        "url": "https://open.spotify.com/album/2XPjCyxirQKCpW3d52WmUs"
       },
       "artists": [
         {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        },
+        {
+          "name": "ANG",
+          "url": "https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl"
+        },
+        {
+          "name": "Kazhi",
+          "url": "https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj"
         }
       ],
-      "duration_ms": 126720,
-      "name": "Circus",
-      "url": "https://open.spotify.com/track/5Ucm2UUTCrHXyRpD0qpEaj"
+      "duration_ms": 156190,
+      "name": "I\u2019m A Freak (feat. Kazhi)",
+      "url": "https://open.spotify.com/track/1rI9fFHBnxcVT0FUKfrGOA"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2257,28 +2265,20 @@
       "url": "https://open.spotify.com/track/0iaIB0L80Ri5kBR6KNhsuZ"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "I\u2019m A Freak (feat. Kazhi)",
-        "url": "https://open.spotify.com/album/2XPjCyxirQKCpW3d52WmUs"
+        "name": "Circus",
+        "url": "https://open.spotify.com/album/7HBt3brXr9Ml3NlMdkWh2o"
       },
       "artists": [
         {
-          "name": "Henry Fong",
-          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
-        },
-        {
-          "name": "ANG",
-          "url": "https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl"
-        },
-        {
-          "name": "Kazhi",
-          "url": "https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj"
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
         }
       ],
-      "duration_ms": 156190,
-      "name": "I\u2019m A Freak (feat. Kazhi)",
-      "url": "https://open.spotify.com/track/1rI9fFHBnxcVT0FUKfrGOA"
+      "duration_ms": 126720,
+      "name": "Circus",
+      "url": "https://open.spotify.com/track/5Ucm2UUTCrHXyRpD0qpEaj"
     },
     {
       "added_at": "2024-04-19 04:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "when you decide societal constructs just aren\u2019t the vibe anymore. \n",
-  "num_followers": 1018000,
+  "num_followers": 1017993,
   "original_name": "wanderlust",
   "owner": {
     "name": "Spotify",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
+        "name": "Sidelines",
+        "url": "https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 264372,
+      "name": "Sidelines",
+      "url": "https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
         "name": "Scared To Start (feat. Joy Oladokun)",
         "url": "https://open.spotify.com/album/0q98KV3tR3VAgP0W1wsO64"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 159636,
       "name": "Scared To Start (feat. Joy Oladokun)",
       "url": "https://open.spotify.com/track/3ruJjAt0eybFoPw0g0h7ZT"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Sidelines",
-        "url": "https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 264372,
-      "name": "Sidelines",
-      "url": "https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "No Strings",
-        "url": "https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 213080,
-      "name": "No Strings",
-      "url": "https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "I Won't Be Your Foe",
         "url": "https://open.spotify.com/album/6OhfRDchySkjM7GEUtrBFV"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 170363,
       "name": "I Only Hope to Feel Love",
       "url": "https://open.spotify.com/track/1IdozL1GhMN6w0gjAdPLqb"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "No Strings",
+        "url": "https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 213080,
+      "name": "No Strings",
+      "url": "https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Beginners",
-        "url": "https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY"
-      },
-      "artists": [
-        {
-          "name": "Christian Lee Hutson",
-          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
-        }
-      ],
-      "duration_ms": 223506,
-      "name": "Northsiders",
-      "url": "https://open.spotify.com/track/4EPLcAKK32fBbMi8yu4aSd"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "Boris",
         "url": "https://open.spotify.com/album/6o4fJMbggSAE836wK0xAz1"
       },
@@ -2019,18 +2003,18 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "The Man Who Sees Tomorrow / Lodarore",
-        "url": "https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ"
+        "name": "Beginners",
+        "url": "https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY"
       },
       "artists": [
         {
-          "name": "Uwade",
-          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
+          "name": "Christian Lee Hutson",
+          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
         }
       ],
-      "duration_ms": 211733,
-      "name": "The Man Who Sees Tomorrow",
-      "url": "https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e"
+      "duration_ms": 223506,
+      "name": "Northsiders",
+      "url": "https://open.spotify.com/track/4EPLcAKK32fBbMi8yu4aSd"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -2051,6 +2035,22 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
+        "name": "The Man Who Sees Tomorrow / Lodarore",
+        "url": "https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ"
+      },
+      "artists": [
+        {
+          "name": "Uwade",
+          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
+        }
+      ],
+      "duration_ms": 211733,
+      "name": "The Man Who Sees Tomorrow",
+      "url": "https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
         "name": "Praying for July - Spotify Singles",
         "url": "https://open.spotify.com/album/7mqvcMAHZK0LrrrRqY7S4C"
       },
@@ -2067,22 +2067,18 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Born To Die",
-        "url": "https://open.spotify.com/album/4P19H9TULgF2zUxNGPkBoK"
+        "name": "In Heaven",
+        "url": "https://open.spotify.com/album/76pQf98XjjF5RZIniiev2d"
       },
       "artists": [
         {
-          "name": "JJ Wilde",
-          "url": "https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6"
-        },
-        {
-          "name": "Billy Raffoul",
-          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+          "name": "Strand of Oaks",
+          "url": "https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL"
         }
       ],
-      "duration_ms": 172324,
-      "name": "Born To Die",
-      "url": "https://open.spotify.com/track/54F7uOTyfsusa19TjEcHW9"
+      "duration_ms": 185901,
+      "name": "Somewhere in Chicago",
+      "url": "https://open.spotify.com/track/30VJ9BJK3XcsjhCdpvqmvw"
     }
   ],
   "unique_name": "wanderlust",

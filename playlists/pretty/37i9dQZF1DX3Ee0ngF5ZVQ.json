@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Kaitlin Butts",
-  "num_followers": 411536,
+  "num_followers": 411529,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Times Are Changing",
-        "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
-      },
-      "artists": [
-        {
-          "name": "Dylan Wheeler",
-          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
-        }
-      ],
-      "duration_ms": 219481,
-      "name": "Shines Through",
-      "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "Happy Hour",
         "url": "https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 191777,
       "name": "Happy Hour",
       "url": "https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Times Are Changing",
+        "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
+      },
+      "artists": [
+        {
+          "name": "Dylan Wheeler",
+          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
+        }
+      ],
+      "duration_ms": 219481,
+      "name": "Shines Through",
+      "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Flyin",
-        "url": "https://open.spotify.com/album/6piPOikcjVHKg1JMUAEwfU"
+        "name": "Love Talking",
+        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
       },
       "artists": [
         {
-          "name": "Wade Bowen",
-          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+          "name": "Eli Young Band",
+          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
         }
       ],
-      "duration_ms": 274626,
-      "name": "Nothin But Texas",
-      "url": "https://open.spotify.com/track/2Rphg4r8aRkglve2415SAG"
+      "duration_ms": 173131,
+      "name": "Love Talking",
+      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Love Talking",
-        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
+        "name": "Flyin",
+        "url": "https://open.spotify.com/album/6piPOikcjVHKg1JMUAEwfU"
       },
       "artists": [
         {
-          "name": "Eli Young Band",
-          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+          "name": "Wade Bowen",
+          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
         }
       ],
-      "duration_ms": 173131,
-      "name": "Love Talking",
-      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
+      "duration_ms": 274626,
+      "name": "Nothin But Texas",
+      "url": "https://open.spotify.com/track/2Rphg4r8aRkglve2415SAG"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Dancin' With The Devil",
-        "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
+        "name": "Radio Wave",
+        "url": "https://open.spotify.com/album/4VkuvviTPG2MUXRJ6iJGEQ"
       },
       "artists": [
         {
-          "name": "Josh Ward",
-          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
+          "name": "Silverada",
+          "url": "https://open.spotify.com/artist/5fTJlk4f1YRh4ObYssJo44"
         }
       ],
-      "duration_ms": 178848,
-      "name": "Dancin' With The Devil",
-      "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
+      "duration_ms": 350894,
+      "name": "Radio Wave",
+      "url": "https://open.spotify.com/track/7vITJOjR7emNaKVadPQZ0N"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1295,6 +1295,54 @@
       "duration_ms": 171605,
       "name": "Cold Shoulder",
       "url": "https://open.spotify.com/track/282YiPLSxibbQvGCQ05bkF"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Dancin' With The Devil",
+        "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
+      },
+      "artists": [
+        {
+          "name": "Josh Ward",
+          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
+        }
+      ],
+      "duration_ms": 178848,
+      "name": "Dancin' With The Devil",
+      "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Here's To You. Here's To Me.",
+        "url": "https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl"
+      },
+      "artists": [
+        {
+          "name": "William Beckmann",
+          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
+        }
+      ],
+      "duration_ms": 182318,
+      "name": "Tennessee Drinkin'",
+      "url": "https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Lonestar Lonely",
+        "url": "https://open.spotify.com/album/6ccDlVdugIG7zA0AzskxuM"
+      },
+      "artists": [
+        {
+          "name": "Rachel LaRen",
+          "url": "https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv"
+        }
+      ],
+      "duration_ms": 215322,
+      "name": "Lonestar Lonely",
+      "url": "https://open.spotify.com/track/0Ot74bX8yoyXSoibhqAlyj"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1327,54 +1375,6 @@
       "duration_ms": 325299,
       "name": "State You Left Me In",
       "url": "https://open.spotify.com/track/4wU7mkrYRl8FJe0zsDhS2W"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Lonestar Lonely",
-        "url": "https://open.spotify.com/album/6ccDlVdugIG7zA0AzskxuM"
-      },
-      "artists": [
-        {
-          "name": "Rachel LaRen",
-          "url": "https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv"
-        }
-      ],
-      "duration_ms": 215322,
-      "name": "Lonestar Lonely",
-      "url": "https://open.spotify.com/track/0Ot74bX8yoyXSoibhqAlyj"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Here's To You. Here's To Me.",
-        "url": "https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl"
-      },
-      "artists": [
-        {
-          "name": "William Beckmann",
-          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
-        }
-      ],
-      "duration_ms": 182318,
-      "name": "Tennessee Drinkin'",
-      "url": "https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Radio Wave",
-        "url": "https://open.spotify.com/album/4VkuvviTPG2MUXRJ6iJGEQ"
-      },
-      "artists": [
-        {
-          "name": "Silverada",
-          "url": "https://open.spotify.com/artist/5fTJlk4f1YRh4ObYssJo44"
-        }
-      ],
-      "duration_ms": 350894,
-      "name": "Radio Wave",
-      "url": "https://open.spotify.com/track/7vITJOjR7emNaKVadPQZ0N"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Woman Outta Love",
-        "url": "https://open.spotify.com/album/2KwOQM2jpMnCuO1P0oBIKT"
-      },
-      "artists": [
-        {
-          "name": "Kylie Frey",
-          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
-        }
-      ],
-      "duration_ms": 188271,
-      "name": "Woman Outta Love",
-      "url": "https://open.spotify.com/track/3nyPmeaOu3z4nzrBulMe5p"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "Honky Tonk City",
         "url": "https://open.spotify.com/album/6KmJTSwySjjcGGs16wqPIR"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 152253,
       "name": "Honky Tonk City",
       "url": "https://open.spotify.com/track/4sdtcGaySrotXJHPBsF3id"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Woman Outta Love",
+        "url": "https://open.spotify.com/album/2KwOQM2jpMnCuO1P0oBIKT"
+      },
+      "artists": [
+        {
+          "name": "Kylie Frey",
+          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
+        }
+      ],
+      "duration_ms": 188271,
+      "name": "Woman Outta Love",
+      "url": "https://open.spotify.com/track/3nyPmeaOu3z4nzrBulMe5p"
     },
     {
       "added_at": "2024-06-14 04:00:00",

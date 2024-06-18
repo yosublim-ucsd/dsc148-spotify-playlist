@@ -1,6 +1,6 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 352253,
+  "num_followers": 352266,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,18 @@
     {
       "added_at": "2024-03-22 07:04:46",
       "album": {
-        "name": "Tranquillitas",
-        "url": "https://open.spotify.com/album/6yIXqkjfFAwNPEdaZAsO9o"
+        "name": "Xaxoeira",
+        "url": "https://open.spotify.com/album/0T1MHuHlxRGyGqZT1KGubi"
       },
       "artists": [
         {
-          "name": "Joaqu\u00edn Cornejo",
-          "url": "https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx"
-        },
-        {
-          "name": "Wabi Sabi",
-          "url": "https://open.spotify.com/artist/4kpCSlKMJJ2JGnzuqnc3HS"
+          "name": "Xique-Xique",
+          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
         }
       ],
-      "duration_ms": 373333,
-      "name": "Mojanda (feat. Wabi Sabi)",
-      "url": "https://open.spotify.com/track/50oMN7gWP1tRaSSBq2LQCH"
+      "duration_ms": 347600,
+      "name": "1542",
+      "url": "https://open.spotify.com/track/10glJ8ARN1G9ESFF9s00yk"
     },
     {
       "added_at": "2024-03-22 07:04:46",
@@ -143,18 +139,22 @@
     {
       "added_at": "2024-03-22 07:04:46",
       "album": {
-        "name": "Xaxoeira",
-        "url": "https://open.spotify.com/album/0T1MHuHlxRGyGqZT1KGubi"
+        "name": "Tranquillitas",
+        "url": "https://open.spotify.com/album/6yIXqkjfFAwNPEdaZAsO9o"
       },
       "artists": [
         {
-          "name": "Xique-Xique",
-          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
+          "name": "Joaqu\u00edn Cornejo",
+          "url": "https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx"
+        },
+        {
+          "name": "Wabi Sabi",
+          "url": "https://open.spotify.com/artist/4kpCSlKMJJ2JGnzuqnc3HS"
         }
       ],
-      "duration_ms": 347600,
-      "name": "1542",
-      "url": "https://open.spotify.com/track/10glJ8ARN1G9ESFF9s00yk"
+      "duration_ms": 373333,
+      "name": "Mojanda (feat. Wabi Sabi)",
+      "url": "https://open.spotify.com/track/50oMN7gWP1tRaSSBq2LQCH"
     },
     {
       "added_at": "2024-03-22 07:04:46",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-03-22 07:04:46",
       "album": {
-        "name": "Corriente EP",
-        "url": "https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql"
-      },
-      "artists": [
-        {
-          "name": "Terror/Cactus",
-          "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
-        }
-      ],
-      "duration_ms": 231875,
-      "name": "Tambor Del Monte",
-      "url": "https://open.spotify.com/track/4nSVv5flBb0ucHTGgxiFi5"
-    },
-    {
-      "added_at": "2024-03-22 07:04:46",
-      "album": {
         "name": "Indus Meets Palenque Records, Vol. 2",
         "url": "https://open.spotify.com/album/6ZhlLTZtTuVyH3W3O079p2"
       },
@@ -539,18 +523,18 @@
     {
       "added_at": "2024-03-22 07:04:46",
       "album": {
-        "name": "Solpor",
-        "url": "https://open.spotify.com/album/2q1DwJpZOWhNW0NFYwS8rs"
+        "name": "Corriente EP",
+        "url": "https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql"
       },
       "artists": [
         {
-          "name": "Baiuca",
-          "url": "https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS"
+          "name": "Terror/Cactus",
+          "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
         }
       ],
-      "duration_ms": 319169,
-      "name": "Mu\u00ed\u00f1o",
-      "url": "https://open.spotify.com/track/6zAuPi2fZsUYgXMIozkowv"
+      "duration_ms": 231875,
+      "name": "Tambor Del Monte",
+      "url": "https://open.spotify.com/track/4nSVv5flBb0ucHTGgxiFi5"
     },
     {
       "added_at": "2024-03-22 07:04:46",
@@ -567,6 +551,22 @@
       "duration_ms": 173043,
       "name": "Desierto",
       "url": "https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM"
+    },
+    {
+      "added_at": "2024-03-22 07:04:46",
+      "album": {
+        "name": "Solpor",
+        "url": "https://open.spotify.com/album/2q1DwJpZOWhNW0NFYwS8rs"
+      },
+      "artists": [
+        {
+          "name": "Baiuca",
+          "url": "https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS"
+        }
+      ],
+      "duration_ms": 319169,
+      "name": "Mu\u00ed\u00f1o",
+      "url": "https://open.spotify.com/track/6zAuPi2fZsUYgXMIozkowv"
     },
     {
       "added_at": "2024-03-22 07:04:46",
@@ -675,6 +675,30 @@
     {
       "added_at": "2024-03-22 07:04:46",
       "album": {
+        "name": "La Que Es",
+        "url": "https://open.spotify.com/album/1m14JbxGEi0s1vktDhdlwt"
+      },
+      "artists": [
+        {
+          "name": "Venezonix",
+          "url": "https://open.spotify.com/artist/4EU8WPqqBvsipJkWL1XfQ6"
+        },
+        {
+          "name": "Betsayda Machado",
+          "url": "https://open.spotify.com/artist/5NxtLG8o5Bsm23XJ9NYq1k"
+        },
+        {
+          "name": "Parranda el Clavo",
+          "url": "https://open.spotify.com/artist/6rwsObUb4DHKh8o01y1nXp"
+        }
+      ],
+      "duration_ms": 194531,
+      "name": "La Que Es",
+      "url": "https://open.spotify.com/track/3MO2Ym7qBnmNEAtjPwOxXE"
+    },
+    {
+      "added_at": "2024-03-22 07:04:46",
+      "album": {
         "name": "Sierra Madre (Remix)",
         "url": "https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns"
       },
@@ -699,30 +723,6 @@
       "duration_ms": 305866,
       "name": "Sierra Madre (Remix)",
       "url": "https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6"
-    },
-    {
-      "added_at": "2024-03-22 07:04:46",
-      "album": {
-        "name": "La Que Es",
-        "url": "https://open.spotify.com/album/1m14JbxGEi0s1vktDhdlwt"
-      },
-      "artists": [
-        {
-          "name": "Venezonix",
-          "url": "https://open.spotify.com/artist/4EU8WPqqBvsipJkWL1XfQ6"
-        },
-        {
-          "name": "Betsayda Machado",
-          "url": "https://open.spotify.com/artist/5NxtLG8o5Bsm23XJ9NYq1k"
-        },
-        {
-          "name": "Parranda el Clavo",
-          "url": "https://open.spotify.com/artist/6rwsObUb4DHKh8o01y1nXp"
-        }
-      ],
-      "duration_ms": 194531,
-      "name": "La Que Es",
-      "url": "https://open.spotify.com/track/3MO2Ym7qBnmNEAtjPwOxXE"
     },
     {
       "added_at": "2024-03-22 07:04:46",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-03-22 07:04:46",
       "album": {
+        "name": "Qu\u00e9 Bonito",
+        "url": "https://open.spotify.com/album/14OCSNKGtGObRtdf7OKidp"
+      },
+      "artists": [
+        {
+          "name": "Primo Son",
+          "url": "https://open.spotify.com/artist/4hhlnDWkZV8hvYWiHyS7kb"
+        }
+      ],
+      "duration_ms": 226448,
+      "name": "Qu\u00e9 Bonito",
+      "url": "https://open.spotify.com/track/6oxVrlxeTwhmOroYJkrAad"
+    },
+    {
+      "added_at": "2024-03-22 07:04:46",
+      "album": {
         "name": "Misturas",
         "url": "https://open.spotify.com/album/0A5zpH2SoNiRGBZf3WAyZJ"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 228754,
       "name": "Olv\u00eddame",
       "url": "https://open.spotify.com/track/0S7YJBN4QRwXLLRTAhlhew"
-    },
-    {
-      "added_at": "2024-03-22 07:04:46",
-      "album": {
-        "name": "Qu\u00e9 Bonito",
-        "url": "https://open.spotify.com/album/14OCSNKGtGObRtdf7OKidp"
-      },
-      "artists": [
-        {
-          "name": "Primo Son",
-          "url": "https://open.spotify.com/artist/4hhlnDWkZV8hvYWiHyS7kb"
-        }
-      ],
-      "duration_ms": 226448,
-      "name": "Qu\u00e9 Bonito",
-      "url": "https://open.spotify.com/track/6oxVrlxeTwhmOroYJkrAad"
     },
     {
       "added_at": "2024-03-22 07:04:46",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-03-22 07:04:46",
       "album": {
+        "name": "Rumbo a Tierra",
+        "url": "https://open.spotify.com/album/5EsARIbjmreegtR7EV86HK"
+      },
+      "artists": [
+        {
+          "name": "Systema Solar",
+          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
+        }
+      ],
+      "duration_ms": 212885,
+      "name": "Tumbamurallas",
+      "url": "https://open.spotify.com/track/6TOR7IAlgDmqOMag21WoC7"
+    },
+    {
+      "added_at": "2024-03-22 07:04:46",
+      "album": {
         "name": "Alientos",
         "url": "https://open.spotify.com/album/6hBvd81RW9NF5epZx07lfH"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 283636,
       "name": "Alientos",
       "url": "https://open.spotify.com/track/0rWM6crTli6lBYVqRvH2oW"
-    },
-    {
-      "added_at": "2024-03-22 07:04:46",
-      "album": {
-        "name": "Rumbo a Tierra",
-        "url": "https://open.spotify.com/album/5EsARIbjmreegtR7EV86HK"
-      },
-      "artists": [
-        {
-          "name": "Systema Solar",
-          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
-        }
-      ],
-      "duration_ms": 212885,
-      "name": "Tumbamurallas",
-      "url": "https://open.spotify.com/track/6TOR7IAlgDmqOMag21WoC7"
     },
     {
       "added_at": "2024-03-22 07:04:46",
@@ -891,6 +891,26 @@
     {
       "added_at": "2024-03-22 07:04:46",
       "album": {
+        "name": "Chinito Rulo (Remix)",
+        "url": "https://open.spotify.com/album/5Ryl5A6cqqNwTUFpwBCoOS"
+      },
+      "artists": [
+        {
+          "name": "Shushupe",
+          "url": "https://open.spotify.com/artist/3S0VTthgRWMUNhLEmmbEa4"
+        },
+        {
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+        }
+      ],
+      "duration_ms": 187198,
+      "name": "Chinito Rulo (Remix)",
+      "url": "https://open.spotify.com/track/7k59WdJ7jadrBwzguDgvR8"
+    },
+    {
+      "added_at": "2024-03-22 07:04:46",
+      "album": {
         "name": "Trending Tropics",
         "url": "https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V"
       },
@@ -911,22 +931,22 @@
     {
       "added_at": "2024-03-22 07:04:46",
       "album": {
-        "name": "Chinito Rulo (Remix)",
-        "url": "https://open.spotify.com/album/5Ryl5A6cqqNwTUFpwBCoOS"
+        "name": "No Soy Tu Princesa (Remix)",
+        "url": "https://open.spotify.com/album/1Lx4HEkkQ9ZZFybJWErPCX"
       },
       "artists": [
         {
-          "name": "Shushupe",
-          "url": "https://open.spotify.com/artist/3S0VTthgRWMUNhLEmmbEa4"
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
         },
         {
-          "name": "Los Mirlos",
-          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+          "name": "Verito Asprilla",
+          "url": "https://open.spotify.com/artist/38bNWh48s9AsoYUtdojwPm"
         }
       ],
-      "duration_ms": 187198,
-      "name": "Chinito Rulo (Remix)",
-      "url": "https://open.spotify.com/track/7k59WdJ7jadrBwzguDgvR8"
+      "duration_ms": 190840,
+      "name": "No Soy Tu Princesa - Remix",
+      "url": "https://open.spotify.com/track/5mRscP08EbnCmAuMnMhQa1"
     },
     {
       "added_at": "2024-03-22 07:04:46",
@@ -1007,28 +1027,8 @@
     {
       "added_at": "2024-03-22 07:04:46",
       "album": {
-        "name": "No Soy Tu Princesa (Remix)",
-        "url": "https://open.spotify.com/album/1Lx4HEkkQ9ZZFybJWErPCX"
-      },
-      "artists": [
-        {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
-        },
-        {
-          "name": "Verito Asprilla",
-          "url": "https://open.spotify.com/artist/38bNWh48s9AsoYUtdojwPm"
-        }
-      ],
-      "duration_ms": 190840,
-      "name": "No Soy Tu Princesa - Remix",
-      "url": "https://open.spotify.com/track/5mRscP08EbnCmAuMnMhQa1"
-    },
-    {
-      "added_at": "2024-03-22 07:04:46",
-      "album": {
-        "name": "Altamar",
-        "url": "https://open.spotify.com/album/4hrSQysDtVOtq4dIcA89mN"
+        "name": "El Cafetal",
+        "url": "https://open.spotify.com/album/5HFvxyfp9eb2PwzFgubQ48"
       },
       "artists": [
         {
@@ -1036,9 +1036,9 @@
           "url": "https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ"
         }
       ],
-      "duration_ms": 289186,
-      "name": "Altamar",
-      "url": "https://open.spotify.com/track/0hQ1YDgcYE0J2cypCoIPmj"
+      "duration_ms": 244660,
+      "name": "El Cafetal",
+      "url": "https://open.spotify.com/track/2XsfAFoTRjddzRz52aIJek"
     },
     {
       "added_at": "2024-03-22 07:04:46",
@@ -1103,28 +1103,28 @@
     {
       "added_at": "2024-03-22 07:04:46",
       "album": {
-        "name": "Cari\u00f1ito",
-        "url": "https://open.spotify.com/album/3EhNobcvRpbFTQO8aZFfDJ"
+        "name": "No M\u00e1s Velorio (El B\u00faho Remix)",
+        "url": "https://open.spotify.com/album/4v0pFizZJj1oMIEBmzNcPU"
       },
       "artists": [
         {
-          "name": "Ruzzi",
-          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
+          "name": "Plu Con Pla",
+          "url": "https://open.spotify.com/artist/15OQgyef5dQZArbCVFvOxH"
         },
         {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
         }
       ],
-      "duration_ms": 221133,
-      "name": "Cari\u00f1ito",
-      "url": "https://open.spotify.com/track/1vWoodfwshprECuRoWnBjB"
+      "duration_ms": 291000,
+      "name": "No M\u00e1s Velorio - El B\u00faho Remix",
+      "url": "https://open.spotify.com/track/63AWfwvngiv2XdeRo3dK2H"
     },
     {
       "added_at": "2024-03-22 07:04:46",
       "album": {
-        "name": "El Cafetal",
-        "url": "https://open.spotify.com/album/5HFvxyfp9eb2PwzFgubQ48"
+        "name": "Altamar",
+        "url": "https://open.spotify.com/album/4hrSQysDtVOtq4dIcA89mN"
       },
       "artists": [
         {
@@ -1132,9 +1132,9 @@
           "url": "https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ"
         }
       ],
-      "duration_ms": 244660,
-      "name": "El Cafetal",
-      "url": "https://open.spotify.com/track/2XsfAFoTRjddzRz52aIJek"
+      "duration_ms": 289186,
+      "name": "Altamar",
+      "url": "https://open.spotify.com/track/0hQ1YDgcYE0J2cypCoIPmj"
     }
   ],
   "unique_name": "El\u00e9ctrica Selv\u00e1tica",

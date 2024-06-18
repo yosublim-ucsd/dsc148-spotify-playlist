@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume from across the world\. Cover: Ilse DeLange.
 
-[Spotify](https://open.spotify.com/user/spotify) - 935,315 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 935,441 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,14 +17,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 7 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
 | 8 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:48 |
 | 9 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:53 |
-| 10 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 |
-| 11 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:21 |
+| 10 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:21 |
+| 11 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 |
 | 12 | [Midas Touch](https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Midas Touch](https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef) | 2:42 |
 | 13 | [Sugardaddy](https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Sugardaddy](https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf) | 2:11 |
 | 14 | [Dernière danse](https://open.spotify.com/track/65uoaqX5qcjXZRheAj1qQT) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB) | [Mini World](https://open.spotify.com/album/1r7XjAgjwlakmXC2GbPXjH) | 3:33 |
 | 15 | [Tell Ur Girlfriend](https://open.spotify.com/track/3Vp4B9KshEPy72bwY0NJks) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [After 7](https://open.spotify.com/album/3jMiuPdLcZ3svm5u2hSmnj) | 2:04 |
-| 16 | [Stiekem ‘24](https://open.spotify.com/track/1FdncxahefhSPAE1npIMCk) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Stiekem ‘24](https://open.spotify.com/album/7qSfiZ1AVuuOci1fjEXMQr) | 3:08 |
-| 17 | [Hanya Lolongan](https://open.spotify.com/track/3gedUqUJEgNoDqDaQZwTUo) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Hanya Lolongan](https://open.spotify.com/album/7nYVMupxePZbCAczopKbWr) | 3:49 |
+| 16 | [Hanya Lolongan](https://open.spotify.com/track/3gedUqUJEgNoDqDaQZwTUo) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Hanya Lolongan](https://open.spotify.com/album/7nYVMupxePZbCAczopKbWr) | 3:49 |
+| 17 | [Stiekem ‘24](https://open.spotify.com/track/1FdncxahefhSPAE1npIMCk) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Stiekem ‘24](https://open.spotify.com/album/7qSfiZ1AVuuOci1fjEXMQr) | 3:08 |
 | 18 | [Stukje Van Mij](https://open.spotify.com/track/3k9LdosLHcyy4kE5J6pV2p) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Stukje Van Mij](https://open.spotify.com/album/0WuTTSyph8iJopqrYySkOL) | 3:25 |
 | 19 | [Waterdicht](https://open.spotify.com/track/1guLggb4orDoc7Dmh2cSuL) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Waterdicht](https://open.spotify.com/album/6RB3yTXoYgKACU6TCqj9qa) | 2:51 |
 | 20 | [Woman Commando \(feat\. Anitta & Coco Jones\)](https://open.spotify.com/track/7jaot4TU3RWNZVscwAsKLA) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 3:28 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 35 | [so good so bad](https://open.spotify.com/track/0w6zTpil7ny1enDWlFLMff) | [MXFRUIT](https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G) | [so good so bad](https://open.spotify.com/album/5JpxHDyjPJ06ky5W08b5yb) | 3:44 |
 | 36 | [La mejor noche d mi vida <3](https://open.spotify.com/track/5vvaJgErSongYCqKuYLH3C) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf) | [Dulcinea](https://open.spotify.com/album/5qldzuecHg69MKkQjCEesb) | 3:15 |
 | 37 | [Mostafz Alnas](https://open.spotify.com/track/1x3qoGBof6SVqJYi6WvhyI) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Mostafz Alnas](https://open.spotify.com/album/6M6XVr2LDKXOkUb5C4PNrO) | 3:05 |
-| 38 | [Malá zem](https://open.spotify.com/track/75aFeZA5ZnaJ3lBAa3Kugz) | [Jana Kirschner](https://open.spotify.com/artist/3sakSn9xHMLlqQxOnQ57fB) | [Obyčajnosti](https://open.spotify.com/album/3icaBlL4aS0kES32BZ3SCB) | 7:11 |
-| 39 | [Desarma y sangra](https://open.spotify.com/track/5d4Up4On9hK55gVJ8qIrKi) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [HILDA CANTA CHARLY](https://open.spotify.com/album/2cHEbZW4aAGuRVvdnQNX5O) | 3:44 |
+| 38 | [Desarma y sangra](https://open.spotify.com/track/5d4Up4On9hK55gVJ8qIrKi) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [HILDA CANTA CHARLY](https://open.spotify.com/album/2cHEbZW4aAGuRVvdnQNX5O) | 3:44 |
+| 39 | [Malá zem](https://open.spotify.com/track/75aFeZA5ZnaJ3lBAa3Kugz) | [Jana Kirschner](https://open.spotify.com/artist/3sakSn9xHMLlqQxOnQ57fB) | [Obyčajnosti](https://open.spotify.com/album/3icaBlL4aS0kES32BZ3SCB) | 7:11 |
 | 40 | [Por Amor](https://open.spotify.com/track/6rwu6PTeXa9zyGzYameOWf) | [Marisa Liz](https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn) | [Mensagens de Amor](https://open.spotify.com/album/3dlWnKQ8MozKGiptJsMlII) | 3:54 |
 | 41 | [Como La Cigarra](https://open.spotify.com/track/1J2sfCyClN1AUP6UByOz29) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [Yo Soy](https://open.spotify.com/album/6HPc7SYwmPbLt1r2cmteOo) | 2:54 |
 | 42 | [Leave You On Read](https://open.spotify.com/track/4M3hHNW0KHHtePSk305uLt) | [Iman Fandi](https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg) | [Leave You On Read](https://open.spotify.com/album/2ScVUbSUucYJLD67TNaAnK) | 3:09 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 45 | [I Can't Sleep](https://open.spotify.com/track/6ZA6vEwTVkoLQIzOjNbDQR) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je) | [I Can't Sleep](https://open.spotify.com/album/6qMiIVSFEtXWfsUfTFUGOt) | 2:11 |
 | 46 | [Bài Ca Khởi Hành](https://open.spotify.com/track/0VZpQ2QGfzN9AlF62B2DrA) | [Hà Trần](https://open.spotify.com/artist/37cUqDVdpydDd8VtNlCLuk) | [Bài Ca Khởi Hành](https://open.spotify.com/album/33QwWYrON5FegB2hb6rUgT) | 4:54 |
 | 47 | [Mezcal](https://open.spotify.com/track/7oB3GYRqmgslJ3ik3zlqlu) | [Alina Pash](https://open.spotify.com/artist/2rC7t19zOtFIcJvmi6lH1i), [Zbaraski](https://open.spotify.com/artist/6EOVp4jyP5ovNOhqtJu7Eg) | [Nikoly\. S4e raz](https://open.spotify.com/album/3tN5TvmMlc01hxAzd5lpER) | 3:56 |
-| 48 | [BIG DRIP](https://open.spotify.com/track/6yOnCtqG95CzhjeTeI9uOV) | [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u), [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c) | [BIG DRIP](https://open.spotify.com/album/4x7Yo7b9NKZmto1hsfUOTz) | 2:04 |
-| 49 | [Make You Stay](https://open.spotify.com/track/5sSn9nZvBBGCdFDdqu8AgJ) | [Archie X](https://open.spotify.com/artist/7iHfb5ODaqKyprp2DBEXvU) | [Make You Stay](https://open.spotify.com/album/3EDaystjZEdlidJk6dvkmU) | 3:29 |
+| 48 | [Make You Stay](https://open.spotify.com/track/5sSn9nZvBBGCdFDdqu8AgJ) | [Archie X](https://open.spotify.com/artist/7iHfb5ODaqKyprp2DBEXvU) | [Make You Stay](https://open.spotify.com/album/3EDaystjZEdlidJk6dvkmU) | 3:29 |
+| 49 | [BIG DRIP](https://open.spotify.com/track/6yOnCtqG95CzhjeTeI9uOV) | [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u), [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c) | [BIG DRIP](https://open.spotify.com/album/4x7Yo7b9NKZmto1hsfUOTz) | 2:04 |
 | 50 | [Dil e Nadan](https://open.spotify.com/track/1j1W1CkwYBO0tl8Q6F30jn) | [Natasha Baig](https://open.spotify.com/artist/2R8t8JuhekewFBqE8OhBq8), [Atif Ali](https://open.spotify.com/artist/7LPzCeKqWxF5PER1vZ3maQ) | [Dil e Nadan](https://open.spotify.com/album/64ctyE3BhIAy3ksnE8SUvB) | 5:15 |
 
 Snapshot ID: `Zl/iwAAAAAAVHrP/u93sCH20cb12oj3Z`

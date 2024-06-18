@@ -1,6 +1,6 @@
 {
   "description": "Aquelas pra come\u00e7ar o dia de alma leve",
-  "num_followers": 549520,
+  "num_followers": 549688,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
@@ -551,26 +551,6 @@
     {
       "added_at": "2024-06-14 01:52:32",
       "album": {
-        "name": "PRISCILLA",
-        "url": "https://open.spotify.com/album/7CwRBVDac8q1nUsl5Fx7Ik"
-      },
-      "artists": [
-        {
-          "name": "PRISCILLA",
-          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
-        },
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        }
-      ],
-      "duration_ms": 205640,
-      "name": "BOSSA (feat. P\u00e9ricles)",
-      "url": "https://open.spotify.com/track/1ueVf1rPWSALnfLdenJZUq"
-    },
-    {
-      "added_at": "2024-06-14 01:52:32",
-      "album": {
         "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
         "url": "https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 178081,
       "name": "Coisas Que Eu Sei",
       "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
+    },
+    {
+      "added_at": "2024-06-14 01:52:32",
+      "album": {
+        "name": "PRISCILLA",
+        "url": "https://open.spotify.com/album/7CwRBVDac8q1nUsl5Fx7Ik"
+      },
+      "artists": [
+        {
+          "name": "PRISCILLA",
+          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
+        },
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "duration_ms": 205640,
+      "name": "BOSSA (feat. P\u00e9ricles)",
+      "url": "https://open.spotify.com/track/1ueVf1rPWSALnfLdenJZUq"
     },
     {
       "added_at": "2024-06-14 01:52:32",
@@ -819,22 +819,18 @@
     {
       "added_at": "2024-06-14 01:52:32",
       "album": {
-        "name": "No Escuro",
-        "url": "https://open.spotify.com/album/5cPLhv2TI5JgIX3Gmfq9bI"
+        "name": "Cru",
+        "url": "https://open.spotify.com/album/7wYN6lMpcVx2maHSGc2yQb"
       },
       "artists": [
         {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        },
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+          "name": "Liniker e os Caramelows",
+          "url": "https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n"
         }
       ],
-      "duration_ms": 238384,
-      "name": "No Escuro",
-      "url": "https://open.spotify.com/track/2pWMc34naG2miGcu5R4kYY"
+      "duration_ms": 364359,
+      "name": "Zero",
+      "url": "https://open.spotify.com/track/7Jl757vT5eNqemc6PtY2dA"
     },
     {
       "added_at": "2024-06-14 01:52:32",
@@ -859,18 +855,22 @@
     {
       "added_at": "2024-06-14 01:52:32",
       "album": {
-        "name": "Cru",
-        "url": "https://open.spotify.com/album/7wYN6lMpcVx2maHSGc2yQb"
+        "name": "No Escuro",
+        "url": "https://open.spotify.com/album/5cPLhv2TI5JgIX3Gmfq9bI"
       },
       "artists": [
         {
-          "name": "Liniker e os Caramelows",
-          "url": "https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n"
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        },
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
         }
       ],
-      "duration_ms": 364359,
-      "name": "Zero",
-      "url": "https://open.spotify.com/track/7Jl757vT5eNqemc6PtY2dA"
+      "duration_ms": 238384,
+      "name": "No Escuro",
+      "url": "https://open.spotify.com/track/2pWMc34naG2miGcu5R4kYY"
     },
     {
       "added_at": "2024-06-14 01:52:32",

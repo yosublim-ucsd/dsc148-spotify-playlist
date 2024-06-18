@@ -1,12 +1,12 @@
 {
   "description": "This is Eladio Carrion. The essential tracks, all in one playlist.",
-  "num_followers": 334145,
+  "num_followers": 334313,
   "original_name": "This Is Eladio Carrion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmzZgAAAAADzQjqGUi/tJUqUGSIlXlBF",
+  "snapshot_id": "Zm4rAAAAAAAlP1N8hfp5x2IPb7WxSvf7",
   "tracks": [
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sol Mar\u00eda",
-        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 106666,
-      "name": "RKO",
-      "url": "https://open.spotify.com/track/4KglpGG1pPLuXmO4lxrIaQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Triste Verano",
         "url": "https://open.spotify.com/album/3tQugDvLsNa3RDu7bfRu6Y"
       },
@@ -555,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Porque Puedo",
-        "url": "https://open.spotify.com/album/1yHXJzuDKUHwR0kM0oah82"
+        "name": "Sol Mar\u00eda",
+        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
       },
       "artists": [
         {
@@ -564,9 +548,9 @@
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 151111,
-      "name": "C\u00f3digo G",
-      "url": "https://open.spotify.com/track/7kXFHkoWcqtRc3vJEmYkmN"
+      "duration_ms": 106666,
+      "name": "RKO",
+      "url": "https://open.spotify.com/track/4KglpGG1pPLuXmO4lxrIaQ"
     },
     {
       "added_at": null,
@@ -587,22 +571,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sol Mar\u00eda",
-        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
+        "name": "Porque Puedo",
+        "url": "https://open.spotify.com/album/1yHXJzuDKUHwR0kM0oah82"
       },
       "artists": [
         {
           "name": "Eladio Carrion",
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         }
       ],
-      "duration_ms": 209655,
-      "name": "El Malo",
-      "url": "https://open.spotify.com/track/144k7KOL7ZPopw7rTTzzXN"
+      "duration_ms": 151111,
+      "name": "C\u00f3digo G",
+      "url": "https://open.spotify.com/track/7kXFHkoWcqtRc3vJEmYkmN"
     },
     {
       "added_at": null,
@@ -627,18 +607,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SEN2 KBRN VOL. 1",
-        "url": "https://open.spotify.com/album/7rzr5GOIXMfA41aIkzGtvo"
+        "name": "Sol Mar\u00eda",
+        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
       },
       "artists": [
         {
           "name": "Eladio Carrion",
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         }
       ],
-      "duration_ms": 151500,
-      "name": "Paz Mental",
-      "url": "https://open.spotify.com/track/7vhIpemqMF1mcNWdTNDfjF"
+      "duration_ms": 209655,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/144k7KOL7ZPopw7rTTzzXN"
     },
     {
       "added_at": null,
@@ -655,6 +639,22 @@
       "duration_ms": 125124,
       "name": "El Hokage",
       "url": "https://open.spotify.com/track/5GZ4tx6VZxM7V4IQtSJFyx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SEN2 KBRN VOL. 1",
+        "url": "https://open.spotify.com/album/7rzr5GOIXMfA41aIkzGtvo"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "Paz Mental",
+      "url": "https://open.spotify.com/track/7vhIpemqMF1mcNWdTNDfjF"
     },
     {
       "added_at": null,
@@ -783,6 +783,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "J\u00f3venes Millonarios",
+        "url": "https://open.spotify.com/album/3ilfq7b1QorqjU5qSCLD3y"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 182189,
+      "name": "J\u00f3venes Millonarios",
+      "url": "https://open.spotify.com/track/0MJ9rq9zMOe0G7eL3j5w8G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "100xCiento",
         "url": "https://open.spotify.com/album/0ftjfi9ePDKKe3JI7IxqEy"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 219682,
       "name": "100xCiento",
       "url": "https://open.spotify.com/track/52qI65Ek66LV3evWVDf1ET"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "J\u00f3venes Millonarios",
-        "url": "https://open.spotify.com/album/3ilfq7b1QorqjU5qSCLD3y"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 182189,
-      "name": "J\u00f3venes Millonarios",
-      "url": "https://open.spotify.com/track/0MJ9rq9zMOe0G7eL3j5w8G"
     },
     {
       "added_at": null,
@@ -939,30 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FUMETEO (Remix)",
-        "url": "https://open.spotify.com/album/2RS7DIwtcaoDue6Rcg6PGD"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 214880,
-      "name": "FUMETEO - Remix",
-      "url": "https://open.spotify.com/track/4sIVl8rmGPDemhnod4JID3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SEN2 KBRN VOL. 2",
         "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
       },
@@ -1047,6 +1023,30 @@
       "duration_ms": 224248,
       "name": "Glizzy Walk 2.5",
       "url": "https://open.spotify.com/track/3O6dtQDB3MTYFPxlXn7zww"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "3MEN2 KBRN",
+        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 248622,
+      "name": "Friends - Remix",
+      "url": "https://open.spotify.com/track/54iyLNmcnLWNdCqX5pdtuL"
     }
   ],
   "unique_name": "This Is Eladio Carrion",

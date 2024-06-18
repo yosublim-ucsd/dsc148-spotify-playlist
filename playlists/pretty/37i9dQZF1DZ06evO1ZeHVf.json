@@ -1,12 +1,12 @@
 {
   "description": "This is CeCe Winans. The essential tracks, all in one playlist.",
-  "num_followers": 35683,
+  "num_followers": 35722,
   "original_name": "This Is CeCe Winans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmzZgAAAAAAZKoUCRvfzPARZ3tnjqz2m",
+  "snapshot_id": "Zm4rAAAAAAB4UwWtgpxxY2KjVvE+Gq7W",
   "tracks": [
     {
       "added_at": null,
@@ -147,22 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Throne Room (Gold Edition)",
-        "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 300733,
-      "name": "Mercy Said No",
-      "url": "https://open.spotify.com/track/3wOHgqLMIqHierF0D8VoMl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Believe For It",
         "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
       },
@@ -175,22 +159,6 @@
       "duration_ms": 250733,
       "name": "Never Lost",
       "url": "https://open.spotify.com/track/31I8gxix4Go4Mui0WsWuku"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alabaster Box",
-        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 332973,
-      "name": "Alabaster Box",
-      "url": "https://open.spotify.com/track/7FLPCH6fx9gJgrRJBoo5U5"
     },
     {
       "added_at": null,
@@ -211,6 +179,38 @@
       "duration_ms": 261600,
       "name": "Great Is Thy Faithfulness",
       "url": "https://open.spotify.com/track/17AeeMY4OZlsqIUUlOlfP4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alabaster Box",
+        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 332973,
+      "name": "Alabaster Box",
+      "url": "https://open.spotify.com/track/7FLPCH6fx9gJgrRJBoo5U5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Throne Room (Gold Edition)",
+        "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 294493,
+      "name": "Jesus, You're Beautiful",
+      "url": "https://open.spotify.com/track/2hURR2OEp83kltTqHXaB6G"
     },
     {
       "added_at": null,
@@ -347,18 +347,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX"
+        "name": "My Tribute (To God Be The Glory)",
+        "url": "https://open.spotify.com/album/1qaeNHwNFPFbOviqzzhEVt"
       },
       "artists": [
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        },
         {
           "name": "CeCe Winans",
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 212053,
-      "name": "Just To Be Close To You - Live",
-      "url": "https://open.spotify.com/track/19n835mWp3BVGtHWBjhY4B"
+      "duration_ms": 341986,
+      "name": "My Tribute (To God Be The Glory)",
+      "url": "https://open.spotify.com/track/6SlbC6p7ZZD73bhjARDV86"
     },
     {
       "added_at": null,
@@ -427,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Have to Be Alone",
-        "url": "https://open.spotify.com/album/34VkbeKpr1wXJZe1xW0Aif"
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX"
       },
       "artists": [
         {
@@ -436,9 +440,9 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 227335,
-      "name": "Never Have to Be Alone",
-      "url": "https://open.spotify.com/track/43w5n3xRMBOQll8xQBuO41"
+      "duration_ms": 212053,
+      "name": "Just To Be Close To You - Live",
+      "url": "https://open.spotify.com/track/19n835mWp3BVGtHWBjhY4B"
     },
     {
       "added_at": null,
@@ -455,6 +459,22 @@
       "duration_ms": 83561,
       "name": "Oh The Blood Of Jesus",
       "url": "https://open.spotify.com/track/6omRhMoKDTQT0o2NOg0M8V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Have to Be Alone",
+        "url": "https://open.spotify.com/album/34VkbeKpr1wXJZe1xW0Aif"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 227335,
+      "name": "Never Have to Be Alone",
+      "url": "https://open.spotify.com/track/43w5n3xRMBOQll8xQBuO41"
     },
     {
       "added_at": null,

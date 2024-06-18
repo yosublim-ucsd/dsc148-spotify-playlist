@@ -3512,7 +3512,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 291568,
       "name": "Love U Dia",
       "url": "https://open.spotify.com/track/1OJ9OGqVw2IShCyaTrxXR2"
@@ -5502,6 +5502,32 @@
       "duration_ms": 221509,
       "name": "Ninna Nodade",
       "url": "https://open.spotify.com/track/31fsnh7dvxBu8UFxKsKeuB"
+    },
+    {
+      "album": {
+        "name": "Ninna Noduta",
+        "url": "https://open.spotify.com/album/2IaJzPfIu3AOdG3A31UQ9Y"
+      },
+      "artists": [
+        {
+          "name": "Vishwas V Mathad",
+          "url": "https://open.spotify.com/artist/7baUdCAhXJrptpQORiFozW"
+        },
+        {
+          "name": "Meghana Pramod",
+          "url": "https://open.spotify.com/artist/7q8wxbNtA07ytbGBH6KGnF"
+        },
+        {
+          "name": "Chetan Argungi",
+          "url": "https://open.spotify.com/artist/7aLguQeD2WV6jUH3wNoMwY"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200061,
+      "name": "Ninna Noduta",
+      "url": "https://open.spotify.com/track/5baFUoZRasKY4kY9mfvBXj"
     },
     {
       "album": {

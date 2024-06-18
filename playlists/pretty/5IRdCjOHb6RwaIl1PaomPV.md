@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. New music from Snow Strippers and Aluna, plus the latest cuts from evilgiane, Kito &amp; Chrome Sparks + more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,714 likes - 100 songs - 5 hr 9 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,712 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

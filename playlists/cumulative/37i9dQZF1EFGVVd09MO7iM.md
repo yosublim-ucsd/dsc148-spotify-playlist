@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-477 songs - 1 day 7 hr 6 min
+478 songs - 1 day 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Aries \(YuGo\) \(feat\. Pharrell & Station Wagon P\)](https://open.spotify.com/track/59LUh4amaXhgrWh6mWKbCn) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Station Wagon P](https://open.spotify.com/artist/10bRsziCCdq9Ht20lVVrRf) | [Ransom 2](https://open.spotify.com/album/0jqcY0azNzkluuC8hxNGlw) | 4:31 | 2024-01-29 |  |
 | [Arturo Sandoval](https://open.spotify.com/track/7EEgDEga4Piru1XeZ7EEw3) | [Arturo Sandoval](https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Ultimate Duets](https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A) | 3:31 | 2024-01-29 |  |
 | [As I Come Back](https://open.spotify.com/track/6Wv50bjSTKXNPFtclT17R8) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Genesis](https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd) | 3:19 | 2024-01-29 |  |
-| [Ayos Lang](https://open.spotify.com/track/0RqYgpSayvpZAIcIv3mlYK) | [Siakol](https://open.spotify.com/artist/3l9mRJIGzW7RrEE2H8Ldvq) | [Rekta](https://open.spotify.com/album/2xRcb3YZ5wIRcCInzpNNjg) | 4:18 | 2024-01-29 |  |
+| [Ayos Lang](https://open.spotify.com/track/0RqYgpSayvpZAIcIv3mlYK) | [Siakol](https://open.spotify.com/artist/3l9mRJIGzW7RrEE2H8Ldvq) | [Rekta](https://open.spotify.com/album/2xRcb3YZ5wIRcCInzpNNjg) | 4:18 | 2024-01-29 | 2024-06-18 |
 | [Años Luz](https://open.spotify.com/track/7ikBuouzgk31Z03FQBD5TN) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [She Wolf \(Expanded Edition\)](https://open.spotify.com/album/5u0OuxRnf3FzvZR07xAxL2) | 3:41 | 2024-01-29 |  |
 | [Baby](https://open.spotify.com/track/4AMNVe8rOzR1uR0HOlIc3w) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [In My Mind](https://open.spotify.com/album/2AYyw0FbE1GXlNHnx2Gj4a) | 4:06 | 2024-01-29 |  |
 | [Baby Doll](https://open.spotify.com/track/3CUgMeKdZlHUyMIH5o6Ufd) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [In Search Of...](https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI) | 3:43 | 2024-03-10 | 2024-06-16 |
@@ -324,6 +324,7 @@
 | [On & On](https://open.spotify.com/track/7aJouq94UPaX7yVXd2MQ4k) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [The Cookbook](https://open.spotify.com/album/6vV5UrXcfyQD1wu4Qo2I9K) | 4:45 | 2024-01-29 |  |
 | [On God](https://open.spotify.com/track/7ySc8EB354qhPQKmOw4td0) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Queen of Da Souf](https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF) | 1:53 | 2024-01-29 |  |
 | [On My Own](https://open.spotify.com/track/68zC6NEny9EG3OuE6npJcr) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:52 | 2024-01-29 |  |
+| [Onde Ondu Saari \- From "Mungaru Male"](https://open.spotify.com/track/6NF5MyWs5riFstZ5BYaCCe) | [Kunal Ganjawala](https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ), [Priya Hemesh](https://open.spotify.com/artist/1FI8Am7UxI2XLUtFs2jPva) | [Priya Himesh Hits](https://open.spotify.com/album/6k16CJh96tlSBhuccJ84E1) | 4:32 | 2024-06-17 |  |
 | [Orange County Girl](https://open.spotify.com/track/0lGM8bkO1VHY5zbXLdjCCq) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [The Sweet Escape](https://open.spotify.com/album/7xnZ539lh8x6de9jzlpCJp) | 3:23 | 2024-02-09 |  |
 | [P\-Poppin'](https://open.spotify.com/track/6yOghbMYTTUdOGiExT0rIF) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Shawnna](https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga), [Lil Fate](https://open.spotify.com/artist/6JUnsP7jmvYmdhbg7lTMQj) | [Chicken \- N \- Beer](https://open.spotify.com/album/3hJHXxX04PNuGFIxdEHGzg) | 4:49 | 2024-01-29 |  |
 | [Pass The Courvoisier Part II \(feat\. P\. Diddy & Pharrell\) \- Remix](https://open.spotify.com/track/4SnTf4ixVZCfQtxHNhky0T) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Genesis](https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd) | 3:58 | 2024-01-29 |  |

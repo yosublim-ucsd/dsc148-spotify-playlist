@@ -4,7 +4,7 @@
 
 > Breathe deep, and relax with the softer side of Christian music.
 
-106 songs - 7 hr 14 min
+107 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Holy Love](https://open.spotify.com/track/6DBGrnhBL00xF2B94oGdd9) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [Holy Love](https://open.spotify.com/album/5xw7giFJg2lKDi5OKcZESt) | 4:07 | 2023-02-07 |  |
 | [Holy, Holy, Holy](https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d) | [Holy, Holy, Holy](https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB) | 2:26 | 2023-02-07 |  |
 | [I See You](https://open.spotify.com/track/4TK6reOnF7h4My580fx47A) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [I See You](https://open.spotify.com/album/6ei0YKLSRcI7tcsF80aVZI) | 3:18 | 2021-10-31 | 2023-01-24 |
-| [I Will Sing](https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [I Will Sing](https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8) | 4:14 | 2023-02-07 |  |
+| [I Will Sing](https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [I Will Sing](https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8) | 4:14 | 2023-02-07 | 2024-06-18 |
 | [If I Had Stayed](https://open.spotify.com/track/5wWQWPXrFhGcs1qCZtSA8D) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE) | [If I Had Stayed](https://open.spotify.com/album/6LyuOSTe7Igm3efNqvOn4J) | 2:11 | 2021-10-31 | 2024-04-19 |
 | [In Christ Alone \(En Jésus Seul\)](https://open.spotify.com/track/6Qn5PXBQQxfTeu7QT742MQ) | [Ri\-An](https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo), [Sebastien Corn](https://open.spotify.com/artist/601DNxtvVupKqvm3STxGTW) | [In Christ Alone \(En Jésus Seul\)](https://open.spotify.com/album/7H8MtnvyshMhC5LVKRqBQL) | 3:42 | 2021-10-31 |  |
 | [It Is Well With My Soul](https://open.spotify.com/track/4aQ5Z7NMkYNFwwGKXc43Pe) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [It Is Well With My Soul](https://open.spotify.com/album/5vuquqvqSQIH1Og1QkMnFu) | 6:08 | 2021-10-31 |  |
@@ -109,6 +109,7 @@
 | [Why Should I \(feat\. Quinten Coblentz\)](https://open.spotify.com/track/5lQdppTJfzv9zqz0DUNm8u) | [Roy Tosh](https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye), [Quinten Coblentz](https://open.spotify.com/artist/7w28aj6tyhuIdcOIA7Ex2Z) | [Why Should I \(feat\. Quinten Coblentz\)](https://open.spotify.com/album/0dtKfjyzBU8w3a0Lzzqisb) | 3:47 | 2021-10-31 |  |
 | [Wings](https://open.spotify.com/track/3JnSE5L6NV0W22ZcSJLrBs) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Wings](https://open.spotify.com/album/6aAPVuhruUUOmdW4VXsT7t) | 2:48 | 2021-10-31 | 2024-04-19 |
 | [Wings](https://open.spotify.com/track/6p56fflyWLspRsipBqZabq) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Wings](https://open.spotify.com/album/5c7AV4LuaA4vmi3x2h0IUx) | 2:48 | 2023-02-07 |  |
+| [With My Lips](https://open.spotify.com/track/2qnqbfdgQ0NyApL6VfANb1) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [With My Lips](https://open.spotify.com/album/7ysLHTgjBdICqLs8K3AN8Y) | 3:38 | 2023-02-07 |  |
 | [Yahweh Elyon](https://open.spotify.com/track/1b148Civ2D3kkfkf2Q5vx2) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI), [Nathan Staggers](https://open.spotify.com/artist/0NPx3nSANBI85VKkLPmiMm) | [Yahweh Elyon](https://open.spotify.com/album/3AHSvulyhaQ2SBwd2CRKpN) | 3:14 | 2021-10-31 | 2022-12-22 |
 | [Yahweh Elyon](https://open.spotify.com/track/6ac4RGv1zUsmklvuMlzH50) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI), [Nathan Staggers](https://open.spotify.com/artist/0NPx3nSANBI85VKkLPmiMm) | [Yahweh Elyon](https://open.spotify.com/album/2dHsxvO9y5w2sVJezQd1Qu) | 3:14 | 2021-10-31 | 2024-04-19 |
 | [You Are My Salvation](https://open.spotify.com/track/2GTziTqyy9epimNQqO9Mn4) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Austin Sebek](https://open.spotify.com/artist/1hm6dCjV3emUEfCRgBvdo8) | [You Are My Salvation](https://open.spotify.com/album/5eIxhguVqI4AS3LiTfmvEd) | 3:02 | 2023-02-07 |  |

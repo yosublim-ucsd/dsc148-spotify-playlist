@@ -657,6 +657,24 @@
     },
     {
       "album": {
+        "name": "Definite",
+        "url": "https://open.spotify.com/album/4lkKRBJ6o0mrMgh1Wcn2AV"
+      },
+      "artists": [
+        {
+          "name": "Arietis",
+          "url": "https://open.spotify.com/artist/03NS5oA1PstBjCg4kwn6lH"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165392,
+      "name": "Definite",
+      "url": "https://open.spotify.com/track/5yCIRoiQ4DatjmySLxm20e"
+    },
+    {
+      "album": {
         "name": "Demulcere",
         "url": "https://open.spotify.com/album/6He0HD7ZAhwrOFHWYUw7OE"
       },
@@ -2578,7 +2596,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 226862,
       "name": "Song For Wermland",
       "url": "https://open.spotify.com/track/04dbAW4vL9SSKV4CJXEYd4"

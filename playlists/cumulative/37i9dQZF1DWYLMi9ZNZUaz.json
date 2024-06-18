@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-25",
-  "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: Coldzy",
+  "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: Lil Wuyn",
   "name": "Hip-hop Vi\u1ec7t",
   "tracks": [
     {
@@ -168,6 +168,28 @@
       "duration_ms": 205714,
       "name": "Allnight - Live",
       "url": "https://open.spotify.com/track/3ioQ4K8xVn0nMkbDdeBOXj"
+    },
+    {
+      "album": {
+        "name": "An",
+        "url": "https://open.spotify.com/album/0J9ZJ2vnTHm4NpzKVE779w"
+      },
+      "artists": [
+        {
+          "name": "Lil Wuyn",
+          "url": "https://open.spotify.com/artist/3Wj34lTDJnPp70u4YCl4jz"
+        },
+        {
+          "name": "Minstu",
+          "url": "https://open.spotify.com/artist/56oxFM7GQ14Z02IwpAx1lw"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191612,
+      "name": "An",
+      "url": "https://open.spotify.com/track/11E0Czz974QfKWqJ9Niv5A"
     },
     {
       "album": {
@@ -1642,7 +1664,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 228630,
       "name": "Khi M\u00e0",
       "url": "https://open.spotify.com/track/0Lf0ydJp4nbcEkYgPtIUuD"
@@ -1980,7 +2002,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 247843,
       "name": "L\u1ef1a Ch\u1ecdn C\u1ee7a Em",
       "url": "https://open.spotify.com/track/5S1qhBgTprx5CFkLmmU95i"
@@ -3112,7 +3134,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 195652,
       "name": "Thay \u0110\u1ed5i",
       "url": "https://open.spotify.com/track/3tJC3m7HJ6Y5XoKGEkc5vt"

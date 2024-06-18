@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > New songs from CHH's up and coming artists!  Cover: <a href="spotify:artist:0PUc1lwaZpPJaMr0v4Gdvo">Jon Keith</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,766 likes - 40 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,783 likes - 40 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

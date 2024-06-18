@@ -3462,6 +3462,24 @@
     {
       "album": {
         "name": "Angel",
+        "url": "https://open.spotify.com/album/0kiszXzM46gs4FQXsVZlGu"
+      },
+      "artists": [
+        {
+          "name": "Ben Swissa",
+          "url": "https://open.spotify.com/artist/5oCWqJlsPteQEIjAMxQRs8"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219860,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/1XFQCO045csYHnDoJq2PZ7"
+    },
+    {
+      "album": {
+        "name": "Angel",
         "url": "https://open.spotify.com/album/29LqP9KKkgqD4bJYp8WoWo"
       },
       "artists": [
@@ -16815,6 +16833,24 @@
     },
     {
       "album": {
+        "name": "Easier Said Than Done",
+        "url": "https://open.spotify.com/album/3kjBE3ZxmGr4IXeFbbwSox"
+      },
+      "artists": [
+        {
+          "name": "TheLongoodBye",
+          "url": "https://open.spotify.com/artist/7n5v4ScowIXIA5xqOv2gle"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200814,
+      "name": "Easier Said Than Done",
+      "url": "https://open.spotify.com/track/3efzgMi6Fcx8SUFdL6IBCh"
+    },
+    {
+      "album": {
         "name": "Easily",
         "url": "https://open.spotify.com/album/3NDATLW5oLq54KNsP6azzf"
       },
@@ -18904,6 +18940,36 @@
       "duration_ms": 171200,
       "name": "Favorite Perfume </3",
       "url": "https://open.spotify.com/track/3EPXZrSvAehLzRSUND8x8c"
+    },
+    {
+      "album": {
+        "name": "Fed-Up !!",
+        "url": "https://open.spotify.com/album/2B8ceP7XZxj2dulH3H7Vva"
+      },
+      "artists": [
+        {
+          "name": "Brass-A-Holics",
+          "url": "https://open.spotify.com/artist/2Fikf2sYndnUMolo6adXSZ"
+        },
+        {
+          "name": "Alfred Banks",
+          "url": "https://open.spotify.com/artist/3lBEoJSiLP8GC4Azi1GjI9"
+        },
+        {
+          "name": "Kr3wcial",
+          "url": "https://open.spotify.com/artist/286zFnBdNwLtIC6Uo4l1t3"
+        },
+        {
+          "name": "IATM",
+          "url": "https://open.spotify.com/artist/3zcQDQy00QhlNHbbZHsQwO"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148929,
+      "name": "Fed-Up !!",
+      "url": "https://open.spotify.com/track/57HZ7RK4TMEYXSKHWNd4f8"
     },
     {
       "album": {
@@ -23404,7 +23470,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 176172,
       "name": "Goodbyes",
       "url": "https://open.spotify.com/track/3a86vrsmi1lDfqw1nGQHux"
@@ -62852,6 +62918,24 @@
       "duration_ms": 218000,
       "name": "What Is Love",
       "url": "https://open.spotify.com/track/7HErxkHvSktrG09jtsbG6c"
+    },
+    {
+      "album": {
+        "name": "What Would We Be",
+        "url": "https://open.spotify.com/album/7nDnJ2qzkYqfPQKPkNyifb"
+      },
+      "artists": [
+        {
+          "name": "Misha",
+          "url": "https://open.spotify.com/artist/0peJmlRvWPrUicmNEygvJX"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125000,
+      "name": "What Would We Be",
+      "url": "https://open.spotify.com/track/2BG34XzJOKzvo1uamFMW81"
     },
     {
       "album": {

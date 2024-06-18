@@ -1,6 +1,6 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 242026,
+  "num_followers": 242040,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "FYS",
-        "url": "https://open.spotify.com/album/7IKErQGBssaKQHzBxgBuzt"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 209202,
-      "name": "FYS",
-      "url": "https://open.spotify.com/track/5IVhQWFgCahKesfuioh4OG"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "Sincerely For You",
         "url": "https://open.spotify.com/album/6KqdU8DuBJiho89Rjznzze"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 190186,
       "name": "When You Bad Like That (feat. Future)",
       "url": "https://open.spotify.com/track/275YNZEcI6UKFU7hO1kzKX"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "FYS",
+        "url": "https://open.spotify.com/album/7IKErQGBssaKQHzBxgBuzt"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 209202,
+      "name": "FYS",
+      "url": "https://open.spotify.com/track/5IVhQWFgCahKesfuioh4OG"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Charged Up",
-        "url": "https://open.spotify.com/album/7tM3cKpt6DrUg1OW4B4BSf"
-      },
-      "artists": [
-        {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
-        }
-      ],
-      "duration_ms": 179123,
-      "name": "Charged Up",
-      "url": "https://open.spotify.com/track/4HN6CicOpFp1nrkxHFM3Gt"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "Heartbreak & Other Stories",
         "url": "https://open.spotify.com/album/3ZND79VBwdSp1g9jUndMXU"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 161529,
       "name": "Someday",
       "url": "https://open.spotify.com/track/7mGIEdzSzlTYjPtiDsXbVM"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "Charged Up",
+        "url": "https://open.spotify.com/album/7tM3cKpt6DrUg1OW4B4BSf"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        }
+      ],
+      "duration_ms": 179123,
+      "name": "Charged Up",
+      "url": "https://open.spotify.com/track/4HN6CicOpFp1nrkxHFM3Gt"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "L o s e M y M i n d",
-        "url": "https://open.spotify.com/album/4EYRBdtOIR0fkTzVXN6bvI"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 183990,
-      "name": "L o s e M y M i n d",
-      "url": "https://open.spotify.com/track/7nnSTOoBWl2ctLxoqgCZoq"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "Don't Give It Away",
         "url": "https://open.spotify.com/album/4eFmR5Xt0nAXuYs85GS8IA"
       },
@@ -775,18 +759,18 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Next Chapter",
-        "url": "https://open.spotify.com/album/1CYWwUlTWMQwT2M7rUnqkf"
+        "name": "L o s e M y M i n d",
+        "url": "https://open.spotify.com/album/4EYRBdtOIR0fkTzVXN6bvI"
       },
       "artists": [
         {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 149966,
-      "name": "Hurts Me To Know",
-      "url": "https://open.spotify.com/track/0yZ6a47o7jfO5PmFjbQwCi"
+      "duration_ms": 183990,
+      "name": "L o s e M y M i n d",
+      "url": "https://open.spotify.com/track/7nnSTOoBWl2ctLxoqgCZoq"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -807,22 +791,18 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Wanna Come Thru",
-        "url": "https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF"
+        "name": "Next Chapter",
+        "url": "https://open.spotify.com/album/1CYWwUlTWMQwT2M7rUnqkf"
       },
       "artists": [
         {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Mike WiLL Made-It",
-          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
         }
       ],
-      "duration_ms": 131900,
-      "name": "Wanna Come Thru",
-      "url": "https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX"
+      "duration_ms": 149966,
+      "name": "Hurts Me To Know",
+      "url": "https://open.spotify.com/track/0yZ6a47o7jfO5PmFjbQwCi"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -843,6 +823,26 @@
       "duration_ms": 265906,
       "name": "New Type (feat. Childish Gambino)",
       "url": "https://open.spotify.com/track/35PofXWEoF8DnGTA1SIuyJ"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "Wanna Come Thru",
+        "url": "https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        }
+      ],
+      "duration_ms": 131900,
+      "name": "Wanna Come Thru",
+      "url": "https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -895,22 +895,6 @@
       "duration_ms": 165520,
       "name": "Double Tragedy",
       "url": "https://open.spotify.com/track/2Zs7Q7lJB1aUDL06rE2xN2"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Your Love Is All I Need",
-        "url": "https://open.spotify.com/album/4vTUoDz2degpD1NHfCJ0vg"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 176843,
-      "name": "Your Love Is All I Need",
-      "url": "https://open.spotify.com/track/5K4XGPDbG9CR6hoAM0Htua"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -983,6 +967,22 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
+        "name": "Your Love Is All I Need",
+        "url": "https://open.spotify.com/album/4vTUoDz2degpD1NHfCJ0vg"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 176843,
+      "name": "Your Love Is All I Need",
+      "url": "https://open.spotify.com/track/5K4XGPDbG9CR6hoAM0Htua"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
         "name": "Hennessy (feat. Blxst)",
         "url": "https://open.spotify.com/album/6yhGlErwPSocayEPnkT9Vk"
       },
@@ -1039,22 +1039,18 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Risk It All (From the Original Motion Picture \u201cThe Color Purple\u201d)",
-        "url": "https://open.spotify.com/album/56QjItp9BaAC2e7GkYZLwd"
+        "name": "Words of Affirmation",
+        "url": "https://open.spotify.com/album/4A6aWWPzVnNEjqm29C93A7"
       },
       "artists": [
         {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
         }
       ],
-      "duration_ms": 201347,
-      "name": "Risk It All - From the Original Motion Picture \u201cThe Color Purple\u201d",
-      "url": "https://open.spotify.com/track/4zSlPg0zHNNRukp2p07jrm"
+      "duration_ms": 186095,
+      "name": "Words of Affirmation",
+      "url": "https://open.spotify.com/track/4TeklWa1VJeKwDThRho8vy"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1071,6 +1067,26 @@
       "duration_ms": 140663,
       "name": "Spinn On You",
       "url": "https://open.spotify.com/track/2sJFKoTuGxIbz8b1ytHMZM"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "Risk It All (From the Original Motion Picture \u201cThe Color Purple\u201d)",
+        "url": "https://open.spotify.com/album/56QjItp9BaAC2e7GkYZLwd"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 201347,
+      "name": "Risk It All - From the Original Motion Picture \u201cThe Color Purple\u201d",
+      "url": "https://open.spotify.com/track/4zSlPg0zHNNRukp2p07jrm"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1103,22 +1119,6 @@
       "duration_ms": 109270,
       "name": "Solutions",
       "url": "https://open.spotify.com/track/4dzUnPycaoQTzRxm4tqF3O"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Words of Affirmation",
-        "url": "https://open.spotify.com/album/4A6aWWPzVnNEjqm29C93A7"
-      },
-      "artists": [
-        {
-          "name": "Queen Naija",
-          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
-        }
-      ],
-      "duration_ms": 186095,
-      "name": "Words of Affirmation",
-      "url": "https://open.spotify.com/track/4TeklWa1VJeKwDThRho8vy"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Chances",
-        "url": "https://open.spotify.com/album/1BPGOwv0i7hNwRxBbrwkSr"
-      },
-      "artists": [
-        {
-          "name": "Mack Keane",
-          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
-        }
-      ],
-      "duration_ms": 233826,
-      "name": "Chances",
-      "url": "https://open.spotify.com/track/1rDN43rZK48pWElATbvyp3"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "COMING HOME (Expanded Edition)",
         "url": "https://open.spotify.com/album/7GZwgBHhaazZ2QnrvbpDPO"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 211644,
       "name": "Believe",
       "url": "https://open.spotify.com/track/4YYpXaONSBsD2wVAsfxFH6"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "Chances",
+        "url": "https://open.spotify.com/album/1BPGOwv0i7hNwRxBbrwkSr"
+      },
+      "artists": [
+        {
+          "name": "Mack Keane",
+          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
+        }
+      ],
+      "duration_ms": 233826,
+      "name": "Chances",
+      "url": "https://open.spotify.com/track/1rDN43rZK48pWElATbvyp3"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
+        "name": "Loveloca",
+        "url": "https://open.spotify.com/album/6cc0aH6M1S3SAUdMglc37e"
+      },
+      "artists": [
+        {
+          "name": "J.A.D.E",
+          "url": "https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Loveloca",
+      "url": "https://open.spotify.com/track/1JCKPYM0yFZfXeC04RmeiB"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/7MmAX3YCJv7qPBV9bvad1a"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 221502,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/4DLy6eUxyIWTYyvpgMCoBD"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Loveloca",
-        "url": "https://open.spotify.com/album/6cc0aH6M1S3SAUdMglc37e"
-      },
-      "artists": [
-        {
-          "name": "J.A.D.E",
-          "url": "https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Loveloca",
-      "url": "https://open.spotify.com/track/1JCKPYM0yFZfXeC04RmeiB"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1643,6 +1643,26 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
+        "name": "On Mine",
+        "url": "https://open.spotify.com/album/4C21azUS5PkhZUcVe82ik5"
+      },
+      "artists": [
+        {
+          "name": "Imani Williams",
+          "url": "https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn"
+        },
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 143986,
+      "name": "On Mine",
+      "url": "https://open.spotify.com/track/3wbV0PBJKj24jEcVuSHZoX"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
         "name": "Today",
         "url": "https://open.spotify.com/album/512GRreukRR6tq8WJj9XUb"
       },
@@ -1663,26 +1683,6 @@
       "duration_ms": 147790,
       "name": "Today",
       "url": "https://open.spotify.com/track/0N38B0Dd6W87kjZTkPlT2D"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "On Mine",
-        "url": "https://open.spotify.com/album/4C21azUS5PkhZUcVe82ik5"
-      },
-      "artists": [
-        {
-          "name": "Imani Williams",
-          "url": "https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn"
-        },
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 143986,
-      "name": "On Mine",
-      "url": "https://open.spotify.com/track/3wbV0PBJKj24jEcVuSHZoX"
     },
     {
       "added_at": "2024-06-06 22:00:00",

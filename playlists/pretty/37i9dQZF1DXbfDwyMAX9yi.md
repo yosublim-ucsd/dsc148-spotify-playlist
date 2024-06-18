@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbfDwyMAX9yi.md) - [plain]
 
 > Our favorite subject? Their chemistry\. Listen to the music from Maxton Hall: The World Between Us, now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,660 likes - 38 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,144 likes - 38 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/7kfOEMJBJwdCYqyJeEnNhr) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame](https://open.spotify.com/album/5KAcRZdtpHXQb3OmYGvpgX) | 3:54 |
-| 2 | [Where's My Love](https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz) | 3:22 |
-| 3 | [First and Last \(Extended Album Version\) \(feat\. Kenyatta Joyner\) \- from "Maxton Hall"](https://open.spotify.com/track/6ix12EBGthzl5iOHKciJtA) | [songs in cinema](https://open.spotify.com/artist/23BjnFsuLGv1a5TNFqmSP6), [Kenyatta Joyner](https://open.spotify.com/artist/1pZg0JIQopGmtqbcODO0uD) | [Maxton Hall: The World Between Us \(Season 1\) \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/3AjUBcGTv6uYjAH0VUPRQt) | 3:06 |
+| 1 | [First and Last \(Extended Album Version\) \(feat\. Kenyatta Joyner\) \- from "Maxton Hall"](https://open.spotify.com/track/6ix12EBGthzl5iOHKciJtA) | [songs in cinema](https://open.spotify.com/artist/23BjnFsuLGv1a5TNFqmSP6), [Kenyatta Joyner](https://open.spotify.com/artist/1pZg0JIQopGmtqbcODO0uD) | [Maxton Hall: The World Between Us \(Season 1\) \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/3AjUBcGTv6uYjAH0VUPRQt) | 3:06 |
+| 2 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/7kfOEMJBJwdCYqyJeEnNhr) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame](https://open.spotify.com/album/5KAcRZdtpHXQb3OmYGvpgX) | 3:54 |
+| 3 | [Where's My Love](https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz) | 3:22 |
 | 4 | [High Life \(feat\. Victoria Hillestad\) \- from "Maxton Hall"](https://open.spotify.com/track/1juIr1XUf9BrFAIYkya0Lu) | [songs in cinema](https://open.spotify.com/artist/23BjnFsuLGv1a5TNFqmSP6), [Victoria Hillestad](https://open.spotify.com/artist/5PQx75WvXW8l49ONY0C7IC) | [Maxton Hall: The World Between Us \(Season 1\) \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/3AjUBcGTv6uYjAH0VUPRQt) | 1:27 |
 | 5 | [Wild Heart](https://open.spotify.com/track/2bUNMsROZTbJ8KkbcqDbx3) | [CATT](https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ) | [Change](https://open.spotify.com/album/6TckaHJU35tlFUy57USHAB) | 4:05 |
 | 6 | [All I Need](https://open.spotify.com/track/3aMyQSDW0DJ7LTOkrd29hU) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [All I Need](https://open.spotify.com/album/4ZXK260CRmgXgQ5tCs1hmk) | 3:36 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbfDwyMAX9yi.md) - [plain]
 | 37 | [Something's Off \- from "Maxton Hall"](https://open.spotify.com/track/2InEuGzKI41WCTMS4vnXUy) | [songs in cinema](https://open.spotify.com/artist/23BjnFsuLGv1a5TNFqmSP6) | [Maxton Hall: The World Between Us \(Season 1\) \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/3AjUBcGTv6uYjAH0VUPRQt) | 1:46 |
 | 38 | [Let Down \(Acoustic Version\) \(feat\. Victoria Hillestad\) \- from "Maxton Hall"](https://open.spotify.com/track/6kH6AdZkHsvlBVc6nfEmsr) | [songs in cinema](https://open.spotify.com/artist/23BjnFsuLGv1a5TNFqmSP6), [Victoria Hillestad](https://open.spotify.com/artist/5PQx75WvXW8l49ONY0C7IC) | [Maxton Hall: The World Between Us \(Season 1\) \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/3AjUBcGTv6uYjAH0VUPRQt) | 0:53 |
 
-Snapshot ID: `ZmzIHAAAAACD0c3IdC8f7hC3Vyx58jz0`
+Snapshot ID: `ZnCafAAAAADn647RHHfupo1/EKjtANck`

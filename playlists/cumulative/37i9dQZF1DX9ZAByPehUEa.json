@@ -843,6 +843,24 @@
     },
     {
       "album": {
+        "name": "BONKERS",
+        "url": "https://open.spotify.com/album/4nZWTZl55srdbsah2ijVRj"
+      },
+      "artists": [
+        {
+          "name": "Never Dull",
+          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "BONKERS",
+      "url": "https://open.spotify.com/track/0xttlPnsPJBbasq9fzDlzH"
+    },
+    {
+      "album": {
         "name": "Burnin' Up (Original Mix)",
         "url": "https://open.spotify.com/album/2wrHA0T9EBPHOBt3d1kD9e"
       },
@@ -1222,7 +1240,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 381172,
       "name": "Dancing Down The Path",
       "url": "https://open.spotify.com/track/1jtAputapT9efP7VO88zaJ"
@@ -1486,7 +1504,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 170078,
       "name": "Disco Slammer",
       "url": "https://open.spotify.com/track/6xYXGRLxgs0yFJIGVDT9gj"
@@ -1712,7 +1730,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 164505,
       "name": "Don't You Feel Me - Edit",
       "url": "https://open.spotify.com/track/3JMeiqYwiqkZaqmyHS9RVr"
@@ -3266,6 +3284,24 @@
       "duration_ms": 223742,
       "name": "I Miss Having Someone To Talk To",
       "url": "https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6"
+    },
+    {
+      "album": {
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/6fiiphWZ02SgbvKveIktJx"
+      },
+      "artists": [
+        {
+          "name": "Munky Fike",
+          "url": "https://open.spotify.com/artist/1sAtijnwqNE0wlqp2QwbVm"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341750,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/7FlPx7oz9iX4x6cCRKkooH"
     },
     {
       "album": {
@@ -4859,6 +4895,24 @@
     },
     {
       "album": {
+        "name": "Moodena's Message",
+        "url": "https://open.spotify.com/album/3UVjubH0ONlqpgVz0ja9Qx"
+      },
+      "artists": [
+        {
+          "name": "Moodena",
+          "url": "https://open.spotify.com/artist/1YGnrgB2TrCnJkNwlhJLiy"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345000,
+      "name": "Moodena's Message",
+      "url": "https://open.spotify.com/track/6bxlHFp8cr6mrGD1FyM96K"
+    },
+    {
+      "album": {
         "name": "RE//CHOIRED",
         "url": "https://open.spotify.com/album/5JMcyXM7mWafx7jpT7XQka"
       },
@@ -4874,6 +4928,28 @@
       "duration_ms": 234758,
       "name": "Most Precious Love",
       "url": "https://open.spotify.com/track/47UPyhVOYi13lDCabh0V8s"
+    },
+    {
+      "album": {
+        "name": "Move On Up (Mark Knight Remix)",
+        "url": "https://open.spotify.com/album/7hg20oE5SyyQf7JN8YA1Dq"
+      },
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+        },
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149047,
+      "name": "Move On Up (Mark Knight Remix)",
+      "url": "https://open.spotify.com/track/39pkyUMcOfKfjx3xhCeiVM"
     },
     {
       "album": {
@@ -6076,7 +6152,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 224865,
       "name": "Pretty Girl Era - Super Disco Mix",
       "url": "https://open.spotify.com/track/6AXNXza0OnkcpL1eZRDRFB"

@@ -4852,7 +4852,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 340428,
       "name": "But Daddy I Love Him",
       "url": "https://open.spotify.com/track/5og4Qzt92jJzVDkOtSEilb"
@@ -15186,7 +15186,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-16",
+      "date_removed": null,
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -21496,7 +21496,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-01",
+      "date_removed": null,
       "duration_ms": 163648,
       "name": "Nonsense",
       "url": "https://open.spotify.com/track/6dgUya35uo964z7GZXM07g"
@@ -26988,7 +26988,7 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 199080,
       "name": "Shut Up and Dance",
       "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
@@ -30006,7 +30006,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 233456,
       "name": "TEXAS HOLD 'EM",
       "url": "https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5"
@@ -31024,7 +31024,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 136580,
       "name": "These Words",
       "url": "https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz"
@@ -31244,18 +31244,14 @@
         {
           "name": "Baddiel, Skinner & Lightning Seeds",
           "url": "https://open.spotify.com/artist/3LtYMPncqtiugGwOuuLq3h"
-        },
-        {
-          "name": "The Lightning Seeds",
-          "url": "https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5"
         }
       ],
-      "date_added": "2021-06-13",
+      "date_added": "2021-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-13",
-      "duration_ms": 228360,
-      "name": "Three Lions",
-      "url": "https://open.spotify.com/track/0Ai6qtPfiEYGCqBGJYWD1W"
+      "date_removed": "2021-07-14",
+      "duration_ms": 241360,
+      "name": "Three Lions '98",
+      "url": "https://open.spotify.com/track/0u8e6zmdHLadNfOGTGdqN6"
     },
     {
       "album": {
@@ -31268,12 +31264,12 @@
           "url": "https://open.spotify.com/artist/3LtYMPncqtiugGwOuuLq3h"
         }
       ],
-      "date_added": "2021-07-05",
+      "date_added": "2021-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-07-14",
-      "duration_ms": 241360,
-      "name": "Three Lions '98",
-      "url": "https://open.spotify.com/track/0u8e6zmdHLadNfOGTGdqN6"
+      "date_removed": null,
+      "duration_ms": 228360,
+      "name": "Three Lions (Football's Coming Home)",
+      "url": "https://open.spotify.com/track/0Ai6qtPfiEYGCqBGJYWD1W"
     },
     {
       "album": {
@@ -34740,7 +34736,7 @@
       ],
       "date_added": "2021-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-07-14",
+      "date_removed": null,
       "duration_ms": 270826,
       "name": "World in Motion",
       "url": "https://open.spotify.com/track/47x8g4l24IpCvlcRxv2Jb6"

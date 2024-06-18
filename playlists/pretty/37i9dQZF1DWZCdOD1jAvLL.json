@@ -1,6 +1,6 @@
 {
   "description": "Ride the bassline. Cover: Dimension & Alison Wonderland",
-  "num_followers": 241593,
+  "num_followers": 241617,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/1OYS1FK3tnJ8JhbWuUZaqE"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 173437,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/3DLWVhaowApIGw1JnJj6GS"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "girl$",
         "url": "https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 209552,
       "name": "girl$",
       "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/1OYS1FK3tnJ8JhbWuUZaqE"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "duration_ms": 173437,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/3DLWVhaowApIGw1JnJj6GS"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Biggest Regret (feat. Bbyafricka)",
-        "url": "https://open.spotify.com/album/665xiVHsc2ocmkIN5xBynI"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "Bbyafricka",
-          "url": "https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W"
-        }
-      ],
-      "duration_ms": 230613,
-      "name": "Biggest Regret (feat. Bbyafricka)",
-      "url": "https://open.spotify.com/track/6xisc7D96wTIk0SHYMjtBl"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "Badders",
         "url": "https://open.spotify.com/album/0K5ljicneNOkdgx2rNxYBv"
       },
@@ -1587,6 +1567,26 @@
       "duration_ms": 167172,
       "name": "Badders",
       "url": "https://open.spotify.com/track/4zbInBD4rY7tYPJ16LVxdh"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Biggest Regret (feat. Bbyafricka)",
+        "url": "https://open.spotify.com/album/665xiVHsc2ocmkIN5xBynI"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "Bbyafricka",
+          "url": "https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W"
+        }
+      ],
+      "duration_ms": 230613,
+      "name": "Biggest Regret (feat. Bbyafricka)",
+      "url": "https://open.spotify.com/track/6xisc7D96wTIk0SHYMjtBl"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1851,6 +1851,26 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
+        "name": "Bandit (Club Mix)",
+        "url": "https://open.spotify.com/album/1edPdWHVtyAiaihO0UvDWS"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Bandit - Club Mix",
+      "url": "https://open.spotify.com/track/6ovzIhWfOcUwYRlobZvJ06"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
         "name": "Know Me Better",
         "url": "https://open.spotify.com/album/2iR9KdDE9yT2u5WVXehm1u"
       },
@@ -1871,26 +1891,6 @@
       "duration_ms": 176148,
       "name": "Know Me Better",
       "url": "https://open.spotify.com/track/41AVceKYPXTFQNm8Sm9GP2"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Bandit (Club Mix)",
-        "url": "https://open.spotify.com/album/1edPdWHVtyAiaihO0UvDWS"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Bandit - Club Mix",
-      "url": "https://open.spotify.com/track/6ovzIhWfOcUwYRlobZvJ06"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -2199,42 +2199,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Danger (REAPER Remix)",
-        "url": "https://open.spotify.com/album/55LOzhhZ8mPqiMAPW1L8W2"
-      },
-      "artists": [
-        {
-          "name": "T & Sugah",
-          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
-        },
-        {
-          "name": "REAPER",
-          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
-        }
-      ],
-      "duration_ms": 187586,
-      "name": "Danger - REAPER Remix",
-      "url": "https://open.spotify.com/track/2LJdaNdvgNmxnNQ7zWTgDw"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Push Me",
-        "url": "https://open.spotify.com/album/3m6uciqlh8hgjNHiX0NSXh"
-      },
-      "artists": [
-        {
-          "name": "GENESI",
-          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Push Me",
-      "url": "https://open.spotify.com/track/2R4zEYaFpPbKxBbQceH6yw"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "Where You Are (Gorgon City Remix)",
         "url": "https://open.spotify.com/album/3fvyKp2tDksvqviYpujiOg"
       },
@@ -2259,6 +2223,42 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
+        "name": "Push Me",
+        "url": "https://open.spotify.com/album/3m6uciqlh8hgjNHiX0NSXh"
+      },
+      "artists": [
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Push Me",
+      "url": "https://open.spotify.com/track/2R4zEYaFpPbKxBbQceH6yw"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Danger (REAPER Remix)",
+        "url": "https://open.spotify.com/album/55LOzhhZ8mPqiMAPW1L8W2"
+      },
+      "artists": [
+        {
+          "name": "T & Sugah",
+          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
+        },
+        {
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+        }
+      ],
+      "duration_ms": 187586,
+      "name": "Danger - REAPER Remix",
+      "url": "https://open.spotify.com/track/2LJdaNdvgNmxnNQ7zWTgDw"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
         "name": "Bass Face",
         "url": "https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw"
       },
@@ -2279,22 +2279,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Paranoid",
-        "url": "https://open.spotify.com/album/7tjjNI3iFSjbkBqcS8NyVp"
-      },
-      "artists": [
-        {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        }
-      ],
-      "duration_ms": 174565,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/7MriQOSzV5A9qvD2qWHah5"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "Banga",
         "url": "https://open.spotify.com/album/2S1qwlOsiKSKMvxpxuO5Hw"
       },
@@ -2311,6 +2295,22 @@
       "duration_ms": 141897,
       "name": "Banga",
       "url": "https://open.spotify.com/track/3Asbj9ttQ9MmQHcwHFy7mn"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/7tjjNI3iFSjbkBqcS8NyVp"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "duration_ms": 174565,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/7MriQOSzV5A9qvD2qWHah5"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -2483,22 +2483,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "One Pill",
-        "url": "https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio"
-      },
-      "artists": [
-        {
-          "name": "VNSSA",
-          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
-        }
-      ],
-      "duration_ms": 217946,
-      "name": "One Pill",
-      "url": "https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "Deadbeats & Brownies - Drum & Bass Compilation",
         "url": "https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule"
       },
@@ -2519,22 +2503,18 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Dola re Dola",
-        "url": "https://open.spotify.com/album/4Ih0jp3d02bw3BlhzoS1le"
+        "name": "One Pill",
+        "url": "https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio"
       },
       "artists": [
         {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Varun Jain",
-          "url": "https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx"
+          "name": "VNSSA",
+          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
         }
       ],
-      "duration_ms": 125538,
-      "name": "Dola re Dola",
-      "url": "https://open.spotify.com/track/1R0YUQ48qQQXFd9dLYifQw"
+      "duration_ms": 217946,
+      "name": "One Pill",
+      "url": "https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -2555,6 +2535,26 @@
       "duration_ms": 224250,
       "name": "Fuck Your Sunshine (Adventure Club Remix)",
       "url": "https://open.spotify.com/track/6QvldZZ10eYgKamaWfG52b"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Dola re Dola",
+        "url": "https://open.spotify.com/album/4Ih0jp3d02bw3BlhzoS1le"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Varun Jain",
+          "url": "https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx"
+        }
+      ],
+      "duration_ms": 125538,
+      "name": "Dola re Dola",
+      "url": "https://open.spotify.com/track/1R0YUQ48qQQXFd9dLYifQw"
     }
   ],
   "unique_name": "Bangers",

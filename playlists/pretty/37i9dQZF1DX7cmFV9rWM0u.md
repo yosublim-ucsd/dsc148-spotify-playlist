@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cmFV9rWM0u.md) - [plain]
 
 > Break a sweat with this Zumba\-inspired playlist! Find a class at Zumba.com
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,793,611 likes - 65 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,793,582 likes - 65 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cmFV9rWM0u.md) - [plain]
 | 51 | [Quédate \- Tiësto Remix](https://open.spotify.com/track/79wDq3jpGu0yew1ngQpAAi) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Quédate \(Tiësto Remix\)](https://open.spotify.com/album/5IZcEkLkf0oQNFlgFGocxr) | 3:52 |
 | 52 | [boomerang](https://open.spotify.com/track/1bcXs0KpBkBW2FGSbmhJGl) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [boomerang](https://open.spotify.com/album/29cuKsKKlPn4HJ2Keh3jwD) | 2:18 |
 | 53 | [Brisa](https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Brisa](https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE) | 4:19 |
-| 54 | [Mi Otra Mitad \(Remix\)](https://open.spotify.com/track/5nkVhLA1qnWbH1QN1aR6lG) | [Elio Leiros](https://open.spotify.com/artist/3oOY07QqOUrLSEJ4AOv9rz), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Mi Otra Mitad \(Remix\)](https://open.spotify.com/album/668u02QByaBqOr2YiJE0hW) | 3:14 |
-| 55 | [BAILAR CONTIGO](https://open.spotify.com/track/2GdHCkeAycTJ1RgMlptaRE) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [BAILAR CONTIGO](https://open.spotify.com/album/0WzsZzwIw15yVvkBHx3XRG) | 3:43 |
+| 54 | [BAILAR CONTIGO](https://open.spotify.com/track/2GdHCkeAycTJ1RgMlptaRE) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [BAILAR CONTIGO](https://open.spotify.com/album/0WzsZzwIw15yVvkBHx3XRG) | 3:43 |
+| 55 | [Mi Otra Mitad \(Remix\)](https://open.spotify.com/track/5nkVhLA1qnWbH1QN1aR6lG) | [Elio Leiros](https://open.spotify.com/artist/3oOY07QqOUrLSEJ4AOv9rz), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Mi Otra Mitad \(Remix\)](https://open.spotify.com/album/668u02QByaBqOr2YiJE0hW) | 3:14 |
 | 56 | [Baloncito Viejo](https://open.spotify.com/track/1PGoOrdBQyahALB6Vu7HMN) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Baloncito Viejo](https://open.spotify.com/album/6pXlVFGw6ydQu6aOCEUHDe) | 2:50 |
 | 57 | [A Un Paso De La Luna \- Remix](https://open.spotify.com/track/6EQR7Y5vVZFiPD0RUECIDv) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [A Un Paso De La Luna \(Remix\)](https://open.spotify.com/album/7uqAed3H0PhUrLDoyVATh8) | 3:14 |
 | 58 | [Ten Cuidado](https://open.spotify.com/track/7HctR6dqgzdU9v3LYfDElj) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Ten Cuidado](https://open.spotify.com/album/23JpPGYxFaXVcuZABPm7JI) | 3:33 |

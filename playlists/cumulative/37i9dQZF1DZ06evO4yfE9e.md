@@ -2,7 +2,7 @@
 
 ### [This Is bludnymph](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4yfE9e)
 
-> This Is bludnymph\. Zásadní skladby, všechny v jednom playlistu.
+> This is bludnymph\. The essential tracks, all in one playlist.
 
 23 songs - 58 min 25 sec
 

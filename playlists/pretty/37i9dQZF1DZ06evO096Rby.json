@@ -1,12 +1,12 @@
 {
-  "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 32344,
+  "description": "This Is Edgardo Nu\u00f1ez. Los temas esenciales, todos en una lista.",
+  "num_followers": 32369,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmzZgAAAAABrAnhOVp/YV+JxZDyXWERZ",
+  "snapshot_id": "Zm4rAAAAAADcyuWGW+WIdavHhTgeV4R/",
   "tracks": [
     {
       "added_at": null,
@@ -555,26 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Humo De Mi Gallo",
-        "url": "https://open.spotify.com/album/6EzDCDQdRd7si00U61tjlN"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 144080,
-      "name": "El Humo De Mi Gallo",
-      "url": "https://open.spotify.com/track/4peahmVQMLGlWwJLNodzcD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Ando Solo",
         "url": "https://open.spotify.com/album/4r2CQPM8TknOs9XI2iMYx0"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 245738,
       "name": "Los 5 Pesos",
       "url": "https://open.spotify.com/track/2rv7odMbWI4Hn9h3COlMUA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Humo De Mi Gallo",
+        "url": "https://open.spotify.com/album/6EzDCDQdRd7si00U61tjlN"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 144080,
+      "name": "El Humo De Mi Gallo",
+      "url": "https://open.spotify.com/track/4peahmVQMLGlWwJLNodzcD"
     },
     {
       "added_at": null,

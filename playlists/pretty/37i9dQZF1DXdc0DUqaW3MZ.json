@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 342160,
+  "num_followers": 342235,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -555,26 +555,6 @@
     {
       "added_at": "2024-06-14 14:50:20",
       "album": {
-        "name": "times",
-        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 245471,
-      "name": "Feed The Fire (feat. Lucky Daye)",
-      "url": "https://open.spotify.com/track/0XDA8IPloCFvf8c0ZNzRnB"
-    },
-    {
-      "added_at": "2024-06-14 14:50:20",
-      "album": {
         "name": "Feel It",
         "url": "https://open.spotify.com/album/6jUhWTr06uh84L3x84u1aS"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 214214,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/5qKEArG4jwMAYTAsuG4rpH"
+    },
+    {
+      "added_at": "2024-06-14 14:50:20",
+      "album": {
+        "name": "times",
+        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 245471,
+      "name": "Feed The Fire (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/0XDA8IPloCFvf8c0ZNzRnB"
     },
     {
       "added_at": "2024-06-14 14:50:20",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-06-14 14:50:20",
       "album": {
+        "name": "Be Patient",
+        "url": "https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a"
+      },
+      "artists": [
+        {
+          "name": "Loverground",
+          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
+        }
+      ],
+      "duration_ms": 216793,
+      "name": "Be Patient",
+      "url": "https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph"
+    },
+    {
+      "added_at": "2024-06-14 14:50:20",
+      "album": {
         "name": "OUR LOVE (80'S)",
         "url": "https://open.spotify.com/album/7HNr7sE0iiucFcESRnOUjX"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 174579,
       "name": "Turn Me Inside",
       "url": "https://open.spotify.com/track/1dN55SR4aP4EpGdYcQpPb3"
-    },
-    {
-      "added_at": "2024-06-14 14:50:20",
-      "album": {
-        "name": "Be Patient",
-        "url": "https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a"
-      },
-      "artists": [
-        {
-          "name": "Loverground",
-          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
-        }
-      ],
-      "duration_ms": 216793,
-      "name": "Be Patient",
-      "url": "https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph"
     },
     {
       "added_at": "2024-06-14 14:50:20",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-06-14 14:50:20",
       "album": {
+        "name": "STAY UP / SWEET",
+        "url": "https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc"
+      },
+      "artists": [
+        {
+          "name": "Stevedreez",
+          "url": "https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE"
+        }
+      ],
+      "duration_ms": 229765,
+      "name": "STAY UP",
+      "url": "https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8"
+    },
+    {
+      "added_at": "2024-06-14 14:50:20",
+      "album": {
         "name": "Skin to Skin",
         "url": "https://open.spotify.com/album/4YFMHIW20lUPz9RYHJ0PSS"
       },
@@ -971,38 +987,6 @@
     {
       "added_at": "2024-06-14 14:50:20",
       "album": {
-        "name": "STAY UP / SWEET",
-        "url": "https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc"
-      },
-      "artists": [
-        {
-          "name": "Stevedreez",
-          "url": "https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE"
-        }
-      ],
-      "duration_ms": 229765,
-      "name": "STAY UP",
-      "url": "https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8"
-    },
-    {
-      "added_at": "2024-06-14 14:50:20",
-      "album": {
-        "name": "See Through",
-        "url": "https://open.spotify.com/album/2kXgvPzC5fX5kbbRChFOWl"
-      },
-      "artists": [
-        {
-          "name": "Elj\u00e9",
-          "url": "https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO"
-        }
-      ],
-      "duration_ms": 211760,
-      "name": "See Through",
-      "url": "https://open.spotify.com/track/2o2nTbQ1LV0yycDLykgIHx"
-    },
-    {
-      "added_at": "2024-06-14 14:50:20",
-      "album": {
         "name": "You Could Be",
         "url": "https://open.spotify.com/album/32bdwKmh9xPoBmYlCjNNZI"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 218024,
       "name": "You Could Be",
       "url": "https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH"
+    },
+    {
+      "added_at": "2024-06-14 14:50:20",
+      "album": {
+        "name": "See Through",
+        "url": "https://open.spotify.com/album/2kXgvPzC5fX5kbbRChFOWl"
+      },
+      "artists": [
+        {
+          "name": "Elj\u00e9",
+          "url": "https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO"
+        }
+      ],
+      "duration_ms": 211760,
+      "name": "See Through",
+      "url": "https://open.spotify.com/track/2o2nTbQ1LV0yycDLykgIHx"
     },
     {
       "added_at": "2024-06-14 14:50:20",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-06-14 14:50:20",
       "album": {
-        "name": "Work It Out",
-        "url": "https://open.spotify.com/album/2IDy4wIcWkYJvzo8jkpMoJ"
-      },
-      "artists": [
-        {
-          "name": "Rachel Mae Hannon",
-          "url": "https://open.spotify.com/artist/4rwzqtDRqtNiXyoUuNl8Fc"
-        }
-      ],
-      "duration_ms": 186397,
-      "name": "Work It Out",
-      "url": "https://open.spotify.com/track/4qnUMf12GKpBS9WKX7BuJp"
-    },
-    {
-      "added_at": "2024-06-14 14:50:20",
-      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/5YuVGS5KyFqhPSsHzsDRSb"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 138304,
       "name": "Alone",
       "url": "https://open.spotify.com/track/415KAWPy9kNLsx515sqxI1"
+    },
+    {
+      "added_at": "2024-06-14 14:50:20",
+      "album": {
+        "name": "Work It Out",
+        "url": "https://open.spotify.com/album/2IDy4wIcWkYJvzo8jkpMoJ"
+      },
+      "artists": [
+        {
+          "name": "Rachel Mae Hannon",
+          "url": "https://open.spotify.com/artist/4rwzqtDRqtNiXyoUuNl8Fc"
+        }
+      ],
+      "duration_ms": 186397,
+      "name": "Work It Out",
+      "url": "https://open.spotify.com/track/4qnUMf12GKpBS9WKX7BuJp"
     },
     {
       "added_at": "2024-06-14 14:50:20",

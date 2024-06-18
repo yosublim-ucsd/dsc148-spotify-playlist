@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,427 songs - 3 day 6 hr 34 min
+1,428 songs - 3 day 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,7 +398,7 @@
 | [ESCAPE PLAN](https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 2:29 | 2021-11-07 | 2021-11-13 |
 | [Escapism.](https://open.spotify.com/track/5WxVXxCMRnvxUKFq40ELwq) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 4:32 | 2023-01-06 | 2023-02-05 |
 | [Escapism.](https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:32 | 2023-02-04 | 2023-02-16 |
-| [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-06-16 |  |
+| [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-06-16 | 2024-06-18 |
 | [Etherlude](https://open.spotify.com/track/2b4g0auOwCI95Wp5fe6OHl) | [Raid](https://open.spotify.com/artist/4BuamTRrqjMmqrCnJ2pUQg) | [Ether](https://open.spotify.com/album/0CXnqKIYcABtBBortguwXI) | 2:44 | 2021-03-29 | 2021-03-31 |
 | [Etranger \(feat\. Damso\)](https://open.spotify.com/track/78UMhbpEdGKXSc9nk25ow0) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Caméléon](https://open.spotify.com/album/1E2FLbD0dchh1eVfO3MKC6) | 3:28 | 2021-03-27\* | 2021-07-16 |
 | [Euphoria](https://open.spotify.com/track/5YMXGBD6vcYP7IolemyLtK) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 3:48 | 2022-03-22 | 2022-03-24 |
@@ -739,7 +739,7 @@
 | [Liyem](https://open.spotify.com/track/38dFwM306LaXqnc4hGHpaB) | [Uzishettan](https://open.spotify.com/artist/20Rf6VG9JiegKXpPT416CE) | [Liyem](https://open.spotify.com/album/4EqCG4W6zG8nhT1bMN6qAS) | 3:00 | 2022-03-30 | 2022-06-26 |
 | [Lmadi](https://open.spotify.com/track/5dFEs0UYNN8X05d6SzlPTC) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Lmadi](https://open.spotify.com/album/5BtOncH7szKPdItM1i7xJm) | 3:42 | 2021-04-26 | 2021-05-23 |
 | [Lmossiba \(المصيبة\)](https://open.spotify.com/track/0epZr5EAVHCi1VLSb227ky) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Lmossiba \(المصيبة\)](https://open.spotify.com/album/0KIu6uf8aHHY4yebS9Zj0t) | 3:48 | 2023-10-02 | 2023-10-07 |
-| [Lmouje](https://open.spotify.com/track/2HQOumI8CH5kHB3V2ZHwnU) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [Lmouje](https://open.spotify.com/album/1ZT3NtshPwxEiPkQrN9KNV) | 3:22 | 2024-06-11 |  |
+| [Lmouje](https://open.spotify.com/track/2HQOumI8CH5kHB3V2ZHwnU) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [Lmouje](https://open.spotify.com/album/1ZT3NtshPwxEiPkQrN9KNV) | 3:22 | 2024-06-11 | 2024-06-18 |
 | [Local](https://open.spotify.com/track/67SRXY0G8by6iElzIGhTyq) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 2:53 | 2021-11-28 | 2021-11-28 |
 | [Lore \- Intro](https://open.spotify.com/track/3DcjhqPaJQrbobPrnbadwv) | [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv) | [Lore](https://open.spotify.com/album/6RlqE0VxRuxdXaT8yQK20m) | 1:59 | 2021-04-18 | 2021-04-19 |
 | [Lost](https://open.spotify.com/track/62LM5V7p7Pzq6NVRAwhxay) | [KowKow](https://open.spotify.com/artist/2fNi6fQDoYiOyTj9iUkPih) | [Lost](https://open.spotify.com/album/1RszKGwyHJBvSSa0TW0q1I) | 2:57 | 2022-10-10 | 2022-10-13 |
@@ -749,7 +749,7 @@
 | [Louder than bombs](https://open.spotify.com/track/7rWZS6UDNgLbtCgq3eUrdM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/6yUxkZHB0tE1pNDXKoqiV2) | 3:37 | 2021-11-30 | 2021-12-01 |
 | [Love](https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [AFROBOY](https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1) | 3:11 | 2023-01-17 | 2024-04-17 |
 | [Love All \(with JAY\-Z\)](https://open.spotify.com/track/4VCbgIdr8ptegWeJpqLVHH) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:48 | 2021-09-05 | 2021-09-08 |
-| [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 | 2023-08-12 | 2024-06-17 |
+| [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 | 2023-08-12 |  |
 | [love nwantiti \(ah ah ah\)](https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:25 | 2021-10-02 | 2021-11-19 |
 | [love nwantiti \(feat\. ElGrande Toto\) \- North African Remix](https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [love nwantiti \(feat\. ElGrande Toto\) \[North African Remix\]](https://open.spotify.com/album/6Gyni4addCtIY57Cxulegg) | 2:15 | 2021-03-27\* | 2023-12-09 |
 | [Love Scars](https://open.spotify.com/track/5WoBXa945fS87d083cSkrs) | [Saint Bandz](https://open.spotify.com/artist/72UY8MsiTbxAnwK5qhhIA5) | [Love Scars](https://open.spotify.com/album/6stEDqUbk8tmzltAYHqGeO) | 2:22 | 2023-03-01 | 2023-04-01 |
@@ -1322,6 +1322,7 @@
 | [Vargas \(Rs3\)](https://open.spotify.com/track/77F2FBcaCALJCYmV2Wb4jW) | [LillMusic](https://open.spotify.com/artist/1Ye3or2SkD5hXZZJCIYEyZ) | [Vargas \(Rs3\)](https://open.spotify.com/album/26xz4aA5tjYCwhXuizIhXg) | 3:52 | 2021-09-26 | 2021-09-27 |
 | [Veto](https://open.spotify.com/track/5ABwojICrV4CA1aqregfRJ) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Veto](https://open.spotify.com/album/2o1OuK1aOsjjRHG79pKMdm) | 3:32 | 2022-05-07 | 2022-05-08 |
 | [VFX](https://open.spotify.com/track/3m9TzZ3tnaeMRC4dIrdrk9) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [Vortex](https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP), [Flipperachi](https://open.spotify.com/artist/7lPCTAKDofGUQgXGonMrKd) | [٤in \(Act 1\)](https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW) | 3:43 | 2022-10-22 | 2022-11-21 |
+| [VIRA \- SLABA](https://open.spotify.com/track/4G1hlwJvJJSClVL5LhROPi) | [ViraCocha](https://open.spotify.com/artist/3mBAoEIAN6UdI3VMA1rltv) | [VIRA \- SLABA](https://open.spotify.com/album/6jaow6TMiPpepI5hNq0OGb) | 2:48 | 2024-06-17 |  |
 | [Virginia Beach](https://open.spotify.com/track/3eP13S8D5m2cweMEg3ZDed) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:11 | 2023-10-07 | 2023-10-10 |
 | [Virus](https://open.spotify.com/track/31l74FDLY1pYLd82MYDp8W) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Cagoulé](https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0) | 2:57 | 2022-05-28 | 2022-06-01 |
 | [Vision](https://open.spotify.com/track/73lpHC7wOGRQELNOTgxSNj) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 1:27 | 2023-01-07 | 2023-01-24 |

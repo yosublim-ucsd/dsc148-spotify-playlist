@@ -1,6 +1,6 @@
 {
   "description": "Siento que arranco la carretera...",
-  "num_followers": 212146,
+  "num_followers": 212208,
   "original_name": "Viaje en Carretera: Arremangado",
   "owner": {
     "name": "Spotify",
@@ -211,18 +211,18 @@
     {
       "added_at": "2024-01-15 19:02:59",
       "album": {
-        "name": "Blanco y Negro Vol. 1",
-        "url": "https://open.spotify.com/album/6LK6fOmrYEovTCldkjLR6x"
+        "name": "D\u00e9cimo Aniversario",
+        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
       },
       "artists": [
         {
-          "name": "Grupo Maximo Grado",
-          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 223998,
-      "name": "El Hombre Del Equipo",
-      "url": "https://open.spotify.com/track/0M6ubxqeWNNB6RgeobpaV2"
+      "duration_ms": 164360,
+      "name": "Tranquilito",
+      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
     },
     {
       "added_at": "2024-01-15 19:02:59",
@@ -259,18 +259,18 @@
     {
       "added_at": "2024-01-15 19:02:59",
       "album": {
-        "name": "D\u00e9cimo Aniversario",
-        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
+        "name": "Blanco y Negro Vol. 1",
+        "url": "https://open.spotify.com/album/6LK6fOmrYEovTCldkjLR6x"
       },
       "artists": [
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
         }
       ],
-      "duration_ms": 164360,
-      "name": "Tranquilito",
-      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
+      "duration_ms": 223998,
+      "name": "El Hombre Del Equipo",
+      "url": "https://open.spotify.com/track/0M6ubxqeWNNB6RgeobpaV2"
     },
     {
       "added_at": "2024-01-15 19:02:59",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-01-15 19:02:59",
       "album": {
-        "name": "10 Corridos Pesados",
-        "url": "https://open.spotify.com/album/5Mc3MOwWjnXHP35sj823Nf"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "La Suburban Dorada",
-      "url": "https://open.spotify.com/track/4vOCbfTX2lgde4dyOtq2IE"
-    },
-    {
-      "added_at": "2024-01-15 19:02:59",
-      "album": {
         "name": "El Tequilero",
         "url": "https://open.spotify.com/album/3I9ZxJI6RKfw6l9qq6f8DO"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 190506,
       "name": "La Troca Del Mo\u00f1o Negro",
       "url": "https://open.spotify.com/track/0JeumsWAVXuwYQ2J92A39V"
+    },
+    {
+      "added_at": "2024-01-15 19:02:59",
+      "album": {
+        "name": "10 Corridos Pesados",
+        "url": "https://open.spotify.com/album/5Mc3MOwWjnXHP35sj823Nf"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "La Suburban Dorada",
+      "url": "https://open.spotify.com/track/4vOCbfTX2lgde4dyOtq2IE"
     },
     {
       "added_at": "2024-01-15 19:02:59",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-01-15 19:02:59",
       "album": {
+        "name": "Con Fuerza y Sentimiento: Legado Norte\u00f1o",
+        "url": "https://open.spotify.com/album/2eQNUZSF2grKGYk05AZ68f"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 121013,
+      "name": "La Escuadra (En Que Trabaja El Muchacho)",
+      "url": "https://open.spotify.com/track/3gxbdfAgpjJiODrpx64e0C"
+    },
+    {
+      "added_at": "2024-01-15 19:02:59",
+      "album": {
         "name": "Bendec\u00eddo",
         "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 223173,
       "name": "En La Sierra Y En La Ciudad \"La China\"",
       "url": "https://open.spotify.com/track/2wzBBN4okgN6lZ6OSkBB1L"
-    },
-    {
-      "added_at": "2024-01-15 19:02:59",
-      "album": {
-        "name": "Con Fuerza y Sentimiento: Legado Norte\u00f1o",
-        "url": "https://open.spotify.com/album/2eQNUZSF2grKGYk05AZ68f"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 121013,
-      "name": "La Escuadra (En Que Trabaja El Muchacho)",
-      "url": "https://open.spotify.com/track/3gxbdfAgpjJiODrpx64e0C"
     },
     {
       "added_at": "2024-01-15 19:02:59",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-01-15 19:02:59",
       "album": {
+        "name": "Norte\u00f1o 2000",
+        "url": "https://open.spotify.com/album/7tOJ88Jeuo8aOOwKMrsHdv"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 163082,
+      "name": "Veinte Mujeres De Negro",
+      "url": "https://open.spotify.com/track/6dSDh142ee5UPeMnwh14pm"
+    },
+    {
+      "added_at": "2024-01-15 19:02:59",
+      "album": {
         "name": "El Amor Que Nunca Fue",
         "url": "https://open.spotify.com/album/0sEHB7vdwHwtKG8ofCmDOT"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 229565,
       "name": "Miami Vibe",
       "url": "https://open.spotify.com/track/2gBrYprM7YhB7WgVwes5Gx"
-    },
-    {
-      "added_at": "2024-01-15 19:02:59",
-      "album": {
-        "name": "Norte\u00f1o 2000",
-        "url": "https://open.spotify.com/album/7tOJ88Jeuo8aOOwKMrsHdv"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 163082,
-      "name": "Veinte Mujeres De Negro",
-      "url": "https://open.spotify.com/track/6dSDh142ee5UPeMnwh14pm"
     },
     {
       "added_at": "2024-01-15 19:02:59",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2024-01-15 19:02:59",
       "album": {
-        "name": "Se Me Canso El Corazon",
-        "url": "https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq"
+        "name": "Alineando Cabritos",
+        "url": "https://open.spotify.com/album/6MwbpboiKaGTcb3MubGa2A"
       },
       "artists": [
         {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+          "name": "Los Originales De San Juan",
+          "url": "https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag"
         }
       ],
-      "duration_ms": 168026,
-      "name": "Los Tres Gallos",
-      "url": "https://open.spotify.com/track/23i2YYyRUNEGbeJoBWXdUY"
+      "duration_ms": 200706,
+      "name": "La Troca De Tres Colores",
+      "url": "https://open.spotify.com/track/1At5H1Pyrx3sgaVvVHSzOG"
     },
     {
       "added_at": "2024-01-15 19:02:59",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2024-01-15 19:02:59",
       "album": {
-        "name": "Alineando Cabritos",
-        "url": "https://open.spotify.com/album/6MwbpboiKaGTcb3MubGa2A"
+        "name": "Se Me Canso El Corazon",
+        "url": "https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq"
       },
       "artists": [
         {
-          "name": "Los Originales De San Juan",
-          "url": "https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag"
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 200706,
-      "name": "La Troca De Tres Colores",
-      "url": "https://open.spotify.com/track/1At5H1Pyrx3sgaVvVHSzOG"
+      "duration_ms": 168026,
+      "name": "Los Tres Gallos",
+      "url": "https://open.spotify.com/track/23i2YYyRUNEGbeJoBWXdUY"
     },
     {
       "added_at": "2024-01-15 19:02:59",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2024-01-15 19:02:59",
       "album": {
+        "name": "Misa De Cuerpo Presente",
+        "url": "https://open.spotify.com/album/2WR7Uv5bWy96xBlAfXNoFU"
+      },
+      "artists": [
+        {
+          "name": "Banda Movil",
+          "url": "https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK"
+        }
+      ],
+      "duration_ms": 168360,
+      "name": "Misa De Cuerpo Presente",
+      "url": "https://open.spotify.com/track/72gWYoN7Wta4spLHOCI6Sd"
+    },
+    {
+      "added_at": "2024-01-15 19:02:59",
+      "album": {
         "name": "Y Ahora Resulta",
         "url": "https://open.spotify.com/album/1a5ieU77NxfKsZKYZuZno9"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 209253,
       "name": "La Hummer Y El Camaro 2 \"La Revancha\"",
       "url": "https://open.spotify.com/track/3Wjhw44kAAQS6BRRtMvdcv"
-    },
-    {
-      "added_at": "2024-01-15 19:02:59",
-      "album": {
-        "name": "Misa De Cuerpo Presente",
-        "url": "https://open.spotify.com/album/2WR7Uv5bWy96xBlAfXNoFU"
-      },
-      "artists": [
-        {
-          "name": "Banda Movil",
-          "url": "https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK"
-        }
-      ],
-      "duration_ms": 168360,
-      "name": "Misa De Cuerpo Presente",
-      "url": "https://open.spotify.com/track/72gWYoN7Wta4spLHOCI6Sd"
     },
     {
       "added_at": "2024-01-15 19:02:59",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2024-01-15 19:02:59",
       "album": {
+        "name": "Puros \u00c9xitos",
+        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 172466,
+      "name": "Playa Sola",
+      "url": "https://open.spotify.com/track/31gRnzSEtKgO8kLN7ZGUxz"
+    },
+    {
+      "added_at": "2024-01-15 19:02:59",
+      "album": {
         "name": "Corridos Belicos",
         "url": "https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 216770,
       "name": "Lupe Campos",
       "url": "https://open.spotify.com/track/4td9uuqgQFAzJ3qoJS6Ozx"
-    },
-    {
-      "added_at": "2024-01-15 19:02:59",
-      "album": {
-        "name": "Puros \u00c9xitos",
-        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 172466,
-      "name": "Playa Sola",
-      "url": "https://open.spotify.com/track/31gRnzSEtKgO8kLN7ZGUxz"
     },
     {
       "added_at": "2024-01-15 19:02:59",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-01-15 19:02:59",
       "album": {
-        "name": "Y Si Se Quiere Ir",
-        "url": "https://open.spotify.com/album/1TGGJG87FFJsLFkILRN1Dc"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        }
-      ],
-      "duration_ms": 187280,
-      "name": "Y Si Se Quiere Ir",
-      "url": "https://open.spotify.com/track/6b68vfUlXy2i2dO79z3h5W"
-    },
-    {
-      "added_at": "2024-01-15 19:02:59",
-      "album": {
         "name": "La M\u00e1s Completa Colecci\u00f3n (Disc 1 - Mexico)",
         "url": "https://open.spotify.com/album/1O7FgObNhY9QVdLxO636Xs"
       },
@@ -1607,18 +1591,34 @@
     {
       "added_at": "2024-01-15 19:02:59",
       "album": {
-        "name": "El Karma",
-        "url": "https://open.spotify.com/album/4OGTFgqeWBWK6FWJYAA8Ap"
+        "name": "Y Si Se Quiere Ir",
+        "url": "https://open.spotify.com/album/1TGGJG87FFJsLFkILRN1Dc"
       },
       "artists": [
         {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
         }
       ],
-      "duration_ms": 166868,
-      "name": "El Toro Encartado",
-      "url": "https://open.spotify.com/track/51fEbvsSShRnNTJYLafthH"
+      "duration_ms": 187280,
+      "name": "Y Si Se Quiere Ir",
+      "url": "https://open.spotify.com/track/6b68vfUlXy2i2dO79z3h5W"
+    },
+    {
+      "added_at": "2024-01-15 19:02:59",
+      "album": {
+        "name": "La Historia De Los Exitos (Mexico)",
+        "url": "https://open.spotify.com/album/7JX622ZcA5o6dRm0ebXN91"
+      },
+      "artists": [
+        {
+          "name": "Los Originales De San Juan",
+          "url": "https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag"
+        }
+      ],
+      "duration_ms": 188013,
+      "name": "El Jardinero",
+      "url": "https://open.spotify.com/track/4krFbcx6JaiVgE09o9Vo1B"
     },
     {
       "added_at": "2024-01-15 19:02:59",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2024-01-15 19:02:59",
       "album": {
-        "name": "La Historia De Los Exitos (Mexico)",
-        "url": "https://open.spotify.com/album/7JX622ZcA5o6dRm0ebXN91"
+        "name": "El Karma",
+        "url": "https://open.spotify.com/album/4OGTFgqeWBWK6FWJYAA8Ap"
       },
       "artists": [
         {
-          "name": "Los Originales De San Juan",
-          "url": "https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag"
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
         }
       ],
-      "duration_ms": 188013,
-      "name": "El Jardinero",
-      "url": "https://open.spotify.com/track/4krFbcx6JaiVgE09o9Vo1B"
+      "duration_ms": 166868,
+      "name": "El Toro Encartado",
+      "url": "https://open.spotify.com/track/51fEbvsSShRnNTJYLafthH"
     },
     {
       "added_at": "2024-01-15 19:02:59",

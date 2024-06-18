@@ -1,6 +1,6 @@
 {
   "description": "El lado electr\u00f3nico del indie latino, featuring Alex Anwandter.",
-  "num_followers": 18526,
+  "num_followers": 18541,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
@@ -495,26 +495,6 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Politoxic",
-        "url": "https://open.spotify.com/album/4zA2cKqs6GDQhvNVo6SgMY"
-      },
-      "artists": [
-        {
-          "name": "Francisca y Los Exploradores",
-          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
-        },
-        {
-          "name": "Marcos French",
-          "url": "https://open.spotify.com/artist/22kjElNe2hsztOI6ORleRc"
-        }
-      ],
-      "duration_ms": 197203,
-      "name": "Politoxic",
-      "url": "https://open.spotify.com/track/3XQAOtYo8XqqRg6M7UlauT"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
         "name": "Mucho Peor - Spotify Singles",
         "url": "https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf"
       },
@@ -543,18 +523,22 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Fuck el Police (Remix)",
-        "url": "https://open.spotify.com/album/3CHiQzPxbqvfkkm2QM3BlM"
+        "name": "Politoxic",
+        "url": "https://open.spotify.com/album/4zA2cKqs6GDQhvNVo6SgMY"
       },
       "artists": [
         {
-          "name": "Pyura",
-          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
+          "name": "Francisca y Los Exploradores",
+          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
+        },
+        {
+          "name": "Marcos French",
+          "url": "https://open.spotify.com/artist/22kjElNe2hsztOI6ORleRc"
         }
       ],
-      "duration_ms": 261532,
-      "name": "Fuck el Police - Remix",
-      "url": "https://open.spotify.com/track/2v5gBze24GL5nWbZgvaEAk"
+      "duration_ms": 197203,
+      "name": "Politoxic",
+      "url": "https://open.spotify.com/track/3XQAOtYo8XqqRg6M7UlauT"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -571,6 +555,22 @@
       "duration_ms": 237250,
       "name": "Lento",
       "url": "https://open.spotify.com/track/2CRkU1UFD7xkFF60h9ettD"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
+        "name": "Fuck el Police (Remix)",
+        "url": "https://open.spotify.com/album/3CHiQzPxbqvfkkm2QM3BlM"
+      },
+      "artists": [
+        {
+          "name": "Pyura",
+          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
+        }
+      ],
+      "duration_ms": 261532,
+      "name": "Fuck el Police - Remix",
+      "url": "https://open.spotify.com/track/2v5gBze24GL5nWbZgvaEAk"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -687,26 +687,6 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Cuando la Luna Caiga",
-        "url": "https://open.spotify.com/album/0Q64aIzoIOqP5Xw5dzbn35"
-      },
-      "artists": [
-        {
-          "name": "Pyura",
-          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
-        },
-        {
-          "name": "Plastilina",
-          "url": "https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9"
-        }
-      ],
-      "duration_ms": 273056,
-      "name": "Cuando la Luna Caiga",
-      "url": "https://open.spotify.com/track/4kbQVab7ftejREWGo8ebUi"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
         "name": "como antes :(",
         "url": "https://open.spotify.com/album/1UbEziMtTNXhCJadyMWP55"
       },
@@ -743,18 +723,22 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "dionysian",
-        "url": "https://open.spotify.com/album/5CVy40cgzPpI1nhOSxx2Iz"
+        "name": "Cuando la Luna Caiga",
+        "url": "https://open.spotify.com/album/0Q64aIzoIOqP5Xw5dzbn35"
       },
       "artists": [
         {
-          "name": "wiranda johansen",
-          "url": "https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX"
+          "name": "Pyura",
+          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
+        },
+        {
+          "name": "Plastilina",
+          "url": "https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9"
         }
       ],
-      "duration_ms": 190742,
-      "name": "dionysian",
-      "url": "https://open.spotify.com/track/7ekJZZ50aVhYWW1TW4OZBP"
+      "duration_ms": 273056,
+      "name": "Cuando la Luna Caiga",
+      "url": "https://open.spotify.com/track/4kbQVab7ftejREWGo8ebUi"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -775,6 +759,22 @@
       "duration_ms": 228000,
       "name": "El Im\u00e1n - Remix",
       "url": "https://open.spotify.com/track/2eIGZkPBrCJ4VhqdgaXXV3"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
+        "name": "dionysian",
+        "url": "https://open.spotify.com/album/5CVy40cgzPpI1nhOSxx2Iz"
+      },
+      "artists": [
+        {
+          "name": "wiranda johansen",
+          "url": "https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX"
+        }
+      ],
+      "duration_ms": 190742,
+      "name": "dionysian",
+      "url": "https://open.spotify.com/track/7ekJZZ50aVhYWW1TW4OZBP"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Nueva forma",
-        "url": "https://open.spotify.com/album/5pHns47VudPY5LcyMZHCrF"
-      },
-      "artists": [
-        {
-          "name": "Eve Calletti",
-          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Nueva forma",
-      "url": "https://open.spotify.com/track/0TDG3IR0swgn5RJuIR5c7f"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
         "name": "Ojos De Fuego (Sinego Remix)",
         "url": "https://open.spotify.com/album/3CmRZMXi7a6xg6wzqrBDZd"
       },
@@ -859,42 +843,18 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Como Bailan los Dem\u00e1s (Lado B)",
-        "url": "https://open.spotify.com/album/3h1RcDzHM2L9dNb4MiI8Yk"
+        "name": "Nueva forma",
+        "url": "https://open.spotify.com/album/5pHns47VudPY5LcyMZHCrF"
       },
       "artists": [
         {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
-        },
-        {
-          "name": "Mec\u00e1nico",
-          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
+          "name": "Eve Calletti",
+          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
         }
       ],
-      "duration_ms": 208278,
-      "name": "Luminosidad - Remix",
-      "url": "https://open.spotify.com/track/6tru6R1Ubz11tHFIjdk4rs"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
-        "name": "Matanza",
-        "url": "https://open.spotify.com/album/2Z3FuttHLhctiaxUx0Nyi3"
-      },
-      "artists": [
-        {
-          "name": "Laika Perra Rusa",
-          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
-        },
-        {
-          "name": "FERMIN",
-          "url": "https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz"
-        }
-      ],
-      "duration_ms": 249148,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/19yOR2e7WHQPtyoMwP4Ar4"
+      "duration_ms": 194000,
+      "name": "Nueva forma",
+      "url": "https://open.spotify.com/track/0TDG3IR0swgn5RJuIR5c7f"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -919,6 +879,42 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
+        "name": "Matanza",
+        "url": "https://open.spotify.com/album/2Z3FuttHLhctiaxUx0Nyi3"
+      },
+      "artists": [
+        {
+          "name": "Laika Perra Rusa",
+          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
+        },
+        {
+          "name": "FERMIN",
+          "url": "https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz"
+        }
+      ],
+      "duration_ms": 249148,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/19yOR2e7WHQPtyoMwP4Ar4"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
+        "name": "Consenso",
+        "url": "https://open.spotify.com/album/4T60wxy6eR4IhvCX30lu6j"
+      },
+      "artists": [
+        {
+          "name": "Colayuta",
+          "url": "https://open.spotify.com/artist/7FayVmhZEu2ewzGQdIH0yt"
+        }
+      ],
+      "duration_ms": 219895,
+      "name": "Consenso",
+      "url": "https://open.spotify.com/track/1DE9EKIIPydoe64TLzWvKV"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
         "name": "Bajo la piel",
         "url": "https://open.spotify.com/album/06KYlFtTKi0XoT444EMjDM"
       },
@@ -939,18 +935,22 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Consenso",
-        "url": "https://open.spotify.com/album/4T60wxy6eR4IhvCX30lu6j"
+        "name": "Como Bailan los Dem\u00e1s (Lado B)",
+        "url": "https://open.spotify.com/album/3h1RcDzHM2L9dNb4MiI8Yk"
       },
       "artists": [
         {
-          "name": "Colayuta",
-          "url": "https://open.spotify.com/artist/7FayVmhZEu2ewzGQdIH0yt"
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+        },
+        {
+          "name": "Mec\u00e1nico",
+          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
         }
       ],
-      "duration_ms": 219895,
-      "name": "Consenso",
-      "url": "https://open.spotify.com/track/1DE9EKIIPydoe64TLzWvKV"
+      "duration_ms": 208278,
+      "name": "Luminosidad - Remix",
+      "url": "https://open.spotify.com/track/6tru6R1Ubz11tHFIjdk4rs"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -987,6 +987,22 @@
       "duration_ms": 201601,
       "name": "Ficci\u00f3n",
       "url": "https://open.spotify.com/track/19ql2PoaEn31alAgeIpsp1"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
+        "name": "He fakin loves me!",
+        "url": "https://open.spotify.com/album/2hQjdV56JcnFQmW6URFkDA"
+      },
+      "artists": [
+        {
+          "name": "Vera Frod",
+          "url": "https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX"
+        }
+      ],
+      "duration_ms": 171139,
+      "name": "He fakin loves me!",
+      "url": "https://open.spotify.com/track/6b7gmH9nE2RjN0jjGt1rMr"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1155,22 +1171,6 @@
       "duration_ms": 313608,
       "name": "No Ves Tal Vez - Evlay Remix",
       "url": "https://open.spotify.com/track/6u9UrHLwwM51a69QUN9xcF"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
-        "name": "He fakin loves me!",
-        "url": "https://open.spotify.com/album/2hQjdV56JcnFQmW6URFkDA"
-      },
-      "artists": [
-        {
-          "name": "Vera Frod",
-          "url": "https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX"
-        }
-      ],
-      "duration_ms": 171139,
-      "name": "He fakin loves me!",
-      "url": "https://open.spotify.com/track/6b7gmH9nE2RjN0jjGt1rMr"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Vitamina",
-        "url": "https://open.spotify.com/album/5c73YlnTK0mZ5AvZORvlaz"
+        "name": "Carmes\u00ed",
+        "url": "https://open.spotify.com/album/79Lk7RVCEpU0PJXzp5A0Iz"
       },
       "artists": [
         {
-          "name": "FRANSIA",
-          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
+          "name": "MARTE",
+          "url": "https://open.spotify.com/artist/18ZiM1zKj24fJxeFM4UDlg"
         }
       ],
-      "duration_ms": 249000,
-      "name": "Vitamina",
-      "url": "https://open.spotify.com/track/0qEUsh0UxL1gJEerlSz4mS"
+      "duration_ms": 254583,
+      "name": "Carmes\u00ed",
+      "url": "https://open.spotify.com/track/1LdKISORlAZuiuoMxW91FL"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Carmes\u00ed",
-        "url": "https://open.spotify.com/album/79Lk7RVCEpU0PJXzp5A0Iz"
+        "name": "Vitamina",
+        "url": "https://open.spotify.com/album/5c73YlnTK0mZ5AvZORvlaz"
       },
       "artists": [
         {
-          "name": "MARTE",
-          "url": "https://open.spotify.com/artist/18ZiM1zKj24fJxeFM4UDlg"
+          "name": "FRANSIA",
+          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
         }
       ],
-      "duration_ms": 254583,
-      "name": "Carmes\u00ed",
-      "url": "https://open.spotify.com/track/1LdKISORlAZuiuoMxW91FL"
+      "duration_ms": 249000,
+      "name": "Vitamina",
+      "url": "https://open.spotify.com/track/0qEUsh0UxL1gJEerlSz4mS"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "D\u00eda de Noche (B-Sides & Remixes)",
-        "url": "https://open.spotify.com/album/6tFUBLjxQqJR3fGu37slBK"
-      },
-      "artists": [
-        {
-          "name": "Juan Baro",
-          "url": "https://open.spotify.com/artist/4Qt3SF0nE9YaCDhnX2EnaI"
-        }
-      ],
-      "duration_ms": 307000,
-      "name": "Zorzal",
-      "url": "https://open.spotify.com/track/0RAOM6kK0uMBQn6NFlx1qQ"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
         "name": "Debilidad",
         "url": "https://open.spotify.com/album/21pyXWvMYZ6OALRRsAt6IP"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 187826,
       "name": "fotos\u00edntesis",
       "url": "https://open.spotify.com/track/6Z161cZhRgJLlmdyLoWyBd"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
+        "name": "D\u00eda de Noche (B-Sides & Remixes)",
+        "url": "https://open.spotify.com/album/6tFUBLjxQqJR3fGu37slBK"
+      },
+      "artists": [
+        {
+          "name": "Juan Baro",
+          "url": "https://open.spotify.com/artist/4Qt3SF0nE9YaCDhnX2EnaI"
+        }
+      ],
+      "duration_ms": 307000,
+      "name": "Zorzal",
+      "url": "https://open.spotify.com/track/0RAOM6kK0uMBQn6NFlx1qQ"
     },
     {
       "added_at": "2024-06-14 03:00:00",

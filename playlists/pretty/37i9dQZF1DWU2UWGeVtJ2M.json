@@ -1,6 +1,6 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 159244,
+  "num_followers": 159267,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-06-09 16:00:00",
       "album": {
-        "name": "The Slow Rush B-Sides & Remixes",
-        "url": "https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 238320,
-      "name": "The Boat I Row",
-      "url": "https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV"
-    },
-    {
-      "added_at": "2024-06-09 16:00:00",
-      "album": {
         "name": "Wish I Was Better",
         "url": "https://open.spotify.com/album/0dbCEm3gL91TgF2Gihuexr"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 140571,
       "name": "Wish I Was Better",
       "url": "https://open.spotify.com/track/1kAkUHFb7ryeVkVSRD6Nkj"
+    },
+    {
+      "added_at": "2024-06-09 16:00:00",
+      "album": {
+        "name": "The Slow Rush B-Sides & Remixes",
+        "url": "https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 238320,
+      "name": "The Boat I Row",
+      "url": "https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV"
     },
     {
       "added_at": "2024-06-09 16:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-06-09 16:00:00",
       "album": {
-        "name": "I Wouldn't Know Any Better Than You",
-        "url": "https://open.spotify.com/album/1D9mUrKwbTyaurp4Y72NEj"
-      },
-      "artists": [
-        {
-          "name": "Gentle Bones",
-          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
-        }
-      ],
-      "duration_ms": 151041,
-      "name": "I Wouldn't Know Any Better Than You",
-      "url": "https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC"
-    },
-    {
-      "added_at": "2024-06-09 16:00:00",
-      "album": {
         "name": "Live or Die",
         "url": "https://open.spotify.com/album/2HwsBLoqCa1vUDwKU3km72"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 194253,
       "name": "Live or Die",
       "url": "https://open.spotify.com/track/0OiXVxQHUFxvYxQew4xyhD"
+    },
+    {
+      "added_at": "2024-06-09 16:00:00",
+      "album": {
+        "name": "I Wouldn't Know Any Better Than You",
+        "url": "https://open.spotify.com/album/1D9mUrKwbTyaurp4Y72NEj"
+      },
+      "artists": [
+        {
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        }
+      ],
+      "duration_ms": 151041,
+      "name": "I Wouldn't Know Any Better Than You",
+      "url": "https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC"
     },
     {
       "added_at": "2024-06-09 16:00:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-06-09 16:00:00",
       "album": {
+        "name": "Amniotic (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0t4Ik0UYACGKrHBQ74S3U7"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "duration_ms": 274138,
+      "name": "Outgrown",
+      "url": "https://open.spotify.com/track/4FhHveCp4LekuCDGPJxAhp"
+    },
+    {
+      "added_at": "2024-06-09 16:00:00",
+      "album": {
         "name": "It's Not This",
         "url": "https://open.spotify.com/album/5XbxaUEQQ7jTJ5zBa19pjY"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 190769,
       "name": "It's Not This",
       "url": "https://open.spotify.com/track/12ZC7GrMQNo6xXJdN89d8P"
-    },
-    {
-      "added_at": "2024-06-09 16:00:00",
-      "album": {
-        "name": "Amniotic (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0t4Ik0UYACGKrHBQ74S3U7"
-      },
-      "artists": [
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        }
-      ],
-      "duration_ms": 274138,
-      "name": "Outgrown",
-      "url": "https://open.spotify.com/track/4FhHveCp4LekuCDGPJxAhp"
     },
     {
       "added_at": "2024-06-09 16:00:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2024-06-09 16:00:00",
       "album": {
+        "name": "Oasis Sky",
+        "url": "https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10"
+      },
+      "artists": [
+        {
+          "name": "Tor",
+          "url": "https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG"
+        }
+      ],
+      "duration_ms": 202991,
+      "name": "Inkeri",
+      "url": "https://open.spotify.com/track/18Xjl0R0TfUwJYIKOu9pCg"
+    },
+    {
+      "added_at": "2024-06-09 16:00:00",
+      "album": {
         "name": "Tides",
         "url": "https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 226146,
       "name": "Tides",
       "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
-    },
-    {
-      "added_at": "2024-06-09 16:00:00",
-      "album": {
-        "name": "Oasis Sky",
-        "url": "https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10"
-      },
-      "artists": [
-        {
-          "name": "Tor",
-          "url": "https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG"
-        }
-      ],
-      "duration_ms": 202991,
-      "name": "Inkeri",
-      "url": "https://open.spotify.com/track/18Xjl0R0TfUwJYIKOu9pCg"
     },
     {
       "added_at": "2024-06-09 16:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-06-09 16:00:00",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
-      },
-      "artists": [
-        {
-          "name": "GANGGA",
-          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
-        }
-      ],
-      "duration_ms": 253927,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
-    },
-    {
-      "added_at": "2024-06-09 16:00:00",
-      "album": {
         "name": "Firebabe",
         "url": "https://open.spotify.com/album/4VKvqrfZFcNM28kXsbTwcz"
       },
@@ -915,6 +899,22 @@
     {
       "added_at": "2024-06-09 16:00:00",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
+      },
+      "artists": [
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        }
+      ],
+      "duration_ms": 253927,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
+    },
+    {
+      "added_at": "2024-06-09 16:00:00",
+      "album": {
         "name": "Gone 2 Long",
         "url": "https://open.spotify.com/album/7qMx6YrIMl5XjjZLRyR9OZ"
       },
@@ -927,22 +927,6 @@
       "duration_ms": 195013,
       "name": "Gone 2 Long",
       "url": "https://open.spotify.com/track/0V6p1at8MSW6WEhSp5EzVG"
-    },
-    {
-      "added_at": "2024-06-09 16:00:00",
-      "album": {
-        "name": "Wave002",
-        "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        }
-      ],
-      "duration_ms": 167766,
-      "name": "Free Form",
-      "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
     },
     {
       "added_at": "2024-06-09 16:00:00",
@@ -963,6 +947,22 @@
       "duration_ms": 215999,
       "name": "Cheap Vacations (feat. Glassface)",
       "url": "https://open.spotify.com/track/7fGmx2dHgPwynQrfwPMemP"
+    },
+    {
+      "added_at": "2024-06-09 16:00:00",
+      "album": {
+        "name": "Wave002",
+        "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        }
+      ],
+      "duration_ms": 167766,
+      "name": "Free Form",
+      "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
     },
     {
       "added_at": "2024-06-09 16:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-06-09 16:00:00",
       "album": {
-        "name": "Maybe Baby",
-        "url": "https://open.spotify.com/album/0kwjPVEuW7YoMpeDCpd5Nw"
-      },
-      "artists": [
-        {
-          "name": "Sade Susanto",
-          "url": "https://open.spotify.com/artist/1yYhzl7KYtjfeMFqmocPt3"
-        }
-      ],
-      "duration_ms": 158675,
-      "name": "Maybe Baby",
-      "url": "https://open.spotify.com/track/2HltyHR6c797UOdw42knuC"
-    },
-    {
-      "added_at": "2024-06-09 16:00:00",
-      "album": {
         "name": "All That Matters",
         "url": "https://open.spotify.com/album/1XnXnyKWqThDzrNWn3TmWo"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 208421,
       "name": "All That Matters",
       "url": "https://open.spotify.com/track/2KyIlex21vkmh0yQaKSmuY"
+    },
+    {
+      "added_at": "2024-06-09 16:00:00",
+      "album": {
+        "name": "Maybe Baby",
+        "url": "https://open.spotify.com/album/0kwjPVEuW7YoMpeDCpd5Nw"
+      },
+      "artists": [
+        {
+          "name": "Sade Susanto",
+          "url": "https://open.spotify.com/artist/1yYhzl7KYtjfeMFqmocPt3"
+        }
+      ],
+      "duration_ms": 158675,
+      "name": "Maybe Baby",
+      "url": "https://open.spotify.com/track/2HltyHR6c797UOdw42knuC"
     },
     {
       "added_at": "2024-06-09 16:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-06-09 16:00:00",
       "album": {
-        "name": "Headspace",
-        "url": "https://open.spotify.com/album/1jydzncxz7Doio6O1OccUv"
-      },
-      "artists": [
-        {
-          "name": "liesl-mae",
-          "url": "https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0"
-        }
-      ],
-      "duration_ms": 187131,
-      "name": "Headspace",
-      "url": "https://open.spotify.com/track/734yyCxl7ZrRPTnRqbjB4q"
-    },
-    {
-      "added_at": "2024-06-09 16:00:00",
-      "album": {
         "name": "Easy (feat. 6LACK)",
         "url": "https://open.spotify.com/album/3EZ0ulSjw5p5jX7od6ASxb"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 204454,
       "name": "Easy (feat. 6LACK)",
       "url": "https://open.spotify.com/track/5iBO5vBRL92ytdwgZCjydX"
+    },
+    {
+      "added_at": "2024-06-09 16:00:00",
+      "album": {
+        "name": "Headspace",
+        "url": "https://open.spotify.com/album/1jydzncxz7Doio6O1OccUv"
+      },
+      "artists": [
+        {
+          "name": "liesl-mae",
+          "url": "https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0"
+        }
+      ],
+      "duration_ms": 187131,
+      "name": "Headspace",
+      "url": "https://open.spotify.com/track/734yyCxl7ZrRPTnRqbjB4q"
     },
     {
       "added_at": "2024-06-09 16:00:00",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-06-09 16:00:00",
       "album": {
+        "name": "Ambivalence",
+        "url": "https://open.spotify.com/album/4llC8Vtw8LtJ5HWzVpb1fd"
+      },
+      "artists": [
+        {
+          "name": "FLORA",
+          "url": "https://open.spotify.com/artist/0e6x6jekPEsRu9blCb1MWZ"
+        }
+      ],
+      "duration_ms": 225422,
+      "name": "April Smile",
+      "url": "https://open.spotify.com/track/4rhTbLNVEHvSENW3KWuHTX"
+    },
+    {
+      "added_at": "2024-06-09 16:00:00",
+      "album": {
         "name": "NOT TOO DEEP (feat. 6LACK)",
         "url": "https://open.spotify.com/album/7vunoY8kfwitFWcNaPzqNj"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 288412,
       "name": "NOT TOO DEEP (feat. 6LACK)",
       "url": "https://open.spotify.com/track/2u925ft5mxwxYLhMQ7Sr72"
-    },
-    {
-      "added_at": "2024-06-09 16:00:00",
-      "album": {
-        "name": "Ambivalence",
-        "url": "https://open.spotify.com/album/4llC8Vtw8LtJ5HWzVpb1fd"
-      },
-      "artists": [
-        {
-          "name": "FLORA",
-          "url": "https://open.spotify.com/artist/0e6x6jekPEsRu9blCb1MWZ"
-        }
-      ],
-      "duration_ms": 225422,
-      "name": "April Smile",
-      "url": "https://open.spotify.com/track/4rhTbLNVEHvSENW3KWuHTX"
     },
     {
       "added_at": "2024-06-09 16:00:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-06-09 16:00:00",
       "album": {
-        "name": "leave before u do",
-        "url": "https://open.spotify.com/album/4uA3nI3mp0ofapmuDqfPSh"
-      },
-      "artists": [
-        {
-          "name": "\u7fc1\u9756\u582fyao",
-          "url": "https://open.spotify.com/artist/6i8TiylkUFKqXajJM69a7N"
-        }
-      ],
-      "duration_ms": 182115,
-      "name": "leave before u do",
-      "url": "https://open.spotify.com/track/7N0GPgqYKeHZAHF9xdUEOJ"
-    },
-    {
-      "added_at": "2024-06-09 16:00:00",
-      "album": {
         "name": "Cinema",
         "url": "https://open.spotify.com/album/0T57uRN9WnBm3J5V0qA4M9"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 179523,
       "name": "Cinema",
       "url": "https://open.spotify.com/track/6ejBx2l9eJr5n1V7t0WpCC"
+    },
+    {
+      "added_at": "2024-06-09 16:00:00",
+      "album": {
+        "name": "leave before u do",
+        "url": "https://open.spotify.com/album/4uA3nI3mp0ofapmuDqfPSh"
+      },
+      "artists": [
+        {
+          "name": "\u7fc1\u9756\u582fyao",
+          "url": "https://open.spotify.com/artist/6i8TiylkUFKqXajJM69a7N"
+        }
+      ],
+      "duration_ms": 182115,
+      "name": "leave before u do",
+      "url": "https://open.spotify.com/track/7N0GPgqYKeHZAHF9xdUEOJ"
     },
     {
       "added_at": "2024-06-09 16:00:00",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2024-06-09 16:00:00",
       "album": {
-        "name": "Broken",
-        "url": "https://open.spotify.com/album/7gwLwpXQ7r8EJO8SCwyqlC"
-      },
-      "artists": [
-        {
-          "name": "Lund",
-          "url": "https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR"
-        }
-      ],
-      "duration_ms": 200597,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/1bfYB96c5U7eoCT5O9lVLN"
-    },
-    {
-      "added_at": "2024-06-09 16:00:00",
-      "album": {
         "name": "Thursday",
         "url": "https://open.spotify.com/album/0bUXmso9cdsN763cc4Ol2u"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 229200,
       "name": "Thursday",
       "url": "https://open.spotify.com/track/0B2Ujrs9t4c1XvNzrECwLt"
+    },
+    {
+      "added_at": "2024-06-09 16:00:00",
+      "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/7gwLwpXQ7r8EJO8SCwyqlC"
+      },
+      "artists": [
+        {
+          "name": "Lund",
+          "url": "https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR"
+        }
+      ],
+      "duration_ms": 200597,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/1bfYB96c5U7eoCT5O9lVLN"
     },
     {
       "added_at": "2024-06-09 16:00:00",

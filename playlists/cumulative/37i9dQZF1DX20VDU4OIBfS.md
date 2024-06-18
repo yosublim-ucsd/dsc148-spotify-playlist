@@ -4,7 +4,7 @@
 
 > Temas inolvidables del baúl de los recuerdos.
 
-387 songs - 1 day 0 hr 28 min
+388 songs - 1 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [El Gato Que Está Triste y Azul \- Un Gato Nel Blu](https://open.spotify.com/track/0X1XgxtHG9hULAw296CCgz) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [El Arte De Roberto Carlos](https://open.spotify.com/album/37tQCsC8s4sNLCEDG9hGvC) | 3:52 | 2022-01-01 |  |
 | [El Hombre Que Yo Amo](https://open.spotify.com/track/4NmCycJdUGK0q5kBMXjDOY) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Yo Sé Que Te Acordarás Pop Latino \(Vol\. 2\)](https://open.spotify.com/album/49xdM2Df9KmzztftNI3t4v) | 3:32 | 2022-01-01 | 2022-07-29 |
 | [El Hombre Que Yo Amo](https://open.spotify.com/track/5OtonpNWhoAw9z3wRwM2TC) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Todo Lo Mio](https://open.spotify.com/album/1mNEGTs66AF3EPnXcFTOzb) | 3:33 | 2022-08-31 | 2023-12-10 |
+| [El Loco \(with Javier Solís\)](https://open.spotify.com/track/0CFTtVmYOGxriJj1NtPoTW) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz), [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Dos Idolos Cantando](https://open.spotify.com/album/34xJsekBz5oh2dgmc0tAfy) | 2:52 | 2024-06-04 |  |
 | [El Me Mintio](https://open.spotify.com/track/67bbc4lUkhTtDrcu5gv1uN) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [El Sonido Vol I](https://open.spotify.com/album/1NKOp3Ct4RzmSGIApAKkS6) | 3:39 | 2022-01-01 | 2022-07-29 |
 | [El Muchacho de los Ojos Tristes](https://open.spotify.com/track/41JBXtssxYuLMyiBwwlnY6) | [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [Originales \- 20 Exitos](https://open.spotify.com/album/5xaZwiFGYT273Zk40sen9o) | 3:27 | 2022-06-02 | 2024-05-07 |
 | [El Noa Noa](https://open.spotify.com/track/5CgG9QML3GDyMss6bAMjY1) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Los 15 Grandes Exitos De Juan Gabriel](https://open.spotify.com/album/6bcTRuDsKIe58Z0aYIUyNi) | 4:19 | 2022-01-01 | 2022-07-29 |
@@ -127,7 +128,7 @@
 | [El Reloj](https://open.spotify.com/track/0kYclTHk8XBkFpkm9qmawX) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Los 50 Mejores Boleros](https://open.spotify.com/album/3H3gELlMncLEG4Jno807Po) | 2:37 | 2022-01-01 | 2022-06-08 |
 | [El Rey](https://open.spotify.com/track/6P3dT8EkJd0LOyZklOl0Na) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Idolo De Mexico](https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru) | 2:37 | 2022-06-02 |  |
 | [El Triste](https://open.spotify.com/track/1YICQeq7s1Q2QmaOU1CxwS) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Jose Jose 25 Años Vol\. 1](https://open.spotify.com/album/3oE5yCMIq1LK8AfCmZlokU) | 4:11 | 2022-01-01 | 2022-11-14 |
-| [El último beso \- The Last Kiss](https://open.spotify.com/track/0XrGUM48yLYhS13v4NsGuj) | [Polo](https://open.spotify.com/artist/4tiGY5k0vmyz1eLLppihMk) | [El Ultimo Beso](https://open.spotify.com/album/4gUAghEji9OTewhzSEUZBo) | 2:42 | 2022-01-01 |  |
+| [El último beso \- The Last Kiss](https://open.spotify.com/track/0XrGUM48yLYhS13v4NsGuj) | [Polo](https://open.spotify.com/artist/4tiGY5k0vmyz1eLLppihMk) | [El Ultimo Beso](https://open.spotify.com/album/4gUAghEji9OTewhzSEUZBo) | 2:42 | 2022-01-01 | 2024-06-18 |
 | [Ella...Ella Ya Me Olvidó, Yo la Recuerdo Ahora](https://open.spotify.com/track/5xTgIHN7yEmuOjsC1toYJq) | [Leonardo Favio](https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq) | [Baladas De Amor](https://open.spotify.com/album/3UAIOag0j4RpnVWBJzmw0h) | 3:42 | 2022-01-01 |  |
 | [Enamorada y Herida](https://open.spotify.com/track/31BsrpQphP6KiRXjvJix5R) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [Completamente Tuya](https://open.spotify.com/album/5vN1tVAL4qBWurY8UHah7g) | 3:27 | 2022-06-02 | 2024-04-19 |
 | [Enamorada y Herida](https://open.spotify.com/track/6jpNvKy9tt6muQvg2tkRfL) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [15 Éxitos de Marisela, Vol\. 1](https://open.spotify.com/album/2B1GpojNJLNPUg75CLCb20) | 3:30 | 2022-01-01 | 2022-07-29 |

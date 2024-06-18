@@ -4,7 +4,7 @@
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: NAYEON\(나연\)\)
 
-342 songs - 18 hr 48 min
+343 songs - 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Bon voyage](https://open.spotify.com/track/4X95Ecd1elHxTccGOko02c) | [YooA](https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ) | [Bon Voyage](https://open.spotify.com/album/2dFsfVOAwvmRV8hOBdssiI) | 3:39 | 2021-11-17 |  |
 | [Boogie Up](https://open.spotify.com/track/6u5ipVfAHGjTXvWuiI5sKB) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [SPECIAL ALBUM <For the Summer>](https://open.spotify.com/album/53gncm4YYhGNfqgPWSgXbJ) | 3:03 | 2021-11-17 |  |
 | [Boogie Woogie](https://open.spotify.com/track/354txxGRPRqIHqPcSvibQP) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [Boogie Woogie](https://open.spotify.com/album/0uK36l0cCAoyopQr6vVJEs) | 3:10 | 2022-08-18 | 2023-07-02 |
+| [Boom Boom Bass](https://open.spotify.com/track/2J194R0KIKbK7bTHfUHPDB) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING \- The 1st Mini Album](https://open.spotify.com/album/23TA2tnqYnphv1MKkiS6x2) | 2:32 | 2024-06-17 |  |
 | [BOP BOP! \- Highteen Version](https://open.spotify.com/track/491J2YuRjghqBNNunxzXLg) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [<Queendom2> FANtastic QUEENDOM 1\-1](https://open.spotify.com/album/7fFl1TABviXjPPBEdCOwqw) | 4:03 | 2022-06-08 | 2022-08-30 |
 | [Break Ice](https://open.spotify.com/track/4iEeJKOE5zjsRbWBGkj9lS) | [Second Aunt KimDaVi](https://open.spotify.com/artist/2XrCYhwuq6x15QFddD1gQv), [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Break Ice](https://open.spotify.com/album/3OzSEoUPp5sNGtzXftotKm) | 2:56 | 2021-11-17 | 2022-08-13 |
 | [Bubble Gum](https://open.spotify.com/track/19D8LNpWwIPpi6hs9BG7dq) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:20 | 2024-06-05 |  |
@@ -226,7 +227,7 @@
 | [NOT THE END](https://open.spotify.com/track/3VSA53dOtVkhwyJ0nsAnRt) | [HIGHLIGHT](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [The Blowing](https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC) | 3:38 | 2021-11-17 |  |
 | [Now or Never](https://open.spotify.com/track/1FNZqjmqkJgE5Bn8BAzZGt) | [APRIL](https://open.spotify.com/artist/4cJ99wTjC60pXcfyISL9fa) | [APRIL Summer Special Album ‘Hello Summer’](https://open.spotify.com/album/3LxHIjDaVAwzkagYX3dShh) | 3:31 | 2021-11-17 | 2022-07-25 |
 | [Now or Never](https://open.spotify.com/track/6oygMvl93dCA3xOJqT50m5) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Call My Name](https://open.spotify.com/album/76B3bEVEuCnZTkwhOXdjmg) | 3:05 | 2021-11-17 | 2022-07-26 |
-| [OCEAN VIEW \(Feat.CHANYEOL\)](https://open.spotify.com/track/5f8pHuUR6958PQKIdLibdB) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una), [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5) | [OCEAN VIEW](https://open.spotify.com/album/0w40fqHApJ1JrxddGs9wcF) | 3:07 | 2021-11-17 |  |
+| [OCEAN VIEW \(Feat.CHANYEOL\)](https://open.spotify.com/track/5f8pHuUR6958PQKIdLibdB) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una), [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5) | [OCEAN VIEW](https://open.spotify.com/album/0w40fqHApJ1JrxddGs9wcF) | 3:07 | 2021-11-17 | 2024-06-18 |
 | [OH YA YA YA](https://open.spotify.com/track/4zoQaQd0smo3LbyyfSBBfm) | [LUNARSOLAR](https://open.spotify.com/artist/64XtE3KrOhSYaS3dX04kI1) | [SOLAR : flare](https://open.spotify.com/album/61V200A41BxgDAvuiycVxc) | 3:00 | 2021-11-17 | 2022-06-15 |
 | [Once In a Summer \(feat\. Ashley Alisha & Kelsey Kuan\)](https://open.spotify.com/track/5O0ug2pQVceJN72y7Flsbn) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [Once In a Summer](https://open.spotify.com/album/7mieRQVDslmslEystozZ0t) | 3:20 | 2022-07-27 | 2022-07-29 |
 | [Ondo \(with LeeHi\)](https://open.spotify.com/track/4FODqQZ3lvhqmSWAKXPjhY) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Skyline](https://open.spotify.com/album/3SjIA2SL9WUDf8skobvjwE) | 4:03 | 2022-07-22 | 2022-07-28 |

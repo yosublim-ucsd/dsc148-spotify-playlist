@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 166714,
       "name": "1 MINUTE",
       "url": "https://open.spotify.com/track/7ipFjqnvmBz8t6NBJwWiTS"
@@ -554,7 +554,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 198787,
       "name": "Arms Around Me",
       "url": "https://open.spotify.com/track/7vC4gn4BrdLPQDjNYMBMTO"
@@ -1610,7 +1610,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 208946,
       "name": "Delicate dawn (feat. 1ho & mabinc)",
       "url": "https://open.spotify.com/track/3y1rYTVWOOVS5HD12LG09x"
@@ -3622,7 +3622,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 190000,
       "name": "Like A Movie (feat. Yoon Da Hye)",
       "url": "https://open.spotify.com/track/0mFnFLBINP6wZCdloosrTF"
@@ -4987,6 +4987,28 @@
     },
     {
       "album": {
+        "name": "dopamine",
+        "url": "https://open.spotify.com/album/7FOdOoz6j0vcY8UlIbft76"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        },
+        {
+          "name": "BOBBY",
+          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194493,
+      "name": "RUSH (ft. BOBBY)",
+      "url": "https://open.spotify.com/track/7LK5puNRuxmPiZNzOS1iM6"
+    },
+    {
+      "album": {
         "name": "Rust (feat. Rico)",
         "url": "https://open.spotify.com/album/6IifE3wcI8uxFaOrU21Hvr"
       },
@@ -5064,6 +5086,24 @@
       "duration_ms": 185186,
       "name": "Saturn",
       "url": "https://open.spotify.com/track/4pFWcq6v0hEYY65VaxpJiY"
+    },
+    {
+      "album": {
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/0FtfIPuIazFRQGTgl6vG4c"
+      },
+      "artists": [
+        {
+          "name": "MORE",
+          "url": "https://open.spotify.com/artist/3sG5lKhIKPneoceflZon1C"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152320,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/2Sicd3C7DWxRN9KXpDJVFc"
     },
     {
       "album": {
@@ -5223,6 +5263,28 @@
     },
     {
       "album": {
+        "name": "SLOWLY (Feat. g0nny)",
+        "url": "https://open.spotify.com/album/2Wb44G2nZPHVzdlce8gCdT"
+      },
+      "artists": [
+        {
+          "name": "CHANNEL 201",
+          "url": "https://open.spotify.com/artist/1kLaTi0lthkPxr7wPnvMTm"
+        },
+        {
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204600,
+      "name": "SLOWLY (Feat. g0nny)",
+      "url": "https://open.spotify.com/track/2RAMFRLHUFiTXywPA7yq6w"
+    },
+    {
+      "album": {
         "name": "Someday",
         "url": "https://open.spotify.com/album/2JNjZUP1C7eWQGR438w1ib"
       },
@@ -5238,7 +5300,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 178681,
       "name": "Someday (feat. LONE)",
       "url": "https://open.spotify.com/track/2vVZfbqv0mqqHp91uXXHIT"
@@ -5278,6 +5340,28 @@
       "duration_ms": 218360,
       "name": "something",
       "url": "https://open.spotify.com/track/52FF2xeetk0dWtEwUkeWk8"
+    },
+    {
+      "album": {
+        "name": "Sometimes (feat. blessed.)",
+        "url": "https://open.spotify.com/album/1Gx1NuB64DGPjaDb9jBKn5"
+      },
+      "artists": [
+        {
+          "name": "That",
+          "url": "https://open.spotify.com/artist/0XWHgRkMLtPTmrumiHhvTL"
+        },
+        {
+          "name": "[blessed.]",
+          "url": "https://open.spotify.com/artist/4JzV1vsTmvk3ZYQh5cSdX2"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164500,
+      "name": "Sometimes (feat. blessed.)",
+      "url": "https://open.spotify.com/track/7IyiHQNSqyVoaWF7V9YURH"
     },
     {
       "album": {
@@ -5354,7 +5438,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 189426,
       "name": "Spi-cy (feat. Soo-Yeony)",
       "url": "https://open.spotify.com/track/0UaFnYtyBYf1DX6oiVtG3n"
@@ -5394,7 +5478,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 173986,
       "name": "STAY",
       "url": "https://open.spotify.com/track/1dR5StkkOjZEXEgrC7AlVY"

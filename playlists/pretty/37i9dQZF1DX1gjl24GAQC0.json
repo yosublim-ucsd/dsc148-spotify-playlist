@@ -1,15 +1,47 @@
 {
-  "description": "Is it your favorite oppa or dongsaeng? (Cover:\bSUPER JUNIOR) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
-  "num_followers": 809150,
+  "description": "Is it your favorite oppa or dongsaeng? (Cover:\bJxW) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
+  "num_followers": 809342,
   "original_name": "Hallyu Boy Bands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmganQAAAADEnWctaP4etXiSQAJ7Ayi/",
+  "snapshot_id": "Zm/7EAAAAADsqEXqmjVRFTsir71CfK0e",
   "tracks": [
     {
-      "added_at": "2024-06-11 09:36:29",
+      "added_at": "2024-06-17 09:00:00",
+      "album": {
+        "name": "JxW 1st Single Album 'THIS MAN'",
+        "url": "https://open.spotify.com/album/6tMQKPiaYEnnq1h6G55AKN"
+      },
+      "artists": [
+        {
+          "name": "JxW",
+          "url": "https://open.spotify.com/artist/7GvlsjcgBrsE578yghOq7D"
+        }
+      ],
+      "duration_ms": 176960,
+      "name": "Last night (Guitar by Park Juwon)",
+      "url": "https://open.spotify.com/track/0Qh8dlEJ3jVWk57Ql6XrdS"
+    },
+    {
+      "added_at": "2024-06-17 09:00:00",
+      "album": {
+        "name": "RIIZING - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/23TA2tnqYnphv1MKkiS6x2"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "duration_ms": 152889,
+      "name": "Boom Boom Bass",
+      "url": "https://open.spotify.com/track/2J194R0KIKbK7bTHfUHPDB"
+    },
+    {
+      "added_at": "2024-06-17 09:00:00",
       "album": {
         "name": "Show Time",
         "url": "https://open.spotify.com/album/4uVWubQu7a4IjEv6B0n6R0"
@@ -25,39 +57,7 @@
       "url": "https://open.spotify.com/track/7hxN0o1cVf72nnyIJQw92u"
     },
     {
-      "added_at": "2024-06-11 09:36:29",
-      "album": {
-        "name": "You had me at HELLO",
-        "url": "https://open.spotify.com/album/1f7EBZExZ8wFWgacxTLDdM"
-      },
-      "artists": [
-        {
-          "name": "ZEROBASEONE",
-          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
-        }
-      ],
-      "duration_ms": 176191,
-      "name": "Feel the POP",
-      "url": "https://open.spotify.com/track/3JnaRKReO6TFGEdhggFWZG"
-    },
-    {
-      "added_at": "2024-06-11 09:36:29",
-      "album": {
-        "name": "DARK MOON SPECIAL ALBUM <MEMORABILIA>",
-        "url": "https://open.spotify.com/album/0OhJwEzXbK9Km6GQSPdmPU"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 170197,
-      "name": "Fatal Trouble",
-      "url": "https://open.spotify.com/track/6i1PYoUEMHqxAsAUKHkqpe"
-    },
-    {
-      "added_at": "2024-06-11 09:36:29",
+      "added_at": "2024-06-17 09:00:00",
       "album": {
         "name": "minisode 3: TOMORROW",
         "url": "https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/3aAnwyBJY9OLNLqSgd4fZU"
     },
     {
-      "added_at": "2024-06-11 09:36:29",
+      "added_at": "2024-06-17 09:00:00",
       "album": {
         "name": "SEVENTEEN BEST ALBUM '17 IS RIGHT HERE'",
         "url": "https://open.spotify.com/album/2Jrp37x38qZqtyrIrfxN4H"
@@ -89,7 +89,23 @@
       "url": "https://open.spotify.com/track/2UE9XGbAzicJIyo4bB6sqM"
     },
     {
-      "added_at": "2024-06-11 09:36:29",
+      "added_at": "2024-06-17 09:00:00",
+      "album": {
+        "name": "DARK BLOOD",
+        "url": "https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 157531,
+      "name": "Bite Me",
+      "url": "https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa"
+    },
+    {
+      "added_at": "2024-06-17 09:00:00",
       "album": {
         "name": "Proof",
         "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
@@ -105,7 +121,7 @@
       "url": "https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM"
     },
     {
-      "added_at": "2024-06-11 09:36:29",
+      "added_at": "2024-06-17 09:00:00",
       "album": {
         "name": "My Universe",
         "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
@@ -125,7 +141,7 @@
       "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
     },
     {
-      "added_at": "2024-06-11 09:36:29",
+      "added_at": "2024-06-17 09:00:00",
       "album": {
         "name": "TWS 1st Mini Album 'Sparkling Blue'",
         "url": "https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG"
@@ -141,7 +157,7 @@
       "url": "https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj"
     },
     {
-      "added_at": "2024-06-11 09:36:29",
+      "added_at": "2024-06-17 09:00:00",
       "album": {
         "name": "HOW?",
         "url": "https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V"
@@ -157,7 +173,7 @@
       "url": "https://open.spotify.com/track/0Tq7v8YAmwdnAYBwyR1pZ4"
     },
     {
-      "added_at": "2024-06-11 09:36:29",
+      "added_at": "2024-06-17 09:00:00",
       "album": {
         "name": "DREAM( )SCAPE",
         "url": "https://open.spotify.com/album/7aIpspBgbsrUgU7nWvz5sp"
@@ -173,7 +189,7 @@
       "url": "https://open.spotify.com/track/5qrFeNSIrwIc0B6Elp16Dl"
     },
     {
-      "added_at": "2024-06-11 09:36:29",
+      "added_at": "2024-06-17 09:00:00",
       "album": {
         "name": "THE WORLD EP.FIN : WILL",
         "url": "https://open.spotify.com/album/1r0F1EzzNOaJyB7U0Jp5RH"
@@ -189,39 +205,7 @@
       "url": "https://open.spotify.com/track/2KoeSRTm9cRulYnkaEyUaP"
     },
     {
-      "added_at": "2024-06-11 09:36:29",
-      "album": {
-        "name": "The Name Chapter: TEMPTATION",
-        "url": "https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 186570,
-      "name": "Sugar Rush Ride",
-      "url": "https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs"
-    },
-    {
-      "added_at": "2024-06-11 09:36:29",
-      "album": {
-        "name": "DARK BLOOD",
-        "url": "https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 157531,
-      "name": "Bite Me",
-      "url": "https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa"
-    },
-    {
-      "added_at": "2024-06-11 09:36:29",
+      "added_at": "2024-06-17 09:00:00",
       "album": {
         "name": "Take Two",
         "url": "https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k"
@@ -237,7 +221,23 @@
       "url": "https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz"
     },
     {
-      "added_at": "2024-06-11 09:36:29",
+      "added_at": "2024-06-17 09:00:00",
+      "album": {
+        "name": "DARK MOON SPECIAL ALBUM <MEMORABILIA>",
+        "url": "https://open.spotify.com/album/0OhJwEzXbK9Km6GQSPdmPU"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 170197,
+      "name": "Fatal Trouble",
+      "url": "https://open.spotify.com/track/6i1PYoUEMHqxAsAUKHkqpe"
+    },
+    {
+      "added_at": "2024-06-17 09:00:00",
       "album": {
         "name": "SEVENTEEN 4th Album 'Face the Sun'",
         "url": "https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht"
@@ -253,26 +253,10 @@
       "url": "https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd"
     },
     {
-      "added_at": "2024-06-11 09:36:29",
+      "added_at": "2024-06-17 09:00:00",
       "album": {
-        "name": "MAXIDENT",
-        "url": "https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 191964,
-      "name": "CASE 143",
-      "url": "https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq"
-    },
-    {
-      "added_at": "2024-06-11 09:36:29",
-      "album": {
-        "name": "The Name Chapter: FREEFALL",
-        "url": "https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3"
+        "name": "The Name Chapter: TEMPTATION",
+        "url": "https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg"
       },
       "artists": [
         {
@@ -280,12 +264,28 @@
           "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
         }
       ],
-      "duration_ms": 182670,
-      "name": "Chasing That Feeling",
-      "url": "https://open.spotify.com/track/0ZPjVmof45INEERgYfadtv"
+      "duration_ms": 186570,
+      "name": "Sugar Rush Ride",
+      "url": "https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs"
     },
     {
-      "added_at": "2024-06-11 09:36:29",
+      "added_at": "2024-06-17 09:00:00",
+      "album": {
+        "name": "You had me at HELLO",
+        "url": "https://open.spotify.com/album/1f7EBZExZ8wFWgacxTLDdM"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "duration_ms": 176191,
+      "name": "Feel the POP",
+      "url": "https://open.spotify.com/track/3JnaRKReO6TFGEdhggFWZG"
+    },
+    {
+      "added_at": "2024-06-17 09:00:00",
       "album": {
         "name": "THE WORLD EP.2 : OUTLAW",
         "url": "https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H"
@@ -301,7 +301,23 @@
       "url": "https://open.spotify.com/track/5KyOUICJIvO0z71MBdPGiX"
     },
     {
-      "added_at": "2024-06-11 09:36:29",
+      "added_at": "2024-06-17 09:00:00",
+      "album": {
+        "name": "MAXIDENT",
+        "url": "https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 191964,
+      "name": "CASE 143",
+      "url": "https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq"
+    },
+    {
+      "added_at": "2024-06-17 09:00:00",
       "album": {
         "name": "LOVE SHOT\u2013 The 5th Album Repackage",
         "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
@@ -317,55 +333,7 @@
       "url": "https://open.spotify.com/track/0yB4jrSwN0bFtFRDR5vyMj"
     },
     {
-      "added_at": "2024-06-11 09:36:29",
-      "album": {
-        "name": "Rover - The 3rd Mini Album",
-        "url": "https://open.spotify.com/album/5gzd4IZ9KTwW6Hhgll1K7U"
-      },
-      "artists": [
-        {
-          "name": "KAI",
-          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
-        }
-      ],
-      "duration_ms": 174506,
-      "name": "Rover",
-      "url": "https://open.spotify.com/track/3WUyu94psXrYV6HZbXgcFA"
-    },
-    {
-      "added_at": "2024-06-11 09:36:29",
-      "album": {
-        "name": "ORANGE BLOOD",
-        "url": "https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 148753,
-      "name": "Sweet Venom",
-      "url": "https://open.spotify.com/track/2YmfV4lAjrAQvuggKCUX6m"
-    },
-    {
-      "added_at": "2024-06-11 09:36:29",
-      "album": {
-        "name": "Get A Guitar",
-        "url": "https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k"
-      },
-      "artists": [
-        {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
-        }
-      ],
-      "duration_ms": 160371,
-      "name": "Get A Guitar",
-      "url": "https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0"
-    },
-    {
-      "added_at": "2024-06-11 09:36:29",
+      "added_at": "2024-06-17 09:00:00",
       "album": {
         "name": "Proof",
         "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
@@ -381,7 +349,87 @@
       "url": "https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ"
     },
     {
-      "added_at": "2024-06-11 09:36:29",
+      "added_at": "2024-06-17 09:00:00",
+      "album": {
+        "name": "Rover - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/5gzd4IZ9KTwW6Hhgll1K7U"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+        }
+      ],
+      "duration_ms": 174506,
+      "name": "Rover",
+      "url": "https://open.spotify.com/track/3WUyu94psXrYV6HZbXgcFA"
+    },
+    {
+      "added_at": "2024-06-17 09:00:00",
+      "album": {
+        "name": "ORANGE BLOOD",
+        "url": "https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 148753,
+      "name": "Sweet Venom",
+      "url": "https://open.spotify.com/track/2YmfV4lAjrAQvuggKCUX6m"
+    },
+    {
+      "added_at": "2024-06-17 09:00:00",
+      "album": {
+        "name": "Get A Guitar",
+        "url": "https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "duration_ms": 160371,
+      "name": "Get A Guitar",
+      "url": "https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0"
+    },
+    {
+      "added_at": "2024-06-17 09:00:00",
+      "album": {
+        "name": "SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN'",
+        "url": "https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 205133,
+      "name": "God of Music",
+      "url": "https://open.spotify.com/track/4MTNimMDRyFZv37Thcktwa"
+    },
+    {
+      "added_at": "2024-06-17 09:00:00",
+      "album": {
+        "name": "The Name Chapter: FREEFALL",
+        "url": "https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 182670,
+      "name": "Chasing That Feeling",
+      "url": "https://open.spotify.com/track/0ZPjVmof45INEERgYfadtv"
+    },
+    {
+      "added_at": "2024-06-17 09:00:00",
       "album": {
         "name": "TOO MUCH",
         "url": "https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR"
@@ -405,10 +453,74 @@
       "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
     },
     {
-      "added_at": "2024-06-11 09:36:29",
+      "added_at": "2024-06-17 09:00:00",
       "album": {
-        "name": "SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN'",
-        "url": "https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f"
+        "name": "THE SECOND STEP : CHAPTER ONE",
+        "url": "https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "duration_ms": 220716,
+      "name": "DARARI",
+      "url": "https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n"
+    },
+    {
+      "added_at": "2024-06-17 09:00:00",
+      "album": {
+        "name": "Killin' It",
+        "url": "https://open.spotify.com/album/7FbyxnCCfB4t8N8qwHrHi6"
+      },
+      "artists": [
+        {
+          "name": "P1Harmony",
+          "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
+        }
+      ],
+      "duration_ms": 176133,
+      "name": "Killin' It",
+      "url": "https://open.spotify.com/track/2E7qG81LXdZEfobhcrVm06"
+    },
+    {
+      "added_at": "2024-06-17 09:00:00",
+      "album": {
+        "name": "BORDER : CARNIVAL",
+        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 193260,
+      "name": "Drunk-Dazed",
+      "url": "https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4"
+    },
+    {
+      "added_at": "2024-06-17 09:00:00",
+      "album": {
+        "name": "Love 119",
+        "url": "https://open.spotify.com/album/4ZPRXMBmjip4Bqgjpd7tqn"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "duration_ms": 173489,
+      "name": "Love 119",
+      "url": "https://open.spotify.com/track/4ndxCrtl74lgOdF6Lz7bIq"
+    },
+    {
+      "added_at": "2024-06-17 09:00:00",
+      "album": {
+        "name": "SEVENTEEN 9th Mini Album 'Attacca'",
+        "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
       },
       "artists": [
         {
@@ -416,12 +528,44 @@
           "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
         }
       ],
-      "duration_ms": 205133,
-      "name": "God of Music",
-      "url": "https://open.spotify.com/track/4MTNimMDRyFZv37Thcktwa"
+      "duration_ms": 180360,
+      "name": "Rock with you",
+      "url": "https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy"
     },
     {
-      "added_at": "2024-06-11 09:36:29",
+      "added_at": "2024-06-17 09:00:00",
+      "album": {
+        "name": "Candy - Winter Special Mini Album",
+        "url": "https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "duration_ms": 217066,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/27bIik73QCu8Xzt3xpG1bI"
+    },
+    {
+      "added_at": "2024-06-17 09:00:00",
+      "album": {
+        "name": "Lovely Runner, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0QE675R5b1xhC2Lwn4vXsP"
+      },
+      "artists": [
+        {
+          "name": "N.Flying",
+          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
+        }
+      ],
+      "duration_ms": 218042,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/7uG8ZxJPQt6BMN0OE5sxYR"
+    },
+    {
+      "added_at": "2024-06-17 09:00:00",
       "album": {
         "name": "Back for More (with Anitta)",
         "url": "https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV"
@@ -441,7 +585,7 @@
       "url": "https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl"
     },
     {
-      "added_at": "2024-06-11 09:36:29",
+      "added_at": "2024-06-17 09:00:00",
       "album": {
         "name": "BORDER : CARNIVAL",
         "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
@@ -452,108 +596,12 @@
           "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         }
       ],
-      "duration_ms": 193260,
-      "name": "Drunk-Dazed",
-      "url": "https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4"
+      "duration_ms": 172106,
+      "name": "FEVER",
+      "url": "https://open.spotify.com/track/0UzymivvUH5s8z4PeWZJaK"
     },
     {
-      "added_at": "2024-06-11 09:36:29",
-      "album": {
-        "name": "THE SECOND STEP : CHAPTER ONE",
-        "url": "https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ"
-      },
-      "artists": [
-        {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
-        }
-      ],
-      "duration_ms": 220716,
-      "name": "DARARI",
-      "url": "https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n"
-    },
-    {
-      "added_at": "2024-06-11 09:36:29",
-      "album": {
-        "name": "Killin' It",
-        "url": "https://open.spotify.com/album/7FbyxnCCfB4t8N8qwHrHi6"
-      },
-      "artists": [
-        {
-          "name": "P1Harmony",
-          "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
-        }
-      ],
-      "duration_ms": 176133,
-      "name": "Killin' It",
-      "url": "https://open.spotify.com/track/2E7qG81LXdZEfobhcrVm06"
-    },
-    {
-      "added_at": "2024-06-11 09:36:29",
-      "album": {
-        "name": "Candy - Winter Special Mini Album",
-        "url": "https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        }
-      ],
-      "duration_ms": 217066,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/27bIik73QCu8Xzt3xpG1bI"
-    },
-    {
-      "added_at": "2024-06-11 09:36:29",
-      "album": {
-        "name": "Love 119",
-        "url": "https://open.spotify.com/album/4ZPRXMBmjip4Bqgjpd7tqn"
-      },
-      "artists": [
-        {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
-        }
-      ],
-      "duration_ms": 173489,
-      "name": "Love 119",
-      "url": "https://open.spotify.com/track/4ndxCrtl74lgOdF6Lz7bIq"
-    },
-    {
-      "added_at": "2024-06-11 09:36:29",
-      "album": {
-        "name": "SEVENTEEN 9th Mini Album 'Attacca'",
-        "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 180360,
-      "name": "Rock with you",
-      "url": "https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy"
-    },
-    {
-      "added_at": "2024-06-11 09:36:29",
-      "album": {
-        "name": "Lovely Runner, Pt. 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0QE675R5b1xhC2Lwn4vXsP"
-      },
-      "artists": [
-        {
-          "name": "N.Flying",
-          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
-        }
-      ],
-      "duration_ms": 218042,
-      "name": "Star",
-      "url": "https://open.spotify.com/track/7uG8ZxJPQt6BMN0OE5sxYR"
-    },
-    {
-      "added_at": "2024-06-11 09:36:29",
+      "added_at": "2024-06-17 09:00:00",
       "album": {
         "name": "Down to Earth",
         "url": "https://open.spotify.com/album/6q2v2FAOpb3Rk2avT7mxQS"
@@ -573,55 +621,7 @@
       "url": "https://open.spotify.com/track/0oJRiblEiQgTg2hRfnacIt"
     },
     {
-      "added_at": "2024-06-11 09:36:29",
-      "album": {
-        "name": "The Chaos Chapter: FIGHT OR ESCAPE",
-        "url": "https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 199919,
-      "name": "LO$ER=LO\u2661ER",
-      "url": "https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6"
-    },
-    {
-      "added_at": "2024-06-11 09:36:29",
-      "album": {
-        "name": "BORDER : CARNIVAL",
-        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 172106,
-      "name": "FEVER",
-      "url": "https://open.spotify.com/track/0UzymivvUH5s8z4PeWZJaK"
-    },
-    {
-      "added_at": "2024-06-11 09:36:29",
-      "album": {
-        "name": "Hot Sauce - The 1st Album",
-        "url": "https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        }
-      ],
-      "duration_ms": 195813,
-      "name": "Hot Sauce",
-      "url": "https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er"
-    },
-    {
-      "added_at": "2024-06-11 09:36:29",
+      "added_at": "2024-06-17 09:00:00",
       "album": {
         "name": "YOUTH IN THE SHADE",
         "url": "https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX"
@@ -637,7 +637,23 @@
       "url": "https://open.spotify.com/track/3F4lHPNHlvr3RpO4tpVOIs"
     },
     {
-      "added_at": "2024-06-11 09:36:29",
+      "added_at": "2024-06-17 09:00:00",
+      "album": {
+        "name": "Hot Sauce - The 1st Album",
+        "url": "https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "duration_ms": 195813,
+      "name": "Hot Sauce",
+      "url": "https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er"
+    },
+    {
+      "added_at": "2024-06-17 09:00:00",
       "album": {
         "name": "WHY..",
         "url": "https://open.spotify.com/album/45skMBkupbWiAxTeZ77rVa"
@@ -653,7 +669,7 @@
       "url": "https://open.spotify.com/track/5TNMJ6Csb2NgSohuz76XJT"
     },
     {
-      "added_at": "2024-06-11 09:36:29",
+      "added_at": "2024-06-17 09:00:00",
       "album": {
         "name": "THE WORLD EP.1 : MOVEMENT",
         "url": "https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6"
@@ -669,7 +685,87 @@
       "url": "https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw"
     },
     {
-      "added_at": "2024-06-11 09:36:29",
+      "added_at": "2024-06-17 09:00:00",
+      "album": {
+        "name": "Love&Letter repackage album",
+        "url": "https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 192092,
+      "name": "VERY NICE",
+      "url": "https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w"
+    },
+    {
+      "added_at": "2024-06-17 09:00:00",
+      "album": {
+        "name": "The Chaos Chapter: FIGHT OR ESCAPE",
+        "url": "https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 199919,
+      "name": "LO$ER=LO\u2661ER",
+      "url": "https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6"
+    },
+    {
+      "added_at": "2024-06-17 09:00:00",
+      "album": {
+        "name": "Siren",
+        "url": "https://open.spotify.com/album/7J5utMSMvsvlTzqeF1TfQO"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "duration_ms": 147961,
+      "name": "Siren",
+      "url": "https://open.spotify.com/track/3lc6BSosCqVoNddw1izHXj"
+    },
+    {
+      "added_at": "2024-06-17 09:00:00",
+      "album": {
+        "name": "Perfume - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/3sVBVr420an61GAwib9AYk"
+      },
+      "artists": [
+        {
+          "name": "NCT DOJAEJUNG",
+          "url": "https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw"
+        }
+      ],
+      "duration_ms": 167626,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/0jd4aa9XgV5eom0ez0WBrD"
+    },
+    {
+      "added_at": "2024-06-17 09:00:00",
+      "album": {
+        "name": "We Boom - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/31ln9LpD1WyhFlOvDp9YJc"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "duration_ms": 195080,
+      "name": "BOOM",
+      "url": "https://open.spotify.com/track/6rcn967QN5JtkPOBDwYIuT"
+    },
+    {
+      "added_at": "2024-06-17 09:00:00",
       "album": {
         "name": "VIBE (feat. Jimin of BTS)",
         "url": "https://open.spotify.com/album/664YJTJqj4tcY4y74AWgvz"
@@ -689,103 +785,7 @@
       "url": "https://open.spotify.com/track/14XLUySagFhP9KoqOTg5ka"
     },
     {
-      "added_at": "2024-06-11 09:36:29",
-      "album": {
-        "name": "Love&Letter repackage album",
-        "url": "https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 192092,
-      "name": "VERY NICE",
-      "url": "https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w"
-    },
-    {
-      "added_at": "2024-06-11 09:36:29",
-      "album": {
-        "name": "Siren",
-        "url": "https://open.spotify.com/album/7J5utMSMvsvlTzqeF1TfQO"
-      },
-      "artists": [
-        {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
-        }
-      ],
-      "duration_ms": 147961,
-      "name": "Siren",
-      "url": "https://open.spotify.com/track/3lc6BSosCqVoNddw1izHXj"
-    },
-    {
-      "added_at": "2024-06-11 09:36:29",
-      "album": {
-        "name": "Perfume - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/3sVBVr420an61GAwib9AYk"
-      },
-      "artists": [
-        {
-          "name": "NCT DOJAEJUNG",
-          "url": "https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw"
-        }
-      ],
-      "duration_ms": 167626,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/0jd4aa9XgV5eom0ez0WBrD"
-    },
-    {
-      "added_at": "2024-06-11 09:36:29",
-      "album": {
-        "name": "THE SECOND STEP : CHAPTER ONE",
-        "url": "https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ"
-      },
-      "artists": [
-        {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
-        }
-      ],
-      "duration_ms": 184117,
-      "name": "JIKJIN",
-      "url": "https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap"
-    },
-    {
-      "added_at": "2024-06-11 09:36:29",
-      "album": {
-        "name": "EX'ACT",
-        "url": "https://open.spotify.com/album/5Cckx6G2aRR4aZBV6eIYdc"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 221341,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/7GbUWl6qLW1gdngbEV2WDJ"
-    },
-    {
-      "added_at": "2024-06-11 09:36:29",
-      "album": {
-        "name": "We Boom - The 3rd Mini Album",
-        "url": "https://open.spotify.com/album/31ln9LpD1WyhFlOvDp9YJc"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        }
-      ],
-      "duration_ms": 195080,
-      "name": "BOOM",
-      "url": "https://open.spotify.com/track/6rcn967QN5JtkPOBDwYIuT"
-    },
-    {
-      "added_at": "2024-06-11 09:36:29",
+      "added_at": "2024-06-17 09:00:00",
       "album": {
         "name": "SWEAT",
         "url": "https://open.spotify.com/album/0s6DjhEFFZOUSfnFmPMVIG"
@@ -801,23 +801,23 @@
       "url": "https://open.spotify.com/track/3BzjdhbQH8VlQ81RbvRoV8"
     },
     {
-      "added_at": "2024-06-11 09:36:29",
+      "added_at": "2024-06-17 09:00:00",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1"
+        "name": "THE SECOND STEP : CHAPTER ONE",
+        "url": "https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ"
       },
       "artists": [
         {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
         }
       ],
-      "duration_ms": 178013,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L"
+      "duration_ms": 184117,
+      "name": "JIKJIN",
+      "url": "https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap"
     },
     {
-      "added_at": "2024-06-11 09:36:29",
+      "added_at": "2024-06-17 09:00:00",
       "album": {
         "name": "ZERO : FEVER Part.3",
         "url": "https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G"

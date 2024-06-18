@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,213 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,223 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 41 | [Vända Trend](https://open.spotify.com/track/76ojAV1jvCHGr4kjERxAvD) | [Kiihjano](https://open.spotify.com/artist/028hbxJ2me0XInwSpPsFsT) | [Vända Trend](https://open.spotify.com/album/2gjkIVufFubK1AFtxuE3Pg) | 2:59 |
 | 42 | [Min Zina](https://open.spotify.com/track/0JpkJkAD2li7buwV9dL9gu) | [Alibrorsh](https://open.spotify.com/artist/2jVINorjiDk0mkd5WZA6Tw) | [Min Zina](https://open.spotify.com/album/3drmlPE7bYAfLkxSnO2otb) | 3:16 |
 | 43 | [Från och med Du](https://open.spotify.com/track/2wStsM878RWyPXv0yMfpca) | [Antonio D](https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG), [Wha Gwaan Band](https://open.spotify.com/artist/519ozfPMom8eTzU0xjRPbG) | [Från och med Du](https://open.spotify.com/album/4roiBkmOkDwfZHpI6spw6G) | 4:20 |
-| 44 | [Håll i dig](https://open.spotify.com/track/2MrxF1kIwTtWFzpGYm2aYd) | [Wagwan](https://open.spotify.com/artist/3bKrQHdvYEghluLdK63GpS), [Cortés](https://open.spotify.com/artist/2ZP2p2aL2IERgmcMf5h6YG) | [Håll i dig](https://open.spotify.com/album/17xGFARAsqJOvJrETeHtiM) | 3:18 |
-| 45 | [ÖPPNA DÖRREN NU](https://open.spotify.com/track/6QiJCelGcYup3VbxK0tYc1) | [Governor Andy](https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx) | [ÖPPNA DÖRREN NU](https://open.spotify.com/album/5HRiXThDZ9KwAxUqexOM5n) | 3:20 |
+| 44 | [ÖPPNA DÖRREN NU](https://open.spotify.com/track/6QiJCelGcYup3VbxK0tYc1) | [Governor Andy](https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx) | [ÖPPNA DÖRREN NU](https://open.spotify.com/album/5HRiXThDZ9KwAxUqexOM5n) | 3:20 |
+| 45 | [Håll i dig](https://open.spotify.com/track/2MrxF1kIwTtWFzpGYm2aYd) | [Wagwan](https://open.spotify.com/artist/3bKrQHdvYEghluLdK63GpS), [Cortés](https://open.spotify.com/artist/2ZP2p2aL2IERgmcMf5h6YG) | [Håll i dig](https://open.spotify.com/album/17xGFARAsqJOvJrETeHtiM) | 3:18 |
 | 46 | [Kär Och Galen](https://open.spotify.com/track/07F0ahK3fL9OMp6rDFAU6q) | [Jezper](https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF) | [Kär Och Galen](https://open.spotify.com/album/6yzMLFDLgqVkH488i7X2UN) | 3:21 |
 | 47 | [Sverigefiende \(Fest mot våldsgrupp\)](https://open.spotify.com/track/14MW91DLP58duFYEGP8q7b) | [Promoe](https://open.spotify.com/artist/6tbXwhqy3WAFqanusCLvEU) | [Sverigefiende \(Fest mot våldsgrupp\)](https://open.spotify.com/album/1jFdSfYFWx0qE3OsZ4iPjG) | 3:26 |
 | 48 | [Vassaste kniven i lådan](https://open.spotify.com/track/52LxPEtzRRHr2OwDvv8ZNK) | [Moncho](https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc), [Lance\-a\-Lot](https://open.spotify.com/artist/2FdlSFwGHTJ6k8rcJpET0L) | [RONGO](https://open.spotify.com/album/5i0g968zy2kYVry7u9Vt8I) | 3:34 |

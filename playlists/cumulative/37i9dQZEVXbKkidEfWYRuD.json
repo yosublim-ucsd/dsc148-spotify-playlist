@@ -4628,7 +4628,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 133608,
       "name": "favorite",
       "url": "https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be"
@@ -6529,6 +6529,24 @@
     },
     {
       "album": {
+        "name": "I GOT U",
+        "url": "https://open.spotify.com/album/4zo7PO4aB50EFFZqerSER4"
+      },
+      "artists": [
+        {
+          "name": "Toxi$",
+          "url": "https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163278,
+      "name": "I GOT U",
+      "url": "https://open.spotify.com/track/39uQdNywrxrH1ZjfOFc72n"
+    },
+    {
+      "album": {
         "name": "i like the way you kiss me",
         "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
       },
@@ -8226,7 +8244,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -9484,7 +9502,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-15",
+      "date_removed": null,
       "duration_ms": 103495,
       "name": "Montagem Mysterious Game",
       "url": "https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr"
@@ -12154,7 +12172,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 154250,
       "name": "Salut papa",
       "url": "https://open.spotify.com/track/0TskfugKgc0Dj6Afw0jdmu"
@@ -24572,7 +24590,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 178758,
       "name": "\u041f\u041e\u0414\u041e\u041b\u042f\u041d\u041e\u0427\u041a\u0410 (GET UP)",
       "url": "https://open.spotify.com/track/0OO0cxW5gSaL1EggeW1Bj0"
@@ -26658,7 +26676,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 148793,
       "name": "\u0422\u0435\u0430\u0442\u0440",
       "url": "https://open.spotify.com/track/4cwnOIjFKrnSEBwwuLdThM"
@@ -27964,7 +27982,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-01",
+      "date_removed": null,
       "duration_ms": 123789,
       "name": "\u0425\u043e\u043b\u043e\u0434",
       "url": "https://open.spotify.com/track/4jiwxqE1yye4hzG5CpNcUH"

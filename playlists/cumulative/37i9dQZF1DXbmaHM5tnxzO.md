@@ -4,7 +4,7 @@
 
 > Celebrate the music of Pixar Animation Studios with this playlist of classic favorites and new hits.
 
-88 songs - 4 hr 8 min
+90 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [If I Didn't Have You](https://open.spotify.com/track/7xf3S6Bv8hDqOtevZou602) | [Billy Crystal](https://open.spotify.com/artist/4obZSxPoSs6iedmMKPzhwh), [John Goodman](https://open.spotify.com/artist/7dHoDG0MERt9fs7DHyWRJJ) | [Monsters, Inc\. \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7hguux6E8wOGlNsKnZB6Sz) | 3:37 | 2023-09-15 |  |
 | [Incredits 2](https://open.spotify.com/track/0dnojq1BIyNqa89hFEqBvM) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Incredibles 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1kbdqZFxL3fuOmetdZ1VWO) | 9:51 | 2023-09-15 |  |
 | [It's All Right](https://open.spotify.com/track/4gzwK4RdSK9M43vPY68J2Y) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 2:50 | 2023-09-15 |  |
+| [Joy](https://open.spotify.com/track/4Hn4zAkBUaNnT8m9p7cYaf) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Joy](https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM) | 3:13 | 2024-06-17 |  |
 | [Lava](https://open.spotify.com/track/3Ak0AtnSK0QECEPKHupxkC) | [Disney Ukulele](https://open.spotify.com/artist/2L8azGZexr4bN58bhEB7wm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Ukulele: Soothing](https://open.spotify.com/album/4s0t0BbmkfB9iESE8FGRaa) | 2:35 | 2023-09-15 |  |
 | [Lava](https://open.spotify.com/track/0wqeaDeaKq14IuQESPqBEJ) | [Kuana Torres Kahele](https://open.spotify.com/artist/7Eshpryyi2F9Jg0ixaysNn), [Napua Greig](https://open.spotify.com/artist/7ycscFAP7S0I6HGFaqmT4B), [James Ford Murphy](https://open.spotify.com/artist/60vk2VjuoktubJq0FFguLK) | [Lava \(From "Lava"\)](https://open.spotify.com/album/3ps9fwedIocKsm52J2zoX9) | 5:46 | 2023-09-15 |  |
 | [Lava \- From "Lava"](https://open.spotify.com/track/3wjIKFGs7AdI5WlIv3bbcr) | [Kuana Torres Kahele](https://open.spotify.com/artist/7Eshpryyi2F9Jg0ixaysNn), [Napua Greig](https://open.spotify.com/artist/7ycscFAP7S0I6HGFaqmT4B), [James Ford Murphy](https://open.spotify.com/artist/60vk2VjuoktubJq0FFguLK) | [Lava \(From "Lava"\)](https://open.spotify.com/album/6KFz2TNpCesJjeXdw8b2Sa) | 5:46 | 2024-04-08 | 2024-06-01 |
@@ -77,6 +78,7 @@
 | [Stop Wade!](https://open.spotify.com/track/1du3QeUSX87Vqh5Y3VM2mX) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Elemental \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7L15PXtti3kXEn7vTXi8ZV) | 2:44 | 2023-09-15 |  |
 | [The Ballad of the Lonesome Cowboy](https://open.spotify.com/track/3a24rUSZ1Ui3xmPNnqpor8) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Toy Story 4 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6WjuMbjLJHdI0EwjJR9ChA) | 1:45 | 2023-09-15 |  |
 | [The Cleaner](https://open.spotify.com/track/1DOK4imxjjUaPWxUQUqHL1) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story 2](https://open.spotify.com/album/0MCE2KRV2L5NJYMyQNPKHY) | 1:50 | 2023-09-15 |  |
+| [The Life of Riley](https://open.spotify.com/track/4hwwfstxl1XWqA0KKce7FY) | [Andrea Datzman](https://open.spotify.com/artist/4oVVQ8nKBLYmGlK6QbBlG2) | [Inside Out 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7GxqnKjMYDDxdAftzeAGfD) | 2:32 | 2024-06-17 |  |
 | [The Scare Floor](https://open.spotify.com/track/6miK1DMb1WONHzH1jh5PLk) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Monsters, Inc\. \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7hguux6E8wOGlNsKnZB6Sz) | 2:40 | 2023-09-15 |  |
 | [The Time Of Your Life \- From "A Bug's Life"/Score](https://open.spotify.com/track/33GqT5sh9PQq8mnTPWUkco) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [A Bug's Life](https://open.spotify.com/album/5MYKGPG7eGeLCwk9vteT87) | 3:16 | 2023-09-15 |  |
 | [The World Es Mi Familia](https://open.spotify.com/track/7FOS31xq9jv4cXWtp6Jnzw) | [Anthony Gonzalez](https://open.spotify.com/artist/2q10Wskc3lPYmEuV7rzMCv), [Antonio Sol](https://open.spotify.com/artist/7GmYpAwLQ2PyE1BubvUBsM) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 0:50 | 2023-09-15 |  |

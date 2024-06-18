@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,629 songs - 4 day 15 hr 59 min
+1,630 songs - 4 day 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1134,7 +1134,7 @@
 | [Points Beyond](https://open.spotify.com/track/4flMFYGf017exurWgh8scp) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Hardly A Day, Hardly A Night](https://open.spotify.com/album/3sXK7ip7DA3SZSKeYFbf6Q) | 5:26 | 2021-01-23 | 2022-04-21 |
 | [Polynesia](https://open.spotify.com/track/3MkIlbOnu8UCMt26nOQ31P) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Polynesia EP](https://open.spotify.com/album/0sieH424WlEgU2u6Z7YyfS) | 3:22 | 2020-03-17 | 2022-04-21 |
 | [Poolside Chill \(Super Chilled Lo\-Fi Remix\)](https://open.spotify.com/track/3aVpX48H8kYiAzeOrFql6N) | [Jim Brickman](https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P) | [Poolside Chill \(Super Chilled Lo\-Fi Remix\)](https://open.spotify.com/album/4BvRQ4EI84ZyvNPLIpZKnF) | 3:18 | 2020-05-18 | 2021-03-10 |
-| [Portals](https://open.spotify.com/track/0BFS2F5jFxdXvDjRMRqMol) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Portals](https://open.spotify.com/album/5adnCfF1eUOhEnx5F5DAqW) | 3:51 | 2024-03-08 |  |
+| [Portals](https://open.spotify.com/track/0BFS2F5jFxdXvDjRMRqMol) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Portals](https://open.spotify.com/album/5adnCfF1eUOhEnx5F5DAqW) | 3:51 | 2024-03-08 | 2024-06-18 |
 | [Positive Vibe](https://open.spotify.com/track/1iPnHP67gobIfXyk6kjYrC) | [SAINT WKND](https://open.spotify.com/artist/4vO1cl2ndGrUPSl6IYTHs6) | [Big Beat Ignition Miami 2015](https://open.spotify.com/album/2MfAVFInryk5YQcaaJov8c) | 3:02 | 2020-05-18 | 2020-07-03 |
 | [POV \(with NEVRMIND\)](https://open.spotify.com/track/63fzBjCtxxS0peGMkyTfVP) | [LILO](https://open.spotify.com/artist/0N4H4yivPGcRmkdqRrLeyA), [NEVRMIND](https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w) | [POV \(with NEVRMIND\)](https://open.spotify.com/album/3cHmRL9soTP6s1XFJNkUyo) | 2:34 | 2022-02-04 | 2022-02-09 |
 | [Pray for Us](https://open.spotify.com/track/49X931MF0VVnHFkhVU3M5r) | [FEYNMAN](https://open.spotify.com/artist/5bpKJkKb5h112Fy5eLMbWt) | [Air](https://open.spotify.com/album/4pw74rNmWtCAGFMETXYRut) | 4:46 | 2020-04-03 | 2020-10-09 |
@@ -1428,6 +1428,7 @@
 | [The Fool](https://open.spotify.com/track/2n8jUVKiJW4GGhgCWsAka5) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [The Fool](https://open.spotify.com/album/1hTekpIUKOslOqgT35cZI2) | 3:30 | 2021-10-01 | 2022-07-17 |
 | [The Frowner](https://open.spotify.com/track/49T23jJvNLh5BjSAnyMmRf) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [The Frowner](https://open.spotify.com/album/1ddDO0FzL6M6CB9mF0ALbL) | 3:08 | 2021-10-22 | 2022-12-29 |
 | [The Future](https://open.spotify.com/track/5KTHurbkWElVh4KkOmGn7S) | [Tom Flynn](https://open.spotify.com/artist/3lSeZGCmgYasoeYml0hQY8), [Amp Fiddler](https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU) | [The Future](https://open.spotify.com/album/2qn2rf4ZYjyNhNP4eOPAY8) | 5:59 | 2020-03-20 | 2020-10-09 |
+| [The Kind of Love](https://open.spotify.com/track/7CyStHLAihLyfUX738UElG) | [Luca](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4) | [The Kind of Love](https://open.spotify.com/album/0t0kSDHpIfUDaMOYuc1aZQ) | 3:07 | 2024-06-14 |  |
 | [The Last Dinosaur](https://open.spotify.com/track/6YaNs6tDlpacfu1jwuOqM0) | [Little Foot](https://open.spotify.com/artist/55HmugLcdhmDg6XgceLQr1), [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [The Last Dinosaur](https://open.spotify.com/album/6deCJtdK5ZWJnbTLQypO6U) | 3:30 | 2022-10-14 | 2023-02-04 |
 | [The Last Goodbye](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:58 | 2022-02-11 |  |
 | [The Letter](https://open.spotify.com/track/6Drks6dbqYCZ303NPH4c6T) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Letter EP](https://open.spotify.com/album/5eYaBLIloQrnSXeJsv0nms) | 3:55 | 2020-11-13 | 2022-12-29 |

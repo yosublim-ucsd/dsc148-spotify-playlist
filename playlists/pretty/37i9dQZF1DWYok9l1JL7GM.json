@@ -1,6 +1,6 @@
 {
   "description": "The south got something to say. Cover: OutKast",
-  "num_followers": 539778,
+  "num_followers": 539832,
   "original_name": "I Love My Down South Classics",
   "owner": {
     "name": "Spotify",
@@ -915,6 +915,26 @@
     {
       "added_at": "2024-04-26 19:54:57",
       "album": {
+        "name": "The People's Champ",
+        "url": "https://open.spotify.com/album/4LfEslRqPOv2ZOrW6KhhWr"
+      },
+      "artists": [
+        {
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+        },
+        {
+          "name": "Big Pokey",
+          "url": "https://open.spotify.com/artist/1J6iGa2TNBDCrJzjsnI1a8"
+        }
+      ],
+      "duration_ms": 228933,
+      "name": "Sittin' Sidewayz (feat. Big Pokey)",
+      "url": "https://open.spotify.com/track/24PWKmemCvqfyVXODhoKHW"
+    },
+    {
+      "added_at": "2024-04-26 19:54:57",
+      "album": {
         "name": "Crazyndalazdayz",
         "url": "https://open.spotify.com/album/7c2vgd6qltoG2fAGZN2Bpz"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 118933,
       "name": "Slob On My Nob (feat. Project Pat)",
       "url": "https://open.spotify.com/track/0mXMr1OVZZKYmOinBaofOp"
-    },
-    {
-      "added_at": "2024-04-26 19:54:57",
-      "album": {
-        "name": "The People's Champ",
-        "url": "https://open.spotify.com/album/4LfEslRqPOv2ZOrW6KhhWr"
-      },
-      "artists": [
-        {
-          "name": "Paul Wall",
-          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
-        },
-        {
-          "name": "Big Pokey",
-          "url": "https://open.spotify.com/artist/1J6iGa2TNBDCrJzjsnI1a8"
-        }
-      ],
-      "duration_ms": 228933,
-      "name": "Sittin' Sidewayz (feat. Big Pokey)",
-      "url": "https://open.spotify.com/track/24PWKmemCvqfyVXODhoKHW"
     }
   ],
   "unique_name": "I Love My Down South Classics",

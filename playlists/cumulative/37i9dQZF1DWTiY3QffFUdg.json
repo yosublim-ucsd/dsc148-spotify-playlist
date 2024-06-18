@@ -1485,6 +1485,24 @@
     },
     {
       "album": {
+        "name": "I Need It More",
+        "url": "https://open.spotify.com/album/1xy1SNciNQEj4B9Aqd299d"
+      },
+      "artists": [
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158167,
+      "name": "I Need It More",
+      "url": "https://open.spotify.com/track/3if5OebGvCHYFUrgWbcNq2"
+    },
+    {
+      "album": {
         "name": "I Wanna Dance",
         "url": "https://open.spotify.com/album/6CxgIkOgE7uIG4p70b8lyl"
       },
@@ -4106,7 +4124,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 174700,
       "name": "We Good (feat. Shibui)",
       "url": "https://open.spotify.com/track/3EJ22lVARDROJPOAI1PdmW"

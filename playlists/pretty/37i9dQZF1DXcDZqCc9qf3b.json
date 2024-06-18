@@ -1,12 +1,12 @@
 {
   "description": "Groove to music from your Netflix Kids favorites! Cover: Thelma the Unicorn",
-  "num_followers": 53040,
+  "num_followers": 53141,
   "original_name": "Netflix Kids Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk3QMAAAAADcnBKSE7EWTMPYpZVeZkto",
+  "snapshot_id": "ZnCcdQAAAACn+T785RlzELBwFHC1EdA3",
   "tracks": [
     {
       "added_at": "2024-04-19 04:01:00",
@@ -23,6 +23,26 @@
       "duration_ms": 114281,
       "name": "Fire Inside - From the Netflix Film \"Thelma the Unicorn\"",
       "url": "https://open.spotify.com/track/0p8lTcG76m0InEbiet9lfp"
+    },
+    {
+      "added_at": "2024-06-17 20:28:37",
+      "album": {
+        "name": "ULTRAMAN (From The Netflix Film \"Ultraman: Rising\")",
+        "url": "https://open.spotify.com/album/7rZoGRmY7hcAlozzSEdjJH"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "ULTRAMAN - From The Netflix Film \"Ultraman: Rising\"",
+      "url": "https://open.spotify.com/track/6qjUr0g56tRAWRdQ3IQYdL"
     },
     {
       "added_at": "2024-05-21 19:25:52",

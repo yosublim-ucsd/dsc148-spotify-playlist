@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 
 > Tangueros \- Rockeros, Rockeros \- Tangueros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,718 likes - 45 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,722 likes - 45 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 | 29 | [Tomo y Obligo](https://open.spotify.com/track/7vom0QDBkmCppCpusL97zQ) | [Javier Calamaro](https://open.spotify.com/artist/6tPLRbaYWgZXppgsyKQ2M5) | [Villavicio](https://open.spotify.com/album/0caLBmefMPuGsowMfTuMeh) | 2:42 |
 | 30 | [Plegaria para un niño dormido](https://open.spotify.com/track/3hW3s0ClWYEKdDVZnwKZYU) | [Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR) | [Invierno](https://open.spotify.com/album/7d20OGQ2xh0Io9rsPBjtUa) | 3:47 |
 | 31 | [Las Tribus](https://open.spotify.com/track/0Hnne5lFK5ppt6UO4BzYjc) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [Martingala](https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc) | 3:45 |
-| 32 | [Turbias Golondrinas](https://open.spotify.com/track/7b1E5XfeVSYRTILXCeIvnR) | [Palo Pandolfo](https://open.spotify.com/artist/01wwxIe4Qgb0a4PCfzBjsf) | [Ritual Criollo](https://open.spotify.com/album/0bt7q9mBdN06EQhDj0pEBt) | 1:46 |
-| 33 | [Barro Tal Vez](https://open.spotify.com/track/0X5l6Oljnw9PPU1zVCn3PO) | [Angelito Martinez](https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2), [Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR) | [Antología, Vol.2: Viejas Alegrias](https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS) | 3:42 |
+| 32 | [Barro Tal Vez](https://open.spotify.com/track/0X5l6Oljnw9PPU1zVCn3PO) | [Angelito Martinez](https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2), [Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR) | [Antología, Vol.2: Viejas Alegrias](https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS) | 3:42 |
+| 33 | [Turbias Golondrinas](https://open.spotify.com/track/7b1E5XfeVSYRTILXCeIvnR) | [Palo Pandolfo](https://open.spotify.com/artist/01wwxIe4Qgb0a4PCfzBjsf) | [Ritual Criollo](https://open.spotify.com/album/0bt7q9mBdN06EQhDj0pEBt) | 1:46 |
 | 34 | [Flaca](https://open.spotify.com/track/2ZuC6YJTATt0VvUt46eNHB) | [Max Aguirre](https://open.spotify.com/artist/7Bl5WcUdWdWAwDpCD3o8lk) | [Flaca](https://open.spotify.com/album/2rosHFjIB4u8xiG8nej8t0) | 2:49 |
 | 35 | [Nocturno A Mi Barrio](https://open.spotify.com/track/0c4oyNo6yqoX0MTwMzDhvM) | [La Mississippi](https://open.spotify.com/artist/2haNFSI2XvHycF4x0nhp2w) | [Bagayo](https://open.spotify.com/album/7CSdj0Rlyoc3INm3uCD1yl) | 2:20 |
 | 36 | [Mano a mano](https://open.spotify.com/track/1AqNn5SBTndUxzCqFI6brK) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Tinta roja](https://open.spotify.com/album/69WRi5hgYF8knlDJmBStHS) | 3:18 |

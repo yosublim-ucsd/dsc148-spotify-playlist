@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 ### [This Is Frequency](https://open.spotify.com/playlist/37i9dQZF1DWVgsJtp58d1t)
 
-> New music from Black artists every Friday\. Happy Black Music Month! Cover: <a href="spotify:artist:5xKVALj2MSqOHmQhburCM8">Tanner Addell</a>
+> New music from Black artists every Friday\. Happy Black Music Month! Cover: <a href="spotify:artist:5xKVALj2MSqOHmQhburCM8">Tanner Addell</a>, Shot by: Shaun Llewellyn
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,018,917 likes - 155 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,018,962 likes - 155 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 154 | [ADIVINO](https://open.spotify.com/track/0LZy30mVmxqUpdQmaXKXBd) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [ADIVINO](https://open.spotify.com/album/3sRyLQf04m9vm40JNRFiCl) | 4:38 |
 | 155 | [Breaking News \(feat\. Rico Nasty & Kilo Kish\)](https://open.spotify.com/track/2hF3dmFEl36kASrmYEcGP0) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [Handle With Care](https://open.spotify.com/album/4oxjxQHLiK29jfYVlZjcEt) | 2:48 |
 
-Snapshot ID: `Zm3fnQAAAABWmWxcAooMzRzvdgm4COI0`
+Snapshot ID: `ZnBbdAAAAACpiwfDcunkj02PGYt8sJAk`

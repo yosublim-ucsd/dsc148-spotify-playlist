@@ -4,7 +4,7 @@
 
 > New Rock & Alt driving the current\. Cover: Lenny Kravitz
 
-281 songs - 14 hr 17 min
+284 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [catastrophe](https://open.spotify.com/track/23CIjjRFiqwaAGHmF1p5oX) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [catastrophe](https://open.spotify.com/album/2jEt25RLXZn6gtav3jtven) | 2:36 | 2023-02-01 | 2024-06-01 |
 | [catf!sh](https://open.spotify.com/track/3x3ydOm1TkkcqUCYilv5Rj) | [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r) | [catf!sh](https://open.spotify.com/album/0iNZJ0983ETyZpISvkILuz) | 2:55 | 2024-01-19 | 2024-06-01 |
 | [Celebrity Skin](https://open.spotify.com/track/66bLKGXOk3kPWWHP7Tbrki) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Celebrity Skin](https://open.spotify.com/album/2y8KeBe1RXU46rnl4lpzHl) | 2:39 | 2022-02-12 | 2023-07-15 |
+| [Change](https://open.spotify.com/track/2LP4LllG0k6nSvAtbe60Xr) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Change](https://open.spotify.com/album/4fqQu9B3x8EwknltlbXv83) | 3:32 | 2024-06-17 |  |
 | [Change](https://open.spotify.com/track/1Iq8H2uEpjyfkLQbUYdY5V) | [Jany Green](https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv) | [Change](https://open.spotify.com/album/1Og1tMxcRr64qwuA5T6BKu) | 2:51 | 2022-08-26 | 2023-02-02 |
 | [Chelsea Hotel](https://open.spotify.com/track/3yuUo3VJreRdasr1erzGJM) | [Zhariah](https://open.spotify.com/artist/1acX2jfBZ38KLMwFh3ldm7) | [Chelsea Hotel](https://open.spotify.com/album/3tHJ7OgxXS3OjKmvkwNOGS) | 3:40 | 2022-04-15 | 2024-02-02 |
 | [Cherry Blue Intention](https://open.spotify.com/track/2JrozyGS7r75L39rt3xoGx) | [Special Interest](https://open.spotify.com/artist/2CYTLJOt91YLe1JLStFu6m) | [Endure](https://open.spotify.com/album/7EU4Jf2J97Iamh3lwHCHy9) | 3:23 | 2023-02-01 |  |
@@ -71,6 +72,7 @@
 | [CRUMBLE](https://open.spotify.com/track/1ud2gKMwBIK5XkePiIr16r) | [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r) | [CRUMBLE](https://open.spotify.com/album/3tukKF6gkRQ7OIWu3kse3j) | 2:14 | 2022-09-03 | 2023-06-21 |
 | [curious/furious](https://open.spotify.com/track/2OdRGWLkvSccWOrYFlbIFF) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 3:01 | 2023-02-01 | 2024-06-01 |
 | [Days](https://open.spotify.com/track/3xQoeVaWyF046QIhdbGRCO) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Portamento](https://open.spotify.com/album/0gi6GxcVnTUjOaFWozw9en) | 4:29 | 2022-07-22 | 2022-08-27 |
+| [dayz gone](https://open.spotify.com/track/7smNyoh7fzczIYUOAoM4uJ) | [CLIFFDIVER](https://open.spotify.com/artist/3yYFfLWWw90qPAloqOGM7x) | [dayz gone / black lodge breakfast burrito \(limited time only\)](https://open.spotify.com/album/4RgMjUyuNFO9f1llm5UeMS) | 3:11 | 2024-06-17 |  |
 | [Definition \(ft\. Jason Aalon Of Fever 333\)](https://open.spotify.com/track/4un1zMkZQeTvShAIeq7TZw) | [Oxymorrons](https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy), [Jason Aalon Butler](https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl) | [Mohawks & Durags](https://open.spotify.com/album/4w9TJ5AhaRLidoQQIqgCIt) | 2:56 | 2022-02-12 | 2022-08-27 |
 | [Demon Child](https://open.spotify.com/track/1RaVC8vuMq3HfrdIKmBUJ3) | [Nue](https://open.spotify.com/artist/5GAWUCmn1C9DsGaabbJUoO) | [Demon Child](https://open.spotify.com/album/1UmT3WDoH3f6RP9qHX6hoI) | 2:49 | 2022-02-12 | 2022-02-26 |
 | [DIE OUT HERE \(FEAT\. POORSTACY\)](https://open.spotify.com/track/0iAgTXl1wWqfFMh5Ci12Ew) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [My Favorite Blue Jeans](https://open.spotify.com/album/1L0YVLNDSQLKXkX1H5Dyl8) | 2:14 | 2022-12-02 | 2023-02-02 |
@@ -148,7 +150,7 @@
 | [in this world of mona lisa's, you’re my jackson pollock](https://open.spotify.com/track/4rgvIfCpL3KPqZk1qpS4rN) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [just in case the world ends](https://open.spotify.com/album/3X1H1Xq8rAcMQUE27sSSzi) | 2:37 | 2022-06-03 | 2023-02-02 |
 | [Intrusive](https://open.spotify.com/track/277bSPoxSJT51c43jXVw7q) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 2:04 | 2022-07-22 | 2022-08-27 |
 | [Intrusive](https://open.spotify.com/track/5ptNHxx1Wj8FJYSefQLEmB) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Black Punk](https://open.spotify.com/album/2Uu7ur5jyDonV9tHvy4ILX) | 2:04 | 2022-07-22 | 2022-07-29 |
-| [Jimmy Neutron](https://open.spotify.com/track/2nz67XVT2Ir9Y4YT8QM8sZ) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Save The Baby](https://open.spotify.com/album/04MxjBwa4oIgWxBlu4iS14) | 3:51 | 2023-02-01 |  |
+| [Jimmy Neutron](https://open.spotify.com/track/2nz67XVT2Ir9Y4YT8QM8sZ) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Save The Baby](https://open.spotify.com/album/04MxjBwa4oIgWxBlu4iS14) | 3:51 | 2023-02-01 | 2024-06-18 |
 | [Jump](https://open.spotify.com/track/3wGVgIe8CvDxGEJEdrAKfh) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [Party At The Cemetery](https://open.spotify.com/album/3kT0vXJqRNILDVVUX5LhkQ) | 2:49 | 2022-02-12 | 2022-06-04 |
 | [junky](https://open.spotify.com/track/2ZrPCVQCGWiEOA3bSzcAkq) | [Cam Kahin](https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw) | [LET IT SINK IN](https://open.spotify.com/album/0X5qYffN3B8SwczRa1T6Im) | 3:24 | 2022-04-08 | 2022-12-03 |
 | [Just Wanna](https://open.spotify.com/track/1rMQspcZOdnHUwGuxzDufu) | [Troi Irons](https://open.spotify.com/artist/6jWwWbLoxKthbM8C6pi9cI) | [flowers, the album](https://open.spotify.com/album/6ECWmsYxSmyzN7yYDrWWTx) | 3:11 | 2022-02-12 | 2022-03-18 |
@@ -285,6 +287,7 @@
 | [Wretched](https://open.spotify.com/track/1wmx1Icz0XuAfyU8Dgio74) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Farm to Table](https://open.spotify.com/album/5szOdnVq0e6pDDFNxz6YK3) | 3:49 | 2023-02-01 |  |
 | [X\-RAY](https://open.spotify.com/track/26ZtCUtuDqeVjyTk0IsJzR) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | ["DESTRUCTION FOR DUMMIES", PT\. 2 JEAN DAWSON AS "NIGHTMARE"](https://open.spotify.com/album/48Rpbx4MGnVgN7Eli5yWvO) | 3:09 | 2023-09-15 | 2024-03-23 |
 | [YOU NEEDED A HIT//](https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [YOU NEEDED A HIT//](https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C) | 2:00 | 2023-06-02 | 2023-06-21 |
+| [YOU'RE SO POLITE](https://open.spotify.com/track/1S2QiFXMbfFENSZ9aSOBRZ) | [FISHLORD](https://open.spotify.com/artist/1Hv9p9zMYy3gc2VWQfK5gg) | [YOU LOOK LIKE YOU TREAT YOUR DOGS LIKE PEOPLE](https://open.spotify.com/album/5UV9GkDE8P00zLyBMloD2g) | 1:58 | 2024-06-17 |  |
 | [youth+](https://open.spotify.com/track/5mp28cmHRbaFqZI2p7OrVo) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | ["XCAPE", PT\. 1 JEAN DAWSON AS "PHOENIX"](https://open.spotify.com/album/35t22RmD7ABTV5HPA8bYeV) | 2:45 | 2023-06-02 | 2023-09-16 |
 | [•OUTSIDE•](https://open.spotify.com/track/4HateMT8YtbMll1LmQmMB7) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [•OUTSIDE•](https://open.spotify.com/album/6Y9hVwqc0HGINlORyTVzI8) | 1:46 | 2022-08-26 | 2023-02-02 |
 | [•OUTSIDE•](https://open.spotify.com/track/5VSVz6wsmWEP1PiFfzPcn7) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [•OUTSIDE•](https://open.spotify.com/album/4LDezpH6gU6VfBFkSdtNxc) | 1:46 | 2022-08-26 | 2022-10-13 |

@@ -1,12 +1,12 @@
 {
-  "description": "This is Arch Enemy. The essential tracks, all in one playlist.",
-  "num_followers": 69587,
+  "description": "This Is Arch Enemy. Los temas esenciales, todos en una lista.",
+  "num_followers": 69606,
   "original_name": "This Is Arch Enemy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmzZgAAAAADOTWcg0eJXixKUjv4BrZt6",
+  "snapshot_id": "Zm4rAAAAAADqiu8oYLbxVXp57M+Jg1+W",
   "tracks": [
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 92893,
-      "name": "Snow Bound",
-      "url": "https://open.spotify.com/track/7p6uOhkvp95bbp4bKmLGcn"
+      "duration_ms": 291533,
+      "name": "Heart of Darkness",
+      "url": "https://open.spotify.com/track/4OQ08jPQlzsufwogvCjKwB"
     },
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 291533,
-      "name": "Heart of Darkness",
-      "url": "https://open.spotify.com/track/4OQ08jPQlzsufwogvCjKwB"
+      "duration_ms": 92893,
+      "name": "Snow Bound",
+      "url": "https://open.spotify.com/track/7p6uOhkvp95bbp4bKmLGcn"
     },
     {
       "added_at": null,

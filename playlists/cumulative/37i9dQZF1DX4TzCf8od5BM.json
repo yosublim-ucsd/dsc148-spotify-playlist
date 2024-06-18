@@ -815,6 +815,28 @@
     },
     {
       "album": {
+        "name": "Marvel's Spidey and His Amazing Friends - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/28PAtOT7ctTLu3na2oc2E2"
+      },
+      "artists": [
+        {
+          "name": "Patrick Stump",
+          "url": "https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130261,
+      "name": "Do the Spidey",
+      "url": "https://open.spotify.com/track/57bon7PWZgGOCLedjHZxIB"
+    },
+    {
+      "album": {
         "name": "Doc McStuffins: The Doc Is In",
         "url": "https://open.spotify.com/album/69MUbfppLbJ1dTxKwqmjgE"
       },

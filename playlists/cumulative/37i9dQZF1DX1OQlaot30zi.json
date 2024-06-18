@@ -14048,7 +14048,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 145819,
       "name": "Cavaliere",
       "url": "https://open.spotify.com/track/5KG99rNbxru06gg3Zrx95A"
@@ -51970,7 +51970,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 147777,
       "name": "Odiare di meno",
       "url": "https://open.spotify.com/track/00Whn6EII0P1mBrBhLhJhJ"
@@ -60030,6 +60030,28 @@
       "duration_ms": 212322,
       "name": "Radici",
       "url": "https://open.spotify.com/track/2DO1FtemtQJHMeIF98Zfi8"
+    },
+    {
+      "album": {
+        "name": "Another One",
+        "url": "https://open.spotify.com/album/44Qx6sP7zs2CRCm44X7Es2"
+      },
+      "artists": [
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        },
+        {
+          "name": "On The Radar",
+          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183997,
+      "name": "Ragazzi Di Strada",
+      "url": "https://open.spotify.com/track/0Jmw3UGD25rtBNtUYxYkY8"
     },
     {
       "album": {
@@ -75912,6 +75934,36 @@
       "duration_ms": 129740,
       "name": "Vallette",
       "url": "https://open.spotify.com/track/6MDzzFisscLOVQyd0qwhMl"
+    },
+    {
+      "album": {
+        "name": "Vaniglia (feat. VillaBanks, Boro & Andry The Hitmaker)",
+        "url": "https://open.spotify.com/album/5umTTXnLDMrhAqrnBUyb1U"
+      },
+      "artists": [
+        {
+          "name": "Elmatadormc7",
+          "url": "https://open.spotify.com/artist/7516jrFSCN9rahmTvPAYUu"
+        },
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        },
+        {
+          "name": "Boro",
+          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
+        },
+        {
+          "name": "Andry The Hitmaker",
+          "url": "https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192857,
+      "name": "Vaniglia (feat. VillaBanks, Boro & Andry The Hitmaker)",
+      "url": "https://open.spotify.com/track/3ceeE7trGex4ioSAYMcuOr"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 53306,
+  "num_followers": 53302,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-03-20 11:34:13",
       "album": {
+        "name": "Demonstrate (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4yDjUBvT9XqaEQcYhPIUDM"
+      },
+      "artists": [
+        {
+          "name": "William Murphy",
+          "url": "https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD"
+        }
+      ],
+      "duration_ms": 348680,
+      "name": "Arise (You Are Good)",
+      "url": "https://open.spotify.com/track/05t7Ivn2ZrTxcz2842Qs7f"
+    },
+    {
+      "added_at": "2024-03-20 11:34:13",
+      "album": {
         "name": "Evidence",
         "url": "https://open.spotify.com/album/3X10R33baD5m8UJ0KeIfSo"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 130214,
       "name": "Raised to Life (feat. The Walls Group)",
       "url": "https://open.spotify.com/track/4boN2DqFBWlVTIQhBgNJBo"
-    },
-    {
-      "added_at": "2024-03-20 11:34:13",
-      "album": {
-        "name": "Demonstrate (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4yDjUBvT9XqaEQcYhPIUDM"
-      },
-      "artists": [
-        {
-          "name": "William Murphy",
-          "url": "https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD"
-        }
-      ],
-      "duration_ms": 348680,
-      "name": "Arise (You Are Good)",
-      "url": "https://open.spotify.com/track/05t7Ivn2ZrTxcz2842Qs7f"
     },
     {
       "added_at": "2024-03-20 11:34:13",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-03-20 11:34:13",
       "album": {
-        "name": "Tunnel Vision",
-        "url": "https://open.spotify.com/album/36OUmfH7fvxdjJL1Zhkr8v"
-      },
-      "artists": [
-        {
-          "name": "Gene Moore",
-          "url": "https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6"
-        }
-      ],
-      "duration_ms": 237280,
-      "name": "Always Jesus",
-      "url": "https://open.spotify.com/track/4aGRQYEtZySJ5KRnBU6Yfn"
-    },
-    {
-      "added_at": "2024-03-20 11:34:13",
-      "album": {
         "name": "I've Got a Testimony",
         "url": "https://open.spotify.com/album/16lH0UDiWWT9aXaM7ZJKDJ"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 392639,
       "name": "The Blessing (feat. Maranda Curtis)",
       "url": "https://open.spotify.com/track/07hpnqy4P8emLuz4GuPPAL"
+    },
+    {
+      "added_at": "2024-03-20 11:34:13",
+      "album": {
+        "name": "Tunnel Vision",
+        "url": "https://open.spotify.com/album/36OUmfH7fvxdjJL1Zhkr8v"
+      },
+      "artists": [
+        {
+          "name": "Gene Moore",
+          "url": "https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6"
+        }
+      ],
+      "duration_ms": 237280,
+      "name": "Always Jesus",
+      "url": "https://open.spotify.com/track/4aGRQYEtZySJ5KRnBU6Yfn"
     },
     {
       "added_at": "2024-03-20 11:34:13",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-03-20 11:34:13",
       "album": {
+        "name": "Alone In His Presence",
+        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 277533,
+      "name": "Blood Medley",
+      "url": "https://open.spotify.com/track/2Krj7jYL2jZJh3SM0Zbwqe"
+    },
+    {
+      "added_at": "2024-03-20 11:34:13",
+      "album": {
         "name": "Revival Is In The Air (RIITA)",
         "url": "https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 272000,
       "name": "Calvary",
       "url": "https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w"
-    },
-    {
-      "added_at": "2024-03-20 11:34:13",
-      "album": {
-        "name": "Alone In His Presence",
-        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 277533,
-      "name": "Blood Medley",
-      "url": "https://open.spotify.com/track/2Krj7jYL2jZJh3SM0Zbwqe"
     },
     {
       "added_at": "2024-03-20 11:34:13",
@@ -1543,38 +1543,6 @@
     {
       "added_at": "2024-03-20 11:34:13",
       "album": {
-        "name": "Arise",
-        "url": "https://open.spotify.com/album/1cwl8uoycWw4fFMKMV0VEc"
-      },
-      "artists": [
-        {
-          "name": "William McDowell",
-          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
-        }
-      ],
-      "duration_ms": 401266,
-      "name": "I Surrender All",
-      "url": "https://open.spotify.com/track/266BT78ZQsmaTzeB5CwhKa"
-    },
-    {
-      "added_at": "2024-03-20 11:34:13",
-      "album": {
-        "name": "A Worshipper's Heart",
-        "url": "https://open.spotify.com/album/5xaGK6HOJPPpRlcQEDVBfJ"
-      },
-      "artists": [
-        {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
-        }
-      ],
-      "duration_ms": 418728,
-      "name": "The Anthem",
-      "url": "https://open.spotify.com/track/4NH4tJBwVz5y3PqQB3MlGS"
-    },
-    {
-      "added_at": "2024-03-20 11:34:13",
-      "album": {
         "name": "Always Coko",
         "url": "https://open.spotify.com/album/51lawLjXQsEkVIjv61zTHe"
       },
@@ -1599,6 +1567,38 @@
       "duration_ms": 416213,
       "name": "Endow Me",
       "url": "https://open.spotify.com/track/6BvbwCuCVobHdwOn7I6Orw"
+    },
+    {
+      "added_at": "2024-03-20 11:34:13",
+      "album": {
+        "name": "A Worshipper's Heart",
+        "url": "https://open.spotify.com/album/5xaGK6HOJPPpRlcQEDVBfJ"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "duration_ms": 418728,
+      "name": "The Anthem",
+      "url": "https://open.spotify.com/track/4NH4tJBwVz5y3PqQB3MlGS"
+    },
+    {
+      "added_at": "2024-03-20 11:34:13",
+      "album": {
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/1cwl8uoycWw4fFMKMV0VEc"
+      },
+      "artists": [
+        {
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
+        }
+      ],
+      "duration_ms": 401266,
+      "name": "I Surrender All",
+      "url": "https://open.spotify.com/track/266BT78ZQsmaTzeB5CwhKa"
     },
     {
       "added_at": "2024-03-20 11:34:13",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2024-03-20 11:34:13",
       "album": {
+        "name": "Declarations",
+        "url": "https://open.spotify.com/album/09wHdrvpQ7dZmSQOVaaPHT"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Nelson",
+          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
+        }
+      ],
+      "duration_ms": 373986,
+      "name": "Jesus I Love You",
+      "url": "https://open.spotify.com/track/09AmIgDsJsjWSKJHebJrZg"
+    },
+    {
+      "added_at": "2024-03-20 11:34:13",
+      "album": {
         "name": "Classics Vol. 1",
         "url": "https://open.spotify.com/album/6XLI4B9L9q2wL9oUKLqzrE"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 446666,
       "name": "You're Bigger",
       "url": "https://open.spotify.com/track/5PiY1xNzD1YRtmZe3KRdln"
-    },
-    {
-      "added_at": "2024-03-20 11:34:13",
-      "album": {
-        "name": "Declarations",
-        "url": "https://open.spotify.com/album/09wHdrvpQ7dZmSQOVaaPHT"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Nelson",
-          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
-        }
-      ],
-      "duration_ms": 373986,
-      "name": "Jesus I Love You",
-      "url": "https://open.spotify.com/track/09AmIgDsJsjWSKJHebJrZg"
     },
     {
       "added_at": "2024-03-20 11:34:13",
@@ -1787,26 +1787,6 @@
     {
       "added_at": "2024-03-20 11:34:13",
       "album": {
-        "name": "Classic Gold: Live In London: Andrae Crouch & The Disciples",
-        "url": "https://open.spotify.com/album/47TmueNAVNBE7MLC56wGzt"
-      },
-      "artists": [
-        {
-          "name": "Andrae Crouch",
-          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
-        },
-        {
-          "name": "Disciples",
-          "url": "https://open.spotify.com/artist/4ZCnOYklELEjDUrbP4e5dv"
-        }
-      ],
-      "duration_ms": 286946,
-      "name": "Power In the Blood v1.1",
-      "url": "https://open.spotify.com/track/5FPZdulid3ZgnAZq2sRlb3"
-    },
-    {
-      "added_at": "2024-03-20 11:34:13",
-      "album": {
         "name": "Live: The Praise, the Worship",
         "url": "https://open.spotify.com/album/3emdtGEEnR69WhvkUeB8py"
       },
@@ -1819,6 +1799,22 @@
       "duration_ms": 329186,
       "name": "Oh Holy Lamb",
       "url": "https://open.spotify.com/track/2N6ccWkNTrKuIa3JqRzxhb"
+    },
+    {
+      "added_at": "2024-03-20 11:34:13",
+      "album": {
+        "name": "Live In Detroit II (Video)",
+        "url": "https://open.spotify.com/album/2En34iMFWvBpbGKZDOwusQ"
+      },
+      "artists": [
+        {
+          "name": "Vickie Winans",
+          "url": "https://open.spotify.com/artist/3lRcuKNnP49qqc0AHfTTAR"
+        }
+      ],
+      "duration_ms": 545000,
+      "name": "Oh Holy Lamb",
+      "url": "https://open.spotify.com/track/68oQ1Wm0JOgBwjahOWqmYm"
     }
   ],
   "unique_name": "Easter Gospel",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TZic46Z9vh.md) - [plain]
 
 > Celebrando el Festival de Avándaro, hito del rock mexicano\. ¡Paz y amor! Portada: Los Dug Dug's.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,965 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,972 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TZic46Z9vh.md) - [plain]
 | 22 | [La Noche Que Murió Chicago \- The Night Chicago Died](https://open.spotify.com/track/0qdQxY9G4Xm5RfwbE0eSjP) | [Banda Macho](https://open.spotify.com/artist/12mq0ogO8fHAWMMtOiXm0r) | [Tesoros De Coleccion \- Banda Macho](https://open.spotify.com/album/1TA36qabBslE9IWynbEJhQ) | 3:09 |
 | 23 | [Nadie En Especial](https://open.spotify.com/track/0UVNcbB9W1h1fZGyhef3Nd) | [Chac Mool](https://open.spotify.com/artist/2qEmeuF0gIyxdU1OyxNl22) | [Nadie En Especial](https://open.spotify.com/album/7iKk5AQokTUn012tYH347o) | 4:43 |
 | 24 | [Once Upon a Time There Was a World](https://open.spotify.com/track/1Kapeb3t2nfeLN5Az1qaMX) | [Kaleidoscope](https://open.spotify.com/artist/14c0CEGVWU6eO48Su2PiMf) | [Kaleidoscope](https://open.spotify.com/album/4NSvAvBOp5PjYeIRYmOJsW) | 8:09 |
-| 25 | [Somebody To Love](https://open.spotify.com/track/44ixJpyPZYW5pgwgfTsSaR) | [Aguaturbia](https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc) | [Psychedelic Drugstore \- Remastered](https://open.spotify.com/album/6TrlKpZSlcw3qzdHc42QzP) | 3:04 |
-| 26 | [Back](https://open.spotify.com/track/7eZGDGbEoyZJeBl4PGyFSF) | [The Spiders](https://open.spotify.com/artist/5mrfwFGMT56yGbirhVdInL) | [Back](https://open.spotify.com/album/38o2ntxhlyxZlCM2WmfeDw) | 4:10 |
+| 25 | [Back](https://open.spotify.com/track/7eZGDGbEoyZJeBl4PGyFSF) | [The Spiders](https://open.spotify.com/artist/5mrfwFGMT56yGbirhVdInL) | [Back](https://open.spotify.com/album/38o2ntxhlyxZlCM2WmfeDw) | 4:10 |
+| 26 | [Somebody To Love](https://open.spotify.com/track/44ixJpyPZYW5pgwgfTsSaR) | [Aguaturbia](https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc) | [Psychedelic Drugstore \- Remastered](https://open.spotify.com/album/6TrlKpZSlcw3qzdHc42QzP) | 3:04 |
 | 27 | [No One to Depend On](https://open.spotify.com/track/3pPnys7mGV0DQkQoxmovXi) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Santana \(III\)](https://open.spotify.com/album/3iE6Jik24CBE0uv1lyyplI) | 5:31 |
 | 28 | [Abuso de autoridad](https://open.spotify.com/track/1XheWGcrMGywXilhQPoZzr) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [15 Grandes Exitos](https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR) | 2:03 |
 | 29 | [Latin Feelin'](https://open.spotify.com/track/4bj6HSXySYNpMO2f38P8Kp) | [Peace and Love](https://open.spotify.com/artist/5wDBmKAwsm1Tp69yh3xV2Z) | [Peace and Love](https://open.spotify.com/album/6iNEmKhA3QO1yBo2syHKr2) | 6:57 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 
 > A mover el cucu con estas cadenciosas versiones cumbiatizadas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,447 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,463 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 | 31 | [Los Caminos de la Vida](https://open.spotify.com/track/7HfBfu8aVH5mz03JPMPpHF) | [Alexander Acha](https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL) | [Los Caminos de la Vida](https://open.spotify.com/album/4AOwRkeJSIowptYmRnE3RT) | 3:41 |
 | 32 | [Si una Vez](https://open.spotify.com/track/00bZhYk9fm4ZL5wNfRXocn) | [Jenny And The Mexicats](https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa) | [Si una Vez](https://open.spotify.com/album/15911pYbJmbTWdRAbKeujH) | 2:33 |
 | 33 | [Juntos a la Par](https://open.spotify.com/track/259PHSfv5ayeRJNvIjoDr5) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T), [Natalia Corbalán](https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q) | [Juntos a la Par](https://open.spotify.com/album/5BGFvYVx8rdJSAREh6jNCs) | 2:26 |
-| 34 | [Fuiste Tu](https://open.spotify.com/track/0knrusP1Su928CMA9dMoIZ) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG), [La Sonora Gigante](https://open.spotify.com/artist/3Ky0xtfzwZFKcZ5Zs1U8tn) | [Fuiste Tu](https://open.spotify.com/album/13qausPX6sj70dDe4lugZ9) | 3:50 |
-| 35 | [Lloviendo Estrellas](https://open.spotify.com/track/21YzxJr5n5ljqXkOh2Rewy) | [Tachame la Doble](https://open.spotify.com/artist/2UBTW5IxC68BjDnf17zA3p) | [Lloviendo Estrellas](https://open.spotify.com/album/4ZQc6ZZUXLRs5A0a2mOMpw) | 2:32 |
+| 34 | [Lloviendo Estrellas](https://open.spotify.com/track/21YzxJr5n5ljqXkOh2Rewy) | [Tachame la Doble](https://open.spotify.com/artist/2UBTW5IxC68BjDnf17zA3p) | [Lloviendo Estrellas](https://open.spotify.com/album/4ZQc6ZZUXLRs5A0a2mOMpw) | 2:32 |
+| 35 | [Fuiste Tu](https://open.spotify.com/track/0knrusP1Su928CMA9dMoIZ) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG), [La Sonora Gigante](https://open.spotify.com/artist/3Ky0xtfzwZFKcZ5Zs1U8tn) | [Fuiste Tu](https://open.spotify.com/album/13qausPX6sj70dDe4lugZ9) | 3:50 |
 | 36 | [El Efecto](https://open.spotify.com/track/6FVwZYbQJUpVpwk2pwIOdv) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ), [Max Fernandez](https://open.spotify.com/artist/3dhEq5nvtcF7ESywWnIR51) | [El Efecto](https://open.spotify.com/album/5eCVCeHPbEy53Y4IVmarXb) | 1:43 |
 | 37 | [Ji Ji Ji](https://open.spotify.com/track/4RLSqaHzhfD8XWxL7wyLJR) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [A 30 Años de una Pasión Inexplicable..\. Solo He Nacido para Amarte](https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l) | 3:17 |
 | 38 | [Come As You Are](https://open.spotify.com/track/4HYoMVI4mBbMsfXStbTPYX) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [Smells Like Cumbia](https://open.spotify.com/album/1AqakrqNVRPbuBN7A4ggm9) | 2:57 |

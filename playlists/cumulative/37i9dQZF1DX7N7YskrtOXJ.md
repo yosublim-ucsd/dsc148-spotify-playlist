@@ -4,7 +4,7 @@
 
 > La fiesta se enciende con cumbia.
 
-211 songs - 12 hr 53 min
+212 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Bailando](https://open.spotify.com/track/2COA1HMAeHeVrJy1wiWCIb) | [El Bloque 8](https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9) | [Bailando](https://open.spotify.com/album/5GrutseWcq6gyu9n7Z5km2) | 2:07 | 2023-08-25 | 2024-02-28 |
 | [Bailando Como Mono](https://open.spotify.com/track/7GOBsKucPG5Bh8qzStmrQ6) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Dime Qué Pasa](https://open.spotify.com/album/4DifRQy4Dyey9NSS7ywnEx) | 3:06 | 2024-03-29 |  |
 | [Bebe Dame / Pobre Corazón](https://open.spotify.com/track/3tggXkSVsQG4yEIfP3obT0) | [Ojos de Luna](https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp) | [Bebe Dame / Pobre Corazón](https://open.spotify.com/album/1SMWZi4LNX3jILzjA9jvmQ) | 4:28 | 2023-08-25 |  |
-| [Bombón Asesino](https://open.spotify.com/track/1L1OiIKida2TyKsb310EAg) | [Combo Ginebra](https://open.spotify.com/artist/2L5b3yHGpn7RQi4wd3vcU2) | [Cumbias de Sangre y Oro](https://open.spotify.com/album/1pxG4hB9LuTke7H7GnrBtm) | 4:06 | 2023-08-25 |  |
+| [Bombón Asesino](https://open.spotify.com/track/1L1OiIKida2TyKsb310EAg) | [Combo Ginebra](https://open.spotify.com/artist/2L5b3yHGpn7RQi4wd3vcU2) | [Cumbias de Sangre y Oro](https://open.spotify.com/album/1pxG4hB9LuTke7H7GnrBtm) | 4:06 | 2023-08-25 | 2024-06-18 |
 | [Boquita De Caramelo](https://open.spotify.com/track/5qO03VRi0VQ3TVVGSE0QwJ) | [Los Vikings 5](https://open.spotify.com/artist/2Z7XpwcKmrsYyXZw1SqyZ7) | [Iconos Kitsch](https://open.spotify.com/album/20lnY27K2DUJAR5WMbVfME) | 3:29 | 2024-02-27 |  |
 | [Borrachito](https://open.spotify.com/track/7yAV45QuPVvzPfQob431qP) | [Organización X](https://open.spotify.com/artist/4LlbFyAhhOYvtbluyFiiyq) | [Borrachito](https://open.spotify.com/album/6eONEPTIHy682tfjvkgRUI) | 2:40 | 2024-03-29 | 2024-04-19 |
 | [Borracho y Loco](https://open.spotify.com/track/48ZmRcUdWGJrzn1xfMEHup) | [El Bloque 8](https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9) | [Amor y Caos](https://open.spotify.com/album/4dxLAaULsk0CzzHbkM5sqX) | 3:14 | 2023-08-25 |  |
@@ -130,6 +130,7 @@
 | [Mozo](https://open.spotify.com/track/5QjWzFAf5JWe1t6YqKw4h3) | [Organización X](https://open.spotify.com/artist/4LlbFyAhhOYvtbluyFiiyq) | [Más Borrachitos Que Nunca](https://open.spotify.com/album/2O6lvxtlaI3HkqGk9K2Is3) | 3:31 | 2024-02-27 | 2024-04-19 |
 | [Muero De Frío](https://open.spotify.com/track/3omcI65X80XkY0MqtQmZ73) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Una Cerveza](https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C) | 3:33 | 2024-03-29 |  |
 | [Mujeres y Cerveza](https://open.spotify.com/track/0u8Xjs6MaShfUSZ5XAEoaO) | [Grupo Alegria](https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg) | [Somos Parte de Tu Vida](https://open.spotify.com/album/6t4VfXgbfFiQ32V69loQ5K) | 4:24 | 2024-02-27 |  |
+| [Nada que Ver](https://open.spotify.com/track/5IHJttldHzPyoUCi9ptfep) | [Karicia](https://open.spotify.com/artist/4OeXcGvSUYN3eMgy73WBtd) | [20 Grandes Exitos](https://open.spotify.com/album/2GBYmiFIKmUtmpe4mqdQg9) | 2:55 | 2024-03-29 |  |
 | [No Me Dejes Sin Tu Amor](https://open.spotify.com/track/7HwFftj6pgvU1AN6f5QuYJ) | [Grupo Red](https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz) | [El Color De Tu Corazón](https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv) | 2:48 | 2024-02-27 | 2024-04-19 |
 | [No Podre Olvidarme](https://open.spotify.com/track/3tl8h7FZbALLLTGk5MPeHL) | [Grupo Red](https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz) | [El Color De Tu Corazón](https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv) | 3:15 | 2023-08-25 | 2024-04-19 |
 | [No Quiero Dormir](https://open.spotify.com/track/7f7xS49CafNLc5nInF6Lyb) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Inmenso](https://open.spotify.com/album/2roYPReN5FJxE0iGXpkD21) | 3:34 | 2024-02-27 | 2024-04-19 |

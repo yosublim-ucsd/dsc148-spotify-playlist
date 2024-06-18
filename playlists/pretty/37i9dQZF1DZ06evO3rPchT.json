@@ -1,12 +1,12 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 67544,
+  "num_followers": 67593,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmzZgAAAAADMBwYN3vIrbRmKwWTQwT1R",
+  "snapshot_id": "Zm4rAAAAAABqLztPC5UN8SyfftD+OQa1",
   "tracks": [
     {
       "added_at": null,
@@ -59,6 +59,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beers On Me",
+        "url": "https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        },
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 174680,
+      "name": "Beers On Me",
+      "url": "https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A ROCK",
         "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
       },
@@ -79,6 +103,26 @@
       "duration_ms": 173173,
       "name": "ONE BEER (feat. Lauren Alaina & Devin Dawson)",
       "url": "https://open.spotify.com/track/5Y05LYM8LhnQN78GqfjSeK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "the mockingbird & THE CROW",
+        "url": "https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 205767,
+      "name": "red (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/2D3JfPyY2LkzXgNOb7qziR"
     },
     {
       "added_at": null,
@@ -107,26 +151,6 @@
       "duration_ms": 154960,
       "name": "Turn You Down (HARDY feat. Morgan Wallen, Zakk Wylde)",
       "url": "https://open.spotify.com/track/3X0773BLlMv6RMq0wkZZAk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "the mockingbird & THE CROW",
-        "url": "https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 205767,
-      "name": "red (feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/2D3JfPyY2LkzXgNOb7qziR"
     },
     {
       "added_at": null,
@@ -167,6 +191,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "the mockingbird & THE CROW",
+        "url": "https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 277659,
+      "name": "wait in the truck (feat. Lainey Wilson)",
+      "url": "https://open.spotify.com/track/49GYvCcvMQq1SY3f7Y347h"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HIXTAPE: Vol. 1",
         "url": "https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo"
       },
@@ -187,26 +231,6 @@
       "duration_ms": 213693,
       "name": "He Went To Jared (HARDY feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/65IHmBagtQrYRcJd8a47zv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "the mockingbird & THE CROW",
-        "url": "https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 277659,
-      "name": "wait in the truck (feat. Lainey Wilson)",
-      "url": "https://open.spotify.com/track/49GYvCcvMQq1SY3f7Y347h"
     },
     {
       "added_at": null,
@@ -243,6 +267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "the mockingbird & THE CROW",
+        "url": "https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 202912,
+      "name": "SOLD OUT",
+      "url": "https://open.spotify.com/track/4D4d3N9nuPnvNg3ZAICWTN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Roads That Go Nowhere",
         "url": "https://open.spotify.com/album/5fxgfA3NwGKeIhi22Z9Pir"
       },
@@ -259,22 +299,6 @@
       "duration_ms": 218860,
       "name": "Southern Rock",
       "url": "https://open.spotify.com/track/0UT58DMxUfSb8ECS85tgn3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "the mockingbird & THE CROW",
-        "url": "https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 202912,
-      "name": "SOLD OUT",
-      "url": "https://open.spotify.com/track/4D4d3N9nuPnvNg3ZAICWTN"
     },
     {
       "added_at": null,
@@ -311,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ROCKSTAR",
-        "url": "https://open.spotify.com/album/3vCjG6V4zutlCWvVPQFzbl"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 194341,
-      "name": "ROCKSTAR",
-      "url": "https://open.spotify.com/track/5jhY1n1cTKSxx8lEujMcAS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "the mockingbird & THE CROW",
         "url": "https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN"
       },
@@ -339,6 +347,22 @@
       "duration_ms": 168630,
       "name": "JACK",
       "url": "https://open.spotify.com/track/4q4ITrTmB4LyoNw9yjb2Ic"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ROCKSTAR",
+        "url": "https://open.spotify.com/album/3vCjG6V4zutlCWvVPQFzbl"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 194341,
+      "name": "ROCKSTAR",
+      "url": "https://open.spotify.com/track/5jhY1n1cTKSxx8lEujMcAS"
     },
     {
       "added_at": null,
@@ -387,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "the mockingbird & THE CROW",
+        "url": "https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 140523,
+      "name": ".30-06",
+      "url": "https://open.spotify.com/track/73GyOpmUluAOb2yUVbuTkp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Surface",
         "url": "https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG"
       },
@@ -403,22 +443,6 @@
       "duration_ms": 195236,
       "name": "The Better Me",
       "url": "https://open.spotify.com/track/1DAaHUdfW4Y9hil4zrc2Q9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "the mockingbird & THE CROW",
-        "url": "https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 140523,
-      "name": ".30-06",
-      "url": "https://open.spotify.com/track/73GyOpmUluAOb2yUVbuTkp"
     },
     {
       "added_at": null,
@@ -663,6 +687,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Body Language (Deluxe)",
+        "url": "https://open.spotify.com/album/6ObNVnYp53VJNtIcdo03WJ"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 192466,
+      "name": "Fire up the Night (feat. HARDY)",
+      "url": "https://open.spotify.com/track/5dHF4UXvJ70xefCqD2Wj9N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "THIS OLE BOY",
         "url": "https://open.spotify.com/album/74G3iEDTbqrBTN3USAlquk"
       },
@@ -699,34 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HIXTAPE: Vol. 2",
-        "url": "https://open.spotify.com/album/7jocQ72CXWOXecaZwWAwGR"
-      },
-      "artists": [
-        {
-          "name": "HIXTAPE",
-          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "Travis Denning",
-          "url": "https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ"
-        },
-        {
-          "name": "Josh Thompson",
-          "url": "https://open.spotify.com/artist/4BuyNtIXCdb4fHesOdR3io"
-        }
-      ],
-      "duration_ms": 189336,
-      "name": "Beer With My Buddies (feat. HARDY, Josh Thompson & Travis Denning)",
-      "url": "https://open.spotify.com/track/1j8BTJKOWfHGVJ1vAZycde"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HIXTAPE: Vol. 1",
         "url": "https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo"
       },
@@ -755,6 +771,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "HIXTAPE: Vol. 2",
+        "url": "https://open.spotify.com/album/7jocQ72CXWOXecaZwWAwGR"
+      },
+      "artists": [
+        {
+          "name": "HIXTAPE",
+          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Travis Denning",
+          "url": "https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ"
+        },
+        {
+          "name": "Josh Thompson",
+          "url": "https://open.spotify.com/artist/4BuyNtIXCdb4fHesOdR3io"
+        }
+      ],
+      "duration_ms": 189336,
+      "name": "Beer With My Buddies (feat. HARDY, Josh Thompson & Travis Denning)",
+      "url": "https://open.spotify.com/track/1j8BTJKOWfHGVJ1vAZycde"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "THIS OLE BOY",
         "url": "https://open.spotify.com/album/74G3iEDTbqrBTN3USAlquk"
       },
@@ -771,46 +815,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHERE TO FIND ME",
-        "url": "https://open.spotify.com/album/1ODlC6LpJ2Pw0MDawMtEsB"
+        "name": "zombieland (feat. HARDY)",
+        "url": "https://open.spotify.com/album/1HB5u33KcIukGAlu6lTu2Y"
       },
       "artists": [
+        {
+          "name": "Jax",
+          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
+        },
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 207298,
-      "name": "I'LL QUIT LOVIN' YOU",
-      "url": "https://open.spotify.com/track/0A0xAsq5n8A3CQufm7JF3v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HIXTAPE: Vol. 2",
-        "url": "https://open.spotify.com/album/7jocQ72CXWOXecaZwWAwGR"
-      },
-      "artists": [
-        {
-          "name": "HIXTAPE",
-          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "The Cadillac Three",
-          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
-        },
-        {
-          "name": "Rhett Akins",
-          "url": "https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24"
-        }
-      ],
-      "duration_ms": 185947,
-      "name": "One Of Y\u2019all (feat. HARDY, Rhett Akins & The Cadillac Three)",
-      "url": "https://open.spotify.com/track/4DcvlNRw65x0Fj4hsTEOUV"
+      "duration_ms": 192367,
+      "name": "zombieland (feat. HARDY)",
+      "url": "https://open.spotify.com/track/3xGi8NYBHKM8mKsheBWV0G"
     },
     {
       "added_at": null,
@@ -843,6 +863,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "WHERE TO FIND ME",
+        "url": "https://open.spotify.com/album/1ODlC6LpJ2Pw0MDawMtEsB"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 207298,
+      "name": "I'LL QUIT LOVIN' YOU",
+      "url": "https://open.spotify.com/track/0A0xAsq5n8A3CQufm7JF3v"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "THIS OLE BOY",
         "url": "https://open.spotify.com/album/74G3iEDTbqrBTN3USAlquk"
       },
@@ -859,82 +895,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "zombieland (feat. HARDY)",
-        "url": "https://open.spotify.com/album/1HB5u33KcIukGAlu6lTu2Y"
+        "name": "HIXTAPE: Vol. 2",
+        "url": "https://open.spotify.com/album/7jocQ72CXWOXecaZwWAwGR"
       },
       "artists": [
         {
-          "name": "Jax",
-          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
+          "name": "HIXTAPE",
+          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
         },
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 192367,
-      "name": "zombieland (feat. HARDY)",
-      "url": "https://open.spotify.com/track/3xGi8NYBHKM8mKsheBWV0G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WHERE TO FIND ME",
-        "url": "https://open.spotify.com/album/1ODlC6LpJ2Pw0MDawMtEsB"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 234062,
-      "name": "WHERE TO FIND ME",
-      "url": "https://open.spotify.com/track/5OeF6XbsPBDmhKXD30CKEZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Worst Country Song Of All Time",
-        "url": "https://open.spotify.com/album/6s9wR3rqVwA5Jbyx6K8R8h"
-      },
-      "artists": [
-        {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
         },
         {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+          "name": "The Cadillac Three",
+          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
         },
         {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+          "name": "Rhett Akins",
+          "url": "https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24"
         }
       ],
-      "duration_ms": 197666,
-      "name": "The Worst Country Song Of All Time",
-      "url": "https://open.spotify.com/track/3dlkeKPc3pCveXvMFVJasK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Country Again (Side A)",
-        "url": "https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Put It On Ice",
-      "url": "https://open.spotify.com/track/7yAfrIDQzSCbc1KWVHlBWz"
+      "duration_ms": 185947,
+      "name": "One Of Y\u2019all (feat. HARDY, Rhett Akins & The Cadillac Three)",
+      "url": "https://open.spotify.com/track/4DcvlNRw65x0Fj4hsTEOUV"
     },
     {
       "added_at": null,
@@ -955,6 +939,42 @@
       "duration_ms": 171626,
       "name": "Some Things Never Change (feat. HARDY)",
       "url": "https://open.spotify.com/track/7aqYYifyPQmuwWo7g4XWkR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WHERE TO FIND ME",
+        "url": "https://open.spotify.com/album/1ODlC6LpJ2Pw0MDawMtEsB"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 234062,
+      "name": "WHERE TO FIND ME",
+      "url": "https://open.spotify.com/track/5OeF6XbsPBDmhKXD30CKEZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Country Again (Side A)",
+        "url": "https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "Put It On Ice",
+      "url": "https://open.spotify.com/track/7yAfrIDQzSCbc1KWVHlBWz"
     },
     {
       "added_at": null,

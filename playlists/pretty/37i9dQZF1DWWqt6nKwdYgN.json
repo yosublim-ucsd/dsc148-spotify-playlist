@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Penyair en portada. ",
-  "num_followers": 14218,
+  "num_followers": 14215,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
@@ -347,26 +347,6 @@
     {
       "added_at": "2024-06-14 06:00:00",
       "album": {
-        "name": "Cualquier Parecido con La Realidad",
-        "url": "https://open.spotify.com/album/1fWIXSbLLG41HN0WFdkjGb"
-      },
-      "artists": [
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 273823,
-      "name": "Cuidado en Quien Confias",
-      "url": "https://open.spotify.com/track/34LnKrUc7W3N9zqrdPtts3"
-    },
-    {
-      "added_at": "2024-06-14 06:00:00",
-      "album": {
         "name": "ADN",
         "url": "https://open.spotify.com/album/6obP0j3QiE8zclzohFE4rA"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 127759,
       "name": "Perm\u00edteme aplaudir",
       "url": "https://open.spotify.com/track/4MnNlhp7YJ4AZJey7Ma1Fz"
+    },
+    {
+      "added_at": "2024-06-14 06:00:00",
+      "album": {
+        "name": "Cualquier Parecido con La Realidad",
+        "url": "https://open.spotify.com/album/1fWIXSbLLG41HN0WFdkjGb"
+      },
+      "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 273823,
+      "name": "Cuidado en Quien Confias",
+      "url": "https://open.spotify.com/track/34LnKrUc7W3N9zqrdPtts3"
     },
     {
       "added_at": "2024-06-14 06:00:00",
@@ -695,6 +695,30 @@
     {
       "added_at": "2024-06-14 06:00:00",
       "album": {
+        "name": "Intento Tras Intento",
+        "url": "https://open.spotify.com/album/2LglQCv5q8IgsDCjEeADuZ"
+      },
+      "artists": [
+        {
+          "name": "El Muisca",
+          "url": "https://open.spotify.com/artist/4x8wZfPrrPnfariwleEnr5"
+        },
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "Arion",
+          "url": "https://open.spotify.com/artist/1KNW0yA92QHGP5wyLXvT2c"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Intento Tras Intento",
+      "url": "https://open.spotify.com/track/7L5mJIafA9H5p7HCQdpPPN"
+    },
+    {
+      "added_at": "2024-06-14 06:00:00",
+      "album": {
         "name": "The Pure",
         "url": "https://open.spotify.com/album/3BiY0c1t8TMJaWJ1OCa07o"
       },
@@ -719,30 +743,6 @@
       "duration_ms": 221123,
       "name": "The Pure",
       "url": "https://open.spotify.com/track/6ZkH2U1dkFSLaQFBgTEfrn"
-    },
-    {
-      "added_at": "2024-06-14 06:00:00",
-      "album": {
-        "name": "Intento Tras Intento",
-        "url": "https://open.spotify.com/album/2LglQCv5q8IgsDCjEeADuZ"
-      },
-      "artists": [
-        {
-          "name": "El Muisca",
-          "url": "https://open.spotify.com/artist/4x8wZfPrrPnfariwleEnr5"
-        },
-        {
-          "name": "Penyair",
-          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
-        },
-        {
-          "name": "Arion",
-          "url": "https://open.spotify.com/artist/1KNW0yA92QHGP5wyLXvT2c"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Intento Tras Intento",
-      "url": "https://open.spotify.com/track/7L5mJIafA9H5p7HCQdpPPN"
     },
     {
       "added_at": "2024-06-14 06:00:00",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-06-14 06:00:00",
       "album": {
+        "name": "MC Davo En Vivo: Parte 1",
+        "url": "https://open.spotify.com/album/22nziBYtQx99cuPNviBuB0"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 194383,
+      "name": "Adi\u00f3s - En Vivo",
+      "url": "https://open.spotify.com/track/7a4T12ZnRyt2kxA3NHgLwj"
+    },
+    {
+      "added_at": "2024-06-14 06:00:00",
+      "album": {
         "name": "Eva, Ad\u00e1n y las Manzanas",
         "url": "https://open.spotify.com/album/10qNIsok5o6cUfcVCl1TBC"
       },
@@ -859,22 +875,6 @@
     {
       "added_at": "2024-06-14 06:00:00",
       "album": {
-        "name": "MC Davo En Vivo: Parte 1",
-        "url": "https://open.spotify.com/album/22nziBYtQx99cuPNviBuB0"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 194383,
-      "name": "Adi\u00f3s - En Vivo",
-      "url": "https://open.spotify.com/track/7a4T12ZnRyt2kxA3NHgLwj"
-    },
-    {
-      "added_at": "2024-06-14 06:00:00",
-      "album": {
         "name": "Easy To Hate",
         "url": "https://open.spotify.com/album/0ZF33hMiwMqDHu8IadpggZ"
       },
@@ -887,6 +887,22 @@
       "duration_ms": 168000,
       "name": "Avi\u00f3n",
       "url": "https://open.spotify.com/track/4jCJxfd0kMhL0LFdP7sYMV"
+    },
+    {
+      "added_at": "2024-06-14 06:00:00",
+      "album": {
+        "name": "La Laif",
+        "url": "https://open.spotify.com/album/6BqhuS0nwbKStk4xTjzr4v"
+      },
+      "artists": [
+        {
+          "name": "Solitario Mondragon",
+          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
+        }
+      ],
+      "duration_ms": 227571,
+      "name": "La Laif",
+      "url": "https://open.spotify.com/track/7uItIg7h3ahTcTM670Z0pl"
     },
     {
       "added_at": "2024-06-14 06:00:00",
@@ -915,22 +931,6 @@
       "duration_ms": 285333,
       "name": "Ahora",
       "url": "https://open.spotify.com/track/5JVkOvgb7pvRyIn6bwMxfH"
-    },
-    {
-      "added_at": "2024-06-14 06:00:00",
-      "album": {
-        "name": "La Laif",
-        "url": "https://open.spotify.com/album/6BqhuS0nwbKStk4xTjzr4v"
-      },
-      "artists": [
-        {
-          "name": "Solitario Mondragon",
-          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
-        }
-      ],
-      "duration_ms": 227571,
-      "name": "La Laif",
-      "url": "https://open.spotify.com/track/7uItIg7h3ahTcTM670Z0pl"
     },
     {
       "added_at": "2024-06-14 06:00:00",
@@ -1043,30 +1043,6 @@
     {
       "added_at": "2024-06-14 06:00:00",
       "album": {
-        "name": "\"REC a LIL\"",
-        "url": "https://open.spotify.com/album/3lA4UmbKGYcMHxXPUFQLNx"
-      },
-      "artists": [
-        {
-          "name": "Lil Supa",
-          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
-        },
-        {
-          "name": "Recognize Ali",
-          "url": "https://open.spotify.com/artist/3qPiRvFbjdFucVGGXFGbVh"
-        },
-        {
-          "name": "Rod Roche",
-          "url": "https://open.spotify.com/artist/4Xq41CAjEKseEpGBAVjG6C"
-        }
-      ],
-      "duration_ms": 167236,
-      "name": "KABRA",
-      "url": "https://open.spotify.com/track/4cLVvAYy7QaavV93G4pjf0"
-    },
-    {
-      "added_at": "2024-06-14 06:00:00",
-      "album": {
         "name": "EL POINT",
         "url": "https://open.spotify.com/album/7gcS8OYnRu1Wanx11hsu6t"
       },
@@ -1111,6 +1087,30 @@
     {
       "added_at": "2024-06-14 06:00:00",
       "album": {
+        "name": "\"REC a LIL\"",
+        "url": "https://open.spotify.com/album/3lA4UmbKGYcMHxXPUFQLNx"
+      },
+      "artists": [
+        {
+          "name": "Lil Supa",
+          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
+        },
+        {
+          "name": "Recognize Ali",
+          "url": "https://open.spotify.com/artist/3qPiRvFbjdFucVGGXFGbVh"
+        },
+        {
+          "name": "Rod Roche",
+          "url": "https://open.spotify.com/artist/4Xq41CAjEKseEpGBAVjG6C"
+        }
+      ],
+      "duration_ms": 167236,
+      "name": "KABRA",
+      "url": "https://open.spotify.com/track/4cLVvAYy7QaavV93G4pjf0"
+    },
+    {
+      "added_at": "2024-06-14 06:00:00",
+      "album": {
         "name": "Vida",
         "url": "https://open.spotify.com/album/1bBox3a6smu3GUT5ldNDST"
       },
@@ -1123,22 +1123,6 @@
       "duration_ms": 216134,
       "name": "Millonaria",
       "url": "https://open.spotify.com/track/5Lamw2jWwnk8fqCfcBJr4M"
-    },
-    {
-      "added_at": "2024-06-14 06:00:00",
-      "album": {
-        "name": "Recuerda",
-        "url": "https://open.spotify.com/album/46Npdj6F3ebBB4SuUI5GLE"
-      },
-      "artists": [
-        {
-          "name": "Solitario Mondragon",
-          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Recuerda",
-      "url": "https://open.spotify.com/track/1bJFy4c5zO2e5hPeaJ5Jru"
     },
     {
       "added_at": "2024-06-14 06:00:00",
@@ -1159,22 +1143,18 @@
     {
       "added_at": "2024-06-14 06:00:00",
       "album": {
-        "name": "Entre Tiburones",
-        "url": "https://open.spotify.com/album/6bYGIvQh7Q11zUivJUENSC"
+        "name": "Recuerda",
+        "url": "https://open.spotify.com/album/46Npdj6F3ebBB4SuUI5GLE"
       },
       "artists": [
         {
-          "name": "Kinto Sol",
-          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
-        },
-        {
-          "name": "Remik Gonzalez",
-          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+          "name": "Solitario Mondragon",
+          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
         }
       ],
-      "duration_ms": 303093,
-      "name": "Entre Tiburones",
-      "url": "https://open.spotify.com/track/0jyxpCE5AzNPeekF9vmkR8"
+      "duration_ms": 230000,
+      "name": "Recuerda",
+      "url": "https://open.spotify.com/track/1bJFy4c5zO2e5hPeaJ5Jru"
     },
     {
       "added_at": "2024-06-14 06:00:00",
@@ -1191,6 +1171,26 @@
       "duration_ms": 156683,
       "name": "DUCATI",
       "url": "https://open.spotify.com/track/1u0OLzzryuk3A80sQVhevv"
+    },
+    {
+      "added_at": "2024-06-14 06:00:00",
+      "album": {
+        "name": "Entre Tiburones",
+        "url": "https://open.spotify.com/album/6bYGIvQh7Q11zUivJUENSC"
+      },
+      "artists": [
+        {
+          "name": "Kinto Sol",
+          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+        },
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        }
+      ],
+      "duration_ms": 303093,
+      "name": "Entre Tiburones",
+      "url": "https://open.spotify.com/track/0jyxpCE5AzNPeekF9vmkR8"
     },
     {
       "added_at": "2024-06-14 06:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-06-14 06:00:00",
       "album": {
-        "name": "3 RAP",
-        "url": "https://open.spotify.com/album/7aEo9W4GQzMs5xNXVDBnFD"
-      },
-      "artists": [
-        {
-          "name": "Rokero",
-          "url": "https://open.spotify.com/artist/4LnMIW4aNwegikxZkUN4ir"
-        }
-      ],
-      "duration_ms": 255339,
-      "name": "3 RAP",
-      "url": "https://open.spotify.com/track/1MdgjClX0dCx2qCEuo05pF"
-    },
-    {
-      "added_at": "2024-06-14 06:00:00",
-      "album": {
         "name": "Cuervos",
         "url": "https://open.spotify.com/album/0XSlJq1I6jb5EpZt7WZJS2"
       },
@@ -1543,6 +1527,22 @@
     {
       "added_at": "2024-06-14 06:00:00",
       "album": {
+        "name": "3 RAP",
+        "url": "https://open.spotify.com/album/7aEo9W4GQzMs5xNXVDBnFD"
+      },
+      "artists": [
+        {
+          "name": "Rokero",
+          "url": "https://open.spotify.com/artist/4LnMIW4aNwegikxZkUN4ir"
+        }
+      ],
+      "duration_ms": 255339,
+      "name": "3 RAP",
+      "url": "https://open.spotify.com/track/1MdgjClX0dCx2qCEuo05pF"
+    },
+    {
+      "added_at": "2024-06-14 06:00:00",
+      "album": {
         "name": "El Calent\u00f3n",
         "url": "https://open.spotify.com/album/5UqGVHKi6taFbuVAGUtacH"
       },
@@ -1559,6 +1559,22 @@
       "duration_ms": 207000,
       "name": "El Calent\u00f3n",
       "url": "https://open.spotify.com/track/6Je2hSFlM37PxmZxao2LbQ"
+    },
+    {
+      "added_at": "2024-06-14 06:00:00",
+      "album": {
+        "name": "\u00c1rtico",
+        "url": "https://open.spotify.com/album/1hnmPNhozqh1HUAlGwqgqz"
+      },
+      "artists": [
+        {
+          "name": "Dante",
+          "url": "https://open.spotify.com/artist/2hDnlqxEGmcq74MAfO9iEX"
+        }
+      ],
+      "duration_ms": 202162,
+      "name": "Cuando te miro",
+      "url": "https://open.spotify.com/track/4uzd952ca0XsLnYb5r5jMy"
     },
     {
       "added_at": "2024-06-14 06:00:00",
@@ -1595,22 +1611,6 @@
       "duration_ms": 108217,
       "name": "CUBA (Buena y Mala)",
       "url": "https://open.spotify.com/track/0Rbq0Jn9pTS5IPGys1iUtT"
-    },
-    {
-      "added_at": "2024-06-14 06:00:00",
-      "album": {
-        "name": "\u00c1rtico",
-        "url": "https://open.spotify.com/album/1hnmPNhozqh1HUAlGwqgqz"
-      },
-      "artists": [
-        {
-          "name": "Dante",
-          "url": "https://open.spotify.com/artist/2hDnlqxEGmcq74MAfO9iEX"
-        }
-      ],
-      "duration_ms": 202162,
-      "name": "Cuando te miro",
-      "url": "https://open.spotify.com/track/4uzd952ca0XsLnYb5r5jMy"
     },
     {
       "added_at": "2024-06-14 06:00:00",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2024-06-14 06:00:00",
       "album": {
+        "name": "Peleando para Mantenerlo",
+        "url": "https://open.spotify.com/album/3oLkCmmZpqjQVj2TrTQ18P"
+      },
+      "artists": [
+        {
+          "name": "Solo Cadaver",
+          "url": "https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy"
+        }
+      ],
+      "duration_ms": 252700,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/2XzNjpgWCx4Jd7DgfXOanj"
+    },
+    {
+      "added_at": "2024-06-14 06:00:00",
+      "album": {
         "name": "Bendecida $ afortunada",
         "url": "https://open.spotify.com/album/0dY4wGJFYDPrqDE7Yq3oID"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 256459,
       "name": "La Vecindad del Vago",
       "url": "https://open.spotify.com/track/3YCLPJO5N84aDccTRv73Lm"
-    },
-    {
-      "added_at": "2024-06-14 06:00:00",
-      "album": {
-        "name": "Peleando para Mantenerlo",
-        "url": "https://open.spotify.com/album/3oLkCmmZpqjQVj2TrTQ18P"
-      },
-      "artists": [
-        {
-          "name": "Solo Cadaver",
-          "url": "https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy"
-        }
-      ],
-      "duration_ms": 252700,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/2XzNjpgWCx4Jd7DgfXOanj"
     },
     {
       "added_at": "2024-06-14 06:00:00",

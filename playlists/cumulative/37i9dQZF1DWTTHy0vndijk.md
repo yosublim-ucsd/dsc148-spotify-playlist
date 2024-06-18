@@ -2,9 +2,9 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: Weki Meki\(위키미키\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: WOOAH \(우아\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-427 songs - 23 hr 37 min
+428 songs - 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Come to me](https://open.spotify.com/track/4CHmF2PI3RANWv15qkyKdB) | [Kyung dasom](https://open.spotify.com/artist/6ye5C0aCtNApMSefJTzdj1) | [Come to me](https://open.spotify.com/album/2AdhqhSHycIJ7Jm0rPJwxI) | 3:36 | 2021-11-29 | 2022-07-23 |
 | [Cookie](https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:55 | 2022-08-12 |  |
 | [Copycat](https://open.spotify.com/track/3eRXnVROQcJxwzovKyLTnd) | [Apink CHOBOM](https://open.spotify.com/artist/1eDD6vNEyVQXGev7af156d) | [Copycat](https://open.spotify.com/album/0NYssBVyeMwUSRzsIKATIE) | 3:24 | 2022-07-12 | 2023-07-09 |
-| [Could It Be](https://open.spotify.com/track/5EP0eADsE1wRAbnET9k5u8) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [Could It Be](https://open.spotify.com/album/5vxRsSVH24F86nh4vuQVOI) | 3:09 | 2024-04-05 |  |
+| [Could It Be](https://open.spotify.com/track/5EP0eADsE1wRAbnET9k5u8) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [Could It Be](https://open.spotify.com/album/5vxRsSVH24F86nh4vuQVOI) | 3:09 | 2024-04-05 | 2024-06-18 |
 | [Crescendo](https://open.spotify.com/track/6BMb5LbcfRAiiHl9PyLdcb) | [DIA](https://open.spotify.com/artist/5Pcx98OUnL52aGZRRQx5v8) | [NEWTRO](https://open.spotify.com/album/3CBgvajr0lz1fOIGIydiZ3) | 3:42 | 2021-11-29 | 2022-04-19 |
 | [Crossroads](https://open.spotify.com/track/3ZWCWArPYr1v0iF763oSOz) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [回:LABYRINTH](https://open.spotify.com/album/6FVK3km0FtSdGF4ZdWkrVH) | 3:22 | 2021-11-29 | 2022-07-27 |
 | [Cupid](https://open.spotify.com/track/36ylDwMUz1EqrdbfBF8vC7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/5If2zLk3mlHXuhIS7rQF90) | 2:54 | 2023-09-27 | 2024-04-08 |
@@ -276,6 +276,7 @@
 | [Pinocchio](https://open.spotify.com/track/5IHqT5CMbpc35bh5aomwNK) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [To\. Heart](https://open.spotify.com/album/0b1tsnRd7eu0q4qaeCLsQa) | 3:20 | 2021-11-29 | 2022-07-11 |
 | [PIT\-A\-PAT](https://open.spotify.com/track/1eSwiP5R9g2ws39TemiRHi) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TWICEcoaster: LANE1](https://open.spotify.com/album/1O0JME3VbK4siDIfh6K3Oe) | 3:27 | 2022-03-29 | 2022-04-20 |
 | [Plop Plop](https://open.spotify.com/track/4FGsdwzzlyiNtcHSmXj53B) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [HAPPY MOMENT](https://open.spotify.com/album/4nnyYQGOKRU090FK7sfunL) | 3:14 | 2022-03-29 | 2022-04-21 |
+| [POM POM POM](https://open.spotify.com/track/4KtNoHpc781qroUhOol1I1) | [WOOAH](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [UNFRAMED](https://open.spotify.com/album/09fRNZvZnqJqm7024Sa7uP) | 3:25 | 2024-06-17 |  |
 | [PONYTAIL](https://open.spotify.com/track/25WqQrSThOQktE5Z7cQ5mO) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TWICEcoaster: LANE1](https://open.spotify.com/album/1O0JME3VbK4siDIfh6K3Oe) | 3:26 | 2022-03-29 | 2022-04-03 |
 | [Ponzona](https://open.spotify.com/track/597wvQ0bqfJgszRg4eDVy1) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [INTO VIOLET](https://open.spotify.com/album/3CjwKaPAPzaHgivlGFjsp4) | 3:11 | 2021-11-29 | 2022-04-19 |
 | [POP!](https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 2:48 | 2022-06-24 |  |

@@ -4,7 +4,7 @@
 
 > Celebrating 20 years of <a href="https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW?si=Mz0GoCLoQ7\-LwD95Qaea4A">Zola's</a> acclaimed album, "Bambatha".
 
-187 songs - 15 hr 53 min
+188 songs - 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Disco Lazarus](https://open.spotify.com/track/3CpXI9W6KA27ro2ghzGJlC) | [Sugardrive](https://open.spotify.com/artist/283E3ICiG1Fiec39Rxel0n) | [When I Died I Was Elvis](https://open.spotify.com/album/3MqwjdwlsclTa2wUkIDcl7) | 4:45 | 2019-06-12 | 2022-07-15 |
 | [Dlala Mapantsula](https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:32 | 2018-09-23 |  |
 | [Doc Shebeleza](https://open.spotify.com/track/1fRMv66SdJrWowk0rJduKM) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Tsholofelo \(Platinum Edition\)](https://open.spotify.com/album/367X12thcQ6YbzKYWLGXFc) | 3:51 | 2019-02-03 |  |
+| [Don't Cry \- Remastered 2024](https://open.spotify.com/track/0TW01kL2sGNnqc9Lvas6FN) | [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW), [Thembisile](https://open.spotify.com/artist/3yjaPmf61NL5y3U3hAoZML) | [Bhambatha \(Remastered 2024\)](https://open.spotify.com/album/4yX88UXZ6Q0X9IxLwgMmtE) | 3:37 | 2024-06-16 |  |
 | [Doo Be Doo](https://open.spotify.com/track/1MzgAa6fUqeUuLipCnTyak) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Nomvula](https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx) | 5:11 | 2018-09-23 |  |
 | [Fallen](https://open.spotify.com/track/0UmUpMqXmtvRGehh7vFlDV) | [DJ Cleo](https://open.spotify.com/artist/25DGxfawvVBrqZNBzWQj9y) | [Es'khaleni Zone 3](https://open.spotify.com/album/5gDJL11BwbwwDDvK4wBXkI) | 5:34 | 2018-09-23 | 2022-07-29 |
 | [Fallen](https://open.spotify.com/track/5Qbsr2yaejz1ymILqtIhIh) | [DJ Cleo](https://open.spotify.com/artist/25DGxfawvVBrqZNBzWQj9y) | [Es'khaleni Zone 3](https://open.spotify.com/album/0WbSDgJgcRwDTtEtudhjI4) | 5:34 | 2023-01-23 | 2023-08-18 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Rvfv, David Bisbal.",
+  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Lola Indigo.",
   "name": "Pop con \u00d1",
   "tracks": [
     {
@@ -518,7 +518,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 169894,
       "name": "Astronauta",
       "url": "https://open.spotify.com/track/1J59EJh3hbGZDJD7KfONLz"
@@ -868,6 +868,24 @@
       "duration_ms": 259320,
       "name": "Beso robado",
       "url": "https://open.spotify.com/track/5SJ3VK1dPFCDsywYd9Czox"
+    },
+    {
+      "album": {
+        "name": "Besos en la nariz",
+        "url": "https://open.spotify.com/album/3Hvv91tnFJ4SrUnf8nsTzv"
+      },
+      "artists": [
+        {
+          "name": "Xavibo",
+          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145406,
+      "name": "Besos en la nariz",
+      "url": "https://open.spotify.com/track/46XLP0MGdrl34G57OIX5wH"
     },
     {
       "album": {
@@ -1650,7 +1668,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 163000,
       "name": "Copita Champagne",
       "url": "https://open.spotify.com/track/3xvnCTCFA6Ntd5gKLfKnmW"
@@ -2750,7 +2768,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 187240,
       "name": "Ella",
       "url": "https://open.spotify.com/track/1DPtfQYOFB9IAEk1o4qBmS"
@@ -3278,7 +3296,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 204492,
       "name": "Frenes\u00ed",
       "url": "https://open.spotify.com/track/3XTmOwWk9zGehWbMzvOnex"
@@ -3318,7 +3336,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 157322,
       "name": "Full Romance",
       "url": "https://open.spotify.com/track/5O1zs9if5WlN0imKHxtWjB"
@@ -4086,6 +4104,24 @@
       "duration_ms": 162906,
       "name": "La Raz\u00f3n",
       "url": "https://open.spotify.com/track/3CmSv76KDKsvtiyrdgHZHH"
+    },
+    {
+      "album": {
+        "name": "LA REINA",
+        "url": "https://open.spotify.com/album/2Fy0cyNtT6mpTVWtAAyfh4"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "LA REINA",
+      "url": "https://open.spotify.com/track/06JM1fuKPQOrSL6s9mzDvV"
     },
     {
       "album": {
@@ -5066,7 +5102,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 156185,
       "name": "me he colgado de mi ex",
       "url": "https://open.spotify.com/track/3WEzoedCdyFgSi9GkM1HkF"
@@ -5821,6 +5857,24 @@
     },
     {
       "album": {
+        "name": "Nanai",
+        "url": "https://open.spotify.com/album/4oi0Rf2NsjMhPvljHIsFfa"
+      },
+      "artists": [
+        {
+          "name": "Amaia",
+          "url": "https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149872,
+      "name": "Nanai",
+      "url": "https://open.spotify.com/track/27RqUQHGAv4bB3AOu03cvo"
+    },
+    {
+      "album": {
         "name": "NAZARIO",
         "url": "https://open.spotify.com/album/57mR1wjg1kaXKgJYfowf9A"
       },
@@ -5890,6 +5944,24 @@
       "duration_ms": 160871,
       "name": "Ni la mitad",
       "url": "https://open.spotify.com/track/7ohvuOobZ8dA6lGLlPBp7Q"
+    },
+    {
+      "album": {
+        "name": "NO HABERTE CONOCIDO",
+        "url": "https://open.spotify.com/album/1FeJRIgcUBjfoOxjTKGJaN"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184229,
+      "name": "NO HABERTE CONOCIDO",
+      "url": "https://open.spotify.com/track/7KoOiHh77ObAJow6AaOHCu"
     },
     {
       "album": {
@@ -8389,6 +8461,24 @@
     },
     {
       "album": {
+        "name": "te vas a inventar",
+        "url": "https://open.spotify.com/album/5wFXtW6BBQKVf3Jo1iWWnj"
+      },
+      "artists": [
+        {
+          "name": "MARLENA",
+          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172029,
+      "name": "te vas a inventar",
+      "url": "https://open.spotify.com/track/7dKJQbM2YiWgpbkWhnUsk1"
+    },
+    {
+      "album": {
         "name": "Tenemos que hablar",
         "url": "https://open.spotify.com/album/6SppbUoXhxk8dUHPLbRmMU"
       },
@@ -9128,6 +9218,28 @@
       "duration_ms": 138937,
       "name": "Vidas Pasadas",
       "url": "https://open.spotify.com/track/2G6cOHhIjJGd7fhBKXBjLr"
+    },
+    {
+      "album": {
+        "name": "Viento",
+        "url": "https://open.spotify.com/album/33HL0gjp6NMr4Yn9skMj4s"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Vicco",
+          "url": "https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140867,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/4OIJAOZkj6ChEvSIzUKDmQ"
     },
     {
       "album": {

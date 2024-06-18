@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 287067,
+  "num_followers": 287110,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmzZgAAAAAD82EranUdXaZHyA0+IzVyH",
+  "snapshot_id": "Zm4rAAAAAACf5An6/XAjHiR7lhhahh2G",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfect Strangers",
-        "url": "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 235960,
-      "name": "Wasted Sunsets",
-      "url": "https://open.spotify.com/track/07W9HcJyjXPnKQSMbUcWZU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fireball (25th Anniversary Edition)",
         "url": "https://open.spotify.com/album/7nn5IUsa4aqi16o3U0qik6"
       },
@@ -299,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Machine Head (Remastered)",
-        "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 303894,
-      "name": "Pictures Of Home - Remastered 2012",
-      "url": "https://open.spotify.com/track/5cXKhFw5kjRSfifazrnPbp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burn (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
       },
@@ -327,6 +295,22 @@
       "duration_ms": 352293,
       "name": "Sail Away - Remastered 2004",
       "url": "https://open.spotify.com/track/29cnidbkZ13mYcNXnpqlre"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Machine Head (Remastered)",
+        "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 303894,
+      "name": "Pictures Of Home - Remastered 2012",
+      "url": "https://open.spotify.com/track/5cXKhFw5kjRSfifazrnPbp"
     },
     {
       "added_at": null,
@@ -363,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Machine Head (Remastered)",
-        "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 442840,
-      "name": "Lazy - Remastered 2012",
-      "url": "https://open.spotify.com/track/27WqFiOFm2u1hax2ksdyqK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfect Strangers",
         "url": "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO"
       },
@@ -391,6 +359,22 @@
       "duration_ms": 312826,
       "name": "A Gypsy's Kiss",
       "url": "https://open.spotify.com/track/2Uh9e3fTZRPBzxqNPaY7zr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Machine Head (Remastered)",
+        "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 442840,
+      "name": "Lazy - Remastered 2012",
+      "url": "https://open.spotify.com/track/27WqFiOFm2u1hax2ksdyqK"
     },
     {
       "added_at": null,
@@ -427,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slaves and Masters (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/5SKeGHkVddRpKf0pqVBJAR"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 326013,
-      "name": "King of Dreams",
-      "url": "https://open.spotify.com/track/4HomPKDsqVz9xAtW2zyMO2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfect Strangers",
         "url": "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO"
       },
@@ -455,6 +423,22 @@
       "duration_ms": 240026,
       "name": "Nobody's Home",
       "url": "https://open.spotify.com/track/6x8GeAremuPbjgKJw5ao4D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slaves and Masters (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/5SKeGHkVddRpKf0pqVBJAR"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 326013,
+      "name": "King of Dreams",
+      "url": "https://open.spotify.com/track/4HomPKDsqVz9xAtW2zyMO2"
     },
     {
       "added_at": null,
@@ -603,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Perfect Strangers",
+        "url": "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 262093,
+      "name": "Mean Streak",
+      "url": "https://open.spotify.com/track/43OcdjkrK5lCmACNU3HSF2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stormbringer (Remastered)",
         "url": "https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU"
       },
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Original Album Classics",
-        "url": "https://open.spotify.com/album/4Y9AB5Xy4WS3ifb5xJzUJb"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 391533,
-      "name": "Anya",
-      "url": "https://open.spotify.com/track/4tnjWDvVaMmZa3his0lxRp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deep Purple in Rock (Anniversary Edition)",
         "url": "https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 209200,
       "name": "Into the Fire - 1995 Remaster",
       "url": "https://open.spotify.com/track/2nCRjFVNNfpedJevLrMBLI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Original Album Classics",
+        "url": "https://open.spotify.com/album/4Y9AB5Xy4WS3ifb5xJzUJb"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 391533,
+      "name": "Anya",
+      "url": "https://open.spotify.com/track/4tnjWDvVaMmZa3his0lxRp"
     },
     {
       "added_at": null,

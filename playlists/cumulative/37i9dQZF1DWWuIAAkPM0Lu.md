@@ -4,7 +4,7 @@
 
 > ⭐️ <a href="spotify:artist:7c7ZeiPKWHf2E1rsf1P4VF">Medina</a> gir os alt hun har ⭐️
 
-839 songs - 1 day 18 hr 43 min
+840 songs - 1 day 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Cyclone](https://open.spotify.com/track/3WLkk22rygJ3whtqu0OXIZ) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy), [Mugatu](https://open.spotify.com/artist/5fpxLk6zSvEA3aSJ31Ak88) | [Cyclone](https://open.spotify.com/album/5cnK9r9zaVKoBGrfWUDhzo) | 2:38 | 2024-05-16 | 2024-05-24 |
 | [Dag & Nat](https://open.spotify.com/track/191FtFK96yKxh8x4NLrZ69) | [Specktors](https://open.spotify.com/artist/36Na2YYP8im6qQJBZu2fsa) | [Dag & Nat](https://open.spotify.com/album/6HsuH9WpTVpoThqyIJduZE) | 2:38 | 2024-05-30 | 2024-06-07 |
 | [Dage I Sol](https://open.spotify.com/track/7ixsRZuQjP4fdFjGPoieXg) | [mp.oxford](https://open.spotify.com/artist/3NvMrkn2Jw23Z3oCSR3SdD) | [Dage I Sol](https://open.spotify.com/album/4VMrdHdQyYINOHPkW8Zkdg) | 2:39 | 2024-05-09 | 2024-05-17 |
+| [Dance With Me](https://open.spotify.com/track/2I5ipWaIXUknimwtJPoPYt) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance With Me](https://open.spotify.com/album/1wkUCIDGpYN0PEIcyG4dS6) | 3:45 | 2024-06-13 |  |
 | [Dancers](https://open.spotify.com/track/0MdXqGO6myqxt0FwvuOqMN) | [ALBA](https://open.spotify.com/artist/5MKM7cNYL4SIuIe6q4Qd1p) | [Dancers](https://open.spotify.com/album/4NQBMNfQxbgiVp8OCPbeJU) | 3:30 | 2024-06-13 |  |
 | [Dancing Type](https://open.spotify.com/track/3Gf35KMfySYgS8MFLFpIEc) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Dancing Type](https://open.spotify.com/album/0P7SpW8srX9NHdROJwkGAy) | 2:35 | 2024-04-26 | 2024-05-03 |
 | [Dans I Morgen \(feat\. Wads.png\)](https://open.spotify.com/track/2spwCio5MgRx2U4hEfRGaf) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn), [Wads.png](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [Dans I Morgen](https://open.spotify.com/album/5q2qW7AKv8q6ke68KsLBc7) | 3:12 | 2024-05-09 | 2024-05-17 |

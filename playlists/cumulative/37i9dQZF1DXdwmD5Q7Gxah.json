@@ -7872,7 +7872,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 176913,
       "name": "Cards On The Table",
       "url": "https://open.spotify.com/track/56NeC5RB6XA4ctZ8FctwG4"
@@ -32655,6 +32655,24 @@
     },
     {
       "album": {
+        "name": "Big For You",
+        "url": "https://open.spotify.com/album/2VAmLEwcaTz1KeOw0RSKjz"
+      },
+      "artists": [
+        {
+          "name": "Zsela",
+          "url": "https://open.spotify.com/artist/7IYuY1VszmoEUu4o3tNgC6"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179617,
+      "name": "Not Your Angel",
+      "url": "https://open.spotify.com/track/3gjd5zvhEMUMhN7uffKLNB"
+    },
+    {
+      "album": {
         "name": "Note To Self",
         "url": "https://open.spotify.com/album/71DrmZf8omc52ca1mdoyeF"
       },
@@ -39100,7 +39118,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 218283,
       "name": "See you soon",
       "url": "https://open.spotify.com/track/1seLWPX7HzMY1FZ4lrGXuD"
@@ -48143,6 +48161,24 @@
     },
     {
       "album": {
+        "name": "Triple Seven",
+        "url": "https://open.spotify.com/album/7IiqMfyjfLXFS0ngnzgvV5"
+      },
+      "artists": [
+        {
+          "name": "Wishy",
+          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206933,
+      "name": "Triple Seven",
+      "url": "https://open.spotify.com/track/0Fo2GMUTxQXV2Zr86zW6Z6"
+    },
+    {
+      "album": {
         "name": "TRU RELIGION",
         "url": "https://open.spotify.com/album/2KVJYvcbFijqVQZCMEBQvH"
       },
@@ -49226,7 +49262,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 189829,
       "name": "Virtual Hug",
       "url": "https://open.spotify.com/track/4eSsPJbJQ5hLYjg90FiRCD"
@@ -52448,6 +52484,24 @@
       "duration_ms": 181747,
       "name": "You're Nobody",
       "url": "https://open.spotify.com/track/4uxC5r5XJTPVEdl1N8ljLI"
+    },
+    {
+      "album": {
+        "name": "You're the Best",
+        "url": "https://open.spotify.com/album/69jGwOCfLDLfps1E7nXMPg"
+      },
+      "artists": [
+        {
+          "name": "Otha",
+          "url": "https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121884,
+      "name": "You're the Best",
+      "url": "https://open.spotify.com/track/5vjkYtVO6JVIwqEN7lbtxE"
     },
     {
       "album": {

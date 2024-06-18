@@ -604,7 +604,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-28",
+      "date_removed": null,
       "duration_ms": 237706,
       "name": "I Like Being A Woman",
       "url": "https://open.spotify.com/track/1J8gk2wlXNnsabMGUOutl3"
@@ -1506,7 +1506,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 202026,
       "name": "The Grass (Will Sing for You) [Mono Version]",
       "url": "https://open.spotify.com/track/5aBfIwwa1Vu2j625w4hYZ2"
@@ -1776,7 +1776,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 178746,
       "name": "When Will I See You Again",
       "url": "https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm"
@@ -1972,6 +1972,24 @@
       "duration_ms": 164135,
       "name": "Yours",
       "url": "https://open.spotify.com/track/6KcKPjE7ysZTnox78X3Uw7"
+    },
+    {
+      "album": {
+        "name": "The Roulette Years",
+        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182653,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/6mT1blqlEs8Wy0o5P0dn5o"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1trEdl"

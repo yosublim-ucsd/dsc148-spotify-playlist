@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 
 ### [This Is Cynthia Luz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0reIgs)
 
-> This Is Cynthia Luz\. Los temas esenciales, todos en una lista.
+> This is Cynthia Luz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,362 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,367 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 | 49 | [Feeling](https://open.spotify.com/track/6cz9TcEstLOxC3y4ZZD5Tz) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Menestrel](https://open.spotify.com/artist/3P3lkDIOlpOLZAk3dcjf2i), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Marechal](https://open.spotify.com/artist/2CUoA5eNl575NSKMDwy9Ej), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [300](https://open.spotify.com/album/49aodr19IxR7j392H2CIJm) | 7:00 |
 | 50 | [Anjos E Ancestrais](https://open.spotify.com/track/125ytOCb7oOEy9KAyDqXYD) | [Urbanamente](https://open.spotify.com/artist/49rYuhLNSc8WNdIw5CV0kT), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB), [Billy Billy](https://open.spotify.com/artist/1uUyWteV2hZskmno7GVARe), [Riff](https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Anjos E Ancestrais](https://open.spotify.com/album/7hIG0UDU2dWiObYml5ZNxz) | 3:33 |
 
-Snapshot ID: `ZmzZgAAAAACUZHCDtKA/iWR96ZPGD71v`
+Snapshot ID: `Zm4rAAAAAADSajVxa06/QR5h2m4XUu4R`

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Deja que la m\u00fasica te inspire para acabar con tu tarea!",
-  "num_followers": 571917,
+  "num_followers": 571895,
   "original_name": "Tarea Casual",
   "owner": {
     "name": "Spotify",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2023-01-13 21:02:37",
       "album": {
+        "name": "Your Power",
+        "url": "https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 245896,
+      "name": "Your Power",
+      "url": "https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD"
+    },
+    {
+      "added_at": "2023-01-13 21:02:37",
+      "album": {
         "name": "Morning Blue",
         "url": "https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 217136,
       "name": "Morning Blue",
       "url": "https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP"
-    },
-    {
-      "added_at": "2023-01-13 21:02:37",
-      "album": {
-        "name": "Burning Bridges",
-        "url": "https://open.spotify.com/album/6Lq1HJzKX0BNeZWHWGu9lY"
-      },
-      "artists": [
-        {
-          "name": "Gizmo Varillas",
-          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
-        }
-      ],
-      "duration_ms": 239053,
-      "name": "Burning Bridges - Acoustic Version",
-      "url": "https://open.spotify.com/track/5aQa0ao7o23HsMM9KSh7BB"
     },
     {
       "added_at": "2023-01-13 21:02:37",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2023-01-13 21:02:37",
       "album": {
+        "name": "Burning Bridges",
+        "url": "https://open.spotify.com/album/6Lq1HJzKX0BNeZWHWGu9lY"
+      },
+      "artists": [
+        {
+          "name": "Gizmo Varillas",
+          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
+        }
+      ],
+      "duration_ms": 239053,
+      "name": "Burning Bridges - Acoustic Version",
+      "url": "https://open.spotify.com/track/5aQa0ao7o23HsMM9KSh7BB"
+    },
+    {
+      "added_at": "2023-01-13 21:02:37",
+      "album": {
         "name": "Brother Sun/Sister Moon",
         "url": "https://open.spotify.com/album/09YtitY2sCZiltmlRmhrtc"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 216400,
       "name": "Brother Sun/Sister Moon",
       "url": "https://open.spotify.com/track/1K1avESFuxk2TmPTQ3j9wJ"
-    },
-    {
-      "added_at": "2023-01-13 21:02:37",
-      "album": {
-        "name": "Little Miss",
-        "url": "https://open.spotify.com/album/6mGpTiv7McWu5YLeKgupGp"
-      },
-      "artists": [
-        {
-          "name": "Will Joseph Cook",
-          "url": "https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe"
-        }
-      ],
-      "duration_ms": 172933,
-      "name": "Little Miss",
-      "url": "https://open.spotify.com/track/5xtNtoKG2fE1gEe8JGexyS"
     },
     {
       "added_at": "2023-01-13 21:02:37",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2023-01-13 21:02:37",
       "album": {
-        "name": "Your Power",
-        "url": "https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3"
+        "name": "Little Miss",
+        "url": "https://open.spotify.com/album/6mGpTiv7McWu5YLeKgupGp"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Will Joseph Cook",
+          "url": "https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe"
         }
       ],
-      "duration_ms": 245896,
-      "name": "Your Power",
-      "url": "https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD"
+      "duration_ms": 172933,
+      "name": "Little Miss",
+      "url": "https://open.spotify.com/track/5xtNtoKG2fE1gEe8JGexyS"
     },
     {
       "added_at": "2023-01-13 21:02:37",

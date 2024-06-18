@@ -1,6 +1,6 @@
 {
   "description": "Experience the best live performances. Check out live soul albums <a href=\"spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY\">here</a>.",
-  "num_followers": 29565,
+  "num_followers": 29570,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/5ejwNegV5hPkQRyMi7CiCs"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 310973,
-      "name": "Ascension (Don't Ever Wonder) - Live from MTV Unplugged, Brooklyn, NY - May 1997",
-      "url": "https://open.spotify.com/track/5GAg6qfapUvyTpu7Zb1EWy"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
         "name": "The Tour",
         "url": "https://open.spotify.com/album/5V0EoaXr2iR8rWsV0Bbr1S"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 308066,
       "name": "Misty Blue - Live",
       "url": "https://open.spotify.com/track/7JF7x0QgaE2exhkcAsT1a4"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/5ejwNegV5hPkQRyMi7CiCs"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 310973,
+      "name": "Ascension (Don't Ever Wonder) - Live from MTV Unplugged, Brooklyn, NY - May 1997",
+      "url": "https://open.spotify.com/track/5GAg6qfapUvyTpu7Zb1EWy"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -875,6 +875,26 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
+        "name": "Stompin' At The Savoy",
+        "url": "https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP"
+      },
+      "artists": [
+        {
+          "name": "Rufus",
+          "url": "https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW"
+        },
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 336440,
+      "name": "You Got the Love - Live Version",
+      "url": "https://open.spotify.com/track/5QVr1U4qIpdYIWOzAjbXfr"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/0PXkuzPmkBgVNn26f3Q9gC"
       },
@@ -903,26 +923,6 @@
       "duration_ms": 469625,
       "name": "Black Man In A White World - Live From Spotify London",
       "url": "https://open.spotify.com/track/3sCEJXGT2wRXraZeQHi0PS"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
-        "name": "Stompin' At The Savoy",
-        "url": "https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP"
-      },
-      "artists": [
-        {
-          "name": "Rufus",
-          "url": "https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW"
-        },
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 336440,
-      "name": "You Got the Love - Live Version",
-      "url": "https://open.spotify.com/track/5QVr1U4qIpdYIWOzAjbXfr"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "Live From San Francisco",
-        "url": "https://open.spotify.com/album/5AcqbIgJL2xHdmQqYM5TKn"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 295306,
-      "name": "I'd Rather Go Blind",
-      "url": "https://open.spotify.com/track/42iYnuwyoPHCV04u6WImDW"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
         "name": "Live At Montreux 2006 (Live At The Montreux Jazz Festival, Montreux,Switzerland / 2006)",
         "url": "https://open.spotify.com/album/3ym1tVL5rgSYN7o8SuzD45"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 135253,
       "name": "(Sitting On) The Dock Of The Bay - Live",
       "url": "https://open.spotify.com/track/4XOJzE3eTUpuwinBoKZVOO"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
+        "name": "Live From San Francisco",
+        "url": "https://open.spotify.com/album/5AcqbIgJL2xHdmQqYM5TKn"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 295306,
+      "name": "I'd Rather Go Blind",
+      "url": "https://open.spotify.com/track/42iYnuwyoPHCV04u6WImDW"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "The Womack \u201cLive\u201d",
-        "url": "https://open.spotify.com/album/6V7Xe40jkKb1MtdCwzO21A"
-      },
-      "artists": [
-        {
-          "name": "Bobby Womack",
-          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
-        }
-      ],
-      "duration_ms": 366773,
-      "name": "California Dreamin' - Live In Hollywood / 1968",
-      "url": "https://open.spotify.com/track/1nmwDIOcxdrL81PQXHI9kg"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
         "name": "Live With Orchestra And Special Guests",
         "url": "https://open.spotify.com/album/6TiYakhZkKPuLTEddf2Or7"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 331120,
       "name": "Good Morning Heartache (feat. Jill Scott) - Live Audio from The Wilshire Theatre",
       "url": "https://open.spotify.com/track/2TU7q95ZSarTw047rzV6A3"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
+        "name": "The Womack \u201cLive\u201d",
+        "url": "https://open.spotify.com/album/6V7Xe40jkKb1MtdCwzO21A"
+      },
+      "artists": [
+        {
+          "name": "Bobby Womack",
+          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
+        }
+      ],
+      "duration_ms": 366773,
+      "name": "California Dreamin' - Live In Hollywood / 1968",
+      "url": "https://open.spotify.com/track/1nmwDIOcxdrL81PQXHI9kg"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
+        "name": "Invisible Chains Live from Nyc",
+        "url": "https://open.spotify.com/album/4tEFQeMCUIyHNzOWCZi5k9"
+      },
+      "artists": [
+        {
+          "name": "Raul Mid\u00f3n",
+          "url": "https://open.spotify.com/artist/2z3984YB48d3CFltzVlFYE"
+        }
+      ],
+      "duration_ms": 572680,
+      "name": "Sunshine \"I Can Fly\" (Live)",
+      "url": "https://open.spotify.com/track/7rhNmrsrxR5Li3WVxpJjhu"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
         "name": "Tokyo... Live",
         "url": "https://open.spotify.com/album/5ON1SpKi7LFb8axFjAmpEJ"
       },
@@ -1483,18 +1499,18 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "Invisible Chains Live from Nyc",
-        "url": "https://open.spotify.com/album/4tEFQeMCUIyHNzOWCZi5k9"
+        "name": "WAR Live",
+        "url": "https://open.spotify.com/album/4dmFMOaseO8EaOauNihb5T"
       },
       "artists": [
         {
-          "name": "Raul Mid\u00f3n",
-          "url": "https://open.spotify.com/artist/2z3984YB48d3CFltzVlFYE"
+          "name": "War",
+          "url": "https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I"
         }
       ],
-      "duration_ms": 572680,
-      "name": "Sunshine \"I Can Fly\" (Live)",
-      "url": "https://open.spotify.com/track/7rhNmrsrxR5Li3WVxpJjhu"
+      "duration_ms": 366866,
+      "name": "The Cisco Kid - Live Version",
+      "url": "https://open.spotify.com/track/5XMU06RIl7pW7BPpHl1K6D"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -1527,22 +1543,6 @@
       "duration_ms": 333577,
       "name": "No Love Dying - Live At The Royal Albert Hall / 02 April 2018",
       "url": "https://open.spotify.com/track/5zqOcGH3Is5EvPoMG9rBtx"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
-        "name": "WAR Live",
-        "url": "https://open.spotify.com/album/4dmFMOaseO8EaOauNihb5T"
-      },
-      "artists": [
-        {
-          "name": "War",
-          "url": "https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I"
-        }
-      ],
-      "duration_ms": 366866,
-      "name": "The Cisco Kid - Live Version",
-      "url": "https://open.spotify.com/track/5XMU06RIl7pW7BPpHl1K6D"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "Come To My Door (Live at Levon Helm Studios)",
-        "url": "https://open.spotify.com/album/4AwZsGJ2vFqNQWUV6HNeQ8"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
-        }
-      ],
-      "duration_ms": 341133,
-      "name": "Come To My Door - Live at Levon Helm Studios",
-      "url": "https://open.spotify.com/track/1ZhfFBBPMWxiGmnSLj4rBk"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
         "name": "Live: 1989 Memphis Music & Heritage Festival",
         "url": "https://open.spotify.com/album/6YQxgANveFPoKUd4gPt6DH"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 696666,
       "name": "Stand by Me / Chain Gang / Don't Know Much About History / The Happy Song - Live",
       "url": "https://open.spotify.com/track/4bnDjFR0UZ4QECCGBqj0LI"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
+        "name": "Come To My Door (Live at Levon Helm Studios)",
+        "url": "https://open.spotify.com/album/4AwZsGJ2vFqNQWUV6HNeQ8"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+        }
+      ],
+      "duration_ms": 341133,
+      "name": "Come To My Door - Live at Levon Helm Studios",
+      "url": "https://open.spotify.com/track/1ZhfFBBPMWxiGmnSLj4rBk"
     },
     {
       "added_at": "2024-01-11 23:01:00",

@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 314392,
+  "num_followers": 314434,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -303,26 +303,6 @@
     {
       "added_at": "2024-06-14 03:01:00",
       "album": {
-        "name": "vida leve",
-        "url": "https://open.spotify.com/album/3yBDMLDoYrgXZbeXbAGbev"
-      },
-      "artists": [
-        {
-          "name": "Mar.iana",
-          "url": "https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH"
-        },
-        {
-          "name": "Big Up",
-          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
-        }
-      ],
-      "duration_ms": 156909,
-      "name": "vida leve",
-      "url": "https://open.spotify.com/track/0ZAdvDuLbhoEHvqSlRyLUK"
-    },
-    {
-      "added_at": "2024-06-14 03:01:00",
-      "album": {
         "name": "Telegrama",
         "url": "https://open.spotify.com/album/16Eox6Iq12Qod8QUTzvNsJ"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 219375,
       "name": "Telegrama",
       "url": "https://open.spotify.com/track/1lefOCsfwCo30VN7NkuqL9"
+    },
+    {
+      "added_at": "2024-06-14 03:01:00",
+      "album": {
+        "name": "vida leve",
+        "url": "https://open.spotify.com/album/3yBDMLDoYrgXZbeXbAGbev"
+      },
+      "artists": [
+        {
+          "name": "Mar.iana",
+          "url": "https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH"
+        },
+        {
+          "name": "Big Up",
+          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
+        }
+      ],
+      "duration_ms": 156909,
+      "name": "vida leve",
+      "url": "https://open.spotify.com/track/0ZAdvDuLbhoEHvqSlRyLUK"
     },
     {
       "added_at": "2024-06-14 03:01:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-06-14 03:01:00",
       "album": {
-        "name": "Pelo mundo",
-        "url": "https://open.spotify.com/album/1LdtvPmNJBTpAAKG6ttpym"
-      },
-      "artists": [
-        {
-          "name": "Benzi\u00ea",
-          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
-        }
-      ],
-      "duration_ms": 196642,
-      "name": "Sereia",
-      "url": "https://open.spotify.com/track/4Vp6fTExWK3hPTrY9AkXyq"
-    },
-    {
-      "added_at": "2024-06-14 03:01:00",
-      "album": {
         "name": "Meu Destino \u00e9 o Litoral",
         "url": "https://open.spotify.com/album/6dmHQknnJsKsaoZ9Ow44Mh"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 190250,
       "name": "Meu Destino \u00e9 o Litoral",
       "url": "https://open.spotify.com/track/6nvvhe2emrtQsoCmO1dxNg"
+    },
+    {
+      "added_at": "2024-06-14 03:01:00",
+      "album": {
+        "name": "Pelo mundo",
+        "url": "https://open.spotify.com/album/1LdtvPmNJBTpAAKG6ttpym"
+      },
+      "artists": [
+        {
+          "name": "Benzi\u00ea",
+          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
+        }
+      ],
+      "duration_ms": 196642,
+      "name": "Sereia",
+      "url": "https://open.spotify.com/track/4Vp6fTExWK3hPTrY9AkXyq"
     },
     {
       "added_at": "2024-06-14 03:01:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-06-14 03:01:00",
       "album": {
-        "name": "Santa Terra",
-        "url": "https://open.spotify.com/album/75Z8oFAjxXrGABH4URez3B"
-      },
-      "artists": [
-        {
-          "name": "Qback",
-          "url": "https://open.spotify.com/artist/6Uvbaff54Nvzomm1kQLX8q"
-        }
-      ],
-      "duration_ms": 276509,
-      "name": "Santa Terra",
-      "url": "https://open.spotify.com/track/0yjWotYZzx2xrW2SxTZyeG"
-    },
-    {
-      "added_at": "2024-06-14 03:01:00",
-      "album": {
         "name": "Acordo Cedo",
         "url": "https://open.spotify.com/album/058ktMlIudmSi3yvqOKFPB"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 125186,
       "name": "Acordo Cedo",
       "url": "https://open.spotify.com/track/3fp09hk7iBE338wH4vbP2n"
+    },
+    {
+      "added_at": "2024-06-14 03:01:00",
+      "album": {
+        "name": "Santa Terra",
+        "url": "https://open.spotify.com/album/75Z8oFAjxXrGABH4URez3B"
+      },
+      "artists": [
+        {
+          "name": "Qback",
+          "url": "https://open.spotify.com/artist/6Uvbaff54Nvzomm1kQLX8q"
+        }
+      ],
+      "duration_ms": 276509,
+      "name": "Santa Terra",
+      "url": "https://open.spotify.com/track/0yjWotYZzx2xrW2SxTZyeG"
     },
     {
       "added_at": "2024-06-14 03:01:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-06-14 03:01:00",
       "album": {
+        "name": "Filho do Mar",
+        "url": "https://open.spotify.com/album/4ZVhVkoYsJn5ZykZfQGfBO"
+      },
+      "artists": [
+        {
+          "name": "Banda Nossa Praia",
+          "url": "https://open.spotify.com/artist/7ES8RFsuGv3pM0x34FSTIv"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "Filho do Mar",
+      "url": "https://open.spotify.com/track/3kVixQI3JlFiIUPy3jjck9"
+    },
+    {
+      "added_at": "2024-06-14 03:01:00",
+      "album": {
         "name": "Terra do Sol",
         "url": "https://open.spotify.com/album/479XhvUfr2RSx6IamTa0L8"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 153253,
       "name": "Terra do Sol",
       "url": "https://open.spotify.com/track/5DFRBacvE2sPo5XSFCFvZf"
-    },
-    {
-      "added_at": "2024-06-14 03:01:00",
-      "album": {
-        "name": "Filho do Mar",
-        "url": "https://open.spotify.com/album/4ZVhVkoYsJn5ZykZfQGfBO"
-      },
-      "artists": [
-        {
-          "name": "Banda Nossa Praia",
-          "url": "https://open.spotify.com/artist/7ES8RFsuGv3pM0x34FSTIv"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "Filho do Mar",
-      "url": "https://open.spotify.com/track/3kVixQI3JlFiIUPy3jjck9"
     },
     {
       "added_at": "2024-06-14 03:01:00",
@@ -911,18 +911,22 @@
     {
       "added_at": "2024-06-14 03:01:00",
       "album": {
-        "name": "Se Joga",
-        "url": "https://open.spotify.com/album/38I1Q4e9SGC3n5jEKvpVzG"
+        "name": "Flying High",
+        "url": "https://open.spotify.com/album/75aD61Mdn46by45roKljUL"
       },
       "artists": [
         {
-          "name": "Noel Ferrari",
-          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
+          "name": "Solano Jacob",
+          "url": "https://open.spotify.com/artist/2Z5qm6vzoFzV2FfdDQ8kKm"
+        },
+        {
+          "name": "Rafael Senegal",
+          "url": "https://open.spotify.com/artist/2H2ov0xQLpg5fg6nCElBCK"
         }
       ],
-      "duration_ms": 173269,
-      "name": "Se Joga",
-      "url": "https://open.spotify.com/track/5lWp2PF9f1GDtkjVNqF8XS"
+      "duration_ms": 242948,
+      "name": "Flying High",
+      "url": "https://open.spotify.com/track/7CJpiMB7cKSuV4BYgtkV6C"
     },
     {
       "added_at": "2024-06-14 03:01:00",
@@ -947,22 +951,18 @@
     {
       "added_at": "2024-06-14 03:01:00",
       "album": {
-        "name": "Flying High",
-        "url": "https://open.spotify.com/album/75aD61Mdn46by45roKljUL"
+        "name": "Se Joga",
+        "url": "https://open.spotify.com/album/38I1Q4e9SGC3n5jEKvpVzG"
       },
       "artists": [
         {
-          "name": "Solano Jacob",
-          "url": "https://open.spotify.com/artist/2Z5qm6vzoFzV2FfdDQ8kKm"
-        },
-        {
-          "name": "Rafael Senegal",
-          "url": "https://open.spotify.com/artist/2H2ov0xQLpg5fg6nCElBCK"
+          "name": "Noel Ferrari",
+          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
         }
       ],
-      "duration_ms": 242948,
-      "name": "Flying High",
-      "url": "https://open.spotify.com/track/7CJpiMB7cKSuV4BYgtkV6C"
+      "duration_ms": 173269,
+      "name": "Se Joga",
+      "url": "https://open.spotify.com/track/5lWp2PF9f1GDtkjVNqF8XS"
     },
     {
       "added_at": "2024-06-14 03:01:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-06-14 03:01:00",
       "album": {
-        "name": "Na Positiva",
-        "url": "https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR"
-      },
-      "artists": [
-        {
-          "name": "Noel Ferrari",
-          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
-        }
-      ],
-      "duration_ms": 153573,
-      "name": "Na Positiva",
-      "url": "https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5"
-    },
-    {
-      "added_at": "2024-06-14 03:01:00",
-      "album": {
         "name": "Manh\u00e3s Azuis",
         "url": "https://open.spotify.com/album/0dDtX1adn2p2VL4mrDlHUg"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 186874,
       "name": "Manh\u00e3s Azuis",
       "url": "https://open.spotify.com/track/0rH16sFmGrnZoSF0WxqdqR"
+    },
+    {
+      "added_at": "2024-06-14 03:01:00",
+      "album": {
+        "name": "Na Positiva",
+        "url": "https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR"
+      },
+      "artists": [
+        {
+          "name": "Noel Ferrari",
+          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
+        }
+      ],
+      "duration_ms": 153573,
+      "name": "Na Positiva",
+      "url": "https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5"
     }
   ],
   "unique_name": "Praiana",

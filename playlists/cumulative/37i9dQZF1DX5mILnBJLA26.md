@@ -2,7 +2,7 @@
 
 ### [AMAPIANO grooves](https://open.spotify.com/playlist/37i9dQZF1DX5mILnBJLA26)
 
-> Celebrating music as the tool to freedom of expression\. Happy Youth Day!
+> The biggest Amapiano singles making waves in South Africa and the world\. Cover:  <a href="https://open.spotify.com/artist/1lDWyPzSZOqP5jfZNm5lLI?si=8dM77iyPQ8C\_fJOHKg8xcw">DJ Stokie</a>
 
 1,246 songs - 5 day 9 hr 17 min
 

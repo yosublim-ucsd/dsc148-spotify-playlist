@@ -4,7 +4,7 @@
 
 > 愜意放鬆，使自己沉浸在這些動人而優美的鋼琴曲之中。
 
-139 songs - 6 hr 22 min
+141 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Compass](https://open.spotify.com/track/7uN2L2nq8gfUBOUfHtSkQX) | [Niwa Nova](https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo) | [Compass](https://open.spotify.com/album/0fzkfmZfihS41wJFGLjmrv) | 2:20 | 2023-11-20 |  |
 | [Disconnect](https://open.spotify.com/track/5qSil9FkOcQ6A1o3x6HELD) | [Alice Frohde](https://open.spotify.com/artist/4eFkOzPb2gtD5CVb94lYFe) | [Disconnect](https://open.spotify.com/album/65eG2Wyj6NuiA8Yrn5pwm4) | 2:34 | 2023-12-11 |  |
 | [Dolce Far Niente](https://open.spotify.com/track/3FoNBTNv03Soj4XDk6FJqH) | [Heddwch](https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i) | [Dolce Far Niente](https://open.spotify.com/album/09UDHpQS7ti6T14R8i742n) | 2:12 | 2023-11-20 |  |
+| [Dreams](https://open.spotify.com/track/2PmWxFKAruvuCNv6ll9sn0) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Dreams](https://open.spotify.com/album/6SwXGGKrl4gD6yLPJMXgM6) | 2:27 | 2024-06-17 |  |
 | [Début](https://open.spotify.com/track/6YS1MXqso0zlmcL4OV1kXk) | [Mélanie Laurent](https://open.spotify.com/artist/7HS5tD2CPw2AgG4AgWpxpN) | [En t'attendant](https://open.spotify.com/album/4zojkjd8EnxhvBQAx1Nd4W) | 2:40 | 2023-11-20 |  |
 | [Easy To Love](https://open.spotify.com/track/4IQIY6NBsk5X6NLYjPvOaZ) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [Easy To Love](https://open.spotify.com/album/6OK4mZCuEVyzUTwDLkjUTY) | 2:46 | 2024-03-25 |  |
 | [Eeny Meeny Miny Moe](https://open.spotify.com/track/4E0b1oXvrPoxHc9Mh3bYzZ) | [Peter Ehrlichmann](https://open.spotify.com/artist/4i2t5SSw1MoiBLrD1Lrslx) | [Eeny Meeny Miny Moe](https://open.spotify.com/album/6qgQ3pEsZJKEJ7VdRmkvus) | 1:08 | 2023-11-20 |  |
@@ -43,7 +44,7 @@
 | [erinna](https://open.spotify.com/track/7yKhLZM7KvuutJEDBAkSbB) | [Klaus Weissmuller](https://open.spotify.com/artist/5KKMMIwKIfrn4Q3x6PGYxf) | [erinna](https://open.spotify.com/album/6VXZhQ3CoSjtYCxdn9In1X) | 2:08 | 2023-11-20 | 2024-04-24 |
 | [Feathers](https://open.spotify.com/track/2yK3LNJFi8xUn3re8NnhYR) | [Joanna Vicente](https://open.spotify.com/artist/6K04WF6ApF0TeMLB24fkfv) | [Home](https://open.spotify.com/album/4zQTQk0p87RGaRujdSuUPk) | 2:52 | 2023-11-20 |  |
 | [First Sunrise](https://open.spotify.com/track/6gDt7eZjJNIkzLj9jVEBZo) | [Haru Kitamura](https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD) | [First Sunrise](https://open.spotify.com/album/31TimKFNBjRjS4oLnzfect) | 3:32 | 2024-01-15 |  |
-| [follow me home](https://open.spotify.com/track/7k539VUTniwBWMYFOgrAyf) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [fading memories](https://open.spotify.com/album/2hUqUrgwvgD7Syr8wdNcar) | 3:16 | 2024-05-27 |  |
+| [follow me home](https://open.spotify.com/track/7k539VUTniwBWMYFOgrAyf) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [fading memories](https://open.spotify.com/album/2hUqUrgwvgD7Syr8wdNcar) | 3:16 | 2024-05-27 | 2024-06-18 |
 | [Forest Flower](https://open.spotify.com/track/1YxFFbAsEvNA8ocSVQJEH2) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Forest Flower](https://open.spotify.com/album/1xEwOzWSVhygukb5WJYXnZ) | 4:13 | 2024-01-29 |  |
 | [Forget](https://open.spotify.com/track/2CVoj73sTbBrfBoQTEk7yO) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Like Home](https://open.spotify.com/album/3WEsCcZ8AXkt9jzWa84TUn) | 2:17 | 2023-11-20 |  |
 | [Friendship.](https://open.spotify.com/track/4tgsdsLdze2YKRMSqmcy6A) | [Kittikhun P.](https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv) | [Friendship.](https://open.spotify.com/album/6xSRZ5mSLTX2iWEZAyf6Tj) | 1:31 | 2023-11-20 |  |
@@ -81,7 +82,7 @@
 | [Magari](https://open.spotify.com/track/3cbYtmntj3mAHLoM1CEfzZ) | [Riccardo Lettiere](https://open.spotify.com/artist/5umUIBjnV8j12Qu5Zeni2x) | [Magari](https://open.spotify.com/album/7jIDxPIv8IFMdVIsiZ2Sg5) | 1:48 | 2023-12-04 | 2023-12-16 |
 | [Magnificent](https://open.spotify.com/track/1gjZYQff9vXXru1KI6XJHd) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Magnificent](https://open.spotify.com/album/3sBAbDkxVcDKACCpFUcgCn) | 2:34 | 2023-11-20 | 2024-03-26 |
 | [Magnolia](https://open.spotify.com/track/3qKSYY6Sds4jltPME6UFMm) | [Snow in April](https://open.spotify.com/artist/2TSiP8ixCub5bSJnkiwcYv) | [Magnolia](https://open.spotify.com/album/7bnt53QjdwPCOI5h84nY2F) | 2:28 | 2023-11-20 |  |
-| [Mass](https://open.spotify.com/track/0EyMOXlxP0iH4I9SOAjKtS) | [Zwera](https://open.spotify.com/artist/3jYcRq1Sqb24bcf0FDGdWn) | [Mass](https://open.spotify.com/album/2LTY4ASorTFysOfV8Nk1c2) | 2:10 | 2023-11-20 |  |
+| [Mass](https://open.spotify.com/track/0EyMOXlxP0iH4I9SOAjKtS) | [Zwera](https://open.spotify.com/artist/3jYcRq1Sqb24bcf0FDGdWn) | [Mass](https://open.spotify.com/album/2LTY4ASorTFysOfV8Nk1c2) | 2:10 | 2023-11-20 | 2024-06-18 |
 | [Maybe under some other sky](https://open.spotify.com/track/2sTXVgqhs4uTZSoZ5QvlLz) | [Shaunta Coburn](https://open.spotify.com/artist/6Brh18kVDBzXLS2Uu38SuX) | [Maybe under some other sky](https://open.spotify.com/album/0OnhOVXcsZ1yvx5gso1hsq) | 2:19 | 2024-04-29 |  |
 | [Meuse](https://open.spotify.com/track/271aR2CbQyhO36eXkHstzy) | [Aron Finneas](https://open.spotify.com/artist/5eL2qDCUxC7emQsTp17aDx) | [Meuse](https://open.spotify.com/album/71eY3XLNP4ixRL96BLNnWU) | 2:07 | 2024-04-08 |  |
 | [Mind Wide Open](https://open.spotify.com/track/3qofUkK1Yak7mp81Lojn3L) | [Dan Volker](https://open.spotify.com/artist/6dKolJLPeFV2ruWSwZBuYk) | [Mind Wide Open](https://open.spotify.com/album/1LVpYB2Jtto4OMvjzQqBrn) | 2:38 | 2023-11-20 | 2024-03-25 |
@@ -132,6 +133,7 @@
 | [The Music Of The Night](https://open.spotify.com/track/19SbG4LbAtPp6rrc54ZZVS) | [Niila Alto](https://open.spotify.com/artist/2Dx4S8w95AxrvdhJKQVkmC) | [The Music Of The Night](https://open.spotify.com/album/19gJXpMuISfxSL8E95p2bN) | 4:29 | 2023-11-20 |  |
 | [There You Were](https://open.spotify.com/track/2m6G2vP3x33rQhfmSYB9Iy) | [Vina Anais](https://open.spotify.com/artist/4JuT70DV2rTZTNpMaP8Tto) | [There You Were](https://open.spotify.com/album/0UC1V9t6aGAElVezqqT2LG) | 2:19 | 2023-11-20 | 2023-12-12 |
 | [They Keep Asking](https://open.spotify.com/track/2gY1SFySK9FC7Nq41kBoOd) | [Gottfried Barber](https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl) | [They Keep Asking](https://open.spotify.com/album/6v1pneOr3DwY05Mk90l5v0) | 2:31 | 2024-01-08 |  |
+| [They Say It's Wonderful](https://open.spotify.com/track/70XPtCtNGP1SoHfAq0Wjdv) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [They Say It's Wonderful](https://open.spotify.com/album/6O9j528nmzyeA2Y6pOX198) | 3:19 | 2024-06-17 |  |
 | [This Is The Time](https://open.spotify.com/track/5WlGbaNBwa8cClh21SVhXp) | [Aimee Fleur](https://open.spotify.com/artist/6nI0MtO93pTNhec5pbP43B) | [This Is The Time](https://open.spotify.com/album/7jLYwN5WoR3ysYdA9xz6SU) | 2:39 | 2023-11-20 |  |
 | [Together We Will Live Forever](https://open.spotify.com/track/2pr6us08iPNzIex5q6fMvI) | [Clint Mansell](https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU) | [The Fountain OST](https://open.spotify.com/album/7q18n1Pnq7mx6satptDoJ3) | 5:01 | 2023-11-20 |  |
 | [Trail of Light](https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n) | [Albie Monroy](https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT) | [The Ember](https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE) | 3:18 | 2023-11-20 |  |

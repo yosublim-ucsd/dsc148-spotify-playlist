@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-29",
-  "description": "This Is Megan Thee Stallion. Z\u00e1sadn\u00ed skladby, v\u0161echny v\u00a0jednom playlistu.",
+  "description": "This is Megan Thee Stallion. The essential tracks, all in one playlist.",
   "name": "This Is Megan Thee Stallion",
   "tracks": [
     {
@@ -82,7 +82,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 183142,
       "name": "B.I.T.C.H.",
       "url": "https://open.spotify.com/track/06scTb0zbkxYNgpAB3J9fN"
@@ -174,7 +174,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 128995,
       "name": "Big Booty (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/3gTK8TzE4on9Xe05QlVIFI"

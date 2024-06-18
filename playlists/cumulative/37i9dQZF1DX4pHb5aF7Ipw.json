@@ -754,7 +754,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 164247,
       "name": "Foreign",
       "url": "https://open.spotify.com/track/5fEv6mzKXsDoZUQaR4Bu3m"
@@ -2040,6 +2040,28 @@
       "duration_ms": 174730,
       "name": "Still Rollin",
       "url": "https://open.spotify.com/track/6oz1L5jcqZWYuId7nxvIan"
+    },
+    {
+      "album": {
+        "name": "Colonial Mindset",
+        "url": "https://open.spotify.com/album/3p0Bw5SSaU6CJtRr4CqmJ5"
+      },
+      "artists": [
+        {
+          "name": "Sikander Kahlon",
+          "url": "https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN"
+        },
+        {
+          "name": "Al Bamania",
+          "url": "https://open.spotify.com/artist/4pyPB6M72hmPH7Ec3LGVap"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288486,
+      "name": "Swing",
+      "url": "https://open.spotify.com/track/0hK7JnRaiYq1Mc5L3zX0t3"
     },
     {
       "album": {

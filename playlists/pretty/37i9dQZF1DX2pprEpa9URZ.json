@@ -1,6 +1,6 @@
 {
   "description": "A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 771127,
+  "num_followers": 771263,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2024-04-26 15:15:25",
       "album": {
+        "name": "6 Years of Underyourskin Records",
+        "url": "https://open.spotify.com/album/0lzBCZ4jYzWAnprP4UidiJ"
+      },
+      "artists": [
+        {
+          "name": "Ameli Paul",
+          "url": "https://open.spotify.com/artist/2pVs2F50UrSwUthN16rTJc"
+        }
+      ],
+      "duration_ms": 418364,
+      "name": "Worak",
+      "url": "https://open.spotify.com/track/4bBT53FvvtFqHJm9iq7G7L"
+    },
+    {
+      "added_at": "2024-04-26 15:15:25",
+      "album": {
         "name": "Ormila",
         "url": "https://open.spotify.com/album/7rHLPxwPdaBh1VBGx5wlmX"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 298867,
       "name": "Ormila",
       "url": "https://open.spotify.com/track/5neaZwPu8aVigvIZ0kqt91"
-    },
-    {
-      "added_at": "2024-04-26 15:15:25",
-      "album": {
-        "name": "6 Years of Underyourskin Records",
-        "url": "https://open.spotify.com/album/0lzBCZ4jYzWAnprP4UidiJ"
-      },
-      "artists": [
-        {
-          "name": "Ameli Paul",
-          "url": "https://open.spotify.com/artist/2pVs2F50UrSwUthN16rTJc"
-        }
-      ],
-      "duration_ms": 418364,
-      "name": "Worak",
-      "url": "https://open.spotify.com/track/4bBT53FvvtFqHJm9iq7G7L"
     },
     {
       "added_at": "2024-04-26 15:15:25",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-04-26 15:15:25",
       "album": {
-        "name": "Fata Morgana",
-        "url": "https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz"
-      },
-      "artists": [
-        {
-          "name": "Lassjo",
-          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
-        }
-      ],
-      "duration_ms": 309680,
-      "name": "Fata Morgana",
-      "url": "https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ"
-    },
-    {
-      "added_at": "2024-04-26 15:15:25",
-      "album": {
         "name": "The Landing",
         "url": "https://open.spotify.com/album/65jdNET1pQoq35hAb6FXep"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 435466,
       "name": "The Landing - Nadav Dagon & JPattersson",
       "url": "https://open.spotify.com/track/5BmOeZnWcFejkiUsdIRgpl"
+    },
+    {
+      "added_at": "2024-04-26 15:15:25",
+      "album": {
+        "name": "Fata Morgana",
+        "url": "https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz"
+      },
+      "artists": [
+        {
+          "name": "Lassjo",
+          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
+        }
+      ],
+      "duration_ms": 309680,
+      "name": "Fata Morgana",
+      "url": "https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ"
     },
     {
       "added_at": "2024-04-26 15:15:25",
@@ -623,38 +623,6 @@
     {
       "added_at": "2024-04-26 15:15:25",
       "album": {
-        "name": "Magic Workout",
-        "url": "https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7"
-      },
-      "artists": [
-        {
-          "name": "islandman",
-          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
-        }
-      ],
-      "duration_ms": 335877,
-      "name": "Magic Workout",
-      "url": "https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71"
-    },
-    {
-      "added_at": "2024-04-26 15:15:25",
-      "album": {
-        "name": "Birds Of Toi",
-        "url": "https://open.spotify.com/album/3v2LsemlmJTwtbTCX3UlJT"
-      },
-      "artists": [
-        {
-          "name": "Distropical",
-          "url": "https://open.spotify.com/artist/5hW8i3nfA2DknrWudd2aUF"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Birds Of Toi",
-      "url": "https://open.spotify.com/track/2IVlbPA7i2L2BWEFvyUqI8"
-    },
-    {
-      "added_at": "2024-04-26 15:15:25",
-      "album": {
         "name": "Into Your Tribe (Bedouin Remix)",
         "url": "https://open.spotify.com/album/6TPJ9cK3kjACehsD2Yu9GR"
       },
@@ -683,6 +651,38 @@
       "duration_ms": 454680,
       "name": "Into Your Tribe - Bedouin Remix",
       "url": "https://open.spotify.com/track/4WtH6JyDF4OlQXglvX7oCV"
+    },
+    {
+      "added_at": "2024-04-26 15:15:25",
+      "album": {
+        "name": "Birds Of Toi",
+        "url": "https://open.spotify.com/album/3v2LsemlmJTwtbTCX3UlJT"
+      },
+      "artists": [
+        {
+          "name": "Distropical",
+          "url": "https://open.spotify.com/artist/5hW8i3nfA2DknrWudd2aUF"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Birds Of Toi",
+      "url": "https://open.spotify.com/track/2IVlbPA7i2L2BWEFvyUqI8"
+    },
+    {
+      "added_at": "2024-04-26 15:15:25",
+      "album": {
+        "name": "Magic Workout",
+        "url": "https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7"
+      },
+      "artists": [
+        {
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
+        }
+      ],
+      "duration_ms": 335877,
+      "name": "Magic Workout",
+      "url": "https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71"
     },
     {
       "added_at": "2024-04-26 15:15:25",
@@ -919,26 +919,6 @@
     {
       "added_at": "2024-04-26 15:15:25",
       "album": {
-        "name": "Beyond Strings",
-        "url": "https://open.spotify.com/album/4O3CN6cMyHP95IpF7QcPJa"
-      },
-      "artists": [
-        {
-          "name": "Ghenwa Nemnom",
-          "url": "https://open.spotify.com/artist/4SUWLWGcllGbkcLN5DKulp"
-        },
-        {
-          "name": "Mohab Sammy",
-          "url": "https://open.spotify.com/artist/223p44YDBTVmvgi2NeHC5j"
-        }
-      ],
-      "duration_ms": 451525,
-      "name": "Beyond Strings",
-      "url": "https://open.spotify.com/track/0X0nx6xOexUGeR5lGfqXCE"
-    },
-    {
-      "added_at": "2024-04-26 15:15:25",
-      "album": {
         "name": "Bem a Tempo (Yemanjo Remix)",
         "url": "https://open.spotify.com/album/4hAhIqwRzsd1KLMcHYOlN2"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 337714,
       "name": "Bem a Tempo - Yemanjo Remix",
       "url": "https://open.spotify.com/track/5HSSXa50YSC7TUC32IjwVD"
+    },
+    {
+      "added_at": "2024-04-26 15:15:25",
+      "album": {
+        "name": "Beyond Strings",
+        "url": "https://open.spotify.com/album/4O3CN6cMyHP95IpF7QcPJa"
+      },
+      "artists": [
+        {
+          "name": "Ghenwa Nemnom",
+          "url": "https://open.spotify.com/artist/4SUWLWGcllGbkcLN5DKulp"
+        },
+        {
+          "name": "Mohab Sammy",
+          "url": "https://open.spotify.com/artist/223p44YDBTVmvgi2NeHC5j"
+        }
+      ],
+      "duration_ms": 451525,
+      "name": "Beyond Strings",
+      "url": "https://open.spotify.com/track/0X0nx6xOexUGeR5lGfqXCE"
     },
     {
       "added_at": "2024-04-26 15:15:25",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2024-04-26 15:15:25",
       "album": {
-        "name": "White Desert",
-        "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
-      },
-      "artists": [
-        {
-          "name": "Pysh",
-          "url": "https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz"
-        },
-        {
-          "name": "Stephane Salerno",
-          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
-        }
-      ],
-      "duration_ms": 400696,
-      "name": "White Desert",
-      "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
-    },
-    {
-      "added_at": "2024-04-26 15:15:25",
-      "album": {
         "name": "Soul",
         "url": "https://open.spotify.com/album/5Lkjqkn8LFTfpo2o9kbqJP"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 449454,
       "name": "Soul",
       "url": "https://open.spotify.com/track/5qFCeotddc68VUOEQ8jaur"
+    },
+    {
+      "added_at": "2024-04-26 15:15:25",
+      "album": {
+        "name": "White Desert",
+        "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
+      },
+      "artists": [
+        {
+          "name": "Pysh",
+          "url": "https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz"
+        },
+        {
+          "name": "Stephane Salerno",
+          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
+        }
+      ],
+      "duration_ms": 400696,
+      "name": "White Desert",
+      "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
     },
     {
       "added_at": "2024-04-26 15:15:25",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2024-04-26 15:15:25",
       "album": {
+        "name": "Zurna",
+        "url": "https://open.spotify.com/album/5RzdvVQ7EY5WJW6SdXILld"
+      },
+      "artists": [
+        {
+          "name": "Badbox",
+          "url": "https://open.spotify.com/artist/1rfV7OLiCDOYcAacFcJ6Kf"
+        }
+      ],
+      "duration_ms": 431451,
+      "name": "Zurna",
+      "url": "https://open.spotify.com/track/5Kl2LAN9eM6FQBodDXZeTC"
+    },
+    {
+      "added_at": "2024-04-26 15:15:25",
+      "album": {
         "name": "Doors To Shambhala",
         "url": "https://open.spotify.com/album/3P7aWuNA3Sk4BkBztpr8Yr"
       },
@@ -1259,26 +1275,6 @@
     {
       "added_at": "2024-04-26 15:15:25",
       "album": {
-        "name": "KINTSUGI",
-        "url": "https://open.spotify.com/album/1442OqCb0NO5ojhFiynDYN"
-      },
-      "artists": [
-        {
-          "name": "Steff da Campo",
-          "url": "https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ"
-        },
-        {
-          "name": "Ilkay Sencan",
-          "url": "https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "KINTSUGI",
-      "url": "https://open.spotify.com/track/3gsTJKE0ltx5FPAw5RFa4A"
-    },
-    {
-      "added_at": "2024-04-26 15:15:25",
-      "album": {
         "name": "Alkebulan Remix",
         "url": "https://open.spotify.com/album/2JoZyLBoWtjzNLJKsXNoVs"
       },
@@ -1303,6 +1299,26 @@
     {
       "added_at": "2024-04-26 15:15:25",
       "album": {
+        "name": "KINTSUGI",
+        "url": "https://open.spotify.com/album/1442OqCb0NO5ojhFiynDYN"
+      },
+      "artists": [
+        {
+          "name": "Steff da Campo",
+          "url": "https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ"
+        },
+        {
+          "name": "Ilkay Sencan",
+          "url": "https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "KINTSUGI",
+      "url": "https://open.spotify.com/track/3gsTJKE0ltx5FPAw5RFa4A"
+    },
+    {
+      "added_at": "2024-04-26 15:15:25",
+      "album": {
         "name": "Rummen",
         "url": "https://open.spotify.com/album/12FPrXQxaxUUvhMFUEZpM3"
       },
@@ -1315,38 +1331,6 @@
       "duration_ms": 466750,
       "name": "Rummen",
       "url": "https://open.spotify.com/track/6SAhql2LjyxheYXSRfNTNz"
-    },
-    {
-      "added_at": "2024-04-26 15:15:25",
-      "album": {
-        "name": "Zurna",
-        "url": "https://open.spotify.com/album/5RzdvVQ7EY5WJW6SdXILld"
-      },
-      "artists": [
-        {
-          "name": "Badbox",
-          "url": "https://open.spotify.com/artist/1rfV7OLiCDOYcAacFcJ6Kf"
-        }
-      ],
-      "duration_ms": 431451,
-      "name": "Zurna",
-      "url": "https://open.spotify.com/track/5Kl2LAN9eM6FQBodDXZeTC"
-    },
-    {
-      "added_at": "2024-04-26 15:15:25",
-      "album": {
-        "name": "Lit",
-        "url": "https://open.spotify.com/album/7J7YPXiCDdTaKHdfFSPXSP"
-      },
-      "artists": [
-        {
-          "name": "Hezarfen",
-          "url": "https://open.spotify.com/artist/0dPdqLZLFoyW8btQ3Z9vZx"
-        }
-      ],
-      "duration_ms": 360000,
-      "name": "Lit",
-      "url": "https://open.spotify.com/track/057dSG3J2yUkg6qvCpLEWJ"
     },
     {
       "added_at": "2024-04-26 15:15:25",
@@ -1387,6 +1371,22 @@
       "duration_ms": 400695,
       "name": "Tribal Rhythms",
       "url": "https://open.spotify.com/track/6wUN5LNMpIiYrNJTjaTTsS"
+    },
+    {
+      "added_at": "2024-04-26 15:15:25",
+      "album": {
+        "name": "Lit",
+        "url": "https://open.spotify.com/album/7J7YPXiCDdTaKHdfFSPXSP"
+      },
+      "artists": [
+        {
+          "name": "Hezarfen",
+          "url": "https://open.spotify.com/artist/0dPdqLZLFoyW8btQ3Z9vZx"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "Lit",
+      "url": "https://open.spotify.com/track/057dSG3J2yUkg6qvCpLEWJ"
     },
     {
       "added_at": "2024-04-26 15:15:25",

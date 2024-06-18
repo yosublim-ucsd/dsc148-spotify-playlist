@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,302 songs - 3 day 3 hr 36 min
+1,303 songs - 3 day 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -572,6 +572,7 @@
 | [In My Bones](https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [In My Bones](https://open.spotify.com/album/1KIJzQIjSlJaSQZ9qLf1kB) | 2:36 | 2024-04-19 |  |
 | [In My Head](https://open.spotify.com/track/0UJ55vY4Mn8SYj6o6kWaWi) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [offrami](https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1) | [In My Head](https://open.spotify.com/album/6iLhUKx2Pgbdj8yJB6hbZ4) | 2:27 | 2023-02-10 | 2023-06-17 |
 | [In My Mind](https://open.spotify.com/track/45c9wiUAAYRgbAnBcfPEsk) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [In My Mind](https://open.spotify.com/album/4eYA7Zv64Zf4TrE9js5VLo) | 2:00 | 2024-02-26 |  |
+| [In My Mind](https://open.spotify.com/track/67lUp5rf0rzq8PhAZ805Lc) | [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k) | [In My Mind](https://open.spotify.com/album/3EsFLxuzw23LOKbaG33jAe) | 4:46 | 2024-06-17 |  |
 | [In Time](https://open.spotify.com/track/7vVIT1ywbtXgRIY89u5kEH) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [In Time](https://open.spotify.com/album/5epOkHu9dFr3Og9tPC7zXc) | 3:11 | 2019-08-09\* | 2020-03-29 |
 | [IN TOO DEEP](https://open.spotify.com/track/0aSk0QVYN4DjZ33gPP5xnV) | [BONNIE X CLYDE](https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r) | [IN TOO DEEP](https://open.spotify.com/album/1GKef1XAvpb9xnyRUs8GYt) | 3:01 | 2022-09-30 | 2022-11-12 |
 | [In Too Deep](https://open.spotify.com/track/4VEEGfekFjcTjEOxSmUgBF) | [BONNIE X CLYDE](https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r) | [Tears In Paradise](https://open.spotify.com/album/3KxCBxlG7udmxLbU4SI1LE) | 3:01 | 2022-10-28 | 2024-04-10 |

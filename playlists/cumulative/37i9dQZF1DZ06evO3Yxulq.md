@@ -4,7 +4,7 @@
 
 > This is Christine D'Clario\. The essential tracks, all in one playlist.
 
-102 songs - 9 hr 52 min
+103 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Ancla](https://open.spotify.com/track/6snr2DTNX0Ar2wPxNkuU2R) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Ancla](https://open.spotify.com/album/5quXdbYBxYKxcYjz2QLWSM) | 8:19 | 2022-09-14 | 2024-05-17 |
 | [Bello eres tú](https://open.spotify.com/track/55DNwNrsS9IE4WTDlIu1su) | [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Bello eres tú](https://open.spotify.com/album/4WklYaOuYePHVlPn1jJcQ4) | 6:50 | 2022-10-12 | 2024-04-27 |
 | [Bendice Al Señor](https://open.spotify.com/track/4x2qFsAUwxgg6jOilQRRzX) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Emanuel](https://open.spotify.com/album/6mNXg7SEzc56gbSEwmoK0Q) | 4:47 | 2022-09-14 | 2022-10-12 |
+| [Como Dijiste](https://open.spotify.com/track/7eTHXbvKavcvhSoD5L7D5J) | [Aliento Kids](https://open.spotify.com/artist/3YizQtvjJAAx4IJSRxVBYt), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Ambientes de Cuna](https://open.spotify.com/album/5G15j9kqUFavMmjyrBTQCu) | 7:32 | 2024-06-18 |  |
 | [Como Dijiste](https://open.spotify.com/track/5Q5ArHcJlRcWLZMRBRN4sX) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [De Vuelta Al Jardin](https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6) | 4:59 | 2022-09-14 | 2024-05-12 |
 | [Como Dijiste](https://open.spotify.com/track/7BY5JRklkQUu4e0tlZDBy7) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [De Vuelta al Jardin](https://open.spotify.com/album/3Wqr5yNRTsQJQg1buZDYmZ) | 4:59 | 2024-05-12 |  |
 | [Como Dijiste \(En Vivo\)](https://open.spotify.com/track/4i5TJpTEhGiJ6wxyr6eYvs) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [EVANGELIO \(En Vivo\)](https://open.spotify.com/album/4x17cmkqwt4gA0q0zVnDEd) | 3:51 | 2023-06-20 | 2023-06-22 |
@@ -91,7 +92,7 @@
 | [Solo En Jesús](https://open.spotify.com/track/68CAAYvALCFbVlO0aPr52F) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Solo En Jesús](https://open.spotify.com/album/6S5o4PNr7RobifM9GVpIjE) | 4:31 | 2024-03-16 |  |
 | [Solo Tu](https://open.spotify.com/track/2FpjyN25ntw5wRI0HHPTHs) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Solo Tu..\. Lo Unico Que Quiero](https://open.spotify.com/album/6B0oYyezYLKGtmhKhHOEwP) | 3:39 | 2024-04-19 |  |
 | [Solo Tu](https://open.spotify.com/track/6yxDTsYge75Eka9yeXnHuN) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Solo Tu...Lo Unico Que Quiero](https://open.spotify.com/album/1bohZwfenuWFIuFrUETFuq) | 3:39 | 2022-09-14 | 2024-04-19 |
-| [Stories On Stories](https://open.spotify.com/track/3GLialPfon3PHfwNjZvgi2) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Stories On Stories](https://open.spotify.com/album/7rqxrTJYrTRSszKiqn6VXK) | 4:00 | 2023-10-10 |  |
+| [Stories On Stories](https://open.spotify.com/track/3GLialPfon3PHfwNjZvgi2) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Stories On Stories](https://open.spotify.com/album/7rqxrTJYrTRSszKiqn6VXK) | 4:00 | 2023-10-10 | 2024-06-18 |
 | [Tantas Historias](https://open.spotify.com/track/6f1jhlNzYyUvK2XwxCk2pT) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Stories On Stories](https://open.spotify.com/album/11x6snME6Sa5BG8aEIzEBr) | 4:00 | 2023-11-10 |  |
 | [Todo Lo Haces Nuevo](https://open.spotify.com/track/6dbNKCUB2HwCdAB7aGgyu4) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy) | 10:12 | 2022-09-14 |  |
 | [Tu Amistad Me Hace Bien \(feat\. Christine D'Clario, Karina Moreno, Coalo Zamorano & Gadiel Espinoza\)](https://open.spotify.com/track/0lrENvjmcsu1EsursfB9j0) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Karina Moreno](https://open.spotify.com/artist/55GwvcG0bBwuYoq1z8boko), [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b), [Gadiel Espinoza](https://open.spotify.com/artist/6LsF1LrB6rmAiWps0Mo1t6) | [Momentos](https://open.spotify.com/album/0fQSdKwSm4J3qXngyqPRRd) | 4:22 | 2022-09-14 | 2022-10-13 |

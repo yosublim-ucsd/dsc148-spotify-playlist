@@ -4,7 +4,7 @@
 
 > This is The Three Degrees\. The essential tracks, all in one playlist.
 
-107 songs - 6 hr 39 min
+108 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Holding Back \- Glamma Edit](https://open.spotify.com/track/6f7kXH7E0UCdKHCfv9bxsx) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Dancing with the Divas](https://open.spotify.com/album/6thYx7uC3WcCxvbbvyQlzo) | 3:39 | 2023-06-16 | 2023-09-19 |
 | [I Didn't Know](https://open.spotify.com/track/21Y28bL36SaVy1tRc6KATk) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees](https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX) | 2:49 | 2022-05-25 |  |
 | [I Do Take You](https://open.spotify.com/track/0qxo60yGHQWWROmJXvcSCy) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 3:16 | 2022-05-25 |  |
-| [I Like Being A Woman](https://open.spotify.com/track/1J8gk2wlXNnsabMGUOutl3) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees](https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX) | 3:57 | 2022-05-27 | 2024-05-28 |
+| [I Like Being A Woman](https://open.spotify.com/track/1J8gk2wlXNnsabMGUOutl3) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees](https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX) | 3:57 | 2022-05-27 |  |
 | [I Turn to You \- Mono Version](https://open.spotify.com/track/4WNofpNcxMXpnAPzu5c6Fz) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [So Much Love \(Expanded Edition\)](https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U) | 3:16 | 2023-03-01 |  |
 | [I Wanna Be Your Baby](https://open.spotify.com/track/7jyu10lLeLdV1dWtFmn9Yw) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Tales Are True / I Wanna Be Your Baby](https://open.spotify.com/album/5m0vIwKgbBqhDKQ1s3yeiW) | 2:51 | 2022-05-25 | 2023-01-29 |
 | [I Won't Let You Go](https://open.spotify.com/track/0EDADfWHwCXlZDETMCBW3m) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Playlist: The Best Of The Roulette Years](https://open.spotify.com/album/6XpWAy4yKqmaopZL0xeb15) | 2:58 | 2022-05-25 |  |
@@ -89,7 +89,7 @@
 | [T.S.O.P\. \- The Sound Of Philadelphia \- Rerecorded](https://open.spotify.com/track/3nmNoQu3fG7shfIw3XBetT) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Greatest Hits \(Re\-recorded\)](https://open.spotify.com/album/5UDCcqlQ9mEJ1Bhgy4mcL6) | 2:54 | 2023-07-29 | 2024-06-10 |
 | [Take Good Care of Yourself](https://open.spotify.com/track/5atFgDE8TM07EhCKkBIPlq) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of The Three Degrees: When Will I See You Again](https://open.spotify.com/album/0GO4Ee0UN5cyB1FnWPfOzz) | 3:23 | 2023-05-02 | 2024-04-03 |
 | [Take Good Care of Yourself](https://open.spotify.com/track/5fVF22MwGwAiRBbuMDJf1u) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of](https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG) | 3:25 | 2022-05-25 |  |
-| [The Grass \(Will Sing for You\) \[Mono Version\]](https://open.spotify.com/track/5aBfIwwa1Vu2j625w4hYZ2) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 3:22 | 2022-11-15 |  |
+| [The Grass \(Will Sing for You\) \[Mono Version\]](https://open.spotify.com/track/5aBfIwwa1Vu2j625w4hYZ2) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 3:22 | 2022-11-15 | 2024-06-18 |
 | [The Heaven I Need \(Backing Track\)](https://open.spotify.com/track/1pkt7OCwQqgH6Khjdm2GWl) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Heaven I Need](https://open.spotify.com/album/2JBHZ8quxuYnqSaCMc5JMm) | 3:17 | 2023-12-13 |  |
 | [The Heaven I Need \- Single Version](https://open.spotify.com/track/3XjxAp2oPICHJTXUDTga2f) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Heaven I Need](https://open.spotify.com/album/5BrtfX0BIYysyPYyfDEA7J) | 3:17 | 2022-05-25 | 2023-12-14 |
 | [The Magic Door](https://open.spotify.com/track/5B94YFQfQ42lnEoOn3tA7M) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 2:33 | 2022-09-01 |  |
@@ -104,7 +104,7 @@
 | [Trade Winds](https://open.spotify.com/track/2uzwlTsKQimo498MeuJFgb) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 4:33 | 2023-02-13 | 2024-02-01 |
 | [We're All Alone](https://open.spotify.com/track/4hua7kkNIxSudKIxRmDk5n) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees \- The Very Best Of](https://open.spotify.com/album/6q15LPZbFU3wOVF35S6c2l) | 3:33 | 2022-05-25 |  |
 | [What I Did for Love](https://open.spotify.com/track/5ivPBMpp37NridLZrQDwsx) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees \- The Very Best Of](https://open.spotify.com/album/6q15LPZbFU3wOVF35S6c2l) | 3:38 | 2022-05-25 |  |
-| [When Will I See You Again](https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees](https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX) | 2:58 | 2022-05-25 |  |
+| [When Will I See You Again](https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees](https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX) | 2:58 | 2022-05-25 | 2024-06-18 |
 | [When Will I See You Again](https://open.spotify.com/track/4euw74YAO8Q0dsOClYq0cM) | [Thomas Anders](https://open.spotify.com/artist/5YST2BJLoQVVhyXoZfbCZ0), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [When Will I See You Again](https://open.spotify.com/album/0KAz7SC26vWkTyllKBC239) | 3:30 | 2022-05-25 |  |
 | [When Will I See You Again / Love Train \- Live Medley](https://open.spotify.com/track/6s59Mq2boCny0IIFPinPxT) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa), [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [T.S.O.P\. The Sound of Philadelphia \(Live in Concert\)](https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr) | 8:01 | 2022-05-27 | 2024-06-16 |
 | [Who Is She and What Is She to You](https://open.spotify.com/track/5pzpxn3XvxtVeCNSBm8zys) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [So Much Love \(Expanded Edition\)](https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U) | 3:17 | 2022-05-25 |  |
@@ -115,5 +115,6 @@
 | [You're the Fool](https://open.spotify.com/track/3vzbLYeAjvRjc63S1fxSpp) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Maybe \(Expanded Edition\)](https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit) | 2:49 | 2023-10-10 |  |
 | [You're the One](https://open.spotify.com/track/7F6kaO0Bp9uKefViCZGiP4) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Maybe \(Expanded Edition\)](https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit) | 3:24 | 2022-05-25 | 2024-06-09 |
 | [Yours](https://open.spotify.com/track/6KcKPjE7ysZTnox78X3Uw7) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Maybe / Yours](https://open.spotify.com/album/1Ghs1ydR25taZze9hXHjib) | 2:44 | 2023-02-17 | 2023-04-19 |
+| [Yours](https://open.spotify.com/track/6mT1blqlEs8Wy0o5P0dn5o) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 3:02 | 2024-06-18 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

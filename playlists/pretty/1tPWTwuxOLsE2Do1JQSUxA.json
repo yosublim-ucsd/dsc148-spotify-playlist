@@ -1,12 +1,12 @@
 {
   "description": "Get nostalgic with all the summer hits and bangers you'll need. From Beyonc\u00e9, Alicia Keys, John Legend, Miley Cyrus, P!nk and many more....",
-  "num_followers": 459460,
+  "num_followers": 459718,
   "original_name": "2010s Summer Throwbacks \u2600\ufe0f\ud83e\udda9\ud83c\udf34",
   "owner": {
     "name": "Filtr UK",
     "url": "https://open.spotify.com/user/sonymusicuk"
   },
-  "snapshot_id": "AAALL+eoCr46HZMQUy32SHMv894H99IH",
+  "snapshot_id": "AAALMnenoxRit4Ee9Fm9PM4N6uPbrfVh",
   "tracks": [
     {
       "added_at": "2024-06-13 19:26:11",
@@ -167,6 +167,26 @@
       "duration_ms": 202626,
       "name": "Moves Like Jagger",
       "url": "https://open.spotify.com/track/5XaJydtltOhMpNGq0o5Oal"
+    },
+    {
+      "added_at": "2024-06-17 17:29:57",
+      "album": {
+        "name": "Listen Up! The Official 2010 FIFA World Cup Album",
+        "url": "https://open.spotify.com/album/0CKqyf7ptIwn4EtOV8nddm"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+        }
+      ],
+      "duration_ms": 202626,
+      "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
+      "url": "https://open.spotify.com/track/6bNB5gxFX6Q87DbQWb8OWZ"
     },
     {
       "added_at": "2024-06-13 19:26:11",
@@ -419,26 +439,6 @@
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
-    },
-    {
-      "added_at": "2024-06-13 19:26:11",
-      "album": {
-        "name": "Ultra Dance",
-        "url": "https://open.spotify.com/album/4GIaim1dlXAaPVPi8IRZzM"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        },
-        {
-          "name": "Zwette",
-          "url": "https://open.spotify.com/artist/6J2749jPHYhAZUq79rsNi0"
-        }
-      ],
-      "duration_ms": 216906,
-      "name": "Another Love (Zwette Remix) [Radio Edit]",
-      "url": "https://open.spotify.com/track/0AhrgQlnppyE66RRi3eD25"
     },
     {
       "added_at": "2024-06-13 19:26:11",

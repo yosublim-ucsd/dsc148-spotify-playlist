@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-14,068 songs - 30 day 8 hr 58 min
+14,069 songs - 30 day 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2625,6 +2625,7 @@
 | [Dance To The Music \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/5PB5GPADqc74DvB6vxhD3I) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Dance To The Music \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/1dAzt59wZ2lkkJNgecsO1a) | 2:43 | 2022-06-23 | 2022-07-01 |
 | [Dance With Me](https://open.spotify.com/track/4MIo8EQ1LqRYbWLT0kDvpv) | [Anna Bergendahl](https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9) | [Dance With Me](https://open.spotify.com/album/4D8YvLwhSoZXWRVnM1fJoa) | 2:43 | 2023-04-20 | 2023-04-28 |
 | [DANCE WITH ME](https://open.spotify.com/track/0FnuaL9AcJxAdzwGPcIHVr) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [DANCE WITH ME](https://open.spotify.com/album/3Uo59FndkcDDp0H7k9yJmh) | 3:08 | 2023-10-05 | 2023-10-13 |
+| [Dance With Me](https://open.spotify.com/track/2I5ipWaIXUknimwtJPoPYt) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance With Me](https://open.spotify.com/album/1wkUCIDGpYN0PEIcyG4dS6) | 3:45 | 2024-06-14 |  |
 | [Dance with me now](https://open.spotify.com/track/17eVTLqhSqzPSCxl4yT5aP) | [Mark Klaver](https://open.spotify.com/artist/68l3xR1huVp4U3ThWY0XvT), [Martin Mix](https://open.spotify.com/artist/6zxDyTabJvqU5YmHbeE2Kk), [Amace](https://open.spotify.com/artist/5LLKKLoLRrFaBHrvZH1hZQ) | [Dance with me now](https://open.spotify.com/album/6lomwQ7Y8VoasNiZPBFyCD) | 2:51 | 2023-08-03 | 2023-08-11 |
 | [Dance With Somebody](https://open.spotify.com/track/0Jmh09aQdMyzpIwnwNwiLS) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Benny Bridges](https://open.spotify.com/artist/4lP1lKWYqNLYWYtnuTh8OF) | [Dance With Somebody](https://open.spotify.com/album/5P3b13kbX6kSjcURHPyqxv) | 3:24 | 2023-05-11 | 2023-05-19 |
 | [Dance With You](https://open.spotify.com/track/4fvcOHfqC8yEBQphZjFud6) | [Laura Marano](https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [Dance With You](https://open.spotify.com/album/26Za5pnbPVRxLEV85dCP16) | 2:43 | 2021-12-31 | 2022-01-07 |

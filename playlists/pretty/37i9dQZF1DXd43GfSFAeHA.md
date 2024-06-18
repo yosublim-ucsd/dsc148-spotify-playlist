@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 
 > A selection of the finest Hip\-Hop tracks from the illest Arab Rappers\. Cover: Samara
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,892 likes - 51 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,914 likes - 51 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 48 | [3al hady](https://open.spotify.com/track/2xo7e1lWaLrmHqRyITPSlT) | [Uglymoss](https://open.spotify.com/artist/0FnIoDE1vDMSPMCXpfmLFW) | [3al hady](https://open.spotify.com/album/1Ae5dRJaDBUqCjTE33f15F) | 2:48 |
 | 49 | [3andy Sahb](https://open.spotify.com/track/5wUv8kas7QKIrUeSLOfdYd) | [El Sawareekh](https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [3andy Saheb](https://open.spotify.com/album/2HYmYflHK4DpNoInSWekSR) | 2:48 |
 | 50 | [Ama Ba'ad \(Shathar Mathar\)](https://open.spotify.com/track/2WMGvPpnSOk3YW8AjwkWiv) | [Klash](https://open.spotify.com/artist/576Qg5nTQ5fVCFaSYrvKdw) | [Ama Ba'ad \(Shathar Mathar\)](https://open.spotify.com/album/1oOFKHuth7o9cNeAZp3ms0) | 4:16 |
-| 51 | [Jabra Vu](https://open.spotify.com/track/4lWFersonZ1v1QwwIi7ohZ) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN) | [Deja Vu](https://open.spotify.com/album/5kYZncxSpmU0nldbzyHw6q) | 2:17 |
+| 51 | [W Bashot](https://open.spotify.com/track/3bhQZfZf8NEiZDkwAafdpe) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [7abba Fo2 // 7abba Ta7t](https://open.spotify.com/album/1o6axxoJca4D2hO5l288gi) | 2:34 |
 
 Snapshot ID: `ZksLYAAAAAD9F1yG5IcHeW7reoj4InAj`

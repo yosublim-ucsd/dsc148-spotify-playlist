@@ -1,12 +1,12 @@
 {
-  "description": "This is El Tri. The essential tracks, all in one playlist.",
-  "num_followers": 132405,
+  "description": "This is El Tri\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "num_followers": 132414,
   "original_name": "This Is El Tri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmzZgAAAAAAyKKuZ+/7ftymyyCmnRLM8",
+  "snapshot_id": "Zm4rAAAAAAA1GwyUdF1WViF1FqFi97uk",
   "tracks": [
     {
       "added_at": null,
@@ -323,6 +323,22 @@
       "duration_ms": 266120,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/560VWBRAFAYoY7uieHdKVt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Tri Sinf\u00f3nico II",
+        "url": "https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 342893,
+      "name": "Oye cantinero",
+      "url": "https://open.spotify.com/track/6G1omxCOzzW0KSTpfnovu7"
     },
     {
       "added_at": null,
@@ -715,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hecho en M\u00e9xico",
-        "url": "https://open.spotify.com/album/369wsc0pjkUa9W6zUn0iz7"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 158533,
-      "name": "Una y otra vez",
-      "url": "https://open.spotify.com/track/0h24IaU3nilnYZmx0MeMSM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "21 A\u00f1os despu\u00e9s Alex Lora y El Tri",
         "url": "https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu"
       },
@@ -743,6 +743,22 @@
       "duration_ms": 309893,
       "name": "Un d\u00eda en la vida",
       "url": "https://open.spotify.com/track/3B9zvy65m9pGZmxu7lQzLd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yo Quiero Ser Tu Celular",
+        "url": "https://open.spotify.com/album/0Vm2FAdqnp2ruW2uRuStQ3"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 153392,
+      "name": "Eres El Mejor",
+      "url": "https://open.spotify.com/track/7kqaIIh8JLx97FIBVh7tNW"
     },
     {
       "added_at": null,
@@ -763,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Quiero Ser Tu Celular",
-        "url": "https://open.spotify.com/album/0Vm2FAdqnp2ruW2uRuStQ3"
+        "name": "Hecho en M\u00e9xico",
+        "url": "https://open.spotify.com/album/369wsc0pjkUa9W6zUn0iz7"
       },
       "artists": [
         {
@@ -772,9 +788,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 153392,
-      "name": "Eres El Mejor",
-      "url": "https://open.spotify.com/track/7kqaIIh8JLx97FIBVh7tNW"
+      "duration_ms": 158533,
+      "name": "Una y otra vez",
+      "url": "https://open.spotify.com/track/0h24IaU3nilnYZmx0MeMSM"
     },
     {
       "added_at": null,
@@ -891,8 +907,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra tocada m\u00e1s",
-        "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
+        "name": "En vivo y a todo calor (En el Hollywood Palladium)",
+        "url": "https://open.spotify.com/album/30XSCjeJiHkWqEUrWvx6o3"
       },
       "artists": [
         {
@@ -900,25 +916,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 246960,
-      "name": "Caseta de cobro",
-      "url": "https://open.spotify.com/track/2zm7vgeqPL4EHoF69mh802"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/1fK1XSbmTDH2UDBTXqj5bE"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 363146,
-      "name": "Chavo de onda - Live",
-      "url": "https://open.spotify.com/track/7haAS6bTEJHz5at86CAG9g"
+      "duration_ms": 442800,
+      "name": "Encuentros cercanos del 3er. sexo - En vivo",
+      "url": "https://open.spotify.com/track/1hAExu07HNO7SkljuiUUfm"
     }
   ],
   "unique_name": "This Is El Tri",

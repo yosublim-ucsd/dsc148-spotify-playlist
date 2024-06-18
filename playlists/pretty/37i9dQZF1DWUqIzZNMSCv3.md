@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 
 > Relaxing classical piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,047 likes - 81 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,121 likes - 81 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 | 50 | [Three Visions: II\. Summerland](https://open.spotify.com/track/61NVGsaU1YXShnv2nwdJ0s) | [William Grant Still](https://open.spotify.com/artist/0KkJoXozXmbRdmpy7zCmYA), [Natalie Hinderas](https://open.spotify.com/artist/5QLM2Mh4Uz580PqO6figt2) | [Piano Music by African\-American Composers](https://open.spotify.com/album/6uvdXbMHeBaBis4cGdVadM) | 4:37 |
 | 51 | [The Seasons, Op\. 37b: VI\. June, "Barcarolle"](https://open.spotify.com/track/675uoOAtz3TzuigX3Doe4h) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Yefim Bronfman](https://open.spotify.com/artist/1LMUcg4F3Uv0qeeJXw56uT) | [Tchaikovsky: The Seasons, Op\. 37b, Balakirev: Islamey](https://open.spotify.com/album/0falRTDjRo6qFsfBwUk1Qb) | 4:31 |
 | 52 | [Suite No\. 7 in B\-Flat Major, HWV 440: III\. Sarabande](https://open.spotify.com/track/3wEz4LwtG1Wdi8qppCukdL) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [The Handel Project: Handel\-Suites & Brahms\-Variations](https://open.spotify.com/album/2CXQ8RsgMPr1QeuNQP0ArE) | 2:36 |
-| 53 | [6 Impromptus, Op\. 5: Impromptu VI](https://open.spotify.com/track/1juisCcrVdwoLbDWyVvNrX) | [Jean Sibelius](https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr), [Leif Ove Andsnes](https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL) | [Sibelius](https://open.spotify.com/album/4lNwSgAyaE91u37nrQcRFe) | 6:09 |
+| 53 | [Impromptu VI](https://open.spotify.com/track/1juisCcrVdwoLbDWyVvNrX) | [Jean Sibelius](https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr), [Leif Ove Andsnes](https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL) | [Sibelius](https://open.spotify.com/album/4lNwSgAyaE91u37nrQcRFe) | 6:09 |
 | 54 | [In einer Nacht, Op\. 15: No\. 2, Sehr langsam](https://open.spotify.com/track/0b0NXgRU5fX5U6dfjYsgKe) | [Paul Hindemith](https://open.spotify.com/artist/3u1fWmwpwPOmMelTAo0Gb8), [Elisabeth Brauß](https://open.spotify.com/artist/1djEkcup0nzJk7N5VeIoBs) | [Hindemith: In einer Nacht, Op\. 15: No\. 2, Sehr langsam \(Musical Moments\)](https://open.spotify.com/album/6MBeNgru816JprogFP7YjD) | 1:24 |
 | 55 | [Ständchen, S\. 560 \(Trans\. from Schwanengesang No\. 4, D\. 957\)](https://open.spotify.com/track/4b59u2E74KcDuyHCRBkf5v) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Schubert](https://open.spotify.com/album/073hIhdGDDOfOXDiYvO0kC) | 7:22 |
 | 56 | [Premier Nocturne, Op\. 22](https://open.spotify.com/track/1xrz9rJJPVENNP4l4Jvft4) | [Charles\-Valentin Alkan](https://open.spotify.com/artist/07OhqeLloDO7wu0yCaVO2D), [Michael Landrum](https://open.spotify.com/artist/1ZwgmPk7yAW0HsoGlFsBQ0) | [Nocturnes](https://open.spotify.com/album/4W4WygqfXLiIKtaiv1snAc) | 6:09 |

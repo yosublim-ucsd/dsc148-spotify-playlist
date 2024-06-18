@@ -1,6 +1,6 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 154445,
+  "num_followers": 154503,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Girl On Fire (Acoustic)",
-        "url": "https://open.spotify.com/album/2KqVvChd3r5Q4WRchdbJia"
-      },
-      "artists": [
-        {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
-        }
-      ],
-      "duration_ms": 188709,
-      "name": "Girl On Fire - Acoustic",
-      "url": "https://open.spotify.com/track/0kytPnW6jobXQDSoNw8TC9"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "This City Remix (feat. Kane Brown)",
         "url": "https://open.spotify.com/album/0WWpkBplmouutZQWMlq0vF"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 194837,
       "name": "This City Remix (feat. Kane Brown)",
       "url": "https://open.spotify.com/track/3GPvHSNPWlzDu5rLu4PztC"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Girl On Fire (Acoustic)",
+        "url": "https://open.spotify.com/album/2KqVvChd3r5Q4WRchdbJia"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "duration_ms": 188709,
+      "name": "Girl On Fire - Acoustic",
+      "url": "https://open.spotify.com/track/0kytPnW6jobXQDSoNw8TC9"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "You Don\u2019t Want That Smoke. (The Acoustic Version.)",
-        "url": "https://open.spotify.com/album/37YaXtCWpAZoQ3qxrvmu3D"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 200506,
-      "name": "You Don\u2019t Want That Smoke. - The Acoustic Version.",
-      "url": "https://open.spotify.com/track/2Ca9OSwJhhxO8HbsnTTsqu"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "We Got History (Acoustic)",
         "url": "https://open.spotify.com/album/235wcifaFyXotSmzYY3SDa"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 216551,
       "name": "We Got History - Acoustic",
       "url": "https://open.spotify.com/track/643yEYN8gyrA16lvif9XZf"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "You Don\u2019t Want That Smoke. (The Acoustic Version.)",
+        "url": "https://open.spotify.com/album/37YaXtCWpAZoQ3qxrvmu3D"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 200506,
+      "name": "You Don\u2019t Want That Smoke. - The Acoustic Version.",
+      "url": "https://open.spotify.com/track/2Ca9OSwJhhxO8HbsnTTsqu"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Secret (Gravel Drive Sounds)",
-        "url": "https://open.spotify.com/album/2ZUh3hF6Q1jX3PEgWhqZqG"
-      },
-      "artists": [
-        {
-          "name": "Tyler Braden",
-          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
-        }
-      ],
-      "duration_ms": 225240,
-      "name": "Secret - Gravel Drive Sounds",
-      "url": "https://open.spotify.com/track/0LKQRiJgwtxYNNnlB4djQp"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "No Horse To Ride (demo version)",
         "url": "https://open.spotify.com/album/1KzOdWkcjSDpJvOINJROAB"
       },
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "All Out Acoustic Sessions",
-        "url": "https://open.spotify.com/album/6gjHiXBlEdFs4WpBlV66KB"
+        "name": "Secret (Gravel Drive Sounds)",
+        "url": "https://open.spotify.com/album/2ZUh3hF6Q1jX3PEgWhqZqG"
       },
       "artists": [
         {
-          "name": "Austin Williams",
-          "url": "https://open.spotify.com/artist/1VKH3J7gGkVyOX0sEqsFSR"
+          "name": "Tyler Braden",
+          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
         }
       ],
-      "duration_ms": 187487,
-      "name": "Wanna Be Saved (Acoustic)",
-      "url": "https://open.spotify.com/track/5epVsitL7tbdUM8FoIywYj"
+      "duration_ms": 225240,
+      "name": "Secret - Gravel Drive Sounds",
+      "url": "https://open.spotify.com/track/0LKQRiJgwtxYNNnlB4djQp"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1135,6 +1119,22 @@
       "duration_ms": 167469,
       "name": "Gone Too Soon - Acoustic",
       "url": "https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "All Out Acoustic Sessions",
+        "url": "https://open.spotify.com/album/6gjHiXBlEdFs4WpBlV66KB"
+      },
+      "artists": [
+        {
+          "name": "Austin Williams",
+          "url": "https://open.spotify.com/artist/1VKH3J7gGkVyOX0sEqsFSR"
+        }
+      ],
+      "duration_ms": 187487,
+      "name": "Wanna Be Saved (Acoustic)",
+      "url": "https://open.spotify.com/track/5epVsitL7tbdUM8FoIywYj"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Put It In A Song",
-        "url": "https://open.spotify.com/album/4enHcau3yyps8zTLjImeuH"
-      },
-      "artists": [
-        {
-          "name": "Trisha Yearwood",
-          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
-        }
-      ],
-      "duration_ms": 215480,
-      "name": "Put It In A Song",
-      "url": "https://open.spotify.com/track/33JXc7HJY4mZcCuGESBgtD"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Drinking Alone",
         "url": "https://open.spotify.com/album/64PJ8S3L5sW6sCbWwqDccI"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 175783,
       "name": "Drinking Alone - Sunset Session",
       "url": "https://open.spotify.com/track/3SBwfxEUpTvavNFM9w47I4"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Put It In A Song",
+        "url": "https://open.spotify.com/album/4enHcau3yyps8zTLjImeuH"
+      },
+      "artists": [
+        {
+          "name": "Trisha Yearwood",
+          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
+        }
+      ],
+      "duration_ms": 215480,
+      "name": "Put It In A Song",
+      "url": "https://open.spotify.com/track/33JXc7HJY4mZcCuGESBgtD"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "End of the Rain",
-        "url": "https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb"
-      },
-      "artists": [
-        {
-          "name": "Jason Blaine",
-          "url": "https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ"
-        }
-      ],
-      "duration_ms": 195701,
-      "name": "End of the Rain",
-      "url": "https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "While You're Gone (Acoustic)",
         "url": "https://open.spotify.com/album/5gkHRgbzLkc4rdrtq0QG4k"
       },
@@ -1319,18 +1303,18 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Unapologetically (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+        "name": "End of the Rain",
+        "url": "https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb"
       },
       "artists": [
         {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+          "name": "Jason Blaine",
+          "url": "https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ"
         }
       ],
-      "duration_ms": 197600,
-      "name": "Landslide - Live from Nashville",
-      "url": "https://open.spotify.com/track/3RxqTdS82J42mKL2L6OnWL"
+      "duration_ms": 195701,
+      "name": "End of the Rain",
+      "url": "https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1347,6 +1331,22 @@
       "duration_ms": 196306,
       "name": "She Had Me at Heads Carolina - Acoustic",
       "url": "https://open.spotify.com/track/143NxyffZRHXdVD1MaO5u3"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Unapologetically (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "Landslide - Live from Nashville",
+      "url": "https://open.spotify.com/track/3RxqTdS82J42mKL2L6OnWL"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Gonna Love You (Alternate Versions)",
-        "url": "https://open.spotify.com/album/2LyGE0JPXYK4ygkYPyk3uX"
-      },
-      "artists": [
-        {
-          "name": "Parmalee",
-          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
-        }
-      ],
-      "duration_ms": 174863,
-      "name": "Gonna Love You - Acoustic",
-      "url": "https://open.spotify.com/track/0fsiU4KOmZkqDqS6VO3PEh"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Narcissist (Piano Version)",
         "url": "https://open.spotify.com/album/4EyKXSLJRmGc4BpHyKCvsR"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 153186,
       "name": "Narcissist - Piano Version",
       "url": "https://open.spotify.com/track/4Q88tEcTTNoWt7h3encEkp"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Gonna Love You (Alternate Versions)",
+        "url": "https://open.spotify.com/album/2LyGE0JPXYK4ygkYPyk3uX"
+      },
+      "artists": [
+        {
+          "name": "Parmalee",
+          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
+        }
+      ],
+      "duration_ms": 174863,
+      "name": "Gonna Love You - Acoustic",
+      "url": "https://open.spotify.com/track/0fsiU4KOmZkqDqS6VO3PEh"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "I Don't Wanna Go To Heaven (Choir Version)",
-        "url": "https://open.spotify.com/album/4s7hLoOHTldo6E8XH8L69X"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 205305,
-      "name": "I Don't Wanna Go To Heaven - Choir Version",
-      "url": "https://open.spotify.com/track/5NeoFqQlR7X4m5w4s5kmid"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "At the End of a Bar (Acoustic)",
         "url": "https://open.spotify.com/album/1fH1s6HBeYwxaRTHcLm2th"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 182327,
       "name": "At the End of a Bar - Acoustic",
       "url": "https://open.spotify.com/track/77UxRSc10Z4zM1XUB9ec2o"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "I Don't Wanna Go To Heaven (Choir Version)",
+        "url": "https://open.spotify.com/album/4s7hLoOHTldo6E8XH8L69X"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 205305,
+      "name": "I Don't Wanna Go To Heaven - Choir Version",
+      "url": "https://open.spotify.com/track/5NeoFqQlR7X4m5w4s5kmid"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Breakin' in Boots (Stripped)",
-        "url": "https://open.spotify.com/album/5So2dWFevZC3x2WPdZihJG"
+        "name": "Austin (Acoustic)",
+        "url": "https://open.spotify.com/album/4NzUmm4MlZpmSCwKb0bKls"
       },
       "artists": [
         {
-          "name": "Matt Stell",
-          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
         }
       ],
-      "duration_ms": 154173,
-      "name": "Breakin' in Boots - Stripped",
-      "url": "https://open.spotify.com/track/1NF0YGDJOgX0iMixCwDK7d"
+      "duration_ms": 226179,
+      "name": "Austin - Acoustic",
+      "url": "https://open.spotify.com/track/4jSnQyYyO0OV0VQXx2x46N"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Austin (Acoustic)",
-        "url": "https://open.spotify.com/album/4NzUmm4MlZpmSCwKb0bKls"
+        "name": "Breakin' in Boots (Stripped)",
+        "url": "https://open.spotify.com/album/5So2dWFevZC3x2WPdZihJG"
       },
       "artists": [
         {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+          "name": "Matt Stell",
+          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
         }
       ],
-      "duration_ms": 226179,
-      "name": "Austin - Acoustic",
-      "url": "https://open.spotify.com/track/4jSnQyYyO0OV0VQXx2x46N"
+      "duration_ms": 154173,
+      "name": "Breakin' in Boots - Stripped",
+      "url": "https://open.spotify.com/track/1NF0YGDJOgX0iMixCwDK7d"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Made (Wedding Version)",
-        "url": "https://open.spotify.com/album/4gcjd7zcsqJNHUWvl8kIbA"
-      },
-      "artists": [
-        {
-          "name": "Spencer Crandall",
-          "url": "https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG"
-        }
-      ],
-      "duration_ms": 215227,
-      "name": "Made (Wedding Version)",
-      "url": "https://open.spotify.com/track/1BS7PmDyAlNTqMeex4Kt5X"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Cowboy Forever (Acoustic Version)",
         "url": "https://open.spotify.com/album/06oFPRkliY6amtTA188tk8"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 170242,
       "name": "Cowboy Forever (Acoustic Version)",
       "url": "https://open.spotify.com/track/0NWLt71QlmsCPEgLF2NSMS"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Made (Wedding Version)",
+        "url": "https://open.spotify.com/album/4gcjd7zcsqJNHUWvl8kIbA"
+      },
+      "artists": [
+        {
+          "name": "Spencer Crandall",
+          "url": "https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG"
+        }
+      ],
+      "duration_ms": 215227,
+      "name": "Made (Wedding Version)",
+      "url": "https://open.spotify.com/track/1BS7PmDyAlNTqMeex4Kt5X"
     },
     {
       "added_at": "2024-05-03 04:00:00",

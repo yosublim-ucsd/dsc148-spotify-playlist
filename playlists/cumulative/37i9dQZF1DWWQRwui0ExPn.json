@@ -33345,6 +33345,28 @@
     },
     {
       "album": {
+        "name": "Early Birds",
+        "url": "https://open.spotify.com/album/6tATSmM3ph9cXzwMYinRes"
+      },
+      "artists": [
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        },
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142409,
+      "name": "Early Birds",
+      "url": "https://open.spotify.com/track/1FnSnpMEQF0USjUgeuOf4y"
+    },
+    {
+      "album": {
         "name": "Early Grey",
         "url": "https://open.spotify.com/album/2mpedk23jMimsBI06nCWxi"
       },
@@ -108864,7 +108886,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 120000,
       "name": "Street 34",
       "url": "https://open.spotify.com/track/4hIalvhaz7MeO1J0kYKx3p"

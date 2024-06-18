@@ -391,6 +391,24 @@
     },
     {
       "album": {
+        "name": "survival dAnce",
+        "url": "https://open.spotify.com/album/619D9YA3zlPSp8KV3KCuxi"
+      },
+      "artists": [
+        {
+          "name": "4s4ki",
+          "url": "https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139167,
+      "name": "survival dAnce",
+      "url": "https://open.spotify.com/track/0pj4w3Vaj8CGI4yHwVo6QM"
+    },
+    {
+      "album": {
         "name": "MONSTER HUNTER: WORLD ORIGINAL SOUNDTRACK",
         "url": "https://open.spotify.com/album/3QkEVIvIqgVfyHY0Lf8QRG"
       },

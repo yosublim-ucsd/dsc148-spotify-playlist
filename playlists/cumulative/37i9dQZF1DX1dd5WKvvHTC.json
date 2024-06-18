@@ -1067,6 +1067,24 @@
     },
     {
       "album": {
+        "name": "Great Expectations",
+        "url": "https://open.spotify.com/album/103uUNennMSrzCzH9NlNnq"
+      },
+      "artists": [
+        {
+          "name": "Casper Caan",
+          "url": "https://open.spotify.com/artist/0dtmnZBKsEGpSCpdcr3pRc"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241270,
+      "name": "Great Expectations",
+      "url": "https://open.spotify.com/track/2bKMUbbsjZ6Rusud4ivwdO"
+    },
+    {
+      "album": {
         "name": "Hearts On The Run",
         "url": "https://open.spotify.com/album/3U1EZvE1sBl6PkUlgDPbka"
       },
@@ -1640,6 +1658,24 @@
       "duration_ms": 150303,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/3fjoLni3kK44sAV34KgbeT"
+    },
+    {
+      "album": {
+        "name": "Like It's Your Birthday",
+        "url": "https://open.spotify.com/album/57thdt8C3MmF7BR2QfNWxn"
+      },
+      "artists": [
+        {
+          "name": "Sons of Val",
+          "url": "https://open.spotify.com/artist/5dwKc1jqNNYaEJE6fvpMeH"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185921,
+      "name": "Like It's Your Birthday",
+      "url": "https://open.spotify.com/track/7dIEN78tr21NM4JSCzBNRD"
     },
     {
       "album": {

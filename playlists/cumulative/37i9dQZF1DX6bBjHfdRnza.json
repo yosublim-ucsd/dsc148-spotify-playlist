@@ -1547,6 +1547,32 @@
     },
     {
       "album": {
+        "name": "All The Stars / Judgement Day",
+        "url": "https://open.spotify.com/album/3c8f35142XZqK0xvKoq4sf"
+      },
+      "artists": [
+        {
+          "name": "Modern Tales",
+          "url": "https://open.spotify.com/artist/5j34pD51tkc8KtqqYiBe8k"
+        },
+        {
+          "name": "Jonas Rathsman",
+          "url": "https://open.spotify.com/artist/0evBopfnhhbHzmHebWTDx7"
+        },
+        {
+          "name": "Francis Novotny",
+          "url": "https://open.spotify.com/artist/1oSUUU9sEJ2FUhIBzR3oO1"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236934,
+      "name": "All The Stars",
+      "url": "https://open.spotify.com/track/3VeV7k2NDH6GysI3rfKwUl"
+    },
+    {
+      "album": {
         "name": "Tous Ensemble",
         "url": "https://open.spotify.com/album/5qL03x3JWBE2KqTngUSGeo"
       },
@@ -32162,7 +32188,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 148965,
       "name": "Skin Like Rose - SINGLE / SPLIT EP",
       "url": "https://open.spotify.com/track/2ARBDCIvnKqY2WboXMQAJt"

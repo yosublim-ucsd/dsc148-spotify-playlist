@@ -1,6 +1,6 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Killen. & Oaks",
-  "num_followers": 770506,
+  "num_followers": 772040,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "CHROMA 001",
-        "url": "https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ"
-      },
-      "artists": [
-        {
-          "name": "BICEP",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        }
-      ],
-      "duration_ms": 287447,
-      "name": "CHROMA 001 HELIUM",
-      "url": "https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Someone You Can Count On",
         "url": "https://open.spotify.com/album/5wj4dMktjUCPq8BfsQCMR2"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 173609,
       "name": "Rewind.. (But I Love You)",
       "url": "https://open.spotify.com/track/2v5lLKdZG0PsXGWfvigk55"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "CHROMA 001",
+        "url": "https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ"
+      },
+      "artists": [
+        {
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "duration_ms": 287447,
+      "name": "CHROMA 001 HELIUM",
+      "url": "https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1499,30 +1499,18 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Spinback Remixes",
-        "url": "https://open.spotify.com/album/7wBTfpRnS7yaw5cdi3bWpu"
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/7ItctvDW7uwa0Zegbd8rq2"
       },
       "artists": [
         {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "longstoryshort",
-          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
-        },
-        {
-          "name": "WYNNE",
-          "url": "https://open.spotify.com/artist/7MtZPIh0gpnInKFnXGcYDS"
-        },
-        {
-          "name": "Mansionair",
-          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
         }
       ],
-      "duration_ms": 249114,
-      "name": "Line Of Sight - longstoryshort Remix",
-      "url": "https://open.spotify.com/track/6D21uj826czZVHvyj4ZQyF"
+      "duration_ms": 156004,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/5pE1HaAhMOeVjciqaLEr9J"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1547,18 +1535,18 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/7ItctvDW7uwa0Zegbd8rq2"
+        "name": "Before Me",
+        "url": "https://open.spotify.com/album/7oFKLQrShF4RIBYvrwMFlR"
       },
       "artists": [
         {
-          "name": "borne",
-          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
         }
       ],
-      "duration_ms": 156004,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/5pE1HaAhMOeVjciqaLEr9J"
+      "duration_ms": 173946,
+      "name": "Before Me",
+      "url": "https://open.spotify.com/track/6DdAVeZFL7bsuL37B40nQR"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1579,18 +1567,30 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Before Me",
-        "url": "https://open.spotify.com/album/7oFKLQrShF4RIBYvrwMFlR"
+        "name": "Spinback Remixes",
+        "url": "https://open.spotify.com/album/7wBTfpRnS7yaw5cdi3bWpu"
       },
       "artists": [
         {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "longstoryshort",
+          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
+        },
+        {
+          "name": "WYNNE",
+          "url": "https://open.spotify.com/artist/7MtZPIh0gpnInKFnXGcYDS"
+        },
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
         }
       ],
-      "duration_ms": 173946,
-      "name": "Before Me",
-      "url": "https://open.spotify.com/track/6DdAVeZFL7bsuL37B40nQR"
+      "duration_ms": 249114,
+      "name": "Line Of Sight - longstoryshort Remix",
+      "url": "https://open.spotify.com/track/6D21uj826czZVHvyj4ZQyF"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1643,30 +1643,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Spinback Remixes",
-        "url": "https://open.spotify.com/album/7wBTfpRnS7yaw5cdi3bWpu"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "Biicla",
-          "url": "https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ"
-        },
-        {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
-        }
-      ],
-      "duration_ms": 163008,
-      "name": "The Last Goodbye - Biicla Remix",
-      "url": "https://open.spotify.com/track/29k2X2TJz1ocPanE3OLQFh"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Evolve",
         "url": "https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y"
       },
@@ -1687,6 +1663,22 @@
       "duration_ms": 231733,
       "name": "Waiting (feat. Kelli-Leigh)",
       "url": "https://open.spotify.com/track/0AcuvNq4yAuLJ5SLeyYOFo"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "anywhere but here",
+        "url": "https://open.spotify.com/album/5Ivp78PXSv4ljWonz8thzm"
+      },
+      "artists": [
+        {
+          "name": "demotapes",
+          "url": "https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X"
+        }
+      ],
+      "duration_ms": 131612,
+      "name": "anywhere but here",
+      "url": "https://open.spotify.com/track/0uR4Uhv8MiGJOYHPh0ZaB1"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1715,22 +1707,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "anywhere but here",
-        "url": "https://open.spotify.com/album/5Ivp78PXSv4ljWonz8thzm"
-      },
-      "artists": [
-        {
-          "name": "demotapes",
-          "url": "https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X"
-        }
-      ],
-      "duration_ms": 131612,
-      "name": "anywhere but here",
-      "url": "https://open.spotify.com/track/0uR4Uhv8MiGJOYHPh0ZaB1"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Good Lies",
         "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
       },
@@ -1743,6 +1719,30 @@
       "duration_ms": 217369,
       "name": "Cold Blooded",
       "url": "https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Spinback Remixes",
+        "url": "https://open.spotify.com/album/7wBTfpRnS7yaw5cdi3bWpu"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Biicla",
+          "url": "https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ"
+        },
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        }
+      ],
+      "duration_ms": 163008,
+      "name": "The Last Goodbye - Biicla Remix",
+      "url": "https://open.spotify.com/track/29k2X2TJz1ocPanE3OLQFh"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1787,42 +1787,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "While you count down.",
-        "url": "https://open.spotify.com/album/2QKUud4s4gd5NoX6VD8suA"
-      },
-      "artists": [
-        {
-          "name": "The Caracal Project",
-          "url": "https://open.spotify.com/artist/1m3Z3kHjeDDFzKNWqvTlYN"
-        },
-        {
-          "name": "Camo & Krooked",
-          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
-        }
-      ],
-      "duration_ms": 228718,
-      "name": "While you count down.",
-      "url": "https://open.spotify.com/track/2GTBThIhxFWnSNpvLr1HHu"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "How High",
-        "url": "https://open.spotify.com/album/7vM5m7ex5aovISkIh8hZ7f"
-      },
-      "artists": [
-        {
-          "name": "Louis The Child",
-          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
-        }
-      ],
-      "duration_ms": 192834,
-      "name": "How High",
-      "url": "https://open.spotify.com/track/2Vmmht4V3AOxUAw9KxcluE"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Love Like This (Mura Masa Remix)",
         "url": "https://open.spotify.com/album/270xDX1gI4F98Hli76aDdP"
       },
@@ -1843,6 +1807,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "How High",
+        "url": "https://open.spotify.com/album/7vM5m7ex5aovISkIh8hZ7f"
+      },
+      "artists": [
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        }
+      ],
+      "duration_ms": 192834,
+      "name": "How High",
+      "url": "https://open.spotify.com/track/2Vmmht4V3AOxUAw9KxcluE"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Out Of Options (feat. midwxst)",
         "url": "https://open.spotify.com/album/1wcJej04CsVq2oheKzXeDV"
       },
@@ -1859,6 +1839,26 @@
       "duration_ms": 156500,
       "name": "Out Of Options (feat. midwxst)",
       "url": "https://open.spotify.com/track/4VJRH6rxf9BkGYUsadAXdN"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "While you count down.",
+        "url": "https://open.spotify.com/album/2QKUud4s4gd5NoX6VD8suA"
+      },
+      "artists": [
+        {
+          "name": "The Caracal Project",
+          "url": "https://open.spotify.com/artist/1m3Z3kHjeDDFzKNWqvTlYN"
+        },
+        {
+          "name": "Camo & Krooked",
+          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
+        }
+      ],
+      "duration_ms": 228718,
+      "name": "While you count down.",
+      "url": "https://open.spotify.com/track/2GTBThIhxFWnSNpvLr1HHu"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1927,22 +1927,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "GET RIGHT",
-        "url": "https://open.spotify.com/album/1hd4EOuxrB93zMvfu5NSm7"
+        "name": "LOYAL",
+        "url": "https://open.spotify.com/album/4pqpFCjg3Y5vi1SHCEFIMI"
       },
       "artists": [
         {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+          "name": "33 Below",
+          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
         },
         {
-          "name": "Evalyn",
-          "url": "https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT"
+          "name": "DRIIA",
+          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
         }
       ],
-      "duration_ms": 160332,
-      "name": "GET RIGHT",
-      "url": "https://open.spotify.com/track/1SIUAeA91vefUtqyUfXu4W"
+      "duration_ms": 255882,
+      "name": "LOYAL",
+      "url": "https://open.spotify.com/track/0XTC88XX9rerDucl82skTW"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1983,22 +1983,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "LOYAL",
-        "url": "https://open.spotify.com/album/4pqpFCjg3Y5vi1SHCEFIMI"
+        "name": "GET RIGHT",
+        "url": "https://open.spotify.com/album/1hd4EOuxrB93zMvfu5NSm7"
       },
       "artists": [
         {
-          "name": "33 Below",
-          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
         },
         {
-          "name": "DRIIA",
-          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
+          "name": "Evalyn",
+          "url": "https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT"
         }
       ],
-      "duration_ms": 255882,
-      "name": "LOYAL",
-      "url": "https://open.spotify.com/track/0XTC88XX9rerDucl82skTW"
+      "duration_ms": 160332,
+      "name": "GET RIGHT",
+      "url": "https://open.spotify.com/track/1SIUAeA91vefUtqyUfXu4W"
     }
   ],
   "unique_name": "creamy",

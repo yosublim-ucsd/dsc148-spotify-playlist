@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-1,187 songs - 2 day 14 hr 51 min
+1,188 songs - 2 day 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -906,7 +906,7 @@
 | [Say Don't Go \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/4NioO5R9sHEZh4cGzMHyNt) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 4:39 | 2023-10-28 | 2023-10-31 |
 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-05-20 | 2023-06-02 |
 | [seholse](https://open.spotify.com/track/3NSBh6qLvHPHMVoj4ET5Rc) | [Filo](https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee), [Apu](https://open.spotify.com/artist/5KQXF7taFJ2PZntyJuiydN) | [seholse](https://open.spotify.com/album/4Tn7GiPLNrlrbadZRiZiKI) | 2:19 | 2023-07-11 | 2023-07-16 |
-| [seholse](https://open.spotify.com/track/520pvY0G0yZ9Jcwlhik7lD) | [Filo](https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee), [Apu](https://open.spotify.com/artist/5KQXF7taFJ2PZntyJuiydN) | [Még nem](https://open.spotify.com/album/0M64Q9GZzg6qkP4gdJJiOW) | 2:19 | 2023-07-15 |  |
+| [seholse](https://open.spotify.com/track/520pvY0G0yZ9Jcwlhik7lD) | [Filo](https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee), [Apu](https://open.spotify.com/artist/5KQXF7taFJ2PZntyJuiydN) | [Még nem](https://open.spotify.com/album/0M64Q9GZzg6qkP4gdJJiOW) | 2:19 | 2023-07-15 | 2024-06-18 |
 | [SEMMI](https://open.spotify.com/track/2FESRN1CsZIuVjunVVEGBV) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [KINCUGI](https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk) | 2:46 | 2023-09-13 | 2023-09-29 |
 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 | 2023-07-15 | 2023-07-30 |
 | [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 | 2022-10-03 | 2022-10-19 |
@@ -1112,6 +1112,7 @@
 | [Visszatértem](https://open.spotify.com/track/4hPaoh0KU6iK1bvG4olh2d) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [AZ ALBUM](https://open.spotify.com/album/3TqmUOKPmFUO7Dg3VDgEXN) | 1:57 | 2023-02-24 | 2023-02-26 |
 | [Visz a vérem](https://open.spotify.com/track/5ljaIN5amyFn4fluFmjXy6) | [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh), [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv), [Manuel](https://open.spotify.com/artist/3HLb9k75O3qP4GklxUGn7s) | [Visz a vérem](https://open.spotify.com/album/4z36zSFApY8fkbCprjgEV4) | 3:07 | 2022-04-15 | 2022-04-17 |
 | [Viszlát](https://open.spotify.com/track/7p4td8M7s55OQvr7kyLC0Y) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [Viszlát](https://open.spotify.com/album/7LyVg1PiDz81mrN7UVqpXY) | 3:17 | 2024-02-18 | 2024-03-08 |
+| [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 | 2024-06-17 |  |
 | [Vodkaszóda](https://open.spotify.com/track/2T3QFG6QCvfQfgpTRQmjaY) | [AKC Misi](https://open.spotify.com/artist/4pWRro00gdnq90CwBmSCtv), [AKC Kretta](https://open.spotify.com/artist/3NuMiSIG3kYlW4dGwljerz) | [Holdvilág Club Hotel & Casino](https://open.spotify.com/album/2jCvGyvuawW2wxDgfiDJUS) | 2:35 | 2022-04-23 | 2022-04-25 |
 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 | 2023-08-08 | 2024-05-19 |
 | [voltmárkicsi](https://open.spotify.com/track/0faYxc8g09uniud0ToGDRb) | [ByeAlex és a Slepp](https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS), [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [voltmárkicsi](https://open.spotify.com/album/3QQwB99anYJvVbJIxe6uGR) | 2:34 | 2022-06-09 | 2023-05-17 |

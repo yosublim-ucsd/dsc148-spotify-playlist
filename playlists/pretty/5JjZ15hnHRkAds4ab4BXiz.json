@@ -6,7 +6,7 @@
     "name": "realARreal",
     "url": "https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e"
   },
-  "snapshot_id": "AAABtXlw5HpimTHuE5tW9DINMTT95vRj",
+  "snapshot_id": "AAABtkbezvC/AjN0EFMgGsEyE7dJL5Zk",
   "tracks": [
     {
       "added_at": "2023-11-12 18:47:04",
@@ -5395,6 +5395,22 @@
       "duration_ms": 259026,
       "name": "Vision of Division",
       "url": "https://open.spotify.com/track/0Tvl6Dhee6vjz65sS3KKkK"
+    },
+    {
+      "added_at": "2024-06-18 00:31:04",
+      "album": {
+        "name": "First Impressions Of Earth",
+        "url": "https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 189973,
+      "name": "Ask Me Anything",
+      "url": "https://open.spotify.com/track/6THqWFqcUAAB7At66622Wr"
     }
   ],
   "unique_name": "Ballads",

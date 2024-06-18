@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Iliona
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,013 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,013 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 17 | [Pretty Privilege \(feat\. Emma Beko\)](https://open.spotify.com/track/0O16BMpkbPWHGgbdUk3tG8) | [Xela Edna](https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS), [Eius Echo](https://open.spotify.com/artist/5HKktNgsAXBcjWG4frwBmE), [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [Pretty Privilege \(feat\. Emma Beko\)](https://open.spotify.com/album/1yrdOeCzid2nTGKUpnVHos) | 3:02 |
 | 18 | [Quillé](https://open.spotify.com/track/05tF2Drqpc0hbHyh071354) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Quillé](https://open.spotify.com/album/1V6CDWdhrcfLbRECo7ERLF) | 3:00 |
 | 19 | [18](https://open.spotify.com/track/1ql8A7vfO3SEedqedSozyX) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES) | [18](https://open.spotify.com/album/4GgfLtSUNl4RhDdGYFUz45) | 3:25 |
-| 20 | [Colisée \(feat\. SDM\)](https://open.spotify.com/track/3RzWvMggSzFMIueWIaDwEU) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Colisée \(feat\. SDM\)](https://open.spotify.com/album/4R1vR0X2fyl34QydA2VeWE) | 2:48 |
+| 20 | [Tout gâché](https://open.spotify.com/track/2U8Rdlgi2r3KDp7Bc4e33s) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Tout gâché](https://open.spotify.com/album/2Rev1BAh4FMZNxcQbsdlj7) | 2:30 |
 | 21 | [Nulle](https://open.spotify.com/track/5iJXTnWiW4JUOZwJjVbWAw) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Nulle](https://open.spotify.com/album/5EqwOYVB4vIhB6pZSuCtBe) | 3:14 |
-| 22 | [Tout gâché](https://open.spotify.com/track/2U8Rdlgi2r3KDp7Bc4e33s) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Tout gâché](https://open.spotify.com/album/2Rev1BAh4FMZNxcQbsdlj7) | 2:30 |
+| 22 | [Colisée \(feat\. SDM\)](https://open.spotify.com/track/3RzWvMggSzFMIueWIaDwEU) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Colisée \(feat\. SDM\)](https://open.spotify.com/album/4R1vR0X2fyl34QydA2VeWE) | 2:48 |
 | 23 | [la punition](https://open.spotify.com/track/2jNg424KCAQH6mRsPbWi0X) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [la punition](https://open.spotify.com/album/5Fg4OgnwkqbsevMEnVBSc8) | 2:57 |
 | 24 | [Cannelloni](https://open.spotify.com/track/4AaG82i74FxJqk7J9oKS8P) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Cannelloni](https://open.spotify.com/album/4NZbikstasK82K7jq7YXgO) | 3:18 |
 | 25 | [Boys Will Be Boys](https://open.spotify.com/track/4WJspkXNat2ntN7jJhW0jw) | [Fleur de Peau](https://open.spotify.com/artist/6EoKem2HNXbpL23782Daoi) | [Contre\-sens](https://open.spotify.com/album/5MAMi2WRJ9ILrs5JeWPqOX) | 3:53 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 41 | [Pomme Z](https://open.spotify.com/track/1kueShAhewtwchYTE8qTrt) | [vice E roi](https://open.spotify.com/artist/6SmN2oQRKkyUlhqg3bOUcz) | [Pomme Z](https://open.spotify.com/album/53zm21Uiy9gbCGQh7zptz8) | 3:10 |
 | 42 | [Allo](https://open.spotify.com/track/1dxl7CSBstnOcLzWrQiBLj) | [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Allo](https://open.spotify.com/album/15LSZk7N06PAFrrqkjprrD) | 2:16 |
 | 43 | [Places](https://open.spotify.com/track/7L0QKV8kPnp6rfT8XguyN7) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh) | [Places](https://open.spotify.com/album/0aRIAcJuAoES9hTYbkC5PO) | 3:18 |
-| 44 | [Solide](https://open.spotify.com/track/19WSNgI0RNwB8zcXaomnpF) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Solide](https://open.spotify.com/album/1HIdu8IIaYSb5awkKL4Md8) | 2:15 |
+| 44 | [TI TI TI](https://open.spotify.com/track/6ob9uKyryapebruQXDzIlu) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [TI TI TI](https://open.spotify.com/album/4xAALJ2WaDy2IhJUaXPPfP) | 3:20 |
 | 45 | [fou](https://open.spotify.com/track/3PlgqWBKQ7uItZOS0lACbp) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [réparer](https://open.spotify.com/album/5gJhca2FaL4ruf9nKSpMIu) | 2:36 |
-| 46 | [Freestyle BMF \#1](https://open.spotify.com/track/3Jys0zVvXhlgf0MVAcj9ji) | [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Freestyle BMF \#1](https://open.spotify.com/album/7HFPAZo4QBzKQ7AbwxUxnn) | 2:56 |
+| 46 | [Solide](https://open.spotify.com/track/19WSNgI0RNwB8zcXaomnpF) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Solide](https://open.spotify.com/album/1HIdu8IIaYSb5awkKL4Md8) | 2:15 |
 | 47 | [Je suis tout seul dans l'grenier \- Écrite à 14 ans](https://open.spotify.com/track/6TuY1L0w6vQfRqQwKiE0Te) | [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [Je suis tout seul dans l'grenier \(Écrite à 14 ans\)](https://open.spotify.com/album/5xLNlWRztnOBSiJTA6yLkj) | 4:16 |
-| 48 | [NO LACK](https://open.spotify.com/track/6YojceyxipGujmAgHCm4ur) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [IL LE FALLAIT](https://open.spotify.com/album/55LmawLdjtaSJbJTIvvKVd) | 2:33 |
+| 48 | [CŒUR DE ICE](https://open.spotify.com/track/1KPuYzyP2wKwFXQEF1voqj) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [CŒUR DE ICE](https://open.spotify.com/album/16q1SBIfIoTnp6jxlRugUe) | 3:24 |
 | 49 | [Méditerranée](https://open.spotify.com/track/4M7YeM5qkR8Kn5ALCC03Te) | [Juniore](https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH) | [Méditerranée](https://open.spotify.com/album/44HbVWnGY3W33jhFZxd4GN) | 3:33 |
-| 50 | [Les Montgolfières](https://open.spotify.com/track/0ZHisJB7IPvhXl5dubBMBv) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Pygmalion](https://open.spotify.com/album/3YI7AA0iZmbUWg4qw08xXx) | 3:21 |
+| 50 | [Freestyle BMF \#1](https://open.spotify.com/track/3Jys0zVvXhlgf0MVAcj9ji) | [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Freestyle BMF \#1](https://open.spotify.com/album/7HFPAZo4QBzKQ7AbwxUxnn) | 2:56 |
 
 Snapshot ID: `ZmvAQAAAAABnFdHHrqQI+AD+YhuhLD6z`

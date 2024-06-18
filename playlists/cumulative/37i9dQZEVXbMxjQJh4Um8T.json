@@ -370,7 +370,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 241293,
       "name": "Back To Black",
       "url": "https://open.spotify.com/track/3FAclTFfvUuQYnEsptbK8w"
@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 303440,
       "name": "CHIHIRO",
       "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
@@ -1256,6 +1256,24 @@
       "duration_ms": 192000,
       "name": "CORLEONE",
       "url": "https://open.spotify.com/track/4PxuQB2bwMFyP6qjHDBsmb"
+    },
+    {
+      "album": {
+        "name": "Oxigen",
+        "url": "https://open.spotify.com/album/75PdxoJqiAUo9TxAvuX3gJ"
+      },
+      "artists": [
+        {
+          "name": "Gossos",
+          "url": "https://open.spotify.com/artist/798kDjwOnvYR4iLHoDR3Gl"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287106,
+      "name": "Corren",
+      "url": "https://open.spotify.com/track/05PSmIGYiyhu3h4woxunJz"
     },
     {
       "album": {
@@ -1484,7 +1502,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 197383,
       "name": "DESATAAA",
       "url": "https://open.spotify.com/track/2vh03XeMmNRwxiAztk01Pe"
@@ -1550,7 +1568,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Diab\u00f3lica",
       "url": "https://open.spotify.com/track/4IJWhehNLXru5WfS71EWSx"
@@ -1608,6 +1626,24 @@
       "duration_ms": 272394,
       "name": "Do I Wanna Know?",
       "url": "https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst"
+    },
+    {
+      "album": {
+        "name": "Escape (2022 Remaster)",
+        "url": "https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249600,
+      "name": "Don't Stop Believin' (2022 Remaster)",
+      "url": "https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91"
     },
     {
       "album": {
@@ -2306,7 +2342,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 189066,
       "name": "FRIKI",
       "url": "https://open.spotify.com/track/2TWX6XUqmPx44FDOmgtb0I"
@@ -2886,7 +2922,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-20",
+      "date_removed": null,
       "duration_ms": 152304,
       "name": "It's Not Right But It's Okay",
       "url": "https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj"
@@ -3098,7 +3134,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 239760,
       "name": "La Gent Que Estimo",
       "url": "https://open.spotify.com/track/2aTvlIMGoo2L9x5YzJNjj5"
@@ -3242,7 +3278,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 220360,
       "name": "LA SEVILLANA - SEVILLANAS",
       "url": "https://open.spotify.com/track/2Xt5O5XKn0f3xvqIiTaIxZ"
@@ -3686,7 +3722,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 179586,
       "name": "LUNCH",
       "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
@@ -3905,6 +3941,24 @@
     },
     {
       "album": {
+        "name": "Qui\u00e9n es Dei V?",
+        "url": "https://open.spotify.com/album/2i6InsyHZPR6NBFniDivF5"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164365,
+      "name": "Martini",
+      "url": "https://open.spotify.com/track/6opCVD6WJNDyBAxvrzKLnH"
+    },
+    {
+      "album": {
         "name": "Poquito a Poquito",
         "url": "https://open.spotify.com/album/1v7khGGbZK12Y7CMofMFxI"
       },
@@ -3916,7 +3970,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 152275,
       "name": "Me Sabe a Sal",
       "url": "https://open.spotify.com/track/1atmE3gVewfmWK01joYhbA"
@@ -4028,7 +4082,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-11",
+      "date_removed": null,
       "duration_ms": 155151,
       "name": "MILLION DOLLAR BABY",
       "url": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
@@ -4944,6 +4998,24 @@
       "duration_ms": 162244,
       "name": "Quien Es Dei V?",
       "url": "https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv"
+    },
+    {
+      "album": {
+        "name": "Qui\u00e9n Dir\u00eda",
+        "url": "https://open.spotify.com/album/2zZljKaQGNaogYs8QN2wMM"
+      },
+      "artists": [
+        {
+          "name": "DePol",
+          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183898,
+      "name": "Qui\u00e9n Dir\u00eda",
+      "url": "https://open.spotify.com/track/0Fd3900xH77g0ARXQjtYvV"
     },
     {
       "album": {
@@ -6722,7 +6794,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 223783,
       "name": "Un Desperdicio",
       "url": "https://open.spotify.com/track/75qepWUT3FEyPyXQMMMVZm"

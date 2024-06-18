@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wPYtCQ8Q0s.md) - [plain]
 
 > A batida certa para o seu treino
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,696 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,677 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wPYtCQ8Q0s.md) - [plain]
 | 89 | [Calm Down](https://open.spotify.com/track/7xq3uN2toVZ8IbNzfTucyJ) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [When It's Dark Out](https://open.spotify.com/album/09Q3WwGYsQe5ognkvVkmCu) | 2:07 |
 | 90 | [Stupid Again](https://open.spotify.com/track/1fPnUpoXCpD2NDI4vPVeLw) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [The New Toronto 3](https://open.spotify.com/album/2TbrXjwWklhT7JrC5sdUkf) | 2:54 |
 | 91 | [Panini \- DaBaby Remix](https://open.spotify.com/track/4SDgTLDYrJ2UrHbkRkg7MD) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Panini](https://open.spotify.com/album/71BrrQxz8mZAneNSDE9Lov) | 2:31 |
-| 92 | [My Name \(feat\. Eminem & Nate Dogg\)](https://open.spotify.com/track/04w57GO5p1763E44KQ8AKB) | [Xzibit](https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Man VS Machine](https://open.spotify.com/album/0d9boWzzDKA5FTuWPOhQ37) | 4:32 |
-| 93 | [SUV PRATA](https://open.spotify.com/track/0pMpTL5FukBIuPQiUZJVom) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [SUV PRATA](https://open.spotify.com/album/6PJMkptGy0mgvP0exF9CUy) | 2:29 |
+| 92 | [SUV PRATA](https://open.spotify.com/track/0pMpTL5FukBIuPQiUZJVom) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [SUV PRATA](https://open.spotify.com/album/6PJMkptGy0mgvP0exF9CUy) | 2:29 |
+| 93 | [My Name \(feat\. Eminem & Nate Dogg\)](https://open.spotify.com/track/04w57GO5p1763E44KQ8AKB) | [Xzibit](https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Man VS Machine](https://open.spotify.com/album/0d9boWzzDKA5FTuWPOhQ37) | 4:32 |
 | 94 | [Straightenin](https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Straightenin](https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51) | 4:15 |
 | 95 | [Live Off My Closet \(feat\. Future\)](https://open.spotify.com/track/6AyWdCtEn1DdxjnxPeojR2) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 2:53 |
 | 96 | [Alive \(with Offset & 2 Chainz\)](https://open.spotify.com/track/7w8SYlPLA9bqj7vRHvYNDz) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Alive \(with Offset & 2 Chainz\)](https://open.spotify.com/album/3ZwmW6RFyLF2dey4U87js2) | 3:55 |

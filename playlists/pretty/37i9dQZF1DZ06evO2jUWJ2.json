@@ -1,12 +1,12 @@
 {
   "description": "This is Elevation Worship. The essential tracks, all in one playlist.",
-  "num_followers": 274140,
+  "num_followers": 274246,
   "original_name": "This Is Elevation Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmzZgAAAAAAPNvAC1GomS3Da7TMGBHsT",
+  "snapshot_id": "Zm4rAAAAAACDn0auMFRX+nImGUpe/eQV",
   "tracks": [
     {
       "added_at": null,
@@ -707,6 +707,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Graves Into Gardens: Morning & Evening",
+        "url": "https://open.spotify.com/album/4FSbyaejQ4FwM396Jl0Zc1"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 225991,
+      "name": "QUIET (Stripped) [Morning & Evening]",
+      "url": "https://open.spotify.com/track/1CwJWOYHSt3zOeEjP5cEYC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All Of A Sudden / Another One",
         "url": "https://open.spotify.com/album/1GS3eQSd9wKyW1IoeBpzfI"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 475718,
       "name": "All Of A Sudden (feat. Tiffany Hudson & Chris Brown)",
       "url": "https://open.spotify.com/track/4HAsNHe4VE0kQoFutbZxOK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Graves Into Gardens: Morning & Evening",
-        "url": "https://open.spotify.com/album/4FSbyaejQ4FwM396Jl0Zc1"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 225991,
-      "name": "QUIET (Stripped) [Morning & Evening]",
-      "url": "https://open.spotify.com/track/1CwJWOYHSt3zOeEjP5cEYC"
     },
     {
       "added_at": null,

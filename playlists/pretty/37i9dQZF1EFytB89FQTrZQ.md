@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,486 likes - 307 songs - 17 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,484 likes - 307 songs - 17 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 47 | [Sugarcoat \(NATTY Solo\)](https://open.spotify.com/track/0NoeYUnwpb9R26mpylHcR9) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [KISS OF LIFE](https://open.spotify.com/album/5k34rAvlw3WV7Kh6dAZnxG) | 2:59 |
 | 48 | [Life's Too Short \(English Version\)](https://open.spotify.com/track/2ouguQxJZn4jXisuNREqe5) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 2:58 |
 | 49 | [Rumour Mill \(feat\. Anne\-Marie & Will Heard\)](https://open.spotify.com/track/7DwgS4noRe9dIie3QPZUWF) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Will Heard](https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z) | [We the Generation \(Deluxe Edition\)](https://open.spotify.com/album/5q9e0KBDIjiRBYWXxaWVAG) | 4:03 |
-| 50 | [Freak Like Me \(feat\. Katy B & MNEK\) \- Radio Edit](https://open.spotify.com/track/6HkxDV61YbCbXfjHj6euAz) | [Lee Walker](https://open.spotify.com/artist/1JXKfGs594mz23sQepWOWP), [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH), [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Freak Like Me \(feat\. Katy B & MNEK\) \[Radio Edit\]](https://open.spotify.com/album/2F8BracaDn8k2ysDmNCWQr) | 2:59 |
-| 51 | [Cardboard Box](https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box](https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj) | 2:41 |
+| 50 | [Cardboard Box](https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box](https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj) | 2:41 |
+| 51 | [Freak Like Me \(feat\. Katy B & MNEK\) \- Radio Edit](https://open.spotify.com/track/6HkxDV61YbCbXfjHj6euAz) | [Lee Walker](https://open.spotify.com/artist/1JXKfGs594mz23sQepWOWP), [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH), [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Freak Like Me \(feat\. Katy B & MNEK\) \[Radio Edit\]](https://open.spotify.com/album/2F8BracaDn8k2ysDmNCWQr) | 2:59 |
 | 52 | [OK \(Anxiety Anthem\)](https://open.spotify.com/track/6bW7xROpvstfDvXdOnH96p) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [High Expectations](https://open.spotify.com/album/2X7koaJ4bojj8zMqacqIhW) | 3:36 |
 | 53 | [NO PROBLEM \(Feat\. Felix of Stray Kids\)](https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Felix \(Stray Kids\)](https://open.spotify.com/artist/40zyx4iztMjRbIIoI802r4) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:16 |
 | 54 | [Koala \- Radio Edit](https://open.spotify.com/track/2LsKvF1f5PVm18UZgQrwml) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Koala \(Radio Edit\) \[feat\. KStewart\]](https://open.spotify.com/album/7CG4gKjF3XMrIZ0DUwCxkl) | 3:15 |
@@ -316,4 +316,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 306 | [Forever](https://open.spotify.com/track/4nFQk5qNI8TKWnorHDljEp) | [Jono Hill](https://open.spotify.com/artist/6gQmXqh4cXimoa1NotjBQW) | [As Far as the Eye Can See \(Original Score\)](https://open.spotify.com/album/6ACj9tILNQn22YobKjbfAr) | 0:44 |
 | 307 | [See You When I Look At You](https://open.spotify.com/track/3qjXYDCuRWVmCulEsCAM3L) | [King Lowkey Tha Bread Winner](https://open.spotify.com/artist/1xHrLzZi7eNjqQUcSIpiUp) | [Real Recognize Real But I Peep The Fake Too](https://open.spotify.com/album/2wj9RYyXjMuHLvlTHMmPb6) | 2:47 |
 
-Snapshot ID: `AbUPngAAAADfoo01q3Ql3gCS2iiUQzuN`
+Snapshot ID: `AbUVAgAAAABjDhtrBExRj4twbY2g3QNC`

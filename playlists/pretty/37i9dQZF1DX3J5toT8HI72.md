@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 
 > essa é pros apaixonados
 
-[Spotify](https://open.spotify.com/user/spotify) - 769,063 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 769,064 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 74 | [Bem Que Se Quis \- Ao Vivo](https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Ao Vivo Em Lisboa](https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k) | 4:16 |
 | 75 | [Baby](https://open.spotify.com/track/5zwoN1BAcMh2EcBpKhW7VT) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Nenhuma Dor](https://open.spotify.com/album/3uv833F3xc92vzytEkbmN6) | 3:57 |
 | 76 | [Deixa o Coração Falar](https://open.spotify.com/track/0tPgb75mRXhU8Pc6I6NiZW) | [Rock in Rio Dia Brasil](https://open.spotify.com/artist/28tpBvLYAATwcqiUxkQRkp) | [Deixa o Coração Falar](https://open.spotify.com/album/4if3vrrDdIEneH5mNijjvn) | 4:29 |
-| 77 | [coisa mais bonita](https://open.spotify.com/track/3mxWZCTWCx0zb5QVEfDh4M) | [Caike Souza](https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa) | [coisa mais bonita](https://open.spotify.com/album/6quZjmU82PLIJQJPoYZTZb) | 2:56 |
-| 78 | [A Cara do Amor da Minha Vida](https://open.spotify.com/track/4IjOrQ4CBgjE6JDxbSEnJx) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [A Cara do Amor da Minha Vida](https://open.spotify.com/album/0OvRM5meYXSh2A5n4vN2NC) | 2:31 |
+| 77 | [A Cara do Amor da Minha Vida](https://open.spotify.com/track/4IjOrQ4CBgjE6JDxbSEnJx) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [A Cara do Amor da Minha Vida](https://open.spotify.com/album/0OvRM5meYXSh2A5n4vN2NC) | 2:31 |
+| 78 | [coisa mais bonita](https://open.spotify.com/track/3mxWZCTWCx0zb5QVEfDh4M) | [Caike Souza](https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa) | [coisa mais bonita](https://open.spotify.com/album/6quZjmU82PLIJQJPoYZTZb) | 2:56 |
 | 79 | [ME PERCO](https://open.spotify.com/track/5DYOxJzVYTUmKNTz6xiA7c) | [uma Póvoas](https://open.spotify.com/artist/1fP1a8QtAWodK9wm1fIBmx), [Filipe Freire](https://open.spotify.com/artist/4Asuo4mtyUcQrrgjvnLt2X) | [ME PERCO](https://open.spotify.com/album/53KGBkfWHJumvJVSt7DT1H) | 3:20 |
 | 80 | [Se Eu Não Te Amasse Tanto Assim \- Acústico Em Trancoso / Ao Vivo](https://open.spotify.com/track/5z9gmHdAMTFjxFOpuWzyYO) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Acústico Em Trancoso \(Ao Vivo\)](https://open.spotify.com/album/6Aqv0T76VtYRBhZMsd0Pa4) | 3:44 |
 | 81 | [Cosquinha No Coração \- Ao Vivo](https://open.spotify.com/track/67e7dtapoeyCkaHFOaBIQy) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Ao Vivo Em Brasília \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/3QeUaFs0eR6nsuz45OdxLZ) | 3:13 |

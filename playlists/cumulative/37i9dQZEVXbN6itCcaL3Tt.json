@@ -1024,7 +1024,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 120902,
       "name": "4 RANO",
       "url": "https://open.spotify.com/track/0yeSXZ4we6LzZUyUhoGOIS"
@@ -7140,7 +7140,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 132042,
       "name": "Co ty mi dasz ale to DRILL",
       "url": "https://open.spotify.com/track/0cN69CM2rw5hoEgeGdF87m"
@@ -10108,7 +10108,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 150937,
       "name": "Dzi\u0119ki, \u017ce jeste\u015b",
       "url": "https://open.spotify.com/track/5Qw74vxmtJzAEYjy1wfVCk"
@@ -16632,7 +16632,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 147828,
       "name": "KAUCJA",
       "url": "https://open.spotify.com/track/0lJaxXf5i5zLbvxEBZuXvk"
@@ -20694,7 +20694,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 155151,
       "name": "MILLION DOLLAR BABY",
       "url": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
@@ -32594,7 +32594,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
@@ -33550,7 +33550,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 217018,
       "name": "Talenty i mankamenty",
       "url": "https://open.spotify.com/track/41OCTO4u42iNiK4BUKRRZH"
@@ -37256,6 +37256,24 @@
       "duration_ms": 208000,
       "name": "WI\u0118\u0179",
       "url": "https://open.spotify.com/track/1l6Hmtv9SDe0ok6LwIBiJm"
+    },
+    {
+      "album": {
+        "name": "Kaprysy",
+        "url": "https://open.spotify.com/album/47tDANOMCmdRDI5CVcjNKY"
+      },
+      "artists": [
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211029,
+      "name": "Wi\u015bta wio!",
+      "url": "https://open.spotify.com/track/0A88MJilMZwrnRv5514PE8"
     },
     {
       "album": {

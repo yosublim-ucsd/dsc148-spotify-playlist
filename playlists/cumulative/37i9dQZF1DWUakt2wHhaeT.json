@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-08",
-  "description": "The best songs from the new shows and the buzziest hits. Cover: Hell's Kitchen",
+  "description": "The best songs from the new shows and the buzziest hits. Cover: The Outsiders",
   "name": "Broadway Rising",
   "tracks": [
     {
@@ -1092,6 +1092,28 @@
       "duration_ms": 213306,
       "name": "I Want to Go to Hollywood (From \"Grand Hotel: The Musical\")",
       "url": "https://open.spotify.com/track/5es6KIkzfnT86RBpHMK1BD"
+    },
+    {
+      "album": {
+        "name": "Lempicka (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/17Jtzv1OPujNW4QgxdiSrd"
+      },
+      "artists": [
+        {
+          "name": "Eden Espinosa",
+          "url": "https://open.spotify.com/artist/1day3d1ZWCpu55cKqEEG7X"
+        },
+        {
+          "name": "Original Broadway Cast of Lempicka",
+          "url": "https://open.spotify.com/artist/6DZeFg4IcWilAXZ0HVnw7I"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217805,
+      "name": "I Will Paint Her",
+      "url": "https://open.spotify.com/track/0EV9DbnoW8kGtEVvdjm56w"
     },
     {
       "album": {
@@ -2663,6 +2685,32 @@
     },
     {
       "album": {
+        "name": "The Outsiders - A New Musical (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/67tJ9sRxyaLcj7QQzt1wPk"
+      },
+      "artists": [
+        {
+          "name": "Brody Grant",
+          "url": "https://open.spotify.com/artist/4dxMGpSWxE0B2ySAvab6dj"
+        },
+        {
+          "name": "Sky Lakota-Lynch",
+          "url": "https://open.spotify.com/artist/6tXiikauT8deFqOGJ9RCeI"
+        },
+        {
+          "name": "Original Broadway Cast of The Outsiders - A New Musical",
+          "url": "https://open.spotify.com/artist/2FOqIyiI7Ss7sQGBtDZF5w"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352875,
+      "name": "Tulsa '67",
+      "url": "https://open.spotify.com/track/7qi6tuUyDc5JG21uuTzkxX"
+    },
+    {
+      "album": {
         "name": "Once on This Island (New Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/6gSo70KxG1aQRLRYvptsEi"
       },
@@ -2912,6 +2960,28 @@
       "duration_ms": 222626,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/3L0SSHs036ksVY1Wr92ibc"
+    },
+    {
+      "album": {
+        "name": "Lempicka (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/17Jtzv1OPujNW4QgxdiSrd"
+      },
+      "artists": [
+        {
+          "name": "Eden Espinosa",
+          "url": "https://open.spotify.com/artist/1day3d1ZWCpu55cKqEEG7X"
+        },
+        {
+          "name": "Original Broadway Cast of Lempicka",
+          "url": "https://open.spotify.com/artist/6DZeFg4IcWilAXZ0HVnw7I"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292740,
+      "name": "Woman Is",
+      "url": "https://open.spotify.com/track/3Nse8DZcXWKUo1sb6yjDlL"
     },
     {
       "album": {

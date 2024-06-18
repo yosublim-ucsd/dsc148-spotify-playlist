@@ -1,12 +1,12 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 94701,
+  "num_followers": 94709,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmzZgAAAAAAMjQfco/6E0EGKwXaEzlEG",
+  "snapshot_id": "Zm4rAAAAAABjkvTWeLtcJ3pJumX+duV4",
   "tracks": [
     {
       "added_at": null,
@@ -471,30 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drip Season 3 (Deluxe)",
-        "url": "https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 219816,
-      "name": "Car Sick (feat. NAV & Metro Boomin)",
-      "url": "https://open.spotify.com/track/4xisLMFhYADhKnkOCCV4Am"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NAV",
         "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
       },
@@ -683,26 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Virgo World",
-        "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 133773,
-      "name": "Foreign (feat. Nav)",
-      "url": "https://open.spotify.com/track/3CTOc6QGsoaxwaPJYFxNsG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NAV",
         "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
       },
@@ -715,22 +671,6 @@
       "duration_ms": 215293,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/11HOTp4KdeOwmn7Ew0GSIs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Habits (Deluxe)",
-        "url": "https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 204363,
-      "name": "Habits",
-      "url": "https://open.spotify.com/track/3KkWGDCb6byHjNYjxBihGK"
     },
     {
       "added_at": null,
@@ -751,6 +691,22 @@
       "duration_ms": 188117,
       "name": "Codeine (feat. Gunna)",
       "url": "https://open.spotify.com/track/6NzuJWrNriXAbSmscAuSIq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Habits (Deluxe)",
+        "url": "https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 204363,
+      "name": "Habits",
+      "url": "https://open.spotify.com/track/3KkWGDCb6byHjNYjxBihGK"
     },
     {
       "added_at": null,
@@ -791,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emergency Tsunami",
-        "url": "https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 155086,
-      "name": "Vetement Socks",
-      "url": "https://open.spotify.com/track/4SHKs8ugjoATC3MgVym7Gs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Intentions",
         "url": "https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS"
       },
@@ -823,6 +763,22 @@
       "duration_ms": 128071,
       "name": "No Debate (feat. Young Thug)",
       "url": "https://open.spotify.com/track/29eSqQBrdva2tPLYMneFzP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emergency Tsunami",
+        "url": "https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 155086,
+      "name": "Vetement Socks",
+      "url": "https://open.spotify.com/track/4SHKs8ugjoATC3MgVym7Gs"
     },
     {
       "added_at": null,
@@ -863,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "RECKLESS",
+        "url": "https://open.spotify.com/album/1hTrdWpdPEeXHQWc9GmpxZ"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 160666,
+      "name": "Glow Up",
+      "url": "https://open.spotify.com/track/09L4qpS3qvz725z6K8yW0M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Demons Protected By Angels",
         "url": "https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6"
       },
@@ -879,22 +851,6 @@
       "duration_ms": 181355,
       "name": "Dead Shot (with Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/5CI4P97F6XAwK1kGnFYC0k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RECKLESS",
-        "url": "https://open.spotify.com/album/1hTrdWpdPEeXHQWc9GmpxZ"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 160666,
-      "name": "Glow Up",
-      "url": "https://open.spotify.com/track/09L4qpS3qvz725z6K8yW0M"
     },
     {
       "added_at": null,
@@ -935,26 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Demons Protected By Angels",
-        "url": "https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 139469,
-      "name": "Playa (with Gunna)",
-      "url": "https://open.spotify.com/track/4KH2xxnlvlE1koTS6OZSD8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Painless 2 (with NAV feat. Lil Durk)",
         "url": "https://open.spotify.com/album/7rKi5SdKXxVSLIc0B9z0wK"
       },
@@ -975,6 +911,26 @@
       "duration_ms": 242368,
       "name": "Painless 2 (with NAV feat. Lil Durk)",
       "url": "https://open.spotify.com/track/71Ih7wOeWd2EJxKi77Yiqi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Demons Protected By Angels",
+        "url": "https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 139469,
+      "name": "Playa (with Gunna)",
+      "url": "https://open.spotify.com/track/4KH2xxnlvlE1koTS6OZSD8"
     },
     {
       "added_at": null,
@@ -1011,6 +967,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Flu Game",
+        "url": "https://open.spotify.com/album/2mgAD4bdEfvmwG0iq8K0h7"
+      },
+      "artists": [
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Kuko\u010d (feat. NAV)",
+      "url": "https://open.spotify.com/track/188Y8ny5w1GArwFjXE2arA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Demons Protected By Angels",
         "url": "https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6"
       },
@@ -1027,6 +1003,26 @@
       "duration_ms": 164937,
       "name": "Interstellar (with Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/5HRXn4V1qL4CFNizMsFrTy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hoodie SZN",
+        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 193575,
+      "name": "Pull Up (feat. NAV)",
+      "url": "https://open.spotify.com/track/76vviJBqmRdMMb9u9npgfj"
     }
   ],
   "unique_name": "This Is NAV",

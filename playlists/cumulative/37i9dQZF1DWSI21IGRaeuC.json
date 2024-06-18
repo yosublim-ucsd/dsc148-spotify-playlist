@@ -101,6 +101,24 @@
     },
     {
       "album": {
+        "name": "Third Time Lucky",
+        "url": "https://open.spotify.com/album/3Dpji7REpcY9ixrbeLoJoQ"
+      },
+      "artists": [
+        {
+          "name": "Harrison BDP",
+          "url": "https://open.spotify.com/artist/4i3y3MC57rWYNAdYlE6HM3"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 536182,
+      "name": "Aether",
+      "url": "https://open.spotify.com/track/4EPLcCSJNzPXFelheUF1oF"
+    },
+    {
+      "album": {
         "name": "All I Want",
         "url": "https://open.spotify.com/album/6UCnUv9fK4XoTGaeSVxuHz"
       },
@@ -256,7 +274,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 400106,
       "name": "Arctica",
       "url": "https://open.spotify.com/track/128jeNhUYl3FhO5CJhpw85"
@@ -1409,6 +1427,24 @@
     },
     {
       "album": {
+        "name": "Don't Stahp (Edit)",
+        "url": "https://open.spotify.com/album/7kvoJUmOb7LmrzNknTsX4D"
+      },
+      "artists": [
+        {
+          "name": "Traumer",
+          "url": "https://open.spotify.com/artist/55qp3isnfx4ZKPHw5oP4eh"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228750,
+      "name": "Don't Stahp - Edit",
+      "url": "https://open.spotify.com/track/5UVwqwrWsVLjjPvOOZkHem"
+    },
+    {
+      "album": {
         "name": "Don't Wanna Go",
         "url": "https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp"
       },
@@ -1964,7 +2000,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 387195,
       "name": "Get It Up",
       "url": "https://open.spotify.com/track/0VYSW5QieD3cuP4jxvIDu4"
@@ -2022,6 +2058,24 @@
       "duration_ms": 214389,
       "name": "Ghetto",
       "url": "https://open.spotify.com/track/0NVG5DoB69ylg6MWbsNUH1"
+    },
+    {
+      "album": {
+        "name": "Under One Roof, Vol. 1",
+        "url": "https://open.spotify.com/album/5lCxH9j5oZovPEzHJxiJ5L"
+      },
+      "artists": [
+        {
+          "name": "Yerik US",
+          "url": "https://open.spotify.com/artist/1X7Dv6dJHi9FAlsLEhwok8"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347047,
+      "name": "Go Go",
+      "url": "https://open.spotify.com/track/4RAlMHBv3VGJBxRczuIpQz"
     },
     {
       "album": {
@@ -2428,6 +2482,24 @@
       "duration_ms": 199218,
       "name": "I'm an Alien",
       "url": "https://open.spotify.com/track/5OpsMaCuFKEJBa64ogjrGW"
+    },
+    {
+      "album": {
+        "name": "I'm Surprised",
+        "url": "https://open.spotify.com/album/2Rc87ArLcL27Yaz677JQUn"
+      },
+      "artists": [
+        {
+          "name": "Toby Simpson",
+          "url": "https://open.spotify.com/artist/4FsneofHgBocbprOOgcB8j"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399659,
+      "name": "I'm Surprised",
+      "url": "https://open.spotify.com/track/38Fn0HQllNrRjcaRsA8dKW"
     },
     {
       "album": {
@@ -2964,7 +3036,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 359995,
       "name": "Little Piggy",
       "url": "https://open.spotify.com/track/2efO97MDIWowC8n5yxfEvJ"
@@ -4866,7 +4938,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-08",
+      "date_removed": null,
       "duration_ms": 148005,
       "name": "Snap, Crackle & Pop",
       "url": "https://open.spotify.com/track/7hXec0ZsWTIyyKRqj6EDbM"
@@ -5076,7 +5148,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 335269,
       "name": "Step Forward",
       "url": "https://open.spotify.com/track/0wRlUOHmdlPEzuK1qfbYAm"
@@ -5304,7 +5376,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 448000,
       "name": "Swing Mind - Fedo Remix",
       "url": "https://open.spotify.com/track/6qwYhIR4XyH51ZTyPYNkVs"

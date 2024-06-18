@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: Honey Revenge
 
-393 songs - 19 hr 31 min
+394 songs - 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [2009](https://open.spotify.com/track/0hyjxXkT5neqnNmJUVjtD4) | [Aryia](https://open.spotify.com/artist/3pWE3vAZ06uBBPsmguhCz2) | [2009](https://open.spotify.com/album/59ZhsyVbxiKkuKm0vUK65d) | 3:11 | 2022-02-07 | 2023-04-01 |
 | [2AM \(And I Did It Again\)](https://open.spotify.com/track/0bOvIiChMJgvGsn5anlJgm) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [2AM \(And I Did It Again\)](https://open.spotify.com/album/2SAQ4W2EiZFbcZNEhubkLG) | 3:15 | 2021-12-20 | 2022-06-15 |
 | [3 DAY HEADACHE](https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [3 DAY HEADACHE](https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK) | 1:54 | 2024-01-12 |  |
-| [3 Days Sober](https://open.spotify.com/track/2TAugpQe6ZDChiYNEUzQcA) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [3 Days Sober](https://open.spotify.com/album/1TkrPcGZLCyzMcjIpiCUop) | 2:57 | 2023-01-27 |  |
+| [3 Days Sober](https://open.spotify.com/track/2TAugpQe6ZDChiYNEUzQcA) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [3 Days Sober](https://open.spotify.com/album/1TkrPcGZLCyzMcjIpiCUop) | 2:57 | 2023-01-27 | 2024-06-18 |
 | [32](https://open.spotify.com/track/2sYl3t3Rrnrs7mDbDHnIPg) | [Cold Years](https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp) | [32](https://open.spotify.com/album/3pm0elSt5GTx5OJAw0Wrfx) | 4:41 | 2022-03-14 | 2023-05-16 |
 | [A Cow to Milk](https://open.spotify.com/track/5e5fS4bgmZnMgBw95aHEis) | [All Coasted](https://open.spotify.com/artist/5v3VyJ81s4oLEqTPnHEtD6) | [A Cow to Milk](https://open.spotify.com/album/4wNS3fZuQ4RIcJgbpbTUbw) | 1:57 | 2023-06-20 | 2023-09-15 |
 | [A Long Way Down](https://open.spotify.com/track/2LQHdAiBWYmJwVVahBGgRD) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [A Long Way Down](https://open.spotify.com/album/2AfGzdoesN3AXv5ZETC4eR) | 3:18 | 2021-12-20 | 2022-06-15 |
@@ -388,6 +388,7 @@
 | [Walk This World With Me](https://open.spotify.com/track/4C4xwikhiK5uZX1oyxsRpZ) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Walk This World With Me](https://open.spotify.com/album/3bOo5s7GANC5FY4nQKWnkm) | 3:48 | 2024-06-14 |  |
 | [WAVES](https://open.spotify.com/track/54nU16Aa4XaE7Gxgkm1g2w) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht) | [WAVES](https://open.spotify.com/album/73pDeY3HirNVUh8VjEz4y7) | 3:28 | 2021-12-20 | 2022-06-15 |
 | [We All Got Covid \(Except for Linus\)](https://open.spotify.com/track/4TwuMxIhBZ47gIpHljt23x) | [Nerf Herder](https://open.spotify.com/artist/4TobcndnEGqtbWAHA6ylu1) | [We All Got Covid \(Except for Linus\)](https://open.spotify.com/album/6iB2IzhrrpmBcEwflzSLi9) | 2:20 | 2022-06-14 | 2022-07-29 |
+| [We Hang On](https://open.spotify.com/track/2iGQhAy6rwa3rtmKA7bz5F) | [The Early November](https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi) | [The Early November](https://open.spotify.com/album/5jLRNurqAdESrTqVPBSD95) | 3:29 | 2024-06-14 |  |
 | [WE'RE NOT STRANGERS](https://open.spotify.com/track/3RuNatnCCHe7LS5QTNnJJu) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7) | [WE'RE NOT STRANGERS](https://open.spotify.com/album/6uP0FNogIlJpxFnrRCES5z) | 2:18 | 2021-12-20 | 2023-02-10 |
 | [WEIRDOS](https://open.spotify.com/track/7ausP2XEvLZwycxAoiu2BB) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [STUFF FROM MY BRAIN](https://open.spotify.com/album/6bp0uG3VH0S2x7z9WyAruw) | 3:29 | 2021-12-20 | 2022-06-15 |
 | [WHAT THE HELL](https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHAT THE HELL](https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ) | 2:52 | 2024-03-22 |  |

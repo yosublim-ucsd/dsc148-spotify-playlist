@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Worship 2024 \| The latest and greatest of today's best Worship music\. Featuring artist's such as Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>!
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,234 likes - 149 songs - 14 hr 7 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,239 likes - 149 songs - 14 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

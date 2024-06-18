@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: DENIMS
 
-1,699 songs - 4 day 9 hr 17 min
+1,700 songs - 4 day 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,7 +379,7 @@
 | [hello shoegaze...](https://open.spotify.com/track/3qfVRx2j0CbPt65VFwkh9P) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [hello.wav](https://open.spotify.com/album/5PC8a4Q7ikgJm74tC60AGO) | 2:47 | 2024-03-26 | 2024-05-01 |
 | [Hello,goodbye \- cassette tape ver](https://open.spotify.com/track/6kAS1aLFGo9RmAflJCNvJc) | [ゆうらん船](https://open.spotify.com/artist/4SDLL3cZT6a7CKfcOreWZm) | [Hello,goodbye / dog](https://open.spotify.com/album/3siAV2H497wqnDyhlJuAIH) | 3:24 | 2024-02-27 | 2024-03-06 |
 | [HENSHIИ](https://open.spotify.com/track/1wCAizrOQ9SaVgQpPEpQvN) | [Mlle.](https://open.spotify.com/artist/5vZykXr0Y9ms4Rz4hFE7ZW) | [HENSHIИ](https://open.spotify.com/album/7CoWMZ2wbjxtHhm87yDjV4) | 3:32 | 2023-01-17 | 2023-01-25 |
-| [Here Comes The Icy Draugr](https://open.spotify.com/track/2kAzj93r7PWs6qBElOadyN) | [BBHF](https://open.spotify.com/artist/5gEQL7osnggthis6rBwYoY) | [Here Comes The Icy Draugr](https://open.spotify.com/album/5cf04LohcLwf8wBDrdWa0i) | 5:22 | 2024-05-21 |  |
+| [Here Comes The Icy Draugr](https://open.spotify.com/track/2kAzj93r7PWs6qBElOadyN) | [BBHF](https://open.spotify.com/artist/5gEQL7osnggthis6rBwYoY) | [Here Comes The Icy Draugr](https://open.spotify.com/album/5cf04LohcLwf8wBDrdWa0i) | 5:22 | 2024-05-21 | 2024-06-18 |
 | [Here I Stand](https://open.spotify.com/track/1xmcCam3mEi2Tmajwkdt6X) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [Here I Stand](https://open.spotify.com/album/1RY9bS3e6w4akVpgedsXNH) | 6:50 | 2023-02-21 | 2023-03-08 |
 | [hey dad you sent me postcards](https://open.spotify.com/track/5ffw9FBlKKv6wqvKkV6SoR) | [Wang\-Wang\(旺旺\)](https://open.spotify.com/artist/3P5cZnDKVRP2tcYJ7GHDuD) | [Arrow](https://open.spotify.com/album/0Rv1EUFlf1xPlejjgOnYod) | 4:27 | 2023-01-12 | 2023-02-08 |
 | [Highway](https://open.spotify.com/track/0CKF5Il9laNqfSWNU36qgZ) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK), [NF Zessho](https://open.spotify.com/artist/56f1j2OpB9qo7jFKL0hoL1) | [Highway](https://open.spotify.com/album/0LRbsy0bndIFllIVDosuQM) | 2:23 | 2023-02-23 | 2023-03-15 |
@@ -1392,6 +1392,7 @@
 | [何度大人になったって](https://open.spotify.com/track/1hqDNBeFeplMihnRMt6ipS) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [何度大人になったって](https://open.spotify.com/album/3PV4XJnhX3UI55hZFCjpCL) | 4:09 | 2023-09-26 | 2023-10-23 |
 | [修羅だってクラスメイト](https://open.spotify.com/track/1kpObJxRAUgfv49R96pzRP) | [The Otals](https://open.spotify.com/artist/2L8w8wwNFtKVGd9CLkicfe), [eureka](https://open.spotify.com/artist/7oUqP2q81T2SIUBoJjippe) | [修羅だってクラスメイト](https://open.spotify.com/album/0EnNucQLOsbYInAA8HMK8w) | 3:21 | 2023-07-11 | 2023-07-19 |
 | [俺だけがZU・BU・NU・RE......](https://open.spotify.com/track/6KxqJCpuP6ZRPOs2xyVDZO) | [Za Ninngenn](https://open.spotify.com/artist/4FwqgQ92TpsuzQ82fIosrX) | [俺だけがZU・BU・NU・RE......](https://open.spotify.com/album/3GZvgiUm8uL3Iqdf23QIfY) | 3:37 | 2024-02-20 | 2024-02-22 |
+| [俺に真実を教えてくれ!!](https://open.spotify.com/track/1K9T9R5EgS4TThkDzjvx1W) | [テレビ大陸音頭](https://open.spotify.com/artist/2kaZBRLaNSBdNuFKJCfqjt) | [俺に真実を教えてくれ!!](https://open.spotify.com/album/3paW3uw5uQJH5aJN59tU8W) | 1:34 | 2024-06-17 |  |
 | [僕しか知らない](https://open.spotify.com/track/5bO0x5yT69HKIDVekQWUVV) | [Nerd Magnet](https://open.spotify.com/artist/5GMWMP2vINSe4wq4mS5xle) | [僕しか知らない](https://open.spotify.com/album/1tDVydiEgw1y82hjmOvEcN) | 3:34 | 2023-09-26 | 2023-09-28 |
 | [僕の右手](https://open.spotify.com/track/2CLJmMe5g3ZKmQg13zKR9o) | [ラッキーセベン](https://open.spotify.com/artist/6i96AnwBuNfWOyMz7OHYWx) | [僕の右手](https://open.spotify.com/album/7bKj3wV1x34nhrkaTTO7rq) | 4:59 | 2023-08-15 | 2023-08-23 |
 | [僕の家](https://open.spotify.com/track/0M6AuT2CHZP7rZ4MAxsxZp) | [KiQ](https://open.spotify.com/artist/1wpDXEtGHLGW18q9A0bvGz) | [空想](https://open.spotify.com/album/7JmvBaTG3wbN9vPmb3ardJ) | 3:20 | 2023-09-19 | 2023-09-27 |

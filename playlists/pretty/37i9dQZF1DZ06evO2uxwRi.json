@@ -1,29 +1,13 @@
 {
-  "description": "This is New Found Glory. The essential tracks, all in one playlist.",
-  "num_followers": 39852,
-  "original_name": "This Is New Found Glory",
+  "description": "This is \u30cb\u30e5\u30fc\u30fb\u30d5\u30a1\u30a6\u30f3\u30c9\u30fb\u30b0\u30ed\u30fc\u30ea\u30fc\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "num_followers": 39856,
+  "original_name": "This Is \u30cb\u30e5\u30fc\u30fb\u30d5\u30a1\u30a6\u30f3\u30c9\u30fb\u30b0\u30ed\u30fc\u30ea\u30fc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmzZgAAAAAAORc7wC80e4Wz2b9p1eT2f",
+  "snapshot_id": "Zm4rAAAAAAAc5wozgs6wFn/MHvK6W+dW",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sticks And Stones",
-        "url": "https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 220200,
-      "name": "My Friends Over You",
-      "url": "https://open.spotify.com/track/4pImG3RdbaGfanzQOTFgyr"
-    },
     {
       "added_at": null,
       "album": {
@@ -451,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sticks And Stones",
+        "url": "https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 212560,
+      "name": "It's Been A Summer",
+      "url": "https://open.spotify.com/track/4HlCd3nabvTxmR2VDNUt05"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "From The Screen To Your Stereo, Pt. II",
         "url": "https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp"
       },
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Not Without A Fight",
-        "url": "https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 199706,
-      "name": "Listen To Your Friends",
-      "url": "https://open.spotify.com/track/6WO21QtEl9GbQDx7vrpzWL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Catalyst",
         "url": "https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 215600,
       "name": "Doubt Full",
       "url": "https://open.spotify.com/track/0ea1sv8XeSLSc6FENRPrON"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Not Without A Fight",
+        "url": "https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 199706,
+      "name": "Listen To Your Friends",
+      "url": "https://open.spotify.com/track/6WO21QtEl9GbQDx7vrpzWL"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever And Ever x Infinity",
-        "url": "https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 177037,
-      "name": "Greatest Of All Time",
-      "url": "https://open.spotify.com/track/4ZsgnD8CqWPF15nhT6HQED"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/1rRe0RrLHXpYhOSQeiGgGK"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 217413,
       "name": "It's Not Your Fault",
       "url": "https://open.spotify.com/track/6mWaIL3wd4XtxBZlvams5f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever And Ever x Infinity",
+        "url": "https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 177037,
+      "name": "Greatest Of All Time",
+      "url": "https://open.spotify.com/track/4ZsgnD8CqWPF15nhT6HQED"
     },
     {
       "added_at": null,
@@ -817,6 +817,6 @@
       "url": "https://open.spotify.com/track/43GEARdOhWe57fq6lLvTt8"
     }
   ],
-  "unique_name": "This Is New Found Glory",
+  "unique_name": "This Is \u30cb\u30e5\u30fc\u30fb\u30d5\u30a1\u30a6\u30f3\u30c9\u30fb\u30b0\u30ed\u30fc\u30ea\u30fc",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2uxwRi"
 }

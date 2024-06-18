@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: Falz
 
-416 songs - 19 hr 48 min
+417 songs - 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Busy](https://open.spotify.com/track/207EjYJwVSc0ypijvKBMic) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q) | [Busy](https://open.spotify.com/album/1wVpvX9AjgmIoIfikkwFdK) | 2:52 | 2023-12-15 | 2024-02-17 |
 | [Call Me](https://open.spotify.com/track/4lZyW9fqQxD6K2FC3XcD6t) | [Thekiddnk](https://open.spotify.com/artist/1rVu32t9I4VAf5CvShNpDy) | [Call Me](https://open.spotify.com/album/1ultX70qZ116mlkFOCIsgM) | 1:40 | 2023-02-03 | 2023-02-17 |
 | [CAN’T EXPLAIN](https://open.spotify.com/track/53fPdKhyo7IVl0jKBTyqfb) | [Peddygree](https://open.spotify.com/artist/3vqsgMy4R82tEYVwUQN1Zg), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Can’t Explain](https://open.spotify.com/album/5hnys7CwXZ2uTLp0x3nfkC) | 2:50 | 2023-03-25 | 2023-03-31 |
+| [Casa](https://open.spotify.com/track/3SW8UsHMfohqWOo2PGb9SM) | [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI), [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [More Kashcoming](https://open.spotify.com/album/0d07XqLINJkvd4By1htNPd) | 2:34 | 2024-06-14 |  |
 | [Cast](https://open.spotify.com/track/2egqPiWDKdLO34x2Csa3iU) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Cast](https://open.spotify.com/album/18dCvrjuLcD3EvW1ovyifu) | 2:09 | 2023-11-10 |  |
 | [CHANGE AM](https://open.spotify.com/track/6sDacNyxcOBkYQ5URsVd24) | [Jake Doe](https://open.spotify.com/artist/6ya83yRCbdYDSSMHWp8wWU) | [Yours Unfaithfully](https://open.spotify.com/album/4xvlrR1wtd9unOqq1xMkEN) | 2:31 | 2023-03-25 | 2023-03-31 |
 | [Choosey](https://open.spotify.com/track/3ARj9nbJqRHqAGWYIUJ8XR) | [SixSaidIt](https://open.spotify.com/artist/4SBh3nHzdDKtubyOjpkhlb) | [Choosey](https://open.spotify.com/album/5TuXEia8HdUU3I1CIK5ldq) | 3:06 | 2022-08-09 | 2022-11-16 |
@@ -274,7 +275,7 @@
 | [On My Grind](https://open.spotify.com/track/6MTOvHuqJcw0HN6xDHiVNQ) | [Bizzonthetrack](https://open.spotify.com/artist/7mwUCvs44HG9Bh9yW3NUiG), [Bliizzy](https://open.spotify.com/artist/5bTtiKQwOpHRD5Mf5TTyPN) | [On My Grind](https://open.spotify.com/album/2agfSDraZLcjFYoaTmf7tB) | 2:14 | 2023-03-18 | 2023-03-25 |
 | [Open The Front Door](https://open.spotify.com/track/4kqpXbmZyHMwVByAV6mdtP) | [Omotee](https://open.spotify.com/artist/3a4SFbgqSV3PtCDSPL6FLt), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Open The Front Door](https://open.spotify.com/album/3s6R1QUm992adma0tFufO6) | 2:49 | 2023-04-14 | 2023-04-28 |
 | [Operation Sweep](https://open.spotify.com/track/2exuZNzNYl96pncjTYokOd) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Operation Sweep](https://open.spotify.com/album/5Z27393Vx6iqkl1dG6mXyq) | 2:35 | 2023-08-10 | 2023-09-29 |
-| [Oppress](https://open.spotify.com/track/0Xp3jkTLbquF9DVII3VDsT) | [DanDizzy](https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [DTG](https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Oppress](https://open.spotify.com/album/4DS8vOME5sr3exIbiodfK4) | 3:42 | 2024-02-02 |  |
+| [Oppress](https://open.spotify.com/track/0Xp3jkTLbquF9DVII3VDsT) | [DanDizzy](https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [DTG](https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Oppress](https://open.spotify.com/album/4DS8vOME5sr3exIbiodfK4) | 3:42 | 2024-02-02 | 2024-06-18 |
 | [OPPS](https://open.spotify.com/track/4yTwUVvSIjB62K5iQH56hi) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [YPSZN2](https://open.spotify.com/album/1ru2DrxX58DmKELFCOFO4g) | 2:27 | 2022-10-14 | 2022-10-29 |
 | [Otedola](https://open.spotify.com/track/0RTNc1RQqIviHjZIqcZmsm) | [Dice Ailes](https://open.spotify.com/artist/6k96FH3t0HYJRLaMi3TNXa) | [Otedola](https://open.spotify.com/album/0BTJgMB3PiI9E6PMAQ2bD9) | 3:05 | 2022-10-14 | 2022-10-29 |
 | [Out There](https://open.spotify.com/track/292BMcWitjojrgMxZ3Zaj8) | [Dangbana Republik](https://open.spotify.com/artist/5ezmlxcj3HQvg2XZamXlZK), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [High Tension 2.0](https://open.spotify.com/album/43564usP2MXDmGPsjPHL8q) | 2:43 | 2022-06-09 | 2024-01-26 |

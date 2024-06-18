@@ -128,7 +128,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 196458,
       "name": "because i liked a boy",
       "url": "https://open.spotify.com/track/32FhTAAjKZaBein150o3Px"
@@ -534,7 +534,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 147070,
       "name": "Let Me Move You - From the Netflix film \"Work It\"",
       "url": "https://open.spotify.com/track/0roOLcll6SSTYZwsQFmXqP"
@@ -686,7 +686,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 168170,
       "name": "opposite",
       "url": "https://open.spotify.com/track/27Jko74ZSVY1kwt0vMY6Pu"
@@ -830,7 +830,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 177500,
       "name": "Skin",
       "url": "https://open.spotify.com/track/03B2SfXuvDh1m9F4tqrX07"
@@ -848,7 +848,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-16",
+      "date_removed": null,
       "duration_ms": 177750,
       "name": "skinny dipping",
       "url": "https://open.spotify.com/track/436RVcyrHyXdqYNWGYMxx5"
@@ -1011,6 +1011,24 @@
     },
     {
       "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/55huyEjfSVsk9nnmmKp5df"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254346,
+      "name": "Too Young",
+      "url": "https://open.spotify.com/track/694MyEbGgAtoEVYqdtfvp2"
+    },
+    {
+      "album": {
         "name": "emails i can't send",
         "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
       },
@@ -1022,7 +1040,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 204179,
       "name": "Tornado Warnings",
       "url": "https://open.spotify.com/track/5kcuHw8WtxauIWI5crMcLM"
@@ -1160,7 +1178,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 209080,
       "name": "Your Love's Like",
       "url": "https://open.spotify.com/track/1fVnTuUKlhkFqZ6HXV56s6"

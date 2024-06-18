@@ -1,6 +1,6 @@
 {
   "description": "Yoa au top des nouveaut\u00e9s de la semaine !",
-  "num_followers": 348476,
+  "num_followers": 348475,
   "original_name": "New Music Friday France",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
       "duration_ms": 152383,
       "name": "RA TA TA",
       "url": "https://open.spotify.com/track/4EGLoafrxloaEWTscMYARN"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Dance With Me",
+        "url": "https://open.spotify.com/album/1wkUCIDGpYN0PEIcyG4dS6"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 225204,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/2I5ipWaIXUknimwtJPoPYt"
     },
     {
       "added_at": "2024-06-13 22:00:00",

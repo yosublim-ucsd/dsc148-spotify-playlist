@@ -1,206 +1,254 @@
 {
-  "description": "\bAlaina Castillo\uc758 \ucd94\ucc9c\uace1\uacfc \ud568\uaed8 \uac10\ubbf8\ub85c\uc6b4 \uc7ac\uc988 \ud0c0\uc784\uc744 \uac00\uc838\ubcf4\uc138\uc694!",
-  "num_followers": 118,
-  "original_name": "\bAlaina Castillo\uc640 \uc7ac\uc988 \ud55c \uc794",
+  "description": "Tom Grennan\uc758 \ucd94\ucc9c\uace1\uacfc \ud568\uaed8 \uac10\ubbf8\ub85c\uc6b4 \uc7ac\uc988 \ud0c0\uc784\uc744 \uac00\uc838\ubcf4\uc138\uc694!",
+  "num_followers": 124,
+  "original_name": "Tom Grennan\uacfc \uc7ac\uc988 \ud55c \uc794",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmqpPgAAAAAoGurt/SUai/eObgMjh+ac",
+  "snapshot_id": "Zm/Q4AAAAAArUVgfpBnE/2y8Ig4Dih4G",
   "tracks": [
     {
-      "added_at": "2024-06-13 08:09:34",
+      "added_at": "2024-06-17 06:00:00",
       "album": {
-        "name": "Love You Lately",
-        "url": "https://open.spotify.com/album/2uP94nOqud6nbGrsOaZ6cX"
+        "name": "I Feel for You",
+        "url": "https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU"
       },
       "artists": [
         {
-          "name": "Ariana and the Rose",
-          "url": "https://open.spotify.com/artist/5HgPIUp6b7DVdhWK3tkl83"
-        },
-        {
-          "name": "RKCB",
-          "url": "https://open.spotify.com/artist/4QDvXnbmw1znkqkK1119Fc"
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
         }
       ],
-      "duration_ms": 236536,
-      "name": "Love You Lately",
-      "url": "https://open.spotify.com/track/2mbYJpbIUiXgaGPTJEN7CW"
+      "duration_ms": 343400,
+      "name": "I Feel for You",
+      "url": "https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7"
     },
     {
-      "added_at": "2024-06-13 08:09:34",
+      "added_at": "2024-06-17 06:00:00",
       "album": {
-        "name": "Unapologetic (Deluxe)",
-        "url": "https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2"
+        "name": "Whatever People Say I Am, That's What I'm Not",
+        "url": "https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 256320,
-      "name": "Loveeeeeee Song",
-      "url": "https://open.spotify.com/track/3DZQ6mzUkAdHqZWzqxBKIK"
+      "duration_ms": 173680,
+      "name": "I Bet You Look Good On The Dancefloor",
+      "url": "https://open.spotify.com/track/3DQVgcqaP3iSMbaKsd57l5"
     },
     {
-      "added_at": "2024-06-13 08:09:34",
+      "added_at": "2024-06-17 06:00:00",
       "album": {
-        "name": "Love Yourself \u7d50 'Answer'",
-        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
+        "name": "SQUARE UP",
+        "url": "https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
         }
       ],
-      "duration_ms": 196998,
-      "name": "Singularity",
-      "url": "https://open.spotify.com/track/2ApfJvLr7RbhJl6NOVhEu6"
+      "duration_ms": 211350,
+      "name": "DDU-DU DDU-DU",
+      "url": "https://open.spotify.com/track/4lQsB3ERTWSNaAN1IkuNRl"
     },
     {
-      "added_at": "2024-06-13 08:09:34",
+      "added_at": "2024-06-17 06:00:00",
       "album": {
-        "name": "Suncity",
-        "url": "https://open.spotify.com/album/2Qxc2NJ7yPKVFRWi3llRr2"
+        "name": "Pirate Radio",
+        "url": "https://open.spotify.com/album/7GFn8ze0gydX3f0WNMCxaG"
       },
       "artists": [
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
         }
       ],
-      "duration_ms": 229320,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/6zeeWid2sgw4lap2jV61PZ"
+      "duration_ms": 246960,
+      "name": "Let's Dance",
+      "url": "https://open.spotify.com/track/2tgw0vmJDgckHwW2PdYTGo"
     },
     {
-      "added_at": "2024-06-13 08:09:34",
+      "added_at": "2024-06-17 06:00:00",
       "album": {
-        "name": "parallel universe pt. 1",
-        "url": "https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF"
+        "name": "Little Bit of Love",
+        "url": "https://open.spotify.com/album/0NZUGfUMwjt3bPlVHxnIN2"
       },
       "artists": [
         {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
         }
       ],
-      "duration_ms": 188160,
-      "name": "pocket locket",
-      "url": "https://open.spotify.com/track/7t9d2YdmD87JC72pocMtlz"
+      "duration_ms": 226268,
+      "name": "Little Bit of Love",
+      "url": "https://open.spotify.com/track/2sX7lJXsOYGP1Us6CqM9t1"
     },
     {
-      "added_at": "2024-06-13 08:09:34",
+      "added_at": "2024-06-17 06:00:00",
       "album": {
-        "name": "Little Voice",
-        "url": "https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF"
+        "name": "I Am The Upsetter - The Story Of The Lee \"Scratch\" Perry Golden Years",
+        "url": "https://open.spotify.com/album/77e2HqGY8NQZCTLbC3q61n"
       },
       "artists": [
         {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 258826,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf"
+      "duration_ms": 234080,
+      "name": "Small Axe",
+      "url": "https://open.spotify.com/track/7gYWCaKeuAJKhGiauRrFsj"
     },
     {
-      "added_at": "2024-06-13 08:09:34",
+      "added_at": "2024-06-17 06:00:00",
       "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
+        "name": "Complete Studio Albums & Rarities",
+        "url": "https://open.spotify.com/album/2g3QzVCFx0kEmYICkjHj2N"
       },
       "artists": [
         {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 196546,
-      "name": "New Love",
-      "url": "https://open.spotify.com/track/42QGdFKDbWMDvmgsYq35HP"
+      "duration_ms": 366200,
+      "name": "Ghosts Are Gone",
+      "url": "https://open.spotify.com/track/4DiFLfaaO1UojBRluWIELg"
     },
     {
-      "added_at": "2024-06-13 08:09:34",
+      "added_at": "2024-06-17 06:00:00",
       "album": {
-        "name": "ANTI (Deluxe)",
-        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
         }
       ],
-      "duration_ms": 223213,
-      "name": "Close To You",
-      "url": "https://open.spotify.com/track/6D2tzc8kRnZb7P1lNwMBLH"
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
-      "added_at": "2024-06-13 08:09:34",
+      "added_at": "2024-06-17 06:00:00",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs"
+        "name": "What Happens Now?",
+        "url": "https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e"
       },
       "artists": [
         {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
         }
       ],
-      "duration_ms": 176766,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg"
+      "duration_ms": 171782,
+      "name": "Austin (Boots Stop Workin')",
+      "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
     },
     {
-      "added_at": "2024-06-13 08:09:34",
+      "added_at": "2024-06-17 06:00:00",
       "album": {
-        "name": "Skin: The Remixes",
-        "url": "https://open.spotify.com/album/5UK5fBBRS4nWnqdvcsOh4J"
+        "name": "Zero Grace",
+        "url": "https://open.spotify.com/album/4loYR62mrFQeCzK5pHoV5l"
       },
       "artists": [
         {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+          "name": "Liam Bailey",
+          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
         }
       ],
-      "duration_ms": 297600,
-      "name": "Say It - SG Lewis Remix",
-      "url": "https://open.spotify.com/track/36kRxuCNJWw08SfbOVWvQp"
+      "duration_ms": 169205,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/2fYaQWXYdp7Ejvfxsn1xK8"
     },
     {
-      "added_at": "2024-06-13 08:09:34",
+      "added_at": "2024-06-17 06:00:00",
       "album": {
-        "name": "How Sweet",
-        "url": "https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq"
+        "name": "Not Like Us",
+        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
       },
       "artists": [
         {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 219026,
-      "name": "How Sweet",
-      "url": "https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH"
+      "duration_ms": 274192,
+      "name": "Not Like Us",
+      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
+    },
+    {
+      "added_at": "2024-06-17 06:00:00",
+      "album": {
+        "name": "TEARS OF THE SUN",
+        "url": "https://open.spotify.com/album/4yspRWwXpYeeQ2EoOmpLPJ"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "YBGFA",
+      "url": "https://open.spotify.com/track/5MUAhZVNZU4UF8FmhUBQYs"
+    },
+    {
+      "added_at": "2024-06-17 06:00:00",
+      "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 176306,
+      "name": "Second Hand News - 2004 Remaster",
+      "url": "https://open.spotify.com/track/0hlniElQOr5tvSKBaSpAQi"
+    },
+    {
+      "added_at": "2024-06-17 06:00:00",
+      "album": {
+        "name": "A Bar Song (Tipsy)",
+        "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 171291,
+      "name": "A Bar Song (Tipsy)",
+      "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
+    },
+    {
+      "added_at": "2024-06-17 06:00:00",
+      "album": {
+        "name": "Bunny",
+        "url": "https://open.spotify.com/album/6hRE1QhZfpKB03kvvF6jTG"
+      },
+      "artists": [
+        {
+          "name": "Willie J Healey",
+          "url": "https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR"
+        }
+      ],
+      "duration_ms": 166546,
+      "name": "Woke Up Smiling",
+      "url": "https://open.spotify.com/track/45xlIN650OyWN1T99GLzFQ"
     }
   ],
-  "unique_name": "\bAlaina Castillo\uc640 \uc7ac\uc988 \ud55c \uc794",
+  "unique_name": "Tom Grennan\uacfc \uc7ac\uc988 \ud55c \uc794",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0sa2Fqej3CR"
 }

@@ -4,7 +4,7 @@
 
 > La playlist urban più grande d'Italia 🔥 Cover: Tony Boy
 
-543 songs - 1 day 2 hr 41 min
+544 songs - 1 day 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -514,7 +514,7 @@
 | [Totoro 2](https://open.spotify.com/track/2Br5XZZK8B5cYELcUV0ctM) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [Le cose cambiano](https://open.spotify.com/album/50SWJ7Aq7XuSKl8SJYFnn9) | 3:08 | 2023-12-07 | 2024-01-12 |
 | [Trafficante](https://open.spotify.com/track/1rpFM1ZbTZVS1fusCzmzg9) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Trafficante](https://open.spotify.com/album/2fqjaXJGRG5PuEqb0ftjkB) | 2:07 | 2022-10-27 | 2023-05-19 |
 | [TRAVESURAS \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo\)](https://open.spotify.com/track/7IrtgihaMKV0DOVcB0TcBG) | [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [TRAVESURAS \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo\)](https://open.spotify.com/album/068WIA490RGoZi1ZObrv9e) | 4:25 | 2022-05-09 | 2022-10-04 |
-| [TRISTE](https://open.spotify.com/track/4ULKTtWRMJh5EnJgL2fXcL) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [TRISTE](https://open.spotify.com/album/3w0gbh9blEDD9LDa7NOr8m) | 2:26 | 2024-05-23 |  |
+| [TRISTE](https://open.spotify.com/track/4ULKTtWRMJh5EnJgL2fXcL) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [TRISTE](https://open.spotify.com/album/3w0gbh9blEDD9LDa7NOr8m) | 2:26 | 2024-05-23 | 2024-06-18 |
 | [Triste \(feat\. Neima Ezza & Ernia\)](https://open.spotify.com/track/0yDjNkN0xMqiUm6NjvdLuH) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [QUELLO VERO](https://open.spotify.com/album/5sKFWHoVyf9t65zdLmx6wg) | 3:10 | 2023-01-26 | 2023-04-07 |
 | [trueno \(feat\. Salmo\)](https://open.spotify.com/track/72CfmqTiImbgi0BTeJWFiP) | [STABBER](https://open.spotify.com/artist/1eKwVaINKkLrCkOQFRVM6g), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [trueno \(feat\. Salmo\)](https://open.spotify.com/album/3lPfwFIo0d2O2qjVIO6FsX) | 2:23 | 2024-03-14 | 2024-03-29 |
 | [TUNNEL](https://open.spotify.com/track/1M7CwtrWZ24mopNdDPB3DM) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [TUNNEL](https://open.spotify.com/album/31OPmDCnbwH8HgYrosnzxo) | 2:24 | 2024-01-10 | 2024-05-03 |
@@ -544,6 +544,7 @@
 | [WAO](https://open.spotify.com/track/24mzKw9LcwPNUMHSFAarvJ) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [WAO](https://open.spotify.com/album/6nMTRVyMQdql9a5Afk1lOD) | 2:29 | 2023-04-27 | 2023-09-09 |
 | [WEED, SOLDI, SESSO \(feat\. Gemitaiz\)](https://open.spotify.com/track/0WBYASmM4kt2hRv02zQCyJ) | [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [FAIV](https://open.spotify.com/album/4xpmdTSoa2iKkBnxrsTWzK) | 3:13 | 2022-06-02 | 2022-06-17 |
 | [Whip Whip](https://open.spotify.com/track/3GlYaaFuFxEJWYiN0Vc41f) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Whip Whip](https://open.spotify.com/album/5nPvaJOnOIPRuDtRc2RicJ) | 1:57 | 2023-05-18 | 2023-07-28 |
+| [WIFEY \(feat\. Guè\)](https://open.spotify.com/track/1me6JiCLFU4Cr2Mlh19uJl) | [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [WIFEY \(feat\. Guè\)](https://open.spotify.com/album/4iax1wFoOMb9vTL7lQJzv6) | 3:09 | 2024-06-17 |  |
 | [X CASO \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/2E32Pv8w20r6ZH4oFecxOf) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 3:35 | 2023-01-05 | 2023-10-27 |
 | [YAMAMAY](https://open.spotify.com/track/6P68S7IrfuDyXOmhUpwvxZ) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [YAMAMAY](https://open.spotify.com/album/4yMQk3qc1pbUOLjgRN1gIB) | 2:42 | 2023-03-07 | 2023-07-29 |
 | [ye@h \(feat\. Shiva\)](https://open.spotify.com/track/2BkoXEOE6vvkOKVNjPax2B) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 2:36 | 2022-09-29 | 2022-11-08 |

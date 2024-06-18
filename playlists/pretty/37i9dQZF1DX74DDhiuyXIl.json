@@ -1,6 +1,6 @@
 {
   "description": "\u56de\u5bb6\u7684\u8def\u4e0a\uff0c\u6709\u597d\u807d\u7684\u6b4c\u66f2\u966a\u4f34\uff0c\u6703\u8b93\u4eba\u66ab\u6642\u5fd8\u4e86\u75b2\u5026\u3002",
-  "num_followers": 78097,
+  "num_followers": 78126,
   "original_name": "\u8fd4\u5bb6\u8f15\u807d",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-06-13 16:57:58",
       "album": {
-        "name": "\u661f\u8fb0\u5927\u6d77",
-        "url": "https://open.spotify.com/album/6TMqv3zCwNxM8JbNeUpk4P"
-      },
-      "artists": [
-        {
-          "name": "\u9ec4\u9704\u96f2",
-          "url": "https://open.spotify.com/artist/4vcc1VAbvzJjbMTsPYL6OU"
-        }
-      ],
-      "duration_ms": 207857,
-      "name": "\u661f\u8fb0\u5927\u6d77",
-      "url": "https://open.spotify.com/track/47O6EPP78iQOOma2OVsYwS"
-    },
-    {
-      "added_at": "2024-06-13 16:57:58",
-      "album": {
         "name": "\u90fd\u662f\u6d6a\u6f2b\u5bb3\u7684",
         "url": "https://open.spotify.com/album/6k3Aj8q27ETWzwpb9jG3Np"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 248619,
       "name": "\u90fd\u662f\u6d6a\u6f2b\u5bb3\u7684",
       "url": "https://open.spotify.com/track/7lw5s901joNKsEZsRWXzu5"
+    },
+    {
+      "added_at": "2024-06-13 16:57:58",
+      "album": {
+        "name": "\u661f\u8fb0\u5927\u6d77",
+        "url": "https://open.spotify.com/album/6TMqv3zCwNxM8JbNeUpk4P"
+      },
+      "artists": [
+        {
+          "name": "\u9ec4\u9704\u96f2",
+          "url": "https://open.spotify.com/artist/4vcc1VAbvzJjbMTsPYL6OU"
+        }
+      ],
+      "duration_ms": 207857,
+      "name": "\u661f\u8fb0\u5927\u6d77",
+      "url": "https://open.spotify.com/track/47O6EPP78iQOOma2OVsYwS"
     },
     {
       "added_at": "2024-06-13 16:57:58",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-06-13 16:57:58",
       "album": {
-        "name": "\u4e00\u76f4\u90fd\u5728 (\u300a\u6211\u7684\u9ebb\u54094\u500b\u9b3c\u300b\u96fb\u5f71\u4e3b\u984c\u66f2)",
-        "url": "https://open.spotify.com/album/4QhjNVOF6Fjbmmr7ujQv7a"
-      },
-      "artists": [
-        {
-          "name": "WeiBird",
-          "url": "https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX"
-        }
-      ],
-      "duration_ms": 221500,
-      "name": "\u4e00\u76f4\u90fd\u5728 - \u300a\u6211\u7684\u9ebb\u54094\u500b\u9b3c\u300b\u96fb\u5f71\u4e3b\u984c\u66f2",
-      "url": "https://open.spotify.com/track/2pjAig6rbTn1Th9p9yjjwd"
-    },
-    {
-      "added_at": "2024-06-13 16:57:58",
-      "album": {
         "name": "\u6709\u4e00\u7a2e\u60b2\u50b7 (\u96fb\u5f71\u300a\u6bd4\u60b2\u50b7\u66f4\u60b2\u50b7\u7684\u6545\u4e8b\u300b\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/68NAOLFISOsBsyMLA2fUPf"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 237000,
       "name": "\u6709\u4e00\u7a2e\u60b2\u50b7 - \u96fb\u5f71\u300a\u6bd4\u60b2\u50b7\u66f4\u60b2\u50b7\u7684\u6545\u4e8b\u300b\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/3ayrHkyorPEpeOBvZ76SwG"
+    },
+    {
+      "added_at": "2024-06-13 16:57:58",
+      "album": {
+        "name": "\u4e00\u76f4\u90fd\u5728 (\u300a\u6211\u7684\u9ebb\u54094\u500b\u9b3c\u300b\u96fb\u5f71\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/4QhjNVOF6Fjbmmr7ujQv7a"
+      },
+      "artists": [
+        {
+          "name": "WeiBird",
+          "url": "https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX"
+        }
+      ],
+      "duration_ms": 221500,
+      "name": "\u4e00\u76f4\u90fd\u5728 - \u300a\u6211\u7684\u9ebb\u54094\u500b\u9b3c\u300b\u96fb\u5f71\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/2pjAig6rbTn1Th9p9yjjwd"
     },
     {
       "added_at": "2024-06-13 16:57:58",
@@ -803,18 +803,18 @@
     {
       "added_at": "2024-06-13 16:57:58",
       "album": {
-        "name": "\u8d70\u5fc3\u7684\u6b4c",
-        "url": "https://open.spotify.com/album/6fBZmGRXKxRHyAD8Qc0JZu"
+        "name": "\u7d30\u6578\u6c99\u6f0f (\u96fb\u8996\u5287\u300a\u6642\u5149\u6b63\u597d\u300b\u7247\u5c3e\u66f2)",
+        "url": "https://open.spotify.com/album/2m1yWoETxDdkh6k2eqEj3K"
       },
       "artists": [
         {
-          "name": "Andrew Tan",
-          "url": "https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c"
+          "name": "Nicky Lee",
+          "url": "https://open.spotify.com/artist/6DuHQk8gJbyVlhajer8IuF"
         }
       ],
-      "duration_ms": 261066,
-      "name": "\u8d70\u5fc3\u7684\u6b4c",
-      "url": "https://open.spotify.com/track/435ZECJJlGHUzKbOhLbBDW"
+      "duration_ms": 232137,
+      "name": "\u7d30\u6578\u6c99\u6f0f - \u96fb\u8996\u5287\u300a\u6642\u5149\u6b63\u597d\u300b\u7247\u5c3e\u66f2",
+      "url": "https://open.spotify.com/track/4Qn3K4xiwnRmJBSfVvAE3m"
     },
     {
       "added_at": "2024-06-13 16:57:58",
@@ -835,22 +835,34 @@
     {
       "added_at": "2024-06-13 16:57:58",
       "album": {
-        "name": "\u4fef\u885d\u7684\u9748\u9b42",
-        "url": "https://open.spotify.com/album/690mx56BtcjEFRKB4uXLJz"
+        "name": "\u8d70\u5fc3\u7684\u6b4c",
+        "url": "https://open.spotify.com/album/6fBZmGRXKxRHyAD8Qc0JZu"
+      },
+      "artists": [
+        {
+          "name": "Andrew Tan",
+          "url": "https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c"
+        }
+      ],
+      "duration_ms": 261066,
+      "name": "\u8d70\u5fc3\u7684\u6b4c",
+      "url": "https://open.spotify.com/track/435ZECJJlGHUzKbOhLbBDW"
+    },
+    {
+      "added_at": "2024-06-13 16:57:58",
+      "album": {
+        "name": "\u5fe0\u5b5d\u6771\u8def\u8d70\u4e5d\u904d",
+        "url": "https://open.spotify.com/album/4QFQFIpq2drStUz2yPphHw"
       },
       "artists": [
         {
           "name": "Power Station",
           "url": "https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy"
-        },
-        {
-          "name": "JJ Lin",
-          "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
         }
       ],
-      "duration_ms": 255669,
-      "name": "\u4fef\u885d\u7684\u9748\u9b42",
-      "url": "https://open.spotify.com/track/2LIEDIp2fe3MzBfr4R29FA"
+      "duration_ms": 292133,
+      "name": "\u5fe0\u5b5d\u6771\u8def\u8d70\u4e5d\u904d",
+      "url": "https://open.spotify.com/track/5vdLbWLiR9dH7uWoFQH6cf"
     },
     {
       "added_at": "2024-06-13 16:57:58",
@@ -867,22 +879,6 @@
       "duration_ms": 224516,
       "name": "\u53e5\u53e5\u5728\u8bf4\u522b\u8d70",
       "url": "https://open.spotify.com/track/5a87gjyucwkGvc9Y774GKK"
-    },
-    {
-      "added_at": "2024-06-13 16:57:58",
-      "album": {
-        "name": "\u7d30\u6578\u6c99\u6f0f (\u96fb\u8996\u5287\u300a\u6642\u5149\u6b63\u597d\u300b\u7247\u5c3e\u66f2)",
-        "url": "https://open.spotify.com/album/2m1yWoETxDdkh6k2eqEj3K"
-      },
-      "artists": [
-        {
-          "name": "Nicky Lee",
-          "url": "https://open.spotify.com/artist/6DuHQk8gJbyVlhajer8IuF"
-        }
-      ],
-      "duration_ms": 232137,
-      "name": "\u7d30\u6578\u6c99\u6f0f - \u96fb\u8996\u5287\u300a\u6642\u5149\u6b63\u597d\u300b\u7247\u5c3e\u66f2",
-      "url": "https://open.spotify.com/track/4Qn3K4xiwnRmJBSfVvAE3m"
     },
     {
       "added_at": "2024-06-13 16:57:58",
@@ -975,18 +971,22 @@
     {
       "added_at": "2024-06-13 16:57:58",
       "album": {
-        "name": "\u5fe0\u5b5d\u6771\u8def\u8d70\u4e5d\u904d",
-        "url": "https://open.spotify.com/album/4QFQFIpq2drStUz2yPphHw"
+        "name": "\u4fef\u885d\u7684\u9748\u9b42",
+        "url": "https://open.spotify.com/album/690mx56BtcjEFRKB4uXLJz"
       },
       "artists": [
         {
           "name": "Power Station",
           "url": "https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy"
+        },
+        {
+          "name": "JJ Lin",
+          "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
         }
       ],
-      "duration_ms": 292133,
-      "name": "\u5fe0\u5b5d\u6771\u8def\u8d70\u4e5d\u904d",
-      "url": "https://open.spotify.com/track/5vdLbWLiR9dH7uWoFQH6cf"
+      "duration_ms": 255669,
+      "name": "\u4fef\u885d\u7684\u9748\u9b42",
+      "url": "https://open.spotify.com/track/2LIEDIp2fe3MzBfr4R29FA"
     },
     {
       "added_at": "2024-06-13 16:57:58",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-06-13 16:57:58",
       "album": {
-        "name": "\u6211\u611b\u4f60\u5c0d\u4e0d\u8d77 \u8b1d\u8b1d\u4f60\u6c92\u95dc\u4fc2",
-        "url": "https://open.spotify.com/album/4qF7TO24rkByR998SX23lT"
-      },
-      "artists": [
-        {
-          "name": "WeiBird",
-          "url": "https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX"
-        }
-      ],
-      "duration_ms": 305526,
-      "name": "\u6211\u611b\u4f60\u5c0d\u4e0d\u8d77 \u8b1d\u8b1d\u4f60\u6c92\u95dc\u4fc2",
-      "url": "https://open.spotify.com/track/00jPopb33woapLbXAe4e1t"
-    },
-    {
-      "added_at": "2024-06-13 16:57:58",
-      "album": {
         "name": "\u653e\u904e\u81ea\u5df1",
         "url": "https://open.spotify.com/album/4JbsUHHIczczvvAPh137S8"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 249041,
       "name": "\u653e\u904e\u81ea\u5df1",
       "url": "https://open.spotify.com/track/1AVYznIek3SoK9xSAsnAuH"
+    },
+    {
+      "added_at": "2024-06-13 16:57:58",
+      "album": {
+        "name": "\u6211\u611b\u4f60\u5c0d\u4e0d\u8d77 \u8b1d\u8b1d\u4f60\u6c92\u95dc\u4fc2",
+        "url": "https://open.spotify.com/album/4qF7TO24rkByR998SX23lT"
+      },
+      "artists": [
+        {
+          "name": "WeiBird",
+          "url": "https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX"
+        }
+      ],
+      "duration_ms": 305526,
+      "name": "\u6211\u611b\u4f60\u5c0d\u4e0d\u8d77 \u8b1d\u8b1d\u4f60\u6c92\u95dc\u4fc2",
+      "url": "https://open.spotify.com/track/00jPopb33woapLbXAe4e1t"
     },
     {
       "added_at": "2024-06-13 16:57:58",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-06-13 16:57:58",
       "album": {
-        "name": "\u56e0\u70ba\u662f\u4f60 (\u539f\u5275\u5f71\u96c6\u300a\u706b\u795e\u7684\u773c\u6dda\u300b\u7247\u982d\u66f2)",
-        "url": "https://open.spotify.com/album/5YSunwRv17InUanAfwwHhr"
-      },
-      "artists": [
-        {
-          "name": "WeiBird",
-          "url": "https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX"
-        }
-      ],
-      "duration_ms": 211420,
-      "name": "\u56e0\u70ba\u662f\u4f60 - \u539f\u5275\u5f71\u96c6\u300a\u706b\u795e\u7684\u773c\u6dda\u300b\u7247\u982d\u66f2",
-      "url": "https://open.spotify.com/track/0TqOMBOKodVMnr1NgMwOt7"
-    },
-    {
-      "added_at": "2024-06-13 16:57:58",
-      "album": {
         "name": "\u611b\u4f60\u611b\u5230\u5fd8\u4e86\u81ea\u5df1",
         "url": "https://open.spotify.com/album/0T7wpc2b2IQyrX9t3X0spK"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 281750,
       "name": "\u611b\u4e0d\u611b\u6211",
       "url": "https://open.spotify.com/track/43Ajn9NRgTDZ96uRb7QtjD"
+    },
+    {
+      "added_at": "2024-06-13 16:57:58",
+      "album": {
+        "name": "\u56e0\u70ba\u662f\u4f60 (\u539f\u5275\u5f71\u96c6\u300a\u706b\u795e\u7684\u773c\u6dda\u300b\u7247\u982d\u66f2)",
+        "url": "https://open.spotify.com/album/5YSunwRv17InUanAfwwHhr"
+      },
+      "artists": [
+        {
+          "name": "WeiBird",
+          "url": "https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX"
+        }
+      ],
+      "duration_ms": 211420,
+      "name": "\u56e0\u70ba\u662f\u4f60 - \u539f\u5275\u5f71\u96c6\u300a\u706b\u795e\u7684\u773c\u6dda\u300b\u7247\u982d\u66f2",
+      "url": "https://open.spotify.com/track/0TqOMBOKodVMnr1NgMwOt7"
     },
     {
       "added_at": "2024-06-13 16:57:58",

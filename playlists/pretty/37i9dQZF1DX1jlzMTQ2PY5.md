@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats\. \(photo from Hubble Space Project\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,717 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,767 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,14 +12,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 2 | [Yet](https://open.spotify.com/track/4K2d0N0nL1HI4y2fz7qdIS) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Yet](https://open.spotify.com/album/6aGHDGc3r4PTdLshNImYgy) | 3:26 |
 | 3 | [Melancholy](https://open.spotify.com/track/2UdnKEXAXkfXkiXsw3NChl) | [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [Salvo](https://open.spotify.com/album/6eaMoDkwlG4YHPqAFaauMg) | 4:27 |
 | 4 | [Exhale](https://open.spotify.com/track/4FJXpPTkaH5GEersVyy2zd) | [Sudley](https://open.spotify.com/artist/56BZYfbCbGZfo1EZt3XYqn), [Nat Slater](https://open.spotify.com/artist/6aoPz3BFmcELxlTAx9xxts) | [Exhale](https://open.spotify.com/album/5QhRahKmC2RLWAyst08xJo) | 2:19 |
-| 5 | [Green Silk](https://open.spotify.com/track/28bxBvsA2B8685eMYNFCIP) | [Mohican Sun](https://open.spotify.com/artist/7LzWa2AUty3RU0znyhG70N) | [Green Silk](https://open.spotify.com/album/5RUyn4ntv0Mb3zygj1BjDa) | 4:06 |
+| 5 | [Endless Haze](https://open.spotify.com/track/657ok2Bk1W8xDJfPBFi73X) | [Koherent](https://open.spotify.com/artist/2648rIoX4aFFXNipSvyBUD) | [Endless Haze](https://open.spotify.com/album/5UGUBeYZSWd1qjsWC7LRYO) | 4:54 |
 | 6 | [Good Old Days](https://open.spotify.com/track/71vYsb21Gqu5G9DxeFwxqF) | [Oktae](https://open.spotify.com/artist/4PxFr57PZWOCVJ5HkJyaoD), [Morty](https://open.spotify.com/artist/4DKdpWEp7Np8enpUyOdgLD) | [Good Old Days](https://open.spotify.com/album/3eEzlfcJ53RQkypWuD4z2G) | 3:03 |
 | 7 | [Higher](https://open.spotify.com/track/4TQ5N0lCI7HC89Kn8DybZP) | [Paige Eliza](https://open.spotify.com/artist/6zwVg9raWBJhhCpd8Etrey) | [Higher](https://open.spotify.com/album/42EYV7glkIuaDiFoFDKD4T) | 3:03 |
 | 8 | [Clarity](https://open.spotify.com/track/5bgoZIKRGxSbI9JtUBQ7hz) | [Fluidity](https://open.spotify.com/artist/2DnD2184WMkwsUO9BJUnmS) | [Clarity](https://open.spotify.com/album/1TVt5DJMvE3wnt83HzefKx) | 4:34 |
 | 9 | [Hand in Hand](https://open.spotify.com/track/0OXhG2KeIlkZr3EDAaIbD9) | [Invadhertz](https://open.spotify.com/artist/3UqjGZR6Xz1IZesQwLJZb7), [Qua Rush](https://open.spotify.com/artist/1TTdD0t9ASquoKYcJKygea), [Sydney Bryce](https://open.spotify.com/artist/57wU47pYKEcHOfb97oeSy6) | [Hand in Hand / Pray for Love](https://open.spotify.com/album/0D0HZs7pTF8QHhdTJbB4Us) | 4:28 |
 | 10 | [Nothing Without Your Love](https://open.spotify.com/track/5ZQWZfN28HGrXZmkZeInkG) | [Sempra](https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq) | [Nothing Without Your Love](https://open.spotify.com/album/0sz16rblucgQ1NpmBse1eT) | 4:10 |
 | 11 | [Smashed Lies](https://open.spotify.com/track/6S5XgvlxcMQtZj1xFQVdc8) | [Mitekiss](https://open.spotify.com/artist/1yOKWVERbo2WSQb9kcsNbH) | [Love Me, Haunt Me / Smashed Lies](https://open.spotify.com/album/58TNPOAoE9KZ5XJPISGKPq) | 4:08 |
-| 12 | [Endless Haze](https://open.spotify.com/track/657ok2Bk1W8xDJfPBFi73X) | [Koherent](https://open.spotify.com/artist/2648rIoX4aFFXNipSvyBUD) | [Endless Haze](https://open.spotify.com/album/5UGUBeYZSWd1qjsWC7LRYO) | 4:54 |
+| 12 | [Green Silk](https://open.spotify.com/track/28bxBvsA2B8685eMYNFCIP) | [Mohican Sun](https://open.spotify.com/artist/7LzWa2AUty3RU0znyhG70N) | [Green Silk](https://open.spotify.com/album/5RUyn4ntv0Mb3zygj1BjDa) | 4:06 |
 | 13 | [Makes Me Feel Alive](https://open.spotify.com/track/14w8W3LfenVfz7CaEzaGY8) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ), [FARLEY](https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O) | [Makes Me Feel Alive](https://open.spotify.com/album/6YSf2vzReWTwWRqIyVE4G2) | 3:29 |
 | 14 | [Was It Enough](https://open.spotify.com/track/7ftbGeJEZCJTuLEpoeZl9m) | [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [Was It Enough](https://open.spotify.com/album/7gghxoaleNauVod7MSNq1P) | 2:20 |
 | 15 | [Afterthought](https://open.spotify.com/track/1SMORwVIMmVDIFXfgUSmsE) | [Monrroe](https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [Afterthought](https://open.spotify.com/album/5yBSqRAxEt5eRFzPSQDxVh) | 4:22 |

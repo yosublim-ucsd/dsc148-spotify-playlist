@@ -2,7 +2,7 @@
 
 ### [RADAR Tamil](https://open.spotify.com/playlist/37i9dQZF1DX50FeI1zgOSW)
 
-> Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sai Abhyankar
+> Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Nicky.M x Rajaganapathy
 
 303 songs - 17 hr 24 min
 

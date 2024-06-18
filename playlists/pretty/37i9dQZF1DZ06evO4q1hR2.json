@@ -1,12 +1,12 @@
 {
   "description": "This is El Coyote Y Su Banda Tierra Santa. The essential tracks, all in one playlist.",
-  "num_followers": 56282,
+  "num_followers": 56307,
   "original_name": "This Is El Coyote Y Su Banda Tierra Santa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmzZgAAAAACPdSSSuQS7mkxop981GxXo",
+  "snapshot_id": "Zm4rAAAAAACYR0LNjF841BuaPhg9oDpy",
   "tracks": [
     {
       "added_at": null,
@@ -243,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Escuela de la Vida",
-        "url": "https://open.spotify.com/album/1FajOqCHXRux8YmKtYVbjg"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 142199,
-      "name": "La Escuela de la Vida",
-      "url": "https://open.spotify.com/track/1yplnIFFnaIPgiOOKdlQDa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Amo",
         "url": "https://open.spotify.com/album/4YblOZueMvUtw52G7DETSj"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 177266,
       "name": "Juan Ramos",
       "url": "https://open.spotify.com/track/1UbzmkVajS4YyoJLuGP7q9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Escuela de la Vida",
+        "url": "https://open.spotify.com/album/1FajOqCHXRux8YmKtYVbjg"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 142199,
+      "name": "La Escuela de la Vida",
+      "url": "https://open.spotify.com/track/1yplnIFFnaIPgiOOKdlQDa"
     },
     {
       "added_at": null,

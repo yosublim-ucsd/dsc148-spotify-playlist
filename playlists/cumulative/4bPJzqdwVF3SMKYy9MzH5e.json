@@ -24489,6 +24489,24 @@
     },
     {
       "album": {
+        "name": "Pop like this Pt. 2",
+        "url": "https://open.spotify.com/album/6pNuMVebkxgLAeQsYOQNyQ"
+      },
+      "artists": [
+        {
+          "name": "prodbycpkshawn",
+          "url": "https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99657,
+      "name": "Pop like this Pt. 2",
+      "url": "https://open.spotify.com/track/2Ct0MnmqHDvjLqpi5gxcSM"
+    },
+    {
+      "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
       },

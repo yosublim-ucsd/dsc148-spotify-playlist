@@ -5314,7 +5314,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 303440,
       "name": "CHIHIRO",
       "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
@@ -20637,6 +20637,24 @@
     },
     {
       "album": {
+        "name": "Oranjebewaarder (Het Wordt Prachtig Net Als In 1988)",
+        "url": "https://open.spotify.com/album/35jF3kaa8oNzxYAxhnHI8X"
+      },
+      "artists": [
+        {
+          "name": "Marco Schuitmaker",
+          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196384,
+      "name": "Oranjebewaarder - Het Wordt Prachtig Net Als In 1988",
+      "url": "https://open.spotify.com/track/6ujoOWdEuIT0ppoo4tRED8"
+    },
+    {
+      "album": {
         "name": "1989 (Taylor's Version)",
         "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
       },
@@ -26886,7 +26904,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 140000,
       "name": "Thank You (Not So Bad)",
       "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"
@@ -28762,7 +28780,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 176166,
       "name": "Verleden Tijd",
       "url": "https://open.spotify.com/track/7FR89ZwB3ilNeUMsz1P80O"
@@ -28900,6 +28918,24 @@
       "duration_ms": 112168,
       "name": "Visstick Gooi Die Kanker Kick",
       "url": "https://open.spotify.com/track/7lJ7lEntxkNUrbDN9giLmB"
+    },
+    {
+      "album": {
+        "name": "Echt Niet Normaal!",
+        "url": "https://open.spotify.com/album/3YiSpWbD5hdbQxn9U7WUnh"
+      },
+      "artists": [
+        {
+          "name": "Wolter Kroes",
+          "url": "https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170346,
+      "name": "Viva Hollandia",
+      "url": "https://open.spotify.com/track/0VCYoWWceUxg1jRwlPMBbv"
     },
     {
       "album": {
@@ -29056,7 +29092,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 197204,
       "name": "Voor Je \u2018t Weet",
       "url": "https://open.spotify.com/track/0kQW438RAa27ixstP4bIhD"

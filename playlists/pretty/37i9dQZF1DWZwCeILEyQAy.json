@@ -1,6 +1,6 @@
 {
   "description": "Real Rap. All Pressure. Cover: Enchanting",
-  "num_followers": 485025,
+  "num_followers": 485034,
   "original_name": "Pressure",
   "owner": {
     "name": "Spotify",
@@ -927,18 +927,22 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Ehhthang Ehhthang",
-        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
+        "name": "SET IT OFF",
+        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
       },
       "artists": [
         {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 182400,
-      "name": "In Dat Mode",
-      "url": "https://open.spotify.com/track/0SNIukv9BX1Sv9YGpsokgN"
+      "duration_ms": 199666,
+      "name": "FREAKY (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/5YoRDtZRUMiPX9cZDyOFVk"
     }
   ],
   "unique_name": "Pressure",

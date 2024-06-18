@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 36 | [Hold On Me](https://open.spotify.com/track/5yZ6i6xF7r86aa06RiT9vA) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Glorious](https://open.spotify.com/album/4vzUW9Ehl9eFz59bvzazJ0) | 3:32 |
 | 37 | [Faces](https://open.spotify.com/track/32eAYk36CwX2cP81zfRl4M) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Only Ticket Home](https://open.spotify.com/album/4xsgJS74UkFgI1DE71lnXX) | 3:22 |
 | 38 | [Finding Our Way](https://open.spotify.com/track/0Uc2Bg05ybIP7eMu2U73O5) | [Jay Pryor](https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd), [Steve James](https://open.spotify.com/artist/2rYFy6vVM1YiECVIAHaJBY) | [Finding Our Way](https://open.spotify.com/album/0uHc8tnBZlYglLFzVHyfUT) | 2:53 |
-| 39 | [Indulge](https://open.spotify.com/track/4UVGz5y0PEtKDIcyiMfnB3) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [New Skin](https://open.spotify.com/album/7kssLuW4quDDfOA4Krm2Rx) | 3:16 |
-| 40 | [Foolish](https://open.spotify.com/track/1vf2fGxOHfMF1N4DdYLezO) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Foolish](https://open.spotify.com/album/460TrK0D9edU86CAKWJu3x) | 3:32 |
+| 39 | [Foolish](https://open.spotify.com/track/1vf2fGxOHfMF1N4DdYLezO) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Foolish](https://open.spotify.com/album/460TrK0D9edU86CAKWJu3x) | 3:32 |
+| 40 | [Indulge](https://open.spotify.com/track/4UVGz5y0PEtKDIcyiMfnB3) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [New Skin](https://open.spotify.com/album/7kssLuW4quDDfOA4Krm2Rx) | 3:16 |
 | 41 | [Friend Of Mine](https://open.spotify.com/track/0nUivJUv25vMAXg4BKxKPW) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [JESS](https://open.spotify.com/album/4Ql1u2tIY6R7xRXnBgYmKE) | 3:14 |
 | 42 | [Jealous](https://open.spotify.com/track/6C4XFRkNEYlGvmjPQW1GcJ) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [The Sweetest Part](https://open.spotify.com/album/0b4Skg0UskddlJ9v4XRQ0S) | 3:54 |
 | 43 | [Love Me Again](https://open.spotify.com/track/6o4Gxltfc3hqWVRHXAyRRs) | [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Things I've Never Said](https://open.spotify.com/album/4X6Ipz2wEWYuw2VwWhEa23) | 2:47 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 122 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
 | 123 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
 
-Snapshot ID: `AbUPngAAAABowtn6RJGyK1jM3E+C1YQU`
+Snapshot ID: `AbUVAgAAAACFfEhmFCSo9uIytdWM3kqt`

@@ -1,6 +1,6 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Joe Mettle",
-  "num_followers": 10862,
+  "num_followers": 10869,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,26 @@
     {
       "added_at": "2024-06-13 23:01:45",
       "album": {
+        "name": "Lord You are Beautiful",
+        "url": "https://open.spotify.com/album/3q9KsM7PD2M67L1tsIvzY1"
+      },
+      "artists": [
+        {
+          "name": "Perez Musik",
+          "url": "https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI"
+        },
+        {
+          "name": "Pastor Isaiah Fosu Kwakye Jnr",
+          "url": "https://open.spotify.com/artist/0Pl2UadAMjRxVXD1YiVU1R"
+        }
+      ],
+      "duration_ms": 561739,
+      "name": "Lord You are Beautiful",
+      "url": "https://open.spotify.com/track/3qaeqyOZfezV0M0dUgQJmy"
+    },
+    {
+      "added_at": "2024-06-13 23:01:45",
+      "album": {
         "name": "DaaDaa",
         "url": "https://open.spotify.com/album/5aqjEIvIk8S3bsX2cIUeur"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 193306,
       "name": "DaaDaa",
       "url": "https://open.spotify.com/track/1jiwwDBOufD9TgWimVJOXb"
-    },
-    {
-      "added_at": "2024-06-13 23:01:45",
-      "album": {
-        "name": "Lord You are Beautiful",
-        "url": "https://open.spotify.com/album/3q9KsM7PD2M67L1tsIvzY1"
-      },
-      "artists": [
-        {
-          "name": "Perez Musik",
-          "url": "https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI"
-        },
-        {
-          "name": "Pastor Isaiah Fosu Kwakye Jnr",
-          "url": "https://open.spotify.com/artist/0Pl2UadAMjRxVXD1YiVU1R"
-        }
-      ],
-      "duration_ms": 561739,
-      "name": "Lord You are Beautiful",
-      "url": "https://open.spotify.com/track/3qaeqyOZfezV0M0dUgQJmy"
     },
     {
       "added_at": "2024-06-13 23:01:45",

@@ -1,6 +1,6 @@
 {
   "description": "Music paying tribute to the Heartland of America.",
-  "num_followers": 272691,
+  "num_followers": 272750,
   "original_name": "Heartland Country",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-05-03 04:01:00",
       "album": {
-        "name": "What My World Spins Around",
-        "url": "https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 186790,
-      "name": "What My World Spins Around",
-      "url": "https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1"
-    },
-    {
-      "added_at": "2024-05-03 04:01:00",
-      "album": {
         "name": "God's Country",
         "url": "https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 205106,
       "name": "God's Country",
       "url": "https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K"
+    },
+    {
+      "added_at": "2024-05-03 04:01:00",
+      "album": {
+        "name": "What My World Spins Around",
+        "url": "https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 186790,
+      "name": "What My World Spins Around",
+      "url": "https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1"
     },
     {
       "added_at": "2024-05-03 04:01:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-05-03 04:01:00",
       "album": {
-        "name": "American Heartbreak",
-        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 198121,
-      "name": "The Outskirts",
-      "url": "https://open.spotify.com/track/5ePiRipYivQM29vGNr3S1a"
-    },
-    {
-      "added_at": "2024-05-03 04:01:00",
-      "album": {
         "name": "American Love",
         "url": "https://open.spotify.com/album/5gsWgFeHRxRkIXGXWPiOIW"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 199746,
       "name": "American Country Love Song",
       "url": "https://open.spotify.com/track/0O1x2tRm8ZpfDbcpOWZp7z"
+    },
+    {
+      "added_at": "2024-05-03 04:01:00",
+      "album": {
+        "name": "American Heartbreak",
+        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 198121,
+      "name": "The Outskirts",
+      "url": "https://open.spotify.com/track/5ePiRipYivQM29vGNr3S1a"
     },
     {
       "added_at": "2024-05-03 04:01:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-05-03 04:01:00",
       "album": {
-        "name": "Buy Me a Boat",
-        "url": "https://open.spotify.com/album/6sAHtElvOhT0UQzTII618a"
-      },
-      "artists": [
-        {
-          "name": "Chris Janson",
-          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
-        }
-      ],
-      "duration_ms": 179077,
-      "name": "Buy Me a Boat",
-      "url": "https://open.spotify.com/track/6y35xDJFzpy1FIa6qCMA59"
-    },
-    {
-      "added_at": "2024-05-03 04:01:00",
-      "album": {
         "name": "Greatest Hits II",
         "url": "https://open.spotify.com/album/2d4eS9a7DRTlfeTKVJQ0kr"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 206226,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/30ZGbfPsjDNCgL21Qzciuj"
+    },
+    {
+      "added_at": "2024-05-03 04:01:00",
+      "album": {
+        "name": "Buy Me a Boat",
+        "url": "https://open.spotify.com/album/6sAHtElvOhT0UQzTII618a"
+      },
+      "artists": [
+        {
+          "name": "Chris Janson",
+          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
+        }
+      ],
+      "duration_ms": 179077,
+      "name": "Buy Me a Boat",
+      "url": "https://open.spotify.com/track/6y35xDJFzpy1FIa6qCMA59"
     },
     {
       "added_at": "2024-05-03 04:01:00",
@@ -1359,38 +1359,6 @@
     {
       "added_at": "2024-05-03 04:01:00",
       "album": {
-        "name": "#1s ... and then some",
-        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        }
-      ],
-      "duration_ms": 260346,
-      "name": "Red Dirt Road",
-      "url": "https://open.spotify.com/track/5QHElgktygMkgRdpPhXfn2"
-    },
-    {
-      "added_at": "2024-05-03 04:01:00",
-      "album": {
-        "name": "It's America",
-        "url": "https://open.spotify.com/album/1bWrDfZLiqzpac2iNiFAJH"
-      },
-      "artists": [
-        {
-          "name": "Rodney Atkins",
-          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
-        }
-      ],
-      "duration_ms": 213786,
-      "name": "It\u2019s America",
-      "url": "https://open.spotify.com/track/6QbcLktLNe7eYqh8TjZeCd"
-    },
-    {
-      "added_at": "2024-05-03 04:01:00",
-      "album": {
         "name": "Me And You",
         "url": "https://open.spotify.com/album/5aG9PNqK9jLLJoehlNXlwW"
       },
@@ -1407,6 +1375,22 @@
     {
       "added_at": "2024-05-03 04:01:00",
       "album": {
+        "name": "#1s ... and then some",
+        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        }
+      ],
+      "duration_ms": 260346,
+      "name": "Red Dirt Road",
+      "url": "https://open.spotify.com/track/5QHElgktygMkgRdpPhXfn2"
+    },
+    {
+      "added_at": "2024-05-03 04:01:00",
+      "album": {
         "name": "Good Vibes",
         "url": "https://open.spotify.com/album/6eC1yisEI9vTlYLsPhCett"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 165586,
       "name": "Good Vibes",
       "url": "https://open.spotify.com/track/49oBFP6ZHPtd6t33LFTD3E"
+    },
+    {
+      "added_at": "2024-05-03 04:01:00",
+      "album": {
+        "name": "It's America",
+        "url": "https://open.spotify.com/album/1bWrDfZLiqzpac2iNiFAJH"
+      },
+      "artists": [
+        {
+          "name": "Rodney Atkins",
+          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
+        }
+      ],
+      "duration_ms": 213786,
+      "name": "It\u2019s America",
+      "url": "https://open.spotify.com/track/6QbcLktLNe7eYqh8TjZeCd"
     },
     {
       "added_at": "2024-05-03 04:01:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-05-03 04:01:00",
       "album": {
-        "name": "Greatest Hits II",
-        "url": "https://open.spotify.com/album/2d4eS9a7DRTlfeTKVJQ0kr"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 240346,
-      "name": "I Go Back",
-      "url": "https://open.spotify.com/track/0Ox458KpvZQ1Kuj9mUNPLL"
-    },
-    {
-      "added_at": "2024-05-03 04:01:00",
-      "album": {
         "name": "Out in the Middle",
         "url": "https://open.spotify.com/album/3MVvgTvhFQrHXE6coxwl6I"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 274200,
       "name": "American Saturday Night",
       "url": "https://open.spotify.com/track/7xJqaCgeteqWPogqjjxkBl"
+    },
+    {
+      "added_at": "2024-05-03 04:01:00",
+      "album": {
+        "name": "Greatest Hits II",
+        "url": "https://open.spotify.com/album/2d4eS9a7DRTlfeTKVJQ0kr"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 240346,
+      "name": "I Go Back",
+      "url": "https://open.spotify.com/track/0Ox458KpvZQ1Kuj9mUNPLL"
     },
     {
       "added_at": "2024-05-03 04:01:00",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2024-05-03 04:01:00",
       "album": {
+        "name": "Moonshine in the Trunk",
+        "url": "https://open.spotify.com/album/5jz1XHH4z5CegCDlAe9ujP"
+      },
+      "artists": [
+        {
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+        }
+      ],
+      "duration_ms": 179800,
+      "name": "River Bank",
+      "url": "https://open.spotify.com/track/0U6uTxVPeoXFcxlXMIWgAR"
+    },
+    {
+      "added_at": "2024-05-03 04:01:00",
+      "album": {
         "name": "Kane Brown",
         "url": "https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 268613,
       "name": "Only In America",
       "url": "https://open.spotify.com/track/3e41nkMyqcAwaQCXJVj87G"
-    },
-    {
-      "added_at": "2024-05-03 04:01:00",
-      "album": {
-        "name": "Moonshine in the Trunk",
-        "url": "https://open.spotify.com/album/5jz1XHH4z5CegCDlAe9ujP"
-      },
-      "artists": [
-        {
-          "name": "Brad Paisley",
-          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
-        }
-      ],
-      "duration_ms": 179800,
-      "name": "River Bank",
-      "url": "https://open.spotify.com/track/0U6uTxVPeoXFcxlXMIWgAR"
     }
   ],
   "unique_name": "Heartland Country",

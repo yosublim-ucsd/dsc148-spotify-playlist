@@ -11472,7 +11472,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 146776,
       "name": "TRISTE",
       "url": "https://open.spotify.com/track/4ULKTtWRMJh5EnJgL2fXcL"
@@ -12106,6 +12106,28 @@
       "duration_ms": 117600,
       "name": "Whip Whip",
       "url": "https://open.spotify.com/track/3GlYaaFuFxEJWYiN0Vc41f"
+    },
+    {
+      "album": {
+        "name": "WIFEY (feat. Gu\u00e8)",
+        "url": "https://open.spotify.com/album/4iax1wFoOMb9vTL7lQJzv6"
+      },
+      "artists": [
+        {
+          "name": "Digital Astro",
+          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189803,
+      "name": "WIFEY (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/1me6JiCLFU4Cr2Mlh19uJl"
     },
     {
       "album": {

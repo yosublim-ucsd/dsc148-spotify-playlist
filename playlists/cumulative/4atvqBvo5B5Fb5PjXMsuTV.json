@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-04-26",
   "description": "Updated daily, with the latest popular singles!",
-  "name": "NEW SINGLES RELEASES | UPDATED 17 JUN",
+  "name": "NEW SINGLES RELEASES | UPDATED 18 JUN",
   "tracks": [
     {
       "album": {
@@ -598,7 +598,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 210338,
       "name": "All Yours",
       "url": "https://open.spotify.com/track/14bmkoHIGDA4F3coRG6d2O"
@@ -2726,6 +2726,24 @@
       "duration_ms": 388960,
       "name": "Come back to me",
       "url": "https://open.spotify.com/track/2RNut2tMgGnggdKCxzLLNM"
+    },
+    {
+      "album": {
+        "name": "Come Down",
+        "url": "https://open.spotify.com/album/1YWSnstusKqNLPXYwDlUdJ"
+      },
+      "artists": [
+        {
+          "name": "Crobot",
+          "url": "https://open.spotify.com/artist/4ygqEKxbe61knnDaodGFmi"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359546,
+      "name": "Come Down",
+      "url": "https://open.spotify.com/track/4CitUujHBwAOXGowI90zYN"
     },
     {
       "album": {
@@ -10585,6 +10603,24 @@
     },
     {
       "album": {
+        "name": "Snow Angel",
+        "url": "https://open.spotify.com/album/1lNCRuJXcpk5NPtHQWPF7f"
+      },
+      "artists": [
+        {
+          "name": "Horse Jumper of Love",
+          "url": "https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188266,
+      "name": "Snow Angel",
+      "url": "https://open.spotify.com/track/3pLNigogHJEzbFqldwdwPK"
+    },
+    {
+      "album": {
         "name": "Soft Glow",
         "url": "https://open.spotify.com/album/0eUzgbZHA9nwoHiKvT1zVF"
       },
@@ -11271,6 +11307,24 @@
     },
     {
       "album": {
+        "name": "Symbol III : \u25bd",
+        "url": "https://open.spotify.com/album/7GPrAJUhJgbJGmWbAgnlZ8"
+      },
+      "artists": [
+        {
+          "name": "Ave Mujica",
+          "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256293,
+      "name": "Symbol III : \u25bd",
+      "url": "https://open.spotify.com/track/7y0Ghz9hHJKkQPtAMdgesV"
+    },
+    {
+      "album": {
         "name": "System Error",
         "url": "https://open.spotify.com/album/1CszyO6eUiSOXJgQRwl8cf"
       },
@@ -11586,7 +11640,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 181090,
       "name": "the ghost and the spider",
       "url": "https://open.spotify.com/track/5OMPhfn3sfkowTaluYOPxs"
@@ -12280,7 +12334,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 204000,
       "name": "ULTRAMAN - From The Netflix Film \"Ultraman: Rising\"",
       "url": "https://open.spotify.com/track/6qjUr0g56tRAWRdQ3IQYdL"

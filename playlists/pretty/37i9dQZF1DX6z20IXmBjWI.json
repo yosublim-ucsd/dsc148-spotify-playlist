@@ -1,6 +1,6 @@
 {
   "description": "Acoustic and roots music gems. Cover: Trousdale",
-  "num_followers": 1811,
+  "num_followers": 1837,
   "original_name": "Infinite Acoustic",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 222293,
-      "name": "Spirit Cold",
-      "url": "https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
       },
@@ -655,18 +639,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "New Star",
-        "url": "https://open.spotify.com/album/3zRIyC1QFzYOxRuuocyOt3"
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
       },
       "artists": [
         {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
         }
       ],
-      "duration_ms": 185728,
-      "name": "New Star",
-      "url": "https://open.spotify.com/track/3PUln07oXes6xzvFFBnPO1"
+      "duration_ms": 222293,
+      "name": "Spirit Cold",
+      "url": "https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -687,6 +671,22 @@
       "duration_ms": 319053,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "New Star",
+        "url": "https://open.spotify.com/album/3zRIyC1QFzYOxRuuocyOt3"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 185728,
+      "name": "New Star",
+      "url": "https://open.spotify.com/track/3PUln07oXes6xzvFFBnPO1"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 244960,
+      "name": "Horse to Water",
+      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
       },
@@ -771,38 +787,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 244960,
-      "name": "Horse to Water",
-      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Shape & Destroy",
         "url": "https://open.spotify.com/album/0pILyYJr65rEAWnogtd8Xt"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 237126,
       "name": "Only Children",
       "url": "https://open.spotify.com/track/6BzU6BMqMd4qelkWTjLwKy"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "I Was Born To Love You",
-        "url": "https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        },
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 265843,
-      "name": "I Was Born To Love You",
-      "url": "https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Sings John Denver",
         "url": "https://open.spotify.com/album/5TK7Ou3CpOkmxPGyRWvtwU"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 210546,
       "name": "Seed of Joy",
       "url": "https://open.spotify.com/track/6kUQwpX1ogl5inar6fE3bx"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "I Was Born To Love You",
+        "url": "https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 265843,
+      "name": "I Was Born To Love You",
+      "url": "https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Wear Bluebells in Your Hat If You're Goin' That Way",
-        "url": "https://open.spotify.com/album/7K9v9aLQChb5PGEbloNrh2"
-      },
-      "artists": [
-        {
-          "name": "Joshua Burnside",
-          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Desert Wine (Acoustic)",
-      "url": "https://open.spotify.com/track/0q15u75SrhGbo1w4BgyAuK"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Luck Mansion Sessions",
         "url": "https://open.spotify.com/album/72sVXC5BzvjO9WFaebpK1c"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 215998,
       "name": "Mother, Mother",
       "url": "https://open.spotify.com/track/6X0hjAJlVW9PiqQIaGsVzd"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Wear Bluebells in Your Hat If You're Goin' That Way",
+        "url": "https://open.spotify.com/album/7K9v9aLQChb5PGEbloNrh2"
+      },
+      "artists": [
+        {
+          "name": "Joshua Burnside",
+          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Desert Wine (Acoustic)",
+      "url": "https://open.spotify.com/track/0q15u75SrhGbo1w4BgyAuK"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Mick Flannery",
-        "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
-      },
-      "artists": [
-        {
-          "name": "Mick Flannery",
-          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
-        }
-      ],
-      "duration_ms": 170864,
-      "name": "How I Miss You",
-      "url": "https://open.spotify.com/track/5QNxAH2pQLs8i7w6M9wH2x"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Young Dreams",
         "url": "https://open.spotify.com/album/3Pl8d0dVuA0VO5c31Ff3nB"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 254750,
       "name": "Young Dreams",
       "url": "https://open.spotify.com/track/2qJC9TdH40ObXHDKsw8zTA"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Mick Flannery",
+        "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
+      },
+      "artists": [
+        {
+          "name": "Mick Flannery",
+          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
+        }
+      ],
+      "duration_ms": 170864,
+      "name": "How I Miss You",
+      "url": "https://open.spotify.com/track/5QNxAH2pQLs8i7w6M9wH2x"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Song For Our Daughter",
-        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 200186,
-      "name": "Only The Strong",
-      "url": "https://open.spotify.com/track/6c1LDkyXooBQWELWZlDwCt"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "They're Calling Me Home (with Francesco Turrisi)",
         "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
       },
@@ -2251,6 +2235,22 @@
       "duration_ms": 237866,
       "name": "Waterbound (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/6hm3iR9TjDa5FCfPhXrnXY"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Song For Our Daughter",
+        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 200186,
+      "name": "Only The Strong",
+      "url": "https://open.spotify.com/track/6c1LDkyXooBQWELWZlDwCt"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2359,22 +2359,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Lonely Nights / It's Alright \u2013 Unplugged",
-        "url": "https://open.spotify.com/album/5ZAOJDQProuMdilCH3DU1o"
-      },
-      "artists": [
-        {
-          "name": "Cecilia Castleman",
-          "url": "https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH"
-        }
-      ],
-      "duration_ms": 249569,
-      "name": "It's Alright - Unplugged",
-      "url": "https://open.spotify.com/track/7mwjd7UjwC05JmZ7CZeBXY"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Claim Your Prize",
         "url": "https://open.spotify.com/album/0a3QmUqjU2YA1bz9xUSBvu"
       },
@@ -2391,18 +2375,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Song For Our Daughter",
-        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
+        "name": "Lonely Nights / It's Alright \u2013 Unplugged",
+        "url": "https://open.spotify.com/album/5ZAOJDQProuMdilCH3DU1o"
       },
       "artists": [
         {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+          "name": "Cecilia Castleman",
+          "url": "https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH"
         }
       ],
-      "duration_ms": 235546,
-      "name": "Fortune",
-      "url": "https://open.spotify.com/track/2UfQTKA8Rydw8bFvIO64yM"
+      "duration_ms": 249569,
+      "name": "It's Alright - Unplugged",
+      "url": "https://open.spotify.com/track/7mwjd7UjwC05JmZ7CZeBXY"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2419,6 +2403,22 @@
       "duration_ms": 189500,
       "name": "Next to Me - Acoustic",
       "url": "https://open.spotify.com/track/5bSxRjgi1YMopg5HMUL2gU"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Song For Our Daughter",
+        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 235546,
+      "name": "Fortune",
+      "url": "https://open.spotify.com/track/2UfQTKA8Rydw8bFvIO64yM"
     },
     {
       "added_at": "2024-03-15 04:00:00",

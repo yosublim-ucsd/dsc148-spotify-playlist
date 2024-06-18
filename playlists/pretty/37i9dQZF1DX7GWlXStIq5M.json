@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Carol Biazin",
-  "num_followers": 371332,
+  "num_followers": 371350,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -991,6 +991,26 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
+        "name": "18 dias / 13 cm",
+        "url": "https://open.spotify.com/album/3oEBnUW2q7VFXb9X7kr3ps"
+      },
+      "artists": [
+        {
+          "name": "Bruno Gadiol",
+          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
+        },
+        {
+          "name": "Valesca Popozuda",
+          "url": "https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu"
+        }
+      ],
+      "duration_ms": 143333,
+      "name": "18 dias / 13 cm",
+      "url": "https://open.spotify.com/track/1TZGE8ByEKYJUge6agf7T2"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
         "name": "OS GAROTIN DE S\u00c3O GON\u00c7ALO",
         "url": "https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ"
       },
@@ -1015,26 +1035,6 @@
       "duration_ms": 215660,
       "name": "absurdo",
       "url": "https://open.spotify.com/track/5bGS3CPNkYbYqEsOcGwwck"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
-        "name": "18 dias / 13 cm",
-        "url": "https://open.spotify.com/album/3oEBnUW2q7VFXb9X7kr3ps"
-      },
-      "artists": [
-        {
-          "name": "Bruno Gadiol",
-          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
-        },
-        {
-          "name": "Valesca Popozuda",
-          "url": "https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu"
-        }
-      ],
-      "duration_ms": 143333,
-      "name": "18 dias / 13 cm",
-      "url": "https://open.spotify.com/track/1TZGE8ByEKYJUge6agf7T2"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "AGRIDOCE (PARTE 1)",
-        "url": "https://open.spotify.com/album/7iecLXlov1YIcpSOebgGZn"
-      },
-      "artists": [
-        {
-          "name": "Clarissa",
-          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "AGRIDOCE",
-      "url": "https://open.spotify.com/track/5paz7s1c2X4P3sYAotEiPW"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
         "name": "La\u00e7o",
         "url": "https://open.spotify.com/album/5Jkw6alYn11ENB6dkUK1Yh"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 149349,
       "name": "La\u00e7o",
       "url": "https://open.spotify.com/track/3xIPdkCcRKNs92RbKPc60U"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
+        "name": "AGRIDOCE (PARTE 1)",
+        "url": "https://open.spotify.com/album/7iecLXlov1YIcpSOebgGZn"
+      },
+      "artists": [
+        {
+          "name": "Clarissa",
+          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "AGRIDOCE",
+      "url": "https://open.spotify.com/track/5paz7s1c2X4P3sYAotEiPW"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1399,6 +1399,30 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
+        "name": "Vinhos & Fuma\u00e7a",
+        "url": "https://open.spotify.com/album/5P3drrq2VzZYKPn2izLfaa"
+      },
+      "artists": [
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        },
+        {
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        },
+        {
+          "name": "Akilla",
+          "url": "https://open.spotify.com/artist/4AlpcXJqYvX4ovs4zEb2UB"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "T\u00e3o Bom",
+      "url": "https://open.spotify.com/track/7Jyo9NALaL16zPseuE2v9L"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
         "name": "Cavalo de Troia",
         "url": "https://open.spotify.com/album/1YjiqXB4sbhxzUcPzpMq0J"
       },
@@ -1439,30 +1463,6 @@
       "duration_ms": 206632,
       "name": "Ins\u00f4nia",
       "url": "https://open.spotify.com/track/0T5JBjv1ZkZ99dDtJwixeI"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
-        "name": "Vinhos & Fuma\u00e7a",
-        "url": "https://open.spotify.com/album/5P3drrq2VzZYKPn2izLfaa"
-      },
-      "artists": [
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        },
-        {
-          "name": "FBC",
-          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
-        },
-        {
-          "name": "Akilla",
-          "url": "https://open.spotify.com/artist/4AlpcXJqYvX4ovs4zEb2UB"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "T\u00e3o Bom",
-      "url": "https://open.spotify.com/track/7Jyo9NALaL16zPseuE2v9L"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1575,6 +1575,30 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
+        "name": "Pode Chegar",
+        "url": "https://open.spotify.com/album/0IwMgTR66UQlWAOE5IcvkW"
+      },
+      "artists": [
+        {
+          "name": "Anna",
+          "url": "https://open.spotify.com/artist/3sLh7xqgu6RxVYokUj0nEx"
+        },
+        {
+          "name": "Isix",
+          "url": "https://open.spotify.com/artist/4iU2XqRFAxIFelgbns2fug"
+        },
+        {
+          "name": "Sucre",
+          "url": "https://open.spotify.com/artist/6SdlX8i3HPpAGh7FMAh9KF"
+        }
+      ],
+      "duration_ms": 174285,
+      "name": "Pode Chegar",
+      "url": "https://open.spotify.com/track/0RHgZjiG0iANH5QjE5xSfF"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
         "name": "O Que Tem Por Vir",
         "url": "https://open.spotify.com/album/2mun0ycL4YeFEmdkmsOWGC"
       },
@@ -1591,26 +1615,6 @@
       "duration_ms": 193194,
       "name": "O Que Tem Por Vir",
       "url": "https://open.spotify.com/track/3hexwXMaoMiBlz3W7ZIOH3"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
-        "name": "Boom",
-        "url": "https://open.spotify.com/album/3GvbxHizeLdikCDuDJ29LB"
-      },
-      "artists": [
-        {
-          "name": "Rafael Mike",
-          "url": "https://open.spotify.com/artist/6V1iaF6ZHSygJlLPk7grXr"
-        },
-        {
-          "name": "Priscila Tossan",
-          "url": "https://open.spotify.com/artist/4EZLWNKsB2l3Lm6vqJDFoA"
-        }
-      ],
-      "duration_ms": 131076,
-      "name": "Boom",
-      "url": "https://open.spotify.com/track/42A4y8cnvDMh18i22aXQH7"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1639,6 +1643,26 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
+        "name": "Boom",
+        "url": "https://open.spotify.com/album/3GvbxHizeLdikCDuDJ29LB"
+      },
+      "artists": [
+        {
+          "name": "Rafael Mike",
+          "url": "https://open.spotify.com/artist/6V1iaF6ZHSygJlLPk7grXr"
+        },
+        {
+          "name": "Priscila Tossan",
+          "url": "https://open.spotify.com/artist/4EZLWNKsB2l3Lm6vqJDFoA"
+        }
+      ],
+      "duration_ms": 131076,
+      "name": "Boom",
+      "url": "https://open.spotify.com/track/42A4y8cnvDMh18i22aXQH7"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
         "name": "Patipapa",
         "url": "https://open.spotify.com/album/7vy2f8OwWWBA4DKZkox2u5"
       },
@@ -1651,30 +1675,6 @@
       "duration_ms": 140000,
       "name": "Patipapa",
       "url": "https://open.spotify.com/track/0ERFK8AQaBl0R0ql8I2KpT"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
-        "name": "Pode Chegar",
-        "url": "https://open.spotify.com/album/0IwMgTR66UQlWAOE5IcvkW"
-      },
-      "artists": [
-        {
-          "name": "Anna",
-          "url": "https://open.spotify.com/artist/3sLh7xqgu6RxVYokUj0nEx"
-        },
-        {
-          "name": "Isix",
-          "url": "https://open.spotify.com/artist/4iU2XqRFAxIFelgbns2fug"
-        },
-        {
-          "name": "Sucre",
-          "url": "https://open.spotify.com/artist/6SdlX8i3HPpAGh7FMAh9KF"
-        }
-      ],
-      "duration_ms": 174285,
-      "name": "Pode Chegar",
-      "url": "https://open.spotify.com/track/0RHgZjiG0iANH5QjE5xSfF"
     },
     {
       "added_at": "2024-06-14 03:00:00",

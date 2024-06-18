@@ -1,12 +1,12 @@
 {
-  "description": "This Is Dropkick Murphys. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
-  "num_followers": 115609,
+  "description": "This is Dropkick Murphys. The essential tracks, all in one playlist.",
+  "num_followers": 115650,
   "original_name": "This Is Dropkick Murphys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmzZgAAAAABdO2S5BgMCvx4j7J9FDru3",
+  "snapshot_id": "Zm4rAAAAAABsVaE3lnVyHxD6lNxqlNpF",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 217866,
-      "name": "The Dirty Glass",
-      "url": "https://open.spotify.com/track/2jggiA0przPmYj0Z96W7Q0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Turn Up That Dial (Expanded Version)",
         "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
       },
@@ -155,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SIGNED and SEALED in BLOOD",
-        "url": "https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 166960,
-      "name": "Prisoner's Song",
-      "url": "https://open.spotify.com/track/2wZr4p2O2yUMPgRYBkLHE2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Warrior's Code",
         "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
       },
@@ -183,6 +151,22 @@
       "duration_ms": 285640,
       "name": "The Green Fields Of France (No Man's Land)",
       "url": "https://open.spotify.com/track/2PNjn68WCzvsJwAc37eFki"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SIGNED and SEALED in BLOOD",
+        "url": "https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 166960,
+      "name": "Prisoner's Song",
+      "url": "https://open.spotify.com/track/2wZr4p2O2yUMPgRYBkLHE2"
     },
     {
       "added_at": null,
@@ -523,38 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Gang's All Here",
-        "url": "https://open.spotify.com/album/7wxC9iVmZ4ecJCh9rChMyy"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 158600,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/7IABmPLWB1FEQckIPgl0oA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Do Or Die",
-        "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 139152,
-      "name": "Finnegan's Wake",
-      "url": "https://open.spotify.com/track/5L7nmlaU9TO3PZ8b7cVNqE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Machine Still Kills Fascists (Expanded Edition)",
         "url": "https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB"
       },
@@ -579,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Gang's All Here",
+        "url": "https://open.spotify.com/album/7wxC9iVmZ4ecJCh9rChMyy"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 158600,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/7IABmPLWB1FEQckIPgl0oA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Singles Collection Vol. 2",
         "url": "https://open.spotify.com/album/1S7FQvutnvemp9eHsvGpxJ"
       },
@@ -591,6 +559,22 @@
       "duration_ms": 283680,
       "name": "It's A Long Way To The Top (If You Wanna Rock 'n' Roll)",
       "url": "https://open.spotify.com/track/0BnS2mIXaKvNDmy98EBJO5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Do Or Die",
+        "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 139152,
+      "name": "Finnegan's Wake",
+      "url": "https://open.spotify.com/track/5L7nmlaU9TO3PZ8b7cVNqE"
     },
     {
       "added_at": null,
@@ -611,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Okemah Rising",
-        "url": "https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 217772,
-      "name": "Watchin The World Go By",
-      "url": "https://open.spotify.com/track/3H23O1qOJa99E7wFpPT6Ln"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "11 Short Stories of Pain & Glory",
         "url": "https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB"
       },
@@ -639,6 +607,22 @@
       "duration_ms": 227066,
       "name": "Until the Next Time",
       "url": "https://open.spotify.com/track/4ZrmwLwhWQ0m4YNlCDHlC8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Okemah Rising",
+        "url": "https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 217772,
+      "name": "Watchin The World Go By",
+      "url": "https://open.spotify.com/track/3H23O1qOJa99E7wFpPT6Ln"
     },
     {
       "added_at": null,
@@ -659,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Machine Still Kills Fascists (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 131315,
-      "name": "Ten Times More",
-      "url": "https://open.spotify.com/track/0t7KczDGPmOyW71qw9xMnh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Turn Up That Dial (Expanded Version)",
         "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
       },
@@ -687,6 +655,22 @@
       "duration_ms": 222749,
       "name": "Turn Up That Dial",
       "url": "https://open.spotify.com/track/7MrhtohRvCMwPC7VPcNzru"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Machine Still Kills Fascists (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 131315,
+      "name": "Ten Times More",
+      "url": "https://open.spotify.com/track/0t7KczDGPmOyW71qw9xMnh"
     },
     {
       "added_at": null,
@@ -727,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Machine Still Kills Fascists (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 169604,
-      "name": "All You Fonies",
-      "url": "https://open.spotify.com/track/3sU3CRgvbFesquT8W4KqPv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SIGNED and SEALED in BLOOD",
         "url": "https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ"
       },
@@ -755,6 +723,22 @@
       "duration_ms": 179066,
       "name": "Jimmy Collins' Wake",
       "url": "https://open.spotify.com/track/3YmC2Q6kZ4jIrSlxRDEFLZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Machine Still Kills Fascists (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 169604,
+      "name": "All You Fonies",
+      "url": "https://open.spotify.com/track/3sU3CRgvbFesquT8W4KqPv"
     },
     {
       "added_at": null,
@@ -791,6 +775,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Okemah Rising",
+        "url": "https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        },
+        {
+          "name": "Jaime Wyatt",
+          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
+        }
+      ],
+      "duration_ms": 202739,
+      "name": "Bring It Home (feat. Jaime Wyatt)",
+      "url": "https://open.spotify.com/track/5PWke7d2ucI1I4NEqgH6DB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "This Machine Still Kills Fascists (Expanded Edition)",
         "url": "https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB"
       },
@@ -811,22 +815,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Okemah Rising",
-        "url": "https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK"
+        "name": "Sing Loud, Sing Proud",
+        "url": "https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K"
       },
       "artists": [
         {
           "name": "Dropkick Murphys",
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        },
-        {
-          "name": "Jaime Wyatt",
-          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
         }
       ],
-      "duration_ms": 202739,
-      "name": "Bring It Home (feat. Jaime Wyatt)",
-      "url": "https://open.spotify.com/track/5PWke7d2ucI1I4NEqgH6DB"
+      "duration_ms": 93373,
+      "name": "For Boston",
+      "url": "https://open.spotify.com/track/7GnGIJAJPwzaU2C7IXnlxp"
     }
   ],
   "unique_name": "This Is Dropkick Murphys",

@@ -1,6 +1,6 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 14600,
+  "num_followers": 14606,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-04-04 20:14:22",
       "album": {
-        "name": "Girls' Generation",
-        "url": "https://open.spotify.com/album/2U1BPwhkzHt05OFugiSB3g"
-      },
-      "artists": [
-        {
-          "name": "Girls' Generation",
-          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
-        }
-      ],
-      "duration_ms": 199240,
-      "name": "Kissing You",
-      "url": "https://open.spotify.com/track/18fWwTkrIxojEC2gmVyoxS"
-    },
-    {
-      "added_at": "2024-04-04 20:14:22",
-      "album": {
         "name": "\ucc9c\uad6d\uc758 \uacc4\ub2e8 OST",
         "url": "https://open.spotify.com/album/5uZtiEhZmVROQk8dsiOrwq"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 244128,
       "name": "\ubcf4\uace0\uc2f6\ub2e4",
       "url": "https://open.spotify.com/track/4i39vkBJzBnYvBMua65Rwi"
+    },
+    {
+      "added_at": "2024-04-04 20:14:22",
+      "album": {
+        "name": "Girls' Generation",
+        "url": "https://open.spotify.com/album/2U1BPwhkzHt05OFugiSB3g"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "duration_ms": 199240,
+      "name": "Kissing You",
+      "url": "https://open.spotify.com/track/18fWwTkrIxojEC2gmVyoxS"
     },
     {
       "added_at": "2024-04-04 20:14:22",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-04-04 20:14:22",
       "album": {
-        "name": "Hi~",
-        "url": "https://open.spotify.com/album/4oYvS9fninV79hmUvWeUho"
-      },
-      "artists": [
-        {
-          "name": "Lovelyz",
-          "url": "https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK"
-        }
-      ],
-      "duration_ms": 207426,
-      "name": "Hi~",
-      "url": "https://open.spotify.com/track/0uK6mPSkTMteghVWeMDMHG"
-    },
-    {
-      "added_at": "2024-04-04 20:14:22",
-      "album": {
         "name": "\uae30\uc5b5\uc18d\uc758 \uba5c\ub85c\ub514",
         "url": "https://open.spotify.com/album/3bQEUGF2WB3YyIucl9rGKi"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 285234,
       "name": "\uac10\uc0ac",
       "url": "https://open.spotify.com/track/6vL9tLXg2XnsYXndqpIUQS"
+    },
+    {
+      "added_at": "2024-04-04 20:14:22",
+      "album": {
+        "name": "Hi~",
+        "url": "https://open.spotify.com/album/4oYvS9fninV79hmUvWeUho"
+      },
+      "artists": [
+        {
+          "name": "Lovelyz",
+          "url": "https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK"
+        }
+      ],
+      "duration_ms": 207426,
+      "name": "Hi~",
+      "url": "https://open.spotify.com/track/0uK6mPSkTMteghVWeMDMHG"
     },
     {
       "added_at": "2024-04-04 20:14:22",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-04-04 20:14:22",
       "album": {
-        "name": "Hug",
-        "url": "https://open.spotify.com/album/3cSN60IWlvmvzwiRzvjmpf"
-      },
-      "artists": [
-        {
-          "name": "TVXQ!",
-          "url": "https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo"
-        }
-      ],
-      "duration_ms": 228960,
-      "name": "HUG",
-      "url": "https://open.spotify.com/track/3fB6z972xZddHD2SBKYCMc"
-    },
-    {
-      "added_at": "2024-04-04 20:14:22",
-      "album": {
         "name": "HEY, COME ON! - The 4th Album",
         "url": "https://open.spotify.com/album/7dmeb1HMweJy5bvrTQPmul"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 201866,
       "name": "Wild Eyes",
       "url": "https://open.spotify.com/track/5uvNlHJPu9mOcYT64rxRbl"
+    },
+    {
+      "added_at": "2024-04-04 20:14:22",
+      "album": {
+        "name": "Hug",
+        "url": "https://open.spotify.com/album/3cSN60IWlvmvzwiRzvjmpf"
+      },
+      "artists": [
+        {
+          "name": "TVXQ!",
+          "url": "https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo"
+        }
+      ],
+      "duration_ms": 228960,
+      "name": "HUG",
+      "url": "https://open.spotify.com/track/3fB6z972xZddHD2SBKYCMc"
     },
     {
       "added_at": "2024-04-04 20:14:22",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-04-04 20:14:22",
       "album": {
-        "name": "Back in Time",
-        "url": "https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt"
-      },
-      "artists": [
-        {
-          "name": "FLY TO THE SKY",
-          "url": "https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC"
-        }
-      ],
-      "duration_ms": 272662,
-      "name": "Missing you",
-      "url": "https://open.spotify.com/track/24UgvaHnAvKOysqdkZ1B8L"
-    },
-    {
-      "added_at": "2024-04-04 20:14:22",
-      "album": {
         "name": "fuzz . Buzz",
         "url": "https://open.spotify.com/album/0gLmRYm4KjIRmYM9jUcEux"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 253879,
       "name": "You Don't Know Men",
       "url": "https://open.spotify.com/track/5HlhynrLSnGBWfZaTOXkGc"
+    },
+    {
+      "added_at": "2024-04-04 20:14:22",
+      "album": {
+        "name": "Back in Time",
+        "url": "https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt"
+      },
+      "artists": [
+        {
+          "name": "FLY TO THE SKY",
+          "url": "https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC"
+        }
+      ],
+      "duration_ms": 272662,
+      "name": "Missing you",
+      "url": "https://open.spotify.com/track/24UgvaHnAvKOysqdkZ1B8L"
     },
     {
       "added_at": "2024-04-04 20:14:22",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2024-04-04 20:14:22",
       "album": {
-        "name": "The Way I Am",
-        "url": "https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk"
+        "name": "Can U See The Bright",
+        "url": "https://open.spotify.com/album/1p7Z2lphOJegFArqh8eMw5"
       },
       "artists": [
         {
-          "name": "MC MONG",
-          "url": "https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD"
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
         }
       ],
-      "duration_ms": 247852,
-      "name": "A Letter to you Part.2",
-      "url": "https://open.spotify.com/track/7fRegG6DYNpGClPDCp851s"
+      "duration_ms": 243520,
+      "name": "...\uc0ac\ub791\ud588\uc796\uc544...",
+      "url": "https://open.spotify.com/track/6dKKY7BZi4yXS3vwuR6Dmt"
     },
     {
       "added_at": "2024-04-04 20:14:22",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2024-04-04 20:14:22",
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/163Vvv3rKHXfsd357oudYb"
+        "name": "The Way I Am",
+        "url": "https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk"
       },
       "artists": [
         {
-          "name": "VIBE",
-          "url": "https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI"
+          "name": "MC MONG",
+          "url": "https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD"
         }
       ],
-      "duration_ms": 251194,
-      "name": "Love Me Once Again",
-      "url": "https://open.spotify.com/track/2FelrlNp4TK95V7jb1OJ2r"
+      "duration_ms": 247852,
+      "name": "A Letter to you Part.2",
+      "url": "https://open.spotify.com/track/7fRegG6DYNpGClPDCp851s"
     },
     {
       "added_at": "2024-04-04 20:14:22",
@@ -1611,34 +1611,38 @@
     {
       "added_at": "2024-04-04 20:14:22",
       "album": {
-        "name": "Can U See The Bright",
-        "url": "https://open.spotify.com/album/1p7Z2lphOJegFArqh8eMw5"
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/163Vvv3rKHXfsd357oudYb"
       },
       "artists": [
         {
-          "name": "Lyn",
-          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
+          "name": "VIBE",
+          "url": "https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI"
         }
       ],
-      "duration_ms": 243520,
-      "name": "...\uc0ac\ub791\ud588\uc796\uc544...",
-      "url": "https://open.spotify.com/track/6dKKY7BZi4yXS3vwuR6Dmt"
+      "duration_ms": 251194,
+      "name": "Love Me Once Again",
+      "url": "https://open.spotify.com/track/2FelrlNp4TK95V7jb1OJ2r"
     },
     {
       "added_at": "2024-04-04 20:14:22",
       "album": {
-        "name": "The Way I Am",
-        "url": "https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk"
+        "name": "The 3rd GENERATION (Special Album)",
+        "url": "https://open.spotify.com/album/5EJQFPTIEU6J1KkBxr9wDI"
       },
       "artists": [
         {
-          "name": "MC MONG",
-          "url": "https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD"
+          "name": "4MEN",
+          "url": "https://open.spotify.com/artist/7oFIkpNpLrTBgZW6w55W1J"
+        },
+        {
+          "name": "MIIII",
+          "url": "https://open.spotify.com/artist/4HlWDQU9oXrIiVcb8BrZPZ"
         }
       ],
-      "duration_ms": 216323,
-      "name": "Ice Cream",
-      "url": "https://open.spotify.com/track/2KlzrWVFpUIyI2goyvInX4"
+      "duration_ms": 269773,
+      "name": "Can't (Feat. MIIII)",
+      "url": "https://open.spotify.com/track/4attmsVheqtmK8TJMVHmdB"
     }
   ],
   "unique_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",

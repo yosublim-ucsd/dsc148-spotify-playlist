@@ -1,12 +1,12 @@
 {
-  "description": "This Is Madonna. Los temas esenciales, todos en una lista.",
-  "num_followers": 658602,
+  "description": "This is Madonna. The essential tracks, all in one playlist.",
+  "num_followers": 658705,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmzZgAAAAAC1Z+VLdCZoi3NHqd7cn1ik",
+  "snapshot_id": "Zm4rAAAAAADNvSv4Osa6YHpm09C38tyK",
   "tracks": [
     {
       "added_at": null,
@@ -423,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+        "name": "Confessions on a Dance Floor",
+        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 229280,
-      "name": "Open Your Heart",
-      "url": "https://open.spotify.com/track/3kme5Qos8h04yrKxsgur79"
+      "duration_ms": 238560,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/5hmRhU6fWzH0NjYmfhHjhp"
     },
     {
       "added_at": null,
@@ -455,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confessions on a Dance Floor",
-        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 238560,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/5hmRhU6fWzH0NjYmfhHjhp"
+      "duration_ms": 229280,
+      "name": "Open Your Heart",
+      "url": "https://open.spotify.com/track/3kme5Qos8h04yrKxsgur79"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
       "duration_ms": 280973,
       "name": "Don't Tell Me",
       "url": "https://open.spotify.com/track/23EhTCPRTlLVM6VQUyh8bH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 238360,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/4FMNpPI7mkhdeFCCk6fZiE"
     },
     {
       "added_at": null,
@@ -543,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 238360,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/4FMNpPI7mkhdeFCCk6fZiE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Music",
         "url": "https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu"
       },
@@ -555,22 +555,6 @@
       "duration_ms": 273533,
       "name": "American Pie",
       "url": "https://open.spotify.com/track/3afv9TL8ixr4T9VbiKnrwe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 239093,
-      "name": "Express Yourself",
-      "url": "https://open.spotify.com/track/6ioBgySxoeQKALvAeLEmId"
     },
     {
       "added_at": null,
@@ -603,6 +587,22 @@
       "duration_ms": 304933,
       "name": "Secret",
       "url": "https://open.spotify.com/track/15FcP9qwmIKqaD5NhfhNpu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 239093,
+      "name": "Express Yourself",
+      "url": "https://open.spotify.com/track/6ioBgySxoeQKALvAeLEmId"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MDNA",
-        "url": "https://open.spotify.com/album/2trAegxlPgPnZHfYrUNvp0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 223066,
-      "name": "Girl Gone Wild",
-      "url": "https://open.spotify.com/track/3ZfMci7n6qk9nRodX8BfIb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Evita: The Complete Motion Picture Music Soundtrack",
         "url": "https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 335733,
       "name": "Don't Cry for Me Argentina",
       "url": "https://open.spotify.com/track/0bLRXQaWzmSXRXPmP6JnEF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MDNA",
+        "url": "https://open.spotify.com/album/2trAegxlPgPnZHfYrUNvp0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 223066,
+      "name": "Girl Gone Wild",
+      "url": "https://open.spotify.com/track/3ZfMci7n6qk9nRodX8BfIb"
     },
     {
       "added_at": null,
@@ -791,38 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Life",
-        "url": "https://open.spotify.com/album/6makHXbA3KBYNlYEPXyFJW"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 216026,
-      "name": "Love Profusion",
-      "url": "https://open.spotify.com/track/5NDS6qHwbOmVqZgTvtC66y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Something to Remember",
-        "url": "https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 310266,
-      "name": "This Used to Be My Playground",
-      "url": "https://open.spotify.com/track/637V2ymBt4Ljlbz4EmRys8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BREAK MY SOUL (THE QUEENS REMIX)",
         "url": "https://open.spotify.com/album/4xm2wzhAU05Y4dEdj1BO5J"
       },
@@ -839,6 +807,22 @@
       "duration_ms": 356000,
       "name": "BREAK MY SOUL - THE QUEENS REMIX",
       "url": "https://open.spotify.com/track/4DukzQv7lF6DXe6Un7lghr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Something to Remember",
+        "url": "https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 310266,
+      "name": "This Used to Be My Playground",
+      "url": "https://open.spotify.com/track/637V2ymBt4Ljlbz4EmRys8"
     },
     {
       "added_at": null,
@@ -868,9 +852,45 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 279480,
-      "name": "Die Another Day",
-      "url": "https://open.spotify.com/track/7DUpuAzGUyJaJB3p9BC3Ms"
+      "duration_ms": 216026,
+      "name": "Love Profusion",
+      "url": "https://open.spotify.com/track/5NDS6qHwbOmVqZgTvtC66y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rebel Heart (Deluxe)",
+        "url": "https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 218720,
+      "name": "Living For Love",
+      "url": "https://open.spotify.com/track/5AMuHsWAaGAZHX4p1KZWwc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Madame X (Deluxe)",
+        "url": "https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 298164,
+      "name": "Medell\u00edn (with Maluma)",
+      "url": "https://open.spotify.com/track/6mfu6jyFgvnXeTPQrYNs8d"
     },
     {
       "added_at": null,
@@ -891,6 +911,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "American Life",
+        "url": "https://open.spotify.com/album/6makHXbA3KBYNlYEPXyFJW"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 279480,
+      "name": "Die Another Day",
+      "url": "https://open.spotify.com/track/7DUpuAzGUyJaJB3p9BC3Ms"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bedtime Stories",
         "url": "https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB"
       },
@@ -903,38 +939,6 @@
       "duration_ms": 293933,
       "name": "Human Nature",
       "url": "https://open.spotify.com/track/4Cna7QxOOTNnylVHLtShCi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Erotica (PA Version)",
-        "url": "https://open.spotify.com/album/1a2NoE9makqEWb1uUogxFQ"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 323333,
-      "name": "Bad Girl",
-      "url": "https://open.spotify.com/track/2tySjBBWqam7oaBUZ26oNL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "American Life",
-        "url": "https://open.spotify.com/album/6makHXbA3KBYNlYEPXyFJW"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 262626,
-      "name": "Hollywood",
-      "url": "https://open.spotify.com/track/4ixxz1GXB57Q6K2nbR4AwL"
     }
   ],
   "unique_name": "This Is Madonna",

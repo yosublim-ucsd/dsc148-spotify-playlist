@@ -1,6 +1,6 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 448106,
+  "num_followers": 448144,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/3Qz7hcEsSRjN1akGaNuM4N"
-      },
-      "artists": [
-        {
-          "name": "Bill Snoozer",
-          "url": "https://open.spotify.com/artist/20z7TXde6nPUsv561EMQZo"
-        }
-      ],
-      "duration_ms": 164062,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/1KohJWIWwDDw7mBxs2wv90"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "trading places",
         "url": "https://open.spotify.com/album/6IHy6eRU3YJCEuEmkrfKdP"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 108181,
       "name": "trading places",
       "url": "https://open.spotify.com/track/3kNIeRg8ylrkCzZ28D28Rj"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/3Qz7hcEsSRjN1akGaNuM4N"
+      },
+      "artists": [
+        {
+          "name": "Bill Snoozer",
+          "url": "https://open.spotify.com/artist/20z7TXde6nPUsv561EMQZo"
+        }
+      ],
+      "duration_ms": 164062,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/1KohJWIWwDDw7mBxs2wv90"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Under The Tree",
-        "url": "https://open.spotify.com/album/3aTq47AQERmjnRyrsQqswn"
-      },
-      "artists": [
-        {
-          "name": "Chrisolof",
-          "url": "https://open.spotify.com/artist/3j5LR5BmDSKqCvNRuAqCKI"
-        }
-      ],
-      "duration_ms": 114422,
-      "name": "Under The Tree",
-      "url": "https://open.spotify.com/track/420Lnd8GyiUS2HGt5NQBja"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "Magic Mind",
         "url": "https://open.spotify.com/album/2sqn4T8rIqQkc0WHBabWIC"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 155424,
       "name": "Magic Mind",
       "url": "https://open.spotify.com/track/3nqicEuiIvZvqtHeQtue74"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Under The Tree",
+        "url": "https://open.spotify.com/album/3aTq47AQERmjnRyrsQqswn"
+      },
+      "artists": [
+        {
+          "name": "Chrisolof",
+          "url": "https://open.spotify.com/artist/3j5LR5BmDSKqCvNRuAqCKI"
+        }
+      ],
+      "duration_ms": 114422,
+      "name": "Under The Tree",
+      "url": "https://open.spotify.com/track/420Lnd8GyiUS2HGt5NQBja"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
+        "name": "mirage",
+        "url": "https://open.spotify.com/album/4tGLc4CknEVw4YnWZCtOOI"
+      },
+      "artists": [
+        {
+          "name": "Lenny Loops",
+          "url": "https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR"
+        }
+      ],
+      "duration_ms": 131428,
+      "name": "mirage",
+      "url": "https://open.spotify.com/track/7dUfQSVulg6z9mYR2kuG0u"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
         "name": "Snow Rose",
         "url": "https://open.spotify.com/album/3RQQK5575LOEB9MS6UgNt9"
       },
@@ -727,22 +743,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/3GntHIEeqqemhISRVDjkl3"
-      },
-      "artists": [
-        {
-          "name": "Ok2222",
-          "url": "https://open.spotify.com/artist/032KwgTrwjRFmANQ7R0oKX"
-        }
-      ],
-      "duration_ms": 84000,
-      "name": "Hold on, Pt. 2",
-      "url": "https://open.spotify.com/track/5CiJgYqEopAiCRBOjMb5j0"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "Last Summer",
         "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
       },
@@ -755,6 +755,22 @@
       "duration_ms": 163533,
       "name": "Now, I See",
       "url": "https://open.spotify.com/track/7xCYaDqhAOs5TfeDvY9Dqn"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/3GntHIEeqqemhISRVDjkl3"
+      },
+      "artists": [
+        {
+          "name": "Ok2222",
+          "url": "https://open.spotify.com/artist/032KwgTrwjRFmANQ7R0oKX"
+        }
+      ],
+      "duration_ms": 84000,
+      "name": "Hold on, Pt. 2",
+      "url": "https://open.spotify.com/track/5CiJgYqEopAiCRBOjMb5j0"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -803,22 +819,6 @@
       "duration_ms": 148578,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/0ggWXuDQjK8EoQAFWQkJHX"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "mirage",
-        "url": "https://open.spotify.com/album/4tGLc4CknEVw4YnWZCtOOI"
-      },
-      "artists": [
-        {
-          "name": "Lenny Loops",
-          "url": "https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR"
-        }
-      ],
-      "duration_ms": 131428,
-      "name": "mirage",
-      "url": "https://open.spotify.com/track/7dUfQSVulg6z9mYR2kuG0u"
     },
     {
       "added_at": "2024-06-14 04:00:00",

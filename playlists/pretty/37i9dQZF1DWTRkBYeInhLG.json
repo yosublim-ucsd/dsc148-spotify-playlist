@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 468049,
+  "num_followers": 468135,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2024-06-10 04:41:27",
       "album": {
+        "name": "P.S. I LOVE YOU",
+        "url": "https://open.spotify.com/album/3AIGFmb0M86SOig1ghbxvq"
+      },
+      "artists": [
+        {
+          "name": "Paul Partohap",
+          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
+        }
+      ],
+      "duration_ms": 240903,
+      "name": "P.S. I LOVE YOU",
+      "url": "https://open.spotify.com/track/1w3azB0VuRFp79AduIwrIy"
+    },
+    {
+      "added_at": "2024-06-10 04:41:27",
+      "album": {
         "name": "YURA",
         "url": "https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 262060,
       "name": "Cinta Dan Rahasia",
       "url": "https://open.spotify.com/track/4HXUMRdT6s6Am6YHcWmuib"
-    },
-    {
-      "added_at": "2024-06-10 04:41:27",
-      "album": {
-        "name": "P.S. I LOVE YOU",
-        "url": "https://open.spotify.com/album/3AIGFmb0M86SOig1ghbxvq"
-      },
-      "artists": [
-        {
-          "name": "Paul Partohap",
-          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
-        }
-      ],
-      "duration_ms": 240903,
-      "name": "P.S. I LOVE YOU",
-      "url": "https://open.spotify.com/track/1w3azB0VuRFp79AduIwrIy"
     },
     {
       "added_at": "2024-06-10 04:41:27",
@@ -811,18 +811,18 @@
     {
       "added_at": "2024-06-10 04:41:27",
       "album": {
-        "name": "LOVERs PLAYBOOK",
-        "url": "https://open.spotify.com/album/78UznjghWeYXMeN201KLtC"
+        "name": "Renung Resah",
+        "url": "https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj"
       },
       "artists": [
         {
-          "name": "Paul Partohap",
-          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
+          "name": "raissa anggiani",
+          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
         }
       ],
-      "duration_ms": 269242,
-      "name": "THANK YOU 4 LOVIN\u2019 ME",
-      "url": "https://open.spotify.com/track/557XVqKgnYAxvvyczr2zDg"
+      "duration_ms": 222000,
+      "name": "Itu Aku",
+      "url": "https://open.spotify.com/track/5SicKKsUufuzKZASHO9eDE"
     },
     {
       "added_at": "2024-06-10 04:41:27",
@@ -843,18 +843,18 @@
     {
       "added_at": "2024-06-10 04:41:27",
       "album": {
-        "name": "Renung Resah",
-        "url": "https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj"
+        "name": "LOVERs PLAYBOOK",
+        "url": "https://open.spotify.com/album/78UznjghWeYXMeN201KLtC"
       },
       "artists": [
         {
-          "name": "raissa anggiani",
-          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
+          "name": "Paul Partohap",
+          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Itu Aku",
-      "url": "https://open.spotify.com/track/5SicKKsUufuzKZASHO9eDE"
+      "duration_ms": 269242,
+      "name": "THANK YOU 4 LOVIN\u2019 ME",
+      "url": "https://open.spotify.com/track/557XVqKgnYAxvvyczr2zDg"
     },
     {
       "added_at": "2024-06-10 04:41:27",

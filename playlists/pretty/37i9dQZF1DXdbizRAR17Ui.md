@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 
 > When the night isn't over just yet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,621 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,694 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 38 | [Need 2](https://open.spotify.com/track/0wkr8bQUqNLdfmbeDUJMqg) | [Does it matter](https://open.spotify.com/artist/00fhyHwDkhykp7qxLsbvch) | [Need 2](https://open.spotify.com/album/79ZaIlw5sTErnWdbgJvFQ0) | 2:05 |
 | 39 | [Equals](https://open.spotify.com/track/5dHMA3NFsOyFKGJ7ML8hO1) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [Equals](https://open.spotify.com/album/3sfCMYCdFjoVMS4ocAyVIB) | 4:46 |
 | 40 | [Rosewood](https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Rosewood](https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj) | 4:02 |
-| 41 | [run away](https://open.spotify.com/track/2SN7ULJRUGp4GWFRAaWTbr) | [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS), [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [run away](https://open.spotify.com/album/4UQZ0IUOWZOrfx7lrTxWEe) | 3:12 |
-| 42 | [I'll miss you](https://open.spotify.com/track/0DFVqaUmTttd4wozHaxcRe) | [Bassi Fox](https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD) | [I'll miss you](https://open.spotify.com/album/08p5Y9EHxOAyFrDDy6Bxr4) | 2:46 |
-| 43 | [life gets hard \- Edit](https://open.spotify.com/track/1vQTyLGbpA2zXejuDC9b9t) | [iilliaa](https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [life gets hard \(Edit\)](https://open.spotify.com/album/6PuhXI5QuoTTgQNP88XCcs) | 2:35 |
-| 44 | [Crush](https://open.spotify.com/track/58Fkphee9r7xCQmKj4SMar) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Crush](https://open.spotify.com/album/7GFnomhPOTcD3hexX6GNRn) | 4:59 |
-| 45 | [Swim](https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Swim](https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI) | 4:03 |
-| 46 | [Air Tight](https://open.spotify.com/track/0gethz2jDq9MFbhvRc9tk9) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS), [Dot Major](https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh) | [Prism of Pleasure](https://open.spotify.com/album/0fGG1bH61jnLMW2cvpB6Er) | 3:54 |
-| 47 | [A Dream Goes On Forever](https://open.spotify.com/track/5OY32VyyPJDPBf2C2RTX9v) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [A Dream Goes On Forever](https://open.spotify.com/album/3GlvdGXfhdSubUQ2uKYXKI) | 4:39 |
-| 48 | [Riddles](https://open.spotify.com/track/692A9OaT8kc7KuFhvdcMqu) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Riddles](https://open.spotify.com/album/5RifJhwYzGXU4kQ4KGIkYC) | 2:49 |
-| 49 | [days for you](https://open.spotify.com/track/6tnYfLS9mlurTFQQTzoXY6) | [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW) | [days for you](https://open.spotify.com/album/2wL0Pdb2KzDIswT1I8ITGq) | 2:41 |
-| 50 | [Habla Con Ella](https://open.spotify.com/track/6HMTox9UW3BxOUi8BlMVgk) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f) | 3:24 |
+| 41 | [Riddles](https://open.spotify.com/track/692A9OaT8kc7KuFhvdcMqu) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Riddles](https://open.spotify.com/album/5RifJhwYzGXU4kQ4KGIkYC) | 2:49 |
+| 42 | [run away](https://open.spotify.com/track/2SN7ULJRUGp4GWFRAaWTbr) | [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS), [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [run away](https://open.spotify.com/album/4UQZ0IUOWZOrfx7lrTxWEe) | 3:12 |
+| 43 | [I'll miss you](https://open.spotify.com/track/0DFVqaUmTttd4wozHaxcRe) | [Bassi Fox](https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD) | [I'll miss you](https://open.spotify.com/album/08p5Y9EHxOAyFrDDy6Bxr4) | 2:46 |
+| 44 | [life gets hard \- Edit](https://open.spotify.com/track/1vQTyLGbpA2zXejuDC9b9t) | [iilliaa](https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [life gets hard \(Edit\)](https://open.spotify.com/album/6PuhXI5QuoTTgQNP88XCcs) | 2:35 |
+| 45 | [Crush](https://open.spotify.com/track/58Fkphee9r7xCQmKj4SMar) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Crush](https://open.spotify.com/album/7GFnomhPOTcD3hexX6GNRn) | 4:59 |
+| 46 | [Swim](https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Swim](https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI) | 4:03 |
+| 47 | [Air Tight](https://open.spotify.com/track/0gethz2jDq9MFbhvRc9tk9) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS), [Dot Major](https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh) | [Prism of Pleasure](https://open.spotify.com/album/0fGG1bH61jnLMW2cvpB6Er) | 3:54 |
+| 48 | [A Dream Goes On Forever](https://open.spotify.com/track/5OY32VyyPJDPBf2C2RTX9v) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [A Dream Goes On Forever](https://open.spotify.com/album/3GlvdGXfhdSubUQ2uKYXKI) | 4:39 |
+| 49 | [side by side \(feat\. Empress Of\) \[rebirth\]](https://open.spotify.com/track/2eBDPaRvjNs0Ek4fuFzOZx) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [side by side \(feat\. Empress Of\) \[rebirth\]](https://open.spotify.com/album/6crVJqqqNJekqNgp4FNp7u) | 3:15 |
+| 50 | [days for you](https://open.spotify.com/track/6tnYfLS9mlurTFQQTzoXY6) | [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW) | [days for you](https://open.spotify.com/album/2wL0Pdb2KzDIswT1I8ITGq) | 2:41 |
 
 Snapshot ID: `ZmxYZgAAAAD/15A9HFk1YCIAkRLRC+FE`

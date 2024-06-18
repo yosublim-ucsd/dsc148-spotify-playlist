@@ -1,6 +1,6 @@
 {
   "description": "Pronto pra pool party? Vem com a gente!",
-  "num_followers": 335521,
+  "num_followers": 335498,
   "original_name": "Festa na Piscina",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "Saudade N\u00edvel Hard",
+        "url": "https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Santos",
+          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+        }
+      ],
+      "duration_ms": 181846,
+      "name": "Saudade N\u00edvel Hard",
+      "url": "https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "Live-M\u00f3vel (Ao Vivo)",
         "url": "https://open.spotify.com/album/4ypgnFdLUnA00qg9a6Z1k2"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 187378,
       "name": "Sofazinho - Ao Vivo",
       "url": "https://open.spotify.com/track/2PMLdLt5QeOuOgxfAvx1in"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "Saudade N\u00edvel Hard",
-        "url": "https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Santos",
-          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
-        }
-      ],
-      "duration_ms": 181846,
-      "name": "Saudade N\u00edvel Hard",
-      "url": "https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -703,26 +703,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Resenha l\u00e1 em casa",
-        "url": "https://open.spotify.com/album/3woJd4AFogSyxqK3wkzPk2"
-      },
-      "artists": [
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        },
-        {
-          "name": "POCAH",
-          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
-        }
-      ],
-      "duration_ms": 236852,
-      "name": "Resenha l\u00e1 em casa",
-      "url": "https://open.spotify.com/track/3NnW2EqJxvHYrRy3upaznl"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "A Origem (Ao Vivo)",
         "url": "https://open.spotify.com/album/3Epj5Yu1oKT74AocfDrAOn"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 153374,
       "name": "Posto 24h (feat. Wesley Safad\u00e3o) - Ao Vivo",
       "url": "https://open.spotify.com/track/3mNmUjoDHYDYj08IaRPtg0"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "Resenha l\u00e1 em casa",
+        "url": "https://open.spotify.com/album/3woJd4AFogSyxqK3wkzPk2"
+      },
+      "artists": [
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        }
+      ],
+      "duration_ms": 236852,
+      "name": "Resenha l\u00e1 em casa",
+      "url": "https://open.spotify.com/track/3NnW2EqJxvHYrRy3upaznl"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Finalidade Era Ficar em Casa",
-        "url": "https://open.spotify.com/album/2Fm7ad2tXYu5LHKePgBLcP"
-      },
-      "artists": [
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        }
-      ],
-      "duration_ms": 185652,
-      "name": "Finalidade Era Ficar em Casa",
-      "url": "https://open.spotify.com/track/2Y73798F4zbbbvKT02fbtE"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "Din Din Din (Participa\u00e7\u00e3o especial de MC Pupio e MC Doguinha)",
         "url": "https://open.spotify.com/album/6laRHX70QNe2Wt3iWkc8wK"
       },
@@ -875,6 +859,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "Finalidade Era Ficar em Casa",
+        "url": "https://open.spotify.com/album/2Fm7ad2tXYu5LHKePgBLcP"
+      },
+      "artists": [
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        }
+      ],
+      "duration_ms": 185652,
+      "name": "Finalidade Era Ficar em Casa",
+      "url": "https://open.spotify.com/track/2Y73798F4zbbbvKT02fbtE"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "Cobertor de Orelha (Ao Vivo)",
         "url": "https://open.spotify.com/album/6BFfpdvgimAEgtS8szfesm"
       },
@@ -887,30 +887,6 @@
       "duration_ms": 156921,
       "name": "Cobertor de Orelha - Ao Vivo",
       "url": "https://open.spotify.com/track/5tDIwLvi7AaoY4pkA7pUBv"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "Tudo Ok",
-        "url": "https://open.spotify.com/album/33h1DnrztGgynGDWwzQEiA"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho MT",
-          "url": "https://open.spotify.com/artist/0yApzRdrUqTGqX9MULdnmV"
-        },
-        {
-          "name": "Mila",
-          "url": "https://open.spotify.com/artist/606eWexxNhc6Mj0RuCxMA9"
-        },
-        {
-          "name": "JS o M\u00e3o de Ouro",
-          "url": "https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "Tudo Ok",
-      "url": "https://open.spotify.com/track/4HUZBG98TYbxSR9V1V2DWS"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -935,6 +911,30 @@
       "duration_ms": 142187,
       "name": "N\u00e3o Que Eu V\u00e1 - Spotify Singles",
       "url": "https://open.spotify.com/track/5fPBQtHOZYg1UioxFpOqPR"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "Tudo Ok",
+        "url": "https://open.spotify.com/album/33h1DnrztGgynGDWwzQEiA"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho MT",
+          "url": "https://open.spotify.com/artist/0yApzRdrUqTGqX9MULdnmV"
+        },
+        {
+          "name": "Mila",
+          "url": "https://open.spotify.com/artist/606eWexxNhc6Mj0RuCxMA9"
+        },
+        {
+          "name": "JS o M\u00e3o de Ouro",
+          "url": "https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "Tudo Ok",
+      "url": "https://open.spotify.com/track/4HUZBG98TYbxSR9V1V2DWS"
     },
     {
       "added_at": "2023-01-17 01:33:36",

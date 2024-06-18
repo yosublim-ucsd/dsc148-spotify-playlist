@@ -1,6 +1,6 @@
 {
   "description": "Let's mix it. Cover: Imagine Dragons",
-  "num_followers": 140457,
+  "num_followers": 140479,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 245521,
+      "name": "You First",
+      "url": "https://open.spotify.com/track/2ZMkAWKrNDXrQuF0N9Q9Xj"
+    },
+    {
+      "added_at": "2024-05-31 22:30:56",
+      "album": {
         "name": "Both Ways",
         "url": "https://open.spotify.com/album/3eh5lPgtVovNYkSdGlRi5I"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 161475,
       "name": "hell of a good time",
       "url": "https://open.spotify.com/track/7132EFlbWFNX4mLDY23OR5"
-    },
-    {
-      "added_at": "2024-05-31 22:30:56",
-      "album": {
-        "name": "This Is Why",
-        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 245521,
-      "name": "You First",
-      "url": "https://open.spotify.com/track/2ZMkAWKrNDXrQuF0N9Q9Xj"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
-        "name": "How Do You Love Somebody",
-        "url": "https://open.spotify.com/album/2Dc1wn06E8wwYLivi87Brc"
-      },
-      "artists": [
-        {
-          "name": "Why Don't We",
-          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
-        }
-      ],
-      "duration_ms": 180065,
-      "name": "How Do You Love Somebody",
-      "url": "https://open.spotify.com/track/4j5gXarJqoiwh4ZIAqZcmh"
-    },
-    {
-      "added_at": "2024-05-31 22:30:56",
-      "album": {
         "name": "boy",
         "url": "https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 198480,
       "name": "boy",
       "url": "https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy"
+    },
+    {
+      "added_at": "2024-05-31 22:30:56",
+      "album": {
+        "name": "How Do You Love Somebody",
+        "url": "https://open.spotify.com/album/2Dc1wn06E8wwYLivi87Brc"
+      },
+      "artists": [
+        {
+          "name": "Why Don't We",
+          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+        }
+      ],
+      "duration_ms": 180065,
+      "name": "How Do You Love Somebody",
+      "url": "https://open.spotify.com/track/4j5gXarJqoiwh4ZIAqZcmh"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
-        "name": "LOVE U ANYWAY",
-        "url": "https://open.spotify.com/album/5m8ob2qOWQ4eddgeolaXyf"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 176495,
-      "name": "LOVE U ANYWAY",
-      "url": "https://open.spotify.com/track/6lficC9CzeHGY7FnmJkZPx"
-    },
-    {
-      "added_at": "2024-05-31 22:30:56",
-      "album": {
         "name": "sail away",
         "url": "https://open.spotify.com/album/6JFD9WU1ZSYZOJlDpRtZ71"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 179000,
       "name": "sail away",
       "url": "https://open.spotify.com/track/6G8xvLFNkXy3HM5EbQI6c8"
+    },
+    {
+      "added_at": "2024-05-31 22:30:56",
+      "album": {
+        "name": "LOVE U ANYWAY",
+        "url": "https://open.spotify.com/album/5m8ob2qOWQ4eddgeolaXyf"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 176495,
+      "name": "LOVE U ANYWAY",
+      "url": "https://open.spotify.com/track/6lficC9CzeHGY7FnmJkZPx"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
-        "name": "Further Joy",
-        "url": "https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ"
-      },
-      "artists": [
-        {
-          "name": "The Regrettes",
-          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
-        }
-      ],
-      "duration_ms": 197040,
-      "name": "Barely on My Mind",
-      "url": "https://open.spotify.com/track/7LigIDzs63Y4uFlZvNzCZq"
-    },
-    {
-      "added_at": "2024-05-31 22:30:56",
-      "album": {
         "name": "California Girl",
         "url": "https://open.spotify.com/album/7tT8MODPGpzEShsgFUBA6q"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 173836,
       "name": "California Girl",
       "url": "https://open.spotify.com/track/4NSvVWoMswmJpMpSbgipYX"
+    },
+    {
+      "added_at": "2024-05-31 22:30:56",
+      "album": {
+        "name": "Further Joy",
+        "url": "https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ"
+      },
+      "artists": [
+        {
+          "name": "The Regrettes",
+          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+        }
+      ],
+      "duration_ms": 197040,
+      "name": "Barely on My Mind",
+      "url": "https://open.spotify.com/track/7LigIDzs63Y4uFlZvNzCZq"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE"
-      },
-      "artists": [
-        {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
-        }
-      ],
-      "duration_ms": 217125,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4"
-    },
-    {
-      "added_at": "2024-05-31 22:30:56",
-      "album": {
         "name": "FUNERAL",
         "url": "https://open.spotify.com/album/1KQLkCFFcvA9BT0aGsmejd"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 181923,
       "name": "FUNERAL",
       "url": "https://open.spotify.com/track/3UG2MvL1KiIgY9FjFvOYrv"
+    },
+    {
+      "added_at": "2024-05-31 22:30:56",
+      "album": {
+        "name": "Over",
+        "url": "https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "duration_ms": 217125,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
+        "name": "lightweight",
+        "url": "https://open.spotify.com/album/0TmWjkgmqNJGXVPwRVMivO"
+      },
+      "artists": [
+        {
+          "name": "DE'WAYNE",
+          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "lightweight",
+      "url": "https://open.spotify.com/track/0hbOKM2gJExRioO5S6CtuZ"
+    },
+    {
+      "added_at": "2024-05-31 22:30:56",
+      "album": {
         "name": "Ultimatum",
         "url": "https://open.spotify.com/album/0YjaDupGt0URWOJKzc9bSP"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 206040,
       "name": "Ultimatum",
       "url": "https://open.spotify.com/track/53oGdQkeoXpAtu9HLlsycx"
-    },
-    {
-      "added_at": "2024-05-31 22:30:56",
-      "album": {
-        "name": "lightweight",
-        "url": "https://open.spotify.com/album/0TmWjkgmqNJGXVPwRVMivO"
-      },
-      "artists": [
-        {
-          "name": "DE'WAYNE",
-          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "lightweight",
-      "url": "https://open.spotify.com/track/0hbOKM2gJExRioO5S6CtuZ"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
-        "name": "First To Go",
-        "url": "https://open.spotify.com/album/3PLVbHQDtLfU70Nji5erZl"
-      },
-      "artists": [
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        }
-      ],
-      "duration_ms": 173066,
-      "name": "First To Go",
-      "url": "https://open.spotify.com/track/3RGTkawjlaqoIsgWSPM47w"
-    },
-    {
-      "added_at": "2024-05-31 22:30:56",
-      "album": {
         "name": "in loving memory",
         "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 182792,
       "name": "dead inside",
       "url": "https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI"
+    },
+    {
+      "added_at": "2024-05-31 22:30:56",
+      "album": {
+        "name": "First To Go",
+        "url": "https://open.spotify.com/album/3PLVbHQDtLfU70Nji5erZl"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "duration_ms": 173066,
+      "name": "First To Go",
+      "url": "https://open.spotify.com/track/3RGTkawjlaqoIsgWSPM47w"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -2119,6 +2119,22 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
+        "name": "Bittersweet 16",
+        "url": "https://open.spotify.com/album/5NrdpIaUiVzSp9dfPxMPO5"
+      },
+      "artists": [
+        {
+          "name": "Mckenna Grace",
+          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
+        }
+      ],
+      "duration_ms": 152053,
+      "name": "Ugly Crier",
+      "url": "https://open.spotify.com/track/0AOa1XIQ4vYjAv5uflTrMN"
+    },
+    {
+      "added_at": "2024-05-31 22:30:56",
+      "album": {
         "name": "everything is fine",
         "url": "https://open.spotify.com/album/1hIWhSH68cnnjZotwiqHHq"
       },
@@ -2135,22 +2151,6 @@
       "duration_ms": 208289,
       "name": "everything is fine",
       "url": "https://open.spotify.com/track/0nbDPiQsfmrXwt2bxaKqtl"
-    },
-    {
-      "added_at": "2024-05-31 22:30:56",
-      "album": {
-        "name": "Bittersweet 16",
-        "url": "https://open.spotify.com/album/5NrdpIaUiVzSp9dfPxMPO5"
-      },
-      "artists": [
-        {
-          "name": "Mckenna Grace",
-          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
-        }
-      ],
-      "duration_ms": 152053,
-      "name": "Ugly Crier",
-      "url": "https://open.spotify.com/track/0AOa1XIQ4vYjAv5uflTrMN"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
-        "name": "hurt like it should",
-        "url": "https://open.spotify.com/album/2z9tnFVrBzgvj1NR98ccBY"
-      },
-      "artists": [
-        {
-          "name": "renforshort",
-          "url": "https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D"
-        }
-      ],
-      "duration_ms": 203467,
-      "name": "hurt like it should",
-      "url": "https://open.spotify.com/track/1GeQUUhVdGjPZTSONOhkmr"
-    },
-    {
-      "added_at": "2024-05-31 22:30:56",
-      "album": {
         "name": "People That I Love Leave",
         "url": "https://open.spotify.com/album/0MHxYClcQzUce12K5Y2GfU"
       },
@@ -2319,6 +2303,22 @@
       "duration_ms": 149248,
       "name": "People That I Love Leave",
       "url": "https://open.spotify.com/track/2ZaPyFZBwurF7wCT9DKAVV"
+    },
+    {
+      "added_at": "2024-05-31 22:30:56",
+      "album": {
+        "name": "hurt like it should",
+        "url": "https://open.spotify.com/album/2z9tnFVrBzgvj1NR98ccBY"
+      },
+      "artists": [
+        {
+          "name": "renforshort",
+          "url": "https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D"
+        }
+      ],
+      "duration_ms": 203467,
+      "name": "hurt like it should",
+      "url": "https://open.spotify.com/track/1GeQUUhVdGjPZTSONOhkmr"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -2403,22 +2403,18 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
-        "name": "cheerleader (ft. Waterparks)",
-        "url": "https://open.spotify.com/album/2tWR94g7epMrZx7UAWeIsw"
+        "name": "Past // Present // Future",
+        "url": "https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve"
       },
       "artists": [
         {
-          "name": "phem",
-          "url": "https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr"
-        },
-        {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
         }
       ],
-      "duration_ms": 159863,
-      "name": "cheerleader (ft. Waterparks)",
-      "url": "https://open.spotify.com/track/2malYWL8GiAyoAqvLOeSrX"
+      "duration_ms": 159308,
+      "name": "Say It (To My Face)",
+      "url": "https://open.spotify.com/track/2hbOvsFwsgwaboSRGxeng8"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -2439,18 +2435,22 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
-        "name": "Past // Present // Future",
-        "url": "https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve"
+        "name": "cheerleader (ft. Waterparks)",
+        "url": "https://open.spotify.com/album/2tWR94g7epMrZx7UAWeIsw"
       },
       "artists": [
         {
-          "name": "Meet Me @ The Altar",
-          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+          "name": "phem",
+          "url": "https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr"
+        },
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
         }
       ],
-      "duration_ms": 159308,
-      "name": "Say It (To My Face)",
-      "url": "https://open.spotify.com/track/2hbOvsFwsgwaboSRGxeng8"
+      "duration_ms": 159863,
+      "name": "cheerleader (ft. Waterparks)",
+      "url": "https://open.spotify.com/track/2malYWL8GiAyoAqvLOeSrX"
     },
     {
       "added_at": "2024-05-31 22:30:56",

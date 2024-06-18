@@ -4,7 +4,7 @@
 
 > 
 
-364 songs - 23 hr 9 min
+365 songs - 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [American Gigolo](https://open.spotify.com/track/4dV49dm1XBRvsm2EUZQad4) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 2:42 | 2024-04-09 |  |
 | [Apocalypse Dreams](https://open.spotify.com/track/7qU7vhCPKhkDiJYGoboISc) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 5:56 | 2024-04-16 |  |
 | [April 8th](https://open.spotify.com/track/6EmywUvSSF4PpIiF0ZZDlW) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [On Avery Island](https://open.spotify.com/album/3QTmNqASavj7H8DPhFss1r) | 2:47 | 2024-04-19 |  |
+| [Ask Me Anything](https://open.spotify.com/track/6THqWFqcUAAB7At66622Wr) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [First Impressions Of Earth](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) | 3:09 | 2024-06-18 |  |
 | [Automatic Stop](https://open.spotify.com/track/6DUKQUhWqUySYngLXLNwP2) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:27 | 2024-06-16 |  |
 | [Avery Island / April 1st](https://open.spotify.com/track/04aJtorJL9ad4JbExB9IEy) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [On Avery Island](https://open.spotify.com/album/3QTmNqASavj7H8DPhFss1r) | 1:48 | 2024-04-19 |  |
 | [Back to the Holler](https://open.spotify.com/track/6G33hFS4gVKktRhlfqEVzs) | [Alec Holowka](https://open.spotify.com/artist/2msAsizgFUJio7s8sgme16) | [Night in the Woods \(Original Soundtrack, Vol\. 1\) \[At the End of Everything\]](https://open.spotify.com/album/0f0tXQKGvvaYRsVZrzr4O8) | 7:37 | 2023-11-14 |  |

@@ -1,6 +1,6 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: Switch",
-  "num_followers": 132542,
+  "num_followers": 132571,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
@@ -579,18 +579,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Revival (Live)",
-        "url": "https://open.spotify.com/album/5cLSqfaQnC3O43cIuNmL8J"
+        "name": "Won't Look Back",
+        "url": "https://open.spotify.com/album/05ffxlI4ReWij0Ll2rfgRS"
       },
       "artists": [
         {
-          "name": "Planetshakers",
-          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        },
+        {
+          "name": "David Ryan Cook",
+          "url": "https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T"
         }
       ],
-      "duration_ms": 200360,
-      "name": "Way Truth Life - Live",
-      "url": "https://open.spotify.com/track/2eYJSfG4XE5M1PbcecUiMd"
+      "duration_ms": 214000,
+      "name": "Won't Look Back",
+      "url": "https://open.spotify.com/track/5E6upbmm2f8pFJQj6kbz9P"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -611,22 +615,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Won't Look Back",
-        "url": "https://open.spotify.com/album/05ffxlI4ReWij0Ll2rfgRS"
+        "name": "Revival (Live)",
+        "url": "https://open.spotify.com/album/5cLSqfaQnC3O43cIuNmL8J"
       },
       "artists": [
         {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
-        },
-        {
-          "name": "David Ryan Cook",
-          "url": "https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T"
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Won't Look Back",
-      "url": "https://open.spotify.com/track/5E6upbmm2f8pFJQj6kbz9P"
+      "duration_ms": 200360,
+      "name": "Way Truth Life - Live",
+      "url": "https://open.spotify.com/track/2eYJSfG4XE5M1PbcecUiMd"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -975,18 +975,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Yes He Does",
-        "url": "https://open.spotify.com/album/0IVE74zl2F4p9BVSPYLALo"
+        "name": "FRVR",
+        "url": "https://open.spotify.com/album/4qjKYc6fXywXLvSypwJCkS"
       },
       "artists": [
         {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+          "name": "Equippers Revolution",
+          "url": "https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY"
         }
       ],
-      "duration_ms": 206606,
-      "name": "Yes He Does",
-      "url": "https://open.spotify.com/track/5O5HNh3c2lYctzGMjLCr2M"
+      "duration_ms": 197000,
+      "name": "Future",
+      "url": "https://open.spotify.com/track/51AOKB8pqsRF3YCucahDQ8"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "FRVR",
-        "url": "https://open.spotify.com/album/4qjKYc6fXywXLvSypwJCkS"
+        "name": "Yes He Does",
+        "url": "https://open.spotify.com/album/0IVE74zl2F4p9BVSPYLALo"
       },
       "artists": [
         {
-          "name": "Equippers Revolution",
-          "url": "https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY"
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Future",
-      "url": "https://open.spotify.com/track/51AOKB8pqsRF3YCucahDQ8"
+      "duration_ms": 206606,
+      "name": "Yes He Does",
+      "url": "https://open.spotify.com/track/5O5HNh3c2lYctzGMjLCr2M"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "Heaven Life (Live)",
+        "url": "https://open.spotify.com/album/5JRlSur175Jn3M9X6In0HF"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        }
+      ],
+      "duration_ms": 196506,
+      "name": "Nobody But You - Live",
+      "url": "https://open.spotify.com/track/0i337cf6Iqos7LXeuiUEop"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "Worship: The Remix Project, Vol. 3",
         "url": "https://open.spotify.com/album/1C6zfthwK3pGTdutkBbPkQ"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 236025,
       "name": "The Blessing - Reyer Remix",
       "url": "https://open.spotify.com/track/3xfDEpTPumLqOWWc26losd"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "Heaven Life (Live)",
-        "url": "https://open.spotify.com/album/5JRlSur175Jn3M9X6In0HF"
-      },
-      "artists": [
-        {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
-        }
-      ],
-      "duration_ms": 196506,
-      "name": "Nobody But You - Live",
-      "url": "https://open.spotify.com/track/0i337cf6Iqos7LXeuiUEop"
     },
     {
       "added_at": "2023-02-18 04:35:24",

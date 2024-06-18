@@ -4,33 +4,33 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent writing their own songs\. Cover: Noah Rinker on the Fresh Finds rooftop
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,420 likes - 85 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,433 likes - 85 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [After Dark](https://open.spotify.com/track/26b2184K8AbuALqmkfznSl) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [After Dark](https://open.spotify.com/album/6JyxbY1JEmqBkLdxr1UdxY) | 3:28 |
 | 2 | [Unsweetened Lemonade](https://open.spotify.com/track/0hjTOj4u1cLwPov4fqevnw) | [Amélie Farren](https://open.spotify.com/artist/6xRbdqe7I2llmjw533rYnG) | [Unsweetened Lemonade](https://open.spotify.com/album/1ybx1ljq27DWJqYxm1rn5R) | 2:24 |
-| 3 | [How Long](https://open.spotify.com/track/6ugo6TrO93ZW9gAovTzegl) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [How Long](https://open.spotify.com/album/7ssXHDTUiWMgXKvu7Nw9Qe) | 3:30 |
-| 4 | [Hypothetically](https://open.spotify.com/track/0GW4U3AyJNm25YAWjlL4Ww) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Hypothetically](https://open.spotify.com/album/3840k7aSlsMmh6uK1srrsO) | 2:41 |
-| 5 | [Bleeding Me Dry](https://open.spotify.com/track/6ldJ3AUfPvRX2gCB4IMpBG) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Bleeding Me Dry](https://open.spotify.com/album/4jMPCb1lQSBO6rjgMDxoVi) | 3:27 |
-| 6 | [tonight's the night i die to a frank ocean song](https://open.spotify.com/track/3MPjAnpNeBB5kmOQRc4mJw) | [hannah bahng](https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9) | [The Abysmal EP](https://open.spotify.com/album/48hFgSWs5hl3drMtRVP7RF) | 2:57 |
-| 7 | [Escape Plan](https://open.spotify.com/track/57nPLBMMNk8w4KDNSwDxdz) | [Jana Diab](https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq) | [Escape Plan](https://open.spotify.com/album/3kt4vMSt4GLQQ7M5pS5Dpx) | 2:19 |
-| 8 | [Wella](https://open.spotify.com/track/6RQcErRRynAvt37stMDWqD) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Wella](https://open.spotify.com/album/60xPwrb6N69CjjBPkiqQtF) | 2:49 |
-| 9 | [Dear Conformity](https://open.spotify.com/track/5ZVhUnbjXkhod15W9lYkLn) | [Lorelei Marcell](https://open.spotify.com/artist/3JUdBypm7CxRBcQRdTucgK) | [Dear Conformity](https://open.spotify.com/album/1xlJNntrxa4SvCGhRsfPwz) | 3:17 |
-| 10 | [Don't Wake Me Up](https://open.spotify.com/track/4bF0SJ1NmPxMIMxMVEtu0F) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Don't Wake Me Up](https://open.spotify.com/album/1Zed396gQ1LT5im4EwX6tC) | 3:06 |
-| 11 | [Tangerine](https://open.spotify.com/track/6xdB35eP1oltwaPgtwZ9tP) | [Caity Krone](https://open.spotify.com/artist/0qMLMrYSgSJBquDGCOMERs) | [Nose Job](https://open.spotify.com/album/2uOQTwIOf0IJecVoNYdFAi) | 4:31 |
-| 12 | [NEED ME](https://open.spotify.com/track/2M0Mh2R2GPAOAVYnXVjSFR) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [NEED ME](https://open.spotify.com/album/4LEWE31MV5QuWP9F0qxOus) | 3:43 |
-| 13 | [Stuck Up](https://open.spotify.com/track/16q24WOiHPeEhuuCDw45ZR) | [Romy Mars](https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd) | [Stuck Up](https://open.spotify.com/album/5mvwo5vHABNejQeADXkTeI) | 2:35 |
-| 14 | [Fear of the Unknown](https://open.spotify.com/track/4qHxxlwDjEvanNtKeG6DCy) | [Peyton McMahon](https://open.spotify.com/artist/7HYMKelR2o8mJ9qk8KF1CJ) | [Fear of the Unknown](https://open.spotify.com/album/60olbifny6PT6tQ67u0k89) | 3:43 |
-| 15 | [if you still like me in the morning](https://open.spotify.com/track/32UGfgmC8cbsK3RpqIJs4f) | [Tessa Rae](https://open.spotify.com/artist/1DdDuFwFjcX2NN5bYnqu5k) | [if you still like me in the morning](https://open.spotify.com/album/7uEB2J1sLv4Wg48XXUH93l) | 3:48 |
-| 16 | [Like You Used To](https://open.spotify.com/track/6l6ycuWiB5kaDRAObqzedo) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW) | [Like You Used To](https://open.spotify.com/album/7j3SAf1ObSZg3aWi1tkssR) | 3:50 |
-| 17 | [This Isn't Over](https://open.spotify.com/track/019G5CuO3xezSEL6XaVtu7) | [Abi Carter](https://open.spotify.com/artist/6ryJRp2gIl77hK36D8tz2m) | [This Isn't Over](https://open.spotify.com/album/6Pp7FsNjfsVdZfdo3ejSOk) | 2:34 |
-| 18 | [Do Your Worst](https://open.spotify.com/track/1WQm4kw3blYLYbsA9kTsTE) | [Zackery](https://open.spotify.com/artist/5GQHNdYVBppXNGb7RHJHIc) | [Do Your Worst](https://open.spotify.com/album/2LS7qVSq37ThFZkkmhrY3w) | 3:39 |
-| 19 | [Rearview Mirror](https://open.spotify.com/track/2SSgYTvesgv4JbLtb6pMD9) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Rearview Mirror](https://open.spotify.com/album/6Yjc1ormevTi3c5lZb4rqF) | 2:33 |
-| 20 | [Little Things](https://open.spotify.com/track/1nmOgtVp3yZNJQ1RzJ8Ney) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [Little Things](https://open.spotify.com/album/0nMEiut01f32QDCyKojM3N) | 3:17 |
-| 21 | [Shut Up About It](https://open.spotify.com/track/22anHevRPlC1njepJ7FOvE) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Simple Like 17 \(Deluxe\)](https://open.spotify.com/album/4mSakdxl4oMzEMWeUxr37a) | 3:18 |
-| 22 | [Times Are Changin'](https://open.spotify.com/track/5GfeGwrQvFAQgevgfvmQ2D) | [Fraser Churchill](https://open.spotify.com/artist/07Y56gwdkeIu8RZpGy7tSZ) | [Times Are Changin'](https://open.spotify.com/album/6Mc1EE6rHNvMjKXrBadFIa) | 3:18 |
-| 23 | [Treehouse \(feat\. Brandy Clark\)](https://open.spotify.com/track/1YhfDSpXJ61IHRF5IymP3S) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Treehouse](https://open.spotify.com/album/5fXOvCcWEgxK4x0qgY35U0) | 3:34 |
+| 3 | [Isabel](https://open.spotify.com/track/5TyN1lnBNcQzomwOhfqGxN) | [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [Isabel](https://open.spotify.com/album/6agP6NpGBGCN2O7UyzhfHO) | 4:19 |
+| 4 | [How Long](https://open.spotify.com/track/6ugo6TrO93ZW9gAovTzegl) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [How Long](https://open.spotify.com/album/7ssXHDTUiWMgXKvu7Nw9Qe) | 3:30 |
+| 5 | [Hypothetically](https://open.spotify.com/track/0GW4U3AyJNm25YAWjlL4Ww) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Hypothetically](https://open.spotify.com/album/3840k7aSlsMmh6uK1srrsO) | 2:41 |
+| 6 | [Bleeding Me Dry](https://open.spotify.com/track/6ldJ3AUfPvRX2gCB4IMpBG) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Bleeding Me Dry](https://open.spotify.com/album/4jMPCb1lQSBO6rjgMDxoVi) | 3:27 |
+| 7 | [tonight's the night i die to a frank ocean song](https://open.spotify.com/track/3MPjAnpNeBB5kmOQRc4mJw) | [hannah bahng](https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9) | [The Abysmal EP](https://open.spotify.com/album/48hFgSWs5hl3drMtRVP7RF) | 2:57 |
+| 8 | [Escape Plan](https://open.spotify.com/track/57nPLBMMNk8w4KDNSwDxdz) | [Jana Diab](https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq) | [Escape Plan](https://open.spotify.com/album/3kt4vMSt4GLQQ7M5pS5Dpx) | 2:19 |
+| 9 | [Wella](https://open.spotify.com/track/6RQcErRRynAvt37stMDWqD) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Wella](https://open.spotify.com/album/60xPwrb6N69CjjBPkiqQtF) | 2:49 |
+| 10 | [Dear Conformity](https://open.spotify.com/track/5ZVhUnbjXkhod15W9lYkLn) | [Lorelei Marcell](https://open.spotify.com/artist/3JUdBypm7CxRBcQRdTucgK) | [Dear Conformity](https://open.spotify.com/album/1xlJNntrxa4SvCGhRsfPwz) | 3:17 |
+| 11 | [Don't Wake Me Up](https://open.spotify.com/track/4bF0SJ1NmPxMIMxMVEtu0F) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Don't Wake Me Up](https://open.spotify.com/album/1Zed396gQ1LT5im4EwX6tC) | 3:06 |
+| 12 | [Tangerine](https://open.spotify.com/track/6xdB35eP1oltwaPgtwZ9tP) | [Caity Krone](https://open.spotify.com/artist/0qMLMrYSgSJBquDGCOMERs) | [Nose Job](https://open.spotify.com/album/2uOQTwIOf0IJecVoNYdFAi) | 4:31 |
+| 13 | [NEED ME](https://open.spotify.com/track/2M0Mh2R2GPAOAVYnXVjSFR) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [NEED ME](https://open.spotify.com/album/4LEWE31MV5QuWP9F0qxOus) | 3:43 |
+| 14 | [Stuck Up](https://open.spotify.com/track/16q24WOiHPeEhuuCDw45ZR) | [Romy Mars](https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd) | [Stuck Up](https://open.spotify.com/album/5mvwo5vHABNejQeADXkTeI) | 2:35 |
+| 15 | [Fear of the Unknown](https://open.spotify.com/track/4qHxxlwDjEvanNtKeG6DCy) | [Peyton McMahon](https://open.spotify.com/artist/7HYMKelR2o8mJ9qk8KF1CJ) | [Fear of the Unknown](https://open.spotify.com/album/60olbifny6PT6tQ67u0k89) | 3:43 |
+| 16 | [if you still like me in the morning](https://open.spotify.com/track/32UGfgmC8cbsK3RpqIJs4f) | [Tessa Rae](https://open.spotify.com/artist/1DdDuFwFjcX2NN5bYnqu5k) | [if you still like me in the morning](https://open.spotify.com/album/7uEB2J1sLv4Wg48XXUH93l) | 3:48 |
+| 17 | [Like You Used To](https://open.spotify.com/track/6l6ycuWiB5kaDRAObqzedo) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW) | [Like You Used To](https://open.spotify.com/album/7j3SAf1ObSZg3aWi1tkssR) | 3:50 |
+| 18 | [This Isn't Over](https://open.spotify.com/track/019G5CuO3xezSEL6XaVtu7) | [Abi Carter](https://open.spotify.com/artist/6ryJRp2gIl77hK36D8tz2m) | [This Isn't Over](https://open.spotify.com/album/6Pp7FsNjfsVdZfdo3ejSOk) | 2:34 |
+| 19 | [Do Your Worst](https://open.spotify.com/track/1WQm4kw3blYLYbsA9kTsTE) | [Zackery](https://open.spotify.com/artist/5GQHNdYVBppXNGb7RHJHIc) | [Do Your Worst](https://open.spotify.com/album/2LS7qVSq37ThFZkkmhrY3w) | 3:39 |
+| 20 | [Rearview Mirror](https://open.spotify.com/track/2SSgYTvesgv4JbLtb6pMD9) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Rearview Mirror](https://open.spotify.com/album/6Yjc1ormevTi3c5lZb4rqF) | 2:33 |
+| 21 | [Little Things](https://open.spotify.com/track/1nmOgtVp3yZNJQ1RzJ8Ney) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [Little Things](https://open.spotify.com/album/0nMEiut01f32QDCyKojM3N) | 3:17 |
+| 22 | [Shut Up About It](https://open.spotify.com/track/22anHevRPlC1njepJ7FOvE) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Simple Like 17 \(Deluxe\)](https://open.spotify.com/album/4mSakdxl4oMzEMWeUxr37a) | 3:18 |
+| 23 | [Times Are Changin'](https://open.spotify.com/track/5GfeGwrQvFAQgevgfvmQ2D) | [Fraser Churchill](https://open.spotify.com/artist/07Y56gwdkeIu8RZpGy7tSZ) | [Times Are Changin'](https://open.spotify.com/album/6Mc1EE6rHNvMjKXrBadFIa) | 3:18 |
 | 24 | [i don't feel safe in my body](https://open.spotify.com/track/7MnYbB8EA6aKVlqJ6Nsek9) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [i don't feel safe in my body](https://open.spotify.com/album/5HwvUgkqsBLd0A6J3zqgR3) | 2:43 |
 | 25 | [Paper Rose](https://open.spotify.com/track/6pGh07Y3T2zQLAuFTvjAXm) | [Olivia Penalva](https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO) | [Spiderwebs](https://open.spotify.com/album/3TnME8m1KogRglQjiOz9Qo) | 4:21 |
 | 26 | [Drama in Doses](https://open.spotify.com/track/2LbcamjmZDFMOj6dNVaIwA) | [Sid Dorey](https://open.spotify.com/artist/6UcErG934cEadG4q16v37T) | [Drama in Doses](https://open.spotify.com/album/6FIHQn3metCrRMo2q8XpLc) | 2:48 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 84 | [Better Days](https://open.spotify.com/track/0RnlIQrxNByQNC0bgZJT7d) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Better Days](https://open.spotify.com/album/7Fe71b1KgLUwV4bYErTJBc) | 2:47 |
 | 85 | [i am not who i was](https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [i am not who i was](https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId) | 2:25 |
 
-Snapshot ID: `ZmvMBAAAAAB1EkZ6FNG7+hQEbaawZ2oa`
+Snapshot ID: `ZnBsQQAAAAA8TO/GAaWdaCvO/9uZoBAI`

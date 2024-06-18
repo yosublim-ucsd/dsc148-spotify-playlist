@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ6UgJlQibR.md) - [plain]
 
 > Where music and emotions meet\. Cover: <a href="spotify:artist:7Ddov9nbJDbpgzvBVb7cU1">George Wassouf</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,866 likes - 38 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,922 likes - 38 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ6UgJlQibR.md) - [plain]
 | 16 | [Alloulou al\-Mamdood / Loulou Bi Loulou](https://open.spotify.com/track/5W9KJkUcyLchbT3fV0kX8l) | [Sabah Fakhri](https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg) | [Master of Andalusian Folklore: Traditional Syrian Songs](https://open.spotify.com/album/3vnpDLv3yONaJBcs3Du2HN) | 11:06 |
 | 17 | [Ala El Aadid Ijtamaana](https://open.spotify.com/track/7FkTCLunm1yMQuRDsfJtcH) | [Ahmad Abdar](https://open.spotify.com/artist/3Zdzznb63NbHmP6Iowy22x) | [Sultan's of Al Tarab, Vol\. 4](https://open.spotify.com/album/6oHJk3MZboCBJzqHsOZe65) | 2:15 |
 | 18 | [Al\-Hobbi Koullou](https://open.spotify.com/track/5ndZ0322fIgfW7eTgRr5Ly) | [Nour Mehanna](https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF) | [Greatest Hits](https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD) | 6:29 |
-| 19 | [El Zakah](https://open.spotify.com/track/5BPiU4eojxCA9PHLRi8x4t) | [Latifa](https://open.spotify.com/artist/1PuTOfIYIEdoxKNnXJAPZe) | [El Zakah](https://open.spotify.com/album/7qHio96eRUQ6lwWKH44QFc) | 1:59 |
-| 20 | [Sheel Oyounak Anni](https://open.spotify.com/track/2PRL8u9zyCRResNVXeSgQw) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Sheel Oyoonak Anni](https://open.spotify.com/album/3XuDhEdBDaT1zd9mmUfo77) | 5:26 |
+| 19 | [Sheel Oyounak Anni](https://open.spotify.com/track/2PRL8u9zyCRResNVXeSgQw) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Sheel Oyoonak Anni](https://open.spotify.com/album/3XuDhEdBDaT1zd9mmUfo77) | 5:26 |
+| 20 | [El Zakah](https://open.spotify.com/track/5BPiU4eojxCA9PHLRi8x4t) | [Latifa](https://open.spotify.com/artist/1PuTOfIYIEdoxKNnXJAPZe) | [El Zakah](https://open.spotify.com/album/7qHio96eRUQ6lwWKH44QFc) | 1:59 |
 | 21 | [Meen Habeebee Ana \(Duet Nawal Al Zoghbi\)](https://open.spotify.com/track/5Ht5pDYfnyxp8SuEndKDQF) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Kfoury Classic](https://open.spotify.com/album/1ICamuikY1Ye2nRiSUXN8x) | 5:42 |
 | 22 | [Ya habibi \- Live](https://open.spotify.com/track/7foZcrSugkCx062oIi4wVQ) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Sahra \(Live Rare Concert Recording\)](https://open.spotify.com/album/7hsND1sb0FyP41zUE7GSMl) | 4:56 |
 | 23 | [Helwit El Helwat](https://open.spotify.com/track/140SsIEUuQkdJl5nMe6OuY) | [Wadih Mrad](https://open.spotify.com/artist/3pQqjrraV2G4bFczsJjMT2) | [Helwit El Helwat](https://open.spotify.com/album/1YjN9eAsvTRTr4jlxDVMJ6) | 5:14 |

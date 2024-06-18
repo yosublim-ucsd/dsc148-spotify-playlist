@@ -1,12 +1,12 @@
 {
   "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  COVER: TWENTY SIX &amp; Jenn Morel",
-  "num_followers": 32519,
+  "num_followers": 32522,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAqn4ziVOjYLCKXXnKPDg/vdFjSAULD",
+  "snapshot_id": "AAAqpJdHcrdBKbzl/mMgM+GzO5PvRvo/",
   "tracks": [
     {
       "added_at": "2024-06-14 08:36:27",
@@ -155,6 +155,106 @@
       "duration_ms": 167343,
       "name": "Unite (feat. Eke)",
       "url": "https://open.spotify.com/track/6lMZwR33yJnUrGijdwk0EU"
+    },
+    {
+      "added_at": "2024-06-17 08:49:40",
+      "album": {
+        "name": "Last Night (feat. Sadie Rose Van)",
+        "url": "https://open.spotify.com/album/1Em5n90K3b7S4LEyV1GAF0"
+      },
+      "artists": [
+        {
+          "name": "Henri PFR",
+          "url": "https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq"
+        },
+        {
+          "name": "Sadie Rose Van",
+          "url": "https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns"
+        }
+      ],
+      "duration_ms": 143709,
+      "name": "Last Night (feat. Sadie Rose Van)",
+      "url": "https://open.spotify.com/track/4gA4ndECS37Q9EtanM0SVG"
+    },
+    {
+      "added_at": "2024-06-17 11:39:48",
+      "album": {
+        "name": "Aether",
+        "url": "https://open.spotify.com/album/40AF6aaqClvKYOYA1rioaV"
+      },
+      "artists": [
+        {
+          "name": "Christian Corsi",
+          "url": "https://open.spotify.com/artist/3JlSc5y4TTi8H0mszwjKPk"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Aether",
+      "url": "https://open.spotify.com/track/5rRNF9XcEnRhZWYcDiVjUG"
+    },
+    {
+      "added_at": "2024-06-17 13:02:17",
+      "album": {
+        "name": "Castles",
+        "url": "https://open.spotify.com/album/19UMtvu6BPLclbWmzsXbk3"
+      },
+      "artists": [
+        {
+          "name": "JUNAR",
+          "url": "https://open.spotify.com/artist/3zgpKuFgnlyjRik8UZtYFQ"
+        },
+        {
+          "name": "ElSchacko",
+          "url": "https://open.spotify.com/artist/1JWreSMob6umLV7tASOkDD"
+        },
+        {
+          "name": "Daniel Niebuhr",
+          "url": "https://open.spotify.com/artist/4TrSbv2kNrPCesRNA6VAQd"
+        }
+      ],
+      "duration_ms": 142124,
+      "name": "Castles",
+      "url": "https://open.spotify.com/track/6C6oS04m1xXVFwStw9LGYq"
+    },
+    {
+      "added_at": "2024-06-17 13:21:55",
+      "album": {
+        "name": "Naughty",
+        "url": "https://open.spotify.com/album/5IWGUvSPVF8mnbfHyJ6s2a"
+      },
+      "artists": [
+        {
+          "name": "Tom Budin",
+          "url": "https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt"
+        },
+        {
+          "name": "Rydz",
+          "url": "https://open.spotify.com/artist/4WoYfeD73d5vx3UE0rsJnC"
+        }
+      ],
+      "duration_ms": 154173,
+      "name": "Naughty",
+      "url": "https://open.spotify.com/track/56HE8zzcJZAF3OZUgCBmQB"
+    },
+    {
+      "added_at": "2024-06-17 13:38:55",
+      "album": {
+        "name": "Be Alright",
+        "url": "https://open.spotify.com/album/17aGTPiN3LQHtjZuNDteyp"
+      },
+      "artists": [
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        },
+        {
+          "name": "HRRTZ",
+          "url": "https://open.spotify.com/artist/6VpuPMBN4oVa62K1wS9bGS"
+        }
+      ],
+      "duration_ms": 220645,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/2ezZt5y0mvIIm5ca7DVY2v"
     }
   ],
   "unique_name": "New Dance Music Friday",

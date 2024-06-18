@@ -1442,7 +1442,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 166153,
       "name": "Ana (A M\u00ed)",
       "url": "https://open.spotify.com/track/2j4lOCH0hUt8U3SFlBNzCW"
@@ -6520,7 +6520,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 215213,
       "name": "El Perdedor",
       "url": "https://open.spotify.com/track/27ze5t5tIDPlVits0KRbxT"
@@ -8437,6 +8437,28 @@
     },
     {
       "album": {
+        "name": "Survival Guide for Empaths",
+        "url": "https://open.spotify.com/album/7dzlDypn0atjSmwoVjQhMX"
+      },
+      "artists": [
+        {
+          "name": "Luis Raul Ramirez",
+          "url": "https://open.spotify.com/artist/661Mz2S6uVAIXgrLrtftEO"
+        },
+        {
+          "name": "Lola Samartino",
+          "url": "https://open.spotify.com/artist/3bMioOBNOsfUReKqzxjUB4"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213732,
+      "name": "Fuego Dorado, Fuego Azul",
+      "url": "https://open.spotify.com/track/17I0dBqEuJ74SffK2XUN0V"
+    },
+    {
+      "album": {
         "name": "@dannocean",
         "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
       },
@@ -9595,6 +9617,28 @@
     },
     {
       "album": {
+        "name": "How Low (Remix)",
+        "url": "https://open.spotify.com/album/5AjYtPDHP2PVgoS8urjLkW"
+      },
+      "artists": [
+        {
+          "name": "Kashcoming",
+          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182142,
+      "name": "How Low (Remix)",
+      "url": "https://open.spotify.com/track/2gJTSnswyu6WlFwFKO3qw2"
+    },
+    {
+      "album": {
         "name": "SEN2 KBRN VOL. 2",
         "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
       },
@@ -10748,7 +10792,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 219048,
       "name": "La Curiosidad",
       "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
@@ -11418,7 +11462,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 131000,
       "name": "LA VIDA BUENA",
       "url": "https://open.spotify.com/track/5izEV5M3JTCcD1xxSUPXIS"
@@ -15034,7 +15078,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 173991,
       "name": "Narcotics (with Bryant Myers)",
       "url": "https://open.spotify.com/track/18Eb38xeQJQxs0R3n3VBQa"
@@ -18068,7 +18112,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 185207,
       "name": "POR EL CONTRARIO (with Angela Aguilar & Leonardo Aguilar)",
       "url": "https://open.spotify.com/track/6VsqdsaY4oV06NODea0L0J"
@@ -18272,7 +18316,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 186455,
       "name": "Primera Cita",
       "url": "https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF"
@@ -25366,7 +25410,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 196363,
       "name": "WYA",
       "url": "https://open.spotify.com/track/5lCMDnVpGTuFC7YejgpTIF"

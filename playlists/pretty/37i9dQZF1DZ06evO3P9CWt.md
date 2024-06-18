@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 
 > This is Pabllo Vittar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,056 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,069 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 | 49 | [Culpa do Cupido](https://open.spotify.com/track/1eWxOQgPVk1u26JycDcm6T) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Noitada](https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO) | 1:42 |
 | 50 | [After \- Filipe Guerra Remix](https://open.spotify.com/track/0OglCVZmal9RN57WnbbfvE) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Filipe Guerra](https://open.spotify.com/artist/3R2KwUrWGyRCizQzFA9F1K) | [AFTER](https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ) | 4:28 |
 
-Snapshot ID: `ZmzZgAAAAABDDaBly+5ssJMMXe7fYf9u`
+Snapshot ID: `Zm4rAAAAAABfNhqGXDzaIDn6UiFiuB2B`

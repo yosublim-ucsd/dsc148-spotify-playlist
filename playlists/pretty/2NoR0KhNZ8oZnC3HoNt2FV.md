@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2NoR0KhNZ8oZnC3HoNt2FV.md) - [plain]
 
 > NEW ALBUM HARDSTONE PSYCHO
 
-[PlayStation®️](https://open.spotify.com/user/playstation_music) - 227,899 likes - 702 songs - 1 day 15 hr 37 min
+[PlayStation®️](https://open.spotify.com/user/playstation_music) - 227,902 likes - 702 songs - 1 day 15 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

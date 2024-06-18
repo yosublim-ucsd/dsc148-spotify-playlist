@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI?si=LtgPLGZVRcmz\_oLTOjdpjA"> Qendresa </a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,825 likes - 199 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,870 likes - 199 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > Get ready for Juneteenth with new music from Don Toliver, Normani, Tanner Adell, Khalid and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,183,756 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,185,315 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [She's Hot](https://open.spotify.com/track/5FDa2oOuhGQPCMhWhoSCty) | [ScarLip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ) | [She's Hot](https://open.spotify.com/album/2XFM7SGRSMPrgQkb8tLFBF) | 2:26 |
 | 100 | [Khumbaya](https://open.spotify.com/track/5Vs5kjcC3XFSS8FElfJjlE) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM) | [Khumbaya](https://open.spotify.com/album/5I4UG95wgJEAwbJomA6J3w) | 7:02 |
 
-Snapshot ID: `ZmvB+gAAAABmiHb9cTrnKaCGqgsoBHui`
+Snapshot ID: `ZnCmSwAAAAAFqinTIFMswsuvi/WeoJMJ`

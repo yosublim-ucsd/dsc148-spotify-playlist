@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Música brasileira fora da curva\. Foto: Adorável Clichê
 
-[Spotify](https://open.spotify.com/user/spotify) - 823,588 likes - 73 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 823,567 likes - 73 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

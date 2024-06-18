@@ -840,7 +840,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 239639,
       "name": "Can't Let Go",
       "url": "https://open.spotify.com/track/5CS3Y1sfMFXftNEKI5etxs"
@@ -1912,7 +1912,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 189090,
       "name": "Foreign Love",
       "url": "https://open.spotify.com/track/0tV8BcMH8Y2SxRVeNAqNMx"
@@ -1988,7 +1988,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 225245,
       "name": "Forget",
       "url": "https://open.spotify.com/track/3X39bUXqQDCzDGUjeMd82e"
@@ -2086,7 +2086,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 192000,
       "name": "free",
       "url": "https://open.spotify.com/track/3TyQK5VFsgW1oFsFilQpwJ"
@@ -2166,7 +2166,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 174428,
       "name": "FWTDJ (All Night Long)",
       "url": "https://open.spotify.com/track/5FyugvX0og6OA1s2NUBK6L"
@@ -2382,7 +2382,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 163464,
       "name": "Groove Express",
       "url": "https://open.spotify.com/track/5yas2BgdC0V4Krb6IrzDC3"
@@ -2400,7 +2400,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 200128,
       "name": "Hand on my heart",
       "url": "https://open.spotify.com/track/0ttpRUqY7S9LfMPnbZjrXq"
@@ -2506,6 +2506,24 @@
       "duration_ms": 185987,
       "name": "Her",
       "url": "https://open.spotify.com/track/16Vvd690cYoxmMvqaiTBwz"
+    },
+    {
+      "album": {
+        "name": "Hi Speed Lover",
+        "url": "https://open.spotify.com/album/23GrgqUMu7L1PIKMs5jaCH"
+      },
+      "artists": [
+        {
+          "name": "Airrica",
+          "url": "https://open.spotify.com/artist/57sPl5iWgq5t6AscVbMTOW"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188837,
+      "name": "Hi Speed Lover",
+      "url": "https://open.spotify.com/track/50DGpVgEzfhFApK43HWRLo"
     },
     {
       "album": {
@@ -2873,6 +2891,24 @@
     },
     {
       "album": {
+        "name": "I Will Find You",
+        "url": "https://open.spotify.com/album/1XxDcTMBN3ag8yHjusNpIv"
+      },
+      "artists": [
+        {
+          "name": "Mathame",
+          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209090,
+      "name": "I Will Find You",
+      "url": "https://open.spotify.com/track/74XpVeIclja8aFEtCQq1Y5"
+    },
+    {
+      "album": {
         "name": "S.L.F.",
         "url": "https://open.spotify.com/album/0rZMYFmZZYdm3nfilk1SvV"
       },
@@ -3155,6 +3191,24 @@
     },
     {
       "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/5yWgQgQfvVzrbd9P7rS00J"
+      },
+      "artists": [
+        {
+          "name": "1111",
+          "url": "https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212926,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/2oKFozpMCSlgRUgzI63TlZ"
+    },
+    {
+      "album": {
         "name": "La M\u00fasica Es Dios",
         "url": "https://open.spotify.com/album/1wfK31izFVK0tgw9SIiVLP"
       },
@@ -3421,6 +3475,24 @@
     },
     {
       "album": {
+        "name": "Like I Need U",
+        "url": "https://open.spotify.com/album/50QPHuRFKiJF5WnEMwr0W7"
+      },
+      "artists": [
+        {
+          "name": "BIIANCO",
+          "url": "https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Like I Need U",
+      "url": "https://open.spotify.com/track/51nw10yLvdtq9ASHgm1P42"
+    },
+    {
+      "album": {
         "name": "You've Got the Whole Night to Go",
         "url": "https://open.spotify.com/album/5xp8nj4Uji2Kr1nkm3CLFC"
       },
@@ -3515,6 +3587,36 @@
     },
     {
       "album": {
+        "name": "Look At My Body Pt. II (Feat. Shygirl) (INJI's Version)",
+        "url": "https://open.spotify.com/album/0XipBibG5KNqItsp4Q7sSA"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        },
+        {
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+        },
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Avedon",
+          "url": "https://open.spotify.com/artist/0wrXBaqXLjMAraipqAbPVY"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177742,
+      "name": "Look At My Body Pt. II (Feat. Shygirl) (INJI's Version)",
+      "url": "https://open.spotify.com/track/48BrwE2MttRwOTKL2Ph2Pe"
+    },
+    {
+      "album": {
         "name": "Look At You",
         "url": "https://open.spotify.com/album/2W5TS5U8FLi9O46FBTAzIn"
       },
@@ -3552,6 +3654,24 @@
       "duration_ms": 157590,
       "name": "Look Inside",
       "url": "https://open.spotify.com/track/2pku66IzwrTpu5MBIw2qUS"
+    },
+    {
+      "album": {
+        "name": "LOOKING FOR JOY",
+        "url": "https://open.spotify.com/album/3wCt9lFevXlCjEugo5LPlV"
+      },
+      "artists": [
+        {
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "LOOKING FOR JOY",
+      "url": "https://open.spotify.com/track/5EqfKJSbG8yQBicX9YRMKu"
     },
     {
       "album": {
@@ -3972,7 +4092,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 220393,
       "name": "Night Light",
       "url": "https://open.spotify.com/track/1enCBuY9q9TC44NDEjrxiK"
@@ -4265,6 +4385,28 @@
     },
     {
       "album": {
+        "name": "Planet Blue",
+        "url": "https://open.spotify.com/album/60JACgI9pZoolSzyl1yCTL"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "Cleo Simone",
+          "url": "https://open.spotify.com/artist/5J88KX5m3P3TxnoUo1h2Ne"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175414,
+      "name": "Planet Blue",
+      "url": "https://open.spotify.com/track/5MvfAqLuOzuJ46quLvHhwn"
+    },
+    {
+      "album": {
         "name": "Pleasure on My Mind",
         "url": "https://open.spotify.com/album/61kjqrcmAEAuNlIdBigDys"
       },
@@ -4334,6 +4476,24 @@
       "duration_ms": 202681,
       "name": "Power",
       "url": "https://open.spotify.com/track/5CGgG5sXmXFqhF35EnieyO"
+    },
+    {
+      "album": {
+        "name": "Pretoria",
+        "url": "https://open.spotify.com/album/05tbS23ZFVmITyuwgFWFvO"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207840,
+      "name": "Pretoria",
+      "url": "https://open.spotify.com/track/5ViijhC2983J1B8Bo1wbbo"
     },
     {
       "album": {
@@ -4620,7 +4780,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 171998,
       "name": "Rosa",
       "url": "https://open.spotify.com/track/2ThQHv5qNDg1QtNb3gFJv9"
@@ -4897,6 +5057,28 @@
     },
     {
       "album": {
+        "name": "side by side (feat. Empress Of) [rebirth]",
+        "url": "https://open.spotify.com/album/6crVJqqqNJekqNgp4FNp7u"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195293,
+      "name": "side by side (feat. Empress Of) [rebirth]",
+      "url": "https://open.spotify.com/track/2eBDPaRvjNs0Ek4fuFzOZx"
+    },
+    {
+      "album": {
         "name": "Single Kiss",
         "url": "https://open.spotify.com/album/4la24fDXi6Mvc0HMmHijhf"
       },
@@ -4970,6 +5152,24 @@
       "duration_ms": 186500,
       "name": "Space",
       "url": "https://open.spotify.com/track/12ngsrFgVmDoBrpRJZVbl9"
+    },
+    {
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1Kt1WTwr9aBh3MRk2xXzaV"
+      },
+      "artists": [
+        {
+          "name": "Callie Reiff",
+          "url": "https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125809,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/3vh0XSibnAhcCvF4JR6bEl"
     },
     {
       "album": {
@@ -5670,7 +5870,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 124710,
       "name": "Time - Edit",
       "url": "https://open.spotify.com/track/3VNoo8PUhcbWG0oxHcpeBs"

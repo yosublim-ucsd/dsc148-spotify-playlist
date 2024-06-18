@@ -1,12 +1,12 @@
 {
   "description": "This is AFI. The essential tracks, all in one playlist.",
-  "num_followers": 33205,
+  "num_followers": 33209,
   "original_name": "This Is AFI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmzZgAAAAADktYgUIMUMdMnis+f0V2Kq",
+  "snapshot_id": "Zm4rAAAAAADH5RkwY3l1urAkZRNOGrM7",
   "tracks": [
     {
       "added_at": null,
@@ -628,41 +628,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 102600,
-      "name": "Wake-Up Call",
-      "url": "https://open.spotify.com/track/7J1BMTiBm1qVyUycTGvo3X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shut Your Mouth And Open Your Eyes",
-        "url": "https://open.spotify.com/album/29vCfkN4H8HTljOKC2aKgB"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 58026,
-      "name": "Keeping Out Of Direct Sunlight (An Introduction)",
-      "url": "https://open.spotify.com/track/3BCOkZIixxoz478EDfVr1Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Sails In The Sunset",
-        "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 182693,
-      "name": "The Last Kiss",
-      "url": "https://open.spotify.com/track/6oDscaJdXFtRKk1G7cCcjf"
+      "duration_ms": 118800,
+      "name": "Perfect Fit",
+      "url": "https://open.spotify.com/track/4HZOxAJRr86gp0HmyiAUSB"
     },
     {
       "added_at": null,
@@ -683,6 +651,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Black Sails In The Sunset",
+        "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 182693,
+      "name": "The Last Kiss",
+      "url": "https://open.spotify.com/track/6oDscaJdXFtRKk1G7cCcjf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shut Your Mouth And Open Your Eyes",
+        "url": "https://open.spotify.com/album/29vCfkN4H8HTljOKC2aKgB"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 58026,
+      "name": "Keeping Out Of Direct Sunlight (An Introduction)",
+      "url": "https://open.spotify.com/track/3BCOkZIixxoz478EDfVr1Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Very Proud of Ya",
         "url": "https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a"
       },
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 118800,
-      "name": "Perfect Fit",
-      "url": "https://open.spotify.com/track/4HZOxAJRr86gp0HmyiAUSB"
+      "duration_ms": 102600,
+      "name": "Wake-Up Call",
+      "url": "https://open.spotify.com/track/7J1BMTiBm1qVyUycTGvo3X"
     },
     {
       "added_at": null,

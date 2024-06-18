@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapHi7gXtXo2.md) - [plain]
 
 > Dale play y déjate llevar por estas finas melodías Indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,871 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,881 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapHi7gXtXo2.md) - [plain]
 | 84 | [Tu Nombre](https://open.spotify.com/track/3mTDQM9PlZ3PJvROVjgwzq) | [Rayos Láser](https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs) | [Tu Nombre](https://open.spotify.com/album/5xMZupGDH5RJ6GLCoa6GqB) | 2:55 |
 | 85 | [Bajo la Lluvia 雨曝](https://open.spotify.com/track/6Dhfh7KXJeFd8CgXRXSxo9) | [Lo' Pibitos](https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL), [Greta Dumont](https://open.spotify.com/artist/7tv9QbpVwlv9mWG6Rt77Mk), [A.B.R.E.](https://open.spotify.com/artist/3the51I9ttPNpimr44pxCv) | [Bajo la Lluvia 雨曝](https://open.spotify.com/album/0Iyw9dVFeyy2BPgRzMpb0P) | 4:07 |
 | 86 | [Una Caricia](https://open.spotify.com/track/6CtLSYdM3TdVovUfwHtFur) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Una Caricia](https://open.spotify.com/album/3pLaIMdYteZIVFexcu8ViK) | 3:08 |
-| 87 | [Por qué te quiero tanto?](https://open.spotify.com/track/5gTFFnnIds7moFhePvYToE) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Por qué te quiero tanto?](https://open.spotify.com/album/2zzOpbnXDcj9myQf76Fcih) | 3:50 |
-| 88 | [El Milagro](https://open.spotify.com/track/60E01nbyLNShvaeVPr7Tic) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Milagro](https://open.spotify.com/album/4lY54ab6G5Ex4TPFxadXlh) | 3:38 |
+| 87 | [El Milagro](https://open.spotify.com/track/60E01nbyLNShvaeVPr7Tic) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Milagro](https://open.spotify.com/album/4lY54ab6G5Ex4TPFxadXlh) | 3:38 |
+| 88 | [Por qué te quiero tanto?](https://open.spotify.com/track/5gTFFnnIds7moFhePvYToE) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Por qué te quiero tanto?](https://open.spotify.com/album/2zzOpbnXDcj9myQf76Fcih) | 3:50 |
 | 89 | [Me da igual](https://open.spotify.com/track/5tKX6GZWGhMomV6H4xLIQf) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF), [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [Me da igual](https://open.spotify.com/album/3HIPYDTugzWUO0IIJ2lRzV) | 2:25 |
 | 90 | [Pinamar](https://open.spotify.com/track/6K98GWDNC9Q9Q28uhNjOCM) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Pinamar](https://open.spotify.com/album/5W7fMvZVn8kdy3imSF4C2k) | 2:59 |
 | 91 | [No Me Quiero Ir Lejos](https://open.spotify.com/track/15k3iMTXbJxZklLBcpIyrW) | [Zenon Pereyra](https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee) | [No Me Quiero Ir Lejos](https://open.spotify.com/album/5elperv2EKL8ktGacrJPcy) | 3:24 |

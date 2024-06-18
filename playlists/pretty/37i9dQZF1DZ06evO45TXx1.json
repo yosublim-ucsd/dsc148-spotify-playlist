@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
-  "num_followers": 8865,
+  "num_followers": 8877,
   "original_name": "This Is Mc Luanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmzZgAAAAABlEgKR/1MrZrfulC0izbCC",
+  "snapshot_id": "Zm4rAAAAAAC45soBwUKYoMRXoydTpb32",
   "tracks": [
     {
       "added_at": null,
@@ -235,30 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "44",
-        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Marcos Beatman",
-          "url": "https://open.spotify.com/artist/42VxOCKKlEXQ1kgDZBXnfk"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "44",
-      "url": "https://open.spotify.com/track/54Am9PMURLJ6NcJApP4l05"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Combate",
         "url": "https://open.spotify.com/album/4UNuBZQoxlSjx2bCI8kqfC"
       },
@@ -283,6 +259,30 @@
       "duration_ms": 190850,
       "name": "Combate",
       "url": "https://open.spotify.com/track/2LkRPTwqJ6PqoOKswBQkdp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "44",
+        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Marcos Beatman",
+          "url": "https://open.spotify.com/artist/42VxOCKKlEXQ1kgDZBXnfk"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "44",
+      "url": "https://open.spotify.com/track/54Am9PMURLJ6NcJApP4l05"
     },
     {
       "added_at": null,
@@ -343,26 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "44",
-        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Marcos Beatman",
-          "url": "https://open.spotify.com/artist/42VxOCKKlEXQ1kgDZBXnfk"
-        }
-      ],
-      "duration_ms": 196165,
-      "name": "Rotina",
-      "url": "https://open.spotify.com/track/5lnUkWihFa5guFzLi8y8Hb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maldita",
         "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 137553,
       "name": "Quem Jura Mente",
       "url": "https://open.spotify.com/track/2T9DdHrPsb40AecsOqCOJg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "44",
+        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Marcos Beatman",
+          "url": "https://open.spotify.com/artist/42VxOCKKlEXQ1kgDZBXnfk"
+        }
+      ],
+      "duration_ms": 196165,
+      "name": "Rotina",
+      "url": "https://open.spotify.com/track/5lnUkWihFa5guFzLi8y8Hb"
     },
     {
       "added_at": null,
@@ -483,26 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "44",
-        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 187350,
-      "name": "Maldita",
-      "url": "https://open.spotify.com/track/3MSsAKcyLjiMJz0Hq4kZos"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Set da Menorzinha 1.0",
         "url": "https://open.spotify.com/album/6eYWnseUbpgOGdYDFyzHBz"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 324986,
       "name": "Set da Menorzinha 1.0",
       "url": "https://open.spotify.com/track/4PIZkFECempgwhCiCGiTjO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "44",
+        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 187350,
+      "name": "Maldita",
+      "url": "https://open.spotify.com/track/3MSsAKcyLjiMJz0Hq4kZos"
     },
     {
       "added_at": null,
@@ -1279,30 +1279,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poder Aquisitivo",
-        "url": "https://open.spotify.com/album/2ESgnOBqnvfeceu4IWWxk2"
+        "name": "Pantera",
+        "url": "https://open.spotify.com/album/3NSdLNoPmrSGXbHTiFdXiX"
       },
       "artists": [
         {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+          "name": "Iza Sabino",
+          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
+        },
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "ONNiKA",
+          "url": "https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988"
         },
         {
           "name": "Mc Luanna",
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         },
         {
-          "name": "AnjO 005",
-          "url": "https://open.spotify.com/artist/4JNDTzpVfxrzffzbK2qVn3"
-        },
-        {
-          "name": "JIRAYA",
-          "url": "https://open.spotify.com/artist/66HNyGlf150V83GQlgwNgQ"
+          "name": "Su Madre Mandrake",
+          "url": "https://open.spotify.com/artist/1S1jcqQMtTQhQF1D2yhk4i"
         }
       ],
-      "duration_ms": 210048,
-      "name": "Poder Aquisitivo",
-      "url": "https://open.spotify.com/track/3HQO3UMEUBCFquwkkfW2FB"
+      "duration_ms": 246965,
+      "name": "Pantera",
+      "url": "https://open.spotify.com/track/4MmhgIjjLSo3BdLL9ZIucd"
     }
   ],
   "unique_name": "This Is Mc Luanna",

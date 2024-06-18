@@ -2,7 +2,7 @@
 
 ### [Pop Rock Latino](https://open.spotify.com/playlist/37i9dQZF1DWWmaH4Rc6HPY)
 
-> ¡Y regresaron las guitarras! Siddhartha en portada.
+> ¡Rock para cantar en todos lados! Siddhartha en portada.
 
 137 songs - 7 hr 31 min
 

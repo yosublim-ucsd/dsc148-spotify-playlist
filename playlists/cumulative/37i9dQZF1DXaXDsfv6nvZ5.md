@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-520 songs - 1 day 7 hr 34 min
+521 songs - 1 day 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,7 @@
 | [How Much Can A Heart Take \(feat\. Yebba\)](https://open.spotify.com/track/5SFssNXGjeOxdAnECfgttm) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Table For Two](https://open.spotify.com/album/0OPKA9Mrv6JFrTjC0KpvdT) | 5:02 | 2021-12-03 |  |
 | [Hrs & Hrs \(feat\. Usher\) \- Remix](https://open.spotify.com/track/5ZfQFxeeGGiKUmwzQBbGaV) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Hrs & Hrs \(Remix\)](https://open.spotify.com/album/29VQRaMV0FqhEsAPWQe95C) | 3:28 | 2023-06-23 | 2023-08-26 |
 | [Hurt A Little](https://open.spotify.com/track/34ICFY39nLDN42fbDCRJ1g) | [Kwabs](https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog) | [Hurt A Little](https://open.spotify.com/album/41ycEl7mRF6vZJIbAZRuBz) | 3:57 | 2022-09-23 | 2022-10-04 |
-| [I AM](https://open.spotify.com/track/4TKWbdarHEWUccmJBoUhMN) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [I AM](https://open.spotify.com/album/40PrY4yIuTxLyGGq2iyt1d) | 2:56 | 2024-05-17 |  |
+| [I AM](https://open.spotify.com/track/4TKWbdarHEWUccmJBoUhMN) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [I AM](https://open.spotify.com/album/40PrY4yIuTxLyGGq2iyt1d) | 2:56 | 2024-05-17 | 2024-06-18 |
 | [I Can Say To You \[Feat\. Vanisha Gould\] \- Single Edit](https://open.spotify.com/track/77QJgfFBYZQU0zXByezYGs) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP), [Vanisha Gould](https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag) | [I Can Say To You \[Feat\. Vanisha Gould\]](https://open.spotify.com/album/0cdH5hfYt9f70uLrkiSolC) | 3:37 | 2023-06-16 | 2024-01-11 |
 | [I Don't](https://open.spotify.com/track/4H8pWCScx463K7XJNwjdsn) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/4c74QJnuaNS0Le46LHrwfC) | 3:22 | 2024-02-09 |  |
 | [I Don't Like People](https://open.spotify.com/track/5IeqOmOd9DJsYS1hLm66iT) | [Aliah Sheffield](https://open.spotify.com/artist/6qQANHDxlpq5OEz47UBzMJ) | [These Songs Are For Anyone Sick Of Earth](https://open.spotify.com/album/5QA7U5txuoQ6JLwdqa6J4j) | 3:16 | 2023-10-27 | 2024-01-15 |
@@ -351,6 +351,7 @@
 | [Only You](https://open.spotify.com/track/4AvOXTQ2semU5FAmtl8vtk) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Only You](https://open.spotify.com/album/3rdIkWOlV1MfsZ5qmQ7Us5) | 3:14 | 2021-12-03 | 2022-07-29 |
 | [Only You](https://open.spotify.com/track/5MUvzjJ2XXvPZq3KU6znpP) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Rare Changes](https://open.spotify.com/album/7pue5cbfa0TUgCUth2KFr8) | 3:14 | 2022-03-11 | 2023-03-29 |
 | [ONLY\-1](https://open.spotify.com/track/38N8M1Zr80OELCoPelAUBP) | [DIXSON](https://open.spotify.com/artist/61677A13kBwbTfqECI65p8) | [004DAISY](https://open.spotify.com/album/24e0sHcaegLydaqZGRwJ1e) | 3:38 | 2022-09-16 | 2022-11-11 |
+| [OOTW](https://open.spotify.com/track/39POBulxadsYQ7hQgni7Z4) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [OOTW](https://open.spotify.com/album/3dKsoVM86jYYP7AHEN3qDX) | 2:19 | 2024-06-14 |  |
 | [outta space](https://open.spotify.com/track/1n2RjkM9T4ijiM4idyEQSM) | [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [FRANCIS](https://open.spotify.com/album/4tIEFaeXJpNVw53d4AJwBs) | 3:12 | 2024-06-07 |  |
 | [Palace](https://open.spotify.com/track/3vkgn6CpM3UHEjyCrFj73C) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Palace](https://open.spotify.com/album/7DAjdbPM5XfV7zSVnxUGcO) | 2:32 | 2023-03-24 | 2023-06-16 |
 | [Pantone 17 13 30](https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y1](https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM) | 3:06 | 2022-03-11 | 2023-04-14 |

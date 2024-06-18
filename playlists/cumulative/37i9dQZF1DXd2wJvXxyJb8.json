@@ -7080,7 +7080,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 163141,
       "name": "Pix ou Presente",
       "url": "https://open.spotify.com/track/2bwEs5CP234z3SaQkqVLEL"
@@ -8341,6 +8341,40 @@
     },
     {
       "album": {
+        "name": "The Box Medley Funk",
+        "url": "https://open.spotify.com/album/2fMZBQingxx3s1vYlfdiWf"
+      },
+      "artists": [
+        {
+          "name": "THE BOX",
+          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Mc Ruzika",
+          "url": "https://open.spotify.com/artist/1Lnkg5HIiYBd5szvhLVnEO"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310588,
+      "name": "The Box Medley Funk",
+      "url": "https://open.spotify.com/track/46qHgbF1rORAXzwzSU5vbt"
+    },
+    {
+      "album": {
         "name": "THE BOX MEDLEY FUNK 2",
         "url": "https://open.spotify.com/album/0dW6ozKchun19vdN4BSIUy"
       },
@@ -9122,7 +9156,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-18",
       "duration_ms": 159276,
       "name": "Vem Morenin",
       "url": "https://open.spotify.com/track/58KvJ4I2QMhLcRBnkBam2M"
@@ -9398,6 +9432,32 @@
       "duration_ms": 105461,
       "name": "Vou Morar no Cabar\u00e9",
       "url": "https://open.spotify.com/track/4ewVY1OIA2ud9D58zjD7Ll"
+    },
+    {
+      "album": {
+        "name": "Vou Passar Gelinho",
+        "url": "https://open.spotify.com/album/1oSR4ze0V0iwLUCit4oGfY"
+      },
+      "artists": [
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        },
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        },
+        {
+          "name": "DG e Batid\u00e3o Stronda",
+          "url": "https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ"
+        }
+      ],
+      "date_added": "2024-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Vou Passar Gelinho",
+      "url": "https://open.spotify.com/track/2BfDOZLtOL79e6L6QphWlS"
     },
     {
       "album": {

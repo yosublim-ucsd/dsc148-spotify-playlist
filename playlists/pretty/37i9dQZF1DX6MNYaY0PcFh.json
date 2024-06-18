@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 78168,
+  "num_followers": 78200,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-05-31 07:23:34",
       "album": {
-        "name": "Take Me High",
-        "url": "https://open.spotify.com/album/3yKCs4UE4ajRa8lfU8hyGp"
-      },
-      "artists": [
-        {
-          "name": "TS7",
-          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
-        }
-      ],
-      "duration_ms": 161715,
-      "name": "Take Me High",
-      "url": "https://open.spotify.com/track/7aNEcFmD4lkBX0UjgTmzG1"
-    },
-    {
-      "added_at": "2024-05-31 07:23:34",
-      "album": {
         "name": "Pretty Little Raver",
         "url": "https://open.spotify.com/album/5EMbeN8ZYxnlEcTQiLveUk"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 143478,
       "name": "Pretty Little Raver",
       "url": "https://open.spotify.com/track/4Ppdt9mETYFVcN1lQJHEJA"
+    },
+    {
+      "added_at": "2024-05-31 07:23:34",
+      "album": {
+        "name": "Take Me High",
+        "url": "https://open.spotify.com/album/3yKCs4UE4ajRa8lfU8hyGp"
+      },
+      "artists": [
+        {
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        }
+      ],
+      "duration_ms": 161715,
+      "name": "Take Me High",
+      "url": "https://open.spotify.com/track/7aNEcFmD4lkBX0UjgTmzG1"
     },
     {
       "added_at": "2024-05-31 07:23:34",
@@ -723,26 +723,6 @@
     {
       "added_at": "2024-05-31 07:23:34",
       "album": {
-        "name": "Think Twice",
-        "url": "https://open.spotify.com/album/1j9JM0DbhwWEcB9ZrZuz4a"
-      },
-      "artists": [
-        {
-          "name": "Higgo",
-          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
-        },
-        {
-          "name": "piri",
-          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
-        }
-      ],
-      "duration_ms": 178295,
-      "name": "Think Twice",
-      "url": "https://open.spotify.com/track/0DiovsXls6yfe3Jyc9EDH5"
-    },
-    {
-      "added_at": "2024-05-31 07:23:34",
-      "album": {
         "name": "Bringing Me Joy",
         "url": "https://open.spotify.com/album/20eEvuzhzYC6tEYEIwix2m"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 180920,
       "name": "Bringing Me Joy",
       "url": "https://open.spotify.com/track/3Tbuy3xoK5dS5tvUZ2kDpi"
+    },
+    {
+      "added_at": "2024-05-31 07:23:34",
+      "album": {
+        "name": "Think Twice",
+        "url": "https://open.spotify.com/album/1j9JM0DbhwWEcB9ZrZuz4a"
+      },
+      "artists": [
+        {
+          "name": "Higgo",
+          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
+        },
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        }
+      ],
+      "duration_ms": 178295,
+      "name": "Think Twice",
+      "url": "https://open.spotify.com/track/0DiovsXls6yfe3Jyc9EDH5"
     },
     {
       "added_at": "2024-05-31 07:23:34",

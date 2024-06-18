@@ -1,6 +1,6 @@
 {
   "description": "Big rooms and big sounds. Cover: Hardwell",
-  "num_followers": 522928,
+  "num_followers": 523138,
   "original_name": "Big Room Dance",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Dance Therapy",
+        "url": "https://open.spotify.com/album/12V052Mk8ocjWz8LW5lpaa"
+      },
+      "artists": [
+        {
+          "name": "SP3CTRUM",
+          "url": "https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN"
+        }
+      ],
+      "duration_ms": 125058,
+      "name": "Dance Therapy",
+      "url": "https://open.spotify.com/track/5xrz1b5HGjX4a8eVdKnBfc"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Adrenalina (Minha Gasolina)",
         "url": "https://open.spotify.com/album/4KrUxvKkI2xRKnaBZhf0SZ"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 180845,
       "name": "Adrenalina (Minha Gasolina)",
       "url": "https://open.spotify.com/track/04KNQ19sU4QfARgavVEiNR"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Dance Therapy",
-        "url": "https://open.spotify.com/album/12V052Mk8ocjWz8LW5lpaa"
-      },
-      "artists": [
-        {
-          "name": "SP3CTRUM",
-          "url": "https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN"
-        }
-      ],
-      "duration_ms": 125058,
-      "name": "Dance Therapy",
-      "url": "https://open.spotify.com/track/5xrz1b5HGjX4a8eVdKnBfc"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1487,6 +1487,26 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/4XCFFpSnvapubSs8rUcrkp"
+      },
+      "artists": [
+        {
+          "name": "NGD Project",
+          "url": "https://open.spotify.com/artist/43ljqQ6a2nZ0VVjv3ocf9q"
+        },
+        {
+          "name": "Steeper",
+          "url": "https://open.spotify.com/artist/2uTLykyg4Wk5zBw3Xttmsh"
+        }
+      ],
+      "duration_ms": 169333,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/7vvNxVTviMy2dwIhaziOab"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Being Alone",
         "url": "https://open.spotify.com/album/2vfIWuuqhMmZHM1sAr8ewo"
       },
@@ -1507,26 +1527,6 @@
       "duration_ms": 168358,
       "name": "Being Alone",
       "url": "https://open.spotify.com/track/0LkhrxxLxmitdXcSr7wfMQ"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Take Me Back",
-        "url": "https://open.spotify.com/album/4XCFFpSnvapubSs8rUcrkp"
-      },
-      "artists": [
-        {
-          "name": "NGD Project",
-          "url": "https://open.spotify.com/artist/43ljqQ6a2nZ0VVjv3ocf9q"
-        },
-        {
-          "name": "Steeper",
-          "url": "https://open.spotify.com/artist/2uTLykyg4Wk5zBw3Xttmsh"
-        }
-      ],
-      "duration_ms": 169333,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/7vvNxVTviMy2dwIhaziOab"
     },
     {
       "added_at": "2024-06-13 22:00:00",

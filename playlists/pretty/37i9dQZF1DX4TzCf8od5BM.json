@@ -1,13 +1,33 @@
 {
   "description": "Sing-along with your favorite songs from Disney Junior shows including new music from Ariel.",
-  "num_followers": 56396,
+  "num_followers": 56405,
   "original_name": "Disney Junior Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZllLQAAAAADOrhvOmbOWuYk0hXOtxY2c",
+  "snapshot_id": "ZnCbgQAAAACPpuWvwTNcgzlOiNfNWRVH",
   "tracks": [
+    {
+      "added_at": "2024-06-17 20:24:33",
+      "album": {
+        "name": "Marvel's Spidey and His Amazing Friends - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/28PAtOT7ctTLu3na2oc2E2"
+      },
+      "artists": [
+        {
+          "name": "Patrick Stump",
+          "url": "https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "duration_ms": 130261,
+      "name": "Do the Spidey",
+      "url": "https://open.spotify.com/track/57bon7PWZgGOCLedjHZxIB"
+    },
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {

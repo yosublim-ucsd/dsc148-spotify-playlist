@@ -1,13 +1,69 @@
 {
   "description": "\u2728\u2764\ufe0f\ud83c\udf39Para Rocanlovers ",
-  "num_followers": 134939,
+  "num_followers": 134974,
   "original_name": "Brillas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlAs4AAAAADecL/xIz40lmS1YFkMMUO6",
+  "snapshot_id": "ZnBYQgAAAADLH51bZwr5WG7bZAun7yGq",
   "tracks": [
+    {
+      "added_at": "2024-06-17 15:37:38",
+      "album": {
+        "name": "Miel de Azar",
+        "url": "https://open.spotify.com/album/1qpILF6cHlPJzUOvZfdIma"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        }
+      ],
+      "duration_ms": 192197,
+      "name": "Como Queremos",
+      "url": "https://open.spotify.com/track/0Zcd8XxgKeRNQAUIpsHr7c"
+    },
+    {
+      "added_at": "2024-05-24 06:00:00",
+      "album": {
+        "name": "Diamantes",
+        "url": "https://open.spotify.com/album/2Yyxl3sTrmwzr0IAtI1nl8"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        },
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 243234,
+      "name": "Diamantes",
+      "url": "https://open.spotify.com/track/4UNnkCN1QCJsmFFZOYeBdp"
+    },
+    {
+      "added_at": "2024-06-17 15:37:38",
+      "album": {
+        "name": "Mi + 1",
+        "url": "https://open.spotify.com/album/6zNItkFIgiGd0ZK35jt6fM"
+      },
+      "artists": [
+        {
+          "name": "Noan",
+          "url": "https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM"
+        },
+        {
+          "name": "Sofia Ellar",
+          "url": "https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "Mi + 1",
+      "url": "https://open.spotify.com/track/7vr6sOiAkiDVteYSmg5FNU"
+    },
     {
       "added_at": "2024-05-24 06:00:00",
       "album": {
@@ -43,26 +99,6 @@
       "duration_ms": 298133,
       "name": "Once",
       "url": "https://open.spotify.com/track/1y526sUKDGQNlxTHaNS1Qn"
-    },
-    {
-      "added_at": "2024-05-24 06:00:00",
-      "album": {
-        "name": "Diamantes",
-        "url": "https://open.spotify.com/album/2Yyxl3sTrmwzr0IAtI1nl8"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        },
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 243234,
-      "name": "Diamantes",
-      "url": "https://open.spotify.com/track/4UNnkCN1QCJsmFFZOYeBdp"
     },
     {
       "added_at": "2024-05-24 06:00:00",
@@ -1587,38 +1623,6 @@
       "duration_ms": 247080,
       "name": "Fake News",
       "url": "https://open.spotify.com/track/6mzfxrGB40oY442Pc5SW6t"
-    },
-    {
-      "added_at": "2024-05-24 06:00:00",
-      "album": {
-        "name": "El grito",
-        "url": "https://open.spotify.com/album/4X7CJxDX5KU5taf312VW4U"
-      },
-      "artists": [
-        {
-          "name": "Mikel Izal",
-          "url": "https://open.spotify.com/artist/4H3BAAfpEcLHQkaQKfvoW8"
-        }
-      ],
-      "duration_ms": 280546,
-      "name": "El grito",
-      "url": "https://open.spotify.com/track/1dQuJZVVlSTiFmiKveWNc8"
-    },
-    {
-      "added_at": "2024-05-24 06:00:00",
-      "album": {
-        "name": "La Llamada",
-        "url": "https://open.spotify.com/album/7HKAzGH5Lo7v2WYRIAuZDt"
-      },
-      "artists": [
-        {
-          "name": "Crist\u00f3bal Brice\u00f1o",
-          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
-        }
-      ],
-      "duration_ms": 249508,
-      "name": "La Llamada",
-      "url": "https://open.spotify.com/track/7LDc6HR0Z2wvcPmlH3zvAG"
     },
     {
       "added_at": "2024-05-24 06:00:00",

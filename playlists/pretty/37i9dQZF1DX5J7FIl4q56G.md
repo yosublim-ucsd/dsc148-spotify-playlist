@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new tracks in metal, hard rock, and all things heavy\. Cover: The Black Dahlia Murder
 
-[Spotify](https://open.spotify.com/user/spotify) - 714,293 likes - 64 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 714,349 likes - 64 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 48 | [Vega](https://open.spotify.com/track/0zMh0D6VYEshmzph15ZQug) | [Dagoba](https://open.spotify.com/artist/1iZlQG09PwkMVMumsvgFj4) | [Different Breed](https://open.spotify.com/album/3o91aTE4yBihPBEkDukfSH) | 4:28 |
 | 49 | [Sort Sommer](https://open.spotify.com/track/4XqiGdFGZ88BXhNGovcUwb) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [FABRÄK](https://open.spotify.com/artist/1EhjKyONmOvWHQuGANLcU8) | [Sort Sommer](https://open.spotify.com/album/5jdUeAqwzHL2EoscFAUeJN) | 2:52 |
 | 50 | [Fragmented Reality](https://open.spotify.com/track/2fymWNJiuATlCZN7iAy4za) | [Malodorous](https://open.spotify.com/artist/7MdSet04aYpDYpSbdQskc7), [Devin Swank](https://open.spotify.com/artist/0cn1OcNDxmXsMCD4WmejWJ), [Sanguisugabogg](https://open.spotify.com/artist/0n98EIfTSiyxUZHUojHykN) | [Fragmented Reality](https://open.spotify.com/album/03Moe5xCTH5pKVFYkxbvnf) | 2:31 |
-| 51 | [Slippy Slide](https://open.spotify.com/track/3QHYl4qlmmyGqB604TG4UC) | [LARCɆNIA ROɆ](https://open.spotify.com/artist/7I4UbCV9XZSHR24cyJcUy4) | [Dereliction](https://open.spotify.com/album/6D4VnWpMHZQB4GGNYckhZU) | 4:07 |
+| 51 | [SLIPPY SLIDE](https://open.spotify.com/track/3QHYl4qlmmyGqB604TG4UC) | [LARCɆNIA ROɆ](https://open.spotify.com/artist/7I4UbCV9XZSHR24cyJcUy4) | [Dereliction](https://open.spotify.com/album/6D4VnWpMHZQB4GGNYckhZU) | 4:07 |
 | 52 | [Ancillary Biorhythms](https://open.spotify.com/track/7IA2kMpQXzgmgIYDCSZLK3) | [Malignancy](https://open.spotify.com/artist/4ypzf3n2YDMIj41Y2WVHYW) | [Discontinued](https://open.spotify.com/album/3G9olbN6zKBK2VKx13xAe5) | 4:26 |
 | 53 | [Insurrection](https://open.spotify.com/track/0qhkN1Ko2suZeGeBOTZVof) | [Seth](https://open.spotify.com/artist/0mZohnzbCiVv54VIEA6Wb7) | [Insurrection](https://open.spotify.com/album/2Ufj515u5g83WOq9shCaTI) | 7:33 |
 | 54 | [Frvst](https://open.spotify.com/track/1jjjjubZ6PMuoJexEy82DA) | [Consvmer](https://open.spotify.com/artist/1kJPCB066I6xZNqadwZx9C), [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Frvst](https://open.spotify.com/album/73fgc0bIk0N7jumKsQVwYY) | 4:21 |

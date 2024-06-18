@@ -1,6 +1,6 @@
 {
   "description": "Recent smashes from your favorite Christian Contemporary artists.  Cover: Seph Schlueter",
-  "num_followers": 615725,
+  "num_followers": 615971,
   "original_name": "Christian Mix",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Chain Breaker (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1SIDIEoYi0EAlRqa1J6J7N"
-      },
-      "artists": [
-        {
-          "name": "Zach Williams",
-          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
-        }
-      ],
-      "duration_ms": 196466,
-      "name": "Chain Breaker",
-      "url": "https://open.spotify.com/track/17GmwQ9Q3MTAz05OokmNNB"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Holy Water",
         "url": "https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 242666,
       "name": "Holy Water",
       "url": "https://open.spotify.com/track/6zb0RH9FmYB8Ronad1uK02"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Chain Breaker (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1SIDIEoYi0EAlRqa1J6J7N"
+      },
+      "artists": [
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        }
+      ],
+      "duration_ms": 196466,
+      "name": "Chain Breaker",
+      "url": "https://open.spotify.com/track/17GmwQ9Q3MTAz05OokmNNB"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Mosaic",
-        "url": "https://open.spotify.com/album/6GrkIwOfxUre3FUx2VxC9G"
-      },
-      "artists": [
-        {
-          "name": "Ryan Stevenson",
-          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
-        }
-      ],
-      "duration_ms": 202046,
-      "name": "Mosaic",
-      "url": "https://open.spotify.com/track/0X6TnTL38BfDHGgZUWfRfo"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Holy Water",
         "url": "https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf"
       },
@@ -543,8 +527,24 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "My God Is Still The Same",
-        "url": "https://open.spotify.com/album/5YFrFIwYuNxdYIA0I0qFy1"
+        "name": "Mosaic",
+        "url": "https://open.spotify.com/album/6GrkIwOfxUre3FUx2VxC9G"
+      },
+      "artists": [
+        {
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        }
+      ],
+      "duration_ms": 202046,
+      "name": "Mosaic",
+      "url": "https://open.spotify.com/track/0X6TnTL38BfDHGgZUWfRfo"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Changed",
+        "url": "https://open.spotify.com/album/1GGV9IZO83uLgRE0VYx0dx"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
         }
       ],
-      "duration_ms": 205146,
-      "name": "My God Is Still The Same",
-      "url": "https://open.spotify.com/track/18QN5s8wxFP61qsKPLiBue"
+      "duration_ms": 181733,
+      "name": "Confidence",
+      "url": "https://open.spotify.com/track/6sToW2vF0y8ZEXuHoMQob9"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -639,6 +639,30 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Canyon",
+        "url": "https://open.spotify.com/album/7Hbyzqec8Ls87yM0J7xCaQ"
+      },
+      "artists": [
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        },
+        {
+          "name": "Bear Rinehart",
+          "url": "https://open.spotify.com/artist/1TlTGJuzfnndWJDNxnODzh"
+        },
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 211066,
+      "name": "Sweet Ever After (feat. Bear Rinehart of NEEDTOBREATHE)",
+      "url": "https://open.spotify.com/track/0zdLZywwUVyg8xnzzxgDBP"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Brand New",
         "url": "https://open.spotify.com/album/6nPwC5S0XRCvhvnsinAOoi"
       },
@@ -671,32 +695,8 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Canyon",
-        "url": "https://open.spotify.com/album/7Hbyzqec8Ls87yM0J7xCaQ"
-      },
-      "artists": [
-        {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
-        },
-        {
-          "name": "Bear Rinehart",
-          "url": "https://open.spotify.com/artist/1TlTGJuzfnndWJDNxnODzh"
-        },
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 211066,
-      "name": "Sweet Ever After (feat. Bear Rinehart of NEEDTOBREATHE)",
-      "url": "https://open.spotify.com/track/0zdLZywwUVyg8xnzzxgDBP"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Changed",
-        "url": "https://open.spotify.com/album/1GGV9IZO83uLgRE0VYx0dx"
+        "name": "My God Is Still The Same",
+        "url": "https://open.spotify.com/album/5YFrFIwYuNxdYIA0I0qFy1"
       },
       "artists": [
         {
@@ -704,25 +704,9 @@
           "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
         }
       ],
-      "duration_ms": 181733,
-      "name": "Confidence",
-      "url": "https://open.spotify.com/track/6sToW2vF0y8ZEXuHoMQob9"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Milk & Honey",
-        "url": "https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD"
-      },
-      "artists": [
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        }
-      ],
-      "duration_ms": 179366,
-      "name": "In The House",
-      "url": "https://open.spotify.com/track/1brFXt3k8dja9jXkiAY4ky"
+      "duration_ms": 205146,
+      "name": "My God Is Still The Same",
+      "url": "https://open.spotify.com/track/18QN5s8wxFP61qsKPLiBue"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -739,6 +723,22 @@
       "duration_ms": 275560,
       "name": "Multiplied",
       "url": "https://open.spotify.com/track/4zgO1SgXOeFmr6Hno9DLs4"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Milk & Honey",
+        "url": "https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "duration_ms": 179366,
+      "name": "In The House",
+      "url": "https://open.spotify.com/track/1brFXt3k8dja9jXkiAY4ky"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Keep Me In The Moment (Radio Version)",
-        "url": "https://open.spotify.com/album/3oqTEcAfMzfN861Fearp4G"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
-        }
-      ],
-      "duration_ms": 207432,
-      "name": "Keep Me In The Moment - Radio Version",
-      "url": "https://open.spotify.com/track/2c87x3mBYuffK4ihylVwAG"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Burn The Ships",
         "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 227013,
       "name": "Amen",
       "url": "https://open.spotify.com/track/5aHZnvy8EqhViyoJo971Wy"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Keep Me In The Moment (Radio Version)",
+        "url": "https://open.spotify.com/album/3oqTEcAfMzfN861Fearp4G"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "duration_ms": 207432,
+      "name": "Keep Me In The Moment - Radio Version",
+      "url": "https://open.spotify.com/track/2c87x3mBYuffK4ihylVwAG"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1011,22 +1011,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "I Know A Ghost",
-        "url": "https://open.spotify.com/album/7JiKelPfVrHUCRNsu6k9lq"
+        "name": "Citizen of Heaven",
+        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
       },
       "artists": [
         {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        },
-        {
-          "name": "Mandisa",
-          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
         }
       ],
-      "duration_ms": 209840,
-      "name": "Let It Rain (Is There Anybody)",
-      "url": "https://open.spotify.com/track/3Rf7ZckSUqSffVhHmiwOde"
+      "duration_ms": 210697,
+      "name": "Like You Love Me",
+      "url": "https://open.spotify.com/track/33bqWsuJvnjTgAYr8DMadN"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1047,18 +1043,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Citizen of Heaven",
-        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
+        "name": "I Know A Ghost",
+        "url": "https://open.spotify.com/album/7JiKelPfVrHUCRNsu6k9lq"
       },
       "artists": [
         {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        },
+        {
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
         }
       ],
-      "duration_ms": 210697,
-      "name": "Like You Love Me",
-      "url": "https://open.spotify.com/track/33bqWsuJvnjTgAYr8DMadN"
+      "duration_ms": 209840,
+      "name": "Let It Rain (Is There Anybody)",
+      "url": "https://open.spotify.com/track/3Rf7ZckSUqSffVhHmiwOde"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Into The Mystery",
-        "url": "https://open.spotify.com/album/2vDmR7Be0zQwcxDnHAqe5X"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 276574,
-      "name": "I Am Yours",
-      "url": "https://open.spotify.com/track/5nUzRHDvRYqRcOlVWg67Di"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Rise Up (Lazarus)",
         "url": "https://open.spotify.com/album/6YY0P901PKubs9nGoysyiZ"
       },
@@ -1555,6 +1539,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Into The Mystery",
+        "url": "https://open.spotify.com/album/2vDmR7Be0zQwcxDnHAqe5X"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 276574,
+      "name": "I Am Yours",
+      "url": "https://open.spotify.com/track/5nUzRHDvRYqRcOlVWg67Di"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Psalms, Hymns, and Spiritual Songs, Vol. 1",
         "url": "https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf"
       },
@@ -1567,22 +1567,6 @@
       "duration_ms": 225506,
       "name": "Living Water",
       "url": "https://open.spotify.com/track/6TyyGSk69X8S922AF5L4qE"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Made to Fly",
-        "url": "https://open.spotify.com/album/16ugRESDhHdmmc3xxakT7c"
-      },
-      "artists": [
-        {
-          "name": "Colton Dixon",
-          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
-        }
-      ],
-      "duration_ms": 224910,
-      "name": "Made to Fly",
-      "url": "https://open.spotify.com/track/01ynxhBoTGfbPtsVg2G0Fs"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1603,18 +1587,42 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Prize Worth Fighting For",
-        "url": "https://open.spotify.com/album/6uPgUZqPIUQEMjBrJhuCRo"
+        "name": "Made to Fly",
+        "url": "https://open.spotify.com/album/16ugRESDhHdmmc3xxakT7c"
       },
       "artists": [
         {
-          "name": "Jamie Kimmett",
-          "url": "https://open.spotify.com/artist/6149cbbptDgml1rjD0qOUG"
+          "name": "Colton Dixon",
+          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
         }
       ],
-      "duration_ms": 200520,
-      "name": "Prize Worth Fighting For",
-      "url": "https://open.spotify.com/track/5KjFzc5Q0aI6rFju3lSIBy"
+      "duration_ms": 224910,
+      "name": "Made to Fly",
+      "url": "https://open.spotify.com/track/01ynxhBoTGfbPtsVg2G0Fs"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Waymaker",
+        "url": "https://open.spotify.com/album/0Xv81CmkDCoZMhs4M1VYdS"
+      },
+      "artists": [
+        {
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+        },
+        {
+          "name": "Vanessa Campagna",
+          "url": "https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM"
+        },
+        {
+          "name": "Madelyn Berry",
+          "url": "https://open.spotify.com/artist/0BQdLOsJd5icawEym8uBp0"
+        }
+      ],
+      "duration_ms": 437131,
+      "name": "Waymaker",
+      "url": "https://open.spotify.com/track/1Qs9gwjN6QhZ2abozDOQTC"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1655,26 +1663,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Waymaker",
-        "url": "https://open.spotify.com/album/0Xv81CmkDCoZMhs4M1VYdS"
+        "name": "Prize Worth Fighting For",
+        "url": "https://open.spotify.com/album/6uPgUZqPIUQEMjBrJhuCRo"
       },
       "artists": [
         {
-          "name": "Michael W. Smith",
-          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
-        },
-        {
-          "name": "Vanessa Campagna",
-          "url": "https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM"
-        },
-        {
-          "name": "Madelyn Berry",
-          "url": "https://open.spotify.com/artist/0BQdLOsJd5icawEym8uBp0"
+          "name": "Jamie Kimmett",
+          "url": "https://open.spotify.com/artist/6149cbbptDgml1rjD0qOUG"
         }
       ],
-      "duration_ms": 437131,
-      "name": "Waymaker",
-      "url": "https://open.spotify.com/track/1Qs9gwjN6QhZ2abozDOQTC"
+      "duration_ms": 200520,
+      "name": "Prize Worth Fighting For",
+      "url": "https://open.spotify.com/track/5KjFzc5Q0aI6rFju3lSIBy"
     },
     {
       "added_at": "2024-05-24 04:00:00",

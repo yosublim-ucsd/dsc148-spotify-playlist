@@ -1,12 +1,12 @@
 {
   "description": "New music from your favourite hip-hop artists, updated weekly! Featuring Eminem, Drake, Kendrick Lamar, GloRilla and more! Sign up <a href=\"https://forms.umusic-online.com/forms/-MymKGNlc3qqAKkFa_Hi\">here</a> for exclusives, merch &amp; more!",
-  "num_followers": 23444,
+  "num_followers": 23442,
   "original_name": "Hip-Hop Pulse",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAgoR3e/YCzlUvI8QghgtCt2aDUsvsL",
+  "snapshot_id": "AAAgojIKL1DjXKYbasfX+AXBeWt1k2wa",
   "tracks": [
     {
       "added_at": "2024-06-14 13:14:47",
@@ -1611,6 +1611,30 @@
       "duration_ms": 205287,
       "name": "Shame On The Devil",
       "url": "https://open.spotify.com/track/6nEikEkWTXZ4SiZvUOAqND"
+    },
+    {
+      "added_at": "2024-06-17 14:40:27",
+      "album": {
+        "name": "HOT ONE (with TiaCorine & A$AP Ferg)",
+        "url": "https://open.spotify.com/album/4T64HQK7hobpqtvq8284zI"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+        },
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        }
+      ],
+      "duration_ms": 165270,
+      "name": "HOT ONE (with TiaCorine & A$AP Ferg)",
+      "url": "https://open.spotify.com/track/083HuPvgqYBLUiv82bVxwE"
     }
   ],
   "unique_name": "Hip-Hop Pulse",
