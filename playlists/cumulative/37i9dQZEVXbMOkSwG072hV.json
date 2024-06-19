@@ -5903,6 +5903,24 @@
     },
     {
       "album": {
+        "name": "Beat do Beto",
+        "url": "https://open.spotify.com/album/43qpj41FAEczdPFh9AFcRJ"
+      },
+      "artists": [
+        {
+          "name": "oCastrin",
+          "url": "https://open.spotify.com/artist/25mlpAi2lpDt0TkLZSl7BN"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116692,
+      "name": "Beat do Beto",
+      "url": "https://open.spotify.com/track/1CcfQytaeb9XE4QalKHJG4"
+    },
+    {
+      "album": {
         "name": "Beat L\u00e1zaro Talarico 2",
         "url": "https://open.spotify.com/album/0Y1B6MM3sLJ02Eof8b7l4Z"
       },
@@ -6612,7 +6630,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 343120,
       "name": "BLUE",
       "url": "https://open.spotify.com/track/2prqm9sPLj10B4Wg0wE5x9"
@@ -8280,6 +8298,24 @@
       "duration_ms": 193480,
       "name": "CANDY",
       "url": "https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb"
+    },
+    {
+      "album": {
+        "name": "DOPAMINE",
+        "url": "https://open.spotify.com/album/1XSUdSojWNJCgNqKNxfcVr"
+      },
+      "artists": [
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170761,
+      "name": "Candy Paint",
+      "url": "https://open.spotify.com/track/3vgFnL1k9NC9oZYdooQoHE"
     },
     {
       "album": {
@@ -10680,7 +10716,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 172613,
       "name": "Crina Negra",
       "url": "https://open.spotify.com/track/4W1PrnmuzeY1EmJZlDj5lt"
@@ -14977,6 +15013,28 @@
     },
     {
       "album": {
+        "name": "OPROPRIO",
+        "url": "https://open.spotify.com/album/0b2iLDXb2gs0jRk4Vj7jlR"
+      },
+      "artists": [
+        {
+          "name": "Yago Oproprio",
+          "url": "https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497"
+        },
+        {
+          "name": "Patricio Sid",
+          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "Enigma",
+      "url": "https://open.spotify.com/track/1QD3t3zkwFUdEbMBTApeiZ"
+    },
+    {
+      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -15454,7 +15512,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
@@ -16230,6 +16288,24 @@
       "duration_ms": 134932,
       "name": "Eu N\u00e3o Previ - Ao Vivo em Goi\u00e2nia",
       "url": "https://open.spotify.com/track/3S8M3mZGIc10IdtmNTsrjQ"
+    },
+    {
+      "album": {
+        "name": "Serenata da GG, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176923,
+      "name": "Eu Odeio Dia 12 - Ao Vivo",
+      "url": "https://open.spotify.com/track/4Fkp5wrm5EkFsSO1YQhK5D"
     },
     {
       "album": {
@@ -17020,7 +17096,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 129522,
       "name": "Fall Back",
       "url": "https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi"
@@ -18034,6 +18110,24 @@
       "duration_ms": 197760,
       "name": "Ficar Pra Que? - Ao Vivo",
       "url": "https://open.spotify.com/track/2YYocdgh63kBBSp3Knwrf7"
+    },
+    {
+      "album": {
+        "name": "Filha Do Deputado",
+        "url": "https://open.spotify.com/album/13i3rjweFJ90rMQzP5vypT"
+      },
+      "artists": [
+        {
+          "name": "Klaus Mvsic",
+          "url": "https://open.spotify.com/artist/4qoaCmWeMLaa7zQgoi1mtH"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409785,
+      "name": "Filha Do Deputado",
+      "url": "https://open.spotify.com/track/4GBSSO7opuvAijWPooadmg"
     },
     {
       "album": {
@@ -21021,6 +21115,24 @@
     },
     {
       "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227239,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z"
+    },
+    {
+      "album": {
         "name": "How Sweet",
         "url": "https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq"
       },
@@ -23296,6 +23408,28 @@
       "duration_ms": 155454,
       "name": "La Muerte",
       "url": "https://open.spotify.com/track/69YqoxUzLcdsXBRpZcqlsn"
+    },
+    {
+      "album": {
+        "name": "OPROPRIO",
+        "url": "https://open.spotify.com/album/0b2iLDXb2gs0jRk4Vj7jlR"
+      },
+      "artists": [
+        {
+          "name": "Yago Oproprio",
+          "url": "https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497"
+        },
+        {
+          "name": "Patricio Sid",
+          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201702,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/0IEVEtKQ4kRgZehxyfUrKS"
     },
     {
       "album": {
@@ -27252,7 +27386,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 199373,
       "name": "Medley Put4ria Avan\u00e7ada",
       "url": "https://open.spotify.com/track/47jm3FEv1cfE97ILQsqfPq"
@@ -30053,6 +30187,24 @@
     },
     {
       "album": {
+        "name": "MTG - ELASTIC HEART",
+        "url": "https://open.spotify.com/album/26caLoy7T4lPqkBZmgZL81"
+      },
+      "artists": [
+        {
+          "name": "Lucas Hits",
+          "url": "https://open.spotify.com/artist/6Yb29hzKvATIPHZYn4Qk5H"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80009,
+      "name": "MTG - ELASTIC HEART",
+      "url": "https://open.spotify.com/track/6qhj8emE0TDZogE4LHCBKb"
+    },
+    {
+      "album": {
         "name": "Mtg - Malha Funk",
         "url": "https://open.spotify.com/album/0Dn4moBSZR1yJweYtkBvGl"
       },
@@ -31707,6 +31859,32 @@
     },
     {
       "album": {
+        "name": "Ningu\u00e9m Entende Nada",
+        "url": "https://open.spotify.com/album/2OIxd2V2LTFqqu7JL9a9US"
+      },
+      "artists": [
+        {
+          "name": "Mizzy Miles",
+          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
+        },
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196285,
+      "name": "Ningu\u00e9m Entende Nada",
+      "url": "https://open.spotify.com/track/7cmCX8M8z9GZerCgVG1dyU"
+    },
+    {
+      "album": {
         "name": "Ningu\u00e9m \u00e9 Igual a Ela",
         "url": "https://open.spotify.com/album/2Noz8ZER3cdyGAecIsnnUc"
       },
@@ -31931,6 +32109,24 @@
     },
     {
       "album": {
+        "name": "Noite Carioca",
+        "url": "https://open.spotify.com/album/5EyZCRUi0Ody9tGCTilJGg"
+      },
+      "artists": [
+        {
+          "name": "Klaus Mvsic",
+          "url": "https://open.spotify.com/artist/4qoaCmWeMLaa7zQgoi1mtH"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288925,
+      "name": "Noite Carioca",
+      "url": "https://open.spotify.com/track/6ngtwB24GNE4zPLuLWEJER"
+    },
+    {
+      "album": {
         "name": "Noite Dos Perdidos",
         "url": "https://open.spotify.com/album/5Daso30Ue6dC3bFySoOCta"
       },
@@ -32094,6 +32290,24 @@
       "duration_ms": 161277,
       "name": "Nossa Resenha",
       "url": "https://open.spotify.com/track/5EaOVYUrQB5Hp9zkXxcFpL"
+    },
+    {
+      "album": {
+        "name": "Serenata da GG, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168805,
+      "name": "Nosso Primeiro Beijo - Ao Vivo",
+      "url": "https://open.spotify.com/track/7Elw15XWLpOi4qzHyAwa9e"
     },
     {
       "album": {
@@ -33056,7 +33270,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 204813,
       "name": "N\u00f3s Combina",
       "url": "https://open.spotify.com/track/4ZrKyfCV1UcHuZjbLp03fM"
@@ -35044,6 +35258,28 @@
       "duration_ms": 102901,
       "name": "Papo Furado",
       "url": "https://open.spotify.com/track/12w267rpvnuuTMkRdQQYzn"
+    },
+    {
+      "album": {
+        "name": "OPROPRIO",
+        "url": "https://open.spotify.com/album/0b2iLDXb2gs0jRk4Vj7jlR"
+      },
+      "artists": [
+        {
+          "name": "Yago Oproprio",
+          "url": "https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497"
+        },
+        {
+          "name": "Patricio Sid",
+          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202909,
+      "name": "Papoulas",
+      "url": "https://open.spotify.com/track/4pjqWL23sQ2gGQIbyw8lXL"
     },
     {
       "album": {
@@ -41781,6 +42017,36 @@
     },
     {
       "album": {
+        "name": "Set da Menorzinha 1.0",
+        "url": "https://open.spotify.com/album/6eYWnseUbpgOGdYDFyzHBz"
+      },
+      "artists": [
+        {
+          "name": "Mc Menorzinha",
+          "url": "https://open.spotify.com/artist/3RJgdABmH81bLY7UPixlnZ"
+        },
+        {
+          "name": "MC Marcelly",
+          "url": "https://open.spotify.com/artist/3XtuCcYVAgDABkXDLUk8BE"
+        },
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324986,
+      "name": "Set da Menorzinha 1.0",
+      "url": "https://open.spotify.com/track/4PIZkFECempgwhCiCGiTjO"
+    },
+    {
+      "album": {
         "name": "SET DJ Glenner",
         "url": "https://open.spotify.com/album/1XF8SuFqrepAZyKs72YCLY"
       },
@@ -42718,7 +42984,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 165107,
       "name": "Slide da Treme Mel\u00f3dica v2",
       "url": "https://open.spotify.com/track/6xBpb9zNWlRHTslOAe6kXF"
@@ -43732,7 +43998,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 172533,
       "name": "Stargazing",
       "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
@@ -44024,7 +44290,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 178880,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/4sgMbwl9lXGyHcHmtFYGMm"
@@ -46542,7 +46808,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 155805,
       "name": "to bem",
       "url": "https://open.spotify.com/track/4n7GVLsN4FBLyKhi0BySUq"
@@ -46572,7 +46838,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 182769,
       "name": "To Coberto X Bato Com o Placo",
       "url": "https://open.spotify.com/track/5RczWF9S4A5dI2F3m1OC94"
@@ -50294,7 +50560,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 164284,
       "name": "Von dutch",
       "url": "https://open.spotify.com/track/3Y1EvIgEVw51XtgNEgpz5c"
@@ -52180,7 +52446,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 140528,
       "name": "\u00c9 Que Eu Te Sarrei",
       "url": "https://open.spotify.com/track/7uPInsxTeMbyrJkDQaRwPh"

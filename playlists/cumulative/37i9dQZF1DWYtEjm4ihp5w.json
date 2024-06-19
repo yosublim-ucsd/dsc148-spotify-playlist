@@ -1362,7 +1362,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 240681,
       "name": "Free Mami",
       "url": "https://open.spotify.com/track/3Ibieq8gwYw4pOTlP0NkJN"
@@ -4366,6 +4366,24 @@
       "duration_ms": 176589,
       "name": "Unplugged - Spotify Singles",
       "url": "https://open.spotify.com/track/5Gk7ZvxmrBbRonwlFh9STN"
+    },
+    {
+      "album": {
+        "name": "VIRA - SLABA",
+        "url": "https://open.spotify.com/album/6jaow6TMiPpepI5hNq0OGb"
+      },
+      "artists": [
+        {
+          "name": "ViraCocha",
+          "url": "https://open.spotify.com/artist/3mBAoEIAN6UdI3VMA1rltv"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "VIRA - SLABA",
+      "url": "https://open.spotify.com/track/4G1hlwJvJJSClVL5LhROPi"
     },
     {
       "album": {

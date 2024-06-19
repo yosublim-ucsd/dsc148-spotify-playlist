@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Irmak Arıcı
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,167 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,158 likes - 79 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,15 +78,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 68 | [Dava](https://open.spotify.com/track/2FyeqryrHS7K6aai4AmrOa) | [Bilge Su](https://open.spotify.com/artist/7omNgxR3HnKtIGQHiEW8eY) | [Dava](https://open.spotify.com/album/54m2fWTFybSMIRtuqKE0bP) | 2:33 |
 | 69 | [All I Need](https://open.spotify.com/track/7hpvy4PFKVce8yqUMOOXNM) | [Ece Göksu](https://open.spotify.com/artist/5uPvze4cAKyuSWBuXtZhzV), [Eylül Biçer](https://open.spotify.com/artist/4jvqdASv06QHr9IiX5UKUC) | [All I Need](https://open.spotify.com/album/77pZhwqNP1hyMZ4rGwOIjd) | 3:26 |
 | 70 | [Sen Sağ Ben Selamet](https://open.spotify.com/track/4Jg0nI4pBjaU9fPexc3EPX) | [Duygu Kutlu](https://open.spotify.com/artist/5VOpKGCsAEtjs8oy1mle9o) | [Sen Sağ Ben Selamet](https://open.spotify.com/album/3FF3eT0ASo2VcQoFgv7eiM) | 2:30 |
-| 71 | [Nasıl aklımda olabilirsin hala?](https://open.spotify.com/track/2BnqmhzrHNttHhSrrjToGE) | [Gomeisa](https://open.spotify.com/artist/6eSz2ZOZNvS6Y5fxnFbUiQ) | [Nasıl aklımda olabilirsin hala?](https://open.spotify.com/album/6CtQiQHYty475TzIuAP5jW) | 1:46 |
-| 72 | [Onun Adı Aşk](https://open.spotify.com/track/3es71MmsLgC7a46zAOFFmZ) | [Hediye Biliç](https://open.spotify.com/artist/5vVmuaLFpg83sdH9UQOa98) | [Onun Adı Aşk](https://open.spotify.com/album/2ICJpknAuum8rALw5sZO2K) | 3:51 |
-| 73 | [Benim Olsan](https://open.spotify.com/track/21eIPxo4tzVdbacejAlXMU) | [Tuğçe Haşimoğlu](https://open.spotify.com/artist/62jyG49Q860ZooOgpPDW9C) | [Benim Olsan](https://open.spotify.com/album/4VVbQR8o3dOEKts6Xwg38q) | 3:17 |
-| 74 | [Bugün Yine Gökyüzü](https://open.spotify.com/track/6MwlgZGx6aM4NLMxMlGp9J) | [Selin Baycan](https://open.spotify.com/artist/1uTdiTi2LPWZlVSmOMFcmM) | [Bugün Yine Gökyüzü](https://open.spotify.com/album/6Qm6mt2loiekzIkYdcCAEZ) | 2:42 |
-| 75 | [ÂLÂ](https://open.spotify.com/track/1ZnbDG82xWX9ALkIg1a5Ej) | [Gönül Filiz](https://open.spotify.com/artist/2MAM9tE3rWmnhEJ7V08Knh) | [ÂLÂ](https://open.spotify.com/album/4ZpquygcphR5zm8M9ejcMc) | 2:37 |
-| 76 | [Gir Kanıma](https://open.spotify.com/track/58tBbtOfXNviNUI0ubeyKB) | [Selin Karaağaç](https://open.spotify.com/artist/4DDhkFQIejPMi3yoOcumQP) | [Gir Kanıma](https://open.spotify.com/album/2REvCNbsxske6WJEZvKu8t) | 2:48 |
-| 77 | [Yalan](https://open.spotify.com/track/1211M5yhYiys8Z0OvOZsZ1) | [Cansu Esin](https://open.spotify.com/artist/1uoDHmd2nPKxqxh1bDKU6j) | [Yalan](https://open.spotify.com/album/55BpPV82O1Ntlc70UVY6sk) | 2:33 |
-| 78 | [Savaş Barış](https://open.spotify.com/track/16Smk07V9SH5YNmnOY50RE) | [Irmak Ecem](https://open.spotify.com/artist/3lEkrfob4dSfzWtK5jdqHg) | [Savaş Barış](https://open.spotify.com/album/3TH4PoTajF97NaLepFGh8h) | 4:49 |
-| 79 | [Faili Meçhul](https://open.spotify.com/track/6mjXIaz0GtNXo5DY8YrcVy) | [Ayşegül Fırat](https://open.spotify.com/artist/3aZLRgF2LBYwgFM0VbHNbm) | [Faili Meçhul](https://open.spotify.com/album/29ssgAgO1t6Utethmn55N1) | 3:04 |
-| 80 | [Bin Dert ve Ayak İzi](https://open.spotify.com/track/4eXQCBJFJTYYb5pN2S0DRF) | [Özge Ertal](https://open.spotify.com/artist/6SkxAHVs3iACCF6OtakjzR) | [Bin Dert ve Ayak İzi](https://open.spotify.com/album/41cmWZKIt3vsRHN48Epcis) | 2:55 |
+| 71 | [Onun Adı Aşk](https://open.spotify.com/track/3es71MmsLgC7a46zAOFFmZ) | [Hediye Biliç](https://open.spotify.com/artist/5vVmuaLFpg83sdH9UQOa98) | [Onun Adı Aşk](https://open.spotify.com/album/2ICJpknAuum8rALw5sZO2K) | 3:51 |
+| 72 | [Benim Olsan](https://open.spotify.com/track/21eIPxo4tzVdbacejAlXMU) | [Tuğçe Haşimoğlu](https://open.spotify.com/artist/62jyG49Q860ZooOgpPDW9C) | [Benim Olsan](https://open.spotify.com/album/4VVbQR8o3dOEKts6Xwg38q) | 3:17 |
+| 73 | [Bugün Yine Gökyüzü](https://open.spotify.com/track/6MwlgZGx6aM4NLMxMlGp9J) | [Selin Baycan](https://open.spotify.com/artist/1uTdiTi2LPWZlVSmOMFcmM) | [Bugün Yine Gökyüzü](https://open.spotify.com/album/6Qm6mt2loiekzIkYdcCAEZ) | 2:42 |
+| 74 | [ÂLÂ](https://open.spotify.com/track/1ZnbDG82xWX9ALkIg1a5Ej) | [Gönül Filiz](https://open.spotify.com/artist/2MAM9tE3rWmnhEJ7V08Knh) | [ÂLÂ](https://open.spotify.com/album/4ZpquygcphR5zm8M9ejcMc) | 2:37 |
+| 75 | [Gir Kanıma](https://open.spotify.com/track/58tBbtOfXNviNUI0ubeyKB) | [Selin Karaağaç](https://open.spotify.com/artist/4DDhkFQIejPMi3yoOcumQP) | [Gir Kanıma](https://open.spotify.com/album/2REvCNbsxske6WJEZvKu8t) | 2:48 |
+| 76 | [Yalan](https://open.spotify.com/track/1211M5yhYiys8Z0OvOZsZ1) | [Cansu Esin](https://open.spotify.com/artist/1uoDHmd2nPKxqxh1bDKU6j) | [Yalan](https://open.spotify.com/album/55BpPV82O1Ntlc70UVY6sk) | 2:33 |
+| 77 | [Savaş Barış](https://open.spotify.com/track/16Smk07V9SH5YNmnOY50RE) | [Irmak Ecem](https://open.spotify.com/artist/3lEkrfob4dSfzWtK5jdqHg) | [Savaş Barış](https://open.spotify.com/album/3TH4PoTajF97NaLepFGh8h) | 4:49 |
+| 78 | [Faili Meçhul](https://open.spotify.com/track/6mjXIaz0GtNXo5DY8YrcVy) | [Ayşegül Fırat](https://open.spotify.com/artist/3aZLRgF2LBYwgFM0VbHNbm) | [Faili Meçhul](https://open.spotify.com/album/29ssgAgO1t6Utethmn55N1) | 3:04 |
+| 79 | [Bin Dert ve Ayak İzi](https://open.spotify.com/track/4eXQCBJFJTYYb5pN2S0DRF) | [Özge Ertal](https://open.spotify.com/artist/6SkxAHVs3iACCF6OtakjzR) | [Bin Dert ve Ayak İzi](https://open.spotify.com/album/41cmWZKIt3vsRHN48Epcis) | 2:55 |
 
-Snapshot ID: `Zl+AUAAAAADZLQTyyqbWPBCqZZw6WqZb`
+Snapshot ID: `ZnFpIAAAAADXrKog2hJd6LAaen3pzu8E`

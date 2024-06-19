@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-11",
-  "description": "This is Teddy Swims. The essential tracks, all in one playlist.",
+  "description": "This Is Teddy Swims. Los temas esenciales, todos en una lista.",
   "name": "This Is Teddy Swims",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 144901,
       "name": "2 Moods",
       "url": "https://open.spotify.com/track/4NP7m0lFf4JXa2yp9RfqKq"
@@ -132,7 +132,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 228507,
       "name": "Bed on Fire",
       "url": "https://open.spotify.com/track/5O5ExR5u69CclV8lb24WmV"
@@ -292,7 +292,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 180807,
       "name": "dose",
       "url": "https://open.spotify.com/track/26ETsbVhx34daSYeBGmvgl"

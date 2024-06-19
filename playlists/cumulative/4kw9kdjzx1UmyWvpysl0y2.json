@@ -9690,7 +9690,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 255624,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/07S4ihGvHe1jcWfagHL83s"
@@ -14254,6 +14254,28 @@
       "duration_ms": 220614,
       "name": "Turning",
       "url": "https://open.spotify.com/track/1syjpaCUrigJLbsdvBL2g6"
+    },
+    {
+      "album": {
+        "name": "Two Lakes",
+        "url": "https://open.spotify.com/album/0vQsSGuF1Nq5zlFQE7jLIh"
+      },
+      "artists": [
+        {
+          "name": "Dokho",
+          "url": "https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM"
+        },
+        {
+          "name": "Not Now Please",
+          "url": "https://open.spotify.com/artist/3f330dgm1dKMxsVZHy7M84"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195500,
+      "name": "Two Lakes",
+      "url": "https://open.spotify.com/track/2J1e9NFZFpBzgxST74uZdi"
     },
     {
       "album": {

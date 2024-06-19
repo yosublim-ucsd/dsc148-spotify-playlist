@@ -2,7 +2,7 @@
 
 ### [80s HITS \| TOP 100 SONGS ](https://open.spotify.com/playlist/19PgP2QSGPcm6Ve8VhbtpG)
 
-> The best of the 1980s classics from Michael Jackson, Journey, Whitney Houston, TOTO, AC/DC, Kenny Loggins, Billy Joel, Survivor + more.
+> The best of the 1980s classics from Michael Jackson, Journey, Whitney Houston, TOTO, AC/DC, Kenny Loggins, Billy Joel, Survivor + more\. Stranger Things, Top Gun, Back to the Future.
 
 219 songs - 15 hr 21 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 
 > Maak je klaar voor de zomer van 2024!
 
-[Spotify](https://open.spotify.com/user/spotify) - 570,150 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,380 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 | 99 | [Low Again](https://open.spotify.com/track/6WyIu9kPKkyEjmsP4aWJni) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Low Again](https://open.spotify.com/album/45zvKE4yw9Ta4utD8tRWsB) | 3:08 |
 | 100 | [Truth or Dare](https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:10 |
 
-Snapshot ID: `Zmtr4AAAAABQSkub7tt9iOIimCbf7BdU`
+Snapshot ID: `ZnFQuQAAAABvVNaLOZMV+IjLpwClte9L`

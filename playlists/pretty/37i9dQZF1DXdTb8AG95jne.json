@@ -1,15 +1,63 @@
 {
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: YdBB(\uc720\ub2e4\ube48\ubc34\ub4dc)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 467171,
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Car, the garden(\uce74\ub354\uac00\ub4e0)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "num_followers": 467172,
   "original_name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmvT+AAAAADbtCBpAAVd8Rnl3jxqZtr9",
+  "snapshot_id": "ZnFczQAAAABI8toCtjA1/Oh6dMhfjmfv",
   "tracks": [
     {
-      "added_at": "2024-06-14 05:24:08",
+      "added_at": "2024-06-18 10:09:17",
+      "album": {
+        "name": "Just as We Were",
+        "url": "https://open.spotify.com/album/1weCtwUO67iYwytGnHZGfR"
+      },
+      "artists": [
+        {
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+        }
+      ],
+      "duration_ms": 248306,
+      "name": "Just as We Were",
+      "url": "https://open.spotify.com/track/1gNkZGi3evYz8NNWox7SRS"
+    },
+    {
+      "added_at": "2024-06-18 10:09:17",
+      "album": {
+        "name": "Through the Lights",
+        "url": "https://open.spotify.com/album/2uVG48esI9I6jfX56YFb8E"
+      },
+      "artists": [
+        {
+          "name": "Tuesday Beach Club",
+          "url": "https://open.spotify.com/artist/3kbrbhnjLCObXwmOsqadXT"
+        }
+      ],
+      "duration_ms": 226779,
+      "name": "Through the Lights",
+      "url": "https://open.spotify.com/track/3KQHke0IhjnYVCp8TnWS87"
+    },
+    {
+      "added_at": "2024-06-18 10:09:17",
+      "album": {
+        "name": "HOME",
+        "url": "https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "H O M E",
+      "url": "https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr"
+    },
+    {
+      "added_at": "2024-06-18 10:09:17",
       "album": {
         "name": "RUNAWAY (feat. Ha Hyun Sang)",
         "url": "https://open.spotify.com/album/2nUctvyrurwUj4h5etWwNq"
@@ -29,7 +77,7 @@
       "url": "https://open.spotify.com/track/71Hn3PaliOazhlNKvig9MI"
     },
     {
-      "added_at": "2024-06-14 05:24:08",
+      "added_at": "2024-06-18 10:09:17",
       "album": {
         "name": "The one of the past",
         "url": "https://open.spotify.com/album/4l4texZRPRdgSy5kP99CNe"
@@ -45,55 +93,7 @@
       "url": "https://open.spotify.com/track/1lMehRXG8eAGalZwyMfTxz"
     },
     {
-      "added_at": "2024-06-14 05:24:08",
-      "album": {
-        "name": "HOME",
-        "url": "https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw"
-      },
-      "artists": [
-        {
-          "name": "HANRORO",
-          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "H O M E",
-      "url": "https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr"
-    },
-    {
-      "added_at": "2024-06-14 05:24:08",
-      "album": {
-        "name": "Bad Thinkin'",
-        "url": "https://open.spotify.com/album/7xKsX3msABCAOOpcl7j6HQ"
-      },
-      "artists": [
-        {
-          "name": "cott (\ucf67)",
-          "url": "https://open.spotify.com/artist/3LEYZADVQJLFNHzCf4qxzs"
-        }
-      ],
-      "duration_ms": 164043,
-      "name": "Bad Thinkin'",
-      "url": "https://open.spotify.com/track/6LaJ5XmWySED10xKG3edR7"
-    },
-    {
-      "added_at": "2024-06-14 05:24:08",
-      "album": {
-        "name": "Do You Believe in Love?",
-        "url": "https://open.spotify.com/album/2PjLdyzhTz97ubbZYnfnht"
-      },
-      "artists": [
-        {
-          "name": "Lee Yerin",
-          "url": "https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N"
-        }
-      ],
-      "duration_ms": 209173,
-      "name": "Do You Believe in Love?",
-      "url": "https://open.spotify.com/track/6aOFf7lR1t5OHM6kN6keme"
-    },
-    {
-      "added_at": "2024-06-14 05:24:08",
+      "added_at": "2024-06-18 10:09:17",
       "album": {
         "name": "Maybe We Could Be a Thing",
         "url": "https://open.spotify.com/album/6AQcFf0gaBZWaZgGZZPMmI"
@@ -117,7 +117,7 @@
       "url": "https://open.spotify.com/track/2yjDmSX8ukT00SXmRs04T6"
     },
     {
-      "added_at": "2024-06-14 05:24:08",
+      "added_at": "2024-06-18 10:09:17",
       "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
@@ -133,7 +133,7 @@
       "url": "https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk"
     },
     {
-      "added_at": "2024-06-14 05:24:08",
+      "added_at": "2024-06-18 10:09:17",
       "album": {
         "name": "5.3 (Gradation)",
         "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
     },
     {
-      "added_at": "2024-06-14 05:24:08",
+      "added_at": "2024-06-18 10:09:17",
       "album": {
         "name": "Dear My All",
         "url": "https://open.spotify.com/album/44ExesH5SiiFq3Kov4okDf"
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/2X71ww8wImSYbw4s0Mr2ur"
     },
     {
-      "added_at": "2024-06-14 05:24:08",
+      "added_at": "2024-06-18 10:09:17",
       "album": {
         "name": "Stroll",
         "url": "https://open.spotify.com/album/2zTRBl0d9LGCNwuwlf63Wx"
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/33xRp6ZX1DKraRFHR9ZDck"
     },
     {
-      "added_at": "2024-06-14 05:24:08",
+      "added_at": "2024-06-18 10:09:17",
       "album": {
         "name": "\ub098\ubb34",
         "url": "https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur"
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ"
     },
     {
-      "added_at": "2024-06-14 05:24:08",
+      "added_at": "2024-06-18 10:09:17",
       "album": {
         "name": "GAUSSIAN",
         "url": "https://open.spotify.com/album/3z5HAU2kKo9TJFCxnj7Vw4"
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/2c51tgfKYA5CLBzKZjqGA5"
     },
     {
-      "added_at": "2024-06-14 05:24:08",
+      "added_at": "2024-06-18 10:09:17",
       "album": {
         "name": "COME CLOSER",
         "url": "https://open.spotify.com/album/2rdXzqWmDgzIfjUPUovQiD"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/0Sep7VIdLwWPVhtxKsCxRm"
     },
     {
-      "added_at": "2024-06-14 05:24:08",
+      "added_at": "2024-06-18 10:09:17",
       "album": {
         "name": "DREAM LIKE ME",
         "url": "https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m"
     },
     {
-      "added_at": "2024-06-14 05:24:08",
+      "added_at": "2024-06-18 10:09:17",
       "album": {
         "name": "friend to lover",
         "url": "https://open.spotify.com/album/4bjDmQW2Vu2Br4RPCi12hr"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062"
     },
     {
-      "added_at": "2024-06-14 05:24:08",
+      "added_at": "2024-06-18 10:09:17",
       "album": {
         "name": "FROM : X",
         "url": "https://open.spotify.com/album/0Mv40wXJXK7tSXbDdxgorn"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/7xLlRiRccn2fWHibTO2Ta1"
     },
     {
-      "added_at": "2024-06-14 05:24:08",
+      "added_at": "2024-06-18 10:09:17",
       "album": {
         "name": "Baby I Need You",
         "url": "https://open.spotify.com/album/439HCLfX880T9IBLn7iSEf"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/7F7s8Hh6h1PgGUyVzpRfDs"
     },
     {
-      "added_at": "2024-06-14 05:24:08",
+      "added_at": "2024-06-18 10:09:17",
       "album": {
         "name": "The night we parted",
         "url": "https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD"
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM"
     },
     {
-      "added_at": "2024-06-14 05:24:08",
+      "added_at": "2024-06-18 10:09:17",
       "album": {
         "name": "NEXT EPISODE",
         "url": "https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/4Cgct9Vlype9cYZFW2wSnk"
     },
     {
-      "added_at": "2024-06-14 05:24:08",
+      "added_at": "2024-06-18 10:09:17",
       "album": {
         "name": "Jannabi\u2019s small pieces ll : GRIPPIN\u2019THEGREEN",
         "url": "https://open.spotify.com/album/1JKiz2WDaNak1fPjmNG1Vt"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/6hHjsUiAuUcTtsvDXFvPFk"
     },
     {
-      "added_at": "2024-06-14 05:24:08",
+      "added_at": "2024-06-18 10:09:17",
       "album": {
         "name": "Closely Far Away",
         "url": "https://open.spotify.com/album/6q9YOWpWu7QA3MeHbpIoLC"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242"
     },
     {
-      "added_at": "2024-06-14 05:24:08",
+      "added_at": "2024-06-18 10:09:17",
       "album": {
         "name": "Rawww",
         "url": "https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem"
@@ -381,7 +381,7 @@
       "url": "https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K"
     },
     {
-      "added_at": "2024-06-14 05:24:08",
+      "added_at": "2024-06-18 10:09:17",
       "album": {
         "name": "RECONNECT",
         "url": "https://open.spotify.com/album/5xll0TV8daHI8mPW3R9SyC"
@@ -405,7 +405,7 @@
       "url": "https://open.spotify.com/track/2yPFwTJ1tUSLH0D28u3153"
     },
     {
-      "added_at": "2024-06-14 05:24:08",
+      "added_at": "2024-06-18 10:09:17",
       "album": {
         "name": "Calibrate",
         "url": "https://open.spotify.com/album/0U8Tdmu885TydIA7hdlZ0y"
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/6NE7hAW6UFEJWhv2hP6z8X"
     },
     {
-      "added_at": "2024-06-14 05:24:08",
+      "added_at": "2024-06-18 10:09:17",
       "album": {
         "name": "The Land of Fantasy",
         "url": "https://open.spotify.com/album/3AqaCmFab2u1su982CnoQE"
@@ -437,7 +437,7 @@
       "url": "https://open.spotify.com/track/3N0gL4EypJfzJ6txDnIrDS"
     },
     {
-      "added_at": "2024-06-14 05:24:08",
+      "added_at": "2024-06-18 10:09:17",
       "album": {
         "name": "naps!",
         "url": "https://open.spotify.com/album/3EnlNFwmB3Lpf932SlGbMq"
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/2psNTcUeXlI5vBt0zgehpw"
     },
     {
-      "added_at": "2024-06-14 05:24:08",
+      "added_at": "2024-06-18 10:09:17",
       "album": {
         "name": "HOWEVER",
         "url": "https://open.spotify.com/album/6BgXAolghhnPuDIqCsTlmx"
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/1ueWBHHclILiJ2loAoqDxI"
     },
     {
-      "added_at": "2024-06-14 05:24:08",
+      "added_at": "2024-06-18 10:09:17",
       "album": {
         "name": "Begins youth (Original Xclusive Soundtrack), Pt. 1",
         "url": "https://open.spotify.com/album/4nK3NKTn5dDmuRMKW33QFL"
@@ -489,7 +489,23 @@
       "url": "https://open.spotify.com/track/0KaN3qT6D58wAezCAEyIU2"
     },
     {
-      "added_at": "2024-06-14 05:24:08",
+      "added_at": "2024-06-18 10:09:17",
+      "album": {
+        "name": "Pasadena",
+        "url": "https://open.spotify.com/album/2xa1TuBl9eiUkHCIh3C0JG"
+      },
+      "artists": [
+        {
+          "name": "92914",
+          "url": "https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF"
+        }
+      ],
+      "duration_ms": 163726,
+      "name": "Pasadena",
+      "url": "https://open.spotify.com/track/36P3PbOaXo4uiv0CIDcTg2"
+    },
+    {
+      "added_at": "2024-06-18 10:09:17",
       "album": {
         "name": "Wings",
         "url": "https://open.spotify.com/album/1BzkLEFlQ4JQWUFWZrNIvC"
@@ -509,39 +525,23 @@
       "url": "https://open.spotify.com/track/4XQnhcwRPRmGG4E6PakLMb"
     },
     {
-      "added_at": "2024-06-14 05:24:08",
+      "added_at": "2024-06-18 10:09:17",
       "album": {
-        "name": "Pasadena",
-        "url": "https://open.spotify.com/album/2xa1TuBl9eiUkHCIh3C0JG"
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/4ZALM5WKnmqL1sJouAAFqw"
       },
       "artists": [
         {
-          "name": "92914",
-          "url": "https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF"
+          "name": "THORNAPPLE",
+          "url": "https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG"
         }
       ],
-      "duration_ms": 163726,
-      "name": "Pasadena",
-      "url": "https://open.spotify.com/track/36P3PbOaXo4uiv0CIDcTg2"
+      "duration_ms": 284000,
+      "name": "Extinction",
+      "url": "https://open.spotify.com/track/7ophvrIUAHSbf0uCEb5TzB"
     },
     {
-      "added_at": "2024-06-14 05:24:08",
-      "album": {
-        "name": "Hug me tight",
-        "url": "https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF"
-      },
-      "artists": [
-        {
-          "name": "Heo Hoy Kyung",
-          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
-        }
-      ],
-      "duration_ms": 227756,
-      "name": "Hug me tight",
-      "url": "https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4"
-    },
-    {
-      "added_at": "2024-06-14 05:24:08",
+      "added_at": "2024-06-18 10:09:17",
       "album": {
         "name": "RAL 9002",
         "url": "https://open.spotify.com/album/5GSpWXgjEc3r0rMcS8yrmY"
@@ -561,23 +561,23 @@
       "url": "https://open.spotify.com/track/1XyMBACv8WJzmnAobpgXiW"
     },
     {
-      "added_at": "2024-06-14 05:24:08",
+      "added_at": "2024-06-18 10:09:17",
       "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/4ZALM5WKnmqL1sJouAAFqw"
+        "name": "Hug me tight",
+        "url": "https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF"
       },
       "artists": [
         {
-          "name": "THORNAPPLE",
-          "url": "https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG"
+          "name": "Heo Hoy Kyung",
+          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
         }
       ],
-      "duration_ms": 284000,
-      "name": "Extinction",
-      "url": "https://open.spotify.com/track/7ophvrIUAHSbf0uCEb5TzB"
+      "duration_ms": 227756,
+      "name": "Hug me tight",
+      "url": "https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4"
     },
     {
-      "added_at": "2024-06-14 05:24:08",
+      "added_at": "2024-06-18 10:09:17",
       "album": {
         "name": "PLEASURES",
         "url": "https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM"
@@ -593,7 +593,7 @@
       "url": "https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh"
     },
     {
-      "added_at": "2024-06-14 05:24:08",
+      "added_at": "2024-06-18 10:09:17",
       "album": {
         "name": "Love Playlist3 Part.1",
         "url": "https://open.spotify.com/album/7v83AxfLka9IiTGEv4d9DI"
@@ -609,7 +609,7 @@
       "url": "https://open.spotify.com/track/5fI0JERjR9jDo8JFLS2KyI"
     },
     {
-      "added_at": "2024-06-14 05:24:08",
+      "added_at": "2024-06-18 10:09:17",
       "album": {
         "name": "pony",
         "url": "https://open.spotify.com/album/0Fqg5u1mP8d8VJZmhIWkpc"
@@ -625,7 +625,7 @@
       "url": "https://open.spotify.com/track/6pZIsf4z5iFsueGtlHn35V"
     },
     {
-      "added_at": "2024-06-14 05:24:08",
+      "added_at": "2024-06-18 10:09:17",
       "album": {
         "name": "It's been a while",
         "url": "https://open.spotify.com/album/3N7m8jfIAsOu3gBFuve1q6"
@@ -641,7 +641,7 @@
       "url": "https://open.spotify.com/track/04SHCnVGwukIiqBQX1KCSH"
     },
     {
-      "added_at": "2024-06-14 05:24:08",
+      "added_at": "2024-06-18 10:09:17",
       "album": {
         "name": "ringringring",
         "url": "https://open.spotify.com/album/2gw8fYdm5Sxc1NCntLC7EH"
@@ -657,7 +657,7 @@
       "url": "https://open.spotify.com/track/18jycfEb8t7gDaELRiVNac"
     },
     {
-      "added_at": "2024-06-14 05:24:08",
+      "added_at": "2024-06-18 10:09:17",
       "album": {
         "name": "Underwater",
         "url": "https://open.spotify.com/album/2vyicJhKdhKtCBj1UdQJy7"
@@ -673,55 +673,7 @@
       "url": "https://open.spotify.com/track/6ZSuR67JyS5TfIJB7w4mzJ"
     },
     {
-      "added_at": "2024-06-14 05:24:08",
-      "album": {
-        "name": "BAPPI",
-        "url": "https://open.spotify.com/album/2wpbc5EulkN3tyeBLhYAIG"
-      },
-      "artists": [
-        {
-          "name": "The Deep",
-          "url": "https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp"
-        }
-      ],
-      "duration_ms": 174900,
-      "name": "BAPPI",
-      "url": "https://open.spotify.com/track/6Xshz1Cjgiux8HfEuJZHSk"
-    },
-    {
-      "added_at": "2024-06-14 05:24:08",
-      "album": {
-        "name": "\ub354 \ud32c 2ROUND Part.1",
-        "url": "https://open.spotify.com/album/7Ls2OqCIyHG87kdU5qhspV"
-      },
-      "artists": [
-        {
-          "name": "Car, the garden",
-          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
-        }
-      ],
-      "duration_ms": 236578,
-      "name": "\uba85\ub3d9\ucf5c\ub9c1",
-      "url": "https://open.spotify.com/track/47Euae10UxFEcbnR9I9Vgt"
-    },
-    {
-      "added_at": "2024-06-14 05:24:08",
-      "album": {
-        "name": "Again, Spring Days",
-        "url": "https://open.spotify.com/album/2PnFurbn4SKEMu9OUk2VUL"
-      },
-      "artists": [
-        {
-          "name": "Han All",
-          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
-        }
-      ],
-      "duration_ms": 226559,
-      "name": "Let's Meet In Spring",
-      "url": "https://open.spotify.com/track/7e1IpTKqOMw1cstbBic8qs"
-    },
-    {
-      "added_at": "2024-06-14 05:24:08",
+      "added_at": "2024-06-18 10:09:17",
       "album": {
         "name": "2 Minutes",
         "url": "https://open.spotify.com/album/1p6vQUoFIkcMUjULC5SXXz"
@@ -737,7 +689,55 @@
       "url": "https://open.spotify.com/track/7BwBnCJJDbslpSPKENzYmo"
     },
     {
-      "added_at": "2024-06-14 05:24:08",
+      "added_at": "2024-06-18 10:09:17",
+      "album": {
+        "name": "BAPPI",
+        "url": "https://open.spotify.com/album/2wpbc5EulkN3tyeBLhYAIG"
+      },
+      "artists": [
+        {
+          "name": "The Deep",
+          "url": "https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp"
+        }
+      ],
+      "duration_ms": 174900,
+      "name": "BAPPI",
+      "url": "https://open.spotify.com/track/6Xshz1Cjgiux8HfEuJZHSk"
+    },
+    {
+      "added_at": "2024-06-18 10:09:17",
+      "album": {
+        "name": "\ub354 \ud32c 2ROUND Part.1",
+        "url": "https://open.spotify.com/album/7Ls2OqCIyHG87kdU5qhspV"
+      },
+      "artists": [
+        {
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+        }
+      ],
+      "duration_ms": 236578,
+      "name": "\uba85\ub3d9\ucf5c\ub9c1",
+      "url": "https://open.spotify.com/track/47Euae10UxFEcbnR9I9Vgt"
+    },
+    {
+      "added_at": "2024-06-18 10:09:17",
+      "album": {
+        "name": "Again, Spring Days",
+        "url": "https://open.spotify.com/album/2PnFurbn4SKEMu9OUk2VUL"
+      },
+      "artists": [
+        {
+          "name": "Han All",
+          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
+        }
+      ],
+      "duration_ms": 226559,
+      "name": "Let's Meet In Spring",
+      "url": "https://open.spotify.com/track/7e1IpTKqOMw1cstbBic8qs"
+    },
+    {
+      "added_at": "2024-06-18 10:09:17",
       "album": {
         "name": "Despite it all",
         "url": "https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB"
@@ -753,7 +753,7 @@
       "url": "https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP"
     },
     {
-      "added_at": "2024-06-14 05:24:08",
+      "added_at": "2024-06-18 10:09:17",
       "album": {
         "name": "Memoirs",
         "url": "https://open.spotify.com/album/58jJ1RTac6YEWx9xyJZjB0"
@@ -769,7 +769,7 @@
       "url": "https://open.spotify.com/track/0snDWpIDSGNZwVSzhheVAG"
     },
     {
-      "added_at": "2024-06-14 05:24:08",
+      "added_at": "2024-06-18 10:09:17",
       "album": {
         "name": "pool vol. 2 - Peanut Butter Sandwich",
         "url": "https://open.spotify.com/album/3yItJ86DsLRh9OynW2x8pV"
@@ -785,7 +785,23 @@
       "url": "https://open.spotify.com/track/3A76bRRuVaIJrV8mrVeb21"
     },
     {
-      "added_at": "2024-06-14 05:24:08",
+      "added_at": "2024-06-18 10:09:17",
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/7kV4H8b2CEGLjjF66UUp6J"
+      },
+      "artists": [
+        {
+          "name": "O3ohn",
+          "url": "https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI"
+        }
+      ],
+      "duration_ms": 192452,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/5EkkdLlRAuzjjA8oT6FN7b"
+    },
+    {
+      "added_at": "2024-06-18 10:09:17",
       "album": {
         "name": "Forest",
         "url": "https://open.spotify.com/album/6aYtKWZDqzAQsNFq2cPeRe"
@@ -805,39 +821,7 @@
       "url": "https://open.spotify.com/track/4XAoI087CmHUxZ7UUYcH2G"
     },
     {
-      "added_at": "2024-06-14 05:24:08",
-      "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/7kV4H8b2CEGLjjF66UUp6J"
-      },
-      "artists": [
-        {
-          "name": "O3ohn",
-          "url": "https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI"
-        }
-      ],
-      "duration_ms": 192452,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/5EkkdLlRAuzjjA8oT6FN7b"
-    },
-    {
-      "added_at": "2024-06-14 05:24:08",
-      "album": {
-        "name": "How To Go On",
-        "url": "https://open.spotify.com/album/0GzLiI9ZLKSztLSj6uzHwP"
-      },
-      "artists": [
-        {
-          "name": "HANRORO",
-          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "How To Go On",
-      "url": "https://open.spotify.com/track/0orRPUR6XYEknr7oLFkk5w"
-    },
-    {
-      "added_at": "2024-06-14 05:24:08",
+      "added_at": "2024-06-18 10:09:17",
       "album": {
         "name": "Burn Like A Star",
         "url": "https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ"
@@ -855,6 +839,22 @@
       "duration_ms": 188253,
       "name": "Burn Like A Star",
       "url": "https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O"
+    },
+    {
+      "added_at": "2024-06-18 10:09:17",
+      "album": {
+        "name": "How To Go On",
+        "url": "https://open.spotify.com/album/0GzLiI9ZLKSztLSj6uzHwP"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "How To Go On",
+      "url": "https://open.spotify.com/track/0orRPUR6XYEknr7oLFkk5w"
     }
   ],
   "unique_name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",

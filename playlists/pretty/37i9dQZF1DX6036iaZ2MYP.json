@@ -1,6 +1,6 @@
 {
   "description": "Tracks popping off in the Afro scene. Cover: Diamond Platnumz",
-  "num_followers": 89593,
+  "num_followers": 89670,
   "original_name": "Afro Station",
   "owner": {
     "name": "Spotify",
@@ -175,7 +175,7 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Menteur (feat. Ronisia & John Scorp)",
+        "name": "Menteur (feat. Ronisia)",
         "url": "https://open.spotify.com/album/0XEMqLQn4Egdsh1lZKdpUd"
       },
       "artists": [
@@ -186,14 +186,10 @@
         {
           "name": "Ronisia",
           "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
-        },
-        {
-          "name": "John Scorp",
-          "url": "https://open.spotify.com/artist/3ExbC2VW9YPQwTc1It1rvu"
         }
       ],
       "duration_ms": 144066,
-      "name": "Menteur (feat. Ronisia & John Scorp)",
+      "name": "Menteur (feat. Ronisia)",
       "url": "https://open.spotify.com/track/1ktG6CAaqao0wcBvNSLlkS"
     },
     {
@@ -848,12 +844,12 @@
       },
       "artists": [
         {
-          "name": "Puri",
-          "url": "https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp"
-        },
-        {
           "name": "Lhiroyd",
           "url": "https://open.spotify.com/artist/30ISUZ5Xkto4CyeClftpG8"
+        },
+        {
+          "name": "Puri",
+          "url": "https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp"
         }
       ],
       "duration_ms": 142736,

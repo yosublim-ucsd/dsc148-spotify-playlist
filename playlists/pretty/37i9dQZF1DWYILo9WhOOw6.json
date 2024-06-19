@@ -1,13 +1,29 @@
 {
   "description": "Use Delta frequencies for the best night's sleep. ",
-  "num_followers": 135779,
+  "num_followers": 136024,
   "original_name": "Binaural Beats: Deeper Sleep",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjZQ8wAAAACzhrZfvj1j14P3QEl741f0",
+  "snapshot_id": "ZnH5WgAAAAByg5JF973o3Z4C5yg6NbsT",
   "tracks": [
+    {
+      "added_at": "2024-05-04 15:14:59",
+      "album": {
+        "name": "Delta Sleep Waves 85-86 Hz",
+        "url": "https://open.spotify.com/album/5Xjr7MMfeMkej1cDo1DQgv"
+      },
+      "artists": [
+        {
+          "name": "Sienna Meadows",
+          "url": "https://open.spotify.com/artist/2ZDLubEeEfuvABC6vzMMFm"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Delta Sleep Waves 85-86 Hz",
+      "url": "https://open.spotify.com/track/3ztGPqDdQHxub1ak1BPjlv"
+    },
     {
       "added_at": "2024-05-04 15:14:59",
       "album": {
@@ -23,22 +39,6 @@
       "duration_ms": 155000,
       "name": "Delta Dream Waves 92-93 Hz",
       "url": "https://open.spotify.com/track/3u6RsS3J0W1RI8UWglidfL"
-    },
-    {
-      "added_at": "2024-05-04 15:14:59",
-      "album": {
-        "name": "Delta Sleep (110Hz - 112Hz)",
-        "url": "https://open.spotify.com/album/7EYzYzLZqLROiMFk6DoOj3"
-      },
-      "artists": [
-        {
-          "name": "8D Spheres",
-          "url": "https://open.spotify.com/artist/6PQZnRaF4PpSSUryfJMQjf"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Delta Sleep (110Hz - 112Hz)",
-      "url": "https://open.spotify.com/track/5II3JR3SauFzQbO16esuSp"
     },
     {
       "added_at": "2024-05-04 15:14:59",
@@ -71,22 +71,6 @@
       "duration_ms": 136719,
       "name": "Binaural Delta Sinus 90 Hz - L 94 Hz - R",
       "url": "https://open.spotify.com/track/70PN99PsC7BoqAmmrdxj0H"
-    },
-    {
-      "added_at": "2024-05-04 15:14:59",
-      "album": {
-        "name": "Delta Sleep Waves 85-86 Hz",
-        "url": "https://open.spotify.com/album/5Xjr7MMfeMkej1cDo1DQgv"
-      },
-      "artists": [
-        {
-          "name": "Sienna Meadows",
-          "url": "https://open.spotify.com/artist/2ZDLubEeEfuvABC6vzMMFm"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Delta Sleep Waves 85-86 Hz",
-      "url": "https://open.spotify.com/track/3ztGPqDdQHxub1ak1BPjlv"
     },
     {
       "added_at": "2024-05-04 15:14:59",
@@ -155,22 +139,6 @@
     {
       "added_at": "2024-05-04 15:14:59",
       "album": {
-        "name": "Soothing Delta Waves 75-76 Hz",
-        "url": "https://open.spotify.com/album/3ja3duBbZqkUYvMjWHzhEU"
-      },
-      "artists": [
-        {
-          "name": "Carl Burch",
-          "url": "https://open.spotify.com/artist/51FObJDqTsXP89SXrNnUhL"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Soothing Delta Waves 75-76 Hz",
-      "url": "https://open.spotify.com/track/11mzu2eNekJbWkRztqdZny"
-    },
-    {
-      "added_at": "2024-05-04 15:14:59",
-      "album": {
         "name": "Binaural Levitation",
         "url": "https://open.spotify.com/album/6RwD0AuziBPY0zRodQcPWv"
       },
@@ -187,22 +155,6 @@
     {
       "added_at": "2024-05-04 15:14:59",
       "album": {
-        "name": "Binaural Flow",
-        "url": "https://open.spotify.com/album/7xpt0XmYE2LfQGfNZnQXFz"
-      },
-      "artists": [
-        {
-          "name": "Sleeposines",
-          "url": "https://open.spotify.com/artist/26ZV8qtSHuFvztrDGKUKgG"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Delta Sleep Binaural 84Hz - 85.4Hz",
-      "url": "https://open.spotify.com/track/5LytHS5LTpaVfyzvJ1Nc5E"
-    },
-    {
-      "added_at": "2024-05-04 15:14:59",
-      "album": {
         "name": "Surrounded Passage (Delta Binaural)",
         "url": "https://open.spotify.com/album/54uV4LPslzmKDj50ylCNYl"
       },
@@ -215,6 +167,38 @@
       "duration_ms": 217333,
       "name": "Surrounded Passage (Delta Binaural)",
       "url": "https://open.spotify.com/track/0gffACkxI5ABiI7Ak9Gb4R"
+    },
+    {
+      "added_at": "2024-05-04 15:14:59",
+      "album": {
+        "name": "Soothing Delta Waves 75-76 Hz",
+        "url": "https://open.spotify.com/album/3ja3duBbZqkUYvMjWHzhEU"
+      },
+      "artists": [
+        {
+          "name": "Carl Burch",
+          "url": "https://open.spotify.com/artist/51FObJDqTsXP89SXrNnUhL"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Soothing Delta Waves 75-76 Hz",
+      "url": "https://open.spotify.com/track/11mzu2eNekJbWkRztqdZny"
+    },
+    {
+      "added_at": "2024-05-04 15:14:59",
+      "album": {
+        "name": "Binaural Flow",
+        "url": "https://open.spotify.com/album/7xpt0XmYE2LfQGfNZnQXFz"
+      },
+      "artists": [
+        {
+          "name": "Sleeposines",
+          "url": "https://open.spotify.com/artist/26ZV8qtSHuFvztrDGKUKgG"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Delta Sleep Binaural 84Hz - 85.4Hz",
+      "url": "https://open.spotify.com/track/5LytHS5LTpaVfyzvJ1Nc5E"
     },
     {
       "added_at": "2024-05-04 15:14:59",

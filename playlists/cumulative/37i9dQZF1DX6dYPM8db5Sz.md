@@ -4,7 +4,7 @@
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/5LeZoIsr3HTDipdWQbiAfo?si=\_B\_mifL5R3OfpUUPLAePZQ">ARD matthews</a>
 
-743 songs - 1 day 18 hr 16 min
+744 songs - 1 day 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -453,7 +453,7 @@
 | [Off the Ground](https://open.spotify.com/track/2qJcicPo16Mzhnx98Ugf6p) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Tubatsi Mpho Moloi](https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65) | [Synthetic Hearts Part II](https://open.spotify.com/album/11IYyNZlNK4oHdMv0mnOIC) | 2:45 | 2024-05-23 | 2024-06-13 |
 | [oh, him](https://open.spotify.com/track/1kGfsJh77SYUEU5UuE0NvW) | [Wishpig](https://open.spotify.com/artist/68ybmAQpXyAzHXOkexjYj3) | [oh, him](https://open.spotify.com/album/37kTqKCc62bTQo2SExnljj) | 3:55 | 2023-05-18 | 2023-07-07 |
 | [Okay](https://open.spotify.com/track/2clElTsD1qOztIwI9CuJvu) | [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86), [CHXRL](https://open.spotify.com/artist/53YDsmOqu4zlV0VQbNUUNZ) | [Okay](https://open.spotify.com/album/610w4Vno3IlTsWrTgSgMDu) | 3:13 | 2024-05-23 |  |
-| [Old Kid](https://open.spotify.com/track/2AoTAhf4T80mu8VsAwf6KP) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Old Kid](https://open.spotify.com/album/3yh2CyzlRRlhaUl8fHNxKt) | 3:29 | 2024-05-03 |  |
+| [Old Kid](https://open.spotify.com/track/2AoTAhf4T80mu8VsAwf6KP) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Old Kid](https://open.spotify.com/album/3yh2CyzlRRlhaUl8fHNxKt) | 3:29 | 2024-05-03 | 2024-06-19 |
 | [Old Man](https://open.spotify.com/track/77krcHfId85O4se7W5HpTY) | [Thabo Krouwkam](https://open.spotify.com/artist/5HlMBH4nyRsup7lt6P5A54) | [Meet me in the middle](https://open.spotify.com/album/2lAuCRSEVMgTmdlHFJKlEq) | 3:06 | 2023-03-16 | 2023-05-19 |
 | [Oliver's Garden](https://open.spotify.com/track/6M9tSXVU3XmVXACv7D1tnk) | [Nic van Graan](https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt) | [Oliver's Garden](https://open.spotify.com/album/2GS2hWDDmPb6GxT8aFx2qv) | 3:39 | 2024-02-29 | 2024-04-10 |
 | [On & On](https://open.spotify.com/track/4PWLnVy6lGzIinWqbEAAVd) | [Kristen](https://open.spotify.com/artist/6j0N2lhmdDYlPhGRQLCsIG) | [On & On](https://open.spotify.com/album/61iQKAPGhwpcgMa4lK0XWs) | 4:39 | 2022-11-03 | 2023-01-13 |
@@ -689,6 +689,7 @@
 | [VIDEO GIRL](https://open.spotify.com/track/0FlEwDwRmWA7naZtqbKhx9) | [Fentse.](https://open.spotify.com/artist/4ze7a3Hlh8YVc31qs0EHHc) | [VIDEO GIRL](https://open.spotify.com/album/5NMFGvtC0Y2z4FRzXWZodS) | 2:44 | 2023-07-13 | 2023-09-08 |
 | [VILLAIN](https://open.spotify.com/track/5BenD5bE1L6gX4auqfEDov) | [Kristi Lowe](https://open.spotify.com/artist/6XWv7bdLT5EQkyVMn4RaNh) | [VILLAIN](https://open.spotify.com/album/5rdNgKVRNrDIWO7JNYqJHb) | 3:24 | 2023-07-28 | 2023-09-02 |
 | [Vitamin D](https://open.spotify.com/track/3Ktp59pfDr2qcdhdCYop7T) | [Black Heidi](https://open.spotify.com/artist/1uKkDJ0B4qGyH0hsUaGPvt) | [Vitamin D](https://open.spotify.com/album/4sFSVAu6lPn5clc1izlKDE) | 3:17 | 2024-02-09 | 2024-02-23 |
+| [Vivid Memories](https://open.spotify.com/track/0lo4TTF9XtgNLzigXYgRu0) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Marching On](https://open.spotify.com/album/2ujoavk6dk8KVc93EYxT2g) | 2:09 | 2024-06-14 |  |
 | [Vonkel](https://open.spotify.com/track/32APAtwKXpC4Nmbw8I2uH2) | [Mymymy](https://open.spotify.com/artist/0CxAWHVlogP8cmw9Earfwf) | [Vonkel](https://open.spotify.com/album/0to1EOGNGl5DDev4nldVPX) | 4:06 | 2022-12-08 | 2023-01-13 |
 | [Vuka Sizwe](https://open.spotify.com/track/7dgjQyk5CEdJ3Z7zkYemDV) | [Ruzza Wazzi](https://open.spotify.com/artist/6bCOMF4KxMWfP6zd2j3eGZ) | [Vuka Sizwe](https://open.spotify.com/album/0yimQOfR8HHoBKMWEoFl3v) | 5:21 | 2023-02-02 | 2023-03-03 |
 | [Vultures](https://open.spotify.com/track/2UKsPrqGAbsVO5ei8Y1JOs) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Critical As Water](https://open.spotify.com/album/1bfxQHvsU6C2tx1vmEL6ll) | 3:16 | 2024-01-11 | 2024-04-19 |

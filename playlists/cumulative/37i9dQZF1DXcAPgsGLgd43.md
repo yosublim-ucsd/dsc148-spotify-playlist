@@ -4,7 +4,7 @@
 
 > The pulse of Latin House 💃🏻💃🏻
 
-261 songs - 14 hr 9 min
+262 songs - 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Olvidar](https://open.spotify.com/track/3unK4aO28ZE2NNQM9BuCmX) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [krypt\. vol2](https://open.spotify.com/album/5vUygeQA7S7lsbwnTHpgwq) | 5:48 | 2021-10-08 | 2023-11-11 |
 | [Overtime](https://open.spotify.com/track/3hOWWujfSbRwkxgpW1WXYy) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Overtime / Physically](https://open.spotify.com/album/5Y3RzD6ncjJQ8TKh1PKIED) | 2:48 | 2021-12-03 | 2023-11-11 |
 | [Pa Lante](https://open.spotify.com/track/1naty2glEbU3jjS0XoJHLX) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Bautista](https://open.spotify.com/artist/5oryDmGJCySSpMFY9YUeb1), [Minow](https://open.spotify.com/artist/53WBL9mWs6KRVyrWBB6Fen), [Gabsy](https://open.spotify.com/artist/6FyP2gFlBlrXKhcLGFmwhc) | [Pa Lante](https://open.spotify.com/album/4c5PIf7olnUOXJPR4nlq22) | 2:59 | 2023-11-10 |  |
+| [PAPI](https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Sam Collins](https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx) | [PAPI](https://open.spotify.com/album/5FomfAbIMMLUIfe9fTQi9A) | 2:35 | 2024-06-14 |  |
 | [Parriba](https://open.spotify.com/track/5VITD8CR7WcFiB9Grgvs6s) | [Sommer](https://open.spotify.com/artist/43M0BiDPo1cAvFggYpmOD6), [HOS](https://open.spotify.com/artist/79Q8DPpE46f4OgjvJAomt0) | [Parriba](https://open.spotify.com/album/54gq340tQMXIOGj6VFGVIs) | 2:55 | 2024-05-24 |  |
 | [Party's Jumpin](https://open.spotify.com/track/11mmDbwTvh67lHK8jEv53i) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Ossey James](https://open.spotify.com/artist/5Krv6spDHbLWdNMtyTdRpX) | [Party's Jumpin](https://open.spotify.com/album/0ipSLNiyPij1uJ8mbcRyFy) | 2:55 | 2021-10-08 | 2023-11-11 |
 | [Pasilda](https://open.spotify.com/track/6VQDaTTTHeLUhKaHcDe2Bz) | [Afro Medusa](https://open.spotify.com/artist/6D1DgoF2TYTbPQbRPEriaI) | [Pasilda](https://open.spotify.com/album/7nTVeqrRHtGvTRCrrUmdoc) | 3:21 | 2023-11-10 |  |
@@ -225,7 +226,7 @@
 | [Taka](https://open.spotify.com/track/26H7YphndLyGSyYYDE5Vgf) | [Glassick](https://open.spotify.com/artist/5OtUdSwChmE7Z2fVsOt9Io), [Joaquin Lamanna](https://open.spotify.com/artist/0ri2MHd3MOMOdXMDuLG4Js) | [Welcome to Hell III](https://open.spotify.com/album/4x5D8GnJE4JoAdZI41Z8PF) | 2:31 | 2024-03-19 | 2024-04-13 |
 | [Talamanca \- Vintage Culture Remix](https://open.spotify.com/track/1NnRhSfvmyJNSxtR9rGxlX) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Talamanca \(Vintage Culture Remix\)](https://open.spotify.com/album/2iu8M4FmwaiMoaMw8TNWpd) | 3:10 | 2021-10-29 | 2023-11-11 |
 | [Tambor](https://open.spotify.com/track/6qnFcaCqGR8ZQy3s0o4Ebm) | [Mia Moretti](https://open.spotify.com/artist/508HEnl2cDRksyq8hyQtRh), [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [Tambor](https://open.spotify.com/album/5gjxDgtMGqkz43ibVEPR6D) | 2:53 | 2023-11-10 | 2024-04-19 |
-| [Te Marchar](https://open.spotify.com/track/6INdWhk0oJqeVLZQiTwpIx) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7) | [Te Marchar](https://open.spotify.com/album/6F7DYs7EZRgEg3fUOuvVSN) | 3:00 | 2024-02-02 |  |
+| [Te Marchar](https://open.spotify.com/track/6INdWhk0oJqeVLZQiTwpIx) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7) | [Te Marchar](https://open.spotify.com/album/6F7DYs7EZRgEg3fUOuvVSN) | 3:00 | 2024-02-02 | 2024-06-19 |
 | [Te Recorde](https://open.spotify.com/track/307t8QD6epX1YcP0MgNXur) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Subelo NEO](https://open.spotify.com/artist/5jNjbQYkujIbjSvvKroBlv) | [Te Recorde](https://open.spotify.com/album/753nHiBiBSY5SIJbpn5B5P) | 2:47 | 2024-02-16 |  |
 | [The Sound](https://open.spotify.com/track/5OM3s2BBEPrVjZAnBtFgAv) | [Ollie BC](https://open.spotify.com/artist/7crjp3htKFvWTqzRjdnjmQ) | [The Sound](https://open.spotify.com/album/2Hy9l4nv7LKZaEIwKwjsby) | 2:46 | 2024-04-19 | 2024-05-03 |
 | [Tiki Tiki](https://open.spotify.com/track/3j6NrZ43zwIPANl4kcDUs8) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady) | [Tiki Tiki](https://open.spotify.com/album/2iE41dsSA4TVsWkPhf1o0V) | 2:04 | 2024-05-24 |  |

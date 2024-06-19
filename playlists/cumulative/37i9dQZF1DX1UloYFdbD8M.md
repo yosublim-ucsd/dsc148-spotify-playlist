@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Benny Dayal
 
-197 songs - 13 hr 30 min
+198 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Aakasham](https://open.spotify.com/track/0vi4EJnVhAt6mYN60M98yh) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Hope](https://open.spotify.com/album/0AMVYu01sebX3Sba3AS9J9) | 3:18 | 2023-10-06 | 2024-04-19 |
 | [Aakasham](https://open.spotify.com/track/2sKNMV4SfPYWbsUeWjUFGX) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Hope](https://open.spotify.com/album/18rt3txit31UqKoC7rI6D9) | 3:18 | 2022-06-23 | 2023-10-11 |
 | [Aakasham](https://open.spotify.com/track/4s7FOn8Vubr8CvHCkHFpDu) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Aakasham](https://open.spotify.com/album/0lsfdxX9UkuIYhoqKX0EK3) | 3:21 | 2024-01-15 |  |
+| [Adiyaan](https://open.spotify.com/track/57THESM0sQvIsh3hTTDvtE) | [Nitin K Siva](https://open.spotify.com/artist/1ClekcsZ4VLBcjLiZ1ZUis) | [Adiyaan](https://open.spotify.com/album/2XpeONOREylCh7qPMjMNIC) | 5:02 | 2024-06-18 |  |
 | [After](https://open.spotify.com/track/2yEFOflbc0IWIUwwLtfaZV) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [After](https://open.spotify.com/album/4RZMjr9xwxRAv0Nz8L2lkW) | 3:31 | 2023-10-10 | 2024-02-19 |
 | [Ajitha Hare](https://open.spotify.com/track/5y3BFVnC2N2gdDYE6kcpVb) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Rathnamala](https://open.spotify.com/album/5uS5xlxpWnizHbPhgX2KHD) | 2:54 | 2022-06-23 |  |
 | [Akalukayo](https://open.spotify.com/track/6CSDfk6mx4IFbDIu5WKzH5) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Mridul Anil](https://open.spotify.com/artist/3uVGKUu4pjlBUJdV879eb3) | [Once Upon A Blue Moon](https://open.spotify.com/album/5eGRajC0k09pDYoUKBDfBy) | 4:46 | 2022-06-23 |  |
@@ -65,7 +66,7 @@
 | [Green Bean](https://open.spotify.com/track/4Fy7zmLbPiGDYhmp6ziHwi) | [Jatayu](https://open.spotify.com/artist/4FRg3iQY9IQNzFiEs29WtK) | [Co Creation Project: Kappa Originals x Bloom In Green '22](https://open.spotify.com/album/12naOKwjLae6Z86tAl6BLL) | 2:31 | 2023-08-05 | 2024-02-19 |
 | [Guru Meets Mastan](https://open.spotify.com/track/2WEp8R52IgXTf7zYVjMZJc) | [Shahabaz Aman](https://open.spotify.com/artist/0ef7C50MIK4GSqlk2WnOGk) | [Guru Meets Mastan](https://open.spotify.com/album/0CQ6xO6ATp0215Eg2OgLHl) | 4:49 | 2024-05-24 |  |
 | [GVQ](https://open.spotify.com/track/5ujiob8B2fy0UiLvJWr1cK) | [Thakara](https://open.spotify.com/artist/528QfTIbfkN7BD1AM2I0SC) | [Mojo Sessions Live](https://open.spotify.com/album/6UtfSEfMlTw9h4DKa59Yjn) | 4:50 | 2022-12-22 |  |
-| [I.O.Y.A \(Ayyo Vayye\)](https://open.spotify.com/track/2hs0eVQRkBiGw8nLPN2rIu) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [I.O.Y.A \(Ayyo Vayye\)](https://open.spotify.com/album/3oKCeBPVdQrbrIU28yml2n) | 3:45 | 2023-07-28 |  |
+| [I.O.Y.A \(Ayyo Vayye\)](https://open.spotify.com/track/2hs0eVQRkBiGw8nLPN2rIu) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [I.O.Y.A \(Ayyo Vayye\)](https://open.spotify.com/album/3oKCeBPVdQrbrIU28yml2n) | 3:45 | 2023-07-28 | 2024-06-19 |
 | [Ilaveyil](https://open.spotify.com/track/2VApp3THX0kR1kF0kPb8fs) | [Vinod Venugopal Acharya](https://open.spotify.com/artist/2au9zesflE7xTx0uutjLFi) | [Ilaveyil](https://open.spotify.com/album/1xJE7gCQtOS39EBM1S1J1b) | 3:24 | 2024-02-01 | 2024-03-01 |
 | [Ini Enthoram Kaanan Kedakkanu](https://open.spotify.com/track/1Nbpz9rxSKE5updGyb6BWk) | [Anuj Sekhar](https://open.spotify.com/artist/2YP3KghNwinD6VZLZuhcnO) | [Ini Enthoram Kaanan Kedakkanu](https://open.spotify.com/album/1wtxX4unoVitQl19pXC00o) | 2:01 | 2023-05-19 | 2023-07-28 |
 | [Ini Enthoram Kaanan Kedakkanu](https://open.spotify.com/track/5f1oPeQ3tzCJUeXjoR47g8) | [Khayaal Mary Nazreth](https://open.spotify.com/artist/6nWn4phT9V8rmEvnMqp7rc), [Anuj Sekhar](https://open.spotify.com/artist/2YP3KghNwinD6VZLZuhcnO) | [Ini Enthoram Kaanan Kedakkanu](https://open.spotify.com/album/0UnX5bU0IKKiXfp6RWbtxO) | 2:01 | 2023-05-19 | 2023-06-27 |
@@ -198,7 +199,7 @@
 | [Vaarkadal](https://open.spotify.com/track/457AZM8fq9yR2yRfRRrD9N) | [The Non Violinist Project](https://open.spotify.com/artist/0yWjRJpQnQb3oANLj2QhKb), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB) | [Vaarkadal](https://open.spotify.com/album/2TYy2MAcm8czR5fXD1Ayxp) | 4:25 | 2023-10-10 |  |
 | [Varav](https://open.spotify.com/track/6qYS47MJQ9ulzvSSkJRGUX) | [Marthyan](https://open.spotify.com/artist/0lOLPZ7YJFRdpjon1K9f4T), [$obin](https://open.spotify.com/artist/3GrYRWOQlcY1qs48diMppb) | [Varav](https://open.spotify.com/album/7upuJEyMJJzQAtvJGirH1r) | 3:07 | 2023-05-26 | 2023-07-28 |
 | [Vettam](https://open.spotify.com/track/11CrYElJH7l26yy5Tb5Ihy) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [Vettam](https://open.spotify.com/album/3wfiH7VqV5yXoU6eZLWZEy) | 3:32 | 2023-10-10 |  |
-| [Vettam Reprised](https://open.spotify.com/track/1VKqe5jwgqdmFLkxxTdx4x) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B), [The Imbachi](https://open.spotify.com/artist/6Q5mtoNuWSiO8oKBh0fwlz) | [Vettam Reprised](https://open.spotify.com/album/1YowHOWsfSiRVrgWFI05n4) | 3:11 | 2023-12-10 |  |
+| [Vettam Reprised](https://open.spotify.com/track/1VKqe5jwgqdmFLkxxTdx4x) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B), [The Imbachi](https://open.spotify.com/artist/6Q5mtoNuWSiO8oKBh0fwlz) | [Vettam Reprised](https://open.spotify.com/album/1YowHOWsfSiRVrgWFI05n4) | 3:11 | 2023-12-10 | 2024-06-19 |
 | [Veyil](https://open.spotify.com/track/2JgpqEHj0uO7s45Fg7womt) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Veyil](https://open.spotify.com/album/5WyjHb4OPKvSBJje60DtZU) | 3:05 | 2023-08-03 |  |
 | [When Nature Calls](https://open.spotify.com/track/4VI98l8ORvSMPjIrROndfc) | [Shanka Tribe](https://open.spotify.com/artist/1m3UtqSI99YxZy9ysamF7T), [6091](https://open.spotify.com/artist/0kkM6OpHU2UkpKIvPT05WZ) | [When Nature Calls](https://open.spotify.com/album/1MraQsbPfSly4llApBNHae) | 5:12 | 2023-08-03 |  |
 | [Yaanam](https://open.spotify.com/track/2k0m3S5y6J3RPBEwrYAHrU) | [Sangeeth Vijayan](https://open.spotify.com/artist/2TPRb7Pr2jsn9U2QL9RQut) | [Yaanam](https://open.spotify.com/album/2MN3tPfDAg2PsBBb78uLCs) | 3:20 | 2023-11-06 | 2024-01-04 |

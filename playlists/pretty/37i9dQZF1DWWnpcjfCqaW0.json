@@ -1,6 +1,6 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 289236,
+  "num_followers": 289246,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
@@ -387,18 +387,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Jimmie Rodgers",
-        "url": "https://open.spotify.com/album/4LyR43XAMvLzC7IHxH9KAl"
+        "name": "Songs Of The Brazos Valley",
+        "url": "https://open.spotify.com/album/09wvYh0TfR4ijMeHeRZrEc"
       },
       "artists": [
         {
-          "name": "Jimmie Rodgers",
-          "url": "https://open.spotify.com/artist/7bKOOOKEkE918wKOQEhYnp"
+          "name": "Hank Thompson",
+          "url": "https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0"
+        },
+        {
+          "name": "Hank Thompson And His Brazos Valley Boys",
+          "url": "https://open.spotify.com/artist/1Ts6EkqOxOsIzMsxFgCSqk"
         }
       ],
-      "duration_ms": 142333,
-      "name": "Kisses Sweeter Than Wine",
-      "url": "https://open.spotify.com/track/2luRltDp0ZG4ORi3lA8NsB"
+      "duration_ms": 164520,
+      "name": "The Wild Side Of Life",
+      "url": "https://open.spotify.com/track/39AxeDwNIyjPKgI7g9H2Jg"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -419,22 +423,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Songs Of The Brazos Valley",
-        "url": "https://open.spotify.com/album/09wvYh0TfR4ijMeHeRZrEc"
+        "name": "Jimmie Rodgers",
+        "url": "https://open.spotify.com/album/4LyR43XAMvLzC7IHxH9KAl"
       },
       "artists": [
         {
-          "name": "Hank Thompson",
-          "url": "https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0"
-        },
-        {
-          "name": "Hank Thompson And His Brazos Valley Boys",
-          "url": "https://open.spotify.com/artist/1Ts6EkqOxOsIzMsxFgCSqk"
+          "name": "Jimmie Rodgers",
+          "url": "https://open.spotify.com/artist/7bKOOOKEkE918wKOQEhYnp"
         }
       ],
-      "duration_ms": 164520,
-      "name": "The Wild Side Of Life",
-      "url": "https://open.spotify.com/track/39AxeDwNIyjPKgI7g9H2Jg"
+      "duration_ms": 142333,
+      "name": "Kisses Sweeter Than Wine",
+      "url": "https://open.spotify.com/track/2luRltDp0ZG4ORi3lA8NsB"
     },
     {
       "added_at": "2024-06-07 04:00:00",

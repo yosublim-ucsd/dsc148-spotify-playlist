@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasicas para dan\u00e7ar e louvar com os pequenos adoradores.",
-  "num_followers": 67464,
+  "num_followers": 67480,
   "original_name": "Gospel Kids",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-04-26 03:46:39",
       "album": {
+        "name": "Fam\u00edlia Perfeita",
+        "url": "https://open.spotify.com/album/2BOtSzS45MKiRwNHHoPD6V"
+      },
+      "artists": [
+        {
+          "name": "\u00c1quila",
+          "url": "https://open.spotify.com/artist/4z6EQDJNZwMQ6uHmjL87nQ"
+        }
+      ],
+      "duration_ms": 196270,
+      "name": "Fam\u00edlia Perfeita",
+      "url": "https://open.spotify.com/track/25UWTOQyH5eOcvMyWb0VKR"
+    },
+    {
+      "added_at": "2024-04-26 03:46:39",
+      "album": {
         "name": "Jesus Me Ama Tanto",
         "url": "https://open.spotify.com/album/2Zz9nQm8tCtURbCYJnN0mc"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 236683,
       "name": "Jesus Me Ama Tanto",
       "url": "https://open.spotify.com/track/0J8hD8AoGlQipoHU6LF6ZX"
-    },
-    {
-      "added_at": "2024-04-26 03:46:39",
-      "album": {
-        "name": "Fam\u00edlia Perfeita",
-        "url": "https://open.spotify.com/album/2BOtSzS45MKiRwNHHoPD6V"
-      },
-      "artists": [
-        {
-          "name": "\u00c1quila",
-          "url": "https://open.spotify.com/artist/4z6EQDJNZwMQ6uHmjL87nQ"
-        }
-      ],
-      "duration_ms": 196270,
-      "name": "Fam\u00edlia Perfeita",
-      "url": "https://open.spotify.com/track/25UWTOQyH5eOcvMyWb0VKR"
     },
     {
       "added_at": "2024-04-26 03:46:39",
@@ -703,38 +703,6 @@
     {
       "added_at": "2024-04-26 03:46:39",
       "album": {
-        "name": "Quem Ama os Animais: Yasminzinha",
-        "url": "https://open.spotify.com/album/7zDczluqFBHATzo2eXUWZC"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Verissimo",
-          "url": "https://open.spotify.com/artist/1O6na9PsfEQLFmZHg8MEyE"
-        }
-      ],
-      "duration_ms": 138240,
-      "name": "Quem Ama os Animais: Yasminzinha",
-      "url": "https://open.spotify.com/track/3QeEhShhm4xarUOUmHS4tn"
-    },
-    {
-      "added_at": "2024-04-26 03:46:39",
-      "album": {
-        "name": "A,E,I,O,U",
-        "url": "https://open.spotify.com/album/5xWQKN7mnHZ9b2WxW5JrF9"
-      },
-      "artists": [
-        {
-          "name": "Bunek\u00e3o de Jesus",
-          "url": "https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "A, E, I, O, U",
-      "url": "https://open.spotify.com/track/3ECu0Ipd7bspFhrJTuYwoA"
-    },
-    {
-      "added_at": "2024-04-26 03:46:39",
-      "album": {
         "name": "Gba Stage Kids",
         "url": "https://open.spotify.com/album/6Lx7iiv2S1DsYyhUPNVBGW"
       },
@@ -763,6 +731,38 @@
       "duration_ms": 280308,
       "name": "Fico Feliz",
       "url": "https://open.spotify.com/track/2wZnSYsdoDHYZ4mYCFl0Sj"
+    },
+    {
+      "added_at": "2024-04-26 03:46:39",
+      "album": {
+        "name": "A,E,I,O,U",
+        "url": "https://open.spotify.com/album/5xWQKN7mnHZ9b2WxW5JrF9"
+      },
+      "artists": [
+        {
+          "name": "Bunek\u00e3o de Jesus",
+          "url": "https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "A, E, I, O, U",
+      "url": "https://open.spotify.com/track/3ECu0Ipd7bspFhrJTuYwoA"
+    },
+    {
+      "added_at": "2024-04-26 03:46:39",
+      "album": {
+        "name": "Quem Ama os Animais: Yasminzinha",
+        "url": "https://open.spotify.com/album/7zDczluqFBHATzo2eXUWZC"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Verissimo",
+          "url": "https://open.spotify.com/artist/1O6na9PsfEQLFmZHg8MEyE"
+        }
+      ],
+      "duration_ms": 138240,
+      "name": "Quem Ama os Animais: Yasminzinha",
+      "url": "https://open.spotify.com/track/3QeEhShhm4xarUOUmHS4tn"
     },
     {
       "added_at": "2024-04-26 03:46:39",

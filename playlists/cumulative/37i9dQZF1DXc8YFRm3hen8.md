@@ -4,13 +4,13 @@
 
 > La banda de sonido de tu día.
 
-290 songs - 19 hr 11 min
+291 songs - 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(En\) El Séptimo Día \- Remasterizado 2007](https://open.spotify.com/track/4xVZmLJtBTedcXbDB3qYdX) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Canción Animal \(Remastered\)](https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN) | 4:23 | 2023-01-27 | 2023-05-03 |
 | [30 Años](https://open.spotify.com/track/2O7w0qgKXSLBg0mKV0XfOt) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Cabildo y Juramento](https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn) | 3:15 | 2022-07-01 | 2022-07-05 |
-| [33](https://open.spotify.com/track/0Or8gwrL6DpEsp59HPM7IE) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z), [Facu Soto](https://open.spotify.com/artist/28TAi26EYVpZjpfsdMIqyB) | [33](https://open.spotify.com/album/5P8fb4qfq5ONlFjd4TeS4T) | 3:27 | 2024-04-05 |  |
+| [33](https://open.spotify.com/track/0Or8gwrL6DpEsp59HPM7IE) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z), [Facu Soto](https://open.spotify.com/artist/28TAi26EYVpZjpfsdMIqyB) | [33](https://open.spotify.com/album/5P8fb4qfq5ONlFjd4TeS4T) | 3:27 | 2024-04-05 | 2024-06-19 |
 | [A las Nueve](https://open.spotify.com/track/0CgpCtEPvyDizcg2p47VrU) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [El Calor Del Pleno Invierno](https://open.spotify.com/album/1rfWo44UYWqM3a99Vknlc3) | 3:27 | 2022-07-19 | 2024-04-19 |
 | [A las Nueve](https://open.spotify.com/track/0uuEqOyKlABOB7hzWKcEeG) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [El Calor del Pleno Invierno](https://open.spotify.com/album/5GsZdydAX1ccb2XPa056ga) | 3:27 | 2022-06-29 | 2022-07-29 |
 | [A los Ojos](https://open.spotify.com/track/5gEAF7YpN0fW44aPNMXCfZ) | [MANJAR](https://open.spotify.com/artist/2cUbO2xUKXa7v3BJQAkKG4), [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb) | [A los Ojos](https://open.spotify.com/album/4bUelne8U5gSVLF9d2XXZZ) | 4:42 | 2022-07-19 | 2022-07-24 |
@@ -104,6 +104,7 @@
 | [Este Misterio](https://open.spotify.com/track/0Na1RP9HDaKPaU90cCF5ra) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Las Lunas](https://open.spotify.com/album/4iCgdNm7iU0GDegH0hEnVJ) | 4:22 | 2022-07-06 | 2022-07-25 |
 | [Euforia y Furia](https://open.spotify.com/track/5lt3j3lvo6YEsxgJh9ceNv) | [Javier Calamaro](https://open.spotify.com/artist/6tPLRbaYWgZXppgsyKQ2M5), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Euforia y Furia](https://open.spotify.com/album/3E4z7zd4fUHd9ZUvoTmlBC) | 3:47 | 2022-07-19 | 2022-07-24 |
 | [Fango](https://open.spotify.com/track/1GFQig8E1kpHcJVAVg5IOH) | [Ivan Noble](https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p) | [Fango](https://open.spotify.com/album/3Y5uIFvMnozIUvF0soxaM5) | 4:22 | 2022-07-06 | 2022-07-15 |
+| [Fax](https://open.spotify.com/track/5SODEL6YnaJqng9sIiiTjx) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [Fax](https://open.spotify.com/album/2coynF5NZJ4v9qa1XLZELQ) | 3:11 | 2024-06-18 |  |
 | [Flaca](https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Alta Suciedad](https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6) | 4:37 | 2022-06-29 |  |
 | [FLASH/TRASH](https://open.spotify.com/track/1AB2VzsMPHdGZqnOFNrXBr) | [Corvex](https://open.spotify.com/artist/2E94EJ7lzS7wlcvpYMelWy) | [FLASH/TRASH](https://open.spotify.com/album/5VcMoARL6Cb8OW6fX2cjUI) | 7:43 | 2023-08-11 | 2023-08-26 |
 | [Fue Tan Bueno](https://open.spotify.com/track/0i2elQQdEZwsDX5icf0Co8) | [La Franela](https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku), [EMI](https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1) | [Nada Es Tarde](https://open.spotify.com/album/4N2vqVDcAjDpe44wYdDrKU) | 4:55 | 2022-06-29 |  |

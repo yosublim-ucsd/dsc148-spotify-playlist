@@ -1,12 +1,12 @@
 {
   "description": "This is Oasis. The essential tracks, all in one playlist.",
-  "num_followers": 966286,
+  "num_followers": 966565,
   "original_name": "This Is Oasis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zm4rAAAAAACSR4RffuTwh8ZqnTXpobbo",
+  "snapshot_id": "Zm98gAAAAAAIpEKi4hYG2n77MHykTNzE",
   "tracks": [
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Masterplan",
-        "url": "https://open.spotify.com/album/15D0D1mafSX8Vx5a7w2ZR4"
+        "name": "Dig Out Your Soul",
+        "url": "https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 322640,
-      "name": "The Masterplan",
-      "url": "https://open.spotify.com/track/0g1Y10aIIdJDkcSEuAq51k"
+      "duration_ms": 250013,
+      "name": "I'm Outta Time",
+      "url": "https://open.spotify.com/track/4aSd0vbnxF53nvAdzpLYXQ"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dig Out Your Soul",
-        "url": "https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15"
+        "name": "Heathen Chemistry",
+        "url": "https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 250013,
-      "name": "I'm Outta Time",
-      "url": "https://open.spotify.com/track/4aSd0vbnxF53nvAdzpLYXQ"
+      "duration_ms": 226400,
+      "name": "The Hindu Times",
+      "url": "https://open.spotify.com/track/7IuCCezGsyTH9LU4IVL57s"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heathen Chemistry",
-        "url": "https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O"
+        "name": "Standing On The Shoulder Of Giants",
+        "url": "https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 226400,
-      "name": "The Hindu Times",
-      "url": "https://open.spotify.com/track/7IuCCezGsyTH9LU4IVL57s"
+      "duration_ms": 198533,
+      "name": "Fuckin' in the Bushes",
+      "url": "https://open.spotify.com/track/1EB8LB1Hu5T4C8Zk9z1Ckh"
     },
     {
       "added_at": null,
@@ -404,25 +404,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 382266,
-      "name": "Whatever - Remastered",
-      "url": "https://open.spotify.com/track/5OWsea313ovaQoXvsgWq79"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Standing On The Shoulder Of Giants",
-        "url": "https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 198533,
-      "name": "Fuckin' in the Bushes",
-      "url": "https://open.spotify.com/track/1EB8LB1Hu5T4C8Zk9z1Ckh"
+      "duration_ms": 392306,
+      "name": "Slide Away - Remastered",
+      "url": "https://open.spotify.com/track/1AvavliFQoc2l0ZCCWa5VG"
     },
     {
       "added_at": null,
@@ -459,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heathen Chemistry",
-        "url": "https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 189373,
-      "name": "She Is Love",
-      "url": "https://open.spotify.com/track/01uctxky5IDj8UQvdmcLIv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Standing On The Shoulder Of Giants",
         "url": "https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3"
       },
@@ -487,6 +455,22 @@
       "duration_ms": 278693,
       "name": "Go Let It Out",
       "url": "https://open.spotify.com/track/7kFbTUR31qyzrjjary7llr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heathen Chemistry",
+        "url": "https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 189373,
+      "name": "She Is Love",
+      "url": "https://open.spotify.com/track/01uctxky5IDj8UQvdmcLIv"
     },
     {
       "added_at": null,
@@ -523,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Go Let It Out",
-        "url": "https://open.spotify.com/album/1ggiOXW9IWnJrwYOCBttGM"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 233640,
-      "name": "Let's All Make Believe",
-      "url": "https://open.spotify.com/track/4iM2s0WZFznvgoC0HxZekI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Standing On The Shoulder Of Giants",
         "url": "https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3"
       },
@@ -551,6 +519,22 @@
       "duration_ms": 312680,
       "name": "Sunday Morning Call",
       "url": "https://open.spotify.com/track/6foXkrv79wyo9RMfZIMB6z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Go Let It Out",
+        "url": "https://open.spotify.com/album/1ggiOXW9IWnJrwYOCBttGM"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 233640,
+      "name": "Let's All Make Believe",
+      "url": "https://open.spotify.com/track/4iM2s0WZFznvgoC0HxZekI"
     },
     {
       "added_at": null,
@@ -587,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "D'You Know What I Mean?",
-        "url": "https://open.spotify.com/album/0GiKjeftaw3HccbDaA1Ryk"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 249226,
-      "name": "Heroes",
-      "url": "https://open.spotify.com/track/1FSURsZPnG8CkfTvmO8ssK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Standing On The Shoulder Of Giants",
         "url": "https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3"
       },
@@ -615,6 +583,22 @@
       "duration_ms": 266840,
       "name": "Where Did It All Go Wrong?",
       "url": "https://open.spotify.com/track/6NxShcnsYGE7H0GUM1fMdC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D'You Know What I Mean?",
+        "url": "https://open.spotify.com/album/0GiKjeftaw3HccbDaA1Ryk"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 249226,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/1FSURsZPnG8CkfTvmO8ssK"
     },
     {
       "added_at": null,
@@ -651,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Masterplan",
-        "url": "https://open.spotify.com/album/15D0D1mafSX8Vx5a7w2ZR4"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 279400,
-      "name": "Going Nowhere",
-      "url": "https://open.spotify.com/track/5YZHUGhrN5w24R6xKdcLBi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Standing On The Shoulder Of Giants",
         "url": "https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3"
       },
@@ -679,6 +647,22 @@
       "duration_ms": 368253,
       "name": "Gas Panic!",
       "url": "https://open.spotify.com/track/2klLrvEu0OroEWsJWeafWp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Masterplan",
+        "url": "https://open.spotify.com/album/15D0D1mafSX8Vx5a7w2ZR4"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 279400,
+      "name": "Going Nowhere",
+      "url": "https://open.spotify.com/track/5YZHUGhrN5w24R6xKdcLBi"
     },
     {
       "added_at": null,

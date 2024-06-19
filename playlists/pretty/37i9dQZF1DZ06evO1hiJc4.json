@@ -1,12 +1,12 @@
 {
   "description": "This is Labrinth. The essential tracks, all in one playlist.",
-  "num_followers": 144023,
+  "num_followers": 144067,
   "original_name": "This Is Labrinth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zm4rAAAAAADQk/DRVbzgt/TBSYScAB9K",
+  "snapshot_id": "Zm98gAAAAACuSU60WRi0ZdWODuGBOAS8",
   "tracks": [
     {
       "added_at": null,
@@ -143,26 +143,6 @@
       "duration_ms": 187026,
       "name": "Thunderclouds (feat. Sia, Diplo, and Labrinth)",
       "url": "https://open.spotify.com/track/4lJNen4SMTIJMahALc3DcB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Imagination & the Misfit Kid",
-        "url": "https://open.spotify.com/album/0zjbNtfnMLmt2q50E3wDx8"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 191710,
-      "name": "All For Us",
-      "url": "https://open.spotify.com/track/76YSWx6L6FNsuaP6GWBb8P"
     },
     {
       "added_at": null,
@@ -403,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ends & Begins",
-        "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 191842,
-      "name": "Kill For Your Love",
-      "url": "https://open.spotify.com/track/3VPmBxNTm36Fmz8lSU4dgA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beauty Behind The Madness",
         "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
       },
@@ -439,22 +403,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electronic Earth (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI"
+        "name": "Ends & Begins",
+        "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
       },
       "artists": [
         {
           "name": "Labrinth",
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        },
-        {
-          "name": "Tinie Tempah",
-          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
         }
       ],
-      "duration_ms": 274600,
-      "name": "Earthquake (feat. Tinie Tempah)",
-      "url": "https://open.spotify.com/track/3SxiAdI8dP9AaaEz1Z24mn"
+      "duration_ms": 191842,
+      "name": "Kill For Your Love",
+      "url": "https://open.spotify.com/track/3VPmBxNTm36Fmz8lSU4dgA"
     },
     {
       "added_at": null,
@@ -475,6 +435,26 @@
       "duration_ms": 284271,
       "name": "Love Goes (feat. Labrinth)",
       "url": "https://open.spotify.com/track/5aRlRDvXRuP81qEzKTXQvM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electronic Earth (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        },
+        {
+          "name": "Tinie Tempah",
+          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
+        }
+      ],
+      "duration_ms": 274600,
+      "name": "Earthquake (feat. Tinie Tempah)",
+      "url": "https://open.spotify.com/track/3SxiAdI8dP9AaaEz1Z24mn"
     },
     {
       "added_at": null,
@@ -947,22 +927,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Same Team (feat. Stefflon Don)",
-        "url": "https://open.spotify.com/album/5bK3Xn3qq3qvqVRLbQiAY9"
+        "name": "Imagination & the Misfit Kid",
+        "url": "https://open.spotify.com/album/0zjbNtfnMLmt2q50E3wDx8"
       },
       "artists": [
         {
           "name": "Labrinth",
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        },
-        {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
         }
       ],
-      "duration_ms": 189920,
-      "name": "Same Team (feat. Stefflon Don)",
-      "url": "https://open.spotify.com/track/7Db4ViXHhXYznDDRdfX2VB"
+      "duration_ms": 230000,
+      "name": "Something's Got To Give",
+      "url": "https://open.spotify.com/track/2cY1XfMsEkNemJ8ECmn0Cs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
+        "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 124148,
+      "name": "Fun At The Alley",
+      "url": "https://open.spotify.com/track/0njtFgDso6x7h9aZ8SPNET"
     }
   ],
   "unique_name": "This Is Labrinth",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/35JMHmpi0nT9626f9RW8f6">Mariah Carey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,961 likes - 250 songs - 17 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,964 likes - 250 songs - 17 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 67 | [Fly Like A Bird](https://open.spotify.com/track/2iw2OfEI4ovonFecBV9RLF) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/6ek7Y68IlB6CoFkkc2gEQb) | 3:52 |
 | 68 | [Mine Again](https://open.spotify.com/track/4IeWaMzLFtBP5Dtb6krPc1) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/6ek7Y68IlB6CoFkkc2gEQb) | 4:01 |
 | 69 | [When I Saw You](https://open.spotify.com/track/3Iq58ceNpVxghuRWqMLGHy) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:23 |
-| 70 | [Head Over Heels \- James Roe Remix](https://open.spotify.com/track/11dhySFZw0ZslqkOYnPqak) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [James Roe](https://open.spotify.com/artist/4thaQBgJWwxUGFoxm7glpF) | [Head Over Heels \(James Roe Remix\)](https://open.spotify.com/album/3OJCysYeuhIA3rPbu7qLrU) | 3:04 |
-| 71 | [Heroe](https://open.spotify.com/track/5XBzK0sl4y38zHLojqSIMM) | [Il Divo](https://open.spotify.com/artist/3KNZ9AOjBajjmr6ZR2VGfl) | [Ancora](https://open.spotify.com/album/4AZuAL2kW50TJwHTNAvie2) | 4:17 |
+| 70 | [Heroe](https://open.spotify.com/track/5XBzK0sl4y38zHLojqSIMM) | [Il Divo](https://open.spotify.com/artist/3KNZ9AOjBajjmr6ZR2VGfl) | [Ancora](https://open.spotify.com/album/4AZuAL2kW50TJwHTNAvie2) | 4:17 |
+| 71 | [Head Over Heels \- James Roe Remix](https://open.spotify.com/track/11dhySFZw0ZslqkOYnPqak) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [James Roe](https://open.spotify.com/artist/4thaQBgJWwxUGFoxm7glpF) | [Head Over Heels \(James Roe Remix\)](https://open.spotify.com/album/3OJCysYeuhIA3rPbu7qLrU) | 3:04 |
 | 72 | [When Christmas Comes](https://open.spotify.com/track/1dTzXtog6vWqdLc7BgRScw) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Merry Christmas \(Deluxe Anniversary Edition\)](https://open.spotify.com/album/0cS9prZ8u3fdbc7lmtCaMV) | 4:46 |
 | 73 | [Giving Me Life \(feat\. Slick Rick & Blood Orange\)](https://open.spotify.com/track/5xpX9WrjPZyFkmaKonnzlT) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Caution](https://open.spotify.com/album/64zK6tmksJw9gNZR0L4DVx) | 6:08 |
 | 74 | [Circles](https://open.spotify.com/track/7qUBGRnOfmAaaCC5ZAqPCG) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/6ek7Y68IlB6CoFkkc2gEQb) | 3:30 |
@@ -236,8 +236,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 226 | [Secret Love](https://open.spotify.com/track/1jpQFCa60KDXScn2ZzvwUq) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation Of Mimi \(Ultra Platinum Edition\)](https://open.spotify.com/album/7MMpjM0wynysTbhpvKjHrm) | 3:10 |
 | 227 | [4real4real \- Bonus Track](https://open.spotify.com/track/7o4yb0AhZFmzsp19mlfiHq) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf) | [E=MC2 \(Deluxe Version\)](https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX) | 4:13 |
 | 228 | [It's Like That Remix](https://open.spotify.com/track/6uUaCqy3R039qaoD4It6Qz) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6) | [We Belong Together](https://open.spotify.com/album/1abFqB4XypDqY4UCIBzJWj) | 3:31 |
-| 229 | [Best of Me](https://open.spotify.com/track/2SpqEvuUqyip1BCNwrXUBM) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [22 \(Deluxe\)](https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ) | 3:05 |
-| 230 | [Always In Love](https://open.spotify.com/track/3Pj348wAxa8u94WVinDcdp) | [Trey Lorenz](https://open.spotify.com/artist/23kP8xlQifcAV4nd84iHbW) | [Trey Lorenz](https://open.spotify.com/album/4AoQMFNjIDh3GxonncoMTd) | 5:14 |
+| 229 | [Always In Love](https://open.spotify.com/track/3Pj348wAxa8u94WVinDcdp) | [Trey Lorenz](https://open.spotify.com/artist/23kP8xlQifcAV4nd84iHbW) | [Trey Lorenz](https://open.spotify.com/album/4AoQMFNjIDh3GxonncoMTd) | 5:14 |
+| 230 | [Best of Me](https://open.spotify.com/track/2SpqEvuUqyip1BCNwrXUBM) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [22 \(Deluxe\)](https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ) | 3:05 |
 | 231 | [Body](https://open.spotify.com/track/0dP1hPngDIFrebiAYiEnHG) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Hot Commodity](https://open.spotify.com/album/7izAmu5sQIaqaKtXmqW5Dl) | 2:47 |
 | 232 | [Butterfly \- Amorphous Anniversary Club Remix](https://open.spotify.com/track/6Z6OPzsqKT1fKbLEt2bYyg) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Amorphous](https://open.spotify.com/artist/2mvAbMVwkxiZWJXjorKpdK) | [Butterfly: 25th Anniversary Expanded Edition](https://open.spotify.com/album/3VOqo81Nwyx8rcZEc2l379) | 6:06 |
 | 233 | [Right To Dream](https://open.spotify.com/track/6fbMzo2JubJJH1xHYsCOpV) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Right To Dream \(from the movie "Tennessee"\)](https://open.spotify.com/album/5aZ6pruk8xRbZLoElrFavp) | 3:32 |
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 249 | [Herói](https://open.spotify.com/track/1kEV3SaWpYpYtGQPka4ilY) | [Márcio José](https://open.spotify.com/artist/4C3DIE332Fqn9pc3gjBEFg), [Soraya Moraes](https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp) | [Uma Voz, Um Coração](https://open.spotify.com/album/26fyRBEH5saQYYnZQKzxaI) | 4:25 |
 | 250 | [Mariah Carey Medley](https://open.spotify.com/track/0JYjfBRgqDSwNLLFKLVEpw) | [A Cappella Academy](https://open.spotify.com/artist/3EnayRL2KAEkcW9vfKCkOV), [Zenith](https://open.spotify.com/artist/4T9ZZbboogPwvKmRlCd2Un) | [A Cappella Academy 2022](https://open.spotify.com/album/3PAxAlpfqf2lirM172b1q6) | 4:10 |
 
-Snapshot ID: `AbUVAgAAAAAImrIFZGTsuNHq/zRNDRlE`
+Snapshot ID: `AbUa4AAAAABLzB/3erS59to0ESCsPdFN`

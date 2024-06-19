@@ -1,6 +1,6 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: Han Jimin, Paul Kim(\ud55c\uc9c0\ubbfc, \ud3f4\ud0b4))",
-  "num_followers": 385683,
+  "num_followers": 385702,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,26 @@
     {
       "added_at": "2024-05-17 09:19:16",
       "album": {
+        "name": "Flower Language",
+        "url": "https://open.spotify.com/album/1VPWxLR3k1Oezf9zIoi7qX"
+      },
+      "artists": [
+        {
+          "name": "Layone",
+          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
+        },
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        }
+      ],
+      "duration_ms": 229560,
+      "name": "Freesia",
+      "url": "https://open.spotify.com/track/4l4VWSIalMF7SgjLsmUAlK"
+    },
+    {
+      "added_at": "2024-05-17 09:19:16",
+      "album": {
         "name": "World Peace Project Vol.2",
         "url": "https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 285426,
       "name": "Alley (with SUNG SI KYUNG)",
       "url": "https://open.spotify.com/track/2Qp3RHSP5f9csqFhhFgPrC"
-    },
-    {
-      "added_at": "2024-05-17 09:19:16",
-      "album": {
-        "name": "Flower Language",
-        "url": "https://open.spotify.com/album/1VPWxLR3k1Oezf9zIoi7qX"
-      },
-      "artists": [
-        {
-          "name": "Layone",
-          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
-        },
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        }
-      ],
-      "duration_ms": 229560,
-      "name": "Freesia",
-      "url": "https://open.spotify.com/track/4l4VWSIalMF7SgjLsmUAlK"
     },
     {
       "added_at": "2024-05-17 09:19:16",
@@ -871,26 +871,6 @@
     {
       "added_at": "2024-05-17 09:19:16",
       "album": {
-        "name": "Love(Prod.Rocoberry)",
-        "url": "https://open.spotify.com/album/4Tm14DlyrWRL4OVwp8YrAH"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "LEE SUNG KYOUNG",
-          "url": "https://open.spotify.com/artist/7mZpOLn7va0Muu20bI8bsP"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "Love(Prod.Rocoberry)",
-      "url": "https://open.spotify.com/track/29O4t4CViDRSDwiutvsOLS"
-    },
-    {
-      "added_at": "2024-05-17 09:19:16",
-      "album": {
         "name": "Flower Language",
         "url": "https://open.spotify.com/album/1VPWxLR3k1Oezf9zIoi7qX"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 232720,
       "name": "Anemone",
       "url": "https://open.spotify.com/track/6KJB9aBaZhTLTNH59WCxvg"
+    },
+    {
+      "added_at": "2024-05-17 09:19:16",
+      "album": {
+        "name": "Love(Prod.Rocoberry)",
+        "url": "https://open.spotify.com/album/4Tm14DlyrWRL4OVwp8YrAH"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "LEE SUNG KYOUNG",
+          "url": "https://open.spotify.com/artist/7mZpOLn7va0Muu20bI8bsP"
+        }
+      ],
+      "duration_ms": 220626,
+      "name": "Love(Prod.Rocoberry)",
+      "url": "https://open.spotify.com/track/29O4t4CViDRSDwiutvsOLS"
     },
     {
       "added_at": "2024-05-17 09:19:16",

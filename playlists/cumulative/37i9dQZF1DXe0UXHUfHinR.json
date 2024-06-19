@@ -1809,6 +1809,24 @@
     },
     {
       "album": {
+        "name": "Biting The Apple",
+        "url": "https://open.spotify.com/album/1M6C1WuBNfHnQ4H0eoAr0s"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 529600,
+      "name": "Blue bossa",
+      "url": "https://open.spotify.com/track/4LbJFM4QRgvKoYU7nzj3Dx"
+    },
+    {
+      "album": {
         "name": "Page One",
         "url": "https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi"
       },
@@ -7072,7 +7090,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 332133,
       "name": "Lazy Afternoon - Remastered 2004",
       "url": "https://open.spotify.com/track/32AOu87ElnJJbRe3mCfp7T"
@@ -7090,7 +7108,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 422400,
       "name": "Le Coiffeur",
       "url": "https://open.spotify.com/track/2dk9zmPIOjVXhUgeLgfKNU"
@@ -12318,7 +12336,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 157226,
       "name": "The Seventh Son",
       "url": "https://open.spotify.com/track/7xNzzXvTBzRG68G19N7iA5"

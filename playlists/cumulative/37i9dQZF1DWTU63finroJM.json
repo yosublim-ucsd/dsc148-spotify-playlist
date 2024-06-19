@@ -21869,6 +21869,24 @@
     },
     {
       "album": {
+        "name": "fangirl",
+        "url": "https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt"
+      },
+      "artists": [
+        {
+          "name": "Regina Song",
+          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "the cutest pair",
+      "url": "https://open.spotify.com/track/0VVD95cRAppHSOGPYrfIG2"
+    },
+    {
+      "album": {
         "name": "The Girl Who Cried Love (Sped Up + Slowed Down)",
         "url": "https://open.spotify.com/album/20XULojiPjEGzjhUDiNoo7"
       },
@@ -27572,7 +27590,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 135884,
       "name": "\u7d19\u98db\u6a5f",
       "url": "https://open.spotify.com/track/6VoUlMALTDMm9Gx8MSQbO4"

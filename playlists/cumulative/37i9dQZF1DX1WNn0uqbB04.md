@@ -4,7 +4,7 @@
 
 > El Tango está más vivo que nunca\. Disfrutá los clásicos en <a href="spotify:user:spotify:playlist:37i9dQZF1DXcCT9tm6fRIV">Tangos y Milongas</a>
 
-97 songs - 6 hr 10 min
+98 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Mundo Bizarro](https://open.spotify.com/track/7aqrgVAnsQ6PJD2kBo7JFb) | [Electro Dub Tango](https://open.spotify.com/artist/5Lgxp1cY9aLySrsmoWtQ3x) | [Electro Dub Tango](https://open.spotify.com/album/7hQ3XsiHgR5NFNF3MHHvBQ) | 4:06 | 2023-08-04 |  |
 | [Naranjo en Flor](https://open.spotify.com/track/11Wr4jrWK0DzEM03s28OOC) | [Ugo Mur](https://open.spotify.com/artist/1mYGDTWr3rwgypPbttgjkS) | [Naranjo en Flor](https://open.spotify.com/album/0tWoRmyt1H182J4jTeIwUT) | 3:17 | 2023-11-24 | 2023-12-16 |
 | [Oblivion](https://open.spotify.com/track/745ECNomCDA8KOMUM1sMdR) | [Al Di Meola](https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q) | [Di Meola Plays Piazzolla](https://open.spotify.com/album/1z737UccnQ0DiLcSIdrpw0) | 6:03 | 2023-08-04 |  |
-| [Oblivion \- Instrumental](https://open.spotify.com/track/7HFLrJsVWyLK8AyUiRaytV) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Tanghetto Plays Piazzolla](https://open.spotify.com/album/06km1JOP7iUlcep3sSjrjj) | 4:51 | 2023-11-24 |  |
+| [Oblivion \- Instrumental](https://open.spotify.com/track/7HFLrJsVWyLK8AyUiRaytV) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Tanghetto Plays Piazzolla](https://open.spotify.com/album/06km1JOP7iUlcep3sSjrjj) | 4:51 | 2023-11-24 | 2024-06-19 |
 | [Otra Luna](https://open.spotify.com/track/1rIJLWJngQGHXdoeF5EQre) | [Carlos Libedinsky](https://open.spotify.com/artist/70sNEhx3ntOpapyIUpL79n) | [Narcotango](https://open.spotify.com/album/38eacUHVe4O9Ovy7YxhedA) | 3:42 | 2023-08-04 |  |
 | [Pa' Bailar](https://open.spotify.com/track/6CT7lmMAco13bgfBotJweu) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O) | [Mar Dulce](https://open.spotify.com/album/1tEqTQTkgGkvQBIQZzggFA) | 3:58 | 2023-08-04 | 2024-04-19 |
 | [Patotero Sentimental](https://open.spotify.com/track/6Lp2X06YCNEtLk2h4BVV54) | [Ruben Rada](https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb), [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Patotero Sentimental](https://open.spotify.com/album/3reLc7DI5WhetVDHhGqLCM) | 2:59 | 2023-10-26 | 2024-01-07 |
@@ -100,6 +100,7 @@
 | [Vi Luz y Subí](https://open.spotify.com/track/1iJqnTaBrKQKGWMU7DNzx0) | [Carlos Libedinsky](https://open.spotify.com/artist/70sNEhx3ntOpapyIUpL79n) | [Narcotango](https://open.spotify.com/album/38eacUHVe4O9Ovy7YxhedA) | 3:16 | 2023-08-04 |  |
 | [Viaje Sin Luna](https://open.spotify.com/track/1LEU5VOD3tUQabsMTPBY19) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Sebastián Barbui](https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 4:32 | 2023-08-04 |  |
 | [Whatever Lola Wants \- Gotan Project Remix](https://open.spotify.com/track/29NRxWMbx6J6IOoE8BBl5F) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8), [Gotan Project](https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP) | [Verve Remixed 2](https://open.spotify.com/album/0jZihpxJOMBTJ51wRN0Uje) | 4:40 | 2023-08-04 |  |
+| [Yumbera](https://open.spotify.com/track/1hCjsKGQkWdi551Vgxgjn1) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Incidental Tango](https://open.spotify.com/album/6HL9PB5KmthDOLH8q00Gdg) | 4:12 | 2024-06-07 |  |
 | [Zorzal](https://open.spotify.com/track/1UUXHwy4T4wHqj1wN7LWpP) | [Campo](https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8) | [Campo](https://open.spotify.com/album/34BPrha22VRVsJsOUAqE2l) | 3:09 | 2023-11-24 |  |
 | [Zorzal](https://open.spotify.com/track/2V0t69gkStN7xlQYasKBWs) | [Campo](https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8) | [Campo](https://open.spotify.com/album/7q9qy6hx44b9sTXNygcEA6) | 3:09 | 2023-08-04 | 2023-11-06 |
 | [Zorzal](https://open.spotify.com/track/2gpYD4g5gpqHkNgX0my2ra) | [Campo](https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8), [Juan Campodónico](https://open.spotify.com/artist/0sadZS0EK146Ej3M0chASN) | [Campo](https://open.spotify.com/album/4Y0RPA1KwN7FER0Zj6qPBw) | 3:09 | 2023-10-26 | 2024-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! NL ambassador: <a href="spotify:artist:21IzgxyClVgsRUoFtE13mX">Lavils</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,092 likes - 49 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,094 likes - 49 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

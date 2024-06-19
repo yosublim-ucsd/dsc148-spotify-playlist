@@ -4750,7 +4750,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 192080,
       "name": "Sink Or Swim",
       "url": "https://open.spotify.com/track/00FSOP3RZcF20UK4t6wKQt"
@@ -5028,6 +5028,24 @@
       "duration_ms": 153411,
       "name": "Stormy Weather",
       "url": "https://open.spotify.com/track/1OVZlRUXlkLOpWMj3cjlNt"
+    },
+    {
+      "album": {
+        "name": "Liily",
+        "url": "https://open.spotify.com/album/4WO7oxivDXL5d7JE7hO0t4"
+      },
+      "artists": [
+        {
+          "name": "Liily",
+          "url": "https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235283,
+      "name": "SWALLOW",
+      "url": "https://open.spotify.com/track/2OrhUx4vQuLn40TKeCdCkC"
     },
     {
       "album": {

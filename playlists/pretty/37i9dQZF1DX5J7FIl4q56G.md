@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new tracks in metal, hard rock, and all things heavy\. Cover: The Black Dahlia Murder
 
-[Spotify](https://open.spotify.com/user/spotify) - 714,349 likes - 64 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 714,418 likes - 64 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 40 | [Buried In Thorns](https://open.spotify.com/track/0wqUOfb0HekBuIJAmQ3EcU) | [Convictions](https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY) | [Buried In Thorns](https://open.spotify.com/album/1WOpoJ8OkF1MdOSnyhdzOW) | 3:26 |
 | 41 | [Aloy](https://open.spotify.com/track/6GNjw09rgJU3vWdvhnQjqp) | [Gravemind](https://open.spotify.com/artist/2GaM9ww6p0aBZ8omjfINAH) | [Aloy](https://open.spotify.com/album/693WoUOblxlqBsOoH7QBHX) | 4:39 |
 | 42 | [DeLorean](https://open.spotify.com/track/71A9JeZh0wVW3NT6QnTw3n) | [Galleons](https://open.spotify.com/artist/0JE6zkJHzUQRY7rmI919eo) | [DeLorean](https://open.spotify.com/album/6owt1OWGa3ham9VMVW8tyW) | 2:45 |
-| 43 | [Remnant](https://open.spotify.com/track/0OHz95lQ56KTgqAME5GblU) | [Allt](https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM) | [Remnant](https://open.spotify.com/album/3CrsGme4artDy50pspu7W2) | 4:04 |
+| 43 | [Remnant](https://open.spotify.com/track/0OHz95lQ56KTgqAME5GblU) | [Allt](https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM) | [Remnant](https://open.spotify.com/album/3CrsGme4artDy50pspu7W2) | 4:05 |
 | 44 | [Hin Helga kvöl](https://open.spotify.com/track/4Al63sF8CtNkAegXTLcwKM) | [Sólstafir](https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK) | [Hin Helga kvöl](https://open.spotify.com/album/5X0eZLojAXvGHXpFZEzLRo) | 5:42 |
 | 45 | [Hit the Floor](https://open.spotify.com/track/3B0lvSYRzPuQvgcJoT8MF8) | [A\. Yarmak](https://open.spotify.com/artist/2fN0s9StYLKSznf8YNt9rK) | [Katana Zero Goes Metal](https://open.spotify.com/album/4bxznsquDm9FCH6oY9snIp) | 2:45 |
 | 46 | [Try](https://open.spotify.com/track/1NO6y07ggCtbPv3SXEeYfj) | [Elephant Tree](https://open.spotify.com/artist/79z0Z8E5uY2Fc7HO4VGerm) | [Try](https://open.spotify.com/album/1vr7kRdxVbwYcyjaFVp1zM) | 3:49 |

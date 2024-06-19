@@ -2,7 +2,7 @@
 
 ### [Feelgood Indie](https://open.spotify.com/playlist/37i9dQZF1DWWM6GBnxtToT)
 
-> Diese Songs zaubern dir ein Grinsen ins Gesicht.
+> These songs will put a smile on your face.
 
 176 songs - 10 hr 0 min
 

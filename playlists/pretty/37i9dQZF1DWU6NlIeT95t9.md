@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6NlIeT95t9.md) - [plain]
 
 > Meet the future\.  Cover: Bayaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,762 likes - 72 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,764 likes - 72 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

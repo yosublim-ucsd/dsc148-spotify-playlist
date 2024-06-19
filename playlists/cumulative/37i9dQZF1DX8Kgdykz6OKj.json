@@ -372,7 +372,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 189418,
       "name": "Anointed Soul",
       "url": "https://open.spotify.com/track/6kPK6JPNSsWovpDcnfOIyQ"
@@ -2850,7 +2850,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-18",
+      "date_removed": null,
       "duration_ms": 152227,
       "name": "Flowers On The Weekend",
       "url": "https://open.spotify.com/track/2fymL9YLaFKDGMvVDzNGbQ"
@@ -3888,7 +3888,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 188571,
       "name": "i don\u2019t mind",
       "url": "https://open.spotify.com/track/57CL8B4evdteoj7aIkzEZc"
@@ -8280,6 +8280,28 @@
       "duration_ms": 205080,
       "name": "Three Sixty",
       "url": "https://open.spotify.com/track/7weHEmlNuhX947gIGLfQgj"
+    },
+    {
+      "album": {
+        "name": "TMI",
+        "url": "https://open.spotify.com/album/2P3s2G6dsrKnRyJiLbpzqs"
+      },
+      "artists": [
+        {
+          "name": "Vikkie",
+          "url": "https://open.spotify.com/artist/0ED4TBRpD2R4IVZpKr3swH"
+        },
+        {
+          "name": "BLK CLD",
+          "url": "https://open.spotify.com/artist/4CRPuMo8QJ1IZjmz08S55o"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141254,
+      "name": "TMI",
+      "url": "https://open.spotify.com/track/3gLlJykJzLrR8VH1opcFIr"
     },
     {
       "album": {

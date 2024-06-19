@@ -4,7 +4,7 @@
 
 > 
 
-201 songs - 13 hr 59 min
+202 songs - 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Blinding \- Hybrid Minds Remix](https://open.spotify.com/track/2Dy8cTUIP0rf1WZUIWoN8w) | [Jakwob](https://open.spotify.com/artist/4S5yXnFzWvHu16wfuDjjfM) | [Blinding](https://open.spotify.com/album/5UIoVFQSTRve8tHCkdKCT1) | 5:14 | 2016-10-05 |  |
 | [Blue Skies \- Revoke Remix](https://open.spotify.com/track/1MKfplOg9xC8EIzL9nMBWi) | [Lenka](https://open.spotify.com/artist/5g3uG8zZZANGT6YOssgjfC), [REVOKE](https://open.spotify.com/artist/1jUWnDhXB6JyBLh1dyAOUc) | [Blue Skies: The Remixes](https://open.spotify.com/album/0kkBJyIlvu9I2NqpgPS4xq) | 3:26 | 2017-02-16 |  |
 | [Bring It Back](https://open.spotify.com/track/1n93IBxGlmQ53wkcmTDpIa) | [Two Thirds](https://open.spotify.com/artist/5EuLaMwYamree7kzPvrPds) | [Monstercat \- Best of DnB/Drumstep, Vol\. 1.](https://open.spotify.com/album/2XV1AsAcqOChVB8Hsevx3H) | 5:18 | 2016-06-27 |  |
+| [Broken Love](https://open.spotify.com/track/300yMbSPjCi6fo9EpCVwyC) | [Quarantino](https://open.spotify.com/artist/5y4NgF9HhK3EgWbfjLRX7e) | [Broken Love](https://open.spotify.com/album/6KamujvpdIeso5B5G7urpx) | 2:36 | 2024-06-18 |  |
 | [Bullet Train \(feat\. Joni Fatora\)](https://open.spotify.com/track/6lbhkPbkKj6jnPTt1FelVo) | [Stephen Swartz](https://open.spotify.com/artist/2RMgYVDRYOGHlqqcushWNU) | [Bullet Train \(feat\. Joni Fatora\)](https://open.spotify.com/album/1Yd1ARdvNdMUo6KnuN6q6w) | 4:05 | 2016-05-22 |  |
 | [Calling Out \(feat\. KG & Skyelle\)](https://open.spotify.com/track/6EOIhxrgVQKpHFYpTheSWd) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg), [KG](https://open.spotify.com/artist/2y0QGjnlzB39Nf2duLQoxk), [Skyelle](https://open.spotify.com/artist/5mMt0V809N7Y5mOUYsmOW6) | [Calling Out \(feat\. KG & Skyelle\)](https://open.spotify.com/album/5fbMm1EbdfTXjj81SDuZ6H) | 5:35 | 2016-07-14 |  |
 | [Carry On](https://open.spotify.com/track/2yZax79pOrYuyIFVW2cZY2) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 2:09 | 2019-09-17 |  |

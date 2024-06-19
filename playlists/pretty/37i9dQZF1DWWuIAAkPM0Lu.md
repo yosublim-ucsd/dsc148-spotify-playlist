@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > ⭐️ <a href="spotify:artist:7c7ZeiPKWHf2E1rsf1P4VF">Medina</a> gir os alt hun har ⭐️
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,255 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,256 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -322,7 +322,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 242400,
       "name": "Binbo\u011fa",
       "url": "https://open.spotify.com/track/0zxL1Bz2ntGvyljo7EVO39"
@@ -738,7 +738,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-11",
+      "date_removed": null,
       "duration_ms": 244973,
       "name": "Doppelganger",
       "url": "https://open.spotify.com/track/7hWdNwrLMi89VNngqPxsm8"
@@ -850,7 +850,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 237832,
       "name": "El Diablo Y El \u00d1au \u00d1au (feat. Chico Mann)",
       "url": "https://open.spotify.com/track/6mYsi0PrM4EdDBV5cfsNyp"
@@ -1404,7 +1404,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-18",
+      "date_removed": null,
       "duration_ms": 276000,
       "name": "L'homme f\u00e9lin",
       "url": "https://open.spotify.com/track/1p8nQ36Vd8akX6JaJJ9UAY"
@@ -1837,6 +1837,24 @@
     },
     {
       "album": {
+        "name": "Mosala",
+        "url": "https://open.spotify.com/album/2qGMYynKHNwJ2ba9TqDRfX"
+      },
+      "artists": [
+        {
+          "name": "Fulu Miziki",
+          "url": "https://open.spotify.com/artist/5YpOlimBuGWDamh62kx4cu"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Mosala",
+      "url": "https://open.spotify.com/track/05sFsVvxPFftqs3ZJy7X0B"
+    },
+    {
+      "album": {
         "name": "Where's The One?",
         "url": "https://open.spotify.com/album/1fFYogV5iktpPIuhfTZQ0N"
       },
@@ -2226,7 +2244,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 285241,
       "name": "Ordunun Dereleri",
       "url": "https://open.spotify.com/track/64Pztp6tg1ZBV9zF09mdFr"
@@ -2688,6 +2706,24 @@
       "duration_ms": 212621,
       "name": "Sr. Tigre - French Braids Rework",
       "url": "https://open.spotify.com/track/3u2hfoDnXpCiQQRQkblecj"
+    },
+    {
+      "album": {
+        "name": "Pesce Rosso / Stella Marina (Habibi Funk Limited 002)",
+        "url": "https://open.spotify.com/album/5X0uXObzBzYbz5Wt7xZZn2"
+      },
+      "artists": [
+        {
+          "name": "Charif Megarbane",
+          "url": "https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169333,
+      "name": "Stella Marina",
+      "url": "https://open.spotify.com/track/3ooN2Dz3PvuVHuy1fURigy"
     },
     {
       "album": {
@@ -3172,7 +3208,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 238288,
       "name": "Uummati Attanarsimat (Heart of Glass)",
       "url": "https://open.spotify.com/track/74RYxK9eVeNDLdlCJTmQnJ"

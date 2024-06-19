@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Durand Bernarr
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,499 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,595 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 25 | [Space Cowgirl](https://open.spotify.com/track/2S9vlLu8yA1zsfexGaDeAe) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [ENGELDULL EP](https://open.spotify.com/album/6maWuiHoaPS5o67GbFCK9K) | 3:11 |
 | 26 | [Look Around](https://open.spotify.com/track/4cH9h6nvtxYNo450VXEo1s) | [Dux](https://open.spotify.com/artist/4KhjcdYNau3U89mU0hLuqr), [Moorea Masa & the Mood](https://open.spotify.com/artist/4Hs0J7IFJzXGJLhnytbCfR), [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP) | [Look Around](https://open.spotify.com/album/6ttL4crGEJOfpcIiEVQFmM) | 3:41 |
 | 27 | [The Influencers](https://open.spotify.com/track/0SlZtFKCvY6hLjDNEgGQMe) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT), [Fantaazma](https://open.spotify.com/artist/2PSnVa4aT9bntUbGmLAa0V), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Westcoast Stone](https://open.spotify.com/artist/57rHgqodIDand2TzQgqcmm) | [The Influencers](https://open.spotify.com/album/0KjHXHl5skSrt07K2ejxcn) | 4:37 |
-| 28 | [One Last Dance](https://open.spotify.com/track/0nRKvQcTyF1eaJ1l2QM62i) | [Joseph Luca](https://open.spotify.com/artist/1IWfY0owaPFIphGyuZ0oBu), [The Pocket Queen](https://open.spotify.com/artist/4VjLpSXI7zOBMj8jsFAP9w) | [One Last Dance](https://open.spotify.com/album/01DAXu7k20vJkTA21Bcjhe) | 3:18 |
+| 28 | [One Last Dance \(feat\. The Pocket Queen\)](https://open.spotify.com/track/0nRKvQcTyF1eaJ1l2QM62i) | [Joseph Luca](https://open.spotify.com/artist/1IWfY0owaPFIphGyuZ0oBu), [The Pocket Queen](https://open.spotify.com/artist/4VjLpSXI7zOBMj8jsFAP9w) | [One Last Dance \(feat\. The Pocket Queen\)](https://open.spotify.com/album/01DAXu7k20vJkTA21Bcjhe) | 3:18 |
 | 29 | [High \(When I’m Low\)](https://open.spotify.com/track/1hCemip7lYfAnPSWRYyf0z) | [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9), [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [LunchMoney Lewis](https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S) | [High \(When I’m Low\)](https://open.spotify.com/album/4bqPhRP8HDMoA6cO0GhO0W) | 2:48 |
 | 30 | [No Way Around It](https://open.spotify.com/track/65AYAfDtAXpEx3AYgdobPK) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [RoneyBoys](https://open.spotify.com/artist/6Udsi9z7n5Ucvf781MzgjY) | [No Way Around It](https://open.spotify.com/album/3K9GvH6NNuohRjrKHFfqmB) | 3:11 |
 | 31 | [Atlanta](https://open.spotify.com/track/4WOfRya3PSbwNk0ZTU8ent) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Atlanta](https://open.spotify.com/album/6daZUauCIOcopysTBj9CVj) | 3:03 |

@@ -4,7 +4,7 @@
 
 > Acuérdate de estos clásicos\. Foto: Don Omar.
 
-464 songs - 1 day 3 hr 37 min
+466 songs - 1 day 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Algo Me Gusta De Ti](https://open.spotify.com/track/3nDNXKBb5fRTuQXpeowWTT) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Líderes](https://open.spotify.com/album/6tOFRRXAis3nniv1wG6Nae) | 4:35 | 2022-07-27 | 2023-10-19 |
 | [Algo Musical](https://open.spotify.com/track/4oYN44rloSqxabqrSgIani) | [Ñejo & Dalmata](https://open.spotify.com/artist/1ykothWH0xl8drRyJWuw7I), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Exitos](https://open.spotify.com/album/5uLpJQSoYXqglBHaG8MbPx) | 3:29 | 2021-12-17 |  |
 | [All Up 2 You \(feat\. Akon, Wisin & Yandel\)](https://open.spotify.com/track/48FsqSKpgoZZFr6aS1IDK5) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 3:38 | 2021-12-17 |  |
+| [Alocate](https://open.spotify.com/track/6Xc5cfbWz7MUxqAZpxj2bT) | [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [Mas Flow \- Los Benjamins](https://open.spotify.com/album/0sMHBG6T20O56Wrtu1pR1f) | 2:32 | 2024-06-18 |  |
 | [Alocate](https://open.spotify.com/track/58smrlsnspzIZKaiSJEJ6y) | [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [20 Number 1's Now](https://open.spotify.com/album/4POWs8wn88db9OmY9strlo) | 3:06 | 2023-12-21 | 2024-06-17 |
 | [Amor Con la Ropa](https://open.spotify.com/track/3zxswdYHKQKV9SA8E6eEFH) | [Sir Speedy](https://open.spotify.com/artist/3gkGhLkCTEmfGy095Wum3s) | [Nueva Generación](https://open.spotify.com/album/218z2P2Cl8TWrE3P3lOJDl) | 2:11 | 2022-07-27 | 2024-04-19 |
 | [Amor Con La Ropa](https://open.spotify.com/track/2djANHWiGt7BP8kCrYOnbo) | [Speedy](https://open.spotify.com/artist/5DMTLrpmTZO8GLDZ5Je1yT) | [Nueva Generación](https://open.spotify.com/album/3lrhLlw55mjyUCaO0FBYwu) | 2:11 | 2022-03-15 | 2022-05-13 |
@@ -53,7 +54,7 @@
 | [Ayer La Vi](https://open.spotify.com/track/3gvGnkmg8zVZdBAx4B7Cvq) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [King Of Kings \(Armageddon Edition\)](https://open.spotify.com/album/5P7eeivoVmpnalOUtwzj4h) | 4:12 | 2021-12-17 | 2022-07-29 |
 | [Baila Morena](https://open.spotify.com/track/4dNRA8hrqj7XJvFhGSQsKe) | [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Emigrante Del Mundo \(Remastered\)](https://open.spotify.com/album/1eoYupgvxWRBT6nHnAHjEQ) | 3:04 | 2022-07-27 | 2024-04-19 |
 | [Baila Morena \- Original Reggaeton Mix](https://open.spotify.com/track/0kwaKhIcaezQuShga1djFA) | [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7) | [Baila Morena \(Reggaeton Mix\)](https://open.spotify.com/album/6bkuWevak6ZwLiXZaNVNSr) | 3:07 | 2021-12-17 | 2022-07-28 |
-| [Bailame](https://open.spotify.com/track/491iDJVvDHYffvfKUIMWhC) | [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr) | [2007 Años De Exitos Reggaeton](https://open.spotify.com/album/26zyyIjsP6eCPV9H7urkVq) | 3:41 | 2022-05-24 |  |
+| [Bailame](https://open.spotify.com/track/491iDJVvDHYffvfKUIMWhC) | [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr) | [2007 Años De Exitos Reggaeton](https://open.spotify.com/album/26zyyIjsP6eCPV9H7urkVq) | 3:41 | 2022-05-24 | 2024-06-19 |
 | [Bailando](https://open.spotify.com/track/2WkWjXV1lQtSFNZoFzu3r0) | [Yaga & Mackie](https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7), [Nina Sky](https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6) | [La Moda](https://open.spotify.com/album/56Q6ntbM1nWdyjJj7rWLWz) | 3:10 | 2022-10-12 |  |
 | [Bailando Fue](https://open.spotify.com/track/5IhmIlLgSpp9GtztqrTP2v) | [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Jowell](https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Bailando Fue](https://open.spotify.com/album/4YB6pWN3gdxtfM3ZZt6AOh) | 4:21 | 2021-12-17 | 2022-10-05 |
 | [Bailando por Ahi](https://open.spotify.com/track/4QJznEbuwYc5CnPzI7xAZy) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [The King Of Dance](https://open.spotify.com/album/0ReZGnwwE1cwqgyIwOfluR) | 3:02 | 2023-07-24 |  |
@@ -451,11 +452,12 @@
 | [Virtual Diva](https://open.spotify.com/track/0vnzk4L0JyMODSqLp3pHwo) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Virtual Diva](https://open.spotify.com/album/5tOWTmiFfFhNUuYntiopu8) | 4:02 | 2021-12-17 | 2022-07-29 |
 | [Volverás a Mí](https://open.spotify.com/track/6VZNYWQcBxWL3EPFNv4Rh2) | [Yelsid](https://open.spotify.com/artist/0BkX3f2WgeqNgvulzPLc7R) | [La Voz](https://open.spotify.com/album/6agMJk2h9mZIbOheTL9YQi) | 3:16 | 2021-12-17 |  |
 | [Voz Sensual](https://open.spotify.com/track/4eBRM5oc92XWVomWI3OsUf) | [Big Boy](https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG) | [Mis Ojos Lloran Por Ti](https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc) | 2:51 | 2023-12-21 |  |
+| [Vuelve](https://open.spotify.com/track/1QYQaNlkmzIol3BdqFtGqb) | [Latin Dreams](https://open.spotify.com/artist/0fbZUQ5vFLok76WdZ33lhX) | [Quiero Una Chica](https://open.spotify.com/album/24onBhnqUpvHxa86tmKpNe) | 2:55 | 2024-06-18 |  |
 | [Vuelve](https://open.spotify.com/track/41f2YVgXW3t3fZ7EoHrKGH) | [Latin Dreams](https://open.spotify.com/artist/0fbZUQ5vFLok76WdZ33lhX) | [Quiero Una Chica](https://open.spotify.com/album/34eKYYPYq2EhyTVaQiQjfT) | 3:08 | 2021-12-17 | 2023-04-16 |
 | [Web Cam](https://open.spotify.com/track/5FvBm21bpgoTjq6GQi4mu9) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [El Talento del Bloque](https://open.spotify.com/album/2FGhhlr2SX31pVXnrd13kq) | 3:26 | 2022-07-27 | 2024-04-19 |
 | [Web Cam](https://open.spotify.com/track/76tsb1MlePUaN0Y3R8w0KO) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [The Ones](https://open.spotify.com/album/31WdDt5NcgMhHA8Uh1RZFA) | 3:26 | 2021-12-17 | 2022-07-29 |
 | [Welcome To My Crib](https://open.spotify.com/track/3taCy6SW79HbVJotZc03gB) | [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [Los Benjamins \- La Continuacion](https://open.spotify.com/album/5IsjHngPrl7LI1001ZUjTM) | 4:07 | 2023-12-21 | 2024-04-19 |
-| [Welcome To My Crib](https://open.spotify.com/track/5MKnA9nLv9kfB6Dnxqf5Oa) | [Randy Nota Loka](https://open.spotify.com/artist/00ynzcADdPN4jUqiwb5D8A) | [20 Number 1's Now](https://open.spotify.com/album/4POWs8wn88db9OmY9strlo) | 4:07 | 2021-12-17 |  |
+| [Welcome To My Crib](https://open.spotify.com/track/5MKnA9nLv9kfB6Dnxqf5Oa) | [Randy Nota Loka](https://open.spotify.com/artist/00ynzcADdPN4jUqiwb5D8A) | [20 Number 1's Now](https://open.spotify.com/album/4POWs8wn88db9OmY9strlo) | 4:07 | 2021-12-17 | 2024-06-19 |
 | [Wiki Wiki](https://open.spotify.com/track/3zyu1YrtgFRdrc16HIQior) | [Yaviah](https://open.spotify.com/artist/0Y30TbA4p8SAfCzy2AFBa8) | [La Misión 4](https://open.spotify.com/album/7u87mg6bU1J3bL1nK3F0V0) | 2:49 | 2022-07-27 | 2024-04-19 |
 | [Wiki Wiki](https://open.spotify.com/track/5GGecqjnP2hvrhhfFAl4VO) | [Yaviah](https://open.spotify.com/artist/0Y30TbA4p8SAfCzy2AFBa8) | [La Misión 4](https://open.spotify.com/album/05vrChqlagPD4ALM4L3TAG) | 2:49 | 2021-12-17 | 2022-05-15 |
 | [Ya estoy llegando](https://open.spotify.com/track/7zFBXWKZah3pMlSMUCYfVU) | [Divino](https://open.spotify.com/artist/3PkVrt8lRBTV2RDSICxz5X) | [Todo a su tiempo](https://open.spotify.com/album/18neQPQsVNNFYYpFAWrthZ) | 2:42 | 2023-12-21 |  |

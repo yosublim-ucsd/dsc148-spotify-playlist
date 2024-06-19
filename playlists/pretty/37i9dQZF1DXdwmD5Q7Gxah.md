@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > cover: jelani aryeh
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,149,358 likes - 130 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,149,419 likes - 130 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

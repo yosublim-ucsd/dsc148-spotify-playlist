@@ -1,12 +1,12 @@
 {
   "description": "This is Slim Dusty. The essential tracks, all in one playlist.",
-  "num_followers": 22875,
+  "num_followers": 22876,
   "original_name": "This Is Slim Dusty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zm4rAAAAAADdjsOPF+Z6XbnXAlG3PEVx",
+  "snapshot_id": "Zm98gAAAAADfTj/xP5qTAentOe5BsyOf",
   "tracks": [
     {
       "added_at": null,
@@ -56,9 +56,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 155026,
-      "name": "Duncan",
-      "url": "https://open.spotify.com/track/6jHBKCN0A4nYI8Y6RZ5vBj"
+      "duration_ms": 180906,
+      "name": "A Pub With No Beer - 1979 Version",
+      "url": "https://open.spotify.com/track/0TJSVhxbtUzejxxkDnIHmp"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'll Take Mine Country Style",
-        "url": "https://open.spotify.com/album/1j3QzDW5zZo6o44C6whI59"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 131093,
-      "name": "Cunnamulla Feller - Remaster 1995",
-      "url": "https://open.spotify.com/track/1HMf9KUJDJvphsme4RiG6B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sittin' On 80 (Remastered)",
         "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 174333,
       "name": "Give Me Room",
       "url": "https://open.spotify.com/track/2yiMsEVRfPfs9olrhFmi0E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'll Take Mine Country Style",
+        "url": "https://open.spotify.com/album/1j3QzDW5zZo6o44C6whI59"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 131093,
+      "name": "Cunnamulla Feller - Remaster 1995",
+      "url": "https://open.spotify.com/track/1HMf9KUJDJvphsme4RiG6B"
     },
     {
       "added_at": null,
@@ -599,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Singer From Down Under",
+        "url": "https://open.spotify.com/album/4UdTfWAwOn6cKwY8xtLJuB"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 195400,
+      "name": "Traveller's Prayer - 1996 Remaster",
+      "url": "https://open.spotify.com/track/44g3o4cQv7wMSpogAUArWg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Give Me The Road (Remastered)",
         "url": "https://open.spotify.com/album/0ih1aK9XXImHlI8Zyr4bX5"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 198586,
       "name": "I'm Married To My Bulldog Mack - 2009 Digital Remaster",
       "url": "https://open.spotify.com/track/0wQNp6E0dtrERTq2Jqy3sA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Singer From Down Under",
-        "url": "https://open.spotify.com/album/4UdTfWAwOn6cKwY8xtLJuB"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 195400,
-      "name": "Traveller's Prayer - 1996 Remaster",
-      "url": "https://open.spotify.com/track/44g3o4cQv7wMSpogAUArWg"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sittin' On 80 (Remastered)",
-        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Highway Fever - 2009 Digital Remaster",
-      "url": "https://open.spotify.com/track/4rvvKIQ47CesB4m5ke6DYW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Natural High",
         "url": "https://open.spotify.com/album/1F4XU3rfCw5mozAU7JZAlf"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 178066,
       "name": "Some Things Never Change Out Here",
       "url": "https://open.spotify.com/track/3HTcXIE7RmBzYP5DrqfZ9h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sittin' On 80 (Remastered)",
+        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Highway Fever - 2009 Digital Remaster",
+      "url": "https://open.spotify.com/track/4rvvKIQ47CesB4m5ke6DYW"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
       "duration_ms": 240413,
       "name": "Something In The Pilliga",
       "url": "https://open.spotify.com/track/42fl1eHeTq8xsSvNZKoJ9u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Truck Songs",
-        "url": "https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 150853,
-      "name": "No Good Truckin' Man",
-      "url": "https://open.spotify.com/track/03IVyqOYqy4EaBCb1wd56j"
     }
   ],
   "unique_name": "This Is Slim Dusty",

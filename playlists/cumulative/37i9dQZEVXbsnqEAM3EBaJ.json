@@ -8807,6 +8807,24 @@
     },
     {
       "album": {
+        "name": "Boston Tea Party, Boston 1970",
+        "url": "https://open.spotify.com/album/24TZHrFBS55qRZ8G5SK575"
+      },
+      "artists": [
+        {
+          "name": "Jethro Tull",
+          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350722,
+      "name": "For a Thousand Mothers - Live",
+      "url": "https://open.spotify.com/track/6WQzrcoT13xFaACybHjgIZ"
+    },
+    {
+      "album": {
         "name": "Shadow Kingdom",
         "url": "https://open.spotify.com/album/1bp23TX5hrEDSDykAaTCkE"
       },
@@ -10228,7 +10246,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 899651,
       "name": "Guitar Solo / Jam - Live",
       "url": "https://open.spotify.com/track/038YTyXDatDtKksEHRB5pG"
@@ -14566,7 +14584,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 224243,
       "name": "La Vida y la Libertad",
       "url": "https://open.spotify.com/track/0LpzBuOMD5OgSU3uzCHnFZ"
@@ -20836,7 +20854,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 172499,
       "name": "Quest for Eternal Embrace",
       "url": "https://open.spotify.com/track/15w7LwhA6pqj8YToruNINS"
@@ -23528,7 +23546,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 108946,
       "name": "Singular Ecstasy",
       "url": "https://open.spotify.com/track/08eqsJQJFs5rAqyeqwJAoZ"
@@ -26996,13 +27014,17 @@
         {
           "name": "Evanescence",
           "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        },
+        {
+          "name": "Amy Lee",
+          "url": "https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk"
         }
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 322679,
-      "name": "The Reckoning (feat. Amy Lee) - Live in Amsterdam",
+      "name": "The Reckoning - Live in Amsterdam",
       "url": "https://open.spotify.com/track/2DD2UFduTpt2vq8WefvFtp"
     },
     {
@@ -31414,6 +31436,28 @@
       "duration_ms": 200338,
       "name": "\u00bfD\u00f3nde Se Llora Cuando Se Llora?",
       "url": "https://open.spotify.com/track/3gOLaMEE4RnH5AQrzHwCZB"
+    },
+    {
+      "album": {
+        "name": "Que Viva el Chamam\u00e9",
+        "url": "https://open.spotify.com/album/4HenxJp1vS4ki7Bhye7H0D"
+      },
+      "artists": [
+        {
+          "name": "Antonio Tarrag\u00f3 Ros",
+          "url": "https://open.spotify.com/artist/65jGZiPXVWGDlLhnICMfvI"
+        },
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241295,
+      "name": "\u00d1angapiri",
+      "url": "https://open.spotify.com/track/7brVRN8EAO70iJscFiVTge"
     },
     {
       "album": {

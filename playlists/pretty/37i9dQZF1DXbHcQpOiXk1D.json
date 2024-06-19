@@ -1,6 +1,6 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Nubiyan Twist",
-  "num_followers": 312887,
+  "num_followers": 312908,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
@@ -403,8 +403,8 @@
     {
       "added_at": "2024-06-14 10:17:00",
       "album": {
-        "name": "Black Classical Music",
-        "url": "https://open.spotify.com/album/2A5yzYdLTVTLQaCp4CTKwG"
+        "name": "Chasing the Drum - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1skZcEagq9Q9DHgeuHYb9F"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
         }
       ],
-      "duration_ms": 191893,
-      "name": "Turquoise Galaxy",
-      "url": "https://open.spotify.com/track/71vcxMgWBvsUbwtRBzk2Vd"
+      "duration_ms": 221986,
+      "name": "Chasing the Drum - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/0kJ4GK8E5eDy7WYUQ5fUT5"
     },
     {
       "added_at": "2024-06-14 10:17:00",
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-06-14 10:17:00",
       "album": {
+        "name": "The Seer",
+        "url": "https://open.spotify.com/album/41ege95duesxAA0g2MRXoa"
+      },
+      "artists": [
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        }
+      ],
+      "duration_ms": 302960,
+      "name": "The Seer",
+      "url": "https://open.spotify.com/track/1Z3RwVpioQ9GvWL3LJQXe2"
+    },
+    {
+      "added_at": "2024-06-14 10:17:00",
+      "album": {
         "name": "HIZUKI // PERFECT DIVIDE",
         "url": "https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF"
       },
@@ -455,6 +471,22 @@
       "duration_ms": 250480,
       "name": "Hizuki",
       "url": "https://open.spotify.com/track/6zfqWviNnpoLbB7lO3Yzwj"
+    },
+    {
+      "added_at": "2024-06-14 10:17:00",
+      "album": {
+        "name": "More Than This",
+        "url": "https://open.spotify.com/album/7FfQGdPblAtsR3cF7u1Qmp"
+      },
+      "artists": [
+        {
+          "name": "Myles Sanko",
+          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
+        }
+      ],
+      "duration_ms": 222989,
+      "name": "More Than This",
+      "url": "https://open.spotify.com/track/3fYHcbbE5I88UKIPg2Oa2f"
     },
     {
       "added_at": "2024-06-14 10:17:00",
@@ -515,18 +547,18 @@
     {
       "added_at": "2024-06-14 10:17:00",
       "album": {
-        "name": "More Than This",
-        "url": "https://open.spotify.com/album/7FfQGdPblAtsR3cF7u1Qmp"
+        "name": "Black Classical Music",
+        "url": "https://open.spotify.com/album/2A5yzYdLTVTLQaCp4CTKwG"
       },
       "artists": [
         {
-          "name": "Myles Sanko",
-          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
         }
       ],
-      "duration_ms": 222989,
-      "name": "More Than This",
-      "url": "https://open.spotify.com/track/3fYHcbbE5I88UKIPg2Oa2f"
+      "duration_ms": 191893,
+      "name": "Turquoise Galaxy",
+      "url": "https://open.spotify.com/track/71vcxMgWBvsUbwtRBzk2Vd"
     },
     {
       "added_at": "2024-06-14 10:17:00",
@@ -543,54 +575,6 @@
       "duration_ms": 175635,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/4fcGgxx1moBvJZDgRU0hTk"
-    },
-    {
-      "added_at": "2024-06-14 10:17:00",
-      "album": {
-        "name": "Chasing the Drum - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/1skZcEagq9Q9DHgeuHYb9F"
-      },
-      "artists": [
-        {
-          "name": "Yussef Dayes",
-          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
-        }
-      ],
-      "duration_ms": 221986,
-      "name": "Chasing the Drum - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/0kJ4GK8E5eDy7WYUQ5fUT5"
-    },
-    {
-      "added_at": "2024-06-14 10:17:00",
-      "album": {
-        "name": "The Seer",
-        "url": "https://open.spotify.com/album/41ege95duesxAA0g2MRXoa"
-      },
-      "artists": [
-        {
-          "name": "Nubya Garcia",
-          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
-        }
-      ],
-      "duration_ms": 302960,
-      "name": "The Seer",
-      "url": "https://open.spotify.com/track/1Z3RwVpioQ9GvWL3LJQXe2"
-    },
-    {
-      "added_at": "2024-06-14 10:17:00",
-      "album": {
-        "name": "So Mi Stay",
-        "url": "https://open.spotify.com/album/2TGuOjs6ree8F2eB1A4S1n"
-      },
-      "artists": [
-        {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
-        }
-      ],
-      "duration_ms": 263160,
-      "name": "So Mi Stay",
-      "url": "https://open.spotify.com/track/11u619J5WmRcm5ByntmjWQ"
     },
     {
       "added_at": "2024-06-14 10:17:00",
@@ -631,6 +615,22 @@
     {
       "added_at": "2024-06-14 10:17:00",
       "album": {
+        "name": "Never Doubt",
+        "url": "https://open.spotify.com/album/7JBHfFH8n8HNHvwZTgMmr3"
+      },
+      "artists": [
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        }
+      ],
+      "duration_ms": 250399,
+      "name": "Never Doubt",
+      "url": "https://open.spotify.com/track/2n3IsOUF3qp6tHHozmEKGy"
+    },
+    {
+      "added_at": "2024-06-14 10:17:00",
+      "album": {
         "name": "Losing You",
         "url": "https://open.spotify.com/album/3MYehd7LTXflbdYn3y4CoX"
       },
@@ -651,18 +651,18 @@
     {
       "added_at": "2024-06-14 10:17:00",
       "album": {
-        "name": "Never Doubt",
-        "url": "https://open.spotify.com/album/7JBHfFH8n8HNHvwZTgMmr3"
+        "name": "FIELDNOTES PT III",
+        "url": "https://open.spotify.com/album/1mN1K7R6kn8FqBP2OY613q"
       },
       "artists": [
         {
-          "name": "Blue Lab Beats",
-          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
         }
       ],
-      "duration_ms": 250399,
-      "name": "Never Doubt",
-      "url": "https://open.spotify.com/track/2n3IsOUF3qp6tHHozmEKGy"
+      "duration_ms": 191707,
+      "name": "Take It Easy (Miles' Song)",
+      "url": "https://open.spotify.com/track/2wL4LR49SRUAaKvZMiUvob"
     },
     {
       "added_at": "2024-06-14 10:17:00",
@@ -683,18 +683,18 @@
     {
       "added_at": "2024-06-14 10:17:00",
       "album": {
-        "name": "FIELDNOTES PT III",
-        "url": "https://open.spotify.com/album/1mN1K7R6kn8FqBP2OY613q"
+        "name": "So Mi Stay",
+        "url": "https://open.spotify.com/album/2TGuOjs6ree8F2eB1A4S1n"
       },
       "artists": [
         {
-          "name": "Ego Ella May",
-          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
         }
       ],
-      "duration_ms": 191707,
-      "name": "Take It Easy (Miles' Song)",
-      "url": "https://open.spotify.com/track/2wL4LR49SRUAaKvZMiUvob"
+      "duration_ms": 263160,
+      "name": "So Mi Stay",
+      "url": "https://open.spotify.com/track/11u619J5WmRcm5ByntmjWQ"
     },
     {
       "added_at": "2024-06-14 10:17:00",
@@ -771,6 +771,30 @@
     {
       "added_at": "2024-06-14 10:17:00",
       "album": {
+        "name": "Foolish",
+        "url": "https://open.spotify.com/album/35DVmHSUYniWufKx4v4Qd6"
+      },
+      "artists": [
+        {
+          "name": "Lauren-Paige",
+          "url": "https://open.spotify.com/artist/6raiV71XhBDlAjidWMKfib"
+        },
+        {
+          "name": "little george",
+          "url": "https://open.spotify.com/artist/1iecflO2Ji78jndNbwQvjY"
+        },
+        {
+          "name": "Dale May",
+          "url": "https://open.spotify.com/artist/6hz2v83UkrPVrDaZHhDbyT"
+        }
+      ],
+      "duration_ms": 195132,
+      "name": "Foolish",
+      "url": "https://open.spotify.com/track/3DYIUnrZVtOrRz4E3hwu5Q"
+    },
+    {
+      "added_at": "2024-06-14 10:17:00",
+      "album": {
         "name": "Sample The Sky",
         "url": "https://open.spotify.com/album/0p0lwsjdhGotcvunazwuRB"
       },
@@ -807,46 +831,6 @@
     {
       "added_at": "2024-06-14 10:17:00",
       "album": {
-        "name": "Foolish",
-        "url": "https://open.spotify.com/album/35DVmHSUYniWufKx4v4Qd6"
-      },
-      "artists": [
-        {
-          "name": "Lauren-Paige",
-          "url": "https://open.spotify.com/artist/6raiV71XhBDlAjidWMKfib"
-        },
-        {
-          "name": "little george",
-          "url": "https://open.spotify.com/artist/1iecflO2Ji78jndNbwQvjY"
-        },
-        {
-          "name": "Dale May",
-          "url": "https://open.spotify.com/artist/6hz2v83UkrPVrDaZHhDbyT"
-        }
-      ],
-      "duration_ms": 195132,
-      "name": "Foolish",
-      "url": "https://open.spotify.com/track/3DYIUnrZVtOrRz4E3hwu5Q"
-    },
-    {
-      "added_at": "2024-06-14 10:17:00",
-      "album": {
-        "name": "Rising",
-        "url": "https://open.spotify.com/album/6TdOE1Wti5pSRxOW6Y9xT0"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Myra",
-          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
-        }
-      ],
-      "duration_ms": 431293,
-      "name": "Rising",
-      "url": "https://open.spotify.com/track/7wf5JNpQcrsPTwN4h1lKCU"
-    },
-    {
-      "added_at": "2024-06-14 10:17:00",
-      "album": {
         "name": "Infinite Reflections",
         "url": "https://open.spotify.com/album/0meFGx9eWzacSifnRoxwf0"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 257624,
       "name": "Outer Sea",
       "url": "https://open.spotify.com/track/1XIgbKMs3Jf9n5QCuT7QTf"
+    },
+    {
+      "added_at": "2024-06-14 10:17:00",
+      "album": {
+        "name": "Rising",
+        "url": "https://open.spotify.com/album/6TdOE1Wti5pSRxOW6Y9xT0"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Myra",
+          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
+        }
+      ],
+      "duration_ms": 431293,
+      "name": "Rising",
+      "url": "https://open.spotify.com/track/7wf5JNpQcrsPTwN4h1lKCU"
     },
     {
       "added_at": "2024-06-14 10:17:00",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-06-14 10:17:00",
       "album": {
+        "name": "All Black Everything",
+        "url": "https://open.spotify.com/album/1mEy3yttQpCAuNwdMc1Qng"
+      },
+      "artists": [
+        {
+          "name": "Amy Gadiaga",
+          "url": "https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x"
+        }
+      ],
+      "duration_ms": 306714,
+      "name": "All Black Everything",
+      "url": "https://open.spotify.com/track/2qZpjV0ABiaoMBhjslXXkf"
+    },
+    {
+      "added_at": "2024-06-14 10:17:00",
+      "album": {
         "name": "Honest Mistake",
         "url": "https://open.spotify.com/album/61cgfMVzBy0dtDFWGrZl6t"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 176874,
       "name": "Rite of Passage",
       "url": "https://open.spotify.com/track/3QB9XSrhotF0v8tkML3F3r"
-    },
-    {
-      "added_at": "2024-06-14 10:17:00",
-      "album": {
-        "name": "All Black Everything",
-        "url": "https://open.spotify.com/album/1mEy3yttQpCAuNwdMc1Qng"
-      },
-      "artists": [
-        {
-          "name": "Amy Gadiaga",
-          "url": "https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x"
-        }
-      ],
-      "duration_ms": 306714,
-      "name": "All Black Everything",
-      "url": "https://open.spotify.com/track/2qZpjV0ABiaoMBhjslXXkf"
     },
     {
       "added_at": "2024-06-14 10:17:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-06-14 10:17:00",
       "album": {
-        "name": "Mississippi Goddam",
-        "url": "https://open.spotify.com/album/6RxEkkZCUtNwCvFsv2pm97"
-      },
-      "artists": [
-        {
-          "name": "Ashley Henry",
-          "url": "https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw"
-        }
-      ],
-      "duration_ms": 211030,
-      "name": "Mississippi Goddam",
-      "url": "https://open.spotify.com/track/4Wt6CQv405BTx52dHQbxPn"
-    },
-    {
-      "added_at": "2024-06-14 10:17:00",
-      "album": {
         "name": "Could We Be More Remixes",
         "url": "https://open.spotify.com/album/1lLEKH0KEbDDW6Wgw4EEDA"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 304973,
       "name": "Somethings Going On (Miles James Remix)",
       "url": "https://open.spotify.com/track/7yf2KoMTGewH8szzkOwS9o"
+    },
+    {
+      "added_at": "2024-06-14 10:17:00",
+      "album": {
+        "name": "Mississippi Goddam",
+        "url": "https://open.spotify.com/album/6RxEkkZCUtNwCvFsv2pm97"
+      },
+      "artists": [
+        {
+          "name": "Ashley Henry",
+          "url": "https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw"
+        }
+      ],
+      "duration_ms": 211030,
+      "name": "Mississippi Goddam",
+      "url": "https://open.spotify.com/track/4Wt6CQv405BTx52dHQbxPn"
     },
     {
       "added_at": "2024-06-14 10:17:00",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2024-06-14 10:17:00",
       "album": {
-        "name": "Sample The Earth",
-        "url": "https://open.spotify.com/album/39n09ITi1qfmqBZz39IRYz"
+        "name": "Ode Two",
+        "url": "https://open.spotify.com/album/1tlMMViXebh8UtEkYOSJQk"
       },
       "artists": [
         {
-          "name": "Laura Misch",
-          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+          "name": "Tanhai Collective",
+          "url": "https://open.spotify.com/artist/26b6sds0w1dppBvAeSwv73"
         }
       ],
-      "duration_ms": 281256,
-      "name": "Widening Circles - Regrown",
-      "url": "https://open.spotify.com/track/5naAaC0pdrvUzNzlnlvdnc"
+      "duration_ms": 311686,
+      "name": "Ode Two",
+      "url": "https://open.spotify.com/track/1CoNi5SlHAPZLGHsL57ril"
     },
     {
       "added_at": "2024-06-14 10:17:00",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2024-06-14 10:17:00",
       "album": {
-        "name": "Ode Two",
-        "url": "https://open.spotify.com/album/1tlMMViXebh8UtEkYOSJQk"
+        "name": "Sample The Earth",
+        "url": "https://open.spotify.com/album/39n09ITi1qfmqBZz39IRYz"
       },
       "artists": [
         {
-          "name": "Tanhai Collective",
-          "url": "https://open.spotify.com/artist/26b6sds0w1dppBvAeSwv73"
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
         }
       ],
-      "duration_ms": 311686,
-      "name": "Ode Two",
-      "url": "https://open.spotify.com/track/1CoNi5SlHAPZLGHsL57ril"
+      "duration_ms": 281256,
+      "name": "Widening Circles - Regrown",
+      "url": "https://open.spotify.com/track/5naAaC0pdrvUzNzlnlvdnc"
     },
     {
       "added_at": "2024-06-14 10:17:00",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2024-06-14 10:17:00",
       "album": {
-        "name": "Dream Chaser",
-        "url": "https://open.spotify.com/album/0KxzL7oJ5M4uFjLrTIa2L3"
+        "name": "Sweet Whispers: Celebrating Sarah Vaughan",
+        "url": "https://open.spotify.com/album/68s468xGl5xo5GASE9YNvO"
       },
       "artists": [
         {
-          "name": "Myles Sanko",
-          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
+          "name": "Zara McFarlane",
+          "url": "https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo"
         }
       ],
-      "duration_ms": 228523,
-      "name": "Dream Chaser",
-      "url": "https://open.spotify.com/track/05bXcmbz6iAJ5tM9WgdOqX"
+      "duration_ms": 279749,
+      "name": "Inner City Blues",
+      "url": "https://open.spotify.com/track/2B0Wn7n7pmBEqCpKaVH8CC"
     },
     {
       "added_at": "2024-06-14 10:17:00",
@@ -1323,6 +1323,22 @@
       "duration_ms": 215800,
       "name": "Knocked Down",
       "url": "https://open.spotify.com/track/6eqB9nHqFg5lXl0R4KJOfn"
+    },
+    {
+      "added_at": "2024-06-14 10:17:00",
+      "album": {
+        "name": "Dream Chaser",
+        "url": "https://open.spotify.com/album/0KxzL7oJ5M4uFjLrTIa2L3"
+      },
+      "artists": [
+        {
+          "name": "Myles Sanko",
+          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
+        }
+      ],
+      "duration_ms": 228523,
+      "name": "Dream Chaser",
+      "url": "https://open.spotify.com/track/05bXcmbz6iAJ5tM9WgdOqX"
     },
     {
       "added_at": "2024-06-14 10:17:00",
@@ -1383,34 +1399,6 @@
       "duration_ms": 206706,
       "name": "Runnin'",
       "url": "https://open.spotify.com/track/76q8RxpJisulRDVQZaW7b2"
-    },
-    {
-      "added_at": "2024-06-14 10:17:00",
-      "album": {
-        "name": "Find Your Peace (feat. Common, Robert Glasper & Jean Baylor)",
-        "url": "https://open.spotify.com/album/2Xk2tl4haAIAl0HPq5LNSN"
-      },
-      "artists": [
-        {
-          "name": "Keyon Harrold",
-          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
-        },
-        {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
-        },
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Jean Baylor",
-          "url": "https://open.spotify.com/artist/2GFqj9ZTbvZNr0RYU9izAa"
-        }
-      ],
-      "duration_ms": 270602,
-      "name": "Find Your Peace (feat. Common, Robert Glasper & Jean Baylor) - Single Edit",
-      "url": "https://open.spotify.com/track/2tjCuqMwFr8YlqwoB1UALy"
     }
   ],
   "unique_name": "Jazz UK",

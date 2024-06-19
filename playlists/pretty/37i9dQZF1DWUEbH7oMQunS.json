@@ -1,6 +1,6 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 61131,
+  "num_followers": 61136,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Jump",
-        "url": "https://open.spotify.com/album/21kxczu3QQWSkJ8imKBHcH"
-      },
-      "artists": [
-        {
-          "name": "NONAH",
-          "url": "https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/69HLrdOQMAseHsTTmklKob"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "The Things We Did at First",
         "url": "https://open.spotify.com/album/3VS7ZrBjKzBWB7rYca7ALh"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 392790,
       "name": "Like a Fire (feat. Steffany Gretzinger)",
       "url": "https://open.spotify.com/track/67CPUTw6oKStnmrIc0En6p"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Jump",
+        "url": "https://open.spotify.com/album/21kxczu3QQWSkJ8imKBHcH"
+      },
+      "artists": [
+        {
+          "name": "NONAH",
+          "url": "https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/69HLrdOQMAseHsTTmklKob"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Glorious Ruins",
-        "url": "https://open.spotify.com/album/1rHcAXo4GdSh6A4C90rFJ7"
-      },
-      "artists": [
-        {
-          "name": "The War Within",
-          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
-        }
-      ],
-      "duration_ms": 245077,
-      "name": "Glorious Ruins",
-      "url": "https://open.spotify.com/track/5U6ey8MfRRsMCifjIvkDP6"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "You & I Again",
         "url": "https://open.spotify.com/album/0Q5FgBERKireTEtap76rej"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 160264,
       "name": "You & I Again",
       "url": "https://open.spotify.com/track/6SEQ3D3SxAnEGvePRf1aeI"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Glorious Ruins",
+        "url": "https://open.spotify.com/album/1rHcAXo4GdSh6A4C90rFJ7"
+      },
+      "artists": [
+        {
+          "name": "The War Within",
+          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
+        }
+      ],
+      "duration_ms": 245077,
+      "name": "Glorious Ruins",
+      "url": "https://open.spotify.com/track/5U6ey8MfRRsMCifjIvkDP6"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Psalm 108",
-        "url": "https://open.spotify.com/album/608zPXiewlMUalrQ3ZcyiA"
-      },
-      "artists": [
-        {
-          "name": "Poor Bishop Hooper",
-          "url": "https://open.spotify.com/artist/7AgYdpiGbObyY3WVJXxhi0"
-        }
-      ],
-      "duration_ms": 277000,
-      "name": "Psalm 108",
-      "url": "https://open.spotify.com/track/5c3sp0t9RDc6J5IYMmQyw0"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Reverie",
         "url": "https://open.spotify.com/album/0dtL3GrsD3XfJA9YMBDhN1"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 252631,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/1ap1u1rzIpmJu9bRwyxYLa"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Psalm 108",
+        "url": "https://open.spotify.com/album/608zPXiewlMUalrQ3ZcyiA"
+      },
+      "artists": [
+        {
+          "name": "Poor Bishop Hooper",
+          "url": "https://open.spotify.com/artist/7AgYdpiGbObyY3WVJXxhi0"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "Psalm 108",
+      "url": "https://open.spotify.com/track/5c3sp0t9RDc6J5IYMmQyw0"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Higher Ways",
-        "url": "https://open.spotify.com/album/6FcRqLpn1eas7Mu76WCRgh"
-      },
-      "artists": [
-        {
-          "name": "Olu Meduoye",
-          "url": "https://open.spotify.com/artist/5xqhFZdZvx6TXidSCzqPj0"
-        }
-      ],
-      "duration_ms": 333750,
-      "name": "Higher Ways",
-      "url": "https://open.spotify.com/track/1dXPUD8g74o7nAf9dxksPA"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Caves (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7mIWBTJ3wBaYOtLiL0zwtJ"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 331026,
       "name": "A Reason to Hide",
       "url": "https://open.spotify.com/track/4pffZgndhbmArERQwcVYSk"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Higher Ways",
+        "url": "https://open.spotify.com/album/6FcRqLpn1eas7Mu76WCRgh"
+      },
+      "artists": [
+        {
+          "name": "Olu Meduoye",
+          "url": "https://open.spotify.com/artist/5xqhFZdZvx6TXidSCzqPj0"
+        }
+      ],
+      "duration_ms": 333750,
+      "name": "Higher Ways",
+      "url": "https://open.spotify.com/track/1dXPUD8g74o7nAf9dxksPA"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Without End",
+        "url": "https://open.spotify.com/album/37ojI0gaLiwqKI0L5nfOHs"
+      },
+      "artists": [
+        {
+          "name": "Activate Music",
+          "url": "https://open.spotify.com/artist/1CvJjbeELK5b5VGyiF9a9p"
+        }
+      ],
+      "duration_ms": 225883,
+      "name": "Without End",
+      "url": "https://open.spotify.com/track/3wpIWUex7uWAUik95fyePm"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "What You Paid For",
         "url": "https://open.spotify.com/album/35LPGmmn5mSgLjTVC3mkgw"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 249608,
       "name": "What You Paid For",
       "url": "https://open.spotify.com/track/3HT2NQ1t7PdZTNodCVC5Dv"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Without End",
-        "url": "https://open.spotify.com/album/37ojI0gaLiwqKI0L5nfOHs"
-      },
-      "artists": [
-        {
-          "name": "Activate Music",
-          "url": "https://open.spotify.com/artist/1CvJjbeELK5b5VGyiF9a9p"
-        }
-      ],
-      "duration_ms": 225883,
-      "name": "Without End",
-      "url": "https://open.spotify.com/track/3wpIWUex7uWAUik95fyePm"
     },
     {
       "added_at": "2023-07-28 04:02:00",

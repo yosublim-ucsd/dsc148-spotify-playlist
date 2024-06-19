@@ -413,6 +413,24 @@
     },
     {
       "album": {
+        "name": "2012_NoSekai",
+        "url": "https://open.spotify.com/album/07nkoN1P5IBUr7bQleUurv"
+      },
+      "artists": [
+        {
+          "name": "Starcatcher",
+          "url": "https://open.spotify.com/artist/7DaEbrXZus2RbkmXGtxhjT"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165955,
+      "name": "2012_NoSekai",
+      "url": "https://open.spotify.com/track/69XMn0nw3zBnU8DsflK1mo"
+    },
+    {
+      "album": {
         "name": "Broke with Expensive Taste",
         "url": "https://open.spotify.com/album/6hORzuqVAquk6Szm1NRoRt"
       },

@@ -4,7 +4,7 @@
 
 > essa é só pra quem vive no 2.0x
 
-73 songs - 2 hr 44 min
+73 songs - 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Meus Manos Faz Dinheiro Com Site](https://open.spotify.com/track/1fokvYsLRaqplJKbFGNwWd) | [St.Borges](https://open.spotify.com/artist/1Yc7h842kGeQTZfdSVQtrQ) | [Meus Manos Faz Dinheiro Com Site](https://open.spotify.com/album/4fhA34Jwxwa1QFxD5l2ggp) | 2:10 | 2023-09-26 |  |
 | [MT \- TETO, Deus Vai Guiar, ENTÃO APONTA O FUZIL](https://open.spotify.com/track/6Jw5n5JmPrUzpe33beJOM8) | [Dj LD da Favelinha](https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7) | [MT \- TETO, Deus Vai Guiar, ENTÃO APONTA O FUZIL](https://open.spotify.com/album/1IFTS6yS1n9VIZDcv3GmQh) | 2:40 | 2023-09-26 |  |
 | [NICOTINA \- Speed](https://open.spotify.com/track/3t9hTeE5S3xPukz92FFRhU) | [JOTTAH](https://open.spotify.com/artist/0RF6epzmUunILCJbvVdUhN) | [NICOTINA](https://open.spotify.com/album/7LKZ9qghbdNjUoJbgB7NqN) | 1:30 | 2023-09-26 |  |
-| [Nunca Duvide de um Mano \(Speed Up\)](https://open.spotify.com/track/5ayuzPrJE082hhsn3tc00D) | [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse) | [Nunca Duvide de um Mano](https://open.spotify.com/album/1fTsqeLfYx1EItPGCudGg9) | 1:24 | 2023-09-26 |  |
+| [Nunca Duvide de um Mano \(Speed Up\)](https://open.spotify.com/track/5ayuzPrJE082hhsn3tc00D) | [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse) | [Nunca Duvide de um Mano](https://open.spotify.com/album/1fTsqeLfYx1EItPGCudGg9) | 1:49 | 2023-09-26 |  |
 | [Não Fosse Tão Tarde \(Speed\)](https://open.spotify.com/track/1qfezHfM1Fvuu9KCZ72NB7) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Não Fosse Tão Tarde \(Speed\)](https://open.spotify.com/album/2sLiC8147QVvg2iOgxPz1u) | 2:46 | 2023-09-26 |  |
 | [O QUE ADIANTA BÊ SER TÃO GOSTOSA SE ELA É DA FARRA](https://open.spotify.com/track/0ztwjRobHt6HUncGW9N2ni) | [PL JUNIOR](https://open.spotify.com/artist/6eaC0vXLPMW095XtIGwD67) | [O QUE ADIANTA BÊ SER TÃO GOSTOSA SE ELA É DA FARRA](https://open.spotify.com/album/5GUVCqmrD82qhBss7iDv2B) | 2:01 | 2023-09-26 | 2024-04-19 |
 | [O Que Adianta Bê, Ser Tão Gostosa Se Ela É da Farra, Bandida Treinada](https://open.spotify.com/track/6Q9cuXO5sgz7ValLDMyCMU) | [PL JUNIOR](https://open.spotify.com/artist/0aRFRMsUrV2E2pFu8VbMc0) | [O Que Adianta Bê, Ser Tão Gostosa Se Ela É da Farra, Bandida Treinada](https://open.spotify.com/album/7df6QDvBmyLjLhrby1VfUW) | 2:01 | 2023-12-27 |  |

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Nightwish. Los temas esenciales, todos en una lista.",
-  "num_followers": 245302,
+  "description": "This is Nightwish. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 245339,
   "original_name": "This Is Nightwish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zm4rAAAAAABfsL1srHcjBIedWi1bcJFR",
+  "snapshot_id": "Zm98gAAAAADLEVQLpvYBGU7OLD6FpCZ+",
   "tracks": [
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Over The Hills And Far Away",
-        "url": "https://open.spotify.com/album/6j4E355c5CbrduKa4rGGLj"
+        "name": "Wishmaster",
+        "url": "https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 320733,
-      "name": "10th Man Down",
-      "url": "https://open.spotify.com/track/6ufTwGcAxjHAYlTrhxeyME"
+      "duration_ms": 274426,
+      "name": "Come Cover Me",
+      "url": "https://open.spotify.com/track/1RSKK7hj4emItvmh45crcX"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Over The Hills And Far Away",
+        "url": "https://open.spotify.com/album/6j4E355c5CbrduKa4rGGLj"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 320733,
+      "name": "10th Man Down",
+      "url": "https://open.spotify.com/track/6ufTwGcAxjHAYlTrhxeyME"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HUMAN. :II: NATURE.",
         "url": "https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 313934,
       "name": "Harvest",
       "url": "https://open.spotify.com/track/06h4HxzQkqx45lCRxDe4lA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wishmaster",
-        "url": "https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 274426,
-      "name": "Come Cover Me",
-      "url": "https://open.spotify.com/track/1RSKK7hj4emItvmh45crcX"
     },
     {
       "added_at": null,

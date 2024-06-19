@@ -1536,7 +1536,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 115000,
       "name": "Allegretto Con Grazia",
       "url": "https://open.spotify.com/track/39Wgd6bJaWK8Q8ej82suvK"
@@ -1554,7 +1554,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 153800,
       "name": "Allegro Appassionato",
       "url": "https://open.spotify.com/track/0Rnk9FJIyAV6H4ylTCK6om"
@@ -2764,7 +2764,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 168000,
       "name": "Bagatelle No. 1 for String Quartet: Delicato E Sognante",
       "url": "https://open.spotify.com/track/5nRNX7POupLp6dFEBDcjQ5"
@@ -2854,7 +2854,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 124000,
       "name": "Bagatelle No. 6 for String Quartet: Allegretto Grazioso",
       "url": "https://open.spotify.com/track/4LplINtRYfGsFt6d4GEnys"
@@ -3366,7 +3366,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 196190,
       "name": "Bella",
       "url": "https://open.spotify.com/track/0PDVLPWTd143nozSM0VxzY"
@@ -4900,7 +4900,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-18",
+      "date_removed": null,
       "duration_ms": 175403,
       "name": "B\u00edum b\u00edum bambal\u00f3",
       "url": "https://open.spotify.com/track/5pn6OskYybJrrqcdlNpBvk"
@@ -5630,6 +5630,24 @@
       "duration_ms": 184013,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
+    },
+    {
+      "album": {
+        "name": "Upper Hutt",
+        "url": "https://open.spotify.com/album/7H56yywRkyGFrMVy8cY6zs"
+      },
+      "artists": [
+        {
+          "name": "Biigo",
+          "url": "https://open.spotify.com/artist/3KJWebDKLxiddTXa1nyhK2"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81105,
+      "name": "Chev Chelios",
+      "url": "https://open.spotify.com/track/1WeVRZaIFslI1UrNxDqDYq"
     },
     {
       "album": {
@@ -9219,6 +9237,24 @@
     },
     {
       "album": {
+        "name": "Upper Hutt",
+        "url": "https://open.spotify.com/album/7H56yywRkyGFrMVy8cY6zs"
+      },
+      "artists": [
+        {
+          "name": "Biigo",
+          "url": "https://open.spotify.com/artist/3KJWebDKLxiddTXa1nyhK2"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138075,
+      "name": "El Pas De La Casa",
+      "url": "https://open.spotify.com/track/3RR2hglYcKVjdJStqDvmJO"
+    },
+    {
+      "album": {
         "name": "Ela",
         "url": "https://open.spotify.com/album/6yLTAu9P2FW7uwTzchu1Xx"
       },
@@ -9332,6 +9368,24 @@
       "duration_ms": 186847,
       "name": "Empress - Eliza May Remix",
       "url": "https://open.spotify.com/track/0NFdwRVU2Uj4LV9ihfkuW1"
+    },
+    {
+      "album": {
+        "name": "Upper Hutt",
+        "url": "https://open.spotify.com/album/7H56yywRkyGFrMVy8cY6zs"
+      },
+      "artists": [
+        {
+          "name": "Biigo",
+          "url": "https://open.spotify.com/artist/3KJWebDKLxiddTXa1nyhK2"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213583,
+      "name": "Encamp",
+      "url": "https://open.spotify.com/track/6XJ5BRBLSJjKl8ftZWsFhn"
     },
     {
       "album": {
@@ -11960,7 +12014,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 118095,
       "name": "F\u00f6ssari",
       "url": "https://open.spotify.com/track/1yQ2qCTb2MNV415l2Iq8Q3"
@@ -12912,6 +12966,24 @@
       "duration_ms": 267866,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs"
+    },
+    {
+      "album": {
+        "name": "Upper Hutt",
+        "url": "https://open.spotify.com/album/7H56yywRkyGFrMVy8cY6zs"
+      },
+      "artists": [
+        {
+          "name": "Biigo",
+          "url": "https://open.spotify.com/artist/3KJWebDKLxiddTXa1nyhK2"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186452,
+      "name": "Gold Coast",
+      "url": "https://open.spotify.com/track/5qhe3h1glA4vW4DCMjpduA"
     },
     {
       "album": {
@@ -15986,7 +16058,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 178205,
       "name": "I Had Some Help (Feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
@@ -18574,7 +18646,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 151593,
       "name": "KOSS \u00c1 \u00deIG (\u00c1ram\u00f3taskaup 2023)",
       "url": "https://open.spotify.com/track/4swi74n7WyfQUFxVTIXnmB"
@@ -18592,7 +18664,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 195464,
       "name": "Krumla",
       "url": "https://open.spotify.com/track/1ahTtx2UIz4Kj59aMbcwSh"
@@ -18799,6 +18871,24 @@
     },
     {
       "album": {
+        "name": "Upper Hutt",
+        "url": "https://open.spotify.com/album/7H56yywRkyGFrMVy8cY6zs"
+      },
+      "artists": [
+        {
+          "name": "Biigo",
+          "url": "https://open.spotify.com/artist/3KJWebDKLxiddTXa1nyhK2"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103585,
+      "name": "La Valeta",
+      "url": "https://open.spotify.com/track/73nRhQpe93BHRVdgcpoVJF"
+    },
+    {
+      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
@@ -18882,7 +18972,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 170000,
       "name": "Larghetto Grazioso",
       "url": "https://open.spotify.com/track/4E48NPRkwdex4iCTzmevss"
@@ -18900,7 +18990,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 129960,
       "name": "Largo E Mesto",
       "url": "https://open.spotify.com/track/3exZStW3hcvYzTKlnt3QRl"
@@ -19288,7 +19378,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 157000,
       "name": "Lento E Doloroso",
       "url": "https://open.spotify.com/track/3ojQG359NFqzpbBdf54M04"
@@ -20038,7 +20128,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-18",
+      "date_removed": null,
       "duration_ms": 197137,
       "name": "Lj\u00f3s",
       "url": "https://open.spotify.com/track/0RT86wBrufYQZSdN852Wjn"
@@ -20132,7 +20222,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-18",
+      "date_removed": null,
       "duration_ms": 163531,
       "name": "Lo Que Perdiste",
       "url": "https://open.spotify.com/track/7Am85h9aNUfh98dBhALlRF"
@@ -21100,7 +21190,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 117600,
       "name": "Maestoso E Solenne",
       "url": "https://open.spotify.com/track/1YcXE6i7MfxwwIw9SFUo1Q"
@@ -21348,6 +21438,24 @@
       "duration_ms": 218270,
       "name": "Maroon",
       "url": "https://open.spotify.com/track/3eX0NZfLtGzoLUxPNvRfqm"
+    },
+    {
+      "album": {
+        "name": "Upper Hutt",
+        "url": "https://open.spotify.com/album/7H56yywRkyGFrMVy8cY6zs"
+      },
+      "artists": [
+        {
+          "name": "Biigo",
+          "url": "https://open.spotify.com/artist/3KJWebDKLxiddTXa1nyhK2"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157531,
+      "name": "Marsaskala",
+      "url": "https://open.spotify.com/track/64qKzcpPBOM8Dht1ovBJ31"
     },
     {
       "album": {
@@ -22396,6 +22504,24 @@
       "duration_ms": 198187,
       "name": "MOOD (feat. Issi, Birnir & Yung Nigo Drippin')",
       "url": "https://open.spotify.com/track/703fM7mcLsx1cjL3yI1Fi3"
+    },
+    {
+      "album": {
+        "name": "Trece",
+        "url": "https://open.spotify.com/album/76QsDXzhhFxR4FrHzLKVrE"
+      },
+      "artists": [
+        {
+          "name": "Biigo",
+          "url": "https://open.spotify.com/artist/3KJWebDKLxiddTXa1nyhK2"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175140,
+      "name": "Moombah",
+      "url": "https://open.spotify.com/track/3ZAIRUNo2KFrozNLPrQvrs"
     },
     {
       "album": {
@@ -23523,6 +23649,24 @@
     },
     {
       "album": {
+        "name": "Trece",
+        "url": "https://open.spotify.com/album/76QsDXzhhFxR4FrHzLKVrE"
+      },
+      "artists": [
+        {
+          "name": "Biigo",
+          "url": "https://open.spotify.com/artist/3KJWebDKLxiddTXa1nyhK2"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78716,
+      "name": "NFasis",
+      "url": "https://open.spotify.com/track/1c9CSXDovzL7q19xJRu3Ne"
+    },
+    {
+      "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
       },
@@ -23848,6 +23992,24 @@
       "duration_ms": 163648,
       "name": "Nonsense",
       "url": "https://open.spotify.com/track/6dgUya35uo964z7GZXM07g"
+    },
+    {
+      "album": {
+        "name": "Trece",
+        "url": "https://open.spotify.com/album/76QsDXzhhFxR4FrHzLKVrE"
+      },
+      "artists": [
+        {
+          "name": "Biigo",
+          "url": "https://open.spotify.com/artist/3KJWebDKLxiddTXa1nyhK2"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213340,
+      "name": "North",
+      "url": "https://open.spotify.com/track/2dGP4JTdjYdgPS04mlCGVj"
     },
     {
       "album": {
@@ -28788,7 +28950,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-20",
+      "date_removed": null,
       "duration_ms": 234010,
       "name": "Sautj\u00e1ndi j\u00fan\u00ed",
       "url": "https://open.spotify.com/track/3AUvWRvTByGIhn3GMF9BKo"
@@ -29165,6 +29327,24 @@
     },
     {
       "album": {
+        "name": "Upper Hutt",
+        "url": "https://open.spotify.com/album/7H56yywRkyGFrMVy8cY6zs"
+      },
+      "artists": [
+        {
+          "name": "Biigo",
+          "url": "https://open.spotify.com/artist/3KJWebDKLxiddTXa1nyhK2"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104694,
+      "name": "Senglea",
+      "url": "https://open.spotify.com/track/7snLZKYLo8gGDIjk2hExyM"
+    },
+    {
+      "album": {
         "name": "Sentimentai",
         "url": "https://open.spotify.com/album/7vlt4TnVHs132OL0a0YE5E"
       },
@@ -29522,6 +29702,32 @@
       "duration_ms": 135584,
       "name": "Side Mission (feat. Izleifur)",
       "url": "https://open.spotify.com/track/01oj1lNrelrAJfvYG74JGS"
+    },
+    {
+      "album": {
+        "name": "SIDE!",
+        "url": "https://open.spotify.com/album/762ge27JszUNedhzGSGYcv"
+      },
+      "artists": [
+        {
+          "name": "SadBoyForLife",
+          "url": "https://open.spotify.com/artist/6y1IgqxPpQyqVqwmINNUU2"
+        },
+        {
+          "name": "Sir Napkin",
+          "url": "https://open.spotify.com/artist/46OyFgn6SnpQyQkaaoIUZM"
+        },
+        {
+          "name": "Txmmyily",
+          "url": "https://open.spotify.com/artist/2k4BorccGemzBPjIRkT5Pa"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157090,
+      "name": "SIDE!",
+      "url": "https://open.spotify.com/track/19oOqw1IIIqUinCJWP1lRe"
     },
     {
       "album": {
@@ -30914,7 +31120,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 163013,
       "name": "Sorry memmig",
       "url": "https://open.spotify.com/track/2kJLPJS9wWpoJgK7nvHhk5"
@@ -33316,7 +33522,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 118400,
       "name": "Tempo Di Menuetto",
       "url": "https://open.spotify.com/track/4hD0K9jYH5Z8hyfD8yyDAW"
@@ -34739,6 +34945,42 @@
     },
     {
       "album": {
+        "name": "Trece",
+        "url": "https://open.spotify.com/album/76QsDXzhhFxR4FrHzLKVrE"
+      },
+      "artists": [
+        {
+          "name": "Biigo",
+          "url": "https://open.spotify.com/artist/3KJWebDKLxiddTXa1nyhK2"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164501,
+      "name": "Trece",
+      "url": "https://open.spotify.com/track/6m0T1frMX10U9PaDYzv0jm"
+    },
+    {
+      "album": {
+        "name": "Trece",
+        "url": "https://open.spotify.com/album/76QsDXzhhFxR4FrHzLKVrE"
+      },
+      "artists": [
+        {
+          "name": "Biigo",
+          "url": "https://open.spotify.com/artist/3KJWebDKLxiddTXa1nyhK2"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142047,
+      "name": "Tredecim",
+      "url": "https://open.spotify.com/track/6C1nv6ZVUotThMHZLqxIQD"
+    },
+    {
+      "album": {
         "name": "Trenule\u021bul",
         "url": "https://open.spotify.com/album/7fM5IQBccLOksJ96AMl0xv"
       },
@@ -35812,7 +36054,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 162272,
       "name": "Veit ekki me\u00f0 \u00feig",
       "url": "https://open.spotify.com/track/5BsvubZKwChZFcNRkxlOgD"
@@ -36088,7 +36330,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 129960,
       "name": "Vivace E Leggero",
       "url": "https://open.spotify.com/track/67KTXN4Lc3BtN6AqFKwQVY"
@@ -37857,6 +38099,24 @@
     },
     {
       "album": {
+        "name": "Trece",
+        "url": "https://open.spotify.com/album/76QsDXzhhFxR4FrHzLKVrE"
+      },
+      "artists": [
+        {
+          "name": "Biigo",
+          "url": "https://open.spotify.com/artist/3KJWebDKLxiddTXa1nyhK2"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208620,
+      "name": "XIII",
+      "url": "https://open.spotify.com/track/4SThN5r1twy0uFnnLy36t4"
+    },
+    {
+      "album": {
         "name": "600",
         "url": "https://open.spotify.com/album/7a0DRJSPe93FoF4GkxrN8d"
       },
@@ -39432,7 +39692,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 211990,
       "name": "\u00danica",
       "url": "https://open.spotify.com/track/2hBo26MgnHLAMWAffuGvZS"

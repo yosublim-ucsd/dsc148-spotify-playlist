@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume from across the world. Cover: Ilse DeLange.",
-  "num_followers": 935441,
+  "num_followers": 935605,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-06-05 04:00:00",
       "album": {
-        "name": "Raz\u0131y\u0131m",
-        "url": "https://open.spotify.com/album/3KpXFObaB4dW7qUdmeJfEM"
-      },
-      "artists": [
-        {
-          "name": "Irmak Ar\u0131c\u0131",
-          "url": "https://open.spotify.com/artist/3WKZeiNOV5dnANlQnjL95B"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Raz\u0131y\u0131m",
-      "url": "https://open.spotify.com/track/5iwSNxlQnklviWySWrXUBH"
-    },
-    {
-      "added_at": "2024-06-05 04:00:00",
-      "album": {
         "name": "ILLEG*LIS PARTYK",
         "url": "https://open.spotify.com/album/6uyJvmYnCoZ64sGKTAxD8B"
       },
@@ -579,18 +563,18 @@
     {
       "added_at": "2024-06-05 04:00:00",
       "album": {
-        "name": "Mon \u00c2me - Summer Vibes",
-        "url": "https://open.spotify.com/album/4eGCU3guNX8aXnMVov0ZRS"
+        "name": "Raz\u0131y\u0131m",
+        "url": "https://open.spotify.com/album/3KpXFObaB4dW7qUdmeJfEM"
       },
       "artists": [
         {
-          "name": "Lyna Mahyem",
-          "url": "https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP"
+          "name": "Irmak Ar\u0131c\u0131",
+          "url": "https://open.spotify.com/artist/3WKZeiNOV5dnANlQnjL95B"
         }
       ],
-      "duration_ms": 179933,
-      "name": "Full",
-      "url": "https://open.spotify.com/track/1Bjh8hsHQZYjLQGW1b2sCR"
+      "duration_ms": 136000,
+      "name": "Raz\u0131y\u0131m",
+      "url": "https://open.spotify.com/track/5iwSNxlQnklviWySWrXUBH"
     },
     {
       "added_at": "2024-06-05 04:00:00",
@@ -607,6 +591,22 @@
       "duration_ms": 203333,
       "name": "Lesbisch",
       "url": "https://open.spotify.com/track/15PJXv3g9r3Q6RLkotwpWf"
+    },
+    {
+      "added_at": "2024-06-05 04:00:00",
+      "album": {
+        "name": "Mon \u00c2me - Summer Vibes",
+        "url": "https://open.spotify.com/album/4eGCU3guNX8aXnMVov0ZRS"
+      },
+      "artists": [
+        {
+          "name": "Lyna Mahyem",
+          "url": "https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP"
+        }
+      ],
+      "duration_ms": 179933,
+      "name": "Full",
+      "url": "https://open.spotify.com/track/1Bjh8hsHQZYjLQGW1b2sCR"
     },
     {
       "added_at": "2024-06-05 04:00:00",

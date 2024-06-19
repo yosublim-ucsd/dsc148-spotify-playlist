@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "This is The Offspring. The essential tracks, all in one playlist.",
+  "description": "This Is The Offspring. Los temas esenciales, todos en una lista.",
   "name": "This Is The Offspring",
   "tracks": [
     {
@@ -124,7 +124,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-18",
+      "date_removed": null,
       "duration_ms": 201266,
       "name": "Behind Your Walls",
       "url": "https://open.spotify.com/track/0bfpMVuGjXbkZonmvymDSv"
@@ -466,7 +466,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-11",
+      "date_removed": null,
       "duration_ms": 236733,
       "name": "Have You Ever",
       "url": "https://open.spotify.com/track/2fIpea5Sh5celp8JRI7Z4U"
@@ -758,7 +758,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 188666,
       "name": "Pretty Fly (For A White Guy)",
       "url": "https://open.spotify.com/track/3SFXsFpeGmBTtQvKiwYMDA"
@@ -924,7 +924,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 133586,
       "name": "Staring At The Sun",
       "url": "https://open.spotify.com/track/0D2A4Rid7gnlcwlspLTkx0"
@@ -996,7 +996,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-18",
+      "date_removed": null,
       "duration_ms": 180160,
       "name": "The Kids Aren't Alright",
       "url": "https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf"
@@ -1162,7 +1162,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 210786,
       "name": "We Never Have Sex Anymore",
       "url": "https://open.spotify.com/track/3rqXh9yVOCPHGUjaW2a200"

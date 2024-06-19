@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAC/rgyYLviQRMwMzWYZ9t3d",
+  "snapshot_id": "AAAAAAAAAAAGekdDh8Z5HIHUhqXKdGX7",
   "tracks": [
     {
       "added_at": "2024-06-14 04:00:00",
@@ -199,6 +199,26 @@
       "duration_ms": 203626,
       "name": "Johnny Freight (with Passafire)",
       "url": "https://open.spotify.com/track/2SLo0QVJKiqFR3NlrQwxQY"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Laced",
+        "url": "https://open.spotify.com/album/0maDjqbN3mmu61EsrGzii4"
+      },
+      "artists": [
+        {
+          "name": "Grizzley",
+          "url": "https://open.spotify.com/artist/1ysgaOnjM1MbHEe5bKhDTU"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "duration_ms": 177697,
+      "name": "Huntin Season",
+      "url": "https://open.spotify.com/track/6cxD3MQwqVsQBWW2XTuVaV"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -403,30 +423,6 @@
       "duration_ms": 218000,
       "name": "Kyivan Clouds",
       "url": "https://open.spotify.com/track/7qvplgmAE2jWixibdMrVCo"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Cold Blues",
-        "url": "https://open.spotify.com/album/4tn5qaeFYiS56VHm49Lh3G"
-      },
-      "artists": [
-        {
-          "name": "DR. Moriarity",
-          "url": "https://open.spotify.com/artist/3gXj2P4t2wkBTjvJ8s64BE"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "Dionysus the God",
-          "url": "https://open.spotify.com/artist/4A6RhBJpQcfZeG7VlP2uf4"
-        }
-      ],
-      "duration_ms": 274707,
-      "name": "Cold Blues",
-      "url": "https://open.spotify.com/track/0sO16Fj8Mj9ztczfbxF7dy"
     },
     {
       "added_at": "2024-06-14 04:00:00",

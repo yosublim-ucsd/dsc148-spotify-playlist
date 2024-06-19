@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-24",
-  "description": "\u65e5\u672c\u3067\u6d3b\u8e8d\u3059\u308b\u30dc\u30fc\u30a4\u30ba\u30b0\u30eb\u30fc\u30d7\u3092\u7279\u96c6\u3002cover: Travis Japan",
+  "description": "\u65e5\u672c\u3067\u6d3b\u8e8d\u3059\u308b\u30dc\u30fc\u30a4\u30ba\u30b0\u30eb\u30fc\u30d7\u3092\u7279\u96c6\u3002cover: INI",
   "name": "Boys Group Japan",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 350700,
       "name": "366\u65e5",
       "url": "https://open.spotify.com/track/66NAy1FnkkF7Phkpkg52nA"
@@ -913,6 +913,24 @@
     },
     {
       "album": {
+        "name": "Evergeen",
+        "url": "https://open.spotify.com/album/0GUY29JTqpAq7U0q1LZvRT"
+      },
+      "artists": [
+        {
+          "name": "LUN8",
+          "url": "https://open.spotify.com/artist/5LkLwB6VSZLQiFkJa9SPOn"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216040,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/1FwpLolu29OCFHU1Yqyz17"
+    },
+    {
+      "album": {
         "name": "Eyes On Me",
         "url": "https://open.spotify.com/album/2raPbaN1bh2UWTGqgz8Gvl"
       },
@@ -1152,6 +1170,24 @@
       "duration_ms": 221017,
       "name": "Furete",
       "url": "https://open.spotify.com/track/6cORKmyAM5qYe8gwtQ4WlH"
+    },
+    {
+      "album": {
+        "name": "GET STUPID",
+        "url": "https://open.spotify.com/album/1wwvdUYewkU9xAqn9DhZa7"
+      },
+      "artists": [
+        {
+          "name": "XY",
+          "url": "https://open.spotify.com/artist/2MOWJsCM7TRwG7K7eIZzxC"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160359,
+      "name": "GET STUPID",
+      "url": "https://open.spotify.com/track/5UHHgSPZkVMM6RBOmhfB5f"
     },
     {
       "album": {
@@ -1955,6 +1991,24 @@
     },
     {
       "album": {
+        "name": "LOUD",
+        "url": "https://open.spotify.com/album/6GXhrItMV3o5txOWLETTBA"
+      },
+      "artists": [
+        {
+          "name": "INI",
+          "url": "https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192653,
+      "name": "LOUD",
+      "url": "https://open.spotify.com/track/312amIo1Pj8FH0vYMy5yOu"
+    },
+    {
+      "album": {
         "name": "Love 119 (Japanese Version)",
         "url": "https://open.spotify.com/album/40zoR4FnNilJl5gK2qzjCg"
       },
@@ -2006,6 +2060,24 @@
       "duration_ms": 174226,
       "name": "Love seeker",
       "url": "https://open.spotify.com/track/3tmFGmmYcYdI8tZRSLlc0G"
+    },
+    {
+      "album": {
+        "name": "Love Triangle",
+        "url": "https://open.spotify.com/album/5Qm1VnWx4KqoeJGrcd2eoW"
+      },
+      "artists": [
+        {
+          "name": "WOLF HOWL HARMONY from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207533,
+      "name": "Love Triangle",
+      "url": "https://open.spotify.com/track/09NZJcGT23meog6z9O7R0B"
     },
     {
       "album": {
@@ -2150,7 +2222,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 234110,
       "name": "Midnight City",
       "url": "https://open.spotify.com/track/5JfeYlgSeR5Vk8Q4fwOJO8"
@@ -2652,7 +2724,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 191865,
       "name": "Play Back",
       "url": "https://open.spotify.com/track/35vMXuNLXjIlOWvpVpx7gh"
@@ -3388,7 +3460,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 178775,
       "name": "Sunset - OCTAVE ver.",
       "url": "https://open.spotify.com/track/0rKnES758zRMB1Ijc4tf1z"
@@ -3814,7 +3886,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 189387,
       "name": "Whatever Happens",
       "url": "https://open.spotify.com/track/43gyzi5Iyfaz6OqzxhJhkK"
@@ -3958,7 +4030,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 232439,
       "name": "YG",
       "url": "https://open.spotify.com/track/69DgzXRvRI0YHz6UBv6vjK"
@@ -4448,7 +4520,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 181587,
       "name": "\u5947\u60f3\u5929\u5916xxxxxx\u30a2\u30a4\u30e9\u30f3\u30c9",
       "url": "https://open.spotify.com/track/5AmjgucViRdfSEo1QdY023"

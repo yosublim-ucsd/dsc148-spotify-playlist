@@ -4,7 +4,7 @@
 
 > Train insane with these Bollywood tracks.
 
-83 songs - 5 hr 2 min
+84 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Kar Har Maidaan Fateh](https://open.spotify.com/track/7gZwhDmzciskHbZemjf931) | [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Sanju](https://open.spotify.com/album/2uZYzAlfetvbdWlpSfeNk0) | 5:12 | 2023-07-11 |  |
 | [Kaun Nachdi](https://open.spotify.com/track/7r8QeC6Uy3AbIXqH7W9y0K) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Sonu Ke Titu Ki Sweety](https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX) | 3:03 | 2023-11-29 | 2024-01-16 |
 | [Khalibali](https://open.spotify.com/track/3JT0mVof65rIHpRZITwRx1) | [Shivam Pathak](https://open.spotify.com/artist/39nPl2OnVXyxuBApjXkGmj), [Shail Hada](https://open.spotify.com/artist/73oabrcxZFkgjgeJBP5uJC) | [Padmaavat](https://open.spotify.com/album/7mZB5aUcjoHfDKSQtDRXrf) | 4:18 | 2023-07-11 | 2024-06-05 |
+| [Kill \- Kaawaa Kaawaa](https://open.spotify.com/track/59mAkKONcJ9m5l6AlG7xGZ) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Sudhir Yaduvanshi](https://open.spotify.com/artist/586UieDtNlK2F8hEMayYbb), [Sanj V](https://open.spotify.com/artist/7MaN8aWhx4Q2JKIZ7YSp8k) | [Kill \(Kaawaa Kaawaa\)](https://open.spotify.com/album/46dSu7BYgTIDH9Z2eb1rQK) | 3:15 | 2024-06-18 |  |
 | [Koi Tod Na Iska \(From "Raayan"\)](https://open.spotify.com/track/0L8fxoXNOjLXSLfuYVrrNR) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Koi Tod Na Iska \(From "Raayan"\)](https://open.spotify.com/album/5889xnmN7igdZb2HG3E5Ua) | 4:05 | 2024-05-10 | 2024-05-21 |
 | [Kukkad](https://open.spotify.com/track/7DbE178OOsJfJKyiNObOsw) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8), [Nisha Mascarenhas](https://open.spotify.com/artist/06rb04GGkUUP0nZMWEs0P6), [Marianne D'Cruz Aiman](https://open.spotify.com/artist/5kXfKycKZbS90vKTz62joF) | [Student of the Year \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Q9pYTcpVfz0eJTZZczELy) | 4:22 | 2023-07-11 |  |
 | [Lakshya](https://open.spotify.com/track/7o1yzUVkQt2Gto5yYvzo2T) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Lakshya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2U02MTp5MJnqV54xsJOVIe) | 6:15 | 2023-07-11 |  |
@@ -90,6 +91,6 @@
 | [Urvashi](https://open.spotify.com/track/342pJxy678kgQrZXCL9RG7) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Urvashi](https://open.spotify.com/album/7gXEynlmX5QMPN4ZgyxMso) | 3:35 | 2023-07-11 | 2024-06-17 |
 | [Yaar Naa Miley](https://open.spotify.com/track/56lHtVpvNxFSKewJKpeYc3) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Kick](https://open.spotify.com/album/3cZzNUD8je3vJKARADXJDy) | 4:03 | 2023-07-11 |  |
 | [Zinda](https://open.spotify.com/track/7vZz8oJ5qAqB9MghufRK5k) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Siddharth Mahadevan](https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW) | [Bhaag Milkha Bhaag \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3m5FIubiCHr9mH3BU7ngY4) | 3:31 | 2023-07-11 |  |
-| [Zinda Banda \(From "Jawan"\)](https://open.spotify.com/track/4tzx5af2qpwgyjG6JQGthj) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Zinda Banda \(From "Jawan"\)](https://open.spotify.com/album/1Kiukl1wioSAtG0QwDXsHE) | 4:24 | 2023-07-31 |  |
+| [Zinda Banda \(From "Jawan"\)](https://open.spotify.com/track/4tzx5af2qpwgyjG6JQGthj) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Zinda Banda \(From "Jawan"\)](https://open.spotify.com/album/1Kiukl1wioSAtG0QwDXsHE) | 4:24 | 2023-07-31 | 2024-06-19 |
 
 \*This playlist was first scraped on 2023-07-25. Prior content cannot be recovered.

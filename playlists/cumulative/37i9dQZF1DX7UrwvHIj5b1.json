@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "Al Khazneh",
+        "url": "https://open.spotify.com/album/4zeKOzIRc4tJHwR4NINtMM"
+      },
+      "artists": [
+        {
+          "name": "Uhrk-Nagimi",
+          "url": "https://open.spotify.com/artist/4zdZNzoehOEhWPKlwlv0OX"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156515,
+      "name": "Al Khazneh",
+      "url": "https://open.spotify.com/track/1qMRAikYKh4Cawo5HdJ5fy"
+    },
+    {
+      "album": {
         "name": "Taygeta Code",
         "url": "https://open.spotify.com/album/0cdNUFprRI0ke2uzOL7uqJ"
       },

@@ -4,7 +4,7 @@
 
 > Plug your brain into a modular synthesizer analog loop.
 
-195 songs - 12 hr 21 min
+196 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Oxygène, Pt\. 4](https://open.spotify.com/track/4pbzF8W8RnqlN5epqkI1Qf) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygène](https://open.spotify.com/album/6qF91BDNaJY4PI0mSwYv8L) | 4:06 | 2021-08-17 | 2024-04-19 |
 | [Paris 2079](https://open.spotify.com/track/1ECyj4HTmkIivTif7IHFaq) | [The Happy Moog](https://open.spotify.com/artist/5gExTiO26dn8bOZ7IwjM87) | [The Happy Moog](https://open.spotify.com/album/5MOmkon8ma4se9NtmXLoE7) | 1:55 | 2021-08-17 |  |
 | [Pencerenin Perdesini](https://open.spotify.com/track/614QR7JNfM0DxmHqxsufK4) | [Gökçen Kaynatan](https://open.spotify.com/artist/3nnodwbgLf8YyqSk7bgkgF) | [Pencerenin Perdesini / Beyoğlu'nda Gezersin](https://open.spotify.com/album/6SZorR9VZfzMR103ylcHHU) | 2:24 | 2022-04-28 |  |
+| [Pesce Rosso](https://open.spotify.com/track/3SBP2ogQ1cv4tr3mDcnpDB) | [Charif Megarbane](https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4) | [Pesce Rosso / Stella Marina \(Habibi Funk Limited 002\)](https://open.spotify.com/album/5X0uXObzBzYbz5Wt7xZZn2) | 2:39 | 2024-06-18 |  |
 | [Pizzicato Samba](https://open.spotify.com/track/0hgCu26O2p3ndloW2aXHsS) | [Dana Countryman](https://open.spotify.com/artist/2TPk0Xw81wqOb8wHTSXkHO), [Jean\-Jacques Perrey](https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx) | [The Happy Electropop Music Machine](https://open.spotify.com/album/5UbK119FGtKi2n2KNyatfl) | 2:41 | 2021-08-17 |  |
 | [Plantasia](https://open.spotify.com/track/2XV5CUyw7gPVi18d718D4f) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha) | [Mother Earth's Plantasia](https://open.spotify.com/album/0NJRPgK15C8qoLuQv1hChv) | 3:21 | 2021-08-17 | 2024-04-19 |
 | [Plantasia](https://open.spotify.com/track/4CyTrR4c13d57jCVstfS8T) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha) | [Mother Earth's Plantasia](https://open.spotify.com/album/4Pj4zPHuEUPtfacdeTlqUG) | 3:21 | 2021-08-17 |  |

@@ -394,7 +394,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 159676,
       "name": "Apricus",
       "url": "https://open.spotify.com/track/0W3znYfIVP37kJl4InZ9lp"
@@ -466,7 +466,7 @@
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 178666,
       "name": "Astrion",
       "url": "https://open.spotify.com/track/7d7v5LnQwiKNSh2NhQnMJB"
@@ -632,6 +632,24 @@
       "duration_ms": 170769,
       "name": "Autumn Forest",
       "url": "https://open.spotify.com/track/4rYbGAvD3Es5dOulUhAviv"
+    },
+    {
+      "album": {
+        "name": "Awareness",
+        "url": "https://open.spotify.com/album/2bIBO2IWItlOAsbCmz6ezi"
+      },
+      "artists": [
+        {
+          "name": "Dreamfactor",
+          "url": "https://open.spotify.com/artist/0HRqoaqlkK792yLnHthght"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176862,
+      "name": "Awareness",
+      "url": "https://open.spotify.com/track/4ZPIfVMVDNzGd6qL1GYC3T"
     },
     {
       "album": {
@@ -1085,6 +1103,24 @@
     },
     {
       "album": {
+        "name": "Clairvoyance",
+        "url": "https://open.spotify.com/album/7EZZUbyw3E8fuMC1ubbKwO"
+      },
+      "artists": [
+        {
+          "name": "Folksaga",
+          "url": "https://open.spotify.com/artist/3fRnbMogVMgEwoyHPx00nf"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216279,
+      "name": "Clairvoyance",
+      "url": "https://open.spotify.com/track/1ATwyUWpAnvpCGgsSsQ7Ms"
+    },
+    {
+      "album": {
         "name": "Clarity",
         "url": "https://open.spotify.com/album/5uyfMS2E2lulhGql8Zp7kV"
       },
@@ -1406,6 +1442,24 @@
       "duration_ms": 219130,
       "name": "Crystal Rainbow",
       "url": "https://open.spotify.com/track/38KA0V0itQdu90o81fF216"
+    },
+    {
+      "album": {
+        "name": "Crystal Waters Symphony",
+        "url": "https://open.spotify.com/album/2JAiz3QMhfqIntK8kwjViq"
+      },
+      "artists": [
+        {
+          "name": "Cosy Kittens",
+          "url": "https://open.spotify.com/artist/3Qhm77fx1BlSuwusIYpYxY"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Crystal Waters Symphony",
+      "url": "https://open.spotify.com/track/1EabAR979mR0wzcZWQmF2P"
     },
     {
       "album": {
@@ -2230,7 +2284,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 199124,
       "name": "Everlasting Lights",
       "url": "https://open.spotify.com/track/7MTvwNVOEkpfDBQAu23vFG"
@@ -2270,6 +2324,24 @@
       "duration_ms": 216674,
       "name": "Evolving Dreams",
       "url": "https://open.spotify.com/track/6S7jmC7dXIyguhgUWsQBzI"
+    },
+    {
+      "album": {
+        "name": "Existing",
+        "url": "https://open.spotify.com/album/0iJ2y4SIrZTiptA4eHxoKq"
+      },
+      "artists": [
+        {
+          "name": "Decan\u00f5e",
+          "url": "https://open.spotify.com/artist/2FxaxQDNIRiMuwqqgDZuqA"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168258,
+      "name": "Existing",
+      "url": "https://open.spotify.com/track/74uFbc3D8QpxBn5CObGShi"
     },
     {
       "album": {
@@ -2536,7 +2608,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 170846,
       "name": "Feuilleter",
       "url": "https://open.spotify.com/track/3ns1BYQtxuSyxk6SlTU0d8"
@@ -3875,6 +3947,42 @@
     },
     {
       "album": {
+        "name": "Lunaflow",
+        "url": "https://open.spotify.com/album/7MKndipXtAjamHBuRalwCM"
+      },
+      "artists": [
+        {
+          "name": "Luna Ombro",
+          "url": "https://open.spotify.com/artist/772pb8YX7Q28YXDan6bi7M"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "Lunaflow",
+      "url": "https://open.spotify.com/track/6pq3zdXcm747Qg9bpELjAK"
+    },
+    {
+      "album": {
+        "name": "Lunar",
+        "url": "https://open.spotify.com/album/7GZy8kAzSjhSWippflrNlu"
+      },
+      "artists": [
+        {
+          "name": "So Lis",
+          "url": "https://open.spotify.com/artist/79guO4ndu3WasS8qTpee8n"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Lunar",
+      "url": "https://open.spotify.com/track/5No2D7HuRBaKeYKfBNIa0O"
+    },
+    {
+      "album": {
         "name": "Luova",
         "url": "https://open.spotify.com/album/1jg6KAF2cNqxqaeQnQ9AEI"
       },
@@ -4048,7 +4156,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 170764,
       "name": "Memoirs",
       "url": "https://open.spotify.com/track/36Z3iyI0tvkdGq0iW0NFis"
@@ -4552,7 +4660,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 143297,
       "name": "Nightbloom",
       "url": "https://open.spotify.com/track/10JifYChE8zaRiObMx3RCh"
@@ -4822,7 +4930,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 157484,
       "name": "One And The Same",
       "url": "https://open.spotify.com/track/3xZwZ9yujCluOe5mlDzD7r"
@@ -4894,7 +5002,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 149000,
       "name": "Overlook",
       "url": "https://open.spotify.com/track/6MOWiWuwr5BCarma1z8bsf"
@@ -5596,7 +5704,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 169504,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/74jdFBI7LmTV2FMdd5qTh3"
@@ -5935,6 +6043,24 @@
     },
     {
       "album": {
+        "name": "Slow Emotion",
+        "url": "https://open.spotify.com/album/7C9nfVZTJdFG5XWOlZPB9x"
+      },
+      "artists": [
+        {
+          "name": "Estienne Battier",
+          "url": "https://open.spotify.com/artist/1C1PKWXXTSanOX47bqzqCD"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173478,
+      "name": "Slow Emotion",
+      "url": "https://open.spotify.com/track/5BLo0OzXBb2w5rRFo2grMU"
+    },
+    {
+      "album": {
         "name": "Slow Rise",
         "url": "https://open.spotify.com/album/5JMixXfF7HIiWaxOlY9XbE"
       },
@@ -6036,7 +6162,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 198750,
       "name": "Softly Drift",
       "url": "https://open.spotify.com/track/2YYvF9y9HlnvDUsqgmmI9a"
@@ -6396,7 +6522,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 129103,
       "name": "S\u00f3lestur",
       "url": "https://open.spotify.com/track/7F6aZaOPixAPSwEWUgUlwH"

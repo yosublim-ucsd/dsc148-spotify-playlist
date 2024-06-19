@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 78200,
+  "num_followers": 78210,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-05-31 07:23:34",
       "album": {
-        "name": "Take Me High",
-        "url": "https://open.spotify.com/album/3yKCs4UE4ajRa8lfU8hyGp"
-      },
-      "artists": [
-        {
-          "name": "TS7",
-          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
-        }
-      ],
-      "duration_ms": 161715,
-      "name": "Take Me High",
-      "url": "https://open.spotify.com/track/7aNEcFmD4lkBX0UjgTmzG1"
-    },
-    {
-      "added_at": "2024-05-31 07:23:34",
-      "album": {
         "name": "Rita Ora",
         "url": "https://open.spotify.com/album/5q9LTtptGJ6gk8Kaf6bUmk"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 122864,
       "name": "Rita Ora",
       "url": "https://open.spotify.com/track/2bPbyTiplZXroFIvW8Fjo0"
+    },
+    {
+      "added_at": "2024-05-31 07:23:34",
+      "album": {
+        "name": "Take Me High",
+        "url": "https://open.spotify.com/album/3yKCs4UE4ajRa8lfU8hyGp"
+      },
+      "artists": [
+        {
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        }
+      ],
+      "duration_ms": 161715,
+      "name": "Take Me High",
+      "url": "https://open.spotify.com/track/7aNEcFmD4lkBX0UjgTmzG1"
     },
     {
       "added_at": "2024-05-31 07:23:34",
@@ -931,26 +931,6 @@
     {
       "added_at": "2024-05-31 07:23:34",
       "album": {
-        "name": "Dilate",
-        "url": "https://open.spotify.com/album/5T8Uos359imyQWjbJvt2mP"
-      },
-      "artists": [
-        {
-          "name": "Audio Bullys",
-          "url": "https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ"
-        },
-        {
-          "name": "Smokey Bubblin' B",
-          "url": "https://open.spotify.com/artist/1iXq8vdKgJp43m1vhiAmUM"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Dilate",
-      "url": "https://open.spotify.com/track/6ZONmCVZIlMxAgEXR5Z1qd"
-    },
-    {
-      "added_at": "2024-05-31 07:23:34",
-      "album": {
         "name": "Thinkin of You",
         "url": "https://open.spotify.com/album/0ajmnTICp3LDEsj9mvf9v6"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 137142,
       "name": "Thinkin of You",
       "url": "https://open.spotify.com/track/2T4Nfk0tG4hfYCv06LY6Ej"
+    },
+    {
+      "added_at": "2024-05-31 07:23:34",
+      "album": {
+        "name": "Dilate",
+        "url": "https://open.spotify.com/album/5T8Uos359imyQWjbJvt2mP"
+      },
+      "artists": [
+        {
+          "name": "Audio Bullys",
+          "url": "https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ"
+        },
+        {
+          "name": "Smokey Bubblin' B",
+          "url": "https://open.spotify.com/artist/1iXq8vdKgJp43m1vhiAmUM"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Dilate",
+      "url": "https://open.spotify.com/track/6ZONmCVZIlMxAgEXR5Z1qd"
     },
     {
       "added_at": "2024-05-31 07:23:34",
@@ -1127,18 +1127,22 @@
     {
       "added_at": "2024-05-31 07:23:34",
       "album": {
-        "name": "Foul Play EP",
-        "url": "https://open.spotify.com/album/2WJYBIppdkigTnRgWlQxtE"
+        "name": "Big & Bad Riddim",
+        "url": "https://open.spotify.com/album/48MB8hbQNRWWy5C1DHa4WG"
       },
       "artists": [
         {
-          "name": "Kessler",
-          "url": "https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC"
+          "name": "Vato Gonzalez",
+          "url": "https://open.spotify.com/artist/4mDTB962RcRuArrhQazgOG"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
         }
       ],
-      "duration_ms": 264953,
-      "name": "Hood Mentality",
-      "url": "https://open.spotify.com/track/0yjYd6ZSpua1KC54BhEupz"
+      "duration_ms": 175238,
+      "name": "Big & Bad Riddim",
+      "url": "https://open.spotify.com/track/1MiQKWnyI47pXvW5wWf9ts"
     }
   ],
   "unique_name": "New UK Garage",

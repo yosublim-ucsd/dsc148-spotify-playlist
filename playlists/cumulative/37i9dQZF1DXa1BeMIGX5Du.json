@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Sabotage",
+        "url": "https://open.spotify.com/album/2N0VTYHZoIoSf3UEEuap2O"
+      },
+      "artists": [
+        {
+          "name": "Mel Parsons",
+          "url": "https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221226,
+      "name": "5432",
+      "url": "https://open.spotify.com/track/3gXaiPXUZZFg2HTAV7eCEO"
+    },
+    {
+      "album": {
         "name": "a bad dream from an old life",
         "url": "https://open.spotify.com/album/1b9QIgbrTT1QzVfURsTkwZ"
       },
@@ -60,7 +78,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 183253,
       "name": "A Dangerous Thing",
       "url": "https://open.spotify.com/track/7xDDRoOWJ5sOsp2SDXdTrE"
@@ -312,7 +330,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 217466,
       "name": "Big Black Car",
       "url": "https://open.spotify.com/track/3Kj2EWpIBnvETsYq4cq0IH"
@@ -352,6 +370,24 @@
       "duration_ms": 172880,
       "name": "Bird In A Hurricane",
       "url": "https://open.spotify.com/track/2QdSa6HSB6GnLTTxVRbQrJ"
+    },
+    {
+      "album": {
+        "name": "Blame Me If You Want To",
+        "url": "https://open.spotify.com/album/2G60YckB0tcxfUwqa4yIbg"
+      },
+      "artists": [
+        {
+          "name": "Jordie Lane",
+          "url": "https://open.spotify.com/artist/5exAkC90ITNJz5trrpuYsa"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264304,
+      "name": "Blame Me If You Want To",
+      "url": "https://open.spotify.com/track/0M5NpwcXOoJLPzYrfmp4o6"
     },
     {
       "album": {
@@ -402,7 +438,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 226011,
       "name": "Bones Shake",
       "url": "https://open.spotify.com/track/2TX0eN7jdjQiGx7NHSax7l"
@@ -918,7 +954,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 184000,
       "name": "Crimes of the Heart",
       "url": "https://open.spotify.com/track/0uchhk7il4rZl9qseuRS1F"
@@ -1088,6 +1124,42 @@
       "duration_ms": 236408,
       "name": "Do You Love Me Lately?",
       "url": "https://open.spotify.com/track/03ZQhvP0UXQvUhGxlGqOSq"
+    },
+    {
+      "album": {
+        "name": "Duck",
+        "url": "https://open.spotify.com/album/67xloF0stkFh62tuSV3hWR"
+      },
+      "artists": [
+        {
+          "name": "Way Dynamic",
+          "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229182,
+      "name": "Doctor Doctor",
+      "url": "https://open.spotify.com/track/6kAKAVqL4v1VoCX0FdWSPv"
+    },
+    {
+      "album": {
+        "name": "Dolly",
+        "url": "https://open.spotify.com/album/0SO3o4OeB8ewVF8uWgXBHa"
+      },
+      "artists": [
+        {
+          "name": "Geowulf",
+          "url": "https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219933,
+      "name": "Dolly",
+      "url": "https://open.spotify.com/track/64Wk4YklGLIfT3BaAhtrPr"
     },
     {
       "album": {
@@ -1326,7 +1398,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 245720,
       "name": "Drunk, Running",
       "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
@@ -1976,7 +2048,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 270360,
       "name": "Good Enough",
       "url": "https://open.spotify.com/track/064jdewcvmHluciPQ0QsvO"
@@ -2297,6 +2369,24 @@
     },
     {
       "album": {
+        "name": "Fighting For",
+        "url": "https://open.spotify.com/album/2sTJO0oeYWxnruPllxbkL1"
+      },
+      "artists": [
+        {
+          "name": "Evan Honer",
+          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285791,
+      "name": "I Figured We'd Go Dancin'",
+      "url": "https://open.spotify.com/track/48eUf8bFZmq37EaPUj8S4D"
+    },
+    {
+      "album": {
         "name": "Faye Webster",
         "url": "https://open.spotify.com/album/0pEHMpnX1jA44pzhW3n0JB"
       },
@@ -2312,6 +2402,24 @@
       "duration_ms": 251666,
       "name": "I Know You",
       "url": "https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o"
+    },
+    {
+      "album": {
+        "name": "I'm Sorry",
+        "url": "https://open.spotify.com/album/6eKMNdKYc24OCTwHPT5M1L"
+      },
+      "artists": [
+        {
+          "name": "Cordelia",
+          "url": "https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184968,
+      "name": "I'm Sorry",
+      "url": "https://open.spotify.com/track/6lAc4LYGnQhJfH3QBDTHgm"
     },
     {
       "album": {
@@ -3074,7 +3182,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 265120,
       "name": "Maybe If I Wore Sunglasses Inside I Won't Feel Tired",
       "url": "https://open.spotify.com/track/3ABzFrPGGVBjn87dLV5g6f"
@@ -3453,6 +3561,24 @@
     },
     {
       "album": {
+        "name": "On Her Side",
+        "url": "https://open.spotify.com/album/5shg1mmDuduoXQxKuezRI7"
+      },
+      "artists": [
+        {
+          "name": "Erin Rae",
+          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155640,
+      "name": "On Her Side",
+      "url": "https://open.spotify.com/track/27EEp3yjPGh4XQGi0JDJ5Y"
+    },
+    {
+      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/39csSCarZ5sZysoftHtPSO"
       },
@@ -3486,6 +3612,24 @@
       "duration_ms": 186961,
       "name": "Only You",
       "url": "https://open.spotify.com/track/6RnK69iWbnoCZ1vW4lCr36"
+    },
+    {
+      "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/64vCs9clQBe4ogjQJsrBfq"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Outlaw",
+      "url": "https://open.spotify.com/track/2udLBb0lhqk0896glynEib"
     },
     {
       "album": {
@@ -3807,6 +3951,24 @@
     },
     {
       "album": {
+        "name": "Shiva",
+        "url": "https://open.spotify.com/album/3Q8CPszxKBHYKSMNlv5wrf"
+      },
+      "artists": [
+        {
+          "name": "Julius Black",
+          "url": "https://open.spotify.com/artist/7aZEcK7jSvrSoshGSgOYfj"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182386,
+      "name": "Shiva",
+      "url": "https://open.spotify.com/track/42oPBjCm3xqOfevxJcjhdO"
+    },
+    {
+      "album": {
         "name": "Simply The Best",
         "url": "https://open.spotify.com/album/2IjiX4wNgyntlvPU9a0Yy7"
       },
@@ -3876,7 +4038,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 217250,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/7g2trGGJHZA2nuoe4FECXI"
@@ -4266,7 +4428,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 200526,
       "name": "Subpar sentiment, cracking skin, a gene forgotten so long ago",
       "url": "https://open.spotify.com/track/6t6SBLYgfMVcrbK8AjhUtY"
@@ -4874,7 +5036,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 189053,
       "name": "Tourniquet",
       "url": "https://open.spotify.com/track/3EvZ03hGAFwGZ2Ebcu86YH"
@@ -5105,6 +5267,24 @@
     },
     {
       "album": {
+        "name": "Wasting Your Love",
+        "url": "https://open.spotify.com/album/3dp1gYVZHZLhLIY8ixDFnF"
+      },
+      "artists": [
+        {
+          "name": "Emile Mosseri",
+          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163611,
+      "name": "Wasting Your Love",
+      "url": "https://open.spotify.com/track/2NRx2hmaTxu3e3WbZsaw4G"
+    },
+    {
+      "album": {
         "name": "We Gotta Go",
         "url": "https://open.spotify.com/album/1Gat8TNCnjHiGx1bWV1ZCZ"
       },
@@ -5160,6 +5340,24 @@
       "duration_ms": 232800,
       "name": "when i look at you.",
       "url": "https://open.spotify.com/track/2Hf4lbVibsJo6u6cFAxwdQ"
+    },
+    {
+      "album": {
+        "name": "When she holds me",
+        "url": "https://open.spotify.com/album/0bZ5ZKnXCHLoxgm5Y4lSrt"
+      },
+      "artists": [
+        {
+          "name": "Becky and the Birds",
+          "url": "https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243440,
+      "name": "When she holds me",
+      "url": "https://open.spotify.com/track/4L4TXo5OwpTQlIPly2xES1"
     },
     {
       "album": {
@@ -5268,7 +5466,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 252253,
       "name": "Wicked Game - Acoustic",
       "url": "https://open.spotify.com/track/3Gb3RPg5FT3cCn0q1oizZp"

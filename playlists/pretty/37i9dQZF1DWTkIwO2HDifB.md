@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > QUERO VER SE VOCÊ TEM ATITUDE e os funks mais 🔑 do Brasil\. Foto: DJ Luan Gomes
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,302,019 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,302,759 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

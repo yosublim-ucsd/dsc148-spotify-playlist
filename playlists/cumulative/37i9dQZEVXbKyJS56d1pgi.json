@@ -588,7 +588,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 182500,
       "name": "A Nossa Dan\u00e7a",
       "url": "https://open.spotify.com/track/0xKBEEJwpjaLn1QhCdyKcf"
@@ -8724,7 +8724,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 228965,
       "name": "Fortnight (feat. Post Malone)",
       "url": "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m"
@@ -16316,7 +16316,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 162461,
       "name": "N\u00e3o Vou Namorar",
       "url": "https://open.spotify.com/track/027ielmg4mNR1p1Ds3Mvgh"
@@ -25102,6 +25102,32 @@
       "duration_ms": 276986,
       "name": "VULTURES",
       "url": "https://open.spotify.com/track/4202KkXGtULRsbRocWSw09"
+    },
+    {
+      "album": {
+        "name": "Wait 4 Me",
+        "url": "https://open.spotify.com/album/1FL5MbYuGUFDJi3svXLkV0"
+      },
+      "artists": [
+        {
+          "name": "TRACKDILLA",
+          "url": "https://open.spotify.com/artist/5rq1B097PR2SxsVBVhG9bR"
+        },
+        {
+          "name": "Gianni Blu",
+          "url": "https://open.spotify.com/artist/7xpdGx95yjp1d4c6dViRSx"
+        },
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214646,
+      "name": "Wait 4 Me",
+      "url": "https://open.spotify.com/track/6GwQLeCFwsVYcEO8PTWnPX"
     },
     {
       "album": {

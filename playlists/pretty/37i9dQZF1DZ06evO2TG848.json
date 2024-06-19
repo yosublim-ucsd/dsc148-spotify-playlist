@@ -1,12 +1,12 @@
 {
-  "description": "This is Gustavo Santaolalla. The essential tracks, all in one playlist.",
-  "num_followers": 21422,
+  "description": "This Is Gustavo Santaolalla. Los temas esenciales, todos en una lista.",
+  "num_followers": 21434,
   "original_name": "This Is Gustavo Santaolalla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zm4rAAAAAAAYFuN4nj+crIzfBh+yla3u",
+  "snapshot_id": "Zm98gAAAAADMwBGFe/j/vfXD2LQI6Qud",
   "tracks": [
     {
       "added_at": null,
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh"
         }
       ],
-      "duration_ms": 81693,
-      "name": "Lima",
-      "url": "https://open.spotify.com/track/45vzHJ2WPyO8WvTjCw6M6W"
+      "duration_ms": 158093,
+      "name": "Sendero",
+      "url": "https://open.spotify.com/track/6iBd7Zeavv6b5bJgNk9m5h"
     },
     {
       "added_at": null,
@@ -920,9 +920,9 @@
           "url": "https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh"
         }
       ],
-      "duration_ms": 158093,
-      "name": "Sendero",
-      "url": "https://open.spotify.com/track/6iBd7Zeavv6b5bJgNk9m5h"
+      "duration_ms": 81693,
+      "name": "Lima",
+      "url": "https://open.spotify.com/track/45vzHJ2WPyO8WvTjCw6M6W"
     },
     {
       "added_at": null,
@@ -975,8 +975,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Before the Flood (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/6nFtsE7rZHInooqb9QYGrn"
+        "name": "Brokeback Mountain Soundtrack",
+        "url": "https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT"
       },
       "artists": [
         {
@@ -984,9 +984,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 65776,
-      "name": "Thin Ice",
-      "url": "https://open.spotify.com/track/65ROuREUdXBKfTVoSkQRRJ"
+      "duration_ms": 84146,
+      "name": "Riding Horses",
+      "url": "https://open.spotify.com/track/1VcuJnxxrWeoJwQqF00Ggw"
     },
     {
       "added_at": null,

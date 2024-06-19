@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1okZ1ZeITst.md) - [plain]
 
 > From the shower to the car, Disney songs that make you want to sing along, including songs from Wish.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,040,295 likes - 136 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,040,460 likes - 136 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

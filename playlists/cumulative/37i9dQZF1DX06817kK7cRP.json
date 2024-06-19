@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 137635,
       "name": "Gelato",
       "url": "https://open.spotify.com/track/7nhFat90m89TNhlHdqjOM5"
@@ -2712,6 +2712,24 @@
       "duration_ms": 198500,
       "name": "Pyramids Revisited",
       "url": "https://open.spotify.com/track/3vXrrNtaV8I6opIxPniy2j"
+    },
+    {
+      "album": {
+        "name": "P\u00e3o de Mel",
+        "url": "https://open.spotify.com/album/401l50TXjvmfXWlLonXhi9"
+      },
+      "artists": [
+        {
+          "name": "Marinha Paz",
+          "url": "https://open.spotify.com/artist/3BNOGFlCLueiu93ELsIKF9"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140200,
+      "name": "P\u00e3o de Mel",
+      "url": "https://open.spotify.com/track/6c6xj5g0hgCRfXXIa2iYEN"
     },
     {
       "album": {

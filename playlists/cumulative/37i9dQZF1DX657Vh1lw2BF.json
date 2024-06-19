@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Al Bedaa",
+        "url": "https://open.spotify.com/album/6HXPgzt4gSuDpqZciNrJB5"
+      },
+      "artists": [
+        {
+          "name": "Majid Almohandis",
+          "url": "https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62960,
+      "name": "Al Bedaa",
+      "url": "https://open.spotify.com/track/3T7LTYFvEZZGbz9Cm0ZdnD"
+    },
+    {
+      "album": {
         "name": "Sawaha",
         "url": "https://open.spotify.com/album/4SuZtMvNjMHag9xGnzbTrP"
       },

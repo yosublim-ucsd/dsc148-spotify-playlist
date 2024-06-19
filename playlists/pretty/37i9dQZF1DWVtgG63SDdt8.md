@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover:   <a href="spotify:artist:44tJHJzGo1h7XbBTepJwb0">Ke'Erron</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,179 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,236 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 27 | [Pillar](https://open.spotify.com/track/5odjPxvmThtKws5v0lLnCi) | [O'Tobi](https://open.spotify.com/artist/1HYbCVkigoBdEuitGNANGW), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG) | [Pillar](https://open.spotify.com/album/6sUlyjObnWxGJrlKBSGo7A) | 3:21 |
 | 28 | [Benefits](https://open.spotify.com/track/2oPXy0rG9vs5f205UGw2kY) | [Kelar Thrillz](https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb), [Izee Smith](https://open.spotify.com/artist/6GyPcrxlrvHEre7Rb63RHt) | [Benefits](https://open.spotify.com/album/49YUiACmblbDrOuX0ROQX7) | 3:25 |
 | 29 | [Hello God](https://open.spotify.com/track/6FnK4ga3rXbTgv4zJwiy1X) | [Romeyo Wilson](https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ) | [Hello God](https://open.spotify.com/album/1KJE5xGSYGQRKxJCumdfHp) | 3:32 |
-| 30 | [Take Me Higher](https://open.spotify.com/track/6xTv7ao4KotZoZIKF7sSpH) | [Rave Jesus](https://open.spotify.com/artist/3mPHVEre3DiAHKuOCBFP8D) | [Take Me Higher](https://open.spotify.com/album/6ZAJdlXE9dpcgDmsJTdxGX) | 3:13 |
+| 30 | [Take Me Higher](https://open.spotify.com/track/6xTv7ao4KotZoZIKF7sSpH) | [Rave Jesus](https://open.spotify.com/artist/3mPHVEre3DiAHKuOCBFP8D), [SON.](https://open.spotify.com/artist/4mA4iGdnkLQWW3klqWHbsJ) | [Take Me Higher](https://open.spotify.com/album/6ZAJdlXE9dpcgDmsJTdxGX) | 3:13 |
 | 31 | [You](https://open.spotify.com/track/6cyhb99lhlEGNcHbeLiw5D) | [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [You](https://open.spotify.com/album/0igGC3PsZJxlQH6Uk5o6zt) | 2:25 |
 | 32 | [GODS HAND](https://open.spotify.com/track/3ziRrlTS93NcvP3eGgJz5r) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [GODS HAND](https://open.spotify.com/album/0c2qV4UymqJK1C8iXFrEQd) | 3:33 |
 | 33 | [Jesus Juke \(Favor\)](https://open.spotify.com/track/2kEmG9OPYYIQ6gUjiQmbPF) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2) | [Jesus Juke \(Favor\)](https://open.spotify.com/album/6LsEKSVjxYiUSUXkUpGXF9) | 2:00 |

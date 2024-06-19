@@ -4,7 +4,7 @@
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-396 songs - 17 hr 49 min
+397 songs - 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [Remember Me](https://open.spotify.com/track/6i7p1ebvBqZGW0snZGwUiX) | [aiden](https://open.spotify.com/artist/4fyX4gJSYNlpMv8WZjWnrX), [Amaranth Skies](https://open.spotify.com/artist/6v1yanGkwUBUbk6G3dgNOq), [nika jane](https://open.spotify.com/artist/5SLfIyiWT3rt5EpYFeP1q2) | [Remember Me](https://open.spotify.com/album/5Cf774kUgGJj75TKa3zS31) | 2:40 | 2024-02-02 | 2024-03-16 |
 | [Ride It](https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev) | [Ride It](https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E) | 2:37 | 2024-01-10 |  |
 | [Riptide \(feat\. Levka Rey\)](https://open.spotify.com/track/6pS27YQSPgNAklavALEub0) | [Feather](https://open.spotify.com/artist/2Du67wvPTzzJ2LcmiHEOHK), [BNHM](https://open.spotify.com/artist/5Dbey2rYHmx0fZWywHiO2N), [Levka Rey](https://open.spotify.com/artist/6jaX71Jjhu6nfYVdaPTJYi) | [Riptide \(feat\. Levka Rey\)](https://open.spotify.com/album/2sjdpJzlzKAh0cHS6Di7Ev) | 2:51 | 2024-01-19 |  |
+| [Rockstars](https://open.spotify.com/track/6uNH63cQYv2wfRo9iTaGQS) | [Honest Regrets](https://open.spotify.com/artist/6WeJcp2maE7mFGx43ccufg), [Kid On The Block](https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH), [Thomas Geelens](https://open.spotify.com/artist/0fOACSuV2yErGIXJvBsIZz) | [Rockstars](https://open.spotify.com/album/2px8RFwsVkje5ii4ynfBDh) | 2:07 | 2024-06-18 |  |
 | [Room With A View](https://open.spotify.com/track/3qAiB3ulfAXrQYh5w1zp8P) | [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Chris Ruo](https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY), [Anna\-Sophia Henry](https://open.spotify.com/artist/7eMgHO3ZOlcpWKM3OFnnS8) | [Room With A View](https://open.spotify.com/album/2EKID2NfQSCeUZ5BbljtsX) | 2:36 | 2024-04-12 | 2024-06-15 |
 | [Rule The World](https://open.spotify.com/track/30lGvPbo5wFU65ZCd62UGV) | [Calm Springs](https://open.spotify.com/artist/1pd4wbq23IikAfw2CYSRTb), [Donna Senders](https://open.spotify.com/artist/6an7nK86PPq4I4yTlBd48P), [l'essay](https://open.spotify.com/artist/19X4W851yGGTB4rgz61cBs) | [Rule The World](https://open.spotify.com/album/5k722C0FunB4YlNtz1m8c3) | 3:15 | 2024-03-01 | 2024-03-30 |
 | [Run](https://open.spotify.com/track/6KL88T4Ma4ABXqzgUoEwkd) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 2:48 | 2024-01-01 |  |

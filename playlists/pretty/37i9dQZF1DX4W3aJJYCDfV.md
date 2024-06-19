@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from IDLES \(pictured\), Cassö x Jazzy ft Headie One, Normani and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 852,773 likes - 117 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 852,798 likes - 117 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 43 | [Dream Of You](https://open.spotify.com/track/0vpY7SmDTduxfIcW1JXN3e) | [Genix](https://open.spotify.com/artist/5WWUkLXiAbmGwtELcfvB2w), [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM) | [YOU.ME.NOW](https://open.spotify.com/album/32ozStC7KbED7L5ez5en1n) | 3:18 |
 | 44 | [June Baby](https://open.spotify.com/track/1Bi3VozG3TkmqO7D157n6A) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [June Baby](https://open.spotify.com/album/2zHSZ93YId2FctiSrTgY4j) | 3:02 |
 | 45 | [You'll Be Okay](https://open.spotify.com/track/4h9RqNvAzB9aJLKV4J60dT) | [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [You'll Be Okay](https://open.spotify.com/album/7ID0QpfQ4hnl9TJXofuZSE) | 3:55 |
-| 46 | [far out](https://open.spotify.com/track/4My8C3ATCIRDAj0aIf75KC) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [far out](https://open.spotify.com/album/0ywPmzfGXuZFHoOnlzHNVJ) | 2:47 |
+| 46 | [Far Out](https://open.spotify.com/track/4My8C3ATCIRDAj0aIf75KC) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Far Out](https://open.spotify.com/album/0ywPmzfGXuZFHoOnlzHNVJ) | 2:47 |
 | 47 | [Love Worth Believing](https://open.spotify.com/track/63bxA3BnMM3v64NwVXMBef) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [Love Worth Believing](https://open.spotify.com/album/6mlzOQDpDt1Q2h3JfB7pDK) | 3:37 |
 | 48 | [Pretty Green Eyes \(Sunset Ibiza Mix\)](https://open.spotify.com/track/6iGMRy5RDMiAdTpuMB5gAm) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Pretty Green Eyes \(Sunset Ibiza Mix\)](https://open.spotify.com/album/5jAnfBukpgxAPJPtrAgLgN) | 4:18 |
 | 49 | [Poison Cookie ft\. AUDREY NUNA](https://open.spotify.com/track/49fSj7bWWBfsi8thBoHN3S) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Poison Cookie ft\. AUDREY NUNA](https://open.spotify.com/album/2Lt2LwVh3NWx3P96GxkGjq) | 2:37 |

@@ -2,9 +2,9 @@
 
 ### [Domino Sound System](https://open.spotify.com/playlist/2nSEYi9ueqDn2wxo1Tmceg)
 
-> Domino present you with their selection of the best independent music around\. Enjoy! Cover: Avey Tare
+> Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/0yJolfjqzHfNbr9IoBSndu?si=h6gIDNzNR06HcGlhhO4tEw">Avey Tare</a>
 
-951 songs - 2 day 17 hr 38 min
+952 songs - 2 day 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [Flowers](https://open.spotify.com/track/7sU1jiSkAST9dR1KnRoiJx) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Flowers](https://open.spotify.com/album/76wvinNBPaNDxuJ5XZziuk) | 2:48 | 2024-02-20 | 2024-03-01 |
 | [Follow Me](https://open.spotify.com/track/0DpQewnCgU5o57KOGeb9Lh) | [Special Interest](https://open.spotify.com/artist/2CYTLJOt91YLe1JLStFu6m) | [\(Herman’s\) House / Follow Me](https://open.spotify.com/album/06WAdZd3Ty6SpqW6NPepJW) | 4:10 | 2022-08-03 | 2022-09-15 |
 | [Follow The Light](https://open.spotify.com/track/17076c3jEyuTYHYnMN6P1G) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Follow The Light](https://open.spotify.com/album/6v2rqiNIvp8wpwjuM52ea6) | 2:39 | 2024-04-03 | 2024-05-09 |
+| [Follow You](https://open.spotify.com/track/1Q2pf5I7eyZZvENC2eIYZP) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Follow You](https://open.spotify.com/album/34O2W8EIX2LGMztjbj8HhY) | 4:24 | 2024-06-18 |  |
 | [For a Chisos Bluebonnet](https://open.spotify.com/track/0r8GHYio6HUmuu9a5NIgPe) | [Eli Winter](https://open.spotify.com/artist/2g4lvjVSHVht7kc9nKgH11) | [Eli Winter](https://open.spotify.com/album/3SOKlGuqG01No7a8usHPcl) | 3:48 | 2022-08-24 | 2022-10-07 |
 | [For Granted](https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [For Granted](https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ) | 2:41 | 2023-01-18 | 2023-02-16 |
 | [Force 10 From Navarone](https://open.spotify.com/track/3SOoS8pncqffzUA78NYj9p) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Force 10 From Navarone](https://open.spotify.com/album/5hizabIxOkefLOuQgi61fM) | 3:24 | 2023-02-15 | 2023-03-30 |

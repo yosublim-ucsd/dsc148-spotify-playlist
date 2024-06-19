@@ -1,6 +1,6 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 203129,
+  "num_followers": 203133,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
@@ -1007,6 +1007,26 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
+        "name": "Without Your Love",
+        "url": "https://open.spotify.com/album/6BuV4qg8WtUZ5Zqr8rx2wC"
+      },
+      "artists": [
+        {
+          "name": "Colorvault",
+          "url": "https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er"
+        },
+        {
+          "name": "A.Bishai",
+          "url": "https://open.spotify.com/artist/3OLnkIUoCzl7AiVY9WAEuM"
+        }
+      ],
+      "duration_ms": 179271,
+      "name": "Without Your Love",
+      "url": "https://open.spotify.com/track/3iAbaEO9MYGn2tcRxNEG8l"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
         "name": "I Love You (Remix)",
         "url": "https://open.spotify.com/album/1VX963HeOs6HHWWm8jwxim"
       },
@@ -1027,26 +1047,6 @@
       "duration_ms": 193170,
       "name": "I Love You (Remix)",
       "url": "https://open.spotify.com/track/0C7KfSMsBddWhnw2gCZLBK"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
-        "name": "Without Your Love",
-        "url": "https://open.spotify.com/album/6BuV4qg8WtUZ5Zqr8rx2wC"
-      },
-      "artists": [
-        {
-          "name": "Colorvault",
-          "url": "https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er"
-        },
-        {
-          "name": "A.Bishai",
-          "url": "https://open.spotify.com/artist/3OLnkIUoCzl7AiVY9WAEuM"
-        }
-      ],
-      "duration_ms": 179271,
-      "name": "Without Your Love",
-      "url": "https://open.spotify.com/track/3iAbaEO9MYGn2tcRxNEG8l"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
+        "name": "The One You Need",
+        "url": "https://open.spotify.com/album/6QemBl6QEG7Lt9W2ALuctj"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 270866,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/4gOKl65mwqty8RGiokhv3h"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
         "name": "For the Soul",
         "url": "https://open.spotify.com/album/1fccj2iThKlGrHdCq8lNbd"
       },
@@ -1547,18 +1563,18 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "The One You Need",
-        "url": "https://open.spotify.com/album/6QemBl6QEG7Lt9W2ALuctj"
+        "name": "Only Time Will Tell",
+        "url": "https://open.spotify.com/album/2acvVPamPgjj5OV08LTHtG"
       },
       "artists": [
         {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
         }
       ],
-      "duration_ms": 270866,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/4gOKl65mwqty8RGiokhv3h"
+      "duration_ms": 198000,
+      "name": "Only Time Will Tell",
+      "url": "https://open.spotify.com/track/6CsOh6j4ETwA9a5QbeueFf"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1575,22 +1591,6 @@
       "duration_ms": 187826,
       "name": "Junto a Ti",
       "url": "https://open.spotify.com/track/309976H25vNibcds9nAH5A"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
-        "name": "Only Time Will Tell",
-        "url": "https://open.spotify.com/album/2acvVPamPgjj5OV08LTHtG"
-      },
-      "artists": [
-        {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Only Time Will Tell",
-      "url": "https://open.spotify.com/track/6CsOh6j4ETwA9a5QbeueFf"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Let Me Be There",
-        "url": "https://open.spotify.com/album/6YY0XIec51PuwdYo1Gp5tW"
-      },
-      "artists": [
-        {
-          "name": "Gaither Vocal Band",
-          "url": "https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o"
-        }
-      ],
-      "duration_ms": 185095,
-      "name": "Laughter In The Rain",
-      "url": "https://open.spotify.com/track/4iDZKkjeZQEWFigMdMSZMa"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Our Love",
         "url": "https://open.spotify.com/album/0ntZH4kGvUW9WvCbCNTw1r"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 340200,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/7zLrZg50t25YSwU1iDskbQ"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Let Me Be There",
+        "url": "https://open.spotify.com/album/6YY0XIec51PuwdYo1Gp5tW"
+      },
+      "artists": [
+        {
+          "name": "Gaither Vocal Band",
+          "url": "https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o"
+        }
+      ],
+      "duration_ms": 185095,
+      "name": "Laughter In The Rain",
+      "url": "https://open.spotify.com/track/4iDZKkjeZQEWFigMdMSZMa"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "fall (when we fell in love)",
-        "url": "https://open.spotify.com/album/10n7mUKnfNJKUWcm6Bu6jm"
-      },
-      "artists": [
-        {
-          "name": "Xander Sallows",
-          "url": "https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F"
-        }
-      ],
-      "duration_ms": 157990,
-      "name": "fall (when we fell in love)",
-      "url": "https://open.spotify.com/track/36d1svoAknjikN8IgUXSbD"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Antagonista",
         "url": "https://open.spotify.com/album/1rG3vXp9bSKK9slELad52Z"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 155881,
       "name": "Antagonista",
       "url": "https://open.spotify.com/track/2BVdkWkRhGPiJ6ootfw8vA"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "fall (when we fell in love)",
+        "url": "https://open.spotify.com/album/10n7mUKnfNJKUWcm6Bu6jm"
+      },
+      "artists": [
+        {
+          "name": "Xander Sallows",
+          "url": "https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F"
+        }
+      ],
+      "duration_ms": 157990,
+      "name": "fall (when we fell in love)",
+      "url": "https://open.spotify.com/track/36d1svoAknjikN8IgUXSbD"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1955,26 +1955,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Carried",
-        "url": "https://open.spotify.com/album/7FF2D1VZ0HzV0MdXvphF1v"
-      },
-      "artists": [
-        {
-          "name": "Ethan C. Davis",
-          "url": "https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II"
-        },
-        {
-          "name": "Isla Vista Worship",
-          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
-        }
-      ],
-      "duration_ms": 137223,
-      "name": "Carried",
-      "url": "https://open.spotify.com/track/71lnfcnHCy52jc4Fk3nBzd"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "BEBECITA SHAWTY",
         "url": "https://open.spotify.com/album/2AJ4vqysy13rOsgyVAYgUk"
       },
@@ -2011,6 +1991,26 @@
       "duration_ms": 154020,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/7JIYxxvG7GIh8X9Rgt983V"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Carried",
+        "url": "https://open.spotify.com/album/7FF2D1VZ0HzV0MdXvphF1v"
+      },
+      "artists": [
+        {
+          "name": "Ethan C. Davis",
+          "url": "https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II"
+        },
+        {
+          "name": "Isla Vista Worship",
+          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
+        }
+      ],
+      "duration_ms": 137223,
+      "name": "Carried",
+      "url": "https://open.spotify.com/track/71lnfcnHCy52jc4Fk3nBzd"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -2183,6 +2183,22 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
+        "name": "HERE FOR U",
+        "url": "https://open.spotify.com/album/4x1raU0kC6Q2FsC5lKnGMY"
+      },
+      "artists": [
+        {
+          "name": "Don Ryvcko",
+          "url": "https://open.spotify.com/artist/4sPaDVtUm4TRrM6TATYC8D"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "HERE FOR U",
+      "url": "https://open.spotify.com/track/3Wu5EGR3dNatQR0b3zx0dT"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
         "name": "you.",
         "url": "https://open.spotify.com/album/6B7etnFvfuyy0H0cY7DsrD"
       },
@@ -2207,18 +2223,22 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "HERE FOR U",
-        "url": "https://open.spotify.com/album/4x1raU0kC6Q2FsC5lKnGMY"
+        "name": "Best In Me",
+        "url": "https://open.spotify.com/album/05njSWOf5Yn13lDbaxXbnG"
       },
       "artists": [
         {
-          "name": "Don Ryvcko",
-          "url": "https://open.spotify.com/artist/4sPaDVtUm4TRrM6TATYC8D"
+          "name": "Ilish",
+          "url": "https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi"
+        },
+        {
+          "name": "A-Dub White",
+          "url": "https://open.spotify.com/artist/0fIrICgUetNRbRQxq3yxyZ"
         }
       ],
-      "duration_ms": 114000,
-      "name": "HERE FOR U",
-      "url": "https://open.spotify.com/track/3Wu5EGR3dNatQR0b3zx0dT"
+      "duration_ms": 169403,
+      "name": "Best In Me",
+      "url": "https://open.spotify.com/track/301kBapJYmfmEqwfbnuVJW"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -2239,26 +2259,6 @@
       "duration_ms": 237019,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/1gk8quablImWHaeusiM3BX"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
-        "name": "Best In Me",
-        "url": "https://open.spotify.com/album/05njSWOf5Yn13lDbaxXbnG"
-      },
-      "artists": [
-        {
-          "name": "Ilish",
-          "url": "https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi"
-        },
-        {
-          "name": "A-Dub White",
-          "url": "https://open.spotify.com/artist/0fIrICgUetNRbRQxq3yxyZ"
-        }
-      ],
-      "duration_ms": 169403,
-      "name": "Best In Me",
-      "url": "https://open.spotify.com/track/301kBapJYmfmEqwfbnuVJW"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -2463,6 +2463,38 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
+        "name": "Cover Sessions, Vol. 2",
+        "url": "https://open.spotify.com/album/4TLmOaKZJL0Hk6KBd2c8Jj"
+      },
+      "artists": [
+        {
+          "name": "Boyce Avenue",
+          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
+        }
+      ],
+      "duration_ms": 216612,
+      "name": "Beautiful Soul",
+      "url": "https://open.spotify.com/track/4gxT7DX1NVig7cnQBhSmiM"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Let It Fly",
+        "url": "https://open.spotify.com/album/4ZiHyjHojgTgqlFgLABYzg"
+      },
+      "artists": [
+        {
+          "name": "Jonny Diaz",
+          "url": "https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt"
+        }
+      ],
+      "duration_ms": 195160,
+      "name": "Thank God I Got Her",
+      "url": "https://open.spotify.com/track/5Rv2Qybimpsp9hzFnMQBYN"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
         "name": "Counting Stars",
         "url": "https://open.spotify.com/album/2nrcquoo8aHqdrZyx6kdPb"
       },
@@ -2543,22 +2575,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Cover Sessions, Vol. 2",
-        "url": "https://open.spotify.com/album/4TLmOaKZJL0Hk6KBd2c8Jj"
-      },
-      "artists": [
-        {
-          "name": "Boyce Avenue",
-          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
-        }
-      ],
-      "duration_ms": 216612,
-      "name": "Beautiful Soul",
-      "url": "https://open.spotify.com/track/4gxT7DX1NVig7cnQBhSmiM"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/4MU9KSElQSxRfRcNAL83An"
       },
@@ -2575,22 +2591,6 @@
       "duration_ms": 173861,
       "name": "Better",
       "url": "https://open.spotify.com/track/1WvgGT8Q4uIdrY7KQgVNnz"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
-        "name": "Let It Fly",
-        "url": "https://open.spotify.com/album/4ZiHyjHojgTgqlFgLABYzg"
-      },
-      "artists": [
-        {
-          "name": "Jonny Diaz",
-          "url": "https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt"
-        }
-      ],
-      "duration_ms": 195160,
-      "name": "Thank God I Got Her",
-      "url": "https://open.spotify.com/track/5Rv2Qybimpsp9hzFnMQBYN"
     },
     {
       "added_at": "2024-02-05 17:58:02",

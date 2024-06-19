@@ -5147,7 +5147,7 @@
     },
     {
       "album": {
-        "name": "Menteur (feat. Ronisia & John Scorp)",
+        "name": "Menteur (feat. Ronisia)",
         "url": "https://open.spotify.com/album/0XEMqLQn4Egdsh1lZKdpUd"
       },
       "artists": [
@@ -5158,17 +5158,13 @@
         {
           "name": "Ronisia",
           "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
-        },
-        {
-          "name": "John Scorp",
-          "url": "https://open.spotify.com/artist/3ExbC2VW9YPQwTc1It1rvu"
         }
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 144066,
-      "name": "Menteur (feat. Ronisia & John Scorp)",
+      "name": "Menteur (feat. Ronisia)",
       "url": "https://open.spotify.com/track/1ktG6CAaqao0wcBvNSLlkS"
     },
     {
@@ -7564,12 +7560,12 @@
       },
       "artists": [
         {
-          "name": "Puri",
-          "url": "https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp"
-        },
-        {
           "name": "Lhiroyd",
           "url": "https://open.spotify.com/artist/30ISUZ5Xkto4CyeClftpG8"
+        },
+        {
+          "name": "Puri",
+          "url": "https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp"
         }
       ],
       "date_added": "2024-03-28",

@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Adiyaan",
+        "url": "https://open.spotify.com/album/2XpeONOREylCh7qPMjMNIC"
+      },
+      "artists": [
+        {
+          "name": "Nitin K Siva",
+          "url": "https://open.spotify.com/artist/1ClekcsZ4VLBcjLiZ1ZUis"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302509,
+      "name": "Adiyaan",
+      "url": "https://open.spotify.com/track/57THESM0sQvIsh3hTTDvtE"
+    },
+    {
+      "album": {
         "name": "After",
         "url": "https://open.spotify.com/album/4RZMjr9xwxRAv0Nz8L2lkW"
       },
@@ -1150,7 +1168,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 225600,
       "name": "I.O.Y.A (Ayyo Vayye)",
       "url": "https://open.spotify.com/track/2hs0eVQRkBiGw8nLPN2rIu"
@@ -3924,7 +3942,7 @@
       ],
       "date_added": "2023-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 191453,
       "name": "Vettam Reprised",
       "url": "https://open.spotify.com/track/1VKqe5jwgqdmFLkxxTdx4x"

@@ -4,7 +4,7 @@
 
 > This is MC Cabelinho\. Todos os maiores hits em uma só playlist.
 
-62 songs - 4 hr 5 min
+63 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Química](https://open.spotify.com/track/5RTtCd89bpX4lSRaYgKd8r) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Química](https://open.spotify.com/album/6RWsT169HF4eb8C3FqFOMB) | 2:33 | 2023-09-18 |  |
 | [RIO SUL](https://open.spotify.com/track/7fA1lo7delfwVjq7Ccg0fp) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [DomLaike](https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ), [Dj Felipe Rosa](https://open.spotify.com/artist/02ESSPEzwYHnLH7SjiG8oj) | [LITTLE HAIR](https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V) | 2:20 | 2023-09-18 | 2024-03-22 |
 | [Saudade](https://open.spotify.com/track/3lbkPMBvM2hmgx4nDqLqvb) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Djay W](https://open.spotify.com/artist/5nkzLizeD93QtabjeK4oyl) | [Ainda](https://open.spotify.com/album/2YEX8OaLPGDd1SjhIipLjS) | 3:27 | 2023-09-18 | 2024-03-31 |
-| [Sem Compaixão](https://open.spotify.com/track/7KDDrAqNSOdEUeNvAOEExR) | [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Sem Compaixão](https://open.spotify.com/album/0iyqDsb8sbXxhhvMdn4YB2) | 3:22 | 2023-09-18 |  |
+| [Sem Compaixão](https://open.spotify.com/track/1JY0M9yLPgv9VChWoCunYX) | [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Vetin](https://open.spotify.com/album/2GUMdFLAWolI1qxf7dcTbs) | 3:22 | 2024-06-19 |  |
+| [Sem Compaixão](https://open.spotify.com/track/7KDDrAqNSOdEUeNvAOEExR) | [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Sem Compaixão](https://open.spotify.com/album/0iyqDsb8sbXxhhvMdn4YB2) | 3:22 | 2023-09-18 | 2024-06-19 |
 | [Sem convite \(feat\. MODÉ$TIA, MC Cabelinho e Yoka\)](https://open.spotify.com/track/7fxrvStpH0qyh6iHXoSZ31) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [MODE$TIA](https://open.spotify.com/artist/5VDo7VvWUs9J8N3VEoFpRR), [Yoka](https://open.spotify.com/artist/2YQrIbZX0TKpMRqEVk8tOC) | [Rio](https://open.spotify.com/album/2wQCMH9zQ2KYDjhUmgIS4s) | 4:07 | 2023-09-18 |  |
 | [SEXY](https://open.spotify.com/track/0ReqDOp3nbS49HRy4BrmkY) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm), [MATHINVOKER](https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc) | [LITTLE LOVE](https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV) | 2:56 | 2023-09-18 |  |
 | [TE ENCONTREI](https://open.spotify.com/track/5H3m39zgDfXU2bFVA3e2YQ) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LITTLE LOVE \(DELUXE\)](https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I) | 2:24 | 2023-09-18 |  |

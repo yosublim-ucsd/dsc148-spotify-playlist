@@ -785,6 +785,24 @@
     },
     {
       "album": {
+        "name": "Amiga Ya Mato",
+        "url": "https://open.spotify.com/album/3vdeLAOCdRgLEYXaoAxpwh"
+      },
+      "artists": [
+        {
+          "name": "Fran Maira",
+          "url": "https://open.spotify.com/artist/62ztrjzw3tYDq5udATPhwN"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144014,
+      "name": "Amiga Ya Mato",
+      "url": "https://open.spotify.com/track/0UONsSefbs5YP6iluxq8Dq"
+    },
+    {
+      "album": {
         "name": "Amor Artificial",
         "url": "https://open.spotify.com/album/53UtRphEAZT0wZk2rN41nb"
       },
@@ -10494,7 +10512,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 188041,
       "name": "NADIE TEKITA",
       "url": "https://open.spotify.com/track/0RJim16pYKHkx9L8H01FVZ"
@@ -12680,7 +12698,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 151836,
       "name": "POR TI (with Harry Nach, Polim\u00e1 Westcoast & Tripper)",
       "url": "https://open.spotify.com/track/2N8ROcd1MzQXZRcj54DvdZ"
@@ -13308,7 +13326,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 155294,
       "name": "Quieres Quedarte?",
       "url": "https://open.spotify.com/track/3cDZ7ogdishEqb7BFdwKzE"

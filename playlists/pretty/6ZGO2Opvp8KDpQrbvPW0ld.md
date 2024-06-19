@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 76,185 likes - 300 songs - 10 hr 57 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 76,181 likes - 300 songs - 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 44 | [Timeless Dream](https://open.spotify.com/track/4EBwFTzvd7p9Ht7rtiWeE7) | [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG) | [Timeless Dream](https://open.spotify.com/album/7qamFdpqoGZ6DpXAYxozMU) | 1:50 |
 | 45 | [Space Signal](https://open.spotify.com/track/1tlneNt3kLQBNRE2jrqhRz) | [Ymori](https://open.spotify.com/artist/4Yccu9UQwMSEegvhhS6tRK) | [Space Signal](https://open.spotify.com/album/6vbp06WeEXhYP12inB3gEv) | 1:36 |
 | 46 | [inner peace](https://open.spotify.com/track/7iLWa2JglhE3KPZeH8eJNm) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [Acrylic Sleep](https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny) | [inner peace](https://open.spotify.com/album/0I6pOcQD1XWQGpBZYm1llt) | 1:50 |
-| 47 | [Wild Felix](https://open.spotify.com/track/18yvbzA7nA4B1hIeiq38Gr) | [Flawless Delivery](https://open.spotify.com/artist/0LpzTJIg9AOD4ix4dsRRlf), [Deeb](https://open.spotify.com/artist/2TnPiDomrpeJrXd5yhFtrc), [Cat Phil](https://open.spotify.com/artist/1VSZ1IIatISEveRk9zijX9) | [3rd Order](https://open.spotify.com/album/4GiQJTISnWOKNUFpPOtFSm) | 2:46 |
+| 47 | [Wild Felix](https://open.spotify.com/track/18yvbzA7nA4B1hIeiq38Gr) | [Flawless Delivery](https://open.spotify.com/artist/0LpzTJIg9AOD4ix4dsRRlf), [Deeb](https://open.spotify.com/artist/1d9MVFeVkGTYnRNMlNe0dz), [Cat Phil](https://open.spotify.com/artist/7MTU6PX9bUXxar2snLXWY0) | [3rd Order](https://open.spotify.com/album/4GiQJTISnWOKNUFpPOtFSm) | 2:46 |
 | 48 | [strawberry lips](https://open.spotify.com/track/2ftypS0Gu7e5oVTI63tqmi) | [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL) | [happy hour](https://open.spotify.com/album/1ISMhvb2fFGHeJ2tko4HAc) | 1:14 |
 | 49 | [Mellow Mood](https://open.spotify.com/track/64qULWydfg8dnbCR9Q1DKM) | [Jazz Hop](https://open.spotify.com/artist/0ohZFWpv7j0vMiXYwfHCm4), [Deez Agree](https://open.spotify.com/artist/2xDHLlqk3BQ5vPY1ryXoNz), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [Mellow Mood](https://open.spotify.com/album/15p1X4U4K3SRKhbrRfuXSm) | 2:05 |
 | 50 | [SOUL REBEL](https://open.spotify.com/track/6TfhkYVwVjQiyqU56ujYvn) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [SOUL REBEL](https://open.spotify.com/album/32DjkqrWJ7POxoaHsGCSlt) | 1:53 |

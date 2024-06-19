@@ -1,6 +1,6 @@
 {
   "description": "Who order Azul?",
-  "num_followers": 3282,
+  "num_followers": 3281,
   "original_name": "Best of Detty December",
   "owner": {
     "name": "Spotify",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
+        "name": "After the Storm",
+        "url": "https://open.spotify.com/album/6ZFfg3kkBnOK1JKFrVsBm6"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "duration_ms": 235598,
+      "name": "Mahama Paper",
+      "url": "https://open.spotify.com/track/5vA0BlTP16GqJsieTaPRzp"
+    },
+    {
+      "added_at": "2023-12-08 08:55:17",
+      "album": {
         "name": "Wiase (Y3d3 Remix)",
         "url": "https://open.spotify.com/album/5iKIckXV57WUQ3LC6Ejd5x"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 276401,
       "name": "Wiase (Y3d3 Remix)",
       "url": "https://open.spotify.com/track/4eGieXDwiQ1RL980VAcQ5p"
-    },
-    {
-      "added_at": "2023-12-08 08:55:17",
-      "album": {
-        "name": "After the Storm",
-        "url": "https://open.spotify.com/album/6ZFfg3kkBnOK1JKFrVsBm6"
-      },
-      "artists": [
-        {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
-        }
-      ],
-      "duration_ms": 235598,
-      "name": "Mahama Paper",
-      "url": "https://open.spotify.com/track/5vA0BlTP16GqJsieTaPRzp"
     },
     {
       "added_at": "2023-12-08 08:55:17",

@@ -1252,7 +1252,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 128213,
       "name": "Las Murallas De Jaramillo",
       "url": "https://open.spotify.com/track/1LfSw95WcgRHzS0auTgh4A"
@@ -1650,6 +1650,24 @@
       "duration_ms": 145213,
       "name": "Que Se Largue Pa la Porra",
       "url": "https://open.spotify.com/track/3q0veWQKp1DZkvNrqSW043"
+    },
+    {
+      "album": {
+        "name": "La Noche Que Murio Chicago",
+        "url": "https://open.spotify.com/album/4GkEJYQXXWicdjtSWvHUaa"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145213,
+      "name": "Que Se Largue Pa La Porra",
+      "url": "https://open.spotify.com/track/4ieJTm4eOlPhhjQ0vO2yVO"
     },
     {
       "album": {

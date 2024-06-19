@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACsFfPfuz4jRnmqHcobWHaq",
+  "snapshot_id": "AAAAAAAAAACwu0HgY0s3LKtQ7r85CPdR",
   "tracks": [
     {
       "added_at": "2024-06-14 04:00:00",
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
         }
       ],
-      "duration_ms": 224243,
-      "name": "La Vida y la Libertad",
-      "url": "https://open.spotify.com/track/0LpzBuOMD5OgSU3uzCHnFZ"
+      "duration_ms": 241295,
+      "name": "\u00d1angapiri",
+      "url": "https://open.spotify.com/track/7brVRN8EAO70iJscFiVTge"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/6xTTIh4uHGvswk0mUi9GJ4"
         }
       ],
-      "duration_ms": 108946,
-      "name": "Singular Ecstasy",
-      "url": "https://open.spotify.com/track/08eqsJQJFs5rAqyeqwJAoZ"
+      "duration_ms": 172499,
+      "name": "Quest for Eternal Embrace",
+      "url": "https://open.spotify.com/track/15w7LwhA6pqj8YToruNINS"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Quer\u00eda Saber",
-        "url": "https://open.spotify.com/album/45rGX85ik14xfJT0oPGYme"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 348340,
-      "name": "Am\u00e9rica",
-      "url": "https://open.spotify.com/track/18S3d7Qxm462bVqqcdhwXy"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "V de Vendetta",
         "url": "https://open.spotify.com/album/19EoBQStBV87G5qaKrb0Fv"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 300472,
       "name": "V de Vendetta",
       "url": "https://open.spotify.com/track/1uEfe0myg6FOpTazIPfPy1"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Quer\u00eda Saber",
+        "url": "https://open.spotify.com/album/45rGX85ik14xfJT0oPGYme"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 348340,
+      "name": "Am\u00e9rica",
+      "url": "https://open.spotify.com/track/18S3d7Qxm462bVqqcdhwXy"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
         }
       ],
-      "duration_ms": 899651,
-      "name": "Guitar Solo / Jam - Live",
-      "url": "https://open.spotify.com/track/038YTyXDatDtKksEHRB5pG"
+      "duration_ms": 350722,
+      "name": "For a Thousand Mothers - Live",
+      "url": "https://open.spotify.com/track/6WQzrcoT13xFaACybHjgIZ"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -838,10 +838,14 @@
         {
           "name": "Evanescence",
           "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        },
+        {
+          "name": "Amy Lee",
+          "url": "https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk"
         }
       ],
       "duration_ms": 322679,
-      "name": "The Reckoning (feat. Amy Lee) - Live in Amsterdam",
+      "name": "The Reckoning - Live in Amsterdam",
       "url": "https://open.spotify.com/track/2DD2UFduTpt2vq8WefvFtp"
     },
     {
@@ -863,26 +867,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "No Fun (ADF30 Rework)",
-        "url": "https://open.spotify.com/album/4RMo1eqb2vwG6BqG02vHCo"
-      },
-      "artists": [
-        {
-          "name": "Asian Dub Foundation",
-          "url": "https://open.spotify.com/artist/2EeUsNnv2BcVIGhBZ5SV8z"
-        },
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 258414,
-      "name": "No Fun - ADF30 Rework",
-      "url": "https://open.spotify.com/track/07eH74CD3b1pPxQHrXCP0m"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "POST HUMAN: NeX GEn",
         "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
       },
@@ -899,6 +883,26 @@
       "duration_ms": 260625,
       "name": "a bulleT w/ my namE On (feat. Underoath)",
       "url": "https://open.spotify.com/track/2tWhiQJQSTa5WE3eiByOf1"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "No Fun (ADF30 Rework)",
+        "url": "https://open.spotify.com/album/4RMo1eqb2vwG6BqG02vHCo"
+      },
+      "artists": [
+        {
+          "name": "Asian Dub Foundation",
+          "url": "https://open.spotify.com/artist/2EeUsNnv2BcVIGhBZ5SV8z"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 258414,
+      "name": "No Fun - ADF30 Rework",
+      "url": "https://open.spotify.com/track/07eH74CD3b1pPxQHrXCP0m"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -935,6 +939,34 @@
       "duration_ms": 280854,
       "name": "Rain - Stealing Sheep Remix",
       "url": "https://open.spotify.com/track/6rFhoweBbzgopFIVwc3ZYz"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Rule The World (Everybody) [DEPARTAMENTO Remix]",
+        "url": "https://open.spotify.com/album/1BH7G0q2IBC7QcMYkZpSFV"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        },
+        {
+          "name": "DEPARTAMENTO",
+          "url": "https://open.spotify.com/artist/3Cu5XeR4o1V8atLssDZUl1"
+        },
+        {
+          "name": "GUDFELLA",
+          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
+        }
+      ],
+      "duration_ms": 219811,
+      "name": "Rule The World (Everybody) [DEPARTAMENTO Remix]",
+      "url": "https://open.spotify.com/track/3UyIs0r6uaIbmYvpN75CbJ"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -987,34 +1019,6 @@
       "duration_ms": 277536,
       "name": "Plegaria para un ni\u00f1o dormido - Instrumental Version",
       "url": "https://open.spotify.com/track/1diojPQPM6mfcSnjSzLbcS"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Rule The World (Everybody) [DEPARTAMENTO Remix]",
-        "url": "https://open.spotify.com/album/1BH7G0q2IBC7QcMYkZpSFV"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
-        },
-        {
-          "name": "DEPARTAMENTO",
-          "url": "https://open.spotify.com/artist/3Cu5XeR4o1V8atLssDZUl1"
-        },
-        {
-          "name": "GUDFELLA",
-          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
-        }
-      ],
-      "duration_ms": 219811,
-      "name": "Rule The World (Everybody) [DEPARTAMENTO Remix]",
-      "url": "https://open.spotify.com/track/3UyIs0r6uaIbmYvpN75CbJ"
     },
     {
       "added_at": "2024-06-14 04:00:00",

@@ -6618,10 +6618,6 @@
         {
           "name": "Christoph Sakwerda",
           "url": "https://open.spotify.com/artist/04R6CrSnQeDoB6j6Z7x8Lq"
-        },
-        {
-          "name": "Manith Bertz",
-          "url": "https://open.spotify.com/artist/46QiTWb30K45FoB3rAUXFE"
         }
       ],
       "date_added": "2024-06-13",
@@ -8408,6 +8404,24 @@
       "duration_ms": 148135,
       "name": "Multiply",
       "url": "https://open.spotify.com/track/0d8qNWRwQafcOXAyw6FxiB"
+    },
+    {
+      "album": {
+        "name": "MUSCLE",
+        "url": "https://open.spotify.com/album/7bzkCKNKQQTlHKbEdEuOBH"
+      },
+      "artists": [
+        {
+          "name": "METTE",
+          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149052,
+      "name": "MUSCLE",
+      "url": "https://open.spotify.com/track/2feyIPw7iHgdaMYRskMTuK"
     },
     {
       "album": {

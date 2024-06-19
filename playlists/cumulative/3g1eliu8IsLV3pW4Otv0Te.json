@@ -307,6 +307,24 @@
     },
     {
       "album": {
+        "name": "Broken Love",
+        "url": "https://open.spotify.com/album/6KamujvpdIeso5B5G7urpx"
+      },
+      "artists": [
+        {
+          "name": "Quarantino",
+          "url": "https://open.spotify.com/artist/5y4NgF9HhK3EgWbfjLRX7e"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156960,
+      "name": "Broken Love",
+      "url": "https://open.spotify.com/track/300yMbSPjCi6fo9EpCVwyC"
+    },
+    {
+      "album": {
         "name": "Bullet Train (feat. Joni Fatora)",
         "url": "https://open.spotify.com/album/1Yd1ARdvNdMUo6KnuN6q6w"
       },

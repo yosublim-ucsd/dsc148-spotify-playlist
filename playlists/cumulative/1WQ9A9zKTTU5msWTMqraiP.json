@@ -3413,6 +3413,28 @@
     },
     {
       "album": {
+        "name": "Firekeeper",
+        "url": "https://open.spotify.com/album/24uoKtYpdhurXvMI2uxnzu"
+      },
+      "artists": [
+        {
+          "name": "Fire Keeper",
+          "url": "https://open.spotify.com/artist/5fiapO3g8KTdvJAzQU8fzB"
+        },
+        {
+          "name": "Andy Cizek",
+          "url": "https://open.spotify.com/artist/0C5fT1ymHhTRTrSVhDYUta"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260918,
+      "name": "Radiance",
+      "url": "https://open.spotify.com/track/7mdh10Y5dQsa3O0sYMM4zv"
+    },
+    {
+      "album": {
         "name": "Ragnarok",
         "url": "https://open.spotify.com/album/6GR6cNCXqAffI9lU2zSTOb"
       },

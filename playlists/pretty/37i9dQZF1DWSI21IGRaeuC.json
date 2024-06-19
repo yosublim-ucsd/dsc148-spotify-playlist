@@ -1,6 +1,6 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 36977,
+  "num_followers": 37001,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-06-17 21:39:58",
       "album": {
-        "name": "Moon",
-        "url": "https://open.spotify.com/album/1Qy0K3GpyxtAyG2u4s53VH"
-      },
-      "artists": [
-        {
-          "name": "Locklead",
-          "url": "https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw"
-        }
-      ],
-      "duration_ms": 178027,
-      "name": "Moon",
-      "url": "https://open.spotify.com/track/181XnwgJTJpeKkpS2zQOAF"
-    },
-    {
-      "added_at": "2024-06-17 21:39:58",
-      "album": {
         "name": "Bonito",
         "url": "https://open.spotify.com/album/0GRAvBOREScwdewiySp05v"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 195365,
       "name": "Bonito",
       "url": "https://open.spotify.com/track/0HGX3Sk2Wp4ibJDyW9hvdY"
+    },
+    {
+      "added_at": "2024-06-17 21:39:58",
+      "album": {
+        "name": "Moon",
+        "url": "https://open.spotify.com/album/1Qy0K3GpyxtAyG2u4s53VH"
+      },
+      "artists": [
+        {
+          "name": "Locklead",
+          "url": "https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw"
+        }
+      ],
+      "duration_ms": 178027,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/181XnwgJTJpeKkpS2zQOAF"
     },
     {
       "added_at": "2024-06-17 21:39:58",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-06-17 21:39:58",
       "album": {
-        "name": "Nobody Else",
-        "url": "https://open.spotify.com/album/2dAboPtSUPEeEiKqHmRdIm"
-      },
-      "artists": [
-        {
-          "name": "Jack Orley",
-          "url": "https://open.spotify.com/artist/0pT6RTEfYjBYhx3poFov1j"
-        }
-      ],
-      "duration_ms": 186299,
-      "name": "Nobody Else",
-      "url": "https://open.spotify.com/track/6pe6oe5SPqbROOTKBcHazL"
-    },
-    {
-      "added_at": "2024-06-17 21:39:58",
-      "album": {
         "name": "Don't Need You",
         "url": "https://open.spotify.com/album/0PPkYyY12AtX7YeI4N0xuX"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 189689,
       "name": "Don't Need You",
       "url": "https://open.spotify.com/track/6xPppH1jLltk5L7HBN1srb"
+    },
+    {
+      "added_at": "2024-06-17 21:39:58",
+      "album": {
+        "name": "Nobody Else",
+        "url": "https://open.spotify.com/album/2dAboPtSUPEeEiKqHmRdIm"
+      },
+      "artists": [
+        {
+          "name": "Jack Orley",
+          "url": "https://open.spotify.com/artist/0pT6RTEfYjBYhx3poFov1j"
+        }
+      ],
+      "duration_ms": 186299,
+      "name": "Nobody Else",
+      "url": "https://open.spotify.com/track/6pe6oe5SPqbROOTKBcHazL"
     },
     {
       "added_at": "2024-06-17 21:39:58",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2024-06-17 21:39:58",
       "album": {
+        "name": "OSSAB",
+        "url": "https://open.spotify.com/album/1GSPmdzZVo4VUsM7cx4Gxh"
+      },
+      "artists": [
+        {
+          "name": "Basso (UK)",
+          "url": "https://open.spotify.com/artist/280chdpkl1EuNmlyrIgrVu"
+        }
+      ],
+      "duration_ms": 330000,
+      "name": "OSSAB",
+      "url": "https://open.spotify.com/track/5u7zi0mI6uzATPYyOd8WC3"
+    },
+    {
+      "added_at": "2024-06-17 21:39:58",
+      "album": {
         "name": "Break Down EP",
         "url": "https://open.spotify.com/album/2cYJheonNoIlqXcS9g2GIK"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 342623,
       "name": "Break Down - Dennis Cruz Remix",
       "url": "https://open.spotify.com/track/1pCmhqRqwfiugXI1vtY2a5"
-    },
-    {
-      "added_at": "2024-06-17 21:39:58",
-      "album": {
-        "name": "OSSAB",
-        "url": "https://open.spotify.com/album/1GSPmdzZVo4VUsM7cx4Gxh"
-      },
-      "artists": [
-        {
-          "name": "Basso (UK)",
-          "url": "https://open.spotify.com/artist/280chdpkl1EuNmlyrIgrVu"
-        }
-      ],
-      "duration_ms": 330000,
-      "name": "OSSAB",
-      "url": "https://open.spotify.com/track/5u7zi0mI6uzATPYyOd8WC3"
     },
     {
       "added_at": "2024-06-17 21:39:58",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-06-17 21:39:58",
       "album": {
-        "name": "What's Your Name",
-        "url": "https://open.spotify.com/album/7JrzBm1nyUSYZ0VD6TCN59"
-      },
-      "artists": [
-        {
-          "name": "Us Two",
-          "url": "https://open.spotify.com/artist/4zTMBc60g05ykRN18LqIlN"
-        }
-      ],
-      "duration_ms": 444444,
-      "name": "What's Your Name",
-      "url": "https://open.spotify.com/track/2hGFAk0wIN0HYOnKXLopC3"
-    },
-    {
-      "added_at": "2024-06-17 21:39:58",
-      "album": {
         "name": "Cold",
         "url": "https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 222923,
       "name": "Cold",
       "url": "https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda"
+    },
+    {
+      "added_at": "2024-06-17 21:39:58",
+      "album": {
+        "name": "What's Your Name",
+        "url": "https://open.spotify.com/album/7JrzBm1nyUSYZ0VD6TCN59"
+      },
+      "artists": [
+        {
+          "name": "Us Two",
+          "url": "https://open.spotify.com/artist/4zTMBc60g05ykRN18LqIlN"
+        }
+      ],
+      "duration_ms": 444444,
+      "name": "What's Your Name",
+      "url": "https://open.spotify.com/track/2hGFAk0wIN0HYOnKXLopC3"
     },
     {
       "added_at": "2024-06-17 21:39:58",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2024-06-17 21:39:58",
       "album": {
-        "name": "Like Dat",
-        "url": "https://open.spotify.com/album/2k6hw2VG0XdQLqmas3JQFf"
-      },
-      "artists": [
-        {
-          "name": "Floorplan",
-          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
-        }
-      ],
-      "duration_ms": 224322,
-      "name": "Like Dat",
-      "url": "https://open.spotify.com/track/4X6RJDR65ntTziCrgkcLfj"
-    },
-    {
-      "added_at": "2024-06-17 21:39:58",
-      "album": {
         "name": "YAP EP",
         "url": "https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 246474,
       "name": "YAP",
       "url": "https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt"
+    },
+    {
+      "added_at": "2024-06-17 21:39:58",
+      "album": {
+        "name": "Like Dat",
+        "url": "https://open.spotify.com/album/2k6hw2VG0XdQLqmas3JQFf"
+      },
+      "artists": [
+        {
+          "name": "Floorplan",
+          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
+        }
+      ],
+      "duration_ms": 224322,
+      "name": "Like Dat",
+      "url": "https://open.spotify.com/track/4X6RJDR65ntTziCrgkcLfj"
     }
   ],
   "unique_name": "Minimal Tech",

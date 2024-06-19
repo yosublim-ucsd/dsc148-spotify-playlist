@@ -1,12 +1,12 @@
 {
-  "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 37528,
+  "description": "This is Jacob Banks. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 37541,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zm4rAAAAAABubsIw0N93Y7PePXdO8j7v",
+  "snapshot_id": "Zm98gAAAAAA2LJPF1s4Oh4GfGdjzCIN9",
   "tracks": [
     {
       "added_at": null,
@@ -839,22 +839,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SOMEONE ELSE (featuring Jacob Banks)",
-        "url": "https://open.spotify.com/album/4eBkyax61tYK5RUkXaBQMk"
+        "name": "For My Friends",
+        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
       },
       "artists": [
-        {
-          "name": "Bishop Briggs",
-          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
-        },
         {
           "name": "Jacob Banks",
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 222483,
-      "name": "SOMEONE ELSE (featuring Jacob Banks)",
-      "url": "https://open.spotify.com/track/2CQD7tRYaQtCLTZCOlgLnw"
+      "duration_ms": 162076,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/1YHWhz4KEeNhTfrAOVf3lI"
     },
     {
       "added_at": null,
@@ -875,18 +871,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "For My Friends",
-        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
+        "name": "SOMEONE ELSE (featuring Jacob Banks)",
+        "url": "https://open.spotify.com/album/4eBkyax61tYK5RUkXaBQMk"
       },
       "artists": [
+        {
+          "name": "Bishop Briggs",
+          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
+        },
         {
           "name": "Jacob Banks",
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 162076,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/1YHWhz4KEeNhTfrAOVf3lI"
+      "duration_ms": 222483,
+      "name": "SOMEONE ELSE (featuring Jacob Banks)",
+      "url": "https://open.spotify.com/track/2CQD7tRYaQtCLTZCOlgLnw"
     },
     {
       "added_at": null,

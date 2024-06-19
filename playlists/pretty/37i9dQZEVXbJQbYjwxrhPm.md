@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 346 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Alcohol](https://open.spotify.com/track/7FDCQfEwJDsOlv655b1Qsv) | [Emilia](https://open.spotify.com/artist/0j6Z5YMSqBePHbPKLQwrcU), [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai) | [Turbulence](https://open.spotify.com/album/2HJHlusCd0Gd9VXLhtvAjy) | 3:11 |
 | 50 | [По, по, по](https://open.spotify.com/track/5cnMyNarUAcwZ6GkXguSDT) | [Galena](https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355), [Azis](https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1) | [По, по, по](https://open.spotify.com/album/2DnO6wHygXfwSr18zUbPdl) | 4:01 |
 
-Snapshot ID: `LgOfmAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LgTxGAAAAAAAAAAAAAAAAAAAAAAAAGVu`

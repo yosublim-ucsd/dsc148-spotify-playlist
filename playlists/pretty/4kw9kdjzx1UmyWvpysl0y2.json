@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125953,
+  "num_followers": 125948,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAShzx27hymGROYWqDxa8hkVkbAhWSV",
+  "snapshot_id": "AAASidugfbvSToPWpVktLLAVoDA55Nvl",
   "tracks": [
+    {
+      "added_at": "2024-06-18 13:34:16",
+      "album": {
+        "name": "Two Lakes",
+        "url": "https://open.spotify.com/album/0vQsSGuF1Nq5zlFQE7jLIh"
+      },
+      "artists": [
+        {
+          "name": "Dokho",
+          "url": "https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM"
+        },
+        {
+          "name": "Not Now Please",
+          "url": "https://open.spotify.com/artist/3f330dgm1dKMxsVZHy7M84"
+        }
+      ],
+      "duration_ms": 195500,
+      "name": "Two Lakes",
+      "url": "https://open.spotify.com/track/2J1e9NFZFpBzgxST74uZdi"
+    },
     {
       "added_at": "2024-06-17 15:11:17",
       "album": {
@@ -1159,26 +1179,6 @@
       "duration_ms": 173858,
       "name": "still? - BKAYE Remix",
       "url": "https://open.spotify.com/track/4ieyLj9yjnB41DAapVidGc"
-    },
-    {
-      "added_at": "2024-04-02 17:12:03",
-      "album": {
-        "name": "Odyssey",
-        "url": "https://open.spotify.com/album/1xyjWXsA94Bj6T1WAhnOUV"
-      },
-      "artists": [
-        {
-          "name": "Angara",
-          "url": "https://open.spotify.com/artist/14MtSANT6PClR71nsqXhy3"
-        },
-        {
-          "name": "Bound to Divide",
-          "url": "https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc"
-        }
-      ],
-      "duration_ms": 255624,
-      "name": "Odyssey",
-      "url": "https://open.spotify.com/track/07S4ihGvHe1jcWfagHL83s"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

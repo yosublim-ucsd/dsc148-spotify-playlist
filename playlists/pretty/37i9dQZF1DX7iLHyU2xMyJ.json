@@ -1,6 +1,6 @@
 {
   "description": "From Annakili to Viduthalai - all the essential tracks of Isaignani!",
-  "num_followers": 97520,
+  "num_followers": 97547,
   "original_name": "Raaja Rules!",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,22 @@
     {
       "added_at": "2021-11-01 22:30:53",
       "album": {
+        "name": "Chatriyan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4mFPKnYF5EXwWpzzN87SiH"
+      },
+      "artists": [
+        {
+          "name": "Swarnalatha",
+          "url": "https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d"
+        }
+      ],
+      "duration_ms": 331306,
+      "name": "Maalayil Yaro Manathodu",
+      "url": "https://open.spotify.com/track/2o74yd2eqvGyF0RByJSQne"
+    },
+    {
+      "added_at": "2021-11-01 22:30:53",
+      "album": {
         "name": "Michael Madana Kama Rajan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0szS55YRSZwrfNQrD1FoGs"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 315010,
       "name": "Sundhari Neeyum Sundharan Njanum",
       "url": "https://open.spotify.com/track/2EFMxVVT7hykww7WqBnLEs"
-    },
-    {
-      "added_at": "2021-11-01 22:30:53",
-      "album": {
-        "name": "Chatriyan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4mFPKnYF5EXwWpzzN87SiH"
-      },
-      "artists": [
-        {
-          "name": "Swarnalatha",
-          "url": "https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d"
-        }
-      ],
-      "duration_ms": 331306,
-      "name": "Maalayil Yaro Manathodu",
-      "url": "https://open.spotify.com/track/2o74yd2eqvGyF0RByJSQne"
     },
     {
       "added_at": "2021-11-01 22:30:53",

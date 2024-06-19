@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WQ9A9zKTTU5msWTMqraiP.md) - [plain]
 
 > Deathcore Playlist
 
-[Hafitz](https://open.spotify.com/user/7wxw9ydcqjc4ta495h73jpcjf) - 18 likes - 249 songs - 17 hr 19 min
+[Hafitz](https://open.spotify.com/user/7wxw9ydcqjc4ta495h73jpcjf) - 18 likes - 250 songs - 17 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -257,5 +257,6 @@ pretty - [cumulative](/playlists/cumulative/1WQ9A9zKTTU5msWTMqraiP.md) - [plain]
 | 247 | [Grotesque Throne](https://open.spotify.com/track/58hSyNtXJ9KBZ6f7nGQyJx) | [No Signs of Life](https://open.spotify.com/artist/03t9WHYJRG1swfSu9VS5EZ) | [Grotesque Throne](https://open.spotify.com/album/2Ks6NiNSzoasDtb1xLKnQD) | 5:42 |
 | 248 | [A Forbidden Pleasure](https://open.spotify.com/track/7DkGXkeoAntsrrk6R1BXvs) | [Blacks0n](https://open.spotify.com/artist/50kiZmpRIqA5otYPDCyB0U) | [Cry for Inspiration](https://open.spotify.com/album/4LyYASNLEnSlMFamVJA6c3) | 3:46 |
 | 249 | [Left to Rot](https://open.spotify.com/track/0QlbHPe8kBBGU89Z1TnMAc) | [Shores Of Lunacy](https://open.spotify.com/artist/6xXxjJWRStk7C6hteitGN1), [Alan Grnja](https://open.spotify.com/artist/4t1QdDQKUZ6OHw0ChpfM8L) | [Left to Rot](https://open.spotify.com/album/6jZQmfa8l5K6ublDx0S5my) | 4:49 |
+| 250 | [Radiance](https://open.spotify.com/track/7mdh10Y5dQsa3O0sYMM4zv) | [Fire Keeper](https://open.spotify.com/artist/5fiapO3g8KTdvJAzQU8fzB), [Andy Cizek](https://open.spotify.com/artist/0C5fT1ymHhTRTrSVhDYUta) | [Firekeeper](https://open.spotify.com/album/24uoKtYpdhurXvMI2uxnzu) | 4:20 |
 
-Snapshot ID: `AAABZPWdQ351pgk1n6nAN9E6Gv6uCiqR`
+Snapshot ID: `AAABZyop35+PcKvf6rHgWpNoS1kkW5SB`

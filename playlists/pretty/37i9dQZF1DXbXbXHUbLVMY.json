@@ -1,6 +1,6 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
-  "num_followers": 28139,
+  "num_followers": 28143,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
@@ -615,18 +615,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "BLIND",
-        "url": "https://open.spotify.com/album/50O2Oh66m9qVHkAnxipCOd"
+        "name": "players (feat. Ari Bajgora)",
+        "url": "https://open.spotify.com/album/0LnOHuLU0X0GDrrUEJDfqs"
       },
       "artists": [
         {
-          "name": "Owen",
-          "url": "https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl"
+          "name": "Tyr",
+          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
+        },
+        {
+          "name": "Ari Bajgora",
+          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
         }
       ],
-      "duration_ms": 148120,
-      "name": "BLIND",
-      "url": "https://open.spotify.com/track/5zO0y8TGj6NT0pFluvrllN"
+      "duration_ms": 151693,
+      "name": "players (feat. Ari Bajgora)",
+      "url": "https://open.spotify.com/track/5E76BN3Mzf66NPmiACqUi6"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -663,6 +667,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "BLIND",
+        "url": "https://open.spotify.com/album/50O2Oh66m9qVHkAnxipCOd"
+      },
+      "artists": [
+        {
+          "name": "Owen",
+          "url": "https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl"
+        }
+      ],
+      "duration_ms": 148120,
+      "name": "BLIND",
+      "url": "https://open.spotify.com/track/5zO0y8TGj6NT0pFluvrllN"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Det Regner Penger (Allez Allez)",
         "url": "https://open.spotify.com/album/0BDINejKpj8cD0DX3D0L8k"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 154320,
       "name": "King Of The Hill (feat. Roc Boyz)",
       "url": "https://open.spotify.com/track/4x7O0ZgkDIa9a8kkSLvith"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "players (feat. Ari Bajgora)",
-        "url": "https://open.spotify.com/album/0LnOHuLU0X0GDrrUEJDfqs"
-      },
-      "artists": [
-        {
-          "name": "Tyr",
-          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
-        },
-        {
-          "name": "Ari Bajgora",
-          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
-        }
-      ],
-      "duration_ms": 151693,
-      "name": "players (feat. Ari Bajgora)",
-      "url": "https://open.spotify.com/track/5E76BN3Mzf66NPmiACqUi6"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1299,6 +1299,26 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Voksen Mann Uten Slips",
+        "url": "https://open.spotify.com/album/2BNCNlkVDlR7gNCpN97jnk"
+      },
+      "artists": [
+        {
+          "name": "Rambow",
+          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
+        },
+        {
+          "name": "Voksen Mann Uten Slips",
+          "url": "https://open.spotify.com/artist/5FGyG1MDfNSzpijXguKZAF"
+        }
+      ],
+      "duration_ms": 135299,
+      "name": "Bonnie & Clyde",
+      "url": "https://open.spotify.com/track/6UrjVpuXEnkXdiGapyT1YQ"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "STILO",
         "url": "https://open.spotify.com/album/6tsnSrVthXlEmRxmwGdc7q"
       },
@@ -1331,26 +1351,6 @@
       "duration_ms": 166102,
       "name": "Pillow",
       "url": "https://open.spotify.com/track/08bz3aJ0de6tyArd7aHWnZ"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Voksen Mann Uten Slips",
-        "url": "https://open.spotify.com/album/2BNCNlkVDlR7gNCpN97jnk"
-      },
-      "artists": [
-        {
-          "name": "Rambow",
-          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
-        },
-        {
-          "name": "Voksen Mann Uten Slips",
-          "url": "https://open.spotify.com/artist/5FGyG1MDfNSzpijXguKZAF"
-        }
-      ],
-      "duration_ms": 135299,
-      "name": "Bonnie & Clyde",
-      "url": "https://open.spotify.com/track/6UrjVpuXEnkXdiGapyT1YQ"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Blicky",
-        "url": "https://open.spotify.com/album/5k2auh0NC6uVPr1HsxHlTl"
+        "name": "Plaza O Plomo",
+        "url": "https://open.spotify.com/album/5GPTv3ZMI5pYSiglpIDrrM"
       },
       "artists": [
         {
-          "name": "A36",
-          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
+          "name": "Plaza",
+          "url": "https://open.spotify.com/artist/00Pw5UR1M3PTfsr0S7nhUQ"
         }
       ],
-      "duration_ms": 148284,
-      "name": "Blicky",
-      "url": "https://open.spotify.com/track/5U0ndjpjzmT1aoLr3pB4zO"
+      "duration_ms": 178293,
+      "name": "Drikker & Drukner",
+      "url": "https://open.spotify.com/track/4dVVvavEIdduXZLnvceKjN"
     }
   ],
   "unique_name": "100 (2)",

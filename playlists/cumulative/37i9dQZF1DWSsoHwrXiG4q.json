@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 166744,
       "name": "Atlas",
       "url": "https://open.spotify.com/track/0UjB6iVi3UITfKC26Naxpu"
@@ -465,6 +465,24 @@
     },
     {
       "album": {
+        "name": "Depths",
+        "url": "https://open.spotify.com/album/69vonBclmzOvcxP1qd9DZ9"
+      },
+      "artists": [
+        {
+          "name": "Samuraj",
+          "url": "https://open.spotify.com/artist/72Gb3H2siajreDrN35NFW9"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163764,
+      "name": "Depths",
+      "url": "https://open.spotify.com/track/5h1zfBJRJtwyxEvWowxvyS"
+    },
+    {
+      "album": {
         "name": "Start / Descendence",
         "url": "https://open.spotify.com/album/7lfRo8NTCCXj7fu83wEmvv"
       },
@@ -769,6 +787,24 @@
     },
     {
       "album": {
+        "name": "Flicker",
+        "url": "https://open.spotify.com/album/2Ul177j7klrBeusjm66VKL"
+      },
+      "artists": [
+        {
+          "name": "Zenith",
+          "url": "https://open.spotify.com/artist/0bHAEAd2WAtqiankhjFjlx"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266860,
+      "name": "Flicker",
+      "url": "https://open.spotify.com/track/5JX5doCTQJ9tQsLp9FJIYa"
+    },
+    {
+      "album": {
         "name": "forest whispers",
         "url": "https://open.spotify.com/album/2LzaZf6hLpbvGRS7X1ekUd"
       },
@@ -872,6 +908,24 @@
       "duration_ms": 302000,
       "name": "Gift of mine",
       "url": "https://open.spotify.com/track/6wrLBtrQ31FUBh4vYIya95"
+    },
+    {
+      "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/1HQrw3qDZY30aa3rec4hWr"
+      },
+      "artists": [
+        {
+          "name": "Eloran",
+          "url": "https://open.spotify.com/artist/1fq90SLAmXXuNCRqVjM48b"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165848,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/4XepcslboQs9u4d7lEWWxW"
     },
     {
       "album": {
@@ -1356,7 +1410,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 199729,
       "name": "Looking at the Clock",
       "url": "https://open.spotify.com/track/4ks74MQukyBUsPJphTEo8g"
@@ -1666,7 +1720,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 252346,
       "name": "Not Alone",
       "url": "https://open.spotify.com/track/43tBlA5k7oqhiDM2BLbD9s"

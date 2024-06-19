@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > Nieuw deze week \- Nouveautés de la semaine\. Cover: Camille
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,356 likes - 92 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,376 likes - 92 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

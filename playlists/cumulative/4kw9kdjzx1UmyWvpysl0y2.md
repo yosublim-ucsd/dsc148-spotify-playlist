@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-752 songs - 1 day 19 hr 16 min
+753 songs - 1 day 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -477,7 +477,7 @@
 | [oasis](https://open.spotify.com/track/7HhIdybSANaTYHeI9gCFFg) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63) | [oasis](https://open.spotify.com/album/5ZocVGcuWcErR1NEnZuigN) | 2:59 | 2023-03-03 | 2023-05-30 |
 | [Oblivion](https://open.spotify.com/track/4dTC6SHxIibaRue2eKI2ai) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Oblivion](https://open.spotify.com/album/0tVfKBH8luy3wdwvIJ0dge) | 3:24 | 2022-06-02 | 2022-08-13 |
 | [October](https://open.spotify.com/track/3dI7bW8OnWBUCCeBNwQ08J) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [October](https://open.spotify.com/album/1qPdose5MyZE37xgnGKz1e) | 2:38 | 2022-10-11 | 2022-12-10 |
-| [Odyssey](https://open.spotify.com/track/07S4ihGvHe1jcWfagHL83s) | [Angara](https://open.spotify.com/artist/14MtSANT6PClR71nsqXhy3), [Bound to Divide](https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc) | [Odyssey](https://open.spotify.com/album/1xyjWXsA94Bj6T1WAhnOUV) | 4:15 | 2024-04-02 |  |
+| [Odyssey](https://open.spotify.com/track/07S4ihGvHe1jcWfagHL83s) | [Angara](https://open.spotify.com/artist/14MtSANT6PClR71nsqXhy3), [Bound to Divide](https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc) | [Odyssey](https://open.spotify.com/album/1xyjWXsA94Bj6T1WAhnOUV) | 4:15 | 2024-04-02 | 2024-06-19 |
 | [ok](https://open.spotify.com/track/3yDg9UhdWmFlHsaJaN0GRI) | [Enjac](https://open.spotify.com/artist/7iIiRw3JSWI8c9n8CIQS3f) | [ok](https://open.spotify.com/album/3beDdopYTPW97ZlnjWhBzm) | 2:45 | 2023-01-25 | 2023-04-12 |
 | [On The Beach](https://open.spotify.com/track/4I9lRMeXjpHClXcwXRi1nF) | [Vintage & Morelli](https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0) | [On The Beach](https://open.spotify.com/album/7CPGdJK8NmryBMVN78m7QY) | 3:12 | 2022-07-27 | 2022-10-08 |
 | [On The Inside](https://open.spotify.com/track/7ADnLRvlp5yDkC5VKvigOO) | [Alex H](https://open.spotify.com/artist/3VJS76xe6UUj7Qo2S9gxvB), [Matt Sky](https://open.spotify.com/artist/08FqNRAfeLHLh96BdNHljC) | [On The Inside](https://open.spotify.com/album/6YaqphTghJSjHH0zcUYXq9) | 3:28 | 2023-05-15 | 2023-08-10 |
@@ -696,6 +696,7 @@
 | [Turn It Up \- Slushii & Afinity VIP](https://open.spotify.com/track/1Z0sPQusIl7lmuIcee9HYa) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf) | [Turn It Up \(Slushii & Afinity VIP\)](https://open.spotify.com/album/76T0t1HbJ8nNieSaJ8nKLb) | 3:58 | 2023-12-08 | 2024-03-22 |
 | [Turn Me On](https://open.spotify.com/track/06OUxYW7Ck7Nav8iWp9600) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Turn Me On](https://open.spotify.com/album/6xL7AyotH5lcbJxLFvyiQE) | 2:43 | 2023-03-29 | 2023-06-21 |
 | [Turning](https://open.spotify.com/track/1syjpaCUrigJLbsdvBL2g6) | [Faodail](https://open.spotify.com/artist/7p53fRMaR9h4Ri162E5LGi) | [Turning](https://open.spotify.com/album/10alSsU3B9fySetvtSSoyR) | 3:40 | 2024-02-13 | 2024-05-07 |
+| [Two Lakes](https://open.spotify.com/track/2J1e9NFZFpBzgxST74uZdi) | [Dokho](https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM), [Not Now Please](https://open.spotify.com/artist/3f330dgm1dKMxsVZHy7M84) | [Two Lakes](https://open.spotify.com/album/0vQsSGuF1Nq5zlFQE7jLIh) | 3:15 | 2024-06-18 |  |
 | [U](https://open.spotify.com/track/3Qjs17YjOxj0QjuiQoCgV4) | [Terry Da Libra](https://open.spotify.com/artist/1N18Bl1O1zRsE0uRrt3ekB) | [U](https://open.spotify.com/album/4CJ2YvdHFMZ8Pyfvh7rI0T) | 4:32 | 2021-11-19 | 2022-02-04 |
 | [U & Me \- Vincent Remix](https://open.spotify.com/track/6WvlIbyEEjZqbsxBlGGM7H) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB) | [U & Me \(Vincent Remix\)](https://open.spotify.com/album/5HfW4x3d6Z6U8SxVVPq64J) | 3:58 | 2024-04-08 |  |
 | [u want me](https://open.spotify.com/track/1bUXna1GljM8CwCvLiK8oE) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [u want me](https://open.spotify.com/album/0ig4oVRsVf6z5EavfOvhNL) | 3:05 | 2023-03-24 | 2023-06-20 |

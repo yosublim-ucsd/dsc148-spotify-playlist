@@ -2,7 +2,7 @@
 
 ### [This Is Mariah Carey](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2w0gZW)
 
-> This is Mariah Carey\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Mariah Carey\. The essential tracks, all in one playlist.
 
 80 songs - 5 hr 24 min
 

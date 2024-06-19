@@ -5993,6 +5993,32 @@
     },
     {
       "album": {
+        "name": "Rockstars",
+        "url": "https://open.spotify.com/album/2px8RFwsVkje5ii4ynfBDh"
+      },
+      "artists": [
+        {
+          "name": "Honest Regrets",
+          "url": "https://open.spotify.com/artist/6WeJcp2maE7mFGx43ccufg"
+        },
+        {
+          "name": "Kid On The Block",
+          "url": "https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH"
+        },
+        {
+          "name": "Thomas Geelens",
+          "url": "https://open.spotify.com/artist/0fOACSuV2yErGIXJvBsIZz"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127200,
+      "name": "Rockstars",
+      "url": "https://open.spotify.com/track/6uNH63cQYv2wfRo9iTaGQS"
+    },
+    {
+      "album": {
         "name": "Room With A View",
         "url": "https://open.spotify.com/album/2EKID2NfQSCeUZ5BbljtsX"
       },

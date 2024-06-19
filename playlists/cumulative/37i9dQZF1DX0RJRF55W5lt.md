@@ -2,7 +2,7 @@
 
 ### [UK Garage Classics](https://open.spotify.com/playlist/37i9dQZF1DX0RJRF55W5lt)
 
-> Classic anthems from a classic era\. Cover: Wookie
+> Classic anthems from a classic era\. Cover: Sunship
 
 159 songs - 13 hr 30 min
 

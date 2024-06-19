@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,914,346 likes - 244 songs - 12 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,915,954 likes - 244 songs - 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -253,4 +253,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 243 | [Remoteness](https://open.spotify.com/track/6dqHEnPLdVZb5Snm7tGjBZ) | [Ceri Rocha](https://open.spotify.com/artist/5clH6r1ZxRb7fYJ3StNDxP) | [Remoteness](https://open.spotify.com/album/7sqCUhzfBBaI0TtIS77C9G) | 2:55 |
 | 244 | [By The Coastline](https://open.spotify.com/track/1sf2W9dHuYaVB8O47cQ0lf) | [Meadowsweet](https://open.spotify.com/artist/2LvDYoVgXkWs04t60YxK9z) | [By The Coastline](https://open.spotify.com/album/1QMnLDEhNxLGTJFmif7kCs) | 2:49 |
 
-Snapshot ID: `ZmtmswAAAAC2vp9lo4PjO1kgtxaXNgDg`
+Snapshot ID: `ZnH+xwAAAAAPE9bu6A3QzPh67Ji938UU`

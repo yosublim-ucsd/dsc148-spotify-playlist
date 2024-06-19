@@ -2481,6 +2481,24 @@
     },
     {
       "album": {
+        "name": "MADE BY RICH GOD",
+        "url": "https://open.spotify.com/album/5S9y8ypcsF1gncyr6fQ1mJ"
+      },
+      "artists": [
+        {
+          "name": "Sauce Walka",
+          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114572,
+      "name": "MADE BY RICH GOD",
+      "url": "https://open.spotify.com/track/24Qa5EPrnrbvHoiEfbzf02"
+    },
+    {
+      "album": {
         "name": "MAFIA & MILITIA (feat. BabyTron)",
         "url": "https://open.spotify.com/album/3yIPZjDDMqsnxze575vzbF"
       },
@@ -3146,7 +3164,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-05",
+      "date_removed": null,
       "duration_ms": 151548,
       "name": "Shot Caller",
       "url": "https://open.spotify.com/track/6enDzOsAXFajdU3HclV4Cz"

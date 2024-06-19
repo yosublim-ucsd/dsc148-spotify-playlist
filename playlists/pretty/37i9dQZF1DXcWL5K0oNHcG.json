@@ -1,13 +1,133 @@
 {
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Salin. Artwork: Joy Yamusangie.",
-  "num_followers": 219025,
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Malcolm Jiyane Tree-O. Artwork: Joy Yamusangie.",
+  "num_followers": 219055,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmmYMwAAAABLnB+xU23g4tV2Au70+Rdp",
+  "snapshot_id": "ZnIfgAAAAAB2vx8kuDQ1DzzB+Wlz6kra",
   "tracks": [
+    {
+      "added_at": "2024-06-19 00:00:00",
+      "album": {
+        "name": "TRUE STORY",
+        "url": "https://open.spotify.com/album/4Pyg9xened5ecpzU6BVYzX"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Jiyane Tree-O",
+          "url": "https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH"
+        }
+      ],
+      "duration_ms": 237516,
+      "name": "Baby Ngimanzi Wuthando",
+      "url": "https://open.spotify.com/track/5LRPsio6JkXoOXHNCavnvJ"
+    },
+    {
+      "added_at": "2024-06-19 00:00:00",
+      "album": {
+        "name": "weird",
+        "url": "https://open.spotify.com/album/1utJR0ualmXBUTM1ej4SrQ"
+      },
+      "artists": [
+        {
+          "name": "Solomon Fox",
+          "url": "https://open.spotify.com/artist/3Cit7qPJ2qWQrIuidej4Tj"
+        }
+      ],
+      "duration_ms": 95409,
+      "name": "weird",
+      "url": "https://open.spotify.com/track/5xnHCTo3Ia2QDNxcu6URPr"
+    },
+    {
+      "added_at": "2024-06-19 00:00:00",
+      "album": {
+        "name": "Wings Of Submission",
+        "url": "https://open.spotify.com/album/2B094fM0K5m5ScLQ7xBjHV"
+      },
+      "artists": [
+        {
+          "name": "Jaubi",
+          "url": "https://open.spotify.com/artist/3nb0xF02MfjP2lM9zVNgnp"
+        }
+      ],
+      "duration_ms": 285600,
+      "name": "Wings Of Submission",
+      "url": "https://open.spotify.com/track/6Xg6glWN4QBM1I6nO0qrrn"
+    },
+    {
+      "added_at": "2024-06-19 00:00:00",
+      "album": {
+        "name": "Alibi",
+        "url": "https://open.spotify.com/album/1K076JZYFpwGDdI0YlkoQt"
+      },
+      "artists": [
+        {
+          "name": "Emma Volard",
+          "url": "https://open.spotify.com/artist/2dNnJIEECfh07bv1jwmfTL"
+        }
+      ],
+      "duration_ms": 264401,
+      "name": "Alibi",
+      "url": "https://open.spotify.com/track/210XOuA7O7WmFggY5L5HyB"
+    },
+    {
+      "added_at": "2024-06-19 00:00:00",
+      "album": {
+        "name": "Hammers",
+        "url": "https://open.spotify.com/album/0i2J52TgfHgluFoGQ55aP6"
+      },
+      "artists": [
+        {
+          "name": "Kessoncoda",
+          "url": "https://open.spotify.com/artist/7k9JPWPcswdCrwPiQqjvXZ"
+        }
+      ],
+      "duration_ms": 198430,
+      "name": "Hammers",
+      "url": "https://open.spotify.com/track/1PcT3ItaCAVwS1teagc8x1"
+    },
+    {
+      "added_at": "2024-06-05 04:00:00",
+      "album": {
+        "name": "Hello Sunshine",
+        "url": "https://open.spotify.com/album/6UT5hjlcmki1GQumy4MKB7"
+      },
+      "artists": [
+        {
+          "name": "TAMMIE",
+          "url": "https://open.spotify.com/artist/6jRwwKnIyUB02nBzse5T4B"
+        }
+      ],
+      "duration_ms": 187605,
+      "name": "Hello Sunshine",
+      "url": "https://open.spotify.com/track/06eqjfPposQZfedZhoNTdH"
+    },
+    {
+      "added_at": "2024-06-19 00:00:00",
+      "album": {
+        "name": "This Can't Be Love",
+        "url": "https://open.spotify.com/album/3emNHfavsgTb14W0kzl8Po"
+      },
+      "artists": [
+        {
+          "name": "Danny Jonokuchi",
+          "url": "https://open.spotify.com/artist/1cmdwdslxA6pz8pT455AJO"
+        },
+        {
+          "name": "Jon Beshay",
+          "url": "https://open.spotify.com/artist/2x9zgQHkztEEQh07tunEpk"
+        },
+        {
+          "name": "Sara Jacovino",
+          "url": "https://open.spotify.com/artist/7wT7R0e0Z48XMNSBsbzdpN"
+        }
+      ],
+      "duration_ms": 184493,
+      "name": "This Can't Be Love",
+      "url": "https://open.spotify.com/track/4JIWviwMWPlTonNhZHetDc"
+    },
     {
       "added_at": "2024-06-12 12:44:35",
       "album": {
@@ -95,22 +215,6 @@
       "duration_ms": 156838,
       "name": "Samo",
       "url": "https://open.spotify.com/track/47yfVqjJxsOdfTNpo47v2H"
-    },
-    {
-      "added_at": "2024-06-05 04:00:00",
-      "album": {
-        "name": "Hello Sunshine",
-        "url": "https://open.spotify.com/album/6UT5hjlcmki1GQumy4MKB7"
-      },
-      "artists": [
-        {
-          "name": "TAMMIE",
-          "url": "https://open.spotify.com/artist/6jRwwKnIyUB02nBzse5T4B"
-        }
-      ],
-      "duration_ms": 187605,
-      "name": "Hello Sunshine",
-      "url": "https://open.spotify.com/track/06eqjfPposQZfedZhoNTdH"
     },
     {
       "added_at": "2024-06-05 04:00:00",
@@ -831,110 +935,6 @@
       "duration_ms": 192826,
       "name": "Marcovaldo",
       "url": "https://open.spotify.com/track/5Lom5Jdjtfe45AJZywRjNi"
-    },
-    {
-      "added_at": "2024-04-03 04:00:00",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/3S7farIQSVSidIFbURbl8M"
-      },
-      "artists": [
-        {
-          "name": "Julieta Eugenio",
-          "url": "https://open.spotify.com/artist/3H7h1KgR3buzLFKHRSQN45"
-        }
-      ],
-      "duration_ms": 460946,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/20UgP0t6d6MPeex3FvgV9f"
-    },
-    {
-      "added_at": "2024-03-27 13:18:36",
-      "album": {
-        "name": "Cosmic Traveler",
-        "url": "https://open.spotify.com/album/7onrqJyZS6ymOxrwNbgivt"
-      },
-      "artists": [
-        {
-          "name": "jazztek",
-          "url": "https://open.spotify.com/artist/4wr8nT1OgCfze3mGssFJoD"
-        }
-      ],
-      "duration_ms": 179560,
-      "name": "Cosmic Traveler",
-      "url": "https://open.spotify.com/track/4EqND1UdBuVqDnuzXw5J11"
-    },
-    {
-      "added_at": "2024-03-27 13:18:36",
-      "album": {
-        "name": "VIBZ",
-        "url": "https://open.spotify.com/album/77IuobMrNcfYIWJZXzHrm7"
-      },
-      "artists": [
-        {
-          "name": "Eudald Pay\u00e9s",
-          "url": "https://open.spotify.com/artist/72atXcV9ekLP3iDmLD0BDc"
-        },
-        {
-          "name": "Mabreezee",
-          "url": "https://open.spotify.com/artist/4ixydE8BVYzM2P1mFrBWac"
-        },
-        {
-          "name": "Lowis",
-          "url": "https://open.spotify.com/artist/2kivZuhnSODSkTVxaFSF93"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "VIBZ",
-      "url": "https://open.spotify.com/track/2y8edbaz5VBEMOkzooa6Do"
-    },
-    {
-      "added_at": "2024-04-10 04:00:00",
-      "album": {
-        "name": "176",
-        "url": "https://open.spotify.com/album/0ClUEdCEjqzgRUP5Q1xbW2"
-      },
-      "artists": [
-        {
-          "name": "O.",
-          "url": "https://open.spotify.com/artist/0R2UqQKBdSADXMN2Gx5CrB"
-        }
-      ],
-      "duration_ms": 211630,
-      "name": "176",
-      "url": "https://open.spotify.com/track/5fGadEkoXstOnj4HzB8dqS"
-    },
-    {
-      "added_at": "2024-04-03 04:00:00",
-      "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/5AwxyJ0KmVm17VWaH1Hybu"
-      },
-      "artists": [
-        {
-          "name": "Bricknasty",
-          "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
-        }
-      ],
-      "duration_ms": 174845,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/7HQ1uP9ljzPXe6qgaOlFgc"
-    },
-    {
-      "added_at": "2024-05-01 04:00:00",
-      "album": {
-        "name": "I See Ghosts",
-        "url": "https://open.spotify.com/album/5Dx7r8Vth91TChvdt8DX8n"
-      },
-      "artists": [
-        {
-          "name": "Dizraeli",
-          "url": "https://open.spotify.com/artist/3xjNFu3aAWJie7LQzDoYNa"
-        }
-      ],
-      "duration_ms": 226226,
-      "name": "I See Ghosts",
-      "url": "https://open.spotify.com/track/1zdwLnHyYQAvXEwd5LKnU8"
     }
   ],
   "unique_name": "Fresh Finds Jazz",

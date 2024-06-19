@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > Get ready for Juneteenth with new music from Don Toliver, Normani, Tanner Adell, Khalid and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,185,315 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,186,156 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

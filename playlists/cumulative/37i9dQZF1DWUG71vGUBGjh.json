@@ -2275,6 +2275,24 @@
     },
     {
       "album": {
+        "name": "Pesce Rosso / Stella Marina (Habibi Funk Limited 002)",
+        "url": "https://open.spotify.com/album/5X0uXObzBzYbz5Wt7xZZn2"
+      },
+      "artists": [
+        {
+          "name": "Charif Megarbane",
+          "url": "https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159500,
+      "name": "Pesce Rosso",
+      "url": "https://open.spotify.com/track/3SBP2ogQ1cv4tr3mDcnpDB"
+    },
+    {
+      "album": {
         "name": "The Happy Electropop Music Machine",
         "url": "https://open.spotify.com/album/5UbK119FGtKi2n2KNyatfl"
       },

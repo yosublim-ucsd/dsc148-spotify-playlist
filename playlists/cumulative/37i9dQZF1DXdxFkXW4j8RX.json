@@ -740,7 +740,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 205894,
       "name": "Dame Tiempo",
       "url": "https://open.spotify.com/track/6jDYfzI08C4pMLEASAexb4"
@@ -2000,6 +2000,28 @@
       "duration_ms": 212936,
       "name": "III Figura",
       "url": "https://open.spotify.com/track/7aukVJcUSYzvbpyP3LhZwN"
+    },
+    {
+      "album": {
+        "name": "Kenjutsu",
+        "url": "https://open.spotify.com/album/0CAV9icjAk4uQ1JwCYWMSz"
+      },
+      "artists": [
+        {
+          "name": "Nfx",
+          "url": "https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5"
+        },
+        {
+          "name": "711.worldd",
+          "url": "https://open.spotify.com/artist/0F4TUkpWXASgjNGZIrc4iz"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139228,
+      "name": "Kenjutsu",
+      "url": "https://open.spotify.com/track/5NqtOukKoItpEW9R5p5tlf"
     },
     {
       "album": {

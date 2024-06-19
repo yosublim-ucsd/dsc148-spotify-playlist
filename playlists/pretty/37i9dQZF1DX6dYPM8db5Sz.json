@@ -1,6 +1,6 @@
 {
   "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/5LeZoIsr3HTDipdWQbiAfo?si=_B_mifL5R3OfpUUPLAePZQ\">ARD matthews</a> ",
-  "num_followers": 11721,
+  "num_followers": 11725,
   "original_name": "Indie GO",
   "owner": {
     "name": "Spotify",
@@ -621,10 +621,10 @@
       "url": "https://open.spotify.com/track/4T17A5uxXxGo48TYhbH5jF"
     },
     {
-      "added_at": "2024-05-23 22:00:00",
+      "added_at": "2024-06-07 07:56:34",
       "album": {
-        "name": "Motorola Money",
-        "url": "https://open.spotify.com/album/5mtguVYb0VQeR77Hix7bJG"
+        "name": "can't stand it",
+        "url": "https://open.spotify.com/album/3XXJLgzB9eOg1oiEy0j2bD"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
         }
       ],
-      "duration_ms": 110738,
-      "name": "Motorola Money",
-      "url": "https://open.spotify.com/track/5r9N2Z8MjZf1kWjH8azEai"
+      "duration_ms": 185739,
+      "name": "can't stand it",
+      "url": "https://open.spotify.com/track/6ElYocyMBSR3LHqGQGmA2r"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -773,10 +773,10 @@
       "url": "https://open.spotify.com/track/1j2ULumv0PlrpUXvoBsb4G"
     },
     {
-      "added_at": "2024-05-23 22:00:00",
+      "added_at": "2024-06-14 07:49:21",
       "album": {
-        "name": "Old Kid",
-        "url": "https://open.spotify.com/album/3yh2CyzlRRlhaUl8fHNxKt"
+        "name": "Marching On",
+        "url": "https://open.spotify.com/album/2ujoavk6dk8KVc93EYxT2g"
       },
       "artists": [
         {
@@ -784,15 +784,15 @@
           "url": "https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9"
         }
       ],
-      "duration_ms": 209353,
-      "name": "Old Kid",
-      "url": "https://open.spotify.com/track/2AoTAhf4T80mu8VsAwf6KP"
+      "duration_ms": 129640,
+      "name": "Vivid Memories",
+      "url": "https://open.spotify.com/track/0lo4TTF9XtgNLzigXYgRu0"
     },
     {
-      "added_at": "2024-06-07 07:56:34",
+      "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "can't stand it",
-        "url": "https://open.spotify.com/album/3XXJLgzB9eOg1oiEy0j2bD"
+        "name": "Motorola Money",
+        "url": "https://open.spotify.com/album/5mtguVYb0VQeR77Hix7bJG"
       },
       "artists": [
         {
@@ -800,25 +800,9 @@
           "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
         }
       ],
-      "duration_ms": 185739,
-      "name": "can't stand it",
-      "url": "https://open.spotify.com/track/6ElYocyMBSR3LHqGQGmA2r"
-    },
-    {
-      "added_at": "2024-05-31 03:54:23",
-      "album": {
-        "name": "Flying Away",
-        "url": "https://open.spotify.com/album/4j1AyvNomAzsaT9mi0VkNB"
-      },
-      "artists": [
-        {
-          "name": "Jon Muq",
-          "url": "https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe"
-        }
-      ],
-      "duration_ms": 185413,
-      "name": "Riding",
-      "url": "https://open.spotify.com/track/5h2nyrTocI7DEyYlNqFfvm"
+      "duration_ms": 110738,
+      "name": "Motorola Money",
+      "url": "https://open.spotify.com/track/5r9N2Z8MjZf1kWjH8azEai"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -835,6 +819,22 @@
       "duration_ms": 287200,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/1MpyOrNKUXCv3lE9DlPqWe"
+    },
+    {
+      "added_at": "2024-05-31 03:54:23",
+      "album": {
+        "name": "Flying Away",
+        "url": "https://open.spotify.com/album/4j1AyvNomAzsaT9mi0VkNB"
+      },
+      "artists": [
+        {
+          "name": "Jon Muq",
+          "url": "https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe"
+        }
+      ],
+      "duration_ms": 185413,
+      "name": "Riding",
+      "url": "https://open.spotify.com/track/5h2nyrTocI7DEyYlNqFfvm"
     }
   ],
   "unique_name": "Indie GO",

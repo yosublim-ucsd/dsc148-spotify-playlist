@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: Kehlani",
-  "num_followers": 58234,
+  "num_followers": 58240,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2024-06-01 04:00:00",
       "album": {
+        "name": "Mis Amigas Las Flores",
+        "url": "https://open.spotify.com/album/04J0mWsIEmidkQdWLlw8Ji"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 178039,
+      "name": "Mis Amigas Las Flores",
+      "url": "https://open.spotify.com/track/3Vm0VFtepYi1AVNBbywzYJ"
+    },
+    {
+      "added_at": "2024-06-01 04:00:00",
+      "album": {
         "name": "Entre La Maleza",
         "url": "https://open.spotify.com/album/226HOM7ZLpyqqwC3tprFct"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 190942,
       "name": "Cursed Romantics",
       "url": "https://open.spotify.com/track/5492WJL5APlDdZFOjn0PxK"
-    },
-    {
-      "added_at": "2024-06-01 04:00:00",
-      "album": {
-        "name": "Mis Amigas Las Flores",
-        "url": "https://open.spotify.com/album/04J0mWsIEmidkQdWLlw8Ji"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 178039,
-      "name": "Mis Amigas Las Flores",
-      "url": "https://open.spotify.com/track/3Vm0VFtepYi1AVNBbywzYJ"
     },
     {
       "added_at": "2024-06-01 04:00:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-06-01 04:00:00",
       "album": {
+        "name": "i'm just a grrrl",
+        "url": "https://open.spotify.com/album/1TO4DJZhsMRThCE5o3XA7F"
+      },
+      "artists": [
+        {
+          "name": "Sizzy Rocket",
+          "url": "https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E"
+        }
+      ],
+      "duration_ms": 184285,
+      "name": "i'm just a grrrl",
+      "url": "https://open.spotify.com/track/0vbeGbXrJC4zFAbRr3eOhc"
+    },
+    {
+      "added_at": "2024-06-01 04:00:00",
+      "album": {
         "name": "Take What You Need and Then Some",
         "url": "https://open.spotify.com/album/51g1AZkxAlkmqvv0QRAS2l"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 112954,
       "name": "cult classic (feat. Vayda)",
       "url": "https://open.spotify.com/track/6SeNaSjWcFBTiXhWYt4kcS"
-    },
-    {
-      "added_at": "2024-06-01 04:00:00",
-      "album": {
-        "name": "i'm just a grrrl",
-        "url": "https://open.spotify.com/album/1TO4DJZhsMRThCE5o3XA7F"
-      },
-      "artists": [
-        {
-          "name": "Sizzy Rocket",
-          "url": "https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E"
-        }
-      ],
-      "duration_ms": 184285,
-      "name": "i'm just a grrrl",
-      "url": "https://open.spotify.com/track/0vbeGbXrJC4zFAbRr3eOhc"
     }
   ],
   "unique_name": "EQUAL US",

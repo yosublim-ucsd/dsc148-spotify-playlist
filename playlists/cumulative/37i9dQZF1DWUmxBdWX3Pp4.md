@@ -4,7 +4,7 @@
 
 > Éxitos del Trap Latino\. Foto: Grupo Marca Registrada.
 
-449 songs - 1 day 1 hr 27 min
+450 songs - 1 day 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,7 +313,7 @@
 | [NUDE](https://open.spotify.com/track/5LZEvEjAzndBZUaHrp1o0L) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [NUDE](https://open.spotify.com/album/3U89lACWYtEdnV1UTke0CP) | 2:55 | 2022-10-14 | 2023-04-01 |
 | [NÚMEROS](https://open.spotify.com/track/2v0qoaeWzW1vQbUiwdWW9x) | [MOL](https://open.spotify.com/artist/0kcjwgqgT7QdNONFwVgQQX), [Dolce](https://open.spotify.com/artist/2Xld1YLHzyTDYoiuUhGeeV) | [NÚMEROS](https://open.spotify.com/album/5gceZL4lch362WfH1sYsMR) | 2:25 | 2022-03-11 | 2022-06-04 |
 | [O Preto Mais Caro](https://open.spotify.com/track/1k8SAvpNdgv5jbCuPjPm82) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee) | [O Preto Mais Caro](https://open.spotify.com/album/5x9DU6PjiS9LK3NNYykjd8) | 2:24 | 2022-06-03 | 2022-08-20 |
-| [OBVIO](https://open.spotify.com/track/5el1yANyqhFWsjLWGYpcTZ) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:42 | 2023-11-24 |  |
+| [OBVIO](https://open.spotify.com/track/5el1yANyqhFWsjLWGYpcTZ) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:42 | 2023-11-24 | 2024-06-19 |
 | [OCASO](https://open.spotify.com/track/2KibbfI1tM4ofl4f3ojVBF) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [OCASO](https://open.spotify.com/album/4aGeeKBhCMXmnGerGbGGcI) | 3:53 | 2023-10-20 | 2024-06-01 |
 | [Offline \- Remix](https://open.spotify.com/track/1NJoSKztrhgtoKmwZxJOIu) | [MC Buzzz](https://open.spotify.com/artist/2z8dSH4TMRViQh4QjqrDYv), [Israel B](https://open.spotify.com/artist/16M8fuShcwX8uBDdmFZH9B), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki) | [Offline Remix](https://open.spotify.com/album/0wTBnt7BJB19IBSQAH3b4H) | 5:58 | 2021-12-06 | 2022-10-29 |
 | [Oi, Como Ce Tá?](https://open.spotify.com/track/5Z4TYur0O9OxmxIo6GC2Gq) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Elenko Music](https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Oi, Como Ce Tá?](https://open.spotify.com/album/4Y0n73TdglcGIKQLuaRVou) | 2:36 | 2022-06-03 | 2022-07-22 |
@@ -455,6 +455,7 @@
 | [YUYU](https://open.spotify.com/track/1zXiBTAFnO5L56UEuH7xwH) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD), [Nahuel one23](https://open.spotify.com/artist/7szpfJlobAlM8CDVXziu05) | [YUYU](https://open.spotify.com/album/6UBn9kD2TUkSCaePKkx7iF) | 2:54 | 2023-05-12 | 2023-06-10 |
 | [ZAZA](https://open.spotify.com/track/5AxYNbBJFPUQyANSrSyL0I) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [ZAZA](https://open.spotify.com/album/68gNfeJwYo79JVUlDXj7v8) | 3:27 | 2022-08-19 | 2022-12-24 |
 | [Ziploc \(Blessd Version\)](https://open.spotify.com/track/3JYw9n3rJTVQryVz1rwlH4) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [Siempre Blessd](https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4) | 3:56 | 2022-11-16 | 2023-04-01 |
+| [Zodiaco](https://open.spotify.com/track/3NrAgRyxGJ4wD4lIxspNjq) | [Custom](https://open.spotify.com/artist/0cZRCTXUF6Bn7r7LTl6f7x), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [La Exce](https://open.spotify.com/artist/2RON3ZWvFVAHpiJA74KNHj) | [Zodiaco](https://open.spotify.com/album/7pbWV4PAw7qNMCLrJBnqb9) | 4:00 | 2024-06-18 |  |
 | [Zona Pistola](https://open.spotify.com/track/49B9zwKFTKtLf1FcbNVShf) | [ForyFive](https://open.spotify.com/artist/23OHfV3JOMWn38m7k4RLJq), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Zona Pistola](https://open.spotify.com/album/6S9WkhYhjNzBYhkDDqH1Qf) | 2:56 | 2022-02-04 | 2022-05-07 |
 | [¿CUANTAS VECES?](https://open.spotify.com/track/1akpNpmjtTlLxwTnkM8uvC) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [TU DUO FAVORITO](https://open.spotify.com/album/4n6BNKtpmZOYUyfecMzzpZ) | 3:08 | 2023-09-08 | 2024-06-01 |
 

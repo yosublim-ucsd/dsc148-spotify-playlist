@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > SHA\-LA\-LA\-LALA\-LA\-LA!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,270 likes - 100 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,291 likes - 100 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 15 | [Rödvin & Rosé](https://open.spotify.com/track/1VeSJ9PVCutdTMPn4sFpzo) | [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim), [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd) | [Rödvin & Rosé](https://open.spotify.com/album/6qbjzSLFcxqdcC8ma77Hxt) | 2:54 |
 | 16 | [Greta Thunberg](https://open.spotify.com/track/4mskXDDAZA0C7p03mPZ5UD) | [TRENDEN](https://open.spotify.com/artist/6YuKFo9oa6f4KGcrDm982S) | [Greta Thunberg](https://open.spotify.com/album/0gDJyg276NTvKVm1LR6Yqe) | 2:54 |
 | 17 | [Hundragubbe](https://open.spotify.com/track/0wTotSfZg5MRF2mY7SNUkG) | [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT) | [Hundragubbe](https://open.spotify.com/album/6FrjNXe11eR7ZUhjkuCjji) | 2:22 |
-| 18 | [Om du var min Feat\. EMMY](https://open.spotify.com/track/520OGfBzjjGqVLO52KPvvC) | [J.O.X](https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9), [EMMY](https://open.spotify.com/artist/4rrI3dKjmTOzRZvOwOWOlu) | [Om du var min Feat\. EMMY](https://open.spotify.com/album/5iaCqxVddsqcWvonadClWp) | 2:38 |
+| 18 | [Om du var min](https://open.spotify.com/track/520OGfBzjjGqVLO52KPvvC) | [J.O.X](https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9), [EMMY](https://open.spotify.com/artist/4rrI3dKjmTOzRZvOwOWOlu) | [Om du var min](https://open.spotify.com/album/5iaCqxVddsqcWvonadClWp) | 2:38 |
 | 19 | [NAKEN PÅ BALKONGEN](https://open.spotify.com/track/4wcyAifN0JvpRB13WgysZF) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [NAKEN PÅ BALKONGEN](https://open.spotify.com/album/3FtBYaMfODBGSxrsoTPxn3) | 2:11 |
 | 20 | [Älskade ängel](https://open.spotify.com/track/7xIPafRGjjnaarcgYXGwAp) | [Ooooklart](https://open.spotify.com/artist/2KCvKWnFqczghA5Q60Mrlb) | [Älskade ängel](https://open.spotify.com/album/6c5kxwjde7x9yPzQlBrw1b) | 2:31 |
 | 21 | [Inget stoppar oss nu](https://open.spotify.com/track/3kPAb7PtWBL4nPcNZrjtdn) | [Dolores](https://open.spotify.com/artist/4qyhURA0g9oibogcNPMZaP) | [Inget stoppar oss nu](https://open.spotify.com/album/1la673tluSYEDoPNQ2Tv3S) | 2:54 |

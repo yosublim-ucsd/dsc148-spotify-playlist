@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Ebow
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,326 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,334 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,15 +21,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 11 | [Lächeln \(Wenn ich wein\)](https://open.spotify.com/track/6og1RW6aAL3yvikwDZry2s) | [Katy B Diamond](https://open.spotify.com/artist/0LZIINuynL1bpxyMFmQCq4) | [Lächeln \(Wenn ich wein\)](https://open.spotify.com/album/6hCpPMG7xE161VOeyWTC1r) | 2:09 |
 | 12 | [Bevor du gehst](https://open.spotify.com/track/2DJcz0DpjMYQOAKqUanU6F) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Bevor du gehst](https://open.spotify.com/album/3dGyFFDATPwEq64fXekZ7Z) | 2:35 |
 | 13 | [frühling](https://open.spotify.com/track/6ILdiLYlRv09o9ChZB8FT6) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [25/8](https://open.spotify.com/album/3WDlcgQsuzTCLkBY7WzTLn) | 1:59 |
-| 14 | [star potential](https://open.spotify.com/track/3KnYo5EXzptzGa43S5hsZf) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [star potential](https://open.spotify.com/album/6ousmXEO86E9hCkdK2rXUW) | 2:21 |
-| 15 | [Immer Da](https://open.spotify.com/track/4UYaUWDq0JOfej3fZQdN8M) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Immer Da](https://open.spotify.com/album/05EoHoMlVjpVQ2YaDU5Nkr) | 2:34 |
+| 14 | [Immer Da](https://open.spotify.com/track/4UYaUWDq0JOfej3fZQdN8M) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Immer Da](https://open.spotify.com/album/05EoHoMlVjpVQ2YaDU5Nkr) | 2:34 |
+| 15 | [star potential](https://open.spotify.com/track/3KnYo5EXzptzGa43S5hsZf) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [star potential](https://open.spotify.com/album/6ousmXEO86E9hCkdK2rXUW) | 2:21 |
 | 16 | [Etage 4](https://open.spotify.com/track/1z60FNfTtizk2N7VGtS1c2) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [Etage 4](https://open.spotify.com/album/0GmIU40mxwK8tE4BJ3bhAw) | 2:46 |
 | 17 | [eine Frau](https://open.spotify.com/track/5qzAzWL44BQO5wLMjdW7L6) | [becks](https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57) | [eine Frau](https://open.spotify.com/album/5rQhFRmoRU2FoQdRg2A3yE) | 2:43 |
 | 18 | [drunk, sex, love](https://open.spotify.com/track/5v9XLMlRsBOTqZjnhfEqnJ) | [DUEJA](https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl) | [drunk, sex, love](https://open.spotify.com/album/0s35PTfH9vLqjZtRt3CGIC) | 2:20 |
 | 19 | [Blumengarten](https://open.spotify.com/track/1lIpqnkGvNZMkpC2vrXoxC) | [Ronja](https://open.spotify.com/artist/7dl7jnssJ6pvKbrMpHw4KX) | [Blumengarten](https://open.spotify.com/album/61GNzhne3rtlDpNLWEWqz5) | 3:39 |
-| 20 | [Ich Such](https://open.spotify.com/track/1ZeMeVPCZlLMIUwJX8VF3k) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [fuck \(ich liebe dich\)](https://open.spotify.com/album/30c5ReJueRMPW8y7UgJHq8) | 2:24 |
+| 20 | [carcassonne](https://open.spotify.com/track/3BXOQ4VvoQ5T5CuqLYHLoh) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [carcassonne](https://open.spotify.com/album/3SAHxqemMNdTGcMRkDxFku) | 2:11 |
 | 21 | [Free.](https://open.spotify.com/track/6xQtS5BKmnUANA5ZWfqha0) | [Ebow](https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA) | [Free.](https://open.spotify.com/album/1lc7rQHvH0QwHcfCszcb3z) | 2:25 |
-| 22 | [carcassonne](https://open.spotify.com/track/3BXOQ4VvoQ5T5CuqLYHLoh) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [carcassonne](https://open.spotify.com/album/3SAHxqemMNdTGcMRkDxFku) | 2:11 |
+| 22 | [Ich Such](https://open.spotify.com/track/1ZeMeVPCZlLMIUwJX8VF3k) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [fuck \(ich liebe dich\)](https://open.spotify.com/album/30c5ReJueRMPW8y7UgJHq8) | 2:24 |
 | 23 | [Backseat](https://open.spotify.com/track/4iL4S5C4AmfQK43ZEeNstw) | [Sara Dastjani](https://open.spotify.com/artist/5Usfg2FMXMcO710BoJ1fBz) | [Backseat](https://open.spotify.com/album/5SWzGsu11eeN1TlU8RSJxg) | 2:09 |
 | 24 | [dunkelblau](https://open.spotify.com/track/6ycvSaEKJHGXZeQpJ4LM1H) | [ELA](https://open.spotify.com/artist/4L3QRSecSDcMsyJ6AuDcqb) | [dunkelblau](https://open.spotify.com/album/6zDZIqezaQ7QB6dos1WLpm) | 3:20 |
 | 25 | [wie du mich mochtest](https://open.spotify.com/track/5nXK0rMLRuPNSMYawoe3N2) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [wie du mich mochtest](https://open.spotify.com/album/1TC2QGTmKbFgdqsdrwkTnC) | 2:43 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 40 | [heavy blankets](https://open.spotify.com/track/2A1OYhBVUgoxGIrkOMFGD7) | [katyadotcom](https://open.spotify.com/artist/6AU4XrkjmG0EpBF9YvXm9O) | [heavy blankets](https://open.spotify.com/album/73UjwUWkXodhq4hJY4B7kp) | 2:17 |
 | 41 | [PLANET](https://open.spotify.com/track/58nwezUNuGYgWsR2DaTty5) | [Lary](https://open.spotify.com/artist/5yNlFmp5vESd61p6Ob3Qzo) | [STEREO NOIR](https://open.spotify.com/album/0KxrASBz3X7wAOgBrQKb1N) | 3:31 |
 | 42 | [Modern Home](https://open.spotify.com/track/4zdVikmVCaRSa6bFVfjHVe) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Modern Home](https://open.spotify.com/album/0gyaS2yVdXf3FZwyEjPSNU) | 3:41 |
-| 43 | [Ghosting You](https://open.spotify.com/track/2qoqzLWwrGmeZvukkQ2AKW) | [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [Ghosting You](https://open.spotify.com/album/3WeBR68oYmMu5s6ITJMduo) | 3:48 |
-| 44 | [Friends](https://open.spotify.com/track/1JzUIZNVLSqo8LiHtl9yCC) | [Ebow](https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA), [douniah](https://open.spotify.com/artist/0XRqsaNWIoGwotH5YZAb0y) | [Friends](https://open.spotify.com/album/1RIJr50PbFAXFiEZui7FoW) | 2:57 |
+| 43 | [Friends](https://open.spotify.com/track/1JzUIZNVLSqo8LiHtl9yCC) | [Ebow](https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA), [douniah](https://open.spotify.com/artist/0XRqsaNWIoGwotH5YZAb0y) | [Friends](https://open.spotify.com/album/1RIJr50PbFAXFiEZui7FoW) | 2:57 |
+| 44 | [Ghosting You](https://open.spotify.com/track/2qoqzLWwrGmeZvukkQ2AKW) | [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [Ghosting You](https://open.spotify.com/album/3WeBR68oYmMu5s6ITJMduo) | 3:48 |
 | 45 | [Whiplash](https://open.spotify.com/track/4oTrcjn08jBFben4O2Am2Q) | [Elly](https://open.spotify.com/artist/5ESkKkvLe33xT9Jsr8GBDt) | [Whiplash](https://open.spotify.com/album/2Mt6KsgJIjghWaq42yqO0S) | 2:47 |
 | 46 | [Marmorboden](https://open.spotify.com/track/1ysh3N1H7pQwlc4AqB3k30) | [RIA](https://open.spotify.com/artist/6oT4DQOYDHAJQ6sgTRVFht) | [Marmorboden](https://open.spotify.com/album/32zYPYsJkOTSYW0sr7cJiU) | 2:07 |
 | 47 | [Was du willst](https://open.spotify.com/track/3Xq1IsUoNSVyHCfZirqijz) | [RIA](https://open.spotify.com/artist/1uEz1ky7M03Huwn2WzeSyK), [Ebow](https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA) | [Was du willst](https://open.spotify.com/album/3lNSXrfbtVlEMTcLXI4ei0) | 3:04 |

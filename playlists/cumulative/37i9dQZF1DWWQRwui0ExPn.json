@@ -60506,7 +60506,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 148250,
       "name": "Kochyli",
       "url": "https://open.spotify.com/track/59lne8ie4M3fNsvkMj1wNc"
@@ -75246,7 +75246,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-11",
+      "date_removed": null,
       "duration_ms": 132307,
       "name": "Moonrise",
       "url": "https://open.spotify.com/track/1IjfRgASFYlHRHYLuUrmsA"
@@ -107173,6 +107173,28 @@
     },
     {
       "album": {
+        "name": "Spring Melody",
+        "url": "https://open.spotify.com/album/0kooCnKtmAmv51qUx8Wsow"
+      },
+      "artists": [
+        {
+          "name": "Midan",
+          "url": "https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo"
+        },
+        {
+          "name": "Beats for Trees",
+          "url": "https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131596,
+      "name": "Spring Melody",
+      "url": "https://open.spotify.com/track/75COvmWgSL1DfGkQburzDa"
+    },
+    {
+      "album": {
         "name": "Spring Vibes",
         "url": "https://open.spotify.com/album/3JqqF6l1F4d0UrtrrBFzaq"
       },
@@ -126518,7 +126540,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 142510,
       "name": "Watching Seagulls",
       "url": "https://open.spotify.com/track/6c2fHhDghWSQIL28CoiP6W"

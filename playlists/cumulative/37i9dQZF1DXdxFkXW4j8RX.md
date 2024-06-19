@@ -4,7 +4,7 @@
 
 > La casa de lxs MC's\. Foto: C\-Funk.
 
-198 songs - 11 hr 19 min
+199 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Criadero de moscas](https://open.spotify.com/track/1KcS351CaknDoJPJBkR3IM) | [Alexia Naomi](https://open.spotify.com/artist/6f9J2VhTUt61qMX87UtIqn), [EnSecreto](https://open.spotify.com/artist/1wxZSwi9v3v9grm87HCqju) | [Criadero de moscas](https://open.spotify.com/album/2HTOgL2nQk9lNJod9yqHPL) | 3:41 | 2024-02-16 |  |
 | [Cuentos](https://open.spotify.com/track/1Qo4WtxrJ11TRLiwnMpxkJ) | [KMC](https://open.spotify.com/artist/6XRepE59HrVuIQgfWXdBJ4), [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Cuentos](https://open.spotify.com/album/7a5a20D7POPe4lKraQkpVf) | 3:12 | 2023-03-10 | 2024-01-20 |
 | [DA KNOWLEDGE](https://open.spotify.com/track/63AIqDwBLmJyiVnxMfqCCa) | [Jonas Sanche](https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9), [Macrodee](https://open.spotify.com/artist/1LFSjjDBhaukmZa69zJvgM), [Antioch](https://open.spotify.com/artist/78UTGJPxHbiqliqrmxiFkv) | [DA KNOWLEDGE](https://open.spotify.com/album/6YkpmJ3cNCP6F3BwPO7sZ1) | 2:48 | 2022-01-06 |  |
-| [Dame Tiempo](https://open.spotify.com/track/6jDYfzI08C4pMLEASAexb4) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Hazhe](https://open.spotify.com/artist/4p362NN14lMGC5NOnFR0lk) | [Dame Tiempo](https://open.spotify.com/album/4DV5dX49qFimq6JM1xPL8Q) | 3:25 | 2023-06-16 |  |
+| [Dame Tiempo](https://open.spotify.com/track/6jDYfzI08C4pMLEASAexb4) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Hazhe](https://open.spotify.com/artist/4p362NN14lMGC5NOnFR0lk) | [Dame Tiempo](https://open.spotify.com/album/4DV5dX49qFimq6JM1xPL8Q) | 3:25 | 2023-06-16 | 2024-06-19 |
 | [Dangerous](https://open.spotify.com/track/5lXgD4rhegsXgu1e0B3z3l) | [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5) | [Dangerous](https://open.spotify.com/album/57kemSNzw4eIfcB4Txky8L) | 3:10 | 2022-11-07 |  |
 | [De Donde Vengo](https://open.spotify.com/track/0B7YG0Rd4Jp3IMwaq6mAJL) | [Rapacortes](https://open.spotify.com/artist/4vpADGNWS3zDDxd2hQrOoM), [Kainos Mc](https://open.spotify.com/artist/24GzJuRlLgJhXKlIivLtFx) | [De Donde Vengo](https://open.spotify.com/album/7rmjij4qA9ZnOzZEPAwvAb) | 3:24 | 2023-03-10 | 2024-01-20 |
 | [Decretalo](https://open.spotify.com/track/5qJtWvPHsF4MglEijecLdC) | [Zita Zoe](https://open.spotify.com/artist/5w3yQZC4IFbbGaOTTne3Nk), [Bronko Yotte](https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7), [Gonem Beats](https://open.spotify.com/artist/15dlqhwACW4PoQRIsSQUYJ), [Cjupiter](https://open.spotify.com/artist/3tSPx7EgteNsCF9RiGF8RN) | [Decretalo](https://open.spotify.com/album/1xsWNNm54TdjaabjwoNjK2) | 2:32 | 2023-02-03 | 2023-06-17 |
@@ -93,6 +93,7 @@
 | [I Love You a Lo Vío](https://open.spotify.com/track/1J2LwSgNeYGtAZdlF4jZH3) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Adosene](https://open.spotify.com/artist/3UHXKNtEt4Tvu4EDYNt4mk) | [Techymuv](https://open.spotify.com/album/6cGNmvcaZLZWdGQHcpNXOe) | 5:11 | 2022-07-15 | 2023-10-02 |
 | [I Love You a Lo Vío \(feat\. Movimiento Original\)](https://open.spotify.com/track/7bdkF0rHjyjnIeqBjQAdR0) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo) | [Techymuv](https://open.spotify.com/album/0nx6tyjIV5LEoJhb44GcNT) | 5:11 | 2022-01-06 | 2022-07-29 |
 | [III Figura](https://open.spotify.com/track/7aukVJcUSYzvbpyP3LhZwN) | [Como Asesinar a Felipes](https://open.spotify.com/artist/17WostYl0Ep0nyJmA0m2ds) | [III Figura](https://open.spotify.com/album/4zgFIrq7Nxsc5M3GDeax1d) | 3:32 | 2022-07-15 | 2023-08-05 |
+| [Kenjutsu](https://open.spotify.com/track/5NqtOukKoItpEW9R5p5tlf) | [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5), [711.worldd](https://open.spotify.com/artist/0F4TUkpWXASgjNGZIrc4iz) | [Kenjutsu](https://open.spotify.com/album/0CAV9icjAk4uQ1JwCYWMSz) | 2:19 | 2024-06-18 |  |
 | [La Felicidad](https://open.spotify.com/track/7gCeqPyODFh7rtkLpekpZk) | [Mecal](https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5), [Cevlade](https://open.spotify.com/artist/7FavRzQTgusKjQCqvO4xXY), [InVnerable](https://open.spotify.com/artist/5DVq4JmHmFWBoFk7K0vCMY) | [La Felicidad](https://open.spotify.com/album/2WGxPfmod29I9jcrnRtn7Q) | 3:23 | 2023-05-26 | 2024-01-20 |
 | [La Mitad Vacía O La Mitad Llena](https://open.spotify.com/track/7vD7np5RmrxEqNdCAhowYT) | [C\-Funk](https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO) | [San Francisco Nights](https://open.spotify.com/album/2woY6QuO4JtwfMmSs0mKPh) | 3:50 | 2024-06-14 |  |
 | [La Paz](https://open.spotify.com/track/7H17GmZdbHIMolga9CEfBG) | [Aerstame](https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [La Paz](https://open.spotify.com/album/1AmCrlFO3hFVQRyq522mzH) | 2:53 | 2022-07-15 |  |

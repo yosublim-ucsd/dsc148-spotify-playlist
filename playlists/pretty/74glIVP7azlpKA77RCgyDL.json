@@ -1,13 +1,117 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Poppy",
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Higher Power",
   "num_followers": 8601,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAAMNETEYP56U/6ISoL2OorT2CFyX23O",
+  "snapshot_id": "AAAMPUOc/NwoPPntAJTby+n1zaOl+GzU",
   "tracks": [
+    {
+      "added_at": "2024-06-18 14:54:18",
+      "album": {
+        "name": "Stillpoint",
+        "url": "https://open.spotify.com/album/6HYN0mvt1KfBvMOPJc0DlN"
+      },
+      "artists": [
+        {
+          "name": "Higher Power",
+          "url": "https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT"
+        },
+        {
+          "name": "Never Ending Game",
+          "url": "https://open.spotify.com/artist/1S8NfdnAl7u08mTjEtDWLp"
+        }
+      ],
+      "duration_ms": 217944,
+      "name": "Stillpoint",
+      "url": "https://open.spotify.com/track/7e7MSmuu0opQe214jZFuix"
+    },
+    {
+      "added_at": "2024-06-18 14:53:26",
+      "album": {
+        "name": "Aftermath",
+        "url": "https://open.spotify.com/album/3a5NPxFKXmzqWKurkUSfZS"
+      },
+      "artists": [
+        {
+          "name": "The Black Dahlia Murder",
+          "url": "https://open.spotify.com/artist/4xTDPgk4jHCF0qui3dH6BS"
+        }
+      ],
+      "duration_ms": 181916,
+      "name": "Aftermath",
+      "url": "https://open.spotify.com/track/7xGYng4pNaJwSTjuOlxyhO"
+    },
+    {
+      "added_at": "2024-06-18 14:53:52",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/7D21dYQk6ZQJku7MNmMQHB"
+      },
+      "artists": [
+        {
+          "name": "Seven Hours After Violet",
+          "url": "https://open.spotify.com/artist/55VwLwkPAOGFgYdU3QwE8Z"
+        }
+      ],
+      "duration_ms": 180395,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/6c2orDRuPDBLrdUorfhK1d"
+    },
+    {
+      "added_at": "2024-06-18 14:54:05",
+      "album": {
+        "name": "Imposing Will",
+        "url": "https://open.spotify.com/album/2z0nYg2homkOgcdpCteFCt"
+      },
+      "artists": [
+        {
+          "name": "Nails",
+          "url": "https://open.spotify.com/artist/69a2GzMCkrrTrN9iVmP8Ys"
+        }
+      ],
+      "duration_ms": 82105,
+      "name": "Imposing Will",
+      "url": "https://open.spotify.com/track/1DctDqwwzM62QrJgktLtHK"
+    },
+    {
+      "added_at": "2024-06-18 14:54:36",
+      "album": {
+        "name": "World War 3",
+        "url": "https://open.spotify.com/album/2pydovq47fk1mmo4scjQAa"
+      },
+      "artists": [
+        {
+          "name": "Juice B.C.",
+          "url": "https://open.spotify.com/artist/20VnPDnScnvQpzLe7JUeOs"
+        }
+      ],
+      "duration_ms": 176500,
+      "name": "World War 3",
+      "url": "https://open.spotify.com/track/2GrvKvbQ9K8xhyWyDJfoov"
+    },
+    {
+      "added_at": "2024-06-18 14:54:56",
+      "album": {
+        "name": "ENDLESS",
+        "url": "https://open.spotify.com/album/7aByOZkdJqsGvIplvnNrq1"
+      },
+      "artists": [
+        {
+          "name": "NXCRE",
+          "url": "https://open.spotify.com/artist/4pEYvg65h3If6TKxwgzkQw"
+        },
+        {
+          "name": "The Villains",
+          "url": "https://open.spotify.com/artist/3u5FARONWz8eCYD5hPsd5k"
+        }
+      ],
+      "duration_ms": 263684,
+      "name": "ENDLESS",
+      "url": "https://open.spotify.com/track/4Hl1JJxdzEjhvXi3L3SFE8"
+    },
     {
       "added_at": "2024-06-07 19:48:12",
       "album": {

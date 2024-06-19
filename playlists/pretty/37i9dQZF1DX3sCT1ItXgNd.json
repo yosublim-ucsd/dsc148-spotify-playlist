@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Lola Indigo.",
-  "num_followers": 962323,
+  "num_followers": 962332,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
@@ -671,18 +671,18 @@
     {
       "added_at": "2024-06-17 10:22:31",
       "album": {
-        "name": "EL FORASTERO",
-        "url": "https://open.spotify.com/album/3L8AXncbQzk35NwewM00X7"
+        "name": "Nanai",
+        "url": "https://open.spotify.com/album/4oi0Rf2NsjMhPvljHIsFfa"
       },
       "artists": [
         {
-          "name": "Marmi",
-          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
+          "name": "Amaia",
+          "url": "https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX"
         }
       ],
-      "duration_ms": 163578,
-      "name": "EL FORASTERO",
-      "url": "https://open.spotify.com/track/1W4IXAf9YN7FOsdycfu7j8"
+      "duration_ms": 149872,
+      "name": "Nanai",
+      "url": "https://open.spotify.com/track/27RqUQHGAv4bB3AOu03cvo"
     },
     {
       "added_at": "2024-06-17 10:22:31",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-06-17 10:22:31",
       "album": {
+        "name": "EL FORASTERO",
+        "url": "https://open.spotify.com/album/3L8AXncbQzk35NwewM00X7"
+      },
+      "artists": [
+        {
+          "name": "Marmi",
+          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
+        }
+      ],
+      "duration_ms": 163578,
+      "name": "EL FORASTERO",
+      "url": "https://open.spotify.com/track/1W4IXAf9YN7FOsdycfu7j8"
+    },
+    {
+      "added_at": "2024-06-17 10:22:31",
+      "album": {
         "name": "PETER PAN",
         "url": "https://open.spotify.com/album/7hsGz3VuHhKW7tBRrQRLFK"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 169721,
       "name": "PETER PAN",
       "url": "https://open.spotify.com/track/4JF5WLz8y7hfTsy5Tpnwwj"
-    },
-    {
-      "added_at": "2024-06-17 10:22:31",
-      "album": {
-        "name": "Nanai",
-        "url": "https://open.spotify.com/album/4oi0Rf2NsjMhPvljHIsFfa"
-      },
-      "artists": [
-        {
-          "name": "Amaia",
-          "url": "https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX"
-        }
-      ],
-      "duration_ms": 149872,
-      "name": "Nanai",
-      "url": "https://open.spotify.com/track/27RqUQHGAv4bB3AOu03cvo"
     },
     {
       "added_at": "2024-06-17 10:22:31",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-06-17 10:22:31",
       "album": {
-        "name": "Pirata",
-        "url": "https://open.spotify.com/album/0qNBlTwJDx8h3gfTSBJzYf"
-      },
-      "artists": [
-        {
-          "name": "Marlon",
-          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
-        }
-      ],
-      "duration_ms": 193626,
-      "name": "Pirata",
-      "url": "https://open.spotify.com/track/4QE2lll1AHZw20DOnkGmZD"
-    },
-    {
-      "added_at": "2024-06-17 10:22:31",
-      "album": {
         "name": "te vas a inventar",
         "url": "https://open.spotify.com/album/5wFXtW6BBQKVf3Jo1iWWnj"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 172029,
       "name": "te vas a inventar",
       "url": "https://open.spotify.com/track/7dKJQbM2YiWgpbkWhnUsk1"
+    },
+    {
+      "added_at": "2024-06-17 10:22:31",
+      "album": {
+        "name": "Pirata",
+        "url": "https://open.spotify.com/album/0qNBlTwJDx8h3gfTSBJzYf"
+      },
+      "artists": [
+        {
+          "name": "Marlon",
+          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
+        }
+      ],
+      "duration_ms": 193626,
+      "name": "Pirata",
+      "url": "https://open.spotify.com/track/4QE2lll1AHZw20DOnkGmZD"
     },
     {
       "added_at": "2024-06-17 10:22:31",

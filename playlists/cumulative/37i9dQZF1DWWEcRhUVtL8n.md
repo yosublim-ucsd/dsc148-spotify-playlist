@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: ROLE MODEL
 
-1,885 songs - 4 day 3 hr 26 min
+1,886 songs - 4 day 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1126,6 +1126,7 @@
 | [MORE](https://open.spotify.com/track/0mcuJuWKJOEatt3H4lefPt) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [MORE](https://open.spotify.com/album/2A54m1vVLpNSQFGNoqOI3r) | 2:39 | 2021-10-12 | 2021-10-16 |
 | [MORE](https://open.spotify.com/track/2d1jvQu885eJhUCg8EwlMs) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [MORE](https://open.spotify.com/album/4fiHtJjMCna9G98rkUN68E) | 2:39 | 2021-03-06 | 2021-05-22 |
 | [More Like You](https://open.spotify.com/track/1UpFb9izAOYlcxWTOQzGf6) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [More Like You](https://open.spotify.com/album/2zX0uZRqO9wEG6Wq79T5jw) | 3:39 | 2021-07-19 | 2022-08-06 |
+| [Motorcycle](https://open.spotify.com/track/0pJAiDG0LmZHlPuMudDvjs) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Motorcycle](https://open.spotify.com/album/7mhREQUR2GbBqPILSsKz7g) | 2:46 | 2024-06-14 |  |
 | [Mott St](https://open.spotify.com/track/1ugYh6CIplawB33fSVYHUe) | [CIB](https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl) | [Mott St](https://open.spotify.com/album/2gOQsfe1uva5AhY6KppuvH) | 2:55 | 2022-01-21 | 2022-04-23 |
 | [move](https://open.spotify.com/track/2Ryp5LkAWyJwRqoFd8N7Kk) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [move](https://open.spotify.com/album/1gaYhlmZa4fT0NfH1IiSQ4) | 2:28 | 2021-12-03 | 2022-12-10 |
 | [Moving Men \(feat\. Mac DeMarco\)](https://open.spotify.com/track/3y4I9VECfNbDXYN2bXh9hV) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Moving Men](https://open.spotify.com/album/5KHDM6ahrfEV8D2JFPbz4h) | 2:47 | 2020-10-29 | 2021-05-28 |
@@ -1504,7 +1505,7 @@
 | [So Good](https://open.spotify.com/track/0ZpHuEhi1CvOJgrqOSy8mv) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [So Good](https://open.spotify.com/album/1n5grA7m8IYGwHp6rUDMR2) | 2:26 | 2022-06-24 | 2023-07-01 |
 | [So High School](https://open.spotify.com/track/7Mts0OfPorF4iwOomvfqn1) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 3:48 | 2024-04-19 |  |
 | [SO LOW](https://open.spotify.com/track/0VYlDbOKgKaro0TpguvpvJ) | [Drauve](https://open.spotify.com/artist/3amCA9U9lgity9TZs1MENn) | [SO LOW](https://open.spotify.com/album/6BH10blbO7qFP4SqLbZzSE) | 2:59 | 2020-10-13\* | 2020-12-12 |
-| [So Sick Of Dreaming](https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [So Sick Of Dreaming](https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v) | 3:52 | 2024-03-22 |  |
+| [So Sick Of Dreaming](https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [So Sick Of Dreaming](https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v) | 3:52 | 2024-03-22 | 2024-06-19 |
 | [Sober](https://open.spotify.com/track/577ctFaEJqAL9gdo2Gx63x) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [Sober](https://open.spotify.com/album/6i3ypMIWdzE0YeFHw84Yh9) | 2:26 | 2022-12-16 | 2023-02-11 |
 | [Sober](https://open.spotify.com/track/6F3ZGAp9M9Nub4cSCpY5tW) | [superflirt](https://open.spotify.com/artist/50vN1tYzW2EYBA5vd7Ov49) | [Sober](https://open.spotify.com/album/69fRi4yxcnLyfoJUbLTcT1) | 2:34 | 2022-04-29 | 2022-07-22 |
 | [Sofia](https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:08 | 2020-10-13\* | 2022-08-27 |

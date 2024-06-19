@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS?si=OsttrrcdTVCD1iq6\_H7DtQ">Muyeez</a>\. Artwork: Isu Kim.
+> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/1WsTxIReCRobQIcvlFDul3?si=oqcTtE5VS2yWmsq2amGz0Q">RUVA</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,617 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,636 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Trending](https://open.spotify.com/track/4Xik88j0lef96PqxYFR66a) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Muyeez \(Deluxe\)](https://open.spotify.com/album/3z5ScTzthtKvfOzxc2XBE0) | 2:34 |
-| 2 | [Niko sawa](https://open.spotify.com/track/5qngyup4FX9ivdLKKndBJl) | [We are Nubia](https://open.spotify.com/artist/1zmGZWvguA8ei851WP7hSN) | [Niko sawa](https://open.spotify.com/album/220fL5qk6tfDExFC9AmGvS) | 3:02 |
-| 3 | [Far Away](https://open.spotify.com/track/0mgGRppM3zT42tslWmduUU) | [RUVA](https://open.spotify.com/artist/1WsTxIReCRobQIcvlFDul3) | [from RUVA to El Roi](https://open.spotify.com/album/4GuSLW3DJtppiGMUQq5Pz7) | 3:53 |
+| 1 | [Far Away](https://open.spotify.com/track/0mgGRppM3zT42tslWmduUU) | [RUVA](https://open.spotify.com/artist/1WsTxIReCRobQIcvlFDul3) | [from RUVA to El Roi](https://open.spotify.com/album/4GuSLW3DJtppiGMUQq5Pz7) | 3:53 |
+| 2 | [Trending](https://open.spotify.com/track/4Xik88j0lef96PqxYFR66a) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Muyeez \(Deluxe\)](https://open.spotify.com/album/3z5ScTzthtKvfOzxc2XBE0) | 2:34 |
+| 3 | [Niko sawa](https://open.spotify.com/track/5qngyup4FX9ivdLKKndBJl) | [We are Nubia](https://open.spotify.com/artist/1zmGZWvguA8ei851WP7hSN) | [Niko sawa](https://open.spotify.com/album/220fL5qk6tfDExFC9AmGvS) | 3:02 |
 | 4 | [C'est La Vie](https://open.spotify.com/track/6HLH0AbYxbGJ5qW5zEPMX7) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [C'est La Vie](https://open.spotify.com/album/2tbAwbxLXAxJPdGkPoXXCx) | 2:35 |
 | 5 | [Toxic Trends](https://open.spotify.com/track/1pPquaWmcvzLtO0nffSsLV) | [Mikhalé Jones](https://open.spotify.com/artist/7wVeyV9zIt2SBQlJ9DPuwf) | [Toxic Trends](https://open.spotify.com/album/0V3g6AqzVtFF7OFQSdqRrL) | 3:32 |
 | 6 | [Lover](https://open.spotify.com/track/4QZH6wpyyznGaNAk24DtLl) | [CN Amazing](https://open.spotify.com/artist/4cp5TnmcbIwjsJAznM15CC) | [Lover](https://open.spotify.com/album/3Eop2mkvqOaCjggYcx8e5z) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 49 | [Better Sober](https://open.spotify.com/track/4C35Ob3ugnFpjhShHc5BgS) | [Castro](https://open.spotify.com/artist/35o4S4FOdo7sF0mn2Qd2O8), [Ruguru](https://open.spotify.com/artist/1paCrsKnETPLpODHtQfSSW) | [Better Sober](https://open.spotify.com/album/0q9wBc1DkBuWC4ggl1yZpJ) | 5:26 |
 | 50 | [Hands](https://open.spotify.com/track/2l8Tq1GE30FOoBw4sPIcyb) | [Juliebrenda](https://open.spotify.com/artist/6kMq0qxhLpTLQM95zUvhmP), [Kobby Worldwide](https://open.spotify.com/artist/2ipmIVsOKJMwWHvsEaUYhu), [Ruguru](https://open.spotify.com/artist/1paCrsKnETPLpODHtQfSSW) | [Hands](https://open.spotify.com/album/6ljgQ6iAcGrXNp9TbTcptA) | 5:47 |
 
-Snapshot ID: `Zmrr5AAAAABIJ2XgpoC4nr/MDD052WIq`
+Snapshot ID: `ZnIRcAAAAABax4CXEvXgbUe1igEwVJ08`

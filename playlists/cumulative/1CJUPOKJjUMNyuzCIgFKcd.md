@@ -4,7 +4,7 @@
 
 > The freshest Hip Hop and R&amp;B.
 
-200 songs - 8 hr 46 min
+201 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Low Ball \- Remix](https://open.spotify.com/track/3gATPSCZYSJ9iV2yFB616z) | [Mgm Lett](https://open.spotify.com/artist/0IVKVUhWVCVX8jyHXN6IOb), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Don't Do Dat](https://open.spotify.com/album/6w0ZhVuFb7LgKxXmRqXPqF) | 3:43 | 2024-01-19 | 2024-05-21 |
 | [Luv the Sound](https://open.spotify.com/track/5zBlhAyJQlLt88lOVmPpUT) | [Eldorado Red](https://open.spotify.com/artist/2iHMRqfyow5ug68bezaxCc), [G.T.](https://open.spotify.com/artist/7LPqtwClp78XM85lJWaiKQ) | [Luv the Sound](https://open.spotify.com/album/1WpJ8gUajW01wd0f21WEYr) | 3:02 | 2024-03-15 |  |
 | [Luv To A Fck Song](https://open.spotify.com/track/6qDNh0axas6ZxjnMraUasM) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [7](https://open.spotify.com/album/5Sero7LzJaM1Pxp51FW2wY) | 3:18 | 2023-10-06 | 2024-01-20 |
+| [MADE BY RICH GOD](https://open.spotify.com/track/24Qa5EPrnrbvHoiEfbzf02) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [MADE BY RICH GOD](https://open.spotify.com/album/5S9y8ypcsF1gncyr6fQ1mJ) | 1:54 | 2024-06-18 |  |
 | [MAFIA & MILITIA \(feat\. BabyTron\)](https://open.spotify.com/track/0Jfh9rhwPoegyTVul05yR4) | [DaeMoney](https://open.spotify.com/artist/33IGJSFbZplSbhXcqtZTDg), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [MAFIA & MILITIA \(feat\. BabyTron\)](https://open.spotify.com/album/3yIPZjDDMqsnxze575vzbF) | 2:26 | 2024-01-12 | 2024-05-21 |
 | [MAKE IT HOT](https://open.spotify.com/track/1ETvswRlijobMKkLKTfHvJ) | [Ron Suno](https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9) | [MAKE IT HOT](https://open.spotify.com/album/6nho8M9Q3oqB5rV7dZfeH7) | 1:45 | 2023-09-28 | 2024-01-13 |
 | [Man Up](https://open.spotify.com/track/2RqkLttkL59wqTbGd9VbaB) | [Cash Kidd](https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu), [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF) | [No Socks 3](https://open.spotify.com/album/0TuZ9izuLgcVvN7dKyqRRb) | 3:24 | 2023-09-29 | 2024-01-13 |
@@ -163,7 +164,7 @@
 | [Scarred](https://open.spotify.com/track/5S3KAtWAkHmsmsk0BCjVFi) | [SNUPE BANDZ](https://open.spotify.com/artist/72ltK39qT3DgtiCZgOAaGs) | [Scarred](https://open.spotify.com/album/1LeDjsCPnuisL31DyZmNK9) | 2:29 | 2024-01-19 | 2024-05-21 |
 | [Sexiest Soul](https://open.spotify.com/track/1DeFiZgMZh93zAkszWaGVz) | [Danny Towers](https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu), [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL), [Lonny Love](https://open.spotify.com/artist/4AROj468VOYU9TFJD8KcOm) | [Sexiest Soul](https://open.spotify.com/album/72jsSqGStDlREVxc5DT9nd) | 2:26 | 2024-03-15 |  |
 | [She Sexy](https://open.spotify.com/track/6vbR1YuCZwMew0gajfEeMW) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb) | [She Sexy](https://open.spotify.com/album/7hvhvTRHBlJ23NB84Uqat4) | 2:13 | 2024-04-24 |  |
-| [Shot Caller](https://open.spotify.com/track/6enDzOsAXFajdU3HclV4Cz) | [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef), [ZayBang](https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG) | [Shot Caller](https://open.spotify.com/album/2iisvKalcg2nTNbYmjBRD8) | 2:31 | 2023-12-01 | 2024-03-05 |
+| [Shot Caller](https://open.spotify.com/track/6enDzOsAXFajdU3HclV4Cz) | [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef), [ZayBang](https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG) | [Shot Caller](https://open.spotify.com/album/2iisvKalcg2nTNbYmjBRD8) | 2:31 | 2023-12-01 |  |
 | [Shy Kid](https://open.spotify.com/track/5wnRBkl2S25GSTS5WqJVJ0) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Shy Kid](https://open.spotify.com/album/6R1HQ5z8g0kBdAz7QKW2sG) | 2:20 | 2024-03-25 |  |
 | [Slut](https://open.spotify.com/track/1wUfiYLufb6YYAKybkYick) | [Jimbo World](https://open.spotify.com/artist/2SOPsk10xOOjO0M1oyNCmu) | [Slut](https://open.spotify.com/album/5eQeQFSdayNYNOgXEqz8os) | 2:21 | 2023-08-11 | 2023-11-18 |
 | [SNA!](https://open.spotify.com/track/2fSad0CA0zitpRWsZWKvwq) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [SNA!](https://open.spotify.com/album/2YjKD34MexENYYHb3uFqIw) | 2:08 | 2024-04-24 |  |

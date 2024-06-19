@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Tommy Richman
 
-4,451 songs - 10 day 0 hr 41 min
+4,452 songs - 10 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2601,6 +2601,7 @@
 | [MULTIMILLIONAIRE \(w/ Trippie Redd & Odetari\)](https://open.spotify.com/track/4JC0XKvkodYsMurv5khQWI) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [MULTIMILLIONAIRE \(w/ Trippie Redd & Odetari\)](https://open.spotify.com/album/5FmiDGF563dGPCfCLaiUKU) | 2:01 | 2024-01-18 | 2024-01-26 |
 | [Multiply](https://open.spotify.com/track/0d8qNWRwQafcOXAyw6FxiB) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Multiply](https://open.spotify.com/album/0aniMlLzu8HCWo6wXDgh75) | 2:28 | 2024-05-31 | 2024-06-07 |
 | [Mum Warned You](https://open.spotify.com/track/3cqUED1HDoC84xEPmgNAgR) | [Hoodzy](https://open.spotify.com/artist/5KVPKttcRMdxr9InQpeeDz) | [Mum Warned You](https://open.spotify.com/album/2b1IETeDPKNSB8gW05Q54j) | 2:20 | 2023-08-10 | 2023-08-18 |
+| [MUSCLE](https://open.spotify.com/track/2feyIPw7iHgdaMYRskMTuK) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [MUSCLE](https://open.spotify.com/album/7bzkCKNKQQTlHKbEdEuOBH) | 2:29 | 2024-06-13 |  |
 | [Music On The Radio](https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Music On The Radio](https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv) | 2:56 | 2024-05-16 | 2024-05-24 |
 | [Musica](https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Musica](https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc) | 2:57 | 2023-11-23 | 2023-12-01 |
 | [Mustang](https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mustang](https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW) | 3:14 | 2024-02-22 | 2024-03-01 |

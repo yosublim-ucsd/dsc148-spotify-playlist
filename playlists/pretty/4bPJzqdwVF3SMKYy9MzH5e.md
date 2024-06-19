@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,913 songs - 4 day 7 hr 2 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,914 songs - 4 day 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1921,5 +1921,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1911 | [puke my gutzz O\_o](https://open.spotify.com/track/6kqlHdAgxs12KJCrnVKfht) | [zeija](https://open.spotify.com/artist/6m8acOBf7WOpC5ikjqcRTr) | [puke my gutzz O\_o](https://open.spotify.com/album/3UFtX4dv9LcSJ4Q1DubVzL) | 2:26 |
 | 1912 | [365](https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 |
 | 1913 | [Pop like this Pt\. 2](https://open.spotify.com/track/2Ct0MnmqHDvjLqpi5gxcSM) | [prodbycpkshawn](https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z) | [Pop like this Pt\. 2](https://open.spotify.com/album/6pNuMVebkxgLAeQsYOQNyQ) | 1:39 |
+| 1914 | [2012\_NoSekai](https://open.spotify.com/track/69XMn0nw3zBnU8DsflK1mo) | [Starcatcher](https://open.spotify.com/artist/7DaEbrXZus2RbkmXGtxhjT) | [2012\_NoSekai](https://open.spotify.com/album/07nkoN1P5IBUr7bQleUurv) | 2:45 |
 
-Snapshot ID: `AAADFekLuax+jV+ljgeGF/k17YPCtSI8`
+Snapshot ID: `AAADFm+Jqb7PBsmEICnp1y/7vtWshlgE`

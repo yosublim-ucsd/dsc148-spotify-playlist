@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-04-26",
   "description": "Updated daily, with the latest popular singles!",
-  "name": "NEW SINGLES RELEASES | UPDATED 18 JUN",
+  "name": "NEW SINGLES RELEASES | UPDATED 19 JUN",
   "tracks": [
     {
       "album": {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 173022,
       "name": "2 Million Secrets",
       "url": "https://open.spotify.com/track/3NdaK14IqqJ2nTJcpB2HLY"
@@ -464,7 +464,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 164178,
       "name": "Adore U",
       "url": "https://open.spotify.com/track/5qQHPdQaiLkIrRjMBFTbuz"
@@ -966,7 +966,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 213954,
       "name": "Back to You",
       "url": "https://open.spotify.com/track/0NCV1LFqZdk2CAAfvb0L2G"
@@ -1829,6 +1829,24 @@
     },
     {
       "album": {
+        "name": "Break My Lying Tongue",
+        "url": "https://open.spotify.com/album/6c98Sbfq18dN7DYxxLIOUs"
+      },
+      "artists": [
+        {
+          "name": "VOLA",
+          "url": "https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230160,
+      "name": "Break My Lying Tongue",
+      "url": "https://open.spotify.com/track/5mkuAmQFK8QxgH1FVlJhAF"
+    },
+    {
+      "album": {
         "name": "Break My Rules",
         "url": "https://open.spotify.com/album/2Igl6wWMOmW2P668FCzkRQ"
       },
@@ -1862,6 +1880,24 @@
       "duration_ms": 95497,
       "name": "breakcore for when im horny",
       "url": "https://open.spotify.com/track/6HZCXwp9Hnpt17Cz9CmTyL"
+    },
+    {
+      "album": {
+        "name": "Bring Back The Beat",
+        "url": "https://open.spotify.com/album/71qCLGh8kLzsm8PrRok8gx"
+      },
+      "artists": [
+        {
+          "name": "Pixey",
+          "url": "https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193527,
+      "name": "Bring Back The Beat",
+      "url": "https://open.spotify.com/track/10HGnM2Bo6BGYAlcrC6N5O"
     },
     {
       "album": {
@@ -2769,6 +2805,24 @@
     },
     {
       "album": {
+        "name": "Conditional Love",
+        "url": "https://open.spotify.com/album/5UwkonJSnqsKj1TvgJqrJf"
+      },
+      "artists": [
+        {
+          "name": "Liela Moss",
+          "url": "https://open.spotify.com/artist/69yCD4Jh0p9vCdm6WbhWx6"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216222,
+      "name": "Conditional Love",
+      "url": "https://open.spotify.com/track/7eXxyueEyAfaZI4Dkj0S16"
+    },
+    {
+      "album": {
         "name": "Confusion Song",
         "url": "https://open.spotify.com/album/3TsIzke1clyxvsgzCjn3Y5"
       },
@@ -3009,6 +3063,24 @@
     },
     {
       "album": {
+        "name": "Dancing Waters Club",
+        "url": "https://open.spotify.com/album/6Wk8CFfGT6JgxvpWxntd1e"
+      },
+      "artists": [
+        {
+          "name": "Modern Color",
+          "url": "https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158185,
+      "name": "Dancing Waters Club",
+      "url": "https://open.spotify.com/track/6sgODTGvaqBOP8Wpfwzbxq"
+    },
+    {
+      "album": {
         "name": "Danimarca",
         "url": "https://open.spotify.com/album/01yiaCziEOgYtQZggS6hYA"
       },
@@ -3024,7 +3096,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 166000,
       "name": "Danimarca",
       "url": "https://open.spotify.com/track/5bkUPNhCQ3LlUEnOT9jQW3"
@@ -3150,7 +3222,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 165250,
       "name": "DeLorean",
       "url": "https://open.spotify.com/track/71A9JeZh0wVW3NT6QnTw3n"
@@ -3472,7 +3544,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 206257,
       "name": "Doors Down",
       "url": "https://open.spotify.com/track/7sXSM87Kg9U4QFsVEklmaG"
@@ -3592,7 +3664,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 144413,
       "name": "Dreamlike - orchestral",
       "url": "https://open.spotify.com/track/2jwlaf1skvY0QEC4I38coo"
@@ -4517,6 +4589,24 @@
     },
     {
       "album": {
+        "name": "Follow You",
+        "url": "https://open.spotify.com/album/34O2W8EIX2LGMztjbj8HhY"
+      },
+      "artists": [
+        {
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264020,
+      "name": "Follow You",
+      "url": "https://open.spotify.com/track/1Q2pf5I7eyZZvENC2eIYZP"
+    },
+    {
+      "album": {
         "name": "Foreclosure",
         "url": "https://open.spotify.com/album/7poB9nXfbOkjEwRFJaw8iK"
       },
@@ -4987,6 +5077,28 @@
     },
     {
       "album": {
+        "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
+        "url": "https://open.spotify.com/album/0ox9tbhuvpoGllNRJ87IOe"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239306,
+      "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
+      "url": "https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ"
+    },
+    {
+      "album": {
         "name": "God Speed",
         "url": "https://open.spotify.com/album/3DFGO7JzRYsggCrwukYKYr"
       },
@@ -5020,7 +5132,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 118282,
       "name": "going crazy",
       "url": "https://open.spotify.com/track/1GzUELvTaP9xjmxtp0YRJf"
@@ -5288,7 +5400,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 217529,
       "name": "HEAT",
       "url": "https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD"
@@ -5498,7 +5610,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 201000,
       "name": "His Lies",
       "url": "https://open.spotify.com/track/1sq1EJ9C5LSMgaPCzaqaic"
@@ -5534,7 +5646,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 146751,
       "name": "HOLY SHIT",
       "url": "https://open.spotify.com/track/6PUisWlSS8JljqmKmOtW5P"
@@ -6363,6 +6475,24 @@
     },
     {
       "album": {
+        "name": "JJ",
+        "url": "https://open.spotify.com/album/3z9oyjyM2uGQeEgaxo0V9s"
+      },
+      "artists": [
+        {
+          "name": "Wand",
+          "url": "https://open.spotify.com/artist/53by9P3tpXOW1diWCI6MNu"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245888,
+      "name": "JJ",
+      "url": "https://open.spotify.com/track/4BIlZxblkkzACZlp9fVWqx"
+    },
+    {
+      "album": {
         "name": "Joker",
         "url": "https://open.spotify.com/album/3C5hemEZFqLPsfbiW1tm70"
       },
@@ -6444,7 +6574,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 170206,
       "name": "just not sure",
       "url": "https://open.spotify.com/track/66GoQ5s67RsxaZPeLbYdoV"
@@ -7239,6 +7369,24 @@
     },
     {
       "album": {
+        "name": "Lucid Girl",
+        "url": "https://open.spotify.com/album/2cvZWTjXfM06uspaYuW60w"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202573,
+      "name": "Lucid Girl",
+      "url": "https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV"
+    },
+    {
+      "album": {
         "name": "Lucy Takes a Picture",
         "url": "https://open.spotify.com/album/1dQQ661oLGGtZ1fC1dj6dx"
       },
@@ -7596,7 +7744,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 166619,
       "name": "Mink",
       "url": "https://open.spotify.com/track/5x6ufTZrcowzAQXq97MIQu"
@@ -8548,7 +8696,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 164833,
       "name": "Off Dat Drank",
       "url": "https://open.spotify.com/track/1z3X66BhWXsSr7lHlSCiDW"
@@ -8690,6 +8838,44 @@
       "duration_ms": 168218,
       "name": "Orange-coloured day",
       "url": "https://open.spotify.com/track/3jXy5FvEftfAWa6Bk5ukAy"
+    },
+    {
+      "album": {
+        "name": "Our Promise",
+        "url": "https://open.spotify.com/album/6vPOhImLKE16pWr21DNlxP"
+      },
+      "artists": [
+        {
+          "name": "IRyS",
+          "url": "https://open.spotify.com/artist/7y1hO3QeftnOJmWCbzeZav"
+        },
+        {
+          "name": "Ceres Fauna",
+          "url": "https://open.spotify.com/artist/76xXQq2nPiexRDstB9MY70"
+        },
+        {
+          "name": "Ouro Kronii",
+          "url": "https://open.spotify.com/artist/1LLRRrE5gZ3964ThLvo2nu"
+        },
+        {
+          "name": "Nanashi Mumei",
+          "url": "https://open.spotify.com/artist/3LWmimMpybGBGCjuvFqhAT"
+        },
+        {
+          "name": "Hakos Baelz",
+          "url": "https://open.spotify.com/artist/3h5FLKIAPF9O96Sdz2j4Jb"
+        },
+        {
+          "name": "hololive English -Promise-",
+          "url": "https://open.spotify.com/artist/57uZJwOo14YiRqK0ekqNyf"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238791,
+      "name": "Our Promise - Instrumental",
+      "url": "https://open.spotify.com/track/0BWyR9sRFcVUt1RnWiyM92"
     },
     {
       "album": {
@@ -8868,7 +9054,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 165517,
       "name": "Paraca\u00eddas",
       "url": "https://open.spotify.com/track/5nHI1ntEJAmVtBX9j8BHCF"
@@ -8962,6 +9148,24 @@
       "duration_ms": 183481,
       "name": "Petco",
       "url": "https://open.spotify.com/track/6CovIpwJhaHiu5vDFWGQAE"
+    },
+    {
+      "album": {
+        "name": "Phoneglow / Eyes Go Blank",
+        "url": "https://open.spotify.com/album/64icg3faDn1lGsYpinu6eg"
+      },
+      "artists": [
+        {
+          "name": "Burial",
+          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 550680,
+      "name": "Phoneglow",
+      "url": "https://open.spotify.com/track/5EZcvtoZohyR3RdxgW85j9"
     },
     {
       "album": {
@@ -9949,6 +10153,24 @@
     },
     {
       "album": {
+        "name": "SABOTAGE",
+        "url": "https://open.spotify.com/album/5xIQ5P9THWkpmrG2MxiuoL"
+      },
+      "artists": [
+        {
+          "name": "KWON EUNBI",
+          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195613,
+      "name": "SABOTAGE",
+      "url": "https://open.spotify.com/track/3jUnWCtIwlP9ABJWIiqrCe"
+    },
+    {
+      "album": {
         "name": "Sacrifice Tomorrow",
         "url": "https://open.spotify.com/album/0GVkcfu3pkAdakG3oIt5cu"
       },
@@ -10242,6 +10464,50 @@
       "duration_ms": 166162,
       "name": "shaniatwainlovestory",
       "url": "https://open.spotify.com/track/4S6r4rZ2wwHPMmgNtjyEm9"
+    },
+    {
+      "album": {
+        "name": "Shawty Stared Back at Me Like I Was Giving Her Backshots",
+        "url": "https://open.spotify.com/album/2EfxbHS9EolpkAwlQzvaD5"
+      },
+      "artists": [
+        {
+          "name": "Acidgvrl",
+          "url": "https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f"
+        },
+        {
+          "name": "Y\u00fbmi",
+          "url": "https://open.spotify.com/artist/3m8rTxRDybQjzmsC0DU1ni"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148685,
+      "name": "Shawty Stared Back at Me Like I Was Giving Her Backshots",
+      "url": "https://open.spotify.com/track/2zZdVDDjXX5UDbcX9SqdzC"
+    },
+    {
+      "album": {
+        "name": "She's Gone",
+        "url": "https://open.spotify.com/album/2mltz39rKtbfoA1AMUg8pa"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "RMB Justize",
+          "url": "https://open.spotify.com/artist/2xLhxXgR236ZtWjZOfa0Kd"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203999,
+      "name": "She's Gone",
+      "url": "https://open.spotify.com/track/1NeUglnMqwjsRGfT1gPPiH"
     },
     {
       "album": {
@@ -11755,6 +12021,24 @@
     },
     {
       "album": {
+        "name": "The Medium",
+        "url": "https://open.spotify.com/album/6t2cp8jvrAYGrCB9UMEp1Y"
+      },
+      "artists": [
+        {
+          "name": "Crack Cloud",
+          "url": "https://open.spotify.com/artist/10butpS2A0V5nRIu2YDrKI"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276813,
+      "name": "The Medium",
+      "url": "https://open.spotify.com/track/79lTOsoJPNhsPVJo4BSaPy"
+    },
+    {
+      "album": {
         "name": "The Phoenix",
         "url": "https://open.spotify.com/album/1SEV27nriwhX4LiK3BoEfe"
       },
@@ -12675,6 +12959,24 @@
     },
     {
       "album": {
+        "name": "We Get By",
+        "url": "https://open.spotify.com/album/1L1EF7JK2LXXC6HVtQVtUh"
+      },
+      "artists": [
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209002,
+      "name": "We Get By",
+      "url": "https://open.spotify.com/track/4AdiTCMYdGx52WZOh3by6P"
+    },
+    {
+      "album": {
         "name": "We Say Goodbye",
         "url": "https://open.spotify.com/album/7x1odOgxt7VRV2Tj4XQYU2"
       },
@@ -13033,6 +13335,24 @@
     },
     {
       "album": {
+        "name": "Winter Storm Vigilantes",
+        "url": "https://open.spotify.com/album/4JHwxd0eitIEtYQU3ffGPs"
+      },
+      "artists": [
+        {
+          "name": "Ensiferum",
+          "url": "https://open.spotify.com/artist/0krXCIkthz13P8o0v2tksH"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312426,
+      "name": "Winter Storm Vigilantes",
+      "url": "https://open.spotify.com/track/7FBdViGNTaDNc2sl6MWGew"
+    },
+    {
+      "album": {
         "name": "Wise Up",
         "url": "https://open.spotify.com/album/1IROPd6PTUoA3o9tqTvRiL"
       },
@@ -13370,7 +13690,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 144565,
       "name": "you won't regret",
       "url": "https://open.spotify.com/track/6huZYEaGs7oiMvO4hcmbhl"

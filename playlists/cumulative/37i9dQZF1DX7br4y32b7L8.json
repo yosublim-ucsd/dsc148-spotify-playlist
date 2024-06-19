@@ -621,6 +621,36 @@
     },
     {
       "album": {
+        "name": "Doris",
+        "url": "https://open.spotify.com/album/3Xc09hPzm3HsCtOakaOTOO"
+      },
+      "artists": [
+        {
+          "name": "Rich2Gether",
+          "url": "https://open.spotify.com/artist/7JEKwHEyxkl7GMIZmTVllb"
+        },
+        {
+          "name": "BKO",
+          "url": "https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd"
+        },
+        {
+          "name": "Blow",
+          "url": "https://open.spotify.com/artist/08tVNJseE5WyRIxjZA7KCW"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202414,
+      "name": "Bad Behaviour",
+      "url": "https://open.spotify.com/track/3lG94qBfaZGcO5Pbz4UTfO"
+    },
+    {
+      "album": {
         "name": "The Ringmaster",
         "url": "https://open.spotify.com/album/6gVyolnWeV2RyvzxxFIvro"
       },
@@ -8738,6 +8768,24 @@
       "duration_ms": 212459,
       "name": "Thrill",
       "url": "https://open.spotify.com/track/2Nr0XHZuIGd9EwhdM3FojG"
+    },
+    {
+      "album": {
+        "name": "Spijt Is Iets Voor Later",
+        "url": "https://open.spotify.com/album/6d8hSrvIeJoUbeQ6iYAFZx"
+      },
+      "artists": [
+        {
+          "name": "Racoon",
+          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236352,
+      "name": "Tijd Verliezen",
+      "url": "https://open.spotify.com/track/6tcCTgpI1JWsgReB9ttSUD"
     },
     {
       "album": {

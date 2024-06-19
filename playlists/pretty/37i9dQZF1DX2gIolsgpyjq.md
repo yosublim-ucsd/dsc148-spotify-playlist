@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: AKA lisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,526 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,536 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 7 | [OFTEN](https://open.spotify.com/track/6lx8boMh0kWEeXubQawkWS) | [ORZC](https://open.spotify.com/artist/37oTmLY6rQTgMe4v8afZqE) | [OFTEN](https://open.spotify.com/album/0lYNraGyhY09SzMS8LNOc0) | 3:04 |
 | 8 | [Good Riddance](https://open.spotify.com/track/0pnmZiwIMLCCkCoOhtLnnh) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Good Riddance](https://open.spotify.com/album/6jkkWXtKtdAxip4kYJMaJL) | 2:51 |
 | 9 | [I Just Needed You To Know](https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [I Just Needed You To Know](https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch) | 4:35 |
-| 10 | [left me to die](https://open.spotify.com/track/7nrEb8wSNXpJVYCnBSRMFT) | [SNOWCAP](https://open.spotify.com/artist/5XPbeLxKTyTpYVpQ4LdtmX), [Mike Hawkins](https://open.spotify.com/artist/0eW2N88UpBG0giW7LJOaY2) | [left me to die](https://open.spotify.com/album/6aNgrN0bRdHNBUThWBUJzB) | 2:53 |
+| 10 | [left me to die](https://open.spotify.com/track/7nrEb8wSNXpJVYCnBSRMFT) | [SNOWCAP](https://open.spotify.com/artist/5XPbeLxKTyTpYVpQ4LdtmX) | [left me to die](https://open.spotify.com/album/6aNgrN0bRdHNBUThWBUJzB) | 2:53 |
 | 11 | [C'est La Vie](https://open.spotify.com/track/53M8zOUR70Ge8XBl80lxt8) | [Lucky Lou](https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2) | [Dance Melancholia](https://open.spotify.com/album/5KJOMqOTmhEL4MwLjH72kX) | 3:22 |
 | 12 | [Follow](https://open.spotify.com/track/23zsgE928KYBi7taB6XMqG) | [AGGi](https://open.spotify.com/artist/1Vd4zITUpdG9sIb2no0e9c) | [Follow](https://open.spotify.com/album/35DIUgKZx3rfZO9bEo027C) | 3:20 |
 | 13 | [Nightrun](https://open.spotify.com/track/5uL8V8oTBMrrvCukk5ydTi) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Nightrun](https://open.spotify.com/album/2cL87H8knMEobbnZpFFSSA) | 4:25 |

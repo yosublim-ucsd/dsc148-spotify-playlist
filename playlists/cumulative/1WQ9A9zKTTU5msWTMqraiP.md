@@ -4,7 +4,7 @@
 
 > Deathcore Playlist
 
-249 songs - 17 hr 19 min
+250 songs - 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Plague Worship](https://open.spotify.com/track/5BaHeAkB2ZHdZWNsAKSxsV) | [Arbitrator US](https://open.spotify.com/artist/75TReitEyM9mg5GveIkgw8) | [Plague Worship](https://open.spotify.com/album/7zeyPY4zARyWw69LeASn9g) | 4:10 | 2022-07-11 |  |
 | [Point of Impact](https://open.spotify.com/track/45soneFOwzPOLS3xQSQ799) | [S/CK](https://open.spotify.com/artist/1ikHYDze7dGKNmfPP7l3RU) | [Point of Impact](https://open.spotify.com/album/42UDEJe5nNGGM7tpZLT7OK) | 5:18 | 2022-02-20 |  |
 | [Pray For Plagues](https://open.spotify.com/track/19lJGacExd741OIZu95Sz8) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [2004 \- 2013](https://open.spotify.com/album/0reSOAbCJcwHjf07u5i7Kn) | 4:21 | 2018-07-22 |  |
+| [Radiance](https://open.spotify.com/track/7mdh10Y5dQsa3O0sYMM4zv) | [Fire Keeper](https://open.spotify.com/artist/5fiapO3g8KTdvJAzQU8fzB), [Andy Cizek](https://open.spotify.com/artist/0C5fT1ymHhTRTrSVhDYUta) | [Firekeeper](https://open.spotify.com/album/24uoKtYpdhurXvMI2uxnzu) | 4:20 | 2024-06-18 |  |
 | [Ragnarok](https://open.spotify.com/track/3zcgrRArvtbDjfWoLwO6Ad) | [Devin to Embers](https://open.spotify.com/artist/080UMJegrSPZ41Vm98fkGG) | [Ragnarok](https://open.spotify.com/album/6GR6cNCXqAffI9lU2zSTOb) | 7:35 | 2022-02-20 |  |
 | [Reincarnate](https://open.spotify.com/track/7sJILYi4Ozu7IJAbW1Pn8a) | [Disembodied Tyrant](https://open.spotify.com/artist/6Mik5bw5uqwmpwjvc5PGYk) | [Reincarnate](https://open.spotify.com/album/08grjVCVEYSv6Gz4KlzJWj) | 4:24 | 2022-06-19 |  |
 | [RELIGIOUS CREATION](https://open.spotify.com/track/5RMOp0fZUVSJhxuhsP82Kn) | [Bloodletting Prince](https://open.spotify.com/artist/5CkxzGQzjy3OBZ8WoAKPVl) | [RELIGIOUS CREATION](https://open.spotify.com/album/4KgX9LYjHeJd9Bs7jPsBx6) | 4:36 | 2022-07-11 |  |

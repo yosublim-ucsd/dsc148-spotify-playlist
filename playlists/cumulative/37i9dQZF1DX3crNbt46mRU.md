@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Vegedream
 
-12,577 songs - 26 day 5 hr 12 min
+12,578 songs - 26 day 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6096,7 +6096,7 @@
 | [Kommissar](https://open.spotify.com/track/7dxd8383qb0FnMbnqQWRUW) | [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Noah](https://open.spotify.com/artist/4lR4w01uPOblBqpIAzuCzL) | [Kommissar](https://open.spotify.com/album/3OxqeUO8SlrPTfaqltP6ao) | 2:33 | 2023-02-16 | 2023-02-24 |
 | [Kompatibel](https://open.spotify.com/track/2hEK2vznvSVK5UqEW9JxeY) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [Kompatibel](https://open.spotify.com/album/5ir5SdASHTZDduCVG3ZUjH) | 2:10 | 2023-05-11 | 2023-05-19 |
 | [Kompliment](https://open.spotify.com/track/7gFXqtfRe2PxvZvw4SSHh9) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [VIVA](https://open.spotify.com/album/3dRRns3DlKhniDmwH0exPC) | 2:45 | 2024-03-21 | 2024-03-29 |
-| [Kompliziert](https://open.spotify.com/track/1flZCmMHxyiTbECxXgSmdE) | [Christoph Sakwerda](https://open.spotify.com/artist/04R6CrSnQeDoB6j6Z7x8Lq), [Manith Bertz](https://open.spotify.com/artist/46QiTWb30K45FoB3rAUXFE) | [Kompliziert](https://open.spotify.com/album/4F8HG29Z93i5nLtZFTpR44) | 2:35 | 2024-06-13 |  |
+| [Kompliziert](https://open.spotify.com/track/1flZCmMHxyiTbECxXgSmdE) | [Christoph Sakwerda](https://open.spotify.com/artist/04R6CrSnQeDoB6j6Z7x8Lq) | [Kompliziert](https://open.spotify.com/album/4F8HG29Z93i5nLtZFTpR44) | 2:35 | 2024-06-13 |  |
 | [Kompliziert](https://open.spotify.com/track/0NsoqskrRIb9amJR4IbAcO) | [Eliel](https://open.spotify.com/artist/6C9i3RVSphPtysb5zQjBvG), [Rojhat](https://open.spotify.com/artist/1jLf7MGXIhsvPy3p6a6CDz) | [Kompliziert](https://open.spotify.com/album/0flzLbFhVmZYltCDGZmdMj) | 3:08 | 2023-09-28 | 2023-10-06 |
 | [Kompliziert](https://open.spotify.com/track/0VKqezUMwDKWAT7WqR373A) | [Leon Machère](https://open.spotify.com/artist/4NMbgO5NL6aXzSmQzAAYPP), [Nessa](https://open.spotify.com/artist/0To8tjDBkD8g2KMw2oGKT0) | [Kompliziert](https://open.spotify.com/album/07TH0h4wromnLSjgzL2X6V) | 2:34 | 2023-03-09 | 2023-03-18 |
 | [Kong 2.0](https://open.spotify.com/track/11xyATb8URhEFt5QKHgYZN) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Kong 2.0](https://open.spotify.com/album/4KUHWZWKbwWosKAc4rKMHi) | 3:22 | 2022-05-12 | 2022-05-20 |
@@ -7528,6 +7528,7 @@
 | [MULTIMILLIONÄR](https://open.spotify.com/track/0NP24anhYppYBA9gBSS6WG) | [Fard](https://open.spotify.com/artist/7iZ5x5fwRwROoX3iRWpVgN) | [MULTIMILLIONÄR](https://open.spotify.com/album/5JSLa0JlItUjBirfQbu0Aw) | 2:49 | 2022-04-14 | 2022-04-22 |
 | [Multiply](https://open.spotify.com/track/0d8qNWRwQafcOXAyw6FxiB) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Multiply](https://open.spotify.com/album/0aniMlLzu8HCWo6wXDgh75) | 2:28 | 2024-05-30 | 2024-06-07 |
 | [Murphy's Law](https://open.spotify.com/track/2Ybpac1OJA6mUzemSeA3b0) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Murphy's Law](https://open.spotify.com/album/1pbpGw8X7oefRh0hJa4MgE) | 3:07 | 2023-05-25 | 2023-06-02 |
+| [MUSCLE](https://open.spotify.com/track/2feyIPw7iHgdaMYRskMTuK) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [MUSCLE](https://open.spotify.com/album/7bzkCKNKQQTlHKbEdEuOBH) | 2:29 | 2024-06-13 |  |
 | [Music On The Radio](https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Music On The Radio](https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv) | 2:56 | 2024-05-16 | 2024-05-24 |
 | [Music Sounds Better with You](https://open.spotify.com/track/1djIwYoEhJj8xvcFeq2mWz) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y) | [Music Sounds Better with You](https://open.spotify.com/album/035YWVXzYCTD4ImhwCynSk) | 2:10 | 2022-04-07 | 2022-04-15 |
 | [Musica Italiana](https://open.spotify.com/track/3m2loz99NJ3z8UYEFcFdmS) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [Musica Italiana](https://open.spotify.com/album/753BrMSZZPDcA4Ue5MdF6u) | 3:03 | 2024-04-04 | 2024-04-12 |

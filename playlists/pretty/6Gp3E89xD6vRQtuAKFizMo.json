@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44238,
+  "num_followers": 44239,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAZbt6ZlwsVCP4sfxQyd8QyL6iZ+q9L",
+  "snapshot_id": "AAAZb4b9E1hYLqA/N68WiCSEehEZ03vg",
   "tracks": [
+    {
+      "added_at": "2024-06-18 18:24:16",
+      "album": {
+        "name": "Enough For Me (feat. Livingston Crain)",
+        "url": "https://open.spotify.com/album/5UJH43CmBlwX6Bwuai8DiT"
+      },
+      "artists": [
+        {
+          "name": "JONJEN",
+          "url": "https://open.spotify.com/artist/7Fvv7NUrcjBwOC3r9wfgaI"
+        },
+        {
+          "name": "Livingston Crain",
+          "url": "https://open.spotify.com/artist/4RtqDXilSr5s7rDH0t7oRn"
+        }
+      ],
+      "duration_ms": 227628,
+      "name": "Enough For Me (feat. Livingston Crain)",
+      "url": "https://open.spotify.com/track/5dh9lSF8pKmAsAzXChRuDv"
+    },
     {
       "added_at": "2024-06-14 16:34:30",
       "album": {

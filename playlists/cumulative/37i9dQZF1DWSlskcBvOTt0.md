@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-680 songs - 2 day 14 hr 37 min
+681 songs - 2 day 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Balafonerra](https://open.spotify.com/track/5FTVEEK5afhsbfpHMFtb4f) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Balafonerra](https://open.spotify.com/album/5hMJmywK4dNUesJ5eWJouX) | 4:11 | 2022-05-27 | 2024-01-06 |
 | [Balsame](https://open.spotify.com/track/2LF7VlQAx7ijjya4P0e1gT) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m), [Arâm](https://open.spotify.com/artist/0MDj0UusjwHAAmMkFEY9Pj) | [Balsame](https://open.spotify.com/album/7eIvtzSNfV6ZfnRRF3gpFv) | 3:28 | 2022-04-08 | 2022-07-27 |
 | [Bambelela](https://open.spotify.com/track/3RKPSF709OU43ZKAK1vXfo) | [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi), [Candy Man](https://open.spotify.com/artist/6jeexjc4jgw4TN9Ql7Ccor), [Cornelius SA](https://open.spotify.com/artist/7t6WmbNSAbZJj4NDKMxH9N), [Nomvula SA](https://open.spotify.com/artist/6DPIZZxzcwWmBiTMmVYbyY) | [Bambelela](https://open.spotify.com/album/7IWJhqfX5zNmTRp26VGohY) | 7:35 | 2023-06-30 | 2023-08-19 |
+| [Barcelonia](https://open.spotify.com/track/4Pyng2GRqbQe4ElWkcendQ) | [Nathan Rux](https://open.spotify.com/artist/6otY3GdTYnxB2hH7nFhwfQ), [LuxNite](https://open.spotify.com/artist/20mcVTvGJs84aubOp0rTzV), [feva.](https://open.spotify.com/artist/17jt0BZZK9k3gonW1osVSH) | [Barcelonia](https://open.spotify.com/album/04XXrFIk5e84EOX3GTr4RH) | 2:53 | 2024-06-14 |  |
 | [Barry](https://open.spotify.com/track/3MaqvZYEU7OLgQLI0PLCtF) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Barry](https://open.spotify.com/album/6C3UM9S38mOz5Vo2quvECU) | 6:49 | 2022-12-16 | 2023-03-05 |
 | [Bataille's Will \- Oceanvs Orientalis Remix](https://open.spotify.com/track/35jUZgmjDmVyvchmhczt82) | [Emin Gök](https://open.spotify.com/artist/0G6CKdqtwYDdGOgqw3GSNE), [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg) | [Continuity](https://open.spotify.com/album/2P6JiDOFgHLOT4VsDR6NTw) | 5:31 | 2021-09-17 | 2022-07-29 |
 | [Bayati Shiraz \(feat\. Kenan Bayramli\)](https://open.spotify.com/track/4T5fdxoMBLOdUBb8CtRuNW) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Kənan Bayramlı](https://open.spotify.com/artist/2wW91AYNfhXggQoKJF6am9) | [Bayati Shiraz \(feat\. Kenan Bayramli\)](https://open.spotify.com/album/6huLdD5ZW7dOcrtlTRm1sf) | 3:34 | 2023-10-06 | 2024-03-27 |
@@ -241,7 +242,7 @@
 | [Harlem River](https://open.spotify.com/track/6fWwLxUoiAZpZtqOFwG1KL) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Harlem River / Falling](https://open.spotify.com/album/2McNZimRxQr0n7tpOVQYu7) | 4:37 | 2021-05-18 | 2022-07-29 |
 | [Harlem River](https://open.spotify.com/track/6gAM5yFXa4V54zUMR03QSp) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Under Darkening Skies](https://open.spotify.com/album/7fDsHkCbzW928mVa9irayU) | 4:37 | 2022-07-01 | 2023-09-30 |
 | [Harmony \- Yuksek Remix](https://open.spotify.com/track/41xzd23xVfhaaakS8sXgoR) | [Maestro](https://open.spotify.com/artist/0mmos1mLPBw28HzvFqBBTW), [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Harmony \(Yuksek Remix\)](https://open.spotify.com/album/4zuq7xnN11skfeBMUDLvjR) | 6:11 | 2021-04-21 | 2022-04-21 |
-| [Haze](https://open.spotify.com/track/1OJnrgbXv3YxEwgw9cDawF) | [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [Haze EP](https://open.spotify.com/album/4s208ZjKKt2tbSVD5EzKuF) | 3:03 | 2023-11-17 |  |
+| [Haze](https://open.spotify.com/track/1OJnrgbXv3YxEwgw9cDawF) | [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [Haze EP](https://open.spotify.com/album/4s208ZjKKt2tbSVD5EzKuF) | 3:03 | 2023-11-17 | 2024-06-19 |
 | [Haze \(Yamil Remix\)](https://open.spotify.com/track/77zuNmj82EubbK235evjeH) | [MNKYBSNSS](https://open.spotify.com/artist/7y93Bo1cpaMwqTCIxzVWFa), [Turbotito](https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5), [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Haze \(Yamil Remix\)](https://open.spotify.com/album/3RBmmfY2z3rIgh1igDj6at) | 4:08 | 2022-01-07 | 2022-07-29 |
 | [Hella feat\. Joy Tyson](https://open.spotify.com/track/3huk8B1aNp9txmknHOzsq2) | [Zigan Aldi](https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1), [Joy Tyson](https://open.spotify.com/artist/6okZ1Ydus7Xt6jlAv5d5Es) | [Hella EP](https://open.spotify.com/album/62UbFjkqOna0gmlRU1eGFT) | 5:18 | 2021-04-21 | 2022-04-23 |
 | [Here To Stay](https://open.spotify.com/track/0GDp1pEmSG9dOuJo53w2ha) | [Maga](https://open.spotify.com/artist/3SLZrLX47S9PmPRabiESVl), [Sean Doron](https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX), [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [Here To Stay](https://open.spotify.com/album/7q24QNVZWKvpIUrxuENhBX) | 6:41 | 2022-04-19 | 2022-08-04 |

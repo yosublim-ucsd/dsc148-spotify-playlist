@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "2 LOUD",
+        "url": "https://open.spotify.com/album/1533UIDsnAOCIqXEXgtdM9"
+      },
+      "artists": [
+        {
+          "name": "BY\u00d8RN",
+          "url": "https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303483,
+      "name": "2 LOUD",
+      "url": "https://open.spotify.com/track/6kxx5snJ8o2MG9FuCJuGAQ"
+    },
+    {
+      "album": {
         "name": "2003",
         "url": "https://open.spotify.com/album/2E928WZPSSBAmGPhujvSdF"
       },
@@ -500,7 +518,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 407842,
       "name": "Definition of Hard Techno - Lukas & Fernanda Martins Remix",
       "url": "https://open.spotify.com/track/3FhsfO5j8cD3a0xgHCAn9q"
@@ -1264,7 +1282,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 232478,
       "name": "LSD XTC (Do We Really Need)",
       "url": "https://open.spotify.com/track/6wDwOzcVzg2HOKQk969a5Q"
@@ -1326,6 +1344,36 @@
       "duration_ms": 164082,
       "name": "Meet Her At The Love Parade - Mixed Cut",
       "url": "https://open.spotify.com/track/5KcrlmHmiVV6tzmP8k2W1R"
+    },
+    {
+      "album": {
+        "name": "Meet Me In S\u00e3o Paulo (Grelinho De Diamante) (feat. Heavy Baile, Baby Perigosa & MC Tchelinho)",
+        "url": "https://open.spotify.com/album/6d0oiamRHpnu65xFI2jNax"
+      },
+      "artists": [
+        {
+          "name": "Shl\u00f8mo",
+          "url": "https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF"
+        },
+        {
+          "name": "Heavy Baile",
+          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
+        },
+        {
+          "name": "MC Tchelinho",
+          "url": "https://open.spotify.com/artist/2OMImVZQlaVtav9HoKxrbv"
+        },
+        {
+          "name": "Mc Baby Perigosa",
+          "url": "https://open.spotify.com/artist/4cozwOHA4R5HtklxTTV4o6"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309677,
+      "name": "Meet Me In S\u00e3o Paulo (Grelinho De Diamante)",
+      "url": "https://open.spotify.com/track/2uWlcCQw3nbQosOPkiLHQt"
     },
     {
       "album": {
@@ -1480,7 +1528,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 181675,
       "name": "Never Let Me Down",
       "url": "https://open.spotify.com/track/38MD66rssmeYXu3xwB36k5"
@@ -1996,7 +2044,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-19",
       "duration_ms": 183243,
       "name": "Sucia",
       "url": "https://open.spotify.com/track/65Vx8J63EtrVdsJrbGYxIr"

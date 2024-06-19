@@ -6,7 +6,7 @@
     "name": "Intact Records",
     "url": "https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q"
   },
-  "snapshot_id": "AAAW+nrf7xv4U9u3Oaka78SeJcy7iwcs",
+  "snapshot_id": "AAAW/ZVE2yhjtWciA9jpvYpgp0e9HqMQ",
   "tracks": [
     {
       "added_at": "2022-07-04 17:43:48",
@@ -211,6 +211,30 @@
       "duration_ms": 120966,
       "name": "Greedy",
       "url": "https://open.spotify.com/track/5kKdLMwwlnGbfCuhKV2oM2"
+    },
+    {
+      "added_at": "2024-06-18 15:39:56",
+      "album": {
+        "name": "Rockstars",
+        "url": "https://open.spotify.com/album/2px8RFwsVkje5ii4ynfBDh"
+      },
+      "artists": [
+        {
+          "name": "Honest Regrets",
+          "url": "https://open.spotify.com/artist/6WeJcp2maE7mFGx43ccufg"
+        },
+        {
+          "name": "Kid On The Block",
+          "url": "https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH"
+        },
+        {
+          "name": "Thomas Geelens",
+          "url": "https://open.spotify.com/artist/0fOACSuV2yErGIXJvBsIZz"
+        }
+      ],
+      "duration_ms": 127200,
+      "name": "Rockstars",
+      "url": "https://open.spotify.com/track/6uNH63cQYv2wfRo9iTaGQS"
     },
     {
       "added_at": "2024-05-31 07:42:22",

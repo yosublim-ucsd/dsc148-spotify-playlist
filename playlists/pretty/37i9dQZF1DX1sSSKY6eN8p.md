@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sSSKY6eN8p.md) - [plain]
 
 > Music From "Monster Hunter Now"! 音楽で辿る「Monster Hunter Now」の世界! © 2023 Niantic\. Characters / Artwork/ Music © CAPCOM CO., LTD.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,325 likes - 42 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,336 likes - 42 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

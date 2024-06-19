@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover: Ferry Corsten, 22Bullets, Couché
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 271,587 likes - 200 songs - 10 hr 48 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 271,574 likes - 200 songs - 10 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 199 | [Haunted](https://open.spotify.com/track/5JkmAuSvRMBzUVZFhl9E4a) | [Mees Salomé](https://open.spotify.com/artist/3vcY5vaGqSQF6UA9N2iC4L) | [Haunted](https://open.spotify.com/album/6pm3ViyHxpKHhxovNIyVF1) | 2:58 |
 | 200 | [Corazon \- Harry Romero Remix](https://open.spotify.com/track/0lT28ri6gK5J5PybVy7a1D) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [EMRIA](https://open.spotify.com/artist/0J5gqMi8znAsKAL4HluZkl), [Harry Romero](https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM) | [Corazon \(Harry Romero Remix\)](https://open.spotify.com/album/2c85hBhiSKiQKfS3ahUtop) | 3:54 |
 
-Snapshot ID: `AADRoe0x2Gpw6mtK2i5dUrHKYPQpAihj`
+Snapshot ID: `AADRtzSiJd54kxnWEJRAvDGOk3PIZc8z`

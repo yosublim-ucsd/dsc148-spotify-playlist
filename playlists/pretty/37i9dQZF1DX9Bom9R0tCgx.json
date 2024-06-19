@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 380441,
+  "num_followers": 380598,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -1199,8 +1199,8 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/3VCCl78VS8ZnDppo7pjIC8"
+        "name": "Dance For Me (1, 2, 3) [Stutter Techno]",
+        "url": "https://open.spotify.com/album/25YdkG6ZzOjou6uNQaC0NY"
       },
       "artists": [
         {
@@ -1208,13 +1208,21 @@
           "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
         },
         {
-          "name": "KAJAK",
-          "url": "https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt"
+          "name": "ZANA",
+          "url": "https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE"
+        },
+        {
+          "name": "Quinten Circle",
+          "url": "https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG"
+        },
+        {
+          "name": "Lyente",
+          "url": "https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0"
         }
       ],
-      "duration_ms": 192643,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/0GVQIYb9oqnGfpOLwTSJYZ"
+      "duration_ms": 147895,
+      "name": "Dance For Me (1, 2, 3) - Stutter Techno",
+      "url": "https://open.spotify.com/track/3JLpwzhVvYeotNSI4izQUV"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1307,8 +1315,8 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Dance For Me (1, 2, 3) [Stutter Techno]",
-        "url": "https://open.spotify.com/album/25YdkG6ZzOjou6uNQaC0NY"
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/3VCCl78VS8ZnDppo7pjIC8"
       },
       "artists": [
         {
@@ -1316,21 +1324,13 @@
           "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
         },
         {
-          "name": "ZANA",
-          "url": "https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE"
-        },
-        {
-          "name": "Quinten Circle",
-          "url": "https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG"
-        },
-        {
-          "name": "Lyente",
-          "url": "https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0"
+          "name": "KAJAK",
+          "url": "https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt"
         }
       ],
-      "duration_ms": 147895,
-      "name": "Dance For Me (1, 2, 3) - Stutter Techno",
-      "url": "https://open.spotify.com/track/3JLpwzhVvYeotNSI4izQUV"
+      "duration_ms": 192643,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/0GVQIYb9oqnGfpOLwTSJYZ"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1615,6 +1615,26 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Heaven (Million Miles Rework)",
+        "url": "https://open.spotify.com/album/2g22w07k3HC8TJGSX33KTu"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "HALIENE",
+          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+        }
+      ],
+      "duration_ms": 193629,
+      "name": "Heaven - Million Miles Rework",
+      "url": "https://open.spotify.com/track/492rfFS9Gc3mgBrAOiRpc1"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/4fJva6bj8LgmJP3fh2oQKx"
       },
@@ -1635,26 +1655,6 @@
       "duration_ms": 189257,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/7tU4LZnbwmf0mYMboISOzT"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Heaven (Million Miles Rework)",
-        "url": "https://open.spotify.com/album/2g22w07k3HC8TJGSX33KTu"
-      },
-      "artists": [
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        },
-        {
-          "name": "HALIENE",
-          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
-        }
-      ],
-      "duration_ms": 193629,
-      "name": "Heaven - Million Miles Rework",
-      "url": "https://open.spotify.com/track/492rfFS9Gc3mgBrAOiRpc1"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1779,18 +1779,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "FAKE ID (Techno)",
-        "url": "https://open.spotify.com/album/7f7YG5R9vr3ETq0mUfnzVe"
+        "name": "New Generation (Space 92 Remix)",
+        "url": "https://open.spotify.com/album/77RCWyzeOsqkIH0QFNdrjH"
       },
       "artists": [
         {
-          "name": "MAUD",
-          "url": "https://open.spotify.com/artist/3CNPVYQ9QnNxlrEBdHS4hx"
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        },
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
         }
       ],
-      "duration_ms": 105639,
-      "name": "FAKE ID - Techno",
-      "url": "https://open.spotify.com/track/7AcHMpUcnpJCsEsRQyvenv"
+      "duration_ms": 235111,
+      "name": "New Generation - Space 92 Remix",
+      "url": "https://open.spotify.com/track/5R83UKYem3OpSmWCvE3Yax"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1811,22 +1815,18 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "New Generation (Space 92 Remix)",
-        "url": "https://open.spotify.com/album/77RCWyzeOsqkIH0QFNdrjH"
+        "name": "FAKE ID (Techno)",
+        "url": "https://open.spotify.com/album/7f7YG5R9vr3ETq0mUfnzVe"
       },
       "artists": [
         {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        },
-        {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+          "name": "MAUD",
+          "url": "https://open.spotify.com/artist/3CNPVYQ9QnNxlrEBdHS4hx"
         }
       ],
-      "duration_ms": 235111,
-      "name": "New Generation - Space 92 Remix",
-      "url": "https://open.spotify.com/track/5R83UKYem3OpSmWCvE3Yax"
+      "duration_ms": 105639,
+      "name": "FAKE ID - Techno",
+      "url": "https://open.spotify.com/track/7AcHMpUcnpJCsEsRQyvenv"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Voodoo People",
-        "url": "https://open.spotify.com/album/2SA0Lmd4YWjX0HpahKTXB0"
-      },
-      "artists": [
-        {
-          "name": "Lonelysoul.",
-          "url": "https://open.spotify.com/artist/0SiRcOpdzIT5ea5SwdEQ37"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Voodoo People",
-      "url": "https://open.spotify.com/track/1GjP81Vfj8qjra1WHmYXji"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Out Of My Mind",
         "url": "https://open.spotify.com/album/3rnZIyoce2U7JbJUqeIavq"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 165018,
       "name": "Out Of My Mind",
       "url": "https://open.spotify.com/track/1L1pGDEfDIBPylK5prk1TK"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Voodoo People",
+        "url": "https://open.spotify.com/album/2SA0Lmd4YWjX0HpahKTXB0"
+      },
+      "artists": [
+        {
+          "name": "Lonelysoul.",
+          "url": "https://open.spotify.com/artist/0SiRcOpdzIT5ea5SwdEQ37"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Voodoo People",
+      "url": "https://open.spotify.com/track/1GjP81Vfj8qjra1WHmYXji"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/7ioeb14iIitWm03e7K9eXq"
-      },
-      "artists": [
-        {
-          "name": "Bisken",
-          "url": "https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf"
-        }
-      ],
-      "duration_ms": 134357,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/2kQ853vf9Z5rxjJCQRRQIL"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Atlantis",
         "url": "https://open.spotify.com/album/7tn97Br9XVlKBPYoNR7qmr"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 136800,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/7qOHKIBWU9ygcoYA7B23wP"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/7ioeb14iIitWm03e7K9eXq"
+      },
+      "artists": [
+        {
+          "name": "Bisken",
+          "url": "https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf"
+        }
+      ],
+      "duration_ms": 134357,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/2kQ853vf9Z5rxjJCQRRQIL"
     },
     {
       "added_at": "2024-06-13 22:00:00",

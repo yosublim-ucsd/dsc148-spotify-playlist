@@ -1,6 +1,6 @@
 {
   "description": "Si tocan a una respondemos todas.",
-  "num_followers": 57398,
+  "num_followers": 57407,
   "original_name": "Himnos de Sororidad",
   "owner": {
     "name": "Spotify",
@@ -355,18 +355,22 @@
     {
       "added_at": "2024-05-23 17:18:51",
       "album": {
-        "name": "La Cumbia Feminazi",
-        "url": "https://open.spotify.com/album/42tCTBqRe7XUhgMKUYjm6p"
+        "name": "B\u00e1ilalo Mujer",
+        "url": "https://open.spotify.com/album/3TqIGSpoilpG6QXGpwn5X5"
       },
       "artists": [
         {
-          "name": "Renee Goust",
-          "url": "https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K"
+          "name": "Flor De Rap",
+          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
+        },
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
         }
       ],
-      "duration_ms": 229713,
-      "name": "La Cumbia Feminazi",
-      "url": "https://open.spotify.com/track/7yXQbL33HEOGd7we8c3BOG"
+      "duration_ms": 172950,
+      "name": "B\u00e1ilalo Mujer",
+      "url": "https://open.spotify.com/track/1RdQkmD04McqnaiN76PohD"
     },
     {
       "added_at": "2024-05-23 17:18:51",
@@ -411,22 +415,18 @@
     {
       "added_at": "2024-05-23 17:18:51",
       "album": {
-        "name": "B\u00e1ilalo Mujer",
-        "url": "https://open.spotify.com/album/3TqIGSpoilpG6QXGpwn5X5"
+        "name": "La Cumbia Feminazi",
+        "url": "https://open.spotify.com/album/42tCTBqRe7XUhgMKUYjm6p"
       },
       "artists": [
         {
-          "name": "Flor De Rap",
-          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
-        },
-        {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+          "name": "Renee Goust",
+          "url": "https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K"
         }
       ],
-      "duration_ms": 172950,
-      "name": "B\u00e1ilalo Mujer",
-      "url": "https://open.spotify.com/track/1RdQkmD04McqnaiN76PohD"
+      "duration_ms": 229713,
+      "name": "La Cumbia Feminazi",
+      "url": "https://open.spotify.com/track/7yXQbL33HEOGd7we8c3BOG"
     },
     {
       "added_at": "2024-05-23 17:18:51",

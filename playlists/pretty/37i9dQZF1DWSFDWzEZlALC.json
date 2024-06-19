@@ -1,12 +1,12 @@
 {
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: BRUCKNER",
-  "num_followers": 426171,
+  "num_followers": 426319,
   "original_name": "Wilde Herzen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmtr4AAAAAAB9zk0WzpOWEDA9OOk8T6A",
+  "snapshot_id": "ZnFTSQAAAAADo1PUwVTm70ggK80J+5gZ",
   "tracks": [
     {
       "added_at": "2024-06-13 22:00:00",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "zu gut",
-        "url": "https://open.spotify.com/album/7eejjvjAKOZgGYd2DQXxZ9"
-      },
-      "artists": [
-        {
-          "name": "falcke",
-          "url": "https://open.spotify.com/artist/2mnJSF6QbV1jn2QB4QARuf"
-        }
-      ],
-      "duration_ms": 153985,
-      "name": "zu gut",
-      "url": "https://open.spotify.com/track/5TM9lVAjcGNYqaGFqIoAJS"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "carcassonne",
         "url": "https://open.spotify.com/album/3SAHxqemMNdTGcMRkDxFku"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 131528,
       "name": "carcassonne",
       "url": "https://open.spotify.com/track/3BXOQ4VvoQ5T5CuqLYHLoh"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "zu gut",
+        "url": "https://open.spotify.com/album/7eejjvjAKOZgGYd2DQXxZ9"
+      },
+      "artists": [
+        {
+          "name": "falcke",
+          "url": "https://open.spotify.com/artist/2mnJSF6QbV1jn2QB4QARuf"
+        }
+      ],
+      "duration_ms": 153985,
+      "name": "zu gut",
+      "url": "https://open.spotify.com/track/5TM9lVAjcGNYqaGFqIoAJS"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -155,26 +155,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "wie du manchmal fehlst",
-        "url": "https://open.spotify.com/album/7c6bG1FchpuEbkTl8iJ4As"
+        "name": "Zigarettengift",
+        "url": "https://open.spotify.com/album/1TfZLMqd4dbpXcwRVap6QM"
       },
       "artists": [
         {
-          "name": "Zartmann",
-          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
+          "name": "Felix Herbst",
+          "url": "https://open.spotify.com/artist/5FjvjkbSAOddYcOeOvZh2d"
         },
         {
-          "name": "Ski Aggu",
-          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
-        },
-        {
-          "name": "Dauner",
-          "url": "https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb"
+          "name": "Carla Ahad",
+          "url": "https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln"
         }
       ],
-      "duration_ms": 131773,
-      "name": "wie du manchmal fehlst",
-      "url": "https://open.spotify.com/track/2gOVXniOMdunVdYk2NUQ4p"
+      "duration_ms": 191500,
+      "name": "Zigarettengift",
+      "url": "https://open.spotify.com/track/4YIi19US8nYo5rNe7Mqen5"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -199,22 +195,26 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Zigarettengift",
-        "url": "https://open.spotify.com/album/1TfZLMqd4dbpXcwRVap6QM"
+        "name": "wie du manchmal fehlst",
+        "url": "https://open.spotify.com/album/7c6bG1FchpuEbkTl8iJ4As"
       },
       "artists": [
         {
-          "name": "Felix Herbst",
-          "url": "https://open.spotify.com/artist/5FjvjkbSAOddYcOeOvZh2d"
+          "name": "Zartmann",
+          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
         },
         {
-          "name": "Carla Ahad",
-          "url": "https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln"
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Dauner",
+          "url": "https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb"
         }
       ],
-      "duration_ms": 191500,
-      "name": "Zigarettengift",
-      "url": "https://open.spotify.com/track/4YIi19US8nYo5rNe7Mqen5"
+      "duration_ms": 131773,
+      "name": "wie du manchmal fehlst",
+      "url": "https://open.spotify.com/track/2gOVXniOMdunVdYk2NUQ4p"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -339,26 +339,6 @@
       "duration_ms": 212600,
       "name": "lauf",
       "url": "https://open.spotify.com/track/2BoFXyQK51mh6C9lUQd8Ok"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "babyboy",
-        "url": "https://open.spotify.com/album/7C1jueEWit717xYLLYf7J8"
-      },
-      "artists": [
-        {
-          "name": "Nomuel",
-          "url": "https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY"
-        },
-        {
-          "name": "Milxn",
-          "url": "https://open.spotify.com/artist/2bLiRa87bjkU18nUFK5xPE"
-        }
-      ],
-      "duration_ms": 170235,
-      "name": "babyboy",
-      "url": "https://open.spotify.com/track/2SIaZDxvHBxkYLOPQLuLe5"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -651,26 +631,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Zeit x RIN",
-        "url": "https://open.spotify.com/album/5PsxjZFVj5c1xODJDrS1pV"
-      },
-      "artists": [
-        {
-          "name": "ENNIO",
-          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
-        },
-        {
-          "name": "RIN",
-          "url": "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
-        }
-      ],
-      "duration_ms": 135233,
-      "name": "Zeit x RIN",
-      "url": "https://open.spotify.com/track/0jGC4X9hEVr7MihAhm9ViS"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "fahrrad",
         "url": "https://open.spotify.com/album/2DhSWGy4f6yO7t85B0aOYW"
       },
@@ -715,6 +675,26 @@
       "duration_ms": 134570,
       "name": "such mit mir",
       "url": "https://open.spotify.com/track/54fISEDtMKFkuSA2hx0mlE"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Zeit x RIN",
+        "url": "https://open.spotify.com/album/5PsxjZFVj5c1xODJDrS1pV"
+      },
+      "artists": [
+        {
+          "name": "ENNIO",
+          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
+        },
+        {
+          "name": "RIN",
+          "url": "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
+        }
+      ],
+      "duration_ms": 135233,
+      "name": "Zeit x RIN",
+      "url": "https://open.spotify.com/track/0jGC4X9hEVr7MihAhm9ViS"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1035,26 +1015,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "bittebitte",
-        "url": "https://open.spotify.com/album/19wMMm9dBInd4tgVFAlfRv"
-      },
-      "artists": [
-        {
-          "name": "Aaron",
-          "url": "https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ"
-        },
-        {
-          "name": "Dani Lia",
-          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
-        }
-      ],
-      "duration_ms": 166700,
-      "name": "bittebitte",
-      "url": "https://open.spotify.com/track/4BPWmTxuWLsvOwN4ej6S7u"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "\u00dcberschallgeschwindigkeit",
         "url": "https://open.spotify.com/album/2dmVIz49EQEYeYlemDeKsg"
       },
@@ -1103,6 +1063,26 @@
       "duration_ms": 173943,
       "name": "halb 4",
       "url": "https://open.spotify.com/track/1u3bSLbmo4cnqyGZp2jP31"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "bittebitte",
+        "url": "https://open.spotify.com/album/19wMMm9dBInd4tgVFAlfRv"
+      },
+      "artists": [
+        {
+          "name": "Aaron",
+          "url": "https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ"
+        },
+        {
+          "name": "Dani Lia",
+          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
+        }
+      ],
+      "duration_ms": 166700,
+      "name": "bittebitte",
+      "url": "https://open.spotify.com/track/4BPWmTxuWLsvOwN4ej6S7u"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1407,6 +1387,26 @@
       "duration_ms": 180300,
       "name": "\u00c4ngste Haben Arme",
       "url": "https://open.spotify.com/track/2syhnkO2esqLFG7Mycl9jm"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "babyboy",
+        "url": "https://open.spotify.com/album/7C1jueEWit717xYLLYf7J8"
+      },
+      "artists": [
+        {
+          "name": "Nomuel",
+          "url": "https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY"
+        },
+        {
+          "name": "Milxn",
+          "url": "https://open.spotify.com/artist/2bLiRa87bjkU18nUFK5xPE"
+        }
+      ],
+      "duration_ms": 170235,
+      "name": "babyboy",
+      "url": "https://open.spotify.com/track/2SIaZDxvHBxkYLOPQLuLe5"
     }
   ],
   "unique_name": "Wilde Herzen",
