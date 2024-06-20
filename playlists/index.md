@@ -1,4 +1,4 @@
-## Playlists \(7844\)
+## Playlists \(7845\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -3072,6 +3072,7 @@
 - [Keith Power's Taste](/playlists/pretty/37i9dQZF1DXaWQ9H258ygx.md)
 - [Kelly Lee Owens' track IDs](/playlists/pretty/37i9dQZF1DWYMVjvqDxZQX.md)
 - [Kendrick Lamar](/playlists/pretty/4lwqQxljF1Rge3X4eMzdza.md)
+- [Kerrang! Chart](/playlists/pretty/5LD3ztJJK6Qq7SSpzESUmb.md)
 - [Kevin Kaarl + Juan Gabriel](/playlists/pretty/37i9dQZF1DX0pBnnJLCYjo.md)
 - [Kevin Saunderson's track IDs](/playlists/pretty/37i9dQZF1DXb0kH7WA2NSr.md)
 - [Keys N Krates DJ Mix](/playlists/pretty/37i9dQZF1DX1AhB1ESkQjZ.md)
