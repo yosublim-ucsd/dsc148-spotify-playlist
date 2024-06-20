@@ -1,12 +1,12 @@
 {
   "description": "This is Finch. The essential tracks, all in one playlist.",
-  "num_followers": 2929,
+  "num_followers": 2930,
   "original_name": "This Is Finch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zm98gAAAAACidZRRByCspAgMrL71jGCB",
+  "snapshot_id": "ZnDOAAAAAADK6zQ4LR9AYOJNSppS5/tB",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 185386,
-      "name": "A Piece Of Mind",
-      "url": "https://open.spotify.com/track/4FhWqSmp6ROi6QVTgO1oJQ"
+      "duration_ms": 279133,
+      "name": "Bitemarks And Bloodstains",
+      "url": "https://open.spotify.com/track/4vojoAgXcYu8NZQpYfaOYD"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 279133,
-      "name": "Bitemarks And Bloodstains",
-      "url": "https://open.spotify.com/track/4vojoAgXcYu8NZQpYfaOYD"
+      "duration_ms": 185386,
+      "name": "A Piece Of Mind",
+      "url": "https://open.spotify.com/track/4FhWqSmp6ROi6QVTgO1oJQ"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 218746,
-      "name": "Picasso Trigger",
-      "url": "https://open.spotify.com/track/3BfMK2bpqF9w4r24FGwzJk"
+      "duration_ms": 211613,
+      "name": "Further From The Few",
+      "url": "https://open.spotify.com/track/42ExrVF79VooKmYc1INiGo"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 211613,
-      "name": "Further From The Few",
-      "url": "https://open.spotify.com/track/42ExrVF79VooKmYc1INiGo"
+      "duration_ms": 218746,
+      "name": "Picasso Trigger",
+      "url": "https://open.spotify.com/track/3BfMK2bpqF9w4r24FGwzJk"
     },
     {
       "added_at": null,

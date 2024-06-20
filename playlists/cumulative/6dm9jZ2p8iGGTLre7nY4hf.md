@@ -4,7 +4,7 @@
 
 > Break up songs, the best cure for a broken heart!
 
-340 songs - 18 hr 40 min
+341 songs - 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Hold My Girl](https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:31 | 2023-09-15 |  |
 | [Holy Feeling](https://open.spotify.com/track/3fVzF9OZtAURc9EUQxc0us) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Holy Feeling](https://open.spotify.com/album/0LFRHSJ7ivh3cfDrZiy7gr) | 4:06 | 2023-09-15 |  |
 | [Home](https://open.spotify.com/track/2sozHYsnyu73izwt9BoSa5) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Home](https://open.spotify.com/album/1M4LN8BBW8bs2NNTt70p4M) | 2:35 | 2023-09-15 |  |
+| [Home](https://open.spotify.com/track/6rVXvubz58RzjQIAzel05i) | [Godwin](https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y), [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4) | [Home](https://open.spotify.com/album/3m4xSHWHtRTxFIPdjv68pA) | 2:24 | 2024-06-19 |  |
 | [Honestly](https://open.spotify.com/track/36KK75jbIyYOAyqoB8W064) | [Ulrikke](https://open.spotify.com/artist/5h9tiTx6BP5l5ZCrI7cUYh) | [Honestly](https://open.spotify.com/album/3WXrhTdhPwXaki8g8bmwVm) | 2:57 | 2023-09-15 |  |
 | [Hopeless Romantic](https://open.spotify.com/track/22VPpAWB7qzV8L9rgza11j) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Hopeless Romantic](https://open.spotify.com/album/0sKJKrBhK5gYDdN39fLYb2) | 3:01 | 2023-09-15 |  |
 | [Hopelessly hopeless](https://open.spotify.com/track/3dFjXh41qqEUyp45yfY26b) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Hopelessly hopeless](https://open.spotify.com/album/47GMfYxS0DzitLq9BiWjOU) | 3:24 | 2023-09-15 |  |

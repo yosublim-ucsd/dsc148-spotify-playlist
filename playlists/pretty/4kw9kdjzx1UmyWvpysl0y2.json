@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125948,
+  "num_followers": 125949,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAASidugfbvSToPWpVktLLAVoDA55Nvl",
+  "snapshot_id": "AAASi7rLuXi6rB8Ja/Q7gQjvyihPTr2X",
   "tracks": [
+    {
+      "added_at": "2024-06-19 14:23:54",
+      "album": {
+        "name": "EYES ON ME",
+        "url": "https://open.spotify.com/album/3j8dwHYVQ0uplIuhTehmSS"
+      },
+      "artists": [
+        {
+          "name": "Control Freak",
+          "url": "https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19"
+        }
+      ],
+      "duration_ms": 217846,
+      "name": "EYES ON ME",
+      "url": "https://open.spotify.com/track/2EXdDj1XPGguvSikDzDWqg"
+    },
     {
       "added_at": "2024-06-18 13:34:16",
       "album": {
@@ -1159,26 +1175,6 @@
       "duration_ms": 234004,
       "name": "Flex",
       "url": "https://open.spotify.com/track/1Vvkof5rm2wD0IAqy1x1XP"
-    },
-    {
-      "added_at": "2024-04-02 17:14:02",
-      "album": {
-        "name": "still? (BKAYE Remix)",
-        "url": "https://open.spotify.com/album/1VtTUZn5x5iVubXCNZOgeB"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        },
-        {
-          "name": "BKAYE",
-          "url": "https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9"
-        }
-      ],
-      "duration_ms": 173858,
-      "name": "still? - BKAYE Remix",
-      "url": "https://open.spotify.com/track/4ieyLj9yjnB41DAapVidGc"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

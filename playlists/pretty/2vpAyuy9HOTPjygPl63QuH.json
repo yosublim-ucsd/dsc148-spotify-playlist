@@ -1,12 +1,12 @@
 {
   "description": "The freshest tech house &amp; techno music | Submit via Instagram: @subshiftmusic",
-  "num_followers": 10626,
+  "num_followers": 10640,
   "original_name": "Tech House Shifters",
   "owner": {
     "name": "SUBSHIFT",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "AAAiSoTfJBtQ105AVf3A9hqfyNIQQnQt",
+  "snapshot_id": "AAAiTkkZoJP73EbSZ60Uwwhn9EykWo0c",
   "tracks": [
     {
       "added_at": "2024-06-13 23:03:26",
@@ -1135,6 +1135,74 @@
       "duration_ms": 142080,
       "name": "Believin'",
       "url": "https://open.spotify.com/track/0LEAcMxFHe8WT8Lndix0f7"
+    },
+    {
+      "added_at": "2024-06-19 12:51:58",
+      "album": {
+        "name": "La M\u00fasica",
+        "url": "https://open.spotify.com/album/5KMMRu62QN9altsjFJenJe"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Birds",
+          "url": "https://open.spotify.com/artist/1Obs7jiOM1afyArwQkOC1U"
+        }
+      ],
+      "duration_ms": 160629,
+      "name": "La M\u00fasica",
+      "url": "https://open.spotify.com/track/3bfMpw2PVau0JsAEyw9ndi"
+    },
+    {
+      "added_at": "2024-06-19 12:52:11",
+      "album": {
+        "name": "Meet Me",
+        "url": "https://open.spotify.com/album/5GoHJycPeOix8SZzjHnerE"
+      },
+      "artists": [
+        {
+          "name": "Kapuzen",
+          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Meet Me",
+      "url": "https://open.spotify.com/track/3bYATU2RqLt7vpAOmdbeMR"
+    },
+    {
+      "added_at": "2024-06-19 12:52:39",
+      "album": {
+        "name": "Crazy Chick",
+        "url": "https://open.spotify.com/album/1PC1WmMKCx3NxW79pCujtR"
+      },
+      "artists": [
+        {
+          "name": "Sergiodnine",
+          "url": "https://open.spotify.com/artist/42w8AmEl8uyrHJIvzoXg5q"
+        }
+      ],
+      "duration_ms": 152380,
+      "name": "Crazy Chick - Streaming Edit",
+      "url": "https://open.spotify.com/track/71JiCVGRe4bP6N3acNnnxh"
+    },
+    {
+      "added_at": "2024-06-19 12:52:55",
+      "album": {
+        "name": "Hold My Heart",
+        "url": "https://open.spotify.com/album/2Vdcrb9OoR1FEKAEXvlAks"
+      },
+      "artists": [
+        {
+          "name": "David Herrlich",
+          "url": "https://open.spotify.com/artist/62k0c1WajfOGpgzjmVHpKj"
+        },
+        {
+          "name": "Vince Versa",
+          "url": "https://open.spotify.com/artist/3AlpdUJJMzknAikUfbclwG"
+        }
+      ],
+      "duration_ms": 170624,
+      "name": "Hold My Heart",
+      "url": "https://open.spotify.com/track/72wWuZXjFGrEdBYSNaSxRc"
     }
   ],
   "unique_name": "Tech House Shifters",

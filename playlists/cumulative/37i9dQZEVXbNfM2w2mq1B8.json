@@ -4406,7 +4406,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-19",
+      "date_removed": null,
       "duration_ms": 149052,
       "name": "Casanova",
       "url": "https://open.spotify.com/track/3hIJhEVAMGNKArewusKklB"
@@ -4476,7 +4476,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 217816,
       "name": "Centrofuga",
       "url": "https://open.spotify.com/track/1lKpsuiY1GKU0Tj7QE8EWX"
@@ -5512,6 +5512,28 @@
       "duration_ms": 170769,
       "name": "DALE BABY",
       "url": "https://open.spotify.com/track/71D3yrwwKGf9HDbXO5PJjD"
+    },
+    {
+      "album": {
+        "name": "Dalgana Bak",
+        "url": "https://open.spotify.com/album/6BAE0IzwNU11sY6FjAlAwR"
+      },
+      "artists": [
+        {
+          "name": "Echo Masta",
+          "url": "https://open.spotify.com/artist/5udYRLeBIEo5oGn5qGBkkU"
+        },
+        {
+          "name": "SvA",
+          "url": "https://open.spotify.com/artist/1RBbmgBjLwezNHIQWYYVtF"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104788,
+      "name": "Dalgana Bak",
+      "url": "https://open.spotify.com/track/7fi8bfpeXc7rOYQGLYABda"
     },
     {
       "album": {
@@ -13986,7 +14008,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 267706,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
@@ -21685,6 +21707,24 @@
     },
     {
       "album": {
+        "name": "#1",
+        "url": "https://open.spotify.com/album/2P4oefrZZ6uOFsrykOusie"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123519,
+      "name": "Sezen Aksu",
+      "url": "https://open.spotify.com/track/0GuWyPyj4MVvT4qYsl6BOS"
+    },
+    {
+      "album": {
         "name": "Shaba Daba Du",
         "url": "https://open.spotify.com/album/1dnFToeqzegtjoA71FgpWO"
       },
@@ -26868,7 +26908,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 214646,
       "name": "Wait 4 Me",
       "url": "https://open.spotify.com/track/6GwQLeCFwsVYcEO8PTWnPX"
@@ -29828,7 +29868,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 213975,
       "name": "\u0417\u0434\u0440\u0430\u0441\u0442\u0438",
       "url": "https://open.spotify.com/track/5zQJgQMsG2Q8JOmMmiE5Nt"
@@ -32172,6 +32212,40 @@
       "duration_ms": 169441,
       "name": "\u0421\u043c\u044a\u0440\u0442 \u041f\u0440\u0435\u0434\u0438 \u041f\u043e\u0437\u043e\u0440\u0430",
       "url": "https://open.spotify.com/track/6Yv7vIisTRhCtC4svGV4Z3"
+    },
+    {
+      "album": {
+        "name": "\u0422\u043e\u043c IV",
+        "url": "https://open.spotify.com/album/5MqXrBKVCvTxZrpPEQ8vO5"
+      },
+      "artists": [
+        {
+          "name": "\u0413\u043e\u043b\u044f\u043c \u042e\u0441",
+          "url": "https://open.spotify.com/artist/5qiw2kRjiOcsYfuKD5Y1Wa"
+        },
+        {
+          "name": "Boro Purvi",
+          "url": "https://open.spotify.com/artist/27m6NrJXMbLGlkoGBUy2IV"
+        },
+        {
+          "name": "Madmatic",
+          "url": "https://open.spotify.com/artist/5l8VAzsmLNwn6AmQQuvHO6"
+        },
+        {
+          "name": "Qvkata DLG",
+          "url": "https://open.spotify.com/artist/3NzS9UwrMG3x66aJzM2jKv"
+        },
+        {
+          "name": "Cherry McDouble",
+          "url": "https://open.spotify.com/artist/54mQyjkJRDiGax1cNRoIGX"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235384,
+      "name": "\u0421\u043f\u0443\u043a\u0438",
+      "url": "https://open.spotify.com/track/1DzCI8lUzAYWB9kvlRDZSJ"
     },
     {
       "album": {

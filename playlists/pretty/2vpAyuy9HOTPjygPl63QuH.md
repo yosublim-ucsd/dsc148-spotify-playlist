@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house &amp; techno music \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 10,626 likes - 61 songs - 3 hr 15 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 10,640 likes - 65 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,5 +69,9 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 59 | [Rockin'](https://open.spotify.com/track/4Hh7h8a7S1Q0LjZFwn56lg) | [Malcolm Zeller](https://open.spotify.com/artist/5LlefWbu524mwqs5ZmFuvm) | [Rockin'](https://open.spotify.com/album/7veglwyYAQL5LV1lHbhfnU) | 2:58 |
 | 60 | [Playgirl](https://open.spotify.com/track/2jSVEKqpZeurg7TOw7rhyu) | [Forbid](https://open.spotify.com/artist/2ohXUD9RjzrInO4lKKSXJ0) | [Playgirl](https://open.spotify.com/album/7n5GXUnDUYgC6xDl5QrGZG) | 3:15 |
 | 61 | [Believin'](https://open.spotify.com/track/0LEAcMxFHe8WT8Lndix0f7) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Millean.](https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz) | [Believin'](https://open.spotify.com/album/7equtWIDs3CnU9moplpF8c) | 2:22 |
+| 62 | [La Música](https://open.spotify.com/track/3bfMpw2PVau0JsAEyw9ndi) | [Ghetto Birds](https://open.spotify.com/artist/1Obs7jiOM1afyArwQkOC1U) | [La Música](https://open.spotify.com/album/5KMMRu62QN9altsjFJenJe) | 2:40 |
+| 63 | [Meet Me](https://open.spotify.com/track/3bYATU2RqLt7vpAOmdbeMR) | [Kapuzen](https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN) | [Meet Me](https://open.spotify.com/album/5GoHJycPeOix8SZzjHnerE) | 3:31 |
+| 64 | [Crazy Chick \- Streaming Edit](https://open.spotify.com/track/71JiCVGRe4bP6N3acNnnxh) | [Sergiodnine](https://open.spotify.com/artist/42w8AmEl8uyrHJIvzoXg5q) | [Crazy Chick](https://open.spotify.com/album/1PC1WmMKCx3NxW79pCujtR) | 2:32 |
+| 65 | [Hold My Heart](https://open.spotify.com/track/72wWuZXjFGrEdBYSNaSxRc) | [David Herrlich](https://open.spotify.com/artist/62k0c1WajfOGpgzjmVHpKj), [Vince Versa](https://open.spotify.com/artist/3AlpdUJJMzknAikUfbclwG) | [Hold My Heart](https://open.spotify.com/album/2Vdcrb9OoR1FEKAEXvlAks) | 2:50 |
 
-Snapshot ID: `AAAiSoTfJBtQ105AVf3A9hqfyNIQQnQt`
+Snapshot ID: `AAAiTkkZoJP73EbSZ60Uwwhn9EykWo0c`

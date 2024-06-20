@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > Includes track selections from DIIV, featuring new album <a href="spotify:album:7xLRw5DsWnAMmNBp8I67UD">Frog in Boiling Water</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,576 likes - 113 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,669 likes - 113 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

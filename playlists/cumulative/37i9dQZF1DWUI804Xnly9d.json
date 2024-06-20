@@ -1070,7 +1070,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 245409,
       "name": "Brightside",
       "url": "https://open.spotify.com/track/0cVe7QJ01fQkzRbd920EFk"
@@ -2036,7 +2036,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 188543,
       "name": "Hello Soneya",
       "url": "https://open.spotify.com/track/1O2UBEsK0WMW77T04J8xW4"
@@ -6097,6 +6097,24 @@
     },
     {
       "album": {
+        "name": "Savera",
+        "url": "https://open.spotify.com/album/5gkmTHGZTYetH7jKHcjzM8"
+      },
+      "artists": [
+        {
+          "name": "Parth Srivastava",
+          "url": "https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214082,
+      "name": "Thoda Tera",
+      "url": "https://open.spotify.com/track/3Zcn4CFuvGnzLvVukC4Gmm"
+    },
+    {
+      "album": {
         "name": "Titliyaan",
         "url": "https://open.spotify.com/album/0GO2GfFkbGOQM9EjPsbe81"
       },
@@ -6490,6 +6508,24 @@
       "duration_ms": 171988,
       "name": "Tujhsa Koi",
       "url": "https://open.spotify.com/track/6jaqvNjr73noLIQ9kh29uc"
+    },
+    {
+      "album": {
+        "name": "Tujhse Door",
+        "url": "https://open.spotify.com/album/1vrjhUyEjWMc3poRxC5geZ"
+      },
+      "artists": [
+        {
+          "name": "Samaksh",
+          "url": "https://open.spotify.com/artist/4sg10DL1H0NZPt5GQSE1UQ"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221089,
+      "name": "Tujhse Door",
+      "url": "https://open.spotify.com/track/5QuROITa16VNpRpTPL7R1z"
     },
     {
       "album": {

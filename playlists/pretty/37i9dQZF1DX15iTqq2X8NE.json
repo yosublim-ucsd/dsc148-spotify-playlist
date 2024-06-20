@@ -1,6 +1,6 @@
 {
   "description": "A journey in the modern & old Sudanese sounds.\n",
-  "num_followers": 18280,
+  "num_followers": 18284,
   "original_name": "Sudan Sounds",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-06-18 12:21:42",
       "album": {
+        "name": "Dafnino",
+        "url": "https://open.spotify.com/album/3H3S0xW9UHlQBuuBeig4zY"
+      },
+      "artists": [
+        {
+          "name": "MaMan",
+          "url": "https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Dafnino",
+      "url": "https://open.spotify.com/track/0CWiXLt7mwtbROte487DbZ"
+    },
+    {
+      "added_at": "2024-06-18 12:21:42",
+      "album": {
         "name": "Gana El Baby",
         "url": "https://open.spotify.com/album/2Q8ccrpPej3euPH2DAcKTc"
       },
@@ -835,30 +851,6 @@
       "duration_ms": 416287,
       "name": "\u0645\u0633\u0627\u0645\u062d\u0643 \u064a\u0627 \u062d\u0628\u064a\u0628\u064a",
       "url": "https://open.spotify.com/track/7EoJBZ8Gi0SL58cpWmw0e9"
-    },
-    {
-      "added_at": "2024-06-18 12:21:42",
-      "album": {
-        "name": "Salimmik",
-        "url": "https://open.spotify.com/album/6EJM5YoCfhGRbNgRBGkB7d"
-      },
-      "artists": [
-        {
-          "name": "Maha AJ",
-          "url": "https://open.spotify.com/artist/2b2pd5yYGRTqvCRzgg1xsz"
-        },
-        {
-          "name": "Flippter",
-          "url": "https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX"
-        },
-        {
-          "name": "Nijeery",
-          "url": "https://open.spotify.com/artist/481yBm7CxhRBaMPeQLq7KC"
-        }
-      ],
-      "duration_ms": 202031,
-      "name": "Salimmik",
-      "url": "https://open.spotify.com/track/0XjLYmJCLA1kLMLaNQpRX7"
     },
     {
       "added_at": "2024-06-18 12:21:42",

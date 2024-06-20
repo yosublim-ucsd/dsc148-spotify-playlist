@@ -1,6 +1,6 @@
 {
   "description": "Grandes hits da m\u00fasica pop pra agitar sua festa com os pequenos!",
-  "num_followers": 79021,
+  "num_followers": 79011,
   "original_name": "Dan\u00e7ando com as Crian\u00e7as",
   "owner": {
     "name": "Spotify",
@@ -931,7 +931,7 @@
     {
       "added_at": "2020-06-24 17:57:27",
       "album": {
-        "name": "Electricity (with Dua Lipa)",
+        "name": "Electricity",
         "url": "https://open.spotify.com/album/429B3se6xtZuvblNnS2iy7"
       },
       "artists": [
@@ -944,16 +944,16 @@
           "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         },
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
           "name": "Mark Ronson",
           "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
         }
       ],
       "duration_ms": 238173,
-      "name": "Electricity (with Dua Lipa)",
+      "name": "Electricity",
       "url": "https://open.spotify.com/track/5N4erncE7kuUccm7zEmwzk"
     },
     {

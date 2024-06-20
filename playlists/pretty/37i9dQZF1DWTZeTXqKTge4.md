@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: HALO
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,137 likes - 75 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,142 likes - 75 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 9 | [C'est pas ce que tu penses](https://open.spotify.com/track/0Sbmsr53cUNNl6H2n4k3g2) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Lary Kidd](https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX), [Loud Lary Ajust](https://open.spotify.com/artist/2zxjAOpQqLzNsLkRbSNjAN) | [C'est pas ce que tu penses](https://open.spotify.com/album/3PMT5XJmSJbAi47RseEFMg) | 2:16 |
 | 10 | [Trop sweet](https://open.spotify.com/track/5xfXpnYSGY07pav2aoTFbZ) | [YUYU](https://open.spotify.com/artist/7AKP5OQLpIiuPLGQ7d4Seh) | [Trop sweet](https://open.spotify.com/album/2HUxk6djhwvhEko7iM26X9) | 3:01 |
 | 11 | [18](https://open.spotify.com/track/1ql8A7vfO3SEedqedSozyX) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES) | [18](https://open.spotify.com/album/4GgfLtSUNl4RhDdGYFUz45) | 3:25 |
-| 12 | [Port d'arme](https://open.spotify.com/track/3RdzJ2qCGDEFkSGe9jFgCJ) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT), [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [DZ D’AMERIQUE](https://open.spotify.com/album/6AYsObXMfjrgj5qaH4zLRA) | 3:02 |
+| 12 | [PORT D'ARME](https://open.spotify.com/track/3RdzJ2qCGDEFkSGe9jFgCJ) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT), [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [DZ D’AMERIQUE](https://open.spotify.com/album/6AYsObXMfjrgj5qaH4zLRA) | 3:02 |
 | 13 | [Pas l'choix](https://open.spotify.com/track/0hOq01qqFw0iiye2b9nzCS) | [Gutta192](https://open.spotify.com/artist/6xkNjwIRwqWMSw8ARQcppe), [Wawa EGK](https://open.spotify.com/artist/2QkUFGd1PxHozycS2MotJ3) | [Pas l'choix](https://open.spotify.com/album/6vGigTydEdJ4VjRYeim48h) | 4:12 |
 | 14 | [sans moi](https://open.spotify.com/track/0Iz8YOutt2JvAhoAgOXEz3) | [St\-Prince](https://open.spotify.com/artist/4l9XlDeGxPJgWnF7OoEpgC) | [sans moi](https://open.spotify.com/album/5MULomPuf6S1B90OfIfIJt) | 2:06 |
 | 15 | [Facile](https://open.spotify.com/track/5eBvtV7vtYOOjXWq80YcQ6) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C) | [BOYZ](https://open.spotify.com/album/28AfjnVaDTnKwoBpcolWv0) | 3:01 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 33 | [6 mois](https://open.spotify.com/track/2gOu93kTZxjuuMGWeOgH9t) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [6 mois](https://open.spotify.com/album/0kULqrFM1MeS1O0ImWFkfy) | 3:22 |
 | 34 | [Mauvais rêve](https://open.spotify.com/track/6u2UQSSpp6fO3LubYW3ef6) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Demain il fera beau](https://open.spotify.com/album/74gQAViAPXnavitK5BTOmv) | 2:50 |
 | 35 | [Potion](https://open.spotify.com/track/1KZfFKGx6fPEAqMJh4BKNi) | [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc), [KingAlexBeats](https://open.spotify.com/artist/6UKzVrB3hJHkBAz60T4jlw), [Majosty](https://open.spotify.com/artist/6S6YyE0Pz6mYmTCER2PI1A), [agoldencoast](https://open.spotify.com/artist/6ks6hf6P8T5aOYZt8ykVlv) | [Potion](https://open.spotify.com/album/2TBeusZ0VFhF22CupNSplb) | 2:59 |
-| 36 | [Go Mode](https://open.spotify.com/track/7MX9uRrHcyORpE2JXJpfUa) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [Go Mode](https://open.spotify.com/album/3GekvJk4hGZw39M27jUcCc) | 3:44 |
+| 36 | [GO MODE](https://open.spotify.com/track/7MX9uRrHcyORpE2JXJpfUa) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [GO MODE](https://open.spotify.com/album/3GekvJk4hGZw39M27jUcCc) | 3:44 |
 | 37 | [TRISTEMENT CELEBRE](https://open.spotify.com/track/6f0xePbra1IWDyl8L8Bet1) | [VT](https://open.spotify.com/artist/6sAxiQQZfNZPbwnpFW9C1m) | [TRISTEMENT CELEBRE](https://open.spotify.com/album/4KgH18uGIXHg9VnSJWnJMQ) | 2:06 |
 | 38 | [Dans mon délire](https://open.spotify.com/track/4XOdHX24KhXvttDZi0d8P0) | [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [Dans mon délire](https://open.spotify.com/album/0F38HKeIBp1ipE4W6DPp57) | 2:47 |
 | 39 | [5AM](https://open.spotify.com/track/3lernf2FiyL07kM8uTAueb) | [Brown Family](https://open.spotify.com/artist/58kHjJdhzMEVRdibBX5JJW) | [5AM](https://open.spotify.com/album/6eiNBOmU5Kpr5X81cELx7I) | 3:35 |

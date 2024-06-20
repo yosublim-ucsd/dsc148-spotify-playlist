@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6?si=RAxZFoJvS2CkSG4OXsdL1Q">Nyashinski</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,137 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,147 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 | 40 | [GABANNA](https://open.spotify.com/track/1bsmgqxtkjJXYqKNxzbTe3) | [Kuky](https://open.spotify.com/artist/2rxDcEa4Y6mPL7VyQjF8fe), [Groovy Jo](https://open.spotify.com/artist/1IwUZ6iKBJmi7YdDRqAHr6) | [Gabbana](https://open.spotify.com/album/4AhJBCOl3KifNJKy5Vsvcf) | 3:00 |
 | 41 | [FULLY AUTO](https://open.spotify.com/track/6Zph2tvaXvf1jyzzGFKCqf) | [Storyteller Sam](https://open.spotify.com/artist/2fPoc0IkxF7Y64uDy1O99x), [NIGGA SHAWN](https://open.spotify.com/artist/7a05bd7Aa7CPqmjvlEfPt9) | [FULLY AUTO](https://open.spotify.com/album/6rhjrlf9O047H5Z5GyXo8X) | 3:49 |
 | 42 | [Wassup](https://open.spotify.com/track/5yJZO7Hrkpw0dYmmfwKJUm) | [Qwiss](https://open.spotify.com/artist/5dX9LFDFHBsiS5D6534nMX) | [Wassup](https://open.spotify.com/album/0Y9ziPIthD1I7YXqYGuHe2) | 3:18 |
-| 43 | [Take U Out](https://open.spotify.com/track/7ywhq1XgC3hFE2sKeo7XjO) | [Lonepapii](https://open.spotify.com/artist/4mIWDZo3u97KqQCRYqRQuJ), [Fragah](https://open.spotify.com/artist/3bQIQv0IbFX9yE0NHqkJso) | [Take U Out](https://open.spotify.com/album/6q72JnamD6EzSO8BNaiW58) | 2:30 |
+| 43 | [Take U Out](https://open.spotify.com/track/7ywhq1XgC3hFE2sKeo7XjO) | [Fragah](https://open.spotify.com/artist/3bQIQv0IbFX9yE0NHqkJso), [Lonepapii](https://open.spotify.com/artist/4mIWDZo3u97KqQCRYqRQuJ) | [Take You Out](https://open.spotify.com/album/6q72JnamD6EzSO8BNaiW58) | 2:08 |
 | 44 | [Mtungi](https://open.spotify.com/track/1D8EvJwAQaBrS5mY2xDZht) | [FEMI ONE](https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH) | [Mtungi](https://open.spotify.com/album/3yh1hLgnx7f682n9E3kdZ4) | 3:05 |
 | 45 | [Rock Da Mic](https://open.spotify.com/track/2KWZbfHQ2u9V09QiCnAL00) | [AMiR](https://open.spotify.com/artist/4XRD4l8f4sJSMSgFnmBsyj) | [Rock Da Mic](https://open.spotify.com/album/2IDw3STsuEWk0oyA3yzBaB) | 2:14 |
 | 46 | [SON\-RISE \- Resurrection](https://open.spotify.com/track/3BIjS35lXp5wajylMzYhdU) | [XLVI K](https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT), [PrinceKrew Empire](https://open.spotify.com/artist/3tWz6ertka18Khy25lwqji), [G5 Fotel](https://open.spotify.com/artist/6ei5GqLozvRafvcPwumKB8), [Vic Gee](https://open.spotify.com/artist/3ql9sYFE0KseWl7j9Lhfpf), [Dj Perouz](https://open.spotify.com/artist/6oF6VmJpTTqQo8bosljRbZ), [Jpac](https://open.spotify.com/artist/4IV4MTHMsJ3saVTO9FLjzo) | [SON\-RISE \(Resurrection\)](https://open.spotify.com/album/744EKvPuKF7BibzXa8fTLx) | 6:21 |

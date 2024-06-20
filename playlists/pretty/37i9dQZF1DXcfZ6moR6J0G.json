@@ -1,6 +1,6 @@
 {
   "description": "It's just one of those days...",
-  "num_followers": 1893549,
+  "num_followers": 1893829,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-06-13 12:44:43",
       "album": {
-        "name": "...An Education In Rebellion",
-        "url": "https://open.spotify.com/album/5owwvzRpYAdnhc2Xe8aq76"
-      },
-      "artists": [
-        {
-          "name": "The Union Underground",
-          "url": "https://open.spotify.com/artist/54akiBa0DkNM3qkhnGRflb"
-        }
-      ],
-      "duration_ms": 204293,
-      "name": "South Texas Deathride",
-      "url": "https://open.spotify.com/track/4DenxoUslmyLJB5vzurCBD"
-    },
-    {
-      "added_at": "2024-06-13 12:44:43",
-      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/5QVIcWwkQXJ6vwbQDikZrl"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 192213,
       "name": "Pitiful",
       "url": "https://open.spotify.com/track/1TTOAw90zzNWKnUgzzcvZW"
+    },
+    {
+      "added_at": "2024-06-13 12:44:43",
+      "album": {
+        "name": "...An Education In Rebellion",
+        "url": "https://open.spotify.com/album/5owwvzRpYAdnhc2Xe8aq76"
+      },
+      "artists": [
+        {
+          "name": "The Union Underground",
+          "url": "https://open.spotify.com/artist/54akiBa0DkNM3qkhnGRflb"
+        }
+      ],
+      "duration_ms": 204293,
+      "name": "South Texas Deathride",
+      "url": "https://open.spotify.com/track/4DenxoUslmyLJB5vzurCBD"
     },
     {
       "added_at": "2024-06-13 12:44:43",

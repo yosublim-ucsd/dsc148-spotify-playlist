@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  Rangga Damara
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,516 likes - 88 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,520 likes - 88 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

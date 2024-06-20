@@ -211,6 +211,24 @@
     },
     {
       "album": {
+        "name": "Paradiso",
+        "url": "https://open.spotify.com/album/52gOefu9YjgjJahyVqECMI"
+      },
+      "artists": [
+        {
+          "name": "Jace Roque",
+          "url": "https://open.spotify.com/artist/6QA5BsEeCZuG2urVzZLCrk"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181236,
+      "name": "'Keep On Holding On Pt. 2",
+      "url": "https://open.spotify.com/track/1C9PNh3vxPy51yEOx5gLnm"
+    },
+    {
+      "album": {
         "name": "'Lam Mong Wasak!",
         "url": "https://open.spotify.com/album/3cfbuiHISZYHNDGkkguZgs"
       },
@@ -21206,24 +21224,6 @@
       "duration_ms": 219183,
       "name": "Keep on Believing",
       "url": "https://open.spotify.com/track/1XhYiJTfBZIrMTa6dlPxqP"
-    },
-    {
-      "album": {
-        "name": "Paradiso",
-        "url": "https://open.spotify.com/album/52gOefu9YjgjJahyVqECMI"
-      },
-      "artists": [
-        {
-          "name": "Jace Roque",
-          "url": "https://open.spotify.com/artist/6QA5BsEeCZuG2urVzZLCrk"
-        }
-      ],
-      "date_added": "2024-05-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 181236,
-      "name": "Keep On Holding On Pt. 2",
-      "url": "https://open.spotify.com/track/1C9PNh3vxPy51yEOx5gLnm"
     },
     {
       "album": {

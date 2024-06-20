@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Ely Oaks
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,394 likes - 79 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,417 likes - 79 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 27 | [Immer Noch Drunk](https://open.spotify.com/track/4kZWUByOncvIQhvMA3pZj8) | [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc), [MAKZ 38](https://open.spotify.com/artist/3G3KqIib0FNSVpjDl9NhAF), [Mirco Kima](https://open.spotify.com/artist/30RwqXb05doFA1yZM7HURb) | [Immer Noch Drunk](https://open.spotify.com/album/2IUSFXklKQXYlpaMxgO4yh) | 2:20 |
 | 28 | [Kill The Vibe](https://open.spotify.com/track/4Mw1vqYfDWL2d8dJLWFYQp) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Prophecy](https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv) | [Kill The Vibe](https://open.spotify.com/album/3RajPAonNivFPajGSnsh42) | 2:46 |
 | 29 | [Luchtballon](https://open.spotify.com/track/024pThriWXJRFgGQuixYs7) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Luchtballon](https://open.spotify.com/album/2m1aJzbzSnoIiSwN8UXhXT) | 2:16 |
-| 30 | [Traumhaft](https://open.spotify.com/track/5K42hxjahy96fXiTYNBU9Y) | [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx), [Schillah](https://open.spotify.com/artist/6r2ZZkSNgzLskyEJiqnD11), [SKETCH](https://open.spotify.com/artist/2lDRRSO8ARhYWSE5hkxCb3), [ArniTheSavage](https://open.spotify.com/artist/5H79GiaNR3DckxUS78GxAO) | [Traumhaft](https://open.spotify.com/album/294bQAAFD0BTqnwFfHD2HT) | 2:42 |
+| 30 | [Traumhaft](https://open.spotify.com/track/5K42hxjahy96fXiTYNBU9Y) | [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx), [Schillah](https://open.spotify.com/artist/6r2ZZkSNgzLskyEJiqnD11), [SKETCH](https://open.spotify.com/artist/3xnF4jCB0uhRsbeeI4z06U), [ArniTheSavage](https://open.spotify.com/artist/5H79GiaNR3DckxUS78GxAO) | [Traumhaft](https://open.spotify.com/album/294bQAAFD0BTqnwFfHD2HT) | 2:42 |
 | 31 | [Lotus \(PAROOKAVILLE Anthem 2024\)](https://open.spotify.com/track/7GUecHJnM0kfEXNtt9y9nQ) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [Lotus \(PAROOKAVILLE Anthem 2024\)](https://open.spotify.com/album/7qyuA3NETBJ3gNvUWxHha6) | 3:34 |
 | 32 | [Only Way Is Up \(feat\. Izzy Bizu\)](https://open.spotify.com/track/7cYrKZfoN2ioWEFGGBGuKV) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Only Way Is Up \(feat\. Izzy Bizu\)](https://open.spotify.com/album/4FFYAaeCVsCx6lfiZ5FPcD) | 2:29 |
 | 33 | [Surreal \(feat\. myne\)](https://open.spotify.com/track/7aqLQxff4CFrCp4iyzipmW) | [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [myne](https://open.spotify.com/artist/34WPfL387QxZ5t8epiRnTL) | [Surreal \(feat\. myne\)](https://open.spotify.com/album/2dRNDPcEJzE1F0MvQLjcyy) | 1:55 |

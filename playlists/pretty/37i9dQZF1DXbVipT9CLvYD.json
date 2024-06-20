@@ -1,13 +1,29 @@
 {
   "description": "Pakka Folk beats from Kollywood!\nCover : Vikram",
-  "num_followers": 170389,
+  "num_followers": 170426,
   "original_name": "Thara Local",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZZv3fQAAAAB0l1FprW+RglI3I/i3gtAF",
+  "snapshot_id": "ZnOE4QAAAAAJaR0Y+XqwqkQtOB+FE17U",
   "tracks": [
+    {
+      "added_at": "2024-06-20 01:24:49",
+      "album": {
+        "name": "Indian 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2odSkyvlROPRtPYsr2lE0l"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "duration_ms": 234023,
+      "name": "Kadharalz",
+      "url": "https://open.spotify.com/track/77OQsnAirm7Ke8EGgBeOxz"
+    },
     {
       "added_at": "2022-05-11 13:37:27",
       "album": {
@@ -201,26 +217,6 @@
       "url": "https://open.spotify.com/track/6eYsOcDdB5b6rTO5ubMxeV"
     },
     {
-      "added_at": "2023-09-21 12:38:44",
-      "album": {
-        "name": "170CM from Think Indie",
-        "url": "https://open.spotify.com/album/0qi3yuIvmsXAQr2V5GBr7H"
-      },
-      "artists": [
-        {
-          "name": "Paal Dabba",
-          "url": "https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx"
-        },
-        {
-          "name": "Flameboi",
-          "url": "https://open.spotify.com/artist/7gDVeDg6db32fZhZKIeL3n"
-        }
-      ],
-      "duration_ms": 132480,
-      "name": "170CM from Think Indie",
-      "url": "https://open.spotify.com/track/7vIVeEZCmE0UdfIIDTC9Ho"
-    },
-    {
       "added_at": "2021-11-15 05:00:07",
       "album": {
         "name": "Rakita Rakita Rakita (From \"Jagame Thandhiram\")",
@@ -311,30 +307,6 @@
       "duration_ms": 228257,
       "name": "Vaathi Coming",
       "url": "https://open.spotify.com/track/2BcPFQ7nrtUObgAs72xaac"
-    },
-    {
-      "added_at": "2022-01-03 07:43:55",
-      "album": {
-        "name": "Naattu Koothu (From \"Rrr\")",
-        "url": "https://open.spotify.com/album/7DbivwZgoK0AXocXHom4RV"
-      },
-      "artists": [
-        {
-          "name": "Rahul Sipligunj",
-          "url": "https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn"
-        },
-        {
-          "name": "Yazin Nizar",
-          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
-        },
-        {
-          "name": "Maragadhamani",
-          "url": "https://open.spotify.com/artist/1bRcW8SnU3AKrhzxnbdR64"
-        }
-      ],
-      "duration_ms": 214495,
-      "name": "Naattu Koothu (From \"Rrr\")",
-      "url": "https://open.spotify.com/track/61LeFCT6Nnkv55AiSgZCre"
     },
     {
       "added_at": "2021-11-15 05:00:07",
@@ -523,26 +495,6 @@
       "duration_ms": 224457,
       "name": "Single Pasanga",
       "url": "https://open.spotify.com/track/4Xn3xgMPWSMIWuELgWpGbp"
-    },
-    {
-      "added_at": "2021-11-15 05:00:07",
-      "album": {
-        "name": "Chill Bro (From \"Pattas\")",
-        "url": "https://open.spotify.com/album/5DWitBJCdllzJuIXDVrRO5"
-      },
-      "artists": [
-        {
-          "name": "Dhanush",
-          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
-        },
-        {
-          "name": "Vivek - Mervin",
-          "url": "https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW"
-        }
-      ],
-      "duration_ms": 239989,
-      "name": "Chill Bro (From \"Pattas\")",
-      "url": "https://open.spotify.com/track/1EKvufWHnlZbGZGMDg3NYR"
     },
     {
       "added_at": "2021-11-15 05:00:07",

@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Dance](https://open.spotify.com/playlist/37i9dQZF1DX6bBjHfdRnza)
 
-> The best new dance & electronic by independent artists and labels\. Cover: Jackie Hollander\. Artwork by Rewina Beshue.
+> The best new dance & electronic by independent artists and labels\. Cover: musclecars\. Artwork by Rewina Beshue.
 
 2,216 songs - 6 day 7 hr 40 min
 

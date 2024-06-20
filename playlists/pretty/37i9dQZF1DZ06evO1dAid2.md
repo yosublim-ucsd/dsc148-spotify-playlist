@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dAid2.md) - [plain]
 
 ### [This Is Chuck Berry](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1dAid2)
 
-> This Is Chuck Berry\. Los temas esenciales, todos en una lista.
+> This is Chuck Berry\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,101 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,114 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dAid2.md) - [plain]
 | 49 | [Dutchman](https://open.spotify.com/track/2frsHNDxTSKVM7nPPUdtIk) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck](https://open.spotify.com/album/74y5Z8TjHts4ATRMPZ7NLi) | 3:47 |
 | 50 | [Carol / Little Queenie \(Live from Blueberry Hill\)](https://open.spotify.com/track/2KeDv0gOVD8afM2NhToKqs) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Live From Blueberry Hill](https://open.spotify.com/album/7e9MQMnwlh4dsIujqbIYPJ) | 4:40 |
 
-Snapshot ID: `Zm98gAAAAADarofkLXNGFb/0sOu2pmw2`
+Snapshot ID: `Zm98gAAAAABXwOBKilQ1y2it5G7x1ZO9`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Ski Mask The Slump God
 
-[Spotify](https://open.spotify.com/user/spotify) - 946,043 likes - 99 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 946,118 likes - 99 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 10 | [LUV 4 YA](https://open.spotify.com/track/4gy2E8Wwz5hgwOLjv03cYS) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [LUV 4 YA](https://open.spotify.com/album/0tTnvcy5uv8w6SXgWw7cOZ) | 3:32 |
 | 11 | [Mikolton \(Dat's My Dawg\)](https://open.spotify.com/track/0IFd582e0VaFDvrzcAnAEU) | [Dear Silas](https://open.spotify.com/artist/4C6vnglzmsWszcdp5WaX6O) | [601 DEGREEZ](https://open.spotify.com/album/7tVFEAcU6vIaSYrLWXYLbP) | 2:58 |
 | 12 | [SLIP \(feat\. Toro Y Moi\)](https://open.spotify.com/track/734vfN47traLZvdCadj9VL) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [9](https://open.spotify.com/album/6j3Y7CxOySMhZQEQsWnzhL) | 3:41 |
-| 13 | [YEA](https://open.spotify.com/track/4DqbPYolA2v85W0sVx1OhF) | [Yakiyn](https://open.spotify.com/artist/41lqavlwvb2IVsBpmCkh4E), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr) | [YEA](https://open.spotify.com/album/5VrydcfV2o1xUQdA65AzTP) | 3:45 |
+| 13 | [YEA](https://open.spotify.com/track/4DqbPYolA2v85W0sVx1OhF) | [Yakiyn](https://open.spotify.com/artist/41lqavlwvb2IVsBpmCkh4E), [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [YEA](https://open.spotify.com/album/5VrydcfV2o1xUQdA65AzTP) | 3:45 |
 | 14 | [Polynesian](https://open.spotify.com/track/27ATssFYewh8Vcg6wd6Udq) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Polynesian](https://open.spotify.com/album/1h5dJ992NoupgWlLlsubjI) | 3:00 |
 | 15 | [SALAD](https://open.spotify.com/track/29fUrdzF1FqIhk0ZWxyyby) | [Oblé Reed](https://open.spotify.com/artist/4drP7GL5gdmNowIgcunWgn), [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [SALAD](https://open.spotify.com/album/0xkWdFSnZVaHICeiGyiVIY) | 2:53 |
 | 16 | [Earwax](https://open.spotify.com/track/6R6QNEIy56zoi5BZkx4OEA) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [11th Dimension](https://open.spotify.com/album/4Ioudl1Qx3fTh5AMOYRBvf) | 1:55 |

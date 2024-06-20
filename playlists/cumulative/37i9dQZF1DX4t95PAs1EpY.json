@@ -4286,7 +4286,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 130116,
       "name": "Jet Set Go!",
       "url": "https://open.spotify.com/track/6Ocoe8TY2ZMUZ6GqRdyPMs"
@@ -7550,6 +7550,24 @@
       "duration_ms": 141360,
       "name": "roadtripp",
       "url": "https://open.spotify.com/track/6DbwIh4zCLn1POZXjXaubt"
+    },
+    {
+      "album": {
+        "name": "Rooftop Nights",
+        "url": "https://open.spotify.com/album/7tlPuXFPzOnYb8s0zOSgpc"
+      },
+      "artists": [
+        {
+          "name": "My Lucid Dreams",
+          "url": "https://open.spotify.com/artist/6BDAZG6yXqOjqStTnJ9D4b"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132537,
+      "name": "Rooftop Nights",
+      "url": "https://open.spotify.com/track/2VPjZDOq6n7Mx3Qr7fkic9"
     },
     {
       "album": {

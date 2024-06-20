@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy trendy & chill Korean R&B music. (Cover: JUNNY)",
+  "description": "Enjoy trendy & chill Korean R&B music. (Cover: JxW(SEVENTEEN))",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -1120,6 +1120,24 @@
       "duration_ms": 241909,
       "name": "Autumn Leaves",
       "url": "https://open.spotify.com/track/6TumFntaPLKpEkBfMlcIbX"
+    },
+    {
+      "album": {
+        "name": "sociavoidance",
+        "url": "https://open.spotify.com/album/6QvwA1sCAvYGRxLzTctp8v"
+      },
+      "artists": [
+        {
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "avoid!",
+      "url": "https://open.spotify.com/track/49PFVGmUj3kS6BovxrAN5m"
     },
     {
       "album": {
@@ -2702,7 +2720,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 142213,
       "name": "CLOUD 9",
       "url": "https://open.spotify.com/track/1EV5az9KISodiYS8CmfRY0"
@@ -2980,6 +2998,28 @@
       "duration_ms": 206582,
       "name": "complicated",
       "url": "https://open.spotify.com/track/2G7V0W5otiWX4B2W8dmpIu"
+    },
+    {
+      "album": {
+        "name": "dopamine",
+        "url": "https://open.spotify.com/album/7FOdOoz6j0vcY8UlIbft76"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        },
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172906,
+      "name": "Complications (ft. SOLE)",
+      "url": "https://open.spotify.com/track/1XGtdNHscboubm98Ajuh7R"
     },
     {
       "album": {
@@ -6704,7 +6744,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 214613,
       "name": "Know me",
       "url": "https://open.spotify.com/track/5bvVA6idKl1R38C5G4tuxC"
@@ -6771,7 +6811,7 @@
       "artists": [
         {
           "name": "JxW",
-          "url": "https://open.spotify.com/artist/7GvlsjcgBrsE578yghOq7D"
+          "url": "https://open.spotify.com/artist/26bu3Aj5aulLKQ5MSGD2qh"
         }
       ],
       "date_added": "2024-06-17",

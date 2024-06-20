@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Luan Santana com Leo Santana com Simone Mendes, Jão, Mc Poze do Rodo e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,916,744 likes - 67 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,917,010 likes - 67 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 8 | [Anota Aí](https://open.spotify.com/track/0fhOhlR7BkShljLwT1psjV) | [Paula Fernandes](https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92) | [Qual Amor Te Faz Feliz? \(EP1\)](https://open.spotify.com/album/17UmAUVGE4E1mIoP02yzYc) | 3:20 |
 | 9 | [Morena](https://open.spotify.com/track/4pjx7niz7aUfoOJOSW0BLM) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Morena](https://open.spotify.com/album/6R4KQPAhbEZVBgyjuh2mYp) | 2:41 |
 | 10 | [Amor e Tatuagem \- Ao Vivo](https://open.spotify.com/track/1jxYL8P64JxMN6v82pCDBT) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [O Maior Piseiro do Mundo \(Ao Vivo\)](https://open.spotify.com/album/1TbovwweG8c2FsbnEYNeVI) | 2:28 |
-| 11 | [Má Influência](https://open.spotify.com/track/4AGWB66yOY9CcSsPA8BSyq) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [Intensa Até Demais](https://open.spotify.com/album/0XFDiEDWOB9wGxGRQ9xitH) | 2:27 |
+| 11 | [Má Influência](https://open.spotify.com/track/4AGWB66yOY9CcSsPA8BSyq) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [Intensa Até Demais](https://open.spotify.com/album/0XFDiEDWOB9wGxGRQ9xitH) | 2:26 |
 | 12 | [Saudade Sem Educação \- Ao Vivo](https://open.spotify.com/track/0mVTQi9I4ehzSi9u9hLca5) | [João Neto & Frederico](https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [João Neto & Frederico 25 Anos Ao Vivo \(Hugo & Guilherme\)](https://open.spotify.com/album/6TPynvnaFW4riBslhaKt2O) | 2:53 |
 | 13 | [Tchau, Amor! \- Ao Vivo](https://open.spotify.com/track/4v2VIAHoo3GK7tccOTKrfC) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7) | [Tchau, Amor! \(Ao Vivo\)](https://open.spotify.com/album/7ajYdG5Pu8VmE9cOdJEzjq) | 2:47 |
 | 14 | [Tomara \- Ao Vivo](https://open.spotify.com/track/2W3qpiaZx5fhMOIAmMmaH3) | [Suel](https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK), [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz) | [Tomara \(Ao Vivo\)](https://open.spotify.com/album/0aOx6mnrEvmcehqrvQYx0E) | 2:42 |

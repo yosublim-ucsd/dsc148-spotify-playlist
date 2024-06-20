@@ -1,6 +1,6 @@
 {
   "description": "to the people who look at the stars and wish \ud83e\uddda\u200d\u2640\ufe0f Lana Del Rey",
-  "num_followers": 14704,
+  "num_followers": 14713,
   "original_name": "Faerie Core",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-05-07 00:40:46",
       "album": {
-        "name": "Je te laisserai des mots",
-        "url": "https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8"
-      },
-      "artists": [
-        {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        }
-      ],
-      "duration_ms": 160853,
-      "name": "Je te laisserai des mots",
-      "url": "https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS"
-    },
-    {
-      "added_at": "2024-05-07 00:40:46",
-      "album": {
         "name": "So Tonight That I Might See",
         "url": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 310733,
       "name": "Blue Light",
       "url": "https://open.spotify.com/track/3BdHMOIA9B0bN53jbE5nWe"
+    },
+    {
+      "added_at": "2024-05-07 00:40:46",
+      "album": {
+        "name": "Je te laisserai des mots",
+        "url": "https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        }
+      ],
+      "duration_ms": 160853,
+      "name": "Je te laisserai des mots",
+      "url": "https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS"
     },
     {
       "added_at": "2024-05-07 00:40:46",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-05-07 00:40:46",
       "album": {
-        "name": "Five Leaves Left",
-        "url": "https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 258680,
-      "name": "River Man",
-      "url": "https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k"
-    },
-    {
-      "added_at": "2024-05-07 00:40:46",
-      "album": {
         "name": "Many Beautiful Things (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/02gOHdj3c67CUwXb4s9jzy"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 135793,
       "name": "Almost Idyllic",
       "url": "https://open.spotify.com/track/7lq08zctLOESidAM58kjq6"
+    },
+    {
+      "added_at": "2024-05-07 00:40:46",
+      "album": {
+        "name": "Five Leaves Left",
+        "url": "https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 258680,
+      "name": "River Man",
+      "url": "https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k"
     },
     {
       "added_at": "2024-05-07 00:40:46",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-05-07 00:40:46",
       "album": {
-        "name": "MOOMINVALLEY (Official Soundtrack)",
-        "url": "https://open.spotify.com/album/3vNC5t3sZSkCi4A2l8ZPCF"
-      },
-      "artists": [
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
-        }
-      ],
-      "duration_ms": 181969,
-      "name": "Ready Now",
-      "url": "https://open.spotify.com/track/1xzIv4LPe57Lgz3ELDOdBE"
-    },
-    {
-      "added_at": "2024-05-07 00:40:46",
-      "album": {
         "name": "The Shark in Your Water",
         "url": "https://open.spotify.com/album/75nZGvjStgCUavXcsYsXf7"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 188864,
       "name": "Cornflower Blue",
       "url": "https://open.spotify.com/track/2MfwT3SKUyF0na2LCa2fCp"
+    },
+    {
+      "added_at": "2024-05-07 00:40:46",
+      "album": {
+        "name": "MOOMINVALLEY (Official Soundtrack)",
+        "url": "https://open.spotify.com/album/3vNC5t3sZSkCi4A2l8ZPCF"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 181969,
+      "name": "Ready Now",
+      "url": "https://open.spotify.com/track/1xzIv4LPe57Lgz3ELDOdBE"
     },
     {
       "added_at": "2024-05-07 00:40:46",

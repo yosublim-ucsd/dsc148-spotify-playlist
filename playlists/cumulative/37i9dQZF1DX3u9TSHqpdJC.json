@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best new pop music by independent artists and labels. Cover: Tangerine Cassette Artwork by Paola Saliby",
+  "description": "The best new pop music by independent artists and labels. Cover: La Rhonza Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -3079,6 +3079,24 @@
     },
     {
       "album": {
+        "name": "angry angry song",
+        "url": "https://open.spotify.com/album/1gffixbdgJrchljXRZC7h3"
+      },
+      "artists": [
+        {
+          "name": "wadfah",
+          "url": "https://open.spotify.com/artist/4VLJF0kk8HDMK7VPDctSzo"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207209,
+      "name": "angry angry song",
+      "url": "https://open.spotify.com/track/1MCvRQM0VwqHrcEmHdd8QG"
+    },
+    {
+      "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/12xciPeTyr50ew1FwmP4vn"
       },
@@ -5778,7 +5796,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 220728,
       "name": "Bettin' On You",
       "url": "https://open.spotify.com/track/5B5ZMsG57KqsnA5bFuTwGS"
@@ -12197,6 +12215,24 @@
     },
     {
       "album": {
+        "name": "CRUSH",
+        "url": "https://open.spotify.com/album/3jZED8IBbTnmpGPRqBHDXC"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "CRUSH",
+      "url": "https://open.spotify.com/track/7fjno2HOtZoIEMAgcSwOyy"
+    },
+    {
+      "album": {
         "name": "CRY",
         "url": "https://open.spotify.com/album/2SD2qVPofdZEPVJjgRiLAT"
       },
@@ -17186,7 +17222,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 208687,
       "name": "EX",
       "url": "https://open.spotify.com/track/2jHipIIvKgwU9mfqSnyO8u"
@@ -19129,6 +19165,24 @@
     },
     {
       "album": {
+        "name": "flip phone",
+        "url": "https://open.spotify.com/album/0Kwwg43ZAWqx7W3QO7Baww"
+      },
+      "artists": [
+        {
+          "name": "PIAO",
+          "url": "https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124553,
+      "name": "flip phone",
+      "url": "https://open.spotify.com/track/0jLYbfU5qwk4ivxrE4sZUi"
+    },
+    {
+      "album": {
         "name": "FLIRT",
         "url": "https://open.spotify.com/album/1fMLY44uf7SieAG7bY8NHw"
       },
@@ -20058,6 +20112,24 @@
       "duration_ms": 139016,
       "name": "Friends of Friends",
       "url": "https://open.spotify.com/track/338CQDfwT9cQNqKWi0WpLQ"
+    },
+    {
+      "album": {
+        "name": "Friends That Kiss",
+        "url": "https://open.spotify.com/album/4IqXE6wpoVYJvn3wb7Owg2"
+      },
+      "artists": [
+        {
+          "name": "La Rhonza",
+          "url": "https://open.spotify.com/artist/5YOg6PEOX2N8a7Rn0rBRjD"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185782,
+      "name": "Friends That Kiss",
+      "url": "https://open.spotify.com/track/6yuLBqqPR9fs0lLWEPAXJx"
     },
     {
       "album": {
@@ -26514,7 +26586,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 128223,
       "name": "I Can't Be Friends With You",
       "url": "https://open.spotify.com/track/6Clm36yYbpzT7Ea1D0TJYb"
@@ -31688,7 +31760,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 153495,
       "name": "Leave Tonight",
       "url": "https://open.spotify.com/track/00CxTPBETcBko91D5mkIDh"
@@ -40656,7 +40728,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 203157,
       "name": "Ocean Lights",
       "url": "https://open.spotify.com/track/5SxChhZAgflkWJJXhOoeW1"
@@ -42738,7 +42810,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 224132,
       "name": "Passenger Seat",
       "url": "https://open.spotify.com/track/1d0fuygCq7natWK8kelMoY"
@@ -51491,6 +51563,24 @@
     },
     {
       "album": {
+        "name": "STAMINA",
+        "url": "https://open.spotify.com/album/17Jenz4JpbDtdrpFu1MdGA"
+      },
+      "artists": [
+        {
+          "name": "APOLLO STOWE",
+          "url": "https://open.spotify.com/artist/2LTi6jtnIvBGZl3BzaHdkt"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177760,
+      "name": "STAMINA",
+      "url": "https://open.spotify.com/track/488OTJLTkfkZSaiRRC5Aza"
+    },
+    {
+      "album": {
         "name": "Stand Up",
         "url": "https://open.spotify.com/album/0ZHkKgKUzW2kHR2ryo3Idw"
       },
@@ -57780,6 +57870,24 @@
       "duration_ms": 189548,
       "name": "Tropical Sour Candy",
       "url": "https://open.spotify.com/track/0zwKGD9KXvdIfZXlCb0WzI"
+    },
+    {
+      "album": {
+        "name": "TRUCE?",
+        "url": "https://open.spotify.com/album/1JeVht8TRLyjSiZMOaKO2P"
+      },
+      "artists": [
+        {
+          "name": "Zahraa",
+          "url": "https://open.spotify.com/artist/2dEne6fzRqdfeUce061gtr"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124062,
+      "name": "TRUCE?",
+      "url": "https://open.spotify.com/track/1ZG1m6fra8Z4i9baZdZYKC"
     },
     {
       "album": {

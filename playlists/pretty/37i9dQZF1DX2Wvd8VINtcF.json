@@ -1,13 +1,33 @@
 {
   "description": "pearls of an oyster. Cover: Kaytranada",
-  "num_followers": 138554,
+  "num_followers": 138571,
   "original_name": "Oyster",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmtr4AAAAABBKhTtsYvXbvFO98cvU7Ji",
+  "snapshot_id": "ZnKNkgAAAAA51Nt80qwcKA8PZQcwFmhZ",
   "tracks": [
+    {
+      "added_at": "2024-06-19 07:49:38",
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 202648,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am"
+    },
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {

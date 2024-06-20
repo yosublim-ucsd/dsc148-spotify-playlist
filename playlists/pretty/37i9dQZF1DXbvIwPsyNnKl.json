@@ -1,13 +1,33 @@
 {
   "description": "The place for the very best of Pinoy hip-hop. Kalye Natin 'To. Cover: Nik Makino",
-  "num_followers": 1156012,
+  "num_followers": 1156831,
   "original_name": "KALYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmkvfgAAAABM3HHJ7ZXXCK3D/z6VBjpR",
+  "snapshot_id": "ZnOMhAAAAADFrY2kJ8MX3isysbg4517R",
   "tracks": [
+    {
+      "added_at": "2024-06-20 01:57:24",
+      "album": {
+        "name": "Real Talk",
+        "url": "https://open.spotify.com/album/1RuWV3kpG2gFEinRXB7ntu"
+      },
+      "artists": [
+        {
+          "name": "Gat Putch",
+          "url": "https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v"
+        },
+        {
+          "name": "Costa Cashman",
+          "url": "https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI"
+        }
+      ],
+      "duration_ms": 192611,
+      "name": "Real Talk",
+      "url": "https://open.spotify.com/track/7pWNl0BdWqYvT9swgDqZAq"
+    },
     {
       "added_at": "2024-06-12 05:17:50",
       "album": {

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Latvia.
 
-2,090 songs - 4 day 16 hr 52 min
+2,091 songs - 4 day 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1295,6 +1295,7 @@
 | [Permission to Dance](https://open.spotify.com/track/5eXBXreN3d1zdj6Sa8dS0u) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Permission to Dance](https://open.spotify.com/album/6oLwgqPJrxnTibrzawDGqY) | 3:07 | 2021-07-25 | 2021-08-01 |
 | [PHONKY TOWN](https://open.spotify.com/track/0BRbI3ZMPXuj9yA7ChDGOW) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [PHONKY TOWN](https://open.spotify.com/album/3e6HcRWTkyGi6dA0Zg5pxw) | 2:21 | 2021-05-20 | 2021-07-12 |
 | [Pie Laika](https://open.spotify.com/track/1D0pl4jcdzb1MOQKBLskJb) | [IGO](https://open.spotify.com/artist/4icoz2e4mkyQaZbGH4cjwy) | [Tas Ir Igo 1981\-1997 Vol.2](https://open.spotify.com/album/4PxXXSNL0tGyMFbEVyvB9o) | 4:34 | 2022-11-19 | 2023-11-21 |
+| [Pie manis tveries](https://open.spotify.com/track/5XRbOJlvB5S91yQd1Vsjl3) | [Atvara](https://open.spotify.com/artist/4FTGADpPjk9LgpAQAqQhI0) | [Pie manis tveries](https://open.spotify.com/album/3NxOhtkEeitQcEBPJaKZBL) | 3:14 | 2024-06-19 |  |
 | [pieaudzis vīrietis](https://open.spotify.com/track/2Bfp3LjK2lOD6AZ6NTEVdm) | [rolands če](https://open.spotify.com/artist/35liSWoGK1NcMBLNQqamHZ) | [visurgājējs](https://open.spotify.com/album/359NpKcAHBDr1bD3jdqOMe) | 1:48 | 2022-04-30 | 2022-05-02 |
 | [PIECAS DIENAS](https://open.spotify.com/track/3CEWr9ljS98w1OKSWFGZ3G) | [Singapūras Satīns](https://open.spotify.com/artist/3X4o7qy1ci4qtCVg2AtuXb) | [SUPER](https://open.spotify.com/album/3e2kBXojxipDi0ItyCNx4e) | 2:57 | 2023-10-11 | 2023-10-13 |
 | [Piededzini Mann](https://open.spotify.com/track/0q3QoeqUKLIiHz7d43nvGb) | [Singapūras Satīns](https://open.spotify.com/artist/3X4o7qy1ci4qtCVg2AtuXb), [Horens Stalbe](https://open.spotify.com/artist/1el9n4RafRlBufvBxyRYYR) | [Ne Jau Atkal](https://open.spotify.com/album/6wuiCkzj5FtKNK0JvQDHc0) | 4:20 | 2021-06-25 | 2024-06-18 |
@@ -1703,7 +1704,7 @@
 | [The Moon Is Rising \- Original](https://open.spotify.com/track/2h9pSMHx48Q4SOWsvEiah5) | [Samanta Tina](https://open.spotify.com/artist/7pivhgzLZSku2ixQRxQ5BK) | [The Moon Is Rising](https://open.spotify.com/album/7FHNsh3k6I1e2GDtJww2Rb) | 3:00 | 2021-05-21 | 2021-05-29 |
 | [The Motto](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto](https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV) | 2:44 | 2021-12-28 | 2022-09-13 |
 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 | 2023-10-02 | 2024-04-19 |
-| [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 | 2024-04-18 |  |
+| [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 | 2024-04-18 | 2024-06-20 |
 | [The Real Slim Shady](https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 4:44 | 2022-02-21 | 2022-11-20 |
 | [The Smallest Man Who Ever Lived](https://open.spotify.com/track/2v1ivOOsgn64g5OywuH55L) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:05 | 2024-04-20 | 2024-04-23 |
 | [The Sound of Silence \- CYRIL Remix](https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Sound of Silence \(CYRIL Remix\)](https://open.spotify.com/album/4AaJMesGEVwF7QpWMSG29p) | 3:05 | 2024-05-05 | 2024-06-19 |

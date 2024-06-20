@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-11",
-  "description": "This Is Nicki Minaj. Los temas esenciales, todos en una lista.",
+  "description": "This is Nicki Minaj. The essential tracks, all in one playlist.",
   "name": "This Is Nicki Minaj",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 222200,
       "name": "2012 (It Ain't The End)",
       "url": "https://open.spotify.com/track/1ERCOXHQcoLSTlgmNTlcrR"
@@ -334,7 +334,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 212346,
       "name": "Did It On\u2019em",
       "url": "https://open.spotify.com/track/6Slt6WiWnriaqCb8xXb2ZT"

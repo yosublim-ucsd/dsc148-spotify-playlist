@@ -1,6 +1,6 @@
 {
   "description": "Walk the threshold into the netherworld...",
-  "num_followers": 162233,
+  "num_followers": 162290,
   "original_name": "Hauntology",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/0T5JxyJdfCZAOMnX9uZehI"
-      },
-      "artists": [
-        {
-          "name": "James Last",
-          "url": "https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG"
-        }
-      ],
-      "duration_ms": 180373,
-      "name": "Saute-Mouton",
-      "url": "https://open.spotify.com/track/2NVfqbSEFDT6CmDA2DQMpZ"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
         "name": "Inter-Dimensional Music",
         "url": "https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 93493,
       "name": "Libra Sunrise",
       "url": "https://open.spotify.com/track/0TaGZcPrNl0ewkCgdjF7wt"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/0T5JxyJdfCZAOMnX9uZehI"
+      },
+      "artists": [
+        {
+          "name": "James Last",
+          "url": "https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG"
+        }
+      ],
+      "duration_ms": 180373,
+      "name": "Saute-Mouton",
+      "url": "https://open.spotify.com/track/2NVfqbSEFDT6CmDA2DQMpZ"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -303,18 +303,18 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "Other Channels",
-        "url": "https://open.spotify.com/album/5e8pjxQuuRyMf6FjjaQT3D"
+        "name": "The Secret Cosmic Music of the East German Olympic Program 1972-83, Vol. 3",
+        "url": "https://open.spotify.com/album/4ZAtlPjTyeQeptFlp38oez"
       },
       "artists": [
         {
-          "name": "The Advisory Circle",
-          "url": "https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S"
+          "name": "Kosmischer L\u00e4ufer",
+          "url": "https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B"
         }
       ],
-      "duration_ms": 207866,
-      "name": "Sundial",
-      "url": "https://open.spotify.com/track/6RuZpxDrZ5xGMRQB0Eodp4"
+      "duration_ms": 136160,
+      "name": "In der Stadt und auf dem Land",
+      "url": "https://open.spotify.com/track/5RpoUzFpBM0EMSet3Mzldw"
     },
     {
       "added_at": "2024-04-16 15:26:10",
@@ -335,18 +335,18 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "The Secret Cosmic Music of the East German Olympic Program 1972-83, Vol. 3",
-        "url": "https://open.spotify.com/album/4ZAtlPjTyeQeptFlp38oez"
+        "name": "Other Channels",
+        "url": "https://open.spotify.com/album/5e8pjxQuuRyMf6FjjaQT3D"
       },
       "artists": [
         {
-          "name": "Kosmischer L\u00e4ufer",
-          "url": "https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B"
+          "name": "The Advisory Circle",
+          "url": "https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S"
         }
       ],
-      "duration_ms": 136160,
-      "name": "In der Stadt und auf dem Land",
-      "url": "https://open.spotify.com/track/5RpoUzFpBM0EMSet3Mzldw"
+      "duration_ms": 207866,
+      "name": "Sundial",
+      "url": "https://open.spotify.com/track/6RuZpxDrZ5xGMRQB0Eodp4"
     },
     {
       "added_at": "2023-05-12 03:29:58",
@@ -445,22 +445,6 @@
       "url": "https://open.spotify.com/track/5T8IT6Qq5eH08c5T95j1ON"
     },
     {
-      "added_at": "2023-10-27 23:45:13",
-      "album": {
-        "name": "Ozone Scraper",
-        "url": "https://open.spotify.com/album/5AUkiL7bPV1Hc6jGdYydrI"
-      },
-      "artists": [
-        {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
-        }
-      ],
-      "duration_ms": 211299,
-      "name": "Ozone Scraper",
-      "url": "https://open.spotify.com/track/0Q9R4VjA7LedOAoUBvT2fV"
-    },
-    {
       "added_at": "2021-10-27 14:20:30",
       "album": {
         "name": "Inter-Dimensional Music",
@@ -475,6 +459,22 @@
       "duration_ms": 252146,
       "name": "Lueena Coast",
       "url": "https://open.spotify.com/track/6JR1XlStv1gnRLT7sNek4q"
+    },
+    {
+      "added_at": "2023-10-27 23:45:13",
+      "album": {
+        "name": "Ozone Scraper",
+        "url": "https://open.spotify.com/album/5AUkiL7bPV1Hc6jGdYydrI"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "duration_ms": 211299,
+      "name": "Ozone Scraper",
+      "url": "https://open.spotify.com/track/0Q9R4VjA7LedOAoUBvT2fV"
     },
     {
       "added_at": "2022-09-03 03:46:33",
@@ -569,22 +569,6 @@
       "url": "https://open.spotify.com/track/0dUmodeLcQowf3YZAdOoTW"
     },
     {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
-        "name": "Other Channels",
-        "url": "https://open.spotify.com/album/5e8pjxQuuRyMf6FjjaQT3D"
-      },
-      "artists": [
-        {
-          "name": "The Advisory Circle",
-          "url": "https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S"
-        }
-      ],
-      "duration_ms": 176973,
-      "name": "Mogadon Coffee Morning",
-      "url": "https://open.spotify.com/track/4qM00ki1r0Y94lqUkuedia"
-    },
-    {
       "added_at": "2022-03-11 05:43:05",
       "album": {
         "name": "The Seed (Original Score)",
@@ -603,18 +587,18 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "The Gone Away",
-        "url": "https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv"
+        "name": "Other Channels",
+        "url": "https://open.spotify.com/album/5e8pjxQuuRyMf6FjjaQT3D"
       },
       "artists": [
         {
-          "name": "Belbury Poly",
-          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
+          "name": "The Advisory Circle",
+          "url": "https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S"
         }
       ],
-      "duration_ms": 241732,
-      "name": "The Gone Away",
-      "url": "https://open.spotify.com/track/5NDgIlcWR69yxix0SsI9jO"
+      "duration_ms": 176973,
+      "name": "Mogadon Coffee Morning",
+      "url": "https://open.spotify.com/track/4qM00ki1r0Y94lqUkuedia"
     },
     {
       "added_at": "2022-02-25 03:58:22",
@@ -631,6 +615,22 @@
       "duration_ms": 129953,
       "name": "Broken Theme",
       "url": "https://open.spotify.com/track/2yPwst86GlebGzgaO78CjQ"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "The Gone Away",
+        "url": "https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv"
+      },
+      "artists": [
+        {
+          "name": "Belbury Poly",
+          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
+        }
+      ],
+      "duration_ms": 241732,
+      "name": "The Gone Away",
+      "url": "https://open.spotify.com/track/5NDgIlcWR69yxix0SsI9jO"
     },
     {
       "added_at": "2022-03-11 06:00:33",
@@ -719,22 +719,6 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "Ouroborindra",
-        "url": "https://open.spotify.com/album/5AzeLnYYLMOmvdTjkNKvrd"
-      },
-      "artists": [
-        {
-          "name": "Eric Zann",
-          "url": "https://open.spotify.com/artist/4e3VOviHc0pVF6WROIykGQ"
-        }
-      ],
-      "duration_ms": 326426,
-      "name": "It is narrow here",
-      "url": "https://open.spotify.com/track/1QUNKDYuz1vxpRAHitxj9i"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
         "name": "Dragon Wings and Wizard Tales",
         "url": "https://open.spotify.com/album/28yG3trjPCbTDtKbTgm9Pf"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 185773,
       "name": "Flight of the Raven",
       "url": "https://open.spotify.com/track/6PVBbkAbQVb9PxordrVHa8"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "Ouroborindra",
+        "url": "https://open.spotify.com/album/5AzeLnYYLMOmvdTjkNKvrd"
+      },
+      "artists": [
+        {
+          "name": "Eric Zann",
+          "url": "https://open.spotify.com/artist/4e3VOviHc0pVF6WROIykGQ"
+        }
+      ],
+      "duration_ms": 326426,
+      "name": "It is narrow here",
+      "url": "https://open.spotify.com/track/1QUNKDYuz1vxpRAHitxj9i"
     },
     {
       "added_at": "2024-02-02 05:51:49",
@@ -765,22 +765,6 @@
       "url": "https://open.spotify.com/track/7bTVWXk2jJUipSfGaSZG8b"
     },
     {
-      "added_at": "2022-09-26 22:48:42",
-      "album": {
-        "name": "Sonus Ruinae",
-        "url": "https://open.spotify.com/album/5GWWgKTuTNLVTlMB44ognu"
-      },
-      "artists": [
-        {
-          "name": "Marta De Pascalis",
-          "url": "https://open.spotify.com/artist/5mcn2ysmgFilH73FQhQIcr"
-        }
-      ],
-      "duration_ms": 583500,
-      "name": "Sonus Ruinae part 1",
-      "url": "https://open.spotify.com/track/6zBMShkhey4dGfJb9DjHxS"
-    },
-    {
       "added_at": "2022-03-11 06:35:59",
       "album": {
         "name": "The Silver Threshold",
@@ -795,6 +779,22 @@
       "duration_ms": 256402,
       "name": "The Silver Threshold",
       "url": "https://open.spotify.com/track/4Xak0spxf9QBSwlTEOsrbA"
+    },
+    {
+      "added_at": "2022-09-26 22:48:42",
+      "album": {
+        "name": "Sonus Ruinae",
+        "url": "https://open.spotify.com/album/5GWWgKTuTNLVTlMB44ognu"
+      },
+      "artists": [
+        {
+          "name": "Marta De Pascalis",
+          "url": "https://open.spotify.com/artist/5mcn2ysmgFilH73FQhQIcr"
+        }
+      ],
+      "duration_ms": 583500,
+      "name": "Sonus Ruinae part 1",
+      "url": "https://open.spotify.com/track/6zBMShkhey4dGfJb9DjHxS"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -849,22 +849,6 @@
       "url": "https://open.spotify.com/track/3TRb8Wm644PAarRbXklzCc"
     },
     {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
-        "name": "The Willows",
-        "url": "https://open.spotify.com/album/5ilT4DXjIzF81QkF5uYMZU"
-      },
-      "artists": [
-        {
-          "name": "Belbury Poly",
-          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
-        }
-      ],
-      "duration_ms": 283786,
-      "name": "The Willows",
-      "url": "https://open.spotify.com/track/0e9Zk8SwtlzNJ27ch4HIsY"
-    },
-    {
       "added_at": "2022-07-15 05:23:56",
       "album": {
         "name": "Kof\u016b",
@@ -879,6 +863,22 @@
       "duration_ms": 252308,
       "name": "Man'y\u014d",
       "url": "https://open.spotify.com/track/4sB39x0JgV0lX4tUwfUydN"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "The Willows",
+        "url": "https://open.spotify.com/album/5ilT4DXjIzF81QkF5uYMZU"
+      },
+      "artists": [
+        {
+          "name": "Belbury Poly",
+          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
+        }
+      ],
+      "duration_ms": 283786,
+      "name": "The Willows",
+      "url": "https://open.spotify.com/track/0e9Zk8SwtlzNJ27ch4HIsY"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -981,6 +981,22 @@
       "url": "https://open.spotify.com/track/2V5fHNhW9C1D5eSKx8zeSb"
     },
     {
+      "added_at": "2023-12-22 16:02:06",
+      "album": {
+        "name": "Nodos",
+        "url": "https://open.spotify.com/album/6Ja5JJOhoIkI7hf0r5pNlf"
+      },
+      "artists": [
+        {
+          "name": "Radiotr\u00f3nica",
+          "url": "https://open.spotify.com/artist/0BBRvMCMiGIJBI3dn5vySN"
+        }
+      ],
+      "duration_ms": 111813,
+      "name": "Planeta Oc\u00e9ano",
+      "url": "https://open.spotify.com/track/2DgsIFDMthDkK5WQXnFeAF"
+    },
+    {
       "added_at": "2022-09-26 22:17:41",
       "album": {
         "name": "In Free Fall",
@@ -1015,22 +1031,6 @@
       "duration_ms": 136366,
       "name": "Arriving To Davida",
       "url": "https://open.spotify.com/track/5QsVuOfSlSr2n7KdpPcaoA"
-    },
-    {
-      "added_at": "2023-12-22 16:02:06",
-      "album": {
-        "name": "Nodos",
-        "url": "https://open.spotify.com/album/6Ja5JJOhoIkI7hf0r5pNlf"
-      },
-      "artists": [
-        {
-          "name": "Radiotr\u00f3nica",
-          "url": "https://open.spotify.com/artist/0BBRvMCMiGIJBI3dn5vySN"
-        }
-      ],
-      "duration_ms": 111813,
-      "name": "Planeta Oc\u00e9ano",
-      "url": "https://open.spotify.com/track/2DgsIFDMthDkK5WQXnFeAF"
     },
     {
       "added_at": "2022-02-21 20:35:59",
@@ -1161,22 +1161,6 @@
       "url": "https://open.spotify.com/track/7Bc847O3AJsMwmvCFCwOvf"
     },
     {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
-        "name": "The Slot EP",
-        "url": "https://open.spotify.com/album/0CL9lVXssZiyCvKb50B2vv"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Dennis Greenidge",
-          "url": "https://open.spotify.com/artist/6eiHpA39MSZGDRbYk2navb"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Cuckoo Clock",
-      "url": "https://open.spotify.com/track/3U9CTNsTK9tILwGcJkUxJG"
-    },
-    {
       "added_at": "2022-04-06 03:05:40",
       "album": {
         "name": "Their Dark Dominion",
@@ -1191,6 +1175,22 @@
       "duration_ms": 176652,
       "name": "Moonlight and Magic",
       "url": "https://open.spotify.com/track/3cSV9CdfTgLo6z7NtFZjtK"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "The Slot EP",
+        "url": "https://open.spotify.com/album/0CL9lVXssZiyCvKb50B2vv"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Dennis Greenidge",
+          "url": "https://open.spotify.com/artist/6eiHpA39MSZGDRbYk2navb"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Cuckoo Clock",
+      "url": "https://open.spotify.com/track/3U9CTNsTK9tILwGcJkUxJG"
     },
     {
       "added_at": "2022-04-06 03:05:40",
@@ -1277,22 +1277,6 @@
       "url": "https://open.spotify.com/track/0g3bxwZ1zrlZZUrsmz7xIR"
     },
     {
-      "added_at": "2022-06-08 02:20:31",
-      "album": {
-        "name": "Umbra",
-        "url": "https://open.spotify.com/album/4JJ56IJQdwUNfcexYgJf3n"
-      },
-      "artists": [
-        {
-          "name": "Monica Hapsari",
-          "url": "https://open.spotify.com/artist/20A3XzYQEOFjheUWIfOK6j"
-        }
-      ],
-      "duration_ms": 437634,
-      "name": "Umbra",
-      "url": "https://open.spotify.com/track/65oyZGxKUxzfv12LglkHbO"
-    },
-    {
       "added_at": "2021-10-27 14:20:30",
       "album": {
         "name": "Study Series 02: Cycles and Seasons",
@@ -1307,6 +1291,22 @@
       "duration_ms": 242308,
       "name": "New Dimensions In",
       "url": "https://open.spotify.com/track/0lle1Oh7IBpWWvChKZRlEW"
+    },
+    {
+      "added_at": "2022-06-08 02:20:31",
+      "album": {
+        "name": "Umbra",
+        "url": "https://open.spotify.com/album/4JJ56IJQdwUNfcexYgJf3n"
+      },
+      "artists": [
+        {
+          "name": "Monica Hapsari",
+          "url": "https://open.spotify.com/artist/20A3XzYQEOFjheUWIfOK6j"
+        }
+      ],
+      "duration_ms": 437634,
+      "name": "Umbra",
+      "url": "https://open.spotify.com/track/65oyZGxKUxzfv12LglkHbO"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "The Invisible World of Beautify Junkyards",
-        "url": "https://open.spotify.com/album/4UQQCmqDrhwHWaTUewl3cj"
-      },
-      "artists": [
-        {
-          "name": "Beautify Junkyards",
-          "url": "https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl"
-        }
-      ],
-      "duration_ms": 243893,
-      "name": "Golden Apples of the Sun",
-      "url": "https://open.spotify.com/track/4iaRi2pR8OUgJ2sXndxDQy"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
         "name": "Study Series 10: \"Message and Method\"",
         "url": "https://open.spotify.com/album/158xMytOacxH3lIFnUKclY"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 221991,
       "name": "Quiet Industry",
       "url": "https://open.spotify.com/track/5hIzUNQb56g3ONQYnubdlL"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "The Invisible World of Beautify Junkyards",
+        "url": "https://open.spotify.com/album/4UQQCmqDrhwHWaTUewl3cj"
+      },
+      "artists": [
+        {
+          "name": "Beautify Junkyards",
+          "url": "https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl"
+        }
+      ],
+      "duration_ms": 243893,
+      "name": "Golden Apples of the Sun",
+      "url": "https://open.spotify.com/track/4iaRi2pR8OUgJ2sXndxDQy"
     },
     {
       "added_at": "2021-10-27 14:20:30",

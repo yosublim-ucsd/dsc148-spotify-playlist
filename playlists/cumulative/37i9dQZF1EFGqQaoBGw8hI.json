@@ -3990,7 +3990,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-11",
+      "date_removed": null,
       "duration_ms": 200426,
       "name": "Hero On Parade",
       "url": "https://open.spotify.com/track/1lyoDgnhdyrlrkmSgoKZMt"
@@ -8052,12 +8052,12 @@
           "url": "https://open.spotify.com/artist/0gWa2AiDlbvF24aqoLT2c1"
         },
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
           "name": "Elton John",
           "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
       "date_added": "2022-10-13",

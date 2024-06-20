@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring NxWorries, Don Toliver, Moneybagg Yo and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,926 likes - 48 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,130 likes - 48 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 35 | [Lisan al Gaib](https://open.spotify.com/track/1mBAQbOtgYgcfDDS114jfh) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [Lisan al Gaib](https://open.spotify.com/album/2pPPFgH3dGwi65w6u9EHhY) | 2:24 |
 | 36 | [NUK3 \(w/ Luci4 & LAZER DIM 700\)](https://open.spotify.com/track/4KLR5fhJxXom7MPyo7sdPm) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Luci4](https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6), [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U) | [NUK3 \(w/ Luci4 & LAZER DIM 700\)](https://open.spotify.com/album/1mGWFWUMH5I4JSohESzH2M) | 2:46 |
 | 37 | [real feel](https://open.spotify.com/track/7fShwQkgkUYrL6GttNjHTb) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#gigi](https://open.spotify.com/album/5yYtz3hPgOc2XAh5eDjDBa) | 2:22 |
-| 38 | [YEA](https://open.spotify.com/track/4DqbPYolA2v85W0sVx1OhF) | [Yakiyn](https://open.spotify.com/artist/41lqavlwvb2IVsBpmCkh4E), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr) | [YEA](https://open.spotify.com/album/5VrydcfV2o1xUQdA65AzTP) | 3:45 |
+| 38 | [YEA](https://open.spotify.com/track/4DqbPYolA2v85W0sVx1OhF) | [Yakiyn](https://open.spotify.com/artist/41lqavlwvb2IVsBpmCkh4E), [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [YEA](https://open.spotify.com/album/5VrydcfV2o1xUQdA65AzTP) | 3:45 |
 | 39 | [She's Hot](https://open.spotify.com/track/5FDa2oOuhGQPCMhWhoSCty) | [ScarLip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ) | [She's Hot](https://open.spotify.com/album/2XFM7SGRSMPrgQkb8tLFBF) | 2:26 |
 | 40 | [ALICE.](https://open.spotify.com/track/2dVmZ5FPuBsZY8XwK7CRSc) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [when angels cry.](https://open.spotify.com/album/3Pxu2ymEhjctOANjYZh5eA) | 2:59 |
 | 41 | [AYO \(feat\. Barney Bones\)](https://open.spotify.com/track/0cvaZCETV0MHGNHLixgxgE) | [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn), [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV) | [CHUPACABRA](https://open.spotify.com/album/3YUzlaFbKNUi7BmYk9MBE3) | 2:35 |

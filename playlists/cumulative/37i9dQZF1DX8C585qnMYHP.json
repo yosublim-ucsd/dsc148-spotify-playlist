@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-30",
-  "description": "The best new music by Experimental independent artists and labels. Ozoyo on cover. Artwork by Thami Nabil",
+  "description": "The best new music by Experimental independent artists and labels. Stemlines on cover. Artwork by Thami Nabil",
   "name": "Fresh Finds Experimental",
   "tracks": [
     {
@@ -276,6 +276,24 @@
       "duration_ms": 290666,
       "name": "3210",
       "url": "https://open.spotify.com/track/0hvUG4dlVkEdzft1zsscQG"
+    },
+    {
+      "album": {
+        "name": "Snake EP",
+        "url": "https://open.spotify.com/album/4vIVSXatC6xk6XHyxVFbEM"
+      },
+      "artists": [
+        {
+          "name": "Nikki Nair",
+          "url": "https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260500,
+      "name": "333333",
+      "url": "https://open.spotify.com/track/2ojrTSSrh4MZR7wG7iyZVK"
     },
     {
       "album": {
@@ -1011,6 +1029,24 @@
     },
     {
       "album": {
+        "name": "Acryl",
+        "url": "https://open.spotify.com/album/5QxKzsz8n1CEgX5r8EwlWr"
+      },
+      "artists": [
+        {
+          "name": "Damian Dalla Torre",
+          "url": "https://open.spotify.com/artist/2ZcNubl5ligYVy7MCs2JJ9"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Acryl",
+      "url": "https://open.spotify.com/track/0pwv361AU9vBQ85GlFBaXY"
+    },
+    {
+      "album": {
         "name": "Figura de Cristal",
         "url": "https://open.spotify.com/album/7Fj3Ex7rvD1rjHJMYPPoVH"
       },
@@ -1654,7 +1690,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 181106,
       "name": "AMANECER",
       "url": "https://open.spotify.com/track/1DDqxK4J41BGZXavc4cSuh"
@@ -1853,6 +1889,24 @@
     },
     {
       "album": {
+        "name": "Lucha Libre",
+        "url": "https://open.spotify.com/album/5AaVrBrxC3MQ18DGqU6XUA"
+      },
+      "artists": [
+        {
+          "name": "Valentina Magaletti",
+          "url": "https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281374,
+      "name": "And There Is Us",
+      "url": "https://open.spotify.com/track/3EWIfsVaZAx5tT0IO7qAAu"
+    },
+    {
+      "album": {
         "name": "Vou Ficar Neste Quadrado",
         "url": "https://open.spotify.com/album/2PhGH5fdz5o8r0eyhVr9KT"
       },
@@ -1864,7 +1918,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 166488,
       "name": "Ando Em C\u00edrculos",
       "url": "https://open.spotify.com/track/0UCAZcLhQS9MuzbzGCbTnG"
@@ -2424,6 +2478,24 @@
       "duration_ms": 258004,
       "name": "As It Happens",
       "url": "https://open.spotify.com/track/6ECmmkWc0esLE3hYHuD5KU"
+    },
+    {
+      "album": {
+        "name": "As You Sleep By My Feet",
+        "url": "https://open.spotify.com/album/3UkGxj2Q3zAK4DkZMX9f2N"
+      },
+      "artists": [
+        {
+          "name": "Jonnine",
+          "url": "https://open.spotify.com/artist/6s8JAb4h3UjN5r3BgRhUhQ"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225528,
+      "name": "As You Sleep By My Feet",
+      "url": "https://open.spotify.com/track/4zbHGbSafBOqXBlgjxnIz2"
     },
     {
       "album": {
@@ -3134,6 +3206,24 @@
       "duration_ms": 253455,
       "name": "Bamboo Chicken",
       "url": "https://open.spotify.com/track/4dye80AZnQJG9SMPN9nHgI"
+    },
+    {
+      "album": {
+        "name": "Hailu",
+        "url": "https://open.spotify.com/album/1VOzlKc0RL1MFMcPv94yO6"
+      },
+      "artists": [
+        {
+          "name": "COLA REN",
+          "url": "https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Baraka",
+      "url": "https://open.spotify.com/track/0HjOi8AnakBvS1oY5NEMlL"
     },
     {
       "album": {
@@ -4365,6 +4455,28 @@
     },
     {
       "album": {
+        "name": "Brujas",
+        "url": "https://open.spotify.com/album/2ahMcoPEkpknzg2e7ySSS1"
+      },
+      "artists": [
+        {
+          "name": "Olof Dreijer",
+          "url": "https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0"
+        },
+        {
+          "name": "Diva Cruz",
+          "url": "https://open.spotify.com/artist/6XePd0EqV9enJtOlKcb6o6"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209352,
+      "name": "Brujas",
+      "url": "https://open.spotify.com/track/0JapvpbFcgy3NzB8zeVAw9"
+    },
+    {
+      "album": {
         "name": "On Garudan Wing",
         "url": "https://open.spotify.com/album/4fwN78TBOSz6CkhXnVsEq6"
       },
@@ -4492,6 +4604,24 @@
       "duration_ms": 251506,
       "name": "Burundanger 2",
       "url": "https://open.spotify.com/track/5nNXm40EERTJ7By4wNtIxE"
+    },
+    {
+      "album": {
+        "name": "Endless Path of Memory",
+        "url": "https://open.spotify.com/album/06SMLc0USCxMg0EZm8ZwVu"
+      },
+      "artists": [
+        {
+          "name": "Nexcyia",
+          "url": "https://open.spotify.com/artist/40wAy6PBtoaw0dJB0JtkNZ"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287746,
+      "name": "Bury it Deep Inside Yourself",
+      "url": "https://open.spotify.com/track/6qZmqWAs0sbLKOpcV4i2fR"
     },
     {
       "album": {
@@ -5851,6 +5981,24 @@
     },
     {
       "album": {
+        "name": "Constellation",
+        "url": "https://open.spotify.com/album/1gwFi1rWlsDPs5OGk034Yr"
+      },
+      "artists": [
+        {
+          "name": "Caoilfhionn Rose",
+          "url": "https://open.spotify.com/artist/6YRqlhH88xZ7h2WOhwNYOb"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146316,
+      "name": "Constellation",
+      "url": "https://open.spotify.com/track/2DE5YgIfXiyusl1Pz6TAQd"
+    },
+    {
+      "album": {
         "name": "Invisible Cities II",
         "url": "https://open.spotify.com/album/2ho3mLscLHiFEu93DaLX2B"
       },
@@ -6330,7 +6478,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 315428,
       "name": "Dacey's Patent Automatic Nanny",
       "url": "https://open.spotify.com/track/2iEfmDxnxBtUShAQdNjErT"
@@ -6348,7 +6496,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 160519,
       "name": "Daddy Vaquero",
       "url": "https://open.spotify.com/track/79z81agD3MP8c8wxVlNoS0"
@@ -6704,6 +6852,24 @@
       "duration_ms": 475379,
       "name": "Deipkier",
       "url": "https://open.spotify.com/track/1hZawUg1APIr7nw6MOhyVf"
+    },
+    {
+      "album": {
+        "name": "Departed",
+        "url": "https://open.spotify.com/album/0ycL1vGVZTadGTkcq1vlxR"
+      },
+      "artists": [
+        {
+          "name": "Hakushi Hasegawa",
+          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134367,
+      "name": "Departed",
+      "url": "https://open.spotify.com/track/7udizCkehDvHpPbG6smnVe"
     },
     {
       "album": {
@@ -9262,7 +9428,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 173226,
       "name": "Ferrari Rocher",
       "url": "https://open.spotify.com/track/7KFHq7A8fDPv3vzGDWJ7Tf"
@@ -10028,6 +10194,24 @@
       "duration_ms": 153128,
       "name": "For your safety",
       "url": "https://open.spotify.com/track/3yIKczp0CRsnGtK7P0e5R6"
+    },
+    {
+      "album": {
+        "name": "Forest Drone",
+        "url": "https://open.spotify.com/album/3hW3zaNS0WtTBE53J0Eg45"
+      },
+      "artists": [
+        {
+          "name": "COLA REN",
+          "url": "https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287976,
+      "name": "Forest Drone",
+      "url": "https://open.spotify.com/track/34XFYiJ3nq2qgq63k4ylM2"
     },
     {
       "album": {
@@ -13836,7 +14020,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 196262,
       "name": "Installation of the Cisterns",
       "url": "https://open.spotify.com/track/66JXLRPR7uOrSRnUMjz7oW"
@@ -13908,7 +14092,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 356571,
       "name": "Intelligence",
       "url": "https://open.spotify.com/track/1ijy62PDVeq0rVya0kZPo4"
@@ -14530,7 +14714,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 280823,
       "name": "JUST A WORM",
       "url": "https://open.spotify.com/track/1VrZ1GXJ7ung4o9uLMnqzU"
@@ -14736,7 +14920,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 320409,
       "name": "Ki moun ou ye",
       "url": "https://open.spotify.com/track/5j0A24ckSZtirzrxxVjGdy"
@@ -14758,7 +14942,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 140000,
       "name": "Kick Off - Cwondo Remix",
       "url": "https://open.spotify.com/track/63RgD8yCcqNOdch68VVX35"
@@ -15034,6 +15218,24 @@
       "duration_ms": 338000,
       "name": "La Brume",
       "url": "https://open.spotify.com/track/3Kmn0mu69Lu2FEgyFkIaXs"
+    },
+    {
+      "album": {
+        "name": "Oxido En El Espejo",
+        "url": "https://open.spotify.com/album/05TIjD2VizBIseqZeGAS84"
+      },
+      "artists": [
+        {
+          "name": "Boundary",
+          "url": "https://open.spotify.com/artist/4CLh84k1pT9WmMC3hkJCiS"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283000,
+      "name": "La Luna me Dijo Esto Detr\u00e1s del Puente",
+      "url": "https://open.spotify.com/track/28bX7nVpWmFjU6jG72adUf"
     },
     {
       "album": {
@@ -17538,7 +17740,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 132005,
       "name": "Miyazaki",
       "url": "https://open.spotify.com/track/2v1PAU4jkaz6IKSYMP9GQ6"
@@ -17762,7 +17964,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 382224,
       "name": "moon",
       "url": "https://open.spotify.com/track/53efsv7kZof3mTNGTiuJ8F"
@@ -19371,6 +19573,24 @@
     },
     {
       "album": {
+        "name": "Cos\u00ec Dentro Come Fuori",
+        "url": "https://open.spotify.com/album/46gbDoIVM0Znyj0QAE5VOP"
+      },
+      "artists": [
+        {
+          "name": "Porta D'Oro",
+          "url": "https://open.spotify.com/artist/7xTxKE5BwKPwnjLU9E1mXg"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115990,
+      "name": "O Sentiero Futuro",
+      "url": "https://open.spotify.com/track/2RNhGCpqfV9ldc1VDeHCmG"
+    },
+    {
+      "album": {
         "name": "o'yea",
         "url": "https://open.spotify.com/album/05YmiOtEzvUIflSfrNcvpx"
       },
@@ -19704,6 +19924,24 @@
       "duration_ms": 531000,
       "name": "One Living Genus - radio edit",
       "url": "https://open.spotify.com/track/43phPbdVEpy7kdGe5Oz2lE"
+    },
+    {
+      "album": {
+        "name": "One More Night At The Line",
+        "url": "https://open.spotify.com/album/3PYU2KLkDQLMQNdhCKrUKp"
+      },
+      "artists": [
+        {
+          "name": "Kamixlo",
+          "url": "https://open.spotify.com/artist/047OAyUhKioOpwIRFrRVfx"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191033,
+      "name": "One More Night At The Line",
+      "url": "https://open.spotify.com/track/4rduEWVCutOFwxrX4oghxU"
     },
     {
       "album": {
@@ -20306,7 +20544,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 201759,
       "name": "PATTI SMITH",
       "url": "https://open.spotify.com/track/7FtjGAVTS5eIJWNpNQ5jaT"
@@ -22215,6 +22453,28 @@
     },
     {
       "album": {
+        "name": "Hailu Remixes",
+        "url": "https://open.spotify.com/album/6YAuHoiIzJlPk7V2HMNtdJ"
+      },
+      "artists": [
+        {
+          "name": "COLA REN",
+          "url": "https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs"
+        },
+        {
+          "name": "K-Lone",
+          "url": "https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334000,
+      "name": "Riot on the Hush - K-LONE Remix",
+      "url": "https://open.spotify.com/track/4nSAzW4tCwfL5SZhwfeb6A"
+    },
+    {
+      "album": {
         "name": "RIPTIDE",
         "url": "https://open.spotify.com/album/7lAip95eODxxCJOKeeQW1P"
       },
@@ -22850,7 +23110,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 321082,
       "name": "Sampler 1 B1 - Regis Edit",
       "url": "https://open.spotify.com/track/3hJyVn1GKQthsNbg7rTwKx"
@@ -23707,6 +23967,24 @@
     },
     {
       "album": {
+        "name": "Simulacrima",
+        "url": "https://open.spotify.com/album/0dNgv0qqAvyhoPf8ImfPI5"
+      },
+      "artists": [
+        {
+          "name": "Fera",
+          "url": "https://open.spotify.com/artist/0RCFF3ElmHRKsaMmHXE3h7"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218145,
+      "name": "Simulacrima",
+      "url": "https://open.spotify.com/track/560pUCDhzM0srmGeg6JLbF"
+    },
+    {
+      "album": {
         "name": "Siro Silo",
         "url": "https://open.spotify.com/album/5Sl86p5foB6RvuCjrYuYVN"
       },
@@ -24508,10 +24786,28 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 238750,
       "name": "something that lasts",
       "url": "https://open.spotify.com/track/5HkMf5rorBI0pELgPbKmf9"
+    },
+    {
+      "album": {
+        "name": "Princ\u20acss",
+        "url": "https://open.spotify.com/album/51Mlprk1NMBAGxonqSeoBB"
+      },
+      "artists": [
+        {
+          "name": "Princ\u20acss",
+          "url": "https://open.spotify.com/artist/5yW6mt2dbWDMlDw39WswCB"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173515,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/66xNqJZaoYfBHYbI2iV3ob"
     },
     {
       "album": {
@@ -25866,7 +26162,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 164083,
       "name": "Sweety Chant",
       "url": "https://open.spotify.com/track/7zCe5HqES3Y5z23EZLq0gA"
@@ -26928,6 +27224,24 @@
       "duration_ms": 501853,
       "name": "The Images Within",
       "url": "https://open.spotify.com/track/0EpTpmRk9Dvn1fBYbCbKWV"
+    },
+    {
+      "album": {
+        "name": "the key",
+        "url": "https://open.spotify.com/album/6M5u72DkNgy18V5Lmorsg0"
+      },
+      "artists": [
+        {
+          "name": "mou",
+          "url": "https://open.spotify.com/artist/0hjU3zARYvc8H37k4RCqjt"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177592,
+      "name": "the key",
+      "url": "https://open.spotify.com/track/77RiM667a2Vx3s0wYo9oE4"
     },
     {
       "album": {
@@ -28902,7 +29216,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 272112,
       "name": "Tusi Ojos",
       "url": "https://open.spotify.com/track/5E32NyBpHy9VAiOAeF0qSX"
@@ -28942,6 +29256,32 @@
       "duration_ms": 70000,
       "name": "Twilight Serenade",
       "url": "https://open.spotify.com/track/0iY4vyb2sX4mNe3GmiXmg3"
+    },
+    {
+      "album": {
+        "name": "three",
+        "url": "https://open.spotify.com/album/4Wp9nBdyOi7Bg0NcSukCvO"
+      },
+      "artists": [
+        {
+          "name": "Black Decelerant",
+          "url": "https://open.spotify.com/artist/3hDJXXTF8ZlZwrmiRuWtYo"
+        },
+        {
+          "name": "Contour",
+          "url": "https://open.spotify.com/artist/5eUhoxsPgFqAWSfOtwMNBF"
+        },
+        {
+          "name": "Omari Jazz",
+          "url": "https://open.spotify.com/artist/2JnmbU4G6t4GPZpIl5PUCT"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "two",
+      "url": "https://open.spotify.com/track/5AFbHte0qXKs8QUKTFY78i"
     },
     {
       "album": {
@@ -29452,6 +29792,24 @@
       "duration_ms": 210750,
       "name": "Unknown Fate",
       "url": "https://open.spotify.com/track/3RREDnjMKyXtH5dVwhlwHm"
+    },
+    {
+      "album": {
+        "name": "Unrecognisable",
+        "url": "https://open.spotify.com/album/6mMdp6Ua31O86pTWSdxcMC"
+      },
+      "artists": [
+        {
+          "name": "Lolina",
+          "url": "https://open.spotify.com/artist/1jj1qbHgrDKYct7IJv5VQ8"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219090,
+      "name": "Unrecognisable",
+      "url": "https://open.spotify.com/track/7EMUufH1L5NBPj1OoPSIg5"
     },
     {
       "album": {
@@ -31900,7 +32258,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 235140,
       "name": "Z",
       "url": "https://open.spotify.com/track/19G1b84wBvs8AB4mpkaLQb"
@@ -32438,7 +32796,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 447810,
       "name": "\u72c2\u60f3\u30fb\u672a\u6765\u30fb\u30ed\u30de\u30f3\u30c1\u30ab",
       "url": "https://open.spotify.com/track/5FqKkGaJsjzfqeMtSmSPSH"

@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb",
-  "num_followers": 53651,
+  "num_followers": 53761,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1397,22 +1397,6 @@
       "url": "https://open.spotify.com/track/34Cc71Twm8s2IICmiIdWPR"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Barah\u00fanda",
-        "url": "https://open.spotify.com/album/1FQDhOTFGyuBHt3jSULiOv"
-      },
-      "artists": [
-        {
-          "name": "Monge",
-          "url": "https://open.spotify.com/artist/6DZ0EGYRySI2aVb4NVSDd1"
-        }
-      ],
-      "duration_ms": 139082,
-      "name": "Barah\u00fanda",
-      "url": "https://open.spotify.com/track/2ZuWHrPX5Qas5lQ4fqAcXS"
-    },
-    {
       "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "Fuego",
@@ -1433,20 +1417,20 @@
       "url": "https://open.spotify.com/track/5V2PCIRRf5doCDhOkCp7Ke"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Toma Que Toma",
-        "url": "https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd"
+        "name": "Barah\u00fanda",
+        "url": "https://open.spotify.com/album/1FQDhOTFGyuBHt3jSULiOv"
       },
       "artists": [
         {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+          "name": "Monge",
+          "url": "https://open.spotify.com/artist/6DZ0EGYRySI2aVb4NVSDd1"
         }
       ],
-      "duration_ms": 227076,
-      "name": "Toma Que Toma",
-      "url": "https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1"
+      "duration_ms": 139082,
+      "name": "Barah\u00fanda",
+      "url": "https://open.spotify.com/track/2ZuWHrPX5Qas5lQ4fqAcXS"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1467,6 +1451,22 @@
       "duration_ms": 398986,
       "name": "Catuca",
       "url": "https://open.spotify.com/track/5wo6GTB8QfMfCsCDAeFcZW"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Toma Que Toma",
+        "url": "https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "duration_ms": 227076,
+      "name": "Toma Que Toma",
+      "url": "https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1545,26 +1545,6 @@
       "url": "https://open.spotify.com/track/5Y2w2rya1gOzMjNojnn9f8"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Ritmo 305",
-        "url": "https://open.spotify.com/album/51YCaYg8W5r9aVolOc8Mk5"
-      },
-      "artists": [
-        {
-          "name": "Mel\u00e9",
-          "url": "https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX"
-        },
-        {
-          "name": "Thomas Garcia",
-          "url": "https://open.spotify.com/artist/0pOf0CQbzWVo2rgrH9h0Rq"
-        }
-      ],
-      "duration_ms": 215813,
-      "name": "Ritmo 305",
-      "url": "https://open.spotify.com/track/7M8EtNKLCdCEqPs1vwqHvE"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Toma Dale",
@@ -1583,6 +1563,26 @@
       "duration_ms": 323763,
       "name": "Toma Dale",
       "url": "https://open.spotify.com/track/3plaSBlILmcUoVBAHDca5c"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Ritmo 305",
+        "url": "https://open.spotify.com/album/51YCaYg8W5r9aVolOc8Mk5"
+      },
+      "artists": [
+        {
+          "name": "Mel\u00e9",
+          "url": "https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX"
+        },
+        {
+          "name": "Thomas Garcia",
+          "url": "https://open.spotify.com/artist/0pOf0CQbzWVo2rgrH9h0Rq"
+        }
+      ],
+      "duration_ms": 215813,
+      "name": "Ritmo 305",
+      "url": "https://open.spotify.com/track/7M8EtNKLCdCEqPs1vwqHvE"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1873,22 +1873,6 @@
       "url": "https://open.spotify.com/track/0oWyR0YlcPGZ9zuEHc6EaI"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Salzzati",
-        "url": "https://open.spotify.com/album/06whUCfuBRM3hI1Vgzs7fw"
-      },
-      "artists": [
-        {
-          "name": "Bruno Bona",
-          "url": "https://open.spotify.com/artist/0BeKej0zI0RZQxLPoktkpU"
-        }
-      ],
-      "duration_ms": 316757,
-      "name": "Periquito",
-      "url": "https://open.spotify.com/track/5gJU2cf4oyZdFqVoeYr7jn"
-    },
-    {
       "added_at": "2024-06-14 04:00:00",
       "album": {
         "name": "PAPI",
@@ -1907,6 +1891,22 @@
       "duration_ms": 155100,
       "name": "PAPI",
       "url": "https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Salzzati",
+        "url": "https://open.spotify.com/album/06whUCfuBRM3hI1Vgzs7fw"
+      },
+      "artists": [
+        {
+          "name": "Bruno Bona",
+          "url": "https://open.spotify.com/artist/0BeKej0zI0RZQxLPoktkpU"
+        }
+      ],
+      "duration_ms": 316757,
+      "name": "Periquito",
+      "url": "https://open.spotify.com/track/5gJU2cf4oyZdFqVoeYr7jn"
     },
     {
       "added_at": "2024-04-19 04:00:00",

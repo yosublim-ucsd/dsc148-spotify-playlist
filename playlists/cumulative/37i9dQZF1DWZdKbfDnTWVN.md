@@ -4,7 +4,7 @@
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6?si=RAxZFoJvS2CkSG4OXsdL1Q">Nyashinski</a>
 
-240 songs - 12 hr 21 min
+240 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,7 @@
 | [Suluhu](https://open.spotify.com/track/5rjQ4OPzr17HCT6twZ0NAE) | [Ssaru](https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW) | [Suluhu](https://open.spotify.com/album/47zlUL4ZroYapgxprNKyzs) | 2:25 | 2023-09-11 | 2024-04-26 |
 | [Super Vlone](https://open.spotify.com/track/3miQtVjY8EzasTE1BoKJrh) | [Xavier Xander](https://open.spotify.com/artist/71j1401qfvGqlUYS5l3axQ), [StewItUp](https://open.spotify.com/artist/5Q0VdhxLmQ5U7hVMJE52iP), [Dark War](https://open.spotify.com/artist/4F3FcVXU6fJ5nUCiKo2LNM) | [Super Vlone](https://open.spotify.com/album/6opfFkWE4RMyDrO675V23X) | 4:09 | 2022-07-07 | 2022-11-11 |
 | [Swerved](https://open.spotify.com/track/0LrGxBqyXmN6PrvB0ZOm0W) | [Lewis KE](https://open.spotify.com/artist/5EWEp45uBW3TNr3v0F0bT3) | [Swerved](https://open.spotify.com/album/60rP86C9hDkhNyYh9aSjJk) | 2:43 | 2023-10-26 | 2024-02-16 |
-| [Take U Out](https://open.spotify.com/track/7ywhq1XgC3hFE2sKeo7XjO) | [Lonepapii](https://open.spotify.com/artist/4mIWDZo3u97KqQCRYqRQuJ), [Fragah](https://open.spotify.com/artist/3bQIQv0IbFX9yE0NHqkJso) | [Take U Out](https://open.spotify.com/album/6q72JnamD6EzSO8BNaiW58) | 2:30 | 2024-06-13 |  |
+| [Take U Out](https://open.spotify.com/track/7ywhq1XgC3hFE2sKeo7XjO) | [Fragah](https://open.spotify.com/artist/3bQIQv0IbFX9yE0NHqkJso), [Lonepapii](https://open.spotify.com/artist/4mIWDZo3u97KqQCRYqRQuJ) | [Take You Out](https://open.spotify.com/album/6q72JnamD6EzSO8BNaiW58) | 2:08 | 2024-06-13 |  |
 | [Talk 1](https://open.spotify.com/track/2IEMb0weVldFdaFNKk3S2e) | [Zische](https://open.spotify.com/artist/0JB6umTJU4N8s89kqt63yZ) | [Talk 1](https://open.spotify.com/album/1fyB2EcRkCsLybJBhdDKRz) | 2:37 | 2022-08-04 | 2023-07-08 |
 | [Talk Ni Cheap](https://open.spotify.com/track/3yLgHCgibaREPaivKLUfUc) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU), [Mr right](https://open.spotify.com/artist/5FafI7t7Msq7cTLo1qyjHG) | [Talk Ni Cheap](https://open.spotify.com/album/3xvkQ8HoEKB5cMklZTB6UW) | 3:11 | 2023-05-18 |  |
 | [Talk That Talk](https://open.spotify.com/track/3X2umSRAiUSxKPDck8eaN1) | [Stella Mwangi](https://open.spotify.com/artist/0ypwPd6ZLWkYuNVRnRFor2) | [Talk That Talk](https://open.spotify.com/album/7i2SN6a0kFL5efKESYcdZv) | 2:20 | 2024-01-11 | 2024-06-08 |

@@ -229,6 +229,24 @@
     },
     {
       "album": {
+        "name": "Above The World",
+        "url": "https://open.spotify.com/album/2eId85iYyrANuT7GZ6ZjaB"
+      },
+      "artists": [
+        {
+          "name": "Jakub Szybiak",
+          "url": "https://open.spotify.com/artist/4kz7NgN823IKxhhOv08WQg"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146011,
+      "name": "Above The World",
+      "url": "https://open.spotify.com/track/7Co7TQIM2mvfQAN0xqesVz"
+    },
+    {
+      "album": {
         "name": "afar",
         "url": "https://open.spotify.com/album/7gmtrQUa2nv1FhKHu9coVr"
       },
@@ -716,7 +734,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 152374,
       "name": "birds that cant sleep",
       "url": "https://open.spotify.com/track/5XEt40GW4q6vzoMbLp2cEC"
@@ -1208,7 +1226,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 96272,
       "name": "Constellations",
       "url": "https://open.spotify.com/track/6amVq5NcyOSaemNYuTlt86"
@@ -1662,7 +1680,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 165378,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/1zr3vsJAFOhKGhkyeOrRpZ"
@@ -1916,6 +1934,28 @@
       "duration_ms": 196905,
       "name": "Expectation",
       "url": "https://open.spotify.com/track/54k6c3xAQbgJyzax0cTkUO"
+    },
+    {
+      "album": {
+        "name": "Corridos Livianos Vol. 1",
+        "url": "https://open.spotify.com/album/6JzM36UtTxP13xYUQkIVLO"
+      },
+      "artists": [
+        {
+          "name": "Yus Acosta",
+          "url": "https://open.spotify.com/artist/0c3B6I5ue2AYirn5n5Ywa2"
+        },
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273882,
+      "name": "Extssy Model",
+      "url": "https://open.spotify.com/track/1Uz0r31ujCCUrij3R4ALOx"
     },
     {
       "album": {
@@ -3011,6 +3051,24 @@
     },
     {
       "album": {
+        "name": "I Could Have Been a Feather",
+        "url": "https://open.spotify.com/album/4MZnXLzQ2O0hbXviCTZ7k4"
+      },
+      "artists": [
+        {
+          "name": "Olec M\u00fcn",
+          "url": "https://open.spotify.com/artist/4hLe2OQqb2f9wzkGuQBJIE"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227250,
+      "name": "I Could Have Been a Feather",
+      "url": "https://open.spotify.com/track/6F4PZToZ9xOsNOZEsZ7lVv"
+    },
+    {
+      "album": {
         "name": "i feel so weightless",
         "url": "https://open.spotify.com/album/2sQJfKPoPARzIIAgyj9TcG"
       },
@@ -3362,6 +3420,24 @@
       "duration_ms": 105402,
       "name": "In the Beginning",
       "url": "https://open.spotify.com/track/5M4A4Zt9RFprKRzOUhQ3UD"
+    },
+    {
+      "album": {
+        "name": "Introspective Keys",
+        "url": "https://open.spotify.com/album/1wEeGLts8TyHoXhNvkV5G9"
+      },
+      "artists": [
+        {
+          "name": "Jovannah",
+          "url": "https://open.spotify.com/artist/1ORuRXKDxwmKaCIe3kb9hU"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106500,
+      "name": "In The Winds",
+      "url": "https://open.spotify.com/track/7wW9XUM3lb1unfvSRYmQjf"
     },
     {
       "album": {
@@ -3966,7 +4042,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 87004,
       "name": "Mid Thought",
       "url": "https://open.spotify.com/track/1hefj0ChsfrBB2gT0AyBmm"
@@ -4288,7 +4364,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 104347,
       "name": "Night Cabin",
       "url": "https://open.spotify.com/track/08alJ7m0Ui1St7WKJPD0EV"
@@ -4916,7 +4992,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 132096,
       "name": "Periods of Happiness",
       "url": "https://open.spotify.com/track/0lMGJuCfhC5JMB0lTKKHoG"
@@ -5755,6 +5831,24 @@
     },
     {
       "album": {
+        "name": "Song For My Great Grandmother",
+        "url": "https://open.spotify.com/album/0nwwpoDp0khzb972QOYNxl"
+      },
+      "artists": [
+        {
+          "name": "Helder Boutens",
+          "url": "https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124966,
+      "name": "Song For My Great Grandmother",
+      "url": "https://open.spotify.com/track/4IZ7tyXYNSwUfDTivi7k0s"
+    },
+    {
+      "album": {
         "name": "Sighs of the Heart",
         "url": "https://open.spotify.com/album/2guEWqoU863afIxTCPvBQ8"
       },
@@ -5766,7 +5860,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 96097,
       "name": "Song of Longing",
       "url": "https://open.spotify.com/track/65Co6gtwkj1guJ9DK0IIcR"
@@ -6790,7 +6884,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 92727,
       "name": "warm",
       "url": "https://open.spotify.com/track/6dfxPQYJcE5h2IEQOu3zQs"
@@ -6872,7 +6966,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 105000,
       "name": "Waterfalls of Life",
       "url": "https://open.spotify.com/track/6aeRz2hfrtz5oWtiu5do0a"
@@ -6944,7 +7038,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 159373,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"] (Piano Instrumental)",
       "url": "https://open.spotify.com/track/7DHBf64lC6WSLvdIFx0B9x"
@@ -7034,7 +7128,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 153116,
       "name": "whisker whispers",
       "url": "https://open.spotify.com/track/2swRwSNhVpAMRySKDme7H3"

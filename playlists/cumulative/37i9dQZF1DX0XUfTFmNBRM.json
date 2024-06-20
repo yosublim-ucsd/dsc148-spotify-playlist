@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-01-25",
-  "description": "Hottest Hindi music served here. Cover - Animal",
+  "description": "Hottest Hindi music served here. Cover - Pushpa 2 The Rule",
   "name": "Hot Hits Hindi",
   "tracks": [
     {
@@ -7045,6 +7045,32 @@
     },
     {
       "album": {
+        "name": "Taras (From \"Munjya\")",
+        "url": "https://open.spotify.com/album/0sEowDRNDEVD8T31onRthr"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188814,
+      "name": "Taras - From \"Munjya\"",
+      "url": "https://open.spotify.com/track/6t9KM2EQD4H2KbrTgHGYf3"
+    },
+    {
+      "album": {
         "name": "Tauba (feat. Badshah)",
         "url": "https://open.spotify.com/album/7xSdMyPr5KPL3A171ZbQ9M"
       },
@@ -7864,7 +7890,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 305232,
       "name": "Tumhe Kitna Pyaar Karte (From \"Bawaal\")",
       "url": "https://open.spotify.com/track/03hJuEQpEQERrHpjcXKWzJ"

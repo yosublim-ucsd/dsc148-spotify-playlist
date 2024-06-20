@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag! 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,554 likes - 106 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,574 likes - 106 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 93 | [Bar Thinking](https://open.spotify.com/track/2nJfr4oazvlWLoeNYZWQhD) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [Bar Thinking](https://open.spotify.com/album/6JCtqw85DgIoIhu7xqA90c) | 3:05 |
 | 94 | [Kaller meg G \(Prodigees\)](https://open.spotify.com/track/78CT6Qog5gjJxP9aBe3Yv2) | [LilNeya](https://open.spotify.com/artist/1nWc5LHGI9o5zygxQBnHkH), [Banters](https://open.spotify.com/artist/2ufjpBentwcKOGch7U7NQN) | [Kaller meg G \(Prodigees\)](https://open.spotify.com/album/5upZdPoSRs2YszArQq37MF) | 2:23 |
 | 95 | [Dancers](https://open.spotify.com/track/0MdXqGO6myqxt0FwvuOqMN) | [ALBA](https://open.spotify.com/artist/5MKM7cNYL4SIuIe6q4Qd1p) | [Dancers](https://open.spotify.com/album/4NQBMNfQxbgiVp8OCPbeJU) | 3:30 |
-| 96 | [New Moon, Same Old Me](https://open.spotify.com/track/4aH7cgsTvH758qlvc5v4m7) | [Asbjørn](https://open.spotify.com/artist/47rOF45mpciP0KFUlBqKUX), [Brimheim](https://open.spotify.com/artist/2ROf9t2bzHTnVuf8btRd5J) | [New Moon, Same Old Me](https://open.spotify.com/album/7fsc9ozWM0kdmjwPb4SVhw) | 4:15 |
+| 96 | [New Moon, Same Old Me \(feat\. Brimheim\)](https://open.spotify.com/track/4aH7cgsTvH758qlvc5v4m7) | [Asbjørn](https://open.spotify.com/artist/47rOF45mpciP0KFUlBqKUX), [Brimheim](https://open.spotify.com/artist/2ROf9t2bzHTnVuf8btRd5J) | [New Moon, Same Old Me \(feat\. Brimheim\)](https://open.spotify.com/album/7fsc9ozWM0kdmjwPb4SVhw) | 4:15 |
 | 97 | [You're the Best](https://open.spotify.com/track/5vjkYtVO6JVIwqEN7lbtxE) | [Otha](https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV) | [You're the Best](https://open.spotify.com/album/69jGwOCfLDLfps1E7nXMPg) | 2:01 |
 | 98 | [flip phone](https://open.spotify.com/track/0jLYbfU5qwk4ivxrE4sZUi) | [PIAO](https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb) | [flip phone](https://open.spotify.com/album/0Kwwg43ZAWqx7W3QO7Baww) | 2:04 |
 | 99 | [Discoteca](https://open.spotify.com/track/2MktwCE2h7aodPJDX8qjSX) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6) | [Discoteca](https://open.spotify.com/album/6Fefsj0yN8ponEZSJ0yNij) | 2:29 |

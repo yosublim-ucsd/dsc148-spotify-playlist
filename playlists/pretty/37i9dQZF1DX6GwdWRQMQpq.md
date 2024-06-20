@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 
 > RIP Enchanting 🕊️ Art By Laci Jordan; Cover: GloRilla & Megan Thee Stallion
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,143,071 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,143,390 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

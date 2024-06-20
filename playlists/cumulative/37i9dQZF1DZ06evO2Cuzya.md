@@ -2,7 +2,7 @@
 
 ### [This Is Gracie Abrams](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Cuzya)
 
-> This is Gracie Abrams\. Les chansons essentielles, toutes regroupées dans une seule liste de lecture.
+> This is Gracie Abrams\. The essential tracks, all in one playlist.
 
 52 songs - 3 hr 7 min
 

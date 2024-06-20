@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 80842,
+  "num_followers": 80858,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -170,6 +170,10 @@
         {
           "name": "Vitux",
           "url": "https://open.spotify.com/artist/53uZ1yBIdMXGoGIJlVab5t"
+        },
+        {
+          "name": "Ramuz",
+          "url": "https://open.spotify.com/artist/0DJFfBx6sAHxiI127wtQOu"
         }
       ],
       "duration_ms": 151341,
@@ -315,22 +319,6 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "Bora Bill ( Speed Up )",
-        "url": "https://open.spotify.com/album/4UwzWJtLo9CqnFkgxQJgpn"
-      },
-      "artists": [
-        {
-          "name": "neri\u00b4s",
-          "url": "https://open.spotify.com/artist/4xZLCFL4431VfYQAP7cffQ"
-        }
-      ],
-      "duration_ms": 104223,
-      "name": "Bora Bill ( Speed Up )",
-      "url": "https://open.spotify.com/track/0AYpmDJgiWUZeFyNRQNYOL"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
         "name": "Tranquil\u00e3o Speed",
         "url": "https://open.spotify.com/album/34fvOgLGTaHfwlvwOciAMn"
       },
@@ -355,26 +343,18 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "Imprevisto \u2013 Speed",
-        "url": "https://open.spotify.com/album/7iU3KlCks9lXfrbTUu36ot"
+        "name": "Bora Bill ( Speed Up )",
+        "url": "https://open.spotify.com/album/4UwzWJtLo9CqnFkgxQJgpn"
       },
       "artists": [
         {
-          "name": "Yago Oproprio",
-          "url": "https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497"
-        },
-        {
-          "name": "Skeeter Beats",
-          "url": "https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H"
-        },
-        {
-          "name": "R\u00f4 Rosa",
-          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
+          "name": "neri\u00b4s",
+          "url": "https://open.spotify.com/artist/4xZLCFL4431VfYQAP7cffQ"
         }
       ],
-      "duration_ms": 118666,
-      "name": "Imprevisto \u2013 Speed",
-      "url": "https://open.spotify.com/track/2mgnSTCwWvi61c12eYVGdy"
+      "duration_ms": 104223,
+      "name": "Bora Bill ( Speed Up )",
+      "url": "https://open.spotify.com/track/0AYpmDJgiWUZeFyNRQNYOL"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -395,6 +375,30 @@
       "duration_ms": 163384,
       "name": "Amizade Colorida, \u00c9 QUE AGENTE TRANZA E NUNCA BRIGA",
       "url": "https://open.spotify.com/track/3JHUfpS7hQPeYwjBBZ690R"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "Imprevisto \u2013 Speed",
+        "url": "https://open.spotify.com/album/7iU3KlCks9lXfrbTUu36ot"
+      },
+      "artists": [
+        {
+          "name": "Yago Oproprio",
+          "url": "https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497"
+        },
+        {
+          "name": "Skeeter Beats",
+          "url": "https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H"
+        },
+        {
+          "name": "R\u00f4 Rosa",
+          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
+        }
+      ],
+      "duration_ms": 118666,
+      "name": "Imprevisto \u2013 Speed",
+      "url": "https://open.spotify.com/track/2mgnSTCwWvi61c12eYVGdy"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -455,6 +459,26 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
+        "name": "VOC\u00ca SE ENTREGA PRA MIM, DESCE S\u00d3 MAIS UM POUQUINHO x BEAT RISADINHA",
+        "url": "https://open.spotify.com/album/44K9gZCrMa2B7TPz9Qt9AJ"
+      },
+      "artists": [
+        {
+          "name": "TIKTOK HITS",
+          "url": "https://open.spotify.com/artist/6tAbLbYX95ec4We3uKX9eK"
+        },
+        {
+          "name": "LC DAS CASINHAS",
+          "url": "https://open.spotify.com/artist/5WOCgbVvcC8JHGpraobo2C"
+        }
+      ],
+      "duration_ms": 166115,
+      "name": "VOC\u00ca SE ENTREGA PRA MIM, DESCE S\u00d3 MAIS UM POUQUINHO x BEAT RISADINHA",
+      "url": "https://open.spotify.com/track/4LMaUEcFZKgp2K7fdHeBNk"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
         "name": "TANTA COISA PRA ACONTECER DE NOVO, PRA MIM TANTO FAZ",
         "url": "https://open.spotify.com/album/4ZZFHTy6rCdrnbqCoEd0B7"
       },
@@ -475,26 +499,6 @@
       "duration_ms": 136615,
       "name": "TANTA COISA PRA ACONTECER DE NOVO, PRA MIM TANTO FAZ",
       "url": "https://open.spotify.com/track/43qgbgEvGQKI8PofVgFFbH"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
-        "name": "VOC\u00ca SE ENTREGA PRA MIM, DESCE S\u00d3 MAIS UM POUQUINHO x BEAT RISADINHA",
-        "url": "https://open.spotify.com/album/44K9gZCrMa2B7TPz9Qt9AJ"
-      },
-      "artists": [
-        {
-          "name": "TIKTOK HITS",
-          "url": "https://open.spotify.com/artist/6tAbLbYX95ec4We3uKX9eK"
-        },
-        {
-          "name": "LC DAS CASINHAS",
-          "url": "https://open.spotify.com/artist/5WOCgbVvcC8JHGpraobo2C"
-        }
-      ],
-      "duration_ms": 166115,
-      "name": "VOC\u00ca SE ENTREGA PRA MIM, DESCE S\u00d3 MAIS UM POUQUINHO x BEAT RISADINHA",
-      "url": "https://open.spotify.com/track/4LMaUEcFZKgp2K7fdHeBNk"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -1167,26 +1171,6 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "Tipo Naldo",
-        "url": "https://open.spotify.com/album/02ZI31XkyjAi7w9zANAUMQ"
-      },
-      "artists": [
-        {
-          "name": "tiaresz",
-          "url": "https://open.spotify.com/artist/4v6LpdfGfBSAdeVdBgUasP"
-        },
-        {
-          "name": "DJ Wkilla",
-          "url": "https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW"
-        }
-      ],
-      "duration_ms": 138754,
-      "name": "Tipo Naldo - Speed Up",
-      "url": "https://open.spotify.com/track/2qtBBIFce6oCciYrb84Mgh"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
         "name": "Pe\u00e7a",
         "url": "https://open.spotify.com/album/7E3g8qsgfOfCeLkipm0PSt"
       },
@@ -1203,6 +1187,26 @@
       "duration_ms": 135418,
       "name": "Pe\u00e7a - Speed",
       "url": "https://open.spotify.com/track/5IpBsqWPLu7PEeT2nwc8gV"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "Tipo Naldo",
+        "url": "https://open.spotify.com/album/02ZI31XkyjAi7w9zANAUMQ"
+      },
+      "artists": [
+        {
+          "name": "tiaresz",
+          "url": "https://open.spotify.com/artist/4v6LpdfGfBSAdeVdBgUasP"
+        },
+        {
+          "name": "DJ Wkilla",
+          "url": "https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW"
+        }
+      ],
+      "duration_ms": 138754,
+      "name": "Tipo Naldo - Speed Up",
+      "url": "https://open.spotify.com/track/2qtBBIFce6oCciYrb84Mgh"
     },
     {
       "added_at": "2023-12-27 14:18:14",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ugUAewqF7z.md) - [plain]
 
 > ‘Ssuply’ makes our own playlist by listening to various stories from around the world, getting recommendations for music that fits the situation\. \(세상의 다양한 이야기를 듣고, 상황에 딱 맞는 음악을 추천받아, 우리만의 플레이리스트를 만드는 ‘썰플리’입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,800 likes - 239 songs - 14 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,818 likes - 239 songs - 14 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ugUAewqF7z.md) - [plain]
 | 24 | [How Long Will I Love You](https://open.spotify.com/track/48x1VbWiN6kiJAdGBISzhn) | [Jon Boden](https://open.spotify.com/artist/3BApgOPiuES6zVJ78mKNGo), [Sam Sweeney](https://open.spotify.com/artist/4FcklCWRwv63IgbRfLoQA3), [Ben Coleman](https://open.spotify.com/artist/7KLY8vNoqCLDmpC9STHomw) | [About Time](https://open.spotify.com/album/0jzSVXaQln8X9e4m8e2V0y) | 2:46 |
 | 25 | [The Point Of No Return / Chandelier Crash](https://open.spotify.com/track/0rNDGYQwGYCXzQpZdcTbSO) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Gerard Butler](https://open.spotify.com/artist/7H25O93TTUoaZ0ZaFk318U), [Emmy Rossum](https://open.spotify.com/artist/6JcDqt1rBKIWfnoPjXFYqc) | [The Phantom Of The Opera \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/0sY8lEVIKjQC7dEtVVo9K0) | 6:43 |
 | 26 | [Theme \- From "Eternal Sunshine of the Spotless Mind"/Score](https://open.spotify.com/track/4AQwwsz0ztRx4YKNb1GdBB) | [Jon Brion](https://open.spotify.com/artist/57YJQe0ayvIaRZJ3PW5nFP) | [Eternal Sunshine Of The Spotless Mind](https://open.spotify.com/album/5yOO5ZvqDZx5Sr8jOGtWRR) | 2:23 |
-| 27 | [Unbreakable \- Original Motion Picture Soundtrack](https://open.spotify.com/track/0B1a7gUJU5DBNptRszSElA) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Unbreakable](https://open.spotify.com/album/7a4sYK0WH0NwfhyvVFbKpw) | 3:23 |
+| 27 | [Unbreakable](https://open.spotify.com/track/0B1a7gUJU5DBNptRszSElA) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Unbreakable \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7a4sYK0WH0NwfhyvVFbKpw) | 3:23 |
 | 28 | [너에게로 가는 길 \- 슬램덩크 오프닝](https://open.spotify.com/track/2izmSuAQfDSB38KadgcbR7) | [Park Sang Min](https://open.spotify.com/artist/7nbE2lMt1tbp5y3Uivn0bu) | [SLAMDunk \(Original Soundtrack\) 2](https://open.spotify.com/album/5sv2MFuN1JQlndoVbqyWSV) | 2:48 |
 | 29 | [WA\-R\-R](https://open.spotify.com/track/1ZEFYW6nPEvIcsIvymgsLk) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Love Part 1](https://open.spotify.com/album/5oA67QC0FjqXTSGy2kCSJp) | 4:32 |
 | 30 | [Leave \(Prod\. PATEKO\)](https://open.spotify.com/track/6F0Sz2YXM08dgynlrkX5nI) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM) | [Listen\-Up EP.2](https://open.spotify.com/album/0d8MzxEUUOY1Zmpuemhz5c) | 4:07 |

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO0JxyUw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO0JxyUw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0JxyUw)
 
-### [This Is Christina Aguilera](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0JxyUw)
+### [This Is クリスティーナ・アギレラ](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0JxyUw)
 
-> This is Christina Aguilera\. The essential tracks, all in one playlist.
+> This is クリスティーナ・アギレラ。アーティストの代表曲をひとつのプレイリストに。
 
 61 songs - 3 hr 39 min
 

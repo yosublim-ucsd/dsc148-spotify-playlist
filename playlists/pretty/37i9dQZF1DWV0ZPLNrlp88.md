@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 
 > インスタメディア『PLAYLIST』のトレンドプレイリスト。<br/>音楽好きの若者に支持されたインスタアカウント（Instagram：<a href="https://www.instagram.com/playlist\_of/">@playlist\_of</a>）の編集者が今話題の楽曲をピック。<br/>毎週土曜日更新中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,562 likes - 40 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,566 likes - 40 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 | 5 | [ずっと好きだから](https://open.spotify.com/track/1NabPfsC4hEMd6lSEragQE) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [ずっと好きだから](https://open.spotify.com/album/0Bm04CKjRI49fBrQrXW61m) | 4:24 |
 | 6 | [君との日々は退屈だ](https://open.spotify.com/track/1yB5Jd42jntYSX7LGKNkgi) | [606号室](https://open.spotify.com/artist/50CaItPFaCPzuA8juPqWfI) | [君との日々は退屈だ](https://open.spotify.com/album/7u3wSzKDWQlvAb7OVRmkL0) | 3:58 |
 | 7 | [243](https://open.spotify.com/track/49xpwdBCKQnYpxOAJpfYyu) | [Matsuri](https://open.spotify.com/artist/3gzzyz8FmSOGRVrYW8GubK) | [243](https://open.spotify.com/album/5icSPu6dcdty4pGt8WN30k) | 4:17 |
-| 8 | [Orange Moon feat\. 大塚 愛](https://open.spotify.com/track/6oer4NN5Na48RB73rKbSoL) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR), [大塚愛](https://open.spotify.com/artist/1XYOHvT665lTMNuBRMFoBc) | [Orange Moon feat\. 大塚 愛](https://open.spotify.com/album/3XKy1n7o1HIz5k52LiZw5e) | 4:12 |
+| 8 | [Orange Moon feat\. 大塚 愛](https://open.spotify.com/track/6oer4NN5Na48RB73rKbSoL) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR), [Ai Otsuka](https://open.spotify.com/artist/0q7KOr99MYmwKxivChxpSd) | [Orange Moon feat\. 大塚 愛](https://open.spotify.com/album/3XKy1n7o1HIz5k52LiZw5e) | 4:12 |
 | 9 | [コロンブス](https://open.spotify.com/track/3ECvJ97WjbbaTsCZ64pwgI) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [コロンブス](https://open.spotify.com/album/1u9fvlFVKcjhhin274qEAp) | 3:47 |
 | 10 | [ハローグッバイ](https://open.spotify.com/track/3g2YjswK2Kn9NV71IsXWsQ) | [るーとも](https://open.spotify.com/artist/0ZSRehT9Jh2Pkt2E0FXOkK) | [ハローグッバイ](https://open.spotify.com/album/1fxIg7C181dmdXLwjDhYXa) | 3:32 |
 | 11 | [二人の間](https://open.spotify.com/track/3YDKfGPpfC6T2Z81p06UzD) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [夜にしがみついて、朝で溶かして](https://open.spotify.com/album/2xXBLrS026lOtokTttSEm8) | 3:39 |

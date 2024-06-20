@@ -2763,6 +2763,32 @@
     },
     {
       "album": {
+        "name": "Backwood Proclamation (feat. Charlie Worsham & John Osborne)",
+        "url": "https://open.spotify.com/album/1zvKnI0FCIVoUcpwLYwp4E"
+      },
+      "artists": [
+        {
+          "name": "Jett Holden",
+          "url": "https://open.spotify.com/artist/1eO7ccT1B1GDJdWyHpeHjh"
+        },
+        {
+          "name": "Charlie Worsham",
+          "url": "https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq"
+        },
+        {
+          "name": "John Osborne",
+          "url": "https://open.spotify.com/artist/0JExp8zU52O47A6TuigZJv"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206132,
+      "name": "Backwood Proclamation (feat. Charlie Worsham & John Osborne)",
+      "url": "https://open.spotify.com/track/3ydmeceqatQtqsR7wwb8ma"
+    },
+    {
+      "album": {
         "name": "Bad 4 U",
         "url": "https://open.spotify.com/album/1R9sr49zWnEFJS712jrvu1"
       },
@@ -3456,6 +3482,24 @@
       "duration_ms": 191703,
       "name": "Beautifully Broken",
       "url": "https://open.spotify.com/track/3EEnS5a2qAKgWNjNf9CspG"
+    },
+    {
+      "album": {
+        "name": "Beauty In The Broken",
+        "url": "https://open.spotify.com/album/6ETaXh2h01eJG3epx2J0N3"
+      },
+      "artists": [
+        {
+          "name": "Pryor Baird",
+          "url": "https://open.spotify.com/artist/4vSCJNeLjX3H9utec8uO58"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217133,
+      "name": "Beauty In The Broken",
+      "url": "https://open.spotify.com/track/43UMgcL25xgOB9w1R9ox3P"
     },
     {
       "album": {
@@ -6541,6 +6585,28 @@
     },
     {
       "album": {
+        "name": "To Be Honest...",
+        "url": "https://open.spotify.com/album/3dJtS6Ts2v2se83wQPgcMb"
+      },
+      "artists": [
+        {
+          "name": "Norman North",
+          "url": "https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez"
+        },
+        {
+          "name": "Sean Stemaly",
+          "url": "https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Can't Trust This Truck (feat. Sean Stemaly)",
+      "url": "https://open.spotify.com/track/57Rd93qywusgpOJvL2ZZtt"
+    },
+    {
+      "album": {
         "name": "Candles To Burn",
         "url": "https://open.spotify.com/album/6ZtEFBiAd16jsDGkDwwh4p"
       },
@@ -9085,6 +9151,24 @@
     },
     {
       "album": {
+        "name": "Deal With the Devil",
+        "url": "https://open.spotify.com/album/2m4q71Lf5EwhD9nOfBY3Y4"
+      },
+      "artists": [
+        {
+          "name": "Preston James",
+          "url": "https://open.spotify.com/artist/63JypifDrLvGZIggb5y8iA"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196546,
+      "name": "Deal With the Devil",
+      "url": "https://open.spotify.com/track/5W4z9D78YWuhwvKrLgLwQ3"
+    },
+    {
+      "album": {
         "name": "Dear Me",
         "url": "https://open.spotify.com/album/7wbYgHs50un0LpnRh7EB0p"
       },
@@ -9630,6 +9714,24 @@
       "duration_ms": 198974,
       "name": "Distraction",
       "url": "https://open.spotify.com/track/5e13nAMzDVRfCyHLB9rd5Y"
+    },
+    {
+      "album": {
+        "name": "Hot Commodity",
+        "url": "https://open.spotify.com/album/746LpMEffTW6jV0UbC5hgU"
+      },
+      "artists": [
+        {
+          "name": "Abbie Callahan",
+          "url": "https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167218,
+      "name": "Dive Bar",
+      "url": "https://open.spotify.com/track/3rrLLJhpayYvgR3Nw8MLnh"
     },
     {
       "album": {
@@ -11290,7 +11392,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 168739,
       "name": "Empty Bottles",
       "url": "https://open.spotify.com/track/5K2kLw4b5mYYdnI6FulJO6"
@@ -16657,6 +16759,24 @@
     },
     {
       "album": {
+        "name": "Heaven On Dirt",
+        "url": "https://open.spotify.com/album/4FKEz6nP5N1KFCpy10x1dm"
+      },
+      "artists": [
+        {
+          "name": "Logan Mize",
+          "url": "https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215157,
+      "name": "Heaven On Dirt",
+      "url": "https://open.spotify.com/track/4YtZxLM3ebyTceVHcgqZsf"
+    },
+    {
+      "album": {
         "name": "I Hope You're Happy Now",
         "url": "https://open.spotify.com/album/6cSLMDIufWDAo73HMiS2fK"
       },
@@ -19100,6 +19220,28 @@
       "duration_ms": 190730,
       "name": "I Love Me",
       "url": "https://open.spotify.com/track/0OcqrGvV8xKtSxF3dFWDWJ"
+    },
+    {
+      "album": {
+        "name": "I Love You More Than Yesterday",
+        "url": "https://open.spotify.com/album/0OBLmsq159JatD3k2RRRjZ"
+      },
+      "artists": [
+        {
+          "name": "Duke Jones",
+          "url": "https://open.spotify.com/artist/5lAlibypowIEyVk24Y2qw3"
+        },
+        {
+          "name": "Julia DiGrazia",
+          "url": "https://open.spotify.com/artist/0Ehf1zrLQ5c6jn3CkdWRWs"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228018,
+      "name": "I Love You More Than Yesterday",
+      "url": "https://open.spotify.com/track/3dPSHuGMORdds3vGmqPdJf"
     },
     {
       "album": {
@@ -21657,6 +21799,24 @@
     },
     {
       "album": {
+        "name": "Kiss It Goodbye",
+        "url": "https://open.spotify.com/album/5EHAI3dEtiNBZnBpJZJBbC"
+      },
+      "artists": [
+        {
+          "name": "Morgan Gruber",
+          "url": "https://open.spotify.com/artist/2dn7v8oIrGpyiqLJhAToTh"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Kiss It Goodbye",
+      "url": "https://open.spotify.com/track/6eIXUN4JHBR0cZ8aOcISTO"
+    },
+    {
+      "album": {
         "name": "Kissin' at a Red Light",
         "url": "https://open.spotify.com/album/6ebl4UOBlMHRzVkxIyqdLS"
       },
@@ -23271,6 +23431,24 @@
     },
     {
       "album": {
+        "name": "Liquor Talkin'",
+        "url": "https://open.spotify.com/album/2lStiI5XL38ZwxwtbP59nF"
+      },
+      "artists": [
+        {
+          "name": "Don Louis",
+          "url": "https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172177,
+      "name": "Liquor Talkin'",
+      "url": "https://open.spotify.com/track/7s11p7SLOoJTYtxXwHtCbY"
+    },
+    {
+      "album": {
         "name": "Liquor With Love",
         "url": "https://open.spotify.com/album/3w3Ha4CKExy3WRiqeWqCwp"
       },
@@ -23740,7 +23918,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 167429,
       "name": "Long Time Comin'",
       "url": "https://open.spotify.com/track/2B6Vm46R3Sj75yWREPaW4t"
@@ -24194,6 +24372,24 @@
       "duration_ms": 297324,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/18MZfeyxZEb2sioZtwXEoF"
+    },
+    {
+      "album": {
+        "name": "Top of the Hill",
+        "url": "https://open.spotify.com/album/03z6iskctCBwXPy2Jr5kmk"
+      },
+      "artists": [
+        {
+          "name": "Connor McCutcheon",
+          "url": "https://open.spotify.com/artist/3yluFQwZBhp5jJYLlRG034"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174376,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/0YoPDhxcPiO8dHIRySEo9k"
     },
     {
       "album": {
@@ -26464,6 +26660,24 @@
       "duration_ms": 207096,
       "name": "Ms. Fire",
       "url": "https://open.spotify.com/track/3iVmCauTAulRmUKIuh821l"
+    },
+    {
+      "album": {
+        "name": "MUD",
+        "url": "https://open.spotify.com/album/39Bze0knrwvaIbd7AXjTnm"
+      },
+      "artists": [
+        {
+          "name": "CeCe",
+          "url": "https://open.spotify.com/artist/3o3cMu8wu8ANNYLo660Sgs"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177109,
+      "name": "MUD",
+      "url": "https://open.spotify.com/track/1mA2jaHDli23WFu2SnDdUa"
     },
     {
       "album": {
@@ -29513,6 +29727,24 @@
     },
     {
       "album": {
+        "name": "Point Of No Return",
+        "url": "https://open.spotify.com/album/4bk6p16wO2x1xneuuTLnbY"
+      },
+      "artists": [
+        {
+          "name": "Callista Clark",
+          "url": "https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197997,
+      "name": "Point Of No Return",
+      "url": "https://open.spotify.com/track/7krcHLu7IhCIzbGpfVP7dV"
+    },
+    {
+      "album": {
         "name": "Point Your Finger",
         "url": "https://open.spotify.com/album/3HfVK8zc4wKpOsjRWcEhrg"
       },
@@ -30176,7 +30408,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 187576,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/614ON0DuAKhgMn5qw55JPc"
@@ -39770,6 +40002,24 @@
       "duration_ms": 193374,
       "name": "Two Things",
       "url": "https://open.spotify.com/track/5gZVj5aHhFAp40Dju6fR00"
+    },
+    {
+      "album": {
+        "name": "two truths and a lie",
+        "url": "https://open.spotify.com/album/5dLEa9JCmkSw6XN5qqjgFI"
+      },
+      "artists": [
+        {
+          "name": "Ashley Anne",
+          "url": "https://open.spotify.com/artist/4oAZAzn6NKRzLM8LTtrVsw"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198805,
+      "name": "two truths and a lie",
+      "url": "https://open.spotify.com/track/0ITdZ5TyS2C5CtvMDkdnJQ"
     },
     {
       "album": {

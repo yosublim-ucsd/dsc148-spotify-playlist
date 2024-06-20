@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Fana Hues
 
-1,204 songs - 2 day 15 hr 47 min
+1,205 songs - 2 day 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,6 +313,7 @@
 | [Dragonball Durag \- Remix](https://open.spotify.com/track/1PrVLmXkJjh2vEhmBEKLeM) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT) | [Dragonball Durag \(Remix\)](https://open.spotify.com/album/4pjJMjf9P4ZrRoGuGrdUQg) | 3:41 | 2022-04-01 | 2022-04-15 |
 | [Drama](https://open.spotify.com/track/2tlAmvmHat6nBY9pKd2Kkg) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Sensational](https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one) | 3:48 | 2022-04-01 | 2022-04-11 |
 | [Drama \- Isabella Lovestory and Chicken Remix](https://open.spotify.com/track/6OOgOELe0u3gDCxuYv36D9) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0), [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [Chicken](https://open.spotify.com/artist/7zpsE1zqt8cFqOPUNifkSv) | [Drama \(Isabella Lovestory and Chicken Remix\)](https://open.spotify.com/album/6bqT38ZCI151SgKJAfaQEr) | 2:54 | 2022-04-01 | 2022-04-16 |
+| [Dream About You All Through The Night.](https://open.spotify.com/track/4dTX84JZlOg4hRBAHx3ptT) | [Sunni Colón](https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2) | [Dream About You All Through The Night.](https://open.spotify.com/album/3UgF8Qrven2zn8lQfaDUYP) | 3:49 | 2024-06-14 |  |
 | [drift](https://open.spotify.com/track/5FWmsWC8TyoupXKAPq9nll) | [Merges](https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3) | [drift](https://open.spotify.com/album/4HW40GFEiWYuLcJJsglKYF) | 1:58 | 2024-04-05 | 2024-05-15 |
 | [Drifting](https://open.spotify.com/track/5WUKybZ2qvtWjZOKbK8JwF) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Drifting](https://open.spotify.com/album/6BMAUmCmD1hlFLjp3OjaSS) | 2:35 | 2022-09-16 | 2023-09-02 |
 | [Drive](https://open.spotify.com/track/2vzbsLzYwD9St0phYhR0Lt) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg), [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [Drive](https://open.spotify.com/album/0S7csLoFSrkT3eVLMxSdFa) | 2:25 | 2022-06-10 | 2022-08-19 |
@@ -665,7 +666,7 @@
 | [Mary Ellen \(02\)](https://open.spotify.com/track/0unygkRAa4Qt4vSZVuBV7C) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [LIBBIE 02](https://open.spotify.com/album/4WLuz6h7LOGyRJybO2DiFD) | 3:18 | 2023-02-10 | 2023-02-18 |
 | [Mask Off \(Feelings\)](https://open.spotify.com/track/5yozbGmaHKYcNW1qE26qMl) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [SG8\*](https://open.spotify.com/album/2vwmN3BESDjpuUWloIjM1S) | 3:06 | 2021-09-10 | 2022-07-22 |
 | [Maybe Not \(with Mac Ayres\)](https://open.spotify.com/track/7fhFr1lYnxm3XyprL3Wnv8) | [Souly Had](https://open.spotify.com/artist/20WmX0l9JgOpehDOAXY6iO), [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Maybe Not \(with Mac Ayres\)](https://open.spotify.com/album/5yhiL2xptyEASp6bHLjbT4) | 3:50 | 2021-03-19 | 2022-07-30 |
-| [me and all my niggas](https://open.spotify.com/track/1V5LZEDXnCctyA2G4NNjsg) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [me and all my niggas](https://open.spotify.com/album/41k4Tf1ig86lbYzIK710T0) | 1:54 | 2024-04-05 |  |
+| [me and all my niggas](https://open.spotify.com/track/1V5LZEDXnCctyA2G4NNjsg) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [me and all my niggas](https://open.spotify.com/album/41k4Tf1ig86lbYzIK710T0) | 1:54 | 2024-04-05 | 2024-06-20 |
 | [Medallion](https://open.spotify.com/track/7G1z481K0xAULT3eVaaNQD) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Medallion](https://open.spotify.com/album/27EqAknfF83SRTkgPLRgfZ) | 2:29 | 2021-03-19 | 2022-07-16 |
 | [MERCEDES](https://open.spotify.com/track/0tkgmjBMU6qSxolAKB3f2H) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [MERCEDES](https://open.spotify.com/album/2M3IBMpOszCjnxwG1sWOqT) | 3:53 | 2021-12-10 | 2022-07-14 |
 | [Mercury](https://open.spotify.com/track/3ixe45hov7EBKXm8tYBmvX) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Mercury](https://open.spotify.com/album/3pc9LMhg8lyfpPTyywABMd) | 4:58 | 2022-07-15 | 2022-09-24 |

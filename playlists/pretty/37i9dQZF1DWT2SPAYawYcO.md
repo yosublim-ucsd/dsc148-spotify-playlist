@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Tommy Richman
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,757 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,765 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 53 | [G2G](https://open.spotify.com/track/4exa2pZ4fj6g7gFOjSkYub) | [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL) | [G2G](https://open.spotify.com/album/0ftIe4p25KC3ucBr5TPgJV) | 3:37 |
 | 54 | [Calm The Sea](https://open.spotify.com/track/0q50wJOtSRsqClQ3LfvUp0) | [Kim Churchill](https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho) | [Calm The Sea](https://open.spotify.com/album/5FHjS5lHoyLyVHAGMvarVi) | 2:58 |
 | 55 | [No Time \(feat\. SadBoi\)](https://open.spotify.com/track/4NOoZeetavZyquNLaGyxXC) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [No Time \(feat\. SadBoi\)](https://open.spotify.com/album/5K0QqzOKeqI504SN4wMAIe) | 2:51 |
-| 56 | [Language Is In The Land](https://open.spotify.com/track/2nKmxIpFM0iNTZahmQPOdz) | [DOBBY](https://open.spotify.com/artist/1RW4O0kc1TxXivUceZyPad) | [Warrangu: River Story](https://open.spotify.com/album/4wvan9mnICF5AVTSRyLKgx) | 5:08 |
+| 56 | [Language Is In The Land](https://open.spotify.com/track/2nKmxIpFM0iNTZahmQPOdz) | [DOBBY](https://open.spotify.com/artist/1RW4O0kc1TxXivUceZyPad) | [Warrangu; River Story](https://open.spotify.com/album/4wvan9mnICF5AVTSRyLKgx) | 5:08 |
 | 57 | [flip phone](https://open.spotify.com/track/0jLYbfU5qwk4ivxrE4sZUi) | [PIAO](https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb) | [flip phone](https://open.spotify.com/album/0Kwwg43ZAWqx7W3QO7Baww) | 2:04 |
 | 58 | [Tui Is a Bird \(The Work\)](https://open.spotify.com/track/7BtsnPjI397ggnyVIomOBH) | [Jess Cornelius](https://open.spotify.com/artist/4RjdSdeePEsz8SHyTLILCL) | [CARE/TAKING](https://open.spotify.com/album/62vzAtNRydPNzP9Zw9ewXS) | 4:39 |
 | 59 | [Gamma Knife](https://open.spotify.com/track/0xSduUlPOQw9gsvM5uYKf6) | [Void Of Vision](https://open.spotify.com/artist/7bpJe59fkklnlfHPxCMvF1) | [Gamma Knife](https://open.spotify.com/album/7E1LgxKxC2RrjHVXerGkQ8) | 2:59 |

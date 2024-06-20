@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-374 songs - 19 hr 14 min
+375 songs - 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Alpha 10 Hz](https://open.spotify.com/track/7qULBKJPUl7W5yZ0rNFV34) | [Mindful Behaviour](https://open.spotify.com/artist/5n24AejjkQFiXAnmqRhTpl) | [Alpha Brainwaves For Focus And Stress Reduction](https://open.spotify.com/album/77mSz4EuypK36VUyyA0wfm) | 3:27 | 2022-04-13 | 2022-04-17 |
 | [Angelic Spaces](https://open.spotify.com/track/54neOde1RbPnHN0jvhc3Bb) | [unvrsl frqncy](https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm) | [Angelic Spaces](https://open.spotify.com/album/0Na5e10kAhbEWpStQ1wmPB) | 2:18 | 2024-01-17 | 2024-02-08 |
 | [Angular Distance](https://open.spotify.com/track/0BRYbPaW4BXyJ1KZQ0dtrc) | [New Lab](https://open.spotify.com/artist/2JERrrG5RDWd8oVOhpPl2F) | [Angular Distance](https://open.spotify.com/album/0iDOTiVv2ZylCqS7Q8ckLX) | 3:20 | 2024-01-17 |  |
-| [Annalkande](https://open.spotify.com/track/04tTNqaqZ9hmF8fVm2MgxQ) | [Morgondimma](https://open.spotify.com/artist/0mQskyOm143f9LT371ux2U) | [Annalkande](https://open.spotify.com/album/2rbOag8Yg0cQ58nmdVcubY) | 2:22 | 2023-12-01 |  |
+| [Annalkande](https://open.spotify.com/track/04tTNqaqZ9hmF8fVm2MgxQ) | [Morgondimma](https://open.spotify.com/artist/0mQskyOm143f9LT371ux2U) | [Annalkande](https://open.spotify.com/album/2rbOag8Yg0cQ58nmdVcubY) | 2:22 | 2023-12-01 | 2024-06-20 |
 | [Another Galaxy](https://open.spotify.com/track/09a8Ur35uRNugKT4X2Ia0W) | [Astro.Not](https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS) | [Another Galaxy](https://open.spotify.com/album/38rOjQqBRymKUdYcBJsBzl) | 2:26 | 2022-08-15 |  |
 | [Apesanteur](https://open.spotify.com/track/3lIe2hHmBqG3qcvD9rcZ4F) | [Elodie Acy](https://open.spotify.com/artist/2uIT3eIsFOjiwUoDJvNzbD) | [Apesanteur](https://open.spotify.com/album/4CEpijln4tZLMM8yf4jK39) | 2:38 | 2022-01-12 | 2024-05-21 |
 | [Aphelion](https://open.spotify.com/track/0rczzvfB6QouQM8h6LCdI5) | [Golden Slumber](https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj) | [Aphelion](https://open.spotify.com/album/15riorqGikS5bvTNsvYWIW) | 3:20 | 2022-01-12 | 2024-02-09 |
@@ -265,6 +265,7 @@
 | [Over Oceans](https://open.spotify.com/track/70sv8NcAIJoPsBStnKe61w) | [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf) | [Into Your Hands](https://open.spotify.com/album/7E9kkPd8SwH4aLlcsWLgHN) | 3:45 | 2022-01-12 | 2023-07-09 |
 | [Overcome \(Alpha Waves\)](https://open.spotify.com/track/66tcVcibuPYWs182LeINwu) | [Leerseite](https://open.spotify.com/artist/7l8dnU5tDk33Zw78dgfwi5) | [The Power of Now \(Alpha Binaural Beats\)](https://open.spotify.com/album/3paWjmhxh5wcMFRumXjtxk) | 3:09 | 2022-01-12 | 2023-03-15 |
 | [Pace Tua](https://open.spotify.com/track/63EDlt8qJBsmPrKq1nWNs1) | [Celeste Soma](https://open.spotify.com/artist/1b7j7QRse9XXdbZxK3wILz) | [Pace tua](https://open.spotify.com/album/3fsbprvyxIqOJeWX1QWiEA) | 2:24 | 2022-01-12 | 2024-05-21 |
+| [Paradiso](https://open.spotify.com/track/0E90iMgBCVaX7euZDNIsmE) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Paradiso](https://open.spotify.com/album/4HRUgpgh8njMktYmTahkQh) | 2:42 | 2024-06-13 |  |
 | [Peaceful Dreams](https://open.spotify.com/track/4dXeSoH8k8iq8uQz2ZZZSK) | [Menidia](https://open.spotify.com/artist/4scbgnFpSTNWZgSaxcXLS8) | [The Far Distance](https://open.spotify.com/album/4BsjkgUXT2QBtig8ONnvks) | 3:27 | 2022-10-07 |  |
 | [Peaceful Drones](https://open.spotify.com/track/1WBfurgMWL2sDqdXuXXXVw) | [Belgravia](https://open.spotify.com/artist/1TCHpEVHoqVlWQIJXz5oEP) | [Peaceful Drones](https://open.spotify.com/album/3MmpFmPLWVAb52EVPwxqx5) | 2:52 | 2023-05-19 |  |
 | [Penarth Pier](https://open.spotify.com/track/7wD904p1RznL1Mvp3Z3qFq) | [Smoky](https://open.spotify.com/artist/3y90MDsIV7MPY0MckhOOQg) | [Night Music / Ambient Haze EP Vol 3](https://open.spotify.com/album/01rlQSUwlUNb7sKWc0oddM) | 3:47 | 2022-04-13 | 2022-04-21 |

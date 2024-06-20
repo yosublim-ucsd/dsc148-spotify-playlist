@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-522 songs - 20 hr 4 min
+523 songs - 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,7 +233,7 @@
 | [Jazz Has Many Faces](https://open.spotify.com/track/6S1v4mCBFT3yG895yilYyt) | [Super Off\-Beat](https://open.spotify.com/artist/08gFTIqLswYXSzCTLqkDT4) | [Jazz Has Many Faces](https://open.spotify.com/album/5U13M8p2FQMbI9IZUffHDN) | 2:00 | 2021-12-07 | 2024-05-14 |
 | [Jazzy Girl](https://open.spotify.com/track/3XoXEYaBCRdasiRNHywjWI) | [Recovery TIme](https://open.spotify.com/artist/30ECrzUanbQrlkzo7HQjap) | [Aries](https://open.spotify.com/album/2yWlRhxxy4q9vNso6XwzcS) | 1:47 | 2022-09-02 |  |
 | [Jester](https://open.spotify.com/track/5sCIj9Z9MJGKOjLPPJNKFi) | [Tonion](https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj) | [Jester](https://open.spotify.com/album/6pRz1A75UPpjwIrD5fE7iX) | 2:50 | 2023-08-31 |  |
-| [Jet Set Go!](https://open.spotify.com/track/6Ocoe8TY2ZMUZ6GqRdyPMs) | [Blank x Blank](https://open.spotify.com/artist/7tZMN6RonZwh9uUI3zdDgT) | [Jet Set Go!](https://open.spotify.com/album/3Tj9d59xYFViyJib3DoP9F) | 2:10 | 2023-03-01 |  |
+| [Jet Set Go!](https://open.spotify.com/track/6Ocoe8TY2ZMUZ6GqRdyPMs) | [Blank x Blank](https://open.spotify.com/artist/7tZMN6RonZwh9uUI3zdDgT) | [Jet Set Go!](https://open.spotify.com/album/3Tj9d59xYFViyJib3DoP9F) | 2:10 | 2023-03-01 | 2024-06-20 |
 | [Jump Start](https://open.spotify.com/track/1pfl7JwByN6hfxgkJ7XHy6) | [Helk](https://open.spotify.com/artist/0G5GYUYMakCbFYHOwRocQZ) | [Jump Start](https://open.spotify.com/album/3VvPUtS4kbJNgw3HxMXNen) | 2:33 | 2023-03-16 |  |
 | [Juno The Cat](https://open.spotify.com/track/0gM8oprNg0dKkxDT9AkIPW) | [Jazzamass](https://open.spotify.com/artist/3gMOdlsYdkbCobRA1i8Bwb) | [Juno The Cat](https://open.spotify.com/album/0EQxj1K8W1luf9UVj3yC1S) | 2:16 | 2022-09-02 | 2023-06-07 |
 | [Just Another Sip](https://open.spotify.com/track/6IuedPL68KNsBzci64vX9J) | [Blutone](https://open.spotify.com/artist/6C3HjDxIciOd8XvkEnNamY) | [Domino Party](https://open.spotify.com/album/43eSBlvqzZt3h5WKegoFSl) | 2:18 | 2021-12-07 |  |
@@ -408,6 +408,7 @@
 | [Road to Emmaus](https://open.spotify.com/track/7lIMlaVwAsjo6ZZdT5UxAN) | [Euphemism](https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr) | [Road to Emmaus](https://open.spotify.com/album/1VQRmpVXZTjLs4ZW42mmwT) | 1:44 | 2023-06-06 |  |
 | [Road Trip](https://open.spotify.com/track/7egZDzFPxPlXJe2RaPQYhd) | [Strong.AL&](https://open.spotify.com/artist/41iDgaNQFTv4Igs0WMw8d1), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Road Trip](https://open.spotify.com/album/3H2o8UFe2NzqJdSWgRfVIx) | 2:09 | 2021-12-07 | 2022-12-24 |
 | [roadtripp](https://open.spotify.com/track/6DbwIh4zCLn1POZXjXaubt) | [chilliance](https://open.spotify.com/artist/6C1x6L8cNFWEw8fbnocXZC) | [roadtripp](https://open.spotify.com/album/7EM5p1WI1wpBPUrG46eTXe) | 2:21 | 2021-12-07 | 2024-05-14 |
+| [Rooftop Nights](https://open.spotify.com/track/2VPjZDOq6n7Mx3Qr7fkic9) | [My Lucid Dreams](https://open.spotify.com/artist/6BDAZG6yXqOjqStTnJ9D4b) | [Rooftop Nights](https://open.spotify.com/album/7tlPuXFPzOnYb8s0zOSgpc) | 2:12 | 2024-06-19 |  |
 | [round bird](https://open.spotify.com/track/7rSKadpiQrCkiSGKpBFXX4) | [Tinad](https://open.spotify.com/artist/15CCe8N73vvOy2ZYLEKmFs) | [round bird](https://open.spotify.com/album/6YirhcCuMUVsWH2sXLxQMJ) | 2:18 | 2023-01-13 |  |
 | [rounded](https://open.spotify.com/track/1hWQ2g5lhisTnOMWHJeHFW) | [yellow book](https://open.spotify.com/artist/6JE9upCogY91a2Tm5UB8fe) | [rounded](https://open.spotify.com/album/2bcjechlcxRXyO1yGjFHTh) | 1:48 | 2023-10-06 |  |
 | [Running Away](https://open.spotify.com/track/1oOVp3mUoS6CSjdYsdjaAi) | [Lofitic](https://open.spotify.com/artist/6oBQKbykqoZPrX8ebzX8ZM), [Lohbe](https://open.spotify.com/artist/1gkQWhf8PQlIaXgZVohf0z) | [Running Away](https://open.spotify.com/album/0Of7eQQhGZhZsv9GRhttax) | 1:40 | 2022-06-24 | 2022-08-19 |

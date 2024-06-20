@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/56ZBiYuSM6W68EojT5WORo">BLVSH</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-50 songs - 2 hr 27 min
+51 songs - 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Shivers](https://open.spotify.com/track/7kSozCxmI9awv3XoUPxZT4) | [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4), [VYEN](https://open.spotify.com/artist/4MSnRuK0jNGdIFbtfJ9lNX) | [Shivers](https://open.spotify.com/album/6tvVNnJw3VaM1ybIqnTmxH) | 3:04 | 2024-05-01 |  |
 | [simple little things](https://open.spotify.com/track/3LYfAWMaiT0QndkNYQxcLS) | [B O K E H](https://open.spotify.com/artist/2rQk5n2Rn4PSaBbbj3XgeO), [Lex Leosis](https://open.spotify.com/artist/3l5iTPvfsSfyeaurhaAeh6), [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [simple little things](https://open.spotify.com/album/6vtkf8YJZhxWpt7R7HUaPM) | 3:58 | 2024-05-01 |  |
 | [Skippin](https://open.spotify.com/track/6UmkLiuqMDw88HKr9H4B2F) | [MAXAM](https://open.spotify.com/artist/3dBS6HZxtKdJwcNyx9kThH), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Skippin](https://open.spotify.com/album/114HqXOv5hLDuk7SVP0XVB) | 2:37 | 2024-05-01 |  |
+| [Something](https://open.spotify.com/track/5JDV9OrKjeNkudakqwp9on) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/40gIiI8skJeWU05P7FoIse) | 3:07 | 2024-06-19 |  |
 | [Still Monster](https://open.spotify.com/track/6tuTpe37ljVcrJeZAAKBE1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ORANGE BLOOD](https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT) | 3:06 | 2024-05-01 |  |
 | [Take Me To Eterna](https://open.spotify.com/track/02cTdRWbWorhJ7DFXRkFKK) | [Sweater Beats](https://open.spotify.com/artist/62Jfwxon19ZOT9eSL6bvtY), [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [Take Me To Eterna](https://open.spotify.com/album/57Tirl2ZE5G9AgqpyFLD8P) | 3:14 | 2024-05-01 |  |
 | [The Silence](https://open.spotify.com/track/2GEZc2yWerMNPVTwwOI578) | [Ellipso](https://open.spotify.com/artist/6SSzF90X1iI3jZbaiQMaWs) | [The Silence](https://open.spotify.com/album/7BMmVjURRpn9elnP1XrzCR) | 2:05 | 2024-05-01 |  |

@@ -2,9 +2,9 @@
 
 ### [Arena Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWVFZbCNivv6B)
 
-> Aquí vive el hip\-hop mexicano\. Homer El Mero Mero y Alemán en la casa.
+> Aquí vive el hip\-hop mexicano\. MC Davo en la casa.
 
-539 songs - 1 day 8 hr 20 min
+540 songs - 1 day 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Como el Agua](https://open.spotify.com/track/5vVqU82EsivrNzYTtc2GUj) | [Dee](https://open.spotify.com/artist/1jVhcHIGJuk16eqY1Mdtuk) | [Capo](https://open.spotify.com/album/48xXX0Q141vKS9UcLu9mWW) | 3:20 | 2023-07-14 | 2023-10-14 |
 | [Complicado](https://open.spotify.com/track/3eGpyKNSwZH2E738CjK9w1) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [No Teníamos Nada, Pero Éramos Felices](https://open.spotify.com/album/23c29N9eKBUKm7sljfJMgs) | 3:59 | 2022-10-28 | 2023-01-28 |
 | [Complicado](https://open.spotify.com/track/5LxtXRqA2i3LBWdJiqE91O) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [Complicado](https://open.spotify.com/album/5JOuCtRnFr7hM271TWk3YC) | 4:00 | 2022-01-28 | 2022-12-12 |
+| [Con Todo Menos Con Miedo](https://open.spotify.com/track/5BWZHBmOTRL2fA0djH3aYZ) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Con Todo Menos Con Miedo](https://open.spotify.com/album/7nJr0EhoIRfakDLlcYNIyi) | 2:36 | 2024-06-19 |  |
 | [Conexión](https://open.spotify.com/track/3wpukX8pJ6wNLECrQlhUq5) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [Conexión](https://open.spotify.com/album/3EfRXjDxv4DcybfywCr657) | 2:51 | 2023-10-20 | 2023-12-02 |
 | [Confundido](https://open.spotify.com/track/27RuS7SkQmWvmrtzVVujIo) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Confundido](https://open.spotify.com/album/4bRYQKtGDLljfLWR7XHMve) | 4:36 | 2022-06-27 | 2022-07-01 |
 | [Confundido](https://open.spotify.com/track/1YrgSEIWCCZSgBmeo8ZmPL) | [Solek 473](https://open.spotify.com/artist/0Gn8KswCJzIBPgmEhCcoSU), [chicana rosas](https://open.spotify.com/artist/27h1jkzOzlNtrQMHhaG3Nq), [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V) | [Confundido](https://open.spotify.com/album/3zzQbqU5BZ6SjDbrVOQOL6) | 2:39 | 2024-04-12 | 2024-05-25 |
@@ -310,7 +311,7 @@
 | [Mi Plebada](https://open.spotify.com/track/4V6o2CAtWXXw48VJCmdzwF) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Mi Plebada](https://open.spotify.com/album/0I9dpMxQeIbfbjbCRSkqb3) | 3:42 | 2022-01-28 | 2022-03-18 |
 | [Mi Raza](https://open.spotify.com/track/7HnMj5DQBkrrJyl7kUq5ZB) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Mi Raza](https://open.spotify.com/album/2sNIhivx1vmYiDk5tvlpxN) | 3:22 | 2024-01-19 | 2024-05-11 |
 | [Mi Realidad](https://open.spotify.com/track/5a9wrQQuT2IgSVH8jKeE3P) | [Zimple](https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Águila de los 90'S, Vol\. 1](https://open.spotify.com/album/0txdbTmk86poe0nu1RF83h) | 2:58 | 2022-01-28 | 2022-05-20 |
-| [Mirando al Cielo](https://open.spotify.com/track/2W55sN1wwYV408hRPzrgl4) | [Caronte G](https://open.spotify.com/artist/2gEEI24C34fljRQZdSA9lb), [Turek Hem](https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx) | [Mirando al Cielo](https://open.spotify.com/album/4U6lt3vknnf5euF1I0WKwh) | 2:55 | 2024-05-10 |  |
+| [Mirando al Cielo](https://open.spotify.com/track/2W55sN1wwYV408hRPzrgl4) | [Caronte G](https://open.spotify.com/artist/2gEEI24C34fljRQZdSA9lb), [Turek Hem](https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx) | [Mirando al Cielo](https://open.spotify.com/album/4U6lt3vknnf5euF1I0WKwh) | 2:55 | 2024-05-10 | 2024-06-20 |
 | [Mis Demonios](https://open.spotify.com/track/2bt4ICyaBAmqjfSjkMcNtx) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6) | [Mis Demonios](https://open.spotify.com/album/5xXtWGBc3x0tqPSgPlmA8B) | 3:30 | 2024-06-14 |  |
 | [Miss Diablo](https://open.spotify.com/track/0Hurh6a4KCZ7MuCPgYIwP8) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu), [Dímelo Seven](https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW) | [Miss Diablo](https://open.spotify.com/album/4s8SELkg0riptSKUZxidei) | 2:31 | 2024-05-03 |  |
 | [Mitolo G's](https://open.spotify.com/track/1TSK9oQ4O9eltqaYDRaVJM) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [Bizor](https://open.spotify.com/artist/7F6fxMv0tz2Clj8H02Y2k7) | [Mitolo G's](https://open.spotify.com/album/4f0hu5GxLyap7KPUld6rX1) | 3:16 | 2023-03-31 | 2023-09-02 |

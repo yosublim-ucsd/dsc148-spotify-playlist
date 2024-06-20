@@ -154,7 +154,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 165600,
       "name": "Again & Again",
       "url": "https://open.spotify.com/track/3Kh7jZ6QdVJJq63A3xRneN"
@@ -1828,7 +1828,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
@@ -4330,7 +4330,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-19",
+      "date_removed": null,
       "duration_ms": 216428,
       "name": "RATATATA",
       "url": "https://open.spotify.com/track/14WYmNQWvR2TTWoRp8t9Ml"
@@ -5860,7 +5860,7 @@
       ],
       "date_added": "2024-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-19",
+      "date_removed": null,
       "duration_ms": 193493,
       "name": "You Spin Me Round (Like A Record)",
       "url": "https://open.spotify.com/track/3Ubdfh2RcVAvNR8YfvVvRi"
@@ -6440,7 +6440,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 121166,
       "name": "\u0412 \u0420\u041e\u0421\u0421\u0418\u0418 \u0416\u0418\u0422\u042c \u041f\u0418\u0417\u0414\u0410\u0422\u041e",
       "url": "https://open.spotify.com/track/30IuMuNTWNv71jqK2Pwzmw"
@@ -6690,6 +6690,32 @@
       "duration_ms": 154500,
       "name": "\u0413\u0440\u043e\u0437\u0430",
       "url": "https://open.spotify.com/track/2K1QWRpglCvDNeqEm0mMjf"
+    },
+    {
+      "album": {
+        "name": "\u0414\u0410 / \u041d\u0415\u0422",
+        "url": "https://open.spotify.com/album/1pAnIPCbuXbDcKl0sJotCY"
+      },
+      "artists": [
+        {
+          "name": "uniqe",
+          "url": "https://open.spotify.com/artist/0NhjeTa9uSqiD1wEG3gfII"
+        },
+        {
+          "name": "nkeeei",
+          "url": "https://open.spotify.com/artist/0kD3TUffiD0sPxGwygzjg7"
+        },
+        {
+          "name": "ARTEM SHILOVETS",
+          "url": "https://open.spotify.com/artist/3r1Md7Hk5iqtpyEoGo8032"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159836,
+      "name": "\u0414\u0410 / \u041d\u0415\u0422",
+      "url": "https://open.spotify.com/track/3pSjo50p5STyZRBgG4f8MO"
     },
     {
       "album": {
@@ -7104,7 +7130,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 99812,
       "name": "\u0417\u0410\u0425\u041e\u0422\u0415\u041b",
       "url": "https://open.spotify.com/track/6XTvawaDFxvOUScj6E4KLr"
@@ -8635,6 +8661,24 @@
     },
     {
       "album": {
+        "name": "\u0420\u0430\u043d\u0435\u0432\u0441\u043a\u0430\u044f",
+        "url": "https://open.spotify.com/album/1CAyI5kSWGOWgMNCEISjHH"
+      },
+      "artists": [
+        {
+          "name": "Akmal'",
+          "url": "https://open.spotify.com/artist/0EW7n8ONVOCvm7JsHqwB6y"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227718,
+      "name": "\u0420\u0430\u043d\u0435\u0432\u0441\u043a\u0430\u044f",
+      "url": "https://open.spotify.com/track/61AEemHKaHZwUywyXlYoVa"
+    },
+    {
+      "album": {
         "name": "\u0421\u0430\u0448\u0430, \u043e\u0441\u0442\u0430\u043d\u044c\u0441\u044f \u0441\u043e \u043c\u043d\u043e\u0439",
         "url": "https://open.spotify.com/album/1C4ZnItif7PQtxg7uQV9Wl"
       },
@@ -8718,7 +8762,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 161280,
       "name": "\u0421\u043d\u044b \u0410\u043b\u0438\u0441\u044b",
       "url": "https://open.spotify.com/track/4y0BtpEX8nemCjNIfBvA5y"
@@ -9476,6 +9520,24 @@
       "duration_ms": 140341,
       "name": "\u0427\u0451\u0440\u043d\u044b\u0439 \u0434\u0438\u043f\u043b\u043e\u043c",
       "url": "https://open.spotify.com/track/4HEbrxe5emDuiWOPPjHbIO"
+    },
+    {
+      "album": {
+        "name": "\u042d\u0442\u043e \u043a\u043e\u043d\u0435\u0446?",
+        "url": "https://open.spotify.com/album/5nM3kPYOg7EkO8SqqOWOPj"
+      },
+      "artists": [
+        {
+          "name": "evgenich1979",
+          "url": "https://open.spotify.com/artist/1gKRiUOsTKR8N7WV7h7vrb"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151875,
+      "name": "\u0428\u0435\u0439\u043a",
+      "url": "https://open.spotify.com/track/1DaP1iuy23nkBwxaasMBfS"
     },
     {
       "album": {

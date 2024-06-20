@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79vrB5Ei5Gk7BctdZesJJA.md) - [plain]
 
 > Official Roadrunner Records Playlist \- This weeks DEADNOISE.FM playlist is curated by Andrew from Stateside
 
-[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,788 likes - 42 songs - 1 hr 59 min
+[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,789 likes - 42 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

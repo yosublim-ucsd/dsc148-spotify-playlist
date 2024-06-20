@@ -436,7 +436,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 313587,
       "name": "Beside April",
       "url": "https://open.spotify.com/track/0ILCCPZp5fXzakTTPsIdR8"
@@ -1667,6 +1667,32 @@
     },
     {
       "album": {
+        "name": "three",
+        "url": "https://open.spotify.com/album/4Wp9nBdyOi7Bg0NcSukCvO"
+      },
+      "artists": [
+        {
+          "name": "Black Decelerant",
+          "url": "https://open.spotify.com/artist/3hDJXXTF8ZlZwrmiRuWtYo"
+        },
+        {
+          "name": "Contour",
+          "url": "https://open.spotify.com/artist/5eUhoxsPgFqAWSfOtwMNBF"
+        },
+        {
+          "name": "Omari Jazz",
+          "url": "https://open.spotify.com/artist/2JnmbU4G6t4GPZpIl5PUCT"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "five",
+      "url": "https://open.spotify.com/track/0Xzw9kW28pJfzAwPZTqNPt"
+    },
+    {
+      "album": {
         "name": "Flos Potentia (Sugar, Cotton, Tabacco)",
         "url": "https://open.spotify.com/album/0uKPzV8X3Q8qztJLgmz0dW"
       },
@@ -2344,7 +2370,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 276172,
       "name": "Inspiral",
       "url": "https://open.spotify.com/track/2g5wSGjYZB8gMGMgyKuVd8"
@@ -3040,7 +3066,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 206863,
       "name": "Mirrored Solitude",
       "url": "https://open.spotify.com/track/52vNlD5YZT1yUmZUnukAbT"
@@ -4613,6 +4639,32 @@
     },
     {
       "album": {
+        "name": "three",
+        "url": "https://open.spotify.com/album/4Wp9nBdyOi7Bg0NcSukCvO"
+      },
+      "artists": [
+        {
+          "name": "Black Decelerant",
+          "url": "https://open.spotify.com/artist/3hDJXXTF8ZlZwrmiRuWtYo"
+        },
+        {
+          "name": "Contour",
+          "url": "https://open.spotify.com/artist/5eUhoxsPgFqAWSfOtwMNBF"
+        },
+        {
+          "name": "Omari Jazz",
+          "url": "https://open.spotify.com/artist/2JnmbU4G6t4GPZpIl5PUCT"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350000,
+      "name": "three",
+      "url": "https://open.spotify.com/track/5PscXPqV4pst0hyzQwEveE"
+    },
+    {
+      "album": {
         "name": "Dismantle",
         "url": "https://open.spotify.com/album/0Urx0JytNiBlup4qFQEzJ3"
       },
@@ -4796,6 +4848,32 @@
       "duration_ms": 226500,
       "name": "Turns Out I'm Sentimental After All (Rom\u00e9o Poirier Rework)",
       "url": "https://open.spotify.com/track/5K7v2eY5lGNe6O5FhHRoZa"
+    },
+    {
+      "album": {
+        "name": "three",
+        "url": "https://open.spotify.com/album/4Wp9nBdyOi7Bg0NcSukCvO"
+      },
+      "artists": [
+        {
+          "name": "Black Decelerant",
+          "url": "https://open.spotify.com/artist/3hDJXXTF8ZlZwrmiRuWtYo"
+        },
+        {
+          "name": "Contour",
+          "url": "https://open.spotify.com/artist/5eUhoxsPgFqAWSfOtwMNBF"
+        },
+        {
+          "name": "Omari Jazz",
+          "url": "https://open.spotify.com/artist/2JnmbU4G6t4GPZpIl5PUCT"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "two",
+      "url": "https://open.spotify.com/track/5AFbHte0qXKs8QUKTFY78i"
     },
     {
       "album": {

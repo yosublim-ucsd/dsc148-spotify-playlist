@@ -4,7 +4,7 @@
 
 > i tell them it's just your culture and everyone 🙄 📸 Sabrina Carpenter
 
-2,082 songs - 4 day 8 hr 42 min
+2,083 songs - 4 day 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [avoiding](https://open.spotify.com/track/33n7ILhPNDsTjksq15o4qJ) | [Julianna Zachariou](https://open.spotify.com/artist/3MKLoCXEXufW2ldiQtUokO) | [avoiding](https://open.spotify.com/album/2O8CTOf7Urxw9curxCraoY) | 4:07 | 2019-07-27 | 2020-04-15 |
 | [Awaken \(Feel Alive\)](https://open.spotify.com/track/1p6AQlMFpnH4hmhrSfoQ3k) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA), [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Awaken \(Feel Alive\)](https://open.spotify.com/album/3G2IDH5CJxDMVaX8mQ9kVp) | 3:00 | 2021-10-25 | 2022-12-10 |
 | [Awash](https://open.spotify.com/track/70W9r4QKO03SeGxdxuo4I4) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Awash](https://open.spotify.com/album/2jkD1DxLkUGfJ8pp5iaE0T) | 3:09 | 2021-05-17 | 2021-10-16 |
+| [Awesome \(feat\. Baby Tate\)](https://open.spotify.com/track/0aOFo1FPyMdgopCac1QMmc) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Awesome \(feat\. Baby Tate\)](https://open.spotify.com/album/0U31u16tUxLte3O7ghLpm6) | 2:25 | 2024-06-14 |  |
 | [B.I.L.L.S.](https://open.spotify.com/track/7xISBLSpkANttnZx8krkq6) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [B.I.L.L.S.](https://open.spotify.com/album/5xAgSGlXlXM31KGUe5g4I5) | 2:14 | 2024-02-27 |  |
 | [baby](https://open.spotify.com/track/0Jb9GMSMYC9SxFCe6uiDRG) | [again&again](https://open.spotify.com/artist/3CIq9N0VQGWfBpCAMzMZZN) | [baby](https://open.spotify.com/album/52JJV0EJpC8Ibu3X8EutWW) | 2:33 | 2021-08-19 | 2021-08-20 |
 | [Baby Bangs \(feat\. dacelynn\)](https://open.spotify.com/track/01J9q2fcpP9OiEfs1ziyji) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl), [dacelynn](https://open.spotify.com/artist/4HcCn0kCOvr5D6BItsWVFh) | [Baby Bangs \(feat\. dacelynn\)](https://open.spotify.com/album/2wH4N8ZRRqhJ49K6qXV2m0) | 2:44 | 2024-03-29 | 2024-04-27 |
@@ -613,7 +614,7 @@
 | [FEMININE RAGE](https://open.spotify.com/track/08iDzwXKP72XYGnjXLSwW2) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [DEAR READER](https://open.spotify.com/album/1JsRmuktjMsrdolUuZ5UMp) | 2:27 | 2024-04-26 |  |
 | [Feverbreak \- Basenji Remix](https://open.spotify.com/track/1nu21EDKSGoLcITwVnxcTL) | [Odette](https://open.spotify.com/artist/1iQVsRr2JalWIOLQa4T7O6), [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u), [Basenji](https://open.spotify.com/artist/4FH1qQ5KcTtomryu4O5pgX) | [Feverbreak \(Basenji Remix\)](https://open.spotify.com/album/7vMFRuXX3UI0JLG77cREuR) | 3:54 | 2021-02-26 | 2021-10-14 |
 | [Figure It Out](https://open.spotify.com/track/5G5qyRHlLmZgy915TBTCkB) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Figure It Out](https://open.spotify.com/album/2Hnlavdkpy4vZhva8VsTfq) | 2:44 | 2021-02-23 | 2022-01-04 |
-| [Figure You Out](https://open.spotify.com/track/2yv7z2i0N0ItdmOHgxTPtW) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [Figure You Out](https://open.spotify.com/album/0Qyf9iXdQCMuzWj2yxZKGZ) | 3:29 | 2023-09-01 |  |
+| [Figure You Out](https://open.spotify.com/track/2yv7z2i0N0ItdmOHgxTPtW) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [Figure You Out](https://open.spotify.com/album/0Qyf9iXdQCMuzWj2yxZKGZ) | 3:29 | 2023-09-01 | 2024-06-20 |
 | [Find](https://open.spotify.com/track/49ex5tTzAH1XMbzWUv0AEQ) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Cody Lovaas](https://open.spotify.com/artist/7fWrZ2q4fGZAnuCPfgSU52) | [Find](https://open.spotify.com/album/6oM9lQGrxXasipni3i4skG) | 3:39 | 2019-05-26\* | 2019-08-13 |
 | [Fine By Me](https://open.spotify.com/track/214eImoHDFo0vb3WL2Amk4) | [morgen](https://open.spotify.com/artist/6jadsn0j1QjrlJTMiaUJYF) | [Fine By Me](https://open.spotify.com/album/0M5snw5pGGynwHrxwJBtwn) | 2:29 | 2021-11-26 | 2022-01-29 |
 | [Fire Escape](https://open.spotify.com/track/6dLuZg4jYj6IhvxyypY1sc) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [Fire Escape](https://open.spotify.com/album/2VMM7Zc5cSMP6l02uUcBcE) | 3:01 | 2023-05-05 | 2023-06-09 |

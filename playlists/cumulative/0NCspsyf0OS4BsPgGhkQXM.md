@@ -4,11 +4,11 @@
 
 > The Official Trap Nation Playlist
 
-1,076 songs - 2 day 7 hr 47 min
+1,077 songs - 2 day 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/06iuzVAiyOTXKJDZiVuPW4) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0pedkI7nWlHCeiluBRLF7O) | 0:00 | 2024-05-10 |  |
+| [](https://open.spotify.com/track/06iuzVAiyOTXKJDZiVuPW4) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0pedkI7nWlHCeiluBRLF7O) | 0:00 | 2024-05-10 | 2024-06-20 |
 | ['iiblis](https://open.spotify.com/track/0IUGa7sG1RNgA1DHFwHqMh) | [Stereotype](https://open.spotify.com/artist/0binTLIlGbXSMuzhRykbRq), [jacob.](https://open.spotify.com/artist/4TZfht59B1e5LZE8JsE1OE) | [NOWHERE](https://open.spotify.com/album/2Umgb5V6u7umS1BMXq4UXQ) | 3:20 | 2022-01-14 | 2022-04-08 |
 | [\(Give It To Me Like I\) Want It](https://open.spotify.com/track/5z5sA9z9PqN0pciTUnmkki) | [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [\(Give It To Me Like I\) Want It](https://open.spotify.com/album/6MHlPJOdgHXcWBmvtqKYo3) | 3:36 | 2022-01-14 | 2022-09-15 |
 | [2 of Us!](https://open.spotify.com/track/45hJFt1e8mTYDrI97QFLcf) | [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [On The Coast!](https://open.spotify.com/album/2PjCRugBN4ew86DC17hT0g) | 4:27 | 2022-10-14 | 2023-02-22 |
@@ -734,6 +734,7 @@
 | [Poison](https://open.spotify.com/track/5jL2AUhdKcZFhUAKYcy8gp) | [DaWave](https://open.spotify.com/artist/08jQkfZ4SwCcuK32awx5Fu), [Skrybe](https://open.spotify.com/artist/51TcqE7roc5c4PWG4A4GIX), [Lena Luisa](https://open.spotify.com/artist/3m5gh8cCnoXc0qUe6wukid) | [Poison](https://open.spotify.com/album/44ESvM4YLT7AulEbhoXg75) | 4:11 | 2022-05-20 | 2022-06-18 |
 | [Poker Face](https://open.spotify.com/track/7tQPXgC9h5m7XyzSpRCYkD) | [Bread Beatz](https://open.spotify.com/artist/6Bwo8WbpyBecVCrrKcAtuH) | [Poker Face](https://open.spotify.com/album/3S0E6XgBZZEHwtMK4Gq7vO) | 2:04 | 2023-10-13 |  |
 | [Pompeii \(feat\. Crooked Bangs\)](https://open.spotify.com/track/1lh1f7hKVPSX70kBb6Uf4v) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [Pompeii \(feat\. Crooked Bangs\)](https://open.spotify.com/album/3Y10pwQZ9FUIpOelXxirRx) | 3:20 | 2022-05-17 | 2022-06-18 |
+| [Pop like this Pt\. 2 \- Slowed](https://open.spotify.com/track/3xvzR05d6KgexfzjJgDRDl) | [prodbycpkshawn](https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z) | [Pop like this Pt\. 2 \(Slowed\)](https://open.spotify.com/album/7AxvdeyukmAFes9SBWYE6x) | 2:02 | 2024-06-19 |  |
 | [Pop Off](https://open.spotify.com/track/2brgW2rPRbY5Zn0aU2USgc) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Kazu](https://open.spotify.com/artist/5YWhkJe7pSNnmurK40sUyA) | [RISE](https://open.spotify.com/album/4RszMvLTlzdiMRMqqt7ATc) | 2:40 | 2022-05-06 | 2022-06-04 |
 | [Popstar](https://open.spotify.com/track/0njo9ZlJryQzqo6LGkxJk4) | [CryJaxx](https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9), [Drama B](https://open.spotify.com/artist/1Ars2RdXFbmt04pZ5g2RNr) | [Popstar](https://open.spotify.com/album/5WASE5W4ttlNiY8k7ZredT) | 2:44 | 2022-06-20 | 2022-07-29 |
 | [Problems](https://open.spotify.com/track/0zPQx8X0MqfilG0dZIRXkN) | [Jake Daniels](https://open.spotify.com/artist/3AYZMgvmzNKc3cGmJUSITh) | [Problems](https://open.spotify.com/album/7ARGpnH0DV4qXGSzC08Rf2) | 2:50 | 2022-08-12 | 2022-09-10 |

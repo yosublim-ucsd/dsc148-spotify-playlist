@@ -4475,6 +4475,24 @@
     },
     {
       "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/0IAo42WYRRTgBtaRUCSMK1"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152403,
+      "name": "Please Please Please - Sped Up",
+      "url": "https://open.spotify.com/track/4EryTXqW5cvf5yqITZEm7b"
+    },
+    {
+      "album": {
         "name": "Popular",
         "url": "https://open.spotify.com/album/0p0FGxiCrl3afABenvtWbQ"
       },
@@ -5964,7 +5982,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 118280,
       "name": "Wasted Summers - Sped Up",
       "url": "https://open.spotify.com/track/3D68y3ta9qkxpSdjLjPOoS"

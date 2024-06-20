@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wTpeB.md) - [plain]
 
 ### [This Is Ali Aka Mind](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3wTpeB)
 
-> This Is Ali Aka Mind\. Los temas esenciales, todos en una lista.
+> This is Ali Aka Mind\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,009 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,012 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wTpeB.md) - [plain]
 | 49 | [Cypher \(feat\. Mecal, Benzina, La Reyna & Elephanto\)](https://open.spotify.com/track/3Delq0wrQ6oLoquNU08AoX) | [El B](https://open.spotify.com/artist/2hbqnyDIEyi8JbZCmOkPdm), [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X), [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Mecal](https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5), [Benzina](https://open.spotify.com/artist/6wS510Ui8Es2eB6vsriZPY), [La Reyna](https://open.spotify.com/artist/41sIcvBVhFqCKi0ifbLvct), [Elephanto](https://open.spotify.com/artist/5NoTWqoGm1FNGyRpKp7EBI) | [7](https://open.spotify.com/album/1hR0olM285k9Ri0qj76ue7) | 5:14 |
 | 50 | [Resiste](https://open.spotify.com/track/6NXti8tVz8vE6udH1UJkYD) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu), [Unknown Mizery de Babylon Warchild](https://open.spotify.com/artist/56o7VNkbWKgVZpmvSe2jqu) | [Mestizo](https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw) | 3:13 |
 
-Snapshot ID: `Zm98gAAAAADvgZBCs9UR5FiwehXygOKk`
+Snapshot ID: `Zm98gAAAAAB/mcKmirppHTD5Jd+S34jH`

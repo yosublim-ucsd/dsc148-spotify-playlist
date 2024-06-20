@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 
 > Song Of The Week at the top\. Standouts go to <a href="https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy">Big Hit Energy</a> and <a href="https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv">2022% Solid Pop Music</a>\. More: <a href="http://popjustice.com">Popjustice.com</a>.
 
-[Popjustice](https://open.spotify.com/user/popjustice) - 10,678 likes - 18 songs - 55 min 36 sec
+[Popjustice](https://open.spotify.com/user/popjustice) - 10,679 likes - 18 songs - 55 min 36 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 | 4 | [Fair](https://open.spotify.com/track/7f9fJAUu3EXbzzOmZA4QRC) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO), [Betsy](https://open.spotify.com/artist/58FAQGIDRMXK5AsxJu9YNp) | [Fair](https://open.spotify.com/album/0IbbybOy5vCGIbRHf8yHRO) | 3:28 |
 | 5 | [First Time](https://open.spotify.com/track/3gZ8s2w5v9jmjRkwYFRKxg) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [First Time](https://open.spotify.com/album/2trAIH3JyP0Kas8Ke7H2q6) | 2:33 |
 | 6 | [Spiral](https://open.spotify.com/track/6RfgvYyQaM3lFys834sWwx) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Spiral](https://open.spotify.com/album/1FTD5Ik0Ex0MofuRwt8eYR) | 3:37 |
-| 7 | [New Moon, Same Old Me](https://open.spotify.com/track/4aH7cgsTvH758qlvc5v4m7) | [Asbjørn](https://open.spotify.com/artist/47rOF45mpciP0KFUlBqKUX), [Brimheim](https://open.spotify.com/artist/2ROf9t2bzHTnVuf8btRd5J) | [New Moon, Same Old Me](https://open.spotify.com/album/7fsc9ozWM0kdmjwPb4SVhw) | 4:15 |
+| 7 | [New Moon, Same Old Me \(feat\. Brimheim\)](https://open.spotify.com/track/4aH7cgsTvH758qlvc5v4m7) | [Asbjørn](https://open.spotify.com/artist/47rOF45mpciP0KFUlBqKUX), [Brimheim](https://open.spotify.com/artist/2ROf9t2bzHTnVuf8btRd5J) | [New Moon, Same Old Me \(feat\. Brimheim\)](https://open.spotify.com/album/7fsc9ozWM0kdmjwPb4SVhw) | 4:15 |
 | 8 | [The Spark](https://open.spotify.com/track/0bhnFakmRioZbuQcmhVwoH) | [Kabin Crew](https://open.spotify.com/artist/6BHou7i94KE1FpHgDVWZEK), [Lisdoonvarna Crew](https://open.spotify.com/artist/7BUWoquo4gsA4kREUujbSi) | [The Spark](https://open.spotify.com/album/6xNvkXuK0QL7vr9wEsCREW) | 2:26 |
 | 9 | [Me Before You](https://open.spotify.com/track/1S4sLPFxkgMTOui1W4GN72) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [Me Before You](https://open.spotify.com/album/4hElKzCyDVbddwxZe4f9jb) | 3:35 |
 | 10 | [JUST LIKE THAT](https://open.spotify.com/track/4alytlIn91jJgzsu6rSONb) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [JUST LIKE THAT](https://open.spotify.com/album/17Wk4tqPJ8rMH1hFCW4eLf) | 2:18 |

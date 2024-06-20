@@ -2475,6 +2475,28 @@
     },
     {
       "album": {
+        "name": "Real Talk",
+        "url": "https://open.spotify.com/album/1RuWV3kpG2gFEinRXB7ntu"
+      },
+      "artists": [
+        {
+          "name": "Gat Putch",
+          "url": "https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v"
+        },
+        {
+          "name": "Costa Cashman",
+          "url": "https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192611,
+      "name": "Real Talk",
+      "url": "https://open.spotify.com/track/7pWNl0BdWqYvT9swgDqZAq"
+    },
+    {
+      "album": {
         "name": "Sabak Daddy",
         "url": "https://open.spotify.com/album/35yzIYk6qn8gUB7HLuPGvi"
       },

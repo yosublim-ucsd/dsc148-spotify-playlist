@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nAAzD.md) - [plain]
 
 ### [This Is Hyperanhas](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4nAAzD)
 
-> This is Hyperanhas\. Todos os maiores hits em uma só playlist.
+> This is Hyperanhas\. The essential tracks, all in one playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 3,678 likes - 50 songs - 3 hr 16 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nAAzD.md) - [plain]
 | 49 | [Ta Bom](https://open.spotify.com/track/46UPP4xynkI9HDt6zK4dhq) | [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Ta Bom](https://open.spotify.com/album/5LpQKXsKsJWAGYjk2bdzkl) | 2:54 |
 | 50 | [Set Dj Br da Tijuca 3](https://open.spotify.com/track/1xQABs4bfvIunZOZ4Ov0im) | [BR DA TIJUCA](https://open.spotify.com/artist/7KEk6kxe9YqyuVg9QeMVNQ), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly), [Mc KF](https://open.spotify.com/artist/2zaQ4hz4xLgGGtABoUS8kf), [DaPaz](https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1), [Nathan](https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA), [Meno Bom](https://open.spotify.com/artist/2becfxwincSfFiB1duhonS), [PK Delas](https://open.spotify.com/artist/6gqBZ0kAjgVLsZQKkHcaB3), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ), [Leo da Zona Sul](https://open.spotify.com/artist/7ylv7b3bmpR5NC2OilrZmo), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Agatha](https://open.spotify.com/artist/212rAq8nUlNPTaWl7Y0b5i), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [Set Dj Br da Tijuca 3](https://open.spotify.com/album/01aO02GNBxfZPcYu7C48pc) | 6:39 |
 
-Snapshot ID: `Zm98gAAAAAD4KnRj3XJV6dZ56NBSvIY8`
+Snapshot ID: `ZnDOAAAAAAAccZayi8JKiz67OJ844Qco`

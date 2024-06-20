@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Tanner Adell, Luke Combs, Jelly Roll and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,507 likes - 66 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,649 likes - 66 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 55 | [Wanna Play With Fire](https://open.spotify.com/track/1LZkftfcdI5RvaEmBqQBXR) | [Caitlin Quisenberry](https://open.spotify.com/artist/2yLeptGRMWP64GReoRj85U) | [Wanna Play With Fire](https://open.spotify.com/album/3xCbXtDBR9cYk8oAaCAONq) | 3:31 |
 | 56 | [Kiss It Goodbye](https://open.spotify.com/track/6eIXUN4JHBR0cZ8aOcISTO) | [Morgan Gruber](https://open.spotify.com/artist/2dn7v8oIrGpyiqLJhAToTh) | [Kiss It Goodbye](https://open.spotify.com/album/5EHAI3dEtiNBZnBpJZJBbC) | 2:53 |
 | 57 | [Coastal Cowgirl Blues](https://open.spotify.com/track/5x9JJRyxs8LyzWoRe7Vjbe) | [Emily Zeck](https://open.spotify.com/artist/696x5uEm1nV6xucEZNAbzH) | [Coastal Cowgirl Blues](https://open.spotify.com/album/0O0Vae2eNKJxUpdEp8qYvT) | 3:08 |
-| 58 | [Girls Night](https://open.spotify.com/track/4mqUNNUrZytmFCIHHNAle5) | [The Boykinz](https://open.spotify.com/artist/45yX0sqYmkP2IgBtKVJKSL) | [Girls Night](https://open.spotify.com/album/1vooR92t89DT4jxm7JCaZy) | 2:33 |
+| 58 | [Girls Night](https://open.spotify.com/track/4mqUNNUrZytmFCIHHNAle5) | [BoykinZ](https://open.spotify.com/artist/45yX0sqYmkP2IgBtKVJKSL) | [Girls Night](https://open.spotify.com/album/1vooR92t89DT4jxm7JCaZy) | 2:33 |
 | 59 | [Prayed For You](https://open.spotify.com/track/2ihFl88JQJtqPzsNQaS4BU) | [Jacksonville](https://open.spotify.com/artist/5lHCbhzMq5D72UDS2cCr3l) | [Prayed For You](https://open.spotify.com/album/08YFJliM9RLRkpxS3AvPZs) | 3:26 |
 | 60 | [Get Away](https://open.spotify.com/track/2c8s2SYNff2BicmjSxZ45b) | [Daniel Cain](https://open.spotify.com/artist/1Kma96kbUWcSR07q2bm5cz) | [Appalachia Untold Sessions](https://open.spotify.com/album/6kf85ciG5NUrYNPuvDdeNG) | 2:55 |
 | 61 | [Summer Night Supercuts](https://open.spotify.com/track/0ZR6OcCj9TL0UzOPOe6mlQ) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Summer Night Supercuts](https://open.spotify.com/album/6rEPog1EYgmo7mfqmP96nT) | 3:03 |

@@ -1,12 +1,12 @@
 {
   "description": "The best tracks in downtempo &amp; chill, curated by Anjuna. Perfect for studying, meditating &amp; relaxing. ",
-  "num_followers": 42143,
+  "num_followers": 42146,
   "original_name": "Chill with Anjuna",
   "owner": {
     "name": "Anjunadeep",
     "url": "https://open.spotify.com/user/anjunadeep"
   },
-  "snapshot_id": "AAAKHlqon/ULq9bB5irHYlvE3YU7lhhe",
+  "snapshot_id": "AAAKIKigGdhLtEwglZHVTK8NvTeAT81i",
   "tracks": [
     {
       "added_at": "2024-06-14 16:12:39",
@@ -405,6 +405,22 @@
       "url": "https://open.spotify.com/track/0IdaAvLilaPpPp4IDOpUud"
     },
     {
+      "added_at": "2024-06-19 13:18:07",
+      "album": {
+        "name": "Show Me How",
+        "url": "https://open.spotify.com/album/4RSRc0uKcujiW0Xesvriz5"
+      },
+      "artists": [
+        {
+          "name": "Sean Blanc",
+          "url": "https://open.spotify.com/artist/5zOgJO7Uyh5ALdB7Ts9vxt"
+        }
+      ],
+      "duration_ms": 243816,
+      "name": "Show Me How",
+      "url": "https://open.spotify.com/track/12dXMqsOXUtE9IBtUDSOvt"
+    },
+    {
       "added_at": "2024-06-14 16:12:39",
       "album": {
         "name": "Fugue In Twilight (Instrumentals)",
@@ -691,22 +707,6 @@
       "duration_ms": 240000,
       "name": "Vanishing Point",
       "url": "https://open.spotify.com/track/3QFamijo1AyZ7eb1cnNNaC"
-    },
-    {
-      "added_at": "2024-06-14 16:12:39",
-      "album": {
-        "name": "Reflections 08",
-        "url": "https://open.spotify.com/album/49U4QIM62pLsUATN0ATjtP"
-      },
-      "artists": [
-        {
-          "name": "Maty Owl",
-          "url": "https://open.spotify.com/artist/1CoaTV8EqidFgYH8CDsfAu"
-        }
-      ],
-      "duration_ms": 271533,
-      "name": "Walking Slowly",
-      "url": "https://open.spotify.com/track/59ALSzlla8jAzqD5Dhozoo"
     }
   ],
   "unique_name": "Chill with Anjuna",

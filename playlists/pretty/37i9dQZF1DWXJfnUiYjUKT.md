@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Don Toliver
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,059 likes - 99 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,041 likes - 99 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 91 | [Greedy](https://open.spotify.com/track/4DceZ7xpWHNsqdhT4M3jtY) | [Marsha Ambrosius](https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM) | [Greedy](https://open.spotify.com/album/19ujwTsmepDqQVw3bfOCIZ) | 5:01 |
 | 92 | [EVERYTHING \(feat\. Chase Shakur\)](https://open.spotify.com/track/15o9LQkVjPy9R8GaDa8k5D) | [SWAVAY](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [BILLY](https://open.spotify.com/album/1rma34mRY4zuSyxr3h2rvT) | 3:06 |
 | 93 | [act bad twin! \(feat\. Cash Cobain & Bay Swag\)](https://open.spotify.com/track/1cLjq1FaPI8naEB5xElkFk) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [act bad twin! \(feat\. Cash Cobain & Bay Swag\)](https://open.spotify.com/album/50fHLT2601AXZyUCfOosVB) | 3:37 |
-| 94 | [YEA](https://open.spotify.com/track/4DqbPYolA2v85W0sVx1OhF) | [Yakiyn](https://open.spotify.com/artist/41lqavlwvb2IVsBpmCkh4E), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr) | [YEA](https://open.spotify.com/album/5VrydcfV2o1xUQdA65AzTP) | 3:45 |
+| 94 | [YEA](https://open.spotify.com/track/4DqbPYolA2v85W0sVx1OhF) | [Yakiyn](https://open.spotify.com/artist/41lqavlwvb2IVsBpmCkh4E), [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [YEA](https://open.spotify.com/album/5VrydcfV2o1xUQdA65AzTP) | 3:45 |
 | 95 | [carnival sounds](https://open.spotify.com/track/2cgWY4Vw6udOpM384eZYvS) | [Jahnah Camille](https://open.spotify.com/artist/5GDXbZvMrkJk33BqFmeXqS) | [carnival sounds](https://open.spotify.com/album/6k1w7HAK3B09JHglsLd9J0) | 4:20 |
 | 96 | [Not Your Angel](https://open.spotify.com/track/6mZm8UsXesXTWZNPF3QKxq) | [Zsela](https://open.spotify.com/artist/7IYuY1VszmoEUu4o3tNgC6) | [Not Your Angel](https://open.spotify.com/album/3tmyrJbOloJPuuvtvIh51X) | 2:59 |
 | 97 | [Take Your Time \(Slow Down\)](https://open.spotify.com/track/01eRSf9IjbyWK7wjCygQRn) | [Tolou](https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH) | [International Girl, Pt\. 1](https://open.spotify.com/album/4C8q9K3fEhwrEULk2akLR7) | 2:13 |

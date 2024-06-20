@@ -1,6 +1,6 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 357089,
+  "num_followers": 357126,
   "original_name": "Energy Booster Rock",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2024-05-27 19:39:59",
       "album": {
+        "name": "Them Vs. You Vs. Me (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2pCfqddO9tLKRz3wzSNGsZ"
+      },
+      "artists": [
+        {
+          "name": "Finger Eleven",
+          "url": "https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n"
+        }
+      ],
+      "duration_ms": 208106,
+      "name": "Paralyzer",
+      "url": "https://open.spotify.com/track/28IEbk5a7twNTbUEvWslUb"
+    },
+    {
+      "added_at": "2024-05-27 19:39:59",
+      "album": {
         "name": "RUSH!",
         "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 168280,
       "name": "GOSSIP (feat. Tom Morello)",
       "url": "https://open.spotify.com/track/44Xyja7xYPlVC6v2CeweSi"
-    },
-    {
-      "added_at": "2024-05-27 19:39:59",
-      "album": {
-        "name": "Them Vs. You Vs. Me (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2pCfqddO9tLKRz3wzSNGsZ"
-      },
-      "artists": [
-        {
-          "name": "Finger Eleven",
-          "url": "https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n"
-        }
-      ],
-      "duration_ms": 208106,
-      "name": "Paralyzer",
-      "url": "https://open.spotify.com/track/28IEbk5a7twNTbUEvWslUb"
     },
     {
       "added_at": "2024-05-27 19:39:59",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-05-27 19:39:59",
       "album": {
-        "name": "Sunburn",
-        "url": "https://open.spotify.com/album/2eTRbjHzgrACW2h8U5txhe"
-      },
-      "artists": [
-        {
-          "name": "Fuel 238",
-          "url": "https://open.spotify.com/artist/1kymORp8cdJg1NQgZ7Mr8e"
-        }
-      ],
-      "duration_ms": 214066,
-      "name": "Shimmer",
-      "url": "https://open.spotify.com/track/7kwpnE5W3ugxJ8wZdNYupT"
-    },
-    {
-      "added_at": "2024-05-27 19:39:59",
-      "album": {
         "name": "Victorious",
         "url": "https://open.spotify.com/album/2dwb86bhTK0Nr9ClfXQbZA"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 264986,
       "name": "Victorious",
       "url": "https://open.spotify.com/track/6TFGNgCyhgHKNn046iG6fa"
+    },
+    {
+      "added_at": "2024-05-27 19:39:59",
+      "album": {
+        "name": "Sunburn",
+        "url": "https://open.spotify.com/album/2eTRbjHzgrACW2h8U5txhe"
+      },
+      "artists": [
+        {
+          "name": "Fuel 238",
+          "url": "https://open.spotify.com/artist/1kymORp8cdJg1NQgZ7Mr8e"
+        }
+      ],
+      "duration_ms": 214066,
+      "name": "Shimmer",
+      "url": "https://open.spotify.com/track/7kwpnE5W3ugxJ8wZdNYupT"
     },
     {
       "added_at": "2024-05-27 19:39:59",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-05-27 19:39:59",
       "album": {
-        "name": "Together Right",
-        "url": "https://open.spotify.com/album/5wiYwpkw5aYVKIot1wmrO9"
-      },
-      "artists": [
-        {
-          "name": "Finger Eleven",
-          "url": "https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n"
-        }
-      ],
-      "duration_ms": 181120,
-      "name": "Together Right",
-      "url": "https://open.spotify.com/track/2pWJywnRIrDfgaKQnru6ri"
-    },
-    {
-      "added_at": "2024-05-27 19:39:59",
-      "album": {
         "name": "$wing",
         "url": "https://open.spotify.com/album/24nqMPW9CLAZj0rIZL2tB7"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 172353,
       "name": "$wing",
       "url": "https://open.spotify.com/track/79yXiVM8QbotM46zcevzUO"
+    },
+    {
+      "added_at": "2024-05-27 19:39:59",
+      "album": {
+        "name": "Together Right",
+        "url": "https://open.spotify.com/album/5wiYwpkw5aYVKIot1wmrO9"
+      },
+      "artists": [
+        {
+          "name": "Finger Eleven",
+          "url": "https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n"
+        }
+      ],
+      "duration_ms": 181120,
+      "name": "Together Right",
+      "url": "https://open.spotify.com/track/2pWJywnRIrDfgaKQnru6ri"
     },
     {
       "added_at": "2024-05-27 19:39:59",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb?si=\-DHFhtU5S0ilY44wXm22hQ">Major League Djz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,584 likes - 79 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,649 likes - 79 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 47 | [baby, this evening](https://open.spotify.com/track/0mL7YcENSqIYpb7mGp5utA) | [Sishii](https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG) | [baby, this evening](https://open.spotify.com/album/3Y1QFf5bBXPDHXIsfcI0PW) | 2:01 |
 | 48 | [Dream About You All Through The Night.](https://open.spotify.com/track/4dTX84JZlOg4hRBAHx3ptT) | [Sunni Colón](https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2) | [Dream About You All Through The Night.](https://open.spotify.com/album/3UgF8Qrven2zn8lQfaDUYP) | 3:49 |
 | 49 | [Ubala \(feat\. Maline Aura & DR Thulz\)](https://open.spotify.com/track/619oqzXZOlNMrYAUjMRM8a) | [Citizen Deep](https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM), [Maline Aura](https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP), [DR Thulz](https://open.spotify.com/artist/1Ce0i5w6vFvvYorMGeP2tI) | [Ubala \(feat\. Maline Aura & DR Thulz\)](https://open.spotify.com/album/19F0Pm8mxZ4gSgGc2kHtWn) | 4:29 |
-| 50 | [Want U Again \- Mixed](https://open.spotify.com/track/4l4ORGf3ThdKDjjyCOxJdL) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR) | [Paradise Mixed \(DJ Mix\)](https://open.spotify.com/album/58EWg9uTR3Lb7gDYZA3Hm9) | 5:11 |
+| 50 | [Once Again \- Mixed](https://open.spotify.com/track/4l4ORGf3ThdKDjjyCOxJdL) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR) | [Paradise Mixed \(DJ Mix\)](https://open.spotify.com/album/58EWg9uTR3Lb7gDYZA3Hm9) | 5:28 |
 | 51 | [Blessings \(feat\. Xenia Manasseh\)](https://open.spotify.com/track/32b3KvxB3nHjYaf2yMU6Q8) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Blessings \(feat\. Xenia Manasseh\)](https://open.spotify.com/album/3aQms639329HLNZgm3aUuC) | 2:31 |
 | 52 | [Vivid Memories](https://open.spotify.com/track/0lo4TTF9XtgNLzigXYgRu0) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Marching On](https://open.spotify.com/album/2ujoavk6dk8KVc93EYxT2g) | 2:09 |
 | 53 | [I Just Needed This](https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl) | [Polar Inc.](https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI), [Keepa](https://open.spotify.com/artist/5cW3W1SgE0AQaCdDRPBo7h) | [I Just Needed This](https://open.spotify.com/album/6CVvgJlFjWpGdor9nEc3j5) | 4:04 |

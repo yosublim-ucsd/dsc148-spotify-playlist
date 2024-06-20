@@ -8912,7 +8912,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 146086,
       "name": "Friesenjung",
       "url": "https://open.spotify.com/track/7b8Z1GU2plJy3aASZTiolF"
@@ -10150,6 +10150,24 @@
       "duration_ms": 290470,
       "name": "Gyvenimas",
       "url": "https://open.spotify.com/track/7fdCgaJHg5ozP9odQEmpO0"
+    },
+    {
+      "album": {
+        "name": "G\u0117l\u0117",
+        "url": "https://open.spotify.com/album/6yWgyzLWXH4vBHXNGVGUzI"
+      },
+      "artists": [
+        {
+          "name": "Vaidas Baumila",
+          "url": "https://open.spotify.com/artist/7AczdBjiNUjo4pxVVucvw1"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229926,
+      "name": "G\u0117l\u0117",
+      "url": "https://open.spotify.com/track/4mIB1pbwqFQtsUamXpbk8e"
     },
     {
       "album": {

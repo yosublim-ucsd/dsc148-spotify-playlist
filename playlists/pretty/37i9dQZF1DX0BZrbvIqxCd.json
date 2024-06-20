@@ -1,6 +1,6 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 544568,
+  "num_followers": 544562,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
@@ -305,22 +305,6 @@
       "url": "https://open.spotify.com/track/4bLKGUkVRxIyrN1770DdDm"
     },
     {
-      "added_at": "2024-04-18 19:24:00",
-      "album": {
-        "name": "Heaven :x: Hell",
-        "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 186831,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd"
-    },
-    {
       "added_at": "2020-11-20 21:27:18",
       "album": {
         "name": "Camp Kill Yourself, Vol.1",
@@ -335,6 +319,22 @@
       "duration_ms": 201920,
       "name": "96 Quite Bitter Beings",
       "url": "https://open.spotify.com/track/7AimHQrOUoUTYbVX87D3Zl"
+    },
+    {
+      "added_at": "2024-04-18 19:24:00",
+      "album": {
+        "name": "Heaven :x: Hell",
+        "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 186831,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -513,22 +513,6 @@
       "url": "https://open.spotify.com/track/72iJsJMdTGjshAZdNJbSKU"
     },
     {
-      "added_at": "2024-04-18 19:24:00",
-      "album": {
-        "name": "Bored of Being Sad",
-        "url": "https://open.spotify.com/album/268knqkvUpS3Q9TnpuhSoT"
-      },
-      "artists": [
-        {
-          "name": "Microwave",
-          "url": "https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD"
-        }
-      ],
-      "duration_ms": 200660,
-      "name": "Bored of Being Sad",
-      "url": "https://open.spotify.com/track/2LUvkorPDO3n8xs6NEXDFY"
-    },
-    {
       "added_at": "2020-11-20 21:27:18",
       "album": {
         "name": "estella//",
@@ -547,6 +531,22 @@
       "duration_ms": 118733,
       "name": "estella//",
       "url": "https://open.spotify.com/track/4v2Bq0xDB7uNN73I5b44Du"
+    },
+    {
+      "added_at": "2024-04-18 19:24:00",
+      "album": {
+        "name": "Bored of Being Sad",
+        "url": "https://open.spotify.com/album/268knqkvUpS3Q9TnpuhSoT"
+      },
+      "artists": [
+        {
+          "name": "Microwave",
+          "url": "https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD"
+        }
+      ],
+      "duration_ms": 200660,
+      "name": "Bored of Being Sad",
+      "url": "https://open.spotify.com/track/2LUvkorPDO3n8xs6NEXDFY"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2021-07-08 22:59:55",
       "album": {
-        "name": "SURVIVORS GUILT: THE MIXTAPE//",
-        "url": "https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY"
-      },
-      "artists": [
-        {
-          "name": "KennyHoopla",
-          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
-        }
-      ],
-      "duration_ms": 137986,
-      "name": "survivors guilt//",
-      "url": "https://open.spotify.com/track/7cOY6vXmsZS85mSCAaa5rF"
-    },
-    {
-      "added_at": "2021-07-08 22:59:55",
-      "album": {
         "name": "Hit Like A Girl",
         "url": "https://open.spotify.com/album/4l3QmwKvZ9TR1lSnJvT6E0"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 161523,
       "name": "Out of It",
       "url": "https://open.spotify.com/track/73QyfpApOMk3fApexIedBR"
+    },
+    {
+      "added_at": "2021-07-08 22:59:55",
+      "album": {
+        "name": "SURVIVORS GUILT: THE MIXTAPE//",
+        "url": "https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY"
+      },
+      "artists": [
+        {
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        }
+      ],
+      "duration_ms": 137986,
+      "name": "survivors guilt//",
+      "url": "https://open.spotify.com/track/7cOY6vXmsZS85mSCAaa5rF"
     },
     {
       "added_at": "2024-04-18 19:24:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Stay Rad!",
-        "url": "https://open.spotify.com/album/4sHMfa5WtLCj48iUYZGMCf"
-      },
-      "artists": [
-        {
-          "name": "Teenage Bottlerocket",
-          "url": "https://open.spotify.com/artist/0mGyXXKzoR5KAAh4Mkef2W"
-        }
-      ],
-      "duration_ms": 114219,
-      "name": "Night of the Knuckleheads",
-      "url": "https://open.spotify.com/track/6u0ygfd65uaWJfeAxUjVXr"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Overexposed",
         "url": "https://open.spotify.com/album/6p6S6vJY9V2Rd22BO9VZFn"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 199600,
       "name": "A New Way Home",
       "url": "https://open.spotify.com/track/4bIZ9j4SHomHdcTjh2rfhc"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Stay Rad!",
+        "url": "https://open.spotify.com/album/4sHMfa5WtLCj48iUYZGMCf"
+      },
+      "artists": [
+        {
+          "name": "Teenage Bottlerocket",
+          "url": "https://open.spotify.com/artist/0mGyXXKzoR5KAAh4Mkef2W"
+        }
+      ],
+      "duration_ms": 114219,
+      "name": "Night of the Knuckleheads",
+      "url": "https://open.spotify.com/track/6u0ygfd65uaWJfeAxUjVXr"
     },
     {
       "added_at": "2020-11-20 21:27:18",

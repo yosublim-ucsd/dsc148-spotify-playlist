@@ -2342,7 +2342,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 169545,
       "name": "Can't Get It Outta My Head - MK Remix",
       "url": "https://open.spotify.com/track/4J96CMQCXhY8v2hPL0iyA7"
@@ -12218,6 +12218,28 @@
       "duration_ms": 182264,
       "name": "Rebel (feat. SHELLS)",
       "url": "https://open.spotify.com/track/3k3iVDb0VefhzCdKwKdYvW"
+    },
+    {
+      "album": {
+        "name": "Reckless (2024)",
+        "url": "https://open.spotify.com/album/5xMk0r8Jr3J66evlcUTMEi"
+      },
+      "artists": [
+        {
+          "name": "Azari & III",
+          "url": "https://open.spotify.com/artist/2DC2KJDKwTf5RGfuWCzAkc"
+        },
+        {
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130490,
+      "name": "Reckless (2024)",
+      "url": "https://open.spotify.com/track/6R3CxqaSQqIQnnpPkm5sno"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [This Is BIA](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Q9uUx)
 
-> This is BIA\. En önemli parçalar, hepsi tek bir çalma listesinde.
+> This is BIA\. The essential tracks, all in one playlist.
 
 99 songs - 4 hr 36 min
 

@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Sosa\. 50% techno, 50% house
 
-1,639 songs - 3 day 20 hr 6 min
+1,640 songs - 3 day 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,7 @@
 | [Calling](https://open.spotify.com/track/66RXdotm5DaizBKalAq3iV) | [Ellis Moss](https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ) | [Calling](https://open.spotify.com/album/5dl10Bi93YCk2BvuFrCc5r) | 3:16 | 2023-11-24 | 2024-05-04 |
 | [Cameras, Flash, Action](https://open.spotify.com/track/1J7FfcSQAp3K2OJk8LaNEI) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG), [LUCATI](https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn) | [Cameras, Flash, Action](https://open.spotify.com/album/27OGxSKtIDnr0D9PC4R5Tu) | 2:26 | 2022-11-18 | 2023-01-21 |
 | [Can You Feel It](https://open.spotify.com/track/5FCzMiHrGRayOu12J65Syp) | [Jaded](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Can You Feel It](https://open.spotify.com/album/7h4QbMGJ5KIsxVVjJIu8k7) | 3:44 | 2022-04-29 | 2022-06-25 |
-| [Can You Feel It](https://open.spotify.com/track/2iBuBZcnnuDBV9qVcLCRh4) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Can You Feel It](https://open.spotify.com/album/3rwRwTFKLg6U4vvp0ISnVD) | 2:26 | 2023-11-17 |  |
+| [Can You Feel It](https://open.spotify.com/track/2iBuBZcnnuDBV9qVcLCRh4) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Can You Feel It](https://open.spotify.com/album/3rwRwTFKLg6U4vvp0ISnVD) | 2:26 | 2023-11-17 | 2024-06-20 |
 | [Can you speak English](https://open.spotify.com/track/7g7kHFl6XbJpBdF05L3uC8) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F) | [Can you speak English](https://open.spotify.com/album/2sWKejY9iYpeTida22fHl9) | 3:03 | 2021-12-10 | 2022-03-12 |
 | [Can't Control](https://open.spotify.com/track/5ZJE92mDnbh9jr7XgJs5lQ) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5) | [Can't Control](https://open.spotify.com/album/7nez9h7CDSZtWNVyAuC8Co) | 2:57 | 2023-03-17 | 2023-04-29 |
 | [Can't Miss](https://open.spotify.com/track/2FWAqHDVwtldyMwv2HnRnn) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j), [Kaysin](https://open.spotify.com/artist/10mZhaOPNKtQfg46DptrBU) | [Can't Miss](https://open.spotify.com/album/44zEa0I7Ns6Cl62Vhdx80y) | 3:31 | 2023-04-07 | 2023-06-17 |
@@ -483,6 +483,7 @@
 | [Feeling It](https://open.spotify.com/track/1f6hr0MvT9gBXiaO9HJQgB) | [Bexxie](https://open.spotify.com/artist/3lwq28uuT7bAqQ3shl4d9Q), [Rodrigo Serna](https://open.spotify.com/artist/5eCVBdu5kAqZ2OMZnBXR90), [Marie Noëlle](https://open.spotify.com/artist/6njaQRvxv2mcHRLgBmF7uH) | [Feeling It](https://open.spotify.com/album/2ty2a266GfDHZ1SHOj1PrK) | 3:38 | 2022-11-11 | 2023-01-28 |
 | [Ferrari](https://open.spotify.com/track/5xKJI9aPQhuTdTq8BrJ8fL) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/4WLkmuc0lGCBJLtj1yxJI0) | 3:05 | 2022-03-21 | 2022-06-18 |
 | [Festa](https://open.spotify.com/track/1uWzEwBhGc5vZZXPjaKPEZ) | [MOSKA](https://open.spotify.com/artist/1rVo9h17cHhWerDiZj0yXH) | [Festa](https://open.spotify.com/album/6Dc7MIX7fp9Jvwx48sq0Sp) | 2:41 | 2023-02-17 | 2023-04-22 |
+| [Fetish](https://open.spotify.com/track/5iuVm0iFFVThDwJ1CC4HHl) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [Fetish](https://open.spotify.com/album/7J4EH4bP7h8oqmDVvpBPAz) | 3:05 | 2024-06-07 |  |
 | [Fever](https://open.spotify.com/track/1Q5JVre2NZdKjuWJ8RrXCe) | [Local Singles](https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp) | [Fever](https://open.spotify.com/album/7miMgVqOpJ9rstMGBLDwvo) | 3:02 | 2024-05-10 | 2024-05-25 |
 | [Fight Dirty](https://open.spotify.com/track/4V7wva4jCBiSt4avFv05U1) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F) | [Culturally Appropriate](https://open.spotify.com/album/6K7kj9XKdeeDSwLuEKgU1c) | 3:00 | 2022-11-28 | 2022-12-10 |
 | [Fight Dirty](https://open.spotify.com/track/4VHWqX5JH8GEtQ4ZGyZStN) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F) | [Fight Dirty](https://open.spotify.com/album/1iws5DmCyPrr5BElY4CPHl) | 3:00 | 2021-11-26 | 2022-01-06 |

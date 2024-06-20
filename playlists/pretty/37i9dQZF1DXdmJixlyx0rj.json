@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: RIIZE)",
-  "num_followers": 25223,
+  "num_followers": 25234,
   "original_name": "Electronii'K",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,22 @@
     {
       "added_at": "2024-06-13 02:05:17",
       "album": {
+        "name": "Always with You",
+        "url": "https://open.spotify.com/album/5s0qYDgx6lXJnuqOkvtC6Q"
+      },
+      "artists": [
+        {
+          "name": "Aseul",
+          "url": "https://open.spotify.com/artist/7K1yj70w0ldP7bMDqiiHMo"
+        }
+      ],
+      "duration_ms": 239931,
+      "name": "Always with You",
+      "url": "https://open.spotify.com/track/5pQPHQFBjp9hyNK0srbLLP"
+    },
+    {
+      "added_at": "2024-06-13 02:05:17",
+      "album": {
         "name": "iScreaM Vol.31 : Smoothie Remix",
         "url": "https://open.spotify.com/album/1SXuAONZqhv9YDMvfxunRp"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 168937,
       "name": "Hold You",
       "url": "https://open.spotify.com/track/19DjnoLxpF2Nly502nDPGG"
-    },
-    {
-      "added_at": "2024-06-13 02:05:17",
-      "album": {
-        "name": "Always with You",
-        "url": "https://open.spotify.com/album/5s0qYDgx6lXJnuqOkvtC6Q"
-      },
-      "artists": [
-        {
-          "name": "Aseul",
-          "url": "https://open.spotify.com/artist/7K1yj70w0ldP7bMDqiiHMo"
-        }
-      ],
-      "duration_ms": 239931,
-      "name": "Always with You",
-      "url": "https://open.spotify.com/track/5pQPHQFBjp9hyNK0srbLLP"
     },
     {
       "added_at": "2024-06-13 02:05:17",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-06-13 02:05:17",
       "album": {
-        "name": "NEO",
-        "url": "https://open.spotify.com/album/0lKlR6X16nIC1oN2Auuk9g"
-      },
-      "artists": [
-        {
-          "name": "CHOIYUDAM",
-          "url": "https://open.spotify.com/artist/5ZxJkaRLQ6nN49PpNNxpbQ"
-        }
-      ],
-      "duration_ms": 131213,
-      "name": "Matrix",
-      "url": "https://open.spotify.com/track/0pq1uP0bcw4LjkHIVUGpQD"
-    },
-    {
-      "added_at": "2024-06-13 02:05:17",
-      "album": {
         "name": "iScreaM Vol.15 : INVU Remixes",
         "url": "https://open.spotify.com/album/3SgU4s35dXtFmIZP5AdqTw"
       },
@@ -1391,6 +1375,62 @@
       "duration_ms": 251026,
       "name": "INVU - Moon Kyoo Remix",
       "url": "https://open.spotify.com/track/0T6VXBiZWKQgxmVFZL8x37"
+    },
+    {
+      "added_at": "2024-06-13 02:05:17",
+      "album": {
+        "name": "NEO",
+        "url": "https://open.spotify.com/album/0lKlR6X16nIC1oN2Auuk9g"
+      },
+      "artists": [
+        {
+          "name": "CHOIYUDAM",
+          "url": "https://open.spotify.com/artist/5ZxJkaRLQ6nN49PpNNxpbQ"
+        }
+      ],
+      "duration_ms": 131213,
+      "name": "Matrix",
+      "url": "https://open.spotify.com/track/0pq1uP0bcw4LjkHIVUGpQD"
+    },
+    {
+      "added_at": "2024-06-13 02:05:17",
+      "album": {
+        "name": "iScreaM Vol.17 : DEEP Remixes",
+        "url": "https://open.spotify.com/album/52y8oOuU1sVpx7MmvaaIOk"
+      },
+      "artists": [
+        {
+          "name": "HYO",
+          "url": "https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl"
+        },
+        {
+          "name": "4B",
+          "url": "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
+        }
+      ],
+      "duration_ms": 154960,
+      "name": "DEEP - 4B Remix",
+      "url": "https://open.spotify.com/track/2PFR9yNzA9ExoGulaFY2IU"
+    },
+    {
+      "added_at": "2024-06-13 02:05:17",
+      "album": {
+        "name": "iScreaM Vol.8 : Bambi Remixes",
+        "url": "https://open.spotify.com/album/3jG3MaPuDcZawL3mKb0LOj"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        },
+        {
+          "name": "h4rdy",
+          "url": "https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z"
+        }
+      ],
+      "duration_ms": 240004,
+      "name": "Bambi - h4rdy Remix",
+      "url": "https://open.spotify.com/track/6ECpFEjryPvCdGPHVktmFY"
     },
     {
       "added_at": "2024-06-13 02:05:17",
@@ -1419,58 +1459,22 @@
     {
       "added_at": "2024-06-13 02:05:17",
       "album": {
-        "name": "iScreaM Vol.8 : Bambi Remixes",
-        "url": "https://open.spotify.com/album/3jG3MaPuDcZawL3mKb0LOj"
+        "name": "iScreaM Vol.22 : 28 Reasons / Los Angeles Remixes",
+        "url": "https://open.spotify.com/album/4M4lI5rDAV2xPZrQ0u13Pb"
       },
       "artists": [
         {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+          "name": "SEULGI",
+          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
         },
         {
-          "name": "h4rdy",
-          "url": "https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z"
+          "name": "LOOZBONE",
+          "url": "https://open.spotify.com/artist/41mgVbCJxhUtr9o9EpRchx"
         }
       ],
-      "duration_ms": 240004,
-      "name": "Bambi - h4rdy Remix",
-      "url": "https://open.spotify.com/track/6ECpFEjryPvCdGPHVktmFY"
-    },
-    {
-      "added_at": "2024-06-13 02:05:17",
-      "album": {
-        "name": "iScreaM Vol.17 : DEEP Remixes",
-        "url": "https://open.spotify.com/album/52y8oOuU1sVpx7MmvaaIOk"
-      },
-      "artists": [
-        {
-          "name": "HYO",
-          "url": "https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl"
-        },
-        {
-          "name": "4B",
-          "url": "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
-        }
-      ],
-      "duration_ms": 154960,
-      "name": "DEEP - 4B Remix",
-      "url": "https://open.spotify.com/track/2PFR9yNzA9ExoGulaFY2IU"
-    },
-    {
-      "added_at": "2024-06-13 02:05:17",
-      "album": {
-        "name": "The Songs for the NOT-YETs",
-        "url": "https://open.spotify.com/album/0bsjvYwdHUzneE7xRDHngX"
-      },
-      "artists": [
-        {
-          "name": "Y2K92",
-          "url": "https://open.spotify.com/artist/5wXWhMZL137p0cgWaZSry9"
-        }
-      ],
-      "duration_ms": 287424,
-      "name": "Bi-elijah",
-      "url": "https://open.spotify.com/track/7ew0KJ2Z6d2wpoYFTriF8C"
+      "duration_ms": 274761,
+      "name": "28 Reasons - LOOZBONE Remix",
+      "url": "https://open.spotify.com/track/0ZvnV7cwRGF9SSSzgiS8XS"
     },
     {
       "added_at": "2024-06-13 02:05:17",
@@ -1515,22 +1519,18 @@
     {
       "added_at": "2024-06-13 02:05:17",
       "album": {
-        "name": "iScreaM Vol.22 : 28 Reasons / Los Angeles Remixes",
-        "url": "https://open.spotify.com/album/4M4lI5rDAV2xPZrQ0u13Pb"
+        "name": "The Songs for the NOT-YETs",
+        "url": "https://open.spotify.com/album/0bsjvYwdHUzneE7xRDHngX"
       },
       "artists": [
         {
-          "name": "SEULGI",
-          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
-        },
-        {
-          "name": "LOOZBONE",
-          "url": "https://open.spotify.com/artist/41mgVbCJxhUtr9o9EpRchx"
+          "name": "Y2K92",
+          "url": "https://open.spotify.com/artist/5wXWhMZL137p0cgWaZSry9"
         }
       ],
-      "duration_ms": 274761,
-      "name": "28 Reasons - LOOZBONE Remix",
-      "url": "https://open.spotify.com/track/0ZvnV7cwRGF9SSSzgiS8XS"
+      "duration_ms": 287424,
+      "name": "Bi-elijah",
+      "url": "https://open.spotify.com/track/7ew0KJ2Z6d2wpoYFTriF8C"
     },
     {
       "added_at": "2024-06-13 02:05:17",
@@ -1571,6 +1571,38 @@
     {
       "added_at": "2024-06-13 02:05:17",
       "album": {
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/27NAxJQBKFRNNC3mpcunGv"
+      },
+      "artists": [
+        {
+          "name": "Division One (KR)",
+          "url": "https://open.spotify.com/artist/75J7BYbQY3qfVdQh1BMPbZ"
+        }
+      ],
+      "duration_ms": 161280,
+      "name": "Catch Me If You Can",
+      "url": "https://open.spotify.com/track/3pwUWPoXCyCk3s4TiAMxk3"
+    },
+    {
+      "added_at": "2024-06-13 02:05:17",
+      "album": {
+        "name": "Sarah",
+        "url": "https://open.spotify.com/album/6RX4hUA7LUBK5XxZqmwloY"
+      },
+      "artists": [
+        {
+          "name": "KIRARA",
+          "url": "https://open.spotify.com/artist/6Q4tDWdAQdRjV4pAuqiHQW"
+        }
+      ],
+      "duration_ms": 355852,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/1Rf9oOHLlFxnsFkRq8IywM"
+    },
+    {
+      "added_at": "2024-06-13 02:05:17",
+      "album": {
         "name": "Bring Me On",
         "url": "https://open.spotify.com/album/3HDGnj2sxPt7xkKpUGr4Jf"
       },
@@ -1595,22 +1627,6 @@
     {
       "added_at": "2024-06-13 02:05:17",
       "album": {
-        "name": "Sarah",
-        "url": "https://open.spotify.com/album/6RX4hUA7LUBK5XxZqmwloY"
-      },
-      "artists": [
-        {
-          "name": "KIRARA",
-          "url": "https://open.spotify.com/artist/6Q4tDWdAQdRjV4pAuqiHQW"
-        }
-      ],
-      "duration_ms": 355852,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/1Rf9oOHLlFxnsFkRq8IywM"
-    },
-    {
-      "added_at": "2024-06-13 02:05:17",
-      "album": {
         "name": "iScreaM Vol.6 : Make A Wish / 90's Love Remix",
         "url": "https://open.spotify.com/album/4ezneQvVRoSSNnQ6RbxwDd"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 161454,
       "name": "90's Love - SQUAR Remix",
       "url": "https://open.spotify.com/track/21uB15SdGJR4NYprvjInYw"
-    },
-    {
-      "added_at": "2024-06-13 02:05:17",
-      "album": {
-        "name": "Catch Me If You Can",
-        "url": "https://open.spotify.com/album/27NAxJQBKFRNNC3mpcunGv"
-      },
-      "artists": [
-        {
-          "name": "Division One (KR)",
-          "url": "https://open.spotify.com/artist/75J7BYbQY3qfVdQh1BMPbZ"
-        }
-      ],
-      "duration_ms": 161280,
-      "name": "Catch Me If You Can",
-      "url": "https://open.spotify.com/track/3pwUWPoXCyCk3s4TiAMxk3"
     },
     {
       "added_at": "2024-06-13 02:05:17",
@@ -1703,46 +1703,6 @@
     {
       "added_at": "2024-06-13 02:05:17",
       "album": {
-        "name": "iScreaM Vol.21 : 2 Baddies Remixes",
-        "url": "https://open.spotify.com/album/1SfJshh5aQCw1WZLcFNADx"
-      },
-      "artists": [
-        {
-          "name": "NCT 127",
-          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
-        },
-        {
-          "name": "Biicla",
-          "url": "https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ"
-        }
-      ],
-      "duration_ms": 166046,
-      "name": "2 Baddies - Biicla Remix",
-      "url": "https://open.spotify.com/track/7gjG59cMvwEGdGRSmDvTuq"
-    },
-    {
-      "added_at": "2024-06-13 02:05:17",
-      "album": {
-        "name": "iScreaM Vol.27 : Baggy Jeans Remixes",
-        "url": "https://open.spotify.com/album/6oncudboyLFXr07WQrl3pv"
-      },
-      "artists": [
-        {
-          "name": "NCT U",
-          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
-        },
-        {
-          "name": "Hukky Shibaseki",
-          "url": "https://open.spotify.com/artist/6QcVY6zyMPqZO23XcxNZng"
-        }
-      ],
-      "duration_ms": 144269,
-      "name": "Baggy Jeans - Hukky Shibaseki Remix",
-      "url": "https://open.spotify.com/track/4gSwJMo9aLjnz3eoXhHOM5"
-    },
-    {
-      "added_at": "2024-06-13 02:05:17",
-      "album": {
         "name": "iScreaM Vol.17 : DEEP Remixes",
         "url": "https://open.spotify.com/album/52y8oOuU1sVpx7MmvaaIOk"
       },
@@ -1759,6 +1719,26 @@
       "duration_ms": 225962,
       "name": "DEEP - h4rdy Remix",
       "url": "https://open.spotify.com/track/32ublq72W447prf0jOntiJ"
+    },
+    {
+      "added_at": "2024-06-13 02:05:17",
+      "album": {
+        "name": "iScreaM Vol.21 : 2 Baddies Remixes",
+        "url": "https://open.spotify.com/album/1SfJshh5aQCw1WZLcFNADx"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        },
+        {
+          "name": "Biicla",
+          "url": "https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ"
+        }
+      ],
+      "duration_ms": 166046,
+      "name": "2 Baddies - Biicla Remix",
+      "url": "https://open.spotify.com/track/7gjG59cMvwEGdGRSmDvTuq"
     },
     {
       "added_at": "2024-06-13 02:05:17",
@@ -1823,6 +1803,26 @@
     {
       "added_at": "2024-06-13 02:05:17",
       "album": {
+        "name": "iScreaM Vol.27 : Baggy Jeans Remixes",
+        "url": "https://open.spotify.com/album/6oncudboyLFXr07WQrl3pv"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        },
+        {
+          "name": "Hukky Shibaseki",
+          "url": "https://open.spotify.com/artist/6QcVY6zyMPqZO23XcxNZng"
+        }
+      ],
+      "duration_ms": 144269,
+      "name": "Baggy Jeans - Hukky Shibaseki Remix",
+      "url": "https://open.spotify.com/track/4gSwJMo9aLjnz3eoXhHOM5"
+    },
+    {
+      "added_at": "2024-06-13 02:05:17",
+      "album": {
         "name": "Power (Remixes)",
         "url": "https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51"
       },
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2024-06-13 02:05:17",
       "album": {
+        "name": "Sail the Seven Seas",
+        "url": "https://open.spotify.com/album/0LlllZbWCmGaxUBDiRHhUQ"
+      },
+      "artists": [
+        {
+          "name": "\ubc15\ud61c\uc9c4 Park Hye Jin",
+          "url": "https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1"
+        }
+      ],
+      "duration_ms": 162426,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/1F99L1XwdwI3pHUaiVrqbO"
+    },
+    {
+      "added_at": "2024-06-13 02:05:17",
+      "album": {
         "name": "THE RMXS: VOL. 1",
         "url": "https://open.spotify.com/album/1U9kCtpLIvR3ahateASXvW"
       },
@@ -1875,38 +1891,18 @@
     {
       "added_at": "2024-06-13 02:05:17",
       "album": {
-        "name": "iScreaM Vol.19 : FOREVER 1 Remixes",
-        "url": "https://open.spotify.com/album/4DXE5rt8VQUZHmKIG57AYu"
+        "name": "PSILOCYBIN",
+        "url": "https://open.spotify.com/album/1rUoceFLTQxAlMGuYpWCCI"
       },
       "artists": [
         {
-          "name": "Girls' Generation",
-          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
-        },
-        {
-          "name": "Aiobahn",
-          "url": "https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT"
+          "name": "HYPNOSIS THERAPY",
+          "url": "https://open.spotify.com/artist/6JwAbXBmKAP4lIett8KUiP"
         }
       ],
-      "duration_ms": 274838,
-      "name": "FOREVER 1 - Aiobahn Remix",
-      "url": "https://open.spotify.com/track/3zFK1dwL2qkrdkbPJkBHWm"
-    },
-    {
-      "added_at": "2024-06-13 02:05:17",
-      "album": {
-        "name": "Sail the Seven Seas",
-        "url": "https://open.spotify.com/album/0LlllZbWCmGaxUBDiRHhUQ"
-      },
-      "artists": [
-        {
-          "name": "\ubc15\ud61c\uc9c4 Park Hye Jin",
-          "url": "https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1"
-        }
-      ],
-      "duration_ms": 162426,
-      "name": "Amazing",
-      "url": "https://open.spotify.com/track/1F99L1XwdwI3pHUaiVrqbO"
+      "duration_ms": 127250,
+      "name": "@_@",
+      "url": "https://open.spotify.com/track/5fmIHR4PfKC7h4XIF1Kaqe"
     }
   ],
   "unique_name": "Electronii'K",

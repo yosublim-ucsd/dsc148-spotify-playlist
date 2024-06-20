@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Vegedream
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,186 likes - 107 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,192 likes - 107 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

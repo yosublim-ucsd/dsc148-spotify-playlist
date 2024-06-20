@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover:\b\uacb8(GYE0M)) \uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
+  "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover:\bJ_ust(\uadf8_\ub0e5)) \uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
   "name": "K-Folk/Acoustic",
   "tracks": [
     {
@@ -1678,7 +1678,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 275333,
       "name": "dog-ear serenade",
       "url": "https://open.spotify.com/track/67Ik5JjDPh8woWj712RxEk"
@@ -2072,6 +2072,24 @@
       "duration_ms": 159317,
       "name": "farewell",
       "url": "https://open.spotify.com/track/5hA75OHYKyPHy4kgeweYdN"
+    },
+    {
+      "album": {
+        "name": "dopamine",
+        "url": "https://open.spotify.com/album/7FOdOoz6j0vcY8UlIbft76"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229600,
+      "name": "figure8",
+      "url": "https://open.spotify.com/track/0NX3sVBBiOqL0nprLHTeT0"
     },
     {
       "album": {
@@ -4748,7 +4766,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 186642,
       "name": "My Day",
       "url": "https://open.spotify.com/track/6tRGDcL8puwtHHPhac0uoq"
@@ -7712,6 +7730,24 @@
       "duration_ms": 205733,
       "name": "To you, dear",
       "url": "https://open.spotify.com/track/4T64VKmcDdr6a6idK97103"
+    },
+    {
+      "album": {
+        "name": "To. the Moon",
+        "url": "https://open.spotify.com/album/2BURnvXS4WlAgj7IsTuc7D"
+      },
+      "artists": [
+        {
+          "name": "J_ust",
+          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188040,
+      "name": "To. the Moon",
+      "url": "https://open.spotify.com/track/25br9uGcaMMLu6YTl2xF00"
     },
     {
       "album": {

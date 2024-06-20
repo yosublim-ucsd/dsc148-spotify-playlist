@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1990s\. Cover: Aqua.
 
-360 songs - 1 day 0 hr 33 min
+361 songs - 1 day 0 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [\(Mucho Mambo\) Sway \- Radio Edit](https://open.spotify.com/track/6Y3XLelLdxt3YdvQbdIG8t) | [Shaft](https://open.spotify.com/artist/3XToFwD4zzZA8fhjlkt5Qi) | [100 Store 90'er Hits](https://open.spotify.com/album/7JSrqAeYDMscGw3hHQUnPB) | 3:27 | 2021-03-22 | 2022-07-29 |
 | [\(You Drive Me\) Crazy](https://open.spotify.com/track/1DSJNBNhGZCigg9ll5VeZv) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:18 | 2021-03-22 |  |
 | [...Baby One More Time](https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:31 | 2021-03-22 |  |
+| [100% Pure Love](https://open.spotify.com/track/0dfQwyoZoS9LgQiU6AJO7f) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [The Best Of Crystal Waters](https://open.spotify.com/album/3u9FnafwttOYXAz9fznSAg) | 4:38 | 2024-06-11 |  |
 | [2 Times \- Original](https://open.spotify.com/track/4IiKITgHYaHrF1zUlcTyVH) | [Ann Lee](https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC) | [2 Times \(Full Package\)](https://open.spotify.com/album/0pAY6od68ZZOgxNWwSOHlv) | 3:50 | 2021-03-22 |  |
 | [3AM Eternal \- Live at the S.S.L.](https://open.spotify.com/track/0ldLTYuqnHU92weLtw6W9m) | [The KLF](https://open.spotify.com/artist/6dYrdRlNZSKaVxYg5IrvCH) | [Solid State Logik 1](https://open.spotify.com/album/1kJY7mRPwF5eJOf8DMZdwa) | 3:52 | 2021-03-22 | 2022-07-27 |
 | [5, 6, 7, 8](https://open.spotify.com/track/3oWZwdnnwsCwMukQbPsEiy) | [Steps](https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7) | [Step One](https://open.spotify.com/album/0LLP9HeDd489SxAGAaRYIq) | 3:22 | 2021-09-08 |  |
@@ -309,7 +310,7 @@
 | [The Sign](https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [The Sign](https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB) | 3:11 | 2021-03-22 |  |
 | [The Summer Is Magic \- Radio Mix](https://open.spotify.com/track/3riZWJaCsJLpTH9s2gGtGc) | [Playahitty](https://open.spotify.com/artist/6zZWFyAqVLEWelkVuQRUCz) | [The Summer Is Magic \- Ep](https://open.spotify.com/album/04yDcYbEtjOyYbM1TNfaab) | 3:56 | 2024-03-15 | 2024-05-27 |
 | [There's Nothing I Won't Do \- Original Edit](https://open.spotify.com/track/22RGeL5eCVCCXeTDZLzYdC) | [JX](https://open.spotify.com/artist/0kjCW6i4ba1M9ou8OhgbV0) | [There's Nothing I Won't Do](https://open.spotify.com/album/25IUsjkpbOF5JeUkgYmR8w) | 4:30 | 2021-09-08 | 2022-07-28 |
-| [Things Can Only Get Better](https://open.spotify.com/track/5HmwYfynpGAjgrj4bp9eMy) | [D:Ream](https://open.spotify.com/artist/2dCQKsTjB762AhtIACbAQA) | [On Vol.1](https://open.spotify.com/album/1xo1nQrV2vHnZB3CSkcaIj) | 4:18 | 2021-09-08 |  |
+| [Things Can Only Get Better](https://open.spotify.com/track/5HmwYfynpGAjgrj4bp9eMy) | [D:Ream](https://open.spotify.com/artist/2dCQKsTjB762AhtIACbAQA) | [On Vol.1](https://open.spotify.com/album/1xo1nQrV2vHnZB3CSkcaIj) | 4:18 | 2021-09-08 | 2024-06-20 |
 | [Think About the Way](https://open.spotify.com/track/2foOeJLKSvepjHEkb4NR8N) | [Ice Mc](https://open.spotify.com/artist/5wlyJXaam6QmyDn8qBLZx8) | [Ice 'n' Green](https://open.spotify.com/album/3fSQDORWIQuhjPWZOptkML) | 4:20 | 2021-03-22 |  |
 | [Think of You \- Radio Edit](https://open.spotify.com/track/4cjHy6TwppuNZ05yrP8Fic) | [Whigfield](https://open.spotify.com/artist/0lHoDF96DNKSIcIpcOfMnq) | [Think of You \- Single](https://open.spotify.com/album/13pJUleJn57jkWQFZ3b6lj) | 4:03 | 2021-09-08 | 2022-07-29 |
 | [Thinking About Your Love](https://open.spotify.com/track/1UFU3B9vwxqVitwSnS5wg0) | [Kenny Thomas](https://open.spotify.com/artist/5fYju5a87cW9osqsxH0JwB) | [Voices](https://open.spotify.com/album/67FR5JTVfxzq0PVTbW7Yrz) | 4:52 | 2021-09-08 | 2022-07-21 |

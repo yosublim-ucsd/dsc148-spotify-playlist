@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-700 songs - 1 day 21 hr 58 min
+701 songs - 1 day 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [Intro](https://open.spotify.com/track/2zavoMfVVPJMikH57fd8yK) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 1:07 | 2023-12-18 |  |
 | [Intro](https://open.spotify.com/track/7LkwNlnMYYGOCqW1igUgqR) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 1:09 | 2023-11-17 |  |
 | [intro](https://open.spotify.com/track/1AGDAMGqgphzVwaK606wvx) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [Remember Your North Star](https://open.spotify.com/album/7BhMDGBQ6xtZl1LwOwueYO) | 1:16 | 2022-06-28 |  |
+| [Intro \(It's Album Time\)](https://open.spotify.com/track/2oa3MecguzBGHp2lF72pOh) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [It's Album Time](https://open.spotify.com/album/058No4Kiz8r284NwzBSBC2) | 1:40 | 2024-06-19 |  |
 | [Introduction](https://open.spotify.com/track/25BcBVAoG8bZ2m63bYiAAZ) | [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Shades Of Blue: Madlib Invades Blue Note](https://open.spotify.com/album/6jRvDpOc9oi3sjQuoPK7if) | 0:32 | 2024-02-11 |  |
 | [Isometric \(Intro\)](https://open.spotify.com/track/4RWeizdES94TbsDWSrQdLU) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Adventure \(Deluxe\)](https://open.spotify.com/album/3uKLwDjku2Us0c81LEmftR) | 1:20 | 2022-08-20 |  |
 | [It Ain't Easy, It Ain't Easy \(feat\. Nyck Caution, Kirk Knight, CJ Fly & AKTHESAVIOR\)](https://open.spotify.com/track/4krhkcFf3OqxHSS1QUIsmc) | [Beast Coast](https://open.spotify.com/artist/1Nd1g8fezKoJ6DGauWbZIm), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Flatbush Zombies](https://open.spotify.com/artist/1dqGS5sT6PE2wEvP1gROZC), [Nyck Caution](https://open.spotify.com/artist/1ZyUXvaBXUsIZ3JD6jYGkt), [Kirk Knight](https://open.spotify.com/artist/1nSpOxq3pcgomrfpXudQuq), [CJ Fly](https://open.spotify.com/artist/41yEdWozNYEzA2RfgYQHgr), [AKTHESAVIOR](https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw) | [Escape From New York](https://open.spotify.com/album/1NPxBmG3k3UzybcaxxSVuB) | 3:40 | 2022-10-18 |  |

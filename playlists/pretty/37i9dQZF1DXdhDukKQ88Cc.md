@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > den største danske rap lige nu: <a href="spotify:artist:4ZwOlDVAGXQo66ykbLQ8dP">Lamin</a> 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,192 likes - 64 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,213 likes - 64 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -825,6 +825,28 @@
     },
     {
       "album": {
+        "name": "BANDIDO FUNK",
+        "url": "https://open.spotify.com/album/3ho4KiO44oOR46s9SNwy2n"
+      },
+      "artists": [
+        {
+          "name": "Emin Nilsen",
+          "url": "https://open.spotify.com/artist/59TVoD6bvD2JFs9xLZH9bX"
+        },
+        {
+          "name": "Kamran747",
+          "url": "https://open.spotify.com/artist/2EecinNxCiwoxm8SaGdB4R"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125538,
+      "name": "BANDIDO FUNK",
+      "url": "https://open.spotify.com/track/5Q80DQEiCvzePZTgCb1MlS"
+    },
+    {
+      "album": {
         "name": "BANE",
         "url": "https://open.spotify.com/album/1dICirHlSGKgaaWyYvug3l"
       },
@@ -4310,7 +4332,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 152000,
       "name": "GO \u208a\u02da\u2729\u22c6\uff61\u00b0",
       "url": "https://open.spotify.com/track/0uCUNzlOduR947Nzr6KotY"
@@ -5534,7 +5556,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 189375,
       "name": "Karma",
       "url": "https://open.spotify.com/track/1LRFdWqintP46UIkC33YhL"
@@ -6932,7 +6954,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 268474,
       "name": "No Way",
       "url": "https://open.spotify.com/track/33Mk3ZTSKNn47PLGpczhVH"

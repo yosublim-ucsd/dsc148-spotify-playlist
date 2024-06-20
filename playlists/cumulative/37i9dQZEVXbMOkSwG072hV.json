@@ -16309,6 +16309,28 @@
     },
     {
       "album": {
+        "name": "Eu So Comi Ela uma Vez",
+        "url": "https://open.spotify.com/album/3Wt4fIdsPcbuOHpQvASMkQ"
+      },
+      "artists": [
+        {
+          "name": "Dj VN Maestro",
+          "url": "https://open.spotify.com/artist/31r6lIoq94Bww3TKIPQ01L"
+        },
+        {
+          "name": "MC G DS",
+          "url": "https://open.spotify.com/artist/1xIma0CABaifVU5xJAqAAs"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107102,
+      "name": "Eu So Comi Ela uma Vez",
+      "url": "https://open.spotify.com/track/7eoRm37Ta1jvGMiMRfOQoa"
+    },
+    {
+      "album": {
         "name": "Eu Sou Muito Humilde: Disputa Pra Bbotar Na Pipokinha",
         "url": "https://open.spotify.com/album/5ffjC0eUq0RrZvnMSGmspZ"
       },
@@ -21126,7 +21148,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 227239,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z"
@@ -27386,7 +27408,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-19",
+      "date_removed": null,
       "duration_ms": 199373,
       "name": "Medley Put4ria Avan\u00e7ada",
       "url": "https://open.spotify.com/track/47jm3FEv1cfE97ILQsqfPq"
@@ -43396,7 +43418,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 155999,
       "name": "Solteiro Eu Vim",
       "url": "https://open.spotify.com/track/6y5M6WzSUJnSSoVUrRaLEb"

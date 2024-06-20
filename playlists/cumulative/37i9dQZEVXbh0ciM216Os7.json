@@ -10586,7 +10586,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 257776,
       "name": "Give Way",
       "url": "https://open.spotify.com/track/7kOqSnQtp202EuOZF3wKlB"
@@ -12378,7 +12378,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 177697,
       "name": "Huntin Season",
       "url": "https://open.spotify.com/track/6cxD3MQwqVsQBWW2XTuVaV"
@@ -22701,6 +22701,28 @@
     },
     {
       "album": {
+        "name": "Mobb Nation - EP",
+        "url": "https://open.spotify.com/album/5U2XwZFXSGhg9TP6ber5Kg"
+      },
+      "artists": [
+        {
+          "name": "Mytee G Poetic",
+          "url": "https://open.spotify.com/artist/6rbTQu3PFBhLNUJcDCcjtQ"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184503,
+      "name": "Rock Star",
+      "url": "https://open.spotify.com/track/2agVFAujFrHG601hs9riw5"
+    },
+    {
+      "album": {
         "name": "Rock Stars",
         "url": "https://open.spotify.com/album/30wqi2wghld9Iwrb7dLFhr"
       },
@@ -26718,7 +26740,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 135610,
       "name": "Thankful For",
       "url": "https://open.spotify.com/track/60hZdbkZNfyt8HFpYvFpXU"

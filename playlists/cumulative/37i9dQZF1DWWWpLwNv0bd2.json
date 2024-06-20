@@ -1991,6 +1991,36 @@
     },
     {
       "album": {
+        "name": "Lucky Baskhar (Tamil)",
+        "url": "https://open.spotify.com/album/0wpc5r6BPX98lHtBPGTxMA"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Anand Aravindakshan",
+          "url": "https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        },
+        {
+          "name": "Vignesh Ramakrishna",
+          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222206,
+      "name": "Kolladhey",
+      "url": "https://open.spotify.com/track/3pJ4xvGuBWN7a7qCeffiyu"
+    },
+    {
+      "album": {
         "name": "Kolluraale (From \"Maanavan\")",
         "url": "https://open.spotify.com/album/1Cnw9FxsUZgZtfjliZ9GBi"
       },

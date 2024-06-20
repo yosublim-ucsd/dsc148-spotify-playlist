@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 
 > La casa de lxs MC's\. Foto: C\-Funk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,848 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,847 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 | 5 | [Boombarrio](https://open.spotify.com/track/0san1KUetFkSctwivThY7z) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Macrodee](https://open.spotify.com/artist/1LFSjjDBhaukmZa69zJvgM) | [Boombarrio](https://open.spotify.com/album/5bmFCK52DIm32GPjOzzT8V) | 3:26 |
 | 6 | [All Ki Misters](https://open.spotify.com/track/7zeOsFxFxm3HezYd5gzDbi) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [RepliK](https://open.spotify.com/artist/6V6omUMPOxHJF0BQ0Dy3Ch) | [All Ki Misters](https://open.spotify.com/album/6047mBYZ5kziuClGxL3gDO) | 3:35 |
 | 7 | [No Te Miento](https://open.spotify.com/track/3jNIFdbUeIxo1JKb1VjUHg) | [Aerstame](https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg), [Silvito El Libre](https://open.spotify.com/artist/0UIH8WpxS8c1ZSJysYHe0K), [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA) | [Origen](https://open.spotify.com/album/0KvclUCGaR9NVzW80700mt) | 4:43 |
-| 8 | [Remakia](https://open.spotify.com/track/27uIJiTu7mxvbnpwyGHUUR) | [Mamborap](https://open.spotify.com/artist/1R4SZjsnu91VWf5BhkKdH0), [Quincy O Mac](https://open.spotify.com/artist/5wZKAP3dgCHTbfloUGsJHZ) | [Remakia](https://open.spotify.com/album/4MI0nOimReCzR7Zszqy5lH) | 2:54 |
+| 8 | [Remakia](https://open.spotify.com/track/27uIJiTu7mxvbnpwyGHUUR) | [Mamborap](https://open.spotify.com/artist/1R4SZjsnu91VWf5BhkKdH0), [Quincy O Mac](https://open.spotify.com/artist/5wZKAP3dgCHTbfloUGsJHZ), [Chalice Beatz](https://open.spotify.com/artist/43a4KEvatg5uAaiA71IwTa) | [Remakia](https://open.spotify.com/album/4MI0nOimReCzR7Zszqy5lH) | 2:54 |
 | 9 | [Verte Cerquita](https://open.spotify.com/track/6eTCWWKBtnJI9Ui9OlLEyO) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Verte Cerquita](https://open.spotify.com/album/77Q12SIPTgFOPBZ2qRR1Kv) | 3:52 |
 | 10 | [Felicidad](https://open.spotify.com/track/2FaphIbul1kUk9OwyIwaLy) | [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA), [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5) | [Felicidad](https://open.spotify.com/album/1m1P7pLonemnIDnX9giX54) | 3:12 |
 | 11 | [Uzumaki](https://open.spotify.com/track/5eO9DgpkoSm2k9eOkI14Xg) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Gudspella](https://open.spotify.com/artist/2xjF5imhTEr6WDS0EAqMtw) | [Uzumaki](https://open.spotify.com/album/7nJWw7EXntcF4EjsWsFMJJ) | 4:55 |

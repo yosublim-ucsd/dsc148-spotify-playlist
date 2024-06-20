@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Mötley Crüe
 
-889 songs - 2 day 17 hr 25 min
+890 songs - 2 day 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@
 | [Diabolic](https://open.spotify.com/track/3QmT40QBlxr4n5AxhOSxkf) | [Demons & Wizards](https://open.spotify.com/artist/4O6RDLeFX5xuQ7IePFzVcl) | [Diabolic](https://open.spotify.com/album/0n3kyg04BzlX1kvoIh0Y2n) | 8:01 | 2021-12-17 | 2022-07-29 |
 | [Diabolical](https://open.spotify.com/track/1NMJOg7jOnXkXlKUKSETtZ) | [Destruction](https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2) | [Diabolical](https://open.spotify.com/album/13bxe7kV1ThWrgULOtBOAx) | 4:09 | 2022-01-28 | 2022-07-23 |
 | [Diabolical](https://open.spotify.com/track/5Ec52T5PSqN26Qa8KBKeCF) | [Destruction](https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2) | [Diabolical](https://open.spotify.com/album/3j0IOD3AxvlfTk7esLYxeA) | 4:09 | 2022-04-15 | 2022-04-21 |
-| [Diamond Claws](https://open.spotify.com/track/1Zd6cxz9jtBEMPjbKHHOIJ) | [Rhapsody Of Fire](https://open.spotify.com/artist/3IjLXN4eSksdGj8uDE4Jm1) | [Diamond Claws](https://open.spotify.com/album/6ABYt8Esd1En0LnDm9iKBx) | 4:36 | 2024-05-03 |  |
+| [Diamond Claws](https://open.spotify.com/track/1Zd6cxz9jtBEMPjbKHHOIJ) | [Rhapsody Of Fire](https://open.spotify.com/artist/3IjLXN4eSksdGj8uDE4Jm1) | [Diamond Claws](https://open.spotify.com/album/6ABYt8Esd1En0LnDm9iKBx) | 4:36 | 2024-05-03 | 2024-06-20 |
 | [Diamonds & Pearls](https://open.spotify.com/track/7mWtTWEiqYOkKR5UDQroqR) | [Running Wild](https://open.spotify.com/artist/7954VFaZClkL503srfV5PE) | [Diamonds & Pearls](https://open.spotify.com/album/2V1IqJtRDCmuHc7EmOtUMk) | 4:45 | 2021-12-17 | 2022-07-28 |
 | [Dicke Titten](https://open.spotify.com/track/5KTBaWu8IOczQ0sPWzZ7MY) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:38 | 2022-10-07 |  |
 | [Die By The Blade](https://open.spotify.com/track/53h1ZSLWi8hVWF9DWKNXVh) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [From Hell With Love](https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr) | 3:14 | 2022-07-08 | 2024-04-19 |
@@ -238,6 +238,7 @@
 | [Dying to Live](https://open.spotify.com/track/6IjwZM7myeMpb8CcZUGEv5) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Blood & Stone](https://open.spotify.com/album/12PgC7GyO8zgKeFh5PqLbH) | 3:09 | 2023-12-06 | 2024-03-09 |
 | [Eidolon](https://open.spotify.com/track/0bCVKJmPEOP28h41Qrp77w) | [Once Human](https://open.spotify.com/artist/1VhMNOBmLqZr7E7jsVrZLQ) | [Scar Weaver](https://open.spotify.com/album/2drAFA1ZzlXkTZBg4llIb1) | 3:53 | 2022-02-11 | 2022-04-19 |
 | [Elevate](https://open.spotify.com/track/5xSUwN5ZFBuoLWV4UnWVta) | [Born Of Osiris](https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt) | [Elevate](https://open.spotify.com/album/3Nmi023OjclW3imkrnGXuG) | 3:13 | 2024-05-03 |  |
+| [Embers Fire](https://open.spotify.com/track/27ZuGlwpjafRzKOquXVNP8) | [Paradise Lost](https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp) | [Icon](https://open.spotify.com/album/3MYbbnq4ITUSbhKCwxwcZa) | 4:44 | 2024-05-31 |  |
 | [Embers Fire](https://open.spotify.com/track/2FCPbojm4fFPWRZ9WWQ89x) | [Paradise Lost](https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp) | [Embers Fire](https://open.spotify.com/album/6mOZFO7g6QBtBr5R8fzZZD) | 4:51 | 2023-12-06 | 2023-12-11 |
 | [Embrace The Night](https://open.spotify.com/track/4URwHwvDeDZobzIQvfV3Bb) | [Frozen Crown](https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E) | [Winterbane \(Japan Edition\)](https://open.spotify.com/album/7959qrdIZlcH6ETwW0N5u3) | 5:04 | 2021-12-17 | 2022-07-15 |
 | [End of the Attention Span](https://open.spotify.com/track/0LtZ0J7wBewtpjA6w98MlC) | [Armored Saint](https://open.spotify.com/artist/4ug41UGuMZzlV2hJOrOqHN) | [End of the Attention Span](https://open.spotify.com/album/5UBB2I0DXxlxGWEgNkx2tH) | 5:13 | 2021-12-17 | 2022-07-29 |

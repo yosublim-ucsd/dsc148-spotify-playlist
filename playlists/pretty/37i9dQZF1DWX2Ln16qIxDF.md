@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 
 > Lo más pegado, lo más trendy, o sea Paulo Londra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,077,708 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,077,985 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 | 96 | [Claro Que Lo Hice \- En vivo](https://open.spotify.com/track/0l3KYSBuArosib58MemWQF) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc), [La banda de Carlitos](https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo) | [Claro Que Lo Hice \(En vivo\)](https://open.spotify.com/album/6ZnNCbnDFX72KUG89gZl9G) | 3:26 |
 | 97 | [En Un Loop](https://open.spotify.com/track/2sYskpiXS8DD4tEsxoycpS) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [INTERMITENTE](https://open.spotify.com/album/30KCpzi4d2tMxyF5zsRU8j) | 2:49 |
 | 98 | [atelier](https://open.spotify.com/track/5miqx1IxNV0nGtOessyrqd) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [Atelier](https://open.spotify.com/album/6YrB9KLklcKtisYIX5LLJc) | 2:42 |
-| 99 | [Esta Noche](https://open.spotify.com/track/3naQKuR07Ktb2NqW1s9T1Y) | [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [Valentina](https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR) | [Esta Noche](https://open.spotify.com/album/0gvlSJezcGQrbR2bmRiqsr) | 3:16 |
+| 99 | [Esta Noche](https://open.spotify.com/track/3naQKuR07Ktb2NqW1s9T1Y) | [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU) | [Esta Noche](https://open.spotify.com/album/0gvlSJezcGQrbR2bmRiqsr) | 3:16 |
 | 100 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 |
 
 Snapshot ID: `ZmuyMAAAAABWNtclo0GU/h4uiw8UX0sO`

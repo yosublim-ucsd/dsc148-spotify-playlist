@@ -2,7 +2,7 @@
 
 ### [This Is KISS](https://open.spotify.com/playlist/37i9dQZF1DZ06evO00jzcA)
 
-> This Is KISS\. Todas as faixas essenciais numa única playlist.
+> This is KISS\. The essential tracks, all in one playlist.
 
 92 songs - 6 hr 4 min
 

@@ -2,7 +2,7 @@
 
 ### [This Is Barry White](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ZPPgY)
 
-> This is Barry White\. The essential tracks, all in one playlist.
+> This is Barry White\. Tutti i brani in un'unica playlist.
 
 92 songs - 7 hr 34 min
 

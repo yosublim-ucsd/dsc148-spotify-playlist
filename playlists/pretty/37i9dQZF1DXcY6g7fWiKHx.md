@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 
 > <a href="spotify:artist:3QFiymmbJlVBPpnrOatEAkq">Myd</a>'s favourite tracks\. Updated regularly\. Curated by Myd\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,734 likes - 228 songs - 18 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,751 likes - 245 songs - 20 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -236,5 +236,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 | 226 | [She Taught Me How to Love](https://open.spotify.com/track/47P9IfPz7FtvrXZD3C4OUf) | [Rimbaudian](https://open.spotify.com/artist/2mBp5EJQEiv7xNhyriCl8r) | [Letters](https://open.spotify.com/album/5qlYH2pvRTzIVB7GxUoiXu) | 5:29 |
 | 227 | [000 Baby](https://open.spotify.com/track/5euJ2q8Kk1p4nDux0JaBsD) | [Mr\. Ho](https://open.spotify.com/artist/44LzZsFXgy7Ft4EsT3WlI8) | [Homeboys](https://open.spotify.com/album/0j4SjQNKeymCwADe5Ju83C) | 6:36 |
 | 228 | [Together We Stand \- Chambord Remix](https://open.spotify.com/track/6HmUobqcMJAYAZUIiUdtNF) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Chambord](https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ) | [Together We Stand \(Chambord Remix\)](https://open.spotify.com/album/1XUl9gl3vigwmepOxjTBml) | 6:59 |
+| 229 | [How I Feel](https://open.spotify.com/track/20ZM010DgP7NYaLWIbaEMF) | [1\-800 GIRLS](https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ) | [How I Feel](https://open.spotify.com/album/42f5IWubZit8UWi9dMUA9H) | 5:23 |
+| 230 | [Release Yourself \- Main Mix](https://open.spotify.com/track/37JE5hbGpi7PdujurGMmmi) | [LIV \(UK\)](https://open.spotify.com/artist/0YodumCNntYr1GjASATJ0T) | [Release Yourself](https://open.spotify.com/album/4H42duAuYeQel6LY8685FT) | 3:29 |
+| 231 | [20 Min](https://open.spotify.com/track/3fE3Qbmdnl85xiLbS9kld8) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [The Phantasy Collection \(Part 1\)](https://open.spotify.com/album/3BFZKdq5eEMb0jYPv51E1W) | 6:03 |
+| 232 | [la paz](https://open.spotify.com/track/4Ct3frPb749bdIoR08kyNI) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [la paz](https://open.spotify.com/album/30CwTwAl9qkdaeFz1pFjEj) | 3:39 |
+| 233 | [Jerk In The Sand Sleep In That Sand](https://open.spotify.com/track/2tAlRqcsXofYI0hj2kMFqg) | [Vulvareen](https://open.spotify.com/artist/6yTKv5bsyr3Gq1F0HwCus7), [Former City Records](https://open.spotify.com/artist/0HOe9Qrbs4Tb4A6hj5ISzj) | [Ghettoboom Vol\. 1](https://open.spotify.com/album/0Vd22Fw9dPM1kEqhv8nP8s) | 4:17 |
+| 234 | [Like](https://open.spotify.com/track/7uqTA3JBLsBVOX7UhABQX7) | [New Jackson](https://open.spotify.com/artist/6zShblBoSrGrKtcv3OGOif) | [Oops!..\. Pop](https://open.spotify.com/album/3Q5yXju5NUOvK2fXpOJ4Uy) | 3:56 |
+| 235 | [Bad Computa](https://open.spotify.com/track/53EvpIsKdQSnkhULqN7F38) | [Cube 40](https://open.spotify.com/artist/6wvkVaD7PHrYJYLdFgAzm8) | [Bad Computa](https://open.spotify.com/album/2PpWkDJ5DsaHmmmXf4w8Vh) | 6:52 |
+| 236 | [Hand On Me](https://open.spotify.com/track/2uffOhl7IE6vbk8NtvpD9c) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Hand On Me](https://open.spotify.com/album/1ju50ud1Izkhb3sKfjVINg) | 3:35 |
+| 237 | [Brandy \- Remix Version](https://open.spotify.com/track/0WOWNVUImTxNrR6NDd4v1n) | [Maryyx2](https://open.spotify.com/artist/3uNBtum6QfAxeO3ThnBUIn) | [Silent Noise \(The Album\)](https://open.spotify.com/album/77p1z2mbWDK3HM03LDyBwg) | 2:02 |
+| 238 | [If You Want My Loving](https://open.spotify.com/track/4EdOpcLtbY6J7AK4rLhqSG) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [If You Want My Loving](https://open.spotify.com/album/1GEdPQx7k39X1OTlqNBae3) | 4:10 |
+| 239 | [World\_train](https://open.spotify.com/track/6x3xYEa3GbZSSdiuFD29P8) | [Bullion](https://open.spotify.com/artist/6vcPgFOkMWBoY6Ks6eMEWj), [Charlotte Adigéry](https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy) | [Affection](https://open.spotify.com/album/41fPjriqD2ycjCAE8TfmuT) | 5:03 |
+| 240 | [Third Rail](https://open.spotify.com/track/4TfOJiFidg1KDp71YQmrO9) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [Infra](https://open.spotify.com/album/6mMnklt0kbbw83pmAXvvdZ) | 6:19 |
+| 241 | [Funky And You Know It \- Myd Remix](https://open.spotify.com/track/438wzpID8rPiuTcBDtpfFE) | [Shakedown](https://open.spotify.com/artist/0vSfjPjAbekoehCpmy1RV1), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Funky And You Know It \(Myd Remix\)](https://open.spotify.com/album/2vtx99PYX49EtS6WPu9kxX) | 3:03 |
+| 242 | [Untitled 38490](https://open.spotify.com/track/67afUY0XrnTCIbTdoYxSdF) | [Binary Digit](https://open.spotify.com/artist/3de6mAIrsacJj1uU0zfTSs) | [EP 2](https://open.spotify.com/album/3qcccJ6QjGtOyGsavIE1M4) | 4:15 |
+| 243 | [Badala Zamana \(Habibi Funk 015\)](https://open.spotify.com/track/0x267yS2OeozYaFzCyqnx6) | [Zohra](https://open.spotify.com/artist/3l2fkH1yrsHsfYYU2ZnwtI) | [Badala Zamana \(Habibi Funk 015\)](https://open.spotify.com/album/04Ok581SPH7eTevAKZUeQB) | 3:10 |
+| 244 | [Don't Be Afraid](https://open.spotify.com/track/1GMcDXY4Z5efyrnG9xswae) | [East Coast Love Affair](https://open.spotify.com/artist/0FKqQAbZijrpGaRw6PqDDI) | [Don't Be Afraid](https://open.spotify.com/album/4plYYFtWKeIWuaeVIiTyPy) | 4:34 |
+| 245 | [Higher](https://open.spotify.com/track/6j7J0nOvFYkNlfQh2NHhkU) | [Antoine Bourachot](https://open.spotify.com/artist/24bH0ZMlrOkri5XncEL7Oy) | [Higher](https://open.spotify.com/album/3r5rShq4UIYsXo7PSzAo5j) | 6:03 |
 
-Snapshot ID: `Za+P5wAAAAAwbTtybvBteu0eHnAbkY0x`
+Snapshot ID: `ZnLsRgAAAAAKGxfI/mbtfbV/3HRBEKgP`

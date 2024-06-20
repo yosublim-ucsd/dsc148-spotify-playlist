@@ -3141,6 +3141,28 @@
     },
     {
       "album": {
+        "name": "D\u00e9sol\u00e9 mouvement geste",
+        "url": "https://open.spotify.com/album/0sD47gP8BDddXIU4snaup7"
+      },
+      "artists": [
+        {
+          "name": "Navet Confit",
+          "url": "https://open.spotify.com/artist/6aZpCVbPUYikMx9HJV897D"
+        },
+        {
+          "name": "Douance",
+          "url": "https://open.spotify.com/artist/1YLRMf5LBTYn5mAKmKkHUq"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250813,
+      "name": "Il a plu il a neig\u00e9",
+      "url": "https://open.spotify.com/track/5tKtMAzHT1wm9FFK5XSME0"
+    },
+    {
+      "album": {
         "name": "Equilibre",
         "url": "https://open.spotify.com/album/05i1g2VNkI7hBdIADta182"
       },
@@ -5526,7 +5548,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 233800,
       "name": "Motel G\u00e9d\u00e9on",
       "url": "https://open.spotify.com/track/1qPWodvcElyxIltRTLjLiz"

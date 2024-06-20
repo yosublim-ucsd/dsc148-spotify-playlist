@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 57750,
+  "num_followers": 57765,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -297,7 +297,7 @@
         },
         {
           "name": "BRUN\u00ca",
-          "url": "https://open.spotify.com/artist/1Xb6QnMiLu7H0IZgMY996F"
+          "url": "https://open.spotify.com/artist/5h3hEweoebaD7dHjZEmKRf"
         },
         {
           "name": "DeVito Cxrleone",
@@ -403,18 +403,26 @@
     {
       "added_at": "2024-06-06 20:50:25",
       "album": {
-        "name": "SALVE-SE!",
-        "url": "https://open.spotify.com/album/78EDQWddL1J80CnDO9w5T3"
+        "name": "\u00cdn.ti.mo",
+        "url": "https://open.spotify.com/album/1H39nmz1c0ai9HaEhJWaGU"
       },
       "artists": [
         {
-          "name": "Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
+          "name": "Aysha Lima",
+          "url": "https://open.spotify.com/artist/2PIknYaeoCcwkNQ8leGQ7U"
+        },
+        {
+          "name": "Andr\u00e9 Miquelotti",
+          "url": "https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54"
+        },
+        {
+          "name": "DG Prod",
+          "url": "https://open.spotify.com/artist/5yRNIQrZSfIpSKXjDQ1qif"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Quem diria",
-      "url": "https://open.spotify.com/track/7jQ3qAyxy3gbYNGw6ysO5E"
+      "duration_ms": 187954,
+      "name": "PFP (para fazer pretinhos)",
+      "url": "https://open.spotify.com/track/29T145ELh9ZkHSJusrhilh"
     },
     {
       "added_at": "2024-06-06 20:50:25",
@@ -443,26 +451,18 @@
     {
       "added_at": "2024-06-06 20:50:25",
       "album": {
-        "name": "\u00cdn.ti.mo",
-        "url": "https://open.spotify.com/album/1H39nmz1c0ai9HaEhJWaGU"
+        "name": "SALVE-SE!",
+        "url": "https://open.spotify.com/album/78EDQWddL1J80CnDO9w5T3"
       },
       "artists": [
         {
-          "name": "Aysha Lima",
-          "url": "https://open.spotify.com/artist/2PIknYaeoCcwkNQ8leGQ7U"
-        },
-        {
-          "name": "Andr\u00e9 Miquelotti",
-          "url": "https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54"
-        },
-        {
-          "name": "DG Prod",
-          "url": "https://open.spotify.com/artist/5yRNIQrZSfIpSKXjDQ1qif"
+          "name": "Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
         }
       ],
-      "duration_ms": 187954,
-      "name": "PFP (para fazer pretinhos)",
-      "url": "https://open.spotify.com/track/29T145ELh9ZkHSJusrhilh"
+      "duration_ms": 170000,
+      "name": "Quem diria",
+      "url": "https://open.spotify.com/track/7jQ3qAyxy3gbYNGw6ysO5E"
     },
     {
       "added_at": "2024-06-06 20:50:25",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-06-06 20:50:25",
       "album": {
+        "name": "Renascer",
+        "url": "https://open.spotify.com/album/11z5mItIsIAJNC7LnCMk45"
+      },
+      "artists": [
+        {
+          "name": "X\u00eania Fran\u00e7a",
+          "url": "https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D"
+        }
+      ],
+      "duration_ms": 294693,
+      "name": "Renascer",
+      "url": "https://open.spotify.com/track/0Yv9Ae9BYG8L6Ghniot1xm"
+    },
+    {
+      "added_at": "2024-06-06 20:50:25",
+      "album": {
         "name": "Sinto a Sua Falta",
         "url": "https://open.spotify.com/album/0RLUPsZSe4d88a1LZUShQL"
       },
@@ -711,18 +727,18 @@
     {
       "added_at": "2024-06-06 20:50:25",
       "album": {
-        "name": "Renascer",
-        "url": "https://open.spotify.com/album/11z5mItIsIAJNC7LnCMk45"
+        "name": "Tra\u00e7os",
+        "url": "https://open.spotify.com/album/7AhmqmOoRekIWyfyBeFb3L"
       },
       "artists": [
         {
-          "name": "X\u00eania Fran\u00e7a",
-          "url": "https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D"
+          "name": "Pedro Stone",
+          "url": "https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM"
         }
       ],
-      "duration_ms": 294693,
-      "name": "Renascer",
-      "url": "https://open.spotify.com/track/0Yv9Ae9BYG8L6Ghniot1xm"
+      "duration_ms": 199333,
+      "name": "Tra\u00e7os",
+      "url": "https://open.spotify.com/track/3ks3Bzqxi4wagkBqEHmfxC"
     },
     {
       "added_at": "2024-06-06 20:50:25",
@@ -743,22 +759,6 @@
       "duration_ms": 163240,
       "name": "Dava Praia",
       "url": "https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm"
-    },
-    {
-      "added_at": "2024-06-06 20:50:25",
-      "album": {
-        "name": "Tra\u00e7os",
-        "url": "https://open.spotify.com/album/7AhmqmOoRekIWyfyBeFb3L"
-      },
-      "artists": [
-        {
-          "name": "Pedro Stone",
-          "url": "https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM"
-        }
-      ],
-      "duration_ms": 199333,
-      "name": "Tra\u00e7os",
-      "url": "https://open.spotify.com/track/3ks3Bzqxi4wagkBqEHmfxC"
     },
     {
       "added_at": "2024-06-06 20:50:25",
@@ -851,26 +851,6 @@
     {
       "added_at": "2024-06-06 20:50:25",
       "album": {
-        "name": "L0V3 Tvp3",
-        "url": "https://open.spotify.com/album/4VMbvm1NCu8KmeuXnYEZcN"
-      },
-      "artists": [
-        {
-          "name": "Eddu Chaves",
-          "url": "https://open.spotify.com/artist/1F2sGUNH0ElOKlAc90BQaa"
-        },
-        {
-          "name": "Hanifah",
-          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
-        }
-      ],
-      "duration_ms": 129729,
-      "name": "Ultimo Fim (Short)",
-      "url": "https://open.spotify.com/track/5zXJwUbCor3SB0RFvDvgNh"
-    },
-    {
-      "added_at": "2024-06-06 20:50:25",
-      "album": {
         "name": "Filho do Soul",
         "url": "https://open.spotify.com/album/11CfMBbIFivVBOerau2ZFI"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 240000,
       "name": "Filho do Soul",
       "url": "https://open.spotify.com/track/0GyYORKftax285LSmzF2oA"
+    },
+    {
+      "added_at": "2024-06-06 20:50:25",
+      "album": {
+        "name": "L0V3 Tvp3",
+        "url": "https://open.spotify.com/album/4VMbvm1NCu8KmeuXnYEZcN"
+      },
+      "artists": [
+        {
+          "name": "Eddu Chaves",
+          "url": "https://open.spotify.com/artist/1F2sGUNH0ElOKlAc90BQaa"
+        },
+        {
+          "name": "Hanifah",
+          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
+        }
+      ],
+      "duration_ms": 129729,
+      "name": "Ultimo Fim (Short)",
+      "url": "https://open.spotify.com/track/5zXJwUbCor3SB0RFvDvgNh"
     },
     {
       "added_at": "2024-06-06 20:50:25",

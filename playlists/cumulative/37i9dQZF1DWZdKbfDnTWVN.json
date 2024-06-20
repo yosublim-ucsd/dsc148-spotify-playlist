@@ -4311,23 +4311,23 @@
     },
     {
       "album": {
-        "name": "Take U Out",
+        "name": "Take You Out",
         "url": "https://open.spotify.com/album/6q72JnamD6EzSO8BNaiW58"
       },
       "artists": [
         {
-          "name": "Lonepapii",
-          "url": "https://open.spotify.com/artist/4mIWDZo3u97KqQCRYqRQuJ"
-        },
-        {
           "name": "Fragah",
           "url": "https://open.spotify.com/artist/3bQIQv0IbFX9yE0NHqkJso"
+        },
+        {
+          "name": "Lonepapii",
+          "url": "https://open.spotify.com/artist/4mIWDZo3u97KqQCRYqRQuJ"
         }
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 150987,
+      "duration_ms": 128365,
       "name": "Take U Out",
       "url": "https://open.spotify.com/track/7ywhq1XgC3hFE2sKeo7XjO"
     },

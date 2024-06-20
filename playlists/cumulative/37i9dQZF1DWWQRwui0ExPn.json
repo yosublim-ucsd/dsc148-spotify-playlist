@@ -35777,6 +35777,24 @@
     },
     {
       "album": {
+        "name": "but a beach ain't one",
+        "url": "https://open.spotify.com/album/2zWrtFSI7QMd9KIrsFh5hL"
+      },
+      "artists": [
+        {
+          "name": "wavcrush",
+          "url": "https://open.spotify.com/artist/0mSqso2Yuc7l3b0Aw22dXm"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101647,
+      "name": "estate",
+      "url": "https://open.spotify.com/track/38JCaWrU5CHL14bs3JNXOA"
+    },
+    {
+      "album": {
         "name": "Este Amor",
         "url": "https://open.spotify.com/album/6ZrKTxV6cpWx34EVHdaUno"
       },
@@ -48340,7 +48358,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 108000,
       "name": "Hang",
       "url": "https://open.spotify.com/track/4ko84jnHMcEtRcHSBIdg37"
@@ -55004,6 +55022,24 @@
       "duration_ms": 172486,
       "name": "In the Mood - Instrumental",
       "url": "https://open.spotify.com/track/5qNfTRKQtMCWZSMQ4yQHc6"
+    },
+    {
+      "album": {
+        "name": "in the schoolyard",
+        "url": "https://open.spotify.com/album/0RHTMAJvDDOQzaYn0RNICS"
+      },
+      "artists": [
+        {
+          "name": "Cereal Party",
+          "url": "https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132009,
+      "name": "in the schoolyard",
+      "url": "https://open.spotify.com/track/7i0RIR3j2v3gtmrU3IAS7f"
     },
     {
       "album": {
@@ -129980,7 +130016,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 101661,
       "name": "Winter Stories",
       "url": "https://open.spotify.com/track/6jwzGn9qLJn8dPkat001na"

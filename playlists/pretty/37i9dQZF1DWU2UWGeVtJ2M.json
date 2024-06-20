@@ -1,6 +1,6 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 159272,
+  "num_followers": 159285,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-06-09 16:00:00",
       "album": {
-        "name": "Scarred for Tryin.",
-        "url": "https://open.spotify.com/album/7AlzfjScA4BEiFXtya6ChF"
-      },
-      "artists": [
-        {
-          "name": "Gen Neo",
-          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
-        }
-      ],
-      "duration_ms": 187027,
-      "name": "Scarred for Tryin.",
-      "url": "https://open.spotify.com/track/5kC5BdfOeJfIytZy7LEFx3"
-    },
-    {
-      "added_at": "2024-06-09 16:00:00",
-      "album": {
         "name": "Breath From Another",
         "url": "https://open.spotify.com/album/5IjiTlH5NjwgFjfCxXlY0S"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 238600,
       "name": "Superheroes",
       "url": "https://open.spotify.com/track/2akoq472I49TzrFSJjjf47"
+    },
+    {
+      "added_at": "2024-06-09 16:00:00",
+      "album": {
+        "name": "Scarred for Tryin.",
+        "url": "https://open.spotify.com/album/7AlzfjScA4BEiFXtya6ChF"
+      },
+      "artists": [
+        {
+          "name": "Gen Neo",
+          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
+        }
+      ],
+      "duration_ms": 187027,
+      "name": "Scarred for Tryin.",
+      "url": "https://open.spotify.com/track/5kC5BdfOeJfIytZy7LEFx3"
     },
     {
       "added_at": "2024-06-09 16:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-06-09 16:00:00",
       "album": {
-        "name": "All That Matters",
-        "url": "https://open.spotify.com/album/1XnXnyKWqThDzrNWn3TmWo"
-      },
-      "artists": [
-        {
-          "name": "GRACE.",
-          "url": "https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv"
-        }
-      ],
-      "duration_ms": 208421,
-      "name": "All That Matters",
-      "url": "https://open.spotify.com/track/2KyIlex21vkmh0yQaKSmuY"
-    },
-    {
-      "added_at": "2024-06-09 16:00:00",
-      "album": {
         "name": "Maybe Baby",
         "url": "https://open.spotify.com/album/0kwjPVEuW7YoMpeDCpd5Nw"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 158675,
       "name": "Maybe Baby",
       "url": "https://open.spotify.com/track/2HltyHR6c797UOdw42knuC"
+    },
+    {
+      "added_at": "2024-06-09 16:00:00",
+      "album": {
+        "name": "All That Matters",
+        "url": "https://open.spotify.com/album/1XnXnyKWqThDzrNWn3TmWo"
+      },
+      "artists": [
+        {
+          "name": "GRACE.",
+          "url": "https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv"
+        }
+      ],
+      "duration_ms": 208421,
+      "name": "All That Matters",
+      "url": "https://open.spotify.com/track/2KyIlex21vkmh0yQaKSmuY"
     },
     {
       "added_at": "2024-06-09 16:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-06-09 16:00:00",
       "album": {
-        "name": "I WILL BE THE CAUSE OF OUR DEATH",
-        "url": "https://open.spotify.com/album/2Es4yinpnkszumajLeesGb"
-      },
-      "artists": [
-        {
-          "name": "takeshi iwamoto",
-          "url": "https://open.spotify.com/artist/28fZt7cLleTXJB9V8zDxE9"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "I WILL BE THE CAUSE OF OUR DEATH",
-      "url": "https://open.spotify.com/track/2cKY2agDTAezOq1HZPOheC"
-    },
-    {
-      "added_at": "2024-06-09 16:00:00",
-      "album": {
         "name": "Hello, I said",
         "url": "https://open.spotify.com/album/4bNKNSX4l2cIRlxp0l12fH"
       },
@@ -1551,18 +1535,18 @@
     {
       "added_at": "2024-06-09 16:00:00",
       "album": {
-        "name": "Ambivalence",
-        "url": "https://open.spotify.com/album/4llC8Vtw8LtJ5HWzVpb1fd"
+        "name": "I WILL BE THE CAUSE OF OUR DEATH",
+        "url": "https://open.spotify.com/album/2Es4yinpnkszumajLeesGb"
       },
       "artists": [
         {
-          "name": "FLORA",
-          "url": "https://open.spotify.com/artist/0e6x6jekPEsRu9blCb1MWZ"
+          "name": "takeshi iwamoto",
+          "url": "https://open.spotify.com/artist/28fZt7cLleTXJB9V8zDxE9"
         }
       ],
-      "duration_ms": 225422,
-      "name": "April Smile",
-      "url": "https://open.spotify.com/track/4rhTbLNVEHvSENW3KWuHTX"
+      "duration_ms": 222000,
+      "name": "I WILL BE THE CAUSE OF OUR DEATH",
+      "url": "https://open.spotify.com/track/2cKY2agDTAezOq1HZPOheC"
     },
     {
       "added_at": "2024-06-09 16:00:00",
@@ -1583,6 +1567,22 @@
       "duration_ms": 288412,
       "name": "NOT TOO DEEP (feat. 6LACK)",
       "url": "https://open.spotify.com/track/2u925ft5mxwxYLhMQ7Sr72"
+    },
+    {
+      "added_at": "2024-06-09 16:00:00",
+      "album": {
+        "name": "Ambivalence",
+        "url": "https://open.spotify.com/album/4llC8Vtw8LtJ5HWzVpb1fd"
+      },
+      "artists": [
+        {
+          "name": "FLORA",
+          "url": "https://open.spotify.com/artist/0e6x6jekPEsRu9blCb1MWZ"
+        }
+      ],
+      "duration_ms": 225422,
+      "name": "April Smile",
+      "url": "https://open.spotify.com/track/4rhTbLNVEHvSENW3KWuHTX"
     },
     {
       "added_at": "2024-06-09 16:00:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-06-09 16:00:00",
       "album": {
-        "name": "Chill",
-        "url": "https://open.spotify.com/album/6eDc1WXXQhsyvRgb3DduaR"
-      },
-      "artists": [
-        {
-          "name": "Julia Wu",
-          "url": "https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv"
-        }
-      ],
-      "duration_ms": 243529,
-      "name": "Chill",
-      "url": "https://open.spotify.com/track/6o0PuBbbFNdnkKVJEQ3G6Y"
-    },
-    {
-      "added_at": "2024-06-09 16:00:00",
-      "album": {
         "name": "I.L.Y.M",
         "url": "https://open.spotify.com/album/1EHgOnmck78P8JwEOouH6G"
       },
@@ -1687,22 +1671,34 @@
     {
       "added_at": "2024-06-09 16:00:00",
       "album": {
-        "name": "Thursday",
-        "url": "https://open.spotify.com/album/0bUXmso9cdsN763cc4Ol2u"
+        "name": "Chill",
+        "url": "https://open.spotify.com/album/6eDc1WXXQhsyvRgb3DduaR"
       },
       "artists": [
         {
-          "name": "Axel Brizzy",
-          "url": "https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB"
-        },
-        {
-          "name": "Marian Carmel",
-          "url": "https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6"
+          "name": "Julia Wu",
+          "url": "https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv"
         }
       ],
-      "duration_ms": 229200,
-      "name": "Thursday",
-      "url": "https://open.spotify.com/track/0B2Ujrs9t4c1XvNzrECwLt"
+      "duration_ms": 243529,
+      "name": "Chill",
+      "url": "https://open.spotify.com/track/6o0PuBbbFNdnkKVJEQ3G6Y"
+    },
+    {
+      "added_at": "2024-06-09 16:00:00",
+      "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/7gwLwpXQ7r8EJO8SCwyqlC"
+      },
+      "artists": [
+        {
+          "name": "Lund",
+          "url": "https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR"
+        }
+      ],
+      "duration_ms": 200597,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/1bfYB96c5U7eoCT5O9lVLN"
     },
     {
       "added_at": "2024-06-09 16:00:00",
@@ -1723,18 +1719,22 @@
     {
       "added_at": "2024-06-09 16:00:00",
       "album": {
-        "name": "Broken",
-        "url": "https://open.spotify.com/album/7gwLwpXQ7r8EJO8SCwyqlC"
+        "name": "Thursday",
+        "url": "https://open.spotify.com/album/0bUXmso9cdsN763cc4Ol2u"
       },
       "artists": [
         {
-          "name": "Lund",
-          "url": "https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR"
+          "name": "Axel Brizzy",
+          "url": "https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB"
+        },
+        {
+          "name": "Marian Carmel",
+          "url": "https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6"
         }
       ],
-      "duration_ms": 200597,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/1bfYB96c5U7eoCT5O9lVLN"
+      "duration_ms": 229200,
+      "name": "Thursday",
+      "url": "https://open.spotify.com/track/0B2Ujrs9t4c1XvNzrECwLt"
     },
     {
       "added_at": "2024-06-09 16:00:00",

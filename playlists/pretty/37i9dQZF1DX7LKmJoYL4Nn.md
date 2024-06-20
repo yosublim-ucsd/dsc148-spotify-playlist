@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 
 > Songs from “ENSEMBLE STARS!!”「あんスタ」シリーズの楽曲を1つのプレイリストで。© 2014\-2019 Happy Elements K.K
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,861 likes - 70 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,862 likes - 70 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 | 65 | [青春Emergency](https://open.spotify.com/track/6sa7vQRasTAZGQc9zgCq4C) | [流星隊 ✕ Knights/守沢 千秋\(CV.帆世 雄一\)、深海 奏汰\(CV.西山 宏太朗\)、南雲 鉄虎\(CV.中島 ヨシキ\)、高峯 翠\(CV.渡辺 拓海\)、仙石 忍\(CV.新田 杏樹\)、朱桜 司\(CV.土田 玲央\)、月永 レオ\(CV.浅沼 晋太郎\)、瀬名 泉\(CV.伊藤 マサミ\)、朔間 凛月\(CV.山下 大輝\)、鳴上 嵐\(CV.北村 諒\)](https://open.spotify.com/artist/0Rfw2biPyl9NsYF1Y0sNXb) | [流星隊 ✕ Knights「青春Emergency」 あんさんぶるスターズ！！ FUSION UNIT SERIES 06](https://open.spotify.com/album/4Iyn5w22zjcZPOF1YadFvH) | 4:29 |
 | 66 | [僕らのステラ](https://open.spotify.com/track/2bnwmebEaREd1EKXvcG9CF) | [流星隊／深海 奏汰\(CV.西山 宏太朗\)、南雲 鉄虎\(CV.中島 ヨシキ\)、高峯 翠\(CV.渡辺 拓海\)、仙石 忍\(CV.新田 杏樹\)、守沢 千秋\(CV.帆世 雄一\)](https://open.spotify.com/artist/7CJMlJDmJqILvjKmXvrUxe) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 流星隊](https://open.spotify.com/album/6e3obtGSFhup7yHHHYksid) | 3:33 |
 | 67 | [Dreaming Ocean](https://open.spotify.com/track/46b7fm7RyNGct0HBYpHi0C) | [fine/天祥院英智\(CV.緑川 光\)、日々樹 渉\(CV.江口拓也\)、姫宮桃李\(CV.村瀬 歩\)、伏見弓弦\(CV.橋本晃太朗\)](https://open.spotify.com/artist/7oK5LO53kXSt3xxFsENt4v) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 fine](https://open.spotify.com/album/2SNuhzWNGPRSeEYEScL2Do) | 4:04 |
-| 68 | [Raise the Velvet](https://open.spotify.com/track/5zuujNiRCB7OERKDDzVjEC) | [礼瀬 マヨイ\(CV.重松 千晴\)](https://open.spotify.com/artist/3P7sJqFrsnkbBMr01qnJM2) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 ALKALOID](https://open.spotify.com/album/74QSMpOGlkVl5gPYM5Uolh) | 3:29 |
+| 68 | [天下無敵☆メテオレンジャー!](https://open.spotify.com/track/1XFWiQILHnJqrMn2i6PDDD) | [流星隊/守沢千秋\(CV.帆世雄一\)、深海奏汰\(CV.西山宏太朗\)、南雲鉄虎\(CV.中島ヨシキ\)、高峯翠\(CV.渡辺拓海\)、仙石忍\(CV.新田杏樹\)](https://open.spotify.com/artist/1McImYokA5QMesgOLKNpnl) | [あんさんぶるスターズ！ アルバムシリーズ 流星隊](https://open.spotify.com/album/51xCDrABka0BpPMG1p0qNe) | 4:27 |
 | 69 | [今宵月の館にて](https://open.spotify.com/track/3TSqHmKB8KREL3KUIbzbVF) | [Valkyrie/斎宮 宗\(CV.高橋広樹\)、影片みか\(CV.大須賀 純\)](https://open.spotify.com/artist/0ji9EuoClUyb8331TfkBCA) | [あんさんぶるスターズ！アルバムシリーズ Valkyrie](https://open.spotify.com/album/12klK02DpZrlngD2fG9Joa) | 4:51 |
-| 70 | [天下無敵☆メテオレンジャー!](https://open.spotify.com/track/1XFWiQILHnJqrMn2i6PDDD) | [流星隊/守沢千秋\(CV.帆世雄一\)、深海奏汰\(CV.西山宏太朗\)、南雲鉄虎\(CV.中島ヨシキ\)、高峯翠\(CV.渡辺拓海\)、仙石忍\(CV.新田杏樹\)](https://open.spotify.com/artist/1McImYokA5QMesgOLKNpnl) | [あんさんぶるスターズ！ アルバムシリーズ 流星隊](https://open.spotify.com/album/51xCDrABka0BpPMG1p0qNe) | 4:27 |
+| 70 | [Raise the Velvet](https://open.spotify.com/track/5zuujNiRCB7OERKDDzVjEC) | [礼瀬 マヨイ\(CV.重松 千晴\)](https://open.spotify.com/artist/3P7sJqFrsnkbBMr01qnJM2) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 ALKALOID](https://open.spotify.com/album/74QSMpOGlkVl5gPYM5Uolh) | 3:29 |
 
 Snapshot ID: `ZlA1ZQAAAADWz+B8rM+WSTf7DPD/BzOP`

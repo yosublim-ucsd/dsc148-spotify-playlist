@@ -1,6 +1,6 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 460487,
+  "num_followers": 460494,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
@@ -193,22 +193,6 @@
       "url": "https://open.spotify.com/track/7yXlGX1tlIYn5wZcJbJB6f"
     },
     {
-      "added_at": "2024-01-24 16:30:56",
-      "album": {
-        "name": "Wendorlan",
-        "url": "https://open.spotify.com/album/5KCxPdaw34RM8d9OjYJAwT"
-      },
-      "artists": [
-        {
-          "name": "Squarepusher",
-          "url": "https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko"
-        }
-      ],
-      "duration_ms": 379006,
-      "name": "Wendorlan",
-      "url": "https://open.spotify.com/track/5riAIZl7bL5PEgpIxaNNrH"
-    },
-    {
       "added_at": "2022-08-03 03:12:05",
       "album": {
         "name": "Sons Of",
@@ -227,6 +211,22 @@
       "duration_ms": 471786,
       "name": "A Ghost At Noon",
       "url": "https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ"
+    },
+    {
+      "added_at": "2024-01-24 16:30:56",
+      "album": {
+        "name": "Wendorlan",
+        "url": "https://open.spotify.com/album/5KCxPdaw34RM8d9OjYJAwT"
+      },
+      "artists": [
+        {
+          "name": "Squarepusher",
+          "url": "https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko"
+        }
+      ],
+      "duration_ms": 379006,
+      "name": "Wendorlan",
+      "url": "https://open.spotify.com/track/5riAIZl7bL5PEgpIxaNNrH"
     },
     {
       "added_at": "2022-02-16 00:41:13",
@@ -373,6 +373,22 @@
       "url": "https://open.spotify.com/track/26z2GUYW7mlJAeAWcy4vlA"
     },
     {
+      "added_at": "2022-03-18 05:02:00",
+      "album": {
+        "name": "Trusted EP",
+        "url": "https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9"
+      },
+      "artists": [
+        {
+          "name": "mach\u00ecna",
+          "url": "https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn"
+        }
+      ],
+      "duration_ms": 194358,
+      "name": "Trusted",
+      "url": "https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi"
+    },
+    {
       "added_at": "2024-01-05 03:32:15",
       "album": {
         "name": "Promises",
@@ -391,22 +407,6 @@
       "duration_ms": 226118,
       "name": "Promises",
       "url": "https://open.spotify.com/track/7jbt4qgjVkr1mdGEjXnPHM"
-    },
-    {
-      "added_at": "2022-03-18 05:02:00",
-      "album": {
-        "name": "Trusted EP",
-        "url": "https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9"
-      },
-      "artists": [
-        {
-          "name": "mach\u00ecna",
-          "url": "https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn"
-        }
-      ],
-      "duration_ms": 194358,
-      "name": "Trusted",
-      "url": "https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi"
     },
     {
       "added_at": "2023-06-27 23:11:49",

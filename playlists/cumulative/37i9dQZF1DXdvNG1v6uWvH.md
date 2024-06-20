@@ -4,7 +4,7 @@
 
 > Ný tónlist!
 
-908 songs - 1 day 23 hr 40 min
+909 songs - 1 day 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Cult to A Saint](https://open.spotify.com/track/6LiZv6hKaSY9DMMqVO3hgy) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU), [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [Cult to A Saint](https://open.spotify.com/album/5J51HUdRQFacntDsIhRmbf) | 3:38 | 2024-05-17 | 2024-05-24 |
 | [Cursed Romantics](https://open.spotify.com/track/5492WJL5APlDdZFOjn0PxK) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Cursed Romantics](https://open.spotify.com/album/0JKztCLBEY4jKjVSQBWeGE) | 3:10 | 2024-05-17 | 2024-05-24 |
 | [Cyclone](https://open.spotify.com/track/3WLkk22rygJ3whtqu0OXIZ) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy), [Mugatu](https://open.spotify.com/artist/5fpxLk6zSvEA3aSJ31Ak88) | [Cyclone](https://open.spotify.com/album/5cnK9r9zaVKoBGrfWUDhzo) | 2:38 | 2024-05-17 | 2024-05-24 |
+| [Dance With Me](https://open.spotify.com/track/2I5ipWaIXUknimwtJPoPYt) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance With Me](https://open.spotify.com/album/1wkUCIDGpYN0PEIcyG4dS6) | 3:45 | 2024-06-14 |  |
 | [Dancers](https://open.spotify.com/track/0MdXqGO6myqxt0FwvuOqMN) | [ALBA](https://open.spotify.com/artist/5MKM7cNYL4SIuIe6q4Qd1p) | [Dancers](https://open.spotify.com/album/4NQBMNfQxbgiVp8OCPbeJU) | 3:30 | 2024-06-14 |  |
 | [Dancing Type](https://open.spotify.com/track/3Gf35KMfySYgS8MFLFpIEc) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Dancing Type](https://open.spotify.com/album/0P7SpW8srX9NHdROJwkGAy) | 2:35 | 2024-04-26 | 2024-05-03 |
 | [Dangerous](https://open.spotify.com/track/16pWwIOwWNrS7Hrt6YDxok) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Dangerous](https://open.spotify.com/album/0EdDw4yXJ4x1X44QCkM8i1) | 3:30 | 2024-06-07 | 2024-06-14 |
@@ -567,7 +568,7 @@
 | [Neverender](https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Hyperdrama](https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86) | 4:26 | 2024-04-26 | 2024-05-03 |
 | [New Light](https://open.spotify.com/track/2QkD8IuhRFhIjIuIQaYXCe) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [New Light](https://open.spotify.com/album/3YHnGJ4dRXDOt9nwOsdEyK) | 2:33 | 2024-06-14 |  |
 | [New Me](https://open.spotify.com/track/5ZSbOZAsbOWi7DNfpO1vqG) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [New Me](https://open.spotify.com/album/6iGj13T3EKBX8OSMrHBd5x) | 2:53 | 2024-05-31 | 2024-06-07 |
-| [New Moon, Same Old Me](https://open.spotify.com/track/4aH7cgsTvH758qlvc5v4m7) | [Asbjørn](https://open.spotify.com/artist/47rOF45mpciP0KFUlBqKUX), [Brimheim](https://open.spotify.com/artist/2ROf9t2bzHTnVuf8btRd5J) | [New Moon, Same Old Me](https://open.spotify.com/album/7fsc9ozWM0kdmjwPb4SVhw) | 4:15 | 2024-06-14 |  |
+| [New Moon, Same Old Me \(feat\. Brimheim\)](https://open.spotify.com/track/4aH7cgsTvH758qlvc5v4m7) | [Asbjørn](https://open.spotify.com/artist/47rOF45mpciP0KFUlBqKUX), [Brimheim](https://open.spotify.com/artist/2ROf9t2bzHTnVuf8btRd5J) | [New Moon, Same Old Me \(feat\. Brimheim\)](https://open.spotify.com/album/7fsc9ozWM0kdmjwPb4SVhw) | 4:15 | 2024-06-14 |  |
 | [Next 2 U](https://open.spotify.com/track/3qV20sy8VPyt5R8aminfhA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Next 2 U](https://open.spotify.com/album/5AkuoilPAkKfzfm2nIF7KA) | 2:41 | 2024-05-31 | 2024-06-07 |
 | [Nice to Meet You](https://open.spotify.com/track/7sxb5C2mE0l5xfSL9M2hxQ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Nice to Meet You](https://open.spotify.com/album/72DMNLy4QTiAK5hxjnV7GH) | 3:10 | 2024-05-24 | 2024-06-01 |
 | [Nightrun](https://open.spotify.com/track/5uL8V8oTBMrrvCukk5ydTi) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Nightrun](https://open.spotify.com/album/2cL87H8knMEobbnZpFFSSA) | 4:25 | 2024-06-07 | 2024-06-08 |
@@ -847,7 +848,7 @@
 | [Vibin](https://open.spotify.com/track/4FDFlJQhYcMHyOrPg88QvD) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d), [Jungle Jonsson](https://open.spotify.com/artist/6DuzYGNQcx6sJNgi36tr7Z), [BAYZY](https://open.spotify.com/artist/3Bp2X5t7A5WNxBg3Kdhr6z) | [Vibin](https://open.spotify.com/album/2orAGDqiUmj7ss1xzVArIo) | 2:00 | 2024-05-03 | 2024-05-10 |
 | [Viceral](https://open.spotify.com/track/3SDD5QpV9Pgc9it9bkHhsg) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [Viceral](https://open.spotify.com/album/2KBbMUqDvHHMK63uxeJE2A) | 1:57 | 2024-05-31 | 2024-06-07 |
 | [Viento](https://open.spotify.com/track/4OIJAOZkj6ChEvSIzUKDmQ) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [Viento](https://open.spotify.com/album/33HL0gjp6NMr4Yn9skMj4s) | 2:20 | 2024-06-14 |  |
-| [View Of You](https://open.spotify.com/track/0ZzaF4eCeuOieLBJb5GrrW) | [tigerstate](https://open.spotify.com/artist/5IASPTbco70KYmxQwSg8E1), [Most Likely Marlin](https://open.spotify.com/artist/3hvm1YoZ5efW61Whc5RuKy) | [View Of You](https://open.spotify.com/album/4VggkGM4C1W4noWojPlK96) | 3:09 | 2024-06-14 |  |
+| [View Of You](https://open.spotify.com/track/0ZzaF4eCeuOieLBJb5GrrW) | [tigerstate](https://open.spotify.com/artist/5IASPTbco70KYmxQwSg8E1), [Most Likely Marlin](https://open.spotify.com/artist/3hvm1YoZ5efW61Whc5RuKy) | [View Of You](https://open.spotify.com/album/4VggkGM4C1W4noWojPlK96) | 3:09 | 2024-06-14 | 2024-06-20 |
 | [Vin](https://open.spotify.com/track/4UGiylwOx9pBF0D6VlnhpR) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ) | [Sorgenfri](https://open.spotify.com/album/4n8prSVQyN3Cp4KcfCRyEi) | 2:29 | 2024-05-31 | 2024-06-07 |
 | [Virginia](https://open.spotify.com/track/0Mfuf1yJoUMtd5dHvzQLNy) | [bel canto](https://open.spotify.com/artist/5Bz8k8phXRsAtBB6xrIR83), [Sondre Lerche](https://open.spotify.com/artist/0Q6X1jqwOVQuclYp2P1bub) | [Radiant Green](https://open.spotify.com/album/2jqgh8squ3s4L7s8XPLMbu) | 4:08 | 2024-04-26 | 2024-05-03 |
 | [Vitamins](https://open.spotify.com/track/2fLDKaSvow0ciPW60ibLil) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Vitamins](https://open.spotify.com/album/7i9RLUQeVGAyonCjKDrP12) | 2:32 | 2024-04-26 | 2024-05-03 |

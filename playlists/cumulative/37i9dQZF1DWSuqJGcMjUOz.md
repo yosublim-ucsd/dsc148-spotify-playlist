@@ -4,7 +4,7 @@
 
 > Découvrez les artistes à l'affiche de l’édition 2024 des Francos de Montréal.
 
-458 songs - 1 day 2 hr 0 min
+459 songs - 1 day 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Hédoniste](https://open.spotify.com/track/4IpvQqD75gY8dYyBvSl5rx) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Hédoniste](https://open.spotify.com/album/1EldR7BfyRjouqNteZ0gp3) | 3:19 | 2022-05-25 | 2023-04-13 |
 | [I Know](https://open.spotify.com/track/50eGTKo7td8i5PCNkPCmWO) | [20Some](https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ) | [Home Run](https://open.spotify.com/album/2r4bTB0FAzdzUakL7yopqV) | 4:10 | 2022-05-25 | 2023-04-13 |
 | [Icare](https://open.spotify.com/track/67OcVGdHgzLykVUbaXwVYv) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf), [Bertrand Burgalat](https://open.spotify.com/artist/2JzpIUoj6kZ8r11iE46yq7) | [Icare](https://open.spotify.com/album/3xQhF7EoL5DS0DceUsG8Fv) | 3:42 | 2023-04-12 | 2024-04-04 |
+| [Il a plu il a neigé](https://open.spotify.com/track/5tKtMAzHT1wm9FFK5XSME0) | [Navet Confit](https://open.spotify.com/artist/6aZpCVbPUYikMx9HJV897D), [Douance](https://open.spotify.com/artist/1YLRMf5LBTYn5mAKmKkHUq) | [Désolé mouvement geste](https://open.spotify.com/album/0sD47gP8BDddXIU4snaup7) | 4:10 | 2024-06-19 |  |
 | [Il n'y a que toi](https://open.spotify.com/track/1RqiVKbXmMpa5w70ebmCds) | [The Pirouettes](https://open.spotify.com/artist/1Jp2BVxy67R0OaudOV9lm1) | [Equilibre](https://open.spotify.com/album/05i1g2VNkI7hBdIADta182) | 3:21 | 2022-05-25 | 2023-04-13 |
 | [Il n'y a que toi](https://open.spotify.com/track/437SZweapEV4CPxYc6OHi2) | [The Pirouettes](https://open.spotify.com/artist/1Jp2BVxy67R0OaudOV9lm1) | [Equilibre](https://open.spotify.com/album/0z1AllM1nbO8X3F7KKYy2t) | 3:21 | 2022-05-25 | 2022-10-26 |
 | [Il était une fois](https://open.spotify.com/track/3uLZL8cZl2Hr1lal1Cet3D) | [Die\-On](https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Il était une fois](https://open.spotify.com/album/2viKHkCMddUIbdI4EWbbTd) | 4:05 | 2023-05-25 | 2024-04-04 |
@@ -297,7 +298,7 @@
 | [Mort de rire](https://open.spotify.com/track/1YMyJOWvg161nP3yP2ViAn) | [Radiant Baby](https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM) | [Mort de rire](https://open.spotify.com/album/4kZKcEYXarLLoVZIyEhGY7) | 4:06 | 2024-04-23 |  |
 | [Moshpit à St\-Dilon](https://open.spotify.com/track/6OvHVsWz8k4vDfaGJpqRTe) | [Margaret Tracteur](https://open.spotify.com/artist/6yXQF0UCrQ1Fqk2unBiqyz) | [L'heure du thé avec Margaret Tracteur](https://open.spotify.com/album/1xyNaSRENv9pcZx3n8wVOP) | 3:48 | 2023-05-25 | 2024-04-04 |
 | [Mot de passe](https://open.spotify.com/track/5DPdRHRTZHwxiz35F2FQCt) | [Damien Robitaille](https://open.spotify.com/artist/2fshYb8TCzSwt9m8NC4Ttu) | [Homme Autonome](https://open.spotify.com/album/1HPHFA0duEoD5ewnAvrcHY) | 3:25 | 2022-05-25 | 2023-04-13 |
-| [Motel Gédéon](https://open.spotify.com/track/1qPWodvcElyxIltRTLjLiz) | [Bernhari](https://open.spotify.com/artist/6AnoLNinpFaTOFNoorNstH) | [Motel Gédéon](https://open.spotify.com/album/6h70EgSf0FtAHCczgWErrL) | 3:53 | 2024-04-23 |  |
+| [Motel Gédéon](https://open.spotify.com/track/1qPWodvcElyxIltRTLjLiz) | [Bernhari](https://open.spotify.com/artist/6AnoLNinpFaTOFNoorNstH) | [Motel Gédéon](https://open.spotify.com/album/6h70EgSf0FtAHCczgWErrL) | 3:53 | 2024-04-23 | 2024-06-20 |
 | [Moteskano \- Les sentiers de nos ancêtres](https://open.spotify.com/track/5mevy3xuFjvc6KsYwc6ajp) | [Laura Niquay](https://open.spotify.com/artist/0pl54zLEvzbyIPj7ork06z) | [Waska Matisiwin](https://open.spotify.com/album/0Tm5Exm8H4m2L1HoojSWBG) | 4:10 | 2022-05-25 | 2023-04-13 |
 | [Moteur super sport](https://open.spotify.com/track/0S1RVvLHeDxRU4tcVbyWJX) | [Tom Chicoine](https://open.spotify.com/artist/2AFmNRNeW4gaF0E0fro7QG) | [Moteur super sport](https://open.spotify.com/album/61Ducr5serAJxHZqNONiPt) | 3:11 | 2023-05-25 | 2024-04-04 |
 | [Moto](https://open.spotify.com/track/170BHJreuU78SzX7uXNXFy) | [Caracol](https://open.spotify.com/artist/7q7gMpTUdEVOombfNjJSLa), [Ragers](https://open.spotify.com/artist/2wiOxdl6V7nqiCBdiFUIuH) | [Moto \(feat\. Ragers\)](https://open.spotify.com/album/2dqQeFDPj4sU50fnPbMb7x) | 3:15 | 2022-05-25 | 2022-07-29 |

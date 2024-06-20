@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Nicky.M x Rajaganapathy
 
-303 songs - 17 hr 24 min
+304 songs - 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Polladha Iravugal](https://open.spotify.com/track/0tYx6yVQooVCELXVJZIgn1) | [Thuva JB Chandran](https://open.spotify.com/artist/7jaNjjYdfdqOSC9VH7aEqq), [Kishoth Chandru](https://open.spotify.com/artist/5t7nfwWyqV7znxqBUjnBFI), [Kenny Hash](https://open.spotify.com/artist/3Evgr9WAmkz4w0zlC2qBCA) | [Polladha Iravugal](https://open.spotify.com/album/6VgyrPpnlalVMILCTKujo5) | 3:43 | 2023-11-20 |  |
 | [Pona Pongadi](https://open.spotify.com/track/44EKpEa7RPINMRh70iJiRZ) | [Krish Manoj](https://open.spotify.com/artist/4QBfnrSmAZ9qCU14uPnxDT), [Sagishna Xavier](https://open.spotify.com/artist/6Jdi3gLwRWKNEyCQDUQnex) | [Pona Pongadi](https://open.spotify.com/album/30WzaLds8K34mD3vvVkaAg) | 3:18 | 2023-04-03 | 2023-07-25 |
 | [Pongal Puliyodharai](https://open.spotify.com/track/68IkzGQnOjlfZBE9UxaJF1) | [Vetti Payan Venkat](https://open.spotify.com/artist/6ZeZplJoeBHwk1MwpIj18e), [RamGanesh K](https://open.spotify.com/artist/3qAXnWDWUgfGyD2TGS5t5M) | [Pongal Puliyodharai](https://open.spotify.com/album/5wViXAX88oexvwv18gE447) | 2:49 | 2023-04-03 | 2023-09-05 |
+| [Potta Potti](https://open.spotify.com/track/3JGCxsWooDbgOTpIzfJW3q) | [Adithya sm](https://open.spotify.com/artist/0aaBheMyBtjK4HCrjSrI5X) | [Potta Potti](https://open.spotify.com/album/7cXKMZRjHZtQDMxJlVcbzK) | 2:52 | 2024-06-19 |  |
 | [Pozhudhugal](https://open.spotify.com/track/5AzjLBpTMQAVolbzZ5dzJH) | [Kiran Surath N](https://open.spotify.com/artist/3HtIU5rxQT1V2GiAorUK8I) | [Pozhudhugal](https://open.spotify.com/album/3y77bo40iqv3V5cvGrQRAH) | 2:26 | 2023-08-31 | 2024-01-30 |
 | [Puppy Shame](https://open.spotify.com/track/2vDNF1Zqka9bCL9doi0oOs) | [Niranjan Babu](https://open.spotify.com/artist/0hiOFbSIkPddlp9Tm8WDtZ) | [Puppy Shame](https://open.spotify.com/album/61TbT5yHdtEWfOXlFyxA7u) | 2:26 | 2023-06-30 | 2023-12-12 |
 | [Puriya Vei \- Deaffrogs Records](https://open.spotify.com/track/3FB7rvufG8aW4bDkEUMbx3) | [Killa K](https://open.spotify.com/artist/5azgDfqhzt3EezfJ36gDIf) | [Puriya Vei \(Deaffrogs Records\)](https://open.spotify.com/album/2uyiv7xioQOp84vEqlJNqs) | 2:06 | 2024-01-31 | 2024-05-21 |

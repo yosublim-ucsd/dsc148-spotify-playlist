@@ -5033,6 +5033,24 @@
     },
     {
       "album": {
+        "name": "JxW 1st Single Album 'THIS MAN'",
+        "url": "https://open.spotify.com/album/6tMQKPiaYEnnq1h6G55AKN"
+      },
+      "artists": [
+        {
+          "name": "JxW",
+          "url": "https://open.spotify.com/artist/26bu3Aj5aulLKQ5MSGD2qh"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176960,
+      "name": "Last night (Guitar by Park Juwon)",
+      "url": "https://open.spotify.com/track/0Qh8dlEJ3jVWk57Ql6XrdS"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -7520,7 +7538,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 200929,
       "name": "Set Me Free Pt.2",
       "url": "https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp"
@@ -12509,6 +12527,28 @@
     },
     {
       "album": {
+        "name": "\u5982\u679c\u7231\u5fd8\u4e86 (Live)",
+        "url": "https://open.spotify.com/album/7zhaXi6KWaRfaxfSazFiNd"
+      },
+      "artists": [
+        {
+          "name": "\u6c6a\u82cf\u6cf7",
+          "url": "https://open.spotify.com/artist/6gjMR7Zdys0AHlJAWH2dfv"
+        },
+        {
+          "name": "\u55ae\u4f9d\u7d14",
+          "url": "https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245394,
+      "name": "\u5982\u679c\u7231\u5fd8\u4e86 - Live",
+      "url": "https://open.spotify.com/track/5klrVTKUgkEf7UWr4my5Mr"
+    },
+    {
+      "album": {
         "name": "\u5982\u679c\u7231\u5fd8\u4e86 Live",
         "url": "https://open.spotify.com/album/5jA85i8LzXfPGDLjTD4g09"
       },
@@ -14506,7 +14546,7 @@
       ],
       "date_added": "2021-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 229523,
       "name": "\u6709\u4e9b",
       "url": "https://open.spotify.com/track/3V2v19gDm4rmRkMwcgS4X2"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 934 songs - 2 day 9 hr 34 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 936 songs - 2 day 9 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -942,5 +942,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 932 | [Colder Than Ice](https://open.spotify.com/track/7aBqUj0JLpd7JcoNzsWL6G) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [The Weather](https://open.spotify.com/album/6qvWzoGkU310CqOrUNm5sQ) | 3:10 |
 | 933 | [Bad Disease](https://open.spotify.com/track/7taKcyGBXq0egpHYmttmm4) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [The Archer](https://open.spotify.com/album/3QHdGQFzgpIvvSFA83bqyh) | 3:46 |
 | 934 | [In My Room](https://open.spotify.com/track/0fV4iqDDRSt0a4mnLdCGKa) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf), [Alex Turner](https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S), [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [The Age Of The Understatement](https://open.spotify.com/album/2y3Rm0cT1xbf2NoTQwKv99) | 2:31 |
+| 935 | [Big Town Girl](https://open.spotify.com/track/3n7vjqznioFoDu8vi2rv3Q) | [Cameron Avery](https://open.spotify.com/artist/17qKi2b7CPrc03OEvQz9Tr) | [Ripe Dreams, Pipe Dreams \(Deluxe Edition\)](https://open.spotify.com/album/2SPoNPcAlfhUe84DH4SbQM) | 4:04 |
+| 936 | [Do You Know Me By Heart](https://open.spotify.com/track/1rFHr13hRBT7jt6h9JNrQI) | [Cameron Avery](https://open.spotify.com/artist/17qKi2b7CPrc03OEvQz9Tr) | [Ripe Dreams, Pipe Dreams \(Deluxe Edition\)](https://open.spotify.com/album/2SPoNPcAlfhUe84DH4SbQM) | 4:51 |
 
-Snapshot ID: `AAAIcUUkAPRL+TPBRpV5YfgTtTf/CgPt`
+Snapshot ID: `AAAIcyQAya9OW5wOuWhm/D7yz8Gazoax`

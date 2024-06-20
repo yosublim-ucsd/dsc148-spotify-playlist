@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 
 > インスタ音楽メディア『<a href="https://www.instagram.com/playlist\_of/">PLAYLIST</a>』が失恋をテーマに選曲。<br/>音楽はいつでもあなたに寄り添ってくれるから今はこのプレイリストを聴いてたくさん泣こう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,171 likes - 40 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,173 likes - 40 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Orange Moon feat\. 大塚 愛](https://open.spotify.com/track/6oer4NN5Na48RB73rKbSoL) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR), [大塚愛](https://open.spotify.com/artist/1XYOHvT665lTMNuBRMFoBc) | [Orange Moon feat\. 大塚 愛](https://open.spotify.com/album/3XKy1n7o1HIz5k52LiZw5e) | 4:12 |
+| 1 | [Orange Moon feat\. 大塚 愛](https://open.spotify.com/track/6oer4NN5Na48RB73rKbSoL) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR), [Ai Otsuka](https://open.spotify.com/artist/0q7KOr99MYmwKxivChxpSd) | [Orange Moon feat\. 大塚 愛](https://open.spotify.com/album/3XKy1n7o1HIz5k52LiZw5e) | 4:12 |
 | 2 | [MY LIFE](https://open.spotify.com/track/1Fy3dclV9os643JfeEmNkz) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [MY LIFE](https://open.spotify.com/album/2FDkRqlUOjPN8jc2AYQRya) | 3:34 |
 | 3 | [Wasted \- kZm Remix](https://open.spotify.com/track/7M34Joy3fdU75yFMofQNE0) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [Wasted EP](https://open.spotify.com/album/0bbYBrfOzGRUaXegV1hNbb) | 3:18 |
 | 4 | [Feel Missing](https://open.spotify.com/track/6FtSuG6TbvD3u5wydy7I2d) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Remember Me?](https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2) | 3:18 |

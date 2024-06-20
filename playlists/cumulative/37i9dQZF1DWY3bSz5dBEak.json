@@ -619,50 +619,6 @@
     },
     {
       "album": {
-        "name": "Beethoven: The Complete Piano Sonatas",
-        "url": "https://open.spotify.com/album/014wV6KWcsn01SiYIYVJeg"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Igor Levit",
-          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
-        }
-      ],
-      "date_added": "2020-02-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 128919,
-      "name": "III. Scherzo. Allegro vivace",
-      "url": "https://open.spotify.com/track/1gnWEzRRapiYOI5Arbzf0V"
-    },
-    {
-      "album": {
-        "name": "Beethoven: The Complete Piano Sonatas",
-        "url": "https://open.spotify.com/album/014wV6KWcsn01SiYIYVJeg"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Igor Levit",
-          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
-        }
-      ],
-      "date_added": "2020-02-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 293933,
-      "name": "IV. Rondo. Allegro ma non troppo",
-      "url": "https://open.spotify.com/track/48xVN6aH52zPq2ml3iVGt5"
-    },
-    {
-      "album": {
         "name": "Beethoven Piano Sonatas, Vol. 8, No. 8 (\u201cPath\u00e9tique\u201d), 10, 22 & 31",
         "url": "https://open.spotify.com/album/1eTQqqWxyxiJZspN5L5xba"
       },
@@ -1102,6 +1058,50 @@
       "duration_ms": 343093,
       "name": "Piano Sonata No. 15 in D Major, Op. 28 \"Pastorale\": II. Andante",
       "url": "https://open.spotify.com/track/6ERJbaR9etUnv4wGwnSLJk"
+    },
+    {
+      "album": {
+        "name": "Beethoven: The Complete Piano Sonatas",
+        "url": "https://open.spotify.com/album/014wV6KWcsn01SiYIYVJeg"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Igor Levit",
+          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128919,
+      "name": "Piano Sonata No. 15 in D Major, Op. 28, \"Pastorale\": III. Scherzo. Allegro vivace",
+      "url": "https://open.spotify.com/track/1gnWEzRRapiYOI5Arbzf0V"
+    },
+    {
+      "album": {
+        "name": "Beethoven: The Complete Piano Sonatas",
+        "url": "https://open.spotify.com/album/014wV6KWcsn01SiYIYVJeg"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Igor Levit",
+          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293933,
+      "name": "Piano Sonata No. 15 in D Major, Op. 28, \"Pastorale\": IV. Rondo. Allegro ma non troppo",
+      "url": "https://open.spotify.com/track/48xVN6aH52zPq2ml3iVGt5"
     },
     {
       "album": {

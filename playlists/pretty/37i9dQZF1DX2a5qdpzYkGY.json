@@ -1,12 +1,12 @@
 {
   "description": "a journey through ephemeral moments",
-  "num_followers": 12210,
+  "num_followers": 12207,
   "original_name": "transience",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZllnYAAAAAAdzh/i9NKf3zfAUKpYSyWh",
+  "snapshot_id": "ZnMKvQAAAAAcvRU1FDzjRNpyr8e7lMTV",
   "tracks": [
     {
       "added_at": "2022-11-17 23:02:33",
@@ -25,24 +25,28 @@
       "url": "https://open.spotify.com/track/0nWOYmDaMsM7uJChu8zspP"
     },
     {
-      "added_at": "2023-01-03 03:48:53",
+      "added_at": "2024-06-19 16:43:41",
       "album": {
-        "name": "Journey in Satchidananda",
-        "url": "https://open.spotify.com/album/6zV55F6W8kh1qe8LHhqRbz"
+        "name": "three",
+        "url": "https://open.spotify.com/album/4Wp9nBdyOi7Bg0NcSukCvO"
       },
       "artists": [
         {
-          "name": "Alice Coltrane",
-          "url": "https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr"
+          "name": "Black Decelerant",
+          "url": "https://open.spotify.com/artist/3hDJXXTF8ZlZwrmiRuWtYo"
         },
         {
-          "name": "Pharoah Sanders",
-          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
+          "name": "Contour",
+          "url": "https://open.spotify.com/artist/5eUhoxsPgFqAWSfOtwMNBF"
+        },
+        {
+          "name": "Omari Jazz",
+          "url": "https://open.spotify.com/artist/2JnmbU4G6t4GPZpIl5PUCT"
         }
       ],
-      "duration_ms": 396066,
-      "name": "Journey In Satchidananda",
-      "url": "https://open.spotify.com/track/2gG3ivmsfylVXLyIJvLXyN"
+      "duration_ms": 350000,
+      "name": "three",
+      "url": "https://open.spotify.com/track/5PscXPqV4pst0hyzQwEveE"
     },
     {
       "added_at": "2024-04-23 03:11:27",
@@ -129,20 +133,24 @@
       "url": "https://open.spotify.com/track/2zZZDhZp98OaElYpscNbWd"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
+      "added_at": "2023-01-03 03:48:53",
       "album": {
-        "name": "Sunset Mission",
-        "url": "https://open.spotify.com/album/3CrWNG2oqbEBHKAqfZP6CO"
+        "name": "Journey in Satchidananda",
+        "url": "https://open.spotify.com/album/6zV55F6W8kh1qe8LHhqRbz"
       },
       "artists": [
         {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+          "name": "Alice Coltrane",
+          "url": "https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr"
+        },
+        {
+          "name": "Pharoah Sanders",
+          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
         }
       ],
-      "duration_ms": 304386,
-      "name": "Prowler",
-      "url": "https://open.spotify.com/track/3aBIGzDlzBpYj9dPPBn9yj"
+      "duration_ms": 396066,
+      "name": "Journey In Satchidananda",
+      "url": "https://open.spotify.com/track/2gG3ivmsfylVXLyIJvLXyN"
     },
     {
       "added_at": "2024-04-12 00:45:23",
@@ -161,20 +169,20 @@
       "url": "https://open.spotify.com/track/1uJHtmLkOTQuCJ5AGKjLQU"
     },
     {
-      "added_at": "2022-01-13 01:08:52",
+      "added_at": "2021-10-06 04:38:12",
       "album": {
-        "name": "Nictitating Membrane (GC164) / Wing Rowing (K08)",
-        "url": "https://open.spotify.com/album/4Kkw0udedWQQjDK12GZEBz"
+        "name": "Sunset Mission",
+        "url": "https://open.spotify.com/album/3CrWNG2oqbEBHKAqfZP6CO"
       },
       "artists": [
         {
-          "name": "Niklas Paschburg",
-          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
         }
       ],
-      "duration_ms": 150681,
-      "name": "Wing Rowing (K08)",
-      "url": "https://open.spotify.com/track/5yhu9EH05oY5M3wxmqDwwa"
+      "duration_ms": 304386,
+      "name": "Prowler",
+      "url": "https://open.spotify.com/track/3aBIGzDlzBpYj9dPPBn9yj"
     },
     {
       "added_at": "2024-04-12 00:43:48",
@@ -191,6 +199,38 @@
       "duration_ms": 76013,
       "name": "Stuck T",
       "url": "https://open.spotify.com/track/1BuhApIz9YlT3vEcQfLxnI"
+    },
+    {
+      "added_at": "2022-01-13 01:08:52",
+      "album": {
+        "name": "Nictitating Membrane (GC164) / Wing Rowing (K08)",
+        "url": "https://open.spotify.com/album/4Kkw0udedWQQjDK12GZEBz"
+      },
+      "artists": [
+        {
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+        }
+      ],
+      "duration_ms": 150681,
+      "name": "Wing Rowing (K08)",
+      "url": "https://open.spotify.com/track/5yhu9EH05oY5M3wxmqDwwa"
+    },
+    {
+      "added_at": "2024-04-15 14:39:19",
+      "album": {
+        "name": "Pasajes Sonoros, Instant Composition / Saxophone Solo",
+        "url": "https://open.spotify.com/album/3lYdLGOzBxqr7HdJFJyLfV"
+      },
+      "artists": [
+        {
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        }
+      ],
+      "duration_ms": 291002,
+      "name": "Gurek",
+      "url": "https://open.spotify.com/track/4vy5Bom7Fax0HZjQvSshuQ"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -215,38 +255,6 @@
       "duration_ms": 530894,
       "name": "Movement 6",
       "url": "https://open.spotify.com/track/5i0EqAX50KcKNgMDMHZndM"
-    },
-    {
-      "added_at": "2024-04-15 14:39:19",
-      "album": {
-        "name": "Pasajes Sonoros, Instant Composition / Saxophone Solo",
-        "url": "https://open.spotify.com/album/3lYdLGOzBxqr7HdJFJyLfV"
-      },
-      "artists": [
-        {
-          "name": "Nacho Maldonado",
-          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
-        }
-      ],
-      "duration_ms": 291002,
-      "name": "Gurek",
-      "url": "https://open.spotify.com/track/4vy5Bom7Fax0HZjQvSshuQ"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "TNT",
-        "url": "https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg"
-      },
-      "artists": [
-        {
-          "name": "Tortoise",
-          "url": "https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ"
-        }
-      ],
-      "duration_ms": 284666,
-      "name": "Ten-Day Interval",
-      "url": "https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm"
     },
     {
       "added_at": "2024-04-12 00:43:48",
@@ -297,6 +305,62 @@
       "url": "https://open.spotify.com/track/2Wag0xzd7wPBzPjyo4lpGL"
     },
     {
+      "added_at": "2024-06-19 16:43:41",
+      "album": {
+        "name": "three",
+        "url": "https://open.spotify.com/album/4Wp9nBdyOi7Bg0NcSukCvO"
+      },
+      "artists": [
+        {
+          "name": "Black Decelerant",
+          "url": "https://open.spotify.com/artist/3hDJXXTF8ZlZwrmiRuWtYo"
+        },
+        {
+          "name": "Contour",
+          "url": "https://open.spotify.com/artist/5eUhoxsPgFqAWSfOtwMNBF"
+        },
+        {
+          "name": "Omari Jazz",
+          "url": "https://open.spotify.com/artist/2JnmbU4G6t4GPZpIl5PUCT"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "five",
+      "url": "https://open.spotify.com/track/0Xzw9kW28pJfzAwPZTqNPt"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "TNT",
+        "url": "https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg"
+      },
+      "artists": [
+        {
+          "name": "Tortoise",
+          "url": "https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ"
+        }
+      ],
+      "duration_ms": 284666,
+      "name": "Ten-Day Interval",
+      "url": "https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm"
+    },
+    {
+      "added_at": "2024-04-12 00:43:48",
+      "album": {
+        "name": "Redivider",
+        "url": "https://open.spotify.com/album/0VY5KRCY5hIHpoAXGucXhi"
+      },
+      "artists": [
+        {
+          "name": "VLMV",
+          "url": "https://open.spotify.com/artist/4odVEinIMqpSWy8oBnLbwl"
+        }
+      ],
+      "duration_ms": 67213,
+      "name": "If You Could See Your Life In Reverse Pt.3",
+      "url": "https://open.spotify.com/track/4bPOoJowB7VM7TkdP2Y5p2"
+    },
+    {
       "added_at": "2021-10-06 04:38:12",
       "album": {
         "name": "Archipelago",
@@ -329,22 +393,6 @@
       "url": "https://open.spotify.com/track/2zbt8cQf1EFoKlkbkKRz5V"
     },
     {
-      "added_at": "2024-04-12 00:43:48",
-      "album": {
-        "name": "Redivider",
-        "url": "https://open.spotify.com/album/0VY5KRCY5hIHpoAXGucXhi"
-      },
-      "artists": [
-        {
-          "name": "VLMV",
-          "url": "https://open.spotify.com/artist/4odVEinIMqpSWy8oBnLbwl"
-        }
-      ],
-      "duration_ms": 67213,
-      "name": "If You Could See Your Life In Reverse Pt.3",
-      "url": "https://open.spotify.com/track/4bPOoJowB7VM7TkdP2Y5p2"
-    },
-    {
       "added_at": "2021-10-06 04:38:12",
       "album": {
         "name": "Don't Shy Away",
@@ -359,6 +407,46 @@
       "duration_ms": 290053,
       "name": "Ocotillo",
       "url": "https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK"
+    },
+    {
+      "added_at": "2022-09-03 03:50:05",
+      "album": {
+        "name": "Sunset Mission",
+        "url": "https://open.spotify.com/album/3CrWNG2oqbEBHKAqfZP6CO"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 351120,
+      "name": "Black City Skyline",
+      "url": "https://open.spotify.com/track/51NvtuWxkDXHqtfWhQRjnH"
+    },
+    {
+      "added_at": "2024-06-19 16:43:41",
+      "album": {
+        "name": "three",
+        "url": "https://open.spotify.com/album/4Wp9nBdyOi7Bg0NcSukCvO"
+      },
+      "artists": [
+        {
+          "name": "Black Decelerant",
+          "url": "https://open.spotify.com/artist/3hDJXXTF8ZlZwrmiRuWtYo"
+        },
+        {
+          "name": "Contour",
+          "url": "https://open.spotify.com/artist/5eUhoxsPgFqAWSfOtwMNBF"
+        },
+        {
+          "name": "Omari Jazz",
+          "url": "https://open.spotify.com/artist/2JnmbU4G6t4GPZpIl5PUCT"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "two",
+      "url": "https://open.spotify.com/track/5AFbHte0qXKs8QUKTFY78i"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -391,22 +479,6 @@
       "duration_ms": 593866,
       "name": "Pendulum Man",
       "url": "https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm"
-    },
-    {
-      "added_at": "2022-09-03 03:50:05",
-      "album": {
-        "name": "Sunset Mission",
-        "url": "https://open.spotify.com/album/3CrWNG2oqbEBHKAqfZP6CO"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 351120,
-      "name": "Black City Skyline",
-      "url": "https://open.spotify.com/track/51NvtuWxkDXHqtfWhQRjnH"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -445,22 +517,6 @@
       "url": "https://open.spotify.com/track/0qAjgijsYT17O88SbesPEo"
     },
     {
-      "added_at": "2024-01-05 03:52:17",
-      "album": {
-        "name": "Ultramarine",
-        "url": "https://open.spotify.com/album/5TUaxpnaqWvHfvzvskmlac"
-      },
-      "artists": [
-        {
-          "name": "Sven Wunder",
-          "url": "https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly"
-        }
-      ],
-      "duration_ms": 189067,
-      "name": "Ultramarine",
-      "url": "https://open.spotify.com/track/2XOFvNnjST9vifi4KPWHVH"
-    },
-    {
       "added_at": "2021-10-06 04:38:12",
       "album": {
         "name": "Millions Now Living Will Never Die",
@@ -475,6 +531,38 @@
       "duration_ms": 327826,
       "name": "Glass Museum",
       "url": "https://open.spotify.com/track/4yQXy99u7RnPoGedBT2XB0"
+    },
+    {
+      "added_at": "2022-09-03 03:50:05",
+      "album": {
+        "name": "Black Earth",
+        "url": "https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 458693,
+      "name": "Maximum Black",
+      "url": "https://open.spotify.com/track/6RHJvMCoUgQ5CSBFUEL9RI"
+    },
+    {
+      "added_at": "2024-01-05 03:52:17",
+      "album": {
+        "name": "Ultramarine",
+        "url": "https://open.spotify.com/album/5TUaxpnaqWvHfvzvskmlac"
+      },
+      "artists": [
+        {
+          "name": "Sven Wunder",
+          "url": "https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly"
+        }
+      ],
+      "duration_ms": 189067,
+      "name": "Ultramarine",
+      "url": "https://open.spotify.com/track/2XOFvNnjST9vifi4KPWHVH"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -507,22 +595,6 @@
       "duration_ms": 159158,
       "name": "The Pillow Sisters",
       "url": "https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb"
-    },
-    {
-      "added_at": "2022-09-03 03:50:05",
-      "album": {
-        "name": "Black Earth",
-        "url": "https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 458693,
-      "name": "Maximum Black",
-      "url": "https://open.spotify.com/track/6RHJvMCoUgQ5CSBFUEL9RI"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -865,22 +937,6 @@
       "url": "https://open.spotify.com/track/1PKUVKUDXmeT8uu4Rb3f9b"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "AM Prosperita\u0308t",
-        "url": "https://open.spotify.com/album/2MwapfUImgaU8Fn1lyvHSN"
-      },
-      "artists": [
-        {
-          "name": "Lujo Asi\u00e1tico",
-          "url": "https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI"
-        }
-      ],
-      "duration_ms": 288068,
-      "name": "AM Prosperita\u0308t",
-      "url": "https://open.spotify.com/track/3mrQlwy85WbZvFtYTyepRf"
-    },
-    {
       "added_at": "2022-02-18 04:38:12",
       "album": {
         "name": "atomic bombs atomic bonds i love you",
@@ -895,6 +951,22 @@
       "duration_ms": 327600,
       "name": "atomic bombs atomic bonds i love you",
       "url": "https://open.spotify.com/track/0vSko2EnMsuAo2Kp2oItyt"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "AM Prosperita\u0308t",
+        "url": "https://open.spotify.com/album/2MwapfUImgaU8Fn1lyvHSN"
+      },
+      "artists": [
+        {
+          "name": "Lujo Asi\u00e1tico",
+          "url": "https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI"
+        }
+      ],
+      "duration_ms": 288068,
+      "name": "AM Prosperita\u0308t",
+      "url": "https://open.spotify.com/track/3mrQlwy85WbZvFtYTyepRf"
     },
     {
       "added_at": "2022-09-15 12:57:17",
@@ -953,26 +1025,6 @@
       "url": "https://open.spotify.com/track/4O2JBu39WoNet8tz3xOS2P"
     },
     {
-      "added_at": "2022-03-03 00:47:36",
-      "album": {
-        "name": "El Momento",
-        "url": "https://open.spotify.com/album/2Qx4zobEOV9BRW3wL1IbRI"
-      },
-      "artists": [
-        {
-          "name": "Sly5thAve",
-          "url": "https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi"
-        },
-        {
-          "name": "Roberto Ver\u00e1stegui",
-          "url": "https://open.spotify.com/artist/0EtZsbcbWVFSeqb6UWL0Wa"
-        }
-      ],
-      "duration_ms": 199305,
-      "name": "El Momento",
-      "url": "https://open.spotify.com/track/5RlcIRD2XWzFMP0qeGqFlK"
-    },
-    {
       "added_at": "2021-10-06 04:38:12",
       "album": {
         "name": "Wandering II (Ed Carlsen Rework)",
@@ -991,6 +1043,26 @@
       "duration_ms": 190754,
       "name": "Wandering II - Ed Carlsen Rework",
       "url": "https://open.spotify.com/track/23waihwNlV6zZsnwU3kXRW"
+    },
+    {
+      "added_at": "2022-03-03 00:47:36",
+      "album": {
+        "name": "El Momento",
+        "url": "https://open.spotify.com/album/2Qx4zobEOV9BRW3wL1IbRI"
+      },
+      "artists": [
+        {
+          "name": "Sly5thAve",
+          "url": "https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi"
+        },
+        {
+          "name": "Roberto Ver\u00e1stegui",
+          "url": "https://open.spotify.com/artist/0EtZsbcbWVFSeqb6UWL0Wa"
+        }
+      ],
+      "duration_ms": 199305,
+      "name": "El Momento",
+      "url": "https://open.spotify.com/track/5RlcIRD2XWzFMP0qeGqFlK"
     },
     {
       "added_at": "2023-01-03 03:48:53",
@@ -1267,62 +1339,6 @@
       "duration_ms": 152321,
       "name": "Earth's Orbit",
       "url": "https://open.spotify.com/track/6XVZhsWHSbQcPmHN6MCdza"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Beside April",
-        "url": "https://open.spotify.com/album/3jGdsI7EtNflxCUUre7QXP"
-      },
-      "artists": [
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        },
-        {
-          "name": "Karriem Riggins",
-          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
-        },
-        {
-          "name": "Arthur Verocai",
-          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
-        }
-      ],
-      "duration_ms": 313587,
-      "name": "Beside April",
-      "url": "https://open.spotify.com/track/0ILCCPZp5fXzakTTPsIdR8"
-    },
-    {
-      "added_at": "2022-01-11 01:31:39",
-      "album": {
-        "name": "BITTER.ROOT",
-        "url": "https://open.spotify.com/album/2LIZdIGqsOqJ9w31QHLAe4"
-      },
-      "artists": [
-        {
-          "name": "EN.KI.DU",
-          "url": "https://open.spotify.com/artist/1dZP0pipirizLq80zTSSBE"
-        }
-      ],
-      "duration_ms": 276172,
-      "name": "Inspiral",
-      "url": "https://open.spotify.com/track/2g5wSGjYZB8gMGMgyKuVd8"
-    },
-    {
-      "added_at": "2023-03-07 03:32:27",
-      "album": {
-        "name": "Mirrored Solitude",
-        "url": "https://open.spotify.com/album/4bd0O6ioCKu3uh3d89rtpB"
-      },
-      "artists": [
-        {
-          "name": "Kalia Vandever",
-          "url": "https://open.spotify.com/artist/2eFIJMz1OPMcyyqxVbh8tL"
-        }
-      ],
-      "duration_ms": 206863,
-      "name": "Mirrored Solitude",
-      "url": "https://open.spotify.com/track/52vNlD5YZT1yUmZUnukAbT"
     }
   ],
   "unique_name": "transience",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/71kt7mHLzNDQFmmUOVWA6Q.md) - [plain]
 
 > Follow the OFFICIAL Playlist for VCT now on the VALORANT Spotify!!
 
-[John Lock](https://open.spotify.com/user/12178106667) - 8,335 likes - 68 songs - 4 hr 1 min
+[John Lock](https://open.spotify.com/user/12178106667) - 8,333 likes - 68 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

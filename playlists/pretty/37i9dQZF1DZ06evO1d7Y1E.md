@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1d7Y1E.md) - [plain]
 
 ### [This Is Mc Poze do Rodo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1d7Y1E)
 
-> This is Mc Poze do Rodo\. Todos os maiores hits em uma só playlist.
+> This is Mc Poze do Rodo\. Tutti i brani in un'unica playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,683 likes - 48 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,706 likes - 48 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1d7Y1E.md) - [plain]
 | 47 | [Estacionamento](https://open.spotify.com/track/691qy6vl0fQzvZARj9hmol) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Estacionamento](https://open.spotify.com/album/4NCSXHWWNu0CgAuJZbUSBL) | 3:56 |
 | 48 | [A Cara do Crime \- Remix](https://open.spotify.com/track/1gW5XDbjG3TFOcmjAirKNI) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Watzgood](https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [A Cara do Crime \(Remix\)](https://open.spotify.com/album/295jaj4kZbKaytU5cgbp7m) | 3:00 |
 
-Snapshot ID: `Zm98gAAAAABmOC7lMWcyt1yFQshLgbyL`
+Snapshot ID: `Zm98gAAAAACspbA+Fd6o2ou0bNwVcZru`

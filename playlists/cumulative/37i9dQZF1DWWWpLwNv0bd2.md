@@ -4,7 +4,7 @@
 
 > Check out the Latest Romance Tracks.<br/>Cover : Raayan
 
-232 songs - 15 hr 16 min
+233 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Kannadi Nilave](https://open.spotify.com/track/6o6qco57cMAqBkSmoW68yP) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Ajai S Khashyap](https://open.spotify.com/artist/5dW8IcqAqgqrUNWEBYmj3A), [Saindhavi](https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit) | [DeAr \(Tamil\)](https://open.spotify.com/album/4R3ph8uR9ygLGq1Cz7MLEI) | 3:25 | 2024-04-18 |  |
 | [Keechan \(Original Soundtrack From "Om Vellimalai"\)](https://open.spotify.com/track/6BCDQfMf1SBC60hWuyUo3l) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Vikram Selva](https://open.spotify.com/artist/2QLSjaF1YQa9QitncrYmwT), [Priya Hemesh](https://open.spotify.com/artist/1FI8Am7UxI2XLUtFs2jPva) | [Om Vellimalai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/27ZuVYS9xFWleNT0e861eR) | 4:26 | 2023-01-09 | 2023-02-16 |
 | [Klesa Kadhala](https://open.spotify.com/track/7n1UVJ0H504ylTJ65msRuz) | [Jen Martin](https://open.spotify.com/artist/1jnYex347Mx1pD9r6JtNhO), [Janani](https://open.spotify.com/artist/074dvQc2KICo1VlD9mhKvb), [Malvi Sundaresan](https://open.spotify.com/artist/0kuJvSWvqLidbIjQaJh8DA), [Kalyan Manjunath](https://open.spotify.com/artist/35Wzhm2uv7DeqM1xRQwcU6) | [DADA \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ox0X6W9rsoMdGLmjuBtfs) | 3:50 | 2023-03-08 | 2024-02-03 |
+| [Kolladhey](https://open.spotify.com/track/3pJ4xvGuBWN7a7qCeffiyu) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Anand Aravindakshan](https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9), [Vignesh Ramakrishna](https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu) | [Lucky Baskhar \(Tamil\)](https://open.spotify.com/album/0wpc5r6BPX98lHtBPGTxMA) | 3:42 | 2024-06-19 |  |
 | [Kolluraale \(From "Maanavan"\)](https://open.spotify.com/track/6cCdiiRqpc3nIslPns7WtL) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6) | [Kolluraale \(From "Maanavan"\)](https://open.spotify.com/album/1Cnw9FxsUZgZtfjliZ9GBi) | 4:10 | 2024-03-26 |  |
 | [Kombari Vettapuli \(From "Captain Miller"\)](https://open.spotify.com/track/5I5UHofyht01Idg7KXcjWe) | [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Kombari Vettapuli \(From "Captain Miller"\)](https://open.spotify.com/album/2KZ00vSugPSwx9v0OmpPCo) | 3:16 | 2024-01-08 | 2024-02-03 |
 | [Kombari Vettapuli \(From "Captain Miller"\)](https://open.spotify.com/track/3ABmPbCBTSeer7MO4SKvlZ) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Kombari Vettapuli \(From "Captain Miller"\)](https://open.spotify.com/album/2rnFoq4FIGPD6W2zSlvbRw) | 3:16 | 2024-01-08 | 2024-01-10 |

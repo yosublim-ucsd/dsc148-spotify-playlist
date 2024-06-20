@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/0yJolfjqzHfNbr9IoBSndu?si=h6gIDNzNR06HcGlhhO4tEw">Avey Tare</a>
 
-[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 66,940 likes - 54 songs - 4 hr 18 min
+[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 66,939 likes - 54 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

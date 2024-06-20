@@ -1,6 +1,6 @@
 {
   "description": "This is Adam Brand. The essential tracks, all in one playlist.",
-  "num_followers": 4490,
+  "num_followers": 4494,
   "original_name": "This Is Adam Brand",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "Zm98gAAAAADHGIjjgm8ShH9z22BcVnOk",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Party Down Under",
-        "url": "https://open.spotify.com/album/6kTwLscyl9GiE3tk1oLvrK"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 196775,
-      "name": "Party Down Under",
-      "url": "https://open.spotify.com/track/6voVE1ccTkRYYNE9BtkIqV"
-    },
     {
       "added_at": null,
       "album": {
@@ -715,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Side Of The Street",
-        "url": "https://open.spotify.com/album/0OZoX1Vpoi1SSv64fLJcxF"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 194334,
-      "name": "Hearts I Leave Behind",
-      "url": "https://open.spotify.com/track/0lkAvMfm03vdKGNLe3Bvas"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Or Nothing",
         "url": "https://open.spotify.com/album/4Ficof37YsNcrLKaWSIbdp"
       },
@@ -743,6 +711,22 @@
       "duration_ms": 195416,
       "name": "Little Less Lonely",
       "url": "https://open.spotify.com/track/5KISgft3lX4Gou5ymweGcN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Side Of The Street",
+        "url": "https://open.spotify.com/album/0OZoX1Vpoi1SSv64fLJcxF"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 194334,
+      "name": "Hearts I Leave Behind",
+      "url": "https://open.spotify.com/track/0lkAvMfm03vdKGNLe3Bvas"
     },
     {
       "added_at": null,
@@ -799,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Speed Of Life",
-        "url": "https://open.spotify.com/album/54N4qJICmkAWZM3khwGI9Z"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 194824,
-      "name": "Fly",
-      "url": "https://open.spotify.com/track/0Ek6Gfmi9BTINJJEzogS5q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Oxygen",
         "url": "https://open.spotify.com/album/30EVdt1AjTXmPDeHDBnxZv"
       },
@@ -831,6 +799,22 @@
       "duration_ms": 218133,
       "name": "Love Away The Night - with Adam Brand",
       "url": "https://open.spotify.com/track/5nhyF9rPoP0tjqXNd7BRtj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Speed Of Life",
+        "url": "https://open.spotify.com/album/54N4qJICmkAWZM3khwGI9Z"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 194824,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/0Ek6Gfmi9BTINJJEzogS5q"
     },
     {
       "added_at": null,
@@ -863,6 +847,22 @@
       "duration_ms": 180827,
       "name": "Now We're Talking",
       "url": "https://open.spotify.com/track/3y94TeBQxO7z59PZLLLQH9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "There Will Be Love",
+        "url": "https://open.spotify.com/album/6jXEYlmvahy2vkjPPYwbPi"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 201546,
+      "name": "I Was Here",
+      "url": "https://open.spotify.com/track/1vvu0yPPYvHl7vUMnhGkGM"
     }
   ],
   "unique_name": "This Is Adam Brand",

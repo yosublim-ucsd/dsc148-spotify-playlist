@@ -1,13 +1,45 @@
 {
   "description": "Smooth indie jazz joints from around the globe. Cover: Andr\u00e9 3000",
-  "num_followers": 61250,
+  "num_followers": 61421,
   "original_name": "Rarities",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj6XngAAAAA07v3ZLEiL2J1+EUPkhWK+",
+  "snapshot_id": "ZnMPFgAAAADyCMLQ9VvHefGs4wH/kxfN",
   "tracks": [
+    {
+      "added_at": "2024-06-19 17:02:14",
+      "album": {
+        "name": "something will happen",
+        "url": "https://open.spotify.com/album/68OpuwNvN1Yw8eeDHJsnhC"
+      },
+      "artists": [
+        {
+          "name": "berlioz",
+          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
+        }
+      ],
+      "duration_ms": 179864,
+      "name": "something will happen",
+      "url": "https://open.spotify.com/track/0T3aN5baN9c90j11pzoDPW"
+    },
+    {
+      "added_at": "2024-06-19 17:02:14",
+      "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/7JW9Ok3X1No2KOQ8ebaVu3"
+      },
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+        }
+      ],
+      "duration_ms": 172777,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/5UJRrmcrapgTCEhpUlDFXH"
+    },
     {
       "added_at": "2024-01-12 00:22:54",
       "album": {
@@ -65,6 +97,22 @@
       "url": "https://open.spotify.com/track/4ilcgmelP0B7j6OXVj6XyL"
     },
     {
+      "added_at": "2024-06-19 17:02:14",
+      "album": {
+        "name": "Mid Spiral: Chaos",
+        "url": "https://open.spotify.com/album/4jSXr6It6ARLX8iDOHbwaJ"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "duration_ms": 188761,
+      "name": "Last Laugh",
+      "url": "https://open.spotify.com/track/307ZBrMJEoKG6khQpX0g4N"
+    },
+    {
       "added_at": "2024-05-10 21:54:38",
       "album": {
         "name": "b i g f e e l i n g s",
@@ -111,6 +159,26 @@
       "duration_ms": 198500,
       "name": "joycelyn's dance",
       "url": "https://open.spotify.com/track/6OI1stBQI4YHH2ceWVIrk4"
+    },
+    {
+      "added_at": "2024-06-19 17:02:14",
+      "album": {
+        "name": "Porto Leone",
+        "url": "https://open.spotify.com/album/7rFG3JddoRhJDTOtsdSdQa"
+      },
+      "artists": [
+        {
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+        },
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        }
+      ],
+      "duration_ms": 166287,
+      "name": "Porto Leone",
+      "url": "https://open.spotify.com/track/4tdl1dv3eNHOvSQ1MUqOZW"
     },
     {
       "added_at": "2024-01-12 00:22:54",
@@ -1503,22 +1571,6 @@
     {
       "added_at": "2024-01-12 00:22:54",
       "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 201984,
-      "name": "Coming Back",
-      "url": "https://open.spotify.com/track/2oZJ4OZOP7DHMdSrpx4fwq"
-    },
-    {
-      "added_at": "2024-01-12 00:22:54",
-      "album": {
         "name": "DIRT!",
         "url": "https://open.spotify.com/album/4SOtb7PjjC6NvGweQkKCZF"
       },
@@ -1575,22 +1627,6 @@
     {
       "added_at": "2024-01-12 00:22:54",
       "album": {
-        "name": "I DM U",
-        "url": "https://open.spotify.com/album/1IIZNcK6YUDis4Fu9SYAMk"
-      },
-      "artists": [
-        {
-          "name": "Loraine James",
-          "url": "https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3"
-        }
-      ],
-      "duration_ms": 263206,
-      "name": "I DM U",
-      "url": "https://open.spotify.com/track/68lJLfOBW85RyWcbPxzMcO"
-    },
-    {
-      "added_at": "2024-01-12 00:22:54",
-      "album": {
         "name": "Morning Light",
         "url": "https://open.spotify.com/album/5mMNVDT4FcwzAVQSJDGco6"
       },
@@ -1643,22 +1679,6 @@
       "duration_ms": 284386,
       "name": "Marching Band - feat. Masego",
       "url": "https://open.spotify.com/track/1wWGkPC7eBVvDZoEhROvGv"
-    },
-    {
-      "added_at": "2024-01-12 00:22:54",
-      "album": {
-        "name": "portrait of a dog",
-        "url": "https://open.spotify.com/album/6SsOunBXV82rQ7xhiQlYi5"
-      },
-      "artists": [
-        {
-          "name": "Jonah Yano",
-          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
-        }
-      ],
-      "duration_ms": 283477,
-      "name": "the speed of sound!",
-      "url": "https://open.spotify.com/track/1odpKYfJOpwiRAR0KyIPkU"
     },
     {
       "added_at": "2024-01-12 00:22:54",
@@ -1739,26 +1759,6 @@
     {
       "added_at": "2024-01-12 00:22:54",
       "album": {
-        "name": "Brighter Star",
-        "url": "https://open.spotify.com/album/2k5rASMwjSB9mEEJqXaQ1c"
-      },
-      "artists": [
-        {
-          "name": "Energy Exchange Ensemble",
-          "url": "https://open.spotify.com/artist/1dxgUIXKd9tX0xgRQ7hM8i"
-        },
-        {
-          "name": "Allysha Joy",
-          "url": "https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3"
-        }
-      ],
-      "duration_ms": 333690,
-      "name": "Brighter Star",
-      "url": "https://open.spotify.com/track/6LJAiP0fsqGwXicLC1kF9u"
-    },
-    {
-      "added_at": "2024-01-12 00:22:54",
-      "album": {
         "name": "Find My Way",
         "url": "https://open.spotify.com/album/6NWwBZ308qTBXufqWAboMe"
       },
@@ -1775,22 +1775,6 @@
       "duration_ms": 222945,
       "name": "Find My Way",
       "url": "https://open.spotify.com/track/3PuprZB2YcBEg8Zg511yvr"
-    },
-    {
-      "added_at": "2024-01-12 00:22:54",
-      "album": {
-        "name": "Otherway",
-        "url": "https://open.spotify.com/album/5oZxjxrWQOSFLahaUvAqZq"
-      },
-      "artists": [
-        {
-          "name": "Daniel Noah Miller",
-          "url": "https://open.spotify.com/artist/0ofVQtXisiSCBVTW9tNUTS"
-        }
-      ],
-      "duration_ms": 170973,
-      "name": "Otherway",
-      "url": "https://open.spotify.com/track/1HibS69wIuHNaotBNJeCk2"
     },
     {
       "added_at": "2024-01-12 00:22:54",
@@ -1831,22 +1815,6 @@
       "duration_ms": 238786,
       "name": "Rust (feat. Tom Misch)",
       "url": "https://open.spotify.com/track/1ubbdrZv0EoDc40awvh8Rh"
-    },
-    {
-      "added_at": "2024-01-12 00:22:54",
-      "album": {
-        "name": "Pure Grooves Vol. 1",
-        "url": "https://open.spotify.com/album/796eeTpFCvH90a7DweaaNq"
-      },
-      "artists": [
-        {
-          "name": "Paul Cherry",
-          "url": "https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn"
-        }
-      ],
-      "duration_ms": 188870,
-      "name": "Modern Miracle",
-      "url": "https://open.spotify.com/track/6FtqBfzpYGTFt7yQPIaOFg"
     }
   ],
   "unique_name": "Rarities",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2szZf2.md) - [plain]
 
 ### [This Is Mc Dricka](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2szZf2)
 
-> This is Mc Dricka\. Todos os maiores hits em uma só playlist.
+> This is Mc Dricka\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,561 likes - 51 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,569 likes - 51 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2szZf2.md) - [plain]
 | 50 | [JÁ ERA TARDE](https://open.spotify.com/track/7C4JFAkLIoy7aWroEOy60X) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt), [Dj Juninho da Espanha](https://open.spotify.com/artist/7v3YsPZy6l4QPJQ8RqnfZ4), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [CORO COM COÇA](https://open.spotify.com/album/1mJUlfDXB7F62HqNsvJ9f8) | 2:57 |
 | 51 | [É Só Pirocadão \- Brega Funk Remix](https://open.spotify.com/track/0r6btzAF7SYcYjCCFckau4) | [O Brutto](https://open.spotify.com/artist/6cu7LD1IwsOS6Rtgr2F0BV), [Tinho do Coque](https://open.spotify.com/artist/14IIWGbDqOjAFpxmOoEsmt), [Pop Na Batida](https://open.spotify.com/artist/7lu87j6js86vL5rp9qczz0), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [É Só Pirocadão \(Brega Funk Remix\)](https://open.spotify.com/album/69LyHjijVlo0FEEGoKDe02) | 2:01 |
 
-Snapshot ID: `Zm98gAAAAACbacDa/tNk8uGQ3rK70Eln`
+Snapshot ID: `Zm98gAAAAACQq6GcVnojaz2ulQBtWtDn`

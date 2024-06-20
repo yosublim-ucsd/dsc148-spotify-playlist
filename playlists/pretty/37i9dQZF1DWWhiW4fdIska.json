@@ -1,6 +1,6 @@
 {
   "description": "Legendary blues guitarists. Cover: Buddy Guy",
-  "num_followers": 27785,
+  "num_followers": 27789,
   "original_name": "Classic Blues Guitar",
   "owner": {
     "name": "Spotify",
@@ -783,22 +783,6 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Gangster Of Love",
-        "url": "https://open.spotify.com/album/1Smhg9Z3vsvr4GcMg8cQSp"
-      },
-      "artists": [
-        {
-          "name": "Johnny \"Guitar\" Watson",
-          "url": "https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Cuttin' In",
-      "url": "https://open.spotify.com/track/3zIFZYaOv5xqtszhnXxYkb"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
         "name": "I Was Walkin' Through The Woods",
         "url": "https://open.spotify.com/album/3zAWUcaE9lzjf5qWcNqJlk"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 434693,
       "name": "Stone Crazy",
       "url": "https://open.spotify.com/track/3FVpPBl3Jbd5TRLUFZamO9"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "Gangster Of Love",
+        "url": "https://open.spotify.com/album/1Smhg9Z3vsvr4GcMg8cQSp"
+      },
+      "artists": [
+        {
+          "name": "Johnny \"Guitar\" Watson",
+          "url": "https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Cuttin' In",
+      "url": "https://open.spotify.com/track/3zIFZYaOv5xqtszhnXxYkb"
     },
     {
       "added_at": "2020-10-21 20:41:20",

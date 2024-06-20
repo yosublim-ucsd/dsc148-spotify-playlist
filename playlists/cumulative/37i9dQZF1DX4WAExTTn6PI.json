@@ -3129,6 +3129,24 @@
     },
     {
       "album": {
+        "name": "Someday Song",
+        "url": "https://open.spotify.com/album/13CBxmgIWuC6atTiEm2Nhl"
+      },
+      "artists": [
+        {
+          "name": "Madison Hughes",
+          "url": "https://open.spotify.com/artist/03rZGNLcaUYnzsTxlXpJ3F"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196367,
+      "name": "Someday Song",
+      "url": "https://open.spotify.com/track/6u4czoL1FCDlvT9Z4jECk9"
+    },
+    {
+      "album": {
         "name": "Somewhere",
         "url": "https://open.spotify.com/album/2UlnHVnEnx9ZZ6nuQ4NXOH"
       },

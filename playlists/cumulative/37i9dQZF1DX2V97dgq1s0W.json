@@ -2391,6 +2391,24 @@
     },
     {
       "album": {
+        "name": "I Deserve It,",
+        "url": "https://open.spotify.com/album/1R2ZUUtR7ksMhoawUMkWeF"
+      },
+      "artists": [
+        {
+          "name": "tendai",
+          "url": "https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110382,
+      "name": "I Deserve It,",
+      "url": "https://open.spotify.com/track/1CnRcBIzyHE41mcsgcI0P0"
+    },
+    {
+      "album": {
         "name": "I Need To Know",
         "url": "https://open.spotify.com/album/18jbgIaS5OO0tDykAUMs07"
       },

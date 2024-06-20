@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,914 songs - 4 day 7 hr 5 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,913 songs - 4 day 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1915,12 +1915,11 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1905 | [R4v3 B0y \(feat\. Krystal\)](https://open.spotify.com/track/1hle6BL2dCurJdd5Xoywlb) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [Krystal](https://open.spotify.com/artist/0y6I0Y8NUO3qUe2NRqT5rH) | [R4v3 B0y \(feat\. Krystal\)](https://open.spotify.com/album/7eUjgoQDrXMcXj5EIfKVHs) | 2:59 |
 | 1906 | [Ever \(Foreign Flag\)](https://open.spotify.com/track/6lj90SlDI7l1xDLVuxEFDH) | [Team Sleep](https://open.spotify.com/artist/6CwDvApcRshxhEVMP30Sq7) | [Team Sleep \(U.S\. Release\)](https://open.spotify.com/album/7BORauiIbjPkOVRzSq38DP) | 2:51 |
 | 1907 | [Sympathy is a knife](https://open.spotify.com/track/5c9tBmJKbTdn1vhzXHeAwW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 |
-| 1908 | [I might say something stupid](https://open.spotify.com/track/0PFZCt7UNmpas24HejQGu8) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 1:49 |
-| 1909 | [Valeria Bounze](https://open.spotify.com/track/11e5AvoqPT3sljkQItmhwt) | [cvcvdup](https://open.spotify.com/artist/3uNyHplRvma6haqXTOWrtN), [cvcvka5](https://open.spotify.com/artist/5iyld87rVUV5fDvMp7EGc6) | [Valeria Bounze](https://open.spotify.com/album/6ldZMxvvh3SV2yXLyTtz3N) | 1:41 |
-| 1910 | [Talk talk](https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:41 |
-| 1911 | [puke my gutzz O\_o](https://open.spotify.com/track/6kqlHdAgxs12KJCrnVKfht) | [zeija](https://open.spotify.com/artist/6m8acOBf7WOpC5ikjqcRTr) | [puke my gutzz O\_o](https://open.spotify.com/album/3UFtX4dv9LcSJ4Q1DubVzL) | 2:26 |
-| 1912 | [365](https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 |
-| 1913 | [Pop like this Pt\. 2](https://open.spotify.com/track/2Ct0MnmqHDvjLqpi5gxcSM) | [prodbycpkshawn](https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z) | [Pop like this Pt\. 2](https://open.spotify.com/album/6pNuMVebkxgLAeQsYOQNyQ) | 1:39 |
-| 1914 | [2012\_NoSekai](https://open.spotify.com/track/69XMn0nw3zBnU8DsflK1mo) | [Starcatcher](https://open.spotify.com/artist/7DaEbrXZus2RbkmXGtxhjT) | [2012\_NoSekai](https://open.spotify.com/album/07nkoN1P5IBUr7bQleUurv) | 2:45 |
+| 1908 | [Valeria Bounze](https://open.spotify.com/track/11e5AvoqPT3sljkQItmhwt) | [cvcvdup](https://open.spotify.com/artist/3uNyHplRvma6haqXTOWrtN), [cvcvka5](https://open.spotify.com/artist/5iyld87rVUV5fDvMp7EGc6) | [Valeria Bounze](https://open.spotify.com/album/6ldZMxvvh3SV2yXLyTtz3N) | 1:41 |
+| 1909 | [Talk talk](https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:41 |
+| 1910 | [puke my gutzz O\_o](https://open.spotify.com/track/6kqlHdAgxs12KJCrnVKfht) | [zeija](https://open.spotify.com/artist/6m8acOBf7WOpC5ikjqcRTr) | [puke my gutzz O\_o](https://open.spotify.com/album/3UFtX4dv9LcSJ4Q1DubVzL) | 2:26 |
+| 1911 | [365](https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 |
+| 1912 | [Pop like this Pt\. 2](https://open.spotify.com/track/2Ct0MnmqHDvjLqpi5gxcSM) | [prodbycpkshawn](https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z) | [Pop like this Pt\. 2](https://open.spotify.com/album/6pNuMVebkxgLAeQsYOQNyQ) | 1:39 |
+| 1913 | [2012\_NoSekai](https://open.spotify.com/track/69XMn0nw3zBnU8DsflK1mo) | [Starcatcher](https://open.spotify.com/artist/7DaEbrXZus2RbkmXGtxhjT) | [2012\_NoSekai](https://open.spotify.com/album/07nkoN1P5IBUr7bQleUurv) | 2:45 |
 
-Snapshot ID: `AAADFm+Jqb7PBsmEICnp1y/7vtWshlgE`
+Snapshot ID: `AAADF+J/UPiJSNMRVQXFuIx+eBcy7mrS`

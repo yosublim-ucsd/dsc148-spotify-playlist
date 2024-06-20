@@ -4,12 +4,12 @@
 
 > Best of hip\-hop tracks from South Asia\. Cover: Shubh
 
-266 songs - 15 hr 18 min
+267 songs - 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/5n7P6A365Prut3q8vo5G4m) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1oZVS1RjOOZjLhPguAENAD) | 0:00 | 2022-11-30 | 2023-08-01 |
-| [0 to 100](https://open.spotify.com/track/7cVe3mYMIfhOlz1NXFWv70) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 1:48 | 2022-10-10 |  |
+| [0 to 100](https://open.spotify.com/track/7cVe3mYMIfhOlz1NXFWv70) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 1:48 | 2022-10-10 |  |
 | [051021](https://open.spotify.com/track/6D0RJju2TSMtZM1jsRc58S) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [Scars & Screws](https://open.spotify.com/album/0dNZ3ypCu19FqmRxB1ezBc) | 3:31 | 2022-10-10 | 2022-12-01 |
 | [100 Million](https://open.spotify.com/track/3EJslhR33350RLGMb6eOAg) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [100 Million](https://open.spotify.com/album/0DRD7GdJQNalHpKaLhM871) | 3:12 | 2024-01-19 |  |
 | [12 Bajay](https://open.spotify.com/track/4G4mzPZFeJRtiTRMZer86A) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5), [Rap Demon](https://open.spotify.com/artist/5Op1QmEE3Eye8gdNrla3ok) | [12 Bajay](https://open.spotify.com/album/7laPcPTDp1pi9QPko64FHF) | 6:12 | 2022-10-10 | 2023-11-18 |
@@ -133,6 +133,7 @@
 | [KALESHI CHORI](https://open.spotify.com/track/6FrihRowEuYfNehH0zcx0e) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ), [VIRTUAL\_AF](https://open.spotify.com/artist/1Ik6g05IoSfFmpqi4Jg7Kc), [DARK HORSE](https://open.spotify.com/artist/4v9G79IPGEpwTbgB6TUUaY) | [KALESHI CHORI](https://open.spotify.com/album/0Hgw8x1UFcmeReCtxDW24U) | 3:31 | 2023-02-22 |  |
 | [Kamini](https://open.spotify.com/track/34022UYT9Ewsv8Oi0rY8RE) | [Kevin Smokio](https://open.spotify.com/artist/6NgfAmWM9yXAtnqvlmEkpc), [Tee Cee](https://open.spotify.com/artist/6hqo8d3gc1rgUFTvUJ0Ndu), [Ramesses Reezy](https://open.spotify.com/artist/2vvoyU5P5AB1ZdMjRYLFOK) | [Kamini](https://open.spotify.com/album/1CsuEETITU53fMSVbaSHwY) | 4:20 | 2021-12-03 | 2023-01-13 |
 | [Karacola](https://open.spotify.com/track/2ub7wz0saK9DvP3Q8pyuvR) | [Dilo](https://open.spotify.com/artist/7lrGPpmDUbhyg2DE8dD8cJ) | [Karacola](https://open.spotify.com/album/539yc6BZmUkZ4ma2g0mcSv) | 2:24 | 2021-12-03 | 2022-02-25 |
+| [Kaun Talha](https://open.spotify.com/track/0euDWZG2g1Cw12TDyLQUKu) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Kaun Talha](https://open.spotify.com/album/79kk4fBrppufcwHKZ6SspP) | 4:29 | 2024-06-19 |  |
 | [Khatam Hue Waande](https://open.spotify.com/track/3LlEnO0INKAExVe4JMi7p7) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Khatam Hue Waande](https://open.spotify.com/album/2SuPTs9x5NnQBRS01rCQq0) | 3:13 | 2022-10-10 | 2022-12-01 |
 | [Khatta Flow](https://open.spotify.com/track/2qb5ASYergjk2qNLvYEQJD) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Lunch Break](https://open.spotify.com/album/16PSZwABl4VFJvfDFOPOoB) | 2:32 | 2024-01-05 |  |
 | [Kheench Maari](https://open.spotify.com/track/2W45HI9Tfj1YdhMHJE0Lnd) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Nitin Randhawa](https://open.spotify.com/artist/0WIMfLnFgEZkwlzCaemJkS) | [Kheench Maari](https://open.spotify.com/album/1Vp9PMPUHVdITIdbtzlQmH) | 2:48 | 2024-01-05 |  |

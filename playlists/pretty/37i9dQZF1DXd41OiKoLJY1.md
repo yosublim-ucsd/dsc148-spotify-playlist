@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Gloryen\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,851 likes - 99 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,858 likes - 99 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 89 | [Weep Year](https://open.spotify.com/track/1I0oP269CujEUnBA4NMEOg) | [Brad Louisee](https://open.spotify.com/artist/1aWmfjamyyqLlGg0h9EX8K) | [Weep Year](https://open.spotify.com/album/57hbf1pPnC6VxmYys68vD1) | 2:40 |
 | 90 | [Once](https://open.spotify.com/track/0cNU8rmtPjdwVQ5JurnB4U) | [Chris Cantada Force](https://open.spotify.com/artist/5ubeV5kSMrVqdelpI3LlMw) | [Once](https://open.spotify.com/album/3BKCMFho1Eib4qpCTRrZmk) | 3:03 |
 | 91 | [Call Me When It's Over \(feat\. Seramel\)](https://open.spotify.com/track/2dig9TpD4UdOCtFHLEuAoV) | [Ron Macapagal](https://open.spotify.com/artist/1D2khKeG6AJSTPJjCy4tib), [Seramel](https://open.spotify.com/artist/4ZrehxVo50z89Wn3cA6VbA) | [Call Me When It's Over \(feat\. Seramel\)](https://open.spotify.com/album/3Og0a8E52wdEk7mC8yGvOK) | 3:13 |
-| 92 | [Keep On Holding On Pt\. 2](https://open.spotify.com/track/1C9PNh3vxPy51yEOx5gLnm) | [Jace Roque](https://open.spotify.com/artist/6QA5BsEeCZuG2urVzZLCrk) | [Paradiso](https://open.spotify.com/album/52gOefu9YjgjJahyVqECMI) | 3:01 |
+| 92 | ['Keep On Holding On Pt\. 2](https://open.spotify.com/track/1C9PNh3vxPy51yEOx5gLnm) | [Jace Roque](https://open.spotify.com/artist/6QA5BsEeCZuG2urVzZLCrk) | [Paradiso](https://open.spotify.com/album/52gOefu9YjgjJahyVqECMI) | 3:01 |
 | 93 | [TOP SHOTTA](https://open.spotify.com/track/13qqNEfNs0IlDp7dEy7hRP) | [THUGSTA](https://open.spotify.com/artist/5EmXpuTNIJc6YTD2su7L4x) | [TOP SHOTTA](https://open.spotify.com/album/2DZh4v65B9K2b5eLVJfxSC) | 2:05 |
 | 94 | [Kamas](https://open.spotify.com/track/5HBRG9jaYnz0rlvqgRL5V4) | [Chuckoy Vicuña Combo](https://open.spotify.com/artist/5Vm3GOPQZyR5oQIbDw0tp0) | [Kamas](https://open.spotify.com/album/3uVo31MmwLRy5bfCW3btoB) | 3:55 |
 | 95 | [Ako Nalang Sana](https://open.spotify.com/track/30QrLoKcF6XVenDXldfQuO) | [Bby Jaye](https://open.spotify.com/artist/3zdpDnYSYmgka8gctdGYth), [Aeri](https://open.spotify.com/artist/4hpuvnMjGNX6ZVUGQZVl7B) | [Ako Nalang Sana](https://open.spotify.com/album/6DnaPiKM4TEaD64H8LP9ZN) | 3:52 |

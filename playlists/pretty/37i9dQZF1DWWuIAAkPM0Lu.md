@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > ⭐️ <a href="spotify:artist:7c7ZeiPKWHf2E1rsf1P4VF">Medina</a> gir os alt hun har ⭐️
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,256 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,263 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 23 | [MINUTTER, TIMER](https://open.spotify.com/track/7G8pVonwyErF4HRkSdG16I) | [Maurice](https://open.spotify.com/artist/49LRYB6Kf2RsNbsXIBrGSl) | [MINUTTER, TIMER](https://open.spotify.com/album/7sZH0d6hb3Q0s7CXuW2l7w) | 2:42 |
 | 24 | [God For Mig \(feat\. ZAINA\)](https://open.spotify.com/track/4wLCYSYYhbzRIKKP5T0ok6) | [Alexander Oscar](https://open.spotify.com/artist/7ypOZKaKGrCf3V6pOuaXiM), [ZAINA](https://open.spotify.com/artist/7fwnH4uy8mo721oa6K4kBS) | [God For Mig \(feat\. ZAINA\)](https://open.spotify.com/album/26RZRGd82LiUvRhtiCAj0n) | 2:37 |
 | 25 | [BROTHER STONE \(FEAT\. KODAK BLACK\)](https://open.spotify.com/track/0l3raueiJ78IsmZGwo6CRm) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [BROTHER STONE \(FEAT\. KODAK BLACK\)](https://open.spotify.com/album/0LWTY98ijfILoFHupcQJKE) | 3:22 |
-| 26 | [New Moon, Same Old Me](https://open.spotify.com/track/4aH7cgsTvH758qlvc5v4m7) | [Asbjørn](https://open.spotify.com/artist/47rOF45mpciP0KFUlBqKUX), [Brimheim](https://open.spotify.com/artist/2ROf9t2bzHTnVuf8btRd5J) | [New Moon, Same Old Me](https://open.spotify.com/album/7fsc9ozWM0kdmjwPb4SVhw) | 4:15 |
+| 26 | [New Moon, Same Old Me \(feat\. Brimheim\)](https://open.spotify.com/track/4aH7cgsTvH758qlvc5v4m7) | [Asbjørn](https://open.spotify.com/artist/47rOF45mpciP0KFUlBqKUX), [Brimheim](https://open.spotify.com/artist/2ROf9t2bzHTnVuf8btRd5J) | [New Moon, Same Old Me \(feat\. Brimheim\)](https://open.spotify.com/album/7fsc9ozWM0kdmjwPb4SVhw) | 4:15 |
 | 27 | [Uden At Tabe](https://open.spotify.com/track/5eaQdn6OixAZYvTXOXyeQk) | [kingtommi](https://open.spotify.com/artist/5SzjbKkjV5vdxP4vZMp2w0) | [Haven](https://open.spotify.com/album/1jpHxIJ7VOtRAxBCEldgLD) | 2:54 |
 | 28 | [Space Age Country Girl](https://open.spotify.com/track/1ZvyPHtUsFAjTG64VSAGa3) | [Agnes Hartwich](https://open.spotify.com/artist/5dannHlHirCopWH6vT2DpX) | [SPACE AGE COUNTRY GIRL](https://open.spotify.com/album/25oo9QtMES8ykXoMWj18JB) | 2:28 |
 | 29 | [On Top](https://open.spotify.com/track/3NNcodKRMIgyzKusdni4bS) | [Viktor Borges](https://open.spotify.com/artist/1PXoIxJE1PjbTkiCctfaWW) | [On Top](https://open.spotify.com/album/5WGGnSgyAJPDeEj6SzVAnV) | 2:35 |

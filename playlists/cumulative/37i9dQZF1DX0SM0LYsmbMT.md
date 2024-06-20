@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,152 songs - 6 day 14 hr 35 min
+4,153 songs - 6 day 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2746,6 +2746,7 @@
 | [Phone Call](https://open.spotify.com/track/3PSxQudBrDCKcDh603QpOk) | [ommood](https://open.spotify.com/artist/7mNKnRt1aoVswbRjEUP1WZ) | [Phone Call](https://open.spotify.com/album/5U0AZFURdlvUoXyCHDMDcy) | 2:42 | 2021-07-22 | 2022-01-14 |
 | [piano joint](https://open.spotify.com/track/7bz6B6gqfRRiCI34j3JzCI) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [piano joint](https://open.spotify.com/album/0sl4wd2G6qzT8viRkFWDXV) | 2:55 | 2022-02-17 | 2022-02-25 |
 | [Piano Piano](https://open.spotify.com/track/0ms1f2BD8lIFvXkzZ9FdXi) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Piano Piano / Auf der Terrasse](https://open.spotify.com/album/1R6d5HsZZmBYpLUlxONwwE) | 1:47 | 2020-09-25 | 2021-04-30 |
+| [Picadilly](https://open.spotify.com/track/4GP63RpTwxOCnMq5ZVnKZR) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [flâneur](https://open.spotify.com/artist/1u1zs47JhYDIbDkFjamdzx), [Beto Braga](https://open.spotify.com/artist/3WTydG1gUdND4uShUQAB5h), [Raouf](https://open.spotify.com/artist/6nX2UIOy2F9Tt7uqp4wwvL) | [Picadilly](https://open.spotify.com/album/1aEsXse9pLtnHC0uJ9uONb) | 2:27 | 2024-06-13 |  |
 | [Picea](https://open.spotify.com/track/1goVlikdWNJpouH8P62eUC) | [Hast](https://open.spotify.com/artist/39Rgp6INOAzKOgYNdAZpir), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Picea / Abies](https://open.spotify.com/album/0NAUGiNwPrQyw3WnobQU26) | 3:32 | 2021-05-07 | 2021-07-02 |
 | [Pico](https://open.spotify.com/track/2FbsTN9G2FaPR3VathE4Hr) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb), [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76) | [Pico](https://open.spotify.com/album/0KShUCdCUmicwnDk2WQBZY) | 1:36 | 2019-05-26\* | 2019-08-13 |
 | [Pictures of Your Face](https://open.spotify.com/track/4ki79MKEPGeMNP6xuEqtkc) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [Pictures of Your Face](https://open.spotify.com/album/0WIv7elbfrHXDuIslAvxRB) | 1:54 | 2019-06-14 | 2019-12-11 |
@@ -3140,7 +3141,7 @@
 | [Silk](https://open.spotify.com/track/3U4n66xgcZxPOZCHTT6wz1) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Roam EP](https://open.spotify.com/album/1VduUB1RUtJ1r5KyOk6obj) | 2:33 | 2020-07-24 | 2020-10-23 |
 | [Silk](https://open.spotify.com/track/5shRAbjr263aLdUb7CjpTR) | [Seb Zillner](https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x), [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Silk](https://open.spotify.com/album/2GxBwWibsIoqf87dfrhNId) | 2:09 | 2021-10-16 | 2023-10-27 |
 | [Silk](https://open.spotify.com/track/54lTL6GDlQDD5qPk3JftIl) | [UsualSND](https://open.spotify.com/artist/1ahA9vdjx7aBcfB7XjXT9k), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [Silk](https://open.spotify.com/album/66CZo0VLjagh4EmmaBTuU6) | 2:52 | 2023-12-08 |  |
-| [Silk Road](https://open.spotify.com/track/3KALn61dWjJp7Acazw0Ccf) | [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [Silk Road](https://open.spotify.com/album/3RFETcpnwLnZPnUNoj6BQM) | 1:31 | 2024-05-16 |  |
+| [Silk Road](https://open.spotify.com/track/3KALn61dWjJp7Acazw0Ccf) | [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [Silk Road](https://open.spotify.com/album/3RFETcpnwLnZPnUNoj6BQM) | 1:31 | 2024-05-16 | 2024-06-20 |
 | [Silky Wine](https://open.spotify.com/track/36v6YFAeZQADLAb7E47KDk) | [TABAL](https://open.spotify.com/artist/3xGCm4ewXGKJFwrrwummsJ), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Silky Wine](https://open.spotify.com/album/78yJIySXbEZ3nxLkLMKGT9) | 2:37 | 2024-04-25 |  |
 | [Sill](https://open.spotify.com/track/73T435Ue8eCR25TnR4rd9X) | [Jakspin](https://open.spotify.com/artist/3PLqmSa29zyLdTGINzLqCZ), [FRANZ](https://open.spotify.com/artist/4pAtdFcsdl8iMusalbOlLS) | [Sill](https://open.spotify.com/album/2mY8fAWv1Qrz41WjT7AapX) | 2:40 | 2020-12-01 | 2021-06-18 |
 | [Silo](https://open.spotify.com/track/6DWRJfbKONvPq6KOaKLydk) | [FRANZ](https://open.spotify.com/artist/4pAtdFcsdl8iMusalbOlLS) | [Silo](https://open.spotify.com/album/3R9qGQd6C8qAZ4KRPgG3fj) | 3:17 | 2020-08-07 | 2021-04-16 |

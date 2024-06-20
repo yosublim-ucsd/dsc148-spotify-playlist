@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: AKA lisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,536 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,548 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 14 | [Go](https://open.spotify.com/track/23UcwWw8NmM8acCXXfbTrg) | [Pom Poko](https://open.spotify.com/artist/4RkC3KmYWnr6PM1FM5Shwz) | [Go](https://open.spotify.com/album/4ZiH9PUfBGDSYgGwl3XBDQ) | 2:49 |
 | 15 | [When she holds me](https://open.spotify.com/track/4L4TXo5OwpTQlIPly2xES1) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [When she holds me](https://open.spotify.com/album/0bZ5ZKnXCHLoxgm5Y4lSrt) | 4:03 |
 | 16 | [View Of You](https://open.spotify.com/track/0ZzaF4eCeuOieLBJb5GrrW) | [tigerstate](https://open.spotify.com/artist/5IASPTbco70KYmxQwSg8E1), [Most Likely Marlin](https://open.spotify.com/artist/3hvm1YoZ5efW61Whc5RuKy) | [View Of You](https://open.spotify.com/album/4VggkGM4C1W4noWojPlK96) | 3:09 |
-| 17 | [New Moon, Same Old Me](https://open.spotify.com/track/4aH7cgsTvH758qlvc5v4m7) | [Asbjørn](https://open.spotify.com/artist/47rOF45mpciP0KFUlBqKUX), [Brimheim](https://open.spotify.com/artist/2ROf9t2bzHTnVuf8btRd5J) | [New Moon, Same Old Me](https://open.spotify.com/album/7fsc9ozWM0kdmjwPb4SVhw) | 4:15 |
+| 17 | [New Moon, Same Old Me \(feat\. Brimheim\)](https://open.spotify.com/track/4aH7cgsTvH758qlvc5v4m7) | [Asbjørn](https://open.spotify.com/artist/47rOF45mpciP0KFUlBqKUX), [Brimheim](https://open.spotify.com/artist/2ROf9t2bzHTnVuf8btRd5J) | [New Moon, Same Old Me \(feat\. Brimheim\)](https://open.spotify.com/album/7fsc9ozWM0kdmjwPb4SVhw) | 4:15 |
 | 18 | [spells](https://open.spotify.com/track/5bpwOzqzzqAJF8SOOocI4V) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [spells](https://open.spotify.com/album/3Po5yeGa2UTPVc7qR4E31A) | 3:11 |
 | 19 | [noxium](https://open.spotify.com/track/04wle9wdNnvPZudlvlPAOG) | [grasior](https://open.spotify.com/artist/7oaXjpcBZDUaomAVAKgUly), [ruevi](https://open.spotify.com/artist/1KE3QlAlynIZIxxUe45sjx) | [noxium](https://open.spotify.com/album/2KuNckwNrg6QWn3SqHNAAx) | 3:22 |
 | 20 | [What I Know Now](https://open.spotify.com/track/5nNT5ulZvirF7aA1mn58gO) | [MAIH](https://open.spotify.com/artist/5LqSpFsPhYIT2TjfE0y4zI) | [What I Know Now](https://open.spotify.com/album/2dbsq7LPzjXQPJrla8i1Bb) | 2:43 |

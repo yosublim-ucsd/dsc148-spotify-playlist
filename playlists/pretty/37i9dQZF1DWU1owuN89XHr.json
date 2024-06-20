@@ -1,6 +1,6 @@
 {
   "description": "Historias y versos que tocan la piel. ",
-  "num_followers": 274339,
+  "num_followers": 274372,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Entre Pairos y Derivas",
-        "url": "https://open.spotify.com/album/0Dm8kFxZeLSQNTOcF4ZCIQ"
-      },
-      "artists": [
-        {
-          "name": "Fernando Delgadillo",
-          "url": "https://open.spotify.com/artist/3dzMXO1RxEyQnFemhMIvnc"
-        }
-      ],
-      "duration_ms": 256013,
-      "name": "Entre Pairos y Derivas",
-      "url": "https://open.spotify.com/track/2oUT6iRSQM4cdDE1pMse6h"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Ser\u00e1 Posible El Sur?",
         "url": "https://open.spotify.com/album/2U6CJqnFntxEWLSLBoeCs1"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 290666,
       "name": "Todo Cambia",
       "url": "https://open.spotify.com/track/4ZOomo8OwEczYXh0I9qOGU"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Entre Pairos y Derivas",
+        "url": "https://open.spotify.com/album/0Dm8kFxZeLSQNTOcF4ZCIQ"
+      },
+      "artists": [
+        {
+          "name": "Fernando Delgadillo",
+          "url": "https://open.spotify.com/artist/3dzMXO1RxEyQnFemhMIvnc"
+        }
+      ],
+      "duration_ms": 256013,
+      "name": "Entre Pairos y Derivas",
+      "url": "https://open.spotify.com/track/2oUT6iRSQM4cdDE1pMse6h"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1201,20 +1201,28 @@
       "url": "https://open.spotify.com/track/4OdjDo0fQUNDYWvxsHqLdi"
     },
     {
-      "added_at": "2021-07-29 16:46:05",
+      "added_at": "2022-01-11 03:05:13",
       "album": {
-        "name": "Entre Cuerdas",
-        "url": "https://open.spotify.com/album/3VcfDjnEzaN8nQ0p5gRLKD"
+        "name": "30 A\u00f1os",
+        "url": "https://open.spotify.com/album/5k9z28Gw7Nf6FtHp8UIXSE"
       },
       "artists": [
         {
-          "name": "Amaury Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/5bnH2idOWAXzMEbw9gIP5D"
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        },
+        {
+          "name": "Ariel Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW"
+        },
+        {
+          "name": "Hector Zeoli",
+          "url": "https://open.spotify.com/artist/2yAbebpFzH9GhCLeCwKwtN"
         }
       ],
-      "duration_ms": 264946,
-      "name": "Lo Mejor Que Hay En Mi Vida",
-      "url": "https://open.spotify.com/track/4Z1A6CF9EumHQuz9vaogdf"
+      "duration_ms": 280893,
+      "name": "Alfonsina Y El Mar",
+      "url": "https://open.spotify.com/track/1dsG4CwDogYQ6Lfnca9PpX"
     },
     {
       "added_at": "2021-10-26 03:29:04",
@@ -1231,6 +1239,22 @@
       "duration_ms": 270453,
       "name": "Sembrando Amor",
       "url": "https://open.spotify.com/track/1rtRqBUB5RnafVaRml1SP3"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Entre Cuerdas",
+        "url": "https://open.spotify.com/album/3VcfDjnEzaN8nQ0p5gRLKD"
+      },
+      "artists": [
+        {
+          "name": "Amaury Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/5bnH2idOWAXzMEbw9gIP5D"
+        }
+      ],
+      "duration_ms": 264946,
+      "name": "Lo Mejor Que Hay En Mi Vida",
+      "url": "https://open.spotify.com/track/4Z1A6CF9EumHQuz9vaogdf"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1267,26 +1291,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Como la Nube Se Impone al Sol",
-        "url": "https://open.spotify.com/album/1MbZFgTvTCb7TjAaeKAybY"
-      },
-      "artists": [
-        {
-          "name": "Eliades Ochoa",
-          "url": "https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH"
-        },
-        {
-          "name": "Pablo Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
-        }
-      ],
-      "duration_ms": 189787,
-      "name": "Como la Nube Se Impone al Sol",
-      "url": "https://open.spotify.com/track/6yyjTmxBDhKvQre39r8QxT"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Guapa",
         "url": "https://open.spotify.com/album/4RkNRTFEPawbKupoxCz3US"
       },
@@ -1305,28 +1309,24 @@
       "url": "https://open.spotify.com/track/3KQDPSO8QYeqjQNphIf8ef"
     },
     {
-      "added_at": "2022-01-11 03:05:13",
+      "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "30 A\u00f1os",
-        "url": "https://open.spotify.com/album/5k9z28Gw7Nf6FtHp8UIXSE"
+        "name": "Como la Nube Se Impone al Sol",
+        "url": "https://open.spotify.com/album/1MbZFgTvTCb7TjAaeKAybY"
       },
       "artists": [
         {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+          "name": "Eliades Ochoa",
+          "url": "https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH"
         },
         {
-          "name": "Ariel Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW"
-        },
-        {
-          "name": "Hector Zeoli",
-          "url": "https://open.spotify.com/artist/2yAbebpFzH9GhCLeCwKwtN"
+          "name": "Pablo Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
         }
       ],
-      "duration_ms": 280893,
-      "name": "Alfonsina Y El Mar",
-      "url": "https://open.spotify.com/track/1dsG4CwDogYQ6Lfnca9PpX"
+      "duration_ms": 189787,
+      "name": "Como la Nube Se Impone al Sol",
+      "url": "https://open.spotify.com/track/6yyjTmxBDhKvQre39r8QxT"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "30 A\u00f1os",
+        "url": "https://open.spotify.com/album/5k9z28Gw7Nf6FtHp8UIXSE"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 264040,
+      "name": "Gracias A La Vida",
+      "url": "https://open.spotify.com/track/7LG5cNXKsKSV3IrHNrHzGa"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "S\u00f3lo / Ni Tan S\u00f3lo 2",
         "url": "https://open.spotify.com/album/4nB4bxKtBnl30ZhYLs6o6T"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 245413,
       "name": "El Manual de Lo Prohibido",
       "url": "https://open.spotify.com/track/4ZigeFK2QTarNLSLallsti"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Cain",
-        "url": "https://open.spotify.com/album/6WsYFZlXi4OkE4oY2J6yrT"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Filio",
-          "url": "https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K"
-        }
-      ],
-      "duration_ms": 230583,
-      "name": "Brazos De Sol",
-      "url": "https://open.spotify.com/track/7nQRBFSxhSKMqDp0jggQBR"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "30 A\u00f1os",
-        "url": "https://open.spotify.com/album/5k9z28Gw7Nf6FtHp8UIXSE"
+        "name": "Cain",
+        "url": "https://open.spotify.com/album/6WsYFZlXi4OkE4oY2J6yrT"
       },
       "artists": [
         {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+          "name": "Alejandro Filio",
+          "url": "https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K"
         }
       ],
-      "duration_ms": 264040,
-      "name": "Gracias A La Vida",
-      "url": "https://open.spotify.com/track/7LG5cNXKsKSV3IrHNrHzGa"
+      "duration_ms": 230583,
+      "name": "Brazos De Sol",
+      "url": "https://open.spotify.com/track/7nQRBFSxhSKMqDp0jggQBR"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Escarlata",
-        "url": "https://open.spotify.com/album/3TWcdcy2vPnaIXmDYfCpj0"
-      },
-      "artists": [
-        {
-          "name": "Edgar Oceransky",
-          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
-        }
-      ],
-      "duration_ms": 216035,
-      "name": "Ella es un Volc\u00e1n",
-      "url": "https://open.spotify.com/track/7jXYvUbqMQHLBDn12Yruxp"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Quiero Cantar",
         "url": "https://open.spotify.com/album/6FGLFDMuo03JjJ1OcViZRi"
       },
@@ -1539,18 +1523,34 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "1978-1988",
-        "url": "https://open.spotify.com/album/4NquOcku810JUHEDBv2YHy"
+        "name": "Escarlata",
+        "url": "https://open.spotify.com/album/3TWcdcy2vPnaIXmDYfCpj0"
       },
       "artists": [
         {
-          "name": "Alejandro Filio",
-          "url": "https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K"
+          "name": "Edgar Oceransky",
+          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
         }
       ],
-      "duration_ms": 242417,
-      "name": "Quizas Una Flor",
-      "url": "https://open.spotify.com/track/67VTfYQPAZdX564dpwJMlu"
+      "duration_ms": 216035,
+      "name": "Ella es un Volc\u00e1n",
+      "url": "https://open.spotify.com/track/7jXYvUbqMQHLBDn12Yruxp"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Escarlata",
+        "url": "https://open.spotify.com/album/3TWcdcy2vPnaIXmDYfCpj0"
+      },
+      "artists": [
+        {
+          "name": "Edgar Oceransky",
+          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
+        }
+      ],
+      "duration_ms": 233125,
+      "name": "Cu\u00e9ntame",
+      "url": "https://open.spotify.com/track/4W7WkBcU2lucZ3idMydUS3"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Escarlata",
-        "url": "https://open.spotify.com/album/3TWcdcy2vPnaIXmDYfCpj0"
+        "name": "1978-1988",
+        "url": "https://open.spotify.com/album/4NquOcku810JUHEDBv2YHy"
       },
       "artists": [
         {
-          "name": "Edgar Oceransky",
-          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
+          "name": "Alejandro Filio",
+          "url": "https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K"
         }
       ],
-      "duration_ms": 233125,
-      "name": "Cu\u00e9ntame",
-      "url": "https://open.spotify.com/track/4W7WkBcU2lucZ3idMydUS3"
+      "duration_ms": 242417,
+      "name": "Quizas Una Flor",
+      "url": "https://open.spotify.com/track/67VTfYQPAZdX564dpwJMlu"
     },
     {
       "added_at": "2021-07-29 16:46:05",

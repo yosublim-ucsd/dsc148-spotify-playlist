@@ -1,13 +1,109 @@
 {
-  "description": "The best new pop music by independent artists and labels. Cover: Tangerine Cassette Artwork by Paola Saliby",
-  "num_followers": 211223,
+  "description": "The best new pop music by independent artists and labels. Cover: La Rhonza Artwork by Paola Saliby",
+  "num_followers": 211294,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmkdQAAAAAAqbrsbhDW5OSUBKPYUtoAq",
+  "snapshot_id": "ZnJXwAAAAAAMI+I0pPOwxIC5GrHrQksy",
   "tracks": [
+    {
+      "added_at": "2024-06-19 04:00:00",
+      "album": {
+        "name": "Friends That Kiss",
+        "url": "https://open.spotify.com/album/4IqXE6wpoVYJvn3wb7Owg2"
+      },
+      "artists": [
+        {
+          "name": "La Rhonza",
+          "url": "https://open.spotify.com/artist/5YOg6PEOX2N8a7Rn0rBRjD"
+        }
+      ],
+      "duration_ms": 185782,
+      "name": "Friends That Kiss",
+      "url": "https://open.spotify.com/track/6yuLBqqPR9fs0lLWEPAXJx"
+    },
+    {
+      "added_at": "2024-06-19 04:00:00",
+      "album": {
+        "name": "flip phone",
+        "url": "https://open.spotify.com/album/0Kwwg43ZAWqx7W3QO7Baww"
+      },
+      "artists": [
+        {
+          "name": "PIAO",
+          "url": "https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb"
+        }
+      ],
+      "duration_ms": 124553,
+      "name": "flip phone",
+      "url": "https://open.spotify.com/track/0jLYbfU5qwk4ivxrE4sZUi"
+    },
+    {
+      "added_at": "2024-06-19 04:00:00",
+      "album": {
+        "name": "CRUSH",
+        "url": "https://open.spotify.com/album/3jZED8IBbTnmpGPRqBHDXC"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "CRUSH",
+      "url": "https://open.spotify.com/track/7fjno2HOtZoIEMAgcSwOyy"
+    },
+    {
+      "added_at": "2024-06-19 04:00:00",
+      "album": {
+        "name": "STAMINA",
+        "url": "https://open.spotify.com/album/17Jenz4JpbDtdrpFu1MdGA"
+      },
+      "artists": [
+        {
+          "name": "APOLLO STOWE",
+          "url": "https://open.spotify.com/artist/2LTi6jtnIvBGZl3BzaHdkt"
+        }
+      ],
+      "duration_ms": 177760,
+      "name": "STAMINA",
+      "url": "https://open.spotify.com/track/488OTJLTkfkZSaiRRC5Aza"
+    },
+    {
+      "added_at": "2024-06-19 04:00:00",
+      "album": {
+        "name": "TRUCE?",
+        "url": "https://open.spotify.com/album/1JeVht8TRLyjSiZMOaKO2P"
+      },
+      "artists": [
+        {
+          "name": "Zahraa",
+          "url": "https://open.spotify.com/artist/2dEne6fzRqdfeUce061gtr"
+        }
+      ],
+      "duration_ms": 124062,
+      "name": "TRUCE?",
+      "url": "https://open.spotify.com/track/1ZG1m6fra8Z4i9baZdZYKC"
+    },
+    {
+      "added_at": "2024-06-19 04:00:00",
+      "album": {
+        "name": "angry angry song",
+        "url": "https://open.spotify.com/album/1gffixbdgJrchljXRZC7h3"
+      },
+      "artists": [
+        {
+          "name": "wadfah",
+          "url": "https://open.spotify.com/artist/4VLJF0kk8HDMK7VPDctSzo"
+        }
+      ],
+      "duration_ms": 207209,
+      "name": "angry angry song",
+      "url": "https://open.spotify.com/track/1MCvRQM0VwqHrcEmHdd8QG"
+    },
     {
       "added_at": "2024-06-12 04:00:00",
       "album": {
@@ -875,22 +971,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Ocean Lights",
-        "url": "https://open.spotify.com/album/2lFKNUTk0SYLlscdXFuzD4"
-      },
-      "artists": [
-        {
-          "name": "Margo Raats",
-          "url": "https://open.spotify.com/artist/52XA4Ccc0k7wMeLkdEsju9"
-        }
-      ],
-      "duration_ms": 203157,
-      "name": "Ocean Lights",
-      "url": "https://open.spotify.com/track/5SxChhZAgflkWJJXhOoeW1"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Jool Wave",
         "url": "https://open.spotify.com/album/0lG11UlUDFGQIOyVaOW3ns"
       },
@@ -907,74 +987,6 @@
       "duration_ms": 169846,
       "name": "thin",
       "url": "https://open.spotify.com/track/0gTl3KCfmI8tk4h4ZeHac5"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "EX",
-        "url": "https://open.spotify.com/album/4mWqh7YtQpM8rKOYYTncig"
-      },
-      "artists": [
-        {
-          "name": "Cupnoodle",
-          "url": "https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2"
-        }
-      ],
-      "duration_ms": 208687,
-      "name": "EX",
-      "url": "https://open.spotify.com/track/2jHipIIvKgwU9mfqSnyO8u"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "I Can't Be Friends With You",
-        "url": "https://open.spotify.com/album/3VgSk5NW9DfQtYs1Bf7yN5"
-      },
-      "artists": [
-        {
-          "name": "Sara Sommerer",
-          "url": "https://open.spotify.com/artist/7t3a0pLRpE216teeNNhKpa"
-        }
-      ],
-      "duration_ms": 128223,
-      "name": "I Can't Be Friends With You",
-      "url": "https://open.spotify.com/track/6Clm36yYbpzT7Ea1D0TJYb"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Leave Tonight",
-        "url": "https://open.spotify.com/album/1IYBvgDWiy04zCbJXvUyoJ"
-      },
-      "artists": [
-        {
-          "name": "Niah Steiner",
-          "url": "https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7"
-        },
-        {
-          "name": "AcjnN",
-          "url": "https://open.spotify.com/artist/1tzPTUM1XKUck2s6TUh2o1"
-        }
-      ],
-      "duration_ms": 153495,
-      "name": "Leave Tonight",
-      "url": "https://open.spotify.com/track/00CxTPBETcBko91D5mkIDh"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Passenger Seat",
-        "url": "https://open.spotify.com/album/3NFGSk4DZw8ne96ApAJyqY"
-      },
-      "artists": [
-        {
-          "name": "Aim\u00e9e",
-          "url": "https://open.spotify.com/artist/6kiGJNxa3SvcQWfCrqL1sb"
-        }
-      ],
-      "duration_ms": 224132,
-      "name": "Passenger Seat",
-      "url": "https://open.spotify.com/track/1d0fuygCq7natWK8kelMoY"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1411,22 +1423,6 @@
       "duration_ms": 136379,
       "name": "Your Church",
       "url": "https://open.spotify.com/track/22FdRSyO4wP5WjiJGP957u"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Bettin' On You",
-        "url": "https://open.spotify.com/album/1pzmtKPMu2WnNFhD43D0IQ"
-      },
-      "artists": [
-        {
-          "name": "Jake Puliti",
-          "url": "https://open.spotify.com/artist/7ME8z9PsFOP7BuT9BxSphP"
-        }
-      ],
-      "duration_ms": 220728,
-      "name": "Bettin' On You",
-      "url": "https://open.spotify.com/track/5B5ZMsG57KqsnA5bFuTwGS"
     },
     {
       "added_at": "2024-05-22 11:00:00",

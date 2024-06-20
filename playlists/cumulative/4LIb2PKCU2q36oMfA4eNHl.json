@@ -1801,6 +1801,24 @@
     },
     {
       "album": {
+        "name": "Show Me How",
+        "url": "https://open.spotify.com/album/4RSRc0uKcujiW0Xesvriz5"
+      },
+      "artists": [
+        {
+          "name": "Sean Blanc",
+          "url": "https://open.spotify.com/artist/5zOgJO7Uyh5ALdB7Ts9vxt"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243816,
+      "name": "Show Me How",
+      "url": "https://open.spotify.com/track/12dXMqsOXUtE9IBtUDSOvt"
+    },
+    {
+      "album": {
         "name": "Miracles",
         "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
       },
@@ -2120,7 +2138,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 271533,
       "name": "Walking Slowly",
       "url": "https://open.spotify.com/track/59ALSzlla8jAzqD5Dhozoo"

@@ -1,13 +1,213 @@
 {
-  "description": "The best new music by independent artists and labels, featuring Catalina Ammaturo. Updates every Wednesday.",
-  "num_followers": 176240,
+  "description": "The best new music by independent artists and labels, featuring Venesti, Goyo y Slow Mike. Updates every Wednesday.",
+  "num_followers": 176296,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmkdQAAAAAAgBh4M6paYX0eJOGwsl+Fe",
+  "snapshot_id": "ZnNZ6wAAAAD4EgkbnWYzG3SqrAXC5YKu",
   "tracks": [
+    {
+      "added_at": "2024-06-19 22:21:31",
+      "album": {
+        "name": "Anestesia",
+        "url": "https://open.spotify.com/album/1xbZVMAqB3YL2HfXZyMOfb"
+      },
+      "artists": [
+        {
+          "name": "Venesti",
+          "url": "https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU"
+        },
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        },
+        {
+          "name": "Slow Mike",
+          "url": "https://open.spotify.com/artist/25ffNKG1EAXf8RBN88lXKH"
+        }
+      ],
+      "duration_ms": 165856,
+      "name": "ANESTESIA",
+      "url": "https://open.spotify.com/track/0FBYr7mYNWv4p1F6KPBisj"
+    },
+    {
+      "added_at": "2024-06-19 22:21:31",
+      "album": {
+        "name": "Putas Canciones",
+        "url": "https://open.spotify.com/album/2bU4tT0BJEtNw3ceVy9gfS"
+      },
+      "artists": [
+        {
+          "name": "Joven Tom",
+          "url": "https://open.spotify.com/artist/1JSr283fyctRV2R4OER9gP"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Putas Canciones",
+      "url": "https://open.spotify.com/track/2m6bCSHyOz0p7PPsukKSbW"
+    },
+    {
+      "added_at": "2024-06-19 22:21:31",
+      "album": {
+        "name": "La Hora",
+        "url": "https://open.spotify.com/album/4UvrIAAfbuFmCjQKwjINsF"
+      },
+      "artists": [
+        {
+          "name": "Baskiat",
+          "url": "https://open.spotify.com/artist/72L1NTsOwE8ZZ6kxll4UwU"
+        }
+      ],
+      "duration_ms": 171958,
+      "name": "La Hora",
+      "url": "https://open.spotify.com/track/3Idym0mboYYDiTFmnbyXOt"
+    },
+    {
+      "added_at": "2024-06-19 22:21:31",
+      "album": {
+        "name": "En Ti",
+        "url": "https://open.spotify.com/album/0wP39KkApZl4Q4uPDeYZBO"
+      },
+      "artists": [
+        {
+          "name": "Branbel",
+          "url": "https://open.spotify.com/artist/1VmUUb7wBfRQKnq1hgVaGS"
+        },
+        {
+          "name": "La Nube",
+          "url": "https://open.spotify.com/artist/18bNOAqrecWlPlVeh4FmWH"
+        }
+      ],
+      "duration_ms": 194375,
+      "name": "En Ti",
+      "url": "https://open.spotify.com/track/24eWtnN3hC3P3S6sjur6o1"
+    },
+    {
+      "added_at": "2024-06-19 22:21:31",
+      "album": {
+        "name": "WHO\u2019S DAT",
+        "url": "https://open.spotify.com/album/0ILpxO0hTndMWDuGOdcGRS"
+      },
+      "artists": [
+        {
+          "name": "Za111",
+          "url": "https://open.spotify.com/artist/039p6t3gBN0Igimy0DzFuk"
+        },
+        {
+          "name": "Manu Oliva",
+          "url": "https://open.spotify.com/artist/5VEOXoMPXBZNibIUOh7i1P"
+        },
+        {
+          "name": "JOD",
+          "url": "https://open.spotify.com/artist/2mMS62SM6XQJhYD7KJndgl"
+        }
+      ],
+      "duration_ms": 118000,
+      "name": "WHO\u2019S DAT",
+      "url": "https://open.spotify.com/track/2LMb4vJ3lffV8vtMT2Ovsg"
+    },
+    {
+      "added_at": "2024-06-19 22:21:31",
+      "album": {
+        "name": "UNIVERSO",
+        "url": "https://open.spotify.com/album/5THlOcpUpZNkG8PXSZPUO6"
+      },
+      "artists": [
+        {
+          "name": "Mita",
+          "url": "https://open.spotify.com/artist/3Vyw4TdOwnqclNlcvAeeSS"
+        }
+      ],
+      "duration_ms": 180645,
+      "name": "UNIVERSO",
+      "url": "https://open.spotify.com/track/4x3V9rTsgWQrlLOkC8w2K7"
+    },
+    {
+      "added_at": "2024-06-19 22:21:31",
+      "album": {
+        "name": "Pretty",
+        "url": "https://open.spotify.com/album/4oAtaT9lz8LYrlI3uzjtwu"
+      },
+      "artists": [
+        {
+          "name": "America Fendi",
+          "url": "https://open.spotify.com/artist/1uPnT6ULj8mYrkKsSwLadZ"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/3wPN96N1mpOa4Q5T4Oi7rW"
+    },
+    {
+      "added_at": "2024-06-19 22:21:31",
+      "album": {
+        "name": "SAL",
+        "url": "https://open.spotify.com/album/7EnUrRK3snJYXn19NOIdQh"
+      },
+      "artists": [
+        {
+          "name": "MAGNA",
+          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
+        },
+        {
+          "name": "Francely Abreuu",
+          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
+        }
+      ],
+      "duration_ms": 201355,
+      "name": "SAL",
+      "url": "https://open.spotify.com/track/4BCkyORz0JfIUXssSeH6da"
+    },
+    {
+      "added_at": "2024-06-19 22:21:31",
+      "album": {
+        "name": "M\u00fasica Gigante (Anti-Anti)",
+        "url": "https://open.spotify.com/album/7Dh00B989MlLpQUpLxyabG"
+      },
+      "artists": [
+        {
+          "name": "llilli",
+          "url": "https://open.spotify.com/artist/4QXDj9kt5lBanHAtDi6yK0"
+        }
+      ],
+      "duration_ms": 293738,
+      "name": "M\u00fasica Gigante (Anti-Anti)",
+      "url": "https://open.spotify.com/track/0SgoBed7vjSKnYecYl5rOw"
+    },
+    {
+      "added_at": "2024-06-19 22:21:31",
+      "album": {
+        "name": "EN EL MISMO LUGAR",
+        "url": "https://open.spotify.com/album/0aNzPJUm5O1BjrCjWfp5ml"
+      },
+      "artists": [
+        {
+          "name": "Bilbao",
+          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
+        }
+      ],
+      "duration_ms": 167250,
+      "name": "EN EL MISMO LUGAR",
+      "url": "https://open.spotify.com/track/1ypOiHQBLeKpCge3rI2Qsq"
+    },
+    {
+      "added_at": "2024-06-19 22:21:31",
+      "album": {
+        "name": "Cielo",
+        "url": "https://open.spotify.com/album/4qY2ES8tfdwjnbOV2UdBJA"
+      },
+      "artists": [
+        {
+          "name": "Johann Vera",
+          "url": "https://open.spotify.com/artist/3LP4XtcdBxAaO3ZevTTppB"
+        }
+      ],
+      "duration_ms": 186366,
+      "name": "Cielo",
+      "url": "https://open.spotify.com/track/3bvjZlJsB3qkjieaPMZnrX"
+    },
     {
       "added_at": "2024-06-12 04:00:00",
       "album": {
@@ -319,22 +519,6 @@
     {
       "added_at": "2024-06-12 04:00:00",
       "album": {
-        "name": "\u96e8\u5b63 Lluvia",
-        "url": "https://open.spotify.com/album/0w4nGObLg86c1OR4HxZjj3"
-      },
-      "artists": [
-        {
-          "name": "Ren Kai",
-          "url": "https://open.spotify.com/artist/4ZUU6PKIrQET7oGxQ0r5zL"
-        }
-      ],
-      "duration_ms": 155665,
-      "name": "\u96e8\u5b63 Lluvia",
-      "url": "https://open.spotify.com/track/1VieL9tKlZ6MOdrou5o0tz"
-    },
-    {
-      "added_at": "2024-06-12 04:00:00",
-      "album": {
         "name": "Indestructible",
         "url": "https://open.spotify.com/album/33qgwYlfTxvfSjp7Amxgac"
       },
@@ -443,22 +627,6 @@
     {
       "added_at": "2024-06-12 04:00:00",
       "album": {
-        "name": "tu piel me ha besado",
-        "url": "https://open.spotify.com/album/0XWAMxQJV9RimKNpW0L5Mx"
-      },
-      "artists": [
-        {
-          "name": "Cariatydes",
-          "url": "https://open.spotify.com/artist/21D4leQCTCqoikrOT6V84W"
-        }
-      ],
-      "duration_ms": 222702,
-      "name": "tu piel me ha besado",
-      "url": "https://open.spotify.com/track/4ThDVnZgvk7qFL7vjTEZ5M"
-    },
-    {
-      "added_at": "2024-06-12 04:00:00",
-      "album": {
         "name": "Expl\u00edcame",
         "url": "https://open.spotify.com/album/20vMPSmGrM1WOEAAyqRKVA"
       },
@@ -471,38 +639,6 @@
       "duration_ms": 157590,
       "name": "Expl\u00edcame",
       "url": "https://open.spotify.com/track/5Ou7XW9sDxJhlxaBz8ruaY"
-    },
-    {
-      "added_at": "2024-06-12 04:00:00",
-      "album": {
-        "name": "A mi manera",
-        "url": "https://open.spotify.com/album/3d6gvExEguHtp0vrNIOB3d"
-      },
-      "artists": [
-        {
-          "name": "Liana Malva",
-          "url": "https://open.spotify.com/artist/56plP53XqguNv08lDJUeTt"
-        }
-      ],
-      "duration_ms": 157698,
-      "name": "A mi manera",
-      "url": "https://open.spotify.com/track/7aMFjt1GwfWBTKJfFgATQM"
-    },
-    {
-      "added_at": "2024-06-12 04:00:00",
-      "album": {
-        "name": "LUNA",
-        "url": "https://open.spotify.com/album/6TqhxfUtpLc0tulhRZo4DX"
-      },
-      "artists": [
-        {
-          "name": "Twin Seas",
-          "url": "https://open.spotify.com/artist/7iMfIbYzWN2r9FJSzSiVHE"
-        }
-      ],
-      "duration_ms": 193821,
-      "name": "LUNA",
-      "url": "https://open.spotify.com/track/1Z9yDCWUObVHRLgtuLGyVU"
     },
     {
       "added_at": "2024-06-12 04:00:00",
@@ -611,38 +747,6 @@
       "duration_ms": 168038,
       "name": "Videocall (feat. Billy Miamor)",
       "url": "https://open.spotify.com/track/7vXGund4Dd89TqBEpW15r1"
-    },
-    {
-      "added_at": "2024-06-12 04:00:00",
-      "album": {
-        "name": "Make It Happen",
-        "url": "https://open.spotify.com/album/48FYGoGuXIukbmmvcEvxuJ"
-      },
-      "artists": [
-        {
-          "name": "Oblivion's Mighty Trash",
-          "url": "https://open.spotify.com/artist/3UKTWNfZH3dyR2hI1rNtUH"
-        },
-        {
-          "name": "Isaac S.A",
-          "url": "https://open.spotify.com/artist/0QNBeVFXhd6ikB88erZU1j"
-        },
-        {
-          "name": "Adam Walsh",
-          "url": "https://open.spotify.com/artist/23ozeFYmYIu8TdzcHnfeVI"
-        },
-        {
-          "name": "Barbatos Beats",
-          "url": "https://open.spotify.com/artist/7y3eSJimYcBJfVdySzewCh"
-        },
-        {
-          "name": "Diavlitx",
-          "url": "https://open.spotify.com/artist/2U1jqnxlnyZcVlezYQBb5g"
-        }
-      ],
-      "duration_ms": 244129,
-      "name": "Make It Happen",
-      "url": "https://open.spotify.com/track/0D9OCKH4jmFzzh9Ob3EbFB"
     },
     {
       "added_at": "2024-06-12 04:00:00",
@@ -807,26 +911,6 @@
       "duration_ms": 175248,
       "name": "Enamorada De La Luna",
       "url": "https://open.spotify.com/track/6LLEUU6BhIC1c1NijmfaSq"
-    },
-    {
-      "added_at": "2024-06-12 04:00:00",
-      "album": {
-        "name": "Al lado tuyo",
-        "url": "https://open.spotify.com/album/08cAzHBSRUQuwZKQaNP6bn"
-      },
-      "artists": [
-        {
-          "name": "Denas & Miut",
-          "url": "https://open.spotify.com/artist/08YpjO7782fC1b4GpR0LsQ"
-        },
-        {
-          "name": "Josearmen",
-          "url": "https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf"
-        }
-      ],
-      "duration_ms": 176106,
-      "name": "Al lado tuyo",
-      "url": "https://open.spotify.com/track/3iP9IvNBnqumfJ5hxhsPvV"
     },
     {
       "added_at": "2024-06-12 04:00:00",

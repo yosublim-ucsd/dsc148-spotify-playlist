@@ -4541,6 +4541,28 @@
     },
     {
       "album": {
+        "name": "Encontrin 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4oZHsyeGM0RGSJlfGZWeo9"
+      },
+      "artists": [
+        {
+          "name": "Di Prop\u00f3sito",
+          "url": "https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7"
+        },
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166210,
+      "name": "Pede Pra God - Ao Vivo",
+      "url": "https://open.spotify.com/track/3JLofFb1MJSALGXBeDHbOQ"
+    },
+    {
+      "album": {
         "name": "Quem Sabe Faz ao Vivo",
         "url": "https://open.spotify.com/album/6JinqrxXHOFHFz0U8mprqp"
       },

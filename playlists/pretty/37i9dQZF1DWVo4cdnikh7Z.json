@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Indian 2",
-  "num_followers": 663105,
+  "num_followers": 663150,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zm+g9gAAAACa2MlvI3ARd768XnWBDdq8",
+  "snapshot_id": "ZnLMFgAAAADUgzUVJpU2/Lwj1js2PyvI",
   "tracks": [
     {
       "added_at": "2024-06-01 10:26:40",
@@ -58,6 +58,10 @@
         {
           "name": "Santhosh Narayanan",
           "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
         }
       ],
       "duration_ms": 162000,
@@ -255,6 +259,78 @@
       "duration_ms": 317945,
       "name": "Uyir Kaadhal",
       "url": "https://open.spotify.com/track/7aCKjZATYaiFNZbPqeTPFR"
+    },
+    {
+      "added_at": "2024-06-19 07:32:48",
+      "album": {
+        "name": "Lucky Baskhar (Tamil)",
+        "url": "https://open.spotify.com/album/0wpc5r6BPX98lHtBPGTxMA"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Anand Aravindakshan",
+          "url": "https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        },
+        {
+          "name": "Vignesh Ramakrishna",
+          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
+        }
+      ],
+      "duration_ms": 222206,
+      "name": "Kolladhey",
+      "url": "https://open.spotify.com/track/3pJ4xvGuBWN7a7qCeffiyu"
+    },
+    {
+      "added_at": "2024-06-19 12:16:22",
+      "album": {
+        "name": "Aasa Kooda (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/4AGLzJHGevDOnuHsQ0gxO5"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Sai Smriti",
+          "url": "https://open.spotify.com/artist/139FRgoVcJ82jogPttiWcc"
+        }
+      ],
+      "duration_ms": 215510,
+      "name": "Aasa Kooda - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/0MTdYgTZ25sLCO6kVnDoje"
+    },
+    {
+      "added_at": "2024-06-19 12:16:22",
+      "album": {
+        "name": "Raja Paya Onnu (From \"Maharaja\")",
+        "url": "https://open.spotify.com/album/0f9Rf1V5pAqIXklwKLBC4E"
+      },
+      "artists": [
+        {
+          "name": "Jithin Raj",
+          "url": "https://open.spotify.com/artist/2GkBjSH85M2uKGVtFL5eua"
+        },
+        {
+          "name": "Harshika Devanath",
+          "url": "https://open.spotify.com/artist/5PKcHZjlcaKjI9L1eDga3S"
+        },
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        }
+      ],
+      "duration_ms": 245371,
+      "name": "Raja Paya Onnu (From \"Maharaja\")",
+      "url": "https://open.spotify.com/track/5VMOzBI2NTZd2XBxOP5eWy"
     },
     {
       "added_at": "2024-06-01 10:26:40",
@@ -553,30 +629,6 @@
       "url": "https://open.spotify.com/track/4G3T13zkmKzsyVzE4WyNdE"
     },
     {
-      "added_at": "2024-06-17 02:33:21",
-      "album": {
-        "name": "Uyirin Ulle (From \"Iyal\")",
-        "url": "https://open.spotify.com/album/7KnlUNDQB6iiySd62BU8zN"
-      },
-      "artists": [
-        {
-          "name": "J.Dhivakar",
-          "url": "https://open.spotify.com/artist/3wRUC3bCa1yhgX9SWYq9h7"
-        },
-        {
-          "name": "MK Balaji",
-          "url": "https://open.spotify.com/artist/360ww4wc6sO9oobkZnaZIv"
-        },
-        {
-          "name": "Sruthi Kishan",
-          "url": "https://open.spotify.com/artist/3K5MaWE40O338Uu7R8Mm8E"
-        }
-      ],
-      "duration_ms": 208593,
-      "name": "Uyirin Ulle (From \"Iyal\")",
-      "url": "https://open.spotify.com/track/57e0s6wMvpJHu6UR3zN5mU"
-    },
-    {
       "added_at": "2024-05-09 12:43:43",
       "album": {
         "name": "Adangaatha Asuran (From \"Raayan\")",
@@ -727,34 +779,6 @@
       "duration_ms": 207499,
       "name": "Vintage Love (From \"Star\")",
       "url": "https://open.spotify.com/track/0lttJ9CNuTWRojQmg9ytla"
-    },
-    {
-      "added_at": "2024-05-07 08:40:53",
-      "album": {
-        "name": "Maalu Maalu (From \"Inga Naan Thaan Kingu\")",
-        "url": "https://open.spotify.com/album/7nY0LfYowNjgHUWy3kHS9x"
-      },
-      "artists": [
-        {
-          "name": "D. Imman",
-          "url": "https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0"
-        },
-        {
-          "name": "Nakash Aziz",
-          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
-        },
-        {
-          "name": "Anthakudi Ilayaraja",
-          "url": "https://open.spotify.com/artist/1admShgbxLv5sOpHseFd0d"
-        },
-        {
-          "name": "Shweta Mohan",
-          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
-        }
-      ],
-      "duration_ms": 235312,
-      "name": "Maalu Maalu (From \"Inga Naan Thaan Kingu\")",
-      "url": "https://open.spotify.com/track/78FBWpi0DaGa705ueAPpGj"
     },
     {
       "added_at": "2024-06-05 12:15:07",
@@ -1225,30 +1249,6 @@
       "url": "https://open.spotify.com/track/6JKIgfp2QZrz87kPKy51tP"
     },
     {
-      "added_at": "2024-05-09 11:12:02",
-      "album": {
-        "name": "Ripupbury",
-        "url": "https://open.spotify.com/album/1h1S99tEUd7zRF9BBeSsmV"
-      },
-      "artists": [
-        {
-          "name": "Diwacara Thiyagarajan",
-          "url": "https://open.spotify.com/artist/45WgNFEJv1Bt1Cr3YQPYE7"
-        },
-        {
-          "name": "Shibi Srinivasan",
-          "url": "https://open.spotify.com/artist/5MDIxdYBWgk1ZTcvb3GKf5"
-        },
-        {
-          "name": "Sireesha Bhagavatula",
-          "url": "https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS"
-        }
-      ],
-      "duration_ms": 397214,
-      "name": "En Uyire",
-      "url": "https://open.spotify.com/track/0StzYCdkmDtO8JoxmdwJSb"
-    },
-    {
       "added_at": "2024-05-06 09:03:18",
       "album": {
         "name": "Star (Original Motion Picture Soundtrack)",
@@ -1605,58 +1605,6 @@
       "url": "https://open.spotify.com/track/4lIOKV52mXIsm8P6jjo1Ja"
     },
     {
-      "added_at": "2024-04-05 02:26:44",
-      "album": {
-        "name": "Inspector Rishi (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/5V54iqpQ0JjHbuT2P9AvTq"
-      },
-      "artists": [
-        {
-          "name": "Ashwath",
-          "url": "https://open.spotify.com/artist/0ZME1dtaOU96fNDeTTAnnM"
-        },
-        {
-          "name": "Bagavathy P K",
-          "url": "https://open.spotify.com/artist/0dFN2csM7engJcblm8Lx8H"
-        },
-        {
-          "name": "Kapil Kapilan",
-          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
-        },
-        {
-          "name": "Pop Shalini",
-          "url": "https://open.spotify.com/artist/5wXcLr5v9cv5IAPkcFBvBT"
-        }
-      ],
-      "duration_ms": 196135,
-      "name": "Kannadi Kadhal",
-      "url": "https://open.spotify.com/track/6MTfuJdrBLef8ykLXlFlao"
-    },
-    {
-      "added_at": "2024-04-10 06:42:43",
-      "album": {
-        "name": "Sleeping Beauty (From \"DeAr\")",
-        "url": "https://open.spotify.com/album/4FxcBtHWk1FDiak4AtxmE6"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Santhosh Hariharan",
-          "url": "https://open.spotify.com/artist/4nWXekqN93Tx8hJUJwR66n"
-        },
-        {
-          "name": "Arivu",
-          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
-        }
-      ],
-      "duration_ms": 290769,
-      "name": "Sleeping Beauty (From \"DeAr\")",
-      "url": "https://open.spotify.com/track/6iAPCtPNxbMmvJTZ7FaJdj"
-    },
-    {
       "added_at": "2024-04-12 10:11:22",
       "album": {
         "name": "Sollu (From \"VM ORIGINALS - Season 1\")",
@@ -1717,46 +1665,6 @@
       "url": "https://open.spotify.com/track/2i7hOM9vywqMogW7HU3z2F"
     },
     {
-      "added_at": "2024-04-02 09:14:37",
-      "album": {
-        "name": "Sun Light (From \"Pon Ondru Kanden\")",
-        "url": "https://open.spotify.com/album/6svTGxjVofGiZ86GFy38g7"
-      },
-      "artists": [
-        {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
-        }
-      ],
-      "duration_ms": 245997,
-      "name": "Sun Light (From \"Pon Ondru Kanden\")",
-      "url": "https://open.spotify.com/track/20pr9k8iMJ8j9VjrwhdqDE"
-    },
-    {
-      "added_at": "2024-04-03 12:01:06",
-      "album": {
-        "name": "Thaniya Naan (From \"Romeo\")",
-        "url": "https://open.spotify.com/album/69c6bYrwP2Fw4sOlYQlctW"
-      },
-      "artists": [
-        {
-          "name": "Barath Dhanasekar",
-          "url": "https://open.spotify.com/artist/67sk0ISBwhavYRmJxZTWqD"
-        },
-        {
-          "name": "Vijay Antony",
-          "url": "https://open.spotify.com/artist/6CtYzQvENTdGq5LPPsePdV"
-        },
-        {
-          "name": "Hemanth Prakash",
-          "url": "https://open.spotify.com/artist/7cdq9Wyym3pqrZjCgqxtKU"
-        }
-      ],
-      "duration_ms": 266068,
-      "name": "Thaniya Naan - From \"Romeo\"",
-      "url": "https://open.spotify.com/track/5HjR4AV5vSFi9CMAnQLsUX"
-    },
-    {
       "added_at": "2024-04-11 06:55:36",
       "album": {
         "name": "Bade Miyan Chote Miyan (Title Track - Tamil) [From \"Bade Miyan Chote Miyan - Tamil\"]",
@@ -1799,30 +1707,6 @@
       "duration_ms": 250363,
       "name": "Kolluraale (From \"Maanavan\")",
       "url": "https://open.spotify.com/track/6cCdiiRqpc3nIslPns7WtL"
-    },
-    {
-      "added_at": "2024-04-02 11:45:57",
-      "album": {
-        "name": "Hey Nainika (From \"Teenz\")",
-        "url": "https://open.spotify.com/album/5daBqYwMkpE43aS13p8FwV"
-      },
-      "artists": [
-        {
-          "name": "D. Imman",
-          "url": "https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0"
-        },
-        {
-          "name": "Adithya RK",
-          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
-        },
-        {
-          "name": "Shruti Haasan",
-          "url": "https://open.spotify.com/artist/06vOoTzj6cIac9FMbNXz9h"
-        }
-      ],
-      "duration_ms": 243901,
-      "name": "Hey Nainika (From \"Teenz\")",
-      "url": "https://open.spotify.com/track/0ZY0Q4nfMnMUuCDKDNeadn"
     },
     {
       "added_at": "2024-04-02 09:12:30",
@@ -1921,30 +1805,6 @@
       "url": "https://open.spotify.com/track/7mjF9JEihQK1BLh6NUy9op"
     },
     {
-      "added_at": "2024-03-26 03:39:25",
-      "album": {
-        "name": "Kalvan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4G91uQmyzwXGJ7555VJtct"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Kalyani Nair",
-          "url": "https://open.spotify.com/artist/38ICMLYuHXcYd3HrZiEdds"
-        },
-        {
-          "name": "Snehan",
-          "url": "https://open.spotify.com/artist/659048BXkqDjolFPtY1iA0"
-        }
-      ],
-      "duration_ms": 211500,
-      "name": "Pesaama Pesum Kannu",
-      "url": "https://open.spotify.com/track/0ykHd9ExmWC0I89QoRZo9V"
-    },
-    {
       "added_at": "2024-03-19 11:18:21",
       "album": {
         "name": "The Goat life - Aadujeevitham",
@@ -1967,30 +1827,6 @@
       "duration_ms": 359786,
       "name": "PATHIKATHA THEE",
       "url": "https://open.spotify.com/track/1th3PfaVxvE0IP4q2aAoyW"
-    },
-    {
-      "added_at": "2024-03-17 07:36:51",
-      "album": {
-        "name": "Azhagiya Puyale (From \"VM ORIGINALS - Season 1\")",
-        "url": "https://open.spotify.com/album/1UtsxjH73zzbhkyet7WVpj"
-      },
-      "artists": [
-        {
-          "name": "Vivek - Mervin",
-          "url": "https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW"
-        },
-        {
-          "name": "Krithika Nelson",
-          "url": "https://open.spotify.com/artist/6vgkpiszNB3NqHNrdHxXOm"
-        },
-        {
-          "name": "Harsha Vardhan",
-          "url": "https://open.spotify.com/artist/5HBsR2S0am7usrUZ5GVos1"
-        }
-      ],
-      "duration_ms": 211466,
-      "name": "Azhagiya Puyale (From \"VM ORIGINALS - Season 1\")",
-      "url": "https://open.spotify.com/track/0Cu8B23eCUGm1NTmCHsQPX"
     },
     {
       "added_at": "2024-03-12 17:12:41",
@@ -2059,30 +1895,6 @@
       "duration_ms": 234831,
       "name": "Vethala - From \"Romeo\"",
       "url": "https://open.spotify.com/track/6oV0qC54eVBfUSZs3CACyC"
-    },
-    {
-      "added_at": "2024-03-06 08:25:10",
-      "album": {
-        "name": "Konjam Pakkam Vaa (From \"JINN-The Pet\")",
-        "url": "https://open.spotify.com/album/6UG8i5b8MytlMEo6K5IDUa"
-      },
-      "artists": [
-        {
-          "name": "Vivek - Mervin",
-          "url": "https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW"
-        },
-        {
-          "name": "Sam Vishal",
-          "url": "https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd"
-        },
-        {
-          "name": "Sanjana Kalmanje",
-          "url": "https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ"
-        }
-      ],
-      "duration_ms": 253082,
-      "name": "Konjam Pakkam Vaa (From \"JINN-The Pet\")",
-      "url": "https://open.spotify.com/track/3l0BiJ9d4883WTokcv2Nsw"
     }
   ],
   "unique_name": "Latest Tamil",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,966 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,968 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 16 | [SuperPsycho](https://open.spotify.com/track/3ktTMuBXsUdxQIHzGv5PKp) | [AVOCADO BOYS](https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo) | [SuperPsycho](https://open.spotify.com/album/4qaipY3xPRSGSzReXPqlhz) | 3:19 |
 | 17 | [Green Tips](https://open.spotify.com/track/0aVKAqTVz8S0ly8itSC2QI) | [Doona](https://open.spotify.com/artist/5yxztrzs8fDGEQh8VSwSsp) | [Green Tips](https://open.spotify.com/album/4MwGFYSiD0Bucv6ECJJQ9I) | 4:28 |
 | 18 | [Fallin'](https://open.spotify.com/track/44hRxKIpU1787XpbuNy38e) | [BLACK BERRY TIMES](https://open.spotify.com/artist/4J8XXHJfFASivijCfQwIj7) | [After Rain Comes Sunshine](https://open.spotify.com/album/4vr6PMzY8qYcHuQ1F4DWgz) | 3:29 |
-| 19 | [Orange Moon feat\. 大塚 愛](https://open.spotify.com/track/6oer4NN5Na48RB73rKbSoL) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR), [大塚愛](https://open.spotify.com/artist/1XYOHvT665lTMNuBRMFoBc) | [Orange Moon feat\. 大塚 愛](https://open.spotify.com/album/3XKy1n7o1HIz5k52LiZw5e) | 4:12 |
+| 19 | [Orange Moon feat\. 大塚 愛](https://open.spotify.com/track/6oer4NN5Na48RB73rKbSoL) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR), [Ai Otsuka](https://open.spotify.com/artist/0q7KOr99MYmwKxivChxpSd) | [Orange Moon feat\. 大塚 愛](https://open.spotify.com/album/3XKy1n7o1HIz5k52LiZw5e) | 4:12 |
 | 20 | [Black or White?](https://open.spotify.com/track/3zwQBA4eghhpOvY0afEOug) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Black or White?](https://open.spotify.com/album/3SXdTmlIBdOs3KrFriCo0Q) | 3:34 |
 | 21 | [ディスコのともだち](https://open.spotify.com/track/1zTlCNbTeukR4OcQHscyWR) | [kim taehoon](https://open.spotify.com/artist/6qQHzLu9pasNUZGt1cdD1N) | [ディスコのともだち](https://open.spotify.com/album/0hqXilPSL0JwoobhJ7NI7M) | 2:43 |
 | 22 | [ナイスガイ](https://open.spotify.com/track/0sIQIyfxYsgVqQXYp1UcqG) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [ナイスガイ](https://open.spotify.com/album/3CEYBgjoA8TPgfPRsyl0PX) | 3:07 |

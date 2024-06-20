@@ -2,7 +2,7 @@
 
 ### [Indie India ](https://open.spotify.com/playlist/37i9dQZF1DX5q67ZpWyRrZ)
 
-> Best of the Indian Indie scene\. Cover \- Akanksha Bhandari
+> Best of the Indian Indie scene\. Cover \- Akshath
 
 249 songs - 14 hr 4 min
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover: Anirudh Bhola, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels in India. Cover: Inayat, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -936,6 +936,24 @@
       "duration_ms": 193943,
       "name": "Adhe Adhe",
       "url": "https://open.spotify.com/track/0RKq0PbBYjQHicJU2ZqKEH"
+    },
+    {
+      "album": {
+        "name": "Adhuri Batein",
+        "url": "https://open.spotify.com/album/4ET3UfAvdcmhC4cqLD4kXt"
+      },
+      "artists": [
+        {
+          "name": "Vpk",
+          "url": "https://open.spotify.com/artist/5V3RHOKu6rLpj0sZqqa0jF"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179923,
+      "name": "Adhuri Batein",
+      "url": "https://open.spotify.com/track/3rzWpPm92lhqcECqrTAatP"
     },
     {
       "album": {
@@ -3938,7 +3956,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 181997,
       "name": "Chupke Se",
       "url": "https://open.spotify.com/track/5L0MhrWySbzU5qgo0Zjhvo"
@@ -6086,6 +6104,24 @@
       "duration_ms": 208714,
       "name": "eventide",
       "url": "https://open.spotify.com/track/06roBuAt8alnZlmP1p39xF"
+    },
+    {
+      "album": {
+        "name": "Every Day Of The Week",
+        "url": "https://open.spotify.com/album/5dKGGBzebpJKQmAKu0oq9X"
+      },
+      "artists": [
+        {
+          "name": "Allan Martyr",
+          "url": "https://open.spotify.com/artist/4jHM2M3Jf8B8FScnoNcpp6"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144054,
+      "name": "Every Day Of The Week",
+      "url": "https://open.spotify.com/track/3TyUsgcoYBgfYKa9ShDng7"
     },
     {
       "album": {
@@ -10213,6 +10249,24 @@
     },
     {
       "album": {
+        "name": "Juie",
+        "url": "https://open.spotify.com/album/4AnxQDBjqfllJAOyraMZdM"
+      },
+      "artists": [
+        {
+          "name": "Zariya",
+          "url": "https://open.spotify.com/artist/1f7a91vYZcvnBsTRvxFff1"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Juie",
+      "url": "https://open.spotify.com/track/6C6jhsXMumyaJV1tl57or7"
+    },
+    {
+      "album": {
         "name": "June",
         "url": "https://open.spotify.com/album/2lKJmsDAjIQyx32wbQlx6a"
       },
@@ -10514,7 +10568,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 208918,
       "name": "Kaash Woh",
       "url": "https://open.spotify.com/track/45iZ9keREn6KqX8ZLJ3dVQ"
@@ -11258,6 +11312,24 @@
       "duration_ms": 205449,
       "name": "Karwaan",
       "url": "https://open.spotify.com/track/7rX6leu4GjfI4ETEk7na8T"
+    },
+    {
+      "album": {
+        "name": "Karwaan",
+        "url": "https://open.spotify.com/album/1ux8EJGSSN43jMkfEltN71"
+      },
+      "artists": [
+        {
+          "name": "Inaam",
+          "url": "https://open.spotify.com/artist/7ddf3Nw2raeTiFtZ4ebDdF"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174953,
+      "name": "Karwaan",
+      "url": "https://open.spotify.com/track/44omThOKpKQVLCgTmX2YAA"
     },
     {
       "album": {
@@ -12664,7 +12736,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 229072,
       "name": "Lamha",
       "url": "https://open.spotify.com/track/3yzz5JQ6Sj3N1Itb9HdDuC"
@@ -12869,6 +12941,46 @@
     },
     {
       "album": {
+        "name": "Savera",
+        "url": "https://open.spotify.com/album/5gkmTHGZTYetH7jKHcjzM8"
+      },
+      "artists": [
+        {
+          "name": "Parth Srivastava",
+          "url": "https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173057,
+      "name": "Le Chal Zara",
+      "url": "https://open.spotify.com/track/508BHouq8Fh0WWWtI8Dr5r"
+    },
+    {
+      "album": {
+        "name": "Le Ja Re",
+        "url": "https://open.spotify.com/album/68Exb1as3S5FHYM0yQUUB6"
+      },
+      "artists": [
+        {
+          "name": "Tapas Kalai",
+          "url": "https://open.spotify.com/artist/0guDWAQ2Bj73Q8wIv38BKq"
+        },
+        {
+          "name": "Soultrax",
+          "url": "https://open.spotify.com/artist/3uTKGSzD1RzhEPhvWkg7fA"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238758,
+      "name": "Le Ja Re",
+      "url": "https://open.spotify.com/track/4b0zJze6X4NL3s1N0TT729"
+    },
+    {
+      "album": {
         "name": "Le Jana",
         "url": "https://open.spotify.com/album/5N9VCUXxmRwCXzn5esmaj8"
       },
@@ -12910,6 +13022,28 @@
       "duration_ms": 158980,
       "name": "Leave This Place",
       "url": "https://open.spotify.com/track/3X7PbO3FNSH17MSatZnN2E"
+    },
+    {
+      "album": {
+        "name": "Leave You Never",
+        "url": "https://open.spotify.com/album/56F8AzNCQ9ONT6kysD3GQo"
+      },
+      "artists": [
+        {
+          "name": "ARPYT",
+          "url": "https://open.spotify.com/artist/0HBksrJWeRdO2PSyVclqOB"
+        },
+        {
+          "name": "Shantanu Mundra",
+          "url": "https://open.spotify.com/artist/642LplJyeWGWM0Keefj6Nd"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180972,
+      "name": "Leave You Never",
+      "url": "https://open.spotify.com/track/4ONqlAUliAhR4LBda3TRhb"
     },
     {
       "album": {
@@ -14222,7 +14356,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 217021,
       "name": "Mehram",
       "url": "https://open.spotify.com/track/27vGIIyp5OyOLSdZWnJYiH"
@@ -14244,6 +14378,24 @@
       "duration_ms": 136666,
       "name": "Mein Akela Kaafi hu",
       "url": "https://open.spotify.com/track/06cSxldQoKZOJER2asXap9"
+    },
+    {
+      "album": {
+        "name": "Mela",
+        "url": "https://open.spotify.com/album/2jzwy8pee6D6B2OG8ihCTQ"
+      },
+      "artists": [
+        {
+          "name": "Inayat",
+          "url": "https://open.spotify.com/artist/5jbBzjNgAiqpsNEOmOP448"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300560,
+      "name": "Mela",
+      "url": "https://open.spotify.com/track/1tuZpWlT7D0ZfJjmHT43FJ"
     },
     {
       "album": {
@@ -14458,7 +14610,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 168040,
       "name": "Meri",
       "url": "https://open.spotify.com/track/4R9klqF2RWEmfOYqg02rFI"
@@ -16218,7 +16370,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 200000,
       "name": "Overrated",
       "url": "https://open.spotify.com/track/5lSUuHikeDyhMJlWHLfDPi"
@@ -17482,7 +17634,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 215419,
       "name": "Rang Chadheya",
       "url": "https://open.spotify.com/track/0pHVpjpyZg3rI6e2AWYQFm"
@@ -18658,6 +18810,24 @@
       "duration_ms": 195015,
       "name": "Sahib-E-Dil",
       "url": "https://open.spotify.com/track/0g0XGGRkVBxxBrYYfLonre"
+    },
+    {
+      "album": {
+        "name": "Savera",
+        "url": "https://open.spotify.com/album/5gkmTHGZTYetH7jKHcjzM8"
+      },
+      "artists": [
+        {
+          "name": "Parth Srivastava",
+          "url": "https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236058,
+      "name": "Sahiba",
+      "url": "https://open.spotify.com/track/0tYEiXI2xDfbGlmVkqgjgg"
     },
     {
       "album": {
@@ -21472,7 +21642,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 174857,
       "name": "Thoda Thoda",
       "url": "https://open.spotify.com/track/3qJ5MZjsMKtIvTiGyArEcc"
@@ -21844,7 +22014,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-20",
       "duration_ms": 223894,
       "name": "Tu Aaram Hai",
       "url": "https://open.spotify.com/track/7b35mI8DSE2AFlANWLsuvU"

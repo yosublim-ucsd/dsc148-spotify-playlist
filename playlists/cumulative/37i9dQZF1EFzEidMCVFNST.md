@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-376 songs - 17 hr 54 min
+377 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [Para de Me Assistir \- Ao Vivo](https://open.spotify.com/track/4GF7CEf70lzZQwdYaiiCpY) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Ao Vivo em Fortaleza](https://open.spotify.com/album/3M5e9wnEYLRGlavA36KwAr) | 2:53 | 2024-01-29 |  |
 | [Paredão](https://open.spotify.com/track/7BQ1caXyyykx49tKtFj5X6) | [Talis e Welinton](https://open.spotify.com/artist/1NBkKa2SgVP0uirl5vAB8t), [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Paredão](https://open.spotify.com/album/1Qz7k0o2W0D1EPTh0fHcRC) | 2:55 | 2024-03-26 |  |
 | [Passa Amanhã \- Ao Vivo](https://open.spotify.com/track/3xJIKx1NVZNNRTQgzAUszl) | [Aviões do Forró](https://open.spotify.com/artist/4mnhyGRAuExTL4J0soT4za) | [Aviões Fantasy \(Ao Vivo\)](https://open.spotify.com/album/1qOhPJ43PrzQMkpUGqNAcy) | 2:42 | 2024-01-29 |  |
+| [Pede Pra God \- Ao Vivo](https://open.spotify.com/track/3JLofFb1MJSALGXBeDHbOQ) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7), [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Encontrin 2 \(Ao Vivo\)](https://open.spotify.com/album/4oZHsyeGM0RGSJlfGZWeo9) | 2:46 | 2024-06-19 |  |
 | [Pesadelo Bobo \- Ao Vivo](https://open.spotify.com/track/4UlbyLs9juGaiyQ9rCCrKF) | [Mariana & Mateus](https://open.spotify.com/artist/2YCkwNYGevLmmLsbad5lsl) | [Quem Sabe Faz ao Vivo](https://open.spotify.com/album/6JinqrxXHOFHFz0U8mprqp) | 2:56 | 2024-01-29 |  |
 | [Pesquisa no Google \(feat\. Henrique & Diego\) \- Ao Vivo](https://open.spotify.com/track/1xg3EbmhAr1cfNOA55pvKH) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5), [Henrique & Diego](https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun) | [Misturadin 2 \(Ao Vivo\)](https://open.spotify.com/album/66bqfoGm8q3oh9xEOeoX7t) | 2:43 | 2024-01-29 |  |
 | [Petit Gateau \- Ao Vivo](https://open.spotify.com/track/3x3E9rYIFnvtHprtojqShL) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose Ao Vivo](https://open.spotify.com/album/52rIL56BICJZfbDlDZBCci) | 2:57 | 2024-03-26 |  |

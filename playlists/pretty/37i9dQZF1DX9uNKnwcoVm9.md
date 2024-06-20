@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 
 > Un playlist que te llena de esperanza\.  ¡Con fe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,979 likes - 100 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,046 likes - 100 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 59 | [A Ti Sea La Gloria \(feat\. Marcela Gandara\)](https://open.spotify.com/track/4gkqlpX6YJXJeMICepszZe) | [Abel Zavala](https://open.spotify.com/artist/0UH4eoqwQgADwRoaKtEKc1), [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [Un Brote De Adoracion 2](https://open.spotify.com/album/3XWnMTcgXfhxG4MalGMbIo) | 5:05 |
 | 60 | [Creo En Ti](https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy) | 7:03 |
 | 61 | [Lo Unico Que Quiero](https://open.spotify.com/track/1HCKcrifeQmtEXwEqfXcjD) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [Amanece \(Deluxe Edition\)](https://open.spotify.com/album/6Cc1JTOGWY55Fz5EVuadDy) | 7:27 |
-| 62 | [Me Dice Que Me Ama](https://open.spotify.com/track/4asTccqkv3G7KSKdy7QGED) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [El Aire De Tu Casa](https://open.spotify.com/album/0lkkoUlHus6JVtt5RUlPqX) | 4:01 |
+| 62 | [Ayer Te Vi..\. Fue Mas Claro Que La Luna](https://open.spotify.com/track/57ifvUopbuDoMNpgSD6PzV) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Ayer Te Vi...Fue Más Claro Que La Luna](https://open.spotify.com/album/2byRtlvsOEAYvl22FaUR0m) | 3:52 |
 | 63 | [Precioso Jesús](https://open.spotify.com/track/3YVVAZB6NvCzzrjDandHkm) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Me Has Hecho Libre](https://open.spotify.com/album/1flyahsdmJyAmkKr6q45ZI) | 6:20 |
 | 64 | [La Ultima Palabra](https://open.spotify.com/track/2FpFT8olvwhsGoeiEKpT36) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Vivo para Ti](https://open.spotify.com/album/5wRPQ3vuSsJOd4qCcbszFy) | 4:23 |
 | 65 | [Gracias Señor](https://open.spotify.com/track/6fVAVie4PzmKAoMAZBGtz1) | [Tony Pérez](https://open.spotify.com/artist/1guiKPfkZCVKA8GoFQS4oJ) | [He Visto Su Gloria](https://open.spotify.com/album/2KNED3ap9Rs4ytPjEdusv6) | 5:23 |
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 68 | [Hay Una Fuente En Mí \- Live](https://open.spotify.com/track/5tTLHg3Q35lzFLQ9KmtD6G) | [Palabra en Acción](https://open.spotify.com/artist/4umfGspINdkBEwCjc1f5Xw) | [Santo Es El Señor](https://open.spotify.com/album/0e7NveKGulQA4fkVBOoDeq) | 4:33 |
 | 69 | [Hermoso \(feat\. Coalo Zamorano\)](https://open.spotify.com/track/0XZHCkROGGQ2Ig30ApKVLP) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Jesús Salva](https://open.spotify.com/album/40uXjgQEurDWfvxlKE85cX) | 5:35 |
 | 70 | [He Visto Su Gloria](https://open.spotify.com/track/6mBTNoOs9cqcuqEmZZopVz) | [Tony Pérez](https://open.spotify.com/artist/1guiKPfkZCVKA8GoFQS4oJ) | [He Visto Su Gloria](https://open.spotify.com/album/2KNED3ap9Rs4ytPjEdusv6) | 6:41 |
-| 71 | [Ayer Te Vi..\. Fue Mas Claro Que La Luna](https://open.spotify.com/track/57ifvUopbuDoMNpgSD6PzV) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Ayer Te Vi...Fue Más Claro Que La Luna](https://open.spotify.com/album/2byRtlvsOEAYvl22FaUR0m) | 3:52 |
+| 71 | [Me Dice Que Me Ama](https://open.spotify.com/track/4asTccqkv3G7KSKdy7QGED) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [El Aire De Tu Casa](https://open.spotify.com/album/0lkkoUlHus6JVtt5RUlPqX) | 4:01 |
 | 72 | [El Señor es mi pastor](https://open.spotify.com/track/6dzzAzS051TUrSE0iSKO2C) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Eres Todopoderoso](https://open.spotify.com/album/5ttRWWt0SfHgNaOX1q4aHn) | 4:18 |
 | 73 | [Soy Un Altar](https://open.spotify.com/track/1lmPSE7QyIA2XKSYMUtlix) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy) | 5:30 |
 | 74 | [En paz](https://open.spotify.com/track/3aBwdmDksm7NMKZ6uEXmn2) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [En paz](https://open.spotify.com/album/3VfcH4BqVBvktb9SUcQpPw) | 4:14 |

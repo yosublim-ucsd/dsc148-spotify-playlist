@@ -2,7 +2,7 @@
 
 ### [This Is Passion](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3MA8us)
 
-> This is Passion\. The essential tracks, all in one playlist.
+> This is Passion。アーティストの代表曲をひとつのプレイリストに。
 
 94 songs - 8 hr 46 min
 

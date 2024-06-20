@@ -515,22 +515,6 @@
     {
       "added_at": "2024-04-22 05:07:41",
       "album": {
-        "name": "BITCOIN",
-        "url": "https://open.spotify.com/album/4MVFegneeORtADZG9KOfYl"
-      },
-      "artists": [
-        {
-          "name": "TimeFeveR",
-          "url": "https://open.spotify.com/artist/3jswVC5CJkKeDp8ugPH42m"
-        }
-      ],
-      "duration_ms": 202062,
-      "name": "BITCOIN (prod. HOWOW)",
-      "url": "https://open.spotify.com/track/1nTYsc4p0VNzfywsy7gpBl"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
         "name": "Future Boy",
         "url": "https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 124263,
       "name": "Future Boy",
       "url": "https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm"
+    },
+    {
+      "added_at": "2024-04-22 05:07:41",
+      "album": {
+        "name": "BITCOIN",
+        "url": "https://open.spotify.com/album/4MVFegneeORtADZG9KOfYl"
+      },
+      "artists": [
+        {
+          "name": "TimeFeveR",
+          "url": "https://open.spotify.com/artist/3jswVC5CJkKeDp8ugPH42m"
+        }
+      ],
+      "duration_ms": 202062,
+      "name": "BITCOIN (prod. HOWOW)",
+      "url": "https://open.spotify.com/track/1nTYsc4p0VNzfywsy7gpBl"
     },
     {
       "added_at": "2024-04-22 05:07:41",

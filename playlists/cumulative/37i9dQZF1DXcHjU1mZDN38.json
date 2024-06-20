@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "VERSIONS OF FOREVER",
+        "url": "https://open.spotify.com/album/1La2A10EDwizsKONlKdfM8"
+      },
+      "artists": [
+        {
+          "name": "Matt Hansen",
+          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177338,
+      "name": "VERSIONS OF FOREVER",
+      "url": "https://open.spotify.com/track/3yDvu7hXpkWFyQSk3RSiD8"
+    },
+    {
+      "album": {
         "name": "WHERE YOU BELONG",
         "url": "https://open.spotify.com/album/03Aze7xPfXeowz9YW70OFO"
       },

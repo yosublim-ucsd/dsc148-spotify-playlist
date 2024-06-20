@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 22431,
+  "num_followers": 22429,
   "original_name": "Malaa Selection ",
   "owner": {
     "name": "Ma La",
     "url": "https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy"
   },
-  "snapshot_id": "AAAJG++FiJU/Em8aGOziEaf01/1sIDw8",
+  "snapshot_id": "AAAJHg6JPN1Io0JScDe2TEmTJuD2y0LH",
   "tracks": [
     {
       "added_at": "2024-05-21 14:17:01",
@@ -23,6 +23,42 @@
       "duration_ms": 211653,
       "name": "And 1",
       "url": "https://open.spotify.com/track/3jY03u0KugM4iPu0nKbJnn"
+    },
+    {
+      "added_at": "2024-06-19 08:17:38",
+      "album": {
+        "name": "Insane",
+        "url": "https://open.spotify.com/album/4or3mIae4pphsjbwzkLhyn"
+      },
+      "artists": [
+        {
+          "name": "Sikdope",
+          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
+        },
+        {
+          "name": "Bonka",
+          "url": "https://open.spotify.com/artist/3HIgSx8t7957kFVbwGrSRF"
+        }
+      ],
+      "duration_ms": 159433,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/6dnMgcSGyonR9LncwQTY6g"
+    },
+    {
+      "added_at": "2024-06-10 08:05:01",
+      "album": {
+        "name": "You Know",
+        "url": "https://open.spotify.com/album/5WIcuwJXPhM2iutKiMOcyQ"
+      },
+      "artists": [
+        {
+          "name": "Dario Nunez",
+          "url": "https://open.spotify.com/artist/2xjAjRLHCAgqazA88wwDLh"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "You Know",
+      "url": "https://open.spotify.com/track/1xB5gt3cDATes2HlVs3ICe"
     },
     {
       "added_at": "2024-05-05 09:31:55",
@@ -3615,22 +3651,6 @@
       "duration_ms": 378536,
       "name": "Work - Franky Rizardo Remix",
       "url": "https://open.spotify.com/track/7lBcBg4THRZgzj4zczNvOS"
-    },
-    {
-      "added_at": "2024-06-10 08:05:01",
-      "album": {
-        "name": "You Know",
-        "url": "https://open.spotify.com/album/5WIcuwJXPhM2iutKiMOcyQ"
-      },
-      "artists": [
-        {
-          "name": "Dario Nunez",
-          "url": "https://open.spotify.com/artist/2xjAjRLHCAgqazA88wwDLh"
-        }
-      ],
-      "duration_ms": 184761,
-      "name": "You Know",
-      "url": "https://open.spotify.com/track/1xB5gt3cDATes2HlVs3ICe"
     }
   ],
   "unique_name": "Malaa Selection ",

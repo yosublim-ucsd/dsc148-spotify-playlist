@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Emile Londonien
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,163 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,202 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 21 | [Navegar \- Live](https://open.spotify.com/track/5nbwpFBPfTVoZnEcSvTGpm) | [João Selva](https://open.spotify.com/artist/4RLh1owxLqSCGyVgm875AG), [Quatuor Una Corda](https://open.spotify.com/artist/60IEYqtZ36mUwb5b9jrV93) | [AO VIVO NA OPÉRA \(Live\)](https://open.spotify.com/album/6TaO5kJTXEu31H53HSUPWz) | 5:29 |
 | 22 | [The Otter Creek Incident](https://open.spotify.com/track/58EpbedY26g7KtHrA9krbe) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq), [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU) | [Remembrance](https://open.spotify.com/album/36cT6S2JKQLQWYRMXAe0SS) | 6:28 |
 | 23 | [Feelin' Groovy \- Live at Orange Lounge](https://open.spotify.com/track/5sktNvNCghzLvPUvLVyV7m) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Feelin' Groovy \(Live at Orange Lounge\)](https://open.spotify.com/album/6fpOW4T0Ik4pbNqmhUvsJM) | 4:29 |
-| 24 | [Ajala](https://open.spotify.com/track/7vRQeQcvAuf35fgKMou99k) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Ajala](https://open.spotify.com/album/1kAexOnDyQcgwvMM3mFkjX) | 4:21 |
+| 24 | [Ajala \- Single Edit](https://open.spotify.com/track/7vRQeQcvAuf35fgKMou99k) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Ajala](https://open.spotify.com/album/1kAexOnDyQcgwvMM3mFkjX) | 4:21 |
 | 25 | [Saturday Night \(Need You Now\)](https://open.spotify.com/track/7A7zkIt1RGMtyJNrjdY07o) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [1978](https://open.spotify.com/album/7uid7xXNdaEHU9AMOQpcwj) | 4:13 |
 | 26 | [Speed It Up](https://open.spotify.com/track/7LYWuhrY9Wxf80NQiqrwdu) | [LORD$](https://open.spotify.com/artist/1gR7fpk8xW1VGtSww5b4Vs) | [Speed It Up](https://open.spotify.com/album/7fvLATLPXXEcW36G42MeJa) | 3:05 |
 | 27 | [Coton Électrique](https://open.spotify.com/track/2UD2QBFpea28KBnHjDYAt5) | [Lucas Saint\-Cricq](https://open.spotify.com/artist/7AB1iv55p57sSmfa9d7GsI), [Tao Ehrlich](https://open.spotify.com/artist/0uL8d6x8Zs3xRiBE5Ti7Kh) | [Coton Électrique](https://open.spotify.com/album/2q3LydB5kjchVDxY3pD4jT) | 3:28 |

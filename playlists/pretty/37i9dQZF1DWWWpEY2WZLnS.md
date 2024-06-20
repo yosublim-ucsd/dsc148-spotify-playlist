@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpEY2WZLnS.md) - [plain]
 
 > Los éxitos del Dembow\. Portada: Jey One
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,097 likes - 50 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,529 likes - 50 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpEY2WZLnS.md) - [plain]
 | 10 | [Dicelo Si Tu la Vez](https://open.spotify.com/track/5HAZBGTTjn6RrnM7lN50vd) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Dicelo Si Tu la Vez](https://open.spotify.com/album/1Uv7JCmOkNI7DgfAPHarzj) | 2:05 |
 | 11 | [Cuando Prendo](https://open.spotify.com/track/0kMYyxS8Jo4230bAszKiqx) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji) | [Cuando Prendo](https://open.spotify.com/album/1IhUqxjmStJjQNWtGPEoUF) | 2:40 |
 | 12 | [Frename En El Party Sin Panty](https://open.spotify.com/track/3h4brm7AUNiZZ7wboMkWni) | [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI) | [Frename En El Party Sin Panty](https://open.spotify.com/album/4CwK9U1R8rBwNPavmuzbLY) | 1:52 |
-| 13 | [Envenenao](https://open.spotify.com/track/57WxIK1nE2SL9t2edmCNRB) | [Papera](https://open.spotify.com/artist/0L7AJNWmGtSjzASON8eTDW), [Chucky73](https://open.spotify.com/artist/5vSsavQTyozMcG5XDfmmX7) | [Envenenao](https://open.spotify.com/album/3ww7KDDQ1lQQyuvNGHszNY) | 2:05 |
+| 13 | [Envenenao](https://open.spotify.com/track/57WxIK1nE2SL9t2edmCNRB) | [Papera](https://open.spotify.com/artist/0L7AJNWmGtSjzASON8eTDW), [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE) | [Envenenao](https://open.spotify.com/album/3ww7KDDQ1lQQyuvNGHszNY) | 2:05 |
 | 14 | [Delincuente](https://open.spotify.com/track/2ROQe6QkIXODJRx0y8UjzV) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Delincuente](https://open.spotify.com/album/3QySYdsvCpB84Tvzkj24Ta) | 3:46 |
 | 15 | [Ma Buena](https://open.spotify.com/track/21HDTbRS49Oy3tWKg3JDAB) | [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL), [B One El Productor De Oro](https://open.spotify.com/artist/5dZ2dElcI4y3ADZvqERISZ) | [Ma Buena](https://open.spotify.com/album/5TBoLfHDZneDC1MqavM5s6) | 2:32 |
 | 16 | [Tetere](https://open.spotify.com/track/6EKQWjiQPniG7zwJ9Hhc4y) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Tetere](https://open.spotify.com/album/3eE9ricKdDv1I7kDK9Kn5m) | 1:57 |

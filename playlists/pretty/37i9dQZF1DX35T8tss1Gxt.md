@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover:  <a href="spotify:artist:7z7byOJ4AJnMY2NHE66ZpW">DOE</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,887 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,950 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 23 | [Abba](https://open.spotify.com/track/66TFMpPLlYScG4RLUu6QzC) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Ahjah](https://open.spotify.com/artist/0xJrfsF6PijLyi2HaSl8hX) | [Abba](https://open.spotify.com/album/1LxBxImqbqxU1XL5vVyngK) | 2:13 |
 | 24 | [Hands \- Radio Version](https://open.spotify.com/track/5YCbupYkaAOpNpWTVK7uXZ) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Hands](https://open.spotify.com/album/0JOUuH5fijrKnSCitCg4xR) | 3:43 |
 | 25 | [Go Jehovah](https://open.spotify.com/track/1yNWDbvUeCD0OjeoyTahzG) | [Stevie Rizo](https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL) | [Go Jehovah](https://open.spotify.com/album/645Fu3qYIkANTfaiDgf72S) | 2:52 |
-| 26 | [NITE\-N\-DAY](https://open.spotify.com/track/5ckB1ZYZLmuqGDu8faGi2d) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [NITE\-N\-DAY \- EP](https://open.spotify.com/album/0elwGmWUMo8oDksWnvqyoC) | 2:29 |
-| 27 | [Way Home](https://open.spotify.com/track/2ZKXBim3pDX8WTHmyFFUO6) | [Grace Tena](https://open.spotify.com/artist/1W2fPbaUIDHflSKOe4S8QT) | [Way Home](https://open.spotify.com/album/79EFevRLW7KIOovxgi5jTm) | 4:44 |
-| 28 | [A Good Thing](https://open.spotify.com/track/5TgtiD1sCDSvlD6KjqrsJz) | [Uninvtd](https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ), [S A I N T](https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN) | [A Good Thing](https://open.spotify.com/album/7FUZ0Z40BXZMDDSNMbpeYS) | 2:52 |
+| 26 | [Way Home](https://open.spotify.com/track/2ZKXBim3pDX8WTHmyFFUO6) | [Grace Tena](https://open.spotify.com/artist/1W2fPbaUIDHflSKOe4S8QT) | [Way Home](https://open.spotify.com/album/79EFevRLW7KIOovxgi5jTm) | 4:44 |
+| 27 | [A Good Thing](https://open.spotify.com/track/5TgtiD1sCDSvlD6KjqrsJz) | [Uninvtd](https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ), [S A I N T](https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN) | [A Good Thing](https://open.spotify.com/album/7FUZ0Z40BXZMDDSNMbpeYS) | 2:52 |
+| 28 | [NITE\-N\-DAY](https://open.spotify.com/track/5ckB1ZYZLmuqGDu8faGi2d) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [NITE\-N\-DAY \- EP](https://open.spotify.com/album/0elwGmWUMo8oDksWnvqyoC) | 2:29 |
 | 29 | [Valley \- CalledOut Music Remix](https://open.spotify.com/track/56SVOpxc9ilgsoM5vjGNSf) | [DAYASOUL](https://open.spotify.com/artist/4AVCd5KaoGCrfue1bOWSww), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Valley \(CalledOut Music Remix\)](https://open.spotify.com/album/6K8MrDCAJxTbGdBNKgXiLp) | 3:07 |
 | 30 | [Wave](https://open.spotify.com/track/2xtqzQgpvCb1RAKMLTStIy) | [Bree DuVal](https://open.spotify.com/artist/5a6Ql5gFWtlgLT0zK6cYGp) | [Wave](https://open.spotify.com/album/1R29EqpkKjW9zJyr5U98Uj) | 3:02 |
 | 31 | [When Tears Fall](https://open.spotify.com/track/6kGPEBbI2Uk7nTsfcd2pmF) | [Yung Kriss](https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP) | [When Tears Fall](https://open.spotify.com/album/5KIb2TJs6Fz2h1egoxjweO) | 2:48 |
@@ -81,17 +81,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 71 | [Unconditional](https://open.spotify.com/track/5mkosFaeklJwnN7NNjxzI3) | [Stevie Rizo](https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL) | [Surrender The Will](https://open.spotify.com/album/1uOucKRNyuXWk7ywMF1JqJ) | 2:48 |
 | 72 | [WORTHY](https://open.spotify.com/track/4rrfTx3W7ro82OvV0R6Uiy) | [Paulade](https://open.spotify.com/artist/47FIkKjgZpNkMg1XcEqVdK) | [WORTHY](https://open.spotify.com/album/0rSrNBf65mgV4DHXb73Kbp) | 2:55 |
 | 73 | [Awesome](https://open.spotify.com/track/1CCi2rldOo75tHL5kau6WA) | [Melissa Bethea](https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg) | [Awesome](https://open.spotify.com/album/0uWIKYtMsCNMlYMNyCcvBt) | 3:38 |
-| 74 | [Be My Everything \- Reimagined](https://open.spotify.com/track/2gOdvR5niu4OsTOd12coeQ) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Be My Everything \(Reimagined\)](https://open.spotify.com/album/3INyxMUu4b0eJMuQ0HkVbB) | 3:53 |
+| 74 | [Thousands of Years](https://open.spotify.com/track/3AhHpERIEALOxoKNCcfLt0) | [Daphne Richardson](https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa) | [Thousands of Years](https://open.spotify.com/album/1Hcnr14wcAvI1QN1hFyWvS) | 3:01 |
 | 75 | [SO MUCH](https://open.spotify.com/track/1dtlsS6d2HWcc6dn2CmRIR) | [MARV](https://open.spotify.com/artist/4jBiLv1a8QGElMKTozxv35) | [SO MUCH](https://open.spotify.com/album/1LHx6JeLDqE2reKEZFNUbY) | 3:06 |
-| 76 | [Thousands of Years](https://open.spotify.com/track/3AhHpERIEALOxoKNCcfLt0) | [Daphne Richardson](https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa) | [Thousands of Years](https://open.spotify.com/album/1Hcnr14wcAvI1QN1hFyWvS) | 3:01 |
-| 77 | [For Your Grace](https://open.spotify.com/track/5iZP8YJeKHZticyPAbJjyW) | [Jaicko Lawrence](https://open.spotify.com/artist/3RYC1U7EqTX1ykWAY28QXn) | [For Your Grace](https://open.spotify.com/album/7D8B8My0dXsIoviSbw4Ej2) | 3:20 |
-| 78 | [Your Arms](https://open.spotify.com/track/56B8Ls0ASzAKEmZ87hgYfb) | [RORE](https://open.spotify.com/artist/4es2gLCEQiV2WeeIMCdn2j) | [Your Arms](https://open.spotify.com/album/2FGO1TD4b69CQHPG4tbB6v) | 2:37 |
+| 76 | [Be My Everything \- Reimagined](https://open.spotify.com/track/2gOdvR5niu4OsTOd12coeQ) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Be My Everything \(Reimagined\)](https://open.spotify.com/album/3INyxMUu4b0eJMuQ0HkVbB) | 3:53 |
+| 77 | [Mr\. McClure](https://open.spotify.com/track/32FopMR4tx27RZMkXmkyvV) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Mr\. McClure](https://open.spotify.com/album/0q9anux1BAeqdaulGxibU7) | 3:17 |
+| 78 | [For Your Grace](https://open.spotify.com/track/5iZP8YJeKHZticyPAbJjyW) | [Jaicko Lawrence](https://open.spotify.com/artist/3RYC1U7EqTX1ykWAY28QXn) | [For Your Grace](https://open.spotify.com/album/7D8B8My0dXsIoviSbw4Ej2) | 3:20 |
 | 79 | [JUST BE US](https://open.spotify.com/track/3pdHgrjBEBZPY8AM7voeCb) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg) | [JUST BE US](https://open.spotify.com/album/6OTEkrlDNbCaFfjr46CEY7) | 2:22 |
-| 80 | [Mr\. McClure](https://open.spotify.com/track/32FopMR4tx27RZMkXmkyvV) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Mr\. McClure](https://open.spotify.com/album/0q9anux1BAeqdaulGxibU7) | 3:17 |
+| 80 | [Your Arms](https://open.spotify.com/track/56B8Ls0ASzAKEmZ87hgYfb) | [RORE](https://open.spotify.com/artist/4es2gLCEQiV2WeeIMCdn2j) | [Your Arms](https://open.spotify.com/album/2FGO1TD4b69CQHPG4tbB6v) | 2:37 |
 | 81 | [Joy](https://open.spotify.com/track/5Ta0V7LXXNnfgl2RRxqG9u) | [William Demps](https://open.spotify.com/artist/3i1rCueHW9lYOAoOBEv3c5), [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [Joy](https://open.spotify.com/album/1iPG6Dzwp4vOHahDCsNaTI) | 4:02 |
 | 82 | [Like Yours](https://open.spotify.com/track/2GxOocpI0dqAdjbqQUkb4l) | [Destiny Marko](https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa) | [Like Yours](https://open.spotify.com/album/5azmENYG8KnyBBhX2zGADH) | 3:27 |
-| 83 | [Me and You](https://open.spotify.com/track/4vO4V0CcvJZSK87zqJnvks) | [Jordan May](https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v) | [Me and You](https://open.spotify.com/album/4r7HAPoBJPvNNQo7zZzmAw) | 3:19 |
-| 84 | [Sun Son](https://open.spotify.com/track/57Rq8hVJ3rZIS4LoHE2kBb) | [Adia](https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt) | [Sun Son](https://open.spotify.com/album/0ftye6YVCqWInEykok7IJt) | 4:12 |
+| 83 | [Sun Son](https://open.spotify.com/track/57Rq8hVJ3rZIS4LoHE2kBb) | [Adia](https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt) | [Sun Son](https://open.spotify.com/album/0ftye6YVCqWInEykok7IJt) | 4:12 |
+| 84 | [Me and You](https://open.spotify.com/track/4vO4V0CcvJZSK87zqJnvks) | [Jordan May](https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v) | [Me and You](https://open.spotify.com/album/4r7HAPoBJPvNNQo7zZzmAw) | 3:19 |
 | 85 | [LESS OF ME](https://open.spotify.com/track/7hTsieYGUm5VxZJlfLvVe1) | [MARV](https://open.spotify.com/artist/4jBiLv1a8QGElMKTozxv35) | [LESS OF ME](https://open.spotify.com/album/0U34KFIWHZpyHAGOgULglF) | 3:58 |
 | 86 | [True \- Live](https://open.spotify.com/track/7tSniv4SRfzRS8BNP1IBjs) | [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm) | [True \(Live\)](https://open.spotify.com/album/0p2NpAQkfSq3o1aZWx883k) | 2:44 |
 | 87 | [Authenticity](https://open.spotify.com/track/0OTpRTiPww0PGHtXila6tx) | [Kennis Clark](https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs) | [Authenticity](https://open.spotify.com/album/4xfYvwxhrCFNXfWdupmeHv) | 2:51 |

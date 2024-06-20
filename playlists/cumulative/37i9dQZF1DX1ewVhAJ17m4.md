@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: Honey Revenge
 
-394 songs - 19 hr 35 min
+395 songs - 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,7 +277,7 @@
 | [REAL SUPER DARK](https://open.spotify.com/track/2YGfjeZvYJyy1BQrbsLmGr) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:29 | 2023-03-31 | 2024-04-19 |
 | [REAL SUPER DARK](https://open.spotify.com/track/6nXtGWUzOGxfI7q5hUa6Jj) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:29 | 2023-01-27 | 2023-04-17 |
 | [REAL SUPER DARK](https://open.spotify.com/track/7uuHc1gwZCKG9CGJopnSF3) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/1TyNSqm2av7ed9Z6BgHhFT) | 2:29 | 2023-01-27 | 2023-01-30 |
-| [Reaper \(feat\. Dan Campbell\)](https://open.spotify.com/track/1CWhm6LbkdLxFFZ7h54NOT) | [Beauty School](https://open.spotify.com/artist/46yPZXaKNR5nkEqMzhifG6), [Dan Campbell](https://open.spotify.com/artist/0Sq6ZIWDzx9P76abl8svUr) | [Reaper \(feat\. Dan Campbell\)](https://open.spotify.com/album/4SqCiKtsjqNZfi8jgmlaE9) | 2:57 | 2024-06-14 |  |
+| [Reaper \(feat\. Dan Campbell\)](https://open.spotify.com/track/1CWhm6LbkdLxFFZ7h54NOT) | [Beauty School](https://open.spotify.com/artist/46yPZXaKNR5nkEqMzhifG6), [Dan Campbell](https://open.spotify.com/artist/0Sq6ZIWDzx9P76abl8svUr) | [Reaper \(feat\. Dan Campbell\)](https://open.spotify.com/album/4SqCiKtsjqNZfi8jgmlaE9) | 2:57 | 2024-06-14 | 2024-06-20 |
 | [Recipe For Disaster](https://open.spotify.com/track/4S3CGPuEmleAmk36HLa5Lj) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Recipe For Disaster](https://open.spotify.com/album/1liqqWx9tt0WutjfuZXR4v) | 2:45 | 2024-06-14 |  |
 | [RECKLESS](https://open.spotify.com/track/2iNb7p7WLZ4fJHZd3kbWst) | [LOU](https://open.spotify.com/artist/4tVzfQLYPxk5vGAgPQXmK4) | [RECKLESS](https://open.spotify.com/album/1tKiELuITXrxUVWA1bUzII) | 2:55 | 2023-03-31 | 2024-06-15 |
 | [Remedy for Reality](https://open.spotify.com/track/6VL1ikOTJscKBHRgV686ug) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Torn in Two](https://open.spotify.com/album/7FD1Yk6byTdKJQh0fXX6nN) | 2:44 | 2021-12-20 | 2022-09-10 |
@@ -386,6 +386,7 @@
 | [Wake Up](https://open.spotify.com/track/4lanb9IYNnwzlQd9XmTjju) | [7evin7ins](https://open.spotify.com/artist/4Nr6sbnl0dWasnapIxS92I) | [Wake Up](https://open.spotify.com/album/7jc2djmbyBkslfXec7H6yv) | 2:54 | 2022-06-14 | 2022-10-14 |
 | [Walk Over My Grave](https://open.spotify.com/track/43c7a2qXSry2me3tYfowdZ) | [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo) | [Walk Over My Grave](https://open.spotify.com/album/6pafKb03ZUyJcw6G4E7uZK) | 3:19 | 2021-12-20 | 2022-04-05 |
 | [Walk This World With Me](https://open.spotify.com/track/4C4xwikhiK5uZX1oyxsRpZ) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Walk This World With Me](https://open.spotify.com/album/3bOo5s7GANC5FY4nQKWnkm) | 3:48 | 2024-06-14 |  |
+| [wallflower](https://open.spotify.com/track/1uSCWWZnyo78wKELz8pXlD) | [Calling All Captains](https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG) | [wallflower](https://open.spotify.com/album/3n1eCljBLZcM6YOBbNevEt) | 3:10 | 2024-06-14 |  |
 | [WAVES](https://open.spotify.com/track/54nU16Aa4XaE7Gxgkm1g2w) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht) | [WAVES](https://open.spotify.com/album/73pDeY3HirNVUh8VjEz4y7) | 3:28 | 2021-12-20 | 2022-06-15 |
 | [We All Got Covid \(Except for Linus\)](https://open.spotify.com/track/4TwuMxIhBZ47gIpHljt23x) | [Nerf Herder](https://open.spotify.com/artist/4TobcndnEGqtbWAHA6ylu1) | [We All Got Covid \(Except for Linus\)](https://open.spotify.com/album/6iB2IzhrrpmBcEwflzSLi9) | 2:20 | 2022-06-14 | 2022-07-29 |
 | [We Hang On](https://open.spotify.com/track/2iGQhAy6rwa3rtmKA7bz5F) | [The Early November](https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi) | [The Early November](https://open.spotify.com/album/5jLRNurqAdESrTqVPBSD95) | 3:29 | 2024-06-14 |  |

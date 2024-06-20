@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 123724,
+  "num_followers": 123744,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "No Hay Nada Imposible",
-        "url": "https://open.spotify.com/album/3S7tVmHEPScYVF1gflAkI6"
-      },
-      "artists": [
-        {
-          "name": "Javier Maldonado",
-          "url": "https://open.spotify.com/artist/773eYjENFwQa4WWsahVm76"
-        }
-      ],
-      "duration_ms": 295360,
-      "name": "Espiritu De Dios",
-      "url": "https://open.spotify.com/track/3PchABMkZW9CPTrKiS2IOV"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Solo Bachata",
         "url": "https://open.spotify.com/album/3r3NL0WmDLp0gpR8TGifhd"
       },
@@ -527,6 +511,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "No Hay Nada Imposible",
+        "url": "https://open.spotify.com/album/3S7tVmHEPScYVF1gflAkI6"
+      },
+      "artists": [
+        {
+          "name": "Javier Maldonado",
+          "url": "https://open.spotify.com/artist/773eYjENFwQa4WWsahVm76"
+        }
+      ],
+      "duration_ms": 295360,
+      "name": "Espiritu De Dios",
+      "url": "https://open.spotify.com/track/3PchABMkZW9CPTrKiS2IOV"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "30 Bachatas Cristianas Pegaditas",
         "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
       },
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW"
         }
       ],
-      "duration_ms": 274200,
-      "name": "La Biblia",
-      "url": "https://open.spotify.com/track/6Xno9DkR19S7hsPqBn4zlO"
+      "duration_ms": 232360,
+      "name": "Le Llaman Jesus",
+      "url": "https://open.spotify.com/track/2u9xtvoN8XxuIhY2Fgb4vk"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW"
         }
       ],
-      "duration_ms": 232360,
-      "name": "Le Llaman Jesus",
-      "url": "https://open.spotify.com/track/2u9xtvoN8XxuIhY2Fgb4vk"
+      "duration_ms": 274200,
+      "name": "La Biblia",
+      "url": "https://open.spotify.com/track/6Xno9DkR19S7hsPqBn4zlO"
     },
     {
       "added_at": "2020-09-18 05:02:00",

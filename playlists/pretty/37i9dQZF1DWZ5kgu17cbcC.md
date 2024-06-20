@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ5kgu17cbcC.md) - [plain]
 
 > Music from shows and movies you love including The Greatest Hits, now streaming on Hulu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,072 likes - 95 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,055 likes - 95 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ5kgu17cbcC.md) - [plain]
 | 49 | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/25wdC7CJmCJPgnKw9rYquJ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:50 |
 | 50 | [make up sex \(feat\. blackbear\)](https://open.spotify.com/track/50eJOxJiGmJ7PBZaTKpje1) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:02 |
 | 51 | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/track/3tBZ60j1jQ7NJm8IjelyQe) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:39 |
-| 52 | [Leave Grocery Store](https://open.spotify.com/track/2iZuV7bLtHwkhx52sf1iZL) | [Jam & Lewis](https://open.spotify.com/artist/11kaQ3GPi3BPDYH18aL1nX) | [Unprisoned \(Original Score\)](https://open.spotify.com/album/3XXSZAnrJUD3KdEdy7i84V) | 1:04 |
+| 52 | [Leave Grocery Store](https://open.spotify.com/track/2iZuV7bLtHwkhx52sf1iZL) | [Jam & Lewis](https://open.spotify.com/artist/11kaQ3GPi3BPDYH18aL1nX) | [UnPrisoned \(Original Score\)](https://open.spotify.com/album/3XXSZAnrJUD3KdEdy7i84V) | 1:04 |
 | 53 | [La La La \- Live on Planet Earth](https://open.spotify.com/track/2kHSBG2xBdKrXEc2jHyBNY) | [AREA21](https://open.spotify.com/artist/76YIoWHp3Ri3q1ocOPtFzp) | [Live on Planet Earth](https://open.spotify.com/album/54ku0NM9ycxqenEz2rtjqF) | 3:00 |
 | 54 | [Not Gone](https://open.spotify.com/track/1O9mxTVOk4hehQNbD5gndC) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Tiny Beautiful Things \(Original Series Soundtrack\)](https://open.spotify.com/album/0wfB1zTsdAIq2DoiXMzIKy) | 2:50 |
 | 55 | [Closer to Fine](https://open.spotify.com/track/1LI1sV0rJX08ZeaXO4ecbx) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Tiny Beautiful Things \(Original Series Soundtrack\)](https://open.spotify.com/album/0wfB1zTsdAIq2DoiXMzIKy) | 3:28 |
