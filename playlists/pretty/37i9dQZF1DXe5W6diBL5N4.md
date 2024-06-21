@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: H1\-KEY\(하이키\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,957 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,001 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Let It Burn](https://open.spotify.com/track/61ErurYjc1oFru6WZgic8X) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEY 3rd Mini Album \[LOVE or HATE\]](https://open.spotify.com/album/6SCL9tVHIBgOyr4GIRPFfN) | 3:01 |
 | 2 | [Boom Boom Bass](https://open.spotify.com/track/2J194R0KIKbK7bTHfUHPDB) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING \- The 1st Mini Album](https://open.spotify.com/album/23TA2tnqYnphv1MKkiS6x2) | 2:32 |
-| 3 | [Last night \(Guitar by Park Juwon\)](https://open.spotify.com/track/0Qh8dlEJ3jVWk57Ql6XrdS) | [JxW](https://open.spotify.com/artist/26bu3Aj5aulLKQ5MSGD2qh) | [JxW 1st Single Album 'THIS MAN'](https://open.spotify.com/album/6tMQKPiaYEnnq1h6G55AKN) | 2:56 |
+| 3 | [Last night \(Guitar by Park Juwon\)](https://open.spotify.com/track/0Qh8dlEJ3jVWk57Ql6XrdS) | [JxW](https://open.spotify.com/artist/7GvlsjcgBrsE578yghOq7D) | [JxW 1st Single Album 'THIS MAN'](https://open.spotify.com/album/6tMQKPiaYEnnq1h6G55AKN) | 2:56 |
 | 4 | [SABOTAGE](https://open.spotify.com/track/3jUnWCtIwlP9ABJWIiqrCe) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [SABOTAGE](https://open.spotify.com/album/5xIQ5P9THWkpmrG2MxiuoL) | 3:15 |
 | 5 | [SUPERPOWER](https://open.spotify.com/track/7jsMpMsKMBr3cnxLNFeJr0) | [BLITZERS](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) | [LUNCH\-BOX](https://open.spotify.com/album/4dHoAVeWILU2xZXlla0mDG) | 2:49 |
 | 6 | [MIoBI \(Make It or Break It\)](https://open.spotify.com/track/1wS45D34HXiACruLrvXVGi) | [PENIEL](https://open.spotify.com/artist/21EUYgHJLDUeG72eDEmTx4) | [story of my L:ife](https://open.spotify.com/album/27so2KV46RJFyKSxroLu0e) | 2:46 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 17 | [Just as We Were](https://open.spotify.com/track/1gNkZGi3evYz8NNWox7SRS) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Just as We Were](https://open.spotify.com/album/1weCtwUO67iYwytGnHZGfR) | 4:08 |
 | 18 | [Silver008](https://open.spotify.com/track/1XXzmCR7kWi6axK6tr1yrc) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Silver008](https://open.spotify.com/album/2fMXCvOncxTnpTOPqNM7R1) | 4:34 |
 | 19 | [Why didn’t I realize](https://open.spotify.com/track/5yt4qOiRLm9lLqmstFPvGV) | [Jea](https://open.spotify.com/artist/3cls7yF8iRNkOXJGLsGRal) | [Why didn’t I realize](https://open.spotify.com/album/4lGnaW4JViLyvzhLvpLtJe) | 2:33 |
-| 20 | [I Can Believe In Myself](https://open.spotify.com/track/20jsftPOXdrWCBx8ln3zZo) | [Babylon](https://open.spotify.com/artist/0QD5WWd3CQrPWJKLoUT5hM) | [Begins youth \(Original Xclusive Soundtrack\), Pt\. 6](https://open.spotify.com/album/1RCqcZQgplwZvq86OhH56x) | 3:09 |
+| 20 | [I Can Believe In Myself](https://open.spotify.com/track/20jsftPOXdrWCBx8ln3zZo) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo) | [Begins youth \(Original Xclusive Soundtrack\), Pt\. 6](https://open.spotify.com/album/1RCqcZQgplwZvq86OhH56x) | 3:09 |
 | 21 | [To\. the Moon](https://open.spotify.com/track/25br9uGcaMMLu6YTl2xF00) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [To\. the Moon](https://open.spotify.com/album/2BURnvXS4WlAgj7IsTuc7D) | 3:08 |
 | 22 | [Hug Me \(Original Soundtrack from the Webtoon The Siren : Becoming the Villain's Family\)](https://open.spotify.com/track/79iwErOUuLtnx11lTepXLz) | [DK](https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3) | [Hug Me \(Original Soundtrack from the Webtoon The Siren : Becoming the Villain's Family\)](https://open.spotify.com/album/6vjWWclU2DqncdQsLWS9hh) | 3:47 |
 | 23 | [Is This Love](https://open.spotify.com/track/62K6tC7JHOg6NwzsgLa6kk) | [HD BL4CK](https://open.spotify.com/artist/0hcNEkXJ9p0fVTsuFeNbZd), [MRSHLL](https://open.spotify.com/artist/0seQaFC4HsYcxj5o27Ls45), [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE) | [Is This Love](https://open.spotify.com/album/6ecqdDOfpsSvvrPaf82tXG) | 2:47 |

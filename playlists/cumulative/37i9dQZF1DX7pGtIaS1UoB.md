@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-355 songs - 21 hr 4 min
+356 songs - 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [兩人世界](https://open.spotify.com/track/57OQCjeVopFXR8hQhCu6lM) | [Huang Yali](https://open.spotify.com/artist/5nLnIboxUroy6N5HBGRTMe) | [黄雅莉的奇幻秀](https://open.spotify.com/album/0xqBcDVlh3ZLrjgmwDTh8U) | 3:41 | 2022-06-27 | 2022-07-05 |
 | [兩隻戀人](https://open.spotify.com/track/16MADi2KjVZgwshXXnCysN) | [Gary Chaw](https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK) | [SUPERMAN](https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN) | 4:04 | 2022-06-06 |  |
 | [再唱一遍\(不來梅樂隊\)](https://open.spotify.com/track/3iIIi2k5EanEnhsrc7VYu1) | [魏嘉瑩 Arrow Wei](https://open.spotify.com/artist/5JIZFQ7EMAp257CdzKemXO) | [再唱一遍\(不來梅樂隊\)](https://open.spotify.com/album/6XejP1e6swahNwyPT4Og4k) | 3:52 | 2022-06-06 | 2022-07-29 |
-| [分你一半](https://open.spotify.com/track/70MwLRAYlFW3UITQ2xs3mh) | [叶恨水](https://open.spotify.com/artist/49HlthiYzE9b9yePyfiPSD) | [分你一半](https://open.spotify.com/album/77fC1pfTOy2RZz0hy8BWMj) | 3:19 | 2022-06-06 |  |
+| [分你一半](https://open.spotify.com/track/70MwLRAYlFW3UITQ2xs3mh) | [叶恨水](https://open.spotify.com/artist/49HlthiYzE9b9yePyfiPSD) | [分你一半](https://open.spotify.com/album/77fC1pfTOy2RZz0hy8BWMj) | 3:19 | 2022-06-06 | 2024-06-21 |
 | [初恋的朦胧诗](https://open.spotify.com/track/4UazSuVGvyHnpgKD5VQAxW) | [房东的猫](https://open.spotify.com/artist/6oxtUCWftDouZzeso3oXcF) | [初恋的朦胧诗](https://open.spotify.com/album/3DqiMmXJZ3Ctfu0P6rQmrT) | 3:11 | 2023-01-09 | 2023-01-17 |
 | [别再骗我](https://open.spotify.com/track/2qMF7BK8rgePrDtQdduqrq) | [斯外戈](https://open.spotify.com/artist/5yAKfTrz68bDKhcxdO3AUQ) | [别再骗我](https://open.spotify.com/album/4rqZvaY8AdXlz5EbhEMXiP) | 3:51 | 2022-07-18 | 2022-07-22 |
 | [十分鐘的戀愛](https://open.spotify.com/track/1Ey4U3iI0x1yPY70v1C7uu) | [呂婕菲 \(Shiny\)](https://open.spotify.com/artist/6HVuOJmwG6HevMxI7N9ArW), [夏沐](https://open.spotify.com/artist/6XXsgia5SC9tQN3ygXEVt6) | [十分鐘的戀愛](https://open.spotify.com/album/7130ZVtjSXO8rt0zbAvf6p) | 3:36 | 2022-07-04 | 2022-07-14 |
@@ -255,6 +255,7 @@
 | [有何不可](https://open.spotify.com/track/5rXBmcYNJYMYdhwxlMLh0s) | [許嵩](https://open.spotify.com/artist/2hgxWUG24w1cFLBlPSEVcV) | [自定義](https://open.spotify.com/album/0OfgDIAou9mTshlocs9hXD) | 4:00 | 2022-06-06 |  |
 | [有空記得約我 \- 電視電影《雜貨店》主題曲](https://open.spotify.com/track/1ruZAxKKU6x6fl7MKlkRfs) | [The Freshman](https://open.spotify.com/artist/2pZzvphS66rCxKBiJCrO9y) | [有空記得約我 \(電視電影《雜貨店》主題曲\)](https://open.spotify.com/album/4gFAG2ZXep3vHcqzDlt8PV) | 4:03 | 2022-06-06 | 2022-09-03 |
 | [有點](https://open.spotify.com/track/210VyijBJR7X8fcWv0QofO) | [Bae 林采欣](https://open.spotify.com/artist/2vRNbO0y4DgqQOEEhRSqdI) | [有點](https://open.spotify.com/album/1MvandY4MvyIrNcM39pydO) | 3:38 | 2024-03-18 | 2024-04-29 |
+| [期待著你的出現｜黃莑茗、須弘道](https://open.spotify.com/track/5TmRtmA8bJtPZF5ynGKpAM) | [AcQUA源少年](https://open.spotify.com/artist/4kKXHe07aN1I6LEAJEWddz), [林言奕](https://open.spotify.com/artist/4amttJ5Bgvth23ShmHNxaH) | [期待著你的出現｜黃莑茗、須弘道](https://open.spotify.com/album/4wKhBdIM1SM5747ok3aPAD) | 3:07 | 2024-06-20 |  |
 | [橘子汽水](https://open.spotify.com/track/66EHqFhy2Gvgj7HOFYQesg) | [张星特](https://open.spotify.com/artist/412qCxKDZeQ1zOw8IZShGk) | [橘子汽水 \(青春重置计划6 特调汽水\)](https://open.spotify.com/album/4lz4amhRyl96UMrN2Jh7AC) | 3:40 | 2022-10-24 | 2022-11-08 |
 | [欢迎光临](https://open.spotify.com/track/65TuztwYKl9Ka0Y17OczHx) | [Koala Liu](https://open.spotify.com/artist/0rG7yyjd15xAQ3Z9SK4FU3), [盧俊傑](https://open.spotify.com/artist/2yET7cDQpHNdprCQW5zcx9) | [欢迎光临](https://open.spotify.com/album/2jvHOTPUzcfTgfRBQ4fRCP) | 3:53 | 2022-06-06 | 2022-07-28 |
 | [每一天都想见面](https://open.spotify.com/track/6xfJ2GBycSzHJUgr2Kw9Xc) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [每一天都想见面](https://open.spotify.com/album/5TH32PfNAAR304rtJaYN84) | 3:02 | 2022-07-04 | 2024-06-17 |

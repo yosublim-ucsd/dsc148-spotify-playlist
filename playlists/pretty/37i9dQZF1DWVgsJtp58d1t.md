@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music from Black artists every Friday\. Happy Black Music Month! Cover: <a href="spotify:artist:5xKVALj2MSqOHmQhburCM8">Tanner Addell</a>, Shot by: Shaun Llewellyn
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,019,119 likes - 155 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,019,159 likes - 155 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

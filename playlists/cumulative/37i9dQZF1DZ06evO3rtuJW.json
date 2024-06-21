@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-29",
-  "description": "This is: G Herbo. Alle wichtigen Tracks in einer Playlist.",
+  "description": "This is G Herbo. The essential tracks, all in one playlist.",
   "name": "This Is G Herbo",
   "tracks": [
     {
@@ -266,7 +266,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-19",
+      "date_removed": null,
       "duration_ms": 153826,
       "name": "Being Honest (Remix) [feat. G Herbo]",
       "url": "https://open.spotify.com/track/2344qwORd0Q3bZhwssd2mw"
@@ -460,7 +460,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 209454,
       "name": "Chicago to Memphis (feat. G Herbo)",
       "url": "https://open.spotify.com/track/2mNoak5bp3xjAOAWgWtLrS"
@@ -1274,7 +1274,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 209786,
       "name": "Man Now",
       "url": "https://open.spotify.com/track/6e8qzxdh2JPbPqGCUXva59"
@@ -2140,7 +2140,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 140173,
       "name": "Statement",
       "url": "https://open.spotify.com/track/79lRUyyy0iwWRkbFFNJ95S"
@@ -2471,6 +2471,28 @@
     },
     {
       "album": {
+        "name": "#FreeMyHoodFuckYoHood: Bounce Out Edition",
+        "url": "https://open.spotify.com/album/2ROAftc11A5ptP94CNoPrD"
+      },
+      "artists": [
+        {
+          "name": "VonOff1700",
+          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190511,
+      "name": "U Know Dat (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/6iKSh4ElPgyGlA5DY7ljLk"
+    },
+    {
+      "album": {
         "name": "Summer Songs 2",
         "url": "https://open.spotify.com/album/1Ea4UfFW7K1UzbjkDVaPri"
       },
@@ -2618,7 +2640,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-19",
+      "date_removed": null,
       "duration_ms": 199302,
       "name": "Write Your Name",
       "url": "https://open.spotify.com/track/1nbFaXgi6FVywm9BN4UmUt"

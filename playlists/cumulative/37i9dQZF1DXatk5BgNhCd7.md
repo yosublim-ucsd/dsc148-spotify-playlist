@@ -4,7 +4,7 @@
 
 > Nuevos temas de géneros tropicales\. Foto: Lola Indigo
 
-2,501 songs - 6 day 2 hr 16 min
+2,502 songs - 6 day 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1422,6 +1422,7 @@
 | [Mil Noches](https://open.spotify.com/track/2rPZ8bqFlc6vrK9yqxdzyv) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Mil Noches](https://open.spotify.com/album/6K4JohP3PjRZOuClEqW5mn) | 4:03 | 2024-01-26 | 2024-02-03 |
 | [Mil preguntas](https://open.spotify.com/track/1sWSkjycfa70S1zcn0zWA3) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Mil preguntas](https://open.spotify.com/album/7lza5ZZmSVr77GQhfiSgjs) | 3:09 | 2024-05-24 | 2024-06-01 |
 | [Mil Preguntas](https://open.spotify.com/track/4NtNFcjVJ9jCoM3vwMU9dV) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Mil Preguntas](https://open.spotify.com/album/5pArplEHrE5U2foVlEnFfn) | 2:46 | 2024-04-12 | 2024-05-25 |
+| [Mil Versos De Olvido / La Formulita \- En Vivo](https://open.spotify.com/track/1uCGfTvmFqDWLI1ZjVmzZh) | [Fello Zabaleta](https://open.spotify.com/artist/5hAYG4LCNckaznNAIKIe0H), [Ana del Castillo](https://open.spotify.com/artist/7uxS8IKq7xAVrLcpGPrdR7) | [Mil Versos De Olvido / La Formulita \(En Vivo\)](https://open.spotify.com/album/6iBbgYoqFqLhDACBH5xlUQ) | 6:59 | 2024-06-14 |  |
 | [Millonario](https://open.spotify.com/track/3qEUUNWrrWiDRUc2aZASaN) | [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Millonario](https://open.spotify.com/album/2YTEwrLUU60c6I4S78D7hz) | 2:49 | 2024-01-05 | 2024-01-13 |
 | [Mira](https://open.spotify.com/track/3w292R2aL3DCGnyeOiaLed) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Mira](https://open.spotify.com/album/5mwAE79BFC6eTViMVWW60k) | 3:48 | 2022-05-27 | 2022-09-24 |
 | [Miradas \- Remix](https://open.spotify.com/track/5IhVxfhY81aRjLHddjnDnK) | [Max Carra](https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL), [El Villano](https://open.spotify.com/artist/6nEgkeR03q2qtKZmrVq100), [Fer Palacio Records](https://open.spotify.com/artist/4D6KpZSbhJCAeEdnyAXhRr), [Dilibio](https://open.spotify.com/artist/4thrHhdpRHCJGmHRsR1fzg), [Mile V](https://open.spotify.com/artist/0SBrq1F3fcYuvb1rJOWiRH) | [Miradas \(Remix\)](https://open.spotify.com/album/5jCsi4WKEHhfQYtmB0sHnL) | 3:09 | 2024-05-24 | 2024-06-01 |

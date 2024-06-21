@@ -8567,6 +8567,24 @@
     },
     {
       "album": {
+        "name": "Tawaak Galbek",
+        "url": "https://open.spotify.com/album/15b9P4HH0B7iEchlgr819B"
+      },
+      "artists": [
+        {
+          "name": "Balqees",
+          "url": "https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Tawaak Galbek",
+      "url": "https://open.spotify.com/track/7CvVm3ZVBm5JkjncF81qf5"
+    },
+    {
+      "album": {
         "name": "Tea Song",
         "url": "https://open.spotify.com/album/6IBiga0zNTzTEfnRyAduzt"
       },
@@ -9212,7 +9230,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 248241,
       "name": "Woseltelha",
       "url": "https://open.spotify.com/track/1oh3WIRKgoNi60o9SMykwS"

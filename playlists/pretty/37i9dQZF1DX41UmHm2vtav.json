@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 467832,
+  "num_followers": 467846,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -115,34 +115,22 @@
     {
       "added_at": "2024-06-14 03:03:00",
       "album": {
-        "name": "Ainda Gosto Dela (Dubdogz, RQntz & Lowsince Remix)",
-        "url": "https://open.spotify.com/album/5mt5Ssu7AZXAW1LWEEODii"
+        "name": "Outside Of Love (Zerb Remix)",
+        "url": "https://open.spotify.com/album/24mUalHE64ktRE9OiW5PgE"
       },
       "artists": [
         {
-          "name": "Skank",
-          "url": "https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU"
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
         },
         {
-          "name": "Negra Li",
-          "url": "https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn"
-        },
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "RQntz",
-          "url": "https://open.spotify.com/artist/6NGuHxpWnoUiTabTNo6JjO"
-        },
-        {
-          "name": "Lowsince",
-          "url": "https://open.spotify.com/artist/40i93g6N3AaQ45tBod4pfw"
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
         }
       ],
-      "duration_ms": 176239,
-      "name": "Ainda Gosto Dela (Dubdogz, RQntz & Lowsince Remix)",
-      "url": "https://open.spotify.com/track/6O4wwd8F3dQxbzeENONcMu"
+      "duration_ms": 192317,
+      "name": "Outside Of Love - Zerb Remix",
+      "url": "https://open.spotify.com/track/7pO5CuNmPjoG2c27YWliB5"
     },
     {
       "added_at": "2024-06-14 03:03:00",
@@ -191,22 +179,34 @@
     {
       "added_at": "2024-06-14 03:03:00",
       "album": {
-        "name": "Outside Of Love (Zerb Remix)",
-        "url": "https://open.spotify.com/album/24mUalHE64ktRE9OiW5PgE"
+        "name": "Ainda Gosto Dela (Dubdogz, RQntz & Lowsince Remix)",
+        "url": "https://open.spotify.com/album/5mt5Ssu7AZXAW1LWEEODii"
       },
       "artists": [
         {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+          "name": "Skank",
+          "url": "https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU"
         },
         {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+          "name": "Negra Li",
+          "url": "https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn"
+        },
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "RQntz",
+          "url": "https://open.spotify.com/artist/6NGuHxpWnoUiTabTNo6JjO"
+        },
+        {
+          "name": "Lowsince",
+          "url": "https://open.spotify.com/artist/40i93g6N3AaQ45tBod4pfw"
         }
       ],
-      "duration_ms": 192317,
-      "name": "Outside Of Love - Zerb Remix",
-      "url": "https://open.spotify.com/track/7pO5CuNmPjoG2c27YWliB5"
+      "duration_ms": 176239,
+      "name": "Ainda Gosto Dela (Dubdogz, RQntz & Lowsince Remix)",
+      "url": "https://open.spotify.com/track/6O4wwd8F3dQxbzeENONcMu"
     },
     {
       "added_at": "2024-06-14 03:03:00",
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2024-06-14 03:03:00",
       "album": {
+        "name": "Sucker",
+        "url": "https://open.spotify.com/album/1tSHJ1U4wbL5zu20x4ku7i"
+      },
+      "artists": [
+        {
+          "name": "Lone Tusker",
+          "url": "https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl"
+        },
+        {
+          "name": "Chaz Mazzota",
+          "url": "https://open.spotify.com/artist/6UOLJXk2Gy4J6OM3RziWmM"
+        }
+      ],
+      "duration_ms": 172876,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/3I5Xmqmng3glL1DtRYb4pD"
+    },
+    {
+      "added_at": "2024-06-14 03:03:00",
+      "album": {
         "name": "Todo Homem (Bhaskar, Mojjo Remix)",
         "url": "https://open.spotify.com/album/3Yo6lJRghDLJlv9v0oqyoN"
       },
@@ -1155,26 +1175,6 @@
       "duration_ms": 269015,
       "name": "Todo Homem - Bhaskar, Mojjo Remix",
       "url": "https://open.spotify.com/track/40gvTsSMqg7yiEwIMvsrCn"
-    },
-    {
-      "added_at": "2024-06-14 03:03:00",
-      "album": {
-        "name": "Sucker",
-        "url": "https://open.spotify.com/album/1tSHJ1U4wbL5zu20x4ku7i"
-      },
-      "artists": [
-        {
-          "name": "Lone Tusker",
-          "url": "https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl"
-        },
-        {
-          "name": "Chaz Mazzota",
-          "url": "https://open.spotify.com/artist/6UOLJXk2Gy4J6OM3RziWmM"
-        }
-      ],
-      "duration_ms": 172876,
-      "name": "Sucker",
-      "url": "https://open.spotify.com/track/3I5Xmqmng3glL1DtRYb4pD"
     },
     {
       "added_at": "2024-06-14 03:03:00",

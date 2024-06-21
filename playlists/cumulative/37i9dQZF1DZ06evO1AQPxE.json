@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-13",
-  "description": "This is Jack Harlow. The essential tracks, all in one playlist.",
+  "description": "This Is Jack Harlow. Los temas esenciales, todos en una lista.",
   "name": "This Is Jack Harlow",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 142945,
       "name": "2STYLISH",
       "url": "https://open.spotify.com/track/0qoxr5PUFbDqGLHIpEnWAr"
@@ -140,7 +140,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-15",
+      "date_removed": null,
       "duration_ms": 185856,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/4t6PoAHfGZ1cV90DiObtWx"
@@ -224,7 +224,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-20",
+      "date_removed": null,
       "duration_ms": 309327,
       "name": "Churchill Downs (feat. Drake)",
       "url": "https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD"
@@ -300,7 +300,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 156531,
       "name": "Creme",
       "url": "https://open.spotify.com/track/3DR7shAbkNyqgZjYnHZLh2"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 135053,
       "name": "Dua Lipa",
       "url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4"
@@ -470,7 +470,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 147260,
       "name": "HEAVY HITTER",
       "url": "https://open.spotify.com/track/7zJld1LpGmLsPt8IGOc0KL"
@@ -612,7 +612,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 118796,
       "name": "Is That Ight?",
       "url": "https://open.spotify.com/track/78aELoNP2X3DC3rjHEVLPy"
@@ -630,7 +630,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-20",
+      "date_removed": null,
       "duration_ms": 139416,
       "name": "It Can't Be",
       "url": "https://open.spotify.com/track/2lW1lJSLatkcHxwDdCiSTB"
@@ -732,7 +732,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 126217,
       "name": "Like A Blade Of Grass",
       "url": "https://open.spotify.com/track/22xea6Z2a8BbyVeCksSBX9"
@@ -900,7 +900,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 206385,
       "name": "Nail Tech",
       "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 196638,
       "name": "RAIN",
       "url": "https://open.spotify.com/track/4gY2S5FOKy3dUIGNJyt3dB"
@@ -1260,7 +1260,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-20",
+      "date_removed": null,
       "duration_ms": 225882,
       "name": "SYLVIA (feat. 2forwOyNE)",
       "url": "https://open.spotify.com/track/1AVm6MTy8qpaFi0gAa7Hlw"
@@ -1374,7 +1374,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-20",
+      "date_removed": null,
       "duration_ms": 152727,
       "name": "Time",
       "url": "https://open.spotify.com/track/2u1reDAcQvETi2bder48nX"
@@ -1392,7 +1392,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-20",
+      "date_removed": null,
       "duration_ms": 156578,
       "name": "Tyler Herro",
       "url": "https://open.spotify.com/track/3w1WjD2zJqjBjDz5fwqQPJ"
@@ -1432,7 +1432,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 187266,
       "name": "WARSAW (feat. 2forwOyNE)",
       "url": "https://open.spotify.com/track/2ihL1KGMA0geIqGT5pkZzo"
@@ -1512,7 +1512,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 224841,
       "name": "Young Harleezy",
       "url": "https://open.spotify.com/track/4CuZSJLlmUrEfcXUm6pQk9"

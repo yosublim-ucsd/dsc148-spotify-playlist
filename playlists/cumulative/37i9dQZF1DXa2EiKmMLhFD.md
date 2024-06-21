@@ -2,7 +2,7 @@
 
 ### [Hot Hits Indonesia](https://open.spotify.com/playlist/37i9dQZF1DXa2EiKmMLhFD)
 
-> Hits terpanas dari Dudy Oris, Tiara Andini serta artis terfavorit Anda dari dalam negeri dan mancanegara.
+> Hits terpanas dari Adrian Khalif, Juicy Luicy serta artis terfavorit Anda dari dalam negeri dan mancanegara.
 
 216 songs - 13 hr 32 min
 

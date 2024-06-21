@@ -1,6 +1,6 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 544562,
+  "num_followers": 544552,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
@@ -533,22 +533,6 @@
       "url": "https://open.spotify.com/track/4v2Bq0xDB7uNN73I5b44Du"
     },
     {
-      "added_at": "2024-04-18 19:24:00",
-      "album": {
-        "name": "Bored of Being Sad",
-        "url": "https://open.spotify.com/album/268knqkvUpS3Q9TnpuhSoT"
-      },
-      "artists": [
-        {
-          "name": "Microwave",
-          "url": "https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD"
-        }
-      ],
-      "duration_ms": 200660,
-      "name": "Bored of Being Sad",
-      "url": "https://open.spotify.com/track/2LUvkorPDO3n8xs6NEXDFY"
-    },
-    {
       "added_at": "2020-11-20 21:27:18",
       "album": {
         "name": "Mindreader",
@@ -563,6 +547,22 @@
       "duration_ms": 173520,
       "name": "Mindreader",
       "url": "https://open.spotify.com/track/2hVKFfp7Rmr2XPK31jFCrX"
+    },
+    {
+      "added_at": "2024-04-18 19:24:00",
+      "album": {
+        "name": "Bored of Being Sad",
+        "url": "https://open.spotify.com/album/268knqkvUpS3Q9TnpuhSoT"
+      },
+      "artists": [
+        {
+          "name": "Microwave",
+          "url": "https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD"
+        }
+      ],
+      "duration_ms": 200660,
+      "name": "Bored of Being Sad",
+      "url": "https://open.spotify.com/track/2LUvkorPDO3n8xs6NEXDFY"
     },
     {
       "added_at": "2024-04-18 19:24:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Degenerates",
+        "url": "https://open.spotify.com/album/3G3EHIjrfZAcy6w5zIOggZ"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "Degenerates",
+      "url": "https://open.spotify.com/track/77Ht6FFAeyHgKl6X87mnTk"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "Four Year Strong",
         "url": "https://open.spotify.com/album/3vV8Tam4ubcWalQSGZWuC8"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 202533,
       "name": "Time-Bomb Ticking Away",
       "url": "https://open.spotify.com/track/13zFCArzBLIPwvrV6IncpU"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Degenerates",
-        "url": "https://open.spotify.com/album/3G3EHIjrfZAcy6w5zIOggZ"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "Degenerates",
-      "url": "https://open.spotify.com/track/77Ht6FFAeyHgKl6X87mnTk"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1089,22 +1089,6 @@
       "url": "https://open.spotify.com/track/6DS51W3CvxpUO3Z8XXfKok"
     },
     {
-      "added_at": "2021-07-08 22:59:55",
-      "album": {
-        "name": "Hit Like A Girl",
-        "url": "https://open.spotify.com/album/4l3QmwKvZ9TR1lSnJvT6E0"
-      },
-      "artists": [
-        {
-          "name": "Meet Me @ The Altar",
-          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
-        }
-      ],
-      "duration_ms": 239237,
-      "name": "Hit Like A Girl",
-      "url": "https://open.spotify.com/track/3kfghhJVXyT2W2TlP2Vsw9"
-    },
-    {
       "added_at": "2020-11-20 21:27:18",
       "album": {
         "name": "Out of It",
@@ -1119,6 +1103,22 @@
       "duration_ms": 161523,
       "name": "Out of It",
       "url": "https://open.spotify.com/track/73QyfpApOMk3fApexIedBR"
+    },
+    {
+      "added_at": "2021-07-08 22:59:55",
+      "album": {
+        "name": "Hit Like A Girl",
+        "url": "https://open.spotify.com/album/4l3QmwKvZ9TR1lSnJvT6E0"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "duration_ms": 239237,
+      "name": "Hit Like A Girl",
+      "url": "https://open.spotify.com/track/3kfghhJVXyT2W2TlP2Vsw9"
     },
     {
       "added_at": "2021-07-08 22:59:55",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Nothing",
-        "url": "https://open.spotify.com/album/6vRQl7oXLlbETFBfYVJU7o"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 178989,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/5pS75IaSlSl2uWaP02L1xv"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "The Bottom",
         "url": "https://open.spotify.com/album/1YZf6wnBIwkvZzNkNTa4ZC"
       },
@@ -1499,18 +1483,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Bad Frequencies",
-        "url": "https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH"
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/6vRQl7oXLlbETFBfYVJU7o"
       },
       "artists": [
         {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 249000,
-      "name": "The Perfect Way to Fall Apart",
-      "url": "https://open.spotify.com/track/6EbrUOAtVI88FYpKL2s0Zp"
+      "duration_ms": 178989,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/5pS75IaSlSl2uWaP02L1xv"
     },
     {
       "added_at": "2024-04-18 19:24:00",
@@ -1527,6 +1511,22 @@
       "duration_ms": 194826,
       "name": "Sickner",
       "url": "https://open.spotify.com/track/53qusT03Me6Z7NbruE34EK"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Bad Frequencies",
+        "url": "https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "The Perfect Way to Fall Apart",
+      "url": "https://open.spotify.com/track/6EbrUOAtVI88FYpKL2s0Zp"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "In Spite of Me",
-        "url": "https://open.spotify.com/album/7ge6k6ARpyvXqOmMlc0pjS"
+        "name": "Nothing Grows Here",
+        "url": "https://open.spotify.com/album/3KtiLWd9uMx5dVe3n2nW2p"
       },
       "artists": [
         {
-          "name": "Like Pacific",
-          "url": "https://open.spotify.com/artist/5VKmfBc2pR80IxYoC1gHyH"
+          "name": "Calling All Captains",
+          "url": "https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG"
         }
       ],
-      "duration_ms": 177280,
-      "name": "Self Defeated",
-      "url": "https://open.spotify.com/track/2oh897TvP4jf38T4P94Nlt"
+      "duration_ms": 256700,
+      "name": "Fools Gold",
+      "url": "https://open.spotify.com/track/2dOPwODAXiOrkuFXLMTGd5"
     }
   ],
   "unique_name": "Punk Rock Workout",

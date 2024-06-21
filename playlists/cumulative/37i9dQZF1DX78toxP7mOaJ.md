@@ -4,7 +4,7 @@
 
 > Fresh rock from independent artists every Wednesday\. Cover: Proper.
 
-1,481 songs - 3 day 9 hr 39 min
+1,482 songs - 3 day 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -621,7 +621,7 @@
 | [High School Boyfriend](https://open.spotify.com/track/0QpkSDt5K2P0clLIrUb09Q) | [Mandy](https://open.spotify.com/artist/1AQ1mXYDvS1dwO5EZjY5LH) | [High School Boyfriend](https://open.spotify.com/album/0p7YcZemCUsH2RkcenvnSw) | 2:08 | 2024-03-20 | 2024-05-16 |
 | [High School Drama](https://open.spotify.com/track/4R5Mf6PT2EwgkZIXwoKjAD) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [High School Drama](https://open.spotify.com/album/4MBtDxeecH2fTMfs2wSPaM) | 2:52 | 2023-08-30 | 2023-09-21 |
 | [Hijacked](https://open.spotify.com/track/5V4CqymSdvKG5Uj63pPUUV) | [Pure Chlorine](https://open.spotify.com/artist/0XJHYxkjfwYpuIZO8tM6fl) | [Hijacked](https://open.spotify.com/album/2MkQLN7BsCZxhX11P7perM) | 2:55 | 2022-03-09 | 2022-05-12 |
-| [Hiraeth](https://open.spotify.com/track/0MpSOoluXMf6N98euX9yo0) | [Chelsea King](https://open.spotify.com/artist/0yVCrtYjupdKXLChvl57hj) | [I'll Meet You in Dreams](https://open.spotify.com/album/1uhZLdELL4y62Kxcr1brYl) | 4:56 | 2024-06-05 |  |
+| [Hiraeth](https://open.spotify.com/track/0MpSOoluXMf6N98euX9yo0) | [Chelsea King](https://open.spotify.com/artist/0yVCrtYjupdKXLChvl57hj) | [I'll Meet You in Dreams](https://open.spotify.com/album/1uhZLdELL4y62Kxcr1brYl) | 4:56 | 2024-06-05 | 2024-06-21 |
 | [Hiraeth Becomes a Star](https://open.spotify.com/track/3drX09CHl3kicW6T8dActw) | [sun is poison](https://open.spotify.com/artist/6z8QxGgkqFIkubQA3rCjZt) | [God Gave Him a Wolf's Heart \(outtakes 2022\)](https://open.spotify.com/album/3jn9KHGkSPslh45zyYlv2a) | 1:59 | 2023-01-11 | 2023-02-23 |
 | [Hit the Buck](https://open.spotify.com/track/1Vo2q8wTQ1B6nPYCG73vFZ) | [Bandaid Brigade](https://open.spotify.com/artist/1eL9L9lSZ99HAi5XIsIv3E) | [Hit the Buck](https://open.spotify.com/album/6TawUteQOl1U0RZhiM9L1B) | 2:42 | 2022-05-04 | 2022-07-28 |
 | [Hold On](https://open.spotify.com/track/3dl6BNoUgzvtG2aQ2hqzKO) | [KIDPUNK](https://open.spotify.com/artist/6QUkxY9FkBh9XF4qCbaABt) | [Hold On](https://open.spotify.com/album/6Phz8GiLOJLu4c1JPEjf3h) | 3:15 | 2022-07-27 | 2022-08-25 |
@@ -729,6 +729,7 @@
 | [Isolation](https://open.spotify.com/track/07xiE6Yt9ST6x5l754a1cN) | [The Cordial Sins](https://open.spotify.com/artist/4NlWq8xUGLMfeRpMdoSlNa) | [Small Talk](https://open.spotify.com/album/7FqIhJN2XTTR6aVi8VdNZO) | 4:24 | 2023-05-10 | 2023-07-27 |
 | [it all comes down to this](https://open.spotify.com/track/7rNSLbWIUgCCjrQrR3axjD) | [Cameron Alexander](https://open.spotify.com/artist/4UEhRpvgoL0uYB1Gt0jFg4) | [it all comes down to this](https://open.spotify.com/album/6EocFKshUw0wq7bsBXbXSg) | 3:26 | 2021-12-01 | 2022-02-17 |
 | [It Makes Me Think of You](https://open.spotify.com/track/3JyGawjc2ObAyGB6eSqlSL) | [Chelsea King](https://open.spotify.com/artist/0yVCrtYjupdKXLChvl57hj) | [It Makes Me Think of You](https://open.spotify.com/album/3BH1pK6fFuDZZVLxXDBsAz) | 4:23 | 2024-04-17 | 2024-06-06 |
+| [It Makes Me Think of You](https://open.spotify.com/track/3t9GFi3dVyRj7CutGODMcy) | [Chelsea King](https://open.spotify.com/artist/0yVCrtYjupdKXLChvl57hj) | [I'll Meet You in Dreams](https://open.spotify.com/album/1uhZLdELL4y62Kxcr1brYl) | 4:23 | 2024-06-20 |  |
 | [It Wants Me Dead](https://open.spotify.com/track/5Xb0wpyVf9DEJnfgtiUoLx) | [Skuff Micksun](https://open.spotify.com/artist/7oGAs6hBlictxtFq3td4Ag) | [It Wants Me Dead](https://open.spotify.com/album/7mafZXhP9Ih9YFg1WJ28i8) | 3:07 | 2022-07-06 | 2022-09-22 |
 | [It's A Pain](https://open.spotify.com/track/6fYQfO8TdcHsrGsyiHcbP6) | [Bummer Camp](https://open.spotify.com/artist/03PQWgjoaJt88TpMi1dmm5) | [Big Deal](https://open.spotify.com/album/4hclPpxh4OdsHhYc14TpQV) | 2:54 | 2023-10-18 | 2024-04-04 |
 | [it's changed](https://open.spotify.com/track/1nWcuUtlM5aAdiCLi6NSXT) | [really big really clever](https://open.spotify.com/artist/4N9XT7K7Yk6N2Ee9wZrU0T) | [it's changed](https://open.spotify.com/album/6J5HvIH9PwgP4bNV9oQxEs) | 1:35 | 2023-02-08 | 2023-04-06 |

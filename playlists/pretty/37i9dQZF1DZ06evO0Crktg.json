@@ -1,12 +1,12 @@
 {
-  "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 219311,
+  "description": "This is Jelly Roll. Track-track unggulan, semuanya dalam satu playlist.",
+  "num_followers": 219586,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zm98gAAAAAD3Qg8bd/dm94ddpVZuSoNx",
+  "snapshot_id": "ZnIfgAAAAACNTsebJY9jvmRtmzsfe0Mk",
   "tracks": [
     {
       "added_at": null,
@@ -791,26 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trailer In The Sky",
-        "url": "https://open.spotify.com/album/5qcgrJD0LkQ9UoRTlKljJ9"
-      },
-      "artists": [
-        {
-          "name": "Yelawolf",
-          "url": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 165666,
-      "name": "Trailer In The Sky",
-      "url": "https://open.spotify.com/track/0L0JLgaFwuPhCs7W9CzwRb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sobriety Sucks",
         "url": "https://open.spotify.com/album/2Y0q8RgRdv3zyX3mndNSPK"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 152100,
       "name": "Copenhagen In A Cadillac",
       "url": "https://open.spotify.com/track/7gKSILe05xzPx5qqgYtYj5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trailer In The Sky",
+        "url": "https://open.spotify.com/album/5qcgrJD0LkQ9UoRTlKljJ9"
+      },
+      "artists": [
+        {
+          "name": "Yelawolf",
+          "url": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 165666,
+      "name": "Trailer In The Sky",
+      "url": "https://open.spotify.com/track/0L0JLgaFwuPhCs7W9CzwRb"
     },
     {
       "added_at": null,

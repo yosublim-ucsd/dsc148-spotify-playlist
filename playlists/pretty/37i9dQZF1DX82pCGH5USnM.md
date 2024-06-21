@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 
 > Soft house music for your laidback moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,312,175 likes - 362 songs - 17 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,312,226 likes - 362 songs - 17 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 | 23 | [Rewind](https://open.spotify.com/track/1X3ZacDFsFxqwWJud95Iah) | [Mandy Mars](https://open.spotify.com/artist/2TfKQgp7fc193rRreQDRP9) | [Rewind](https://open.spotify.com/album/7y38qm3CFyQNWJdo8xb2zm) | 2:53 |
 | 24 | [Soul Balance](https://open.spotify.com/track/5jRdhhDJ6rahAxtPI8CYrU) | [Major Mirror](https://open.spotify.com/artist/4TJKZfkv0XFP29x1TVBSny) | [Soul Balance](https://open.spotify.com/album/585lWip1w8XUC8WU2AVIjv) | 2:39 |
 | 25 | [Fantasy Break](https://open.spotify.com/track/6cYQnckvEssvCOwSR27qlD) | [liily day](https://open.spotify.com/artist/6cEnad7Xq3IDYJ2yBnpUlN) | [Fantasy Break](https://open.spotify.com/album/2AQSuYgUlJk5LwGFzPKbg5) | 2:28 |
-| 26 | [Pink Lotus](https://open.spotify.com/track/44wGeD6iWx6thvgrmlytzi) | [Lui](https://open.spotify.com/artist/3gtCKCi0Er4NlFhSb9rS1c) | [Pink Lotus](https://open.spotify.com/album/7fE6IzA6VWYpYiDXma3FrF) | 3:00 |
+| 26 | [Pink Lotus](https://open.spotify.com/track/44wGeD6iWx6thvgrmlytzi) | [Lui](https://open.spotify.com/artist/0Rk4M5J8WUbwga9BIXQyZA) | [Pink Lotus](https://open.spotify.com/album/7fE6IzA6VWYpYiDXma3FrF) | 3:00 |
 | 27 | [Sunrise](https://open.spotify.com/track/77nlEppe4WUzvEKbFgGip4) | [Mygg An](https://open.spotify.com/artist/1YaivDyy6lgWBZF6fQfuRz) | [Sunrise](https://open.spotify.com/album/5QqcL4rDMSStEptlgQvdrA) | 2:09 |
 | 28 | [Wonder More](https://open.spotify.com/track/6Ex4RotAvWFZ8Gs72DTOGI) | [Jo Lange](https://open.spotify.com/artist/1IoUhC61gvcKQiYvbus1me) | [Wonder More](https://open.spotify.com/album/7spk3K6Q5V2mmpNa6x3pF7) | 2:59 |
 | 29 | [The Flower Thief](https://open.spotify.com/track/1se6rSnqTnmkLQIqk9F6x0) | [it's me.](https://open.spotify.com/artist/7BH7npacpxjp6jb16gZ8H4) | [The Flower Thief](https://open.spotify.com/album/2Rn3VEGSYIlglxyIY6jW9O) | 2:59 |

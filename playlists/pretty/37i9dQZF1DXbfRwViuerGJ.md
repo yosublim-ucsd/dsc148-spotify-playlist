@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbfRwViuerGJ.md) - [plain]
 
 > Celebrate all of the best Spotify Kids' hits in 2023 with your family!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,095 likes - 35 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,091 likes - 35 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbfRwViuerGJ.md) - [plain]
 | 15 | [You Are My Sunshine](https://open.spotify.com/track/3XIuHsf6ct8x5trcPEgzho) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [McKnighttime Lullabies](https://open.spotify.com/album/1sh3Rg2dugulwHxl98WTC6) | 2:58 |
 | 16 | [Take A Deep Breath](https://open.spotify.com/track/58IaCPTc9RebTlyBwjbBxb) | [Slumberkins](https://open.spotify.com/artist/5oC4IIutTVy3XmJbTFRfPi), [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Together We Shine, Vol\. 1](https://open.spotify.com/album/0OxB9BCnFjkUobw4Z1V6Y4) | 2:46 |
 | 17 | [Feelin' Good](https://open.spotify.com/track/1Tt5AcD1MSCByopcAcCGIt) | [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Feelin' Good](https://open.spotify.com/album/33ucCfGMl6jd9tp0jvTtlc) | 3:03 |
-| 18 | [Dino Dance](https://open.spotify.com/track/6HhWEKierHnVWd1aVnklr5) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn), [Meekah](https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3) | [Dino Dance](https://open.spotify.com/album/2YjTWYXFgdHceTaJTMBrFR) | 1:42 |
+| 18 | [Dino Dance \- Stomp, Stomp, Stomp](https://open.spotify.com/track/6HhWEKierHnVWd1aVnklr5) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn), [Meekah](https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3) | [Dino Dance \(Stomp, Stomp, Stomp\)](https://open.spotify.com/album/2YjTWYXFgdHceTaJTMBrFR) | 1:42 |
 | 19 | [Can I Have This Dance](https://open.spotify.com/track/5NILdwF8RA28VxOeqPpEcg) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J), [Sofia Wylie](https://open.spotify.com/artist/0K0YUvOFH3TVILvIPBfeYN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series \(Original Soundtrack/The Final Season\)](https://open.spotify.com/album/4lgerEl1WmufPna1oqpsQZ) | 4:03 |
 | 20 | [Part of Your World \- From "The Little Mermaid"](https://open.spotify.com/track/2pcSENGQmdptFCBQ3HpKHe) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [Part of Your World \(From "The Little Mermaid"\)](https://open.spotify.com/album/1cehuxhFNt8Q8Eobacb0YR) | 3:34 |
 | 21 | [Mom the Bounty Hunter \(from the Netflix Series "My Dad the Bounty Hunter"\)\`](https://open.spotify.com/track/5HVSXWiAEQEGKZyQOgVCCc) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq), [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w) | [Mom the Bounty Hunter \(from the Netflix Series "My Dad the Bounty Hunter"\)](https://open.spotify.com/album/3rJ69PV57G5a5odY6QKxRH) | 2:35 |

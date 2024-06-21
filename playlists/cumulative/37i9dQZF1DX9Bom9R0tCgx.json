@@ -425,6 +425,24 @@
     },
     {
       "album": {
+        "name": "Anyplace Anywhere Anytime",
+        "url": "https://open.spotify.com/album/72Qo17coNcjPEz4wRPecyV"
+      },
+      "artists": [
+        {
+          "name": "DJSM",
+          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170535,
+      "name": "Anyplace Anywhere Anytime",
+      "url": "https://open.spotify.com/track/6Je0JUhGDrSRECb8s4Aqve"
+    },
+    {
+      "album": {
         "name": "Apollo",
         "url": "https://open.spotify.com/album/1LqYkBtUxZKXZ2MNmIjqTe"
       },
@@ -999,6 +1017,28 @@
     },
     {
       "album": {
+        "name": "Boom Boom Boom",
+        "url": "https://open.spotify.com/album/61kxtwoBSwj15YzF0LZr3G"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181787,
+      "name": "Boom Boom Boom",
+      "url": "https://open.spotify.com/track/2e7cgqJbNLp5W5L2XAinEw"
+    },
+    {
+      "album": {
         "name": "Bottle of Bubbly",
         "url": "https://open.spotify.com/album/5OuijjUhxEXdaWjZNg7fZV"
       },
@@ -1080,7 +1120,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 134357,
       "name": "Burn",
       "url": "https://open.spotify.com/track/2kQ853vf9Z5rxjJCQRRQIL"
@@ -1346,7 +1386,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 124000,
       "name": "Closer",
       "url": "https://open.spotify.com/track/4dibWyQq6IHkuelC7aDSSP"
@@ -1578,7 +1618,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 172067,
       "name": "DELTA",
       "url": "https://open.spotify.com/track/5NcT6HWiBiETs1mTFYXR1U"
@@ -1640,6 +1680,28 @@
       "duration_ms": 168529,
       "name": "Diamonds On My Mind",
       "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
+    },
+    {
+      "album": {
+        "name": "Dies Irae",
+        "url": "https://open.spotify.com/album/2FWnZEsOMHOvWiUGpuLG2L"
+      },
+      "artists": [
+        {
+          "name": "Fyex",
+          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
+        },
+        {
+          "name": "Diego Miranda",
+          "url": "https://open.spotify.com/artist/58La32UtamIpPg8Ajm6FE6"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142203,
+      "name": "Dies Irae",
+      "url": "https://open.spotify.com/track/42bTYbZoUsePXhMB4ujHM4"
     },
     {
       "album": {
@@ -1706,6 +1768,46 @@
       "duration_ms": 157890,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
+    },
+    {
+      "album": {
+        "name": "Do It To It",
+        "url": "https://open.spotify.com/album/3fWdpln80JI7ucgaSVNgOl"
+      },
+      "artists": [
+        {
+          "name": "R3SPAWN",
+          "url": "https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB"
+        },
+        {
+          "name": "Julia Hallasen",
+          "url": "https://open.spotify.com/artist/31Izzl2gwnqQ3G4LKCyEup"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124195,
+      "name": "Do It To It",
+      "url": "https://open.spotify.com/track/7DiKjH02wk2zH26Rni1XnA"
+    },
+    {
+      "album": {
+        "name": "Doggy Style",
+        "url": "https://open.spotify.com/album/0Jd5RNbJ8EBwzRopT611wS"
+      },
+      "artists": [
+        {
+          "name": "Alfons",
+          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127200,
+      "name": "Doggy Style",
+      "url": "https://open.spotify.com/track/6ZfpGs7AtyO29kRjcI52dN"
     },
     {
       "album": {
@@ -1778,7 +1880,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 304500,
       "name": "Donkers",
       "url": "https://open.spotify.com/track/6kvjzDjx2Z3z23xRq13xMu"
@@ -2560,7 +2662,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 208804,
       "name": "GENESIS",
       "url": "https://open.spotify.com/track/2NZ8HlZmXQUvDonf24hw34"
@@ -3344,6 +3446,24 @@
       "duration_ms": 131823,
       "name": "JEEP",
       "url": "https://open.spotify.com/track/2gUGnkgQaNTpfo2d5hZNPT"
+    },
+    {
+      "album": {
+        "name": "Jerk It Out",
+        "url": "https://open.spotify.com/album/3h5YGKxwIHpALqFFYSH5BY"
+      },
+      "artists": [
+        {
+          "name": "ILYAA",
+          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Jerk It Out",
+      "url": "https://open.spotify.com/track/0HhCzdm7N8KCFpUurURQNA"
     },
     {
       "album": {
@@ -4987,6 +5107,28 @@
     },
     {
       "album": {
+        "name": "Olympia",
+        "url": "https://open.spotify.com/album/52OLlkmoAs4JZqiQjJzaZY"
+      },
+      "artists": [
+        {
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+        },
+        {
+          "name": "MARTIN K4RMA",
+          "url": "https://open.spotify.com/artist/728yYZBKoJYPrgx4UYonej"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233239,
+      "name": "Olympia",
+      "url": "https://open.spotify.com/track/4utyns4Q2nIRg7SWjFpCIU"
+    },
+    {
+      "album": {
         "name": "One By One (feat. Oaks) [Andromedik Remix]",
         "url": "https://open.spotify.com/album/16dGc8axqZ3AwFDfS6PmPQ"
       },
@@ -5580,7 +5722,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 206896,
       "name": "Psychotek",
       "url": "https://open.spotify.com/track/40S4EmuYBEY75SVGhejtrT"
@@ -6140,7 +6282,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 135085,
       "name": "Run (Part 1)",
       "url": "https://open.spotify.com/track/4YWZse32ILPANRnB9EVyIm"
@@ -6966,7 +7108,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 214817,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/2J9ttXlJoW4yo0eSH8asIf"
@@ -7400,6 +7542,24 @@
       "duration_ms": 191200,
       "name": "Tell Me Why - Maddix Remix",
       "url": "https://open.spotify.com/track/5D8Z0KkFce9ir2yak7uj5C"
+    },
+    {
+      "album": {
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/4hRnKsXRJ2tjR64XAE8JbL"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166299,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/3ZgB2mUHXuESVEkidu9GDC"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: DJ Sliink",
-  "num_followers": 83254,
+  "num_followers": 83272,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
@@ -1167,6 +1167,26 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Go To Work (Jersey Club Remix)",
+        "url": "https://open.spotify.com/album/7HPyiBk3B1Zc8k97yKcAlt"
+      },
+      "artists": [
+        {
+          "name": "Chris Mula",
+          "url": "https://open.spotify.com/artist/7yB3nxWc3RKARKFpbdwFaB"
+        },
+        {
+          "name": "Ziahfyah",
+          "url": "https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl"
+        }
+      ],
+      "duration_ms": 108366,
+      "name": "Go To Work (Jersey Club Remix)",
+      "url": "https://open.spotify.com/track/1bjpFFNsnPFlch5syckYVL"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "HOW 2 BUILD A BETTER BOY",
         "url": "https://open.spotify.com/album/0JmTHqE4g2KcRW3HhPVdOs"
       },
@@ -1195,26 +1215,6 @@
       "duration_ms": 73500,
       "name": "All My Ladies",
       "url": "https://open.spotify.com/track/3rIrIajLfPH2pom9OLlJwY"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Go To Work (Jersey Club Remix)",
-        "url": "https://open.spotify.com/album/7HPyiBk3B1Zc8k97yKcAlt"
-      },
-      "artists": [
-        {
-          "name": "Chris Mula",
-          "url": "https://open.spotify.com/artist/7yB3nxWc3RKARKFpbdwFaB"
-        },
-        {
-          "name": "Ziahfyah",
-          "url": "https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl"
-        }
-      ],
-      "duration_ms": 108366,
-      "name": "Go To Work (Jersey Club Remix)",
-      "url": "https://open.spotify.com/track/1bjpFFNsnPFlch5syckYVL"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Day Ones",
-        "url": "https://open.spotify.com/album/4STghfPx4foktyWk2TCJWq"
-      },
-      "artists": [
-        {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
-        },
-        {
-          "name": "SAFE",
-          "url": "https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz"
-        }
-      ],
-      "duration_ms": 162089,
-      "name": "Day Ones",
-      "url": "https://open.spotify.com/track/77oV9hbYmMtPGmVxk6qRqp"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "HATE ME",
         "url": "https://open.spotify.com/album/3iWKVzI8YtUmESnwlwAnV9"
       },
@@ -1359,6 +1339,26 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Drowning (Remixes)",
+        "url": "https://open.spotify.com/album/3nIatv0DsncjyHL9aNKYv7"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Drowning (feat. Kodak Black) - Jersey Club Remix",
+      "url": "https://open.spotify.com/track/4DuAzqkeL6tXge2XCkxFve"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Ayo (Jersey Club) [feat. DJ Bake]",
         "url": "https://open.spotify.com/album/6Cx4qSERqSayTwLFNjknbU"
       },
@@ -1379,22 +1379,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Drowning (Remixes)",
-        "url": "https://open.spotify.com/album/3nIatv0DsncjyHL9aNKYv7"
+        "name": "Day Ones",
+        "url": "https://open.spotify.com/album/4STghfPx4foktyWk2TCJWq"
       },
       "artists": [
         {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
         },
         {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+          "name": "SAFE",
+          "url": "https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz"
         }
       ],
-      "duration_ms": 128000,
-      "name": "Drowning (feat. Kodak Black) - Jersey Club Remix",
-      "url": "https://open.spotify.com/track/4DuAzqkeL6tXge2XCkxFve"
+      "duration_ms": 162089,
+      "name": "Day Ones",
+      "url": "https://open.spotify.com/track/77oV9hbYmMtPGmVxk6qRqp"
     }
   ],
   "unique_name": "Jersey Club Heat",

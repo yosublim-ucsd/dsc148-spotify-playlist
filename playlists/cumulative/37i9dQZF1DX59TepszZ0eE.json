@@ -3487,6 +3487,32 @@
     },
     {
       "album": {
+        "name": "Pride (A Deeper Love)",
+        "url": "https://open.spotify.com/album/3ZKEYuxs7up1KWfIqM9Uhd"
+      },
+      "artists": [
+        {
+          "name": "Soweto Gospel Choir",
+          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
+        },
+        {
+          "name": "Groove Terminator",
+          "url": "https://open.spotify.com/artist/1bA9XJwgaR3yVHNMTCqJ02"
+        },
+        {
+          "name": "Latroit",
+          "url": "https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Pride (A Deeper Love)",
+      "url": "https://open.spotify.com/track/2IW6l9VuFJDDhGU2IXz4sC"
+    },
+    {
+      "album": {
         "name": "Provider",
         "url": "https://open.spotify.com/album/1sITlmcQXf1rY1L85dj285"
       },

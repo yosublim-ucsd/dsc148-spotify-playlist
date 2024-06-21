@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Emma'a x Ronisia",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Franglish",
   "name": "R&Bae",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 191426,
       "name": "4 anneaux",
       "url": "https://open.spotify.com/track/24nAhbOcKz2mM2dqf7ozFh"
@@ -828,6 +828,24 @@
       "duration_ms": 223073,
       "name": "Carry Me",
       "url": "https://open.spotify.com/track/3vxS3k5siCY0mFfGGTx4pk"
+    },
+    {
+      "album": {
+        "name": "Charg\u00e9",
+        "url": "https://open.spotify.com/album/19svbEeQHhBs6BOGllJobD"
+      },
+      "artists": [
+        {
+          "name": "Davy One",
+          "url": "https://open.spotify.com/artist/3QCQdyKtg9Yx1rYYnMb7pz"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127555,
+      "name": "Charg\u00e9",
+      "url": "https://open.spotify.com/track/6rAXyvFRcgQb8CvMHAV2h2"
     },
     {
       "album": {
@@ -2992,7 +3010,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 130850,
       "name": "Lollipop",
       "url": "https://open.spotify.com/track/2fH3bgJzaHjbqlEFCC5ti4"
@@ -4660,6 +4678,24 @@
       "duration_ms": 181224,
       "name": "Quelqu'un d'autre",
       "url": "https://open.spotify.com/track/4e4hmNgPXUzfoANBzZbV9h"
+    },
+    {
+      "album": {
+        "name": "Quotidien",
+        "url": "https://open.spotify.com/album/1rsNqWkcclmxJ40A7SBy5u"
+      },
+      "artists": [
+        {
+          "name": "IPNDEGO",
+          "url": "https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165571,
+      "name": "Quotidien",
+      "url": "https://open.spotify.com/track/5JwXsa9ubLYdECgnc66Mlz"
     },
     {
       "album": {

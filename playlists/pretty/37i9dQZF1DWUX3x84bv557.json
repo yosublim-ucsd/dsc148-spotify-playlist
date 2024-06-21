@@ -1,13 +1,37 @@
 {
-  "description": "De nieuwste Nederlandse pop! Cover: Emma Heesters & Rolf Sanchez",
-  "num_followers": 162703,
+  "description": "De nieuwste Nederlandse pop! Cover: Big2, Antoon & Bilal Wahib",
+  "num_followers": 162744,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnCzvAAAAADimezX7rBY4vum+6PAmDEW",
+  "snapshot_id": "ZnSmYAAAAAAaswE0+GVdpXTm3ElXeQW2",
   "tracks": [
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "\u00c7a Va",
+        "url": "https://open.spotify.com/album/0MmjwvLcZF5y7ocMVV69E3"
+      },
+      "artists": [
+        {
+          "name": "Big2",
+          "url": "https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV"
+        },
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        },
+        {
+          "name": "Bilal Wahib",
+          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
+        }
+      ],
+      "duration_ms": 130571,
+      "name": "\u00c7a Va",
+      "url": "https://open.spotify.com/track/4KIsxUAKHmbnrNqraNs6Yb"
+    },
     {
       "added_at": "2024-06-17 22:07:56",
       "album": {
@@ -31,6 +55,38 @@
     {
       "added_at": "2024-06-17 22:07:56",
       "album": {
+        "name": "Wat Er Ook Gebeurt",
+        "url": "https://open.spotify.com/album/68nAyxzH7dJkcsGnifgI5k"
+      },
+      "artists": [
+        {
+          "name": "Xerxes",
+          "url": "https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS"
+        }
+      ],
+      "duration_ms": 188614,
+      "name": "Wat Er Ook Gebeurt",
+      "url": "https://open.spotify.com/track/1DfvARmbKyxKZwa6Y6LQtF"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Zolang ik geef",
+        "url": "https://open.spotify.com/album/44u0hYOhCE1wcjojTT8Fdg"
+      },
+      "artists": [
+        {
+          "name": "Tessa June",
+          "url": "https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk"
+        }
+      ],
+      "duration_ms": 144886,
+      "name": "Zolang ik geef",
+      "url": "https://open.spotify.com/track/76eD9ClF3KI9nmpduI1eKm"
+    },
+    {
+      "added_at": "2024-06-17 22:07:56",
+      "album": {
         "name": "Samen Tegen Elkaar",
         "url": "https://open.spotify.com/album/0SICrWXEeAB0feHy4iyTbH"
       },
@@ -45,20 +101,40 @@
       "url": "https://open.spotify.com/track/5EcWtCCPsmWOIJUakcjdiG"
     },
     {
-      "added_at": "2024-06-17 22:07:56",
+      "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Wat Er Ook Gebeurt",
-        "url": "https://open.spotify.com/album/68nAyxzH7dJkcsGnifgI5k"
+        "name": "Onder Invloed",
+        "url": "https://open.spotify.com/album/1wHyKHiPa0OIc2nCNr6Deq"
       },
       "artists": [
         {
-          "name": "Xerxes",
-          "url": "https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS"
+          "name": "Russo",
+          "url": "https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee"
         }
       ],
-      "duration_ms": 188614,
-      "name": "Wat Er Ook Gebeurt",
-      "url": "https://open.spotify.com/track/1DfvARmbKyxKZwa6Y6LQtF"
+      "duration_ms": 164500,
+      "name": "Onder Invloed",
+      "url": "https://open.spotify.com/track/7ABMV7gt2YIQGBjkQ3IqZz"
+    },
+    {
+      "added_at": "2024-06-17 22:07:56",
+      "album": {
+        "name": "Ik Wil Dat Je Liegt",
+        "url": "https://open.spotify.com/album/5OpBG7QnV8Frg31RrAvjYV"
+      },
+      "artists": [
+        {
+          "name": "Hannah Mae",
+          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
+        },
+        {
+          "name": "MAKSIM",
+          "url": "https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl"
+        }
+      ],
+      "duration_ms": 174953,
+      "name": "Ik Wil Dat Je Liegt",
+      "url": "https://open.spotify.com/track/6ifKXZTqAuLA35TGCVuGBU"
     },
     {
       "added_at": "2024-06-17 22:07:56",
@@ -97,6 +173,22 @@
       "url": "https://open.spotify.com/track/0ARfM8J2uVN3pFojPpQLQ1"
     },
     {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "ik ben soms bang in het donker",
+        "url": "https://open.spotify.com/album/2lWHBuyE13th6358dardao"
+      },
+      "artists": [
+        {
+          "name": "ANNE",
+          "url": "https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS"
+        }
+      ],
+      "duration_ms": 189473,
+      "name": "masker",
+      "url": "https://open.spotify.com/track/2nP2m6DarEheNK0oTU95Iw"
+    },
+    {
       "added_at": "2024-06-17 22:07:56",
       "album": {
         "name": "Cabrio",
@@ -111,26 +203,6 @@
       "duration_ms": 129103,
       "name": "Cabrio",
       "url": "https://open.spotify.com/track/248Ymld7H87hYWNFQjgj1m"
-    },
-    {
-      "added_at": "2024-06-17 22:07:56",
-      "album": {
-        "name": "Ik Wil Dat Je Liegt",
-        "url": "https://open.spotify.com/album/5OpBG7QnV8Frg31RrAvjYV"
-      },
-      "artists": [
-        {
-          "name": "Hannah Mae",
-          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
-        },
-        {
-          "name": "MAKSIM",
-          "url": "https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl"
-        }
-      ],
-      "duration_ms": 174953,
-      "name": "Ik Wil Dat Je Liegt",
-      "url": "https://open.spotify.com/track/6ifKXZTqAuLA35TGCVuGBU"
     },
     {
       "added_at": "2024-06-17 22:07:56",
@@ -151,6 +223,22 @@
       "duration_ms": 126666,
       "name": "Metronoom",
       "url": "https://open.spotify.com/track/3W5Oaik0KYTd4xc2VLxSO7"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Gewoon",
+        "url": "https://open.spotify.com/album/0n92DDS6QU5acQJ08ztYRP"
+      },
+      "artists": [
+        {
+          "name": "Stenfert",
+          "url": "https://open.spotify.com/artist/7nfwBKWMnPY7FJZQwh1wq8"
+        }
+      ],
+      "duration_ms": 155103,
+      "name": "Gewoon",
+      "url": "https://open.spotify.com/track/1GlYKZiRpzVEzRSuApwVeK"
     },
     {
       "added_at": "2024-06-17 22:07:56",
@@ -215,6 +303,22 @@
       "duration_ms": 142075,
       "name": "Het Geluid Van Stilte",
       "url": "https://open.spotify.com/track/7M3Ep9kaUWHi7CfXcKSykz"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Als Je Met Me Flirt",
+        "url": "https://open.spotify.com/album/4AF4Z6btck5OQGRkcBMB2Z"
+      },
+      "artists": [
+        {
+          "name": "Mathilde Bloom",
+          "url": "https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM"
+        }
+      ],
+      "duration_ms": 175038,
+      "name": "Als Je Met Me Flirt",
+      "url": "https://open.spotify.com/track/1lUnlVU1buAtHnk5vUNYEC"
     },
     {
       "added_at": "2024-06-17 22:07:56",
@@ -489,20 +593,20 @@
       "url": "https://open.spotify.com/track/5FgTrTxLgQcf4N2Nxgarkw"
     },
     {
-      "added_at": "2024-06-17 22:07:56",
+      "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Geen Manieren",
-        "url": "https://open.spotify.com/album/5tKWwsmBHRwyd4BsOmRUry"
+        "name": "Vol Geluk",
+        "url": "https://open.spotify.com/album/23seFRUDp7rC0fj2s972oU"
       },
       "artists": [
         {
-          "name": "Faske",
-          "url": "https://open.spotify.com/artist/0WCFYAsNdBO9LraOxLoHoG"
+          "name": "Nigel Sean",
+          "url": "https://open.spotify.com/artist/4INB4fkjhrcvgOrhkNtaxT"
         }
       ],
-      "duration_ms": 191956,
-      "name": "Geen Manieren",
-      "url": "https://open.spotify.com/track/2ja2I9NnS2ujZ4woWMgJI1"
+      "duration_ms": 112827,
+      "name": "Vol Geluk",
+      "url": "https://open.spotify.com/track/39bzVRAtNSKI7xSmoKC4dX"
     },
     {
       "added_at": "2024-06-17 22:07:56",
@@ -519,6 +623,38 @@
       "duration_ms": 150674,
       "name": "Doe Maar",
       "url": "https://open.spotify.com/track/2oCFzEd9T5Tz9PWsINhaQ5"
+    },
+    {
+      "added_at": "2024-06-17 22:07:56",
+      "album": {
+        "name": "Geen Manieren",
+        "url": "https://open.spotify.com/album/5tKWwsmBHRwyd4BsOmRUry"
+      },
+      "artists": [
+        {
+          "name": "Faske",
+          "url": "https://open.spotify.com/artist/0WCFYAsNdBO9LraOxLoHoG"
+        }
+      ],
+      "duration_ms": 191956,
+      "name": "Geen Manieren",
+      "url": "https://open.spotify.com/track/2ja2I9NnS2ujZ4woWMgJI1"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Alle sterke mensen",
+        "url": "https://open.spotify.com/album/7CWmjZX0RujBqmDn6EpmuQ"
+      },
+      "artists": [
+        {
+          "name": "Gerson Main",
+          "url": "https://open.spotify.com/artist/4Dx8d8fm84Z6b1RDuF4Co7"
+        }
+      ],
+      "duration_ms": 169053,
+      "name": "Alle sterke mensen",
+      "url": "https://open.spotify.com/track/01a4YW6fMlq7oa3Tlx0yVI"
     },
     {
       "added_at": "2024-06-17 22:07:56",
@@ -795,22 +931,6 @@
     {
       "added_at": "2024-06-17 22:07:56",
       "album": {
-        "name": "Life After Daddy",
-        "url": "https://open.spotify.com/album/4FabIeNicgzy4CJhVzIMzC"
-      },
-      "artists": [
-        {
-          "name": "Kraantje Pappie",
-          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
-        }
-      ],
-      "duration_ms": 192505,
-      "name": "Naakt Zien",
-      "url": "https://open.spotify.com/track/7E7Qhgkd8iGXj4o8l87SGN"
-    },
-    {
-      "added_at": "2024-06-17 22:07:56",
-      "album": {
         "name": "Op Het Balkon",
         "url": "https://open.spotify.com/album/1fyXAy7SAkLfQCW8n6Pwjf"
       },
@@ -923,22 +1043,6 @@
     {
       "added_at": "2024-06-17 22:07:56",
       "album": {
-        "name": "Blik Op Jou",
-        "url": "https://open.spotify.com/album/2eszVV2AEnzsQX5cPnKA15"
-      },
-      "artists": [
-        {
-          "name": "Jada Borsato",
-          "url": "https://open.spotify.com/artist/6EdpDU1kcKCtErNVnIpUbE"
-        }
-      ],
-      "duration_ms": 191935,
-      "name": "Blik Op Jou",
-      "url": "https://open.spotify.com/track/6n7MvjxLnE0EYNVDn5kh6c"
-    },
-    {
-      "added_at": "2024-06-17 22:07:56",
-      "album": {
         "name": "Verdwaald",
         "url": "https://open.spotify.com/album/0A9yFlt9tRacvGdznye7t0"
       },
@@ -975,38 +1079,6 @@
     {
       "added_at": "2024-06-17 22:07:56",
       "album": {
-        "name": "Sugardaddy",
-        "url": "https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf"
-      },
-      "artists": [
-        {
-          "name": "Roxy Dekker",
-          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
-        }
-      ],
-      "duration_ms": 131796,
-      "name": "Sugardaddy",
-      "url": "https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4"
-    },
-    {
-      "added_at": "2024-06-17 22:07:56",
-      "album": {
-        "name": "Geen Afscheid",
-        "url": "https://open.spotify.com/album/4dOsneFTsRlUXPWVWrr7Ne"
-      },
-      "artists": [
-        {
-          "name": "Sarita Lorena",
-          "url": "https://open.spotify.com/artist/5V9JsrZb5RjuvbzvJsA5gp"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Geen Afscheid",
-      "url": "https://open.spotify.com/track/2BwUN986gM7c7IidyCP9Dr"
-    },
-    {
-      "added_at": "2024-06-17 22:07:56",
-      "album": {
         "name": "Liever Dan Lief",
         "url": "https://open.spotify.com/album/2xBlCsxpTu5BjIToy8GeWI"
       },
@@ -1019,22 +1091,6 @@
       "duration_ms": 206287,
       "name": "Liever Dan Lief",
       "url": "https://open.spotify.com/track/45tt651zCvMR0Lq2xABBBo"
-    },
-    {
-      "added_at": "2024-06-17 22:07:56",
-      "album": {
-        "name": "Is Dit Geluk?",
-        "url": "https://open.spotify.com/album/51dFIOwEKQqryRgGz1As6z"
-      },
-      "artists": [
-        {
-          "name": "Amina",
-          "url": "https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc"
-        }
-      ],
-      "duration_ms": 137444,
-      "name": "Is Dit Geluk?",
-      "url": "https://open.spotify.com/track/7dYSfLscOlKorZ8w0CufbM"
     },
     {
       "added_at": "2024-06-17 22:07:56",
@@ -1103,26 +1159,6 @@
     {
       "added_at": "2024-06-17 22:07:56",
       "album": {
-        "name": "Laatste Trein",
-        "url": "https://open.spotify.com/album/3jeLXcKNuJuYeKKb43TnEG"
-      },
-      "artists": [
-        {
-          "name": "Siggy & D1ns",
-          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
-        },
-        {
-          "name": "Big2",
-          "url": "https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Laatste Trein",
-      "url": "https://open.spotify.com/track/0unjn7rOpEnCvpaviiXYxc"
-    },
-    {
-      "added_at": "2024-06-17 22:07:56",
-      "album": {
         "name": "Sereen",
         "url": "https://open.spotify.com/album/3wITyTdZonDkClhqDpzx2s"
       },
@@ -1135,58 +1171,6 @@
       "duration_ms": 146400,
       "name": "Eindeloos",
       "url": "https://open.spotify.com/track/1dwbLPTQKBtIQH2jpfurVv"
-    },
-    {
-      "added_at": "2024-06-17 22:07:56",
-      "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/5U0JwQjxRaJQU4eAqLV1qx"
-      },
-      "artists": [
-        {
-          "name": "Ruben Annink",
-          "url": "https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ"
-        }
-      ],
-      "duration_ms": 154127,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/1zIUkRxrVNmxn4f9358j36"
-    },
-    {
-      "added_at": "2024-06-17 22:07:56",
-      "album": {
-        "name": "Jongen Uit De Stad",
-        "url": "https://open.spotify.com/album/1Z8FFVmqvUf3YpqsQf8ztr"
-      },
-      "artists": [
-        {
-          "name": "Billy Dans",
-          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
-        }
-      ],
-      "duration_ms": 144180,
-      "name": "Vliegtuigmodus",
-      "url": "https://open.spotify.com/track/4H4O3fDyHXgTWXqSbvBFyV"
-    },
-    {
-      "added_at": "2024-06-17 22:07:56",
-      "album": {
-        "name": "Wasted",
-        "url": "https://open.spotify.com/album/26ALDsugBcToHqcDvA0Bu4"
-      },
-      "artists": [
-        {
-          "name": "Fokke Simons",
-          "url": "https://open.spotify.com/artist/6bdx9tCkHEg9ff61hu7xkI"
-        },
-        {
-          "name": "Floris Keijzer",
-          "url": "https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC"
-        }
-      ],
-      "duration_ms": 160975,
-      "name": "Wasted",
-      "url": "https://open.spotify.com/track/5A8S6jJRIeFjMHFQ66Opr7"
     }
   ],
   "unique_name": "Je Moerstaal",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ifvbzG8ryV.md) - [plain]
 
 > From the LGBTQIA+ songwriters that make the music happen\. This month curated by: <a href="https://open.spotify.com/playlist/37i9dQZF1EFFaNIqhJxmrd?si=91ad250cc0614a66">Fanny Hultman</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 780 likes - 40 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 788 likes - 40 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

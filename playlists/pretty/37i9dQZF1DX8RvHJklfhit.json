@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Latin Indie classics.",
-  "num_followers": 180159,
+  "num_followers": 180266,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2024-05-23 20:48:28",
       "album": {
-        "name": "Nada Personal",
-        "url": "https://open.spotify.com/album/4Wjgz8zUKQ7m2raLlSdsp1"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        },
-        {
-          "name": "Catalina Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4Zm0tODImwnNKu1W4Vtr3w"
-        }
-      ],
-      "duration_ms": 281960,
-      "name": "Nada Personal",
-      "url": "https://open.spotify.com/track/3BCayFOh2xF0AuYjcWgSVd"
-    },
-    {
-      "added_at": "2024-05-23 20:48:28",
-      "album": {
         "name": "Drooling",
         "url": "https://open.spotify.com/album/61OtLPiuJrgdCM2pYlqVzu"
       },
@@ -1559,6 +1539,26 @@
       "duration_ms": 272511,
       "name": "\u00bfYpqsp?",
       "url": "https://open.spotify.com/track/0llXdaOFchJsMrPJTikF9D"
+    },
+    {
+      "added_at": "2024-05-23 20:48:28",
+      "album": {
+        "name": "Nada Personal",
+        "url": "https://open.spotify.com/album/4Wjgz8zUKQ7m2raLlSdsp1"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        },
+        {
+          "name": "Catalina Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4Zm0tODImwnNKu1W4Vtr3w"
+        }
+      ],
+      "duration_ms": 281960,
+      "name": "Nada Personal",
+      "url": "https://open.spotify.com/track/3BCayFOh2xF0AuYjcWgSVd"
     },
     {
       "added_at": "2024-05-23 20:48:28",

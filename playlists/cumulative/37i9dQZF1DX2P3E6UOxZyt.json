@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2024 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8a3c\u672a\u4f86\u5de8\u661f\uff01Cover: \u6797\u6f54\u5fc3",
+  "description": "2024 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8a3c\u672a\u4f86\u5de8\u661f\uff01Cover: LIU KOI",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -74,6 +74,28 @@
       "duration_ms": 254117,
       "name": "94\u5728\u9760\u676f",
       "url": "https://open.spotify.com/track/1KTIjCV8N4ozMaP30WK2eD"
+    },
+    {
+      "album": {
+        "name": "99 chocolate",
+        "url": "https://open.spotify.com/album/7HfbS848JHu1J1KbiOFNjv"
+      },
+      "artists": [
+        {
+          "name": "LIU KOI",
+          "url": "https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE"
+        },
+        {
+          "name": "FLEUR",
+          "url": "https://open.spotify.com/artist/6WWEd7zMMyx6BKLnKukmeV"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147878,
+      "name": "99 chocolate",
+      "url": "https://open.spotify.com/track/0C4F3PRqJv5sNQnRl4vq5q"
     },
     {
       "album": {
@@ -3810,7 +3832,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 152866,
       "name": "what 4",
       "url": "https://open.spotify.com/track/0RDRXCdWNSJdMPnS4eAtAg"
@@ -8763,6 +8785,32 @@
     },
     {
       "album": {
+        "name": "\u72e0\u64cd\u4ff1\u6a02\u90e8",
+        "url": "https://open.spotify.com/album/2KkpAHwcFULIdz2MoLZUny"
+      },
+      "artists": [
+        {
+          "name": "\u897f\u5c6f\u7d14\u611b\u7d44",
+          "url": "https://open.spotify.com/artist/6cYpkZJmpjYnWD6M5IDddT"
+        },
+        {
+          "name": "PIZZALI",
+          "url": "https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7"
+        },
+        {
+          "name": "Multiverse",
+          "url": "https://open.spotify.com/artist/0l2z1SB8aaIp8vNhI9i5YL"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228333,
+      "name": "\u72e0\u64cd\u4ff1\u6a02\u90e8",
+      "url": "https://open.spotify.com/track/5VwHRwTh6zV1kBIW3FApTx"
+    },
+    {
+      "album": {
         "name": "\u7368\u89d2\u7378",
         "url": "https://open.spotify.com/album/77XIclsPGzypTBUzk5ieOa"
       },
@@ -9388,7 +9436,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 167344,
       "name": "\u7ffc",
       "url": "https://open.spotify.com/track/5VkNI8AtQvQi6L5nr9MIiH"

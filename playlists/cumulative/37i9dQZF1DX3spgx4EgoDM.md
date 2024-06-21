@@ -4,7 +4,7 @@
 
 > ¡El mejor condimento para tus comidas!
 
-321 songs - 20 hr 0 min
+322 songs - 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Cómo Te Voy A Olvidar](https://open.spotify.com/track/4Y9RStla12pXfmFGAqe9Wk) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Íconos 25 Éxitos](https://open.spotify.com/album/6Ab1MkKGaHwhOakjB4acNw) | 4:31 | 2022-07-05 | 2022-07-26 |
 | [De Mi Te Vas A Enamorar](https://open.spotify.com/track/6Ea63VAoVJyvXgi2XQyCk2) | [Garras de Amor](https://open.spotify.com/artist/6kcdJiENvD273QC9rFoP5a) | [Te Mueve](https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda) | 3:24 | 2022-07-05 | 2022-07-29 |
 | [Deja De Llorar](https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Sigo Por El Objetivo](https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx) | 2:26 | 2022-07-05 |  |
-| [Desde Que Te Fuiste](https://open.spotify.com/track/415QfJGLbJFsQVXHYazYaq) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c) | [Desde Que Te Fuiste](https://open.spotify.com/album/6S786RANT9RtoG9PBXO7mt) | 3:41 | 2022-07-05 |  |
+| [Desde Que Te Fuiste](https://open.spotify.com/track/415QfJGLbJFsQVXHYazYaq) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c) | [Desde Que Te Fuiste](https://open.spotify.com/album/6S786RANT9RtoG9PBXO7mt) | 3:41 | 2022-07-05 | 2024-06-21 |
 | [Dime si eres feliz](https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD) | [La Champions Liga](https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3) | [La Champions Liga](https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm) | 2:07 | 2022-07-05 |  |
 | [DOS CARAS](https://open.spotify.com/track/5JWp6sBzICEmBKAAx2Vxih) | [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX), [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [DOS CARAS](https://open.spotify.com/album/0P0y0bvq8o0Bmrg4ixsBC4) | 3:45 | 2022-07-05 | 2022-07-24 |
 | [Dr\. Psiquiatra](https://open.spotify.com/track/7lcEnkQEdNzjGGswqrZu6V) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Esto Sí Es Cumbia](https://open.spotify.com/album/1ezTrrYQHb4QAsjw7uHZwG) | 3:22 | 2022-07-05 | 2022-07-28 |
@@ -329,5 +329,6 @@
 | [Yo Tomo Licor](https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor de Lo Mejor](https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn) | 2:41 | 2023-02-10 | 2024-04-19 |
 | [Yo Tomo Licor](https://open.spotify.com/track/5EHRc2WJASyZg3alJqsbqU) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t) | 2:41 | 2022-07-05 | 2023-03-12 |
 | [Ámame](https://open.spotify.com/track/6MSp1jexGF9TlEpzWM7Zuf) | [Los Llayras](https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz) | [Clásicas De La Cumbia Andina](https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z) | 3:58 | 2022-07-05 |  |
+| [Éramos los dos](https://open.spotify.com/track/16dlgB8k2xsI4qmteGhKTI) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg), [La Kuppe](https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb) | [Éramos los dos](https://open.spotify.com/album/3Wtyw5fG0HucGm59A3xo3m) | 3:41 | 2024-06-12 |  |
 
 \*This playlist was first scraped on 2022-07-19. Prior content cannot be recovered.

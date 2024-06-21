@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 ### [V\-Pop Không Thể Thiếu](https://open.spotify.com/playlist/37i9dQZF1DX4g8Gs5nUhpp)
 
-> V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Charmy Pham
+> V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Vũ Cát Tường
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,877 likes - 55 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,896 likes - 55 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 2 | [Từng Là](https://open.spotify.com/track/2xOhv7XudrBDtkID1jwsFE) | [Vũ Cát Tường](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Từng Là](https://open.spotify.com/album/65MihXBPwne3POZrzkrrYv) | 4:12 |
 | 3 | [Ngày Đẹp Trời Để Nói Chia Tay](https://open.spotify.com/track/3Alwi53Ahc2GwHgvel42b2) | [Lou Hoàng](https://open.spotify.com/artist/75Ki5hBCOpDtKGoFyTvLxP) | [Ngày Đẹp Trời Để Nói Chia Tay](https://open.spotify.com/album/3iFlB14QgBcKFkaChZ9cYq) | 3:40 |
 | 4 | [Dù Cho Mai Về Sau](https://open.spotify.com/track/5SUXc3Xe4GaWyDo45v6Lea) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Dù Cho Mai Về Sau](https://open.spotify.com/album/493DApdcbUofbYUTNvHySe) | 3:53 |
-| 5 | [Sweet Home](https://open.spotify.com/track/5zSNi6P7PpwaUkzNjx9eoo) | [Charmy Pham](https://open.spotify.com/artist/6jFvKq4gMkQ50joURHPGXO) | [Sweet Home](https://open.spotify.com/album/6Zze02jnvnBlr4LHEFMW4Q) | 3:53 |
+| 5 | [Chỉ mình anh đi xa](https://open.spotify.com/track/0dhrbrTYAwP2NfUc6jbmzO) | [Charmy Pham](https://open.spotify.com/artist/6jFvKq4gMkQ50joURHPGXO) | [Sweet Home](https://open.spotify.com/album/6Zze02jnvnBlr4LHEFMW4Q) | 4:52 |
 | 6 | [Thức Giấc](https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f) | [Thức Giấc](https://open.spotify.com/album/5g1CmwPBfBGvODvhQdi9oi) | 4:29 |
 | 7 | [Chuyện Đôi Ta \(feat\. Muộii\)](https://open.spotify.com/track/4CUvVaAYuXtvYURLFz7EIL) | [Emcee L \(Da LAB\)](https://open.spotify.com/artist/4bPYvyUn1mWwUwIW57oST2), [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f), [Muộii \(Starry Night\)](https://open.spotify.com/artist/1Tdy7LZnrufTyuEbgDi1D8) | [Chuyện Đôi Ta \(feat\. Muộii\)](https://open.spotify.com/album/5tFSjs5VsM2EwoA2Px6jqo) | 3:28 |
 | 8 | [Sài Gòn Hôm Nay Mưa](https://open.spotify.com/track/1xoadYaxtOp9gHDwgmPDuz) | [JSOL](https://open.spotify.com/artist/6EybZ5zwPNEtEngfrEMevN), [Hoàng Duyên](https://open.spotify.com/artist/3LbBKYlyMaATS8IIe7HJ0d) | [Sài Gòn Hôm Nay Mưa](https://open.spotify.com/album/3uvFlg7afslUUJh43G2xwX) | 4:07 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 54 | [Dành Hết Xuân Thì Để Chờ Nhau](https://open.spotify.com/track/2ddbldKhKrYvOBbYa87cbj) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs), [Hà Anh Tuấn](https://open.spotify.com/artist/3FwYnbtGNt8hJfjNuOfpeG) | [Dành Hết Xuân Thì Để Chờ Nhau](https://open.spotify.com/album/2VRIiuSSYKQbmaPqSaRqTc) | 4:48 |
 | 55 | [nhạt\-fine](https://open.spotify.com/track/10AZ3ChoIGMxvcCoFsoFjf) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [nhạt\-fine](https://open.spotify.com/album/7KmkBn6FI2QOe471OvwIPR) | 3:31 |
 
-Snapshot ID: `ZnE0mgAAAACZfsPSjUvdlvBtkmDzHR4z`
+Snapshot ID: `ZnQ84gAAAABzayBxzJJVbV/ZQ3H9xLAC`

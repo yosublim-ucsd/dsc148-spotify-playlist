@@ -1,6 +1,6 @@
 {
   "description": "Waves and calming music to float away on. Breathe with the ebb and flow of the sea. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores. ",
-  "num_followers": 27880,
+  "num_followers": 27930,
   "original_name": "Serene Ocean Music",
   "owner": {
     "name": "Spotify",
@@ -379,18 +379,18 @@
     {
       "added_at": "2024-06-03 13:30:17",
       "album": {
-        "name": "Paessagio Naturale",
-        "url": "https://open.spotify.com/album/5KR8WugmdcJaYAx2CUJJCd"
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/4Tsi6BstEJGnmDAD5B4sr2"
       },
       "artists": [
         {
-          "name": "Campane",
-          "url": "https://open.spotify.com/artist/0xauYNqgRVmneIDWAHe5hr"
+          "name": "Luna's Garden",
+          "url": "https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt"
         }
       ],
-      "duration_ms": 163250,
-      "name": "Paessagio Naturale",
-      "url": "https://open.spotify.com/track/44RWRi4rzr0epV2u1pzzXJ"
+      "duration_ms": 182361,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/3TkZrmBF7h2klM21d9j9Bt"
     },
     {
       "added_at": "2024-06-03 13:30:17",
@@ -411,18 +411,18 @@
     {
       "added_at": "2024-06-03 13:30:17",
       "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/4Tsi6BstEJGnmDAD5B4sr2"
+        "name": "Paessagio Naturale",
+        "url": "https://open.spotify.com/album/5KR8WugmdcJaYAx2CUJJCd"
       },
       "artists": [
         {
-          "name": "Luna's Garden",
-          "url": "https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt"
+          "name": "Campane",
+          "url": "https://open.spotify.com/artist/0xauYNqgRVmneIDWAHe5hr"
         }
       ],
-      "duration_ms": 182361,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/3TkZrmBF7h2klM21d9j9Bt"
+      "duration_ms": 163250,
+      "name": "Paessagio Naturale",
+      "url": "https://open.spotify.com/track/44RWRi4rzr0epV2u1pzzXJ"
     },
     {
       "added_at": "2024-06-03 13:30:17",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-06-03 13:30:17",
       "album": {
-        "name": "Ocean Birds",
-        "url": "https://open.spotify.com/album/5Yyy0uhrkeLfkWXt0kzETm"
-      },
-      "artists": [
-        {
-          "name": "Escix V",
-          "url": "https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v"
-        }
-      ],
-      "duration_ms": 188333,
-      "name": "Ocean Birds",
-      "url": "https://open.spotify.com/track/2WxsSHPMb206URoGTNwAOQ"
-    },
-    {
-      "added_at": "2024-06-03 13:30:17",
-      "album": {
         "name": "Eyes On The Horizon",
         "url": "https://open.spotify.com/album/6VOiDfGiCViDdTB5Ds0mIg"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 145116,
       "name": "Eyes On The Horizon",
       "url": "https://open.spotify.com/track/1QuxKLKlCmMoop2150vVUN"
+    },
+    {
+      "added_at": "2024-06-03 13:30:17",
+      "album": {
+        "name": "Ocean Birds",
+        "url": "https://open.spotify.com/album/5Yyy0uhrkeLfkWXt0kzETm"
+      },
+      "artists": [
+        {
+          "name": "Escix V",
+          "url": "https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v"
+        }
+      ],
+      "duration_ms": 188333,
+      "name": "Ocean Birds",
+      "url": "https://open.spotify.com/track/2WxsSHPMb206URoGTNwAOQ"
     },
     {
       "added_at": "2024-06-03 13:30:17",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-06-03 13:30:17",
       "album": {
-        "name": "528 Hz Ocean Rest",
-        "url": "https://open.spotify.com/album/1r5Mcxa5dDPDpTFr0Ahu5A"
-      },
-      "artists": [
-        {
-          "name": "Particles And Waves",
-          "url": "https://open.spotify.com/artist/08hauwWhZFOvlZp1p1AGWa"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "528 Hz Ocean Rest",
-      "url": "https://open.spotify.com/track/7pT0ETj5KQ3V8JgQK0gooG"
-    },
-    {
-      "added_at": "2024-06-03 13:30:17",
-      "album": {
         "name": "Ocean Dynamics",
         "url": "https://open.spotify.com/album/5Aq52DANigWA8C0nCbYIeo"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 176250,
       "name": "Ocean Miracle",
       "url": "https://open.spotify.com/track/6s4d29YLuiRLjFXznEzhoi"
+    },
+    {
+      "added_at": "2024-06-03 13:30:17",
+      "album": {
+        "name": "528 Hz Ocean Rest",
+        "url": "https://open.spotify.com/album/1r5Mcxa5dDPDpTFr0Ahu5A"
+      },
+      "artists": [
+        {
+          "name": "Particles And Waves",
+          "url": "https://open.spotify.com/artist/08hauwWhZFOvlZp1p1AGWa"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "528 Hz Ocean Rest",
+      "url": "https://open.spotify.com/track/7pT0ETj5KQ3V8JgQK0gooG"
     },
     {
       "added_at": "2024-06-03 13:30:17",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-06-03 13:30:17",
       "album": {
+        "name": "The Cove",
+        "url": "https://open.spotify.com/album/3g0Z1vEQD7u16dn2XTtapr"
+      },
+      "artists": [
+        {
+          "name": "Fred Russ",
+          "url": "https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K"
+        }
+      ],
+      "duration_ms": 121375,
+      "name": "The Cove",
+      "url": "https://open.spotify.com/track/7pRyNDcMVEezLVkZ1P2PEC"
+    },
+    {
+      "added_at": "2024-06-03 13:30:17",
+      "album": {
         "name": "Hammock Life",
         "url": "https://open.spotify.com/album/1rMazcyTVAwOIV8lAllCNZ"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 186500,
       "name": "Aethaerum",
       "url": "https://open.spotify.com/track/1dEA7WCxIcfirzbNADvc7k"
-    },
-    {
-      "added_at": "2024-06-03 13:30:17",
-      "album": {
-        "name": "The Cove",
-        "url": "https://open.spotify.com/album/3g0Z1vEQD7u16dn2XTtapr"
-      },
-      "artists": [
-        {
-          "name": "Fred Russ",
-          "url": "https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K"
-        }
-      ],
-      "duration_ms": 121375,
-      "name": "The Cove",
-      "url": "https://open.spotify.com/track/7pRyNDcMVEezLVkZ1P2PEC"
     },
     {
       "added_at": "2024-06-03 13:30:17",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-06-03 13:30:17",
       "album": {
+        "name": "Oceanic Peace",
+        "url": "https://open.spotify.com/album/1ieOkrmsSTv1MDQj378wPp"
+      },
+      "artists": [
+        {
+          "name": "Livrunna",
+          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Oceanic Peace",
+      "url": "https://open.spotify.com/track/0W4weYa5aqgvMqXbNxSzjv"
+    },
+    {
+      "added_at": "2024-06-03 13:30:17",
+      "album": {
         "name": "Dream Ripples",
         "url": "https://open.spotify.com/album/0zxCATLreAmFRKmML8p4bF"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 189628,
       "name": "Pukaki Passion",
       "url": "https://open.spotify.com/track/0AUpYDRGRJzA4gKkYQc1c5"
-    },
-    {
-      "added_at": "2024-06-03 13:30:17",
-      "album": {
-        "name": "Oceanic Peace",
-        "url": "https://open.spotify.com/album/1ieOkrmsSTv1MDQj378wPp"
-      },
-      "artists": [
-        {
-          "name": "Livrunna",
-          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Oceanic Peace",
-      "url": "https://open.spotify.com/track/0W4weYa5aqgvMqXbNxSzjv"
     },
     {
       "added_at": "2024-06-03 13:30:17",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-06-03 13:30:17",
       "album": {
-        "name": "Lamenting Tides",
-        "url": "https://open.spotify.com/album/1ADt66KybnarDRYzAIYgL5"
-      },
-      "artists": [
-        {
-          "name": "Nash Parker",
-          "url": "https://open.spotify.com/artist/6gFeBMvafy8NNfpc1L0HTK"
-        }
-      ],
-      "duration_ms": 167866,
-      "name": "Lamenting Tides",
-      "url": "https://open.spotify.com/track/1EvV3xSsoomdlynBskfrcU"
-    },
-    {
-      "added_at": "2024-06-03 13:30:17",
-      "album": {
         "name": "Sunrise Serenade",
         "url": "https://open.spotify.com/album/5fXtwzH2IFeVPS1EXzOyc9"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 207914,
       "name": "Ocean Mindfulness",
       "url": "https://open.spotify.com/track/2ozmrXPped2BfxqVZLYVCJ"
+    },
+    {
+      "added_at": "2024-06-03 13:30:17",
+      "album": {
+        "name": "Lamenting Tides",
+        "url": "https://open.spotify.com/album/1ADt66KybnarDRYzAIYgL5"
+      },
+      "artists": [
+        {
+          "name": "Nash Parker",
+          "url": "https://open.spotify.com/artist/6gFeBMvafy8NNfpc1L0HTK"
+        }
+      ],
+      "duration_ms": 167866,
+      "name": "Lamenting Tides",
+      "url": "https://open.spotify.com/track/1EvV3xSsoomdlynBskfrcU"
     },
     {
       "added_at": "2024-06-03 13:30:17",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-06-03 13:30:17",
       "album": {
-        "name": "Zen (Sound Bath)",
-        "url": "https://open.spotify.com/album/3ZRNXJU8GSBkM2qoDeTXvT"
-      },
-      "artists": [
-        {
-          "name": "Ghost Of Summer",
-          "url": "https://open.spotify.com/artist/2SQs5lwQifKBBhMDYnPZy8"
-        }
-      ],
-      "duration_ms": 203346,
-      "name": "Zen (Sound Bath)",
-      "url": "https://open.spotify.com/track/6P1PwPQz9v8OpDmsaJLplo"
-    },
-    {
-      "added_at": "2024-06-03 13:30:17",
-      "album": {
         "name": "Temple of the Heart",
         "url": "https://open.spotify.com/album/5yuklwSxgyuIPtHU0nkGXQ"
       },
@@ -1267,18 +1251,18 @@
     {
       "added_at": "2024-06-03 13:30:17",
       "album": {
-        "name": "Morning Waves",
-        "url": "https://open.spotify.com/album/7BkE4jqDYkveB43oDU4ULT"
+        "name": "Zen (Sound Bath)",
+        "url": "https://open.spotify.com/album/3ZRNXJU8GSBkM2qoDeTXvT"
       },
       "artists": [
         {
-          "name": "Altum Somnum",
-          "url": "https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935"
+          "name": "Ghost Of Summer",
+          "url": "https://open.spotify.com/artist/2SQs5lwQifKBBhMDYnPZy8"
         }
       ],
-      "duration_ms": 172211,
-      "name": "Morning Waves",
-      "url": "https://open.spotify.com/track/1rECiVNfP8569A717vmLe1"
+      "duration_ms": 203346,
+      "name": "Zen (Sound Bath)",
+      "url": "https://open.spotify.com/track/6P1PwPQz9v8OpDmsaJLplo"
     },
     {
       "added_at": "2024-06-03 13:30:17",
@@ -1315,22 +1299,6 @@
     {
       "added_at": "2024-06-03 13:30:17",
       "album": {
-        "name": "Distant Cave",
-        "url": "https://open.spotify.com/album/61SiaXN7PIa6jhB5OAi5LL"
-      },
-      "artists": [
-        {
-          "name": "Asa Kora",
-          "url": "https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj"
-        }
-      ],
-      "duration_ms": 155387,
-      "name": "Distant Cave",
-      "url": "https://open.spotify.com/track/0f9EVsaWRAapvdRrWMt04G"
-    },
-    {
-      "added_at": "2024-06-03 13:30:17",
-      "album": {
         "name": "A Lake Almost Still",
         "url": "https://open.spotify.com/album/5DchAi775MrqmFUbjRBzXq"
       },
@@ -1343,6 +1311,22 @@
       "duration_ms": 137020,
       "name": "A Lake Almost Still",
       "url": "https://open.spotify.com/track/5Ggw3iFi1C3BzAfihTX0Nu"
+    },
+    {
+      "added_at": "2024-06-03 13:30:17",
+      "album": {
+        "name": "Morning Waves",
+        "url": "https://open.spotify.com/album/7BkE4jqDYkveB43oDU4ULT"
+      },
+      "artists": [
+        {
+          "name": "Altum Somnum",
+          "url": "https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935"
+        }
+      ],
+      "duration_ms": 172211,
+      "name": "Morning Waves",
+      "url": "https://open.spotify.com/track/1rECiVNfP8569A717vmLe1"
     },
     {
       "added_at": "2024-06-03 13:30:17",
@@ -1375,6 +1359,22 @@
       "duration_ms": 193890,
       "name": "Oceanos - Alpha 65Hz - 72Hz",
       "url": "https://open.spotify.com/track/0JkHZdKIt2VXwiP5IHkaZn"
+    },
+    {
+      "added_at": "2024-06-03 13:30:17",
+      "album": {
+        "name": "Distant Cave",
+        "url": "https://open.spotify.com/album/61SiaXN7PIa6jhB5OAi5LL"
+      },
+      "artists": [
+        {
+          "name": "Asa Kora",
+          "url": "https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj"
+        }
+      ],
+      "duration_ms": 155387,
+      "name": "Distant Cave",
+      "url": "https://open.spotify.com/track/0f9EVsaWRAapvdRrWMt04G"
     },
     {
       "added_at": "2024-06-03 13:30:17",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-06-03 13:30:17",
       "album": {
-        "name": "Ocean Swell",
-        "url": "https://open.spotify.com/album/7a9SW9Au9lQ8YcDwaJMIwT"
-      },
-      "artists": [
-        {
-          "name": "Aysun",
-          "url": "https://open.spotify.com/artist/6JpzNu8Gqk4qx6s7NofOXT"
-        }
-      ],
-      "duration_ms": 175384,
-      "name": "Ocean Swell",
-      "url": "https://open.spotify.com/track/5UQJrnDUQFrJhD9hX7oXmn"
-    },
-    {
-      "added_at": "2024-06-03 13:30:17",
-      "album": {
         "name": "Soothing Waves",
         "url": "https://open.spotify.com/album/3kPehnBJFJSeIYdb2OWd5s"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 151898,
       "name": "Soothing Waves",
       "url": "https://open.spotify.com/track/44pymRZAgj5Tqx1D4LNB3L"
+    },
+    {
+      "added_at": "2024-06-03 13:30:17",
+      "album": {
+        "name": "Ocean Swell",
+        "url": "https://open.spotify.com/album/7a9SW9Au9lQ8YcDwaJMIwT"
+      },
+      "artists": [
+        {
+          "name": "Aysun",
+          "url": "https://open.spotify.com/artist/6JpzNu8Gqk4qx6s7NofOXT"
+        }
+      ],
+      "duration_ms": 175384,
+      "name": "Ocean Swell",
+      "url": "https://open.spotify.com/track/5UQJrnDUQFrJhD9hX7oXmn"
     },
     {
       "added_at": "2024-06-03 13:30:17",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2024-06-03 13:30:17",
       "album": {
-        "name": "Ondas",
-        "url": "https://open.spotify.com/album/0zX9Kh9v01hlMMlumPkNyv"
+        "name": "Marina Paradise",
+        "url": "https://open.spotify.com/album/1O1LO9tmn2EWzBms6PbnuC"
       },
       "artists": [
         {
-          "name": "Hevios",
-          "url": "https://open.spotify.com/artist/2UeG11XTCrSKxGnAK4peeL"
+          "name": "Claddagh Glas",
+          "url": "https://open.spotify.com/artist/5bN4xLWNDmClCk5kO9tPfi"
         }
       ],
-      "duration_ms": 173499,
-      "name": "Ondas",
-      "url": "https://open.spotify.com/track/3i0W1TEUsp7Q2pBYO7exbV"
+      "duration_ms": 144000,
+      "name": "Marina Paradise",
+      "url": "https://open.spotify.com/track/6GyiSgsuqXFJMLBECpXlcY"
     },
     {
       "added_at": "2024-06-03 13:30:17",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2024-06-03 13:30:17",
       "album": {
+        "name": "Soothing Beach",
+        "url": "https://open.spotify.com/album/2VMaNw1qhP4TKIUWyGkyII"
+      },
+      "artists": [
+        {
+          "name": "Eshe Fajah",
+          "url": "https://open.spotify.com/artist/37SGaKsCJu5Gnoei4XlUkz"
+        }
+      ],
+      "duration_ms": 142857,
+      "name": "Soothing Beach",
+      "url": "https://open.spotify.com/track/2o3AzylnHnrJX7Xv1CR3kz"
+    },
+    {
+      "added_at": "2024-06-03 13:30:17",
+      "album": {
         "name": "heart wave",
         "url": "https://open.spotify.com/album/37Wa0x4R7jqoZ4x8HocvxC"
       },
@@ -1555,18 +1571,18 @@
     {
       "added_at": "2024-06-03 13:30:17",
       "album": {
-        "name": "Calming Waves",
-        "url": "https://open.spotify.com/album/7pcuD2Qm9SsNy73XXuQCvf"
+        "name": "Ondas",
+        "url": "https://open.spotify.com/album/0zX9Kh9v01hlMMlumPkNyv"
       },
       "artists": [
         {
-          "name": "Castillo Indigo",
-          "url": "https://open.spotify.com/artist/4XdYi3SHxZqmqrJtn1M1Yv"
+          "name": "Hevios",
+          "url": "https://open.spotify.com/artist/2UeG11XTCrSKxGnAK4peeL"
         }
       ],
-      "duration_ms": 157997,
-      "name": "Calming Waves",
-      "url": "https://open.spotify.com/track/5hMLPlPQSdTYHBzgi4mmnf"
+      "duration_ms": 173499,
+      "name": "Ondas",
+      "url": "https://open.spotify.com/track/3i0W1TEUsp7Q2pBYO7exbV"
     },
     {
       "added_at": "2024-06-03 13:30:17",
@@ -1587,34 +1603,18 @@
     {
       "added_at": "2024-06-03 13:30:17",
       "album": {
-        "name": "Soothing Beach",
-        "url": "https://open.spotify.com/album/2VMaNw1qhP4TKIUWyGkyII"
+        "name": "Calming Waves",
+        "url": "https://open.spotify.com/album/7pcuD2Qm9SsNy73XXuQCvf"
       },
       "artists": [
         {
-          "name": "Eshe Fajah",
-          "url": "https://open.spotify.com/artist/37SGaKsCJu5Gnoei4XlUkz"
+          "name": "Castillo Indigo",
+          "url": "https://open.spotify.com/artist/4XdYi3SHxZqmqrJtn1M1Yv"
         }
       ],
-      "duration_ms": 142857,
-      "name": "Soothing Beach",
-      "url": "https://open.spotify.com/track/2o3AzylnHnrJX7Xv1CR3kz"
-    },
-    {
-      "added_at": "2024-06-03 13:30:17",
-      "album": {
-        "name": "Marina Paradise",
-        "url": "https://open.spotify.com/album/1O1LO9tmn2EWzBms6PbnuC"
-      },
-      "artists": [
-        {
-          "name": "Claddagh Glas",
-          "url": "https://open.spotify.com/artist/5bN4xLWNDmClCk5kO9tPfi"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Marina Paradise",
-      "url": "https://open.spotify.com/track/6GyiSgsuqXFJMLBECpXlcY"
+      "duration_ms": 157997,
+      "name": "Calming Waves",
+      "url": "https://open.spotify.com/track/5hMLPlPQSdTYHBzgi4mmnf"
     },
     {
       "added_at": "2024-06-03 13:30:17",
@@ -1651,8 +1651,8 @@
     {
       "added_at": "2024-06-03 13:30:17",
       "album": {
-        "name": "Collect Yourself",
-        "url": "https://open.spotify.com/album/5tegNKMknMihpIawkRlVeS"
+        "name": "Wind of Serenity",
+        "url": "https://open.spotify.com/album/092neHTVHilfDCEkuLk7Jn"
       },
       "artists": [
         {
@@ -1660,9 +1660,9 @@
           "url": "https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj"
         }
       ],
-      "duration_ms": 153901,
-      "name": "Collect Yourself",
-      "url": "https://open.spotify.com/track/3qBoNbi7zFlDWskvLABEk1"
+      "duration_ms": 160171,
+      "name": "Wind of Serenity",
+      "url": "https://open.spotify.com/track/1ZFrUu4wdWc9iPW8M48Nil"
     },
     {
       "added_at": "2024-06-03 13:30:17",

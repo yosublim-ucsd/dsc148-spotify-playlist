@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Irmak Arıcı
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,153 likes - 79 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,148 likes - 79 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 15 | [ÇATAPAT](https://open.spotify.com/track/6V6efRzijn61AYQCEAd6TZ) | [aisu](https://open.spotify.com/artist/6WCTGeTYQ71cApZr34u4er) | [ÇATAPAT](https://open.spotify.com/album/6pdkNZvWbVb908zfH3AynF) | 2:11 |
 | 16 | [cihan](https://open.spotify.com/track/43b6nRvYpO9dTNV7507wf1) | [Rana Türkyılmaz](https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h) | [cihan](https://open.spotify.com/album/1ttwKkQZEoZy7cDRQXpp4F) | 2:43 |
 | 17 | [ısırgan](https://open.spotify.com/track/198GLGIYtgpBvm4Ka2xlaT) | [Seda Erciyes](https://open.spotify.com/artist/2YtsPILTsVJVwFcTe6n31z), [Jülide](https://open.spotify.com/artist/2SdVw3LrwnJqxh3QnwDziC) | [ısırgan](https://open.spotify.com/album/7BLA2OU0PtazVpmx7bmFZn) | 3:28 |
-| 18 | [Bir Derdim Vardı](https://open.spotify.com/track/7t3rSp1jZy8y5jrGBzKh9e) | [Nigar Muharrem](https://open.spotify.com/artist/6qg3g0aneq4tOJgpzIuEmT) | [Bir Derdim Vardı](https://open.spotify.com/album/6IK6UtRyhzJuq6AzpYJsjF) | 3:02 |
+| 18 | [Bir Derdim Vardı \- Akustik](https://open.spotify.com/track/7t3rSp1jZy8y5jrGBzKh9e) | [Nigar Muharrem](https://open.spotify.com/artist/6qg3g0aneq4tOJgpzIuEmT) | [Bir Derdim Vardı \(Akustik\)](https://open.spotify.com/album/6IK6UtRyhzJuq6AzpYJsjF) | 3:02 |
 | 19 | [Sensin Bunlara Sebep](https://open.spotify.com/track/4PgXxrIXTqM1RVvAQtdrCH) | [Tuğçe Şenoğul](https://open.spotify.com/artist/0BSQ8y2wIx6pK8bjisf30l) | [Sensin Bunlara Sebep](https://open.spotify.com/album/2RszYgrA8yyJfdzCchwlHt) | 4:37 |
 | 20 | [Yangınlarından](https://open.spotify.com/track/0exD9XeV7zLudaRhg0g6Xu) | [Özge Fışkın](https://open.spotify.com/artist/0acW6PhzqNwRvVcnRozzfB) | [Yangınlarından](https://open.spotify.com/album/7t69KjHZlSqtxoLf0aL80v) | 3:37 |
 | 21 | [Cancağızım](https://open.spotify.com/track/3XdO0DzUVelAq73icBn91j) | [Nil Karaibrahimgil](https://open.spotify.com/artist/1PpRPZXSS5ka7m5NW2TO7q) | [Cancağızım](https://open.spotify.com/album/19QUaAeUedi6tD2RDNR9Ju) | 2:22 |

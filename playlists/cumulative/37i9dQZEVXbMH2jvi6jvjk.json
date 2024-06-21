@@ -834,7 +834,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 160000,
       "name": "Abekho",
       "url": "https://open.spotify.com/track/7wb5FuOqOswDqHl4U4T8bQ"
@@ -5296,7 +5296,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-20",
+      "date_removed": null,
       "duration_ms": 378882,
       "name": "BoGogo",
       "url": "https://open.spotify.com/track/4kydNoaTX4vfyCPeXE2bpt"
@@ -9434,7 +9434,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 198293,
       "name": "Don't",
       "url": "https://open.spotify.com/track/3pXF1nA74528Edde4of9CC"
@@ -13160,7 +13160,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 102813,
       "name": "Girl With The Tattoo Enter.lewd",
       "url": "https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv"
@@ -15080,6 +15080,28 @@
       "duration_ms": 214214,
       "name": "How Do I Make You Love Me?",
       "url": "https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ"
+    },
+    {
+      "album": {
+        "name": "How Low (Remix)",
+        "url": "https://open.spotify.com/album/5AjYtPDHP2PVgoS8urjLkW"
+      },
+      "artists": [
+        {
+          "name": "Kashcoming",
+          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182142,
+      "name": "How Low (Remix)",
+      "url": "https://open.spotify.com/track/2gJTSnswyu6WlFwFKO3qw2"
     },
     {
       "album": {
@@ -20144,6 +20166,24 @@
       "duration_ms": 262582,
       "name": "La Melza",
       "url": "https://open.spotify.com/track/6RSPFClB5DLksnlUNZS6BL"
+    },
+    {
+      "album": {
+        "name": "LA VIDA BUENA",
+        "url": "https://open.spotify.com/album/3RH2tXKNV8bLF4EmgaBn9i"
+      },
+      "artists": [
+        {
+          "name": "SANTI SERRA",
+          "url": "https://open.spotify.com/artist/160stBXe31uhue2Fb598X4"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "LA VIDA BUENA",
+      "url": "https://open.spotify.com/track/5izEV5M3JTCcD1xxSUPXIS"
     },
     {
       "album": {

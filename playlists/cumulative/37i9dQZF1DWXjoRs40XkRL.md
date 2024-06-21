@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-276 songs - 23 hr 38 min
+277 songs - 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Ayo Re Piya](https://open.spotify.com/track/0cLgJkzeDuo6odNPMpGCvx) | [Srinath Nair](https://open.spotify.com/artist/3vkDnAk0pP3gPUuHTpIqBy) | [Ayo Re Piya](https://open.spotify.com/album/5GIlIfucq3g5gjnhUMoKBS) | 3:50 | 2024-05-28 |  |
 | [Azad](https://open.spotify.com/track/3mDv3HRVNlPyJGLJvg8y8T) | [Bombay Bandook](https://open.spotify.com/artist/3VkYRrfqoEIhBfcHTvdYGs) | [Azad](https://open.spotify.com/album/6LGwxJSIMkEa0kWDzaBEOT) | 4:40 | 2022-05-17 | 2023-07-22 |
 | [Baadal](https://open.spotify.com/track/4NliS6MtHE2VJC3Pu495nv) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [Baadal](https://open.spotify.com/album/6vbTqEOFjaiDJy6WdcpZkt) | 4:14 | 2023-08-03 | 2024-04-27 |
-| [Baat Takat Hun](https://open.spotify.com/track/2fQOhddanyytkxnmTE8Cjo) | [Priyasi](https://open.spotify.com/artist/2DOqWohzAkzacGdn1CIpdp), [Prateek Gandhi](https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w) | [Baat Takat Hun](https://open.spotify.com/album/6Yp6GFWJLfvcOZcuPI2WhB) | 2:52 | 2024-04-12 |  |
+| [Baat Takat Hun](https://open.spotify.com/track/2fQOhddanyytkxnmTE8Cjo) | [Priyasi](https://open.spotify.com/artist/2DOqWohzAkzacGdn1CIpdp), [Prateek Gandhi](https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w) | [Baat Takat Hun](https://open.spotify.com/album/6Yp6GFWJLfvcOZcuPI2WhB) | 2:52 | 2024-04-12 | 2024-06-21 |
 | [Badi Dheere Jali](https://open.spotify.com/track/2VgmwOgWxNkfT4vvA7eJ5E) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Ishqiya](https://open.spotify.com/album/6w5XtnPBTeOUFvwGi93lgB) | 7:01 | 2022-05-17 | 2023-03-23 |
 | [Badra Chhaaye](https://open.spotify.com/track/0ukKvwl5NNllsqv6naQbxT) | [Keshav Tyohar](https://open.spotify.com/artist/4K2l6pikW66DDwViUWSUpS) | [Badra Chhaaye](https://open.spotify.com/album/5BBUAzMYyJIGiqMgVZa7AX) | 2:50 | 2024-04-19 |  |
 | [Badra Chhaaye](https://open.spotify.com/track/0xaocSiKSgZdetM5onBTvz) | [Keshav Tyohar](https://open.spotify.com/artist/4K2l6pikW66DDwViUWSUpS) | [Badra Chhaaye](https://open.spotify.com/album/4Q4LYEVYMZZbOgEiksRxLa) | 2:50 | 2023-07-13 | 2024-04-19 |
@@ -64,6 +64,7 @@
 | [Delhi Drill](https://open.spotify.com/track/5MUMXjnsf4UydEK8rFx8Xq) | [Catchy](https://open.spotify.com/artist/1md52jdgS8Hv0DOkib7Wjj) | [Delhi Drill](https://open.spotify.com/album/4KXcZoIVMzsxVVn18679Zw) | 1:57 | 2023-11-09 | 2024-02-21 |
 | [Dil Jaye Na](https://open.spotify.com/track/35FKiPd3sGN2MjSghBg5WV) | [Soumya Mukherjee](https://open.spotify.com/artist/5afRWzAI1mcKDCLyz056ZA), [Prosun Dey](https://open.spotify.com/artist/6A5glfpIwkZ5KJLgPiBFnG) | [Dil Jaye Na](https://open.spotify.com/album/3Sd8r89Q6nOVSGJHr3V3OF) | 1:01 | 2023-11-15 | 2023-12-16 |
 | [Dil Leke Mujhe Badnam \- Thumri/lounge](https://open.spotify.com/track/7ncyIsZzLUA9SRzZv8raNk) | [Paroma Dasgupta](https://open.spotify.com/artist/1pvVz9G8uL8K0ZVEnqm1SQ), [Ankur Mukherjee](https://open.spotify.com/artist/69T59hAeicTPSD99TWNO5g) | [Dil Leke Mujhe Badnam \(Thumri/lounge\)](https://open.spotify.com/album/3EffjYOMsxahbRFHYlZsod) | 5:20 | 2022-05-17 |  |
+| [Din To Dhalne Laga](https://open.spotify.com/track/76YWW7uXCJXVm8drc2X6Ti) | [RaagNRocks](https://open.spotify.com/artist/3jTcN7ekTH3C1dnzRW65CY), [Nabanita Goswami](https://open.spotify.com/artist/6x3CZ20CvNvPKylTfC2nzB) | [Din To Dhalne Laga](https://open.spotify.com/album/27DrzPEi2gOvNs2jlUVleg) | 4:23 | 2024-06-20 |  |
 | [Easy](https://open.spotify.com/track/1Zlp3AkCc1CCtp3yUwqdRr) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU), [Karsh Kale](https://open.spotify.com/artist/5KNQvpxpsSUsL8Mon7SjYn), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Breathing Under Water](https://open.spotify.com/album/7FaPH6ZYyCQS6S5Frf6ib7) | 3:30 | 2022-05-17 | 2023-02-02 |
 | [Eyes \- Edit](https://open.spotify.com/track/1szU2VvMCf5y3CegDghUFE) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Anahata](https://open.spotify.com/album/5uonu2VHlV0tR3DnvfSoR4) | 2:56 | 2022-05-17 | 2023-05-24 |
 | [Ganga Kaleidoscope](https://open.spotify.com/track/68Df2yQnMgCnF7ob8NNRez) | [Avra Banerjee](https://open.spotify.com/artist/03U223wUp1mWICExQVN5S3), [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH), [Ojas Adhiya](https://open.spotify.com/artist/2sDMiRPYyxqIhyiyqH89jJ), [Rhythm Shaw](https://open.spotify.com/artist/15VQCxbC4rQp2ooxlkd40D), [Tamal Kanti Halder](https://open.spotify.com/artist/1FEXQ23yxjNYaKJXK0IxiW), [Himadri Das](https://open.spotify.com/artist/4Q6sIUfymjRG1iggsunpYS), [Bachospati Chakraborty](https://open.spotify.com/artist/1SaViDbQoQ2NitxvO1pgHb) | [Manoyatri](https://open.spotify.com/album/211aYaCuqflLPDpC05kMzT) | 9:06 | 2024-02-26 | 2024-04-19 |

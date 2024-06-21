@@ -408,7 +408,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 258101,
       "name": "Al Pie del Ca\u00f1\u00f3n",
       "url": "https://open.spotify.com/track/4EOherFHDWn6veJCpomzrV"
@@ -1005,6 +1005,24 @@
     },
     {
       "album": {
+        "name": "Caf\u00e9 con aguacate",
+        "url": "https://open.spotify.com/album/1WD4BI2bIaHUsgLL8AshUM"
+      },
+      "artists": [
+        {
+          "name": "Kike M",
+          "url": "https://open.spotify.com/artist/03V1FJKRO1ZPrdA8zLxFu9"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193893,
+      "name": "Caf\u00e9 con aguacate",
+      "url": "https://open.spotify.com/track/50YJMAwa9QicyPPsxSsZRh"
+    },
+    {
+      "album": {
         "name": "Calle Melancol\u00eda",
         "url": "https://open.spotify.com/album/2RlCfIHnXz8h8sc76B8ACD"
       },
@@ -1548,6 +1566,24 @@
       "duration_ms": 279613,
       "name": "Creo que me he perdido algo",
       "url": "https://open.spotify.com/track/75DOPnTP5GWEw2Xn9QaCe9"
+    },
+    {
+      "album": {
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/1crmL9xEqGoRsR2nk1nl8n"
+      },
+      "artists": [
+        {
+          "name": "Dani Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168292,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/0s1mNkEzKyhDGViTUHbGuP"
     },
     {
       "album": {
@@ -4342,7 +4378,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 193130,
       "name": "Llor\u00f3n",
       "url": "https://open.spotify.com/track/4XJkCr8zfwNGNXMEjrACDJ"
@@ -4632,7 +4668,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 174898,
       "name": "Mal Acompa\u00f1ado",
       "url": "https://open.spotify.com/track/1bTN3Da5Uf5qVgszKxclFV"
@@ -4654,6 +4690,28 @@
       "duration_ms": 174973,
       "name": "Mala Vida",
       "url": "https://open.spotify.com/track/0UY0JLj9kxOlgF6FHogCmX"
+    },
+    {
+      "album": {
+        "name": "Mala Vida Buena Gente",
+        "url": "https://open.spotify.com/album/2XQVvhzQJNvMMzC8QZ35uR"
+      },
+      "artists": [
+        {
+          "name": "Gussy",
+          "url": "https://open.spotify.com/artist/1z3Z00h61dnVrOoI4iCqMX"
+        },
+        {
+          "name": "Kutxi Romero",
+          "url": "https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210573,
+      "name": "Mala Vida Buena Gente",
+      "url": "https://open.spotify.com/track/5j4yyNcQqXX4xhD64CQsZD"
     },
     {
       "album": {
@@ -4748,7 +4806,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 282746,
       "name": "Maneras de vivir - Rosendo, Barricada y Aurora Beltr\u00e1n directo 2008",
       "url": "https://open.spotify.com/track/3zgQxeKX6kj7Yrt5cRMxP3"
@@ -6124,7 +6182,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 247401,
       "name": "Que Hace una Chica Como Tu en un Sitio Como Este",
       "url": "https://open.spotify.com/track/4kYdaN5ECfrCPPuUUiCiTr"
@@ -6240,6 +6298,24 @@
       "duration_ms": 218352,
       "name": "QU\u00c9 QUIERES QUE TE DIGA",
       "url": "https://open.spotify.com/track/76K75iZ9xdyXz91Z2viBrd"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9date Con Mi Nombre",
+        "url": "https://open.spotify.com/album/72BZBNVevFRSaJRIow1fWk"
+      },
+      "artists": [
+        {
+          "name": "Erin Memento",
+          "url": "https://open.spotify.com/artist/7J8Jvh09QTtKZYnvChiHsp"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254911,
+      "name": "Qu\u00e9date Con Mi Nombre",
+      "url": "https://open.spotify.com/track/5V29EYiiQFUNnNcdOmK0y6"
     },
     {
       "album": {
@@ -7149,6 +7225,24 @@
     },
     {
       "album": {
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/6jf1dE8f0lFFcmJeMf4caI"
+      },
+      "artists": [
+        {
+          "name": "La Ra\u00edz",
+          "url": "https://open.spotify.com/artist/036IY6CphXdsPiqIXdqvCP"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235378,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/3ySRdYSAInV4VgBt5aTr2r"
+    },
+    {
+      "album": {
         "name": "Tiramis\u00fa",
         "url": "https://open.spotify.com/album/3ghYFW0xHG3hlGy4NAUEvc"
       },
@@ -7517,6 +7611,24 @@
     },
     {
       "album": {
+        "name": "Una de Dylan",
+        "url": "https://open.spotify.com/album/5nLvLWl6RBIEyUI6kHqr4C"
+      },
+      "artists": [
+        {
+          "name": "Funambulista",
+          "url": "https://open.spotify.com/artist/16UAI1WxiKCIKd4NHtFt2U"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161217,
+      "name": "Una de Dylan",
+      "url": "https://open.spotify.com/track/6lfY3sKKCy40uUKj8fJi5i"
+    },
+    {
+      "album": {
         "name": "Un mal sue\u00f1o",
         "url": "https://open.spotify.com/album/0OwAywS8ge5KRakvqnOVmw"
       },
@@ -7528,7 +7640,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 293466,
       "name": "Una noche de amor desesperada",
       "url": "https://open.spotify.com/track/685pSRiL9NEQYt0gRZ46L9"
@@ -7550,6 +7662,24 @@
       "duration_ms": 259918,
       "name": "Una Noche Sin Ti",
       "url": "https://open.spotify.com/track/3oUITstGqQVTlFyF32H1Un"
+    },
+    {
+      "album": {
+        "name": "UNA T\u00cdA NORMAL",
+        "url": "https://open.spotify.com/album/7Iw1iOXB74I208skOn72Ej"
+      },
+      "artists": [
+        {
+          "name": "GREX",
+          "url": "https://open.spotify.com/artist/0DP0R1lYEzsfg3xkTEyunt"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137130,
+      "name": "UNA T\u00cdA NORMAL",
+      "url": "https://open.spotify.com/track/3Q3Db6N9eT5C0MIBKrw0AJ"
     },
     {
       "album": {
@@ -7630,7 +7760,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 136494,
       "name": "Vende tu coraz\u00f3n",
       "url": "https://open.spotify.com/track/6UsL31NTuPGvwS0lXeyyEI"

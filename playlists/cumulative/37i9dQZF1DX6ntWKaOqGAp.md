@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: go!go!vanillas
 
-1,543 songs - 4 day 0 hr 53 min
+1,545 songs - 4 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Aiai](https://open.spotify.com/track/2fk7HoBZPtoeqIl54CLTR7) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Madaramoyo](https://open.spotify.com/album/2SQQoQMMoeB2TnIQ8Wbc19) | 3:47 | 2024-01-18 | 2024-04-19 |
 | [Ainokansoki](https://open.spotify.com/track/2cg3kcWIvavYN4YajDvvco) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Ainokansoki](https://open.spotify.com/album/5T0FVtQa6uPc1DNF5Aj8lq) | 3:54 | 2023-08-29 | 2023-09-27 |
 | [Aisubekihibiyo](https://open.spotify.com/track/4t0uFxqYrjXjJneeTByjFj) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Donnakotonidemoshiawasewokanjirukotogadekitanara](https://open.spotify.com/album/6UO3ol61HQD56nV50GxLJl) | 4:38 | 2023-09-26 | 2023-12-13 |
+| [Alcatraz](https://open.spotify.com/track/0UrEehKeTOYuObsRQmdH0Y) | [Newspeak](https://open.spotify.com/artist/3eaUqC1a64Qk1pjNBv5L71) | [Alcatraz](https://open.spotify.com/album/111h6oXeMLuCZtZX7cULU7) | 3:37 | 2024-06-20 |  |
 | [ALICE](https://open.spotify.com/track/5jlAmWgxqh37d7ViI9dLpd) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo), [Arisa Ushimaru](https://open.spotify.com/artist/0H4lC5PIl2QNeHSTXUHjoB) | [ALICE](https://open.spotify.com/album/1awp04elQ594RklhstBPkm) | 3:43 | 2023-01-13 | 2023-02-22 |
 | [ALL SHIT](https://open.spotify.com/track/5zfYkGf54njt9hXFfD4MSA) | [the telephones](https://open.spotify.com/artist/2wRKaUyXjAYRkelDUugZrQ) | [ALL SHIT](https://open.spotify.com/album/4Evb2AGXWGrwdaYvfhgHgj) | 3:26 | 2024-01-16 | 2024-01-24 |
 | [All the best to you](https://open.spotify.com/track/041iQwe6neBn6VXVSQ1yV2) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [All the best to you](https://open.spotify.com/album/712xvsOZfCsT6WqU3Uo0y7) | 4:36 | 2023-09-20 | 2023-10-13 |
@@ -73,6 +74,7 @@
 | [Ashes](https://open.spotify.com/track/2hWYqb2PHlUZKXOdK2rfFA) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [Ashes](https://open.spotify.com/album/3UZBxSPfJQumL14kCOzJJo) | 3:20 | 2023-11-07 | 2024-01-17 |
 | [Awesome Life](https://open.spotify.com/track/1SfUUKXNcbebiw0T5rioWf) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [Awesome Life](https://open.spotify.com/album/4t2LdzmziFd3SrKMP9sd6p) | 3:47 | 2024-03-07 | 2024-04-03 |
 | [B.O.Y.](https://open.spotify.com/track/33UTmYJPlpkPFsKr29NI6K) | [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [B.O.Y.](https://open.spotify.com/album/5RJM7phpmtJ3dip8rA4cHK) | 4:02 | 2023-02-14 | 2023-02-22 |
+| [Baby Baby](https://open.spotify.com/track/12YNwNuyopAFWovudDed6G) | [KAMI WA SAIKORO WO FURANAI](https://open.spotify.com/artist/2FqdskWqZqDdlSnAIo9BGA) | [Baby Baby](https://open.spotify.com/album/2Vjw8yo7k5OCGzRxknKNOj) | 3:03 | 2024-06-20 |  |
 | [baby blue eyes](https://open.spotify.com/track/1ZH8xfse7AimYhri5u29ew) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [baby blue eyes](https://open.spotify.com/album/1GGa1VAV3dcPJRCIT7Y8ue) | 3:11 | 2023-08-22 | 2023-09-20 |
 | [BACKLIT](https://open.spotify.com/track/0IkVJdTAr7EIyZAbHzyCdU) | [mol\-74](https://open.spotify.com/artist/7sVShwPweG5PNLgVPdWlbx) | [BACKLIT](https://open.spotify.com/album/2HlQg1rXbnX9NF3v98cXLJ) | 2:41 | 2024-04-23 | 2024-05-08 |
 | [bad cry](https://open.spotify.com/track/7bnGO4VPzDGs9tv4HhPenC) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [bad cry](https://open.spotify.com/album/3aoEWy60XDvQpPqKV0B9EZ) | 3:25 | 2023-09-12 | 2023-09-27 |
@@ -529,7 +531,7 @@
 | [Oujitsu](https://open.spotify.com/track/7l1U8t0MjRDFkQyJuTP6rJ) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [Kimi ni Mita Kisetsu](https://open.spotify.com/album/76m0A0Q2uRcOh5bZ5pxR9i) | 3:42 | 2024-02-13 | 2024-03-01 |
 | [Over the rain\~Hikari no hashi\~ \- Ryu\-Take 2023 ver.](https://open.spotify.com/track/7cjE6T1u6wqUY3jtNW3g95) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [Over the rain\~Hikari no hashi\~ \(Ryu\-Take 2023 ver.\)](https://open.spotify.com/album/3gsC9sx5X4FKPG30MPD8BR) | 4:38 | 2023-08-15 | 2023-09-15 |
 | [Overdrive](https://open.spotify.com/track/0aSuXnjpcNTARU4EjCnJfD) | [KOTORI](https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL) | [Overdrive](https://open.spotify.com/album/2Bc5lb46P1HYmayhkBu3cW) | 3:08 | 2024-05-14 | 2024-05-29 |
-| [overtime](https://open.spotify.com/track/3GjWcRCJw1fgdWXek9TVbP) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [overtime](https://open.spotify.com/album/6qoqj6pfCiQFh84BIXb7MG) | 1:53 | 2024-04-02 |  |
+| [overtime](https://open.spotify.com/track/3GjWcRCJw1fgdWXek9TVbP) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [overtime](https://open.spotify.com/album/6qoqj6pfCiQFh84BIXb7MG) | 1:53 | 2024-04-02 | 2024-06-21 |
 | [Page One](https://open.spotify.com/track/3yWXrzzmQFMxOe9bVcQVJ2) | [reGretGirl](https://open.spotify.com/artist/5uvz2VwV3ubUy1Tm1UOrLs) | [Page One](https://open.spotify.com/album/3w754CuU5wKeIVJSn0IEa8) | 2:58 | 2023-07-25 | 2023-08-30 |
 | [PALEHELL](https://open.spotify.com/track/2UvREDGrD9wA4fcSjcRDpg) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [PALEHELL](https://open.spotify.com/album/4RJm4nESvtZRn9MV3sOs9V) | 3:41 | 2024-02-20 | 2024-04-19 |
 | [PALEHELL](https://open.spotify.com/track/2uiYaLjZv8nRFzL0utxSBd) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [PALEHELL](https://open.spotify.com/album/061Fln1SY6RputuFt6GP5N) | 3:41 | 2024-02-20 |  |
@@ -686,7 +688,7 @@
 | [STRAIGHT SONG](https://open.spotify.com/track/6ZIVfpwf3NRtZonP0DtHGc) | [kobore](https://open.spotify.com/artist/0seiMqWC3KI3SkKttVWy8Z) | [STRAIGHT SONG](https://open.spotify.com/album/0LUXK9j0YHc8gIzgPbmhq0) | 2:08 | 2024-02-06 | 2024-02-14 |
 | [Strawberry Night \- Prod\. by ESME MORI](https://open.spotify.com/track/1AzxWcwgz45ZSn7Iqd7gIc) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF) | [RUNWAY](https://open.spotify.com/album/78Q2Qyf2Yyxp4cFSHluJxj) | 3:18 | 2023-09-05 | 2023-11-01 |
 | [Stray Hearts](https://open.spotify.com/track/3sqx01xjg7G7Fehge1YqUP) | [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [Stray Hearts](https://open.spotify.com/album/4vBh1pUF953y5Sf6Y9A3Su) | 4:33 | 2023-05-25 | 2023-07-07 |
-| [SUGAR PUFF](https://open.spotify.com/track/080GUsiGyP1nko9hZ5SNv2) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [POPCORN](https://open.spotify.com/album/0bFMParGQWnD6IpXuhcojP) | 3:40 | 2024-04-23 |  |
+| [SUGAR PUFF](https://open.spotify.com/track/080GUsiGyP1nko9hZ5SNv2) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [POPCORN](https://open.spotify.com/album/0bFMParGQWnD6IpXuhcojP) | 3:40 | 2024-04-23 | 2024-06-21 |
 | [SUGAR PUFF](https://open.spotify.com/track/0hgMgabTUAFrVSmcpLFAyb) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [SUGAR PUFF](https://open.spotify.com/album/4L0eMH0yk0kCigoM7ChwJU) | 3:40 | 2024-04-02 | 2024-04-19 |
 | [SUGAR PUFF](https://open.spotify.com/track/3lcAj13cDKhbRKyvS4mivz) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [SUGAR PUFF](https://open.spotify.com/album/2o9ZXr2n79AMHLConDOu5o) | 3:40 | 2024-04-02 | 2024-04-24 |
 | [Sugoi Ai no Kotoba](https://open.spotify.com/track/7outFZqATBx2c1Ly0XnjVt) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [Sugoi Ai no Kotoba](https://open.spotify.com/album/2GMxtLjEQooXPkPauHoW4y) | 4:08 | 2024-01-09 | 2024-02-07 |

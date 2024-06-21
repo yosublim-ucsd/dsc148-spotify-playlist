@@ -2828,7 +2828,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 176500,
       "name": "Haye Juliet (From \"Jatt & Juliet 3\")",
       "url": "https://open.spotify.com/track/6i87GOmmRMkiiGNVEZcimC"
@@ -4032,6 +4032,32 @@
       "duration_ms": 160500,
       "name": "Lalkara",
       "url": "https://open.spotify.com/track/6swVP5qDAjqlzbF2R3A4bC"
+    },
+    {
+      "album": {
+        "name": "Lehnga (From \"Jatt & Juliet 3\")",
+        "url": "https://open.spotify.com/album/3TYL5xrhgCeuRkKCRGVEtj"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Jaani",
+          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
+        },
+        {
+          "name": "Bunny",
+          "url": "https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189762,
+      "name": "Lehnga (From \"Jatt & Juliet 3\")",
+      "url": "https://open.spotify.com/track/6U8g1gIPeHXLTCZ7U6wxbQ"
     },
     {
       "album": {

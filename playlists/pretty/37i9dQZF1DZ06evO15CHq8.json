@@ -1,12 +1,12 @@
 {
   "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 582422,
+  "num_followers": 582921,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zm98gAAAAADAudmGGto7Xap61JBWWqmn",
+  "snapshot_id": "ZnIfgAAAAACcPf0fFLSm3lLDYA9a8v7i",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Are You Going to See the Rose in the Vase, or the Dust on the Table",
-        "url": "https://open.spotify.com/album/1X1uDkDDs2BQiKlghA0gVQ"
+        "name": "New World Depression",
+        "url": "https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 150942,
-      "name": "Are You Going to See the Rose in the Vase, or the Dust on the Table",
-      "url": "https://open.spotify.com/track/78RdTKcI2CediltTnGLIqr"
+      "duration_ms": 107610,
+      "name": "Lone Wolf Hysteria",
+      "url": "https://open.spotify.com/track/1rjvXhfeSpVVqERzW8qhRw"
     },
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stop Staring At the Shadows",
-        "url": "https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4"
+        "name": "Are You Going to See the Rose in the Vase, or the Dust on the Table",
+        "url": "https://open.spotify.com/album/1X1uDkDDs2BQiKlghA0gVQ"
       },
       "artists": [
         {
@@ -100,41 +100,9 @@
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 168489,
-      "name": "...And to Those I Love, Thanks for Sticking Around",
-      "url": "https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Us Vs. Them",
-        "url": "https://open.spotify.com/album/6G7r3vu2Snjn8Ese1uwNZp"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 184633,
-      "name": "Us Vs. Them",
-      "url": "https://open.spotify.com/track/3cmdqMDc0Fj4TgPeyDOYTM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Liver Will Handle What My Heart Can't",
-        "url": "https://open.spotify.com/album/2VrpzWjnsiELWKXOJAFhme"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 145078,
-      "name": "Kill Yourself (Part III)",
-      "url": "https://open.spotify.com/track/0kEZlJh4mK1QRfb3CT5LPk"
+      "duration_ms": 150942,
+      "name": "Are You Going to See the Rose in the Vase, or the Dust on the Table",
+      "url": "https://open.spotify.com/track/78RdTKcI2CediltTnGLIqr"
     },
     {
       "added_at": null,
@@ -164,9 +132,25 @@
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 107610,
-      "name": "Lone Wolf Hysteria",
-      "url": "https://open.spotify.com/track/1rjvXhfeSpVVqERzW8qhRw"
+      "duration_ms": 139996,
+      "name": "The Light at the End of the Tunnel for $9.99 a Month",
+      "url": "https://open.spotify.com/track/4PaI8I6lpyzCf5WPzn0VeH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Us Vs. Them",
+        "url": "https://open.spotify.com/album/6G7r3vu2Snjn8Ese1uwNZp"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 184633,
+      "name": "Us Vs. Them",
+      "url": "https://open.spotify.com/track/3cmdqMDc0Fj4TgPeyDOYTM"
     },
     {
       "added_at": null,
@@ -203,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "New World Depression",
+        "url": "https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 145782,
+      "name": "Mental Clarity Is a Luxury I Can't Afford",
+      "url": "https://open.spotify.com/track/0JcD5qI9SxWqdEWmRjUX9X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Long Term Effects of SUFFERING",
         "url": "https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2"
       },
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New World Depression",
-        "url": "https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 139996,
-      "name": "The Light at the End of the Tunnel for $9.99 a Month",
-      "url": "https://open.spotify.com/track/4PaI8I6lpyzCf5WPzn0VeH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I No Longer Fear the Razor Guarding My Heel",
         "url": "https://open.spotify.com/album/5QvM8XR1GooXrA7TgIr6Ok"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 167679,
       "name": "My Flaws Burn Through My Skin Like Demonic Flames from Hell",
       "url": "https://open.spotify.com/track/6QFQqqYye5lAcnhCALvxKJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New World Depression",
+        "url": "https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 219534,
+      "name": "Misery in Waking Hours",
+      "url": "https://open.spotify.com/track/2eZbaxXxKdzY8u3ZMZVFiP"
     },
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New World Depression",
-        "url": "https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 145782,
-      "name": "Mental Clarity Is a Luxury I Can't Afford",
-      "url": "https://open.spotify.com/track/0JcD5qI9SxWqdEWmRjUX9X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kill Yourself (Part IV)",
         "url": "https://open.spotify.com/album/2lWXXZ9VyzighDLU1Z4D0t"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 113972,
       "name": "Kill Yourself (Part IV)",
       "url": "https://open.spotify.com/track/3LLYTletE6uiRZ0hgMSrCN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New World Depression",
+        "url": "https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 268474,
+      "name": "Burgundy",
+      "url": "https://open.spotify.com/track/22YmmVRHfFX49G6HY5NV3T"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New World Depression",
-        "url": "https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 219534,
-      "name": "Misery in Waking Hours",
-      "url": "https://open.spotify.com/track/2eZbaxXxKdzY8u3ZMZVFiP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KILL YOURSELF Part XII: The Dark Glacier Saga",
         "url": "https://open.spotify.com/album/0Jbf4eYSaqLj4OW0xCrJlj"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 123468,
       "name": "2nd Hand",
       "url": "https://open.spotify.com/track/3YeQsJs1FdLI3w0BqWwpmk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New World Depression",
+        "url": "https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 137328,
+      "name": "Transgressions",
+      "url": "https://open.spotify.com/track/5RaLt5Ei1E9tRjYGjc2G1G"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
       "duration_ms": 152136,
       "name": "CLYDE (I Hope at Least One of My Ex-Girlfriends Hears This)",
       "url": "https://open.spotify.com/track/59aL2q2UPYJkgLTSv0WTlB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New World Depression",
-        "url": "https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 268474,
-      "name": "Burgundy",
-      "url": "https://open.spotify.com/track/22YmmVRHfFX49G6HY5NV3T"
     },
     {
       "added_at": null,
@@ -499,22 +483,6 @@
       "duration_ms": 109898,
       "name": "AWKWARD CAR DRIVE",
       "url": "https://open.spotify.com/track/3aEDTqPcVXDiuKXaedAZgx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New World Depression",
-        "url": "https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 137328,
-      "name": "Transgressions",
-      "url": "https://open.spotify.com/track/5RaLt5Ei1E9tRjYGjc2G1G"
     },
     {
       "added_at": null,
@@ -587,22 +555,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "High Tide in the Snake's Nest",
-        "url": "https://open.spotify.com/album/7gMzKwKAsbooGeKgDlX2TL"
+        "name": "Goodnight Lovell",
+        "url": "https://open.spotify.com/album/7DNZURhi8nhcGxhoRriZFS"
       },
       "artists": [
         {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+          "name": "Night Lovell",
+          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
         },
         {
-          "name": "Pouya",
-          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 169319,
-      "name": "$outh $ide $uicide",
-      "url": "https://open.spotify.com/track/496GZe7MxLloHgUQTmY2Ch"
+      "duration_ms": 145202,
+      "name": "JOAN OF ARC",
+      "url": "https://open.spotify.com/track/1nQwi9UGdNeN1FyzGE7jDt"
     },
     {
       "added_at": null,
@@ -627,22 +595,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goodnight Lovell",
-        "url": "https://open.spotify.com/album/7DNZURhi8nhcGxhoRriZFS"
+        "name": "High Tide in the Snake's Nest",
+        "url": "https://open.spotify.com/album/7gMzKwKAsbooGeKgDlX2TL"
       },
       "artists": [
         {
-          "name": "Night Lovell",
-          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
-        },
-        {
           "name": "$uicideboy$",
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        },
+        {
+          "name": "Pouya",
+          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
         }
       ],
-      "duration_ms": 145202,
-      "name": "JOAN OF ARC",
-      "url": "https://open.spotify.com/track/1nQwi9UGdNeN1FyzGE7jDt"
+      "duration_ms": 169319,
+      "name": "$outh $ide $uicide",
+      "url": "https://open.spotify.com/track/496GZe7MxLloHgUQTmY2Ch"
     },
     {
       "added_at": null,
@@ -659,22 +627,6 @@
       "duration_ms": 195994,
       "name": "Fucking Your Culture",
       "url": "https://open.spotify.com/track/2gkVweydDn7MmHmqXAlEzk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "High Tide in the Snake's Nest",
-        "url": "https://open.spotify.com/album/7gMzKwKAsbooGeKgDlX2TL"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 145635,
-      "name": "Mount Sinai",
-      "url": "https://open.spotify.com/track/5vyR3lTiw4zz8B4PvnAO4c"
     },
     {
       "added_at": null,
@@ -707,6 +659,22 @@
       "duration_ms": 136997,
       "name": "Harvest Moon",
       "url": "https://open.spotify.com/track/1ejyx2kXWFY6QuYHu7yOyD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "High Tide in the Snake's Nest",
+        "url": "https://open.spotify.com/album/7gMzKwKAsbooGeKgDlX2TL"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 145635,
+      "name": "Mount Sinai",
+      "url": "https://open.spotify.com/track/5vyR3lTiw4zz8B4PvnAO4c"
     },
     {
       "added_at": null,
@@ -863,6 +831,38 @@
       "duration_ms": 153808,
       "name": "Clouds as Witnesses",
       "url": "https://open.spotify.com/track/7s7q9dpsSCMEnDR3WhExZy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sing Me a Lullaby, My Sweet Temptation",
+        "url": "https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 143346,
+      "name": "$uicideboy$ Were Better In 2015",
+      "url": "https://open.spotify.com/track/6LoaYlv0bC1TyctuADqNFh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Long Term Effects of SUFFERING",
+        "url": "https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 169565,
+      "name": "5 Grand at 8 to 1",
+      "url": "https://open.spotify.com/track/1RSjxBz03F6vEqoHT9jWBa"
     }
   ],
   "unique_name": "This Is $uicideboy$",

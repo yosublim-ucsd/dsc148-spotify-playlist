@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The fresh & hottest K-Hip hop tracks. (Cover: HOMIES(\ud638\ubbf8\ub4e4))",
+  "description": "The fresh & hottest K-Hip hop tracks. (Cover: JUSTHIS(\uc800\uc2a4\ub514\uc2a4))",
   "name": "KrOWN",
   "tracks": [
     {
@@ -5413,6 +5413,36 @@
     },
     {
       "album": {
+        "name": "Death Therapy",
+        "url": "https://open.spotify.com/album/3vNsTS65Y9QkXFE4G7TZW3"
+      },
+      "artists": [
+        {
+          "name": "Fredi Casso",
+          "url": "https://open.spotify.com/artist/2tVGjpHP709GdVbRx7PTEy"
+        },
+        {
+          "name": "Ambid Jack",
+          "url": "https://open.spotify.com/artist/5IdbGGFIdD7WGPxemC2naJ"
+        },
+        {
+          "name": "JJK",
+          "url": "https://open.spotify.com/artist/1tN10ObeLZVfnzfpSaT73O"
+        },
+        {
+          "name": "dubdubee",
+          "url": "https://open.spotify.com/artist/3sK8wH7NDOJwnAXJdln7Jl"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197135,
+      "name": "Daily News",
+      "url": "https://open.spotify.com/track/2jTD2vdCc6VIFVIIe1siMA"
+    },
+    {
+      "album": {
         "name": "Daisy",
         "url": "https://open.spotify.com/album/5q2S029pKo0xqtXQ2loeQA"
       },
@@ -8462,6 +8492,28 @@
       "duration_ms": 186901,
       "name": "GAL RAE? (feat. MELOH, JONG UP) [Prod. Neal]",
       "url": "https://open.spotify.com/track/0gwk2kDsRTXA9Dl0ftPI94"
+    },
+    {
+      "album": {
+        "name": "Galleria",
+        "url": "https://open.spotify.com/album/1UVo0e9brkRsFwg03IrvgY"
+      },
+      "artists": [
+        {
+          "name": "Yumewanaii",
+          "url": "https://open.spotify.com/artist/4oLq9qTt8P6pawQN1w9zL8"
+        },
+        {
+          "name": "YLN Foreign",
+          "url": "https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173793,
+      "name": "Galleria (feat. YLN Foreign)",
+      "url": "https://open.spotify.com/track/01TAX4shfADEKYjv3GHo9o"
     },
     {
       "album": {
@@ -12875,6 +12927,24 @@
     },
     {
       "album": {
+        "name": "PUMP",
+        "url": "https://open.spotify.com/album/34Z7aFV3bVDGu1EBQogK2p"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186447,
+      "name": "K-DRAMA",
+      "url": "https://open.spotify.com/track/1ceNvrZDao9XB34qN3p6aB"
+    },
+    {
+      "album": {
         "name": "K-LAND",
         "url": "https://open.spotify.com/album/2O6DCzRdIxCr5oEu8DwAnE"
       },
@@ -13078,6 +13148,32 @@
       "duration_ms": 289090,
       "name": "khalifa (feat. Young B)",
       "url": "https://open.spotify.com/track/5mx7sc6BpA9Laq011CirUX"
+    },
+    {
+      "album": {
+        "name": "Hardhitters",
+        "url": "https://open.spotify.com/album/4fElVO8jcZuvUQCqfatlIH"
+      },
+      "artists": [
+        {
+          "name": "KG",
+          "url": "https://open.spotify.com/artist/7zX4qBPeqfbRWtLdr1DXzG"
+        },
+        {
+          "name": "Keith Ape",
+          "url": "https://open.spotify.com/artist/6f9bmfkqiYbhCtdAZsv7KI"
+        },
+        {
+          "name": "JayAllDay",
+          "url": "https://open.spotify.com/artist/3tCFRVyQtXCCDS2em4V8wv"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211213,
+      "name": "Killawhale (feat. Keith Ape & Jay Allday)",
+      "url": "https://open.spotify.com/track/1kSuvS3t4OaWkbVAz5mzPS"
     },
     {
       "album": {
@@ -21701,6 +21797,24 @@
     },
     {
       "album": {
+        "name": "She go",
+        "url": "https://open.spotify.com/album/1guQ8gdOuKyDNOPkqq03ee"
+      },
+      "artists": [
+        {
+          "name": "Benzamin",
+          "url": "https://open.spotify.com/artist/0MfEPnKo5ZZ1KFyCPe68yJ"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158152,
+      "name": "She go",
+      "url": "https://open.spotify.com/track/4FAwpdUi7WV8UAxkcllYks"
+    },
+    {
+      "album": {
         "name": "She Gonna Stop",
         "url": "https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN"
       },
@@ -24708,6 +24822,32 @@
       "duration_ms": 135096,
       "name": "Tic Tac?",
       "url": "https://open.spotify.com/track/1xnjwH0oVDptgAhSvnuWq4"
+    },
+    {
+      "album": {
+        "name": "BLEND",
+        "url": "https://open.spotify.com/album/6ftmYAVe6L56j8u2YYzyeR"
+      },
+      "artists": [
+        {
+          "name": "Way Ched",
+          "url": "https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM"
+        },
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        },
+        {
+          "name": "K.vsh",
+          "url": "https://open.spotify.com/artist/0GVLMUDDJxgVWTpHcVFA2z"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136533,
+      "name": "Ticket (Feat. CHANGMO, Kvsh)",
+      "url": "https://open.spotify.com/track/1Jdr8PjFU7Y0CwK29miFNa"
     },
     {
       "album": {

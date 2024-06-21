@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-281 songs - 16 hr 30 min
+282 songs - 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Atlantis](https://open.spotify.com/track/7MQiicIO6sDUPX47tA7gUY) | [Hugleiösla](https://open.spotify.com/artist/0ckEoQesFtWdmchnO9RmIg) | [Atlantis](https://open.spotify.com/album/1exDhAU4sMwTHjDbFFE9nA) | 4:18 | 2022-09-02 |  |
 | [Autumnal](https://open.spotify.com/track/2DR3RcQLkcx9KqBEx9Raf7) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Glacier](https://open.spotify.com/album/3dHqf7HmYlEfJQNp0RL7mg) | 5:28 | 2020-12-08\* | 2021-05-27 |
 | [Avori](https://open.spotify.com/track/2Fq3ZwxleE9ahYEAvcZSji) | [Mirova](https://open.spotify.com/artist/3sD5yaSCD2OZCQGFvIGPDL) | [Avori](https://open.spotify.com/album/4pWrxItDLygNwhM6pHIgeO) | 2:51 | 2022-12-30 |  |
-| [Awa To Koi](https://open.spotify.com/track/7IuFNGDAQvfaVCwaHFX3d9) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [Maboroshi No Sazanami](https://open.spotify.com/album/18X35cKJVDH2iZUiI02wLH) | 2:57 | 2022-12-30 |  |
+| [Awa To Koi](https://open.spotify.com/track/7IuFNGDAQvfaVCwaHFX3d9) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [Maboroshi No Sazanami](https://open.spotify.com/album/18X35cKJVDH2iZUiI02wLH) | 2:57 | 2022-12-30 | 2024-06-21 |
 | [Awash](https://open.spotify.com/track/4vU5TfGGHeIwKVzWSov8TM) | [Manual](https://open.spotify.com/artist/57OTTQNo2lt78ydJsxwOLm) | [Awash](https://open.spotify.com/album/5G1QrK23ZwsQrKDjpbVNo7) | 5:39 | 2020-12-08\* | 2021-05-27 |
 | [Back to the Start](https://open.spotify.com/track/10yIs9zsN0BNnXJpejnZ2v) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Back to the Start \- Single](https://open.spotify.com/album/5nIpv7xaUzcjTyp3V1jgd9) | 4:46 | 2021-01-15 | 2022-07-29 |
 | [Back to the Start](https://open.spotify.com/track/4Pdnt4VOAv26b1ILvtAoRj) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Between Waves \(Deluxe Version\)](https://open.spotify.com/album/3u63zDEJeJaxwSixfMCGRD) | 4:47 | 2022-07-22 | 2023-02-27 |
@@ -149,7 +149,7 @@
 | [Know Where](https://open.spotify.com/track/0iT8tYZ3haeUUXWogdRJh0) | [Holy Other](https://open.spotify.com/artist/7txCfGfh46OwoUBDPj4HKL) | [With U](https://open.spotify.com/album/5eIrB1QIV8Yz2tbGaw2S9D) | 3:28 | 2020-12-08\* | 2021-03-06 |
 | [Komal](https://open.spotify.com/track/1jMYGXV4IDZcB3M4Bi3W16) | [Ka Wadhwa](https://open.spotify.com/artist/2dPkKU7aaKeFDICPMOduIv) | [Komal](https://open.spotify.com/album/6XfBKfj6M49k4j5fRh1uME) | 3:03 | 2023-10-20 | 2024-05-26 |
 | [Lake Green](https://open.spotify.com/track/5CGZFKWSIipVq4DfANWaBl) | [Earth Alliance](https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ) | [Colors](https://open.spotify.com/album/5YRZc34LMwheVAwDJX9u2x) | 3:21 | 2022-12-30 | 2023-10-16 |
-| [Lantern Lights](https://open.spotify.com/track/1Fah8jgJ9Y6cUxKDfKg4Km) | [Earthlite](https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p) | [Brush the Dust & Lantern Lights](https://open.spotify.com/album/0eGEob2VqeMUJ6WOPhBGIY) | 3:49 | 2024-04-04 | 2024-06-18 |
+| [Lantern Lights](https://open.spotify.com/track/1Fah8jgJ9Y6cUxKDfKg4Km) | [Earthlite](https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p) | [Brush the Dust & Lantern Lights](https://open.spotify.com/album/0eGEob2VqeMUJ6WOPhBGIY) | 3:49 | 2024-04-04 |  |
 | [Leaving the Tetons](https://open.spotify.com/track/0tehe7Y347aJvGjsDBjeIw) | [Mark Preston](https://open.spotify.com/artist/64mJPfKjDJqEcrc1fRJH9j) | [Nature & Design](https://open.spotify.com/album/6D6xz53TceI61ZebcMtmSo) | 5:34 | 2020-12-08\* | 2021-05-27 |
 | [Let go](https://open.spotify.com/track/1NRLFIhFm333fvUE46FSC2) | [Nessa Wright](https://open.spotify.com/artist/1gHeUPUU5lLzMfodqksLEl) | [Let go](https://open.spotify.com/album/6PWKLG87gXfzghgqzQWJKb) | 2:21 | 2024-02-16 |  |
 | [Levitate](https://open.spotify.com/track/2EXBGX5M8y0bp8IUPagUpy) | [Rizik](https://open.spotify.com/artist/1RPAAHsStLojK33L7zhgzl) | [Levitate](https://open.spotify.com/album/0BtISmmdavrCmqfYAZyeKK) | 4:22 | 2020-12-08\* | 2021-03-06 |
@@ -195,7 +195,7 @@
 | [Parameters](https://open.spotify.com/track/2bCW53cveSKclOEnzlbJyC) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Between Waves](https://open.spotify.com/album/0TeJOSgDHYKwwj3K1zxblP) | 5:15 | 2020-12-08\* | 2021-07-06 |
 | [Part 3](https://open.spotify.com/track/5EGW7u5Apfyu8CJZIkiops) | [Rhian Sheehan](https://open.spotify.com/artist/0H1edn1doFZiHiu2INB2CT) | [Standing in Silence](https://open.spotify.com/album/0vfiJSS4yr9dlKgl3uLING) | 5:13 | 2021-02-22 | 2022-07-29 |
 | [Passing By](https://open.spotify.com/track/2FlD1WyrE1iNdflUvXAQoj) | [Sulfur Springs](https://open.spotify.com/artist/4W3lH1l0pEtX21XX6nOIRF) | [Passing By](https://open.spotify.com/album/1GL8XBwwxJzmytxkstvtTU) | 3:39 | 2022-09-02 |  |
-| [Peaceful Mind](https://open.spotify.com/track/0t971nk22Z8LHCPp2XksxA) | [Karbona](https://open.spotify.com/artist/4yoDbJBznZifpfMUyD2yPa) | [Peaceful Mind](https://open.spotify.com/album/14Op3aFcvpjw8K93nEjNbc) | 3:04 | 2022-11-11 |  |
+| [Peaceful Mind](https://open.spotify.com/track/0t971nk22Z8LHCPp2XksxA) | [Karbona](https://open.spotify.com/artist/4yoDbJBznZifpfMUyD2yPa) | [Peaceful Mind](https://open.spotify.com/album/14Op3aFcvpjw8K93nEjNbc) | 3:04 | 2022-11-11 | 2024-06-21 |
 | [Perfect Morning \- Speck from CYNE Remix](https://open.spotify.com/track/1KSv7wt8YplLa5useD2I0D) | [Long Arm](https://open.spotify.com/artist/0bUWa3lF2u3S1j1JOVZsdA), [Speck From CYNE](https://open.spotify.com/artist/5xdr4nT8gezbvSBLn2jyRz) | [The Branches \(Deluxe Edition\)](https://open.spotify.com/album/6DsdLxkHx1VlKvLxa2Y57w) | 4:24 | 2021-01-15 | 2021-05-27 |
 | [Periphescence](https://open.spotify.com/track/2DhT22DtGdRKULjuScdht0) | [Glowworm](https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw) | [The Coachlight Woods](https://open.spotify.com/album/5rvAkp5i9TmfeLkzfV1Ig4) | 3:58 | 2020-12-08\* |  |
 | [Poa Alpina](https://open.spotify.com/track/1TCkrnjuurf0DNLLoJxVyd) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata](https://open.spotify.com/album/6jeIzUv8Bff4fFElZwwA4B) | 4:10 | 2020-12-08\* | 2021-03-06 |
@@ -288,6 +288,7 @@
 | [Where I Sleep](https://open.spotify.com/track/49Nyt0AqUWPzTrV7R4EmLo) | [Meodna](https://open.spotify.com/artist/1acgr2GgwWnpDzCjBF9wsn) | [Where I Sleep](https://open.spotify.com/album/0q0sEiRhgNW7iYlnPIcx3B) | 3:05 | 2024-01-30 |  |
 | [Whispers Of Tomorrow](https://open.spotify.com/track/6gTHikNHtALWpLA4RKwpj1) | [Intunement](https://open.spotify.com/artist/4T9KclnNdDHCaeuc0k7pPN) | [Whispers Of Tomorrow](https://open.spotify.com/album/6RkA2N5iox9JCHEVWxkhWu) | 2:53 | 2024-03-14 |  |
 | [Who Tends a Garden](https://open.spotify.com/track/2Lt0bFZb8rudzv6DYt5voS) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Who Tends a Garden](https://open.spotify.com/album/0i1t8drfXdByzo8FYiVNCS) | 4:40 | 2023-01-13 |  |
+| [With The Motions](https://open.spotify.com/track/3CUdK7G9Io6fFlu60KRkLu) | [La Kalon](https://open.spotify.com/artist/5PdlOF1wMz2X6jSbZXND4l) | [With The Motions \(Dream House\)](https://open.spotify.com/album/5wSqncubBlBKqiwhD4JABh) | 3:11 | 2024-06-10 |  |
 | [You Want Dark Tunes?](https://open.spotify.com/track/5sIYyLglAXMRVkhi5IxAwP) | [Ave Air](https://open.spotify.com/artist/2P6DMnuFgtU6UWuxTcF5nU) | [Twin Solar Sunrise](https://open.spotify.com/album/2bwyKZAU4AjrsS3YF5gFhE) | 4:57 | 2020-12-08\* | 2021-01-07 |
 
 \*This playlist was first scraped on 2020-12-08. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Emile Londonien",
+  "description": "The best jazz new releases. Cover: Liana Flores",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -576,6 +576,32 @@
       "duration_ms": 225237,
       "name": "al Fayhaa",
       "url": "https://open.spotify.com/track/70IYWJnc0DiVEibOaw9vCW"
+    },
+    {
+      "album": {
+        "name": "Album of the Year #1 Funkateer",
+        "url": "https://open.spotify.com/album/6JWmvgSevSOBTuUtUmSJqK"
+      },
+      "artists": [
+        {
+          "name": "Bootsy Collins",
+          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "name": "Bootdullivan",
+          "url": "https://open.spotify.com/artist/2BJ9wQSxjoHLm4jjeR3goW"
+        },
+        {
+          "name": "Myra Washington",
+          "url": "https://open.spotify.com/artist/5nGnyBnrFoaa7jsZvLWUho"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255746,
+      "name": "Album of the Year #1 Funkateer",
+      "url": "https://open.spotify.com/track/7DzAcPjNMTXjygZixhmTZy"
     },
     {
       "album": {
@@ -3109,6 +3135,24 @@
     },
     {
       "album": {
+        "name": "Esta Tarde Vi Llover",
+        "url": "https://open.spotify.com/album/2BdAV14LQO5UttyphTnRl1"
+      },
+      "artists": [
+        {
+          "name": "Zaz",
+          "url": "https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164293,
+      "name": "Esta Tarde Vi Llover",
+      "url": "https://open.spotify.com/track/4ehc8FBzTKrBELmUeOYH15"
+    },
+    {
+      "album": {
         "name": "Estrellas",
         "url": "https://open.spotify.com/album/2WgEVB6gkJ8ijn08kafvrf"
       },
@@ -3911,6 +3955,28 @@
     },
     {
       "album": {
+        "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
+        "url": "https://open.spotify.com/album/0ox9tbhuvpoGllNRJ87IOe"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239306,
+      "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
+      "url": "https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ"
+    },
+    {
+      "album": {
         "name": "God Rest Ye Merry Gentlemen (Spotify Singles Holiday)",
         "url": "https://open.spotify.com/album/6gwykwTqf7AToBqlTgYSbJ"
       },
@@ -4274,7 +4340,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 316160,
       "name": "Ha\u00efti - Kaidi Tatham Remix",
       "url": "https://open.spotify.com/track/006aNwI2WYQ44KUQOlreXC"
@@ -5440,7 +5506,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 341477,
       "name": "Juno",
       "url": "https://open.spotify.com/track/5wSAg3ib3RwXhJ5oJXOlYk"
@@ -5902,7 +5968,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 314481,
       "name": "Liberation",
       "url": "https://open.spotify.com/track/1gZe7qEONCZdRFn2A7UhdJ"
@@ -6786,7 +6852,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 211030,
       "name": "Mississippi Goddam",
       "url": "https://open.spotify.com/track/4Wt6CQv405BTx52dHQbxPn"
@@ -7370,6 +7436,24 @@
       "duration_ms": 286298,
       "name": "Nymphea",
       "url": "https://open.spotify.com/track/1HxY3Z3vFws3fTsiOW1utQ"
+    },
+    {
+      "album": {
+        "name": "ode to rahsaan",
+        "url": "https://open.spotify.com/album/4Up6R581JD14RmIFgxUrnF"
+      },
+      "artists": [
+        {
+          "name": "berlioz",
+          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210447,
+      "name": "ode to rahsaan",
+      "url": "https://open.spotify.com/track/2L6sbcKSPsXPW6x8lyiEsU"
     },
     {
       "album": {
@@ -10756,7 +10840,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 260324,
       "name": "Via con me",
       "url": "https://open.spotify.com/track/7EggHwX77M5DNM1KTsDEys"
@@ -11502,6 +11586,24 @@
       "duration_ms": 269837,
       "name": "Work It Out",
       "url": "https://open.spotify.com/track/0g2DJDLklqrYZk8WTxdFBQ"
+    },
+    {
+      "album": {
+        "name": "Worthy",
+        "url": "https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon"
+      },
+      "artists": [
+        {
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208651,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw"
     },
     {
       "album": {

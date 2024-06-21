@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover:   <a href=https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH?si=0lJgMD1sS\_mVVF1J\_3ofwg>CalledOut Music
 
-286 songs - 17 hr 10 min
+288 songs - 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [No Trouble](https://open.spotify.com/track/3boAIpm9pD0KF6IEJQHjBX) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [No Trouble](https://open.spotify.com/album/0UiTQ1UQf6UmwUjvixptVB) | 2:50 | 2023-10-20 | 2024-04-06 |
 | [Not Alone](https://open.spotify.com/track/4F9M0pKsSgkJIpyWRxvF9Y) | [Mbonelyn](https://open.spotify.com/artist/3romvxmdAxsvhY5vhf5NWE), [Awesome's Music Group](https://open.spotify.com/artist/6pT56YXMMA6sh3UyNMSDUO), [Paul\-Emmanuel](https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3) | [Not Alone](https://open.spotify.com/album/7GRdLNNetjhHaz2dDdLfpz) | 2:46 | 2023-12-01 | 2024-01-26 |
 | [Not One Time](https://open.spotify.com/track/6BHr2BD9BAIitzL9fPbZjo) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Not One Time](https://open.spotify.com/album/5pHa72PcJQiwEANhpYYlm0) | 2:50 | 2024-01-26 | 2024-03-29 |
+| [Nothing](https://open.spotify.com/track/2wy1zSbwuM7fZFY8ZKrueJ) | [Prince Davids](https://open.spotify.com/artist/6xbxigYdH6R1mxgHN7njpL), [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr), [Pawasonic](https://open.spotify.com/artist/4JnNMhfRwpiknBp80tInQR) | [Nothing](https://open.spotify.com/album/5rMlSSxp3e42KNXkCwN0OM) | 3:05 | 2024-06-21 |  |
 | [Obinigwe](https://open.spotify.com/track/2gfh7QNGVJIdnTA1GSVqnU) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Obinigwe](https://open.spotify.com/album/1ZcK96zMWufzdsMu1yMVmT) | 9:07 | 2023-10-20 |  |
 | [Obinigwe](https://open.spotify.com/track/0fs6Iaw6Dze7VzT2sHDpkD) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [To Yahweh's Delight](https://open.spotify.com/album/4MCPXcYlgqMGWqm8B2k3ap) | 9:12 | 2023-10-20 | 2024-04-19 |
 | [Obinigwe](https://open.spotify.com/track/1zyQByOXDyQlFYzqTuax5l) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [To Yahweh's Delight](https://open.spotify.com/album/779P4ZNqRzXiiw2sIRTXva) | 9:12 | 2023-10-20 | 2024-02-17 |
@@ -197,6 +198,7 @@
 | [Omemma](https://open.spotify.com/track/4YfOEXttugon5YXM3TjJGz) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv) | 4:17 | 2023-10-20 | 2024-04-19 |
 | [Omemma](https://open.spotify.com/track/3t2o1njvVXz9IojLD1FTqk) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08) | 4:17 | 2023-10-20 |  |
 | [One Name \(Jesus\) \- Live](https://open.spotify.com/track/0C0mv7BaaLQtAUeOZwW47c) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [One Name \(Jesus\) \[Live\]](https://open.spotify.com/album/3uCGAbiokcQ8BaLgQCgyzK) | 9:19 | 2023-10-20 |  |
+| [One Sound](https://open.spotify.com/track/7CLhGGeK8MPlq26HDylXK2) | [Jakes Hinjari](https://open.spotify.com/artist/0vHke5zDphp49XceKxztGu), [Worshippers' Circle](https://open.spotify.com/artist/0ifftjfVRe5U2xnyKXVUpd), [Jephthah Idahosa Aigbe](https://open.spotify.com/artist/6K4xWHvtn0F3eM6dnZGQeg) | [One Sound](https://open.spotify.com/album/5kVH3WbunsT7UB6dkvyTuk) | 4:48 | 2024-06-21 |  |
 | [ONE WAY](https://open.spotify.com/track/4AMrHYdNd5PrjNc9kP2dub) | [Kdfromthepack](https://open.spotify.com/artist/4okNmvwnCdNJhRQGPxUi4R) | [ONE WAY](https://open.spotify.com/album/6e34YxpewL68XGeIhl3lox) | 4:14 | 2024-06-07 |  |
 | [Only You](https://open.spotify.com/track/2PT3ESq3qvlwT2r7JPIG3b) | [Hills Music](https://open.spotify.com/artist/7zG8lYti0IvGed5TIPXATE), [Kinsu](https://open.spotify.com/artist/0ZH0SbRhX3D2vaRGvTU3Rh) | [Only You](https://open.spotify.com/album/3bChpC9nlS2fsxYJ6mmjh7) | 2:26 | 2023-12-01 | 2024-01-26 |
 | [Only You Satisfy](https://open.spotify.com/track/7EHn5jHANk2kTMXL8dN0Wr) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 5:12 | 2024-03-01 | 2024-06-07 |

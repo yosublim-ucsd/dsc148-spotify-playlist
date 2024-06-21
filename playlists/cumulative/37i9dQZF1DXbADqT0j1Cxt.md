@@ -4,12 +4,13 @@
 
 > Lull your little ones with piano music.
 
-623 songs - 18 hr 46 min
+626 songs - 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(I'll\) Make Your Wish Come True](https://open.spotify.com/track/75OolH0HcSh3k6esgbYpRN) | [Fiona O'Hara](https://open.spotify.com/artist/6ZE5y5Kck6E2HF7zypfg27) | [\(I'll\) Make Your Wish Come True](https://open.spotify.com/album/65qKs9Dd5JQ7WVc0bzihPx) | 2:15 | 2021-10-07 | 2024-03-29 |
 | [5 Little Monkeys](https://open.spotify.com/track/0XQhjNv20H3JwU8R1dWDUG) | [Kennard Lyndon](https://open.spotify.com/artist/5IGoiBYDSil3Psj8of8yqB) | [5 Little Monkeys](https://open.spotify.com/album/1cra9vFar42vKHkMyg9cx8) | 1:28 | 2021-10-07 | 2022-12-24 |
+| [A Day At The Beach](https://open.spotify.com/track/23Z4PVfXLICGRdktm9B2Og) | [Iris Fairchild](https://open.spotify.com/artist/4y0LLz0nnu6BQoaFI1zcUa) | [A Day At The Beach](https://open.spotify.com/album/7wpTO72kasTDkgYvYT20rc) | 1:51 | 2024-06-20 |  |
 | [A Dream is a Wish Your Heart Makes](https://open.spotify.com/track/5zAG6QyEaqloTJPLn9wexX) | [Mark J Welles](https://open.spotify.com/artist/28MAEVYUiojJMpu7EqtBbr) | [A Dream is a Wish Your Heart Makes](https://open.spotify.com/album/2pCLp3sqJ72I9xSHEHLXhx) | 2:21 | 2021-10-07 | 2022-05-14 |
 | [A Friend Like You](https://open.spotify.com/track/3lUeZg1nFKs90uuP759lLx) | [Evelina Krueger](https://open.spotify.com/artist/5GlrFOukoWnBdZ7wIYfjcw) | [A Friend Like You](https://open.spotify.com/album/48s2eCCUzsLCDMu7oDAw4A) | 1:38 | 2022-01-21 |  |
 | [A Friend through the Night](https://open.spotify.com/track/2kETvpBJv1he7g3ofgtkaj) | [Joey Ty](https://open.spotify.com/artist/3PpceQMvXxZBxsF0v4yojB) | [A Friend through the Night](https://open.spotify.com/album/7jVd2qD7qlF1WX9CZWtI5w) | 1:09 | 2021-10-07 |  |
@@ -18,7 +19,7 @@
 | [A Miracle Under The Stars](https://open.spotify.com/track/6ZdTPcYHN0qxQfvKKNMPLG) | [Mylène Longet](https://open.spotify.com/artist/04hDeBzE5iAfVUqJDHobCQ) | [A Miracle Under The Stars](https://open.spotify.com/album/3EHWjNYtw8C3AFD5vXVuwL) | 2:05 | 2023-12-22 |  |
 | [A Ram Sam Sam](https://open.spotify.com/track/0bnnxOSirCBcu276sRJ0s6) | [Paul Chevez](https://open.spotify.com/artist/40ZcdfHKTyisdGQOIHAmFJ) | [A Ram Sam Sam](https://open.spotify.com/album/2DzR3IjWQWUFQxC5o6DJla) | 1:44 | 2021-10-07 | 2022-11-26 |
 | [A Sailor Went To Sea](https://open.spotify.com/track/5YGcV9XH0bsCuqwFH5pYYE) | [Jouni Holkeri](https://open.spotify.com/artist/4ibMmdzDdJ22R2ERJTXSOL) | [Ten Green Bottles](https://open.spotify.com/album/1gQPqDSW3aYwXmDxdZhGkR) | 0:59 | 2021-10-07 | 2022-04-20 |
-| [A Simple Song](https://open.spotify.com/track/5ibZnKYtxlgPJDQpGusOuV) | [Sloan Sandford](https://open.spotify.com/artist/1hvX04I5h74auPq2xmHvGr) | [A Simple Song](https://open.spotify.com/album/3LEDN5cRp1YZjPolO7g3zD) | 1:59 | 2024-05-24 |  |
+| [A Simple Song](https://open.spotify.com/track/5ibZnKYtxlgPJDQpGusOuV) | [Sloan Sandford](https://open.spotify.com/artist/1hvX04I5h74auPq2xmHvGr) | [A Simple Song](https://open.spotify.com/album/3LEDN5cRp1YZjPolO7g3zD) | 1:59 | 2024-05-24 | 2024-06-21 |
 | [A Snowflake On My Nose](https://open.spotify.com/track/5DfVrpef8hqayH7cX85PMs) | [Marielle Wilson](https://open.spotify.com/artist/2XH0vhn32RdidOMQiqxOEG) | [The Pumpkin](https://open.spotify.com/album/44deX2eesCod2t3zC4SbNv) | 1:22 | 2021-10-07 | 2024-03-29 |
 | [A Thousand Hugs](https://open.spotify.com/track/4H4nia1p93hZibEj7OSa5i) | [Anne\-Lise Kjeldsen](https://open.spotify.com/artist/5JElWMTCwq3wLF7ISyYVu5) | [A Thousand Hugs](https://open.spotify.com/album/0hbtVKhFPDk92IZ3z5AQ1M) | 1:24 | 2022-01-21 |  |
 | [A Wintry Night](https://open.spotify.com/track/3D8iXNEe7c6AqQGxwSe1OG) | [Violet Keiser](https://open.spotify.com/artist/6ckrAl1KF3PDf26YrMNWCH) | [A Wintry Night](https://open.spotify.com/album/1TrC0yBdluZ3G9Zp0ybWXj) | 1:42 | 2022-12-09 |  |
@@ -252,6 +253,7 @@
 | [I Had a Rooster](https://open.spotify.com/track/4PQwVsOmgZWxYYd1YEJQGK) | [Nolan Wren](https://open.spotify.com/artist/1bglI3t0xRpDdeiYugmOz0) | [I Had a Rooster](https://open.spotify.com/album/6YdhkmnDXglu6K3DiWn3i5) | 1:27 | 2024-02-09 |  |
 | [I Love You](https://open.spotify.com/track/2kvXP1dvSnTYZ2ZRPh1VTl) | [Ned Conner](https://open.spotify.com/artist/17CIEaoWlKKUrHeldDwBu6) | [I Love You](https://open.spotify.com/album/64by941udGaCxM0IZeMlpC) | 1:34 | 2021-10-07 | 2023-06-16 |
 | [I Natt Jag Drömde](https://open.spotify.com/track/5pwg4ypok1fY0JFNFSKZv9) | [Roy Söderlund](https://open.spotify.com/artist/7KEsz1mNNgvyjdgjzAtW34) | [I Natt Jag Drömde](https://open.spotify.com/album/0266Rkd51VU9sWvSgLAkeT) | 2:24 | 2022-12-09 | 2023-08-19 |
+| [I'll Keep You Safe](https://open.spotify.com/track/0cIhHdNpNzYTcAQGWD7ReJ) | [Mylène Longet](https://open.spotify.com/artist/5G2SmKRUvFUlfiSK3nEM3x) | [I'll Keep You Safe](https://open.spotify.com/album/59pEC7fdfo18q7vdJJZhba) | 1:52 | 2024-06-20 |  |
 | [I'm a Little Teapot](https://open.spotify.com/track/0a7nCIeNIGp9JGm3rgRYNK) | [Angelo Grant](https://open.spotify.com/artist/3h8kjYzd4qH8y6HQHYxFeu) | [I'm a Little Teapot](https://open.spotify.com/album/3377A3R0RDI7tKJyTHfyH4) | 1:40 | 2023-05-11 |  |
 | [Idas sommarvisa](https://open.spotify.com/track/5IHcpNi5zMtQFDLhMPBFOA) | [Vera Oppenheim](https://open.spotify.com/artist/6sMDWyPzUsjydb64jvhGvT) | [Idas sommarvisa](https://open.spotify.com/album/4pBOe0vkeTjGgd4fPxbfkG) | 1:39 | 2023-01-13 | 2023-02-24 |
 | [If Happiness Had A Face](https://open.spotify.com/track/6otAE8C3v1Z3WipYfliXDp) | [Maryon Jennings](https://open.spotify.com/artist/1se3GbDEI02N7abqldFqC1) | [If Happiness Had A Face](https://open.spotify.com/album/3pYOrFMeGZOj4wO8B87MCs) | 1:34 | 2022-12-23 |  |
@@ -344,6 +346,7 @@
 | [Moonflight](https://open.spotify.com/track/3s9zIXife8Pdx8SjMg07Ju) | [Georgia Faingold](https://open.spotify.com/artist/2OynITaK8BC9oXr5Q7vd7V) | [Moonflight](https://open.spotify.com/album/1vjAiGVrTiGoYUNbhBMoi2) | 1:40 | 2023-08-10 |  |
 | [Moonlight Song](https://open.spotify.com/track/1Yc2Y64xHLpc6tQ1UFphI1) | [Maria Mangasson](https://open.spotify.com/artist/3Da8Sq3XlYqKsjuXfzImiJ) | [Moonlight Song](https://open.spotify.com/album/3IxrV08Irf96q0d7FL9W7d) | 1:46 | 2023-08-24 |  |
 | [Moonlit Cradle](https://open.spotify.com/track/7JJ8VKdFWMD14OYxishmdi) | [Arlo Fry](https://open.spotify.com/artist/09SeCXWOJ9r88UZD6uoxgs) | [Rainbow Sky](https://open.spotify.com/album/3e9Nts6SRxn1htmBr06L3n) | 1:42 | 2023-03-17 |  |
+| [Moonrise](https://open.spotify.com/track/5sydmDGjOdyyqPjgyuoVIC) | [Jenn Higgins](https://open.spotify.com/artist/1osOMrNNhLsHInJWbS6ejR) | [Moonrise](https://open.spotify.com/album/6ccGQxmNWnDKOyr2WhrrSh) | 2:29 | 2024-06-20 |  |
 | [Morning will come](https://open.spotify.com/track/7HuxnLOb1gqmH6hdmRNr4M) | [Dave Zavier](https://open.spotify.com/artist/5eHdr3iDhoa3RwHXlmO8gT) | [Morning will come](https://open.spotify.com/album/2pE6Ib6LycaztnHAzIFHF8) | 1:37 | 2021-10-07 | 2024-05-24 |
 | [Mother May](https://open.spotify.com/track/3woE2Co7qXCYgDRAJpSc31) | [Dolores Finn](https://open.spotify.com/artist/3slQ6NWSfwYudvdPzV77QV) | [Mother May](https://open.spotify.com/album/2OBSxslvIKwQxlFYmAU7Ze) | 2:04 | 2024-03-22 | 2024-05-24 |
 | [Mój Anioł](https://open.spotify.com/track/6vuyQpRo2hobQiVXfYrhBl) | [Jolanda Novak](https://open.spotify.com/artist/12Jx6Bt5MqHJS4AtWJl6JB) | [Mój Anioł](https://open.spotify.com/album/5DjpUSAvFfIwZcuNWNHwbf) | 1:37 | 2021-10-07 | 2024-03-29 |

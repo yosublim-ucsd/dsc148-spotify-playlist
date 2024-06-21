@@ -1742,7 +1742,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 312071,
       "name": "\u4f60\u6709\u4ec0\u9ebc\u6127\u759a",
       "url": "https://open.spotify.com/track/6rRheAW16agCpkGuYzG0aa"
@@ -2662,6 +2662,24 @@
       "duration_ms": 203738,
       "name": "\u5728\u610f\u9019\u4ef6\u4e8b",
       "url": "https://open.spotify.com/track/4KAjsAnB9z0rHpnMJeVZ44"
+    },
+    {
+      "album": {
+        "name": "\u57cb\uff08\u300aRecall\uff1aEmpty Wishes \u7a7a\u9858\u300b\u904a\u6232\u4e3b\u984c\u66f2\uff09",
+        "url": "https://open.spotify.com/album/3wjO4kP1WKLlFkBEe70A1h"
+      },
+      "artists": [
+        {
+          "name": "Good Band",
+          "url": "https://open.spotify.com/artist/4xlAHgZnzzPHtoKnev0gwJ"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228857,
+      "name": "\u57cb\uff08\u300aRecall\uff1aEmpty Wishes \u7a7a\u9858\u300b\u904a\u6232\u4e3b\u984c\u66f2\uff09",
+      "url": "https://open.spotify.com/track/0uPTAbTiu5swm1QlwUWEnj"
     },
     {
       "album": {
@@ -6156,7 +6174,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 207904,
       "name": "\u804a\u804a\u5929",
       "url": "https://open.spotify.com/track/4RXjaI2PMgp7SQ8sV5wVug"
@@ -7464,6 +7482,24 @@
       "duration_ms": 254862,
       "name": "\u98db\u7fd4\u7684\u5922",
       "url": "https://open.spotify.com/track/6BJEAvFxqZYysvtedsMmQI"
+    },
+    {
+      "album": {
+        "name": "\u98de\u9e1f\u7684\u773c\u775b",
+        "url": "https://open.spotify.com/album/7etrwW86RANnVMkpfLNC8D"
+      },
+      "artists": [
+        {
+          "name": "\u6d2a\u4e00\u8bfa",
+          "url": "https://open.spotify.com/artist/3NHSezYp3mVfJLOgaLhra8"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245863,
+      "name": "\u98de\u9e1f\u7684\u773c\u775b",
+      "url": "https://open.spotify.com/track/0osnYEkcLLJqQSEnhZpOAh"
     },
     {
       "album": {

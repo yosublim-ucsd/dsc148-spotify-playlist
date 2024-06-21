@@ -1,6 +1,6 @@
 {
   "description": "The best Blues for a long trip behind the wheel. ",
-  "num_followers": 42156,
+  "num_followers": 42199,
   "original_name": "Blues Road Trip",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,22 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
+        "name": "Blues & Trouble (Blues Reference 1983-1985)",
+        "url": "https://open.spotify.com/album/2k2MADUj4Fd3mhJWQbQoqt"
+      },
+      "artists": [
+        {
+          "name": "Buster Benton",
+          "url": "https://open.spotify.com/artist/3eBGrFX7u2Py7eiwvwosc4"
+        }
+      ],
+      "duration_ms": 298013,
+      "name": "Can't Wait to See My Baby's Face",
+      "url": "https://open.spotify.com/track/6NvzGdklM7t1anBJicWR8Q"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
         "name": "Having a Rave Up with The Yardbirds (2015 Remaster)",
         "url": "https://open.spotify.com/album/5SC92pfXSbQvZjgfk0oGno"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 159866,
       "name": "I'm a Man - 2015 Remaster",
       "url": "https://open.spotify.com/track/0hIuZ0A7mlWQvSAoqYBbRn"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
-        "name": "Blues & Trouble (Blues Reference 1983-1985)",
-        "url": "https://open.spotify.com/album/2k2MADUj4Fd3mhJWQbQoqt"
-      },
-      "artists": [
-        {
-          "name": "Buster Benton",
-          "url": "https://open.spotify.com/artist/3eBGrFX7u2Py7eiwvwosc4"
-        }
-      ],
-      "duration_ms": 298013,
-      "name": "Can't Wait to See My Baby's Face",
-      "url": "https://open.spotify.com/track/6NvzGdklM7t1anBJicWR8Q"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -715,38 +715,6 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
-        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 152893,
-      "name": "Shake Your Money Maker",
-      "url": "https://open.spotify.com/track/2VxnY6jbl0SckkZp9wrNF7"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 125106,
-      "name": "Still Got The Blues",
-      "url": "https://open.spotify.com/track/5IpREDjsiqYQNvHqg4Qj3G"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
       },
@@ -767,6 +735,38 @@
       "duration_ms": 236160,
       "name": "My Babe",
       "url": "https://open.spotify.com/track/0YCj5u72nxNMLdvDQcUdZr"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 125106,
+      "name": "Still Got The Blues",
+      "url": "https://open.spotify.com/track/5IpREDjsiqYQNvHqg4Qj3G"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
+        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 152893,
+      "name": "Shake Your Money Maker",
+      "url": "https://open.spotify.com/track/2VxnY6jbl0SckkZp9wrNF7"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "The Complete Blue Horizon Sessions",
-        "url": "https://open.spotify.com/album/4gcdawHFamYzxAplmMgeur"
-      },
-      "artists": [
-        {
-          "name": "Chicken Shack",
-          "url": "https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "It's Ok with Me Baby",
-      "url": "https://open.spotify.com/track/58nGbJZwNpqylln1h7qZTN"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
         "name": "BD Music & Toppi Present the Blues",
         "url": "https://open.spotify.com/album/1f3irUajLCbRpZhS4aZvae"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 131946,
       "name": "Confessin' the Blues",
       "url": "https://open.spotify.com/track/1jITXDhtm0vwjyeY3bLVN3"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "The Complete Blue Horizon Sessions",
+        "url": "https://open.spotify.com/album/4gcdawHFamYzxAplmMgeur"
+      },
+      "artists": [
+        {
+          "name": "Chicken Shack",
+          "url": "https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "It's Ok with Me Baby",
+      "url": "https://open.spotify.com/track/58nGbJZwNpqylln1h7qZTN"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "Blues Helping",
-        "url": "https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB"
+        "name": "More Real Folk Blues",
+        "url": "https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV"
       },
       "artists": [
         {
-          "name": "Love Sculpture",
-          "url": "https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq"
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
         }
       ],
-      "duration_ms": 224026,
-      "name": "Blues Helping - 1999 RemasterStereo",
-      "url": "https://open.spotify.com/track/2koEUJi9rfisEYUcoCillG"
+      "duration_ms": 136893,
+      "name": "Somebody Help Me - Mono Version",
+      "url": "https://open.spotify.com/track/1v0D2YFE15WXlxqvoKmCGv"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "More Real Folk Blues",
-        "url": "https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV"
+        "name": "Blues Helping",
+        "url": "https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB"
       },
       "artists": [
         {
-          "name": "Sonny Boy Williamson II",
-          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
+          "name": "Love Sculpture",
+          "url": "https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq"
         }
       ],
-      "duration_ms": 136893,
-      "name": "Somebody Help Me - Mono Version",
-      "url": "https://open.spotify.com/track/1v0D2YFE15WXlxqvoKmCGv"
+      "duration_ms": 224026,
+      "name": "Blues Helping - 1999 RemasterStereo",
+      "url": "https://open.spotify.com/track/2koEUJi9rfisEYUcoCillG"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1159,6 +1159,22 @@
       "duration_ms": 166506,
       "name": "Early One Morning",
       "url": "https://open.spotify.com/track/6mUSXLiUA398z4cpcRp7a5"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "Electric Mud",
+        "url": "https://open.spotify.com/album/7cDLEVoIhkfKqaiKAPp7vL"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 343706,
+      "name": "The Same Thing",
+      "url": "https://open.spotify.com/track/59On35IawOw3kdsUv6wiu6"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1191,22 +1207,6 @@
       "duration_ms": 135640,
       "name": "Blues In D Natural",
       "url": "https://open.spotify.com/track/5h8HrCCGLOmhW3ufkRb2Dv"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
-        "name": "Electric Mud",
-        "url": "https://open.spotify.com/album/7cDLEVoIhkfKqaiKAPp7vL"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 343706,
-      "name": "The Same Thing",
-      "url": "https://open.spotify.com/track/59On35IawOw3kdsUv6wiu6"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "Whose Muddy Shoes",
-        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+        "name": "Basic Soul",
+        "url": "https://open.spotify.com/album/5WRNrna2YPWvQtfgCVU7Of"
       },
       "artists": [
         {
-          "name": "John Brim",
-          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
         }
       ],
-      "duration_ms": 175693,
-      "name": "You Got Me",
-      "url": "https://open.spotify.com/track/24m7kDzKRUnYRlz7LWCYnB"
+      "duration_ms": 232226,
+      "name": "Uh Huh My Baby",
+      "url": "https://open.spotify.com/track/1smUyCwjopLiEnkyzypWOW"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1355,34 +1355,18 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "Basic Soul",
-        "url": "https://open.spotify.com/album/5WRNrna2YPWvQtfgCVU7Of"
+        "name": "Whose Muddy Shoes",
+        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
       },
       "artists": [
         {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+          "name": "John Brim",
+          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
         }
       ],
-      "duration_ms": 232226,
-      "name": "Uh Huh My Baby",
-      "url": "https://open.spotify.com/track/1smUyCwjopLiEnkyzypWOW"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
-        "name": "Hi-Heel Sneakers",
-        "url": "https://open.spotify.com/album/3i7uEh9Ahiknj8bQGOSBJe"
-      },
-      "artists": [
-        {
-          "name": "Tommy Tucker",
-          "url": "https://open.spotify.com/artist/3Hu7yAx1kVULnXjSznYZRf"
-        }
-      ],
-      "duration_ms": 224400,
-      "name": "Hard Luck Blues",
-      "url": "https://open.spotify.com/track/75SPHJFXqvEWhUg4a9GrlJ"
+      "duration_ms": 175693,
+      "name": "You Got Me",
+      "url": "https://open.spotify.com/track/24m7kDzKRUnYRlz7LWCYnB"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1399,6 +1383,22 @@
       "duration_ms": 295400,
       "name": "Checkin' Up On My Baby",
       "url": "https://open.spotify.com/track/7nVzX42eKMcI2XZcO1YOPL"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "Hi-Heel Sneakers",
+        "url": "https://open.spotify.com/album/3i7uEh9Ahiknj8bQGOSBJe"
+      },
+      "artists": [
+        {
+          "name": "Tommy Tucker",
+          "url": "https://open.spotify.com/artist/3Hu7yAx1kVULnXjSznYZRf"
+        }
+      ],
+      "duration_ms": 224400,
+      "name": "Hard Luck Blues",
+      "url": "https://open.spotify.com/track/75SPHJFXqvEWhUg4a9GrlJ"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "The Blues Ain't Nothin' (Recorded in France 1971-1973)",
-        "url": "https://open.spotify.com/album/3KTnRBMogesNlMGkx4Axb1"
-      },
-      "artists": [
-        {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
-        }
-      ],
-      "duration_ms": 257000,
-      "name": "Goin' to Chicago",
-      "url": "https://open.spotify.com/track/2qthiyAT4MJjYuM1q5Qqo1"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
         "name": "Blues Jam In Chicago - Volume 1",
         "url": "https://open.spotify.com/album/3t81Ka8mPF6NUUj0MUL43H"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 226733,
       "name": "I'm Worried",
       "url": "https://open.spotify.com/track/7IuiCifsATBLv4PQHHsP5T"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "The Blues Ain't Nothin' (Recorded in France 1971-1973)",
+        "url": "https://open.spotify.com/album/3KTnRBMogesNlMGkx4Axb1"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+        }
+      ],
+      "duration_ms": 257000,
+      "name": "Goin' to Chicago",
+      "url": "https://open.spotify.com/track/2qthiyAT4MJjYuM1q5Qqo1"
     },
     {
       "added_at": "2024-05-29 07:10:09",

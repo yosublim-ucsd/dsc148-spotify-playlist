@@ -1365,6 +1365,32 @@
     },
     {
       "album": {
+        "name": "A Tropa Que Te Maceta 2",
+        "url": "https://open.spotify.com/album/3aRe6tPXjeQDogGI7JPyJE"
+      },
+      "artists": [
+        {
+          "name": "DJ Silva 07",
+          "url": "https://open.spotify.com/artist/5tqz5zHxmEDHIXpbhGisQA"
+        },
+        {
+          "name": "DJ CN ZL",
+          "url": "https://open.spotify.com/artist/29RpXx26ZJb6gk8cwgPSaI"
+        },
+        {
+          "name": "MC DDSV",
+          "url": "https://open.spotify.com/artist/2ZuT6s23h66XUJjeaDebpW"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115774,
+      "name": "A Tropa Que Te Maceta 2",
+      "url": "https://open.spotify.com/track/4ee4vCGHPd97XiiHwJH3g8"
+    },
+    {
+      "album": {
         "name": "A Verdadeira Magia",
         "url": "https://open.spotify.com/album/6wpYAYAxXAg8xl1DuIbrZQ"
       },
@@ -16302,7 +16328,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 176923,
       "name": "Eu Odeio Dia 12 - Ao Vivo",
       "url": "https://open.spotify.com/track/4Fkp5wrm5EkFsSO1YQhK5D"
@@ -18146,7 +18172,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 409785,
       "name": "Filha Do Deputado",
       "url": "https://open.spotify.com/track/4GBSSO7opuvAijWPooadmg"
@@ -30386,6 +30412,24 @@
       "duration_ms": 167736,
       "name": "MTG CA\u00c7ADOR DE TCHUTCHUQUINHAS",
       "url": "https://open.spotify.com/track/2xaqx6HAtgmEDKh8gkT1Bg"
+    },
+    {
+      "album": {
+        "name": "MTG COLO DE MENINA",
+        "url": "https://open.spotify.com/album/3WsFvoTqAulSRYEWRvc4Kb"
+      },
+      "artists": [
+        {
+          "name": "Dj Luan Gomes",
+          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118730,
+      "name": "MTG COLO DE MENINA",
+      "url": "https://open.spotify.com/track/54c72by24h4vakvgTrb3va"
     },
     {
       "album": {
@@ -45337,7 +45381,7 @@
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 229153,
+      "duration_ms": 199615,
       "name": "Te Maceto Depois do Baile",
       "url": "https://open.spotify.com/track/3EuPKX0FLhAxfL5hZBlfJe"
     },
@@ -46864,6 +46908,24 @@
       "duration_ms": 182769,
       "name": "To Coberto X Bato Com o Placo",
       "url": "https://open.spotify.com/track/5RczWF9S4A5dI2F3m1OC94"
+    },
+    {
+      "album": {
+        "name": "To Com A Filha Do Deputado",
+        "url": "https://open.spotify.com/album/5MyX1LMnnD9Z9xnLCVvw4u"
+      },
+      "artists": [
+        {
+          "name": "RITMO DO RJ",
+          "url": "https://open.spotify.com/artist/2cVykHHPZs3pXtZ8Us0lMU"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407161,
+      "name": "To Com A Filha Do Deputado",
+      "url": "https://open.spotify.com/track/5gHMKAmfbWnYP2g9VhzM8V"
     },
     {
       "album": {
@@ -51452,7 +51514,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"

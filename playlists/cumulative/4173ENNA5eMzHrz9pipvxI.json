@@ -3109,6 +3109,28 @@
     },
     {
       "album": {
+        "name": "Boom Boom Boom",
+        "url": "https://open.spotify.com/album/61kxtwoBSwj15YzF0LZr3G"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181787,
+      "name": "Boom Boom Boom",
+      "url": "https://open.spotify.com/track/2e7cgqJbNLp5W5L2XAinEw"
+    },
+    {
+      "album": {
         "name": "Boombox (feat. Madam Parker)",
         "url": "https://open.spotify.com/album/2yTX8OjdtAq2LFkqhi4284"
       },
@@ -3989,6 +4011,28 @@
     },
     {
       "album": {
+        "name": "Can't Forget You",
+        "url": "https://open.spotify.com/album/17p2hpEP5OkJnFZpbsL3wC"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156250,
+      "name": "Can't Forget You",
+      "url": "https://open.spotify.com/track/3YOkRTqknv92aUyOXcTxVg"
+    },
+    {
+      "album": {
         "name": "Can't Hide (feat. Emma Zander)",
         "url": "https://open.spotify.com/album/2KczYVq6l8Sys9ix4bjZX6"
       },
@@ -4052,6 +4096,36 @@
       "duration_ms": 197419,
       "name": "Can't Stop Me",
       "url": "https://open.spotify.com/track/0sF4yvIa68jr4JnTFKWjF0"
+    },
+    {
+      "album": {
+        "name": "Can't Stop Playing (feat. Ane Brun) [Cian McFeely Remix]",
+        "url": "https://open.spotify.com/album/4Oawu4apI0zbcSTZAQOAZF"
+      },
+      "artists": [
+        {
+          "name": "DR. KUCHO!",
+          "url": "https://open.spotify.com/artist/263Gr9lGWR6ScnRGjxa3Ad"
+        },
+        {
+          "name": "Gregor Salto",
+          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
+        },
+        {
+          "name": "Cian McFeely",
+          "url": "https://open.spotify.com/artist/6snaEk0NtSZ01uSHQewZDD"
+        },
+        {
+          "name": "Anne Brun",
+          "url": "https://open.spotify.com/artist/36ZqHTWU9KAN4f6CAe2aOD"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131744,
+      "name": "Can't Stop Playing (feat. Anne Brun) [Cian McFeely Remix]",
+      "url": "https://open.spotify.com/track/4vTvus8VUlimhegjaHwPyA"
     },
     {
       "album": {
@@ -5459,6 +5533,32 @@
     },
     {
       "album": {
+        "name": "Crush Me Down (You Spin Me Around)",
+        "url": "https://open.spotify.com/album/6qypYS9alhKACA6XzPDDwB"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        },
+        {
+          "name": "3rd Wall",
+          "url": "https://open.spotify.com/artist/1tHXAxKf7BCwFZpj8cMERM"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121232,
+      "name": "Crush Me Down (You Spin Me Around)",
+      "url": "https://open.spotify.com/track/2E8ometum2UaxsEdH8VS5z"
+    },
+    {
+      "album": {
         "name": "Cry For You",
         "url": "https://open.spotify.com/album/2eIUTbijLZp5fTb2W5eghF"
       },
@@ -6388,7 +6488,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 136000,
       "name": "Disco Marathon (feat. NEEKA)",
       "url": "https://open.spotify.com/track/6eLLQ5NzQchs3RalH4TcVa"
@@ -7306,6 +7406,32 @@
       "duration_ms": 168750,
       "name": "Drop That Low (When I Dip) [feat. Kid Ink] [Maroox Remix]",
       "url": "https://open.spotify.com/track/6mF33bnUAr642WvOb3slH2"
+    },
+    {
+      "album": {
+        "name": "Droppin' Hot (feat. Sonny Wilson)",
+        "url": "https://open.spotify.com/album/4YT3rXNwTHQzwENlihD6CP"
+      },
+      "artists": [
+        {
+          "name": "Bingo Players",
+          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
+        },
+        {
+          "name": "Firebeatz",
+          "url": "https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo"
+        },
+        {
+          "name": "Sonny Wilson",
+          "url": "https://open.spotify.com/artist/3gTl4XARdQR2Sy59osG0Ia"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143095,
+      "name": "Droppin' Hot (feat. Sonny Wilson)",
+      "url": "https://open.spotify.com/track/4tua0l4jgHSvV0FlgsmiUp"
     },
     {
       "album": {
@@ -15909,6 +16035,28 @@
     },
     {
       "album": {
+        "name": "Lotus (PAROOKAVILLE Anthem 2024) [\u00d6wnboss Remix]",
+        "url": "https://open.spotify.com/album/78aXo0mysOaKgd2qwHEPxj"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        },
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165937,
+      "name": "Lotus (PAROOKAVILLE Anthem 2024) - \u00d6wnboss Remix",
+      "url": "https://open.spotify.com/track/6RtN4kwFFScEgQbARaYli5"
+    },
+    {
+      "album": {
         "name": "Love & Dance EP",
         "url": "https://open.spotify.com/album/29TaoTMHbabORQ54oH4nXK"
       },
@@ -17870,7 +18018,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 149047,
       "name": "Move On Up (Mark Knight Remix)",
       "url": "https://open.spotify.com/track/39pkyUMcOfKfjx3xhCeiVM"
@@ -19878,7 +20026,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 178714,
       "name": "Off Switch - Acoustic",
       "url": "https://open.spotify.com/track/18P5UJR9A2cASQsma07omR"
@@ -21514,7 +21662,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 137647,
       "name": "Psych",
       "url": "https://open.spotify.com/track/2pv1AjkcLN2rntVacf3cQz"
@@ -24964,7 +25112,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 136124,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/1pIcnxmQRhuQmOZRVYD3JZ"
@@ -25873,6 +26021,24 @@
     },
     {
       "album": {
+        "name": "Take Me Home, Country Roads",
+        "url": "https://open.spotify.com/album/4j4FvdCqehgLaiNVBdA3jW"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/3yyWrz4CsVzkWPuxtZflov"
+    },
+    {
+      "album": {
         "name": "Take What You Can",
         "url": "https://open.spotify.com/album/4V4z2JkpTDJsd28k2eleS4"
       },
@@ -26078,7 +26244,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 122880,
       "name": "Tech Phonk",
       "url": "https://open.spotify.com/track/2EyE6jwl6HC7yhkaPJbH8R"
@@ -26716,6 +26882,28 @@
       "duration_ms": 193175,
       "name": "The Opera House (feat. LexBlaze)",
       "url": "https://open.spotify.com/track/5FbxBygQka7bfWjbudraqg"
+    },
+    {
+      "album": {
+        "name": "The Power",
+        "url": "https://open.spotify.com/album/2bdfOELL4elrcJ46EQW1jj"
+      },
+      "artists": [
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        },
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197841,
+      "name": "The Power",
+      "url": "https://open.spotify.com/track/2GaS9ec79BY9G6TW850wTe"
     },
     {
       "album": {
@@ -28214,7 +28402,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 167343,
       "name": "Unite (feat. Eke)",
       "url": "https://open.spotify.com/track/6lMZwR33yJnUrGijdwk0EU"

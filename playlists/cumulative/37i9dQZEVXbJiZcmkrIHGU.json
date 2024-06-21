@@ -1528,7 +1528,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 139981,
       "name": "80qm",
       "url": "https://open.spotify.com/track/13Ozua7wPk2dU3NIIgJJJo"
@@ -6588,7 +6588,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 137053,
       "name": "Bis hierhin liefs noch ganz gut",
       "url": "https://open.spotify.com/track/15JpxR9jqPK5NDfHKlnwEi"
@@ -16642,7 +16642,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 168928,
       "name": "Fire - Official UEFA EURO 2024 Song",
       "url": "https://open.spotify.com/track/7MYLHLCf0YWR4TVs3owDny"
@@ -29829,6 +29829,28 @@
     },
     {
       "album": {
+        "name": "Major Tom (V\u00f6llig losgel\u00f6st)",
+        "url": "https://open.spotify.com/album/4HVGbKBUbuOFuDkhegltJC"
+      },
+      "artists": [
+        {
+          "name": "MXM",
+          "url": "https://open.spotify.com/artist/7djYTUc0FkT666VSphQci4"
+        },
+        {
+          "name": "Chris van Dutch",
+          "url": "https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240761,
+      "name": "Major Tom (V\u00f6llig losgel\u00f6st)",
+      "url": "https://open.spotify.com/track/0XPmdEHBu90jEJn2LdTGk7"
+    },
+    {
+      "album": {
         "name": "Fehler im System (2023 Remaster)",
         "url": "https://open.spotify.com/album/7KDpHLxa1aLFJuw8pt3Yy2"
       },
@@ -39206,6 +39228,32 @@
       "duration_ms": 138300,
       "name": "Putana",
       "url": "https://open.spotify.com/track/38bMH4kUzbMSHpnD0dTnjD"
+    },
+    {
+      "album": {
+        "name": "Pyrotechnik",
+        "url": "https://open.spotify.com/album/1co3KxwhOSQRoJcJepGElm"
+      },
+      "artists": [
+        {
+          "name": "Balkonultra",
+          "url": "https://open.spotify.com/artist/244Mbyb5jTFQa0iT8f0ihz"
+        },
+        {
+          "name": "Marc Eggers",
+          "url": "https://open.spotify.com/artist/7jJXsd4MyYxs06qwrs5Wtf"
+        },
+        {
+          "name": "Ikke H\u00fcftgold",
+          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177548,
+      "name": "Pyrotechnik",
+      "url": "https://open.spotify.com/track/0qZ3G41U3JOIPGRoGMdaLP"
     },
     {
       "album": {
@@ -48812,7 +48860,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 134317,
       "name": "ufos",
       "url": "https://open.spotify.com/track/2sR8MJNpZ2rucdoWlaAWK1"

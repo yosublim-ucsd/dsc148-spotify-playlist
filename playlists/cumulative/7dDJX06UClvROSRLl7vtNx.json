@@ -2213,6 +2213,32 @@
     },
     {
       "album": {
+        "name": "Faded",
+        "url": "https://open.spotify.com/album/1KvpVmwVaHQWGeD5aXD0GZ"
+      },
+      "artists": [
+        {
+          "name": "SITHEA",
+          "url": "https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu"
+        },
+        {
+          "name": "ELERA",
+          "url": "https://open.spotify.com/artist/4xo3EH1H4QcgoX3512eF4N"
+        },
+        {
+          "name": "Cozy Sky",
+          "url": "https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151142,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/3PJ5S08jxr3C1vPIUu7zoM"
+    },
+    {
+      "album": {
         "name": "Fading Away",
         "url": "https://open.spotify.com/album/1f7mXbl2NCkRqZlDGyxD4l"
       },

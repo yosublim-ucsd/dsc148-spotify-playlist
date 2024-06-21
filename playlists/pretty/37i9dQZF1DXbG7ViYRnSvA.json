@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/officialcoodieandchike/\">Coodie & Chike</a>",
-  "num_followers": 18936,
+  "num_followers": 18948,
   "original_name": "Coodie & Chike's Taste",
   "owner": {
     "name": "Spotify",
@@ -779,26 +779,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Total",
-        "url": "https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb"
-      },
-      "artists": [
-        {
-          "name": "Total",
-          "url": "https://open.spotify.com/artist/4FM8iY3r6cFC2g5tQnpnyM"
-        },
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 281880,
-      "name": "Can't You See (feat. The Notorious B.I.G.)",
-      "url": "https://open.spotify.com/track/174UISK3l7VRbigEHxEev7"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Tawk Tomahawk",
         "url": "https://open.spotify.com/album/54UDcBALhfyaQ67fsSZrkQ"
       },
@@ -819,18 +799,38 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "IN TIME",
-        "url": "https://open.spotify.com/album/5Unj1ppHWjYhAUK49rqugW"
+        "name": "Total",
+        "url": "https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb"
       },
       "artists": [
         {
-          "name": "Tarrey Torae",
-          "url": "https://open.spotify.com/artist/08oN3COhDNyZrCJv1hu4Pw"
+          "name": "Total",
+          "url": "https://open.spotify.com/artist/4FM8iY3r6cFC2g5tQnpnyM"
+        },
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
         }
       ],
-      "duration_ms": 225348,
-      "name": "IN TIME",
-      "url": "https://open.spotify.com/track/215dPn2vTiquckgM8Izoui"
+      "duration_ms": 281880,
+      "name": "Can't You See (feat. The Notorious B.I.G.)",
+      "url": "https://open.spotify.com/track/174UISK3l7VRbigEHxEev7"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Jassbusters",
+        "url": "https://open.spotify.com/album/5J3hSygoerXrNBpEFWcGIJ"
+      },
+      "artists": [
+        {
+          "name": "Connan Mockasin",
+          "url": "https://open.spotify.com/artist/247AfC9pLuqwgpH8Mo96oA"
+        }
+      ],
+      "duration_ms": 536254,
+      "name": "Charlotte's Thong",
+      "url": "https://open.spotify.com/track/4sNygl4IX9iMZ7nV3XTUJe"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -859,18 +859,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Jassbusters",
-        "url": "https://open.spotify.com/album/5J3hSygoerXrNBpEFWcGIJ"
+        "name": "IN TIME",
+        "url": "https://open.spotify.com/album/5Unj1ppHWjYhAUK49rqugW"
       },
       "artists": [
         {
-          "name": "Connan Mockasin",
-          "url": "https://open.spotify.com/artist/247AfC9pLuqwgpH8Mo96oA"
+          "name": "Tarrey Torae",
+          "url": "https://open.spotify.com/artist/08oN3COhDNyZrCJv1hu4Pw"
         }
       ],
-      "duration_ms": 536254,
-      "name": "Charlotte's Thong",
-      "url": "https://open.spotify.com/track/4sNygl4IX9iMZ7nV3XTUJe"
+      "duration_ms": 225348,
+      "name": "IN TIME",
+      "url": "https://open.spotify.com/track/215dPn2vTiquckgM8Izoui"
     },
     {
       "added_at": "2022-10-01 16:00:00",

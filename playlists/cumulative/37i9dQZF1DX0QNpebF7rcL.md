@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Toronzo Cannon
 
-389 songs - 1 day 2 hr 6 min
+390 songs - 1 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,6 +358,7 @@
 | [Under Your Spell](https://open.spotify.com/track/6cq0Q5NdeKfO6jjCrAnIov) | [Tito Jackson](https://open.spotify.com/artist/1laENy18mrm9kaI9BJUbdP), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Under Your Spell](https://open.spotify.com/album/18U447Ip4CM4yoQc26DJ1i) | 2:53 | 2021-08-06 | 2023-03-04 |
 | [Undertow](https://open.spotify.com/track/0EbZNGeKLzAqYuYuNOCack) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [The Deep and the Dirty](https://open.spotify.com/album/67KkHhNmrpt1NkoiRW1cXc) | 3:22 | 2023-07-28 | 2024-04-12 |
 | [Undertow](https://open.spotify.com/track/0RfKd24loJM7TM9rv5GdQk) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [The Deep And The Dirty](https://open.spotify.com/album/7axAFOQrv524I4Tr23P5X4) | 3:22 | 2023-07-28 |  |
+| [Unfinished Business](https://open.spotify.com/track/6LskEDoruABEzMKHly7D99) | [Snowy White](https://open.spotify.com/artist/4DMlDJn7CPSSS0DuUf1vrH) | [Unfinished Business](https://open.spotify.com/album/7MaRq0aht9NyYJotzgur8Y) | 6:19 | 2024-06-14 |  |
 | [Unhinged](https://open.spotify.com/track/41N74tDfqzG242pQe16lSE) | [Dom Martin](https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ) | [Unhinged](https://open.spotify.com/album/1KJO9wzi6ku9ZtnZ4DsXhR) | 3:23 | 2023-06-30 |  |
 | [Up and Rolling](https://open.spotify.com/track/1Wg6dLYXgqxs0YtQS6ifco) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Up and Rolling](https://open.spotify.com/album/5jEiXH4G09AiHqBkEm2ZMM) | 5:03 | 2020-12-14 | 2022-02-26 |
 | [Virginia Soil](https://open.spotify.com/track/2BabLfYnJvdWrDvgzNVYqE) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [White Jesus Black Problems](https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i) | 3:10 | 2022-06-03 |  |

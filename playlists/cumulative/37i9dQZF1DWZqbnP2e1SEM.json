@@ -3472,7 +3472,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 240250,
       "name": "It's That Time",
       "url": "https://open.spotify.com/track/2YlrFLQMDvkvnAlyS94zo8"
@@ -3816,6 +3816,28 @@
       "duration_ms": 145649,
       "name": "LIGHTS (feat. Charlotte X)",
       "url": "https://open.spotify.com/track/7uuevg7Jk7TKuEfwc0kVS7"
+    },
+    {
+      "album": {
+        "name": "Listen To The Music",
+        "url": "https://open.spotify.com/album/1Bl2uVxYDchNhVrBhxisHz"
+      },
+      "artists": [
+        {
+          "name": "Sam Lowe",
+          "url": "https://open.spotify.com/artist/74Q5xnujS6lj7BQnlXWfSX"
+        },
+        {
+          "name": "Edd",
+          "url": "https://open.spotify.com/artist/2yATHzEnQZ0nO5NCokVTmX"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251543,
+      "name": "Listen To The Music",
+      "url": "https://open.spotify.com/track/5XhLHEIcjljX1PbaNcLaHQ"
     },
     {
       "album": {

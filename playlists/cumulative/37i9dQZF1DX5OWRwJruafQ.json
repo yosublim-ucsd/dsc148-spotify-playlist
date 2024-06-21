@@ -498,7 +498,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 154239,
       "name": "Akhiyan",
       "url": "https://open.spotify.com/track/6Bfd1hyQ5AOqiBHlA3AAck"
@@ -4202,6 +4202,28 @@
       "duration_ms": 172372,
       "name": "Jatta Ve",
       "url": "https://open.spotify.com/track/7oWnaeVhCW0cqypHaOOJ1u"
+    },
+    {
+      "album": {
+        "name": "Jatti Bae",
+        "url": "https://open.spotify.com/album/1mD3ho2AJpivs3CyKNdcMY"
+      },
+      "artists": [
+        {
+          "name": "Pavitar Lassoi",
+          "url": "https://open.spotify.com/artist/3fn50P81Whm1meTnMmS8zX"
+        },
+        {
+          "name": "Deol Harman",
+          "url": "https://open.spotify.com/artist/2N8tEhXkaUz7bBi5Ym9Xqa"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157280,
+      "name": "Jatti Bae",
+      "url": "https://open.spotify.com/track/6o2ch5JQkaLDbDp45kXG7A"
     },
     {
       "album": {

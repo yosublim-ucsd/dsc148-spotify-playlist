@@ -2,7 +2,7 @@
 
 ### [This Is Daniela Araújo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0tRpwc)
 
-> This is Daniela Araújo\. Tutti i brani in un'unica playlist.
+> This is Daniela Araújo\. The essential tracks, all in one playlist.
 
 74 songs - 5 hr 1 min
 

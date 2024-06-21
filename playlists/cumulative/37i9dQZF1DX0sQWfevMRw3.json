@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "SHA-LA-LA-LALA-LA-LA!!",
+  "description": "GLAD MIDSOMMAR! HOT-HOT-AMORE!!",
   "name": "30 km/h",
   "tracks": [
     {
@@ -960,7 +960,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 122059,
       "name": "AMBULANS (jag har aldrig)",
       "url": "https://open.spotify.com/track/3uc4MvtqWW72MbFZhOVNyp"
@@ -1458,10 +1458,36 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 152612,
       "name": "BARCELONA",
       "url": "https://open.spotify.com/track/3YSeg3Lrp8FlsbjegHWVPZ"
+    },
+    {
+      "album": {
+        "name": "BARCELONA (demz & Kattastrof Remix)",
+        "url": "https://open.spotify.com/album/4EaIQvbht2Wb71rRobi4Y8"
+      },
+      "artists": [
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        },
+        {
+          "name": "demz",
+          "url": "https://open.spotify.com/artist/0V65obbIm4ysdmv3C3HcYj"
+        },
+        {
+          "name": "Kattastrof",
+          "url": "https://open.spotify.com/artist/3n82Yo7bU7Bj2yHBScFuKJ"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123447,
+      "name": "BARCELONA - demz & Kattastrof Remix",
+      "url": "https://open.spotify.com/track/6edwvp0RXv0sBkGd6Wd9gk"
     },
     {
       "album": {
@@ -7687,6 +7713,24 @@
     },
     {
       "album": {
+        "name": "F\u00d6R DIN SKULL",
+        "url": "https://open.spotify.com/album/7rlpzjQW5MNSA0cv7IaRUI"
+      },
+      "artists": [
+        {
+          "name": "BR0D3R",
+          "url": "https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "F\u00d6R DIN SKULL",
+      "url": "https://open.spotify.com/track/6253fGfXqiqp4NKWgWmKOa"
+    },
+    {
+      "album": {
         "name": "F\u00f6rl\u00e5t",
         "url": "https://open.spotify.com/album/6E5iPzpkbM0anf7uylwdbr"
       },
@@ -9316,7 +9360,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 166111,
       "name": "HELIUM",
       "url": "https://open.spotify.com/track/0T8jHBhiFd1uN4A3Xv8DUP"
@@ -9861,6 +9905,24 @@
     },
     {
       "album": {
+        "name": "Hot Hot Amore",
+        "url": "https://open.spotify.com/album/7zHlaelgC24QiiV8o4uE3o"
+      },
+      "artists": [
+        {
+          "name": "Lia Larsson",
+          "url": "https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134600,
+      "name": "Hot Hot Amore",
+      "url": "https://open.spotify.com/track/4tO8H2gRdR2R6faVm3i0gu"
+    },
+    {
+      "album": {
         "name": "House Party",
         "url": "https://open.spotify.com/album/5OVi0XkGbwNOKSTumWQ3yH"
       },
@@ -9912,7 +9974,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 142142,
       "name": "Hundragubbe",
       "url": "https://open.spotify.com/track/0wTotSfZg5MRF2mY7SNUkG"
@@ -10118,6 +10180,24 @@
       "duration_ms": 145591,
       "name": "H\u00c5LLA MIG TILLBAKA",
       "url": "https://open.spotify.com/track/6XCqV5uOvxVTGVfGFZaZlC"
+    },
+    {
+      "album": {
+        "name": "H\u00d6GER V\u00c4NSTER",
+        "url": "https://open.spotify.com/album/6oqsGHOCLL8RuhbBufapSU"
+      },
+      "artists": [
+        {
+          "name": "PERZZONA",
+          "url": "https://open.spotify.com/artist/4WId87hZzznRDnqwQQLyeC"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131876,
+      "name": "H\u00d6GER V\u00c4NSTER",
+      "url": "https://open.spotify.com/track/6THE7dm60grI3XvtojnlPP"
     },
     {
       "album": {
@@ -12424,7 +12504,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 137571,
       "name": "Laserdunk",
       "url": "https://open.spotify.com/track/3fWcXKct33cDoOocnVxZVj"
@@ -13310,7 +13390,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 172248,
       "name": "MAMACITA",
       "url": "https://open.spotify.com/track/7sCBVLH8Dmo7ucH2G8CMpY"
@@ -18673,6 +18753,32 @@
     },
     {
       "album": {
+        "name": "Sm\u00e5 grodorna",
+        "url": "https://open.spotify.com/album/7vcEcJl5PjHX0TzHz124U6"
+      },
+      "artists": [
+        {
+          "name": "LOOKET",
+          "url": "https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE"
+        },
+        {
+          "name": "DJ BERIT",
+          "url": "https://open.spotify.com/artist/2Ens93DBGHbUTJUm83TQRI"
+        },
+        {
+          "name": "LUREBUS",
+          "url": "https://open.spotify.com/artist/0wiMDZudqaqFP5O5FQEPWy"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122482,
+      "name": "Sm\u00e5 grodorna",
+      "url": "https://open.spotify.com/track/5M8At53rkMmZgF2qdpuWst"
+    },
+    {
+      "album": {
         "name": "Sm\u00e5 grodorna (Hardstyle)",
         "url": "https://open.spotify.com/album/25VblczNwkyEW5zvdo90EF"
       },
@@ -19077,6 +19183,28 @@
     },
     {
       "album": {
+        "name": "Sommaren i City (J.O.X Remix)",
+        "url": "https://open.spotify.com/album/1ZyFzt5WRBP91HukhcpxYI"
+      },
+      "artists": [
+        {
+          "name": "Angel",
+          "url": "https://open.spotify.com/artist/7FjElQ2FxgAbDGSrcE7K6O"
+        },
+        {
+          "name": "J.O.X",
+          "url": "https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181229,
+      "name": "Sommaren i City - J.O.X Remix",
+      "url": "https://open.spotify.com/track/3mhObEHNGu5U3HbqhXbxJ1"
+    },
+    {
+      "album": {
         "name": "SOMMARK\u00c5T",
         "url": "https://open.spotify.com/album/3nHqS01Sd7dd3KP57BCbNS"
       },
@@ -19144,6 +19272,24 @@
       "duration_ms": 155070,
       "name": "Sommartider",
       "url": "https://open.spotify.com/track/3zWnPMKWTht7rc8TtQEnW4"
+    },
+    {
+      "album": {
+        "name": "Sommartider",
+        "url": "https://open.spotify.com/album/4XQor9jR3Z8cEn2riwChCe"
+      },
+      "artists": [
+        {
+          "name": "Perra & Berra",
+          "url": "https://open.spotify.com/artist/6YWMML4Yz4GNbHprht9tud"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115185,
+      "name": "Sommartider",
+      "url": "https://open.spotify.com/track/36CXEaKLZVm1IgLTCgvgwI"
     },
     {
       "album": {
@@ -19444,6 +19590,24 @@
       "duration_ms": 136503,
       "name": "Stamp On The Ground",
       "url": "https://open.spotify.com/track/5QdWSor8wZmWyWWEOaJ4Fz"
+    },
+    {
+      "album": {
+        "name": "STAMPAR S\u00d6NDER PEDALEN",
+        "url": "https://open.spotify.com/album/2Jl1epTFEdYKyfxhdGiyMB"
+      },
+      "artists": [
+        {
+          "name": "TRENDEN",
+          "url": "https://open.spotify.com/artist/6YuKFo9oa6f4KGcrDm982S"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173714,
+      "name": "STAMPAR S\u00d6NDER PEDALEN",
+      "url": "https://open.spotify.com/track/5Jq152E4irAdlHVdCxkepF"
     },
     {
       "album": {
@@ -20136,7 +20300,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 160519,
       "name": "SUPA (Studentl\u00e5ten)",
       "url": "https://open.spotify.com/track/4wWihgtVue0ILcKsXAQsEN"
@@ -22230,7 +22394,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 167998,
       "name": "Vad b\u00e4nkar du?",
       "url": "https://open.spotify.com/track/1WqkGK7x1AgrdZbitbfhrW"
@@ -22256,6 +22420,32 @@
       "duration_ms": 124864,
       "name": "VAD GJORDE VI IG\u00c5R",
       "url": "https://open.spotify.com/track/1SpoVsj74dwPe3i3HHhldA"
+    },
+    {
+      "album": {
+        "name": "VAD G\u00d6R DU NU",
+        "url": "https://open.spotify.com/album/3Du6FqTb9CffChiUtf2iot"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        },
+        {
+          "name": "Emil Asserg\u00e5rd",
+          "url": "https://open.spotify.com/artist/3fpHdW8mp95bOCzRLcauZm"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145600,
+      "name": "VAD G\u00d6R DU NU",
+      "url": "https://open.spotify.com/track/4vhNFJ14tl6AXcPp23uqiG"
     },
     {
       "album": {
@@ -22624,7 +22814,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 125217,
       "name": "VEM VARE",
       "url": "https://open.spotify.com/track/4H8BsZfFybAkC16plY9Brm"

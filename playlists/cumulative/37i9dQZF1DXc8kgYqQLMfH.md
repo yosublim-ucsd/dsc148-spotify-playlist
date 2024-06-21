@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,163 songs - 1 day 20 hr 12 min
+1,164 songs - 1 day 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [chassing the lights](https://open.spotify.com/track/7nlDM7i676eZkcxlxvpJgG) | [Roppany](https://open.spotify.com/artist/7CtCqvAtkty3esFsNW6tLn) | [chassing the lights](https://open.spotify.com/album/6HBQsscOXZKP0S3sLgK4r5) | 1:46 | 2022-09-02 | 2023-04-12 |
 | [Childhood](https://open.spotify.com/track/6ql31Q67B5qkeWFxsk1S7C) | [Tomh.](https://open.spotify.com/artist/0Jav1F9KkDu2SgE5Sc5MPU), [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy) | [Childhood](https://open.spotify.com/album/5BRN5DlOyQd8pveYqcgqdW) | 2:31 | 2022-06-17 | 2022-07-29 |
 | [chill](https://open.spotify.com/track/7vaNtfvQkaG9NSic2rhrH3) | [Celestial Alignment](https://open.spotify.com/artist/7lGQNJ5Ypof1wZrM0ysNIU) | [lofi mood](https://open.spotify.com/album/1BbpNtfO8SMFhaRoRJHxHX) | 0:58 | 2022-04-22 | 2023-09-16 |
+| [chillax](https://open.spotify.com/track/29FYH3C3AfRSFkUKcljlMF) | [HPY DAYZ](https://open.spotify.com/artist/4kPDMyPezfKjzjK2q7IeWP) | [chillax](https://open.spotify.com/album/444GDU8zjwZZ6XaeIRkKAo) | 1:49 | 2024-06-05 |  |
 | [chromatico](https://open.spotify.com/track/1DIrNCgJci5gRZnltnABJA) | [reviie](https://open.spotify.com/artist/0NhZ9c4X8i2SHZP0sHBo8J) | [chromatico](https://open.spotify.com/album/6S8qHXw7l9QROYNkzUClOb) | 2:04 | 2021-11-10 | 2022-10-01 |
 | [Chuches](https://open.spotify.com/track/0kl29DEUHvkEUgQ2ICZNKg) | [Tino Tapes](https://open.spotify.com/artist/6317TasPoXGpLcmnwqwB6y) | [Chuches](https://open.spotify.com/album/24lYsA8QnTNiGJe32ROCY1) | 1:48 | 2022-11-11 |  |
 | [cicada](https://open.spotify.com/track/2oUg0uJXtNDownLGl6ElWk) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [cicada](https://open.spotify.com/album/4OJbgFW3kP1feBf35xOK2I) | 2:07 | 2023-11-17 |  |
@@ -741,7 +742,7 @@
 | [NS\-10M](https://open.spotify.com/track/4PQmzve7LIaJ5IVr64bemX) | [Clique Epique](https://open.spotify.com/artist/42s4wWqRaDFw25sMxt0FsT) | [NS\-10M](https://open.spotify.com/album/0T41HfuaZn1KlgucVAf8rx) | 2:21 | 2021-11-10 | 2022-05-27 |
 | [nubes](https://open.spotify.com/track/5ekYOmFPM44ltEgnJqcGcM) | [Claptu](https://open.spotify.com/artist/3rLOKzrmb7njqRKYSJgfY7), [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q) | [nubes](https://open.spotify.com/album/2RUGz3g25tIFe3pIxEQArr) | 2:42 | 2022-06-24 | 2022-07-29 |
 | [Nurtured Nature](https://open.spotify.com/track/2oZ7cCFzBa7z31KpZc56Be) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Alltid](https://open.spotify.com/album/0sizWPUvbr4jWzDeGowcHb) | 2:03 | 2023-01-13 |  |
-| [NY Breeze](https://open.spotify.com/track/5I51wS8eZm9sOHraU2jfZw) | [jomc](https://open.spotify.com/artist/4df3SkmhkfRbymFC0O93Nv) | [NY Breeze](https://open.spotify.com/album/1gbWnTRxPsh5cev8YSmAf7) | 1:54 | 2022-10-28 |  |
+| [NY Breeze](https://open.spotify.com/track/5I51wS8eZm9sOHraU2jfZw) | [jomc](https://open.spotify.com/artist/4df3SkmhkfRbymFC0O93Nv) | [NY Breeze](https://open.spotify.com/album/1gbWnTRxPsh5cev8YSmAf7) | 1:54 | 2022-10-28 | 2024-06-21 |
 | [oase](https://open.spotify.com/track/3q0ggMvQOe73GnUDY3nkhK) | [Happy Tobi](https://open.spotify.com/artist/1GyfVIZcP7PfEgpNnars9N) | [oase](https://open.spotify.com/album/542M7FTx3gAU7B9qaVnZ3f) | 1:12 | 2022-05-13 | 2022-06-10 |
 | [oblivion](https://open.spotify.com/track/4R2kOSRbf4gCFAFkebVmSG) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [oblivion](https://open.spotify.com/album/3kO3AwdvdYmpheRIATwD5I) | 1:43 | 2021-11-10 | 2022-07-29 |
 | [Oblivious](https://open.spotify.com/track/6JGRktSYyPOqIlUqxuEKQD) | [Late Night Tones](https://open.spotify.com/artist/52wkMMF7s4aXTW4WYKvKmC), [nate2timez](https://open.spotify.com/artist/0vABYweyJunNI8gFdnxXps) | [Oblivious](https://open.spotify.com/album/3W0zN0qXJxk0Syqim6RQuV) | 1:57 | 2022-12-16 | 2023-04-28 |

@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most played tracks right now - Iceland.",
-  "num_followers": 41771,
+  "num_followers": 41778,
   "original_name": "Top 50 - Iceland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LgZCmAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LgeUGAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-06-19 09:06:31",
+      "added_at": "2024-06-20 09:01:57",
+      "album": {
+        "name": "Hey Carolina",
+        "url": "https://open.spotify.com/album/2qx50L3KVL8LVNfNV5RHF9"
+      },
+      "artists": [
+        {
+          "name": "Will BL",
+          "url": "https://open.spotify.com/artist/2BnCntxaxxCQzlB3s4wcVm"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Hey Carolina",
+      "url": "https://open.spotify.com/track/4xhuCEd3aXMx8qRRdACXyR"
+    },
+    {
+      "added_at": "2024-06-20 09:01:57",
       "album": {
         "name": "Please Please Please",
         "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
     },
     {
-      "added_at": "2024-06-19 09:06:31",
+      "added_at": "2024-06-20 09:01:57",
       "album": {
         "name": "Til \u00ed allt, Pt. III",
         "url": "https://open.spotify.com/album/09KYxBRoopLruITkHnv69i"
@@ -49,7 +65,31 @@
       "url": "https://open.spotify.com/track/1FXWxt1GXe5cQK5zBAsXQG"
     },
     {
-      "added_at": "2024-06-19 09:06:31",
+      "added_at": "2024-06-20 09:01:57",
+      "album": {
+        "name": "Ekkert vandam\u00e1l",
+        "url": "https://open.spotify.com/album/2pve4NRYtj1EJycr0PosUE"
+      },
+      "artists": [
+        {
+          "name": "ELVAR",
+          "url": "https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY"
+        },
+        {
+          "name": "Logi Pedro",
+          "url": "https://open.spotify.com/artist/1FiwIhKqE7vKkRLj1Ict4H"
+        },
+        {
+          "name": "Daniil",
+          "url": "https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU"
+        }
+      ],
+      "duration_ms": 134090,
+      "name": "Ekkert vandam\u00e1l",
+      "url": "https://open.spotify.com/track/4ZivirIVf9fYOLWO2VnmzQ"
+    },
+    {
+      "added_at": "2024-06-20 09:01:57",
       "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
@@ -65,7 +105,7 @@
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
-      "added_at": "2024-06-19 09:06:31",
+      "added_at": "2024-06-20 09:01:57",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -81,7 +121,7 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2024-06-19 09:06:31",
+      "added_at": "2024-06-20 09:01:57",
       "album": {
         "name": "MILLION DOLLAR BABY",
         "url": "https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54"
@@ -97,7 +137,7 @@
       "url": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
     },
     {
-      "added_at": "2024-06-19 09:06:31",
+      "added_at": "2024-06-20 09:01:57",
       "album": {
         "name": "Houdini",
         "url": "https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK"
@@ -113,23 +153,7 @@
       "url": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z"
     },
     {
-      "added_at": "2024-06-19 09:06:31",
-      "album": {
-        "name": "Unreal Unearth: Unheard",
-        "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
-    },
-    {
-      "added_at": "2024-06-19 09:06:31",
+      "added_at": "2024-06-20 09:01:57",
       "album": {
         "name": "Risa Tilkynning",
         "url": "https://open.spotify.com/album/7toTj3b3jGCcM77TqnB8Nt"
@@ -145,7 +169,23 @@
       "url": "https://open.spotify.com/track/1qIEu0g7jbL4KhZbjTeVW9"
     },
     {
-      "added_at": "2024-06-19 09:06:31",
+      "added_at": "2024-06-20 09:01:57",
+      "album": {
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
+    },
+    {
+      "added_at": "2024-06-20 09:01:57",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -161,35 +201,19 @@
       "url": "https://open.spotify.com/track/3ovhC4v5a73S0afcOHhnu2"
     },
     {
-      "added_at": "2024-06-19 09:06:31",
-      "album": {
-        "name": "MONN\u00cd",
-        "url": "https://open.spotify.com/album/29Z4fN5F8ZumIsfrfH0Krf"
-      },
-      "artists": [
-        {
-          "name": "Aron Can",
-          "url": "https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW"
-        }
-      ],
-      "duration_ms": 181253,
-      "name": "MONN\u00cd",
-      "url": "https://open.spotify.com/track/25dFPWFPt3OVvDsOSybenL"
-    },
-    {
-      "added_at": "2024-06-19 09:06:31",
+      "added_at": "2024-06-20 09:01:57",
       "album": {
         "name": "S\u00f3linni",
         "url": "https://open.spotify.com/album/23Y4b5qrZNx3GmtT5osZd1"
       },
       "artists": [
         {
-          "name": "Aron Can",
-          "url": "https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW"
-        },
-        {
           "name": "Daniil",
           "url": "https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU"
+        },
+        {
+          "name": "Aron Can",
+          "url": "https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW"
         }
       ],
       "duration_ms": 186040,
@@ -197,7 +221,7 @@
       "url": "https://open.spotify.com/track/6096fQMsntByvgFdpnvQ2e"
     },
     {
-      "added_at": "2024-06-19 09:06:31",
+      "added_at": "2024-06-20 09:01:57",
       "album": {
         "name": "Fireworks & Rollerblades",
         "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
@@ -213,23 +237,7 @@
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
     },
     {
-      "added_at": "2024-06-19 09:06:31",
-      "album": {
-        "name": "Where I've Been, Isn't Where I'm Going",
-        "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 171291,
-      "name": "A Bar Song (Tipsy)",
-      "url": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K"
-    },
-    {
-      "added_at": "2024-06-19 09:06:31",
+      "added_at": "2024-06-20 09:01:57",
       "album": {
         "name": "Risa Tilkynning",
         "url": "https://open.spotify.com/album/7toTj3b3jGCcM77TqnB8Nt"
@@ -249,7 +257,87 @@
       "url": "https://open.spotify.com/track/6uZNr8aRW5XPS1cJp6zO5C"
     },
     {
-      "added_at": "2024-06-19 09:06:31",
+      "added_at": "2024-06-20 09:01:57",
+      "album": {
+        "name": "MONN\u00cd",
+        "url": "https://open.spotify.com/album/29Z4fN5F8ZumIsfrfH0Krf"
+      },
+      "artists": [
+        {
+          "name": "Aron Can",
+          "url": "https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW"
+        }
+      ],
+      "duration_ms": 181253,
+      "name": "MONN\u00cd",
+      "url": "https://open.spotify.com/track/25dFPWFPt3OVvDsOSybenL"
+    },
+    {
+      "added_at": "2024-06-20 09:01:57",
+      "album": {
+        "name": "Where I've Been, Isn't Where I'm Going",
+        "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 171291,
+      "name": "A Bar Song (Tipsy)",
+      "url": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K"
+    },
+    {
+      "added_at": "2024-06-20 09:01:57",
+      "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/5IorZRoIKZBuP6rTe4C5an"
+      },
+      "artists": [
+        {
+          "name": "Jordan Zhu",
+          "url": "https://open.spotify.com/artist/7HfWUNZEmvvbzU2QFYAaHJ"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Grave E Maestoso",
+      "url": "https://open.spotify.com/track/4SXmqFlH5dtDqf3AYuiaye"
+    },
+    {
+      "added_at": "2024-06-20 09:01:57",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 179586,
+      "name": "LUNCH",
+      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
+    },
+    {
+      "added_at": "2024-06-20 09:01:57",
+      "album": {
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+    },
+    {
+      "added_at": "2024-06-20 09:01:57",
       "album": {
         "name": "BAND4BAND (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy"
@@ -269,7 +357,71 @@
       "url": "https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD"
     },
     {
-      "added_at": "2024-06-19 09:06:31",
+      "added_at": "2024-06-20 09:01:57",
+      "album": {
+        "name": "When You're Gone",
+        "url": "https://open.spotify.com/album/6T2Y7dComiLzT4i6VqqUQ1"
+      },
+      "artists": [
+        {
+          "name": "Jordan Zhu",
+          "url": "https://open.spotify.com/artist/7HfWUNZEmvvbzU2QFYAaHJ"
+        }
+      ],
+      "duration_ms": 204640,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/4Wa1S5NNHpzoOxIorV2rMp"
+    },
+    {
+      "added_at": "2024-06-20 09:01:57",
+      "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/5IorZRoIKZBuP6rTe4C5an"
+      },
+      "artists": [
+        {
+          "name": "Jordan Zhu",
+          "url": "https://open.spotify.com/artist/7HfWUNZEmvvbzU2QFYAaHJ"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Adagio Cantabile",
+      "url": "https://open.spotify.com/track/61UwV2v0DfweBgzZZW2H4E"
+    },
+    {
+      "added_at": "2024-06-20 09:01:57",
+      "album": {
+        "name": "Tape Deck Dreams",
+        "url": "https://open.spotify.com/album/2NDe23QJxwigVmeEy3vgfe"
+      },
+      "artists": [
+        {
+          "name": "Jordan Zhu",
+          "url": "https://open.spotify.com/artist/7HfWUNZEmvvbzU2QFYAaHJ"
+        }
+      ],
+      "duration_ms": 80040,
+      "name": "Tape Deck Dreams",
+      "url": "https://open.spotify.com/track/2VeaLFapY6tQzrsv05gdmh"
+    },
+    {
+      "added_at": "2024-06-20 09:01:57",
+      "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/5IorZRoIKZBuP6rTe4C5an"
+      },
+      "artists": [
+        {
+          "name": "Jordan Zhu",
+          "url": "https://open.spotify.com/artist/7HfWUNZEmvvbzU2QFYAaHJ"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Presto Con Brio",
+      "url": "https://open.spotify.com/track/631SkQJ7AaS0k5u9y8kPR4"
+    },
+    {
+      "added_at": "2024-06-20 09:01:57",
       "album": {
         "name": "PBT 2.0",
         "url": "https://open.spotify.com/album/3Mrz2JSDKfvEwDCyI0xLLe"
@@ -289,39 +441,87 @@
       "url": "https://open.spotify.com/track/6srY1H4DrPVgvSD1asK0Og"
     },
     {
-      "added_at": "2024-06-19 09:06:31",
+      "added_at": "2024-06-20 09:01:57",
       "album": {
-        "name": "Coconut",
-        "url": "https://open.spotify.com/album/53nsBZHJnyJAQvHOxyLRyR"
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/5IorZRoIKZBuP6rTe4C5an"
       },
       "artists": [
         {
-          "name": "Rubby",
-          "url": "https://open.spotify.com/artist/58CkoIvSDda2jNRipPe4oT"
+          "name": "Jordan Zhu",
+          "url": "https://open.spotify.com/artist/7HfWUNZEmvvbzU2QFYAaHJ"
         }
       ],
-      "duration_ms": 16320,
-      "name": "My Love, Coconut",
-      "url": "https://open.spotify.com/track/4mNVVNCHXLN8AWtjHGvzXz"
+      "duration_ms": 175000,
+      "name": "Moderato Con Espressione",
+      "url": "https://open.spotify.com/track/2SfHwmtmIE2PZodno0wJCM"
     },
     {
-      "added_at": "2024-06-19 09:06:31",
+      "added_at": "2024-06-20 09:01:57",
       "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+        "name": "Scorched Nocturne",
+        "url": "https://open.spotify.com/album/2VYiMBrcrq34wtsa1gCimy"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Jordan Zhu",
+          "url": "https://open.spotify.com/artist/7HfWUNZEmvvbzU2QFYAaHJ"
         }
       ],
-      "duration_ms": 179586,
-      "name": "LUNCH",
-      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
+      "duration_ms": 113720,
+      "name": "Scorched Nocturne",
+      "url": "https://open.spotify.com/track/1uVm5vlk15VGvKue7laYgJ"
     },
     {
-      "added_at": "2024-06-19 09:06:31",
+      "added_at": "2024-06-20 09:01:57",
+      "album": {
+        "name": "Echoes of the Night",
+        "url": "https://open.spotify.com/album/0T0rv2NPDeSWjWKSkvLptk"
+      },
+      "artists": [
+        {
+          "name": "Jordan Zhu",
+          "url": "https://open.spotify.com/artist/7HfWUNZEmvvbzU2QFYAaHJ"
+        }
+      ],
+      "duration_ms": 212150,
+      "name": "Echoes of the Night",
+      "url": "https://open.spotify.com/track/0znG4eltBZeMwdE71Elm2B"
+    },
+    {
+      "added_at": "2024-06-20 09:01:57",
+      "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/5IorZRoIKZBuP6rTe4C5an"
+      },
+      "artists": [
+        {
+          "name": "Jordan Zhu",
+          "url": "https://open.spotify.com/artist/7HfWUNZEmvvbzU2QFYAaHJ"
+        }
+      ],
+      "duration_ms": 117600,
+      "name": "Maestoso E Solenne",
+      "url": "https://open.spotify.com/track/1YcXE6i7MfxwwIw9SFUo1Q"
+    },
+    {
+      "added_at": "2024-06-20 09:01:57",
+      "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/5IorZRoIKZBuP6rTe4C5an"
+      },
+      "artists": [
+        {
+          "name": "Jordan Zhu",
+          "url": "https://open.spotify.com/artist/7HfWUNZEmvvbzU2QFYAaHJ"
+        }
+      ],
+      "duration_ms": 153800,
+      "name": "Allegro Appassionato",
+      "url": "https://open.spotify.com/track/0Rnk9FJIyAV6H4ylTCK6om"
+    },
+    {
+      "added_at": "2024-06-20 09:01:57",
       "album": {
         "name": "1000 or\u00f0",
         "url": "https://open.spotify.com/album/0naypfhjddMzm7uB6XuiVT"
@@ -341,39 +541,23 @@
       "url": "https://open.spotify.com/track/5cFYLpNErj9k9JjjZL8Vft"
     },
     {
-      "added_at": "2024-06-19 09:06:31",
+      "added_at": "2024-06-20 09:01:57",
       "album": {
-        "name": "i like the way you kiss me",
-        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/5IorZRoIKZBuP6rTe4C5an"
       },
       "artists": [
         {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+          "name": "Jordan Zhu",
+          "url": "https://open.spotify.com/artist/7HfWUNZEmvvbzU2QFYAaHJ"
         }
       ],
-      "duration_ms": 142514,
-      "name": "i like the way you kiss me",
-      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+      "duration_ms": 118400,
+      "name": "Bagatelle No. 3 for String Quartet: Semplice E Languido",
+      "url": "https://open.spotify.com/track/49I6LaEKXRo9oM49DF5vwo"
     },
     {
-      "added_at": "2024-06-19 09:06:31",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 133050,
-      "name": "Sof\u00f0u unga \u00e1stin m\u00edn",
-      "url": "https://open.spotify.com/track/0Xh9sOCT7ZvmKg8KthRYnH"
-    },
-    {
-      "added_at": "2024-06-19 09:06:31",
+      "added_at": "2024-06-20 09:01:57",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -389,7 +573,55 @@
       "url": "https://open.spotify.com/track/1l2AHO7bb47QGFKJmXhXMz"
     },
     {
-      "added_at": "2024-06-19 09:06:31",
+      "added_at": "2024-06-20 09:01:57",
+      "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/5IorZRoIKZBuP6rTe4C5an"
+      },
+      "artists": [
+        {
+          "name": "Jordan Zhu",
+          "url": "https://open.spotify.com/artist/7HfWUNZEmvvbzU2QFYAaHJ"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Bagatelle No. 1 for String Quartet: Delicato E Sognante",
+      "url": "https://open.spotify.com/track/5nRNX7POupLp6dFEBDcjQ5"
+    },
+    {
+      "added_at": "2024-06-20 09:01:57",
+      "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/5IorZRoIKZBuP6rTe4C5an"
+      },
+      "artists": [
+        {
+          "name": "Jordan Zhu",
+          "url": "https://open.spotify.com/artist/7HfWUNZEmvvbzU2QFYAaHJ"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Larghetto Grazioso",
+      "url": "https://open.spotify.com/track/4E48NPRkwdex4iCTzmevss"
+    },
+    {
+      "added_at": "2024-06-20 09:01:57",
+      "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/5IorZRoIKZBuP6rTe4C5an"
+      },
+      "artists": [
+        {
+          "name": "Jordan Zhu",
+          "url": "https://open.spotify.com/artist/7HfWUNZEmvvbzU2QFYAaHJ"
+        }
+      ],
+      "duration_ms": 129960,
+      "name": "Vivace E Leggero",
+      "url": "https://open.spotify.com/track/67KTXN4Lc3BtN6AqFKwQVY"
+    },
+    {
+      "added_at": "2024-06-20 09:01:57",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -400,12 +632,156 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 150883,
-      "name": "Sofa urtub\u00f6rn",
-      "url": "https://open.spotify.com/track/1MWg9aH6OhteqF1RXR3J5w"
+      "duration_ms": 133050,
+      "name": "Sof\u00f0u unga \u00e1stin m\u00edn",
+      "url": "https://open.spotify.com/track/0Xh9sOCT7ZvmKg8KthRYnH"
     },
     {
-      "added_at": "2024-06-19 09:06:31",
+      "added_at": "2024-06-20 09:01:57",
+      "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/5IorZRoIKZBuP6rTe4C5an"
+      },
+      "artists": [
+        {
+          "name": "Jordan Zhu",
+          "url": "https://open.spotify.com/artist/7HfWUNZEmvvbzU2QFYAaHJ"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "Bagatelle No. 6 for String Quartet: Allegretto Grazioso",
+      "url": "https://open.spotify.com/track/4LplINtRYfGsFt6d4GEnys"
+    },
+    {
+      "added_at": "2024-06-20 09:01:57",
+      "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/5IorZRoIKZBuP6rTe4C5an"
+      },
+      "artists": [
+        {
+          "name": "Jordan Zhu",
+          "url": "https://open.spotify.com/artist/7HfWUNZEmvvbzU2QFYAaHJ"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Lento E Doloroso",
+      "url": "https://open.spotify.com/track/3ojQG359NFqzpbBdf54M04"
+    },
+    {
+      "added_at": "2024-06-20 09:01:57",
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
+    },
+    {
+      "added_at": "2024-06-20 09:01:57",
+      "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/5IorZRoIKZBuP6rTe4C5an"
+      },
+      "artists": [
+        {
+          "name": "Jordan Zhu",
+          "url": "https://open.spotify.com/artist/7HfWUNZEmvvbzU2QFYAaHJ"
+        }
+      ],
+      "duration_ms": 115000,
+      "name": "Bagatelle No. 2 for String Quartet: Agitato E Appassionato",
+      "url": "https://open.spotify.com/track/0COaoztYkc2DXFmBUC795u"
+    },
+    {
+      "added_at": "2024-06-20 09:01:57",
+      "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/5IorZRoIKZBuP6rTe4C5an"
+      },
+      "artists": [
+        {
+          "name": "Jordan Zhu",
+          "url": "https://open.spotify.com/artist/7HfWUNZEmvvbzU2QFYAaHJ"
+        }
+      ],
+      "duration_ms": 129960,
+      "name": "Largo E Mesto",
+      "url": "https://open.spotify.com/track/3exZStW3hcvYzTKlnt3QRl"
+    },
+    {
+      "added_at": "2024-06-20 09:01:57",
+      "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/5IorZRoIKZBuP6rTe4C5an"
+      },
+      "artists": [
+        {
+          "name": "Jordan Zhu",
+          "url": "https://open.spotify.com/artist/7HfWUNZEmvvbzU2QFYAaHJ"
+        }
+      ],
+      "duration_ms": 117600,
+      "name": "Bagatelle No. 5 for String Quartet: Adagio Espressivo",
+      "url": "https://open.spotify.com/track/2nwvcgbh9aOkjs1M29QqX0"
+    },
+    {
+      "added_at": "2024-06-20 09:01:57",
+      "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/5IorZRoIKZBuP6rTe4C5an"
+      },
+      "artists": [
+        {
+          "name": "Jordan Zhu",
+          "url": "https://open.spotify.com/artist/7HfWUNZEmvvbzU2QFYAaHJ"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Bagatelle No. 4 for String Quartet: Vivace E Giocoso",
+      "url": "https://open.spotify.com/track/28ammyKveYCVXi1Ckvd8Rl"
+    },
+    {
+      "added_at": "2024-06-20 09:01:57",
+      "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/5IorZRoIKZBuP6rTe4C5an"
+      },
+      "artists": [
+        {
+          "name": "Jordan Zhu",
+          "url": "https://open.spotify.com/artist/7HfWUNZEmvvbzU2QFYAaHJ"
+        }
+      ],
+      "duration_ms": 118400,
+      "name": "Tempo Di Menuetto",
+      "url": "https://open.spotify.com/track/4hD0K9jYH5Z8hyfD8yyDAW"
+    },
+    {
+      "added_at": "2024-06-20 09:01:57",
+      "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/5IorZRoIKZBuP6rTe4C5an"
+      },
+      "artists": [
+        {
+          "name": "Jordan Zhu",
+          "url": "https://open.spotify.com/artist/7HfWUNZEmvvbzU2QFYAaHJ"
+        }
+      ],
+      "duration_ms": 115000,
+      "name": "Allegretto Con Grazia",
+      "url": "https://open.spotify.com/track/39Wgd6bJaWK8Q8ej82suvK"
+    },
+    {
+      "added_at": "2024-06-20 09:01:57",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -421,7 +797,23 @@
       "url": "https://open.spotify.com/track/5myQVDBhZvE7DIvsQICuKn"
     },
     {
-      "added_at": "2024-06-19 09:06:31",
+      "added_at": "2024-06-20 09:01:57",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 150883,
+      "name": "Sofa urtub\u00f6rn",
+      "url": "https://open.spotify.com/track/1MWg9aH6OhteqF1RXR3J5w"
+    },
+    {
+      "added_at": "2024-06-20 09:01:57",
       "album": {
         "name": "I Had Some Help",
         "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
@@ -441,7 +833,7 @@
       "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
     },
     {
-      "added_at": "2024-06-19 09:06:31",
+      "added_at": "2024-06-20 09:01:57",
       "album": {
         "name": "Hvert ertu a\u00f0 fara?",
         "url": "https://open.spotify.com/album/7M7X7jtPfIlgbgWx72hvOZ"
@@ -459,418 +851,6 @@
       "duration_ms": 157611,
       "name": "Hvert ertu a\u00f0 fara?",
       "url": "https://open.spotify.com/track/4xd8zI5KcGNtjt7WMNlmJJ"
-    },
-    {
-      "added_at": "2024-06-19 09:06:31",
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
-    },
-    {
-      "added_at": "2024-06-19 09:06:31",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 197137,
-      "name": "Lj\u00f3s",
-      "url": "https://open.spotify.com/track/0RT86wBrufYQZSdN852Wjn"
-    },
-    {
-      "added_at": "2024-06-19 09:06:31",
-      "album": {
-        "name": "Sof\u00f0u Unga \u00c1stin M\u00edn",
-        "url": "https://open.spotify.com/album/0rIzFmrBoCXcJRSHuJAboE"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 302069,
-      "name": "Sof\u00f0u Unga \u00c1stin M\u00edn",
-      "url": "https://open.spotify.com/track/3NvmSRS1q7Lp8kM9Pihuv8"
-    },
-    {
-      "added_at": "2024-06-19 09:06:31",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 175403,
-      "name": "B\u00edum b\u00edum bambal\u00f3",
-      "url": "https://open.spotify.com/track/5pn6OskYybJrrqcdlNpBvk"
-    },
-    {
-      "added_at": "2024-06-19 09:06:31",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 191332,
-      "name": "\u00c6vint\u00fdral\u00f6nd",
-      "url": "https://open.spotify.com/track/1ZzSy8HeLFZAeuQi577bhB"
-    },
-    {
-      "added_at": "2024-06-19 09:06:31",
-      "album": {
-        "name": "Not Like Us",
-        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 274192,
-      "name": "Not Like Us",
-      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
-    },
-    {
-      "added_at": "2024-06-19 09:06:31",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 132446,
-      "name": "G\u00f3\u00f0a n\u00f3tt",
-      "url": "https://open.spotify.com/track/7nzeIh8kUdieUBLPXch9wi"
-    },
-    {
-      "added_at": "2024-06-19 09:06:31",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 125852,
-      "name": "Frost er \u00fati fuglinn minn",
-      "url": "https://open.spotify.com/track/1sgn8wmK2kuJrF9ppsnH2F"
-    },
-    {
-      "added_at": "2024-06-19 09:06:31",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 123576,
-      "name": "B\u00ed b\u00ed og blaka",
-      "url": "https://open.spotify.com/track/2q2cdTPrbgWSxLFFXjjaoO"
-    },
-    {
-      "added_at": "2024-06-19 09:06:31",
-      "album": {
-        "name": "Veit ekki me\u00f0 \u00feig",
-        "url": "https://open.spotify.com/album/4080PUV38C8ZVnEE65s7EO"
-      },
-      "artists": [
-        {
-          "name": "Luigi",
-          "url": "https://open.spotify.com/artist/7rjcERw1K9oR9vtik3YSJN"
-        },
-        {
-          "name": "ORIO",
-          "url": "https://open.spotify.com/artist/6cyx02Uqj6gB9ZU0s10bzn"
-        }
-      ],
-      "duration_ms": 162272,
-      "name": "Veit ekki me\u00f0 \u00feig",
-      "url": "https://open.spotify.com/track/5BsvubZKwChZFcNRkxlOgD"
-    },
-    {
-      "added_at": "2024-06-19 09:06:31",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 303440,
-      "name": "CHIHIRO",
-      "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
-    },
-    {
-      "added_at": "2024-06-19 09:06:31",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 193282,
-      "name": "Sof\u00f0u",
-      "url": "https://open.spotify.com/track/51J0zLsmKb265vmylOJGMr"
-    },
-    {
-      "added_at": "2024-06-19 09:06:31",
-      "album": {
-        "name": "PBT 2.0",
-        "url": "https://open.spotify.com/album/3Mrz2JSDKfvEwDCyI0xLLe"
-      },
-      "artists": [
-        {
-          "name": "PATR!K",
-          "url": "https://open.spotify.com/artist/6TBRY5HueSwE3yVgBIHcy2"
-        }
-      ],
-      "duration_ms": 163013,
-      "name": "Sorry memmig",
-      "url": "https://open.spotify.com/track/2kJLPJS9wWpoJgK7nvHhk5"
-    },
-    {
-      "added_at": "2024-06-19 09:06:31",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 182090,
-      "name": "N\u00f3ttin l\u00e6\u00f0ist inn",
-      "url": "https://open.spotify.com/track/5TBNZCGMR1NJtJrrg606m0"
-    },
-    {
-      "added_at": "2024-06-19 09:06:31",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 99752,
-      "name": "S\u00f3lskin",
-      "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
-    },
-    {
-      "added_at": "2024-06-19 09:06:31",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 135325,
-      "name": "\u00de\u00fa ert",
-      "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"
-    },
-    {
-      "added_at": "2024-06-19 09:06:31",
-      "album": {
-        "name": "KOSS \u00c1 \u00deIG (\u00c1ram\u00f3taskaup 2023)",
-        "url": "https://open.spotify.com/album/04ilaNnJNBvla2NbiVZEB2"
-      },
-      "artists": [
-        {
-          "name": "Herra Hnetusmj\u00f6r",
-          "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
-        },
-        {
-          "name": "\u00deorm\u00f3\u00f0ur",
-          "url": "https://open.spotify.com/artist/7FrCdnjdjijkh1eXx1P3Uv"
-        }
-      ],
-      "duration_ms": 151593,
-      "name": "KOSS \u00c1 \u00deIG (\u00c1ram\u00f3taskaup 2023)",
-      "url": "https://open.spotify.com/track/4swi74n7WyfQUFxVTIXnmB"
-    },
-    {
-      "added_at": "2024-06-19 09:06:31",
-      "album": {
-        "name": "PBT 2.0",
-        "url": "https://open.spotify.com/album/3Mrz2JSDKfvEwDCyI0xLLe"
-      },
-      "artists": [
-        {
-          "name": "PATR!K",
-          "url": "https://open.spotify.com/artist/6TBRY5HueSwE3yVgBIHcy2"
-        },
-        {
-          "name": "Daniil",
-          "url": "https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU"
-        }
-      ],
-      "duration_ms": 134013,
-      "name": "Sama um",
-      "url": "https://open.spotify.com/track/2O0yZsQR5qtHAsAjFYinea"
-    },
-    {
-      "added_at": "2024-06-19 09:06:31",
-      "album": {
-        "name": "1000 or\u00f0",
-        "url": "https://open.spotify.com/album/0naypfhjddMzm7uB6XuiVT"
-      },
-      "artists": [
-        {
-          "name": "BR\u00cdET",
-          "url": "https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx"
-        },
-        {
-          "name": "Birnir",
-          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
-        }
-      ],
-      "duration_ms": 180520,
-      "name": "Andar-dr\u00e1tt",
-      "url": "https://open.spotify.com/track/4iL6ls1RK8U8NbyDB2rtWE"
-    },
-    {
-      "added_at": "2024-06-19 09:06:31",
-      "album": {
-        "name": "Hef Veri\u00f0 Verri",
-        "url": "https://open.spotify.com/album/3i7Yhl3yKOS8ksCXlYmYtY"
-      },
-      "artists": [
-        {
-          "name": "Herra Hnetusmj\u00f6r",
-          "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
-        }
-      ],
-      "duration_ms": 131017,
-      "name": "Hef Veri\u00f0 Verri",
-      "url": "https://open.spotify.com/track/17ebLDWPOsruloZYxgEqm4"
-    },
-    {
-      "added_at": "2024-06-19 09:06:31",
-      "album": {
-        "name": "WE DON'T TRUST YOU",
-        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 267706,
-      "name": "Like That",
-      "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
-    },
-    {
-      "added_at": "2024-06-19 09:06:31",
-      "album": {
-        "name": "Risa Tilkynning",
-        "url": "https://open.spotify.com/album/7toTj3b3jGCcM77TqnB8Nt"
-      },
-      "artists": [
-        {
-          "name": "ClubDub",
-          "url": "https://open.spotify.com/artist/5A5hVxY3BogJUch1IUcuw7"
-        }
-      ],
-      "duration_ms": 118095,
-      "name": "F\u00f6ssari",
-      "url": "https://open.spotify.com/track/1yQ2qCTb2MNV415l2Iq8Q3"
-    },
-    {
-      "added_at": "2024-06-19 09:06:31",
-      "album": {
-        "name": "1000 or\u00f0",
-        "url": "https://open.spotify.com/album/0naypfhjddMzm7uB6XuiVT"
-      },
-      "artists": [
-        {
-          "name": "BR\u00cdET",
-          "url": "https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx"
-        },
-        {
-          "name": "Birnir",
-          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
-        }
-      ],
-      "duration_ms": 144760,
-      "name": "Fyrsti dagur endans",
-      "url": "https://open.spotify.com/track/1UUMTyxvapFrvGySldQGSq"
-    },
-    {
-      "added_at": "2024-06-19 09:06:31",
-      "album": {
-        "name": "Stumblin' In",
-        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        }
-      ],
-      "duration_ms": 213363,
-      "name": "Stumblin' In",
-      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
     }
   ],
   "unique_name": "Top 50 - Iceland",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-10",
-  "description": "This is Cassiane. The essential tracks, all in one playlist.",
+  "description": "This is Cassiane. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Cassiane",
   "tracks": [
     {
@@ -146,7 +146,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 240053,
       "name": "Choque E Fogo",
       "url": "https://open.spotify.com/track/0Y0tYSDTuGpzff4moYGa4u"
@@ -968,6 +968,28 @@
       "duration_ms": 263500,
       "name": "Onde Jesus Mora",
       "url": "https://open.spotify.com/track/5nIdb0Gpg2Mb0ktbFrM9Ot"
+    },
+    {
+      "album": {
+        "name": "Peregrino (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4hdM0xZw6YCZiUTJHAJfzp"
+      },
+      "artists": [
+        {
+          "name": "Theo Rubia",
+          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330220,
+      "name": "Peregrino - Ao vivo",
+      "url": "https://open.spotify.com/track/6mZHLbLETZx72TrAZSjmJv"
     },
     {
       "album": {

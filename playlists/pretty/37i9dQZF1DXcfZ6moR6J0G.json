@@ -1,6 +1,6 @@
 {
   "description": "It's just one of those days...",
-  "num_followers": 1893829,
+  "num_followers": 1894128,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-06-13 12:44:43",
       "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 223893,
-      "name": "7 Words",
-      "url": "https://open.spotify.com/track/6DoXuH326aAYEN8CnlLmhP"
-    },
-    {
-      "added_at": "2024-06-13 12:44:43",
-      "album": {
         "name": "Steal This Album!",
         "url": "https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 188600,
       "name": "I-E-A-I-A-I-O",
       "url": "https://open.spotify.com/track/3RgDvs9Jpvn3kUuaTek1R5"
+    },
+    {
+      "added_at": "2024-06-13 12:44:43",
+      "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 223893,
+      "name": "7 Words",
+      "url": "https://open.spotify.com/track/6DoXuH326aAYEN8CnlLmhP"
     },
     {
       "added_at": "2024-06-13 12:44:43",
@@ -980,9 +980,9 @@
           "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
         }
       ],
-      "duration_ms": 191360,
-      "name": "A Certain Shade of Green",
-      "url": "https://open.spotify.com/track/2e3BZM6rOrUpF0SvvhV8WR"
+      "duration_ms": 193200,
+      "name": "Vitamin",
+      "url": "https://open.spotify.com/track/7fceKgGxIE3s6yGZ0vduQa"
     },
     {
       "added_at": "2024-06-13 12:44:43",
@@ -1140,9 +1140,9 @@
           "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
         }
       ],
-      "duration_ms": 193200,
-      "name": "Vitamin",
-      "url": "https://open.spotify.com/track/7fceKgGxIE3s6yGZ0vduQa"
+      "duration_ms": 191360,
+      "name": "A Certain Shade of Green",
+      "url": "https://open.spotify.com/track/2e3BZM6rOrUpF0SvvhV8WR"
     },
     {
       "added_at": "2024-06-13 12:44:43",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-06-13 12:44:43",
       "album": {
-        "name": "Best Of (Chapter One 1997-2004)",
-        "url": "https://open.spotify.com/album/0YIzJF9rLdrK9KzADZjYVe"
-      },
-      "artists": [
-        {
-          "name": "Sevendust",
-          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
-        }
-      ],
-      "duration_ms": 258426,
-      "name": "Denial",
-      "url": "https://open.spotify.com/track/12nGRgtkjrqb3mvsEp4yKj"
-    },
-    {
-      "added_at": "2024-06-13 12:44:43",
-      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/5QVIcWwkQXJ6vwbQDikZrl"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 192213,
       "name": "Pitiful",
       "url": "https://open.spotify.com/track/1TTOAw90zzNWKnUgzzcvZW"
+    },
+    {
+      "added_at": "2024-06-13 12:44:43",
+      "album": {
+        "name": "Best Of (Chapter One 1997-2004)",
+        "url": "https://open.spotify.com/album/0YIzJF9rLdrK9KzADZjYVe"
+      },
+      "artists": [
+        {
+          "name": "Sevendust",
+          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
+        }
+      ],
+      "duration_ms": 258426,
+      "name": "Denial",
+      "url": "https://open.spotify.com/track/12nGRgtkjrqb3mvsEp4yKj"
     },
     {
       "added_at": "2024-06-13 12:44:43",

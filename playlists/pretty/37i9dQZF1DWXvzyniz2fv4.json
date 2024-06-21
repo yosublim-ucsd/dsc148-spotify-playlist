@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 157865,
+  "num_followers": 157874,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -471,18 +471,22 @@
     {
       "added_at": "2024-06-14 03:01:00",
       "album": {
-        "name": "De Longe. (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5NvT1OChf8aYyglBqfsptk"
+        "name": "Me Diz",
+        "url": "https://open.spotify.com/album/1JbWAwjKBIMADDcH9Xgk3P"
       },
       "artists": [
         {
-          "name": "Haikaiss",
-          "url": "https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb"
+          "name": "Fam\u00edlia Mad\u00e1",
+          "url": "https://open.spotify.com/artist/7ChygUWxLcKr1ZVd7fBdVw"
+        },
+        {
+          "name": "Modestto",
+          "url": "https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd"
         }
       ],
-      "duration_ms": 206549,
-      "name": "De Longe. - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1RSdTzKm5vE3ELZPwbTbuQ"
+      "duration_ms": 161022,
+      "name": "Me Diz",
+      "url": "https://open.spotify.com/track/7BCBv9I6K5QbYiuYy9Vz5n"
     },
     {
       "added_at": "2024-06-14 03:01:00",
@@ -507,6 +511,22 @@
       "duration_ms": 150000,
       "name": "Ibiza",
       "url": "https://open.spotify.com/track/0iqMxa5BrNSP4ogxOwwqIK"
+    },
+    {
+      "added_at": "2024-06-14 03:01:00",
+      "album": {
+        "name": "De Longe. (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5NvT1OChf8aYyglBqfsptk"
+      },
+      "artists": [
+        {
+          "name": "Haikaiss",
+          "url": "https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb"
+        }
+      ],
+      "duration_ms": 206549,
+      "name": "De Longe. - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1RSdTzKm5vE3ELZPwbTbuQ"
     },
     {
       "added_at": "2024-06-14 03:01:00",
@@ -575,26 +595,6 @@
       "duration_ms": 231529,
       "name": "Falar de Amor",
       "url": "https://open.spotify.com/track/6jkqFX0JprURdUqSkWmUgK"
-    },
-    {
-      "added_at": "2024-06-14 03:01:00",
-      "album": {
-        "name": "Me Diz",
-        "url": "https://open.spotify.com/album/1JbWAwjKBIMADDcH9Xgk3P"
-      },
-      "artists": [
-        {
-          "name": "Fam\u00edlia Mad\u00e1",
-          "url": "https://open.spotify.com/artist/7ChygUWxLcKr1ZVd7fBdVw"
-        },
-        {
-          "name": "Modestto",
-          "url": "https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd"
-        }
-      ],
-      "duration_ms": 161022,
-      "name": "Me Diz",
-      "url": "https://open.spotify.com/track/7BCBv9I6K5QbYiuYy9Vz5n"
     },
     {
       "added_at": "2024-06-14 03:01:00",
@@ -743,30 +743,6 @@
     {
       "added_at": "2024-06-14 03:01:00",
       "album": {
-        "name": "Ela \u00c9 Um V\u00edcio",
-        "url": "https://open.spotify.com/album/53fQ4HgmJBcrmjxC6z9NYJ"
-      },
-      "artists": [
-        {
-          "name": "Flay",
-          "url": "https://open.spotify.com/artist/7aaNhMElpyzTnU2LgccyR3"
-        },
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "DJ Glenner",
-          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Ela \u00c9 Um V\u00edcio",
-      "url": "https://open.spotify.com/track/4rn4T3egGnLa8i7TsKaozp"
-    },
-    {
-      "added_at": "2024-06-14 03:01:00",
-      "album": {
         "name": "Alta Defini\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4pJDsHvG7lWdavLkKhw5B6"
       },
@@ -787,6 +763,30 @@
       "duration_ms": 123380,
       "name": "Alta Defini\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/4ohGvOx61aiTYyrkLh687P"
+    },
+    {
+      "added_at": "2024-06-14 03:01:00",
+      "album": {
+        "name": "Ela \u00c9 Um V\u00edcio",
+        "url": "https://open.spotify.com/album/53fQ4HgmJBcrmjxC6z9NYJ"
+      },
+      "artists": [
+        {
+          "name": "Flay",
+          "url": "https://open.spotify.com/artist/7aaNhMElpyzTnU2LgccyR3"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Ela \u00c9 Um V\u00edcio",
+      "url": "https://open.spotify.com/track/4rn4T3egGnLa8i7TsKaozp"
     },
     {
       "added_at": "2024-06-14 03:01:00",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2024-06-14 03:01:00",
       "album": {
+        "name": "Doses",
+        "url": "https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd"
+      },
+      "artists": [
+        {
+          "name": "K.E",
+          "url": "https://open.spotify.com/artist/1bxL9qRsUIjE58sHjj9FzI"
+        }
+      ],
+      "duration_ms": 206210,
+      "name": "Doses",
+      "url": "https://open.spotify.com/track/6wlLKk88zURUCDZqKwwqFr"
+    },
+    {
+      "added_at": "2024-06-14 03:01:00",
+      "album": {
         "name": "Girl From Ipanema",
         "url": "https://open.spotify.com/album/5KmgelwwyTOIP93hJwqt7T"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 209770,
       "name": "Girl From Ipanema",
       "url": "https://open.spotify.com/track/7ysU8N5QdUZNFzkuQhDpV4"
-    },
-    {
-      "added_at": "2024-06-14 03:01:00",
-      "album": {
-        "name": "Doses",
-        "url": "https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd"
-      },
-      "artists": [
-        {
-          "name": "K.E",
-          "url": "https://open.spotify.com/artist/1bxL9qRsUIjE58sHjj9FzI"
-        }
-      ],
-      "duration_ms": 206210,
-      "name": "Doses",
-      "url": "https://open.spotify.com/track/6wlLKk88zURUCDZqKwwqFr"
     },
     {
       "added_at": "2024-06-14 03:01:00",
@@ -1383,6 +1383,26 @@
     {
       "added_at": "2024-06-14 03:01:00",
       "album": {
+        "name": "Mais uma Chance",
+        "url": "https://open.spotify.com/album/28jyVUfpa6fxNk2pToC92M"
+      },
+      "artists": [
+        {
+          "name": "Buia Kalunga",
+          "url": "https://open.spotify.com/artist/5p4CIQBC5IfTxV8HLIIHq3"
+        },
+        {
+          "name": "Macaia",
+          "url": "https://open.spotify.com/artist/3B2EYNLazFL31hMcM44lEV"
+        }
+      ],
+      "duration_ms": 183700,
+      "name": "Mais uma Chance",
+      "url": "https://open.spotify.com/track/7n3aPIJq9ZxTyAOEg85hf8"
+    },
+    {
+      "added_at": "2024-06-14 03:01:00",
+      "album": {
         "name": "Elementar",
         "url": "https://open.spotify.com/album/5ovrFL7jWNeZo4G60HlOAq"
       },
@@ -1407,26 +1427,6 @@
     {
       "added_at": "2024-06-14 03:01:00",
       "album": {
-        "name": "Mais uma Chance",
-        "url": "https://open.spotify.com/album/28jyVUfpa6fxNk2pToC92M"
-      },
-      "artists": [
-        {
-          "name": "Buia Kalunga",
-          "url": "https://open.spotify.com/artist/5p4CIQBC5IfTxV8HLIIHq3"
-        },
-        {
-          "name": "Macaia",
-          "url": "https://open.spotify.com/artist/3B2EYNLazFL31hMcM44lEV"
-        }
-      ],
-      "duration_ms": 183700,
-      "name": "Mais uma Chance",
-      "url": "https://open.spotify.com/track/7n3aPIJq9ZxTyAOEg85hf8"
-    },
-    {
-      "added_at": "2024-06-14 03:01:00",
-      "album": {
         "name": "Vento Bom",
         "url": "https://open.spotify.com/album/2h0iw6R2fq3xCWDQvmIS1l"
       },
@@ -1443,22 +1443,6 @@
       "duration_ms": 169409,
       "name": "Vento Bom",
       "url": "https://open.spotify.com/track/3TstCrqLn3542vXjNKCpV2"
-    },
-    {
-      "added_at": "2024-06-14 03:01:00",
-      "album": {
-        "name": "Sabe Qual \u00c9",
-        "url": "https://open.spotify.com/album/0pOetxYIZaNrd3Xdewp9Fd"
-      },
-      "artists": [
-        {
-          "name": "Nathan",
-          "url": "https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA"
-        }
-      ],
-      "duration_ms": 150361,
-      "name": "Sabe Qual \u00c9",
-      "url": "https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe"
     },
     {
       "added_at": "2024-06-14 03:01:00",
@@ -1491,6 +1475,22 @@
     {
       "added_at": "2024-06-14 03:01:00",
       "album": {
+        "name": "Sabe Qual \u00c9",
+        "url": "https://open.spotify.com/album/0pOetxYIZaNrd3Xdewp9Fd"
+      },
+      "artists": [
+        {
+          "name": "Nathan",
+          "url": "https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA"
+        }
+      ],
+      "duration_ms": 150361,
+      "name": "Sabe Qual \u00c9",
+      "url": "https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe"
+    },
+    {
+      "added_at": "2024-06-14 03:01:00",
+      "album": {
         "name": "Stories",
         "url": "https://open.spotify.com/album/6bWqWfQkNVdcfzoCWTll2R"
       },
@@ -1503,6 +1503,22 @@
       "duration_ms": 128000,
       "name": "Stories",
       "url": "https://open.spotify.com/track/0ooXXsObAmmfgYEB9dlIdc"
+    },
+    {
+      "added_at": "2024-06-14 03:01:00",
+      "album": {
+        "name": "Qualquer Maneira",
+        "url": "https://open.spotify.com/album/7j1DUPvd4pw2Z6uI3QJj7r"
+      },
+      "artists": [
+        {
+          "name": "Inc\u00f3gnito",
+          "url": "https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8"
+        }
+      ],
+      "duration_ms": 331054,
+      "name": "Qualquer Maneira",
+      "url": "https://open.spotify.com/track/4OuOPF6CxMSUTXCuKhwKZT"
     },
     {
       "added_at": "2024-06-14 03:01:00",
@@ -1527,18 +1543,18 @@
     {
       "added_at": "2024-06-14 03:01:00",
       "album": {
-        "name": "Qualquer Maneira",
-        "url": "https://open.spotify.com/album/7j1DUPvd4pw2Z6uI3QJj7r"
+        "name": "Minha Mina \u00e9 Braba",
+        "url": "https://open.spotify.com/album/6mtPlDFW6xquEHzgIICgx6"
       },
       "artists": [
         {
-          "name": "Inc\u00f3gnito",
-          "url": "https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8"
+          "name": "Mun-Ra",
+          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
         }
       ],
-      "duration_ms": 331054,
-      "name": "Qualquer Maneira",
-      "url": "https://open.spotify.com/track/4OuOPF6CxMSUTXCuKhwKZT"
+      "duration_ms": 126857,
+      "name": "Minha Mina \u00e9 Braba",
+      "url": "https://open.spotify.com/track/34D1cEXeYGBl53uRSJTywU"
     },
     {
       "added_at": "2024-06-14 03:01:00",
@@ -1579,34 +1595,6 @@
     {
       "added_at": "2024-06-14 03:01:00",
       "album": {
-        "name": "Olha esse mar",
-        "url": "https://open.spotify.com/album/6NTdLGZVkZMakGaRXbLMEj"
-      },
-      "artists": [
-        {
-          "name": "Mc Luki",
-          "url": "https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn"
-        },
-        {
-          "name": "MC Bruno MS",
-          "url": "https://open.spotify.com/artist/7IOSPo9oGCLWtDEZtmxgTi"
-        },
-        {
-          "name": "Dodida",
-          "url": "https://open.spotify.com/artist/3WX3OGPYDIf4m5hFcDSFwU"
-        },
-        {
-          "name": "Mc Leleh",
-          "url": "https://open.spotify.com/artist/1dph6czp8F63wsX5BfYg4S"
-        }
-      ],
-      "duration_ms": 245933,
-      "name": "Olha esse mar",
-      "url": "https://open.spotify.com/track/4YHDclUZsRrP9G5Hq27j5v"
-    },
-    {
-      "added_at": "2024-06-14 03:01:00",
-      "album": {
         "name": "Puro Suco Stronda",
         "url": "https://open.spotify.com/album/3uihtsjHXuNvtqM30f4UIa"
       },
@@ -1639,6 +1627,34 @@
       "duration_ms": 164713,
       "name": "Lua",
       "url": "https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg"
+    },
+    {
+      "added_at": "2024-06-14 03:01:00",
+      "album": {
+        "name": "Olha esse mar",
+        "url": "https://open.spotify.com/album/6NTdLGZVkZMakGaRXbLMEj"
+      },
+      "artists": [
+        {
+          "name": "Mc Luki",
+          "url": "https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn"
+        },
+        {
+          "name": "MC Bruno MS",
+          "url": "https://open.spotify.com/artist/7IOSPo9oGCLWtDEZtmxgTi"
+        },
+        {
+          "name": "Dodida",
+          "url": "https://open.spotify.com/artist/3WX3OGPYDIf4m5hFcDSFwU"
+        },
+        {
+          "name": "Mc Leleh",
+          "url": "https://open.spotify.com/artist/1dph6czp8F63wsX5BfYg4S"
+        }
+      ],
+      "duration_ms": 245933,
+      "name": "Olha esse mar",
+      "url": "https://open.spotify.com/track/4YHDclUZsRrP9G5Hq27j5v"
     },
     {
       "added_at": "2024-06-14 03:01:00",
@@ -1695,30 +1711,6 @@
       "duration_ms": 232000,
       "name": "Interfone",
       "url": "https://open.spotify.com/track/2BKAS8KxZW3AlAqHzFjACm"
-    },
-    {
-      "added_at": "2024-06-14 03:01:00",
-      "album": {
-        "name": "Meia Hora",
-        "url": "https://open.spotify.com/album/52qm3IpAljp44LW5m5TSwV"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Saffi",
-          "url": "https://open.spotify.com/artist/2CFXlx3qilobAs8x2acmIe"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        },
-        {
-          "name": "NOX",
-          "url": "https://open.spotify.com/artist/3F6j9XVtOIZaGCJAGNxOXO"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Meia Hora",
-      "url": "https://open.spotify.com/track/44CISsYXSoA1BYfLxe7vJZ"
     }
   ],
   "unique_name": "Resenha na Praia",

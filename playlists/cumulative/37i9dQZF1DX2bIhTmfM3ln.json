@@ -623,6 +623,28 @@
     },
     {
       "album": {
+        "name": "Angie Riddim",
+        "url": "https://open.spotify.com/album/7AZXhVJHF6ooCIG6sJbH1T"
+      },
+      "artists": [
+        {
+          "name": "Ay\u00fc\u00fc",
+          "url": "https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7"
+        },
+        {
+          "name": "svndaypack",
+          "url": "https://open.spotify.com/artist/2MhOafEXdLSXZ9aV07o4lh"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Angie Riddim",
+      "url": "https://open.spotify.com/track/7vK6MUFKqhzVdEMPANzHWE"
+    },
+    {
+      "album": {
         "name": "Anogo",
         "url": "https://open.spotify.com/album/09SRcm2Hxpmf2N9zRFouhT"
       },
@@ -2364,7 +2386,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 167755,
       "name": "Dalilah",
       "url": "https://open.spotify.com/track/22xDZE9YEZ2W0f19rVb5Gy"
@@ -4543,6 +4565,24 @@
     },
     {
       "album": {
+        "name": "Talking Stage",
+        "url": "https://open.spotify.com/album/7amAMf39Lmaha8xFfj67Cr"
+      },
+      "artists": [
+        {
+          "name": "Jinmi Abduls",
+          "url": "https://open.spotify.com/artist/22t8cDfMqrZPXSgepZNY4W"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Ilashe",
+      "url": "https://open.spotify.com/track/2oAPDAFs2RcNiHplulMB0N"
+    },
+    {
+      "album": {
         "name": "RnB",
         "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
       },
@@ -4624,7 +4664,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 177692,
       "name": "IN MY HEAD",
       "url": "https://open.spotify.com/track/7AoQcUEi2ZzF6vOrutcoZU"
@@ -6053,7 +6093,7 @@
       "artists": [
         {
           "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+          "url": "https://open.spotify.com/artist/21cWOgbAzKGuc4iT4GKKhU"
         }
       ],
       "date_added": "2023-10-27",
@@ -7713,6 +7753,24 @@
     },
     {
       "album": {
+        "name": "In Her Thoughts",
+        "url": "https://open.spotify.com/album/7eXEtX7iQ1oJ9Ngs7xYMkx"
+      },
+      "artists": [
+        {
+          "name": "T'neeya",
+          "url": "https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193846,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/1gMaklshAS3EUz2uhqfx8H"
+    },
+    {
+      "album": {
         "name": "Overdose",
         "url": "https://open.spotify.com/album/0FGgJfORdO1LVkLnD8b760"
       },
@@ -7992,7 +8050,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 133565,
       "name": "Pepe",
       "url": "https://open.spotify.com/track/1F6j0Av7r5UfFNJlSt5hAk"

@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Stemlines on cover. Artwork by Thami Nabil",
-  "num_followers": 163747,
+  "num_followers": 163813,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -817,6 +817,22 @@
       "url": "https://open.spotify.com/track/2YvuaFepDHElKAuZtmjYSB"
     },
     {
+      "added_at": "2024-04-17 04:00:00",
+      "album": {
+        "name": "INVERTIDO",
+        "url": "https://open.spotify.com/album/0Dl0UZR66m6XsLPv2gpGuB"
+      },
+      "artists": [
+        {
+          "name": "Marianne",
+          "url": "https://open.spotify.com/artist/1dGNGqFBACsTB9ctNTUOme"
+        }
+      ],
+      "duration_ms": 293370,
+      "name": "VOAR",
+      "url": "https://open.spotify.com/track/4XDTVhCmOlZl23aRl7PiJr"
+    },
+    {
       "added_at": "2024-05-29 02:04:24",
       "album": {
         "name": "Un Sasso Nero",
@@ -847,22 +863,6 @@
       "duration_ms": 177249,
       "name": "pie \u6279",
       "url": "https://open.spotify.com/track/6y73duDBzv8EjPnXotDTAK"
-    },
-    {
-      "added_at": "2024-04-17 04:00:00",
-      "album": {
-        "name": "INVERTIDO",
-        "url": "https://open.spotify.com/album/0Dl0UZR66m6XsLPv2gpGuB"
-      },
-      "artists": [
-        {
-          "name": "Marianne",
-          "url": "https://open.spotify.com/artist/1dGNGqFBACsTB9ctNTUOme"
-        }
-      ],
-      "duration_ms": 293370,
-      "name": "VOAR",
-      "url": "https://open.spotify.com/track/4XDTVhCmOlZl23aRl7PiJr"
     },
     {
       "added_at": "2024-01-24 03:58:32",
@@ -929,22 +929,6 @@
       "url": "https://open.spotify.com/track/6kuH2iKoD1vIhTy7uoOC33"
     },
     {
-      "added_at": "2024-05-08 03:43:46",
-      "album": {
-        "name": "the mould",
-        "url": "https://open.spotify.com/album/03WZKJv7yuVrpUxbIleIco"
-      },
-      "artists": [
-        {
-          "name": "mui zyu",
-          "url": "https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w"
-        }
-      ],
-      "duration_ms": 141960,
-      "name": "the mould",
-      "url": "https://open.spotify.com/track/3JrB4axmp1RRQrTJQ06cSw"
-    },
-    {
       "added_at": "2024-04-03 15:21:45",
       "album": {
         "name": "Are You There God? It\u2019s Me, @",
@@ -959,6 +943,22 @@
       "duration_ms": 194200,
       "name": "Processional",
       "url": "https://open.spotify.com/track/4M8Wki6etujAJFSRau8OWC"
+    },
+    {
+      "added_at": "2024-05-08 03:43:46",
+      "album": {
+        "name": "the mould",
+        "url": "https://open.spotify.com/album/03WZKJv7yuVrpUxbIleIco"
+      },
+      "artists": [
+        {
+          "name": "mui zyu",
+          "url": "https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w"
+        }
+      ],
+      "duration_ms": 141960,
+      "name": "the mould",
+      "url": "https://open.spotify.com/track/3JrB4axmp1RRQrTJQ06cSw"
     },
     {
       "added_at": "2024-05-29 02:04:24",
@@ -1029,22 +1029,6 @@
       "url": "https://open.spotify.com/track/3MAmbpBgfYnOkaw0i8IF8A"
     },
     {
-      "added_at": "2024-05-29 02:04:24",
-      "album": {
-        "name": "\u305d\u306e\u524d\u591c",
-        "url": "https://open.spotify.com/album/0Hli1pRq11bDnu31ujJRmm"
-      },
-      "artists": [
-        {
-          "name": "The Wisely Brothers",
-          "url": "https://open.spotify.com/artist/11Cpz0a2etAGYbvCW6xLmb"
-        }
-      ],
-      "duration_ms": 136905,
-      "name": "clarinette de nuit",
-      "url": "https://open.spotify.com/track/22wysfy62hRd2cH3DYvkSa"
-    },
-    {
       "added_at": "2024-03-06 06:00:00",
       "album": {
         "name": "Extinct but Still Alive",
@@ -1061,20 +1045,20 @@
       "url": "https://open.spotify.com/track/0aWLipAcgGmCqDD2pQsCUp"
     },
     {
-      "added_at": "2024-04-17 04:00:00",
+      "added_at": "2024-05-29 02:04:24",
       "album": {
-        "name": "NONAGE",
-        "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
+        "name": "\u305d\u306e\u524d\u591c",
+        "url": "https://open.spotify.com/album/0Hli1pRq11bDnu31ujJRmm"
       },
       "artists": [
         {
-          "name": "LI YILEI",
-          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
+          "name": "The Wisely Brothers",
+          "url": "https://open.spotify.com/artist/11Cpz0a2etAGYbvCW6xLmb"
         }
       ],
-      "duration_ms": 215717,
-      "name": "Pillow, Mantra and Trance",
-      "url": "https://open.spotify.com/track/4AX795lUNQjM1TcjdRDXh8"
+      "duration_ms": 136905,
+      "name": "clarinette de nuit",
+      "url": "https://open.spotify.com/track/22wysfy62hRd2cH3DYvkSa"
     },
     {
       "added_at": "2024-04-03 15:21:45",
@@ -1093,6 +1077,22 @@
       "url": "https://open.spotify.com/track/4lNLdVzSRXbCHvH9UdAJgo"
     },
     {
+      "added_at": "2024-04-17 04:00:00",
+      "album": {
+        "name": "NONAGE",
+        "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
+      },
+      "artists": [
+        {
+          "name": "LI YILEI",
+          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
+        }
+      ],
+      "duration_ms": 215717,
+      "name": "Pillow, Mantra and Trance",
+      "url": "https://open.spotify.com/track/4AX795lUNQjM1TcjdRDXh8"
+    },
+    {
       "added_at": "2024-03-06 06:00:00",
       "album": {
         "name": "Us, In Between The Blinded",
@@ -1107,6 +1107,22 @@
       "duration_ms": 157646,
       "name": "Virtual Forrest",
       "url": "https://open.spotify.com/track/6PpJalnvzcDyktxXalhaU4"
+    },
+    {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "The Bloodwren pt. II",
+        "url": "https://open.spotify.com/album/1Tc8SGlaDltVNRgU80EjsF"
+      },
+      "artists": [
+        {
+          "name": "Ceiling Spirits",
+          "url": "https://open.spotify.com/artist/49k2eYCb3x1hQm4Fbu74DB"
+        }
+      ],
+      "duration_ms": 496300,
+      "name": "The Bloodwren pt. II",
+      "url": "https://open.spotify.com/track/7bTVWXk2jJUipSfGaSZG8b"
     },
     {
       "added_at": "2024-05-08 03:43:46",
@@ -1125,6 +1141,22 @@
       "url": "https://open.spotify.com/track/7tzDwhlzkamwtbHFXLzmOV"
     },
     {
+      "added_at": "2024-03-13 03:47:45",
+      "album": {
+        "name": "Kalma Meli Melo",
+        "url": "https://open.spotify.com/album/4U3bpg7JAD4k6hnORaIDRq"
+      },
+      "artists": [
+        {
+          "name": "Ariel Kalma",
+          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
+        }
+      ],
+      "duration_ms": 1202372,
+      "name": "Breathing Flute 88",
+      "url": "https://open.spotify.com/track/2Y0qwp0ZwO9bTLjFLrddQp"
+    },
+    {
       "added_at": "2024-03-06 06:00:00",
       "album": {
         "name": "Soy Sauce",
@@ -1141,20 +1173,20 @@
       "url": "https://open.spotify.com/track/3NpUOvq2too7UVtt1yJXSM"
     },
     {
-      "added_at": "2024-03-13 03:47:45",
+      "added_at": "2024-03-06 06:00:00",
       "album": {
-        "name": "Kalma Meli Melo",
-        "url": "https://open.spotify.com/album/4U3bpg7JAD4k6hnORaIDRq"
+        "name": "onomatopoeia",
+        "url": "https://open.spotify.com/album/0lQlAKOAhIy3F5DXIbilmq"
       },
       "artists": [
         {
-          "name": "Ariel Kalma",
-          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
+          "name": "J. Albert",
+          "url": "https://open.spotify.com/artist/0tjC8HMcPx5o2ZYsWw5BNK"
         }
       ],
-      "duration_ms": 1202372,
-      "name": "Breathing Flute 88",
-      "url": "https://open.spotify.com/track/2Y0qwp0ZwO9bTLjFLrddQp"
+      "duration_ms": 269812,
+      "name": "tdU_du_tdu_tdu",
+      "url": "https://open.spotify.com/track/5CUYz3REql8VAN2FkrXq0t"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -1181,22 +1213,6 @@
       "url": "https://open.spotify.com/track/1qIbIW1dPNEIB8enJh9QwD"
     },
     {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "onomatopoeia",
-        "url": "https://open.spotify.com/album/0lQlAKOAhIy3F5DXIbilmq"
-      },
-      "artists": [
-        {
-          "name": "J. Albert",
-          "url": "https://open.spotify.com/artist/0tjC8HMcPx5o2ZYsWw5BNK"
-        }
-      ],
-      "duration_ms": 269812,
-      "name": "tdU_du_tdu_tdu",
-      "url": "https://open.spotify.com/track/5CUYz3REql8VAN2FkrXq0t"
-    },
-    {
       "added_at": "2024-01-24 03:58:32",
       "album": {
         "name": "Sweat",
@@ -1211,22 +1227,6 @@
       "duration_ms": 173525,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/4qT64OAfg7BMxDPX1sEo2T"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "The Bloodwren pt. II",
-        "url": "https://open.spotify.com/album/1Tc8SGlaDltVNRgU80EjsF"
-      },
-      "artists": [
-        {
-          "name": "Ceiling Spirits",
-          "url": "https://open.spotify.com/artist/49k2eYCb3x1hQm4Fbu74DB"
-        }
-      ],
-      "duration_ms": 496300,
-      "name": "The Bloodwren pt. II",
-      "url": "https://open.spotify.com/track/7bTVWXk2jJUipSfGaSZG8b"
     },
     {
       "added_at": "2024-05-08 03:43:46",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-03-06 06:00:00",
       "album": {
-        "name": "The 39 Steps",
-        "url": "https://open.spotify.com/album/7x8Ns03P8iMwlnwkKJmk06"
-      },
-      "artists": [
-        {
-          "name": "Amina Cyu",
-          "url": "https://open.spotify.com/artist/5pa6S3obvyRI66y4II5WD4"
-        }
-      ],
-      "duration_ms": 288509,
-      "name": "Medio Viva",
-      "url": "https://open.spotify.com/track/6fgq7eXGRDQY5ZI0sQN6sD"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
         "name": "\u3042\u306a\u305f\u306e\u9aa8\u304c\u3001\u30aa\u30d1\u30fc\u30eb\u306b\u304b\u308f\u308b\u9803",
         "url": "https://open.spotify.com/album/4tYdfajjjVCRxPWGZSnSOY"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 224022,
       "name": "\u80ce\u76e4 (feat. Salyu, Magn\u00fas J\u00f3hann, Siggi String Quartet)",
       "url": "https://open.spotify.com/track/3T42zYzfImtTxNdep9QS06"
+    },
+    {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "The 39 Steps",
+        "url": "https://open.spotify.com/album/7x8Ns03P8iMwlnwkKJmk06"
+      },
+      "artists": [
+        {
+          "name": "Amina Cyu",
+          "url": "https://open.spotify.com/artist/5pa6S3obvyRI66y4II5WD4"
+        }
+      ],
+      "duration_ms": 288509,
+      "name": "Medio Viva",
+      "url": "https://open.spotify.com/track/6fgq7eXGRDQY5ZI0sQN6sD"
     },
     {
       "added_at": "2024-04-17 04:00:00",

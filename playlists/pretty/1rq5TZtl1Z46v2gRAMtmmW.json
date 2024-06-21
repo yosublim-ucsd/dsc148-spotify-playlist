@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 29824,
+  "num_followers": 29830,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAAO2wIEuJS9YJAuTQ/6Jbib/XTM/J3i",
+  "snapshot_id": "AAAO5LGFA4UvHoIkVFnczDopMu3gruBt",
   "tracks": [
     {
       "added_at": "2024-02-20 17:59:46",
@@ -23,6 +23,42 @@
       "duration_ms": 201339,
       "name": "Mahal",
       "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
+    },
+    {
+      "added_at": "2024-06-20 17:13:04",
+      "album": {
+        "name": "luv stuck",
+        "url": "https://open.spotify.com/album/3X9OuVXE4JevSJTGAG1sg5"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        }
+      ],
+      "duration_ms": 160440,
+      "name": "luv stuck",
+      "url": "https://open.spotify.com/track/6IVLo37kObJF38G7LaJUnt"
+    },
+    {
+      "added_at": "2024-06-20 17:13:18",
+      "album": {
+        "name": "If We Only Knew (From the Documentary Film \"Blue Carbon\u201d)",
+        "url": "https://open.spotify.com/album/0RKMHWmW6g5JZWZnvW2a4f"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "If We Only Knew (From the Documentary Film \"Blue Carbon\u201d)",
+      "url": "https://open.spotify.com/track/56DNY0mhdCjbZihfRRPUEi"
     },
     {
       "added_at": "2024-06-18 10:50:14",
@@ -59,6 +95,22 @@
       "duration_ms": 231708,
       "name": "Method Actor",
       "url": "https://open.spotify.com/track/6I9GeNnqNqQ5Q8DSrFkkvd"
+    },
+    {
+      "added_at": "2024-06-20 17:12:52",
+      "album": {
+        "name": "Faust",
+        "url": "https://open.spotify.com/album/1hQzzeC9dpnh7HU29ipXRd"
+      },
+      "artists": [
+        {
+          "name": "Kit Sebastian",
+          "url": "https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY"
+        }
+      ],
+      "duration_ms": 270250,
+      "name": "Faust",
+      "url": "https://open.spotify.com/track/1S2sO3ExZiT35UOAb9AIQs"
     },
     {
       "added_at": "2024-06-19 16:41:04",
@@ -703,54 +755,6 @@
       "duration_ms": 161840,
       "name": "ILIKEU",
       "url": "https://open.spotify.com/track/5bp8cOT9xug35hnhZgW9d7"
-    },
-    {
-      "added_at": "2024-04-10 13:45:55",
-      "album": {
-        "name": "rimel",
-        "url": "https://open.spotify.com/album/31ZRBdyg1FQr7164MDDoTA"
-      },
-      "artists": [
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        }
-      ],
-      "duration_ms": 126066,
-      "name": "rimel",
-      "url": "https://open.spotify.com/track/0SURLSvwJxHyNRCXyZjNS3"
-    },
-    {
-      "added_at": "2024-04-08 10:03:20",
-      "album": {
-        "name": "me and all my niggas",
-        "url": "https://open.spotify.com/album/41k4Tf1ig86lbYzIK710T0"
-      },
-      "artists": [
-        {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        }
-      ],
-      "duration_ms": 114698,
-      "name": "me and all my niggas",
-      "url": "https://open.spotify.com/track/1V5LZEDXnCctyA2G4NNjsg"
-    },
-    {
-      "added_at": "2024-04-09 15:03:24",
-      "album": {
-        "name": "Round n Round",
-        "url": "https://open.spotify.com/album/47XFxbR2CJp4fLPnhf3Tfr"
-      },
-      "artists": [
-        {
-          "name": "I. JORDAN",
-          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
-        }
-      ],
-      "duration_ms": 310185,
-      "name": "Round n Round",
-      "url": "https://open.spotify.com/track/7EovTzlTgRD6MdprArq80m"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",

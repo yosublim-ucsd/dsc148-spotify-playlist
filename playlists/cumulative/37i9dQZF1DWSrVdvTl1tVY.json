@@ -697,6 +697,28 @@
     },
     {
       "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/0l5X2a4ZcDNeu7EbCax7zS"
+      },
+      "artists": [
+        {
+          "name": "lau.ra",
+          "url": "https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn"
+        },
+        {
+          "name": "Nova Newland",
+          "url": "https://open.spotify.com/artist/3COQ9U5yZEFb1qzz3aBw1I"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/4zGVKmHy4MR65vPCrIjLkU"
+    },
+    {
+      "album": {
         "name": "Anthem",
         "url": "https://open.spotify.com/album/6Syz5BAAt7sDWPKUSRVP7T"
       },
@@ -1354,7 +1376,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 186562,
       "name": "Better World",
       "url": "https://open.spotify.com/track/6OcuhfJvy3rZZIaLeDxlcW"
@@ -1782,6 +1804,24 @@
       "duration_ms": 173966,
       "name": "Both",
       "url": "https://open.spotify.com/track/56rBmhBdKxLsFpfkMqRz5G"
+    },
+    {
+      "album": {
+        "name": "Bounce",
+        "url": "https://open.spotify.com/album/2tHX4AWv7i9HaxJ3n37PkQ"
+      },
+      "artists": [
+        {
+          "name": "Djammin",
+          "url": "https://open.spotify.com/artist/4jilFXy7RGLxKG6C1oju57"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263076,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/3DLx0qCFOFwlSjSvHi96hF"
     },
     {
       "album": {
@@ -4685,6 +4725,24 @@
     },
     {
       "album": {
+        "name": "Favourite",
+        "url": "https://open.spotify.com/album/0F9gyNzudwv0Ku7KocMrBJ"
+      },
+      "artists": [
+        {
+          "name": "TCTS",
+          "url": "https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Favourite",
+      "url": "https://open.spotify.com/track/4YVlTrgo8NNieWgniXCygP"
+    },
+    {
+      "album": {
         "name": "Feel About You",
         "url": "https://open.spotify.com/album/4ayRWDN5iFDDREGmIQMb6d"
       },
@@ -5786,7 +5844,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 360000,
       "name": "Give Me The Rhythm",
       "url": "https://open.spotify.com/track/3cvjFp5DZhBgRtngTmSTDV"
@@ -6382,7 +6440,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 149528,
       "name": "Hey Hey - Jack Back Remix",
       "url": "https://open.spotify.com/track/1MLxfMNuBOYnCbZDMhb1Zl"
@@ -9709,6 +9767,24 @@
     },
     {
       "album": {
+        "name": "If You Want My Loving",
+        "url": "https://open.spotify.com/album/7DF7P83D9H9q6e6LXLr5JH"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208814,
+      "name": "Motions",
+      "url": "https://open.spotify.com/track/17uHvLtwD5GefKQECNBUv8"
+    },
+    {
+      "album": {
         "name": "Motivate",
         "url": "https://open.spotify.com/album/25J6q42R7zvRoECkz7PGdj"
       },
@@ -12134,7 +12210,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 164527,
       "name": "Reason",
       "url": "https://open.spotify.com/track/0u83OaBFFfuc4sq4YOUqeI"
@@ -13114,6 +13190,28 @@
       "duration_ms": 188011,
       "name": "She's In The Club (feat. Asal)",
       "url": "https://open.spotify.com/track/7BhjlfNllL8h50DLl5Cd4r"
+    },
+    {
+      "album": {
+        "name": "Shout (Arielle Free Remix)",
+        "url": "https://open.spotify.com/album/7LQ1D7hsss0TMOPAeboQ5P"
+      },
+      "artists": [
+        {
+          "name": "Lulu",
+          "url": "https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ"
+        },
+        {
+          "name": "Arielle Free",
+          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185021,
+      "name": "Shout - Arielle Free Remix / Radio Edit",
+      "url": "https://open.spotify.com/track/4xHP0k7RvIAkVHYyeh583z"
     },
     {
       "album": {
@@ -14608,7 +14706,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 191383,
       "name": "The Afterhours",
       "url": "https://open.spotify.com/track/7mGhqK1VAvlwfCe2ZT5NhT"
@@ -16491,6 +16589,24 @@
     },
     {
       "album": {
+        "name": "The Master\u2019s Plan",
+        "url": "https://open.spotify.com/album/5i96LUJSu8RuoBRNRL1kyK"
+      },
+      "artists": [
+        {
+          "name": "Floorplan",
+          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213337,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/0teQIBf0FA7sIeJumq5UeK"
+    },
+    {
+      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/27sIExXAxl4haMaaAye4wE"
       },
@@ -16586,7 +16702,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 176250,
       "name": "We R Bass",
       "url": "https://open.spotify.com/track/3aVqtzLdnboGMRxngBIKPQ"
@@ -16816,6 +16932,24 @@
       "duration_ms": 166166,
       "name": "Why Don't You Tell Me?",
       "url": "https://open.spotify.com/track/6mxXwwYJ6bw3k3umqlVgkv"
+    },
+    {
+      "album": {
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/7v17GszRHzvgZkn0T4jU1B"
+      },
+      "artists": [
+        {
+          "name": "Hot Since 82",
+          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243776,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/37NIItfko0d1jimEw6xecN"
     },
     {
       "album": {

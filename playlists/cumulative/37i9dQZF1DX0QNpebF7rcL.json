@@ -6709,6 +6709,24 @@
     },
     {
       "album": {
+        "name": "Unfinished Business",
+        "url": "https://open.spotify.com/album/7MaRq0aht9NyYJotzgur8Y"
+      },
+      "artists": [
+        {
+          "name": "Snowy White",
+          "url": "https://open.spotify.com/artist/4DMlDJn7CPSSS0DuUf1vrH"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379472,
+      "name": "Unfinished Business",
+      "url": "https://open.spotify.com/track/6LskEDoruABEzMKHly7D99"
+    },
+    {
+      "album": {
         "name": "Unhinged",
         "url": "https://open.spotify.com/album/1KJO9wzi6ku9ZtnZ4DsXhR"
       },

@@ -4406,7 +4406,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 149052,
       "name": "Casanova",
       "url": "https://open.spotify.com/track/3hIJhEVAMGNKArewusKklB"
@@ -4476,7 +4476,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-20",
+      "date_removed": null,
       "duration_ms": 217816,
       "name": "Centrofuga",
       "url": "https://open.spotify.com/track/1lKpsuiY1GKU0Tj7QE8EWX"
@@ -5530,7 +5530,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 104788,
       "name": "Dalgana Bak",
       "url": "https://open.spotify.com/track/7fi8bfpeXc7rOYQGLYABda"
@@ -8320,7 +8320,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-16",
+      "date_removed": null,
       "duration_ms": 133608,
       "name": "favorite",
       "url": "https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be"
@@ -18132,7 +18132,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 244684,
       "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
@@ -21718,7 +21718,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 123519,
       "name": "Sezen Aksu",
       "url": "https://open.spotify.com/track/0GuWyPyj4MVvT4qYsl6BOS"
@@ -23836,7 +23836,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 183448,
       "name": "Svekarvishte",
       "url": "https://open.spotify.com/track/0F2jva2ZcSCOO2vSua8XH4"
@@ -30402,7 +30402,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-18",
+      "date_removed": null,
       "duration_ms": 190278,
       "name": "\u041b\u0443\u0434\u043d\u0438\u0446\u0430",
       "url": "https://open.spotify.com/track/7bvH7KJOT6tYkUKiNhWRrs"
@@ -30856,7 +30856,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 253000,
       "name": "\u041d\u0430\u0434\u0435\u0436\u0434\u0430",
       "url": "https://open.spotify.com/track/1N0LbbD7X8FBwTuHkHPjvE"
@@ -31152,7 +31152,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 188373,
       "name": "\u041d\u0435\u043f\u043e\u0441\u043b\u0443\u0448\u0435\u043d",
       "url": "https://open.spotify.com/track/7KMmaDOUgX7xg6boaunE6Q"
@@ -32242,7 +32242,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 235384,
       "name": "\u0421\u043f\u0443\u043a\u0438",
       "url": "https://open.spotify.com/track/1DzCI8lUzAYWB9kvlRDZSJ"
@@ -32812,6 +32812,32 @@
       "duration_ms": 295657,
       "name": "\u0427\u0443\u043f\u043a\u0438 \u0432 \u043a\u0440\u044a\u0441\u0442\u0430",
       "url": "https://open.spotify.com/track/3FkA5BCzxB4SeQ7fSzUmJE"
+    },
+    {
+      "album": {
+        "name": "\u0428\u043c\u0435\u043a\u0435\u0440\u0438\u044f",
+        "url": "https://open.spotify.com/album/5VnEl1gYx14hGrh8jyWj8T"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0j6Z5YMSqBePHbPKLQwrcU"
+        },
+        {
+          "name": "Florin Salam",
+          "url": "https://open.spotify.com/artist/6Ujb9g9pljLl91qELsPZYo"
+        },
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5nlhxXs2Lgr8nH98jC26pw"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189333,
+      "name": "\u0428\u043c\u0435\u043a\u0435\u0440\u0438\u044f",
+      "url": "https://open.spotify.com/track/0gzomWkh8Zwba12EmQsNaG"
     },
     {
       "album": {

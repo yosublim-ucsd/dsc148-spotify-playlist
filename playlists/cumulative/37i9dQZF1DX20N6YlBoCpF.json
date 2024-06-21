@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41?si=Qqq3_LTYRHiV5smFQ16rLA\">Franja Du Plessis</a>  ",
+  "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/6GvYG4rpoXG56VwBYbKi6o?si=Z6dAfTXYQ9uT0eN-4Y897w\">Nolene</a>  ",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -3464,6 +3464,24 @@
       "duration_ms": 213507,
       "name": "Die Groot 5",
       "url": "https://open.spotify.com/track/6WxhGhjofeekFGv2cAev2d"
+    },
+    {
+      "album": {
+        "name": "IDENTI\"TYD\"",
+        "url": "https://open.spotify.com/album/0MdIBFm2Dk5zsJTrtmOuSc"
+      },
+      "artists": [
+        {
+          "name": "Bernice West",
+          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172122,
+      "name": "Die Herlewing Is Hier",
+      "url": "https://open.spotify.com/track/2ILX3xAib7hxxzo1SevMpr"
     },
     {
       "album": {
@@ -7719,6 +7737,24 @@
     },
     {
       "album": {
+        "name": "Nuwe Klanke",
+        "url": "https://open.spotify.com/album/0FcPRMhQGkx1T2NzYpRO1a"
+      },
+      "artists": [
+        {
+          "name": "Tino",
+          "url": "https://open.spotify.com/artist/2WPBTmVoNyQTylZiz2zu36"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221500,
+      "name": "Jy",
+      "url": "https://open.spotify.com/track/18tKvzYGatvv5gkqkstXkH"
+    },
+    {
+      "album": {
         "name": "Jy",
         "url": "https://open.spotify.com/album/71C5AuRNIMSBH1Fi5i56ht"
       },
@@ -9486,6 +9522,24 @@
       "duration_ms": 198152,
       "name": "Lawaaiwater",
       "url": "https://open.spotify.com/track/71MTNDn8B3tBr0WVG0Jaj2"
+    },
+    {
+      "album": {
+        "name": "Leeuloop 2024",
+        "url": "https://open.spotify.com/album/7Je5VuO1qFFpSRFgFjMnhr"
+      },
+      "artists": [
+        {
+          "name": "Robbie Wessels",
+          "url": "https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184591,
+      "name": "Leeuloop 2024",
+      "url": "https://open.spotify.com/track/27aNQuaxyVnzmlMdlw8k0W"
     },
     {
       "album": {
@@ -11272,7 +11326,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 213973,
       "name": "Nagblind",
       "url": "https://open.spotify.com/track/2Kf0YUHmw60NJEvzJEIeum"
@@ -12104,6 +12158,24 @@
       "duration_ms": 264000,
       "name": "Obsessief",
       "url": "https://open.spotify.com/track/4qcFkkB7ZfXgfG0NVqoexH"
+    },
+    {
+      "album": {
+        "name": "Oe Jitte, Baby",
+        "url": "https://open.spotify.com/album/4kO8GG5bVQxxkG9WmDxo5k"
+      },
+      "artists": [
+        {
+          "name": "Nolene",
+          "url": "https://open.spotify.com/artist/6GvYG4rpoXG56VwBYbKi6o"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178678,
+      "name": "Oe Jitte, Baby",
+      "url": "https://open.spotify.com/track/4GVqHZ69DtgKC7JlPaorwc"
     },
     {
       "album": {
@@ -12957,6 +13029,24 @@
     },
     {
       "album": {
+        "name": "Plaas Dorp Toe",
+        "url": "https://open.spotify.com/album/5wKWnbapUBDjs9VLSreAxC"
+      },
+      "artists": [
+        {
+          "name": "Chris Steyn",
+          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198500,
+      "name": "Plaas Dorp Toe",
+      "url": "https://open.spotify.com/track/4qvEqw3Vsl5o749DBPRIQz"
+    },
+    {
+      "album": {
         "name": "Plaas Toe",
         "url": "https://open.spotify.com/album/6zqPSiodiTcqT21EyaHtSa"
       },
@@ -13372,6 +13462,28 @@
       "duration_ms": 161546,
       "name": "Rebecca",
       "url": "https://open.spotify.com/track/5yn1CzR0QkcTV5ep55LJk9"
+    },
+    {
+      "album": {
+        "name": "Reis van 'n Musikant",
+        "url": "https://open.spotify.com/album/6FuMT4oyzDMOjX5o1hmcLW"
+      },
+      "artists": [
+        {
+          "name": "Stefan Jansen",
+          "url": "https://open.spotify.com/artist/1wemQwgdM4yTWWkxjlFFyD"
+        },
+        {
+          "name": "Piter Wilkens",
+          "url": "https://open.spotify.com/artist/1ixdspEGjvhJCKnlP2u2lX"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202914,
+      "name": "Reis van 'n Musikant",
+      "url": "https://open.spotify.com/track/1QpSugTEtYXiUuQGSgQ6wm"
     },
     {
       "album": {

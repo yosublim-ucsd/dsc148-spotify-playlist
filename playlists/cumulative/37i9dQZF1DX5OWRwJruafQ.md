@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: JERRY
 
-404 songs - 19 hr 8 min
+405 songs - 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Ain’t Too Long](https://open.spotify.com/track/6cy1JX4TAyjfP9BTzqcQ3O) | [Deep Dhaliwal](https://open.spotify.com/artist/49rpuSgVLanEVfk2vuAKEU) | [Ain’t Too Long](https://open.spotify.com/album/0533kPz9WpIAMHF5nW10eT) | 2:54 | 2023-04-20 | 2023-04-28 |
 | [AK Cantalian](https://open.spotify.com/track/6VZBIXm0L3vHoxQvbk9mKi) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC) | [AK Cantalian](https://open.spotify.com/album/1rmyIPtKPX8B4v3jZsUlX8) | 2:38 | 2023-10-03 | 2024-03-05 |
 | [Akh Laal](https://open.spotify.com/track/6cdcCKdK7vr0COGcrEg2Ki) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Akh Laal](https://open.spotify.com/album/51br0QucPpQCoVVBDgvRkB) | 3:08 | 2023-03-29 | 2023-07-15 |
-| [Akhiyan](https://open.spotify.com/track/6Bfd1hyQ5AOqiBHlA3AAck) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [MERCURY](https://open.spotify.com/album/1xkw0stgWaNw9H3vx7CbXW) | 2:34 | 2024-06-11 |  |
+| [Akhiyan](https://open.spotify.com/track/6Bfd1hyQ5AOqiBHlA3AAck) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [MERCURY](https://open.spotify.com/album/1xkw0stgWaNw9H3vx7CbXW) | 2:34 | 2024-06-11 | 2024-06-21 |
 | [Albatta](https://open.spotify.com/track/3XAcx54wxdHMZVfb5EGHaD) | [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Josh Brar](https://open.spotify.com/artist/6SWmwFBXIsxhIx5XPkYo0a), [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Nabjot](https://open.spotify.com/artist/3yhsicJ7kTjvsV6fuA72l1) | [Welcome To Punjab](https://open.spotify.com/album/4eOCSM24EwRcX9US7gQjRA) | 2:35 | 2024-05-16 | 2024-06-01 |
 | [All Sorted](https://open.spotify.com/track/1yuduFmsdDHWRrJiQCL73U) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [GURI SINGH](https://open.spotify.com/artist/4YK5CprOTeHRmdNX0c5UpZ), [MIXBYDOLCE](https://open.spotify.com/artist/4tcqUfUJ97wTStbNVYK9ul) | [All Sorted](https://open.spotify.com/album/4JZuiGIpa59jLIeJvzH4za) | 2:58 | 2023-04-21 | 2023-05-06 |
 | [Aloof](https://open.spotify.com/track/1CqkvBoq1vYh0TVX67aVFe) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC) | [YOLO](https://open.spotify.com/album/4xBhPWyrysJmW2bnaGKXOV) | 2:46 | 2023-03-29 |  |
@@ -200,6 +200,7 @@
 | [Jatt Naal Yaari](https://open.spotify.com/track/2P3foCzLxJPobVTVzQGIQ7) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Jatt Naal Yaari](https://open.spotify.com/album/6q2iZjYKWC4gNHfb6C6cHr) | 3:00 | 2023-03-29 | 2023-04-25 |
 | [Jatt's Info](https://open.spotify.com/track/7FuxZtrywaqy9YQ2kE63ZG) | [Jass Bajwa](https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Jatt's Info](https://open.spotify.com/album/6IdAACJrb4RAenxJItQZob) | 2:53 | 2024-04-26 |  |
 | [Jatta Ve](https://open.spotify.com/track/7oWnaeVhCW0cqypHaOOJ1u) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Davi Singh](https://open.spotify.com/artist/04C4hliPNKc6VZsTzmyyq0), [Guri Singh](https://open.spotify.com/artist/4tHWvy5DmCGSp8oIzFalUH) | [Jatta Ve](https://open.spotify.com/album/3eRh8KRPybLy4wDDnUnYBi) | 2:52 | 2023-05-09 | 2023-05-27 |
+| [Jatti Bae](https://open.spotify.com/track/6o2ch5JQkaLDbDp45kXG7A) | [Pavitar Lassoi](https://open.spotify.com/artist/3fn50P81Whm1meTnMmS8zX), [Deol Harman](https://open.spotify.com/artist/2N8tEhXkaUz7bBi5Ym9Xqa) | [Jatti Bae](https://open.spotify.com/album/1mD3ho2AJpivs3CyKNdcMY) | 2:37 | 2024-06-20 |  |
 | [Jawani](https://open.spotify.com/track/1WOz8NwADXFxRADQFVftxp) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Jawani](https://open.spotify.com/album/2JFhgDiyzo3bM2EEWedu6X) | 2:31 | 2023-03-29 |  |
 | [Jawani](https://open.spotify.com/track/6gxKi4gPXcvG52gsRogOIS) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Haakam](https://open.spotify.com/artist/1gPdNRLkL8J1nZrck72moJ) | [Villain](https://open.spotify.com/album/5tS0ZaJl2qopJ4ghermqUS) | 2:36 | 2023-11-07 | 2024-02-29 |
 | [Jeona Maurh Te Saathi \(From "Maurh"\)](https://open.spotify.com/track/1KmyApvwFh2hlka9tRtOAQ) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8) | [Jeona Maurh Te Saathi \(From "Maurh"\)](https://open.spotify.com/album/4EiQxvP9hSNKZOv77dJetJ) | 3:22 | 2023-06-13 | 2023-11-08 |

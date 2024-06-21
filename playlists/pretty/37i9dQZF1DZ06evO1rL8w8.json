@@ -1,12 +1,12 @@
 {
   "description": "This Is El Komander. Los temas esenciales, todos en una lista.",
-  "num_followers": 201588,
+  "num_followers": 201677,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zm98gAAAAAAq8Mu81SRrXlYLUxCN3ZIO",
+  "snapshot_id": "ZnIfgAAAAABSfdtD2qsNHcXIbTHTQZRB",
   "tracks": [
     {
       "added_at": null,
@@ -231,6 +231,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Detras Del Miedo",
+        "url": "https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 197358,
+      "name": "La Princesa",
+      "url": "https://open.spotify.com/track/1oqqIvtl8Q26q4ACnrjU4b"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Quiero Casar",
         "url": "https://open.spotify.com/album/11q4dGHmq3Jm1XcABg4HkX"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 156252,
       "name": "Me Quiero Casar",
       "url": "https://open.spotify.com/track/1NKieJNxZiQpXYA7Wmx2Hd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Detras Del Miedo",
-        "url": "https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 197358,
-      "name": "La Princesa",
-      "url": "https://open.spotify.com/track/1oqqIvtl8Q26q4ACnrjU4b"
     },
     {
       "added_at": null,
@@ -551,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Ocupa La Banda Pa\u2019 Bailar Mi Cuaco",
-        "url": "https://open.spotify.com/album/2oDscjIVA5YERidGVVlzVT"
+        "name": "Cazador",
+        "url": "https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 153855,
-      "name": "No Ocupa La Banda Pa\u2019 Bailar Mi Cuaco",
-      "url": "https://open.spotify.com/track/4YHlqCBMgcSi3ZBBMGZ8Uc"
+      "duration_ms": 195303,
+      "name": "Soy de Rancho",
+      "url": "https://open.spotify.com/track/0FwUglqH6FtXpI41kBLTfI"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cazador",
-        "url": "https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 195303,
-      "name": "Soy de Rancho",
-      "url": "https://open.spotify.com/track/0FwUglqH6FtXpI41kBLTfI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Katch",
         "url": "https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 133466,
       "name": "El Katch",
       "url": "https://open.spotify.com/track/6IB7Ma6l2RXm8qzSCh3J6r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Ocupa La Banda Pa\u2019 Bailar Mi Cuaco",
+        "url": "https://open.spotify.com/album/2oDscjIVA5YERidGVVlzVT"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 153855,
+      "name": "No Ocupa La Banda Pa\u2019 Bailar Mi Cuaco",
+      "url": "https://open.spotify.com/track/4YHlqCBMgcSi3ZBBMGZ8Uc"
     },
     {
       "added_at": null,
@@ -779,26 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy de Parral (En Vivo)",
-        "url": "https://open.spotify.com/album/1sltaXWX0l13mpRxgm6MPy"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 194220,
-      "name": "Soy de Parral - En Vivo",
-      "url": "https://open.spotify.com/track/6uYfaTJYYC0WCCLu9N3hCg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde Zapopan (En Vivo)",
         "url": "https://open.spotify.com/album/21GHxCkKFIiblHyCo0Bbon"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 140511,
       "name": "Mujer Enamorada",
       "url": "https://open.spotify.com/track/3l00I1zbhGd2gRwdTQL89b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soy de Parral (En Vivo)",
+        "url": "https://open.spotify.com/album/1sltaXWX0l13mpRxgm6MPy"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 194220,
+      "name": "Soy de Parral - En Vivo",
+      "url": "https://open.spotify.com/track/6uYfaTJYYC0WCCLu9N3hCg"
     },
     {
       "added_at": null,
@@ -935,8 +935,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Prometo",
-        "url": "https://open.spotify.com/album/6kMD14RKjB8REhBztHzxBg"
+        "name": "Detras Del Miedo",
+        "url": "https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9"
       },
       "artists": [
         {
@@ -944,9 +944,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 135709,
-      "name": "Te Prometo",
-      "url": "https://open.spotify.com/track/31FxFYyBcvxzVutkNEN5EE"
+      "duration_ms": 182212,
+      "name": "Fuga Pa Maza",
+      "url": "https://open.spotify.com/track/5ySCwdva5U06Lqf3Z7sz8e"
     }
   ],
   "unique_name": "This Is El Komander",

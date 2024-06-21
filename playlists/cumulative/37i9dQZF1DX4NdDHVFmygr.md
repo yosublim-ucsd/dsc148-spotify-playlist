@@ -2,7 +2,7 @@
 
 ### [Maroc Hits](https://open.spotify.com/playlist/37i9dQZF1DX4NdDHVFmygr)
 
-> 7liwa en tête des hits populaires au Maroc.
+> Tawsen & Ayoub Anbaoui en tête des hits populaires au Maroc.
 
 379 songs - 20 hr 18 min
 

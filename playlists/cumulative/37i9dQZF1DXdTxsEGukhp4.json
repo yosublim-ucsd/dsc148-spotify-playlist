@@ -5120,7 +5120,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 147333,
       "name": "Yap Yap",
       "url": "https://open.spotify.com/track/7usqIQpFAuz2KFqI3x4CRl"
@@ -6770,6 +6770,24 @@
       "duration_ms": 199120,
       "name": "\u30ef\u30f3 for All!",
       "url": "https://open.spotify.com/track/6J5VV5oheLyfQ1OuZ5QAU7"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30eb\u30c7\u30f3\u30c6",
+        "url": "https://open.spotify.com/album/0blIFyYXMXiaCU9OPLVGg1"
+      },
+      "artists": [
+        {
+          "name": "Macaroni Empitsu",
+          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110924,
+      "name": "\u30ef\u30f3\u30c9\u30ea\u30f3\u30af\u5225",
+      "url": "https://open.spotify.com/track/5tapE1gGyABsGFtgeOYchU"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume from across the world\. Cover: Alessandra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 935,867 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 936,074 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 42 | [Como La Cigarra](https://open.spotify.com/track/1J2sfCyClN1AUP6UByOz29) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [Yo Soy](https://open.spotify.com/album/6HPc7SYwmPbLt1r2cmteOo) | 2:54 |
 | 43 | [Leave You On Read](https://open.spotify.com/track/4M3hHNW0KHHtePSk305uLt) | [Iman Fandi](https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg) | [Leave You On Read](https://open.spotify.com/album/2ScVUbSUucYJLD67TNaAnK) | 3:09 |
 | 44 | [Away](https://open.spotify.com/track/2s9OC1yMrccPa9lJpwBmTL) | [Yimeeka](https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Yimeeka](https://open.spotify.com/album/4wmJQOsN4UqbcdeaVXuh6a) | 2:18 |
-| 45 | [No Pensé Ni Busqué](https://open.spotify.com/track/2Yq6dSnNeGun9CS4kvzTrb) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS) | [Mal Augurio](https://open.spotify.com/album/2UWIBJqg78EqZrxp7ao0cA) | 2:56 |
-| 46 | [I Can't Sleep](https://open.spotify.com/track/6ZA6vEwTVkoLQIzOjNbDQR) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je) | [I Can't Sleep](https://open.spotify.com/album/6qMiIVSFEtXWfsUfTFUGOt) | 2:11 |
+| 45 | [I Can't Sleep](https://open.spotify.com/track/6ZA6vEwTVkoLQIzOjNbDQR) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je) | [I Can't Sleep](https://open.spotify.com/album/6qMiIVSFEtXWfsUfTFUGOt) | 2:11 |
+| 46 | [No Pensé Ni Busqué](https://open.spotify.com/track/2Yq6dSnNeGun9CS4kvzTrb) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS) | [Mal Augurio](https://open.spotify.com/album/2UWIBJqg78EqZrxp7ao0cA) | 2:56 |
 | 47 | [Bài Ca Khởi Hành](https://open.spotify.com/track/0VZpQ2QGfzN9AlF62B2DrA) | [Hà Trần](https://open.spotify.com/artist/37cUqDVdpydDd8VtNlCLuk) | [Bài Ca Khởi Hành](https://open.spotify.com/album/33QwWYrON5FegB2hb6rUgT) | 4:54 |
 | 48 | [Mezcal](https://open.spotify.com/track/7oB3GYRqmgslJ3ik3zlqlu) | [Alina Pash](https://open.spotify.com/artist/2rC7t19zOtFIcJvmi6lH1i), [Zbaraski](https://open.spotify.com/artist/6EOVp4jyP5ovNOhqtJu7Eg) | [Nikoly\. S4e raz](https://open.spotify.com/album/3tN5TvmMlc01hxAzd5lpER) | 3:56 |
 | 49 | [Make You Stay](https://open.spotify.com/track/5sSn9nZvBBGCdFDdqu8AgJ) | [Archie X](https://open.spotify.com/artist/7iHfb5ODaqKyprp2DBEXvU) | [Make You Stay](https://open.spotify.com/album/3EDaystjZEdlidJk6dvkmU) | 3:29 |

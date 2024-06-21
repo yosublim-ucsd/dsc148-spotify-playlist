@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Iliona
 
-2,618 songs - 5 day 19 hr 36 min
+2,619 songs - 5 day 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -847,7 +847,7 @@
 | [Fou malade](https://open.spotify.com/track/2tiiVkGitu4bKtuPwXfZxW) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [Fou malade](https://open.spotify.com/album/2yiYfRyfuKNY5TE3tjb8BA) | 3:17 | 2023-01-20 | 2023-02-04 |
 | [Fourrer le trouble](https://open.spotify.com/track/0smfMkxblAwgtAgaLkA9nw) | [Orloge Simard](https://open.spotify.com/artist/2PfwtnCHCC0iezSoJHtzfs) | [Culture du culte](https://open.spotify.com/album/2OfXKhyomXPJEmybOaPJ2l) | 2:47 | 2022-09-23 | 2022-10-08 |
 | [FREE FOR ALL](https://open.spotify.com/track/3kAibz4DTPCrdXKhjjuxiE) | [Abdoubeatzz](https://open.spotify.com/artist/37gGIho50l34cdAV1nRQrQ), [Fxll](https://open.spotify.com/artist/61H5pXHRcXCkcliWy4I05W), [Ibra](https://open.spotify.com/artist/49uM51XEg3ob5waZXE779W) | [FREE FOR ALL](https://open.spotify.com/album/5b4JbnHLC1riCY5q1VFn1z) | 2:48 | 2023-03-10 | 2023-03-18 |
-| [Freestyle BMF \#1](https://open.spotify.com/track/3Jys0zVvXhlgf0MVAcj9ji) | [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Freestyle BMF \#1](https://open.spotify.com/album/7HFPAZo4QBzKQ7AbwxUxnn) | 2:56 | 2024-06-07 |  |
+| [Freestyle BMF \#1](https://open.spotify.com/track/3Jys0zVvXhlgf0MVAcj9ji) | [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Freestyle BMF \#1](https://open.spotify.com/album/7HFPAZo4QBzKQ7AbwxUxnn) | 2:56 | 2024-06-07 | 2024-06-21 |
 | [Freestyle LVL UP 1](https://open.spotify.com/track/6RLVnSWFkT7ywpXv0XyRhY) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Freestyle LVL UP 1](https://open.spotify.com/album/3TwCsRI1sJRIUi6SPcFPhq) | 1:54 | 2023-05-05 | 2023-06-24 |
 | [Freestyle LVL UP 2](https://open.spotify.com/track/7DOqkqVZuvPhKIAtVXjZo1) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Freestyle LVL UP 2](https://open.spotify.com/album/69poeNuEJvR2UGMqWDV8wF) | 2:29 | 2023-05-12 | 2023-07-08 |
 | [Freestyle LVL UP 3](https://open.spotify.com/track/5WAqZjhyquaFf8zBZ1Stfd) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Freestyle LVL UP 3](https://open.spotify.com/album/2g47iUsGXrIMZTGqMgGFyE) | 3:20 | 2023-05-26 | 2023-07-29 |
@@ -2519,6 +2519,7 @@
 | [Voyage](https://open.spotify.com/track/4JlKX9yCxV95GxEWxCwT72) | [Rick Pagano](https://open.spotify.com/artist/7kvfne8CQPhLpfCrxDPJlQ) | [Voyage](https://open.spotify.com/album/7xXhhp4KbxoRejDx97bdiS) | 3:33 | 2023-09-22 | 2023-09-30 |
 | [Vrai](https://open.spotify.com/track/0UHRBRe2QOMkmVtA7mly60) | [EL GARRA](https://open.spotify.com/artist/35iGCHzli8Zhn5v4xoB7XA), [Yvon krevé](https://open.spotify.com/artist/4dp9xy5zR0pGnPy3a5u85F) | [Vrai](https://open.spotify.com/album/0wwrQOD9yyPGtZ9xaM59rR) | 3:34 | 2022-09-23 | 2022-10-01 |
 | [Vraiment](https://open.spotify.com/track/7J3cONRfk18KhNX08k8Ydk) | [Olivier Dion](https://open.spotify.com/artist/0PruFnhaNaqZRPJO1s73Em) | [Vraiment](https://open.spotify.com/album/6H4NS2GCkvTMRQNUdtj8bY) | 2:47 | 2022-06-03 | 2022-06-18 |
+| [Vrais salauds \(feat\. Gazo & Kore\)](https://open.spotify.com/track/5AjVGkFWK2Ct0B0hbdcmWJ) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N) | [VENI VIDI VICI](https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN) | 2:29 | 2024-06-14 |  |
 | [Vélo Volant](https://open.spotify.com/track/0qmnZx1K5NCAGTeUf9CjUZ) | [Guillaume Laroche](https://open.spotify.com/artist/15mBsQXYcklrlBSrBqUXey) | [Étincelle](https://open.spotify.com/album/470fYCM7sw7kOJkwXsCkTR) | 3:28 | 2022-07-15 | 2022-08-06 |
 | [Vésuve](https://open.spotify.com/track/01lAjzyIDUiIUDX0mBJtMC) | [Hey Major](https://open.spotify.com/artist/1J7P80ENkmZgSWEm7diAhV) | [Vésuve](https://open.spotify.com/album/5jZXNkPD1Y4p6oeai8LNBM) | 4:25 | 2024-05-10 | 2024-05-18 |
 | [Wait a minute](https://open.spotify.com/track/7e5G1tmINb2indrx4mG3am) | [Ruffneck](https://open.spotify.com/artist/5EqZfRDXWH1w0m6Djo5UKO), [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Wait a minute](https://open.spotify.com/album/5mBamkhsiq4ZOn06DOsUlw) | 3:18 | 2023-03-31 | 2023-04-16 |

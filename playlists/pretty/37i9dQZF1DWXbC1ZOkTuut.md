@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de Música Mexicana\. Hit shuffle for a mixed listening experience\. Cover: Mario Bautista
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,750 likes - 186 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,753 likes - 186 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

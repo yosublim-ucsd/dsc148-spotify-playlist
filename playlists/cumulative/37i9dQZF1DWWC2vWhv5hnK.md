@@ -4,10 +4,11 @@
 
 > Enjoy music from "Kaiju No\. 8"! アニメ「怪獣8号」の世界をプレイリストで。©防衛隊第３部隊 ©松本直也／集英社
 
-53 songs - 6 hr 55 min
+54 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\#10 MCカフカ役 福西さん×保科役 河西健吾さん「好きなところで入っていいって言ってたんで、僕も好きなところで…」「くそー！」](https://open.spotify.com/episode/2Y8zLH29RW9AWj8M7Sr9Yv) | [アニメ『怪獣８号』ポッドキャスト討伐作戦‐Podcast Operation Kaiju No.8](https://open.spotify.com/show/3BjUYFTeSdyOPImcX6GvNt) | [アニメ『怪獣８号』ポッドキャスト討伐作戦‐Podcast Operation Kaiju No.8](https://open.spotify.com/album/3BjUYFTeSdyOPImcX6GvNt) | 36:12 | 2024-06-21 |  |
 | [\#3　MCカフカ役 福西勝也＆レノ役 加藤渉＆音楽・坂東祐大「”よかったら”って…いいに決まってんだろ！」](https://open.spotify.com/episode/0iBrFP7Oy6QQ3rZdd55PEt) | [アニメ『怪獣８号』ポッドキャスト討伐作戦‐Podcast Operation Kaiju No.8](https://open.spotify.com/show/3BjUYFTeSdyOPImcX6GvNt) | [アニメ『怪獣８号』ポッドキャスト討伐作戦‐Podcast Operation Kaiju No.8](https://open.spotify.com/album/3BjUYFTeSdyOPImcX6GvNt) | 35:41 | 2024-04-30 | 2024-05-13 |
 | [\#7臨時MCレノ役加藤さん×伊春役 新祐樹さん「我々ふたりが超がんばってましたね。」「けどおいしいところは８号に…笑」](https://open.spotify.com/episode/5KhbbLdMmgxIbr829BFxfq) | [アニメ『怪獣８号』ポッドキャスト討伐作戦‐Podcast Operation Kaiju No.8](https://open.spotify.com/show/3BjUYFTeSdyOPImcX6GvNt) | [アニメ『怪獣８号』ポッドキャスト討伐作戦‐Podcast Operation Kaiju No.8](https://open.spotify.com/album/3BjUYFTeSdyOPImcX6GvNt) | 32:05 | 2024-05-27 | 2024-06-04 |
 | [\#8 臨時MC加藤渉さん×小此木このみ役 千本木彩花さん「平静を装います。がんばります」「平静を装ってね」](https://open.spotify.com/episode/0ISoSaynqYFNLA75M3ucRT) | [アニメ『怪獣８号』ポッドキャスト討伐作戦‐Podcast Operation Kaiju No.8](https://open.spotify.com/show/3BjUYFTeSdyOPImcX6GvNt) | [アニメ『怪獣８号』ポッドキャスト討伐作戦‐Podcast Operation Kaiju No.8](https://open.spotify.com/album/3BjUYFTeSdyOPImcX6GvNt) | 33:05 | 2024-06-03 | 2024-06-12 |
@@ -60,6 +61,6 @@
 | [防衛隊のテーマ](https://open.spotify.com/track/4QjfqDZZBsMGXFVeesU5TK) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [怪獣8号のテーマ 〜「怪獣8号」オリジナル・サウンドトラック \-Pre Release\-](https://open.spotify.com/album/4Z7Os2zgNVRSk28ds8dY16) | 0:43 | 2024-04-13 |  |
 | [＃6 MCカフカ役福西さん×伊春役新祐樹さん「これです。そうでございます。」「なるほど、エモーショナルです」](https://open.spotify.com/episode/2lPqzJ6BMQIEIiD8bwcjCt) | [アニメ『怪獣８号』ポッドキャスト討伐作戦‐Podcast Operation Kaiju No.8](https://open.spotify.com/show/3BjUYFTeSdyOPImcX6GvNt) | [アニメ『怪獣８号』ポッドキャスト討伐作戦‐Podcast Operation Kaiju No.8](https://open.spotify.com/album/3BjUYFTeSdyOPImcX6GvNt) | 36:30 | 2024-05-20 | 2024-05-27 |
 | [＃５ MCカフカ役福西さん×キコル役ファイルーズさん×プロデューサー武井さん　「端的に言うと公の場で褒めてほしい！」](https://open.spotify.com/episode/0sQNoPWwzmOxYSziV6Ditm) | [アニメ『怪獣８号』ポッドキャスト討伐作戦‐Podcast Operation Kaiju No.8](https://open.spotify.com/show/3BjUYFTeSdyOPImcX6GvNt) | [アニメ『怪獣８号』ポッドキャスト討伐作戦‐Podcast Operation Kaiju No.8](https://open.spotify.com/album/3BjUYFTeSdyOPImcX6GvNt) | 34:37 | 2024-05-13 | 2024-05-20 |
-| [＃９MC カフカ役 福西さん×怪獣9号役 吉野裕行さん「私の顔がニヤけ過ぎて失笑をくらっているんですけれども」「失笑じゃねえ　爆笑だよ！」](https://open.spotify.com/episode/3KXq9vZ1ME3Gi1cXSbrDZ7) | [アニメ『怪獣８号』ポッドキャスト討伐作戦‐Podcast Operation Kaiju No.8](https://open.spotify.com/show/3BjUYFTeSdyOPImcX6GvNt) | [アニメ『怪獣８号』ポッドキャスト討伐作戦‐Podcast Operation Kaiju No.8](https://open.spotify.com/album/3BjUYFTeSdyOPImcX6GvNt) | 37:23 | 2024-06-11 |  |
+| [＃９MC カフカ役 福西さん×怪獣9号役 吉野裕行さん「私の顔がニヤけ過ぎて失笑をくらっているんですけれども」「失笑じゃねえ　爆笑だよ！」](https://open.spotify.com/episode/3KXq9vZ1ME3Gi1cXSbrDZ7) | [アニメ『怪獣８号』ポッドキャスト討伐作戦‐Podcast Operation Kaiju No.8](https://open.spotify.com/show/3BjUYFTeSdyOPImcX6GvNt) | [アニメ『怪獣８号』ポッドキャスト討伐作戦‐Podcast Operation Kaiju No.8](https://open.spotify.com/album/3BjUYFTeSdyOPImcX6GvNt) | 37:23 | 2024-06-11 | 2024-06-21 |
 
 \*This playlist was first scraped on 2024-03-15. Prior content cannot be recovered.

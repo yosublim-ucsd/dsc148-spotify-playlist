@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Verano futbolero! Aquí el soundtrack con las novedades más chidas para armar la previa\. Yeri Mua, Ovi y Uzielito Mix en portada 🥵
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,307 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,445 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

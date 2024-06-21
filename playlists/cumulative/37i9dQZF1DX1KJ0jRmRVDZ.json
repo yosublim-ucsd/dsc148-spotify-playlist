@@ -2273,6 +2273,24 @@
     },
     {
       "album": {
+        "name": "Fall in Love",
+        "url": "https://open.spotify.com/album/7u00ryReb4mo01nuKQbWde"
+      },
+      "artists": [
+        {
+          "name": "Suiet",
+          "url": "https://open.spotify.com/artist/1lvPOUoBjVVRfb0rF7RaNQ"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169866,
+      "name": "Fall in Love",
+      "url": "https://open.spotify.com/track/4fpAICCpevpgI40CiHZWar"
+    },
+    {
+      "album": {
         "name": "FANTASY",
         "url": "https://open.spotify.com/album/3I2n109tFtjkvO0hz9h4xR"
       },
@@ -19562,7 +19580,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 253893,
       "name": "\u79c1\u304c\u660e\u65e5\u6b7b\u306c\u306a\u3089",
       "url": "https://open.spotify.com/track/29KOSOrduu8U6Pz6ZZtuEj"

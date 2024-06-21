@@ -1,6 +1,6 @@
 {
   "description": "Father of the symphony and string quartet, and teacher to both Mozart and Beethoven. This is Haydn.",
-  "num_followers": 76647,
+  "num_followers": 76653,
   "original_name": "This Is Haydn",
   "owner": {
     "name": "Spotify",
@@ -1283,34 +1283,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Haydn, J.: Violin Concertos, Hob. Viia: 1, 3, 4",
-        "url": "https://open.spotify.com/album/7HhAiTTM5261A59uUkDv1J"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Augustin Hadelich",
-          "url": "https://open.spotify.com/artist/0rXFlqrjeUnpRIj3z7IRBk"
-        },
-        {
-          "name": "Kolner Kammerorchester",
-          "url": "https://open.spotify.com/artist/6cMjCqXVEAqDZdiobyEkug"
-        },
-        {
-          "name": "Helmut M\u00fcller-Br\u00fchl",
-          "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
-        }
-      ],
-      "duration_ms": 304800,
-      "name": "Violin Concerto in C Major, Hob. VIIa:1: II. Adagio",
-      "url": "https://open.spotify.com/track/0JiZzeiXVv1jmIo9x28glV"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Haydn \u00e0 l'anglaise",
         "url": "https://open.spotify.com/album/15S24PzWZu0ruMJGE2NWbh"
       },
@@ -1703,6 +1675,26 @@
       "duration_ms": 502000,
       "name": "Symphony No. 104 in D Major, Hob. I:104 \"London\": I. Adagio - Allegro",
       "url": "https://open.spotify.com/track/6lvWr4Ji1wXWPUTKO3c5rD"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Haydn: Piano Sonatas Nos. 59-62",
+        "url": "https://open.spotify.com/album/2Xz3e85jC2srbO0pRedhAT"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "duration_ms": 608520,
+      "name": "Keyboard Sonata in C Major, Op. 79, Hob. XVI:50: I. Allegro",
+      "url": "https://open.spotify.com/track/19JsOOPlPBwThQReDZ40Q1"
     }
   ],
   "unique_name": "This Is Haydn",

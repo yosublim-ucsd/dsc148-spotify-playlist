@@ -4,7 +4,7 @@
 
 > New music from Don Toliver, Moneybagg Yo and Central Cee.
 
-2,056 songs - 4 day 10 hr 39 min
+2,057 songs - 4 day 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1818,6 +1818,7 @@
 | [Thug Of Spades \(feat\. DaBaby\)](https://open.spotify.com/track/2iz3EDFoPOjPRZs9wt5iNh) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [38 Baby 2](https://open.spotify.com/album/5vjOhA7AkB9WK7I2NnzIex) | 2:33 | 2020-04-24 | 2020-05-01 |
 | [Thug Paradise 2](https://open.spotify.com/track/1wqg2VowoogPATrqPzrpi3) | [Soldier Kidd](https://open.spotify.com/artist/7BA072InWOjB1X7MZGOloy) | [Thug Melodies](https://open.spotify.com/album/5VjgH8wgFP70tarZ6iJChd) | 3:00 | 2022-02-18 | 2022-04-02 |
 | [Thugged Out \(feat\. Kodak Black\)](https://open.spotify.com/track/1rICTKr67UUnoDVvOj4A8c) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Thugged Out \(feat\. Kodak Black\)](https://open.spotify.com/album/3TGhMWM9dn0O5BFfPAMoKg) | 3:05 | 2021-03-06 | 2021-04-03 |
+| [Thuggish Ruggish Bone](https://open.spotify.com/track/7qHAjAL7CpadaZLamuBZRm) | [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg) | [Creepin on Ah Come Up](https://open.spotify.com/album/5g2FfZVMvBqRmuHjNsaf3l) | 4:41 | 2024-06-20 |  |
 | [Thump Shit](https://open.spotify.com/track/4XAQVDjEXZriZR9pe2tdQQ) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Thump Shit](https://open.spotify.com/album/7vDFwwEDt6ftQ0P7izyxAk) | 3:46 | 2022-04-08 | 2022-07-09 |
 | [Tick Tock](https://open.spotify.com/track/3JXebpWufTcs8iegiRCBW7) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Tick Tock](https://open.spotify.com/album/7K0mSkUKYnyrOQ4ko2fl7N) | 2:39 | 2021-08-21 | 2021-09-25 |
 | [Tiffany Nikes](https://open.spotify.com/track/1yrg59BEI7zSxvAXRcu7YF) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Folarin II](https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H) | 2:12 | 2021-10-23 | 2021-11-20 |

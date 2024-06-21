@@ -4,7 +4,7 @@
 
 > What Will the 2024 Song of the Summer Be!? Find out with the perfect soundtrack for the sweatiest season! A predicttion playlist that also Includes Summer 2023 edition &amp; bonus tracks.
 
-3,465 songs - 8 day 4 hr 10 min
+3,468 songs - 8 day 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -587,6 +587,7 @@
 | [City Limits](https://open.spotify.com/track/7JrphGBxKpggZhuPFjRjnS) | [Austin Michael Frink](https://open.spotify.com/artist/4XP9HsXOGNF3PzwNqibaYQ) | [City Limits](https://open.spotify.com/album/7vSP9RLecsHRVajQq78uvj) | 3:48 | 2022-01-28 | 2022-02-13 |
 | [Claim \(with Olivia O'Brien\)](https://open.spotify.com/track/33GofuA3y8ohKvAdpm4Wh8) | [drumaq](https://open.spotify.com/artist/6YxiJtz5oCCcDsMGiLNMh5), [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Claim \(with Olivia O'Brien\)](https://open.spotify.com/album/0ErEUoNONDJ3sQufxHvYFJ) | 3:37 | 2021-09-18 | 2021-10-03 |
 | [Claro Que Si](https://open.spotify.com/track/2PgJt3QluTTDwFoi8zqu26) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x) | [Claro Que Si](https://open.spotify.com/album/43hYRtf8EK8BH6wbIw6aiE) | 3:03 | 2023-08-12 | 2024-03-16 |
+| [Class Above I](https://open.spotify.com/track/0SjpxAVAjBCdUlssLk2rdJ) | [Clinny P](https://open.spotify.com/artist/5HQyPul3Aaq0v1jVj2rWts) | [Class Above I](https://open.spotify.com/album/1iCYVt7chNDewOT0V0WxVx) | 2:28 | 2024-06-21 |  |
 | [Classics](https://open.spotify.com/track/2wxEvZuIYk454DJwoShj3V) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Classics](https://open.spotify.com/album/22HaA6JMGWTCAA6MnwOC8s) | 2:58 | 2023-04-14 | 2023-05-06 |
 | [Claustrophobic](https://open.spotify.com/track/1cKZeZ5bKGy7y7L73arGgG) | [Nové](https://open.spotify.com/artist/0bsCwiBOlYXNWORzIVyhmo) | [Claustrophobic](https://open.spotify.com/album/3rg2Zx34Y3p772yFWU0BTU) | 3:10 | 2022-04-14 | 2022-04-30 |
 | [Clementine](https://open.spotify.com/track/3Gw5EMNXYr9I4b2IVyKb5B) | [Gabe Germain](https://open.spotify.com/artist/7kqidTTsrF1WUKgAgy2j3t), [Bella Nixon](https://open.spotify.com/artist/4mo8sGw5MFg0fFZ4n9KbRC) | [Clementine](https://open.spotify.com/album/0GRnVaSUtU8s7jrU0c4nnz) | 1:43 | 2023-08-14 | 2023-08-28 |
@@ -1408,6 +1409,7 @@
 | [I Chose You for Her](https://open.spotify.com/track/4b5aKh9eFsC8H6C4tafAwQ) | [Annie Macleod](https://open.spotify.com/artist/0zDwmhSwy56BqjP378WcuB) | [I Chose You for Her](https://open.spotify.com/album/6EanjsIrWhrYOYT6q2XKrS) | 4:35 | 2022-05-20 | 2022-06-05 |
 | [I Could Be Someone Else](https://open.spotify.com/track/2LoD8nOdpxs3ceQTjIzfUx) | [Jet Vesper](https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2) | [I Could Be Someone Else](https://open.spotify.com/album/5TXBNoWdbBQxTkhl226rMI) | 2:51 | 2024-04-26 | 2024-05-22 |
 | [I Couldn't Reach You](https://open.spotify.com/track/0c8C51IhmU7L4aTUBynY7e) | [Stevie Cornell](https://open.spotify.com/artist/5hQZtP9bauCgRV2APn1goP) | [Stevie Cornell](https://open.spotify.com/album/3btTL1oBU80wYM8jrLKGsq) | 3:07 | 2022-05-20 | 2022-06-05 |
+| [I Couldn’t Pull Out](https://open.spotify.com/track/4k2gwJgaaT3qch49QcPj8L) | [Adrian Bagher](https://open.spotify.com/artist/2LtS36tEm1eMboVt2gQaxm) | [I Couldn’t Pull Out](https://open.spotify.com/album/6mzNLe9lcAzjLwQM1w8BRx) | 3:32 | 2024-06-20 |  |
 | [I Do Love You](https://open.spotify.com/track/1UIvjEOKcCOXtey8vmU9R0) | [Nian Tong](https://open.spotify.com/artist/1ZUAJBmmnJxZDX9ZGU0YFN), [Josh Witt](https://open.spotify.com/artist/6MkJBJlnJEhazS8d21jP2M) | [I Do Love You](https://open.spotify.com/album/2Lf6NEgxl4Dx2XsWvGi1wg) | 2:37 | 2019-12-20 | 2019-12-31 |
 | [I Don't Care](https://open.spotify.com/track/6T1QCabxE662y1Nexek3B7) | [Cinzia Catania](https://open.spotify.com/artist/1nhbAdHVzi5bVqS1jTRnNI) | [I Don't Care](https://open.spotify.com/album/47eQ3mxCXTos8y15DpWbyA) | 3:51 | 2023-01-08 | 2023-02-12 |
 | [I Don't Care](https://open.spotify.com/track/3rTVnnVjuZSdy4hlyONQPX) | [Della Chase](https://open.spotify.com/artist/3SILSsY2vwHo7DT2g7YO5U) | [Heavy](https://open.spotify.com/album/6ZmtRqvUFen7toUgFqpuNn) | 2:35 | 2024-04-26 | 2024-05-14 |
@@ -1896,6 +1898,7 @@
 | [Many Times](https://open.spotify.com/track/63EUqnpcphhZh8SbXagArw) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 2:06 | 2022-07-26 | 2024-04-30 |
 | [Mar y Sol](https://open.spotify.com/track/2CBJr7bY7kRqqouFjeH6Jb) | [Louie Rubio](https://open.spotify.com/artist/3vl3HfodbBg1UY2FYVMbGU) | [Mar y Sol](https://open.spotify.com/album/2yEzv8mhcwwJQqrbQaouA7) | 4:25 | 2023-05-26 | 2023-06-17 |
 | [Maracujá](https://open.spotify.com/track/5nNfDIbkqaXE8Gdv6r96um) | [Aramà](https://open.spotify.com/artist/2M2lDprCQRdjvgo0yDsdTD) | [Maracujá](https://open.spotify.com/album/7LnA8vbZg6PatV8CoMctQJ) | 2:44 | 2021-01-08 | 2021-01-23 |
+| [Marlboro Man](https://open.spotify.com/track/3Oh65kNgVezqIUCHd7EKiQ) | [Kaleb Sanders](https://open.spotify.com/artist/4hsCKTS1M5pg7uIJuotsDB) | [Marlboro Man](https://open.spotify.com/album/0VcVOHmCyjFtbGuYu649fr) | 3:20 | 2024-06-20 |  |
 | [Mary Don't You Weep \- Piano & A Microphone 1983 Version](https://open.spotify.com/track/3MyoPEPdJbaIKRyuk8zTj2) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Piano & A Microphone 1983](https://open.spotify.com/album/6gbmDvcU1JDPy1niL6YFJY) | 4:42 | 2021-08-28 | 2021-09-11 |
 | [Mary, Mary](https://open.spotify.com/track/4uDXW5l6Hrc6EfSrBQ6yTN) | [Ellis Paul](https://open.spotify.com/artist/6zbmVVtvsmXRGWGgfjlE35) | [City of Silver Dreams](https://open.spotify.com/album/3sI0EFiLsEsDu2iifoceRX) | 3:21 | 2019-11-28 | 2019-12-11 |
 | [Massive](https://open.spotify.com/track/0oiv4E896TUTTeQU0cmIui) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX) | 5:36 | 2022-06-21 | 2022-07-07 |

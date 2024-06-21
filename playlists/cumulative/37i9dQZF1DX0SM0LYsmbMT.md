@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,153 songs - 6 day 14 hr 37 min
+4,155 songs - 6 day 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [Autumn Sky](https://open.spotify.com/track/18krMlHUAxBY9bjTdGEeOV) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Autumn Sky](https://open.spotify.com/album/5TdyuDgS4InxKlQb3gDwQs) | 2:32 | 2023-11-16 |  |
 | [Autumn Sun](https://open.spotify.com/track/1L0hBjHsPmwT8vCEQYtAzi) | [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an) | [Autumn Sun](https://open.spotify.com/album/5Y9Hpikz6PSimYw57mrOkt) | 2:02 | 2021-10-16 | 2023-03-10 |
 | [Autumn Sunset](https://open.spotify.com/track/5XBtGG0bWou5Bd3WUW1YMv) | [Georgy Whistler](https://open.spotify.com/artist/3OglhORwydCOlEd2vqwoIe) | [EXPEDITion Vol\. 24: Time Flies](https://open.spotify.com/album/35JhNrVbRuERASMqL31UVz) | 1:43 | 2019-10-02 | 2020-03-18 |
+| [Autumnal Longing](https://open.spotify.com/track/03Pmh9aXyfO6TgiLqPZPFc) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Autumnal Longing](https://open.spotify.com/album/3asMClIVmaKkPHk0UHy046) | 1:59 | 2024-06-13 |  |
 | [Ava](https://open.spotify.com/track/3Fa2LOckLbjsv8UIidDiPD) | [Lito Akari](https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu) | [Ava](https://open.spotify.com/album/3DpxmOQt95WC5hdA9Gj6sn) | 1:47 | 2023-05-11 | 2023-06-02 |
 | [Avant qu’elle tombe](https://open.spotify.com/track/726IDnsJi1397uIeMUmEWj) | [Foksu](https://open.spotify.com/artist/7MFCKcbsE7VrPJOJIPSjWl), [La Cantina](https://open.spotify.com/artist/01iBYoUzhKZLQAGRDF0L9U) | [Avant qu'elle tombe](https://open.spotify.com/album/1gnRzRlUgRzYipXawkPj84) | 2:15 | 2020-10-30 | 2021-05-21 |
 | [ave](https://open.spotify.com/track/5HhaAeZReuplSO2gpe4j2z) | [lōland](https://open.spotify.com/artist/5AUK3KLrqdHpcsRowJVJIn) | [ave \| ōnsen](https://open.spotify.com/album/2yn90YWW1z9fc4r1vS2vKA) | 2:16 | 2020-02-22 | 2020-05-08 |
@@ -764,6 +765,7 @@
 | [Cordon Bleu](https://open.spotify.com/track/3qrGPKnwYrVgucSF6bxsif) | [G R I Z](https://open.spotify.com/artist/3gBnd68xkEhdBujCwX6daz) | [Cordon Bleu](https://open.spotify.com/album/58efNYqKbA71TPTuQaqTk9) | 2:21 | 2020-04-18 | 2020-12-18 |
 | [Corner Store Snacks](https://open.spotify.com/track/7taBGYW3aZiGQb6HTtHSyq) | [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT), [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn) | [Corner Store Snacks](https://open.spotify.com/album/7LPhUkYAYP6hGdpqL2ebAD) | 2:17 | 2023-12-14 | 2024-02-16 |
 | [cornern](https://open.spotify.com/track/6zw41lIJBVge6QrmDXSLSg) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [cornern](https://open.spotify.com/album/4sOy24MrvRUXCrKOTdIMbw) | 1:41 | 2022-03-17 | 2022-09-11 |
+| [Cosma](https://open.spotify.com/track/3TZtbqfQzdi9T8AUudK59b) | [Nuncc](https://open.spotify.com/artist/2boLOio6iQ5rnScySM67q8) | [Cosma](https://open.spotify.com/album/4mIvni1j4vKS0wWJ4KPUGG) | 2:04 | 2024-06-13 |  |
 | [Cosmic](https://open.spotify.com/track/5rc0u4BTW7VjzKshxjpxTL) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [blndspot](https://open.spotify.com/artist/4YYlHGxwQoGgtikHADECAn) | [Cosmic](https://open.spotify.com/album/1p4QOCEGG1sF4w5tYkBUAR) | 2:19 | 2022-02-17 | 2022-03-18 |
 | [Cosmic](https://open.spotify.com/track/3ESJIVVpwOAK9fK5sktDl7) | [Strehlow](https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm), [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh), [TyLuv.](https://open.spotify.com/artist/6ay740FQIPgTMahZqP9Opx) | [Cosmic](https://open.spotify.com/album/0Q413u4gUUGs8EKDe13hzs) | 1:34 | 2021-06-13 | 2021-09-10 |
 | [Cosmic Dust](https://open.spotify.com/track/1m9wPQmEPOVK0gvZeGbzNv) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Cosmic Dust](https://open.spotify.com/album/3BolYLNyoFoLglrD1p185b) | 2:55 | 2022-08-11 | 2022-09-09 |
@@ -784,7 +786,7 @@
 | [Crescent Moon](https://open.spotify.com/track/5OhYCwdrUO5a3QIOdIWJGs) | [Alecs DeLarge](https://open.spotify.com/artist/6748zpPL23DmNFwloBW90u) | [Crescent Moon](https://open.spotify.com/album/1DxwPbB3b6c2nWqIFEy2Zj) | 1:39 | 2021-10-01 | 2022-07-08 |
 | [Crimea](https://open.spotify.com/track/5VwXSBEgJMp4cd5TeWGeK9) | [Boora](https://open.spotify.com/artist/1xkhstLVWw3eDL1pRMN0Z7) | [Crimea](https://open.spotify.com/album/5o4CyEZXkntl65XCR6PimT) | 2:46 | 2020-07-11 | 2020-09-11 |
 | [Crimson](https://open.spotify.com/track/0lHKUq3vasc9eAKVdMVcG3) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv) | [Crimson](https://open.spotify.com/album/7jWYq4jLHtPtmgMvA4m8aD) | 1:52 | 2023-12-01 |  |
-| [Crooked Mirror of the Soul](https://open.spotify.com/track/6rx7YJo2x8GxKowxkvH8Qe) | [NEKOB](https://open.spotify.com/artist/3tMMTfUIzDEm4qxPMrV1Mi) | [Crooked Mirror of the Soul](https://open.spotify.com/album/10bXkjlaEHrIEhuDRiDAle) | 1:51 | 2024-01-26 |  |
+| [Crooked Mirror of the Soul](https://open.spotify.com/track/6rx7YJo2x8GxKowxkvH8Qe) | [NEKOB](https://open.spotify.com/artist/3tMMTfUIzDEm4qxPMrV1Mi) | [Crooked Mirror of the Soul](https://open.spotify.com/album/10bXkjlaEHrIEhuDRiDAle) | 1:51 | 2024-01-26 | 2024-06-21 |
 | [Crossing](https://open.spotify.com/track/7u9kOrf7JEHe2wwUPhPabi) | [drkmnd](https://open.spotify.com/artist/1j1zhORHvaQ7DAIKpuK42C) | [Crossing](https://open.spotify.com/album/3HhTOt70nt48DzGChnJZuY) | 1:50 | 2019-05-28 | 2019-09-17 |
 | [Cruisin](https://open.spotify.com/track/5mvrMYNZvxj7GPcS66XemB) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Cruisin](https://open.spotify.com/album/01DGzYPUkJ7cN7ek3GlGEV) | 2:51 | 2021-05-21 | 2021-09-22 |
 | [Cruisin'](https://open.spotify.com/track/6bJdh8j8HbZV0WPu5FGAgb) | [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an), [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Cruisin'](https://open.spotify.com/album/2tFq1aPNX5mo7zSKBfYs2p) | 2:06 | 2021-10-08 | 2023-02-24 |
@@ -1384,7 +1386,7 @@
 | [Good Morning](https://open.spotify.com/track/2Vn2PKznrf5e1FtVcoIwQe) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [Good Morning](https://open.spotify.com/album/1u1P4U3OIqGZGjS974agRk) | 1:36 | 2022-03-10 | 2023-04-21 |
 | [Good Morning](https://open.spotify.com/track/4tN5jfueFkQ7I52tNTp925) | [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ) | [Good Morning](https://open.spotify.com/album/4QhcEzNzmGzYWuhtT2MI1n) | 2:13 | 2023-01-19 | 2023-04-21 |
 | [Good Morning](https://open.spotify.com/track/6kC8ai0O06mARQHn8dcGDc) | [Tundra Beats](https://open.spotify.com/artist/5j4yh8KxZ3yfg1cHsD24qD) | [Good Morning](https://open.spotify.com/album/4AhOqkfz5NzF1X5rKUgNKr) | 2:45 | 2021-05-14 | 2021-07-02 |
-| [Good Only Knows](https://open.spotify.com/track/3AfzarIgPSbvtit3Lj0HRJ) | [AHNAMUSICA](https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h) | [Good Only Knows](https://open.spotify.com/album/5v2wZ2ioro1BKR19D7vMEV) | 2:03 | 2024-05-30 |  |
+| [Good Only Knows](https://open.spotify.com/track/3AfzarIgPSbvtit3Lj0HRJ) | [AHNAMUSICA](https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h) | [Good Only Knows](https://open.spotify.com/album/5v2wZ2ioro1BKR19D7vMEV) | 2:03 | 2024-05-30 | 2024-06-21 |
 | [Good Times](https://open.spotify.com/track/0RL6hEYE3Hz3l6kne5WrII) | [Ghostnaut](https://open.spotify.com/artist/2RBJhPBOr8mI5evwaL4HR3), [Elior](https://open.spotify.com/artist/0tquhVod10o2zf1ht2aVoz), [Raw Collective](https://open.spotify.com/artist/1yB33Zc5paP6MeBlMK6HS0) | [Good Times](https://open.spotify.com/album/7xrlLTq1IbnBQyADQHqsY2) | 2:24 | 2020-11-20 | 2021-06-04 |
 | [Good Times](https://open.spotify.com/track/70JPgmdrLkDJrWBC8wObP6) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni) | [Good Times](https://open.spotify.com/album/0FKmShXueFJVKLVuIbtoba) | 2:25 | 2020-10-03 | 2021-03-14 |
 | [Good Times In Lagoa](https://open.spotify.com/track/3PnGuLHTLguXtczSGhuFNe) | [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR), [TJ.](https://open.spotify.com/artist/1VukMaKicUxriVC1UJahgC), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Good Times In Lagoa](https://open.spotify.com/album/5hC0KqFAhsLa4an6MBu40T) | 2:09 | 2023-10-26 |  |

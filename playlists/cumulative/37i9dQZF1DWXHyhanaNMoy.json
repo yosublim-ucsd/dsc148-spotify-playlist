@@ -143,6 +143,24 @@
     },
     {
       "album": {
+        "name": "42",
+        "url": "https://open.spotify.com/album/18JyTvFLFrwZowo7rw9wO2"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175842,
+      "name": "42",
+      "url": "https://open.spotify.com/track/1xHHbz3YLEbqAuQFkM9Zcg"
+    },
+    {
+      "album": {
         "name": "Strandje Aan De Maas",
         "url": "https://open.spotify.com/album/6p6fROC9FzKXHBY7RyVjuA"
       },
@@ -4233,6 +4251,28 @@
     },
     {
       "album": {
+        "name": "Chicokis",
+        "url": "https://open.spotify.com/album/7nwpYVW58MD6SmbW8beX7s"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "Chicokis",
+      "url": "https://open.spotify.com/track/0B4pPvg3BkxwfqleM2ZSWM"
+    },
+    {
+      "album": {
         "name": "Chingar (Remix)",
         "url": "https://open.spotify.com/album/1JVd3rY42r8rDAZb4X6Pq5"
       },
@@ -4536,7 +4576,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 157200,
       "name": "Commas",
       "url": "https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy"
@@ -5368,7 +5408,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 153202,
       "name": "Dikke Bille",
       "url": "https://open.spotify.com/track/1rCAyI2EiUFp80T5dLRhgr"
@@ -8460,7 +8500,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 127152,
       "name": "Hoola Hoop",
       "url": "https://open.spotify.com/track/4ri4OCP0oDrxXMTMPPliRD"
@@ -8559,6 +8599,32 @@
     },
     {
       "album": {
+        "name": "Hypnose / Para Wak",
+        "url": "https://open.spotify.com/album/2JJq57dubsSayDcDc5UfRy"
+      },
+      "artists": [
+        {
+          "name": "K-Liber",
+          "url": "https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2"
+        },
+        {
+          "name": "Afro Bros",
+          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        },
+        {
+          "name": "Ameeth D.",
+          "url": "https://open.spotify.com/artist/4cz3aoMHWYMnpL3Hr20xWq"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144857,
+      "name": "Hypnose",
+      "url": "https://open.spotify.com/track/0puT5NbrIQDlY1On1DSXrZ"
+    },
+    {
+      "album": {
         "name": "Hyp\u00e9",
         "url": "https://open.spotify.com/album/4sLU8ldibaLzZcCfbqMzU6"
       },
@@ -8592,7 +8658,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 157402,
       "name": "Hyp\u00e9 (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J"
@@ -8924,6 +8990,36 @@
       "duration_ms": 129836,
       "name": "Ik Weet Niet",
       "url": "https://open.spotify.com/track/5xjIxrtC2y1juhZOMbmlio"
+    },
+    {
+      "album": {
+        "name": "Ik Wil Je Neuken",
+        "url": "https://open.spotify.com/album/2Oda54LfqgitUuBa8gp9H4"
+      },
+      "artists": [
+        {
+          "name": "IMMO",
+          "url": "https://open.spotify.com/artist/4u4FCKbVpmElVrIlqpBSjm"
+        },
+        {
+          "name": "Puri",
+          "url": "https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp"
+        },
+        {
+          "name": "Adje",
+          "url": "https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m"
+        },
+        {
+          "name": "ValsBezig",
+          "url": "https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187048,
+      "name": "Ik Wil Je Neuken",
+      "url": "https://open.spotify.com/track/6orgppsxXeMjspI27dS0E9"
     },
     {
       "album": {
@@ -10967,6 +11063,46 @@
     },
     {
       "album": {
+        "name": "Level Up",
+        "url": "https://open.spotify.com/album/1QYVgMdZvkGrCUfgJNYp1W"
+      },
+      "artists": [
+        {
+          "name": "Hulk Van JMF",
+          "url": "https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174049,
+      "name": "Level Up",
+      "url": "https://open.spotify.com/track/69fWryTuH5JezLWJQepEhv"
+    },
+    {
+      "album": {
+        "name": "Libi",
+        "url": "https://open.spotify.com/album/1daDr7HoUrOi6mofzJ1xIn"
+      },
+      "artists": [
+        {
+          "name": "Yssi SB",
+          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
+        },
+        {
+          "name": "Diquenza",
+          "url": "https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173858,
+      "name": "Libi",
+      "url": "https://open.spotify.com/track/4S4slfIFjvdlY0II0XHadj"
+    },
+    {
+      "album": {
         "name": "Lick (North African Remix)",
         "url": "https://open.spotify.com/album/1mUMh0VT7a9YeqDno2u6IJ"
       },
@@ -11530,7 +11666,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 195643,
       "name": "Lost & Found",
       "url": "https://open.spotify.com/track/7kleqbfZAvPzMMiX1uxCin"
@@ -12358,6 +12494,28 @@
       "duration_ms": 255160,
       "name": "Meridian",
       "url": "https://open.spotify.com/track/73LBcJygFdRAiJfWkpnf2G"
+    },
+    {
+      "album": {
+        "name": "Mes Lov\u00e9s",
+        "url": "https://open.spotify.com/album/4hufR5ALDudDZxiReG2JiT"
+      },
+      "artists": [
+        {
+          "name": "Ponko",
+          "url": "https://open.spotify.com/artist/2xzGVKiyGIsI4NomojrK39"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188717,
+      "name": "Mes Lov\u00e9s",
+      "url": "https://open.spotify.com/track/1dpuodugAA3ZVyV0oXHUu4"
     },
     {
       "album": {
@@ -13192,7 +13350,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 175452,
       "name": "My Type",
       "url": "https://open.spotify.com/track/6OG7hyl1LZv2dq9QXX7WEv"
@@ -15338,7 +15496,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 119285,
       "name": "Perdiste",
       "url": "https://open.spotify.com/track/2A7ZjaERtQStEmMhSU1BU3"
@@ -17933,6 +18091,24 @@
     },
     {
       "album": {
+        "name": "Spiegel",
+        "url": "https://open.spotify.com/album/4hJyZ2dQE7siMnOivQBig3"
+      },
+      "artists": [
+        {
+          "name": "Freddie Konings",
+          "url": "https://open.spotify.com/artist/2Gdf9LI423ukSgomDCxQI2"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142080,
+      "name": "Spiegel",
+      "url": "https://open.spotify.com/track/6ANgmO9fBLeeK8MfVv6je0"
+    },
+    {
+      "album": {
         "name": "Spijbelaar",
         "url": "https://open.spotify.com/album/5lmn83ndqMmd1IkJBjzKun"
       },
@@ -20040,7 +20216,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 221250,
       "name": "T\u2019\u00e9tais o\u00f9 ?",
       "url": "https://open.spotify.com/track/1q6nM8Y7NJDsgFknLfZfp4"

@@ -1,6 +1,6 @@
 {
   "description": "beats + birds = <3\u2028",
-  "num_followers": 231565,
+  "num_followers": 231724,
   "original_name": "lofi garden",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,26 @@
       "duration_ms": 118125,
       "name": "spring clean",
       "url": "https://open.spotify.com/track/6qIDY6ypEHxlXPMnabAmvX"
+    },
+    {
+      "added_at": "2024-06-19 11:41:04",
+      "album": {
+        "name": "Corner Garden",
+        "url": "https://open.spotify.com/album/6i0m3KoFhVSQQwHBEGaLql"
+      },
+      "artists": [
+        {
+          "name": "Momentology",
+          "url": "https://open.spotify.com/artist/3Hg0Oo6hrlDBYcWqQtTTNr"
+        },
+        {
+          "name": "#13",
+          "url": "https://open.spotify.com/artist/0yuehcXdnYlOlitRFFxTle"
+        }
+      ],
+      "duration_ms": 160065,
+      "name": "Corner Garden",
+      "url": "https://open.spotify.com/track/628hS5M8ymBdzrSJhu6Gad"
     },
     {
       "added_at": "2024-06-19 11:41:04",

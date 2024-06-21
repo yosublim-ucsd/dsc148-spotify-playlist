@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2024 RADAR登場！持續發掘世一超新聲！Cover:  Zelos Wong 黃凱逸
+> 2024 RADAR登場！持續發掘世一超新聲！Cover:  Cotaboii
 
-199 songs - 11 hr 27 min
+200 songs - 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [借夢](https://open.spotify.com/track/2OypHetAmUaCOzqHwSUGGn) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [借夢](https://open.spotify.com/album/217H0K4lcncewRCzm1AXME) | 4:44 | 2022-11-17 | 2024-03-29 |
 | [備忘錄No.164](https://open.spotify.com/track/0uHJGfr7UjilFALl8OblXq) | [PetPetShawn](https://open.spotify.com/artist/3yL4X4Lk7qA5q9FShkremM) | [備忘錄No.164](https://open.spotify.com/album/0ECU32yqFn4yIASDRlSWmM) | 2:23 | 2023-04-13 | 2024-03-29 |
 | [光](https://open.spotify.com/track/1FaWHaqHzNag0AGkM2lPXO) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Callous Room](https://open.spotify.com/album/6f7w2CEVF64paCqtEtXsOe) | 2:45 | 2023-04-13 | 2024-03-29 |
+| [兜圈圈](https://open.spotify.com/track/6sGefs5VLUwdWGEoIynhl4) | [CotaBoii](https://open.spotify.com/artist/2yUScYyzi0WG8ldMEFximW) | [兜圈圈](https://open.spotify.com/album/3bByRiBS1GAOIxQ14ZeCHK) | 3:15 | 2024-06-20 |  |
 | [全死角美少女戰士](https://open.spotify.com/track/2uXTxj4B5vtsT8ieJA8U8f) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [全死角美少女戰士](https://open.spotify.com/album/4GCGAl1CFMKWvjZ2vRL256) | 3:43 | 2023-03-23 | 2024-03-29 |
 | [六度相隔理論](https://open.spotify.com/track/5xPanuB9wjmTaZslFji92G) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [六度相隔理論](https://open.spotify.com/album/3wxU6Q9INasmx6GYVpZ8Lv) | 3:55 | 2024-02-01 |  |
 | [列車](https://open.spotify.com/track/16VxP8nA8hfedGcO6qQufW) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [列車](https://open.spotify.com/album/2pYtIJDaTsExRe9XPIIOpK) | 4:40 | 2022-05-26 | 2022-10-20 |

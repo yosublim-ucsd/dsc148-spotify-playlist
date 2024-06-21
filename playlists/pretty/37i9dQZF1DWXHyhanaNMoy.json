@@ -1,32 +1,52 @@
 {
   "description": "Motion en good vibes. Superster: Alessio",
-  "num_followers": 323259,
+  "num_followers": 323277,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmtr4AAAAADNqZdAey/tQp4Mj8C61369",
+  "snapshot_id": "ZnSrsAAAAACXXmAKxfWgLNBCSSpHDlir",
   "tracks": [
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-06-20 22:22:40",
       "album": {
-        "name": "Superster (feat. Priceless)",
-        "url": "https://open.spotify.com/album/0zRPWGeCO434LM2U5mZQBp"
+        "name": "Libi",
+        "url": "https://open.spotify.com/album/1daDr7HoUrOi6mofzJ1xIn"
       },
       "artists": [
         {
-          "name": "Alessio",
-          "url": "https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj"
+          "name": "Yssi SB",
+          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
         },
         {
-          "name": "Priceless",
-          "url": "https://open.spotify.com/artist/2408j875K0AESndCiOw5UO"
+          "name": "Diquenza",
+          "url": "https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV"
         }
       ],
-      "duration_ms": 146673,
-      "name": "Superster (feat. Priceless)",
-      "url": "https://open.spotify.com/track/5fkx5mCkwfKeEIzdSsmd7y"
+      "duration_ms": 173858,
+      "name": "Libi",
+      "url": "https://open.spotify.com/track/4S4slfIFjvdlY0II0XHadj"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Matchday",
+        "url": "https://open.spotify.com/album/7o1TBmwLGf3zrBYXlvd8V0"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        },
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        }
+      ],
+      "duration_ms": 150892,
+      "name": "Matchday",
+      "url": "https://open.spotify.com/track/4peow9pJx76ZvS5FtzGo5H"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -53,56 +73,20 @@
       "url": "https://open.spotify.com/track/5cXQQa5G0hyc6m5Mk1rM2i"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-06-20 22:22:40",
       "album": {
-        "name": "Matchday",
-        "url": "https://open.spotify.com/album/7o1TBmwLGf3zrBYXlvd8V0"
+        "name": "42",
+        "url": "https://open.spotify.com/album/18JyTvFLFrwZowo7rw9wO2"
       },
       "artists": [
         {
-          "name": "Broederliefde",
-          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
-        },
-        {
-          "name": "$hirak",
-          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
         }
       ],
-      "duration_ms": 150892,
-      "name": "Matchday",
-      "url": "https://open.spotify.com/track/4peow9pJx76ZvS5FtzGo5H"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Love = Scary",
-        "url": "https://open.spotify.com/album/34mLUrlEQ8vjRYyDAXT4A8"
-      },
-      "artists": [
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        }
-      ],
-      "duration_ms": 147090,
-      "name": "Love = Scary",
-      "url": "https://open.spotify.com/track/39gFgXRPPZjv8HebmbT6rW"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Paparazzi",
-        "url": "https://open.spotify.com/album/0rJk1wo346iln3FupbnF3b"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 147641,
-      "name": "Paparazzi",
-      "url": "https://open.spotify.com/track/7eVAdBJEHMk25YKKFftmJt"
+      "duration_ms": 175842,
+      "name": "42",
+      "url": "https://open.spotify.com/track/1xHHbz3YLEbqAuQFkM9Zcg"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -123,6 +107,178 @@
       "duration_ms": 156554,
       "name": "FAKE LOVE",
       "url": "https://open.spotify.com/track/0LyV0H4Lq3kTF5rXncux9j"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Superster (feat. Priceless)",
+        "url": "https://open.spotify.com/album/0zRPWGeCO434LM2U5mZQBp"
+      },
+      "artists": [
+        {
+          "name": "Alessio",
+          "url": "https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj"
+        },
+        {
+          "name": "Priceless",
+          "url": "https://open.spotify.com/artist/2408j875K0AESndCiOw5UO"
+        }
+      ],
+      "duration_ms": 146673,
+      "name": "Superster (feat. Priceless)",
+      "url": "https://open.spotify.com/track/5fkx5mCkwfKeEIzdSsmd7y"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Ver",
+        "url": "https://open.spotify.com/album/4YtpERBETqQQTTjjy15h4K"
+      },
+      "artists": [
+        {
+          "name": "Red Moons",
+          "url": "https://open.spotify.com/artist/0XldWxMP7pIID97K67gQNo"
+        },
+        {
+          "name": "Bokke8",
+          "url": "https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB"
+        },
+        {
+          "name": "Machario",
+          "url": "https://open.spotify.com/artist/3D3G9qcu6f9pBQMWa9YGXj"
+        }
+      ],
+      "duration_ms": 145882,
+      "name": "Ver",
+      "url": "https://open.spotify.com/track/3QvSJfsnuTOU02IhhEjPOG"
+    },
+    {
+      "added_at": "2024-06-20 22:22:40",
+      "album": {
+        "name": "Mes Lov\u00e9s",
+        "url": "https://open.spotify.com/album/4hufR5ALDudDZxiReG2JiT"
+      },
+      "artists": [
+        {
+          "name": "Ponko",
+          "url": "https://open.spotify.com/artist/2xzGVKiyGIsI4NomojrK39"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "duration_ms": 188717,
+      "name": "Mes Lov\u00e9s",
+      "url": "https://open.spotify.com/track/1dpuodugAA3ZVyV0oXHUu4"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "Love = Scary",
+        "url": "https://open.spotify.com/album/34mLUrlEQ8vjRYyDAXT4A8"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "duration_ms": 147090,
+      "name": "Love = Scary",
+      "url": "https://open.spotify.com/track/39gFgXRPPZjv8HebmbT6rW"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "Designers",
+        "url": "https://open.spotify.com/album/2pTwxvjTS5XCJIOOeCPd0Q"
+      },
+      "artists": [
+        {
+          "name": "IliassOpDeBeat",
+          "url": "https://open.spotify.com/artist/7jlzu3WivGk7tszA2QUSxw"
+        },
+        {
+          "name": "LouiVos",
+          "url": "https://open.spotify.com/artist/0lzYw5xI9jgMg8O5i4bTre"
+        },
+        {
+          "name": "Dopebwoy",
+          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
+        }
+      ],
+      "duration_ms": 181658,
+      "name": "Designers",
+      "url": "https://open.spotify.com/track/4WFWjdqin0t72MwAqY2UQs"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "Paparazzi",
+        "url": "https://open.spotify.com/album/0rJk1wo346iln3FupbnF3b"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 147641,
+      "name": "Paparazzi",
+      "url": "https://open.spotify.com/track/7eVAdBJEHMk25YKKFftmJt"
+    },
+    {
+      "added_at": "2024-06-20 22:22:40",
+      "album": {
+        "name": "Ik Wil Je Neuken",
+        "url": "https://open.spotify.com/album/2Oda54LfqgitUuBa8gp9H4"
+      },
+      "artists": [
+        {
+          "name": "IMMO",
+          "url": "https://open.spotify.com/artist/4u4FCKbVpmElVrIlqpBSjm"
+        },
+        {
+          "name": "Puri",
+          "url": "https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp"
+        },
+        {
+          "name": "Adje",
+          "url": "https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m"
+        },
+        {
+          "name": "ValsBezig",
+          "url": "https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4"
+        }
+      ],
+      "duration_ms": 187048,
+      "name": "Ik Wil Je Neuken",
+      "url": "https://open.spotify.com/track/6orgppsxXeMjspI27dS0E9"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Gata Only (Remix)",
+        "url": "https://open.spotify.com/album/3j6Hr2FWIsjgTKWbfRx0tu"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 230513,
+      "name": "Gata Only (Remix)",
+      "url": "https://open.spotify.com/track/0JGTfiC4Z41GEEpMYLbWwO"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -171,6 +327,46 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
+        "name": "Luv Again",
+        "url": "https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 220606,
+      "name": "Luv Again",
+      "url": "https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM"
+    },
+    {
+      "added_at": "2024-06-20 22:22:40",
+      "album": {
+        "name": "Hypnose / Para Wak",
+        "url": "https://open.spotify.com/album/2JJq57dubsSayDcDc5UfRy"
+      },
+      "artists": [
+        {
+          "name": "K-Liber",
+          "url": "https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2"
+        },
+        {
+          "name": "Afro Bros",
+          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        },
+        {
+          "name": "Ameeth D.",
+          "url": "https://open.spotify.com/artist/4cz3aoMHWYMnpL3Hr20xWq"
+        }
+      ],
+      "duration_ms": 144857,
+      "name": "Hypnose",
+      "url": "https://open.spotify.com/track/0puT5NbrIQDlY1On1DSXrZ"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
         "name": "Samen (Niet Alleen)",
         "url": "https://open.spotify.com/album/68hXkfVxsDWyBj7DDtz8Vg"
       },
@@ -187,30 +383,6 @@
       "duration_ms": 145296,
       "name": "Samen (Niet Alleen)",
       "url": "https://open.spotify.com/track/0lDTAuwGNLvOiavYF9GmFe"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Designers",
-        "url": "https://open.spotify.com/album/2pTwxvjTS5XCJIOOeCPd0Q"
-      },
-      "artists": [
-        {
-          "name": "IliassOpDeBeat",
-          "url": "https://open.spotify.com/artist/7jlzu3WivGk7tszA2QUSxw"
-        },
-        {
-          "name": "LouiVos",
-          "url": "https://open.spotify.com/artist/0lzYw5xI9jgMg8O5i4bTre"
-        },
-        {
-          "name": "Dopebwoy",
-          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
-        }
-      ],
-      "duration_ms": 181658,
-      "name": "Designers",
-      "url": "https://open.spotify.com/track/4WFWjdqin0t72MwAqY2UQs"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -233,28 +405,20 @@
       "url": "https://open.spotify.com/track/769zoqvbzLNOfi6GCgHC3l"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-06-20 22:22:40",
       "album": {
-        "name": "Ver",
-        "url": "https://open.spotify.com/album/4YtpERBETqQQTTjjy15h4K"
+        "name": "Spiegel",
+        "url": "https://open.spotify.com/album/4hJyZ2dQE7siMnOivQBig3"
       },
       "artists": [
         {
-          "name": "Red Moons",
-          "url": "https://open.spotify.com/artist/0XldWxMP7pIID97K67gQNo"
-        },
-        {
-          "name": "Bokke8",
-          "url": "https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB"
-        },
-        {
-          "name": "Machario",
-          "url": "https://open.spotify.com/artist/3D3G9qcu6f9pBQMWa9YGXj"
+          "name": "Freddie Konings",
+          "url": "https://open.spotify.com/artist/2Gdf9LI423ukSgomDCxQI2"
         }
       ],
-      "duration_ms": 145882,
-      "name": "Ver",
-      "url": "https://open.spotify.com/track/3QvSJfsnuTOU02IhhEjPOG"
+      "duration_ms": 142080,
+      "name": "Spiegel",
+      "url": "https://open.spotify.com/track/6ANgmO9fBLeeK8MfVv6je0"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -293,44 +457,44 @@
       "url": "https://open.spotify.com/track/0PFOCmRvh6HyBXXUsxmcrb"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-20 22:22:40",
       "album": {
-        "name": "Luv Again",
-        "url": "https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv"
+        "name": "Chicokis",
+        "url": "https://open.spotify.com/album/7nwpYVW58MD6SmbW8beX7s"
       },
       "artists": [
         {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
         }
       ],
-      "duration_ms": 220606,
-      "name": "Luv Again",
-      "url": "https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM"
+      "duration_ms": 185806,
+      "name": "Chicokis",
+      "url": "https://open.spotify.com/track/0B4pPvg3BkxwfqleM2ZSWM"
     },
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Tokkoh",
-        "url": "https://open.spotify.com/album/4cefem5W4JJcEB9n813UXI"
+        "name": "SPIDER",
+        "url": "https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf"
       },
       "artists": [
         {
-          "name": "Diaz & Bruno",
-          "url": "https://open.spotify.com/artist/6FGZPlL2dhssxgQlpb7I7W"
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
         },
         {
-          "name": "Adje",
-          "url": "https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m"
-        },
-        {
-          "name": "Poke",
-          "url": "https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1"
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Tokkoh",
-      "url": "https://open.spotify.com/track/1EbdHMrk9t9WbEdEvIYQzK"
+      "duration_ms": 188818,
+      "name": "SPIDER",
+      "url": "https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -367,50 +531,6 @@
       "duration_ms": 155771,
       "name": "Keeper",
       "url": "https://open.spotify.com/track/4JdEDm25kiFS9pxNUs2bPN"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Gata Only (Remix)",
-        "url": "https://open.spotify.com/album/3j6Hr2FWIsjgTKWbfRx0tu"
-      },
-      "artists": [
-        {
-          "name": "FloyyMenor",
-          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 230513,
-      "name": "Gata Only (Remix)",
-      "url": "https://open.spotify.com/track/0JGTfiC4Z41GEEpMYLbWwO"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "SPIDER",
-        "url": "https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
-        }
-      ],
-      "duration_ms": 188818,
-      "name": "SPIDER",
-      "url": "https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -501,6 +621,22 @@
       "url": "https://open.spotify.com/track/5alGFMfqBYoo1ifkYblVDb"
     },
     {
+      "added_at": "2024-06-20 22:22:40",
+      "album": {
+        "name": "Level Up",
+        "url": "https://open.spotify.com/album/1QYVgMdZvkGrCUfgJNYp1W"
+      },
+      "artists": [
+        {
+          "name": "Hulk Van JMF",
+          "url": "https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE"
+        }
+      ],
+      "duration_ms": 174049,
+      "name": "Level Up",
+      "url": "https://open.spotify.com/track/69fWryTuH5JezLWJQepEhv"
+    },
+    {
       "added_at": "2024-06-06 22:00:00",
       "album": {
         "name": "Jij Bent Het",
@@ -575,6 +711,30 @@
       "duration_ms": 188956,
       "name": "Stiekem \u201824",
       "url": "https://open.spotify.com/track/1FdncxahefhSPAE1npIMCk"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "Tokkoh",
+        "url": "https://open.spotify.com/album/4cefem5W4JJcEB9n813UXI"
+      },
+      "artists": [
+        {
+          "name": "Diaz & Bruno",
+          "url": "https://open.spotify.com/artist/6FGZPlL2dhssxgQlpb7I7W"
+        },
+        {
+          "name": "Adje",
+          "url": "https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m"
+        },
+        {
+          "name": "Poke",
+          "url": "https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Tokkoh",
+      "url": "https://open.spotify.com/track/1EbdHMrk9t9WbEdEvIYQzK"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -711,42 +871,6 @@
       "duration_ms": 146279,
       "name": "Habri Porta",
       "url": "https://open.spotify.com/track/4JCRG0LXlKiifVhAMJDnR9"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Hoola Hoop",
-        "url": "https://open.spotify.com/album/7xsr1Nfpnn7xWqRQJKELYJ"
-      },
-      "artists": [
-        {
-          "name": "Makkie",
-          "url": "https://open.spotify.com/artist/3ZwM56IXFGMIsUFK0GEygo"
-        },
-        {
-          "name": "Shqq",
-          "url": "https://open.spotify.com/artist/6vi2JBAG0l35nszvlOfcAr"
-        }
-      ],
-      "duration_ms": 127152,
-      "name": "Hoola Hoop",
-      "url": "https://open.spotify.com/track/4ri4OCP0oDrxXMTMPPliRD"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Dikke Bille",
-        "url": "https://open.spotify.com/album/12fkphM1mU9sQMQrp0kV0r"
-      },
-      "artists": [
-        {
-          "name": "TAVV",
-          "url": "https://open.spotify.com/artist/4YddQ3n18iC5QPZQBJMmAM"
-        }
-      ],
-      "duration_ms": 153202,
-      "name": "Dikke Bille",
-      "url": "https://open.spotify.com/track/1rCAyI2EiUFp80T5dLRhgr"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1295,118 +1419,6 @@
       "duration_ms": 125825,
       "name": "Wine Dat",
       "url": "https://open.spotify.com/track/4MrI59cGOBajoKZSzXyvg4"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Perdiste",
-        "url": "https://open.spotify.com/album/7kViNXWBbOD3RahNpEZMr3"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        }
-      ],
-      "duration_ms": 119285,
-      "name": "Perdiste",
-      "url": "https://open.spotify.com/track/2A7ZjaERtQStEmMhSU1BU3"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/2UMTQXRwobqaIDJaYDsHN8"
-      },
-      "artists": [
-        {
-          "name": "Broederliefde",
-          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
-        }
-      ],
-      "duration_ms": 195643,
-      "name": "Lost & Found",
-      "url": "https://open.spotify.com/track/7kleqbfZAvPzMMiX1uxCin"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Commas",
-        "url": "https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "Commas",
-      "url": "https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "T\u2019\u00e9tais o\u00f9 ?",
-        "url": "https://open.spotify.com/album/4YzgzJggoHU1azpDoUMMf5"
-      },
-      "artists": [
-        {
-          "name": "Jungeli",
-          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
-        },
-        {
-          "name": "Vegedream",
-          "url": "https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd"
-        },
-        {
-          "name": "Zaho",
-          "url": "https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o"
-        },
-        {
-          "name": "Alonzo",
-          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
-        }
-      ],
-      "duration_ms": 221250,
-      "name": "T\u2019\u00e9tais o\u00f9 ?",
-      "url": "https://open.spotify.com/track/1q6nM8Y7NJDsgFknLfZfp4"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "My Type",
-        "url": "https://open.spotify.com/album/5RrcjQOHU4p7Buzgkj1cvq"
-      },
-      "artists": [
-        {
-          "name": "Dior",
-          "url": "https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt"
-        }
-      ],
-      "duration_ms": 175452,
-      "name": "My Type",
-      "url": "https://open.spotify.com/track/6OG7hyl1LZv2dq9QXX7WEv"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Hyp\u00e9 (feat. Ayra Starr)",
-        "url": "https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 157402,
-      "name": "Hyp\u00e9 (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J"
     }
   ],
   "unique_name": "La Vida Loca",

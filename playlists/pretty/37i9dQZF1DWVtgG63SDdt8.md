@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover:   <a href="spotify:artist:44tJHJzGo1h7XbBTepJwb0">Ke'Erron</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,274 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,320 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 31 | [You](https://open.spotify.com/track/6cyhb99lhlEGNcHbeLiw5D) | [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [You](https://open.spotify.com/album/0igGC3PsZJxlQH6Uk5o6zt) | 2:25 |
 | 32 | [GODS HAND](https://open.spotify.com/track/3ziRrlTS93NcvP3eGgJz5r) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [GODS HAND](https://open.spotify.com/album/0c2qV4UymqJK1C8iXFrEQd) | 3:33 |
 | 33 | [Jesus Juke \(Favor\)](https://open.spotify.com/track/2kEmG9OPYYIQ6gUjiQmbPF) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2) | [Jesus Juke \(Favor\)](https://open.spotify.com/album/6LsEKSVjxYiUSUXkUpGXF9) | 2:00 |
-| 34 | [Thank You Jesus](https://open.spotify.com/track/2zWa2zOIJyPyrWX1qIQxuT) | [Benji](https://open.spotify.com/artist/0HUqpd0yqVjDWnLo91j8zY) | [Thank You Jesus](https://open.spotify.com/album/4uCVhpWRXZDwbwylOgbWhe) | 2:36 |
+| 34 | [thank you Jesus](https://open.spotify.com/track/2zWa2zOIJyPyrWX1qIQxuT) | [Benji](https://open.spotify.com/artist/0HUqpd0yqVjDWnLo91j8zY) | [thank you Jesus](https://open.spotify.com/album/4uCVhpWRXZDwbwylOgbWhe) | 2:36 |
 | 35 | [TIGHTROPE](https://open.spotify.com/track/1AUw3hXkj4phJ29UQ3WsiD) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [TuKool Tiff](https://open.spotify.com/artist/50YX6wIj2UNBUvYs13U61H) | [TIGHTROPE](https://open.spotify.com/album/5PDi46ieLVa8dQagMPxySo) | 3:04 |
 | 36 | [True Religion](https://open.spotify.com/track/0hw0pt9irKkXj3qmML0Vbe) | [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O) | [True Religion](https://open.spotify.com/album/6gIjCOKVtLmcFYQvr3sWjg) | 2:26 |
 | 37 | [renaissance](https://open.spotify.com/track/6SxQqlPw6rqBOIoihXGpjx) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [renaissance](https://open.spotify.com/album/6679OcphVWYGyReuepOQNW) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Lord, I've Settled \(Brother Isaiah, J.J\. Wright and Friends\)](https://open.spotify.com/track/4nxdE5pNHJ552rmEgcUu3F) | [Brother Isaiah](https://open.spotify.com/artist/1sinl28g8iiwl51XZM4qcx), [J.J\. Wright](https://open.spotify.com/artist/6qIg747XLd3pbCCkk49m7b) | [Lord, I've Settled \(Brother Isaiah, J.J\. Wright and Friends\)](https://open.spotify.com/album/4e1hCxWDE81W2bX8e0CwsU) | 3:15 |
 | 100 | [All Knowing](https://open.spotify.com/track/5f3ic4CBtzPpTciYQxxctg) | [Noah Baker](https://open.spotify.com/artist/0DnCxVNBEUIdrAAPbp8yVx) | [Hollow](https://open.spotify.com/album/79N0uUOlgJ23fc6nbqmSfr) | 2:26 |
 
-Snapshot ID: `ZmvZ1wAAAADav5oKVsMOFHFnIBOtAmSv`
+Snapshot ID: `ZnSkPQAAAAAZVVG65KOkx/Idx3J4noEl`

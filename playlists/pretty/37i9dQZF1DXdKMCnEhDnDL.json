@@ -1,13 +1,29 @@
 {
-  "description": "De beste Nederlandse liedjes. Cover: Tino Martin & Anouk",
-  "num_followers": 487393,
+  "description": "De beste Nederlandse liedjes. Cover: Roxy Dekker",
+  "num_followers": 487437,
   "original_name": "Beste van NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmw4MAAAAAAaeyYSH6xuw5jq5U3/nG6t",
+  "snapshot_id": "ZnSmYAAAAADX8cGu81RE5WoxUsIrWYV9",
   "tracks": [
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Satisfyer",
+        "url": "https://open.spotify.com/album/3Kg5fJ83azbIWDKrqAuh4c"
+      },
+      "artists": [
+        {
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        }
+      ],
+      "duration_ms": 121451,
+      "name": "Satisfyer",
+      "url": "https://open.spotify.com/track/0Uy5VFlvsosR3YZbpsxYFh"
+    },
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
@@ -67,22 +83,6 @@
       "duration_ms": 205520,
       "name": "Stukje Van Mij",
       "url": "https://open.spotify.com/track/3k9LdosLHcyy4kE5J6pV2p"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Satisfyer",
-        "url": "https://open.spotify.com/album/3Kg5fJ83azbIWDKrqAuh4c"
-      },
-      "artists": [
-        {
-          "name": "Roxy Dekker",
-          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
-        }
-      ],
-      "duration_ms": 121451,
-      "name": "Satisfyer",
-      "url": "https://open.spotify.com/track/0Uy5VFlvsosR3YZbpsxYFh"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -203,6 +203,22 @@
       "duration_ms": 180778,
       "name": "Zoet, Zout, Zuur",
       "url": "https://open.spotify.com/track/4xTjO1NgHBEbINFUQ9Kgao"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/4Tl02H0tgYPsKORUb338Kt"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "duration_ms": 143437,
+      "name": "Cupido",
+      "url": "https://open.spotify.com/track/4eqKoFDvkBK96nYgUTXUWp"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -365,20 +381,20 @@
       "url": "https://open.spotify.com/track/6m28vQjkw7kfEagXmJRI6Y"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Cupido",
-        "url": "https://open.spotify.com/album/4Tl02H0tgYPsKORUb338Kt"
+        "name": "Noodzakelijk Verdriet",
+        "url": "https://open.spotify.com/album/2K7gv2r8UMcEbp88ytO12o"
       },
       "artists": [
         {
-          "name": "Bankzitters",
-          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+          "name": "Froukje",
+          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
         }
       ],
-      "duration_ms": 143437,
-      "name": "Cupido",
-      "url": "https://open.spotify.com/track/4eqKoFDvkBK96nYgUTXUWp"
+      "duration_ms": 152730,
+      "name": "We Hebben De Tijd",
+      "url": "https://open.spotify.com/track/6YbyOC4jqn7P9bsIJWdVSq"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -511,22 +527,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Noodzakelijk Verdriet",
-        "url": "https://open.spotify.com/album/2K7gv2r8UMcEbp88ytO12o"
-      },
-      "artists": [
-        {
-          "name": "Froukje",
-          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
-        }
-      ],
-      "duration_ms": 171333,
-      "name": "Kwijt",
-      "url": "https://open.spotify.com/track/6P3cbZ06AN6B5vcF1cyOz1"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Ruggengraat",
         "url": "https://open.spotify.com/album/3JVuWFwn71zVGhyMKyw85V"
       },
@@ -575,6 +575,22 @@
       "duration_ms": 183281,
       "name": "Ik Kom Weer Thuis",
       "url": "https://open.spotify.com/track/5VzimlAe6d9QJgCYgWky8v"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Entourage",
+        "url": "https://open.spotify.com/album/3QuhArgaKaAgzXoh6Iggue"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "duration_ms": 129433,
+      "name": "Entourage",
+      "url": "https://open.spotify.com/track/48kxfGK5XbO1eW8Cf4Vil7"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -745,20 +761,20 @@
       "url": "https://open.spotify.com/track/4MpBOY98wCVLORdmbrBh3o"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "IK ZEG HET TE WEINIG",
-        "url": "https://open.spotify.com/album/5Ukd8XCbHko4DH8p4pnm0V"
+        "name": "Soldier On",
+        "url": "https://open.spotify.com/album/1h86JSDcGsMsWgPFpoZ0Aj"
       },
       "artists": [
         {
-          "name": "Simon Keizer",
-          "url": "https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2"
+          "name": "DI-RECT",
+          "url": "https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q"
         }
       ],
-      "duration_ms": 165655,
-      "name": "IK ZEG HET TE WEINIG",
-      "url": "https://open.spotify.com/track/0CGpjldNJedaNmhW5neQPZ"
+      "duration_ms": 207853,
+      "name": "Soldier On",
+      "url": "https://open.spotify.com/track/5ciRElWhvA0LuG2hQi90Ie"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -959,22 +975,18 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "De Tijd Gaat Mooie Dingen Doen",
-        "url": "https://open.spotify.com/album/6myczO3dCuLnjSoUS6yOfY"
+        "name": "Noodzakelijk Verdriet",
+        "url": "https://open.spotify.com/album/2K7gv2r8UMcEbp88ytO12o"
       },
       "artists": [
         {
-          "name": "Roxeanne Hazes",
-          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
-        },
-        {
-          "name": "Kraantje Pappie",
-          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
+          "name": "Froukje",
+          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
         }
       ],
-      "duration_ms": 156363,
-      "name": "1234",
-      "url": "https://open.spotify.com/track/0ZcTWDFmCidCFw4pPr7ekO"
+      "duration_ms": 171333,
+      "name": "Kwijt",
+      "url": "https://open.spotify.com/track/6P3cbZ06AN6B5vcF1cyOz1"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1063,22 +1075,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Verrader",
-        "url": "https://open.spotify.com/album/3LxnX0bz2R5b5CWsUE3PN6"
-      },
-      "artists": [
-        {
-          "name": "Sigourney K",
-          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
-        }
-      ],
-      "duration_ms": 162984,
-      "name": "Verrader",
-      "url": "https://open.spotify.com/track/41ftob2dyXVwsrC3Q5oNIq"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Volumia!",
         "url": "https://open.spotify.com/album/3RG3z8qzEU5ZztjWvfAcvs"
       },
@@ -1091,6 +1087,22 @@
       "duration_ms": 224933,
       "name": "Hou me vast",
       "url": "https://open.spotify.com/track/5MpQcSDV8mCDRo9DL4gsYM"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "IK ZEG HET TE WEINIG",
+        "url": "https://open.spotify.com/album/5Ukd8XCbHko4DH8p4pnm0V"
+      },
+      "artists": [
+        {
+          "name": "Simon Keizer",
+          "url": "https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2"
+        }
+      ],
+      "duration_ms": 165655,
+      "name": "IK ZEG HET TE WEINIG",
+      "url": "https://open.spotify.com/track/0CGpjldNJedaNmhW5neQPZ"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1127,6 +1139,26 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "De Tijd Gaat Mooie Dingen Doen",
+        "url": "https://open.spotify.com/album/6myczO3dCuLnjSoUS6yOfY"
+      },
+      "artists": [
+        {
+          "name": "Roxeanne Hazes",
+          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
+        },
+        {
+          "name": "Kraantje Pappie",
+          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
+        }
+      ],
+      "duration_ms": 156363,
+      "name": "1234",
+      "url": "https://open.spotify.com/track/0ZcTWDFmCidCFw4pPr7ekO"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Beetje Gek",
         "url": "https://open.spotify.com/album/3w2wRMPHsG74O8Tikpg5Dg"
       },
@@ -1155,26 +1187,6 @@
       "duration_ms": 177254,
       "name": "Realize",
       "url": "https://open.spotify.com/track/3czKSbTHpNu7MDq1O6HCOJ"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Alleen",
-        "url": "https://open.spotify.com/album/4dhjoNEwjKzRFE4AuRYFSV"
-      },
-      "artists": [
-        {
-          "name": "Lil Kleine",
-          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
-        },
-        {
-          "name": "Boef",
-          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
-        }
-      ],
-      "duration_ms": 202892,
-      "name": "Krantenwijk",
-      "url": "https://open.spotify.com/track/64OgqQLngm2dXl9CYkAGNx"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1643,22 +1655,6 @@
       "duration_ms": 132274,
       "name": "Hallo",
       "url": "https://open.spotify.com/track/7GwNDFyxvpHAd4l1IfUDmr"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Adem In",
-        "url": "https://open.spotify.com/album/0wNvqstrp3YwZQUIKFivVf"
-      },
-      "artists": [
-        {
-          "name": "Kraantje Pappie",
-          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
-        }
-      ],
-      "duration_ms": 144109,
-      "name": "Adem In",
-      "url": "https://open.spotify.com/track/6Kw6oM5xHYE4BZsymijkYG"
     },
     {
       "added_at": "2024-06-13 22:00:00",

@@ -4,7 +4,7 @@
 
 > Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:7ruGjTmqO10lSqHWRIchnU">Daniel Godson</a>, <a href="spotify:artist:251W9nU4osxaBuBkU9HXT3">Jea Mira</a>, <a href="spotify:artist:0eWYWLizN5us1MOF1rdyh9">Livka</a>, <a href="spotify:artist:07EyVrrbqIAHNLw9FEnQUs">Lotta</a>, <a href="spotify:artist:7qAu2kYGjO28g0CJERiQhM">MAJA</a>, <a href="spotify:artist:3IQIVYEmRr7wZnEqpSjfV5">Zaleś</a>
 
-167 songs - 8 hr 7 min
+170 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Dobra Albo Zła](https://open.spotify.com/track/24FUYnBbb1WVYn7ScrEyff) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [Dobra Albo Zła](https://open.spotify.com/album/5sepbyaEmhzsNPG5oCqHtJ) | 3:13 | 2023-07-31 |  |
 | [Duch](https://open.spotify.com/track/6YHsgC9zWTgjuqVgc1IIH5) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki) | [Duch](https://open.spotify.com/album/2AU8LM1soAwmbearqrb60K) | 4:01 | 2022-08-26 | 2023-03-14 |
 | [dziwne dzieciaki z klasy](https://open.spotify.com/track/4P2HJdPFSEIdTlwEd46s18) | [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs) | [dziwne dzieciaki z klasy](https://open.spotify.com/album/6Vils2GYNmXvjQyWPhBwlB) | 1:51 | 2024-06-18 |  |
+| [Déjà Vu](https://open.spotify.com/track/3jCMMNBQbNZp1JdMjFKg32) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4), [Blinders](https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J) | [Déjà Vu](https://open.spotify.com/album/3Wkdzr7KwebHyxmxmqdAtK) | 2:18 | 2024-06-20 |  |
 | [echo](https://open.spotify.com/track/3NAkWxTUKUGNTyl3V01mZf) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [echo](https://open.spotify.com/album/6mKo5zXgRUbxAEsVwvP5eu) | 2:12 | 2023-11-10 |  |
 | [Egoistka](https://open.spotify.com/track/5qVME9yp5IFWYfK2n3irxL) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [Egoistka](https://open.spotify.com/album/0Liumm2scg9ecS9Gqnva96) | 2:48 | 2022-08-26 | 2024-03-12 |
 | [Every Single Person I Know](https://open.spotify.com/track/5uyfnKPivwc9im9rRXEU0u) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [Every Single Person I Know](https://open.spotify.com/album/54QwxJC74lJG6A5M4SN6Je) | 2:07 | 2024-03-11 |  |
@@ -56,7 +57,8 @@
 | [Gladiator](https://open.spotify.com/track/0vbp3qthXlRVsLXTbPrkX1) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Gladiator](https://open.spotify.com/album/64PdJips9zx6e7Qev1Np01) | 3:31 | 2023-03-13 |  |
 | [GOJO SATORU](https://open.spotify.com/track/7t3JhX1H4UfANMijhzoI3M) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M), [Producent Adam](https://open.spotify.com/artist/7EtPcu9pZNGR5kWW2oEQDd) | [GOJO SATORU](https://open.spotify.com/album/5dfXXlA1vpRXhFasJmahp6) | 3:25 | 2024-06-18 |  |
 | [GRAWITACJA](https://open.spotify.com/track/7pQkDJXFDCJUY0sSbbc8i9) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [charlie moncler](https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV) | [in real life](https://open.spotify.com/album/00WMFLvaeDOplwURq1E2t7) | 3:05 | 2024-02-02 |  |
-| [głos](https://open.spotify.com/track/33wtYvTtesvUWhWeDGaIhU) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [głos](https://open.spotify.com/album/22Zo1UZkoNBUcus5TnxpSJ) | 2:41 | 2024-05-03 |  |
+| [głos](https://open.spotify.com/track/33wtYvTtesvUWhWeDGaIhU) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [głos](https://open.spotify.com/album/22Zo1UZkoNBUcus5TnxpSJ) | 2:41 | 2024-05-03 | 2024-06-21 |
+| [głos \- Skytech Edit](https://open.spotify.com/track/7pu70H0Wjs5HdqLJjUUYXP) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [głos \(Skytech Edit\)](https://open.spotify.com/album/5RAnnI1p4nc89lpS1z6lUs) | 2:29 | 2024-06-20 |  |
 | [HAPPY END](https://open.spotify.com/track/2wltbuo1BJPEyz8DFwxFbL) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF), [Piotrek Lewandowski](https://open.spotify.com/artist/2F9grKyrjes3vaNiPIvyWg), [Konrad Malicki](https://open.spotify.com/artist/6RXqeoZemBlebxHrp7EGtV) | [HAPPY END](https://open.spotify.com/album/7aH5yAXPDt26R31Tee0gZE) | 2:55 | 2024-05-03 |  |
 | [happy song :\)](https://open.spotify.com/track/0rS8KJ7sh52X3QBWbBFjtm) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [happy song :\)](https://open.spotify.com/album/5BkGfDOWhUVZVElMQ90Eei) | 3:00 | 2023-04-14 | 2023-09-16 |
 | [Haribo](https://open.spotify.com/track/1tsdI9LIUwxbCNiBPotSTx) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [Haribo](https://open.spotify.com/album/2GYjVNl9rsOY58IXJxWqIH) | 3:03 | 2022-08-26 | 2022-09-24 |
@@ -82,6 +84,7 @@
 | [Mamacita](https://open.spotify.com/track/7pEwr3iyJdZis2Fh0ILG7l) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs), [WIKTOR](https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN) | [Mamacita](https://open.spotify.com/album/6zmv8HnUVGnYcEEPdkDGOK) | 2:08 | 2022-08-26 | 2024-03-12 |
 | [Maria, Maria \(Agora Muzyka Live Sessions\)](https://open.spotify.com/track/6OtpTU9SgpVZbiYBEqkzLD) | [Dziwna Wiosna](https://open.spotify.com/artist/2tAn2eNFnu7gP3mTdQE3ML) | [Maria, Maria \(Agora Muzyka Live Sessions\)](https://open.spotify.com/album/1sC0Ds8LKQaQFlCJLS9dIs) | 2:57 | 2022-08-26 |  |
 | [Met the God](https://open.spotify.com/track/2ZsDOLES3F0RdAKY4xC7tF) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Power](https://open.spotify.com/album/05sLsId1SGFrPDJFf09rrS) | 2:58 | 2022-08-26 | 2023-06-05 |
+| [MIAMI VICE](https://open.spotify.com/track/6cvLck4RJ9yABjPuSQrx6w) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF) | [MIAMI VICE](https://open.spotify.com/album/5XBFcO4GD7rNxenfYE5ZoU) | 2:14 | 2024-06-20 |  |
 | [Miasto tętni](https://open.spotify.com/track/1Z1sQqU0FQ1ZZAESeRxlhO) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [Miasto tętni](https://open.spotify.com/album/0EtJlxmS8iAqAUQbVoATOa) | 2:24 | 2023-09-01 | 2023-11-11 |
 | [MILLIE WALKY](https://open.spotify.com/track/2aVHbey5IovZh4mnKN2AcT) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [charlie moncler](https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV) | [MILLIE WALKY](https://open.spotify.com/album/6Aauo290kVpir6h8Tu8Cse) | 2:14 | 2023-05-16 | 2024-02-03 |
 | [MILLIE WALKY](https://open.spotify.com/track/3mzugJrKyhJNzZKS0RgWBg) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [charlie moncler](https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV) | [in real life](https://open.spotify.com/album/00WMFLvaeDOplwURq1E2t7) | 2:14 | 2024-02-02 |  |
@@ -93,7 +96,7 @@
 | [Most](https://open.spotify.com/track/0fXNGgMLZB6jbh7RPOYBzW) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Most](https://open.spotify.com/album/2teOtNxv6PC6wvDk9UQKXf) | 2:55 | 2023-05-16 | 2024-02-03 |
 | [MY I ONI](https://open.spotify.com/track/0SUsodImdu1cqFd12GwVcc) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [ZGRZYT](https://open.spotify.com/album/02wQzXoSwOPKZHik90xH3Q) | 2:42 | 2023-11-10 |  |
 | [na legalu \(2k23 Mark Neve rework\)](https://open.spotify.com/track/7gUgalQuAVBJv4ppy0w8Kn) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh), [Mark Neve](https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH) | [na legalu \(2k23 Mark Neve rework\)](https://open.spotify.com/album/01S3dkcvCEzapM8ijz2Vft) | 2:15 | 2023-03-13 | 2023-05-17 |
-| [Na zawsze, morze](https://open.spotify.com/track/5c6eOOvCcwmySM46HN7Er4) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF) | [Double N](https://open.spotify.com/album/7d6Aho9TyMvWAsa85WP5IU) | 3:08 | 2023-03-13 |  |
+| [Na zawsze, morze](https://open.spotify.com/track/5c6eOOvCcwmySM46HN7Er4) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF) | [Double N](https://open.spotify.com/album/7d6Aho9TyMvWAsa85WP5IU) | 3:08 | 2023-03-13 | 2024-06-21 |
 | [Need a break](https://open.spotify.com/track/6n86Viph09xx4i63kpsvWM) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Need a break](https://open.spotify.com/album/3iG3XNnDa3r90Kx8DqnFkU) | 3:33 | 2023-06-04 |  |
 | [neonowe laczki](https://open.spotify.com/track/6iNm8Px8IQwiFRfFlARt80) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [jestem bryska \(mini album\)](https://open.spotify.com/album/694sraSss3PDwTtbnn0U8N) | 2:30 | 2022-09-23 | 2023-03-14 |
 | [nic\(i\)](https://open.spotify.com/track/7CYz7FGYsxJWeF94lqsbFc) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [nic\(i\)](https://open.spotify.com/album/6x9tlX5hDXDCWQchmqSgt4) | 2:18 | 2024-06-18 |  |
@@ -173,7 +176,7 @@
 | [Zgiełk](https://open.spotify.com/track/5aNYiszdl6gFgg8MAzbj4X) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [Zgiełk](https://open.spotify.com/album/1rZ696lpMnNWJs58ICTWMQ) | 3:25 | 2023-09-01 | 2024-06-19 |
 | [znowu sam](https://open.spotify.com/track/3LsWDZo1SpXNAzwQX35gPh) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [znowu sam](https://open.spotify.com/album/5kPIe6YX1PrxG91Axzhmfd) | 2:40 | 2024-03-11 |  |
 | [Złudzenia](https://open.spotify.com/track/2n5jDzn5XWO90vc6C7zRAs) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Złudzenia](https://open.spotify.com/album/2ISFdvufeOH0wtRUfF39RZ) | 3:29 | 2023-05-16 | 2023-11-11 |
-| [Złudzenia](https://open.spotify.com/track/0xechEr9xpwHY6eP2wrQud) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Miłość w czasach](https://open.spotify.com/album/3VCM06D5AsitYLlsnLjxEU) | 3:31 | 2024-02-02 |  |
+| [Złudzenia](https://open.spotify.com/track/0xechEr9xpwHY6eP2wrQud) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Miłość w czasach](https://open.spotify.com/album/3VCM06D5AsitYLlsnLjxEU) | 3:31 | 2024-02-02 | 2024-06-21 |
 | [Łezki](https://open.spotify.com/track/1wZ6X3kcv5tm7IQ1DbducM) | [Ania Leon](https://open.spotify.com/artist/43QBxtuscxneLyKYYEFfEu) | [Łezki](https://open.spotify.com/album/27be3kNoeONlByK8LPKwCk) | 3:14 | 2022-08-26 | 2023-02-07 |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

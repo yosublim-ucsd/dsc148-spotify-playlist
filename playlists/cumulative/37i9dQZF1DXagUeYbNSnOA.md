@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Latin](https://open.spotify.com/playlist/37i9dQZF1DXagUeYbNSnOA)
 
-> The best new music by independent artists and labels, featuring Venesti, Goyo y Slow Mike\. Updates every Wednesday.
+> The best new music by independent artists and labels, featuring Branbel\. Updates every Wednesday.
 
 2,103 songs - 4 day 17 hr 31 min
 

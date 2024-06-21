@@ -1365,6 +1365,24 @@
     },
     {
       "album": {
+        "name": "Romantic Flamenco Music- Acoustic Guitar Songs For Romance, Dining, Latin Party, Lounge & Relaxation",
+        "url": "https://open.spotify.com/album/55YXKQiJuaokkwiOFLcp1i"
+      },
+      "artists": [
+        {
+          "name": "Gypsy Flamenco Masters",
+          "url": "https://open.spotify.com/artist/3fvnWc7bLQVnkrtFI298rl"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182569,
+      "name": "Por Una Cabeza",
+      "url": "https://open.spotify.com/track/6ZwB9Jtr64BbYYVo2fGGuc"
+    },
+    {
+      "album": {
         "name": "Pureza",
         "url": "https://open.spotify.com/album/6KHaXDnrVNVa2e2OpXk6Tp"
       },
@@ -1416,6 +1434,24 @@
       "duration_ms": 241093,
       "name": "San Francisco",
       "url": "https://open.spotify.com/track/7geMld9M9InEiqY8Ehm1Q6"
+    },
+    {
+      "album": {
+        "name": "Acoustic Flamenco",
+        "url": "https://open.spotify.com/album/3Dgt1JW9fVlJ3B9s8UfhJp"
+      },
+      "artists": [
+        {
+          "name": "Flamenco Guitar Masters",
+          "url": "https://open.spotify.com/artist/0huGEQDDk36uplL0QvI3Kn"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164361,
+      "name": "Sand Dunes",
+      "url": "https://open.spotify.com/track/4Pc1Eay0hn2cCafRI07LrJ"
     },
     {
       "album": {
@@ -1544,7 +1580,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 277400,
       "name": "Solea",
       "url": "https://open.spotify.com/track/1tv8agBVvSOPZ6cHcADpGr"

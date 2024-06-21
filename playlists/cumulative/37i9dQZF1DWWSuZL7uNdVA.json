@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "The Offspring au top des meilleurs morceaux rock du moment.",
+  "description": "KALEO au top des meilleurs morceaux rock du moment.",
   "name": "Top of the Rock",
   "tracks": [
     {
@@ -532,6 +532,24 @@
       "duration_ms": 183429,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/1VVeFLlYZRLwNPCelUUJyM"
+    },
+    {
+      "album": {
+        "name": "Bright Soul",
+        "url": "https://open.spotify.com/album/2nABJf5Qgz34ayXKpWuRAY"
+      },
+      "artists": [
+        {
+          "name": "Storm Orchestra",
+          "url": "https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179900,
+      "name": "Bright Soul",
+      "url": "https://open.spotify.com/track/4xvLk9biHaiDH6sZQ6F8Lb"
     },
     {
       "album": {
@@ -1134,7 +1152,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 220920,
       "name": "Giant's Despair",
       "url": "https://open.spotify.com/track/2cklyNPEa1SQ03OsC7bk9e"
@@ -1394,7 +1412,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 198487,
       "name": "I Love It When It Rains",
       "url": "https://open.spotify.com/track/2iRpC6staR7gkZgitFa6rQ"
@@ -1488,7 +1506,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 185800,
       "name": "It's Gonna Be Alright",
       "url": "https://open.spotify.com/track/1adglBbuQQaCbUORdvYjdZ"
@@ -1729,6 +1747,24 @@
     },
     {
       "album": {
+        "name": "Let's Go Psycho!",
+        "url": "https://open.spotify.com/album/4ASPo772k1bGEjUOsZ4217"
+      },
+      "artists": [
+        {
+          "name": "Those Damn Crows",
+          "url": "https://open.spotify.com/artist/3VdnwWd3i9OOT0CzbzRZj7"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233797,
+      "name": "Let's Go Psycho!",
+      "url": "https://open.spotify.com/track/77Kj1Y4KzxeqbtSPc9M92k"
+    },
+    {
+      "album": {
         "name": "Life's a Pill",
         "url": "https://open.spotify.com/album/3vH68KoocrWeWtYoQsL60s"
       },
@@ -1924,6 +1960,24 @@
       "duration_ms": 171891,
       "name": "Motel Way of Life",
       "url": "https://open.spotify.com/track/3hqNVh2HrQyX0j9FsjSQX9"
+    },
+    {
+      "album": {
+        "name": "Muse In Motion",
+        "url": "https://open.spotify.com/album/0PZezRgzVR3ihVpCVEQos8"
+      },
+      "artists": [
+        {
+          "name": "Yodelice",
+          "url": "https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150651,
+      "name": "Muse In Motion",
+      "url": "https://open.spotify.com/track/3IbefBWqvAwDVkthNHkF2T"
     },
     {
       "album": {
@@ -2352,7 +2406,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-07",
+      "date_removed": null,
       "duration_ms": 178986,
       "name": "Pyromane",
       "url": "https://open.spotify.com/track/7fpg6UBygCX0UR93lBPATO"
@@ -2752,7 +2806,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 206333,
       "name": "Sliding Doors",
       "url": "https://open.spotify.com/track/0XlDSx6DftEGmjOS2TQ8wL"

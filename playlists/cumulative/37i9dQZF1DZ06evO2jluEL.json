@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-10",
-  "description": "This is Ludmila Ferber. The essential tracks, all in one playlist.",
+  "description": "This Is Ludmila Ferber. Los temas esenciales, todos en una lista.",
   "name": "This Is Ludmila Ferber",
   "tracks": [
     {
@@ -779,6 +779,24 @@
     },
     {
       "album": {
+        "name": "Pra Me Alegrar",
+        "url": "https://open.spotify.com/album/0gH7iDQNDPnJ5C4ynNNf4l"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243240,
+      "name": "O Avivamento Vem Chegando",
+      "url": "https://open.spotify.com/track/1hcY5ixTruNhGZnRH4Rlff"
+    },
+    {
+      "album": {
         "name": "Um Novo Come\u00e7o",
         "url": "https://open.spotify.com/album/6rEjR0YsJAidJaRh9R8AqG"
       },
@@ -1128,7 +1146,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 196780,
       "name": "Toda Adora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/39y8RE8axgRjQZAPB0gsg4"

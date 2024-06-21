@@ -1,6 +1,6 @@
 {
   "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/5LeZoIsr3HTDipdWQbiAfo?si=_B_mifL5R3OfpUUPLAePZQ\">ARD matthews</a> ",
-  "num_followers": 11724,
+  "num_followers": 11728,
   "original_name": "Indie GO",
   "owner": {
     "name": "Spotify",
@@ -369,6 +369,22 @@
       "url": "https://open.spotify.com/track/7EGi0qRExGCKt76HRmCoBr"
     },
     {
+      "added_at": "2024-06-07 07:56:34",
+      "album": {
+        "name": "So Cold",
+        "url": "https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "duration_ms": 201133,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv"
+    },
+    {
       "added_at": "2024-05-23 22:00:00",
       "album": {
         "name": "Boom Boom Back",
@@ -389,22 +405,6 @@
       "url": "https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN"
     },
     {
-      "added_at": "2024-06-07 07:56:34",
-      "album": {
-        "name": "So Cold",
-        "url": "https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs"
-      },
-      "artists": [
-        {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
-        }
-      ],
-      "duration_ms": 201133,
-      "name": "So Cold",
-      "url": "https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv"
-    },
-    {
       "added_at": "2024-05-23 22:00:00",
       "album": {
         "name": "Shortcuts",
@@ -421,22 +421,6 @@
       "url": "https://open.spotify.com/track/2JMysPffCAEIQd56mmYvBg"
     },
     {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Prelude to Ecstasy",
-        "url": "https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 206571,
-      "name": "The Feminine Urge",
-      "url": "https://open.spotify.com/track/4uAPVHpdoGKHmIFkv1wgmb"
-    },
-    {
       "added_at": "2024-06-07 07:56:34",
       "album": {
         "name": "Gary",
@@ -451,6 +435,22 @@
       "duration_ms": 150005,
       "name": "Gary",
       "url": "https://open.spotify.com/track/1CFk4BcEroLNW1TfAUGWoj"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Prelude to Ecstasy",
+        "url": "https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 206571,
+      "name": "The Feminine Urge",
+      "url": "https://open.spotify.com/track/4uAPVHpdoGKHmIFkv1wgmb"
     },
     {
       "added_at": "2024-06-07 07:56:34",
@@ -501,6 +501,22 @@
       "url": "https://open.spotify.com/track/1kQjyyI3xZixtByFizxlXE"
     },
     {
+      "added_at": "2024-06-07 07:56:34",
+      "album": {
+        "name": "Piano Hands",
+        "url": "https://open.spotify.com/album/3gJhe78jiRJjbPgRW4z1Nk"
+      },
+      "artists": [
+        {
+          "name": "Soft Launch",
+          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
+        }
+      ],
+      "duration_ms": 218031,
+      "name": "Piano Hands",
+      "url": "https://open.spotify.com/track/5qXO90zyTU5Ch5aI9j0uzf"
+    },
+    {
       "added_at": "2024-05-23 22:00:00",
       "album": {
         "name": "Cin\u00e9med",
@@ -519,22 +535,6 @@
       "duration_ms": 199773,
       "name": "Cin\u00e9med",
       "url": "https://open.spotify.com/track/5JwdtXJVh8PHmPFP5mB47k"
-    },
-    {
-      "added_at": "2024-06-07 07:56:34",
-      "album": {
-        "name": "Piano Hands",
-        "url": "https://open.spotify.com/album/3gJhe78jiRJjbPgRW4z1Nk"
-      },
-      "artists": [
-        {
-          "name": "Soft Launch",
-          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
-        }
-      ],
-      "duration_ms": 218031,
-      "name": "Piano Hands",
-      "url": "https://open.spotify.com/track/5qXO90zyTU5Ch5aI9j0uzf"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -605,22 +605,6 @@
       "url": "https://open.spotify.com/track/1xnEyIV7tGENTcJ1NhaBWz"
     },
     {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Another Day",
-        "url": "https://open.spotify.com/album/759Xj2GPV3t0LaMtr7RPgP"
-      },
-      "artists": [
-        {
-          "name": "Justin Lee",
-          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
-        }
-      ],
-      "duration_ms": 136216,
-      "name": "Another Day",
-      "url": "https://open.spotify.com/track/4T17A5uxXxGo48TYhbH5jF"
-    },
-    {
       "added_at": "2024-06-07 07:56:34",
       "album": {
         "name": "can't stand it",
@@ -635,6 +619,22 @@
       "duration_ms": 185739,
       "name": "can't stand it",
       "url": "https://open.spotify.com/track/6ElYocyMBSR3LHqGQGmA2r"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Another Day",
+        "url": "https://open.spotify.com/album/759Xj2GPV3t0LaMtr7RPgP"
+      },
+      "artists": [
+        {
+          "name": "Justin Lee",
+          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
+        }
+      ],
+      "duration_ms": 136216,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/4T17A5uxXxGo48TYhbH5jF"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -657,20 +657,20 @@
       "url": "https://open.spotify.com/track/2clElTsD1qOztIwI9CuJvu"
     },
     {
-      "added_at": "2024-05-23 22:00:00",
+      "added_at": "2024-06-14 07:49:21",
       "album": {
-        "name": "Beanie",
-        "url": "https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh"
+        "name": "Marching On",
+        "url": "https://open.spotify.com/album/2ujoavk6dk8KVc93EYxT2g"
       },
       "artists": [
         {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+          "name": "Sean Koch",
+          "url": "https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9"
         }
       ],
-      "duration_ms": 132160,
-      "name": "Beanie",
-      "url": "https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq"
+      "duration_ms": 129640,
+      "name": "Vivid Memories",
+      "url": "https://open.spotify.com/track/0lo4TTF9XtgNLzigXYgRu0"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -689,20 +689,20 @@
       "url": "https://open.spotify.com/track/1SZN00cfG8T8UxDmJeqjuv"
     },
     {
-      "added_at": "2024-06-14 07:49:21",
+      "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Marching On",
-        "url": "https://open.spotify.com/album/2ujoavk6dk8KVc93EYxT2g"
+        "name": "Beanie",
+        "url": "https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh"
       },
       "artists": [
         {
-          "name": "Sean Koch",
-          "url": "https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9"
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
         }
       ],
-      "duration_ms": 129640,
-      "name": "Vivid Memories",
-      "url": "https://open.spotify.com/track/0lo4TTF9XtgNLzigXYgRu0"
+      "duration_ms": 132160,
+      "name": "Beanie",
+      "url": "https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq"
     },
     {
       "added_at": "2024-06-07 07:56:34",
@@ -727,18 +727,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Come Back Home",
-        "url": "https://open.spotify.com/album/3lBpG62hgBRnAHy6oYVCoD"
+        "name": "Motorola Money",
+        "url": "https://open.spotify.com/album/5mtguVYb0VQeR77Hix7bJG"
       },
       "artists": [
         {
-          "name": "Justin Lee",
-          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
+          "name": "tg.blk",
+          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
         }
       ],
-      "duration_ms": 144260,
-      "name": "Come Back Home",
-      "url": "https://open.spotify.com/track/7ABsADpcCtPFZoNX2PeyaL"
+      "duration_ms": 110738,
+      "name": "Motorola Money",
+      "url": "https://open.spotify.com/track/5r9N2Z8MjZf1kWjH8azEai"
     },
     {
       "added_at": "2024-06-07 07:56:34",
@@ -791,34 +791,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Motorola Money",
-        "url": "https://open.spotify.com/album/5mtguVYb0VQeR77Hix7bJG"
+        "name": "Come Back Home",
+        "url": "https://open.spotify.com/album/3lBpG62hgBRnAHy6oYVCoD"
       },
       "artists": [
         {
-          "name": "tg.blk",
-          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+          "name": "Justin Lee",
+          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
         }
       ],
-      "duration_ms": 110738,
-      "name": "Motorola Money",
-      "url": "https://open.spotify.com/track/5r9N2Z8MjZf1kWjH8azEai"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/6gqySHl4zPpgNOcxg9Usdj"
-      },
-      "artists": [
-        {
-          "name": "Lone Tree",
-          "url": "https://open.spotify.com/artist/0VAj0iiD96mFA60tqZrtUU"
-        }
-      ],
-      "duration_ms": 287200,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/1MpyOrNKUXCv3lE9DlPqWe"
+      "duration_ms": 144260,
+      "name": "Come Back Home",
+      "url": "https://open.spotify.com/track/7ABsADpcCtPFZoNX2PeyaL"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -835,6 +819,22 @@
       "duration_ms": 209353,
       "name": "Old Kid",
       "url": "https://open.spotify.com/track/2AoTAhf4T80mu8VsAwf6KP"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/6gqySHl4zPpgNOcxg9Usdj"
+      },
+      "artists": [
+        {
+          "name": "Lone Tree",
+          "url": "https://open.spotify.com/artist/0VAj0iiD96mFA60tqZrtUU"
+        }
+      ],
+      "duration_ms": 287200,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/1MpyOrNKUXCv3lE9DlPqWe"
     }
   ],
   "unique_name": "Indie GO",

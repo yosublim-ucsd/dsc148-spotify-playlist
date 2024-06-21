@@ -4,7 +4,7 @@
 
 > The future of African Indie and Alternative\. Cover: SOLIS4EVR
 
-146 songs - 7 hr 31 min
+147 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Care For You](https://open.spotify.com/track/1csqrGvXuxW1jU5TGWSolF) | [BuDu](https://open.spotify.com/artist/3VVnkjuNmz9Vt2UpAZTCXB) | [Care For You](https://open.spotify.com/album/0N3BdFnOZ0SV2OMPb8GjiV) | 3:52 | 2024-01-25 | 2024-04-19 |
 | [Care For You](https://open.spotify.com/track/7tcp0h2ypx4PKJaw1Sn1je) | [BuDu](https://open.spotify.com/artist/3VVnkjuNmz9Vt2UpAZTCXB) | [Care For You](https://open.spotify.com/album/3hYqlV8cBdFnwy4dSR3elT) | 3:52 | 2023-05-11 |  |
 | [Cincinatti Pumpin!!](https://open.spotify.com/track/2tsmBwTvtJ0pU1IViRvsWJ) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Cincinnati Pumpin!!](https://open.spotify.com/album/5krskJ12OhkTlYuGwxJ0W3) | 2:51 | 2023-12-14 |  |
+| [CRAZY SEXY PERFECT GIRLS](https://open.spotify.com/track/2yK4TLFFCgLUmTWyQoY8qj) | [Leather Park](https://open.spotify.com/artist/7zwAV8QMBcclMJbWf7DmQ1), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [LEATHER PARK \(VOL\. 1\)](https://open.spotify.com/album/714sz0U1nuTsGFbQiyMFfN) | 1:56 | 2024-06-21 |  |
 | [Crown Bounce](https://open.spotify.com/track/25SZzbj6rLvbqm48QwEsAj) | [Leather Park](https://open.spotify.com/artist/7zwAV8QMBcclMJbWf7DmQ1), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Elias Slay6rr](https://open.spotify.com/artist/78rrSlHaVgfpWxgsnUtqwh) | [Crown Bounce](https://open.spotify.com/album/4C8493WEDy0Yc2tP9g2MzZ) | 2:33 | 2024-03-15 |  |
 | [Deep End](https://open.spotify.com/track/7tJI6riDNEPuMwN6DBI7fi) | [Tomi Agape](https://open.spotify.com/artist/3GCTrzNZwN4H4YnQJzsWrd) | [Deep End](https://open.spotify.com/album/2GcgN5vmoqcWeQx5tk9WeT) | 3:14 | 2023-03-30 | 2023-09-22 |
 | [Die Lewe is 'n Lied](https://open.spotify.com/track/1s7rTDltYVqaRWN0Ll7T5q) | [Van Pletzen](https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Die Lewe is 'n Lied](https://open.spotify.com/album/30Mxg8Jy7g1KoSwEVRgVKL) | 3:59 | 2023-04-06 | 2023-07-08 |
@@ -143,7 +144,7 @@
 | [Tonite](https://open.spotify.com/track/2l0iRvUpFZjuFybv0qSb6A) | [VOLDY](https://open.spotify.com/artist/6xCeaVHW0IM4W0pK7InyAA), [SwimGood](https://open.spotify.com/artist/3dAiSwn0xbIP4Ok1L2fgKZ), [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Solplay Tape, Vol\. 1 \(Mixtape\)](https://open.spotify.com/album/6JFEHmgU0rNKOnEjoy0Lhg) | 2:10 | 2023-03-30 | 2023-05-12 |
 | [Tony, Tony!](https://open.spotify.com/track/7sSfjIQ4BxCJ0gqiOCRE8x) | [July Drama](https://open.spotify.com/artist/2Z9yQD2e1QO2OGLgTyuoug) | [Tony, Tony!](https://open.spotify.com/album/6vclSwfuI40dJXhoxbR52m) | 2:57 | 2023-03-30 | 2023-07-01 |
 | [Too Late To Party](https://open.spotify.com/track/3yrdfryHbFnwQuGrNAZQIr) | [KwesiSoul](https://open.spotify.com/artist/2zaQxkROhBUJAyLyNnUuWr), [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs), [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Too Late To Party](https://open.spotify.com/album/5DMDU4qd94FEgJlpKr7rZs) | 3:04 | 2023-06-30 | 2023-10-14 |
-| [Try](https://open.spotify.com/track/4Zm8CIL9MxVyBQWSpLp5Ia) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Try](https://open.spotify.com/album/3txzhFYWBkCMkJR8dQcfe8) | 3:44 | 2023-03-30 |  |
+| [Try](https://open.spotify.com/track/4Zm8CIL9MxVyBQWSpLp5Ia) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Try](https://open.spotify.com/album/3txzhFYWBkCMkJR8dQcfe8) | 3:44 | 2023-03-30 | 2024-06-21 |
 | [Uber](https://open.spotify.com/track/2F9I0GeAKSJLS50LUlnFVd) | [Zwonaka](https://open.spotify.com/artist/5oD2IgsstX9I592DVC5gQi) | [Sightseeing](https://open.spotify.com/album/1Ba3fPgZiNn2r1kkxs0Rje) | 3:47 | 2023-03-30 | 2023-05-19 |
 | [Vanity](https://open.spotify.com/track/4CiNVnqNQX05t0e4IWwVO1) | [Kade Spear](https://open.spotify.com/artist/6yyrDjt9pJEIWsIamkw60i) | [Vanity](https://open.spotify.com/album/1svaG1pydrkav2LDzMiFzb) | 2:47 | 2023-04-06 | 2023-04-28 |
 | [vibe again](https://open.spotify.com/track/7FMAEHQZVoNetHntq0Rfbv) | [Ashwin Smith](https://open.spotify.com/artist/21O1GLm7iw8np86CJ4hNtO) | [vibe again](https://open.spotify.com/album/0UMQ4LF9e8BhSGXqOhSZ5x) | 3:24 | 2023-05-18 | 2023-06-27 |

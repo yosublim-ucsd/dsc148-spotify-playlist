@@ -2,7 +2,7 @@
 
 ### [RADAR Philippines](https://open.spotify.com/playlist/37i9dQZF1DWVp4cWdnm5ws)
 
-> Discover new artists on the horizon this 2024\. Cover: dwta
+> Discover new artists on the horizon this 2024\. Cover: Jason Dhakal
 
 206 songs - 12 hr 44 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0prPGsXNyt4.md) - [plain]
 
 > você e ele, você e ela, pique o casal mais mandrake da quebra tlgd\. Foto: MC Mirella, Mc Gabzin
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,212 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,268 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0prPGsXNyt4.md) - [plain]
 | 42 | [Não Era pra Ficar](https://open.spotify.com/track/1nUlMrFnHfRl3oJ4ZMt5Xg) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf), [Mc Marcela GC](https://open.spotify.com/artist/4H9FxcmPgz79NR6FLxGBND) | [Não Era pra Ficar](https://open.spotify.com/album/5uC2FTc7S7Q2S3bb69Uaml) | 2:57 |
 | 43 | [Mundo Pequeno](https://open.spotify.com/track/5Vuu2s36p0cVA8EVLciqr5) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Mundo Pequeno](https://open.spotify.com/album/7GuKGIzQ0kkXOxsMpi8wbI) | 3:48 |
 | 44 | [Te Escolhi](https://open.spotify.com/track/1Kb5kcBZtriYUKznTchWQd) | [MC Luan da BS](https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3) | [Te Escolhi](https://open.spotify.com/album/0ELHnYigaQCw8JJhnzrAB0) | 1:48 |
-| 45 | [Romântico Safado](https://open.spotify.com/track/54sCdH7XdbmWqXKWxxQ7Y3) | [Malharo](https://open.spotify.com/artist/01P95MsV6kbRUvHnnLsldG), [WES](https://open.spotify.com/artist/6424uJS5kZLTGL0pAW7e3J) | [Romântico Safado](https://open.spotify.com/album/3i2zsV6JVImbGw37cLvFP2) | 2:12 |
-| 46 | [Surtada](https://open.spotify.com/track/3gZXNwLzMQdlpDsfHC9PPz) | [CARTE](https://open.spotify.com/artist/10lZ3MatShsQGTGHguEA89), [Dona Lanôr](https://open.spotify.com/artist/78D1YLx2ttGLPXOLCceWMP) | [Surtada](https://open.spotify.com/album/3NYNo4VJJXOSpKMh0AAjMN) | 2:23 |
+| 45 | [Surtada](https://open.spotify.com/track/3gZXNwLzMQdlpDsfHC9PPz) | [CARTE](https://open.spotify.com/artist/10lZ3MatShsQGTGHguEA89), [Dona Lanôr](https://open.spotify.com/artist/78D1YLx2ttGLPXOLCceWMP) | [Surtada](https://open.spotify.com/album/3NYNo4VJJXOSpKMh0AAjMN) | 2:23 |
+| 46 | [Romântico Safado](https://open.spotify.com/track/54sCdH7XdbmWqXKWxxQ7Y3) | [Malharo](https://open.spotify.com/artist/01P95MsV6kbRUvHnnLsldG), [WES](https://open.spotify.com/artist/6424uJS5kZLTGL0pAW7e3J) | [Romântico Safado](https://open.spotify.com/album/3i2zsV6JVImbGw37cLvFP2) | 2:12 |
 | 47 | [Mandraka](https://open.spotify.com/track/1rLahQ58edFplZKDcjJ7cH) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Luchinha Jr](https://open.spotify.com/artist/5v2bQ2dsdQmr2ARUYwnDHX), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Baby](https://open.spotify.com/artist/2lW4v8QBN9C7ENq22OTS9V) | [Dos Prédios](https://open.spotify.com/album/7ARyKbobUo0oE30Arwe67d) | 2:02 |
 | 48 | [Sagitário](https://open.spotify.com/track/0N0JNYiFx3xTyIWmnIVuV7) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [Zodíaco](https://open.spotify.com/album/6U7WUtuQ4YvVruh9bl6aaG) | 2:52 |
 | 49 | [Tom de Pele](https://open.spotify.com/track/1F3kRrY6eYgvfH5nSm2RMN) | [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2) | [Tom de Pele](https://open.spotify.com/album/0evibcz18EruYA9OvDk5TY) | 2:45 |

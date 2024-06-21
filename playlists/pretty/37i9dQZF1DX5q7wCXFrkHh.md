@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 
 > The classic piano recordings in Jazz\. Cover: Oscar Peterson
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,494 likes - 100 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,556 likes - 100 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 86 | [The Windup](https://open.spotify.com/track/78zX3x0pFjsz6qSzNc7gA3) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Jan Garbarek](https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym), [Palle Danielsson](https://open.spotify.com/artist/7CyW7K2UrpjUNLVV698wvJ), [Jon Christensen](https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr) | [Belonging](https://open.spotify.com/album/6dmq2NJgWAvrzRVrpPwkzv) | 8:22 |
 | 87 | [Blackbird](https://open.spotify.com/track/3uVWwYNJMuhQ464tfH0a7f) | [Shelly Berg Trio](https://open.spotify.com/artist/6yN3eFi6kK1kiw3xm12HJ3) | [Blackbird](https://open.spotify.com/album/4XCLREMxloj6a48BlS3Sio) | 8:14 |
 | 88 | [Moanin'](https://open.spotify.com/track/5U66z6J7VpEA9XV9BpePwh) | [Bobby Timmons](https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC), [Sam Jones](https://open.spotify.com/artist/6ArVhrX5WE3fMuiR1D5kLV), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [This Here Is Bobby Timmons / Easy Does It](https://open.spotify.com/album/76cd2lOIpE29vAyewtKd4b) | 5:08 |
-| 89 | [Moon River](https://open.spotify.com/track/1xHgQN5A8a7iNi9AHxm6wl) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Masterjazz: Vince Guaraldi Trio](https://open.spotify.com/album/38HIowIbOOjNVilz8MqIam) | 5:21 |
-| 90 | [St\. James Infirmary Blues](https://open.spotify.com/track/50q2XoQmoHNt6imrugVV90) | [Earl Hines](https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr) | [Fatha](https://open.spotify.com/album/44GmAp9XFBoimjYya5tJzw) | 4:08 |
+| 89 | [St\. James Infirmary Blues](https://open.spotify.com/track/50q2XoQmoHNt6imrugVV90) | [Earl Hines](https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr) | [Fatha](https://open.spotify.com/album/44GmAp9XFBoimjYya5tJzw) | 4:08 |
+| 90 | [Moon River](https://open.spotify.com/track/1xHgQN5A8a7iNi9AHxm6wl) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Masterjazz: Vince Guaraldi Trio](https://open.spotify.com/album/38HIowIbOOjNVilz8MqIam) | 5:21 |
 | 91 | [Tiger Rag](https://open.spotify.com/track/2toW1tAUAEfjdu5q29u8m9) | [Art Tatum](https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq) | [Piano Starts Here](https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr) | 2:18 |
 | 92 | [Blind Man, Blind Man](https://open.spotify.com/track/7wzPJFQRgx0bsl8QYtIfWR) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [My Point Of View \(Expanded Edition\)](https://open.spotify.com/album/2d2kGgtdmuiBR7D9HsOJGh) | 8:19 |
 | 93 | [Dream](https://open.spotify.com/track/0psSSpJgJIkaAY4a8jND1V) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Written In The Stars](https://open.spotify.com/album/14C2yqQ0xfZQjhomR3nh8S) | 6:44 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 95 | [All The Things You Are](https://open.spotify.com/track/7G47M8ZKK65VBf6tLhJ2ZL) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Setting Standards \- The New York Sessions](https://open.spotify.com/album/1C9O7ymr3OoPhu60riKr8m) | 7:44 |
 | 96 | [My foolish heart](https://open.spotify.com/track/5dhgrt2is9rFBuEKtwBPdU) | [Horace Parlan](https://open.spotify.com/artist/413WfGS7CgAHEJD4DtAo3e) | [No Blues](https://open.spotify.com/album/1OEFn9mgfKhJRmnjWpu7tC) | 4:57 |
 | 97 | [Pound For Pound](https://open.spotify.com/track/6Y4cnbaeT5RgE9QvSeTuCY) | [The Bad Plus](https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6) | [Made Possible](https://open.spotify.com/album/2KACSClTW3V11lbuxDmEGs) | 6:10 |
-| 98 | [The Lady's In Love With You](https://open.spotify.com/track/3RwiIrxjJwfzYOltz5kZq6) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Vince Guaraldi Trio](https://open.spotify.com/album/2dER90qO41LJ9pqRh3YG87) | 3:53 |
-| 99 | [I'm Your Pal](https://open.spotify.com/track/7FDhbzHunmwye3bx0VHDY5) | [Gary Burton](https://open.spotify.com/artist/4iovNkf44dsELmo3E7XSKX), [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Crystal Silence](https://open.spotify.com/album/1bvhjpp45aO2i1d7kjbsjh) | 3:58 |
+| 98 | [I'm Your Pal](https://open.spotify.com/track/7FDhbzHunmwye3bx0VHDY5) | [Gary Burton](https://open.spotify.com/artist/4iovNkf44dsELmo3E7XSKX), [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Crystal Silence](https://open.spotify.com/album/1bvhjpp45aO2i1d7kjbsjh) | 3:58 |
+| 99 | [The Lady's In Love With You](https://open.spotify.com/track/3RwiIrxjJwfzYOltz5kZq6) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Vince Guaraldi Trio](https://open.spotify.com/album/2dER90qO41LJ9pqRh3YG87) | 3:53 |
 | 100 | [Way 'Cross Town](https://open.spotify.com/track/0uLLduarBCzzZx5Zp5IpXh) | [Benny Green](https://open.spotify.com/artist/4g55GmK5iQOyCoDdQCzWKZ), [Peter Washington](https://open.spotify.com/artist/6t5ibafOkoWm4GveO6lBzp), [Kenny Washington](https://open.spotify.com/artist/4ern8uIUTeqcI4AE8Q5ZnO) | [Source](https://open.spotify.com/album/17N9QvETm6ncEPa8sm4ZQD) | 4:11 |
 
 Snapshot ID: `ZfrXmwAAAABE2YTU9Ceg46DgJLkoZIxb`

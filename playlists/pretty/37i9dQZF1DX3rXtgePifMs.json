@@ -1,6 +1,6 @@
 {
   "description": "The official EA SPORTS FC 24 Soundtrack.",
-  "num_followers": 100173,
+  "num_followers": 100294,
   "original_name": "EA SPORTS FC 24 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "HOLD ON",
+        "url": "https://open.spotify.com/album/44IVa7WdCY2II6a9AVnwpe"
+      },
+      "artists": [
+        {
+          "name": "ill peach",
+          "url": "https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt"
+        }
+      ],
+      "duration_ms": 245454,
+      "name": "HOLD ON",
+      "url": "https://open.spotify.com/track/3PspK6baTu8laBFO32ArQL"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "098RADIO vol.1 Hosted by Awich",
         "url": "https://open.spotify.com/album/6jQI4R1D8sk5YXQnSju44y"
       },
@@ -611,38 +627,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "HOLD ON",
-        "url": "https://open.spotify.com/album/44IVa7WdCY2II6a9AVnwpe"
-      },
-      "artists": [
-        {
-          "name": "ill peach",
-          "url": "https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt"
-        }
-      ],
-      "duration_ms": 245454,
-      "name": "HOLD ON",
-      "url": "https://open.spotify.com/track/3PspK6baTu8laBFO32ArQL"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "Jackman.",
-        "url": "https://open.spotify.com/album/0zKLHvP1TLKdDLSg4FOihB"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 113292,
-      "name": "They Don't Love It",
-      "url": "https://open.spotify.com/track/4YnazaBNYt86O9KhwjH9NA"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "CATALYST",
         "url": "https://open.spotify.com/album/5Il5xcMQhzdH6YFKZH3VGU"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 206746,
       "name": "CATALYST",
       "url": "https://open.spotify.com/track/3wPpMU6d8h9yxvBadDDr44"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Jackman.",
+        "url": "https://open.spotify.com/album/0zKLHvP1TLKdDLSg4FOihB"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 113292,
+      "name": "They Don't Love It",
+      "url": "https://open.spotify.com/track/4YnazaBNYt86O9KhwjH9NA"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 279810,
-      "name": "Fall Right In",
-      "url": "https://open.spotify.com/track/5NqxYiQuZFRIlhZmNVQEPX"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "STRUGGLER",
         "url": "https://open.spotify.com/album/1mzWBk8fzEEMumcy5IuVcf"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 231240,
       "name": "What Comes Will Come",
       "url": "https://open.spotify.com/track/5U1MVqAfPoLPKllKr0WaRT"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 279810,
+      "name": "Fall Right In",
+      "url": "https://open.spotify.com/track/5NqxYiQuZFRIlhZmNVQEPX"
     },
     {
       "added_at": "2023-12-01 18:29:06",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "i've got a bf (best friend)",
-        "url": "https://open.spotify.com/album/5db7wptFrRLFAp6ob1oqec"
-      },
-      "artists": [
-        {
-          "name": "Willo",
-          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
-        },
-        {
-          "name": "niina",
-          "url": "https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh"
-        }
-      ],
-      "duration_ms": 148852,
-      "name": "i've got a bf (best friend)",
-      "url": "https://open.spotify.com/track/34OjRqhUtpC3lkhsVpIr1D"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "EZ 4 Me",
         "url": "https://open.spotify.com/album/4LP7SRO9YsGGtDjvOMVWlg"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 180628,
       "name": "EZ 4 Me",
       "url": "https://open.spotify.com/track/7atFLBiAaQxMyZP5zzVp3T"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "i've got a bf (best friend)",
+        "url": "https://open.spotify.com/album/5db7wptFrRLFAp6ob1oqec"
+      },
+      "artists": [
+        {
+          "name": "Willo",
+          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
+        },
+        {
+          "name": "niina",
+          "url": "https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh"
+        }
+      ],
+      "duration_ms": 148852,
+      "name": "i've got a bf (best friend)",
+      "url": "https://open.spotify.com/track/34OjRqhUtpC3lkhsVpIr1D"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -2031,6 +2031,26 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "Earache / Sekkle In",
+        "url": "https://open.spotify.com/album/6U80BQXg2cyQrWJ6dm0soD"
+      },
+      "artists": [
+        {
+          "name": "Halogenix",
+          "url": "https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW"
+        },
+        {
+          "name": "Sparkz",
+          "url": "https://open.spotify.com/artist/3wKN85pgXHwvP8mTt7dVJf"
+        }
+      ],
+      "duration_ms": 225874,
+      "name": "Sekkle In",
+      "url": "https://open.spotify.com/track/1WClrb8WfN4SNAoiDlltSv"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "RTJ CU4TRO",
         "url": "https://open.spotify.com/album/1wJ0AElY0PY4pbzvKZw8io"
       },
@@ -2075,26 +2095,6 @@
       "duration_ms": 174830,
       "name": "FORMULA",
       "url": "https://open.spotify.com/track/383FsUoOEqgBRcttGMeoLs"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "Earache / Sekkle In",
-        "url": "https://open.spotify.com/album/6U80BQXg2cyQrWJ6dm0soD"
-      },
-      "artists": [
-        {
-          "name": "Halogenix",
-          "url": "https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW"
-        },
-        {
-          "name": "Sparkz",
-          "url": "https://open.spotify.com/artist/3wKN85pgXHwvP8mTt7dVJf"
-        }
-      ],
-      "duration_ms": 225874,
-      "name": "Sekkle In",
-      "url": "https://open.spotify.com/track/1WClrb8WfN4SNAoiDlltSv"
     }
   ],
   "unique_name": "EA SPORTS FC 24 Official Soundtrack",

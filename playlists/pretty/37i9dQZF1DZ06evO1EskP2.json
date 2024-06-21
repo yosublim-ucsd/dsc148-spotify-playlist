@@ -1,12 +1,12 @@
 {
   "description": "This is Anuhea. The essential tracks, all in one playlist.",
-  "num_followers": 2614,
+  "num_followers": 2618,
   "original_name": "This Is Anuhea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zm98gAAAAADmryoEgUN03eN5vJTY5HtQ",
+  "snapshot_id": "ZnIfgAAAAAD1fifmz8xSTT1qxLxnFD6G",
   "tracks": [
     {
       "added_at": null,
@@ -335,26 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hula Girl",
-        "url": "https://open.spotify.com/album/3nNdWJwIkJXaS0rq7prKM1"
-      },
-      "artists": [
-        {
-          "name": "Spawnbreezie",
-          "url": "https://open.spotify.com/artist/0BvwGBAFqNeDqjkeoxRlm6"
-        },
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 195790,
-      "name": "Hula Girl",
-      "url": "https://open.spotify.com/track/0vAnneqWLwX3DbJKGOi6wA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Galaxy",
         "url": "https://open.spotify.com/album/6GXMiqtk8ME5GWZ6snXvWp"
       },
@@ -371,18 +351,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lotus",
-        "url": "https://open.spotify.com/album/6PhsnV2tEcJNbJqDwAkd1V"
+        "name": "Hula Girl",
+        "url": "https://open.spotify.com/album/3nNdWJwIkJXaS0rq7prKM1"
       },
       "artists": [
+        {
+          "name": "Spawnbreezie",
+          "url": "https://open.spotify.com/artist/0BvwGBAFqNeDqjkeoxRlm6"
+        },
         {
           "name": "Anuhea",
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 230010,
-      "name": "Lotus",
-      "url": "https://open.spotify.com/track/6DfVKpfD6BqfEM6XRJIOHn"
+      "duration_ms": 195790,
+      "name": "Hula Girl",
+      "url": "https://open.spotify.com/track/0vAnneqWLwX3DbJKGOi6wA"
     },
     {
       "added_at": null,
@@ -407,8 +391,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Butterflies: Live",
-        "url": "https://open.spotify.com/album/6KiSvxrVgkysWpBytA5Ug4"
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/6PhsnV2tEcJNbJqDwAkd1V"
       },
       "artists": [
         {
@@ -416,9 +400,9 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 222066,
-      "name": "High on Love",
-      "url": "https://open.spotify.com/track/6bBMj0FaFCPyFwOOHNnTKk"
+      "duration_ms": 230010,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/6DfVKpfD6BqfEM6XRJIOHn"
     },
     {
       "added_at": null,
@@ -435,6 +419,22 @@
       "duration_ms": 188368,
       "name": "We Make It Look Easy",
       "url": "https://open.spotify.com/track/5LuaP36EadcPyFKEhlW08e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Butterflies: Live",
+        "url": "https://open.spotify.com/album/6KiSvxrVgkysWpBytA5Ug4"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 222066,
+      "name": "High on Love",
+      "url": "https://open.spotify.com/track/6bBMj0FaFCPyFwOOHNnTKk"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spam Musubi Song",
-        "url": "https://open.spotify.com/album/4EZ6yx1LeF2J6vMMVWrIXk"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 140010,
-      "name": "Spam Musubi Song",
-      "url": "https://open.spotify.com/track/27o8gy6qedG98OsEC5ati5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anuhea",
         "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
       },
@@ -551,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spam Musubi Song",
+        "url": "https://open.spotify.com/album/4EZ6yx1LeF2J6vMMVWrIXk"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 140010,
+      "name": "Spam Musubi Song",
+      "url": "https://open.spotify.com/track/27o8gy6qedG98OsEC5ati5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Follow Me (Deluxe Hawai'i Edition)",
         "url": "https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor"
       },
@@ -563,6 +563,22 @@
       "duration_ms": 234004,
       "name": "I Won't Settle",
       "url": "https://open.spotify.com/track/4xoN1xIoNeSY77gSA9pk0X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anuhea",
+        "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 206240,
+      "name": "Here I Go Again",
+      "url": "https://open.spotify.com/track/1Cy9L9plJX7ZAuQhfL5VR6"
     },
     {
       "added_at": null,
@@ -591,22 +607,6 @@
       "duration_ms": 238441,
       "name": "Haters (Remix) [feat. Anuhea, Irie Love & Eli-Mac]",
       "url": "https://open.spotify.com/track/03ctMIAm8PgCl1NaPowSgL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anuhea",
-        "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 206240,
-      "name": "Here I Go Again",
-      "url": "https://open.spotify.com/track/1Cy9L9plJX7ZAuQhfL5VR6"
     },
     {
       "added_at": null,
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Anuhea",
+        "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 254226,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/5h9HSjrDEomNDfg7AR1W5f"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mana Maoli, Volume V - Hui Na Moku",
         "url": "https://open.spotify.com/album/1acebQxhPagBiWionPJtrm"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 208200,
       "name": "Mr. Mellow",
       "url": "https://open.spotify.com/track/1dXUcTAgVP7YP7jDg8J4N6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anuhea",
-        "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 254226,
-      "name": "Endlessly",
-      "url": "https://open.spotify.com/track/5h9HSjrDEomNDfg7AR1W5f"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Follow Me (Remix)",
-        "url": "https://open.spotify.com/album/1M8gp8ALcQwerYOrPPm8Sp"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "Follow Me (Remix)",
-      "url": "https://open.spotify.com/track/3nwzpuw4jmld9GYGyUGBUa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anuhea",
         "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
       },
@@ -747,28 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Red, Gold & Green",
-        "url": "https://open.spotify.com/album/6PGmIHc5avNNXPTh8l7ozo"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        },
-        {
-          "name": "Kimi\u00e9 Miner",
-          "url": "https://open.spotify.com/artist/5Cp5wDJmbemEQsC3XA83Mg"
-        }
-      ],
-      "duration_ms": 229845,
-      "name": "Red, Gold & Green",
-      "url": "https://open.spotify.com/track/6CIxSkIqHnaN7ZiZQxMNwC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live at the Belly Up",
-        "url": "https://open.spotify.com/album/6UVg3eBRR5lOpg2t6Cx4pk"
+        "name": "Follow Me (Remix)",
+        "url": "https://open.spotify.com/album/1M8gp8ALcQwerYOrPPm8Sp"
       },
       "artists": [
         {
@@ -776,9 +740,9 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 356906,
-      "name": "Come over (Live)",
-      "url": "https://open.spotify.com/track/0KeV45Mymsh8RcyX1yvXuR"
+      "duration_ms": 195789,
+      "name": "Follow Me (Remix)",
+      "url": "https://open.spotify.com/track/3nwzpuw4jmld9GYGyUGBUa"
     },
     {
       "added_at": null,
@@ -799,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live at the Belly Up",
+        "url": "https://open.spotify.com/album/6UVg3eBRR5lOpg2t6Cx4pk"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 356906,
+      "name": "Come over (Live)",
+      "url": "https://open.spotify.com/track/0KeV45Mymsh8RcyX1yvXuR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Anuhea",
         "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 213480,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/2R2AreJLkwiXGSYP4W8ioB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Red, Gold & Green",
+        "url": "https://open.spotify.com/album/6PGmIHc5avNNXPTh8l7ozo"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        },
+        {
+          "name": "Kimi\u00e9 Miner",
+          "url": "https://open.spotify.com/artist/5Cp5wDJmbemEQsC3XA83Mg"
+        }
+      ],
+      "duration_ms": 229845,
+      "name": "Red, Gold & Green",
+      "url": "https://open.spotify.com/track/6CIxSkIqHnaN7ZiZQxMNwC"
     }
   ],
   "unique_name": "This Is Anuhea",

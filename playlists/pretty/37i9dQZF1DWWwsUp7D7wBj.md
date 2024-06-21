@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwsUp7D7wBj.md) - [plain]
 
 > Todo lo que es cultura pop\. Bad Bunny serving looks @ the Met Gala.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,416 likes - 15 songs - 56 min 44 sec
+[Spotify](https://open.spotify.com/user/spotify) - 20,440 likes - 15 songs - 56 min 44 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W?si=t46aO0dvRdmAn7mro6qF6Q>Joyous Celebration</a>
 
-287 songs - 1 day 5 hr 37 min
+288 songs - 1 day 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Phendula Imithandazo](https://open.spotify.com/track/3mRQCsQk2RKfW36ZJbG82z) | [Mjakes The Producer](https://open.spotify.com/artist/1xPLC6Bv9F6olLAxpN6XLZ), [Nhlonipho](https://open.spotify.com/artist/4fmvHSoDtKFGNsQL3imnRN) | [Phendula Imithandazo](https://open.spotify.com/album/0rbl6EdViK0hKcMKoPyvMs) | 4:24 | 2023-10-20 | 2024-02-02 |
 | [Prayer \(Live\)](https://open.spotify.com/track/6Vyu1Ov6fj5yTySId6lJQr) | [Buhle Thela](https://open.spotify.com/artist/3LW26tYtBgsMCv8QpoUuhs) | [Umuhle](https://open.spotify.com/album/540wvtDmjHq2p3muUBUkyV) | 5:02 | 2024-03-29 | 2024-04-05 |
 | [Prelude / The King on the Cross \- Live](https://open.spotify.com/track/1GefA6yajI6Wr26r6D4VUj) | [Spirit of Praise Choir](https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG) | [Spirit of Praise, Vol\. 7 \(Live\)](https://open.spotify.com/album/50TvIUjsR7nVUcvuK9CyrE) | 3:55 | 2023-06-23 | 2024-02-02 |
+| [Pride \(A Deeper Love\)](https://open.spotify.com/track/2IW6l9VuFJDDhGU2IXz4sC) | [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl), [Groove Terminator](https://open.spotify.com/artist/1bA9XJwgaR3yVHNMTCqJ02), [Latroit](https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK) | [Pride \(A Deeper Love\)](https://open.spotify.com/album/3ZKEYuxs7up1KWfIqM9Uhd) | 2:50 | 2024-06-21 |  |
 | [Provider](https://open.spotify.com/track/7hllC9WneRH2JYVaVjSQNL) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Provider](https://open.spotify.com/album/1sITlmcQXf1rY1L85dj285) | 3:32 | 2023-07-21 | 2023-08-02 |
 | [Re Bone Ka Naledi \(feat\. Kago, Given, Paul\) \- \(Live At The State Theatre\)](https://open.spotify.com/track/0x7UIcJatp5HBuSGYpA1DW) | [Wacha Mkhukhu Wachumlilo](https://open.spotify.com/artist/1WYcnlyvUxYVsSWOnG5163), [Given](https://open.spotify.com/artist/0UxTtJShgAFuQ1Q3HK0rmo), [Kago](https://open.spotify.com/artist/4pQfjRrGVSAleOhkjoExXs), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg) | [Re Bone Ka Naledi \(Live At The State Theatre\)](https://open.spotify.com/album/0UqaggNdoTOBEmI9QbAjHA) | 10:16 | 2023-12-29 | 2024-05-03 |
 | [Rea Lwanelwa \- Live](https://open.spotify.com/track/3sFKCjNDndwiVVDGXfMlsN) | [Puleng March](https://open.spotify.com/artist/65cfvyR00rBULLtOhWfNTn) | [Heaven's Scroll \(Live\)](https://open.spotify.com/album/0IdIW30hdyEVScUQdr4UyV) | 6:37 | 2024-06-07 |  |

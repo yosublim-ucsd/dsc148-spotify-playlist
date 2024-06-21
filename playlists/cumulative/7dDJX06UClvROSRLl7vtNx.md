@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-405 songs - 17 hr 44 min
+406 songs - 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Every Time](https://open.spotify.com/track/7wIEfhAIUrBGTp4ZHkHl9k) | [lonely beach house](https://open.spotify.com/artist/1jvDr2Sxp7ahE2XnykCBX3) | [Every Time](https://open.spotify.com/album/35RLkkhVvN3efNqnV5CbBT) | 2:31 | 2023-10-13 | 2024-05-13 |
 | [Eyesight](https://open.spotify.com/track/1QudET02Ckcgl4ozeWhGlA) | [Mats Westbroek](https://open.spotify.com/artist/22bQJrUFkEHoC4Srw85AuA), [Damaui](https://open.spotify.com/artist/3FjyYauJ9oaHMUtzN8uudZ) | [Eyesight](https://open.spotify.com/album/3EohqBC5Dp0Hj2cXZjuTK7) | 3:13 | 2023-12-10 | 2024-01-08 |
 | [Face of Lies](https://open.spotify.com/track/7mikFzgZIpagQ3JEghvOaz) | [KAJ](https://open.spotify.com/artist/1MPHxC0IFc9NFIqTSksCuj), [AUGUSTKID](https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y), [Iuliss](https://open.spotify.com/artist/0RHB8PKVkVyaYQKRGZclN8) | [Face Of Lies](https://open.spotify.com/album/7F24klsLNXafxJwQ8BHSOV) | 2:47 | 2023-11-22 | 2024-04-16 |
+| [Faded](https://open.spotify.com/track/3PJ5S08jxr3C1vPIUu7zoM) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [ELERA](https://open.spotify.com/artist/4xo3EH1H4QcgoX3512eF4N), [Cozy Sky](https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u) | [Faded](https://open.spotify.com/album/1KvpVmwVaHQWGeD5aXD0GZ) | 2:31 | 2024-06-20 |  |
 | [Fading Away](https://open.spotify.com/track/7jQ1vlGPE6FzQSNCnCsM2v) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Fading Away](https://open.spotify.com/album/1f7mXbl2NCkRqZlDGyxD4l) | 2:10 | 2023-09-22 |  |
 | [Fairytale](https://open.spotify.com/track/3x9XuWtvk2hqSH6olPcoJZ) | [Lake Matisse](https://open.spotify.com/artist/4UNdUzuLNX9a47ElW0Xb0O), [Kairos Grove](https://open.spotify.com/artist/7Cf1QhdtHmjlckbnmUeC6l) | [Fairytale](https://open.spotify.com/album/0pmtrehbZ9elW5g6Lg3Tqy) | 2:18 | 2024-05-27 |  |
 | [Falling In Love](https://open.spotify.com/track/2a8Pzj0iurArPqFrig3op9) | [Alex Keeper](https://open.spotify.com/artist/4hxy6gamr697jKBPSmHcpB), [Matthew Abapo](https://open.spotify.com/artist/3x9F6VXefKXbu0iNEChJvb) | [Falling In Love](https://open.spotify.com/album/74Azuc2PrBMthPSWUtQN7c) | 3:08 | 2023-12-04 | 2024-02-12 |

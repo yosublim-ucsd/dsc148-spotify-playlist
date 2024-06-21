@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : So La Lune",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : mademoiselle lou",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -1416,7 +1416,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 124303,
       "name": "CHARBONNER OU PRIER",
       "url": "https://open.spotify.com/track/4bHS6gKUqGG7DsexvoL8pt"
@@ -4408,7 +4408,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 136125,
       "name": "mamacita",
       "url": "https://open.spotify.com/track/1g5VHXH7aqUw9GunMpv3yY"
@@ -5280,6 +5280,24 @@
       "duration_ms": 170001,
       "name": "Para\u00eet-il",
       "url": "https://open.spotify.com/track/5VJerGXFJYqUsV63tvUYlb"
+    },
+    {
+      "album": {
+        "name": "LE RICHE EST SOURD",
+        "url": "https://open.spotify.com/album/2lmhKVBSrjlLp7eXxNFGqG"
+      },
+      "artists": [
+        {
+          "name": "Leith",
+          "url": "https://open.spotify.com/artist/0DQx7HJhLzjbSQNsNhrpLT"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151013,
+      "name": "Paris Tanger",
+      "url": "https://open.spotify.com/track/19Qk0blqgKX3uW0F79dBO1"
     },
     {
       "album": {
@@ -6592,6 +6610,24 @@
       "duration_ms": 233679,
       "name": "Silver Haze",
       "url": "https://open.spotify.com/track/03cm8VgdEvDM0rC7txjmpY"
+    },
+    {
+      "album": {
+        "name": "SINC\u00c8REMENT",
+        "url": "https://open.spotify.com/album/3XkUXrkXr9nx6WrUSfbvBx"
+      },
+      "artists": [
+        {
+          "name": "PHLP",
+          "url": "https://open.spotify.com/artist/14UW64obRS8GNXHzbRK9DL"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122975,
+      "name": "SINC\u00c8REMENT",
+      "url": "https://open.spotify.com/track/13hCmkcW61DsnePHeXRbhg"
     },
     {
       "album": {

@@ -1,143 +1,15 @@
 {
   "description": "Les plus grands tubes fran\u00e7ais des ann\u00e9es 70. Photo : Dalida",
-  "num_followers": 101329,
+  "num_followers": 101373,
   "original_name": "Tubes Fran\u00e7ais 70",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZYPrFwAAAADLfxKuCCj99dF/uKYweaE2",
+  "snapshot_id": "ZnRKugAAAACOAm9jZ8gkQAPAkhnyNXOy",
   "tracks": [
     {
-      "added_at": "2022-06-01 11:44:16",
-      "album": {
-        "name": "Joe Dassin",
-        "url": "https://open.spotify.com/album/32ZaJ7p8xvsYE8udh6vyOg"
-      },
-      "artists": [
-        {
-          "name": "Joe Dassin",
-          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
-        }
-      ],
-      "duration_ms": 206240,
-      "name": "Et si tu n'existais pas",
-      "url": "https://open.spotify.com/track/1GeszH3DWCOKwK0d8D5gEZ"
-    },
-    {
-      "added_at": "2022-06-01 11:44:16",
-      "album": {
-        "name": "Dancing Disco (Remasteris\u00e9 en 2004)",
-        "url": "https://open.spotify.com/album/2OV5w1EvwvFUcn0PEoFAxB"
-      },
-      "artists": [
-        {
-          "name": "France Gall",
-          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
-        }
-      ],
-      "duration_ms": 178506,
-      "name": "Si maman si - Remasteris\u00e9 en 2004",
-      "url": "https://open.spotify.com/track/6NvKOWV0UnBPAaO76D4JxS"
-    },
-    {
-      "added_at": "2022-06-01 11:44:16",
-      "album": {
-        "name": "Les chemins de traverse (Remastered)",
-        "url": "https://open.spotify.com/album/59RjTKHBUudPnSU779PQ5x"
-      },
-      "artists": [
-        {
-          "name": "Francis Cabrel",
-          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
-        }
-      ],
-      "duration_ms": 163466,
-      "name": "Je l'aime \u00e0 mourir - Remastered",
-      "url": "https://open.spotify.com/track/40U2kuipBVRrReD32J2lmO"
-    },
-    {
-      "added_at": "2022-06-01 11:44:16",
-      "album": {
-        "name": "Magnolias For Ever",
-        "url": "https://open.spotify.com/album/3Q7plxq5RjD1ba3L6vslrM"
-      },
-      "artists": [
-        {
-          "name": "Claude Fran\u00e7ois",
-          "url": "https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ"
-        }
-      ],
-      "duration_ms": 262186,
-      "name": "Alexandrie Alexandra",
-      "url": "https://open.spotify.com/track/2e9Sa881KIjKK0y86iNZ6C"
-    },
-    {
-      "added_at": "2022-06-01 11:44:16",
-      "album": {
-        "name": "Nino Ferrer",
-        "url": "https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG"
-      },
-      "artists": [
-        {
-          "name": "Nino Ferrer",
-          "url": "https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv"
-        }
-      ],
-      "duration_ms": 275040,
-      "name": "Le sud",
-      "url": "https://open.spotify.com/track/7zjkSx1EUums3s1Yg2jPJD"
-    },
-    {
-      "added_at": "2022-06-01 11:44:16",
-      "album": {
-        "name": "En Chantant",
-        "url": "https://open.spotify.com/album/6jpgSolMOIaEyNgF4TrYbC"
-      },
-      "artists": [
-        {
-          "name": "Michel Sardou",
-          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
-        }
-      ],
-      "duration_ms": 234173,
-      "name": "En chantant",
-      "url": "https://open.spotify.com/track/4agHyTtI7txejGgCciL6fX"
-    },
-    {
-      "added_at": "2022-06-01 11:44:16",
-      "album": {
-        "name": "ils vecurent heureux",
-        "url": "https://open.spotify.com/album/16ymDIBYhTE7GANUGFJYmk"
-      },
-      "artists": [
-        {
-          "name": "Il Etait Une Fois",
-          "url": "https://open.spotify.com/artist/1QQlg9J5PEMv9cpOOJPUvR"
-        }
-      ],
-      "duration_ms": 220533,
-      "name": "J'ai encore r\u00eav\u00e9 d'elle",
-      "url": "https://open.spotify.com/track/6aV2qifrzZkfT2PW3gsWDE"
-    },
-    {
-      "added_at": "2022-06-01 11:44:16",
-      "album": {
-        "name": "Fais Comme L'Oiseau",
-        "url": "https://open.spotify.com/album/6u9tEKSghovMOBy9rwTMLn"
-      },
-      "artists": [
-        {
-          "name": "Michel Fugain & Le Big Bazar",
-          "url": "https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY"
-        }
-      ],
-      "duration_ms": 195306,
-      "name": "Une belle histoire",
-      "url": "https://open.spotify.com/track/1GdtMDRiaF1EnG2LJpELme"
-    },
-    {
-      "added_at": "2022-06-01 11:44:16",
+      "added_at": "2024-06-20 15:07:10",
       "album": {
         "name": "40 succ\u00e8s en or",
         "url": "https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H"
@@ -153,7 +25,135 @@
       "url": "https://open.spotify.com/track/4ArgA1vhM4y4qSd3DvYIhy"
     },
     {
-      "added_at": "2022-06-01 11:44:16",
+      "added_at": "2024-06-20 15:07:10",
+      "album": {
+        "name": "Magnolias For Ever",
+        "url": "https://open.spotify.com/album/3Q7plxq5RjD1ba3L6vslrM"
+      },
+      "artists": [
+        {
+          "name": "Claude Fran\u00e7ois",
+          "url": "https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ"
+        }
+      ],
+      "duration_ms": 262186,
+      "name": "Alexandrie Alexandra",
+      "url": "https://open.spotify.com/track/2e9Sa881KIjKK0y86iNZ6C"
+    },
+    {
+      "added_at": "2024-06-20 15:07:10",
+      "album": {
+        "name": "Joe Dassin",
+        "url": "https://open.spotify.com/album/32ZaJ7p8xvsYE8udh6vyOg"
+      },
+      "artists": [
+        {
+          "name": "Joe Dassin",
+          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
+        }
+      ],
+      "duration_ms": 206240,
+      "name": "Et si tu n'existais pas",
+      "url": "https://open.spotify.com/track/1GeszH3DWCOKwK0d8D5gEZ"
+    },
+    {
+      "added_at": "2024-06-20 15:07:10",
+      "album": {
+        "name": "Dancing Disco (Remasteris\u00e9 en 2004)",
+        "url": "https://open.spotify.com/album/2OV5w1EvwvFUcn0PEoFAxB"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "duration_ms": 178506,
+      "name": "Si maman si - Remasteris\u00e9 en 2004",
+      "url": "https://open.spotify.com/track/6NvKOWV0UnBPAaO76D4JxS"
+    },
+    {
+      "added_at": "2024-06-20 15:07:10",
+      "album": {
+        "name": "Les chemins de traverse (Remastered)",
+        "url": "https://open.spotify.com/album/59RjTKHBUudPnSU779PQ5x"
+      },
+      "artists": [
+        {
+          "name": "Francis Cabrel",
+          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
+        }
+      ],
+      "duration_ms": 163466,
+      "name": "Je l'aime \u00e0 mourir - Remastered",
+      "url": "https://open.spotify.com/track/40U2kuipBVRrReD32J2lmO"
+    },
+    {
+      "added_at": "2024-06-20 15:07:10",
+      "album": {
+        "name": "Nino Ferrer",
+        "url": "https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG"
+      },
+      "artists": [
+        {
+          "name": "Nino Ferrer",
+          "url": "https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv"
+        }
+      ],
+      "duration_ms": 275040,
+      "name": "Le sud",
+      "url": "https://open.spotify.com/track/7zjkSx1EUums3s1Yg2jPJD"
+    },
+    {
+      "added_at": "2024-06-20 15:07:10",
+      "album": {
+        "name": "En Chantant",
+        "url": "https://open.spotify.com/album/6jpgSolMOIaEyNgF4TrYbC"
+      },
+      "artists": [
+        {
+          "name": "Michel Sardou",
+          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
+        }
+      ],
+      "duration_ms": 234173,
+      "name": "En chantant",
+      "url": "https://open.spotify.com/track/4agHyTtI7txejGgCciL6fX"
+    },
+    {
+      "added_at": "2024-06-20 15:07:10",
+      "album": {
+        "name": "ils vecurent heureux",
+        "url": "https://open.spotify.com/album/16ymDIBYhTE7GANUGFJYmk"
+      },
+      "artists": [
+        {
+          "name": "Il Etait Une Fois",
+          "url": "https://open.spotify.com/artist/1QQlg9J5PEMv9cpOOJPUvR"
+        }
+      ],
+      "duration_ms": 220533,
+      "name": "J'ai encore r\u00eav\u00e9 d'elle",
+      "url": "https://open.spotify.com/track/6aV2qifrzZkfT2PW3gsWDE"
+    },
+    {
+      "added_at": "2024-06-20 15:07:10",
+      "album": {
+        "name": "Fais Comme L'Oiseau",
+        "url": "https://open.spotify.com/album/6u9tEKSghovMOBy9rwTMLn"
+      },
+      "artists": [
+        {
+          "name": "Michel Fugain & Le Big Bazar",
+          "url": "https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY"
+        }
+      ],
+      "duration_ms": 195306,
+      "name": "Une belle histoire",
+      "url": "https://open.spotify.com/track/1GdtMDRiaF1EnG2LJpELme"
+    },
+    {
+      "added_at": "2024-06-20 15:07:10",
       "album": {
         "name": "De l'autre c\u00f4t\u00e9 de mon r\u00eave (Remasteris\u00e9 en 2008)",
         "url": "https://open.spotify.com/album/0Q9C21oNmR48rRuFKf5t4b"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/4lJKn6cDD3vpZrcg6oVTr1"
     },
     {
-      "added_at": "2022-06-01 11:44:16",
+      "added_at": "2024-06-20 15:07:10",
       "album": {
         "name": "Sentimentale",
         "url": "https://open.spotify.com/album/6yBjoyFjOb4HQVs1GVdLzQ"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/7Hy0CZtFcREucLDXB5jp6m"
     },
     {
-      "added_at": "2022-06-01 11:44:16",
+      "added_at": "2024-06-20 15:07:10",
       "album": {
         "name": "Visage",
         "url": "https://open.spotify.com/album/0npsDEKpr3sMr0AGjIFZ7f"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/0DB1tWW1bAnixC5MaWuLHX"
     },
     {
-      "added_at": "2022-06-01 11:44:16",
+      "added_at": "2024-06-20 15:07:10",
       "album": {
         "name": "Joe Dassin \u00c9ternel...",
         "url": "https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/7BNeFchpHDCWYSUV4hfU89"
     },
     {
-      "added_at": "2022-06-01 11:44:16",
+      "added_at": "2024-06-20 15:07:10",
       "album": {
         "name": "40 succ\u00e8s en or",
         "url": "https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/4VvTGipG8YaF09z0kfGqaD"
     },
     {
-      "added_at": "2022-06-01 11:44:16",
+      "added_at": "2024-06-20 15:07:10",
       "album": {
         "name": "Niagara",
         "url": "https://open.spotify.com/album/4PXN6s7jgy76nUzLdPFGvU"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/0klbnFP6UwMYpUuKjhleKT"
     },
     {
-      "added_at": "2022-06-01 11:44:16",
+      "added_at": "2024-06-20 15:07:10",
       "album": {
         "name": "Les mots bleus",
         "url": "https://open.spotify.com/album/5lDOYOhBNt7NHvDMtjcIOf"
@@ -269,7 +269,7 @@
       "url": "https://open.spotify.com/track/2Desf0YgquK9YrSkRhkvDN"
     },
     {
-      "added_at": "2022-06-01 11:44:16",
+      "added_at": "2024-06-20 15:07:10",
       "album": {
         "name": "Les plus belles chansons de G\u00e9rard Lenorman",
         "url": "https://open.spotify.com/album/7yjQwjm48h8sP04y5w2thf"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/0hO4TgWkyR3XiI6P3x731B"
     },
     {
-      "added_at": "2022-06-01 11:44:16",
+      "added_at": "2024-06-20 15:07:10",
       "album": {
         "name": "Blind Test Chanson Fran\u00e7aise",
         "url": "https://open.spotify.com/album/1REZhqwzNt52BPA59cdVjl"
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/0pm3C9ZFJKZB0yFaZ3gSpy"
     },
     {
-      "added_at": "2022-06-01 11:44:16",
+      "added_at": "2024-06-20 15:07:10",
       "album": {
         "name": "Starmania (2009 Remaster)",
         "url": "https://open.spotify.com/album/1KfEKYPClCYGHtJWTi6PCQ"
@@ -325,7 +325,7 @@
       "url": "https://open.spotify.com/track/62QQEK5BZPtOw0CvrBe9ho"
     },
     {
-      "added_at": "2022-06-01 11:44:16",
+      "added_at": "2024-06-20 15:07:10",
       "album": {
         "name": "Belle Ile En Mer",
         "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
@@ -341,7 +341,7 @@
       "url": "https://open.spotify.com/track/1jL4dBrmBpkAwxiMFzHulz"
     },
     {
-      "added_at": "2022-06-01 11:44:16",
+      "added_at": "2024-06-20 15:07:10",
       "album": {
         "name": "Les 50 Plus Belles Chansons De Barbara",
         "url": "https://open.spotify.com/album/23ZuuZarpj66WtoFqbmN12"
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/1GAMoIHawNWhdq0a22vT4E"
     },
     {
-      "added_at": "2022-06-01 11:44:16",
+      "added_at": "2024-06-20 15:07:10",
       "album": {
         "name": "Oxyg\u00e8ne",
         "url": "https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z"
@@ -373,7 +373,7 @@
       "url": "https://open.spotify.com/track/0Tt2jli0yAD1MKSTb5MvS2"
     },
     {
-      "added_at": "2022-06-01 11:44:16",
+      "added_at": "2024-06-20 15:07:10",
       "album": {
         "name": "Dave",
         "url": "https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o"
@@ -389,7 +389,7 @@
       "url": "https://open.spotify.com/track/5vuh4FAd5apHmhD85XJOyH"
     },
     {
-      "added_at": "2022-06-01 11:44:16",
+      "added_at": "2024-06-20 15:07:10",
       "album": {
         "name": "Sur La Route De Memphis",
         "url": "https://open.spotify.com/album/53SYGh9begSjMAyh0MgpLJ"
@@ -405,7 +405,7 @@
       "url": "https://open.spotify.com/track/6NQ1iVoOqcYKDdsrkLi1PK"
     },
     {
-      "added_at": "2022-06-01 11:44:16",
+      "added_at": "2024-06-20 15:07:10",
       "album": {
         "name": "J'ai dix ans",
         "url": "https://open.spotify.com/album/61ELXLv7SrKIdL3Gf22ERQ"
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/3pWBtajUyESxMhyxWD78zR"
     },
     {
-      "added_at": "2022-06-01 11:44:16",
+      "added_at": "2024-06-20 15:07:10",
       "album": {
         "name": "Les plus grandes chansons",
         "url": "https://open.spotify.com/album/4F6NYEBMBCvvIuj1RQv2vh"
@@ -437,7 +437,7 @@
       "url": "https://open.spotify.com/track/6cT38LHvaN11gThHVVkDee"
     },
     {
-      "added_at": "2022-06-01 11:44:16",
+      "added_at": "2024-06-20 15:07:10",
       "album": {
         "name": "Le mal aim\u00e9 / Le t\u00e9l\u00e9phone pleure",
         "url": "https://open.spotify.com/album/2nNfGK1Gcwie6YAiwZ1chD"
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/4cAeq0pjjvWxFfy7NL3XSD"
     },
     {
-      "added_at": "2022-06-01 11:44:16",
+      "added_at": "2024-06-20 15:07:10",
       "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/4tDE4kPJZBjZ8MJpF1ABUt"
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/2y31xdqCINOlMWeR7sfR23"
     },
     {
-      "added_at": "2022-06-01 11:44:16",
+      "added_at": "2024-06-20 15:07:10",
       "album": {
         "name": "Mon Vieux",
         "url": "https://open.spotify.com/album/1DJRvlJg6vGlXWQihVdMtb"
@@ -489,7 +489,7 @@
       "url": "https://open.spotify.com/track/6xs2iOXaBfCeVKeyfo2VNE"
     },
     {
-      "added_at": "2022-06-01 11:44:16",
+      "added_at": "2024-06-20 15:07:10",
       "album": {
         "name": "Tu t'en vas",
         "url": "https://open.spotify.com/album/5ShTWkrkWAs7YkexJvH01u"
@@ -509,7 +509,7 @@
       "url": "https://open.spotify.com/track/6tWja7qcdLNViY8dKHTVbc"
     },
     {
-      "added_at": "2022-06-01 11:44:16",
+      "added_at": "2024-06-20 15:07:10",
       "album": {
         "name": "Vu de l'ext\u00e9rieur",
         "url": "https://open.spotify.com/album/0NACl36sqipY6OZXOqy1At"
@@ -525,7 +525,7 @@
       "url": "https://open.spotify.com/track/5cC9RZFMzrpbA9U1m4zSPm"
     },
     {
-      "added_at": "2022-06-01 11:44:16",
+      "added_at": "2024-06-20 15:07:10",
       "album": {
         "name": "Exclusivement f\u00e9minin",
         "url": "https://open.spotify.com/album/40ab89bLPpUS6kmt44vNjS"
@@ -541,7 +541,7 @@
       "url": "https://open.spotify.com/track/2EdqnePuFG7FDPsiy5YGov"
     },
     {
-      "added_at": "2022-06-01 11:44:16",
+      "added_at": "2024-06-20 15:07:10",
       "album": {
         "name": "Le chanteur",
         "url": "https://open.spotify.com/album/5qPnlXhD5Ui1f2eHUJQ99x"
@@ -557,7 +557,7 @@
       "url": "https://open.spotify.com/track/05ubSq0kbCEJ9phlfHRC4m"
     },
     {
-      "added_at": "2022-06-01 11:44:16",
+      "added_at": "2024-06-20 15:07:10",
       "album": {
         "name": "20eme anniversaire",
         "url": "https://open.spotify.com/album/45feqbqIXi45boCrjlo0cV"
@@ -573,7 +573,7 @@
       "url": "https://open.spotify.com/track/17X2d0BXk1sgVvH94JIiOR"
     },
     {
-      "added_at": "2022-06-01 11:44:16",
+      "added_at": "2024-06-20 15:07:10",
       "album": {
         "name": "Baby Boy",
         "url": "https://open.spotify.com/album/1rvuEe2N58ujU6CjRRTUni"
@@ -589,7 +589,7 @@
       "url": "https://open.spotify.com/track/6GGTIbx1HkiJybU8yaRqZX"
     },
     {
-      "added_at": "2022-06-01 11:44:16",
+      "added_at": "2024-06-20 15:07:10",
       "album": {
         "name": "Le coeur grenadine",
         "url": "https://open.spotify.com/album/1Rk16GLTOxgDyfJkUDWFot"
@@ -605,7 +605,7 @@
       "url": "https://open.spotify.com/track/2OWUD3BSV3yyuYYSpDBhwb"
     },
     {
-      "added_at": "2022-06-01 11:44:16",
+      "added_at": "2024-06-20 15:07:10",
       "album": {
         "name": "Mon Fr\u00e8re",
         "url": "https://open.spotify.com/album/3AQhnilaP323JIXSDAYofu"
@@ -621,7 +621,7 @@
       "url": "https://open.spotify.com/track/4EucYViqJKQ4lCECHnec1P"
     },
     {
-      "added_at": "2022-06-01 11:44:16",
+      "added_at": "2024-06-20 15:07:10",
       "album": {
         "name": "Pour Me Comprendre (40 titres)",
         "url": "https://open.spotify.com/album/1Nkz53Btm6laHVLRo595DZ"
@@ -641,7 +641,7 @@
       "url": "https://open.spotify.com/track/3MyUnoqEPeCANpFyLYXBhN"
     },
     {
-      "added_at": "2022-06-01 11:44:16",
+      "added_at": "2024-06-20 15:07:10",
       "album": {
         "name": "Ferrat chante Aragon, Vol. 1",
         "url": "https://open.spotify.com/album/49e83lfrO3bGSioBcF91O4"
@@ -657,7 +657,7 @@
       "url": "https://open.spotify.com/track/5h15ZnuAT2kBMXYGl82p9z"
     },
     {
-      "added_at": "2022-06-01 11:44:16",
+      "added_at": "2024-06-20 15:07:10",
       "album": {
         "name": "Best Of 2003",
         "url": "https://open.spotify.com/album/6uoHpvJlZvaREOR1Z3Lu8i"
@@ -673,7 +673,7 @@
       "url": "https://open.spotify.com/track/58bRgUVRgeHrrGfqR7v96k"
     },
     {
-      "added_at": "2022-06-01 11:44:16",
+      "added_at": "2024-06-20 15:07:10",
       "album": {
         "name": "Jaloux",
         "url": "https://open.spotify.com/album/3GRhZqQ2442jfDIZXXCQCb"
@@ -689,7 +689,7 @@
       "url": "https://open.spotify.com/track/3N9Vibj1SwLn4SRtWJVDVO"
     },
     {
-      "added_at": "2022-06-01 11:44:16",
+      "added_at": "2024-06-20 15:07:10",
       "album": {
         "name": "Le Chasseur",
         "url": "https://open.spotify.com/album/6cmLF1Ryo6jQTLLSyREabH"
@@ -705,7 +705,7 @@
       "url": "https://open.spotify.com/track/1cbEUq5Rwe9LLFQyPKxurl"
     },
     {
-      "added_at": "2022-06-01 11:44:16",
+      "added_at": "2024-06-20 15:07:10",
       "album": {
         "name": "La Derniere S\u00e9ance",
         "url": "https://open.spotify.com/album/4dXFPlxD8HLFgPGjHQfmnq"
@@ -721,7 +721,7 @@
       "url": "https://open.spotify.com/track/1LMMoxkBJe9NfGEQikGK0B"
     },
     {
-      "added_at": "2022-06-01 11:44:16",
+      "added_at": "2024-06-20 15:07:10",
       "album": {
         "name": "D'o\u00f9 venez-vous ?",
         "url": "https://open.spotify.com/album/397PJkwZTSa8abMLaQwf88"
@@ -737,7 +737,7 @@
       "url": "https://open.spotify.com/track/4OnWd9bQcVfjo5U63SLTXQ"
     },
     {
-      "added_at": "2022-06-01 11:44:16",
+      "added_at": "2024-06-20 15:07:10",
       "album": {
         "name": "Je Suis Malade",
         "url": "https://open.spotify.com/album/6TdQpl3zNMInvcyJLrkBM0"
@@ -753,7 +753,7 @@
       "url": "https://open.spotify.com/track/4Qzdktws811tv59fMf7CBz"
     },
     {
-      "added_at": "2022-06-01 11:44:16",
+      "added_at": "2024-06-20 15:07:10",
       "album": {
         "name": "Jamais Content",
         "url": "https://open.spotify.com/album/7fj2NNii1Wlw8loDuYg9Yw"
@@ -769,7 +769,7 @@
       "url": "https://open.spotify.com/track/6feRXBskplLVuNov74Rep3"
     },
     {
-      "added_at": "2022-06-01 11:44:16",
+      "added_at": "2024-06-20 15:07:10",
       "album": {
         "name": "La tarentelle",
         "url": "https://open.spotify.com/album/74ZWi5tnm2gY5ubaMMfSgu"
@@ -785,7 +785,7 @@
       "url": "https://open.spotify.com/track/5ArboR4WpgNf6bClJA8Xiw"
     },
     {
-      "added_at": "2022-06-01 11:44:16",
+      "added_at": "2024-06-20 15:07:10",
       "album": {
         "name": "Rupture",
         "url": "https://open.spotify.com/album/0XwCyKwreatgHKvQ00rCvZ"
@@ -801,7 +801,7 @@
       "url": "https://open.spotify.com/track/3eRMDsLl5O4G3nbHOOp7V1"
     },
     {
-      "added_at": "2022-06-01 11:44:16",
+      "added_at": "2024-06-20 15:07:10",
       "album": {
         "name": "L'\u00e2ge de pierre",
         "url": "https://open.spotify.com/album/7wnjaC11wm2UDP3H17A8Qp"
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/1vVqeVk2xv1NClP8Q1w4ol"
     },
     {
-      "added_at": "2022-06-01 11:44:16",
+      "added_at": "2024-06-20 15:07:10",
       "album": {
         "name": "Amoureux De Paname",
         "url": "https://open.spotify.com/album/7eN7UX6RRLnZdWbYmSJkrr"

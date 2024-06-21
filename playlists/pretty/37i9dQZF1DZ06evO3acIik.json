@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 55305,
+  "num_followers": 55321,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zm98gAAAAAAoIEDo7eZUCbpBnYxQkJwW",
+  "snapshot_id": "ZnIfgAAAAAAuvsMJ2eWqCtPRDtXIu9+X",
   "tracks": [
     {
       "added_at": null,
@@ -59,6 +59,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "love you more than me",
+        "url": "https://open.spotify.com/album/5iA8uhhLMIfh8CUu6sJWd6"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 141081,
+      "name": "love you more than me",
+      "url": "https://open.spotify.com/track/3jc0jdopFsv3dYz5uo8OCr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "2 seater",
         "url": "https://open.spotify.com/album/67CW3pOkOhn5ugepbhxCJ4"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 65982,
       "name": "2 seater",
       "url": "https://open.spotify.com/track/3hU9W3drI6DjpQnvx53osT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Just Wanna Feel Your Love Again",
-        "url": "https://open.spotify.com/album/2wjAr1uxq8uRJaRfu2rDh7"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 241166,
-      "name": "I Just Wanna Feel Your Love Again",
-      "url": "https://open.spotify.com/track/4JOjqoaUEMZ0SOAzaKUwDj"
     },
     {
       "added_at": null,
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 148000,
-      "name": "Every Night",
-      "url": "https://open.spotify.com/track/21MjiNNSZylKr74tEuGHpm"
+      "duration_ms": 142285,
+      "name": "Exscape",
+      "url": "https://open.spotify.com/track/2JxPgHghyuG0SKNy8htBWg"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 146000,
-      "name": "And i'd go a thousand miles",
-      "url": "https://open.spotify.com/track/4XAAxqgd94HLvDQWc0EkDa"
+      "duration_ms": 49076,
+      "name": "Enough For You",
+      "url": "https://open.spotify.com/track/37G1Mx1vZHxKia3aDPMQxd"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 193671,
-      "name": "Pretend Lovers",
-      "url": "https://open.spotify.com/track/0cJTBlSiodwtdA5vdIbHhB"
+      "duration_ms": 148000,
+      "name": "Every Night",
+      "url": "https://open.spotify.com/track/21MjiNNSZylKr74tEuGHpm"
     },
     {
       "added_at": null,
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 49076,
-      "name": "Enough For You",
-      "url": "https://open.spotify.com/track/37G1Mx1vZHxKia3aDPMQxd"
+      "duration_ms": 110000,
+      "name": "Fallin Out of Love With You",
+      "url": "https://open.spotify.com/track/3Eq9N7ymMN0GNG7vSKjTrF"
     },
     {
       "added_at": null,
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Blame",
-      "url": "https://open.spotify.com/track/7qsQw6eSn1x8sO4OrQAHne"
+      "duration_ms": 193671,
+      "name": "Pretend Lovers",
+      "url": "https://open.spotify.com/track/0cJTBlSiodwtdA5vdIbHhB"
     },
     {
       "added_at": null,
@@ -384,9 +384,25 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 110000,
-      "name": "Fallin Out of Love With You",
-      "url": "https://open.spotify.com/track/3Eq9N7ymMN0GNG7vSKjTrF"
+      "duration_ms": 189000,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/3Kfh2IIk7nehym6iv2Ru8P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Her Love Still Haunts Me Like a Ghost",
+        "url": "https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/7qsQw6eSn1x8sO4OrQAHne"
     },
     {
       "added_at": null,
@@ -427,6 +443,22 @@
       "duration_ms": 212250,
       "name": "Eyes Only for You",
       "url": "https://open.spotify.com/track/7JWFNEhVS1IZzZK6JBkITN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "As We Walk into Forever",
+        "url": "https://open.spotify.com/album/03VAghRQNBLnGT8f8g9wE7"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 58000,
+      "name": "Downfalls",
+      "url": "https://open.spotify.com/track/5fTEuJl6xp2kNWWO6O6LnH"
     },
     {
       "added_at": null,
@@ -483,30 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Camp Lukewarm",
-        "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
-      },
-      "artists": [
-        {
-          "name": "Lord's Child",
-          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
-        },
-        {
-          "name": "SOPHIETHEHOMIE",
-          "url": "https://open.spotify.com/artist/1FiNaCwPk9tRjTH4gCqsWh"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 235500,
-      "name": "Crumble",
-      "url": "https://open.spotify.com/track/0Gji3Cm4mRFYvXXtX82klr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Show the Signs.",
         "url": "https://open.spotify.com/album/1oc8h9nIQClaRvwaEpeSvl"
       },
@@ -527,6 +535,30 @@
       "duration_ms": 181682,
       "name": "Show the Signs.",
       "url": "https://open.spotify.com/track/4I5dVjz3Uwqmgb4Wzmupn6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Camp Lukewarm",
+        "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "SOPHIETHEHOMIE",
+          "url": "https://open.spotify.com/artist/1FiNaCwPk9tRjTH4gCqsWh"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 235500,
+      "name": "Crumble",
+      "url": "https://open.spotify.com/track/0Gji3Cm4mRFYvXXtX82klr"
     },
     {
       "added_at": null,
@@ -915,26 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Light Will Find You",
-        "url": "https://open.spotify.com/album/3v5s77G4gqRKHNV6iG7wv7"
-      },
-      "artists": [
-        {
-          "name": "Antoine Bradford",
-          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 227864,
-      "name": "Break of Dawn",
-      "url": "https://open.spotify.com/track/3gNLSsQTbAhihMPqWAX2Bk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Summer/Spring Lofi Compilation",
         "url": "https://open.spotify.com/album/2zT0rgijDSLbiuQkD0iFvT"
       },
@@ -951,30 +963,6 @@
       "duration_ms": 223973,
       "name": "space helmets",
       "url": "https://open.spotify.com/track/5EWBmXdxdWljoh8SAdxLy4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Camp Lukewarm",
-        "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
-      },
-      "artists": [
-        {
-          "name": "Lord's Child",
-          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        },
-        {
-          "name": "Antoine Bradford",
-          "url": "https://open.spotify.com/artist/2ld1XpKgcJ3mNcEFU47n0w"
-        }
-      ],
-      "duration_ms": 194509,
-      "name": "Camp",
-      "url": "https://open.spotify.com/track/1WIlQub0N2uENuLhKNuZ5o"
     }
   ],
   "unique_name": "This Is Montell Fish",

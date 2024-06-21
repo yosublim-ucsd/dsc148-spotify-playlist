@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: N.Y.P.D\. 南洋派對 \(Hong Kong\)
 
-1,366 songs - 3 day 10 hr 18 min
+1,367 songs - 3 day 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -654,7 +654,7 @@
 | [love in balcony](https://open.spotify.com/track/7BrlpynTrdHToVYs4uJSre) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [COLOR PAPER HOTEL](https://open.spotify.com/album/4oqDAgsdYAQGaZu6QtmHsQ) | 3:50 | 2023-02-02 | 2023-03-10 |
 | [Love Inside](https://open.spotify.com/track/3KkW1OyyxzsHA4joskFfTI) | [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm) | [Once Upon A Season](https://open.spotify.com/album/3kpwGzS5p8mkA4dO2ll0oL) | 3:58 | 2022-07-07 | 2022-09-02 |
 | [love is a crime](https://open.spotify.com/track/5noD3FymlCRl7veIWk5k4g) | [AneeSa](https://open.spotify.com/artist/2pNvaqWpANQG0LphogYOtM), [David Halim](https://open.spotify.com/artist/3tHIFKlD45w5KlIajjqdfZ) | [love is a crime](https://open.spotify.com/album/5gmSFYWOGKR9eSmQgHKFDf) | 4:52 | 2023-05-11 | 2023-05-26 |
-| [love is growing](https://open.spotify.com/track/1xzKJE6Q1fOhXLzYOCXXQg) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd) | [love is growing](https://open.spotify.com/album/422FUc3Fc4UG1Cn9CeeOAQ) | 2:58 | 2023-04-13 |  |
+| [love is growing](https://open.spotify.com/track/1xzKJE6Q1fOhXLzYOCXXQg) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd) | [love is growing](https://open.spotify.com/album/422FUc3Fc4UG1Cn9CeeOAQ) | 2:58 | 2023-04-13 | 2024-06-21 |
 | [Love Me More](https://open.spotify.com/track/4PUT0cH2iggaje5hTJZeGe) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:32 | 2022-03-24 | 2022-04-01 |
 | [love song](https://open.spotify.com/track/5hleMxYlPLHEAoSLcfzKAh) | [gencry](https://open.spotify.com/artist/5TTgTTAxOez6W6bnKpphrc) | [what’s the name of this EP](https://open.spotify.com/album/3IkpFYAIck2VrAdkRfa9nx) | 3:52 | 2022-03-24 | 2022-04-15 |
 | [Love Song](https://open.spotify.com/track/24GzZhuO5eYkG2lypqtoe9) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Not Sad, Not Fulfilled](https://open.spotify.com/album/4Jj27HCjq09sBa68bDgg7I) | 2:05 | 2023-04-20 | 2023-11-24 |
@@ -1069,6 +1069,7 @@
 | [The Art of Chasing You](https://open.spotify.com/track/7HwHo4TOJzqcX9scDN7YCB) | [Magnolia Celebration](https://open.spotify.com/artist/3YfBnmHPOhPA3uEb0BxIHK), [Ade Paloh](https://open.spotify.com/artist/1WNds1Ueo0rd6XUigI9DPZ) | [Too Shy, Too Blind](https://open.spotify.com/album/6MVkNSm87gfSg4rG8728ii) | 5:06 | 2024-04-04 | 2024-04-26 |
 | [The Bended Man](https://open.spotify.com/track/6aKj56S8DrVrwiRraHd72f) | [Sunwich](https://open.spotify.com/artist/45KFMEB3QETjFvFME86vYO) | [The Bended Man](https://open.spotify.com/album/6nHeVcX21JmpTJB48qhVzb) | 2:58 | 2022-06-23 | 2022-08-05 |
 | [The Chorus Superstar](https://open.spotify.com/track/66pXN7akoC2e9RrPOSjBWc) | [Space Cubs](https://open.spotify.com/artist/3JOcvznPQ58nkKmyZ31ex0) | [The Chorus Superstar](https://open.spotify.com/album/2BnDqpwaFMaO1wOl5I7pv0) | 3:32 | 2023-09-29 | 2023-10-20 |
+| [the cutest pair](https://open.spotify.com/track/0VVD95cRAppHSOGPYrfIG2) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 2:38 | 2024-06-13 |  |
 | [The Dark Prince \(feat\. Mac DeMarco\)](https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [The Dark Prince \(feat\. Mac DeMarco\)](https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd) | 3:34 | 2023-08-17 | 2023-11-24 |
 | [The Forgotten Honeymoon](https://open.spotify.com/track/0tFc5y2jQXoPdkQ3AyxvXM) | [Daniel Ryn](https://open.spotify.com/artist/3lhyP7Pddt6ks3s0TL7blV) | [The Forgotten Honeymoon](https://open.spotify.com/album/6gM2GBC8CCzZa6TDcgo3xe) | 3:34 | 2023-05-11 | 2023-06-02 |
 | [The Goo](https://open.spotify.com/track/4tNggYnNT1qWzV1MzFZZRo) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [The Goo](https://open.spotify.com/album/76PdRpzuQWUzg17LoA9u4z) | 2:34 | 2024-05-23 | 2024-06-14 |

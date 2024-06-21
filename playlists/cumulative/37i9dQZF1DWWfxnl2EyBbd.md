@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-568 songs - 1 day 19 hr 28 min
+569 songs - 1 day 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Alfie](https://open.spotify.com/track/6WiOLR12myN6odhdOcwC9P) | [Antonio Zambrini](https://open.spotify.com/artist/6TW82eCj0y0x0l5lyP77RL), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Martin Maretti Andersen](https://open.spotify.com/artist/1pjHY4vNthS2YoK8R4Ty0G) | [Alfie](https://open.spotify.com/album/4ZkR2XXyHE373ZUv8k2CNY) | 8:19 | 2023-03-16 | 2023-05-01 |
 | [All the Stars](https://open.spotify.com/track/3lNR1Rzlvew7A6lyPEKDEk) | [Franklin Trio](https://open.spotify.com/artist/6JKD55Y19og9ydmldZwVQw) | [All the Stars](https://open.spotify.com/album/1cEEgLpfKysT4Ey99HziNV) | 5:28 | 2022-11-12 |  |
 | [All the Things You Are](https://open.spotify.com/track/2BgxwHGlY8aPhiGurdkuON) | [Sentimental Mood Trio](https://open.spotify.com/artist/3P5GWV6ACWtiwq71Y5KYcD) | [All the Things You Are](https://open.spotify.com/album/1vgiVIGoquD7w4ttvRM7L5) | 5:24 | 2023-03-16 |  |
+| [Aloft](https://open.spotify.com/track/0CiU0z4zCOraHw7ilpFrkO) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Aloft](https://open.spotify.com/album/4h8T76HMOJIOoJQQlWriJm) | 2:17 | 2024-06-17 |  |
 | [Always a Lady](https://open.spotify.com/track/3We23WM1fwrgX6DGaem3qO) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Nightcaps](https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja) | 3:03 | 2023-03-10 |  |
 | [Americans in Paris](https://open.spotify.com/track/6SLB7RAVXvNdvzBFMy1Pyc) | [Iiro Rantala](https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL), [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [My History of Jazz](https://open.spotify.com/album/7ahVUrtlbmVq29CPbt1J85) | 4:30 | 2022-02-10 | 2022-11-12 |
 | [And I Love Her](https://open.spotify.com/track/72m3jr8pROw5WQM3cJAy1k) | [Marc Copland](https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA), [Joey Baron](https://open.spotify.com/artist/0sQXx1Ji0yvldYg6cuEAOW), [Drew Gress](https://open.spotify.com/artist/4HMyzDtVu6uNLYQZqYeOXK) | [And I Love Her](https://open.spotify.com/album/5Ug4R1QkqfUDsufwLymttu) | 6:43 | 2022-02-10 |  |
@@ -336,7 +337,7 @@
 | [Neon Nightscape](https://open.spotify.com/track/1IDeoU149BEQU6HChwNrHB) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [Neon Nightscape](https://open.spotify.com/album/3o4zbbXblhFCJSanZqQqqn) | 3:16 | 2023-11-17 |  |
 | [New Hampshire](https://open.spotify.com/track/0Z8auoHguIXLgSMzqT3kZr) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Almond Joy](https://open.spotify.com/album/6DHRv3vxhrco4PWdW8z47F) | 3:03 | 2022-11-12 |  |
 | [New sponsor](https://open.spotify.com/track/6EIQvvPBFyPsa4zRJYtoNq) | [Henry Albert Trio](https://open.spotify.com/artist/0oeLogVOTRyRb8h43KVlXm) | [New sponsor](https://open.spotify.com/album/2Xgmzfb2ZGhDBM0xYfj86c) | 3:18 | 2023-08-10 |  |
-| [Newselves](https://open.spotify.com/track/40V4EWwwYv4a6erWw9r60D) | [MEGTARO](https://open.spotify.com/artist/3o3JLHE1KQzNc2wh46UiNI) | [World Painter](https://open.spotify.com/album/11QDwaxB2Z5Tmp6sqzQPnC) | 5:55 | 2022-03-25 |  |
+| [Newselves](https://open.spotify.com/track/40V4EWwwYv4a6erWw9r60D) | [MEGTARO](https://open.spotify.com/artist/3o3JLHE1KQzNc2wh46UiNI) | [World Painter](https://open.spotify.com/album/11QDwaxB2Z5Tmp6sqzQPnC) | 5:55 | 2022-03-25 | 2024-06-21 |
 | [Night Swimmer](https://open.spotify.com/track/2TaXpoVerMqrJxoEh1KjgS) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Swallows](https://open.spotify.com/album/1oY3zKF2arpXsgJolpVemU) | 2:56 | 2022-11-12 |  |
 | [Nightfall](https://open.spotify.com/track/0n04M7GwiuMd58kTQW6WDG) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Nocturne](https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo) | 6:36 | 2022-02-10 |  |
 | [No Cure](https://open.spotify.com/track/0rKzWTVtKrYBaHzUFsbRA8) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [No Cure](https://open.spotify.com/album/23EyzXYYutdXgXOmYYJ9Xi) | 4:23 | 2023-03-10 |  |

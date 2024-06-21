@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,717 songs - 3 day 17 hr 39 min
+1,718 songs - 3 day 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1111,7 +1111,7 @@
 | [Norge I Rødt Hvitt Og Blått](https://open.spotify.com/track/7w75F85oAXsdaTrCoREONt) | [Lars\-Erik Larsson](https://open.spotify.com/artist/7fFoO8E3rLkTJBItdhAwCy), [Arild Feldborg](https://open.spotify.com/artist/751C9BQ0VdWdtVeC0bADSf), [Finn Bø](https://open.spotify.com/artist/4lkMhKErNMyZ9Sarx6n6O5), [Gardemusikken](https://open.spotify.com/artist/7gyEHWG7bLlW2ZCPeIr1fE) | [Norwegian Colours](https://open.spotify.com/album/4kj5swQwMcPO94P5t4seP9) | 2:28 | 2021-05-19 | 2024-05-20 |
 | [Norge i rødt, hvitt og blått \- 2006 Remastered Version](https://open.spotify.com/track/4S1De6Tx74tNuxyRODRLXY) | [Jens Book\-Jenssen](https://open.spotify.com/artist/3GmeMFpBRcVlf9OUwlsuo0) | [Diamanter](https://open.spotify.com/album/5jKmag1TJpFftqgaDy2sia) | 3:21 | 2021-05-19 | 2024-05-20 |
 | [Norge rundt](https://open.spotify.com/track/2npSnsWqiOkinzheEcuWh8) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Norge rundt](https://open.spotify.com/album/1SAhnYv7WLA9wrKlBUQD4J) | 3:24 | 2023-02-04 | 2023-02-12 |
-| [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-05-06 |  |
+| [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-05-06 | 2024-06-21 |
 | [NOT SOBER \(feat\. Polo G & Stunna Gambino\)](https://open.spotify.com/track/1JXBNvlDEl2epKSJ9EOgKX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX) | [F\*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 3:36 | 2021-07-25 | 2021-08-15 |
 | [Not Worth It](https://open.spotify.com/track/1rbdesqJL4phqIITSayNm4) | [Maria Mena](https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR) | [Not Worth It](https://open.spotify.com/album/0iWanB5Cwd1GEbCRXD4Tth) | 3:56 | 2023-03-11 | 2023-03-13 |
 | [Nothing Compares 2 U](https://open.spotify.com/track/5GHY1DFWKz3Prg2V0Iodqo) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01) | 4:40 | 2023-07-28 | 2023-07-30 |
@@ -1334,6 +1334,7 @@
 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-05-20 | 2023-07-02 |
 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 | 2024-01-23 | 2024-06-16 |
 | [Schnogodidougudugidoubudibow](https://open.spotify.com/track/5p92TOuIaqTprq7BcTa3x3) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Norge Elsker Rap](https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ) | 1:50 | 2024-04-26 | 2024-05-14 |
+| [Se på meg](https://open.spotify.com/track/7IYXHtvFO3qZfe6In07sKE) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K) | [Se på meg](https://open.spotify.com/album/5vmMQJYn1vtGORBfEBg0fv) | 2:23 | 2024-06-20 |  |
 | [Se så glad nissen er \(med Nissemor\)](https://open.spotify.com/track/3QsQuRWsIU4ULKqkoLthy0) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Se så glad nissen er \(med Nissemor\)](https://open.spotify.com/album/6H08zHLAXuWDeyae4lGWNS) | 2:31 | 2023-11-25 | 2023-11-27 |
 | [Search & Rescue](https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW) | 4:32 | 2023-04-08 | 2023-04-16 |
 | [Second Hand Love \(feat\. Ruben\)](https://open.spotify.com/track/0tig7XFHhhSErWaXdeq5Oj) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv), [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Second Hand Love \(feat\. Ruben\)](https://open.spotify.com/album/2HMJp3DPado7Go8pZ9SZey) | 3:24 | 2021-11-28 | 2022-01-30 |

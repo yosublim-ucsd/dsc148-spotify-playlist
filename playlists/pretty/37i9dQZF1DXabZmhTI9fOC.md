@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Keep the villa vibes vibing with music from and inspired by the new season of Love Island USA, streaming only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2406spotifypkerndwbjny446&utm\_campaign=2406spotify&utm\_source=sptfy\_na&utm\_medium=ernd\_wbjny\_acq\_deslnk&utm\_term=spotifyusers&utm\_content=nooffer&voucher\[\]=XXXXXXXXXXXXXX">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,863 likes - 40 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,103 likes - 56 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,6 +47,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 37 | [Came Here for Love \- Acoustic](https://open.spotify.com/track/6gBwaCbb1lKHvlN9mVOVAg) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Came Here for Love \(Acoustic\)](https://open.spotify.com/album/2YwHJ9OLSiwzwo6n4VLEvk) | 3:36 |
 | 38 | [Good to Be Bad \(Lionel Fabert Remix\)](https://open.spotify.com/track/5K9ou6fnkrGkuMCCvjsqvr) | [CRMNL](https://open.spotify.com/artist/4KGzIN3H6JbwyLKjs93tUQ), [Lionel Fabert](https://open.spotify.com/artist/5Qep23Mw61DcpUzoosnA43) | [Good to Be Bad \(Lionel Fabert Remix\)](https://open.spotify.com/album/638rijoSUJUZEz6sJxZ5jB) | 2:33 |
 | 39 | [Poison](https://open.spotify.com/track/6SI4Vs250peJHFYUShlst7) | [RAVN](https://open.spotify.com/artist/3TvMWdojrvPFOiU0PznJJ2) | [Revival](https://open.spotify.com/album/0a8kRcuw4NOalpS2V4dhjv) | 2:21 |
-| 40 | [Toxic](https://open.spotify.com/track/7sgvhY89MQ5ipWtgr9l3NQ) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc) | [Sequels](https://open.spotify.com/album/5eHFt6Ecfv45j25kI1KLxN) | 3:57 |
+| 40 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 |
+| 41 | [What Love Is](https://open.spotify.com/track/6eF2psRQNVS3EbIZ1q5NV3) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [What Love Is](https://open.spotify.com/album/1p1EzcpdBbRS3Dnvz56TNm) | 3:40 |
+| 42 | [Pretty Girl Era](https://open.spotify.com/track/3w6JB9UckmYZBn4Tsq2kpM) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Pretty Girl Era](https://open.spotify.com/album/6G32ymoo3YjIUKVMGIKJUY) | 2:35 |
+| 43 | [Bones](https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Bones](https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q) | 2:45 |
+| 44 | [Animals](https://open.spotify.com/track/6GXoMeQ7queSJpATzczsyU) | [Sugar Jesus](https://open.spotify.com/artist/1cdXZUfRhXZ8DnwMV4CcS5) | [Animals](https://open.spotify.com/album/12jZeHVWWc9Cm9y6bguEmT) | 2:56 |
+| 45 | [Can't Get You Out Of My Head](https://open.spotify.com/track/3eWk1qJMbUioTAfGPnbAzh) | [Dream A Lot](https://open.spotify.com/artist/4jTIuaczNBawGhNNUm2ryI) | [Dream A Lot](https://open.spotify.com/album/4N3Rl6QMVH4xFhBFyMMsqB) | 4:14 |
+| 46 | [Forever](https://open.spotify.com/track/12OLyHDxt6dqlAybSPFBK3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:30 |
+| 47 | [Never the 1](https://open.spotify.com/track/3CvfUOkWsfTr7ZIjl6D9Uk) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [20mg of Happiness](https://open.spotify.com/album/338Td52uBRdtXDqIZiOo6D) | 2:51 |
+| 48 | [Save Me \(with Lainey Wilson\)](https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:57 |
+| 49 | [Talking to the Moon](https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:37 |
+| 50 | [Dance Alone](https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Dance Alone](https://open.spotify.com/album/6VFvESDvhvsBjCSlIXpIXw) | 2:52 |
+| 51 | [Can't Get You out of My Head \(Epic Trailer Version\)](https://open.spotify.com/track/6wyEDSR15zW3JrJyirj22r) | [J2](https://open.spotify.com/artist/7bKIwE1P5IDeq0NcQC6dHd), [Sara Phillips](https://open.spotify.com/artist/0IYTdG3kSqaozW2xSPA6GL) | [The Iconic Series, Vol\. 7](https://open.spotify.com/album/5WtTUoijijg4EC3SU0Qqp5) | 3:08 |
+| 52 | [Welcome To The War](https://open.spotify.com/track/796kVXVlfWwMyleQEAul6g) | [7kingZ](https://open.spotify.com/artist/2lYNHrkuZrcJVgagIlyaTA) | [REIGN](https://open.spotify.com/album/6hPCPq0eRRmeUYAJrCxdwv) | 2:59 |
+| 53 | [Mad](https://open.spotify.com/track/53t808peu3qAMf13BsJeyY) | [Echos](https://open.spotify.com/artist/6SnMMbLQ4iS8WIyt3ksmCR) | [AFFIRMATIONS](https://open.spotify.com/album/5VNhDK67Uzp5n3o5rPgkFT) | 2:44 |
+| 54 | [CAROUSEL](https://open.spotify.com/track/1m3Ndp2mMUFJuCfn1VFIkE) | [Echos](https://open.spotify.com/artist/6SnMMbLQ4iS8WIyt3ksmCR) | [BRUISES](https://open.spotify.com/album/1ljrDtcXph97DPFJwGNxeD) | 3:33 |
+| 55 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 |
+| 56 | [Hunni Hunni](https://open.spotify.com/track/4PW14yNHiJQ48PWD2hkFXk) | [SOPHIE DOYLE RYDER](https://open.spotify.com/artist/5QCok3NH6vAlK12mUElHeZ) | [Hunni Hunni](https://open.spotify.com/album/3TH19JULtfdM9Cut6kNW0G) | 3:00 |
 
-Snapshot ID: `ZnCaFgAAAAB2/u8P/szz/juACdWFdTux`
+Snapshot ID: `ZnTQkAAAAAB8szl1ysEGEBvvEX5nZiDJ`

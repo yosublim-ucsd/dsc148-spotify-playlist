@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-07-06",
-  "description": "\uac00\uc7a5 \ud2b8\ub80c\ub514\ud55c \uc608\uc220 \uacbd\ud5d8 Sync Next 23\uc758 \ucc38\uc5ec \uc544\ud2f0\uc2a4\ud2b8\uac00 \uc9c1\uc811 \uc120\uace1\ud55c \ub178\ub798\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694! (Enjoy the songs selected by participating artists of Sync Next 23, the trendiest art experience!)",
-  "name": "Sync Next 23",
+  "description": "\uac00\uc7a5 \ud2b8\ub80c\ub514\ud55c \uc608\uc220 \uacbd\ud5d8 Sync Next 24\uc758 \ucc38\uc5ec \uc544\ud2f0\uc2a4\ud2b8\uac00 \uc9c1\uc811 \uc120\uace1\ud55c \ub178\ub798\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694! (Enjoy the songs selected by participating artists of Sync Next 24, the trendiest art experience!)",
+  "name": "Sync Next 24",
   "tracks": [
+    {
+      "album": {
+        "name": "(1)",
+        "url": "https://open.spotify.com/album/2cg7v6OUCXU4gkOt1b4rKI"
+      },
+      "artists": [
+        {
+          "name": "youra",
+          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169142,
+      "name": "(The Cherry Trees)",
+      "url": "https://open.spotify.com/track/2e5HDpsJrpt0GwWME1tR9p"
+    },
     {
       "album": {
         "name": "SUGUNGGA",
@@ -16,7 +34,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 188347,
       "name": "A Fish Map",
       "url": "https://open.spotify.com/track/6dKE0UMUT9qRYjbQZLTdAh"
@@ -52,7 +70,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 287210,
       "name": "Concerto in D Minor (After Alessandro Marcello), BWV 974: II. Adagio",
       "url": "https://open.spotify.com/track/4BFB5iUZSnsHJL69VEU9rf"
@@ -99,6 +117,64 @@
     },
     {
       "album": {
+        "name": "Differance",
+        "url": "https://open.spotify.com/album/2qOacxpUaO1sXYlGdcGjww"
+      },
+      "artists": [
+        {
+          "name": "JAMBINAI",
+          "url": "https://open.spotify.com/artist/20xwrwSmGSBQLLV0EVRS9M"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 577242,
+      "name": "Connection",
+      "url": "https://open.spotify.com/track/0CtpA0ZYI0qf88tDrrqA8h"
+    },
+    {
+      "album": {
+        "name": "Spirit Advance Unit",
+        "url": "https://open.spotify.com/album/3a1b2maWS8dV6SmPcEWz6B"
+      },
+      "artists": [
+        {
+          "name": "Kim Oki",
+          "url": "https://open.spotify.com/artist/1Z8Khxem5wcnSoH3WpwMbF"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361753,
+      "name": "Cotard's Syndrome",
+      "url": "https://open.spotify.com/track/0lwBdmtLVKTvk5VVaAaDB5"
+    },
+    {
+      "album": {
+        "name": "The lion that became cheese",
+        "url": "https://open.spotify.com/album/4U6OKmG4nLkRA7Z96oXlqQ"
+      },
+      "artists": [
+        {
+          "name": "youra",
+          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+        },
+        {
+          "name": "Mandong",
+          "url": "https://open.spotify.com/artist/2Wk4Orq6UQ5KPunF9WHiyd"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Countlessly",
+      "url": "https://open.spotify.com/track/2CxR90ORNBpNiyRJ4HQMcK"
+    },
+    {
+      "album": {
         "name": "Sync Next 23 audio liners",
         "url": "https://open.spotify.com/album/1gikHrQG6Ea2kMNGJNhHSc"
       },
@@ -110,7 +186,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 15931,
       "name": "Curated by 250",
       "url": "https://open.spotify.com/track/5TZ1mbFUnICHppztgXA8E0"
@@ -128,7 +204,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 24227,
       "name": "Curated by Do Body By Body",
       "url": "https://open.spotify.com/track/6OkBqZbSvm8BkcZYL3L4m6"
@@ -146,7 +222,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 23146,
       "name": "Curated by Elephants Laugh",
       "url": "https://open.spotify.com/track/0DGs0QEG0WMcRVOwLyMyla"
@@ -164,7 +240,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 24277,
       "name": "Curated by GRIMENTO",
       "url": "https://open.spotify.com/track/62FpF7qxquBG7TeWRlNKsQ"
@@ -182,7 +258,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 34090,
       "name": "Curated by HWANG Min Wang(Gwang Gwang, Goeng Goeng)",
       "url": "https://open.spotify.com/track/4ZAKnmQb0o0YI41cLE25pu"
@@ -200,7 +276,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 36223,
       "name": "Curated by LEE Ilwoo(Gwang Gwang, Goeng Goeng)",
       "url": "https://open.spotify.com/track/2M0a5P89ATi18LBbCZedmU"
@@ -218,7 +294,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 22336,
       "name": "Curated by LEENALCHI",
       "url": "https://open.spotify.com/track/3neXVezrF2dZRX7rPcRvMT"
@@ -236,7 +312,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 20010,
       "name": "Curated by MONIKA x CIFIKA",
       "url": "https://open.spotify.com/track/3vFSsY0MsqRFe2UN4U3MYj"
@@ -254,7 +330,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 16170,
       "name": "Curated by Nerd Connection x Z1",
       "url": "https://open.spotify.com/track/3qDzNky3TH9Qlvv9nqFJ2N"
@@ -272,7 +348,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 14805,
       "name": "Curated by Samuel Seo x ghootree",
       "url": "https://open.spotify.com/track/3FwOxzMEAN0Kbbh8cnmoXt"
@@ -290,7 +366,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 21321,
       "name": "Curated by SUNG Si Young(Gwang Gwang, Goeng Goeng)",
       "url": "https://open.spotify.com/track/3eVSm8aCQczmwPcWK9dtmZ"
@@ -308,7 +384,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 45673,
       "name": "Curated by The Muddha",
       "url": "https://open.spotify.com/track/0p7b55WF56k8YTMMpQyDGg"
@@ -330,10 +406,28 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 196585,
       "name": "DAMN THINGS (feat. Taehun Lee)",
       "url": "https://open.spotify.com/track/1zLMssXsZqzfXnWbYdQxGy"
+    },
+    {
+      "album": {
+        "name": "Return Of The King",
+        "url": "https://open.spotify.com/album/2knCGlQ3MzIgvIz8iECIgA"
+      },
+      "artists": [
+        {
+          "name": "Mountain Baekdu",
+          "url": "https://open.spotify.com/artist/4X0WmE3O5X5coYpmNR9XLS"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409573,
+      "name": "Don't Talk Down at Me(Original Ver.)",
+      "url": "https://open.spotify.com/track/2yIWTkM69mTXrgfcfId9ml"
     },
     {
       "album": {
@@ -348,7 +442,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 300000,
       "name": "Dying tree",
       "url": "https://open.spotify.com/track/6L8KXLIj6lH3KuEuk0SW6j"
@@ -366,10 +460,32 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 429515,
       "name": "Focus",
       "url": "https://open.spotify.com/track/7r9M2GybYSWqLaFI3TjS5i"
+    },
+    {
+      "album": {
+        "name": "sense of agony",
+        "url": "https://open.spotify.com/album/1qJvMozu77E4T70uzFj5Wg"
+      },
+      "artists": [
+        {
+          "name": "Jung Sumin",
+          "url": "https://open.spotify.com/artist/7mJe9MyvwEVccLfQODmRN1"
+        },
+        {
+          "name": "Kim oki saturnballad",
+          "url": "https://open.spotify.com/artist/7z4OmJfZRvVxPcJDmNeB4l"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 739750,
+      "name": "gangnam 478 (225-8) (feat. Kim oki saturnballad)",
+      "url": "https://open.spotify.com/track/5RabUWqmpEV79hcNEjESa6"
     },
     {
       "album": {
@@ -384,10 +500,28 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 245503,
       "name": "Giant Lion",
       "url": "https://open.spotify.com/track/12dRR2NrTclT2KJeAwuFR3"
+    },
+    {
+      "album": {
+        "name": "Howlin' Wolf",
+        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207333,
+      "name": "Goin' Down Slow",
+      "url": "https://open.spotify.com/track/4PI5yBLXgwdgRulNo4mQbt"
     },
     {
       "album": {
@@ -402,7 +536,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 265983,
       "name": "Good Night Good Dream",
       "url": "https://open.spotify.com/track/423WHvB4mKprM6hELzpH3F"
@@ -438,7 +572,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 226866,
       "name": "Hexagon",
       "url": "https://open.spotify.com/track/5lLWytmmISFbNfd2PJ0Q4j"
@@ -456,7 +590,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 170499,
       "name": "I Robbed a Bank",
       "url": "https://open.spotify.com/track/3eBQCl5y6oGPnAJ1yTGeMW"
@@ -492,7 +626,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 280789,
       "name": "Late Summer",
       "url": "https://open.spotify.com/track/6kYNbyWTyVlrqzpjEekqYx"
@@ -510,7 +644,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 341213,
       "name": "Lichen With Piano",
       "url": "https://open.spotify.com/track/0IQ0ugQ4qAO9aA33CBXwxu"
@@ -546,7 +680,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 332250,
       "name": "Light",
       "url": "https://open.spotify.com/track/44KK2VZbjIoQFxiKLiE4gx"
@@ -564,10 +698,28 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 329826,
       "name": "Lilies of the Valley",
       "url": "https://open.spotify.com/track/5aTWayNDQOKjvOhq3rSwoS"
+    },
+    {
+      "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/2MDBTnagwI5RTtCqvLDdqr"
+      },
+      "artists": [
+        {
+          "name": "KARDI",
+          "url": "https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213677,
+      "name": "Line",
+      "url": "https://open.spotify.com/track/7Ms1b6tuZSMLuMpwHHFjHt"
     },
     {
       "album": {
@@ -582,7 +734,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 284910,
       "name": "Moment:",
       "url": "https://open.spotify.com/track/2jJgwdRGb0JnSTG8sn5GCb"
@@ -608,10 +760,46 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 1101666,
       "name": "Muak, T\u00e4nzerische Fantasie f\u00fcr grosses Orchester - 1978",
       "url": "https://open.spotify.com/track/02pii2e9kfAsYRtuuHy3X9"
+    },
+    {
+      "album": {
+        "name": "Nothing to Envy",
+        "url": "https://open.spotify.com/album/5R2EWMQD3fRz6jBpzF8QZo"
+      },
+      "artists": [
+        {
+          "name": "HAEPAARY",
+          "url": "https://open.spotify.com/artist/3ltYPanqVYTC1qV0OIRaAc"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233743,
+      "name": "Nothing to Envy",
+      "url": "https://open.spotify.com/track/67p35KhIFP3qmmwWqG0Nxl"
+    },
+    {
+      "album": {
+        "name": "Most Important Value - EP",
+        "url": "https://open.spotify.com/album/4ssFkgw1CUdF0w3vhSPukE"
+      },
+      "artists": [
+        {
+          "name": "49 Morphines",
+          "url": "https://open.spotify.com/artist/3GAp8PrsfvuY7QnAzHWcyW"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150560,
+      "name": "Oblivion Past",
+      "url": "https://open.spotify.com/track/1wiQ3VKpCXO09fHTPE1MwE"
     },
     {
       "album": {
@@ -626,10 +814,28 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 234720,
       "name": "Pale Blue",
       "url": "https://open.spotify.com/track/22JdVTVqriuQvmYZcCffDt"
+    },
+    {
+      "album": {
+        "name": "Octavarium",
+        "url": "https://open.spotify.com/album/4v6kYkn7mYjlWS9vONmmCP"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 493026,
+      "name": "Panic Attack",
+      "url": "https://open.spotify.com/track/5axwj3ekvw85989jjO8Ov8"
     },
     {
       "album": {
@@ -644,10 +850,46 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 236032,
       "name": "PRIDE",
       "url": "https://open.spotify.com/track/7j4sdJ48LRUNMGl7pJSSTw"
+    },
+    {
+      "album": {
+        "name": "Partial Eclipse",
+        "url": "https://open.spotify.com/album/6cjvwi9UEz7sGfTjYSA9MN"
+      },
+      "artists": [
+        {
+          "name": "49 Morphines",
+          "url": "https://open.spotify.com/artist/3GAp8PrsfvuY7QnAzHWcyW"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228026,
+      "name": "Running On Empty",
+      "url": "https://open.spotify.com/track/01A87ZuKGoMX2n47jwTFvF"
+    },
+    {
+      "album": {
+        "name": "Spirit Awaits",
+        "url": "https://open.spotify.com/album/1bEn3vdeuIhdTMvYdu1rae"
+      },
+      "artists": [
+        {
+          "name": "Jundo",
+          "url": "https://open.spotify.com/artist/1D9aUXW1SzD0xbshbOtwqm"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325746,
+      "name": "Seven Heads",
+      "url": "https://open.spotify.com/track/1Dbk28yhegmi4EqcVIhBVl"
     },
     {
       "album": {
@@ -680,7 +922,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 257866,
       "name": "Summer Madness",
       "url": "https://open.spotify.com/track/5BxHfyGk49gqbg5BdW6FO4"
@@ -698,7 +940,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 212158,
       "name": "Sundays - Just Piano Version",
       "url": "https://open.spotify.com/track/5odaVZOxf5RNGLwhXY5OAg"
@@ -723,6 +965,24 @@
     },
     {
       "album": {
+        "name": "What Could Possibly Go Wrong",
+        "url": "https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127054,
+      "name": "Superstar Sh*t",
+      "url": "https://open.spotify.com/track/20j7l6tFtc5lynXpbOQg1O"
+    },
+    {
+      "album": {
         "name": "Wagner: Orchestral Favourites",
         "url": "https://open.spotify.com/album/4clpzOVyYckfHXEuFZ8gXu"
       },
@@ -742,7 +1002,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 853826,
       "name": "Tannh\u00e4user: Overture",
       "url": "https://open.spotify.com/track/1U1i1HBJ5H8DY5J4fO8ySg"
@@ -760,10 +1020,32 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 150356,
       "name": "The Strong Heavy Vehicles - Korean Version",
       "url": "https://open.spotify.com/track/0p8Qv06h32F2PT45OMGyKX"
+    },
+    {
+      "album": {
+        "name": "Spirit Awaits",
+        "url": "https://open.spotify.com/album/1bEn3vdeuIhdTMvYdu1rae"
+      },
+      "artists": [
+        {
+          "name": "Jundo",
+          "url": "https://open.spotify.com/artist/1D9aUXW1SzD0xbshbOtwqm"
+        },
+        {
+          "name": "haz",
+          "url": "https://open.spotify.com/artist/3EA0RcckeLoHIu0HTPJviC"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320738,
+      "name": "The Twins (Feat. Haz)",
+      "url": "https://open.spotify.com/track/4YAhVBL0WbC4sN4CNu8co8"
     },
     {
       "album": {
@@ -785,6 +1067,96 @@
     },
     {
       "album": {
+        "name": "Differance",
+        "url": "https://open.spotify.com/album/2qOacxpUaO1sXYlGdcGjww"
+      },
+      "artists": [
+        {
+          "name": "JAMBINAI",
+          "url": "https://open.spotify.com/artist/20xwrwSmGSBQLLV0EVRS9M"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176697,
+      "name": "Time of Extinction",
+      "url": "https://open.spotify.com/track/0StZCoz0AVjWf64JaFxG5v"
+    },
+    {
+      "album": {
+        "name": "apparition",
+        "url": "https://open.spotify.com/album/00pDdLXAmnblTguj57wVVp"
+      },
+      "artists": [
+        {
+          "name": "JAMBINAI",
+          "url": "https://open.spotify.com/artist/20xwrwSmGSBQLLV0EVRS9M"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 562346,
+      "name": "until my wings turn to ashes",
+      "url": "https://open.spotify.com/track/6VspgiXAD8ZdUdMQ7AaHHO"
+    },
+    {
+      "album": {
+        "name": "The School Nurse Files (Original Soundtrack from The Netflix Series)",
+        "url": "https://open.spotify.com/album/2vBgDorTPQjO5KxAS0YFi0"
+      },
+      "artists": [
+        {
+          "name": "Ego Function Error",
+          "url": "https://open.spotify.com/artist/4EhoOhM4d7P3EkLZhjqVa6"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193558,
+      "name": "Wa wa wa wa wa wa wa wa",
+      "url": "https://open.spotify.com/track/7bDo7U9ODLAm1HTgqtqjPZ"
+    },
+    {
+      "album": {
+        "name": "Paraphrase",
+        "url": "https://open.spotify.com/album/3j1MVk2HnnZi8CcXOIDkWr"
+      },
+      "artists": [
+        {
+          "name": "Chin Sooyoung",
+          "url": "https://open.spotify.com/artist/263UdmGyOJkZ6CGF5v7d4G"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208090,
+      "name": "When I Grab the Sunset Over Your Shoulder",
+      "url": "https://open.spotify.com/track/747gyZd18DPjhUFRTi5VYr"
+    },
+    {
+      "album": {
+        "name": "Worm In The Apple",
+        "url": "https://open.spotify.com/album/2UsZcm499RxgMvb1Hn4U8i"
+      },
+      "artists": [
+        {
+          "name": "youra",
+          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137806,
+      "name": "Worm In The Apple",
+      "url": "https://open.spotify.com/track/0ZBHa9TysExACr8i7OGQlf"
+    },
+    {
+      "album": {
         "name": "\u200eGood Night Good Dream",
         "url": "https://open.spotify.com/album/4VLZnvJ9dnuEnF57Pbashc"
       },
@@ -803,6 +1175,24 @@
     },
     {
       "album": {
+        "name": "\ub0b4 \ub8e8\ub3cc\ud504",
+        "url": "https://open.spotify.com/album/47A4Wn8PGrGF1GF7EWkYre"
+      },
+      "artists": [
+        {
+          "name": "MAD MONSTER",
+          "url": "https://open.spotify.com/artist/4NOgfZ4g8sFOjffbwT9qee"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249795,
+      "name": "\ub0b4 \ub8e8\ub3cc\ud504",
+      "url": "https://open.spotify.com/track/2oPbXRwVyg2fHScGB1U2eT"
+    },
+    {
+      "album": {
         "name": "\ub291\ub300\uac00 \ub098\ud0c0\ub0ac\ub2e4 There is A Wolf",
         "url": "https://open.spotify.com/album/21NMEtVxkqbaEpLMYWMIT2"
       },
@@ -814,7 +1204,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 217500,
       "name": "\ub291\ub300\uac00 \ub098\ud0c0\ub0ac\ub2e4 There is A Wolf",
       "url": "https://open.spotify.com/track/3KdI1tVygKtnAOCUOZudXD"
@@ -832,7 +1222,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 331650,
       "name": "\ub300\ucde8\ud0c0",
       "url": "https://open.spotify.com/track/3wmAhONcZ7OgIPmWWQjtDj"

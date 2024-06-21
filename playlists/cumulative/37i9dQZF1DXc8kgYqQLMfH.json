@@ -3085,6 +3085,24 @@
     },
     {
       "album": {
+        "name": "chillax",
+        "url": "https://open.spotify.com/album/444GDU8zjwZZ6XaeIRkKAo"
+      },
+      "artists": [
+        {
+          "name": "HPY DAYZ",
+          "url": "https://open.spotify.com/artist/4kPDMyPezfKjzjK2q7IeWP"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109714,
+      "name": "chillax",
+      "url": "https://open.spotify.com/track/29FYH3C3AfRSFkUKcljlMF"
+    },
+    {
+      "album": {
         "name": "chromatico",
         "url": "https://open.spotify.com/album/6S8qHXw7l9QROYNkzUClOb"
       },
@@ -13986,7 +14004,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 114000,
       "name": "NY Breeze",
       "url": "https://open.spotify.com/track/5I51wS8eZm9sOHraU2jfZw"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Bru-C",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Rudimental, Karen Harding",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -1979,6 +1979,28 @@
     },
     {
       "album": {
+        "name": "Bring Me Joy",
+        "url": "https://open.spotify.com/album/3RPePHCPxwFxltpXQLZhOU"
+      },
+      "artists": [
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        },
+        {
+          "name": "Karen Harding",
+          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145438,
+      "name": "Bring Me Joy",
+      "url": "https://open.spotify.com/track/7f8EzmXuroHbrt9K8sLSEz"
+    },
+    {
+      "album": {
         "name": "Burn For You",
         "url": "https://open.spotify.com/album/1PG1nONa6BxIrkmcEcemD6"
       },
@@ -2782,7 +2804,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 181314,
       "name": "Connection",
       "url": "https://open.spotify.com/track/4m4kkrHB3CV4JgXup5e6LA"
@@ -4427,6 +4449,24 @@
     },
     {
       "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/3x4Qw4MRpcx6WbZXumxMxq"
+      },
+      "artists": [
+        {
+          "name": "Ruth Royall",
+          "url": "https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244137,
+      "name": "Feels Like Home",
+      "url": "https://open.spotify.com/track/7hm4ciJdkGblFBBzSsfLkr"
+    },
+    {
+      "album": {
         "name": "Femme Fatale",
         "url": "https://open.spotify.com/album/0P51UJkEdyLwnlcmdsZQiK"
       },
@@ -4626,6 +4666,28 @@
       "duration_ms": 199136,
       "name": "Firetime",
       "url": "https://open.spotify.com/track/0AnCANuCLwQENug7NpPOjK"
+    },
+    {
+      "album": {
+        "name": "First Time (feat. Elipsa)",
+        "url": "https://open.spotify.com/album/5KBhnatduspdCWVKeiHbxx"
+      },
+      "artists": [
+        {
+          "name": "[IVY]",
+          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
+        },
+        {
+          "name": "Elipsa",
+          "url": "https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171034,
+      "name": "First Time (feat. Elipsa)",
+      "url": "https://open.spotify.com/track/6NpWE90aJJ9ERQPcExCdvd"
     },
     {
       "album": {
@@ -10433,6 +10495,32 @@
     },
     {
       "album": {
+        "name": "RAW!",
+        "url": "https://open.spotify.com/album/7s9SBne8c7nCJbuCdsEWNj"
+      },
+      "artists": [
+        {
+          "name": "Watch the Ride",
+          "url": "https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC"
+        },
+        {
+          "name": "D Double E",
+          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+        },
+        {
+          "name": "Scorpio MC",
+          "url": "https://open.spotify.com/artist/5FPIKRbEw5qcI7KJaQv1c1"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187750,
+      "name": "RAW!",
+      "url": "https://open.spotify.com/track/0upjyD41tJZjX8IlSLaNhp"
+    },
+    {
+      "album": {
         "name": "Reaction",
         "url": "https://open.spotify.com/album/3zJgfY6OdcgrubvmIZ6qq3"
       },
@@ -11104,7 +11192,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 167314,
       "name": "Run From You",
       "url": "https://open.spotify.com/track/2ouMNYPXQ6P9epCLmiqRSg"
@@ -12330,7 +12418,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 289801,
       "name": "Star Trippin'",
       "url": "https://open.spotify.com/track/6QIqDKaQwNssMqm2eXxrre"
@@ -14844,7 +14932,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 158490,
       "name": "Wild",
       "url": "https://open.spotify.com/track/78IA2OfQpKNHBqSfKy4kvf"

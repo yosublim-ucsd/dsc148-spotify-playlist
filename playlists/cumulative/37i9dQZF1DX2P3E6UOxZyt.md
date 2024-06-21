@@ -2,9 +2,9 @@
 
 ### [RADAR 新勢力](https://open.spotify.com/playlist/37i9dQZF1DX2P3E6UOxZyt)
 
-> 2024 全新陣容出列！MEET THE FUTURE 見証未來巨星！Cover: 林潔心
+> 2024 全新陣容出列！MEET THE FUTURE 見証未來巨星！Cover: LIU KOI
 
-558 songs - 1 day 8 hr 22 min
+560 songs - 1 day 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [3am \- Demo Ver.](https://open.spotify.com/track/70R10GZEIyNaOsltKW5kli) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [3am \(Demo Ver.\)](https://open.spotify.com/album/4RAme39y8E1VMWkuFYrnqM) | 2:36 | 2024-03-28 | 2024-04-19 |
 | [3am \- Demo Ver.](https://open.spotify.com/track/7u8RM7nUKUk93CYsEp8Krr) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [3am \- Demo Ver.](https://open.spotify.com/album/2C5ob9OfPO3J5wMETcOD5R) | 2:36 | 2024-04-18 | 2024-06-14 |
 | [94在靠杯](https://open.spotify.com/track/1KTIjCV8N4ozMaP30WK2eD) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9) | [94在靠杯](https://open.spotify.com/album/0MHpDBlkQmraKJ64yyjtWj) | 4:14 | 2023-10-26 | 2024-01-12 |
+| [99 chocolate](https://open.spotify.com/track/0C4F3PRqJv5sNQnRl4vq5q) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE), [FLEUR](https://open.spotify.com/artist/6WWEd7zMMyx6BKLnKukmeV) | [99 chocolate](https://open.spotify.com/album/7HfbS848JHu1J1KbiOFNjv) | 2:27 | 2024-06-20 |  |
 | [Alexis](https://open.spotify.com/track/5P5Xe5Mgv9jCSKE8ZBWoBi) | [Majin](https://open.spotify.com/artist/6iQuZJoGAkn0UZcayx5fTl) | [Alexis](https://open.spotify.com/album/77h7uZNa1mhsB3tOJ7aCWJ) | 2:16 | 2024-03-28 | 2024-04-26 |
 | [Always](https://open.spotify.com/track/0j9jm06nXe2FNr5LLtiHG8) | [J.win](https://open.spotify.com/artist/6pcfBsij9bi4yKK1YMpYNH), [Lai](https://open.spotify.com/artist/7tbfeiO8CyfySSll1zFmqB), [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [Always](https://open.spotify.com/album/79HbRiQVUynY6wVnjDliCC) | 4:26 | 2022-04-21 | 2022-04-29 |
 | [Angel](https://open.spotify.com/track/5eockMzdIsGJcPUSLz4lDX) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC) | [Angel](https://open.spotify.com/album/5Z1XXzGLaMGkBVwG7AXCLB) | 3:34 | 2022-04-21 | 2022-05-13 |
@@ -199,7 +200,7 @@
 | [Watch me!](https://open.spotify.com/track/16hFT7Hp0eHUlFP5LLHmcH) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [Watch me!](https://open.spotify.com/album/2gph7iEY0OSvhwMI36TebV) | 1:09 | 2023-12-28 | 2024-03-29 |
 | [week by week](https://open.spotify.com/track/51bPv2VzuFbGXkthHzx30I) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE) | [week by week](https://open.spotify.com/album/0VVxbUd44wpxpWFtvtxfH0) | 3:00 | 2024-04-04 |  |
 | [Weirdo \- Acoustic Version](https://open.spotify.com/track/3sgCFqA7PqmMae2zepUIh2) | [HUR](https://open.spotify.com/artist/14cA6ZJHyr9VQpEQ5xzsui), [G5SH](https://open.spotify.com/artist/0FQHLgDeg1QZGzkyRxAPRd) | [Weirdo \(Acoustic Version\)](https://open.spotify.com/album/6iLV2Ew0CYO9zJAgja0sxj) | 3:10 | 2022-08-11 | 2022-10-21 |
-| [what 4](https://open.spotify.com/track/0RDRXCdWNSJdMPnS4eAtAg) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE) | [what 4](https://open.spotify.com/album/4F975HDTmfHfXqmprqKmhb) | 2:32 | 2024-03-28 |  |
+| [what 4](https://open.spotify.com/track/0RDRXCdWNSJdMPnS4eAtAg) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE) | [what 4](https://open.spotify.com/album/4F975HDTmfHfXqmprqKmhb) | 2:32 | 2024-03-28 | 2024-06-21 |
 | [what the ! \(中文版）](https://open.spotify.com/track/4bfLk8mlTTgHWE3Z3DOzRZ) | [Jasmine Yen](https://open.spotify.com/artist/4PQ0uJWdQam5rtXciDKVnS) | [what the ! \(中文版）](https://open.spotify.com/album/38cQjVC7uiJyEiXcr1NSzl) | 2:57 | 2023-11-16 | 2024-01-19 |
 | [whatnot \(ft\. 木木mumu\)](https://open.spotify.com/track/0eJRc05BRVvdUekEGko7oj) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL), [木木mumu](https://open.spotify.com/artist/3sobkV5cwLvbEhqEmTh7zL) | [whatnot](https://open.spotify.com/album/5QCbbm1puBIptPXmIHbUJJ) | 2:10 | 2023-09-21 | 2023-10-13 |
 | [Who I Am](https://open.spotify.com/track/76O16TXhsSMYZhEQAJXwmZ) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [Who I Am](https://open.spotify.com/album/6rossoBfDzEiVWn0EdD8DQ) | 3:45 | 2021-12-30 | 2022-02-18 |
@@ -459,6 +460,7 @@
 | [爛泥](https://open.spotify.com/track/1KUxC7fo15FwoP3GHFhv6h) | [翁靖堯yao](https://open.spotify.com/artist/6i8TiylkUFKqXajJM69a7N) | [Life Buoy](https://open.spotify.com/album/1tzRVINQei2GdrfHz6GvzU) | 4:07 | 2024-02-15 | 2024-03-29 |
 | [爱到你说](https://open.spotify.com/track/2m08BbVhYiqsbHCNi7zQp6) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [爱到你说](https://open.spotify.com/album/2fBQDI4emhek3kkw5bN4lU) | 3:48 | 2024-01-11 | 2024-03-29 |
 | [牽著我的手](https://open.spotify.com/track/5mu8z0sRt2GtImGpr2qgT6) | [蔡明仁](https://open.spotify.com/artist/1v2EIlY1RxGD5b6eYNcyBo), [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [牽著我的手](https://open.spotify.com/album/0sHIl1rGKp9Tj7cxUxx1Z7) | 3:54 | 2022-03-16 | 2022-03-25 |
+| [狠操俱樂部](https://open.spotify.com/track/5VwHRwTh6zV1kBIW3FApTx) | [西屯純愛組](https://open.spotify.com/artist/6cYpkZJmpjYnWD6M5IDddT), [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7), [Multiverse](https://open.spotify.com/artist/0l2z1SB8aaIp8vNhI9i5YL) | [狠操俱樂部](https://open.spotify.com/album/2KkpAHwcFULIdz2MoLZUny) | 3:48 | 2024-06-20 |  |
 | [獨角獸](https://open.spotify.com/track/75UPoLCSlqmD8ns7yByWai) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [獨角獸](https://open.spotify.com/album/77XIclsPGzypTBUzk5ieOa) | 3:59 | 2023-04-13 | 2023-05-19 |
 | [王牌 \- fun cover](https://open.spotify.com/track/09edMlAdNVUx4dAK2R8ob8) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [王牌 \(fun cover\)](https://open.spotify.com/album/0X0fBZY95nbmPNgqfE0UAC) | 3:52 | 2024-03-07 | 2024-03-29 |
 | [現在的事我說不出口](https://open.spotify.com/track/75WtSq52wyMDHjG8lwoSgO) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [現在的事我說不出口](https://open.spotify.com/album/29pXrrKNLjdBp2HjIvKyvZ) | 3:58 | 2023-12-14 | 2024-03-08 |
@@ -492,7 +494,7 @@
 | [繞了這麼大一圈](https://open.spotify.com/track/5MnxfShrte129lNqz3ZJLg) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [繞了這麼大一圈](https://open.spotify.com/album/4VUsmsitdCoirtTa5wHKKm) | 3:57 | 2022-04-21 | 2022-07-15 |
 | [罪人](https://open.spotify.com/track/4e8cX0iQczup7RBIFb21yz) | [G5SH](https://open.spotify.com/artist/0FQHLgDeg1QZGzkyRxAPRd) | [罪人](https://open.spotify.com/album/570GBJS6md5fpH4klLyh6X) | 3:46 | 2022-05-19 | 2022-08-12 |
 | [美](https://open.spotify.com/track/7637Rypif3OgNpr8EZoCnf) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [美](https://open.spotify.com/album/2AnHAP4FN9Edjt3ZHGPkVG) | 2:24 | 2022-01-20 | 2024-02-02 |
-| [翼](https://open.spotify.com/track/5VkNI8AtQvQi6L5nr9MIiH) | [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7) | [翼](https://open.spotify.com/album/4lUoLaurs9KbG7SYi4HL9w) | 2:47 | 2024-06-13 |  |
+| [翼](https://open.spotify.com/track/5VkNI8AtQvQi6L5nr9MIiH) | [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7) | [翼](https://open.spotify.com/album/4lUoLaurs9KbG7SYi4HL9w) | 2:47 | 2024-06-13 | 2024-06-21 |
 | [脆弱](https://open.spotify.com/track/5rsMC01Nv2dVprvmkcrvZD) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9) | [23](https://open.spotify.com/album/1i9NZgKrjl9gQVIczUEJYh) | 3:01 | 2022-01-27 | 2022-11-11 |
 | [脫俗](https://open.spotify.com/track/7vdGyajh36go3Qyc58R7Kf) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE) | [脫俗](https://open.spotify.com/album/1MiRt67d4bGsfYaRm6V4eK) | 2:50 | 2024-03-28 | 2024-04-05 |
 | [臨界點](https://open.spotify.com/track/3twXXIEEjWbEnWPtMzFzYM) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [臨界點](https://open.spotify.com/album/2Td8m9jMa9AZOcelknVNy0) | 2:23 | 2022-07-14 | 2022-09-30 |

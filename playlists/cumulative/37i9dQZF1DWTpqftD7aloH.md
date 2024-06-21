@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-294 songs - 1 day 3 hr 59 min
+295 songs - 1 day 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Grande É O Senhor \- Ao Vivo](https://open.spotify.com/track/0DR8OCMH9Vv966ZOdWykGp) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Memórias 2 \(Ao Vivo\)](https://open.spotify.com/album/1sngh1DpFlv5KdnRch5ECO) | 4:06 | 2023-06-23 | 2024-04-20 |
 | [Grandes Coisas \- Ao Vivo](https://open.spotify.com/track/6oUMdwHNYiBcf8oWrx2hj1) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Uma Nova História \(ao Vivo\)](https://open.spotify.com/album/6fEAuJNkuAFCUJms25Konq) | 4:57 | 2022-09-09 |  |
 | [Gratidão \(Gratitude\)](https://open.spotify.com/track/3sR3rQ3iBgTEDpZQ8fgrxv) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [Gratidão \(Gratitude\)](https://open.spotify.com/album/0mP7as70Wcc6A7ZoOGZx9q) | 4:35 | 2024-04-26 |  |
-| [Grato Sou](https://open.spotify.com/track/66Z9NK2ydHCRf8nzVTkdiE) | [Israel Soares](https://open.spotify.com/artist/0qK2qFPXIi5KKpOVQSFfA5), [Bob Jonathan](https://open.spotify.com/artist/1YzJ5MfR1MifWecgW9KG5s) | [Grato Sou](https://open.spotify.com/album/3liy8YW701jQR0tCWZIjwC) | 4:26 | 2024-04-19 |  |
+| [Grato Sou](https://open.spotify.com/track/66Z9NK2ydHCRf8nzVTkdiE) | [Israel Soares](https://open.spotify.com/artist/0qK2qFPXIi5KKpOVQSFfA5), [Bob Jonathan](https://open.spotify.com/artist/1YzJ5MfR1MifWecgW9KG5s) | [Grato Sou](https://open.spotify.com/album/3liy8YW701jQR0tCWZIjwC) | 4:26 | 2024-04-19 | 2024-06-21 |
 | [Graves Into Gardens \(Live\)](https://open.spotify.com/track/0pNizrRmvu5S16fH6ccm0v) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3AYUzOtIQoLrxDZNwaPErh) | 7:32 | 2022-09-09 | 2023-01-14 |
 | [Grita! \(Shout!\) \- Ao Vivo](https://open.spotify.com/track/37h3VwFhtyxPp3jHD5sVXv) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Deixa Vir \- Vol II \(Ao Vivo\)](https://open.spotify.com/album/5qjk2btAEazVwm5MtrMcSE) | 4:41 | 2024-01-05 | 2024-04-20 |
 | [Hino da Vitória](https://open.spotify.com/track/2MHtGSaW12T738131nTj0d) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Muito Louvor](https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw) | 3:47 | 2022-09-09 | 2024-04-20 |
@@ -172,6 +172,7 @@
 | [Nobody \(feat\. Matthew West\)](https://open.spotify.com/track/0W7KIc2GSB9suYQAaMZ9rF) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r), [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Only Jesus](https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB) | 3:26 | 2022-09-09 | 2023-11-25 |
 | [Nunca Pare de Lutar](https://open.spotify.com/track/6JF0NbnUohNnoNwrLs6paN) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética 4: Nunca Pare de Lutar \(Ao Vivo\)](https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k) | 7:56 | 2023-06-23 |  |
 | [Náufrago](https://open.spotify.com/track/7DUs3Bi0639PMeAnBAIUOT) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm), [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Náufrago](https://open.spotify.com/album/0SAlbW5iw08FjHuAj6I65U) | 5:51 | 2022-11-26 | 2023-01-14 |
+| [Não a Nós \- Ao Vivo](https://open.spotify.com/track/65tULRxe8b2cbj7sdhJiOy) | [SOM DO CÉU](https://open.spotify.com/artist/4Tq5E0plsM6uNnLmxJWKNp), [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ), [Marcão Pacheco](https://open.spotify.com/artist/2DIyTpJ38jtpi4bvbmezh4) | [Não a Nós \(Ao Vivo\)](https://open.spotify.com/album/4ZIOvgzV9QPmIRu16ZrtmD) | 6:04 | 2024-06-14 |  |
 | [Não Acabou \(Ao Vivo\)](https://open.spotify.com/track/3nrfrwKRt2O3thUugCbdEP) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Não Acabou \(Ao Vivo\)](https://open.spotify.com/album/1kjH03D7N4V9AOJDjiTIpW) | 5:15 | 2023-01-14 |  |
 | [Não Dá Pra Viver Sem Ti \- Ao Vivo](https://open.spotify.com/track/2kfvjGjtxazlIz8Lxuwvy4) | [Régis Danese](https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll) | [Não Dá Pra Viver Sem Ti \(Ao Vivo\)](https://open.spotify.com/album/32H00NWDHMo9c8cdNpSfmD) | 5:38 | 2023-11-24 | 2024-04-27 |
 | [Não Há Nome Maior](https://open.spotify.com/track/4WkdRazRRMtnsvdyiiC7FB) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Não Há Nome Maior](https://open.spotify.com/album/6vuoxQ1WYRV4xAKBm7f9ok) | 5:09 | 2022-09-09 | 2023-03-12 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The big Hip-Life hits rn. Cover: King Promise",
+  "description": "The big Hip-Life hits rn. Cover: Black Sherif",
   "name": "Hip-Life Hits",
   "tracks": [
     {
@@ -134,6 +134,36 @@
       "duration_ms": 179043,
       "name": "Abasakom",
       "url": "https://open.spotify.com/track/2eNSIR3kE2bhulBkVgCkcc"
+    },
+    {
+      "album": {
+        "name": "Abele (feat. Beeztrap KOTM)",
+        "url": "https://open.spotify.com/album/6JtzGphkHwXPTV9GnGp4g1"
+      },
+      "artists": [
+        {
+          "name": "Bosom P-Yung",
+          "url": "https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ"
+        },
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        },
+        {
+          "name": "Quamina Mp",
+          "url": "https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw"
+        },
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234458,
+      "name": "Abele (feat. Beeztrap KOTM)",
+      "url": "https://open.spotify.com/track/51uFHphBfV17Bw6v1D0X20"
     },
     {
       "album": {
@@ -1707,6 +1737,24 @@
     },
     {
       "album": {
+        "name": "Kilos Milos",
+        "url": "https://open.spotify.com/album/2GWGoafnaAHShlzm6oICnL"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157560,
+      "name": "Kilos Milos",
+      "url": "https://open.spotify.com/track/4PPjesO0Xyf0unsdHAL4h8"
+    },
+    {
+      "album": {
         "name": "Ghana Old School HipLife Essentials",
         "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
       },
@@ -3016,7 +3064,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 183298,
       "name": "Questions",
       "url": "https://open.spotify.com/track/3MZroQuOzlxZpVYWvWGHHz"
@@ -3202,7 +3250,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 166312,
       "name": "Sneaky",
       "url": "https://open.spotify.com/track/6m71O5AaaMUJoqbIGfnILk"

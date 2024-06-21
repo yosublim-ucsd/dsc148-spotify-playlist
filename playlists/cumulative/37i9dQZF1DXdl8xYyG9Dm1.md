@@ -2,9 +2,9 @@
 
 ### [Afro Bars ](https://open.spotify.com/playlist/37i9dQZF1DXdl8xYyG9Dm1)
 
-> The latest straight bars and Afro\-Trap\. Cover: Pretty boy D\-O & Phyno
+> The latest straight bars and Afro\-Trap\. Cover: Black Sherif
 
-267 songs - 14 hr 2 min
+268 songs - 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [K:HOVA](https://open.spotify.com/track/3mmOgsd9IPJHkPnpWqW7zE) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z) | [K:HOVA](https://open.spotify.com/album/6AzOdHvhPZXnAcKeZFWxxa) | 3:24 | 2021-10-14 | 2022-03-08 |
 | [Khuphuka](https://open.spotify.com/track/0yonvZ8xFI5IYgOVaXTSa5) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Khuphuka](https://open.spotify.com/album/6UsHrbbrXsM36PT0BbGWjj) | 3:03 | 2022-05-26 | 2023-09-15 |
 | [Kiki](https://open.spotify.com/track/75pJCzbvBra52uIEXY3Ai8) | [DJ Sliqe](https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Flow Jones Jr.](https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa), [Glody Kasongo](https://open.spotify.com/artist/3HTDaBCCpXP4Y6TyoGyP9i) | [Kiki](https://open.spotify.com/album/5fhYSXpWS5hEzZ7e7U23y9) | 2:54 | 2024-05-24 |  |
+| [Kilos Milos](https://open.spotify.com/track/4PPjesO0Xyf0unsdHAL4h8) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Kilos Milos](https://open.spotify.com/album/2GWGoafnaAHShlzm6oICnL) | 2:37 | 2024-06-21 |  |
 | [KingSize](https://open.spotify.com/track/3Up92OTxG9rcnWCGrB26w9) | [Octopizzo](https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o) | [FUEGO](https://open.spotify.com/album/2UBVY8AKfYWYJuIwamCbuE) | 3:40 | 2021-11-18 | 2022-02-03 |
 | [Koobi](https://open.spotify.com/track/197R5eZFfywBrXGQ6tBofH) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Reggie](https://open.spotify.com/artist/65ZsNUD4VR9tanQXJeMxt1) | [Koobi](https://open.spotify.com/album/67NQONOlbvJVe4qlCf2llO) | 2:40 | 2022-02-17 | 2023-02-17 |
 | [Korokoro](https://open.spotify.com/track/0Zf0e7O4nLaIq15SnhDI10) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y) | [Korokoro](https://open.spotify.com/album/72ET6Hb9KWaMWgsipSy90H) | 2:24 | 2023-04-14 | 2023-04-20 |
@@ -268,7 +269,7 @@
 | [WOTOWOTO SEASONING \(feat\. Black Sherif\)](https://open.spotify.com/track/2LP8KwtvzUx1onvXKQCoKR) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [EZIOKWU \(UNCUT\)](https://open.spotify.com/album/59oUX928TvSEtKvCPREKVW) | 2:51 | 2023-12-01 |  |
 | [Xei di Kor](https://open.spotify.com/track/045xGstsKiBT3ozUTAfnzZ) | [Chullage](https://open.spotify.com/artist/5yTuBrbKpiwjRoXGFAdnQc), [Prétu](https://open.spotify.com/artist/7I8rcF6hFrT3Gut60nTvJe), [Braima Galissá](https://open.spotify.com/artist/2GaKaEgdp1B3o8cIv3bFhX), [Mick Trovoada](https://open.spotify.com/artist/3Y4xlnWdJAY8BJu89QVXbc) | [Xei di Kor](https://open.spotify.com/album/2pQIktZ9WITx8DYg1x972H) | 4:23 | 2022-05-12 | 2022-05-20 |
 | [Yatch](https://open.spotify.com/track/0Fzu7jMb9pqjMf94sd2Iqn) | [Nadia Nakai](https://open.spotify.com/artist/4J1EvxzABwLaJP4NmOqV8r) | [Yatch](https://open.spotify.com/album/7iDgKrhtaM6sHpuY1edwPM) | 3:37 | 2021-12-09 | 2022-04-29 |
-| [YAYA](https://open.spotify.com/track/0xAwmnpzW0AOF6Dzk6UZXP) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Take Care of Yourself Blacko](https://open.spotify.com/album/1rUsK77wSF6p2cw1FnCTZg) | 3:13 | 2023-08-10 |  |
+| [YAYA](https://open.spotify.com/track/0xAwmnpzW0AOF6Dzk6UZXP) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Take Care of Yourself Blacko](https://open.spotify.com/album/1rUsK77wSF6p2cw1FnCTZg) | 3:13 | 2023-08-10 | 2024-06-21 |
 | [Ye x4](https://open.spotify.com/track/488crYdGxAi7RdJxKjEWGb) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Ye x4](https://open.spotify.com/album/5K6ozqiCW4tCuU9SxzEx0a) | 2:45 | 2021-10-14 | 2024-01-12 |
 | [You’re Mine \(feat\. Moniqué Lawz\)](https://open.spotify.com/track/22JgHiHqc3QaTRJo9Xb6vk) | [Kiddo CSA](https://open.spotify.com/artist/1pByGCARIQ4UTRIZxDcCiW), [Monique Lawz](https://open.spotify.com/artist/2Xc9NBi6MXNg9CFy8zYRsM) | [Worldwide Eye](https://open.spotify.com/album/2Gm3w2P10YFNchgf6slgSS) | 2:00 | 2023-04-27 | 2023-05-30 |
 | [Zero](https://open.spotify.com/track/1ZBoY6ta9ANMD19SGsp7JN) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Zero](https://open.spotify.com/album/3hEMQKXVKJWkoOu6Cj0Nhc) | 2:56 | 2024-02-09 | 2024-05-04 |

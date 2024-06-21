@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 154753,
+  "num_followers": 154767,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -783,30 +783,22 @@
     {
       "added_at": "2024-06-14 14:18:03",
       "album": {
-        "name": "Oh Baby (feat. bshp & Issey Cross)",
-        "url": "https://open.spotify.com/album/7oXgMepNUWPk1dN6MpDn2C"
+        "name": "Lose Control (feat. Grace Barton)",
+        "url": "https://open.spotify.com/album/11nJjItPfqK8eoJKo18QNY"
       },
       "artists": [
         {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+          "name": "T & Sugah",
+          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
         },
         {
-          "name": "Bru-C",
-          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
-        },
-        {
-          "name": "bshp",
-          "url": "https://open.spotify.com/artist/2RV0VshxVfkduUIHn0PLzJ"
-        },
-        {
-          "name": "Issey Cross",
-          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
+          "name": "Grace Barton",
+          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
         }
       ],
-      "duration_ms": 148236,
-      "name": "Oh Baby (feat. bshp & Issey Cross)",
-      "url": "https://open.spotify.com/track/2F0dCzhF9W1tcXwXu99m28"
+      "duration_ms": 191725,
+      "name": "Lose Control (feat. Grace Barton)",
+      "url": "https://open.spotify.com/track/3PXTbB4RjSIPW8LiDrHHrd"
     },
     {
       "added_at": "2024-06-14 14:18:03",
@@ -831,22 +823,30 @@
     {
       "added_at": "2024-06-14 14:18:03",
       "album": {
-        "name": "Lose Control (feat. Grace Barton)",
-        "url": "https://open.spotify.com/album/11nJjItPfqK8eoJKo18QNY"
+        "name": "Oh Baby (feat. bshp & Issey Cross)",
+        "url": "https://open.spotify.com/album/7oXgMepNUWPk1dN6MpDn2C"
       },
       "artists": [
         {
-          "name": "T & Sugah",
-          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
         },
         {
-          "name": "Grace Barton",
-          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+        },
+        {
+          "name": "bshp",
+          "url": "https://open.spotify.com/artist/2RV0VshxVfkduUIHn0PLzJ"
+        },
+        {
+          "name": "Issey Cross",
+          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
         }
       ],
-      "duration_ms": 191725,
-      "name": "Lose Control (feat. Grace Barton)",
-      "url": "https://open.spotify.com/track/3PXTbB4RjSIPW8LiDrHHrd"
+      "duration_ms": 148236,
+      "name": "Oh Baby (feat. bshp & Issey Cross)",
+      "url": "https://open.spotify.com/track/2F0dCzhF9W1tcXwXu99m28"
     },
     {
       "added_at": "2024-06-14 14:18:03",
@@ -931,26 +931,6 @@
     {
       "added_at": "2024-06-14 14:18:03",
       "album": {
-        "name": "After Party",
-        "url": "https://open.spotify.com/album/4JjIY6lalquagylMmJxOSW"
-      },
-      "artists": [
-        {
-          "name": "Lens",
-          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
-        },
-        {
-          "name": "LZee",
-          "url": "https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe"
-        }
-      ],
-      "duration_ms": 173500,
-      "name": "After Party",
-      "url": "https://open.spotify.com/track/1XNQJZ8CfaTNIowJsaotvn"
-    },
-    {
-      "added_at": "2024-06-14 14:18:03",
-      "album": {
         "name": "Run (Part 1)",
         "url": "https://open.spotify.com/album/1NqOxMj2QqMhgne014NwQs"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 135085,
       "name": "Run (Part 1)",
       "url": "https://open.spotify.com/track/4YWZse32ILPANRnB9EVyIm"
+    },
+    {
+      "added_at": "2024-06-14 14:18:03",
+      "album": {
+        "name": "After Party",
+        "url": "https://open.spotify.com/album/4JjIY6lalquagylMmJxOSW"
+      },
+      "artists": [
+        {
+          "name": "Lens",
+          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
+        },
+        {
+          "name": "LZee",
+          "url": "https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe"
+        }
+      ],
+      "duration_ms": 173500,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/1XNQJZ8CfaTNIowJsaotvn"
     },
     {
       "added_at": "2024-06-14 14:18:03",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-06-14 14:18:03",
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/3itZ3OkLhQwzwxvSwKBtOw"
-      },
-      "artists": [
-        {
-          "name": "Culture Shock",
-          "url": "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/69RnaDZLYLZq8ZFBExlvAl"
-    },
-    {
-      "added_at": "2024-06-14 14:18:03",
-      "album": {
         "name": "Spend The Night",
         "url": "https://open.spotify.com/album/78JrRQCZ8HppWoAXBkHBe7"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 187339,
       "name": "Spend The Night",
       "url": "https://open.spotify.com/track/4OoNi7RLLVKGlDcLgWPyKX"
+    },
+    {
+      "added_at": "2024-06-14 14:18:03",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/3itZ3OkLhQwzwxvSwKBtOw"
+      },
+      "artists": [
+        {
+          "name": "Culture Shock",
+          "url": "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/69RnaDZLYLZq8ZFBExlvAl"
     },
     {
       "added_at": "2024-06-14 14:18:03",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2024-06-14 14:18:03",
       "album": {
-        "name": "Crunchy Nutter",
-        "url": "https://open.spotify.com/album/1WlUE6Kq9JTU4bAlYq87YA"
-      },
-      "artists": [
-        {
-          "name": "Unglued",
-          "url": "https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC"
-        },
-        {
-          "name": "Lens",
-          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
-        }
-      ],
-      "duration_ms": 204332,
-      "name": "Crunchy Nutter",
-      "url": "https://open.spotify.com/track/0G9V10A931yQ6KU36SsQZw"
-    },
-    {
-      "added_at": "2024-06-14 14:18:03",
-      "album": {
         "name": "Party President",
         "url": "https://open.spotify.com/album/0VLlG23D8mtxGHuctstrO8"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 254946,
       "name": "When It Rains, It Pours (feat. Coco, Mr Traumatik & Songer) - Shapes Remix",
       "url": "https://open.spotify.com/track/5XDS88WPZRekqrBBfawjI5"
+    },
+    {
+      "added_at": "2024-06-14 14:18:03",
+      "album": {
+        "name": "Crunchy Nutter",
+        "url": "https://open.spotify.com/album/1WlUE6Kq9JTU4bAlYq87YA"
+      },
+      "artists": [
+        {
+          "name": "Unglued",
+          "url": "https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC"
+        },
+        {
+          "name": "Lens",
+          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
+        }
+      ],
+      "duration_ms": 204332,
+      "name": "Crunchy Nutter",
+      "url": "https://open.spotify.com/track/0G9V10A931yQ6KU36SsQZw"
     },
     {
       "added_at": "2024-06-14 14:18:03",

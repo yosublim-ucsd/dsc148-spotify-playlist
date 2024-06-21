@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "New and emerging R&B, afropop and Alternative tracks. Cover: ShineTTW",
+  "description": "New and emerging R&B, afropop and Alternative tracks. Cover: Shine ttw",
   "name": "Sizzlers ",
   "tracks": [
     {
@@ -810,7 +810,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 182656,
       "name": "All Good",
       "url": "https://open.spotify.com/track/5jtnLmxG92vA96CuxAZ3I5"
@@ -1448,7 +1448,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 143557,
       "name": "AVANTE",
       "url": "https://open.spotify.com/track/29RwIvbQYfo2K0wJKfTtlE"
@@ -1488,7 +1488,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 177406,
       "name": "Back To That",
       "url": "https://open.spotify.com/track/09tLbxR5YVdtYX9nokgurW"
@@ -2898,7 +2898,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 164745,
       "name": "Casanova",
       "url": "https://open.spotify.com/track/4ZvDUUJcpywNxrEetDl3vT"
@@ -3548,6 +3548,32 @@
       "duration_ms": 143527,
       "name": "Crayons",
       "url": "https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1"
+    },
+    {
+      "album": {
+        "name": "LEATHER PARK (VOL. 1)",
+        "url": "https://open.spotify.com/album/714sz0U1nuTsGFbQiyMFfN"
+      },
+      "artists": [
+        {
+          "name": "Leather Park",
+          "url": "https://open.spotify.com/artist/7zwAV8QMBcclMJbWf7DmQ1"
+        },
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116400,
+      "name": "CRAZY SEXY PERFECT GIRLS",
+      "url": "https://open.spotify.com/track/2yK4TLFFCgLUmTWyQoY8qj"
     },
     {
       "album": {
@@ -4894,6 +4920,24 @@
       "duration_ms": 179826,
       "name": "Fa Lala",
       "url": "https://open.spotify.com/track/3oDOczWpp1KiOYSb5LaWvp"
+    },
+    {
+      "album": {
+        "name": "MONOCHROME RADIO",
+        "url": "https://open.spotify.com/album/2LBqxBoNbVgb6lioat3POo"
+      },
+      "artists": [
+        {
+          "name": "SuperJazzClub",
+          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148930,
+      "name": "FADE",
+      "url": "https://open.spotify.com/track/2sGCOzmkJCTRzUlurmnRYW"
     },
     {
       "album": {
@@ -8686,7 +8730,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 173207,
       "name": "Kiss N Tell",
       "url": "https://open.spotify.com/track/7nSWzUr4SoqZny0BozXegP"
@@ -9714,7 +9758,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 155403,
       "name": "Love practitioner",
       "url": "https://open.spotify.com/track/0D24y5Rs4Wl1yxqIUFvoc5"
@@ -10794,7 +10838,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 115776,
       "name": "Move",
       "url": "https://open.spotify.com/track/7oiziqlPGo4hbMr6iAsRTu"
@@ -11747,6 +11791,32 @@
     },
     {
       "album": {
+        "name": "LEATHER PARK (VOL. 1)",
+        "url": "https://open.spotify.com/album/714sz0U1nuTsGFbQiyMFfN"
+      },
+      "artists": [
+        {
+          "name": "Leather Park",
+          "url": "https://open.spotify.com/artist/7zwAV8QMBcclMJbWf7DmQ1"
+        },
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        },
+        {
+          "name": "Crystal Murray",
+          "url": "https://open.spotify.com/artist/2lRXAjsNoYGqyYkgHxk5OH"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93670,
+      "name": "NYMPHOMANIA",
+      "url": "https://open.spotify.com/track/656bTqbJh4wIVlY0EqvLGu"
+    },
+    {
+      "album": {
         "name": "Pieces Of Me",
         "url": "https://open.spotify.com/album/4IQeYJ0JoEKukuuGrecFct"
       },
@@ -11908,6 +11978,24 @@
       "duration_ms": 251254,
       "name": "Old",
       "url": "https://open.spotify.com/track/5NqUNHSCMW7ikeHXGFVIbN"
+    },
+    {
+      "album": {
+        "name": "Old Love",
+        "url": "https://open.spotify.com/album/5wfMhYYwZXVEwK6hdvZGH7"
+      },
+      "artists": [
+        {
+          "name": "KiKi Celine",
+          "url": "https://open.spotify.com/artist/6GycTxlHdz7GvNJrl9JyWs"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141044,
+      "name": "Old Love",
+      "url": "https://open.spotify.com/track/2Iuesyg6djj7hFSAHqJetN"
     },
     {
       "album": {
@@ -12428,6 +12516,24 @@
       "duration_ms": 165274,
       "name": "Ouu Ahh",
       "url": "https://open.spotify.com/track/5ThHwyTTfpVADZ3lf8ul8j"
+    },
+    {
+      "album": {
+        "name": "In Her Thoughts",
+        "url": "https://open.spotify.com/album/7eXEtX7iQ1oJ9Ngs7xYMkx"
+      },
+      "artists": [
+        {
+          "name": "T'neeya",
+          "url": "https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193846,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/1gMaklshAS3EUz2uhqfx8H"
     },
     {
       "album": {
@@ -13340,7 +13446,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 150752,
       "name": "Princess Darling",
       "url": "https://open.spotify.com/track/4eh3gxGAT2tVFfBq4BKCKW"
@@ -13952,6 +14058,28 @@
       "duration_ms": 192111,
       "name": "Rest My Case",
       "url": "https://open.spotify.com/track/54I5MSvbijyqMfB0Ci0Lvc"
+    },
+    {
+      "album": {
+        "name": "Restore",
+        "url": "https://open.spotify.com/album/0JJ9lKygS0p1pZfLn7Bzc6"
+      },
+      "artists": [
+        {
+          "name": "mau from nowhere",
+          "url": "https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf"
+        },
+        {
+          "name": "Jay James",
+          "url": "https://open.spotify.com/artist/7kqlFgn7tqLufAULiv8kJE"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147473,
+      "name": "Restore",
+      "url": "https://open.spotify.com/track/5I6M34H6mOxG9ulDRZJLIz"
     },
     {
       "album": {
@@ -15318,6 +15446,32 @@
       "duration_ms": 296756,
       "name": "Song Of G",
       "url": "https://open.spotify.com/track/6Ug28Tl6LJs2V9fmBmKfeT"
+    },
+    {
+      "album": {
+        "name": "THE BREAKFAST CLUB",
+        "url": "https://open.spotify.com/album/5fztqrblFzXP9pdJQf16oZ"
+      },
+      "artists": [
+        {
+          "name": "VAR1",
+          "url": "https://open.spotify.com/artist/05TqhaJ6y6uMmhzX8TDikY"
+        },
+        {
+          "name": "K0NYE",
+          "url": "https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ"
+        },
+        {
+          "name": "TiMi",
+          "url": "https://open.spotify.com/artist/0BQyOgobSOkQ7u4vTG7fPJ"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/6w1Cr2X7sVFhBjayT1M7ir"
     },
     {
       "album": {
@@ -16718,7 +16872,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 183170,
       "name": "Tonic No Lime",
       "url": "https://open.spotify.com/track/4PaF06tc9L8LnAW3fIHl18"
@@ -18302,6 +18456,24 @@
       "duration_ms": 148278,
       "name": "Yellow 2.0",
       "url": "https://open.spotify.com/track/0xk7LURVErfmhgUTCZj7DR"
+    },
+    {
+      "album": {
+        "name": "Yenkor",
+        "url": "https://open.spotify.com/album/3Xsyy8TphhRldDWsv14vBM"
+      },
+      "artists": [
+        {
+          "name": "O\u2019Rhymz",
+          "url": "https://open.spotify.com/artist/5HH8MqsWUbNqfXCLbQz5bm"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124800,
+      "name": "Yenkor",
+      "url": "https://open.spotify.com/track/3koVHs3SnEsRAOI9ndlCtr"
     },
     {
       "album": {

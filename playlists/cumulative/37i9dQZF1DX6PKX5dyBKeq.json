@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Pozer",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Knucks & Fimiguerrero",
   "name": "Rap UK",
   "tracks": [
     {
@@ -11822,7 +11822,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 190566,
       "name": "Everything's Personal",
       "url": "https://open.spotify.com/track/6WDFw2wrH5QoKqQX6bi8qk"
@@ -13546,7 +13546,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 182769,
       "name": "G41",
       "url": "https://open.spotify.com/track/2JZnCIyCEskf4hpdF3JAWe"
@@ -14780,7 +14780,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 159421,
       "name": "Hands On",
       "url": "https://open.spotify.com/track/1UYHl4oaDHJpTY7zXnJFCd"
@@ -23425,6 +23425,28 @@
     },
     {
       "album": {
+        "name": "Nkita (feat. Fimiguerrero)",
+        "url": "https://open.spotify.com/album/1oTf2VWsO3CWjc1S4EWDkz"
+      },
+      "artists": [
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        },
+        {
+          "name": "Fimiguerrero",
+          "url": "https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145661,
+      "name": "Nkita (feat. Fimiguerrero)",
+      "url": "https://open.spotify.com/track/0ZTM2WCM4fAOwmYtG9pbnm"
+    },
+    {
+      "album": {
         "name": "No Backchat",
         "url": "https://open.spotify.com/album/14a2jPLjxKD2Wz6PwzCvMv"
       },
@@ -24382,6 +24404,28 @@
       "duration_ms": 160496,
       "name": "of course",
       "url": "https://open.spotify.com/track/67ZEHFld41PZdanUBCilfN"
+    },
+    {
+      "album": {
+        "name": "Off License",
+        "url": "https://open.spotify.com/album/73MoAtDJJzUeEZJDlb9GoR"
+      },
+      "artists": [
+        {
+          "name": "Chip",
+          "url": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
+        },
+        {
+          "name": "Nafe Smallz",
+          "url": "https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163741,
+      "name": "Off License",
+      "url": "https://open.spotify.com/track/5BFRPqRl3slqX77p53KwHK"
     },
     {
       "album": {
@@ -26680,6 +26724,24 @@
       "duration_ms": 132048,
       "name": "Politics",
       "url": "https://open.spotify.com/track/02nHflvXE8Zvq2OVTz3rqA"
+    },
+    {
+      "album": {
+        "name": "Ponzi Scheme",
+        "url": "https://open.spotify.com/album/02jFqBkHjMJY5z4BX56Y6d"
+      },
+      "artists": [
+        {
+          "name": "Blanco",
+          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125217,
+      "name": "Ponzi Scheme",
+      "url": "https://open.spotify.com/track/62vOHpsasi6KeqRkraeM6x"
     },
     {
       "album": {
@@ -31341,6 +31403,24 @@
     },
     {
       "album": {
+        "name": "fools&errands",
+        "url": "https://open.spotify.com/album/32G0PERRm3OOv4k6zwuMx6"
+      },
+      "artists": [
+        {
+          "name": "Moko",
+          "url": "https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "south",
+      "url": "https://open.spotify.com/track/1AqsmkPlO7ID4g4Hjwll9s"
+    },
+    {
+      "album": {
         "name": "See You At The Gates",
         "url": "https://open.spotify.com/album/5efrYuGXhOR4D0blYuuP5o"
       },
@@ -32452,7 +32532,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 139231,
       "name": "Sunset Blvd",
       "url": "https://open.spotify.com/track/3yz82DYnAtRu1Y3avZa0iS"
@@ -34253,6 +34333,28 @@
     },
     {
       "album": {
+        "name": "Tipsy (feat. Aitch)",
+        "url": "https://open.spotify.com/album/5fjHswZXTtTNkMoIX8XV7X"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169560,
+      "name": "Tipsy (feat. Aitch)",
+      "url": "https://open.spotify.com/track/63yWignWm8ZSh1sYcP3gjh"
+    },
+    {
+      "album": {
         "name": "Titanium & Mercury",
         "url": "https://open.spotify.com/album/1A0K9zewunqFt9drGNk2W5"
       },
@@ -35844,7 +35946,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 192009,
       "name": "VERONICA'S SON",
       "url": "https://open.spotify.com/track/2VncNCKGS4zXdnoPFidtiv"

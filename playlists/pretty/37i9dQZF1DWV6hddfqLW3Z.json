@@ -1,6 +1,6 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 796934,
+  "num_followers": 796957,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-06-17 15:37:33",
       "album": {
-        "name": "Na Press\u00e3o",
-        "url": "https://open.spotify.com/album/18gEdE7EJMpVeBCSDZgOdG"
-      },
-      "artists": [
-        {
-          "name": "Lenine",
-          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
-        }
-      ],
-      "duration_ms": 284293,
-      "name": "Paci\u00eancia",
-      "url": "https://open.spotify.com/track/6gBlkT2u5P7UyZUYH8WnKz"
-    },
-    {
-      "added_at": "2024-06-17 15:37:33",
-      "album": {
         "name": "Um dia de domingo",
         "url": "https://open.spotify.com/album/6UsutqrIyl5NVGoP4i4hoz"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 251903,
       "name": "Um dia de domingo",
       "url": "https://open.spotify.com/track/4Hnc4ewhudTuDkXiyZ39Vm"
+    },
+    {
+      "added_at": "2024-06-17 15:37:33",
+      "album": {
+        "name": "Na Press\u00e3o",
+        "url": "https://open.spotify.com/album/18gEdE7EJMpVeBCSDZgOdG"
+      },
+      "artists": [
+        {
+          "name": "Lenine",
+          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
+        }
+      ],
+      "duration_ms": 284293,
+      "name": "Paci\u00eancia",
+      "url": "https://open.spotify.com/track/6gBlkT2u5P7UyZUYH8WnKz"
     },
     {
       "added_at": "2024-06-17 15:37:33",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-06-17 15:37:33",
       "album": {
-        "name": "C\u00e9u",
-        "url": "https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
-        }
-      ],
-      "duration_ms": 174653,
-      "name": "Malemolencia",
-      "url": "https://open.spotify.com/track/3voQ4FSnDNKEKuBNeJjAR5"
-    },
-    {
-      "added_at": "2024-06-17 15:37:33",
-      "album": {
         "name": "Pra Me Refazer",
         "url": "https://open.spotify.com/album/24l6oqlnRqFyxTBoh3phe5"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 215116,
       "name": "Pra Me Refazer",
       "url": "https://open.spotify.com/track/1NocSraHhZfASkuG2WdE5r"
+    },
+    {
+      "added_at": "2024-06-17 15:37:33",
+      "album": {
+        "name": "C\u00e9u",
+        "url": "https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+        }
+      ],
+      "duration_ms": 174653,
+      "name": "Malemolencia",
+      "url": "https://open.spotify.com/track/3voQ4FSnDNKEKuBNeJjAR5"
     },
     {
       "added_at": "2024-06-17 15:37:33",
@@ -823,6 +823,26 @@
     {
       "added_at": "2024-06-17 15:37:33",
       "album": {
+        "name": "Mais Uma Hist\u00f3ria de Amor",
+        "url": "https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi"
+      },
+      "artists": [
+        {
+          "name": "Cupertino",
+          "url": "https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD"
+        },
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "A Gente Tem Tudo a Ver",
+      "url": "https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk"
+    },
+    {
+      "added_at": "2024-06-17 15:37:33",
+      "album": {
         "name": "Flora - EP",
         "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 230849,
       "name": "Bem Bom",
       "url": "https://open.spotify.com/track/5GkqsV7wYPqZNjGfhSGWuf"
-    },
-    {
-      "added_at": "2024-06-17 15:37:33",
-      "album": {
-        "name": "Mais Uma Hist\u00f3ria de Amor",
-        "url": "https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi"
-      },
-      "artists": [
-        {
-          "name": "Cupertino",
-          "url": "https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD"
-        },
-        {
-          "name": "Os Garotin",
-          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "A Gente Tem Tudo a Ver",
-      "url": "https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk"
     },
     {
       "added_at": "2024-06-17 15:37:33",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2024-06-17 15:37:33",
       "album": {
-        "name": "Neste Contexto",
-        "url": "https://open.spotify.com/album/5ajFZehsAgL2sYI3bav9EE"
+        "name": "Pra Gente Acordar",
+        "url": "https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI"
       },
       "artists": [
         {
-          "name": "Jovem Dionisio",
-          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
         }
       ],
-      "duration_ms": 182757,
-      "name": "Neste Contexto",
-      "url": "https://open.spotify.com/track/4WS6S4uWBa4WLsRSvdqGrL"
+      "duration_ms": 156906,
+      "name": "Voltar \u00e0 Bahia",
+      "url": "https://open.spotify.com/track/4pGs8iERniTESwC4pl6bXr"
     },
     {
       "added_at": "2024-06-17 15:37:33",
@@ -1083,34 +1083,18 @@
     {
       "added_at": "2024-06-17 15:37:33",
       "album": {
-        "name": "Pra Gente Acordar",
-        "url": "https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI"
+        "name": "Neste Contexto",
+        "url": "https://open.spotify.com/album/5ajFZehsAgL2sYI3bav9EE"
       },
       "artists": [
         {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
         }
       ],
-      "duration_ms": 156906,
-      "name": "Voltar \u00e0 Bahia",
-      "url": "https://open.spotify.com/track/4pGs8iERniTESwC4pl6bXr"
-    },
-    {
-      "added_at": "2024-06-17 15:37:33",
-      "album": {
-        "name": "Logo agora",
-        "url": "https://open.spotify.com/album/1vx3DEh9jcrKeQeHuTIhVC"
-      },
-      "artists": [
-        {
-          "name": "MAR ABERTO",
-          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
-        }
-      ],
-      "duration_ms": 187573,
-      "name": "Logo agora",
-      "url": "https://open.spotify.com/track/0QSDHO1XzAfnjv3Owv3PvG"
+      "duration_ms": 182757,
+      "name": "Neste Contexto",
+      "url": "https://open.spotify.com/track/4WS6S4uWBa4WLsRSvdqGrL"
     },
     {
       "added_at": "2024-06-17 15:37:33",
@@ -1127,6 +1111,22 @@
       "duration_ms": 249706,
       "name": "Lenha",
       "url": "https://open.spotify.com/track/03eJrJinZp8ofxM3nQQs9F"
+    },
+    {
+      "added_at": "2024-06-17 15:37:33",
+      "album": {
+        "name": "Logo agora",
+        "url": "https://open.spotify.com/album/1vx3DEh9jcrKeQeHuTIhVC"
+      },
+      "artists": [
+        {
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+        }
+      ],
+      "duration_ms": 187573,
+      "name": "Logo agora",
+      "url": "https://open.spotify.com/track/0QSDHO1XzAfnjv3Owv3PvG"
     },
     {
       "added_at": "2024-06-17 15:37:33",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-06-17 15:37:33",
       "album": {
-        "name": "Marcas",
-        "url": "https://open.spotify.com/album/0w2m39XsqwjuNdhDRsdKDM"
-      },
-      "artists": [
-        {
-          "name": "Lucas e Orelha",
-          "url": "https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8"
-        }
-      ],
-      "duration_ms": 203662,
-      "name": "Sozinho",
-      "url": "https://open.spotify.com/track/72mUA93xzlV2ovVCK44EO8"
-    },
-    {
-      "added_at": "2024-06-17 15:37:33",
-      "album": {
         "name": "Real / Surreal (Deluxe)",
         "url": "https://open.spotify.com/album/5QR2xVbwCNxOBgssCLEmhP"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 170706,
       "name": "Amanheceu",
       "url": "https://open.spotify.com/track/2dnsqxCyWYslPCT6ajjUDI"
+    },
+    {
+      "added_at": "2024-06-17 15:37:33",
+      "album": {
+        "name": "Marcas",
+        "url": "https://open.spotify.com/album/0w2m39XsqwjuNdhDRsdKDM"
+      },
+      "artists": [
+        {
+          "name": "Lucas e Orelha",
+          "url": "https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8"
+        }
+      ],
+      "duration_ms": 203662,
+      "name": "Sozinho",
+      "url": "https://open.spotify.com/track/72mUA93xzlV2ovVCK44EO8"
     },
     {
       "added_at": "2024-06-17 15:37:33",

@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 215006,
+  "num_followers": 215129,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2024-06-14 14:28:30",
       "album": {
+        "name": "Locked On",
+        "url": "https://open.spotify.com/album/4KOyVupmPwP8Vze5htTpku"
+      },
+      "artists": [
+        {
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+        }
+      ],
+      "duration_ms": 257647,
+      "name": "Locked On",
+      "url": "https://open.spotify.com/track/6eEcExRelnLP9W7jj7Fdla"
+    },
+    {
+      "added_at": "2024-06-14 14:28:30",
+      "album": {
         "name": "Alla Dem Bad",
         "url": "https://open.spotify.com/album/63IVVJ6unNqy2Dd2u5INc3"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 174857,
       "name": "Alla Dem Bad",
       "url": "https://open.spotify.com/track/4zYsCeHjJYwXJxWzR8AlNN"
-    },
-    {
-      "added_at": "2024-06-14 14:28:30",
-      "album": {
-        "name": "Locked On",
-        "url": "https://open.spotify.com/album/4KOyVupmPwP8Vze5htTpku"
-      },
-      "artists": [
-        {
-          "name": "Bushbaby",
-          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
-        }
-      ],
-      "duration_ms": 257647,
-      "name": "Locked On",
-      "url": "https://open.spotify.com/track/6eEcExRelnLP9W7jj7Fdla"
     },
     {
       "added_at": "2024-06-14 14:28:30",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: STE",
+  "description": "Il meglio dell'R&B italiano. Cover: T\u00c4RA",
   "name": "anima R&B",
   "tracks": [
     {
@@ -354,6 +354,24 @@
       "duration_ms": 171428,
       "name": "Acquario & Scorpione",
       "url": "https://open.spotify.com/track/6gafnI4O74FPg2l78XZEgl"
+    },
+    {
+      "album": {
+        "name": "Ad Occhi Aperti",
+        "url": "https://open.spotify.com/album/5s0su3k09HeBuNPKuyvU47"
+      },
+      "artists": [
+        {
+          "name": "Anita Cane Violins",
+          "url": "https://open.spotify.com/artist/4o0yqv6vXY7VZiHXFhCBhP"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243789,
+      "name": "Ad Occhi Aperti",
+      "url": "https://open.spotify.com/track/3NMAYytFJOcIbYAhdJr3gj"
     },
     {
       "album": {
@@ -1140,7 +1158,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 160153,
       "name": "Brandy & Monica",
       "url": "https://open.spotify.com/track/7D0lKhGUyoJvXA83Gko8ou"
@@ -4166,7 +4184,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 207698,
       "name": "Giorno libero",
       "url": "https://open.spotify.com/track/5FwJ5dvTZ2JVxDV6qlofv7"
@@ -6709,6 +6727,28 @@
     },
     {
       "album": {
+        "name": "MY LADY",
+        "url": "https://open.spotify.com/album/084SssXdVjVDoBVApO1vTE"
+      },
+      "artists": [
+        {
+          "name": "VISCARDI",
+          "url": "https://open.spotify.com/artist/22dHXO4PwHpTyzfsVCWKlX"
+        },
+        {
+          "name": "Giada De Prisco",
+          "url": "https://open.spotify.com/artist/4FnGClu85ET5xFRwfvePxI"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163917,
+      "name": "MY LADY",
+      "url": "https://open.spotify.com/track/4huOHlHNobk81EPRFehQ5R"
+    },
+    {
+      "album": {
         "name": "M\u2019AMA",
         "url": "https://open.spotify.com/album/0dxzTx9DQbOdYHKRfH7umG"
       },
@@ -6840,6 +6880,24 @@
       "duration_ms": 159428,
       "name": "Negli Occhi",
       "url": "https://open.spotify.com/track/6yS0Ps5RswhboZFM4vLOsE"
+    },
+    {
+      "album": {
+        "name": "Nel Vortice",
+        "url": "https://open.spotify.com/album/0GhD7rf558nmVuDXyfkSRl"
+      },
+      "artists": [
+        {
+          "name": "Subconscio",
+          "url": "https://open.spotify.com/artist/1QrrQzYzB6iWHcJee809Zh"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214766,
+      "name": "Nel Vortice",
+      "url": "https://open.spotify.com/track/3Gy88h0xErGucDUTBOyV31"
     },
     {
       "album": {
@@ -9104,7 +9162,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 174622,
       "name": "Rosso Iberico",
       "url": "https://open.spotify.com/track/1Wp1xqEszHebh4EB8S8Syo"
@@ -10748,7 +10806,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 157894,
       "name": "Tardi Ormai",
       "url": "https://open.spotify.com/track/7shcGSlFrwoL2ivOIyeq1B"
@@ -11736,6 +11794,24 @@
       "duration_ms": 166680,
       "name": "VIVO!",
       "url": "https://open.spotify.com/track/2NX0FgRvkxumI1oUasjDNg"
+    },
+    {
+      "album": {
+        "name": "Voglio di pi\u00f9",
+        "url": "https://open.spotify.com/album/4IsmRQLMNSJXAHFgymX6UF"
+      },
+      "artists": [
+        {
+          "name": "estro",
+          "url": "https://open.spotify.com/artist/20UtSgbibao6RDTnUyiyIn"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155446,
+      "name": "Voglio di pi\u00f9",
+      "url": "https://open.spotify.com/track/4MmOYatHoZD8hzDbRnKPB7"
     },
     {
       "album": {

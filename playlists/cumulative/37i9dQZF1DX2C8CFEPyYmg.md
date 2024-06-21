@@ -4,7 +4,7 @@
 
 > Soothing strings for our sleepy little ones.
 
-496 songs - 15 hr 13 min
+500 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [Little Jack Horner](https://open.spotify.com/track/4bcK8YQsYRGufJzOBdFMjQ) | [Dawn Strage](https://open.spotify.com/artist/327FLvFuccgVKyr40b3eli) | [Little Jack Horner](https://open.spotify.com/album/7LrhiWS8UkU8hmH8d3ocIv) | 1:08 | 2023-03-17 |  |
 | [Little Jack Horner](https://open.spotify.com/track/3CmTG34ua7Q7oFGxggNPuN) | [My Little Guitar](https://open.spotify.com/artist/0N43eonuFdAXrUaAyFJAmQ) | [Twinkle Twinkle Little Star](https://open.spotify.com/album/3cofneXkg1OtWT3tYF4Z6k) | 1:41 | 2022-08-11 | 2022-10-29 |
 | [Little Piece For Harp](https://open.spotify.com/track/5ol379cYHwXRapFSrls4pb) | [Nella Vitae](https://open.spotify.com/artist/0Knkt1kQdMiNsArHK1HRBp) | [Little Piece For Harp](https://open.spotify.com/album/5kGckjV2dP7ZcBhUI0IIVc) | 2:02 | 2022-08-11 | 2024-04-13 |
+| [Little Star](https://open.spotify.com/track/0DTAbJ8uYZaBXTOEcPuROt) | [Vanja Knutsson](https://open.spotify.com/artist/3NDeUrL3OW0qQ4tacd8G4h) | [Little Star](https://open.spotify.com/album/6erEubw3d93J1j9ZvLAMKX) | 1:51 | 2024-06-20 |  |
 | [Little Sweet Pea](https://open.spotify.com/track/7mHPGfKUJ4U3NOgjpjYUFf) | [Little Miles](https://open.spotify.com/artist/4FMHVjDrLWpdPYQ7Q6pcUT) | [Little Sweet Pea](https://open.spotify.com/album/3szc0c6V9Akfus5LsIWOiO) | 1:59 | 2023-03-17 |  |
 | [Little Toddler](https://open.spotify.com/track/75j2cGiyque8AJFIpn0WsM) | [Ginga Nesto](https://open.spotify.com/artist/1dNyjcuUQztBbx0zk7MBRc) | [Slumberland](https://open.spotify.com/album/38vYZzD3VHBFynAscSFWr0) | 1:47 | 2023-02-17 |  |
 | [Lola, The Magic Cat](https://open.spotify.com/track/0z7r1sysPowCvS94bC7hnJ) | [Merv Royston](https://open.spotify.com/artist/2iJqTkHIrNCNYh4UjPMvQt) | [Lola, The Magic Cat](https://open.spotify.com/album/00U336oAj8ZkhZwumPCcQN) | 1:51 | 2022-10-28 |  |
@@ -342,6 +343,7 @@
 | [Rock\-a\-Bye Baby \(Harp Version\)](https://open.spotify.com/track/3pxobkrGecsRGt0YAT99nA) | [Gabriel Lucas](https://open.spotify.com/artist/3duTy2PIQRyuhd0Q0AnanD) | [Rock\-a\-Bye Baby](https://open.spotify.com/album/0u4yBrpeAFMwxc2Qp79Prr) | 1:50 | 2022-08-11 | 2022-10-29 |
 | [Row Row Row Your Boat](https://open.spotify.com/track/2182KvEnqJQ6YfTmobpXwI) | [Alby Graham](https://open.spotify.com/artist/6290bXO73fADsTGqEn7UGM) | [Row Row Row Your Boat](https://open.spotify.com/album/1PvHQyoli2uqfZ2wS8YpO9) | 1:49 | 2023-05-19 |  |
 | [Row Row Row Your Boat](https://open.spotify.com/track/47PMzPN17D3fj1V3tAayDD) | [Paige Rosen](https://open.spotify.com/artist/5Tx246eTkaAi5ZzjBNyNmn) | [Frère Jacques](https://open.spotify.com/album/0yDbIhI2acYzofgV3AH2go) | 2:12 | 2022-08-11 | 2023-08-11 |
+| [Row Row Row Your Boat](https://open.spotify.com/track/7tGsqfYOTrqcv4v9BD8Dkr) | [The Harp Players](https://open.spotify.com/artist/51gWjFUuvRVjXQctDzFCIj) | [Row Row Row Your Boat](https://open.spotify.com/album/7k92ZdO7IcT8gBmcJuzpqr) | 1:16 | 2024-06-20 |  |
 | [Row Your Boat](https://open.spotify.com/track/0xlMGRmoGT9ekGhIBhOMqG) | [Diedrik Tapp](https://open.spotify.com/artist/5ywa1JkkLaskTEXYfo9c5n) | [Row Your Boat](https://open.spotify.com/album/1BXXcxa3g3Izca7MjBlKMx) | 1:30 | 2022-08-11 | 2022-09-23 |
 | [Row Your Boat](https://open.spotify.com/track/6E8DUD9VLLCiKXbMWzo2T3) | [Katarzyna Zgoda](https://open.spotify.com/artist/3091vASM1Q4DuK9AfdOF59) | [Row Your Boat](https://open.spotify.com/album/3zx48R1k0bt304riYwjwmA) | 1:33 | 2022-08-11 | 2023-03-18 |
 | [SAD!](https://open.spotify.com/track/2ZHA2R52C71VuwGG6hKgny) | [Evolvations](https://open.spotify.com/artist/3wzxpKU7xhTFLQ8hQ4P3ug) | [Evolvations](https://open.spotify.com/album/0zbPF1od6zcUfdvvH6iupD) | 2:06 | 2022-08-11 | 2022-09-23 |
@@ -354,6 +356,7 @@
 | [Skidamarink](https://open.spotify.com/track/4WKj1FwMz5Y5dNSHnzgiQO) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [Skidamarink](https://open.spotify.com/album/5879evWEXNX6qW2PEVdif0) | 2:01 | 2023-02-17 |  |
 | [Skidamarink A Dink A Dink](https://open.spotify.com/track/3jWeocrrxb4mQmH0Po0UNA) | [Lisa Liddle](https://open.spotify.com/artist/1YzqZE21VmV1PvWp1bHmlq) | [Skidamarink A Dink A Dink](https://open.spotify.com/album/3ckHFaiiOJl3x1lCf5S9nw) | 2:20 | 2022-08-11 | 2023-02-18 |
 | [Skogen Sover](https://open.spotify.com/track/42EfNrLcYB9vMAnfi928Ci) | [Sofia Andersson](https://open.spotify.com/artist/7vFIdjlk1tPniBpfYn0ShM) | [Skogen Sover](https://open.spotify.com/album/1Ng8bNMcVMR77m0yWd91kI) | 2:41 | 2022-08-11 | 2023-08-11 |
+| [Sleep Again](https://open.spotify.com/track/6D8I4k4yUchE5NJt16OQBt) | [Emilee Ness](https://open.spotify.com/artist/1fPd9o5MEt6E49AnWODQ7M) | [Sleep Again](https://open.spotify.com/album/1rzuU8LE7au07WGqLair5L) | 1:30 | 2024-06-20 |  |
 | [Sleep Birdie Sleep](https://open.spotify.com/track/42zVKfVVXZpW9cFkNUAsi1) | [Carla Galloway](https://open.spotify.com/artist/4UCjsEwUrldNSYac9hetq0) | [Sleep Birdie Sleep](https://open.spotify.com/album/2Pu9LPjvHdG5BxArbqZLNe) | 2:08 | 2022-09-02 |  |
 | [Sleep Cure](https://open.spotify.com/track/5i5o0N7qgrGCUcZWlNAIdu) | [Austyn Beaumont](https://open.spotify.com/artist/3nS0aqOR8yb2WdOjxbG5Ag) | [Sleep Cure](https://open.spotify.com/album/5TjxbIClZqK0sou7CEbtvD) | 1:02 | 2022-10-28 | 2023-08-24 |
 | [Sleep Hymn](https://open.spotify.com/track/0S2tBDiIpa03YnsBZFa5Or) | [Unni Wide](https://open.spotify.com/artist/5kkxB64YQjSwNgfftsQvOL) | [Sleep Hymn](https://open.spotify.com/album/7KhhtHKQ8rjeDRWpBoA1z8) | 2:11 | 2022-08-11 | 2023-01-20 |
@@ -392,6 +395,7 @@
 | [Stars Are Falling](https://open.spotify.com/track/56ylWs9S44viM3Rs790MCv) | [Nash Hershey](https://open.spotify.com/artist/7Jb6ocugSaKblkdgODXbUN) | [Stars Are Falling](https://open.spotify.com/album/6UkA9lFUPAzyEzrOpzPbpm) | 0:56 | 2022-08-11 |  |
 | [Stars Are Shining](https://open.spotify.com/track/7n5nlxFbwY8bgN7CXIRdD7) | [Percy Erickson](https://open.spotify.com/artist/2CZkyihyuE9dEYbA1DTC45) | [Dark night, Sleep tight](https://open.spotify.com/album/4T481VUerDBhjcx2cKwTCL) | 1:42 | 2022-08-11 | 2024-05-25 |
 | [Stars at Night](https://open.spotify.com/track/4ItX9mxGkbuwNo4TwNhTMF) | [3rd Street Guitar](https://open.spotify.com/artist/2A7EWzNXsSbpTOpw8NvUhF) | [Stars at Night](https://open.spotify.com/album/3MQuWn9w5Vqv0AjrLNnsCP) | 1:42 | 2022-08-11 | 2022-12-24 |
+| [Stars Cuddling](https://open.spotify.com/track/4aWuJxWpD0DChfyRS0JfdY) | [Nattkvisten](https://open.spotify.com/artist/7tPCegvX3wIjKlWDJ4HIoe) | [Stars Cuddling](https://open.spotify.com/album/1CHVC4Msc8WDNRHZk8VRXM) | 2:16 | 2024-06-20 |  |
 | [Stars From Afar](https://open.spotify.com/track/6xO6mruU9Ptgfm6VjA2cSa) | [Paige Rosen](https://open.spotify.com/artist/5Tx246eTkaAi5ZzjBNyNmn) | [Cozy Evening](https://open.spotify.com/album/1QfZNlNZN8UIaervJMkTlp) | 2:48 | 2023-08-10 |  |
 | [Stars Heaven and Dreams](https://open.spotify.com/track/6xn1JDvqH2fToqq6H84h6O) | [Kim Wayne](https://open.spotify.com/artist/61rwfAiRHfG3L9DEvzUQoW) | [As You Fall Asleep](https://open.spotify.com/album/3Wh3lssmmWfvlTC3xouIXP) | 1:51 | 2022-08-11 | 2023-01-20 |
 | [Stay Here](https://open.spotify.com/track/7ljhjaPhgwQc0nW9GecxAq) | [Mimmi East](https://open.spotify.com/artist/5JD1k7FiD0YmTS7Xcv3RF6) | [Stay Here](https://open.spotify.com/album/20E7i2ZJOwdOCJKPgvdkam) | 1:33 | 2023-05-19 |  |

@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Tompi
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Adikara
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,408 likes - 88 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,417 likes - 88 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ada Anak Bertanya Pada Bapaknya](https://open.spotify.com/track/0GFhrPONPqxv8z1p03lx4R) | [Tompi](https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G) | [Ada Anak Bertanya Pada Bapaknya](https://open.spotify.com/album/7CCGnASUZMKV90hDmbWaAR) | 4:42 |
+| 1 | [Primadona](https://open.spotify.com/track/21VAHk2V9XKkhsTT0LCyPI) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Primadona](https://open.spotify.com/album/0UoR0p6c4Wr7iTBeKzDnRS) | 4:07 |
 | 2 | [Sembilan](https://open.spotify.com/track/2h53cB2OyARIKR0QcY5VE4) | [Natasya Elvira](https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw), [Societeit de Harmonie](https://open.spotify.com/artist/1KH1jCwChcxJG9GKUUfCt9) | [Sembilan](https://open.spotify.com/album/38iZSG6AUGr2zqvAPC7za6) | 2:53 |
 | 3 | [Wanna Do](https://open.spotify.com/track/5orukLs2BbGTNROGzqviF1) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H), [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [Wanna Do](https://open.spotify.com/album/09xopQN6jbRdCZdgywTJ10) | 3:17 |
-| 4 | [Primadona](https://open.spotify.com/track/21VAHk2V9XKkhsTT0LCyPI) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Primadona](https://open.spotify.com/album/0UoR0p6c4Wr7iTBeKzDnRS) | 4:07 |
-| 5 | [Sign of Love](https://open.spotify.com/track/6e2VzhU88re1jusfK8UeHp) | [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz), [The Rhythm Service](https://open.spotify.com/artist/4E9QPvg1uafJ5yak7f5019) | [Sign of Love](https://open.spotify.com/album/2HNChhmOY2HldqTW1lwh2g) | 3:24 |
+| 4 | [Sign of Love](https://open.spotify.com/track/6e2VzhU88re1jusfK8UeHp) | [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz), [The Rhythm Service](https://open.spotify.com/artist/4E9QPvg1uafJ5yak7f5019) | [Sign of Love](https://open.spotify.com/album/2HNChhmOY2HldqTW1lwh2g) | 3:24 |
+| 5 | [Ada Anak Bertanya Pada Bapaknya](https://open.spotify.com/track/0GFhrPONPqxv8z1p03lx4R) | [Tompi](https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G) | [Ada Anak Bertanya Pada Bapaknya](https://open.spotify.com/album/7CCGnASUZMKV90hDmbWaAR) | 4:42 |
 | 6 | [Noodle](https://open.spotify.com/track/0skPOaR1KzICWLqhzTJoOA) | [Cresensia Naibaho](https://open.spotify.com/artist/2F0SWxOlxawQl2DiguXpCm) | [Cherish in Samba](https://open.spotify.com/album/4NsGUUs73KDI5ugeFyppzQ) | 3:03 |
 | 7 | [I'm Old Fashioned](https://open.spotify.com/track/4mC42wzxxH9BlU3xwe3XOR) | [Vanessa Shavonne](https://open.spotify.com/artist/4ITvgKI1DUW1wDPkWEycP9) | [I'm Old Fashioned](https://open.spotify.com/album/6fjZYH9jfnOWfeZaT0kK6N) | 3:15 |
 | 8 | [eyes closed](https://open.spotify.com/track/4ulnoshXvEKyzwaYETxa5g) | [dilasarah](https://open.spotify.com/artist/2U2xHTxh2E1Y4GX9deASV3) | [eyes closed](https://open.spotify.com/album/2OGwtsWKnsRiATyy6wFfHa) | 3:08 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 | 87 | [Afterthought](https://open.spotify.com/track/3cXwYQyvPCwNoWPDisoBOy) | [Anastasya Poetri](https://open.spotify.com/artist/6e2MbJs1OWfSbaCCkJybNt) | [Afterthought](https://open.spotify.com/album/44mPYEF7jEnGsvsA0TFceA) | 3:44 |
 | 88 | [Pengungkapan Hatimu Feat\. Andien](https://open.spotify.com/track/1U2HfAJLJp6TXt60qPh34d) | [Candra Darusman](https://open.spotify.com/artist/27w64nGa7wM8hN7oz7INCt) | [Pengungkapan Hatimu](https://open.spotify.com/album/4QsOHvGDtaXUXvn8uHv8yf) | 3:56 |
 
-Snapshot ID: `ZnIoKgAAAADb6vdKEP5hrwizsTC5EnNr`
+Snapshot ID: `ZnRk2QAAAABS3YT5ADhbRIPyyRSGc4vD`

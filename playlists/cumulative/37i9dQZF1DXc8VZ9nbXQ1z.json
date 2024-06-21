@@ -881,6 +881,32 @@
     },
     {
       "album": {
+        "name": "Bayede Remixes",
+        "url": "https://open.spotify.com/album/6uTSYjU1KzAlkJ8mLehm0a"
+      },
+      "artists": [
+        {
+          "name": "DJ Kabila",
+          "url": "https://open.spotify.com/artist/7iweQ4hUpLLRpSyQmY2J2K"
+        },
+        {
+          "name": "Victor Sithole",
+          "url": "https://open.spotify.com/artist/09dRPZ9Dxg6VsIxxNpvRw4"
+        },
+        {
+          "name": "Caiiro",
+          "url": "https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392718,
+      "name": "Bayede - Caiiro Remix",
+      "url": "https://open.spotify.com/track/2xEqx4dOq2zh4g4q3A5WZZ"
+    },
+    {
+      "album": {
         "name": "Be Dimensions (feat. Clara Hill) [Thakzin Remix]",
         "url": "https://open.spotify.com/album/7n8JA1AoyITFY6fSqPg4Ln"
       },
@@ -1110,6 +1136,24 @@
       "duration_ms": 408005,
       "name": "Block Party",
       "url": "https://open.spotify.com/track/5DjR58OOBkkZMk2joY7GoK"
+    },
+    {
+      "album": {
+        "name": "Bo Bom",
+        "url": "https://open.spotify.com/album/3rACKliAGAZreFE1lXuBXZ"
+      },
+      "artists": [
+        {
+          "name": "Moeaike",
+          "url": "https://open.spotify.com/artist/1dq8CEUSNTPN81up2lVwnm"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Bo Bom",
+      "url": "https://open.spotify.com/track/2V5h4oenUhCeWXsJualNd7"
     },
     {
       "album": {

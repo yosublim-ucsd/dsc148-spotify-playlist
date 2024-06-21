@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "The best and latest rock and alternative. Cover: Bon Jovi",
+  "description": "The best and latest rock and alternative. Cover: The Tragically Hip",
   "name": "New Rock Music",
   "tracks": [
     {
@@ -880,6 +880,24 @@
       "duration_ms": 234857,
       "name": "Free",
       "url": "https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1"
+    },
+    {
+      "album": {
+        "name": "Get Back Again",
+        "url": "https://open.spotify.com/album/6JbOujEXT2WHe21VJhS7Z9"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250331,
+      "name": "Get Back Again",
+      "url": "https://open.spotify.com/track/6WqpjGIipa3oCFTGQ1d9Q0"
     },
     {
       "album": {

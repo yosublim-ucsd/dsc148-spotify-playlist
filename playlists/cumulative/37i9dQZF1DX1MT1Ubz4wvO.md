@@ -4,7 +4,7 @@
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con El Plan De La Mariposa en portada.
 
-2,834 songs - 6 day 20 hr 40 min
+2,835 songs - 6 day 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -746,6 +746,7 @@
 | [El Guinness](https://open.spotify.com/track/6HeSdJvc66OPyqZqldXL42) | [Playa Cuberris](https://open.spotify.com/artist/0xIzpUzi2uZQiZGjDx8ZP1) | [El Guinness](https://open.spotify.com/album/7Kx9a35wfcqW9sI5wTIvE7) | 3:00 | 2023-03-24 | 2023-04-01 |
 | [El Halo Lunar](https://open.spotify.com/track/2g3HuMHAtms7sRiGDOTkIC) | [Mundaka](https://open.spotify.com/artist/2EqDkbBPD2fLa06Saei9je) | [Apátrida](https://open.spotify.com/album/7uniuiMExWVU1CAPkBu0DE) | 3:35 | 2022-10-28 | 2022-11-12 |
 | [El Hijo](https://open.spotify.com/track/1h5eCRXAcho6ixIGdOFjFl) | [Ases Falsos](https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1) | [El Hijo](https://open.spotify.com/album/1yKNYNg08SNuCotBuKhNhp) | 1:51 | 2023-11-03 | 2023-11-18 |
+| [El Hit](https://open.spotify.com/track/0gt0wTEOGBNxooOdDKbKmm) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [El Hit](https://open.spotify.com/album/289DmDK5Hnq2Eh0d05HdI7) | 3:13 | 2024-06-14 |  |
 | [El hombre de la calle](https://open.spotify.com/track/46HfYI59sARlNvxDNNGSHe) | [Mariano Martínez](https://open.spotify.com/artist/3hzBlxm9jIvEFfvmJcWPTA) | [El hombre de la calle](https://open.spotify.com/album/2Yu3Bg6wcDINqIbmbFMmAL) | 3:43 | 2023-08-11 | 2023-08-26 |
 | [El hombre de otro tiempo](https://open.spotify.com/track/3Avvg1WJ76Qm4AOgDWi855) | [Rufus T\. Firefly](https://open.spotify.com/artist/51Hx65ymA6pNWu8cTTXET1) | [El Largo Mañana \(Edición Especial\)](https://open.spotify.com/album/55Yki3VjBmvjXMTm4dkstm) | 4:31 | 2023-03-03 | 2023-03-18 |
 | [El Intelectual](https://open.spotify.com/track/4tUEGlh0yxZ57Z1w446Zny) | [Casi](https://open.spotify.com/artist/1XVEzCnBjr8rU9DkcnJkHA) | [El Intelectual](https://open.spotify.com/album/5OKcJ3QQ30sHFNKt5NhmCO) | 3:41 | 2023-11-10 | 2023-11-25 |

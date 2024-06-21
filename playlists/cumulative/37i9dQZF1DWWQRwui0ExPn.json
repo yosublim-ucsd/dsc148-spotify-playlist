@@ -16882,7 +16882,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 104000,
       "name": "Butter",
       "url": "https://open.spotify.com/track/2LN4hN5vwx2lG5gecZ1C6D"
@@ -50703,6 +50703,24 @@
     },
     {
       "album": {
+        "name": "hjortron",
+        "url": "https://open.spotify.com/album/5sANFRqIeEJUz1aVPmgEjA"
+      },
+      "artists": [
+        {
+          "name": "bomull",
+          "url": "https://open.spotify.com/artist/1F32IriH9KUZxZzUoxeQub"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129996,
+      "name": "hjortron",
+      "url": "https://open.spotify.com/track/1eGHzlNpyXAsi4qKfm5z27"
+    },
+    {
+      "album": {
         "name": "Hoarfrost",
         "url": "https://open.spotify.com/album/0Z75Vm9LGoEps9f1uZ8bxU"
       },
@@ -75282,7 +75300,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 132307,
       "name": "Moonrise",
       "url": "https://open.spotify.com/track/1IjfRgASFYlHRHYLuUrmsA"
@@ -122906,6 +122924,24 @@
       "duration_ms": 120448,
       "name": "Up",
       "url": "https://open.spotify.com/track/0vMZrX9RZ8yEqaNIjUmV7y"
+    },
+    {
+      "album": {
+        "name": "up and upper",
+        "url": "https://open.spotify.com/album/03B0KT5nLYh9uSf33frzYk"
+      },
+      "artists": [
+        {
+          "name": "London Lighthouse",
+          "url": "https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144166,
+      "name": "up and upper",
+      "url": "https://open.spotify.com/track/5fFgCGDi9eP2A0yUM6LG7k"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Celebrating women at the centre of innovation in electronic music\. Cover: Charli XCX
 
-348 songs - 22 hr 48 min
+349 songs - 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [I Go Dance](https://open.spotify.com/track/5YdMBvsr5rLpgi5euODejU) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [I Go Dance](https://open.spotify.com/album/455CmcER7FNeMwmpN4ND4n) | 2:56 | 2024-03-22 | 2024-05-18 |
 | [I Just Want To Love You](https://open.spotify.com/track/2wi0QZ8SagYzfSeAee6Rm4) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [I Just Want To Love You](https://open.spotify.com/album/4hofhgHoBQXquGsuaELmx4) | 3:50 | 2023-03-07 | 2024-03-02 |
 | [I Missed You Too](https://open.spotify.com/track/4o2c5swMPdirnnahplyswy) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [I Missed You Too](https://open.spotify.com/album/3S5pxAGiUKduiJGwnEzHno) | 3:35 | 2024-03-08 |  |
-| [I Will Find You](https://open.spotify.com/track/74XpVeIclja8aFEtCQq1Y5) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [I Will Find You](https://open.spotify.com/album/1XxDcTMBN3ag8yHjusNpIv) | 3:29 | 2024-06-18 |  |
+| [I Will Find You](https://open.spotify.com/track/74XpVeIclja8aFEtCQq1Y5) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [I Will Find You](https://open.spotify.com/album/1XxDcTMBN3ag8yHjusNpIv) | 3:29 | 2024-06-18 | 2024-06-21 |
 | [I'm Not Always Where My Body Is](https://open.spotify.com/track/1uFBlkcqXpvoZBpRL7fM4T) | [Aïsha Devi](https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4) | [S.L.F.](https://open.spotify.com/album/0rZMYFmZZYdm3nfilk1SvV) | 3:49 | 2022-03-08 | 2023-04-30 |
 | [I'm Not Always Where My Body Is](https://open.spotify.com/track/3XxoiXiNIzsgl45fTDXtKE) | [Aïsha Devi](https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4) | [S.L.F.](https://open.spotify.com/album/5dGkXQyNIkLUjmW4VR9uax) | 3:49 | 2023-03-07 | 2024-03-02 |
 | [I'm Not Always Where My Body Is](https://open.spotify.com/track/7v5srkt2hgIUPo9ezpTB5T) | [Aïsha Devi](https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4) | [S.L.F.](https://open.spotify.com/album/5Sdp5VRtaUZPSrW5WfwdlV) | 3:49 | 2021-03-01 | 2022-07-29 |
@@ -256,6 +256,7 @@
 | [Ready](https://open.spotify.com/track/0ctCA8Gx9JuTS1eTmdAcNG) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [Eurostar](https://open.spotify.com/album/5WWpnaOe9Jq6EV8wHNHD3m) | 2:20 | 2024-03-01 | 2024-04-19 |
 | [Real Girls](https://open.spotify.com/track/0OIr6KOWCt5C6VxLJq08vy) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Star City](https://open.spotify.com/album/4jPLbIb5TphH4e97lE6Bmv) | 3:12 | 2024-03-01 | 2024-03-30 |
 | [Real Love](https://open.spotify.com/track/6gWsOhNNpEBBd1jFVa73Re) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Real Love \(AFP Deep Love Mix\)](https://open.spotify.com/album/1780GWrsihICzZnFTW8dC6) | 2:53 | 2024-03-01 | 2024-06-08 |
+| [Riddles](https://open.spotify.com/track/692A9OaT8kc7KuFhvdcMqu) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Riddles](https://open.spotify.com/album/5RifJhwYzGXU4kQ4KGIkYC) | 2:49 | 2024-06-20 |  |
 | [Ride Or Die](https://open.spotify.com/track/2CbuQYjqutizzJraX3ILZY) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Ride Or Die](https://open.spotify.com/album/0WQI7WAVAKPFLJRR2xvIKS) | 2:48 | 2024-05-03 |  |
 | [Right Here](https://open.spotify.com/track/27PLkQCMxOlaiouTPejkmZ) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Right Here](https://open.spotify.com/album/3QcjyO7WglcOzKQmfgKwXp) | 3:49 | 2024-05-17 |  |
 | [Right Spot](https://open.spotify.com/track/2pgCADpQ8xzPTRt2YwmJue) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [Right Spot](https://open.spotify.com/album/2hOXLBMjHBJZNT1WMmwjp0) | 2:50 | 2024-03-29 | 2024-05-18 |

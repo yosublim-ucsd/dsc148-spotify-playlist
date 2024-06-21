@@ -1205,6 +1205,24 @@
     },
     {
       "album": {
+        "name": "Holding Hands",
+        "url": "https://open.spotify.com/album/5tdIQB7ClKnQJNAONbtcTy"
+      },
+      "artists": [
+        {
+          "name": "Josephine Forrester",
+          "url": "https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148804,
+      "name": "Holding Hands",
+      "url": "https://open.spotify.com/track/6XUTzew4WENpk18JlfU9BU"
+    },
+    {
+      "album": {
         "name": "Shades in Blue",
         "url": "https://open.spotify.com/album/52NKtIOuEqvvlBN43G9Vz5"
       },

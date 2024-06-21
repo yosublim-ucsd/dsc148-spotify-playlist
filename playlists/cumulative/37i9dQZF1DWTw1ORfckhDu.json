@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "100 Suomi \ud83d\udcaf Kannessa LEWI, Cledos ja VJ",
+  "description": "100 Suomi \ud83d\udcaf ",
   "name": "100 Suomi",
   "tracks": [
     {
@@ -856,6 +856,24 @@
       "duration_ms": 154721,
       "name": "Bad Body",
       "url": "https://open.spotify.com/track/3hRfRk5bwhrvHkHIE1KVje"
+    },
+    {
+      "album": {
+        "name": "Baddie",
+        "url": "https://open.spotify.com/album/6hboIqWwRiPMYaLWYfDHjq"
+      },
+      "artists": [
+        {
+          "name": "Sara Bee",
+          "url": "https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147678,
+      "name": "Baddie",
+      "url": "https://open.spotify.com/track/3rigBKJ6rkvbBnH95Gn6jf"
     },
     {
       "album": {
@@ -4593,6 +4611,24 @@
     },
     {
       "album": {
+        "name": "Koko Ilta",
+        "url": "https://open.spotify.com/album/6wCYWtrvlaqsDeZ4rrhkXE"
+      },
+      "artists": [
+        {
+          "name": "Yzzy",
+          "url": "https://open.spotify.com/artist/6zhABQrEaXCWh7L721KVPd"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172035,
+      "name": "Koko Ilta",
+      "url": "https://open.spotify.com/track/1GdTpbJcVCL8ZVYzeV4ca6"
+    },
+    {
+      "album": {
         "name": "Koko Matka",
         "url": "https://open.spotify.com/album/0NSZwNM6z7im7xOr4inNwA"
       },
@@ -5544,7 +5580,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 212307,
       "name": "LIIKENTEES",
       "url": "https://open.spotify.com/track/4VO3VnnDTU6vuPgEpESyr1"
@@ -5863,6 +5899,24 @@
     },
     {
       "album": {
+        "name": "L\u00e4htee heti",
+        "url": "https://open.spotify.com/album/0sXroAEaSoA5JR5s8RKnm6"
+      },
+      "artists": [
+        {
+          "name": "TheoFuego",
+          "url": "https://open.spotify.com/artist/0AIfzzVXSeTiPIXNOiuTlD"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178614,
+      "name": "L\u00e4htee heti",
+      "url": "https://open.spotify.com/track/0HZbsvAk8etKqRpk4L7quV"
+    },
+    {
+      "album": {
         "name": "L\u00e4hteny pienest",
         "url": "https://open.spotify.com/album/5udX0HDxXMhlkrwsAnUvcI"
       },
@@ -5954,7 +6008,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 176052,
       "name": "MAGMA",
       "url": "https://open.spotify.com/track/6BO9msDxbgRMT1ud2aLnPw"
@@ -7792,7 +7846,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 191428,
       "name": "Paperihaavoja (feat. Gettomasa)",
       "url": "https://open.spotify.com/track/7LwtWrfbtZhha6PoQMT4z0"
@@ -8991,6 +9045,28 @@
     },
     {
       "album": {
+        "name": "Scifi",
+        "url": "https://open.spotify.com/album/4LxtFlfi4OT261eyRuJrC9"
+      },
+      "artists": [
+        {
+          "name": "M\u00e4kki",
+          "url": "https://open.spotify.com/artist/2510ceejHZpIpxbGpiovch"
+        },
+        {
+          "name": "Jedidi",
+          "url": "https://open.spotify.com/artist/4KEXmcIZn2zW6e1szGrn5y"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149013,
+      "name": "Scifi",
+      "url": "https://open.spotify.com/track/6SZY31ETyZ4qT8NnKG42BO"
+    },
+    {
+      "album": {
         "name": "Les Mains Sales",
         "url": "https://open.spotify.com/album/01MVf6zNOzHwrVoSbEbjJa"
       },
@@ -9604,7 +9680,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 134586,
       "name": "Sunkaa aina",
       "url": "https://open.spotify.com/track/6gaCYt1hIxRX8b4wRal5LT"
@@ -10110,7 +10186,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 138550,
       "name": "Taskut t\u00e4yn",
       "url": "https://open.spotify.com/track/6xcEOAIcuApQ3HsEH3Zrip"
@@ -10768,7 +10844,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 147580,
       "name": "tytt\u00f6 s\u00e4 oot t\u00e4hti",
       "url": "https://open.spotify.com/track/3C8cDaDbL8Rq8shmjFt9Pu"
@@ -11428,7 +11504,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 160560,
       "name": "Viikonloppufaijoi",
       "url": "https://open.spotify.com/track/7o9spcmp8OSa3PErVyx7St"

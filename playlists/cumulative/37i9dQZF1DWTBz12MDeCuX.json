@@ -147,6 +147,24 @@
     },
     {
       "album": {
+        "name": "10 Sekunden",
+        "url": "https://open.spotify.com/album/2BaiALCu9Pfil1oIPodxHy"
+      },
+      "artists": [
+        {
+          "name": "JBS",
+          "url": "https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174033,
+      "name": "10 Sekunden",
+      "url": "https://open.spotify.com/track/277uZsTtRCyTXlGyTGXjlR"
+    },
+    {
+      "album": {
         "name": "10 sqm room",
         "url": "https://open.spotify.com/album/2plFfOFUhmUJHPkPTujDzQ"
       },
@@ -3490,7 +3508,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 170235,
       "name": "babyboy",
       "url": "https://open.spotify.com/track/2SIaZDxvHBxkYLOPQLuLe5"
@@ -5018,7 +5036,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 176880,
       "name": "blaue stunde",
       "url": "https://open.spotify.com/track/2oHwsGocm8rT9fdAl4SKM2"
@@ -6437,6 +6455,24 @@
     },
     {
       "album": {
+        "name": "Coastal Grooves",
+        "url": "https://open.spotify.com/album/5LMfBxAyFy41CavxGAykHR"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292373,
+      "name": "Champagne Coast",
+      "url": "https://open.spotify.com/track/0AIpGG5dxEgnAymhdJRSZ0"
+    },
+    {
+      "album": {
         "name": "Chance",
         "url": "https://open.spotify.com/album/3uRIMQ0MFiqUXujP8tkMcB"
       },
@@ -7498,7 +7534,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 144444,
       "name": "Cringey Doll",
       "url": "https://open.spotify.com/track/64qvYVdK2FQ2ooddDLiaje"
@@ -7570,7 +7606,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 122911,
       "name": "Cumshot",
       "url": "https://open.spotify.com/track/3rkvPrlGZimE8x9VEQeTtI"
@@ -7614,6 +7650,28 @@
       "duration_ms": 172680,
       "name": "Dachlatte - Paul Seul Remix",
       "url": "https://open.spotify.com/track/77dFA7mUovYRHSIE0wLW2O"
+    },
+    {
+      "album": {
+        "name": "daf\u00fcr bin ich frei (feat. Bausa)",
+        "url": "https://open.spotify.com/album/3qb2P3WetqAkqQ5u186pii"
+      },
+      "artists": [
+        {
+          "name": "Zartmann",
+          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
+        },
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166009,
+      "name": "daf\u00fcr bin ich frei (feat. Bausa)",
+      "url": "https://open.spotify.com/track/72hMYvQTGPDYmeg3MwtLFD"
     },
     {
       "album": {
@@ -11524,7 +11582,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 152755,
       "name": "Florenz",
       "url": "https://open.spotify.com/track/74vE9sxMnFuxzp4uDkrwKW"
@@ -15129,6 +15187,24 @@
     },
     {
       "album": {
+        "name": "Humankind",
+        "url": "https://open.spotify.com/album/6IHG8lHGYHGVWfrtBosCJd"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183288,
+      "name": "Humankind",
+      "url": "https://open.spotify.com/track/3LH03hNxNUceSZCUXdgfRm"
+    },
+    {
+      "album": {
         "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
         "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
       },
@@ -16064,6 +16140,24 @@
       "duration_ms": 145667,
       "name": "i'm yours",
       "url": "https://open.spotify.com/track/37vVp2sWHuuIBOSl1NswP6"
+    },
+    {
+      "album": {
+        "name": "icantbelieveiletyougetaway",
+        "url": "https://open.spotify.com/album/4gHGMtnZCgVrTX8j7ccWOM"
+      },
+      "artists": [
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135880,
+      "name": "icantbelieveiletyougetaway",
+      "url": "https://open.spotify.com/track/0QbNbtwJvvqxRxNUYUoMRM"
     },
     {
       "album": {
@@ -19762,7 +19856,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 126986,
       "name": "LIFE FAST (MA3LICH)",
       "url": "https://open.spotify.com/track/1ox9RtfDyijOCqb2NwH91W"
@@ -21524,7 +21618,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 163903,
       "name": "Meine Arme werden taub",
       "url": "https://open.spotify.com/track/0u1SpyMryvxdtYwyfskWJF"
@@ -23950,6 +24044,24 @@
       "duration_ms": 177786,
       "name": "Nie passiert",
       "url": "https://open.spotify.com/track/0XS3HL4TefjXCvW9LnfvVy"
+    },
+    {
+      "album": {
+        "name": "nie vorbei",
+        "url": "https://open.spotify.com/album/4rbLFikPvtb3QhoAmjE6no"
+      },
+      "artists": [
+        {
+          "name": "Verifiziert",
+          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156798,
+      "name": "nie vorbei",
+      "url": "https://open.spotify.com/track/2Db1HUXWAonGtRG7Hf7xeI"
     },
     {
       "album": {
@@ -27959,6 +28071,24 @@
     },
     {
       "album": {
+        "name": "The Golden Age",
+        "url": "https://open.spotify.com/album/7oRzNo0PkoRJlvI9Eocyf2"
+      },
+      "artists": [
+        {
+          "name": "Woodkid",
+          "url": "https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213266,
+      "name": "Run Boy Run",
+      "url": "https://open.spotify.com/track/0boS4e6uXwp3zAvz1mLxZS"
+    },
+    {
+      "album": {
         "name": "All My Demons Greeting Me as a Friend (Deluxe)",
         "url": "https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf"
       },
@@ -30030,7 +30160,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 107076,
       "name": "SLAY!",
       "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
@@ -32454,6 +32584,24 @@
       "duration_ms": 200653,
       "name": "Take me home",
       "url": "https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I"
+    },
+    {
+      "album": {
+        "name": "Franz Ferdinand",
+        "url": "https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237026,
+      "name": "Take Me Out",
+      "url": "https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN"
     },
     {
       "album": {
@@ -37440,7 +37588,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 163500,
       "name": "wie du mich mochtest",
       "url": "https://open.spotify.com/track/5nXK0rMLRuPNSMYawoe3N2"

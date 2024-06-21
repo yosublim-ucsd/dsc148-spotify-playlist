@@ -892,7 +892,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 207708,
       "name": "Forever",
       "url": "https://open.spotify.com/track/3w0UpkLT8xMKX0HqBkLUQV"
@@ -2672,6 +2672,28 @@
       "duration_ms": 199673,
       "name": "Relieve Pressure",
       "url": "https://open.spotify.com/track/6j0KqhTRDYjJVqy6q80PvR"
+    },
+    {
+      "album": {
+        "name": "Restore",
+        "url": "https://open.spotify.com/album/0JJ9lKygS0p1pZfLn7Bzc6"
+      },
+      "artists": [
+        {
+          "name": "mau from nowhere",
+          "url": "https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf"
+        },
+        {
+          "name": "Jay James",
+          "url": "https://open.spotify.com/artist/7kqlFgn7tqLufAULiv8kJE"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147473,
+      "name": "Restore",
+      "url": "https://open.spotify.com/track/5I6M34H6mOxG9ulDRZJLIz"
     },
     {
       "album": {

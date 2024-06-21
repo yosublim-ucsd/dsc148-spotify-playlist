@@ -2,7 +2,7 @@
 
 ### [This Is Pennywise](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3IcblQ)
 
-> This Is Pennywise\. Los temas esenciales, todos en una lista.
+> This is Pennywise\. The essential tracks, all in one playlist.
 
 57 songs - 2 hr 43 min
 

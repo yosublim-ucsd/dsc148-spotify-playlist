@@ -3031,6 +3031,32 @@
     },
     {
       "album": {
+        "name": "TAMKA",
+        "url": "https://open.spotify.com/album/0GRbPG5tc7WfLA0ulH0KS6"
+      },
+      "artists": [
+        {
+          "name": "QNT",
+          "url": "https://open.spotify.com/artist/4LuFOXq87Tg0JSl5U7yxFZ"
+        },
+        {
+          "name": "Wxrdie",
+          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
+        },
+        {
+          "name": "Mason Nguyen",
+          "url": "https://open.spotify.com/artist/2s5hnhD9L1iohSpPZKnOhv"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205605,
+      "name": "TAMKA",
+      "url": "https://open.spotify.com/track/2iBH5yoNHVqr6V3YzLOVyM"
+    },
+    {
+      "album": {
         "name": "Rapitalove",
         "url": "https://open.spotify.com/album/3ULu7EK5sl1zUdx2r7D15E"
       },
@@ -3164,7 +3190,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 198788,
       "name": "Thi\u00eau Th\u00e2n",
       "url": "https://open.spotify.com/track/2QyOYFAxW2khNYee4yeT6r"

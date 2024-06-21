@@ -2,9 +2,9 @@
 
 ### [Cantautores](https://open.spotify.com/playlist/37i9dQZF1DX8oh7peUXg5S)
 
-> El don de cantar y componer, una playlist llena de talento\. Foto: Silvio Rodríguez.
+> El don de cantar y componer, una playlist llena de talento\. Foto: Andrés Suárez.
 
-294 songs - 18 hr 45 min
+295 songs - 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Interludio para mi Julita](https://open.spotify.com/track/7HStg28f1GBPvMY1WkPVTY) | [Rupatrupa](https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei) | [Interludio para mi Julita](https://open.spotify.com/album/3C6poAVbvKcs2CY8P2SzwH) | 1:29 | 2023-08-10 | 2023-09-15 |
 | [Isla Mujeres](https://open.spotify.com/track/18uARsQnALp0MbkEXbR99v) | [Javier Ruibal](https://open.spotify.com/artist/2BGKgfF1cNY6KyfTfS3sVE) | [Las Damas Primero](https://open.spotify.com/album/4kg5YpAPT65X9ci6QVQl5t) | 4:46 | 2022-06-09 | 2022-07-28 |
 | [Jugar a Vivir](https://open.spotify.com/track/1QlZUoChINBN5BMRmZF0sS) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Camino al Sol](https://open.spotify.com/album/1XuG26LABHJVOLlf8VqkSN) | 3:45 | 2022-06-30 | 2022-09-15 |
-| [L'estaca](https://open.spotify.com/track/6V6p3kX685TlL51aeSgzpa) | [Lluis Llach](https://open.spotify.com/artist/3zVGMz661UQBxwt04UIYV0) | [Les Seves Primeres Cançons](https://open.spotify.com/album/1tuHQ9D9yAyauHsmnWK3Ke) | 2:24 | 2024-05-21 |  |
+| [L'estaca](https://open.spotify.com/track/6V6p3kX685TlL51aeSgzpa) | [Lluis Llach](https://open.spotify.com/artist/3zVGMz661UQBxwt04UIYV0) | [Les Seves Primeres Cançons](https://open.spotify.com/album/1tuHQ9D9yAyauHsmnWK3Ke) | 2:24 | 2024-05-21 | 2024-06-21 |
 | [La Belleza](https://open.spotify.com/track/5oMnRH2HJ3N3leLRh3AWCw) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Auterretratos](https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv) | 3:53 | 2022-06-09 | 2022-07-29 |
 | [La Cara Amable del Mundo](https://open.spotify.com/track/5Ay3mcEIMGxYIIerQtO3Sh) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [El Abrazo](https://open.spotify.com/album/2dSkUbpQomxuCshAMKSt18) | 3:58 | 2024-04-25 |  |
 | [la corriente](https://open.spotify.com/track/3wFJRE20CNfzL0CqRj45Vn) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [chiquita](https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK) | 2:55 | 2022-06-09 | 2022-07-29 |
@@ -209,6 +209,7 @@
 | [Pasaba por Aqui](https://open.spotify.com/track/6XhZIUzlCGABARgSgZby2v) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Auterretratos](https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv) | 2:52 | 2023-02-16 | 2024-01-29 |
 | [Peces de Ciudad \(feat\. Pablo López\)](https://open.spotify.com/track/7sLYuvEf4lqz6zSnjYBkkP) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Pablo López](https://open.spotify.com/artist/4uyqaioPEdClDxU6zvYlAZ) | [Peces de Ciudad \(feat\. Pablo López\)](https://open.spotify.com/album/1z62EMbonbN8m5fjpzT9cn) | 6:30 | 2022-06-09 |  |
 | [Pelea](https://open.spotify.com/track/6QR5lxnnoHQYp2mzPaQLoA) | [Zenet](https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i) | [Pelea](https://open.spotify.com/album/4qdxRH2Bky1scYkme2xAY9) | 4:21 | 2024-03-21 | 2024-05-10 |
+| [Pienso en ti \- Sesiones Moraima 2](https://open.spotify.com/track/2KerP0uIno08ZTvG5lDv8H) | [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe) | [Pienso en ti \(Sesiones Moraima 2\)](https://open.spotify.com/album/6ApaVcN0OP4DWSwgQuq58a) | 3:43 | 2024-06-20 |  |
 | [Poetas Andaluces \(I Parte\)](https://open.spotify.com/track/61l9BfUUnFcrXFnC6smGBB) | [Aguaviva](https://open.spotify.com/artist/1e5nxeHvABiwpD6UG5J21f) | [Poetas Andaluces](https://open.spotify.com/album/04oTnscF3tloAc3mTRYLTt) | 2:07 | 2022-06-09 | 2022-06-19 |
 | [Por el Bulevar de los Sueños Rotos](https://open.spotify.com/track/7KcFlbQmzhVczGMor3Fhr9) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Esta Boca Es Mia](https://open.spotify.com/album/5PRLhyzly43RBl6ZAeydzk) | 3:58 | 2022-06-09 |  |
 | [Por qué te vas](https://open.spotify.com/track/3Gj5CDzCdq01ftkxGxhdeH) | [javier álvarez](https://open.spotify.com/artist/7npPHFVavArmlInnza5R5n) | [Las 100 mejores canciones del Pop Español](https://open.spotify.com/album/4T1zaLt2uHXf8qAscsSP60) | 2:54 | 2022-06-09 | 2022-07-27 |

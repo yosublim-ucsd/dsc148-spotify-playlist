@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "A Day At The Beach",
+        "url": "https://open.spotify.com/album/7wpTO72kasTDkgYvYT20rc"
+      },
+      "artists": [
+        {
+          "name": "Iris Fairchild",
+          "url": "https://open.spotify.com/artist/4y0LLz0nnu6BQoaFI1zcUa"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111129,
+      "name": "A Day At The Beach",
+      "url": "https://open.spotify.com/track/23Z4PVfXLICGRdktm9B2Og"
+    },
+    {
+      "album": {
         "name": "A Dream is a Wish Your Heart Makes",
         "url": "https://open.spotify.com/album/2pCLp3sqJ72I9xSHEHLXhx"
       },
@@ -196,7 +214,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 119813,
       "name": "A Simple Song",
       "url": "https://open.spotify.com/track/5ibZnKYtxlgPJDQpGusOuV"
@@ -4401,6 +4419,24 @@
     },
     {
       "album": {
+        "name": "I'll Keep You Safe",
+        "url": "https://open.spotify.com/album/59pEC7fdfo18q7vdJJZhba"
+      },
+      "artists": [
+        {
+          "name": "Myl\u00e8ne Longet",
+          "url": "https://open.spotify.com/artist/5G2SmKRUvFUlfiSK3nEM3x"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112328,
+      "name": "I'll Keep You Safe",
+      "url": "https://open.spotify.com/track/0cIhHdNpNzYTcAQGWD7ReJ"
+    },
+    {
+      "album": {
         "name": "I'm a Little Teapot",
         "url": "https://open.spotify.com/album/3377A3R0RDI7tKJyTHfyH4"
       },
@@ -6054,6 +6090,24 @@
       "duration_ms": 102984,
       "name": "Moonlit Cradle",
       "url": "https://open.spotify.com/track/7JJ8VKdFWMD14OYxishmdi"
+    },
+    {
+      "album": {
+        "name": "Moonrise",
+        "url": "https://open.spotify.com/album/6ccGQxmNWnDKOyr2WhrrSh"
+      },
+      "artists": [
+        {
+          "name": "Jenn Higgins",
+          "url": "https://open.spotify.com/artist/1osOMrNNhLsHInJWbS6ejR"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149324,
+      "name": "Moonrise",
+      "url": "https://open.spotify.com/track/5sydmDGjOdyyqPjgyuoVIC"
     },
     {
       "album": {

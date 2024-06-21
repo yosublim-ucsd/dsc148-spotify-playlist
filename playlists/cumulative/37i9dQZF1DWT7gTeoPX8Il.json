@@ -424,7 +424,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 258497,
       "name": "Bukan Karena Tak Cinta",
       "url": "https://open.spotify.com/track/66mmXcrSk8HfyIf28hRGIT"
@@ -601,6 +601,24 @@
     },
     {
       "album": {
+        "name": "Daur Hidup",
+        "url": "https://open.spotify.com/album/6LVBF7LOvsD1vpacxXS1VI"
+      },
+      "artists": [
+        {
+          "name": "Donne Maula",
+          "url": "https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162739,
+      "name": "Daur Hidup",
+      "url": "https://open.spotify.com/track/2CfL8YlJXQ6DYMjCqMVull"
+    },
+    {
+      "album": {
         "name": "Dawai (From \"Air Mata Di Ujung Sajadah\")",
         "url": "https://open.spotify.com/album/4eRO6qTZCzTqibBy1j9lHz"
       },
@@ -652,6 +670,28 @@
       "duration_ms": 189416,
       "name": "Denting",
       "url": "https://open.spotify.com/track/4i7xD6pmEaV25wL6K7Pjd0"
+    },
+    {
+      "album": {
+        "name": "Dibalas Dengan Dusta",
+        "url": "https://open.spotify.com/album/5o7eHNTm5x3FWatqCvAMqI"
+      },
+      "artists": [
+        {
+          "name": "Glenn Fredly",
+          "url": "https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9"
+        },
+        {
+          "name": "Andi Rianto",
+          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245018,
+      "name": "Dibalas Dengan Dusta",
+      "url": "https://open.spotify.com/track/75nN4aNv69urbVgIAPCYxR"
     },
     {
       "album": {
@@ -782,7 +822,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 216666,
       "name": "Enigma",
       "url": "https://open.spotify.com/track/5TNxowmJvQ40GLZ0wqHJvG"
@@ -800,7 +840,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 239542,
       "name": "Erti Rindu",
       "url": "https://open.spotify.com/track/7iU50xWNaClxhcemANdb97"
@@ -858,6 +898,28 @@
       "duration_ms": 272001,
       "name": "Hancur Lebih Dulu",
       "url": "https://open.spotify.com/track/4nAoRD9mWgB5QvzKz27oqP"
+    },
+    {
+      "album": {
+        "name": "Berbunga",
+        "url": "https://open.spotify.com/album/2gIrUfBxknVo9vQRL9Gp42"
+      },
+      "artists": [
+        {
+          "name": "Aruma",
+          "url": "https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1"
+        },
+        {
+          "name": "Naim Daniel",
+          "url": "https://open.spotify.com/artist/5PCDJjJ5dx6Py83CvfvRIO"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287159,
+      "name": "Hanya Kita",
+      "url": "https://open.spotify.com/track/2qchRFTfBuqXa9jCDs6GFX"
     },
     {
       "album": {
@@ -966,7 +1028,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 215989,
       "name": "isi kepalaku",
       "url": "https://open.spotify.com/track/373ei1mlMWzYgS5QS6oXoZ"
@@ -1027,6 +1089,24 @@
     },
     {
       "album": {
+        "name": "Jangan Pergi",
+        "url": "https://open.spotify.com/album/6tmZE1EJbITNUaTMns4eak"
+      },
+      "artists": [
+        {
+          "name": "One Avenue Band",
+          "url": "https://open.spotify.com/artist/01YmHxZRGiIYkpie1oyB5b"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343937,
+      "name": "Jangan Pergi",
+      "url": "https://open.spotify.com/track/2faSHQDkP2AMv637Khx29U"
+    },
+    {
+      "album": {
         "name": "Janji",
         "url": "https://open.spotify.com/album/7f87l3L1BTflTiVzOJW2tT"
       },
@@ -1038,10 +1118,28 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 201014,
       "name": "Janji",
       "url": "https://open.spotify.com/track/3hOpwGiUyGB4sWvXLX5yGU"
+    },
+    {
+      "album": {
+        "name": "Nadhif",
+        "url": "https://open.spotify.com/album/19zDJ0Nd8Xfv7ctcQrlT5k"
+      },
+      "artists": [
+        {
+          "name": "Nadhif Basalamah",
+          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248972,
+      "name": "jatuh cinta lagi",
+      "url": "https://open.spotify.com/track/6ACqXjnh3C5pXTEFN5vPBE"
     },
     {
       "album": {
@@ -1114,6 +1212,24 @@
       "duration_ms": 278219,
       "name": "Jiwa Yang Bersedih",
       "url": "https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0"
+    },
+    {
+      "album": {
+        "name": "Kala Tiba (Nafsu Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5vzj17JlYoF8J77CMZowUy"
+      },
+      "artists": [
+        {
+          "name": "Marsha Milan",
+          "url": "https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Kala Tiba - (Nafsu Original Soundtrack)",
+      "url": "https://open.spotify.com/track/6qAG6TTtxyzxzVsDuoTFFx"
     },
     {
       "album": {
@@ -1446,7 +1562,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 225829,
       "name": "Luka Ini",
       "url": "https://open.spotify.com/track/0QGSp7NwxBAkNrKQgcwNLL"
@@ -1482,7 +1598,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 169844,
       "name": "Makna Cintamu",
       "url": "https://open.spotify.com/track/6F1IbZ1FLEvcB6SgwsjXEE"
@@ -1500,7 +1616,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 203023,
       "name": "Masa Lalu",
       "url": "https://open.spotify.com/track/3VgPPdCVUKW1Sf67qeHxaC"
@@ -1714,7 +1830,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 292978,
       "name": "Memori Mungkin Berulang",
       "url": "https://open.spotify.com/track/3pl40Ydg5n06iHaseRZvXH"
@@ -1863,6 +1979,24 @@
     },
     {
       "album": {
+        "name": "Musnah",
+        "url": "https://open.spotify.com/album/0vfyJDfiIfk9X4lhKob7w2"
+      },
+      "artists": [
+        {
+          "name": "Danial Kifli",
+          "url": "https://open.spotify.com/artist/1M0tSSp60yHTRB36GTofGx"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239073,
+      "name": "Musnah",
+      "url": "https://open.spotify.com/track/3rznXO6e3t8WgvsR2ZOmKK"
+    },
+    {
+      "album": {
         "name": "Nanti Kita Seperti Ini",
         "url": "https://open.spotify.com/album/2UF7W9r1nqberWW2Bkx4ZT"
       },
@@ -1914,7 +2048,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-17",
+      "date_removed": null,
       "duration_ms": 268534,
       "name": "Orang Yang Sama",
       "url": "https://open.spotify.com/track/0z7jhodL97W88al5OI1zh1"
@@ -2004,7 +2138,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 217626,
       "name": "Pelangi",
       "url": "https://open.spotify.com/track/3ZwqWrRpylU9nfy99qwKdR"
@@ -2182,6 +2316,24 @@
       "duration_ms": 228055,
       "name": "SAH",
       "url": "https://open.spotify.com/track/6PGx1glZXYFGVppfHlCQqc"
+    },
+    {
+      "album": {
+        "name": "Berbunga",
+        "url": "https://open.spotify.com/album/2gIrUfBxknVo9vQRL9Gp42"
+      },
+      "artists": [
+        {
+          "name": "Aruma",
+          "url": "https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274506,
+      "name": "Salam Perpisahan",
+      "url": "https://open.spotify.com/track/7JfPwAK5GSnUDoFU3nSSsg"
     },
     {
       "album": {
@@ -2510,7 +2662,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 224776,
       "name": "Separuh Jiwaku Mati",
       "url": "https://open.spotify.com/track/2Z5tMzBcdNUqgN38gIFIpg"
@@ -2805,6 +2957,24 @@
     },
     {
       "album": {
+        "name": "Tangis",
+        "url": "https://open.spotify.com/album/1gqV1sVlPlXKzrShXJ0aBb"
+      },
+      "artists": [
+        {
+          "name": "Nabila Razali",
+          "url": "https://open.spotify.com/artist/2yWleHZF4HaaNjmiU8snKO"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215368,
+      "name": "Tangis",
+      "url": "https://open.spotify.com/track/48bY0txTRuOJdMrbQu7O0W"
+    },
+    {
+      "album": {
         "name": "Kenyataan Perasaan",
         "url": "https://open.spotify.com/album/61AGUY22dIy89vcxCUvC00"
       },
@@ -2910,7 +3080,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 289571,
       "name": "Tetap Ku Cinta",
       "url": "https://open.spotify.com/track/7CyIlxl56oUCWtjfnH4S6Q"

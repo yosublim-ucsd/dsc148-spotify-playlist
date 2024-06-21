@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-778 songs - 1 day 9 hr 36 min
+781 songs - 1 day 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,12 +26,12 @@
 | [Across The Fields](https://open.spotify.com/track/7wCRPgEya03UoasCTb5BlA) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Across The Fields](https://open.spotify.com/album/2ocOyVhHiaO0BAXOzI7auu) | 2:22 | 2022-05-27 | 2022-09-23 |
 | [Adelita](https://open.spotify.com/track/5AI6zlfccr8OZBUDT996F9) | [Juan Jose Moreno](https://open.spotify.com/artist/4hQDTsoE4V7uoOvtvxp12P) | [Adelita](https://open.spotify.com/album/1uPC9jQL9J7q8SsjxuphpP) | 2:04 | 2023-03-10 |  |
 | [Adenau](https://open.spotify.com/track/2waJ83UhXRZ77H5Dy6vc8E) | [Mac Lawlor](https://open.spotify.com/artist/0GaniHLie4Bik5osPQxfM3) | [Adenau](https://open.spotify.com/album/2oLQpBfyl20At9mH75t59L) | 3:52 | 2021-12-08 | 2022-11-26 |
-| [Aegean](https://open.spotify.com/track/6cz8KGBcdCg0V095WH7prM) | [Ale Imke](https://open.spotify.com/artist/3zs6LXRTOTwSP8r38kQxSy) | [Aegean](https://open.spotify.com/album/4UGR9mcZoSuhvybQmz9CwJ) | 2:00 | 2022-10-28 |  |
+| [Aegean](https://open.spotify.com/track/6cz8KGBcdCg0V095WH7prM) | [Ale Imke](https://open.spotify.com/artist/3zs6LXRTOTwSP8r38kQxSy) | [Aegean](https://open.spotify.com/album/4UGR9mcZoSuhvybQmz9CwJ) | 2:00 | 2022-10-28 | 2024-06-21 |
 | [Afgangurinn](https://open.spotify.com/track/6bploBGfSJclJuxjV65t3r) | [Aiday Ainur](https://open.spotify.com/artist/5BuB7CRnNJKxzSsu6Mznbj) | [Afgangurinn](https://open.spotify.com/album/711Vy0KS3fmb4K2rgMtP6x) | 2:03 | 2022-10-07 |  |
 | [Afterglow](https://open.spotify.com/track/0g6ooNqnQPI231K12NymuV) | [Leo Vara](https://open.spotify.com/artist/3f2LfaBv92I0qjmfU6fseT) | [Bordeaux](https://open.spotify.com/album/0yU3pYIPQBNVNhEisrJwe6) | 2:38 | 2022-04-05 | 2023-05-26 |
 | [Afternoon in May](https://open.spotify.com/track/1FcvorbsrplfCxOX3ch77B) | [Michelle Qureshi](https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG) | [Within](https://open.spotify.com/album/65eOKdl0MxptxgnpDiM8ax) | 2:22 | 2024-02-02 |  |
 | [Ain't Nothing But A Mistake](https://open.spotify.com/track/0Sn18IA6XwtXLkLeBoQFa2) | [Dawn Geller](https://open.spotify.com/artist/0HSRJAuF3aNdrbivhOb9SC) | [Ain't Nothing But A Mistake](https://open.spotify.com/album/2dOWa0Ss7pgUtBa6x0pPSE) | 3:21 | 2022-02-15 | 2024-04-05 |
-| [Akturu](https://open.spotify.com/track/4DTnXXYGPuef1H8aa1R0nA) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Akturu](https://open.spotify.com/album/3zPx6U036ddROrp6lG0XKV) | 3:00 | 2022-08-19 |  |
+| [Akturu](https://open.spotify.com/track/4DTnXXYGPuef1H8aa1R0nA) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Akturu](https://open.spotify.com/album/3zPx6U036ddROrp6lG0XKV) | 3:00 | 2022-08-19 | 2024-06-21 |
 | [Albatroz](https://open.spotify.com/track/6pkOGtH05w1pZh7oF7l7rA) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Albatroz](https://open.spotify.com/album/5erw9xZgmumf9gY3BuDpDb) | 2:41 | 2024-06-07 |  |
 | [Alegría](https://open.spotify.com/track/4EknSwO7h0DapEHV5G2vys) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Alegría](https://open.spotify.com/album/2UUxdIpFuyKudZgrUNZA6U) | 2:34 | 2022-12-09 | 2024-04-20 |
 | [Alexandria](https://open.spotify.com/track/6VBcvDRVk9dPAVkA9Katq8) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Alexandria](https://open.spotify.com/album/40l2y3r9iYUVkxTrA5yYU1) | 2:38 | 2022-11-18 | 2023-06-03 |
@@ -132,6 +132,7 @@
 | [CLEVELAND, OH](https://open.spotify.com/track/7xAGtSGZCmzZ4gkJetmnoq) | [Brad Barr](https://open.spotify.com/artist/6FHxCoGlbKV6cvqO2AMaKv) | [THE WINTER MISSION](https://open.spotify.com/album/05dhqFgu0AVrq1qMjHhcfq) | 1:34 | 2022-05-10 | 2023-08-19 |
 | [Closing](https://open.spotify.com/track/4ZGhVe2y4ze5G92JDnZRPc) | [Ryohei Shimoyama](https://open.spotify.com/artist/22rBJY8j8xwmBm0Iml3Cgt) | [Closing](https://open.spotify.com/album/1F7KG7KmDpd9lGRNquqUMU) | 2:14 | 2021-12-08 | 2022-05-11 |
 | [Coma Pedrosa](https://open.spotify.com/track/51cywj6ZBciJT6xKDm9wyV) | [Victor Alvida](https://open.spotify.com/artist/6Fw6K0ReXC3BS6IrmJU96R) | [Coma Pedrosa](https://open.spotify.com/album/0Eo35G5FqMSC4T1hKVnLw4) | 2:18 | 2021-12-08 | 2022-11-18 |
+| [Come Along With Me](https://open.spotify.com/track/59mSogpbORbcJ553OwVge7) | [Solomon Davis](https://open.spotify.com/artist/1UsbAYI6GPRqkeH7BEWkBl) | [Come Along With Me](https://open.spotify.com/album/25GeI3ZxVRMfA55RxoYNPR) | 2:43 | 2024-06-21 |  |
 | [Come Fly With Me Honey](https://open.spotify.com/track/7HN2vETJEPbxhw30y995xC) | [Jonnie Snoilsky](https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4) | [Come Fly With Me Honey](https://open.spotify.com/album/6XnJ5XN93ZvJa9JVBWScQo) | 1:50 | 2021-12-08 | 2022-05-11 |
 | [Come Join Me For A Coffee](https://open.spotify.com/track/6VnnTqt2OpuS0UtAJnBPcU) | [Peter Netz](https://open.spotify.com/artist/2IrjMzbLiQJ60OBz4dk1ui) | [Come Join Me For A Coffee](https://open.spotify.com/album/4nGG1PsFoQrDM1qR5x0md4) | 3:04 | 2021-12-08 | 2024-04-05 |
 | [Comfort Me](https://open.spotify.com/track/3VR78tnaSa1owd7xP9hA2K) | [Ceriumidis](https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ) | [Comfort Me](https://open.spotify.com/album/1Ub90Zjn7J7amOBicYwUQ2) | 2:12 | 2024-02-02 |  |
@@ -386,6 +387,7 @@
 | [Let Me Reach That Mountain](https://open.spotify.com/track/11jFSuok2S4g04ziCBd44w) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [Let Me Reach That Mountain](https://open.spotify.com/album/63QYtDWsFzy2yxYvMPcnCT) | 3:31 | 2021-12-08 | 2023-02-11 |
 | [Liberty Citadel](https://open.spotify.com/track/5eUiPRtlLZ3RsiueUsEF7c) | [lili may](https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a) | [Liberty Citadel](https://open.spotify.com/album/2SwSwKTalOQfps83H33y2b) | 2:36 | 2022-08-19 |  |
 | [Life In Harmony](https://open.spotify.com/track/2lkyqgKBQiDCY2sr4Yb2c5) | [Enrico Carmona](https://open.spotify.com/artist/2OLPnV33rp4wu202KB7ini) | [Life In Harmony](https://open.spotify.com/album/0Tr2bKHuN6P1SlBU7R5tp3) | 2:08 | 2022-12-09 | 2023-04-21 |
+| [Light and Shadow](https://open.spotify.com/track/37CI7f1K9z8sPBbXfCTUkD) | [Auguste Braun](https://open.spotify.com/artist/5hPDT99ovB977bWVy6oJIc) | [Light and Shadow](https://open.spotify.com/album/4rxHOblHlIChJOhXc4JQfX) | 2:25 | 2024-06-21 |  |
 | [Light Rain](https://open.spotify.com/track/78k8bk96GLr61Y4fp1K6Io) | [Alessandro Minci](https://open.spotify.com/artist/3sjBbv6BttORQh4rrqmsrl) | [Light Rain](https://open.spotify.com/album/7J867UR9iSCI86N70IIsA5) | 3:54 | 2022-06-10 | 2022-10-29 |
 | [Light Touch](https://open.spotify.com/track/7DRiHX3VXNCkhDxtUsy6YX) | [Emanuel Nord](https://open.spotify.com/artist/2Gq8NLA4bUFNMCLKB1kx83) | [Light Touch](https://open.spotify.com/album/5cAJ8glKeq4tXSdlkjDAgj) | 1:42 | 2022-08-19 | 2023-08-19 |
 | [Like A Tourist On Caminito](https://open.spotify.com/track/6alGPVL0zYvetBZiSULNiP) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Like A Tourist On Caminito](https://open.spotify.com/album/3PDesyI19q0YPY8VBjZvnd) | 3:54 | 2021-12-08 | 2022-07-08 |
@@ -595,6 +597,7 @@
 | [Seed of Perfection](https://open.spotify.com/track/0kAHMCRN2lFkDnwhedKl1M) | [Lavelle Barber](https://open.spotify.com/artist/09NZ6wf6hcbml8X1aPwyEX) | [Seed of Perfection](https://open.spotify.com/album/3zX0E0myYc2mtjWGVJzffI) | 2:39 | 2022-08-19 | 2023-03-25 |
 | [Seerosen Teich](https://open.spotify.com/track/1DOjcrbaQbzU2zyHbBg5KM) | [Marco Tournesol](https://open.spotify.com/artist/1CpSnAYIqeAWZVDyWDqxws) | [Seerosen Teich](https://open.spotify.com/album/3Tsldk3OSEHytaICuSND55) | 2:57 | 2021-12-08 | 2022-04-06 |
 | [Sense of narrative](https://open.spotify.com/track/0KDz1JWVTq6oKKflHHlmZD) | [Africa Levine](https://open.spotify.com/artist/5PAXHtHmQBQWOpMN2ukyow) | [Sense of narrative](https://open.spotify.com/album/2nAHczJyLyaoAZEMxqqwVj) | 2:00 | 2023-12-15 |  |
+| [sentiments](https://open.spotify.com/track/62VmSlpm9TVeHtl03TwdaD) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [sentiments](https://open.spotify.com/album/3XBvnBJQCpBfWgFKi6KXo7) | 2:11 | 2024-06-21 |  |
 | [serenades](https://open.spotify.com/track/4QI998cXoXoHhDU2tQx0mB) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [serenades](https://open.spotify.com/album/1m2P646u6G7JsazHkDgLG4) | 1:41 | 2022-07-08 | 2022-09-09 |
 | [Serene Skies](https://open.spotify.com/track/5rvvtkkXrd8jvosvE0jJj0) | [Hannah Westman](https://open.spotify.com/artist/0fRVato4gM8ssGJnXoV6dS) | [Serene Skies](https://open.spotify.com/album/2u8VTwNX8BXBTGRfAQf2x6) | 2:03 | 2023-08-10 | 2024-05-25 |
 | [Serengeti](https://open.spotify.com/track/4yoILdPVTyiwWkJQfXqshB) | [Neve Baker](https://open.spotify.com/artist/40E7LcjmJufJCHiaxXzBfT) | [Serengeti](https://open.spotify.com/album/4fEskCIrZkg9C4yPWn7XsZ) | 2:34 | 2023-05-12 | 2024-05-25 |
@@ -608,7 +611,7 @@
 | [Shadows and Sunlight](https://open.spotify.com/track/3b2eNZja0ok5k8QQjn3ezu) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [Shadows and Sunlight](https://open.spotify.com/album/48ererOiL22UHujflBgt0r) | 2:56 | 2024-04-05 |  |
 | [Share My Burden](https://open.spotify.com/track/4zrE3bK51nBFR3lA32AADH) | [Pete Harris](https://open.spotify.com/artist/1lw09BJ43yAgXRP8EtUiQQ) | [Share My Burden](https://open.spotify.com/album/4StzfazKpweUdCP3Ei0QH8) | 3:49 | 2022-10-28 | 2023-03-25 |
 | [Sharing the Message](https://open.spotify.com/track/6uQ455iD5ovinVMKWuGbVu) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Sharing the Message](https://open.spotify.com/album/23Fi6Kuce1QLJOZLjTYwbl) | 2:56 | 2024-04-19 |  |
-| [Shoes Filled With Water](https://open.spotify.com/track/2yYjoMurH5WOclS46dZU7c) | [Peter Netz](https://open.spotify.com/artist/2IrjMzbLiQJ60OBz4dk1ui) | [Shoes Filled With Water](https://open.spotify.com/album/1wN4NcPAER9ivsoqj5h3yi) | 3:33 | 2022-03-18 |  |
+| [Shoes Filled With Water](https://open.spotify.com/track/2yYjoMurH5WOclS46dZU7c) | [Peter Netz](https://open.spotify.com/artist/2IrjMzbLiQJ60OBz4dk1ui) | [Shoes Filled With Water](https://open.spotify.com/album/1wN4NcPAER9ivsoqj5h3yi) | 3:33 | 2022-03-18 | 2024-06-21 |
 | [Showers of Peace](https://open.spotify.com/track/4bs9xDSrypNaBwr5gpz13t) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Showers of Peace](https://open.spotify.com/album/4dMEHoghOzPnQajEqi0nKn) | 2:41 | 2022-03-25 | 2024-04-05 |
 | [Siena](https://open.spotify.com/track/6hebly36sQyqXZerurmsuO) | [Marcus Larsen](https://open.spotify.com/artist/3VvLdbNVbOdEcCrsmaOfYX) | [Siena](https://open.spotify.com/album/7uBcvHDsSXkR6m5CSHqCFJ) | 2:11 | 2021-12-08 | 2022-04-22 |
 | [Signum](https://open.spotify.com/track/70Z6rUWqzQha0RMFcyJIiJ) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Signum](https://open.spotify.com/album/49dELtri6eKyk7Dq2zIqQB) | 2:35 | 2022-08-05 | 2022-11-18 |
@@ -649,7 +652,7 @@
 | [Spring sun](https://open.spotify.com/track/5MHaEZ4fKUkGRfqAWrLcyi) | [Alessandro Minci](https://open.spotify.com/artist/3sjBbv6BttORQh4rrqmsrl) | [Spring Sun](https://open.spotify.com/album/5hyIXz4iIe2ljbGiXcSte1) | 4:58 | 2022-05-27 | 2022-07-22 |
 | [Springwood Ranch](https://open.spotify.com/track/1LxPHwvy8xUaZUXJoGHiaD) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Springwood Ranch](https://open.spotify.com/album/2phvXSYBb8eODAavj4iplL) | 2:54 | 2023-08-10 |  |
 | [Stairs](https://open.spotify.com/track/6ufsRNZjLydBXfncTkZ9ut) | [Benjamins Friend](https://open.spotify.com/artist/54Pp9oG56ETWzr0DC65tld) | [Stairs](https://open.spotify.com/album/2mQcf2bqjYpNPbEfZw1ql5) | 2:40 | 2022-12-23 | 2023-05-26 |
-| [Stando Solo](https://open.spotify.com/track/2kPLnIedP1tABSr0zwJwL3) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Stando Solo](https://open.spotify.com/album/5KXSQosrVZTcDVYf1N78G1) | 2:36 | 2022-06-24 |  |
+| [Stando Solo](https://open.spotify.com/track/2kPLnIedP1tABSr0zwJwL3) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Stando Solo](https://open.spotify.com/album/5KXSQosrVZTcDVYf1N78G1) | 2:36 | 2022-06-24 | 2024-06-21 |
 | [Starting Over](https://open.spotify.com/track/5Nd54oYpiYxUh3bQcT9PtE) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Starting Over](https://open.spotify.com/album/6h8H91TDC4VG1G10ci3zlq) | 1:52 | 2021-12-08 | 2022-04-22 |
 | [Steps ahead](https://open.spotify.com/track/38HxNjQa0seDx02w8fEhLM) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Steps ahead](https://open.spotify.com/album/0XJK0qLoz7yt1v6CskH7E0) | 2:49 | 2024-04-19 |  |
 | [Stilla skymning](https://open.spotify.com/track/36WuY4qGl7hAxof1KlLpFf) | [Adrian Edblad](https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW) | [Stilla skymning](https://open.spotify.com/album/4uy9JXHwv8Hmnn21LorsMm) | 1:50 | 2022-10-07 | 2023-02-11 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Arag\u00e3o",
+  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Murta, ROCKY",
   "name": "Seda",
   "tracks": [
     {
@@ -1180,7 +1180,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 158500,
       "name": "Balan\u00e7o",
       "url": "https://open.spotify.com/track/3BztRRXfI7cdknMdwYiHA8"
@@ -1700,6 +1700,24 @@
       "duration_ms": 182550,
       "name": "BUNUNU",
       "url": "https://open.spotify.com/track/27RbLCNT9NqJFAqkCD2dEq"
+    },
+    {
+      "album": {
+        "name": "Buqu\u00ea",
+        "url": "https://open.spotify.com/album/39kMDoYl921jg7b6rtnHtX"
+      },
+      "artists": [
+        {
+          "name": "Deejay Telio",
+          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211584,
+      "name": "Buqu\u00ea",
+      "url": "https://open.spotify.com/track/2A6bDFeIrQovC2fHPa5ws7"
     },
     {
       "album": {
@@ -2587,6 +2605,28 @@
     },
     {
       "album": {
+        "name": "Contra Probabilidades",
+        "url": "https://open.spotify.com/album/2w1V6Gjc1HVZ6TGYMlzqT8"
+      },
+      "artists": [
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        },
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203082,
+      "name": "Contra Probabilidades",
+      "url": "https://open.spotify.com/track/5nYYQ85x9DwEiEpETQNlNC"
+    },
+    {
+      "album": {
         "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
         "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
       },
@@ -2696,6 +2736,24 @@
       "duration_ms": 185567,
       "name": "Corre",
       "url": "https://open.spotify.com/track/3B0kyiBOoB8DEwnuYnlk3y"
+    },
+    {
+      "album": {
+        "name": "Credo",
+        "url": "https://open.spotify.com/album/6QKiftBhtPna757ems3oE2"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Maia Ferreira",
+          "url": "https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215161,
+      "name": "Credo",
+      "url": "https://open.spotify.com/track/5QRdKPh18pJHdlIRjqEr8d"
     },
     {
       "album": {
@@ -7328,7 +7386,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 203437,
       "name": "Neblina",
       "url": "https://open.spotify.com/track/49SML6eNRInpgHhoZ0hRto"
@@ -8050,7 +8108,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 158081,
       "name": "O Que N\u00f3s Fomos",
       "url": "https://open.spotify.com/track/1t7wZZ9tR4E25OHBnQxCgf"
@@ -8210,7 +8268,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 245083,
       "name": "osciLAR",
       "url": "https://open.spotify.com/track/4LKpP7kf74byC2i25NThVS"
@@ -10790,6 +10848,28 @@
       "duration_ms": 156134,
       "name": "S\u00f3 Uma Noite",
       "url": "https://open.spotify.com/track/4IE65liqpq2jxwj77ih2MK"
+    },
+    {
+      "album": {
+        "name": "T$UNAMI",
+        "url": "https://open.spotify.com/album/3RMYeQI4WDsrcR4CzKdnmy"
+      },
+      "artists": [
+        {
+          "name": "Murta",
+          "url": "https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx"
+        },
+        {
+          "name": "ROCKY",
+          "url": "https://open.spotify.com/artist/6VLLGzMNejO8BhWFOJXP5M"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183133,
+      "name": "T$UNAMI",
+      "url": "https://open.spotify.com/track/2pks64KK1vHckQPEGiDuyK"
     },
     {
       "album": {

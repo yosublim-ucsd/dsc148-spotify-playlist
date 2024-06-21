@@ -4,7 +4,7 @@
 
 > 
 
-325 songs - 15 hr 14 min
+326 songs - 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Gravöl](https://open.spotify.com/track/3FHqXZWwfSRnUCleK2U0eI) | [Köttgrottorna](https://open.spotify.com/artist/0EiobxY3kj3acd0HaoS9xY) | [Sex Politik & Fåglar](https://open.spotify.com/album/32VvPLYDMKpWrko4eTSA9k) | 3:06 | 2023-05-04 | 2024-04-19 |
 | [Gravöl](https://open.spotify.com/track/7MpxKmGzenyey44GR0aUpf) | [Köttgrottorna](https://open.spotify.com/artist/0EiobxY3kj3acd0HaoS9xY) | [Sex Politik & Fåglar](https://open.spotify.com/album/0VL3W04CrMBCsBH92C1M66) | 3:06 | 2021-12-14 | 2022-07-29 |
 | [Hatar dig ändå](https://open.spotify.com/track/1LEIcs4cZtLJ32MbiC1owp) | [Krigsstigen](https://open.spotify.com/artist/5ZF0a9S7KDBjgr5BUZDVHC) | [Hatar dig ändå](https://open.spotify.com/album/6wz5C9g5rdVI0fSnhTvnVK) | 2:39 | 2024-04-11 |  |
-| [Hela hatet stormar](https://open.spotify.com/track/7KxxR4leTRgoF36DPyeqDD) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI), [Loke Nyberg](https://open.spotify.com/artist/1SovpimyX6noSdwHMymCIA) | [För Sverige](https://open.spotify.com/album/1qAOtAfBZwnxpU4n1fVzoS) | 3:25 | 2021-12-14 |  |
+| [Hela hatet stormar](https://open.spotify.com/track/7KxxR4leTRgoF36DPyeqDD) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI), [Loke Nyberg](https://open.spotify.com/artist/1SovpimyX6noSdwHMymCIA) | [För Sverige](https://open.spotify.com/album/1qAOtAfBZwnxpU4n1fVzoS) | 3:25 | 2021-12-14 | 2024-06-21 |
 | [Herrarna I Sandlådan](https://open.spotify.com/track/0TMfcKnvRgT4n9Xi9VZq2o) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Tecken i tiden](https://open.spotify.com/album/41KuCx8jBaZ4jzsFZRonvO) | 4:10 | 2021-12-14 | 2022-07-29 |
 | [Herrarna I Sandlådan](https://open.spotify.com/track/4LMQqcT7PChwUucFyhyWtY) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Tecken I Tiden](https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd) | 4:10 | 2021-12-14 | 2024-04-19 |
 | [Hjärtat](https://open.spotify.com/track/2TRQQ03nz28tjQcq4bHbBO) | [Sekunderna](https://open.spotify.com/artist/7ikQ6J9LX4RYu4IoZpUq8l) | [Hjärtat EP](https://open.spotify.com/album/5KvU4GUvlfD8DI6uRSGZux) | 3:06 | 2023-12-14 | 2024-04-19 |
@@ -209,6 +209,7 @@
 | [Någon form av svar](https://open.spotify.com/track/1stF6GJvw36GjBrVnJmW7t) | [Crash Nomada](https://open.spotify.com/artist/67jps1aP8vHb99GSaT2Hkh) | [Crash Nomada](https://open.spotify.com/album/5JfnRL57adQUcl9XU57tyG) | 3:39 | 2021-12-14 | 2024-04-19 |
 | [Några Jävla Spänn](https://open.spotify.com/track/02cd00xSj7jM688uxVg6qU) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [Några Jävla Spänn](https://open.spotify.com/album/21LbuPxwosjUCIK7QSKgHD) | 3:16 | 2021-12-14 | 2024-04-19 |
 | [Några Jävla Spänn](https://open.spotify.com/track/1vB6h5iJTsJg0Z7DySHpJN) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [Några Jävla Spänn](https://open.spotify.com/album/0615giZlH4M0a3asFlH5vf) | 3:16 | 2021-12-14 | 2024-06-14 |
+| [Nån annanstans](https://open.spotify.com/track/7BONvtMAXk7kpIaydbWlzZ) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [Trallkrucifixet](https://open.spotify.com/album/4neET9sUhfKyGlQOp8C76L) | 2:42 | 2024-06-20 |  |
 | [OS\-Guld i höjdhopp](https://open.spotify.com/track/5uKKw1OOOmBMzhygein2qB) | [Norra Hospitalet](https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM) | [Bakom ljuset](https://open.spotify.com/album/4yARa8B7DKUanmMtw1HrKM) | 1:23 | 2024-03-28 | 2024-04-19 |
 | [OS\-Guld i höjdhopp](https://open.spotify.com/track/6jdMz8tqMfOfk3kv0MRZ5U) | [Norra Hospitalet](https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM) | [OS\-Guld i höjdhopp](https://open.spotify.com/album/7yDRXR1hWI7e7Gait9gbyF) | 1:23 | 2021-12-14 |  |
 | [Pang du är död](https://open.spotify.com/track/5snjFt767FRhSy2bs8pUpy) | [Vacum](https://open.spotify.com/artist/7toGHd2HbxVXuywksD4zwO) | [Pang du är död](https://open.spotify.com/album/1QL4xEdm7uU9MlbtcO6pOX) | 2:40 | 2021-12-14 |  |

@@ -2,7 +2,7 @@
 
 ### [This Is Ed Sheeran](https://open.spotify.com/playlist/37i9dQZF1DWWxPM4nWdhyI)
 
-> All his biggest hits, in one place.
+> Celebrating 10 years of ' X' alongside all his biggest hits.
 
 103 songs - 6 hr 15 min
 

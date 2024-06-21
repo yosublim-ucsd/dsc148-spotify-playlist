@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Meryl",
+  "description": "Les hits dancehall du moment. Photo : Blaiz Fayah",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -2500,6 +2500,28 @@
       "duration_ms": 196318,
       "name": "Enticin",
       "url": "https://open.spotify.com/track/6qZKouYXciYShBNLXDrV8z"
+    },
+    {
+      "album": {
+        "name": "Esmeralda",
+        "url": "https://open.spotify.com/album/5FOrO5dMMmMSvBuTLS2WRF"
+      },
+      "artists": [
+        {
+          "name": "Says'z",
+          "url": "https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG"
+        },
+        {
+          "name": "Bamby",
+          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114407,
+      "name": "Esmeralda",
+      "url": "https://open.spotify.com/track/6ConL2W4eA29qy66IPAm0U"
     },
     {
       "album": {
@@ -5057,6 +5079,32 @@
     },
     {
       "album": {
+        "name": "Mon Gat\u00e9",
+        "url": "https://open.spotify.com/album/3UuFPqgi8XdbuM7O5PZQpL"
+      },
+      "artists": [
+        {
+          "name": "Scory Kovitch",
+          "url": "https://open.spotify.com/artist/2nzTQ304dMho2rPgMhPXq8"
+        },
+        {
+          "name": "Staniski",
+          "url": "https://open.spotify.com/artist/1QRTYLIPAn0oA3Fus7sviT"
+        },
+        {
+          "name": "Kaf Malbar",
+          "url": "https://open.spotify.com/artist/1id4EoPVo5qfzdP5gMf5U3"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171539,
+      "name": "Mon Gat\u00e9",
+      "url": "https://open.spotify.com/track/5OuP3nqgRJ2csUPrhBJGyq"
+    },
+    {
+      "album": {
         "name": "Mona Lisa",
         "url": "https://open.spotify.com/album/4Pf654V1D7cwZaQ5Hqwvv4"
       },
@@ -5454,7 +5502,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 127058,
       "name": "Nuh Regular",
       "url": "https://open.spotify.com/track/5nSsSoTcI22wGUWD9C1sLP"
@@ -5616,7 +5664,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 128356,
       "name": "OUI",
       "url": "https://open.spotify.com/track/6WhZGghWPRhrgS1gdfCvoP"
@@ -6156,7 +6204,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 139600,
       "name": "Propaganda",
       "url": "https://open.spotify.com/track/6QtEvlPe9vgUX0OE8m4ix6"
@@ -6816,6 +6864,28 @@
       "duration_ms": 143076,
       "name": "Shatta De Minuit",
       "url": "https://open.spotify.com/track/0WEbrz4AXEUYklBdFEr3I3"
+    },
+    {
+      "album": {
+        "name": "Shatta Land",
+        "url": "https://open.spotify.com/album/7tLv4sLOQ3zO7DjklUyDNs"
+      },
+      "artists": [
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "Gyzmo",
+          "url": "https://open.spotify.com/artist/3YLQYvd1uOBKqbJ1SSwXf7"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119000,
+      "name": "Shatta Land",
+      "url": "https://open.spotify.com/track/1Zb9a8qb9M5fTA0KEnnzAI"
     },
     {
       "album": {

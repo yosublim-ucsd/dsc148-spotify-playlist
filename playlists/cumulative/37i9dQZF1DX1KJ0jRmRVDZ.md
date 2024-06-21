@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-1,147 songs - 2 day 17 hr 24 min
+1,148 songs - 2 day 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Fake Parade](https://open.spotify.com/track/3miwadbvtZreaxkLPCnI7X) | [Chogakusei](https://open.spotify.com/artist/2sSxUi7Qg7hVHo7345VSLz) | [Fake Parade](https://open.spotify.com/album/2LShOdjfv6yy44x0li0Vir) | 3:05 | 2022-07-28 | 2022-08-05 |
 | [Fake Parade](https://open.spotify.com/track/6zQxlBBsgxHvDfTu3JuhtX) | [超学生](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Fake Parade](https://open.spotify.com/album/7tNfAxe4R54INGnOX5k02r) | 3:05 | 2022-07-26 | 2022-07-29 |
 | [faker](https://open.spotify.com/track/2V7jwbIFjlovSQc5z0nqpz) | [Guiano](https://open.spotify.com/artist/1gIxoB0mBUoPr7rPyy31xf) | [faker](https://open.spotify.com/album/4hhjXMxCCnxp73Bmq1iJeC) | 2:08 | 2024-04-23 | 2024-05-01 |
+| [Fall in Love](https://open.spotify.com/track/4fpAICCpevpgI40CiHZWar) | [Suiet](https://open.spotify.com/artist/1lvPOUoBjVVRfb0rF7RaNQ) | [Fall in Love](https://open.spotify.com/album/7u00ryReb4mo01nuKQbWde) | 2:49 | 2024-06-18 |  |
 | [FANTASY](https://open.spotify.com/track/6WK8ycPHFr3HtjKnKcyFdl) | [majiko](https://open.spotify.com/artist/6HX4Jrnb0WhEv9goeGoh6p) | [FANTASY](https://open.spotify.com/album/3I2n109tFtjkvO0hz9h4xR) | 3:17 | 2022-06-23 | 2022-07-22 |
 | [far away](https://open.spotify.com/track/5KoJ9BgQoZBquD5QQ10ctN) | [堂村璃羽](https://open.spotify.com/artist/6s5z8omxqZ2k0gdGUSB0hp) | [far away](https://open.spotify.com/album/4gkbEXzkDzpDhUb6D7BVWo) | 4:13 | 2024-01-04 | 2024-01-10 |
 | [Fighter](https://open.spotify.com/track/1srvh4CsWfbCSw4wSPiAC9) | [Gluttony](https://open.spotify.com/artist/217EA5UpsorEzs2VRPvHKZ) | [Fighter](https://open.spotify.com/album/3oNZjiOyaKyZpkuw7fCIMm) | 3:06 | 2023-02-02 | 2023-02-08 |
@@ -1033,7 +1034,7 @@
 | [知りたい](https://open.spotify.com/track/0ZzlTt1awceD0HCG2ntBi3) | [LUA](https://open.spotify.com/artist/6Kn5qpqJoHEY2D8uvgUQut) | [知りたい](https://open.spotify.com/album/2A9DObdoMkFhBu9OVof8ec) | 3:07 | 2023-11-28 | 2023-11-30 |
 | [砂嵐](https://open.spotify.com/track/3ixlsKtDOXRKPnAr52s2b9) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [砂嵐](https://open.spotify.com/album/1QkoBNKwXejKLtlOFUDVV1) | 3:38 | 2023-04-11 | 2023-04-26 |
 | [神下り feat\. 菅原圭](https://open.spotify.com/track/7u9VHp2jpUExuC5lvxAWMY) | [獅子志司](https://open.spotify.com/artist/6WuH4EcRO2y8v6z3lVsA4v), [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [神下り feat\. 菅原圭](https://open.spotify.com/album/3UzyIJqtzT6zYP7qcx7LO5) | 3:34 | 2024-03-26 | 2024-04-11 |
-| [私が明日死ぬなら](https://open.spotify.com/track/29KOSOrduu8U6Pz6ZZtuEj) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ROUNDABOUT](https://open.spotify.com/album/1N3qm3w4YsYgXh6XxBjkay) | 4:13 | 2024-04-16 |  |
+| [私が明日死ぬなら](https://open.spotify.com/track/29KOSOrduu8U6Pz6ZZtuEj) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ROUNDABOUT](https://open.spotify.com/album/1N3qm3w4YsYgXh6XxBjkay) | 4:13 | 2024-04-16 | 2024-06-21 |
 | [私は最強 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/7bmAgiUc4W4bfyZRCc6lOh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [私は最強 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/4kSYCYHzG8vyNQcROLlHUq) | 4:17 | 2022-06-21 | 2022-08-10 |
 | [私へ](https://open.spotify.com/track/6tUoqX3OCNbC2t55e5kvcR) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF) | [私へ](https://open.spotify.com/album/3cLc1mbVLswt6j96bGXsN1) | 4:13 | 2023-08-15 | 2023-09-06 |
 | [秘密の言葉](https://open.spotify.com/track/0I5sXEB3M0LoLJcWhEtBvf) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [ズーカラデル](https://open.spotify.com/artist/1Xm4wqBkfcWe6mqO2w4hdV) | [秘密の言葉](https://open.spotify.com/album/36B8cQgCAwSE9ObdprQEGJ) | 3:17 | 2023-04-04 | 2023-04-21 |

@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-523 songs - 20 hr 6 min
+524 songs - 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [comfort of home](https://open.spotify.com/track/4IDBRflR08FVQ5PAjxlaRl) | [ilaywho](https://open.spotify.com/artist/4OiOGOoUj1rFh8WmSREZey) | [comfort of home](https://open.spotify.com/album/0fqFQ1ZiwFlikoENr5qNEG) | 1:30 | 2023-08-31 |  |
 | [Conspiracy](https://open.spotify.com/track/66I86wuKX4PxvGqiHFxSvK) | [FRANK](https://open.spotify.com/artist/2q1lPSowgmgiCLtnSRMNMD) | [Conspiracy](https://open.spotify.com/album/7Espl4AUElcBOlIMwwTIhj) | 2:19 | 2023-02-07 |  |
 | [Corals](https://open.spotify.com/track/2343xsreIBUaCjwbyLlDuk) | [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT) | [Corals](https://open.spotify.com/album/6F58s8DspnQzyyLRp0C58n) | 2:11 | 2022-07-29 |  |
+| [Corner Garden](https://open.spotify.com/track/628hS5M8ymBdzrSJhu6Gad) | [Momentology](https://open.spotify.com/artist/3Hg0Oo6hrlDBYcWqQtTTNr), [\#13](https://open.spotify.com/artist/0yuehcXdnYlOlitRFFxTle) | [Corner Garden](https://open.spotify.com/album/6i0m3KoFhVSQQwHBEGaLql) | 2:40 | 2024-06-19 |  |
 | [Counting Sheep](https://open.spotify.com/track/3rtsPORAAssL2z26CZl9Qe) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Counting Sheep](https://open.spotify.com/album/17thKKGvAnuKtkVWz6YEGD) | 3:08 | 2021-12-07 |  |
 | [Country House](https://open.spotify.com/track/6s5uGQwee1EJREU4LMjbpt) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Country House](https://open.spotify.com/album/2GHuDcUA8BW1VBC7vYCd0w) | 2:36 | 2023-06-06 |  |
 | [cracks](https://open.spotify.com/track/239wmTGRuJt2W2Bmwc3QvJ) | [cofibrkz](https://open.spotify.com/artist/7t9qw1nmtiXsFdnNrfBEYM) | [cracks](https://open.spotify.com/album/7kb6IX9WRNJgUHGB2wBhGm) | 1:58 | 2023-02-17 |  |

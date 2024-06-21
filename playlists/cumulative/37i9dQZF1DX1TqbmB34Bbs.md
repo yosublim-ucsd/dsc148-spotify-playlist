@@ -2,9 +2,9 @@
 
 ### [K\`illin'](https://open.spotify.com/playlist/37i9dQZF1DX1TqbmB34Bbs)
 
-> Illest hardcore K\-hip hop tracks are here\. \(Cover: YUNGIN, SINCE, sokodomo\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
+> Illest hardcore K\-hip hop tracks are here\. \(Cover: EPIK HIGH\(에픽하이\)\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
 
-1,182 songs - 2 day 17 hr 26 min
+1,183 songs - 2 day 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,7 +235,7 @@
 | [Cold Blooded](https://open.spotify.com/track/34JfHOd0fcefm4FSPSrIhF) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [Cold Blooded](https://open.spotify.com/album/4CTDrZw6m0dTJX17OCEbfZ) | 2:30 | 2022-06-29 |  |
 | [COLORS](https://open.spotify.com/track/6031aKHBl6UpciyLhEb2nw) | [Wondior](https://open.spotify.com/artist/2ctSI2Tv2JgY8fm1qVTBwf) | [SEE ME UP](https://open.spotify.com/album/6yDqoSGUWmmESmAhomCAe8) | 2:40 | 2022-06-18 | 2022-07-10 |
 | [Come Upright \(Prod\. Viann\)](https://open.spotify.com/track/6yRe9dHqGcqlSnZhKY26aD) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU) | [Come Upright with KozyPop](https://open.spotify.com/album/3EpLVXIxDeU3YpSVppP3B2) | 2:46 | 2022-05-31 | 2022-07-26 |
-| [Command C+Me \(Korean Ver.\)](https://open.spotify.com/track/1TJC8umuPVI4Y0eFn5ROwe) | [JUN\. K](https://open.spotify.com/artist/4m69UKabjuuaoayREZud9h) | [Command C+Me \(Korean Ver.\)](https://open.spotify.com/album/2MuSBLDI1BsUd7KG95WVKs) | 2:51 | 2024-04-12 |  |
+| [Command C+Me \(Korean Ver.\)](https://open.spotify.com/track/1TJC8umuPVI4Y0eFn5ROwe) | [JUN\. K](https://open.spotify.com/artist/4m69UKabjuuaoayREZud9h) | [Command C+Me \(Korean Ver.\)](https://open.spotify.com/album/2MuSBLDI1BsUd7KG95WVKs) | 2:51 | 2024-04-12 | 2024-06-21 |
 | [COMPASS \(Feat\. Chin\)](https://open.spotify.com/track/3GkGRq5fqKM2hARxS1Odhk) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Chin](https://open.spotify.com/artist/3YxtjzaXsF9cVq2MlIe6cw) | [HIGH RISK HIGH RETURN](https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih) | 3:51 | 2022-09-07 | 2022-10-20 |
 | [COMPASS \(Feat\. UNEDUCATED KID, SUPERBEE\) \(Prod\. R.Tee\)](https://open.spotify.com/track/3drPHXPtY4FQ4H55QVLHbY) | [KHAN](https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5), [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM), [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [SHOW ME THE MONEY 11 Episode 3](https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF) | 3:49 | 2022-12-19 |  |
 | [Compensation \(Feat\. Gaeko\) \(Prod\. Slom\)](https://open.spotify.com/track/5Ga9WgaP3I6PUV0ZLmU0jz) | [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Compensation](https://open.spotify.com/album/7CacFVc7MYsirIRA0P9Uz0) | 3:44 | 2022-07-04 | 2023-10-26 |
@@ -545,6 +545,7 @@
 | [JUNGLE](https://open.spotify.com/track/5ApEL1afvK5BSY2TJWQRTY) | [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Show Me the Money 8 Final](https://open.spotify.com/album/1QS1GA2jf4dkhvS7YXFAlT) | 3:38 | 2022-05-31 | 2022-07-25 |
 | [JUNGLE \(Prod\. millic\)](https://open.spotify.com/track/1FVhgNcxyksUoL4rRRI36I) | [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Show Me the Money 8 Final](https://open.spotify.com/album/0No2BeroBuNsk2WOFzuQrk) | 3:38 | 2022-07-25 | 2024-04-19 |
 | [JusticE 정의구현 \(feat\. Mckdaddy, Batsagong\)](https://open.spotify.com/track/4suHjgugjMwI6YvtOcZYuG) | [Sleepy](https://open.spotify.com/artist/5qp3vJC5OdDo1Zsrsl3sIR), [Mckdaddy](https://open.spotify.com/artist/3jEfM7ePpwC5KcJHMseRqA), [Bassagong](https://open.spotify.com/artist/7j1lNIjZY1E1drWIgJloMs) | [JusticE 정의구현](https://open.spotify.com/album/0nkinGvhKFmcEzYupDJTd6) | 4:01 | 2022-06-18 | 2022-07-09 |
+| [K\-DRAMA](https://open.spotify.com/track/1ceNvrZDao9XB34qN3p6aB) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [PUMP](https://open.spotify.com/album/34Z7aFV3bVDGu1EBQogK2p) | 3:06 | 2024-06-20 |  |
 | [K\-HIPHOP](https://open.spotify.com/track/6k18vqgxP8af92Je17SNDd) | [gamma](https://open.spotify.com/artist/0wwLWUeZfiDyXncBoBYkQ3) | [ARIA II : Vendetta](https://open.spotify.com/album/0mNJrHxXLpCvBmPfvWSLTf) | 3:44 | 2022-06-20 | 2022-06-27 |
 | [K.I.S.S](https://open.spotify.com/track/2AJ4o9CaasB1A6JifXPzG5) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [K.I.S.S](https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1) | 1:42 | 2022-05-28 | 2022-07-27 |
 | [K.O\. \(feat\. Mac Kidd\)](https://open.spotify.com/track/4Ayc7M0iybDZqZan2yxWIa) | [Sycho](https://open.spotify.com/artist/0alOpDUsBEmBJqSZHT6z2P), [Veni](https://open.spotify.com/artist/2fQI4QV9m3OzcxBq4CxIdZ), [Mac Kidd](https://open.spotify.com/artist/3uezMpoFc84nQ6qU2mliqr) | [Drop The Bit The 3rd round Pt\. 2](https://open.spotify.com/album/4k7Dv3Ffof2s8VLbFTPGiO) | 4:10 | 2022-05-31 | 2022-07-11 |

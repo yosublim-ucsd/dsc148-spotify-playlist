@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/0yJolfjqzHfNbr9IoBSndu?si=h6gIDNzNR06HcGlhhO4tEw">Avey Tare</a>
 
-952 songs - 2 day 17 hr 42 min
+953 songs - 2 day 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Bang](https://open.spotify.com/track/5XmfmJl6z8B5bvVzhk5vUg) | [Melenas](https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f) | [Bang](https://open.spotify.com/album/2ekIzRVrvwVtjRiK7vrhhU) | 5:10 | 2023-06-28 | 2023-08-03 |
 | [Be Kind](https://open.spotify.com/track/4vMODrGkcrI0SIHVAMWbX5) | [The Male Gays](https://open.spotify.com/artist/6GaiQHJPnehNkQwBXkKdbd) | [Be Kind](https://open.spotify.com/album/1W5hohzdyfWmDuQWBtAMfT) | 2:42 | 2024-06-12 |  |
 | [Be My Best](https://open.spotify.com/track/4lOzsIKfOxu4yLwwoeDqEE) | [sweet93](https://open.spotify.com/artist/1bZAIpozrb4BckaTTRm52y) | [Be My Best](https://open.spotify.com/album/1M5lIx2zlIDbkRYtT2XUNB) | 4:11 | 2024-01-17 | 2024-03-01 |
+| [Be Strong](https://open.spotify.com/track/2wdLugV4zmXr8DOZPVn9mr) | [One True Pairing](https://open.spotify.com/artist/5Ijj1CZ7i0VFZ6Ghrmij2K) | [Be Strong](https://open.spotify.com/album/2aaywPSyPyNfV4FcD6rHUx) | 3:07 | 2024-06-20 |  |
 | [Beaucoup](https://open.spotify.com/track/0BG1ps8MMVcCS5ywRGbaO3) | [Owen](https://open.spotify.com/artist/4PJbP0dXALttfo1PFPY1Pt) | [Beaucoup](https://open.spotify.com/album/35bJWIoMYioo7R5CBUODTJ) | 5:04 | 2024-02-29 | 2024-04-11 |
 | [Before We Fell From Grace](https://open.spotify.com/track/0Ifom3QrLplQBsCTP5J4qX) | [the GOLDEN DREGS](https://open.spotify.com/artist/5HS4BCPnb2zYSwsmXunf8d) | [Before We Fell From Grace](https://open.spotify.com/album/7xoC815gar0ukkCYPJj36q) | 4:51 | 2023-01-25 | 2023-03-02 |
 | [Beginner's Luck](https://open.spotify.com/track/1aGHJWuMcqXA3occrRcTll) | [Former Champ](https://open.spotify.com/artist/1ntDd3adPrsrlLpiJBPfzM) | [Motherwell](https://open.spotify.com/album/0z388Qszg0TTCt4F2cTlCs) | 2:10 | 2023-08-02 | 2023-09-14 |

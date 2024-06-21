@@ -2,9 +2,9 @@
 
 ### [Dembow Pegao](https://open.spotify.com/playlist/37i9dQZF1DWWWpEY2WZLnS)
 
-> Los éxitos del Dembow\. Portada: Jey One
+> Los éxitos del Dembow\. Portada: Lomiiel
 
-357 songs - 17 hr 31 min
+358 songs - 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Perrita](https://open.spotify.com/track/7BYMoBx5AhY4XwXiqT7oNw) | [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI), [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9) | [Perrita](https://open.spotify.com/album/1PLmcdRyratFio8zQkoGyd) | 2:31 | 2023-05-26 | 2023-06-28 |
 | [Pichirry](https://open.spotify.com/track/3gmwr3IApaKyKU62QTIrgJ) | [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Pichirry](https://open.spotify.com/album/1in8bBo1IDDACAEEwMh3eg) | 2:37 | 2023-05-26 | 2023-08-04 |
 | [Pichirry](https://open.spotify.com/track/4WxbLssRkT28OuU9nYmlSJ) | [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Pila'e Teteo](https://open.spotify.com/album/2rq7AbuH4rMfsS6pP0nFPS) | 2:37 | 2023-05-26 | 2023-06-13 |
+| [PIKY](https://open.spotify.com/track/3s53B1v7ijagovFhhWVX8n) | [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [PIKY](https://open.spotify.com/album/0t5bMVKuAIiqToDa5bz6li) | 1:58 | 2024-06-20 |  |
 | [Pila De Nota](https://open.spotify.com/track/0F2FwMpxWS4RHPybwjeYwG) | [Bigoblin](https://open.spotify.com/artist/38m9i1Ro4UpoMLGuRm6bwq), [JeycitoLM](https://open.spotify.com/artist/238gi90zN8qUlMGGERfXF4) | [Pila De Nota](https://open.spotify.com/album/3pFagynWQQx2iuemq6tjMm) | 2:18 | 2024-06-05 |  |
 | [Pin Pon](https://open.spotify.com/track/0hsvxHMRWEvUCtE1qDfiDG) | [Liro Shaq](https://open.spotify.com/artist/3oOJYwLB8FGSKYOQ5zx7Kk) | [Pin Pon](https://open.spotify.com/album/0Fm04gVS5QjzNXMB10o8xM) | 3:16 | 2023-02-09 | 2023-03-11 |
 | [Piri Bambam](https://open.spotify.com/track/2ig60OGpxzFz9qHpXCAsNY) | [Kaly Ocho](https://open.spotify.com/artist/4Y2ohblGXsra540HyqjKFD) | [Piri Bambam](https://open.spotify.com/album/5Km2nse90GAiZWWrv8zzAh) | 2:54 | 2023-02-09 | 2023-05-27 |
@@ -356,7 +357,7 @@
 | [Vivo Por Palomo](https://open.spotify.com/track/74trikNmBL8OMjgBZwlJw9) | [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy), [Papaa Tyga](https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC) | [Vivo Por Palomo](https://open.spotify.com/album/5G8vSgM0oZM6HIIiDQcf3f) | 3:26 | 2023-05-26 |  |
 | [Voy Pa la Calle](https://open.spotify.com/track/0UoZ9LFPAFwnqGpO0nKSkX) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl) | [Voy Pa la Calle](https://open.spotify.com/album/2P7G5Z6VhoEkvq5ukhjDHr) | 2:15 | 2021-11-19 | 2022-07-16 |
 | [VUELATE](https://open.spotify.com/track/1gMc5OzfVsmG0WUDlMQtp5) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [VUELATE](https://open.spotify.com/album/7KTXi2pGfttCH05uuS2OPq) | 1:35 | 2024-03-14 | 2024-05-24 |
-| [Wao Nena](https://open.spotify.com/track/4I1ZF4yRphYWDH9qk2luJX) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Wao Nena](https://open.spotify.com/album/78pJNm5qqr4TBEpL2LWRwf) | 2:03 | 2024-02-01 |  |
+| [Wao Nena](https://open.spotify.com/track/4I1ZF4yRphYWDH9qk2luJX) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Wao Nena](https://open.spotify.com/album/78pJNm5qqr4TBEpL2LWRwf) | 2:03 | 2024-02-01 | 2024-06-21 |
 | [Wilan \( Prendela A Valor \)](https://open.spotify.com/track/6M829ypWCFkmOvM4u7X3kw) | [Mestizo Is Back](https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH), [La Mas Doll](https://open.spotify.com/artist/0PPgD3dY7wrxsMe021mByK) | [Wilan \( Prendela A Valor \)](https://open.spotify.com/album/4lUUqfJ1AiYffqRw6ewc8p) | 2:12 | 2023-05-26 | 2023-12-17 |
 | [Y Eso?](https://open.spotify.com/track/1Cx2O26LJUjG94LfH6rnyB) | [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0), [PV Aparataje](https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4) | [Y Eso?](https://open.spotify.com/album/7x8dNTVIpVvboQ3TsxCj0N) | 2:44 | 2021-11-19 | 2022-07-23 |
 | [Y Eso? \- Remix](https://open.spotify.com/track/18C8sa4r83bsAhjICIr2K9) | [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Y Eso? \(Remix\)](https://open.spotify.com/album/3zmbVyVbjdobARM0n89pP2) | 5:01 | 2022-03-18 | 2023-03-11 |

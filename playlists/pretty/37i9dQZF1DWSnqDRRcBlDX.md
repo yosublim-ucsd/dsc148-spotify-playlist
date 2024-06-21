@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 
 > <a href="spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf">Amelie Lens</a>' favorite tracks\. Updated regularly\. Curated by Amelie Lens\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,549 likes - 51 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,603 likes - 59 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,5 +59,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 | 49 | [Elements Of Joy](https://open.spotify.com/track/5T2ryB743k3qH7CzfkcB6W) | [DJ Jordan](https://open.spotify.com/artist/5bwTl3iyhj2j9hXlMTAZzM) | [Elements Of Joy](https://open.spotify.com/album/1SthED4KtFfO7qhTeSw41T) | 5:28 |
 | 50 | [Ancient Aum](https://open.spotify.com/track/5CiBbrUKWr6em5GiY0YCiM) | [Electric Universe](https://open.spotify.com/artist/55SDgogZ1SRUhIgmGvLyhD), [Ace Ventura](https://open.spotify.com/artist/7bSyjB4y9NAhoUDrZTpYt4) | [Sacred Geometry](https://open.spotify.com/album/0CYafEex5MyTsJUfScXI3b) | 8:00 |
 | 51 | [Emotional \- 2023 Edit](https://open.spotify.com/track/24h4FVqzZl31rgUWd9NLZC) | [Bentech](https://open.spotify.com/artist/4tMLkoMpWu60qPkLybmNxu) | [Emotional EP](https://open.spotify.com/album/79R7xJdFybNlRzBrdELrxN) | 6:35 |
+| 52 | [Syren \- Amelie Lens Remix](https://open.spotify.com/track/2CAWDnsgQ5zIXef4ONWmUK) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Genesys II](https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy) | 2:49 |
+| 53 | [Ragnarok](https://open.spotify.com/track/7be4su6lYXFKd6Ol77Uzj4) | [BYØRN](https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD) | [Ragnarok](https://open.spotify.com/album/5puvUwsPPI4LCyZSBm1i10) | 5:15 |
+| 54 | [Fallin' in Love](https://open.spotify.com/track/7fxXPUDKDqUibNy5zWEdI3) | [SIKOTI](https://open.spotify.com/artist/7qWvKoQVe3UdZhG9clKb1y), [Teletech](https://open.spotify.com/artist/30tToHC6q3nB7Lious0MZW) | [Fallin' in Love](https://open.spotify.com/album/6iwZmJDNX7RWr33ZmGLi4p) | 5:14 |
+| 55 | [Get Real Low](https://open.spotify.com/track/2BkUyMpQtvrRtD2rzqLDwl) | [SIKOTI](https://open.spotify.com/artist/7qWvKoQVe3UdZhG9clKb1y) | [Get Real Low](https://open.spotify.com/album/7IwhlpcdYnRIXCauhD1FzL) | 4:58 |
+| 56 | [Verknipt Nochmal \- Original Mix](https://open.spotify.com/track/2bQ7rn3w44TEIqgO9wEuQN) | [A\*S\*Y\*S](https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq) | [Verknipt Nochmal](https://open.spotify.com/album/3S7kPwcwvXMpHozZBK4Q86) | 5:42 |
+| 57 | [Don't Get Lost In Heaven](https://open.spotify.com/track/1sfvv0RshRNNatJ73hVO2n) | [BIIA](https://open.spotify.com/artist/6aLjZidc4PrcXCrCnLzR6W) | [Don't Get Lost In Heaven](https://open.spotify.com/album/5iVhdVf0oze3VjhFUZnvBu) | 5:53 |
+| 58 | [When I Rock \- A.D.H.S\. Remix](https://open.spotify.com/track/2RZUzI8KssitQ4SYPr1xUd) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [When I Rock \(A.D.H.S\. Remix\)](https://open.spotify.com/album/3AUUUXLVRCj3nHbGHPT0ic) | 4:19 |
+| 59 | [The Chosen](https://open.spotify.com/track/56IDx1YZczUBwoF1akoEd7) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [The Chosen](https://open.spotify.com/album/65grCGKrfvYxtWMyl66Jmo) | 4:13 |
 
-Snapshot ID: `Zf02hgAAAADU1Lo8AZ6EO0GU5pvE9ISl`
+Snapshot ID: `ZnSmYAAAAAA93uXid9+B9IL2Yu5FqgRr`

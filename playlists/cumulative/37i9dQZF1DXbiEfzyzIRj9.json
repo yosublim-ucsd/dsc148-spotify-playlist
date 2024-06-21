@@ -1540,7 +1540,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 260325,
       "name": "Bouquet de cigarettes",
       "url": "https://open.spotify.com/track/71XYXBXD5eueu4byVd7gMI"
@@ -5142,7 +5142,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 136500,
       "name": "Gangbang",
       "url": "https://open.spotify.com/track/1x2TmFVVHYquL4yYdtKrUp"
@@ -5988,7 +5988,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 242826,
       "name": "Hokori - Seimei Remix",
       "url": "https://open.spotify.com/track/4b0XjpItfVvcygA6fySXOc"
@@ -6648,6 +6648,24 @@
       "duration_ms": 268213,
       "name": "Intelligent Bad Bwoy",
       "url": "https://open.spotify.com/track/1gw7vCvbE2z6lwGDOxkW4M"
+    },
+    {
+      "album": {
+        "name": "Into Gold",
+        "url": "https://open.spotify.com/album/7yIJ7abwVOMsviS21jFkeW"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342680,
+      "name": "Into Gold",
+      "url": "https://open.spotify.com/track/2uWJpyxK7gSGdGBLOX4lMV"
     },
     {
       "album": {
@@ -7516,6 +7534,28 @@
       "duration_ms": 326250,
       "name": "Liberty, Oh!",
       "url": "https://open.spotify.com/track/5f2GKOcHLY1o6cIMnTJu29"
+    },
+    {
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202648,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am"
     },
     {
       "album": {
@@ -14784,6 +14824,28 @@
       "duration_ms": 343693,
       "name": "white horse",
       "url": "https://open.spotify.com/track/1gjCPf15cmdVxSIqKGsnXz"
+    },
+    {
+      "album": {
+        "name": "Without Love (MET Contrast Remix)",
+        "url": "https://open.spotify.com/album/11cFvUMHrsG7VesgP15K29"
+      },
+      "artists": [
+        {
+          "name": "LMYK",
+          "url": "https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg"
+        },
+        {
+          "name": "MET",
+          "url": "https://open.spotify.com/artist/5ve30CMlk6U2OZ2sqtchTc"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244629,
+      "name": "Without Love - MET Contrast Remix",
+      "url": "https://open.spotify.com/track/0DVOV3RLe5wN5aA8EpCzfO"
     },
     {
       "album": {

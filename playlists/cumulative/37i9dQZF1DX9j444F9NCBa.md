@@ -4,7 +4,7 @@
 
 > Gentle instrumental covers of known songs.
 
-592 songs - 1 day 6 hr 5 min
+593 songs - 1 day 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,7 +266,7 @@
 | [I'm Yours](https://open.spotify.com/track/2OW93KcFnwdMBvfdDs2ZU1) | [Mary Lou Stephens](https://open.spotify.com/artist/5NkQxYTi4qXxNUqH2GJkPH) | [I'm Yours](https://open.spotify.com/album/0dmMyKWLPKzNgnC0DlEJQq) | 2:43 | 2022-01-21 |  |
 | [If I Ain't Got You](https://open.spotify.com/track/55qulwZF586SHaW888nGtG) | [Melvin Gale](https://open.spotify.com/artist/3l1WfSrcchINNxR1OygC8z) | [If I Ain't Got You](https://open.spotify.com/album/2F7HJ03TFStnoa7e92Al95) | 3:48 | 2022-12-16 |  |
 | [If I Could Turn Back Time](https://open.spotify.com/track/6wAN3QGz77L0TBLCUJMmhB) | [Mbese Mahl](https://open.spotify.com/artist/2SMRwhxnKgm8uKApv22Def) | [If I Could Turn Back Time](https://open.spotify.com/album/6xfjQQhqAkiWdX1XECE7Ra) | 2:15 | 2023-05-12 | 2023-06-09 |
-| [If I Never Knew You](https://open.spotify.com/track/7KjwgAyH10OnTHJODNtnns) | [Floritatura](https://open.spotify.com/artist/5nLzQ8oEKZ4BK73olozSSc) | [If I Never Knew You](https://open.spotify.com/album/4l9AMQB6NZ2XLC6i5TyEe5) | 3:10 | 2023-02-24 |  |
+| [If I Never Knew You](https://open.spotify.com/track/7KjwgAyH10OnTHJODNtnns) | [Floritatura](https://open.spotify.com/artist/5nLzQ8oEKZ4BK73olozSSc) | [If I Never Knew You](https://open.spotify.com/album/4l9AMQB6NZ2XLC6i5TyEe5) | 3:10 | 2023-02-24 | 2024-06-21 |
 | [If I Were a Boy](https://open.spotify.com/track/4pMKcvx8DwfjkXuLU8s4xo) | [Harris Barron](https://open.spotify.com/artist/5huDA9okV0PC7Yr6Zy5F2W) | [If I Were a Boy](https://open.spotify.com/album/0H5MFLw8sD2ljwEbWey6CP) | 2:53 | 2023-06-15 |  |
 | [If You Leave Me Now](https://open.spotify.com/track/0YCqrDZxu92UqtkqCLLFvl) | [Floritatura](https://open.spotify.com/artist/5nLzQ8oEKZ4BK73olozSSc) | [If You Leave Me Now](https://open.spotify.com/album/1QX0cb2zR5ECbz4YGsgFFu) | 3:48 | 2022-06-08 | 2023-02-10 |
 | [If You Leave Me Now](https://open.spotify.com/track/0k3eB65qL3T1GQyJmGNUgV) | [George Jacomel](https://open.spotify.com/artist/44bWSBuHUEo6M84U8E0i6q) | [If You Leave Me Now](https://open.spotify.com/album/1sBYO3z6cl6Fd6NNOPeGxu) | 3:19 | 2022-01-21 | 2022-10-15 |
@@ -339,7 +339,7 @@
 | [Maniac](https://open.spotify.com/track/6UiDUHOQk8BVnPuYWWcvMw) | [Simone Morelli](https://open.spotify.com/artist/0fwledftqxvzcog7xziwbY) | [Maniac](https://open.spotify.com/album/5gXmTWp9saddHSZ1EaLZ2V) | 3:14 | 2023-05-12 |  |
 | [Memories](https://open.spotify.com/track/6EEFUnAypbEwE4GgYD6b6U) | [Love Falk](https://open.spotify.com/artist/7xkvpbm8tfh02pFrqHV4aK) | [Memories](https://open.spotify.com/album/0KpBrDZSwmXHkmd3ffhQEn) | 3:35 | 2022-01-21 | 2023-06-03 |
 | [Memory](https://open.spotify.com/track/39NCTTGsonWEzH0UjuYQsx) | [Alva Nørgaard](https://open.spotify.com/artist/7HIFfx126uBOqh9lGH8z2b) | [Memory](https://open.spotify.com/album/3HOiwKAEH7XRZQThMUm6yZ) | 3:43 | 2022-10-14 | 2023-11-17 |
-| [Michelle](https://open.spotify.com/track/426m22xIyYxlPJJdWUJVLG) | [Anton Byers](https://open.spotify.com/artist/3EXHOUECuF5L9svlzdsnBu) | [Michelle](https://open.spotify.com/album/6q7FMxN2FpBotFqLnioQck) | 3:32 | 2022-12-02 |  |
+| [Michelle](https://open.spotify.com/track/426m22xIyYxlPJJdWUJVLG) | [Anton Byers](https://open.spotify.com/artist/3EXHOUECuF5L9svlzdsnBu) | [Michelle](https://open.spotify.com/album/6q7FMxN2FpBotFqLnioQck) | 3:32 | 2022-12-02 | 2024-06-21 |
 | [Middle of the Night \- Piano](https://open.spotify.com/track/2K97GriUyHINnzuDsmTfkP) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [Middle of the Night \(Piano\)](https://open.spotify.com/album/4xjraR8hKCk9hmUAQt5ipb) | 2:56 | 2022-10-14 |  |
 | [Middle of the Night \- Piano](https://open.spotify.com/track/7F3DCWB2PsadGC0iE1btUU) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [Middle of the Night \(Piano\)](https://open.spotify.com/album/0ngulRajtwlyMSvhvkeIIh) | 2:56 | 2023-03-24 | 2024-04-19 |
 | [Midnight Rain](https://open.spotify.com/track/2O0NykJV0XOkbHAsedN21s) | [Zion Houston](https://open.spotify.com/artist/3RRD1mgaBFYXz3NFGiuDGj) | [Midnight Rain](https://open.spotify.com/album/1IV7ToivCrCyOBoQMbKGok) | 2:09 | 2022-12-02 |  |
@@ -391,6 +391,7 @@
 | [Positions](https://open.spotify.com/track/7iBm5kL2A8up9UfqoQLVhg) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Save Your Tears](https://open.spotify.com/album/7j3YmhL0zAnbh7jKxHPqei) | 2:39 | 2022-10-28 | 2023-04-29 |
 | [Purple Rain \- Piano Version](https://open.spotify.com/track/1ty7L5N7si6ly9YQLZpD8J) | [Alec Dufner](https://open.spotify.com/artist/6rcLXQVBq8vXaXDoatwCsz) | [Timeless Classics On Piano \- Part IV](https://open.spotify.com/album/2kqhwuZNdKS2LMckmMGdLf) | 3:40 | 2022-12-02 | 2023-08-11 |
 | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/track/4nWcu20r0jBRl7ucCdlTQd) | [Vanessa Acin](https://open.spotify.com/artist/4STKN0PPPmsqSziBVaT0Rm) | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/album/5aPnVfapJqOcOxv5zuxXzS) | 2:36 | 2022-12-02 | 2023-08-18 |
+| [Rather Be](https://open.spotify.com/track/3TjP5s4meR4cvpnH9wPuge) | [Marc Millis](https://open.spotify.com/artist/51rn0GgkyfOvp4clFcZ7qA) | [Rather Be](https://open.spotify.com/album/2yaKTHYKeYrTGNu9TQ3HxC) | 4:08 | 2024-06-20 |  |
 | [Redbone](https://open.spotify.com/track/37jmM5yYmTqETXCbi4Ko5U) | [Lenowa Parson](https://open.spotify.com/artist/3zSc3Docwdph96gfgwmxNp) | [Redbone](https://open.spotify.com/album/4SOJm1GEbnhfHC1ggGjT9K) | 3:18 | 2022-12-02 |  |
 | [Redbone](https://open.spotify.com/track/2j8l5R7SLINkv2BigX8aC8) | [Ross Ware](https://open.spotify.com/artist/31DhMA96nPz7vdNPVTWi1q) | [Redbone](https://open.spotify.com/album/2COTQEoQvHGD7TloluBn8L) | 2:44 | 2023-01-20 | 2023-06-09 |
 | [Reflection](https://open.spotify.com/track/2L2QTOdjLXJ8sg0zF9JRa9) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [Reflection](https://open.spotify.com/album/1b9Y5HENJ6zkmYNtrKsVms) | 2:50 | 2022-09-30 | 2023-03-25 |

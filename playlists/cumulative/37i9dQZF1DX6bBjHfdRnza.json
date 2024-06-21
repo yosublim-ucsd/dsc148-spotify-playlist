@@ -2851,6 +2851,24 @@
     },
     {
       "album": {
+        "name": "back together",
+        "url": "https://open.spotify.com/album/4Ky0izg255MXVlzeQ31eC6"
+      },
+      "artists": [
+        {
+          "name": "Jimmi King",
+          "url": "https://open.spotify.com/artist/3ekb7bNGfNhTTcWClGgVHV"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214318,
+      "name": "back together",
+      "url": "https://open.spotify.com/track/1Mu31xsS4kVaXByJhf9M0A"
+    },
+    {
+      "album": {
         "name": "Backyard Swing",
         "url": "https://open.spotify.com/album/3D9eZfs2IEad2ilfHTKD42"
       },
@@ -4280,6 +4298,24 @@
       "duration_ms": 201930,
       "name": "Body Tides (feat. Pollena)",
       "url": "https://open.spotify.com/track/1BomYgJDU2lJuXaPRjTuHl"
+    },
+    {
+      "album": {
+        "name": "Bodyshake",
+        "url": "https://open.spotify.com/album/0aVZuXSjhuGAStuCX76CSj"
+      },
+      "artists": [
+        {
+          "name": "Goosey",
+          "url": "https://open.spotify.com/artist/76ICZ7nJdYo0EBLYLkH2Tn"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188307,
+      "name": "Bodyshake",
+      "url": "https://open.spotify.com/track/1TkuDbAh4sYcPbLKLK2fg5"
     },
     {
       "album": {
@@ -7320,7 +7356,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 185806,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/1p3WGFpyLQaz3bpcneiTRD"
@@ -9332,6 +9368,28 @@
       "duration_ms": 147400,
       "name": "Dis-Go",
       "url": "https://open.spotify.com/track/3IBbf7Dchtyp4nln4pO8Yr"
+    },
+    {
+      "album": {
+        "name": "Disco Music EP",
+        "url": "https://open.spotify.com/album/4ss7YvyWg01WnvStRb1WH1"
+      },
+      "artists": [
+        {
+          "name": "Fimiani",
+          "url": "https://open.spotify.com/artist/1P7T5ujt8sKcMZEjXhzMyT"
+        },
+        {
+          "name": "Fab_o",
+          "url": "https://open.spotify.com/artist/20LvMRlFI8Nu4zQeFVU4Nh"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213841,
+      "name": "Disco Music",
+      "url": "https://open.spotify.com/track/4NlWRriDQTMtblY98KMYzo"
     },
     {
       "album": {
@@ -12062,7 +12120,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 219428,
       "name": "Everything's Gonna Be Fine",
       "url": "https://open.spotify.com/track/0w2InymNC1tOdBOOYfGd63"
@@ -18069,6 +18127,24 @@
     },
     {
       "album": {
+        "name": "Ladies & Gentlemen EP",
+        "url": "https://open.spotify.com/album/4KkN5MAXAlGjtuqH2YrPsb"
+      },
+      "artists": [
+        {
+          "name": "Zero T",
+          "url": "https://open.spotify.com/artist/5PKeA9LeUfSjUhy1ja1lsg"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267586,
+      "name": "I Just Can't",
+      "url": "https://open.spotify.com/track/1vD8SBifIw15E4bvL1y0Uo"
+    },
+    {
+      "album": {
         "name": "I Know It",
         "url": "https://open.spotify.com/album/2fJGRJvukowSvJyk1kwjxV"
       },
@@ -18120,6 +18196,24 @@
       "duration_ms": 339700,
       "name": "I Love Yo",
       "url": "https://open.spotify.com/track/4XLC6alPJZnwfOHKeac7yr"
+    },
+    {
+      "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/5vSwCEAsPiGYKOv8cfGjGB"
+      },
+      "artists": [
+        {
+          "name": "Harry Hayes",
+          "url": "https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206975,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/4ePQUOV04l8vovM9QqUFsm"
     },
     {
       "album": {
@@ -21632,7 +21726,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 207026,
       "name": "Loco",
       "url": "https://open.spotify.com/track/4eTOiOcfn4CRhkuJuqXD86"
@@ -25854,7 +25948,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 247582,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/2PSHoaWofpoYYoNrXUSbeL"
@@ -25916,6 +26010,24 @@
       "duration_ms": 268686,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/0WMgkysLW0mzrYJ2wWb4jw"
+    },
+    {
+      "album": {
+        "name": "Nothing Ever Changes",
+        "url": "https://open.spotify.com/album/3NnNgFaFsLgrIKLne8GAys"
+      },
+      "artists": [
+        {
+          "name": "Bryce Alakai",
+          "url": "https://open.spotify.com/artist/6xq5N3jccoYOrN19UUbo8B"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174222,
+      "name": "Nothing Ever Changes",
+      "url": "https://open.spotify.com/track/4aoEq1EDG90hq53DR9DT2w"
     },
     {
       "album": {
@@ -26782,7 +26894,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 206222,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/6muKIQgJPJRk5D9p07MHp5"
@@ -29200,6 +29312,24 @@
       "duration_ms": 286529,
       "name": "Pulses of Light",
       "url": "https://open.spotify.com/track/3Pb9BgklV5BiAeOSSRklHh"
+    },
+    {
+      "album": {
+        "name": "The Lost Carnival Tapes",
+        "url": "https://open.spotify.com/album/6YYtb9SAjtb6dolcIyqxlB"
+      },
+      "artists": [
+        {
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213250,
+      "name": "puma",
+      "url": "https://open.spotify.com/track/0vUkmgjokgPCqgJcODNMlZ"
     },
     {
       "album": {
@@ -33904,7 +34034,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 209032,
       "name": "Step Into Your Mind",
       "url": "https://open.spotify.com/track/2w1qucwFjnkjn4LRWhFjr1"
@@ -34748,7 +34878,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 334000,
       "name": "Sur",
       "url": "https://open.spotify.com/track/3YQZGmQ0ZetJLe0R3oHY04"

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "\nThe biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/1lDWyPzSZOqP5jfZNm5lLI?si=8dM77iyPQ8C_fJOHKg8xcw\">DJ Stokie</a>",
-  "name": "AMAPIANO grooves",
+  "description": "\nThe biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/5gAHEecJcLAR9qtLcaiVfj?si=0AH6dS2iTkSN-VlXGTPbcg\">Thuto The Human</a>",
+  "name": "AMAPIANO GROOVES",
   "tracks": [
     {
       "album": {
@@ -2933,6 +2933,32 @@
     },
     {
       "album": {
+        "name": "Bad Romance",
+        "url": "https://open.spotify.com/album/4oUJtJuGve2Nze6tVGvxjV"
+      },
+      "artists": [
+        {
+          "name": "Thuto The Human",
+          "url": "https://open.spotify.com/artist/5gAHEecJcLAR9qtLcaiVfj"
+        },
+        {
+          "name": "KMAT",
+          "url": "https://open.spotify.com/artist/4GugIMfUFCc3IJM7jD2C5d"
+        },
+        {
+          "name": "Tango Supreme",
+          "url": "https://open.spotify.com/artist/0QUhFTQrwcAXcidFIFpqZD"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409717,
+      "name": "Bad Romance",
+      "url": "https://open.spotify.com/track/5Scl2X5AJSC95Pfsh2FWGY"
+    },
+    {
+      "album": {
         "name": "Barcadi Fest",
         "url": "https://open.spotify.com/album/0dx8GE77ZYIRJULOfsGK1f"
       },
@@ -3228,7 +3254,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 297361,
       "name": "Bang'bize (feat. Young Stunna)",
       "url": "https://open.spotify.com/track/52YJovTEyXa4gqDMqX9iL7"
@@ -9347,6 +9373,40 @@
     },
     {
       "album": {
+        "name": "Gova Tinyonga (feat. Tiiger, King Abashwe & Don K)",
+        "url": "https://open.spotify.com/album/0VZQQFBM56iWYW0IWEj2Gz"
+      },
+      "artists": [
+        {
+          "name": "The Real Prechly",
+          "url": "https://open.spotify.com/artist/096BMEmDcx0OsBSEVll95N"
+        },
+        {
+          "name": "Bean RSA",
+          "url": "https://open.spotify.com/artist/0kuxESINPnBDaCCJjX3C5i"
+        },
+        {
+          "name": "Tiiger",
+          "url": "https://open.spotify.com/artist/0P59wLTlm4z9cqvlJD5g5f"
+        },
+        {
+          "name": "King Abashwe",
+          "url": "https://open.spotify.com/artist/6qDdsR94mY1V9FaA528QQ6"
+        },
+        {
+          "name": "Don K",
+          "url": "https://open.spotify.com/artist/4uBG39ukQHD38165zg1ELN"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294447,
+      "name": "Gova Tinyonga (feat. Tiiger, King Abashwe & Don K)",
+      "url": "https://open.spotify.com/track/3IykdW1U0CaiRVOeSDoOo6"
+    },
+    {
+      "album": {
         "name": "Government (feat. LeeMcKrazy, DJ Maphorisa, Ceeka RSA, Tiiger, Tyrone Dee, Al Xapo & JaySax)",
         "url": "https://open.spotify.com/album/05JHw0MmwAkGSBbkvJpSjI"
       },
@@ -12320,6 +12380,40 @@
       "duration_ms": 326000,
       "name": "iParty",
       "url": "https://open.spotify.com/track/59IMzxF7dj5GGEqj2cwZqt"
+    },
+    {
+      "album": {
+        "name": "Iphinde",
+        "url": "https://open.spotify.com/album/5mPwWVcf8eTxFUZP9SHNtq"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "King Tone SA",
+          "url": "https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA"
+        },
+        {
+          "name": "Khalil Harrison",
+          "url": "https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp"
+        },
+        {
+          "name": "Tumelo_za",
+          "url": "https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD"
+        },
+        {
+          "name": "LilyFaith",
+          "url": "https://open.spotify.com/artist/4NptbBcRjmRZYpFSMfmutv"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415714,
+      "name": "Iphinde - Club Mix",
+      "url": "https://open.spotify.com/track/7A2yBsVft09RE0YafPXOTK"
     },
     {
       "album": {
@@ -16772,7 +16866,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 420033,
       "name": "Magents (Khululu)",
       "url": "https://open.spotify.com/track/6lQTHlyhOsQ0FSSWRNepce"
@@ -16886,7 +16980,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 402896,
       "name": "Mali",
       "url": "https://open.spotify.com/track/2BIHVjaSpbTAtvx0IrXmv6"
@@ -25325,6 +25419,28 @@
     },
     {
       "album": {
+        "name": "Sondela Dali",
+        "url": "https://open.spotify.com/album/7LINkOMXIDG8scSPuHLTpT"
+      },
+      "artists": [
+        {
+          "name": "Harrycane",
+          "url": "https://open.spotify.com/artist/6umjXXP7Q8i4he6WALLuOf"
+        },
+        {
+          "name": "Nkosazana Daughter",
+          "url": "https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292250,
+      "name": "Sondela Dali",
+      "url": "https://open.spotify.com/track/4uz8SKa7tfqngHBMJ8YTlY"
+    },
+    {
+      "album": {
         "name": "Ivy League",
         "url": "https://open.spotify.com/album/3H2eycTSwpPa0mGpacbyn6"
       },
@@ -29448,7 +29564,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 515887,
       "name": "Ukhathele (feat. Mashbeatz & Mdu aka TRP)",
       "url": "https://open.spotify.com/track/6eg1GFb4o455b1WsvPwMUY"

@@ -1,13 +1,29 @@
 {
   "description": "Down-tempo and easy listening music. Cover: Teddy Swims",
-  "num_followers": 5686,
+  "num_followers": 5691,
   "original_name": "Low Key Pop",
   "owner": {
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "AAAHAzPTF1U3w8BvggnWoFIM2a2ep519",
+  "snapshot_id": "AAAHBHX4G6XKcwBZ0mEYsAWr3RRsg5tC",
   "tracks": [
+    {
+      "added_at": "2024-06-21 00:52:06",
+      "album": {
+        "name": "feelslikeimfallinginlove",
+        "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 237803,
+      "name": "feelslikeimfallinginlove",
+      "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
+    },
     {
       "added_at": "2024-05-03 02:23:23",
       "album": {

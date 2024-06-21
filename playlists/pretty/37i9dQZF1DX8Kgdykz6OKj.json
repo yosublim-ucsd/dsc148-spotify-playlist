@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1291931,
+  "num_followers": 1292375,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2024-06-18 12:50:12",
       "album": {
+        "name": "Good Vibrations",
+        "url": "https://open.spotify.com/album/6o4hzbJINIvqqDDZzfVbit"
+      },
+      "artists": [
+        {
+          "name": "freekind.",
+          "url": "https://open.spotify.com/artist/5UEgXCXCQwKaQ4bmrSBcEV"
+        }
+      ],
+      "duration_ms": 216883,
+      "name": "Good Vibrations",
+      "url": "https://open.spotify.com/track/38g4mEWyukKL2IZwX5f4jg"
+    },
+    {
+      "added_at": "2024-06-18 12:50:12",
+      "album": {
         "name": "Beautiful Life (feat. 38 Spesh & Jay Worthy)",
         "url": "https://open.spotify.com/album/5FpBZuKzH03Q38TG6crrB4"
       },
@@ -1631,18 +1647,26 @@
     {
       "added_at": "2024-06-18 12:50:12",
       "album": {
-        "name": "Good Vibrations",
-        "url": "https://open.spotify.com/album/6o4hzbJINIvqqDDZzfVbit"
+        "name": "Jazzmatazz: The New Reality",
+        "url": "https://open.spotify.com/album/4muPpXUkiFbHhEQG7OugQV"
       },
       "artists": [
         {
-          "name": "freekind.",
-          "url": "https://open.spotify.com/artist/5UEgXCXCQwKaQ4bmrSBcEV"
+          "name": "Guru",
+          "url": "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
+        },
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        },
+        {
+          "name": "iNi Kamoze",
+          "url": "https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs"
         }
       ],
-      "duration_ms": 216883,
-      "name": "Good Vibrations",
-      "url": "https://open.spotify.com/track/38g4mEWyukKL2IZwX5f4jg"
+      "duration_ms": 259533,
+      "name": "Insert A (Mental Relaxation) / Medicine",
+      "url": "https://open.spotify.com/track/6xtJxtnu4IWDMOn824Dd7i"
     },
     {
       "added_at": "2024-06-18 12:50:12",
@@ -1667,30 +1691,6 @@
       "duration_ms": 177713,
       "name": "Factor",
       "url": "https://open.spotify.com/track/4P2wL0Bt5X2NyrpHywsuPM"
-    },
-    {
-      "added_at": "2024-06-18 12:50:12",
-      "album": {
-        "name": "Jazzmatazz: The New Reality",
-        "url": "https://open.spotify.com/album/4muPpXUkiFbHhEQG7OugQV"
-      },
-      "artists": [
-        {
-          "name": "Guru",
-          "url": "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
-        },
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        },
-        {
-          "name": "iNi Kamoze",
-          "url": "https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs"
-        }
-      ],
-      "duration_ms": 259533,
-      "name": "Insert A (Mental Relaxation) / Medicine",
-      "url": "https://open.spotify.com/track/6xtJxtnu4IWDMOn824Dd7i"
     },
     {
       "added_at": "2024-06-18 12:50:12",
@@ -1855,26 +1855,6 @@
     {
       "added_at": "2024-06-18 12:50:12",
       "album": {
-        "name": "The New Groove: The Blue Note Remix Project Vol. 1",
-        "url": "https://open.spotify.com/album/78JSLGBEpOP2pGkxRHGzvs"
-      },
-      "artists": [
-        {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
-        },
-        {
-          "name": "Easy Mo Bee",
-          "url": "https://open.spotify.com/artist/1hFiH4ETB3NF2zmJPGzke4"
-        }
-      ],
-      "duration_ms": 413560,
-      "name": "The Sophisticated Hippie - Easy Mo Bee Remix",
-      "url": "https://open.spotify.com/track/4a4tlk5e9ktzcbdxqbEoxi"
-    },
-    {
-      "added_at": "2024-06-18 12:50:12",
-      "album": {
         "name": "Still Not In Space",
         "url": "https://open.spotify.com/album/490gSjb9Q1NQ7wy0iGBVFO"
       },
@@ -1891,6 +1871,26 @@
       "duration_ms": 176149,
       "name": "Still Not In Space",
       "url": "https://open.spotify.com/track/4toIvyzvBL5Yl44wYpVWsI"
+    },
+    {
+      "added_at": "2024-06-18 12:50:12",
+      "album": {
+        "name": "The New Groove: The Blue Note Remix Project Vol. 1",
+        "url": "https://open.spotify.com/album/78JSLGBEpOP2pGkxRHGzvs"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        },
+        {
+          "name": "Easy Mo Bee",
+          "url": "https://open.spotify.com/artist/1hFiH4ETB3NF2zmJPGzke4"
+        }
+      ],
+      "duration_ms": 413560,
+      "name": "The Sophisticated Hippie - Easy Mo Bee Remix",
+      "url": "https://open.spotify.com/track/4a4tlk5e9ktzcbdxqbEoxi"
     },
     {
       "added_at": "2024-06-18 12:50:12",
@@ -1931,6 +1931,26 @@
     {
       "added_at": "2024-06-18 12:50:12",
       "album": {
+        "name": "fusion.",
+        "url": "https://open.spotify.com/album/5aDct9hn71QRnhcCiAJN54"
+      },
+      "artists": [
+        {
+          "name": "Davide Shorty",
+          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
+        },
+        {
+          "name": "Sans Soucis",
+          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
+        }
+      ],
+      "duration_ms": 220797,
+      "name": "Battiti in parole",
+      "url": "https://open.spotify.com/track/1EtXY815EYdOeZgz7ILBhL"
+    },
+    {
+      "added_at": "2024-06-18 12:50:12",
+      "album": {
         "name": "Morning Walk",
         "url": "https://open.spotify.com/album/4e9WJyGgbyfxGAv06RneXG"
       },
@@ -1951,26 +1971,6 @@
       "duration_ms": 193450,
       "name": "Morning Walk",
       "url": "https://open.spotify.com/track/4C2y1aKylM9BcA0qrk0ABY"
-    },
-    {
-      "added_at": "2024-06-18 12:50:12",
-      "album": {
-        "name": "fusion.",
-        "url": "https://open.spotify.com/album/5aDct9hn71QRnhcCiAJN54"
-      },
-      "artists": [
-        {
-          "name": "Davide Shorty",
-          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
-        },
-        {
-          "name": "Sans Soucis",
-          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
-        }
-      ],
-      "duration_ms": 220797,
-      "name": "Battiti in parole",
-      "url": "https://open.spotify.com/track/1EtXY815EYdOeZgz7ILBhL"
     },
     {
       "added_at": "2024-06-18 12:50:12",

@@ -2262,7 +2262,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 199691,
       "name": "\u5206\u4f60\u4e00\u534a",
       "url": "https://open.spotify.com/track/70MwLRAYlFW3UITQ2xs3mh"
@@ -4776,6 +4776,28 @@
       "duration_ms": 218620,
       "name": "\u6709\u9ede",
       "url": "https://open.spotify.com/track/210VyijBJR7X8fcWv0QofO"
+    },
+    {
+      "album": {
+        "name": "\u671f\u5f85\u8457\u4f60\u7684\u51fa\u73fe\uff5c\u9ec3\u8391\u8317\u3001\u9808\u5f18\u9053",
+        "url": "https://open.spotify.com/album/4wKhBdIM1SM5747ok3aPAD"
+      },
+      "artists": [
+        {
+          "name": "AcQUA\u6e90\u5c11\u5e74",
+          "url": "https://open.spotify.com/artist/4kKXHe07aN1I6LEAJEWddz"
+        },
+        {
+          "name": "\u6797\u8a00\u5955",
+          "url": "https://open.spotify.com/artist/4amttJ5Bgvth23ShmHNxaH"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187611,
+      "name": "\u671f\u5f85\u8457\u4f60\u7684\u51fa\u73fe\uff5c\u9ec3\u8391\u8317\u3001\u9808\u5f18\u9053",
+      "url": "https://open.spotify.com/track/5TmRtmA8bJtPZF5ynGKpAM"
     },
     {
       "album": {

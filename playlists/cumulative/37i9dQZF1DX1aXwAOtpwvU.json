@@ -701,6 +701,28 @@
     },
     {
       "album": {
+        "name": "D\u00e9j\u00e0 Vu",
+        "url": "https://open.spotify.com/album/3Wkdzr7KwebHyxmxmqdAtK"
+      },
+      "artists": [
+        {
+          "name": "Frank Leen",
+          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
+        },
+        {
+          "name": "Blinders",
+          "url": "https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138409,
+      "name": "D\u00e9j\u00e0 Vu",
+      "url": "https://open.spotify.com/track/3jCMMNBQbNZp1JdMjFKg32"
+    },
+    {
+      "album": {
         "name": "echo",
         "url": "https://open.spotify.com/album/6mKo5zXgRUbxAEsVwvP5eu"
       },
@@ -944,10 +966,32 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 161250,
       "name": "g\u0142os",
       "url": "https://open.spotify.com/track/33wtYvTtesvUWhWeDGaIhU"
+    },
+    {
+      "album": {
+        "name": "g\u0142os (Skytech Edit)",
+        "url": "https://open.spotify.com/album/5RAnnI1p4nc89lpS1z6lUs"
+      },
+      "artists": [
+        {
+          "name": "bryska",
+          "url": "https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh"
+        },
+        {
+          "name": "Skytech",
+          "url": "https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149347,
+      "name": "g\u0142os - Skytech Edit",
+      "url": "https://open.spotify.com/track/7pu70H0Wjs5HdqLJjUUYXP"
     },
     {
       "album": {
@@ -1445,6 +1489,24 @@
     },
     {
       "album": {
+        "name": "MIAMI VICE",
+        "url": "https://open.spotify.com/album/5XBFcO4GD7rNxenfYE5ZoU"
+      },
+      "artists": [
+        {
+          "name": "NEL",
+          "url": "https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134117,
+      "name": "MIAMI VICE",
+      "url": "https://open.spotify.com/track/6cvLck4RJ9yABjPuSQrx6w"
+    },
+    {
+      "album": {
         "name": "Miasto t\u0119tni",
         "url": "https://open.spotify.com/album/0EtJlxmS8iAqAUQbVoATOa"
       },
@@ -1670,7 +1732,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 188400,
       "name": "Na zawsze, morze",
       "url": "https://open.spotify.com/track/5c6eOOvCcwmySM46HN7Er4"
@@ -3170,7 +3232,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 211321,
       "name": "Z\u0142udzenia",
       "url": "https://open.spotify.com/track/0xechEr9xpwHY6eP2wrQud"

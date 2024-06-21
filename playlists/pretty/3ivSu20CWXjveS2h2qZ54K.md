@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,510 likes - 72 songs - 3 hr 56 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,511 likes - 72 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Life](https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Life](https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl) | 3:22 |
 | 2 | [Favourite](https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Favourite](https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ) | 4:16 |
-| 3 | [Brutalismán](https://open.spotify.com/track/27edam6MiXvdM7WEiPMX4t) | [Nudozurdo](https://open.spotify.com/artist/2Gw5aCeNK9o0PmsNuSirW0), [Alondra Bentley](https://open.spotify.com/artist/5IdZFLuaPVRlnTHgGYoKO3) | [Brutalismán](https://open.spotify.com/album/6Q4OVV7CjEQbZeNIIj8LxF) | 4:00 |
+| 3 | [Brutalismán](https://open.spotify.com/track/27edam6MiXvdM7WEiPMX4t) | [Nudozurdo](https://open.spotify.com/artist/2Gw5aCeNK9o0PmsNuSirW0), [Alondra Bentley](https://open.spotify.com/artist/5IdZFLuaPVRlnTHgGYoKO3) | [Brutalismán](https://open.spotify.com/album/6Q4OVV7CjEQbZeNIIj8LxF) | 3:52 |
 | 4 | [End Of The Queue](https://open.spotify.com/track/7LxXego9BWbdZmUXe6YZ5Y) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [End Of The Queue](https://open.spotify.com/album/4PoAd5i6oyzaqDvaqO046x) | 3:14 |
 | 5 | [Let Her Know](https://open.spotify.com/track/0dX9DhvCHFTwnF4sgUSSVD) | [CMYK](https://open.spotify.com/artist/2SHW8CpfWgmshAB9lruBTV), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [CMYK 002](https://open.spotify.com/album/2bnb3azb40CboItUxCdLDR) | 4:07 |
 | 6 | [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 |

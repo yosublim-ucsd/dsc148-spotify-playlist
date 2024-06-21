@@ -569,6 +569,24 @@
     },
     {
       "album": {
+        "name": "Animals",
+        "url": "https://open.spotify.com/album/12jZeHVWWc9Cm9y6bguEmT"
+      },
+      "artists": [
+        {
+          "name": "Sugar Jesus",
+          "url": "https://open.spotify.com/artist/1cdXZUfRhXZ8DnwMV4CcS5"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176129,
+      "name": "Animals",
+      "url": "https://open.spotify.com/track/6GXoMeQ7queSJpATzczsyU"
+    },
+    {
+      "album": {
         "name": "Reawakenings",
         "url": "https://open.spotify.com/album/1CUCeOtiH3pknijQK7zduV"
       },
@@ -1208,7 +1226,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-19",
+      "date_removed": null,
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
@@ -1344,7 +1362,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 153000,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
@@ -1583,6 +1601,46 @@
     },
     {
       "album": {
+        "name": "Dream A Lot",
+        "url": "https://open.spotify.com/album/4N3Rl6QMVH4xFhBFyMMsqB"
+      },
+      "artists": [
+        {
+          "name": "Dream A Lot",
+          "url": "https://open.spotify.com/artist/4jTIuaczNBawGhNNUm2ryI"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "Can't Get You Out Of My Head",
+      "url": "https://open.spotify.com/track/3eWk1qJMbUioTAfGPnbAzh"
+    },
+    {
+      "album": {
+        "name": "The Iconic Series, Vol. 7",
+        "url": "https://open.spotify.com/album/5WtTUoijijg4EC3SU0Qqp5"
+      },
+      "artists": [
+        {
+          "name": "J2",
+          "url": "https://open.spotify.com/artist/7bKIwE1P5IDeq0NcQC6dHd"
+        },
+        {
+          "name": "Sara Phillips",
+          "url": "https://open.spotify.com/artist/0IYTdG3kSqaozW2xSPA6GL"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188770,
+      "name": "Can't Get You out of My Head (Epic Trailer Version)",
+      "url": "https://open.spotify.com/track/6wyEDSR15zW3JrJyirj22r"
+    },
+    {
+      "album": {
         "name": "Covers (Vol. 1)",
         "url": "https://open.spotify.com/album/3SxDqwIDZusXnAdybQD3mP"
       },
@@ -1602,6 +1660,24 @@
       "duration_ms": 169500,
       "name": "Can't Help Falling In Love - DARK",
       "url": "https://open.spotify.com/track/1xErKvTvMqszpokp8Mr3Mq"
+    },
+    {
+      "album": {
+        "name": "BRUISES",
+        "url": "https://open.spotify.com/album/1ljrDtcXph97DPFJwGNxeD"
+      },
+      "artists": [
+        {
+          "name": "Echos",
+          "url": "https://open.spotify.com/artist/6SnMMbLQ4iS8WIyt3ksmCR"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213394,
+      "name": "CAROUSEL",
+      "url": "https://open.spotify.com/track/1m3Ndp2mMUFJuCfn1VFIkE"
     },
     {
       "album": {
@@ -2142,6 +2218,28 @@
       "duration_ms": 196736,
       "name": "Cycles",
       "url": "https://open.spotify.com/track/20u73uhB794MKCNzyiU6Z7"
+    },
+    {
+      "album": {
+        "name": "Dance Alone",
+        "url": "https://open.spotify.com/album/6VFvESDvhvsBjCSlIXpIXw"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172246,
+      "name": "Dance Alone",
+      "url": "https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1"
     },
     {
       "album": {
@@ -2996,6 +3094,24 @@
       "duration_ms": 180185,
       "name": "Foreign Things",
       "url": "https://open.spotify.com/track/1tyGqOo8VRLDVQETLtMyDS"
+    },
+    {
+      "album": {
+        "name": "Divinely Uninspired To A Hellish Extent",
+        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210863,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/12OLyHDxt6dqlAybSPFBK3"
     },
     {
       "album": {
@@ -4490,6 +4606,24 @@
       "duration_ms": 184841,
       "name": "HOT TO GO!",
       "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
+    },
+    {
+      "album": {
+        "name": "Hunni Hunni",
+        "url": "https://open.spotify.com/album/3TH19JULtfdM9Cut6kNW0G"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE DOYLE RYDER",
+          "url": "https://open.spotify.com/artist/5QCok3NH6vAlK12mUElHeZ"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180866,
+      "name": "Hunni Hunni",
+      "url": "https://open.spotify.com/track/4PW14yNHiJQ48PWD2hkFXk"
     },
     {
       "album": {
@@ -6654,7 +6788,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 164000,
       "name": "Mad",
       "url": "https://open.spotify.com/track/53t808peu3qAMf13BsJeyY"
@@ -6992,6 +7126,24 @@
       "duration_ms": 183843,
       "name": "Mmm",
       "url": "https://open.spotify.com/track/0eHeQs0E7T7CFfnfk6uAJg"
+    },
+    {
+      "album": {
+        "name": "20mg of Happiness",
+        "url": "https://open.spotify.com/album/338Td52uBRdtXDqIZiOo6D"
+      },
+      "artists": [
+        {
+          "name": "ROSIE",
+          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171960,
+      "name": "Never the 1",
+      "url": "https://open.spotify.com/track/3CvfUOkWsfTr7ZIjl6D9Uk"
     },
     {
       "album": {
@@ -7815,6 +7967,24 @@
     },
     {
       "album": {
+        "name": "Pretty Girl Era",
+        "url": "https://open.spotify.com/album/6G32ymoo3YjIUKVMGIKJUY"
+      },
+      "artists": [
+        {
+          "name": "LU KALA",
+          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155571,
+      "name": "Pretty Girl Era",
+      "url": "https://open.spotify.com/track/3w6JB9UckmYZBn4Tsq2kpM"
+    },
+    {
+      "album": {
         "name": "The Best Of Salt-N-Pepa: 20th Century Masters - The Millennium Collection",
         "url": "https://open.spotify.com/album/5zdPBV7bOAYAu2vBCEV3Sv"
       },
@@ -8316,6 +8486,42 @@
       "duration_ms": 155939,
       "name": "Satisfied (feat. MAX)",
       "url": "https://open.spotify.com/track/57QXXEBy5apjgxsyXSb8YE"
+    },
+    {
+      "album": {
+        "name": "Saturn",
+        "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186191,
+      "name": "Saturn",
+      "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
+    },
+    {
+      "album": {
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237493,
+      "name": "Save Me (with Lainey Wilson)",
+      "url": "https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM"
     },
     {
       "album": {
@@ -9431,6 +9637,24 @@
     },
     {
       "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217866,
+      "name": "Talking to the Moon",
+      "url": "https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU"
+    },
+    {
+      "album": {
         "name": "Tambourine",
         "url": "https://open.spotify.com/album/35qJZJ0yUoWdyrqs6pDbTK"
       },
@@ -10040,7 +10264,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 237202,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/7sgvhY89MQ5ipWtgr9l3NQ"
@@ -10676,7 +10900,7 @@
       ],
       "date_added": "2023-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 179257,
       "name": "Welcome To The War",
       "url": "https://open.spotify.com/track/796kVXVlfWwMyleQEAul6g"
@@ -10734,6 +10958,24 @@
       "duration_ms": 176026,
       "name": "What Is Love - Reloaded - Radio Edit",
       "url": "https://open.spotify.com/track/5GvueiOy3uZz3dMeWVOAbM"
+    },
+    {
+      "album": {
+        "name": "What Love Is",
+        "url": "https://open.spotify.com/album/1p1EzcpdBbRS3Dnvz56TNm"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220373,
+      "name": "What Love Is",
+      "url": "https://open.spotify.com/track/6eF2psRQNVS3EbIZ1q5NV3"
     },
     {
       "album": {

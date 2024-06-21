@@ -1487,6 +1487,24 @@
     },
     {
       "album": {
+        "name": "Be Strong",
+        "url": "https://open.spotify.com/album/2aaywPSyPyNfV4FcD6rHUx"
+      },
+      "artists": [
+        {
+          "name": "One True Pairing",
+          "url": "https://open.spotify.com/artist/5Ijj1CZ7i0VFZ6Ghrmij2K"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Be Strong",
+      "url": "https://open.spotify.com/track/2wdLugV4zmXr8DOZPVn9mr"
+    },
+    {
+      "album": {
         "name": "Beaucoup",
         "url": "https://open.spotify.com/album/35bJWIoMYioo7R5CBUODTJ"
       },

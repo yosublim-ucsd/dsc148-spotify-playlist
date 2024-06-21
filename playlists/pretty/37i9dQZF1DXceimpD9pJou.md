@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:4MgA2G0NoAMdcFBaK5ZAfw">Loswan Melgar</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,131 likes - 99 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,137 likes - 99 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 98 | [VIVO](https://open.spotify.com/track/3vgezoirjF288HUBBeHVzw) | [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [VIVO](https://open.spotify.com/album/23jrHPEHLtF4QWR7pVdnVF) | 2:08 |
 | 99 | [Solo Cristo](https://open.spotify.com/track/1FEmQ2YxGsg66ksgIoubVI) | [mission musica](https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw) | [Solo Cristo](https://open.spotify.com/album/6OSnVqORLcv0eLMoG4Ye5a) | 6:54 |
 
-Snapshot ID: `ZmvgCgAAAAArZ/m720t//XSj5mp8oGIb`
+Snapshot ID: `ZnSnSgAAAAB2BorEuv68/QL1cpw8cQWh`

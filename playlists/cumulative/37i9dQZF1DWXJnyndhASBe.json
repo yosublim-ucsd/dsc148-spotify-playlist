@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Kronkel Dom",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Zeamsone, Szpaku",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -302,7 +302,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 151077,
       "name": "@champagnepapi",
       "url": "https://open.spotify.com/track/1y62mw3mC3mtVOOtjrVVl1"
@@ -1379,6 +1379,28 @@
     },
     {
       "album": {
+        "name": "CHANEL",
+        "url": "https://open.spotify.com/album/7A46FscWKSsRYVi9BXlK4r"
+      },
+      "artists": [
+        {
+          "name": "Szaran",
+          "url": "https://open.spotify.com/artist/46O01Gw9HMk3vQtS9VvyGG"
+        },
+        {
+          "name": "Sok\u00f3\u0142",
+          "url": "https://open.spotify.com/artist/5Kuxl5ZenCl9fYzmtin6ot"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "CHANEL",
+      "url": "https://open.spotify.com/track/2HTro5phSfDcaKoKTx188G"
+    },
+    {
+      "album": {
         "name": "Chata Nie Densflor",
         "url": "https://open.spotify.com/album/41YYIHo6ftdHmtdeMAVoDa"
       },
@@ -1598,7 +1620,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 160000,
       "name": "co ja wam zrobi\u0142em?",
       "url": "https://open.spotify.com/track/6QuGHPcmE72o7dsnKRXrNw"
@@ -1926,7 +1948,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 204923,
       "name": "CZAS 2",
       "url": "https://open.spotify.com/track/3TScSLjH6uzYm8NXphZJCX"
@@ -1966,7 +1988,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 120960,
       "name": "Czeski Plastik",
       "url": "https://open.spotify.com/track/3RGul8ZAlQ3UtYJHjBHB7p"
@@ -2429,6 +2451,24 @@
     },
     {
       "album": {
+        "name": "Fashion Week",
+        "url": "https://open.spotify.com/album/6b7EXbLHhR62cnaPaZLlTj"
+      },
+      "artists": [
+        {
+          "name": "Louis Villain",
+          "url": "https://open.spotify.com/artist/5k96hVqrpJoo0zmlVggVzv"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154736,
+      "name": "Fashion Week",
+      "url": "https://open.spotify.com/track/3Vr3rqvB6UuqmQ887lYO2v"
+    },
+    {
+      "album": {
         "name": "STYXXX",
         "url": "https://open.spotify.com/album/0jK4Jnbd1PylwYTh8SJkS7"
       },
@@ -2558,7 +2598,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 149142,
       "name": "FURIA",
       "url": "https://open.spotify.com/track/0X8uPkS0dWIWASjK6dFTLr"
@@ -3140,7 +3180,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 178461,
       "name": "Ikar",
       "url": "https://open.spotify.com/track/1JjLRI0SajNgJcrAlWGbQ4"
@@ -3728,6 +3768,32 @@
       "duration_ms": 184733,
       "name": "Kr\u00f3l jest nagi",
       "url": "https://open.spotify.com/track/3ebV1wNl0sJZUMkS7T7K2g"
+    },
+    {
+      "album": {
+        "name": "Kr\u00f3tkie story",
+        "url": "https://open.spotify.com/album/6D2kQH7rJSXyZbSeuH7JGw"
+      },
+      "artists": [
+        {
+          "name": "Oskar83",
+          "url": "https://open.spotify.com/artist/7BIHYaTeyOxOKV7EyHF0Z4"
+        },
+        {
+          "name": "Roiii",
+          "url": "https://open.spotify.com/artist/0DdgjYMzRw7t9TVwFuBI0V"
+        },
+        {
+          "name": "Def Jam World Tour",
+          "url": "https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169014,
+      "name": "Kr\u00f3tkie story",
+      "url": "https://open.spotify.com/track/037alnjowyjtJBDQ0JOM5U"
     },
     {
       "album": {
@@ -4667,6 +4733,36 @@
     },
     {
       "album": {
+        "name": "Na luzie",
+        "url": "https://open.spotify.com/album/2rCoZMa7lrDnXQmGuAxFNw"
+      },
+      "artists": [
+        {
+          "name": "Paluch",
+          "url": "https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv"
+        },
+        {
+          "name": "Bodhi",
+          "url": "https://open.spotify.com/artist/37vUCFYDnlnvl1R8kxrHFw"
+        },
+        {
+          "name": "Le\u015bny",
+          "url": "https://open.spotify.com/artist/2MRSNbEPY2YKzkgDag5fzg"
+        },
+        {
+          "name": "Dj Taek",
+          "url": "https://open.spotify.com/artist/5FhjSSoKazHVr8mWpiwW6R"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191701,
+      "name": "Na luzie",
+      "url": "https://open.spotify.com/track/2qcQACBoJyybSTILo9YFer"
+    },
+    {
+      "album": {
         "name": "NA WIEKI",
         "url": "https://open.spotify.com/album/6OpOhM5DtQp6EwasYe6zOR"
       },
@@ -5025,6 +5121,28 @@
     },
     {
       "album": {
+        "name": "nie chc\u0119 przesta\u0107 si\u0119 bawi\u0107",
+        "url": "https://open.spotify.com/album/1GmMlRvdySREHx6gXZC1E0"
+      },
+      "artists": [
+        {
+          "name": "Zeamsone",
+          "url": "https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY"
+        },
+        {
+          "name": "Szpaku",
+          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131428,
+      "name": "nie chc\u0119 przesta\u0107 si\u0119 bawi\u0107",
+      "url": "https://open.spotify.com/track/76Ftt0BYatR4A7bQaZAwBm"
+    },
+    {
+      "album": {
         "name": "nie jestem romantyczny",
         "url": "https://open.spotify.com/album/0YOOJVUTl08owfwGLe7lHQ"
       },
@@ -5319,6 +5437,24 @@
     },
     {
       "album": {
+        "name": "OD ZAWSZE",
+        "url": "https://open.spotify.com/album/6QCuk248wR6zvjANP71zAC"
+      },
+      "artists": [
+        {
+          "name": "Asster",
+          "url": "https://open.spotify.com/artist/5PJKbcbs3gm5tdePNo2eZX"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152614,
+      "name": "OD ZAWSZE",
+      "url": "https://open.spotify.com/track/75nhveli9wuCkDrmiSK8X9"
+    },
+    {
+      "album": {
         "name": "Offwhite",
         "url": "https://open.spotify.com/album/3FhUHjFhhWguRwjfoq68x1"
       },
@@ -5338,7 +5474,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 142784,
       "name": "Offwhite",
       "url": "https://open.spotify.com/track/75rO8VUFuUUsuLmpf1p6rk"
@@ -5368,7 +5504,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 153400,
       "name": "ON THE BLOCK",
       "url": "https://open.spotify.com/track/4EhoDKYSHeU2yOboSCo6a9"
@@ -5408,7 +5544,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 189176,
       "name": "Opus Magnum",
       "url": "https://open.spotify.com/track/0dFkwPSFSdXAqJzks3R46h"
@@ -6626,7 +6762,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 163500,
       "name": "SEN W WARSZAWIE",
       "url": "https://open.spotify.com/track/6D163gDxH4pBndbMOGDD3f"
@@ -6837,6 +6973,54 @@
     },
     {
       "album": {
+        "name": "Smak Twych Ust",
+        "url": "https://open.spotify.com/album/3VcsFp1gCinL36OHQd3DGD"
+      },
+      "artists": [
+        {
+          "name": "Kacper HTA",
+          "url": "https://open.spotify.com/artist/39lKxb2ZHaygwUTthI92SS"
+        },
+        {
+          "name": "Hinol Polska Wersja",
+          "url": "https://open.spotify.com/artist/7jrtLe4eVfWhYWZn5vsopg"
+        },
+        {
+          "name": "PSR",
+          "url": "https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165781,
+      "name": "Smak Twych Ust",
+      "url": "https://open.spotify.com/track/0W2vKOb9aBqfo98GZqsQWA"
+    },
+    {
+      "album": {
+        "name": "SOBOTA WIECZ\u00d3R",
+        "url": "https://open.spotify.com/album/3ve9nVA4gEYrA0m1OrL2P6"
+      },
+      "artists": [
+        {
+          "name": "Young Leosia",
+          "url": "https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ"
+        },
+        {
+          "name": "Jacu\u015b",
+          "url": "https://open.spotify.com/artist/1efYxTvCNTpqYqfiEsxawq"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "SOBOTA WIECZ\u00d3R",
+      "url": "https://open.spotify.com/track/62x7s8C2GFiu9Ju3eSZ5GB"
+    },
+    {
+      "album": {
         "name": "Spaceship",
         "url": "https://open.spotify.com/album/41Ay57QacWWC33mFq4mUWi"
       },
@@ -7032,6 +7216,28 @@
       "duration_ms": 149317,
       "name": "Szpilki",
       "url": "https://open.spotify.com/track/1L6p039zHMzcDiv8onVJ1p"
+    },
+    {
+      "album": {
+        "name": "S\u0141OWIANIN",
+        "url": "https://open.spotify.com/album/6g6KvtyWx4eMsYUFC2uJms"
+      },
+      "artists": [
+        {
+          "name": "Bia\u0142as",
+          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
+        },
+        {
+          "name": "Lanek",
+          "url": "https://open.spotify.com/artist/7afPAbg5jb45KFUSnHIMFG"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155520,
+      "name": "S\u0141OWIANIN",
+      "url": "https://open.spotify.com/track/6cCd0zplDY8UpWzZWnt57h"
     },
     {
       "album": {
@@ -7416,6 +7622,28 @@
       "duration_ms": 142285,
       "name": "TYLE S\u0141O\u0143CA",
       "url": "https://open.spotify.com/track/2oILgeSykGjl0N9m0VvAjO"
+    },
+    {
+      "album": {
+        "name": "04:01",
+        "url": "https://open.spotify.com/album/0rMY6sS2J58oeblsjSWx1G"
+      },
+      "artists": [
+        {
+          "name": "K\u0119K\u0119",
+          "url": "https://open.spotify.com/artist/11ohMXkA2KIq5F1DoWH2jj"
+        },
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Tylko Ciemno\u015b\u0107",
+      "url": "https://open.spotify.com/track/2SD4ey1A551YvZWlhQpTPA"
     },
     {
       "album": {

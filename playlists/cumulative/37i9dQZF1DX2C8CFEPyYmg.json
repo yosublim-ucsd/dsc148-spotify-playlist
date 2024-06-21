@@ -4307,6 +4307,24 @@
     },
     {
       "album": {
+        "name": "Little Star",
+        "url": "https://open.spotify.com/album/6erEubw3d93J1j9ZvLAMKX"
+      },
+      "artists": [
+        {
+          "name": "Vanja Knutsson",
+          "url": "https://open.spotify.com/artist/3NDeUrL3OW0qQ4tacd8G4h"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111500,
+      "name": "Little Star",
+      "url": "https://open.spotify.com/track/0DTAbJ8uYZaBXTOEcPuROt"
+    },
+    {
+      "album": {
         "name": "Little Sweet Pea",
         "url": "https://open.spotify.com/album/3szc0c6V9Akfus5LsIWOiO"
       },
@@ -6017,6 +6035,24 @@
     },
     {
       "album": {
+        "name": "Row Row Row Your Boat",
+        "url": "https://open.spotify.com/album/7k92ZdO7IcT8gBmcJuzpqr"
+      },
+      "artists": [
+        {
+          "name": "The Harp Players",
+          "url": "https://open.spotify.com/artist/51gWjFUuvRVjXQctDzFCIj"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76512,
+      "name": "Row Row Row Your Boat",
+      "url": "https://open.spotify.com/track/7tGsqfYOTrqcv4v9BD8Dkr"
+    },
+    {
+      "album": {
         "name": "Row Your Boat",
         "url": "https://open.spotify.com/album/1BXXcxa3g3Izca7MjBlKMx"
       },
@@ -6230,6 +6266,24 @@
       "duration_ms": 161250,
       "name": "Skogen Sover",
       "url": "https://open.spotify.com/track/42EfNrLcYB9vMAnfi928Ci"
+    },
+    {
+      "album": {
+        "name": "Sleep Again",
+        "url": "https://open.spotify.com/album/1rzuU8LE7au07WGqLair5L"
+      },
+      "artists": [
+        {
+          "name": "Emilee Ness",
+          "url": "https://open.spotify.com/artist/1fPd9o5MEt6E49AnWODQ7M"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90500,
+      "name": "Sleep Again",
+      "url": "https://open.spotify.com/track/6D8I4k4yUchE5NJt16OQBt"
     },
     {
       "album": {
@@ -6914,6 +6968,24 @@
       "duration_ms": 102350,
       "name": "Stars at Night",
       "url": "https://open.spotify.com/track/4ItX9mxGkbuwNo4TwNhTMF"
+    },
+    {
+      "album": {
+        "name": "Stars Cuddling",
+        "url": "https://open.spotify.com/album/1CHVC4Msc8WDNRHZk8VRXM"
+      },
+      "artists": [
+        {
+          "name": "Nattkvisten",
+          "url": "https://open.spotify.com/artist/7tPCegvX3wIjKlWDJ4HIoe"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136791,
+      "name": "Stars Cuddling",
+      "url": "https://open.spotify.com/track/4aWuJxWpD0DChfyRS0JfdY"
     },
     {
       "album": {

@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti! Novit\u00e0 rock, indie e punk dall'Italia. Emma Nolde in cover.",
+  "description": "La playlist che \u00e8 come andare ai concerti! Novit\u00e0 rock, indie e punk dall'Italia. Stunt Pilots in cover.",
   "name": "Rock Italia",
   "tracks": [
+    {
+      "album": {
+        "name": "(Dis)fare",
+        "url": "https://open.spotify.com/album/6e13IOZ9vjNrzvr5hU7cKi"
+      },
+      "artists": [
+        {
+          "name": "Pandorea",
+          "url": "https://open.spotify.com/artist/6tWC5Umk7qZ8gOXZLFALvk"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210400,
+      "name": "(Dis)fare",
+      "url": "https://open.spotify.com/track/3UvDkNFCkly5uFD6aBN9xA"
+    },
     {
       "album": {
         "name": "0 SENTIMENTO",
@@ -720,7 +738,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 216828,
       "name": "All'Ombra Dei Palazzi",
       "url": "https://open.spotify.com/track/6I3lbrxXHVx7i1O0b84VMc"
@@ -8868,7 +8886,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 121691,
       "name": "Labirinto",
       "url": "https://open.spotify.com/track/51BUYyFMqfMEJZBfEmRMtA"
@@ -9055,6 +9073,24 @@
     },
     {
       "album": {
+        "name": "TIGRI",
+        "url": "https://open.spotify.com/album/60PIbvxLrInJWT4rmPkKue"
+      },
+      "artists": [
+        {
+          "name": "Gegenhalt",
+          "url": "https://open.spotify.com/artist/2F1ebm9n9KIEB0gGbkhCCT"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284305,
+      "name": "Letargo",
+      "url": "https://open.spotify.com/track/23JXspX6QqfrBKDBZMdTua"
+    },
+    {
+      "album": {
         "name": "Libellula",
         "url": "https://open.spotify.com/album/4xo1lo7z4A2sawH7WI7Eev"
       },
@@ -9160,6 +9196,24 @@
       "duration_ms": 153300,
       "name": "Limited Edition",
       "url": "https://open.spotify.com/track/7KE9p9duEcRef8ZVhoxu9N"
+    },
+    {
+      "album": {
+        "name": "Little Love",
+        "url": "https://open.spotify.com/album/4mErgfMcAlJ6WLQkRvHozj"
+      },
+      "artists": [
+        {
+          "name": "Marta Arpini",
+          "url": "https://open.spotify.com/artist/1g5EUXyT6FupMoKyy6Q1M8"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188478,
+      "name": "Little Love",
+      "url": "https://open.spotify.com/track/6ZgMOBLTFTiznbKhEDeqnw"
     },
     {
       "album": {
@@ -11978,7 +12032,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 210123,
       "name": "Paradiso",
       "url": "https://open.spotify.com/track/0YpDlYL7utoVSUu5BEXuJn"
@@ -12130,6 +12184,24 @@
       "duration_ms": 312400,
       "name": "Paura del buio (feat. Ibisco)",
       "url": "https://open.spotify.com/track/5vGkxbfYamYEXYy4xbqTFP"
+    },
+    {
+      "album": {
+        "name": "Pausa dal mondo (||)",
+        "url": "https://open.spotify.com/album/1qDxOpSF6lC7w3IsJ5LAAK"
+      },
+      "artists": [
+        {
+          "name": "Itaca Reveski",
+          "url": "https://open.spotify.com/artist/49GUPy9DIYPq3yKqCUs1ev"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154563,
+      "name": "Pausa dal mondo (||)",
+      "url": "https://open.spotify.com/track/3jBfMdN5ytFzTWsFqlr9u3"
     },
     {
       "album": {
@@ -13620,7 +13692,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 180800,
       "name": "Risposta",
       "url": "https://open.spotify.com/track/1REZTO5oouQL0UINTWqhZr"
@@ -13862,6 +13934,24 @@
       "duration_ms": 197694,
       "name": "RX3XT",
       "url": "https://open.spotify.com/track/31hbmpNDF1BFZeowKzbRW7"
+    },
+    {
+      "album": {
+        "name": "Salsa Rosa",
+        "url": "https://open.spotify.com/album/5EChBu0feUJO1OmgapdRV6"
+      },
+      "artists": [
+        {
+          "name": "Visconti",
+          "url": "https://open.spotify.com/artist/6HrFzZGMT53Ei6mHcheH4P"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184333,
+      "name": "Salsa Rosa",
+      "url": "https://open.spotify.com/track/0NYQqgAfEycXvbCWmCwvCK"
     },
     {
       "album": {
@@ -14644,7 +14734,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 128218,
       "name": "Showu",
       "url": "https://open.spotify.com/track/6HGRFffsqctjlRyZX6JxzQ"
@@ -16009,6 +16099,24 @@
     },
     {
       "album": {
+        "name": "The Hassle",
+        "url": "https://open.spotify.com/album/4ixVGsIgAlVzf29s9vUqBD"
+      },
+      "artists": [
+        {
+          "name": "Nicaragua",
+          "url": "https://open.spotify.com/artist/52xrPZ8EC64iktrGrmVa4B"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190886,
+      "name": "The Hassle",
+      "url": "https://open.spotify.com/track/4hllVp9xLiuZPrRGSIbMXm"
+    },
+    {
+      "album": {
         "name": "Devo Challenge Cup",
         "url": "https://open.spotify.com/album/1bdOWTmAP6KfLK4YInXpW2"
       },
@@ -16639,6 +16747,24 @@
     },
     {
       "album": {
+        "name": "THE TAKEOFF",
+        "url": "https://open.spotify.com/album/4aydi1lM0ILF8tD6pfJ9nF"
+      },
+      "artists": [
+        {
+          "name": "Stunt Pilots",
+          "url": "https://open.spotify.com/artist/5Q2syrsNfctel905QjIMXr"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145857,
+      "name": "TRYING",
+      "url": "https://open.spotify.com/track/6hMHse2LWe5kI1gEF4fbkt"
+    },
+    {
+      "album": {
         "name": "TU MI MANDI FUORI",
         "url": "https://open.spotify.com/album/0LWdurIbQWkBm9cqTOfzB1"
       },
@@ -17026,7 +17152,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 173684,
       "name": "Un'Altra Me",
       "url": "https://open.spotify.com/track/1f7fdXPkUThNS5MwYHfaSM"
@@ -17134,7 +17260,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 165833,
       "name": "una maga, un'indovina, ecc...",
       "url": "https://open.spotify.com/track/4NVdaJxlPQmMaoaEQC9aAm"
@@ -18032,6 +18158,24 @@
       "duration_ms": 195179,
       "name": "W\u00f8lf",
       "url": "https://open.spotify.com/track/3ENZOdgMIZ5i3e2f9b9kM3"
+    },
+    {
+      "album": {
+        "name": "Ypsilon",
+        "url": "https://open.spotify.com/album/5KbBQK3LjqthXlyDsVCXAr"
+      },
+      "artists": [
+        {
+          "name": "Doansai",
+          "url": "https://open.spotify.com/artist/5G1PslLmI7j8q46A7re4tM"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223893,
+      "name": "Ypsilon",
+      "url": "https://open.spotify.com/track/35Kja1KlfXbNoqZJ4LhUCM"
     },
     {
       "album": {

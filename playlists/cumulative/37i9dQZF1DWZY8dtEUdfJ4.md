@@ -4,11 +4,11 @@
 
 > Tous les plus grands succès de la chanson française des années 60\. Photo : Claude François
 
-75 songs - 3 hr 42 min
+77 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/5ZvaHksc9o4AuZVrtOOU0r) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4q2uIRtXzeSXEtNegxFR56) | 0:00 | 2023-09-22 |  |
+| [](https://open.spotify.com/track/5ZvaHksc9o4AuZVrtOOU0r) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4q2uIRtXzeSXEtNegxFR56) | 0:00 | 2023-09-22 | 2024-06-21 |
 | [Adieu mon pays](https://open.spotify.com/track/3yfXhVUqaITS8azqXyzPWQ) | [Enrico Macias](https://open.spotify.com/artist/1n1k5yFQxYhohOmSWVmTo6) | [Ses Plus Belles Chansons](https://open.spotify.com/album/4sEwk02QPn9VSVGCRX6mUh) | 2:46 | 2023-09-22 |  |
 | [Aline](https://open.spotify.com/track/1N4ixxhbBH1ClnPdTTsRzz) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Aline](https://open.spotify.com/album/0R5sCENJleZp9oxN9JcXgR) | 2:49 | 2023-09-22 |  |
 | [Aline](https://open.spotify.com/track/4pU5MiapjzzbqvXfKhcZT9) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Aline](https://open.spotify.com/album/1ZfOSvrmz8by3bdz0w6NBA) | 2:49 | 2023-09-22 | 2024-04-19 |
@@ -22,7 +22,7 @@
 | [Comme un garçon](https://open.spotify.com/track/3ChTu8j7meZ1op8QtTMVfR) | [Sylvie Vartan](https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ) | [Comme un garçon](https://open.spotify.com/album/0K0bH9JWURyXFrSK4ZYmUM) | 3:16 | 2023-09-22 | 2024-04-19 |
 | [Comme un garçon](https://open.spotify.com/track/5ofzziyodcinKtsUghFLHK) | [Sylvie Vartan](https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ) | [Comme un garçon](https://open.spotify.com/album/1fFyiprMSDBSNeExoiIuTH) | 3:16 | 2023-09-22 | 2023-11-05 |
 | [Comme un garçon](https://open.spotify.com/track/7lhFTUreHC51OsFHTGdy6c) | [Sylvie Vartan](https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ) | [Comme un garçon](https://open.spotify.com/album/65XVPzsge42MC6cOVXqo1q) | 3:16 | 2023-09-22 |  |
-| [Céline](https://open.spotify.com/track/6IgZ9zDxJ6H0IUQ6HKBa8A) | [Hugues Aufray](https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol) | [Santiano](https://open.spotify.com/album/6onOMFxBc1HP3Oq75NF8a5) | 3:06 | 2023-09-22 |  |
+| [Céline](https://open.spotify.com/track/6IgZ9zDxJ6H0IUQ6HKBa8A) | [Hugues Aufray](https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol) | [Santiano](https://open.spotify.com/album/6onOMFxBc1HP3Oq75NF8a5) | 3:06 | 2023-09-22 | 2024-06-21 |
 | [D'aventures en aventures](https://open.spotify.com/track/5Dy32R8nCKyoPcLlfkwbNW) | [Serge Lama](https://open.spotify.com/artist/3fR5PRhFohNbxEXDE69pUz) | [A La Vie, A L'Amour](https://open.spotify.com/album/1ShHXfJDZw4qbbr0t69rvs) | 3:30 | 2023-09-22 | 2024-04-19 |
 | [D'aventures en aventures](https://open.spotify.com/track/69EC90llaUtvpC4gs933Yn) | [Serge Lama](https://open.spotify.com/artist/3fR5PRhFohNbxEXDE69pUz) | [D'Aventures En Aventures](https://open.spotify.com/album/0ePLQLerIEpkx6Mj0IW3X4) | 3:31 | 2023-09-22 |  |
 | [Dis, quand reviendras\-tu ?](https://open.spotify.com/track/25xV2dfi90pNsT3xBrh6nf) | [Barbara](https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw) | [Les indispensables](https://open.spotify.com/album/2ja8lxwbasmkSATcBEUTmF) | 2:52 | 2023-09-22 |  |
@@ -77,8 +77,10 @@
 | [Poupée de cire, poupée de son](https://open.spotify.com/track/0e3LOEZR3NwbbHFGPYr3uQ) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Chansons Françaises](https://open.spotify.com/album/4o970crCLaxSZo18jDN7eo) | 2:33 | 2023-09-22 |  |
 | [Poupée de cire, poupée de son](https://open.spotify.com/track/26tXIAnv90FCv1eJiCUusH) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Hits chanson française](https://open.spotify.com/album/3skN1JzAWSzzeeXe6Kxvna) | 2:33 | 2023-09-22 | 2024-04-19 |
 | [Santiano](https://open.spotify.com/track/5xacwJHf9yLJKCn5JjSiRz) | [Hugues Aufray](https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol) | [Santiano](https://open.spotify.com/album/6onOMFxBc1HP3Oq75NF8a5) | 2:12 | 2023-09-22 |  |
+| [Stewball](https://open.spotify.com/track/6VWex3iRJFdsKeY18uI67E) | [Hugues Aufray](https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol) | [Santiano](https://open.spotify.com/album/6onOMFxBc1HP3Oq75NF8a5) | 2:52 | 2024-06-20 |  |
 | [Tombe la neige](https://open.spotify.com/track/6NVx24kOU2B8IZ0HsY2fUz) | [Salvatore Adamo](https://open.spotify.com/artist/37r3ZUhErh0QPJENMsAPBG) | [Mes plus belles chansons d'amour](https://open.spotify.com/album/0iptDBG98BUELZzglvwUSc) | 2:57 | 2023-09-22 |  |
 | [Tombe La Neige](https://open.spotify.com/track/3d7EDEz4PLcXP9pufWVu6Y) | [Salvatore Adamo](https://open.spotify.com/artist/37r3ZUhErh0QPJENMsAPBG) | [Adamo \- studio 1](https://open.spotify.com/album/5UR5XXp6YVvI9kRRUgdNtl) | 3:02 | 2023-09-22 | 2024-04-19 |
+| [Toulouse](https://open.spotify.com/track/4Ose68cyLGiTCCsJ6iLp2z) | [Claude Nougaro](https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR) | [Toulouse 1965\-1968](https://open.spotify.com/album/13Cr79G98YMqz6n7msaJhX) | 4:21 | 2024-06-20 |  |
 | [Tous les garçons et les filles \- Slow](https://open.spotify.com/track/0Yg1hSAUgd2AAneReFOVzS) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Françoise Hardy \(Tous les garçons et les filles\)](https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2) | 3:07 | 2023-09-22 |  |
 | [Toute la pluie tombe sur moi](https://open.spotify.com/track/199J8Nvx5oDmOKwAhtt9f1) | [Sacha Distel](https://open.spotify.com/artist/1si0MhutSLRlQbxiBV08tz) | [Sacha Distel: Crooner](https://open.spotify.com/album/1HioIbajn5pHxM7A0uMpKV) | 3:00 | 2023-09-22 |  |
 | [Vesoul](https://open.spotify.com/track/2F94KDtJjCdzZYCQWBliRC) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [J'Arrive \(Vol.12\)](https://open.spotify.com/album/75JBZy6ctvayGftnldYMzZ) | 3:06 | 2023-09-22 |  |

@@ -4,7 +4,7 @@
 
 > New tunes from Ireland for your discovery\. Cover: KNEECAP
 
-169 songs - 9 hr 27 min
+172 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Endless Nights](https://open.spotify.com/track/4V50U0qH1s72n2J8Kxavdu) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Victory](https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3) | 3:11 | 2024-02-02 | 2024-02-16 |
 | [fall](https://open.spotify.com/track/3uXd797WQGCiuEFPz9TVtM) | [new teeth](https://open.spotify.com/artist/4QUzOO8ZbUor3180J86hMa) | [fall](https://open.spotify.com/album/5lRPg4vIBciZ0EEqRJQ4Nu) | 4:03 | 2024-02-02 | 2024-04-26 |
 | [Falling From Hell](https://open.spotify.com/track/4BZEczZvBsPhiQN17m8y4M) | [SOPHIE DOYLE RYDER](https://open.spotify.com/artist/5QCok3NH6vAlK12mUElHeZ) | [Falling From Hell](https://open.spotify.com/album/412fwKuOh9cJJ6bLKz8rkW) | 3:08 | 2024-02-02 | 2024-03-22 |
-| [Follow Me](https://open.spotify.com/track/5g5lGBblSV6M0XMveLlGRn) | [Lucy McWilliams](https://open.spotify.com/artist/41AscmNq0sWTYo4gRCp21k) | [Follow Me](https://open.spotify.com/album/4Vn7Y2GexjvoLqp8Mwf8pH) | 3:59 | 2024-02-02 |  |
+| [First Prize](https://open.spotify.com/track/0BMZKsQfwIknNMn7iDUFDc) | [Holly Munro](https://open.spotify.com/artist/2n9jieS7R5I7zRVKoYTziq) | [A Crescendo Ending](https://open.spotify.com/album/5RPiTbxAmc4c7atFXFFd6l) | 2:49 | 2024-06-20 |  |
+| [Follow Me](https://open.spotify.com/track/5g5lGBblSV6M0XMveLlGRn) | [Lucy McWilliams](https://open.spotify.com/artist/41AscmNq0sWTYo4gRCp21k) | [Follow Me](https://open.spotify.com/album/4Vn7Y2GexjvoLqp8Mwf8pH) | 3:59 | 2024-02-02 | 2024-06-21 |
 | [Fool](https://open.spotify.com/track/0X0vu5vvTz3hmiXY6aiVLl) | [RVE](https://open.spotify.com/artist/4xXhVe5E4Vtd9qV47tQomY) | [Fool](https://open.spotify.com/album/5HX1EOQKbgbYytFDJ5qN6e) | 3:11 | 2024-05-23 |  |
 | [FourFour](https://open.spotify.com/track/6UESDM5sT8nzLNwzBSpapT) | [Pat Lagoon](https://open.spotify.com/artist/4WaDfJax1AahnapPlsWsDs) | [FourFour](https://open.spotify.com/album/4e8yfABATTvhRx35Vq6nmX) | 2:00 | 2024-02-02 | 2024-04-19 |
 | [Funeka](https://open.spotify.com/track/3eNfjouyFU9bTAeBB4eirf) | [Cooks But We're Chefs](https://open.spotify.com/artist/2Q9PBFjIjNgm7N5tyL0Z83) | [Funeka](https://open.spotify.com/album/2xwYWGQYsWdjQTI9Wxacr5) | 4:03 | 2024-02-02 | 2024-02-23 |
@@ -81,7 +82,7 @@
 | [Landmine!](https://open.spotify.com/track/4YOtWmWn8sKqBNLnWnxquF) | [Curtisy](https://open.spotify.com/artist/5VMnilBpX9s4C1HBnTCX35) | [WHAT WAS THE QUESTION](https://open.spotify.com/album/2fKkKKLxeXHlKknCUckPJN) | 3:16 | 2024-05-02 |  |
 | [Let's Do It](https://open.spotify.com/track/4DS9xL0l8seJuilxgoxdGm) | [Æ MAK](https://open.spotify.com/artist/2VQ0jNisT4VhPs41VGvvTX) | [Let's Do It](https://open.spotify.com/album/2UWXMQJvCyQzLv7huGCL1a) | 3:33 | 2024-05-09 |  |
 | [Like A Lesson](https://open.spotify.com/track/2MxDVhWDvd2f7ROLe8VDYe) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Like A Lesson](https://open.spotify.com/album/7htHFZFmrO9ChMSK82QLXx) | 3:19 | 2024-03-15 |  |
-| [Like I Know You](https://open.spotify.com/track/5Ivojtwe4uoTnMOqJAW6KH) | [Róisín O](https://open.spotify.com/artist/7nsv8ov54a8qlNXwhEkgkr) | [Like I Know You](https://open.spotify.com/album/5GlI2oHXf8ptPpi6ZWrrP9) | 3:25 | 2024-03-15 |  |
+| [Like I Know You](https://open.spotify.com/track/5Ivojtwe4uoTnMOqJAW6KH) | [Róisín O](https://open.spotify.com/artist/7nsv8ov54a8qlNXwhEkgkr) | [Like I Know You](https://open.spotify.com/album/5GlI2oHXf8ptPpi6ZWrrP9) | 3:25 | 2024-03-15 | 2024-06-21 |
 | [limerence](https://open.spotify.com/track/0AChzXS7AsnWfY4YOdcKEc) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [limerence](https://open.spotify.com/album/31Y1I245ATLa9KEPNW3gpo) | 3:07 | 2024-04-11 |  |
 | [Locked Up Never Fade](https://open.spotify.com/track/30DYH6JwOhWdGwrQfU2U55) | [Lucy Gaffney](https://open.spotify.com/artist/1dWfI2kDIBAxs8OxI5GUVQ) | [Locked Up Never Fade](https://open.spotify.com/album/54vZ2lPCS9hCzSERgIG3z8) | 5:24 | 2024-02-02 | 2024-06-07 |
 | [London.](https://open.spotify.com/track/7xhvE7y8DDcAwruz7TyiFN) | [milk.](https://open.spotify.com/artist/2Sf3JoQvmbE3hi7hfwzofq) | [London.](https://open.spotify.com/album/0hmqXVRrup7VUGdK8xFq7J) | 3:37 | 2024-02-02 | 2024-04-12 |
@@ -115,8 +116,10 @@
 | [Our Time](https://open.spotify.com/track/0m3rJzSC3u0DAgRp8V5y0b) | [Luke Dunleavy](https://open.spotify.com/artist/2hrlyfscnm84Inpkn8hpga) | [Our Time](https://open.spotify.com/album/7uNkcvXJxHH3roLYAjBixB) | 2:30 | 2024-02-23 |  |
 | [Out of Style](https://open.spotify.com/track/1yYHHDEniESPk9iNFr5nyR) | [Holly Munro](https://open.spotify.com/artist/2n9jieS7R5I7zRVKoYTziq) | [Out of Style](https://open.spotify.com/album/4GWriL3zDCxyzpD2ZIpBjC) | 2:44 | 2024-04-25 |  |
 | [Outside](https://open.spotify.com/track/0I2xts4kga2ulOC3yM0roB) | [Syano](https://open.spotify.com/artist/58OyCAJb1NYuQMhCeuq8Rt), [SYGH](https://open.spotify.com/artist/5uVm4NbxKsMNTQF3KXGzPN) | [Outside](https://open.spotify.com/album/5DU1INumD6DSbYL4odHEkG) | 2:54 | 2024-02-02 | 2024-06-07 |
+| [panic](https://open.spotify.com/track/3wYgPXjKRJ1oGes3K1PxOF) | [piglet](https://open.spotify.com/artist/4AIvNjE7HJplcY1MxJplmP), [Jemima Coulter](https://open.spotify.com/artist/3fACmIrcE5VThQfuYpOJzc) | [panic](https://open.spotify.com/album/6R1QcK9EYyIpEi4gWLjYKZ) | 3:06 | 2024-06-20 |  |
 | [Paris](https://open.spotify.com/track/4KxQWXimKCGVTatrSwmrYw) | [Evie](https://open.spotify.com/artist/1kOS484jvPsfcdWNpKEGG9) | [Paris](https://open.spotify.com/album/6IxEWhtC68ce07yxKnwydM) | 3:46 | 2024-04-05 | 2024-05-10 |
 | [Passenger Seat](https://open.spotify.com/track/1d0fuygCq7natWK8kelMoY) | [Aimée](https://open.spotify.com/artist/6kiGJNxa3SvcQWfCrqL1sb) | [Passenger Seat](https://open.spotify.com/album/3NFGSk4DZw8ne96ApAJyqY) | 3:44 | 2024-04-25 |  |
+| [Patchwork](https://open.spotify.com/track/2iCu9AHyRd7SGtqM2Njczy) | [Oisín](https://open.spotify.com/artist/3cEXUDLDM6nSC5dd13sBBB) | [Patchwork](https://open.spotify.com/album/14FwliJLQLlA2WPaYWUDNM) | 2:53 | 2024-06-20 |  |
 | [People](https://open.spotify.com/track/0xi7qZJw7b1colPIEGG8bB) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [People](https://open.spotify.com/album/3FFC8lDz8RhvpHtO89NLix) | 3:44 | 2024-02-02 | 2024-03-08 |
 | [Plans](https://open.spotify.com/track/73wrWfbOAms1ZouKuBuh0D) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [Plans](https://open.spotify.com/album/3fGvMYRJ29zRyoHfsPU9z6) | 2:55 | 2024-02-02 | 2024-03-29 |
 | [Pretty Happy Alone](https://open.spotify.com/track/1qwG5MyG0BnBDzAWOfLusM) | [The Love Buzz](https://open.spotify.com/artist/103TWTu6vxVZ9g6eqA1ntP) | [Pretty Happy Alone](https://open.spotify.com/album/4CflMNEveOX5PvgU1MHUXq) | 3:02 | 2024-03-22 |  |
@@ -175,7 +178,7 @@
 | [Wretched](https://open.spotify.com/track/0UpfYdgOKjW6ui1TNnkJUZ) | [Pa Sheehy](https://open.spotify.com/artist/7n17tju4Xhlj1IkZR4Q2LX) | [Wretched](https://open.spotify.com/album/4fYvu8Dm4AHQtHeVJOprrH) | 3:36 | 2024-02-02 |  |
 | [Yellow Dresser](https://open.spotify.com/track/56AZAPH8L1lPAEUZgP5kJj) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [Yellow Dresser](https://open.spotify.com/album/4lAdZcJI0a7CmFIYYiz6Za) | 3:24 | 2024-04-11 |  |
 | [You'll Be The Last To Know](https://open.spotify.com/track/6rZk7MkrMCiW5KkrRw9zvO) | [Saibh Skelly](https://open.spotify.com/artist/5W6LDY0Fa5qK8fbDTe58Kq) | [You'll Be The Last To Know](https://open.spotify.com/album/2gYjwAgcvgTvJrbKtLgTuz) | 2:59 | 2024-04-18 | 2024-06-14 |
-| [You're My Medicine](https://open.spotify.com/track/1gXk7JzeRTPJn9ugLErbNb) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [You're My Medicine](https://open.spotify.com/album/3DuCbWlWRyCwqctRcICOiZ) | 3:12 | 2024-02-16 |  |
+| [You're My Medicine](https://open.spotify.com/track/1gXk7JzeRTPJn9ugLErbNb) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [You're My Medicine](https://open.spotify.com/album/3DuCbWlWRyCwqctRcICOiZ) | 3:12 | 2024-02-16 | 2024-06-21 |
 | [★SLEEPY★](https://open.spotify.com/track/5lEnU2eOQkmHogLRUV77LV) | [CARSTEN2X](https://open.spotify.com/artist/0Un2To5Ct6WgajC9z1xDud), [Joe Butler](https://open.spotify.com/artist/2KSi09E9Ll6vK9aUcbusFw) | [★SLEEPY★](https://open.spotify.com/album/4u7Gq7p97RbhmMutnehapG) | 2:14 | 2024-04-11 |  |
 
 \*This playlist was first scraped on 2024-02-03. Prior content cannot be recovered.

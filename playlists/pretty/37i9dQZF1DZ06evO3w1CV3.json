@@ -1,12 +1,12 @@
 {
-  "description": "This is Joy Crookes. \u0623\u063a\u0627\u0646\u064d \u0631\u0627\u0626\u0639\u0629 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0623\u063a\u0627\u0646\u064d \u0648\u0627\u062d\u062f\u0629.",
-  "num_followers": 24756,
+  "description": "This Is Joy Crookes. Los temas esenciales, todos en una lista.",
+  "num_followers": 24763,
   "original_name": "This Is Joy Crookes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zm98gAAAAAAFv8TWkvUaqEIt5AFF+jVo",
+  "snapshot_id": "ZnIfgAAAAADHrnieifnoZHnW0q0gKNQS",
   "tracks": [
     {
       "added_at": null,
@@ -55,26 +55,6 @@
       "duration_ms": 198800,
       "name": "Feet Don't Fail Me Now",
       "url": "https://open.spotify.com/track/1GVkrFVc94CTjm9bdSmGjp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Early",
-        "url": "https://open.spotify.com/album/5Q7XISk90DAYHFghAvKYI9"
-      },
-      "artists": [
-        {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
-        },
-        {
-          "name": "Jafaris",
-          "url": "https://open.spotify.com/artist/69hGavzu5tphYU1EIY0yEg"
-        }
-      ],
-      "duration_ms": 193934,
-      "name": "Early",
-      "url": "https://open.spotify.com/track/6AcFiVsHvDtat3rmHNK2Nf"
     },
     {
       "added_at": null,
@@ -319,38 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Since I Left You (Demo)",
-        "url": "https://open.spotify.com/album/7Mz7zqY2K51W7tyKl2G7rv"
-      },
-      "artists": [
-        {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
-        }
-      ],
-      "duration_ms": 207048,
-      "name": "Since I Left You - Demo",
-      "url": "https://open.spotify.com/track/1W5ZEYctMAWShvwKEPNbbu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7"
-      },
-      "artists": [
-        {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
-        }
-      ],
-      "duration_ms": 188926,
-      "name": "Kingdom",
-      "url": "https://open.spotify.com/track/0RVEAF3XFF2dZFhI8O58JF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What's Love Got to Do with It? (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3OtrHr6YssIB3dCg42g8qc"
       },
@@ -383,6 +331,38 @@
       "duration_ms": 147506,
       "name": "Mahi Sona (AKA The Wedding Song) - Joy Crookes Version",
       "url": "https://open.spotify.com/track/4oDFdxr8iodW5JubvDmjMt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "duration_ms": 188926,
+      "name": "Kingdom",
+      "url": "https://open.spotify.com/track/0RVEAF3XFF2dZFhI8O58JF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Since I Left You (Demo)",
+        "url": "https://open.spotify.com/album/7Mz7zqY2K51W7tyKl2G7rv"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "duration_ms": 207048,
+      "name": "Since I Left You - Demo",
+      "url": "https://open.spotify.com/track/1W5ZEYctMAWShvwKEPNbbu"
     },
     {
       "added_at": null,

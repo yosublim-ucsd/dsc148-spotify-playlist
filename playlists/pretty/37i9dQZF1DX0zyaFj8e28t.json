@@ -1,15 +1,31 @@
 {
   "description": "Les plus grands tubes fran\u00e7ais des ann\u00e9es 80. Photo : France Gall",
-  "num_followers": 373778,
+  "num_followers": 373825,
   "original_name": "Hits Fran\u00e7ais 80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZiI1xgAAAADMxfd6pJEHH3BMlZo0yYqt",
+  "snapshot_id": "ZnRFlwAAAAA7Krg9LK9pmoe2OM8hm8Kf",
   "tracks": [
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
+      "album": {
+        "name": "Paris, France (Remasteris\u00e9 en 2004)",
+        "url": "https://open.spotify.com/album/5Ni3yIgxhLwuC3B08SQ4r7"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "duration_ms": 273626,
+      "name": "Il jouait du piano debout - Remasteris\u00e9 en 2004",
+      "url": "https://open.spotify.com/track/3GfUHAoOSGy3hhEaTU34WV"
+    },
+    {
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "Non homologu\u00e9",
         "url": "https://open.spotify.com/album/3svVRotnkGO3jhrPcCeeCA"
@@ -29,39 +45,7 @@
       "url": "https://open.spotify.com/track/55mXuPsEm6aboDIM68RM74"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
-      "album": {
-        "name": "Paris, France (Remasteris\u00e9 en 2004)",
-        "url": "https://open.spotify.com/album/5Ni3yIgxhLwuC3B08SQ4r7"
-      },
-      "artists": [
-        {
-          "name": "France Gall",
-          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
-        }
-      ],
-      "duration_ms": 273626,
-      "name": "Il jouait du piano debout - Remasteris\u00e9 en 2004",
-      "url": "https://open.spotify.com/track/3GfUHAoOSGy3hhEaTU34WV"
-    },
-    {
-      "added_at": "2022-09-12 10:32:35",
-      "album": {
-        "name": "Abracadabra",
-        "url": "https://open.spotify.com/album/6E16zlklECgO6wpYT9mkzD"
-      },
-      "artists": [
-        {
-          "name": "Jean Schultheis",
-          "url": "https://open.spotify.com/artist/6niV8gUVEBJhjjfb7LmD7W"
-        }
-      ],
-      "duration_ms": 286533,
-      "name": "Confidence pour confidence - Version originale 1981",
-      "url": "https://open.spotify.com/track/6qfjUmIxPluNISxBgJfvM3"
-    },
-    {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "Best Of 85-95",
         "url": "https://open.spotify.com/album/0FpLSt6Q2HLXdomOYL9oFN"
@@ -77,7 +61,23 @@
       "url": "https://open.spotify.com/track/3uXVAyaaYadFSbbj1SQBK4"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
+      "album": {
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/6E16zlklECgO6wpYT9mkzD"
+      },
+      "artists": [
+        {
+          "name": "Jean Schultheis",
+          "url": "https://open.spotify.com/artist/6niV8gUVEBJhjjfb7LmD7W"
+        }
+      ],
+      "duration_ms": 286533,
+      "name": "Confidence pour confidence - Version originale 1981",
+      "url": "https://open.spotify.com/track/6qfjUmIxPluNISxBgJfvM3"
+    },
+    {
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "Sauver L'Amour",
         "url": "https://open.spotify.com/album/6j0ljIcSqlWGARW0CdrYMw"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/4YNig3AVQEPUjhJ7EcdTqH"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "Dure limite (Remasteris\u00e9 en 2015)",
         "url": "https://open.spotify.com/album/1ePKFTIr8ZODp91iwt4kVf"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/3uZyx7GfVWJh2Aum6xS6my"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "Ailleurs pour un ailleurs",
         "url": "https://open.spotify.com/album/6VMYocXSCjGVUXtnItl3zj"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/28LywwNxxlW1C9Q2bxzBMO"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "Photos de voyages (Remastered)",
         "url": "https://open.spotify.com/album/6Mhp0Fb0RoraaLNZ0fFRwR"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/2KzUa9x2TNzHVsx4sVuHsx"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "Beaus\u00e9jour (Remasteris\u00e9 en 2002)",
         "url": "https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/496eQC5FPo3dmfNRXPcmps"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "Quand la musique est bonne",
         "url": "https://open.spotify.com/album/3yMtfupTbgavO0AxQbt3UZ"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/0Wh6e5EkmQseBGVeJqzC9X"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "Gang",
         "url": "https://open.spotify.com/album/68rZh6SfrK9JeYsJhTwDjg"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/3cqLrAhTy0JYcYmGe6Dvje"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "Sauver L'Amour",
         "url": "https://open.spotify.com/album/6j0ljIcSqlWGARW0CdrYMw"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/4XiWkm4Ug9LlP8Kxt5QIeQ"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "Ainsi Soit Je",
         "url": "https://open.spotify.com/album/49vEIcTHLTBaXbY0Ab9T9P"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/5Yes6Ksaofte9jmQqUy0Gp"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "On ne change pas",
         "url": "https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/7o4JMsKg9Et6s0qb6jWmof"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "best of jeanne mas 2004",
         "url": "https://open.spotify.com/album/4pTDSN6BHeCYXI3hkojANx"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/1Gcv4C4s4aJTtm8THwEdFN"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "Mistral gagnant",
         "url": "https://open.spotify.com/album/3RNhp7YkJXZe3KJ3xlTHWb"
@@ -269,7 +269,7 @@
       "url": "https://open.spotify.com/track/1MOSRjdAbUhvLNnHCdUEL5"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "3",
         "url": "https://open.spotify.com/album/0UJYes2guXasGPKbGuCBFu"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/3X9XJLwQPWqRnsNaL9z6ss"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "Les inoubliables de Herv\u00e9 Cristiani - Best Of",
         "url": "https://open.spotify.com/album/5X7x3uX32XtxdhBcMohjNA"
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/0ZuHb82X30zwYP8TVnIi8K"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "Alors regarde",
         "url": "https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/20RHWjtCLr7ODGQEItdZXg"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "Gang",
         "url": "https://open.spotify.com/album/68rZh6SfrK9JeYsJhTwDjg"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/57zabaqzfjZVhxJeb0UZsP"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "Les Lacs Du Connemara",
         "url": "https://open.spotify.com/album/5yhfUldUD9uHTFezAaaLAo"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/6rulvOmw93NSgtQ53zImLg"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "Morgane De Toi (Remastered)",
         "url": "https://open.spotify.com/album/0kXYiKUznqm9ZyFxhuOvBE"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/3v6ClatJ2nG0TIpfL3HwY1"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "L'essentiel",
         "url": "https://open.spotify.com/album/0jfDIK7wBs6kp2RbEy3iym"
@@ -381,7 +381,7 @@
       "url": "https://open.spotify.com/track/6JCIbXPH5LIawW4NRLvYE8"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "Voyou (Remasteris\u00e9 en 2002)",
         "url": "https://open.spotify.com/album/7AJeglSaPAvjLOrai3qVka"
@@ -397,7 +397,7 @@
       "url": "https://open.spotify.com/track/4ZgDTZjxNJxrpoaWYnaa3N"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "Le Meilleur De",
         "url": "https://open.spotify.com/album/5JFBGYglZem8jUTB5QOGSN"
@@ -413,7 +413,7 @@
       "url": "https://open.spotify.com/track/4Lv1Xqqu5vvl3jjiyhGn4j"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "Alors regarde",
         "url": "https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt"
@@ -429,7 +429,7 @@
       "url": "https://open.spotify.com/track/6GKfnB8wQhmCqsHmgDAkN4"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "Club Music 80 (Le meilleur des ann\u00e9es 80)",
         "url": "https://open.spotify.com/album/0I1py3jowAshmDjLxJkfDJ"
@@ -445,7 +445,7 @@
       "url": "https://open.spotify.com/track/3ytDpbRg7dyb0OuR9CRjwh"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "Nuit Magique",
         "url": "https://open.spotify.com/album/4lWltwWBnNxX22ptxDUyFN"
@@ -461,7 +461,7 @@
       "url": "https://open.spotify.com/track/4XguFCQNeBYU4IrGQXr51I"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "Les ann\u00e9es 30",
         "url": "https://open.spotify.com/album/1BiKkCtx7fxoM0osgo5KSa"
@@ -477,7 +477,7 @@
       "url": "https://open.spotify.com/track/6G3mO2bHnYlOjwlHJQlUad"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/25bmlyAK19NFZ7QHIZZrsi"
@@ -493,7 +493,7 @@
       "url": "https://open.spotify.com/track/4MTCNjhonKLRb8WIHpTTy8"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "M & J",
         "url": "https://open.spotify.com/album/6AzbqBv06i1Et6IR84yfEr"
@@ -509,7 +509,7 @@
       "url": "https://open.spotify.com/track/1nazrrUvlyrT5ZiOe6c6ih"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "Les corons",
         "url": "https://open.spotify.com/album/71AvtioRg7cVOfzGT7RpbC"
@@ -525,7 +525,7 @@
       "url": "https://open.spotify.com/track/1bIupoWqwPhmPbXekHD5QR"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "Marc Lavoine",
         "url": "https://open.spotify.com/album/1kGhulcVIZIB3TYTce9TDc"
@@ -541,7 +541,7 @@
       "url": "https://open.spotify.com/track/0gNkBJ8M4S5pKaxEJuQEI5"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "C'est comme vous voulez",
         "url": "https://open.spotify.com/album/1owL66vLGqOWxVJYYrCDE1"
@@ -557,7 +557,7 @@
       "url": "https://open.spotify.com/track/4lI8A7xmuQqGDj28dzelH4"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "En fl\u00e8che",
         "url": "https://open.spotify.com/album/2ywSgXs2EVLGQMQGy2ZRIi"
@@ -573,7 +573,7 @@
       "url": "https://open.spotify.com/track/0qnN7RceovLP58nCY0fdME"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "The No Comprendo",
         "url": "https://open.spotify.com/album/3VnFLQ6pO9MSvVeKv5DHjY"
@@ -589,7 +589,7 @@
       "url": "https://open.spotify.com/track/1QZ7Co5mBLhAQf9OFk4ovN"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "Mademoiselle Chante",
         "url": "https://open.spotify.com/album/2I1n984xfOozMfDA1TGvo7"
@@ -605,7 +605,7 @@
       "url": "https://open.spotify.com/track/1UZGVlCoNGQ6ps64QDvydQ"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "Week End \u00c0 Rome",
         "url": "https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl"
@@ -621,7 +621,7 @@
       "url": "https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "Sarbacane (Remastered)",
         "url": "https://open.spotify.com/album/7e7sLjpyMxBeF6UyHl57Ul"
@@ -637,7 +637,7 @@
       "url": "https://open.spotify.com/track/3joYxf5x8kQv2eEpZg6jCm"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "A Rendez-Vous With Julien Clerc",
         "url": "https://open.spotify.com/album/1BBkJnf0MLDGRcMzEsal7C"
@@ -653,7 +653,7 @@
       "url": "https://open.spotify.com/track/4YkRb6KIi03YSfGuTDJrZG"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "Cargo - EP (2024 Remaster)",
         "url": "https://open.spotify.com/album/6qDDn1u921qNWzS8FqHfk5"
@@ -669,7 +669,7 @@
       "url": "https://open.spotify.com/track/60WiEteADDUQKn62YIrlBx"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "Embrasse Moi Idiot",
         "url": "https://open.spotify.com/album/03ZiFpoAZNWSHvQAkfHM6z"
@@ -685,7 +685,7 @@
       "url": "https://open.spotify.com/track/418hg3W91QSVSI7S6l3baJ"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "Femme Lib\u00e9r\u00e9e",
         "url": "https://open.spotify.com/album/4UF1uI6pdmUSsdUaBJaUZi"
@@ -701,7 +701,7 @@
       "url": "https://open.spotify.com/track/1ofu2qOdm9LN8TGXd003Kj"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "Belle Ile En Mer",
         "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
@@ -717,7 +717,7 @@
       "url": "https://open.spotify.com/track/5EvgjXjbPxzDf2dzIB4Xbm"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/49T7cXhOj3AGJCQAQ1Zz3v"
@@ -733,7 +733,7 @@
       "url": "https://open.spotify.com/track/2RNYrn33zB03AjdLX1xvK3"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "Mademoiselle Chante",
         "url": "https://open.spotify.com/album/2I1n984xfOozMfDA1TGvo7"
@@ -749,7 +749,7 @@
       "url": "https://open.spotify.com/track/6vjDUJqVKU9Ws7AIHBCAv9"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "C'est la ouate",
         "url": "https://open.spotify.com/album/3yiq55M0qGXWFzv56C8cXb"
@@ -765,7 +765,7 @@
       "url": "https://open.spotify.com/track/2dgbgBcWg5iKQ0jmChAb3l"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "Nonchalances",
         "url": "https://open.spotify.com/album/1pXcmUDdmlRibJHaAMcbNr"
@@ -781,7 +781,7 @@
       "url": "https://open.spotify.com/track/5ZhLMUNyZWRjVWwHKDNF6H"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "Unis vers l'uni",
         "url": "https://open.spotify.com/album/4z1CNaiDErfBBTIkGK3AgB"
@@ -797,7 +797,7 @@
       "url": "https://open.spotify.com/track/5NCatFKrnHJtz5ep4D7pMO"
     },
     {
-      "added_at": "2022-09-12 10:32:35",
+      "added_at": "2024-06-20 15:07:02",
       "album": {
         "name": "Album De Duos",
         "url": "https://open.spotify.com/album/5HgPr5vMIGWGYuqtEXb9qV"

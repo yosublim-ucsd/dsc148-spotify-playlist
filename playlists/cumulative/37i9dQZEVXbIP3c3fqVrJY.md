@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Czech Republic.
 
-1,514 songs - 3 day 6 hr 2 min
+1,515 songs - 3 day 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1234,7 +1234,7 @@
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-03 | 2024-03-24 |
 | [Strangers By Nature](https://open.spotify.com/track/13CVSGLSFl4UxpDVR6u3dq) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:02 | 2021-11-21 | 2021-11-22 |
 | [Strobo](https://open.spotify.com/track/6zYOVXnmWz92Mli0kmso9G) | [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h) | [Jsem v pohodě, sem v prdeli.](https://open.spotify.com/album/2TZX9mElJ86xfdSEGtUsLr) | 2:58 | 2021-08-01 | 2021-08-20 |
-| [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2024-06-09 |  |
+| [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2024-06-09 | 2024-06-21 |
 | [Style \(Taylor's Version\)](https://open.spotify.com/track/1hjRhYpWyqDpPahmSlUTlc) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:51 | 2023-10-28 | 2023-10-30 |
 | [Stíny](https://open.spotify.com/track/0J3SIAOndpL1MS2Vq2RMQ9) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Příběhy a sny](https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4) | 2:52 | 2021-11-20 | 2024-05-28 |
 | [Stíny \(MANENE Remix\)](https://open.spotify.com/track/3DnT4qyb7YSW4y1ValyUo4) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i), [Manene](https://open.spotify.com/artist/7eKgZc26opM9g5oRiOOwlu) | [Stíny \(MANENE Remix\)](https://open.spotify.com/album/0020cPFIfBLhsO8CH5w390) | 3:15 | 2022-10-01 | 2022-11-19 |
@@ -1311,6 +1311,7 @@
 | [Tiká](https://open.spotify.com/track/36McweTkHeoHBgHNnrIbP4) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [kvítek](https://open.spotify.com/artist/5LGUSyhIOX9WSVCG6Ron2C) | [Tiká](https://open.spotify.com/album/27mP9fzzEx9ucyTa3urS8Z) | 3:24 | 2021-11-22 | 2021-11-27 |
 | [TIL FURTHER NOTICE](https://open.spotify.com/track/76gcXhY3Zv6wW0BTe9nHJo) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 5:14 | 2023-07-29 | 2023-07-31 |
 | [Till I Die](https://open.spotify.com/track/3Iklt7DcoJfJxsK5PiGeI1) | [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh), [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [Robby Trouble](https://open.spotify.com/album/1Ne3BSmtzwo5Iw4IaXu4eO) | 3:51 | 2021-06-20 | 2021-09-19 |
+| [TITÁNI \(feat\. Mikýř\) \- ostrovní edice](https://open.spotify.com/track/6ooqdMaeFu0rrwf3PllVI1) | [Sebastian](https://open.spotify.com/artist/1ucovYZ0AOZZ0ZIfjhYFfQ), [Mikýř](https://open.spotify.com/artist/4eV7mUo5dBeFA62TYpgczB) | [TITÁNI \(feat\. Mikýř\) \[ostrovní edice\]](https://open.spotify.com/album/6rxCsnDp362HsOthrrWCuN) | 1:58 | 2024-06-20 |  |
 | [Tlak](https://open.spotify.com/track/3OLpnk4lM5D8Mg4Pvu84St) | [Rest](https://open.spotify.com/artist/6lGbUVZzujCnRJWgPZkkxk), [DJ Wich](https://open.spotify.com/artist/062wPuKbdxVkXURZqv0Pgj) | [Tlak](https://open.spotify.com/album/5ALu2NP8nQryw3wJqrKEqY) | 2:58 | 2022-11-13 | 2022-11-19 |
 | [Tlak](https://open.spotify.com/track/5MGYx0jHdRRgdnTxX5ZJtv) | [Rest](https://open.spotify.com/artist/6lGbUVZzujCnRJWgPZkkxk), [DJ Wich](https://open.spotify.com/artist/062wPuKbdxVkXURZqv0Pgj) | [Tlak](https://open.spotify.com/album/67WhkAZDbuoWCwmFXzYS0f) | 2:58 | 2022-11-26 | 2022-12-02 |
 | [tma](https://open.spotify.com/track/4VjaQBfcMUGQTa5WcvJWJw) | [Samey](https://open.spotify.com/artist/0p0V7LW8i3S22J7xErqdmt), [Saul](https://open.spotify.com/artist/6xg3PSVEwviVyfnx3mtsPL), [Marko Damian](https://open.spotify.com/artist/7AqU9NR1gQwKApJyxxTC0z) | [Anarchia](https://open.spotify.com/album/4zqBS3OrQBtBconkN08EXW) | 3:19 | 2021-09-03 | 2021-09-04 |

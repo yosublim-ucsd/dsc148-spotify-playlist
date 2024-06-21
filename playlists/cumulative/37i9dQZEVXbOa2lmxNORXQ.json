@@ -4858,7 +4858,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-16",
+      "date_removed": null,
       "duration_ms": 214120,
       "name": "Dile a Tu Amiga",
       "url": "https://open.spotify.com/track/3u2jlo9kygiIAq7SPVuw6S"
@@ -5384,7 +5384,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 165576,
       "name": "El Amor Y La Felicidad",
       "url": "https://open.spotify.com/track/7cqVUD4lhh2mXH6yoyGssn"
@@ -8420,6 +8420,24 @@
       "duration_ms": 186453,
       "name": "GUCCI LOS PA\u00d1OS",
       "url": "https://open.spotify.com/track/3CNbrXrUrEARw8zeKNCdYo"
+    },
+    {
+      "album": {
+        "name": "Hablarte Claro",
+        "url": "https://open.spotify.com/album/0aEMfwzX6tSFMYYrTqhPlK"
+      },
+      "artists": [
+        {
+          "name": "Jeshy",
+          "url": "https://open.spotify.com/artist/0Olr118WlMjUJq1VFly7Nq"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176285,
+      "name": "Hablarte Claro",
+      "url": "https://open.spotify.com/track/53CiBLUrTQXihsxwT3amvj"
     },
     {
       "album": {
@@ -20994,7 +21012,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 189025,
       "name": "Vete",
       "url": "https://open.spotify.com/track/6cZcn282SIMmuO8FHN8634"

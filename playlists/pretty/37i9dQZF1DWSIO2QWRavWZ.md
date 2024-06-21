@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > “To the songs that made me want to follow in the footsteps of the women who made them\. Yes QUEENS!” \- Muni Long
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,247 likes - 81 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,407 likes - 81 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

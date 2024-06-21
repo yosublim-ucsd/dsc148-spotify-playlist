@@ -1,12 +1,12 @@
 {
-  "description": "Los \u00e9xitos del Dembow. Portada: Jey One",
-  "num_followers": 494529,
+  "description": "Los \u00e9xitos del Dembow. Portada: Lomiiel",
+  "num_followers": 494930,
   "original_name": "Dembow Pegao",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnBQcwAAAACMme7xGSkrQWzS62zcpdhW",
+  "snapshot_id": "ZnSx3QAAAAA0iiETaQSFyC+YlQ2guO92",
   "tracks": [
     {
       "added_at": "2024-04-11 23:04:36",
@@ -109,6 +109,42 @@
       "url": "https://open.spotify.com/track/5Zy0g1WbeA3JM3INpYWoyN"
     },
     {
+      "added_at": "2024-06-20 22:49:01",
+      "album": {
+        "name": "PIKY",
+        "url": "https://open.spotify.com/album/0t5bMVKuAIiqToDa5bz6li"
+      },
+      "artists": [
+        {
+          "name": "Jezzy",
+          "url": "https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu"
+        },
+        {
+          "name": "Leo RD",
+          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
+        }
+      ],
+      "duration_ms": 118998,
+      "name": "PIKY",
+      "url": "https://open.spotify.com/track/3s53B1v7ijagovFhhWVX8n"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Onana",
+        "url": "https://open.spotify.com/album/77fNQQR6ppjbsF30EUFEHP"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "Onana",
+      "url": "https://open.spotify.com/track/5oVBCcGv1EX2foIs6X6GRw"
+    },
+    {
       "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "Eso E",
@@ -147,22 +183,6 @@
       "duration_ms": 109866,
       "name": "J\u00e1lale alv",
       "url": "https://open.spotify.com/track/57uiO4cG6bK5yq51BJTvyE"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Onana",
-        "url": "https://open.spotify.com/album/77fNQQR6ppjbsF30EUFEHP"
-      },
-      "artists": [
-        {
-          "name": "Jey One",
-          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "Onana",
-      "url": "https://open.spotify.com/track/5oVBCcGv1EX2foIs6X6GRw"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -317,6 +337,26 @@
       "url": "https://open.spotify.com/track/6EKQWjiQPniG7zwJ9Hhc4y"
     },
     {
+      "added_at": "2024-06-05 22:20:13",
+      "album": {
+        "name": "Pila De Nota",
+        "url": "https://open.spotify.com/album/3pFagynWQQx2iuemq6tjMm"
+      },
+      "artists": [
+        {
+          "name": "Bigoblin",
+          "url": "https://open.spotify.com/artist/38m9i1Ro4UpoMLGuRm6bwq"
+        },
+        {
+          "name": "JeycitoLM",
+          "url": "https://open.spotify.com/artist/238gi90zN8qUlMGGERfXF4"
+        }
+      ],
+      "duration_ms": 138427,
+      "name": "Pila De Nota",
+      "url": "https://open.spotify.com/track/0F2FwMpxWS4RHPybwjeYwG"
+    },
+    {
       "added_at": "2024-01-18 22:36:41",
       "album": {
         "name": "Pitone",
@@ -415,26 +455,6 @@
       "duration_ms": 115432,
       "name": "A 30",
       "url": "https://open.spotify.com/track/2h2Kllyx5wpXvrYN3M8CG1"
-    },
-    {
-      "added_at": "2024-06-05 22:20:13",
-      "album": {
-        "name": "Pila De Nota",
-        "url": "https://open.spotify.com/album/3pFagynWQQx2iuemq6tjMm"
-      },
-      "artists": [
-        {
-          "name": "Bigoblin",
-          "url": "https://open.spotify.com/artist/38m9i1Ro4UpoMLGuRm6bwq"
-        },
-        {
-          "name": "JeycitoLM",
-          "url": "https://open.spotify.com/artist/238gi90zN8qUlMGGERfXF4"
-        }
-      ],
-      "duration_ms": 138427,
-      "name": "Pila De Nota",
-      "url": "https://open.spotify.com/track/0F2FwMpxWS4RHPybwjeYwG"
     },
     {
       "added_at": "2023-11-07 16:25:12",
@@ -603,22 +623,6 @@
       "duration_ms": 124870,
       "name": "Se Puede Repet\u00ed",
       "url": "https://open.spotify.com/track/5v1ncHJGnN4ONlPx63zjTU"
-    },
-    {
-      "added_at": "2024-02-01 23:43:50",
-      "album": {
-        "name": "Wao Nena",
-        "url": "https://open.spotify.com/album/78pJNm5qqr4TBEpL2LWRwf"
-      },
-      "artists": [
-        {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
-        }
-      ],
-      "duration_ms": 123145,
-      "name": "Wao Nena",
-      "url": "https://open.spotify.com/track/4I1ZF4yRphYWDH9qk2luJX"
     },
     {
       "added_at": "2023-10-13 04:00:00",

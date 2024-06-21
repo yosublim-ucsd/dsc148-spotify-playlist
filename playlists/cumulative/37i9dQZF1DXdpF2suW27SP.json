@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Mizzy Miles, Teto, MC PH entram na zona. ",
+  "description": "Myles 6ix, CADU, 10/16, Blutab, Midas entram na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -1600,7 +1600,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 144772,
       "name": "Black On Black",
       "url": "https://open.spotify.com/track/4IxMWTKD2rB3QsU77bXAyj"
@@ -2402,7 +2402,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 169142,
       "name": "Chuva",
       "url": "https://open.spotify.com/track/64wvMwnsBM0EiaCvDgquOC"
@@ -2702,6 +2702,28 @@
       "duration_ms": 247200,
       "name": "Conto Bafiento",
       "url": "https://open.spotify.com/track/6oPbtUaYxVvQaRDwm61Sg8"
+    },
+    {
+      "album": {
+        "name": "Contra Probabilidades",
+        "url": "https://open.spotify.com/album/2w1V6Gjc1HVZ6TGYMlzqT8"
+      },
+      "artists": [
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        },
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203082,
+      "name": "Contra Probabilidades",
+      "url": "https://open.spotify.com/track/5nYYQ85x9DwEiEpETQNlNC"
     },
     {
       "album": {
@@ -3338,6 +3360,40 @@
       "duration_ms": 164000,
       "name": "Drunk in Love",
       "url": "https://open.spotify.com/track/2fmGyS46jsnGAkwAKjLev7"
+    },
+    {
+      "album": {
+        "name": "D\u00e1diva",
+        "url": "https://open.spotify.com/album/75ybVxYcuBAlsWkUXwHpuE"
+      },
+      "artists": [
+        {
+          "name": "Myles 6ix",
+          "url": "https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l"
+        },
+        {
+          "name": "CADU",
+          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
+        },
+        {
+          "name": "10/16",
+          "url": "https://open.spotify.com/artist/7C85XCknYDZcSHj68BiwQE"
+        },
+        {
+          "name": "Blutab",
+          "url": "https://open.spotify.com/artist/22kBEgCG7XpuS0OJS1vP07"
+        },
+        {
+          "name": "Midas",
+          "url": "https://open.spotify.com/artist/1so0cEsQMRr2pdTMdrLfRh"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352800,
+      "name": "D\u00e1diva",
+      "url": "https://open.spotify.com/track/2SXJrnha0vFakr4eNlDM85"
     },
     {
       "album": {
@@ -4350,7 +4406,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 185860,
       "name": "Full Energy",
       "url": "https://open.spotify.com/track/5hNNuSn3Fjlr02onQZsYYN"
@@ -5154,6 +5210,24 @@
       "duration_ms": 194000,
       "name": "International Bizz",
       "url": "https://open.spotify.com/track/1mmYrB8rIUWA73nsivDPu4"
+    },
+    {
+      "album": {
+        "name": "Inveja",
+        "url": "https://open.spotify.com/album/35eFQ1whgIJXC4NsBwYrem"
+      },
+      "artists": [
+        {
+          "name": "Waze",
+          "url": "https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152664,
+      "name": "Inveja",
+      "url": "https://open.spotify.com/track/0IQii4lHVHPkFwh9UbR6Jv"
     },
     {
       "album": {
@@ -6077,6 +6151,24 @@
     },
     {
       "album": {
+        "name": "MAGMA",
+        "url": "https://open.spotify.com/album/15HBiiQkrAkj0IMx7RxXej"
+      },
+      "artists": [
+        {
+          "name": "Mirai",
+          "url": "https://open.spotify.com/artist/343oeu5WwCY3D2d4OLN5FC"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "MAGMA",
+      "url": "https://open.spotify.com/track/64ZPHSuYKwGe1BcpqIaZ18"
+    },
+    {
+      "album": {
         "name": "Mais Uma Vez",
         "url": "https://open.spotify.com/album/6XwhLnbx0ixfuoJJZvXB8S"
       },
@@ -6392,7 +6484,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 168300,
       "name": "Mensagem",
       "url": "https://open.spotify.com/track/45iFUQKNVkSFXah35yvZaz"
@@ -6578,7 +6670,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 259127,
       "name": "Minha Terra",
       "url": "https://open.spotify.com/track/2EtBqr037rsEcUHlaSTcT6"
@@ -7356,6 +7448,24 @@
       "duration_ms": 245000,
       "name": "Notas de 100",
       "url": "https://open.spotify.com/track/2GGzUIG3rIQj4rveCtocrY"
+    },
+    {
+      "album": {
+        "name": "Nova Season",
+        "url": "https://open.spotify.com/album/3Yd5l2W83TGIUwuFNLrVuQ"
+      },
+      "artists": [
+        {
+          "name": "Achero",
+          "url": "https://open.spotify.com/artist/7L8DLzR5RuMizLVu9Ww0cs"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134794,
+      "name": "Nova Season",
+      "url": "https://open.spotify.com/track/2d9t5MQGqwtGiaA5pSSBPp"
     },
     {
       "album": {

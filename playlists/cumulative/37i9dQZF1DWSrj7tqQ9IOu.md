@@ -2,9 +2,9 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover : Zélie
+> The best French indie tracks right now\. Cover : La Femme
 
-501 songs - 1 day 3 hr 29 min
+504 songs - 1 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [chanson triste](https://open.spotify.com/track/5WFiYXOtO5u45X5mLv6ckW) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [chanson triste](https://open.spotify.com/album/1QurzPgalUkcteDy3b6DUm) | 3:22 | 2022-10-13 | 2023-06-02 |
 | [Chifoumi](https://open.spotify.com/track/6lKs1pXjZvGQHNky3qD6qz) | [Novaé Lita](https://open.spotify.com/artist/1tZ9lQ62KmVFephCl3hfB6) | [Chifoumi](https://open.spotify.com/album/3Wfi96jmFxSxBdv510bSar) | 2:29 | 2022-10-13 | 2023-03-03 |
 | [Chui pu fort](https://open.spotify.com/track/1VkMX6F5GJH2ggI6JFUVjD) | [Mr GISCARD](https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj) | [Chui pu fort](https://open.spotify.com/album/71j1HEoL1pXrWb24SaSNGs) | 2:09 | 2022-05-12 | 2022-06-10 |
+| [Ciao Paris!](https://open.spotify.com/track/1KRwiG5K8nliFRualGxUNL) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Ciao Paris!](https://open.spotify.com/album/6yxgASQFnI2BQOBLfJOPSX) | 3:25 | 2024-06-20 |  |
 | [Cinecittà](https://open.spotify.com/track/5FBkgVSvJJmdc8FQ7wttXv) | [Fils Cara](https://open.spotify.com/artist/42SznvyZNQon11BUfdPadN) | [Cinecittà](https://open.spotify.com/album/2tYErUP9mEPl64sKkXzure) | 3:37 | 2022-09-01 | 2022-09-03 |
 | [Cinéma](https://open.spotify.com/track/31CfJjcoplMlUpvbp5226g) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI), [Tao](https://open.spotify.com/artist/3X7X2ZNgwC4TkAUTDLAV9h) | [Cinéma](https://open.spotify.com/album/4RA0vuI5Iay7XIjnX5PanZ) | 3:00 | 2022-07-21 | 2022-09-23 |
 | [Cinéma](https://open.spotify.com/track/6KXJymOSI776EMEgY96JbP) | [Elephanz](https://open.spotify.com/artist/2CD8tl357w6zYA3XYuOJPO), [Zahia Dehar](https://open.spotify.com/artist/5b6Y4VfGSc8rw3XA7PZPDh) | [Rien De Personnel](https://open.spotify.com/album/5kO9QAxCNOKUwSQuvi4KAO) | 3:09 | 2023-10-19 | 2023-11-24 |
@@ -102,7 +103,7 @@
 | [Dans mes rêves](https://open.spotify.com/track/4mVY5qhPe2PWDvf7E2Sn0d) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Dans mes rêves](https://open.spotify.com/album/41ldBOE9Pjc0hWdfNJc0ha) | 3:43 | 2021-12-16 | 2022-03-25 |
 | [Danza Marilù \(feat\. Fabiana Martone\)](https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Fabiana Martone](https://open.spotify.com/artist/0HmuQ7f7dXY5W6wK4rA8j1) | [Danza Marilù \(feat\. Fabiana Martone\)](https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf) | 4:04 | 2024-04-04 | 2024-05-03 |
 | [DARLING\. N6.23](https://open.spotify.com/track/2TeFJiZe6eFIM2aAjp8leW) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [SEASONS](https://open.spotify.com/album/0ySU41tw4sVCQVWnmb9XmL) | 4:02 | 2023-12-08 |  |
-| [Day & Night](https://open.spotify.com/track/7B2RswVcMbBs70dFyxVGak) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Opening Soon](https://open.spotify.com/album/5YX88yWrZXIXhyPTpNQhHb) | 4:03 | 2023-08-31 |  |
+| [Day & Night](https://open.spotify.com/track/7B2RswVcMbBs70dFyxVGak) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Opening Soon](https://open.spotify.com/album/5YX88yWrZXIXhyPTpNQhHb) | 4:03 | 2023-08-31 | 2024-06-21 |
 | [De passage](https://open.spotify.com/track/4a0upuCaLwcfL7TBYAGfGu) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [De passage](https://open.spotify.com/album/7qUUnF1DQdPRJhIeoWd3XB) | 3:06 | 2023-11-23 | 2024-06-07 |
 | [De passage](https://open.spotify.com/track/4qF7Zmu83lewHKTjP8sHqD) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [Nouvelle Ère](https://open.spotify.com/album/5fDeHvOOrCb7iOw7V90OQm) | 3:06 | 2024-01-18 | 2024-04-19 |
 | [De passage](https://open.spotify.com/track/5mkGCuxXJfqo8Ed5dlQWdF) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [De passage](https://open.spotify.com/album/7w8YGqzXswTDFkUQ4edlRw) | 3:06 | 2024-01-04 | 2024-01-22 |
@@ -138,6 +139,7 @@
 | [Epoch](https://open.spotify.com/track/75NobUSglm9bEYUd9pee0d) | [Quasi Qui](https://open.spotify.com/artist/6QN9eVzG8N5pKQmkZrPWCB) | [Epoch](https://open.spotify.com/album/37rih338EqfPOdjOC1AZiM) | 3:45 | 2022-05-12 | 2022-09-09 |
 | [Etoile noire](https://open.spotify.com/track/7D8lO8l8QLSKahYnuKK9ls) | [Izïa](https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3) | [La vitesse](https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF) | 3:17 | 2022-06-02 | 2022-07-22 |
 | [Even Now](https://open.spotify.com/track/32uVxq9URcY70dGwm0EzF5) | [Superjava](https://open.spotify.com/artist/2oiYIcyuXbGsKC0PJUCrGp), [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [Even Now](https://open.spotify.com/album/1XrUW4FChuC6EjR99b8xPh) | 3:00 | 2024-05-16 |  |
+| [Every Little Thing](https://open.spotify.com/track/3CU1weXfgyyYe6sN1V50Ee) | [Tahiti 80](https://open.spotify.com/artist/7N2ukNg3vSS0LE1xqSaO2j) | [Every Little Thing](https://open.spotify.com/album/3zePOpjgo3CVKu0X49DADi) | 3:11 | 2024-06-20 |  |
 | [Everynight](https://open.spotify.com/track/2RZf85DlySSEutouUtotn6) | [Camp Claude](https://open.spotify.com/artist/0TNyEQ0n7diilLgG1ozfrB) | [Everynight](https://open.spotify.com/album/79rUCbCs5fikaZhd1wry5a) | 3:07 | 2022-11-24 | 2023-02-03 |
 | [Exotica](https://open.spotify.com/track/0BOXrnQCeHGkl2AraB6OLn) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W) | [Rêve parti](https://open.spotify.com/album/3cTYOxcJrFZjoTClbbceI9) | 3:23 | 2024-02-01 |  |
 | [Fantasy Girl](https://open.spotify.com/track/75CoiQTM3XHWSmm4XlfM20) | [Novaé Lita](https://open.spotify.com/artist/1tZ9lQ62KmVFephCl3hfB6) | [Fantasy Girl](https://open.spotify.com/album/2PPmrh2GUeD42U42NWMO9v) | 2:06 | 2022-06-30 | 2022-10-14 |
@@ -147,7 +149,7 @@
 | [Fireflies](https://open.spotify.com/track/2w5qTNK3kadYOs8pgc2JRM) | [Pearl & The Oysters](https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs) | [Coast 2 Coast](https://open.spotify.com/album/6y5kCZvxD1Oq5M385icFT9) | 2:44 | 2023-04-20 | 2023-06-30 |
 | [first flight](https://open.spotify.com/track/2a4Dy0Gd6LxJ5lvrT1XK2o) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [first flight](https://open.spotify.com/album/3oSCYW6kooJ9tZqrBCy5qi) | 3:31 | 2022-09-15 | 2022-10-14 |
 | [Flashdance](https://open.spotify.com/track/1TOpTNqzED5PB8rTKufluy) | [Antonin Appaix](https://open.spotify.com/artist/2Pcy7ggRL3s3gI8YBiMNPj) | [Flashdance](https://open.spotify.com/album/2EVsAOPUeB6o1SNJVH3bQg) | 3:06 | 2022-01-20 | 2022-04-15 |
-| [Flashlight](https://open.spotify.com/track/53B6IvshpFAGEQSbRZJXRZ) | [Please](https://open.spotify.com/artist/07xx8lFWESVjZnqCpm43ku) | [Flashlight](https://open.spotify.com/album/6zgBTYtzouNQxbaIP34BBB) | 3:16 | 2024-03-21 |  |
+| [Flashlight](https://open.spotify.com/track/53B6IvshpFAGEQSbRZJXRZ) | [Please](https://open.spotify.com/artist/07xx8lFWESVjZnqCpm43ku) | [Flashlight](https://open.spotify.com/album/6zgBTYtzouNQxbaIP34BBB) | 3:16 | 2024-03-21 | 2024-06-21 |
 | [Flight To Vienna](https://open.spotify.com/track/3CoBGFdnpBTVv4gbf5H1Km) | [Khamsin](https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren) | [Flight To Vienna](https://open.spotify.com/album/69WrckSdGdNlDQiJrrjxP5) | 2:23 | 2023-04-27 | 2023-05-05 |
 | [Flowers](https://open.spotify.com/track/7ogQYxp96INp4fbzOYitRq) | [Deluxe](https://open.spotify.com/artist/4EePV5BljRSXJnYww4d5Qa) | [Flowers](https://open.spotify.com/album/5rvVfYlcboTW6usum9qWoK) | 3:41 | 2022-02-24 | 2022-03-04 |
 | [Folle](https://open.spotify.com/track/4u0dpuvdgKBBGljlKYRkf2) | [Izïa](https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3) | [La vitesse](https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF) | 3:26 | 2022-11-24 | 2023-09-08 |
@@ -368,6 +370,7 @@
 | [Qu'est\-ce que j'y peux](https://open.spotify.com/track/7ovsYgRg8uaBuhIeONj1Jm) | [Pépite](https://open.spotify.com/artist/0oA0cg7ajEwV0EXKCAlQ63) | [Qu'est\-ce que j'y peux](https://open.spotify.com/album/2lXxEzMqi73YHiFywsxz3k) | 3:08 | 2023-11-16 | 2023-12-08 |
 | [Quand j'étais môme](https://open.spotify.com/track/4l6G4X9NpyYWpDPPbTl9nS) | [Sandra Nicolle](https://open.spotify.com/artist/2zVnYGjWyf1PXEm5kru4Ll) | [Quand j'étais môme](https://open.spotify.com/album/6s55EP2BkOqyAEJHBAu2go) | 3:13 | 2024-01-18 | 2024-02-16 |
 | [QUESTIONS\. N4.23](https://open.spotify.com/track/1EO9ajG5uaGyNEtkNNWq1J) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [QUESTIONS\. N4.23](https://open.spotify.com/album/5B9lfPhUwNsMx4vsNl28Ac) | 3:22 | 2023-06-29 | 2023-11-17 |
+| [Quitter la ville](https://open.spotify.com/track/2o1egEONubbMeEjYZyjZip) | [Laura Cahen](https://open.spotify.com/artist/7F6KYZeQpL5MqAnMFG8a4F) | [Quitter la ville](https://open.spotify.com/album/7LxezQ4HtOMd7R31t2J2Ms) | 4:05 | 2024-06-20 |  |
 | [Radio](https://open.spotify.com/track/64TQd94FEEFJbpnYs9Jfqd) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4) | [Radio](https://open.spotify.com/album/6zNUofPP2SkaBZ0Eg9AtIt) | 3:23 | 2024-02-15 |  |
 | [RBH](https://open.spotify.com/track/7s2kizsNmMzKoJXTkxGTRj) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [RBH](https://open.spotify.com/album/1Ur9lpwWAuK90MoUyNtLK0) | 4:16 | 2023-03-09 | 2023-04-07 |
 | [RDV](https://open.spotify.com/track/5rFfq3wabTZxIq9nxehZ5P) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [RDV](https://open.spotify.com/album/10Pk5LsFeQG9YYkrK9A6fa) | 2:41 | 2023-07-06 | 2024-02-02 |
@@ -390,7 +393,7 @@
 | [Sans toi](https://open.spotify.com/track/26mUo1w8cTYVEk89JQVNqs) | [Chillpac](https://open.spotify.com/artist/3k8dN7ttBtz3ce20RS6BQl), [Clé](https://open.spotify.com/artist/6ngMTk9g830xvD6sl48tmQ) | [Sans toi](https://open.spotify.com/album/2jqDiAzXCYAdez5EDVnUcR) | 3:15 | 2022-07-28 | 2023-02-03 |
 | [saudade](https://open.spotify.com/track/0kpMUdI4YGhhKOisM6cbJ5) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [postcard from Rio](https://open.spotify.com/album/6eyo1VgU0qGpGBvXP3jEpZ) | 2:46 | 2022-10-27 | 2022-12-09 |
 | [Se laisser partir](https://open.spotify.com/track/7AU11YKhAzZhRGwGDiXJqj) | [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [Se laisser partir](https://open.spotify.com/album/2sEgqV6P0z6qROTfuColna) | 3:18 | 2024-03-28 | 2024-04-12 |
-| [Sensations](https://open.spotify.com/track/1UfM6gnwpBhkzMw07kK6TP) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Plaisir Risque Dépendance](https://open.spotify.com/album/6Xadqm9viEhsKgp0zRp8Gc) | 2:42 | 2023-10-19 |  |
+| [Sensations](https://open.spotify.com/track/1UfM6gnwpBhkzMw07kK6TP) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Plaisir Risque Dépendance](https://open.spotify.com/album/6Xadqm9viEhsKgp0zRp8Gc) | 2:42 | 2023-10-19 | 2024-06-21 |
 | [Septembre](https://open.spotify.com/track/0pdsE52mkFSkakwIFhxal2) | [Antonin Appaix](https://open.spotify.com/artist/2Pcy7ggRL3s3gI8YBiMNPj) | [Septembre](https://open.spotify.com/album/67evLF3OWRoaiAiHcwJx3K) | 2:14 | 2022-09-29 | 2023-02-17 |
 | [Septembre](https://open.spotify.com/track/5doB18k5d74YdrF74Dybvf) | [Charlotte Fever](https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX) | [Septembre](https://open.spotify.com/album/03TAOcjBtygRXgMPDAMBy6) | 3:24 | 2022-09-08 | 2023-08-25 |
 | [SEVEN MILES](https://open.spotify.com/track/7t3dwwYhqdv25hk27lj4qq) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [SEVEN MILES](https://open.spotify.com/album/3cp5m52q6Jdezke8446z4t) | 2:47 | 2023-05-11 | 2023-09-08 |

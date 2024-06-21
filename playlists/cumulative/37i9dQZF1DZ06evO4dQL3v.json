@@ -1563,6 +1563,24 @@
     },
     {
       "album": {
+        "name": "Polvo y Nada",
+        "url": "https://open.spotify.com/album/2bISkaPDVGVa00GcpvFLiE"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171080,
+      "name": "Para Cuando Regrese",
+      "url": "https://open.spotify.com/track/7qU8JSgwO1GOdTmfoT1Jrm"
+    },
+    {
+      "album": {
         "name": "Cantando a Mexico",
         "url": "https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw"
       },
@@ -1812,7 +1830,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 136386,
       "name": "Tampico Hermoso San Luis Potosi",
       "url": "https://open.spotify.com/track/32yy8yQftpKs6nI0nlmnfp"

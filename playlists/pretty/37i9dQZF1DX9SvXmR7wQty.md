@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Iliona
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,024 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,024 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,25 +38,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 28 | [Me prends pas la tête](https://open.spotify.com/track/2qvNjj0E3whohTikQRaRR4) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Mise à jour](https://open.spotify.com/album/2M8IRxOB9vV2P2OoaeMrkQ) | 3:20 |
 | 29 | [Nothing Personal \- A COLORS SHOW](https://open.spotify.com/track/45Vsjd89poscQkXodaMc0v) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [Nothing Personal \- A COLORS SHOW](https://open.spotify.com/album/4DbG96qdPpW4hCvOUU5Vny) | 2:58 |
 | 30 | [Galbi](https://open.spotify.com/track/2VgjGB1MMpkCTVVwKMSBjB) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Galbi](https://open.spotify.com/album/0Uad3EVytXLqLknoA7xVQ1) | 2:23 |
-| 31 | [HASTA LA VISTA](https://open.spotify.com/track/14j9HbZoSdTooGK12uTNRc) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [HASTA LA VISTA](https://open.spotify.com/album/7hUqFjJC3W7ClnQolEO3NT) | 3:19 |
+| 31 | [TI TI TI](https://open.spotify.com/track/6ob9uKyryapebruQXDzIlu) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [TI TI TI](https://open.spotify.com/album/4xAALJ2WaDy2IhJUaXPPfP) | 3:20 |
 | 32 | [Facile à danser](https://open.spotify.com/track/2LCUvL8ZJ49z6uP1cGXSFi) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Facile à danser](https://open.spotify.com/album/1LXf0FJdk7greyhOvUBDBf) | 3:13 |
 | 33 | [Si près si loin](https://open.spotify.com/track/18KFJSWiPEmwrk6oGy4SiB) | [Billie du Page](https://open.spotify.com/artist/0FtpMrRAPhbGpC34OMSUbX) | [Si près si loin](https://open.spotify.com/album/6z2FU4xiWOJcoxX35FHBu9) | 3:08 |
-| 34 | [PAF](https://open.spotify.com/track/2RGG3LWnqjEHpplIkieJqP) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [MB](https://open.spotify.com/artist/2TDTS5K5hN0lAyfOOKIkoe) | [PAF](https://open.spotify.com/album/6pgypgF6c5yIrfmQ099g8x) | 2:52 |
+| 34 | [HASTA LA VISTA](https://open.spotify.com/track/14j9HbZoSdTooGK12uTNRc) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [HASTA LA VISTA](https://open.spotify.com/album/7hUqFjJC3W7ClnQolEO3NT) | 3:19 |
 | 35 | [T'as vu](https://open.spotify.com/track/4UwPo0uBjGUrL7i7rgnbdY) | [Erwan](https://open.spotify.com/artist/3uWhb8ADEysVQ5IRoFfAcH) | [T'as vu](https://open.spotify.com/album/0PVs8Gu7vKRJhkwY8gXUHN) | 3:39 |
-| 36 | [TI TI TI](https://open.spotify.com/track/6ob9uKyryapebruQXDzIlu) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [TI TI TI](https://open.spotify.com/album/4xAALJ2WaDy2IhJUaXPPfP) | 3:20 |
+| 36 | [CŒUR DE ICE](https://open.spotify.com/track/1KPuYzyP2wKwFXQEF1voqj) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [CŒUR DE ICE](https://open.spotify.com/album/16q1SBIfIoTnp6jxlRugUe) | 3:24 |
 | 37 | [Il faut que je migre](https://open.spotify.com/track/7eBfWRx7k41ufBTiokl96p) | [Irène](https://open.spotify.com/artist/5nK5s5oK58IWpRwWcoogYS) | [Il faut que je migre](https://open.spotify.com/album/4jRzUZY5FBu937fnIlv7em) | 3:00 |
-| 38 | [YOMB](https://open.spotify.com/track/6NLolWRVPfmvKKmDpTgPZT) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [DLPDA](https://open.spotify.com/album/2qF7voJS33g9r7USnQa0AT) | 2:50 |
+| 38 | [PAF](https://open.spotify.com/track/2RGG3LWnqjEHpplIkieJqP) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [MB](https://open.spotify.com/artist/2TDTS5K5hN0lAyfOOKIkoe) | [PAF](https://open.spotify.com/album/6pgypgF6c5yIrfmQ099g8x) | 2:52 |
 | 39 | [Décembre](https://open.spotify.com/track/4BwsCqmONlz8OD9eHWSm64) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Les vacances d'été](https://open.spotify.com/album/1ig4GTygY81dq3Y2q4S17I) | 2:33 |
 | 40 | [Chaque seconde](https://open.spotify.com/track/5QKXM4zRBrVzofZJxlO5tL) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Chaque seconde](https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm) | 2:46 |
 | 41 | [Pomme Z](https://open.spotify.com/track/1kueShAhewtwchYTE8qTrt) | [vice E roi](https://open.spotify.com/artist/6SmN2oQRKkyUlhqg3bOUcz) | [Pomme Z](https://open.spotify.com/album/53zm21Uiy9gbCGQh7zptz8) | 3:10 |
-| 42 | [Si ça va](https://open.spotify.com/track/3qL5wlh5GaEKam28diqZo9) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Imad](https://open.spotify.com/album/2JQGzY8aNTwefM5JBoL5M7) | 3:04 |
+| 42 | [YOMB](https://open.spotify.com/track/6NLolWRVPfmvKKmDpTgPZT) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [DLPDA](https://open.spotify.com/album/2qF7voJS33g9r7USnQa0AT) | 2:50 |
 | 43 | [Places](https://open.spotify.com/track/7L0QKV8kPnp6rfT8XguyN7) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh) | [Places](https://open.spotify.com/album/0aRIAcJuAoES9hTYbkC5PO) | 3:18 |
-| 44 | [CŒUR DE ICE](https://open.spotify.com/track/1KPuYzyP2wKwFXQEF1voqj) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [CŒUR DE ICE](https://open.spotify.com/album/16q1SBIfIoTnp6jxlRugUe) | 3:24 |
+| 44 | [Si ça va](https://open.spotify.com/track/3qL5wlh5GaEKam28diqZo9) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Imad](https://open.spotify.com/album/2JQGzY8aNTwefM5JBoL5M7) | 3:04 |
 | 45 | [fou](https://open.spotify.com/track/3PlgqWBKQ7uItZOS0lACbp) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [réparer](https://open.spotify.com/album/5gJhca2FaL4ruf9nKSpMIu) | 2:36 |
 | 46 | [Allo](https://open.spotify.com/track/1dxl7CSBstnOcLzWrQiBLj) | [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Allo](https://open.spotify.com/album/15LSZk7N06PAFrrqkjprrD) | 2:16 |
 | 47 | [Je suis tout seul dans l'grenier \- Écrite à 14 ans](https://open.spotify.com/track/6TuY1L0w6vQfRqQwKiE0Te) | [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [Je suis tout seul dans l'grenier \(Écrite à 14 ans\)](https://open.spotify.com/album/5xLNlWRztnOBSiJTA6yLkj) | 4:16 |
-| 48 | [Solide](https://open.spotify.com/track/19WSNgI0RNwB8zcXaomnpF) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Solide](https://open.spotify.com/album/1HIdu8IIaYSb5awkKL4Md8) | 2:15 |
+| 48 | [Vrais salauds \(feat\. Gazo & Kore\)](https://open.spotify.com/track/5AjVGkFWK2Ct0B0hbdcmWJ) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N) | [VENI VIDI VICI](https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN) | 2:29 |
 | 49 | [Méditerranée](https://open.spotify.com/track/4M7YeM5qkR8Kn5ALCC03Te) | [Juniore](https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH) | [Méditerranée](https://open.spotify.com/album/44HbVWnGY3W33jhFZxd4GN) | 3:33 |
-| 50 | [Freestyle BMF \#1](https://open.spotify.com/track/3Jys0zVvXhlgf0MVAcj9ji) | [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Freestyle BMF \#1](https://open.spotify.com/album/7HFPAZo4QBzKQ7AbwxUxnn) | 2:56 |
+| 50 | [Solide](https://open.spotify.com/track/19WSNgI0RNwB8zcXaomnpF) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Solide](https://open.spotify.com/album/1HIdu8IIaYSb5awkKL4Md8) | 2:15 |
 
 Snapshot ID: `ZmvAQAAAAABnFdHHrqQI+AD+YhuhLD6z`

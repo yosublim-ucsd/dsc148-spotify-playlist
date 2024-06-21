@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-785 songs - 1 day 18 hr 10 min
+786 songs - 1 day 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Feel Good](https://open.spotify.com/track/3B9ieKCdzdULYHSETdNsKR) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Feel Good](https://open.spotify.com/album/3wZr593OP80fb5PoNHtkqN) | 3:04 | 2021-06-12 |  |
 | [Feel Something](https://open.spotify.com/track/0JU7KoyKSFgY1zJV2ex6Ee) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Feel Something](https://open.spotify.com/album/5hnjWGpT06tLDq8u8WxhGI) | 2:43 | 2021-05-08 |  |
 | [Feel Too Much](https://open.spotify.com/track/58Hhav7Sh9KlVH5svg9wPh) | [Hartley](https://open.spotify.com/artist/7DpaPZ3DnHnTUl5mtFKv4U) | [Feel Too Much](https://open.spotify.com/album/2pXw6Ltm8zSfQsUn7uTEhX) | 2:48 | 2020-05-01 | 2021-05-12 |
+| [feelslikeimfallinginlove](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-06-21 |  |
 | [Find Someone](https://open.spotify.com/track/654BH5npNnfbFZyHD4c2RC) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Find Someone](https://open.spotify.com/album/7izguBApUn5lBJO7bDwzvV) | 3:08 | 2019-08-27\* | 2019-11-11 |
 | [Flashback](https://open.spotify.com/track/3BxbsHLfJsmV2QwyS71eFj) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [Flashback](https://open.spotify.com/album/4FkHKRWk43zBW657uoHgB0) | 2:57 | 2023-11-10 |  |
 | [FLIGHT PATH](https://open.spotify.com/track/2uWImLJDHfQXzCOMzGCEOY) | [E^ST](https://open.spotify.com/artist/7ASucWaI33cepJbo74Hlo0) | [FLIGHT PATH](https://open.spotify.com/album/6e3xCLDiPcEutcXnjzaNkh) | 2:45 | 2019-12-20 | 2021-05-12 |

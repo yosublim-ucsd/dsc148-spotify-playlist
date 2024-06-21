@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,825 songs - 10 day 18 hr 42 min
+6,827 songs - 10 day 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -867,7 +867,7 @@
 | [Busy Branches](https://open.spotify.com/track/2GKQNEAMc6bQjqBHdNtlzz) | [Early Garden](https://open.spotify.com/artist/6UFQmSPDWaWReDLcCrPyNL), [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82) | [Busy Branches](https://open.spotify.com/album/5hSpAo6OG8Z4GmkPwX1fw3) | 2:18 | 2022-04-15 | 2022-09-09 |
 | [Busy Mind](https://open.spotify.com/track/13mpBMfHcwYCJqfvtrr1oX) | [Brous One](https://open.spotify.com/artist/1B8h9tQRqagUQ7XcHRvh3k) | [Busy Mind](https://open.spotify.com/album/6vLm9o1PXUctDIfjf6E16Z) | 2:42 | 2022-06-10 | 2022-09-30 |
 | [butter](https://open.spotify.com/track/2gouQWJVOdLrjfAF6N1WIg) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [butter](https://open.spotify.com/album/564uFHwoXpTQUR8RkRDJjS) | 2:18 | 2023-12-08 |  |
-| [Butter](https://open.spotify.com/track/2LN4hN5vwx2lG5gecZ1C6D) | [Lowkey](https://open.spotify.com/artist/7toCka0iNs3DkEyWv94JmO), [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Butter](https://open.spotify.com/album/0YjnCKnT5PQKRVYoRJPP1t) | 1:44 | 2024-03-22 |  |
+| [Butter](https://open.spotify.com/track/2LN4hN5vwx2lG5gecZ1C6D) | [Lowkey](https://open.spotify.com/artist/7toCka0iNs3DkEyWv94JmO), [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Butter](https://open.spotify.com/album/0YjnCKnT5PQKRVYoRJPP1t) | 1:44 | 2024-03-22 | 2024-06-21 |
 | [buttercream](https://open.spotify.com/track/4TYzoUyZaA5efqWskTCFai) | [Pistachio](https://open.spotify.com/artist/1zj6sjoit7AFmmBfozJX1H) | [buttercream](https://open.spotify.com/album/7okooMQ0GTPtZEJUF6egJK) | 2:26 | 2022-10-28 | 2024-01-05 |
 | [Butterflies](https://open.spotify.com/track/7pLGolUwsim4ShRclN6sET) | [Florence Ada](https://open.spotify.com/artist/55eWRokjrhKoE28jaHJYw7) | [Butterflies](https://open.spotify.com/album/0wNnk04yNAB7ZKTl9W54E3) | 1:51 | 2023-02-27 | 2023-09-17 |
 | [Butterfly](https://open.spotify.com/track/4NNWW0MiIYdQeYhJWrMnrg) | [Iassu](https://open.spotify.com/artist/2ojxL6kb0AB5KaHAYoXUDe) | [Butterfly](https://open.spotify.com/album/3dDfzSRmLzV037kjC8kK3y) | 1:36 | 2022-04-15 | 2022-09-02 |
@@ -2613,6 +2613,7 @@
 | [hiraeth](https://open.spotify.com/track/5mmuH8pMKMH2LxoTarovTL) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [hiraeth](https://open.spotify.com/album/2FzLX0mQtTxDFfN7Z2bSG7) | 1:33 | 2022-04-15 | 2022-09-09 |
 | [hiro](https://open.spotify.com/track/1cO3FUW4M7E56H9HcFclCB) | [lōland](https://open.spotify.com/artist/5AUK3KLrqdHpcsRowJVJIn) | [hiro \| mori](https://open.spotify.com/album/4pArbij5jHQfdMIwrPnurN) | 2:25 | 2020-05-06 | 2021-06-18 |
 | [Hitchhikers](https://open.spotify.com/track/0VLquR2M28ldDhTyyZkvNc) | [Jordy Chandra](https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh), [S N U G](https://open.spotify.com/artist/0liH4Jfiz66Rqjz4DH3JZk) | [Hitchhikers](https://open.spotify.com/album/1zcDPsECX20HVCLZWOfpEt) | 2:42 | 2021-07-11 | 2022-03-12 |
+| [hjortron](https://open.spotify.com/track/1eGHzlNpyXAsi4qKfm5z27) | [bomull](https://open.spotify.com/artist/1F32IriH9KUZxZzUoxeQub) | [hjortron](https://open.spotify.com/album/5sANFRqIeEJUz1aVPmgEjA) | 2:09 | 2024-06-14 |  |
 | [Hoarfrost](https://open.spotify.com/track/6dz5DjkgRrFpggyTfcgsbC) | [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT), [Cadmio](https://open.spotify.com/artist/2jTi2jTlAYMlHY8Zg1sUdD) | [Hoarfrost](https://open.spotify.com/album/0Z75Vm9LGoEps9f1uZ8bxU) | 2:00 | 2022-04-08 | 2022-09-02 |
 | [Hokkaido Breeze](https://open.spotify.com/track/20aWMDQFYgx0da54JctdZd) | [Furry Beats](https://open.spotify.com/artist/74JcB9y2kqee7Fm3rrlAe5) | [Hokkaido Breeze](https://open.spotify.com/album/2FuriS42295H1EzGOwZV6x) | 2:20 | 2023-10-13 |  |
 | [Hold My Hand](https://open.spotify.com/track/6SZGcMHz0UI4N9eKLRktPI) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3) | [Hold My Hand](https://open.spotify.com/album/0K9Koh600rtlZeWNY3VrkH) | 3:12 | 2022-09-30 | 2022-12-16 |
@@ -3871,7 +3872,7 @@
 | [moonlights](https://open.spotify.com/track/2aH7PYX1vdr96PNXdBqmJs) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni) | [moonlights](https://open.spotify.com/album/4QOo2Y2EE83J9l1QzEbuy8) | 2:01 | 2021-07-11 | 2022-03-12 |
 | [Moonlit Whispers](https://open.spotify.com/track/7LhSuxt5h2I9Kfs4bkoiAN) | [LiGe 力哥](https://open.spotify.com/artist/4XuX7xOI4bK8Rfpwu0WjV9), [lukayo](https://open.spotify.com/artist/3AhFxqxCwraIIUrUiVx4d1), [Lush Lofi](https://open.spotify.com/artist/5JhRPnuIs99MvULl2ZcFiL) | [Moonlit Whispers](https://open.spotify.com/album/5FCiLkgnhw5I5HVoeRDbi6) | 2:22 | 2023-11-17 |  |
 | [Moonrise](https://open.spotify.com/track/3ou3qih65k7ZqoVN4ziXuG) | [Elsei](https://open.spotify.com/artist/50w62qMAnHcGIIFsUdEReo) | [Moonrise](https://open.spotify.com/album/44LmbRxDhVJiu8lN0el8MN) | 2:16 | 2022-02-14 | 2022-07-22 |
-| [Moonrise](https://open.spotify.com/track/1IjfRgASFYlHRHYLuUrmsA) | [Trixie](https://open.spotify.com/artist/3BHWIx02zIYjPsVrwJ9QYL) | [Moonrise](https://open.spotify.com/album/2yffzTV7ikZP8CaDtrA9eb) | 2:12 | 2024-06-07 |  |
+| [Moonrise](https://open.spotify.com/track/1IjfRgASFYlHRHYLuUrmsA) | [Trixie](https://open.spotify.com/artist/3BHWIx02zIYjPsVrwJ9QYL) | [Moonrise](https://open.spotify.com/album/2yffzTV7ikZP8CaDtrA9eb) | 2:12 | 2024-06-07 | 2024-06-21 |
 | [Moons Of Neptune](https://open.spotify.com/track/3ytJslh6YkL4PwdH8NWxSC) | [J\. Lorenzo](https://open.spotify.com/artist/1znEpSLL4247fcHcMICTgN) | [Moons Of Neptune](https://open.spotify.com/album/2wmOPcJfvbIRlgCcynAxhX) | 2:36 | 2022-07-15 | 2022-10-28 |
 | [Moonscape](https://open.spotify.com/track/4jf6xXgvgVnXDMUNBAXTQ2) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Sweet Medicine](https://open.spotify.com/artist/0CF9CnQbK6uS8u78KVnIPv), [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [A Quiet Place](https://open.spotify.com/album/6qddHV8GGqTuSawsntlL5k) | 2:25 | 2022-12-16 | 2023-03-25 |
 | [Moonshine](https://open.spotify.com/track/0MWcu0NXEJszqLvK19n0hy) | [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Moonshine / Starshine](https://open.spotify.com/album/4Iz5vcZYyC1ztExHZngPVf) | 1:53 | 2022-11-18 | 2023-09-30 |
@@ -6316,6 +6317,7 @@
 | [Unwind](https://open.spotify.com/track/4eEQtXiSOPUJfaP3kA47yk) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Unwind](https://open.spotify.com/album/63VYJxlq89Dx1BtCA91Wvr) | 4:12 | 2022-09-16 | 2022-11-20 |
 | [Unwind](https://open.spotify.com/track/67p1eyYdwqs3d9CVZdSlzC) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Unwind](https://open.spotify.com/album/42R8dikH5xTKY4dUpqbAaW) | 4:12 | 2022-11-18 | 2022-12-24 |
 | [Up](https://open.spotify.com/track/0vMZrX9RZ8yEqaNIjUmV7y) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [Bluewerks Vol\. 1: Up Down Left Right](https://open.spotify.com/album/3rF38iEMLEfEGQcS1Bb2Y5) | 2:00 | 2021-03-06 | 2022-01-14 |
+| [up and upper](https://open.spotify.com/track/5fFgCGDi9eP2A0yUM6LG7k) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [up and upper](https://open.spotify.com/album/03B0KT5nLYh9uSf33frzYk) | 2:24 | 2024-06-14 |  |
 | [Up For Debate](https://open.spotify.com/track/0RTZzUgu0MQ3h8vTGOBKVP) | [Diego Masa](https://open.spotify.com/artist/5RX5BLkadTIqJeXRBWKOSy) | [Up For Debate](https://open.spotify.com/album/5hVmYZDBbQSB4XJSG24SE1) | 2:36 | 2022-04-08 | 2022-10-07 |
 | [Up In The Air](https://open.spotify.com/track/7tJVAgFmgggQ31YasQxcNf) | [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Up In The Air](https://open.spotify.com/album/1Ld3X6frL6PwPcI036ltV3) | 2:23 | 2024-03-22 |  |
 | [UP TO U](https://open.spotify.com/track/6thF5Uau9BJvyT1CmHYjVY) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [UP TO U](https://open.spotify.com/album/6CCWR8MSJLkFPMbWxwH8ES) | 1:55 | 2019-11-08 | 2020-10-21 |

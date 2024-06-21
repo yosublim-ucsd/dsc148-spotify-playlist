@@ -1,13 +1,29 @@
 {
-  "description": "The best and latest rock and alternative. Cover: Bon Jovi",
-  "num_followers": 9942,
+  "description": "The best and latest rock and alternative. Cover: The Tragically Hip",
+  "num_followers": 9941,
   "original_name": "New Rock Music",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAbmUdeUZ4Gw8L8RZOaBFSLyavYv5Mh",
+  "snapshot_id": "AAAbnAKivSCz3OT/qLzsQpp5x34tnsLW",
   "tracks": [
+    {
+      "added_at": "2024-06-20 13:36:34",
+      "album": {
+        "name": "Get Back Again",
+        "url": "https://open.spotify.com/album/6JbOujEXT2WHe21VJhS7Z9"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "duration_ms": 250331,
+      "name": "Get Back Again",
+      "url": "https://open.spotify.com/track/6WqpjGIipa3oCFTGQ1d9Q0"
+    },
     {
       "added_at": "2024-06-07 19:22:50",
       "album": {

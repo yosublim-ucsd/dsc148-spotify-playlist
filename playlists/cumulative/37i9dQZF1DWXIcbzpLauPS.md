@@ -4,7 +4,7 @@
 
 > Metalcore at its finest\. Cover: Knocked Loose
 
-933 songs - 2 day 10 hr 4 min
+934 songs - 2 day 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [Erase My Mind](https://open.spotify.com/track/1Ea7F7xDdh4prxbcyGrWCM) | [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [Home](https://open.spotify.com/album/78C5GqCXzU5aToERikJ00P) | 3:11 | 2021-12-17 | 2022-04-02 |
 | [Eraser](https://open.spotify.com/track/588UONZ98cyfcM2IEia5nf) | [Alex Yarmak](https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA) | [Eraser](https://open.spotify.com/album/2yvQYev2fyWfAOLrjXgQnE) | 2:33 | 2021-12-17 | 2022-01-08 |
 | [Erotic Depravity](https://open.spotify.com/track/4c0UaGIbiDKUOQ9nPeWvVs) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Erotic Depravity](https://open.spotify.com/album/5MNDKNgVzfkVrcsVzWLLPS) | 2:54 | 2022-07-13 | 2022-07-18 |
+| [Escape](https://open.spotify.com/track/0kF7nwfpWjr2T4N6ci0QoL) | [Stray View](https://open.spotify.com/artist/0SJeQrJGYWv6uHeWbhILVu) | [Escape](https://open.spotify.com/album/2a7K9HSnSRiE6TfXYfnL9g) | 3:55 | 2024-06-10 |  |
 | [Essence](https://open.spotify.com/track/5ycHtWHxS0LJ1hOXEYGu4C) | [Drown in Sulphur](https://open.spotify.com/artist/4FFseinIReANTJHY36gSwI) | [Essence](https://open.spotify.com/album/68UG9A5KTjekGEkMlSB2IN) | 4:01 | 2022-07-13 | 2022-07-21 |
 | [Eternal Kingdoms, Pt\. 1](https://open.spotify.com/track/0ieUAXNchbeeMZMMxM2Slu) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Call of the Void](https://open.spotify.com/album/1wmQtsU7BQxYk9xKSicyFM) | 3:57 | 2022-07-13 | 2022-07-15 |
 | [Everything but Faith](https://open.spotify.com/track/4ADgspuZLhlsiAijC9oDAR) | [Colorblind](https://open.spotify.com/artist/3kSDOw6bEMSStOjqLR2kVX) | [Colorblind EP](https://open.spotify.com/album/29M640Q87avBIyyLC1rWlT) | 3:42 | 2022-12-10 | 2023-07-15 |
@@ -373,7 +374,7 @@
 | [Ghost Of Me](https://open.spotify.com/track/25Yfk4XBeglz1QoXhDqJ2w) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Ghost Of Me](https://open.spotify.com/album/6XHoTtC0sNkJbnKXkCC4ov) | 3:51 | 2023-05-22 | 2024-04-13 |
 | [Gimme Danger](https://open.spotify.com/track/2MPcAxH9maeDEbMmLAp51U) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Gimme Danger](https://open.spotify.com/album/2LpCKo4rOxtQcVvPg42bc1) | 3:25 | 2022-02-11 | 2022-05-14 |
 | [Give Up The Ghost](https://open.spotify.com/track/579m9YJsOMXEukNFvESTQ8) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Give Up The Ghost](https://open.spotify.com/album/4iv9PO9UCHeO7ciQ2wpQFQ) | 4:04 | 2022-07-13 | 2022-07-23 |
-| [Glass Preacher](https://open.spotify.com/track/62aS6XJyJSTQ55QTPmLad2) | [Dealer](https://open.spotify.com/artist/0TpKwhxtfxaPTaWsHqpVqP) | [Glass Preacher](https://open.spotify.com/album/0CjnuwMm9QLkDbRmKWFcJA) | 3:13 | 2024-03-08 |  |
+| [Glass Preacher](https://open.spotify.com/track/62aS6XJyJSTQ55QTPmLad2) | [Dealer](https://open.spotify.com/artist/0TpKwhxtfxaPTaWsHqpVqP) | [Glass Preacher](https://open.spotify.com/album/0CjnuwMm9QLkDbRmKWFcJA) | 3:13 | 2024-03-08 | 2024-06-21 |
 | [Glitch](https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Darker Still](https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4) | 4:21 | 2022-10-21 |  |
 | [Glory Be 2 Misery](https://open.spotify.com/track/7a4Auzmlt3QDFZbkm1njFw) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [The Last Ten Seconds of Life](https://open.spotify.com/album/4lS0MNSLmDWM7Kv8wlnyEq) | 5:04 | 2022-07-13 | 2022-07-23 |
 | [God Complex](https://open.spotify.com/track/1RoFyfpfq5sLrAvt0Mqfin) | [SHIVA](https://open.spotify.com/artist/1yO2jcxDN0jGO6aaSGvYSj), [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [Infested Entrails](https://open.spotify.com/artist/2UV4oVKHXKT84RWBo942Ll) | [God Complex](https://open.spotify.com/album/48S8NpnkxAlOZykfu5AtV8) | 4:46 | 2022-07-13 | 2022-07-21 |
@@ -613,7 +614,7 @@
 | [Only Human \(feat\. AJ Channer\)](https://open.spotify.com/track/4AsbaXQRctKkAJ8IWGAarU) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf), [AJ Channer](https://open.spotify.com/artist/0mTRdMo44irGKR85VtzGKd) | [Only Human \(feat\. AJ Channer\)](https://open.spotify.com/album/1xMtCT2yCsr6GtSTOGh6iE) | 3:02 | 2022-04-01 | 2022-07-23 |
 | [Options](https://open.spotify.com/track/3gLRXqPiOus7T8eD3t9iDH) | [The Dead Rabbitts](https://open.spotify.com/artist/7JVShmAauuaq861DoM5rP6), [Chloe Ozwell](https://open.spotify.com/artist/07gFHRrAEMmxG528gTVvFO) | [Rumination](https://open.spotify.com/album/60HZVkVipEXJKr3Nbk2MSi) | 3:12 | 2022-04-01 | 2022-06-18 |
 | [Orphan \(lᴉʌǝp ǝɥʇ\)](https://open.spotify.com/track/3TEiRBBPMNu4DKgFfddMb6) | [In Hearts Wake](https://open.spotify.com/artist/30BDCIM0IdglDaLzvCYd0N) | [Orphan \(lᴉʌǝp ǝɥʇ\)](https://open.spotify.com/album/4vCksLpzk75HznbAd2QRBa) | 3:41 | 2024-06-10 |  |
-| [Our Brand Is Chaos](https://open.spotify.com/track/2c1IizySJvBnzdcKCkAM07) | [Bleeding Through](https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi) | [Our Brand Is Chaos](https://open.spotify.com/album/6JbqFQqs2vnR2uEvKC4jKA) | 4:35 | 2024-05-10 |  |
+| [Our Brand Is Chaos](https://open.spotify.com/track/2c1IizySJvBnzdcKCkAM07) | [Bleeding Through](https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi) | [Our Brand Is Chaos](https://open.spotify.com/album/6JbqFQqs2vnR2uEvKC4jKA) | 4:35 | 2024-05-10 | 2024-06-21 |
 | [Outrun](https://open.spotify.com/track/4Ybl8SLHUxerNOWtXjE1pA) | [Veil Of Maya](https://open.spotify.com/artist/2i7CQcVBh2K6uOR3CH09M1) | [Outrun](https://open.spotify.com/album/3PtZnZ5OySxape4SVskOE4) | 3:45 | 2021-12-17 | 2022-07-23 |
 | [Over the Garden Wall](https://open.spotify.com/track/58FdBxzBdpnauS9BzW2caL) | [Like Moths To Flames](https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw) | [The Cycles Of Trying To Cope](https://open.spotify.com/album/2caVxg6PlddTgxtz8abZXM) | 3:52 | 2024-05-10 |  |
 | [OVERDOSE](https://open.spotify.com/track/2SoR6O8idei7LmHz5zjGv2) | [AVRALIZE](https://open.spotify.com/artist/6h9Yjv46RWsgt2NQ1F6Jb5) | [OVERDOSE](https://open.spotify.com/album/0cI5qlpfzlP6U12EHcKLCy) | 5:21 | 2024-03-08 | 2024-06-05 |
@@ -916,7 +917,7 @@
 | [When The World Awakens](https://open.spotify.com/track/0EykvSNrnnaC6usNnkIuVN) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [When The World Awakens](https://open.spotify.com/album/2aL557gcof6jc3qMEuqwD4) | 3:17 | 2022-03-11 | 2022-04-09 |
 | [Whenever You're Ready](https://open.spotify.com/track/1D4e0sbGmBzi6AiBwkINRZ) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Whenever You're Ready](https://open.spotify.com/album/4cAwxejAnu55ULguqm9NeI) | 4:13 | 2024-03-08 | 2024-04-13 |
 | [Whenever You're Ready](https://open.spotify.com/track/5amiUEezPSB9yXMxXpz4Dh) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Half Living Things](https://open.spotify.com/album/7C8apxgn0J0n0AMvPrfLxN) | 4:13 | 2024-04-12 | 2024-04-19 |
-| [Whenever You're Ready](https://open.spotify.com/track/67IofcurxzjTsqgzhUatrZ) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Half Living Things](https://open.spotify.com/album/1j7zqEn1vwEA5yfGnRdq9q) | 4:13 | 2024-04-12 | 2024-06-11 |
+| [Whenever You're Ready](https://open.spotify.com/track/67IofcurxzjTsqgzhUatrZ) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Half Living Things](https://open.spotify.com/album/1j7zqEn1vwEA5yfGnRdq9q) | 4:13 | 2024-04-12 |  |
 | [Where Millions Have Come to Die](https://open.spotify.com/track/52af9CWTZlmXbkR0qLUCdi) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D), [Phil Bozeman](https://open.spotify.com/artist/4xwTN5RGJpScAcnlwVNU4y) | [Where Millions Have Come to Die](https://open.spotify.com/album/39etS8zmHojH5CgZ8urdGl) | 4:23 | 2022-07-13 | 2022-07-23 |
 | [White Eyes](https://open.spotify.com/track/0fCgvtJC4QOubRHtN5Pi2y) | [Hopes Die Last](https://open.spotify.com/artist/7lDZOczH1YscXoadzACAil) | [White Eyes](https://open.spotify.com/album/2BGuP04VfkgzhpUY1SxdNo) | 3:36 | 2022-06-24 | 2022-10-22 |
 | [White Rabbit](https://open.spotify.com/track/48gotqEngeagErLW3C1FUs) | [Saving Vice](https://open.spotify.com/artist/1bN0Zx15XhmvTjNF2cPs0b) | [White Rabbit](https://open.spotify.com/album/7MpFnrbyOhfoaZKFypWdci) | 3:50 | 2022-05-13 | 2022-10-05 |

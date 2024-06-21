@@ -1,12 +1,12 @@
 {
-  "description": "This Is Carolina Ross. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
+  "description": "This Is Carolina Ross. Los temas esenciales, todos en una lista.",
   "num_followers": 102984,
   "original_name": "This Is Carolina Ross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zm98gAAAAADX8PjyO0U6GzTZPCUs6kL9",
+  "snapshot_id": "ZnIfgAAAAABqipzX8jd7GJNLIXjzjLuP",
   "tracks": [
     {
       "added_at": null,
@@ -639,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Netflix",
-        "url": "https://open.spotify.com/album/70oBLKCu7qEnxym8FsabML"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        },
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 195674,
-      "name": "Netflix",
-      "url": "https://open.spotify.com/track/1OFFyKAkVabL9STnv8bg2f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Covers, Vol. 3",
         "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 242091,
       "name": "Tengo Que Colgar",
       "url": "https://open.spotify.com/track/5k9In7MRqmG3fSxjpaLIzD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Netflix",
+        "url": "https://open.spotify.com/album/70oBLKCu7qEnxym8FsabML"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 195674,
+      "name": "Netflix",
+      "url": "https://open.spotify.com/track/1OFFyKAkVabL9STnv8bg2f"
     },
     {
       "added_at": null,

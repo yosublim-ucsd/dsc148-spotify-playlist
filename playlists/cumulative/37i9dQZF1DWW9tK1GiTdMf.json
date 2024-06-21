@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "Musica da gridare \ud83d\udda4 Chakra in cover.",
+  "description": "Musica da gridare \ud83d\udda4 Cover: PSICOLOGI",
   "name": "sanguegiovane \ud83e\ude78",
   "tracks": [
     {
@@ -386,7 +386,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 160000,
       "name": "2009",
       "url": "https://open.spotify.com/track/7qq9oWPzXTZitqVtEY8G6W"
@@ -1323,6 +1323,28 @@
     },
     {
       "album": {
+        "name": "Emozioni Urlate (am)",
+        "url": "https://open.spotify.com/album/1X8aVwcsHbXfHpguv9HSno"
+      },
+      "artists": [
+        {
+          "name": "IN6N",
+          "url": "https://open.spotify.com/artist/1ijW7A83I3DKVmVID7kjuE"
+        },
+        {
+          "name": "Becko",
+          "url": "https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162102,
+      "name": "Amm\u00f2",
+      "url": "https://open.spotify.com/track/7Clq88rBa8h7kNRjkoerjZ"
+    },
+    {
+      "album": {
         "name": "Wepro",
         "url": "https://open.spotify.com/album/1RftYq0amsy6NqZxNpUbtp"
       },
@@ -1864,7 +1886,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 189494,
       "name": "AUTODISTRUTTIVO",
       "url": "https://open.spotify.com/track/3ZcpVnBJguv1WVeMG44i2M"
@@ -3442,6 +3464,28 @@
       "duration_ms": 143906,
       "name": "CIELO DRIVE",
       "url": "https://open.spotify.com/track/4QXnwCNswo3RzJzAr1EjWP"
+    },
+    {
+      "album": {
+        "name": "cineblog01",
+        "url": "https://open.spotify.com/album/24vhim1cU42AC6Kmm9dQXj"
+      },
+      "artists": [
+        {
+          "name": "Narcolessia",
+          "url": "https://open.spotify.com/artist/1haMWb1Zbd8XYPfLJOCEmS"
+        },
+        {
+          "name": "EnimraK",
+          "url": "https://open.spotify.com/artist/5aBezG2V4TZr1YpJxeTfYf"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136642,
+      "name": "cineblog01",
+      "url": "https://open.spotify.com/track/2BZKFWd2DUtIxTs9nNlvcp"
     },
     {
       "album": {
@@ -6042,7 +6086,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 160928,
       "name": "EMOGLOBINA (MONSOON)",
       "url": "https://open.spotify.com/track/5sEg1KVNxGE71i9bWRPUiW"
@@ -6176,7 +6220,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 150677,
       "name": "Eterno",
       "url": "https://open.spotify.com/track/0rQkA80MShuqQt7epTeSlA"
@@ -7315,6 +7359,28 @@
     },
     {
       "album": {
+        "name": "GENERAZIONE ANSIA",
+        "url": "https://open.spotify.com/album/7lLrHs2325wybE62eUCJyd"
+      },
+      "artists": [
+        {
+          "name": "SoDa",
+          "url": "https://open.spotify.com/artist/61ssXv3eSeePstTB6J8YtB"
+        },
+        {
+          "name": "Moka",
+          "url": "https://open.spotify.com/artist/4NxXNoJqH1syvVs3279ZsY"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141600,
+      "name": "GENERAZIONE ANSIA",
+      "url": "https://open.spotify.com/track/4uidJqvRKCt9FyDQ6rrvH5"
+    },
+    {
+      "album": {
         "name": "GENERAZIONE Z",
         "url": "https://open.spotify.com/album/4XQV30eFDzbjRgEjBHIEWL"
       },
@@ -7774,7 +7840,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 205312,
       "name": "GOVERNO PUNK",
       "url": "https://open.spotify.com/track/7He9P5gjaE4cmQOquezZnl"
@@ -8642,7 +8708,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 155641,
       "name": "IL MIO FUNERALE",
       "url": "https://open.spotify.com/track/41DJVZFS981Y0A6pIEejMo"
@@ -9584,7 +9650,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 161451,
       "name": "LA NOTTE (feat. thasup)",
       "url": "https://open.spotify.com/track/2Rgnz1zbNus9eaTYd3DcEe"
@@ -9806,7 +9872,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 192000,
       "name": "Lady Blue",
       "url": "https://open.spotify.com/track/3FvKihEBLCxOUJKmgDDcf8"
@@ -10130,6 +10196,28 @@
       "duration_ms": 220926,
       "name": "Limone",
       "url": "https://open.spotify.com/track/2iHashE3Z4XJ9iB7HIKDI5"
+    },
+    {
+      "album": {
+        "name": "Lipstick",
+        "url": "https://open.spotify.com/album/1ZRb9Qqq4H3lDBXcuy8Ngg"
+      },
+      "artists": [
+        {
+          "name": "Sillyelly",
+          "url": "https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P"
+        },
+        {
+          "name": "EnimraK",
+          "url": "https://open.spotify.com/artist/5aBezG2V4TZr1YpJxeTfYf"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Lipstick",
+      "url": "https://open.spotify.com/track/6yPgRE2ybGQnCorD4Ysp1s"
     },
     {
       "album": {
@@ -12420,7 +12508,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 145348,
       "name": "notte vodka",
       "url": "https://open.spotify.com/track/7w6K5uvRrZHdHNgQt5lSXN"
@@ -13300,7 +13388,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 124417,
       "name": "Pepsi & Coca",
       "url": "https://open.spotify.com/track/3dGhOC4QbPjAGHdUaOCP3Q"
@@ -14560,7 +14648,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 189630,
       "name": "RAGAZZO DI PROVINCIA",
       "url": "https://open.spotify.com/track/0Y7SRuuID6ojrLeJb2bkQk"
@@ -14972,7 +15060,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 197766,
       "name": "RUGGINE \u26ae (con chiello & Coez)",
       "url": "https://open.spotify.com/track/0RIfczN0zU09Jl1ZzsUS2Y"
@@ -16020,7 +16108,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 169717,
       "name": "so american",
       "url": "https://open.spotify.com/track/5Jh1i0no3vJ9u4deXkb4aV"
@@ -16436,6 +16524,32 @@
       "duration_ms": 154500,
       "name": "Sparare alla luna",
       "url": "https://open.spotify.com/track/05936MlT9MfzYIJrBgHNFM"
+    },
+    {
+      "album": {
+        "name": "SPAZIALE!",
+        "url": "https://open.spotify.com/album/7wVvkDYlLDV3YpYGd12s8U"
+      },
+      "artists": [
+        {
+          "name": "Iggie Wilde",
+          "url": "https://open.spotify.com/artist/1zrs0oKj5HqeDGnQL5l4Yf"
+        },
+        {
+          "name": "Koth",
+          "url": "https://open.spotify.com/artist/4qRFAlz5qeR0IDhEsOoQ4a"
+        },
+        {
+          "name": "OGM909",
+          "url": "https://open.spotify.com/artist/5o0AQTYVnxj8V9rvbvitC2"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131600,
+      "name": "SPAZIALE!",
+      "url": "https://open.spotify.com/track/63fshLZW1TDmEfou1mGvJA"
     },
     {
       "album": {
@@ -17162,7 +17276,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 199578,
       "name": "su//gi\u00f9 (fuoco)",
       "url": "https://open.spotify.com/track/2DsfDZz9Omn56haGBha1UQ"
@@ -18326,7 +18440,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 178560,
       "name": "Tutto lo spazio",
       "url": "https://open.spotify.com/track/6hRpJ3JMWepO5bQ48OU6Cu"

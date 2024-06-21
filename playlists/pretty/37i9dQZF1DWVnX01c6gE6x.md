@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnX01c6gE6x.md) - [plain]
 
 > Podcasts que necesitas tener en el RADAR\. En la portada: <a href="https://open.spotify.com/show/1NR8RVbhxvIz5BPILejfVZ?si=f4e302281419482f">Lclub Podcast</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 852 likes - 12 songs - 14 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 858 likes - 12 songs - 14 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

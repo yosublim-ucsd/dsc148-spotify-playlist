@@ -2,9 +2,9 @@
 
 ### [Alt\. Ghana](https://open.spotify.com/playlist/37i9dQZF1DWTNJatHBkbx9)
 
-> From the alternative scene in Ghana\. Cover: Y'AKOTO
+> From the alternative scene in Ghana\. Cover: SUPERJAZZCLUB
 
-84 songs - 4 hr 8 min
+86 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Bigger & Better Than](https://open.spotify.com/track/0ZtxPLtxfhhC774iqK3gB6) | [Rjz](https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G) | [Bigger & Better Than](https://open.spotify.com/album/4aKJWlQ7JUoqYlMkBYUZl6) | 2:18 | 2024-05-10 |  |
 | [Biggo](https://open.spotify.com/track/3ObgktkhFwYk4HCksIBHRv) | [95ANTNY](https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw), [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [Biggo](https://open.spotify.com/album/5MbFksPaxBZuSTvlLeJ1Px) | 2:56 | 2024-05-10 |  |
 | [Blue Jeans](https://open.spotify.com/track/5hDjWc5A1zOonjMrikQpuQ) | [Kkeda](https://open.spotify.com/artist/0seIm2Vmyh7V7oqRX2uZtC) | [Blue Jeans](https://open.spotify.com/album/64pRtYkZfuiH9OBqIGJqn0) | 3:21 | 2024-05-10 | 2024-06-01 |
-| [BROTHERMAN](https://open.spotify.com/track/4ICHAmpUnfgltoKFKnkR3M) | [99 PHACES](https://open.spotify.com/artist/2l1fCZcDvjN6Bvvea40p1p), [Freddie Gambini](https://open.spotify.com/artist/4fuRrfCxlAdAUEB0dkLlAg), [Moffy](https://open.spotify.com/artist/3kimFDAjJ9z2uZuOhl4mK9), [CozyPols](https://open.spotify.com/artist/6lAhQepj0Huol204o3M9rL) | [SO WE MADE A TAPE](https://open.spotify.com/album/0TvIfSAal3iru3cED1l0ng) | 3:24 | 2024-05-10 |  |
+| [BROTHERMAN](https://open.spotify.com/track/4ICHAmpUnfgltoKFKnkR3M) | [99 PHACES](https://open.spotify.com/artist/2l1fCZcDvjN6Bvvea40p1p), [Freddie Gambini](https://open.spotify.com/artist/4fuRrfCxlAdAUEB0dkLlAg), [Moffy](https://open.spotify.com/artist/3kimFDAjJ9z2uZuOhl4mK9), [CozyPols](https://open.spotify.com/artist/6lAhQepj0Huol204o3M9rL) | [SO WE MADE A TAPE](https://open.spotify.com/album/0TvIfSAal3iru3cED1l0ng) | 3:24 | 2024-05-10 | 2024-06-21 |
 | [CALENDAR \(with Moliy\)](https://open.spotify.com/track/604gUD6KPH4SuIPREK1RZD) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [CALENDAR \(with Moliy\)](https://open.spotify.com/album/7ELfPgkHFSWuyLCjxlaWCc) | 3:02 | 2024-05-10 |  |
 | [Care for Me](https://open.spotify.com/track/05eSoMEib8nD2HLaMRi5Qx) | [Moffy](https://open.spotify.com/artist/3kimFDAjJ9z2uZuOhl4mK9), [Loise](https://open.spotify.com/artist/6S34Jo3KlPo37Sx49teOHG) | [Care for Me](https://open.spotify.com/album/7h4TcEGnVxb2LcnVsnLFwF) | 2:02 | 2024-05-31 |  |
 | [Children With Adult Problems](https://open.spotify.com/track/3rWSgIDcqcNEicqOc5WSNu) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs), [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M) | [Children Of The Sun \(Deluxe\)](https://open.spotify.com/album/5JOXrkfzFRN0y2sKoj3nPt) | 3:31 | 2024-05-10 |  |
@@ -56,9 +56,10 @@
 | [Menko Me Hemaa](https://open.spotify.com/track/3PgrIynhIQ1veOjGDCWroU) | [CozyPols](https://open.spotify.com/artist/6lAhQepj0Huol204o3M9rL) | [Menko Me Hemaa](https://open.spotify.com/album/2DBshbcvgxUz5dk2pC2QMD) | 3:00 | 2024-05-10 |  |
 | [No Love](https://open.spotify.com/track/60Jmu3k25uJpIstSpiNAfM) | [Auds](https://open.spotify.com/artist/1aFw1fZWs3zT6r74Kimn2d) | [NO LOVE](https://open.spotify.com/album/1HzsPYXeUzTBJHz3NAxrbY) | 2:44 | 2024-05-17 |  |
 | [Nobody](https://open.spotify.com/track/5qecyCoEoIhKUf47iT67qA) | [Titi Owusu](https://open.spotify.com/artist/1zFAZYHVVh6hgb0q6dVaVV) | [Nobody](https://open.spotify.com/album/4FTBxW8fSHSZwHg69DbWso) | 2:40 | 2024-05-31 |  |
-| [Not Yet](https://open.spotify.com/track/2r6byHfJyDmY7COr5cHLbK) | [Ari Rei](https://open.spotify.com/artist/1UjKYaSaIIABUpkOVxvcPo) | [Not Yet](https://open.spotify.com/album/6SDFshZ7AQfrahxEFaaxeD) | 2:41 | 2024-05-24 |  |
+| [Not Yet](https://open.spotify.com/track/2r6byHfJyDmY7COr5cHLbK) | [Ari Rei](https://open.spotify.com/artist/1UjKYaSaIIABUpkOVxvcPo) | [Not Yet](https://open.spotify.com/album/6SDFshZ7AQfrahxEFaaxeD) | 2:41 | 2024-05-24 | 2024-06-21 |
 | [OFF](https://open.spotify.com/track/2Jkf8z4byKRKRxKmb93U0D) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [OFF](https://open.spotify.com/album/5bEUic0KdaCrouhSB7HFuY) | 3:08 | 2024-05-10 | 2024-05-24 |
 | [Okay](https://open.spotify.com/track/4sGtnz2R0QTfSpf0z4FQBx) | [Paapa Versa](https://open.spotify.com/artist/6XaCmBX8v8w1okWhKzzQ41) | [Okay](https://open.spotify.com/album/1UGLQEvDpRqnyxgL33rOmt) | 2:32 | 2024-05-10 | 2024-05-17 |
+| [Old Love](https://open.spotify.com/track/2Iuesyg6djj7hFSAHqJetN) | [KiKi Celine](https://open.spotify.com/artist/6GycTxlHdz7GvNJrl9JyWs) | [Old Love](https://open.spotify.com/album/5wfMhYYwZXVEwK6hdvZGH7) | 2:21 | 2024-06-21 |  |
 | [OUTSIDE](https://open.spotify.com/track/3fI2SGd3AFrftekvzcCNsj) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [OUTSIDE](https://open.spotify.com/album/2cx1ovrveOy0Av1WTMfek1) | 2:26 | 2024-05-10 |  |
 | [Pain and Pleasure](https://open.spotify.com/track/1YNcsikMzn7VnhVQCXhx2o) | [Iyke Parker](https://open.spotify.com/artist/05CCsFubGf9UpnbXp0iAWr), [LeonardoDDJ](https://open.spotify.com/artist/25Q3IQWJ78bRWV15GOQyYV), [99 PHACES](https://open.spotify.com/artist/2l1fCZcDvjN6Bvvea40p1p), [Anabel Rose](https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb), [Freddie Gambini](https://open.spotify.com/artist/4fuRrfCxlAdAUEB0dkLlAg) | [Pain and Pleasure](https://open.spotify.com/album/17tb3wkAv9Kqbu5VLWgIcJ) | 2:34 | 2024-05-17 |  |
 | [PAIN DIARIES](https://open.spotify.com/track/7xvfAfqdSPrTkz8zWGKvkR) | [ACE ILLY](https://open.spotify.com/artist/4WgGQaorBvGbsZqOKXk9Wj), [Essumann](https://open.spotify.com/artist/5bIgrR7520MmcNA4gMGPc1), [Kojo Trilla](https://open.spotify.com/artist/7mmtBuQzPDjAzgiyYFJO55) | [PAIN DIARIES](https://open.spotify.com/album/4oYjflAodhMmzXXBCbxFU2) | 2:59 | 2024-05-31 |  |
@@ -85,6 +86,7 @@
 | [Tides](https://open.spotify.com/track/4y4rdAhUNDCTA69A7ssyiV) | [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [REMEMBER](https://open.spotify.com/album/5OBuRoSxAydiHNkG0YAB5q) | 4:32 | 2024-05-10 |  |
 | [Tonic No Lime](https://open.spotify.com/track/4PaF06tc9L8LnAW3fIHl18) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL) | [Tonic No Lime](https://open.spotify.com/album/0urB5NaXZ8nuLaYyAL5kil) | 3:03 | 2024-05-10 |  |
 | [Too Early](https://open.spotify.com/track/4qZ8vQpRFqS15RGdE8skco) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [Too Early](https://open.spotify.com/album/2ysvTBST3QhzfQWaAmSKLS) | 3:26 | 2024-05-10 |  |
+| [UNO \(feat\. BenjiFlow\)](https://open.spotify.com/track/2wkETmSgtUgDyg8i94AZrn) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [MONOCHROME RADIO](https://open.spotify.com/album/2LBqxBoNbVgb6lioat3POo) | 2:33 | 2024-06-21 |  |
 | [Weird Space](https://open.spotify.com/track/0ZahurG13submevaayPoLL) | [Boyd](https://open.spotify.com/artist/0cNLx90Z8YDY4hPxLrHESJ) | [Weird Space](https://open.spotify.com/album/3OoNywIFSlXdYHDwANiVHk) | 2:46 | 2024-05-10 |  |
 | [What Do They Know](https://open.spotify.com/track/1gaAyp2j9ymWjnNnSc9hJ2) | [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M) | [Dilemma](https://open.spotify.com/album/0rUMdn1M67eLJ11sQHt3iR) | 2:57 | 2024-05-10 |  |
 | [WICKED](https://open.spotify.com/track/33ngGj804cbv6bLV3r8ljR) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [ACT 2](https://open.spotify.com/album/6MudGkfVHCyDuy56SU8CYC) | 2:48 | 2024-05-10 |  |

@@ -400,7 +400,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 241333,
       "name": "Beastmode",
       "url": "https://open.spotify.com/track/2NRNiUqKzAAt2CQL1FWSMU"
@@ -786,6 +786,24 @@
       "duration_ms": 196571,
       "name": "Coco's Revenge - Mind Compressor Remix",
       "url": "https://open.spotify.com/track/1Ef9OrhjeHgcTAO5jSoF8K"
+    },
+    {
+      "album": {
+        "name": "CocoNUTS",
+        "url": "https://open.spotify.com/album/5MrH86o5jPC8aWik7A4xMu"
+      },
+      "artists": [
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202880,
+      "name": "CocoNUTS",
+      "url": "https://open.spotify.com/track/78TGLakuq5ucaHG4SVeVck"
     },
     {
       "album": {
@@ -3891,6 +3909,28 @@
     },
     {
       "album": {
+        "name": "Raven",
+        "url": "https://open.spotify.com/album/08CFtqHiqW9GdL1tmjdzEN"
+      },
+      "artists": [
+        {
+          "name": "D-Fence",
+          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
+        },
+        {
+          "name": "Joel Beukers",
+          "url": "https://open.spotify.com/artist/4kRCRlh1eQG31dr3fGTHKF"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175800,
+      "name": "Raven",
+      "url": "https://open.spotify.com/track/4tpyc7GdDYkIr2leWQZF9Z"
+    },
+    {
+      "album": {
         "name": "Raver",
         "url": "https://open.spotify.com/album/14dF0WfiWvhDWZGBh0sv4W"
       },
@@ -4885,7 +4925,7 @@
         },
         {
           "name": "Principle",
-          "url": "https://open.spotify.com/artist/3IfmtKe5jXM7GXvtHavhTG"
+          "url": "https://open.spotify.com/artist/6mk4hvIOKuuquBIjJof9jK"
         },
         {
           "name": "Rob The Rocket",
@@ -4978,7 +5018,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 188511,
       "name": "Til The AM",
       "url": "https://open.spotify.com/track/2k1ryKenp09dbxj28AYhXU"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Rap napoletano e il meglio della scena campana. Geolier in cover.",
+  "description": "Rap napoletano e il meglio della scena campana. Cover: Geolier",
   "name": "Int 'o Rione",
   "tracks": [
     {
@@ -246,6 +246,24 @@
       "duration_ms": 189600,
       "name": "Accuss\u00ec",
       "url": "https://open.spotify.com/track/5qvea4yzUYkFQGkUTQLjKy"
+    },
+    {
+      "album": {
+        "name": "ADDIO",
+        "url": "https://open.spotify.com/album/7iFrtAfj9vQpE0EYTaIZBe"
+      },
+      "artists": [
+        {
+          "name": "Nicola Siciliano",
+          "url": "https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192521,
+      "name": "ADDIO",
+      "url": "https://open.spotify.com/track/4IuhPS27Rf3lDqSYYmHqI0"
     },
     {
       "album": {
@@ -1130,7 +1148,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 125196,
       "name": "Clan",
       "url": "https://open.spotify.com/track/6QLgitotQswNLzxrT6Jsg2"
@@ -3333,6 +3351,28 @@
     },
     {
       "album": {
+        "name": "Marijuana (feat. Rhove)",
+        "url": "https://open.spotify.com/album/2fvZ7msnb3QjrIUoB2xZGB"
+      },
+      "artists": [
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        },
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174600,
+      "name": "Marijuana (feat. Rhove)",
+      "url": "https://open.spotify.com/track/6zBoYvUKa47DRGXGGAziJk"
+    },
+    {
+      "album": {
         "name": "MAY DAY",
         "url": "https://open.spotify.com/album/6ltDgsMJDZ9NU90XOc6TpP"
       },
@@ -3424,7 +3464,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 138359,
       "name": "MEGL SI TE NE VAI",
       "url": "https://open.spotify.com/track/2JZzFtd3VZxAK20ClppIWC"
@@ -4094,7 +4134,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 135818,
       "name": "NOS",
       "url": "https://open.spotify.com/track/49MbsYIMv1p6Gw6qP7As7S"
@@ -4346,6 +4386,28 @@
       "duration_ms": 118032,
       "name": "O'Sistem",
       "url": "https://open.spotify.com/track/786qEDqFcpcxzDzRf7K944"
+    },
+    {
+      "album": {
+        "name": "Odiami",
+        "url": "https://open.spotify.com/album/69L2YZ4iMGZX8Y7xppJ0JC"
+      },
+      "artists": [
+        {
+          "name": "Kid Lost",
+          "url": "https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu"
+        },
+        {
+          "name": "G-Lex",
+          "url": "https://open.spotify.com/artist/34aOrKPSv2YwgiR6pLVK2Y"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200546,
+      "name": "Odiami",
+      "url": "https://open.spotify.com/track/59hMuCMWPM194Wtcz3UPmu"
     },
     {
       "album": {
@@ -5716,7 +5778,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 152000,
       "name": "Scale (con Luch\u00e8)",
       "url": "https://open.spotify.com/track/5kaJg74U4GWosPvjOJujXD"
@@ -6721,6 +6783,24 @@
     },
     {
       "album": {
+        "name": "T\u2019Serj",
+        "url": "https://open.spotify.com/album/0Xy3pCPdbK9kwkaAGl99R8"
+      },
+      "artists": [
+        {
+          "name": "Lucariello",
+          "url": "https://open.spotify.com/artist/1pv59RDMxb8WKREVPpLDK9"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149752,
+      "name": "T\u2019Serj",
+      "url": "https://open.spotify.com/track/0HPeMfHgO2a4nndIpcQx0Y"
+    },
+    {
+      "album": {
         "name": "U Know",
         "url": "https://open.spotify.com/album/4Y7rrNJRqI3NLgY3tEZsP6"
       },
@@ -7100,7 +7180,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 121049,
       "name": "X-ADV (feat. Simba La Rue)",
       "url": "https://open.spotify.com/track/76XNiHNTZ2KqW3cejIly4p"

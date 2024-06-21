@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Il top dello street rap italiano. Zefe in cover.",
+  "description": "Il top dello street rap italiano. Cover: Digital Astro, Gu\u00e8",
   "name": "Street Culto",
   "tracks": [
     {
@@ -871,6 +871,28 @@
     },
     {
       "album": {
+        "name": "Another One",
+        "url": "https://open.spotify.com/album/44Qx6sP7zs2CRCm44X7Es2"
+      },
+      "artists": [
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        },
+        {
+          "name": "On The Radar",
+          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "Another One",
+      "url": "https://open.spotify.com/track/4hpUZMxbeUWgFUoy30K00o"
+    },
+    {
+      "album": {
         "name": "Antipatico",
         "url": "https://open.spotify.com/album/1RG5XhKqqEeknEsc5P7eNv"
       },
@@ -1652,6 +1674,28 @@
       "duration_ms": 166222,
       "name": "Bibidi Bobidi Bu (feat. Paky)",
       "url": "https://open.spotify.com/track/0wSpx49DTwBplnkeqH6zep"
+    },
+    {
+      "album": {
+        "name": "Big Benz",
+        "url": "https://open.spotify.com/album/6jbPxjjzhrfMbNC75CTocu"
+      },
+      "artists": [
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5hQAO1u7TC2MjIeMVDbsg5"
+        },
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134294,
+      "name": "Big Benz",
+      "url": "https://open.spotify.com/track/47lZfI1lqF7r2zeOkuo3VC"
     },
     {
       "album": {
@@ -3404,7 +3448,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 206616,
       "name": "DO YOU RINGO (feat. Don Pero)",
       "url": "https://open.spotify.com/track/7tXS3GFgQg880jnVgjV6l9"
@@ -4878,7 +4922,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 148571,
       "name": "GUARDA COME FL3XO",
       "url": "https://open.spotify.com/track/5TlndMPcKVEaTsBtbmMuBW"
@@ -6474,6 +6518,32 @@
       "duration_ms": 193053,
       "name": "M-I Bastard",
       "url": "https://open.spotify.com/track/58LRqWuOEv8U7i916lK8fm"
+    },
+    {
+      "album": {
+        "name": "Ma Belle (feat. Kassimi & Yunes LaGrintaa)",
+        "url": "https://open.spotify.com/album/3sgZkF4BMzB3ttKJ35qJy8"
+      },
+      "artists": [
+        {
+          "name": "Escomar",
+          "url": "https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw"
+        },
+        {
+          "name": "Kassimi",
+          "url": "https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd"
+        },
+        {
+          "name": "Yunes LaGrintaa",
+          "url": "https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197040,
+      "name": "Ma Belle (feat. Kassimi & Yunes LaGrintaa)",
+      "url": "https://open.spotify.com/track/67kspZ54hoRYtc23oQOkRk"
     },
     {
       "album": {
@@ -9315,6 +9385,32 @@
     },
     {
       "album": {
+        "name": "Fame di Rivalsa",
+        "url": "https://open.spotify.com/album/79WcSTW52Em1smSlOUupqC"
+      },
+      "artists": [
+        {
+          "name": "Gheba",
+          "url": "https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc"
+        },
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        },
+        {
+          "name": "Pave",
+          "url": "https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141142,
+      "name": "Rivalsa (feat. 22simba)",
+      "url": "https://open.spotify.com/track/4kt7KzlSvKTup0Oz4VhrQu"
+    },
+    {
+      "album": {
         "name": "Rocket (feat. Artie 5ive)",
         "url": "https://open.spotify.com/album/1aNeLmS9s5Yq9i2IbpkS9w"
       },
@@ -11814,7 +11910,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 175614,
       "name": "VORREI (feat. Neima Ezza)",
       "url": "https://open.spotify.com/track/0dtyvuccg5VBKvrz8J90PL"
@@ -12284,7 +12380,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 154229,
       "name": "Z\u00c9",
       "url": "https://open.spotify.com/track/6Jt8OWHFEQa2gFzLhFvuJe"

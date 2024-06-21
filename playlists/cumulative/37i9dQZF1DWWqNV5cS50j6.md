@@ -4,7 +4,7 @@
 
 > ?! ft\. Lil Yachty
 
-1,702 songs - 3 day 9 hr 53 min
+1,703 songs - 3 day 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -675,7 +675,7 @@
 | [Hips \(w/ Mindchatter\)](https://open.spotify.com/track/6r807Xr2NIpbKE6litA7va) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Hips \(w/ Mindchatter\)](https://open.spotify.com/album/0Fzl3cLF11oVpaEPNruUPk) | 3:44 | 2022-02-18 | 2022-06-04 |
 | [Hit & Run](https://open.spotify.com/track/4Cl0ism4qfwNTtDbk8K6qm) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [FARADA](https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [internetboy](https://open.spotify.com/artist/0ZJw6xiDo3vtQXMZpDg3fW) | ['Decent](https://open.spotify.com/album/1WoPO9sVvJXy0MktOhBiIU) | 4:21 | 2023-06-30 | 2024-06-01 |
 | [HIT EM WHERE IT HURTS](https://open.spotify.com/track/63e35wfL6GMUp0boIvNBhw) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [HIT EM WHERE IT HURTS](https://open.spotify.com/album/4GqNYTtGw3kX9uq4o4tNep) | 2:45 | 2020-10-13\* | 2021-05-29 |
-| [HIT EM WHERE IT HURTS](https://open.spotify.com/track/7888F1QWPTn4cPbuknNV4T) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [HIT EM WHERE IT HURTS](https://open.spotify.com/album/2w4bxNOt8ZLIBaKH2oi6ij) | 2:45 | 2022-05-09 |  |
+| [HIT EM WHERE IT HURTS](https://open.spotify.com/track/7888F1QWPTn4cPbuknNV4T) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [HIT EM WHERE IT HURTS](https://open.spotify.com/album/2w4bxNOt8ZLIBaKH2oi6ij) | 2:45 | 2022-05-09 | 2024-06-21 |
 | [hit it light it twist it](https://open.spotify.com/track/4MYkI9KHjQmWN0SmSbO1QG) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [hit it light it twist it](https://open.spotify.com/album/26wYoLV3Yvt0yzOeTRKvKI) | 1:54 | 2022-05-20 | 2022-07-19 |
 | [Hit Me Up](https://open.spotify.com/track/0Lhy1sDDdtUFY2pyq2ZVi9) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Hit Me Up](https://open.spotify.com/album/0sWQFBl9e6A9tL4CqFT9X8) | 2:40 | 2020-10-13\* | 2021-01-23 |
 | [HITA](https://open.spotify.com/track/3tNPtRyxl1bqSvA7X6n5qz) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s) | [HITA](https://open.spotify.com/album/5mkxe82AB3MUJnejMTgYmM) | 2:35 | 2024-02-02 | 2024-03-30 |
@@ -1557,6 +1557,7 @@
 | [true](https://open.spotify.com/track/2W4lAW4jB3QLBhS34Qn3WN) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [true](https://open.spotify.com/album/0a7AaCJjuiyqe1cM5nvjtv) | 3:11 | 2023-01-20 | 2024-06-01 |
 | [True](https://open.spotify.com/track/0JZxdMGoZwcF7ab04Xphk5) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [True](https://open.spotify.com/album/2iERm71Ta7Xpy4iFoLvk4Z) | 3:54 | 2024-04-26 |  |
 | [TRUTH \(feat\. Sam Truth and redveil\)](https://open.spotify.com/track/3hQrIF803GxbmRcWFJr7lc) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c), [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa), [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [TRUTH \(feat\. Sam Truth and redveil\)](https://open.spotify.com/album/169yl4T0ip7hzkC4e51iHp) | 3:10 | 2021-03-06 | 2021-10-16 |
+| [Try](https://open.spotify.com/track/5IQ4KtSJ65euoSNuzgHCZt) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Try](https://open.spotify.com/album/36yE3vkfsrrV42SuCNjLfV) | 1:53 | 2024-06-20 |  |
 | [try](https://open.spotify.com/track/7KPibpTWZTtzUuhiNWX6d3) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [try](https://open.spotify.com/album/4Bgc3jlcqzN9QtRqq4hUqg) | 2:08 | 2023-09-08 | 2024-01-10 |
 | [Trying](https://open.spotify.com/track/1yCZyiJlxQSt0DFB9mVTCS) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Trying](https://open.spotify.com/album/7DJJBKSYGD8CV9va9wdEtL) | 2:00 | 2021-11-12 | 2023-03-02 |
 | [TURN IT DOWN](https://open.spotify.com/track/1j8yjtaPW2rPsTyB1u8P4i) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [TURN IT DOWN](https://open.spotify.com/album/6F9N9UkELafppB2aOEvMqR) | 2:34 | 2021-11-20 | 2021-12-04 |

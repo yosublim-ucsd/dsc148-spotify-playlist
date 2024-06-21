@@ -1,6 +1,6 @@
 {
   "description": "minha carne \u00e9 de carnaval, meu cora\u00e7\u00e3o \u00e9 igual",
-  "num_followers": 145422,
+  "num_followers": 145429,
   "original_name": "carnavalizar",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Saulo Ao Vivo",
-        "url": "https://open.spotify.com/album/3OWLJAZKsy6UA5moqT3NYk"
-      },
-      "artists": [
-        {
-          "name": "Saulo",
-          "url": "https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "Raiz de Todo Bem - Ao Vivo",
-      "url": "https://open.spotify.com/track/3chGzdnaSzyd2W8Tlvboib"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
         "name": "Bloco do Silva (Ao Vivo)",
         "url": "https://open.spotify.com/album/5qgBiVmgw6dSZDR7vit0mI"
       },
@@ -367,18 +351,18 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Minha Historia",
-        "url": "https://open.spotify.com/album/0wNCVCDvgvbf8O5oFe1GtR"
+        "name": "Saulo Ao Vivo",
+        "url": "https://open.spotify.com/album/3OWLJAZKsy6UA5moqT3NYk"
       },
       "artists": [
         {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+          "name": "Saulo",
+          "url": "https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf"
         }
       ],
-      "duration_ms": 222693,
-      "name": "Meia Lua Inteira",
-      "url": "https://open.spotify.com/track/3uHnCqpyvmVuEG6XgTdCeP"
+      "duration_ms": 205160,
+      "name": "Raiz de Todo Bem - Ao Vivo",
+      "url": "https://open.spotify.com/track/3chGzdnaSzyd2W8Tlvboib"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -395,6 +379,22 @@
       "duration_ms": 371720,
       "name": "Vai Passar",
       "url": "https://open.spotify.com/track/6xTxXhEXQyJJGlQtGSNsIp"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
+        "name": "Minha Historia",
+        "url": "https://open.spotify.com/album/0wNCVCDvgvbf8O5oFe1GtR"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 222693,
+      "name": "Meia Lua Inteira",
+      "url": "https://open.spotify.com/track/3uHnCqpyvmVuEG6XgTdCeP"
     },
     {
       "added_at": "2023-03-06 22:48:04",

@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "Addiction",
+        "url": "https://open.spotify.com/album/021qul19YGGiR6MnYAiwH7"
+      },
+      "artists": [
+        {
+          "name": "Hanstone",
+          "url": "https://open.spotify.com/artist/3ng2KcHOkTc7LlDqPNJaxw"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90321,
+      "name": "Addiction",
+      "url": "https://open.spotify.com/track/7GbQ2FGZ1T9HvQ8fEUcMwL"
+    },
+    {
+      "album": {
         "name": "All on me",
         "url": "https://open.spotify.com/album/7FLvdh7njvIp5w8yi7exVW"
       },
@@ -362,7 +380,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 286013,
       "name": "Binamu",
       "url": "https://open.spotify.com/track/6aRuR8PrZxjoclgk4St3Nr"
@@ -676,7 +694,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 208285,
       "name": "Debbie",
       "url": "https://open.spotify.com/track/40YWoIsRFKXZkCTTwZjpE6"
@@ -741,6 +759,64 @@
     },
     {
       "album": {
+        "name": "Everyday (Energy)",
+        "url": "https://open.spotify.com/album/4XDefqXCDJVKEg9iq5Thxm"
+      },
+      "artists": [
+        {
+          "name": "Conboi Cannabino",
+          "url": "https://open.spotify.com/artist/10D7HPh6me5e5O1JmwHRsh"
+        },
+        {
+          "name": "Country Wizzy",
+          "url": "https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196231,
+      "name": "Everyday (Energy)",
+      "url": "https://open.spotify.com/track/5DoeazOk3xqe01MWGbXd5a"
+    },
+    {
+      "album": {
+        "name": "Ey Yooo",
+        "url": "https://open.spotify.com/album/5lh9wWVTkNng7ioX3hrola"
+      },
+      "artists": [
+        {
+          "name": "Young Emperor",
+          "url": "https://open.spotify.com/artist/1XctFd8XGLbmL2cj54sQoC"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184058,
+      "name": "Ey Yooo",
+      "url": "https://open.spotify.com/track/5a8JM4dampyrc0WfZezbOn"
+    },
+    {
+      "album": {
+        "name": "Fame",
+        "url": "https://open.spotify.com/album/68GDgr0EJlKyvEuQLbyOou"
+      },
+      "artists": [
+        {
+          "name": "Young Lunya",
+          "url": "https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209577,
+      "name": "Fame",
+      "url": "https://open.spotify.com/track/39taBsy2LkW0Qws6N1iHGm"
+    },
+    {
+      "album": {
         "name": "Feelin",
         "url": "https://open.spotify.com/album/2AJ4eOhhY3hFRcUxVHSByN"
       },
@@ -778,6 +854,28 @@
       "duration_ms": 176923,
       "name": "Find you a Place / Safehouse",
       "url": "https://open.spotify.com/track/3ofbT62Ef6nMtPRRhbnHkZ"
+    },
+    {
+      "album": {
+        "name": "FLEX",
+        "url": "https://open.spotify.com/album/2u2vEZK7u7AdEZIV9xSLco"
+      },
+      "artists": [
+        {
+          "name": "Salmin Swaggz",
+          "url": "https://open.spotify.com/artist/29Bao5BzmXldCACxALuPcu"
+        },
+        {
+          "name": "Ay Masta",
+          "url": "https://open.spotify.com/artist/51x9Wi7MSS1v9u89sc63dg"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164520,
+      "name": "FLEX",
+      "url": "https://open.spotify.com/track/0CVLCHO8V6YAdGJ3vXWXEo"
     },
     {
       "album": {
@@ -1034,7 +1132,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 179147,
       "name": "Hatupo Salama",
       "url": "https://open.spotify.com/track/7L3EdBTilFlvWBv4FZO7xP"
@@ -1172,7 +1270,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 348047,
       "name": "Israel & Palestine Tears - Freestyle",
       "url": "https://open.spotify.com/track/1hnL006ccbtZuepaGvfEKJ"
@@ -2824,7 +2922,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 452004,
       "name": "Siku 462",
       "url": "https://open.spotify.com/track/6Ra0c5H61aJLKRpkFhkAZz"
@@ -3331,6 +3429,28 @@
     },
     {
       "album": {
+        "name": "Tupa Kule (Ghetto)",
+        "url": "https://open.spotify.com/album/3qzWACMGJSKcDaeavvGoHS"
+      },
+      "artists": [
+        {
+          "name": "FreshBoys",
+          "url": "https://open.spotify.com/artist/4ksHkRc0gFw34fr9vAJEdU"
+        },
+        {
+          "name": "Moni Centrozone",
+          "url": "https://open.spotify.com/artist/4J9pax1Vo3sb2nhlA1B5wZ"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236392,
+      "name": "Tupa Kule (Ghetto)",
+      "url": "https://open.spotify.com/track/0W4CuqbbdVGCyEfEgOuPCQ"
+    },
+    {
+      "album": {
         "name": "Underated",
         "url": "https://open.spotify.com/album/3nzGGudeGMwFou9SswrfDU"
       },
@@ -3378,7 +3498,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 246750,
       "name": "Vitu Vingi",
       "url": "https://open.spotify.com/track/30Mrl3Y5T64ZK1usuQhhZt"

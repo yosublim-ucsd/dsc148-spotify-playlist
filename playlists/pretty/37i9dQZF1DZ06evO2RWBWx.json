@@ -1,12 +1,12 @@
 {
-  "description": "This is imase\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
-  "num_followers": 20885,
+  "description": "This Is imase. Los temas esenciales, todos en una lista.",
+  "num_followers": 20890,
   "original_name": "This Is imase",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnDOAAAAAAC61sfYxhNY36TawzZstnuh",
+  "snapshot_id": "ZnIfgAAAAAAZ+oGWPAx/GOaKPrqv/+Uy",
   "tracks": [
     {
       "added_at": null,
@@ -363,6 +363,34 @@
       "duration_ms": 214000,
       "name": "\u30d4\u30ea\u30aa\u30c9",
       "url": "https://open.spotify.com/track/2W8JpBzB3rVus7hAdkQ4rx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pale Rain",
+        "url": "https://open.spotify.com/album/1LtevBef4ZzFe4wYMpRHBm"
+      },
+      "artists": [
+        {
+          "name": "imase with PUNPEE & Toby Fox",
+          "url": "https://open.spotify.com/artist/0yiiGLiANIkpsBL3gvtqcC"
+        },
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        },
+        {
+          "name": "PUNPEE",
+          "url": "https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6"
+        },
+        {
+          "name": "Toby Fox",
+          "url": "https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau"
+        }
+      ],
+      "duration_ms": 221460,
+      "name": "Pale Rain",
+      "url": "https://open.spotify.com/track/6YYC9PEH4T4rLTo5EcHgyF"
     }
   ],
   "unique_name": "This Is imase",

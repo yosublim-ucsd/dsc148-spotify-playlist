@@ -2,9 +2,9 @@
 
 ### [V\-Pop Không Thể Thiếu](https://open.spotify.com/playlist/37i9dQZF1DX4g8Gs5nUhpp)
 
-> V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Charmy Pham
+> V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Vũ Cát Tường
 
-272 songs - 17 hr 25 min
+273 songs - 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Chạy Khỏi Thế Giới Này](https://open.spotify.com/track/5ECHJ1llWBNYLVCYrllD3x) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f), [Phương Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [Chạy Khỏi Thế Giới Này](https://open.spotify.com/album/50HY9g20cVF2PKCYmy5LFZ) | 4:15 | 2022-07-05 |  |
 | [Chậm Lại](https://open.spotify.com/track/067J8jL5iPDzVBH0jClJpI) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Chậm Lại](https://open.spotify.com/album/4sGS3UYEjJtBi4MuiOwGKV) | 3:43 | 2022-08-25 | 2022-09-12 |
 | [Chết Trong Em](https://open.spotify.com/track/4QjxvzEFwb63NZ1pp3wvHy) | [Thịnh Suy](https://open.spotify.com/artist/2xK6qcvfXuFFbU0NL95aeo) | [Chết Trong Em](https://open.spotify.com/album/38JFpZ6hGFaQ4BUxT7XcI0) | 4:16 | 2022-11-07 | 2023-02-01 |
+| [Chỉ mình anh đi xa](https://open.spotify.com/track/0dhrbrTYAwP2NfUc6jbmzO) | [Charmy Pham](https://open.spotify.com/artist/6jFvKq4gMkQ50joURHPGXO) | [Sweet Home](https://open.spotify.com/album/6Zze02jnvnBlr4LHEFMW4Q) | 4:52 | 2024-06-20 |  |
 | [Chịu Cách Mình Nói Thua](https://open.spotify.com/track/3ZbZtdEw9U0uZW4tZItIwq) | [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ), [CoolKid](https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi), [BAN](https://open.spotify.com/artist/0CO1IZAPmgTbkfXvcRCLsL) | [Chịu Cách Mình Nói Thua](https://open.spotify.com/album/6H01GjpEb6taXvwiqEzpFy) | 3:01 | 2023-12-03 |  |
 | [Cà Phê](https://open.spotify.com/track/5cvW3PYJeQjRTnj9vHP5Va) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [50/50](https://open.spotify.com/album/2guZsP5qfBxYma8Y4mhVff) | 3:10 | 2022-05-27 | 2024-06-17 |
 | [Có Ai Thương Em Như Anh](https://open.spotify.com/track/7AD5F85waSb3yZxZxEXhJM) | [Tóc Tiên](https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC), [Touliver](https://open.spotify.com/artist/5UNWQJdUbO8Gbg9Qn3r52M) | [Có Ai Thương Em Như Anh](https://open.spotify.com/album/3MxId1GopqGHnUTynUIuFA) | 3:51 | 2023-01-31 |  |
@@ -191,7 +192,7 @@
 | [Sinh Ra Đã Là Thứ Đối Lập Nhau](https://open.spotify.com/track/6IAqflHsPVm4EpYghXauX7) | [Emcee L \(Da LAB\)](https://open.spotify.com/artist/4bPYvyUn1mWwUwIW57oST2) | [Sinh Ra Đã Là Thứ Đối Lập Nhau](https://open.spotify.com/album/0pjTVkUehNsQzYQqjK671p) | 3:54 | 2022-05-27 |  |
 | [Sinh Ra Đã Là Thứ Đối Lập Nhau \(feat\. Badbies\)](https://open.spotify.com/track/5BTzf3doGTigDIYUFtbkI9) | [Emcee L \(Da LAB\)](https://open.spotify.com/artist/4bPYvyUn1mWwUwIW57oST2), [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f), [Badbies](https://open.spotify.com/artist/2ZjO6APYelcHcLd2pWMx8x) | [Sinh Ra Đã Là Thứ Đối Lập Nhau \(feat\. Badbies\)](https://open.spotify.com/album/5vJ5JDNypTPlAc5yv3du8s) | 3:54 | 2022-07-27 | 2024-04-19 |
 | [So Bad](https://open.spotify.com/track/2gP1CDcPJ8hJTwFGEpnRgw) | [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59), [TGSN](https://open.spotify.com/artist/2OkxNsNz7QXCBwlME0fSsk), [Tyronee](https://open.spotify.com/artist/04xz9bIBYTIqEpmRvQkfvu) | [VSTRA](https://open.spotify.com/album/168kYvrugeWAGTfIl7i4Ck) | 3:06 | 2024-05-26 | 2024-06-17 |
-| [Sweet Home](https://open.spotify.com/track/5zSNi6P7PpwaUkzNjx9eoo) | [Charmy Pham](https://open.spotify.com/artist/6jFvKq4gMkQ50joURHPGXO) | [Sweet Home](https://open.spotify.com/album/6Zze02jnvnBlr4LHEFMW4Q) | 3:53 | 2024-06-16 |  |
+| [Sweet Home](https://open.spotify.com/track/5zSNi6P7PpwaUkzNjx9eoo) | [Charmy Pham](https://open.spotify.com/artist/6jFvKq4gMkQ50joURHPGXO) | [Sweet Home](https://open.spotify.com/album/6Zze02jnvnBlr4LHEFMW4Q) | 3:53 | 2024-06-16 | 2024-06-21 |
 | [Sài Gòn Hôm Nay Mưa](https://open.spotify.com/track/1xoadYaxtOp9gHDwgmPDuz) | [JSOL](https://open.spotify.com/artist/6EybZ5zwPNEtEngfrEMevN), [Hoàng Duyên](https://open.spotify.com/artist/3LbBKYlyMaATS8IIe7HJ0d) | [Sài Gòn Hôm Nay Mưa](https://open.spotify.com/album/3uvFlg7afslUUJh43G2xwX) | 4:07 | 2022-05-27 |  |
 | [Sài Gòn Tôi Mưa \(feat\. MC Goku\)](https://open.spotify.com/track/2X5LuMWLKierQu3O9H1Bxc) | [Tuyên](https://open.spotify.com/artist/4joNWs26XgMPKcV4hJ03hr), [MC Goku](https://open.spotify.com/artist/2bKNcCAdRX7YNvvQ2eiCl9) | [Sài Gòn Tôi Mưa \(feat\. MC Goku\)](https://open.spotify.com/album/3iG4luFGo5MhRFcW7KoZ7e) | 5:29 | 2023-09-10 | 2023-12-01 |
 | [Sẽ Chẳng Yêu Người Khác Đâu](https://open.spotify.com/track/153fqaiQSioY7vmKZpvmJY) | [Niz](https://open.spotify.com/artist/5iLsTjgsYTcbjkRJXrNMeS) | [Sẽ Chẳng Yêu Người Khác Đâu](https://open.spotify.com/album/5QGpwohe466G33f5gUfMeV) | 3:55 | 2022-05-27 | 2022-06-21 |

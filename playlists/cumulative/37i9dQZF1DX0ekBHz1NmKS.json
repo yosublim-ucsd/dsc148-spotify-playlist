@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu. Cover: SVEA",
+  "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu. Cover: Seinabo Sey",
   "name": "Made in Sweden",
   "tracks": [
     {
@@ -1211,6 +1211,24 @@
     },
     {
       "album": {
+        "name": "Andas",
+        "url": "https://open.spotify.com/album/4RHxrpoRqNjk85yUgxYpuE"
+      },
+      "artists": [
+        {
+          "name": "Michael Moe",
+          "url": "https://open.spotify.com/artist/5t5e4IYHKIGKdPc3tSATB1"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "Andas",
+      "url": "https://open.spotify.com/track/3o8K9mCPWGKQMRYqbV8QFT"
+    },
+    {
+      "album": {
         "name": "Andas in andas ut",
         "url": "https://open.spotify.com/album/4Hy5SVsOUpO5ggDl3xOyen"
       },
@@ -1258,7 +1276,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 147853,
       "name": "andromeda",
       "url": "https://open.spotify.com/track/7g0RxMZlNSrlTwEVRXqv8L"
@@ -1334,7 +1352,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 238392,
       "name": "Arena",
       "url": "https://open.spotify.com/track/7MxSe1IUsbfSTyoZ3Vwgm4"
@@ -1518,7 +1536,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 151942,
       "name": "Baby L\u00e5t Mig Aldrig G\u00e5",
       "url": "https://open.spotify.com/track/41zJtiWKdwyV3Jchw85uHD"
@@ -1536,7 +1554,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 172000,
       "name": "Babymoma",
       "url": "https://open.spotify.com/track/6G2mLd5ZXnqlOyqSbTl6FP"
@@ -1918,7 +1936,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 128920,
       "name": "BeReal",
       "url": "https://open.spotify.com/track/2VX7K6KHk5Qx3bcgiO4ugi"
@@ -2308,7 +2326,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 181714,
       "name": "Blommor och vin",
       "url": "https://open.spotify.com/track/1UzjSwv0Y4mfR0poaMXBD2"
@@ -2474,7 +2492,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 129812,
       "name": "BOUNCE",
       "url": "https://open.spotify.com/track/6zGu9D0RAPbTMxSW4QRycy"
@@ -4876,7 +4894,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 196830,
       "name": "dina armar",
       "url": "https://open.spotify.com/track/3tfqBXCA2HlQ5GldoqrWUc"
@@ -5056,7 +5074,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 161638,
       "name": "Don't Miss The Beat",
       "url": "https://open.spotify.com/track/6sbr07TZE4bTY7DPyiceub"
@@ -6306,7 +6324,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 194400,
       "name": "En s\u00e5ng om dig",
       "url": "https://open.spotify.com/track/5VdVTdRb1VQ2LeMvTjjXca"
@@ -6378,7 +6396,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 193421,
       "name": "ENERGI",
       "url": "https://open.spotify.com/track/0N5khQ2R2C9r6zUWj5Rgwl"
@@ -6454,7 +6472,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 193263,
       "name": "Ensam och dansar",
       "url": "https://open.spotify.com/track/2BJWu3zd30j6zZ22FgHmWT"
@@ -7491,6 +7509,24 @@
     },
     {
       "album": {
+        "name": "Flyttat d\u00e4rifr\u00e5n",
+        "url": "https://open.spotify.com/album/5PDNp1F6qzCnMDp6Q9GSJp"
+      },
+      "artists": [
+        {
+          "name": "Dear Sara",
+          "url": "https://open.spotify.com/artist/721YShAWcHkTb98Kn0zi3S"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177200,
+      "name": "Flyttat d\u00e4rifr\u00e5n",
+      "url": "https://open.spotify.com/track/2HC0Y27D9pGyMBMoivUcer"
+    },
+    {
+      "album": {
         "name": "Fooled by September",
         "url": "https://open.spotify.com/album/52WD0YibkXc9CRfih5pDwK"
       },
@@ -7704,7 +7740,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 223812,
       "name": "Fr\u00e4knar (500 dagar)",
       "url": "https://open.spotify.com/track/3Jy9HaBTPyXsfindjkGtsW"
@@ -7900,7 +7936,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 228870,
       "name": "F\u00f6r Bra (Avundsjuk P\u00e5 Mig Sj\u00e4lv) (Akustisk)",
       "url": "https://open.spotify.com/track/7b41qr0kvoz20lo1jxYx9r"
@@ -10252,7 +10288,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 134052,
       "name": "Hooked On A Feeling - Spotify Singles",
       "url": "https://open.spotify.com/track/7t8vTwXLc7EZqTo9t88LTH"
@@ -11276,7 +11312,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 240653,
       "name": "I Was A Sailor",
       "url": "https://open.spotify.com/track/2qO4PvWDojlplbvSrCBUvF"
@@ -11654,7 +11690,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 170559,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/3790LbDpXDMZ3o6Vw9nYd8"
@@ -12040,7 +12076,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 191740,
       "name": "Jag dr\u00f6mmer mig fri",
       "url": "https://open.spotify.com/track/1eH7fE5AZvPC8CxQrUAim3"
@@ -12362,7 +12398,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 184000,
       "name": "Jaiye Forever",
       "url": "https://open.spotify.com/track/7KKIcF74uBEaNuchFS2X6v"
@@ -12398,7 +12434,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 231000,
       "name": "Jeansjacka",
       "url": "https://open.spotify.com/track/5VQLwMSUdFIHOj7ao6Rg4R"
@@ -13501,6 +13537,24 @@
     },
     {
       "album": {
+        "name": "Lika Bra Vi Skrattar",
+        "url": "https://open.spotify.com/album/5hQAVGevehrWXTsvxgYYFF"
+      },
+      "artists": [
+        {
+          "name": "2 Blyga L\u00e4ppar",
+          "url": "https://open.spotify.com/artist/04UWvFdSYUV4wv6UJ0mARE"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158551,
+      "name": "Lika Bra Vi Skrattar",
+      "url": "https://open.spotify.com/track/7APwoGXVCunTZU3FycVIcT"
+    },
+    {
+      "album": {
         "name": "Like a Crown",
         "url": "https://open.spotify.com/album/7cY0PR9fvizhEW0y85T2FG"
       },
@@ -13654,6 +13708,24 @@
       "duration_ms": 190000,
       "name": "Lilly",
       "url": "https://open.spotify.com/track/7AmQQNY6A0v1uWxx46hcD3"
+    },
+    {
+      "album": {
+        "name": "Lily Of The Valley",
+        "url": "https://open.spotify.com/album/7ivEAEyQvcQPzaRGKMbYcY"
+      },
+      "artists": [
+        {
+          "name": "Elin Lanto",
+          "url": "https://open.spotify.com/artist/4sAGoiErI2rWziF96i4eNT"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189583,
+      "name": "Lily Of The Valley",
+      "url": "https://open.spotify.com/track/39xdvtTXTiWnkkLlJOfqTn"
     },
     {
       "album": {
@@ -14178,7 +14250,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 125276,
       "name": "Loveblind",
       "url": "https://open.spotify.com/track/0gmxW2kAgs9aVx77kbDGJk"
@@ -15044,7 +15116,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 179002,
       "name": "Mermaid",
       "url": "https://open.spotify.com/track/4r6yqniacnQJnKxOF25n2X"
@@ -15676,7 +15748,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 156510,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/6x6x2FPY76CMmHSaRrimfO"
@@ -15910,7 +15982,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 276746,
       "name": "My Hands In The Water",
       "url": "https://open.spotify.com/track/3pGJFOWqwUrxVt4Tzl8YVC"
@@ -15928,7 +16000,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 165224,
       "name": "My Love",
       "url": "https://open.spotify.com/track/72fMoh2AJMXDPEdSM26Tb9"
@@ -16120,6 +16192,24 @@
       "duration_ms": 196000,
       "name": "Naked Love",
       "url": "https://open.spotify.com/track/0tBKRyjgUWvU7zNjYqnoDz"
+    },
+    {
+      "album": {
+        "name": "Naprapat",
+        "url": "https://open.spotify.com/album/2CBs4LQ7YWjrqCl507hVAu"
+      },
+      "artists": [
+        {
+          "name": "Thomas J\u00e4rvheden",
+          "url": "https://open.spotify.com/artist/34SEvj5AzrGxeXqcOceERW"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155872,
+      "name": "Naprapat",
+      "url": "https://open.spotify.com/track/4ixFRldvgDXk1wva3EeaHM"
     },
     {
       "album": {
@@ -16426,7 +16516,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 146292,
       "name": "NOSTALGI",
       "url": "https://open.spotify.com/track/4TqpAtvf3o2bQp255k4V8n"
@@ -17232,7 +17322,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 178312,
       "name": "Om himlen faller ner",
       "url": "https://open.spotify.com/track/7AVS4yQPccA0fthHXOqxTB"
@@ -17370,6 +17460,24 @@
       "duration_ms": 148812,
       "name": "One Of Us",
       "url": "https://open.spotify.com/track/3c0uWc9wFRPeHjDKkYy4zz"
+    },
+    {
+      "album": {
+        "name": "When You Were Mine",
+        "url": "https://open.spotify.com/album/4M24A6zHYnqqZAOjta3FjC"
+      },
+      "artists": [
+        {
+          "name": "Josefine Ridell",
+          "url": "https://open.spotify.com/artist/0AAjLPnvriz6ZX3huVVko8"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188495,
+      "name": "Only Heart That's Bleeding",
+      "url": "https://open.spotify.com/track/5Uyh904h8oFtT7MsrEDFNc"
     },
     {
       "album": {
@@ -17750,6 +17858,24 @@
       "duration_ms": 173919,
       "name": "Painkiller",
       "url": "https://open.spotify.com/track/2CGSIAkgrchoFLl4YWS4ob"
+    },
+    {
+      "album": {
+        "name": "Palmer",
+        "url": "https://open.spotify.com/album/3Y6ATUkor5VVya9RsHUb4w"
+      },
+      "artists": [
+        {
+          "name": "Jim Castro",
+          "url": "https://open.spotify.com/artist/7cjiIC3JhIHpmJ7ruYvyNx"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153250,
+      "name": "Palmer",
+      "url": "https://open.spotify.com/track/0aMzUj7X6jjBQupSdub2sK"
     },
     {
       "album": {
@@ -18140,6 +18266,28 @@
       "duration_ms": 175384,
       "name": "Precious Cargo",
       "url": "https://open.spotify.com/track/1mcDSDrKxkDYJ3At0K5VpU"
+    },
+    {
+      "album": {
+        "name": "Presence",
+        "url": "https://open.spotify.com/album/1014Fy5LvVwZaB7yDY82RP"
+      },
+      "artists": [
+        {
+          "name": "Ayelle",
+          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
+        },
+        {
+          "name": "Tamaraebi",
+          "url": "https://open.spotify.com/artist/5PRqaEB5d1aoPXZzCHNmoZ"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195187,
+      "name": "Presence",
+      "url": "https://open.spotify.com/track/61yrEA7hDI9O323sJRJ5nw"
     },
     {
       "album": {
@@ -19248,7 +19396,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 177336,
       "name": "Salut",
       "url": "https://open.spotify.com/track/3kUWzhuTmwA5Y8vzFDLyEy"
@@ -19324,7 +19472,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 176842,
       "name": "Samma vatten",
       "url": "https://open.spotify.com/track/3Y6tEqHNTRKydslZIB5lBB"
@@ -19580,7 +19728,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 154710,
       "name": "Screw It",
       "url": "https://open.spotify.com/track/7xEk2HiKMaljO0IfmcopgO"
@@ -19894,7 +20042,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 218507,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/23mymG8MR8H4oQ6uyJ40cQ"
@@ -19970,6 +20118,24 @@
       "duration_ms": 200227,
       "name": "Silhouettes",
       "url": "https://open.spotify.com/track/0TJHqGkznVqhRLvuboiSE8"
+    },
+    {
+      "album": {
+        "name": "Siljans strand / Midsommarvisa",
+        "url": "https://open.spotify.com/album/3JilTaTno4h9mQtackWJtw"
+      },
+      "artists": [
+        {
+          "name": "Stiko Per Larsson",
+          "url": "https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226680,
+      "name": "Siljans strand",
+      "url": "https://open.spotify.com/track/1H8DYjLRJ8MLtJiz4uKTkK"
     },
     {
       "album": {
@@ -20266,7 +20432,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 179081,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/0XLUx2nD0OWACTTLi7wA2S"
@@ -20673,6 +20839,24 @@
     },
     {
       "album": {
+        "name": "SOLEN VISAR MIG V\u00c4GEN",
+        "url": "https://open.spotify.com/album/1vDJFc2MXOVTR2p8egvgHW"
+      },
+      "artists": [
+        {
+          "name": "LKN",
+          "url": "https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216125,
+      "name": "SOLEN VISAR MIG V\u00c4GEN",
+      "url": "https://open.spotify.com/track/2gd1LE7hK53p0UBuVKYFth"
+    },
+    {
+      "album": {
         "name": "Solnedg\u00e5ngar",
         "url": "https://open.spotify.com/album/3rAowKXyLvIx0NQqCzDtk8"
       },
@@ -20970,6 +21154,24 @@
       "duration_ms": 130526,
       "name": "Sommaren",
       "url": "https://open.spotify.com/track/3qir39bFtgEGQiqs1EETer"
+    },
+    {
+      "album": {
+        "name": "Sommarens famn",
+        "url": "https://open.spotify.com/album/7ssgVuGc19hQ6nDgQQNi9f"
+      },
+      "artists": [
+        {
+          "name": "Shirley Clamp",
+          "url": "https://open.spotify.com/artist/09AdawDC7B5zcphs18nRB7"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174631,
+      "name": "Sommarens famn",
+      "url": "https://open.spotify.com/track/5xLNxhh0HZ1KrV0fV4A27u"
     },
     {
       "album": {
@@ -21684,7 +21886,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 241084,
       "name": "Sublime",
       "url": "https://open.spotify.com/track/081YcZ9VdJoC7hT4oXFzgs"
@@ -22070,7 +22272,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 133381,
       "name": "Svag",
       "url": "https://open.spotify.com/track/1VlKDgTb3BcXNdW2B04NGv"
@@ -22244,7 +22446,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 199733,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/2icgt5jY4q7QizU2PFQkJl"
@@ -23901,6 +24103,24 @@
     },
     {
       "album": {
+        "name": "Tripp f\u00f6r saj",
+        "url": "https://open.spotify.com/album/0ZAo5JvmAAhkAu7HnZpnbu"
+      },
+      "artists": [
+        {
+          "name": "Panda Da Panda",
+          "url": "https://open.spotify.com/artist/5CFHkGrLdtDurzPPIPYze9"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "Tripp f\u00f6r saj",
+      "url": "https://open.spotify.com/track/0hEPqXtQDQyAJgKxpBnTbf"
+    },
+    {
+      "album": {
         "name": "Tristessens patrioter",
         "url": "https://open.spotify.com/album/2bLqr293858FS8EXzAI6Go"
       },
@@ -23948,7 +24168,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 208500,
       "name": "True Romantic",
       "url": "https://open.spotify.com/track/0L9q3REkq7p1UEONWON7Vn"
@@ -24350,7 +24570,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 158368,
       "name": "T\u00e5rarna (feat. Jackie Mere)",
       "url": "https://open.spotify.com/track/0JcirT3JdGx29UAECyRhVV"
@@ -24368,7 +24588,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 180364,
       "name": "UFO",
       "url": "https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR"
@@ -24430,6 +24650,24 @@
       "duration_ms": 154625,
       "name": "Underbart",
       "url": "https://open.spotify.com/track/4Mc0gNriyRRS1GpenqF2TL"
+    },
+    {
+      "album": {
+        "name": "Underbart \u00e4r kort",
+        "url": "https://open.spotify.com/album/3DLq7TpZfPda8HtNA8CIsx"
+      },
+      "artists": [
+        {
+          "name": "Simon Forslund",
+          "url": "https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138666,
+      "name": "Underbart \u00e4r kort",
+      "url": "https://open.spotify.com/track/3nBH4JLXw1XJuoMXxiuizQ"
     },
     {
       "album": {
@@ -24564,6 +24802,28 @@
       "duration_ms": 185000,
       "name": "Utan Dig",
       "url": "https://open.spotify.com/track/2jV21oJdO1ELrpaJAQlYqn"
+    },
+    {
+      "album": {
+        "name": "Utan Dig (oh nej)",
+        "url": "https://open.spotify.com/album/4IuvDIuuhzpP2Vaa6sn7lv"
+      },
+      "artists": [
+        {
+          "name": "Laura Toth",
+          "url": "https://open.spotify.com/artist/7je1BJ0ktL1zQbQSJhMU22"
+        },
+        {
+          "name": "Albin Lo\u00e1n",
+          "url": "https://open.spotify.com/artist/6n8c8YMCqNbs0veQjYdYga"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157031,
+      "name": "Utan Dig (oh nej)",
+      "url": "https://open.spotify.com/track/7prmKt30TMo28aiaMSPsbe"
     },
     {
       "album": {
@@ -25344,7 +25604,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 185454,
       "name": "Vinna guldet",
       "url": "https://open.spotify.com/track/28mPNsXcbYfUqNWMIAcqMb"
@@ -25587,6 +25847,24 @@
     },
     {
       "album": {
+        "name": "V\u00e4rldens b\u00e4sta piga",
+        "url": "https://open.spotify.com/album/6r1GG2IKdOvglgp1a46lv8"
+      },
+      "artists": [
+        {
+          "name": "Dr\u00e4ngarna",
+          "url": "https://open.spotify.com/artist/2HwptwPQ4lvpYimzOJcYoY"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165468,
+      "name": "V\u00e4rldens b\u00e4sta piga",
+      "url": "https://open.spotify.com/track/0jXlLlM8bCViItOjfANDtE"
+    },
+    {
+      "album": {
         "name": "V\u00e4rmen",
         "url": "https://open.spotify.com/album/0gmt25ZC0QtzpHGM6mLobN"
       },
@@ -25616,7 +25894,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 164333,
       "name": "V\u00e4rsta du vet",
       "url": "https://open.spotify.com/track/1GrDyupDXoidlVeHhtHOq0"
@@ -26760,7 +27038,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 160853,
       "name": "\u00c4lska p\u00e5 l\u00e5ngt h\u00e5ll",
       "url": "https://open.spotify.com/track/6Vp3dCisa11Wbmj898HkMt"

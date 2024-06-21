@@ -953,6 +953,24 @@
     },
     {
       "album": {
+        "name": "DRAMA",
+        "url": "https://open.spotify.com/album/1Fo7vUm0xF1frBVNf2HLJN"
+      },
+      "artists": [
+        {
+          "name": "Shady Lady",
+          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180080,
+      "name": "DRAMA",
+      "url": "https://open.spotify.com/track/18ZPQRCfN2kWgjdDa9Oa7T"
+    },
+    {
+      "album": {
         "name": "DUEL 35 Chamber Orchestra",
         "url": "https://open.spotify.com/album/2BH8azU0tqyYsxhTLt1sPd"
       },
@@ -2476,7 +2494,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 174000,
       "name": "OH WOW",
       "url": "https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K"
@@ -3337,6 +3355,24 @@
     },
     {
       "album": {
+        "name": "Sama s\u0142uchaj",
+        "url": "https://open.spotify.com/album/1kjorjjIHO8t9UC8P8iT0V"
+      },
+      "artists": [
+        {
+          "name": "Sienia",
+          "url": "https://open.spotify.com/artist/2e7TuhchY8aTY3v2qzMghX"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173500,
+      "name": "Sama s\u0142uchaj",
+      "url": "https://open.spotify.com/track/5uiWeHUUj4KuG7uQZH9AAl"
+    },
+    {
+      "album": {
         "name": "San Marino",
         "url": "https://open.spotify.com/album/2G9kR3HTdrhZ62yI7WVsFQ"
       },
@@ -3562,7 +3598,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 262014,
       "name": "Stamina",
       "url": "https://open.spotify.com/track/4yVnVhWGIN2E2Gl6GgFU6t"

@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 ### [Fresh Finds Latin](https://open.spotify.com/playlist/37i9dQZF1DXagUeYbNSnOA)
 
-> The best new music by independent artists and labels, featuring Venesti, Goyo y Slow Mike\. Updates every Wednesday.
+> The best new music by independent artists and labels, featuring Branbel\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,296 likes - 55 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,289 likes - 55 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ANESTESIA](https://open.spotify.com/track/0FBYr7mYNWv4p1F6KPBisj) | [Venesti](https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX), [Slow Mike](https://open.spotify.com/artist/25ffNKG1EAXf8RBN88lXKH) | [Anestesia](https://open.spotify.com/album/1xbZVMAqB3YL2HfXZyMOfb) | 2:45 |
+| 1 | [En Ti](https://open.spotify.com/track/24eWtnN3hC3P3S6sjur6o1) | [Branbel](https://open.spotify.com/artist/1VmUUb7wBfRQKnq1hgVaGS), [La Nube](https://open.spotify.com/artist/18bNOAqrecWlPlVeh4FmWH) | [En Ti](https://open.spotify.com/album/0wP39KkApZl4Q4uPDeYZBO) | 3:14 |
 | 2 | [Putas Canciones](https://open.spotify.com/track/2m6bCSHyOz0p7PPsukKSbW) | [Joven Tom](https://open.spotify.com/artist/1JSr283fyctRV2R4OER9gP) | [Putas Canciones](https://open.spotify.com/album/2bU4tT0BJEtNw3ceVy9gfS) | 3:40 |
 | 3 | [La Hora](https://open.spotify.com/track/3Idym0mboYYDiTFmnbyXOt) | [Baskiat](https://open.spotify.com/artist/72L1NTsOwE8ZZ6kxll4UwU) | [La Hora](https://open.spotify.com/album/4UvrIAAfbuFmCjQKwjINsF) | 2:51 |
-| 4 | [En Ti](https://open.spotify.com/track/24eWtnN3hC3P3S6sjur6o1) | [Branbel](https://open.spotify.com/artist/1VmUUb7wBfRQKnq1hgVaGS), [La Nube](https://open.spotify.com/artist/18bNOAqrecWlPlVeh4FmWH) | [En Ti](https://open.spotify.com/album/0wP39KkApZl4Q4uPDeYZBO) | 3:14 |
-| 5 | [WHO’S DAT](https://open.spotify.com/track/2LMb4vJ3lffV8vtMT2Ovsg) | [Za111](https://open.spotify.com/artist/039p6t3gBN0Igimy0DzFuk), [Manu Oliva](https://open.spotify.com/artist/5VEOXoMPXBZNibIUOh7i1P), [JOD](https://open.spotify.com/artist/2mMS62SM6XQJhYD7KJndgl) | [WHO’S DAT](https://open.spotify.com/album/0ILpxO0hTndMWDuGOdcGRS) | 1:58 |
+| 4 | [WHO’S DAT](https://open.spotify.com/track/2LMb4vJ3lffV8vtMT2Ovsg) | [Za111](https://open.spotify.com/artist/039p6t3gBN0Igimy0DzFuk), [Manu Oliva](https://open.spotify.com/artist/5VEOXoMPXBZNibIUOh7i1P), [JOD](https://open.spotify.com/artist/2mMS62SM6XQJhYD7KJndgl) | [WHO’S DAT](https://open.spotify.com/album/0ILpxO0hTndMWDuGOdcGRS) | 1:58 |
+| 5 | [ANESTESIA](https://open.spotify.com/track/0FBYr7mYNWv4p1F6KPBisj) | [Venesti](https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX), [Slow Mike](https://open.spotify.com/artist/25ffNKG1EAXf8RBN88lXKH) | [Anestesia](https://open.spotify.com/album/1xbZVMAqB3YL2HfXZyMOfb) | 2:45 |
 | 6 | [UNIVERSO](https://open.spotify.com/track/4x3V9rTsgWQrlLOkC8w2K7) | [Mita](https://open.spotify.com/artist/3Vyw4TdOwnqclNlcvAeeSS) | [UNIVERSO](https://open.spotify.com/album/5THlOcpUpZNkG8PXSZPUO6) | 3:00 |
 | 7 | [Pretty](https://open.spotify.com/track/3wPN96N1mpOa4Q5T4Oi7rW) | [America Fendi](https://open.spotify.com/artist/1uPnT6ULj8mYrkKsSwLadZ) | [Pretty](https://open.spotify.com/album/4oAtaT9lz8LYrlI3uzjtwu) | 3:47 |
 | 8 | [SAL](https://open.spotify.com/track/4BCkyORz0JfIUXssSeH6da) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [SAL](https://open.spotify.com/album/7EnUrRK3snJYXn19NOIdQh) | 3:21 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 54 | [Crucigrama](https://open.spotify.com/track/4oqHrWGbJKwfEc70lwxxgU) | [Todos los Martes](https://open.spotify.com/artist/5esSh8neIrdmhnHHGjmx5P) | [Crucigrama](https://open.spotify.com/album/2IIZrieRfCpgt2ztQSPRHA) | 5:17 |
 | 55 | [Traicionarse](https://open.spotify.com/track/0qG3gzcSJSs80Ln7kHPiIL) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Traicionarse](https://open.spotify.com/album/3U7I3y7jTE2IRQp7n7mfeU) | 3:13 |
 
-Snapshot ID: `ZnNZ6wAAAAD4EgkbnWYzG3SqrAXC5YKu`
+Snapshot ID: `ZnRDZwAAAADRL7nyLZueblLIsgoFXCet`

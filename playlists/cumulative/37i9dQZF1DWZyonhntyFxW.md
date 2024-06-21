@@ -4,7 +4,7 @@
 
 > انا سايبك تاكل عيش يازميلي، لكون فاكرني ناسيك\. غلاف: زياذ ظاظا
 
-325 songs - 16 hr 11 min
+326 songs - 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [AFROTO TYPE BEAT](https://open.spotify.com/track/2wkzNBwQFb6jQPnX8LFaU8) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [3](https://open.spotify.com/album/7LNlUUOzPMmdVLFq3wi353) | 2:37 | 2023-05-25 | 2023-07-27 |
 | [Ahmed Santa](https://open.spotify.com/track/6GJQiSob1lScp9tnlTvMfp) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [Santa El Gded](https://open.spotify.com/album/00hLqAlvE3EiF1bsPoE43a) | 2:31 | 2022-08-23 | 2024-02-23 |
 | [AHWAGY](https://open.spotify.com/track/37EWbHlj1GLBqC2pFT0XXh) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [SAN STEFANO](https://open.spotify.com/album/3CgLfVX8nK0jEZZMY3PHM1) | 3:21 | 2022-08-08 | 2022-11-08 |
+| [AL ARBA3](https://open.spotify.com/track/0w3CE6Zu4zqkMpZLekSzLs) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [AL ARBA3](https://open.spotify.com/album/3A9Z5JbdG6CwMdWrDkROjp) | 3:20 | 2024-06-20 |  |
 | [ALANKE \(Freedom Music\)](https://open.spotify.com/track/4tKWw3ClrkgYC6KMtuXuD6) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI), [Big Moe](https://open.spotify.com/artist/6sBqHpSlcT0xxekqD15BTn) | [ALANKE \(Freedom Music\)](https://open.spotify.com/album/0XzAGlu3c7tBgD0DUZQh4V) | 1:57 | 2024-06-09 |  |
 | [Algham](https://open.spotify.com/track/2omOoA2OZT6WknldqlJIJj) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Dr\. Mo3geza](https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl) | [Algham](https://open.spotify.com/album/4Rt5knrXLMrv82PkbRawDb) | 2:47 | 2023-10-05 | 2023-12-23 |
 | [Aloomek](https://open.spotify.com/track/4U7uW9KlqalDKu8ff9OyDm) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Beeny we Beenek](https://open.spotify.com/album/198vpQGBG1ZBoLCpxR1Qvn) | 5:06 | 2022-05-10 | 2023-05-26 |
@@ -173,7 +174,7 @@
 | [MAREED](https://open.spotify.com/track/7oNfKLvHUu7tIe5AUIlhrL) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [SAN STEFANO](https://open.spotify.com/album/3CgLfVX8nK0jEZZMY3PHM1) | 3:36 | 2022-07-28 | 2022-07-31 |
 | [Mashakel Kteera](https://open.spotify.com/track/2puegkqXvCbBEXZmRlcXg3) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Mashakel Kteera](https://open.spotify.com/album/2UvsAaor3uvlU8RJr0APQJ) | 3:01 | 2024-02-28 | 2024-03-12 |
 | [Mashy 3almaya](https://open.spotify.com/track/3pvFAPBiDUQPX5vxjZu4f9) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah), [El Sadaat](https://open.spotify.com/artist/2w5WXQsG6LL3W5VV3Cdb5T) | [Mashy 3almaya](https://open.spotify.com/album/5RCZizYMvmyhcY75A8c32C) | 3:25 | 2024-05-14 |  |
-| [Masr7ya](https://open.spotify.com/track/0NRCKDMBB0RB9vKWO9ePY1) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [آخر قطعة فنية](https://open.spotify.com/album/5YxBzNI1LIAI86UHm1kTrS) | 3:37 | 2023-11-27 |  |
+| [Masr7ya](https://open.spotify.com/track/0NRCKDMBB0RB9vKWO9ePY1) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [آخر قطعة فنية](https://open.spotify.com/album/5YxBzNI1LIAI86UHm1kTrS) | 3:37 | 2023-11-27 | 2024-06-21 |
 | [Matafetch](https://open.spotify.com/track/0ZGmHDAUSgGV5mCUbtYFe7) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [آخر قطعة فنية](https://open.spotify.com/album/5YxBzNI1LIAI86UHm1kTrS) | 2:36 | 2023-12-05 |  |
 | [Matbosesh 3Al Sora Kteer](https://open.spotify.com/track/02hW8iovo5mxTEYxV0me0E) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Matbosesh 3Al Sora Kteer](https://open.spotify.com/album/1jxRTZnozNblBwG3EZTpCc) | 3:01 | 2023-06-03 | 2023-06-16 |
 | [MATBOSESH 3AL SORA KTEER](https://open.spotify.com/track/1GpGDH9ZjwsEsYpvWQlqed) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [MATBOSESH 3AL SORA KTEER](https://open.spotify.com/album/6KEVEDUAhskxwMkMOT53PI) | 3:02 | 2023-01-12 | 2023-06-05 |

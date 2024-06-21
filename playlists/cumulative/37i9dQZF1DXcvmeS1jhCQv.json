@@ -889,6 +889,24 @@
     },
     {
       "album": {
+        "name": "A Crescendo Ending",
+        "url": "https://open.spotify.com/album/5RPiTbxAmc4c7atFXFFd6l"
+      },
+      "artists": [
+        {
+          "name": "Holly Munro",
+          "url": "https://open.spotify.com/artist/2n9jieS7R5I7zRVKoYTziq"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "First Prize",
+      "url": "https://open.spotify.com/track/0BMZKsQfwIknNMn7iDUFDc"
+    },
+    {
+      "album": {
         "name": "Follow Me",
         "url": "https://open.spotify.com/album/4Vn7Y2GexjvoLqp8Mwf8pH"
       },
@@ -900,7 +918,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 239602,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/5g5lGBblSV6M0XMveLlGRn"
@@ -1354,7 +1372,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 205845,
       "name": "Like I Know You",
       "url": "https://open.spotify.com/track/5Ivojtwe4uoTnMOqJAW6KH"
@@ -1979,6 +1997,28 @@
     },
     {
       "album": {
+        "name": "panic",
+        "url": "https://open.spotify.com/album/6R1QcK9EYyIpEi4gWLjYKZ"
+      },
+      "artists": [
+        {
+          "name": "piglet",
+          "url": "https://open.spotify.com/artist/4AIvNjE7HJplcY1MxJplmP"
+        },
+        {
+          "name": "Jemima Coulter",
+          "url": "https://open.spotify.com/artist/3fACmIrcE5VThQfuYpOJzc"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186292,
+      "name": "panic",
+      "url": "https://open.spotify.com/track/3wYgPXjKRJ1oGes3K1PxOF"
+    },
+    {
+      "album": {
         "name": "Paris",
         "url": "https://open.spotify.com/album/6IxEWhtC68ce07yxKnwydM"
       },
@@ -2012,6 +2052,24 @@
       "duration_ms": 224132,
       "name": "Passenger Seat",
       "url": "https://open.spotify.com/track/1d0fuygCq7natWK8kelMoY"
+    },
+    {
+      "album": {
+        "name": "Patchwork",
+        "url": "https://open.spotify.com/album/14FwliJLQLlA2WPaYWUDNM"
+      },
+      "artists": [
+        {
+          "name": "Ois\u00edn",
+          "url": "https://open.spotify.com/artist/3cEXUDLDM6nSC5dd13sBBB"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173244,
+      "name": "Patchwork",
+      "url": "https://open.spotify.com/track/2iCu9AHyRd7SGtqM2Njczy"
     },
     {
       "album": {
@@ -3094,7 +3152,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 192682,
       "name": "You're My Medicine",
       "url": "https://open.spotify.com/track/1gXk7JzeRTPJn9ugLErbNb"

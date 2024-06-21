@@ -1,12 +1,12 @@
 {
-  "description": "This is beabadoobee. The essential tracks, all in one playlist.",
-  "num_followers": 83342,
+  "description": "This is beabadoobee. Track-track unggulan, semuanya dalam satu playlist.",
+  "num_followers": 83414,
   "original_name": "This Is beabadoobee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zm98gAAAAADdCyFjMZ1E/psw5KDVKIRr",
+  "snapshot_id": "ZnIfgAAAAAD35RTnA8A6gKfu2QWSdrHK",
   "tracks": [
     {
       "added_at": null,
@@ -71,6 +71,26 @@
       "duration_ms": 177533,
       "name": "the perfect pair",
       "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "death bed (coffee for your head)",
+        "url": "https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc"
+      },
+      "artists": [
+        {
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        },
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "death bed (coffee for your head)",
+      "url": "https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx"
     },
     {
       "added_at": null,
@@ -592,9 +612,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 193253,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/6mZPt7IcgSaqk5H4NX9a6f"
+      "duration_ms": 248883,
+      "name": "Disappear",
+      "url": "https://open.spotify.com/track/1vKPCcclqSIHpMIh4YieQG"
     },
     {
       "added_at": null,
@@ -608,9 +628,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 68293,
-      "name": "Angry Song",
-      "url": "https://open.spotify.com/track/3b8FrA74Tm4y22Zzi01Yk4"
+      "duration_ms": 205176,
+      "name": "Bobby",
+      "url": "https://open.spotify.com/track/0mW58kig39aueBh99f6yGz"
     },
     {
       "added_at": null,
@@ -656,9 +676,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 248883,
-      "name": "Disappear",
-      "url": "https://open.spotify.com/track/1vKPCcclqSIHpMIh4YieQG"
+      "duration_ms": 193253,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/6mZPt7IcgSaqk5H4NX9a6f"
     },
     {
       "added_at": null,
@@ -672,9 +692,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 205176,
-      "name": "Bobby",
-      "url": "https://open.spotify.com/track/0mW58kig39aueBh99f6yGz"
+      "duration_ms": 68293,
+      "name": "Angry Song",
+      "url": "https://open.spotify.com/track/3b8FrA74Tm4y22Zzi01Yk4"
     },
     {
       "added_at": null,

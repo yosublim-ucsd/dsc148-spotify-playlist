@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Only the biggest Hardstyle tracks!",
+  "description": "Defqon.1 takeover with a selection of the first 20 tracks!",
   "name": "Hardstyle Bangers",
   "tracks": [
     {
@@ -24,6 +24,24 @@
       "duration_ms": 188800,
       "name": "12 A.M. - Edit",
       "url": "https://open.spotify.com/track/2i80DKHd3xBrQuWHi1D51y"
+    },
+    {
+      "album": {
+        "name": "1527",
+        "url": "https://open.spotify.com/album/1UjvtcqK7FdSzQphwkZSKW"
+      },
+      "artists": [
+        {
+          "name": "Sefa",
+          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191442,
+      "name": "1527",
+      "url": "https://open.spotify.com/track/1ZTM5hicrRxYxix4jcwIPY"
     },
     {
       "album": {
@@ -1502,7 +1520,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 222631,
       "name": "Broken Dreams",
       "url": "https://open.spotify.com/track/08eoEMJAcewxsEGvole0gx"
@@ -2184,7 +2202,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 227500,
       "name": "Code Of The Warrior",
       "url": "https://open.spotify.com/track/1jpg0FjnPxm9WxszLJ60b2"
@@ -2228,6 +2246,28 @@
       "duration_ms": 250838,
       "name": "Come Alive",
       "url": "https://open.spotify.com/track/1YlZ6MetMORMdsrwWXLV85"
+    },
+    {
+      "album": {
+        "name": "Come Alive",
+        "url": "https://open.spotify.com/album/7K6C3OPzInirh0nAqtuUwP"
+      },
+      "artists": [
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        },
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250838,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/6j8giVOWVrNbueSLWZRtRj"
     },
     {
       "album": {
@@ -2312,7 +2352,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 178500,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/6vFEXiW7QPKGRardogdK6f"
@@ -4195,6 +4235,28 @@
     },
     {
       "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/5WbqTiBOQqp61P841twDdY"
+      },
+      "artists": [
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        },
+        {
+          "name": "Aversion",
+          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212124,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/7jqvMx5feKXzhYvFsG0NRy"
+    },
+    {
+      "album": {
         "name": "FCK DAT!",
         "url": "https://open.spotify.com/album/7cohOKDaKi7YCtrZVuHL62"
       },
@@ -4272,7 +4334,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 182903,
       "name": "Feel Love",
       "url": "https://open.spotify.com/track/4ZTJg1dnfr2hkFG8LAi3sQ"
@@ -4462,7 +4524,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 185806,
       "name": "Fight For You",
       "url": "https://open.spotify.com/track/5GCL6u4hSfHrGUZPLyJBfZ"
@@ -4645,6 +4707,24 @@
     },
     {
       "album": {
+        "name": "Fire To The Fuse (The Gathering 2024 OST)",
+        "url": "https://open.spotify.com/album/6DzzwsWlbQ1yXxjvEqiBou"
+      },
+      "artists": [
+        {
+          "name": "Hard Driver",
+          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255286,
+      "name": "Fire To The Fuse (The Gathering 2024 OST)",
+      "url": "https://open.spotify.com/track/0QenrZBWTSKKFf2SUBJj5p"
+    },
+    {
+      "album": {
         "name": "Fire To The Rain Hardstyle",
         "url": "https://open.spotify.com/album/1OfGFziB9KySDlRMEMSF71"
       },
@@ -4770,7 +4850,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 234021,
       "name": "Fiyaaah!",
       "url": "https://open.spotify.com/track/1gWAtvmMbhH6WPLes1swNh"
@@ -5184,7 +5264,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 177387,
       "name": "Garden Of Magic",
       "url": "https://open.spotify.com/track/4SadIiJGMYMFltjEbqG3Ik"
@@ -5531,6 +5611,28 @@
     },
     {
       "album": {
+        "name": "Gravity (Angerfist Remix)",
+        "url": "https://open.spotify.com/album/11nIdcmeegDCHUjsaZbapu"
+      },
+      "artists": [
+        {
+          "name": "ANDY SVGE",
+          "url": "https://open.spotify.com/artist/4MciZ3SoIaHGhBecweONHp"
+        },
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Gravity (Angerfist Remix)",
+      "url": "https://open.spotify.com/track/2LmsRkYNs5Xppy8Q18htkw"
+    },
+    {
+      "album": {
         "name": "Great Spirit (Wildstylez Remix)",
         "url": "https://open.spotify.com/album/3h7gRScWRjGZKh8AusmieE"
       },
@@ -5660,7 +5762,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 197927,
       "name": "Happy Place (feat. Cathrine Lassen) - Refuzion Remix",
       "url": "https://open.spotify.com/track/2PMzTucvbLGxeHxoFS5giO"
@@ -5890,6 +5992,24 @@
       "duration_ms": 151874,
       "name": "Heart On Fire",
       "url": "https://open.spotify.com/track/6tv7rh2WOO6WEbzYI9aUYd"
+    },
+    {
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/7KDloja54DN0WBCRpdHzgv"
+      },
+      "artists": [
+        {
+          "name": "Adjuzt",
+          "url": "https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254601,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/2ta87BcMoIcwg4W0UStZED"
     },
     {
       "album": {
@@ -7688,6 +7808,32 @@
     {
       "album": {
         "name": "Legends",
+        "url": "https://open.spotify.com/album/07NCR95lB3W1VAiXidhlJO"
+      },
+      "artists": [
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        },
+        {
+          "name": "Doktor",
+          "url": "https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216152,
+      "name": "Legends",
+      "url": "https://open.spotify.com/track/3MoCWhW7BUO0J851w37uWe"
+    },
+    {
+      "album": {
+        "name": "Legends",
         "url": "https://open.spotify.com/album/5ER2L54ZS4tl64UJhB4DLf"
       },
       "artists": [
@@ -8111,6 +8257,32 @@
     },
     {
       "album": {
+        "name": "Lost Without You (Defqon.1 2023 Closing Theme)",
+        "url": "https://open.spotify.com/album/0HTiQHBMu6w3SnRDsqNJ1g"
+      },
+      "artists": [
+        {
+          "name": "Headhunterz",
+          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
+        },
+        {
+          "name": "Vertile",
+          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+        },
+        {
+          "name": "Sian Evans",
+          "url": "https://open.spotify.com/artist/2DTw633fgdoxrqv7uPdcCw"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289548,
+      "name": "Lost Without You (Defqon.1 2023 Closing Theme)",
+      "url": "https://open.spotify.com/track/4sbF3ZdB1GxKnOfcJq9goG"
+    },
+    {
+      "album": {
         "name": "Love On Fire",
         "url": "https://open.spotify.com/album/3dgHasjYEYDwxpq6MaBvQA"
       },
@@ -8188,6 +8360,24 @@
       "duration_ms": 172408,
       "name": "LSD",
       "url": "https://open.spotify.com/track/15lCMyniPIvYKbfNzC08Tm"
+    },
+    {
+      "album": {
+        "name": "Lucky Days",
+        "url": "https://open.spotify.com/album/6a1xxoDLsLvhvgVRXgHtxs"
+      },
+      "artists": [
+        {
+          "name": "Galactixx",
+          "url": "https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147483,
+      "name": "Lucky Days",
+      "url": "https://open.spotify.com/track/5hgKLWyuvnqgYgABshXSeF"
     },
     {
       "album": {
@@ -8312,6 +8502,24 @@
       "duration_ms": 189868,
       "name": "Make Some Noise",
       "url": "https://open.spotify.com/track/4IS0ROMGe8EmlKRaIfxsOm"
+    },
+    {
+      "album": {
+        "name": "Make That Body Move (Warrior Workout 2024 OST)",
+        "url": "https://open.spotify.com/album/1N5W8EOuPiQ3YP351AK7Vh"
+      },
+      "artists": [
+        {
+          "name": "Act of Rage",
+          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230709,
+      "name": "Make That Body Move (Warrior Workout 2024 OST)",
+      "url": "https://open.spotify.com/track/1hyUgLAUgCrgQE1MyvYYFP"
     },
     {
       "album": {
@@ -8502,7 +8710,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 166153,
       "name": "Meine Droge",
       "url": "https://open.spotify.com/track/0lVT7OTMU8nNQubxsKMYr8"
@@ -8572,7 +8780,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 141375,
       "name": "MF KING",
       "url": "https://open.spotify.com/track/3UcOEZC3LorrVAq9OiTZHC"
@@ -8804,7 +9012,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 173499,
       "name": "Morgenlicht",
       "url": "https://open.spotify.com/track/7dWbcOsfWgjjM4PIsCBl1D"
@@ -8866,7 +9074,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 183945,
       "name": "Music Of The Mind",
       "url": "https://open.spotify.com/track/0KoIrrbZr8rMXhFQK8T5Eg"
@@ -9795,6 +10003,32 @@
     },
     {
       "album": {
+        "name": "Open Sesame (Abracadabra) [D-Block & S-te-Fan Remix]",
+        "url": "https://open.spotify.com/album/4tvLHYk5GK6R8FTFr8w9Jq"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "Leila K",
+          "url": "https://open.spotify.com/artist/61Da4fqVMgPoo9mYY0R3k6"
+        },
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182709,
+      "name": "Open Sesame (Abracadabra) - D-Block & S-te-Fan Remix",
+      "url": "https://open.spotify.com/track/50Sc0h3OULBSUjBir1X0K3"
+    },
+    {
+      "album": {
         "name": "Open Up Your Heart",
         "url": "https://open.spotify.com/album/2HIciu2sc1pzveLUV6x3wu"
       },
@@ -10283,6 +10517,28 @@
     },
     {
       "album": {
+        "name": "Polarized (Back 2 The Future)",
+        "url": "https://open.spotify.com/album/5rcO2lgLqzB03rrKvgquI4"
+      },
+      "artists": [
+        {
+          "name": "Code Black",
+          "url": "https://open.spotify.com/artist/0I5is4tdxHhT3Ft2EzPjlB"
+        },
+        {
+          "name": "Anderex",
+          "url": "https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229500,
+      "name": "Polarized (Back 2 The Future)",
+      "url": "https://open.spotify.com/track/5soMrKiCesnecKTCohSsAx"
+    },
+    {
+      "album": {
         "name": "Popcorn",
         "url": "https://open.spotify.com/album/2pM2KhElow7DCyDuf1vZ4O"
       },
@@ -10740,7 +10996,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 194002,
       "name": "Rave Now",
       "url": "https://open.spotify.com/track/2sVrVKIkrKZ8Vn9k0k3IfR"
@@ -12118,7 +12374,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 188076,
       "name": "Somebody to Love",
       "url": "https://open.spotify.com/track/14oLZpSIlMYf62kUthUTLL"
@@ -12624,6 +12880,32 @@
     {
       "album": {
         "name": "Summer Secrets",
+        "url": "https://open.spotify.com/album/46hlA99qa4gcJoKwYj7PJU"
+      },
+      "artists": [
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        },
+        {
+          "name": "Adjuzt",
+          "url": "https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8"
+        },
+        {
+          "name": "RXBY",
+          "url": "https://open.spotify.com/artist/1XpF2jsRjXNS7PXMfbOn0z"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197468,
+      "name": "Summer Secrets",
+      "url": "https://open.spotify.com/track/3sNmADk68ye2SZNK2nf0KL"
+    },
+    {
+      "album": {
+        "name": "Summer Secrets",
         "url": "https://open.spotify.com/album/3dJXsDviKg5vCw87ovcji6"
       },
       "artists": [
@@ -12664,7 +12946,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 212146,
       "name": "Sun Comes Up",
       "url": "https://open.spotify.com/track/2GVhChi8rNLrfcfHjzFVQq"
@@ -13311,6 +13593,28 @@
     },
     {
       "album": {
+        "name": "The Enlightenment",
+        "url": "https://open.spotify.com/album/1lgcbB1XtebCbd5JlbEAiZ"
+      },
+      "artists": [
+        {
+          "name": "Phuture Noize",
+          "url": "https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT"
+        },
+        {
+          "name": "B-Front",
+          "url": "https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169814,
+      "name": "The Enlightenment",
+      "url": "https://open.spotify.com/track/4asLsbX3bNjLtPI2QCVUv3"
+    },
+    {
+      "album": {
         "name": "The Flame Inside",
         "url": "https://open.spotify.com/album/3UJaCyCiERfPBcfIJbPzqr"
       },
@@ -13322,7 +13626,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 256258,
       "name": "The Flame Inside",
       "url": "https://open.spotify.com/track/0bwI14sF0aR97qxjp4AAqV"
@@ -13794,7 +14098,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 195698,
       "name": "This Deejay",
       "url": "https://open.spotify.com/track/7ae1RGOiNP5KaBBU5V4yUG"
@@ -15580,6 +15884,32 @@
       "duration_ms": 270000,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/0dbttB5xr4M0Q1lQQXfAwI"
+    },
+    {
+      "album": {
+        "name": "World of Madness (Defqon.1 Anthem 2012)",
+        "url": "https://open.spotify.com/album/0SKfsanUNL3Th95C3g63VV"
+      },
+      "artists": [
+        {
+          "name": "Headhunterz",
+          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
+        },
+        {
+          "name": "Wildstylez",
+          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
+        },
+        {
+          "name": "Noisecontrollers",
+          "url": "https://open.spotify.com/artist/6qJ61DomA73g7jQEKESw9Z"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385600,
+      "name": "World of Madness (Defqon.1 Anthem 2012)",
+      "url": "https://open.spotify.com/track/3TzPEytBqwGZEzUbGsefaT"
     },
     {
       "album": {

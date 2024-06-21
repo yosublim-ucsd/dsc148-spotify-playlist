@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: tuki\. \*👉 <a href="https://spice.eplus.jp/articles/329744?utm\_source=spotify.com&utm\_medium=referral">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,824 likes - 79 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,828 likes - 79 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 44 | [チーズ](https://open.spotify.com/track/4oP10N50ouz6R6FdoMyiPm) | [Kaela Kimura](https://open.spotify.com/artist/56Eer6ASRcE4aJHJwejTuN) | [チーズ](https://open.spotify.com/album/5mzOBag6FpjhiPhOX6GhQj) | 3:39 |
 | 45 | [BE FREE](https://open.spotify.com/track/232NiLm4tnTMz4WPdM20Ry) | [Naohito Fujiki](https://open.spotify.com/artist/32C6qbd4GMDJMq6g1RaqaI) | [BE FREE](https://open.spotify.com/album/7Hf2AH3eUwFrwgJf1ZVZtu) | 4:30 |
 | 46 | [Utopia](https://open.spotify.com/track/6cUCa4fN3MC5FvqLGtXHQD) | [ELAIZA](https://open.spotify.com/artist/45dMXQSIdhCQd5RUqDSpka) | [Utopia](https://open.spotify.com/album/1BZRpRi3TfthEOB4ZJHiQ2) | 3:10 |
-| 47 | [Mystery Train \- feat\. Wez Atlas \- Non from KIKI Remix](https://open.spotify.com/track/6xJbDdwVB1iiezT9D6qJkr) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5), [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ), [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Mystery Train \(feat\. Wez Atlas \- Non from KIKI Remix\)](https://open.spotify.com/album/4bPtftziixOco0AKvDQKCD) | 4:10 |
+| 47 | [Mystery Train \- feat\. Wez Atlas \- Non from KIKI Remix](https://open.spotify.com/track/6xJbDdwVB1iiezT9D6qJkr) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5), [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM), [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [Mystery Train \(feat\. Wez Atlas \- Non from KIKI Remix\)](https://open.spotify.com/album/4bPtftziixOco0AKvDQKCD) | 4:10 |
 | 48 | [2025](https://open.spotify.com/track/1r5KFMAbthTgyOzLQDFIT6) | [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD) | [2025](https://open.spotify.com/album/2zZ1oMaAGfORxYkiOXpoSG) | 3:28 |
 | 49 | [You are so amazing \(『虎に翼』メインテーマ\)](https://open.spotify.com/track/5FsNEH59scXmXax0P6u40v) | [Yuta Mori](https://open.spotify.com/artist/5BuBeNhHDNi0YsZPT8Rjji), [Stuart Murdoch](https://open.spotify.com/artist/1Fo9eFnx2n7BSYRjDLXtXt) | [連続テレビ小説「虎に翼」オリジナル・サウンドトラック Vol.1](https://open.spotify.com/album/61b8eSOSaKnRtxBuYxW7mq) | 4:43 |
 | 50 | [Stars](https://open.spotify.com/track/3zxVf4Dfuoxo2a3TZXdHTO) | [Joe Cupertino](https://open.spotify.com/artist/7GPbYvtgh7IeS2vZMEz1Xe) | [RE:](https://open.spotify.com/album/1pyFlOU8LqbmVAhh6IRmfj) | 1:58 |

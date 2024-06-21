@@ -881,6 +881,24 @@
     },
     {
       "album": {
+        "name": "Eupheme",
+        "url": "https://open.spotify.com/album/3sQdlZdewv3gCI3PFTT1zi"
+      },
+      "artists": [
+        {
+          "name": "Marc Veil",
+          "url": "https://open.spotify.com/artist/5YHPMNDsxSX4O6XVgnCukg"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176584,
+      "name": "Eupheme",
+      "url": "https://open.spotify.com/track/6JHqScV6hvbjKlk1vunb1q"
+    },
+    {
+      "album": {
         "name": "Even Silence",
         "url": "https://open.spotify.com/album/5AOSpri4QnbpLT0aTVvBcj"
       },
@@ -1180,7 +1198,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 150550,
       "name": "Gotham (acoustic)",
       "url": "https://open.spotify.com/track/3bcRe9CcEZ9Dr7JyRoQ7Xb"

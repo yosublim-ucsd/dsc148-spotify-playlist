@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-17",
-  "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: Kouz1",
+  "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: Dollypran",
   "name": "ABAT\u2211RA",
   "tracks": [
     {
@@ -176,6 +176,28 @@
       "duration_ms": 196231,
       "name": "Alatif",
       "url": "https://open.spotify.com/track/5EziL9bwKacAPWAQSkl8Wh"
+    },
+    {
+      "album": {
+        "name": "DIARY OF A DEAD MAN",
+        "url": "https://open.spotify.com/album/6vxkoCVCD9t5QWbSpeAmP8"
+      },
+      "artists": [
+        {
+          "name": "Tchubi",
+          "url": "https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1"
+        },
+        {
+          "name": "Figoshin",
+          "url": "https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203091,
+      "name": "ALL THE MONSTERS COME OUT AT NIGHT",
+      "url": "https://open.spotify.com/track/0FAMmPD8qMBkTylNs3WJsH"
     },
     {
       "album": {
@@ -1427,6 +1449,24 @@
     },
     {
       "album": {
+        "name": "RECTOVERSO",
+        "url": "https://open.spotify.com/album/1PXz6YGt7KNq52crGuY9v9"
+      },
+      "artists": [
+        {
+          "name": "Dollypran",
+          "url": "https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251748,
+      "name": "Ghetto Symphony",
+      "url": "https://open.spotify.com/track/0Qk2pgJxmfiAwH1jtjTTBc"
+    },
+    {
+      "album": {
         "name": "PHENOMENAL",
         "url": "https://open.spotify.com/album/3lV8FV4uYEP0y0yH8fzK6m"
       },
@@ -1580,6 +1620,28 @@
       "duration_ms": 178560,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/79ywMZ4XzXmwfL9NM1QQSz"
+    },
+    {
+      "album": {
+        "name": "Hanya Lwe9te",
+        "url": "https://open.spotify.com/album/17YgJ4bcxu6TFYeVbPoQls"
+      },
+      "artists": [
+        {
+          "name": "OUENZA",
+          "url": "https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8"
+        },
+        {
+          "name": "Abduh",
+          "url": "https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201230,
+      "name": "Hanya Lwe9te",
+      "url": "https://open.spotify.com/track/0MxvfoyHnrhPqcRGH61fvn"
     },
     {
       "album": {
@@ -1840,7 +1902,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 309152,
       "name": "Iori 6",
       "url": "https://open.spotify.com/track/4ahs2aBbxGxVCDJcwXCWXb"
@@ -1906,7 +1968,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 195310,
       "name": "JOUJ MIZAN",
       "url": "https://open.spotify.com/track/0J4y5Eq182zXfVERO8fqTD"
@@ -2604,7 +2666,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 215111,
       "name": "Makina",
       "url": "https://open.spotify.com/track/1smoNV80CXLbgur5vK5qTY"

@@ -244,7 +244,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 213000,
       "name": "Battles",
       "url": "https://open.spotify.com/track/2utNme0G9OtUVqq7wYUOf3"
@@ -305,6 +305,24 @@
     },
     {
       "album": {
+        "name": "Break The Dawn",
+        "url": "https://open.spotify.com/album/7b160WFBcTFZXZzqq48cMv"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213541,
+      "name": "Break The Dawn",
+      "url": "https://open.spotify.com/track/5nSUxatVj9pTnSKHAVtDR5"
+    },
+    {
+      "album": {
         "name": "Caladan EP (Edits)",
         "url": "https://open.spotify.com/album/6uKMK7ogAWsf7Kjj7lLNtx"
       },
@@ -320,10 +338,28 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 248976,
       "name": "Caladan - Edit",
       "url": "https://open.spotify.com/track/3Rsv47Db2XpO3AvGL0yQmm"
+    },
+    {
+      "album": {
+        "name": "Dominator",
+        "url": "https://open.spotify.com/album/79oVopXRclTCTCjE2LzR81"
+      },
+      "artists": [
+        {
+          "name": "Pako Marckx",
+          "url": "https://open.spotify.com/artist/0zvWbsBwkNb1KEbXMoWyyh"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356052,
+      "name": "Celestial 303 - Original Mix",
+      "url": "https://open.spotify.com/track/2qfOLRhFtFiHjAEvc0J4fI"
     },
     {
       "album": {
@@ -338,7 +374,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 636000,
       "name": "Cold Drop",
       "url": "https://open.spotify.com/track/4Fckl9iBwYjLpZHdH9FdbV"
@@ -863,6 +899,24 @@
     },
     {
       "album": {
+        "name": "In The Darkness EP",
+        "url": "https://open.spotify.com/album/6MKZPT1EmkBCy3KNK7dTGy"
+      },
+      "artists": [
+        {
+          "name": "CHRS",
+          "url": "https://open.spotify.com/artist/3S7VliE5oEPnRX0UMj75y5"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216845,
+      "name": "In The Darkness",
+      "url": "https://open.spotify.com/track/4yjnf8QWoK8xrH2JwWS37r"
+    },
+    {
+      "album": {
         "name": "Inside My Head",
         "url": "https://open.spotify.com/album/4hviWBBIv5SqDae4nljvEc"
       },
@@ -1054,7 +1108,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 225097,
       "name": "Lunar",
       "url": "https://open.spotify.com/track/6cVOVTtncjl1UqhQj1tpd3"
@@ -1076,6 +1130,28 @@
       "duration_ms": 256000,
       "name": "Magical Signs",
       "url": "https://open.spotify.com/track/1l7Fu5FoMPqocEO9bO5EiG"
+    },
+    {
+      "album": {
+        "name": "Mantra EP",
+        "url": "https://open.spotify.com/album/1ciTAED3gTIYBfhA3MpGNT"
+      },
+      "artists": [
+        {
+          "name": "Joseph Capriati",
+          "url": "https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf"
+        },
+        {
+          "name": "Indira Paganotto",
+          "url": "https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215142,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/7800ZSDHsmcAhhwTY8jHQ2"
     },
     {
       "album": {
@@ -1585,6 +1661,24 @@
     },
     {
       "album": {
+        "name": "Te Amo Madrid",
+        "url": "https://open.spotify.com/album/0ULzCsCrzvEQIZhfceq5om"
+      },
+      "artists": [
+        {
+          "name": "Lara Klart",
+          "url": "https://open.spotify.com/artist/1Rhon5PriofaAjjCEGNrQ2"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245285,
+      "name": "Te Amo Madrid",
+      "url": "https://open.spotify.com/track/3E8XrHNaQJYeDIPrfnEStJ"
+    },
+    {
+      "album": {
         "name": "Thank You So Much",
         "url": "https://open.spotify.com/album/52nZh4I7scACkidYNOrLhD"
       },
@@ -1756,7 +1850,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 282146,
       "name": "Vessel",
       "url": "https://open.spotify.com/track/5GImFH2J7M0rPMMHTdUuKA"

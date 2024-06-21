@@ -2746,7 +2746,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 159777,
       "name": "Flight 643 - KAAZE Remix",
       "url": "https://open.spotify.com/track/7eV5PavCAxbKD026Xc1GYk"
@@ -4418,7 +4418,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 176250,
       "name": "Let Me Be Your Fantasy",
       "url": "https://open.spotify.com/track/4fGOsBz3c3d3CXAmc1kLob"
@@ -5682,6 +5682,32 @@
       "duration_ms": 150234,
       "name": "No Pictures",
       "url": "https://open.spotify.com/track/18nfqYE5Jl9YsJnj2hEEiB"
+    },
+    {
+      "album": {
+        "name": "No Stress",
+        "url": "https://open.spotify.com/album/3FmAVgadFvcmQQKBDH1c9f"
+      },
+      "artists": [
+        {
+          "name": "Faustix",
+          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
+        },
+        {
+          "name": "Laurent Wolf",
+          "url": "https://open.spotify.com/artist/0U2M5hyVn2T78XKlRHJFcn"
+        },
+        {
+          "name": "Eric Carter",
+          "url": "https://open.spotify.com/artist/6eGMRUmxaUNuoWj5MWpNOX"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163570,
+      "name": "No Stress",
+      "url": "https://open.spotify.com/track/2LqCp4CSai9Geuc2wlUuyP"
     },
     {
       "album": {
@@ -7224,6 +7250,24 @@
       "duration_ms": 152380,
       "name": "Run Free (Countdown)",
       "url": "https://open.spotify.com/track/4KB66xUZWvRDej628vf2J8"
+    },
+    {
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/3FHVj8EMd0H2EpvP630UhV"
+      },
+      "artists": [
+        {
+          "name": "Wiwek",
+          "url": "https://open.spotify.com/artist/4b2v3PBjJJCF2BX14lIAsT"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161142,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/5X9TtQKz6VmMo6QDFcYLEn"
     },
     {
       "album": {

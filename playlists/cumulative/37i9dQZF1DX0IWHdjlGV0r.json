@@ -118,7 +118,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 220235,
       "name": "AIRFORCE (feat. Madame)",
       "url": "https://open.spotify.com/track/4MTlIhliwFJnTfbEoctDyB"
@@ -786,7 +786,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 170196,
       "name": "Cenere",
       "url": "https://open.spotify.com/track/45xyKCey4BM3fMeFEsF1Hp"
@@ -1466,6 +1466,24 @@
       "duration_ms": 118787,
       "name": "Ghetto love (feat. Gu\u00e8)",
       "url": "https://open.spotify.com/track/6fG0TZQMCCUjTlWwB5WyGP"
+    },
+    {
+      "album": {
+        "name": "Northside Melodies",
+        "url": "https://open.spotify.com/album/3UOgCV3tWykMlgP0LG33eX"
+      },
+      "artists": [
+        {
+          "name": "Glocky",
+          "url": "https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167761,
+      "name": "Guerra Persa",
+      "url": "https://open.spotify.com/track/5K2iD1Ch3a1FHMR3U1foFi"
     },
     {
       "album": {
@@ -2234,6 +2252,32 @@
       "duration_ms": 187624,
       "name": "Nessuno",
       "url": "https://open.spotify.com/track/7EV3ONJpL7lmlQb75rlP2D"
+    },
+    {
+      "album": {
+        "name": "New Date (feat. Don Pero, CoCo)",
+        "url": "https://open.spotify.com/album/0cV8EqMkPdAivkRmFQ1uHo"
+      },
+      "artists": [
+        {
+          "name": "Timon",
+          "url": "https://open.spotify.com/artist/4pQprwhppwLQDnYkXVNCHp"
+        },
+        {
+          "name": "CoCo",
+          "url": "https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM"
+        },
+        {
+          "name": "Don Pero",
+          "url": "https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165680,
+      "name": "New Date (feat. Don Pero, CoCo)",
+      "url": "https://open.spotify.com/track/0RUzwtbvoASM5AVKRcmyYR"
     },
     {
       "album": {
@@ -3462,7 +3506,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 144133,
       "name": "UNA COME TE",
       "url": "https://open.spotify.com/track/6prylI8YOrVcvR2CKrM9w7"
@@ -3502,7 +3546,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 190352,
       "name": "Utopia (feat. Gemitaiz)",
       "url": "https://open.spotify.com/track/1YOiFqx9ON69FAQu2EZ1DP"

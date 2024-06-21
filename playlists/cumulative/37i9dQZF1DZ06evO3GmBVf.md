@@ -2,7 +2,7 @@
 
 ### [This Is Lefty Sm](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3GmBVf)
 
-> This is: Lefty Sm\. Alle wichtigen Tracks in einer Playlist.
+> This Is Lefty Sm\. Los temas esenciales, todos en una lista.
 
 61 songs - 4 hr 0 min
 

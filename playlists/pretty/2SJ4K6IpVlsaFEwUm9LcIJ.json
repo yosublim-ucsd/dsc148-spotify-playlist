@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: may-june 2024 (previous playlists archived on my profile)",
-  "num_followers": 19955,
+  "num_followers": 19962,
   "original_name": "impressive\u2026 but true!",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAKngIxYcj4ok689uZayt/Xo3IovMki",
+  "snapshot_id": "AAAKpFbcX3d7EMmfN+TwVMx1CpOE8HWc",
   "tracks": [
     {
       "added_at": "2024-05-16 01:01:16",
@@ -673,6 +673,22 @@
       "url": "https://open.spotify.com/track/3gj2nM2yLd2diSGOqExMvc"
     },
     {
+      "added_at": "2024-06-20 22:42:56",
+      "album": {
+        "name": "World of Wonder",
+        "url": "https://open.spotify.com/album/4uel1amT8AA4wHOsju2kCS"
+      },
+      "artists": [
+        {
+          "name": "Ryan Power",
+          "url": "https://open.spotify.com/artist/1Q3vyHmUHwacqnLGstlLMS"
+        }
+      ],
+      "duration_ms": 230387,
+      "name": "Was That Love",
+      "url": "https://open.spotify.com/track/4Cu7qmICfQ3fXSzhEt9k1C"
+    },
+    {
       "added_at": "2024-06-08 05:22:41",
       "album": {
         "name": "Like Lovers Do",
@@ -863,6 +879,54 @@
       "duration_ms": 231560,
       "name": "Tbtf",
       "url": "https://open.spotify.com/track/7Dha5Jw4EVQbFHe58pJ5AU"
+    },
+    {
+      "added_at": "2024-06-20 22:20:46",
+      "album": {
+        "name": "Scenic Route - Road Less Travelled, Vol\u200b\u200b\u200b.\u200b\u200b\u200b 2",
+        "url": "https://open.spotify.com/album/1qMuvJRu4Rc7RmZPdafYU8"
+      },
+      "artists": [
+        {
+          "name": "Nourished by Time",
+          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
+        }
+      ],
+      "duration_ms": 172360,
+      "name": "I Guess I Got My Answer",
+      "url": "https://open.spotify.com/track/5TFUU8NZXb8h5evhyiCGBp"
+    },
+    {
+      "added_at": "2024-06-20 22:20:39",
+      "album": {
+        "name": "Scenic Route - Road Less Travelled, Vol\u200b\u200b\u200b.\u200b\u200b\u200b 2",
+        "url": "https://open.spotify.com/album/1qMuvJRu4Rc7RmZPdafYU8"
+      },
+      "artists": [
+        {
+          "name": "Ms Ray",
+          "url": "https://open.spotify.com/artist/1OwAcRe2gUEpDZhLAkiLRp"
+        }
+      ],
+      "duration_ms": 233533,
+      "name": "Signs",
+      "url": "https://open.spotify.com/track/1xxapFhumr4nQ72HwbzTjV"
+    },
+    {
+      "added_at": "2024-06-20 22:22:10",
+      "album": {
+        "name": "SHHHHHHH!",
+        "url": "https://open.spotify.com/album/4KyU3E5Xw6TVBz2yCuUfeW"
+      },
+      "artists": [
+        {
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+        }
+      ],
+      "duration_ms": 117876,
+      "name": "Time For Slurp",
+      "url": "https://open.spotify.com/track/753EklH444D0oZj4ClafLc"
     }
   ],
   "unique_name": "impressive\u2026 but true!",

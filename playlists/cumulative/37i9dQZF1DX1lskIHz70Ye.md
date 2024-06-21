@@ -4,7 +4,7 @@
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-165 songs - 8 hr 17 min
+166 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Goiânia](https://open.spotify.com/track/4HiU3fxYZI6w2jNTTLhowT) | [Joana Ema](https://open.spotify.com/artist/2W1k5KydRQg7MsOSgGEm9u) | [Goiânia](https://open.spotify.com/album/559F8ws4FRpTbvaNc08VEE) | 2:52 | 2022-03-03 |  |
 | [Grande sonata, MS 3\. II\. Romance \- Più tosto Largo, Amorosamente](https://open.spotify.com/track/5t5gLPTHxS72odJk4MhDIl) | [Niccolò Paganini](https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q), [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [Grande sonata, MS 3\. II\. Romance \- Più tosto Largo, Amorosamente](https://open.spotify.com/album/3EsiCjBLa9Y7LBWE7M0k2v) | 3:17 | 2022-07-01 | 2023-08-25 |
 | [High Tops](https://open.spotify.com/track/4Tp755Pl6kyXxnaA3CZY98) | [Colin Weary](https://open.spotify.com/artist/5z9QoWPwVN58RPnYjpPgEO) | [High Tops](https://open.spotify.com/album/1AtTJkjZ8EKBGwgRM45xPA) | 2:53 | 2022-03-03 |  |
+| [Holding Hands](https://open.spotify.com/track/6XUTzew4WENpk18JlfU9BU) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Holding Hands](https://open.spotify.com/album/5tdIQB7ClKnQJNAONbtcTy) | 2:28 | 2024-06-21 |  |
 | [Imelda´s Waltz](https://open.spotify.com/track/34o79IeA5dfhTSlgo6VpEu) | [Celia Linde](https://open.spotify.com/artist/12Sdhg5Y9l75czgzGyMD34) | [Shades in Blue](https://open.spotify.com/album/52NKtIOuEqvvlBN43G9Vz5) | 2:38 | 2022-03-03 | 2022-07-15 |
 | [Inner Voice \(No\. 22, Op\. 60, Fernando Sor\)](https://open.spotify.com/track/18ugxbAguZ6WO8wFH4N09o) | [Ricardo Alves Pereira](https://open.spotify.com/artist/7D7x8UG2oPE8pG5t9FDJrF) | [Inner Voice \(No\. 22, Op\. 60, Fernando Sor\)](https://open.spotify.com/album/7IB63paiCeP51YdFpybriM) | 2:15 | 2022-08-05 |  |
 | [Insensatez](https://open.spotify.com/track/6PRHDUdclcUgzAZIfVy8Od) | [Irio De Paula](https://open.spotify.com/artist/6KofdGpuwBcATTer4Nrcbj), [Renato Sellani](https://open.spotify.com/artist/2NFBhaDMwwy87iAzsfjG90) | [Delicatessen](https://open.spotify.com/album/7iau3Oms7IyeSLlTW09uvk) | 4:14 | 2022-03-03 | 2022-07-15 |

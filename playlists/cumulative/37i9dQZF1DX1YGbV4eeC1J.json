@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 174000,
       "name": "Hello",
       "url": "https://open.spotify.com/track/2OCyd1dnuOexd1A1cxLZjq"
@@ -1460,7 +1460,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 212210,
       "name": "Kukupenda",
       "url": "https://open.spotify.com/track/56lZHXU9dMCIEPSEAsY0zP"
@@ -2611,6 +2611,32 @@
     },
     {
       "album": {
+        "name": "Nibusu (feat. Yammi & Mbosso)",
+        "url": "https://open.spotify.com/album/45cqgSwHq5eKZJzRFaE0m8"
+      },
+      "artists": [
+        {
+          "name": "Barnaba",
+          "url": "https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks"
+        },
+        {
+          "name": "Yammi",
+          "url": "https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK"
+        },
+        {
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217061,
+      "name": "Nibusu (feat. Yammi & Mbosso)",
+      "url": "https://open.spotify.com/track/3rT4o1CqCokObfcJmOZypt"
+    },
+    {
+      "album": {
         "name": "Nibusu (feat. Yammi)",
         "url": "https://open.spotify.com/album/1F3HikuQyKXhIFfrPQ9SyV"
       },
@@ -3726,6 +3752,24 @@
       "duration_ms": 229090,
       "name": "Umeniweza",
       "url": "https://open.spotify.com/track/6tPnKaaMMBzCZaiGGflRmR"
+    },
+    {
+      "album": {
+        "name": "Unanifaa",
+        "url": "https://open.spotify.com/album/0qR0bS6061tEud4fYRksqW"
+      },
+      "artists": [
+        {
+          "name": "killy",
+          "url": "https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198761,
+      "name": "Unanifaa",
+      "url": "https://open.spotify.com/track/3nu58GJygIADFBTBGkA25t"
     },
     {
       "album": {

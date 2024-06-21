@@ -2,9 +2,9 @@
 
 ### [Volume France](https://open.spotify.com/playlist/37i9dQZF1DX8HxJlVUR3HN)
 
-> Les meilleures nouveautés de la scène rock française\. Photo : Storm Orchestra
+> Les meilleures nouveautés de la scène rock française\. Photo : Watertank
 
-228 songs - 13 hr 58 min
+231 songs - 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Cold Touch](https://open.spotify.com/track/3g17Pbdm6DOy3LzX4graWq) | [Structures](https://open.spotify.com/artist/4uAJ9vbmemltkuu0D3gBHQ) | [Cold Touch](https://open.spotify.com/album/6oHVSL3iyb9gpYKRh2lPHS) | 4:19 | 2023-11-16 | 2024-04-19 |
 | [Cold Water Swim](https://open.spotify.com/track/0sUCO8NGZhMG7IXRZ9IQjr) | [Mad Foxes](https://open.spotify.com/artist/0DNV4wMtnm1dZG7VLwdjCC) | [Cold Water Swim](https://open.spotify.com/album/0awhRPFIuizXkso3zAiwWb) | 2:51 | 2023-10-19 | 2024-01-19 |
 | [Coma Kids](https://open.spotify.com/track/6anegGcJvjryHbQ9vS0Ry5) | [Villa Scandal](https://open.spotify.com/artist/0L6WTtHcGGRPP8JKQHkAhW) | [Coma Kids](https://open.spotify.com/album/0rBgxxivQFKCkSN8oqi1N0) | 3:08 | 2023-09-28 | 2023-10-13 |
-| [Come Clean](https://open.spotify.com/track/1yWlUQ9xAfimsKmfq7XvsC) | [SUN](https://open.spotify.com/artist/5EjzvshGaeIYnjdttJF6ZQ) | [Come Clean](https://open.spotify.com/album/1UmP97lm9EXhGd5WgSO5Pt) | 3:23 | 2024-05-16 |  |
+| [Come Clean](https://open.spotify.com/track/1yWlUQ9xAfimsKmfq7XvsC) | [SUN](https://open.spotify.com/artist/5EjzvshGaeIYnjdttJF6ZQ) | [Come Clean](https://open.spotify.com/album/1UmP97lm9EXhGd5WgSO5Pt) | 3:23 | 2024-05-16 | 2024-06-21 |
 | [Comfort Zone](https://open.spotify.com/track/4meJcWnZIsYL5CDpamJH0D) | [Two Trains Left](https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn) | [Comfort Zone](https://open.spotify.com/album/3Wm8avMamR1wrfyYtmbrK7) | 3:32 | 2023-11-09 | 2024-02-02 |
 | [Constant Rebirth](https://open.spotify.com/track/7aIOmApDKfraYs1YKlS2YJ) | [FENCES \\\\\\\\](https://open.spotify.com/artist/52mzp7EISAFBNXsDnHHFwv) | [Constant Rebirth](https://open.spotify.com/album/177ZDDCagLXjwZyglACK5Y) | 3:54 | 2023-11-16 | 2024-01-19 |
 | [Counting down the Days](https://open.spotify.com/track/0snV7BsW85mM3Y5J0f0rBN) | [Movement At Night](https://open.spotify.com/artist/3npdUd8ZD22EJkpwOG47fE) | [Failed By Choice](https://open.spotify.com/album/4ZpRjNZsXJIPdIcUO757RE) | 4:26 | 2023-09-28 | 2023-11-10 |
@@ -64,7 +64,7 @@
 | [Desires Never Die](https://open.spotify.com/track/6sUNt22AmoTlv445X7tCZt) | [Yodelice](https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ) | [Desires Never Die](https://open.spotify.com/album/3JjzAUR9gttR7TojchskCo) | 3:12 | 2024-03-28 |  |
 | [Downcast](https://open.spotify.com/track/2u87z2dIbSA5PNIik6bLM5) | [Rendez Vous](https://open.spotify.com/artist/4a118edzJsiImCyPCZk6mY) | [Downcast](https://open.spotify.com/album/57awDgLzQYvC60Rzw9CpRE) | 4:04 | 2024-05-23 |  |
 | [EGO BOX](https://open.spotify.com/track/0AXZUu9lcYqafrC73HIXp7) | [W!ZARD](https://open.spotify.com/artist/3E7Z5zzigflRAScfu3gigd) | [NOT GOOD ENOUGH](https://open.spotify.com/album/0I0h76V3meSOgQPLklwvR9) | 3:28 | 2024-04-11 | 2024-05-24 |
-| [Erase Me](https://open.spotify.com/track/4EVbSzE3QvdC00xHQ1EzOg) | [Shady Fat Kats](https://open.spotify.com/artist/2ZgDtiPPJJhephke84L7BD) | [Erase Me](https://open.spotify.com/album/4m4Bc2uY4M8RAI9ELRKZ4g) | 2:08 | 2024-04-25 |  |
+| [Erase Me](https://open.spotify.com/track/4EVbSzE3QvdC00xHQ1EzOg) | [Shady Fat Kats](https://open.spotify.com/artist/2ZgDtiPPJJhephke84L7BD) | [Erase Me](https://open.spotify.com/album/4m4Bc2uY4M8RAI9ELRKZ4g) | 2:08 | 2024-04-25 | 2024-06-21 |
 | [Escape](https://open.spotify.com/track/5YcEpgSrceS4t1zFdg8z0t) | [Venus Worship](https://open.spotify.com/artist/1DYlwWhbYliHmGopueibNJ) | [Relapse](https://open.spotify.com/album/6R6curgxkflcKqc0WVCsnk) | 3:41 | 2024-03-07 | 2024-05-17 |
 | [Event Horizon \- Fuzz Edit](https://open.spotify.com/track/4z4xDLd0zqQ7cOmcQypJAI) | [Howard](https://open.spotify.com/artist/3bwdCcoC0DQB3fpQn9fqnm) | [Event Horizon \(Fuzz Edit\)](https://open.spotify.com/album/0qWz6iMRYWxT7qLboAcklq) | 3:29 | 2023-11-23 | 2024-01-12 |
 | [Everybody Dies](https://open.spotify.com/track/7ca1yQEIH2MRkxy1QM0GiY) | [mirabelle.](https://open.spotify.com/artist/5TMUjYIR8pxt2p1JIJeEl0) | [Everybody Dies](https://open.spotify.com/album/7JVlIzxeoHtMy2LeSQMI9p) | 2:55 | 2024-05-23 |  |
@@ -102,7 +102,7 @@
 | [Instant Shutdown](https://open.spotify.com/track/0LxwxnfEmCgngLoULk0CTR) | [Birdstone](https://open.spotify.com/artist/10s9vPaMhzDYMqjwmxNr1t) | [The Great Anticipation](https://open.spotify.com/album/1ylkDNSrkbFMAW8MQC56Pn) | 6:13 | 2024-06-13 |  |
 | [Isabella Bird's Last Journey](https://open.spotify.com/track/2QGBWtn7Bt0EsicCZlguhd) | [Apart](https://open.spotify.com/artist/1VGohhkVWe2cCk6Ks9TChB) | [Through the Cracks](https://open.spotify.com/album/5wmh8ClUdmaK3ST24NHRn9) | 3:35 | 2024-05-09 |  |
 | [It Only Bothers You](https://open.spotify.com/track/69MwqSM07rdnCA89MNxzdL) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 4:03 | 2023-09-28 | 2023-11-10 |
-| [It's Gonna Be Alright](https://open.spotify.com/track/1adglBbuQQaCbUORdvYjdZ) | [Edgär](https://open.spotify.com/artist/2O7MXaIBC2VqFGOF1ygZsO) | [It's Gonna Be Alright](https://open.spotify.com/album/4hgCmtgWCyXZHDggCKetE4) | 3:05 | 2024-02-01 |  |
+| [It's Gonna Be Alright](https://open.spotify.com/track/1adglBbuQQaCbUORdvYjdZ) | [Edgär](https://open.spotify.com/artist/2O7MXaIBC2VqFGOF1ygZsO) | [It's Gonna Be Alright](https://open.spotify.com/album/4hgCmtgWCyXZHDggCKetE4) | 3:05 | 2024-02-01 | 2024-06-21 |
 | [It’s not the end](https://open.spotify.com/track/4w6UY7JZIF75TgLWPybfUm) | [Caesaria](https://open.spotify.com/artist/3GWHmhaBl7Lx4hygni7di3) | [It’s not the end](https://open.spotify.com/album/3W9KQvrIlQ44f9PGuAx0ac) | 3:10 | 2024-02-15 | 2024-03-22 |
 | [JACK IS A SOCIOPATH](https://open.spotify.com/track/780GSelCfBHsMGof0SiPvm) | [W!ZARD](https://open.spotify.com/artist/3E7Z5zzigflRAScfu3gigd) | [JACK IS A SOCIOPATH](https://open.spotify.com/album/6j04zM167yp6INtUTKHdej) | 3:58 | 2024-02-08 | 2024-03-22 |
 | [Jaded](https://open.spotify.com/track/7Mo2zhkWeVUb9ijJoITHNQ) | [Hype Lights](https://open.spotify.com/artist/2npU68D7kt0LE5zdDZYFJo) | [Jaded](https://open.spotify.com/album/6HnzYhHRAY1aUYwbNd8r6b) | 3:08 | 2024-02-29 | 2024-04-19 |
@@ -161,6 +161,7 @@
 | [Rosie](https://open.spotify.com/track/7oq7adFTDnz7IYMjOCCaEI) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Rosie](https://open.spotify.com/album/6vthyj2qxtKwzuTSZZWJWD) | 2:58 | 2024-04-18 | 2024-06-01 |
 | [Rules Bulls Bells](https://open.spotify.com/track/70RBWtoY36xVfOiRic5toh) | [Johnny Mafia](https://open.spotify.com/artist/7iM6UV8wXD4l2bS2QxdOPY) | [Rules Bulls Bells](https://open.spotify.com/album/2P64XDf3jrkyiMulj0ZHUo) | 3:29 | 2024-01-25 | 2024-03-08 |
 | [Running Out Of Time](https://open.spotify.com/track/5VUCoNhF7GjWKLClT4ZEwa) | [Dirty Fonzy](https://open.spotify.com/artist/2o8W6N7UkMBsAeVmyRYW4Y) | [Full Speed Ahead](https://open.spotify.com/album/18K13PNqBlXauJxLZpN65v) | 3:39 | 2023-12-08 | 2023-12-22 |
+| [Sail Away](https://open.spotify.com/track/1zBKzHhW0JDglXhGuI0Yzh) | [Two Trains Left](https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn), [Chunk! No](https://open.spotify.com/artist/2RJG77zJneqMFlxdK8U2FK), [Captain Chunk!](https://open.spotify.com/artist/7LebJKbIfOpFYYiAaAGEw1) | [Sail Away](https://open.spotify.com/album/7LHNEaG4vAGmD9vCO0gRrt) | 3:17 | 2024-06-20 |  |
 | [Sassy Sunday](https://open.spotify.com/track/1R1N8GhNKdBS3FZXatFuXn) | [Villa Scandal](https://open.spotify.com/artist/0L6WTtHcGGRPP8JKQHkAhW) | [Sassy Sunday](https://open.spotify.com/album/7tVtlnZ2lVOter8U8gJmcy) | 3:11 | 2023-09-28 | 2023-11-17 |
 | [Satin Fields](https://open.spotify.com/track/2QGEFaga6yyx981dA0dnYG) | [Holydanger](https://open.spotify.com/artist/0DFV3qOyMWdIbKTbHbEqFh) | [Satin Fields](https://open.spotify.com/album/36jIxj7kbRayVs0hL6fUIS) | 4:09 | 2023-09-28 | 2023-10-20 |
 | [SCARS](https://open.spotify.com/track/3TKuILixxJfr2Ug32K8XfQ) | [Greyborn](https://open.spotify.com/artist/5hV2xBm2AojCQ0EF6jDqis) | [SCARS](https://open.spotify.com/album/6fhlUL41Bioxe3i6Rm1eNg) | 6:15 | 2024-03-14 | 2024-06-01 |
@@ -224,9 +225,11 @@
 | [Villains](https://open.spotify.com/track/63GDtWCM1asvKArbBLxLxi) | [Whim Therapy](https://open.spotify.com/artist/5AKY45d5N3kOFln1vXsQ5h), [Maddy Street](https://open.spotify.com/artist/4UEp8kk8DemApYH9rTopcQ) | [Villains](https://open.spotify.com/album/2ya7UANtfIYibL2V5HodKV) | 2:27 | 2024-04-18 |  |
 | [Vomit Candy](https://open.spotify.com/track/21ir1Jx963He5dvy6WeFg5) | [Johnny Mafia](https://open.spotify.com/artist/7iM6UV8wXD4l2bS2QxdOPY) | [Vomit Candy](https://open.spotify.com/album/3enD08oLyPBEvFL5vSufJF) | 2:43 | 2023-12-08 | 2024-01-26 |
 | [Wake Up And Run](https://open.spotify.com/track/1EIafjiwfoNU83IiSGJgF2) | [Headcharger](https://open.spotify.com/artist/34M4LcAKFb4852Iigq7BNv) | [Wake Up And Run](https://open.spotify.com/album/6aqGXCLhXYxFsUpuXOw69T) | 3:28 | 2024-05-30 |  |
+| [Wasted](https://open.spotify.com/track/1v7EnFmEQkRFj3ilzUElwq) | [GRENADE](https://open.spotify.com/artist/3iA64D60HnedIfGDqHmKYW) | [Wasted](https://open.spotify.com/album/34VGAwtVtYRtvwD27nynjX) | 2:29 | 2024-06-20 |  |
 | [Waves](https://open.spotify.com/track/4WpUZBuBcn0hH030KXCiwC) | [Circles](https://open.spotify.com/artist/40vMufIdvhPS4VFosKdDGD) | [Still.](https://open.spotify.com/album/683xxhxOF8nzxm5Yk4koud) | 2:49 | 2024-02-15 | 2024-03-22 |
 | [Way Out](https://open.spotify.com/track/4cXCGpq7YnBvu1bvhfXml2) | [Hype Lights](https://open.spotify.com/artist/2npU68D7kt0LE5zdDZYFJo) | [Way Out](https://open.spotify.com/album/6ZdRCRrFYUPx5mVc5FtLpW) | 4:03 | 2024-05-23 |  |
 | [Way Out \(Bonus Track, OMPS Version\)](https://open.spotify.com/track/3gCw4Cs3Try7p0WNmVkpe9) | [Last Train](https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG) | [Original Motion Picture Soundtrack](https://open.spotify.com/album/2CpTPFpP1BYhVJhAQnzCR0) | 4:19 | 2024-05-16 |  |
+| [We Want Some Rock'n'Roll](https://open.spotify.com/track/6G6JwN19YV5NEeLovloTY5) | [The Red Goes Black](https://open.spotify.com/artist/12BYA91BSCxjbk1b638nlR) | [We Want Some Rock'n'Roll](https://open.spotify.com/album/6wh5q40X8vJvPRK7BkoS1I) | 3:25 | 2024-06-20 |  |
 | [Welcome Back \- First Edit](https://open.spotify.com/track/4pLiJIhQYqKBmYukO7qVdU) | [EllSide](https://open.spotify.com/artist/6PxSIYmViSAALyISijBrW7) | [Welcome Back \(First Edit\)](https://open.spotify.com/album/595ts2ZuIpCoNaWNMdlRQQ) | 3:56 | 2024-01-18 | 2024-03-15 |
 | [WELCOME TO AMERICA](https://open.spotify.com/track/3zgrOmeYSZsn3K6WKjr7ih) | [Silmarils](https://open.spotify.com/artist/03X1ph7ZGfqb3W3Ld5lJKH) | [WELCOME TO AMERICA](https://open.spotify.com/album/50P9M5GO9hBM28cDDnMXcq) | 2:41 | 2023-09-28 | 2023-10-13 |
 | [What A Life](https://open.spotify.com/track/23g7JXPRidvXvuPTsetgwI) | [Johnnie Carwash](https://open.spotify.com/artist/6QrdWAI9FMyVqBIKcecUD0) | [What A Life](https://open.spotify.com/album/2XQGjToeh7CxcEKZQ2tCMu) | 2:30 | 2024-03-28 | 2024-04-12 |

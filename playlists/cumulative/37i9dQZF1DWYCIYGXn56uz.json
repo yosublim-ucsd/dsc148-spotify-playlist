@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: ANNA",
+  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: bnkr44",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -512,7 +512,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 171775,
       "name": "Ancora",
       "url": "https://open.spotify.com/track/7kvQDzIegURcWHLC0fZfrQ"
@@ -798,6 +798,24 @@
       "duration_ms": 173953,
       "name": "Balla Adrenalina",
       "url": "https://open.spotify.com/track/3EMTN0y6mBpVod7qd33sDa"
+    },
+    {
+      "album": {
+        "name": "Balleremo",
+        "url": "https://open.spotify.com/album/2SyHV5TkkeL8DvWUmEZo50"
+      },
+      "artists": [
+        {
+          "name": "LUNAR",
+          "url": "https://open.spotify.com/artist/5yE4UZ5hln5jeJs40vlvEK"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168224,
+      "name": "Balleremo",
+      "url": "https://open.spotify.com/track/11MRGCvw1h8TmNTFLDSoOX"
     },
     {
       "album": {
@@ -1736,7 +1754,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 165000,
       "name": "Come l'Italia e l'America",
       "url": "https://open.spotify.com/track/4KSby5Kv4rxDB2SS3SFaE7"
@@ -2111,6 +2129,24 @@
     },
     {
       "album": {
+        "name": "DESNUDA",
+        "url": "https://open.spotify.com/album/2lTfLDo6406WLjYUY9nUIM"
+      },
+      "artists": [
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174666,
+      "name": "DESNUDA",
+      "url": "https://open.spotify.com/track/35BRwHz18c75LnbPq1IvTQ"
+    },
+    {
+      "album": {
         "name": "Devastante",
         "url": "https://open.spotify.com/album/4kcXg1nme5PmpGe9Jqjd8n"
       },
@@ -2242,7 +2278,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 177769,
       "name": "DIMMI CHE NON \u00c8 UN ADDIO",
       "url": "https://open.spotify.com/track/3nIDXarK9FuClYwZQTSoK2"
@@ -2982,7 +3018,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 189193,
       "name": "FRAGILI",
       "url": "https://open.spotify.com/track/6mhZd9yNJpyT2Qynx9FuhI"
@@ -3146,6 +3182,42 @@
       "duration_ms": 119274,
       "name": "giusti nei momenti sbagliati",
       "url": "https://open.spotify.com/track/5JRfYMzHxPVikYYOWEBKUn"
+    },
+    {
+      "album": {
+        "name": "GLI ZOMBIE DELLA NOTTE",
+        "url": "https://open.spotify.com/album/2dGMqjy8gH7i4jRDSm3izs"
+      },
+      "artists": [
+        {
+          "name": "AYLE",
+          "url": "https://open.spotify.com/artist/1wUNmZVzUk16mfV42YY1eE"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "GLI ZOMBIE DELLA NOTTE",
+      "url": "https://open.spotify.com/track/0zwovJ1ZxCaIkAGil34QiD"
+    },
+    {
+      "album": {
+        "name": "Gocce di Limone",
+        "url": "https://open.spotify.com/album/24gE8Qn8jzKvjvKoymmt99"
+      },
+      "artists": [
+        {
+          "name": "Alex Wyse",
+          "url": "https://open.spotify.com/artist/4ZRTfGCmMJ305FMDCiD1cZ"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157078,
+      "name": "Gocce di Limone",
+      "url": "https://open.spotify.com/track/65CCHElK6emN1k1o2KpEwM"
     },
     {
       "album": {
@@ -4288,7 +4360,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 226464,
       "name": "MA CHE IDEA (feat. Pino D'Angi\u00f2)",
       "url": "https://open.spotify.com/track/1kKccj5wYXTj3gTpUIMoac"
@@ -4923,6 +4995,32 @@
     },
     {
       "album": {
+        "name": "New Date (feat. Don Pero, CoCo)",
+        "url": "https://open.spotify.com/album/0cV8EqMkPdAivkRmFQ1uHo"
+      },
+      "artists": [
+        {
+          "name": "Timon",
+          "url": "https://open.spotify.com/artist/4pQprwhppwLQDnYkXVNCHp"
+        },
+        {
+          "name": "CoCo",
+          "url": "https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM"
+        },
+        {
+          "name": "Don Pero",
+          "url": "https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165680,
+      "name": "New Date (feat. Don Pero, CoCo)",
+      "url": "https://open.spotify.com/track/0RUzwtbvoASM5AVKRcmyYR"
+    },
+    {
+      "album": {
         "name": "niente",
         "url": "https://open.spotify.com/album/31KUQDz09OrNeF5bW0MeSz"
       },
@@ -5392,7 +5490,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 169483,
       "name": "NUVOLA",
       "url": "https://open.spotify.com/track/305DlkOzRc0TYoKQr00Kud"
@@ -6899,6 +6997,32 @@
     },
     {
       "album": {
+        "name": "DIO LO SA",
+        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Dat Boi Dee",
+          "url": "https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x"
+        },
+        {
+          "name": "Poison Beatz",
+          "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205840,
+      "name": "SI STAT\u2019 TU",
+      "url": "https://open.spotify.com/track/6s5DJ2zRf9T3A2VidCCHxZ"
+    },
+    {
+      "album": {
         "name": "Si \u00e8 spenta anche la luna - LUNA",
         "url": "https://open.spotify.com/album/0XMf0lGQAJmxdo2r9x1ob0"
       },
@@ -7415,6 +7539,24 @@
     },
     {
       "album": {
+        "name": "Tango",
+        "url": "https://open.spotify.com/album/5yfi4ehFr9Cci75IdsFnui"
+      },
+      "artists": [
+        {
+          "name": "Anto Paga",
+          "url": "https://open.spotify.com/artist/2EdLV4ftq7Ks8dR7roTHrq"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131576,
+      "name": "Tango",
+      "url": "https://open.spotify.com/track/4NFjPwig4QrR4el2g3aZcq"
+    },
+    {
+      "album": {
         "name": "TANGO",
         "url": "https://open.spotify.com/album/2VeUug1nI8PtdE5996fhcs"
       },
@@ -7908,7 +8050,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 160000,
       "name": "UN MILIONE DI NOTTI",
       "url": "https://open.spotify.com/track/2ro9FlKCYKTLHB6Ke7Uqld"

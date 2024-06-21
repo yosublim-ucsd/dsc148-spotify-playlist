@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Yoa",
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Olympe Chabert",
   "name": "Couleur Pop",
   "tracks": [
     {
@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Bad boy malheureux",
+        "url": "https://open.spotify.com/album/0ICKCzueAH2mN4nCbUr1eD"
+      },
+      "artists": [
+        {
+          "name": "Olympe Chabert",
+          "url": "https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174880,
+      "name": "Bad boy malheureux",
+      "url": "https://open.spotify.com/track/2k97hRZibwZ37AqZK94hDN"
+    },
+    {
+      "album": {
         "name": "Baiser Amer",
         "url": "https://open.spotify.com/album/7LP6H3F3QX3p3rCWecqbLK"
       },
@@ -488,6 +506,24 @@
       "duration_ms": 179428,
       "name": "BOY",
       "url": "https://open.spotify.com/track/3uGqac4MPTi2gV5LyNQOMz"
+    },
+    {
+      "album": {
+        "name": "Bris\u00e9es",
+        "url": "https://open.spotify.com/album/6QPKe9umwU1cNYqefQakdb"
+      },
+      "artists": [
+        {
+          "name": "Marguerite Thiam",
+          "url": "https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196442,
+      "name": "Bris\u00e9es",
+      "url": "https://open.spotify.com/track/4LP1eSmHnz4zuOUWzBBrQs"
     },
     {
       "album": {
@@ -848,7 +884,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 185632,
       "name": "C\u00e9libataire",
       "url": "https://open.spotify.com/track/5NHRS577smnJUQ8OSinlzs"
@@ -1226,7 +1262,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 168720,
       "name": "fou",
       "url": "https://open.spotify.com/track/1FG0HeNkIK4bmj6W1iBg3B"
@@ -1262,7 +1298,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 141496,
       "name": "F\u00eate des ann\u00e9es 70",
       "url": "https://open.spotify.com/track/2C8FoGkNZ59r0e4tkVTby5"
@@ -1425,6 +1461,24 @@
     },
     {
       "album": {
+        "name": "j'ai tout rang\u00e9...",
+        "url": "https://open.spotify.com/album/3kvOWzmsHnZAwc9xJDTbKA"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9lie",
+          "url": "https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156386,
+      "name": "j'ai tout rang\u00e9...",
+      "url": "https://open.spotify.com/track/1uAxGjL6zMQrG3WH4kZqBd"
+    },
+    {
+      "album": {
         "name": "J'aime pas sortir",
         "url": "https://open.spotify.com/album/2QsJu8zj3GjP9bYvtKsR6C"
       },
@@ -1458,6 +1512,24 @@
       "duration_ms": 159920,
       "name": "J'aimerais danser avec toi",
       "url": "https://open.spotify.com/track/1fWvBuZBG7AomF8Qk27vMM"
+    },
+    {
+      "album": {
+        "name": "J'assume",
+        "url": "https://open.spotify.com/album/0DcCpwaaGTwPhKZTdiZp7u"
+      },
+      "artists": [
+        {
+          "name": "Elephanz",
+          "url": "https://open.spotify.com/artist/2CD8tl357w6zYA3XYuOJPO"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173643,
+      "name": "J'assume",
+      "url": "https://open.spotify.com/track/3sEOZuQzFqsXGDY9Oh6AF3"
     },
     {
       "album": {
@@ -2690,7 +2762,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 168226,
       "name": "Plus rien \u00e0 perdre",
       "url": "https://open.spotify.com/track/1imBbvEq9JCGmpYe9S4e4D"

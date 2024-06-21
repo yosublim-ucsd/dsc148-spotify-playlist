@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Michael Warren, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,516 likes - 197 songs - 10 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,572 likes - 197 songs - 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [two truths and a lie](https://open.spotify.com/track/0ITdZ5TyS2C5CtvMDkdnJQ) | [Ashley Anne](https://open.spotify.com/artist/4oAZAzn6NKRzLM8LTtrVsw) | [two truths and a lie](https://open.spotify.com/album/5dLEa9JCmkSw6XN5qqjgFI) | 3:18 |
-| 2 | [I Love You More Than Yesterday](https://open.spotify.com/track/3dPSHuGMORdds3vGmqPdJf) | [Duke Jones](https://open.spotify.com/artist/5lAlibypowIEyVk24Y2qw3), [Julia DiGrazia](https://open.spotify.com/artist/0Ehf1zrLQ5c6jn3CkdWRWs) | [I Love You More Than Yesterday](https://open.spotify.com/album/0OBLmsq159JatD3k2RRRjZ) | 3:48 |
+| 2 | [I Love You More Than Yesterday](https://open.spotify.com/track/3dPSHuGMORdds3vGmqPdJf) | [Duke Jones](https://open.spotify.com/artist/5lAlibypowIEyVk24Y2qw3), [Julia DiGrazia](https://open.spotify.com/artist/3bz9DtEGIYBic48d2q5m4R) | [I Love You More Than Yesterday](https://open.spotify.com/album/0OBLmsq159JatD3k2RRRjZ) | 3:48 |
 | 3 | [Can't Trust This Truck \(feat\. Sean Stemaly\)](https://open.spotify.com/track/57Rd93qywusgpOJvL2ZZtt) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez), [Sean Stemaly](https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb) | [To Be Honest...](https://open.spotify.com/album/3dJtS6Ts2v2se83wQPgcMb) | 2:34 |
 | 4 | [Off the Map](https://open.spotify.com/track/4D6SOP98ZKMs0pg4WDyDGu) | [Michael Warren](https://open.spotify.com/artist/4jaMlhvqHdr7aBdujxJ8Dq) | [Off the Map](https://open.spotify.com/album/4bnv6LEx079pjHJBACEosh) | 3:02 |
 | 5 | [Save My Soul](https://open.spotify.com/track/41vuNGM0cYTgNS4Bc1CJTA) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [After Dark](https://open.spotify.com/album/6cmq4aPxeJBH9pCJMjIA4N) | 5:07 |

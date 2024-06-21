@@ -493,6 +493,28 @@
     },
     {
       "album": {
+        "name": "2H S\u00c1NG",
+        "url": "https://open.spotify.com/album/1VNe801vS4PuCimgIYzPAl"
+      },
+      "artists": [
+        {
+          "name": "J Jade",
+          "url": "https://open.spotify.com/artist/2y83sgdSt6FCvmGdaxnKPj"
+        },
+        {
+          "name": "Billybitexco",
+          "url": "https://open.spotify.com/artist/1zwJTAiY0g4CCsd5vDNn9Q"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187147,
+      "name": "2H S\u00c1NG",
+      "url": "https://open.spotify.com/track/4N9VUbriKGD9WXSdNhknbM"
+    },
+    {
+      "album": {
         "name": "3 Con C\u00e1 M\u1eadp",
         "url": "https://open.spotify.com/album/7HISCu7JnTHQeduJXUMIzB"
       },
@@ -5905,6 +5927,28 @@
     },
     {
       "album": {
+        "name": "Ch\u1eb3ng Y\u00eau N\u1eefa R\u1ed3i",
+        "url": "https://open.spotify.com/album/1VnkbbmgM0Mqicdi9aQko0"
+      },
+      "artists": [
+        {
+          "name": "Aki Khoa",
+          "url": "https://open.spotify.com/artist/53JNMiVsONEvCbF6jHpwdk"
+        },
+        {
+          "name": "NB3 Ho\u00e0i B\u1ea3o",
+          "url": "https://open.spotify.com/artist/5QbDgpkghCaWjJywjbJnoG"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322105,
+      "name": "Ch\u1eb3ng Y\u00eau N\u1eefa R\u1ed3i",
+      "url": "https://open.spotify.com/track/3GXV6Fwh9cvyLHohFh6AuO"
+    },
+    {
+      "album": {
         "name": "Ch\u1ebft Trong Tim",
         "url": "https://open.spotify.com/album/3xm6giZHros407cYbevu0a"
       },
@@ -6810,7 +6854,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 206750,
       "name": "Craven A",
       "url": "https://open.spotify.com/track/07MVlkBvMwnmDHV2qgDHen"
@@ -12967,6 +13011,24 @@
     },
     {
       "album": {
+        "name": "H\u1eb3n L\u00e0 Y\u00eau",
+        "url": "https://open.spotify.com/album/2Hcx9u7PhuJGF9Thicanec"
+      },
+      "artists": [
+        {
+          "name": "Keyo",
+          "url": "https://open.spotify.com/artist/3v51tz8QfvAyKbA6rE6kTm"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "H\u1eb3n L\u00e0 Y\u00eau",
+      "url": "https://open.spotify.com/track/1PVJIfxrT8NuDDsGwuOIhT"
+    },
+    {
+      "album": {
         "name": "H\u1eb9n Em Ki\u1ebfp Sau",
         "url": "https://open.spotify.com/album/2qjGggrWQi8PZ9WLUguZMs"
       },
@@ -13574,7 +13636,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 236000,
       "name": "iWantU",
       "url": "https://open.spotify.com/track/165yFknh1zLYKwSeGBTnLy"
@@ -17986,7 +18048,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 252333,
       "name": "M\u00f9a Y\u00eau \u0110\u1ea7u",
       "url": "https://open.spotify.com/track/7G5jol20YthaUu3JKzqoBJ"
@@ -24422,7 +24484,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 148846,
       "name": "STORY",
       "url": "https://open.spotify.com/track/4mgkU2RnSWSknPLSgHhEGj"
@@ -26400,6 +26462,24 @@
       "duration_ms": 267179,
       "name": "Th\u1ea5u",
       "url": "https://open.spotify.com/track/2mErJ2iA6XKEH23lMs8h80"
+    },
+    {
+      "album": {
+        "name": "Th\u1ea5u Hi\u1ec3u",
+        "url": "https://open.spotify.com/album/4TZmVTx43b3NbIOSxDotba"
+      },
+      "artists": [
+        {
+          "name": "An V\u0169",
+          "url": "https://open.spotify.com/artist/0IBUlucigx80io4qV5fQ34"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296000,
+      "name": "Th\u1ea5u Hi\u1ec3u",
+      "url": "https://open.spotify.com/track/3cFOA7zgCHW7cGFgnqwjiD"
     },
     {
       "album": {
@@ -28820,7 +28900,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 236259,
       "name": "T\u1ec9nh Gi\u1ea5c",
       "url": "https://open.spotify.com/track/3oaqPPnxgRsyCmYsZcAbVb"
@@ -29064,7 +29144,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-21",
       "duration_ms": 184103,
       "name": "T\u1eeb Ph\u1ed1 X\u00e1",
       "url": "https://open.spotify.com/track/6TUTAapCtQByLthR2QD6FA"
@@ -29264,6 +29344,32 @@
       "duration_ms": 254625,
       "name": "U OH U OH",
       "url": "https://open.spotify.com/track/6bwB7bBl77O6QczQcmctCF"
+    },
+    {
+      "album": {
+        "name": "U See ?",
+        "url": "https://open.spotify.com/album/5I2EHGKrUnJnWs6bi6Rf4y"
+      },
+      "artists": [
+        {
+          "name": "Ed.Haaju",
+          "url": "https://open.spotify.com/artist/2rTC9u4k08gT9PFhemIHrp"
+        },
+        {
+          "name": "HuyenKi",
+          "url": "https://open.spotify.com/artist/4juI8Tldi01TWpO5ZrfUlN"
+        },
+        {
+          "name": "TANDAT",
+          "url": "https://open.spotify.com/artist/1uKzNHUPXYso6SVeXdeX98"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "U See ?",
+      "url": "https://open.spotify.com/track/1mufxqDbqHIPBwzaTmNS8s"
     },
     {
       "album": {
@@ -34108,6 +34214,24 @@
       "duration_ms": 185723,
       "name": "\u0110\u1eebng \u0110i M\u00e0",
       "url": "https://open.spotify.com/track/5i81BidjU5L5Iv1huU9Gcs"
+    },
+    {
+      "album": {
+        "name": "\u01a0 Th\u1ebf L\u00e0",
+        "url": "https://open.spotify.com/album/2uIByO5wJ5NEgHZWOVTpgf"
+      },
+      "artists": [
+        {
+          "name": "Kim Chi Sun",
+          "url": "https://open.spotify.com/artist/6R5x0FCE48rOtZjazPbRyh"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234078,
+      "name": "\u01a0 Th\u1ebf L\u00e0",
+      "url": "https://open.spotify.com/track/6lKKe2DNtxx2F13220bVYo"
     },
     {
       "album": {

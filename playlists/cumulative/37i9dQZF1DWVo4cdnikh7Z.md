@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Indian 2
 
-1,337 songs - 3 day 9 hr 43 min
+1,338 songs - 3 day 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -503,6 +503,7 @@
 | [Kannadi Nilave](https://open.spotify.com/track/6o6qco57cMAqBkSmoW68yP) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Ajai S Khashyap](https://open.spotify.com/artist/5dW8IcqAqgqrUNWEBYmj3A), [Saindhavi](https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit) | [DeAr \(Tamil\)](https://open.spotify.com/album/4R3ph8uR9ygLGq1Cz7MLEI) | 3:25 | 2024-04-18 |  |
 | [Kannae Chella Kannae](https://open.spotify.com/track/5NAsEYiJgKkfHd3FV9QF3y) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD), [Uthara Unnikrishnan](https://open.spotify.com/artist/1JBngqswTsCSvZ9eFVjnlO) | [Mission \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6vWF3oMRm5cglDC6fbbC4m) | 3:31 | 2024-01-31 | 2024-03-01 |
 | [Kannae Chella Kannae \(From "Mission"\)](https://open.spotify.com/track/1pEx0HSbtnSsJOzen8bkMY) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD), [Uthara Unnikrishnan](https://open.spotify.com/artist/1JBngqswTsCSvZ9eFVjnlO) | [Kannae Chella Kannae \(From "Mission"\)](https://open.spotify.com/album/7t7dBkOD8HDOmLELxaITHZ) | 3:31 | 2024-01-05 | 2024-02-28 |
+| [Kannalane \(From "DNA"\)](https://open.spotify.com/track/4bMW1UljYptRlm39dE83fz) | [Sharath](https://open.spotify.com/artist/6ZEokyhrLMceIJsQnmAYup), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Sukanya](https://open.spotify.com/artist/06xePXpCBom0jHrYBgDKmr) | [Kannalane \(From "DNA"\)](https://open.spotify.com/album/2YxNT5ZspVscpPuKczNrOH) | 4:31 | 2024-06-20 |  |
 | [Kannama](https://open.spotify.com/track/5OXXJA8UBeMCPCMmo4vlGV) | [Achu](https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY), [Ben Human](https://open.spotify.com/artist/03BpzhNt6c3zawtLdu90qn) | [Kannama](https://open.spotify.com/album/6UEMvM8PyOaLcufWcI8Wga) | 3:29 | 2022-08-02 | 2022-09-16 |
 | [Kannamma \(From "Kick"\)](https://open.spotify.com/track/3nMqALvWtTk6nc3GGEK6Wh) | [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv), [Gana Bala](https://open.spotify.com/artist/6HtEIJH43LAZGQx6iNCqhg) | [Kannamma \(From "Kick"\) \- Single](https://open.spotify.com/album/0pbGzlfamc5Qlb3z3t2Qlo) | 3:07 | 2022-12-15 | 2023-01-01 |
 | [Kannamma \(From "Siren"\)](https://open.spotify.com/track/3mxykGF4QyhpdXvdozzVUL) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [Kannamma \(From "Siren"\)](https://open.spotify.com/album/3IMIZdotCV0wWaTYpGRsDb) | 3:05 | 2024-02-07 | 2024-03-27 |
